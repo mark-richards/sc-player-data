@@ -1,0 +1,816 @@
+,Name,Type,#,DOB,Age,Height,Weight,Gm,SOO,Recruited from,team,short_team
+0,Rory Atkins,Mid-Med,21,"12 Jul, 1994",25 y 229 d,186 cm,85 kg,97,VIC,Calder Cannons,adelaidecrows,Adelaide
+1,Luke Brown,Def-Med-Gen,16,"22 Sep, 1992",27 y 157 d,181 cm,81 kg,150,SA,Norwood,adelaidecrows,Adelaide
+2,Brad Crouch,Mid-Med,2,"14 Jan, 1994",26 y 43 d,186 cm,85 kg,83,VIC,North Ballarat Rebels,adelaidecrows,Adelaide
+3,Matt Crouch,Mid-Med,5,"21 Apr, 1995",24 y 311 d,182 cm,80 kg,109,VIC,North Ballarat Rebels,adelaidecrows,Adelaide
+4,Ben Davis,Fwd-Med-Gen,40,"19 May, 1997",22 y 283 d,187 cm,85 kg,1,NSW,UNSW,adelaidecrows,Adelaide
+5,Tom Doedee,Def-Med-Key,39,"1 Mar, 1997",22 y 362 d,188 cm,88 kg,21,VIC,Geelong Falcons,adelaidecrows,Adelaide
+6,Darcy Fogarty,Util-Tall,32,"25 Sep, 1999",20 y 154 d,193 cm,94 kg,14,SA,Glenelg,adelaidecrows,Adelaide
+7,Billy Frampton,Ruck-Tall,22,"20 Nov, 1996",23 y 98 d,200 cm,90 kg,3,WA,South Fremantle,adelaidecrows,Adelaide
+8,Jordan Gallucci,Util-Med,7,"4 May, 1998",21 y 298 d,182 cm,78 kg,27,VIC,Eastern Ranges,adelaidecrows,Adelaide
+9,Bryce Gibbs,Mid-Med,6,"15 Mar, 1989",30 y 348 d,188 cm,84 kg,265,SA,Glenelg,adelaidecrows,Adelaide
+10,Lachlan Gollant,Mid-Tall,44,"12 Sep, 2001",18 y 167 d,189 cm,70 kg,,VIC,Calder Cannons,adelaidecrows,Adelaide
+11,Will Hamill,Def-Med-Gen,17,"17 Nov, 2000",19 y 101 d,186 cm,71 kg,,VIC,Dandenong Stingrays,adelaidecrows,Adelaide
+12,Kyle Hartigan,Def-Tall-Key,15,"7 Nov, 1991",28 y 111 d,194 cm,98 kg,101,VIC,Werribee  ,adelaidecrows,Adelaide
+13,Elliott Himmelberg,Util-Tall,34,"4 Jun, 1998",21 y 267 d,198 cm,96 kg,8,QLD,Redlands,adelaidecrows,Adelaide
+14,Chayce Jones,Mid-Smal,1,"14 Jan, 2000",20 y 43 d,180 cm,77 kg,8,TAS,Launceston,adelaidecrows,Adelaide
+15,Jake Kelly,Def-Med-Key,8,"21 Jan, 1995",25 y 36 d,190 cm,89 kg,75,VIC,Oakleigh Chargers,adelaidecrows,Adelaide
+16,Riley Knight,Mid-Med,3,"27 Mar, 1995",24 y 336 d,181 cm,80 kg,54,SA,Woodville-West Torrens,adelaidecrows,Adelaide
+17,Rory Laird,Def-Smal-Gen,29,"29 Dec, 1993",26 y 59 d,177 cm,81 kg,143,SA,West Adelaide,adelaidecrows,Adelaide
+18,Tom T. Lynch,Fwd-Tall-Gen,27,"15 Sep, 1990",29 y 164 d,193 cm,88 kg,139,VIC,Sandringham Dragons,adelaidecrows,Adelaide
+19,David Mackay,Mid-Med,14,"25 Jul, 1988",31 y 216 d,181 cm,78 kg,220,VIC,Oakleigh,adelaidecrows,Adelaide
+20,Shane McAdam,Fwd-Med-Gen,23,"28 May, 1995",24 y 274 d,181 cm,78 kg,,WA,Sturt,adelaidecrows,Adelaide
+21,Fischer McAsey,Def-Tall-Key,35,"8 Mar, 2001",18 y 355 d,195 cm,86 kg,,VIC,Sandringham Dragons,adelaidecrows,Adelaide
+22,Ned McHenry,Mid-Med,25,"13 Jul, 2000",19 y 228 d,179 cm,70 kg,,VIC,Geelong Falcons,adelaidecrows,Adelaide
+23,Andrew McPherson,Def-Med-Gen,36,"20 Jun, 1999",20 y 251 d,186 cm,79 kg,,SA,Woodville West Torrens,adelaidecrows,Adelaide
+24,Wayne Milera,Fwd-Med-Gen,30,"14 Sep, 1997",22 y 165 d,184 cm,81 kg,60,SA,Central Districts,adelaidecrows,Adelaide
+25, Lachlan Murphy,Def-Smal-Gen,4,"4 Dec, 1998",21 y 84 d,176 cm,76 kg,32,SA,Adelaide FC,adelaidecrows,Adelaide
+26,Reilly O'Brien,Ruck-Tall,43,"20 Aug, 1995",24 y 190 d,202 cm,101 kg,20,VIC,Calder Cannons,adelaidecrows,Adelaide
+27,Ronin O'Connor,Mid-Tall,37,"1 Feb, 2001",19 y 25 d,191 cm,85 kg,,WA,Claremont,adelaidecrows,Adelaide
+28,Myles Poholke,Util-Med,10,"10 Jul, 1998",21 y 231 d,186 cm,86 kg,11,VIC,Dandenong Stingrays,adelaidecrows,Adelaide
+29,Harry Schoenberg,Mid-Med,26,"21 Feb, 2001",19 y 5 d,180 cm,78 kg,,SA,Woodville-West Torrens,adelaidecrows,Adelaide
+30,Paul Seedsman,Mid-Med,11,"22 Jan, 1992",28 y 35 d,190 cm,87 kg,101,VIC,Eastern Ranges,adelaidecrows,Adelaide
+31,Lachlan Sholl,Def-Med-Gen,38,"7 Mar, 2000",19 y 356 d,185 cm,77 kg,,VIC,Calder Cannons,adelaidecrows,Adelaide
+32,Rory Sloane,Mid-Med,9,"17 Mar, 1990",29 y 346 d,182 cm,83 kg,199,VIC,Eastern Ranges,adelaidecrows,Adelaide
+33,Brodie Smith,Def-Med-Gen,33,"14 Jan, 1992",28 y 43 d,189 cm,90 kg,167,SA,Woodville West Torrens,adelaidecrows,Adelaide
+34,Tyson Stengle,Fwd-Smal-Gen,18,"19 Oct, 1998",21 y 130 d,172 cm,73 kg,4,SA,Woodville-West Torrens,adelaidecrows,Adelaide
+35,Daniel Talia,Def-Tall-Key,12,"2 Oct, 1991",28 y 147 d,197 cm,98 kg,186,VIC,Calder Cannons,adelaidecrows,Adelaide
+36,Taylor Walker,Fwd-Tall-Key,13,"25 Apr, 1990",29 y 307 d,193 cm,100 kg,189,NSW,Broken Hill North,adelaidecrows,Adelaide
+37,Joshua Worrell,Def-Tall-Key,24,"11 Apr, 2001",18 y 321 d,195 cm,74 kg,,VIC,Sandringham Dragons,adelaidecrows,Adelaide
+38, Jordon Butts,Def-Tall-Key,41,"31 Dec, 1999",20 y 57 d,198 cm,83 kg,,VIC,Murray Bushrangers,adelaidecrows,Adelaide
+39, Ben Crocker,Fwd-Med-Gen,20,"19 Feb, 1997",23 y 7 d,188 cm,84 kg,26,VIC,Oakleigh Chargers,adelaidecrows,Adelaide
+40, Ben Keays,Fwd-Med-Gen,28,"23 Feb, 1997",23 y 3 d,185 cm,89 kg,30,QLD,Redlands,adelaidecrows,Adelaide
+41, Kieran Strachan,Ruck-Tall,45,"5 Oct, 1995",24 y 144 d,204 cm,95 kg,,VIC,Port Melbourne,adelaidecrows,Adelaide
+42, Patrick Wilson,Util-Med,31,"11 Dec, 1994",25 y 77 d,188 cm,89 kg,2,SA,Sturt,adelaidecrows,Adelaide
+0,Marcus Adams,Def-Tall-Key,24,"30 Jun, 1993",26 y 241 d,192 cm,93 kg,35,WA,West Perth ,brisbanelions,Brisbane
+1,Callum Ah Chee,Fwd-Med-Gen,4,"9 Oct, 1997",22 y 140 d,182 cm,78 kg,45,WA,South Fremantle,brisbanelions,Brisbane
+2,Harris Andrews,Def-Tall-Key,31,"11 Dec, 1996",23 y 77 d,201 cm,100 kg,95,QLD,Aspley,brisbanelions,Brisbane
+3,Noah Answerth,Def-Med-Gen,43,"6 Aug, 1999",20 y 204 d,182 cm,82 kg,17,VIC,Oakleigh Chargers,brisbanelions,Brisbane
+4,Zac Bailey,Mid-Med,33,"23 Sep, 1999",20 y 156 d,182 cm,83 kg,25,NT,Southern Districts,brisbanelions,Brisbane
+5,Connor Ballenden,Def-Tall-Key,38,"29 Mar, 1999",20 y 334 d,200 cm,101 kg,,QLD,Wests Juniors,brisbanelions,Brisbane
+6,Jarrod Berry,Util-Tall,7,"5 Feb, 1998",22 y 21 d,193 cm,89 kg,55,VIC,North Ballarat Rebels,brisbanelions,Brisbane
+7,Tom Berry,Fwd-Med-Gen,13,"1 May, 2000",19 y 301 d,185 cm,76 kg,,VIC,GWV Rebels,brisbanelions,Brisbane
+8,Grant Birchall,Def-Tall-Gen,14,"28 Jan, 1988",32 y 29 d,193 cm,89 kg,247,TAS,Devonport,brisbanelions,Brisbane
+9,Charlie Cameron,Fwd-Smal-Gen,23,"5 Jul, 1994",25 y 236 d,181 cm,74 kg,106,WA,Swan Districts,brisbanelions,Brisbane
+10,Allen Christensen,Fwd-Smal-Gen,3,"19 May, 1991",28 y 283 d,176 cm,79 kg,130,VIC,Geelong Falcons,brisbanelions,Brisbane
+11,Keidean Coleman,Fwd-Med-Gen,18,"31 Mar, 2000",19 y 332 d,182 cm,75 kg,,QLD,Brisbane,brisbanelions,Brisbane
+12,Cedric Cox,Def-Med-Gen,20,"19 Aug, 1997",22 y 191 d,183 cm,82 kg,13,VIC,North Ballarat Rebels,brisbanelions,Brisbane
+13,Cam Ellis-Yolmen,Mid-Med,28,"28 Jan, 1993",27 y 29 d,190 cm,96 kg,39,SA,Woodville-West Torrens,brisbanelions,Brisbane
+14,Darcy Gardiner,Def-Tall-Key,27,"22 Sep, 1995",24 y 157 d,193 cm,92 kg,104,VIC,Geelong Falcons,brisbanelions,Brisbane
+15,Mitchell Hinge,Mid-Med,22,"26 Jun, 1998",21 y 245 d,190 cm,84 kg,2,SA,Glenelg,brisbanelions,Brisbane
+16,Eric Hipwood,Fwd-Tall-Key,30,"13 Sep, 1997",22 y 166 d,204 cm,90 kg,73,QLD,Aspley,brisbanelions,Brisbane
+17,Tom Joyce,Mid-Med,32,"7 Mar, 2000",19 y 356 d,180 cm,86 kg,,WA,East Fremantle,brisbanelions,Brisbane
+18,Ryan Lester,Util-Tall,35,"26 Aug, 1992",27 y 184 d,192 cm,85 kg,126,VIC,Oakleigh Chargers,brisbanelions,Brisbane
+19,Jarryd Lyons,Mid-Med,17,"22 Jul, 1992",27 y 219 d,184 cm,84 kg,114,VIC,Sandringham Dragons,brisbanelions,Brisbane
+20,Stefan Martin,Ruck-Tall,12,"17 Nov, 1986",33 y 101 d,199 cm,104 kg,180,VIC,Sandringham,brisbanelions,Brisbane
+21,Rhys Mathieson,Mid-Med,36,"10 Jan, 1997",23 y 47 d,188 cm,87 kg,46,VIC,Geelong Falcons,brisbanelions,Brisbane
+22,Lincoln McCarthy,Fwd-Smal-Gen,11,"22 Oct, 1993",26 y 127 d,176 cm,84 kg,50,SA,Glenelg,brisbanelions,Brisbane
+23,Hugh McCluggage,Mid-Med,6,"3 Mar, 1998",21 y 360 d,187 cm,85 kg,61,VIC,North Ballarat Rebels,brisbanelions,Brisbane
+24,Connor McFadyen,Fwd-Tall-Gen,26,"4 Dec, 2000",19 y 84 d,190 cm,81 kg,,QLD,Brisbane Academy,brisbanelions,Brisbane
+25,Oscar McInerney,Ruck-Tall,46,"10 Jul, 1994",25 y 231 d,205 cm,107 kg,35,VIC,Casey Scorpions,brisbanelions,Brisbane
+26,Daniel McStay,Util-Tall,25,"24 Jun, 1995",24 y 247 d,195 cm,100 kg,101,VIC,Eastern Ranges,brisbanelions,Brisbane
+27,Lachie Neale,Mid-Smal,9,"24 May, 1993",26 y 278 d,177 cm,85 kg,156,SA,Glenelg,brisbanelions,Brisbane
+28,Jack Payne,Def-Tall-Key,40,"15 Oct, 1999",20 y 134 d,197 cm,101 kg,,QLD,Noosa,brisbanelions,Brisbane
+29,Jaxon Prior,Def-Med-Gen,45,"4 Jun, 2001",18 y 267 d,188 cm,79 kg,,WA,West Perth,brisbanelions,Brisbane
+30,Cameron Rayner,Mid-Med,16,"21 Oct, 1999",20 y 128 d,187 cm,90 kg,44,VIC,Western Jets,brisbanelions,Brisbane
+31,Daniel Rich,Def-Med-Gen,10,"7 Jun, 1990",29 y 264 d,183 cm,87 kg,205,WA,Subiaco,brisbanelions,Brisbane
+32,Deven Robertson,Mid-Med,2,"30 Jun, 2001",18 y 241 d,182 cm,80 kg,,WA,Perth,brisbanelions,Brisbane
+33,Mitch Robinson,Mid-Med,5,"7 Jun, 1989",30 y 264 d,184 cm,90 kg,190,TAS,Lauderdale,brisbanelions,Brisbane
+34,Brock Smith,Def-Med-Gen,1,"13 Mar, 2001",18 y 350 d,188 cm,81 kg,,VIC,Gippsland Power,brisbanelions,Brisbane
+35,Ely Smith,Mid-Med,8,"13 Sep, 2000",19 y 166 d,187 cm,86 kg,,VIC,Murray Bushrangers,brisbanelions,Brisbane
+36,Brandon Starcevich,Mid-Med,37,"24 Jul, 1999",20 y 217 d,188 cm,88 kg,5,WA,East Perth,brisbanelions,Brisbane
+37,Alex Witherden,Def-Med-Gen,29,"10 Sep, 1998",21 y 169 d,188 cm,85 kg,51,VIC,Geelong Falcons,brisbanelions,Brisbane
+38,Toby Wooller,Fwd-Tall-Key,34,"16 Mar, 1999",20 y 347 d,195 cm,88 kg,,VIC,Oakleigh Chargers,brisbanelions,Brisbane
+39,Dayne Zorko,Mid-Smal,15,"9 Feb, 1989",31 y 17 d,175 cm,78 kg,166,QLD,Broadbeach,brisbanelions,Brisbane
+40, Jacob Allison,Util-Tall,19,"16 Apr, 1998",21 y 316 d,195 cm,87 kg,10,QLD,Brisbane Academy,brisbanelions,Brisbane
+41, Tom Fullarton,Ruck-Tall,47,"23 Feb, 1999",21 y 3 d,199 cm,92 kg,,QLD,Brisbane Bullets,brisbanelions,Brisbane
+42, Corey Lyons,Mid-Med,39,"31 May, 1998",21 y 271 d,184 cm,83 kg,,VIC,Sandringham Dragons,brisbanelions,Brisbane
+43, James Madden,Mid-Med,42,"15 Nov, 1999",20 y 103 d,186 cm,85 kg,,N/A,Dublin,brisbanelions,Brisbane
+44, Sam Skinner,Util-Tall,21,"29 Jun, 1997",22 y 242 d,198 cm,100 kg,1,VIC,Gippsland Power,brisbanelions,Brisbane
+45, Archie Smith,Ruck-Tall,44,"19 Jul, 1995",24 y 222 d,203 cm,104 kg,11,QLD,Mt Gravatt,brisbanelions,Brisbane
+0,Eddie Betts,Fwd-Smal-Gen,19,"26 Nov, 1986",33 y 92 d,174 cm,74 kg,316,VIC,Calder Cannons,carltonblues,Carlton
+1,Levi Casboult,Fwd-Tall-Key,41,"15 Mar, 1990",29 y 348 d,201 cm,101 kg,124,VIC,Dandenong Stingrays,carltonblues,Carlton
+2,Matthew Cottrell,Mid-Med,46,"29 Feb, 2000",19 y 362 d,181 cm,72 kg,,VIC,Dandenong Stingrays,carltonblues,Carlton
+3,Patrick Cripps,Mid-Med,9,"18 Mar, 1995",24 y 345 d,195 cm,92 kg,101,WA,East Fremantle,carltonblues,Carlton
+4,David Cuningham,Mid-Med,28,"30 Mar, 1997",22 y 333 d,185 cm,85 kg,25,VIC,Oakleigh Chargers,carltonblues,Carlton
+5,Charlie Curnow,Fwd-Tall-Key,30,"3 Feb, 1997",23 y 23 d,192 cm,96 kg,58,VIC,Geelong Falcons,carltonblues,Carlton
+6,Ed Curnow,Mid-Med,35,"7 Nov, 1989",30 y 111 d,180 cm,85 kg,165,VIC,Geelong Falcons,carltonblues,Carlton
+7,Tom De Koning,Util-Tall,12,"16 Jul, 1999",20 y 225 d,203 cm,97 kg,2,VIC,Dandenong Stingrays,carltonblues,Carlton
+8,Sam Docherty,Def-Med-Gen,15,"17 Oct, 1993",26 y 132 d,187 cm,87 kg,92,VIC,Gippsland Power,carltonblues,Carlton
+9,Paddy Dow,Mid-Med,2,"16 Oct, 1999",20 y 133 d,187 cm,83 kg,39,VIC,Bendigo Pioneers,carltonblues,Carlton
+10,Zac Fisher,Mid-Smal,25,"15 Jun, 1998",21 y 256 d,177 cm,75 kg,55,WA,Perth,carltonblues,Carlton
+11,Michael Gibbons,Mid-Smal,40,"15 May, 1995",24 y 287 d,175 cm,75 kg,21,VIC,Williamstown,carltonblues,Carlton
+12, Hugh Goddard,Def-Tall-Key,45,"24 Aug, 1996",23 y 186 d,198 cm,94 kg,12,VIC,Geelong Falcons,carltonblues,Carlton
+13,Liam Jones,Fwd-Tall-Key,14,"24 Feb, 1991",29 y 2 d,199 cm,97 kg,125,VIC,Scotch College,carltonblues,Carlton
+14,Brodie Kemp,Util-Tall,17,"1 May, 2001",18 y 301 d,192 cm,82 kg,,VIC,Bendigo Pioneers,carltonblues,Carlton
+15,Matthew Kennedy,Mid-Med,7,"6 Apr, 1997",22 y 326 d,190 cm,88 kg,41,NSW,Collingullie,carltonblues,Carlton
+16,Matthew Kreuzer,Util-Tall,8,"13 May, 1989",30 y 289 d,200 cm,101 kg,188,VIC,Northern Knights,carltonblues,Carlton
+17,Darcy Lang,Fwd-Med-Gen,16,"21 Nov, 1995",24 y 97 d,183 cm,83 kg,63,VIC,Geelong Falcons,carltonblues,Carlton
+18,Harrison Macreadie,Def-Tall-Key,26,"11 Apr, 1998",21 y 321 d,198 cm,92 kg,9,NSW,Henty,carltonblues,Carlton
+19,Caleb Marchbank,Def-Tall-Key,22,"7 Dec, 1996",23 y 81 d,193 cm,93 kg,48,VIC,Murray Bushrangers,carltonblues,Carlton
+20,Jack Martin,Def-Med-Gen,21,"29 Jan, 1995",25 y 28 d,186 cm,83 kg,97,WA,Claremont,carltonblues,Carlton
+21,Mitch McGovern,Fwd-Tall-Key,11,"11 Oct, 1994",25 y 138 d,191 cm,93 kg,64,WA,Claremont,carltonblues,Carlton
+22,Harry McKay,Fwd-Tall-Key,10,"24 Dec, 1997",22 y 64 d,204 cm,99 kg,35,VIC,Gippsland Power,carltonblues,Carlton
+23,Marc Murphy,Mid-Med,3,"19 Jul, 1987",32 y 222 d,180 cm,80 kg,268,VIC,Oakleigh Chargers,carltonblues,Carlton
+24,Nic Newman,Def-Med-Gen,24,"15 Jan, 1993",27 y 42 d,187 cm,83 kg,51,VIC,Frankston,carltonblues,Carlton
+25,Jack Newnes,Mid-Med,32,"24 Feb, 1993",27 y 2 d,186 cm,82 kg,155,VIC,Northern Knights,carltonblues,Carlton
+26,Lochie O'Brien,Def-Med-Gen,4,"18 Sep, 1999",20 y 161 d,185 cm,78 kg,35,VIC,Bendigo Pioneers,carltonblues,Carlton
+27,Finbar O'Dwyer,Fwd-Tall-Gen,38,"24 Jul, 2000",19 y 217 d,192 cm,76 kg,,VIC,Yarrawonga,carltonblues,Carlton
+28, Matthew Owies,Fwd-Med-Gen,44,"19 Mar, 1997",22 y 344 d,179 cm,84 kg,,VIC,Seattle University,carltonblues,Carlton
+29,Sam Petrevski-Seton,Mid-Med,5,"19 Feb, 1998",22 y 7 d,182 cm,78 kg,64,WA,Claremont,carltonblues,Carlton
+30,Sam Philp,Mid-Med,34,"4 Aug, 2001",18 y 206 d,185 cm,80 kg,,VIC,Northern Knights,carltonblues,Carlton
+31,Marc Pittonet,Ruck-Tall,27,"3 Jun, 1996",23 y 268 d,202 cm,105 kg,7,VIC,Oakleigh Chargers,carltonblues,Carlton
+32,Lachlan Plowman,Def-Tall-Key,20,"11 Sep, 1994",25 y 168 d,193 cm,90 kg,94,VIC,Calder Cannons,carltonblues,Carlton
+33,Cameron Polson,Fwd-Smal-Gen,29,"11 Mar, 1998",21 y 352 d,177 cm,81 kg,16,VIC,Sandringham Dragons,carltonblues,Carlton
+34,Sam Ramsay,Mid-Med,33,"21 Mar, 2001",18 y 342 d,180 cm,68 kg,,VIC,Calder Cannons,carltonblues,Carlton
+35,Will Setterfield,Mid-Tall,43,"5 Feb, 1998",22 y 21 d,192 cm,87 kg,20,VIC,Sandringham Dragons,carltonblues,Carlton
+36,Ben Silvagni,Def-Tall-Key,37,"7 May, 2000",19 y 295 d,196 cm,87 kg,,VIC,Oakleigh Chargers,carltonblues,Carlton
+37,Jack Silvagni,Fwd-Tall-Gen,1,"17 Dec, 1997",22 y 71 d,194 cm,89 kg,60,VIC,Oakleigh Chargers,carltonblues,Carlton
+38,Kade Simpson,Mid-Med,6,"5 May, 1984",35 y 297 d,183 cm,75 kg,325,VIC,Eastern Ranges,carltonblues,Carlton
+39,Liam Stocker,Mid-Med,13,"23 Jan, 2000",20 y 34 d,184 cm,83 kg,5,VIC,Sandringham Dragons,carltonblues,Carlton
+40,Sam Walsh,Mid-Med,18,"2 Jul, 2000",19 y 239 d,184 cm,80 kg,22,VIC,Geelong Falcons,carltonblues,Carlton
+41,Jacob Weitering,Def-Tall-Key,23,"23 Nov, 1997",22 y 95 d,196 cm,98 kg,76,VIC,Dandenong Stingrays,carltonblues,Carlton
+42,Tom Williamson,Def-Med-Gen,31,"12 Dec, 1998",21 y 76 d,190 cm,85 kg,17,VIC,North Ballarat Rebels,carltonblues,Carlton
+43, Josh Honey,Fwd-Med-Gen,36,"17 Oct, 2001",18 y 132 d,184 cm,79 kg,,VIC,Western Jets,carltonblues,Carlton
+44, Fraser Phillips,Fwd-Med-Gen,39,"15 May, 2001",18 y 287 d,186 cm,71 kg,,VIC,Gippsland Power,carltonblues,Carlton
+0,Taylor Adams,Mid-Med,13,"20 Sep, 1993",26 y 159 d,181 cm,83 kg,130,VIC,Geelong Falcons,collingwoodmagpies,Collingwood
+1, Flynn Appleby,Def-Med-Gen,31,"21 Jan, 1999",21 y 36 d,187 cm,86 kg,10,VIC,GWV Rebels,collingwoodmagpies,Collingwood
+2,Dayne Beams,Mid-Med,11,"12 Feb, 1990",30 y 14 d,187 cm,88 kg,176,QLD,Southport,collingwoodmagpies,Collingwood
+3,Trent Bianco,Util-Med,34,"20 Jan, 2001",19 y 37 d,178 cm,70 kg,,VIC,Oakleigh Chargers,collingwoodmagpies,Collingwood
+4,Atu Bosenvulagi,Mid-Med,40,"17 Sep, 2000",19 y 162 d,180 cm,82 kg,,VIC,Oakleigh Chargers,collingwoodmagpies,Collingwood
+5, Tim Broomhead,Fwd-Med-Gen,29,"22 Mar, 1994",25 y 341 d,182 cm,84 kg,36,SA,Port Adelaide,collingwoodmagpies,Collingwood
+6,Callum Brown,Mid-Smal,17,"27 Apr, 1998",21 y 305 d,178 cm,77 kg,33,VIC,Eastern Ranges,collingwoodmagpies,Collingwood
+7,Tyler Brown,Mid-Med,6,"9 Dec, 1999",20 y 79 d,188 cm,77 kg,,VIC,Eastern Ranges,collingwoodmagpies,Collingwood
+8,Darcy Cameron,Util-Tall,14,"18 Jul, 1995",24 y 223 d,205 cm,103 kg,1,WA,Claremont,collingwoodmagpies,Collingwood
+9,Mason Cox,Fwd-Tall-Key,46,"14 Mar, 1991",28 y 349 d,211 cm,105 kg,58,N/A,Oklahoma State,collingwoodmagpies,Collingwood
+10,Jack Crisp,Mid-Tall,25,"2 Oct, 1993",26 y 147 d,190 cm,90 kg,132,VIC,Murray Bushrangers,collingwoodmagpies,Collingwood
+11,Josh Daicos,Fwd-Smal-Gen,26,"26 Nov, 1998",21 y 92 d,178 cm,76 kg,17,VIC,Oakleigh Chargers,collingwoodmagpies,Collingwood
+12,Jordan De Goey,Fwd-Med-Gen,2,"15 Mar, 1996",23 y 348 d,188 cm,92 kg,87,VIC,Oakleigh Chargers,collingwoodmagpies,Collingwood
+13,Jamie Elliott,Fwd-Smal-Gen,5,"21 Aug, 1992",27 y 189 d,178 cm,81 kg,103,VIC,Murray Bushrangers,collingwoodmagpies,Collingwood
+14,Levi Greenwood,Util-Med,19,"19 Feb, 1989",31 y 7 d,181 cm,87 kg,151,SA,Port Adelaide Magpies,collingwoodmagpies,Collingwood
+15,Brodie Grundy,Ruck-Tall,4,"15 Apr, 1994",25 y 317 d,203 cm,100 kg,130,SA,Sturt,collingwoodmagpies,Collingwood
+16,Will Hoskin-Elliott,Fwd-Tall-Gen,32,"2 Sep, 1993",26 y 177 d,186 cm,82 kg,117,VIC,Western Jets,collingwoodmagpies,Collingwood
+17,Jeremy Howe,Def-Tall-Key,38,"29 Jun, 1990",29 y 242 d,190 cm,86 kg,181,TAS,Hobart,collingwoodmagpies,Collingwood
+18,Will Kelly,Def-Tall-Key,27,"16 Aug, 2000",19 y 194 d,194 cm,84 kg,,VIC,Oakleigh Chargers,collingwoodmagpies,Collingwood
+19,Tom Langdon,Def-Med-Gen,8,"9 Jun, 1994",25 y 262 d,190 cm,85 kg,89,VIC,Sandringham Dragons,collingwoodmagpies,Collingwood
+20,Brayden Maynard,Def-Med-Gen,37,"20 Sep, 1996",23 y 159 d,189 cm,90 kg,95,VIC,Sandringham Dragons,collingwoodmagpies,Collingwood
+21,Chris Mayne,Fwd-Med-Gen,16,"2 Nov, 1988",31 y 116 d,188 cm,84 kg,214,WA,Perth,collingwoodmagpies,Collingwood
+22,Brody Mihocek,Def-Tall-Key,41,"4 Feb, 1993",27 y 22 d,192 cm,97 kg,38,TAS,Burnie,collingwoodmagpies,Collingwood
+23,Darcy Moore,Fwd-Tall-Key,30,"25 Jan, 1996",24 y 32 d,203 cm,100 kg,69,VIC,Oakleigh Chargers,collingwoodmagpies,Collingwood
+24,Nathan Murphy,Util-Med,28,"15 Dec, 1999",20 y 73 d,190 cm,85 kg,2,VIC,Sandringham Dragons,collingwoodmagpies,Collingwood
+25, John Noble,Def-Med-Gen,9,"25 Mar, 1997",22 y 338 d,180 cm,72 kg,3,,,collingwoodmagpies,Collingwood
+26,Scott Pendlebury,Mid-Tall,10,"7 Jan, 1988",32 y 50 d,191 cm,90 kg,298,VIC,Gippsland Power,collingwoodmagpies,Collingwood
+27,Tom Phillips,Mid-Med,21,"7 May, 1996",23 y 295 d,187 cm,79 kg,72,VIC,Oakleigh Chargers,collingwoodmagpies,Collingwood
+28,Isaac Quaynor,Def-Smal-Gen,3,"15 Jan, 2000",20 y 42 d,180 cm,83 kg,4,VIC,Oakleigh Chargers,collingwoodmagpies,Collingwood
+29,Jay Rantall,Mid-Med,35,"10 Jun, 2001",18 y 261 d,184 cm,82 kg,,VIC,GWV Rebels,collingwoodmagpies,Collingwood
+30,Ben Reid,Def-Tall-Key,20,"29 Apr, 1989",30 y 303 d,196 cm,98 kg,148,VIC,Murray,collingwoodmagpies,Collingwood
+31,Jordan Roughead,Def-Tall-Key,23,"3 Nov, 1990",29 y 115 d,200 cm,101 kg,159,VIC,North Ballarat Rebels,collingwoodmagpies,Collingwood
+32,Trey Ruscoe,Def-Tall-Key,39,"3 Nov, 2001",18 y 115 d,190 cm,90 kg,,WA,East Fremantle,collingwoodmagpies,Collingwood
+33,Matthew Scharenberg,Def-Tall-Gen,12,"18 Sep, 1995",24 y 161 d,191 cm,93 kg,38,SA,Glenelg,collingwoodmagpies,Collingwood
+34,Steele Sidebottom,Mid-Med,22,"2 Jan, 1991",29 y 55 d,184 cm,85 kg,231,VIC,Murray Bushrangers,collingwoodmagpies,Collingwood
+35,Brayden Sier,Mid-Tall,36,"12 Dec, 1997",22 y 76 d,191 cm,88 kg,18,VIC,Northern Knights,collingwoodmagpies,Collingwood
+36,Jaidyn Stephenson,Mid-Med,1,"15 Jan, 1999",21 y 42 d,188 cm,78 kg,38,VIC,Eastern Ranges,collingwoodmagpies,Collingwood
+37,Josh Thomas,Mid-Smal,24,"1 Oct, 1991",28 y 148 d,178 cm,78 kg,87,QLD,Gold Coast,collingwoodmagpies,Collingwood
+38,Adam Treloar,Mid-Med,7,"9 Mar, 1993",26 y 354 d,182 cm,89 kg,161,VIC,Noble Park,collingwoodmagpies,Collingwood
+39,Travis Varcoe,Fwd-Med-Gen,18,"10 Apr, 1988",31 y 322 d,180 cm,84 kg,220,SA,Central District,collingwoodmagpies,Collingwood
+40,Rupert Wills,Mid-Tall,33,"20 May, 1993",26 y 282 d,192 cm,88 kg,13,VIC,Collingwood VFL,collingwoodmagpies,Collingwood
+41, Mark Keane,Fwd-Tall-Key,47,"17 Mar, 2000",19 y 346 d,194 cm,92 kg,,N/A,County Cork,collingwoodmagpies,Collingwood
+42, Max Lynch,Ruck-Tall,45,"12 Sep, 1998",21 y 167 d,200 cm,99 kg,,VIC,Murray Bushrangers,collingwoodmagpies,Collingwood
+43, Jack Madgen,Def-Tall-Key,44,"25 Apr, 1993",26 y 307 d,192 cm,98 kg,8,SA,Barossa District,collingwoodmagpies,Collingwood
+44, Anton Tohill,Util-Tall,43,"14 Dec, 1999",20 y 74 d,191 cm,85 kg,,N/A,County Derry,collingwoodmagpies,Collingwood
+45, Thomas Wilson,Util-Tall,48,"24 Jun, 1997",22 y 247 d,187 cm,68 kg,,VIC,Sydney Kings,collingwoodmagpies,Collingwood
+0,Patrick Ambrose,Def-Tall-Key,29,"1 Sep, 1991",28 y 178 d,191 cm,92 kg,86,VIC,Old Xaverians,essendonbombers,Essendon
+1,Josh Begley,Fwd-Med-Gen,16,"3 Jul, 1998",21 y 238 d,188 cm,97 kg,16,VIC,Eastern Ranges,essendonbombers,Essendon
+2,Tom Bellchambers,Ruck-Tall,2,"9 Jul, 1989",30 y 232 d,202 cm,108 kg,128,TAS,Tassie Mariners,essendonbombers,Essendon
+3,Nick Bryan,Ruck-Tall,24,"22 Oct, 2001",18 y 127 d,202 cm,87 kg,,VIC,Oakleigh Chargers,essendonbombers,Essendon
+4,Ned Cahill,Fwd-Smal-Gen,28,"11 Jan, 2001",19 y 46 d,178 cm,77 kg,,VIC,Dandenong Stingrays,essendonbombers,Essendon
+5,Dylan Clarke,Mid-Med,37,"6 Sep, 1998",21 y 173 d,187 cm,87 kg,12,VIC,Eastern Ranges,essendonbombers,Essendon
+6,Tom Cutler,Util-Tall,12,"20 Feb, 1995",25 y 6 d,192 cm,92 kg,66,VIC,Oakleigh Chargers,essendonbombers,Essendon
+7,Joe Daniher,Fwd-Tall-Key,6,"4 Mar, 1994",25 y 359 d,200 cm,99 kg,104,VIC,Calder Cannons,essendonbombers,Essendon
+8,Orazio Fantasia,Fwd-Smal-Gen,13,"14 Sep, 1995",24 y 165 d,178 cm,77 kg,74,SA,Norwood,essendonbombers,Essendon
+9,Aaron Francis,Util-Tall,10,"10 Aug, 1997",22 y 200 d,192 cm,90 kg,26,SA,West Adelaide,essendonbombers,Essendon
+10,Martin Gleeson,Def-Med-Gen,8,"25 Aug, 1994",25 y 185 d,191 cm,86 kg,78,VIC,North Ballarat Rebels,essendonbombers,Essendon
+11,Noah Gown,Fwd-Tall-Key,32,"1 Feb, 2000",20 y 25 d,194 cm,91 kg,,VIC,Gippsland Power,essendonbombers,Essendon
+12,Matt Guelfi,Mid-Med,35,"14 Aug, 1997",22 y 196 d,184 cm,85 kg,32,WA,Claremont,essendonbombers,Essendon
+13,Brayden Ham,Mid-Med,33,"25 Apr, 1999",20 y 307 d,181 cm,70 kg,4,VIC,Geelong Falcons,essendonbombers,Essendon
+14,Dyson Heppell,Mid-Med,21,"14 May, 1992",27 y 288 d,189 cm,84 kg,168,VIC,Gippsland Power,essendonbombers,Essendon
+15,Cale Hooker,Util-Tall,26,"13 Oct, 1988",31 y 136 d,198 cm,103 kg,192,WA,East Fremantle,essendonbombers,Essendon
+16,Michael Hurley,Def-Tall-Key,18,"1 Jun, 1990",29 y 270 d,192 cm,94 kg,178,VIC,Northern Knights,essendonbombers,Essendon
+17,Lachlan Johnson,Fwd-Smal-Gen,36,"7 Aug, 2001",18 y 203 d,175 cm,79 kg,,VIC,Oakleigh Chargers,essendonbombers,Essendon
+18,Harrison Jones,Fwd-Tall-Key,23,"25 Feb, 2001",19 y 1 d,194 cm,75 kg,,VIC,Calder Cannons,essendonbombers,Essendon
+19,Kyle Langford,Fwd-Tall-Gen,4,"1 Dec, 1996",23 y 87 d,191 cm,87 kg,64,VIC,Northern Knights,essendonbombers,Essendon
+20,Jayden Laverde,Fwd-Med-Gen,15,"12 Apr, 1996",23 y 320 d,191 cm,91 kg,39,VIC,Western Jets,essendonbombers,Essendon
+21,Anthony McDonald-Tipungwuti,Fwd-Smal-Gen,43,"22 Apr, 1993",26 y 310 d,171 cm,77 kg,88,NT,Gippsland Power,essendonbombers,Essendon
+22,Andrew McGrath,Mid-Smal,1,"2 Jun, 1998",21 y 269 d,178 cm,83 kg,63,VIC,Sandringham Dragons,essendonbombers,Essendon
+23,Conor McKenna,Def-Med-Gen,45,"28 Mar, 1996",23 y 335 d,184 cm,88 kg,72,N/A,County Tyrone,essendonbombers,Essendon
+24,Shaun McKernan,Util-Tall,44,"1 Sep, 1990",29 y 178 d,196 cm,100 kg,77,VIC,Calder Cannons,essendonbombers,Essendon
+25,Zach Merrett,Mid-Smal,7,"3 Oct, 1995",24 y 146 d,180 cm,83 kg,125,VIC,Sandringham Dragons,essendonbombers,Essendon
+26,Irving Mosquito,Fwd-Smal-Gen,22,"24 Aug, 2000",19 y 186 d,176 cm,72 kg,,WA,Gippsland Power,essendonbombers,Essendon
+27,Kobe Mutch,Mid-Med,19,"18 Mar, 1998",21 y 345 d,187 cm,88 kg,4,VIC,Bendigo Pioneers,essendonbombers,Essendon
+28,Darcy Parish,Mid-Med,3,"25 Jul, 1997",22 y 216 d,181 cm,77 kg,75,VIC,Geelong Falcons,essendonbombers,Essendon
+29,Andrew Phillips,Ruck-Tall,34,"3 Jul, 1991",28 y 238 d,201 cm,98 kg,41,TAS,Clarence,essendonbombers,Essendon
+30,Mason Redman,Fwd-Med-Gen,27,"26 Aug, 1997",22 y 184 d,187 cm,87 kg,24,SA,Glenelg,essendonbombers,Essendon
+31,Jordan Ridley,Def-Tall-Gen,14,"20 Oct, 1998",21 y 129 d,192 cm,91 kg,9,VIC,Oakleigh Chargers,essendonbombers,Essendon
+32,Adam Saad,Def-Smal-Gen,42,"23 Jul, 1994",25 y 218 d,178 cm,78 kg,91,VIC,Coburg,essendonbombers,Essendon
+33,Dylan Shiel,Mid-Med,9,"9 Mar, 1993",26 y 354 d,182 cm,83 kg,155,NSW,Edithvale-Aspinvale,essendonbombers,Essendon
+34,Devon Smith,Mid-Smal,5,"20 May, 1993",26 y 282 d,174 cm,77 kg,137,VIC,Geelong Falcons,essendonbombers,Essendon
+35,James Stewart,Fwd-Tall-Key,17,"4 Mar, 1994",25 y 359 d,199 cm,96 kg,45,VIC,Sandringham Dragons,essendonbombers,Essendon
+36,Jake Stringer,Fwd-Tall-Key,25,"25 Apr, 1994",25 y 307 d,192 cm,95 kg,126,VIC,Bendigo Pioneers,essendonbombers,Essendon
+37,David Zaharakis,Mid-Med,11,"21 Feb, 1990",30 y 5 d,180 cm,79 kg,207,VIC,Northern Knights,essendonbombers,Essendon
+38,Brandon Zerk-Thatcher,Def-Tall-Key,30,"25 Aug, 1998",21 y 185 d,195 cm,86 kg,1,SA,Sturt,essendonbombers,Essendon
+39, Sam Draper,Ruck-Tall,38,"28 Sep, 1998",21 y 151 d,203 cm,107 kg,,SA,South Adelaide,essendonbombers,Essendon
+40, Mitchell Hibberd,Util-Med,46,"23 Sep, 1996",23 y 156 d,191 cm,90 kg,4,TAS,Clarence,essendonbombers,Essendon
+41, Cian McBride,Def-Tall-Key,41,"19 Apr, 2001",18 y 313 d,195 cm,84 kg,,N/A,County Meath (Ireland),essendonbombers,Essendon
+42, Ross McQuillan,Mid-Med,39,"18 Jan, 1999",21 y 39 d,186 cm,79 kg,,N/A,County Armagh (Ireland),essendonbombers,Essendon
+43, Will Snelling,Mid-Smal,40,"6 Aug, 1997",22 y 204 d,175 cm,70 kg,4,SA,West Adelaide,essendonbombers,Essendon
+44,  Jacob Townsend,Mid-Med,20,"20 Jun, 1993",26 y 251 d,187 cm,88 kg,48,NSW,Leeton,essendonbombers,Essendon
+0,Blake Acres,Mid-Med,9,"7 Oct, 1995",24 y 142 d,191 cm,90 kg,75,WA,West Perth ,fremantledockers,Fremantle
+1,James Aish,Mid-Med,11,"8 Nov, 1995",24 y 110 d,183 cm,80 kg,81,SA,Norwood,fremantledockers,Fremantle
+2,Bailey Banfield,Mid-Med,41,"26 Feb, 1998",22 y 0 d,190 cm,92 kg,27,WA,Claremont,fremantledockers,Fremantle
+3,Brett Bewley,Mid-Med,34,"14 Apr, 1995",24 y 318 d,185 cm,87 kg,7,VIC,Williamstown,fremantledockers,Fremantle
+4,Connor Blakely,Mid-Med,19,"2 Mar, 1996",23 y 361 d,188 cm,90 kg,60,WA,Swan Districts,fremantledockers,Fremantle
+5,Andrew Brayshaw,Mid-Med,8,"8 Nov, 1999",20 y 110 d,184 cm,84 kg,39,VIC,Sandringham Dragons,fremantledockers,Fremantle
+6,Adam Cerra,Mid-Med,5,"7 Oct, 1999",20 y 142 d,188 cm,84 kg,41,VIC,Eastern Ranges,fremantledockers,Fremantle
+7,Travis Colyer,Mid-Smal,33,"24 Aug, 1991",28 y 186 d,175 cm,77 kg,97,WA,Claremont,fremantledockers,Fremantle
+8,Reece Conca,Mid-Med,6,"12 Aug, 1992",27 y 198 d,181 cm,84 kg,126,WA,Perth,fremantledockers,Fremantle
+9,Brennan Cox,Fwd-Tall-Key,36,"13 Aug, 1998",21 y 197 d,195 cm,99 kg,34,SA,Woodville-West Torrens,fremantledockers,Fremantle
+10,Mitch Crowden,Mid-Smal,12,"28 Apr, 1999",20 y 304 d,176 cm,84 kg,14,SA,Sturt,fremantledockers,Fremantle
+11,Sean Darcy,Ruck-Tall,4,"12 Jun, 1998",21 y 259 d,202 cm,113 kg,26,VIC,Geelong Falcons,fremantledockers,Fremantle
+12,Taylin Duman,Def-Tall-Gen,44,"18 Apr, 1998",21 y 314 d,193 cm,83 kg,24,VIC,Oakleigh Chargers,fremantledockers,Fremantle
+13,Minario Frederick,Mid-Med,43,"17 May, 2000",19 y 285 d,179 cm,64 kg,,SA,Woodville-West Torrens,fremantledockers,Fremantle
+14,Nat Fyfe,Mid-Med,7,"18 Sep, 1991",28 y 161 d,192 cm,96 kg,172,WA,Claremont,fremantledockers,Fremantle
+15, Stefan Giro,Mid-Med,42,"10 Mar, 1999",20 y 353 d,175 cm,77 kg,10,SA,Norwood,fremantledockers,Fremantle
+16,Joel Hamling,Def-Tall-Key,21,"9 Apr, 1993",26 y 323 d,194 cm,92 kg,84,WA,Claremont,fremantledockers,Fremantle
+17,Liam Henry,Fwd-Smal-Gen,31,"28 Aug, 2001",18 y 182 d,179 cm,67 kg,,WA,Claremont,fremantledockers,Fremantle
+18,Stephen Hill,Mid-Med,32,"1 May, 1990",29 y 301 d,183 cm,82 kg,205,WA,West Perth,fremantledockers,Fremantle
+19,Jesse Hogan,Fwd-Tall-Key,1,"12 Feb, 1995",25 y 14 d,195 cm,99 kg,83,WA,Claremont,fremantledockers,Fremantle
+20, Ethan Hughes,Def-Med-Gen,15,"7 Dec, 1994",25 y 81 d,188 cm,89 kg,50,WA,Swan Districts,fremantledockers,Fremantle
+21,Rory Lobb,Fwd-Tall-Key,37,"9 Feb, 1993",27 y 17 d,206 cm,106 kg,88,WA,Swan Districts,fremantledockers,Fremantle
+22,Griffin Logue,Def-Tall-Key,2,"13 Apr, 1998",21 y 319 d,193 cm,101 kg,23,WA,Swan Districts,fremantledockers,Fremantle
+23,Brandon Matera,Fwd-Smal-Gen,3,"11 Mar, 1992",27 y 352 d,175 cm,76 kg,139,WA,South Fremantle,fremantledockers,Fremantle
+24,Cameron McCarthy,Fwd-Tall-Key,23,"1 Apr, 1995",24 y 331 d,192 cm,92 kg,69,WA,South Fremantle,fremantledockers,Fremantle
+25,Lloyd Meek,Ruck-Tall,30,"22 Apr, 1998",21 y 310 d,203 cm,111 kg,,VIC,GWV Rebels,fremantledockers,Fremantle
+26,David Mundy,Mid-Tall,16,"20 Jul, 1985",34 y 221 d,193 cm,94 kg,315,VIC,Murray Bushrangers,fremantledockers,Fremantle
+27,Alex Pearce,Def-Tall-Key,25,"9 Jun, 1995",24 y 262 d,201 cm,101 kg,53,TAS,Devonport,fremantledockers,Fremantle
+28,Luke Ryan,Def-Med-Gen,13,"6 Feb, 1996",24 y 20 d,187 cm,92 kg,49,VIC,Coburg,fremantledockers,Fremantle
+29,Lachlan Schulz,Fwd-Med-Gen,28,"30 Nov, 1997",22 y 88 d,178 cm,78 kg,7,VIC,Williamstown,fremantledockers,Fremantle
+30,Caleb Serong,Util-Med,22,"9 Feb, 2001",19 y 17 d,178 cm,83 kg,,VIC,Gippsland Power,fremantledockers,Fremantle
+31,Sam Sturt,Fwd-Med-Gen,27,"12 May, 2000",19 y 290 d,189 cm,72 kg,,VIC,Dandenong Stingrays,fremantledockers,Fremantle
+32,Samuel Switkowski,Fwd-Smal-Gen,39,"20 Nov, 1996",23 y 98 d,179 cm,74 kg,20,VIC,Box Hill Hawks,fremantledockers,Fremantle
+33,Matt Taberner,Fwd-Tall-Key,20,"17 Jun, 1993",26 y 254 d,198 cm,99 kg,71,VIC,Murray Bushrangers,fremantledockers,Fremantle
+34,Darcy Tucker,Def-Med-Gen,18,"23 Jan, 1997",23 y 34 d,184 cm,83 kg,70,VIC,North Ballarat,fremantledockers,Fremantle
+35,Luke Valente,Util-Med,29,"8 May, 2000",19 y 294 d,187 cm,81 kg,,SA,Norwood,fremantledockers,Fremantle
+36,Michael Walters,Fwd-Smal-Gen,10,"7 Jan, 1991",29 y 50 d,178 cm,78 kg,150,WA,Swan Districts,fremantledockers,Fremantle
+37,Nathan Wilson,Def-Med-Gen,14,"7 Jan, 1993",27 y 50 d,185 cm,81 kg,115,WA,Mandurah,fremantledockers,Fremantle
+38,Hayden Young,Def-Med-Gen,26,"11 Apr, 2001",18 y 321 d,188 cm,82 kg,,VIC,Dandenong Stingrays,fremantledockers,Fremantle
+39, Isaiah Butters,Fwd-Med-Gen,38,"16 Sep, 2001",18 y 163 d,182 cm,69 kg,,WA,Claremont,fremantledockers,Fremantle
+40, Jason Carter,Def-Med-Gen,35,"11 Jan, 2000",20 y 46 d,185 cm,76 kg,2,WA,Dockers Academy,fremantledockers,Fremantle
+41, Tom North,Mid-Med,24,"14 Feb, 1999",21 y 12 d,183 cm,84 kg,,VIC,Eastern Ranges,fremantledockers,Fremantle
+42, Dillon O'Reilly,Fwd-Tall-Key,46,"2 Jun, 2000",19 y 269 d,193 cm,79 kg,,WA,East Fremantle,fremantledockers,Fremantle
+43, Jarvis Pina,Def-Smal-Gen,47,"30 Oct, 2000",19 y 119 d,176 cm,71 kg,,WA,Peel Thunder,fremantledockers,Fremantle
+44, Leno Thomas,Util-Med,48,"12 May, 2001",18 y 290 d,183 cm,73 kg,,WA,Claremont,fremantledockers,Fremantle
+45, Tobe Watson,Def-Med-Gen,45,"3 Dec, 1997",22 y 85 d,190 cm,83 kg,,WA,Swan Districts,fremantledockers,Fremantle
+0,Ben Ainsworth,Fwd-Smal-Gen,9,"10 Feb, 1998",22 y 16 d,178 cm,77 kg,41,VIC,Gippsland Power,goldcoastsuns,Gold Coast
+1,Noah Anderson,Util-Med,15,"17 Feb, 2001",19 y 9 d,188 cm,86 kg,,VIC,Oakleigh Chargers,goldcoastsuns,Gold Coast
+2,Charlie Ballard,Util-Tall,10,"23 Jul, 1999",20 y 218 d,195 cm,91 kg,32,SA,Sturt,goldcoastsuns,Gold Coast
+3,Jack Bowes,Mid-Med,3,"26 Jan, 1998",22 y 31 d,187 cm,85 kg,42,QLD,Gold Coast,goldcoastsuns,Gold Coast
+4,Will Brodie,Mid-Med,7,"23 Aug, 1998",21 y 187 d,189 cm,89 kg,19,VIC,Murray Bushrangers,goldcoastsuns,Gold Coast
+5,Chris Burgess,Util-Tall,29,"26 Nov, 1995",24 y 92 d,191 cm,82 kg,14,SA,West Adelaide,goldcoastsuns,Gold Coast
+6,Samuel Collins,Def-Tall-Key,25,"15 Jun, 1994",25 y 256 d,194 cm,98 kg,23,VIC,Dandenong Stingrays,goldcoastsuns,Gold Coast
+7,Josh Corbett,Fwd-Tall-Key,19,"23 Apr, 1996",23 y 309 d,190 cm,90 kg,9,VIC,Werribee Tigers,goldcoastsuns,Gold Coast
+8, Jacob Dawson,Mid-Med,45,"3 Nov, 1999",20 y 115 d,182 cm,82 kg,9,QLD,Palm Beach Currumbin,goldcoastsuns,Gold Coast
+9,Sam Day,Fwd-Tall-Key,12,"6 Sep, 1992",27 y 173 d,197 cm,104 kg,120,SA,Sturt,goldcoastsuns,Gold Coast
+10,Brandon Ellis,Mid-Med,4,"3 Aug, 1993",26 y 207 d,181 cm,82 kg,173,VIC,Calder Cannons,goldcoastsuns,Gold Coast
+11,Corey Ellis,Def-Med-Gen,17,"9 Oct, 1996",23 y 140 d,184 cm,81 kg,31,VIC,Western Jets,goldcoastsuns,Gold Coast
+12,Jy Farrar,Mid-Tall,50,"7 Dec, 1996",23 y 81 d,190 cm,78 kg,,VIC,Scotch College,goldcoastsuns,Gold Coast
+13,Brayden Fiorini,Mid-Med,8,"22 Aug, 1997",22 y 188 d,186 cm,82 kg,47,VIC,Northern Knights,goldcoastsuns,Gold Coast
+14,Sam Flanders,Fwd-Med-Gen,26,"24 Jul, 2001",18 y 217 d,182 cm,81 kg,,VIC,Gippsland Power,goldcoastsuns,Gold Coast
+15,Caleb Graham,Def-Tall-Key,46,"12 Sep, 2000",19 y 167 d,195 cm,92 kg,3,QLD,Gold Coast Academy,goldcoastsuns,Gold Coast
+16,Hugh Greenwood,Mid-Tall,21,"6 Mar, 1992",27 y 357 d,191 cm,92 kg,51,TAS,Perth Wildcats,goldcoastsuns,Gold Coast
+17,Pearce Hanley,Mid-Med,1,"15 Nov, 1988",31 y 103 d,185 cm,86 kg,161,N/A,County Mayo Ireland,goldcoastsuns,Gold Coast
+18,Jarrod Harbrow,Def-Smal-Gen,5,"18 Jul, 1988",31 y 223 d,178 cm,73 kg,245,VIC,Murray Bushrangers,goldcoastsuns,Gold Coast
+19,Jacob Heron,Def-Med-Gen,40,"10 Dec, 1999",20 y 78 d,180 cm,79 kg,13,QLD,Cairns Saints,goldcoastsuns,Gold Coast
+20, Nick Holman,Mid-Med,39,"29 May, 1995",24 y 273 d,189 cm,87 kg,43,VIC,Murray Bushrangers,goldcoastsuns,Gold Coast
+21,Jack Hombsch,Def-Tall-Key,20,"7 Mar, 1993",26 y 356 d,194 cm,89 kg,116,SA,Sturt,goldcoastsuns,Gold Coast
+22,George Horlin-Smith,Mid-Med,33,"22 Dec, 1992",27 y 66 d,188 cm,84 kg,58,SA,Sturt,goldcoastsuns,Gold Coast
+23,Jesse Joyce,Def-Med-Gen,38,"17 Aug, 1997",22 y 193 d,191 cm,84 kg,63,QLD,Palm Beach Currumbin,goldcoastsuns,Gold Coast
+24,Ben King,Fwd-Tall-Key,34,"7 Jul, 2000",19 y 234 d,202 cm,87 kg,14,VIC,Sandringham Dragons,goldcoastsuns,Gold Coast
+25,Sean Lemmens,Def-Med-Gen,23,"2 Nov, 1994",25 y 116 d,184 cm,84 kg,87,SA,Port Adelaide,goldcoastsuns,Gold Coast
+26,Jack Lukosius,Fwd-Tall-Gen,13,"9 Aug, 2000",19 y 201 d,195 cm,83 kg,21,SA,Woodville-West Torrens,goldcoastsuns,Gold Coast
+27,Darcy MacPherson,Mid-Smal,44,"29 Oct, 1997",22 y 120 d,174 cm,78 kg,39,VIC,Footscray VFL,goldcoastsuns,Gold Coast
+28,Jez McLennan,Def-Med-Gen,43,"7 Sep, 2000",19 y 172 d,185 cm,82 kg,,SA,Central District,goldcoastsuns,Gold Coast
+29,Anthony Miles,Mid-Med,2,"28 Feb, 1992",27 y 363 d,180 cm,81 kg,88,NSW,Murray Bushrangers,goldcoastsuns,Gold Coast
+30,Touk Miller,Util-Smal,11,"22 Feb, 1996",24 y 4 d,178 cm,83 kg,100,VIC,Calder Cannons,goldcoastsuns,Gold Coast
+31,Jordan Murdoch,Util-Tall,31,"23 Mar, 1992",27 y 340 d,190 cm,87 kg,122,SA,Glenelg,goldcoastsuns,Gold Coast
+32,Wil Powell,Mid-Med,27,"26 Aug, 1999",20 y 184 d,185 cm,76 kg,20,WA,Claremont,goldcoastsuns,Gold Coast
+33,Izak Rankine,Util-Med,22,"23 Apr, 2000",19 y 309 d,179 cm,76 kg,,SA,West Adelaide,goldcoastsuns,Gold Coast
+34,Matthew Rowell,Mid-Smal,18,"1 Jul, 2001",18 y 240 d,178 cm,74 kg,,VIC,Oakleigh Chargers,goldcoastsuns,Gold Coast
+35,Alex Sexton,Util-Med,6,"3 Dec, 1993",26 y 85 d,186 cm,83 kg,119,QLD,Redland,goldcoastsuns,Gold Coast
+36,Jeremy Sharp,Mid-Med,37,"13 Aug, 2001",18 y 197 d,187 cm,73 kg,,WA,East Fremantle,goldcoastsuns,Gold Coast
+37,Zac Smith,Ruck-Tall,32,"22 Feb, 1990",30 y 4 d,206 cm,105 kg,114,QLD,Biloela,goldcoastsuns,Gold Coast
+38,David Swallow,Mid-Med,24,"19 Nov, 1992",27 y 99 d,185 cm,87 kg,139,WA,East Fremantle,goldcoastsuns,Gold Coast
+39,Rory Thompson,Def-Tall-Key,16,"12 Mar, 1991",28 y 351 d,200 cm,100 kg,104,QLD,Southport,goldcoastsuns,Gold Coast
+40,Lachlan Weller,Util-Med,14,"23 Feb, 1996",24 y 3 d,181 cm,81 kg,86,QLD,Broadbeach,goldcoastsuns,Gold Coast
+41,Jarrod Witts,Ruck-Tall,28,"13 Sep, 1992",27 y 166 d,209 cm,111 kg,102,NSW,Sydney University,goldcoastsuns,Gold Coast
+42,Peter Wright,Fwd-Tall-Key,30,"8 Sep, 1996",23 y 171 d,203 cm,103 kg,66,VIC,Calder Cannons,goldcoastsuns,Gold Coast
+43, Connor Budarick,Util-Smal,35,"6 Apr, 2001",18 y 326 d,176 cm,76 kg,,QLD,Gold Coast Academy,goldcoastsuns,Gold Coast
+44, Matthew Conroy,Ruck-Tall,48,"7 Nov, 2000",19 y 111 d,198 cm,85 kg,,QLD,Gold Coast Academy,goldcoastsuns,Gold Coast
+45, Sam Fletcher,Mid-Med,47,"27 Jan, 2000",20 y 30 d,188 cm,77 kg,,QLD,Gold Coast Academy,goldcoastsuns,Gold Coast
+46, Patrick Murtagh,Fwd-Tall-Key,42,"11 Feb, 2000",20 y 15 d,196 cm,94 kg,,QLD,Gold Coast Academy,goldcoastsuns,Gold Coast
+47, Mitchell Riordan,Mid-Med,49,"25 Jan, 2000",20 y 32 d,187 cm,83 kg,,VIC,Dandenong Stingrays,goldcoastsuns,Gold Coast
+48, Malcolm Rosas,Fwd-Smal-Gen,41,"27 Jun, 2001",18 y 244 d,175 cm,62 kg,,NT,NT Thunder,goldcoastsuns,Gold Coast
+49, Joshua Schoenfeld,Mid-Med,36,"3 Jul, 1997",22 y 238 d,186 cm,84 kg,15,WA,Peel Thunder,goldcoastsuns,Gold Coast
+50, Luke Towey,Def-Med-Gen,52,"11 Jul, 1999",20 y 230 d,186 cm,80 kg,,N/A,County Sligo (Ireland),goldcoastsuns,Gold Coast
+0,Gary Ablett jnr,Mid-Med,4,"14 May, 1984",35 y 288 d,182 cm,87 kg,342,VIC,Geelong Falcons ,geelongcats,Geelong
+1, Tom Atkins,Mid-Med,30,"18 Sep, 1995",24 y 161 d,180 cm,86 kg,20,VIC,Geelong VFL,geelongcats,Geelong
+2,Jed Bews,Def-Med-Gen,24,"14 Dec, 1993",26 y 74 d,186 cm,88 kg,79,VIC,Geelong U18,geelongcats,Geelong
+3,Mark Blicavs,Mid-Tall,46,"28 Mar, 1991",28 y 335 d,198 cm,100 kg,153,VIC,AIS,geelongcats,Geelong
+4,Jordan Clark,Def-Med-Gen,6,"16 Oct, 2000",19 y 133 d,185 cm,78 kg,18,WA,Claremont,geelongcats,Geelong
+5,Nakia Cockatoo,Fwd-Med-Gen,5,"23 Oct, 1996",23 y 126 d,186 cm,90 kg,34,NT,NT Thunder,geelongcats,Geelong
+6,Charlie Constable,Mid-Tall,18,"18 May, 1999",20 y 284 d,191 cm,86 kg,7,VIC,Sandringham Dragons,geelongcats,Geelong
+7,Luke Dahlhaus,Mid-Smal,40,"21 Aug, 1992",27 y 189 d,179 cm,77 kg,174,VIC,Geelong Falcons,geelongcats,Geelong
+8,Patrick Dangerfield,Mid-Med,35,"5 Apr, 1990",29 y 327 d,189 cm,92 kg,244,VIC,Geelong Falcons,geelongcats,Geelong
+9,Sam De Koning,Def-Tall-Key,16,"26 Feb, 2001",19 y 0 d,200 cm,85 kg,,,,geelongcats,Geelong
+10,Mitch Duncan,Mid-Med,22,"10 Jun, 1991",28 y 261 d,188 cm,88 kg,199,WA,East Perth,geelongcats,Geelong
+11,Francis Evans,Fwd-Med-Gen,31,"23 Aug, 2001",18 y 187 d,182 cm,78 kg,,VIC,Calder Cannons,geelongcats,Geelong
+12,Lachlan Fogarty,Mid-Smal,13,"1 Apr, 1999",20 y 331 d,180 cm,76 kg,17,VIC,Western Jets,geelongcats,Geelong
+13,Darcy Fort,Ruck-Tall,28,"6 Aug, 1993",26 y 204 d,204 cm,99 kg,3,SA,Central District,geelongcats,Geelong
+14,Cameron Guthrie,Mid-Med,29,"19 Aug, 1992",27 y 191 d,187 cm,86 kg,157,VIC,Calder Cannons,geelongcats,Geelong
+15, Zach Guthrie,Def-Med-Gen,39,"30 Jun, 1998",21 y 241 d,187 cm,76 kg,17,VIC,Calder Cannons,geelongcats,Geelong
+16,Tom Hawkins,Fwd-Tall-Key,26,"21 Jul, 1988",31 y 220 d,198 cm,103 kg,253,VIC,Melbourne Grammar,geelongcats,Geelong
+17,Jack Henry,Fwd-Tall-Gen,38,"29 Aug, 1998",21 y 181 d,191 cm,92 kg,42,VIC,Geelong Falcons,geelongcats,Geelong
+18,Ben Jarvis,Fwd-Med-Gen,10,"27 Jul, 2000",19 y 214 d,189 cm,65 kg,,SA,Norwood,geelongcats,Geelong
+19,Josh Jenkins,Fwd-Tall-Key,11,"8 Feb, 1989",31 y 18 d,200 cm,108 kg,147,VIC,Lake Boga,geelongcats,Geelong
+20,Jacob Kennerley,Mid-Med,21,"16 Jun, 2000",19 y 255 d,186 cm,78 kg,,SA,Norwood,geelongcats,Geelong
+21,Jake Kolodjashnij,Def-Tall-Gen,8,"9 Aug, 1995",24 y 201 d,193 cm,94 kg,89,TAS,Launceston,geelongcats,Geelong
+22,Nathan Kreuger,Fwd-Tall-Key,15,"25 Jun, 1999",20 y 246 d,196 cm,88 kg,,SA,South Adelaide,geelongcats,Geelong
+23,Sam Menegola,Mid-Med,27,"7 Mar, 1992",27 y 356 d,189 cm,89 kg,61,WA,East Fremantle,geelongcats,Geelong
+24,Gryan Miers,Fwd-Smal-Gen,32,"30 Mar, 1999",20 y 333 d,178 cm,78 kg,22,VIC,Geelong Falcons,geelongcats,Geelong
+25,Quinton Narkle,Fwd-Med-Gen,19,"3 Dec, 1997",22 y 85 d,181 cm,80 kg,9,WA,Perth,geelongcats,Geelong
+26,Mark O'Connor,Mid-Med,42,"17 Jan, 1997",23 y 40 d,191 cm,87 kg,27,N/A,County Kerry (Ireland),geelongcats,Geelong
+27,Brandan Parfitt,Mid-Smal,3,"27 Apr, 1998",21 y 305 d,180 cm,79 kg,51,SA,North Adelaide,geelongcats,Geelong
+28,James Parsons,Mid-Med,34,"12 Apr, 1997",22 y 320 d,190 cm,82 kg,35,VIC,Eastern Ranges,geelongcats,Geelong
+29,Esava Ratugolea,Fwd-Tall-Key,17,"24 Jul, 1998",21 y 217 d,197 cm,102 kg,25,VIC,Murray Bushrangers,geelongcats,Geelong
+30,Gary Rohan,Fwd-Med-Gen,23,"7 Jun, 1991",28 y 264 d,189 cm,92 kg,122,VIC,Geelong Falcons,geelongcats,Geelong
+31,Joel Selwood,Mid-Med,14,"26 May, 1988",31 y 276 d,183 cm,84 kg,290,VIC,Bendigo,geelongcats,Geelong
+32,Rhys Stanley,Util-Tall,1,"1 Dec, 1990",29 y 87 d,200 cm,102 kg,130,SA,West Adelaide,geelongcats,Geelong
+33,Cooper Stephens,Mid-Med,12,"17 Jan, 2001",19 y 40 d,188 cm,83 kg,,VIC,Geelong Falcons,geelongcats,Geelong
+34,Jack Steven,Util-Med,9,"28 Mar, 1990",29 y 335 d,180 cm,83 kg,183,VIC,Geelong Falcons,geelongcats,Geelong
+35,Tom Stewart,Def-Tall-Key,44,"15 Mar, 1993",26 y 348 d,190 cm,88 kg,65,VIC,Geelong VFL,geelongcats,Geelong
+36,Cameron Taheny,Mid-Med,41,"3 Aug, 2001",18 y 207 d,186 cm,79 kg,,SA,Norwood,geelongcats,Geelong
+37,Jake Tarca,Fwd-Smal-Gen,33,"23 Feb, 2000",20 y 3 d,177 cm,73 kg,,SA,South Adelaide,geelongcats,Geelong
+38,Harry Taylor,Def-Tall-Key,7,"12 Jun, 1986",33 y 259 d,195 cm,94 kg,256,WA,East Fremantle,geelongcats,Geelong
+39,Zach Tuohy,Def-Med-Gen,2,"10 Dec, 1989",30 y 78 d,187 cm,93 kg,183,N/A,"Laois, Ireland",geelongcats,Geelong
+40, Oscar Brownless,Fwd-Med-Gen,20,"16 Feb, 2000",20 y 10 d,186 cm,75 kg,,VIC,Geelong Falcons,geelongcats,Geelong
+41, Bradley Close,Fwd-Smal-Gen,45,"30 Jul, 1998",21 y 211 d,178 cm,70 kg,,SA,Glenelg,geelongcats,Geelong
+42, Lachie Henderson,Def-Tall-Key,25,"14 Dec, 1989",30 y 74 d,196 cm,98 kg,169,VIC,Geelong Falcons,geelongcats,Geelong
+43, Stefan Okunbor,Def-Tall-Key,43,"12 Aug, 1998",21 y 198 d,190 cm,87 kg,,N/A,County Kerry,geelongcats,Geelong
+44, Blake Schlensog,Fwd-Tall-Key,36,"25 Sep, 2000",19 y 154 d,198 cm,99 kg,,VIC,Geelong Falcons,geelongcats,Geelong
+45, Sam Simpson,Mid-Smal,37,"14 Jun, 1998",21 y 257 d,180 cm,74 kg,6,VIC,Geelong Falcons,geelongcats,Geelong
+0,Luke Breust,Fwd-Med-Gen,22,"11 Nov, 1990",29 y 107 d,184 cm,84 kg,206,NSW,Temora,hawthornhawks,Hawthorn
+1,Shaun Burgoyne,Util-Med,9,"21 Oct, 1982",37 y 128 d,186 cm,89 kg,375,SA,Port Adelaide,hawthornhawks,Hawthorn
+2,Jonathon Ceglar,Ruck-Tall,18,"14 Feb, 1991",29 y 12 d,204 cm,102 kg,76,VIC,Murray Bushrangers,hawthornhawks,Hawthorn
+3,James Cousins,Mid-Med,46,"19 Mar, 1998",21 y 344 d,185 cm,84 kg,19,VIC,Murray Bushrangers,hawthornhawks,Hawthorn
+4,Will Day,Def-Med-Gen,30,"5 Jun, 2001",18 y 266 d,187 cm,70 kg,,SA,West Adelaide,hawthornhawks,Hawthorn
+5,James Frawley,Def-Tall-Key,12,"20 Sep, 1988",31 y 159 d,193 cm,96 kg,225,VIC,Nth Ballarat,hawthornhawks,Hawthorn
+6,Sam Frost,Def-Tall-Key,8,"28 Aug, 1993",26 y 182 d,194 cm,93 kg,91,VIC,Sandringham Dragons,hawthornhawks,Hawthorn
+7,Conor Glass,Def-Med-Gen,13,"28 Sep, 1997",22 y 151 d,189 cm,84 kg,17,N/A,Northern Ireland,hawthornhawks,Hawthorn
+8,Jack Gunston,Fwd-Tall-Key,19,"16 Oct, 1991",28 y 133 d,193 cm,87 kg,191,VIC,Sandringham Dragons,hawthornhawks,Hawthorn
+9, Oliver Hanrahan,Fwd-Med-Gen,41,"27 Aug, 1998",21 y 183 d,181 cm,75 kg,9,VIC,St Kevin's College,hawthornhawks,Hawthorn
+10,Blake Hardwick,Fwd-Med-Gen,15,"5 Feb, 1997",23 y 21 d,181 cm,79 kg,66,VIC,Eastern Ranges,hawthornhawks,Hawthorn
+11,Michael Hartley,Def-Tall-Key,27,"7 Jun, 1993",26 y 264 d,199 cm,100 kg,44,NSW,Penrith,hawthornhawks,Hawthorn
+12,Ricky Henderson,Util-Tall,31,"11 Sep, 1988",31 y 168 d,188 cm,89 kg,152,VIC,Trentham,hawthornhawks,Hawthorn
+13,Daniel Howe,Def-Tall-Gen,17,"4 Dec, 1995",24 y 84 d,191 cm,87 kg,62,VIC,Murray Bushrangers,hawthornhawks,Hawthorn
+14,Jarman Impey,Util-Smal,4,"9 Jul, 1995",24 y 232 d,178 cm,82 kg,116,VIC,Murray Bushrangers,hawthornhawks,Hawthorn
+15, Changkuoth Jiath,Fwd-Med-Gen,29,"13 Jun, 1999",20 y 258 d,185 cm,74 kg,2,VIC,Gipplsand Power,hawthornhawks,Hawthorn
+16,Jacob Koschitzke,Def-Tall-Key,34,"11 Jul, 2000",19 y 230 d,196 cm,94 kg,,VIC,Murray Bushrangers,hawthornhawks,Hawthorn
+17,Mitch Lewis,Fwd-Tall-Key,2,"14 Oct, 1998",21 y 135 d,198 cm,95 kg,14,VIC,Calder Cannons,hawthornhawks,Hawthorn
+18,Finn Maginness,Mid-Med,32,"23 Feb, 2001",19 y 3 d,187 cm,80 kg,,VIC,Sandringham Dragons,hawthornhawks,Hawthorn
+19,Ben McEvoy,Ruck-Tall,7,"11 Jul, 1989",30 y 230 d,200 cm,102 kg,206,VIC,Murray Bushrangers,hawthornhawks,Hawthorn
+20,Tom Mitchell,Mid-Med,3,"31 May, 1993",26 y 271 d,182 cm,84 kg,109,WA,Claremont,hawthornhawks,Hawthorn
+21,Dylan Moore,Mid-Med,36,"4 Aug, 1999",20 y 206 d,176 cm,70 kg,7,VIC,Eastern Ranges,hawthornhawks,Hawthorn
+22,Josh Morris,Fwd-Med-Gen,35,"7 Nov, 2001",18 y 111 d,186 cm,76 kg,,SA,Woodville-West Torrens,hawthornhawks,Hawthorn
+23,Harry Morrison,Def-Med-Gen,1,"12 Nov, 1998",21 y 106 d,180 cm,79 kg,31,VIC,Murray Bushrangers,hawthornhawks,Hawthorn
+24, Conor Nash,Def-Tall-Key,11,"28 Jul, 1998",21 y 213 d,197 cm,93 kg,19,N/A,Leinster (Ireland),hawthornhawks,Hawthorn
+25,Tim O'Brien,Fwd-Tall-Key,23,"28 Mar, 1994",25 y 335 d,193 cm,90 kg,62,SA,Glenelg,hawthornhawks,Hawthorn
+26,Jaeger O'Meara,Mid-Med,10,"23 Feb, 1994",26 y 3 d,183 cm,82 kg,92,WA,Dongara,hawthornhawks,Hawthorn
+27,Jonathon Patton,Fwd-Tall-Key,25,"20 May, 1993",26 y 282 d,198 cm,102 kg,88,VIC,Eastern Ranges,hawthornhawks,Hawthorn
+28,Paul Puopolo,Fwd-Smal-Gen,28,"2 Dec, 1987",32 y 86 d,173 cm,78 kg,189,SA,Norwood,hawthornhawks,Hawthorn
+29,Jackson Ross,Fwd-Tall-Gen,37,"22 Jun, 1999",20 y 249 d,193 cm,79 kg,,VIC,Eastern Ranges,hawthornhawks,Hawthorn
+30,Jack Scrimshaw,Def-Tall-Gen,14,"4 Sep, 1998",21 y 175 d,193 cm,88 kg,14,VIC,Sandringham Dragons,hawthornhawks,Hawthorn
+31,Tom Scully,Mid-Med,21,"15 May, 1991",28 y 287 d,181 cm,80 kg,172,VIC,Dandenong Stingrays,hawthornhawks,Hawthorn
+32,Liam Shiels,Mid-Med,26,"29 Apr, 1991",28 y 303 d,183 cm,84 kg,204,VIC,Eastern Ranges,hawthornhawks,Hawthorn
+33,James Sicily,Fwd-Med-Key,6,"6 Jan, 1995",25 y 51 d,186 cm,87 kg,82,VIC,Western Jets,hawthornhawks,Hawthorn
+34,Isaac Smith,Mid-Med,16,"30 Dec, 1988",31 y 58 d,188 cm,83 kg,199,VIC,North Ballarat,hawthornhawks,Hawthorn
+35,Ben Stratton,Def-Med-Key,24,"1 Mar, 1989",30 y 362 d,189 cm,88 kg,187,WA,East Perth,hawthornhawks,Hawthorn
+36,Mathew Walker,Fwd-Med-Gen,33,"14 Feb, 2000",20 y 12 d,188 cm,84 kg,,VIC,GWS Academy,hawthornhawks,Hawthorn
+37,Chad Wingard,Fwd-Med-Gen,20,"29 Jul, 1993",26 y 212 d,183 cm,85 kg,161,SA,Sturt,hawthornhawks,Hawthorn
+38,James Worpel,Mid-Med,5,"24 Jan, 1999",21 y 33 d,185 cm,85 kg,33,VIC,Geelong Falcons,hawthornhawks,Hawthorn
+39, Will Golds,Mid-Med,45,"6 May, 2000",19 y 296 d,181 cm,70 kg,,VIC,Oakleigh Chargers,hawthornhawks,Hawthorn
+40, Damon Greaves,Def-Med-Gen,44,"25 Apr, 2000",19 y 307 d,186 cm,77 kg,,WA,East Perth,hawthornhawks,Hawthorn
+41, Emerson Jeka,Fwd-Tall-Key,39,"18 Sep, 2001",18 y 161 d,197 cm,87 kg,,VIC,Western Jets,hawthornhawks,Hawthorn
+42, Harry Jones,Mid-Med,40,"15 Mar, 1999",20 y 348 d,185 cm,80 kg,,VIC,Murray Bushrangers,hawthornhawks,Hawthorn
+43, Harrison Pepper,Def-Med-Gen,42,"9 Aug, 2001",18 y 201 d,180 cm,83 kg,,VIC,Gippsland Power,hawthornhawks,Hawthorn
+44, Ned Reeves,Ruck-Tall,43,"31 Oct, 1998",21 y 118 d,208 cm,96 kg,,VIC,Oakleigh Chargers,hawthornhawks,Hawthorn
+0,Oskar Baker,Def-Med-Gen,33,"25 May, 1998",21 y 277 d,184 cm,82 kg,9,QLD,Aspley,melbournedemons,Melbourne
+1,Toby Bedford,Fwd-Smal-Gen,12,"27 May, 2000",19 y 275 d,178 cm,69 kg,,VIC,Dandenong Stingrays,melbournedemons,Melbourne
+2,Harley Bennell,Mid-Med,13,"2 Oct, 1992",27 y 147 d,185 cm,85 kg,83,WA,Peel Thunder,melbournedemons,Melbourne
+3,Angus Brayshaw,Mid-Med,10,"9 Jan, 1996",24 y 48 d,187 cm,87 kg,80,VIC,Sandringham Dragons,melbournedemons,Melbourne
+4,Kyle Dunkley,Mid-Med,48,"20 Jun, 2000",19 y 251 d,185 cm,84 kg,5,VIC,Gippsland Power,melbournedemons,Melbourne
+5,Bayley Fritsch,Fwd-Med-Gen,31,"6 Dec, 1996",23 y 82 d,188 cm,82 kg,45,VIC,Casey Demons,melbournedemons,Melbourne
+6,Max Gawn,Ruck-Tall,11,"30 Dec, 1991",28 y 58 d,208 cm,109 kg,120,VIC,Sandringham Dragons,melbournedemons,Melbourne
+7,Mitch Hannan,Fwd-Med-Gen,19,"9 Mar, 1994",25 y 354 d,189 cm,86 kg,41,VIC,Footscray VFL,melbournedemons,Melbourne
+8,James Harmes,Def-Med-Gen,4,"5 Oct, 1995",24 y 144 d,185 cm,82 kg,91,VIC,Dandenong Stingrays,melbournedemons,Melbourne
+9,Michael Hibberd,Def-Med-Gen,14,"3 Jan, 1990",30 y 54 d,186 cm,90 kg,142,VIC,Frankston,melbournedemons,Melbourne
+10,Marty Hore,Def-Tall-Key,34,"5 Mar, 1996",23 y 358 d,190 cm,84 kg,14,VIC,Collingwood VFL,melbournedemons,Melbourne
+11,Jayden Hunt,Def-Med-Gen,29,"3 Apr, 1995",24 y 329 d,187 cm,82 kg,68,VIC,Brighton Grammar,melbournedemons,Melbourne
+12,Luke Jackson,Ruck-Tall,6,"29 Sep, 2001",18 y 150 d,198 cm,94 kg,,WA,East Fremantle,melbournedemons,Melbourne
+13,Neville Jetta,Def-Med-Gen,39,"12 Feb, 1990",30 y 14 d,180 cm,83 kg,148,WA,Swan Districts,melbournedemons,Melbourne
+14,Nathan Jones,Mid-Med,2,"20 Jan, 1988",32 y 37 d,180 cm,87 kg,286,VIC,Dandenong Stingrays,melbournedemons,Melbourne
+15,James Jordon,Mid-Med,23,"20 Dec, 2000",19 y 68 d,186 cm,80 kg,,VIC,Oakleigh Chargers,melbournedemons,Melbourne
+16,Kade Kolodjashnij,Def-Med-Gen,16,"9 Aug, 1995",24 y 201 d,190 cm,86 kg,80,TAS,Launceston,melbournedemons,Melbourne
+17,Ed Langdon,Fwd-Med-Gen,15,"1 Feb, 1996",24 y 25 d,182 cm,78 kg,68,VIC,Sandringham Dragons,melbournedemons,Melbourne
+18,Jake Lever,Def-Tall-Key,8,"5 Mar, 1996",23 y 358 d,195 cm,91 kg,75,VIC,Calder Cannons,melbournedemons,Melbourne
+19,Jay Lockhart,Fwd-Smal-Gen,41,"3 Feb, 1996",24 y 23 d,177 cm,75 kg,12,TAS,Casey Demons,melbournedemons,Melbourne
+20,Steven May,Def-Tall-Key,1,"10 Jan, 1992",28 y 47 d,193 cm,100 kg,131,NT,Southern Districts,melbournedemons,Melbourne
+21,Oscar McDonald,Def-Tall-Key,28,"18 Mar, 1996",23 y 345 d,196 cm,100 kg,74,VIC,North Ballarat,melbournedemons,Melbourne
+22,Tom McDonald,Def-Tall-Key,25,"18 Sep, 1992",27 y 161 d,194 cm,99 kg,161,VIC,North Ballarat,melbournedemons,Melbourne
+23,Jake Melksham,Mid-Med,18,"29 Aug, 1991",28 y 181 d,186 cm,83 kg,168,VIC,Calder Cannons,melbournedemons,Melbourne
+24,Alex Neal-Bullen,Fwd-Med-Gen,30,"9 Jan, 1996",24 y 48 d,182 cm,80 kg,73,SA,Glenelg,melbournedemons,Melbourne
+25,Aaron Nietschke,Mid-Med,27,"26 May, 2000",19 y 276 d,184 cm,82 kg,,SA,Central District,melbournedemons,Melbourne
+26,Clayton Oliver,Mid-Med,13,"22 Jul, 1997",22 y 219 d,187 cm,85 kg,82,VIC,Murray Bushrangers,melbournedemons,Melbourne
+27,Christian Petracca,Mid-Med,5,"4 Jan, 1996",24 y 53 d,186 cm,96 kg,85,VIC,Eastern Ranges,melbournedemons,Melbourne
+28,Harrison Petty,Def-Tall-Key,35,"12 Nov, 1999",20 y 106 d,197 cm,89 kg,11,SA,Norwood,melbournedemons,Melbourne
+29,Kysaiah Pickett,Fwd-Smal-Gen,36,"2 Jun, 2001",18 y 269 d,171 cm,70 kg,,SA,Woodville-West Torrens,melbournedemons,Melbourne
+30,Braydon Preuss,Ruck-Tall,21,"16 Jun, 1995",24 y 255 d,206 cm,114 kg,15,QLD,Surfers Paradise,melbournedemons,Melbourne
+31,Trent Rivers,Def-Med-Gen,24,"30 Jul, 2001",18 y 211 d,187 cm,85 kg,,WA,East Fremantle,melbournedemons,Melbourne
+32,Christian Salem,Mid-Med,3,"15 Jul, 1995",24 y 226 d,183 cm,81 kg,90,VIC,Sandringham Dragons,melbournedemons,Melbourne
+33,Joel Smith,Util-Tall,44,"25 Feb, 1996",24 y 1 d,191 cm,87 kg,11,VIC,Geelong Supercats,melbournedemons,Melbourne
+34,Charlie Spargo,Fwd-Smal-Gen,9,"25 Nov, 1999",20 y 93 d,173 cm,71 kg,26,NSW,Murray Bushrangers,melbournedemons,Melbourne
+35,Tom Sparrow,Fwd-Med-Gen,32,"31 May, 2000",19 y 271 d,183 cm,82 kg,2,SA,South Adelaide,melbournedemons,Melbourne
+36,Adam Tomlinson,Util-Tall,20,"10 Aug, 1993",26 y 200 d,194 cm,96 kg,136,VIC,Oakleigh Chargers,melbournedemons,Melbourne
+37,Aaron Vandenberg,Fwd-Med-Gen,22,"3 Mar, 1992",27 y 360 d,188 cm,93 kg,35,ACT,Ainslie,melbournedemons,Melbourne
+38,Jack Viney,Mid-Smal,7,"13 Apr, 1994",25 y 319 d,178 cm,84 kg,119,VIC,Oakleigh Chargers,melbournedemons,Melbourne
+39, Corey Wagner,Mid-Med,40,"23 Mar, 1997",22 y 340 d,181 cm,75 kg,19,QLD,Aspley,melbournedemons,Melbourne
+40,Joshua Wagner,Def-Med-Gen,42,"24 Jun, 1994",25 y 247 d,189 cm,84 kg,40,QLD,Aspley,melbournedemons,Melbourne
+41,Sam Weideman,Fwd-Tall-Key,26,"26 Jun, 1997",22 y 245 d,195 cm,97 kg,31,VIC,Eastern Ranges,melbournedemons,Melbourne
+42, Austin Bradtke,Ruck-Tall,46,"27 May, 2000",19 y 275 d,204 cm,91 kg,,VIC,Haileybury College,melbournedemons,Melbourne
+43, Mitch W. Brown,Fwd-Tall-Key,38,"28 Aug, 1990",29 y 182 d,196 cm,91 kg,69,VIC,Sandringham Dragons,melbournedemons,Melbourne
+44, Kade Chandler,Fwd-Smal-Gen,37,"13 Jan, 2000",20 y 44 d,174 cm,75 kg,1,SA,Norwood,melbournedemons,Melbourne
+0,Paul Ahern,Util-Med,15,"1 Aug, 1996",23 y 209 d,183 cm,85 kg,18,VIC,Calder Cannons,northmelbournekangaroos,North Melbourne
+1,Jed Anderson,Mid-Smal,3,"2 Feb, 1994",26 y 24 d,179 cm,81 kg,62,NT,Darwin,northmelbournekangaroos,North Melbourne
+2,Shaun Atley,Def-Med-Gen,18,"13 Sep, 1992",27 y 166 d,189 cm,86 kg,197,VIC,Murray Bushrangers,northmelbournekangaroos,North Melbourne
+3,Aiden Bonar,Util-Med,16,"8 Mar, 1999",20 y 355 d,188 cm,87 kg,6,VIC,Dandenong Stingrays,northmelbournekangaroos,North Melbourne
+4,Ben Brown,Fwd-Tall-Key,50,"20 Nov, 1992",27 y 98 d,200 cm,101 kg,110,VIC,Werribee,northmelbournekangaroos,North Melbourne
+5, Tom Campbell,Ruck-Tall,42,"2 Nov, 1991",28 y 116 d,201 cm,105 kg,44,VIC,Bendigo Bombers,northmelbournekangaroos,North Melbourne
+6,Charlie Comben,Ruck-Tall,30,"20 Jul, 2001",18 y 221 d,199 cm,82 kg,,VIC,Gippsland Power,northmelbournekangaroos,North Melbourne
+7,Joel Crocker,Def-Med-Gen,36,"14 Apr, 2000",19 y 318 d,188 cm,73 kg,,VIC,Sandringham Dragons,northmelbournekangaroos,North Melbourne
+8,Ben Cunnington,Mid-Med,10,"30 Jun, 1991",28 y 241 d,185 cm,88 kg,209,VIC,Geelong Falcons,northmelbournekangaroos,North Melbourne
+9,Luke Davies-Uniacke,Mid-Med,9,"8 Jun, 1999",20 y 263 d,188 cm,85 kg,21,VIC,Dandenong Stingrays,northmelbournekangaroos,North Melbourne
+10,Majak Daw,Fwd-Tall-Key,1,"11 Mar, 1991",28 y 352 d,195 cm,97 kg,50,VIC,Western Jets,northmelbournekangaroos,North Melbourne
+11,Trent Dumont,Mid-Med,14,"30 Jun, 1995",24 y 241 d,186 cm,87 kg,82,SA,Norwood,northmelbournekangaroos,North Melbourne
+12,Sam Durdin,Util-Tall,24,"6 Jun, 1996",23 y 265 d,198 cm,97 kg,19,SA,West Adelaide,northmelbournekangaroos,North Melbourne
+13,Taylor Garner,Fwd-Med-Gen,6,"8 Jan, 1994",26 y 49 d,187 cm,88 kg,43,VIC,Dandenong Stingrays,northmelbournekangaroos,North Melbourne
+14,Todd Goldstein,Ruck-Tall,22,"1 Jul, 1988",31 y 240 d,201 cm,103 kg,234,VIC,Oakleigh,northmelbournekangaroos,North Melbourne
+15,Aaron Hall,Mid-Med,43,"9 Nov, 1990",29 y 109 d,185 cm,85 kg,109,TAS,Hobart,northmelbournekangaroos,North Melbourne
+16, Kyron Hayden,Mid-Med,37,"7 Jun, 1999",20 y 264 d,186 cm,86 kg,1,WA,Subiaco,northmelbournekangaroos,North Melbourne
+17,Shaun Higgins,Fwd-Med-Gen,4,"4 Mar, 1988",31 y 359 d,184 cm,89 kg,220,VIC,Geelong Falcons,northmelbournekangaroos,North Melbourne
+18,Ben Jacobs,Mid-Med,5,"9 Jan, 1992",28 y 48 d,185 cm,85 kg,90,VIC,Sandringham Dragons,northmelbournekangaroos,North Melbourne
+19,Nick Larkey,Util-Tall,20,"6 Jun, 1998",21 y 265 d,198 cm,93 kg,19,VIC,Oakleigh Chargers,northmelbournekangaroos,North Melbourne
+20,Jamie Macmillan,Def-Med-Gen,34,"23 Sep, 1991",28 y 156 d,188 cm,89 kg,157,VIC,Oakleigh Chargers,northmelbournekangaroos,North Melbourne
+21,Jack Mahony,Mid-Smal,35,"12 Nov, 2001",18 y 106 d,176 cm,70 kg,,VIC,Sandringham Dragons,northmelbournekangaroos,North Melbourne
+22,Luke McDonald,Def-Med-Gen,11,"9 Feb, 1995",25 y 17 d,189 cm,89 kg,109,VIC,Werribee,northmelbournekangaroos,North Melbourne
+23,Ben McKay,Def-Tall-Key,23,"24 Dec, 1997",22 y 64 d,201 cm,95 kg,4,VIC,Gippsland Power,northmelbournekangaroos,North Melbourne
+24,Flynn Perez,Mid-Med,39,"25 Aug, 2001",18 y 185 d,187 cm,82 kg,,VIC,Bendigo Pioneers,northmelbournekangaroos,North Melbourne
+25,Jasper Pittard,Def-Med-Gen,17,"1 Apr, 1991",28 y 331 d,186 cm,84 kg,148,VIC,Geelong Falcons,northmelbournekangaroos,North Melbourne
+26,Jared Polec,Mid-Med,13,"12 Oct, 1992",27 y 137 d,187 cm,84 kg,128,SA,Woodville-West Torrens,northmelbournekangaroos,North Melbourne
+27,Bailey Scott,Util-Med,8,"9 Jul, 2000",19 y 232 d,186 cm,73 kg,4,QLD,Gold Coast Academy,northmelbournekangaroos,North Melbourne
+28,Jy Simpkin,Fwd-Med-Gen,12,"5 Mar, 1998",21 y 358 d,182 cm,75 kg,56,VIC,Murray Bushrangers,northmelbournekangaroos,North Melbourne
+29,Robbie Tarrant,Def-Tall-Key,25,"25 Apr, 1989",30 y 307 d,196 cm,97 kg,148,VIC,Bendigo Pioneers,northmelbournekangaroos,North Melbourne
+30,Curtis Taylor,Util-Med,31,"6 Apr, 2000",19 y 326 d,187 cm,78 kg,2,VIC,Calder Cannons,northmelbournekangaroos,North Melbourne
+31,Tarryn Thomas,Util-Med,26,"25 Mar, 2000",19 y 338 d,189 cm,74 kg,20,TAS,North Launceston,northmelbournekangaroos,North Melbourne
+32,Kayne Turner,Fwd-Med-Gen,28,"31 Dec, 1995",24 y 57 d,180 cm,75 kg,79,VIC,Wodonga,northmelbournekangaroos,North Melbourne
+33,Dom Tyson,Mid-Med,21,"8 Jun, 1993",26 y 263 d,186 cm,85 kg,110,VIC,Oakleigh Chargers,northmelbournekangaroos,North Melbourne
+34,Ed Vickers-Willis,Def-Tall-Key,33,"28 Mar, 1996",23 y 335 d,190 cm,86 kg,15,VIC,Sandringham Dragons,northmelbournekangaroos,North Melbourne
+35,Will Walker,Mid-Med,27,"30 Mar, 1999",20 y 333 d,186 cm,78 kg,4,VIC,Sandringham Dragons,northmelbournekangaroos,North Melbourne
+36,Marley Williams,Def-Med-Gen,2,"22 Jul, 1993",26 y 219 d,181 cm,83 kg,119,WA,Claremont,northmelbournekangaroos,North Melbourne
+37,Mason Wood,Fwd-Tall-Gen,32,"13 Sep, 1993",26 y 166 d,192 cm,87 kg,57,VIC,Geelong Falcons,northmelbournekangaroos,North Melbourne
+38,Tristan Xerri,Ruck-Tall,38,"15 Mar, 1999",20 y 348 d,201 cm,94 kg,,VIC,Western Jets,northmelbournekangaroos,North Melbourne
+39,Jack Ziebell,Mid-Med,7,"28 Feb, 1991",28 y 363 d,188 cm,89 kg,210,VIC,Murray Bushrangers,northmelbournekangaroos,North Melbourne
+40, Cameron Zurhaar,Fwd-Med-Gen,44,"22 May, 1998",21 y 280 d,189 cm,90 kg,28,WA,East Fremantle,northmelbournekangaroos,North Melbourne
+41, Lachlan Hosie,Fwd-Med-Gen,46,"25 Feb, 1997",23 y 1 d,189 cm,78 kg,,SA,Glenelg,northmelbournekangaroos,North Melbourne
+42, Matthew McGuinness,Util-Tall,41,"13 Jul, 2000",19 y 228 d,192 cm,75 kg,,TAS,Tasmania Devils,northmelbournekangaroos,North Melbourne
+43, Tom Murphy,Def-Med-Gen,40,"19 Jan, 1998",22 y 38 d,189 cm,82 kg,4,VIC,Dandenong Stingrays,northmelbournekangaroos,North Melbourne
+0,Karl Amon,Mid-Med,15,"19 Aug, 1995",24 y 191 d,181 cm,71 kg,59,VIC,Sandringham Dragons,portadelaidepower,Port Adelaide
+1,Joe Atley,Mid-Med,30,"4 Aug, 1998",21 y 206 d,186 cm,84 kg,4,VIC,Bendigo Pioneers,portadelaidepower,Port Adelaide
+2,Miles Bergman,Mid-Med,14,"18 Oct, 2001",18 y 131 d,186 cm,75 kg,,VIC,Sandringham Dragons,portadelaidepower,Port Adelaide
+3,Travis Boak,Mid-Med,10,"1 Aug, 1988",31 y 209 d,183 cm,85 kg,264,VIC,Geelong Falcons,portadelaidepower,Port Adelaide
+4,Riley Bonner,Def-Tall-Gen,26,"7 Mar, 1997",22 y 356 d,190 cm,85 kg,42,SA,West Adelaide,portadelaidepower,Port Adelaide
+5,Ryan Burton,Def-Tall-Gen,3,"31 Jan, 1997",23 y 26 d,191 cm,90 kg,63,SA,North Adelaide,portadelaidepower,Port Adelaide
+6,Zak Butters,Fwd-Smal-Gen,18,"8 Sep, 2000",19 y 171 d,181 cm,71 kg,19,VIC,Western Jets,portadelaidepower,Port Adelaide
+7,Wylie Buzza,Fwd-Tall-Key,13,"2 Mar, 1996",23 y 361 d,199 cm,102 kg,9,QLD,Mt Gravatt,portadelaidepower,Port Adelaide
+8,Darcy Byrne-Jones,Def-Med-Gen,33,"20 Sep, 1995",24 y 159 d,181 cm,75 kg,86,VIC,Oakleigh Chargers,portadelaidepower,Port Adelaide
+9,Tom Clurey,Def-Tall-Key,17,"23 Mar, 1994",25 y 340 d,193 cm,88 kg,81,VIC,Murray Bushrangers,portadelaidepower,Port Adelaide
+10,Charlie Dixon,Fwd-Tall-Key,22,"23 Sep, 1990",29 y 156 d,200 cm,105 kg,135,QLD,Redland,portadelaidepower,Port Adelaide
+11,Willem Drew,Mid-Med,28,"1 Oct, 1998",21 y 148 d,188 cm,78 kg,10,VIC,North Ballarat Rebels,portadelaidepower,Port Adelaide
+12,Xavier Duursma,Util-Med,21,"7 Jul, 2000",19 y 234 d,186 cm,73 kg,20,VIC,Gippsland Power,portadelaidepower,Port Adelaide
+13,Brad Ebert,Fwd-Med-Gen,7,"2 Apr, 1990",29 y 330 d,189 cm,90 kg,246,SA,Port Adelaide Magpies,portadelaidepower,Port Adelaide
+14,Kane Farrell,Fwd-Med-Gen,24,"17 Mar, 1999",20 y 346 d,182 cm,74 kg,12,VIC,Bendigo Pioneers,portadelaidepower,Port Adelaide
+15,Joel Garner,Def-Med-Gen,27,"21 May, 1999",20 y 281 d,184 cm,83 kg,4,VIC,Eastern Ranges,portadelaidepower,Port Adelaide
+16,Mitch Georgiades,Fwd-Tall-Key,19,"28 Sep, 2001",18 y 151 d,191 cm,78 kg,,WA,Subiaco,portadelaidepower,Port Adelaide
+17,Robbie Gray,Util-Med,9,"30 Mar, 1988",31 y 333 d,183 cm,84 kg,216,VIC,Oakleigh,portadelaidepower,Port Adelaide
+18,Hamish Hartlett,Def-Med-Gen,8,"14 Aug, 1990",29 y 196 d,185 cm,83 kg,164,SA,West Adelaide,portadelaidepower,Port Adelaide
+19,Sam Hayes,Util-Tall,25,"9 Jun, 1999",20 y 262 d,203 cm,93 kg,,VIC,Eastern Ranges,portadelaidepower,Port Adelaide
+20,Dan Houston,Util-Med,5,"12 May, 1997",22 y 290 d,186 cm,83 kg,60,VIC,Oakleigh Chargers,portadelaidepower,Port Adelaide
+21,Tom Jonas,Def-Med-Key,1,"9 Jan, 1991",29 y 48 d,188 cm,89 kg,139,SA,Norwood,portadelaidepower,Port Adelaide
+22, Peter Ladhams,Ruck-Tall,38,"14 Jan, 1998",22 y 43 d,202 cm,95 kg,5,SA,Norwood,portadelaidepower,Port Adelaide
+23, Jarrod Lienert,Def-Tall-Key,40,"5 Aug, 1994",25 y 205 d,195 cm,88 kg,13,SA,Sturt,portadelaidepower,Port Adelaide
+24,Scott Lycett,Ruck-Tall,29,"26 Sep, 1992",27 y 153 d,203 cm,98 kg,93,SA,Port Magpies,portadelaidepower,Port Adelaide
+25,Todd Marshall,Fwd-Tall-Key,4,"8 Oct, 1998",21 y 141 d,198 cm,87 kg,20,NSW,Murray Bushrangers,portadelaidepower,Port Adelaide
+26,Sam Mayes,Mid-Med,32,"20 May, 1994",25 y 282 d,187 cm,84 kg,101,SA,North Adelaide,portadelaidepower,Port Adelaide
+27,Trent McKenzie,Def-Med-Gen,12,"3 Apr, 1992",27 y 329 d,191 cm,83 kg,108,VIC,Western Jets,portadelaidepower,Port Adelaide
+28,Jackson Mead,Mid-Med,44,"30 Sep, 2001",18 y 149 d,184 cm,83 kg,,SA,Woodville-West Torrens,portadelaidepower,Port Adelaide
+29,Steven Motlop,Fwd-Med-Gen,6,"12 Mar, 1991",28 y 351 d,183 cm,76 kg,168,NT,Wanderers,portadelaidepower,Port Adelaide
+30,Jake Patmore,Fwd-Med-Gen,37,"29 Jan, 1999",21 y 28 d,181 cm,72 kg,,WA,Claremont,portadelaidepower,Port Adelaide
+31,Sam Powell-Pepper,Mid-Med,2,"8 Jan, 1998",22 y 49 d,187 cm,91 kg,57,WA,East Perth,portadelaidepower,Port Adelaide
+32,Tom Rockliff,Mid-Med,11,"22 Feb, 1990",30 y 4 d,185 cm,85 kg,190,VIC,Murray Bushrangers,portadelaidepower,Port Adelaide
+33,Connor Rozee,Fwd-Med-Gen,20,"22 Jan, 2000",20 y 35 d,185 cm,74 kg,22,SA,North Adelaide,portadelaidepower,Port Adelaide
+34,Cameron Sutcliffe,Util-Med,50,"23 May, 1992",27 y 279 d,186 cm,87 kg,108,SA,Woodville-West Torrens,portadelaidepower,Port Adelaide
+35,Jack Watts,Util-Tall,23,"26 Mar, 1991",28 y 337 d,196 cm,88 kg,174,VIC,Sandringham Dragons,portadelaidepower,Port Adelaide
+36,Justin Westhoff,Fwd-Tall-Key,39,"1 Oct, 1986",33 y 148 d,199 cm,96 kg,268,SA,Central Districts,portadelaidepower,Port Adelaide
+37,Dylan Williams,Fwd-Med-Gen,34,"1 Jul, 2001",18 y 240 d,185 cm,79 kg,,VIC,Oakleigh Chargers,portadelaidepower,Port Adelaide
+38,Ollie Wines,Mid-Med,16,"7 Oct, 1994",25 y 142 d,187 cm,89 kg,141,VIC,Bendigo Pioneers,portadelaidepower,Port Adelaide
+39, Trent Burgoyne,Mid-Med,31,"2 Oct, 2001",18 y 147 d,178 cm,67 kg,,SA,Woodville-West Torrens,portadelaidepower,Port Adelaide
+40, Tobin Cox,Fwd-Smal-Gen,47,"15 Jul, 1999",20 y 226 d,181 cm,73 kg,,SA,Glenelg,portadelaidepower,Port Adelaide
+41, Martin Frederick,Def-Smal-Gen,45,"17 May, 2000",19 y 285 d,178 cm,74 kg,,SA,Woodville-West Torrens,portadelaidepower,Port Adelaide
+42, Riley Grundy,Def-Tall-Key,41,"28 Jul, 2000",19 y 213 d,194 cm,84 kg,,SA,Sturt,portadelaidepower,Port Adelaide
+43, Jake Pasini,Def-Tall-Key,48,"6 Feb, 2001",19 y 20 d,192 cm,81 kg,,WA,Swan Districts,portadelaidepower,Port Adelaide
+44, Boyd Woodcock,Fwd-Smal-Gen,36,"5 Mar, 2000",19 y 358 d,174 cm,70 kg,,SA,North Adelaide,portadelaidepower,Port Adelaide
+0,David Astbury,Def-Tall-Key,12,"26 Feb, 1991",29 y 0 d,195 cm,96 kg,126,VIC,North Ballarat Rebels,richmondtigers,Richmond
+1,Noah Balta,Util-Tall,21,"23 Oct, 1999",20 y 126 d,194 cm,100 kg,13,VIC,Calder Cannons,richmondtigers,Richmond
+2,Shai Bolton,Fwd-Smal-Gen,29,"8 Dec, 1998",21 y 80 d,175 cm,77 kg,25,WA,South Fremantle,richmondtigers,Richmond
+3,Nathan Broad,Def-Tall-Gen,35,"15 Apr, 1993",26 y 317 d,192 cm,89 kg,51,WA,Swan Districts,richmondtigers,Richmond
+4,Josh Caddy,Mid-Med,22,"28 Sep, 1992",27 y 151 d,186 cm,87 kg,152,VIC,Northern Knights,richmondtigers,Richmond
+5,Jason Castagna,Fwd-Med-Gen,11,"12 Jul, 1996",23 y 229 d,181 cm,82 kg,73,VIC,Northern Knights,richmondtigers,Richmond
+6,Callum Coleman-Jones,Ruck-Tall,40,"13 Jun, 1999",20 y 258 d,200 cm,102 kg,1,SA,Sturt,richmondtigers,Richmond
+7,Riley Collier-Dawkins,Mid-Med,26,"3 Feb, 2000",20 y 23 d,189 cm,89 kg,,VIC,Oakleigh Chargers,richmondtigers,Richmond
+8,Trent Cotchin,Mid-Med,9,"7 Apr, 1990",29 y 325 d,185 cm,86 kg,231,VIC,Northern Knights,richmondtigers,Richmond
+9,Noah Cumberland,Fwd-Med-Gen,38,"15 Mar, 2001",18 y 348 d,183 cm,79 kg,,QLD,Brisbane Academy,richmondtigers,Richmond
+10,Thomson Dow,Mid-Med,27,"16 Oct, 2001",18 y 133 d,182 cm,72 kg,,VIC,Bendigo Pioneers,richmondtigers,Richmond
+11,Shane Edwards,Fwd-Med-Gen,10,"25 Oct, 1988",31 y 124 d,182 cm,80 kg,252,SA,Nth Adelaide,richmondtigers,Richmond
+12,Luke English,Mid-Med,32,"20 Aug, 2000",19 y 190 d,182 cm,80 kg,,WA,Perth,richmondtigers,Richmond
+13,Ryan Garthwaite,Def-Tall-Key,42,"30 Jun, 1998",21 y 241 d,192 cm,91 kg,9,VIC,Murray Bushrangers,richmondtigers,Richmond
+14,Jack Graham,Mid-Med,34,"25 Feb, 1998",22 y 1 d,181 cm,82 kg,37,SA,North Adelaide,richmondtigers,Richmond
+15,Dylan Grimes,Def-Tall-Key,2,"16 Jul, 1991",28 y 225 d,193 cm,90 kg,148,VIC,Northern Knights,richmondtigers,Richmond
+16,Jack Higgins,Fwd-Smal-Gen,13,"19 Mar, 1999",20 y 344 d,177 cm,78 kg,33,VIC,Oakleigh Chargers,richmondtigers,Richmond
+17,Bachar Houli,Def-Med-Gen,14,"12 May, 1988",31 y 290 d,180 cm,83 kg,204,VIC,Western Jets,richmondtigers,Richmond
+18,Kane Lambert,Fwd-Smal-Gen,23,"26 Nov, 1991",28 y 92 d,178 cm,77 kg,92,VIC,Williamstown,richmondtigers,Richmond
+19,Tom J. Lynch,Fwd-Tall-Key,19,"31 Oct, 1992",27 y 118 d,199 cm,99 kg,153,VIC,Dandenong Stingrays,richmondtigers,Richmond
+20,Oleg Markov,Def-Med-Gen,31,"8 May, 1996",23 y 294 d,188 cm,82 kg,17,SA,North Adelaide,richmondtigers,Richmond
+21,Dustin Martin,Mid-Med,4,"26 Jun, 1991",28 y 245 d,187 cm,93 kg,221,VIC,Bendigo Pioneers,richmondtigers,Richmond
+22,Will Martyn,Mid-Med,36,"29 Mar, 2001",18 y 334 d,184 cm,79 kg,,QLD,Brisbane Academy,richmondtigers,Richmond
+23,Kamdyn McIntosh,Def-Tall-Gen,33,"3 Apr, 1994",25 y 329 d,191 cm,91 kg,90,WA,Peel Thunder,richmondtigers,Richmond
+24,Ben Miller,Def-Tall-Key,46,"31 Aug, 1999",20 y 179 d,195 cm,95 kg,,WA,Subiaco,richmondtigers,Richmond
+25,Patrick Naish,Mid-Med,6,"15 Jan, 1999",21 y 42 d,182 cm,75 kg,2,VIC,Northern Knights,richmondtigers,Richmond
+26,Toby Nankervis,Ruck-Tall,25,"12 Aug, 1994",25 y 198 d,199 cm,102 kg,68,TAS,North Launceston,richmondtigers,Richmond
+27,Bigoa Nyuon,Ruck-Tall,47,"18 May, 2001",18 y 284 d,196 cm,86 kg,,VIC,Dandenong Stingrays,richmondtigers,Richmond
+28,Dion Prestia,Mid-Smal,3,"12 Oct, 1992",27 y 137 d,175 cm,82 kg,152,VIC,Calder Cannons,richmondtigers,Richmond
+29,Hugo Ralphsmith,Mid-Med,45,"9 Nov, 2001",18 y 109 d,186 cm,70 kg,,VIC,Sandringham Dragons,richmondtigers,Richmond
+30,Alex Rance,Def-Tall-Key,18,"9 Oct, 1989",30 y 140 d,194 cm,96 kg,200,WA,Swan Districts,richmondtigers,Richmond
+31,Jack Riewoldt,Fwd-Tall-Key,8,"31 Oct, 1988",31 y 118 d,193 cm,92 kg,259,TAS,Tassie Mariners,richmondtigers,Richmond
+32,Daniel Rioli,Fwd-Smal-Gen,17,"16 Apr, 1997",22 y 316 d,179 cm,76 kg,74,NT,St Mary's,richmondtigers,Richmond
+33,Jack Ross,Mid-Med,5,"3 Sep, 2000",19 y 176 d,187 cm,85 kg,7,VIC,Oakleigh Chargers,richmondtigers,Richmond
+34,Jayden Short,Def-Smal-Gen,15,"24 Jan, 1996",24 y 33 d,178 cm,76 kg,68,VIC,Northern Knights,richmondtigers,Richmond
+35,Ivan Soldo,Ruck-Tall,20,"14 Apr, 1996",23 y 318 d,204 cm,106 kg,19,VIC,Northern Knights,richmondtigers,Richmond
+36,Fraser Turner,Mid-Med,28,"26 Dec, 2000",19 y 62 d,186 cm,75 kg,,TAS,Clarence,richmondtigers,Richmond
+37,Nick Vlastuin,Def-Med-Gen,1,"19 Apr, 1994",25 y 313 d,187 cm,88 kg,138,VIC,Northern Knights,richmondtigers,Richmond
+38, Jake Aarts,Fwd-Med-Gen,39,"8 Dec, 1994",25 y 80 d,177 cm,75 kg,,VIC,Richmond VFL,richmondtigers,Richmond
+39, Liam Baker,Fwd-Smal-Gen,7,"27 Jan, 1998",22 y 30 d,173 cm,72 kg,19,WA,Subiaco,richmondtigers,Richmond
+40, Mabior Chol,Fwd-Tall-Key,41,"29 Jan, 1997",23 y 28 d,200 cm,91 kg,10,QLD,Yeronga,richmondtigers,Richmond
+41, Marlion Pickett,Mid-Med,50,"6 Jan, 1992",28 y 51 d,184 cm,84 kg,,WA,South Fremantle,richmondtigers,Richmond
+42, Derek Smith,Def-Med-Gen,43,"4 May, 1998",21 y 298 d,180 cm,80 kg,2,NT,Bendigo Pioneers,richmondtigers,Richmond
+43, Sydney Stack,Mid-Smal,44,"28 Apr, 2000",19 y 304 d,179 cm,72 kg,17,WA,Perth,richmondtigers,Richmond
+0,Ryan Abbott,Ruck-Tall,27,"25 Jun, 1991",28 y 246 d,200 cm,100 kg,5,VIC,Geelong VFL,stkildasaints,St Kilda
+1,Logan Austin,Def-Tall-Key,24,"8 Jul, 1995",24 y 233 d,196 cm,92 kg,20,ACT,Belconnen,stkildasaints,St Kilda
+2,Josh Battle,Fwd-Tall-Key,26,"1 Sep, 1998",21 y 178 d,193 cm,92 kg,26,VIC,Dandenong Stingrays,stkildasaints,St Kilda
+3,Jack Billings,Mid-Med,15,"18 Aug, 1995",24 y 192 d,184 cm,79 kg,107,VIC,Oakleigh Chargers,stkildasaints,St Kilda
+4,Nathan Brown,Def-Tall-Key,22,"17 Dec, 1988",31 y 71 d,196 cm,99 kg,182,VIC,Nth Ballarat,stkildasaints,St Kilda
+5,Daniel Butler,Fwd-Med-Gen,16,"3 Jun, 1996",23 y 268 d,182 cm,80 kg,45,VIC,North Ballarat,stkildasaints,St Kilda
+6,Ryan Byrnes,Mid-Med,31,"3 May, 2001",18 y 299 d,181 cm,80 kg,,VIC,Sandringham Dragons,stkildasaints,St Kilda
+7,Jack Bytel,Mid-Med,23,"14 Mar, 2000",19 y 349 d,189 cm,78 kg,,VIC,Calder Cannons,stkildasaints,St Kilda
+8,Jake Carlisle,Def-Tall-Key,2,"1 Oct, 1991",28 y 148 d,200 cm,106 kg,134,VIC,Calder Cannons,stkildasaints,St Kilda
+9,Hunter Clark,Util-Med,11,"26 Mar, 1999",20 y 337 d,187 cm,82 kg,29,VIC,Dandenong Stingrays,stkildasaints,St Kilda
+10,Oscar Clavarino,Def-Tall-Key,38,"22 May, 1999",20 y 280 d,197 cm,89 kg,,VIC,Dandenong Stingrays,stkildasaints,St Kilda
+11,Nicholas Coffield,Mid-Tall,1,"23 Oct, 1999",20 y 126 d,191 cm,86 kg,18,VIC,Northern Knights,stkildasaints,St Kilda
+12,Leo Connolly,Def-Med-Gen,37,"7 Aug, 2001",18 y 203 d,180 cm,72 kg,,VIC,Gippsland Power,stkildasaints,St Kilda
+13,Luke Dunstan,Mid-Med,7,"29 Jan, 1995",25 y 28 d,185 cm,84 kg,103,SA,Woodville-West Torrens,stkildasaints,St Kilda
+14,Jarryn Geary,Def-Med-Gen,14,"23 Jun, 1988",31 y 248 d,183 cm,82 kg,188,VIC,Bendigo Pioneers,stkildasaints,St Kilda
+15,Jade Gresham,Fwd-Smal-Gen,4,"24 Aug, 1997",22 y 186 d,179 cm,79 kg,81,VIC,Northern Knights,stkildasaints,St Kilda
+16,Dan Hannebery,Mid-Med,10,"24 Feb, 1991",29 y 2 d,181 cm,80 kg,211,VIC,Oakleigh Chargers,stkildasaints,St Kilda
+17,Bradley Hill,Mid-Med,8,"9 Jul, 1993",26 y 232 d,179 cm,79 kg,148,WA,West Perth,stkildasaints,St Kilda
+18,Nick Hind,Def-Med-Gen,40,"19 Aug, 1994",25 y 191 d,180 cm,71 kg,11,VIC,Essendon VFL,stkildasaints,St Kilda
+19,Dougal Howard,Util-Tall,20,"25 Mar, 1996",23 y 338 d,199 cm,92 kg,45,VIC,Murray Bushrangers,stkildasaints,St Kilda
+20,Zak Jones,Def-Med-Gen,3,"15 Mar, 1995",24 y 348 d,181 cm,80 kg,89,VIC,Dandenong Stingrays,stkildasaints,St Kilda
+21, Darragh Joyce,Def-Tall-Gen,39,"23 Apr, 1997",22 y 309 d,195 cm,90 kg,5,N/A,Kilkenny (Ireland),stkildasaints,St Kilda
+22,Dean Kent,Fwd-Smal-Gen,25,"24 Feb, 1994",26 y 2 d,180 cm,85 kg,76,WA,Perth,stkildasaints,St Kilda
+23,Max King,Fwd-Tall-Key,12,"7 Jul, 2000",19 y 234 d,202 cm,90 kg,,VIC,Sandringham Dragons,stkildasaints,St Kilda
+24, Doulton Langlands,Def-Med-Gen,46,"29 Jul, 1999",20 y 212 d,187 cm,83 kg,3,NSW,Murray Bushrangers,stkildasaints,St Kilda
+25,Ben Long,Util-Med,21,"21 Aug, 1997",22 y 189 d,184 cm,79 kg,30,NT,St Marys,stkildasaints,St Kilda
+26,Jack Lonie,Fwd-Smal-Gen,13,"13 Aug, 1996",23 y 197 d,175 cm,70 kg,63,VIC,Dandenong Stingrays,stkildasaints,St Kilda
+27,Jonathon Marsh,Def-Tall-Key,43,"17 Oct, 1995",24 y 132 d,194 cm,93 kg,20,WA,East Fremantle,stkildasaints,St Kilda
+28,Rowan Marshall,Util-Tall,19,"24 Nov, 1995",24 y 94 d,201 cm,104 kg,33,VIC,North Ballarat Rebels,stkildasaints,St Kilda
+29,Daniel McKenzie,Mid-Med,36,"17 May, 1996",23 y 285 d,185 cm,83 kg,49,VIC,Oakleigh Chargers,stkildasaints,St Kilda
+30,Tim Membrey,Fwd-Med-Key,28,"26 May, 1994",25 y 276 d,190 cm,89 kg,92,VIC,Gippsland Power,stkildasaints,St Kilda
+31,Matthew Parker,Fwd-Med-Gen,34,"25 Jan, 1996",24 y 32 d,190 cm,75 kg,17,WA,South Fremantle,stkildasaints,St Kilda
+32,Ben Paton,Def-Med-Gen,33,"19 Oct, 1998",21 y 130 d,187 cm,79 kg,16,VIC,Murray Bushrangers,stkildasaints,St Kilda
+33,Ed Phillips,Util-Med,30,"29 Mar, 1998",21 y 334 d,187 cm,82 kg,11,VIC,Oakleigh Chargers,stkildasaints,St Kilda
+34,Dylan Roberton,Def-Tall-Key,17,"21 Jun, 1991",28 y 250 d,194 cm,94 kg,128,VIC,Dandenong Stingrays,stkildasaints,St Kilda
+35,Seb Ross,Mid-Med,6,"7 May, 1993",26 y 295 d,188 cm,88 kg,124,VIC,North Ballarat,stkildasaints,St Kilda
+36,Patrick Ryder,Util-Tall,18,"14 Mar, 1988",31 y 349 d,197 cm,94 kg,243,WA,East Fremantle,stkildasaints,St Kilda
+37,Shane Savage,Def-Med-Gen,5,"5 Jan, 1991",29 y 52 d,187 cm,82 kg,163,VIC,Dandenong Stingrays,stkildasaints,St Kilda
+38,Jack Sinclair,Fwd-Med-Gen,35,"12 Feb, 1995",25 y 14 d,181 cm,81 kg,86,VIC,Oakleigh Chargers,stkildasaints,St Kilda
+39,Jack Steele,Mid-Med,9,"13 Dec, 1995",24 y 75 d,187 cm,90 kg,78,ACT,Belconnen,stkildasaints,St Kilda
+40,Jimmy Webster,Def-Med-Gen,29,"28 Jun, 1993",26 y 243 d,188 cm,83 kg,93,TAS,Glenorchy,stkildasaints,St Kilda
+41, Callum Wilkie,Def-Tall-Key,44,"10 Mar, 1996",23 y 353 d,191 cm,87 kg,22,SA,North Adelaide,stkildasaints,St Kilda
+42, Sam Alabakis,Ruck-Tall,45,"2 May, 1997",22 y 300 d,211 cm,105 kg,,WA,Perth Wildcats,stkildasaints,St Kilda
+43, Jack Bell,Ruck-Tall,42,"26 Jan, 2001",19 y 31 d,200 cm,73 kg,,VIC,Sandringham Dragons,stkildasaints,St Kilda
+44, Jack Mayo,Fwd-Tall-Key,48,"22 Jul, 1999",20 y 219 d,192 cm,81 kg,,WA,Sandringham VFL,stkildasaints,St Kilda
+0,Aliir Aliir,Def-Tall-Key,36,"5 Sep, 1994",25 y 174 d,195 cm,97 kg,49,WA,East Fremantle,sydneyswans,Sydney
+1, Joel Amartey,Ruck-Tall,46,"2 Sep, 1999",20 y 177 d,197 cm,96 kg,,VIC,Sandringham Dragons,sydneyswans,Sydney
+2, James Bell,Mid-Med,32,"10 Feb, 1999",21 y 16 d,183 cm,81 kg,2,NSW,Swans Academy,sydneyswans,Sydney
+3,Nick Blakey,Fwd-Tall-Key,22,"27 Feb, 2000",19 y 364 d,195 cm,80 kg,21,NSW,Sydney Academy,sydneyswans,Sydney
+4,Kaiden Brand,Def-Tall-Key,2,"8 Apr, 1994",25 y 324 d,198 cm,98 kg,43,SA,West Adelaide,sydneyswans,Sydney
+5,Ryan Clarke,Mid-Med,4,"17 Jun, 1997",22 y 254 d,186 cm,85 kg,54,VIC,Eastern Ranges,sydneyswans,Sydney
+6,Harry Cunningham,Mid-Med,7,"6 Dec, 1993",26 y 82 d,181 cm,78 kg,113,NSW,Turvey Park,sydneyswans,Sydney
+7,Jordan Dawson,Fwd-Med-Key,34,"9 Apr, 1997",22 y 323 d,192 cm,86 kg,25,SA,Sturt,sydneyswans,Sydney
+8,Oliver Florent,Util-Med,13,"22 Jul, 1998",21 y 219 d,185 cm,81 kg,53,VIC,Sandringham Dragons,sydneyswans,Sydney
+9,Zac Foot,Fwd-Med-Gen,16,"24 Dec, 2000",19 y 64 d,181 cm,73 kg,,VIC,Dandenong Stingrays,sydneyswans,Sydney
+10,Robbie Fox,Mid-Med,42,"16 Apr, 1993",26 y 316 d,186 cm,86 kg,24,TAS,Coburg,sydneyswans,Sydney
+11,Lance Franklin,Fwd-Tall-Key,23,"30 Jan, 1987",33 y 27 d,199 cm,105 kg,299,WA,Perth,sydneyswans,Sydney
+12,Will Gould,Def-Tall-Key,17,"14 Jan, 2001",19 y 43 d,191 cm,98 kg,,SA,Glenelg,sydneyswans,Sydney
+13,Sam Gray,Mid-Smal,15,"1 Feb, 1992",28 y 25 d,176 cm,75 kg,96,SA,Port Adelaide (SANFL),sydneyswans,Sydney
+14,Will Hayward,Fwd-Med-Gen,9,"26 Oct, 1998",21 y 123 d,187 cm,84 kg,53,SA,North Adelaide,sydneyswans,Sydney
+15,Isaac Heeney,Fwd-Med-Gen,5,"5 May, 1996",23 y 297 d,186 cm,84 kg,101,NSW,Cardiff,sydneyswans,Sydney
+16,George Hewett,Fwd-Med-Gen,29,"29 Dec, 1995",24 y 59 d,187 cm,84 kg,92,SA,North Adelaide,sydneyswans,Sydney
+17,Josh P. Kennedy,Mid-Med,12,"20 Jun, 1988",31 y 251 d,189 cm,97 kg,244,VIC,Sandringham Dragons,sydneyswans,Sydney
+18,Matthew Ling,Def-Med-Gen,19,"21 Apr, 1999",20 y 311 d,184 cm,79 kg,,VIC,Geelong Falcons,sydneyswans,Sydney
+19,Jake Lloyd,Util-Med,44,"20 Sep, 1993",26 y 159 d,181 cm,79 kg,136,VIC,Murray Bushrangers,sydneyswans,Sydney
+20,Tom McCartin,Fwd-Tall-Key,30,"30 Dec, 1999",20 y 58 d,193 cm,89 kg,34,VIC,Geelong Falcons,sydneyswans,Sydney
+21,Justin McInerney,Def-Med-Gen,27,"18 Aug, 2000",19 y 192 d,187 cm,73 kg,1,VIC,Northern Knights,sydneyswans,Sydney
+22, Hayden McLean,Util-Tall,41,"20 Jan, 1999",21 y 37 d,197 cm,93 kg,4,VIC,Sandringham Dragons,sydneyswans,Sydney
+23,Lewis Melican,Def-Tall-Key,43,"4 Nov, 1996",23 y 114 d,195 cm,98 kg,37,VIC,Geelong Falcons,sydneyswans,Sydney
+24,Callum Mills,Def-Med-Gen,14,"2 Apr, 1997",22 y 330 d,189 cm,83 kg,77,NSW,North Shore,sydneyswans,Sydney
+25,Sam Naismith,Ruck-Tall,10,"16 Jul, 1992",27 y 225 d,206 cm,108 kg,27,NSW,North Shore,sydneyswans,Sydney
+26,Colin O'Riordan,Def-Med-Gen,38,"12 Oct, 1995",24 y 137 d,187 cm,87 kg,15,N/A,County Tipperary,sydneyswans,Sydney
+27,Tom Papley,Fwd-Smal-Gen,11,"13 Jul, 1996",23 y 228 d,178 cm,76 kg,81,VIC,Gippsland Power,sydneyswans,Sydney
+28,Luke Parker,Mid-Med,26,"25 Oct, 1992",27 y 124 d,183 cm,87 kg,193,VIC,Dandenong Stingrays,sydneyswans,Sydney
+29,Dane Rampe,Def-Med-Key,24,"2 Jun, 1990",29 y 269 d,187 cm,88 kg,157,NSW,UNSW,sydneyswans,Sydney
+30,Sam Reid,Def-Tall-Key,20,"27 Dec, 1991",28 y 61 d,196 cm,100 kg,141,VIC,Murray Bushrangers,sydneyswans,Sydney
+31, Ben Ronke,Mid-Med,25,"18 Dec, 1997",22 y 70 d,183 cm,76 kg,31,VIC,Calder Cannons,sydneyswans,Sydney
+32,James Rowbottom,Mid-Med,8,"19 Sep, 2000",19 y 160 d,186 cm,78 kg,12,VIC,Oakleigh Chargers,sydneyswans,Sydney
+33,Callum Sinclair,Ruck-Tall,18,"23 Sep, 1989",30 y 156 d,200 cm,96 kg,101,WA,Subiaco,sydneyswans,Sydney
+34,Dylan Stephens,Mid-Med,3,"8 Jan, 2001",19 y 49 d,183 cm,69 kg,,SA,Norwood,sydneyswans,Sydney
+35,Ryley Stoddart,Def-Med-Gen,33,"15 Oct, 1999",20 y 134 d,186 cm,73 kg,4,VIC,Eastern Ranges,sydneyswans,Sydney
+36,Elijah Taylor,Fwd-Med-Gen,37,"1 May, 2001",18 y 301 d,185 cm,75 kg,,WA,Perth,sydneyswans,Sydney
+37,Lewis Taylor,Mid-Smal,28,"17 Feb, 1995",25 y 9 d,175 cm,80 kg,112,VIC,Geelong Falcons,sydneyswans,Sydney
+38,Jackson Thurlow,Def-Med-Gen,6,"28 Mar, 1994",25 y 335 d,190 cm,84 kg,55,TAS,Launceston,sydneyswans,Sydney
+39,Chad Warner,Mid-Med,1,"19 May, 2001",18 y 283 d,181 cm,80 kg,,WA,East Fremantle,sydneyswans,Sydney
+40, Michael Knoll,Ruck-Tall,48,"27 Feb, 1993",26 y 364 d,205 cm,103 kg,,SA,South Adelaide,sydneyswans,Sydney
+41, Jack Maibaum,Def-Tall-Key,21,"27 Mar, 1998",21 y 336 d,194 cm,91 kg,,VIC,Eastern Ranges,sydneyswans,Sydney
+42, Barry O'Connor,Util-Tall,35,"26 Jun, 1998",21 y 245 d,193 cm,92 kg,,N/A,Count Wexford (Ireland),sydneyswans,Sydney
+43, Harry Reynolds,Util-Tall,31,"11 Oct, 2000",19 y 138 d,189 cm,74 kg,,VIC,Sandringham Dragons,sydneyswans,Sydney
+44, Brady Rowles,Mid-Med,39,"12 Feb, 2001",19 y 14 d,188 cm,72 kg,,VIC,Bendigo Pioneers,sydneyswans,Sydney
+45, Sam Wicks,Fwd-Med-Gen,45,"14 Sep, 1999",20 y 165 d,181 cm,73 kg,,NSW,Swans Academy,sydneyswans,Sydney
+0,Marcus Bontempelli,Mid-Tall,4,"24 Nov, 1995",24 y 94 d,193 cm,93 kg,125,VIC,Northern Knights,westernbulldogs,Western Bulldogs
+1,Josh Bruce,Fwd-Tall-Key,17,"8 Jun, 1992",27 y 263 d,197 cm,101 kg,113,NSW,Eastlake,westernbulldogs,Western Bulldogs
+2,Louis Butler,Def-Med-Gen,18,"26 Aug, 2001",18 y 184 d,183 cm,74 kg,,VIC,Sandringham Dragons,westernbulldogs,Western Bulldogs
+3,Ben Cavarra,Fwd-Smal-Gen,25,"20 Dec, 1995",24 y 68 d,173 cm,72 kg,,VIC,Williamstown,westernbulldogs,Western Bulldogs
+4,Zaine Cordy,Util-Tall,12,"27 Oct, 1996",23 y 122 d,193 cm,90 kg,69,VIC,Geelong Falcons,westernbulldogs,Western Bulldogs
+5,Hayden Crozier,Def-Med-Gen,9,"24 Dec, 1993",26 y 64 d,185 cm,79 kg,107,VIC,Eastern Ranges,westernbulldogs,Western Bulldogs
+6,Bailey Dale,Fwd-Med-Gen,31,"22 Jul, 1996",23 y 219 d,183 cm,82 kg,49,VIC,Dandenong Stingrays,westernbulldogs,Western Bulldogs
+7,Caleb Daniel,Mid-Smal,35,"7 Jul, 1996",23 y 234 d,168 cm,72 kg,90,SA,South Adelaide,westernbulldogs,Western Bulldogs
+8,Tory Dickson,Fwd-Med-Gen,29,"26 Sep, 1987",32 y 153 d,184 cm,85 kg,112,VIC,Bendigo Bombers,westernbulldogs,Western Bulldogs
+9,Josh Dunkley,Fwd-Med-Gen,5,"9 Jan, 1997",23 y 48 d,190 cm,88 kg,64,VIC,Gippsland Power,westernbulldogs,Western Bulldogs
+10,Taylor Duryea,Def-Smal-Gen,15,"24 Apr, 1991",28 y 308 d,179 cm,80 kg,131,VIC,Murray Bushrangers,westernbulldogs,Western Bulldogs
+11,Tim English,Ruck-Tall,44,"10 Aug, 1997",22 y 200 d,205 cm,93 kg,28,WA,South Fremantle,westernbulldogs,Western Bulldogs
+12,Riley Garcia,Mid-Smal,38,"30 Jan, 2001",19 y 27 d,175 cm,68 kg,,WA,Swan Districts,westernbulldogs,Western Bulldogs
+13,Billy Gowers,Fwd-Med-Key,26,"10 Jun, 1996",23 y 261 d,187 cm,87 kg,30,VIC,Oakleigh Chargers,westernbulldogs,Western Bulldogs
+14,Fergus Greene,Fwd-Med-Gen,30,"20 Dec, 1997",22 y 68 d,187 cm,75 kg,5,VIC,Bendigo Pioneers,westernbulldogs,Western Bulldogs
+15,Will Hayes,Mid-Med,32,"5 Jun, 1995",24 y 266 d,181 cm,77 kg,8,VIC,Footscray VFL,westernbulldogs,Western Bulldogs
+16,Lachie Hunter,Mid-Med,7,"13 Dec, 1994",25 y 75 d,183 cm,82 kg,126,VIC,Western Jets,westernbulldogs,Western Bulldogs
+17,Jason Johannisen,Def-Smal-Gen,39,"8 Nov, 1992",27 y 110 d,180 cm,82 kg,124,WA,East Fremantle,westernbulldogs,Western Bulldogs
+18,Lin Jong,Mid-Med,46,"4 Jun, 1993",26 y 267 d,188 cm,87 kg,61,VIC,Oakleigh Chargers,westernbulldogs,Western Bulldogs
+19,Alex Keath,Def-Tall-Key,42,"20 Jan, 1992",28 y 37 d,197 cm,93 kg,30,VIC,Murray Bushrangers,westernbulldogs,Western Bulldogs
+20,Tom Liberatore,Mid-Med,21,"16 May, 1992",27 y 286 d,183 cm,83 kg,131,VIC,Calder Cannons,westernbulldogs,Western Bulldogs
+21,Patrick Lipinski,Fwd-Med-Gen,27,"17 Jul, 1998",21 y 224 d,187 cm,84 kg,31,VIC,Northern Knights,westernbulldogs,Western Bulldogs
+22,Sam Lloyd,Fwd-Med-Gen,22,"3 Mar, 1990",29 y 360 d,180 cm,81 kg,79,VIC,Frankston,westernbulldogs,Western Bulldogs
+23,Brad Lynch,Def-Med-Gen,36,"11 Jul, 1997",22 y 230 d,187 cm,79 kg,9,WA,Swan Districts,westernbulldogs,Western Bulldogs
+24,Jack Macrae,Mid-Med,11,"3 Aug, 1994",25 y 207 d,191 cm,85 kg,139,VIC,Oakleigh Chargers,westernbulldogs,Western Bulldogs
+25,Toby McLean,Fwd-Smal-Gen,16,"31 Jan, 1996",24 y 26 d,180 cm,79 kg,77,VIC,Oakleigh Chargers,westernbulldogs,Western Bulldogs
+26,Aaron Naughton,Def-Tall-Key,33,"30 Nov, 1999",20 y 88 d,195 cm,89 kg,40,WA,Peel Thunder,westernbulldogs,Western Bulldogs
+27,Callum Porter,Mid-Med,28,"22 Feb, 1999",21 y 4 d,182 cm,76 kg,,VIC,Gippsland Power,westernbulldogs,Western Bulldogs
+28,Ed Richards,Def-Med-Gen,20,"3 Jul, 1999",20 y 238 d,185 cm,79 kg,40,VIC,Oakleigh Chargers,westernbulldogs,Western Bulldogs
+29,Josh Schache,Fwd-Tall-Key,13,"21 Aug, 1997",22 y 189 d,199 cm,94 kg,53,VIC,Murray Bushrangers,westernbulldogs,Western Bulldogs
+30,Bailey Smith,Util-Med,6,"7 Dec, 2000",19 y 81 d,185 cm,80 kg,22,VIC,Sandringham Dragons,westernbulldogs,Western Bulldogs
+31,Matt Suckling,Def-Med-Gen,1,"25 Jul, 1988",31 y 216 d,187 cm,85 kg,170,NSW,Wagga Tigers,westernbulldogs,Western Bulldogs
+32,Jackson Trengove,Util-Tall,8,"2 Nov, 1990",29 y 116 d,197 cm,97 kg,185,VIC,Calder Cannons,westernbulldogs,Western Bulldogs
+33,Laitham Vandermeer,Def-Med-Gen,23,"3 Feb, 1999",21 y 23 d,180 cm,77 kg,,VIC,Murray Bushrangers,westernbulldogs,Western Bulldogs
+34,Mitch Wallis,Mid-Med,3,"24 Oct, 1992",27 y 125 d,186 cm,85 kg,133,VIC,Calder Cannons,westernbulldogs,Western Bulldogs
+35,Cody Weightman,Fwd-Smal-Gen,19,"15 Jan, 2001",19 y 42 d,177 cm,73 kg,,VIC,Dandenong Stingrays,westernbulldogs,Western Bulldogs
+36,Rhylee West,Fwd-Med-Gen,14,"12 Jul, 2000",19 y 229 d,181 cm,82 kg,2,VIC,Calder Cannons,westernbulldogs,Western Bulldogs
+37,Bailey Williams,Def-Med-Gen,34,"10 Oct, 1997",22 y 139 d,187 cm,85 kg,41,SA,Glenelg,westernbulldogs,Western Bulldogs
+38,Easton Wood,Def-Med-Gen,10,"4 Sep, 1989",30 y 175 d,187 cm,86 kg,158,VIC,Camperdown,westernbulldogs,Western Bulldogs
+39,Lewis Young,Def-Tall-Key,2,"20 Dec, 1998",21 y 68 d,197 cm,96 kg,13,SA,Sturt,westernbulldogs,Western Bulldogs
+40, Ryan Gardner,Util-Tall,43,"1 Jun, 1997",22 y 270 d,197 cm,93 kg,2,TAS,Burnie,westernbulldogs,Western Bulldogs
+41, Buku Khamis,Def-Med-Gen,24,"24 Mar, 2000",19 y 339 d,189 cm,82 kg,,VIC,Bulldogs Academy,westernbulldogs,Western Bulldogs
+42, Roarke Smith,Def-Med-Gen,37,"11 Sep, 1996",23 y 168 d,181 cm,81 kg,17,VIC,Calder Cannons,westernbulldogs,Western Bulldogs
+43, Jordon Sweet,Ruck-Tall,41,"2 Feb, 1998",22 y 24 d,203 cm,106 kg,,SA,North Adelaide,westernbulldogs,Western Bulldogs
+44, Lachie Young,Def-Tall-Gen,40,"6 Apr, 1999",20 y 326 d,189 cm,81 kg,6,VIC,Mt Eliza,westernbulldogs,Western Bulldogs
+0,Brayden Ainsworth,Mid-Med,33,"21 Nov, 1998",21 y 97 d,184 cm,80 kg,3,WA,Subiaco,westcoasteagles,West Coast
+1,Oscar Allen,Fwd-Tall-Key,12,"19 Mar, 1999",20 y 344 d,192 cm,87 kg,23,WA,West Perth,westcoasteagles,West Coast
+2,Tom Barrass,Def-Tall-Key,37,"8 Oct, 1995",24 y 141 d,196 cm,96 kg,63,WA,Claremont,westcoasteagles,West Coast
+3,Jarrod Brander,Util-Tall,10,"11 Feb, 1999",21 y 15 d,195 cm,92 kg,3,VIC,Bendigo Pioneers,westcoasteagles,West Coast
+4,Jarrod Cameron,Fwd-Med-Gen,39,"3 May, 2000",19 y 299 d,182 cm,70 kg,7,WA,Swan Districts,westcoasteagles,West Coast
+5,Tom Cole,Def-Med-Gen,28,"28 May, 1997",22 y 274 d,186 cm,81 kg,41,VIC,Bendigo Pioneers,westcoasteagles,West Coast
+6,Jamie Cripps,Fwd-Med-Gen,15,"23 Apr, 1992",27 y 309 d,183 cm,84 kg,161,WA,East Fremantle,westcoasteagles,West Coast
+7,Jack Darling,Fwd-Tall-Key,27,"13 Jun, 1992",27 y 258 d,191 cm,95 kg,194,WA,West Perth,westcoasteagles,West Coast
+8,Liam Duggan,Mid-Med,14,"11 Dec, 1996",23 y 77 d,184 cm,83 kg,85,VIC,Western Jets,westcoasteagles,West Coast
+9,Luke Foley,Util-Med,29,"8 Oct, 1999",20 y 141 d,188 cm,75 kg,,WA,Subiaco,westcoasteagles,West Coast
+10,Andrew Gaff,Mid-Med,3,"16 Jun, 1992",27 y 255 d,183 cm,85 kg,195,VIC,Oakleigh Chargers,westcoasteagles,West Coast
+11,Tom Hickey,Ruck-Tall,16,"6 Mar, 1991",28 y 357 d,201 cm,96 kg,97,QLD,Morningside  ,westcoasteagles,West Coast
+12,Shannon Hurn,Def-Med-Gen,25,"4 Sep, 1987",32 y 175 d,187 cm,95 kg,267,SA,Central District,westcoasteagles,West Coast
+13,Mark Hutchings,Util-Med,34,"25 May, 1991",28 y 277 d,182 cm,83 kg,111,WA,East Perth,westcoasteagles,West Coast
+14,Callum Jamieson,Ruck-Tall,40,"31 Jul, 2000",19 y 210 d,200 cm,81 kg,,WA,Claremont,westcoasteagles,West Coast
+15,Lewis Jetta,Mid-Med,23,"4 May, 1989",30 y 298 d,182 cm,80 kg,193,WA,Swan Districts,westcoasteagles,West Coast
+16,Ben Johnson,Def-Med-Gen,38,"6 Mar, 2001",18 y 357 d,180 cm,65 kg,,WA,West Perth,westcoasteagles,West Coast
+17,Tim Kelly,Mid-Med,11,"26 Jul, 1994",25 y 215 d,182 cm,81 kg,45,WA,South Fremantle,westcoasteagles,West Coast
+18,Josh J. Kennedy,Fwd-Tall-Key,17,"25 Aug, 1987",32 y 185 d,196 cm,102 kg,241,WA,East Fremantle,westcoasteagles,West Coast
+19,Jeremy McGovern,Def-Tall-Key,20,"15 Apr, 1992",27 y 317 d,196 cm,99 kg,124,WA,Claremont,westcoasteagles,West Coast
+20,Nic Naitanui,Ruck-Tall,9,"4 May, 1990",29 y 298 d,201 cm,110 kg,164,WA,Swan Districts,westcoasteagles,West Coast
+21,Jackson Nelson,Def-Med-Gen,30,"15 Mar, 1996",23 y 348 d,187 cm,85 kg,53,VIC,Geelong Falcons,westcoasteagles,West Coast
+22,Xavier O'Neill,Mid-Med,24,"3 Aug, 2000",19 y 207 d,185 cm,81 kg,,VIC,Oakleigh Chargers,westcoasteagles,West Coast
+23,Jack Petruccelle,Mid-Med,21,"12 Apr, 1999",20 y 320 d,185 cm,80 kg,22,VIC,Northern Knights,westcoasteagles,West Coast
+24,Jack Redden,Mid-Med,8,"9 Dec, 1990",29 y 79 d,190 cm,85 kg,209,SA,Glenelg,westcoasteagles,West Coast
+25,Willie Rioli,Fwd-Smal-Gen,44,"4 Jun, 1995",24 y 267 d,175 cm,77 kg,37,SA,Glenelg,westcoasteagles,West Coast
+26,Josh Rotham,Def-Tall-Gen,35,"25 Feb, 1998",22 y 1 d,193 cm,86 kg,4,WA,West Perth,westcoasteagles,West Coast
+27,Liam Ryan,Fwd-Smal-Gen,1,"2 Oct, 1996",23 y 147 d,179 cm,72 kg,35,WA,Claremont,westcoasteagles,West Coast
+28,Will Schofield,Def-Tall-Key,31,"24 Jan, 1989",31 y 33 d,196 cm,94 kg,188,VIC,Geelong Falcons,westcoasteagles,West Coast
+29,Dom Sheed,Mid-Med,4,"10 Apr, 1995",24 y 322 d,185 cm,87 kg,100,WA,Subiaco,westcoasteagles,West Coast
+30,Brad Sheppard,Def-Med-Gen,5,"23 May, 1991",28 y 279 d,187 cm,85 kg,176,WA,East Perth,westcoasteagles,West Coast
+31,Luke Shuey,Mid-Med,13,"2 Jun, 1990",29 y 269 d,183 cm,90 kg,199,VIC,Oakleigh Chargers,westcoasteagles,West Coast
+32,Nathan Vardy,Ruck-Tall,19,"25 Jun, 1991",28 y 246 d,200 cm,98 kg,67,VIC,Gippsland Power,westcoasteagles,West Coast
+33,Daniel Venables,Fwd-Med-Gen,18,"19 Nov, 1998",21 y 99 d,187 cm,84 kg,21,VIC,Western Jets,westcoasteagles,West Coast
+34,Jake Waterman,Fwd-Tall-Key,2,"6 May, 1998",21 y 296 d,191 cm,92 kg,27,WA,Perth,westcoasteagles,West Coast
+35,Bailey J. Williams,Ruck-Tall,32,"17 Apr, 2000",19 y 315 d,199 cm,95 kg,,VIC,Dandenong Stingrays,westcoasteagles,West Coast
+36,Elliot Yeo,Util-Med,6,"1 Oct, 1993",26 y 148 d,190 cm,89 kg,153,WA,East Fremantle,westcoasteagles,West Coast
+37, Brendon Ah Chee,Fwd-Med-Gen,41,"21 Dec, 1993",26 y 67 d,189 cm,88 kg,36,WA,South Fremantle,westcoasteagles,West Coast
+38, Hamish Brayshaw,Mid-Med,22,"9 Feb, 1998",22 y 17 d,187 cm,90 kg,,VIC,Sandringham Dragons,westcoasteagles,West Coast
+39, Harry Edwards,Def-Tall-Key,42,"1 Oct, 2000",19 y 148 d,197 cm,87 kg,,WA,Swan Districts,westcoasteagles,West Coast
+40, Mitchell O'Neill,Mid-Smal,45,"21 Feb, 2001",19 y 5 d,178 cm,69 kg,,TAS,Tasmania Devils,westcoasteagles,West Coast
+41, Anthony Treacy,Fwd-Med-Gen,43,"12 Apr, 1997",22 y 320 d,182 cm,65 kg,,WA,Claremont,westcoasteagles,West Coast
+42, Francis Watson,Def-Med-Gen,26,"29 Sep, 1995",24 y 150 d,187 cm,81 kg,2,WA,Claremont,westcoasteagles,West Coast
+0,Lachlan Ash,Def-Med-Gen,7,"21 Jun, 2001",18 y 250 d,186 cm,80 kg,,VIC,Murray Bushrangers,westernsydneygiants,GWS
+1,Kieren Briggs,Ruck-Tall,32,"6 Oct, 1999",20 y 143 d,200 cm,103 kg,,NSW,GWS Academy,westernsydneygiants,GWS
+2,Matthew Buntine,Def-Med-Gen,21,"19 Oct, 1993",26 y 130 d,189 cm,84 kg,59,VIC,Dandenong Stingrays,westernsydneygiants,GWS
+3,Jye Caldwell,Util-Med,5,"28 Sep, 2000",19 y 151 d,183 cm,82 kg,2,VIC,Bendigo Pioneers,westernsydneygiants,GWS
+4,Jeremy Cameron,Fwd-Tall-Key,18,"1 Apr, 1993",26 y 331 d,196 cm,96 kg,149,VIC,North Ballarat,westernsydneygiants,GWS
+5,Stephen Coniglio,Mid-Med,3,"15 Dec, 1993",26 y 73 d,182 cm,86 kg,132,WA,Swan Districts,westernsydneygiants,GWS
+6,Aidan Corr,Def-Tall-Key,35,"17 May, 1994",25 y 285 d,195 cm,97 kg,79,VIC,Northern Knights,westernsydneygiants,GWS
+7,Isaac Cumming,Def-Med-Gen,13,"11 Aug, 1998",21 y 199 d,184 cm,83 kg,7,NSW,Broken Hill,westernsydneygiants,GWS
+8,Brent Daniels,Fwd-Smal-Gen,16,"9 Mar, 1999",20 y 354 d,170 cm,74 kg,29,VIC,Bendigo Pioneers,westernsydneygiants,GWS
+9,Phil Davis,Def-Tall-Key,1,"30 Aug, 1990",29 y 180 d,197 cm,96 kg,161,SA,North Adelaide,westernsydneygiants,GWS
+10,Matthew de Boer,Util-Med,24,"10 Mar, 1990",29 y 353 d,189 cm,87 kg,182,WA,Claremont,westernsydneygiants,GWS
+11,Jeremy Finlayson,Def-Tall-Gen,31,"9 Feb, 1996",24 y 17 d,196 cm,93 kg,34,NSW,Sydney Hills Eagles,westernsydneygiants,GWS
+12,Matthew Flynn,Ruck-Tall,30,"13 Sep, 1997",22 y 166 d,200 cm,103 kg,,NSW,Narrandera,westernsydneygiants,GWS
+13,Zac Giles-Langdon,Fwd-Smal-Gen,17,"13 Nov, 1995",24 y 105 d,177 cm,81 kg,24,WA,Claremont,westernsydneygiants,GWS
+14,Tom Green,Mid-Med,12,"23 Jan, 2001",19 y 34 d,188 cm,82 kg,,NSW,GWS Academy,westernsydneygiants,GWS
+15,Toby Greene,Fwd-Med-Gen,4,"25 Sep, 1993",26 y 154 d,182 cm,83 kg,141,VIC,Oakleigh Chargers,westernsydneygiants,GWS
+16,Jackson Hately,Mid-Tall,9,"21 Oct, 2000",19 y 128 d,190 cm,83 kg,7,SA,Central District,westernsydneygiants,GWS
+17,Nick Haynes,Def-Tall-Key,19,"18 May, 1992",27 y 284 d,193 cm,90 kg,123,VIC,Dandenong Stingrays,westernsydneygiants,GWS
+18,Ian Hill,Fwd-Smal-Gen,37,"9 Feb, 2000",20 y 17 d,175 cm,66 kg,7,WA,Perth,westernsydneygiants,GWS
+19,Harrison Himmelberg,Fwd-Tall-Key,27,"8 May, 1996",23 y 294 d,194 cm,92 kg,61,NSW,Eastlake,westernsydneygiants,GWS
+20,Jacob Hopper,Mid-Med,2,"6 Feb, 1997",23 y 20 d,187 cm,87 kg,62,NSW,North Ballarat,westernsydneygiants,GWS
+21,Thomas Hutchesson,Mid-Smal,20,"4 Apr, 1995",24 y 328 d,177 cm,72 kg,,SA,Adelaide SANFL,westernsydneygiants,GWS
+22,Connor Idun,Util-Tall,39,"29 Jul, 2000",19 y 212 d,191 cm,91 kg,1,VIC,Geelong Falcons,westernsydneygiants,GWS
+23,Sam Jacobs,Ruck-Tall,10,"10 Apr, 1988",31 y 322 d,200 cm,102 kg,201,SA,Woodville West Torrens,westernsydneygiants,GWS
+24,Lachlan Keeffe,Def-Tall-Key,25,"14 Apr, 1990",29 y 318 d,204 cm,102 kg,57,QLD,Queensland under 18s,westernsydneygiants,GWS
+25,Josh Kelly,Mid-Med,22,"12 Feb, 1995",25 y 14 d,184 cm,83 kg,113,VIC,Sandringham Dragons,westernsydneygiants,GWS
+26,Adam Kennedy,Def-Med-Gen,40,"12 Jul, 1992",27 y 229 d,182 cm,80 kg,111,VIC,Western Jets,westernsydneygiants,GWS
+27,Daniel Lloyd,Mid-Med,38,"18 Feb, 1992",28 y 8 d,187 cm,85 kg,35,NSW,Killarney Vale,westernsydneygiants,GWS
+28, Shane Mumford,Ruck-Tall,41,"5 Jul, 1986",33 y 236 d,198 cm,105 kg,186,VIC,Geelong,westernsydneygiants,GWS
+29,Xavier O'Halloran,Mid-Med,33,"11 Jul, 2000",19 y 230 d,186 cm,84 kg,,VIC,Western Jets,westernsydneygiants,GWS
+30,Harry Perryman,Def-Med-Gen,36,"19 Dec, 1998",21 y 69 d,184 cm,80 kg,32,NSW,Colingullie,westernsydneygiants,GWS
+31, Sam J. Reid,Fwd-Med-Gen,50,"7 Nov, 1989",30 y 111 d,188 cm,85 kg,86,QLD,Zillmere,westernsydneygiants,GWS
+32,Jake Riccardi,Fwd-Tall-Key,26,"7 Nov, 1999",20 y 111 d,195 cm,92 kg,,VIC,Werribee Tigers,westernsydneygiants,GWS
+33,Heath Shaw,Def-Med-Gen,23,"27 Nov, 1985",34 y 91 d,183 cm,86 kg,302,VIC,Northern Knights,westernsydneygiants,GWS
+34,Nicholas Shipley,Mid-Med,34,"25 Jun, 1999",20 y 246 d,188 cm,92 kg,2,NSW,St George,westernsydneygiants,GWS
+35,Tim Taranto,Fwd-Med-Gen,14,"28 Jan, 1998",22 y 29 d,187 cm,87 kg,59,VIC,Sandringham Dragons,westernsydneygiants,GWS
+36,Sam Taylor,Def-Tall-Key,15,"5 May, 1999",20 y 297 d,196 cm,93 kg,26,WA,Swan Districts,westernsydneygiants,GWS
+37,Callan Ward,Mid-Med,8,"10 Apr, 1990",29 y 322 d,187 cm,84 kg,216,VIC,Western Jets,westernsydneygiants,GWS
+38,Lachie Whitfield,Mid-Med,6,"18 Jul, 1994",25 y 223 d,187 cm,81 kg,129,VIC,Dandenong Stingrays,westernsydneygiants,GWS
+39,Zac Williams,Def-Med-Gen,29,"20 Sep, 1994",25 y 159 d,185 cm,84 kg,97,NSW,Narrandera,westernsydneygiants,GWS
+40, Callum M. Brown,Fwd-Med-Gen,46,"15 Aug, 2000",19 y 195 d,188 cm,91 kg,,N/A,County Derry,westernsydneygiants,GWS
+41, Jack Buckley,Fwd-Tall-Key,44,"17 Dec, 1997",22 y 71 d,193 cm,87 kg,,NSW,UNSW,westernsydneygiants,GWS
+42, Thomas Sheridan,,11,"28 Oct, 1993",26 y 121 d,187 cm,82 kg,81,VIC,Calder Cannons,westernsydneygiants,GWS
+43, Zachary Sproule,Util-Tall,28,"12 May, 1998",21 y 290 d,197 cm,92 kg,1,NSW,Murray Bushrangers,westernsydneygiants,GWS
+44, Jake Stein,Def-Tall-Key,42,"17 Jan, 1994",26 y 40 d,195 cm,95 kg,5,NSW,Penrith,westernsydneygiants,GWS
