@@ -1,19 +1,19 @@
-﻿fanfooty_team_name,fanfooty_team_name_long,footywire_team_name
-AD,adelaidecrows,Adelaide
-BL,brisbanelions,Brisbane
-CA,carltonblues,Carlton
-CO,collingwoodmagpies,Collingwood
-ES,essendonbombers,Essendon
-FR,fremantledockers,Fremantle
-GC,goldcoastsuns,Gold Coast
-GE,geelongcats,Geelong
-HW,hawthornhawks,Hawthorn
-ME,melbournedemons,Melbourne
-NM,northmelbournekangaroos,North Melbourne
-PA,portadelaidepower,Port Adelaide
-RI,richmondtigers,Richmond
-SK,stkildasaints,St Kilda
-SY,sydneyswans,Sydney
-WB,westernbulldogs,Western Bulldogs
-WC,westcoasteagles,West Coast
-WS,westernsydneygiants,GWS
+﻿fanfooty_team_name,fanfooty_team_name_long,footywire_team_name,sc_team_name
+AD,adelaidecrows,Adelaide,ADE
+BL,brisbanelions,Brisbane,BRI
+CA,carltonblues,Carlton,CAR
+CO,collingwoodmagpies,Collingwood,COL
+ES,essendonbombers,Essendon,ESS
+FR,fremantledockers,Fremantle,FRE
+GC,goldcoastsuns,Gold Coast,GCS
+GE,geelongcats,Geelong,GEE
+HW,hawthornhawks,Hawthorn,HAW
+ME,melbournedemons,Melbourne,MEL
+NM,northmelbournekangaroos,North Melbourne,NTH
+PA,portadelaidepower,Port Adelaide,PTA
+RI,richmondtigers,Richmond,RIC
+SK,stkildasaints,St Kilda,STK
+SY,sydneyswans,Sydney,SYD
+WB,westernbulldogs,Western Bulldogs,WBD
+WC,westcoasteagles,West Coast,WCE
+WS,westernsydneygiants,GWS,GWS
