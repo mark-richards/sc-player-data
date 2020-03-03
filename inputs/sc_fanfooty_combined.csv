@@ -1,0 +1,816 @@
+,sc_id,sc_feed_id,sc_first_name,sc_last_name,sc_team_id,sc_price,sc_team,sc_position,sc_long_team,fanfooty_player_id,fanfooty_afl_player_id,fanfooty_first_name,fanfooty_surname,fanfooty_team,fanfooty_status,fanfooty_number,fanfooty_birth_date,fanfooty_height,fanfooty_weight,fanfooty_state_of_origin,fanfooty_recruited_from,fanfooty_games,fanfooty_goals,short_team
+0,1,294472,Rory,Atkins,1,410000,ADE,MID,Adelaide,43031,294472.0,Rory,Atkins,Adelaide,senior,21.0,1994-07-12,186.0,85.0,VIC,Calder Cannons,97.0,45.0,ADE
+1,2,293193,Luke,Brown,1,369300,ADE,DEF,Adelaide,42301,293193.0,Luke,Brown,Adelaide,senior,16.0,1992-09-22,181.0,81.0,SA,Norwood,150.0,13.0,ADE
+2,3,1004995,Jordon,Butts,1,123900,ADE,DEF,Adelaide,49119,1004995.0,Jordon,Butts,Adelaide,rookie,41.0,1999-12-31,198.0,83.0,VIC,Murray Bushrangers,,,ADE
+3,4,993796,Ben,Crocker,1,152000,ADE,FWD,Adelaide,46036,993796.0,Ben,Crocker,Adelaide,rookie,20.0,1997-02-19,188.0,84.0,VIC,Oakleigh Chargers,26.0,21.0,ADE
+4,5,294307,Brad,Crouch,1,534100,ADE,MID,Adelaide,42260,294307.0,Brad,Crouch,Adelaide,senior,2.0,1994-01-14,186.0,85.0,VIC,North Ballarat Rebels,83.0,32.0,ADE
+5,6,297401,Matt,Crouch,1,563000,ADE,MID,Adelaide,44012,297401.0,Matt,Crouch,Adelaide,senior,5.0,1995-04-21,182.0,80.0,VIC,North Ballarat Rebels,109.0,26.0,ADE
+6,7,298417,Ben,Davis,1,123900,ADE,FWD,Adelaide,47096,298417.0,Ben,Davis,Adelaide,senior,40.0,1997-05-19,187.0,85.0,NSW,UNSW,1.0,0.0,ADE
+7,8,1000932,Tom,Doedee,1,273700,ADE,DEF,Adelaide,46081,1000932.0,Tom,Doedee,Adelaide,senior,39.0,1997-03-01,188.0,88.0,VIC,Geelong Falcons,21.0,2.0,ADE
+8,9,999331,Darcy,Fogarty,1,283500,ADE,FWD,Adelaide,48006,999331.0,Darcy,Fogarty,Adelaide,senior,32.0,1999-09-25,193.0,94.0,SA,Glenelg,14.0,18.0,ADE
+9,10,991773,Billy,Frampton,1,165400,ADE,FWD,Adelaide,45147,991773.0,Billy,Frampton,Adelaide,senior,22.0,1996-11-20,200.0,90.0,WA,South Fremantle,3.0,4.0,ADE
+10,11,998106,Jordan,Gallucci,1,269900,ADE,FWD,Adelaide,47024,998106.0,Jordan,Gallucci,Adelaide,senior,7.0,1998-05-04,182.0,78.0,VIC,Eastern Ranges,27.0,19.0,ADE
+11,12,250417,Bryce,Gibbs,1,375100,ADE,MID,Adelaide,39495,250417.0,Bryce,Gibbs,Adelaide,senior,6.0,1989-03-15,188.0,84.0,SA,Glenelg,265.0,152.0,ADE
+12,13,1018075,Lachlan,Gollant,1,117300,ADE,DEF MID,Adelaide,49952,1018075.0,Lachlan,Gollant,Adelaide,senior,44.0,2001-09-12,189.0,70.0,VIC,Calder Cannons,,,ADE
+13,14,1008159,William,Hamill,1,123900,ADE,DEF,Adelaide,49062,1008159.0,Will,Hamill,Adelaide,senior,17.0,2000-11-17,186.0,71.0,VIC,Dandenong Stingrays,,,ADE
+14,15,290228,Kyle,Hartigan,1,239200,ADE,DEF,Adelaide,42090,290228.0,Kyle,Hartigan,Adelaide,senior,15.0,1991-11-07,194.0,98.0,VIC,Werribee  ,101.0,1.0,ADE
+15,16,1005199,Elliott,Himmelberg,1,277900,ADE,FWD,Adelaide,47082,1005199.0,Elliott,Himmelberg,Adelaide,senior,34.0,1998-06-04,198.0,96.0,QLD,Redlands,8.0,9.0,ADE
+16,17,1006203,Chayce,Jones,1,271500,ADE,FWD,Adelaide,49023,1006203.0,Chayce,Jones,Adelaide,senior,1.0,2000-01-14,180.0,77.0,TAS,Launceston,8.0,3.0,ADE
+17,18,993946,Ben,Keays,1,266100,ADE,FWD,Adelaide,46014,993946.0,Ben,Keays,Adelaide,rookie,28.0,1997-02-23,185.0,89.0,QLD,Redlands,30.0,11.0,ADE
+18,19,297473,Jake,Kelly,1,406300,ADE,DEF,Adelaide,44097,297473.0,Jake,Kelly,Adelaide,senior,8.0,1995-01-21,190.0,89.0,VIC,Oakleigh Chargers,75.0,1.0,ADE
+19,20,295103,Riley,Knight,1,344300,ADE,FWD,Adelaide,44047,295103.0,Riley,Knight,Adelaide,senior,3.0,1995-03-27,181.0,80.0,SA,Woodville-West Torrens,54.0,37.0,ADE
+20,21,293222,Rory,Laird,1,525800,ADE,DEF,Adelaide,42344,293222.0,Rory,Laird,Adelaide,senior,29.0,1993-12-29,177.0,81.0,SA,West Adelaide,143.0,12.0,ADE
+21,22,270938,Tom,Lynch,1,459900,ADE,FWD,Adelaide,40030,270938.0,Tom T.,Lynch,Adelaide,senior,27.0,1990-09-15,193.0,88.0,VIC,Sandringham Dragons,139.0,189.0,ADE
+22,23,250362,David,Mackay,1,361100,ADE,DEF MID,Adelaide,39486,250362.0,David,Mackay,Adelaide,senior,14.0,1988-07-25,181.0,78.0,VIC,Oakleigh,220.0,60.0,ADE
+23,24,298470,Shane,McAdam,1,123900,ADE,FWD,Adelaide,49070,298470.0,Shane,McAdam,Adelaide,senior,23.0,1995-05-28,181.0,78.0,WA,Sturt,,,ADE
+24,25,1009201,Fischer,Mcasey,1,184800,ADE,DEF,Adelaide,49910,1009201.0,Fischer,McAsey,Adelaide,senior,35.0,2001-03-08,195.0,86.0,VIC,Sandringham Dragons,,,ADE
+25,26,1008185,Ned,McHenry,1,123900,ADE,MID,Adelaide,49017,1008185.0,Ned,McHenry,Adelaide,senior,25.0,2000-07-13,179.0,70.0,VIC,Geelong Falcons,,,ADE
+26,27,997206,Andrew,McPherson,1,123900,ADE,DEF,Adelaide,48073,997206.0,Andrew,McPherson,Adelaide,senior,36.0,1999-06-20,186.0,79.0,SA,Woodville West Torrens,0.0,0.0,ADE
+27,28,990882,Wayne,Milera,1,402500,ADE,DEF MID,Adelaide,46021,990882.0,Wayne,Milera,Adelaide,senior,30.0,1997-09-14,184.0,81.0,SA,Central Districts,60.0,21.0,ADE
+28,29,1000998,Lachlan,Murphy,1,295800,ADE,FWD,Adelaide,48233,1000998.0,Lachlan,Murphy,Adelaide,senior,4.0,1998-12-04,176.0,76.0,SA,Adelaide FC,32.0,31.0,ADE
+29,30,297523,Reilly,O'Brien,1,517400,ADE,RUC,Adelaide,45155,297523.0,Reilly,O'Brien,Adelaide,senior,43.0,1995-08-20,202.0,101.0,VIC,Calder Cannons,20.0,3.0,ADE
+30,31,1011254,Ronin,O'Connor,1,117300,ADE,MID,Adelaide,49946,1011254.0,Ronin,O'Connor,Adelaide,senior,37.0,2001-02-01,191.0,85.0,WA,Claremont,,,ADE
+31,32,1000908,Myles,Poholke,1,221600,ADE,FWD,Adelaide,47052,1000908.0,Myles,Poholke,Adelaide,senior,10.0,1998-07-10,186.0,86.0,VIC,Dandenong Stingrays,11.0,3.0,ADE
+32,33,1008543,Harry,Schoenberg,1,117300,ADE,MID,Adelaide,49928,1008543.0,Harry,Schoenberg,Adelaide,senior,26.0,2001-02-21,180.0,78.0,SA,Woodville-West Torrens,,,ADE
+33,34,294733,Paul,Seedsman,1,392700,ADE,MID,Adelaide,42142,294733.0,Paul,Seedsman,Adelaide,senior,11.0,1992-01-22,190.0,87.0,VIC,Eastern Ranges,101.0,50.0,ADE
+34,35,1006136,Lachlan,Sholl,1,123900,ADE,DEF,Adelaide,49069,1006136.0,Lachlan,Sholl,Adelaide,senior,38.0,2000-03-07,185.0,77.0,VIC,Calder Cannons,,,ADE
+35,36,270963,Rory,Sloane,1,559300,ADE,MID,Adelaide,40065,270963.0,Rory,Sloane,Adelaide,senior,9.0,1990-03-17,182.0,83.0,VIC,Eastern Ranges,199.0,122.0,ADE
+36,37,291748,Brodie,Smith,1,481300,ADE,DEF,Adelaide,42009,291748.0,Brodie,Smith,Adelaide,senior,33.0,1992-01-14,189.0,90.0,SA,Woodville West Torrens,167.0,57.0,ADE
+37,38,997230,Tyson,Stengle,1,202000,ADE,FWD,Adelaide,47069,997230.0,Tyson,Stengle,Adelaide,senior,18.0,1998-10-19,172.0,73.0,SA,Woodville-West Torrens,4.0,7.0,ADE
+38,39,1008752,Kieran,Strachan,1,123900,ADE,RUC FWD,Adelaide,49106,1008752.0,Kieran,Strachan,Adelaide,rookie,45.0,1995-10-05,204.0,95.0,VIC,Port Melbourne,,,ADE
+39,40,280934,Daniel,Talia,1,377700,ADE,DEF,Adelaide,41009,280934.0,Daniel,Talia,Adelaide,senior,12.0,1991-10-02,197.0,98.0,VIC,Calder Cannons,186.0,6.0,ADE
+40,41,280506,Taylor,Walker,1,365600,ADE,FWD,Adelaide,39614,280506.0,Taylor,Walker,Adelaide,senior,13.0,1990-04-25,193.0,100.0,NSW,Broken Hill North,189.0,426.0,ADE
+41,42,295964,Patrick,Wilson,1,190100,ADE,MID,Adelaide,43051,295964.0,Patrick,Wilson,Adelaide,rookie,31.0,1994-12-11,188.0,89.0,SA,Sturt,2.0,0.0,ADE
+42,43,1011981,Joshua,Worrell,1,117300,ADE,DEF FWD,Adelaide,49932,1011981.0,Joshua,Worrell,Adelaide,senior,24.0,2001-04-11,195.0,74.0,VIC,Sandringham Dragons,,,ADE
+43,44,294168,Marcus,Adams,2,316300,BRL,DEF,Brisbane,46085,294168.0,Marcus,Adams,Brisbane Lions,senior,24.0,1993-06-30,192.0,93.0,WA,West Perth ,35.0,4.0,BRI
+44,45,298437,Callum,Ah Chee,2,311700,BRL,MID,Brisbane,46012,298437.0,Callum,Ah Chee,Brisbane Lions,senior,4.0,1997-10-09,182.0,78.0,WA,South Fremantle,45.0,24.0,BRI
+45,46,998268,Jacob,Allison,2,176800,BRL,MID,Brisbane,47029,998268.0,Jacob,Allison,Brisbane Lions,rookie,19.0,1998-04-16,195.0,87.0,QLD,Brisbane Academy,10.0,2.0,BRI
+46,47,996059,Harris,Andrews,2,449300,BRL,DEF,Brisbane,45041,996059.0,Harris,Andrews,Brisbane Lions,senior,31.0,1996-12-11,201.0,100.0,QLD,Aspley,95.0,9.0,BRI
+47,48,1005053,Noah,Answerth,2,336700,BRL,DEF,Brisbane,49086,1005053.0,Noah,Answerth,Brisbane Lions,senior,43.0,1999-08-06,182.0,82.0,VIC,Oakleigh Chargers,17.0,2.0,BRI
+48,49,1002312,Zac,Bailey,2,263200,BRL,DEF MID,Brisbane,48015,1002312.0,Zac,Bailey,Brisbane Lions,senior,33.0,1999-09-23,182.0,83.0,NT,Southern Districts,25.0,11.0,BRI
+49,50,1002351,Connor,Ballenden,2,123900,BRL,FWD,Brisbane,48009,1002351.0,Connor,Ballenden,Brisbane Lions,senior,38.0,1999-03-29,200.0,101.0,QLD,Wests Juniors,0.0,0.0,BRI
+50,51,998133,Jarrod,Berry,2,461300,BRL,MID,Brisbane,47021,998133.0,Jarrod,Berry,Brisbane Lions,senior,7.0,1998-02-05,193.0,89.0,VIC,North Ballarat Rebels,55.0,26.0,BRI
+51,52,1006100,Thomas,Berry,2,123900,BRL,FWD,Brisbane,49046,1006100.0,Tom,Berry,Brisbane Lions,senior,13.0,2000-05-01,185.0,76.0,VIC,GWV Rebels,,,BRI
+52,53,240302,Grant,Birchall,2,292700,BRL,DEF,Brisbane,2028,240302.0,Grant,Birchall,Brisbane Lions,senior,14.0,1988-01-28,193.0,89.0,TAS,Devonport,247.0,34.0,BRI
+53,54,990609,Charlie,Cameron,2,433200,BRL,FWD,Brisbane,44058,990609.0,Charlie,Cameron,Brisbane Lions,senior,23.0,1994-07-05,181.0,74.0,WA,Swan Districts,106.0,158.0,BRI
+54,55,280918,Allen,Christensen,2,367800,BRL,FWD,Brisbane,41017,280918.0,Allen,Christensen,Brisbane Lions,senior,3.0,1991-05-19,176.0,79.0,VIC,Geelong Falcons,130.0,111.0,BRI
+55,56,1006059,Keidean,Coleman,2,117300,BRL,MID FWD,Brisbane,49941,1006059.0,Keidean,Coleman,Brisbane Lions,senior,18.0,2000-03-31,182.0,75.0,QLD,Brisbane,,,BRI
+56,57,994047,Cedric,Cox,2,167300,BRL,FWD,Brisbane,47063,994047.0,Cedric,Cox,Brisbane Lions,senior,20.0,1997-08-19,183.0,82.0,VIC,North Ballarat Rebels,13.0,3.0,BRI
+57,58,290326,Matt,Eagles,2,155800,BRL,DEF,Brisbane,47124,290326.0,Matt,Eagles,Brisbane Lions,,41.0,1990-02-09,200.0,101.0,QLD,Yeronga South Brisbane,4.0,1.0,BRI
+58,59,293479,Cameron,Ellis-Yolmen,2,507200,BRL,MID,Brisbane,42316,293479.0,Cam,Ellis-Yolmen,Brisbane Lions,senior,28.0,1993-01-28,190.0,96.0,SA,Woodville-West Torrens,39.0,15.0,BRI
+59,60,1013532,Thomas,Fullarton,2,123900,BRL,FWD,Brisbane,49140,1013532.0,Tom,Fullarton,Brisbane Lions,rookie,47.0,1999-02-23,199.0,92.0,QLD,Brisbane Bullets,,,BRI
+60,61,296269,Darcy,Gardiner,2,363300,BRL,DEF,Brisbane,44015,296269.0,Darcy,Gardiner,Brisbane Lions,senior,27.0,1995-09-22,193.0,92.0,VIC,Geelong Falcons,104.0,5.0,BRI
+61,62,1004863,Mitchell,Hinge,2,210200,BRL,MID,Brisbane,47109,1004863.0,Mitchell,Hinge,Brisbane Lions,senior,22.0,1998-06-26,190.0,84.0,SA,Glenelg,2.0,1.0,BRI
+62,63,993953,Eric,Hipwood,2,294000,BRL,FWD,Brisbane,46015,993953.0,Eric,Hipwood,Brisbane Lions,senior,30.0,1997-09-13,204.0,90.0,QLD,Aspley,73.0,110.0,BRI
+63,64,1006150,Tom,Joyce,2,123900,BRL,FWD MID,Brisbane,49076,1006150.0,Tom,Joyce,Brisbane Lions,senior,32.0,2000-03-07,180.0,86.0,WA,East Fremantle,,,BRI
+64,65,291548,Ryan,Lester,2,330000,BRL,DEF,Brisbane,42037,291548.0,Ryan,Lester,Brisbane Lions,senior,35.0,1992-08-26,192.0,85.0,VIC,Oakleigh Chargers,126.0,45.0,BRI
+65,66,998105,Corey,Lyons,2,102400,BRL,MID,Brisbane,47048,998105.0,Corey,Lyons,Brisbane Lions,rookie,39.0,1998-05-31,184.0,83.0,VIC,Sandringham Dragons,0.0,0.0,BRI
+66,67,293716,Jarryd,Lyons,2,535400,BRL,MID,Brisbane,42132,293716.0,Jarryd,Lyons,Brisbane Lions,senior,17.0,1992-07-22,184.0,84.0,VIC,Sandringham Dragons,114.0,62.0,BRI
+67,68,1013978,James,Madden,2,123900,BRL,DEF FWD,Brisbane,49139,1013978.0,James,Madden,Brisbane Lions,rookie,42.0,1999-11-15,186.0,85.0,,Dublin,,,BRI
+68,69,280763,Stefan,Martin,2,501100,BRL,RUC,Brisbane,39707,280763.0,Stefan,Martin,Brisbane Lions,senior,12.0,1986-11-17,199.0,104.0,VIC,Sandringham,180.0,45.0,BRI
+69,70,993828,Rhys,Mathieson,2,325200,BRL,FWD MID,Brisbane,46013,993828.0,Rhys,Mathieson,Brisbane Lions,senior,36.0,1997-01-10,188.0,87.0,VIC,Geelong Falcons,46.0,24.0,BRI
+70,71,293581,Lincoln,McCarthy,2,357400,BRL,FWD,Brisbane,42327,293581.0,Lincoln,McCarthy,Brisbane Lions,senior,11.0,1993-10-22,176.0,84.0,SA,Glenelg,50.0,45.0,BRI
+71,72,1000978,Hugh,McCluggage,2,510700,BRL,MID,Brisbane,47001,1000978.0,Hugh,McCluggage,Brisbane Lions,senior,6.0,1998-03-03,187.0,85.0,VIC,North Ballarat Rebels,61.0,40.0,BRI
+72,73,1006085,Connor,McFadyen,2,123900,BRL,FWD,Brisbane,49044,1006085.0,Connor,McFadyen,Brisbane Lions,senior,26.0,2000-12-04,190.0,81.0,QLD,Brisbane Academy,,,BRI
+73,74,1005521,Oscar,McInerney,2,368400,BRL,RUC FWD,Brisbane,47115,1005521.0,Oscar,McInerney,Brisbane Lions,senior,46.0,1994-07-10,205.0,107.0,VIC,Casey Scorpions,35.0,24.0,BRI
+74,75,297504,Daniel,McStay,2,305100,BRL,FWD,Brisbane,44031,297504.0,Daniel,McStay,Brisbane Lions,senior,25.0,1995-06-24,195.0,100.0,VIC,Eastern Ranges,101.0,72.0,BRI
+75,76,293535,Lachie,Neale,2,658500,BRL,MID,Brisbane,42323,293535.0,Lachie,Neale,Brisbane Lions,senior,9.0,1993-05-24,177.0,85.0,SA,Glenelg,156.0,77.0,BRI
+76,77,1002347,Jack,Payne,2,123900,BRL,DEF,Brisbane,48045,1002347.0,Jack,Payne,Brisbane Lions,senior,40.0,1999-10-15,197.0,101.0,QLD,Noosa,0.0,0.0,BRI
+77,78,1009386,Jaxon,Prior,2,117300,BRL,DEF,Brisbane,49963,1009386.0,Jaxon,Prior,Brisbane Lions,senior,45.0,2001-06-04,188.0,79.0,WA,West Perth,,,BRI
+78,79,1002235,Cameron,Rayner,2,251800,BRL,FWD,Brisbane,48001,1002235.0,Cameron,Rayner,Brisbane Lions,senior,16.0,1999-10-21,187.0,90.0,VIC,Western Jets,44.0,38.0,BRI
+79,80,271072,Daniel,Rich,2,525800,BRL,DEF,Brisbane,40003,271072.0,Daniel,Rich,Brisbane Lions,senior,10.0,1990-06-07,183.0,87.0,WA,Subiaco,205.0,106.0,BRI
+80,81,1009385,Deven,Robertson,2,117300,BRL,MID,Brisbane,49926,1009385.0,Deven,Robertson,Brisbane Lions,senior,2.0,2001-06-30,182.0,80.0,WA,Perth,,,BRI
+81,82,290311,Mitch,Robinson,2,512700,BRL,MID,Brisbane,40018,290311.0,Mitch,Robinson,Brisbane Lions,senior,5.0,1989-06-07,184.0,90.0,TAS,Lauderdale,190.0,108.0,BRI
+82,83,993836,Sam,Skinner,2,111400,BRL,FWD,Brisbane,46055,993836.0,Sam,Skinner,Brisbane Lions,rookie,21.0,1997-06-29,198.0,100.0,VIC,Gippsland Power,1.0,2.0,BRI
+83,84,992752,Archie,Smith,2,179200,BRL,RUC,Brisbane,44136,992752.0,Archie,Smith,Brisbane Lions,rookie,44.0,1995-07-19,203.0,104.0,QLD,Mt Gravatt,11.0,4.0,BRI
+84,85,1009242,Brock,Smith,2,117300,BRL,DEF,Brisbane,49937,1009242.0,Brock,Smith,Brisbane Lions,senior,1.0,2001-03-13,188.0,81.0,VIC,Gippsland Power,,,BRI
+85,86,1006033,Ely,Smith,2,123900,BRL,FWD MID,Brisbane,49068,1006033.0,Ely,Smith,Brisbane Lions,senior,8.0,2000-09-13,187.0,86.0,VIC,Murray Bushrangers,,,BRI
+86,87,1002401,Brandon,Starcevich,2,147700,BRL,DEF MID,Brisbane,48194,1002401.0,Brandon,Starcevich,Brisbane Lions,senior,37.0,1999-07-24,188.0,88.0,WA,East Perth,5.0,1.0,BRI
+87,88,998128,Alex,Witherden,2,392800,BRL,DEF,Brisbane,47028,998128.0,Alex,Witherden,Brisbane Lions,senior,29.0,1998-09-10,188.0,85.0,VIC,Geelong Falcons,51.0,5.0,BRI
+88,89,1002244,Toby,Wooller,2,123900,BRL,FWD MID,Brisbane,48163,1002244.0,Toby,Wooller,Brisbane Lions,senior,34.0,1999-03-16,195.0,88.0,VIC,Oakleigh Chargers,0.0,0.0,BRI
+89,90,261224,Dayne,Zorko,2,579100,BRL,MID,Brisbane,42302,261224.0,Dayne,Zorko,Brisbane Lions,senior,15.0,1989-02-09,175.0,78.0,QLD,Broadbeach,166.0,183.0,BRI
+90,91,240060,Eddie,Betts,3,337500,CAR,FWD,Carlton,1549,240060.0,Eddie,Betts,Carlton,senior,19.0,1986-11-26,174.0,74.0,VIC,Calder Cannons,316.0,600.0,CAR
+91,92,281124,Levi,Casboult,3,403500,CAR,DEF FWD,Carlton,41073,281124.0,Levi,Casboult,Carlton,senior,41.0,1990-03-15,201.0,101.0,VIC,Dandenong Stingrays,124.0,132.0,CAR
+92,93,1008154,Matthew,Cottrell,3,123900,CAR,DEF,Carlton,49142,1008154.0,Matthew,Cottrell,Carlton,senior,46.0,2000-02-29,181.0,72.0,VIC,Dandenong Stingrays,,,CAR
+93,94,990704,Patrick,Cripps,3,635900,CAR,MID,Carlton,44030,990704.0,Patrick,Cripps,Carlton,senior,9.0,1995-03-18,195.0,92.0,WA,East Fremantle,101.0,47.0,CAR
+94,95,993795,David,Cuningham,3,360800,CAR,FWD,Carlton,46066,993795.0,David,Cuningham,Carlton,senior,28.0,1997-03-30,185.0,85.0,VIC,Oakleigh Chargers,25.0,14.0,CAR
+95,96,996731,Charlie,Curnow,3,372200,CAR,FWD,Carlton,46016,996731.0,Charlie,Curnow,Carlton,senior,30.0,1997-02-03,192.0,96.0,VIC,Geelong Falcons,58.0,77.0,CAR
+96,97,270146,Ed,Curnow,3,493200,CAR,MID,Carlton,39680,270146.0,Ed,Curnow,Carlton,senior,35.0,1989-11-07,180.0,85.0,VIC,Geelong Falcons,165.0,36.0,CAR
+97,98,1004912,Tom,De Koning,3,123900,CAR,RUC,Carlton,48118,1004912.0,Tom,De Koning,Carlton,senior,12.0,1999-07-16,203.0,97.0,VIC,Dandenong Stingrays,2.0,1.0,CAR
+98,99,295518,Sam,Docherty,3,436100,CAR,DEF,Carlton,42248,295518.0,Sam,Docherty,Carlton,senior,15.0,1993-10-17,187.0,87.0,VIC,Gippsland Power,92.0,14.0,CAR
+99,100,1002256,Paddy,Dow,3,295500,CAR,FWD MID,Carlton,48002,1002256.0,Paddy,Dow,Carlton,senior,2.0,1999-10-16,187.0,83.0,VIC,Bendigo Pioneers,39.0,14.0,CAR
+100,101,999827,Zac,Fisher,3,356100,CAR,FWD MID,Carlton,47022,999827.0,Zac,Fisher,Carlton,senior,25.0,1998-06-15,177.0,75.0,WA,Perth,55.0,21.0,CAR
+101,102,296200,Michael,Gibbons,3,321700,CAR,FWD,Carlton,49141,296200.0,Michael,Gibbons,Carlton,senior,40.0,1995-05-15,175.0,75.0,VIC,Williamstown,21.0,16.0,CAR
+102,103,298316,Hugh,Goddard,3,129500,CAR,DEF,Carlton,45012,298316.0,Hugh,Goddard,Carlton,senior,45.0,1996-08-24,198.0,94.0,VIC,Geelong Falcons,12.0,1.0,CAR
+103,104,1002938,Josh,Honey,3,124900,CAR,MID FWD,Carlton,49970,1002938.0,Josh,Honey,Carlton,rookie,36.0,2001-10-17,184.0,79.0,VIC,Western Jets,,,CAR
+104,105,281078,Liam,Jones,3,358800,CAR,DEF,Carlton,40111,281078.0,Liam,Jones,Carlton,senior,14.0,1991-02-24,199.0,97.0,VIC,Scotch College,125.0,84.0,CAR
+105,106,1009241,Brodie,Kemp,3,135300,CAR,MID,Carlton,49921,1009241.0,Brodie,Kemp,Carlton,senior,17.0,2001-05-01,192.0,82.0,VIC,Bendigo Pioneers,,,CAR
+106,107,1001398,Matthew,Kennedy,3,309500,CAR,FWD,Carlton,46009,1001398.0,Matthew,Kennedy,Carlton,senior,7.0,1997-04-06,190.0,88.0,NSW,Collingullie,41.0,21.0,CAR
+107,108,261299,Matthew,Kreuzer,3,528900,CAR,RUC,Carlton,39622,261299.0,Matthew,Kreuzer,Carlton,senior,8.0,1989-05-13,200.0,101.0,VIC,Northern Knights,188.0,94.0,CAR
+108,109,296439,Darcy,Lang,3,244400,CAR,FWD,Carlton,44052,296439.0,Darcy,Lang,Carlton,senior,16.0,1995-11-21,183.0,83.0,VIC,Geelong Falcons,63.0,42.0,CAR
+109,110,998226,Harrison,Macreadie,3,123900,CAR,DEF,Carlton,47033,998226.0,Harrison,Macreadie,Carlton,senior,26.0,1998-04-11,198.0,92.0,NSW,Henty,9.0,0.0,CAR
+110,111,298302,Caleb,Marchbank,3,348000,CAR,DEF,Carlton,45009,298302.0,Caleb,Marchbank,Carlton,senior,22.0,1996-12-07,193.0,93.0,VIC,Murray Bushrangers,48.0,0.0,CAR
+111,112,296190,Jack,Martin,3,420800,CAR,FWD MID,Carlton,43095,296190.0,Jack,Martin,Carlton,senior,21.0,1995-01-29,186.0,83.0,WA,Claremont,97.0,81.0,CAR
+112,113,297255,Mitch,McGovern,3,263400,CAR,FWD,Carlton,45116,297255.0,Mitch,McGovern,Carlton,senior,11.0,1994-10-11,191.0,93.0,WA,Claremont,64.0,89.0,CAR
+113,114,1000953,Harry,McKay,3,334800,CAR,FWD,Carlton,46018,1000953.0,Harry,McKay,Carlton,senior,10.0,1997-12-24,204.0,99.0,VIC,Gippsland Power,35.0,50.0,CAR
+114,115,250105,Marc,Murphy,3,492400,CAR,MID,Carlton,2020,250105.0,Marc,Murphy,Carlton,senior,3.0,1987-07-19,180.0,80.0,VIC,Oakleigh Chargers,268.0,185.0,CAR
+115,116,297907,Nic,Newman,3,524800,CAR,DEF,Carlton,45172,297907.0,Nic,Newman,Carlton,senior,24.0,1993-01-15,187.0,83.0,VIC,Frankston,51.0,14.0,CAR
+116,117,1002259,Lochie,O'Brien,3,243400,CAR,MID,Carlton,48108,1002259.0,Lochie,O'Brien,Carlton,senior,4.0,1999-09-18,185.0,78.0,VIC,Bendigo Pioneers,35.0,9.0,CAR
+117,118,1011924,Finbar,O'Dwyer,3,123900,CAR,FWD,Carlton,49094,1011924.0,Finbar,O'Dwyer,Carlton,senior,38.0,2000-07-24,192.0,76.0,VIC,Yarrawonga,,,CAR
+118,119,1013973,Matthew,Owies,3,123900,CAR,FWD,Carlton,49138,1013973.0,Matthew,Owies,Carlton,senior,44.0,1997-03-19,179.0,84.0,VIC,Seattle University,,,CAR
+119,120,994539,Sam,Petrevski-Seton,3,443300,CAR,DEF MID,Carlton,47004,994539.0,Sam,Petrevski-Seton,Carlton,senior,5.0,1998-02-19,182.0,78.0,WA,Claremont,64.0,19.0,CAR
+120,121,1011861,Fraser,Phillips,3,105400,CAR,FWD,Carlton,49979,1011861.0,Fraser,Phillips,Carlton,rookie,39.0,2001-05-15,186.0,71.0,VIC,Gippsland Power,,,CAR
+121,122,1011929,Sam,Philp,3,121800,CAR,MID,Carlton,49924,1011929.0,Sam,Philp,Carlton,senior,34.0,2001-08-04,185.0,80.0,VIC,Northern Knights,,,CAR
+122,123,298290,Marc,Pittonet,3,236200,CAR,RUC,Carlton,45123,298290.0,Marc,Pittonet,Carlton,senior,27.0,1996-06-03,202.0,105.0,VIC,Oakleigh Chargers,7.0,0.0,CAR
+123,124,294624,Lachie,Plowman,3,392800,CAR,DEF,Carlton,43008,294624.0,Lachlan,Plowman,Carlton,senior,20.0,1994-09-11,193.0,90.0,VIC,Calder Cannons,94.0,1.0,CAR
+124,125,998100,Cameron,Polson,3,138500,CAR,FWD,Carlton,47086,998100.0,Cameron,Polson,Carlton,senior,29.0,1998-03-11,177.0,81.0,VIC,Sandringham Dragons,16.0,4.0,CAR
+125,126,1002942,Sam,Ramsay,3,117300,CAR,MID,Carlton,49951,1002942.0,Sam,Ramsay,Carlton,senior,33.0,2001-03-21,180.0,68.0,VIC,Calder Cannons,,,CAR
+126,127,998215,Will,Setterfield,3,329700,CAR,MID,Carlton,47008,998215.0,Will,Setterfield,Carlton,senior,43.0,1998-02-05,192.0,87.0,VIC,Sandringham Dragons,20.0,6.0,CAR
+127,128,1011949,Ben,Silvagni,3,123900,CAR,DEF,Carlton,49098,1011949.0,Ben,Silvagni,Carlton,senior,37.0,2000-05-07,196.0,87.0,VIC,Oakleigh Chargers,,,CAR
+128,129,1001028,Jack,Silvagni,3,325200,CAR,FWD,Carlton,46054,1001028.0,Jack,Silvagni,Carlton,senior,1.0,1997-12-17,194.0,89.0,VIC,Oakleigh Chargers,60.0,45.0,CAR
+129,130,230202,Kade,Simpson,3,442600,CAR,DEF,Carlton,772,230202.0,Kade,Simpson,Carlton,senior,6.0,1984-05-05,183.0,75.0,VIC,Eastern Ranges,325.0,138.0,CAR
+130,131,1008312,Liam,Stocker,3,242400,CAR,DEF,Carlton,49032,1008312.0,Liam,Stocker,Carlton,senior,13.0,2000-01-23,184.0,83.0,VIC,Sandringham Dragons,5.0,0.0,CAR
+131,132,1006094,Sam,Walsh,3,471900,CAR,MID,Carlton,49003,1006094.0,Sam,Walsh,Carlton,senior,18.0,2000-07-02,184.0,80.0,VIC,Geelong Falcons,22.0,6.0,CAR
+132,133,993832,Jacob,Weitering,3,383700,CAR,DEF,Carlton,46001,993832.0,Jacob,Weitering,Carlton,senior,23.0,1997-11-23,196.0,98.0,VIC,Dandenong Stingrays,76.0,10.0,CAR
+133,134,998167,Tom,Williamson,3,146300,CAR,DEF,Carlton,47088,998167.0,Tom,Williamson,Carlton,senior,31.0,1998-12-12,190.0,85.0,VIC,North Ballarat Rebels,17.0,1.0,CAR
+134,135,291776,Taylor,Adams,4,525100,COL,MID,Collingwood,42249,291776.0,Taylor,Adams,Collingwood,senior,13.0,1993-09-20,181.0,83.0,VIC,Geelong Falcons,130.0,48.0,COL
+135,136,1005013,Flynn,Appleby,4,222900,COL,DEF,Collingwood,48229,1005013.0,Flynn,Appleby,Collingwood,senior,31.0,1999-01-21,187.0,86.0,VIC,GWV Rebels,10.0,0.0,COL
+136,137,271001,Dayne,Beams,4,441700,COL,MID,Collingwood,40073,271001.0,Dayne,Beams,Collingwood,senior,11.0,1990-02-12,187.0,88.0,QLD,Southport,176.0,172.0,COL
+137,138,1009186,Trent,Bianco,4,117300,COL,DEF MID,Collingwood,49949,1009186.0,Trent,Bianco,Collingwood,senior,34.0,2001-01-20,178.0,70.0,VIC,Oakleigh Chargers,,,COL
+138,139,1008288,Atu,Bosenavulagi,4,123900,COL,FWD,Collingwood,49102,1008288.0,Atu,Bosenvulagi,Collingwood,senior,40.0,2000-09-17,180.0,82.0,VIC,Oakleigh Chargers,,,COL
+139,140,293035,Tim,Broomhead,4,242200,COL,FWD MID,Collingwood,43044,293035.0,Tim,Broomhead,Collingwood,senior,29.0,1994-03-22,182.0,84.0,SA,Port Adelaide,36.0,27.0,COL
+140,141,1002770,Callum L.,Brown,4,370900,COL,FWD,Collingwood,47038,1002770.0,Callum,Brown,Collingwood,senior,17.0,1998-04-27,178.0,77.0,VIC,Eastern Ranges,33.0,13.0,COL
+141,142,1008171,Tyler,Brown,4,123900,COL,MID,Collingwood,48219,1008171.0,Tyler,Brown,Collingwood,senior,6.0,1999-12-09,188.0,77.0,VIC,Eastern Ranges,0.0,0.0,COL
+142,143,990291,Darcy,Cameron,4,123900,COL,RUC FWD,Collingwood,47079,990291.0,Darcy,Cameron,Collingwood,senior,14.0,1995-07-18,205.0,103.0,WA,Claremont,1.0,0.0,COL
+143,144,998647,Mason,Cox,4,293600,COL,FWD,Collingwood,45190,998647.0,Mason,Cox,Collingwood,senior,46.0,1991-03-14,211.0,105.0,,Oklahoma State,58.0,71.0,COL
+144,145,293871,Jack,Crisp,4,482800,COL,DEF,Collingwood,42350,293871.0,Jack,Crisp,Collingwood,senior,25.0,1993-10-02,190.0,90.0,VIC,Murray Bushrangers,132.0,47.0,COL
+145,146,1005054,Josh,Daicos,4,259000,COL,MID,Collingwood,47039,1005054.0,Josh,Daicos,Collingwood,senior,26.0,1998-11-26,178.0,76.0,VIC,Oakleigh Chargers,17.0,7.0,COL
+146,147,994185,Jordan,De Goey,4,473800,COL,FWD,Collingwood,45015,994185.0,Jordan,De Goey,Collingwood,senior,2.0,1996-03-15,188.0,92.0,VIC,Oakleigh Chargers,87.0,118.0,COL
+147,148,293801,Jamie,Elliott,4,380500,COL,FWD,Collingwood,42303,293801.0,Jamie,Elliott,Collingwood,senior,5.0,1992-08-21,178.0,81.0,VIC,Murray Bushrangers,103.0,161.0,COL
+148,149,270861,Levi,Greenwood,4,355300,COL,DEF,Collingwood,39642,270861.0,Levi,Greenwood,Collingwood,senior,19.0,1989-02-19,181.0,87.0,SA,Port Adelaide Magpies,151.0,56.0,COL
+149,150,293957,Brodie,Grundy,4,705900,COL,RUC,Collingwood,43007,293957.0,Brodie,Grundy,Collingwood,senior,4.0,1994-04-15,203.0,100.0,SA,Sturt,130.0,43.0,COL
+150,151,291720,Will,Hoskin-Elliott,4,382000,COL,FWD,Collingwood,42240,291720.0,Will,Hoskin-Elliott,Collingwood,senior,32.0,1993-09-02,186.0,82.0,VIC,Western Jets,117.0,120.0,COL
+151,152,291313,Jeremy,Howe,4,431900,COL,DEF,Collingwood,42112,291313.0,Jeremy,Howe,Collingwood,senior,38.0,1990-06-29,190.0,86.0,TAS,Hobart,181.0,88.0,COL
+152,153,1013974,Mark,Keane,4,123900,COL,DEF,Collingwood,49137,1013974.0,Mark,Keane,Collingwood,rookie,47.0,2000-03-17,194.0,92.0,,County Cork,,,COL
+153,154,1008285,Will,Kelly,4,123900,COL,FWD,Collingwood,49037,1008285.0,Will,Kelly,Collingwood,senior,27.0,2000-08-16,194.0,84.0,VIC,Oakleigh Chargers,,,COL
+154,155,295444,Tom,Langdon,4,405500,COL,DEF,Collingwood,44073,295444.0,Tom,Langdon,Collingwood,senior,8.0,1994-06-09,190.0,85.0,VIC,Sandringham Dragons,89.0,3.0,COL
+155,156,1000960,Max,Lynch,4,123900,COL,RUC,Collingwood,47047,1000960.0,Max,Lynch,Collingwood,rookie,45.0,1998-09-12,200.0,99.0,VIC,Murray Bushrangers,0.0,0.0,COL
+156,157,1010841,Jack,Madgen,4,235700,COL,DEF,Collingwood,48237,1010841.0,Jack,Madgen,Collingwood,rookie,44.0,1993-04-25,192.0,98.0,SA,Barossa District,8.0,0.0,COL
+157,158,992010,Brayden,Maynard,4,433900,COL,DEF,Collingwood,45048,992010.0,Brayden,Maynard,Collingwood,senior,37.0,1996-09-20,189.0,90.0,VIC,Sandringham Dragons,95.0,15.0,COL
+158,159,280416,Chris,Mayne,4,406700,COL,MID,Collingwood,39633,280416.0,Chris,Mayne,Collingwood,senior,16.0,1988-11-02,188.0,84.0,WA,Perth,214.0,205.0,COL
+159,160,291849,Brody,Mihocek,4,390000,COL,FWD,Collingwood,42259,291849.0,Brody,Mihocek,Collingwood,senior,41.0,1993-02-04,192.0,97.0,TAS,Burnie,38.0,65.0,COL
+160,161,298288,Darcy,Moore,4,405800,COL,DEF,Collingwood,45008,298288.0,Darcy,Moore,Collingwood,senior,30.0,1996-01-25,203.0,100.0,VIC,Oakleigh Chargers,69.0,61.0,COL
+161,162,1005107,Nathan,Murphy,4,123900,COL,DEF,Collingwood,48217,1005107.0,Nathan,Murphy,Collingwood,senior,28.0,1999-12-15,190.0,85.0,VIC,Sandringham Dragons,2.0,0.0,COL
+162,163,1000072,John,Noble,4,215400,COL,DEF,Collingwood,49145,1000072.0,John,Noble,Collingwood,senior,9.0,1997-03-25,180.0,72.0,,,3.0,0.0,COL
+163,164,260257,Scott,Pendlebury,4,566500,COL,MID,Collingwood,2032,260257.0,Scott,Pendlebury,Collingwood,senior,10.0,1988-01-07,191.0,90.0,VIC,Gippsland Power,298.0,177.0,COL
+164,165,996487,Tom,Phillips,4,450500,COL,MID,Collingwood,46060,996487.0,Tom,Phillips,Collingwood,senior,21.0,1996-05-07,187.0,79.0,VIC,Oakleigh Chargers,72.0,39.0,COL
+165,166,1008089,Isaac,Quaynor,4,261700,COL,DEF,Collingwood,49018,1008089.0,Isaac,Quaynor,Collingwood,senior,3.0,2000-01-15,180.0,83.0,VIC,Oakleigh Chargers,4.0,0.0,COL
+166,167,1015793,Jay,Rantall,4,117300,COL,MID,Collingwood,49944,1015793.0,Jay,Rantall,Collingwood,senior,35.0,2001-06-10,184.0,82.0,VIC,GWV Rebels,,,COL
+167,168,240232,Ben,Reid,4,317700,COL,FWD,Collingwood,39501,240232.0,Ben,Reid,Collingwood,senior,20.0,1989-04-29,196.0,98.0,VIC,Murray,148.0,69.0,COL
+168,169,280012,Jordan,Roughead,4,352200,COL,DEF,Collingwood,40032,280012.0,Jordan,Roughead,Collingwood,senior,23.0,1990-11-03,200.0,101.0,VIC,North Ballarat Rebels,159.0,35.0,COL
+169,170,1009383,Trey,Ruscoe,4,117300,COL,DEF MID,Collingwood,49959,1009383.0,Trey,Ruscoe,Collingwood,senior,39.0,2001-11-03,190.0,90.0,WA,East Fremantle,,,COL
+170,171,295012,Matthew,Scharenberg,4,273700,COL,DEF,Collingwood,44011,295012.0,Matthew,Scharenberg,Collingwood,senior,12.0,1995-09-18,191.0,93.0,SA,Glenelg,38.0,0.0,COL
+171,172,280965,Steele,Sidebottom,4,512000,COL,MID,Collingwood,40008,280965.0,Steele,Sidebottom,Collingwood,senior,22.0,1991-01-02,184.0,85.0,VIC,Murray Bushrangers,231.0,160.0,COL
+172,173,1003029,Brayden,Sier,4,242700,COL,MID,Collingwood,46083,1003029.0,Brayden,Sier,Collingwood,senior,36.0,1997-12-12,191.0,88.0,VIC,Northern Knights,18.0,4.0,COL
+173,174,1002240,Jaidyn,Stephenson,4,436200,COL,FWD,Collingwood,48159,1002240.0,Jaidyn,Stephenson,Collingwood,senior,1.0,1999-01-15,188.0,78.0,VIC,Eastern Ranges,38.0,59.0,COL
+174,175,290289,Josh,Thomas,4,338600,COL,FWD,Collingwood,41062,290289.0,Josh,Thomas,Collingwood,senior,24.0,1991-10-01,178.0,78.0,QLD,Gold Coast,87.0,83.0,COL
+175,176,1013975,Anton,Tohill,4,123900,COL,FWD,Collingwood,49136,1013975.0,Anton,Tohill,Collingwood,rookie,43.0,1999-12-14,191.0,85.0,,County Derry,,,COL
+176,177,291790,Adam,Treloar,4,615800,COL,MID,Collingwood,42232,291790.0,Adam,Treloar,Collingwood,senior,7.0,1993-03-09,182.0,89.0,VIC,Noble Park,161.0,96.0,COL
+177,178,250290,Travis,Varcoe,4,319400,COL,FWD,Collingwood,2040,250290.0,Travis,Varcoe,Collingwood,senior,18.0,1988-04-10,180.0,84.0,SA,Central District,220.0,170.0,COL
+178,179,1001448,Rupert,Wills,4,337900,COL,MID,Collingwood,46098,1001448.0,Rupert,Wills,Collingwood,senior,33.0,1993-05-20,192.0,88.0,VIC,Collingwood VFL,13.0,1.0,COL
+179,180,993797,Thomas,Wilson,4,102400,COL,FWD,Collingwood,49982,993797.0,Thomas,Wilson,Collingwood,rookie,48.0,1997-06-24,187.0,68.0,VIC,Sydney Kings,,,COL
+180,181,295599,Patrick,Ambrose,5,275200,ESS,DEF,Essendon,44124,295599.0,Patrick,Ambrose,Essendon,senior,29.0,1991-09-01,191.0,92.0,VIC,Old Xaverians,86.0,23.0,ESS
+181,182,1005721,Josh,Begley,5,289200,ESS,FWD,Essendon,47066,1005721.0,Josh,Begley,Essendon,senior,16.0,1998-07-03,188.0,97.0,VIC,Eastern Ranges,16.0,14.0,ESS
+182,183,261320,Tom,Bellchambers,5,460500,ESS,RUC,Essendon,39690,261320.0,Tom,Bellchambers,Essendon,senior,2.0,1989-07-09,202.0,108.0,TAS,Tassie Mariners,128.0,76.0,ESS
+183,184,1011954,Nick,Bryan,5,117300,ESS,RUC,Essendon,49942,1011954.0,Nick,Bryan,Essendon,senior,24.0,2001-10-22,202.0,87.0,VIC,Oakleigh Chargers,,,ESS
+184,185,1009223,Ned,Cahill,5,117300,ESS,MID FWD,Essendon,49960,1009223.0,Ned,Cahill,Essendon,senior,28.0,2001-01-11,178.0,77.0,VIC,Dandenong Stingrays,,,ESS
+185,186,998109,Dylan,Clarke,5,352000,ESS,MID,Essendon,47020,998109.0,Dylan,Clarke,Essendon,senior,37.0,1998-09-06,187.0,87.0,VIC,Eastern Ranges,12.0,0.0,ESS
+186,187,297406,Tom,Cutler,5,296500,ESS,MID,Essendon,44059,297406.0,Tom,Cutler,Essendon,senior,12.0,1995-02-20,192.0,92.0,VIC,Oakleigh Chargers,66.0,32.0,ESS
+187,188,294518,Joe,Daniher,5,270400,ESS,FWD,Essendon,43009,294518.0,Joe,Daniher,Essendon,senior,6.0,1994-03-04,200.0,99.0,VIC,Calder Cannons,104.0,188.0,ESS
+188,189,1005577,Sam,Draper,5,123900,ESS,RUC,Essendon,47098,1005577.0,Sam,Draper,Essendon,rookie,38.0,1998-09-28,203.0,107.0,SA,South Adelaide,0.0,0.0,ESS
+189,190,296334,Orazio,Fantasia,5,314200,ESS,FWD,Essendon,44065,296334.0,Orazio,Fantasia,Essendon,senior,13.0,1995-09-14,178.0,77.0,SA,Norwood,74.0,109.0,ESS
+190,191,990816,Aaron,Francis,5,352300,ESS,DEF,Essendon,46006,990816.0,Aaron,Francis,Essendon,senior,10.0,1997-08-10,192.0,90.0,SA,West Adelaide,26.0,6.0,ESS
+191,192,297438,Martin,Gleeson,5,387400,ESS,DEF,Essendon,43109,297438.0,Martin,Gleeson,Essendon,senior,8.0,1994-08-25,191.0,86.0,VIC,North Ballarat Rebels,78.0,5.0,ESS
+192,193,1011864,Noah,Gown,5,123900,ESS,FWD,Essendon,49052,1011864.0,Noah,Gown,Essendon,senior,32.0,2000-02-01,194.0,91.0,VIC,Gippsland Power,,,ESS
+193,194,996232,Matt,Guelfi,5,304700,ESS,MID,Essendon,47041,996232.0,Matt,Guelfi,Essendon,senior,35.0,1997-08-14,184.0,85.0,WA,Claremont,32.0,8.0,ESS
+194,195,1008190,Brayden,Ham,5,217500,ESS,FWD MID,Essendon,49099,1008190.0,Brayden,Ham,Essendon,senior,33.0,1999-04-25,181.0,70.0,VIC,Geelong Falcons,4.0,3.0,ESS
+195,196,290629,Dyson,Heppell,5,514300,ESS,MID,Essendon,42022,290629.0,Dyson,Heppell,Essendon,senior,21.0,1992-05-14,189.0,84.0,VIC,Gippsland Power,168.0,59.0,ESS
+196,197,298407,Mitchell,Hibberd,5,114400,ESS,MID,Essendon,46024,298407.0,Mitchell,Hibberd,Essendon,rookie,46.0,1996-09-23,191.0,90.0,TAS,Clarence,4.0,0.0,ESS
+197,198,270588,Cale,Hooker,5,438300,ESS,DEF,Essendon,39630,270588.0,Cale,Hooker,Essendon,senior,26.0,1988-10-13,198.0,103.0,WA,East Fremantle,192.0,86.0,ESS
+198,199,270935,Michael,Hurley,5,432900,ESS,DEF,Essendon,40005,270935.0,Michael,Hurley,Essendon,senior,18.0,1990-06-01,192.0,94.0,VIC,Northern Knights,178.0,108.0,ESS
+199,200,1006506,Lachlan,Johnson,5,117300,ESS,MID FWD,Essendon,49967,1006506.0,Lachlan,Johnson,Essendon,senior,36.0,2001-08-07,175.0,79.0,VIC,Oakleigh Chargers,,,ESS
+200,201,1011755,Harrison,Jones,5,117300,ESS,FWD,Essendon,49934,1011755.0,Harrison,Jones,Essendon,senior,23.0,2001-02-25,194.0,75.0,VIC,Calder Cannons,,,ESS
+201,202,298630,Kyle,Langford,5,399900,ESS,FWD MID,Essendon,45014,298630.0,Kyle,Langford,Essendon,senior,4.0,1996-12-01,191.0,87.0,VIC,Northern Knights,64.0,43.0,ESS
+202,203,298280,Jayden,Laverde,5,364400,ESS,FWD,Essendon,45011,298280.0,Jayden,Laverde,Essendon,senior,15.0,1996-04-12,191.0,91.0,VIC,Western Jets,39.0,29.0,ESS
+203,204,1018969,Cian,McBride,5,102400,ESS,DEF,Essendon,49901,1018969.0,Cian,McBride,Essendon,rookie,41.0,2001-04-19,195.0,84.0,,County Meath (Ireland),,,ESS
+204,205,294092,Anthony,McDonald-Tipungwuti,5,409500,ESS,FWD,Essendon,43083,294092.0,Anthony,McDonald-Tipungwuti,Essendon,senior,43.0,1993-04-22,171.0,77.0,NT,Gippsland Power,88.0,98.0,ESS
+205,206,998102,Andrew,McGrath,5,399400,ESS,MID,Essendon,47003,998102.0,Andrew,McGrath,Essendon,senior,1.0,1998-06-02,178.0,83.0,VIC,Sandringham Dragons,63.0,14.0,ESS
+206,207,997846,Conor,McKenna,5,433600,ESS,DEF,Essendon,45191,997846.0,Conor,McKenna,Essendon,senior,45.0,1996-03-28,184.0,88.0,,County Tyrone,72.0,19.0,ESS
+207,208,280038,Shaun,McKernan,5,363800,ESS,FWD,Essendon,40016,280038.0,Shaun,McKernan,Essendon,senior,44.0,1990-09-01,196.0,100.0,VIC,Calder Cannons,77.0,67.0,ESS
+208,209,1019156,Ross,McQuillan,5,102400,ESS,DEF FWD,Essendon,49902,1019156.0,Ross,McQuillan,Essendon,rookie,39.0,1999-01-18,186.0,79.0,,County Armagh (Ireland),,,ESS
+209,210,992016,Zach,Merrett,5,573600,ESS,MID,Essendon,44027,992016.0,Zach,Merrett,Essendon,senior,7.0,1995-10-03,180.0,83.0,VIC,Sandringham Dragons,125.0,44.0,ESS
+210,211,1006097,Irving,Mosquito,5,123900,ESS,FWD,Essendon,49075,1006097.0,Irving,Mosquito,Essendon,senior,22.0,2000-08-24,176.0,72.0,WA,Gippsland Power,,,ESS
+211,212,998212,Kobe,Mutch,5,207400,ESS,MID,Essendon,47012,998212.0,Kobe,Mutch,Essendon,senior,19.0,1998-03-18,187.0,88.0,VIC,Bendigo Pioneers,4.0,1.0,ESS
+212,213,993817,Darcy,Parish,5,465400,ESS,FWD MID,Essendon,46004,993817.0,Darcy,Parish,Essendon,senior,3.0,1997-07-25,181.0,77.0,VIC,Geelong Falcons,75.0,30.0,ESS
+213,214,294068,Andrew,Phillips,5,403100,ESS,RUC,Essendon,42168,294068.0,Andrew,Phillips,Essendon,senior,34.0,1991-07-03,201.0,98.0,TAS,Clarence,41.0,15.0,ESS
+214,215,997078,Mason,Redman,5,379800,ESS,DEF,Essendon,46077,997078.0,Mason,Redman,Essendon,senior,27.0,1997-08-26,187.0,87.0,SA,Glenelg,24.0,1.0,ESS
+215,216,1001026,Jordan,Ridley,5,322600,ESS,DEF,Essendon,47064,1001026.0,Jordan,Ridley,Essendon,senior,14.0,1998-10-20,192.0,91.0,VIC,Oakleigh Chargers,9.0,0.0,ESS
+216,217,295461,Adam,Saad,5,443500,ESS,DEF,Essendon,45166,295461.0,Adam,Saad,Essendon,senior,42.0,1994-07-23,178.0,78.0,VIC,Coburg,91.0,4.0,ESS
+217,218,291783,Dylan,Shiel,5,529100,ESS,MID,Essendon,42209,291783.0,Dylan,Shiel,Essendon,senior,9.0,1993-03-09,182.0,83.0,NSW,Edithvale-Aspinvale,155.0,73.0,ESS
+218,219,291771,Devon,Smith,5,335800,ESS,FWD MID,Essendon,42246,291771.0,Devon,Smith,Essendon,senior,5.0,1993-05-20,174.0,77.0,VIC,Geelong Falcons,137.0,119.0,ESS
+219,220,990606,William,Snelling,5,321800,ESS,FWD,Essendon,46037,990606.0,Will,Snelling,Essendon,rookie,40.0,1997-08-06,175.0,70.0,SA,West Adelaide,4.0,4.0,ESS
+220,221,294654,James,Stewart,5,293000,ESS,FWD,Essendon,43058,294654.0,James,Stewart,Essendon,senior,17.0,1994-03-04,199.0,96.0,VIC,Sandringham Dragons,45.0,55.0,ESS
+221,222,293884,Jake,Stringer,5,384600,ESS,FWD,Essendon,43012,293884.0,Jake,Stringer,Essendon,senior,25.0,1994-04-25,192.0,95.0,VIC,Bendigo Pioneers,126.0,223.0,ESS
+222,223,291891,Jacob,Townsend,5,222900,ESS,FWD,Essendon,42212,291891.0,Jacob,Townsend,Essendon,rookie,20.0,1993-06-20,187.0,88.0,NSW,Leeton,48.0,32.0,ESS
+223,224,270951,David,Zaharakis,5,428700,ESS,MID,Essendon,40031,270951.0,David,Zaharakis,Essendon,senior,11.0,1990-02-21,180.0,79.0,VIC,Northern Knights,207.0,125.0,ESS
+224,225,1004034,Brandon,Zerk-Thatcher,5,189000,ESS,DEF,Essendon,48076,1004034.0,Brandon,Zerk-Thatcher,Essendon,senior,30.0,1998-08-25,195.0,86.0,SA,Sturt,1.0,0.0,ESS
+225,226,296294,Blake,Acres,6,384400,FRE,FWD MID,Fremantle,44013,296294.0,Blake,Acres,Fremantle,senior,9.0,1995-10-07,191.0,90.0,WA,West Perth ,75.0,29.0,FRE
+226,227,295067,James,Aish,6,353000,FRE,DEF,Fremantle,44004,295067.0,James,Aish,Fremantle,senior,11.0,1995-11-08,183.0,80.0,SA,Norwood,81.0,23.0,FRE
+227,228,998180,Bailey,Banfield,6,266700,FRE,FWD,Fremantle,48228,998180.0,Bailey,Banfield,Fremantle,senior,41.0,1998-02-26,190.0,92.0,WA,Claremont,27.0,7.0,FRE
+228,229,296371,Brett,Bewley,6,252700,FRE,FWD,Fremantle,49089,296371.0,Brett,Bewley,Fremantle,senior,34.0,1995-04-14,185.0,87.0,VIC,Williamstown,7.0,1.0,FRE
+229,230,298450,Connor,Blakely,6,411500,FRE,DEF,Fremantle,45030,298450.0,Connor,Blakely,Fremantle,senior,19.0,1996-03-02,188.0,90.0,WA,Swan Districts,60.0,2.0,FRE
+230,231,1002232,Andrew,Brayshaw,6,382800,FRE,FWD MID,Fremantle,48008,1002232.0,Andrew,Brayshaw,Fremantle,senior,8.0,1999-11-08,184.0,84.0,VIC,Sandringham Dragons,39.0,12.0,FRE
+231,232,1017984,Isaiah,Butters,6,102400,FRE,FWD,Fremantle,49983,1017984.0,Isaiah,Butters,Fremantle,rookie,38.0,2001-09-16,182.0,69.0,WA,Claremont,,,FRE
+232,233,1006151,Jason,Carter,6,141200,FRE,DEF,Fremantle,49135,1006151.0,Jason,Carter,Fremantle,rookie,35.0,2000-01-11,185.0,76.0,WA,Dockers Academy,2.0,0.0,FRE
+233,234,1002239,Adam,Cerra,6,338900,FRE,DEF,Fremantle,48003,1002239.0,Adam,Cerra,Fremantle,senior,5.0,1999-10-07,188.0,84.0,VIC,Eastern Ranges,41.0,9.0,FRE
+234,235,280988,Travis,Colyer,6,292200,FRE,FWD,Fremantle,41036,280988.0,Travis,Colyer,Fremantle,senior,33.0,1991-08-24,175.0,77.0,WA,Claremont,97.0,59.0,FRE
+235,236,290823,Reece,Conca,6,372000,FRE,MID,Fremantle,42035,290823.0,Reece,Conca,Fremantle,senior,6.0,1992-08-12,181.0,84.0,WA,Perth,126.0,25.0,FRE
+236,237,997033,Brennan,Cox,6,305500,FRE,FWD,Fremantle,47065,997033.0,Brennan,Cox,Fremantle,senior,36.0,1998-08-13,195.0,99.0,SA,Woodville-West Torrens,34.0,27.0,FRE
+237,238,1002353,Mitchell,Crowden,6,272800,FRE,FWD,Fremantle,48068,1002353.0,Mitch,Crowden,Fremantle,senior,12.0,1999-04-28,176.0,84.0,SA,Sturt,14.0,4.0,FRE
+238,239,998145,Sean,Darcy,6,402800,FRE,RUC,Fremantle,47075,998145.0,Sean,Darcy,Fremantle,senior,4.0,1998-06-12,202.0,113.0,VIC,Geelong Falcons,26.0,7.0,FRE
+239,240,1002372,Hugh,Dixon,6,171100,FRE,FWD,Fremantle,48044,1002372.0,Hugh,Dixon,Fremantle,senior,17.0,1999-02-26,196.0,96.0,TAS,Kingborough Tigers,1.0,1.0,FRE
+240,241,998115,Taylin,Duman,6,336300,FRE,DEF,Fremantle,47099,998115.0,Taylin,Duman,Fremantle,senior,44.0,1998-04-18,193.0,83.0,VIC,Oakleigh Chargers,24.0,1.0,FRE
+241,242,999321,Minairo,Frederick,6,117300,FRE,FWD,Fremantle,49965,999321.0,Minairo,Frederick,Fremantle,senior,43.0,2000-05-17,179.0,64.0,SA,Woodville-West Torrens,,,FRE
+242,243,291570,Nat,Fyfe,6,651600,FRE,MID,Fremantle,41049,291570.0,Nat,Fyfe,Fremantle,senior,7.0,1991-09-18,192.0,96.0,WA,Claremont,172.0,148.0,FRE
+243,244,1002354,Stefan,Giro,6,215900,FRE,MID,Fremantle,48058,1002354.0,Stefan,Giro,Fremantle,senior,42.0,1999-03-10,175.0,77.0,SA,Norwood,10.0,3.0,FRE
+244,245,295222,Joel,Hamling,6,342400,FRE,DEF,Fremantle,42325,295222.0,Joel,Hamling,Fremantle,senior,21.0,1993-04-09,194.0,92.0,WA,Claremont,84.0,0.0,FRE
+245,246,1005988,Liam,Henry,6,171300,FRE,MID FWD,Fremantle,49913,1005988.0,Liam,Henry,Fremantle,senior,31.0,2001-08-28,179.0,67.0,WA,Claremont,,,FRE
+246,247,280336,Stephen,Hill,6,190600,FRE,DEF FWD,Fremantle,40017,280336.0,Stephen,Hill,Fremantle,senior,32.0,1990-05-01,183.0,82.0,WA,West Perth,205.0,110.0,FRE
+247,248,296324,Jesse,Hogan,6,327600,FRE,FWD,Fremantle,43096,296324.0,Jesse,Hogan,Fremantle,senior,1.0,1995-02-12,195.0,99.0,WA,Claremont,83.0,165.0,FRE
+248,249,996580,Ethan,Hughes,6,364100,FRE,DEF,Fremantle,45157,996580.0,Ethan,Hughes,Fremantle,senior,15.0,1994-12-07,188.0,89.0,WA,Swan Districts,50.0,4.0,FRE
+249,250,990740,Rory,Lobb,6,472800,FRE,RUC,Fremantle,44034,990740.0,Rory,Lobb,Fremantle,senior,37.0,1993-02-09,206.0,106.0,WA,Swan Districts,88.0,74.0,FRE
+250,251,997933,Griffin,Logue,6,339900,FRE,DEF,Fremantle,47046,997933.0,Griffin,Logue,Fremantle,senior,2.0,1998-04-13,193.0,101.0,WA,Swan Districts,23.0,1.0,FRE
+251,252,290817,Brandon,Matera,6,342900,FRE,FWD,Fremantle,41171,290817.0,Brandon,Matera,Fremantle,senior,3.0,1992-03-11,175.0,76.0,WA,South Fremantle,139.0,167.0,FRE
+252,253,995192,Cam,McCarthy,6,289200,FRE,FWD,Fremantle,44016,995192.0,Cameron,McCarthy,Fremantle,senior,23.0,1995-04-01,192.0,92.0,WA,South Fremantle,69.0,99.0,FRE
+253,254,1000980,Lloyd,Meek,6,123900,FRE,RUC,Fremantle,48136,1000980.0,Lloyd,Meek,Fremantle,senior,30.0,1998-04-22,203.0,111.0,VIC,GWV Rebels,0.0,0.0,FRE
+254,255,240052,David,Mundy,6,483500,FRE,MID,Fremantle,1539,240052.0,David,Mundy,Fremantle,senior,16.0,1985-07-20,193.0,94.0,VIC,Murray Bushrangers,315.0,137.0,FRE
+255,256,1003132,Tom,North,6,102400,FRE,MID,Fremantle,48154,1003132.0,Tom,North,Fremantle,rookie,24.0,1999-02-14,183.0,84.0,VIC,Eastern Ranges,0.0,0.0,FRE
+256,257,1005831,Dillon,O'Reilly,6,123900,FRE,DEF,Fremantle,49985,1005831.0,Dillon,O'Reilly,Fremantle,rookie,46.0,2000-06-02,193.0,79.0,WA,East Fremantle,,,FRE
+257,258,298409,Alex,Pearce,6,297700,FRE,DEF,Fremantle,44084,298409.0,Alex,Pearce,Fremantle,senior,25.0,1995-06-09,201.0,101.0,TAS,Devonport,53.0,3.0,FRE
+258,259,1007854,Jarvis,Pina,6,120400,FRE,DEF MID,Fremantle,49973,1007854.0,Jarvis,Pina,Fremantle,rookie,47.0,2000-10-30,176.0,71.0,WA,Peel Thunder,,,FRE
+259,260,998659,Luke,Ryan,6,520400,FRE,DEF,Fremantle,47025,998659.0,Luke,Ryan,Fremantle,senior,13.0,1996-02-06,187.0,92.0,VIC,Coburg,49.0,3.0,FRE
+260,261,1000860,Lachlan,Schultz,6,208800,FRE,FWD,Fremantle,49088,1000860.0,Lachlan,Schulz,Fremantle,senior,28.0,1997-11-30,178.0,78.0,VIC,Williamstown,7.0,4.0,FRE
+261,262,1009420,Caleb,Serong,6,175800,FRE,MID,Fremantle,49912,1009420.0,Caleb,Serong,Fremantle,senior,22.0,2001-02-09,178.0,83.0,VIC,Gippsland Power,,,FRE
+262,263,1013611,Sam,Sturt,6,123900,FRE,FWD,Fremantle,49051,1013611.0,Sam,Sturt,Fremantle,senior,27.0,2000-05-12,189.0,72.0,VIC,Dandenong Stingrays,,,FRE
+263,264,992059,Sam,Switkowski,6,353000,FRE,FWD,Fremantle,48224,992059.0,Samuel,Switkowski,Fremantle,senior,39.0,1996-11-20,179.0,74.0,VIC,Box Hill Hawks,20.0,7.0,FRE
+264,265,293854,Matt,Taberner,6,426600,FRE,FWD,Fremantle,43123,293854.0,Matt,Taberner,Fremantle,senior,20.0,1993-06-17,198.0,99.0,VIC,Murray Bushrangers,71.0,75.0,FRE
+265,266,1009381,Leno,Thomas,6,102400,FRE,DEF,Fremantle,49984,1009381.0,Leno,Thomas,Fremantle,rookie,48.0,2001-05-12,183.0,73.0,WA,Claremont,,,FRE
+266,267,993816,Darcy,Tucker,6,398400,FRE,FWD MID,Fremantle,46011,993816.0,Darcy,Tucker,Fremantle,senior,18.0,1997-01-23,184.0,83.0,VIC,North Ballarat,70.0,29.0,FRE
+267,268,1004850,Luke,Valente,6,123900,FRE,MID,Fremantle,49022,1004850.0,Luke,Valente,Fremantle,senior,29.0,2000-05-08,187.0,81.0,SA,Norwood,,,FRE
+268,269,281007,Michael,Walters,6,547200,FRE,FWD MID,Fremantle,40020,281007.0,Michael,Walters,Fremantle,senior,10.0,1991-01-07,178.0,78.0,WA,Swan Districts,150.0,260.0,FRE
+269,270,1004437,Tobe,Watson,6,123900,FRE,DEF,Fremantle,49115,1004437.0,Tobe,Watson,Fremantle,rookie,45.0,1997-12-03,190.0,83.0,WA,Swan Districts,,,FRE
+270,271,294125,Nathan,Wilson,6,372000,FRE,DEF,Fremantle,42234,294125.0,Nathan,Wilson,Fremantle,senior,14.0,1993-01-07,185.0,81.0,WA,Mandurah,115.0,17.0,FRE
+271,272,1009256,Hayden,Young,6,180300,FRE,DEF,Fremantle,49911,1009256.0,Hayden,Young,Fremantle,senior,26.0,2001-04-11,188.0,82.0,VIC,Dandenong Stingrays,,,FRE
+272,273,998130,Ben,Ainsworth,17,329000,GCS,FWD MID,Gold Coast,47009,998130.0,Ben,Ainsworth,Gold Coast,senior,9.0,1998-02-10,178.0,77.0,VIC,Gippsland Power,41.0,28.0,GCS
+273,274,1009199,Noah,Anderson,17,202800,GCS,MID,Gold Coast,49906,1009199.0,Noah,Anderson,Gold Coast,senior,15.0,2001-02-17,188.0,86.0,VIC,Oakleigh Chargers,,,GCS
+274,275,1008882,Charlie,Ballard,17,325800,GCS,DEF,Gold Coast,48089,1008882.0,Charlie,Ballard,Gold Coast,senior,10.0,1999-07-23,195.0,91.0,SA,Sturt,32.0,1.0,GCS
+275,276,998260,Jack,Bowes,17,411300,GCS,MID,Gold Coast,47006,998260.0,Jack,Bowes,Gold Coast,senior,3.0,1998-01-26,187.0,85.0,QLD,Gold Coast,42.0,12.0,GCS
+276,277,998129,Will,Brodie,17,435800,GCS,MID,Gold Coast,47002,998129.0,Will,Brodie,Gold Coast,senior,7.0,1998-08-23,189.0,89.0,VIC,Murray Bushrangers,19.0,3.0,GCS
+277,278,1008454,Connor,Budarick,17,106900,GCS,MID FWD,Gold Coast,49978,1008454.0,Connor,Budarick,Gold Coast,rookie,35.0,2001-04-06,176.0,76.0,QLD,Gold Coast Academy,,,GCS
+278,279,1000068,Christopher,Burgess,17,265300,GCS,DEF,Gold Coast,48997,1000068.0,Chris,Burgess,Gold Coast,senior,29.0,1995-11-26,191.0,82.0,SA,West Adelaide,14.0,4.0,GCS
+279,280,295446,Sam,Collins,17,328200,GCS,DEF,Gold Coast,46091,295446.0,Samuel,Collins,Gold Coast,senior,25.0,1994-06-15,194.0,98.0,VIC,Dandenong Stingrays,23.0,0.0,GCS
+280,281,1009334,Matthew,Conroy,17,102400,GCS,RUC,Gold Coast,49986,1009334.0,Matthew,Conroy,Gold Coast,rookie,48.0,2000-11-07,198.0,85.0,QLD,Gold Coast Academy,,,GCS
+281,282,1005547,Joshua,Corbett,17,227500,GCS,FWD,Gold Coast,48998,1005547.0,Josh,Corbett,Gold Coast,senior,19.0,1996-04-23,190.0,90.0,VIC,Werribee Tigers,9.0,3.0,GCS
+282,283,1002331,Jacob,Dawson,17,318500,GCS,DEF,Gold Coast,48019,1002331.0,Jacob,Dawson,Gold Coast,senior,45.0,1999-11-03,182.0,82.0,QLD,Palm Beach Currumbin,9.0,1.0,GCS
+283,284,291753,Sam,Day,17,369800,GCS,FWD,Gold Coast,42003,291753.0,Sam,Day,Gold Coast,senior,12.0,1992-09-06,197.0,104.0,SA,Sturt,120.0,85.0,GCS
+284,285,293713,Brandon,Ellis,17,470800,GCS,MID,Gold Coast,42241,293713.0,Brandon,Ellis,Gold Coast,senior,4.0,1993-08-03,181.0,82.0,VIC,Calder Cannons,173.0,58.0,GCS
+285,286,991953,Corey,Ellis,17,279100,GCS,DEF,Gold Coast,45025,991953.0,Corey,Ellis,Gold Coast,senior,17.0,1996-10-09,184.0,81.0,VIC,Western Jets,31.0,7.0,GCS
+286,287,999715,Jy,Farrar,17,117300,GCS,FWD,Gold Coast,49964,999715.0,Jy,Farrar,Gold Coast,senior,50.0,1996-12-07,190.0,78.0,VIC,Scotch College,,,GCS
+287,288,993799,Brayden,Fiorini,17,477100,GCS,MID,Gold Coast,46031,993799.0,Brayden,Fiorini,Gold Coast,senior,8.0,1997-08-22,186.0,82.0,VIC,Northern Knights,47.0,16.0,GCS
+288,289,1009260,Sam,Flanders,17,162300,GCS,MID FWD,Gold Coast,49915,1009260.0,Sam,Flanders,Gold Coast,senior,26.0,2001-07-24,182.0,81.0,VIC,Gippsland Power,,,GCS
+289,290,1006110,Sam,Fletcher,17,123900,GCS,MID,Gold Coast,49987,1006110.0,Sam,Fletcher,Gold Coast,rookie,47.0,2000-01-27,188.0,77.0,QLD,Gold Coast Academy,,,GCS
+290,291,1006087,Caleb,Graham,17,207800,GCS,DEF,Gold Coast,49031,1006087.0,Caleb,Graham,Gold Coast,senior,46.0,2000-09-12,195.0,92.0,QLD,Gold Coast Academy,3.0,0.0,GCS
+291,292,281091,Hugh,Greenwood,17,463100,GCS,FWD MID,Gold Coast,46118,281091.0,Hugh,Greenwood,Gold Coast,senior,21.0,1992-03-06,191.0,92.0,TAS,Perth Wildcats,51.0,36.0,GCS
+292,293,270512,Pearce,Hanley,17,419800,GCS,DEF,Gold Coast,39619,270512.0,Pearce,Hanley,Gold Coast,senior,1.0,1988-11-15,185.0,86.0,,County Mayo Ireland,161.0,60.0,GCS
+293,294,240254,Jarrod,Harbrow,17,419400,GCS,DEF,Gold Coast,39564,240254.0,Jarrod,Harbrow,Gold Coast,senior,5.0,1988-07-18,178.0,73.0,VIC,Murray Bushrangers,245.0,54.0,GCS
+294,295,1002328,Jacob,Heron,17,179900,GCS,FWD,Gold Coast,48234,1002328.0,Jacob,Heron,Gold Coast,senior,40.0,1999-12-10,180.0,79.0,QLD,Cairns Saints,13.0,2.0,GCS
+295,296,297456,Nick,Holman,17,365200,GCS,FWD,Gold Coast,44063,297456.0,Nick,Holman,Gold Coast,senior,39.0,1995-05-29,189.0,87.0,VIC,Murray Bushrangers,43.0,21.0,GCS
+296,297,291964,Jack,Hombsch,17,290800,GCS,DEF,Gold Coast,42216,291964.0,Jack,Hombsch,Gold Coast,senior,20.0,1993-03-07,194.0,89.0,SA,Sturt,116.0,1.0,GCS
+297,298,293255,George,Horlin-Smith,17,221300,GCS,DEF MID,Gold Coast,42114,293255.0,George,Horlin-Smith,Gold Coast,senior,33.0,1992-12-22,188.0,84.0,SA,Sturt,58.0,29.0,GCS
+298,299,996064,Jesse,Joyce,17,326800,GCS,DEF,Gold Coast,46125,996064.0,Jesse,Joyce,Gold Coast,senior,38.0,1997-08-17,191.0,84.0,QLD,Palm Beach Currumbin,63.0,2.0,GCS
+299,300,1006144,Ben,King,17,225000,GCS,FWD,Gold Coast,49002,1006144.0,Ben,King,Gold Coast,senior,34.0,2000-07-07,202.0,87.0,VIC,Sandringham Dragons,14.0,17.0,GCS
+300,301,294013,Sean,Lemmens,17,262000,GCS,FWD MID,Gold Coast,44074,294013.0,Sean,Lemmens,Gold Coast,senior,23.0,1994-11-02,184.0,84.0,SA,Port Adelaide,87.0,21.0,GCS
+301,302,1004095,Jack,Lukosius,17,274600,GCS,DEF FWD,Gold Coast,49001,1004095.0,Jack,Lukosius,Gold Coast,senior,13.0,2000-08-09,195.0,83.0,SA,Woodville-West Torrens,21.0,3.0,GCS
+302,303,996464,Darcy,MacPherson,17,443800,GCS,FWD MID,Gold Coast,46110,996464.0,Darcy,MacPherson,Gold Coast,senior,44.0,1997-10-29,174.0,78.0,VIC,Footscray VFL,39.0,21.0,GCS
+303,304,1000044,Jez,McLennan,17,123900,GCS,DEF,Gold Coast,49053,1000044.0,Jez,McLennan,Gold Coast,senior,43.0,2000-09-07,185.0,82.0,SA,Central District,,,GCS
+304,305,290671,Anthony,Miles,17,455200,GCS,MID,Gold Coast,42204,290671.0,Anthony,Miles,Gold Coast,senior,2.0,1992-02-28,180.0,81.0,NSW,Murray Bushrangers,88.0,31.0,GCS
+305,306,298272,Touk,Miller,17,460700,GCS,MID,Gold Coast,45043,298272.0,Touk,Miller,Gold Coast,senior,11.0,1996-02-22,178.0,83.0,VIC,Calder Cannons,100.0,28.0,GCS
+306,307,295942,Jordan,Murdoch,17,319600,GCS,DEF,Gold Coast,42326,295942.0,Jordan,Murdoch,Gold Coast,senior,31.0,1992-03-23,190.0,87.0,SA,Glenelg,122.0,74.0,GCS
+307,308,1016116,Patrick,Murtagh,17,102400,GCS,FWD,Gold Coast,49988,1016116.0,Patrick,Murtagh,Gold Coast,rookie,42.0,2000-02-11,196.0,94.0,QLD,Gold Coast Academy,,,GCS
+308,309,1007881,Wil,Powell,17,298700,GCS,MID,Gold Coast,48212,1007881.0,Wil,Powell,Gold Coast,senior,27.0,1999-08-26,185.0,76.0,WA,Claremont,20.0,9.0,GCS
+309,310,1001195,Izak,Rankine,17,123900,GCS,FWD,Gold Coast,49007,1001195.0,Izak,Rankine,Gold Coast,senior,22.0,2000-04-23,179.0,76.0,SA,West Adelaide,,,GCS
+310,311,1006108,Mitchell,Riordan,17,123900,GCS,MID,Gold Coast,49989,1006108.0,Mitchell,Riordan,Gold Coast,rookie,49.0,2000-01-25,187.0,83.0,VIC,Dandenong Stingrays,,,GCS
+311,312,1005986,Malcolm,Rosas,17,102400,GCS,FWD,Gold Coast,49904,1005986.0,Malcolm,Rosas,Gold Coast,rookie,41.0,2001-06-27,175.0,62.0,NT,NT Thunder,,,GCS
+312,313,1009208,Matthew,Rowell,17,207300,GCS,MID,Gold Coast,49905,1009208.0,Matthew,Rowell,Gold Coast,senior,18.0,2001-07-01,178.0,74.0,VIC,Oakleigh Chargers,,,GCS
+313,314,998511,Josh,Schoenfeld,17,178700,GCS,FWD,Gold Coast,46084,998511.0,Joshua,Schoenfeld,Gold Coast,rookie,36.0,1997-07-03,186.0,84.0,WA,Peel Thunder,15.0,5.0,GCS
+314,315,294643,Alex,Sexton,17,297200,GCS,FWD,Gold Coast,42309,294643.0,Alex,Sexton,Gold Coast,senior,6.0,1993-12-03,186.0,83.0,QLD,Redland,119.0,110.0,GCS
+315,316,1009380,Jeremy,Sharp,17,117300,GCS,MID,Gold Coast,49931,1009380.0,Jeremy,Sharp,Gold Coast,senior,37.0,2001-08-13,187.0,73.0,WA,East Fremantle,,,GCS
+316,317,280722,Zac,Smith,17,254700,GCS,RUC,Gold Coast,41156,280722.0,Zac,Smith,Gold Coast,senior,32.0,1990-02-22,206.0,105.0,QLD,Biloela,114.0,51.0,GCS
+317,318,290832,David,Swallow,17,478900,GCS,MID,Gold Coast,42001,290832.0,David,Swallow,Gold Coast,senior,24.0,1992-11-19,185.0,87.0,WA,East Fremantle,139.0,68.0,GCS
+318,319,281075,Rory,Thompson,17,212300,GCS,DEF,Gold Coast,41160,281075.0,Rory,Thompson,Gold Coast,senior,16.0,1991-03-12,200.0,100.0,QLD,Southport,104.0,7.0,GCS
+319,320,1019157,Luke,Towey,17,102400,GCS,DEF,Gold Coast,49903,1019157.0,Luke,Towey,Gold Coast,rookie,52.0,1999-07-11,186.0,80.0,,County Sligo (Ireland),,,GCS
+320,321,298524,Lachie,Weller,17,481100,GCS,DEF,Gold Coast,45007,298524.0,Lachlan,Weller,Gold Coast,senior,14.0,1996-02-23,181.0,81.0,QLD,Broadbeach,86.0,23.0,GCS
+321,322,291975,Jarrod,Witts,17,541300,GCS,RUC,Gold Coast,42321,291975.0,Jarrod,Witts,Gold Coast,senior,28.0,1992-09-13,209.0,111.0,NSW,Sydney University,102.0,25.0,GCS
+322,323,298289,Peter,Wright,17,369300,GCS,FWD,Gold Coast,45005,298289.0,Peter,Wright,Gold Coast,senior,30.0,1996-09-08,203.0,103.0,VIC,Calder Cannons,66.0,85.0,GCS
+323,324,220001,Gary,Ablett,7,519500,GEE,FWD,Geelong,552,220001.0,Gary,Ablett jnr,Geelong,senior,4.0,1984-05-14,182.0,87.0,VIC,Geelong Falcons ,342.0,435.0,GEE
+324,325,994386,Tom,Atkins,7,327200,GEE,FWD,Geelong,49109,994386.0,Tom,Atkins,Geelong,senior,30.0,1995-09-18,180.0,86.0,VIC,Geelong VFL,20.0,4.0,GEE
+325,326,293883,Jed,Bews,7,304700,GEE,DEF,Geelong,42308,293883.0,Jed,Bews,Geelong,senior,24.0,1993-12-14,186.0,88.0,VIC,Geelong U18,79.0,8.0,GEE
+326,327,296733,Mark,Blicavs,7,449200,GEE,DEF,Geelong,42367,296733.0,Mark,Blicavs,Geelong,senior,46.0,1991-03-28,198.0,100.0,VIC,AIS,153.0,36.0,GEE
+327,328,1006101,Oscar,Brownless,7,102400,GEE,FWD,Geelong,49049,1006101.0,Oscar,Brownless,Geelong,rookie,20.0,2000-02-16,186.0,75.0,VIC,Geelong Falcons,,,GEE
+328,329,1006152,Jordan,Clark,7,330900,GEE,MID,Geelong,49047,1006152.0,Jordan,Clark,Geelong,senior,6.0,2000-10-16,185.0,78.0,WA,Claremont,18.0,11.0,GEE
+329,330,999326,Bradley,Close,7,109900,GEE,MID FWD,Geelong,49977,999326.0,Bradley,Close,Geelong,rookie,45.0,1998-07-30,178.0,70.0,SA,Glenelg,,,GEE
+330,331,298336,Nakia,Cockatoo,7,148200,GEE,MID FWD,Geelong,45013,298336.0,Nakia,Cockatoo,Geelong,senior,5.0,1996-10-23,186.0,90.0,NT,NT Thunder,34.0,25.0,GEE
+331,332,1002242,Charlie,Constable,7,391000,GEE,MID,Geelong,48160,1002242.0,Charlie,Constable,Geelong,senior,18.0,1999-05-18,191.0,86.0,VIC,Sandringham Dragons,7.0,5.0,GEE
+332,333,291526,Luke,Dahlhaus,7,462400,GEE,FWD,Geelong,42194,291526.0,Luke,Dahlhaus,Geelong,senior,40.0,1992-08-21,179.0,77.0,VIC,Geelong Falcons,174.0,123.0,GEE
+333,334,270917,Patrick,Dangerfield,7,625500,GEE,MID,Geelong,39610,270917.0,Patrick,Dangerfield,Geelong,senior,35.0,1990-04-05,189.0,92.0,VIC,Geelong Falcons,244.0,280.0,GEE
+334,335,1009229,Sam,De Koning,7,126300,GEE,DEF,Geelong,49923,1009229.0,Sam,De Koning,Geelong,senior,16.0,2001-02-26,200.0,85.0,,,,,GEE
+335,336,281065,Mitch,Duncan,7,560600,GEE,MID,Geelong,41020,281065.0,Mitch,Duncan,Geelong,senior,22.0,1991-06-10,188.0,88.0,WA,East Perth,199.0,144.0,GEE
+336,337,1017255,Francis,Evans,7,117300,GEE,FWD,Geelong,49945,1017255.0,Francis,Evans,Geelong,senior,31.0,2001-08-23,182.0,78.0,VIC,Calder Cannons,,,GEE
+337,338,1002228,Lachie,Fogarty,7,219400,GEE,MID,Geelong,48143,1002228.0,Lachlan,Fogarty,Geelong,senior,13.0,1999-04-01,180.0,76.0,VIC,Western Jets,17.0,5.0,GEE
+338,339,298211,Darcy,Fort,7,264800,GEE,FWD,Geelong,49093,298211.0,Darcy,Fort,Geelong,senior,28.0,1993-08-06,204.0,99.0,SA,Central District,3.0,5.0,GEE
+339,340,290550,Cameron,Guthrie,7,413900,GEE,MID,Geelong,42031,290550.0,Cameron,Guthrie,Geelong,senior,29.0,1992-08-19,187.0,86.0,VIC,Calder Cannons,157.0,52.0,GEE
+340,341,1004870,Zach,Guthrie,7,190100,GEE,DEF,Geelong,47113,1004870.0,Zach,Guthrie,Geelong,senior,39.0,1998-06-30,187.0,76.0,VIC,Calder Cannons,17.0,0.0,GEE
+341,342,261510,Tom,Hawkins,7,465000,GEE,FWD,Geelong,39517,261510.0,Tom,Hawkins,Geelong,senior,26.0,1988-07-21,198.0,103.0,VIC,Melbourne Grammar,253.0,549.0,GEE
+342,343,270326,Lachlan,Henderson,7,305000,GEE,DEF,Geelong,39618,270326.0,Lachie,Henderson,Geelong,rookie,25.0,1989-12-14,196.0,98.0,VIC,Geelong Falcons,169.0,112.0,GEE
+343,344,1000937,Jack,Henry,7,289200,GEE,DEF,Geelong,47106,1000937.0,Jack,Henry,Geelong,senior,38.0,1998-08-29,191.0,92.0,VIC,Geelong Falcons,42.0,8.0,GEE
+344,345,1008940,Ben,Jarvis,7,123900,GEE,DEF,Geelong,49081,1008940.0,Ben,Jarvis,Geelong,senior,10.0,2000-07-27,189.0,65.0,SA,Norwood,,,GEE
+345,346,294828,Josh,Jenkins,7,371200,GEE,FWD,Geelong,42159,294828.0,Josh,Jenkins,Geelong,senior,11.0,1989-02-08,200.0,108.0,VIC,Lake Boga,147.0,296.0,GEE
+346,347,1004681,Jacob,Kennerley,7,123900,GEE,DEF,Geelong,49082,1004681.0,Jacob,Kennerley,Geelong,senior,21.0,2000-06-16,186.0,78.0,SA,Norwood,,,GEE
+347,348,296291,Jake,Kolodjashnij,7,297600,GEE,DEF,Geelong,44064,296291.0,Jake,Kolodjashnij,Geelong,senior,8.0,1995-08-09,193.0,94.0,TAS,Launceston,89.0,0.0,GEE
+348,349,997254,Nathan,Kreuger,7,123900,GEE,FWD,Geelong,48999,997254.0,Nathan,Kreuger,Geelong,senior,15.0,1999-06-25,196.0,88.0,SA,South Adelaide,,,GEE
+349,350,294199,Sam,Menegola,7,441700,GEE,MID,Geelong,42171,294199.0,Sam,Menegola,Geelong,senior,27.0,1992-03-07,189.0,89.0,WA,East Fremantle,61.0,47.0,GEE
+350,351,1004938,Gryan,Miers,7,365600,GEE,FWD,Geelong,48104,1004938.0,Gryan,Miers,Geelong,senior,32.0,1999-03-30,178.0,78.0,VIC,Geelong Falcons,22.0,25.0,GEE
+351,352,999824,Quinton,Narkle,7,396600,GEE,MID,Geelong,47087,999824.0,Quinton,Narkle,Geelong,senior,19.0,1997-12-03,181.0,80.0,WA,Perth,9.0,9.0,GEE
+352,353,1007102,Mark,O'Connor,7,346500,GEE,DEF,Geelong,47127,1007102.0,Mark,O'Connor,Geelong,senior,42.0,1997-01-17,191.0,87.0,,County Kerry (Ireland),27.0,1.0,GEE
+353,354,1013977,Stefan,Okunbor,7,123900,GEE,DEF,Geelong,49134,1013977.0,Stefan,Okunbor,Geelong,rookie,43.0,1998-08-12,190.0,87.0,,County Kerry,,,GEE
+354,355,298419,Brandan,Parfitt,7,427400,GEE,FWD MID,Geelong,47035,298419.0,Brandan,Parfitt,Geelong,senior,3.0,1998-04-27,180.0,79.0,SA,North Adelaide,51.0,24.0,GEE
+355,356,993798,James,Parsons,7,282400,GEE,MID,Geelong,46038,993798.0,James,Parsons,Geelong,senior,34.0,1997-04-12,190.0,82.0,VIC,Eastern Ranges,35.0,26.0,GEE
+356,357,1002220,Esava,Ratugolea,7,319100,GEE,FWD,Geelong,47077,1002220.0,Esava,Ratugolea,Geelong,senior,17.0,1998-07-24,197.0,102.0,VIC,Murray Bushrangers,25.0,19.0,GEE
+357,358,291357,Gary,Rohan,7,328800,GEE,FWD,Geelong,41006,291357.0,Gary,Rohan,Geelong,senior,23.0,1991-06-07,189.0,92.0,VIC,Geelong Falcons,122.0,117.0,GEE
+358,359,1008202,Blake,Schlensog,7,123900,GEE,FWD,Geelong,49133,1008202.0,Blake,Schlensog,Geelong,rookie,36.0,2000-09-25,198.0,99.0,VIC,Geelong Falcons,,,GEE
+359,360,250321,Joel,Selwood,7,465600,GEE,MID,Geelong,39515,250321.0,Joel,Selwood,Geelong,senior,14.0,1988-05-26,183.0,84.0,VIC,Bendigo,290.0,156.0,GEE
+360,361,1004940,Sam,Simpson,7,123900,GEE,MID,Geelong,47122,1004940.0,Sam,Simpson,Geelong,rookie,37.0,1998-06-14,180.0,74.0,VIC,Geelong Falcons,6.0,2.0,GEE
+361,362,280317,Rhys,Stanley,7,467300,GEE,RUC,Geelong,40086,280317.0,Rhys,Stanley,Geelong,senior,1.0,1990-12-01,200.0,102.0,SA,West Adelaide,130.0,83.0,GEE
+362,363,1004948,Cooper,Stephens,7,139800,GEE,MID,Geelong,49920,1004948.0,Cooper,Stephens,Geelong,senior,12.0,2001-01-17,188.0,83.0,VIC,Geelong Falcons,,,GEE
+363,364,270912,Jack,Steven,7,361700,GEE,FWD MID,Geelong,39658,270912.0,Jack,Steven,Geelong,senior,9.0,1990-03-28,180.0,83.0,VIC,Geelong Falcons,183.0,112.0,GEE
+364,365,291800,Tom,Stewart,7,533200,GEE,DEF,Geelong,47076,291800.0,Tom,Stewart,Geelong,senior,44.0,1993-03-15,190.0,88.0,VIC,Geelong VFL,65.0,3.0,GEE
+365,366,1008603,Cameron,Taheny,7,117300,GEE,FWD,Geelong,49954,1008603.0,Cameron,Taheny,Geelong,senior,41.0,2001-08-03,186.0,79.0,SA,Norwood,,,GEE
+366,367,999382,Jake,Tarca,7,123900,GEE,FWD,Geelong,49096,999382.0,Jake,Tarca,Geelong,senior,33.0,2000-02-23,177.0,73.0,SA,South Adelaide,,,GEE
+367,368,261497,Harry,Taylor,7,384300,GEE,DEF,Geelong,39634,261497.0,Harry,Taylor,Geelong,senior,7.0,1986-06-12,195.0,94.0,WA,East Fremantle,256.0,72.0,GEE
+368,369,292511,Zach,Tuohy,7,386300,GEE,DEF,Geelong,40152,292511.0,Zach,Tuohy,Geelong,senior,2.0,1989-12-10,187.0,93.0,,"Laois, Ireland",183.0,58.0,GEE
+369,370,1009253,Lachlan,Ash,18,193800,GWS,DEF MID,GWS Giants,49908,1009253.0,Lachlan,Ash,GWS,senior,7.0,2001-06-21,186.0,80.0,VIC,Murray Bushrangers,,,GWS
+370,371,1008436,Kieren,Briggs,18,123900,GWS,DEF FWD,GWS Giants,49028,1008436.0,Kieren,Briggs,GWS,senior,32.0,1999-10-06,200.0,103.0,NSW,GWS Academy,,,GWS
+371,372,1014038,Callum M.,Brown,18,123900,GWS,DEF,GWS Giants,49132,1014038.0,Callum M.,Brown,GWS,rookie,46.0,2000-08-15,188.0,91.0,,County Derry,,,GWS
+372,373,1009708,Jack,Buckley,18,123900,GWS,FWD MID,GWS Giants,48235,1009708.0,Jack,Buckley,GWS,rookie,44.0,1997-12-17,193.0,87.0,NSW,UNSW,0.0,0.0,GWS
+373,374,291797,Matt,Buntine,18,285400,GWS,DEF FWD,GWS Giants,42244,291797.0,Matthew,Buntine,GWS,senior,21.0,1993-10-19,189.0,84.0,VIC,Dandenong Stingrays,59.0,3.0,GWS
+374,375,1006103,Jye,Caldwell,18,190100,GWS,MID,GWS Giants,49015,1006103.0,Jye,Caldwell,GWS,senior,5.0,2000-09-28,183.0,82.0,VIC,Bendigo Pioneers,2.0,0.0,GWS
+375,376,293845,Jeremy,Cameron,18,503900,GWS,FWD,GWS Giants,42221,293845.0,Jeremy,Cameron,GWS,senior,18.0,1993-04-01,196.0,96.0,VIC,North Ballarat,149.0,394.0,GWS
+376,377,291969,Stephen,Coniglio,18,549500,GWS,MID,GWS Giants,42255,291969.0,Stephen,Coniglio,GWS,senior,3.0,1993-12-15,182.0,86.0,WA,Swan Districts,132.0,78.0,GWS
+377,378,294508,Aidan,Corr,18,223700,GWS,DEF,GWS Giants,43069,294508.0,Aidan,Corr,GWS,senior,35.0,1994-05-17,195.0,97.0,VIC,Northern Knights,79.0,2.0,GWS
+378,379,1001396,Isaac,Cumming,18,245000,GWS,DEF,GWS Giants,47070,1001396.0,Isaac,Cumming,GWS,senior,13.0,1998-08-11,184.0,83.0,NSW,Broken Hill,7.0,0.0,GWS
+379,380,1002251,Brent,Daniels,18,347300,GWS,FWD,GWS Giants,48109,1002251.0,Brent,Daniels,GWS,senior,16.0,1999-03-09,170.0,74.0,VIC,Bendigo Pioneers,29.0,13.0,GWS
+380,381,280804,Phil,Davis,18,431600,GWS,DEF,GWS Giants,40078,280804.0,Phil,Davis,GWS,senior,1.0,1990-08-30,197.0,96.0,SA,North Adelaide,161.0,7.0,GWS
+381,382,271015,Matt,de Boer,18,408000,GWS,MID,GWS Giants,40055,271015.0,Matthew,de Boer,GWS,senior,24.0,1990-03-10,189.0,87.0,WA,Claremont,182.0,74.0,GWS
+382,383,298111,Jeremy,Finlayson,18,446400,GWS,FWD,GWS Giants,45040,298111.0,Jeremy,Finlayson,GWS,senior,31.0,1996-02-09,196.0,93.0,NSW,Sydney Hills Eagles,34.0,41.0,GWS
+383,384,993902,Matthew,Flynn,18,123900,GWS,RUC,GWS Giants,46072,993902.0,Matthew,Flynn,GWS,senior,30.0,1997-09-13,200.0,103.0,NSW,Narrandera,0.0,0.0,GWS
+384,385,1009528,Tom,Green,18,166800,GWS,MID,GWS Giants,49914,1009528.0,Tom,Green,GWS,senior,12.0,2001-01-23,188.0,82.0,NSW,GWS Academy,,,GWS
+385,386,295344,Toby,Greene,18,510100,GWS,FWD,GWS Giants,42243,295344.0,Toby,Greene,GWS,senior,4.0,1993-09-25,182.0,83.0,VIC,Oakleigh Chargers,141.0,158.0,GWS
+386,387,999309,Jackson,Hately,18,301600,GWS,MID,GWS Giants,49009,999309.0,Jackson,Hately,GWS,senior,9.0,2000-10-21,190.0,83.0,SA,Central District,7.0,2.0,GWS
+387,388,295265,Nick,Haynes,18,474700,GWS,DEF,GWS Giants,42297,295265.0,Nick,Haynes,GWS,senior,19.0,1992-05-18,193.0,90.0,VIC,Dandenong Stingrays,123.0,9.0,GWS
+388,389,1006148,Ian,Hill,18,275800,GWS,FWD,GWS Giants,49012,1006148.0,Ian,Hill,GWS,senior,37.0,2000-02-09,175.0,66.0,WA,Perth,7.0,7.0,GWS
+389,390,993107,Harry,Himmelberg,18,413700,GWS,FWD,GWS Giants,46057,993107.0,Harrison,Himmelberg,GWS,senior,27.0,1996-05-08,194.0,92.0,NSW,Eastlake,61.0,73.0,GWS
+390,391,993903,Jacob,Hopper,18,520200,GWS,MID,GWS Giants,46005,993903.0,Jacob,Hopper,GWS,senior,2.0,1997-02-06,187.0,87.0,NSW,North Ballarat,62.0,27.0,GWS
+391,392,296984,Tom,Hutchesson,18,117300,GWS,MID FWD,GWS Giants,49969,296984.0,Thomas,Hutchesson,GWS,senior,20.0,1995-04-04,177.0,72.0,SA,Adelaide SANFL,,,GWS
+392,393,1008083,Connor,Idun,18,143400,GWS,DEF,GWS Giants,49090,1008083.0,Connor,Idun,GWS,senior,39.0,2000-07-29,191.0,91.0,VIC,Geelong Falcons,1.0,0.0,GWS
+393,394,270811,Sam,Jacobs,18,348400,GWS,RUC,GWS Giants,39578,270811.0,Sam,Jacobs,GWS,senior,10.0,1988-04-10,200.0,102.0,SA,Woodville West Torrens,201.0,48.0,GWS
+394,395,290314,Lachlan,Keeffe,18,272700,GWS,DEF FWD,GWS Giants,40145,290314.0,Lachlan,Keeffe,GWS,senior,25.0,1990-04-14,204.0,102.0,QLD,Queensland under 18s,57.0,14.0,GWS
+395,396,296347,Josh,Kelly,18,637700,GWS,MID,GWS Giants,44002,296347.0,Josh,Kelly,GWS,senior,22.0,1995-02-12,184.0,83.0,VIC,Sandringham Dragons,113.0,73.0,GWS
+396,397,291509,Adam,Kennedy,18,353500,GWS,DEF,GWS Giants,42310,291509.0,Adam,Kennedy,GWS,senior,40.0,1992-07-12,182.0,80.0,VIC,Western Jets,111.0,12.0,GWS
+397,398,1004286,Zac,Langdon,18,218300,GWS,FWD,GWS Giants,48221,1004286.0,Zac,Giles-Langdon,GWS,senior,17.0,1995-11-13,177.0,81.0,WA,Claremont,24.0,21.0,GWS
+398,399,290675,Daniel,Lloyd,18,328500,GWS,FWD,GWS Giants,46112,290675.0,Daniel,Lloyd,GWS,senior,38.0,1992-02-18,187.0,85.0,NSW,Killarney Vale,35.0,28.0,GWS
+399,400,280762,Shane,Mumford,18,443200,GWS,RUC,GWS Giants,39698,280762.0,Shane,Mumford,GWS,senior,41.0,1986-07-05,198.0,105.0,VIC,Geelong,186.0,52.0,GWS
+400,401,1006135,Xavier,O'Halloran,18,123900,GWS,MID,GWS Giants,49030,1006135.0,Xavier,O'Halloran,GWS,senior,33.0,2000-07-11,186.0,84.0,VIC,Western Jets,,,GWS
+401,402,998205,Harry,Perryman,18,410500,GWS,MID,GWS Giants,47007,998205.0,Harry,Perryman,GWS,senior,36.0,1998-12-19,184.0,80.0,NSW,Colingullie,32.0,4.0,GWS
+402,403,261374,Sam J.,Reid,18,375700,GWS,DEF,GWS Giants,39669,261374.0,Sam J.,Reid,GWS,senior,50.0,1989-11-07,188.0,85.0,QLD,Zillmere,86.0,29.0,GWS
+403,404,1008123,Jake,Riccardi,18,117300,GWS,FWD,GWS Giants,49955,1008123.0,Jake,Riccardi,GWS,senior,26.0,1999-11-07,195.0,92.0,VIC,Werribee Tigers,,,GWS
+404,405,240700,Heath,Shaw,18,448700,GWS,DEF,GWS Giants,1557,240700.0,Heath,Shaw,GWS,senior,23.0,1985-11-27,183.0,86.0,VIC,Northern Knights,302.0,38.0,GWS
+405,406,291792,Tommy,Sheridan,18,306100,GWS,MID,GWS Giants,42298,291792.0,Thomas,Sheridan,GWS,rookie,11.0,1993-10-28,187.0,82.0,VIC,Calder Cannons,81.0,31.0,GWS
+406,407,1002296,Nick,Shipley,18,123900,GWS,MID,GWS Giants,48036,1002296.0,Nicholas,Shipley,GWS,senior,34.0,1999-06-25,188.0,92.0,NSW,St George,2.0,0.0,GWS
+407,408,998225,Zach,Sproule,18,127100,GWS,FWD,GWS Giants,47129,998225.0,Zachary,Sproule,GWS,rookie,28.0,1998-05-12,197.0,92.0,NSW,Murray Bushrangers,1.0,0.0,GWS
+408,409,1007238,Jake,Stein,18,231100,GWS,DEF,GWS Giants,47130,1007238.0,Jake,Stein,GWS,rookie,42.0,1994-01-17,195.0,95.0,NSW,Penrith,5.0,0.0,GWS
+409,410,998172,Tim,Taranto,18,555900,GWS,MID,GWS Giants,47013,998172.0,Tim,Taranto,GWS,senior,14.0,1998-01-28,187.0,87.0,VIC,Sandringham Dragons,59.0,23.0,GWS
+410,411,1005247,Sam,Taylor,18,316200,GWS,DEF,GWS Giants,48201,1005247.0,Sam,Taylor,GWS,senior,15.0,1999-05-05,196.0,93.0,WA,Swan Districts,26.0,1.0,GWS
+411,412,280109,Callan,Ward,18,511400,GWS,MID,GWS Giants,39670,280109.0,Callan,Ward,GWS,senior,8.0,1990-04-10,187.0,84.0,VIC,Western Jets,216.0,107.0,GWS
+412,413,294305,Lachie,Whitfield,18,604100,GWS,FWD MID,GWS Giants,43001,294305.0,Lachie,Whitfield,GWS,senior,6.0,1994-07-18,187.0,81.0,VIC,Dandenong Stingrays,129.0,59.0,GWS
+413,414,294685,Zac,Williams,18,551700,GWS,DEF,GWS Giants,43139,294685.0,Zac,Williams,GWS,senior,29.0,1994-09-20,185.0,84.0,NSW,Narrandera,97.0,23.0,GWS
+414,415,280744,Luke,Breust,8,418100,HAW,FWD,Hawthorn,40135,280744.0,Luke,Breust,Hawthorn,senior,22.0,1990-11-11,184.0,84.0,NSW,Temora,206.0,391.0,HAW
+415,416,210012,Shaun,Burgoyne,8,417200,HAW,DEF,Hawthorn,1291,210012.0,Shaun,Burgoyne,Hawthorn,senior,9.0,1982-10-21,186.0,89.0,SA,Port Adelaide,375.0,289.0,HAW
+416,417,291327,Jonathon,Ceglar,8,417000,HAW,RUC FWD,Hawthorn,42093,291327.0,Jonathon,Ceglar,Hawthorn,senior,18.0,1991-02-14,204.0,102.0,VIC,Murray Bushrangers,76.0,40.0,HAW
+417,418,1000959,James,Cousins,8,376500,HAW,MID,Hawthorn,47120,1000959.0,James,Cousins,Hawthorn,senior,46.0,1998-03-19,185.0,84.0,VIC,Murray Bushrangers,19.0,9.0,HAW
+418,419,1008550,Will,Day,8,153300,HAW,DEF,Hawthorn,49917,1008550.0,Will,Day,Hawthorn,senior,30.0,2001-06-05,187.0,70.0,SA,West Adelaide,,,HAW
+419,420,260288,James,Frawley,8,299900,HAW,DEF,Hawthorn,39529,260288.0,James,Frawley,Hawthorn,senior,12.0,1988-09-20,193.0,96.0,VIC,Nth Ballarat,225.0,24.0,HAW
+420,421,293738,Sam,Frost,8,348000,HAW,DEF,Hawthorn,42269,293738.0,Sam,Frost,Hawthorn,senior,8.0,1993-08-28,194.0,93.0,VIC,Sandringham Dragons,91.0,8.0,HAW
+421,422,1003547,Conor,Glass,8,241600,HAW,DEF,Hawthorn,46122,1003547.0,Conor,Glass,Hawthorn,senior,13.0,1997-09-28,189.0,84.0,,Northern Ireland,17.0,1.0,HAW
+422,423,1006128,Will,Golds,8,123900,HAW,FWD MID,Hawthorn,49118,1006128.0,Will,Golds,Hawthorn,rookie,45.0,2000-05-06,181.0,70.0,VIC,Oakleigh Chargers,,,HAW
+423,424,1006159,Damon,Greaves,8,123900,HAW,DEF,Hawthorn,49111,1006159.0,Damon,Greaves,Hawthorn,rookie,44.0,2000-04-25,186.0,77.0,WA,East Perth,,,HAW
+424,425,291351,Jack,Gunston,8,433600,HAW,FWD,Hawthorn,41085,291351.0,Jack,Gunston,Hawthorn,senior,19.0,1991-10-16,193.0,87.0,VIC,Sandringham Dragons,191.0,364.0,HAW
+425,426,1001043,Oliver,Hanrahan,8,284800,HAW,FWD,Hawthorn,47105,1001043.0,Oliver,Hanrahan,Hawthorn,senior,41.0,1998-08-27,181.0,75.0,VIC,St Kevin's College,9.0,7.0,HAW
+426,427,993794,Blake,Hardwick,8,429000,HAW,DEF,Hawthorn,46033,993794.0,Blake,Hardwick,Hawthorn,senior,15.0,1997-02-05,181.0,79.0,VIC,Eastern Ranges,66.0,5.0,HAW
+427,428,294077,Michael,Hartley,8,272400,HAW,DEF,Hawthorn,42307,294077.0,Michael,Hartley,Hawthorn,senior,27.0,1993-06-07,199.0,100.0,NSW,Penrith,44.0,1.0,HAW
+428,429,291201,Ricky,Henderson,8,514900,HAW,MID,Hawthorn,40121,291201.0,Ricky,Henderson,Hawthorn,senior,31.0,1988-09-11,188.0,89.0,VIC,Trentham,152.0,79.0,HAW
+429,430,992462,Daniel,Howe,8,399600,HAW,DEF MID,Hawthorn,45045,992462.0,Daniel,Howe,Hawthorn,senior,17.0,1995-12-04,191.0,87.0,VIC,Murray Bushrangers,62.0,11.0,HAW
+430,431,296254,Jarman,Impey,8,402500,HAW,DEF,Hawthorn,44022,296254.0,Jarman,Impey,Hawthorn,senior,4.0,1995-07-09,178.0,82.0,VIC,Murray Bushrangers,116.0,51.0,HAW
+431,432,1005150,Emerson,Jeka,8,115900,HAW,FWD,Hawthorn,49975,1005150.0,Emerson,Jeka,Hawthorn,rookie,39.0,2001-09-18,197.0,87.0,VIC,Western Jets,,,HAW
+432,433,998390,Changkuoth,Jiath,8,219900,HAW,DEF,Hawthorn,48131,998390.0,Changkuoth,Jiath,Hawthorn,senior,29.0,1999-06-13,185.0,74.0,VIC,Gipplsand Power,2.0,0.0,HAW
+433,434,1004991,Harrison,Jones,8,123900,HAW,MID,Hawthorn,48125,1004991.0,Harry,Jones,Hawthorn,rookie,40.0,1999-03-15,185.0,80.0,VIC,Murray Bushrangers,0.0,0.0,HAW
+434,435,1006030,Jacob,Koschitzke,8,123900,HAW,DEF,Hawthorn,49083,1006030.0,Jacob,Koschitzke,Hawthorn,senior,34.0,2000-07-11,196.0,94.0,VIC,Murray Bushrangers,,,HAW
+435,436,1000887,Mitch,Lewis,8,367000,HAW,FWD,Hawthorn,47097,1000887.0,Mitch,Lewis,Hawthorn,senior,2.0,1998-10-14,198.0,95.0,VIC,Calder Cannons,14.0,20.0,HAW
+436,437,1009421,Finn,Maginness,8,117300,HAW,MID,Hawthorn,49933,1009421.0,Finn,Maginness,Hawthorn,senior,32.0,2001-02-23,187.0,80.0,VIC,Sandringham Dragons,,,HAW
+437,438,261323,Ben,McEvoy,8,503600,HAW,RUC,Hawthorn,39657,261323.0,Ben,McEvoy,Hawthorn,senior,7.0,1989-07-11,200.0,102.0,VIC,Murray Bushrangers,206.0,84.0,HAW
+438,439,291856,Tom,Mitchell,8,630900,HAW,MID,Hawthorn,42258,291856.0,Tom,Mitchell,Hawthorn,senior,3.0,1993-05-31,182.0,84.0,WA,Claremont,109.0,61.0,HAW
+439,440,1006314,Dylan,Moore,8,274400,HAW,FWD,Hawthorn,48140,1006314.0,Dylan,Moore,Hawthorn,senior,36.0,1999-08-04,176.0,70.0,VIC,Eastern Ranges,7.0,2.0,HAW
+440,441,1008537,Josh,Morris,8,117300,HAW,FWD,Hawthorn,49961,1008537.0,Josh,Morris,Hawthorn,senior,35.0,2001-11-07,186.0,76.0,SA,Woodville-West Torrens,,,HAW
+441,442,1000963,Harry,Morrison,8,287200,HAW,FWD MID,Hawthorn,47034,1000963.0,Harry,Morrison,Hawthorn,senior,1.0,1998-11-12,180.0,79.0,VIC,Murray Bushrangers,31.0,5.0,HAW
+442,443,1007124,Conor,Nash,8,269600,HAW,FWD,Hawthorn,47131,1007124.0,Conor,Nash,Hawthorn,senior,11.0,1998-07-28,197.0,93.0,,Leinster (Ireland),19.0,11.0,HAW
+443,444,296041,Tim,O'Brien,8,389300,HAW,DEF FWD,Hawthorn,43052,296041.0,Tim,O'Brien,Hawthorn,senior,23.0,1994-03-28,193.0,90.0,SA,Glenelg,62.0,49.0,HAW
+444,445,294613,Jaeger,O'Meara,8,491100,HAW,MID,Hawthorn,42265,294613.0,Jaeger,O'Meara,Hawthorn,senior,10.0,1994-02-23,183.0,82.0,WA,Dongara,92.0,52.0,HAW
+445,446,291821,Jonathon,Patton,8,337000,HAW,RUC FWD,Hawthorn,42236,291821.0,Jonathon,Patton,Hawthorn,senior,25.0,1993-05-20,198.0,102.0,VIC,Eastern Ranges,88.0,126.0,HAW
+446,447,1011873,Harrison,Pepper,8,102400,HAW,DEF,Hawthorn,49990,1011873.0,Harrison,Pepper,Hawthorn,rookie,42.0,2001-08-09,180.0,83.0,VIC,Gippsland Power,,,HAW
+447,448,260710,Paul,Puopolo,8,346600,HAW,FWD,Hawthorn,42135,260710.0,Paul,Puopolo,Hawthorn,senior,28.0,1987-12-02,173.0,78.0,SA,Norwood,189.0,180.0,HAW
+448,449,1001024,Ned,Reeves,8,123900,HAW,RUC,Hawthorn,49991,1001024.0,Ned,Reeves,Hawthorn,rookie,43.0,1998-10-31,208.0,96.0,VIC,Oakleigh Chargers,,,HAW
+449,450,1004919,Jackson,Ross,8,123900,HAW,FWD,Hawthorn,48223,1004919.0,Jackson,Ross,Hawthorn,senior,37.0,1999-06-22,193.0,79.0,VIC,Eastern Ranges,0.0,0.0,HAW
+450,451,998114,Jack,Scrimshaw,8,350300,HAW,DEF,Hawthorn,47014,998114.0,Jack,Scrimshaw,Hawthorn,senior,14.0,1998-09-04,193.0,88.0,VIC,Sandringham Dragons,14.0,0.0,HAW
+451,452,280969,Tom,Scully,8,356800,HAW,MID,Hawthorn,41001,280969.0,Tom,Scully,Hawthorn,senior,21.0,1991-05-15,181.0,80.0,VIC,Dandenong Stingrays,172.0,85.0,HAW
+452,453,280737,Liam,Shiels,8,471600,HAW,MID,Hawthorn,40067,280737.0,Liam,Shiels,Hawthorn,senior,26.0,1991-04-29,183.0,84.0,VIC,Eastern Ranges,204.0,74.0,HAW
+453,454,297566,James,Sicily,8,509500,HAW,DEF,Hawthorn,44040,297566.0,James,Sicily,Hawthorn,senior,6.0,1995-01-06,186.0,87.0,VIC,Western Jets,82.0,56.0,HAW
+454,455,294877,Isaac,Smith,8,450700,HAW,MID,Hawthorn,42107,294877.0,Isaac,Smith,Hawthorn,senior,16.0,1988-12-30,188.0,83.0,VIC,North Ballarat,199.0,160.0,HAW
+455,456,280471,Ben,Stratton,8,236100,HAW,DEF,Hawthorn,41092,280471.0,Ben,Stratton,Hawthorn,senior,24.0,1989-03-01,189.0,88.0,WA,East Perth,187.0,1.0,HAW
+456,457,1002590,Mathew,Walker,8,123900,HAW,FWD,Hawthorn,49092,1002590.0,Mathew,Walker,Hawthorn,senior,33.0,2000-02-14,188.0,84.0,VIC,GWS Academy,,,HAW
+457,458,291962,Chad,Wingard,8,412300,HAW,FWD MID,Hawthorn,42251,291962.0,Chad,Wingard,Hawthorn,senior,20.0,1993-07-29,183.0,85.0,SA,Sturt,161.0,244.0,HAW
+458,459,1002222,James,Worpel,8,527000,HAW,MID,Hawthorn,48126,1002222.0,James,Worpel,Hawthorn,senior,5.0,1999-01-24,185.0,85.0,VIC,Geelong Falcons,33.0,14.0,HAW
+459,460,1008855,Oskar,Baker,10,261900,MEL,MID,Melbourne,48218,1008855.0,Oskar,Baker,Melbourne,senior,33.0,1998-05-25,184.0,82.0,QLD,Aspley,9.0,2.0,MEL
+460,461,1008139,Toby,Bedford,10,123900,MEL,FWD,Melbourne,49055,1008139.0,Toby,Bedford,Melbourne,senior,12.0,2000-05-27,178.0,69.0,VIC,Dandenong Stingrays,,,MEL
+461,462,1014081,Austin,Bradtke,10,123900,MEL,RUC,Melbourne,49131,1014081.0,Austin,Bradtke,Melbourne,rookie,46.0,2000-05-27,204.0,91.0,VIC,Haileybury College,,,MEL
+462,463,298279,Angus,Brayshaw,10,452400,MEL,MID,Melbourne,45002,298279.0,Angus,Brayshaw,Melbourne,senior,10.0,1996-01-09,187.0,87.0,VIC,Sandringham Dragons,80.0,37.0,MEL
+463,464,290622,Mitch,Brown,10,359800,MEL,FWD,Melbourne,40048,290622.0,Mitch W.,Brown,Melbourne,rookie,38.0,1990-08-28,196.0,91.0,VIC,Sandringham Dragons,69.0,68.0,MEL
+464,465,1005330,Kade,Chandler,10,195500,MEL,FWD,Melbourne,49112,1005330.0,Kade,Chandler,Melbourne,rookie,37.0,2000-01-13,174.0,75.0,SA,Norwood,1.0,0.0,MEL
+465,466,1006106,Kyle,Dunkley,10,207700,MEL,FWD MID,Melbourne,49144,1006106.0,Kyle,Dunkley,Melbourne,senior,48.0,2000-06-20,185.0,84.0,VIC,Gippsland Power,5.0,3.0,MEL
+466,467,1001438,Bayley,Fritsch,10,413900,MEL,DEF FWD,Melbourne,48216,1001438.0,Bayley,Fritsch,Melbourne,senior,31.0,1996-12-06,188.0,82.0,VIC,Casey Demons,45.0,37.0,MEL
+467,468,290528,Max,Gawn,10,697100,MEL,RUC,Melbourne,41056,290528.0,Max,Gawn,Melbourne,senior,11.0,1991-12-30,208.0,109.0,VIC,Sandringham Dragons,120.0,58.0,MEL
+468,469,1001449,Mitch,Hannan,10,201200,MEL,FWD,Melbourne,47078,1001449.0,Mitch,Hannan,Melbourne,senior,19.0,1994-03-09,189.0,86.0,VIC,Footscray VFL,41.0,48.0,MEL
+469,470,297899,James,Harmes,10,516400,MEL,MID,Melbourne,44114,297899.0,James,Harmes,Melbourne,senior,4.0,1995-10-05,185.0,82.0,VIC,Dandenong Stingrays,91.0,56.0,MEL
+470,471,290160,Michael,Hibberd,10,349300,MEL,DEF,Melbourne,42158,290160.0,Michael,Hibberd,Melbourne,senior,14.0,1990-01-03,186.0,90.0,VIC,Frankston,142.0,13.0,MEL
+471,472,996692,Marty,Hore,10,383600,MEL,DEF,Melbourne,49087,996692.0,Marty,Hore,Melbourne,senior,34.0,1996-03-05,190.0,84.0,VIC,Collingwood VFL,14.0,1.0,MEL
+472,473,994385,Jayden,Hunt,10,317300,MEL,FWD,Melbourne,44109,994385.0,Jayden,Hunt,Melbourne,senior,29.0,1995-04-03,187.0,82.0,VIC,Brighton Grammar,68.0,31.0,MEL
+473,474,1009399,Luke,Jackson,10,198300,MEL,RUC,Melbourne,49907,1009399.0,Luke,Jackson,Melbourne,senior,6.0,2001-09-29,198.0,94.0,WA,East Fremantle,,,MEL
+474,475,281280,Neville,Jetta,10,243700,MEL,DEF,Melbourne,40024,281280.0,Neville,Jetta,Melbourne,senior,39.0,1990-02-12,180.0,83.0,WA,Swan Districts,148.0,24.0,MEL
+475,476,250222,Nathan,Jones,10,397900,MEL,DEF MID,Melbourne,2031,250222.0,Nathan,Jones,Melbourne,senior,2.0,1988-01-20,180.0,87.0,VIC,Dandenong Stingrays,286.0,138.0,MEL
+476,477,1013409,James,Jordon,10,123900,MEL,MID,Melbourne,49073,1013409.0,James,Jordon,Melbourne,senior,23.0,2000-12-20,186.0,80.0,VIC,Oakleigh Chargers,,,MEL
+477,478,296209,Kade,Kolodjashnij,10,207700,MEL,MID,Melbourne,44005,296209.0,Kade,Kolodjashnij,Melbourne,senior,16.0,1995-08-09,190.0,86.0,TAS,Launceston,80.0,14.0,MEL
+478,479,1008541,Kysaiah,Kropinyeri-Pickett,10,157800,MEL,FWD,Melbourne,49916,1008541.0,Kysaiah,Pickett,Melbourne,senior,36.0,2001-06-02,171.0,70.0,SA,Woodville-West Torrens,,,MEL
+479,480,298264,Ed,Langdon,10,466300,MEL,MID,Melbourne,45071,298264.0,Ed,Langdon,Melbourne,senior,15.0,1996-02-01,182.0,78.0,VIC,Sandringham Dragons,68.0,33.0,MEL
+480,481,298281,Jake,Lever,10,384200,MEL,DEF,Melbourne,45003,298281.0,Jake,Lever,Melbourne,senior,8.0,1996-03-05,195.0,91.0,VIC,Calder Cannons,75.0,3.0,MEL
+481,482,298390,Jay,Lockhart,10,283700,MEL,FWD,Melbourne,49143,298390.0,Jay,Lockhart,Melbourne,senior,41.0,1996-02-03,177.0,75.0,TAS,Casey Demons,12.0,9.0,MEL
+482,483,281085,Steven,May,10,384200,MEL,DEF,Melbourne,42006,281085.0,Steven,May,Melbourne,senior,1.0,1992-01-10,193.0,100.0,NT,Southern Districts,131.0,22.0,MEL
+483,484,992472,Oscar,McDonald,10,267000,MEL,DEF,Melbourne,45039,992472.0,Oscar,McDonald,Melbourne,senior,28.0,1996-03-18,196.0,100.0,VIC,North Ballarat,74.0,1.0,MEL
+484,485,291533,Tom,McDonald,10,387000,MEL,FWD,Melbourne,42125,291533.0,Tom,McDonald,Melbourne,senior,25.0,1992-09-18,194.0,99.0,VIC,North Ballarat,161.0,102.0,MEL
+485,486,280824,Jake,Melksham,10,359800,MEL,FWD,Melbourne,41027,280824.0,Jake,Melksham,Melbourne,senior,18.0,1991-08-29,186.0,83.0,VIC,Calder Cannons,168.0,125.0,MEL
+486,487,296420,Alex,Neal-Bullen,10,333600,MEL,FWD,Melbourne,45031,296420.0,Alex,Neal-Bullen,Melbourne,senior,30.0,1996-01-09,182.0,80.0,SA,Glenelg,73.0,57.0,MEL
+487,488,1004695,Aaron,Nietschke,10,123900,MEL,MID,Melbourne,49084,1004695.0,Aaron,Nietschke,Melbourne,senior,27.0,2000-05-26,184.0,82.0,SA,Central District,,,MEL
+488,489,996701,Clayton,Oliver,10,593900,MEL,MID,Melbourne,46027,996701.0,Clayton,Oliver,Melbourne,senior,13.0,1997-07-22,187.0,85.0,VIC,Murray Bushrangers,82.0,26.0,MEL
+489,490,298210,Christian,Petracca,10,441300,MEL,FWD,Melbourne,45001,298210.0,Christian,Petracca,Melbourne,senior,5.0,1996-01-04,186.0,96.0,VIC,Eastern Ranges,85.0,79.0,MEL
+490,491,1008893,Harrison,Petty,10,288300,MEL,DEF FWD,Melbourne,48090,1008893.0,Harrison,Petty,Melbourne,senior,35.0,1999-11-12,197.0,89.0,SA,Norwood,11.0,6.0,MEL
+491,492,992644,Braydon,Preuss,10,329500,MEL,RUC FWD,Melbourne,45159,992644.0,Braydon,Preuss,Melbourne,senior,21.0,1995-06-16,206.0,114.0,QLD,Surfers Paradise,15.0,9.0,MEL
+492,493,1009378,Trent,Rivers,10,117300,MEL,DEF MID,Melbourne,49936,1009378.0,Trent,Rivers,Melbourne,senior,24.0,2001-07-30,187.0,85.0,WA,East Fremantle,,,MEL
+493,494,296359,Christian,Salem,10,491200,MEL,DEF,Melbourne,44008,296359.0,Christian,Salem,Melbourne,senior,3.0,1995-07-15,183.0,81.0,VIC,Sandringham Dragons,90.0,19.0,MEL
+494,495,1003546,Joel,Smith,10,207400,MEL,DEF,Melbourne,46116,1003546.0,Joel,Smith,Melbourne,senior,44.0,1996-02-25,191.0,87.0,VIC,Geelong Supercats,11.0,1.0,MEL
+495,496,1002282,Charlie,Spargo,10,234200,MEL,FWD,Melbourne,48011,1002282.0,Charlie,Spargo,Melbourne,senior,9.0,1999-11-25,173.0,71.0,NSW,Murray Bushrangers,26.0,16.0,MEL
+496,497,999391,Tom,Sparrow,10,182500,MEL,FWD,Melbourne,49071,999391.0,Tom,Sparrow,Melbourne,senior,32.0,2000-05-31,183.0,82.0,SA,South Adelaide,2.0,1.0,MEL
+497,498,291819,Adam,Tomlinson,10,390200,MEL,MID,Melbourne,42292,291819.0,Adam,Tomlinson,Melbourne,senior,20.0,1993-08-10,194.0,96.0,VIC,Oakleigh Chargers,136.0,35.0,MEL
+498,499,297990,Aaron,vandenBerg,10,248000,MEL,FWD MID,Melbourne,45149,297990.0,Aaron,Vandenberg,Melbourne,senior,22.0,1992-03-03,188.0,93.0,ACT,Ainslie,35.0,22.0,MEL
+499,500,291902,Jack,Viney,10,439300,MEL,MID,Melbourne,43003,291902.0,Jack,Viney,Melbourne,senior,7.0,1994-04-13,178.0,84.0,VIC,Oakleigh Chargers,119.0,31.0,MEL
+500,501,993940,Corey,Wagner,10,308000,MEL,FWD MID,Melbourne,46069,993940.0,Corey,Wagner,Melbourne,senior,40.0,1997-03-23,181.0,75.0,QLD,Aspley,19.0,6.0,MEL
+501,502,294675,Josh,Wagner,10,332200,MEL,DEF,Melbourne,46102,294675.0,Joshua,Wagner,Melbourne,senior,42.0,1994-06-24,189.0,84.0,QLD,Aspley,40.0,2.0,MEL
+502,503,993806,Sam,Weideman,10,319400,MEL,FWD,Melbourne,46007,993806.0,Sam,Weideman,Melbourne,senior,26.0,1997-06-26,195.0,97.0,VIC,Eastern Ranges,31.0,27.0,MEL
+503,504,298271,Paul,Ahern,9,337900,NTH,DEF MID,North Melbourne,45019,298271.0,Paul,Ahern,North Melbourne,senior,15.0,1996-08-01,183.0,85.0,VIC,Calder Cannons,18.0,5.0,NTH
+504,505,291861,Jed,Anderson,9,470200,NTH,MID,North Melbourne,43099,291861.0,Jed,Anderson,North Melbourne,senior,3.0,1994-02-02,179.0,81.0,NT,Darwin,62.0,21.0,NTH
+505,506,290787,Shaun,Atley,9,403700,NTH,DEF,North Melbourne,42007,290787.0,Shaun,Atley,North Melbourne,senior,18.0,1992-09-13,189.0,86.0,VIC,Murray Bushrangers,197.0,43.0,NTH
+506,507,1004894,Aiden,Bonar,9,202800,NTH,MID FWD,North Melbourne,48210,1004894.0,Aiden,Bonar,North Melbourne,senior,16.0,1999-03-08,188.0,87.0,VIC,Dandenong Stingrays,6.0,5.0,NTH
+507,508,291867,Ben,Brown,9,432000,NTH,FWD,North Melbourne,44043,291867.0,Ben,Brown,North Melbourne,senior,50.0,1992-11-20,200.0,101.0,VIC,Werribee,110.0,261.0,NTH
+508,509,290246,Tom,Campbell,9,199600,NTH,RUC FWD,North Melbourne,42394,290246.0,Tom,Campbell,North Melbourne,senior,42.0,1991-11-02,201.0,105.0,VIC,Bendigo Bombers,44.0,24.0,NTH
+509,510,1015781,Charlie,Comben,9,117300,NTH,RUC FWD,North Melbourne,49935,1015781.0,Charlie,Comben,North Melbourne,senior,30.0,2001-07-20,199.0,82.0,VIC,Gippsland Power,,,NTH
+510,511,1006138,Joel,Crocker,9,123900,NTH,DEF,North Melbourne,49097,1006138.0,Joel,Crocker,North Melbourne,senior,36.0,2000-04-14,188.0,73.0,VIC,Sandringham Dragons,,,NTH
+511,512,280921,Ben,Cunnington,9,554100,NTH,MID,North Melbourne,41005,280921.0,Ben,Cunnington,North Melbourne,senior,10.0,1991-06-30,185.0,88.0,VIC,Geelong Falcons,209.0,84.0,NTH
+512,513,1002267,Luke,Davies-Uniacke,9,342100,NTH,FWD MID,North Melbourne,48004,1002267.0,Luke,Davies-Uniacke,North Melbourne,senior,9.0,1999-06-08,188.0,85.0,VIC,Dandenong Stingrays,21.0,5.0,NTH
+513,514,290199,Majak,Daw,9,339600,NTH,DEF,North Melbourne,41109,290199.0,Majak,Daw,North Melbourne,senior,1.0,1991-03-11,195.0,97.0,VIC,Western Jets,50.0,40.0,NTH
+514,515,296035,Trent,Dumont,9,455100,NTH,MID,North Melbourne,44017,296035.0,Trent,Dumont,North Melbourne,senior,14.0,1995-06-30,186.0,87.0,SA,Norwood,82.0,23.0,NTH
+515,516,297767,Sam,Durdin,9,285600,NTH,DEF,North Melbourne,45006,297767.0,Sam,Durdin,North Melbourne,senior,24.0,1996-06-06,198.0,97.0,SA,West Adelaide,19.0,1.0,NTH
+516,517,296078,Taylor,Garner,9,337900,NTH,FWD,North Melbourne,43024,296078.0,Taylor,Garner,North Melbourne,senior,6.0,1994-01-08,187.0,88.0,VIC,Dandenong Stingrays,43.0,29.0,NTH
+517,518,271129,Todd,Goldstein,9,609400,NTH,RUC,North Melbourne,39526,271129.0,Todd,Goldstein,North Melbourne,senior,22.0,1988-07-01,201.0,103.0,VIC,Oakleigh,234.0,119.0,NTH
+518,519,296735,Aaron,Hall,9,370600,NTH,MID,North Melbourne,42368,296735.0,Aaron,Hall,North Melbourne,senior,43.0,1990-11-09,185.0,85.0,TAS,Hobart,109.0,80.0,NTH
+519,520,998327,Kyron,Hayden,9,134700,NTH,MID,North Melbourne,48196,998327.0,Kyron,Hayden,North Melbourne,senior,37.0,1999-06-07,186.0,86.0,WA,Subiaco,1.0,0.0,NTH
+520,521,260227,Shaun,Higgins,9,515200,NTH,MID,North Melbourne,2025,260227.0,Shaun,Higgins,North Melbourne,senior,4.0,1988-03-04,184.0,89.0,VIC,Geelong Falcons,220.0,220.0,NTH
+521,522,1001351,Lachlan,Hosie,9,123900,NTH,FWD,North Melbourne,49981,1001351.0,Lachlan,Hosie,North Melbourne,rookie,46.0,1997-02-25,189.0,78.0,SA,Glenelg,,,NTH
+522,523,290802,Ben,Jacobs,9,348500,NTH,MID,North Melbourne,42029,290802.0,Ben,Jacobs,North Melbourne,senior,5.0,1992-01-09,185.0,85.0,VIC,Sandringham Dragons,90.0,15.0,NTH
+523,524,1001017,Nick,Larkey,9,329000,NTH,FWD,North Melbourne,47095,1001017.0,Nick,Larkey,North Melbourne,senior,20.0,1998-06-06,198.0,93.0,VIC,Oakleigh Chargers,19.0,26.0,NTH
+524,525,290194,Jamie,Macmillan,9,443200,NTH,DEF,North Melbourne,41087,290194.0,Jamie,Macmillan,North Melbourne,senior,34.0,1991-09-23,188.0,89.0,VIC,Oakleigh Chargers,157.0,45.0,NTH
+525,526,1009189,Jack,Mahony,9,117300,NTH,MID FWD,North Melbourne,49938,1009189.0,Jack,Mahony,North Melbourne,senior,35.0,2001-11-12,176.0,70.0,VIC,Sandringham Dragons,,,NTH
+526,527,296355,Luke,McDonald,9,327100,NTH,DEF,North Melbourne,43503,296355.0,Luke,McDonald,North Melbourne,senior,11.0,1995-02-09,189.0,89.0,VIC,Werribee,109.0,16.0,NTH
+527,528,1006653,Matthew,McGuinness,9,102400,NTH,DEF,North Melbourne,49992,1006653.0,Matthew,McGuinness,North Melbourne,rookie,41.0,2000-07-13,192.0,75.0,TAS,Tasmania Devils,,,NTH
+528,529,1002143,Ben,McKay,9,149200,NTH,DEF,North Melbourne,46080,1002143.0,Ben,McKay,North Melbourne,senior,23.0,1997-12-24,201.0,95.0,VIC,Gippsland Power,4.0,0.0,NTH
+529,530,1000905,Tom,Murphy,9,152000,NTH,DEF,North Melbourne,48227,1000905.0,Tom,Murphy,North Melbourne,rookie,40.0,1998-01-19,189.0,82.0,VIC,Dandenong Stingrays,4.0,0.0,NTH
+530,531,1011771,Flynn,Perez,9,117300,NTH,DEF,North Melbourne,49939,1011771.0,Flynn,Perez,North Melbourne,senior,39.0,2001-08-25,187.0,82.0,VIC,Bendigo Pioneers,,,NTH
+531,532,290156,Jasper,Pittard,9,432000,NTH,DEF,North Melbourne,41050,290156.0,Jasper,Pittard,North Melbourne,senior,17.0,1991-04-01,186.0,84.0,VIC,Geelong Falcons,148.0,12.0,NTH
+532,533,290738,Jared,Polec,9,476400,NTH,MID,North Melbourne,42008,290738.0,Jared,Polec,North Melbourne,senior,13.0,1992-10-12,187.0,84.0,SA,Woodville-West Torrens,128.0,71.0,NTH
+533,534,1006058,Bailey,Scott,9,234600,NTH,MID FWD,North Melbourne,49021,1006058.0,Bailey,Scott,North Melbourne,senior,8.0,2000-07-09,186.0,73.0,QLD,Gold Coast Academy,4.0,3.0,NTH
+534,535,993998,Jy,Simpkin,9,383000,NTH,FWD MID,North Melbourne,47026,993998.0,Jy,Simpkin,North Melbourne,senior,12.0,1998-03-05,182.0,75.0,VIC,Murray Bushrangers,56.0,27.0,NTH
+535,536,270325,Robbie,Tarrant,9,447800,NTH,DEF,North Melbourne,39641,270325.0,Robbie,Tarrant,North Melbourne,senior,25.0,1989-04-25,196.0,97.0,VIC,Bendigo Pioneers,148.0,44.0,NTH
+536,537,1006137,Curtis,Taylor,9,123900,NTH,FWD,North Melbourne,49010,1006137.0,Curtis,Taylor,North Melbourne,senior,31.0,2000-04-06,187.0,78.0,VIC,Calder Cannons,2.0,0.0,NTH
+537,538,1005729,Tarryn,Thomas,9,339900,NTH,FWD,North Melbourne,49008,1005729.0,Tarryn,Thomas,North Melbourne,senior,26.0,2000-03-25,189.0,74.0,TAS,North Launceston,20.0,16.0,NTH
+538,539,992499,Kayne,Turner,9,329400,NTH,FWD,North Melbourne,44123,992499.0,Kayne,Turner,North Melbourne,senior,28.0,1995-12-31,180.0,75.0,VIC,Wodonga,79.0,53.0,NTH
+539,540,291784,Dom,Tyson,9,287600,NTH,MID,North Melbourne,42237,291784.0,Dom,Tyson,North Melbourne,senior,21.0,1993-06-08,186.0,85.0,VIC,Oakleigh Chargers,110.0,45.0,NTH
+540,541,298287,Ed,Vickers-Willis,9,247600,NTH,DEF,North Melbourne,45016,298287.0,Ed,Vickers-Willis,North Melbourne,senior,33.0,1996-03-28,190.0,86.0,VIC,Sandringham Dragons,15.0,0.0,NTH
+541,542,291550,Josh,Walker,9,345600,NTH,DEF,North Melbourne,42162,291550.0,Josh,Walker,North Melbourne,temporary,19.0,1992-11-12,197.0,100.0,VIC,Geelong Falcons,84.0,69.0,NTH
+542,543,1005084,Will,Walker,9,154900,NTH,FWD,North Melbourne,48213,1005084.0,Will,Walker,North Melbourne,senior,27.0,1999-03-30,186.0,78.0,VIC,Sandringham Dragons,4.0,4.0,NTH
+543,544,295256,Marley,Williams,9,334800,NTH,DEF,North Melbourne,42356,295256.0,Marley,Williams,North Melbourne,senior,2.0,1993-07-22,181.0,83.0,WA,Claremont,119.0,11.0,NTH
+544,545,295340,Mason,Wood,9,356300,NTH,FWD,North Melbourne,43071,295340.0,Mason,Wood,North Melbourne,senior,32.0,1993-09-13,192.0,87.0,VIC,Geelong Falcons,57.0,73.0,NTH
+545,546,1004965,Tristan,Xerri,9,123900,NTH,RUC FWD,North Melbourne,48171,1004965.0,Tristan,Xerri,North Melbourne,senior,38.0,1999-03-15,201.0,94.0,VIC,Western Jets,0.0,0.0,NTH
+546,547,280944,Jack,Ziebell,9,493400,NTH,FWD MID,North Melbourne,40006,280944.0,Jack,Ziebell,North Melbourne,senior,7.0,1991-02-28,188.0,89.0,VIC,Murray Bushrangers,210.0,162.0,NTH
+547,548,998484,Cameron,Zurhaar,9,353800,NTH,FWD,North Melbourne,47103,998484.0,Cameron,Zurhaar,North Melbourne,senior,44.0,1998-05-22,189.0,90.0,WA,East Fremantle,28.0,30.0,NTH
+548,549,297354,Karl,Amon,11,418500,PTA,MID,Port Adelaide,44054,297354.0,Karl,Amon,Port Adelaide,senior,15.0,1995-08-19,181.0,71.0,VIC,Sandringham Dragons,59.0,31.0,PTA
+549,550,998126,Joe,Atley,11,215000,PTA,MID,Port Adelaide,47037,998126.0,Joe,Atley,Port Adelaide,senior,30.0,1998-08-04,186.0,84.0,VIC,Bendigo Pioneers,4.0,0.0,PTA
+550,551,1009191,Miles,Bergman,11,148800,PTA,FWD,Port Adelaide,49918,1009191.0,Miles,Bergman,Port Adelaide,senior,14.0,2001-10-18,186.0,75.0,VIC,Sandringham Dragons,,,PTA
+551,552,250365,Travis,Boak,11,582300,PTA,MID,Port Adelaide,39533,250365.0,Travis,Boak,Port Adelaide,senior,10.0,1988-08-01,183.0,85.0,VIC,Geelong Falcons,264.0,171.0,PTA
+552,553,994599,Riley,Bonner,11,375500,PTA,DEF,Port Adelaide,46022,994599.0,Riley,Bonner,Port Adelaide,senior,26.0,1997-03-07,190.0,85.0,SA,West Adelaide,42.0,8.0,PTA
+553,554,1008531,Trent,Burgoyne,11,102400,PTA,FWD,Port Adelaide,49980,1008531.0,Trent,Burgoyne,Port Adelaide,rookie,31.0,2001-10-02,178.0,67.0,SA,Woodville-West Torrens,,,PTA
+554,555,992128,Ryan,Burton,11,401800,PTA,DEF,Port Adelaide,46017,992128.0,Ryan,Burton,Port Adelaide,senior,3.0,1997-01-31,191.0,90.0,SA,North Adelaide,63.0,9.0,PTA
+555,556,1006121,Zak,Butters,11,328700,PTA,FWD,Port Adelaide,49024,1006121.0,Zak,Butters,Port Adelaide,senior,18.0,2000-09-08,181.0,71.0,VIC,Western Jets,19.0,12.0,PTA
+556,557,991930,Darcy,Byrne-Jones,11,473400,PTA,DEF,Port Adelaide,44039,991930.0,Darcy,Byrne-Jones,Port Adelaide,senior,33.0,1995-09-20,181.0,75.0,VIC,Oakleigh Chargers,86.0,6.0,PTA
+557,558,294504,Tom,Clurey,11,401800,PTA,DEF,Port Adelaide,43016,294504.0,Tom,Clurey,Port Adelaide,senior,17.0,1994-03-23,193.0,88.0,VIC,Murray Bushrangers,81.0,0.0,PTA
+558,559,1002355,Tobin,Cox,11,123900,PTA,FWD,Port Adelaide,49108,1002355.0,Tobin,Cox,Port Adelaide,rookie,47.0,1999-07-15,181.0,73.0,SA,Glenelg,,,PTA
+559,560,280711,Charlie,Dixon,11,350600,PTA,FWD,Port Adelaide,41153,280711.0,Charlie,Dixon,Port Adelaide,senior,22.0,1990-09-23,200.0,105.0,QLD,Redland,135.0,212.0,PTA
+560,561,1000972,Willem,Drew,11,392600,PTA,MID,Port Adelaide,47010,1000972.0,Willem,Drew,Port Adelaide,senior,28.0,1998-10-01,188.0,78.0,VIC,North Ballarat Rebels,10.0,2.0,PTA
+561,562,1006096,Xavier,Duursma,11,401600,PTA,MID,Port Adelaide,49014,1006096.0,Xavier,Duursma,Port Adelaide,senior,21.0,2000-07-07,186.0,73.0,VIC,Gippsland Power,20.0,11.0,PTA
+562,563,261911,Brad,Ebert,11,415200,PTA,FWD,Port Adelaide,39664,261911.0,Brad,Ebert,Port Adelaide,senior,7.0,1990-04-02,189.0,90.0,SA,Port Adelaide Magpies,246.0,129.0,PTA
+563,564,1002253,Kane,Farrell,11,237400,PTA,FWD,Port Adelaide,48101,1002253.0,Kane,Farrell,Port Adelaide,senior,24.0,1999-03-17,182.0,74.0,VIC,Bendigo Pioneers,12.0,17.0,PTA
+564,565,999320,Martin,Frederick,11,123900,PTA,DEF,Port Adelaide,49127,999320.0,Martin,Frederick,Port Adelaide,rookie,45.0,2000-05-17,178.0,74.0,SA,Woodville-West Torrens,,,PTA
+565,566,998321,Joel,Garner,11,219400,PTA,DEF,Port Adelaide,48147,998321.0,Joel,Garner,Port Adelaide,senior,27.0,1999-05-21,184.0,83.0,VIC,Eastern Ranges,4.0,0.0,PTA
+566,567,1010174,Mitchell,Georgiades,11,130800,PTA,FWD,Port Adelaide,49922,1010174.0,Mitch,Georgiades,Port Adelaide,senior,19.0,2001-09-28,191.0,78.0,WA,Subiaco,,,PTA
+567,568,261396,Robbie,Gray,11,453000,PTA,FWD MID,Port Adelaide,39536,261396.0,Robbie,Gray,Port Adelaide,senior,9.0,1988-03-30,183.0,84.0,VIC,Oakleigh,216.0,313.0,PTA
+568,569,1004829,Riley,Grundy,11,102400,PTA,DEF,Port Adelaide,49100,1004829.0,Riley,Grundy,Port Adelaide,rookie,41.0,2000-07-28,194.0,84.0,SA,Sturt,,,PTA
+569,570,261892,Hamish,Hartlett,11,434900,PTA,DEF,Port Adelaide,40004,261892.0,Hamish,Hartlett,Port Adelaide,senior,8.0,1990-08-14,185.0,83.0,SA,West Adelaide,164.0,73.0,PTA
+570,571,1002248,Sam,Hayes,11,123900,PTA,RUC,Port Adelaide,48172,1002248.0,Sam,Hayes,Port Adelaide,senior,25.0,1999-06-09,203.0,93.0,VIC,Eastern Ranges,0.0,0.0,PTA
+571,572,994295,Dan,Houston,11,484800,PTA,DEF MID,Port Adelaide,46035,994295.0,Dan,Houston,Port Adelaide,senior,5.0,1997-05-12,186.0,83.0,VIC,Oakleigh Chargers,60.0,10.0,PTA
+572,573,292145,Tom,Jonas,11,417500,PTA,DEF,Port Adelaide,42180,292145.0,Tom,Jonas,Port Adelaide,senior,1.0,1991-01-09,188.0,89.0,SA,Norwood,139.0,1.0,PTA
+573,574,997142,Peter,Ladhams,11,326700,PTA,RUC FWD,Port Adelaide,47032,997142.0,Peter,Ladhams,Port Adelaide,senior,38.0,1998-01-14,202.0,95.0,SA,Norwood,5.0,2.0,PTA
+574,575,293987,Jarrod,Lienert,11,401500,PTA,DEF,Port Adelaide,47118,293987.0,Jarrod,Lienert,Port Adelaide,senior,40.0,1994-08-05,195.0,88.0,SA,Sturt,13.0,0.0,PTA
+575,576,290746,Scott,Lycett,11,550600,PTA,RUC,Port Adelaide,42013,290746.0,Scott,Lycett,Port Adelaide,senior,29.0,1992-09-26,203.0,98.0,SA,Port Magpies,93.0,51.0,PTA
+576,577,1004998,Todd,Marshall,11,286200,PTA,FWD,Port Adelaide,47005,1004998.0,Todd,Marshall,Port Adelaide,senior,4.0,1998-10-08,198.0,87.0,NSW,Murray Bushrangers,20.0,22.0,PTA
+577,578,293603,Sam,Mayes,11,213500,PTA,MID,Port Adelaide,43005,293603.0,Sam,Mayes,Port Adelaide,senior,32.0,1994-05-20,187.0,84.0,SA,North Adelaide,101.0,26.0,PTA
+578,579,290527,Trent,McKenzie,11,298700,PTA,DEF,Port Adelaide,41168,290527.0,Trent,McKenzie,Port Adelaide,senior,12.0,1992-04-03,191.0,83.0,VIC,Western Jets,108.0,22.0,PTA
+579,580,1005326,Jackson,Mead,11,117300,PTA,MID,Port Adelaide,49929,1005326.0,Jackson,Mead,Port Adelaide,senior,44.0,2001-09-30,184.0,83.0,SA,Woodville-West Torrens,,,PTA
+580,581,280990,Steven,Motlop,11,338600,PTA,FWD,Port Adelaide,40109,280990.0,Steven,Motlop,Port Adelaide,senior,6.0,1991-03-12,183.0,76.0,NT,Wanderers,168.0,192.0,PTA
+581,582,1009389,Jake,Pasini,11,117400,PTA,DEF,Port Adelaide,49974,1009389.0,Jake,Pasini,Port Adelaide,rookie,48.0,2001-02-06,192.0,81.0,WA,Swan Districts,,,PTA
+582,583,1002392,Jake,Patmore,11,123900,PTA,FWD MID,Port Adelaide,48183,1002392.0,Jake,Patmore,Port Adelaide,senior,37.0,1999-01-29,181.0,72.0,WA,Claremont,0.0,0.0,PTA
+583,584,993979,Sam,Powell-Pepper,11,403300,PTA,FWD MID,Port Adelaide,47017,993979.0,Sam,Powell-Pepper,Port Adelaide,senior,2.0,1998-01-08,187.0,91.0,WA,East Perth,57.0,31.0,PTA
+584,585,270919,Tom,Rockliff,11,495400,PTA,MID,Port Adelaide,40026,270919.0,Tom,Rockliff,Port Adelaide,senior,11.0,1990-02-22,185.0,85.0,VIC,Murray Bushrangers,190.0,96.0,PTA
+585,586,1001299,Connor,Rozee,11,422100,PTA,FWD,Port Adelaide,49016,1001299.0,Connor,Rozee,Port Adelaide,senior,20.0,2000-01-22,185.0,74.0,SA,North Adelaide,22.0,29.0,PTA
+586,587,290733,Cameron,Sutcliffe,11,223300,PTA,FWD,Port Adelaide,42324,290733.0,Cameron,Sutcliffe,Port Adelaide,senior,50.0,1992-05-23,186.0,87.0,SA,Woodville-West Torrens,108.0,22.0,PTA
+587,588,280972,Jack,Watts,11,307900,PTA,DEF,Port Adelaide,40001,280972.0,Jack,Watts,Port Adelaide,senior,23.0,1991-03-26,196.0,88.0,VIC,Sandringham Dragons,174.0,161.0,PTA
+588,589,260750,Justin,Westhoff,11,435500,PTA,FWD MID,Port Adelaide,39537,260750.0,Justin,Westhoff,Port Adelaide,senior,39.0,1986-10-01,199.0,96.0,SA,Central Districts,268.0,303.0,PTA
+589,590,1009195,Dylan,Williams,11,117300,PTA,MID FWD,Port Adelaide,49927,1009195.0,Dylan,Williams,Port Adelaide,senior,34.0,2001-07-01,185.0,79.0,VIC,Oakleigh Chargers,,,PTA
+590,591,294318,Ollie,Wines,11,479700,PTA,MID,Port Adelaide,43006,294318.0,Ollie,Wines,Port Adelaide,senior,16.0,1994-10-07,187.0,89.0,VIC,Bendigo Pioneers,141.0,63.0,PTA
+591,592,999346,Boyd,Woodcock,11,102400,PTA,FWD,Port Adelaide,49101,999346.0,Boyd,Woodcock,Port Adelaide,rookie,36.0,2000-03-05,174.0,70.0,SA,North Adelaide,,,PTA
+592,593,992786,Jake,Aarts,12,123900,RIC,FWD,Richmond,49113,992786.0,Jake,Aarts,Richmond,rookie,39.0,1994-12-08,177.0,75.0,VIC,Richmond VFL,,,RIC
+593,594,290198,David,Astbury,12,363800,RIC,DEF,Richmond,41040,290198.0,David,Astbury,Richmond,senior,12.0,1991-02-26,195.0,96.0,VIC,North Ballarat Rebels,126.0,9.0,RIC
+594,595,1000223,Liam,Baker,12,403900,RIC,DEF FWD,Richmond,48231,1000223.0,Liam,Baker,Richmond,rookie,7.0,1998-01-27,173.0,72.0,WA,Subiaco,19.0,9.0,RIC
+595,596,1002245,Noah,Balta,12,257700,RIC,RUC FWD,Richmond,48005,1002245.0,Noah,Balta,Richmond,senior,21.0,1999-10-23,194.0,100.0,VIC,Calder Cannons,13.0,6.0,RIC
+596,597,993993,Shai,Bolton,12,379100,RIC,FWD,Richmond,47019,993993.0,Shai,Bolton,Richmond,senior,29.0,1998-12-08,175.0,77.0,WA,South Fremantle,25.0,17.0,RIC
+597,598,295203,Nathan,Broad,12,294800,RIC,DEF,Richmond,46099,295203.0,Nathan,Broad,Richmond,senior,35.0,1993-04-15,192.0,89.0,WA,Swan Districts,51.0,1.0,RIC
+598,599,290623,Josh,Caddy,12,407300,RIC,FWD MID,Richmond,42018,290623.0,Josh,Caddy,Richmond,senior,22.0,1992-09-28,186.0,87.0,VIC,Northern Knights,152.0,157.0,RIC
+599,600,991933,Jason,Castagna,12,360700,RIC,FWD,Richmond,45057,991933.0,Jason,Castagna,Richmond,senior,11.0,1996-07-12,181.0,82.0,VIC,Northern Knights,73.0,78.0,RIC
+600,601,994077,Mabior,Chol,12,316200,RIC,RUC FWD,Richmond,46040,994077.0,Mabior,Chol,Richmond,rookie,41.0,1997-01-29,200.0,91.0,QLD,Yeronga,10.0,9.0,RIC
+601,602,1000061,Callum,Coleman-Jones,12,195500,RIC,RUC FWD,Richmond,48100,1000061.0,Callum,Coleman-Jones,Richmond,senior,40.0,1999-06-13,200.0,102.0,SA,Sturt,1.0,0.0,RIC
+602,603,1008297,Riley,Collier-Dawkins,12,123900,RIC,MID,Richmond,49020,1008297.0,Riley,Collier-Dawkins,Richmond,senior,26.0,2000-02-03,189.0,89.0,VIC,Oakleigh Chargers,,,RIC
+603,604,270896,Trent,Cotchin,12,429500,RIC,MID,Richmond,39654,270896.0,Trent,Cotchin,Richmond,senior,9.0,1990-04-07,185.0,86.0,VIC,Northern Knights,231.0,125.0,RIC
+604,605,1009308,Noah,Cumberland,12,117300,RIC,MID FWD,Richmond,49947,1009308.0,Noah,Cumberland,Richmond,senior,38.0,2001-03-15,183.0,79.0,QLD,Brisbane Academy,,,RIC
+605,606,1009226,Thomson,Dow,12,117300,RIC,MID,Richmond,49925,1009226.0,Thomson,Dow,Richmond,senior,27.0,2001-10-16,182.0,72.0,VIC,Bendigo Pioneers,,,RIC
+606,607,260930,Shane,Edwards,12,458000,RIC,DEF MID,Richmond,39540,260930.0,Shane,Edwards,Richmond,senior,10.0,1988-10-25,182.0,80.0,SA,Nth Adelaide,252.0,160.0,RIC
+607,608,1006276,Derek,Eggmolesse-Smith,12,202000,RIC,DEF,Richmond,48239,1006276.0,Derek,Smith,Richmond,rookie,43.0,1998-05-04,180.0,80.0,NT,Bendigo Pioneers,2.0,0.0,RIC
+608,609,1006536,Luke,English,12,123900,RIC,FWD MID,Richmond,49091,1006536.0,Luke,English,Richmond,senior,32.0,2000-08-20,182.0,80.0,WA,Perth,,,RIC
+609,610,998218,Ryan,Garthwaite,12,244400,RIC,DEF,Richmond,47094,998218.0,Ryan,Garthwaite,Richmond,senior,42.0,1998-06-30,192.0,91.0,VIC,Murray Bushrangers,9.0,0.0,RIC
+610,611,990827,Jack,Graham,12,418900,RIC,MID,Richmond,47027,990827.0,Jack,Graham,Richmond,senior,34.0,1998-02-25,181.0,82.0,SA,North Adelaide,37.0,19.0,RIC
+611,612,280819,Dylan,Grimes,12,399500,RIC,DEF,Richmond,41058,280819.0,Dylan,Grimes,Richmond,senior,2.0,1991-07-16,193.0,90.0,VIC,Northern Knights,148.0,3.0,RIC
+612,613,1002227,Jack,Higgins,12,358800,RIC,FWD,Richmond,48141,1002227.0,Jack,Higgins,Richmond,senior,13.0,1999-03-19,177.0,78.0,VIC,Oakleigh Chargers,33.0,24.0,RIC
+613,614,250312,Bachar,Houli,12,571600,RIC,DEF,Richmond,39510,250312.0,Bachar,Houli,Richmond,senior,14.0,1988-05-12,180.0,83.0,VIC,Western Jets,204.0,42.0,RIC
+614,615,290032,Kane,Lambert,12,477900,RIC,FWD,Richmond,45180,290032.0,Kane,Lambert,Richmond,senior,23.0,1991-11-26,178.0,77.0,VIC,Williamstown,92.0,59.0,RIC
+615,616,293813,Tom J.,Lynch,12,388800,RIC,FWD,Richmond,42026,293813.0,Tom J.,Lynch,Richmond,senior,19.0,1992-10-31,199.0,99.0,VIC,Dandenong Stingrays,153.0,308.0,RIC
+616,617,298358,Oleg,Markov,12,184400,RIC,MID,Richmond,45062,298358.0,Oleg,Markov,Richmond,senior,31.0,1996-05-08,188.0,82.0,SA,North Adelaide,17.0,3.0,RIC
+617,618,290847,Dustin,Martin,12,543000,RIC,FWD MID,Richmond,41008,290847.0,Dustin,Martin,Richmond,senior,4.0,1991-06-26,187.0,93.0,VIC,Bendigo Pioneers,221.0,238.0,RIC
+618,619,1009313,Will,Martyn,12,117300,RIC,MID,Richmond,49948,1009313.0,Will,Martyn,Richmond,senior,36.0,2001-03-29,184.0,79.0,QLD,Brisbane Academy,,,RIC
+619,620,294592,Kamdyn,McIntosh,12,343800,RIC,MID,Richmond,43070,294592.0,Kamdyn,McIntosh,Richmond,senior,33.0,1994-04-03,191.0,91.0,WA,Peel Thunder,90.0,26.0,RIC
+620,621,1002403,Ben,Miller,12,123900,RIC,DEF,Richmond,48202,1002403.0,Ben,Miller,Richmond,senior,46.0,1999-08-31,195.0,95.0,WA,Subiaco,0.0,0.0,RIC
+621,622,1002231,Patrick,Naish,12,236200,RIC,MID,Richmond,48144,1002231.0,Patrick,Naish,Richmond,senior,6.0,1999-01-15,182.0,75.0,VIC,Northern Knights,2.0,1.0,RIC
+622,623,298174,Toby,Nankervis,12,404300,RIC,RUC,Richmond,44044,298174.0,Toby,Nankervis,Richmond,senior,25.0,1994-08-12,199.0,102.0,TAS,North Launceston,68.0,25.0,RIC
+623,624,1006193,Bigoa,Nyuon,12,117300,RIC,DEF RUC,Richmond,49958,1006193.0,Bigoa,Nyuon,Richmond,senior,47.0,2001-05-18,196.0,86.0,VIC,Dandenong Stingrays,,,RIC
+624,625,993771,Marlion,Pickett,12,123900,RIC,MID,Richmond,49146,993771.0,Marlion,Pickett,Richmond,rookie,50.0,1992-01-06,184.0,84.0,WA,South Fremantle,,,RIC
+625,626,290627,Dion,Prestia,12,550200,RIC,MID,Richmond,42032,290627.0,Dion,Prestia,Richmond,senior,3.0,1992-10-12,175.0,82.0,VIC,Calder Cannons,152.0,49.0,RIC
+626,627,1011985,Hugo,Ralphsmith,12,117300,RIC,MID FWD,Richmond,49950,1011985.0,Hugo,Ralphsmith,Richmond,senior,45.0,2001-11-09,186.0,70.0,VIC,Sandringham Dragons,,,RIC
+627,629,250395,Jack,Riewoldt,12,374100,RIC,FWD,Richmond,39539,250395.0,Jack,Riewoldt,Richmond,senior,8.0,1988-10-31,193.0,92.0,TAS,Tassie Mariners,259.0,623.0,RIC
+628,630,1000981,Daniel,Rioli,12,321800,RIC,FWD,Richmond,46056,1000981.0,Daniel,Rioli,Richmond,senior,17.0,1997-04-16,179.0,76.0,NT,St Mary's,74.0,65.0,RIC
+629,631,1006133,Jack,Ross,12,305800,RIC,MID,Richmond,49077,1006133.0,Jack,Ross,Richmond,senior,5.0,2000-09-03,187.0,85.0,VIC,Oakleigh Chargers,7.0,1.0,RIC
+630,632,992049,Jayden,Short,12,349300,RIC,DEF,Richmond,45156,992049.0,Jayden,Short,Richmond,senior,15.0,1996-01-24,178.0,76.0,VIC,Northern Knights,68.0,20.0,RIC
+631,633,998529,Ivan,Soldo,12,411200,RIC,RUC,Richmond,45192,998529.0,Ivan,Soldo,Richmond,senior,20.0,1996-04-14,204.0,106.0,VIC,Northern Knights,19.0,6.0,RIC
+632,634,1002583,Sydney,Stack,12,435100,RIC,DEF,Richmond,49039,1002583.0,Sydney,Stack,Richmond,rookie,44.0,2000-04-28,179.0,72.0,WA,Perth,17.0,10.0,RIC
+633,635,1006208,Fraser,Turner,12,123900,RIC,MID,Richmond,49048,1006208.0,Fraser,Turner,Richmond,senior,28.0,2000-12-26,186.0,75.0,TAS,Clarence,,,RIC
+634,636,294674,Nick,Vlastuin,12,495500,RIC,DEF,Richmond,43018,294674.0,Nick,Vlastuin,Richmond,senior,1.0,1994-04-19,187.0,88.0,VIC,Northern Knights,138.0,26.0,RIC
+635,637,1005530,Ryan,Abbott,13,250900,STK,RUC,St Kilda,47092,1005530.0,Ryan,Abbott,St Kilda,senior,27.0,1991-06-25,200.0,100.0,VIC,Geelong VFL,5.0,4.0,STK
+636,638,1013976,Sam,Alabakis,13,123900,STK,RUC,St Kilda,49126,1013976.0,Sam,Alabakis,St Kilda,rookie,45.0,1997-05-02,211.0,105.0,WA,Perth Wildcats,,,STK
+637,639,298091,Logan,Austin,13,320900,STK,DEF,St Kilda,45140,298091.0,Logan,Austin,St Kilda,senior,24.0,1995-07-08,196.0,92.0,ACT,Belconnen,20.0,0.0,STK
+638,640,998134,Josh,Battle,13,390100,STK,DEF,St Kilda,47016,998134.0,Josh,Battle,St Kilda,senior,26.0,1998-09-01,193.0,92.0,VIC,Dandenong Stingrays,26.0,11.0,STK
+639,641,1009221,Jack,Bell,13,121900,STK,RUC,St Kilda,49972,1009221.0,Jack,Bell,St Kilda,rookie,42.0,2001-01-26,200.0,73.0,VIC,Sandringham Dragons,,,STK
+640,642,296351,Jack,Billings,13,509500,STK,MID,St Kilda,44003,296351.0,Jack,Billings,St Kilda,senior,15.0,1995-08-18,184.0,79.0,VIC,Oakleigh Chargers,107.0,77.0,STK
+641,643,260310,Nathan,Brown,13,289500,STK,DEF,St Kilda,39502,260310.0,Nathan,Brown,St Kilda,senior,22.0,1988-12-17,196.0,99.0,VIC,Nth Ballarat,182.0,7.0,STK
+642,644,992374,Dan,Butler,13,234600,STK,FWD,St Kilda,45058,992374.0,Daniel,Butler,St Kilda,senior,16.0,1996-06-03,182.0,80.0,VIC,North Ballarat,45.0,53.0,STK
+643,645,1011994,Ryan,Byrnes,13,117300,STK,MID,St Kilda,49956,1011994.0,Ryan,Byrnes,St Kilda,senior,31.0,2001-05-03,181.0,80.0,VIC,Sandringham Dragons,,,STK
+644,646,1002922,Jack,Bytel,13,123900,STK,MID,St Kilda,49029,1002922.0,Jack,Bytel,St Kilda,senior,23.0,2000-03-14,189.0,78.0,VIC,Calder Cannons,,,STK
+645,647,290641,Jake,Carlisle,13,328500,STK,DEF,St Kilda,41021,290641.0,Jake,Carlisle,St Kilda,senior,2.0,1991-10-01,200.0,106.0,VIC,Calder Cannons,134.0,61.0,STK
+646,648,1002264,Hunter,Clark,13,402200,STK,DEF,St Kilda,48119,1002264.0,Hunter,Clark,St Kilda,senior,11.0,1999-03-26,187.0,82.0,VIC,Dandenong Stingrays,29.0,5.0,STK
+647,649,1002266,Oscar,Clavarino,13,123900,STK,DEF,St Kilda,48123,1002266.0,Oscar,Clavarino,St Kilda,senior,38.0,1999-05-22,197.0,89.0,VIC,Dandenong Stingrays,0.0,0.0,STK
+648,650,1005717,Nick,Coffield,13,309500,STK,DEF,St Kilda,48161,1005717.0,Nicholas,Coffield,St Kilda,senior,1.0,1999-10-23,191.0,86.0,VIC,Northern Knights,18.0,1.0,STK
+649,651,1009228,Leo,Connolly,13,117300,STK,DEF MID,St Kilda,49968,1009228.0,Leo,Connolly,St Kilda,senior,37.0,2001-08-07,180.0,72.0,VIC,Gippsland Power,,,STK
+650,652,294429,Luke,Dunstan,13,505300,STK,MID,St Kilda,44018,294429.0,Luke,Dunstan,St Kilda,senior,7.0,1995-01-29,185.0,84.0,SA,Woodville-West Torrens,103.0,45.0,STK
+651,653,260113,Jarryn,Geary,13,305000,STK,DEF,St Kilda,39568,260113.0,Jarryn,Geary,St Kilda,senior,14.0,1988-06-23,183.0,82.0,VIC,Bendigo Pioneers,188.0,28.0,STK
+652,654,298421,Jade,Gresham,13,456400,STK,FWD MID,St Kilda,46026,298421.0,Jade,Gresham,St Kilda,senior,4.0,1997-08-24,179.0,79.0,VIC,Northern Knights,81.0,91.0,STK
+653,655,290117,Dan,Hannebery,13,417000,STK,MID,St Kilda,40036,290117.0,Dan,Hannebery,St Kilda,senior,10.0,1991-02-24,181.0,80.0,VIC,Oakleigh Chargers,211.0,98.0,STK
+654,656,295584,Bradley,Hill,13,457400,STK,MID,St Kilda,42300,295584.0,Bradley,Hill,St Kilda,senior,8.0,1993-07-09,179.0,79.0,WA,West Perth,148.0,78.0,STK
+655,657,297452,Nick,Hind,13,311000,STK,FWD,St Kilda,49085,297452.0,Nick,Hind,St Kilda,senior,40.0,1994-08-19,180.0,71.0,VIC,Essendon VFL,11.0,11.0,STK
+656,658,993480,Dougal,Howard,13,376500,STK,DEF FWD,St Kilda,45129,993480.0,Dougal,Howard,St Kilda,senior,20.0,1996-03-25,199.0,92.0,VIC,Murray Bushrangers,45.0,14.0,STK
+657,659,991988,Zak,Jones,13,465400,STK,MID,St Kilda,44023,991988.0,Zak,Jones,St Kilda,senior,3.0,1995-03-15,181.0,80.0,VIC,Dandenong Stingrays,89.0,23.0,STK
+658,660,1003520,Darragh,Joyce,13,209100,STK,DEF,St Kilda,47136,1003520.0,Darragh,Joyce,St Kilda,senior,39.0,1997-04-23,195.0,90.0,,Kilkenny (Ireland),5.0,0.0,STK
+659,661,294570,Dean,Kent,13,345900,STK,FWD,St Kilda,43062,294570.0,Dean,Kent,St Kilda,senior,25.0,1994-02-24,180.0,85.0,WA,Perth,76.0,75.0,STK
+660,662,1006143,Max,King,13,123900,STK,FWD,St Kilda,49004,1006143.0,Max,King,St Kilda,senior,12.0,2000-07-07,202.0,90.0,VIC,Sandringham Dragons,,,STK
+661,663,1004989,Doulton,Langlands,13,202700,STK,MID,St Kilda,48029,1004989.0,Doulton,Langlands,St Kilda,senior,46.0,1999-07-29,187.0,83.0,NSW,Murray Bushrangers,3.0,2.0,STK
+662,664,993917,Ben,Long,13,283100,STK,FWD,St Kilda,47072,993917.0,Ben,Long,St Kilda,senior,21.0,1997-08-21,184.0,79.0,NT,St Marys,30.0,21.0,STK
+663,665,992000,Jack,Lonie,13,354200,STK,FWD,St Kilda,45034,992000.0,Jack,Lonie,St Kilda,senior,13.0,1996-08-13,175.0,70.0,VIC,Dandenong Stingrays,63.0,57.0,STK
+664,666,990548,Jonathon,Marsh,13,219800,STK,DEF,St Kilda,44019,990548.0,Jonathon,Marsh,St Kilda,senior,43.0,1995-10-17,194.0,93.0,WA,East Fremantle,20.0,1.0,STK
+665,667,992468,Rowan,Marshall,13,598700,STK,RUC,St Kilda,47102,992468.0,Rowan,Marshall,St Kilda,senior,19.0,1995-11-24,201.0,104.0,VIC,North Ballarat Rebels,33.0,14.0,STK
+666,668,1004360,Jack,Mayo,13,123900,STK,FWD,St Kilda,49993,1004360.0,Jack,Mayo,St Kilda,rookie,48.0,1999-07-22,192.0,81.0,WA,Sandringham VFL,,,STK
+667,669,298265,Daniel,McKenzie,13,280900,STK,DEF,St Kilda,45044,298265.0,Daniel,McKenzie,St Kilda,senior,36.0,1996-05-17,185.0,83.0,VIC,Oakleigh Chargers,49.0,3.0,STK
+668,670,294596,Tim,Membrey,13,436400,STK,FWD,St Kilda,43041,294596.0,Tim,Membrey,St Kilda,senior,28.0,1994-05-26,190.0,89.0,VIC,Gippsland Power,92.0,169.0,STK
+669,671,1000267,Matthew,Parker,13,290700,STK,FWD,St Kilda,49080,1000267.0,Matthew,Parker,St Kilda,senior,34.0,1996-01-25,190.0,75.0,WA,South Fremantle,17.0,16.0,STK
+670,672,1004985,Ben,Paton,13,314100,STK,DEF,St Kilda,48105,1004985.0,Ben,Paton,St Kilda,senior,33.0,1998-10-19,187.0,79.0,VIC,Murray Bushrangers,16.0,4.0,STK
+671,673,1002213,Ed,Phillips,13,274800,STK,MID,St Kilda,47085,1002213.0,Ed,Phillips,St Kilda,senior,30.0,1998-03-29,187.0,82.0,VIC,Oakleigh Chargers,11.0,1.0,STK
+672,674,280933,Dylan,Roberton,13,260400,STK,DEF,St Kilda,41093,280933.0,Dylan,Roberton,St Kilda,senior,17.0,1991-06-21,194.0,94.0,VIC,Dandenong Stingrays,128.0,20.0,STK
+673,675,293846,Sebastian,Ross,13,530900,STK,MID,St Kilda,42336,293846.0,Seb,Ross,St Kilda,senior,6.0,1993-05-07,188.0,88.0,VIC,North Ballarat,124.0,22.0,STK
+674,676,250267,Paddy,Ryder,13,449100,STK,RUC FWD,St Kilda,2023,250267.0,Patrick,Ryder,St Kilda,senior,18.0,1988-03-14,197.0,94.0,WA,East Fremantle,243.0,171.0,STK
+675,677,280858,Shane,Savage,13,456900,STK,DEF,St Kilda,40100,280858.0,Shane,Savage,St Kilda,senior,5.0,1991-01-05,187.0,82.0,VIC,Dandenong Stingrays,163.0,62.0,STK
+676,678,994389,Jack,Sinclair,13,420400,STK,FWD MID,St Kilda,45148,994389.0,Jack,Sinclair,St Kilda,senior,35.0,1995-02-12,181.0,81.0,VIC,Oakleigh Chargers,86.0,40.0,STK
+677,679,296205,Jack,Steele,13,515900,STK,MID,St Kilda,45023,296205.0,Jack,Steele,St Kilda,senior,9.0,1995-12-13,187.0,90.0,ACT,Belconnen,78.0,25.0,STK
+678,680,290757,Jimmy,Webster,13,346200,STK,DEF,St Kilda,42254,290757.0,Jimmy,Webster,St Kilda,senior,29.0,1993-06-28,188.0,83.0,TAS,Glenorchy,93.0,3.0,STK
+679,681,296422,Callum,Wilkie,13,383800,STK,DEF,St Kilda,49104,296422.0,Callum,Wilkie,St Kilda,senior,44.0,1996-03-10,191.0,87.0,SA,North Adelaide,22.0,0.0,STK
+680,682,294469,Aliir,Aliir,14,421100,SYD,DEF,Sydney,44107,294469.0,Aliir,Aliir,Sydney,senior,36.0,1994-09-05,195.0,97.0,WA,East Fremantle,49.0,2.0,SYD
+681,683,1008091,Joel,Amartey,14,123900,SYD,RUC,Sydney,48232,1008091.0,Joel,Amartey,Sydney,senior,46.0,1999-09-02,197.0,96.0,VIC,Sandringham Dragons,0.0,0.0,SYD
+682,684,1002291,James,Bell,14,129500,SYD,FWD MID,Sydney,49124,1002291.0,James,Bell,Sydney,senior,32.0,1999-02-10,183.0,81.0,NSW,Swans Academy,2.0,1.0,SYD
+683,685,1006028,Nick,Blakey,14,295800,SYD,FWD,Sydney,49005,1006028.0,Nick,Blakey,Sydney,senior,22.0,2000-02-27,195.0,80.0,NSW,Sydney Academy,21.0,19.0,SYD
+684,686,295156,Kaiden,Brand,14,250200,SYD,DEF,Sydney,43112,295156.0,Kaiden,Brand,Sydney,senior,2.0,1994-04-08,198.0,98.0,SA,West Adelaide,43.0,0.0,SYD
+685,687,996442,Ryan,Clarke,14,309100,SYD,MID,Sydney,46023,996442.0,Ryan,Clarke,Sydney,senior,4.0,1997-06-17,186.0,85.0,VIC,Eastern Ranges,54.0,9.0,SYD
+686,688,291978,Harry,Cunningham,14,436200,SYD,DEF,Sydney,42390,291978.0,Harry,Cunningham,Sydney,senior,7.0,1993-12-06,181.0,78.0,NSW,Turvey Park,113.0,48.0,SYD
+687,689,992242,Jordan,Dawson,14,467800,SYD,DEF FWD,Sydney,46092,992242.0,Jordan,Dawson,Sydney,senior,34.0,1997-04-09,192.0,86.0,SA,Sturt,25.0,19.0,SYD
+688,690,998103,Oliver,Florent,14,373400,SYD,MID,Sydney,47040,998103.0,Oliver,Florent,Sydney,senior,13.0,1998-07-22,185.0,81.0,VIC,Sandringham Dragons,53.0,19.0,SYD
+689,691,1011791,Zac,Foot,14,123900,SYD,FWD MID,Sydney,49042,1011791.0,Zac,Foot,Sydney,senior,16.0,2000-12-24,181.0,73.0,VIC,Dandenong Stingrays,,,SYD
+690,692,291848,Robbie,Fox,14,298700,SYD,DEF FWD,Sydney,47114,291848.0,Robbie,Fox,Sydney,senior,42.0,1993-04-16,186.0,86.0,TAS,Coburg,24.0,8.0,SYD
+691,693,240399,Lance,Franklin,14,394200,SYD,FWD,Sydney,1594,240399.0,Lance,Franklin,Sydney,senior,23.0,1987-01-30,199.0,105.0,WA,Perth,299.0,942.0,SYD
+692,694,1004113,Will,Gould,14,117300,SYD,DEF,Sydney,49930,1004113.0,Will,Gould,Sydney,senior,17.0,2001-01-14,191.0,98.0,SA,Glenelg,,,SYD
+693,695,290722,Sam,Gray,14,386600,SYD,FWD,Sydney,44125,290722.0,Sam,Gray,Sydney,senior,15.0,1992-02-01,176.0,75.0,SA,Port Adelaide (SANFL),96.0,83.0,SYD
+694,696,997100,Will,Hayward,14,317900,SYD,FWD,Sydney,47071,997100.0,Will,Hayward,Sydney,senior,9.0,1998-10-26,187.0,84.0,SA,North Adelaide,53.0,62.0,SYD
+695,697,298539,Isaac,Heeney,14,510700,SYD,FWD MID,Sydney,45017,298539.0,Isaac,Heeney,Sydney,senior,5.0,1996-05-05,186.0,84.0,NSW,Cardiff,101.0,104.0,SYD
+696,698,294036,George,Hewett,14,477600,SYD,MID,Sydney,44033,294036.0,George,Hewett,Sydney,senior,29.0,1995-12-29,187.0,84.0,SA,North Adelaide,92.0,31.0,SYD
+697,699,260382,Josh P.,Kennedy,14,579000,SYD,MID,Sydney,39522,260382.0,Josh P.,Kennedy,Sydney,senior,12.0,1988-06-20,189.0,97.0,VIC,Sandringham Dragons,244.0,148.0,SYD
+698,700,1012101,Michael,Knoll,14,123900,SYD,RUC,Sydney,49995,1012101.0,Michael,Knoll,Sydney,rookie,48.0,1993-02-27,205.0,103.0,SA,South Adelaide,,,SYD
+699,701,1004949,Matthew,Ling,14,123900,SYD,DEF,Sydney,48117,1004949.0,Matthew,Ling,Sydney,senior,19.0,1999-04-21,184.0,79.0,VIC,Geelong Falcons,0.0,0.0,SYD
+700,702,295342,Jake,Lloyd,14,591400,SYD,DEF,Sydney,43125,295342.0,Jake,Lloyd,Sydney,senior,44.0,1993-09-20,181.0,79.0,VIC,Murray Bushrangers,136.0,29.0,SYD
+701,703,998662,Jack,Maibaum,14,103900,SYD,DEF,Sydney,47049,998662.0,Jack,Maibaum,Sydney,rookie,21.0,1998-03-27,194.0,91.0,VIC,Eastern Ranges,0.0,0.0,SYD
+702,704,1008198,Tom,McCartin,14,269800,SYD,FWD,Sydney,48133,1008198.0,Tom,McCartin,Sydney,senior,30.0,1999-12-30,193.0,89.0,VIC,Geelong Falcons,34.0,19.0,SYD
+703,705,1011936,Justin,McInerney,14,123900,SYD,MID,Sydney,49078,1011936.0,Justin,McInerney,Sydney,senior,27.0,2000-08-18,187.0,73.0,VIC,Northern Knights,1.0,0.0,SYD
+704,706,1003203,Hayden,McLean,14,265000,SYD,RUC,Sydney,48165,1003203.0,Hayden,McLean,Sydney,senior,41.0,1999-01-20,197.0,93.0,VIC,Sandringham Dragons,4.0,0.0,SYD
+705,707,996743,Lewis,Melican,14,284600,SYD,DEF,Sydney,45185,996743.0,Lewis,Melican,Sydney,senior,43.0,1996-11-04,195.0,98.0,VIC,Geelong Falcons,37.0,1.0,SYD
+706,708,993905,Callum,Mills,14,444100,SYD,DEF,Sydney,46003,993905.0,Callum,Mills,Sydney,senior,14.0,1997-04-02,189.0,83.0,NSW,North Shore,77.0,3.0,SYD
+707,709,298144,Sam,Naismith,14,251500,SYD,RUC,Sydney,43141,298144.0,Sam,Naismith,Sydney,senior,10.0,1992-07-16,206.0,108.0,NSW,North Shore,27.0,2.0,SYD
+708,710,1019158,Barry,O'Connor,14,102400,SYD,DEF FWD,Sydney,49996,1019158.0,Barry,O'Connor,Sydney,rookie,35.0,1998-06-26,193.0,92.0,,Count Wexford (Ireland),,,SYD
+709,711,997842,Colin,O'Riordan,14,338000,SYD,DEF,Sydney,46126,997842.0,Colin,O'Riordan,Sydney,senior,38.0,1995-10-12,187.0,87.0,,County Tipperary,15.0,1.0,SYD
+710,712,996765,Tom,Papley,14,425500,SYD,FWD,Sydney,46106,996765.0,Tom,Papley,Sydney,senior,11.0,1996-07-13,178.0,76.0,VIC,Gippsland Power,81.0,117.0,SYD
+711,713,290778,Luke,Parker,14,570700,SYD,MID,Sydney,42015,290778.0,Luke,Parker,Sydney,senior,26.0,1992-10-25,183.0,87.0,VIC,Dandenong Stingrays,193.0,153.0,SYD
+712,714,290307,Dane,Rampe,14,527800,SYD,DEF,Sydney,43132,290307.0,Dane,Rampe,Sydney,senior,24.0,1990-06-02,187.0,88.0,NSW,UNSW,157.0,6.0,SYD
+713,715,290188,Sam,Reid,14,426000,SYD,FWD,Sydney,41057,290188.0,Sam,Reid,Sydney,senior,20.0,1991-12-27,196.0,100.0,VIC,Murray Bushrangers,141.0,153.0,SYD
+714,716,1013624,Harry,Reynolds,14,123900,SYD,DEF,Sydney,49117,1013624.0,Harry,Reynolds,Sydney,rookie,31.0,2000-10-11,189.0,74.0,VIC,Sandringham Dragons,,,SYD
+715,717,1004880,Ben,Ronke,14,243900,SYD,FWD,Sydney,47107,1004880.0,Ben,Ronke,Sydney,senior,25.0,1997-12-18,183.0,76.0,VIC,Calder Cannons,31.0,33.0,SYD
+716,718,1006126,James,Rowbottom,14,337600,SYD,FWD MID,Sydney,49025,1006126.0,James,Rowbottom,Sydney,senior,8.0,2000-09-19,186.0,78.0,VIC,Oakleigh Chargers,12.0,4.0,SYD
+717,719,1011789,Brady,Rowles,14,123400,SYD,DEF MID,Sydney,49971,1011789.0,Brady,Rowles,Sydney,rookie,39.0,2001-02-12,188.0,72.0,VIC,Bendigo Pioneers,,,SYD
+718,720,294737,Callum,Sinclair,14,396400,SYD,RUC,Sydney,43124,294737.0,Callum,Sinclair,Sydney,senior,18.0,1989-09-23,200.0,96.0,WA,Subiaco,101.0,59.0,SYD
+719,721,1004848,Dylan,Stephens,14,189300,SYD,MID,Sydney,49909,1004848.0,Dylan,Stephens,Sydney,senior,3.0,2001-01-08,183.0,69.0,SA,Norwood,,,SYD
+720,722,1008080,Ryley,Stoddart,14,123900,SYD,DEF,Sydney,48149,1008080.0,Ryley,Stoddart,Sydney,senior,33.0,1999-10-15,186.0,73.0,VIC,Eastern Ranges,4.0,1.0,SYD
+721,723,1005997,Elijah,Taylor,14,117300,SYD,MID FWD,Sydney,49940,1005997.0,Elijah,Taylor,Sydney,senior,37.0,2001-05-01,185.0,75.0,WA,Perth,,,SYD
+722,724,296211,Lewis,Taylor,14,310200,SYD,MID,Sydney,44014,296211.0,Lewis,Taylor,Sydney,senior,28.0,1995-02-17,175.0,80.0,VIC,Geelong Falcons,112.0,88.0,SYD
+723,725,294663,Jackson,Thurlow,14,329400,SYD,DEF,Sydney,43053,294663.0,Jackson,Thurlow,Sydney,senior,6.0,1994-03-28,190.0,84.0,TAS,Launceston,55.0,11.0,SYD
+724,726,1012014,Chad,Warner,14,117300,SYD,MID,Sydney,49943,1012014.0,Chad,Warner,Sydney,senior,1.0,2001-05-19,181.0,80.0,WA,East Fremantle,,,SYD
+725,727,1006232,Samuel,Wicks,14,123900,SYD,MID,Sydney,49125,1006232.0,Sam,Wicks,Sydney,rookie,45.0,1999-09-14,181.0,73.0,NSW,Swans Academy,,,SYD
+726,728,297373,Marcus,Bontempelli,15,623000,WBD,MID,Western Bulldogs,44006,297373.0,Marcus,Bontempelli,Western Bulldogs,senior,4.0,1995-11-24,193.0,93.0,VIC,Northern Knights,125.0,114.0,WBD
+727,729,291492,Josh,Bruce,15,358200,WBD,FWD,Western Bulldogs,42208,291492.0,Josh,Bruce,Western Bulldogs,senior,17.0,1992-06-08,197.0,101.0,NSW,Eastlake,113.0,171.0,WBD
+728,730,1011992,Louis,Butler,15,117300,WBD,DEF MID,Western Bulldogs,49957,1011992.0,Louis,Butler,Western Bulldogs,senior,18.0,2001-08-26,183.0,74.0,VIC,Sandringham Dragons,,,WBD
+729,731,296070,Ben,Cavarra,15,123900,WBD,FWD,Western Bulldogs,49079,296070.0,Ben,Cavarra,Western Bulldogs,senior,25.0,1995-12-20,173.0,72.0,VIC,Williamstown,,,WBD
+730,732,991939,Zaine,Cordy,15,275500,WBD,DEF,Western Bulldogs,45042,991939.0,Zaine,Cordy,Western Bulldogs,senior,12.0,1996-10-27,193.0,90.0,VIC,Geelong Falcons,69.0,8.0,WBD
+731,733,293651,Hayden,Crozier,15,406800,WBD,DEF,Western Bulldogs,42235,293651.0,Hayden,Crozier,Western Bulldogs,senior,9.0,1993-12-24,185.0,79.0,VIC,Eastern Ranges,107.0,45.0,WBD
+732,734,996708,Bailey,Dale,15,388000,WBD,FWD,Western Bulldogs,45118,996708.0,Bailey,Dale,Western Bulldogs,senior,31.0,1996-07-22,183.0,82.0,VIC,Dandenong Stingrays,49.0,53.0,WBD
+733,735,295136,Caleb,Daniel,15,537900,WBD,DEF,Western Bulldogs,45119,295136.0,Caleb,Daniel,Western Bulldogs,senior,35.0,1996-07-07,168.0,72.0,SA,South Adelaide,90.0,26.0,WBD
+734,736,295712,Tory,Dickson,15,330900,WBD,FWD,Western Bulldogs,42342,295712.0,Tory,Dickson,Western Bulldogs,senior,29.0,1987-09-26,184.0,85.0,VIC,Bendigo Bombers,112.0,177.0,WBD
+735,737,993834,Josh,Dunkley,15,632400,WBD,MID,Western Bulldogs,46010,993834.0,Josh,Dunkley,Western Bulldogs,senior,5.0,1997-01-09,190.0,88.0,VIC,Gippsland Power,64.0,36.0,WBD
+736,738,290085,Taylor,Duryea,15,411400,WBD,DEF,Western Bulldogs,41101,290085.0,Taylor,Duryea,Western Bulldogs,senior,15.0,1991-04-24,179.0,80.0,VIC,Murray Bushrangers,131.0,23.0,WBD
+737,739,1004592,Tim,English,15,448400,WBD,RUC,Western Bulldogs,47018,1004592.0,Tim,English,Western Bulldogs,senior,44.0,1997-08-10,205.0,93.0,WA,South Fremantle,28.0,8.0,WBD
+738,740,1006533,Riley,Garcia,15,117300,WBD,MID,Western Bulldogs,49966,1006533.0,Riley,Garcia,Western Bulldogs,senior,38.0,2001-01-30,175.0,68.0,WA,Swan Districts,,,WBD
+739,741,997501,Ryan,Gardner,15,136800,WBD,FWD,Western Bulldogs,46094,997501.0,Ryan,Gardner,Western Bulldogs,rookie,43.0,1997-06-01,197.0,93.0,TAS,Burnie,2.0,2.0,WBD
+740,742,298277,Billy,Gowers,15,263900,WBD,FWD,Western Bulldogs,45152,298277.0,Billy,Gowers,Western Bulldogs,senior,26.0,1996-06-10,187.0,87.0,VIC,Oakleigh Chargers,30.0,39.0,WBD
+741,743,1006303,Fergus,Greene,15,157400,WBD,FWD,Western Bulldogs,47093,1006303.0,Fergus,Greene,Western Bulldogs,senior,30.0,1997-12-20,187.0,75.0,VIC,Bendigo Pioneers,5.0,5.0,WBD
+742,744,991976,Will,Hayes,15,315000,WBD,MID,Western Bulldogs,49103,991976.0,Will,Hayes,Western Bulldogs,senior,32.0,1995-06-05,181.0,77.0,VIC,Footscray VFL,8.0,4.0,WBD
+743,745,294557,Lachie,Hunter,15,517400,WBD,MID,Western Bulldogs,43046,294557.0,Lachie,Hunter,Western Bulldogs,senior,7.0,1994-12-13,183.0,82.0,VIC,Western Jets,126.0,57.0,WBD
+744,746,294101,Jason,Johannisen,15,458100,WBD,DEF,Western Bulldogs,42195,294101.0,Jason,Johannisen,Western Bulldogs,senior,39.0,1992-11-08,180.0,82.0,WA,East Fremantle,124.0,41.0,WBD
+745,747,295313,Lin,Jong,15,260700,WBD,MID,Western Bulldogs,42393,295313.0,Lin,Jong,Western Bulldogs,senior,46.0,1993-06-04,188.0,87.0,VIC,Oakleigh Chargers,61.0,33.0,WBD
+746,748,290797,Alex,Keath,15,413000,WBD,DEF,Western Bulldogs,42099,290797.0,Alex,Keath,Western Bulldogs,senior,42.0,1992-01-20,197.0,93.0,VIC,Murray Bushrangers,30.0,1.0,WBD
+747,749,998782,Buku,Khamis,15,123900,WBD,DEF,Western Bulldogs,49121,998782.0,Buku,Khamis,Western Bulldogs,rookie,24.0,2000-03-24,189.0,82.0,VIC,Bulldogs Academy,,,WBD
+748,750,290799,Tom,Liberatore,15,447500,WBD,MID,Western Bulldogs,42040,290799.0,Tom,Liberatore,Western Bulldogs,senior,21.0,1992-05-16,183.0,83.0,VIC,Calder Cannons,131.0,45.0,WBD
+749,751,1003130,Patrick,Lipinski,15,441500,WBD,FWD MID,Western Bulldogs,47067,1003130.0,Patrick,Lipinski,Western Bulldogs,senior,27.0,1998-07-17,187.0,84.0,VIC,Northern Knights,31.0,23.0,WBD
+750,752,290073,Sam,Lloyd,15,419100,WBD,FWD,Western Bulldogs,44112,290073.0,Sam,Lloyd,Western Bulldogs,senior,22.0,1990-03-03,180.0,81.0,VIC,Frankston,79.0,106.0,WBD
+751,753,994410,Brad,Lynch,15,221100,WBD,DEF,Western Bulldogs,46103,994410.0,Brad,Lynch,Western Bulldogs,senior,36.0,1997-07-11,187.0,79.0,WA,Swan Districts,9.0,2.0,WBD
+752,754,295467,Jack,Macrae,15,668900,WBD,MID,Western Bulldogs,43022,295467.0,Jack,Macrae,Western Bulldogs,senior,11.0,1994-08-03,191.0,85.0,VIC,Oakleigh Chargers,139.0,33.0,WBD
+753,755,996483,Toby,McLean,15,380100,WBD,FWD,Western Bulldogs,45052,996483.0,Toby,McLean,Western Bulldogs,senior,16.0,1996-01-31,180.0,79.0,VIC,Oakleigh Chargers,77.0,53.0,WBD
+754,756,1002404,Aaron,Naughton,15,367800,WBD,FWD,Western Bulldogs,48203,1002404.0,Aaron,Naughton,Western Bulldogs,senior,33.0,1999-11-30,195.0,89.0,WA,Peel Thunder,40.0,32.0,WBD
+755,757,1002383,Callum,Porter,15,123900,WBD,MID,Western Bulldogs,48225,1002383.0,Callum,Porter,Western Bulldogs,senior,28.0,1999-02-22,182.0,76.0,VIC,Gippsland Power,0.0,0.0,WBD
+756,758,1008280,Ed,Richards,15,264400,WBD,FWD MID,Western Bulldogs,48211,1008280.0,Ed,Richards,Western Bulldogs,senior,20.0,1999-07-03,185.0,79.0,VIC,Oakleigh Chargers,40.0,16.0,WBD
+757,759,993841,Josh,Schache,15,309500,WBD,FWD,Western Bulldogs,46002,993841.0,Josh,Schache,Western Bulldogs,senior,13.0,1997-08-21,199.0,94.0,VIC,Murray Bushrangers,53.0,65.0,WBD
+758,760,1006130,Bailey,Smith,15,415900,WBD,FWD MID,Western Bulldogs,49006,1006130.0,Bailey,Smith,Western Bulldogs,senior,6.0,2000-12-07,185.0,80.0,VIC,Sandringham Dragons,22.0,11.0,WBD
+759,761,992054,Roarke,Smith,15,258000,WBD,FWD MID,Western Bulldogs,45151,992054.0,Roarke,Smith,Western Bulldogs,rookie,37.0,1996-09-11,181.0,81.0,VIC,Calder Cannons,17.0,4.0,WBD
+760,762,270732,Matthew,Suckling,15,454000,WBD,DEF,Western Bulldogs,39592,270732.0,Matt,Suckling,Western Bulldogs,senior,1.0,1988-07-25,187.0,85.0,NSW,Wagga Tigers,170.0,81.0,WBD
+761,763,992330,Jordon,Sweet,15,123900,WBD,RUC,Western Bulldogs,49116,992330.0,Jordon,Sweet,Western Bulldogs,rookie,41.0,1998-02-02,203.0,106.0,SA,North Adelaide,,,WBD
+762,764,280013,Jackson,Trengove,15,354000,WBD,DEF,Western Bulldogs,40009,280013.0,Jackson,Trengove,Western Bulldogs,senior,8.0,1990-11-02,197.0,97.0,VIC,Calder Cannons,185.0,35.0,WBD
+763,765,1005000,Laitham,Vandermeer,15,123900,WBD,FWD MID,Western Bulldogs,49074,1005000.0,Laitham,Vandermeer,Western Bulldogs,senior,23.0,1999-02-03,180.0,77.0,VIC,Murray Bushrangers,,,WBD
+764,766,291545,Mitch,Wallis,15,454500,WBD,FWD MID,Western Bulldogs,42023,291545.0,Mitch,Wallis,Western Bulldogs,senior,3.0,1992-10-24,186.0,85.0,VIC,Calder Cannons,133.0,76.0,WBD
+765,767,1011803,Cody,Weightman,15,144300,WBD,FWD,Western Bulldogs,49919,1011803.0,Cody,Weightman,Western Bulldogs,senior,19.0,2001-01-15,177.0,73.0,VIC,Dandenong Stingrays,,,WBD
+766,768,1006127,Rhylee,West,15,231300,WBD,FWD,Western Bulldogs,49013,1006127.0,Rhylee,West,Western Bulldogs,senior,14.0,2000-07-12,181.0,82.0,VIC,Calder Cannons,2.0,2.0,WBD
+767,769,992351,Bailey,Williams,15,300500,WBD,DEF,Western Bulldogs,46088,992351.0,Bailey,Williams,Western Bulldogs,senior,34.0,1997-10-10,187.0,85.0,SA,Glenelg,41.0,7.0,WBD
+768,770,281139,Easton,Wood,15,289800,WBD,DEF,Western Bulldogs,39671,281139.0,Easton,Wood,Western Bulldogs,senior,10.0,1989-09-04,187.0,86.0,VIC,Camperdown,158.0,18.0,WBD
+769,771,1004909,Lachlan,Young,15,219100,WBD,DEF,Western Bulldogs,49105,1004909.0,Lachie,Young,Western Bulldogs,rookie,40.0,1999-04-06,189.0,81.0,VIC,Mt Eliza,6.0,0.0,WBD
+770,772,997316,Lewis,Young,15,267200,WBD,DEF,Western Bulldogs,47080,997316.0,Lewis,Young,Western Bulldogs,senior,2.0,1998-12-20,197.0,96.0,SA,Sturt,13.0,0.0,WBD
+771,773,291947,Brendon,Ah Chee,16,266100,WCE,MID,West Coast,42333,291947.0,Brendon,Ah Chee,West Coast,rookie,41.0,1993-12-21,189.0,88.0,WA,South Fremantle,36.0,20.0,WCE
+772,774,1004356,Brayden,Ainsworth,16,205300,WCE,MID,West Coast,48189,1004356.0,Brayden,Ainsworth,West Coast,senior,33.0,1998-11-21,184.0,80.0,WA,Subiaco,3.0,1.0,WCE
+773,775,1004385,Oscar,Allen,16,357900,WCE,FWD,West Coast,48199,1004385.0,Oscar,Allen,West Coast,senior,12.0,1999-03-19,192.0,87.0,WA,West Perth,23.0,20.0,WCE
+774,776,990290,Tom,Barrass,16,424500,WCE,DEF,West Coast,44091,990290.0,Tom,Barrass,West Coast,senior,37.0,1995-10-08,196.0,96.0,WA,Claremont,63.0,0.0,WCE
+775,777,1002300,Jarrod,Brander,16,133000,WCE,DEF FWD,West Coast,48007,1002300.0,Jarrod,Brander,West Coast,senior,10.0,1999-02-11,195.0,92.0,VIC,Bendigo Pioneers,3.0,0.0,WCE
+776,778,998107,Hamish,Brayshaw,16,102400,WCE,MID,West Coast,48222,998107.0,Hamish,Brayshaw,West Coast,rookie,22.0,1998-02-09,187.0,90.0,VIC,Sandringham Dragons,0.0,0.0,WCE
+777,779,1005793,Jarrod,Cameron,16,278600,WCE,FWD,West Coast,49054,1005793.0,Jarrod,Cameron,West Coast,senior,39.0,2000-05-03,182.0,70.0,WA,Swan Districts,7.0,11.0,WCE
+778,780,993820,Thomas,Cole,16,311500,WCE,DEF,West Coast,46019,993820.0,Tom,Cole,West Coast,senior,28.0,1997-05-28,186.0,81.0,VIC,Bendigo Pioneers,41.0,0.0,WCE
+779,781,290826,Jamie,Cripps,16,413700,WCE,FWD,West Coast,42036,290826.0,Jamie,Cripps,West Coast,senior,15.0,1992-04-23,183.0,84.0,WA,East Fremantle,161.0,207.0,WCE
+780,782,290838,Jack,Darling,16,458900,WCE,FWD,West Coast,42005,290838.0,Jack,Darling,West Coast,senior,27.0,1992-06-13,191.0,95.0,WA,West Perth,194.0,373.0,WCE
+781,783,298268,Liam,Duggan,16,353000,WCE,DEF,West Coast,45020,298268.0,Liam,Duggan,West Coast,senior,14.0,1996-12-11,184.0,83.0,VIC,Western Jets,85.0,9.0,WCE
+782,784,1011437,Harry,Edwards,16,123900,WCE,DEF,West Coast,49114,1011437.0,Harry,Edwards,West Coast,rookie,42.0,2000-10-01,197.0,87.0,WA,Swan Districts,,,WCE
+783,785,1005599,Luke,Foley,16,123900,WCE,DEF,West Coast,49038,1005599.0,Luke,Foley,West Coast,senior,29.0,1999-10-08,188.0,75.0,WA,Subiaco,,,WCE
+784,786,290801,Andrew,Gaff,16,583200,WCE,MID,West Coast,42010,290801.0,Andrew,Gaff,West Coast,senior,3.0,1992-06-16,183.0,85.0,VIC,Oakleigh Chargers,195.0,68.0,WCE
+785,787,294266,Tom,Hickey,16,425700,WCE,RUC,West Coast,42065,294266.0,Tom,Hickey,West Coast,senior,16.0,1991-03-06,201.0,96.0,QLD,Morningside  ,97.0,31.0,WCE
+786,788,240283,Shannon,Hurn,16,562200,WCE,DEF,West Coast,2035,240283.0,Shannon,Hurn,West Coast,senior,25.0,1987-09-04,187.0,95.0,SA,Central District,267.0,50.0,WCE
+787,789,281052,Mark,Hutchings,16,274200,WCE,MID,West Coast,41025,281052.0,Mark,Hutchings,West Coast,senior,34.0,1991-05-25,182.0,83.0,WA,East Perth,111.0,46.0,WCE
+788,790,1011243,Callum,Jamieson,16,117300,WCE,RUC,West Coast,49953,1011243.0,Callum,Jamieson,West Coast,senior,40.0,2000-07-31,200.0,81.0,WA,Claremont,,,WCE
+789,791,281281,Lewis,Jetta,16,382600,WCE,DEF,West Coast,41022,281281.0,Lewis,Jetta,West Coast,senior,23.0,1989-05-04,182.0,80.0,WA,Swan Districts,193.0,114.0,WCE
+790,792,1011464,Ben,Johnson,16,117300,WCE,DEF,West Coast,49962,1011464.0,Ben,Johnson,West Coast,senior,38.0,2001-03-06,180.0,65.0,WA,West Perth,,,WCE
+791,793,295898,Tim,Kelly,16,561800,WCE,MID,West Coast,48214,295898.0,Tim,Kelly,West Coast,senior,11.0,1994-07-26,182.0,81.0,WA,South Fremantle,45.0,42.0,WCE
+792,794,240406,Josh J.,Kennedy,16,335600,WCE,FWD,West Coast,2022,240406.0,Josh J.,Kennedy,West Coast,senior,17.0,1987-08-25,196.0,102.0,WA,East Fremantle,241.0,606.0,WCE
+793,795,294859,Jeremy,McGovern,16,475300,WCE,DEF,West Coast,42193,294859.0,Jeremy,McGovern,West Coast,senior,20.0,1992-04-15,196.0,99.0,WA,Claremont,124.0,36.0,WCE
+794,796,271045,Nic,Naitanui,16,457800,WCE,RUC,West Coast,40002,271045.0,Nic,Naitanui,West Coast,senior,9.0,1990-05-04,201.0,110.0,WA,Swan Districts,164.0,102.0,WCE
+795,797,298298,Jackson,Nelson,16,272000,WCE,DEF,West Coast,45051,298298.0,Jackson,Nelson,West Coast,senior,30.0,1996-03-15,187.0,85.0,VIC,Geelong Falcons,53.0,1.0,WCE
+796,798,1009353,Mitchell,O'Neill,16,102400,WCE,MID,West Coast,49994,1009353.0,Mitchell,O'Neill,West Coast,rookie,45.0,2001-02-21,178.0,69.0,TAS,Tasmania Devils,,,WCE
+797,799,1008282,Xavier,O'Neill,16,123900,WCE,MID,West Coast,49072,1008282.0,Xavier,O'Neill,West Coast,senior,24.0,2000-08-03,185.0,81.0,VIC,Oakleigh Chargers,,,WCE
+798,800,1006550,Jack,Petruccelle,16,276400,WCE,FWD,West Coast,48152,1006550.0,Jack,Petruccelle,West Coast,senior,21.0,1999-04-12,185.0,80.0,VIC,Northern Knights,22.0,22.0,WCE
+799,801,281373,Jack,Redden,16,485400,WCE,MID,West Coast,40110,281373.0,Jack,Redden,West Coast,senior,8.0,1990-12-09,190.0,85.0,SA,Glenelg,209.0,71.0,WCE
+800,802,296225,Willie,Rioli,16,374700,WCE,FWD,West Coast,47083,296225.0,Willie,Rioli,West Coast,senior,44.0,1995-06-04,175.0,77.0,SA,Glenelg,37.0,45.0,WCE
+801,803,997823,Josh,Rotham,16,274800,WCE,DEF,West Coast,47030,997823.0,Josh,Rotham,West Coast,senior,35.0,1998-02-25,193.0,86.0,WA,West Perth,4.0,0.0,WCE
+802,804,1004364,Liam,Ryan,16,334700,WCE,FWD,West Coast,48215,1004364.0,Liam,Ryan,West Coast,senior,1.0,1996-10-02,179.0,72.0,WA,Claremont,35.0,46.0,WCE
+803,805,261214,Will,Schofield,16,242600,WCE,DEF,West Coast,39554,261214.0,Will,Schofield,West Coast,senior,31.0,1989-01-24,196.0,94.0,VIC,Geelong Falcons,188.0,22.0,WCE
+804,806,296296,Dom,Sheed,16,516100,WCE,MID,West Coast,44010,296296.0,Dom,Sheed,West Coast,senior,4.0,1995-04-10,185.0,87.0,WA,Subiaco,100.0,46.0,WCE
+805,807,281080,Brad,Sheppard,16,455700,WCE,DEF,West Coast,41026,281080.0,Brad,Sheppard,West Coast,senior,5.0,1991-05-23,187.0,85.0,WA,East Perth,176.0,17.0,WCE
+806,808,280078,Luke,Shuey,16,548200,WCE,MID,West Coast,40034,280078.0,Luke,Shuey,West Coast,senior,13.0,1990-06-02,183.0,90.0,VIC,Oakleigh Chargers,199.0,136.0,WCE
+807,809,1001412,Anthony,Treacy,16,112900,WCE,FWD,West Coast,49976,1001412.0,Anthony,Treacy,West Coast,rookie,43.0,1997-04-12,182.0,65.0,WA,Claremont,,,WCE
+808,810,280959,Nathan,Vardy,16,288800,WCE,RUC,West Coast,41014,280959.0,Nathan,Vardy,West Coast,senior,19.0,1991-06-25,200.0,98.0,VIC,Gippsland Power,67.0,41.0,WCE
+809,811,998414,Daniel,Venables,16,233800,WCE,FWD,West Coast,47015,998414.0,Daniel,Venables,West Coast,senior,18.0,1998-11-19,187.0,84.0,VIC,Western Jets,21.0,11.0,WCE
+810,812,996554,Jake,Waterman,16,301600,WCE,FWD,West Coast,47055,996554.0,Jake,Waterman,West Coast,senior,2.0,1998-05-06,191.0,92.0,WA,Perth,27.0,26.0,WCE
+811,813,298474,Francis,Watson,16,218300,WCE,DEF,West Coast,47140,298474.0,Francis,Watson,West Coast,rookie,26.0,1995-09-29,187.0,81.0,WA,Claremont,2.0,0.0,WCE
+812,814,1006114,Bailey,Williams,16,123900,WCE,DEF,West Coast,49011,1006114.0,Bailey J.,Williams,West Coast,senior,32.0,2000-04-17,199.0,95.0,VIC,Dandenong Stingrays,,,WCE
+813,815,292128,Elliot,Yeo,16,584400,WCE,MID,West Coast,42317,292128.0,Elliot,Yeo,West Coast,senior,6.0,1993-10-01,190.0,89.0,WA,East Fremantle,153.0,70.0,WCE
+814,816,291773,Jack,Newnes,3,386400,CAR,MID,Carlton,42337,291773.0,Jack,Newnes,Carlton,senior,32.0,1993-02-24,186.0,82.0,VIC,Northern Knights,155.0,55.0,CAR
