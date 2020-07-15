@@ -1,0 +1,48 @@
+Collingwood,Magpies,Brisbane,Lions,R22,14.18.102,13.6.84, Full Time
+Aug 20,2011,7:10,MCG,Ten,280965,10312205,5647,5448,Windy,20,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>vamos77</em>: didak ripped off<br><em>Big Stick</em>: rockliff heart<br><em>hitchy</em>: 134! not bad for 2 qtrs<br><em>Rated_RKO</em>: and 95 from adcock ..<br><em>Rated_RKO</em>: love the 134 from swan and 111 from pendles. <br><em>Big Stick</em>: mevans&#044; rockliff can make that number 38 something special<br><em>lionspro</em>: Rocky should get a jumper that says Gun on the back<br><em>bickies</em>: one point off png&#044; couldnt manage a hit out sidebottom you fool<br><em>morrowind</em>: PNG gone begging again<br><em>Rated_RKO</em>: surely after this game every team in top 5 will look at how brisbane played to find a way to beat collingwood. . .<br><em>NatandHuey</em>: add cock to a gold sack- you have a golden cock<br><em>morrowind</em>: lil league mustve played the game out for the pies<br>
+240366,Travis,Cloke,CO,43,134,131,169,119,144,19,3,14,1,0,1,3,5,3, Full Time,star,%s from %P and %G in an excellent matchup for him on McKeever,,
+220105,Dane,Swan,CO,23,119,132,147,98,134,19,14,5,2,0,0,1,2,2, Full Time,gun,%2 Black... %P and %M plus %s and %T,dttalk,Calvin's #1 captain option this week
+210003,Alan,Didak,CO,19,109,71,142,83,114,24,6,7,1,0,0,0,0,0, Full Time,hot,%O with %k by foot... also %M,,
+271001,Dayne,Beams,CO,21,107,117,135,84,115,19,11,3,3,0,3,1,1,1, Full Time,hot,%O and %M plus %T and %s,,
+260257,Scott,Pendlebury,CO,15,94,108,116,75,106,15,15,3,2,0,1,0,0,1, Full Time,tagged,Tagged by Raines... %O and %T with %M and %s,,
+220005,Luke,Ball,CO,14,92,105,114,73,102,17,13,3,1,0,2,0,0,0, Full Time,news,%P and %M,,
+294826,Tom,Young,CO,17,88,97,108,74,100,12,11,4,2,0,0,1,2,1, Full Time,rookie,First game... %s from %P and %M with %T,,
+240359,Dale,Thomas,CO,14,83,75,113,65,89,18,2,6,3,1,2,3,0,1, Full Time,news,%P and %M plus %s and %T,,
+290821,Alex,Fasolo,CO,16,83,86,103,70,92,11,8,5,2,0,0,1,2,2, Full Time,news,%s from %P and %M on Hanley... also %T,,
+210099,Darren,Jolly,CO,27,79,92,98,64,76,3,4,4,6,25,1,0,0,0, Full Time,news,%H and %D with %T with %M,,
+280104,Jarryd,Blair,CO,13,75,105,95,56,78,9,11,1,5,0,3,0,0,0, Full Time,news,%O and %T,,
+280965,Steele,Sidebottom,CO,9,69,83,87,53,75,12,9,2,2,0,1,0,0,0, Full Time,news,%D and %M with %T,,
+291386,Ben,Sinclair,CO,19,68,74,86,54,73,6,9,2,5,0,2,1,1,1, Full Time,bubble,Second game... %s from %P and %T with %M,job,Standing Karnezis
+240073,Harry,O'Brien,CO,14,66,80,87,53,75,9,8,4,4,0,1,2,0,0, Full Time,job,Minding Banfield... %D and %T with %M,,
+240419,Alan,Toovey,CO,7,58,60,74,45,61,11,5,3,1,0,1,0,0,1, Full Time,job,Sitting on McGrath... %D and %M plus %s,,
+200028,Leigh,Brown,CO,11,55,67,69,52,70,5,8,5,2,4,0,3,1,0, Full Time,news,%s from %D and %M on Drummond... also %T and %H,,
+250683,Simon,Buckley,CO,8,52,53,67,45,60,9,5,6,0,0,0,1,0,0, Full Time,news,%D and %M,job,Minding Sheldon
+240232,Ben,Reid,CO,8,45,52,58,40,52,7,4,6,0,1,0,1,0,0, Full Time,injured,On Cornelius... %D and %M... landed heavily after a contest in Q3 and was spitting blood with a possible rib injury,subbed,Subbed off at 3QT for McCarthy
+260246,Tyson,Goldsack,CO,3,39,67,51,32,43,7,3,3,1,0,1,1,0,1, Full Time,job,Has Staker... %D and %M,sore,Left ankle knock in Q3
+290314,Lachlan,Keeffe,CO,2,22,28,29,17,22,5,0,2,0,0,0,0,0,1, Full Time,news,%s from %G and %O on Maguire,,
+980023,Chris,Tarrant,CO,0,18,37,23,14,18,2,2,1,1,0,1,0,0,0, Full Time,switch,Started forward but that didn't work... back into defence in Q2... %P,,
+271128,John,McCarthy,CO,0,9,6,12,6,9,1,1,0,1,0,0,0,0,0, Full Time,in,%l Andrew Krakouer... %O,sub,Started as a sub
+270919,Tom,Rockliff,BL,32,123,119,99,102,135,13,17,7,4,0,1,0,2,0, Full Time,hot,%O and %T with %M and %s,,
+250335,Matthew,Leuenberger,BL,26,118,120,100,107,129,9,15,7,1,33,3,0,0,0, Full Time,hot,%H and %P with %M,,
+281373,Jack,Redden,BL,25,117,108,83,96,129,17,12,9,4,2,2,2,0,1, Full Time,hot,%P and %M plus %T and %s,,
+980007,Simon,Black,BL,20,94,78,55,71,102,17,9,4,4,0,0,1,0,0, Full Time,news,%2 Swan... %P and %T with %M,,
+980011,Luke,Power,BL,25,92,79,55,72,102,16,9,3,4,0,1,2,1,0, Full Time,news,%P and %T with %M and %s,,
+240087,Jed,Adcock,BL,15,86,93,60,73,96,13,8,9,2,0,2,2,0,0, Full Time,news,%O and %M with %T,,
+261250,Sam,Sheldon,BL,26,85,67,82,63,81,8,3,7,7,0,0,0,1,0, Full Time,news,%D and %T with %M on Buckley,,
+250053,Cheynee,Stiller,BL,14,77,78,69,60,84,7,13,3,5,0,1,0,0,0, Full Time,news,%O and %T with %M,,
+270512,Pearce,Hanley,BL,14,75,50,58,57,78,10,7,5,4,0,0,0,0,0, Full Time,job,On Fasolo... %D and %M with %T,,
+260975,James,Polkinghorne,BL,13,74,75,46,62,85,12,9,6,1,0,0,1,0,1, Full Time,news,%s from %P and %M,,
+230211,Brent,Staker,BL,12,67,73,54,53,66,8,2,5,3,0,0,0,2,0, Full Time,news,First goal... %s from %D and %M on Goldsack... also %T,,
+210013,Ashley,McGrath,BL,16,63,90,50,52,67,7,4,2,3,0,0,1,3,1, Full Time,news,%s from %P and %T on Toovey... also %M,,
+200121,Josh,Drummond,BL,8,62,79,23,47,63,15,1,4,1,0,2,1,0,0, Full Time,job,Responsible for Brown.. %P and %M,,
+220062,Matt,Maguire,BL,9,58,81,41,47,63,9,4,6,2,0,0,1,0,0, Full Time,job,On Keeffe... %M and %P with %T,,
+261391,Aaron,Cornelius,BL,11,56,56,44,49,61,7,2,5,2,0,1,2,2,1, Full Time,news,%s from %D and %G on Reid... also %T,,
+290110,Mitchell,Golby,BL,10,55,44,50,45,63,6,6,5,4,0,0,2,0,0, Full Time,job,Minding Sinclair... %O and %T with %M,,
+271071,Todd,Banfield,BL,13,53,58,52,39,48,4,4,1,5,0,4,0,1,0, Full Time,news,%s from %D and %T on O'Brien,,
+240393,Mitchell,Clark,BL,5,48,81,38,38,51,6,4,2,3,5,1,1,0,1, Full Time,news,Started on a wing... %s from %D and %M with %T... also %H,,
+271072,Daniel,Rich,BL,4,46,28,34,36,51,6,7,2,2,0,0,0,0,0, Full Time,news,On in Q3 for Karnezis... %P and %T with %M,sub,Started as a sub
+292508,Niall,McKeever,BL,10,45,57,34,42,54,5,7,4,0,0,1,1,1,0, Full Time,job,Standing Cloke... %P and %M plus %s,,
+240013,Andrew,Raines,BL,3,38,46,28,33,51,5,9,1,2,0,0,2,0,0, Full Time,tagger,Tagging Pendlebury... %D and %T... also %F,,
+290808,Patrick,Karnezis,BL,0,8,13,6,9,13,1,2,1,0,0,0,1,0,1, Full Time,news,%s from %D on Sinclair,subbed,Subbed off in Q3 for Rich

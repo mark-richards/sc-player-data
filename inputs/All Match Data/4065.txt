@@ -1,0 +1,48 @@
+Port Adelaide,Power,North Melbourne,Kangaroos,R8,14.11.95,14.9.93, Full Time
+May 19,2012,1:45,Footy Park,Seven,230232,10340802,430072,0,A shower or two,18,news,Brad Ebert's SC at 3QT is 76.
+
+<em>living21</em>: stweart<br><em>FootyFan7</em>: paul stewart kicked the winner<br><em>MCyike</em>: lol North are such pretenders.. small club is small<br><em>DiPpEr3</em>: who got winning goal<br><em>smcp</em>: @ozelite ta<br><em>justi</em>: so will scotty get sacked?<br><em>ozelite</em>: Brad ebert 97sc <br><em>HappyDEZ</em>: when ya kick 7.0 102 SC is a bit thin IMO<br><em>smcp</em>: @Dangermaus there a two B. Eberts so Brad's SC on the list is actually brett's<br><em>badcorkie</em>: schulz kicked 7 against north in 2010 as well<br><em>dean0s</em>: must be upset with that score sizzler<br><em>smcp</em>: Hey Monty&#044; are you able to update brad ebert's full time SC score? Ta<br>
+250063,Danyle,Pearce,PA,15,101,158,131,73,105,22,8,2,3,0,1,0,0,0, Full Time,star,%P and %M with %T... many of those %K inside 50 with high quality,,
+230195,Jay,Schulz,PA,39,99,110,119,92,105,11,1,9,0,0,1,2,7,0, Full Time,target,Booted %s from %P and %G on Luke Delaney then Thompson... three majors in Q1,,
+260511,Darren,Pfeiffer,PA,20,97,94,126,76,100,11,9,8,5,0,1,0,0,1, Full Time,cash,%D and %T with %M,job,Moved to Warren in Q3
+271128,John,McCarthy,PA,21,97,115,124,74,98,13,8,4,5,0,2,0,1,2, Full Time,news,%P and %T with %M and %s,,
+261911,Brad,Ebert,PA,20,89,66,116,67,96,10,12,3,7,0,1,1,0,0, Full Time,news,%2 Swallow... %B among %P with %T and %M,,
+240385,Matt,Thomas,PA,20,79,77,104,61,83,8,8,5,6,0,1,1,0,2, Full Time,news,Playing forward a bit... %s from %D and %M plus %T,,
+271078,Matthew,Broadbent,PA,15,78,114,98,60,81,14,7,2,2,0,2,0,1,0, Full Time,news,%2 Wells... %P,,
+261892,Hamish,Hartlett,PA,8,74,70,96,55,75,13,6,3,3,0,2,0,0,0, Full Time,news,%D and %T with %M,,
+290802,Ben,Jacobs,PA,15,74,97,92,61,81,7,10,5,3,0,0,0,1,0, Full Time,news,%O and %T with %M and %s,,
+1230242,Brett,Ebert,PA,20,73,66,98,56,72,9,2,6,5,0,1,1,1,0, Full Time,news,%s from %D and %M on Atley... also %T,,
+210043,Domenic,Cassisi,PA,9,73,58,93,58,78,9,9,5,3,0,1,0,0,0, Full Time,news,%2 Adams... %D and %M with %T,,
+240074,Jacob,Surjan,PA,12,69,69,86,58,75,9,9,6,1,0,2,0,0,0, Full Time,news,%B among %O plus %M,tagger,Started on Warren but shifted to Harvey in Q3
+250308,Brent,Renouf,PA,26,69,69,76,67,75,4,4,3,0,42,1,1,0,0, Full Time,news,%H and %P,sore,Hand knock in Q1
+250365,Travis,Boak,PA,13,66,52,88,51,73,9,7,3,5,0,1,2,0,1, Full Time,tagged,Tagged by Greenwood... %O and %T... also %F,,
+210020,Kane,Cornes,PA,10,60,61,75,48,64,6,7,3,3,0,0,0,1,1, Full Time,news,%P and %M plus %T and %s... tagging Harvey until Q3,,
+260750,Justin,Westhoff,PA,16,59,63,76,48,61,5,3,4,4,6,0,1,1,1, Full Time,news,%s from %P on Firrito... also %H and %T,,
+280013,Jackson,Trengove,PA,9,52,58,67,42,56,4,7,3,4,2,2,1,0,0, Full Time,news,%P and %T with %M,job,Standing Pedersen
+250688,Alipate,Carlile,PA,6,47,71,58,39,57,8,9,1,1,0,1,1,0,0, Full Time,job,Standing Petrie.. %D,,
+240180,Troy,Chaplin,PA,4,46,80,59,40,54,8,5,5,0,0,0,1,0,0, Full Time,job,Minding Thomas... %M and %O,,
+270779,Paul,Stewart,PA,14,46,59,62,33,42,5,0,3,4,0,0,0,1,0, Full Time,news,On in Q3 for Butcher,sub,Started as a sub
+291962,Chad,Wingard,PA,3,34,46,45,28,43,4,6,1,3,1,0,2,0,0, Full Time,wall,%O and %T... also %F,,
+280877,John,Butcher,PA,1,19,29,27,11,15,2,0,0,3,0,1,0,0,0, Full Time,news,Started with Thompson on him then got Luke Delaney... %P and %T,subbed,Subbed off in Q3 for Paul Stewart
+240417,Andrew,Swallow,NM,55,138,155,107,97,134,19,9,2,12,1,4,1,1,1, Full Time,hot,%2 Brad Ebert... %O and %T plus %s,,
+230232,Daniel,Wells,NM,27,118,143,72,88,118,20,6,4,5,0,1,0,2,1, Full Time,hot,%2 Broadbent... %D and %T plus %M and %s,,
+280944,Jack,Ziebell,NM,21,90,118,62,70,99,14,8,4,5,0,0,2,1,0, Full Time,sore,%O and %T with %M... had a Port player fall across his left knee in Q3... also %s and %F,,
+210023,Drew,Petrie,NM,32,85,122,78,68,83,7,2,2,6,2,1,1,5,0, Full Time,target,First goal... %s from %P and %T with %M on Carlile,,
+271129,Todd,Goldstein,NM,21,79,91,65,71,83,6,6,2,1,38,1,0,0,0, Full Time,news,%H and %D,,
+261909,Lindsay,Thomas,NM,16,68,79,53,51,67,9,2,2,5,0,1,1,2,1, Full Time,news,Returned to a deep forward role this week with %s from %D and %M on Chaplin... also %T,,
+290547,Kieran,Harper,NM,14,67,58,52,52,72,9,7,4,4,0,1,1,0,0, Full Time,concussed,%P and %T plus %M... copped Trengove's knee to his head in Q4,subbed,Subbed off in Q4 for McKenzie
+280863,Ryan,Bastinac,NM,8,65,60,36,51,72,12,7,3,2,0,1,1,0,0, Full Time,news,%O and %M,,
+240131,Nathan,Grima,NM,5,62,68,46,47,63,9,4,5,3,0,0,0,0,0, Full Time,news,%M and %D with %T,,
+293796,Cameron,Delaney,NM,8,62,56,36,47,66,11,6,3,2,0,0,0,0,0, Full Time,news,%K among %P with %T and %M,,
+292029,Cameron,Pedersen,NM,15,61,56,50,52,65,7,4,6,2,2,1,1,1,0, Full Time,in,%l Aaron Edwards... %D and %M with %T,,
+960491,Brent,Harvey,NM,20,61,68,56,45,63,6,6,1,6,0,1,1,1,0, Full Time,tagged,Tagged by Cornes then got Surjan in Q3... %D and %T,mrp,A little right jab to Wingard's chin in Q3 will be looked at
+261228,Ben,Warren,NM,14,60,62,44,50,62,8,3,6,1,0,0,0,1,2, Full Time,news,%s from %P and %M on Surjan,,
+290787,Shaun,Atley,NM,9,60,35,50,45,63,7,7,3,4,0,0,0,0,0, Full Time,job,Responsible for Brett Ebert... %P and %M,,
+290194,Jamie,MacMillan,NM,12,59,52,35,49,64,10,5,6,0,0,0,0,0,1, Full Time,news,%D and %M plus %s,,
+230272,Michael,Firrito,NM,5,55,72,52,47,63,4,10,5,2,0,0,0,0,0, Full Time,job,Sitting on Westhoff... %P and %M,,
+250285,Leigh,Adams,NM,7,52,80,37,43,67,7,12,0,3,1,0,2,0,0, Full Time,news,%2 Cassisi in midfield... %B among %P with %T,,
+281395,Scott D.,Thompson,NM,7,47,88,34,39,58,6,10,1,2,0,0,1,0,1, Full Time,sore,%O... blurred vision in right eye in Q2,job,Moved from Butcher to cover Schulz in Q1
+270861,Levi,Greenwood,NM,14,46,51,48,34,54,4,7,0,7,0,1,3,0,0, Full Time,tagger,Tagging Boak... %P and %T... also %F,,
+270303,Luke,Delaney,NM,2,29,31,14,25,33,6,2,3,0,0,1,1,0,0, Full Time,job,Moved off Schulz in Q1 after a hot start to Butcher... %P and %M,,
+280921,Ben,Cunnington,NM,2,25,33,29,24,39,1,8,1,3,0,0,3,0,0, Full Time,news,%D and %T... also %F,,
+291963,Brad,McKenzie,NM,0,4,10,4,4,6,0,2,0,0,0,0,0,0,0, Full Time,news,On in Q4 for McKenzie,sub,Started as a sub

@@ -1,0 +1,48 @@
+Gold Coast,Suns,Port Adelaide,Power,R9,10.10.70,17.16.118, Full Time
+May 26,2012,2:10,Gold Coast,Fox Sports,250249,10340903,430082,0,Sunny,19,,
+
+<em>MightyEss</em>: flowering bought ablett this week....<br><em>polar01</em>: horse will sleep well tonight<br><em>bickies</em>: danyle pearce's parents must run supercoach<br><em>scoregasms</em>: Boak star<br><em>Turkies</em>: brad's SC?<br><em>thornz23</em>: i saw 11 points for GAJ that he didnt get in the last qtr<br><em>Girlpower</em>: whats brad eberts sc<br><em>Chillicat</em>: Ill take 72 from the horse<br><em>Savage</em>: horses have big dicks<br><em>Jormas</em>: ablett should have been 108-110 DT a tackle and a kick missed i think?<br><em>F_show</em>: woa buzzkill budgee<br><em>GJayBee</em>: gc killed my margin! hahahahahahah no<br>
+240712,Michael,Rischitelli,GC,50,107,104,141,78,103,7,9,5,11,1,2,0,1,0, Full Time,hot,%2 Hartlett... %P and %T plus %M and %s,,
+220001,Gary,Ablett jnr,GC,36,106,111,141,76,112,16,9,1,9,0,0,2,1,1, Full Time,hot,Tagged by Cornes... %P and %T plus %s,dttalk,The #1 captain option by Calvin
+240316,Sam,Iles,GC,24,101,101,129,80,108,13,12,7,4,0,1,0,0,0, Full Time,hot,%O and %M with %T,,
+293813,Thomas,Lynch,GC,19,99,76,127,78,96,13,5,7,4,6,4,0,0,3, Full Time,news,Booted %s from %G and %P on Carlile... also %H and %T,,
+250249,Danny,Stanley,GC,19,87,104,110,72,100,13,12,6,2,0,0,1,0,1, Full Time,news,%s from %O and %M on Pfeiffer,,
+240012,Andrew,McQualter,GC,16,83,94,103,72,96,15,8,5,0,0,1,2,2,0, Full Time,news,%s from %P and %M,,
+291594,Harley,Bennell,GC,14,81,86,101,66,95,11,14,3,3,2,0,1,0,0, Full Time,news,%O on Surjan,,
+291753,Sam,Day,GC,22,80,106,97,69,81,7,4,6,2,5,1,0,3,1, Full Time,news,First goal... %s from %P and %G on Trengove... also %T,,
+290627,Dion,Prestia,GC,13,73,95,94,54,78,9,10,2,5,0,0,0,0,0, Full Time,news,Matched up on Cassisi on a HFF... %B among %P with %T,,
+294643,Alex,Sexton,GC,11,60,55,78,46,60,8,3,4,3,0,0,0,1,0, Full Time,news,%P and %M,,
+290623,Josh,Caddy,GC,7,59,71,70,49,69,8,12,1,1,1,1,0,0,2, Full Time,news,%O,,
+290790,Matthew,Shaw,GC,10,56,55,79,41,58,9,1,4,5,1,0,2,0,0, Full Time,news,%D and %T,,
+281279,Kyal,Horsley,GC,9,52,75,64,40,55,8,6,0,2,0,1,0,1,1, Full Time,news,%2 Brad Ebert... %P and %s,,
+280722,Zac,Smith,GC,8,44,45,49,42,53,2,7,1,1,20,0,1,0,0, Full Time,news,%H and %P,,
+220013,Campbell,Brown,GC,10,43,48,55,41,57,6,6,4,1,0,0,3,1,0, Full Time,news,%P on Chaplin,,
+281075,Rory,Thompson,GC,3,42,63,55,31,41,5,3,2,3,2,1,0,0,0, Full Time,job,Standing Daniel Stewart... %O and %M with %T,,
+290703,Joel,Wilkinson,GC,8,42,40,57,32,45,4,4,3,4,0,0,1,0,0, Full Time,tagger,Tagging Boak... %P and %T,,
+293795,Jeremy,Taylor,GC,13,42,49,58,26,39,2,4,0,7,0,0,0,0,0, Full Time,news,%D and %T,job,Responsible for Westhoff
+292512,Karmichael,Hunt,GC,3,40,41,48,33,48,3,10,1,2,0,0,0,0,0, Full Time,news,%D including %B,subbed,Subbed off in Q3 for Magin
+293223,Seb,Tape,GC,4,38,66,48,30,42,4,6,2,2,0,0,0,0,0, Full Time,job,Following Brett Ebert... %P and %M with %T,,
+250716,Matthew,Warnock,GC,3,35,61,42,32,45,5,8,2,0,0,1,1,0,0, Full Time,job,On Schulz... %O,,
+290520,Alik,Magin,GC,1,20,13,26,15,21,3,2,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Hunt,sub,Started as a sub
+261911,Brad,Ebert,PA,32,124,96,80,92,128,20,9,2,7,1,1,1,2,1, Full Time,hot,%2 Horsley... %D and %T plus %s,,
+271078,Matthew,Broadbent,PA,33,119,153,88,91,121,16,9,5,6,1,1,0,2,0, Full Time,hot,%P and %T,,
+250063,Danyle,Pearce,PA,26,107,142,65,83,115,18,10,4,4,0,1,1,1,1, Full Time,hot,%O and %M plus %T and %s,,
+250365,Travis,Boak,PA,26,99,138,55,85,114,16,12,4,0,0,0,1,3,0, Full Time,tagged,Tagged by Wilkinson... %P and %M plus %s,,
+230195,Jay,Schulz,PA,21,96,96,78,74,92,12,2,8,5,0,1,0,1,5, Full Time,news,%s from %D and %M on Warnock... also %T,,
+280013,Jackson,Trengove,PA,31,95,113,83,75,102,10,10,6,6,0,0,1,1,0, Full Time,news,%P and %M plus %T and %s,job,Standing Day
+210020,Kane,Cornes,PA,17,93,102,73,79,105,10,14,4,3,0,2,1,2,0, Full Time,news,%D and %M plus %T and %s,tagger,Tagging Ablett jnr
+261892,Hamish,Hartlett,PA,19,89,91,78,72,99,9,13,6,5,0,1,1,0,0, Full Time,news,%2 Rischitelli... %P and %T,,
+271128,John,McCarthy,PA,19,74,84,54,58,82,10,9,2,4,0,0,1,1,1, Full Time,news,%O and %T,,
+250308,Brent,Renouf,PA,27,73,77,73,71,81,2,6,4,1,42,0,1,0,0, Full Time,news,%H and %P,,
+1230242,Brett,Ebert,PA,12,70,73,56,56,72,8,5,4,3,0,0,0,2,0, Full Time,news,%s from %O and %M on Tape... also %T,,
+260750,Justin,Westhoff,PA,11,68,64,39,56,72,12,2,5,1,5,0,1,1,1, Full Time,news,%D and %M on Taylor,,
+290802,Ben,Jacobs,PA,9,62,66,47,55,78,7,14,4,1,0,0,1,0,0, Full Time,news,%P including %B,,
+291962,Chad,Wingard,PA,14,62,65,56,44,63,6,8,0,6,1,1,0,0,2, Full Time,news,%P and %T,,
+240180,Troy,Chaplin,PA,8,59,85,36,47,63,10,5,5,1,0,0,0,0,0, Full Time,sore,%O... left shoulder knock in a clash with Day in Q2,job,Responsible for Brown
+240385,Matt,Thomas,PA,8,58,54,52,49,67,5,11,3,3,1,2,1,0,0, Full Time,news,%D,,
+270779,Paul,Stewart,PA,4,46,23,41,35,45,5,3,4,3,0,1,0,0,0, Full Time,news,On in Q3 for his brother Daniel Stewart,sub,Started as a sub
+210043,Domenic,Cassisi,PA,7,45,64,29,36,54,7,8,1,2,0,0,1,0,0, Full Time,news,Matched up on Prestia on a HBF... %B among %D with %T,,
+240074,Jacob,Surjan,PA,3,45,33,26,35,48,8,4,3,1,0,0,0,0,0, Full Time,news,%O,harley,Chasing Bennell
+260201,Daniel,Stewart,PA,8,35,38,33,26,32,3,0,1,3,5,0,0,1,0, Full Time,news,%P on Thompson... also %H,subbed,Subbed off in Q3 for his brother Paul Stewart
+250688,Alipate,Carlile,PA,3,31,41,26,28,39,3,7,2,1,0,1,1,0,0, Full Time,news,%D,job,On Lynch
+260511,Darren,Pfeiffer,PA,2,31,47,20,22,30,5,3,0,2,0,2,0,0,0, Full Time,pumpkin,Donuts in Q1... %D,job,Minding Stanley

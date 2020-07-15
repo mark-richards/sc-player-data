@@ -1,0 +1,48 @@
+Port Adelaide,Power,Adelaide,Crows,R4,14.14.98,9.12.66, Full Time
+Apr 16,2011,7:40,Footy Park,Fox Sports,210016,10310405,5480,30,Fine,22
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Sandi2Pav</em>: lost by 1 in the png&#044; he rose by 4<br><em title="RICK05">rick05</em>: 1910/17players<br><em>Sandi2Pav</em>: maric for the crab<br><em>lil_libba</em>: knights' sc is only low because there were so many free possies in the 4th<br><em>FlyinHigh</em>: nice work knights you hack<br><em>RoidRager</em>: Thanks&#044; mOnty my brother from another motha<br><em>Modd</em>: 1682/15 SC - very happy considering the $$ sitting on bench this week<br><em>whale</em>: 61 SC knights wtf <br><em>lil_libba</em>: knights still has money to make. just needs to turn the decent DT into a 90 sc<br><em>TheHanger</em>: B/E for DT for B Smith is -82&#044; and people were giving him shower haha<br><em>dyl_2</em>: in sc that is<br><em>lil_libba</em>: top shelf performance again from pittard<br>
+260750,Justin,Westhoff,PA,26,113,131,140,96,119,17,7,10,0,4,1,0,2,1, Full Time,medal,Booted %s from %O and %G on Luke Thompson... won the Showdown Medal,,
+250365,Travis,Boak,PA,24,107,99,139,84,114,15,11,7,5,0,2,1,0,0, Full Time,hot,%2 van Berlo... %D and %T with %M,,
+240180,Troy,Chaplin,PA,25,106,139,133,94,127,16,15,11,0,0,0,2,0,1, Full Time,hot,Henderson tried to keep him honest and failed... %O and %M plus %s and %F,,
+261892,Hamish,Hartlett,PA,19,96,83,123,76,102,10,12,7,5,0,1,0,0,0, Full Time,news,%P and %T with %M,,
+290156,Jasper,Pittard,PA,15,87,88,114,66,93,19,6,4,2,0,1,1,0,0, Full Time,cash,%D and %M with %T,job,Racked it up in designated kicker role across HB running off Jaensch
+200111,Dean,Brogan,PA,11,84,100,104,73,91,9,10,5,3,10,6,2,0,0, Full Time,news,%H and %P with %T,,
+230192,Steven,Salopek,PA,15,83,76,104,69,91,16,7,5,0,0,2,1,1,1, Full Time,news,%K among %D with %M,,
+230242,Brett,Ebert,PA,14,83,72,110,66,89,17,4,6,2,0,2,2,0,2, Full Time,news,At FF on Rutten which is a mismatch... %s from %D and %M plus %F,,
+220090,David,Rodan,PA,22,80,117,98,66,84,8,6,2,4,0,1,1,4,0, Full Time,x-factor,Tagged by Reilly... %P and %T with %M plus %s,,
+230124,Tom,Logan,PA,14,79,95,100,62,84,7,12,4,5,0,2,0,0,0, Full Time,job,On Knights... %D and %M with %T,,
+261396,Robbie,Gray,PA,12,73,80,89,62,76,7,7,5,2,0,2,0,2,1, Full Time,news,%s from %O and %M... also %T,,
+290540,Cameron,O'Shea,PA,15,70,70,89,56,72,10,5,5,2,0,1,0,1,0, Full Time,cash,Minimised the clangers which have been a feature of his 2011 game... %D and %M with %T and %s,,
+980059,Chad,Cornes,PA,15,67,69,88,54,73,11,4,4,3,1,1,2,1,0, Full Time,news,%2 Dangerfield in midfield... %O and %M with %T and %s,,
+210008,Daniel,Motlop,PA,11,62,64,81,49,67,11,2,2,3,0,0,2,2,1, Full Time,news,%s from %D with %M and %T on Otten,,
+240385,Matt,Thomas,PA,9,54,49,69,45,64,3,11,2,5,0,2,2,0,1, Full Time,tagger,Tagging Thomas... %P and %T with %M and %s,,
+280013,Jackson,Trengove,PA,9,54,60,65,50,69,4,12,3,2,6,1,2,0,0, Full Time,job,Minding McKernan with rotations in ruck... %P and %M with %T plus %H,,
+250688,Alipate,Carlile,PA,4,51,88,69,40,54,11,2,3,2,0,3,2,0,0, Full Time,job,Standing the resting ruckman which is mostly Tippett... %M and %O plus %T,,
+230173,Michael,Pettigrew,PA,4,45,63,61,33,42,6,1,4,3,0,1,0,0,0, Full Time,job,Has Walker... %P and %M with %T,,
+271078,Matthew,Broadbent,PA,4,44,52,58,36,54,8,6,2,2,0,0,2,0,0, Full Time,news,%P and %T,,
+240074,Jacob,Surjan,PA,10,43,42,55,39,52,6,4,4,1,0,0,2,1,1, Full Time,tagger,Forward tag on Johncock... %M and %D plus %s,subbed,Subbed off in Q3 for Hitchcock
+270779,Paul,Stewart,PA,3,41,35,53,34,45,7,4,3,1,0,2,1,0,0, Full Time,tagger,Tagging Vince... %D and %M,sore,Had a leg strapped up in Q2 after a knock
+281375,Cameron,Hitchcock,PA,2,28,23,37,22,33,4,4,1,2,0,0,1,0,0, Full Time,news,On in Q3 for Surjan,sub,Started as a sub
+210016,Scott,Thompson,AD,61,141,120,121,109,154,16,16,6,11,0,1,3,1,1, Full Time,gun,%O and %M with %T plus %s... tore it up in Q1 and went on with it,,
+230215,Brad,Symes,AD,25,122,107,96,97,129,15,14,9,5,0,2,0,0,0, Full Time,hot,%P and %M with %T,,
+250118,Nathan,van Berlo,AD,25,112,122,83,89,119,15,12,8,4,0,1,0,0,2, Full Time,hot,%2 Boak... %D and %T with %M and %s,,
+220086,Brent,Reilly,AD,25,107,95,82,80,111,15,9,6,7,0,1,1,0,0, Full Time,hot,%D and %T with %M,tagger,Tagging Rodan
+220093,Ben,Rutten,AD,20,101,111,93,92,120,7,22,9,2,0,4,1,0,0, Full Time,hot,%O and %M with %T,job,At FB on Ebert
+240032,Chris,Knights,AD,20,90,62,79,73,96,9,11,8,4,0,1,0,0,0, Full Time,news,%D and %M with %T on Logan,,
+270296,Andy,Otten,AD,10,87,77,52,68,93,15,9,4,3,0,3,1,0,0, Full Time,job,In defence on Motlop... %D including %k by foot.. also %M and %T,,
+291748,Brodie,Smith,AD,10,87,74,56,67,93,14,9,5,3,0,0,0,0,0, Full Time,cash,Playing in defence... %D and %T with %M,garbage,Racked it up in Q4 junk time
+270742,Kurt,Tippett,AD,22,78,70,57,76,97,12,2,11,2,9,2,7,1,1, Full Time,news,Started in ruck... %H and %D with %M... also %s when up forward on Carlie,,
+240370,Richard,Douglas,AD,18,75,90,41,61,79,14,3,6,1,0,1,1,1,1, Full Time,news,%D and %M plus %s,,
+280281,Brodie,Martin,AD,13,66,76,63,57,78,5,12,6,3,0,0,1,0,0, Full Time,news,%O and %M plus %T,,
+210056,Graham,Johncock,AD,8,60,75,30,48,69,12,7,2,2,0,2,2,0,0, Full Time,tagged,Forward tag on him by Surjan... %O and %T,,
+261142,Bernie,Vince,AD,14,59,67,39,52,73,9,8,3,2,1,1,3,1,0, Full Time,tagged,Tagged by Paul Stewart... %D and %M with %T and %F... also %s in junk time,,
+270917,Patrick,Dangerfield,AD,8,59,60,42,51,69,8,9,5,1,0,1,1,0,0, Full Time,news,%2 Chad Cornes in midfield... %O and %M,,
+291201,Ricky,Henderson,AD,9,59,57,57,44,61,5,7,3,5,0,0,0,0,1, Full Time,news,Trying to keep Chaplin honest... %s from %P and %M with %T,,
+280038,Shaun,McKernan,AD,12,58,56,38,56,71,8,5,4,0,12,1,3,1,2, Full Time,cash,%s from %D and %G on Trengove... also %H is a surprisingly high amount of ruck work,,
+280506,Taylor,Walker,AD,11,54,51,46,51,64,5,6,5,1,0,1,2,2,1, Full Time,news,Booted %s from %G and %D on Pettigrew,,
+261351,Matthew,Jaensch,AD,10,49,48,33,41,57,8,4,2,3,0,2,3,1,0, Full Time,switch,%s from %D with %T up forward on Pittard.. shifted back in Q3,,
+280949,Luke,Thompson,AD,8,45,73,37,34,45,5,4,1,3,0,1,0,1,0, Full Time,rookie,%P and %T plus %s,job,At CHB on Westhoff
+270964,Myke,Cook,AD,3,34,42,36,29,42,1,10,1,2,0,0,0,0,0, Full Time,news,%P and %T,,
+261384,Matthew,Wright,AD,2,27,25,22,24,33,3,5,2,1,0,1,1,0,0, Full Time,news,On in Q3 for Maric... %P,sub,Started as a sub
+240546,Ivan,Maric,AD,7,26,43,34,20,28,0,3,0,4,7,0,1,0,0, Full Time,news,%H and %P with %T,subbed,Subbed off in Q3 for Wright

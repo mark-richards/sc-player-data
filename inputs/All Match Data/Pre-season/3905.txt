@@ -1,0 +1,47 @@
+Collingwood,Magpies,Western Sydney,Giants,W1,11.18.84,9.21.75, Full Time
+Feb 18,2012,9.25,Blacktown,Fox Footy,,10330106,,6,Fine,22,,
+
+<em style='margin-bottom:-2px'><b class="ticon tCO"></b> mabo</em>: Lol swanny thought we lost<br><em>port4spoon</em>: great game izzy<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> CatAttack9</em>: damn<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> CatAttack9</em>: cmon giants get up!<br><em>FordyHawks</em>: oooh&#044; Pies got lucky there<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Billyho</em>: good night all<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Billyho</em>: celgar and witts are rucks<br><em>Dangeroo</em>: ceglar instead of sinclair :O<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Billyho</em>: pies have got it i think<br><em>Dangeroo</em>: subs were phillips&#044; hartley sinclair and the other i forgot :O<br><em>port4spoon</em>: wheres the work from home moms gone<br><em>Torpedo10</em>: yeah&#044; not scoring. :P<br>
+240359,Dale,Thomas,CO,18,71,-,89,60,75,9,6,7,1,0,1,0,1,0, Full Time,news,%P and %M plus %s,,,98
+220005,Luke,Ball,CO,10,51,-,66,41,54,6,4,3,3,0,1,1,1,0, Full Time,news,First goal... %P and %M with %T and %s,,,82
+240700,Heath,Shaw,CO,3,43,-,56,35,45,6,3,5,1,0,0,0,0,0, Full Time,news,%D and %M,,,100
+292504,Seamus,McNamara,CO,3,39,-,51,29,39,6,3,2,2,0,1,0,0,0, Full Time,usa,%D and %M plus %T,job,In defence on Cooyou,100
+280965,Steele,Sidebottom,CO,4,38,-,48,30,42,4,6,2,2,0,0,0,0,0, Full Time,news,%O and %M with %T,,,91
+260246,Tyson,Goldsack,CO,3,36,-,48,28,40,6,3,2,2,0,0,1,0,1, Full Time,news,%D and %T plus %s,,,75
+294826,Tom,Young,CO,8,36,-,46,31,40,5,2,3,1,0,0,1,1,1, Full Time,news,Showed a lot of Robinson-style chaos grunt... %s from %D and %M,,,41
+291883,Peter,Yagmoor,CO,3,34,-,45,27,33,5,1,4,1,0,1,0,0,0, Full Time,,,,,100
+290821,Alex,Fasolo,CO,2,23,-,28,22,31,3,5,2,0,0,0,1,0,1, Full Time,news,%s from %D and %M,,,88
+220105,Dane,Swan,CO,1,21,-,24,19,27,2,6,1,0,0,0,0,0,0, Full Time,news,%O with %b by hand,,,93
+291811,Jackson,Paine,CO,6,19,-,23,16,19,3,0,1,0,0,0,0,1,1, Full Time,,,,,97
+291975,Jarrod,Witts,CO,2,19,-,26,16,23,3,2,0,2,2,2,2,0,0, Full Time,,,,,95
+240419,Alan,Toovey,CO,1,18,-,24,15,21,5,1,1,0,0,1,1,0,0, Full Time,news,%P with %k by foot,,,100
+291327,Jonathan,Ceglar,CO,6,17,-,19,15,18,2,1,0,0,3,0,0,1,0, Full Time,news,%H and %P,,,89
+250683,Simon,Buckley,CO,1,13,-,16,13,18,2,3,1,0,0,1,1,0,0, Full Time,news,%D,,,87
+295296,Marley,Williams,CO,0,10,-,12,8,12,0,3,0,1,0,0,0,0,0, Full Time,,,,,74
+260394,Chris,Dawes,CO,0,9,-,11,8,10,1,1,1,0,1,0,0,0,0, Full Time,news,Well held by Davis to just the %P,,,100
+291386,Ben,Sinclair,CO,0,8,-,11,7,12,3,1,0,0,0,0,1,0,0, Full Time,news,%P,,,87
+290314,Lachlan,Keeffe,CO,0,5,-,7,6,9,1,1,1,0,0,0,1,0,0, Full Time,news,%O,,,88
+294077,Michael,Hartley,CO,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,,,,,50
+294733,Paul,Seedsman,CO,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,19
+296732,Caolan,Mooney,CO,0,0,-,2,2,6,0,1,0,1,0,0,2,0,0, Full Time,,,,,47
+261841,Jonathan,Giles,WS,8,44,-,51,38,44,4,4,1,1,8,3,0,1,0, Full Time,news,%H and %D plus %s,,,100
+291802,Tomas,Bugg,WS,8,36,-,45,30,42,6,4,1,1,0,0,1,1,0, Full Time,news,%D and %s,,,100
+290671,Anthony,Miles,WS,2,35,-,47,24,33,7,1,1,2,0,1,0,0,0, Full Time,news,%P and %T,,,83
+294283,Rhys,Cooyou,WS,8,35,-,44,30,37,7,1,2,0,0,2,1,1,1, Full Time,news,%s from %D and %G on McNamara,,,89
+3,Dom,Tyson,WS,7,35,-,42,28,36,5,4,0,1,0,2,0,1,0, Full Time,news,%P and %s,,,92
+8,Adam,Tomlinson,WS,8,34,-,43,27,33,5,1,2,1,0,1,0,1,0, Full Time,news,%s from %D and %G at CHF,,,90
+2,Stephen,Coniglio,WS,1,28,-,36,21,28,5,2,1,1,0,1,0,0,1, Full Time,news,%P and %s,,,81
+280804,Phil,Davis,WS,2,24,-,30,20,27,4,3,2,0,0,0,0,0,0, Full Time,job,Standing Dawes... %M and %O,,,100
+293845,Jeremy,Cameron,WS,2,24,-,32,19,24,5,0,3,0,0,0,0,0,0, Full Time,news,%P and %M,,,66
+291492,Josh,Bruce,WS,1,21,-,28,14,21,5,1,0,1,0,0,0,0,0, Full Time,news,%O with %k by foot,,,100
+291928,Gerald,Ugle,WS,1,21,-,27,15,21,4,2,0,1,0,1,0,0,0, Full Time,news,On late in Q2... %O,sub,Started as a sub,34
+24,Shaun,Edwards,WS,1,20,-,27,14,18,2,1,1,2,0,1,0,0,0, Full Time,news,%O and %T,,,91
+9,Liam,Sumner,WS,0,17,-,23,12,15,3,0,1,1,0,1,0,0,0, Full Time,news,%K among %P,,,93
+13,Devon,Smith,WS,1,16,-,20,12,18,2,3,0,1,0,0,0,0,0, Full Time,news,%B among %D,,,68
+30,Mark,Whiley,WS,0,16,-,21,12,15,2,1,1,1,0,1,0,0,0, Full Time,news,%P,,,90
+7,Nick,Haynes,WS,0,16,-,20,13,18,1,3,1,1,0,0,0,0,0, Full Time,news,%D,,,97
+17,Tim,Mohr,WS,0,15,-,20,11,15,2,1,1,1,0,0,0,0,0, Full Time,job,Better than his shocker in the first game... had Paine... %P,,,100
+291891,Jacob,Townsend,WS,0,11,-,16,8,12,3,0,0,1,0,1,1,0,0, Full Time,news,%P including %K,,,88
+25,Tim,Golds,WS,1,10,-,14,6,9,0,1,0,2,0,0,0,0,0, Full Time,news,%T,,,73
+294068,Andrew,Phillips,WS,0,3,-,3,3,4,0,1,0,0,1,0,0,0,0, Full Time,news,%O,,,18
+15,Israel,Folau,WS,0,-3,-,-3,-1,0,0,0,0,0,0,0,1,0,0, Full Time,news,Did not touch the ball and gave away a FA,,,91

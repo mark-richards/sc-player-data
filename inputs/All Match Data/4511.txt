@@ -1,0 +1,48 @@
+Gold Coast,Suns,Adelaide,Crows,R14,11.17.83,16.15.111, Full Time
+Jun 29,2013,1.40,Gold Coast,Seven,270938,10391403,gcfc-v-adel,0,Showers,19,,
+
+<em>3rdstriker</em>: bin on crouch is harsh&#044; was in the action all day<br><em>gwsfevs</em>: Mudbatty<br><em>gwsfevs</em>: Battydog<br><em>ballbag</em>: laird found some cherries in the bin<br><em>gwsfevs</em>: Duddawg duddest dud on the site<br><em>MudDawg</em>: @gwsfevs&#044; make me.<br><em>footy is b</em>: david swallow is shower! he was better in his first year<br><em style='color:#a0a'>N_Riewoldt</em>: dayum 1 off png<br><em>therichone</em>: will cornes tag pendles? might have to back him in for a 130<br><em>NDiddy</em>: Laird beat his b/e by 1 $$'s ;)<br><em>gwsfevs</em>: Duddawg*<br><em>DoctorRush</em>: @xuft br=1<br>
+290627,Dion,Prestia,GC,43,157,151,196,127,172,24,18,7,4,0,2,1,2,1, Full Time,star,%D with %k by foot plus %M... also %T and %s... had a massive Q3,,,496700,128,507300,128,Centre,10,11,97.5,94.9,0.50,0.27
+220001,Gary,Ablett jnr,GC,26,109,115,133,88,122,13,17,1,5,0,2,1,2,2, Full Time,hot,First goal... tagged by van Berlo... %P and %T plus %s,,,610800,136,690000,118,Centre,9,12,123.1,138.3,61.70,60.43
+294613,Jaeger,O'Meara,GC,15,100,107,121,84,116,14,18,5,1,0,1,0,0,2, Full Time,hot,%2 Dangerfield for the most part... %P including %B with %M... also %s,,,408100,67,424600,52,Centre,1,12,88.8,90.9,48.42,48.00
+250249,Danny,Stanley,GC,19,99,98,124,81,111,12,15,7,3,0,0,0,0,0, Full Time,news,%B among %D with %M and %T,job,Running off Crouch,386100,98,415100,100,Back,25,8,79.3,77.6,0.81,0.27
+240254,Jarrod,Harbrow,GC,16,97,87,121,79,112,16,15,4,2,0,1,1,0,1, Full Time,news,%D and %M plus %T and %s,job,Running off Jaensch,382300,48,407100,60,Back,5,12,84.2,85.3,4.39,1.62
+290815,Thomas,Nicholls,GC,14,68,84,78,62,82,2,15,2,3,16,1,1,0,0, Full Time,cash,%H and %D with %M,,,189400,-68,217400,-83,Ruck,22,3,88.7,101.7,29.42,33.63
+290790,Matthew,Shaw,GC,9,65,59,82,52,72,9,9,4,2,0,0,0,0,0, Full Time,job,Responsible for Wright... %O and %M,,,318100,54,369500,55,Back,26,12,68.5,72.3,0.63,0.44
+296735,Aaron,Hall,GC,13,65,67,82,54,75,13,6,2,1,0,1,2,1,3, Full Time,news,%s from %P and %M on Smith... also %F,,,318400,33,336200,42,Forward,33,12,66.6,64.1,0.60,0.52
+220013,Campbell,Brown,GC,15,63,63,82,49,64,6,3,3,5,0,0,1,2,1, Full Time,news,%s from %D and %T on Brown... also %M,,,287500,60,340200,83,Forward,30,6,64.5,71.8,0.97,1.07
+290527,Trent,McKenzie,GC,5,63,93,83,47,63,10,4,4,3,0,1,0,0,0, Full Time,job,Started on Dangerfield but had a range of midfielders rotating through him... %P and %M plus %T,,,407600,52,462900,59,Back,18,8,90.5,97.3,3.03,2.07
+296940,Tim,Sumner,GC,8,62,47,80,50,65,10,4,6,1,0,0,0,0,2, Full Time,cash,%s from %O and %M,,,134400,-17,144100,-4,Forward,39,3,48,49,2.76,2.75
+281075,Rory,Thompson,GC,9,61,68,78,50,66,7,7,6,2,0,0,0,0,0, Full Time,news,%P and %M with %T,job,Standing Jenkins,270900,53,372400,54,Back,16,12,58.6,74.4,0.85,1.16
+261756,Greg,Broughton,GC,6,53,76,66,43,63,10,9,1,1,0,1,1,0,0, Full Time,news,%D,porpoise,Porplyzia is his man,357400,72,389900,90,Back Forward,36,8,70.3,73.8,2.67,2.68
+281024,Maverick,Weller,GC,8,51,54,64,42,60,5,10,2,3,0,1,1,0,0, Full Time,news,%O and %T with %M,,,271500,,286500,,Back,4,0,0,0,0.12,0.15
+281085,Steven,May,GC,10,48,56,58,42,51,4,4,4,1,0,0,0,2,0, Full Time,news,%s from %P and %M on Rutten,,,213100,51,283600,83,Back Forward,17,8,40.3,55.4,0.39,0.32
+250146,Thomas,Murphy,GC,3,46,63,61,34,45,6,3,3,3,0,1,0,0,0, Full Time,job,Following Lynch... %P and %$T with %M,,,296600,35,337200,49,Back,29,10,63.1,71.8,0.80,0.87
+290703,Joel,Wilkinson,GC,7,46,46,56,38,54,6,9,2,1,0,0,0,0,0, Full Time,job,Has Riley... %O,,,173800,62,238400,71,Back,38,7,37.7,53.9,0.64,1.87
+290832,David,Swallow,GC,7,45,53,57,37,54,8,7,2,1,0,0,1,0,0, Full Time,job,In defence on the resting midfielder... %O and %M,,,306400,50,352100,83,Centre,24,12,68.4,75.9,1.94,1.54
+291753,Sam,Day,GC,7,41,58,47,37,52,4,11,2,0,0,0,0,0,1, Full Time,news,%s from %D and %M starting forward on Talia,,,218200,17,283900,35,Forward,12,12,51.7,60.2,2.99,2.38
+291304,Daniel,Gorringe,GC,8,40,53,46,35,43,3,4,1,1,4,0,0,2,0, Full Time,sore,%H and %P... also %s... left shoulder knock in Q3,,,158300,14,173100,12,Ruck,15,3,51.3,48.7,5.82,4.02
+292512,Karmichael,Hunt,GC,1,18,15,26,13,19,1,1,1,3,0,0,1,0,1, Full Time,nz,Starting forward on Henderson... %s from %O and %T,subbed,Subbed off at 3QT for Boston,268900,57,291100,62,Centre,7,6,50.3,53.3,1.44,0.72
+294485,Andrew,Boston,GC,0,7,9,9,7,12,2,2,0,0,0,0,1,0,0, Full Time,rookie,First game... on after 3QT for Hunt,sub,Started as a sub,89300,,96200,,Centre,40,0,0,0,1.50,1.35
+294307,Brad,Crouch,AD,31,121,114,97,95,129,14,17,6,6,0,3,0,0,0, Full Time,garbage,%D and %T with %M starting on Stanley,cash,This supercharges his cash generation,218800,-20,211600,2,Centre,2,4,71.3,66,16.97,18.38
+270917,Patrick,Dangerfield,AD,30,116,141,83,92,122,16,11,7,4,1,1,0,1,1, Full Time,heart,Started forward on McKenzie but moved to midfield where he is mostly head to head with O'Meara... %P and %M plus %T and %s... rib knock in Q4,,,490300,111,594400,114,Centre,32,12,99.8,113.9,20.47,23.68
+293222,Rory,Laird,AD,24,108,90,61,89,117,19,10,10,0,0,1,0,0,0, Full Time,cherry,%D and %M... racked up possessions in late Q4 tempo junk time,,,301000,78,315300,88,Back,46,8,66.3,62.5,5.43,3.67
+291748,Brodie,Smith,AD,26,107,106,68,86,114,17,9,8,2,0,0,0,1,0, Full Time,hot,%P and %M plus %T and %s,job,Minding Hall,300500,71,344000,46,Back,33,8,62.4,72.8,0.36,0.66
+291201,Ricky,Henderson,AD,20,105,101,72,83,111,16,9,9,3,0,0,0,0,0, Full Time,hot,%D and %M with %T,job,Starting in defence on Hunt,289800,86,330300,113,Back Forward,45,7,61.3,65.1,1.66,0.92
+270811,Sam,Jacobs,AD,27,96,103,80,86,104,8,8,4,2,38,1,1,0,0, Full Time,news,%H and %P with %M and %T,,,344600,67,392500,75,Ruck,24,12,72.1,82.7,9.30,9.17
+294828,Josh,Jenkins,AD,21,93,101,69,77,95,12,4,8,2,3,0,0,2,2, Full Time,news,Booted %s from %D and %G on Thompson... %H and %T as well,,,311600,78,336600,94,Forward Ruck,4,12,68.9,72,6.70,5.75
+230174,Jason,Porplyzia,AD,20,89,116,70,77,98,10,9,7,2,0,1,1,2,2, Full Time,x-factor,%s from %O and %M on Broughton... %T as well,,,273500,20,265700,35,Forward,40,11,53.3,53.1,1.27,1.09
+240370,Richard,Douglas,AD,16,88,88,55,70,94,14,8,5,2,0,0,0,1,1, Full Time,news,%P and %M with %T and %s,,,502100,107,549900,161,Centre,26,12,102.8,107.3,1.71,0.80
+270938,Tom T.,Lynch,AD,20,88,92,68,73,94,11,6,7,3,0,0,1,2,1, Full Time,news,Kicked %s from %D and %M on Murphy... also %T,,,388500,70,361700,62,Forward,27,9,90.9,79.9,4.80,2.03
+250118,Nathan,van Berlo,AD,19,86,88,46,69,91,17,2,7,2,0,1,2,1,1, Full Time,news,%O and %M plus %T and %s... also %F,tagger,Tagging Ablett jnr,330300,92,332800,105,Centre,7,9,66.1,66.3,0.55,0.69
+261142,Bernie,Vince,AD,19,85,59,55,72,94,13,8,7,1,0,1,1,1,1, Full Time,news,%D and %M plus %s,,,409400,99,432800,122,Centre,17,11,79.8,77.3,0.63,0.58
+293193,Luke,Brown,AD,14,78,68,52,62,84,12,8,6,2,0,0,0,0,0, Full Time,cash,%M with %D and %T,job,Brown is his man,220600,30,243400,5,Back,16,11,46.7,51.5,4.44,5.59
+261384,Matthew,Wright,AD,20,72,78,47,63,78,9,7,2,0,0,1,0,4,0, Full Time,heart,On in Q1 for Reilly... %s from %O and %M on Shaw... corked left thigh in Q2 after a clash with Swallow,sub,Started as a sub,338300,110,370400,112,Forward Centre,11,9,70.4,72.2,1.23,0.89
+220093,Ben,Rutten,AD,13,71,49,55,58,76,9,7,7,2,0,0,0,0,1, Full Time,job,Standing May... %O and %M with %T,,,241800,29,282000,38,Back,25,12,52.8,60.5,1.98,2.33
+210016,Scott,Thompson,AD,10,70,69,49,60,85,10,11,5,2,0,0,2,0,1, Full Time,news,%B among %D with %M... %s as well,,,455000,112,480200,118,Centre,5,12,97.5,101.9,6.12,4.21
+270963,Rory,Sloane,AD,9,67,76,48,56,77,9,10,4,2,2,1,1,0,0, Full Time,news,%O and %M with %T...also %H,,,447200,103,524700,125,Centre,9,12,95.6,103.1,3.76,2.39
+280934,Daniel,Talia,AD,14,65,71,60,48,63,7,3,6,5,0,0,0,0,0, Full Time,job,Has Day... %O and %T with %M,,,231000,25,302900,38,Back,12,12,43.9,55.1,7.80,5.47
+270296,Andy,Otten,AD,8,58,74,38,47,63,9,6,5,1,0,0,0,0,0, Full Time,news,%P and %M,,,279200,68,343300,82,Back,22,12,61.4,75.3,1.86,3.40
+291402,Aidan,Riley,AD,9,44,63,29,42,57,6,8,3,0,0,1,2,1,0, Full Time,news,%s from %D and %M on Wilkinson,,,229800,,262200,,Centre,43,0,0,0,0.31,0.32
+261351,Matthew,Jaensch,AD,3,38,29,27,30,42,6,3,3,2,0,0,1,0,0, Full Time,news,%D and %M starting forward on Harbrow... also %T,,,344900,75,324500,92,Back,10,7,69.9,66.1,0.32,0.25
+220086,Brent,Reilly,AD,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Dislocated right shoulder very early in Q1,subbed,Subbed off in Q1 for Wright,323800,103,411300,120,Back,3,11,68.9,85.5,1.26,1.46

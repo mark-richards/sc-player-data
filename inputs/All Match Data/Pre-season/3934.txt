@@ -1,0 +1,61 @@
+West Coast,Eagles,St Kilda,Saints,W3,12.23.95,7.19.61, Full Time
+Mar 10,2012,8.10,Subiaco,Fox Footy,,10330308,,35,Sunny,38,,
+
+<em style='color:#e50000'>m0nty</em>: I don't have TOG stats&#044; you guys know that.<br><em>Jezro</em>: How much of the game did Weedon play?<br><em>KingPetrie</em>: wayne Carey is the 2nd best player to ever play the game&#044; behind leigh mattews<br><em>reddevil96</em>: How much time did God spend on the bench m0nty?<br><em>whatlez1</em>: You tell him Paul <br><em>whatlez1</em>: Swan if your getting randoms from chat&#044; it won't be a very successful league<br><em style='color:#e50000'>m0nty</em>: that's enough thanks swan<br><em>swan__007</em>: 490465 anyone is free to join it is supercoach league<br><em>reddevil96</em>: Dunno who came on Fox just told us they were done<br><em>WCarey18</em>: @Reddevil&#044; subbed for who?<br><em>whatlez1</em>: Hayes getting tackles as a sub<br><em>WCarey18</em>: @Kangas&#044; didn't know that...thought they were regulation sized quarters....<br>
+270928,Scott,Selwood,WC,32,120,-,155,94,124,12,11,9,7,0,0,0,1,1, Full Time,hot,%D and %T with %M and %s,tagger,Tagging Montagna,92
+200112,Dean,Cox,WC,27,111,-,139,90,108,13,3,7,4,13,2,0,2,2, Full Time,hot,%P and %M with %T... also %H plus %s... red-vested in Q4,,,81
+261290,Chris,Masten,WC,43,96,-,128,69,96,9,10,3,10,0,3,1,0,0, Full Time,news,%2 Hayes... %O and %T with %M... started Q3 as a sub,,,75
+240016,Beau,Waters,WC,19,90,-,116,70,94,10,10,6,5,0,1,0,0,1, Full Time,news,%D and %T plus %M,job,Responsible for Siposs,78
+260546,Bradd,Dalziell,WC,20,83,-,111,60,81,9,6,5,7,0,1,0,0,0, Full Time,news,%P and %M with %T,,,85
+290838,Jack,Darling,WC,19,78,-,97,67,83,9,7,8,1,0,1,0,1,2, Full Time,news,%s from %G and %P on Gilbert including a supergoal,,,92
+280441,Patrick,McGinnity,WC,12,71,-,89,57,72,10,4,4,2,0,1,0,2,0, Full Time,news,%P and %M with %T and %s,,,85
+280324,Jacob,Brennan,WC,13,69,-,91,49,66,10,5,2,5,0,3,0,0,0, Full Time,news,Skulked around halfback manning up various Saint small forwards... %D and %M plus %T,,,91
+250111,Matt,Rosa,WC,18,68,-,86,56,72,10,5,6,1,0,0,0,1,0, Full Time,news,%P and %M plus %s,,,66
+240124,Matt,Priddis,WC,12,64,-,82,47,69,7,10,1,5,0,0,0,0,0, Full Time,news,Spent Q1 as a sub... %O and %T,,,64
+271045,Nic,Naitanui,WC,11,63,-,77,56,67,5,5,5,2,15,2,1,0,1, Full Time,fiji,%H and %P with %M and %T... also %s,,,71
+261209,Josh,Hill,WC,11,58,-,75,46,55,6,0,5,3,0,0,0,2,1, Full Time,news,%s from %P and %M on Cripps... also %T... started Q3 as a sub,,,66
+210018,Daniel,Kerr,WC,12,51,-,60,45,63,8,10,1,0,0,1,1,1,0, Full Time,tagged,Tagged by Jones.... %D and %s... red-vested in Q4,,,69
+280946,Koby,Stevens,WC,10,51,-,61,43,57,4,9,2,2,0,1,0,1,0, Full Time,news,Spent Q1 as a sub... %P and %M plus %T and %s,,,66
+230254,Adam,Selwood,WC,3,41,-,52,30,43,7,5,0,2,1,1,0,0,0, Full Time,news,Spent Q1 as a sub... %O and %T,,,63
+230281,Mark,Nicoski,WC,7,41,-,56,27,37,6,1,1,4,0,1,0,0,1, Full Time,news,%s from %D and %T on Geary,,,74
+261214,Will,Schofield,WC,3,38,-,51,32,42,8,1,5,0,0,0,1,0,0, Full Time,job,On Koschitzke... %M and %O,,,87
+240159,Sam,Butler,WC,3,35,-,47,25,33,6,1,2,2,0,1,0,0,0, Full Time,job,Chasing Milne... %P and %M with %T,,,41
+290932,Gerrick,Weedon,WC,3,33,-,41,29,39,6,4,2,0,0,1,1,0,3, Full Time,news,On in Q3... %s from %D and %M,sub,Started as a sub,49
+280379,Lewis,Stevenson,WC,2,32,-,41,25,33,5,3,2,1,0,1,0,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,53
+271073,Thomas,Swift,WC,2,31,-,39,28,39,3,6,3,1,0,0,1,0,0, Full Time,news,%2 Steven... %D and %M... started Q3 as a sub,,,58
+023861,Fraser,McInnes,WC,2,23,-,31,17,22,2,1,2,2,1,0,0,0,0, Full Time,,,,,60
+270953,Ashley,Smith,WC,1,20,-,26,15,21,5,1,1,0,0,0,0,0,0, Full Time,news,Spent Q1 as a sub... %D,,,70
+294147,Anton,Hamp,WC,0,16,-,22,13,18,3,1,1,1,0,1,1,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,51
+281080,Brad,Sheppard,WC,1,13,-,19,10,15,1,1,1,2,0,0,1,0,0, Full Time,job,Chasing Peake... %O and %T,subbed,Subbed off at HT,17
+250317,Eric,Mackenzie,WC,0,12,-,16,10,15,2,2,0,1,0,1,1,0,0, Full Time,injured,Has Riewoldt... %P... KOed and fell on his face in a contest in Q3 with Stanley where the ball was kicked right into his mush,subbed,Subbed off in Q3,47
+290833,Blayne,Wilson,WC,0,4,-,7,3,6,1,0,0,1,0,0,1,0,0, Full Time,job,Standing Stanley... %D,subbed,Subbed off at HT,47
+250034,Ashton,Hams,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+280994,Ryan,Neates,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+220098,Adam,Schneider,SK,15,74,-,90,63,80,11,6,5,0,0,0,0,2,2, Full Time,news,First goal... %s from %D and %M,,,70
+220075,Leigh,Montagna,SK,12,58,-,73,48,69,12,7,1,1,0,1,2,1,0, Full Time,tagged,Tagged by Scott Selwood... %P,,,93
+200108,Stephen,Milne,SK,13,57,-,68,48,64,9,7,2,0,0,0,0,1,4, Full Time,news,%s from %D on Butler,,,99
+220023,Nick,Dal Santo,SK,9,56,-,73,41,58,7,6,2,4,0,0,0,0,1, Full Time,news,%P and %T plus %s,,,79
+230084,Brendon,Goddard,SK,5,56,-,75,47,63,9,5,4,3,0,4,3,0,0, Full Time,tog,Spent much of the day on the bench... %O and %M with %T and %F,,,85
+261743,Clinton,Jones,SK,9,55,-,73,39,54,8,4,2,4,0,1,0,0,0, Full Time,tagger,Tagging Kerr... %O,,,84
+990028,Lenny,Hayes,SK,8,55,-,70,40,55,7,7,0,4,1,3,0,0,0, Full Time,news,%2 Masten... %D and %T,,,80
+210002,Justin,Koschitzke,SK,9,54,-,73,41,55,7,2,4,4,4,0,1,0,0, Full Time,news,%P and %G on Schofield,,,92
+290826,Jamie,Cripps,SK,9,52,-,70,40,57,8,5,2,4,0,2,2,0,0, Full Time,job,Sitting on Hill... %D and %T,,,84
+280317,Rhys,Stanley,SK,10,51,-,60,47,58,6,5,3,0,9,1,1,1,1, Full Time,news,%s from %D on Wilson... also %H,,,95
+280053,Tom,Simpkin,SK,5,50,-,66,40,54,8,4,4,2,0,1,1,0,0, Full Time,job,Standing McInnes... %P and %T... started Q3 as a sub but back on later in the quarter,,,98
+293815,Arryn,Siposs,SK,9,48,-,58,41,52,7,5,3,0,0,1,0,1,1, Full Time,news,%P on Waters... started Q3 as a sub,,,58
+240708,Sam,Fisher,SK,4,44,-,58,35,45,9,1,5,0,0,0,0,0,0, Full Time,news,%D and %M... subbed off in Q3,,,65
+210001,Nick,Riewoldt,SK,3,40,-,52,32,39,6,2,4,1,0,2,0,0,0, Full Time,news,%P and %M on Mackenzie... subbed off at 3QT,,,70
+250134,Sam,Gilbert,SK,3,37,-,48,29,39,4,4,3,2,0,0,0,0,0, Full Time,job,Busy with Darling... %O and %T with %M... subbed off in Q3,,,71
+240062,Farren,Ray,SK,3,36,-,47,29,42,3,6,2,3,0,0,1,0,0, Full Time,news,Spent Q1 as a sub... %D,,,53
+261323,Ben,McEvoy,SK,3,35,-,44,30,37,5,2,4,0,4,0,0,0,0, Full Time,news,%H and %P with %M,subbed,Subbed off at HT,40
+294198,Tom,Ledger,SK,8,34,-,42,30,45,8,5,0,0,0,0,2,1,0, Full Time,news,Spent Q1 as a sub... %s from %P,,,62
+240701,Brett,Peake,SK,2,27,-,37,20,30,3,3,1,3,0,0,1,0,0, Full Time,concussed,%P and %T on Sheppard... copped Weedon's hip to the head in Q3 and was groggy,,,66
+250340,David,Armitage,SK,6,26,-,35,17,24,1,3,0,4,0,1,0,0,0, Full Time,news,Spent Q1 as a sub... %P,,,46
+220034,Jason,Gram,SK,2,24,-,30,20,27,4,3,2,0,0,0,0,0,0, Full Time,news,Spent Q1 as a sub... %O and %M,,,53
+200068,Jason,Blake,SK,1,20,-,22,18,26,0,7,0,1,2,0,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,34
+230243,Sean,Dempster,SK,1,16,-,24,14,21,4,0,2,1,0,0,2,0,0, Full Time,news,%P,subbed,Subbed off at HT,47
+260113,Jarryn,Geary,SK,1,16,-,20,12,18,0,4,0,2,0,0,0,0,0, Full Time,job,Minding Nicoski... %P and %T,subbed,Subbed off at HT,47
+290456,Nicholas,Winmar,SK,0,14,-,18,10,15,2,2,0,1,0,0,0,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,27
+250036,Beau,Wilkes,SK,0,10,-,15,8,12,2,0,1,1,0,0,1,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,53
+270912,Jack,Steven,SK,0,10,-,13,9,15,1,3,0,1,0,0,1,0,0, Full Time,news,%2 Swift... %D,subbed,Subbed off at HT,26
+270766,Terry,Milera,SK,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

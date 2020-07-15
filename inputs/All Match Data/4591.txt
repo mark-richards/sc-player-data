@@ -1,0 +1,48 @@
+St Kilda,Saints,Fremantle,Dockers,R23,16.16.112,6.5.41, Full Time
+Aug 31,2013,1.45,Docklands,Seven,270912,10392302,stk-v-fre,0,Sunny,23,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> Howdoyoudo</em>: @Jefftee a good season? we've had a horrible season luckwise but i agree with those results! go roos!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> tomzoy</em>: m0nty you sir re a wan.ker<br><em style='color:#000' title="SIXXSIXX6">sixxsixx6</em>: Poor form to spud Kozi. Fat ranga virgin humor i guess <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tSK"></b> jimmytigs</em>: creepy crowley was thinking about his 12 mates back home on the beach when he does it harder than all every week<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> jefftee</em>: all i need is carlton and brisbane to lose and hopefully north beat collingwood for an end to a great season<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> Mash</em>: no sc tons for freo<br><em style='color:#000'>Roonstar1</em>: take the spud off kozi&#044; that is dog<br><em style='color:#000'>m_zulian</em>: make than 94 possies<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> Hawkatack</em>: @newfreofan over 204 would suffice&#044; over the 204?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tME"></b> J.Bartel</em>: never saw crowley near steven outside the first quarter<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWB"></b> MudDawg</em>: Suffer in your jocks&#044; Ross Lying.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> dane swine</em>: fair call m0nty&#044; he has earned that spud<br>
+220075,Leigh,Montagna,SK,51,189,165,241,149,198,34,13,12,3,0,1,0,2,0, Full Time,star,%O and %M plus %s,,,506800,107,569100,119,Centre,11,20,108,112.3,6.34,1.59
+270912,Jack,Steven,SK,48,148,157,179,125,177,17,30,6,4,0,0,1,1,0, Full Time,hulk,%O including %B with %T and %M... also %s,creepy,Tagged by Crowley,467600,90,544200,103,Centre,3,21,95.9,107.7,1.82,1.92
+260113,Jarryn,Geary,SK,21,123,121,156,98,135,19,15,8,3,0,0,0,0,0, Full Time,hot,%D and %M with %T,job,Running off Crozier,333000,6,393100,20,Back,14,20,68.2,77.8,2.00,2.36
+261743,Clinton,Jones,SK,30,121,120,150,99,138,14,21,7,4,0,0,0,0,0, Full Time,hot,%P and %M,,,317100,78,346200,77,Centre,4,18,75.1,79.2,0.30,0.38
+210001,Nick,Riewoldt,SK,28,120,107,153,101,127,15,8,12,3,1,1,1,2,0, Full Time,hot,%s from %D and %M on Silvagni... also %T,,,461200,44,485100,53,Forward,12,20,102.3,105.1,23.40,10.58
+230243,Sean,Dempster,SK,24,106,106,135,90,120,18,11,11,0,0,0,1,0,0, Full Time,hot,%P with %b by hand... also %M,,,314700,30,355000,56,Back,24,18,63.9,69.4,0.62,0.59
+220023,Nick,Dal Santo,SK,15,100,133,122,85,117,17,17,5,0,0,3,1,0,0, Full Time,hot,%O and %M,job,Zoning off Mellington,431600,100,495300,121,Centre,26,21,87.9,95.8,1.70,2.12
+291518,Thomas,Curren,SK,21,100,128,126,81,110,15,11,5,3,0,1,1,1,2, Full Time,hot,%s from %O and %M on Danyle Pearce,,,251300,-16,280400,-11,Centre,43,6,60,65.3,1.78,1.34
+294198,Tom,Ledger,SK,27,96,87,119,77,105,7,16,4,6,0,1,0,1,0, Full Time,news,%P and %T plus %s,,,208700,,242100,,Centre,15,1,48,29,0.26,0.22
+200108,Stephen,Milne,SK,21,95,71,120,82,105,15,6,8,1,0,1,2,2,3, Full Time,news,%O and %M on Crichton... %F as well,,,231800,41,235700,42,Forward,44,16,52.3,53.8,0.95,1.16
+240062,Farren,Ray,SK,19,92,84,118,72,99,16,9,6,2,0,0,0,0,0, Full Time,news,%O,,,413700,113,424200,79,Centre,22,18,82.2,79.3,0.44,0.40
+250134,Sam,Gilbert,SK,19,91,92,119,76,99,15,6,11,1,0,0,1,0,0, Full Time,news,%D and %M,job,Following Pavlich,302700,38,356700,46,Back,19,8,67.6,77.8,0.54,0.62
+990028,Lenny,Hayes,SK,16,89,95,109,73,99,10,14,4,3,0,1,0,1,0, Full Time,news,%D and %T plus %s,,,393200,102,452000,115,Centre,7,13,86.6,90.9,0.66,0.77
+293846,Sebastian,Ross,SK,26,85,95,104,68,96,5,17,2,6,0,0,0,1,0, Full Time,news,%s from %D and %T on Duffield,,,235600,59,235300,31,Centre,6,12,53.9,51.6,0.77,0.57
+290422,Tom,Lee,SK,21,78,91,97,66,79,6,4,7,3,0,0,0,3,1, Full Time,news,First goal... %s from %P and %G on Faulks... %T as well,,,230500,82,283400,100,Forward,9,9,49.3,57.7,12.09,13.57
+261323,Ben,McEvoy,SK,16,76,89,93,68,84,8,6,7,1,12,0,1,1,0, Full Time,news,%H and %P,,,300600,73,378300,110,Ruck,5,21,75.7,93.5,3.40,6.15
+200068,Jason,Blake,SK,19,74,97,90,69,91,9,12,7,0,0,1,2,1,1, Full Time,job,Standing Hannath... %P and %M... plus %s late in Q4,,,257900,71,335700,99,Back,27,6,49.3,62.2,0.16,0.18
+220098,Adam,Schneider,SK,8,65,58,83,51,68,12,5,4,1,0,1,0,0,2, Full Time,news,%D and %M plus %s,,,338200,60,350100,35,Forward,13,4,68.5,68.8,0.20,0.19
+250340,David,Armitage,SK,9,62,67,76,53,75,7,13,3,2,0,1,1,0,0, Full Time,tagged,Tagged by de Boer... %O and %M,,,398100,98,445800,86,Centre,20,20,88.7,93.7,0.68,1.03
+280933,Dylan,Roberton,SK,5,51,43,63,44,57,3,9,5,2,0,1,0,0,0, Full Time,injured,On Taberner... %P and %M... right ankle injury in Q3,subbed,Subbed off in Q3 for Koschitzke,298000,47,339600,52,Back,17,19,66.9,76.7,3.21,4.72
+294266,Tom,Hickey,SK,3,36,41,40,35,43,1,7,3,0,9,0,0,0,1, Full Time,news,%s from %P and %M starting forward on Forster... also %H,,,261100,16,301300,4,Ruck,1,11,53.6,59.6,1.04,0.98
+210002,Justin,Koschitzke,SK,7,35,18,46,34,43,5,2,6,0,0,0,2,0,4, Full Time,spud,His 200th and last game... on in Q3 for Roberton... %s from %P and %G... also %F,sub,Started as a sub,236000,88,286700,92,Forward,23,4,39.3,46.3,0.41,0.28
+230048,Ryan,Crowley,FR,20,104,89,71,85,114,15,13,8,2,0,1,0,0,0, Full Time,hot,%P and %M,tagger,Tagging Steven,299300,37,307900,48,Centre,15,21,56.5,57,1.48,1.60
+271015,Matthew,de Boer,FR,24,79,73,69,57,78,8,9,0,7,0,3,0,1,0, Full Time,news,%D and %T plus %s,tagger,Tagging Armitage,351800,65,385600,94,Forward Centre,9,21,76.5,75.6,1.78,1.42
+290733,Cameron,Sutcliffe,FR,10,76,84,47,59,81,13,7,4,3,0,2,1,0,0, Full Time,news,%P and %T,,,195700,46,214000,32,Centre,33,15,45.6,45.2,0.56,0.38
+290296,Jesse,Crichton,FR,14,75,90,60,55,75,10,5,5,5,0,0,0,0,0, Full Time,news,%P and %T with %M,job,Responsible for Milne,237600,,259500,,Centre,44,0,0,0,0.18,0.12
+220096,Aaron,Sandilands,FR,25,62,78,65,62,72,0,8,1,1,42,0,1,0,0, Full Time,news,%H and %P,,,313400,149,414000,164,Ruck,31,6,47.5,61.7,1.35,1.02
+293535,Lachie,Neale,FR,13,62,59,48,48,70,8,9,2,4,0,0,1,0,1, Full Time,news,%s from %O and %T,,,387900,43,457900,44,Centre,27,8,79,90.4,1.00,0.57
+291560,Josh,Mellington,FR,8,61,58,44,51,69,8,9,5,1,0,0,0,0,0, Full Time,news,%O and %M up forward on Dal Santo,,,195800,,217600,,Forward,25,0,0,0,0.18,0.11
+293651,Hayden,Crozier,FR,14,61,51,41,50,67,9,6,3,2,0,1,1,1,1, Full Time,news,%D and %M,,,240800,51,244700,64,Forward,17,8,58,60.1,1.27,1.56
+280726,Tendai,Mzungu,FR,8,59,85,33,49,67,10,8,4,0,0,0,0,0,1, Full Time,news,%O and %M plus %s,,,401100,104,415400,104,Centre,13,21,79.2,79.6,1.39,0.86
+250063,Danyle,Pearce,FR,8,57,42,24,44,66,13,5,2,2,0,0,2,0,0, Full Time,news,%P... %F too,job,Running off Curren,414900,62,425000,64,Back Centre,6,21,81.7,82,14.73,7.58
+292026,Michael,Barlow,FR,8,56,66,37,48,73,8,13,1,2,0,0,2,0,1, Full Time,news,Started on the bench and had a putrid Q1... %D and %T... %F as well,,,486900,124,536600,122,Centre,21,20,107.1,112.3,25.74,13.27
+293930,Josh,Simpson,FR,10,55,39,37,47,63,8,6,4,1,0,0,1,1,0, Full Time,news,%P and %M plus %s,in,Late replacement for Chris Mayne,111700,,119500,,Forward Centre,14,0,0,0,1.19,0.88
+281105,Jack,Hannath,FR,10,54,54,40,45,57,7,4,5,1,0,0,0,1,0, Full Time,news,%s from %D and %M starting forward on Blake,,,167500,28,193100,45,Ruck,38,11,38.6,46.3,5.33,5.65
+200032,Matthew,Pavlich,FR,9,50,56,28,39,48,9,1,3,1,0,2,0,1,0, Full Time,news,Gilbert on him... %P and %M,,,383500,45,438600,64,Forward,29,8,77.9,84.3,3.54,3.06
+271433,Alex,Silvagni,FR,5,50,68,45,39,51,5,5,4,3,0,1,0,0,0, Full Time,job,Following Riewoldt... %O and %M,,,209500,13,262800,24,Back,36,9,47.2,52,1.04,0.81
+240139,Paul,Duffield,FR,3,43,48,26,31,42,8,1,3,2,0,0,0,0,0, Full Time,news,%P and %M,job,Ross is his man,345000,53,348400,66,Back,41,18,79.2,82,5.43,5.30
+293854,Matthew,Taberner,FR,9,43,45,27,38,48,7,2,5,0,0,0,1,1,0, Full Time,news,Donuts in Q1... Roberton on him... %s from %D,,,122000,17,117800,34,Forward,42,3,35,26.3,2.32,1.44
+291912,Alex,Forster,FR,2,37,30,32,27,39,4,5,1,3,0,0,0,0,0, Full Time,job,In defence on the resting ruck which is mostly Hickey... %P and %T,,,108500,,115900,,Back,19,0,0,0,0.20,0.16
+250301,Peter,Faulks,FR,3,34,48,21,32,42,6,3,5,0,0,1,2,0,0, Full Time,job,Has Lee... %M and %P,,,108500,,115900,,Back,28,0,0,0,0.23,0.19
+291792,Thomas,Sheridan,FR,3,34,42,24,27,39,5,5,1,2,0,1,1,0,0, Full Time,news,%D and %T,,,231600,-18,224400,-18,Centre,11,8,54.6,50.9,1.31,0.80
+294080,Craig,Moller,FR,1,16,26,13,15,18,1,4,0,0,3,2,0,0,0, Full Time,in,Late replacement for Garrick Ibbotson... on in Q1 for Clancee Pearce... %D,sub,Started as a sub,89300,,96200,,Ruck,40,0,0,0,6.70,5.89
+280386,Clancee,Pearce,FR,0,6,6,4,5,6,1,0,1,0,0,0,0,0,0, Full Time,injured,Right calf injury very early in Q1 after one touch,subbed,Subbed off in Q1 for Moller,334600,78,347500,73,Centre,46,18,76.7,78.3,0.43,0.44

@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Gold Coast,Suns,R5,17.25.127,13.15.93, Full Time
+Apr 28,2012,4:40,Docklands,Fox Sports,210023,10340504,430047,0,Roof closed,16,,
+
+<em>Grazz</em>: I was happy with 9-1034 till i saw those scores&#044; rank will tumble this week i think.<br><em>maluckyday</em>: jareds supercoach score is pretty low<br><em>thebigshot</em>: I think he means 13 left CeccHy23<br><em>original</em>: brennan has been killing it<br><em>Slashers</em>: CeccHy23&#044; captain played? (I bet he has) Have you counted it as an extra person?<br><em>MightyEss</em>: my dt isn't even doing that bad&#044; but i'm at loss by not having mcintosh and swan. flowering swan<br><em>Grazz</em>: Sent Pros.<br><em>myteamsuks</em>: I reckon a high dt - 2500 will be the winner<br><em>CeccHy23</em>: jokkezzz<br><em>Grazz</em>: Bugger me i think you may be right Korza. @CeccHy23 goodluck mate hope you get it.<br><em>bert1</em>: whats POD<br><em>Virgil</em>: Three hundreds in five weeks to Lindsay.<br>
+230141,Hamish,McIntosh,NM,44,123,140,146,104,124,9,8,4,5,40,2,0,1,0, Full Time,star,First goal... %H and %P with %T and %M... also %s... enjoyed himself in the ruck with no Goldstein in the team,,
+210023,Drew,Petrie,NM,31,110,140,135,92,108,10,6,7,4,9,4,0,3,0, Full Time,hot,Booted %s from %D and %G on Bock... also %H,,
+261909,Lindsay,Thomas,NM,26,101,127,128,78,99,15,4,4,4,0,2,0,3,0, Full Time,hot,%s from %D on Tape,,
+280921,Ben,Cunnington,NM,25,100,105,125,82,109,10,13,7,4,0,0,0,1,1, Full Time,hot,%O and %M plus %T and %s,,
+240417,Andrew,Swallow,NM,20,95,112,116,79,114,10,21,3,4,0,1,1,0,0, Full Time,concussed,%2 Hunt... %D including %B with %T... his head collided with Hunt's knee in Q3 leaving him groggy for a few minutes,mrp,Dropped his knee into Hunt in Q3 which is an outside chance of being looked at as rough conduct
+290194,Jamie,MacMillan,NM,15,89,113,110,71,97,12,12,3,3,0,1,0,1,1, Full Time,news,%D and %s,job,Minding Matera
+230272,Michael,Firrito,NM,14,83,103,104,68,90,11,11,6,2,0,2,0,0,0, Full Time,news,%P,,
+290547,Kieran,Harper,NM,25,83,96,107,60,81,11,4,1,6,0,0,0,2,3, Full Time,news,%s from %O on Wilkinson... also %T,,
+960491,Brent,Harvey,NM,15,79,85,94,66,91,7,16,2,3,0,1,0,1,1, Full Time,tagged,Tagged by Iles then got Wilkinson in Q2... %O and %s,,
+291445,Aaron,Mullett,NM,14,78,78,99,63,85,11,9,6,2,0,0,0,0,1, Full Time,news,%P and %M plus %T and %s,,
+260545,Liam,Anthony,NM,10,77,76,96,64,91,9,14,4,3,0,0,1,0,1, Full Time,cannon,%2 McKenzie... %B among %D with %T,,
+280863,Ryan,Bastinac,NM,9,76,74,95,59,85,13,11,2,2,0,0,0,0,1, Full Time,news,%O including %B... kicked %s as well,,
+290787,Shaun,Atley,NM,13,74,100,89,62,87,12,14,3,0,0,1,0,0,0, Full Time,job,Chasing Bennell... %D,,
+230240,Aaron,Edwards,NM,21,71,89,88,62,74,7,3,6,2,0,1,1,3,2, Full Time,news,Kicked %s from %D and %M on Warnock,,
+250285,Leigh,Adams,NM,15,70,85,87,56,72,8,6,1,4,0,3,1,2,3, Full Time,news,%s from %O on Shaw... also %T,,
+281395,Scott D.,Thompson,NM,13,66,83,85,59,82,9,10,6,2,0,1,3,0,1, Full Time,job,Responsible for Dixon... %P and %T with %M... also %F,,
+270325,Robbie,Tarrant,NM,8,62,75,76,52,68,10,8,4,0,0,2,0,0,2, Full Time,news,Started at CHF on Brennan... %s from %D,,
+280944,Jack,Ziebell,NM,14,56,50,76,41,63,7,7,1,6,0,0,2,0,0, Full Time,news,%D and %T,,
+230232,Daniel,Wells,NM,4,49,60,62,39,54,6,7,3,2,0,0,0,0,0, Full Time,tagged,Tagged by Weller... %B among %D with %T and %M,subbed,Subbed off at 3QT for Greenwood
+280864,Sam,Wright,NM,2,36,33,46,31,47,7,6,1,1,0,0,2,0,2, Full Time,job,Has Brown... %P including %b by hand,,
+270303,Luke,Delaney,NM,2,29,23,37,25,36,4,5,2,1,0,0,1,0,0, Full Time,job,Standing Lynch... %P,,
+270861,Levi,Greenwood,NM,6,23,12,33,13,19,0,1,0,5,1,0,0,0,0, Full Time,news,On after 3QT for Wells,sub,Started as a sub
+230015,Jared,Brennan,GC,37,127,108,97,98,133,19,5,11,8,3,0,3,0,1, Full Time,hot,%P and %T with %M,switch,Zoning off Tarrant in the first half... switched forward in Q3
+281279,Kyal,Horsley,GC,26,101,87,77,70,97,15,4,5,8,0,0,0,0,1, Full Time,hot,First game... %D and %M with %T and %s,,
+290832,David,Swallow,GC,21,96,126,54,72,99,18,5,4,4,0,1,1,1,0, Full Time,news,%O and %s,,
+291594,Harley,Bennell,GC,20,89,89,38,71,92,18,3,3,0,0,0,0,3,2, Full Time,switch,%s from %O on Atley... switched to defence in Q3,,
+290817,Brandon,Matera,GC,14,82,63,60,64,82,12,4,8,3,0,1,0,0,1, Full Time,news,%s from %D and %M on MacMillan... also %T,,
+220009,Nathan,Bock,GC,13,66,93,44,61,83,11,6,9,1,1,0,4,0,1, Full Time,job,At FB on Petrie... %P and %M... also %F,,
+293813,Thomas,Lynch,GC,15,66,62,44,57,75,11,3,7,2,0,1,3,1,0, Full Time,news,%s from %G and %D on Delaney... also %T and %F,,
+280711,Charlie,Dixon,GC,12,64,91,50,55,68,7,4,3,2,6,1,1,2,2, Full Time,news,%s from %P and %G on Thompson... also %H and %T,,
+292512,Karmichael,Hunt,GC,13,63,60,53,50,69,7,9,3,4,0,2,1,0,0, Full Time,sore,%2 Swallow... %O and %T with %M... corked left thigh after Swallow dropped the knee into him in Q3,mrp,His knee contacted Swallow's head in Q3 which will be looked at
+240316,Sam,Iles,GC,10,62,80,44,47,61,9,3,3,3,0,1,0,1,1, Full Time,news,Tagging Harvey to start then went forward in Q2... %D and %M plus %s,,
+290527,Trent,McKenzie,GC,8,61,67,35,46,63,11,5,3,2,0,1,0,0,0, Full Time,news,%2 Anthony... %O and %T with %M,,
+290627,Dion,Prestia,GC,9,56,59,50,42,61,6,7,2,5,0,0,1,0,1, Full Time,news,%P and %T plus %s,,
+281024,Maverick,Weller,GC,5,55,39,36,42,55,9,3,4,2,0,1,0,0,1, Full Time,tagger,Tagging Wells... %O and %s,in,Late replacement for Michael Rischitelli
+291753,Sam,Day,GC,10,54,70,44,47,55,5,5,3,1,0,3,0,2,1, Full Time,news,%s from %P,,
+290623,Josh,Caddy,GC,4,49,53,42,38,54,5,8,2,3,0,0,0,0,0, Full Time,news,%O and %M,,
+280722,Zac,Smith,GC,14,48,57,45,43,54,3,3,0,3,27,0,2,0,0, Full Time,news,%H and %P,,
+220013,Campbell,Brown,GC,10,47,45,40,45,60,4,8,3,1,0,0,2,2,0, Full Time,news,%D on Wright,,
+281025,Luke,Russell,GC,10,43,31,32,38,48,5,5,4,0,0,0,0,1,0, Full Time,news,On in Q3 for Shaw,sub,Started as a sub
+290703,Joel,Wilkinson,GC,4,43,34,41,35,48,4,5,4,3,0,0,1,0,0, Full Time,tagger,Moved from Harper to Harvey in Q2... %P and %T with %M,,
+293223,Seb,Tape,GC,3,38,46,22,31,39,7,1,5,0,0,0,0,0,0, Full Time,job,Going with Thomas... %D and %M,,
+250716,Matthew,Warnock,GC,4,35,64,32,32,48,3,9,2,2,0,0,2,0,0, Full Time,job,Standing Edwards... %O,,
+290790,Matthew,Shaw,GC,1,19,18,16,15,21,2,3,1,1,0,0,0,0,0, Full Time,sore,Following Adams... %P... ran his head into Petrie's elbow in Q2 which left him with a split lip requiring stitches,subbed,Subbed off in Q3 for Russell

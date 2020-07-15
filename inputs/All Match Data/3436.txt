@@ -1,0 +1,48 @@
+Port Adelaide,Power,St Kilda,Saints,R5,7.12.54,6.8.44, Full Time
+Apr 24,2010,7:40,Footy Park,Ten,210002,10280504,5015515,4979,A shower or two,23
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,Delayed for a week due to working on scalability... should be next week for Round 6,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>Moondog21</em>: That was me masterdead <br><em>dutchman</em>: D Kerr got 10 SC points in the 2nd half last week - Was Off the ground !!!!<br><em>Moondog21</em>: Goddard was crap full stop<br><em>soicanchat</em>: u guys dont no all the other extra points the sc put into games. clever taps&#044; important possissions etc get u more pts..<br><em>godders</em>: kosi&#044; milne&#044; dawson&#044; clarke&#044; probably the worst playrs in the league<br><em>Buck Naked</em>: goddard had 11 contested possessions. 3rd highest on the ground. i have given away DT. DT time to update the scoring <br><em>JBails</em>: Hayes 11x4 = 44 just from tackles! & 23 other touches for 14??<br><em>Grazz</em>: The -Donut i think you get zero so does that mean you get your subs score hmm<br><em>tigermania</em>: bogus info gets you banned sacka<br><em>masterdead</em>: who ever said that someone in sc has goddard on their team must be right<br><em>Slashers</em>: I think all of the guys that work for chapmion data had goddard captain - rigged<br><em>Grazz</em>: Sacka atleast you still have your sense of humour&#044; gutsy puttin that out there..<br>
+240180,Troy,Chaplin,PA,27,130,128,168,106,141,20,12,12,3,0,1,1,0,0, Full Time,hot,Standing Goddard... %M and %O with %T
+210043,Domenic,Cassisi,PA,30,121,114,158,96,129,17,11,10,5,0,1,1,0,0, Full Time,hot,%O and %M
+220090,David,Rodan,PA,32,109,133,136,86,117,11,16,4,6,0,2,0,1,0, Full Time,medal,Head to head with Montagna... %s from %P and %M
+210020,Kane,Cornes,PA,19,92,84,122,73,102,13,9,7,5,0,0,2,0,0, Full Time,tagger,Tagging Dal Santo... %P and %M with %T
+250063,Danyle,Pearce,PA,20,90,90,118,67,97,13,10,3,6,0,0,1,0,1, Full Time,tagged,Tagged by Baker... %P and %T with %M and %s
+270779,Paul,Stewart,PA,15,89,84,114,69,96,16,9,5,2,0,0,0,0,0, Full Time,job,On Gwilt... %P
+230192,Steven,Salopek,PA,10,88,81,116,67,94,17,6,5,3,0,0,1,0,1, Full Time,news,%D and %M plus %s
+240074,Jacob,Surjan,PA,18,85,101,109,67,87,10,9,6,4,0,3,0,0,0, Full Time,sore,Minding Milne... %D and %M with %T... midweek problems with his right thigh flared up again in Q2
+250365,Travis,Boak,PA,20,85,73,111,64,91,11,10,3,6,0,1,1,0,1, Full Time,tagged,Tagged by Jones... %D and %T
+980059,Chad,Cornes,PA,18,85,101,103,76,105,11,17,7,0,0,0,1,0,0, Full Time,tagged,Zoning off McQualter... %D and %M
+230242,Brett,Ebert,PA,20,84,73,105,69,85,11,4,6,2,0,1,0,2,4, Full Time,news,%s from %O on Gilbert
+240385,Matt,Thomas,PA,25,84,107,104,67,96,3,19,1,8,3,2,1,0,0, Full Time,news,%D and %T
+200111,Dean,Brogan,PA,27,80,67,99,69,83,3,6,4,6,26,3,2,0,0, Full Time,news,%H and %T with %P and %M
+260750,Justin,Westhoff,PA,9,73,57,95,56,74,11,5,5,3,1,1,0,0,1, Full Time,news,%s from %D and %M with %T
+261892,Hamish,Hartlett,PA,13,72,76,93,57,75,11,6,6,2,0,1,0,0,0, Full Time,news,%P and %M
+250688,Alipate,Carlile,PA,13,71,84,90,60,78,9,8,8,1,0,0,0,0,0, Full Time,job,On Koschitzke... %D and %M
+990013,Josh,Carr,PA,9,68,61,84,57,81,7,14,3,3,0,1,1,0,0, Full Time,in,%l Jason Davenport... %B among %O
+230124,Tom,Logan,PA,10,66,47,85,52,69,6,8,5,4,0,1,0,0,0, Full Time,injured,Tagging Schneider... %P... stretchered off in Q4 after copping a Saint knee to the head
+230195,Jay,Schulz,PA,16,64,58,83,51,65,5,3,4,5,1,0,1,2,1, Full Time,news,%s from %G and %P on Blake... also %T
+261396,Robbie,Gray,PA,9,52,48,64,42,58,2,11,2,4,0,1,0,0,1, Full Time,news,%O and %T
+970120,Warren,Tredrea,PA,10,51,59,62,42,51,7,3,2,1,0,2,0,2,0, Full Time,cold,Dawson on him... %D
+261230,Matthew,Lobbe,PA,3,28,44,34,22,28,0,3,0,3,10,0,0,0,0, Full Time,rookie,First game... %H and %T
+220075,Leigh,Montagna,SK,32,126,139,91,97,138,17,19,4,6,0,1,0,0,0, Full Time,gun,Head to head with Rodan... %D and %M with %T
+261743,Clinton,Jones,SK,32,118,115,101,90,129,12,20,3,8,0,1,0,0,0, Full Time,hot,Tagging Boak... %O and %T with %M
+220098,Adam,Schneider,SK,22,110,120,73,88,114,16,8,5,3,0,1,0,3,0, Full Time,hot,First goal... tagged by Logan... %s from %D with %M and %T
+990028,Lenny,Hayes,SK,44,105,58,82,75,113,16,7,3,11,2,0,4,0,0, Full Time,hot,%O and %T with %M and %F
+250134,Sam,Gilbert,SK,20,104,94,69,83,111,17,7,10,3,0,0,1,0,0, Full Time,hot,Running off Ebert... %P and %M plus %T
+240708,Sam,Fisher,SK,24,96,74,63,82,111,14,13,7,1,0,0,1,1,0, Full Time,news,Playing back this week... %D and %M plus %s
+240701,Brett,Peake,SK,24,91,64,76,68,91,11,7,6,6,1,1,0,0,0, Full Time,news,%M and %D
+220023,Nick,Dal Santo,SK,13,75,64,52,56,76,11,7,2,4,3,2,0,0,1, Full Time,tagged,Tagged by Kane Cornes... %P plus %H
+200068,Jason,Blake,SK,13,73,73,59,63,82,8,10,8,1,1,0,0,0,0, Full Time,job,Zoning off Schulz... %M and %O
+250703,James,Gwilt,SK,14,70,77,52,57,79,9,9,3,3,0,0,1,1,1, Full Time,news,Starting forward on Paul Stewart... %P and %T
+260113,Jarryn,Geary,SK,13,68,72,55,54,78,8,11,3,4,0,0,1,0,0, Full Time,news,%B among %D
+990004,Steven,Baker,SK,14,68,52,60,53,72,7,8,5,4,0,0,0,0,0, Full Time,tagger,Tagging Pearce... %O and %M with %T
+230084,Brendon,Goddard,SK,9,67,100,53,56,76,7,13,3,2,1,2,0,0,0, Full Time,down,Up forward again with Chaplin on him... terrible first half with no kicks at all... %O including %B
+250340,David,Armitage,SK,14,65,66,56,50,69,7,8,4,4,0,0,0,0,0, Full Time,news,%P
+250207,Robert,Eddy,SK,13,61,75,55,47,66,6,9,2,5,0,2,1,0,0, Full Time,in,%l Farren Ray... %O
+970064,Michael,Gardiner,SK,6,50,45,48,42,52,4,3,4,3,10,1,1,0,0, Full Time,news,%H and %D with %M and %T
+230035,Raphael,Clarke,SK,8,48,65,39,36,54,6,7,1,4,0,0,1,0,0, Full Time,news,%D
+240012,Andrew,McQualter,SK,4,47,39,45,40,55,3,10,3,2,0,0,0,0,1, Full Time,news,Trying to keep Chad Cornes honest... %O
+200108,Stephen,Milne,SK,10,45,-3,25,43,58,8,5,4,0,0,1,3,1,1, Full Time,news,%s from %P on Surjan... a bunch of clangers and %F destroyed his SC score
+210002,Justin,Koschitzke,SK,5,43,51,44,40,57,3,8,4,3,2,0,3,0,1, Full Time,cold,%s from %G with %P... looked like he didn't want it much
+960337,Steven,King,SK,9,41,37,42,39,49,2,4,3,2,16,0,2,0,0, Full Time,news,%H and %D
+240552,Zac,Dawson,SK,4,39,61,41,35,51,2,10,2,3,0,1,2,0,0, Full Time,mobile,On Tredrea... %O and %T

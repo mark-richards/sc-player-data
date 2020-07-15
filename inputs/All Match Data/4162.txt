@@ -1,0 +1,48 @@
+Adelaide,Crows,Essendon,Bombers,R19,16.8.104,15.10.100, Full Time
+Aug 5,2012,4:40,Footy Park,Fox Sports,270963,10341909,430169,0,Windy with showers,17,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='margin-bottom:-2px'><b class="ticon tAD"></b> Grazz</em>: Awesome Go Crows<br><em style='margin-bottom:-2px'><b class="ticon tFR"></b> Cicjose</em>: great game ppl<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> ZacDawson</em>: jobe heart? <br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> Spitter9</em>: Hirdy4pm. What are you? 12?<br><em>whale607</em>: oh well a much improved effort compared to our last couple of weeks&#044; good effort. haters gonna hate<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> Jormas</em>: wow dempsey and Danger! flower you Thero. AND HOCKING >:|<br><em>eski_liddr</em>: M0nty u need to get rid of the trolls.we wana talk bout footy<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> Nicko2665</em>: Think of the Dempsey holding the man&#044; that was our victory stolen by Umps right there. 2 games ruined by umps this round<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> KingPetrie</em>: hows that ladder looking essendon?<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> Affliction</em>: bombers unlikely now need to beat roos&#044; blues and tigers<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> runt</em>: good game from Essendon&#044; showed heart<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> cmdevling</em>: Rich and melb fans. Really?? Just enjoy the time game - no need to be a$$holes!! <br>
+270917,Patrick,Dangerfield,AD,32,130,127,164,103,133,21,8,5,4,0,4,1,3,1, Full Time,star,Tagged by Heppell... %P and %T with %M and %s,,
+270811,Sam,Jacobs,AD,38,99,104,117,91,107,10,3,6,1,40,0,2,1,1, Full Time,news,%H and %P plus %M and %s,,
+250118,Nathan,van Berlo,AD,24,93,93,120,73,96,12,7,7,4,0,0,0,1,0, Full Time,news,%D and %M plus %s,,
+220086,Brent,Reilly,AD,15,90,82,120,71,93,17,3,9,2,0,1,1,0,0, Full Time,job,Winderlich manning him up... %P and %M,,
+291748,Brodie,Smith,AD,19,85,87,113,67,90,12,6,8,4,0,0,1,0,0, Full Time,news,%P and %M on Browne...also %T,,
+261142,Bernie,Vince,AD,14,83,85,111,62,84,15,4,5,4,0,2,1,0,0, Full Time,news,%O and %T with %M,,
+270963,Rory,Sloane,AD,19,81,103,103,65,85,12,6,6,2,1,0,0,1,0, Full Time,news,%P and %M,,
+280506,Taylor,Walker,AD,22,81,135,102,71,87,10,2,7,2,0,0,2,4,0, Full Time,x-factor,%P on Hooker... also %F,,
+291402,Aidan,Riley,AD,20,81,69,105,64,84,11,6,5,4,0,2,1,1,0, Full Time,news,%s from %D,,
+210016,Scott,Thompson,AD,19,80,78,104,59,87,11,11,1,6,0,1,1,0,0, Full Time,tagged,Tagged by Hocking... %P and %T,,
+294828,Josh,Jenkins,AD,12,76,78,95,62,76,8,4,5,3,4,1,0,2,0, Full Time,news,%D and %M on Carlisle... also %H,,
+200092,Michael,Doughty,AD,20,75,81,102,56,75,9,4,6,6,0,1,1,0,0, Full Time,job,Responsible for Davey... %O and %M with %T,sore,Left ankle knock in Q4
+240370,Richard,Douglas,AD,8,71,106,95,52,72,17,2,3,2,0,2,1,0,0, Full Time,news,%O,,
+210056,Graham,Johncock,AD,11,65,69,83,50,64,9,2,3,3,0,0,0,2,1, Full Time,job,In defence on Jetta... %P and %M,,
+261384,Matthew,Wright,AD,9,59,64,79,42,57,7,4,3,5,0,1,0,0,0, Full Time,news,%O and %M with %T,,
+290211,Sam,Shaw,AD,8,55,89,72,44,57,9,3,6,1,0,0,0,0,0, Full Time,job,Minding Lonergan... %P and %M,,
+261138,Jared,Petrenko,AD,15,52,48,72,38,56,6,4,2,6,0,0,2,0,2, Full Time,news,%s from %P and %T on Baguley,,
+220093,Ben,Rutten,AD,5,50,45,64,41,54,5,6,5,2,0,0,0,0,0, Full Time,gumby,Has Gumbleton... %O and %T with %M,,
+280934,Daniel,Talia,AD,4,45,71,62,34,45,9,0,4,2,0,1,1,0,0, Full Time,job,Following Hurley... %M and %D,,
+261857,Ian,Callinan,AD,2,33,26,41,27,36,4,5,2,1,0,1,0,0,0, Full Time,news,%D on Hardingham,,
+230216,Richard,Tambling,AD,3,30,31,40,22,30,4,2,2,2,0,0,0,0,0, Full Time,news,On in Q3 for Porplyzia,sub,Started as a sub
+230174,Jason,Porplyzia,AD,7,19,15,24,18,27,3,3,0,1,0,0,2,1,0, Full Time,injured,%s from %P on Pears... also %F... right shoulder knocked again in Q2,subbed,Subbed off in Q3 for Tambling
+230231,Jobe,Watson,ES,31,115,143,91,88,124,13,18,1,7,0,2,0,1,1, Full Time,hot,%P including %B with %T and %s,,
+240245,Courtenay,Dempsey,ES,26,113,139,62,88,117,21,6,8,2,0,0,0,1,0, Full Time,hot,%D and %M,,
+210079,Nathan,Lovett-Murray,ES,21,90,84,71,68,94,12,8,5,6,1,1,1,0,0, Full Time,news,%O and %T plus %M,,
+261320,Tom,Bellchambers,ES,32,81,115,64,72,79,7,1,2,1,46,2,0,0,0, Full Time,news,%H and %D with %M,,
+270935,Michael,Hurley,ES,15,77,55,63,62,79,9,5,7,3,0,0,0,1,1, Full Time,news,Kicked %s from %P and %G on Talia,,
+291522,Alex,Browne,ES,16,77,79,52,62,81,11,6,4,2,0,0,0,2,0, Full Time,job,On Smith... %D and %M plus %T... also %s,,
+230238,Jason,Winderlich,ES,22,75,57,61,65,78,8,2,6,2,0,0,1,4,0, Full Time,injured,%s from %P and %M on Reilly... also %T... left hamstring pull in Q3,,
+290629,Dyson,Heppell,ES,14,75,70,52,57,84,12,8,3,5,0,0,2,0,0, Full Time,news,%P and %M with %T,tagger,Tagging Dangerfield in midfield
+240319,Sam,Lonergan,ES,18,71,98,41,54,76,13,5,1,4,1,2,2,1,0, Full Time,news,First goal... %s from %P playing small forward on Shaw... also %T,,
+280988,Travis,Colyer,ES,16,70,76,52,54,72,10,4,4,4,0,1,1,1,0, Full Time,news,%s from %P and %T,,
+290641,Jake,Carlisle,ES,10,67,76,53,50,66,9,4,5,4,0,1,0,0,0, Full Time,job,On Jenkins... %D and %T with %M,,
+230051,Alwyn,Davey,ES,14,62,64,43,45,61,9,5,0,4,0,2,0,1,1, Full Time,news,%s from %P on Doughty,,
+250569,Heath,Hocking,ES,7,59,63,36,43,61,10,6,1,3,0,1,0,0,1, Full Time,tagger,Tagging Scott Thompson.... %P and %s,,
+250366,Scott,Gumbleton,ES,11,57,51,52,48,61,5,4,4,3,0,0,1,2,1, Full Time,news,Booted %s from %G and %P on Rutten... also %T,,
+280824,Jake,Melksham,ES,9,57,74,35,45,63,10,5,4,2,0,0,1,0,0, Full Time,news,Playing a defensive role... %P and %T with %M,,
+270588,Cale,Hooker,ES,8,54,91,40,43,60,7,8,3,2,0,0,0,0,0, Full Time,news,%O and %M with %T,job,Has Walker
+294798,Mark,Baguley,ES,4,49,56,33,37,51,8,4,2,3,0,2,1,0,0, Full Time,job,Has Petrenko... %D and %M,,
+250352,Leroy,Jetta,ES,13,48,71,28,40,59,8,7,0,2,0,0,2,1,2, Full Time,news,%s from %O on Johncock,,
+271022,Tayte,Pears,ES,8,48,67,39,43,60,5,11,2,2,0,3,2,0,0, Full Time,in,%l Dustin Fletcher... %P... also %F,switch,Porplyzia was his man until Q3 when subbed... switched forward in Q4
+270584,Kyle,Hardingham,ES,8,43,46,25,37,48,8,2,6,0,0,0,1,0,0, Full Time,job,Minding Callinan... %O and %M,,
+260073,Ben,Howlett,ES,2,31,28,19,19,28,6,0,0,3,0,0,0,0,1, Full Time,injured,%O and %T plus %s... left hamstring soreness in Q2,subbed,Subbed off in Q2 for Slattery
+250071,Henry,Slattery,ES,0,12,13,5,9,15,3,1,0,1,0,0,1,0,0, Full Time,in,%l Ricky Dyson... on in Q2 for Howlett,sub,Started as a sub

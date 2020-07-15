@@ -1,0 +1,47 @@
+St Kilda,Saints,Geelong,Cats,W1,3.18.36,0.15.15, Full Time
+Feb 24,2012,8.50,Docklands,Fox Footy,,10330112,,12,Fine,35,,
+
+<em>E Kavastar</em>: West was one of the sub-offs m0nty...<br><em>Pokerface</em>: call a doctor kingie. jones is about to die<br><em>Ace Manuva</em>: GOod onya SImon Hogan... just youtubed the guy... depression problems <br><em>Pokerface</em>: burbury<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Morts54</em>: Who kicked the super goal for Cats<br><em>m0neyball</em>: the 3rd umpire camera is like judging a runout with the stump cam<br><em>Pokerface</em>: whats the point of this third umpire when everything is 'inconclusive'<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> mabo</em>: Why bother bringing in a goal review process and not have a camera covering the plane of the goal?<br><em>froff-king</em>: this is like watching the 09 grand final replay !<br><em>E Kavastar</em>: Milera fighting for the same spot as Saad... he isn't so much of a lock now...<br><em>Pokerface</em>: ahmed!!<br><em>Legend008</em>: I think wev'e all learnt tonight to stay away from wilkes and walsh.<br>
+261743,Clinton,Jones,SK,2,43,-,54,35,48,8,6,1,1,0,3,1,0,0, Full Time,news,Loves the freedom of preseason with no tag responsibilities... %D,,,90
+290826,Jamie,Cripps,SK,3,36,-,47,27,36,5,3,2,2,0,1,0,0,0, Full Time,news,%O and %M,,,82
+294198,Tom,Ledger,SK,7,34,-,46,32,42,6,2,6,0,0,0,2,0,0, Full Time,news,%D and %M,,,82
+230084,Brendon,Goddard,SK,3,33,-,46,25,33,6,0,3,2,0,1,1,0,0, Full Time,news,Starting forward... %P and %M,,,90
+250340,David,Armitage,SK,3,33,-,42,24,36,5,5,0,2,0,0,0,0,0, Full Time,news,%D and %T,,,73
+293815,Arryn,Siposs,SK,1,31,-,38,25,34,4,5,1,1,0,1,0,0,1, Full Time,news,%s from %P,,,92
+270766,Terry,Milera,SK,8,30,-,40,23,30,5,0,1,2,0,1,1,1,0, Full Time,,,,,90
+240701,Brett,Peake,SK,3,29,-,38,27,39,6,4,3,0,0,0,2,0,0, Full Time,news,%K among %O with %M,,,85
+261323,Ben,McEvoy,SK,2,29,-,36,23,26,2,1,1,2,7,2,0,0,1, Full Time,news,%H and %P with %s,,,58
+220034,Jason,Gram,SK,7,26,-,30,23,30,3,4,1,0,0,0,0,1,0, Full Time,news,%P and a supergoal,,,100
+240062,Farren,Ray,SK,2,25,-,31,21,28,4,3,2,0,0,0,0,0,1, Full Time,news,%P and %M plus %s,,,86
+293846,Sebastian,Ross,SK,1,22,-,26,19,27,3,5,1,0,0,0,0,0,0, Full Time,,,,,83
+200108,Stephen,Milne,SK,7,20,-,23,19,24,3,1,0,0,0,0,1,2,0, Full Time,news,%s from %O on Stokes,subbed,Subbed off in Q2 for Curren,60
+294818,Ahmed,Saad,SK,0,16,-,21,14,20,2,2,1,1,0,0,1,0,2, Full Time,,,,,98
+200068,Jason,Blake,SK,0,14,-,17,12,15,2,2,1,0,0,1,0,0,0, Full Time,job,Standing Walker... %D,,,100
+290456,Nicholas,Winmar,SK,0,14,-,17,12,15,2,2,1,0,0,1,0,0,0, Full Time,news,%O,,,100
+280053,Tom,Simpkin,SK,1,13,-,15,11,15,2,3,0,0,0,1,0,0,0, Full Time,news,Some excellent poised play in defence... %P,,,100
+280317,Rhys,Stanley,SK,0,12,-,16,11,14,3,0,1,0,2,1,1,0,0, Full Time,news,%D and %H,,,100
+250066,Dean,Polo,SK,1,11,-,15,11,15,2,1,2,0,0,0,1,0,0, Full Time,news,%P and %M,,,81
+250036,Beau,Wilkes,SK,0,9,-,11,7,7,2,0,0,0,0,2,0,0,1, Full Time,news,Starting forward... %s from %D on Taylor,,,92
+291518,Thomas,Curren,SK,0,3,-,4,2,3,1,0,0,0,0,0,0,0,0, Full Time,news,On in Q2 for Milne,sub,Started as a sub,20
+250652,Jonathan,Simpkin,GE,2,32,-,42,26,37,6,3,2,1,0,0,1,0,1, Full Time,news,%O and %M plus %s,,,97
+261497,Harry,Taylor,GE,3,30,-,38,26,33,4,3,4,0,0,0,0,0,0, Full Time,job,Chasing Wilkes... %M and %D,,,84
+270193,Simon,Hogan,GE,3,28,-,38,20,27,4,1,2,2,0,0,0,0,0, Full Time,news,%O and %M with %T,,,86
+281065,Mitch,Duncan,GE,2,27,-,37,24,33,7,1,3,0,0,1,2,0,0, Full Time,news,%D and %M,,,94
+291309,Jesse,Stringer,GE,2,26,-,34,21,30,3,4,1,2,0,1,1,0,0, Full Time,news,%D,,,82
+220007,Jimmy,Bartel,GE,2,25,-,33,19,24,4,1,0,2,3,3,1,0,0, Full Time,news,%D and %T,,,100
+230248,Andrew,Mackie,GE,2,23,-,32,20,30,5,2,2,1,0,0,2,0,0, Full Time,news,Loose in defence... %O and %M... also %F,,,91
+294914,Ryan,Bathie,GE,1,23,-,32,19,24,4,0,3,1,0,1,1,0,0, Full Time,news,%P and %M,,,94
+293255,George,Horlin-Smith,GE,1,20,-,24,16,21,4,3,0,0,0,2,0,0,0, Full Time,news,A bit higher than in the first game but still a forward... %P,,,77
+210059,Josh,Hunt,GE,1,19,-,23,16,21,3,3,1,0,0,1,0,0,0, Full Time,job,Minding Saad... %D,,,72
+260261,Trent,West,GE,2,19,-,22,18,21,1,2,2,0,5,0,0,0,1, Full Time,news,Playing the Hawkins role again... %s from %G and %P with %H,subbed,Subbed off in Q2 for Stephenson,50
+280990,Steven,Motlop,GE,1,19,-,24,16,25,3,4,0,1,0,0,1,0,1, Full Time,news,%O,,,91
+280125,Tom,Gillies,GE,0,16,-,22,13,18,3,1,1,1,0,1,1,0,0, Full Time,job,On Stanley... %D,,,92
+292105,Cameron,Eardley,GE,1,16,-,20,14,21,4,3,0,0,0,1,1,0,0, Full Time,,,,,92
+290756,George,Burbury,GE,6,14,-,16,12,15,2,1,0,0,0,0,0,1,0, Full Time,news,%D and a supergoal,sub,Started as a sub,71
+290622,Mitchell W.,Brown,GE,0,12,-,17,10,15,2,1,1,1,0,0,1,0,0, Full Time,news,Not much supply... %D,,,95
+261167,Orren,Stephenson,GE,1,9,-,10,11,13,0,1,1,0,7,0,1,0,0, Full Time,,,,,50
+280822,Taylor,Hunt,GE,0,9,-,12,7,9,2,0,1,0,0,0,0,0,0, Full Time,news,Just the %P,,,47
+290576,Jordan,Schroder,GE,0,9,-,13,8,12,1,1,1,1,0,0,1,0,0, Full Time,news,Not much TOG for %D,,,88
+291550,Joshua,Walker,GE,0,9,-,13,8,12,3,0,1,0,0,0,1,0,0, Full Time,news,%P on Blake,,,100
+230214,Mathew,Stokes,GE,0,6,-,6,6,9,0,3,0,0,0,0,0,0,0, Full Time,job,Defensive role on Milne... %O,,,98
+291949,Shane,Kersten,GE,0,4,-,6,5,7,1,0,1,0,0,0,1,0,1, Full Time,,,,,50

@@ -1,0 +1,48 @@
+Western Sydney,Giants,Melbourne,Demons,R19,19.10.124,12.15.87, Full Time
+Aug 03,2013,1.45,Showgrounds,Seven,280972,10391902,gws-v-melb,0,Mostly sunny,18,,
+
+<em style='color:#000'>Hadouken</em>: franklin&#044; youre fired<br><em style='color:#000'>Tonche</em>: Ward the star surely<br><em style='color:#000'>ozstriker</em>: Melbourne should merge with GWS<br><em style='color:#000'>coondambo</em>: has an interim coach ever been sacked before?<br><em style='color:#000'>Petrie4PM</em>: Silvia to lions&#044; sorry <br><em style='color:#000'>MarksMen</em>: That song made me think of a Maltese wedding I went too... Haha<br><em style='color:#000'>wrangle</em>: The song... a great modern sea shanty...lol<br><em style='color:#000'>HydeSide</em>: Bad luck guys&#044; but seriouslly you putt money on the Melbourne Demons in 2013? Respect your coin lads&#044; respect your coin<br><em style='color:#000'>ballbag</em>: cha ching- dees players collect pay packet and will slack off again alll week.<br><em style='color:#000'>Kenny27</em>: time for the circus music<br><em style='color:#000'>GJayBee</em>: putting money on melbourne! with the outs&#044; with the ins&#044; the ground&#044; the vibe!!!<br><em style='color:#000'>B.Pickett</em>: Thankyou fitzpatrick!!!<br>
+280109,Callan,Ward,WS,34,138,158,168,115,147,17,14,5,4,3,4,1,4,0, Full Time,cherry,Tagged by Grimes... %O and %M with %T and %s,,,419900,54,444000,55,Centre,8,17,92.8,95.2,0.84,0.79
+294305,Lachlan,Whitfield,WS,32,121,141,152,100,127,17,9,10,2,0,1,0,2,1, Full Time,star,%O and %M plus %T and %s,,,349000,90,366600,84,Centre,6,15,68.5,70.5,8.15,7.80
+280969,Tom,Scully,WS,30,120,114,152,101,135,11,18,11,5,0,1,1,0,0, Full Time,magnet,Various defensive roles in midfield but got a lot of it himself... %P and %M with %T,,,347000,133,355600,126,Centre,9,16,73.4,71.4,1.38,0.97
+291771,Devon,Smith,WS,27,110,104,135,89,113,17,8,4,2,0,3,0,3,2, Full Time,superman,%s from %O and %M on Clisby including three goals in Q4,,,315000,92,331100,92,Forward Centre,10,16,69.9,67,1.26,1.53
+290306,Curtly,Hampton,WS,14,93,99,121,74,102,15,9,7,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,,289900,21,337800,35,Back Forward,2,13,60.2,61.5,1.04,1.02
+291790,Adam,Treloar,WS,19,90,98,110,78,109,14,16,6,0,0,0,1,0,1, Full Time,news,%P and %M,,,419800,115,431200,126,Centre,17,16,89.8,87.4,0.51,0.56
+291802,Tomas,Bugg,WS,26,89,77,117,65,87,12,5,4,6,0,1,0,1,0, Full Time,news,%D and %T with %M... also %s,,,219300,16,243300,13,Back,14,10,52.3,56.2,0.82,1.00
+291492,Josh,Bruce,WS,18,83,91,109,64,84,9,7,7,5,0,1,0,0,0, Full Time,cash,%P and %T with %M,job,Following Watts,236200,43,256300,69,Back Forward,47,9,47.3,49.4,0.39,0.53
+291776,Taylor,Adams,WS,19,82,80,100,70,92,12,10,6,0,0,0,0,1,2, Full Time,news,%D and %M plus %s,tagger,Tagging Nathan Jones,348000,68,354000,47,Centre,11,12,79.9,74.5,0.21,0.15
+294685,Zac,Williams,WS,10,81,85,103,64,87,11,10,5,3,0,1,0,0,0, Full Time,cash,%P and %M,job,In defence on Byrnes,181900,-19,192400,-52,Back Centre,51,7,44.7,45.1,4.70,4.33
+200111,Dean,Brogan,WS,16,76,86,99,66,82,8,5,7,4,10,4,3,0,0, Full Time,news,%H and %D with %M... also %T and %F,,,265300,65,374800,87,Ruck,50,7,56,80.7,0.50,0.61
+293845,Jeremy,Cameron,WS,22,76,97,95,67,80,9,1,6,2,1,1,2,4,1, Full Time,news,%s from %P and %M on McDonald,,,357800,54,431000,46,Forward,18,16,69.7,75.8,2.47,2.53
+261841,Jonathan,Giles,WS,21,72,110,86,66,86,8,7,2,2,16,0,3,2,1, Full Time,news,%H and %T with %P and %M... also %s and %F,,,333100,71,364100,68,Ruck,26,17,69.1,75.6,2.30,3.02
+291819,Adam,Tomlinson,WS,14,69,55,87,58,78,11,7,5,1,0,0,1,1,0, Full Time,news,%s from %P and %M on Garland,,,360700,55,334300,43,Forward,20,12,73.9,67.3,0.46,0.26
+261189,Tim,Mohr,WS,14,68,68,90,56,69,12,1,10,0,0,0,0,0,0, Full Time,job,Takes the resting ruck which is mostly Fitzpatrick... %D and %M,,,242900,72,332300,87,Back,39,17,56,69.6,0.84,1.04
+291509,Adam,Kennedy,WS,13,64,83,82,50,72,8,10,2,4,0,1,1,0,0, Full Time,news,%P and %T,job,Minding Kent,243700,59,267200,73,Back,40,14,50.9,54.7,0.47,0.60
+295265,Nick,Haynes,WS,12,52,60,68,46,63,10,5,6,0,0,0,2,0,0, Full Time,job,In defence on Tapscott... %D and %M... %F as well,,,282600,48,343300,72,Forward Centre,19,7,58.6,68,1.04,1.87
+280804,Phil,Davis,WS,5,48,61,64,39,52,7,3,5,2,0,0,1,0,1, Full Time,job,At FB on Gawn... %O and %M,,,251100,103,303400,115,Back,1,8,49.4,57.8,0.42,0.48
+291783,Dylan,Shiel,WS,9,43,36,54,33,45,6,4,1,2,0,0,0,1,0, Full Time,news,%O and %s,,,364600,79,400100,68,Centre,5,17,72.6,77.2,0.77,0.87
+291969,Stephen,Coniglio,WS,3,36,22,46,27,39,5,5,1,2,0,0,0,0,0, Full Time,news,On in Q4 for Greene... %P,sub,Started as a sub,352800,81,347900,83,Centre,3,13,76.7,76.9,0.44,0.52
+295344,Toby,Greene,WS,3,34,42,42,30,43,4,7,2,1,1,0,1,0,0, Full Time,news,%2 Viney in midfield... %O and %M,subbed,Subbed off in Q4 for Coniglio,422400,97,384700,80,Centre,4,14,78.6,72.5,0.74,0.69
+293816,Mark,Whiley,WS,6,23,18,36,16,27,3,1,0,5,0,1,3,0,0, Full Time,tagger,Tagging Nathan Jones... %T and %F,,,191200,-4,178100,9,Back,42,3,52.7,39.7,0.74,0.42
+292029,Cameron,Pedersen,ME,20,98,109,75,80,106,12,11,7,3,0,0,0,1,1, Full Time,news,%M and %D plus %s,job,Has the resting ruck which is mostly Brogan,295500,55,345900,78,Back Ruck,21,8,57.5,65,0.75,1.72
+270976,Mitch,Clisby,ME,20,90,101,58,68,91,14,8,2,4,0,3,0,1,1, Full Time,cash,%D and %M plus %s... had a massive Q3,job,Running off Smith,236500,28,243700,24,Back,50,6,65.3,62.2,29.50,22.97
+250222,Nathan,Jones,ME,14,80,102,56,68,99,10,19,2,2,0,1,1,0,0, Full Time,tagged,Tagged by Adams... %P including %b by hand.. also %T,,,394400,103,462000,122,Centre,2,17,79.3,90.6,0.60,0.59
+280972,Jack,Watts,ME,20,80,81,63,69,85,9,6,8,1,0,0,0,2,1, Full Time,news,Kicked %s from %D and %M on Bruce,,,313600,36,369000,65,Back Forward,4,13,63.7,73,2.04,2.17
+294570,Dean,Kent,ME,16,76,59,55,62,79,10,5,5,2,0,0,0,2,1, Full Time,news,Kennedy on him... %P and %M,,,145700,74,154800,86,Centre,34,10,33.9,33.1,0.79,0.89
+261297,Jack,Grimes,ME,14,74,68,59,59,82,9,10,4,4,0,1,1,0,1, Full Time,news,%O and %T with %M,tagger,Tagging Ward,364400,111,359100,119,Back,31,10,75,77.9,4.15,1.80
+291902,Jack,Viney,ME,10,71,97,52,60,84,9,13,4,2,0,1,1,0,0, Full Time,news,%2 Greene in midfield... %D and %M with %T,,,270400,39,284500,54,Centre,7,8,63,65.1,15.42,20.93
+280521,Jake,Spencer,ME,17,68,98,66,65,76,3,8,3,2,22,4,2,1,0, Full Time,news,%H and %D with %T and %M... also %s,,,320200,79,341600,63,Ruck,42,3,62.3,70,0.17,0.21
+230022,Shannon,Byrnes,ME,14,64,64,53,58,78,6,12,5,1,0,0,1,1,0, Full Time,news,%s from %D and %M on Williams,,,268500,34,275100,32,Forward,10,14,60.6,56.9,2.46,3.16
+280608,Jack,Trengove,ME,15,63,75,53,53,69,6,9,4,2,0,1,0,1,0, Full Time,news,%D and %M,,,381000,80,365300,64,Centre,9,15,78.6,74.9,0.57,0.75
+296027,Matt,Jones,ME,9,62,66,34,55,76,11,9,5,0,0,1,2,0,1, Full Time,news,%O and %M plus %s,,,348800,114,365300,101,Centre,45,17,73.9,71.7,2.92,2.18
+270241,Dean,Terlich,ME,10,61,77,43,47,66,10,4,4,4,0,1,2,0,0, Full Time,news,No late out for him... %P and %M with %T,,,394800,137,416200,134,Back,46,15,78.1,78.4,24.43,21.64
+270830,Colin,Garland,ME,5,57,50,46,44,60,7,6,4,3,0,0,0,0,0, Full Time,news,%O and %T,job,On Tomlinson,370100,129,429300,141,Back,20,16,69.1,84,0.57,0.77
+291533,Tom,McDonald,ME,4,55,80,35,42,57,9,5,3,2,0,1,0,0,0, Full Time,job,Following Cameron... %P and %M,,,299000,59,388600,89,Back,25,12,61.6,74,0.21,0.27
+280579,Luke,Tapscott,ME,5,50,42,31,39,52,9,2,4,2,0,1,1,0,1, Full Time,news,%s from %D and %M on Haynes,,,194300,62,178100,46,Back,35,11,45.3,41.1,0.33,0.74
+280758,Jack,Fitzpatrick,ME,11,50,55,34,47,60,7,3,3,1,5,1,3,2,1, Full Time,news,First goal... %s from %P and %G on Mohr... also %H,,,260000,43,310000,45,Ruck,48,8,61.8,64.4,2.51,1.07
+250548,Lynden,Dunn,ME,4,49,56,27,42,57,9,5,5,0,0,0,1,0,0, Full Time,news,In defence again... %P and %M,,,315300,70,412300,65,Back Forward,14,13,66.4,77.4,0.52,0.48
+293042,Jimmy,Toumpas,ME,5,49,50,36,40,54,7,5,4,2,0,1,1,0,0, Full Time,news,%O and %T with %M,,,240200,87,228600,73,Centre,5,11,44.5,38.6,4.22,5.22
+291313,Jeremy,Howe,ME,8,44,50,31,36,43,6,2,3,1,0,2,0,1,1, Full Time,news,%s from %D and %M,,,289400,90,332000,80,Forward,38,17,71.1,76.4,1.39,1.38
+240037,Colin,Sylvia,ME,2,40,67,19,32,45,8,5,1,1,0,2,1,0,0, Full Time,tagged,Tagged by Whiley... %D,,,377800,77,439900,66,Forward Centre,12,14,83.7,87.4,1.06,0.81
+290528,Max,Gawn,ME,4,36,55,34,29,36,3,2,3,2,6,0,0,0,0, Full Time,news,Starting at FF on Davis.... %P and %M... also %H,subbed,Subbed off in Q3 for Davey,344400,68,356600,35,Ruck,37,11,68.8,73.1,5.12,5.35
+200002,Aaron,Davey,ME,1,23,11,11,20,31,5,3,1,1,0,0,2,0,1, Full Time,news,On in Q3 for Gawn,sub,Started as a sub,222900,69,225200,48,Forward,36,15,49.7,47.9,0.94,0.81

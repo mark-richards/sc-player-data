@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Richmond,Tigers,R15,19.14.128,8.18.66, Full Time
+Jul 06,2013,2.10,Docklands,Seven,240417,10391503,nmfc-v-rich,0,Roof closed,14,,
+
+<em style='color:#000' title="HTFU">htfu</em>: just mental...<br><em style='color:#000'>casey22</em>: Hey runt&#044; footballers can't get mentally fatigued!!<br><em style='color:#000'>Warney</em>: ggood to have the old richmond back<br><em style='color:#000'>RooBoyStu</em>: GO KANGAS! thanks for coming tigers<br><em style='color:#000'>dansuarez</em>: boomer <br><em style='color:#000'>runt</em>: Tigers mentally fatigued<br><em style='color:#000'>Griffo7</em>: cotch?<br><em style='color:#000'>RooBoyStu</em>: too early for star Ziebell needs it&#044; at least a cherry<br><em style='color:#000'>boges11</em>: @Ewoks Ibbo hasn't played yet /crosses fingers<br><em style='color:#000'>bixler</em>: great observation Sloaney<br><em style='color:#000' title="MIJG">mijg</em>: Dismal stuff from Deledio. What happened? He used to be good.<br><em style='color:#000'>dipstick</em>: how can JRoo have a bin? he doesnt have enough pts to put in it.<br>
+250285,Leigh,Adams,NM,30,124,117,158,100,133,14,15,10,5,0,1,0,0,1, Full Time,star,Second good game in a row... %s from %O and %M... also %T,,,319200,58,358200,64,Forward Centre,13,13,65.4,73.2,1.06,1.15
+960491,Brent,Harvey,NM,27,117,125,147,91,121,16,11,4,5,0,2,0,2,1, Full Time,gun,Tagged by Morris... %O and %T with %M and %s,,,399800,105,471200,118,Forward Centre,29,7,86.4,100.4,3.33,5.97
+270861,Levi,Greenwood,NM,30,110,107,140,90,121,14,12,6,5,4,2,2,1,0, Full Time,hot,%D and %M... also %T and %F,tagger,Tagging Deledio,254500,12,244000,-21,Centre,24,2,76.5,85,0.50,0.73
+280944,Jack,Ziebell,NM,22,103,109,130,83,112,16,9,5,3,0,0,1,2,1, Full Time,hot,Playing forward a bit for %s... %D and %M plus %s,,,458700,93,493300,104,Centre,7,10,90.5,93.8,0.79,1.31
+250373,Lachlan,Hansen,NM,24,99,116,130,85,106,14,5,15,1,0,0,1,0,1, Full Time,news,Loose in defence... %P and %M... also %s,,,325300,17,326900,11,Forward,6,11,67.2,65.3,0.59,0.51
+291672,Aaron,Black,NM,30,95,94,121,75,94,12,3,6,4,0,0,0,3,1, Full Time,news,%s from %G and %P on Batchelor... %T as well,,,311400,118,367000,130,Forward,35,9,69.3,80.6,4.45,7.26
+281395,Scott D.,Thompson,NM,21,92,119,121,70,96,12,9,5,6,0,2,1,0,0, Full Time,news,%P and %T,job,Takes Riewoldt,377700,93,478500,102,Back,16,13,78,97,1.90,3.16
+210023,Drew,Petrie,NM,21,90,82,116,74,93,14,3,8,2,5,1,1,1,1, Full Time,news,Booted %s from %D and %G on Chaplin,,,413400,103,535400,123,Forward,20,13,82.1,100.7,3.54,4.20
+240131,Nathan,Grima,NM,14,87,103,114,69,90,16,4,9,1,0,0,0,0,0, Full Time,rock,On Vickery... %O and %M,,,326400,40,408900,50,Back,17,12,63.4,74.4,0.80,0.77
+271129,Todd,Goldstein,NM,27,85,131,97,78,94,5,7,1,3,44,1,2,0,2, Full Time,heart,%H and %P plus %T and %s... sore neck after a clash with Aaron Edwards in Q2,,,439300,115,551900,129,Ruck,22,13,91.2,112.3,14.05,12.24
+230232,Daniel,Wells,NM,13,82,92,101,66,91,14,11,3,1,3,1,0,0,1, Full Time,news,%O starting on a HFF on Dea,,,394600,102,442600,124,Centre,8,13,80.2,93.2,0.90,1.01
+240417,Andrew,Swallow,NM,13,74,78,90,59,87,11,15,1,2,0,0,0,0,0, Full Time,tagged,Tagged by Jackson... %O including %B,,,465000,82,509900,102,Centre,9,13,102.2,107.2,14.24,8.00
+280863,Ryan,Bastinac,NM,15,71,110,83,63,85,8,13,2,1,0,1,1,2,1, Full Time,news,%P including %b by hand... also %s,,,376500,52,446400,14,Centre,3,13,81.7,88.8,0.91,1.29
+270325,Robbie,Tarrant,NM,21,64,100,79,53,66,5,3,2,4,0,0,1,4,0, Full Time,news,First goal... %s from %P and %T on Rance including three big ones in Q2,,,264300,76,302700,72,Forward,25,4,52.3,58.5,0.39,0.34
+291445,Aaron,Mullett,NM,14,62,70,79,50,69,10,5,1,3,0,1,2,2,0, Full Time,crown,Minding King... %P and %T plus %s,,,352800,98,401700,85,Centre,41,13,76.5,82.2,3.50,3.37
+250557,Sam,Gibson,NM,13,61,55,74,51,69,8,9,3,1,0,0,0,1,0, Full Time,news,%2 Grigg... %D,,,402800,83,408800,69,Centre,43,13,85.5,77.1,0.40,0.40
+280921,Ben,Cunnington,NM,14,61,68,79,50,69,9,6,3,3,0,1,2,1,0, Full Time,news,%P and %T,subbed,Subbed off in Q4 for McKenzie,421600,68,490400,84,Centre,10,11,80.8,92.8,0.59,0.73
+290194,Jamie,MacMillan,NM,7,56,-,69,46,69,6,13,1,3,0,0,1,0,0, Full Time,news,%B among %O with %T,,,300700,79,322600,69,Centre,34,13,66.5,67.9,0.78,0.68
+290787,Shaun,Atley,NM,7,52,68,67,42,64,8,9,1,3,0,0,2,0,1, Full Time,news,%D including %K... also %T,,,306300,53,360100,63,Back,18,13,64.1,71.6,2.47,4.80
+290538,Taylor,Hine,NM,4,46,40,60,34,48,6,5,2,3,0,0,0,0,0, Full Time,news,%D,,,192500,-6,194700,8,Back,26,8,44.5,40.4,0.20,0.30
+230272,Michael,Firrito,NM,3,40,43,53,30,42,6,4,1,3,0,2,1,0,0, Full Time,job,Following Aaron Edwards... %O and %T,,,267500,60,279300,66,Back,11,13,60.1,61.5,1.15,1.10
+291963,Brad,McKenzie,NM,1,19,12,23,16,22,3,3,1,0,0,0,0,0,1, Full Time,news,On in Q4 for Cunnington,sub,Started as a sub,108500,-65,115900,-44,Centre,2,2,68,57.5,0.79,0.41
+240130,Nathan,Foley,RI,21,100,110,68,72,102,16,8,4,6,0,0,0,0,0, Full Time,hot,%O and %T with %M,,,384000,79,430000,95,Centre,41,7,72.9,70.9,0.17,0.25
+270896,Trent,Cotchin,RI,25,100,104,64,73,102,17,8,3,6,0,3,1,0,0, Full Time,hot,%B among %D with %M and %T,,,390000,89,499500,111,Centre,9,12,90.3,108.3,20.24,25.92
+290847,Dustin,Martin,RI,14,88,85,65,68,95,12,11,3,5,0,2,1,0,2, Full Time,news,%P and %T,,,440800,129,494200,133,Forward Centre,4,13,95.6,102.8,38.86,34.62
+250298,Shaun,Grigg,RI,14,86,90,69,68,97,10,14,3,5,1,1,1,0,0, Full Time,news,%2 Gibson... %D and %T,,,483100,125,430400,87,Centre,6,13,93.8,81.5,0.45,0.49
+240336,Brett,Deledio,RI,13,75,75,55,54,75,11,5,3,5,1,0,0,0,2, Full Time,tagged,Tagged by Greenwood... %O and %T,,,471800,125,551800,163,Centre,3,13,97.3,108.9,11.81,14.45
+240389,Matt,White,RI,15,71,62,41,59,82,12,7,2,2,0,0,2,2,1, Full Time,news,On in Q2 for Ellis... %O,sub,Started as a sub,237400,46,208200,63,Centre,35,8,50,39.4,0.78,0.70
+240707,Daniel,Jackson,RI,15,67,63,53,57,78,8,9,4,3,0,1,2,1,0, Full Time,tagger,Tagging Swallow.... %P and %s,sore,Ankle problem in Q1 but quickly returned,436100,107,466900,72,Centre,23,13,88.5,87.8,0.76,1.05
+261167,Orren,Stephenson,RI,15,67,77,70,54,65,3,4,2,5,22,1,0,0,1, Full Time,news,%H and %P with %T,,,280200,64,347900,38,Ruck,37,3,63,86,0.48,0.48
+260433,Steven,Morris,RI,16,66,62,57,53,72,7,6,2,5,0,1,2,2,0, Full Time,tagger,Tagging Harvey... %O and %T,,,173100,35,231700,52,Back,38,12,37.6,47.6,0.86,1.15
+290823,Reece,Conca,RI,9,66,68,43,49,67,11,4,4,3,0,0,0,0,1, Full Time,news,%D and %T with %M,,,390700,73,399300,84,Centre,30,7,83.6,85,0.38,0.59
+260930,Shane,Edwards,RI,18,64,58,49,43,64,9,6,0,6,0,0,0,0,1, Full Time,news,%D and %T plus %s,,,334100,72,389500,89,Forward,10,13,70.5,81,0.60,0.68
+270941,Tyrone,Vickery,RI,6,61,72,52,51,64,6,4,3,3,14,1,1,0,2, Full Time,news,%s from %D and %T on Grima... %H as well,,,291200,6,383000,-27,Forward,29,12,64,79,3.61,3.38
+261362,Alex,Rance,RI,12,58,88,47,54,72,6,11,7,0,0,0,1,0,0, Full Time,job,Zoning off Tarrant... %O and %M,,,318600,81,421600,69,Back,18,13,67.1,83.3,1.69,1.86
+271437,Jake,King,RI,4,58,66,37,44,59,10,3,3,3,0,2,1,0,2, Full Time,news,%D on Mullett,,,233900,81,327600,75,Forward,28,12,53,69.3,1.25,1.32
+230240,Aaron,Edwards,RI,9,55,52,49,39,55,6,5,2,5,0,0,0,0,1, Full Time,news,%s from %D and %T on Firrito,,,307800,23,369700,12,Forward,27,4,65.8,78.3,0.24,0.26
+291437,Jake,Batchelor,RI,8,52,26,33,43,57,9,3,6,1,0,0,1,0,0, Full Time,news,%M and %P,job,On Black,248900,57,318800,80,Back,11,8,50.3,62.5,0.23,0.31
+240180,Troy,Chaplin,RI,4,50,46,38,39,48,7,2,5,2,0,2,0,0,0, Full Time,job,Standing Petrie... %D and %T with %M,,,268400,93,341300,99,Back,25,12,56.1,64.3,0.88,0.70
+210048,Chris,Newman,RI,3,41,45,24,32,43,7,4,2,1,0,1,0,0,1, Full Time,news,%P and %s,,,334200,75,409200,104,Back,1,12,68.9,82.5,2.89,3.45
+250395,Jack,Riewoldt,RI,9,35,45,26,28,37,5,0,0,3,0,1,2,2,1, Full Time,garbage,%s from %D and %T on Thompson... no goals until late in Q4,,,360300,40,441500,45,Forward,8,13,76.5,90.2,7.64,10.12
+294674,Nick,Vlastuin,RI,2,30,35,24,20,27,4,2,0,3,0,2,0,0,0, Full Time,wall,Slow start and never really got into it... %D and %T,,,357700,118,405700,137,Back Centre,31,8,80.1,82.8,46.21,44.84
+292025,Matt,Dea,RI,1,21,24,18,17,24,2,4,1,1,0,0,0,0,0, Full Time,job,Mostly on Wells... %D,in,Late replacement for Bachar Houli,237000,41,262900,43,Back,7,2,56.5,58.5,0.17,0.26
+293713,Brandon,Ellis,RI,6,18,38,16,17,21,1,3,1,0,0,0,0,1,0, Full Time,injured,%P and %s... has his head smashed into the hip of Firrito in Q1 leaving him groggy,subbed,Subbed off in Q2 for White,438300,151,479800,144,Back,5,11,72.2,77.3,5.30,5.25

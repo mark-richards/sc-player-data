@@ -1,0 +1,48 @@
+Gold Coast,Suns,North Melbourne,Kangaroos,R11,9.12.66,8.3.51, Full Time
+Jun 08,2013,7.40,Gold Coast,Seven,281395,10391104,gcfc-v-nmfc,0,A shower or two,22,,
+
+<em>matthius</em>: c'mon - upscale gazza to 150<br><em>^loser</em>: what a surprise. BigFooty down for the 3rd time this year&#044; conincidently&#044; after a north loss.<br><em>mstrbatten</em>: the 40% off scers who don't have gaz should give up<br><em>matthius</em>: *sc i meant<br><em>dashurg</em>: GAJ needs a halo symbol.<br><em>dashurg</em>: Loophole isn't an issue if GAJ plays first. If he gets 110 or less&#044; put it on someone else. Easy.<br><em>matthius</em>: ablett only owned by 54% in dt. crazy!<br><em title="MIJG">mijg</em>: thats huge considering GAJ was on 16 at quater time<br><em>ShaneO85</em>: 33 possesions and 2 goals in the wet...pretty sure that is BOG in my books<br><em>matthius</em>: the only time the loophole is needed is when the suns have the bye. legend ablett<br><em>ballbag</em>: who took walkers loophole- ouch if you lose by less than 8<br><em>cusch1</em>: GAJ needs his own symbol<br>
+220001,Gary,Ablett jnr,GC,26,119,153,147,93,129,18,15,0,5,0,3,1,2,3, Full Time,x-factor,%2 Wells.. %P and %T plus %s,dttalk,THe #1 captain choice by Calvin of DT Talk,612300,115,679500,135,Centre,9,10,122.2,135.9,63.85,59.54
+290527,Trent,McKenzie,GC,25,114,114,152,85,114,21,4,9,4,0,0,0,0,0, Full Time,star,Loose in defence and dominated the game in that role as the Roos refused to man him up... %P and %M with %T... had a very productive Q1,,,380100,85,429200,71,Back,18,6,85.8,92.7,2.71,1.85
+290815,Thomas,Nicholls,GC,56,113,139,138,93,120,2,14,3,10,33,0,1,0,0, Full Time,hot,%H and %D with %T,,,108500,,115900,,Ruck,22,1,76,90,1.01,0.77
+290627,Dion,Prestia,GC,26,109,113,142,83,117,16,12,5,6,0,1,1,0,0, Full Time,magnet,%O and %M with %T,,,472300,51,507200,81,Centre,10,9,98,96,0.40,0.27
+250146,Thomas,Murphy,GC,31,107,104,145,78,108,15,6,7,8,0,0,1,0,0, Full Time,hot,%D and %T with %M,job,Responsible for Wright,279800,81,342000,109,Back,29,8,59.5,70.3,0.81,0.95
+240254,Jarrod,Harbrow,GC,26,106,114,133,83,118,15,15,2,5,0,1,1,1,1, Full Time,hot,%O and %T plus %M and %s,,,370500,97,410400,119,Back,5,10,81.3,83.7,4.25,1.61
+281025,Luke,Russell,GC,16,92,105,112,75,102,11,13,3,3,0,0,0,2,0, Full Time,news,Started on a wing on Gibson... %P and %s,,,271600,32,241800,17,Back,8,7,53.6,48.1,0.19,0.14
+294613,Jaeger,O'Meara,GC,25,89,90,113,70,102,9,16,3,6,0,0,1,0,0, Full Time,news,%D and %T with %M,,,403900,92,424200,112,Centre,1,10,87.1,88.5,63.86,64.78
+296735,Aaron,Hall,GC,44,80,87,109,53,78,9,5,0,10,0,0,1,1,0, Full Time,news,%O and %T on Hine,,,300500,60,321700,61,Forward,33,10,62.8,60.7,0.51,0.45
+290790,Matthew,Shaw,GC,19,75,96,89,62,87,5,17,1,4,0,1,0,1,0, Full Time,news,%D and %T plus %s,,,337400,112,369700,99,Back,26,10,67.2,69.9,0.65,0.44
+220013,Campbell,Brown,GC,8,74,79,98,55,78,15,4,3,3,0,0,1,0,3, Full Time,news,%s from %D and %T on Atley... also %M,,,291400,65,330400,47,Forward,30,4,65.8,76.8,0.96,0.95
+240712,Michael,Rischitelli,GC,19,74,82,97,53,75,7,9,2,7,0,1,0,0,0, Full Time,news,%P with %b by hand,,,327400,78,351100,85,Centre,35,7,66.3,71.9,0.89,0.77
+293813,Thomas,Lynch,GC,19,71,87,85,63,79,6,9,6,1,0,0,0,2,1, Full Time,news,Kicked %s from %D and %M starting at FF on Grima,,,321900,68,351400,46,Forward,19,6,66.8,71.8,0.29,0.29
+290832,David,Swallow,GC,8,69,64,91,50,69,15,3,3,2,0,1,0,0,0, Full Time,job,Playing in defence on Thomas... %P,,,311200,83,381600,99,Centre,24,10,67.4,78,2.13,1.83
+250249,Danny,Stanley,GC,13,68,73,90,50,72,10,7,2,5,0,1,1,0,0, Full Time,news,%O and %T with %M,,,411000,105,425200,91,Back,25,6,80.7,78.2,0.83,0.27
+291753,Sam,Day,GC,10,54,55,76,40,57,10,1,4,4,0,0,2,0,0, Full Time,job,In defence on Black... %O and %T with %M,,,240400,99,317900,121,Forward,12,10,49.7,58.5,3.35,2.70
+281075,Rory,Thompson,GC,4,50,75,65,37,52,9,4,2,2,0,0,0,0,1, Full Time,job,Standing Petrie... %P,,,286600,79,361700,80,Back,16,10,58.2,72.1,0.89,1.17
+296940,Tim,Sumner,GC,13,44,43,60,29,40,3,3,1,6,1,1,0,0,0, Full Time,bubble,Second game... %P on Hansen,,,102700,,109500,,Forward,39,1,41,55,1.21,0.79
+280711,Charlie,Dixon,GC,3,37,50,48,30,43,5,4,0,3,7,1,2,0,0, Full Time,injured,Started in ruck... %H and %P... also %F... right ankle twisted in Q4,subbed,Subbed off in Q4 for Hutchins,374000,72,482400,99,Back,23,6,84.7,104.5,4.81,6.08
+250260,Liam,Patrick,GC,7,27,16,41,20,33,5,1,1,4,0,0,3,0,0, Full Time,news,Thompson on him.. %P and %T,,,232500,,224700,,Forward,43,0,0,0,0.17,0.21
+290703,Joel,Wilkinson,GC,1,27,33,36,20,30,7,2,0,1,0,1,1,0,0, Full Time,tagger,Tagging Harvey... %D,,,203700,71,250700,62,Back,38,5,42.8,60.6,0.66,1.90
+290811,Jack,Hutchins,GC,1,10,5,14,6,9,0,1,0,2,0,0,0,0,0, Full Time,news,On in Q4 for Dixon,sub,Started as a sub,209800,30,187000,14,Back,34,7,52.9,51.1,2.95,4.47
+280921,Ben,Cunnington,NM,48,112,107,100,77,117,13,12,1,13,0,0,2,0,0, Full Time,hot,%P including %B with %T,,,399200,60,470100,62,Centre,10,10,77.7,91.4,0.68,0.82
+230232,Daniel,Wells,NM,27,108,100,68,77,103,19,2,5,6,1,1,0,1,0, Full Time,hot,%2 Ablett jnr... %D and %M plus %s,,,368500,73,463200,99,Centre,8,10,78.2,96.5,0.82,0.82
+281395,Scott D.,Thompson,NM,25,103,109,75,73,99,16,4,6,7,0,1,0,0,0, Full Time,hot,%P and %M with %T,job,Running off Patrick,356300,79,464000,94,Back,16,10,76,96.2,1.54,2.27
+271129,Todd,Goldstein,NM,40,102,117,92,92,104,6,4,2,3,59,2,1,0,0, Full Time,hot,%H and %D with %T,,,425300,80,558900,121,Ruck,22,10,91.4,113.6,13.43,10.88
+250557,Sam,Gibson,NM,26,85,91,63,63,90,12,8,2,6,0,0,1,1,0, Full Time,news,Started on a wing on Russell... %P and %T,,,396300,56,368100,49,Centre,43,10,84.9,73.1,0.39,0.39
+240417,Andrew,Swallow,NM,38,76,76,89,48,69,4,6,1,12,0,1,0,0,0, Full Time,news,Slow start... %O and %T,,,461500,83,535100,87,Centre,9,10,103.3,110.8,13.56,8.14
+240131,Nathan,Grima,NM,14,75,107,43,55,81,14,7,2,4,0,0,1,0,0, Full Time,news,%P and %T,job,Has Lynch,262700,44,319800,75,Back,17,9,57.2,65.2,0.50,0.50
+210023,Drew,Petrie,NM,22,73,82,70,55,70,6,4,3,6,1,1,0,2,0, Full Time,news,Booted %s from %G and %P on Thompson... %T as well,,,415800,41,549500,41,Forward,20,10,83,102.4,3.17,3.76
+291445,Aaron,Mullett,NM,9,69,80,38,52,75,13,7,2,3,0,1,1,0,0, Full Time,news,%P and %T,,,337200,18,350500,14,Centre,41,10,79.5,82.8,3.67,3.21
+250285,Leigh,Adams,NM,38,67,67,77,43,66,4,7,0,11,0,0,1,0,0, Full Time,news,%D and %T,,,294600,32,353200,46,Forward Centre,13,10,63.4,73,0.83,0.88
+280864,Sam,Wright,NM,18,66,83,55,46,66,8,7,1,6,0,1,0,0,0, Full Time,news,Murphy on him... %O and %T,,,205200,78,268900,90,Back,19,9,38,47,0.36,0.46
+960491,Brent,Harvey,NM,13,66,74,42,51,78,11,10,1,4,0,0,2,0,0, Full Time,tagged,Tagged by Wilkinson...%O and %T,,,456400,98,529500,107,Forward Centre,29,4,96.3,115,2.22,4.52
+291672,Aaron,Black,NM,15,65,60,53,50,60,7,4,1,4,0,5,0,2,0, Full Time,news,Kicked %s from %P on Day,,,317500,29,398900,51,Forward,35,6,79.2,95.2,3.62,6.51
+261909,Lindsay,Thomas,NM,10,57,52,47,45,56,6,3,2,3,0,1,0,2,2, Full Time,news,First goal... %s from %O on Swallow... also %T and %M,,,307500,40,377600,32,Forward,12,10,69.3,77.8,1.14,1.35
+250135,Scott,McMahon,NM,9,51,56,31,35,51,10,1,2,4,0,0,1,0,0, Full Time,sore,%P and %T with %M... right thumb knock in Q4,,,286300,64,361600,88,Back,42,9,63.7,75.1,0.51,0.50
+290787,Shaun,Atley,NM,4,51,59,41,39,54,6,7,2,3,0,1,0,0,0, Full Time,job,Brown manning him up... %D and %T with %M,,,308100,57,353600,57,Back,18,10,63.7,71.5,2.66,5.26
+230272,Michael,Firrito,NM,4,50,56,36,41,54,7,5,5,1,0,0,0,0,0, Full Time,news,Loose in defence... %O and %M,,,276600,64,307300,90,Back,11,10,61.8,63.9,1.11,1.01
+290194,Jamie,MacMillan,NM,2,44,-,13,31,45,11,3,0,1,0,1,0,0,0, Full Time,news,%O,,,334700,60,368700,66,Centre,34,10,70.5,72.6,0.86,0.78
+280863,Ryan,Bastinac,NM,4,40,47,39,33,48,3,8,2,3,0,0,1,0,0, Full Time,news,%B among %P with %M and %T,,,381300,48,398200,30,Centre,3,10,83,84.9,0.85,1.15
+290538,Taylor,Hine,NM,2,32,34,22,25,36,5,4,1,2,0,1,1,0,0, Full Time,news,%D,job,Minding Hall,211300,110,217800,109,Back,26,5,38.6,35.6,0.17,0.19
+280612,Will,Sierakowski,NM,1,20,23,10,14,21,4,2,0,1,0,0,0,0,0, Full Time,in,Late replacement for Majak Daw... on in Q3 for Hansen,sub,Started as a sub,131600,1,139800,-6,Back,28,3,41.7,41.7,2.76,2.86
+250373,Lachlan,Hansen,NM,1,18,10,22,11,15,1,0,1,3,0,0,0,0,0, Full Time,job,In defence on Sumner... %O and %T,subbed,Subbed off in Q3 for Sierakowski,322900,39,339500,40,Forward,6,8,65.9,65,0.48,0.47

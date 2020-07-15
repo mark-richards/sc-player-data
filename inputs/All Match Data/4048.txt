@@ -1,0 +1,48 @@
+Geelong,Cats,Melbourne,Demons,R6,17.17.119,11.10.76, Full Time
+May 5,2012,1:45,Kardinia,Seven,220054,10340603,430055,0,Isolated showers,16,,
+
+<em>crafer</em>: good onya hawktalker&#044; which medal would you like ?<br><em>deco</em>: traded swan in last week&#044; then pendles and stevie j this week :D<br><em>PiesGOGOGO</em>: Give Couch a run FFS<br><em>Chrisaint</em>: chappy and jimmy luv<br><em>wolfheart</em>: Chistensen got hit with the Wolfheart SuperCoach Curse at half time.<br><em>kbbr</em>: cant beleive my luck this week ive gone through 9 players for 1500 lol<br><em>piesvendet</em>: why would neeld waste an in an under player as good as magner tagging<br><em>frenzy</em>: Lol heppell 89 SC and 137 DT<br><em>old_shepp</em>: Disappointing Magner - now relegated to bench only cash cow<br><em>Costanza</em>: he was tagged hard&#044; pure and simple<br><em>HawkTalker</em>: YES! I put Stevie J in this week. YESSS!! EAAT ITTT<br><em>E Kavastar</em>: Well done Chappy. Good last 2 weeks<br>
+220054,Steve,Johnson,GE,54,163,169,205,133,176,18,17,10,7,0,0,1,3,2, Full Time,star,First goal... enjoyed himself in midfield... %s from %O and %T with %M,,
+200039,Paul,Chapman,GE,32,119,122,153,98,126,15,7,9,5,0,1,2,3,0, Full Time,hot,%P and %T with %M and %s on Garland,,
+281065,Mitch,Duncan,GE,26,116,113,147,95,130,15,16,8,4,0,1,1,0,1, Full Time,hot,%2 Jones... had a good Q1... %D and %M... also %T and %s,,
+200131,James,Podsiadly,GE,26,113,116,144,91,111,16,3,9,3,0,2,0,3,0, Full Time,hot,Booted %s from %D and %G on Rivers... also %T,,
+200034,Joel,Corey,GE,20,107,117,127,89,124,10,24,2,4,2,3,0,0,2, Full Time,hot,%2 Moloney... %O including %B... also %M and %T with %s,,
+200035,Corey,Enright,GE,20,106,104,131,87,120,13,18,6,3,0,1,0,0,0, Full Time,job,%O and %M with %T on Davey,sore,Had his nose rearranged in Q1
+280990,Steven,Motlop,GE,20,93,89,117,74,105,17,11,3,2,0,0,1,1,0, Full Time,cash,%O and %M with %T on Bail,,
+261510,Tom,Hawkins,GE,25,91,86,114,78,93,13,3,10,0,7,1,0,1,2, Full Time,news,Booted %s from %P and %M on Frawley... also %H,,
+980037,Matthew,Scarlett,GE,15,90,115,119,71,96,15,6,8,3,0,0,1,0,0, Full Time,job,Zoning off Sellar with ease... %D and %M with %T,,
+261497,Harry,Taylor,GE,19,89,95,109,76,102,9,16,7,2,0,1,0,0,0, Full Time,news,%P and %T with %M,,
+220058,James,Kelly,GE,15,87,86,110,69,97,14,10,3,3,0,0,1,1,1, Full Time,news,%D and %M with %T and %s,,
+280125,Tom,Gillies,GE,14,82,83,107,67,90,11,8,8,3,0,0,1,0,0, Full Time,job,Standing Clark... %M and %O with %T,in,Late replacement for Tom Lonergan (ankle)
+230248,Andrew,Mackie,GE,20,81,85,101,69,90,10,8,6,2,0,0,1,2,0, Full Time,news,%D and %M plus %T... also %s,,
+220007,Jimmy,Bartel,GE,19,75,97,94,59,79,8,8,1,5,1,2,1,2,0, Full Time,tagged,Tagged by McKenzie... %D and %T plus %s,subbed,Subbed off in Q3 for Guthrie
+230022,Shannon,Byrnes,GE,20,74,70,95,57,79,5,11,4,6,0,0,0,0,1, Full Time,news,%s from %D and %T with %M on Bartram,in,Late replacement for Joel Selwood (concussion)
+210059,Josh,Hunt,GE,9,72,76,95,55,78,13,6,4,3,0,0,1,0,0, Full Time,news,%D and %M plus %T,,
+291309,Jesse,Stringer,GE,19,72,64,91,60,85,8,11,3,4,0,0,2,1,1, Full Time,cash,%s from %D and %M with %T,,
+280918,Allen,Christensen,GE,9,71,76,87,59,82,10,12,4,1,0,0,0,0,1, Full Time,news,%P and %M,,
+290783,Billie,Smedts,GE,4,50,42,65,40,52,8,3,5,1,0,0,0,0,1, Full Time,cash,%P and %M plus %s,,
+290622,Mitchell W.,Brown,GE,3,47,41,62,35,47,6,3,3,3,0,0,0,0,2, Full Time,news,No touches in Q1... %s from %P and %T on McDonald... also %M,,
+260261,Trent,West,GE,8,35,45,40,35,44,2,4,1,1,20,0,2,0,0, Full Time,news,%H and %D,,
+290550,Cameron,Guthrie,GE,0,10,9,12,9,12,1,2,1,0,0,0,0,0,0, Full Time,news,On in Q3 for Bartel... %P,sub,Started as a sub
+240393,Mitchell,Clark,ME,27,112,130,74,96,118,16,5,8,1,2,1,1,4,2, Full Time,hot,Booted %s from %G and %P on Taylor... also %H,,
+250222,Nathan,Jones,ME,21,99,89,67,76,97,15,4,5,4,0,2,0,2,1, Full Time,news,%2 Duncan... %P and %T plus %M and %s,,
+260288,James,Frawley,ME,18,95,100,59,70,93,17,2,7,4,3,0,0,0,0, Full Time,tomahawk,On Hawkins... %P and %M with %T,,
+270830,Colin,Garland,ME,24,87,79,73,64,84,11,4,7,6,0,1,0,0,0, Full Time,news,%P and %T with %M,switch,Responsible for Chapman but switched forward in Q3
+250245,Clint,Bartram,ME,20,81,80,71,62,84,9,8,5,6,0,2,1,0,0, Full Time,news,%P and %T with %M,job,Following Byrnes
+220052,Mark,Jamar,ME,28,80,65,77,75,85,3,7,4,1,40,1,0,0,0, Full Time,news,%H and %P with %M,,
+261297,Jack,Grimes,ME,9,75,80,48,62,87,11,13,4,1,0,0,0,0,0, Full Time,sore,%D and %M... left ankle knock in Q2,,
+280608,Jack,Trengove,ME,14,75,63,64,64,87,7,14,6,2,0,0,0,0,0, Full Time,news,Very disappointing start to 2012... %O and %M plus %T,,
+291313,Jeremy,Howe,ME,18,75,76,53,63,80,10,7,6,1,0,1,0,1,2, Full Time,news,%s from %D and %M on Gillies,,
+270985,Cale,Morton,ME,9,73,70,51,57,78,10,10,2,3,1,2,0,0,2, Full Time,news,%D and %T plus %s,,
+260176,James,Magner,ME,10,66,61,58,51,67,7,6,5,4,0,1,0,0,1, Full Time,cash,%P and %T with %M,tagger,Went forward to tag Scarlett in Q3
+280579,Luke,Tapscott,ME,5,61,54,44,46,63,9,5,4,3,0,0,0,0,0, Full Time,news,%O and %M with %T,subbed,Subbed off in Q3 for Dunn
+250510,Matthew,Bate,ME,12,58,56,48,50,64,6,5,4,2,1,0,1,2,0, Full Time,pumpkin,His recent good form has dried up... %D and %M with %T and %s,,
+230151,Brent,Moloney,ME,8,56,59,32,46,66,10,8,2,2,0,2,2,0,0, Full Time,news,%2 Corey... %B among %D with %T and %F,,
+291533,Tom,McDonald,ME,8,56,60,28,45,60,11,4,5,0,0,0,0,0,0, Full Time,news,%M and %D,job,Has Brown
+270906,Jordie,McKenzie,ME,14,55,56,51,39,60,6,7,0,7,0,1,2,0,0, Full Time,news,%O and %T,tagger,Tagging Bartel
+200002,Aaron,Davey,ME,9,47,66,33,36,51,7,4,1,3,0,0,1,1,0, Full Time,news,Trying and failing to keep Enright accountable... %D and %T plus %s,,
+230250,Jared,Rivers,ME,3,42,63,29,36,51,6,7,3,1,0,0,1,0,0, Full Time,ipod,Has Podsiadly... %P and %M,,
+240037,Colin,Sylvia,ME,3,38,30,18,32,48,8,5,2,1,0,0,2,0,0, Full Time,news,%K among %P with %M and %F,,
+250548,Lynden,Dunn,ME,7,28,26,15,21,25,5,0,0,1,0,2,0,1,1, Full Time,news,On in Q3 for Tapscott... %s from %P,sub,Started as a sub
+250345,Rohan,Bail,ME,1,21,21,15,18,27,3,4,1,1,0,0,1,0,0, Full Time,job,Chasing Motlop... %O,,
+250418,James,Sellar,ME,1,20,17,13,15,20,3,1,0,1,5,0,0,0,0, Full Time,crab,%P on Scarlett... also %H,,

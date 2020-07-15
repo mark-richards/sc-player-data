@@ -1,0 +1,59 @@
+Adelaide,Crows,Collingwood,Magpies,W3,16.16.112,9.10.64, Full Time
+Mar 9,2012,8.40,Footy Park,Fox Footy,,10330302,,29,Fine,26,,
+
+<em>mooose</em>: breakthrough year for maxwell?<br><em>Arch</em>: Wow 2010 really cut deep didn't it<br><em>demons13</em>: porplyzia reached 100 sc points!<br><em>Meldrum23</em>: thats real convenient dangeroo<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> mcpies</em>: shaw &#044; goldsack &#044; johnson &#044; tarrant &#044; brown &#044; thomas &#044; ball &#044; didak &#044; beams &#044; toovey &#044; wellingham &#044; wood<br><em>Johnnysd</em>: good one morons but at no time did i say i believe Adelaide would win&#044; i just believe that they would not lose by 50+<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> xumtinlong</em>: Lynch's a3rd year player too<br><em>daniel87</em>: yes goow win crows but wouldnt get carried away collingwood were only fielding half their starters<br><em>hacker</em>: rofl @ arch&#044; burning about the result&#044; colliwobbles are a bunch of flogs lmao<br><em>Dangeroo</em>: I've always like lynch. was very happy when i heard the crows got him from the saints<br><em>Arch</em>: Johnny my guess is u haven't got a bank account considering u r only 8 or so<br><em>azza94</em>: collingwood are shower<br>
+250118,Nathan,van Berlo,AD,21,95,-,121,76,103,17,8,5,2,0,1,1,1,1, Full Time,news,%2 Pendlebury... %D and %M with %T and %s,,,93
+270963,Rory,Sloane,AD,20,93,-,122,69,97,14,9,3,6,0,2,1,0,1, Full Time,news,%2 Sidebottom... %D and %T plus %s,,,86
+270917,Patrick,Dangerfield,AD,25,86,-,112,67,97,13,10,1,6,0,2,3,1,1, Full Time,swan,%2 Swan... %O and %s,,,93
+220086,Brent,Reilly,AD,15,84,-,110,66,96,16,9,4,3,0,0,2,0,0, Full Time,news,%O and %M... also %F,job,Minding Fasolo,92
+230174,Jason,Porplyzia,AD,22,84,-,106,72,90,10,3,6,3,0,0,2,4,0, Full Time,news,First goal... %s from %O on Maxwell... also %M and %T,,,89
+270811,Sam,Jacobs,AD,12,76,-,90,65,77,7,7,3,2,13,4,0,1,1, Full Time,news,%H and %D with %s,,,77
+270742,Kurt,Tippett,AD,18,73,-,90,62,77,9,7,6,1,2,2,0,1,0, Full Time,news,Kicked %s from %D and %G on Reid,,,95
+270938,Tom T.,Lynch,AD,16,70,-,83,62,76,8,6,5,0,0,0,0,3,1, Full Time,news,On in Q3... %s from %P,sub,Started as a sub,48
+291748,Brodie,Smith,AD,8,64,-,81,49,69,11,8,2,2,0,1,0,0,0, Full Time,news,%2 Young on a wing... %O and %M,,,77
+261142,Bernie,Vince,AD,10,58,-,74,44,60,8,5,2,3,0,0,0,1,0, Full Time,news,%O and %T with %M and %s,subbed,Subbed off at HT,47
+280038,Shaun,McKernan,AD,15,56,-,66,51,62,7,3,3,0,4,0,1,3,1, Full Time,news,On in Q2 after being a sub for Q1... %H and %D,,,62
+261857,Ian,Callinan,AD,12,51,-,61,42,57,9,7,1,0,0,1,0,1,0, Full Time,news,On in Q3... %D on O'Brien,sub,Started as a sub,47
+250362,David,Mackay,AD,8,48,-,59,41,60,5,11,2,2,0,0,1,0,0, Full Time,news,%P and %T,subbed,Subbed off at HT,67
+261351,Matthew,Jaensch,AD,9,48,-,59,41,54,7,6,2,1,0,2,1,1,0, Full Time,news,Spent Q1 as a sub but on in Q2... %O and %s which was a supergoal,,,50
+210016,Scott,Thompson,AD,4,47,-,59,39,55,6,8,2,2,0,1,1,0,1, Full Time,news,%P and %T plus %s,,,65
+291806,Sam,Kerridge,AD,10,44,-,56,36,48,6,4,2,2,0,1,1,1,0, Full Time,news,On in Q3... %s from %O,sub,Started as a sub,42
+261138,Jared,Petrenko,AD,8,43,-,56,31,42,6,2,1,3,0,0,0,1,0, Full Time,news,%s from %O,,,78
+210056,Graham,Johncock,AD,2,39,-,48,33,48,6,8,1,1,0,1,1,0,0, Full Time,job,Has Seedsman... %P,,,84
+280281,Brodie,Martin,AD,3,39,-,50,31,42,6,4,3,1,0,0,0,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,41
+290211,Sam,Shaw,AD,3,36,-,48,27,36,5,2,3,2,0,0,0,0,0, Full Time,job,Standing Dawes... %O,,,75
+280506,Taylor,Walker,AD,9,35,-,44,33,42,4,2,3,1,0,0,2,2,0, Full Time,news,Keeffe on him... %s from %P and %G,,,51
+261384,Matthew,Wright,AD,2,34,-,43,26,37,2,6,1,3,0,0,0,0,1, Full Time,news,%s from %P and %T on Clarke,subbed,Subbed off at HT,38
+240032,Chris,Knights,AD,2,30,-,40,23,33,3,4,1,3,0,1,1,0,0, Full Time,news,Buckley on him... %D and %T,subbed,Subbed off at HT,43
+270296,Andy,Otten,AD,2,27,-,33,25,33,4,5,2,0,0,2,1,0,0, Full Time,job,Responsible for Otten... %D and %M,subbed,Subbed off at HT,47
+291201,Ricky,Henderson,AD,2,27,-,33,25,34,4,5,2,0,0,1,1,0,1, Full Time,news,On in Q3...  %O,sub,Started as a sub,46
+280949,Luke,Thompson,AD,2,23,-,28,21,27,2,4,3,0,0,0,0,0,0, Full Time,news,On in Q4... %D,sub,Started as a sub,24
+200092,Michael,Doughty,AD,1,14,-,17,13,21,3,4,0,0,0,0,1,0,0, Full Time,job,Going with Sinclair... %D,subbed,Subbed off at HT,47
+280934,Daniel,Talia,AD,1,6,-,8,10,18,2,4,0,0,0,1,3,0,0, Full Time,job,Has Cloke... %P and %F,,,95
+294828,Josh,Jenkins,AD,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+280965,Steele,Sidebottom,CO,20,87,-,113,63,90,10,11,2,7,0,1,0,0,0, Full Time,news,%2 Sloane... %D and %T,,,82
+230263,Nick,Maxwell,CO,14,77,-,100,58,78,9,8,4,5,0,2,0,0,0, Full Time,porpoise,Has Porplyzia... %D and %M,sore,Had his nose rearranged in Q2,94
+260257,Scott,Pendlebury,CO,15,74,-,90,61,81,9,11,3,2,0,2,0,1,0, Full Time,news,%2 van Berlo... %O and %s,,,82
+240073,Harry,O'Brien,CO,9,71,-,92,56,78,15,6,4,1,0,1,1,0,0, Full Time,brazil,Was a Q1 sub but on in Q2... %O and %M,job,Minding Callinan in the second half,73
+220105,Dane,Swan,CO,14,66,-,80,56,75,10,9,4,0,0,0,0,1,0, Full Time,news,%2 Dangerfield... %D and %M,,,81
+240366,Travis,Cloke,CO,11,64,-,81,52,59,10,0,3,2,0,6,1,2,2, Full Time,news,Booted %s from %G and %O on Talia... also %T,,,81
+290821,Alex,Fasolo,CO,10,61,-,77,49,64,10,4,4,1,0,0,0,1,1, Full Time,news,%s from %D and %M on Reilly,,,83
+250683,Simon,Buckley,CO,8,56,-,73,47,63,9,5,6,1,0,0,1,0,0, Full Time,job,Minding Knights... %O and %M,,,100
+272005,Marty,Clarke,CO,7,55,-,73,39,54,14,1,2,1,0,1,0,0,0, Full Time,news,%D and %M,job,Responsible for Wright,94
+290314,Lachlan,Keeffe,CO,4,53,-,67,43,54,8,5,4,1,0,3,0,0,0, Full Time,job,Standing Walker... %P and %M,,,100
+294826,Tom,Young,CO,5,51,-,66,42,57,7,6,4,2,0,1,1,0,0, Full Time,news,%2 Smith on a wing... %D and %T with %M,,,82
+240232,Ben,Reid,CO,4,44,-,57,37,51,9,4,4,0,0,0,1,0,0, Full Time,job,On Tippett.. %D,,,84
+291883,Peter,Yagmoor,CO,4,41,-,56,36,54,7,6,2,3,0,2,4,0,0, Full Time,news,%P and %T,,,75
+280948,Luke,Rounds,CO,3,34,-,44,26,36,4,4,2,2,0,0,0,0,0, Full Time,news,Was a Q1 sub but on in Q2... %P,,,64
+210099,Darren,Jolly,CO,10,33,-,44,40,54,3,2,2,3,24,2,8,0,0, Full Time,news,%H and %P with %M and %T... also %F,,,100
+294733,Paul,Seedsman,CO,8,31,-,39,25,33,4,3,0,2,0,2,1,1,0, Full Time,news,%s from %O and %T on Johncock,,,43
+291386,Ben,Sinclair,CO,7,29,-,34,25,30,4,3,1,0,0,2,0,1,0, Full Time,news,%s from %D on Doughty,,,80
+291327,Jonathan,Ceglar,CO,2,28,-,36,22,28,4,1,2,1,4,0,0,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,46
+293801,Jamie,Elliott,CO,2,28,-,36,22,29,6,1,2,0,0,0,0,0,2, Full Time,news,%D and %M plus %s,subbed,Subbed off at HT,43
+291811,Jackson,Paine,CO,2,27,-,36,23,30,6,1,3,0,0,1,1,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,46
+280104,Jarryd,Blair,CO,1,20,-,26,14,21,4,2,0,1,0,0,0,0,0, Full Time,news,%O,subbed,Subbed off at HT,42
+296732,Caolan,Mooney,CO,7,20,-,23,17,21,3,2,0,0,0,1,0,1,0, Full Time,news,%s from %O on Otten,subbed,Subbed off at HT,59
+295296,Marley,Williams,CO,2,16,-,22,14,24,2,4,0,2,0,0,2,0,0, Full Time,news,Spent Q2 as a sub... %O and %F,,,58
+260394,Chris,Dawes,CO,0,13,-,15,12,14,1,2,1,0,2,1,0,0,0, Full Time,news,%P on Shaw... spent Q3 as a sub and didn't play much in Q4 either,,,52
+294740,Kirk,Ugle,CO,0,5,-,7,5,8,2,0,0,0,0,0,1,0,2, Full Time,news,%s from %O,sub,Started as a sub,40
+294077,Michael,Hartley,CO,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,16

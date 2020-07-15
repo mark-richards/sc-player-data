@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Western Sydney,Giants,R2,28.15.183,8.6.54, Full Time
+Apr 8,2012,1:10,Hobart,Fox Sports,291509,10340207,430023,0,A few showers,18,,
+
+<em>Jair</em>: sneaky Stevie<br><em>dmagnus</em>: his career maybe<br><em>timmybutts</em>: how does palmer get the spud?!? he had a bad game and instantly gets the spud&#044; thats terribly harsh<br><em>jack3030</em>: wells is the gun<br><em>kelso>you</em>: lol rhys palmer...anyone else having a shower week dt wise?<br><em>GoTEAM</em>: careful on Chad&#044; he might retire mid-season<br><em>dylsta05</em>: @E Kavastar&#044; i dont agree&#044; his a freak young kid. <br><em>Brown*Dog</em>: Gun for Harvey<br><em>GoTEAM</em>: good work lindsay thomas<br><em>daniel87</em>: Got to get chad cornes <br><em>MacDaddy33</em>: Not a bad follow up from kennedy Cameron Smith<br><em>jballstars</em>: giles star no too old<br>
+280863,Ryan,Bastinac,NM,38,138,151,164,116,165,16,28,2,4,0,0,1,2,3, Full Time,star,First goal... %D and %T with %M and %s,,
+250285,Leigh,Adams,NM,36,125,94,151,107,149,12,25,6,4,0,0,1,1,2, Full Time,hot,%O and %M with %T and %s on a good day to be a North forward,,
+260545,Liam,Anthony,NM,27,121,125,142,105,143,16,22,5,0,1,0,0,2,1, Full Time,hot,%2 Palmer... %B among %O with %M and %s,,
+230232,Daniel,Wells,NM,26,113,97,142,94,126,15,13,8,3,1,0,1,1,2, Full Time,hot,%2 Scully... %O and %M plus %s,,
+960491,Brent,Harvey,NM,22,110,137,137,87,121,21,11,2,2,0,1,1,2,1, Full Time,hot,Started loose in defence then got Bugg's tag in Q2... %O and %s,,
+230141,Hamish,McIntosh,NM,28,106,110,121,96,117,8,12,5,1,21,0,0,3,0, Full Time,hot,Started at FF on Davis.. %s from %P and %M... also %H,,
+230240,Aaron,Edwards,NM,32,105,119,129,92,109,11,4,9,2,0,1,1,5,1, Full Time,hot,%s from %P and %M on Hombsch including three within the first ten minutes of Q1... also %T,,
+230272,Michael,Firrito,NM,20,98,116,116,88,123,8,25,6,2,0,1,1,0,0, Full Time,news,%D with %b by hand.. also %T and %M,job,Has Folau
+280921,Ben,Cunnington,NM,26,98,96,120,80,108,10,15,2,5,0,3,1,2,0, Full Time,news,%B among %D,,
+240417,Andrew,Swallow,NM,19,94,128,115,78,106,14,15,1,3,0,6,2,1,1, Full Time,garbage,Tagged by Townsend... %D including %B with %T and %s... quiet first half but racked it up late,,
+210023,Drew,Petrie,NM,25,92,102,118,75,93,9,6,7,5,0,3,1,2,0, Full Time,news,Booted %s from %P and %M on Mohr... also %T,,
+290547,Kieran,Harper,NM,20,81,80,105,61,82,10,6,4,5,0,0,0,1,1, Full Time,news,%s from %D and %M with %T on Bugg in Q1,,
+281395,Scott D.,Thompson,NM,14,78,90,95,69,93,7,16,6,2,0,2,1,0,0, Full Time,job,Has Cameron... %D and %M,,
+280864,Sam,Wright,NM,15,75,65,92,63,84,8,11,5,2,0,0,0,1,0, Full Time,job,In defence on Hampton... %O and %M plus %s,,
+290194,Jamie,MacMillan,NM,14,73,78,89,60,81,11,10,3,1,0,1,0,1,0, Full Time,news,%D and %M,,
+271129,Todd,Goldstein,NM,17,71,81,82,66,84,3,10,2,3,18,0,2,2,0, Full Time,news,Well beaten by Giles... %H and %D plus %T and %s,,
+250135,Scott,McMahon,NM,9,65,76,82,55,78,8,12,3,3,0,2,2,0,0, Full Time,news,%P and %M with %T... also %F,,
+290787,Shaun,Atley,NM,13,62,47,71,57,81,7,18,2,0,0,2,1,0,0, Full Time,job,Matched on Hoskin-Elliott on a HBF... %P with %b by hand plus %M,,
+293796,Cameron,Delaney,NM,8,58,79,71,54,75,6,13,5,1,0,1,2,0,0, Full Time,rookie,First game... %O and %M,,
+291445,Aaron,Mullett,NM,14,55,44,62,50,66,5,11,2,0,0,0,0,2,0, Full Time,news,On in Q3 for Thomas... %s from %O,sub,Started as a sub
+240189,Matt,Campbell,NM,4,51,55,64,41,57,4,9,3,3,0,0,0,0,0, Full Time,news,%O and %T on Kennedy,,
+261909,Lindsay,Thomas,NM,6,28,42,40,18,28,2,2,0,5,0,0,1,0,1, Full Time,injured,%O and %T on Power... knock to the AC joint in Q2,subbed,Subbed off at HT for Mullett
+980059,Chad,Cornes,WS,26,117,121,88,100,137,15,17,10,3,2,0,2,0,0, Full Time,hot,Loose in defence... %P and %M with %T... also %F,,
+295344,Toby,Greene,WS,20,107,81,71,87,122,16,15,6,3,0,0,1,0,2, Full Time,hot,%O and %M plus %s,,
+261841,Jonathan,Giles,WS,26,104,100,66,85,104,15,4,3,2,26,2,0,1,0, Full Time,hot,Smashed Goldstein which is a big scalp... %H and %D with %M and %s,,
+280109,Callan,Ward,WS,27,103,114,82,78,105,13,8,4,7,2,2,1,1,1, Full Time,hot,Moved forward in Q3... %O and %M with %T and %s,,
+280969,Tom,Scully,WS,20,87,66,66,70,99,11,14,4,4,0,1,1,0,0, Full Time,news,%2 Wells... %O and %M,,
+293845,Jeremy,Cameron,WS,22,80,58,67,72,87,8,4,7,2,0,1,2,4,0, Full Time,bubble,Thompson on him... touched it once in Q1 for a massive clanger but his Q3 was much better with three goals... %s from %P and %M,,
+291509,Adam,Kennedy,WS,8,72,67,41,58,81,12,11,3,1,0,1,0,0,0, Full Time,bubble,%O and %M,job,On Thomas
+291771,Devon,Smith,WS,15,72,53,50,60,84,10,11,2,3,0,2,2,1,0, Full Time,bubble,Almost no supply to the forwards in the first half but things opened up in Q3... %s from %D and %M,,
+980011,Luke,Power,WS,13,70,81,54,53,75,9,9,3,4,0,0,0,0,0, Full Time,job,Has Campbell... %P and %M,,
+280804,Phil,Davis,WS,15,62,69,45,46,63,10,1,3,5,0,1,2,1,0, Full Time,news,%D and %T with %M and %F... also a rare %s,job,Standing McIntosh
+291969,Stephen,Coniglio,WS,8,60,56,40,49,69,9,9,3,2,0,1,1,0,0, Full Time,bubble,%D and %M,sore,Minor left shoulder knock in Q3
+291783,Dylan,Shiel,WS,9,58,63,48,52,75,6,13,4,2,0,0,2,0,0, Full Time,bubble,%D and %M with %T,,
+291802,Tomas,Bugg,WS,8,57,57,39,49,69,8,10,4,1,0,0,1,0,0, Full Time,bubble,%P and %M,tagger,Moved from Harper to tag Harvey in Q2
+291891,Jacob,Townsend,WS,14,54,44,50,38,50,6,2,2,6,2,3,1,0,0, Full Time,bubble,%O and %T,tagger,Tagging Swallow
+261189,Tim,Mohr,WS,4,48,49,29,33,46,9,1,2,3,1,0,0,0,0, Full Time,bubble,%D and %M with %T,job,The big job on Petrie
+261231,Rhys,Palmer,WS,8,47,35,38,40,58,5,10,2,2,0,0,1,0,1, Full Time,spud,%2 Anthony... plenty of clangers among %O and %M plus %s,,
+291964,Jack,Hombsch,WS,2,37,67,11,30,43,9,4,1,0,1,1,1,0,0, Full Time,bubble,%O,job,Standing Edwards
+290306,Curtly,Hampton,WS,2,32,29,25,26,38,4,5,1,2,0,0,1,0,2, Full Time,bubble,%s from %P on Wright,,
+291720,Will,Hoskin-Elliott,WS,3,31,24,16,31,45,6,6,3,0,0,1,3,0,0, Full Time,bubble,Just a single touch in each of the first two quarters... %O on a HFF on Atley,,
+294125,Nathan,Wilson,WS,1,29,13,24,19,24,4,0,1,3,0,2,0,0,0, Full Time,bubble,Donuts in Q1 with zero supply in his deep forward role... %D and %T,subbed,Subbed off in Q3 for Tyson
+294917,Israel,Folau,WS,3,28,22,28,24,31,2,3,2,2,4,1,1,0,0, Full Time,bubble,%P and %T with %M on Firrito,,
+291784,Dom,Tyson,WS,1,17,18,12,15,21,2,4,1,0,0,0,0,0,0, Full Time,bubble,On in Q3 for Wilson... %P,sub,Started as a sub

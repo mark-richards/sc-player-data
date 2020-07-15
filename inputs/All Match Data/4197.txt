@@ -1,0 +1,48 @@
+Richmond,Tigers,Port Adelaide,Power,R23,16.10.106,16.10.106, Full Time
+Sep 2,2012,3:15,MCG,Seven,280013,10342308,430204,0,Sunny,19,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>TheAnt</em>: Monty give Cotchin the star<br><em>TheoX</em>: that flowered!<br><em>staggerlee</em>: told you so<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> Wends</em>: Well done Ellis&#044; great reserve all year.<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> masterhc2</em>: draw - siren<br><em>tommyg1994</em>: hahahahaha sucked in Richmond!<br><em>cdrobert</em>: da<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> wolfheart</em>: scores are level! hahahahaha<br><em>WojakDaw</em>: it's gonna be a draw!<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> torres</em>: draw lol<br><em>ballbag</em>: tigers same as blues. a stagnant year<br><em>R.Griff</em>: game of the season<br>
+270896,Trent,Cotchin,RI,25,121,124,156,92,126,19,12,6,5,0,2,0,0,0, Full Time,cherry,Tagged by Cassisi in Q1 then got Cornes... %O and %M with %T,,
+200109,Shane,Tuck,RI,26,104,106,130,86,114,14,12,8,2,0,0,0,1,0, Full Time,hot,%D and %M plus %T and %s,,
+250395,Jack,Riewoldt,RI,33,102,119,123,88,99,10,1,7,2,1,2,0,6,2, Full Time,star,Booted %s from %G and %D on Carlile... also %T,,
+260930,Shane,Edwards,RI,31,99,110,124,79,102,10,9,3,6,0,3,1,3,0, Full Time,news,%s from %P and %T on Pfeiffer,,
+250312,Bachar,Houli,RI,14,83,110,104,66,93,15,11,4,1,0,0,0,0,0, Full Time,news,%P and %M,job,Running off Young
+240707,Daniel,Jackson,RI,14,82,85,104,65,94,11,13,3,4,0,0,1,0,1, Full Time,news,Playing forward on Hartlett... %D and %M with %T and %s,,
+250298,Shaun,Grigg,RI,16,82,83,102,67,88,11,9,5,2,0,1,0,1,1, Full Time,tagged,Tagged by Cornes in Q1 then released... %D and %T plus %s,,
+293713,Brandon,Ellis,RI,13,78,69,101,63,81,13,5,8,1,0,1,0,0,0, Full Time,news,%P and %M,,
+240336,Brett,Deledio,RI,10,77,100,94,65,90,8,15,5,2,0,0,0,0,0, Full Time,news,%2 Pearce... %O and %M,,
+240546,Ivan,Maric,RI,16,75,116,93,66,82,11,2,1,3,31,4,4,0,0, Full Time,news,%H and %D with %T... also %4FF and %F,,
+260433,Steven,Morris,RI,10,75,90,95,62,85,9,11,5,3,0,1,1,0,1, Full Time,job,Minding Wingard... %P and %M with %T and %s,,
+261362,Alex,Rance,RI,13,68,88,89,61,81,11,7,8,1,0,2,3,0,0, Full Time,job,Standing Schulz... %D and %M,,
+210048,Chris,Newman,RI,10,66,62,89,48,63,10,2,5,4,0,1,0,0,0, Full Time,news,%P and %T with %M,,
+250623,Robin,Nahas,RI,13,65,76,80,53,71,10,7,3,1,0,0,0,1,2, Full Time,lebanon,%s from %D on Logan,,
+240256,Luke,McGuane,RI,15,62,60,77,53,64,5,4,6,2,0,0,0,2,1, Full Time,news,%s from %P and %M on Trengove,,
+270315,Jayden,Post,RI,15,58,55,74,52,69,6,7,6,2,0,0,2,1,0, Full Time,job,Following Westhoff... %M and %D... also %T and %s,,
+291437,Jake,Batchelor,RI,8,49,55,63,43,60,8,7,4,1,0,1,2,0,0, Full Time,job,On Brett Ebert... %O and %M,,
+295325,Brett,O'Hanlon,RI,8,42,40,58,28,39,6,1,2,4,0,0,0,0,0, Full Time,news,On in Q2 for Helbig... %P and %T,sub,Started as a sub
+290198,David,Astbury,RI,9,40,62,51,34,45,4,4,3,2,0,0,1,1,0, Full Time,news,%D and %M on Blee,,
+290847,Dustin,Martin,RI,4,39,19,51,35,49,6,5,4,1,0,0,2,0,1, Full Time,injured,%s from %D and %M starting forward on Jonas... right hamstring tweak in Q3,,
+292025,Matt,Dea,RI,1,27,41,35,22,30,5,3,1,1,0,2,1,0,0, Full Time,job,Has McCarthy on a HBF... %O,,
+293315,Bradley,Helbig,RI,0,4,7,4,4,6,0,2,0,0,0,0,0,0,0, Full Time,injured,Left leg knock in Q1... %P,subbed,Subbed off in Q2 for O'Hanlon
+210020,Kane,Cornes,PA,20,109,89,67,87,118,18,11,8,2,0,0,0,0,1, Full Time,hot,%O and %M with %T and %s,tagger,Switched his tag from Grigg to Cotchin in Q2
+230195,Jay,Schulz,PA,28,102,92,83,91,106,11,3,12,1,0,1,1,4,1, Full Time,target,%s from %P and %G on Rance including three big ones in Q2,,
+261911,Brad,Ebert,PA,21,94,85,58,77,104,15,7,3,3,0,0,2,3,2, Full Time,news,First goal... %P and %M plus %s,,
+271078,Matthew,Broadbent,PA,16,93,99,60,73,99,14,9,3,3,0,0,0,2,0, Full Time,news,%O and %M plus %s,,
+250365,Travis,Boak,PA,13,83,78,46,57,81,16,5,1,5,0,2,0,0,0, Full Time,news,%P and %T,,
+1230242,Brett,Ebert,PA,19,78,85,53,67,83,11,5,6,1,0,2,1,2,2, Full Time,news,%s from %P and %M on Batchelor,,
+261892,Hamish,Hartlett,PA,19,73,96,73,58,84,5,14,3,6,0,0,1,0,0, Full Time,job,Jackson manning him up... %P and %T with %M,,
+250063,Danyle,Pearce,PA,13,72,82,29,52,73,16,3,1,2,0,0,0,1,1, Full Time,news,%2 Deledio... %D and %T with %s,,
+240385,Matt,Thomas,PA,15,71,75,69,62,78,5,9,7,3,0,2,1,1,0, Full Time,news,%s from %P and %M with %T,,
+290277,Jarrad,Redden,PA,26,71,91,82,64,80,1,8,2,6,29,2,3,0,0, Full Time,sore,%H and %D with %T... sore after he fell awkwardly in Q3... also %F,,
+290546,Aaron,Young,PA,20,71,89,61,57,75,8,5,6,4,0,0,1,1,0, Full Time,news,%O and %M on Houli... also %T,,
+291962,Chad,Wingard,PA,20,70,75,55,57,78,9,7,4,4,0,1,2,1,0, Full Time,news,%O and %M on Morris... also %T,,
+230124,Tom,Logan,PA,12,66,74,60,61,82,5,14,7,1,1,0,1,0,0, Full Time,job,Chasing Nahas... %O and %M,,
+260750,Justin,Westhoff,PA,10,66,67,44,54,69,10,5,4,2,6,3,1,0,0, Full Time,news,%P and %M on Post... also %H,,
+210043,Domenic,Cassisi,PA,9,65,80,53,56,82,7,14,3,3,0,0,2,0,1, Full Time,news,Moved off Cotchin in Q2 to go back... %P and %T with %M,,
+271128,John,McCarthy,PA,3,37,25,36,30,42,3,6,2,3,0,1,1,0,0, Full Time,spud,Playing a HFF on Dea.. %P and %T with %M,subbed,Subbed off in Q3 for Rodan
+290001,Nathan,Blee,PA,3,37,31,26,30,42,5,6,2,1,0,0,0,0,0, Full Time,job,Following Astbury... %P,,
+280013,Jackson,Trengove,PA,3,36,45,39,31,40,1,8,2,2,1,2,0,0,0, Full Time,job,Has McGuane... %D and %M,,
+292145,Thomas,Jonas,PA,3,36,41,23,30,36,6,1,5,0,0,1,0,0,0, Full Time,job,Has Martin... %O and %M,,
+220090,David,Rodan,PA,7,35,74,26,29,39,4,5,1,1,0,0,0,1,0, Full Time,news,On in Q3 for McCarthy,sub,Started as a sub
+250688,Alipate,Carlile,PA,7,30,70,24,23,36,5,2,1,4,0,1,3,0,0, Full Time,witcheshat,Standing Riewoldt... %D and %T,,
+260511,Darren,Pfeiffer,PA,1,25,45,18,20,30,3,6,0,1,0,0,0,0,0, Full Time,job,Minding Edwards... %D,in,Late replacement for Paul Stewart

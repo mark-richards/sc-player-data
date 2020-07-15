@@ -1,0 +1,48 @@
+Essendon,Bombers,West Coast,Eagles,R7,16.10.106,12.18.90, Full Time
+May 8,2011,1:10,Docklands,Fox Sports,200112,10310706,5511,52,A few showers,16
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Constant</em>: dean cox got 125 sc not 118<br><em>oldshepp</em>: One of Hurley's family must work for CD<br><em>n1ck</em>: dangerfield&#044; stanton&#044; grimes&#044; dustin martin&#044; chappy captain&#044; isaac and zach smith both on the bench<br><em>mrpotato</em>: darling was a flop&#044; scored nothing after qtr time<br><em>happyhawka</em>: hurley 108 what a joke<br><em>Judd005</em>: reimers sh!t facter<br><em>leondavis1</em>: reimers x factor<br><em>HawksStud8</em>: 4 dt off PNG :(<br><em>Pendlez10</em>: WCE more scoring shots =/<br><em>rodallegaa</em>: what happened to darlings sc??<br><em>Salisbury</em>: darn i was going to make jobe capt but went with Judd. Hope I dont regret my decision<br><em>HawksStud8</em>: 4 more dt cox<br>
+230231,Jobe,Watson,ES,34,127,148,162,98,135,19,12,4,6,0,1,1,2,0, Full Time,star,Tagged by Adam Selwood... %D and %T with %M plus %s,,
+280824,Jake,Melksham,ES,21,90,77,120,69,99,11,10,5,7,0,0,2,0,0, Full Time,news,%O and %M with %T,,
+292503,Stewart,Crameri,ES,25,89,98,111,80,101,11,7,7,2,0,2,3,3,2, Full Time,news,%s from %D and %M,,
+270584,Kyle,Hardingham,ES,14,88,97,116,68,87,14,4,8,3,0,2,0,0,0, Full Time,job,Has Lynch... %D and %M with %T,,
+200026,David,Hille,ES,18,84,65,101,77,92,7,6,8,1,13,0,1,2,1, Full Time,news,%H and %s from %P and %M... when forward he gets Glass,,
+290629,Dyson,Heppell,ES,19,81,96,104,66,90,9,11,6,4,0,1,1,0,0, Full Time,news,%B among %P with %T and %M,,
+240319,Sam,Lonergan,ES,14,80,89,105,61,87,15,8,2,4,0,3,2,0,0, Full Time,tagger,Tagging Kerr but not doing a good job of it... %P and %T,,
+960197,Dustin,Fletcher,ES,14,77,99,103,56,75,13,3,5,4,0,1,0,0,0, Full Time,job,%D and %M on the resting ruckman,,
+250569,Heath,Hocking,ES,20,73,87,94,59,81,8,7,3,5,0,0,2,2,0, Full Time,tagger,Tagging Priddis... %P and %M with %T and %s,,
+270935,Michael,Hurley,ES,14,73,111,96,57,78,10,7,5,4,0,1,1,0,0, Full Time,news,%P with %M and %T on Smith,,
+250267,Patrick,Ryder,ES,20,71,81,91,60,77,5,7,7,4,0,0,1,1,2, Full Time,news,%s from %G and %P on Schofield,,
+260073,Ben,Howlett,ES,19,68,70,91,49,72,7,8,2,7,0,0,1,0,0, Full Time,news,%P and %M with %T,,
+250352,Leroy,Jetta,ES,12,66,72,88,45,66,11,5,1,5,0,0,0,0,0, Full Time,news,%O and %T on Hurn,,
+990046,Mark,McVeigh,ES,9,65,58,86,53,77,14,6,3,2,0,1,3,0,2, Full Time,tagger,Tagging Embley.. %D and %T,,
+270588,Cale,Hooker,ES,9,62,83,77,52,69,6,10,5,2,0,1,0,0,0, Full Time,job,Chasing Kennedy... %P and %M... also %T,,
+250071,Henry,Slattery,ES,5,58,80,78,45,60,9,3,5,3,0,1,1,0,0, Full Time,job,On LeCras... %P and %M with %T,,
+270951,David,Zaharakis,ES,11,57,61,74,50,70,7,7,4,3,0,0,3,1,1, Full Time,news,%s from %D on Sheppard... also %M and %T,,
+261320,Tom,Bellchambers,ES,12,54,70,63,53,65,5,7,4,0,11,2,2,1,0, Full Time,news,%H and %P with %M and %s,,
+210079,Nathan,Lovett-Murray,ES,9,41,50,56,42,66,7,9,4,2,0,0,6,0,0, Full Time,news,%P and %M with %F in defence,,
+240290,Angus,Monfries,ES,8,40,58,47,35,49,5,8,0,1,0,1,1,1,1, Full Time,news,On in Q3 for Stanton,sub,Started as a sub
+261324,Kyle,Reimers,ES,13,36,55,44,37,48,7,2,1,0,0,2,4,3,0, Full Time,news,Very quiet in the first half but tore it up in Q3... %s from %P,reported,Reported for a trip on Smith in Q3
+240027,Brent,Stanton,ES,2,34,30,45,24,33,6,2,1,2,0,1,0,0,0, Full Time,news,%D and %T,subbed,Subbed off at half time for Monfries
+210018,Daniel,Kerr,WC,31,110,129,93,85,117,11,17,2,7,0,3,0,1,0, Full Time,hot,First goal... %P and %T plus %s... tagged by Lonergan,,
+200112,Dean,Cox,WC,26,106,125,85,91,107,11,4,6,3,34,3,1,0,1, Full Time,gun,%H and %P with %T and %M... also %s,,
+271045,Nic,Naitanui,WC,21,104,126,92,93,118,7,17,3,3,27,3,1,0,1, Full Time,hot,%P and %H with %T and %s,,
+230281,Mark,Nicoski,WC,26,90,92,72,67,87,11,5,3,6,0,2,0,2,0, Full Time,news,%s from %O and %T,sore,Cut above the left eye in Q1
+270928,Scott,Selwood,WC,42,79,68,75,53,76,8,7,0,10,0,3,1,0,1, Full Time,news,Helping out his brother with the tag on Watson... %O and %T plus %s,,
+240124,Matt,Priddis,WC,13,75,92,58,65,95,8,19,1,3,0,2,2,0,2, Full Time,tagged,Tagged by Hocking... %B among %O with %T,,
+250111,Matt,Rosa,WC,9,73,88,50,61,84,10,12,5,1,0,0,0,0,0, Full Time,news,%O with %b by hand,,
+290838,Jack,Darling,WC,22,69,60,65,54,70,7,3,5,6,0,2,2,1,1, Full Time,news,%s from %P and %G with %T,,
+240406,Josh J.,Kennedy,WC,15,67,71,46,59,72,10,1,7,1,0,1,2,2,3, Full Time,news,Booted %s from %O and %G on Hooker,,
+990020,Andrew,Embley,WC,8,63,60,33,48,68,13,3,3,3,0,1,2,0,2, Full Time,tagged,Tagged by McVeigh... %D,,
+240283,Shannon,Hurn,WC,4,62,70,30,47,61,13,1,5,1,0,1,0,0,1, Full Time,job,Responsible for Jetta... %O and %M,,
+281080,Brad,Sheppard,WC,5,61,59,45,46,60,9,3,5,3,0,1,0,0,0, Full Time,job,Minding Zaharakis... %P and %T plus %M,in,Late replacement for Eric Mackenzie
+240159,Sam,Butler,WC,4,58,55,37,42,57,10,3,3,3,0,1,0,0,0, Full Time,news,%O and %T,,
+200074,Darren,Glass,WC,5,57,68,48,49,63,6,8,5,2,0,3,1,0,0, Full Time,job,On Hille... %P,,
+220061,Quinten,Lynch,WC,11,57,72,34,48,60,9,3,4,0,0,0,0,2,0, Full Time,news,%s from %O and %G on Hardingham,,
+230254,Adam,Selwood,WC,4,49,49,31,43,54,8,5,4,1,0,5,2,0,0, Full Time,tagger,Tagging Watson... %D,,
+240119,Mark,LeCras,WC,10,49,54,36,43,54,6,4,3,1,0,1,1,2,0, Full Time,cold,Slattery keeping him quiet,,
+270953,Ashley,Smith,WC,3,47,77,30,33,45,8,3,1,3,0,2,0,0,0, Full Time,job,Standing Hurley... %D,,
+280078,Luke,Shuey,WC,3,45,59,31,36,55,7,7,1,3,0,0,2,0,1, Full Time,news,%P,,
+261214,Will,Schofield,WC,8,42,44,26,33,42,7,1,3,1,0,0,0,1,0, Full Time,job,Has Ryder... %P,,
+261911,Brad,Ebert,WC,8,34,42,20,28,36,6,1,2,1,0,1,1,1,0, Full Time,news,%s from %D and %M,subbed,Subbed off at 3QT for Weedon
+290932,Gerrick,Weedon,WC,1,10,5,8,8,15,2,1,0,2,0,0,2,0,0, Full Time,news,On in Q4 for Ebert,sub,Started as a sub

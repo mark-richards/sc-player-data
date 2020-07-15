@@ -1,0 +1,48 @@
+Fremantle,Dockers,Sydney,Swans,R20,13.9.87,14.12.96, Full Time
+Aug 14,2010,3:10,Subiaco,Fox Sports,240226,10282003,5015508,5221,Cloudy,19
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>jmacks</em>: mumford SC???<br><em title="F1-77">f1-77</em>: ROK's score has broken supercoach...<br><em>Piggers</em>: SC wtf???<br><em>Blade</em>: S/C is the key<br><em>FFScience</em>: mine neither<br><em title="PETER PAAN">peter paan</em>: my sc isnt downloadin :@<br><em>morro4</em>: there are less and less people defending sc these days. this game shows why.<br><em>riches</em>: why didn't malceski sc go up the last qtr<br><em>da cooler</em>: why didnt i put robby<br><em>Paliente</em>: haha look at Jesse White's SC&#044; jumped 70 points for the winning goal&#044; wtf are these sc ppl smoking?<br><em title="PIESTORM">piestorm</em>: flowering Pavlich<br><em>BenW</em>: 4 pts away from purple name<br>
+261756,Greg,Broughton,FR,21,95,144,119,75,102,12,12,4,4,0,1,0,1,0, Full Time,news,%B among %O with %M and %T... also %s
+200032,Matthew,Pavlich,FR,14,89,76,118,65,88,14,5,5,5,0,1,0,0,1, Full Time,news,Head to head with Goodes... %D and %M plus %s
+230011,Kepler,Bradley,FR,19,88,105,100,82,104,4,17,4,2,11,2,1,2,0, Full Time,news,%H and %P and %M in the #1 ruck role
+240052,David,Mundy,FR,19,82,104,109,58,82,10,7,3,7,1,0,0,0,0, Full Time,tagged,Tagged by O'Keefe.. %O and %T with %M
+240139,Paul,Duffield,FR,18,80,65,106,62,84,12,6,6,4,0,1,1,0,0, Full Time,job,Has Jetta... %D and %M with %T... had a sensational Q2
+280933,Dylan,Roberton,FR,14,79,89,105,63,84,14,4,8,2,0,0,1,0,0, Full Time,news,%P and %M
+210037,Adam,McPhee,FR,20,77,63,99,61,77,8,5,6,4,1,1,0,1,1, Full Time,news,%O and %M on Grundy
+291570,Nathan,Fyfe,FR,14,72,43,96,56,76,8,6,6,5,0,0,1,0,1, Full Time,news,Matched up on Jude Bolton... %P and %T
+271015,Matthew,de Boer,FR,15,68,74,85,57,71,7,6,6,2,0,1,0,1,2, Full Time,news,Forward tag on Malceski... %s from %D and %M
+250268,Garrick,Ibbotson,FR,5,65,92,86,49,64,10,3,5,3,0,1,0,0,1, Full Time,news,%P and %M plus %s
+290296,Jesse,Crichton,FR,10,63,60,83,50,69,7,7,5,4,0,0,1,0,0, Full Time,tagger,Tagging McVeigh... %P and %M plus %T
+210084,Roger,Hayden,FR,9,62,55,82,50,66,10,4,6,2,0,1,1,0,0, Full Time,job,Minding Moore
+281111,Anthony,Morabito,FR,16,62,61,83,47,62,9,1,4,4,0,0,1,1,2, Full Time,news,Matched up on Hannebery... %P and %T plus %s
+281007,Michael,Walters,FR,11,57,57,71,49,57,10,1,4,0,0,4,1,2,0, Full Time,news,Bevan on him... %s from %O
+230194,Byron,Schammer,FR,10,56,61,71,46,63,8,6,3,2,0,0,1,1,0, Full Time,news,Matched up on Kennedy... %O and %M
+230107,Michael,Johnson,FR,10,55,64,68,45,58,6,6,3,2,1,1,0,1,0, Full Time,news,%D on Richards
+990092,Antoni,Grover,FR,9,53,41,68,48,66,5,9,6,2,0,0,2,0,0, Full Time,job,Minding Dennis-Lane... %D and %M
+200031,Paul,Hasleby,FR,10,47,58,55,42,51,5,5,3,0,0,1,0,2,0, Full Time,tagger,Forward tag on Mattner... %s from %P
+270908,Nick,Suban,FR,14,47,70,61,35,45,4,3,2,4,0,1,0,1,0, Full Time,sore,%D and %T... left eyesocket bruised heavily in Q3
+290251,Zac,Clarke,FR,15,40,35,53,33,48,1,5,0,6,12,0,3,0,0, Full Time,reported,%H and %T with %D... reported for charging McGlynn in Q3 but there was zero in it
+200045,Luke,McPharlin,FR,4,35,43,45,31,42,6,4,4,0,0,0,1,0,0, Full Time,job,Standing White
+280336,Stephen,Hill,FR,3,34,30,47,25,36,5,2,2,3,0,0,1,0,0, Full Time,tagged,Tagged by Shaw... %O and %T with %M
+290117,Daniel,Hannebery,SY,26,125,126,91,99,142,16,22,4,5,0,0,0,0,1, Full Time,star,Matched up on Morabito... %B among %P with %T
+280762,Shane,Mumford,SY,34,116,175,109,103,129,7,15,4,5,30,3,2,1,0, Full Time,hot,%H and %P plus %s
+240226,Kieren,Jack,SY,30,105,113,67,76,105,17,9,1,6,0,3,0,1,0, Full Time,gun,%P and %T plus %s
+230253,Jarrad,McVeigh,SY,14,94,113,51,68,94,18,6,3,4,0,2,0,0,1, Full Time,tagged,Tagged by Crichton... %P and %T plus %s
+200096,Tadhg,Kennelly,SY,19,92,120,49,77,105,17,10,8,0,0,0,1,0,0, Full Time,news,%P and %M
+230010,Paul,Bevan,SY,19,88,82,60,73,92,13,5,9,1,0,0,0,1,2, Full Time,job,On Walters... %P and %M
+230140,Ben,McGlynn,SY,24,88,96,67,76,93,10,7,7,1,0,1,0,3,0, Full Time,injured,%s from %O and %M... ran into Clarke's knee in Q3 and copped a huge black eye... possible fracture of the eyesocket
+240072,Heath,Grundy,SY,13,77,109,58,65,84,10,8,9,1,0,0,0,0,0, Full Time,job,Following McPhee... %M and %D
+281281,Lewis,Jetta,SY,19,76,87,53,61,79,11,5,6,2,0,0,0,1,1, Full Time,news,%s from %O and %M on Duffield
+230132,Nick,Malceski,SY,10,75,69,44,59,84,14,6,5,3,0,0,2,0,0, Full Time,tagged,Forward tag on him by de Boer.... %O and %M
+200071,Ryan,O'Keefe,SY,24,73,107,70,53,75,6,9,1,7,0,0,0,1,0, Full Time,x-factor,Tagging Mundy... %D and %T... his %s came in the last minute of Q4 to seal the win
+250080,Jarred,Moore,SY,15,68,77,49,50,66,10,3,3,4,0,1,0,1,0, Full Time,concussed,%D and %M on Hayden... hit his head on McPharlin's knee in Q3 and stretchered off... returned in Q4
+990011,Jude,Bolton,SY,24,62,63,72,46,69,2,13,0,8,0,1,1,0,0, Full Time,news,Matched up on Fyfe... %O and %T
+200023,Rhyce,Shaw,SY,10,61,31,49,46,64,9,2,5,5,0,0,2,0,1, Full Time,tagger,Tagging Hill... %O
+980073,Adam,Goodes,SY,8,57,50,43,48,64,7,8,5,1,0,0,0,0,1, Full Time,news,Head to head with Pavlich... %P and %M plus %s
+210027,Ted,Richards,SY,8,55,52,46,47,60,6,6,7,1,0,0,0,0,0, Full Time,job,On Johnson... %D
+260382,Josh P.,Kennedy,SY,12,52,75,48,42,61,4,12,0,4,0,2,1,0,1, Full Time,news,Matched up on Schammer... %P
+990114,Brett,Kirk,SY,7,51,35,32,45,66,8,10,3,1,0,0,2,0,0, Full Time,news,%O
+220063,Martin,Mattner,SY,10,49,59,34,44,57,7,5,4,1,0,2,2,1,0, Full Time,tagged,Forward tag on him by Hasleby... %B among %D with %M
+250212,Jesse,White,SY,10,47,91,37,42,52,5,5,5,0,0,0,0,1,1, Full Time,news,McPharlin keeping him quiet
+270570,Trent,Dennis-Lane,SY,9,40,37,24,36,46,6,3,2,0,0,0,1,2,1, Full Time,news,First goal.... %s from %O on Grover
+291206,Mike,Pyke,SY,13,39,43,30,37,44,4,1,1,1,17,1,2,1,0, Full Time,sore,%H... had his nose cut open in Q3

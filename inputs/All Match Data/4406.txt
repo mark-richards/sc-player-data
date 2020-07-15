@@ -1,0 +1,48 @@
+Gold Coast,Suns,St Kilda,Saints,R1,13.12.90,10.17.77, Full Time
+Mar 30,2013,7.40,Gold Coast,Seven,260382,10390106,5015,0,Possible shower,27,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>m0neyball</em>: 178 scaled seems low.. thought gaz might end up on 190+ for that effort.<br><em>Daniel_79</em>: 178 for GAZ should be 200! he'll get a decent update.<br><em>Solat</em>: how does Gaz not have an icon<br><em>catdog</em>: surely that is scaled up<br><em>ConnorZ1</em>: MeEvoy ended up good<br><em>hoddo</em>: GAJ's final quarter was the greatest match winning final quarter since Hird's against WC back in 2004<br><em>spiggs</em>: i believe that was myself menaces&#044; top second half i must say but the first half was attrocious no denying it<br><em>Slashers</em>: GAJ SC should get scaled up<br><em>addman</em>: ablett gun and star<br><em>footy is b</em>: i said JOM would get 80 and he got 73 quit sooking girls<br><em>Chillicat</em>: Just downloaded Footy Star App and its died lol<br>
+220001,Gary,Ablett jnr,GC,33,135,178,168,109,148,22,12,3,4,0,1,2,4,1, Full Time,star,Tagged by Steven then got Gilbert in Q3... then Jones in Q4... %O and %M plus %T and %s including three majors in Q3,,,642500,,740500,,Midfielder,9
+280711,Charlie,Dixon,GC,22,98,130,122,81,101,9,7,5,5,9,2,1,2,2, Full Time,x-factor,Starting forward on Blake... %s from %P and %M... also %H and %T,,,304800,,393300,,Forward,23
+290627,Dion,Prestia,GC,14,89,70,116,70,93,17,5,8,1,0,0,0,0,0, Full Time,news,%P and %M,,,386400,,422700,,Forward,10
+240254,Jarrod,Harbrow,GC,14,82,93,103,65,90,17,9,4,0,0,1,0,0,0, Full Time,news,%D and %M,,,321400,,414500,,Back,5
+294613,Jaeger,O'Meara,GC,22,73,72,98,57,76,8,4,5,6,0,1,2,1,1, Full Time,news,Starting forward on Geary... moved to midfield in Q3 which was much better for his numbers... %s from %D with %M and %T,,,108500,,115900,,Midfielder ,1
+281075,Rory,Thompson,GC,14,68,95,87,59,78,7,9,8,2,0,0,1,0,0, Full Time,job,Following Riewoldt... %P and %M... also %T,,,221600,,283400,,Back,16
+291594,Harley,Bennell,GC,13,66,73,84,50,67,16,2,2,0,0,1,0,1,1, Full Time,tagged,First goal... tagged by Jones... %P and %M plus %s,,,438200,,521900,,Midfielder,11
+290817,Brandon,Matera,GC,5,64,50,86,47,63,11,2,5,3,0,0,0,0,0, Full Time,superman,On in Q3 for Hunt... %P and %T with %M... his late run was crucial for the Suns,sub,Started as a sub,354000,,357800,,Forward,32
+290832,David,Swallow,GC,8,58,89,74,47,69,11,9,1,2,0,2,2,0,0, Full Time,news,%2 Hayes... %P and %T,,,380400,,418200,,Midfielder,24
+281025,Luke,Russell,GC,11,57,59,73,50,68,7,5,3,3,1,0,3,2,1, Full Time,news,%s from %P and %M with %T,,,349200,,324500,,Forward,8
+290790,Matthew,Shaw,GC,13,57,61,69,48,64,7,8,3,1,0,0,0,1,1, Full Time,news,%s from %D and %M starting on a HFF,sore,Left corkie in Q2 after getting smashed by Maister,306400,,317600,,Back ,26
+240712,Michael,Rischitelli,GC,7,56,78,72,41,58,9,6,1,3,0,1,0,0,1, Full Time,news,%2 Siposs... %O and %T plus %s,,,322000,,358900,,Midfielder,35
+250146,Thomas,Murphy,GC,5,56,69,76,45,63,9,4,5,3,0,0,2,0,0, Full Time,job,Chasing Milera... %D and %M with %T... also %F,,,237000,,293200,,Back,29
+291753,Sam,Day,GC,11,54,55,66,46,58,4,7,4,2,0,1,0,1,1, Full Time,news,%s from %D on Stanley... also %G and %T,,,201600,,226900,,Ruck,12
+230015,Jared,Brennan,GC,12,53,72,69,43,65,8,9,0,4,2,2,3,0,0, Full Time,news,%D and %T... also %H and %F,,,375500,,418000,,Forward,3
+250716,Matthew,Warnock,GC,4,50,58,62,43,57,5,8,5,1,0,0,0,0,0, Full Time,job,Has Maister... %D and %M,,,236500,,352900,,Back,14
+296735,Aaron,Hall,GC,13,50,41,66,41,61,11,4,1,2,0,0,3,1,1, Full Time,news,%O including %K... also %T and %F,,,320700,,322400,,Forward,33
+290703,Joel,Wilkinson,GC,9,48,68,64,39,57,3,8,3,5,0,0,2,0,0, Full Time,sore,%P and %T with %M and %F... left ankle restrapped in Q3,job,Minding Saad,185500,,171200,,Back,38
+261756,Greg,Broughton,GC,7,47,57,59,39,57,8,8,2,1,0,0,1,0,0, Full Time,job,Minding Milne... %D and %M,,,408000,,441900,,Back,36
+280722,Zac,Smith,GC,10,47,73,56,42,50,3,3,2,2,20,1,1,0,0, Full Time,news,%H and %D with %T,,,300700,,374900,,Ruck,2
+281085,Steven,May,GC,2,36,60,47,27,34,7,1,2,1,0,2,0,0,1, Full Time,news,%s from %D and %M on Gwilt,,,287900,,343100,,Back,17
+292512,Karmichael,Hunt,GC,2,30,25,40,21,30,3,3,1,3,0,0,0,0,0, Full Time,injured,Tagging Dal Santo... %P and %T... major cramp in both legs in Q3,subbed,Subbed off in Q3 for Matera,273600,,310900,,Midfielder,7
+260113,Jarryn,Geary,SK,30,117,144,91,90,123,15,13,7,6,0,1,0,0,0, Full Time,hot,%O and %M with %T... had a very productive Q2,job,Minding O'Meara,330800,,394100,,Back,14
+250340,David,Armitage,SK,26,112,113,69,83,109,19,6,4,5,0,4,0,1,1, Full Time,hot,%D and %M plus %T and %s,,,459500,,460100,,Midfielder,20
+220023,Nick,Dal Santo,SK,27,111,84,95,80,111,13,10,5,9,0,1,0,0,0, Full Time,hot,Tagged by Hunt... %P and %T with %M,sore,Right groin tightness early in Q1,471200,,544800,,Midfielder,26
+990028,Lenny,Hayes,SK,25,104,111,76,78,109,16,7,6,7,1,1,2,0,0, Full Time,hot,%2 Swallow... %O and %M with %T... also %F,,,489900,,547400,,Midfielder,7
+270912,Jack,Steven,SK,21,92,89,50,75,102,17,8,5,2,0,2,2,1,0, Full Time,news,Tagged Ablett in the first half... %D and %M with %T and %s,,,433300,,480800,,Midfielder,3
+280317,Rhys,Stanley,SK,24,85,79,60,76,96,13,5,14,0,0,0,2,0,0, Full Time,news,A massive %M as well as %P... also %F,job,In defence as advertised on Day,312100,,345500,,Ruck,28
+210001,Nick,Riewoldt,SK,16,82,99,58,71,83,11,3,9,0,0,2,0,2,2, Full Time,news,Booted %s from %G and %P on Thompson,,,441400,,513100,,Forward,12
+240062,Farren,Ray,SK,9,81,76,47,60,81,15,4,5,3,0,1,0,0,0, Full Time,news,%O and %M with %T,,,342800,,368700,,Midfielder,22
+293815,Arryn,Siposs,SK,18,80,96,53,68,88,12,7,7,1,0,1,1,1,1, Full Time,news,%2 Rischitelli... roving comission as advertised... %s from %D and %M,,,325000,,316600,,Forward,2
+250703,James,Gwilt,SK,13,76,77,40,63,87,15,6,7,1,0,0,2,0,0, Full Time,news,%P including %k by foot... also %M and %F,job,Standing May,269400,,339800,,Back,33
+270766,Terry,Milera,SK,17,75,78,58,60,74,9,2,4,3,0,0,0,3,2, Full Time,news,Murphy on him... %s from %P and %M with %T,,,308100,,337400,,Forward,32
+261743,Clinton,Jones,SK,9,71,106,47,59,81,10,12,4,1,0,1,0,0,0, Full Time,tagger,Tagging Bennell but shifted to Ablett in Q4... %D and %M,,,396100,,409500,,Midfielder,4
+250134,Sam,Gilbert,SK,8,68,66,50,55,77,9,9,3,3,4,0,1,0,1, Full Time,news,Moved to tag Ablett in Q3 then moved off again in Q4... %D and %M with %T and %s... also %H,,,339100,,387800,,Back,19
+280933,Dylan,Roberton,SK,7,60,76,32,47,66,11,7,3,1,0,0,0,0,0, Full Time,news,%P and %M,,,226700,,254100,,Back ,17
+261323,Ben,McEvoy,SK,10,59,99,46,54,62,5,6,2,0,23,3,0,0,0, Full Time,news,%H and %P with %M,,,457900,,557400,,Ruck,5
+200068,Jason,Blake,SK,5,55,74,48,45,60,6,6,5,3,0,1,1,0,0, Full Time,job,On Dixon... %D and %M... also %T,,,338400,,397600,,Back,27
+200108,Stephen,Milne,SK,8,52,56,28,41,54,9,4,1,1,0,1,0,1,3, Full Time,news,%s from %O on Broughton,,,352700,,371400,,Forward,44
+250036,Beau,Maister,SK,10,52,57,38,41,51,7,3,3,2,0,2,0,1,0, Full Time,news,%s from %D and %M on Warnock... also %T,,,287500,,283000,,Back Forward,37
+291773,Jack,Newnes,SK,3,38,31,17,32,45,8,4,3,0,0,0,1,0,0, Full Time,news,%P including %K with %M,,,271600,,299600,,Midfielder,16
+294818,Ahmed,Saad,SK,1,26,35,11,21,29,5,4,0,0,0,1,0,0,2, Full Time,news,%s from %D on Wilkinson,,,275600,,325700,,Forward,21
+294266,Tom,Hickey,SK,2,20,28,20,23,30,1,3,1,1,12,1,3,0,0, Full Time,injured,%H and %D with %F... back soreness saw him off for a bit in Q1,subbed,Subbed off at 3QT for Dennis-Lane,272000,,308200,,Ruck,1
+270570,Trent,Dennis-Lane,SK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,in,%l Tom Simpkin... on after 3QT for Hickey... did not register a basic stat,sub,Started as a sub,220200,,208000,,Forward,8

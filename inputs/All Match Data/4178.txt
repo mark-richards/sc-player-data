@@ -1,0 +1,48 @@
+Port Adelaide,Power,West Coast,Eagles,R21,6.14.50,14.14.98, Full Time
+Aug 19,2012,1:10,Footy Park,Fox Sports,280750,10342107,430185,0,A shower or two,15,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>cheese</em>: nice&#044; 40+ line&#044; scooter most possies and cox to beat Ebert in DT<br><em>Murf2Gibbs</em>: Thanks waters selwood sc <br><em>kingbaz</em>: ebert is killing me<br><em>Murf2Gibbs</em>: Thank you eagles now just need doggies and gc t cover line <br><em>Grazz</em>: How long left<br><em>MayhemFC2</em>: hurn 102 sc <br><em>masterhc2</em>: i'll be ok with 80 shuey<br><em>TheLegend6</em>: hurn thanks for nothing this qtr :(<br><em title="S.N.A.F.U">s.n.a.f.u</em>: thanks for the App lads<br><em>Solat</em>: how come the taggers are the highest scorers&#044; maybe they should be getting tagged<br><em>EatEmAlive</em>: @MayhemFC2 Thanks mate.  I'll have to look it up.<br><em>yehright</em>: @EatEmAlive - download the Footy Star App<br>
+210020,Kane,Cornes,PA,31,135,128,171,109,142,16,16,10,5,0,4,0,0,1, Full Time,hot,%P and %M with %T and %s,tagger,Tagging Shuey
+250063,Danyle,Pearce,PA,25,105,82,139,79,108,20,4,6,4,0,0,1,1,0, Full Time,hot,%2 Embley... %O and %M plus %T,,
+260750,Justin,Westhoff,PA,21,104,109,129,88,113,12,12,9,2,2,1,0,1,0, Full Time,hot,Loose in defence... %D and %M... also %H,,
+210043,Domenic,Cassisi,PA,13,87,91,108,72,92,13,10,6,1,1,4,0,0,1, Full Time,news,%O and %M with %s,job,In defence on Masten
+271128,John,McCarthy,PA,10,80,91,100,65,87,11,11,5,2,0,2,0,0,0, Full Time,news,%D and %T with %M,in,Late replacement for Travis Boak
+230195,Jay,Schulz,PA,16,78,82,99,65,79,9,3,6,3,0,2,1,2,4, Full Time,news,Booted %s from %P and %G on Mackenzie,,
+261911,Brad,Ebert,PA,19,77,75,102,64,91,11,9,6,4,0,0,3,0,1, Full Time,scooter,Tagged by Scott Selwood... %O and %T with %M,sore,Left leg knock in Q2
+271078,Matthew,Broadbent,PA,13,75,96,97,63,86,14,7,6,1,2,1,2,0,0, Full Time,news,%2 Gaff... %D and %M,,
+1230242,Brett,Ebert,PA,19,73,75,95,63,80,12,3,8,1,0,1,2,1,2, Full Time,news,%s from %D and %M on Schofield,,
+290546,Aaron,Young,PA,16,71,62,94,53,69,6,6,5,6,0,2,0,0,0, Full Time,news,%O and %T with %M,,
+280013,Jackson,Trengove,PA,13,68,91,90,59,81,11,7,7,2,0,1,3,0,0, Full Time,job,On Lynch... %P and %M,,
+291962,Chad,Wingard,PA,11,64,51,83,49,62,9,2,4,3,1,1,0,1,1, Full Time,news,On in Q2 for Paul Stewart... %O,sub,Started as a sub
+240385,Matt,Thomas,PA,9,52,35,70,41,60,5,7,3,5,0,0,2,0,0, Full Time,tagger,Forward tag on Hurn... %P and %M with %T and %F,,
+260511,Darren,Pfeiffer,PA,4,48,49,62,37,49,5,5,3,3,1,1,0,0,0, Full Time,news,%P and %M,,
+292145,Thomas,Jonas,PA,5,45,55,60,36,48,7,3,4,2,0,1,1,0,0, Full Time,news,%O and %M with %T,,
+280750,Andrew,Moore,PA,6,41,51,51,36,54,7,9,1,1,0,1,2,0,0, Full Time,news,%D,,
+220090,David,Rodan,PA,2,38,73,48,31,45,7,6,1,1,0,1,1,0,0, Full Time,tagged,Tagged by McGinnity... %D,,
+250688,Alipate,Carlile,PA,3,36,55,46,33,48,7,6,3,0,0,0,2,0,0, Full Time,job,Has Cox... %D and %M... also %F,,
+290001,Nathan,Blee,PA,2,36,49,46,29,39,5,4,3,1,0,0,0,0,0, Full Time,bubble,Second game... %M and %P,job,Darling is his man
+260201,Daniel,Stewart,PA,3,34,40,45,29,36,5,1,4,1,2,1,1,0,1, Full Time,news,%P on Glass... also %H,,
+261230,Matthew,Lobbe,PA,5,32,30,38,34,46,4,6,2,0,10,1,3,0,0, Full Time,news,%H and %D... also %F,,
+270779,Paul,Stewart,PA,2,24,36,30,21,27,3,3,3,0,0,0,0,0,0, Full Time,injured,%D and %M... copped an accidental shin to the head in Q1 by Kerr,subbed,Subbed off in Q2 for Wingard
+270928,Scott,Selwood,WC,38,144,140,119,116,157,16,18,9,7,0,1,1,1,1, Full Time,star,%P and %T with %M and %s... massive Q1,tagger,Tagging Brad Ebert
+200112,Dean,Cox,WC,21,99,104,75,92,111,11,9,9,0,24,3,2,0,0, Full Time,news,%D and %M on Carlile when forward... also %H,,
+261290,Chris,Masten,WC,17,89,120,61,76,102,13,9,5,3,0,2,3,2,0, Full Time,news,%s from %O and %M with %T on Cassisi,,
+290838,Jack,Darling,WC,21,86,106,60,72,86,12,2,6,2,0,3,1,3,2, Full Time,news,Kicked %s from %D and %G on Blee,sore,Left hamstring tweak in Q3 but played on
+240016,Beau,Waters,WC,13,84,129,43,70,90,16,7,7,0,0,4,1,0,0, Full Time,news,%P and %M,,
+240124,Matt,Priddis,WC,19,84,107,76,71,102,7,19,3,5,0,2,2,0,0, Full Time,news,%B among %O with %T... also %F,,
+990020,Andrew,Embley,WC,13,77,94,48,65,87,12,10,7,0,0,0,0,0,0, Full Time,news,%2 Pearce... %O and %M,,
+280078,Luke,Shuey,WC,12,76,80,34,59,83,15,10,1,1,0,2,0,0,2, Full Time,tagged,Tagged by Cornes... %P and %s,,
+280441,Patrick,McGinnity,WC,21,70,94,64,51,66,7,4,3,6,0,2,0,1,0, Full Time,news,%D and %T plus %M and %s,tagger,Tagging Rodan
+240283,Shannon,Hurn,WC,15,69,111,41,59,76,12,2,6,1,0,0,2,2,1, Full Time,tagged,First goal... forward tag on him by Thomas... %P and %M plus %s,,
+210018,Daniel,Kerr,WC,14,66,86,40,56,75,10,9,4,0,0,0,0,1,0, Full Time,news,%P and %M,,
+280324,Jacob,Brennan,WC,9,66,48,38,45,63,13,1,3,4,0,0,0,0,0, Full Time,news,%P and %T,,
+271045,Nic,Naitanui,WC,20,65,94,57,59,70,4,5,0,2,19,1,1,3,0, Full Time,news,%H and %P with %T and %s,,
+261214,Will,Schofield,WC,12,64,59,46,55,73,9,7,7,1,1,0,1,0,0, Full Time,news,%M and %P,job,Chasing Brett Ebert
+200074,Darren,Glass,WC,14,63,89,66,52,69,3,12,4,4,0,2,0,0,0, Full Time,job,Standing Daniel Stewart... %D and %M with %T,,
+261209,Josh,Hill,WC,14,63,91,37,50,67,11,4,3,2,0,1,1,1,1, Full Time,news,%s from %D and %M,,
+220061,Quinten,Lynch,WC,9,60,46,44,54,67,8,5,8,0,2,1,1,0,2, Full Time,news,%s from %D and %M on Trengove,,
+290801,Andrew,Gaff,WC,9,53,56,36,50,72,7,13,4,0,0,0,2,0,0, Full Time,sore,%2 Broadbent... %O and %M... left hip problem in Q1... also %F,,
+250034,Ashton,Hams,WC,5,41,44,37,35,48,4,6,4,2,0,0,1,0,0, Full Time,news,%D and %T with %M,,
+250317,Eric,Mackenzie,WC,3,33,41,27,28,42,5,3,3,3,0,0,3,0,0, Full Time,job,Has Schulz... %M and %O with %T and %F,,
+260546,Bradd,Dalziell,WC,3,33,39,29,27,40,4,4,2,3,0,0,2,0,1, Full Time,news,On after QT for Adam Selwood... %P and %T with %s and %F,sub,Started as a sub
+230254,Adam,Selwood,WC,0,10,12,5,10,15,2,2,1,0,0,0,1,0,0, Full Time,injured,%D... collision with Brennan in Q1 left him thinking he was in Koosbane,subbed,Subbed off at QT for Dalziell

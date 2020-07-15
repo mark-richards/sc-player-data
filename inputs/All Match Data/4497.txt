@@ -1,0 +1,48 @@
+Carlton,Blues,Hawthorn,Hawks,R12,13.9.87,15.12.102, Full Time
+Jun 14,2013,7.50,Docklands,Seven,261299,10391201,carl-v-haw,0,Roof closed,14,,
+
+<em>Disco DB</em>: Blues robbed? hahahaha&#044; blame the umpires&#044; learn the rules&#044; then learn not to kick to Hawks doctors&#044; then learn ability.<br><em>chyeaahh</em>: carlton got robbed&#044; coming from a bomber supporter<br><em>Juddsm8</em>: I'll get to see those Umps in the country league next week.Dogs <br><em>Mash</em>: and simpkin<br><em>Mash</em>: first time i agree with sc&#044; duryea earnt his 70 vs 40 dt<br><em>Mash</em>: umps missed plenty both ways&#044; hawks played harder in second half and won the ball more = more frees<br><em>3rdstriker</em>: as an impartial observer&#044; umpiring had no impact at all on the result<br><em>matthius</em>: i dont get these bloody sc scores. hodge 76 at 3/4 time. goals in last qtr and plays well. ends up with 89 FFS. <br><em>KingPetrie</em>: to all the people saying suck shower to carlton are just pure flogs. Best game of footy ive seen in a while! Good game!<br><em>Drak</em>: Buddy 119 Birch 104 woot<br><em>flyupup</em>: mick showerhouse<br><em>upweydons</em>: i luv it !<br>
+250417,Bryce,Gibbs,CA,38,123,132,164,91,129,20,8,5,8,0,0,2,1,0, Full Time,gun,%P and %M plus %T and %s,,,425200,57,483400,81,Back Centre,4,8,94.1,101.5,30.47,34.70
+240028,Brock,McLean,CA,20,117,122,148,95,133,18,16,7,3,0,0,1,0,1, Full Time,cherry,A large amount of clearances... %B among %D with %M and %s,,,433300,45,454900,102,Centre,14,11,86.6,88.5,0.52,0.48
+220056,Chris,Judd,CA,26,114,128,143,89,121,15,14,4,5,0,2,0,1,1, Full Time,hot,Started forward on Duryea but quickly to midfield head to head with Hodge... %P and %T with %M and %s,,,392100,85,494400,109,Centre,5,10,80,96.3,4.16,4.15
+261299,Matthew,Kreuzer,CA,28,88,111,107,75,89,5,3,4,5,32,0,1,1,0, Full Time,news,%H and %D with %M and %T... %s as well,,,385200,27,432200,51,Ruck,8,8,81.1,85.3,11.56,8.41
+230202,Kade,Simpson,CA,15,86,113,111,67,93,13,10,4,4,0,2,1,0,0, Full Time,news,%P and %M,job,Has Puopolo,386300,52,462000,64,Centre,6,11,76.6,84.7,0.78,0.82
+240060,Eddie,Betts,CA,26,86,107,108,70,91,8,7,4,5,0,0,1,3,1, Full Time,news,%s from %D and %M on Duryea... %T as well,,,327000,125,394600,149,Forward,19,5,58,66,1.83,1.55
+280971,Jaryd,Cachia,CA,15,82,83,108,65,93,13,9,5,4,0,0,2,0,0, Full Time,cash,%D and %M with %T,tagger,Tagging Hill,282700,39,281800,52,Centre,37,6,66.8,62,3.08,2.06
+990059,Heath,Scotland,CA,14,79,88,98,62,90,9,15,2,4,0,0,0,0,0, Full Time,news,%D and %M,,,366700,109,412700,108,Back Centre,29,9,78.3,83.2,9.08,5.66
+290311,Mitch,Robinson,CA,16,72,66,95,56,72,10,3,5,4,0,2,1,1,0, Full Time,news,%P and %T plus %M and %s... had a very productive Q1 but nowhere in Q2,sore,Left shoulder/ribs knock in Q1,401000,127,466600,146,Forward Centre,12,11,75.2,80.3,6.40,3.68
+270146,Ed,Curnow,CA,10,65,60,89,52,73,9,5,5,5,0,1,3,0,1, Full Time,news,%O and %T plus %M,tagger,Tagging Smith on a wing,354500,75,395100,89,Centre,35,8,73.4,76.9,0.31,0.34
+281124,Levi,Casboult,CA,15,63,66,80,52,61,7,1,6,2,6,1,0,1,1, Full Time,news,Kicked %s from %D and %M on Stratton then got Lake in Q3,,,267500,1,276500,21,Forward,41,4,50.8,46.8,0.55,0.58
+292511,Zach,Tuohy,CA,14,60,66,77,43,61,7,6,0,5,0,0,0,1,1, Full Time,job,Minding Breust... %O and %T plus %s,,,248700,20,317300,40,Back,42,11,51.5,64.8,1.98,2.34
+240014,Andrew,Walker,CA,7,59,92,74,46,64,11,7,2,1,0,1,0,0,1, Full Time,switch,Lewis dragging him to the Hawk goalsquare... %P... went forward in Q4 for %s,,,392400,31,520700,26,Forward Centre,1,11,85.3,112.6,8.94,18.68
+270326,Lachie,Henderson,CA,8,59,54,78,49,63,10,3,7,1,0,1,1,0,0, Full Time,news,%D and %M,job,Standing Roughead,351900,57,458200,64,Back Forward,23,11,67.3,85.8,2.49,2.45
+260533,Dennis,Armfield,CA,10,54,50,72,42,54,8,1,4,3,0,1,1,1,0, Full Time,tagger,Forward tag on Birchall... %D and %M,,,298300,88,356500,96,Forward Centre,27,11,56.9,63.6,2.24,2.48
+260278,Sam,Rowe,CA,10,50,55,63,43,54,7,2,4,1,6,0,1,1,0, Full Time,cash,%s from %P and %M on Gibson... also %H,in,Late replacement for Andrew Carrazzo,187500,28,214400,18,Forward Ruck,17,4,55,63.5,29.09,31.74
+220110,Jarrad,Waite,CA,11,49,49,62,42,57,7,4,2,2,0,0,2,2,0, Full Time,news,Booted %s from %G and %D on Lake then got Stratton in Q3,,,464400,79,517100,108,Forward,30,5,99.6,102.2,0.80,0.61
+261043,Michael,Jamison,CA,5,39,47,53,35,48,6,4,4,2,0,2,3,0,0, Full Time,job,Following Franklin... %M and %O.... also %T and %F,,,255400,93,321800,88,Back,40,11,51.9,68.8,1.26,1.63
+281079,Kane,Lucas,CA,3,38,46,48,30,42,8,4,2,0,0,0,0,0,0, Full Time,news,On in Q2 for Murphy as concussion sub... %D,sub,Started as a sub,376100,67,382300,59,Centre,9,10,77,78.4,3.27,6.28
+296531,Joshua,Bootsma,CA,1,28,31,38,19,27,7,0,1,1,0,0,0,0,0, Full Time,job,The job on Hale... %O,,,196200,53,214200,57,Back,21,5,37.2,42,0.37,0.67
+270653,Jeff,Garlett,CA,2,25,28,34,22,33,5,3,2,1,0,0,2,0,0, Full Time,news,%P and %M on Guerra... one handball in Q1,,,388700,73,452200,111,Forward,38,11,85,95.7,3.85,3.57
+250105,Marc,Murphy,CA,2,24,22,30,20,27,2,4,2,1,0,0,0,0,0, Full Time,injured,%O with %b by hand... also %M... ran his head into the shoulder of Hodge in Q2 leaving him woozy... suspected broken jaw,subbed,Subbed off in Q2 for Lucas,426900,104,508900,118,Centre,3,11,95.8,101.9,13.58,13.16
+220073,Sam,Mitchell,HW,16,97,114,62,76,101,15,9,4,3,0,2,0,1,2, Full Time,star,Slow start... %P and %M plus %T and %s,,,472300,134,534100,141,Centre,5,10,100,108.3,11.91,12.73
+291351,Jack,Gunston,HW,28,92,100,88,73,93,7,7,5,6,0,0,0,3,0, Full Time,news,%s from %D and %T with %M,,,379600,22,443600,34,Forward,19,8,70.6,77.6,1.47,1.38
+240399,Lance,Franklin,HW,22,88,124,70,78,95,10,4,6,3,0,3,3,4,2, Full Time,heart,Booted %s from %D and %G on Jamison... %T and %F as well... aggravated an already sore right wrist in Q3,,,383300,78,458400,99,Forward,23,10,79.5,88.9,49.24,50.50
+240357,Jarryd,Roughead,HW,18,83,92,65,70,86,9,4,3,3,5,1,1,4,0, Full Time,x-factor,First goal... %s from %P and %T on Henderson including three very important goals in Q3,,,468400,123,543700,134,Forward Ruck,2,10,88.6,97.7,17.93,18.32
+220039,Brian,Lake,HW,13,78,98,55,65,84,11,8,8,1,0,1,0,0,0, Full Time,rock,Standing Waite... shifted to Casboult in Q3 and was much better suited... %D and %M,,,350300,70,401800,74,Back,17,6,65.5,75.7,2.01,2.73
+240302,Grant,Birchall,HW,7,69,105,30,53,75,14,9,1,1,0,2,0,0,0, Full Time,tagged,Forward tagged by Armfield... %O,,,382700,132,417800,106,Back,14,9,89.3,96.8,25.15,22.08
+220047,Luke,Hodge,HW,15,67,91,45,53,70,10,5,4,2,1,0,0,1,0, Full Time,news,Started in defence but roamed all about head to head with Judd... %P and %T with %M,mrp,A challenge on Murphy where his shoulder contacted the head of the Blue will be scrutinised,417300,127,474600,137,Centre,15,9,88.6,96.7,8.65,6.59
+260710,Paul,Puopolo,HW,12,66,87,45,48,68,10,7,1,4,0,1,0,0,2, Full Time,news,%s from %P and %T on Simpson,,,297000,33,314700,43,Forward,28,10,62.6,63.3,3.66,2.60
+250715,Josh,Gibson,HW,9,64,96,54,54,72,6,12,4,2,0,2,0,0,0, Full Time,job,Zoning off Rowe... %P and %M,concussed,Ran his head into the knee of Lake in Q1 which left him groggy,363900,91,403200,89,Back,6,9,66.2,75.9,2.67,2.47
+295584,Bradley,Hill,HW,14,64,72,31,51,69,13,3,4,1,0,0,1,1,0, Full Time,tagged,Tagged by Cachia... did not touch the footy in Q1... %P,,,282000,22,267100,8,Centre,10,9,62.8,60.7,4.60,5.79
+230197,Brad,Sewell,HW,12,63,61,36,45,66,12,5,1,4,0,1,1,0,0, Full Time,news,%D and %T,,,381700,67,423000,79,Centre,12,7,77.6,81,0.79,0.71
+220036,David,Hale,HW,21,62,72,63,57,74,3,8,2,4,17,1,3,1,0, Full Time,news,%s from %P and %T when forward on Bootsma... also %H,,,367500,49,468100,75,Forward Ruck,20,9,70.9,86.8,2.56,2.79
+280471,Ben,Stratton,HW,7,61,74,36,49,66,10,8,3,1,0,2,0,0,0, Full Time,job,Has Casboult... moved to Waite in Q3... %O and %M,,,345900,57,360500,67,Back,24,10,69.3,70.6,2.50,2.09
+250089,Jordan,Lewis,HW,4,57,57,41,43,60,8,6,2,3,3,0,0,0,0, Full Time,news,Dragging Walker to the Hawks goalsquare... %D and %T with %M... also %H as third man up... freed up in Q4,,,466200,66,519900,65,Forward Centre,3,10,92.7,98.1,6.32,4.94
+280737,Liam,Shiels,HW,9,55,71,38,40,57,9,4,2,4,0,1,1,0,0, Full Time,news,%P but not very effective with it... also %T,sore,Copped a Gibbs boot to his right thigh in Q3 which corked it,374400,87,361700,102,Centre,26,10,72.3,65.6,0.44,0.97
+260472,Max,Bailey,HW,14,51,67,48,42,49,3,2,0,3,25,1,0,0,0, Full Time,news,%H and %D plus %T,subbed,Subbed off in Q3 for Simpkin,312100,36,391900,28,Ruck,39,8,69.1,84.3,4.04,4.09
+280744,Luke,Breust,HW,14,48,42,50,34,49,4,4,2,6,0,0,1,0,1, Full Time,news,%s from %P and %T on Tuohy,,,352500,65,430600,85,Forward,22,10,77.1,88.2,2.66,2.09
+210012,Shaun,Burgoyne,HW,3,44,65,34,35,49,5,8,1,2,0,1,0,0,1, Full Time,news,%O and %s,,,400000,102,433800,82,Back Centre,9,10,86.5,89.2,18.78,9.65
+290085,Taylor,Duryea,HW,3,40,66,20,32,45,8,4,2,1,0,1,1,0,0, Full Time,news,%D,job,A surprising opponent in Judd to start but mostly on Betts,225800,58,236100,70,Centre,41,7,56.3,55.4,1.30,1.12
+294877,Isaac,Smith,HW,3,40,40,27,34,46,6,5,3,1,0,1,1,0,1, Full Time,tagged,Tagged by Curnow on a wing... %D,,,374700,70,374000,71,Centre,16,10,81.3,78.3,0.69,1.54
+200060,Brent,Guerra,HW,3,38,44,23,32,42,6,5,3,0,0,1,0,0,0, Full Time,job,Responsible for Garlett... %O,,,317200,91,386200,111,Back,18,8,63,77,1.27,0.96
+250652,Jonathan,Simpkin,HW,1,25,48,14,21,30,4,5,1,0,0,0,0,0,0, Full Time,news,On in Q3 for Bailey,sub,Started as a sub,285700,-17,309800,-14,Centre,32,5,68,69.4,0.98,1.21

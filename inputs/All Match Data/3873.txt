@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Western Bulldogs,Bulldogs,QF,16.17.113,10.7.67, Full Time
+Aug 27,2011,2:10,MCG,Ten,281013,10312302,5653,174,Cloudy and windy,18,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>chrisneso</em>: Murphy and Suckling&#044; solid. Buddy&#044; you star. Boyd&#044; awesome. Hodge&#044; as expected. and Rioli subbed out. Perfect.<br><em>old_shepp</em>: Both my opponents started Puopolo for Gibbs - I left him on my bench ;(<br><em>pitojack1</em>: robert murphy supercoach<br><em>McLovin_</em>: Dunno about that big shot<br><em>prozz710</em>: thanks for being on my bench Poo<br><em>mdon11</em>: Nevermind.<br><em>MajicMajak</em>: i flower hate u puopolo ur gonna cost me a win<br><em>mdon11</em>: What happened to SC scores?<br><em>penguins00</em>: Puopolo Franklin Birchall Boyd thankyou very much.<br><em>thebigshot</em>: well done the poo... might be a lock in for next season<br><em>Dasherman</em>: First time poo has made triple figures. great work<br><em>Bretto3</em>: 4 more tutt<br>
+260710,Paul,Puopolo,HW,30,129,151,170,98,126,21,6,10,5,0,4,0,0,0, Full Time,star,Providing a lot of run from defence in a Harbrow-like role... %D and %T with %M,,
+240399,Lance,Franklin,HW,32,119,118,143,102,121,13,7,7,2,0,3,0,5,4, Full Time,cherry,%s from %P and %G on Markovic,,
+250089,Jordan,Lewis,HW,24,114,99,150,85,116,21,6,7,4,1,0,0,0,1, Full Time,hot,%D and %M plus %T and %s,,
+280744,Luke,Breust,HW,32,114,108,143,98,124,10,12,11,4,0,1,1,2,1, Full Time,hot,%s from %D and %M on Schofield... also %T,,
+240302,Grant,Birchall,HW,25,113,115,146,92,120,21,7,12,0,0,0,0,0,0, Full Time,hot,%P and %M,,
+200060,Brent,Guerra,HW,27,112,115,141,91,117,17,8,8,2,0,1,0,2,0, Full Time,hot,%D and %M plus %s,job,Following Giansiracusa
+220047,Luke,Hodge,HW,21,101,119,127,80,112,19,11,3,2,0,1,1,1,1, Full Time,hot,%2 Boyd... %P and %s,,
+230197,Brad,Sewell,HW,20,100,107,126,85,120,13,17,7,3,0,0,2,0,0, Full Time,hot,%P and %M with %T... also %F,,
+220036,David,Hale,HW,27,98,93,123,85,104,11,5,10,2,11,0,1,1,3, Full Time,news,%s from %P and %G at FF on Cordy... also %H,,
+210012,Shaun,Burgoyne,HW,20,96,77,121,82,108,14,10,9,1,0,0,1,1,0, Full Time,job,Minding Dahlhaus.. %D and %M plus %s,,
+260472,Max,Bailey,HW,20,87,94,100,77,96,8,12,3,1,18,2,0,1,0, Full Time,news,%H and %D with %M and %s,,
+210092,Michael,Osborne,HW,20,85,87,108,69,93,10,9,5,4,1,0,1,1,2, Full Time,news,%P up forward on Murphy,in,Late replacement for Sam Mitchell
+280737,Liam,Shiels,HW,10,80,70,105,64,89,14,7,5,3,1,1,2,0,1, Full Time,news,%O and %M with %T,,
+281301,Ryan,Schoenmakers,HW,13,76,90,99,66,93,14,9,7,1,0,0,3,0,0, Full Time,news,%O and %M,job,Following Jones
+250146,Thomas,Murphy,HW,14,71,70,95,57,75,12,3,8,2,0,0,1,0,0, Full Time,news,%D and %M with %T,job,Chasing Grant
+270732,Matt,Suckling,HW,12,64,72,82,54,73,12,6,6,0,0,0,1,0,1, Full Time,job,Matched up on Higgins... %P and %M plus %s,,
+280858,Shane,Savage,HW,13,61,39,79,53,69,10,5,8,0,0,0,1,0,0, Full Time,news,%2 Ward... %D and %M,,
+200052,Cameron,Bruce,HW,8,57,38,71,48,64,7,8,5,1,0,0,0,0,1, Full Time,news,%B among %D with %M,,
+261386,Brendan,Whitecross,HW,10,53,28,70,40,51,7,1,4,3,0,0,0,1,0, Full Time,garbage,On in Q4 for Rioli and racked it up in junk time... %s from %O and %M with %T,sub,Started as a sub
+294877,Isaac,Smith,HW,8,53,54,67,44,61,7,8,3,2,0,1,1,0,1, Full Time,sore,Copped a hit by Addison in Q1 that left him limping on the left peg but he returned soon after... %P and %M,,
+260955,Cyril,Rioli,HW,9,47,58,61,35,45,8,1,2,2,0,1,0,1,0, Full Time,sore,%O and %T... tagged by Picken... left calf strapped up in Q1,subbed,Subbed off at 3QT for Whitecross
+250715,Josh,Gibson,HW,2,34,64,39,30,42,4,9,1,0,0,1,0,0,0, Full Time,job,Has Hall... %D,,
+220010,Matthew,Boyd,WB,25,108,100,84,88,128,12,23,2,5,2,1,1,0,0, Full Time,hot,%2 Hodge... %O and %T,,
+240156,Ryan,Griffen,WB,25,105,111,69,76,108,17,9,3,6,3,0,0,0,0, Full Time,hot,%O and %T with %M,,
+210049,Daniel,Cross,WB,30,103,95,97,83,113,8,17,6,6,2,1,0,0,0, Full Time,garbage,%B among %O with %M and %T... racked up cheap numbers in Q4 garbage time,,
+281078,Liam,Jones,WB,21,91,100,81,74,91,9,5,7,5,0,3,1,2,1, Full Time,news,Booted %s from %P and %G on Schoenmakers... also %T,,
+260227,Shaun,Higgins,WB,14,82,68,62,70,96,10,14,6,2,0,1,1,0,0, Full Time,news,%B among %D with %M and %T on Suckling,,
+280109,Callan,Ward,WB,14,72,65,75,58,79,4,12,5,5,0,0,0,0,1, Full Time,news,%2 Savage... %D and %M,,
+294219,Jayden,Schofield,WB,8,72,62,31,54,72,16,2,5,1,0,1,0,0,0, Full Time,news,%P and %M,job,Minding Breust
+261209,Josh,Hill,WB,9,69,82,36,54,75,13,7,4,1,0,0,0,0,0, Full Time,news,%O and %M,,
+200083,Robert,Murphy,WB,9,66,93,39,53,75,11,10,2,2,0,2,1,0,0, Full Time,news,%O and %M with %T,job,Responsible for Osborne
+960570,Barry,Hall,WB,20,64,69,53,60,69,6,2,7,0,0,0,1,4,0, Full Time,news,First goal... kicked %s from %P and %G on Gibson,,
+281013,Jason,Tutt,WB,8,61,43,44,53,71,8,9,5,1,0,1,1,0,2, Full Time,bubble,Second game... %s from %P and %M,,
+280012,Jordan,Roughead,WB,17,60,74,62,53,69,3,7,3,4,12,0,2,1,0, Full Time,news,%H and %D with %T and %M,,
+290799,Tom,Liberatore,WB,12,60,68,54,49,72,5,14,1,4,0,1,1,0,0, Full Time,news,%P and %T,,
+291526,Luke,Dahlhaus,WB,15,58,55,54,44,63,6,7,2,6,0,2,2,0,0, Full Time,news,%P and %M with %T on Burgyone,,
+200079,Daniel,Giansiracusa,WB,12,55,56,42,48,63,7,4,4,2,0,0,2,2,0, Full Time,news,%s from %O and %M with %T on Guerra,,
+240212,Dylan,Addison,WB,9,50,46,49,42,60,4,9,3,4,0,1,2,0,0, Full Time,mrp,A high elbow on Smith in Q1 will be scrutinised... %P and %T with %M,in,Late replacement for Easton Wood
+271439,Liam,Picken,WB,8,49,45,40,35,51,6,6,1,4,0,0,0,0,0, Full Time,tagger,Tagging Rioli... %D,,
+280056,Ayce,Cordy,WB,3,40,53,36,35,45,3,7,3,1,3,1,0,0,0, Full Time,bubble,Second game... %P... also %H,job,In defence on Hale
+250601,Lukas,Markovic,WB,3,36,46,21,27,39,7,2,2,2,0,0,1,0,0, Full Time,job,Standing Franklin... %M and %D,,
+260373,Ed,Barlow,WB,2,34,44,28,29,42,3,9,1,1,0,0,0,0,0, Full Time,news,%P,subbed,Subbed off at 3QT for Veszpremi
+261319,Jarrad,Grant,WB,3,34,37,29,31,39,3,6,4,0,0,1,0,0,0, Full Time,news,%P on Murphy,,
+270186,Patrick,Veszpremi,WB,8,34,24,24,30,39,4,5,2,0,0,0,0,1,0, Full Time,news,On in Q4 for Barlow,sub,Started as a sub

@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Collingwood,Magpies,R21,18.11.119,12.12.84, Full Time
+Aug 16,2013,7.50,MCG,Seven,240700,10392101,haw-v-coll,0,Windy with showers,15,,
+
+<em style='color:#000'>ballbag</em>: SC is subjective scoring- very corupt for betting purposes. shld be illegal to bet on<br><em style='color:#000'>cusch1</em>: superpig super pig&#044; does whatever a superpig does...oh wait<br><em style='color:#000'>bixler</em>: Cloke only 27 more than Roughead in SC&#044; what a joke<br><em style='color:#000'>RooBoyStu</em>: back to reality skunks hahaha<br><em style='color:#000'>pietime!</em>: swanerman!<br><em style='color:#000'>old_shepp</em>: Sewell would have to be worst X ever. Did nothing after quarter time<br><em style='color:#000'>Mcswains</em>: lol cheers mate!! Didn't know it was that close to the siren haha<br><em style='color:#000'>jimmyjay</em>: Looking very good for the hawks this year&#044; but it did last year too<br><em style='color:#000'>MonoJoker</em>: 105 mcswains<br><em style='color:#000'>SquidRock</em>: oink oink. Amen<br><em style='color:#000'>jimmyjay</em>: bit of a relief for Ruffhead&#044; not harm in a little celebration<br><em style='color:#000'>Richy10</em>: siren<br>
+220047,Luke,Hodge,HW,20,114,130,150,86,117,22,6,8,3,0,0,0,0,0, Full Time,star,%O and %G. Including %K. Also %T,job,On Lynch...,447000,83,481800,122,Centre,15,17,90.8,96.4,4.56,5.14
+240399,Lance,Franklin,HW,22,94,101,112,83,102,11,9,5,1,0,3,1,4,0, Full Time,target,Keefe on him... %s from %D plus %G,,,371900,76,441800,103,Forward,23,16,79.4,90.2,24.23,32.98
+260710,Paul,Puopolo,HW,26,94,96,118,75,101,9,13,3,6,1,3,1,1,1, Full Time,news,%D plus %T and %M. Including %s,,,370000,69,417300,77,Forward,28,17,68,72.1,2.64,2.41
+220036,David,Hale,HW,26,92,81,114,79,100,9,6,5,4,19,0,2,1,3, Full Time,news,%s from %D. Plus %G. Also %H,,,353000,72,412000,84,Forward Ruck,20,18,69.8,82.4,3.22,3.46
+250089,Jordan,Lewis,HW,16,89,110,110,75,101,10,13,5,3,2,1,1,1,0, Full Time,news,%s from %D and %M. Also %B plus %T,,,443100,117,473500,115,Forward Centre,3,19,90.7,95.1,10.54,6.28
+261386,Brendan,Whitecross,HW,21,88,92,113,73,93,13,4,8,2,0,0,1,2,0, Full Time,tagger,On Shaw... %s from %D and %M,,,328300,88,310000,81,Forward Centre,11,7,64.6,59.7,0.32,0.32
+294877,Isaac,Smith,HW,21,87,103,104,75,96,12,9,5,0,0,0,0,3,0, Full Time,news,%D and %M. Plus %s,sore,Right forearm knock...,447800,94,441300,84,Centre,16,18,87.2,83.1,0.78,1.48
+220073,Sam,Mitchell,HW,14,80,95,104,62,90,14,10,2,4,0,2,2,0,0, Full Time,tagged,Tagged by Macaffer... %O with %K,,,441300,102,488900,64,Centre,5,18,97.1,105.6,17.07,17.05
+230197,Brad,Sewell,HW,19,77,90,96,66,99,9,18,2,4,0,1,3,0,0, Full Time,x-factor,%O with %B and %T... Also 13 touches in the 1st quarter,,,370300,97,381800,98,Centre,12,15,77.1,77.3,0.77,0.71
+240302,Grant,Birchall,HW,13,76,106,93,60,87,12,14,1,2,0,1,0,0,0, Full Time,news,%D... Including 8 touches in the 1st term,,,334200,119,420700,116,Back,14,11,82.3,92.4,5.63,6.44
+291351,Jack,Gunston,HW,20,75,83,95,57,75,10,5,2,4,0,1,0,2,0, Full Time,news,%s from %D. Also %T,,,366300,149,399000,138,Forward,19,17,76.5,82.6,1.85,1.69
+280744,Luke,Breust,HW,20,73,88,94,60,83,7,9,4,5,0,0,2,1,2, Full Time,news,%s from %D,,,328700,67,350800,57,Forward,22,19,74.2,81.8,3.58,2.76
+250715,Josh,Gibson,HW,9,69,104,84,57,78,8,13,3,2,0,2,0,0,0, Full Time,news,%D and %M. Plus %T,job,On Reid...,306800,36,411500,61,Back,6,18,63.9,78.6,3.12,2.74
+260955,Cyril,Rioli,HW,15,66,96,86,49,66,7,5,3,5,0,0,0,1,0, Full Time,news,%s from %D. Plus %T,,,315900,106,393000,141,Forward Centre,33,11,74,86.6,4.80,6.59
+280471,Ben,Stratton,HW,8,59,59,76,45,63,10,6,3,2,0,0,0,0,0, Full Time,job,Loose in defence... %D with %M and %T,,,278900,53,301400,80,Back,24,19,63.8,66.8,2.58,2.08
+210012,Shaun,Burgoyne,HW,8,56,65,73,40,57,8,6,1,4,0,1,0,0,0, Full Time,news,%D with %K and %T,job,On Blair,341100,24,412000,51,Back Centre,9,17,79.2,86.1,13.03,8.76
+290085,Taylor,Duryea,HW,14,56,36,77,38,52,6,2,3,6,0,0,0,0,1, Full Time,job,Standing Elliot... %D with %M and %T,,,270600,37,282600,46,Centre,41,16,57.9,58.7,1.28,1.11
+260472,Max,Bailey,HW,10,55,40,71,46,60,5,3,3,4,14,0,2,0,1, Full Time,in,Late replacement for Brent Guerra... %H and %D plus %M with %T,subbed,Subbed off late in the 3rd,274600,59,330900,70,Ruck,39,14,63.6,75.4,3.03,3.15
+295584,Bradley,Hill,HW,10,53,67,68,40,54,7,4,2,3,0,0,0,1,0, Full Time,news,%2 Hill... %D and %M,,,275700,102,268500,94,Centre,10,18,61.4,58.7,3.75,4.75
+220039,Brian,Lake,HW,4,46,49,60,35,48,5,5,3,3,0,0,0,0,0, Full Time,job,Standing Cloke... %D plus %G and %T,,,336000,64,391800,67,Back,17,15,69.1,78.8,2.24,3.07
+240357,Jarryd,Roughead,HW,8,43,60,52,36,50,7,6,0,1,1,1,1,1,1, Full Time,missing,%s from %O. Nothing on the scoreboard for the first 3 quarters.,,,391600,101,455600,103,Forward Ruck,2,19,88.3,99,28.19,27.69
+280858,Shane,Savage,HW,7,34,23,46,23,33,3,3,1,4,0,0,0,0,0, Full Time,news,Subbed on late in the 3rd... %D and %T,sub,Started as a sub,397800,53,400200,59,Centre,21,12,72.8,70.4,1.30,1.45
+220105,Dane,Swan,CO,31,131,129,75,104,142,23,12,7,3,0,1,1,1,1, Full Time,superman,%D plus %M. With %K and %T. Also %s,dttalk,Calvin's pick of the bunch for Captaincy this week,585000,176,605400,140,Centre,36,19,117.5,118.7,53.68,42.81
+220005,Luke,Ball,CO,20,96,86,76,69,93,13,6,5,7,0,2,0,0,0, Full Time,news,%D and %M. Plus %T,,,445300,80,482300,68,Centre,12,10,99.3,100.1,6.82,9.66
+240073,Harry,O'Brien,CO,31,96,87,87,77,103,9,11,6,6,0,1,1,1,1, Full Time,news,%D with %B. Also %T to go with his %G. WIth an added %s,,,420300,61,433700,75,Back,8,16,86.8,88.6,5.38,3.30
+260257,Scott,Pendlebury,CO,19,96,110,75,78,110,10,21,1,4,0,3,0,0,2, Full Time,news,%O plus %s. A massive %B,,,511100,108,580800,106,Centre,10,19,112.1,126.6,46.24,48.19
+271001,Dayne,Beams,CO,21,91,109,56,75,102,14,11,3,2,0,1,1,2,0, Full Time,news,%s from %D. Also %M with %T,,,570400,150,596300,178,Centre,17,5,113.8,109.6,9.84,2.64
+293957,Brodie,Grundy,CO,21,91,93,76,80,100,7,13,2,2,28,2,0,0,0, Full Time,news,%H with %D plus %H. Also %T,,,162800,-5,179600,-34,Ruck,35,3,68,73.7,22.32,12.01
+280965,Steele,Sidebottom,CO,14,89,93,51,69,93,16,7,6,2,0,1,0,0,0, Full Time,news,%2 Hill... %O and %M,,,505100,99,549200,100,Centre,22,19,98.3,104.7,4.05,3.26
+240366,Travis,Cloke,CO,21,82,93,71,68,82,8,3,7,3,0,0,0,3,1, Full Time,news,First goal scorer... %s from %D and %G. Also %T,,,421700,113,446200,111,Forward,32,18,93.7,95.6,21.63,16.24
+290289,Josh,Thomas,CO,16,79,74,46,65,90,14,7,5,2,0,0,2,1,0, Full Time,news,%D and %M plus %T. Also %s,,,300400,90,333000,71,Centre,24,15,71.5,75.2,1.31,1.34
+293801,Jamie,Elliott,CO,20,68,78,58,52,66,8,2,6,4,0,0,0,1,0, Full Time,news,%s from %O. Plus %M and %T,,,281800,24,311700,10,Forward,19,18,67.6,72.1,2.92,4.46
+240232,Ben,Reid,CO,9,66,51,52,55,74,9,5,7,3,0,0,2,0,2, Full Time,news,%s from %D with %G,,,344100,79,393500,71,Back,20,18,70.8,80.9,2.11,2.94
+260246,Tyson,Goldsack,CO,9,64,70,47,51,66,9,5,6,2,0,1,0,0,0, Full Time,job,In defence on Hale... %D and %M. Also %T,,,281100,77,328400,76,Forward,6,9,57,69.3,0.97,0.89
+220061,Quinten,Lynch,CO,12,60,55,50,52,66,6,5,4,2,9,0,1,1,0, Full Time,news,%s from %O with %G. Also %T and %H,mrp,Hit on Mitchell behind the ball,305400,35,324300,33,Forward,21,15,69.7,71.1,1.63,2.32
+295256,Marley,Williams,CO,4,51,70,27,39,55,10,4,2,2,0,1,1,0,1, Full Time,job,On Puopolo... %D with %M and %T,,,347900,61,380400,66,Back,46,12,70.3,73.8,0.55,0.60
+261181,Brent,Macaffer,CO,7,47,38,34,31,45,8,1,1,5,0,1,1,0,0, Full Time,tagger,Tagging Mitchell... %D plus %T,,,294800,83,281700,69,Forward,3,18,68.4,62.7,17.50,22.27
+280104,Jarryd,Blair,CO,10,44,55,33,37,51,5,6,0,2,0,0,1,2,0, Full Time,news,%s from %D plus %M,,,351900,100,383100,87,Forward Centre,11,18,78.8,79.1,1.98,1.81
+230263,Nick,Maxwell,CO,4,43,61,32,33,45,6,4,3,2,0,0,0,0,0, Full Time,news,Loose in defence... %D with %M and %T,,,298700,74,324200,81,Back,5,15,65.5,66.8,1.14,1.02
+260310,Nathan,Brown,CO,8,40,43,44,32,45,2,7,2,4,0,1,1,0,0, Full Time,job,At FB on Roughead... %D and %T,,,187500,41,245200,40,Back,16,18,39.7,49.5,2.06,1.65
+290314,Lachlan,Keeffe,CO,3,39,61,28,29,42,6,4,1,3,0,1,1,0,0, Full Time,job,Following Franklin... %D and %T,,,263000,38,337500,47,Back,23,4,58.8,74,0.23,0.32
+240700,Heath,Shaw,CO,7,37,37,28,27,42,6,3,1,4,0,0,2,0,0, Full Time,mare,Whitecross on him... %D and %T. Only 1 touch in the 1st half,,,388800,112,469000,137,Back,39,16,84.4,99.4,15.56,28.74
+250133,Sam,Dwyer,CO,1,20,16,18,19,27,1,7,1,0,0,0,0,0,0, Full Time,news,On midway through the 3rd...,sub,Started as a sub,314000,114,339900,107,Forward Centre,41,17,66.5,69.9,12.32,14.98
+291386,Ben,Sinclair,CO,0,8,15,3,8,12,2,1,1,0,0,0,1,0,0, Full Time,injured,Following Breust... %D. Left shoulder injury,subbed,Midway through the 3rd,272700,43,312100,24,Forward,28,14,54.3,58.5,1.14,1.11

@@ -1,0 +1,48 @@
+Adelaide,Crows,St Kilda,Saints,R12,17.13.115,16.15.111, Full Time
+Jun 15,2012,8:40,Footy Park,Seven,270742,10341202,430105,0,A shower or two,17,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>jpreed84</em>: Thanks Monty!<br><em>jballstars</em>: ya trade out Goddard good idea lol<br><em>kangablues</em>: Go the Giants! Looking forward to the game tomorrow!!<br><em>jpreed84</em>: NDS you lttle ripper&#044; Monty please give him the heart!<br><em>johnkay</em>: Well the bye nearly got another team.<br><em title="SLEE34">slee34</em>: What did danger score in last qtr?<br><em>rosty63</em>: livesfooty both teams kicked alot of points crows were better by a mile<br><em>bickies</em>: Thompson dal santo montags and sloane (c) will take it during the bye week<br><em>Purplewiz</em>: Goddard needs a ton soon or he's gawnsky!<br><em>jpreed84</em>: Massive heart for NDS<br><em>aceballa</em>: anyone else see montagna kick the adelaide player in the nuts on that last mark? worthy of a suspension??<br><em>Jormas</em>: NDS was a good pick up at 400K<br>
+210016,Scott,Thompson,AD,32,141,126,178,114,156,23,16,8,3,0,1,1,1,0, Full Time,star,%2 Hayes... %O and %M with %T and %s,,
+270742,Kurt,Tippett,AD,32,111,126,130,98,111,11,4,6,1,12,3,0,5,3, Full Time,x-factor,First goal... booted %s from %P and %G on Blake including three majors in Q1... also %H,,
+270811,Sam,Jacobs,AD,40,103,136,118,90,105,9,5,2,2,45,1,0,1,0, Full Time,hot,%H and %D,,
+270963,Rory,Sloane,AD,21,100,95,132,75,106,15,9,5,6,1,0,1,0,0, Full Time,hot,Tagged by Jones... %D and %T,,
+250362,David,Mackay,AD,20,91,83,118,67,92,14,6,3,5,1,0,0,1,1, Full Time,news,%P and %M plus %T and %s,,
+250118,Nathan,van Berlo,AD,30,90,74,121,65,88,9,6,6,8,0,0,0,0,1, Full Time,tagger,Tagging Dal Santo... %P,,
+261857,Ian,Callinan,AD,21,90,110,111,75,96,11,9,6,2,0,1,0,2,0, Full Time,news,%s from %D and %M on Dempster,,
+230174,Jason,Porplyzia,AD,24,87,90,110,75,96,16,3,7,0,0,0,2,3,0, Full Time,news,%s from %O and %M on Clarke including three big ones in Q2,,
+261138,Jared,Petrenko,AD,21,84,104,109,65,93,7,13,4,7,0,0,1,0,0, Full Time,tagger,Tag on Goddard... %B among %P with %M and %T,,
+240370,Richard,Douglas,AD,13,82,89,108,59,81,13,6,3,5,0,2,0,0,0, Full Time,tagger,Tagging Montagna... %O and %T,,
+280281,Brodie,Martin,AD,15,81,92,107,61,87,14,7,4,4,0,0,1,0,0, Full Time,news,%O and %M with %T,,
+270917,Patrick,Dangerfield,AD,13,79,86,98,64,93,15,13,2,1,0,1,1,0,0, Full Time,news,%B among %P... only %M,,
+220086,Brent,Reilly,AD,14,77,90,100,61,84,10,9,5,4,0,1,1,0,0, Full Time,news,%D and %T,job,Chasing Schneider
+280506,Taylor,Walker,AD,19,74,78,89,67,84,9,8,6,0,0,1,1,2,3, Full Time,news,Kicked %s from %D on Gwilt,,
+261384,Matthew,Wright,AD,15,70,75,85,58,76,8,8,3,2,0,0,0,2,1, Full Time,news,%P,,
+290211,Sam,Shaw,AD,9,69,71,90,55,69,10,4,7,2,0,2,0,0,0, Full Time,news,%P and %M,job,Has Siposs
+261351,Matthew,Jaensch,AD,4,52,39,70,37,51,9,2,3,3,0,0,0,0,0, Full Time,job,Minding Steven... %D and %T,,
+200092,Michael,Doughty,AD,3,35,47,45,33,51,6,8,2,1,0,0,3,0,0, Full Time,job,Milne is his man... %D,,
+294828,Josh,Jenkins,AD,2,32,39,41,26,37,4,4,1,2,4,0,1,0,0, Full Time,news,%P and %T on Gilbert,subbed,Subbed off in Q3 for Knights
+220093,Ben,Rutten,AD,2,26,27,33,23,30,5,3,2,0,0,2,1,0,0, Full Time,job,Koschitzke is his man... %D,,
+280934,Daniel,Talia,AD,2,19,29,25,19,27,4,3,2,0,0,1,2,0,0, Full Time,job,Following Riewoldt... %O,,
+240032,Chris,Knights,AD,1,16,17,20,12,18,2,3,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Jenkins,sub,Started as a sub
+220023,Nick,Dal Santo,SK,28,131,130,98,105,144,16,18,5,5,0,0,0,2,0, Full Time,heart,Tagged by van Berlo... left knee knock in Q2... %P and %M plus %s,,
+220075,Leigh,Montagna,SK,39,127,123,109,100,138,13,16,5,8,0,0,1,2,0, Full Time,hot,Tagged by Douglas... %B among %D with %T,,
+250340,David,Armitage,SK,27,100,98,84,81,109,11,12,5,6,0,3,2,1,1, Full Time,hot,%P and %M,,
+270912,Jack,Steven,SK,20,100,100,56,78,103,18,6,6,2,0,1,0,1,1, Full Time,hot,Playing a HFF on Jaensch... %s from %D and %M,,
+220098,Adam,Schneider,SK,27,92,100,81,73,99,9,10,4,6,0,0,1,2,0, Full Time,news,%s from %P and %T on Reilly,,
+261743,Clinton,Jones,SK,43,89,73,101,65,96,4,15,2,11,0,0,1,0,0, Full Time,news,%D and %T,tagger,Tagging Sloane
+990028,Lenny,Hayes,SK,14,81,80,66,64,93,9,15,2,5,0,1,1,0,0, Full Time,news,%2 Thompson... %P and %T,,
+230243,Sean,Dempster,SK,12,79,89,40,61,81,16,3,7,1,0,0,0,0,0, Full Time,job,Callinan is his man... %P and %M,,
+250134,Sam,Gilbert,SK,14,79,79,62,61,84,10,10,3,5,0,3,1,0,0, Full Time,news,%D and %T,job,On Jenkins
+200108,Stephen,Milne,SK,17,76,67,60,64,78,8,5,4,2,0,1,0,3,3, Full Time,news,%s from %P and %M on Doughty,,
+293815,Arryn,Siposs,SK,12,76,76,63,62,79,8,6,5,3,0,0,0,2,1, Full Time,news,%D on Shaw,,
+230084,Brendon,Goddard,SK,14,71,67,46,54,73,11,5,2,3,3,0,0,1,1, Full Time,tagged,Tagged by Petrenko... %D and %s,,
+220034,Jason,Gram,SK,9,68,64,47,54,73,10,7,5,2,0,0,0,0,1, Full Time,news,%O and %M with %T,,
+240708,Sam,Fisher,SK,9,68,69,49,56,78,10,8,5,3,0,1,2,0,0, Full Time,job,Had to man up Tippett after half time with Blake's injury... %O and %M... also %F,,
+261323,Ben,McEvoy,SK,14,64,76,70,54,67,2,7,2,5,19,2,1,0,0, Full Time,news,%H and %D with %T,,
+250703,James,Gwilt,SK,8,58,54,34,45,66,11,5,3,3,0,0,2,0,0, Full Time,job,Went from Walker to Tippett in Q3... %O and %T,,
+210001,Nick,Riewoldt,SK,10,51,59,43,48,58,5,4,5,1,0,2,2,2,1, Full Time,sore,Off very early with something or other... came back on halfway through Q1... %s from %P and %M on Talia... also %F,,
+230035,Raphael,Clarke,SK,4,51,68,33,41,54,8,5,4,1,0,1,0,0,0, Full Time,porpoise,Minding Porplyzia.... %O,,
+210002,Justin,Koschitzke,SK,3,45,29,45,36,46,3,5,3,3,3,1,0,0,1, Full Time,news,Rutten on him... didn't touch it in Q1.... %s from %D,,
+270766,Terry,Milera,SK,3,43,34,29,30,43,7,3,1,3,0,0,0,0,1, Full Time,news,%s from %O and %T,,
+260113,Jarryn,Geary,SK,2,28,29,23,25,36,3,6,2,1,0,0,1,0,0, Full Time,in,%l Ahmed Saad... on in Q3 for Blake,sub,Started as a sub
+200068,Jason,Blake,SK,0,5,12,2,6,9,1,1,0,0,3,0,1,0,0, Full Time,injured,Standing Tippett... %P... also %H in ruck support... copped a whack to the ribs in Q2 and didn't reappear after half time,subbed,Subbed off in Q3 for Geary

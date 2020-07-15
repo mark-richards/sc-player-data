@@ -1,0 +1,48 @@
+Melbourne,Demons,Collingwood,Magpies,R12,11.10.76,9.22.76, Full Time
+Jun 14,2010,2:10,MCG,Ten,240700,10281208,5015610,5164,Mostly sunny,15
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em style='margin-bottom:-2px'><b class="ticon tSK"></b> hayes15</em>: pies beat freo in freo and they had made room for the pcup in their cabinet. Saints win same game and just move on.<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> SepZ</em>: Saints = spuds. LOL @ Slashers<br><em>babyjack</em>: @sepZ ur ar a funny one ihavent cried like that since i was a little girl hahaha<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> crndatiges</em>: C () c k<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> torca</em>: no lenny hayes = no st kilda<br><em>babyjack</em>: oh when the saints!! go marching in!! sing with me everyone...la la la<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> Slashers</em>: My missus has been crying out for dick all day<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Spudanator</em>: montagna out for 1 week! <br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> hayes15</em>: not sure where all the POP UP PIES went today?<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> SepZ</em>: baby...saints are a joke.geelong will win another...Pies wont&#044; Saints wont sorry mate<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> keary</em>: saints to beat the pies easily!<br><em>babyjack</em>: geelong will score 6 goals&#044; and saints will win easy !<br>
+230151,Brent,Moloney,ME,37,137,131,176,112,159,17,21,8,7,0,1,3,0,0, Full Time,star,%D and %T with %M and %F
+220052,Mark,Jamar,ME,38,114,131,127,113,139,5,20,8,0,33,1,2,1,1, Full Time,hot,Beat Jolly and Fraser all on his own... %H and %P with %M and %s
+200054,Brad,Green,ME,19,95,81,123,79,99,14,5,12,1,0,0,0,0,3, Full Time,news,%s from %P and %M
+270985,Cale,Morton,ME,25,93,94,117,82,109,15,10,9,0,1,0,2,1,0, Full Time,news,Head to head with Thomas on a wing... %O and %M plus %s
+270830,Colin,Garland,ME,16,89,114,110,73,99,12,12,5,2,0,0,0,1,0, Full Time,news,%P including %B with %M and %T... also %s
+280969,Tom,Scully,ME,19,87,61,111,71,99,10,13,6,4,0,0,1,0,0, Full Time,news,%D and %M with %T
+200002,Aaron,Davey,ME,13,86,97,110,67,97,19,9,3,1,0,0,1,0,1, Full Time,tagged,Tagged by Barham... %O and %M with %s
+260288,James,Frawley,ME,10,84,88,109,66,93,14,9,5,3,0,0,1,0,0, Full Time,job,Has Medhurst... %B among %P with %M and %T
+250222,Nathan,Jones,ME,19,80,90,103,60,87,12,9,1,5,0,0,1,1,0, Full Time,tagger,Tagging Swan... %O and %T with %s
+250245,Clint,Bartram,ME,13,79,83,102,62,81,11,7,6,3,0,2,0,0,0, Full Time,tagger,Tagging Davis... %O and %M with %T
+250510,Matthew,Bate,ME,16,79,76,100,67,82,10,4,7,2,0,2,1,2,1, Full Time,news,%s from %D and %G on O'Brien
+200052,Cameron,Bruce,ME,10,78,66,95,67,94,7,17,4,3,0,1,1,0,1, Full Time,job,Chasing Sidebottom in a BP... %P including %b by hand with %T and %M
+281280,Neville,Jetta,ME,15,69,59,88,54,72,9,6,4,3,0,0,0,1,0, Full Time,news,%s from %O and %M with %T
+261297,Jack,Grimes,ME,13,68,52,86,56,75,8,9,6,2,0,0,0,0,0, Full Time,job,Minding Lockyer... %D including %B with %M plus %T
+220071,Brad,Miller,ME,11,61,72,72,57,71,6,8,5,0,2,1,1,2,0, Full Time,news,Booted %s from %G and %D on Reid
+280608,Jack,Trengove,ME,8,61,80,77,48,66,7,9,3,3,0,1,0,0,0, Full Time,news,%P with %b by hand... also %T and %M
+230250,Jared,Rivers,ME,5,56,59,70,47,63,5,9,5,2,0,0,0,0,0, Full Time,job,Has Brown... %M and %O with %T
+280972,Jack,Watts,ME,14,49,41,62,46,58,7,4,6,0,1,1,2,1,0, Full Time,news,%s from %D  and %G on Prestigiacomo
+250548,Lynden,Dunn,ME,9,47,40,60,38,44,7,0,4,1,0,2,0,1,2, Full Time,news,%s from %P and %M playing as a forward on Shaw
+270906,Jordie,McKenzie,ME,4,45,47,56,36,51,3,9,2,3,0,0,0,0,0, Full Time,news,%D and %T with %M
+250716,Matthew,Warnock,ME,4,43,69,54,35,48,4,7,3,2,0,0,0,0,0, Full Time,job,Going with Cloke... %D and %M
+280748,Jordan,Gysberts,ME,3,29,27,35,27,39,2,8,2,1,0,0,1,0,0, Full Time,cash,%B among %D with %T and %M
+220105,Dane,Swan,CO,36,150,174,108,115,159,21,17,7,7,0,1,0,0,3, Full Time,hot,Tagged by Jones... %D and %T with %M and %s
+260257,Scott,Pendlebury,CO,37,136,123,115,102,136,16,11,9,9,0,2,0,0,1, Full Time,gun,%O and %T plus %M and %s
+980110,Tarkyn,Lockyer,CO,32,116,125,99,89,117,13,9,8,7,0,1,0,1,0, Full Time,hot,%s from %O and %M with %T up forward on Grimes
+280965,Steele,Sidebottom,CO,31,111,75,88,87,116,14,9,7,6,0,1,1,1,2, Full Time,hot,Small forward role on Bruce... %s from %P and %M plus %T
+271001,Dayne,Beams,CO,15,96,82,68,72,101,14,10,4,5,0,0,0,0,2, Full Time,news,%D and %T with %M and %s
+240366,Travis,Cloke,CO,25,93,97,83,76,95,9,7,9,4,0,1,0,1,2, Full Time,news,First goal... %s from %P and %G on Warnock... also %T
+240232,Ben,Reid,CO,14,90,98,47,72,96,18,4,9,1,0,0,1,0,0, Full Time,job,Standing Miller... %P and %M
+270571,Brad,Dick,CO,33,89,124,81,65,85,8,4,0,8,0,0,0,4,1, Full Time,in,%l Alan Didak (hip)... %s from %P with %T
+240073,Harry,O'Brien,CO,19,83,81,69,67,88,10,7,8,4,0,1,1,0,1, Full Time,job,Following Bate... %P and %M with %T and %s
+240359,Dale,Thomas,CO,9,77,71,36,59,84,16,7,3,2,0,1,1,0,0, Full Time,sore,Head to head with Morton on a wing... %K among %O with %M... stinger in the left shoulder in Q3
+210099,Darren,Jolly,CO,16,72,79,60,63,73,7,2,5,2,18,2,1,1,1, Full Time,news,%H and %P with %M and %T... also %s
+261181,Brent,Macaffer,CO,16,72,64,69,51,69,7,5,4,7,0,1,0,0,0, Full Time,news,%P and %T with %M
+261799,Sharrod,Wellingham,CO,9,64,42,40,53,73,11,6,5,2,0,1,2,0,1, Full Time,news,%D and %M with %T and %s
+220070,Paul,Medhurst,CO,15,63,73,63,46,63,5,7,3,6,0,1,0,0,0, Full Time,news,%O and %T on Frawley
+240419,Alan,Toovey,CO,4,54,58,36,44,57,8,6,4,1,0,2,0,0,0, Full Time,news,%O and %M
+200028,Leigh,Brown,CO,8,52,53,47,36,48,6,2,3,5,0,1,0,0,0, Full Time,news,%P on Rivers... also %T and %M
+200019,Leon,Davis,CO,14,50,54,45,39,53,5,4,2,4,0,0,1,1,2, Full Time,tagged,Tagged by Bartram... %s from %O with %T and %M
+240700,Heath,Shaw,CO,5,49,71,27,39,54,10,2,4,2,0,1,2,0,0, Full Time,job,Has Dunn who kicked 10 in the VFL last week... one touch to half time... %P and %M with %F
+200020,Josh,Fraser,CO,4,48,38,40,38,50,6,2,4,3,4,0,1,0,1, Full Time,news,%H and %P with %M and %T... also %s
+230263,Nick,Maxwell,CO,3,37,19,32,29,39,4,4,3,2,0,0,0,0,0, Full Time,injured,%O and %T plus %M... limped off with right ankle problem in Q2 and didn't return
+271140,Jaxson,Barham,CO,7,36,20,33,24,34,4,2,1,4,0,0,0,0,1, Full Time,tagger,Tagging Davey... %P and %T with %s
+960159,Simon,Prestigiacomo,CO,1,18,33,13,18,27,2,6,1,0,0,0,1,0,0, Full Time,job,On Watts... %O

@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Port Adelaide,Power,R21,31.11.197,5.2.32, Full Time
+Aug 13,2011,2:10,MCG,Ten,240180,10312102,5635,158,Fine,15,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Toughguys</em>: Puopolo 111<br><em>shauno</em>: wat did mitchel end up on?<br><em>Toughguys</em>: birchall 90<br><em>FootyFan74</em>: damn<br><em>DangerDogs</em>: flower this!! my phone battery is about to run out<br><em>FootyFan74</em>: Match status is still not saying full time so theres obviously a glitch<br><em>FootyFan74</em>: What Birchall get?<br><em>travo</em>: suuper coach&#044; suuper coach<br><em>chinospot</em>: slow sc scores?<br><em>Gandog</em>: ouch<br><em>joeymac96</em>: what dip puoplolo get<br><em>old_shepp</em>: Hodge 75<br>
+260955,Cyril,Rioli,HW,72,151,175,194,114,139,13,3,6,12,0,3,0,6,1, Full Time,star,First goal... %s from %O and %T with %M on Surjan including four majors in Q1,,
+240399,Lance,Franklin,HW,55,142,162,174,118,138,14,3,8,5,0,2,0,8,0, Full Time,gun,Booted %s from %P on Carlile... also %T and %G,,
+250089,Jordan,Lewis,HW,32,130,133,158,109,145,13,19,7,4,4,0,0,2,0, Full Time,hot,%D and %M... matched up on Boak,sore,Copped a corkie in the first minute but played on
+220073,Sam,Mitchell,HW,23,128,155,161,100,132,24,9,5,2,0,3,0,2,0, Full Time,magnet,%D with %k by foot... also %M and %T plus %s,,
+280737,Liam,Shiels,HW,37,123,127,157,97,133,16,14,6,6,1,1,1,1,0, Full Time,hot,%2 Cassisi... %P and %T with %M,,
+294877,Isaac,Smith,HW,32,115,110,144,99,126,14,11,11,2,0,1,1,2,0, Full Time,hot,%2 Rodan... %O and %M plus %s,,
+270732,Matt,Suckling,HW,25,111,100,145,89,121,24,5,8,1,0,0,2,1,1, Full Time,hot,%D and %M plus %s,job,Running off Hitchcock
+261386,Brendan,Whitecross,HW,21,106,104,137,84,107,16,5,9,3,0,1,0,1,2, Full Time,hot,Plenty of work floating around half forward in this game... %P and %T with %M and %s,,
+250715,Josh,Gibson,HW,24,103,117,138,74,96,15,4,6,7,0,4,0,0,0, Full Time,garbage,Plenty of late junk time stats... %P and %M with %T,job,On Butcher
+240302,Grant,Birchall,HW,25,100,92,124,87,115,15,12,9,0,0,0,1,1,1, Full Time,garbage,Very quiet first half but very productive in second half garbage time... %O and %M plus %s,,
+200052,Cameron,Bruce,HW,20,93,84,118,80,108,7,16,8,5,0,2,2,0,0, Full Time,news,%P with %b by hand... also %M and %T,,
+220036,David,Hale,HW,26,92,86,113,88,108,6,9,9,3,19,2,4,1,2, Full Time,garbage,Kicked %s from %P and %M up forward on Trengove... also %H in ruck support... lots of Q4 junk stats,,
+250146,Thomas,Murphy,HW,14,83,98,103,71,93,12,11,8,0,0,1,0,0,0, Full Time,job,%O and %M,,
+260472,Max,Bailey,HW,32,82,90,101,68,81,6,1,1,6,33,2,2,1,0, Full Time,sore,%H and %D with %M and %s... right shoulder knock in Q4 after a sling tackle by Thomas... returned after five minutes,,
+260710,Paul,Puopolo,HW,10,81,111,99,67,87,10,13,4,2,0,5,0,0,0, Full Time,news,Started forward on Jacobs... %P and %M... %4 frees for,,
+200040,Chance,Bateman,HW,19,76,67,92,68,87,8,11,8,0,0,0,0,1,0, Full Time,news,%P and %M,,
+210012,Shaun,Burgoyne,HW,20,75,61,101,55,78,8,7,4,7,0,0,1,0,0, Full Time,sore,Cleaning up across halfback... %P and %T with %M... left ankle knock in Q4,,
+220047,Luke,Hodge,HW,15,75,66,94,65,88,8,11,5,3,1,1,2,1,0, Full Time,tagged,Tagged by the first-gamer Jonas... %D and %M plus %s,sore,Back tightness in Q3
+200060,Brent,Guerra,HW,9,72,70,91,57,79,9,10,4,3,0,0,0,0,1, Full Time,job,Running off Schulz... %O and %M plus %s,,
+281301,Ryan,Schoenmakers,HW,13,71,62,94,61,81,12,5,9,1,0,0,2,0,0, Full Time,job,Has Westhoff... %D,,
+230197,Brad,Sewell,HW,16,67,71,85,53,69,6,7,4,4,0,1,0,1,0, Full Time,injured,%O and %T plus %M and %s... off the ground for much of Q3 with a rib knock,subbed,Subbed off at 3QT for Breust
+280744,Luke,Breust,HW,7,32,28,39,26,31,4,0,1,1,0,0,0,2,1, Full Time,news,On in Q4 for Sewell... %s from %O,sub,Started as a sub
+210043,Domenic,Cassisi,PA,44,113,106,121,84,121,7,17,3,13,1,2,2,0,0, Full Time,heart,%2 Shiels... showing the rest of the team how it's done with a captain's effort... %D and %T with %M... also %F,,
+261396,Robbie,Gray,PA,20,90,83,68,68,93,12,11,2,6,0,5,1,0,0, Full Time,news,%P and %T with %M,,
+261230,Matthew,Lobbe,PA,21,71,63,68,59,78,6,5,3,6,18,1,3,0,0, Full Time,news,%H and %P,,
+270952,Mitch,Banner,PA,15,69,65,44,54,72,11,5,4,2,0,0,0,1,0, Full Time,news,%P and %M plus %s,,
+290802,Ben,Jacobs,PA,8,65,67,48,56,81,7,17,2,1,0,0,0,0,0, Full Time,news,%O,job,Minding Puopolo
+280013,Jackson,Trengove,PA,11,63,52,58,51,67,6,5,3,5,10,2,2,0,0, Full Time,job,Standing the resting ruckman which is mostly Hale... %P... also %H,,
+280877,John,Butcher,PA,14,58,65,58,48,58,4,4,6,3,0,1,0,1,1, Full Time,rookie,First game... %s from %D and %G on Gibson,,
+250365,Travis,Boak,PA,14,56,81,52,40,63,6,8,0,7,0,0,2,0,0, Full Time,injured,Matched up on Lewis... %D and %T... hip problem and shut down in Q3,subbed,Subbed off in Q3 for Thomas
+250063,Danyle,Pearce,PA,6,53,43,16,38,57,13,5,0,1,0,0,0,0,0, Full Time,news,In a BP... %O,,
+210020,Kane,Cornes,PA,8,52,41,41,49,72,5,16,2,1,0,1,2,0,0, Full Time,sore,%B among %D... left knee problem in Q3,,
+240294,Nick,Salter,PA,7,49,47,18,39,57,12,3,3,1,0,0,2,0,0, Full Time,job,Responsible for Whitecross... %O,,
+220090,David,Rodan,PA,14,48,50,48,37,51,3,7,1,4,0,0,0,1,0, Full Time,news,%2 Smith... %O,,
+260750,Justin,Westhoff,PA,5,47,53,38,38,48,5,5,2,2,6,2,0,0,0, Full Time,news,%P on Schoenmakers,,
+271078,Matthew,Broadbent,PA,4,47,34,39,40,57,5,9,3,2,0,0,1,0,0, Full Time,news,%D with %b by hand,,
+240180,Troy,Chaplin,PA,4,44,61,33,38,51,6,5,5,1,0,0,1,0,0, Full Time,news,%B among %P with %M,,
+281375,Cameron,Hitchcock,PA,9,44,34,27,36,48,8,1,3,2,0,1,2,1,0, Full Time,news,%s from %D and %M with %T on Suckling,,
+292145,Thomas,Jonas,PA,7,39,44,42,29,42,2,7,1,4,0,0,0,0,0, Full Time,rookie,First game... %D and %T,tagger,Tagging Hodge
+230195,Jay,Schulz,PA,10,33,29,32,34,46,3,4,4,2,0,1,4,1,1, Full Time,news,Guerra on him... %s from %P and %G,,
+230192,Steven,Salopek,PA,3,32,31,29,25,39,3,7,0,3,0,0,1,0,0, Full Time,news,%P,,
+250688,Alipate,Carlile,PA,2,28,43,21,24,33,4,3,3,1,0,0,1,0,0, Full Time,job,Standing Franklin... %D,,
+240385,Matt,Thomas,PA,2,24,22,16,20,30,4,4,0,2,0,2,2,0,0, Full Time,mrp,On in Q3 for Boak... %O and %F... a sling tackle on Bailey in Q4 will be scrutinised,sub,Started as a sub
+240074,Jacob,Surjan,PA,2,17,18,9,17,27,4,2,2,1,0,0,3,0,0, Full Time,job,Chasing Rioli... %D and %F,,

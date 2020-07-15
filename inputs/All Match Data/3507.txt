@@ -1,0 +1,48 @@
+Fremantle,Dockers,Port Adelaide,Power,R14,17.13.115,8.10.58, Full Time
+Jul 03,2010,3:10,Subiaco,Fox Sports,260069,10281403,5015502,5175,Partly cloudy,15
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em title="JAKO">jako</em>: Be interesting to see where Barlow is in the Brownlow at round 14 ??<br><em>midway</em>: give everyone tombstones monty in memory of the greatest bloke/dream teamer of all time<br><em title="EAGLE4LIFE">eagle4life</em>: never playing poof chaplin again<br><em>D.Barwick</em>: they wont make 4 from here! barlow was the steadying influence the club has lacked! <br><em>smajda</em>: at least he finished with a great score<br><em>vegieking</em>: can Freo still challenge the top 4 without Barlow?<br><em>lionspro</em>: Barlow's last words "Avenge my DT death..."<br><em>Jimmy40</em>: seriously... Nathan Fyfe would NEVER get a game in the NRL&#044; if that is waht puts him out of the game...<br><em>Stingers</em>: gone quiet ha mate?<br><em>tigermania</em>: a welcome addition to my side next week&#044; dane swan<br><em title="JAKO">jako</em>: He's dead for the rest of the season !!<br><em>lionspro</em>: Harvey is moaning his tombstone<br>
+261231,Rhys,Palmer,FR,21,112,114,139,96,126,14,17,9,2,0,4,1,0,0, Full Time,hot,Head to head with Broadbent... %D and %M with %T
+292026,Michael,Barlow,FR,30,111,87,143,86,114,17,8,7,4,0,1,0,1,0, Full Time,longterminjured,Head to head with Salopek... %P and %T with %M and %s... ran into Palmer in Q4 and it looked like a broken leg and possibly also knee problems
+240139,Paul,Duffield,FR,21,108,96,144,86,111,18,4,12,3,0,1,1,0,0, Full Time,gun,%O and %M plus %T
+220096,Aaron,Sandilands,FR,26,104,123,123,94,112,8,10,9,1,22,1,0,1,0, Full Time,star,%H and %D plus %M and %s
+230107,Michael,Johnson,FR,20,100,66,130,81,109,17,8,9,2,0,0,1,0,1, Full Time,hot,Standing Trengove... %M and %P
+230048,Ryan,Crowley,FR,26,93,91,111,82,94,9,4,7,1,0,2,0,5,1, Full Time,x-factor,Moved from tagging Westhoff to a forward tag on Salopek on a HFF in Q3... %O and %M plus %s... three of those goals in Q3
+280933,Dylan,Roberton,FR,25,93,89,120,78,99,15,5,10,1,0,1,1,1,0, Full Time,job,Minding Hitchcock... %P and %M plus %s
+240052,David,Mundy,FR,24,83,86,108,66,88,9,7,6,5,0,0,1,1,1, Full Time,tagged,Tagged by Cassisi... %O and %T with %M
+281111,Anthony,Morabito,FR,19,83,82,107,68,89,11,6,7,3,1,0,1,1,1, Full Time,garbage,First goal... %D and %M plus %T and %s... much of his scoring in Q4 garbage time
+200031,Paul,Hasleby,FR,20,82,89,101,74,91,10,7,9,0,0,1,1,2,1, Full Time,news,%s from %D and %M in a HFF role on Salter
+271015,Matthew,de Boer,FR,15,78,81,98,65,90,7,14,5,4,0,1,1,0,0, Full Time,tagger,Tagging Rodan... %D and %M plus %T
+250268,Garrick,Ibbotson,FR,13,74,105,92,62,84,12,10,6,0,0,0,0,0,0, Full Time,sore,Running off Motlop... %P and %M... right hip knock in Q4
+280336,Stephen,Hill,FR,16,73,104,92,57,72,8,5,3,4,0,2,0,2,0, Full Time,tagged,Tagged by Kane Cornes... %O and %M plus %s
+210084,Roger,Hayden,FR,8,66,84,86,53,72,13,5,5,1,0,1,1,0,0, Full Time,job,Has Ebert... %P and %M
+260069,Hayden,Ballantyne,FR,14,64,80,83,54,76,12,6,3,2,0,1,3,1,1, Full Time,sore,%s from %P on Logan... also %F... limped off in Q3 with a right leg soft tissue injury
+200032,Matthew,Pavlich,FR,14,56,63,72,48,67,10,6,2,2,0,2,3,1,1, Full Time,news,%s from %P on Chaplin... also %F
+230011,Kepler,Bradley,FR,8,52,38,66,47,59,7,5,7,0,2,1,1,0,0, Full Time,concussed,No score from %P on Carlile... headbutted van Berlo's knee in Q3 but returned for Q4
+210037,Adam,McPhee,FR,3,47,37,57,42,54,5,8,3,1,0,3,1,0,3, Full Time,tagger,Forward tag on Chad Cornes... %s from %D
+270681,Jay,van Berlo,FR,4,45,34,57,36,49,5,6,3,2,0,0,0,0,1, Full Time,tagger,Tagging Pearce... %D and %s
+271433,Alex,Silvagni,FR,3,42,50,57,32,45,6,3,3,3,0,0,1,0,0, Full Time,in,%l Chris Tarrant... on Daniel Stewart... %P and %T
+990092,Antoni,Grover,FR,9,41,64,52,35,42,6,1,5,0,0,0,0,1,0, Full Time,injured,On Schulz... %O and %M plus a bonus %s... tweaked right hamstring in Q2
+291570,Nathan,Fyfe,FR,3,33,65,41,25,36,4,6,0,2,0,1,0,0,0, Full Time,injured,%O and %T... Roberton's elbow hits his nose in Q2 and his head hit the ground as well... did not return
+270952,Mitchell,Banner,PA,25,104,107,70,80,106,16,7,6,4,0,1,0,1,1, Full Time,hot,%D and %M with %T and %s... his fantastic Q2 drove Port's rally
+230124,Tom,Logan,PA,19,97,106,72,85,111,12,15,9,1,0,3,1,0,0, Full Time,garbage,Going with Ballantyne... %P including %b by hand with %M... a lot of stats in Q4 junk time
+271078,Matthew,Broadbent,PA,25,95,96,85,75,100,10,9,8,6,0,1,1,0,1, Full Time,news,Head to head with Palmer... %O and %M plus %T
+250688,Alipate,Carlile,PA,20,82,94,65,73,96,9,12,8,1,0,0,1,1,0, Full Time,job,Standing Bradley... %M and %P plus a bonus %s
+270779,Paul,Stewart,PA,13,81,65,57,63,84,12,7,6,3,0,1,0,0,0, Full Time,news,%D and %M plus %T
+210043,Domenic,Cassisi,PA,14,78,114,60,67,97,9,17,3,3,0,1,2,0,1, Full Time,tagger,Tagging Mundy... %P and %M
+220090,David,Rodan,PA,14,77,93,53,57,84,12,9,2,5,0,0,1,0,0, Full Time,tagged,Tagged by de Boer... %O and %T
+240385,Matt,Thomas,PA,20,74,71,65,66,91,8,10,5,5,1,3,5,1,0, Full Time,tagger,Forward tag on Duffield... %D and %T plus %s
+230192,Steven,Salopek,PA,9,71,90,42,57,78,12,8,5,1,0,0,0,0,0, Full Time,creepy,Started head to head with Barlow but then got Crowley on a HBF in Q3... %O and %M
+980059,Chad,Cornes,PA,9,68,83,46,57,81,11,8,5,3,0,1,3,0,0, Full Time,tagged,Forward tag on him by McPhee... %D and %T
+210020,Kane,Cornes,PA,9,65,70,43,58,78,9,12,5,0,0,2,1,0,0, Full Time,tagger,Tagging Hill... %B among %D
+200111,Dean,Brogan,PA,12,64,43,58,54,73,6,7,4,4,10,0,2,0,0, Full Time,news,%H and %P with %T
+280013,Jackson,Trengove,PA,6,64,57,59,53,68,5,9,4,3,5,2,0,0,0, Full Time,news,%P and %M on Johnson... also %H
+240294,Nick,Salter,PA,8,63,86,43,52,69,9,8,5,1,0,1,0,0,0, Full Time,in,%l Travis Boak... %P and %M minding Hasleby
+230195,Jay,Schulz,PA,11,60,91,44,53,64,7,5,5,0,0,1,0,2,1, Full Time,news,Booted %s from %G and %D on Grover
+250063,Danyle,Pearce,PA,13,58,80,29,50,69,10,8,1,0,0,0,1,2,0, Full Time,tagged,Tagged by van Berlo... %P and %s
+281375,Cameron,Hitchcock,PA,8,56,37,37,47,60,9,3,6,1,0,1,1,0,3, Full Time,news,%s from %O and %M on Roberton
+260750,Justin,Westhoff,PA,12,55,35,37,49,65,8,7,6,0,2,0,1,0,0, Full Time,news,The Crowley tag on him lifted in Q3... %P and %M
+230242,Brett,Ebert,PA,9,47,43,35,39,49,6,3,4,1,0,0,0,1,1, Full Time,news,Booted %s from %P and %M on Hayden
+260201,Daniel,Stewart,PA,7,47,42,34,38,47,7,1,6,1,1,0,0,0,1, Full Time,sore,Knock to a shoulder in Q1... %s from %O and %M on Johnson
+240180,Troy,Chaplin,PA,2,39,61,21,32,48,7,7,1,1,0,0,1,0,0, Full Time,job,Following Pavlich... %D
+210008,Daniel,Motlop,PA,3,33,57,26,26,39,5,3,2,3,0,0,2,0,0, Full Time,news,Started very slowly but his Q2 was excellent... %D and %M plus %T on Ibbotson

@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Adelaide,Crows,R13,14.16.100,10.10.70, Full Time
+Jun 17,2011,7:40,Docklands,Seven,260227,10311301,5560,95,Roof closed,16,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Coonballs</em>: otten light a fire&#044; insert urself into it pls<br><em>stevekat10</em>: Boyd you suck!!<br><em title="CLINT_OFF">clint_off</em>: had andy o stiitng at 3rd back all year and all of a sudden..good things :)<br><em title="CLINT_OFF">clint_off</em>: would love to see the crows get the spoon. my wife goes for the crows and we have this bet each year..<br><em>hammy97</em>: wont be surprised ifcrows get wooden spoon<br><em>Thebiggf</em>: Oh well big ones from buddy Mitchell n suckling tomorrow <br><em>rooman32</em>: floweren boyd&#044; what the flower<br><em>rooman32</em>: well done higgo!<br><em>chinospot</em>: andy flowing otten i knew i held onto you for a reason :D<br><em>Thebiggf</em>: Lol I poke your mum in the face <br><em>biggs2dujj</em>: flowering boyd losing points after the game is up.  jesus<br><em>Pokerface</em>: it was terrible the first time thebigf. pull your head in idiot<br>
+200079,Daniel,Giansiracusa,WB,26,105,112,130,89,109,12,6,7,3,0,2,1,4,1, Full Time,star,%s from %D and %M on Johncock was the crucial winning matchup in a rather dour affair,,
+260227,Shaun,Higgins,WB,24,105,126,138,81,111,18,8,7,4,0,1,1,0,0, Full Time,seagull,%2 Henderson on a wing... had a roving commission with no responsibility... %P and %T with %M,,
+240156,Ryan,Griffen,WB,25,104,129,132,79,108,19,8,1,4,0,3,1,2,0, Full Time,hot,%2 Scott Thompson... %P and %T plus %s,,
+200083,Robert,Murphy,WB,24,103,139,133,79,105,22,4,6,1,0,1,0,1,0, Full Time,x-factor,%D and %M plus %s in his 200th game... had a particularly productive Q3 with Knights subbed off,job,Matched up on Knights in defence
+280109,Callan,Ward,WB,19,99,95,124,77,109,14,15,3,4,0,1,0,0,1, Full Time,news,%2 Douglas... %O and %T plus %s,,
+240325,Justin,Sherman,WB,32,95,94,122,76,98,11,5,4,6,0,2,2,3,2, Full Time,news,%O and %T plus %M and %s,,
+260373,Ed,Barlow,WB,24,91,91,117,72,93,11,6,7,4,0,0,0,1,3, Full Time,news,%s from %O and %M on Otten,,
+210049,Daniel,Cross,WB,19,86,100,109,70,99,10,15,3,5,0,3,2,0,0, Full Time,news,%D and %T with %M,,
+291526,Luke,Dahlhaus,WB,19,76,69,95,59,79,9,9,2,4,0,2,0,1,1, Full Time,bubble,Second game... %s from %P on Luke Thompson... also %T,,
+281139,Easton,Wood,WB,16,74,65,95,58,73,8,5,5,4,0,2,0,1,1, Full Time,news,%P and %T with %M... also %s to seal the game in Q4,job,Standing McKernan
+220010,Matthew,Boyd,WB,9,70,91,86,59,82,9,13,3,2,1,2,1,0,0, Full Time,tagged,Tagged by Doughty... %B among %D with %T,,
+250712,Dale,Morris,WB,14,70,88,94,53,69,9,3,7,4,0,0,0,0,0, Full Time,job,Minding Dangerfield... %O and %T,,
+230255,Will,Minson,WB,15,63,88,76,51,61,2,6,1,5,12,3,0,1,1, Full Time,news,%H and %P plus %T and %s,,
+240710,Ben,Hudson,WB,10,62,89,73,58,75,4,11,5,1,12,0,1,0,0, Full Time,sore,Minor car accident on the way to the ground but he's just shaken up... %P and %H with %M,,
+290799,Tom,Liberatore,WB,8,62,61,78,49,69,9,9,3,2,0,0,0,0,0, Full Time,news,Putting time into Dangerfield in midfield... %D and %M with %T,,
+200080,Lindsay,Gilbee,WB,9,55,62,71,49,72,8,10,4,2,0,0,3,0,0, Full Time,sore,%P and %M plus %T and %F... corked right calf in Q3,,
+271439,Liam,Picken,WB,8,51,52,66,36,51,5,7,0,5,0,2,0,0,0, Full Time,tagger,Tagging Vince.. %D and %T,,
+250150,Tom,Williams,WB,5,46,54,61,39,54,7,5,4,2,0,1,2,0,0, Full Time,job,Has Tippett... %O and %M,,
+281078,Liam,Jones,WB,3,44,38,59,34,42,6,1,3,3,0,3,1,0,3, Full Time,news,%s from %D on Rutten... also %T,,
+230041,Adam,Cooney,WB,3,33,25,40,28,39,5,6,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Djerkurra... %O,sub,Started as a sub
+294219,Jayden,Schofield,WB,3,29,31,39,23,36,6,4,0,2,0,1,2,0,0, Full Time,job,Minding Wright... %P,rookie,First game
+250383,Nathan,Djerrkura,WB,2,24,12,32,20,28,4,2,2,1,0,0,1,0,1, Full Time,news,%s from %D and %M on Jaensch,subbed,Subbed off in Q3 for Cooney
+210016,Scott,Thompson,AD,31,116,110,75,91,132,21,8,8,7,0,0,5,0,0, Full Time,gun,%2 Griffen... %P and %M with %T... also a massive %F,,
+291201,Ricky,Henderson,AD,25,114,114,86,93,124,15,13,9,4,0,2,1,0,1, Full Time,hot,%2 Higgins on a wing... %P and %T with %M,,
+230215,Brad,Symes,AD,25,113,108,74,97,127,18,10,13,1,1,1,2,0,0, Full Time,hot,Rotating from wing to defence... %P and %M,,
+270296,Andy,Otten,AD,25,96,131,72,82,105,12,10,10,1,0,0,0,1,0, Full Time,job,Matched up on Barlow... %M and %O... also %s,,
+270811,Sam,Jacobs,AD,17,85,82,80,71,86,6,6,5,4,23,1,0,0,0, Full Time,news,%H and %P with %T and %M,,
+210056,Graham,Johncock,AD,13,77,117,35,62,84,17,3,7,1,0,1,2,0,0, Full Time,job,Has Giansiracusa... %O and %M,,
+270742,Kurt,Tippett,AD,20,77,66,54,67,76,10,1,7,0,2,2,0,3,2, Full Time,heart,Came into the match with a heavily strapped left shoulder after last week's subluxation... booted %s from %P and %G on Williams,,
+261142,Bernie,Vince,AD,19,75,82,49,61,81,12,5,6,2,0,0,1,1,0, Full Time,tagged,First goal... tagged by Picken... %P and %M with %T and %s,,
+200092,Michael,Doughty,AD,13,69,64,61,58,76,7,8,7,3,1,1,1,0,0, Full Time,tagger,Tagging Boyd... %P and %T with %M,,
+261351,Matthew,Jaensch,AD,13,68,79,46,57,78,11,6,7,2,0,0,2,0,0, Full Time,job,Chasing Djerkurra... %M and %D with %T,sore,Smashed in the ribs by Griffen in Q3
+270917,Patrick,Dangerfield,AD,15,67,85,57,47,64,8,5,2,6,0,2,0,0,1, Full Time,news,Gets Morris when forward and Liberatore in midfield... %P and %T,,
+240370,Richard,Douglas,AD,5,63,61,38,49,66,12,2,5,3,0,2,2,0,0, Full Time,news,%2 Ward... %D and %T with %M,,
+250118,Nathan,van Berlo,AD,9,63,68,41,51,69,10,7,4,2,0,2,1,0,0, Full Time,news,One wonders where the Crow captain's footy is at right now with these ordinary numbers every week... %D and %M with %T,,
+261138,Jared,Petrenko,AD,9,63,60,55,53,75,6,12,4,3,0,0,1,0,0, Full Time,news,%O with %b by hand... also %M and %T,,
+220093,Ben,Rutten,AD,9,57,62,49,47,66,6,9,4,3,0,0,1,0,0, Full Time,job,On Jones... %D and %M with %T,,
+261384,Matthew,Wright,AD,16,56,66,56,46,60,4,6,4,4,0,1,1,1,0, Full Time,news,%s from %O and %M with %T on the first-gamer Schofield,,
+280949,Luke,Thompson,AD,4,46,50,39,35,48,5,6,2,3,0,1,0,0,0, Full Time,job,Following Dahlhaus... %O and %T,,
+270963,Rory,Sloane,AD,9,41,63,21,37,52,8,4,2,1,0,1,3,1,1, Full Time,sore,%P and %M with %s... corked thigh in Q2 and barely played in the second half,,
+291351,Jack,Gunston,AD,3,35,39,30,27,34,4,2,3,2,0,1,0,0,1, Full Time,news,%s from %P and %T,,
+280038,Shaun,McKernan,AD,9,34,31,23,31,39,5,0,2,1,7,0,2,1,2, Full Time,news,Booted %s from %P and %G on Wood... also %H,,
+261263,Chris,Schmidt,AD,8,28,31,17,27,39,5,3,2,1,0,0,3,1,0, Full Time,news,On in Q3 for Knights... %s from %D,sub,Started as a sub
+240032,Chris,Knights,AD,7,20,20,21,17,24,1,3,0,2,0,0,1,1,0, Full Time,injured,Murphy on him... treated at QT for a migraine... certainly gave his fantasy owners headaches... %s from %O and %T,subbed,Subbed off at HT

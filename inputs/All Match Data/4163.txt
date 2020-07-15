@@ -1,0 +1,48 @@
+West Coast,Eagles,Geelong,Cats,R20,16.6.102,15.7.97, Full Time
+Aug 10,2012,8:40,Subiaco,Seven,261209,10342001,430170,0,Fine,24,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Chadwickus</em>: lol at the whingers whinging about whinging<br><em>jocka</em>: Worst game by bartel in a long time... Why such a big score?<br><em>toxic</em>: jelwood sc is a joke&#044; had zero influence on the game<br><em>barrybonds</em>: MLSs - too true&#044; the maggots are h<br><em>jocka</em>: @magic Why would you say such am uninformed comment?<br><em>da cooler</em>: quite simply the worst display of umpiring i have ever seen in my short life<br><em>McRooster</em>: Natuinui&#044; I will donate $100 to Cancer research (via MoVember) if you shave that ridiculous hairstyle<br><em>coondambo</em>: @magic007 geelong were given something like 8 of the last 10 frees<br><em>kuraban</em>: Always amazed that people still think that fair umpiring means both teams get the same number of free kicks.<br><em>MLSs</em>: good umpires shouldn't be noticed<br><em>Slashers</em>: Why did the two big guys CHOKE last week?<br><em>coldog</em>: lol waters sc!!!<br>
+200112,Dean,Cox,WC,56,147,190,170,138,159,13,10,8,1,45,6,3,3,0, Full Time,star,First goal... %s from %P and %M on Scarlett... enjoyed himself in the ruck against Stephenson for %H and %4 frees for,,
+271045,Nic,Naitanui,WC,28,111,153,131,96,116,7,11,5,4,22,2,0,2,1, Full Time,hot,%H and %P plus %M and %T... also %s,,
+210018,Daniel,Kerr,WC,25,101,121,130,81,114,18,11,3,4,0,3,3,1,0, Full Time,hot,%P and %T with %M and %s,,
+280078,Luke,Shuey,WC,21,96,133,122,76,105,18,9,4,2,0,1,1,1,0, Full Time,news,Escaped the tag this week matched up on Duncan... %D and %M plus %s,,
+240124,Matt,Priddis,WC,15,88,111,106,71,96,11,13,1,3,0,2,0,2,0, Full Time,x-factor,%2 Johnson... beaten in that matchup in the first half but smashed him in Q3...  %O and %T plus %s,,
+290801,Andrew,Gaff,WC,15,79,93,99,61,79,14,4,2,2,0,2,0,2,1, Full Time,news,%2 Sheringham... %D and %T plus %s,,
+270928,Scott,Selwood,WC,13,68,88,90,53,81,13,9,1,4,0,1,3,0,0, Full Time,news,%O and %T,tagger,Tagging Selwood
+220061,Quinten,Lynch,WC,20,63,77,77,57,69,8,3,6,0,0,0,1,3,0, Full Time,news,Booted %s from %O and %M on Taylor,,
+261290,Chris,Masten,WC,15,61,70,79,47,66,6,7,2,5,0,0,1,1,0, Full Time,news,%D and %T on Taylor Hunt,,
+230254,Adam,Selwood,WC,4,59,70,78,44,57,11,3,2,3,0,5,1,0,0, Full Time,job,Following Motlop... %P and %M which was helped by %4 frees for,,
+240016,Beau,Waters,WC,8,57,50,75,45,57,12,1,6,0,0,1,0,0,0, Full Time,news,Stokes trying to go to him at times but otherwise playing loose... %O and %M... went missing in Q3,,
+240283,Shannon,Hurn,WC,7,55,70,75,42,60,15,1,3,1,0,1,2,0,0, Full Time,tagged,Forward tag on him by Simpkin... %P and %M... also %F,,
+280441,Patrick,McGinnity,WC,12,46,69,60,39,60,5,10,1,4,0,1,3,0,0, Full Time,tagger,Forward tag on Enright... %D... also %F,,
+280324,Jacob,Brennan,WC,14,44,61,63,31,45,5,2,2,6,0,1,2,0,0, Full Time,job,Minding Stokes... %O and %T,,
+250317,Eric,Mackenzie,WC,8,42,52,59,37,51,7,2,6,2,0,0,3,0,0, Full Time,ipod,After Hawkins got subbed in Q1 he went to Podsiadly... %P and %M... also %F,,
+290838,Jack,Darling,WC,14,42,48,57,35,51,5,4,2,4,0,0,3,1,0, Full Time,mare,%s from %P and %G with %T on Lonergan... had a dirty game with plenty of clangers,,
+261209,Josh,Hill,WC,3,41,60,53,32,42,5,4,3,2,0,1,0,0,0, Full Time,news,%P and %M with %T on Guthrie,,
+261214,Will,Schofield,WC,2,40,34,52,31,39,7,2,3,1,0,2,0,0,0, Full Time,job,Murdoch is his man... %D and %M,,
+200074,Darren,Glass,WC,3,38,71,48,33,42,7,4,3,0,0,3,1,0,0, Full Time,job,Moved from Podsiadly to Walker in Q2... %O and %M,sore,Knock to a calf early in Q1
+990020,Andrew,Embley,WC,3,35,37,48,28,42,5,4,2,3,0,0,2,0,0, Full Time,news,On in Q3 for Swift... %O with %T and %M,sub,Started as a sub
+250034,Ashton,Hams,WC,3,26,42,33,25,37,1,7,2,2,0,0,2,0,1, Full Time,news,No touches in Q1... %s from %P and %T,,
+271073,Thomas,Swift,WC,1,18,21,22,16,25,2,5,0,1,0,0,1,0,1, Full Time,news,One handball in Q1... %D and %s,subbed,Subbed off in Q3 for Embley
+220054,Steve,Johnson,GE,57,134,140,107,103,145,17,15,4,10,0,3,3,1,1, Full Time,hot,%2 Priddis... %P and %T plus %M and %s... very good first half but disappeared in Q3,,
+220007,Jimmy,Bartel,GE,37,108,123,105,85,112,9,9,6,9,6,2,2,1,1, Full Time,hot,%P and %T with %M... also %H and %F... plus %s,,
+230248,Andrew,Mackie,GE,19,98,99,66,79,108,15,11,7,3,0,1,1,0,0, Full Time,news,%D and %M with %T,,
+250321,Joel,Selwood,GE,20,88,99,54,62,88,16,5,2,6,1,2,1,0,0, Full Time,news,%D and %T,scooter,Tagged by his brother Scott Selwood
+200131,James,Podsiadly,GE,21,85,99,68,73,90,10,4,7,3,0,2,2,3,0, Full Time,news,%s from %P and %G on Glass... also %T,,
+280918,Allen,Christensen,GE,20,84,94,52,66,90,14,8,2,4,0,4,2,1,0, Full Time,sore,%s from %O and %T... right shoulder stinger in Q1... also %F,,
+200035,Corey,Enright,GE,13,78,98,51,61,82,13,5,6,3,1,1,1,0,0, Full Time,tagged,Forward tag on him by McGinnity... %O and %M with %T,,
+280822,Taylor,Hunt,GE,15,74,83,62,63,88,7,14,3,3,0,0,1,1,1, Full Time,job,Responsible for Masten... %O and %T plus %M and %s,,
+250652,Jonathan,Simpkin,GE,16,70,67,55,53,66,9,3,4,4,0,3,0,1,0, Full Time,news,%O and %T with %M,tagger,Defensive forward role on Hurn
+281065,Mitch,Duncan,GE,10,62,63,52,50,70,8,6,4,5,1,2,3,0,0, Full Time,news,Matched up on Shuey... %P and %T... also %M and %F,,
+261497,Harry,Taylor,GE,10,54,59,45,41,57,7,4,4,4,0,0,1,0,0, Full Time,news,%O and %M with %T,job,Standing Lynch
+230125,Tom,Lonergan,GE,5,52,63,38,42,57,8,4,4,3,0,2,2,0,0, Full Time,job,Has Darling... %D and %T with %M,,
+990076,David,Wojcinski,GE,8,50,53,35,34,48,8,3,1,4,0,1,0,0,0, Full Time,in,%l Paul Chapman (calf)... on in Q1 for Hawkins... %O and %T,sub,Started as a sub
+980037,Matthew,Scarlett,GE,5,49,54,33,37,48,8,2,4,2,0,1,0,0,0, Full Time,job,Has the resting ruck which is mostly Cox... %P and %M with %T,,
+230214,Mathew,Stokes,GE,10,48,61,35,44,60,6,7,1,2,0,2,3,2,0, Full Time,news,%s from %O on Brennan... also %T and %F,,
+261167,Orren,Stephenson,GE,5,44,93,29,48,65,6,8,3,0,14,2,5,0,0, Full Time,sore,Wrist knock early in Q1... %H and %D and %M... also %F,,
+280990,Steven,Motlop,GE,9,43,48,24,36,45,7,2,2,0,0,0,0,2,0, Full Time,news,%s from %O and %M on Adam Selwood,,
+290550,Cameron,Guthrie,GE,4,43,68,29,34,48,7,4,3,2,0,0,1,0,0, Full Time,job,Minding Hill... %P with %M and %T,,
+250343,Jackson,Sheringham,GE,4,41,26,34,32,42,5,3,4,2,0,0,0,0,0, Full Time,news,%2 Gaff... one kick in Q1... %P and %M,,
+295942,Jordan,Murdoch,GE,9,41,52,32,37,46,4,6,3,0,0,1,0,1,1, Full Time,news,%s from %D and %M on Schofield,,
+291550,Joshua,Walker,GE,6,17,24,7,17,23,4,0,0,1,2,2,3,1,0, Full Time,news,%D... started playing second ruck for %H but mostly forward to cover for Hawkins after Q1,,
+261510,Tom,Hawkins,GE,6,14,15,9,14,16,2,0,1,0,0,1,1,1,1, Full Time,injured,Booted %s from %P on Mackenzie... landed awkwardly in a marking contest in Q1 and stayed down with a blow to the head... stretchered off in a neck brace,subbed,Subbed off in Q1

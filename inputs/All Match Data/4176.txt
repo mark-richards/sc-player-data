@@ -1,0 +1,48 @@
+Collingwood,Magpies,North Melbourne,Kangaroos,R21,8.13.61,13.13.91, Full Time
+Aug 18,2012,7:40,Docklands,Seven,280104,10342105,430183,0,Fine,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>original</em>: surprised it wasnt a free against thomas for the round arm?<br><em>mrpig</em>: has to go to a defender scott thompson for star<br><em>quintyfly</em>: very enjoyable nights entertainment - great footy kangas<br><em>twinpeaks</em>: bless those shinboners<br><em>pcmaniman</em>: great win <br><em>Roflcake</em>: Well done Rooboys!<br><em>hardballge</em>: Spot on mOnty<br><em>windigo24</em>: 20 seconds<br><em>danmaio</em>: i nominated cunn<br><em>hardballge</em>: Cunnington's smashed in the clinches tonight<br><em>mx187</em>: Happy with Cunnington for star good call Monty<br><em>The It_123</em>: 2 point quarater cloke&#044; kick some goals or something ffs<br>
+271001,Dayne,Beams,CO,28,129,166,155,107,147,16,22,4,3,0,1,0,2,0, Full Time,cherry,First goal... %P and %T plus %s,,
+280965,Steele,Sidebottom,CO,30,122,115,158,96,124,16,10,10,5,0,3,0,0,1, Full Time,hot,%O and %M on MacMillan... also %T,,
+240359,Dale,Thomas,CO,25,116,134,152,91,124,17,10,9,5,0,0,1,0,1, Full Time,hot,%D and %T with %M and %s,,
+260257,Scott,Pendlebury,CO,20,97,86,125,71,96,18,6,2,4,0,3,0,1,0, Full Time,news,%2 Swallow... quiet first half but really lifted after HT... %P and %T with %M and %s,,
+240700,Heath,Shaw,CO,13,88,100,116,67,87,15,4,7,3,0,2,0,0,0, Full Time,news,%P and %T,job,Hansen trying to take him away from the play
+280104,Jarryd,Blair,CO,19,79,90,98,61,81,10,10,1,4,0,4,0,1,0, Full Time,news,%B among %O with %T and %s,,
+210003,Alan,Didak,CO,13,64,63,83,52,73,14,4,3,1,0,0,2,1,1, Full Time,news,%s from %O and %M on Wright,,
+290821,Alex,Fasolo,CO,10,63,70,79,50,66,7,6,3,3,0,0,0,1,3, Full Time,news,%s from %P and %T on Atley,,
+294733,Paul,Seedsman,CO,5,62,75,84,45,60,11,1,5,3,0,0,0,0,0, Full Time,news,%O including %K with %M,,
+240232,Ben,Reid,CO,12,61,85,78,52,69,9,7,6,1,0,1,1,0,0, Full Time,job,Has Tarrant.... %M and %O,,
+261799,Sharrod,Wellingham,CO,5,56,39,72,44,60,8,6,4,2,0,0,0,0,0, Full Time,news,%P and %M,,
+291386,Ben,Sinclair,CO,10,53,44,68,40,51,9,1,2,2,0,1,0,1,3, Full Time,news,%s from %D and %T,,
+230263,Nick,Maxwell,CO,4,52,63,67,40,54,8,5,3,2,0,1,0,0,0, Full Time,injured,Zoning off Harper... %P and %M with %T... ankle knock in Q3,subbed,Subbed off at 3QT for Mooney
+240366,Travis,Cloke,CO,9,52,47,69,39,54,7,4,2,4,0,1,1,0,3, Full Time,news,%s from %P and %T on Thompson,,
+980023,Chris,Tarrant,CO,11,52,78,67,43,57,5,5,4,3,0,0,1,1,0, Full Time,news,%s from %P and %M on Firrito,,
+260394,Chris,Dawes,CO,4,50,46,66,38,48,6,2,4,3,3,1,0,0,0, Full Time,news,%D and %M with %T on Luke Delaney,,
+210099,Darren,Jolly,CO,8,43,58,52,39,48,2,2,1,3,24,0,2,0,0, Full Time,news,%H and %P... also %F,,
+240073,Harry,O'Brien,CO,4,41,50,57,31,45,10,1,2,2,0,1,2,0,0, Full Time,brazil,%D... also %F,job,Sitting on Thomas
+272005,Marty,Clarke,CO,2,35,41,47,26,39,5,4,1,3,0,0,1,0,0, Full Time,tagger,Tagging Harvey... %P and %T,,
+260310,Nathan,Brown,CO,3,29,55,39,24,33,1,4,3,3,0,0,1,0,0, Full Time,job,Standing Dawes... %M and %P,,
+293801,Jamie,Elliott,CO,1,18,28,22,15,21,3,3,1,0,0,0,0,0,0, Full Time,news,%O on McMahon,,
+296732,Caolan,Mooney,CO,0,7,3,11,7,12,2,1,0,1,0,1,2,0,0, Full Time,in,%l Alan Toovey... on after 3QT for Maxwell... ankle knock in Q4,sub,Started as a sub
+960491,Brent,Harvey,NM,26,127,135,78,103,141,22,11,11,3,0,0,2,0,0, Full Time,gun,Tagged by Clarke... %O and %M with %T... also %F,sore,Dislocated finger on right hand in Q3
+250557,Sam,Gibson,NM,25,118,97,67,96,126,22,6,13,1,0,0,1,0,0, Full Time,hot,%D and %M,,
+280921,Ben,Cunnington,NM,45,110,108,109,81,117,9,15,4,11,0,0,1,0,0, Full Time,star,%P and %T with %M,,
+271129,Todd,Goldstein,NM,32,104,121,81,92,111,10,8,3,2,40,2,1,0,2, Full Time,hot,%H and %P with %T and %s,,
+260545,Liam,Anthony,NM,25,103,80,73,81,107,16,5,10,4,1,0,1,0,1, Full Time,hot,%s from %O and %M up forward... also %T,,
+280863,Ryan,Bastinac,NM,20,102,76,67,82,109,16,9,9,2,0,0,0,0,1, Full Time,hot,%O and %M,,
+240417,Andrew,Swallow,NM,15,96,103,75,74,102,12,12,5,5,0,1,0,0,0, Full Time,news,%2 Pendlebury... %O and %M with %T,,
+280944,Jack,Ziebell,NM,25,92,86,61,75,103,15,7,6,4,1,1,3,1,0, Full Time,news,%P and %T with %M... also %F,,
+210023,Drew,Petrie,NM,22,90,96,77,77,92,9,3,8,3,4,1,1,3,1, Full Time,news,%s from %P and %G on Brown... also %T,,
+270325,Robbie,Tarrant,NM,17,72,68,59,60,74,8,2,5,3,0,0,1,3,2, Full Time,news,Booted %s from %G and %D on Reid... also %T,,
+290194,Jamie,MacMillan,NM,13,72,67,56,61,82,9,9,7,2,0,0,1,0,1, Full Time,news,Matched up on Sidebottom... %P and %M with %T,,
+281395,Scott D.,Thompson,NM,9,71,96,38,58,81,13,9,4,1,0,1,1,0,0, Full Time,job,Following Cloke... %D,,
+280864,Sam,Wright,NM,8,67,77,36,55,72,12,7,5,0,0,2,0,0,0, Full Time,job,Didak is his man... %D,,
+230272,Michael,Firrito,NM,8,63,72,40,51,69,10,7,5,1,0,0,0,0,0, Full Time,job,Interesting job on Tarrant... %P,,
+250135,Scott,McMahon,NM,8,58,100,30,47,63,11,5,5,0,0,0,0,0,0, Full Time,job,Elliott is his man... %P and %M,,
+250373,Lachlan,Hansen,NM,11,58,85,38,49,60,9,1,5,1,0,1,1,2,0, Full Time,news,%s from %P and %M on Shaw,,
+271300,Cruize,Garlett,NM,14,58,75,46,48,64,6,9,2,2,0,1,0,1,1, Full Time,news,%s from %P and %M,subbed,Subbed off in Q3
+290787,Shaun,Atley,NM,7,58,66,33,46,63,10,7,3,1,0,1,0,0,0, Full Time,job,Responsible for Fasolo... %P and %M,,
+290547,Kieran,Harper,NM,14,55,53,54,38,52,5,4,2,6,0,1,0,0,1, Full Time,news,%O and %M with %T on Maxwell,,
+270303,Luke,Delaney,NM,8,51,43,38,42,54,7,4,6,1,0,0,0,0,0, Full Time,job,Dawes is his man... %M and %D,,
+261909,Lindsay,Thomas,NM,20,44,53,40,43,57,5,1,3,4,0,2,6,3,0, Full Time,news,%s from %O on O'Brien,,
+240189,Matt,Campbell,NM,1,12,9,8,10,12,2,0,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Garlett,sub,Started as a sub

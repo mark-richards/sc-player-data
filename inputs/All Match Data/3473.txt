@@ -1,0 +1,48 @@
+Essendon,Bombers,Western Bulldogs,Bulldogs,R10,15.9.99,14.6.90, Full Time
+May 28,2010,7:40,Docklands,Seven,260227,10281001,5015454,5141,Roof closed,16
+The app has been submitted but not approved yet... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>switch200</em>: how do u get 403 from 3 players??<br><em>mikka</em>: 402 from 3 players<br><em>relton</em>: i mean sorry daniel P<br><em>relton</em>: what hille didnt even score well travo you noob<br><em>travo</em>: flowering barry hall<br><em>Crim2007</em>: Plus he calls him dad<br><em>Daniel P</em>: Stanton and hille are the only good dt'ers that scored well<br><em>Crim2007</em>: Their name gives it away fitz u nong<br><em>Tiges08</em>: woo gia +4 !!!!<br><em>LetterG</em>: sucks i traded hall out 2 weeks ago for robbie gray<br><em>stakerz</em>: good round so far with boyd gilbee griffen harbrow scoring shower<br><em>relton</em>: what is with david hille always scoring more dt than sc<br>
+250352,Leroy,Jetta,ES,37,127,100,161,103,132,14,11,10,5,0,1,0,2,0, Full Time,hot,%D and %M plus %T
+230238,Jason,Winderlich,ES,36,118,101,152,91,126,11,16,7,8,0,0,0,0,0, Full Time,hot,%B among %P with %T and %M
+240027,Brent,Stanton,ES,26,118,119,151,99,136,17,15,10,3,0,0,2,0,1, Full Time,gun,Tagged by Picken... %O and %M plus %T and %s
+250267,Patrick,Ryder,ES,36,117,119,145,94,115,7,7,5,8,21,1,0,2,1, Full Time,star,%H and %D with %T and %M... also %s
+230231,Jobe,Watson,ES,32,112,99,143,88,117,12,13,5,7,0,4,1,1,0, Full Time,hot,First goal... %P and %M plus %s head to head with Cross
+230051,Alwyn,Davey,ES,46,86,91,115,61,84,5,6,2,11,0,0,1,2,0, Full Time,news,%s from %O and %T with %M on Harbrow
+250049,Brent,Prismall,ES,15,85,83,111,66,93,13,9,5,4,0,0,1,0,0, Full Time,news,Head to head with Boyd... %O and %T
+261314,David,Myers,ES,16,77,89,97,65,88,12,9,4,2,0,2,2,1,1, Full Time,news,%D and %M plus %s
+250569,Heath,Hocking,ES,19,76,89,92,66,87,8,12,6,1,0,0,0,1,0, Full Time,job,Matched up on Higgins.. %P and %M plus %s
+270951,David,Zaharakis,ES,20,76,79,100,61,79,9,4,7,4,0,0,1,1,1, Full Time,news,%s from %O and %M with %T on Williams
+200026,David,Hille,ES,10,71,61,86,62,77,7,7,6,1,14,0,0,0,0, Full Time,news,%H with %D and %M
+270935,Michael,Hurley,ES,12,66,77,84,54,70,12,5,6,0,0,1,0,0,1, Full Time,news,Tried to keep Lake honest... %O
+271022,Tayte,Pears,ES,13,66,55,86,58,82,10,9,6,2,1,0,3,0,0, Full Time,job,Hahn was his man... %D and %M with %F
+260073,Ben,Howlett,ES,10,65,59,86,49,66,6,6,5,5,0,0,0,0,0, Full Time,news,%O and %M plus %T
+210079,Nathan,Lovett-Murray,ES,21,63,54,83,50,69,5,7,3,6,0,1,2,1,0, Full Time,tagger,Tagged Cooney... %O and %T with %F
+240290,Angus,Monfries,ES,14,62,77,76,54,71,8,8,4,1,0,1,1,1,2, Full Time,news,%s from %D on Addison
+240245,Courtenay,Dempsey,ES,7,57,85,69,48,66,7,11,3,1,0,1,0,0,0, Full Time,job,On Grant... %D
+250366,Scott,Gumbleton,ES,19,55,53,66,52,61,5,3,6,0,0,0,1,3,1, Full Time,news,Morris kept him quiet early... %s from %G and %O
+960197,Dustin,Fletcher,ES,8,53,105,71,44,61,13,2,5,0,1,0,2,0,0, Full Time,job,Stood Hall... %P and %M
+990046,Mark,McVeigh,ES,8,53,72,71,42,60,11,4,3,2,0,1,2,0,0, Full Time,job,Minded Akermanis... %D and %M with %F
+261676,Jarrod,Atkinson,ES,4,50,69,65,37,51,7,5,2,3,0,1,0,0,0, Full Time,news,%P and %T with %M
+240319,Sam,Lonergan,ES,4,47,56,58,41,54,4,8,5,1,0,0,0,0,0, Full Time,news,%B among %D with %M
+240710,Ben,Hudson,WB,37,118,131,121,101,128,5,18,6,6,17,2,0,1,0, Full Time,hot,%D and %M with %H and %T
+220039,Brian,Lake,WB,25,105,118,79,81,108,14,9,6,5,0,1,0,1,0, Full Time,hot,Stood Hurley... %O and %M with %T and %s
+960570,Barry,Hall,WB,26,96,119,75,84,97,10,4,7,1,1,2,0,5,0, Full Time,garbage,Fletcher on him... %s from %G and %P with a fair few in Q4 junk time
+230041,Adam,Cooney,WB,18,91,91,60,67,97,14,12,1,5,0,1,0,0,1, Full Time,tagged,Tagged by Lovett-Murray... %O and %T with %s
+240156,Ryan,Griffen,WB,20,88,83,45,71,102,17,10,2,3,0,2,3,1,0, Full Time,heart,%P and %F with %M and %s... cork in the right buttock in Q1 as he did last week but played on
+210049,Daniel,Cross,WB,15,85,99,78,68,90,7,12,4,5,6,2,0,0,0, Full Time,news,Head to head with Watson... %O and %T with %M
+240254,Jarrod,Harbrow,WB,9,76,54,38,54,75,16,2,4,3,0,0,0,0,0, Full Time,news,Minded Davey... %P and %M with %T
+261319,Jarrad,Grant,WB,14,76,76,65,57,76,9,5,6,5,0,0,0,0,1, Full Time,news,Dempsey on him... %D
+271439,Liam,Picken,WB,18,76,89,60,59,78,9,9,1,5,0,5,1,1,0, Full Time,tagger,Tagged Stanton... %B among %P with %T
+220010,Matthew,Boyd,WB,18,75,63,57,60,90,9,16,1,4,0,0,1,0,0, Full Time,news,Head to head with Prismall.. %O including %b by hand
+260227,Shaun,Higgins,WB,9,74,45,45,62,87,12,11,5,1,0,0,1,0,0, Full Time,news,Matched up on Hocking... got a whack in the nose that drew blood in Q1 but was fine... %P and %M
+200080,Lindsay,Gilbee,WB,15,67,72,34,56,73,13,2,4,1,0,1,2,2,1, Full Time,news,%D and %M plus %s
+230255,Will,Minson,WB,10,61,64,54,47,63,6,4,1,5,14,0,1,0,1, Full Time,news,%B among %D with %s
+200079,Daniel,Giansiracusa,WB,5,60,56,52,48,63,6,8,4,3,0,2,0,0,0, Full Time,news,%O and %T with %M... went missing in Q2
+261209,Josh,Hill,WB,16,59,62,52,50,60,5,3,4,2,0,0,0,3,0, Full Time,garbage,%s from %D and %M... most of his scoring in Q4 garbage time
+200082,Ryan,Hargrave,WB,8,57,75,39,46,66,9,7,3,3,0,1,2,0,0, Full Time,news,%D including %B with %M and %T
+200081,Mitch,Hahn,WB,8,56,46,29,45,63,11,5,4,1,0,0,1,0,0, Full Time,news,Pears on him... %P
+960064,Jason,Akermanis,WB,4,42,45,31,34,48,6,5,3,2,0,0,1,0,0, Full Time,cold,McVeigh kept him quiet... %O and %M
+250150,Tom,Williams,WB,3,38,54,32,32,42,4,5,4,1,0,0,0,0,0, Full Time,job,On Zaharakis... %M and %D
+240212,Dylan,Addison,WB,2,34,13,31,24,31,4,0,3,3,0,0,0,0,1, Full Time,job,Had Monfries... %P
+250712,Dale,Morris,WB,2,31,27,24,25,33,4,3,3,1,0,0,0,0,0, Full Time,gumby,Followed Gumbleton... %D and %M
+260965,Brennan,Stack,WB,2,29,28,19,24,33,5,2,3,1,0,0,1,0,0, Full Time,news,%D

@@ -1,0 +1,48 @@
+Adelaide,Crows,Essendon,Bombers,R17,10.13.73,12.12.84, Full Time
+Jul 15,2011,8:40,Footy Park,Seven,250362,10311701,5597,126,Fine,15,news,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>gilbee9</em>: Talia 103 DT<br><em>FunkyJunk1</em>: neil craig gone - surely?!?!<br><em>I am god</em>: what the hell is wrong with fanfooty<br><em>HotTiges</em>: Riemers lol<br><em>HotTiges</em>: might get Monfries next year<br><em>mh7690</em>: talia dt?<br><em>FootyFan74</em>: Crows need new kids & must get a new coach<br><em>lock98</em>: honestly just log in to dt for dt scores, or go to the herald sun afl site to find to sc scores, not that hard guys.<br><em>Jukes</em>: talia 78...thompson deserved more than 118<br><em>gilbee9</em>: Zaharakis 98 SC<br><em>layngarys </em>: thompson 111 dt<br><em>Nicko2665</em>: Zaharakis got 94 DT<br>
+210016,Scott,Thompson,AD,26,111,111,136,82,123,16,21,2,7,0,2,5,0,0, Full Time,gun,Tagged by Hocking... %P with %b by hand... also %T and %M... but also %F,,
+270963,Rory,Sloane,AD,19,107,92,121,76,105,12,17,3,6,0,3,0,0,1, Full Time,hot,%2 Prismall... %B among %O with %T and %M,,
+270811,Sam,Jacobs,AD,17,101,106,104,75,90,8,7,6,4,30,2,1,0,0, Full Time,hot,%H with %P and %M... also %T,,
+261138,Jared,Petrenko,AD,19,93,105,93,54,72,14,5,6,4,0,1,0,1,0, Full Time,news,First goal... kicked %s from %P on Fletcher... also %T and %M,,
+261142,Bernie,Vince,AD,9,90,89,101,60,87,11,6,4,4,0,1,0,2,0, Full Time,news,Skulking around halfback for cheap kicks... %D and %M with %T,,
+200092,Michael,Doughty,AD,19,87,80,100,55,81,12,9,3,8,0,1,3,0,0, Full Time,news,%O and %T with %M... also %F,tagger,Tagging Stanton
+230215,Brad,Symes,AD,19,86,74,100,66,90,8,11,8,6,0,0,3,0,0, Full Time,news,Playing a HFF role... %P and %M with %T... also %F,,
+270742,Kurt,Tippett,AD,7,84,86,82,51,65,15,5,6,1,5,3,1,0,2, Full Time,sore,Booted %s from %G and %P on Hurley then Pears... copped Hardingham's knee to his left kidney in Q3,,
+270917,Patrick,Dangerfield,AD,20,83,104,98,64,79,11,6,2,3,0,4,1,3,1, Full Time,news,%s from %P and %M on Hardingham... also %T,,
+261384,Matthew,Wright,AD,21,82,69,104,64,84,13,5,7,3,0,1,1,0,0, Full Time,news,%s from %P and %M on McVeigh.. also %T,,
+270296,Andy,Otten,AD,14,76,86,83,63,86,6,15,7,2,0,0,1,0,2, Full Time,job,Standing Reimers... %O and %M plus %s,mrp,A hand trip on Crameri in Q3 will be scrutinised
+280934,Daniel,Talia,AD,4,76,81,79,44,60,12,4,5,4,0,1,0,0,0, Full Time,bubble,Second game... %P and %M with %T,job,Has Ryder
+250118,Nathan,van Berlo,AD,13,76,63,91,56,75,18,9,4,3,0,0,2,0,0, Full Time,news,Given more responsibility in defence after Johncock's injury... %O and %M,,
+291201,Ricky,Henderson,AD,4,70,54,71,46,61,9,6,6,3,0,0,0,0,1, Full Time,news,Playing off a wing... %P and %M with %T,,
+261351,Matthew,Jaensch,AD,15,66,54,82,54,69,8,7,4,2,0,2,0,1,0, Full Time,injured,%O and %M with %T and %s... right shoulder knock in Q1 and eventually mothballed in Q3,job,Has Jetta
+230216,Richard,Tambling,AD,3,57,74,60,36,48,7,8,0,4,0,4,0,0,0, Full Time,job,Chasing Davey... %D and %T,,
+220093,Ben,Rutten,AD,5,55,69,66,44,60,7,8,4,2,0,1,1,0,0, Full Time,news,%D and %M with %T,job,On Crameri
+220086,Brent,Reilly,AD,4,52,51,64,40,57,6,9,2,3,0,1,1,0,0, Full Time,news,%P and %M with %T,,
+210056,Graham,Johncock,AD,10,50,50,63,44,54,8,1,5,0,0,0,1,2,0, Full Time,injured,Minding Monfries... %P and %M plus %s... hurt his hip in a marking contest in Q2,subbed,Subbed off at HT for Smith
+250045,Brad,Moran,AD,9,49,44,51,41,50,6,5,2,0,9,0,1,1,3, Full Time,news,%H and %D with %M plus %s,,
+250362,David,Mackay,AD,2,31,17,29,20,31,4,5,2,2,0,0,2,0,1, Full Time,news,%2 Dyson on a wing... %P and %T plus %s,,
+291748,Brodie,Smith,AD,1,13,12,18,8,12,1,1,0,2,0,0,0,0,0, Full Time,news,On in Q3 for Johncock... %P and %T,sub,Started as a sub
+240290,Angus,Monfries,ES,25,132,126,58,88,116,22,13,10,2,0,3,3,1,2, Full Time,star,Kicked %s from %D and %M... smashed early by Johncock but did much better after Johncock's Q2 injury,,
+240027,Brent,Stanton,ES,19,106,96,63,62,82,16,8,4,6,0,5,0,0,1, Full Time,hot,Starting off a wing but tagged by Doughty... %P and %T with %M and %s,,
+280824,Jake,Melksham,ES,21,101,73,76,71,99,14,9,5,7,0,1,1,0,0, Full Time,hot,%D and %T with %M,,
+270951,David,Zaharakis,ES,13,94,103,46,46,66,13,9,3,6,0,1,1,1,0, Full Time,news,%D and %T with %M,,
+230060,Ricky,Dyson,ES,13,89,86,48,55,75,15,6,3,5,0,3,0,0,0, Full Time,news,%2 Mackay on a wing... %D and %T with %M,,
+250569,Heath,Hocking,ES,14,86,103,59,59,87,10,14,2,7,0,3,3,0,0, Full Time,tagger,Tagging Thompson... %P and %T with %M and %F,,
+271022,Tayte,Pears,ES,20,83,98,66,57,81,10,8,5,7,0,0,2,0,0, Full Time,news,%M and %D with %T,job,Moved to Tippett in Q1
+270935,Michael,Hurley,ES,15,83,89,52,50,61,9,5,8,3,0,1,0,2,1, Full Time,news,%s from %P and %M with %T,switch,Started on Tippett but moved forward in Q1
+290629,Dyson,Heppell,ES,12,83,71,47,57,75,12,9,8,1,0,1,0,0,0, Full Time,news,%O and %M,,
+292503,Stewart,Crameri,ES,11,81,102,51,51,66,8,9,6,3,0,3,2,2,0, Full Time,news,Kicked %s from %G and %O on Rutten,,
+200026,David,Hille,ES,10,77,92,55,52,67,6,9,3,3,22,0,1,0,1, Full Time,news,%H and %P with %T,,
+250267,Patrick,Ryder,ES,16,76,99,60,56,67,6,5,6,2,15,1,0,1,0, Full Time,news,Kicked %s from %P and %G on Talia.... also %H in ruck support,,
+230051,Alwyn,Davey,ES,28,76,59,71,55,75,8,2,4,8,0,0,3,2,1, Full Time,news,%s from %O and %M with %T on Tambling... %F,,
+270584,Kyle,Hardingham,ES,8,68,91,36,51,69,11,7,5,2,0,1,1,0,0, Full Time,job,On Dangerfield... %P and %M,,
+250049,Brent,Prismall,ES,13,65,50,49,50,71,9,7,3,4,1,0,1,0,1, Full Time,news,%2 Sloane... %D and %M with %T,,
+960197,Dustin,Fletcher,ES,9,64,70,32,46,63,14,1,6,2,0,0,2,0,0, Full Time,news,%D and %M with %T,job,Petrenko trying to keep him honest
+990046,Mark,McVeigh,ES,13,62,66,26,49,70,13,6,3,1,0,0,3,1,1, Full Time,job,Minding Wright... %O and %M plus %s,,
+261324,Kyle,Reimers,ES,10,60,74,28,44,56,11,2,5,0,0,0,0,1,2, Full Time,news,%s from %P and %M on Otten,,
+250352,Leroy,Jetta,ES,4,50,46,39,39,57,6,10,2,3,0,0,2,0,0, Full Time,news,%D and %M with %T on Jaensch,,
+280988,Travis,Colyer,ES,1,45,58,12,19,27,9,2,2,1,0,1,1,1,0, Full Time,news,Rotating from midfield to small forward... %P,,
+260073,Ben,Howlett,ES,3,38,32,26,28,39,6,3,2,2,0,0,0,0,0, Full Time,news,%O and %M with %T,subbed,Subbed off at HT for Henry Slattery
+250071,Henry,Slattery,ES,2,35,46,27,20,30,3,5,1,4,0,0,1,0,0, Full Time,news,On in Q3 for Howlett... %D and %T,sub,Started as a sub

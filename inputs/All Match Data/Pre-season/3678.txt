@@ -1,0 +1,56 @@
+Adelaide,Crows,Port Adelaide,Power,W1,0.6.4.40,0.1.2.8, Half Time
+Feb 11,2011,9:55,Footy Park,Fox Sports,,10300103,,5258,Windy,27
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>byjingoes</em>: No power players for me...except maybe K Cornes&#044; the rest garbage.<br><em style='color:#069'>Prospector</em>: see ya tomoz<br><em style='color:#069'>Prospector</em>: Worried about the quieter 2nd half for Otto<br><em>cptFantasy</em>: and you need to change your name big lance<br><em style='color:#069'>Prospector</em>: @Damen (damn that sounds like Matt Damon) -so long as Drummo and Grimey are mutually chronoexclusive - yes<br><em>eagles9294</em>: otten quiet&#044; has he done his knee again?<br><em>Big Lance</em>: jurruh need to cut that crap of the back of his head<br><em>breakonthr</em>: that 2 teams are going backwards and 1 going forward<br><em>DamenS</em>: ... and then replace Grimes with Drummond ... LOL !!<br><em>DamenS</em>: We learnt to get on Grimes - for the half a season he actually ends up playing !!  ;)<br><em>valkorum</em>: footy is back<br><em>cptFantasy</em>: that jarrah is the best player in the comp!<br>
+230215,Brad,Symes,AD,14,57,-,72,52,69,7,7,6,1,0,0,2,1,0, Half Time,hot,%P and %M plus %s
+210016,Scott,Thompson,AD,8,50,-,64,42,57,10,5,4,0,0,1,1,0,0, Half Time,hot,%O and %M
+220086,Brent,Reilly,AD,4,50,-,64,41,57,7,7,3,2,0,1,1,0,0, Half Time,hot,%D and %M with %T
+250045,Brad,Moran,AD,5,44,-,54,41,52,5,5,5,0,6,0,1,0,1, Half Time,news,%H and %P with %M and %s
+280281,Brodie,Martin,AD,4,44,-,56,36,45,6,4,4,1,0,2,0,0,0, Half Time,news,%M and %D
+261857,Ian,Callinan,AD,9,39,-,51,31,40,6,1,2,2,0,1,1,1,1, Half Time,news,%s and %D with %M and %T
+200092,Michael,Doughty,AD,3,36,-,45,30,39,6,4,3,0,0,1,0,0,0, Half Time,news,%D and %M
+270963,Rory,Sloane,AD,3,35,-,42,29,42,2,9,1,2,0,0,0,0,0, Half Time,news,%D and %T
+250118,Nathan,van Berlo,AD,8,34,-,44,26,36,4,3,0,3,0,1,1,1,0, Half Time,news,%O and %T plus %s
+280804,Phil,Davis,AD,3,33,-,44,28,36,7,1,4,0,0,1,1,0,0, Half Time,news,%M and %D
+200072,Scott,Stevens,AD,3,30,-,40,23,30,3,2,3,2,0,0,0,0,0, Half Time,news,%M and %O with %T
+261138,Jared,Petrenko,AD,2,30,-,39,26,36,4,4,3,1,0,0,1,0,0, Half Time,news,%P and %M
+291748,Brodie,Smith,AD,7,29,-,36,23,30,4,2,1,1,0,0,0,1,0, Half Time,news,%P and %s
+270917,Patrick,Dangerfield,AD,7,26,-,31,21,27,5,2,0,0,0,1,0,1,0, Half Time,news,First goal... %P and %s
+230174,Jason,Porplyzia,AD,7,23,-,27,19,25,4,2,0,0,0,0,0,1,1, Half Time,news,%s from %D
+291201,Ricky,Henderson,AD,1,23,-,30,17,24,4,2,1,1,0,0,0,0,0, Half Time,news,%P
+220093,Ben,Rutten,AD,2,22,-,28,18,24,4,2,2,0,0,0,0,0,0, Half Time,job,Stood Pettigrew... %P and %M
+230216,Richard,Tambling,AD,1,17,-,20,15,21,2,4,1,0,0,0,0,0,0, Half Time,news,%B among %O
+270811,Sam,Jacobs,AD,1,17,-,20,15,17,2,1,1,0,5,1,0,0,0, Half Time,news,%H and %P
+270964,Myke,Cook,AD,1,17,-,25,14,21,3,1,1,2,0,1,2,0,0, Half Time,news,%P and %T
+270296,Andy,Otten,AD,1,16,-,20,12,18,2,3,0,1,0,0,0,0,0, Half Time,news,%D
+280038,Shaun,McKernan,AD,1,16,-,21,15,20,3,1,2,0,1,0,1,0,1, Half Time,news,%G and %P
+280506,Taylor,Walker,AD,1,15,-,21,13,18,2,1,2,1,0,0,1,0,0, Half Time,news,%O and %G
+270742,Kurt,Tippett,AD,0,2,-,2,2,2,0,0,0,0,2,0,0,0,0, Half Time,news,%H and that was it
+261384,Matthew,Wright,AD,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub
+291351,Jack,Gunston,AD,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub
+250063,Danyle,Pearce,PA,4,51,-,34,41,57,8,6,3,2,0,1,1,0,0, Half Time,hot,%O and %M
+210008,Daniel,Motlop,PA,7,33,-,21,26,33,5,2,1,1,0,1,0,1,0, Half Time,news,%s from %P
+210020,Kane,Cornes,PA,2,31,-,17,26,36,5,6,1,0,0,1,0,0,0, Half Time,news,%P
+280013,Jackson,Trengove,PA,2,31,-,32,25,31,2,3,1,3,4,3,1,0,0, Half Time,news,%H and %P with %T
+240385,Matt,Thomas,PA,7,27,-,30,21,30,2,3,1,4,0,2,2,0,0, Half Time,news,%D and %T
+240180,Troy,Chaplin,PA,2,24,-,17,21,27,3,4,2,0,0,1,0,0,0, Half Time,news,%O and %M
+240294,Nick,Salter,PA,1,24,-,11,17,24,5,2,0,1,0,1,0,0,0, Half Time,news,%D including %K
+230173,Michael,Pettigrew,PA,1,21,-,16,18,23,3,1,2,1,0,1,1,0,2, Half Time,news,Played forward on Rutten... %s from %P
+271078,Matthew,Broadbent,PA,6,21,-,26,12,18,1,1,0,4,0,0,0,0,0, Half Time,news,%O and %T
+290156,Jasper,Pittard,PA,2,19,-,9,17,24,4,2,2,0,0,0,1,0,0, Half Time,news,%D and %M
+271031,Marlon,Motlop,PA,1,18,-,7,14,18,4,1,1,0,0,1,0,0,0, Half Time,news,%O
+281375,Cameron,Hitchcock,PA,1,18,-,4,13,18,5,0,1,0,0,0,0,0,0, Half Time,news,%P with %k by foot
+291597,Jarrad,Irons,PA,0,13,-,12,10,15,1,3,0,1,0,0,0,0,0, Half Time,news,%B among %D
+290540,Cameron,O'Shea,PA,1,12,-,8,10,12,2,0,2,0,0,0,0,0,0, Half Time,news,%P and %M
+260750,Justin,Westhoff,PA,0,11,-,6,9,12,2,1,1,0,0,0,0,0,0, Half Time,news,%K
+270952,Mitchell,Banner,PA,0,11,-,6,9,12,2,1,1,0,0,0,0,0,0, Half Time,news,Less prominent that in the first game... %D
+250688,Alipate,Carlile,PA,0,10,-,8,9,12,1,2,1,0,0,0,0,0,0, Half Time,news,%D
+290277,Jarrad,Redden,PA,0,10,-,7,9,12,1,2,0,0,3,0,0,0,0, Half Time,news,%H and %D
+290737,Callum,Hay,PA,0,7,-,6,6,9,1,1,0,1,0,1,1,0,0, Half Time,news,%D in limited TOG
+292145,Thomas,Jonas,PA,0,7,-,8,7,9,0,2,1,0,0,0,0,0,0, Half Time,news,%D with both by hand
+980059,Chad,Cornes,PA,0,7,-,4,6,9,1,2,0,0,0,0,0,0,0, Half Time,news,SLacked off after a hot first game... %P
+250062,Danny,Meyer,PA,0,6,-,3,5,6,1,1,0,0,0,1,0,0,0, Half Time,news,Port didn't get much of it... %O
+230124,Tom,Logan,PA,0,4,-,6,2,3,0,0,0,1,0,0,0,0,0, Half Time,news,Just %t tackle
+260201,Daniel,Stewart,PA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub
+280877,John,Butcher,PA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,news,No stats
+290546,Aaron,Young,PA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub

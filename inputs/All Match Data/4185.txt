@@ -1,0 +1,48 @@
+West Coast,Eagles,Collingwood,Magpies,R22,15.17.107,8.10.58, Full Time
+Aug 25,2012,7:40,Subiaco,Seven,240300,10342205,430192,0,Fine,24,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>bartyboys</em>: Cox and mic nat . Same numbers diff scores flower you sc <br><em>Leon88</em>: haha hawks will smash eagles next week<br><em title="WCE !">wce !</em>: well done eagles !<br><em>old_shepp</em>: Western derby coming up in two weeks time. You beauty !<br><em>brunckka</em>: this means hawks/eagles might play 2 weeks in a row (R23 and first final) Both at the 'G. <br><em>R.Griff</em>: tell me how much Wc win by next week<br><em>TossTime</em>: flower me just the week to play mitchell over priddis<br><em>M.Brown#1</em>: Ill be first to admit it will take a lot of luck to beat hawks next week. If we play like we did tonight we should win<br><em>Bayno82</em>: Damn it Swann u just knocked me out of DT scored 4 points in the last qtr<br><em>cheese</em>: @mico but it'll be over east and there won't be enough booinbg eagles fans to win it :P<br><em>cdrobert</em>: you obviously cant forecast mochasons<br><em>Mico IV</em>: @ cheese but eagles will be fresher after this training run<br>
+280078,Luke,Shuey,WC,27,112,121,139,93,120,15,12,4,4,0,6,2,2,3, Full Time,hot,%P and %T with %s... also a massive %4 FF,,
+210018,Daniel,Kerr,WC,31,111,148,137,91,133,16,20,2,4,0,0,2,1,1, Full Time,star,%2 Pendlebury... %B among %O with %T and %s,,
+240124,Matt,Priddis,WC,26,109,134,135,88,120,9,20,5,6,0,3,0,0,0, Full Time,hot,%D and %T,,
+240159,Sam,Butler,WC,25,101,123,129,82,110,17,8,7,2,0,0,1,1,2, Full Time,hot,%D and %M plus %s,,
+271045,Nic,Naitanui,WC,27,99,163,115,90,105,11,6,5,0,30,3,1,1,3, Full Time,news,%H and %D with %M and %s,sore,Right adductor problem in Q2
+290801,Andrew,Gaff,WC,20,93,77,117,76,105,17,10,5,1,0,0,1,1,0, Full Time,news,%D,mrp,A bump that collected the head of Sinclair in Q3 will be looked at
+200112,Dean,Cox,WC,22,87,84,101,77,91,8,6,4,1,28,1,0,1,0, Full Time,news,%H and %P,concussed,Got a knock in the head in Q2 which left him groggy
+270928,Scott,Selwood,WC,9,74,84,90,61,84,9,14,3,2,0,2,0,0,0, Full Time,news,%P,tagger,Tagging Beams
+990020,Andrew,Embley,WC,13,68,67,86,55,75,13,6,3,1,0,1,1,1,0, Full Time,news,%P,,
+240283,Shannon,Hurn,WC,14,67,95,87,52,72,13,4,3,2,0,0,1,1,0, Full Time,news,%O including %k by foot... also %M and %s,,
+280441,Patrick,McGinnity,WC,5,66,67,87,50,66,10,4,5,3,0,1,0,0,0, Full Time,tagger,Forward tag on O'Brien... %O and %M with %T,,
+290838,Jack,Darling,WC,14,58,47,77,47,59,7,1,6,3,0,0,1,1,2, Full Time,news,Toovey on him... %s from %D and %T,,
+230254,Adam,Selwood,WC,10,54,69,66,44,57,6,7,2,2,0,2,0,1,0, Full Time,job,Minding Blair... %O and %s,,
+240016,Beau,Waters,WC,7,53,81,68,45,66,10,8,3,1,0,0,2,0,0, Full Time,news,%P and %M,,
+250111,Matt,Rosa,WC,7,51,70,62,45,64,6,11,3,1,0,0,1,0,1, Full Time,sore,%D and %M plus %s... ran his face into the elbow of Dawes in Q4,,
+261290,Chris,Masten,WC,12,50,57,62,41,58,9,6,1,1,0,0,1,1,1, Full Time,news,%O,,
+240406,Josh J.,Kennedy,WC,9,45,56,58,38,46,7,1,4,1,0,2,1,1,1, Full Time,news,%D on Reid,,
+261214,Will,Schofield,WC,9,44,54,56,37,49,5,4,3,2,1,0,1,1,0, Full Time,job,Has Goldsack... %D and %T,,
+200074,Darren,Glass,WC,4,41,52,52,34,45,5,5,4,1,0,0,0,0,0, Full Time,job,Has Dawes... %D and %M,,
+250317,Eric,Mackenzie,WC,3,34,65,43,28,36,2,5,3,2,0,1,0,0,0, Full Time,job,Following Cloke... %M and %O,subbed,Subbed off at 3QT for Strijk
+261209,Josh,Hill,WC,9,32,37,43,25,33,5,0,2,2,0,0,1,1,0, Full Time,news,%O on Tarrant,,
+260446,Andrew,Strijk,WC,0,10,11,12,8,12,2,2,0,0,0,0,0,0,0, Full Time,in,%l Quinten Lynch... on after 3QT for Mackenzie,sub,Started as a sub
+260257,Scott,Pendlebury,CO,37,129,155,110,102,136,13,17,6,7,0,3,0,1,1, Full Time,magnet,%2 Kerr... %B among %P plus %M... also %T and %s,,
+271001,Dayne,Beams,CO,38,129,123,99,104,141,17,13,9,6,0,1,2,1,0, Full Time,gun,%D and %M with %T... also %s  and %F,scooter,Tagged by Scott Selwood
+220105,Dane,Swan,CO,25,119,118,90,93,125,16,11,9,5,0,0,0,0,2, Full Time,hot,%P and %M plus %s,dttalk,The #1 captain option from Calvin of DT Talk
+280965,Steele,Sidebottom,CO,25,96,90,61,81,108,15,10,8,1,0,0,1,1,0, Full Time,news,%O and %M,,
+200021,Ben,Johnson,CO,10,91,96,48,69,97,18,6,5,3,0,0,1,0,1, Full Time,news,%P and %s,,
+240359,Dale,Thomas,CO,19,82,92,58,69,97,13,8,7,4,0,1,4,0,1, Full Time,news,%D and %M plus %s... also %F,,
+261799,Sharrod,Wellingham,CO,19,79,72,75,60,84,7,11,3,7,0,2,1,0,0, Full Time,sore,Left index finger injury in Q1... %B among %O with %T,,
+290821,Alex,Fasolo,CO,20,79,106,58,69,84,10,4,7,1,0,1,1,3,0, Full Time,news,First goal... %s from %O and %M,,
+240700,Heath,Shaw,CO,9,73,87,30,55,78,18,0,5,3,0,1,3,0,0, Full Time,sore,%P and %T with %M... right side groin tweak in Q4,,
+980023,Chris,Tarrant,CO,9,72,87,55,56,72,10,4,7,3,0,1,0,0,0, Full Time,job,In defence on Hill... %D and %M with %T,,
+210003,Alan,Didak,CO,8,55,49,26,44,58,11,4,4,0,0,1,0,0,1, Full Time,news,%s from %D and %M,,
+240366,Travis,Cloke,CO,8,49,53,33,41,54,8,3,6,1,0,0,1,0,0, Full Time,news,Mackenzie on him... %P and %G,,
+260246,Tyson,Goldsack,CO,9,49,53,43,38,49,5,3,3,3,0,0,0,1,1, Full Time,sore,Right ankle knock in Q1... %s from %P and %M on Schofield,,
+240073,Harry,O'Brien,CO,5,48,59,43,39,54,5,6,4,3,0,0,1,0,0, Full Time,brazil,Forward tag on him by McGinnity... %P and %M,,
+240232,Ben,Reid,CO,4,46,64,32,37,48,7,3,5,1,0,0,0,0,0, Full Time,job,Has Kennedy... %M and %O,,
+280104,Jarryd,Blair,CO,10,46,47,39,37,51,5,5,2,3,0,0,1,1,0, Full Time,news,%D on Adam Selwood,,
+240300,Cameron,Wood,CO,5,41,57,31,37,51,6,2,2,3,12,1,4,0,0, Full Time,news,%H and %D with %M and %T... also %F,,
+260394,Chris,Dawes,CO,3,41,32,28,33,42,6,4,3,1,0,2,0,0,0, Full Time,cold,Glass sitting on him... %P,,
+240419,Alan,Toovey,CO,1,26,37,17,22,30,4,4,1,1,0,2,1,0,0, Full Time,job,Big job on Darling... %D,,
+294733,Paul,Seedsman,CO,2,23,13,14,19,24,4,1,3,0,0,0,0,0,0, Full Time,news,%P and %M,subbed,Subbed off in Q3 for Sinclair
+260310,Nathan,Brown,CO,1,20,36,17,18,27,2,5,1,1,0,0,1,0,0, Full Time,job,On Cox... %O,,
+291386,Ben,Sinclair,CO,0,14,12,9,12,15,2,2,1,0,0,1,0,0,0, Full Time,news,On in Q3 for Seedsman,sub,Started as a sub

@@ -1,0 +1,48 @@
+Richmond,Tigers,Sydney,Swans,R7,13.13.91,8.14.62, Full Time
+May 12,2012,4:40,MCG,Fox Sports,240546,10340704,430065,0,A shower or two,15,,
+
+<em>Your_mum</em>: thanks ellis u muppet<br><em>GoldDigger</em>: hands up all the deledio haters<br><em>cdrobert</em>: flower off harwick<br><em>bert1</em>: lol at game of the year and sleeping gaint awakes <br><em>HotTiges84</em>: @darpy or whatever... our best 1st qtr in like 30 years lol<br><em>richmond11</em>: who had ellis on the ground?<br><em>magic007</em>: well at least my opponent has zorko on the field and hes sub haha<br><em>HotTiges84</em>: our best trade in a while.. maric<br><em>Sydney14</em>: 6 SC point quarter Parker&#044;well done <br><em>mufc</em>: morris bench ellis field fmdt<br><em>Bulky</em>: Dustin "Yagmoor" Martin<br><em>richmond11</em>: yes ellis got me 3<br>
+261362,Alex,Rance,RI,25,115,108,149,93,120,20,7,12,1,0,1,0,0,0, Full Time,hot,%M and %O,job,Running off Reid
+250298,Shaun,Grigg,RI,30,114,111,141,94,121,18,8,7,1,1,0,0,3,0, Full Time,hot,%O and %M,job,Has McVeigh
+280819,Dylan,Grimes,RI,21,110,109,145,90,117,18,6,13,2,0,0,1,0,0, Full Time,garbage,%M and %D... lots of junk time stats in Q4,job,Has Everitt
+240336,Brett,Deledio,RI,26,104,100,130,83,110,13,12,5,4,1,2,0,1,1, Full Time,hot,Tagged by Shaw... %P including %B,,
+240546,Ivan,Maric,RI,27,102,119,120,88,107,8,9,4,3,28,1,0,1,1, Full Time,star,%H and %P with %T and %s,,
+200109,Shane,Tuck,RI,31,100,98,132,80,114,10,14,6,8,0,1,3,0,0, Full Time,hot,%2 Kennedy... %D and %M,,
+240130,Nathan,Foley,RI,30,98,134,126,71,103,11,14,1,8,0,1,0,0,1, Full Time,news,%2 Hannebery... %O and %T plus %s,,
+270896,Trent,Cotchin,RI,19,96,111,123,71,103,15,12,2,5,1,0,0,0,0, Full Time,news,Starting forward to try to shake the Bird tag... %D and %T with %M,,
+240707,Daniel,Jackson,RI,19,88,79,114,72,93,10,8,10,3,0,0,0,0,0, Full Time,news,%D and %M,tagger,Tagging Parker
+290847,Dustin,Martin,RI,20,87,88,110,70,98,13,11,2,4,1,2,2,1,1, Full Time,news,%P and %T plus %s,,
+210048,Chris,Newman,RI,14,86,116,109,68,93,16,9,5,1,0,1,0,0,0, Full Time,news,Forward tag on him by Jack but freed up to be loose man in Q3... %O and %M,,
+250395,Jack,Riewoldt,RI,17,82,96,101,68,80,8,1,5,3,1,0,0,4,4, Full Time,news,First goal... %s from %D on Grundy... also %T,,
+250623,Robin,Nahas,RI,20,82,97,109,60,82,10,6,5,6,0,0,0,0,1, Full Time,lebanon,%s from %O on Smith,,
+250312,Bachar,Houli,RI,15,80,79,100,69,99,11,15,5,2,0,0,2,0,0, Full Time,news,%B among %O with %M,job,Minding McGlynn
+290823,Reece,Conca,RI,20,80,90,104,62,84,10,7,4,5,0,1,1,1,0, Full Time,news,%D and %T with %M and %s,job,Playing in defence on Bolton
+260433,Steven,Morris,RI,13,74,73,95,59,78,11,7,6,2,0,1,0,0,0, Full Time,news,%P and %M,job,Chasing Jetta
+220071,Brad,Miller,RI,16,69,65,88,60,72,9,1,8,1,3,0,1,2,0, Full Time,news,Kicked %s from %P and %G on Johnson,,
+260930,Shane,Edwards,RI,9,65,76,78,56,76,7,13,4,1,1,1,0,0,0, Full Time,news,Mattner on him... %P,,
+292025,Matt,Dea,RI,4,52,65,64,43,60,3,11,3,3,0,0,0,0,0, Full Time,job,Standing White... %D,,
+291437,Jake,Batchelor,RI,4,50,81,63,42,57,6,8,3,2,0,2,1,0,0, Full Time,injured,Big job on O'Keefe... %D and %M with %T... ankle knock in Q3,subbed,Subbed off in Q4 for Ellis
+271437,Jake,King,RI,3,32,34,44,28,39,6,2,4,1,0,0,2,0,0, Full Time,news,%P,,
+293713,Brandon,Ellis,RI,0,6,2,6,6,9,0,3,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Batchelor... %D,sub,Started as a sub
+290117,Daniel,Hannebery,SY,24,97,78,81,76,98,11,7,7,5,0,1,0,1,2, Full Time,news,%2 Foley... %D and %T with %M and %s,sore,Tweaked something in his leg in the last five minutes of Q4
+260382,Josh P.,Kennedy,SY,21,83,101,67,70,96,9,12,3,4,0,1,2,2,0, Full Time,news,%2 Tuck... %D,,
+990011,Jude,Bolton,SY,14,82,74,63,61,85,11,8,4,5,0,0,0,0,1, Full Time,news,Playing forward on Conca,,
+220101,Mark,Seaby,SY,26,79,77,82,65,78,4,5,3,6,18,3,1,1,0, Full Time,news,%H,,
+200071,Ryan,O'Keefe,SY,9,78,84,39,58,79,16,3,5,2,0,0,0,0,1, Full Time,news,%s from %P on Batchelor,,
+230132,Nick,Malceski,SY,14,74,77,47,53,73,13,3,4,4,1,0,0,0,0, Full Time,crown,Responsible for King... %D,,
+250338,Nick,Smith,SY,15,72,86,62,49,69,9,4,3,7,0,0,0,0,0, Full Time,job,Chasing Nahas... %P and %T,,
+230253,Jarrad,McVeigh,SY,13,71,66,44,61,84,12,8,7,1,0,0,2,0,0, Full Time,news,%P up forward on Grigg,,
+230140,Ben,McGlynn,SY,15,65,55,57,48,63,7,4,3,5,0,1,0,1,0, Full Time,news,Houli on him... didn't touch it in Q1,,
+281281,Lewis,Jetta,SY,8,64,49,40,49,69,11,6,3,3,0,1,1,0,0, Full Time,news,%O on Morris,,
+240226,Kieren,Jack,SY,9,63,76,30,52,75,13,7,4,1,0,0,2,0,0, Full Time,news,Forward tag role on Newman in the first half then went into midfield... %P,,
+291450,Alex,Johnson,SY,5,62,61,49,48,63,8,5,5,3,0,1,0,0,0, Full Time,job,Moved from Miller to Riewoldt in Q3... %M and %P,,
+220063,Martin,Mattner,SY,4,55,57,35,42,57,9,5,3,2,0,1,0,0,0, Full Time,job,Moved from Edwards to Miller in Q3... %P,,
+261257,Andrejs,Everitt,SY,9,53,58,37,39,50,8,1,2,3,1,1,0,1,1, Full Time,news,%O and %T on Grimes,,
+261212,Craig,Bird,SY,8,52,69,37,36,51,8,4,1,4,0,1,0,0,0, Full Time,news,%O,tagger,Tagging Cotchin
+270570,Trent,Dennis-Lane,SY,15,50,46,47,37,46,5,0,4,4,0,0,0,1,1, Full Time,news,On in Q3 for Parker... %s from %P and %M with %T,sub,Started as a sub
+290788,Luke,Parker,SY,3,49,50,30,39,54,8,6,3,1,0,0,0,0,0, Full Time,injured,Tagged by Jackson... %O and %M... left knee knock in Q2,subbed,Subbed off in Q3 for Dennis-Lane
+250212,Jesse,White,SY,4,42,48,37,36,45,4,3,3,2,9,1,1,0,0, Full Time,news,%D on Dea... also %H,,
+200023,Rhyce,Shaw,SY,8,39,42,30,29,45,6,4,1,4,0,0,2,0,0, Full Time,news,%D and %T,tagger,Tagging Deledio
+240072,Heath,Grundy,SY,9,34,42,31,29,39,3,4,2,2,0,0,1,1,0, Full Time,switch,Standing Riewoldt... moved forward in Q3... %P and %s,,
+210027,Ted,Richards,SY,2,29,58,22,23,33,4,4,1,2,0,1,1,0,0, Full Time,job,Martin on him to start with then went to Riewoldt in Q3... %P,,
+290188,Samuel,Reid,SY,1,16,18,16,15,21,1,4,1,1,0,1,1,0,0, Full Time,news,%P on Rance,,

@@ -1,0 +1,48 @@
+Port Adelaide,Power,Essendon,Bombers,R3,17.10.112,7.9.51, Full Time
+Apr 8,2016,7.50,Adelaide,,,10460301,,0,Partly cloudy,21,,
+#####
+
+290156,Jasper,Pittard,PA,20,110,89,143,88,120,20,9,9,2,0,0,1,0,0, Full Time,hot,%O and %M plus %T,guard,Starting off a HBF,,,,,Back,29,0,0,0,0.00,0.00,0.00,,,,1,0,4,93,92
+290738,Jared,Polec,PA,27,103,123,132,78,105,13,10,4,6,0,2,0,1,0, Full Time,astronaut,Starting on a wing... %D and %M with %T... %s as well,,,,,,,Midfielder,21,0,0,0,0.00,0.00,0.00,,,,8,1,1,69,82
+261396,Robbie,Gray,PA,21,93,123,109,80,112,11,19,1,2,0,1,1,2,1, Full Time,star,Supreme in the clinches... %P and %T plus %s,sore,Had his nose rearranged in Q2 in an accidental clash with the arm of Leuenberger,,,,,Midfielder,9,0,0,0,0.00,0.00,0.00,,,,22,12,4,66,86
+271078,Matthew,Broadbent,PA,19,93,111,117,79,108,14,13,8,1,0,0,1,0,0, Full Time,seagull,%M and %D,plusone,Seventh defender,,,,,Back,5,0,0,0,0.00,0.00,0.00,,,,9,1,5,77,90
+294318,Ollie,Wines,PA,36,90,93,113,76,114,4,21,1,9,3,0,4,1,0, Full Time,news,%O with %b by hand... also %T... and booted %s... conceded %F,,,,,,,Midfielder,16,0,0,0,0.00,0.00,0.00,,,,15,6,8,60,70
+293042,Jimmy,Toumpas,PA,14,88,83,107,74,103,12,16,5,1,0,0,0,0,1, Full Time,news,Coming off a wing... %O and %M plus %s,,,,,,,Midfielder,18,0,0,0,0.00,0.00,0.00,,,,12,3,4,64,89
+261911,Brad,Ebert,PA,27,85,86,110,72,99,9,9,4,6,7,1,4,1,2, Full Time,news,%P and %M plus %T... %s as well... not helped by %F,,,,,,,Midfielder,7,0,0,0,0.00,0.00,0.00,,,,8,3,5,66,82
+290546,Aaron,Young,PA,21,84,101,101,71,91,9,9,4,2,0,0,0,3,1, Full Time,news,Starting on a HFF... %P and %M plus %T... %s as well,,,,,,,Midfielder,40,0,0,0,0.00,0.00,0.00,,,,7,0,1,72,81
+290722,Sam,Gray,PA,19,83,78,111,67,93,12,8,6,5,0,2,3,0,0, Full Time,news,%D and %M with %T... conceded %F,,,,,,,Midfielder,46,0,0,0,0.00,0.00,0.00,,,,5,0,5,50,73
+260750,Justin,Westhoff,PA,16,81,85,101,70,86,9,5,7,2,4,1,1,2,1, Full Time,news,%s from %D and %M with %T,spearhead,Starting at CHF on Hartley,,,,,Forward,39,0,0,0,0.00,0.00,0.00,,,,5,2,1,92,87
+250365,Travis,Boak,PA,20,78,90,97,65,91,9,13,2,4,0,2,2,1,1, Full Time,news,First goal... %D and %M with %T... %s as well,,,,,,,Midfielder,1,0,0,0,0.00,0.00,0.00,,,,6,2,3,77,78
+292145,Tom,Jonas,PA,14,75,91,98,57,78,8,8,5,5,0,0,0,0,0, Full Time,news,%O and %M plus %T,job,Starting on Ambrose,,,,,Back,42,0,0,0,0.00,0.00,0.00,,,,5,0,2,81,89
+297354,Karl,Amon,PA,12,73,77,93,58,72,11,2,5,2,0,1,0,2,0, Full Time,news,Playing small forward... %P including %K... also %M and %T... and booted %s,,,,,,,Midfielder,15,0,0,0,0.00,0.00,0.00,,,,2,0,0,76,69
+261230,Matthew,Lobbe,PA,20,70,60,85,57,66,5,2,2,4,27,2,0,0,0, Full Time,news,%H... also %D and %T,,,,,,,Ruck,23,0,0,0,0.00,0.00,0.00,,,,3,3,2,57,87
+280711,Charlie,Dixon,PA,16,68,100,83,60,71,10,2,5,0,0,2,1,3,2, Full Time,news,%s from %P and %M,spearhead,Starting at FF on Gwilt,,,,,Forward,22,0,0,0,0.00,0.00,0.00,,,,7,0,1,75,92
+291947,Brendon,Ah Chee,PA,14,67,86,83,58,83,5,15,3,4,2,1,2,0,0, Full Time,news,%O including %B... also %T and %M,,,,,,,Midfielder,41,0,0,0,0.00,0.00,0.00,,,,14,4,3,75,70
+294604,Jake,Neade,PA,8,55,61,68,44,61,5,10,2,3,0,1,0,0,1, Full Time,news,Playing small forward... %s from %D and %M with %T,,,,,,,Forward,3,0,0,0,0.00,0.00,0.00,,,,6,1,0,60,88
+291964,Jack,Hombsch,PA,8,48,39,62,40,51,8,3,6,0,0,0,0,0,0, Full Time,news,%P including %K... also %M,job,Has Brown,,,,,Back,36,0,0,0,0.00,0.00,0.00,,,,2,0,1,81,91
+991930,Darcy,Byrne-Jones,PA,8,48,61,58,39,54,7,7,1,1,0,0,0,1,0, Full Time,rookie,First game... %P and %s,,,,,,,Back,33,0,0,0,0.00,0.00,0.00,,,,2,0,0,92,73
+270779,Paul,Stewart,PA,9,46,32,59,35,48,3,7,2,4,0,1,0,0,0, Full Time,spearhead,Playing third tall forward... %D and %M with %T,sore,Right knee problem in Q3,,,,,Forward,14,0,0,0,0.00,0.00,0.00,,,,5,0,4,40,68
+296254,Jarman,Impey,PA,3,40,56,50,37,54,5,9,3,1,0,0,2,0,0, Full Time,news,%M and %O,guard,Starting in defence,,,,,Back,24,0,0,0,0.00,0.00,0.00,,,,4,0,3,85,73
+280013,Jackson,Trengove,PA,2,18,25,23,19,27,3,4,2,0,0,1,2,0,0, Full Time,news,One handball to HT... %M and %O,job,At FB on Daniher,,,,,Back,12,0,0,0,0.00,0.00,0.00,,,,1,0,3,71,92
+992016,Zach,Merrett,ES,37,128,99,108,99,135,15,13,9,8,0,1,1,0,0, Full Time,cherry,%P and %M plus %T,,,,,,,Forward,7,0,0,0,0.00,0.00,0.00,,,,9,3,6,71,78
+270951,David,Zaharakis,ES,26,112,101,82,82,114,16,11,4,7,0,2,0,0,0, Full Time,gun,%D and %M with %T,,,,,,,Midfielder,11,0,0,0,0.00,0.00,0.00,,,,11,8,3,77,80
+230084,Brendon,Goddard,ES,33,106,125,96,82,111,10,12,4,8,3,2,1,1,0, Full Time,hot,%O and %M plus %T... %s as well,quarterback,Starting in midfield then floating a kick behind the play,,,,,Midfielder,9,0,0,0,0.00,0.00,0.00,,,,7,4,1,81,89
+220058,James,Kelly,ES,19,101,121,66,82,111,15,14,6,2,0,2,0,0,0, Full Time,hot,%P and %M plus %T,,,,,,,Back,47,0,0,0,0.00,0.00,0.00,,,,12,1,3,75,93
+296334,Orazio,Fantasia,ES,21,100,87,92,77,107,9,14,5,7,1,0,0,0,1, Full Time,hot,%D and %M with %T... %s as well,,,,,,,Back,13,0,0,0,0.00,0.00,0.00,,,,8,4,3,73,71
+230041,Adam,Cooney,ES,15,89,83,54,70,100,15,11,4,3,0,0,1,0,1, Full Time,news,Starting on wing... %O and %M plus %T... %s as well,,,,,,,Midfielder,17,0,0,0,0.00,0.00,0.00,,,,10,7,3,69,74
+295599,Patrick,Ambrose,ES,20,89,83,77,74,93,9,7,9,3,2,0,0,1,1, Full Time,news,%s from %O and %M plus %T,spearhead,Third tall forward on Jonas,,,,,Forward,29,0,0,0,0.00,0.00,0.00,,,,3,0,1,62,88
+298630,Kyle,Langford,ES,20,81,67,80,60,81,7,7,6,7,0,0,0,0,0, Full Time,news,Playing small forward... %P and %M plus %T,,,,,,,Forward,30,0,0,0,0.00,0.00,0.00,,,,6,2,1,78,77
+292025,Matt,Dea,ES,15,80,95,62,62,84,10,10,4,4,0,2,0,0,0, Full Time,cash,%O and %M plus %T,guard,Starting off halfback,,,,,Back,49,0,0,0,0.00,0.00,0.00,,,,7,0,1,80,83
+294092,Anthony,McDonald-Tipungwuti,ES,25,76,71,77,56,81,6,10,3,8,0,0,1,0,0, Full Time,cash,%D and %M with %T,guard,Playing back,,,,,Back,43,0,0,0,0.00,0.00,0.00,,,,5,0,3,81,82
+250335,Matthew,Leuenberger,ES,22,73,59,72,69,87,4,7,3,4,33,1,4,0,0, Full Time,news,%H... also %D and %T... gave away %F,,,,,,,Ruck,22,0,0,0,0.00,0.00,0.00,,,,5,2,5,81,82
+297438,Martin,Gleeson,ES,14,70,73,59,58,78,8,9,5,4,0,3,2,0,0, Full Time,news,%O and %M plus %T... umps paid him %4FF,guard,Coming off halfback,,,,,Back,8,0,0,0,0.00,0.00,0.00,,,,5,1,3,94,84
+250703,James,Gwilt,ES,9,69,59,37,54,75,13,7,3,2,0,2,1,0,0, Full Time,news,%O and %M plus %T,job,At FB on Dixon,,,,,Back,42,0,0,0,0.00,0.00,0.00,,,,3,0,5,60,87
+993817,Darcy,Parish,ES,13,67,83,61,54,78,5,16,1,4,0,1,0,0,0, Full Time,cash,%P including %B... also %T,,,,,,,Midfielder,3,0,0,0,0.00,0.00,0.00,,,,10,2,0,76,66
+294518,Joe,Daniher,ES,15,64,53,46,56,65,8,3,6,0,1,2,0,2,1, Full Time,news,Booted %s from %G and %P,spearhead,Starting at FF on Trengove,,,,,Forward,6,0,0,0,0.00,0.00,0.00,,,,3,0,1,54,86
+230214,Mathew,Stokes,ES,8,63,57,43,52,73,9,10,3,2,0,1,1,0,1, Full Time,news,%O and %M plus %T... %s as well,,,,,,,Midfielder,48,0,0,0,0.00,0.00,0.00,,,,6,1,3,78,79
+294798,Mark,Baguley,ES,8,56,62,37,48,63,8,8,5,0,0,1,0,0,0, Full Time,news,%M and %P,guard,Playing off a HBF,,,,,Back,12,0,0,0,0.00,0.00,0.00,,,,3,0,0,100,86
+230048,Ryan,Crowley,ES,4,55,28,34,44,58,9,5,4,1,0,1,0,0,1, Full Time,news,Playing small forward... %O and %M plus %s,,,,,,,Midfielder,51,0,0,0,0.00,0.00,0.00,,,,4,1,3,35,85
+291686,Nick,Kommer,ES,10,47,38,45,42,51,3,5,3,2,0,2,1,2,0, Full Time,news,%s from %P and %M plus %T,,,,,,,Forward,38,0,0,0,0.00,0.00,0.00,,,,4,0,2,62,78
+290622,Mitch W.,Brown,ES,8,46,38,43,33,48,5,4,2,5,0,0,1,0,0, Full Time,cash,%O and %M plus %T,spearhead,Second tall forward on Hombsch,,,,,Back,28,0,0,0,0.00,0.00,0.00,,,,2,0,2,66,82
+294077,Michael,Hartley,ES,9,46,53,41,35,51,5,6,2,4,0,0,1,0,0, Full Time,bubble,Second game... %P and %M plus %T,job,At CHB on Westhoff,,,,,Back,36,0,0,0,0.00,0.00,0.00,,,,3,0,3,90,89
+295285,Jackson,Merrett,ES,8,21,16,22,22,33,1,6,0,2,0,1,3,1,0, Full Time,cold,Gave away a few silly frees for Port goals early... %s from %O and %T... gave away %F,,,,,,,Forward,20,0,0,0,0.00,0.00,0.00,,,,4,1,4,42,81

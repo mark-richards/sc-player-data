@@ -1,0 +1,48 @@
+Essendon,Bombers,Geelong,Cats,R15,18.7.115,16.15.111, Full Time
+Jul 2,2011,7:10,Docklands,Ten,200039,10311504,5581,114,Roof closed,17,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>banj</em>: great game<br><em>Mr.Magpie</em>: I love u stevie j<br><em>BlueBoys#5</em>: could not care less coz afterall we r better than essendon but worse than collingwood and geelong but not to cats by muc<br><em>the_m3</em>: colyer&#044; great last quarter!!! <br><em>GoLions</em>: *put<br><em>layngarys </em>: @ go lions - haha yeah i heard that on channel 10<br><em>bickies</em>: heppell on bench for hibberd&#044; would love for mcmahon to be a late withdrawl tomorrow<br><em>Swiz26</em>: Ha Ha - Mate just text me - Gee beat Coll&#044; now we beat Gee so we are the best in the comp.. its started<br><em>GoLions</em>: didnt someone but $1 million on geelong to win? lol.<br><em>SeanJohn</em>: I go 4 bombers nd just wanted to say we arnt all cocky ;) yeah we won&#044; but we lost to dees north tiges ect... Aha<br><em>Swiz26</em>: Everyone in my sc has scored over 100 so far - should of went Gazza as captain though!!!<br>
+250569,Heath,Hocking,ES,50,119,120,155,89,126,6,19,4,13,0,2,1,0,0, Full Time,hot,%O and %M with %T,tagger,Tagging Kelly
+260073,Ben,Howlett,ES,37,119,111,152,88,120,13,14,2,9,0,4,0,1,0, Full Time,star,%O and %T plus %s,,
+280824,Jake,Melksham,ES,36,116,115,154,92,132,18,11,6,7,0,0,4,1,0, Full Time,hot,%P with %k by foot... also %T and %M,,
+240027,Brent,Stanton,ES,26,112,103,146,85,119,15,12,5,7,1,1,1,0,1, Full Time,hot,Tagged by Ling... %P and %T plus %M and %s,,
+240290,Angus,Monfries,ES,37,110,110,142,93,124,13,9,7,6,0,1,4,3,1, Full Time,x-factor,%s from %P and %M on Enright... also %T,,
+250267,Patrick,Ryder,ES,31,103,110,125,87,106,8,7,6,4,24,0,0,1,1, Full Time,hot,%s from %D and %G on Lonergan... also %T and %H,,
+290629,Dyson,Heppell,ES,25,100,102,119,87,116,13,17,6,0,2,1,0,1,0, Full Time,hot,%P and %M plus %s,job,Running off Duncan
+250049,Brent,Prismall,ES,15,91,82,119,69,93,14,8,4,5,0,4,1,0,0, Full Time,news,%D and %T with %M,,
+292503,Stewart,Crameri,ES,17,83,113,100,72,96,7,14,4,3,0,1,1,2,0, Full Time,news,%s from %O and %G on Taylor... also %T,,
+271022,Tayte,Pears,ES,18,82,92,107,64,84,10,7,7,4,0,1,0,0,0, Full Time,job,Has Brown... %P and %M with %T,,
+270951,David,Zaharakis,ES,20,81,82,105,66,89,11,7,5,4,0,1,2,1,2, Full Time,news,%s from %P and %M with %T,,
+270935,Michael,Hurley,ES,13,77,100,98,63,84,10,9,7,2,0,0,0,0,0, Full Time,ipod,In defence on Podsiadly... %D and %M,,
+250352,Leroy,Jetta,ES,19,71,77,90,62,84,9,9,6,2,0,0,2,1,0, Full Time,sore,%s from %P and %M on Wojcinski... left leg knock in Q4,,
+270584,Kyle,Hardingham,ES,9,70,55,88,57,78,13,8,5,0,0,0,0,0,0, Full Time,news,%P and %M,job,Chasing Johnson
+290160,Michael,Hibberd,ES,13,68,80,85,61,84,9,12,6,1,0,1,2,0,0, Full Time,job,Minding Stokes... %D and %M,,
+200026,David,Hille,ES,15,66,69,77,60,70,4,5,5,1,19,0,0,1,0, Full Time,news,%H and %P with %M,,
+960197,Dustin,Fletcher,ES,12,66,68,86,52,69,14,3,6,0,0,0,0,0,0, Full Time,job,On Vardy... %O and %M,,
+261324,Kyle,Reimers,ES,10,56,55,72,43,55,7,3,3,3,0,1,0,1,1, Full Time,news,Mackie on him... %s from %D and %M with %T,,
+280988,Travis,Colyer,ES,9,47,68,53,41,55,6,8,0,0,0,0,0,2,1, Full Time,heart,On in Q2 for Welsh... %P and %s... left ankle knock in Q3,sub,Started as a sub
+220115,Andrew,Welsh,ES,10,44,37,52,40,48,4,4,4,0,0,0,0,2,0, Full Time,injured,Forward tag on Scarlett... %s from %P and %M... left hamstring pinged in Q2,subbed,Subbed off in Q2 for Colyer
+230051,Alwyn,Davey,ES,9,36,43,43,33,45,3,7,2,1,0,0,1,1,0, Full Time,news,%s from %D and %M on Josh Hunt,,
+990046,Mark,McVeigh,ES,8,30,35,47,25,45,9,2,0,4,0,1,6,0,0, Full Time,tagger,Tagging Bartel... %O and %T.... also %F,sore,Left shoulder/chest knock in Q3
+200039,Paul,Chapman,GE,37,128,125,98,100,132,16,12,6,6,0,2,0,2,0, Full Time,gun,%O and %T with %M and %s,,
+220054,Steve,Johnson,GE,38,110,102,100,86,110,10,8,4,8,0,3,1,3,2, Full Time,superman,%s from %D and %M on Hardingham.. also %T... three majors in Q4,sore,Left hand problem in Q2
+220058,James,Kelly,GE,48,97,82,93,67,99,10,8,0,13,0,2,3,1,0, Full Time,tagged,Tagged by Hocking... %s from %O and %T... also %F,,
+980064,Brad,Ottens,GE,33,96,103,95,87,106,5,8,6,4,31,0,2,1,0, Full Time,news,%H with %P and %T... also %M and %s,,
+200035,Corey,Enright,GE,19,95,113,53,73,102,18,7,6,3,0,0,1,0,0, Full Time,job,Monfries is his man... %D and %T with %M,,
+230214,Mathew,Stokes,GE,20,86,91,68,67,90,11,7,5,5,0,1,1,1,0, Full Time,news,%P and %T on Hibberd,,
+210059,Josh,Hunt,GE,25,84,75,78,60,82,8,9,2,8,0,3,0,0,1, Full Time,job,Minding Davey... %D and %T,sore,Off in Q4 after a knock
+220007,Jimmy,Bartel,GE,14,82,81,58,62,81,12,7,4,4,0,4,0,0,0, Full Time,tagged,Tagged by McVeigh... %P and %M with %T,,
+230248,Andrew,Mackie,GE,22,81,81,82,58,81,7,7,4,9,0,1,1,0,0, Full Time,job,On Reimers... %P and %T with %M,,
+281065,Mitch,Duncan,GE,17,78,74,69,62,80,8,4,5,5,1,0,1,2,1, Full Time,news,Heppell on him... %P and %T plus %M,,
+261497,Harry,Taylor,GE,14,73,88,61,58,76,9,5,7,4,0,1,1,0,1, Full Time,news,%M and %O with %T and %s,job,Running off Crameri
+200037,Cameron,Ling,GE,13,63,53,20,50,72,15,6,0,1,0,2,2,1,0, Full Time,tagger,Tagging Stanton... %O and %s,,
+280918,Allen,Christensen,GE,14,56,60,47,44,55,6,3,1,4,0,3,1,2,1, Full Time,news,First goal... %s from %O and %T,,
+291307,Daniel,Menzel,GE,4,55,47,40,41,57,8,5,3,3,0,0,0,0,0, Full Time,sore,%P and %M with %T... gashed on the left thigh in a marking contest with Welsh in Q2,,
+280990,Steven,Motlop,GE,14,54,47,35,37,52,9,2,0,4,0,0,0,1,1, Full Time,news,%s from %D and %T,,
+290622,Mitchell W.,Brown,GE,3,43,33,26,35,44,8,0,5,1,0,1,1,0,2, Full Time,bubble,Second game... %s from %O and %G on Pears,sore,Left shoulder problem in Q4
+980037,Matthew,Scarlett,GE,8,43,47,34,31,45,6,4,1,4,0,1,1,0,0, Full Time,news,Forward tag on him by Welsh in the first half... %O and %T,,
+990076,David,Wojcinski,GE,9,41,62,34,37,54,4,9,1,2,0,0,2,1,0, Full Time,job,Responsible for Jetta... %O,,
+200131,James,Podsiadly,GE,2,34,44,27,28,36,4,3,3,1,0,0,0,0,3, Full Time,news,Hurley on him... %s from %D and %G,,
+280959,Nathan,Vardy,GE,8,32,35,29,30,35,2,2,1,1,10,1,1,1,1, Full Time,news,%P and %s on Fletcher... also %H,,
+230125,Tom,Lonergan,GE,1,22,22,21,16,22,2,2,1,2,1,0,0,0,0, Full Time,job,Has Ryder... %D and %T,subbed,Subbed off in Q3 for Gillies
+280125,Tom,Gillies,GE,0,4,9,4,4,6,0,2,0,0,0,0,0,0,0, Full Time,in,%l Joel Corey (achilles)... on in Q3 for Lonergan,sub,Started as a sub

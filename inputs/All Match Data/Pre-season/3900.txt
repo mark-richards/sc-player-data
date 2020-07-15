@@ -1,0 +1,48 @@
+Richmond,Tigers,North Melbourne,Kangaroos,W1,9.26.80,6.11.47, Full Time
+Feb 17,2012,6.45,Docklands,Fox Footy,,10330101,,1,Roof closed,22,,
+
+<em>Grazz</em>: Hello all&#044; welcome back for 2012. No live footy into SA&#044; Aussies getting pumped in the cricket but the grog is cold.<br><em title="CAMELTOES!">cameltoes!</em>: what has monty done wrong this early in the year?<br><em>brent_bren</em>: where are the scores on the dt site? dont u mean afl site???<br><em>brent_bren</em>: cant see any scores on the dreamteam site?? dont u mean afl site??<br><em>Torpedo10</em>: the scores look abit weird. :/<br><em>whatlez1</em>: Dustin Martin 43. Good start<br><em>Torpedo10</em>: Swallow on 02? Morris on 06&#044; OHanlon on 57 FF points but o DT. and time I don't think is correct. hmm.<br><em>tabs</em>: hmm did Derrickx play up front??<br><em>Torpedo10</em>: So North win? :P I'm aboit confused. :P<br><em>whatlez1</em>: Dustin Martin 43 points&#044; b.ellis 14<br><em>windigo24</em>: DT top scorers were Miller & Edwards...<br><em>Torpedo10</em>: hey guys.<br>
+220071,Brad,Miller,RI,9,47,-,57,40,47,5,2,3,1,0,1,0,2,2, Full Time,,,,,100
+290847,Dustin,Martin,RI,8,43,-,53,34,46,7,4,1,1,0,0,0,1,1, Full Time,,,,,83
+240546,Ivan,Maric,RI,4,34,-,43,27,36,3,2,0,3,12,0,1,0,0, Full Time,,,,,100
+250623,Robin,Nahas,RI,7,34,-,43,26,33,6,1,1,1,0,1,0,1,0, Full Time,,,,,100
+290823,Reece,Conca,RI,3,30,-,39,25,33,3,4,2,2,0,2,1,0,0, Full Time,,,,,72
+250312,Bachar,Houli,RI,2,26,-,31,21,30,5,5,0,0,0,1,0,0,0, Full Time,,,,,72
+271437,Jake,King,RI,8,26,-,34,23,33,3,3,1,2,0,0,2,1,0, Full Time,,,,,99
+210048,Chris,Newman,RI,1,24,-,29,20,27,4,4,1,0,0,1,0,0,0, Full Time,,,,,90
+291437,Jake,Batchelor,RI,1,24,-,35,16,24,4,0,1,3,0,0,1,0,0, Full Time,,,,,74
+260433,Steven,Morris,RI,1,21,-,26,16,18,3,2,0,1,0,4,0,0,0, Full Time,,,,,87
+291835,Matthew,Arnot,RI,6,18,-,26,10,15,0,1,0,4,0,0,0,0,0, Full Time,,,,,17
+294797,Tom,Derickx,RI,6,18,-,22,15,18,1,1,1,1,0,0,0,1,0, Full Time,,,,,81
+260930,Shane,Edwards,RI,1,17,-,22,12,18,1,3,0,2,0,0,0,0,0, Full Time,,,,,84
+270896,Trent,Cotchin,RI,1,17,-,22,15,21,2,3,1,1,0,1,1,0,0, Full Time,,,,,81
+250298,Shaun,Grigg,RI,1,16,-,22,15,24,3,3,1,1,0,0,2,0,0, Full Time,,,,,93
+261362,Alex,Rance,RI,2,14,-,19,15,21,3,2,2,0,0,1,2,0,0, Full Time,,,,,100
+293713,Brandon,Ellis,RI,0,14,-,18,11,15,1,2,1,1,0,0,0,0,0, Full Time,,,,,78
+250395,Jack,Riewoldt,RI,0,12,-,16,9,12,1,1,1,1,0,0,0,0,0, Full Time,,,,,100
+240256,Luke,McGuane,RI,0,10,-,14,7,9,1,0,1,1,0,0,0,0,0, Full Time,,,,,96
+280819,Dylan,Grimes,RI,0,10,-,13,8,9,2,0,1,0,0,1,0,0,0, Full Time,,,,,86
+292500,Jeromey,Webberley,RI,0,10,-,12,9,12,1,2,1,0,0,0,0,0,0, Full Time,,,,,88
+295325,Brett,O'Hanlon,RI,0,6,-,8,5,6,1,0,1,0,0,0,0,0,0, Full Time,,,,,19
+230240,Aaron,Edwards,NM,14,47,-,56,40,45,5,1,2,1,0,2,0,3,0, Full Time,,,,,89
+280944,Jack,Ziebell,NM,13,39,-,53,30,42,5,2,1,4,0,1,2,1,0, Full Time,,,,,80
+240417,Andrew,Swallow,NM,8,34,-,42,26,30,4,2,0,2,0,4,0,1,0, Full Time,,,,,91
+270325,Robbie,Tarrant,NM,8,31,-,40,27,34,4,1,3,1,0,0,1,1,1, Full Time,,,,,100
+210023,Drew,Petrie,NM,8,25,-,31,23,28,4,1,2,0,1,1,1,1,0, Full Time,,,,,100
+250135,Scott,McMahon,NM,2,25,-,31,21,27,4,3,2,0,0,1,0,0,0, Full Time,,,,,100
+280863,Ryan,Bastinac,NM,2,25,-,34,17,24,4,1,1,2,0,0,0,0,0, Full Time,,,,,71
+230141,Hamish,McIntosh,NM,1,24,-,30,20,25,2,2,2,1,4,0,0,0,0, Full Time,,,,,80
+280921,Ben,Cunnington,NM,1,21,-,27,18,27,3,4,1,1,0,0,1,0,0, Full Time,,,,,75
+960491,Brent,Harvey,NM,1,21,-,29,16,24,5,1,1,1,0,0,1,0,0, Full Time,,,,,96
+270861,Levi,Greenwood,NM,1,18,-,23,14,18,4,1,1,0,0,1,0,0,0, Full Time,,,,,26
+271129,Todd,Goldstein,NM,1,18,-,23,13,18,1,2,0,2,3,0,0,0,0, Full Time,,,,,73
+240131,Nathan,Grima,NM,1,16,-,22,12,15,2,0,2,1,0,0,0,0,0, Full Time,,,,,47
+250373,Lachlan,Hansen,NM,0,13,-,16,11,15,2,2,1,0,0,0,0,0,0, Full Time,,,,,100
+281395,Scott D.,Thompson,NM,0,13,-,16,11,15,2,2,1,0,0,0,0,0,0, Full Time,,,,,100
+230272,Michael,Firrito,NM,1,9,-,11,11,18,2,4,0,0,0,1,2,0,0, Full Time,,,,,100
+240189,Matt,Campbell,NM,0,9,-,12,7,9,2,0,1,0,0,0,0,0,0, Full Time,,,,,83
+290194,Jamie,MacMillan,NM,1,9,-,11,9,15,2,3,0,0,0,0,1,0,0, Full Time,,,,,100
+290547,Kieran,Harper,NM,0,9,-,11,9,15,0,4,0,1,0,0,1,0,0, Full Time,,,,,67
+290787,Shaun,Atley,NM,0,8,-,8,8,12,0,4,0,0,0,0,0,0,0, Full Time,,,,,100
+250285,Leigh,Adams,NM,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,28
+261909,Lindsay,Thomas,NM,0,-1,-,0,2,6,1,1,0,0,0,0,2,0,0, Full Time,,,,,94

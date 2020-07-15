@@ -1,0 +1,48 @@
+Richmond,Tigers,West Coast,Eagles,R5,14.13.97,16.11.107, Full Time
+Apr 29,2012,3:15,Docklands,Seven,270896,10340508,430051,0,Roof closed,16,,
+
+<em style='margin-bottom:-2px'><b class="ticon tFR"></b> Ace Manuva</em>: Gaff! Nice work son!<br><em>switch200</em>: lol @ glam77<br><em>Kraz</em>: supercoach can be so retarded...ow does foley habe a bigger sc score than priddis????<br><em>twsherrin</em>: Ellis -8 after he went off - must have been ordinary on the bench<br><em>bert1</em>: gun for kerr <br><em>E Kavastar</em>: Deledio 129sc&#044; Martin 112sc... Martin could have gone so much higher...<br><em>Jormas</em>: dea got a handball!<br><em>Demons15</em>: well as is the consensus on this site&#044; it's all hardwick's fault they lost that game<br><em>Kraz</em>: you would take 105 from martin every day of the week....<br><em>Cman</em>: kerr star<br><em>JuddMyBud</em>: Tigers will push for. The top 8<br><em>theuncle</em>: give gun to martin <br>
+270896,Trent,Cotchin,RI,25,110,123,137,91,118,17,12,6,2,0,5,1,1,1, Full Time,hot,Scott Selwood moved to him in Q2... %P and %M with %T plus %s,,
+240130,Nathan,Foley,RI,30,109,125,142,87,123,12,15,7,7,0,0,2,0,0, Full Time,hot,%2 Scott Selwood then freed up in Q2... %O and %M with %T,,
+290847,Dustin,Martin,RI,21,105,112,131,82,111,17,9,3,3,0,0,0,2,3, Full Time,hot,%P and %M plus %s,,
+240336,Brett,Deledio,RI,20,101,129,128,82,110,15,11,8,2,1,0,0,0,1, Full Time,heart,%2 Masten... %D and %T with %M.... right knee knock in Q2... back on after 10 minutes with strapping on it,,
+240546,Ivan,Maric,RI,32,96,103,116,82,98,6,6,6,4,26,0,0,1,0, Full Time,news,First goal... %H and %P with %M and %T... also %s,,
+250298,Shaun,Grigg,RI,19,89,87,111,77,105,12,14,8,1,0,0,1,0,0, Full Time,news,%P and %M,,
+250395,Jack,Riewoldt,RI,16,88,94,111,70,84,12,3,5,3,0,4,0,2,3, Full Time,news,%s from  %G and %D on Schofield... also %T,,
+210048,Chris,Newman,RI,13,81,88,101,68,90,13,10,7,0,0,1,0,0,0, Full Time,news,%D and %M,job,Minding Hams
+250312,Bachar,Houli,RI,14,81,101,108,59,81,14,4,5,4,0,0,0,0,0, Full Time,news,%O and %M with %T,,
+291437,Jake,Batchelor,RI,14,73,74,94,60,78,9,7,8,2,0,0,0,0,0, Full Time,news,%M and %D,job,Moved from Hill to Darling in Q2
+270941,Tyrone,Vickery,RI,16,70,60,87,61,76,7,5,6,2,2,0,1,2,2, Full Time,news,Kicked %s from %G and %D on Glass... also %H and %T,,
+240707,Daniel,Jackson,RI,15,69,63,85,61,76,8,6,6,1,1,1,1,2,0, Full Time,news,%s from %P and %M,tagger,Forward tag on Hurn
+200109,Shane,Tuck,RI,19,65,70,88,50,75,9,8,2,6,0,1,3,0,0, Full Time,news,%2 Priddis... %P and %T with %M,,
+261362,Alex,Rance,RI,9,60,91,79,49,66,9,5,6,2,0,0,1,0,0, Full Time,news,%D and %T with %M,job,Has Kennedy
+220071,Brad,Miller,RI,16,58,75,74,53,64,7,1,5,2,0,2,3,3,1, Full Time,news,Booted %s from %P and %T with %M on Waters,,
+280819,Dylan,Grimes,RI,8,54,45,69,48,63,6,7,7,1,0,0,1,0,0, Full Time,job,Standing Lynch... %M and %O,,
+250623,Robin,Nahas,RI,15,48,45,65,39,60,3,9,2,6,0,0,3,0,0, Full Time,news,%O and %T on Butler... also %M,,
+260433,Steven,Morris,RI,8,48,57,66,34,48,6,3,2,5,0,1,1,0,0, Full Time,job,Moved from Darling to Hill in Q2... %P and %T with %M,,
+290823,Reece,Conca,RI,3,48,41,63,36,54,8,6,1,3,0,0,1,0,0, Full Time,news,%O and %T,,
+293713,Brandon,Ellis,RI,9,47,42,56,40,51,5,7,2,1,0,2,0,1,0, Full Time,news,%D and %M plus %s,subbed,Subbed off in Q3 for White
+240389,Matt,White,RI,1,15,21,20,12,15,3,0,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Ellis,sub,Started as a sub
+292025,Matt,Dea,RI,0,2,10,4,4,9,0,2,0,1,0,0,2,0,0, Full Time,missing,One wonders how he survived the red vest... one touch and %F,,
+270928,Scott,Selwood,WC,50,102,111,98,79,111,9,13,3,10,0,3,3,1,0, Full Time,hot,Moved from Foley to Cotchin in Q2... %D and %T with %M,,
+290801,Andrew,Gaff,WC,20,100,103,64,87,118,15,15,9,0,0,0,1,0,1, Full Time,hot,%D and %M plus %s,,
+240124,Matt,Priddis,WC,26,98,108,77,71,102,13,11,2,8,0,2,1,0,0, Full Time,news,%2 Tuck... %D and %T plus %M,,
+271045,Nic,Naitanui,WC,22,94,112,94,79,98,5,9,5,5,26,0,0,0,0, Full Time,star,%H and %P with %M and %T... his second half clearance work was exceptional,,
+210018,Daniel,Kerr,WC,18,89,131,62,69,99,12,16,1,4,0,2,0,0,0, Full Time,news,%P,,
+220061,Quinten,Lynch,WC,20,85,76,59,71,91,12,6,6,2,0,1,1,2,1, Full Time,news,Kicked %s from %D and %M on Grimes,,
+290838,Jack,Darling,WC,22,85,106,64,73,90,10,5,5,2,0,1,1,4,0, Full Time,x-factor,%s from %D and %G on Morris then Batchelor... also %T... kicked the sealing goal in the last minute,,
+240016,Beau,Waters,WC,14,79,100,56,61,81,12,6,5,4,0,3,1,0,0, Full Time,news,%O and %M with %T,job,Standing Miller
+200112,Dean,Cox,WC,20,74,82,68,67,77,5,5,7,1,16,1,0,1,1, Full Time,news,%H and %D with %M and %s,,
+261209,Josh,Hill,WC,16,71,76,53,61,75,8,6,4,1,0,1,0,3,0, Full Time,news,%s from %O and %M on Batchelor then Morris,,
+261290,Chris,Masten,WC,15,71,99,53,59,84,8,13,0,3,0,0,1,2,0, Full Time,news,%2 Deledio... %O and %s,,
+250111,Matt,Rosa,WC,9,70,47,47,55,78,11,8,4,3,0,0,1,0,0, Full Time,news,%O and %T with %M,,
+240159,Sam,Butler,WC,9,58,58,45,42,57,8,4,3,4,0,1,0,0,0, Full Time,news,%P and %M with %T,job,Chasing Nahas
+250034,Ashton,Hams,WC,10,53,89,43,44,54,5,6,1,2,0,3,0,2,0, Full Time,news,%s from %O and %T on Newman,,
+280078,Luke,Shuey,WC,8,47,66,38,35,51,6,6,1,4,0,1,1,0,0, Full Time,news,%O and %T,,
+261214,Will,Schofield,WC,5,46,55,34,39,54,7,4,5,2,0,0,2,0,0, Full Time,job,Following Riewoldt... %D and %M,mrp,A rabbit punch on Riewoldt in Q2 will be scrutinised
+270953,Ashley,Smith,WC,4,43,51,28,34,48,7,5,2,2,0,1,1,0,0, Full Time,news,%P and %M plus %T,,
+240283,Shannon,Hurn,WC,3,39,69,14,30,42,9,3,2,0,0,0,0,0,0, Full Time,tagged,Forward tag on him by Jackson... %D,,
+200074,Darren,Glass,WC,3,30,46,20,29,39,5,3,5,0,0,0,2,0,0, Full Time,job,Has Vickery... %P and %M,,
+230254,Adam,Selwood,WC,2,28,38,25,19,27,3,3,0,3,0,1,0,0,0, Full Time,news,On in Q2 for Brown... %D,sub,Started as a sub
+240406,Josh J.,Kennedy,WC,7,26,22,22,23,28,3,0,3,1,0,0,1,1,1, Full Time,sore,Booted %s from %G and %P on Rance... left ankle knock in Q2,,
+260303,Mitchell,Brown,WC,0,2,0,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,in,Late replacement for Eric Mackenzie... cut eye in Q1 and it wouldn't stop bleeding,subbed,Subbed off at QT for Adam Selwood

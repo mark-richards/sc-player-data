@@ -1,0 +1,48 @@
+Gold Coast,Suns,Melbourne,Demons,W1,4.2.26,3.5.23, Full Time
+Feb 25,2012,6.10,Gold Coast,Fox Footy,,10330113,,13,Rain periods,24,,
+
+<em>Nigey95</em>: Good work by the Suns!<br><em>Pokerface</em>: has omeara been nicknamed the bomb yet?<br><em>Pokerface</em>: im sorry lynden i didnt realise<br><em>Pokerface</em>: oh<br><em>Zarts</em>: :p<br><em>Zarts</em>: that thing is his face unfortunately poker. <br><em>TheoX</em>: bennell what a spud<br><em>dmagnus</em>: where is Horsely anyways?<br><em>Pokerface</em>: when is dunn getting rid of that thing on his face<br><em>E Kavastar</em>: Unless Gibson can force out highly rated youngsters in Atley and Harper he'll be lucky to survive<br><em>E Kavastar</em>: Can't believe how many people are taking Gibson. Wells and Ziebell will come back into their side after the first week..<br><em>Zarts</em>: :( gorringe hasn't gotten a run yet... must be saving him for 2nd game :( <br>
+296735,Aaron,Hall,GC,10,49,-,62,39,48,4,2,3,3,0,0,0,2,0, Full Time,,,,,100
+240316,Sam,Iles,GC,7,37,-,48,26,39,3,6,0,4,0,0,0,0,0, Full Time,news,%D and %T,,,88
+240712,Michael,Rischitelli,GC,8,35,-,45,26,33,5,1,1,2,0,1,0,1,0, Full Time,news,Playing forward a bit on MacDonald... %s from %O and %T,,,86
+281024,Maverick,Weller,GC,7,35,-,47,24,33,3,3,1,4,0,1,0,0,0, Full Time,job,In defence on Petterd... %P and %T,,,100
+220001,Gary,Ablett jnr,GC,2,33,-,40,27,39,6,6,1,0,0,0,0,0,0, Full Time,tagged,Tagged by Tynan... %D,,,72
+290627,Dion,Prestia,GC,2,33,-,44,27,39,4,5,1,3,0,2,2,0,0, Full Time,news,%P and %T... also %F,,,71
+290832,David,Swallow,GC,7,30,-,43,20,30,4,1,1,4,0,0,1,0,0, Full Time,news,%O and %T,,,83
+220009,Nathan,Bock,GC,1,27,-,35,21,27,6,2,0,1,0,4,1,0,0, Full Time,news,Starting FF on Garland... %O,,,100
+281025,Luke,Russell,GC,1,24,-,33,16,21,2,1,1,3,0,1,0,0,0, Full Time,news,%P and %T on Bartram,,,100
+200020,Josh,Fraser,GC,6,18,-,22,16,21,2,1,0,1,3,0,1,1,0, Full Time,news,Switching from forward to ruck... %H and %P plus %s,,,100
+280711,Charlie,Dixon,GC,1,18,-,25,13,19,3,1,0,2,0,1,1,0,1, Full Time,news,%s from %D on Frawley... also %T,,,100
+293223,Seb,Tape,GC,1,18,-,22,14,18,2,3,0,1,0,2,0,0,0, Full Time,job,Minding Dunn... %P,,,100
+230015,Jared,Brennan,GC,1,17,-,23,11,16,2,1,0,2,0,0,0,0,1, Full Time,job,Started in defence on Martin... %P and %s,,,100
+250716,Matthew,Warnock,GC,1,16,-,21,14,21,4,2,1,0,0,0,1,0,0, Full Time,job,At FB on Clark... %D,,,100
+280722,Zac,Smith,GC,2,15,-,20,16,22,1,2,0,2,7,2,3,0,0, Full Time,news,%H and %P with %T,,,100
+240254,Jarrod,Harbrow,GC,1,14,-,21,11,18,5,0,0,1,0,1,2,0,0, Full Time,news,%P,,,100
+281085,Steven,May,GC,1,13,-,19,9,15,2,1,0,2,0,0,1,0,0, Full Time,job,Following Watts... %T,,,100
+109,Jaeger,O'Meara,GC,1,12,-,17,7,9,1,0,0,2,0,1,0,0,0, Full Time,news,%D and %T,,,65
+290790,Matthew,Shaw,GC,0,11,-,13,9,12,2,2,0,0,0,1,0,0,0, Full Time,news,%D,,,58
+292512,Karmichael,Hunt,GC,0,2,-,4,4,9,0,2,0,1,0,0,2,0,0, Full Time,tonga,So much for his sensational midfield form in preseason... %O,,,78
+281076,Hayden,Jolly,GC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Was not used,sub,Started as a sub,0
+291304,Daniel,Gorringe,GC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Was not used,sub,Started as a sub,0
+240393,Mitchell,Clark,ME,8,41,-,51,32,38,5,2,1,2,0,3,0,1,2, Full Time,news,First goal... %s from %P on Warnock,,,96
+260176,James,Magner,ME,2,39,-,52,27,39,6,3,1,3,0,0,0,0,0, Full Time,,,,,69
+250222,Nathan,Jones,ME,8,32,-,42,24,33,6,1,0,2,0,1,1,1,0, Full Time,news,%D and %T plus %s,,,51
+250360,Ricky,Petterd,ME,2,30,-,42,20,27,4,0,2,3,0,0,0,0,0, Full Time,news,%D and %M with %T on Weller,,,94
+250245,Clint,Bartram,ME,7,26,-,34,21,27,5,0,1,1,0,1,1,1,0, Full Time,job,Responsible for Russell in defence... %P and %s,,,100
+250510,Matthew,Bate,ME,2,25,-,31,21,33,6,5,0,0,0,0,1,0,0, Full Time,news,Started in midfield... %O,,,87
+270174,Tom,Couch,ME,1,23,-,31,15,21,2,2,0,3,0,1,0,0,0, Full Time,,,,,69
+250418,James,Sellar,ME,1,20,-,26,15,21,3,2,1,1,0,0,0,0,0, Full Time,news,%P,,,100
+250548,Lynden,Dunn,ME,1,19,-,26,16,22,3,1,2,1,0,0,1,0,1, Full Time,news,%s from %D and %M on Tape,,,91
+280748,Jordan,Gysberts,ME,1,19,-,27,11,15,2,0,0,3,0,1,0,0,0, Full Time,news,%D and %T,,,80
+293877,Josh,Tynan,ME,0,19,-,25,13,15,4,0,0,1,0,3,0,0,0, Full Time,,,,,75
+260288,James,Frawley,ME,1,17,-,22,13,18,4,1,1,0,0,0,0,0,0, Full Time,job,Standing Dixon... %D,,,100
+200002,Aaron,Davey,ME,1,15,-,21,13,21,4,2,0,1,0,1,2,0,0, Full Time,news,%D and %F,,,76
+280758,Jack,Fitzpatrick,ME,0,15,-,17,13,13,2,1,0,0,4,3,0,0,0, Full Time,news,%H and %P,subbed,Subbed off in Q2 for Jamar,44
+294874,Daniel,Nicholson,ME,0,14,-,18,10,15,2,2,0,1,0,0,0,0,0, Full Time,news,%D,,,91
+230151,Brent,Moloney,ME,1,13,-,17,12,18,3,2,1,0,0,0,1,0,0, Full Time,news,On in Q2 for Tynan... %O,sub,Started as a sub,33
+290943,Jamie,Bennell,ME,0,12,-,16,8,12,2,1,0,1,0,0,0,0,0, Full Time,job,In a BP on Hall... %D,,,100
+280763,Stefan,Martin,ME,0,11,-,13,9,12,2,1,0,0,3,0,0,0,0, Full Time,news,Started forward on Brennan... %D and %H,,,100
+220052,Mark,Jamar,ME,1,9,-,11,14,20,1,3,1,0,5,1,3,0,0, Full Time,news,On in Q2 for Fitzpatrick... %H and %P... also a worrying %F,sub,Started as a sub,50
+270830,Colin,Garland,ME,0,8,-,14,9,15,3,0,1,1,0,1,3,0,0, Full Time,job,At FB on Bock... %P and %F,,,100
+280972,Jack,Watts,ME,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,news,%P on May,,,94
+230130,Joel,MacDonald,ME,0,-1,-,-1,1,3,0,1,0,0,0,0,1,0,0, Full Time,job,Minding Rischitelli,,,100

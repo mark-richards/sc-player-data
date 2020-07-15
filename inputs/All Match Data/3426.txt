@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Sydney,Swans,R4,8.12.60,14.16.100, Full Time
+Apr 17,2010,2:10,Docklands,Fox Sports,230140,10280402,5015470,4969,Sunny and windy,27
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,m0nty is working on it... hopefully should be up for next week,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>Since1864</em>: Hansen=Goodes..you have got to be kidding SC!!!<br><em>drummond</em>: thirstyMMM- malceski a preseason pretender? 139&#044;104&#044;139 in the first 3 rounds mean anything to you?<br><em>dutchman</em>: xstop complaining about sc. We all know its standardized and rigged! 3300 points per game.<br><em>boban00</em>: whta the hell ryan okeefe on my s/c has 182?<br><em>070910</em>: I mean rok<br><em>070910</em>: It says on supercoach that rof has 182 wtf?<br><em>macka14</em>: harvy he is 70 on super coach that bmeans he is your captain <br><em>S_Coach99</em>: whos your captain harvey=gun? maybe goodes is<br><em>macka14</em>: malceski is a f head<br><em>pedro123</em>: was he your capt harveygun?<br><em>harvey=gun</em>: wtf goodes 78 sc he got 158 on the actuall site in my team??<br><em>macka14</em>: 11 to 53 wtf<br>
+960491,Brent,Harvey,NM,25,96,119,121,81,108,15,10,8,1,0,0,1,1,0, Full Time,tagged,Tagged by Jack... %s from %P and %M
+230232,Daniel,Wells,NM,20,94,114,121,77,97,17,2,8,1,0,1,1,2,1, Full Time,tagged,Tagged by Mattner... %D and %M plus %s
+280863,Ryan,Bastinac,NM,19,94,66,123,72,97,12,8,7,5,0,0,0,0,1, Full Time,tagger,Tagging McVeigh... %O and %M plus %T
+230141,Hamish,McIntosh,NM,21,89,102,112,74,93,9,5,6,4,21,0,1,0,0, Full Time,news,%H and %D with %M and %T
+250285,Leigh,Adams,NM,25,88,128,114,67,94,13,9,1,6,0,3,2,1,1, Full Time,news,%P and %s on Shaw
+240417,Andrew,Swallow,NM,39,87,88,121,60,87,5,8,3,13,0,1,2,0,0, Full Time,kirk,Tagged by Kirk... %P and %T
+260545,Liam,Anthony,NM,13,71,42,92,59,79,10,7,7,2,1,0,1,0,0, Full Time,news,%O and %M
+990055,Brady,Rawlings,NM,14,71,96,86,64,87,5,16,6,2,0,1,1,0,0, Full Time,news,Started loose in defence then went to McGlynn... %O and %M
+230240,Aaron,Edwards,NM,16,69,68,88,58,69,7,3,6,3,0,3,1,2,0, Full Time,news,Booted %s from %D and %G on Craig Bolton
+220036,David,Hale,NM,10,61,73,75,52,60,9,3,5,0,2,4,0,1,1, Full Time,news,%s from %P and %M... Roberts-Thomson on him... %4 frees for
+280944,Jack,Ziebell,NM,9,60,66,81,44,61,8,4,3,5,0,1,1,0,1, Full Time,tagged,Tagged by Jude Bolton... %D and %M plus %T
+250135,Scott,McMahon,NM,9,53,72,71,37,52,6,4,2,5,1,0,0,0,0, Full Time,news,%P and % with %M
+261909,Lindsay,Thomas,NM,9,52,47,68,39,51,7,2,3,3,0,0,0,1,0, Full Time,news,Kicked %s from %P and %M
+250373,Lachlan,Hansen,NM,8,48,75,63,39,48,5,3,6,2,0,1,0,0,0, Full Time,concussed,On White... %D and %T... copped White's knee in the back of his head in Q3 and looked groggy
+261228,Ben,Warren,NM,5,47,57,62,39,51,6,4,5,2,0,1,1,0,0, Full Time,news,%O and %M on Grundy
+250315,Gavin,Urquhart,NM,4,46,49,61,35,51,7,5,2,3,0,0,1,0,0, Full Time,news,%D and %T with %M
+271129,Todd,Goldstein,NM,12,44,40,55,34,41,2,1,1,4,17,0,0,0,0, Full Time,news,%H and %D with %T
+230272,Michael,Firrito,NM,2,36,40,45,28,39,6,5,1,1,0,1,0,0,0, Full Time,tagger,Tagging O'Keefe... %D
+210093,Leigh,Harding,NM,7,33,31,47,22,33,5,1,1,4,0,0,1,0,0, Full Time,cold,Not getting into the play at all early... %P
+281395,Scott D.,Thompson,NM,3,33,48,42,28,39,5,5,2,1,0,1,1,0,0, Full Time,job,Standing Bradshaw... %O
+240131,Nathan,Grima,NM,2,30,53,39,23,30,5,2,2,1,0,1,0,0,0, Full Time,job,Going wtih Goodes... %P
+280864,Sam,Wright,NM,1,28,30,36,23,34,5,4,1,1,0,0,1,0,1, Full Time,news,Starting forward on Kennelly
+960079,Daniel,Bradshaw,SY,31,117,131,85,100,117,15,3,11,1,0,2,0,4,3, Full Time,x-factor,Booted %s from %G and %P... Thompson on him
+290117,Daniel,Hannebery,SY,26,115,147,82,93,123,16,11,9,3,0,0,0,1,0, Full Time,hot,%D and %M plus %s
+990114,Brett,Kirk,SY,49,111,100,126,77,109,6,10,3,15,0,0,1,1,1, Full Time,star,Tagging Swallow... %s from %O with %T and %M
+200096,Tadhg,Kennelly,SY,15,96,95,61,78,105,16,8,9,2,0,0,1,0,0, Full Time,news,Running off Wright... %P and %M
+200071,Ryan,O'Keefe,SY,20,92,90,62,74,95,14,5,8,2,0,0,0,1,2, Full Time,sore,Roos are rotating a number of blokes on him... %s from %P and %M... copped a knock to the ribs late in Q4
+980073,Adam,Goodes,SY,17,90,78,61,73,98,13,8,4,3,1,0,1,2,1, Full Time,news,%s from %D on Grima
+990011,Jude,Bolton,SY,26,88,107,84,68,102,8,15,2,9,0,1,3,0,0, Full Time,tagger,Tagging Ziebell... %O and %T
+280762,Shane,Mumford,SY,17,83,91,74,71,89,8,4,5,5,23,2,3,0,0, Full Time,news,He's #1 ruck for the Swans again this week.. %H and %P with %M
+200023,Rhyce,Shaw,SY,9,75,75,42,57,81,14,7,3,3,0,1,1,0,0, Full Time,job,Running off Adams... %P
+240226,Kieren,Jack,SY,8,73,98,46,55,75,12,7,3,3,0,2,0,0,0, Full Time,tagger,Tagging Harvey... %D and %T
+220063,Martin,Mattner,SY,15,71,90,59,58,75,7,8,3,3,0,1,0,2,0, Full Time,sore,First goal... %P and %T with a bonus %s... spent a lot of time tagging Wells... limped off in Q3 after a knock at a marking contest but returned
+260382,Josh P.,Kennedy,SY,19,71,76,58,55,75,8,8,3,4,0,0,0,1,0, Full Time,news,%K among %O
+220089,Lewis,Roberts-Thomson,SY,9,69,72,49,54,72,11,3,7,3,0,0,1,0,0, Full Time,job,Standing Hale... %M and %O with %T
+240072,Heath,Grundy,SY,14,68,68,56,60,81,8,9,8,2,0,0,2,0,0, Full Time,job,Minding Warren... %P and %M
+281281,Lewis,Jetta,SY,8,65,81,32,50,68,13,4,4,1,0,0,0,0,2, Full Time,news,%P and %M
+250080,Jarred,Moore,SY,9,64,84,50,50,66,8,7,4,3,0,2,0,0,0, Full Time,news,%B among %P
+220101,Mark,Seaby,SY,9,55,69,55,49,64,2,10,0,3,19,1,1,0,0, Full Time,news,Looks like he's #2 ruck again this week... %H and %D
+230253,Jarrad,McVeigh,SY,4,51,44,35,39,57,8,6,2,3,0,0,1,0,0, Full Time,tagged,Tagged by Bastinac... %D
+230140,Ben,McGlynn,SY,9,47,55,37,42,52,5,6,3,1,0,3,1,1,1, Full Time,sore,%s from %O and %M... Rawlings moved onto him in Q1... thigh twinge in Q2
+230132,Nick,Malceski,SY,3,38,45,24,32,45,6,6,2,1,0,1,1,0,0, Full Time,cold,Loose man in defence early but then had to man up... %O and %M
+250212,Jesse,White,SY,9,30,48,28,28,33,2,3,4,0,0,0,0,1,0, Full Time,news,Hansen on him... %s from %G and %O
+990010,Craig,Bolton,SY,1,11,53,10,12,21,1,5,0,1,0,0,2,0,0, Full Time,job,On Edwards

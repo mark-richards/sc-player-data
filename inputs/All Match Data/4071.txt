@@ -1,0 +1,48 @@
+Carlton,Blues,Adelaide,Crows,R8,8.7.55,19.10.124, Full Time
+May 20,2012,3:15,Docklands,Seven,250417,10340808,430078,0,Roof closed,17,,
+
+<em>The Bomber</em>: mate first half was umps with carlton<br><em>jeremya87</em>: maluckyday suck it up you sook&#044; Carlton are sh!t<br><em>tamoz</em>: well done thompson you legend!<br><em>MacDaddy33</em>: Haha Carlton saying your undermanned!! We're missing our leading goal kicker!<br><em>azza707</em>: maluckyday you have no idea mate haha. crows won that fair and square<br><em>DangerCrow</em>: tippett could single handedly win me my game !!! <br><em>Sewelly07</em>: dangerfield back to victoria?<br><em>beamen</em>: dangerfield out-judding judd<br><em>HappyDEZ</em>: Mackay SC? nearly as much as Schulz<br><em>starman_wa</em>: all the idiots are already in Vic<br><em>maluckyday</em>: r u serious in the last half the game was adelaide and umpires vs undermanned carlton<br><em>masterhc2</em>: adek=laide tanked last year so they couod get rid of craig<br>
+220056,Chris,Judd,CA,27,104,113,136,79,112,11,13,5,8,0,0,1,0,1, Full Time,hot,%O and %T with %M and %s,,
+261258,David,Ellard,CA,19,86,92,114,60,81,12,6,2,7,0,4,0,0,0, Full Time,news,%D and %T,,
+990059,Heath,Scotland,CA,13,86,120,104,71,106,15,18,1,1,0,0,1,0,1, Full Time,news,%P,,
+270653,Jeff,Garlett,CA,17,81,88,102,65,81,10,3,5,3,0,0,0,3,0, Full Time,news,%s from %P and %M on Jaensch,,
+261299,Matthew,Kreuzer,CA,25,74,76,94,55,69,5,2,1,7,17,0,0,1,1, Full Time,news,Started at CHF on Rutten... %H and %D with %T and %s,,
+240014,Andrew,Walker,CA,9,72,72,89,57,81,11,12,2,2,0,1,0,0,0, Full Time,news,%P and %T,,
+270326,Lachie,Henderson,CA,20,63,74,83,51,66,6,4,6,4,0,0,1,1,0, Full Time,news,%P and %M,job,Has Jenkins
+270146,Ed,Curnow,CA,18,62,67,78,46,69,4,13,0,6,0,0,0,0,0, Full Time,news,%P and %T,tagger,Moved his tag from Thompson to Dangerfield in Q3
+261043,Michael,Jamison,CA,10,61,74,84,48,69,9,5,4,5,0,1,3,0,0, Full Time,news,%M and %O... also %F,job,Standing Tippett
+230202,Kade,Simpson,CA,14,57,82,69,52,69,9,7,3,0,0,1,2,2,0, Full Time,tagged,First goal... %P and %M plus %s,,
+290311,Mitch,Robinson,CA,8,54,47,68,45,64,7,9,3,2,1,0,1,0,0, Full Time,news,%D,tagger,Forward tag role on Reilly... moved to midfield to tag Thompson in Q3
+250417,Bryce,Gibbs,CA,8,53,59,69,38,55,5,7,1,5,0,0,0,0,1, Full Time,news,%D and %s,tagger,Tagging Dangerfield
+270737,Shaun,Hampson,CA,14,52,61,59,46,53,2,3,1,2,29,0,0,0,0, Full Time,news,%H and %D,,
+260533,Dennis,Armfield,CA,3,51,67,68,35,51,10,3,1,3,0,0,0,0,0, Full Time,job,Minding Petrenko... %D,,
+271110,Chris,Yarran,CA,5,48,25,64,38,52,8,3,4,2,0,0,1,0,1, Full Time,news,On after HT for Murphy,sub,Started as a sub
+250211,Paul,Bower,CA,5,47,73,63,37,51,8,3,4,2,0,0,1,0,0, Full Time,job,Standing Henderson,,
+240060,Eddie,Betts,CA,4,45,54,58,35,48,6,5,3,2,0,0,0,0,0, Full Time,news,%O on Doughty,,
+261009,Nick,Duigan,CA,14,44,52,60,31,42,1,4,3,6,0,0,0,0,0, Full Time,porpoise,Has Porplyzia... %O and %T,,
+250090,Jordan,Russell,CA,8,41,35,55,31,45,4,5,2,4,0,0,1,0,0, Full Time,job,Responsible for Callinan... %P,,
+292511,Zach,Tuohy,CA,2,34,47,47,24,36,6,2,1,3,0,0,1,0,0, Full Time,job,Minding Johncock,,
+220108,Bret,Thornton,CA,8,29,42,38,24,31,3,1,2,2,0,0,1,1,1, Full Time,news,%s from %D and %M on Talia,,
+250105,Marc,Murphy,CA,2,27,38,36,18,24,3,2,0,3,0,2,0,0,0, Full Time,injured,Tagged by van Berlo... %P and %T... left AC joint hurt in a clash with Dangerfield in Q2,subbed,Subbed off at HT
+270917,Patrick,Dangerfield,AD,39,142,174,89,107,148,23,12,4,6,0,0,0,2,1, Full Time,star,Smashed Gibbs then got Curnow in Q3... his Q1 was electric... %P and %M with %T and %s... right ribcage knock in a clash with Murphy in Q2,,
+250118,Nathan,van Berlo,AD,38,128,120,110,97,129,15,8,9,9,0,1,1,1,0, Full Time,hot,%O and %T plus %s,tagger,Tagging Murphy
+210016,Scott,Thompson,AD,27,119,139,67,95,130,22,8,8,3,1,0,2,1,0, Full Time,hot,Tagged by Curnow then got Robinson in Q3... %P... also %F,,
+270963,Rory,Sloane,AD,19,100,112,78,79,109,13,11,7,5,0,0,1,0,1, Full Time,hot,%O and %M plus %s,,
+261142,Bernie,Vince,AD,26,99,99,56,82,102,17,3,8,0,0,0,0,3,0, Full Time,news,%D and %s,,
+270742,Kurt,Tippett,AD,21,92,107,67,81,94,11,3,6,1,9,3,1,3,4, Full Time,superman,Booted %s from %P on Jamison... also %H... left knee knock in Q2... three goals in Q4,garbage,All of his goals in garbage time
+294828,Josh,Jenkins,AD,22,92,96,78,74,91,10,3,8,4,4,0,0,2,0, Full Time,bubble,Second game... %G and %P on Henderson,,
+220086,Brent,Reilly,AD,12,79,82,43,62,81,15,4,7,1,0,1,0,0,0, Full Time,job,Forward tag on him by Robinson then got Yarran in Q3... %O and %M,,
+261351,Matthew,Jaensch,AD,14,78,68,56,60,78,12,3,8,3,0,0,0,0,0, Full Time,job,Chasing Garlett... %D,,
+270811,Sam,Jacobs,AD,21,73,104,63,61,70,6,0,2,3,37,0,0,0,0, Full Time,news,%H,,
+230174,Jason,Porplyzia,AD,14,71,86,51,58,79,9,10,3,2,1,0,0,1,0, Full Time,news,%P on Duigan,,
+261384,Matthew,Wright,AD,13,69,81,60,52,72,7,10,2,5,0,2,0,0,0, Full Time,news,%D and %T,,
+210056,Graham,Johncock,AD,10,67,52,52,50,62,9,3,4,4,0,4,0,0,2, Full Time,news,Started forward on Tuohy... %s from %P and %T,,
+261857,Ian,Callinan,AD,17,66,81,52,56,72,8,3,4,3,0,0,2,3,0, Full Time,news,%s from %P and %M on Russell,,
+200092,Michael,Doughty,AD,12,63,65,33,51,67,12,4,6,0,0,0,0,0,1, Full Time,job,Following Betts... %D,,
+291201,Ricky,Henderson,AD,9,63,68,50,51,66,8,5,7,2,0,0,0,0,0, Full Time,switch,%P on Bower... swung back in Q3,,
+250362,David,Mackay,AD,15,62,100,53,48,63,6,6,1,4,0,1,0,2,0, Full Time,news,%O and %s,subbed,Subbed off at 3QT for Lynch
+220093,Ben,Rutten,AD,8,56,54,37,47,63,9,5,6,1,0,0,1,0,0, Full Time,job,Standing the resting ruck which is mostly Hampson,,
+291748,Brodie,Smith,AD,4,49,38,40,37,51,6,5,3,3,0,0,0,0,0, Full Time,news,%T,,
+261138,Jared,Petrenko,AD,9,46,53,40,35,45,5,2,3,3,0,0,0,1,0, Full Time,news,Armfield on him,,
+270938,Tom T.,Lynch,AD,2,31,18,24,25,31,4,2,3,1,1,1,0,0,0, Full Time,news,On after 3QT for Mackay,sub,Started as a sub
+280934,Daniel,Talia,AD,2,27,43,28,21,30,2,4,1,3,0,1,1,0,0, Full Time,news,No stats in Q1... %P and %T,job,On Thornton

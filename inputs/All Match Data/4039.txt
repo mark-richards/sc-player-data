@@ -1,0 +1,48 @@
+Western Sydney,Giants,Western Bulldogs,Bulldogs,R5,9.8.62,15.14.104, Full Time
+Apr 28,2012,1:45,Manuka,Fox Sports,291545,10340503,430046,0,Sunny,19,,
+
+<em>CatAttack9</em>: ablett<br><em>Pendles_10</em>: Sums up my season so far in SC&#044; went for kreuzer instead of Hmac 2 weeks ago for mumford!! FML<br><em>Refused</em>: @myteamsuks shhh let the grown ups talk. your team sucks and so do your comments<br><em>theuncle</em>: Cheers myteamsucks - all clear now!<br><em>Grasscutta</em>: should i get swan or ablett I have 507K in bank<br><em>TheHanger</em>: so many beautiful dollar signs<br><em>Scratchy</em>: Smith ripe for culling off in SuperCoach. BE is 57 which he's only beaten once this year.<br><em>myteamsuks</em>: @theuncle  there is an article on a website called "scpaige" or on facebook it explains sc pretty plainly...read it<br><em>mufc</em>: am happy with hargrave goin down will win me a few league games at this rate<br><em>kingerzz</em>: 1220/12 good start<br><em>bert1</em>: will looking at adams in 2weeks<br><em>mufc</em>: hahaha i cant believe i still have townsend on my bench in dt was looking down the list and noticed his name lol<br>
+980011,Luke,Power,WS,26,120,120,153,97,129,17,13,10,3,0,1,0,0,0, Full Time,hot,%D and %M plus %T,job,Matched up on Dahlhaus in defence
+291802,Tomas,Bugg,WS,18,96,101,117,82,108,12,16,7,1,0,3,0,0,0, Full Time,cash,%O and %M,job,Responsible for Higgins
+293845,Jeremy,Cameron,WS,27,92,114,111,82,96,6,6,7,3,0,2,1,5,0, Full Time,cash,%s from %O on Austin... also %M and %T,,
+295344,Toby,Greene,WS,20,90,96,113,75,105,11,16,4,4,0,3,2,0,0, Full Time,cash,%O and %T with %M,tagger,Tagging Boyd
+970130,James,McDonald,WS,15,90,79,113,72,99,12,13,5,3,0,1,0,0,0, Full Time,cash,Tagging Griffen in Q1 then freed up... %P and %M plus %T,,
+261841,Jonathan,Giles,WS,22,89,114,109,76,94,7,6,3,5,31,2,2,0,0, Full Time,cash,%H and %P plus %T and %s,,
+280109,Callan,Ward,WS,26,83,78,116,63,93,12,6,5,8,0,0,4,0,0, Full Time,tagged,Tagged by Picken... %P and %M with %T... also %F,,
+291783,Dylan,Shiel,WS,10,81,84,102,64,87,13,10,4,2,0,2,0,0,0, Full Time,cash,%P and %M with %T,,
+11,Taylor,Adams,WS,15,71,80,89,60,81,7,10,5,3,0,0,1,1,0, Full Time,rookie,First game... %P and %M plus %T and %s,,
+280804,Phil,Davis,WS,12,67,68,84,56,72,11,7,6,0,0,2,0,0,0, Full Time,job,Standing Jones... %D and %M,,
+29,Adam,Treloar,WS,8,63,53,79,52,70,11,7,5,0,0,0,0,0,1, Full Time,cash,%D and %M plus %s,job,Minding Sherman
+261374,Sam,Reid,WS,12,60,65,75,53,72,7,10,6,1,0,0,1,0,0, Full Time,sore,Knock to a knee early in Q1... %D and %M,,
+291964,Jack,Hombsch,WS,9,59,69,75,49,66,8,8,4,2,0,2,1,0,0, Full Time,cash,%D and %T with %M,job,Chasing Djerrkura
+291819,Adam,Tomlinson,WS,4,50,38,65,40,57,8,6,3,2,0,0,1,0,0, Full Time,cash,%O and %M with %T,job,In defence on Cordy
+24,Shaun,Edwards,WS,4,47,32,63,40,55,9,3,5,1,0,0,2,0,1, Full Time,bubble,Second game...  %s from %O and %M,,
+291969,Stephen,Coniglio,WS,6,46,64,54,39,56,5,11,1,1,1,0,0,0,1, Full Time,concussed,%P including %B plus %s... copped a whack to the head in Q3,subbed,Subbed off in Q3 for Smith
+280969,Tom,Scully,WS,6,44,60,53,39,60,7,12,0,1,0,1,2,0,0, Full Time,news,%B among %O... also %F,,
+294917,Israel,Folau,WS,3,41,56,49,35,44,4,5,2,1,7,1,0,0,1, Full Time,cash,%s from %P and %M on Lake,concussed,Picken slammed his head into the ground in a tackle in Q1
+291771,Devon,Smith,WS,3,39,17,51,30,43,7,4,1,2,0,1,1,0,1, Full Time,cash,On in Q3 for Coniglio... %s from %O,sub,Started as a sub
+291891,Jacob,Townsend,WS,3,37,43,49,30,39,5,3,3,2,0,2,1,0,0, Full Time,news,%D and %M,tagger,Forward tagging Murphy
+290306,Curtly,Hampton,WS,8,36,47,44,32,43,6,3,0,1,0,1,2,2,1, Full Time,cash,Has Wood... %s from %D,,
+291492,Josh,Bruce,WS,8,36,37,44,30,39,4,4,2,1,0,0,0,1,0, Full Time,rookie,First goal... first game... %P and %M plus %s,in,Late replacement for Chad Cornes
+240156,Ryan,Griffen,WB,31,124,155,87,106,145,16,21,7,2,0,1,1,1,1, Full Time,star,Tagged by McDonald in Q1 then freed up... %O and %M plus %s,,
+220010,Matthew,Boyd,WB,26,115,133,76,93,131,16,19,3,3,1,0,0,1,1, Full Time,hot,Tagged by Greene... %D and %s... also %M and %T,,
+210049,Daniel,Cross,WB,21,109,112,95,94,129,9,25,5,4,0,4,1,0,0, Full Time,hot,%O and %M with %T,,
+291545,Mitch,Wallis,WB,32,107,105,94,85,114,10,15,5,6,0,2,0,1,0, Full Time,hot,%P and %T with %M and %s,,
+240325,Justin,Sherman,WB,25,106,112,85,86,114,12,12,7,4,0,0,0,1,3, Full Time,hot,%s from %D and %T with %M on Treloar,,
+230255,Will,Minson,WB,32,101,132,98,85,108,6,11,3,6,30,1,1,0,0, Full Time,hot,%H and %P with %T and %M,,
+271439,Liam,Picken,WB,31,97,91,87,78,112,9,16,3,7,1,0,2,1,0, Full Time,news,%D and %T with %M and %s,tagger,Tagging Ward
+220039,Brian,Lake,WB,14,94,85,62,73,96,15,7,7,3,0,2,0,0,0, Full Time,news,%O and %T with %M,job,Has Folau
+230041,Adam,Cooney,WB,21,94,96,64,78,106,12,15,2,2,0,1,0,2,1, Full Time,news,%B among %O with %T... also %s playing forward a bit,,
+260227,Shaun,Higgins,WB,26,89,99,74,71,95,10,8,3,6,0,2,2,2,2, Full Time,news,%s from %P and %T on Bugg... also %M,,
+250383,Nathan,Djerrkura,WB,20,78,59,71,62,81,8,5,7,5,0,0,1,1,0, Full Time,news,%s from %O and %M on Hombsch... also %T,,
+280056,Ayce,Cordy,WB,17,70,76,62,64,80,6,7,6,2,11,1,2,1,0, Full Time,news,%s from %P and %M on Tomlinson... also %T,,
+240212,Dylan,Addison,WB,9,69,66,56,57,78,8,10,5,3,0,1,1,0,0, Full Time,news,%P including %b by hand... also %M and %T,,
+261319,Jarrad,Grant,WB,15,66,56,41,53,71,11,4,4,2,0,0,1,1,2, Full Time,news,%s from %G and %P,,
+291526,Luke,Dahlhaus,WB,14,62,80,39,51,69,9,8,0,2,0,2,1,2,0, Full Time,news,Playing very deep forward on Power... %s from %O and %T,,
+200083,Robert,Murphy,WB,7,60,81,31,42,60,12,4,1,3,0,1,0,0,0, Full Time,tagged,Forward tag on him by Townsend... %P and %T,,
+281139,Easton,Wood,WB,4,55,43,34,41,57,10,3,3,3,0,1,1,0,0, Full Time,job,On Hampton... %P and %T with %M,,
+261243,Mark,Austin,WB,5,50,65,45,41,57,5,7,4,3,0,0,1,0,0, Full Time,in,Late replacement for Ryan Hargrave... standing Cameron... %D and %T with %M,,
+290799,Tom,Liberatore,WB,4,48,46,24,40,57,10,4,4,1,0,0,2,0,0, Full Time,news,On in Q3 for Roughead... %O and %F,sub,Started as a sub
+281078,Liam,Jones,WB,9,41,34,30,39,52,6,3,5,1,0,0,3,1,1, Full Time,news,Davis on him... no touches in Q1 and one in Q2... %s from %P and %M... also %F,,
+270186,Patrick,Veszpremi,WB,7,39,44,21,38,54,7,8,3,0,0,2,3,0,0, Full Time,news,%O and %M... also %F,,
+280012,Jordan,Roughead,WB,2,17,15,16,16,18,1,1,2,0,6,0,0,0,0, Full Time,news,%P and %M... also %H,subbed,Subbed off at HT for Liberatore

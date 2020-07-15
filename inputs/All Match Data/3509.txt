@@ -1,0 +1,48 @@
+Adelaide,Crows,Essendon,Bombers,R14,19.10.124,5.10.40, Full Time
+Jul 03,2010,7:10,Footy Park,Ten,230041,10281405,5015,5177,Fine,15
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>omen77</em>: boostboy is that it<br><em>Kazakhstan</em>: Ahhh&#044; awesome quarter hurley :D<br><em>Rhodie</em>: knights is a butt pirate<br><em>omen77</em>: SC is shizen howsen<br><em>boostboy</em>: flower off omen77 you retard<br><em>brutus76</em>: combined 274 from my two ruckmen :-) excellent<br><em title="JAKO">jako</em>: Does anyone get the purple name on coinflips ??<br><em>jake1994</em>: thankyou megamatt<br><em>omen77</em>: SC is showere<br><em>megamatt</em>: quins 0 does count&#044; if they run onto the ground and dont even get atleast 1 touch it counts<br><em>tigerboy</em>: west coast the worst<br><em title="JAKO">jako</em>: Yep ..  TV to Tippett<br>
+210016,Scott,Thompson,AD,39,146,156,190,107,148,23,11,5,8,1,1,0,1,0, Full Time,star,%O and %M plus %T
+270742,Kurt,Tippett,AD,34,107,151,123,98,114,9,7,5,1,11,2,1,6,1, Full Time,x-factor,%H and %D with %s... Hooker on him
+250118,Nathan,van Berlo,AD,24,100,107,129,81,111,15,12,6,4,0,3,2,0,0, Full Time,hot,Tagged by Hocking... %D and %T with %M
+230174,Jason,Porplyzia,AD,27,99,114,131,74,100,11,9,5,8,1,3,1,0,0, Full Time,news,%s from %P and %M with %T on McVeigh
+240370,Richard,Douglas,AD,20,99,82,127,81,111,16,11,8,2,0,0,1,0,0, Full Time,news,Head to head with Winderlich... %O and %M
+230215,Brad,Symes,AD,19,90,85,117,74,102,10,12,7,5,0,1,2,0,0, Full Time,news,%D and %M with %T
+960036,Simon,Goodwin,AD,15,85,103,104,71,96,12,12,5,1,0,0,0,1,0, Full Time,news,%P and %M plus %s
+270917,Patrick,Dangerfield,AD,22,81,97,100,64,79,7,4,2,5,0,1,0,4,1, Full Time,news,First goal... %s from %O on Henry Slattery... also %T
+220086,Brent,Reilly,AD,9,72,73,89,58,81,10,12,3,2,0,1,0,0,0, Full Time,tagger,Tagging Watson... %D
+291201,Ricky,Henderson,AD,16,72,84,87,62,74,8,4,5,1,0,1,0,3,2, Full Time,news,%s from %P and %M
+240546,Ivan,Maric,AD,11,70,60,86,60,74,8,5,4,2,17,2,1,0,0, Full Time,news,%H and %P
+220093,Ben,Rutten,AD,14,65,95,82,53,72,4,11,5,4,0,0,0,0,0, Full Time,job,Standing Hurley... %D and %M
+270963,Rory,Sloane,AD,15,65,83,86,51,69,6,8,3,6,0,4,2,0,0, Full Time,news,%D
+280506,Taylor,Walker,AD,16,64,97,80,56,71,10,2,4,1,0,0,2,3,2, Full Time,news,%s from %P on the first-gamer Tyson Slattery
+270170,Tony,Armstrong,AD,9,59,70,76,44,60,7,7,2,4,0,2,0,0,0, Full Time,news,%D and %T
+210056,Graham,Johncock,AD,5,58,83,73,48,63,6,8,5,2,0,1,0,0,0, Full Time,job,Minding Zaharakis... %D and %M
+200072,Scott,Stevens,AD,5,55,84,74,43,57,10,2,5,2,0,1,1,0,0, Full Time,job,Standing the tresting ruckmen... %P
+200092,Michael,Doughty,AD,9,47,41,64,39,54,4,5,5,4,0,0,2,0,0, Full Time,job,Sitting on Davey... %O and %M with %T
+261142,Bernie,Vince,AD,8,46,53,57,37,51,9,5,0,1,0,2,1,1,0, Full Time,tagged,Tagged by Welsh... %O and %s
+280804,Phil,Davis,AD,4,44,52,58,35,45,5,3,5,2,0,0,0,0,0, Full Time,gumby,On Gumbleton... %O
+250088,Jonathon,Griffin,AD,4,33,17,41,34,45,5,3,3,0,11,0,3,0,1, Full Time,injured,%H and %D with %M and %s... rolled an ankle in Q2 and again in Q3
+261351,Matthew,Jaensch,AD,3,26,18,36,24,33,4,2,4,1,0,0,2,0,0, Full Time,concussed,%O and %M with %F... concussed in a clash with Tyson Slattery in Q2 and reported blurred vision at half time... back on late in Q3
+220115,Andrew,Welsh,ES,45,107,104,110,77,108,8,12,5,11,0,0,0,0,0, Full Time,hot,Tagging Vince... %D and %T
+250267,Patrick,Ryder,ES,28,97,105,75,84,101,11,2,3,4,29,3,3,2,0, Full Time,news,%H and %D with %T
+230238,Jason,Winderlich,ES,26,94,91,80,76,107,10,15,4,6,1,2,2,0,1, Full Time,news,Head to head with Douglas... %O and %T with %M
+270951,David,Zaharakis,ES,19,92,80,71,74,100,12,10,7,4,0,1,1,0,1, Full Time,news,%P and %T with %M on Johncock
+250049,Brent,Prismall,ES,19,84,81,62,70,96,12,10,6,4,0,3,3,0,0, Full Time,news,%P and %T with %M
+250569,Heath,Hocking,ES,21,84,103,65,67,94,11,9,4,5,0,0,2,1,1, Full Time,tagger,Tagging van Berlo... %D and %M with %T and %s
+240027,Brent,Stanton,ES,13,79,88,45,64,91,13,13,3,1,0,0,0,0,1, Full Time,news,%P and %s
+210079,Nathan,Lovett-Murray,ES,9,68,83,53,56,75,8,10,5,2,0,1,0,0,0, Full Time,news,%D and %M
+990046,Mark,McVeigh,ES,13,68,71,45,49,69,11,6,2,4,0,1,0,0,0, Full Time,porpoise,Following Porplyzia... %D
+230231,Jobe,Watson,ES,13,64,90,65,53,81,3,19,0,5,0,0,1,0,0, Full Time,tagged,Tagged by Reilly... %O including %B with %T
+230051,Alwyn,Davey,ES,9,60,56,48,46,65,8,6,2,5,0,2,2,0,2, Full Time,news,%s from %O with %T on Doughty
+280824,Jake,Melksham,ES,7,60,74,29,44,63,12,6,1,2,0,1,0,0,0, Full Time,news,%P
+271105,Tyson,Slattery,ES,14,57,86,36,48,63,9,6,2,2,0,4,2,1,0, Full Time,sore,First game... at FB on Walker... %D... came off worse in a headclash with Jaensch in Q2
+250352,Leroy,Jetta,ES,13,56,77,48,44,64,6,9,2,4,0,0,1,0,1, Full Time,news,%O and %T
+261324,Kyle,Reimers,ES,7,54,64,32,43,58,9,6,3,1,0,1,0,0,1, Full Time,news,%O
+270588,Cale,Hooker,ES,8,51,69,44,47,63,4,12,5,0,0,0,0,0,0, Full Time,job,Standing Tippett... %M and %D
+240319,Sam,Lonergan,ES,10,49,50,43,41,54,4,8,2,2,0,1,0,1,0, Full Time,news,%B among %P
+261320,Tom,Bellchambers,ES,10,47,19,43,45,57,4,4,4,2,15,1,3,0,0, Full Time,news,%H and %T
+270935,Michael,Hurley,ES,7,47,71,33,41,60,6,11,2,1,0,0,1,0,0, Full Time,news,%P on Rutten... moved back in Q3
+250071,Henry,Slattery,ES,9,42,29,39,31,42,5,1,4,4,0,0,1,0,0, Full Time,injured,Had Dangerfield... %O and %T with %M... mothballed in Q3 with an injury
+250366,Scott,Gumbleton,ES,4,42,34,42,35,45,3,5,5,2,0,0,0,0,0, Full Time,news,%P on Davis
+291202,Michael,Quinn,ES,3,24,0,21,23,36,3,5,2,2,0,0,3,0,0, Full Time,irish,%O and %F

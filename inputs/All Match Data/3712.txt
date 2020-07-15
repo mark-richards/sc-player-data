@@ -1,0 +1,48 @@
+Gold Coast,Suns,Carlton,Blues,R2,7.10.52,26.15.171, Full Time
+Apr 2,2011,7:40,Gabba,Ten,220056,10310204,5015,13,A few showers,27
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>RedRaven</em>: Should of left the C on Gibbs<br><em>Shanghan</em>: Toy very good game for a sub<br><em>berch</em>: duncs!<br><em>BuddysBest</em>: im on 1477 with 13 and bloody jack riewoldt was one of them. Would of been set up for winning score :(<br><em>RoidRager</em>: Zac Smith gotta to be a star<br><em>demon_spud</em>: @juz  ha ha classic<br><em>Billyho</em>: best sc gets star<br><em>HotTiges</em>: nice work duigan<br><em>juz1978</em>: Pity there is no daylight savings in Queensland&#044; because I'm sure the Suns would want that last hour back. <br><em>ratten</em>: murphy you legend<br><em>Juggalo</em>: Give Murph the gun&#044; better SC score<br><em>RoidRager</em>: All the ppl on Supercoach Talk&#044; I told you to stick with Yarran&#044; keep the faith.<br>
+240712,Michael,Rischitelli,GC,26,118,114,151,95,132,15,16,8,5,0,0,1,0,0, Full Time,hot,%2 Gibbs... %P and %M with %T,,
+210014,Daniel,Harris,GC,25,97,109,114,87,117,10,20,7,0,0,0,0,1,0, Full Time,news,%2 Murphy... %B among %D with %M,,
+220001,Gary,Ablett jnr,GC,21,96,91,123,75,100,11,12,4,6,0,5,1,0,1, Full Time,carrot,Carrazzo tagging him... %D and %T with %M and %s,,
+280722,Zachary,Smith,GC,15,81,84,100,73,92,8,8,7,2,14,1,2,0,3, Full Time,rookie,First game... %H and %P with %T and %M... also %s,,
+290527,Trent,McKenzie,GC,20,76,67,102,56,79,10,6,4,6,1,0,1,0,0, Full Time,rookie,First game... %P and %M with %T,,
+220009,Nathan,Bock,GC,14,74,77,94,64,90,10,12,6,2,0,0,2,0,0, Full Time,job,On Waite... %P and %M with %T,,
+291594,Harley,Bennell,GC,18,72,65,91,54,76,8,9,1,5,1,0,0,1,0, Full Time,rookie,First game but not much supply deep in attack early... %s from %O and %T,,
+290817,Brandon,Matera,GC,10,64,64,83,47,63,11,3,2,3,0,1,0,1,0, Full Time,rookie,First game... %s from %P and %T on Yarran,,
+293223,Sebastian,Tape,GC,10,64,47,87,51,66,9,2,8,3,0,0,1,0,0, Full Time,rookie,First game... %M and %O with %T,job,Minding Thornton
+250249,Danny,Stanley,GC,14,61,61,77,45,61,6,7,0,5,0,2,0,1,1, Full Time,news,%s from %O and %T on Duigan,,
+200020,Josh,Fraser,GC,15,60,56,69,55,69,7,6,2,0,17,0,1,1,1, Full Time,news,%H and %P with %s,,
+290627,Dion,Prestia,GC,12,60,55,77,44,63,6,9,1,5,0,1,0,0,0, Full Time,rookie,First game...  %D and %T,tagger,Tagging Judd
+290832,David,Swallow,GC,13,58,70,73,47,69,5,12,2,4,0,0,1,0,0, Full Time,rookie,%2 Curnow... first game... %O and %T,,
+290539,Joshua,Toy,GC,8,53,38,70,44,57,9,3,6,1,0,1,1,0,0, Full Time,rookie,First game... subbed on in Q3 for Krakouer... %P and %M,sub,Started as a sub
+240254,Jarrod,Harbrow,GC,6,50,65,63,40,60,12,7,1,0,0,0,1,0,0, Full Time,job,Trying to zone off Garlett... %P,,
+280711,Charlie,Dixon,GC,10,46,43,58,38,47,6,1,2,2,0,1,1,2,2, Full Time,rookie,First game... first goal for the Suns too... %s from %P on Watson... also %T,,
+220013,Campbell,Brown,GC,3,37,51,46,32,45,5,7,2,1,0,1,1,0,0, Full Time,job,Has Betts... %D,sore,Left ankle restrapped in Q4
+230015,Jared,Brennan,GC,3,33,18,47,28,43,7,3,1,3,0,2,4,0,1, Full Time,news,%s from %P on White... also %T,,
+290520,Alik,Magin,GC,2,30,25,37,27,42,5,8,0,1,0,1,2,0,0, Full Time,rookie,First game... matched up on Scotland... %O and %F,,
+281044,Marc,Lock,GC,2,29,24,37,23,30,6,2,2,0,0,1,0,0,0, Full Time,rookie,First game... %P,,
+261083,Nathan,Krakouer,GC,1,27,33,35,19,27,6,2,0,1,0,1,0,0,0, Full Time,job,Minding Walker... %D,subbed,Subbed off in Q3 for Toy
+292512,Karmichael,Hunt,GC,2,18,25,24,14,21,2,3,0,2,0,1,1,0,0, Full Time,rookie,First game... %D,job,On Hampson
+250417,Bryce,Gibbs,CA,36,144,127,86,119,157,25,11,15,1,0,0,1,0,1, Full Time,hot,%2 Rischitelli... %O and %M plus %s,,
+250105,Marc,Murphy,CA,32,129,133,87,109,145,18,18,8,2,0,3,1,1,1, Full Time,hot,%2 Harris... %P including %b by hand with %M and %s,,
+220108,Bret,Thornton,CA,37,126,127,94,105,127,17,2,11,4,0,3,2,4,1, Full Time,hot,Starting forward on Tape... %s from %D and %G with %T,,
+220056,Chris,Judd,CA,38,123,117,103,96,133,13,16,3,8,0,1,1,2,1, Full Time,hot,%O and %T with %M and %s... tagged by Prestia,,
+271110,Chris,Yarran,CA,26,114,114,77,85,116,19,5,8,6,0,0,1,0,2, Full Time,hot,%P and %M with %T plus %s,job,Running off Matera
+250090,Jordan,Russell,CA,25,113,77,66,86,117,21,6,8,4,0,1,1,0,0, Full Time,hot,%D and %M with %T,,
+240014,Andrew,Walker,CA,30,103,131,73,88,105,13,4,7,1,0,1,0,5,0, Full Time,hot,%s from %P and %M on Krakouer,,
+290311,Mitch,Robinson,CA,25,99,110,69,80,107,15,7,7,4,1,1,2,1,1, Full Time,news,Started in the centre... %O and %T with %M plus %s,,
+270653,Jeff,Garlett,CA,30,97,101,58,82,98,15,1,6,0,0,0,0,5,2, Full Time,x-factor,Kicked %s from %O and %M on Harbrow,,
+270146,Ed,Curnow,CA,21,91,112,64,77,105,12,14,5,2,0,1,1,1,0, Full Time,bubble,%2 Swallow... second game... %D and %M plus %s,,
+270899,Jeremy,Laidler,CA,14,86,79,60,67,90,13,7,7,3,0,0,0,0,0, Full Time,news,%P and %M with %T,job,Standing the resting ruckman at FB
+990059,Heath,Scotland,CA,13,86,101,56,71,96,13,11,7,1,0,0,0,0,0, Full Time,sore,Matched up on Magin... %B among %P with %M... knee knock in Q3,,
+220015,Andrew,Carrazzo,CA,10,80,69,46,65,94,15,8,5,3,0,0,3,0,1, Full Time,news,%D and %M with %T and %s,tagger,Tagging Ablett
+250672,Robert,Warnock,CA,22,77,100,73,70,81,3,8,1,2,26,2,0,2,1, Full Time,news,%H with %P plus %s,,
+220110,Jarrad,Waite,CA,15,75,112,53,68,92,9,13,3,1,0,1,2,2,2, Full Time,news,First goal... %s from %P and %M on Bock,,
+261009,Nick,Duigan,CA,9,73,78,47,60,79,11,9,5,1,0,2,0,0,1, Full Time,bubble,Second game... %P and %M,job,Minding Stanley
+230202,Kade,Simpson,CA,18,67,52,40,57,75,12,3,7,1,0,0,2,1,0, Full Time,news,%P and %M plus %s,,
+240060,Eddie,Betts,CA,20,58,73,65,44,57,2,6,1,6,0,1,0,2,0, Full Time,garbage,%s from %D and %T on Brown... all of his goals in second half junk time,,
+290526,Matthew,Watson,CA,7,57,71,28,44,63,11,7,2,1,0,0,0,0,0, Full Time,rookie,First game... %O and %M,job,On Dixon
+270637,Simon,White,CA,8,55,56,39,50,66,7,10,5,0,0,2,1,0,0, Full Time,job,Standing Brennan at CHF.. %P and %M,,
+270737,Shaun,Hampson,CA,8,41,69,38,39,45,2,4,1,1,20,2,1,0,1, Full Time,news,Starting forward on Hunt... %H and %P with %s,subbed,Subbed off in Q4 for Armfield
+260533,Dennis,Armfield,CA,0,15,13,12,11,15,2,1,1,1,0,0,0,0,0, Full Time,news,On in Q4 for Hampson,sub,Started as a sub

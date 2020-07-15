@@ -1,0 +1,56 @@
+Carlton,Blues,Richmond,Tigers,W1,0.6.5.41,0.3.5.23, Half Time
+Feb 12,2011,7:15,Docklands,Ten,,10300104,1111112046213,5259,Dome,17
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>BoredSaint</em>: i think SC scores are doubled or something..<br><em>BoredSaint</em>: wow at laidler.. 2 kicks yet 156 SC<br><em title="NEWMIE">newmie</em>: sc scores?<br><em>GakAttack</em>: 1.28 Pies to win next game.. people make some money!<br><em title="JSMOOVE">jsmoove</em>: who cares if the NAB cup blows&#044; atleast its a chance to scout some young kids for our DT team :)<br><em>R.Griffen</em>: next game<br><em style='color:#e50000'>m0nty</em>: that one took me back to the days of James Manson<br><em>proud_lion</em>: evpete55 you mirin'<br><em>tigerman28</em>: tigers absolutely shower in the 2nd half<br><em>Redlegs</em>: when does the footy start? thats right not untill next month this nab cup blows<br><em>stewfoss</em>: just keep it premium please. no bickering. <br><em>Loonerty2</em>: Murphy's goal been added?<br>
+250105,Marc,Murphy,CA,8,52,-,67,38,49,6,5,1,4,0,4,0,0,1, Half Time,hot,Looked especially good in Q2... %D and %T plus %s
+261258,David,Ellard,CA,9,44,-,55,36,45,4,4,3,2,0,1,0,1,0, Half Time,news,%D and %M with %T
+281079,Kane,Lucas,CA,3,37,-,48,29,39,2,5,3,3,0,0,0,0,0, Half Time,news,%O and %T with %M
+290311,Mitch,Robinson,CA,7,32,-,39,26,31,4,0,1,1,1,0,0,2,0, Half Time,news,%P and %s on White
+270899,Jeremy,Laidler,CA,2,30,-,37,26,33,2,5,3,1,0,1,0,0,0, Half Time,news,%B among %O with %M running out of defence
+240014,Andrew,Walker,CA,2,29,-,36,24,32,3,4,2,1,0,0,0,0,2, Half Time,news,Forward on Rance... %s from %O and %M
+291397,Rohan,Kerr,CA,8,29,-,33,26,30,3,2,1,0,0,1,0,2,0, Half Time,news,%s from %O with most of it in Q2
+990059,Heath,Scotland,CA,1,27,-,33,22,30,3,5,1,1,0,1,0,0,0, Half Time,news,%B among %P
+250211,Paul,Bower,CA,2,26,-,34,20,27,4,2,2,1,0,0,0,0,0, Half Time,job,On Miller... %D
+261009,Nicholas,Duigan,CA,2,26,-,37,24,36,6,2,3,1,0,0,3,0,0, Half Time,news,Lots of rebound ball out of defence early... %P and %M plus %F
+220110,Jarrad,Waite,CA,2,24,-,31,19,24,3,2,2,1,0,1,0,0,0, Half Time,news,%O and %G on Astbury
+250672,Robert,Warnock,CA,2,23,-,27,21,28,4,3,0,0,7,1,1,0,0, Half Time,news,%H and %D
+230202,Kade,Simpson,CA,7,22,-,29,19,24,3,0,2,1,0,0,1,1,0, Half Time,news,%D and %M plus %s
+260533,Dennis,Armfield,CA,2,21,-,25,19,24,2,4,2,0,0,1,0,0,0, Half Time,news,%O and %M
+290526,Matthew,Watson,CA,2,20,-,28,14,18,2,0,2,2,0,0,0,0,0, Half Time,job,Chasing Taylor... %D and %M plus %T
+271110,Chris,Yarran,CA,1,16,-,19,14,18,2,3,1,0,0,1,0,0,0, Half Time,job,Starting his new halfback role on Nahas... %P
+250090,Jordan,Russell,CA,1,15,-,18,12,18,3,3,0,0,0,0,0,0,0, Half Time,news,%D
+240716,Setanta,O'hAilpin,CA,0,14,-,17,12,16,2,2,1,0,0,0,0,0,1, Half Time,news,%s from %P on Thursfield
+281124,Levi,Casboult,CA,0,12,-,16,11,15,1,1,1,1,3,0,1,0,0, Half Time,news,%H and %P
+220108,Bret,Thornton,CA,0,11,-,15,10,15,3,1,1,0,0,0,1,0,0, Half Time,news,%O
+250667,Wayde,Twomey,CA,0,10,-,12,8,12,2,2,0,0,0,0,0,0,0, Half Time,news,Started as a sub... on in Q2... %D
+261318,Aaron,Joseph,CA,0,8,-,10,6,9,2,1,0,0,0,0,0,0,0, Half Time,news,%P
+281049,Marcus,Davies,CA,0,6,-,8,5,6,1,0,1,0,0,0,0,0,0, Half Time,news,Just the %p touch
+280971,Jaryd,Cachia,CA,0,5,-,8,6,12,1,2,0,1,0,0,2,0,0, Half Time,news,%D and %F
+281054,Mitchell,Carter,CA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,news,No stats
+291456,Andrew,McInnes,CA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub
+290198,David,Astbury,RI,9,66,-,44,51,63,11,1,7,2,0,2,0,0,0, Half Time,hot,Following Waite... %D and %M
+260105,Daniel,Connors,RI,10,45,-,25,39,48,8,2,4,0,0,2,1,1,0, Half Time,hot,%D and %M plus %s
+260930,Shane,Edwards,RI,3,39,-,27,31,39,6,2,4,1,0,1,0,0,0, Half Time,news,Plenty of clangers among his %O... also %M
+292027,Pat,Contin,RI,3,38,-,23,29,36,7,0,4,1,0,1,0,0,0, Half Time,news,%M and %P
+240412,Mitch,Morton,RI,8,34,-,25,28,33,4,1,1,1,0,1,0,2,0, Half Time,news,%s from %P
+271437,Jake,King,RI,3,34,-,31,27,31,3,3,2,2,0,4,0,0,1, Half Time,news,%s from %O in a small forward role... also %T
+240389,Matt,White,RI,2,30,-,11,23,31,7,1,2,0,0,0,0,0,1, Half Time,job,%P and %M on Robinson
+200109,Shane,Tuck,RI,2,29,-,13,25,33,6,3,2,0,0,2,1,0,0, Half Time,news,%O and %M
+230279,Kelvin,Moore,RI,3,29,-,23,21,27,4,1,2,2,0,1,0,0,0, Half Time,job,Minding Casboult... %P and %M
+250662,Will,Thursfield,RI,2,25,-,22,18,24,3,1,2,2,0,0,0,0,0, Half Time,job,Standing O'hAilpin... %P and %M with %T
+270954,Andrew,Browne,RI,0,19,-,12,14,18,3,1,0,1,3,1,0,0,0, Half Time,news,%H and %P with %T
+261362,Alex,Rance,RI,2,18,-,10,16,24,4,1,2,1,0,0,2,0,0, Half Time,job,On Walker... %M and %D
+290823,Reece,Conca,RI,1,18,-,21,11,15,1,1,0,3,0,1,0,0,0, Half Time,news,%P and %T
+250623,Robin,Nahas,RI,0,16,-,13,14,18,2,2,1,1,0,2,1,0,0, Half Time,news,%D on Yarran
+261910,Ben,Nason,RI,1,16,-,9,13,16,3,0,2,0,0,0,0,0,1, Half Time,sore,Flattened in a contest in Q1 by Cachia and winded... %s from %P and %M
+291437,Jake,Batchelor,RI,1,14,-,10,12,15,2,1,2,0,0,0,0,0,0, Half Time,news,%P and %M
+294797,Tom,Derickx,RI,1,13,-,17,9,11,0,1,0,2,2,1,0,0,0, Half Time,news,%H and %T
+271139,Mitchell,Keddell,RI,1,12,-,13,9,15,1,2,0,2,0,0,1,0,0, Half Time,news,%D and %T
+292500,Jeromey,Webberley,RI,0,9,-,9,8,12,1,1,1,1,0,0,1,0,0, Half Time,news,%O
+280986,Troy,Taylor,RI,0,8,-,6,7,9,1,1,1,0,0,0,0,0,0, Half Time,news,%D on Watson
+292032,Nick,Westhoff,RI,0,7,-,5,6,7,1,0,1,0,0,0,0,0,1, Half Time,news,Kicked %s from his only possession
+220071,Brad,Miller,RI,0,6,-,8,4,6,0,1,0,1,0,0,0,0,0, Half Time,news,Started on the ground but was barely sighted... %p touch
+270941,Tyrone,Vickery,RI,0,6,-,3,5,7,1,1,0,0,0,0,0,0,1, Half Time,news,%D and %s
+292025,Matthew,Dea,RI,0,6,-,7,8,12,0,3,1,0,0,0,1,0,0, Half Time,news,%P by hand and that was it
+280922,Ben,Jakobi,RI,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub
+293798,Dean,MacDonald,RI,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub

@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Melbourne,Demons,R15,19.13.127,8.15.63, Full Time
+Jul 1,2011,7:40,Docklands,Seven,230041,10311501,5578,111,Roof closed,17,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em title="BIG_GAME">big_game</em>: Dt is shower telli got pts for kicking it the other way n giving a goal away last weekend<br><em title="BIG_GAME">big_game</em>: Yep n he should of got the bin started getting into it wen game was over <br><em>raiden_696</em>: Wearing the "45"<br><em>tor01doc</em>: SC > DT. DT junk stats.<br><em>raiden_696</em>: big_game - I agree&#044; the kick 2 h/ball ratio..<br><em title="BIG_GAME">big_game</em>: Boyd a hack Griffen only 4 more possies than him n double his sc score lol<br><em>raiden_696</em>: bibby? This game was like MJ playing Utah&#044; wid the flu! Go dog's! <br><em>Bibby</em>: who plays sc honestly<br><em>A Bit High</em>: Far to many people on here b*tch and moan about player that they picked. Your fault not theres!<br><em>bigsandi</em>: Dee's suck bro<br><em>A Bit High</em>: Boyd & Higgins...not complaining about Boyd as my opponent had him as Skipper. Nice work Boydy!!<br><em>whale</em>: boyd sylvia moloney all in my side. ruin my weekend. Petterd looks quite a player though from a footy perspective<br>
+200079,Daniel,Giansiracusa,WB,37,132,133,168,104,131,22,3,6,4,0,3,1,4,2, Full Time,star,Kicked %s from %P and %M on Garland... also %T,,
+210049,Daniel,Cross,WB,31,121,100,155,97,126,10,14,10,7,3,2,0,0,0, Full Time,hot,%2 Jones... %O and %M with %T,,
+240156,Ryan,Griffen,WB,27,115,144,147,90,123,19,9,5,4,0,0,1,2,0, Full Time,hot,Tagged by McKenzie... %s from %P with %k by foot.... also %M and %M,sore,Headclash with Moloney in Q3 shook him up
+230041,Adam,Cooney,WB,32,110,122,141,86,119,14,12,5,6,1,0,1,1,1, Full Time,hot,%2 Gysberts... %D and %M with %T and %s,,
+260227,Shaun,Higgins,WB,26,100,111,121,87,114,11,15,6,2,0,2,1,2,0, Full Time,hot,%D and %M plus %T and %s,job,Starting in defence again on Sylvia
+220010,Matthew,Boyd,WB,20,93,70,119,73,105,12,14,4,5,0,0,1,0,0, Full Time,news,%2 Moloney... %O and %T with %M,,
+271439,Liam,Picken,WB,24,87,74,113,62,83,11,6,1,7,0,3,0,1,2, Full Time,skull,Tagging Scully... %O and %T plus %s,,
+280109,Callan,Ward,WB,21,81,108,95,75,103,8,17,4,1,0,0,2,2,1, Full Time,news,%2 Trengove... %O with %b by hand... also %M and %s,,
+200080,Lindsay,Gilbee,WB,19,79,94,101,66,87,11,7,7,2,0,0,1,1,0, Full Time,job,In defence on Bennell... %D and %M plus %T and %s,,
+261319,Jarrad,Grant,WB,22,79,62,104,59,78,8,5,5,6,0,0,0,1,0, Full Time,news,Enjoyed himself in Q4 junk time... %D and %T on Morton,garbage,
+200083,Robert,Murphy,WB,9,78,68,102,59,81,17,4,5,1,0,0,0,0,0, Full Time,cougar,On Jurrah... %O and %M,garbage,Enjoyed himself in Q4 junk time
+281078,Liam,Jones,WB,11,76,68,98,62,76,8,4,8,3,7,1,0,0,0, Full Time,garbage,%O and %M on Rivers... also %H in ruck support.... lots of Q4 garbage stats,,
+240710,Ben,Hudson,WB,21,74,68,89,64,81,6,6,1,4,30,1,2,0,0, Full Time,news,%H and %D with %T,,
+291526,Luke,Dahlhaus,WB,22,71,73,92,54,73,7,5,2,6,0,0,1,2,1, Full Time,news,%s from %D and %T on Strauss,,
+960570,Barry,Hall,WB,16,65,79,81,54,62,7,0,5,2,1,1,0,3,1, Full Time,news,Booted %s from %G and %D on Frawley,,
+250712,Dale,Morris,WB,10,63,85,85,47,66,8,5,4,5,0,0,1,0,0, Full Time,job,Following Green... %P and %T with %M,,
+280919,Andrew,Hooper,WB,5,61,59,80,47,63,10,4,5,2,0,0,0,0,0, Full Time,bubble,Second game... %P and %M with %T on Nicholson,sore,Elbow knock in Q1
+260373,Ed,Barlow,WB,5,57,49,74,44,59,7,5,4,3,1,0,0,0,1, Full Time,news,%D and %T plus %M and %s,subbed,Subbed off in Q4 for Reid
+281139,Easton,Wood,WB,5,54,40,70,42,57,8,5,4,2,0,0,0,0,0, Full Time,job,Minding Petterd... %P,,
+250150,Tom,Williams,WB,4,53,66,69,42,54,11,2,5,0,0,1,0,0,0, Full Time,job,Chasing Watts... %M and %D,sore,Left shoulder stinger in Q4
+250601,Lukas,Markovic,WB,8,48,54,60,44,63,6,10,4,1,0,0,2,0,0, Full Time,job,Has Howe... %D and %M plus %F,,
+261374,Sam,Reid,WB,2,30,16,38,23,31,3,4,1,2,0,1,0,0,1, Full Time,news,On in Q4 for Barlow,sub,Started as a sub
+250360,Ricky,Petterd,ME,31,109,114,90,82,106,13,5,6,7,0,1,0,2,1, Full Time,hot,First goal... %s from %P and %M on Wood... also an impressive %T,,
+280608,Jack,Trengove,ME,25,101,117,66,79,111,16,11,3,5,0,2,2,1,0, Full Time,hot,%2 Ward... %B among %D with %M and %T... also %s,mrp,Sling tackle on Ward in Q3 will be scrutinised
+280763,Stefan,Martin,ME,19,92,77,62,76,99,14,5,6,3,15,1,2,0,0, Full Time,news,%P and %M plus %T... also %H,sore,Knock on a shin in Q3
+250222,Nathan,Jones,ME,10,85,80,59,67,92,12,11,4,3,0,1,0,0,2, Full Time,news,%2 Cross... %D with %B... also %M and %T plus %s,,
+280972,Jack,Watts,ME,20,85,94,68,74,93,9,9,8,1,0,0,0,2,0, Full Time,news,%s from %O and %M on Williams,,
+270906,Jordie,McKenzie,ME,18,82,102,64,65,93,9,17,1,4,0,2,0,0,0, Full Time,news,%O with %b by hand... also %T,tagger,Tagging Griffen
+280969,Tom,Scully,ME,42,76,73,91,56,84,2,15,1,10,0,0,1,0,0, Full Time,tagged,Tagged by Picken... %P and %T,,
+200054,Brad,Green,ME,18,73,83,66,58,76,7,8,6,4,0,1,0,0,1, Full Time,news,%s from %P and %T with %M on Morris,,
+270985,Cale,Morton,ME,13,73,85,56,60,81,9,10,6,2,0,0,0,0,0, Full Time,job,In defence on Grant... %D and %M plus %T,,
+280748,Jordan,Gysberts,ME,13,70,69,58,54,79,8,11,2,5,1,0,1,0,0, Full Time,news,%2 Cooney... %B among %D with %T and %M,,
+291313,Jeremy,Howe,ME,15,70,79,51,61,74,9,4,6,1,0,2,1,2,2, Full Time,news,%s from %M and %D on Markovic,,
+230151,Brent,Moloney,ME,19,69,68,56,52,78,9,9,2,6,0,0,2,0,0, Full Time,sore,%2 Boyd... %D and %M plus %T... split finger on right hand in Q3,,
+220052,Mark,Jamar,ME,20,65,74,64,59,67,2,4,1,2,39,0,0,0,1, Full Time,news,%H and %P plus %s,,
+240037,Colin,Sylvia,ME,15,65,65,58,51,68,6,7,3,4,1,0,0,1,1, Full Time,news,Higgins on him... %s from %O and %T with %M,,
+270937,James,Strauss,ME,9,62,63,44,52,75,8,13,2,2,0,1,1,0,0, Full Time,job,Chasing Dahlhaus.... %O and %T with %M,,
+230250,Jared,Rivers,ME,16,61,73,68,48,66,3,9,4,6,0,1,1,0,0, Full Time,job,On Jones... %P and %T with %M,,
+260288,James,Frawley,ME,7,52,69,22,45,66,11,8,3,0,0,0,2,0,0, Full Time,job,Has Hall... %O and %M... also %F,,
+294874,Daniel,Nicholson,ME,3,43,48,32,33,48,6,6,1,3,0,1,1,0,0, Full Time,job,In defence on Hooper... %D and %T,,
+260952,Liam,Jurrah,ME,4,41,39,26,32,45,7,3,2,2,0,0,1,0,3, Full Time,sore,Kicked %s from %P and %G in an interesting matchup on Murphy... is carrying a right calf problem and looked proppy at times,,
+270830,Colin,Garland,ME,4,41,49,32,34,45,5,5,4,1,0,0,0,0,0, Full Time,job,Minding Giansiracusa... %P and %M,,
+280746,Sam,Blease,ME,1,18,18,11,13,18,3,2,0,1,0,1,0,0,0, Full Time,rookie,First game... on in Q3 for Bennell... %D,sub,Started as a sub
+290943,Jamie,Bennell,ME,2,18,17,14,16,21,2,3,2,0,0,0,0,0,0, Full Time,news,Up forward on Gilbee... %O and %M,subbed,Subbed off in Q3 for Blease

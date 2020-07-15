@@ -1,0 +1,48 @@
+Collingwood,Magpies,St Kilda,Saints,R16,15.10.100,6.16.52, Full Time
+Jul 17,2010,2:10,MCG,Ten,240700,10281602,5015482,5190,Windy,15
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>master6842</em>: goddard back from a week off?? that is completely irrelevant! if anythin that advantages him<br><em>cdrobert</em>: spud brown<br><em>Swanlowsux</em>: Reivwolt 50% gram% no dal santo Godard back from a week off&#044; the saints are still dangerous<br><em>Nigey95</em>: should of put Hodge captain over Goddard...<br><em>freakycats</em>: yea might aswell stingers<br><em>Swanlowsux</em>: Let's hope the pies supporters get a little head of themselves.<br><em>Stingers</em>: freakycats got to throw hawks in there maybe with there recent form<br><em>handypoint</em>: sainterman&#044; you still after the free count?<br><em>tigerboy</em>: good to see Gilbert get showerhouse SC score :)<br><em>freakycats</em>: Pies beat Saints&#044; Saints beat Cats&#044; Cats beat Pies...wonder who will win Grand Final...<br><em>thollo</em>: who won png?<br><em title="BENNN17">bennn17</em>: Hayes about 50 points that quarter<br>
+220105,Dane,Swan,CO,36,138,145,174,109,148,21,15,7,4,0,1,0,1,1, Full Time,star,Head to head with Goddard... %O and %M with %T and %s
+260257,Scott,Pendlebury,CO,30,119,106,154,91,124,16,11,7,6,3,0,0,0,1, Full Time,hot,%D and %M with %T
+240359,Dale,Thomas,CO,26,116,78,151,95,126,17,10,12,3,0,0,1,0,0, Full Time,hot,%D and %M
+210003,Alan,Didak,CO,20,114,104,144,90,124,20,13,6,2,0,1,0,0,1, Full Time,hot,Tagged by Jones... %s from %O with %M and %T
+261799,Sharrod,Wellingham,CO,20,102,102,133,83,110,15,8,10,3,0,0,1,0,2, Full Time,hot,%P and %M plus %T and %s
+220005,Luke,Ball,CO,26,101,113,133,81,105,14,6,8,5,0,3,2,1,0, Full Time,hot,%P and %M with %T plus %s
+271001,Dayne,Beams,CO,26,95,75,121,77,102,12,8,6,4,0,0,1,2,0, Full Time,garbage,%O and %M with %T and %s... many of his numbers in Q4 garbage time
+200028,Leigh,Brown,CO,25,89,115,108,78,97,7,9,6,3,4,1,1,3,0, Full Time,news,%s from %P and %M trying to keep Fisher honest... also %H
+240700,Heath,Shaw,CO,21,88,107,111,70,90,10,7,5,4,0,1,0,2,0, Full Time,x-factor,Playing a HFF on Ray... %D and %T plus %M and %s
+200019,Leon,Davis,CO,25,85,59,115,70,92,13,2,9,4,0,0,3,1,2, Full Time,news,%s from %O and %M on Gram... also %T
+261181,Brent,Macaffer,CO,22,82,82,104,67,84,7,5,5,5,0,1,1,3,0, Full Time,tagger,Forward tag on Gilbert... %s from %P and %G with %T
+280965,Steele,Sidebottom,CO,21,76,80,99,58,78,6,8,3,7,0,2,1,1,0, Full Time,news,%D and %T with %M
+200021,Ben,Johnson,CO,8,75,92,99,54,75,15,4,3,3,0,1,0,0,0, Full Time,job,Minding Milne... %O and %T
+240232,Ben,Reid,CO,18,74,81,93,65,82,9,8,10,0,1,0,0,0,0, Full Time,job,Standing Koschitzke... %P and %M
+980110,Tarkyn,Lockyer,CO,14,66,66,87,51,72,7,8,4,5,0,0,1,0,0, Full Time,news,%P and %T with %M
+210099,Darren,Jolly,CO,16,64,81,72,62,74,4,7,4,0,29,0,1,0,0, Full Time,news,%H and %D with %M
+240419,Alan,Toovey,CO,13,63,75,79,49,69,4,12,2,5,0,1,0,0,0, Full Time,job,Minding Gwilt... %P and %T
+260246,Tyson,Goldsack,CO,15,61,77,84,43,57,4,3,5,7,0,0,0,0,0, Full Time,job,Sitting on Schneider... %D and %T plus %M
+240073,Harry,O'Brien,CO,5,60,33,83,46,63,12,1,5,3,0,1,2,0,0, Full Time,news,Left loose in defence early... %P and %M with %T
+280104,Jarryd,Blair,CO,8,46,50,58,40,57,6,9,2,2,0,2,2,0,0, Full Time,cash,%P and %T
+960159,Simon,Prestigiacomo,CO,3,25,33,30,24,30,1,5,4,0,0,0,0,0,0, Full Time,job,Following Riewoldt... %M and %O
+260394,Chris,Dawes,CO,8,20,35,27,20,30,2,3,1,2,0,0,3,1,0, Full Time,news,Booted %s from %P on Dawson... also %T
+240708,Sam,Fisher,SK,43,143,147,100,122,157,21,12,18,1,1,0,1,0,0, Full Time,gun,Zoning off Leigh Brown... %D and %M
+220075,Leigh,Montagna,SK,27,133,137,87,100,137,21,13,5,6,0,3,0,0,2, Full Time,hot,%P and %T with %M and %s
+990028,Lenny,Hayes,SK,24,111,90,89,92,127,13,16,7,5,4,1,2,0,0, Full Time,garbage,%B among %O with %M and %T... scored heavily in Q4 garbage time
+261743,Clinton,Jones,SK,27,97,95,91,72,99,9,11,5,8,0,1,0,0,0, Full Time,tagger,Tagging Didak... %O and %T with %M
+230084,Brendon,Goddard,SK,19,96,94,64,80,110,14,14,6,2,2,1,1,0,0, Full Time,news,Head to head with Swan... %P and %M with %T
+250134,Sam,Gilbert,SK,20,96,65,65,81,108,15,9,10,2,0,1,2,0,0, Full Time,tagged,Forward tag on him by Macaffer... %P and %M
+260113,Jarryn,Geary,SK,27,89,93,72,70,97,11,9,4,6,0,1,2,1,1, Full Time,news,%P and %M with %T and %s
+210001,Nick,Riewoldt,SK,16,71,62,67,59,72,6,4,8,3,1,0,0,1,2, Full Time,sore,%s from %O and %G on Prestigiacomo... knock on the right knee in Q1
+220098,Adam,Schneider,SK,13,69,73,52,54,76,9,9,2,4,0,1,1,0,4, Full Time,news,%s from %O and %T on Goldsack
+220034,Jason,Gram,SK,8,67,48,45,51,73,10,9,2,3,0,0,0,0,1, Full Time,burger,Has Davis and also has a few extra kegs on his frame... %P and %s
+250703,James,Gwilt,SK,8,64,74,36,53,72,11,8,5,0,0,0,0,0,0, Full Time,news,Started forward on Toovey... %P and %M
+250690,Adam,Pattison,SK,10,63,77,61,60,74,3,12,5,1,11,3,1,0,0, Full Time,news,%H and %D with %M
+240552,Zac,Dawson,SK,12,60,70,51,54,69,6,9,7,1,0,2,1,0,0, Full Time,job,Standing Dawes... %M and %D
+270912,Jack,Steven,SK,10,58,72,41,44,57,8,3,1,3,0,1,0,2,0, Full Time,garbage,%s from %P with %T in a crumbing forward role... all of his goals in Q4 junk time
+240701,Brett,Peake,SK,8,57,41,34,45,64,10,6,3,2,0,0,1,0,1, Full Time,sore,Rolled left ankle in Q1... %D and %s
+200068,Jason,Blake,SK,8,56,45,46,48,63,6,8,6,1,0,0,0,0,0, Full Time,news,Left loose in defence... %P and %M
+210002,Justin,Koschitzke,SK,14,55,35,51,49,58,4,4,6,1,6,0,0,1,1, Full Time,crab,First goal... %s from %P and %M on Reid... also %H
+240062,Farren,Ray,SK,4,52,60,40,44,57,6,8,4,1,0,2,0,0,0, Full Time,job,Playing a HBF on Shaw... %O and %M
+970064,Michael,Gardiner,SK,6,50,58,36,44,53,6,4,4,0,11,1,0,0,0, Full Time,news,%H and %P
+200108,Stephen,Milne,SK,9,42,28,23,36,53,8,4,1,2,0,0,3,1,2, Full Time,cold,%s from %O on Johnson.... also %F
+240012,Andrew,McQualter,SK,3,39,30,32,33,43,4,6,3,1,0,1,0,0,1, Full Time,news,%D and %M
+230243,Sean,Dempster,SK,2,35,22,25,28,36,5,3,3,1,0,1,0,0,0, Full Time,in,%l Nick Dal Santo (back soreness)... %D

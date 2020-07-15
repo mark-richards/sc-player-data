@@ -1,0 +1,48 @@
+Collingwood,Magpies,Western Bulldogs,Bulldogs,R11,17.11.113,16.7.103, Full Time
+Jun 06,2010,4:40,Docklands,Fox Sports,210003,10281108,5015609,5156,Roof closed,16
+The iPhone app is going through last minute modifications requested by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Q4 Sunday twilight go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em>nathanswar</em>: 2544 best score ever for me! :)<br><em>BomberMat</em>: 2529&#044; my all time higheest :)<br><em>tor01doc</em>: Chek you're speling<br><em>riewoldt12</em>: denga15 you flowerhead top weekly scores get $1000<br><em>Pokerface</em>: why did i captain Presti :(<br><em>redwallis</em>: i got 4000<br><em>Judd u sta</em>: 2405 with raines out (no emg)<br><em>sullitons</em>: just 16 in supercoach but a solid 67 in dt for me<br><em>tor01doc</em>: 2452 sc and lost v 2502. Dudded.<br><em>martc</em>: 2378 in scrabble this w/e<br><em>shandm</em>: i got 3000<br><em>kelso775</em>: I wanna punch Pendlebury in that sorry excuse for a moustache<br>
+260257,Scott,Pendlebury,CO,39,136,146,172,105,145,15,18,5,8,0,1,0,1,1, Full Time,medal,%P and %T with %M and %s
+220105,Dane,Swan,CO,32,128,120,159,102,142,16,19,5,5,0,0,0,1,1, Full Time,hot,%P and %M plus %s
+210003,Alan,Didak,CO,37,121,119,152,100,129,15,10,8,4,0,1,1,3,0, Full Time,hot,First goal... %s from %P under the tag by Picken... also %T and %M
+220005,Luke,Ball,CO,20,106,106,132,87,118,11,18,5,5,0,4,1,0,1, Full Time,hot,Head to head with Cross... %B among %D with %T and %M
+240359,Dale,Thomas,CO,19,97,122,124,73,105,16,12,3,4,0,0,0,0,0, Full Time,news,Head to head with Griffen... %O and %T
+240232,Ben,Reid,CO,25,96,102,127,74,102,12,9,7,6,0,0,1,0,0, Full Time,job,Stood Hahn then Grant... %D and %T with %M
+271001,Dayne,Beams,CO,21,81,70,103,68,94,9,11,5,4,0,0,2,1,1, Full Time,news,%D and %T
+200028,Leigh,Brown,CO,17,78,85,100,63,81,7,6,5,5,0,1,1,2,0, Full Time,news,Played at FF on Lake then Hahn... %s from %P with %G and %T
+200019,Leon,Davis,CO,20,75,104,92,66,82,11,5,4,1,0,3,2,3,1, Full Time,x-factor,%s from %D and %M on Harbrow... his lift in form coincides with that of Collingwood not surprisingly
+280965,Steele,Sidebottom,CO,19,74,85,99,54,75,8,7,3,7,0,2,1,0,0, Full Time,news,%O and %M with %T
+240419,Alan,Toovey,CO,8,72,94,89,56,78,10,12,1,3,0,3,0,0,0, Full Time,job,Had Higgins... %O and %T
+261799,Sharrod,Wellingham,CO,15,70,56,87,60,82,10,8,3,2,0,0,2,2,1, Full Time,tagger,Tagged Cooney... %D and %M plus %s
+210099,Darren,Jolly,CO,17,69,63,84,67,87,6,8,5,2,18,0,4,1,0, Full Time,news,%H and %D with %M plus %s
+240073,Harry,O'Brien,CO,14,68,106,84,57,78,11,9,3,1,0,1,1,1,0, Full Time,job,Zoned off Grant then loose man in second half... %D and %s
+240700,Heath,Shaw,CO,13,67,82,90,55,75,12,4,7,2,0,0,2,0,0, Full Time,tagged,Forward tag on him by Giansiracusa... %D and %M with %F
+261181,Brent,Macaffer,CO,19,66,63,87,49,72,5,10,2,7,0,0,1,0,0, Full Time,news,%M and %D with %T
+240366,Travis,Cloke,CO,10,62,56,80,48,62,12,1,4,1,1,0,0,1,1, Full Time,news,Williams on him... %s from %O and %M
+230263,Nick,Maxwell,CO,9,58,72,75,47,66,7,8,4,3,0,0,1,0,0, Full Time,job,Moved onto Hall in Q3... %P and %M
+200021,Ben,Johnson,CO,3,44,48,54,37,51,7,7,3,0,0,0,0,0,0, Full Time,news,%D
+200020,Josh,Fraser,CO,9,41,16,51,38,48,5,3,3,1,6,1,2,1,0, Full Time,news,%H and %D
+220070,Paul,Medhurst,CO,2,33,18,43,25,34,6,2,2,1,0,0,0,0,1, Full Time,cold,No stats in Q1... %s from %P and %M on Morris
+960159,Simon,Prestigiacomo,CO,2,24,42,33,19,27,1,3,2,3,0,0,1,0,0, Full Time,news,Hall was his man until Q3... %P
+220010,Matthew,Boyd,WB,44,143,149,116,113,155,16,20,5,8,2,3,1,1,0, Full Time,gun,%P and %T with %M and %s
+230041,Adam,Cooney,WB,31,128,124,94,101,132,17,11,7,5,0,2,0,2,0, Full Time,hot,Tagged by Wellingham... %O and %T with %M and %s
+240254,Jarrod,Harbrow,WB,24,103,79,58,81,114,20,7,7,4,0,1,3,0,0, Full Time,hot,Had Davis... %O and %M with %F
+210049,Daniel,Cross,WB,15,102,144,74,83,111,13,15,5,3,3,3,0,0,0, Full Time,hot,Head to head with Ball.... %P and %T with %M
+960570,Barry,Hall,WB,22,93,77,71,82,97,11,3,9,1,0,1,1,4,1, Full Time,news,Played high up the ground on Prestigiacomo then Maxwell... %s from %P and %G including three majors in Q3
+230255,Will,Minson,WB,24,85,97,79,73,87,6,5,4,4,12,2,1,3,0, Full Time,news,%H and %D with %s
+240710,Ben,Hudson,WB,20,83,81,80,72,91,5,11,4,4,19,2,1,0,0, Full Time,reported,%H and %P wiht %M and %T... reported for rough conduct after slam tackling Ball in Q2
+220039,Brian,Lake,WB,21,81,70,70,66,85,9,5,8,4,0,0,1,1,1, Full Time,heart,Had Leigh Brown at FB... %M and %O... left knee restrapped in Q3 and moved forward onto Maxwell where he played a lot better
+200080,Lindsay,Gilbee,WB,13,75,89,42,62,82,13,8,6,0,0,1,0,0,1, Full Time,news,%D
+240029,Brodie,Moles,WB,19,72,71,57,57,81,9,9,2,5,0,1,2,1,0, Full Time,news,%D and %s
+261209,Josh,Hill,WB,12,68,78,47,56,72,10,3,5,2,0,0,1,2,0, Full Time,news,%s from %D and %M with %T
+970100,Nathan,Eagleton,WB,9,67,47,48,54,75,9,10,4,2,0,0,0,0,0, Full Time,news,%O and %M
+240156,Ryan,Griffen,WB,8,62,57,39,48,66,10,7,3,2,0,1,0,0,0, Full Time,news,Head to head with Thomas... %O and %M
+240212,Dylan,Addison,WB,12,58,31,34,50,66,10,6,6,0,0,1,1,0,0, Full Time,news,%P and %M
+200079,Daniel,Giansiracusa,WB,5,51,45,39,42,57,7,5,5,2,0,0,1,0,0, Full Time,tagger,Forward tag on Shaw which is destroying his own fantasy production... %P and %M
+200081,Mitch,Hahn,WB,8,50,48,41,38,57,6,8,1,4,0,0,1,0,0, Full Time,job,Moved back onto Leigh Brown in Q3... %P and %T
+271439,Liam,Picken,WB,7,50,57,42,39,57,5,10,1,3,0,0,0,0,0, Full Time,tagger,Tagged Didak... %O and %T
+261319,Jarrad,Grant,WB,10,46,47,37,43,56,5,6,4,1,0,1,2,1,2, Full Time,mrp,O'Brien allowed him a lot of latitude early then got Reid in Q3... %s from %D... punched Reid off the ball in Q4 and will get weeks after Reid was coughing up blood
+260227,Shaun,Higgins,WB,4,45,20,33,35,48,6,6,2,2,0,1,0,0,0, Full Time,injured,%P and %M on Toovey... carried off with recurrence of previous left ankle injury in Q1... back on halfway through Q2... eventually iced up in Q4
+260965,Brennan,Stack,WB,10,42,32,33,35,48,5,5,2,2,0,0,1,1,0, Full Time,news,%P and %M
+250150,Tom,Williams,WB,7,37,61,30,24,33,5,2,0,4,0,2,0,0,0, Full Time,job,Followed Cloke... %O and %T
+250712,Dale,Morris,WB,7,35,54,39,23,33,2,4,0,5,0,1,0,0,0, Full Time,job,Sat on Medhurst... %D and %T

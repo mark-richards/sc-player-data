@@ -1,0 +1,48 @@
+Port Adelaide,Power,Adelaide,Crows,R3,17.16.118,16.13.109, Full Time
+Apr 14,2013,4.40,Footy Park,Seven,261384,10390309,5015,0,A shower or two,23,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>bartyboys</em>: wow thanks danger you flowered  my overall !!<br><em>oldfart</em>: yes crows are soft ha ha<br><em>Heizenberg</em>: Boak pinched it off westoff truly deserves it though&#044; 5 blokes could have won it <br><em>richorocks</em>: wow&#044; thanks danger&#044; lost me my game<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: Danger deserves the heart after the blood rule thing and his team dropped off in 2nd half <br><em>mookie</em>: 3 weeks in a row for Hoff. Not looking like pumpkin material.<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> therichone</em>: tipped 9 this week...you beauty!!!<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> spiggs</em>: yes danger!<br><em>biggerz</em>: you are kidding me danger.<br><em>Breezey</em>: Port by9<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Kenny27</em>: danger on the siren sweet lol<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> essendon-4</em>: danger goal on sirennn<br>
+260750,Justin,Westhoff,PA,39,140,150,175,113,142,15,9,8,6,0,1,0,4,4, Full Time,cherry,Booted %s from %P and %T with %M on Otten then Talia,,,394800,-24,430700,-10,Forward,39
+210020,Kane,Cornes,PA,32,128,117,170,96,132,22,8,8,6,0,1,1,0,0, Full Time,hot,%D and %T with %M,tagger,Tagging Dangerfield,473000,40,499000,4,Midfielder,18
+294318,Oliver,Wines,PA,32,126,121,162,101,129,17,8,9,5,0,3,1,2,0, Full Time,x-factor,Played way better than a third gamer should in a Showdown... %O and %M with %T plus %s,cash,As with all wines his value is improving with age,156700,-88,169500,-76,Midfielder ,16
+250365,Travis,Boak,PA,28,112,134,138,94,127,18,12,4,2,0,1,2,3,1, Full Time,medal,Tagged by van Berlo but too good for the Adelaide captain... %D and %s... also %F... won the Showdown medal,,,431300,33,481500,51,Midfielder,1
+261892,Hamish,Hartlett,PA,19,107,118,138,82,113,19,9,6,3,0,0,0,0,2, Full Time,hot,%O and %M plus %s,job,In defence on Johncock,421400,105,489000,126,Midfielder,8
+291962,Chad,Wingard,PA,31,102,123,122,90,117,10,15,6,2,0,1,1,3,0, Full Time,superman,%D and %M on Brown... his %s all scored in Q4 won the game for Port,,,249500,-32,276500,-70,Midfielder,20
+240290,Angus,Monfries,PA,17,90,120,111,75,97,13,9,4,2,0,3,1,2,1, Full Time,news,%s from %D and %T with %M on Talia then Otten,,,352300,16,356700,-5,Forward,6
+271078,Matthew,Broadbent,PA,16,89,112,114,68,91,15,6,4,3,0,1,0,1,1, Full Time,news,First goal... %P and %M plus %s,,,413100,99,451900,82,Midfielder,5
+261911,Brad,Ebert,PA,10,72,73,92,56,78,12,8,4,2,0,0,0,0,0, Full Time,tagged,Tagged by Douglas... %O and %M with %T,,,511900,52,535300,98,Midfielder,7
+290540,Cameron,O'Shea,PA,14,67,55,89,52,72,9,6,5,4,0,0,1,0,0, Full Time,news,%P and %M... also %T,,,164900,-23,168500,-45,Back,13
+261230,Matthew,Lobbe,PA,16,64,83,77,59,78,3,9,2,4,24,0,3,0,0, Full Time,news,%H and %P... also %T and %F,,,344600,85,378700,98,Ruck,23
+294604,Jake,Neade,PA,25,62,76,84,40,57,6,3,0,8,0,0,0,1,0, Full Time,cash,%s from %O and %T on Jaensch,,,108500,-64,115900,-75,Midfielder ,32
+250688,Alipate,Carlile,PA,4,51,61,64,43,57,8,6,5,0,0,0,0,0,0, Full Time,job,Standing Jenkins... %O and %M,,,227500,,336500,,Back,27
+250308,Brent,Renouf,PA,10,50,57,61,48,61,4,4,3,2,22,0,3,0,0, Full Time,news,%H and %D with %T... also %F,,,310700,,330700,,Ruck,4
+290171,Campbell,Heath,PA,4,49,77,64,40,51,9,3,4,1,0,3,1,0,0, Full Time,cash,%P and %M,porpoise,Minding Porplyzia,108500,-68,115900,-87,Back,3
+292145,Thomas,Jonas,PA,4,46,67,56,40,54,4,10,2,2,0,3,1,0,0, Full Time,job,Moved from Henderson to Walker in Q3... %D and %M,,,220400,58,290700,65,Back,42
+230195,Jay,Schulz,PA,9,42,56,52,38,49,4,5,4,1,0,0,1,1,1, Full Time,news,Kicked %s from %P and %G on Rutten,,,397400,78,432700,54,Forward,28
+280379,Lewis,Stevenson,PA,7,40,49,49,35,51,7,8,2,0,0,0,1,0,0, Full Time,cash,One kick in Q1... %O and %M,job,Responsible for Sloane,108500,-81,115900,-91,Midfielder,15
+270606,Kane,Mitchell,PA,3,38,35,49,33,46,7,5,2,1,0,2,2,0,1, Full Time,news,On after HT for Paul Stewart...%O and %M with %s and %F,sub,Started as a sub,119300,27,126200,46,Midfielder ,37
+290156,Jasper,Pittard,PA,2,28,41,38,23,36,9,2,1,0,0,0,2,0,0, Full Time,tagged,One kick in Q1... %P and %F,cash,Was going to earn fantasy coin regardless of his score today,132600,-62,128000,-109,Back,29
+280013,Jackson,Trengove,PA,2,27,41,35,26,36,3,6,1,2,0,4,3,0,0, Full Time,job,Moved off Walker in Q3 to Henderson... %P and %T... also %F,,,300400,82,366500,80,Back,12
+270779,Paul,Stewart,PA,1,19,21,24,14,18,1,3,0,2,0,2,0,0,0, Full Time,injured,Playing a role up forward on Reilly... %P and %T... left knee problem in Q1... battled through the first half,subbed,Subbed off at HT for Mitchell,302300,7,346200,45,Back,14
+270963,Rory,Sloane,AD,21,111,100,76,89,116,16,8,7,3,1,0,0,2,1, Full Time,hot,%s from %P and %M on a HFF on Stevenson... also %T,,,470100,86,567700,144,Midfielder,9
+240370,Richard,Douglas,AD,27,108,107,69,85,114,17,9,4,4,0,2,1,2,0, Full Time,hot,%D and %T with %M,tagger,Tagging Brad Ebert,372600,42,430400,63,Forward,26
+210016,Scott,Thompson,AD,19,103,103,62,77,109,18,10,3,5,0,2,1,0,1, Full Time,hot,%P and %T with %M,,,541200,127,591000,116,Midfielder,5
+270917,Patrick,Dangerfield,AD,25,95,84,61,73,96,16,4,6,4,0,2,1,1,0, Full Time,tagged,Tagged by Cornes... %P and %M with %T,sore,Ran his nose into the shoulder of Wines in Q3 which spilt some claret,525000,160,636000,203,Midfielder,32
+291201,Ricky,Henderson,AD,20,86,114,58,71,93,13,7,7,2,0,1,1,1,0, Full Time,switch,Starting forward on Jonas but zoning back in defence a bit... %D and %M with %T and %s,,,261700,35,314100,68,Forward,45
+261384,Matthew,Wright,AD,18,85,82,69,67,87,10,9,6,4,0,3,0,0,0, Full Time,news,Starting forward... %P and %T with %M,,,438700,105,475300,116,Forward,11
+250362,David,Mackay,AD,19,80,64,62,57,81,11,7,3,6,0,0,0,0,0, Full Time,news,%O and %T,,,366100,90,405000,108,Midfielder,14
+270811,Sam,Jacobs,AD,15,71,106,60,61,75,6,6,1,3,27,2,1,0,0, Full Time,news,%H and %D with %T,,,449900,102,546300,113,Ruck,24
+261351,Matthew,Jaensch,AD,13,70,59,47,50,72,12,4,3,5,0,0,1,0,0, Full Time,news,%O and %T with %M,job,Minding Neade,316800,71,324800,40,Back,10
+280506,Taylor,Walker,AD,20,68,93,47,63,80,9,6,4,1,0,2,3,3,2, Full Time,news,Booted %s from %P and %G on Trengove,,,448900,120,536000,184,Forward,13
+270296,Andy,Otten,AD,11,66,80,53,54,72,8,6,5,3,0,0,1,1,0, Full Time,news,%P and %T plus %M and %s,job,Moved off Westhoff in Q3 to Monfries,243900,60,276500,31,Back,22
+230174,Jason,Porplyzia,AD,15,63,61,54,48,65,7,5,2,5,0,1,1,1,2, Full Time,news,%s from %D and %M on Heath... also %T,,,397000,119,430000,119,Forward,40
+294307,Brad,Crouch,AD,8,63,50,44,48,69,9,9,2,3,0,0,0,0,0, Full Time,bubble,Second game... %P and %T with %M,,,108500,,115900,,Midfielder ,2
+220086,Brent,Reilly,AD,14,62,76,47,54,75,8,9,3,3,0,2,3,1,0, Full Time,job,On Stewart... %O,,,407900,121,494200,138,Back,3
+294828,Josh,Jenkins,AD,11,53,72,38,49,56,6,2,3,0,11,2,1,2,0, Full Time,news,Kicked %s from %P and %M on Carlile... also %H,,,316100,27,363300,38,Ruck,4
+261142,Bernie,Vince,AD,8,52,44,43,40,58,6,8,1,4,0,1,1,0,1, Full Time,news,On in Q3 for van Berlo... %O and %T,sub,Started as a sub,409400,146,452900,167,Midfielder,17
+261138,Jared,Petrenko,AD,9,44,58,34,39,55,5,8,1,2,0,1,2,1,1, Full Time,tagger,Forward tag on Pittard... %s from %O,,,303500,67,355300,84,Forward,23
+250118,Nathan,van Berlo,AD,3,42,56,18,35,48,9,4,3,0,0,1,1,0,0, Full Time,injured,Tagging Boak... %P and %M... left knee iced up in Q3,subbed,Subbed off in Q3 for Vince,427900,129,411500,98,Midfielder,7
+220093,Ben,Rutten,AD,3,40,39,32,33,42,5,3,5,1,0,0,0,0,0, Full Time,job,Schulz is his man... %M and %P,,,244500,60,280200,24,Back,25
+210056,Graham,Johncock,AD,7,26,28,14,23,29,5,0,1,1,0,2,2,1,2, Full Time,news,Taking Hartlett deep in attack... %s from %P,,,312000,,334400,,Back,18
+280934,Daniel,Talia,AD,2,17,25,8,17,24,4,1,3,0,0,0,2,0,0, Full Time,job,Moved off Monfries to Westhoff in Q3... %M and %D... also %F,,,180100,44,273400,72,Back,12
+293193,Luke,Brown,AD,2,16,12,6,16,24,4,2,2,0,0,0,2,0,0, Full Time,cash,%D and %M,job,Has Wingard,147700,-23,135500,-61,Back,16

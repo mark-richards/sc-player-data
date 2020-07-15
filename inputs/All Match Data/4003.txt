@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Collingwood,Magpies,R1,20.17.137,16.19.115, Full Time
+Mar 30,2012,7:50,MCG,Seven,220036,10340103,430010,0,Cloudy,25,,
+
+<em>fudgecake</em>: jormas..hayes is not playing <br><em>fudgecake</em>: i tipped hawks!!!<br><em>jwkreid</em>: Yes&#044; and I'm sure the pies would be sympathetic if you defeat an under strength hawks. We won. Suck it up.<br><em>ryansteam</em>: Rigadonis u forgot Bailey.<br><em>13tpm</em>: Roughead is not vital to Hawthorns forward structure. Franklin&#044; Hale&#044; McCauley ect. Pies lost 3 experienced defenders.<br><em>harvster</em>: gilham<br><em title="JUZZY71">juzzy71</em>: fff<br><em>SuperSub17</em>: Clover for clarke?<br><em>SuperSub17</em>: @rigadonis ellis and bruce didn't play bcos u didn't pick them - they were emergencies<br><em>Rigadonis</em>: 13tpm - Roughead&#044; Shiel&#044; Hodge&#044; Ellis&#044; Bruce&#044; Young...Hawks more under strength?<br><em>spiggs</em>: swanny lost a point :(<br><em>harvster</em>: The point is Collingwood lost hahahahahahahaa<br>
+220073,Sam,Mitchell,HW,37,130,139,168,100,140,16,16,6,8,0,1,1,0,2, Full Time,gun,%2 Ball... %O and %T with %M and %s,,
+240399,Lance,Franklin,HW,43,130,142,161,107,133,13,8,6,6,1,2,1,5,3, Full Time,star,Keeffe on him... %s from %D and %T with %G,,
+240302,Grant,Birchall,HW,26,118,103,152,93,123,21,7,9,2,0,0,0,1,0, Full Time,cherry,First goal... %P and %M plus %T and %s,job,Running off Sinclair
+270732,Matt,Suckling,HW,24,105,97,136,83,114,14,12,7,5,0,1,1,0,0, Full Time,garbage,Racked it up in junk time... %P and %T with %M,job,Zoning off Fasolo
+230197,Brad,Sewell,HW,25,97,93,125,73,106,12,14,2,7,0,1,1,0,1, Full Time,swan,Matched up on Swan... %O and %T with %M and %s,,
+261386,Brendan,Whitecross,HW,27,95,98,121,74,102,11,10,3,6,0,0,1,2,0, Full Time,news,%s from %D and %T on Clarke... also %M,,
+250089,Jordan,Lewis,HW,25,89,79,116,75,99,12,5,7,4,2,0,3,2,1, Full Time,news,%s from %D and %T with %M,tagger,Moved from Pendlebury to forward tag Shaw in Q2
+200060,Brent,Guerra,HW,15,84,87,110,65,89,13,7,5,4,0,1,1,0,2, Full Time,job,Matched up on Rounds... %K among %O with %M and %T... also %s,,
+294877,Isaac,Smith,HW,19,82,87,106,59,81,13,4,1,5,0,0,0,2,0, Full Time,news,%O and %T plus %s,,
+260955,Cyril,Rioli,HW,21,79,116,100,64,84,9,7,4,4,0,1,1,2,0, Full Time,news,%s from %O and %M with %T on O'Brien,,
+291731,Broc,McCauley,HW,17,76,92,86,70,84,4,10,4,1,21,1,0,1,0, Full Time,news,Started in ruck... %H and %D with %M and %s,,
+210092,Michael,Osborne,HW,14,71,90,88,59,76,10,7,5,1,0,1,0,1,1, Full Time,news,%s from %D and %M on Yagmoor,,
+220036,David,Hale,HW,18,68,82,81,67,85,7,9,6,0,18,1,3,0,1, Full Time,news,Booted %s from %G and %P on Reid... also %H and %F,,
+210012,Shaun,Burgoyne,HW,15,65,70,85,50,67,9,4,3,4,0,1,1,1,1, Full Time,news,%O and %M with %T and %s,,
+280858,Shane,Savage,HW,14,63,62,75,54,70,7,8,3,1,0,0,0,2,1, Full Time,news,%2 Sidebottom... %P and %M plus %s,,
+280744,Luke,Breust,HW,9,59,64,76,46,64,5,9,2,5,0,2,1,0,1, Full Time,news,%s from %P and %T on Goldsack... also %M,,
+250715,Josh,Gibson,HW,10,54,66,72,44,63,6,7,4,4,0,0,2,0,0, Full Time,job,On Paine then shifted to Dawes in Q3... %P and %T with %M,,
+280471,Ben,Stratton,HW,8,44,46,60,33,51,5,6,1,5,0,0,2,0,0, Full Time,news,%D and %T,,
+291351,Jack,Gunston,HW,9,41,43,51,35,43,4,3,4,1,0,0,0,1,1, Full Time,news,On in Q3 for Boumann... %s from %G and %D,sub,Started as a sub
+200040,Chance,Bateman,HW,3,38,42,49,31,42,7,4,2,1,0,2,1,0,0, Full Time,news,Played a small forward stopping role in the second half... %D and %M,,
+281301,Ryan,Schoenmakers,HW,2,29,39,39,24,33,5,2,3,1,0,0,1,0,0, Full Time,job,Standing Cloke... %P and %M,,
+270783,Jarrad,Boumann,HW,1,18,17,22,17,24,3,4,1,0,0,1,1,0,0, Full Time,job,Has Dawes... %O,subbed,Subbed off for Gunston in Q3
+260257,Scott,Pendlebury,CO,34,132,167,107,108,145,14,19,5,6,0,3,1,2,1, Full Time,magnet,Tagged by Lewis in Q1 then freed up... had a massive Q3 to lift the Pies... %B among %D with %T and %M... also %s all of which came in Q3,,
+220005,Luke,Ball,CO,45,110,87,95,77,105,13,8,4,10,0,3,0,0,0, Full Time,hot,%2 Mitchell... %O and %T with %M,,
+220105,Dane,Swan,CO,20,102,92,44,79,111,21,10,3,1,0,0,0,1,0, Full Time,hot,Matched up on Sewell... %O and %s... a disappointingly low %M and no tackles at all,,
+280104,Jarryd,Blair,CO,26,96,97,78,76,101,10,10,2,5,0,0,0,3,2, Full Time,news,%s from %D and %M... also %T,,
+210099,Darren,Jolly,CO,27,94,114,85,86,104,6,9,3,3,28,2,2,2,1, Full Time,news,%H and %P plus %M and %T... also %s,,
+240359,Dale,Thomas,CO,25,93,100,71,75,99,12,7,6,4,0,0,1,2,0, Full Time,garbage,Just the one handball in Q1... %P and %T with %M... also %s... lots of junk time stats,,
+240366,Travis,Cloke,CO,20,93,97,59,76,96,15,3,7,2,0,1,1,2,3, Full Time,news,Kicked %s from %P and %G on Schoenmakers,,
+280965,Steele,Sidebottom,CO,10,87,72,54,69,93,14,9,5,2,0,1,0,0,3, Full Time,news,%2 Savage... %D with %b by hand... also %M and %T with %s,,
+240419,Alan,Toovey,CO,15,70,86,59,47,66,9,4,2,7,0,1,0,0,0, Full Time,news,%P and %T with %M,,
+290821,Alex,Fasolo,CO,11,69,74,51,54,68,9,3,3,3,0,1,0,2,2, Full Time,news,%s from %O and %M on Suckling,,
+260394,Chris,Dawes,CO,5,63,63,47,52,65,9,3,5,3,3,4,2,0,2, Full Time,news,Booted %s from %D and %G on Boumann then Gibson... also %T and %H,,
+272005,Marty,Clarke,CO,10,61,50,43,45,63,10,3,4,4,0,0,1,0,0, Full Time,job,Responsible for Whitecross... %D and %T with %M,,
+240700,Heath,Shaw,CO,13,56,91,22,47,66,13,3,3,1,0,1,3,1,0, Full Time,tagged,Copped the forward tag of Lewis in Q2... %D and %M plus %s,,
+280948,Luke,Rounds,CO,5,53,36,42,40,53,7,3,4,3,0,0,0,0,2, Full Time,news,%s from %P and %M on Guerra... also %T,,
+291386,Ben,Sinclair,CO,8,52,45,34,35,48,9,2,1,4,0,2,0,0,0, Full Time,news,%P and %T on Birchall,,
+260246,Tyson,Goldsack,CO,4,47,63,27,39,51,8,5,4,0,0,1,0,0,0, Full Time,job,Chasing Breust... %P and %M,sore,Right shoulder knock in Q1
+240073,Harry,O'Brien,CO,5,46,60,36,42,60,6,8,4,2,0,1,3,0,0, Full Time,brazil,Had a pretty poor game... %O and %M... also %T and %F,job,Minding Rioli
+240232,Ben,Reid,CO,4,45,53,31,38,51,7,4,5,1,0,0,1,0,0, Full Time,job,On Hale... %D and %M with %T,sore,Copped on in the gob in Q1 which drew blood
+291811,Jackson,Paine,CO,9,40,44,38,33,40,3,3,3,2,0,1,0,1,1, Full Time,rookie,First game... %s from %D and %M on Gibson,,
+290314,Lachlan,Keeffe,CO,1,22,38,26,17,24,1,3,1,3,0,1,1,0,0, Full Time,job,Going with Franklin... %O and %T,,
+294733,Paul,Seedsman,CO,2,17,11,16,16,21,1,4,2,0,0,0,0,0,0, Full Time,rookie,First game... on in Q3 for Yagmoor... %O and %M,sub,Started as a sub
+291883,Peter,Yagmoor,CO,1,8,6,12,4,6,0,0,0,2,0,0,0,0,0, Full Time,job,First game and looked like a rabbit in the headlights... donuts in Q1... no touches and %T... minding Osborne,subbed,Subbed off in Q3 for Seedsman

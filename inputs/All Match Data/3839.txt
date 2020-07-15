@@ -1,0 +1,48 @@
+Melbourne,Demons,Hawthorn,Hawks,R18,12.6.78,20.12.132, Full Time
+Jul 24,2011,2:10,MCG,Seven,280763,10311807,5612,140,A shower or two,14,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Mithrandir</em>: What do you get for twelfth?<br><em>cente</em>: im 12 in supercoach overall i think u should have the sspud<br><em>ILUVban</em>: eat adick if you had smith on the ground<br><em style='color:#a0a'>FantasyBoy</em>: 10 points?! flower off isaac smith<br><em>cptFantasy</em>: Sewell looks like he will get the 3 votes look at what he did to Moloney<br><em>thedoors7</em>: Give Cente the spud<br><em>TheHinch19</em>: bullshower smith got 10!?<br><em>shurg123</em>: @ Centurions Smith's score scaled down cos the game was already won when he came on.<br><em>Gaz_157</em>: just stop typing cente..<br><em>Centurions</em>: smith 10 sc wtf<br><em title="GB101">gb101</em>: Sylvia 83&#044; not too bad...<br><em>cente</em>: 128 sorry in sc<br>
+280763,Stefan,Martin,ME,21,101,96,128,82,105,13,8,6,4,12,3,1,0,0, Full Time,hot,%H and %P with %T and %M,,
+200054,Brad,Green,ME,22,91,104,112,77,96,12,5,5,2,0,1,1,4,0, Full Time,seagull,%s from %D and %M including three majors in Q3 which were all cheap as chips,,
+291313,Jeremy,Howe,ME,21,83,90,103,71,85,10,4,6,2,0,3,1,3,1, Full Time,garbage,Booted %s from %G and %O... didn't do much after half time but fired up again in Q4 junk time,,
+250222,Nathan,Jones,ME,10,82,74,105,66,93,12,11,5,3,0,0,1,0,0, Full Time,news,%O and %T,,
+230250,Jared,Rivers,ME,15,79,101,101,68,87,7,8,9,3,6,0,1,0,0, Full Time,job,Standing Hale... %O and %T with %M,,
+250360,Ricky,Petterd,ME,15,78,74,103,62,79,12,2,7,3,0,1,1,1,1, Full Time,news,%D and %T on Guerra,,
+250510,Matthew,Bate,ME,20,77,64,98,64,81,9,6,8,2,0,0,0,1,0, Full Time,news,%s from %P and %M with %T on Birchall,,
+270906,Jordie,McKenzie,ME,38,74,79,103,49,75,7,7,0,11,0,1,2,0,0, Full Time,news,%D and %T,tagger,Tagging Mitchell
+280748,Jordan,Gysberts,ME,16,74,63,101,52,68,8,2,5,7,2,1,0,0,0, Full Time,news,%P and %T,,
+280972,Jack,Watts,ME,13,74,73,95,61,78,11,6,8,1,0,1,0,0,0, Full Time,news,Gibson on him... %D,,
+250548,Lynden,Dunn,ME,12,73,91,90,60,70,9,4,4,2,0,5,0,2,1, Full Time,news,%s from %P and %M with %T on Cheney,,
+280608,Jack,Trengove,ME,18,71,54,94,58,80,9,7,6,4,2,0,2,0,0, Full Time,news,%P and %M,,
+240037,Colin,Sylvia,ME,24,69,84,91,52,76,9,7,1,6,0,0,2,1,1, Full Time,news,%D and %T plus %s,,
+270830,Colin,Garland,ME,9,67,70,89,54,72,9,5,7,3,0,0,1,0,0, Full Time,job,Difficult job on Rioli... %D and %T,,
+230151,Brent,Moloney,ME,19,63,82,86,51,78,8,9,3,6,0,0,4,0,0, Full Time,tagged,Tagged by Sewell... %D and %T,,
+220052,Mark,Jamar,ME,9,61,75,75,50,61,7,4,1,3,16,4,1,0,0, Full Time,news,%H and %P with %T,,
+294874,Daniel,Nicholson,ME,5,59,54,76,46,63,7,7,4,3,0,0,0,0,0, Full Time,job,Has Osborne... %P,,
+270937,James,Strauss,ME,13,49,43,68,31,45,6,2,1,6,0,0,0,0,0, Full Time,job,Minding Breust... %P,,
+280579,Luke,Tapscott,ME,3,46,47,64,33,45,9,0,3,3,0,1,1,0,0, Full Time,job,On Puopolo... %D,,
+270833,Addam,Maric,ME,3,36,39,47,27,37,5,3,2,2,0,0,0,0,1, Full Time,news,%s from %O and %M on Murphy,subbed,Subbed off in Q3 for Bennell
+260288,James,Frawley,ME,1,24,34,30,19,27,5,3,1,0,0,0,0,0,0, Full Time,job,Chasing Franklin... %O,,
+290943,Jamie,Bennell,ME,0,5,6,7,6,9,1,1,1,0,0,0,1,0,0, Full Time,in,Late replacement for Liam Jurrah... on in Q3 for Maric,sub,Started as a sub
+240399,Lance,Franklin,HW,38,127,132,111,108,132,11,9,9,4,1,0,0,5,2, Full Time,cherry,%s from %G and %P on Frawley... ran through midfield in Q3,,
+220073,Sam,Mitchell,HW,32,113,111,80,89,124,16,14,3,6,0,3,2,1,1, Full Time,star,Tagged by McKenzie... %P and %T plus %s,,
+220047,Luke,Hodge,HW,22,108,109,68,87,118,17,10,5,3,1,0,1,2,0, Full Time,magnet,Played as a forward... %s from %P and %M with %T,,
+230197,Brad,Sewell,HW,26,107,131,86,87,126,12,21,3,6,0,2,2,0,0, Full Time,hot,%O and %T with %M,tagger,Tagging Moloney
+250089,Jordan,Lewis,HW,21,97,113,74,84,108,11,13,6,2,5,3,1,1,1, Full Time,news,%O and %M with %T,,
+210092,Michael,Osborne,HW,25,95,96,73,75,94,12,5,6,4,0,2,0,2,1, Full Time,news,%s from %D and %M with %T on Nicholson,,
+260955,Cyril,Rioli,HW,26,93,108,74,72,93,11,5,4,5,0,0,0,3,0, Full Time,news,First goal... %s from %O with %T on Garland,,
+250257,Xavier,Ellis,HW,21,92,101,76,72,98,10,11,4,5,2,0,0,1,0, Full Time,news,%D and %T,,
+200060,Brent,Guerra,HW,19,86,77,68,69,93,11,9,7,4,0,1,1,0,0, Full Time,news,%D and %M with %T,job,On Petterd
+280737,Liam,Shiels,HW,9,80,91,49,63,89,13,11,2,3,1,2,1,0,1, Full Time,news,%D and %M,,
+220036,David,Hale,HW,17,77,99,71,65,77,6,4,6,3,13,1,0,1,1, Full Time,news,%H and %P with %M... also %s when forward on Rivers,,
+240302,Grant,Birchall,HW,13,77,107,40,61,87,14,11,3,1,0,0,0,0,0, Full Time,news,%M and %P,job,Running off Bate
+280744,Luke,Breust,HW,16,70,86,55,58,75,8,5,3,3,0,0,1,3,0, Full Time,news,Booted %s from %O and %M with %T on Strauss,,
+260472,Max,Bailey,HW,14,65,68,39,62,85,11,6,3,2,18,2,6,0,1, Full Time,news,%H and %D... also %F and %s,,
+210012,Shaun,Burgoyne,HW,9,63,69,51,54,75,7,11,5,2,0,0,1,0,0, Full Time,news,In defence again... %P and %M,,
+250146,Thomas,Murphy,HW,8,63,69,52,55,75,6,13,5,1,0,0,0,0,0, Full Time,news,%M and %O,job,Responsible for Maric.
+261386,Brendan,Whitecross,HW,9,61,52,42,48,63,9,6,4,2,0,2,0,0,0, Full Time,news,%P and %M,,
+250715,Josh,Gibson,HW,12,56,61,29,49,66,11,5,6,0,0,1,2,0,0, Full Time,job,Has Watts... %P and %M,,
+270215,Kyle,Cheney,HW,8,53,53,40,47,63,6,10,5,0,0,0,0,0,0, Full Time,job,Minding Dunn... %O and %M,,
+260710,Paul,Puopolo,HW,3,45,40,31,34,51,7,6,1,3,0,0,1,0,0, Full Time,news,%P on Tapscott,,
+280858,Shane,Savage,HW,1,26,21,20,23,33,3,6,1,1,0,1,1,0,0, Full Time,sore,%P... bumped by Tapscott in Q3 and didn't look the same afterwards,subbed,Subbed off at 3QT for Smith
+294877,Isaac,Smith,HW,8,25,10,15,23,30,4,2,2,0,0,0,1,1,0, Full Time,news,On in Q4 for Savage... %P and %s,sub,Started as a sub

@@ -1,0 +1,48 @@
+Melbourne,Demons,Port Adelaide,Power,R1,8.6.54,19.19.133, Full Time
+Mar 31,2013,1.10,MCG,Seven,260382,10390107,5015,0,Showers clearing,21,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>Getit2jpod</em>: Cooke=cloke<br><em>Getit2jpod</em>: If those supercoach scores are right I will be 1991 with pendles&#044;Cooke&#044;Russell&#044;Franklin and bartel to come <br><em>banta</em>: wines for rising star<br><em>TheKey</em>: Happy I started Viney on the ground. Looking forward to Crouch coming in next week.<br><em>tiltraise</em>: gunna be some huge rnd 1 scores<br><em>Derogue</em>: at least Watts scored 46 in sc<br><em>Andonious</em>: Imagines Mr and Mrs Watts feel<br><em title="EZA100">eza100</em>: got to give stewart credit&#044; completely shut down watts<br><em>kailum17</em>: Wines 118sc Viney 113sc Brilliant debuts<br><em>frenzy</em>: dees looking at a new coach&#044; me thinks<br><em>TheKey</em>: @NewFreoFan I agree<br>
+261297,Jack,Grimes,ME,19,89,122,110,73,96,10,15,3,4,0,7,1,0,0, Full Time,news,Honest trier but not enough of them for Melbourne... %P and %T plus %M... also a high %4FF,job,Manned up by Wines,474000,,472400,,Back,31
+291902,Jack,Viney,ME,16,86,117,110,68,91,16,6,4,2,0,2,1,1,1, Full Time,rookie,First game but looked a lot more assured than many teammates... %O including %K plus %s... also %T and %M,,,102700,,109500,,Midfielder ,7
+240037,Colin,Sylvia,ME,14,80,73,103,65,88,11,9,6,3,0,1,1,0,1, Full Time,news,Starting forward on Heath... %D and %M with %T,,,393100,,433400,,Midfielder,12
+220052,Mark,Jamar,ME,22,76,93,86,76,92,4,10,4,1,35,2,3,0,0, Full Time,news,%H and %P plus %M... also %F,,,333800,,395500,,Ruck,40
+270906,Jordie,McKenzie,ME,20,75,80,94,60,84,9,11,2,4,0,1,1,1,0, Full Time,tagger,Tagging Ebert... %P and %T with %M and %s,,,343600,,351300,,Midfielder,13
+260288,James,Frawley,ME,9,69,64,92,53,69,12,2,7,2,0,0,0,0,0, Full Time,job,Standing Schulz... %O and %M,,,328600,,406100,,Back,8
+270830,Colin,Garland,ME,13,69,66,91,57,78,10,7,6,3,0,1,2,0,0, Full Time,job,In defence on Monfries... %O and %M plus %T,,,318300,,385500,,Back,20
+296027,Matt,Jones,ME,10,69,65,87,62,87,9,13,5,2,0,2,3,0,0, Full Time,rookie,First game... %O including %b by hand... also %M and %T,,,102700,,109500,,Midfielder ,45
+250548,Lynden,Dunn,ME,9,67,76,88,49,65,10,4,3,4,2,2,0,0,0, Full Time,spud,Started in defence on Paul Stewart but Port worked to get him loose because he is so terrible with the footy in hand... %O and %T with %M,,,312600,,344500,,Back Forward,14
+230022,Shannon,Byrnes,ME,15,65,53,83,49,66,8,6,2,4,0,1,0,1,0, Full Time,news,Stevenson on him... %s from %D and %T,,,229300,,230100,,Forward,10
+291313,Jeremy,Howe,ME,12,65,95,81,53,67,6,5,4,3,0,0,0,2,1, Full Time,news,%s from %D and %M on the kid Jonas... also %T,,,394600,,423400,,Forward,38
+250222,Nathan,Jones,ME,8,62,89,77,50,72,10,11,1,2,0,2,1,0,0, Full Time,tagged,Tagged by Cornes.. %O and %T,,,456600,,521500,,Midfielder,2
+294874,Daniel,Nicholson,ME,10,59,74,82,43,57,10,0,5,4,0,1,1,0,0, Full Time,job,Minding Neade... %D and %T with %M,,,367200,,386200,,Back,26
+292029,Cameron,Pedersen,ME,11,50,65,65,43,57,5,5,4,3,0,1,2,1,0, Full Time,news,%s from %O and %M playing forward... also %F,,,296200,,278200,,Back,21
+220090,David,Rodan,ME,4,43,65,59,36,54,7,5,3,3,0,0,3,0,0, Full Time,news,%D and %T with %M... also %F,,,271000,,376100,,Midfielder,15
+240393,Mitchell,Clark,ME,9,42,61,53,33,39,3,1,2,3,0,1,0,2,0, Full Time,injured,Booted %s from %G and %D on Trengove... also %T... left ankle twisted under Trengove in a tackle in Q3,subbed,Subbed off in Q4 for Blease,384100,,449900,,Forward,11
+293042,Jimmy,Toumpas,ME,3,37,25,50,31,43,6,3,3,2,0,1,2,0,1, Full Time,rookie,First game.. did not touch the footy until midway through Q2... %P and %s,,,170200,,184500,,Midfielder ,5
+280125,Tom,Gillies,ME,3,33,33,43,29,39,6,3,4,0,0,0,1,0,0, Full Time,job,Following Westhoff... %P and %M,,,235800,,271400,,Back,27
+280579,Luke,Tapscott,ME,3,32,24,44,24,33,6,1,2,2,0,1,1,0,0, Full Time,news,%O and %T playing forward a lot,,,284800,,279000,,Back,35
+250418,James,Sellar,ME,2,31,31,39,24,31,3,3,1,2,4,1,0,0,0, Full Time,news,%P with %T up forward on O'Shea... also %H,,,251500,,331400,,Back ,30
+280746,Sam,Blease,ME,2,29,16,38,22,30,7,1,2,0,0,0,0,0,0, Full Time,news,On in Q4 for Clark,sub,Started as a sub,293700,,292900,,Midfielder Forward,17
+280972,Jack,Watts,ME,1,20,48,24,16,24,2,5,0,1,0,0,0,0,0, Full Time,astronaut,Tried to play loose man but manned up in defence by Wingard then Paul Stewart... %P including %B,,,360600,,460100,,Back Forward,4
+261911,Brad,Ebert,PA,32,129,116,77,103,138,24,6,12,4,0,2,3,0,0, Full Time,gun,Tagged by McKenzie... %P and %M... also %T and %F,,,511900,,535300,,Midfielder,7
+210020,Kane,Cornes,PA,36,119,166,93,88,125,15,14,1,9,0,2,1,1,2, Full Time,magnet,%P and %T plus %s,tagger,Tagging Nathan Jones,473000,,499000,,Midfielder,18
+230195,Jay,Schulz,PA,32,112,134,92,92,117,12,8,6,5,0,1,1,4,0, Full Time,target,Booted %s from %D and %G on Frawley... also %T,,,397400,,432700,,Forward,28
+261892,Hamish,Hartlett,PA,22,105,123,63,88,120,17,12,5,2,0,1,2,2,0, Full Time,star,First goal... %D and %M plus %s,,,421400,,489000,,Midfielder,8
+250365,Travis,Boak,PA,25,102,109,60,75,106,19,7,3,6,0,3,2,0,1, Full Time,hot,%D and %T... %F as well,,,431300,,481500,,Midfielder,1
+260750,Justin,Westhoff,PA,20,100,100,76,81,103,13,6,9,3,0,0,0,1,4, Full Time,hot,%s from %P and %M on Gillies... also %T,,,394800,,430700,,Forward,39
+294318,Oliver,Wines,PA,20,99,125,76,85,109,12,12,7,3,0,5,2,1,1, Full Time,rookie,First game... %s from %P and %M starting forward on Grimes... also %T and %F but earned %4 frees as well,,,156700,,169500,,Midfielder ,16
+240290,Angus,Monfries,PA,20,93,112,69,76,94,11,7,3,3,1,3,0,3,3, Full Time,news,%s from %P and %M with %T on Garland,subbed,Subbed off at 3QT for Mitchell,352300,,356700,,Forward,6
+270779,Paul,Stewart,PA,20,77,78,60,67,83,8,7,5,1,0,0,0,3,2, Full Time,news,%s from %P and %M on Dunn then went to man up Watts in Q3,,,302300,,346200,,Back,14
+280379,Lewis,Stevenson,PA,9,74,66,48,56,78,12,7,4,3,0,0,0,0,0, Full Time,news,%O and %M plus %T,job,Running off Byrnes,108500,,115900,,Midfielder,15
+291962,Chad,Wingard,PA,15,71,87,38,60,82,13,7,4,1,0,1,2,1,1, Full Time,news,Playing a forward role on Watts... %s from %D and %M,,,249500,,276500,,Midfielder,20
+261230,Matthew,Lobbe,PA,15,70,60,63,64,83,6,9,7,2,11,0,2,0,0, Full Time,news,%H and %D with %M and %T,,,344600,,378700,,Ruck,23
+290156,Jasper,Pittard,PA,14,62,93,32,52,66,12,2,6,0,0,1,1,1,0, Full Time,news,%P and %M plus %s,,,132600,,128000,,Back,29
+290540,Cameron,O'Shea,PA,14,60,65,42,48,69,10,5,4,4,0,1,3,0,0, Full Time,job,In defence on Sellar... %D and %M with %T and %F,,,164900,,168500,,Back,13
+290171,Campbell,Heath,PA,15,58,70,41,47,60,9,1,6,2,0,0,1,1,0, Full Time,job,Responsible for Sylvia... %P and %M,,,108500,,115900,,Back,3
+271078,Matthew,Broadbent,PA,5,55,72,36,44,60,9,5,4,2,0,1,1,0,0, Full Time,news,%O and %M,,,413100,,451900,,Midfielder,5
+294604,Jake,Neade,PA,10,53,57,47,41,57,6,5,4,4,0,0,1,0,0, Full Time,rookie,First game... %D and %M on Nicholson,,,108500,,115900,,Midfielder ,32
+280013,Jackson,Trengove,PA,4,46,70,35,40,58,6,8,3,2,1,0,2,0,0, Full Time,job,Standing Clark... %O and %M with %T,,,300400,,366500,,Back,12
+280750,Andrew,Moore,PA,9,46,54,43,38,51,4,5,3,3,0,0,1,1,0, Full Time,news,%O and %T plus %M and %s,,,292700,,291400,,Forward,26
+290277,Jarrad,Redden,PA,8,40,53,41,39,49,1,7,0,2,19,2,2,0,0, Full Time,news,%H and %P... also %F,,,305700,,372200,,Ruck,34
+292145,Thomas,Jonas,PA,2,31,45,17,26,36,5,6,1,0,0,1,0,0,0, Full Time,job,Chasing Howe... %P,,,220400,,290700,,Back,42
+270606,Kane,Mitchell,PA,1,24,13,21,20,28,2,5,1,1,0,0,0,0,1, Full Time,news,On after 3QT for Monfries,sub,Started as a sub,119300,,126200,,Midfielder ,37

@@ -1,0 +1,48 @@
+West Coast,Eagles,Sydney,Swans,R17,11.13.79,17.11.113, Full Time
+Jul 21,2013,4.40,Subiaco,Seven,240406,10391709,wce-v-syd,0,Partly cloudy,17,,
+
+<em style='color:#000'>old_shepp</em>: Priddis 86 wtf !<br><em style='color:#000'>PezzDogg95</em>: rampe only just beat his be, no way $$<br><em style='color:#000'>ballbag</em>: JJK in front by 8sc<br><em style='color:#000'>ballbag</em>: goodluck wojak!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWB"></b> WrightMan</em>: Wojak Daw Oh wow its a draw<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGE"></b> bert1</em>: $$ for rampe<br><em style='color:#000' title="MIJG">mijg</em>: Cox 67 SC is a bit soft<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> WojakDaw</em>: Need Sydney Josh Kennedy to beat WC Josh Kennedy in SC, nervous as hell for the scaling!<br><em style='color:#a0a'>frenzy</em>: SC scores ...,.. go figure!<br><em style='color:#000' title="FLICKCLINT">flickclint</em>: I'm crap at sc. bring on the Aussies scoring 600 today.  Agar for a double century <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tPA"></b> Thorpy</em>: 2389 I'm on atm hopefully it stays that way after the lockout is finished! Great DT week!<br><em style='color:#000' title="FLICKCLINT">flickclint</em>: I'm crap at sc. bring on the Aussies scoring 600 today.  Agar for a double centrif<br>
+261290,Chris,Masten,WC,33,134,129,174,99,136,21,10,5,7,1,1,0,1,0, Full Time,magnet,%D with %T with %M,,,476300,104,495100,83,Centre,7,14,101.6,100.3,1.41,0.81
+240406,Josh J.,Kennedy,WC,33,125,128,156,103,127,12,8,9,5,0,1,0,4,1, Full Time,cherry,Kicked %s from %P and %M on Richards... also %T,,,440900,118,478100,115,Forward,17,14,92.6,99.3,46.06,48.86
+240119,Mark,LeCras,WC,26,116,101,154,86,115,18,6,8,6,0,1,0,0,1, Full Time,hot,%s from %D and %M on Smith... also %T,,,379600,92,394100,74,Forward,2,13,80.7,81.6,8.88,11.22
+240124,Matt,Priddis,WC,50,116,86,148,93,133,9,22,3,10,0,4,3,0,1, Full Time,hot,%2 O'Keefe... %O and %T plus %M and %s,,,483200,109,519600,106,Centre,11,15,94.3,99.1,9.35,11.58
+200074,Darren,Glass,WC,25,103,117,130,90,111,13,10,14,0,0,2,0,0,0, Full Time,hot,%M and %O,job,Has the resting ruck which is mostly Pyke,242400,34,305000,26,Back,23,14,50.6,63,2.08,1.66
+290801,Andrew,Gaff,WC,20,99,98,125,77,108,14,14,4,4,0,1,0,0,0, Full Time,news,%P and %T with %M,,,326800,116,369200,136,Centre,3,15,65.4,71,1.24,1.21
+270953,Ashley,Smith,WC,14,96,80,127,72,96,18,4,7,3,0,1,0,0,0, Full Time,news,%D and %M with %T,job,Bolton is his man,270700,37,281400,21,Back,28,5,55.6,55,0.30,0.26
+281052,Mark,Hutchings,WC,20,89,102,115,68,93,7,12,5,7,0,1,0,0,0, Full Time,cash,%O and %T with %M,,,318800,26,333200,37,Centre,34,6,89,83,10.86,4.20
+200112,Dean,Cox,WC,21,79,70,96,68,79,7,2,6,2,22,0,0,1,0, Full Time,news,%s from %P and %M when forward on Grundy... %H as well,,,432500,154,504600,159,Forward Ruck,20,15,91.7,106.5,51.92,49.49
+261799,Sharrod,Wellingham,WC,14,67,70,83,56,78,9,10,3,2,0,0,1,1,0, Full Time,news,%s from %D and %M starting forward,,,380000,187,380300,174,Forward Centre,12,3,53.3,44.7,0.65,0.68
+271045,Nic,Naitanui,WC,21,63,78,70,61,77,2,10,1,2,26,0,2,1,0, Full Time,fiji,%H and %P including %B... also %T and %s,,,374400,105,481900,150,Forward Ruck,9,10,78.9,98,14.15,18.63
+290838,Jack,Darling,WC,15,63,41,82,52,65,9,2,6,2,0,1,1,1,2, Full Time,news,Rampe on him... %s from %P and %T with %M,,,309300,83,341800,80,Forward,27,15,71.3,78.5,3.61,2.71
+270985,Cale,Morton,WC,14,62,56,75,53,68,9,7,4,0,0,1,0,1,2, Full Time,in,Late replacement for Matt Rosa... on after HT for Shuey,sub,Started as a sub,334300,,305600,,Centre,40,1,7,14,0.15,0.17
+261214,Will,Schofield,WC,4,61,62,78,47,63,8,6,3,3,3,1,0,0,0, Full Time,news,%O and %M,,,242000,18,320900,21,Back,31,10,50.2,64.3,0.76,0.57
+294496,Adam,Carter,WC,5,61,59,79,47,64,8,6,4,3,0,0,0,0,1, Full Time,bubble,Second game... %P and %M with %T and %s,job,Minding Brandon Jack,102700,,109500,,Centre,19,1,58,41,0.33,0.28
+280078,Luke,Shuey,WC,20,58,65,83,37,52,5,1,2,9,0,1,1,0,1, Full Time,injured,%2 Jack... %O and %T with %M and %s... mothballed at HT with a hamstring strain,subbed,Subbed off at HT for Morton,475600,101,501500,125,Centre,13,12,96.3,98.2,1.65,1.58
+250317,Eric,Mackenzie,WC,9,54,77,75,45,63,11,2,6,2,0,0,3,0,0, Full Time,job,On Tippett... %P and %M... %T and %F as well,,,284600,-2,417000,21,Back,16,13,52.5,69.7,0.85,0.53
+261209,Josh,Hill,WC,19,53,50,73,34,46,3,3,1,8,0,2,0,0,1, Full Time,news,%s from %D and %T on McVeigh,,,289200,91,337800,121,Forward,33,13,63.5,74.3,0.96,0.78
+260546,Bradd,Dalziell,WC,18,49,52,60,42,63,3,12,0,4,0,0,2,1,0, Full Time,pumpkin,First goal... %P and %T plus %s... tagging Hannebery but was smashed all about the park,,,348700,59,359100,45,Centre,18,10,63.7,64,2.17,0.65
+260303,Mitchell,Brown,WC,4,45,60,54,40,54,5,9,4,0,0,0,0,0,0, Full Time,news,%O and %M,job,Takes White,200700,47,216100,53,Forward,1,4,37.5,38,0.33,0.27
+230254,Adam,Selwood,WC,4,43,35,55,35,45,6,4,4,1,0,1,0,0,0, Full Time,job,Lamb is his man... %P and %M,in,Late replacement for Jacob Brennan,231800,55,245500,51,Back,37,7,43.9,45.7,1.32,2.15
+290826,Jamie,Cripps,WC,3,38,22,52,27,36,7,0,3,2,0,0,0,0,0, Full Time,news,Forward role on Malceski... %O and %M,,,230600,9,209200,23,Centre,15,8,52.4,44.6,0.84,1.00
+290117,Daniel,Hannebery,SY,34,131,145,90,110,153,17,23,4,3,0,1,1,2,0, Full Time,star,Tagged by Dalziell but busted it with a sensational hardworking performance... %D and %M plus %T and %s,,,408400,87,455000,66,Centre,4,15,93.2,99.2,4.79,7.49
+260382,Josh P.,Kennedy,SY,31,100,108,87,83,120,9,20,2,6,0,0,2,1,3, Full Time,hot,%P and %T plus %M and %s... 12 of those touches in a big Q1,,,419500,80,497800,105,Centre,12,15,92.2,109.5,10.02,28.64
+240226,Kieren,Jack,SY,22,97,126,63,83,119,14,16,2,3,0,0,3,2,2, Full Time,news,%D and %T plus %s,,,468400,132,529700,116,Centre,15,15,102.7,109.9,11.47,7.24
+290778,Luke,Parker,SY,24,84,80,64,61,85,11,8,1,6,0,1,0,1,1, Full Time,news,%D and %T plus %s,,,385900,100,448500,124,Centre,26,15,86.5,91.7,2.51,2.55
+230253,Jarrad,McVeigh,SY,13,82,81,33,60,88,18,8,1,2,0,0,0,0,1, Full Time,news,%D running off Hill... also %s,,,468400,44,529600,62,Centre,3,15,100.5,109.3,2.64,1.90
+250338,Nick,Smith,SY,14,82,97,58,66,90,12,9,6,3,0,1,1,0,0, Full Time,news,%O and %M,job,Chasing LeCras,233800,57,284600,58,Back,40,15,54.5,62.5,0.54,0.66
+200071,Ryan,O'Keefe,SY,19,79,83,67,60,87,9,12,1,7,0,3,2,0,0, Full Time,concussed,%2 Priddis... %P and %T,subbed,Subbed off in Q4 for Cunningham,529600,111,569400,93,Centre,5,15,104.1,108.9,5.60,2.73
+291544,Jed,Lamb,SY,15,76,87,51,66,85,10,9,5,0,0,0,0,2,1, Full Time,cash,%s from %O and %M on Adam Selwood,,,167000,11,192500,-5,Forward,11,7,34.7,38,3.12,3.82
+291856,Tom,Mitchell,SY,13,74,80,60,57,79,9,9,3,5,0,2,1,0,1, Full Time,cash,%O and %T plus %s,,,365600,19,387400,21,Centre,6,6,104.8,102.5,45.75,47.30
+270742,Kurt,Tippett,SY,21,71,73,58,59,75,8,4,3,4,0,2,2,3,0, Full Time,news,Booted %s from %P on Mackenzie.. also %T,,,375300,87,460600,125,Forward,8,4,76.8,88.5,3.89,3.95
+280762,Shane,Mumford,SY,20,69,77,74,59,72,2,6,1,5,24,1,1,1,0, Full Time,news,%H and %D plus %T,,,332500,71,402500,65,Ruck,41,12,67.8,80.9,2.36,3.90
+261212,Craig,Bird,SY,7,65,69,29,50,73,13,9,1,1,0,0,0,0,1, Full Time,news,Started on a wing... %D,,,430900,70,475600,74,Forward Centre,14,13,71.4,72.5,1.81,1.72
+230132,Nick,Malceski,SY,8,64,66,31,51,72,13,6,4,1,0,0,1,0,0, Full Time,tagged,Forward tagged by Cripps... %O and %M,,,432200,53,486100,56,Back,9,15,89.4,96.9,6.93,5.18
+250212,Jesse,White,SY,11,64,78,52,53,69,7,7,5,2,0,0,0,1,0, Full Time,news,Kicked %s from %P and %G on Brown... %T as well,,,218400,43,261100,59,Forward,18,5,54,58.2,1.00,0.79
+291206,Mike,Pyke,SY,17,63,88,60,62,72,3,7,6,0,12,1,1,2,0, Full Time,canada,%s from %D and %G when forward on Glass... also %H,,,351600,88,426800,86,Ruck,38,15,76.4,91.9,4.56,3.95
+990011,Jude,Bolton,SY,14,56,56,54,43,57,5,4,3,5,0,1,1,1,0, Full Time,news,%s from %P and %T with %M on Smith,,,291800,48,348100,65,Forward Centre,24,15,65.9,73.5,2.45,3.45
+240072,Heath,Grundy,SY,12,52,60,37,47,63,7,8,6,0,0,0,1,0,0, Full Time,job,Takes the resting ruck which is mostly Cox... %P and %M,,,223900,51,284600,52,Back,39,15,56,65.2,1.35,1.36
+290307,Dane,Rampe,SY,9,48,42,40,34,48,6,4,2,4,0,0,0,0,0, Full Time,job,Has Darling... %P and %T,,,256500,44,330900,35,Centre,43,13,51.9,62.6,3.68,3.02
+295906,Brandon,Jack,SY,9,43,49,41,36,51,3,8,1,3,0,0,1,1,0, Full Time,cash,% from %D and %T on Carter,,,152800,-13,168700,7,Centre,33,4,45.3,43.8,4.31,4.01
+210027,Ted,Richards,SY,3,40,59,22,33,45,7,5,3,0,0,0,0,0,0, Full Time,job,On Kennedy... %D and %M,,,222800,43,290300,59,Back,25,15,48.3,64.1,2.60,2.34
+261257,Andrejs,Everitt,SY,3,38,43,13,31,45,9,4,2,0,0,0,1,0,0, Full Time,news,%P,,,294000,44,326400,59,Forward,13,10,60,65.8,0.89,0.39
+291978,Harry,Cunningham,SY,0,10,15,4,8,12,2,2,0,0,0,0,0,0,0, Full Time,bubble,Second game... on in Q4 for O'Keefe,sub,Started as a sub,102700,,109500,,Centre,7,0,0,0,0.61,0.50

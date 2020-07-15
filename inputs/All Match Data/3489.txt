@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Carlton,Blues,R12,14.13.97,10.8.68, Full Time
+Jun 11,2010,7:40,Docklands,Seven,250090,10281201,5015456,5157,Roof closed,15
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>cweed002</em>: judd stil gets 3rd biggest supercoach<br><em>strikes91</em>: sif judd got that<br><em>coreyw</em>: went scotland over goddard. boy do i feel stupid.<br><em>rusty007</em>: lindsey thomas in for higgins thankyou very much etihad stadium<br><em>rusty007</em>: Llliinndddsy- CDFC LEGEND<br><em>midway</em>: carrazzo plowing it up<br><em>steve_23</em>: atleast we all know setanta is the biggest spud of all time<br><em>Nickelass</em>: Contested possessions you DT fools<br><em>D.Barwick</em>: sc is spot on! go juddy champion! wins the and uses it! DT is crap<br><em>SorrentoFC</em>: I dont get the new PNG i got all of them right why arent I purple??<br><em>cougar37</em>: I think I can explain Judd' s/c score. The trainee at Champ Data wa busy shoving his pencil down the eye of his plow.<br><em>roughyhead</em>: thomas could of kicked 12<br>
+261909,Lindsay,Thomas,NM,62,165,218,208,130,155,19,1,8,8,0,3,0,7,5, Full Time,star,First goal and also the second... best game of his career... %s from %O with %M and %T on Joseph then Russell
+281395,Scott D.,Thompson,NM,14,86,151,101,74,102,8,21,3,2,0,3,0,0,0, Full Time,job,Following Waite... %D including %b by hand
+271300,Cruize,Garlett,NM,26,85,59,115,63,90,8,9,4,9,0,1,2,0,0, Full Time,news,%D and %M plus %T
+280944,Jack,Ziebell,NM,18,85,65,110,67,85,10,7,7,4,0,3,0,0,1, Full Time,news,%D and %M with %T and %s
+960491,Brent,Harvey,NM,19,84,99,108,63,84,11,7,3,5,0,2,0,1,0, Full Time,tagged,Tagged by Carrazzo... %P and %T
+230141,Hamish,McIntosh,NM,18,82,84,97,72,87,6,7,5,2,20,0,0,1,1, Full Time,news,%H and %P with %M and %s
+240417,Andrew,Swallow,NM,19,81,88,104,60,82,9,10,2,6,0,3,0,0,1, Full Time,news,Head to head with Hadley... %D and %T with %s
+261228,Ben,Warren,NM,20,80,78,100,70,88,12,5,8,0,0,0,1,2,1, Full Time,news,%s from %D and %M
+230272,Michael,Firrito,NM,10,78,95,100,62,87,12,10,4,3,0,1,1,0,0, Full Time,job,On Houlihan... %P and %T
+240131,Nathan,Grima,NM,13,75,90,96,61,81,10,8,7,2,0,0,0,0,0, Full Time,job,Running off O'hAilpin... %M and %O with %T
+250135,Scott,McMahon,NM,13,75,78,96,64,90,13,10,6,1,0,0,2,0,0, Full Time,news,%D and %M
+210039,Daniel,Pratt,NM,9,72,89,90,59,78,11,9,5,1,0,2,0,0,0, Full Time,news,%P and %M
+280864,Sam,Wright,NM,16,71,52,96,53,67,10,0,5,5,0,2,1,1,1, Full Time,news,%s from %O with %T
+280863,Ryan,Bastinac,NM,14,67,88,78,57,78,6,13,1,2,0,0,0,2,0, Full Time,news,%B among %D with %s
+230232,Daniel,Wells,NM,9,65,69,86,55,78,10,8,5,3,0,1,3,0,0, Full Time,news,Head to head with Judd... %O and %M plus %T
+271129,Todd,Goldstein,NM,15,63,53,77,59,70,8,2,6,0,21,1,2,0,1, Full Time,news,Rotating from ruck through FF... %H and %P with %M
+260711,Ed,Lower,NM,7,53,56,69,40,57,9,6,1,3,0,2,1,0,0, Full Time,tagger,Tagging Murphy... %D
+990055,Brady,Rawlings,NM,8,52,61,65,43,63,7,10,2,2,0,0,1,0,0, Full Time,job,Has Betts... %O
+270861,Levi,Greenwood,NM,10,51,41,72,44,66,9,5,4,4,0,1,5,0,0, Full Time,sore,%P and %M with %T... left thigh corked in Q2
+250373,Lachlan,Hansen,NM,3,45,46,56,37,47,8,4,3,0,0,2,0,0,2, Full Time,news,Up forward again on Walker... %s from %P and %G
+280921,Ben,Cunnington,NM,9,44,41,58,36,54,4,8,2,4,0,0,2,0,0, Full Time,news,%O and %M
+240189,Matt,Campbell,NM,2,22,33,29,15,21,3,2,0,2,0,1,0,0,0, Full Time,news,%D and %T on Armfield
+250417,Bryce,Gibbs,CA,19,115,112,48,88,121,25,8,6,1,1,1,0,0,0, Full Time,gun,Switched from halfback to the middle in Q3... %D and %M
+230202,Kade,Simpson,CA,31,109,65,83,87,117,16,7,10,6,0,2,3,0,0, Full Time,hot,%D and %M with %T and %F
+220110,Jarrad,Waite,CA,31,104,91,82,85,106,13,3,9,4,0,0,1,3,1, Full Time,hot,Thompson on him... %s from %P and %G with %T
+250105,Marc,Murphy,CA,24,101,111,73,79,106,14,11,6,4,0,2,0,0,1, Full Time,hot,Tagged by Lower... %O and %T with %M and %s
+240014,Andrew,Walker,CA,14,79,61,45,68,90,15,5,9,1,0,2,3,0,0, Full Time,job,Standing Hansen... %M and %D plus %F
+990059,Heath,Scotland,CA,14,78,65,43,61,84,15,5,6,2,0,0,1,0,0, Full Time,news,%P and %M
+210022,Richard,Hadley,CA,20,75,92,73,59,87,6,14,2,7,0,1,2,0,0, Full Time,sore,Head to head with Swallow... %D and %T... sore right hamstring in Q4
+240060,Eddie,Betts,CA,21,74,104,58,67,79,7,5,3,1,0,2,1,5,1, Full Time,sore,%s from %D and %M on Rawlings including three majors in Q2... left knee knock in Q4
+220108,Bret,Thornton,CA,13,73,82,57,60,78,9,8,7,2,0,1,0,0,0, Full Time,news,Loose man in defence early... %M and %P
+261299,Matthew,Kreuzer,CA,26,72,84,74,58,71,4,4,2,6,17,2,1,1,0, Full Time,news,%H and %D with %T
+220056,Chris,Judd,CA,8,69,119,31,55,78,14,9,2,1,0,2,1,0,0, Full Time,sore,Head to head with Wells... %P and %M... knock on the outside of the left knee in Q4 and it was a corkie
+200013,Ryan,Houlihan,CA,15,64,75,60,48,66,6,8,2,6,0,3,1,0,0, Full Time,news,%P and %T.... Firrito on him
+270811,Sam,Jacobs,CA,21,64,72,68,54,71,4,3,2,7,23,1,4,0,0, Full Time,news,%H and %P with %F
+250090,Jordan,Russell,CA,13,58,67,29,43,66,13,3,2,4,0,0,3,0,0, Full Time,job,Moved onto Thomas in Q2... %O and %T
+261318,Aaron,Joseph,CA,9,58,44,45,50,72,8,8,5,3,0,0,3,0,0, Full Time,news,Moved off Thomas in Q2 after getting smashed early... %D and %M with %F
+290311,Mitch,Robinson,CA,9,54,59,49,41,57,5,8,2,4,0,1,0,0,0, Full Time,sore,Cork in the right thigh in Q1... %D and %T
+220015,Andrew,Carrazzo,CA,7,51,68,32,41,60,8,9,1,2,0,1,1,0,0, Full Time,tagger,Tagging Harvey... %P and %T
+261043,Michael,Jamison,CA,8,51,68,40,42,51,7,1,8,1,0,0,0,0,0, Full Time,job,Started on Goldstein... %M and %D
+260533,Dennis,Armfield,CA,8,50,46,43,43,64,5,11,2,3,0,0,2,0,1, Full Time,job,Minding Campbell... %O including %B
+270653,Jeff,Garlett,CA,5,50,41,38,39,51,7,3,5,2,0,0,0,0,0, Full Time,news,%O and %M
+261219,Steven,Browne,CA,9,48,36,53,38,52,2,8,3,4,0,0,0,0,1, Full Time,news,%B among %P
+240716,Setanta,O'hAilpin,CA,6,21,25,18,19,25,2,2,1,1,0,0,1,1,1, Full Time,news,%s from %P on Grima

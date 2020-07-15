@@ -1,0 +1,48 @@
+Melbourne,Demons,Western Bulldogs,Bulldogs,R14,15.13.103,15.10.100, Full Time
+Jun 29,2013,7.40,MCG,Seven,240037,10391406,melb-v-wb,0,Partly cloudy,15,,
+
+<em>Bombres*</em>: Yes Terl&#044; yes<br><em>ballbag</em>: demons singing a song neeld hasnt heard much<br><em>Jackwatt$</em>: Jack watts 125 suck it up muppets<br><em>gambler</em>: Mark Neeld would be going mad right now.. would have to be thinking "maybe it was all me after all"<br><em>hawks:)</em>: 169SC points blown on the bench like that!<br><em>a1trader</em>: nice SC libba!<br><em>uw0tm8</em>: griffen for charlie<br><em>MudDawg</em>: Terlich should of taken the mark instead of ducking out&#044; more sc points.<br><em>frenzy</em>: huge libba clap clap clap<br><em>gwsfevs</em>: Great for griffin to be recognised still tho&#044; just impeccable<br><em>jpk2goodes</em>: and terlich gets the star again. lol<br><em>wadaramus</em>: Well played Melbourne&#044; and all your fans&#044; enjoy the win&#044; even though it was closer than it should have been!!<br>
+270241,Dean,Terlich,ME,20,112,107,148,84,111,18,6,8,5,0,2,0,0,0, Full Time,star,%O and %M with %T,job,Running off Dickson with ease,357400,56,377000,53,Back,46,11,75.6,75,29.93,26.05
+294874,Daniel,Nicholson,ME,48,112,111,154,76,102,14,3,6,11,0,2,0,0,0, Full Time,hot,%O and %M with %T,tagger,Tagging Griffen,296400,90,302700,101,Back,26,7,56.7,56.4,0.16,0.14
+280972,Jack,Watts,ME,27,105,139,131,88,106,11,4,9,3,0,0,0,4,1, Full Time,x-factor,%s from %P and %M with %T on Morris including several marks in defence in Q4 to save the game from the charging Dogs,,,312700,69,358400,67,Back Forward,4,8,58.1,66.5,1.61,1.79
+290528,Max,Gawn,ME,35,100,92,123,86,102,6,4,5,6,33,2,2,1,0, Full Time,bluemoon,%H and %P with %M... also %T and %s,,,192000,46,236100,87,Ruck,37,6,51.3,60.2,5.35,5.44
+280608,Jack,Trengove,ME,21,92,96,122,68,96,12,9,4,7,0,1,1,0,0, Full Time,news,%2 Wallis... %P and %T with %M,,,375900,80,378000,93,Centre,9,10,76.5,74,0.55,0.75
+260288,James,Frawley,ME,15,91,114,119,71,93,14,6,8,3,0,1,0,0,0, Full Time,news,%O and %M with %T,job,Has Jones,298600,59,302900,62,Back,8,10,63.9,63.2,0.46,0.49
+291313,Jeremy,Howe,ME,20,89,79,112,75,94,12,5,7,2,1,1,1,2,3, Full Time,news,Drifting forward from the wing... %D and %M plus %s,,,365900,131,400400,137,Forward,38,12,75.3,80.8,1.33,1.36
+220090,David,Rodan,ME,20,87,104,110,66,88,13,8,2,4,0,3,0,1,1, Full Time,news,%P and %M... also %T and %s,,,285700,85,354900,79,Centre,15,6,53.7,63.8,0.86,0.37
+240037,Colin,Sylvia,ME,20,82,80,107,63,88,7,11,4,7,0,1,1,0,1, Full Time,news,%O and %T,,,439700,80,459400,66,Forward Centre,12,9,87.1,86.4,0.88,0.75
+250222,Nathan,Jones,ME,20,78,106,94,68,96,10,16,2,2,0,2,2,1,0, Full Time,news,%2 Boyd... %O... also %s and %F,mrp,Dropped Griffen off the ball in Q2 with a swinging elbow which will be looked at,378800,71,456600,70,Centre,2,12,77.7,90,0.57,0.58
+260394,Chris,Dawes,ME,21,78,91,99,68,82,10,2,7,2,1,2,2,3,0, Full Time,news,Booted %s from %P and %G on Roughead.... %T as well,,,275800,125,289300,116,Forward,6,6,47,49.3,0.42,0.70
+296027,Matt,Jones,ME,18,77,53,100,60,81,9,8,6,4,0,0,0,0,0, Full Time,news,%P and %M,,,325400,69,330900,58,Centre,45,12,73.5,70.6,3.73,2.59
+270830,Colin,Garland,ME,22,75,74,105,53,75,10,3,4,8,0,1,2,0,0, Full Time,news,%D and %M with %T,job,Giansiracusa is his man,343300,24,462000,29,Back,20,12,68.3,87.8,0.48,0.66
+270976,Mitch,Clisby,ME,9,72,60,94,57,79,11,7,5,3,0,0,1,0,1, Full Time,bubble,Second game... %O and %T,job,Chasing Dahlhaus,89300,,96200,,Back,50,1,70,71,3.57,3.80
+280758,Jack,Fitzpatrick,ME,11,66,80,81,56,67,10,2,5,0,3,1,0,2,1, Full Time,cash,%s from %D and %M on Talia,,,184500,-6,222800,26,Ruck,48,3,61.3,52.3,1.81,0.75
+291533,Tom,McDonald,ME,9,61,81,74,52,75,5,15,2,3,0,1,1,0,0, Full Time,job,Stringer is his man... %D and %T,,,282600,71,336200,105,Back,25,7,57.1,65.4,0.17,0.25
+250548,Lynden,Dunn,ME,5,57,71,74,44,60,9,5,4,2,0,0,0,0,0, Full Time,job,On Cordy... %D and %M,,,306100,59,328100,64,Back Forward,14,8,65.4,69,0.50,0.45
+200002,Aaron,Davey,ME,4,52,49,68,38,54,10,4,2,2,0,0,0,0,0, Full Time,tagged,Tagged by Lower in Q1 then got Johannisen in Q2... %P and %M,,,298500,84,291100,87,Forward,36,10,53.5,50.9,1.22,0.91
+293042,Jimmy,Toumpas,ME,4,50,46,64,41,57,7,7,3,2,0,1,1,0,0, Full Time,cash,%D and %T with %M,,,163300,-23,154500,-13,Centre,5,6,37.5,29.8,4.31,5.19
+294570,Dean,Kent,ME,2,33,36,43,26,36,7,3,1,1,0,2,1,0,0, Full Time,news,%P on Cooney,,,175300,37,180900,24,Centre,34,5,41.2,40.8,0.75,0.86
+230022,Shannon,Byrnes,ME,6,25,27,34,16,24,1,3,0,4,0,0,0,0,0, Full Time,news,On in Q3 for Blease,sub,Started as a sub,275000,64,262300,71,Forward,10,9,63.9,58.4,2.49,3.13
+280746,Sam,Blease,ME,7,24,29,28,22,30,4,4,0,0,0,1,1,1,0, Full Time,injured,Matched up on Smith... %D and %s... ankle injury had him in a moonboot after the game,subbed,Subbed off in Q3 for Byrnes,235900,28,240500,28,Forward Centre,17,5,41,37.8,0.34,0.71
+290799,Tom,Liberatore,WB,42,144,163,99,107,154,23,13,6,9,0,0,2,0,1, Full Time,magnet,%P and %M with %T... productive Q1,,,399400,94,471500,79,Centre,21,12,85.7,96.5,3.12,2.82
+240156,Ryan,Griffen,WB,39,136,148,100,108,145,18,13,4,7,0,3,2,3,1, Full Time,gun,Tagged by Nicholson... %P and %T... also %s,,,546100,102,663200,130,Centre,16,10,109.2,125.5,3.70,5.41
+230255,Will,Minson,WB,46,110,125,87,98,114,10,4,3,2,51,1,1,1,0, Full Time,hot,%H and %D,,,444600,121,547500,154,Ruck,27,12,89.7,111.8,4.08,8.14
+200079,Daniel,Giansiracusa,WB,25,101,95,74,82,103,13,6,6,3,0,1,0,3,1, Full Time,hot,Kicked %s from %D and %T with %M on Garland,,,293400,88,322500,132,Forward,13,10,59,60.6,0.80,0.63
+200083,Robert,Murphy,WB,21,94,133,68,69,96,15,5,5,7,0,2,2,0,0, Full Time,news,%O and %M with %T,job,Running off Blease,421100,73,481200,79,Back,2,9,86.8,94.3,1.70,1.16
+220010,Matthew,Boyd,WB,15,90,88,52,72,103,16,11,4,3,1,1,2,0,0, Full Time,news,%2 Nathan Jones... %P and %M,,,533900,78,546400,96,Centre,5,8,105.8,102.1,4.06,1.45
+230041,Adam,Cooney,WB,25,79,69,65,67,91,8,10,2,4,0,0,2,3,1, Full Time,job,Running off Kent on a HBF... %B among %D... also %s and %F,,,389200,83,440000,99,Centre,17,10,86.8,93.3,1.32,1.19
+295467,Jackson,Macrae,WB,16,78,63,62,68,90,8,14,4,2,0,3,1,1,0, Full Time,cash,%P and %M,,,313900,40,316900,38,Centre,11,8,68,64.8,1.70,1.38
+294556,Nathan,Hrovat,WB,9,64,64,39,53,76,11,8,4,2,0,0,2,0,1, Full Time,cash,%O and %M with %T... als %s and %F,,,141300,24,161900,7,Centre,24,3,50,59.3,10.99,12.10
+291810,Michael,Talia,WB,9,60,77,53,46,63,6,8,3,4,0,1,0,0,0, Full Time,news,%D and %T with %M,job,On Fitzpatrick,260400,-8,309800,4,Back,32,3,80,84.3,3.17,1.49
+291545,Mitch,Wallis,WB,7,59,60,42,45,66,8,10,1,3,0,0,0,0,0, Full Time,news,%2 Trengove... %P and %T,,,341700,57,327000,67,Centre,3,8,71,69.5,0.20,0.25
+295712,Tory,Dickson,WB,10,58,42,46,45,58,7,4,3,3,0,1,0,1,1, Full Time,news,%s from %D on Terlich... also %T,,,341600,138,356400,153,Forward,29,3,62.7,60.3,0.23,0.27
+260713,Nick,Lower,WB,15,54,64,50,42,63,6,7,2,6,0,1,3,0,0, Full Time,news,Tagging Davey in Q1 then played midfield... %O and %M,,,320900,101,310900,109,Centre,33,12,63.8,57.5,1.28,0.76
+291526,Luke,Dahlhaus,WB,14,53,59,51,43,64,4,10,0,5,0,0,2,1,1, Full Time,news,%D and %Ton Clisby,,,271700,59,312600,89,Forward,6,12,59.3,67.7,1.70,1.59
+293847,Clay,Smith,WB,8,42,31,29,31,48,7,5,0,4,0,1,2,0,0, Full Time,news,Matched up on Blease... %O and %T,,,321500,51,329100,18,Centre,14,11,65.8,66.5,0.49,1.23
+294101,Jason,Johannisen,WB,3,42,68,16,28,42,10,2,0,2,0,0,0,0,0, Full Time,news,%D,flash,Went to Davey in Q2,317100,65,347200,72,Back,39,11,62.1,68.8,1.56,1.19
+280056,Ayce,Cordy,WB,9,40,65,34,37,44,3,4,3,0,2,0,0,2,0, Full Time,news,First goal... %s from %P on Dunn,,,232400,74,231700,85,Forward Ruck,49,3,42,39.3,1.87,4.63
+281078,Liam,Jones,WB,3,34,33,28,28,36,4,3,4,1,0,0,0,0,0, Full Time,news,%P and %G on Frawley,subbed,Subbed off in Q3 for Hunter,218200,28,255400,70,Forward,19,12,49.3,55.1,1.16,1.04
+250712,Dale,Morris,WB,7,31,54,38,22,33,1,5,0,5,0,1,1,0,0, Full Time,job,Watts is his man... %O,,,252700,58,353800,81,Back,38,12,50.5,66.5,2.55,3.32
+293884,Jake,Stringer,WB,2,29,33,26,27,40,2,9,1,1,0,0,1,0,1, Full Time,cash,%s from %D on McDonald,,,212000,-10,223100,11,Forward,9,8,45.4,46.9,4.28,6.52
+280012,Jordan,Roughead,WB,2,22,33,21,20,27,2,3,3,1,0,0,1,0,0, Full Time,job,Standing Dawes... %M and %O,,,275900,26,371600,61,Back Forward,23,12,52.7,68.4,1.72,1.40
+294557,Lachie,Hunter,WB,1,19,8,14,12,18,3,1,0,2,0,0,0,0,0, Full Time,bubble,Second game... on in Q3 for Jones... %P and %T,sub,Started as a sub,102700,,109500,,Centre,26,1,86,86,0.82,1.20

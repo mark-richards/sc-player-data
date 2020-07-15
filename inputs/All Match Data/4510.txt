@@ -1,0 +1,48 @@
+Sydney,Swans,Carlton,Blues,R14,8.17.65,5.13.43, Full Time
+Jun 28,2013,7.50,SCG,Seven,230132,10391402,syd-v-carl,0,A few showers,17,,
+
+<em title="MIJG">mijg</em>: no one has Judd anymore.I do<br><em>owie01</em>: Chose Gibbs in Defence over Kennedy in the midfield this week&#044; somewhat pleased :)<br><em>tracygrims</em>: @the captai&#044; what do you mean scaled down?<br><em>dansuarez</em>: i tell u what if we finish 8th. nobody will want to play us! will be more competitive than richmond in the finals thats <br><em title="LIVERPOOL">liverpool</em>: recording just in case i dont<br><em>Rrgj</em>: gj<br><em title="YBSHY">ybshy</em>: lol@constanza<br><em>PieBoy</em>: onya micky<br><em>buddy4pm</em>: Costanza.. Yeah some good lookers..NOT<br><em>The captai</em>: Walker scaled down almost 20! That hurts<br><em>WrightMan</em>: @liverpool You waking up?<br><em>32crows32</em>: bird goes from out of this world&#044; to cherry picker to star within 5 mins&#044; what the hell<br>
+261212,Craig,Bird,SY,20,118,138,155,83,120,25,8,2,5,0,1,0,0,0, Full Time,star,Matched up on McLean.. %O and %T with %M,,,340900,33,369500,65,Forward Centre,14,10,60.2,58.4,1.22,1.47
+200071,Ryan,O'Keefe,SY,26,116,116,154,84,120,20,9,4,7,0,1,1,0,0, Full Time,gun,%2 Judd... %P and %M with %T,,,492000,56,531700,92,Centre,5,12,101.3,104.8,2.85,1.72
+290778,Luke,Parker,SY,25,96,113,123,70,100,12,11,1,7,0,0,0,1,1, Full Time,news,%P and %T plus %s,,,400500,100,453200,100,Centre,26,12,87.7,92.5,2.79,2.68
+270742,Kurt,Tippett,SY,22,95,130,120,78,101,11,6,4,5,9,1,2,2,2, Full Time,news,%s from %D and %G on Jamison,,,373200,,462800,,Forward,8,1,57,64,1.31,1.21
+291856,Tom,Mitchell,SY,26,89,99,112,68,91,9,11,2,6,0,3,0,1,1, Full Time,cash,%2 Scotland... %D and %T with %M... also %s,,,214800,-87,215000,-79,Centre,6,3,107.7,99,43.84,45.74
+240226,Kieren,Jack,SY,24,86,72,119,56,80,14,2,1,9,0,2,1,0,2, Full Time,tagged,Cachia trying to go with him but failing... %D and %T plus %s,,,522200,100,572600,99,Centre,15,12,107.1,113.8,9.56,4.88
+260382,Josh P.,Kennedy,SY,19,85,88,115,59,91,16,7,0,7,0,0,2,0,1, Full Time,news,%2 Gibbs... %O and %T plus %s,,,438800,124,540100,135,Centre,12,12,92.3,112.6,10.26,26.61
+291206,Mike,Pyke,SY,28,85,92,98,77,90,6,5,3,2,36,1,1,1,0, Full Time,news,#1 ruck again with no Mumford... %H and %P plus %M... also %T and %s,,,361100,90,439200,111,Ruck,38,12,76.8,92.3,4.56,3.87
+290117,Daniel,Hannebery,SY,25,83,84,106,60,86,7,13,0,8,0,2,0,0,2, Full Time,tagged,Tagged by Curnow... %O and %T plus %s,,,449800,99,473000,101,Centre,4,12,94.9,99.1,4.85,7.34
+230253,Jarrad,McVeigh,SY,8,72,91,95,51,72,15,4,2,3,0,1,0,0,0, Full Time,tagged,Forward tag on him by Armfield... %D and %M,,,462300,99,523200,114,Centre,3,12,98.1,106.8,2.33,1.71
+230132,Nick,Malceski,SY,8,71,85,95,52,75,15,4,3,3,0,0,1,0,0, Full Time,job,Robinson and Bootsma rotating on him... then got Lucas in Q3... %P and %T,,,429500,81,479700,90,Back,9,12,87.1,93.6,5.32,4.45
+230140,Ben,McGlynn,SY,15,69,94,90,48,64,11,1,0,5,0,1,0,2,1, Full Time,news,%s from %O and %T on Tuohy,,,365600,109,366600,89,Forward,21,12,75.3,73.8,1.43,1.73
+261257,Andrejs,Everitt,SY,10,66,72,89,49,69,9,5,4,5,0,0,1,0,0, Full Time,news,%D and %T plus %M on Henderson,,,248300,26,298500,47,Forward,13,7,55.4,63.3,0.89,0.37
+990011,Jude,Bolton,SY,15,65,90,86,51,71,10,4,3,4,0,0,2,1,2, Full Time,news,First goal... %s from %P and %T with %M on Walker,,,300000,82,331200,74,Forward Centre,24,12,65.3,71.9,2.09,3.08
+291544,Jed,Lamb,SY,14,64,78,87,41,60,11,3,0,6,0,1,0,0,0, Full Time,cash,%P and %T on Simpson,,,103000,33,96200,34,Forward,11,4,20.5,16,2.45,2.48
+210027,Ted,Richards,SY,9,57,74,76,41,57,8,4,3,4,0,0,0,0,0, Full Time,job,Waite is his man... %O and %T with %M,,,197400,58,278500,91,Back,25,12,47.2,63.8,2.24,2.01
+250338,Nick,Smith,SY,4,50,66,64,38,51,8,5,2,2,0,2,0,0,0, Full Time,job,Minding Betts... %D and %T,,,262900,77,306200,96,Back,40,12,56.1,62.8,0.50,0.64
+290307,Dane,Rampe,SY,3,43,40,56,32,45,11,2,2,0,0,0,0,0,0, Full Time,cash,%P and %M,job,Responsible for Garlett,253800,26,313600,9,Centre,43,10,51.1,60.4,4.31,3.54
+250212,Jesse,White,SY,4,40,46,49,33,42,3,4,2,2,8,0,0,0,1, Full Time,news,%s from %P and %M on White... also %T,subbed,Subbed off in Q4 for Xavier Richards,228900,39,278300,44,Forward,18,3,57.3,62.7,1.32,0.97
+295906,Brandon,Jack,SY,8,40,62,54,28,43,6,4,0,4,0,0,1,0,1, Full Time,bubble,Second game... %P and %T,,,89300,,96200,,Centre,33,1,29,15,2.20,2.03
+240072,Heath,Grundy,SY,1,23,47,30,17,24,4,2,1,1,0,0,0,0,0, Full Time,news,Donuts in Q1... %O,job,Has Casboult,274900,62,328100,89,Back,39,12,60.3,67.3,1.38,1.40
+293739,Xavier,Richards,SY,0,3,9,4,2,3,1,0,0,0,0,0,0,0,0, Full Time,in,Late replacement for Mitch Morton... first game... on in Q4 for White,sub,Started as a sub,89300,,96200,,Back Forward,42,0,0,0,7.16,7.56
+250417,Bryce,Gibbs,CA,37,119,120,74,82,114,21,5,2,8,0,2,0,1,0, Full Time,hot,%2 Kennedy... %O including %K with %M... also %T and %s,,,449800,42,503300,54,Back Centre,4,9,97.3,104.9,30.31,34.47
+261299,Matthew,Kreuzer,CA,32,105,111,74,86,103,13,3,2,3,40,2,0,0,0, Full Time,hot,%H and %D with %T and %M,,,407800,72,456200,77,Ruck,8,9,81.9,88.1,11.35,8.15
+240014,Andrew,Walker,CA,20,94,75,56,64,88,18,1,4,6,0,1,0,0,1, Full Time,news,%O and %M with %T... also %s,switch,Bolton was his man to start... switched forward in Q3,401400,98,547100,100,Forward Centre,1,12,83.1,110.9,9.56,20.83
+220056,Chris,Judd,CA,26,92,104,79,67,100,11,11,2,9,0,0,2,0,1, Full Time,news,%2 O'Keefe... %P and %T plus %M and %s... strapped on the cape in Q2 with lots of points,,,401600,58,500400,98,Centre,5,11,83.1,99.2,3.85,3.77
+281079,Kane,Lucas,CA,25,92,74,68,67,92,13,6,3,6,0,0,0,1,2, Full Time,news,%s from %P and %T with %M... played straight forward on Malceski after HT,,,361300,122,375000,119,Centre,9,11,73.5,75.5,2.35,4.54
+270326,Lachie,Henderson,CA,15,91,95,56,73,97,16,5,9,2,0,0,1,0,1, Full Time,news,%M and %D with %T and %s,job,Zoning off Everitt,350400,80,451700,114,Back Forward,23,12,66.6,83.2,2.27,2.31
+270146,Ed,Curnow,CA,42,86,91,70,56,84,12,6,0,10,0,1,1,0,0, Full Time,tagger,Tagging Hannebery... %D and %T,,,347700,103,380800,108,Centre,35,9,72.4,75,0.29,0.32
+230202,Kade,Simpson,CA,10,82,106,44,62,87,16,6,4,3,0,1,1,0,0, Full Time,news,%D with %k by foot... also %M,job,In defence again on Lamb,397800,71,481100,62,Centre,6,12,77.4,87.1,0.75,0.78
+990059,Heath,Scotland,CA,12,64,65,39,46,69,12,5,1,5,0,1,2,0,0, Full Time,news,%2 Mitchell... %P and %T,,,351600,70,402400,76,Back Centre,29,10,78.4,83.7,7.71,5.12
+290311,Mitch,Robinson,CA,12,63,73,41,44,64,11,4,1,5,0,1,1,0,1, Full Time,news,Forward role on Malceski rotating through midfield... moved off Malceski after HT... %s from %P and %T,,,375300,129,429700,152,Forward Centre,12,12,74.9,79.1,4.96,2.80
+260533,Dennis,Armfield,CA,14,61,51,45,44,63,9,4,1,5,0,0,1,1,0, Full Time,news,%s from %D and %T with %M,tagger,Forward tag on McVeigh,281900,85,334800,109,Forward Centre,27,12,56.7,62.5,1.98,2.13
+292511,Zach,Tuohy,CA,15,60,70,46,44,60,8,4,2,4,0,0,0,1,0, Full Time,job,Minding McGlynn... %P and %T,,,263800,50,327400,68,Back,42,12,52.2,64.9,1.87,2.15
+280971,Jaryd,Cachia,CA,8,59,56,40,41,60,10,4,1,5,0,1,1,0,0, Full Time,cash,%O and %T,tagger,Trying to go with Kieren Jack but not having much luck,298500,38,294000,41,Centre,37,7,69,65,2.48,1.61
+240028,Brock,McLean,CA,3,54,66,28,37,54,11,3,1,3,0,0,0,0,0, Full Time,news,Matched up on Bird... %P and %T,,,460200,63,461600,63,Centre,14,12,89.2,91.3,0.51,0.48
+271110,Chris,Yarran,CA,13,46,48,49,28,40,4,1,1,7,0,0,0,0,1, Full Time,news,On in Q3 for White... %s from %P,sub,Started as a sub,259100,66,321700,65,Back,13,9,59.8,69.8,4.28,5.14
+220110,Jarrad,Waite,CA,3,43,37,33,31,43,6,3,2,3,0,0,0,0,1, Full Time,news,No score from %P and %M on Ted Richards... not a night for big blokes with all the rain... also %T,,,448800,96,489200,115,Forward,30,6,91.2,93.3,1.37,0.75
+270653,Jeff,Garlett,CA,7,43,48,38,28,42,5,4,0,5,0,0,0,0,0, Full Time,cold,One handball in Q1... %P and %T on Rampe... no goals in the last three games,,,365900,139,413900,175,Forward,38,12,80,90.1,3.37,3.02
+281124,Levi,Casboult,CA,4,43,52,38,35,45,4,3,1,3,12,1,1,0,0, Full Time,news,%P and %T on Grundy... also %H,,,291600,39,294900,34,Forward,41,5,53.2,50.6,0.60,0.61
+296531,Joshua,Bootsma,CA,8,42,45,25,33,42,7,2,2,1,0,1,0,1,0, Full Time,switch,Starting forward rotating with Robinson on Malceski... switched to defence in Q3... %s from %P and %M,,,184500,36,201900,38,Back,21,6,35.7,40.2,0.36,0.65
+261043,Michael,Jamison,CA,4,38,64,39,31,42,3,4,4,3,0,0,1,0,0, Full Time,news,%M and %O with %T,job,Standing Tippett,231300,80,302400,92,Back,40,12,50.8,67,1.13,1.46
+270637,Simon,White,CA,2,26,30,16,23,33,5,2,3,1,0,0,2,0,0, Full Time,injured,Has White... %D and %M... also %F... ankle problem in Q3,subbed,Subbed off in Q3 for Yarran,219100,13,308900,23,Back,43,8,47.8,62.1,0.39,0.48
+240060,Eddie,Betts,CA,2,24,33,22,19,30,3,3,1,3,0,0,2,0,0, Full Time,cold,%O and %T on Smith... also %F... just has not gotten into 2013 much at all,,,308700,81,374800,89,Forward,19,6,62.7,72.8,1.74,1.50

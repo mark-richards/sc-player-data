@@ -1,0 +1,48 @@
+Essendon,Bombers,Fremantle,Dockers,W1,12.23.95,7.19.61, Full Time
+Feb 19,2012,8.50,Subiaco,Fox Footy,,10330108,,8,Fine,35,,
+
+<em>Goon_Squad</em>: @crazyjim&#044; that was John Anthony<br><em>strawberry</em>: Duffman never dies&#044; only the actors who play him!<br><em>ReggieOz1</em>: .<br><em>nostrdamus</em>: duffman cotiued his fine form from last year<br><em>valkorum</em>: ryder with a little push and shove with crowley after the siren<br><em>Ace Manuva</em>: they're playing the old freo song!?<br><em>valkorum</em>: duff played in the backline all game and the ball was hardly down there<br><em>mace485</em>: is duffman dead?<br><em>bluepoo</em>: Ryder is a donkey<br><em>valkorum</em>: @chadwick dockers have to play straight after - would expect spurr to play that game as a starter<br><em>m0neyball</em>: dylan roberton is the worst player in the league.<br><em>crazyjim</em>: is anyone listening to SEN who were they just talking about who runs underneath the ball and can't mark it??<br>
+250352,Leroy,Jetta,ES,2,36,-,40,32,45,2,12,0,1,0,2,0,0,0, Full Time,news,%B among %D... a few clangers and soft efforts but set up a goal or two as well,,,100
+290160,Michael,Hibberd,ES,2,34,-,43,28,36,6,3,3,0,0,1,0,0,0, Full Time,news,%P and %M,,,89
+230051,Alwyn,Davey,ES,2,32,-,41,24,33,2,5,1,3,0,1,0,0,0, Full Time,news,%D and %T,,,100
+240319,Sam,Lonergan,ES,2,32,-,42,22,33,4,4,0,3,0,0,0,0,0, Full Time,tagger,Tagging Fyfe to little effect... %D and %T,,,74
+290641,Jake,Carlisle,ES,3,29,-,37,23,31,2,4,2,2,0,0,0,0,1, Full Time,news,%P and %T... also %M and %s,,,100
+260073,Ben,Howlett,ES,2,28,-,35,21,30,3,5,0,2,0,1,0,0,0, Full Time,news,%O and %T,,,85
+240290,Angus,Monfries,ES,8,25,-,31,21,27,2,3,0,2,0,2,1,1,0, Full Time,news,%s from %D and %T,,,82
+280956,Michael,Ross,ES,2,25,-,32,19,27,2,4,1,2,0,0,0,0,0, Full Time,news,%P and %T,,,73
+280413,Cory,Dell'Olio,ES,7,24,-,29,21,25,3,1,2,0,0,0,0,1,1, Full Time,,,,,58
+294798,Mark,Baguley,ES,2,21,-,27,19,27,2,4,2,1,0,0,1,0,0, Full Time,,,,,100
+200026,David,Hille,ES,7,19,-,25,16,21,1,1,1,2,0,0,1,1,0, Full Time,news,%P and %T plus %s,,,58
+250267,Patrick,Ryder,ES,2,19,-,25,22,29,3,1,3,0,8,0,3,0,0, Full Time,news,%H and %P with %M... also %F,,,100
+261314,David,Myers,ES,1,19,-,23,19,30,2,7,0,1,0,1,2,0,0, Full Time,job,Chasing Anthony... %P and %T,,,95
+270584,Kyle,Hardingham,ES,1,18,-,24,12,18,2,2,0,2,0,0,0,0,0, Full Time,job,On Mayne... %O,,,100
+280824,Jake,Melksham,ES,6,17,-,26,12,21,1,2,0,4,0,0,2,0,0, Full Time,news,%O and %T... also %F and a 50m penalty to conceded a goal,,,76
+270951,David,Zaharakis,ES,1,16,-,23,11,18,3,1,0,2,0,0,1,0,0, Full Time,news,Quiet in both games today... %O and %T,,,87
+280988,Travis,Colyer,ES,1,15,-,22,8,12,1,0,0,3,0,0,0,0,0, Full Time,news,%T and no touches,,,83
+261324,Kyle,Reimers,ES,0,11,-,14,9,12,2,1,1,0,0,0,0,0,0, Full Time,news,%P,,,100
+270588,Cale,Hooker,ES,0,9,-,13,8,12,1,1,1,1,0,0,1,0,0, Full Time,job,Has Pavlich... %P,,,89
+292138,Luke,Davis,ES,0,6,-,8,5,6,1,0,1,0,0,0,0,0,0, Full Time,news,Only one disposal,subbed,Subbed off for Dell'Olio in Q2,30
+230060,Ricky,Dyson,ES,0,5,-,6,6,9,1,2,0,0,0,1,1,0,0, Full Time,news,%D,,,79
+295319,Lauchlan,Dalgleish,ES,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,,,,,42
+200032,Matthew,Pavlich,FR,9,52,-,67,40,51,6,3,3,3,0,1,0,1,0, Full Time,news,Playing deep forward as advertised... %s from %D and %M with %T on Hooker,,,92
+293535,Lachie,Neale,FR,9,37,-,46,31,39,4,2,1,2,0,1,1,2,0, Full Time,,,,,76
+280336,Stephen,Hill,FR,2,36,-,50,23,33,7,0,1,3,0,0,0,0,0, Full Time,news,%P and %T,,,77
+291570,Nathan,Fyfe,FR,2,34,-,43,26,36,6,4,1,1,0,1,0,0,0, Full Time,tagged,Tagged by Lonergan... %O,,,76
+260069,Hayden,Ballantyne,FR,2,33,-,44,24,37,9,2,0,1,0,0,1,0,1, Full Time,news,%s from %P,,,84
+220096,Aaron,Sandilands,FR,6,32,-,35,29,32,1,2,0,1,19,1,0,0,1, Full Time,news,%H and %P plus %s,,,85
+271015,Matthew,de Boer,FR,3,29,-,38,22,30,1,4,2,3,0,0,0,0,0, Full Time,news,Playing forward... %D and %T with %M,,,89
+230048,Ryan,Crowley,FR,2,27,-,35,21,28,4,3,0,2,0,3,1,0,1, Full Time,news,%s from %D and %T,,,89
+261756,Greg,Broughton,FR,2,27,-,34,22,27,3,3,2,1,0,2,0,0,0, Full Time,news,%P and %M,,,75
+280386,Clancee,Pearce,FR,7,26,-,32,20,24,2,2,0,2,0,2,0,1,0, Full Time,news,%O and %T plus %s,,,90
+210037,Adam,McPhee,FR,8,25,-,31,23,30,4,2,2,0,0,0,1,1,0, Full Time,news,%D and %M plus %s,,,100
+280416,Chris,Mayne,FR,6,23,-,32,14,21,1,2,0,4,0,0,0,0,0, Full Time,news,%O and %T... Hardingham on him,,,94
+260315,John,Anthony,FR,1,22,-,30,14,18,2,1,0,3,0,2,0,0,0, Full Time,news,%D and %T on Myers,,,96
+270908,Nick,Suban,FR,7,22,-,29,18,24,2,1,1,2,0,0,1,1,0, Full Time,news,%P and %T plus a supergoal,,,100
+280726,Tendai,Mzungu,FR,1,20,-,27,14,19,2,1,1,2,0,0,0,0,1, Full Time,news,%O and %s,,,85
+230107,Michael,Johnson,FR,1,16,-,23,9,13,1,0,0,3,1,0,0,0,0, Full Time,news,%T,,,100
+291560,Josh,Mellington,FR,7,16,-,21,13,18,1,1,0,2,0,0,1,1,0, Full Time,news,%s from %D and %T,,,88
+250268,Garrick,Ibbotson,FR,1,15,-,19,11,16,4,1,0,0,0,0,0,0,1, Full Time,news,%D and %s,subbed,Subbed off in Q2 for Spurr,87
+240139,Paul,Duffield,FR,6,12,-,15,12,15,2,0,1,0,0,0,1,1,0, Full Time,news,First goal... %D and %s,,,100
+240552,Zac,Dawson,FR,0,5,-,7,6,9,1,1,1,0,0,0,1,0,0, Full Time,news,%D,,,100
+291542,Jayden,Pitt,FR,0,4,-,6,2,3,0,0,0,1,0,0,0,0,0, Full Time,news,On in Q2... just the one tackle in his stat sheet,sub,Started as a sub,3
+240266,Lee,Spurr,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,13

@@ -1,0 +1,48 @@
+Adelaide,Crows,Brisbane,Lions,R10,8.13.61,15.11.101, Full Time
+May 29,2011,1:10,Footy Park,Fox Sports,280506,10311006,5538,5355,Fine,16
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em title="MWAXO">mwaxo</em>: amazingly... i may just make 2000 this week. would be very happy with that considering<br><em>BluesFlag</em>: bewick not worth trading. <br><em>thebestHT</em>: @noway&#044; no way! serious?<br><em>demon_spud</em>: bye bye bewick&#044; you had your chance<br><em>lift_spud</em>: go flower yourslef adcock<br><em>RunGarlett</em>: can someone tell me why rohan bewick is so shower????<br><em>lozdaleg</em>: 147 from Clark :)<br><em>BluesFlag</em>: mcload23 - LMAo ;)<br><em>Shucuzz</em>: Nice 42 sc from danger -.-<br><em>mcleod23</em>: best on ground taylor walker<br><em>GCSnumber9</em>: 160 for scott thompson<br><em>Marcz</em>: lt 72= m0nty [8<br>
+210016,Scott,Thompson,AD,32,126,162,162,99,142,19,17,5,6,1,1,2,0,0, Full Time,gun,%2 Black... %O and %M with %T,,
+240370,Richard,Douglas,AD,16,106,105,137,84,121,22,11,5,2,0,0,2,0,1, Full Time,hot,%2 Redden... %P and %M,,
+270811,Sam,Jacobs,AD,29,95,92,110,87,99,6,5,5,2,39,2,1,1,0, Full Time,news,%H and %D with %M,sore,Dislocated finger on the right hand in Q4
+250118,Nathan,van Berlo,AD,16,94,84,116,77,101,11,12,5,3,2,2,0,1,0, Full Time,news,%D and %M with %T and %s,,
+270963,Rory,Sloane,AD,20,92,82,122,67,95,13,8,3,7,1,1,1,0,1, Full Time,news,Matched up on Polkinghorne... %P and %M plus %T and %s,,
+240032,Chris,Knights,AD,16,90,84,113,72,96,12,9,5,3,0,0,0,1,3, Full Time,garbage,%s from %D and %M on Hanley... quiet in Q3 but worked hard in Q4 junk time,,
+200092,Michael,Doughty,AD,14,87,93,111,69,90,12,9,6,3,0,3,0,0,0, Full Time,news,%O and %M with %T,,
+220086,Brent,Reilly,AD,25,87,69,117,61,88,12,7,2,8,0,1,1,0,1, Full Time,tagger,Tagging Rich... %P and %T,,
+261351,Matthew,Jaensch,AD,14,83,95,108,64,87,15,6,6,2,0,0,0,0,0, Full Time,news,%O and %T with %M,job,Running off Banfield
+291201,Ricky,Henderson,AD,19,80,90,102,61,83,9,8,3,5,0,0,0,1,2, Full Time,news,%D and %T on Collier,,
+210056,Graham,Johncock,AD,13,78,85,100,64,84,12,7,8,1,0,0,0,0,0, Full Time,job,Minding McGrath... %D,,
+280949,Luke,Thompson,AD,13,72,62,93,60,79,10,7,7,2,0,1,1,0,1, Full Time,cash,%M and %O with %T and %s,job,Has Retzlaff
+261384,Matthew,Wright,AD,14,64,67,79,51,67,9,7,2,2,0,2,0,1,1, Full Time,cash,%D and %T plus %s... got Adcock in Q3,,
+270742,Kurt,Tippett,AD,13,59,60,80,38,48,7,1,0,7,3,5,0,0,0, Full Time,news,%P and %T on Merrett,,
+220093,Ben,Rutten,AD,8,57,72,72,49,63,10,6,5,0,0,3,1,0,0, Full Time,news,%M and %P,job,On Brown
+280038,Shaun,McKernan,AD,5,46,48,60,40,51,6,2,4,2,8,1,2,0,1, Full Time,news,%P... also %H in ruck support,,
+291748,Brodie,Smith,AD,8,40,58,50,31,42,5,4,1,2,0,0,0,1,0, Full Time,tagger,Tagging Power... %P and %s,,
+270964,Myke,Cook,AD,4,39,36,47,33,45,2,9,2,2,0,1,0,0,0, Full Time,news,%P and %M,,
+250418,James,Sellar,AD,4,35,38,45,32,42,1,6,5,2,0,0,1,0,0, Full Time,job,Standing Clark... %D and %M with %T,,
+270917,Patrick,Dangerfield,AD,7,28,44,34,22,28,4,2,0,1,0,1,0,1,1, Full Time,news,First goal... %s from %O on Patfull,,
+280506,Taylor,Walker,AD,6,14,33,16,14,19,2,2,0,0,0,0,1,1,1, Full Time,injured,Booted %s from %P on Adcock... knock to a knee in Q2,subbed,Subbed off in Q3 for Petrenko
+261138,Jared,Petrenko,AD,1,13,10,16,14,24,1,6,0,1,0,0,2,0,0, Full Time,news,On in Q3 for Walker,sub,Started as a sub
+240393,Mitchell,Clark,BL,33,120,151,92,98,130,16,8,8,6,4,1,3,2,0, Full Time,star,%s from %P and %M on Sellar... also %T,,
+250335,Matthew,Leuenberger,BL,37,111,122,92,97,119,10,9,3,4,41,3,2,0,0, Full Time,hot,%H and %P with %M,,
+270512,Pearce,Hanley,BL,24,111,121,71,82,111,19,6,7,5,0,1,0,0,0, Full Time,hot,%D and %M with %T,job,Minding Knights
+980007,Simon,Black,BL,26,110,131,85,86,127,14,18,3,7,0,0,2,0,1, Full Time,heart,%2 Scott Thompson... %P and %T with %M and %s... cork in the right thigh in Q1,,
+271072,Daniel,Rich,BL,31,106,109,81,81,111,15,7,6,7,0,1,2,1,0, Full Time,hot,Tagged by Reilly... %D and %T with %M,,
+281373,Jack,Redden,BL,20,95,80,63,67,96,16,7,2,7,0,2,1,0,0, Full Time,news,%2 Douglas... %P and %T,,
+260975,James,Polkinghorne,BL,15,82,74,61,65,87,11,9,4,4,1,3,1,0,2, Full Time,news,Matched up on Sloane... %D and %T plus %s,,
+271071,Todd,Banfield,BL,17,78,64,65,64,79,8,4,5,3,0,0,0,3,1, Full Time,news,%s from %O and %M with %T on Jaensch,,
+980011,Luke,Power,BL,14,76,79,52,59,79,11,7,3,3,0,1,0,1,1, Full Time,tagged,Tagged by Brodie Smith... %P and %T plus %s,,
+230147,Daniel,Merrett,BL,18,75,83,44,65,84,14,3,11,0,0,0,2,0,0, Full Time,job,On Tippett... %M and %O,,
+260986,Matt,Austin,BL,16,71,64,69,53,72,6,8,4,6,0,1,0,0,0, Full Time,news,%P and %M with %T,,
+210013,Ashley,McGrath,BL,16,66,99,55,54,67,6,4,1,3,0,0,0,4,1, Full Time,news,Up forward again with Johncock on him... %s from %O including three majors in Q2,,
+292501,Bryce,Retzlaff,BL,15,64,67,50,57,69,7,5,7,0,0,0,0,2,0, Full Time,news,%s from %O and %G on Luke Thompson,,
+250419,Tom,Collier,BL,14,62,70,41,51,66,9,6,4,1,0,1,0,1,0, Full Time,job,Has Henderson... %D and %M,,
+250053,Cheynee,Stiller,BL,9,61,63,51,52,69,7,7,7,2,0,0,1,0,0, Full Time,news,%O,,
+200007,Jonathan,Brown,BL,13,60,85,46,56,78,8,9,6,2,0,1,4,0,3, Full Time,news,Booted %s from %G and %O on Rutten,,
+240087,Jed,Adcock,BL,8,57,65,35,47,63,10,4,6,1,0,0,1,0,0, Full Time,job,Stood Walker which was a tough matchup that doesn't allow him time to rebound... after TW's injury moved to Wright... %P and %M,,
+230170,Joel,Patfull,BL,9,53,57,44,44,60,7,4,6,3,0,0,2,0,0, Full Time,job,Minding Dangerfield... %O and %F,,
+290748,Joshua,Green,BL,8,51,59,36,37,55,8,5,1,4,0,0,1,0,1, Full Time,bubble,Second game... %P and %T plus %s,,
+281329,Rohan,Bewick,BL,8,49,37,42,33,48,6,4,1,5,0,0,0,0,0, Full Time,cash,%D and %T,subbed,Subbed off in Q4 for O'Brien
+261250,Sam,Sheldon,BL,9,45,42,43,37,55,4,8,2,4,0,0,2,0,1, Full Time,news,Playing as a small forward... %D,,
+280572,Jesse,O'Brien,BL,6,14,9,12,13,15,1,1,1,0,0,0,0,1,0, Full Time,news,On in Q4 for Bewick... %s from %O,sub,Started as a sub

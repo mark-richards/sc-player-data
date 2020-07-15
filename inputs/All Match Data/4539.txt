@@ -1,0 +1,48 @@
+Gold Coast,Suns,Collingwood,Magpies,R17,13.7.85,11.12.78, Full Time
+Jul 20,2013,4.40,Gold Coast,Seven,271001,10391704,gcfc-v-coll,0,Showers,20,,
+
+<em style='color:#000'>mjbt</em>: If the Suns win the next 2 against Carlton and West Coast they play finals<br><em style='color:#000'>mjbt</em>: That would have to be one of gaze as top 100 games ever<br><em style='color:#000'>wolfheart</em>: ablett&#044; how could i leave the vc on you and give the C to Pendles? fmsc<br><em style='color:#000'>1pistol7</em>: yea the umps made u play like showere. p!ss off ya sooks<br><em style='color:#000'>pietime!</em>: night*<br><em style='color:#000'>pietime!</em>: im sorry RooBoy&#044; what happened last time?<br><em style='color:#000'>wolfheart</em>: suck it pies! suck it hard!<br><em style='color:#000'>drake2013</em>: Nicholls sc is so much crap<br><em style='color:#000'>ballbag</em>: swan is a hack hahahahaha<br><em style='color:#000'>Jmachete</em>: well done gc umps<br><em style='color:#000' title="GEORDST3R">geordst3r</em>: im collingwood but you cant hate the suns<br><em style='color:#000'>runt</em>: Collingwood are at the crossroads<br>
+220001,Gary,Ablett jnr,GC,44,163,178,196,137,187,22,27,7,2,0,1,0,2,1, Full Time,star,%2 Pendlebury... %P and %M plus %T and %s,,,584100,161,669300,179,Centre,9,14,120.9,135.3,65.42,63.37
+294613,Jaeger,O'Meara,GC,43,129,119,163,102,133,11,12,7,8,1,0,0,3,0, Full Time,cherry,%2 Beams... %P and %T with %M and %s,,,420400,108,453800,121,Centre,1,15,88.6,90.5,43.03,44.44
+290527,Trent,McKenzie,GC,25,111,110,147,87,115,18,6,10,4,0,1,1,0,1, Full Time,rock,Macaffer manning him up... %D and %M plus %T and %s,,,387800,84,463900,114,Back,18,11,86.6,94.9,3.97,3.16
+290815,Thomas,Nicholls,GC,34,99,88,123,79,99,6,6,2,8,33,1,1,0,0, Full Time,x-factor,His hitouts to advantage were a highlight... %H and %P with %T and %M,,,303100,14,370300,9,Ruck,22,6,85.8,101.5,31.22,34.89
+291594,Harley,Bennell,GC,20,87,75,114,67,98,12,11,3,6,1,0,2,0,1, Full Time,news,%O and %T with %M and %s,,,399300,91,464200,95,Centre,11,8,78.5,87.3,0.67,0.62
+261756,Greg,Broughton,GC,14,83,96,106,67,90,10,10,7,3,0,0,0,0,0, Full Time,news,%O and %M with %T,job,Has Elliott,323300,56,370200,58,Back Forward,36,11,69.7,76.1,2.48,2.53
+230015,Jared,Brennan,GC,22,81,84,103,65,81,8,4,4,5,0,2,1,3,0, Full Time,news,Kicked %s from %D and %M with %T starting forward on Maxwell,,,335000,70,380000,93,Back,3,11,69,76.1,0.53,0.36
+290790,Matthew,Shaw,GC,10,78,83,100,62,87,12,10,4,3,0,1,1,0,0, Full Time,news,%P and %M starting forward on Seedsman,,,340500,46,370600,63,Back,26,15,70.7,72.9,0.74,0.46
+220013,Campbell,Brown,GC,12,75,97,98,59,78,14,4,7,1,0,0,0,0,0, Full Time,news,%P and %M on Shaw,,,286700,61,316600,71,Forward,30,9,63.8,68.8,1.02,1.05
+240254,Jarrod,Harbrow,GC,15,75,78,93,59,82,12,9,2,2,0,0,0,1,1, Full Time,news,Matched up on Dwyer... %D and %s,,,415200,94,429600,79,Back,5,15,85.3,86.5,5.45,1.99
+281025,Luke,Russell,GC,13,70,77,90,58,79,10,8,6,2,0,0,1,0,1, Full Time,news,%O and %M plus %s,,,323500,68,333500,68,Back,8,11,61.5,58.9,0.24,0.30
+250249,Danny,Stanley,GC,9,67,60,84,57,84,8,14,3,3,0,0,2,0,0, Full Time,swan,Tagging Swan... %P and %T with %M,,,378600,113,397600,118,Back,25,11,78.5,77,0.94,0.28
+290627,Dion,Prestia,GC,14,64,81,79,53,75,9,10,2,2,0,0,1,1,0, Full Time,news,%2 Sidebottom... %P and %T plus %M and %s,,,501600,158,507100,146,Centre,10,14,99.6,97.4,0.78,0.33
+281085,Steven,May,GC,9,56,88,76,44,58,10,1,6,2,1,0,1,0,0, Full Time,job,In defence on the resting ruck which is mostly Witts... %D and %M,,,203700,60,251700,83,Back Forward,17,11,40.1,52,0.47,0.36
+281024,Maverick,Weller,GC,4,49,32,63,40,57,7,7,3,2,0,0,1,0,0, Full Time,news,%D and %M,,,271500,,286500,,Back,4,1,51,54,0.12,0.15
+293223,Seb,Tape,GC,9,49,43,64,37,48,6,2,3,3,0,0,0,1,0, Full Time,job,Goldsack was his man to start then got Reid in Q4... %D and %T plus %s,,,216400,,247200,,Back,48,1,57,70,0.24,0.25
+291753,Sam,Day,GC,10,46,49,57,37,45,5,2,2,2,0,1,0,2,0, Full Time,news,First goal... %s from %P and %M on Reid... also %T,,,224800,43,292800,56,Forward,12,15,50.9,60.3,2.82,2.26
+294485,Andrew,Boston,GC,4,41,26,55,31,45,8,3,2,2,0,0,1,0,0, Full Time,cash,Donuts in Q1... %D and %M,,,89300,22,96200,17,Centre,40,3,14.3,17.3,2.41,1.80
+296736,Josh,Hall,GC,3,39,61,49,32,41,7,3,3,0,2,1,0,0,0, Full Time,news,%O and %M on Keeffe,subbed,Subbed off in Q4 for Sexton,123600,,141800,,Ruck,46,1,50,47,2.74,2.63
+281075,Rory,Thompson,GC,4,38,58,49,33,45,7,4,4,0,0,0,1,0,0, Full Time,job,Following Cloke... %O and %M,sore,Left ankle strapped up in Q3,269300,91,371900,107,Back,16,15,56.5,72.3,0.91,1.18
+296735,Aaron,Hall,GC,3,38,22,51,30,41,6,2,3,2,0,0,1,0,2, Full Time,news,%s from %P and %M on Williams,,,305200,108,317200,108,Forward,33,15,63.5,61.6,0.61,0.51
+294643,Alex,Sexton,GC,0,13,6,16,11,15,2,2,1,0,0,0,0,0,0, Full Time,news,On in Q4 for Josh Hall,sub,Started as a sub,197500,,174800,,Centre,6,0,0,0,0.56,0.73
+271001,Dayne,Beams,CO,37,134,134,107,107,145,15,19,6,6,0,2,0,1,1, Full Time,magnet,%2 O'Meara... %O and %M with %T,,,599400,,657600,,Centre,17,1,80,88,1.95,1.47
+220105,Dane,Swan,CO,27,130,98,86,105,139,19,13,7,3,0,1,0,2,1, Full Time,gun,Tagged by Stanley... %P and %M plus %T and %s,,,546100,83,583100,87,Centre,36,15,115.3,117.5,49.16,37.51
+250133,Sam,Dwyer,CO,26,113,115,75,95,126,16,15,8,1,0,1,0,1,0, Full Time,hot,Matched up on Harbrow... %P and %M with %T and %s,,,323900,62,333300,51,Forward Centre,41,13,67.5,70.9,13.75,15.71
+260257,Scott,Pendlebury,CO,26,109,103,88,82,117,13,15,4,7,0,0,0,0,0, Full Time,hot,%2 Ablett jnr... %O and %T with %M,dttalk,The #1 DT captain option from Calvin of DT Talk,561800,76,648000,94,Centre,10,15,114.6,130.3,40.52,42.91
+295256,Marley,Williams,CO,19,101,86,67,76,102,17,5,7,5,0,2,1,0,0, Full Time,hot,%O and %M plus %T,job,Minding Aaron Hall,315800,83,349700,73,Back,46,8,64.3,69,0.39,0.54
+280965,Steele,Sidebottom,CO,25,99,92,59,74,102,17,8,3,4,0,1,0,1,0, Full Time,news,%2 Prestia... %D and %T plus %s,,,409200,83,467000,105,Centre,22,15,92.9,100.1,2.96,2.80
+290289,Josh,Thomas,CO,21,90,103,75,67,96,11,10,4,7,0,0,1,0,0, Full Time,news,%D and %M with %T,,,359700,119,377100,99,Centre,24,11,73.8,75.9,1.60,1.50
+240366,Travis,Cloke,CO,20,89,101,71,73,88,10,5,6,3,0,3,0,2,4, Full Time,sore,%s from %D and %G on Thompson... copped a knock off the ball in Q3 which left him sore,,,434900,89,453700,91,Forward,32,14,95.4,97.2,18.35,15.14
+220005,Luke,Ball,CO,25,88,80,66,61,90,13,8,1,8,0,1,1,0,0, Full Time,news,%B among %P with %T,,,435100,84,451000,70,Centre,12,7,98.9,98.4,7.84,10.09
+240232,Ben,Reid,CO,18,86,73,59,71,91,13,6,10,1,0,0,0,0,1, Full Time,switch,In defence on Day... %P and %M... switched forward in Q4 for %s,,,332000,32,384000,53,Back,20,14,70.6,81.4,1.63,2.40
+230263,Nick,Maxwell,CO,14,81,82,71,67,87,8,10,8,3,0,1,0,0,0, Full Time,news,%O and %M with %T,job,Responsible for Brennan,340800,98,346700,93,Back,5,11,66.5,67.6,1.15,1.00
+291386,Ben,Sinclair,CO,14,81,71,58,61,84,12,7,5,4,0,0,0,0,0, Full Time,news,%D and %M with %T,job,On Shaw,241800,71,270800,90,Forward,28,10,49.1,51.8,1.14,1.06
+294733,Paul,Seedsman,CO,20,80,86,71,65,87,7,12,4,4,0,1,0,1,0, Full Time,job,Shaw is his man... %P and %M,,,423300,146,415300,116,Centre,40,13,76.1,74.2,1.16,1.68
+240700,Heath,Shaw,CO,8,66,87,31,52,72,14,4,5,1,0,0,1,0,0, Full Time,news,%P and %M,job,Running off Brown,397100,63,526400,116,Back,39,12,86.9,103.7,12.41,23.85
+293801,Jamie,Elliott,CO,21,58,63,61,44,57,4,2,3,6,0,0,1,2,0, Full Time,news,%s from %O and %M on Broughton... also %T,,,302900,89,336000,98,Forward,19,14,67.9,72.2,3.12,4.72
+260246,Tyson,Goldsack,CO,14,57,61,50,41,55,6,4,1,5,0,1,0,1,1, Full Time,switch,%s from %P  and %T starting forward on Tape... switched to defence in Q4 on Day,,,259400,60,326100,61,Forward,6,5,53.4,73.2,0.90,0.85
+240710,Ben,Hudson,CO,10,55,66,44,50,63,5,6,2,1,21,0,1,0,0, Full Time,news,%H and %D,,,356800,73,435600,107,Ruck,25,6,77.3,87.8,0.61,0.41
+291975,Jarrod,Witts,CO,13,55,63,59,43,55,2,5,0,5,19,0,0,0,0, Full Time,cash,%P and %T on May when forward... also %H,,,187600,-26,203000,-26,Ruck,15,5,51,53.8,6.86,9.22
+290314,Lachlan,Keeffe,CO,8,54,59,35,45,60,9,4,6,1,0,0,1,0,0, Full Time,job,Has Josh Hall.... %O and %M,in,Late replacement for Nathan Brown,251300,,301400,,Back,23,0,0,0,0.15,0.23
+261181,Brent,Macaffer,CO,3,49,37,27,38,51,9,4,3,1,0,1,0,0,0, Full Time,cannon,%P and %M starting forward on McKenzie,,,341100,74,322200,44,Forward,3,14,71.3,65.8,25.43,25.81
+296732,Caolan,Mooney,CO,1,16,15,19,11,18,1,2,0,3,0,0,1,0,0, Full Time,news,On in Q3 for Krakouer... %D,sub,Started as a sub,108500,,115900,,Centre,48,1,37,51,0.97,1.15
+210058,Andrew,Krakouer,CO,1,13,15,10,12,18,1,5,0,0,0,0,0,0,0, Full Time,sore,%D including %b by hand... left knee strapped up in Q3,subbed,Subbed off in Q3 for Mooney,306600,55,319000,40,Forward,7,7,66,64.9,2.25,2.07

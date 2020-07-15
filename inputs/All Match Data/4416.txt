@@ -1,0 +1,48 @@
+Geelong,Cats,North Melbourne,Kangaroos,R2,16.16.112,17.6.108, Full Time
+Apr 07,2013,1.10,Docklands,Seven,261909,10390207,5015,0,Fine,27,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>aces-high</em>: would be seriously looking at mullet if he was defender<br><em>trippin123</em>: why doesnt jimmy bartel have the goal in his description<br><em>Drenthe FC</em>: heart also to swallow<br><em>Jair</em>: Same with me keenasabea<br><em>jimmyhird5</em>: stop chanting my name guys...<br><em>Sewelly07</em>: you get an extra 40 sc for a winner after the siren&#044; so before the end of the game I guess its 30-35<br><em>j0sh34</em>: I love you jimmy<br><em>Luke919</em>: what a flowering disgraceful game by the umpires<br><em>johnkay</em>: Jimmy Bartel from 111 to 149 SC with that goal.<br><em>JRedden</em>: horrible just horrible varcoe&#044; out of my team<br><em>Mcswains</em>: time left?<br><em>Affliction</em>: firrito spud<br>
+250321,Joel,Selwood,GE,37,109,140,141,83,116,14,12,2,8,1,3,2,1,1, Full Time,heart,%P and %T plus %s... off briefly in Q1 complaining of feeling unwell,,,530900,,629500,,Midfielder,14
+220007,Jimmy,Bartel,GE,48,105,157,138,73,99,10,9,1,11,0,4,0,1,0, Full Time,star,%P and %T,,,492700,,527400,,Midfielder,3
+200039,Paul,Chapman,GE,26,90,114,115,74,105,12,11,1,6,0,2,4,2,3, Full Time,news,Slow start again... %P and %T... also %s and %F,,,502600,,535600,,Forward,35
+280918,Allen,Christensen,GE,26,89,75,109,79,101,8,11,4,4,0,4,3,3,2, Full Time,news,%O and %T plus %s,,,381200,,427700,,Midfielder,28
+220058,James,Kelly,GE,24,85,84,108,67,99,8,17,1,7,0,2,2,0,0, Full Time,news,%D and %T... also %F,,,502300,,553200,,Midfielder,9
+261510,Tom,Hawkins,GE,20,79,91,93,70,83,9,7,5,0,1,3,0,3,1, Full Time,news,Kicked %s from %D and %G on Thompson,,,409500,,508800,,Forward,26
+280990,Steven,Motlop,GE,15,79,69,95,65,87,14,8,2,0,0,0,0,2,3, Full Time,news,%s from %P and %M on Mullett,,,302300,,329400,,Forward,32
+281065,Mitch,Duncan,GE,20,78,50,102,62,85,10,7,4,5,0,1,2,1,1, Full Time,news,Playing mostly HFF on McMahon... %s from %D and %T with %M,,,420500,,429100,,Forward,22
+200035,Corey,Enright,GE,9,71,87,88,57,81,10,12,3,2,0,0,0,0,0, Full Time,news,%O and %M with %T,job,Responsible for Harper,416100,,502400,,Back,44
+200034,Joel,Corey,GE,8,68,97,82,55,79,7,15,1,3,1,1,0,0,0, Full Time,news,%B among %O with %T,job,Playing a HBF on Adams,396700,,409700,,Midfielder,11
+290623,Josh,Caddy,GE,15,64,72,84,52,72,10,5,4,3,0,0,2,1,0, Full Time,news,%O and %T with %M,,,328600,,329300,,Midfielder,23
+200131,James,Podsiadly,GE,10,61,65,79,45,61,10,3,2,3,0,0,0,1,1, Full Time,news,%s from %D on Grima,,,360300,,393100,,Forward,31
+280822,Taylor,Hunt,GE,9,61,85,77,49,66,6,9,4,3,0,1,0,0,0, Full Time,job,Minding Thomas... %P and %T with %M,,,319400,,347200,,Midfielder,19
+230214,Mathew,Stokes,GE,9,60,78,76,51,69,7,9,5,2,0,1,1,0,0, Full Time,x-factor,On in Q3 for Brown... %P... his run off the subs bench was crucial in the Cat revival,sub,Started as a sub,338700,,348100,,Forward,27
+230248,Andrew,Mackie,GE,7,59,67,76,44,61,13,4,2,1,0,1,0,0,1, Full Time,news,One kick in Q1... %O and %s,,,405100,,425100,,Back,4
+296733,Mark,Blicavs,GE,9,57,56,71,51,65,4,8,6,2,4,1,1,0,1, Full Time,bubble,Second game... %H and %P with %T and %M,,,108500,,115900,,Ruck,46
+250290,Travis,Varcoe,GE,12,56,63,69,44,61,4,11,1,4,0,2,0,0,1, Full Time,ghost,Loose in defence... %P and %T plus %s,,,234400,,268900,,Forward,5
+230125,Tom,Lonergan,GE,11,55,67,70,46,60,5,6,4,3,0,1,1,1,0, Full Time,job,Standing Petrie... %P and %T with %M,,,255400,,316400,,Back,13
+260261,Trent,West,GE,13,36,30,41,39,49,3,3,0,1,28,1,4,0,0, Full Time,news,%H and %P.... also %F,,,349600,,406900,,Ruck,12
+290783,Billie,Smedts,GE,3,36,36,45,29,40,3,6,2,2,0,0,0,0,1, Full Time,news,Atley on him... %B among %P,,,267900,,259900,,Back,2
+261497,Harry,Taylor,GE,3,31,44,42,23,30,4,1,3,2,0,0,0,0,0, Full Time,job,Responsible for Hansen... %D and %T,,,376800,,465000,,Back,7
+290622,Mitch W.,Brown,GE,1,13,20,15,11,15,2,3,0,0,0,1,0,0,0, Full Time,job,In defence on Tarrant... %O,subbed,Subbed off in Q3 for Stokes,209500,,233600,,Forward,1
+280863,Ryan,Bastinac,NM,37,136,111,102,105,142,19,10,9,7,0,0,1,1,1, Full Time,hot,%P and %M plus %T and %s,,,405800,,407800,,Midfielder,3
+240417,Andrew,Swallow,NM,24,115,111,78,91,123,18,11,7,5,0,4,2,0,0, Full Time,hot,No tag... %P and %M,sore,Left hamstring tightness in Q2,528800,,585100,,Midfielder,9
+250557,Sam,Gibson,NM,25,106,89,55,87,114,21,5,12,0,0,0,1,0,0, Full Time,hot,%D and %M,,,468400,,411100,,Midfielder,43
+291445,Aaron,Mullett,NM,27,102,122,80,77,102,13,8,5,6,0,2,0,1,0, Full Time,hot,%D and %M plus %T and %s,job,Minding Motlop,252700,,279100,,Midfielder,41
+280944,Jack,Ziebell,NM,14,90,98,51,65,91,17,6,2,5,0,3,1,0,1, Full Time,news,%O and %T plus %s,,,406400,,434100,,Midfielder,7
+250135,Scott,McMahon,NM,25,89,100,74,69,90,12,3,9,6,0,2,2,0,0, Full Time,job,Responsible for Duncan... %P and %M with %T,,,332300,,421300,,Back,42
+240131,Nathan,Grima,NM,18,86,62,58,63,84,15,1,7,5,0,1,1,0,0, Full Time,news,%P and %M,ipod,Standing Podsiadly,392400,,468200,,Back,17
+210023,Drew,Petrie,NM,21,85,91,58,74,87,11,3,6,0,2,1,0,4,1, Full Time,news,First goal... %s from %D and %G on Lonergan,,,419000,,506100,,Forward,20
+271129,Todd,Goldstein,NM,33,85,105,82,78,93,5,4,4,4,42,1,3,0,0, Full Time,news,%H and %D... also %F,,,407300,,497900,,Ruck,22
+290787,Shaun,Atley,NM,26,84,93,70,62,84,10,6,4,6,0,0,0,1,0, Full Time,news,%O and %T with %M and %s,job,Running off Smedts,311200,,380400,,Back,18
+261909,Lindsay,Thomas,NM,23,83,70,60,72,88,11,1,4,3,0,2,3,5,1, Full Time,news,%s from %O and %T on Taylor Hunt,,,353200,,396500,,Forward,12
+230232,Daniel,Wells,NM,14,74,68,50,62,79,10,8,4,1,4,2,0,1,0, Full Time,news,%P and %M... also %H,,,448200,,529700,,Midfielder,8
+260545,Liam,Anthony,NM,20,74,80,51,63,93,11,12,2,4,0,1,4,1,0, Full Time,news,%O and %T... also %s and %F,,,499200,,483900,,Midfielder,4
+281395,Scott D.,Thompson,NM,9,69,98,44,57,81,12,7,5,3,0,1,3,0,0, Full Time,news,%M and %D... also %F,tomahawk,Has Hawkins,360100,,469800,,Back,16
+230272,Michael,Firrito,NM,12,66,33,45,54,69,10,5,7,1,0,1,0,0,0, Full Time,news,Loose in defence early... %P and %M,,,319200,,392500,,Back,11
+250285,Leigh,Adams,NM,15,66,75,44,56,78,10,8,4,2,0,0,2,1,0, Full Time,news,%s from %D and %M on Corey,,,384400,,442600,,Forward,13
+290194,Jamie,MacMillan,NM,10,56,61,50,42,57,6,5,4,4,0,0,0,0,0, Full Time,news,%P and %T with %M,,,317100,,334900,,Midfielder,34
+270325,Robbie,Tarrant,NM,10,50,57,42,45,55,5,3,5,1,1,0,1,2,0, Full Time,news,Booted %s from %G and %P on Brown,,,285800,,324200,,Back,25
+280921,Ben,Cunnington,NM,8,42,47,35,31,48,5,7,0,4,0,0,1,0,0, Full Time,news,%P and %T,,,387500,,412800,,Midfielder,10
+250373,Lachlan,Hansen,NM,2,34,32,30,29,37,3,4,3,1,4,0,0,0,0, Full Time,news,Taylor on him... %P... also %H,,,271700,,332700,,Forward,6
+290547,Kieran,Harper,NM,7,29,21,29,22,33,3,3,1,4,0,1,2,0,0, Full Time,news,Enright on him... %P and %T,subbed,Subbed off in Q3 for Jacobs,253200,,275500,,Forward,23
+290802,Ben,Jacobs,NM,2,25,28,13,24,34,5,3,3,0,0,0,2,0,1, Full Time,news,On in Q3 for Harper,sub,Started as a sub,311000,,309200,,Back,5

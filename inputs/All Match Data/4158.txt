@@ -1,0 +1,48 @@
+Collingwood,Magpies,St Kilda,Saints,R19,12.19.91,13.7.85, Full Time
+Aug 4,2012,7:40,MCG,Seven,240708,10341905,430165,0,A shower or two,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>old_shepp</em>: Actually 2 pts Dangeroo - would have been a draw<br><em>Scotti2Hot</em>: Leon88 = nob jockey.<br><em>Leon88</em>: haha put your other eye in&#044; milne lost the game<br><em>000michael</em>: leon nice trolling u dumb flower<br><em>MarcMurphy</em>: 25-14 free kicks&#044; in favour of Collingwood. No way can you say that umpiring was against Collingwood.<br><em>Dangeroo</em>: 4 points for the umps<br><em>R.Griff</em>: 14-25 free kicks<br><em>Leon88</em>: haha been here all game mate<br><em>K.Hunt</em>: Miley didn't even touch him! flower<br><em>slip</em>: the pies deserved that game dominated inside 50 and score shots<br><em>chadwick</em>: Pendles always stands up when it matters<br><em>cdfcdevils</em>: Obrien soft didn't even get touched ya flower<br>
+210099,Darren,Jolly,CO,56,153,168,184,134,160,9,12,10,6,37,2,1,2,0, Full Time,star,%H and %D with %M and %s... massive Q2 after a good Q1 as well,sore,Had the back of his head cut open by the knee of Brown in Q2
+280965,Steele,Sidebottom,CO,25,122,121,155,95,130,17,15,6,5,0,2,0,0,1, Full Time,hot,%P and %M plus %s,,
+220105,Dane,Swan,CO,27,120,97,148,101,134,17,14,7,2,0,1,1,2,2, Full Time,hot,%2 Hayes... %D and %M plus %s,,
+271001,Dayne,Beams,CO,27,119,144,147,95,126,16,16,4,4,0,5,0,1,0, Full Time,hot,Tagged by Jones... %P and %M with %T,,
+240359,Dale,Thomas,CO,25,107,109,132,88,114,17,9,6,1,0,1,0,2,3, Full Time,hot,%2 Dal Santo... %D and %M plus %s,,
+260257,Scott,Pendlebury,CO,15,92,126,114,74,106,14,16,2,3,0,2,1,0,1, Full Time,news,%2 Goddard... %D and %T,,
+260394,Chris,Dawes,CO,23,92,87,117,72,89,8,5,5,6,3,2,0,2,2, Full Time,news,%s from %P and %T with %M on Fisher,,
+293801,Jamie,Elliott,CO,25,84,93,112,59,82,7,8,3,9,0,1,0,0,1, Full Time,news,%D on Geary,,
+291386,Ben,Sinclair,CO,10,70,50,94,50,67,12,2,4,4,0,1,0,0,1, Full Time,news,%O and %T with %M and %s on Gram,,
+261799,Sharrod,Wellingham,CO,15,67,67,85,57,79,10,8,4,2,1,0,2,1,0, Full Time,news,%P and %T plus %M and %s,,
+240073,Harry,O'Brien,CO,9,63,70,82,48,63,11,4,4,2,0,2,0,0,0, Full Time,job,Minding Milne... %O and %M,,
+290821,Alex,Fasolo,CO,13,60,72,76,44,61,10,5,0,3,0,1,0,1,1, Full Time,news,%s from %D and %T,,
+240700,Heath,Shaw,CO,8,59,73,81,44,63,13,2,3,3,0,1,2,0,0, Full Time,news,Started slowly... %O and %M with %T,,
+280104,Jarryd,Blair,CO,8,57,56,72,48,67,9,8,4,1,0,0,1,0,1, Full Time,news,%P,,
+294733,Paul,Seedsman,CO,10,57,51,78,42,58,7,3,4,5,0,0,1,0,1, Full Time,news,%O and %T plus %M and %s,,
+240232,Ben,Reid,CO,5,52,47,69,41,55,9,3,4,2,1,1,1,0,0, Full Time,concussed,%O and %M... copped a high bump by Koschitzke in Q2,job,Following Riewoldt
+240366,Travis,Cloke,CO,9,49,70,60,41,52,8,4,3,0,0,1,0,1,1, Full Time,news,%s from %D and %M on Gwilt,,
+240419,Alan,Toovey,CO,7,46,60,59,37,54,9,6,2,1,0,0,1,0,0, Full Time,job,Minding Saad... %O,,
+260310,Nathan,Brown,CO,3,37,42,49,28,36,5,2,3,2,0,1,0,0,0, Full Time,in,%l Chris Tarrant... %P,job,Koschitzke is his man
+230263,Nick,Maxwell,CO,3,26,37,30,26,36,2,8,2,0,0,1,1,0,0, Full Time,job,Responsible for Gilbert... %O,,
+260246,Tyson,Goldsack,CO,2,23,14,30,20,28,3,3,2,1,0,0,1,0,1, Full Time,injured,%s from %P and %M on Simpkin... left knee knock in Q3,subbed,Subbed off in Q3 for Young
+294826,Tom,Young,CO,1,20,17,25,18,27,2,5,1,1,0,0,1,0,0, Full Time,news,On in Q3 for Goldsack,sub,Started as a sub
+261323,Ben,McEvoy,SK,42,120,126,121,102,122,6,10,7,6,29,2,0,1,0, Full Time,hot,%H and %D with %M and %T,,
+220023,Nick,Dal Santo,SK,33,116,112,92,90,121,14,11,4,7,0,2,1,2,1, Full Time,hot,%2 Thomas... %O and %T with %M and %s,,
+990028,Lenny,Hayes,SK,24,109,110,81,88,122,15,13,7,5,2,1,2,0,0, Full Time,hot,%P and %M with %T... also %H,swan,Head to head with Swan
+220075,Leigh,Montagna,SK,20,99,107,74,76,108,13,14,4,5,0,0,0,0,0, Full Time,news,%O and %M,,
+230084,Brendon,Goddard,SK,19,99,122,55,79,106,18,8,8,1,0,0,0,0,1, Full Time,news,%2 Pendlebury.. %P and %M,,
+260113,Jarryn,Geary,SK,10,85,81,52,67,93,14,10,5,2,0,0,0,0,0, Full Time,job,Minding Elliott... %D and %M,,
+240708,Sam,Fisher,SK,14,81,104,56,62,81,13,3,8,3,0,0,0,0,0, Full Time,news,%D and %T plus %M,job,Zoning off Dawes
+270912,Jack,Steven,SK,14,78,55,58,59,84,11,9,3,5,0,1,1,0,0, Full Time,news,%D and %M with %T,,
+250340,David,Armitage,SK,15,75,68,50,61,81,12,5,5,3,0,2,2,1,0, Full Time,news,%D and %M plus %s,,
+294818,Ahmed,Saad,SK,16,75,82,49,62,75,11,2,5,1,0,1,0,3,0, Full Time,news,First goal... %s from %O and %M on Toovey,,
+210001,Nick,Riewoldt,SK,16,74,70,59,61,77,9,3,6,3,1,0,1,2,1, Full Time,news,%s from %P and %G on Reid... also %T,,
+230243,Sean,Dempster,SK,9,73,88,50,63,87,10,13,5,1,0,1,1,0,0, Full Time,news,Loose in defence early... %P and %M,,
+240062,Farren,Ray,SK,18,73,64,57,57,78,10,6,6,4,0,0,1,0,0, Full Time,news,%D and %M,,
+261743,Clinton,Jones,SK,20,73,63,71,57,79,6,10,4,6,0,1,1,0,1, Full Time,news,%P and %T with %M,tagger,Tagging Beams
+200108,Stephen,Milne,SK,20,70,58,43,60,82,12,3,3,3,0,0,4,3,1, Full Time,news,%P on O'Brien,,
+220034,Jason,Gram,SK,9,70,66,39,54,75,14,3,5,3,0,1,2,0,0, Full Time,job,Responsible for Sinclair... %P and %M,,
+250134,Sam,Gilbert,SK,9,58,50,53,51,66,5,8,6,2,2,1,1,0,1, Full Time,news,%s from %P and %M on Maxwell,,
+280053,Tom,Simpkin,SK,4,50,52,44,41,57,5,8,3,3,0,1,1,0,0, Full Time,job,Has Goldsack... %O and %T,mrp,A front on bump on Wellingham will probably get a week
+250703,James,Gwilt,SK,7,41,56,16,37,57,10,5,3,1,0,0,4,0,0, Full Time,job,Following Cloke... %P,,
+296459,Sam,Dunell,SK,2,35,36,28,29,39,4,5,3,1,0,0,0,0,0, Full Time,news,On in Q3 for Polo,sub,Started as a sub
+210002,Justin,Koschitzke,SK,8,30,29,21,28,34,4,1,3,0,4,0,1,1,0, Full Time,news,%P on Brown... also %H,mrp,A high bump on Reid in Q2 will be scrutinised
+250066,Dean,Polo,SK,3,30,30,26,29,42,3,7,3,1,0,0,2,0,0, Full Time,in,%l Beau Wilkes... %P and %M,subbed,Subbed off in Q3 for Dunell

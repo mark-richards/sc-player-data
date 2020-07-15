@@ -1,0 +1,56 @@
+Adelaide,Crows,Melbourne,Demons,W1,0.3.6.24,0.5.4.34, Half Time
+Feb 11,2011,7:45,Footy Park,Fox Sports,,10300101,,5256,Windy,27
+It is being developed.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>jumpinjack</em>: wow so um the SC scores whats the deal there<br><em>dancasta</em>: were the half time sc scores just doubled to make it like a full game?<br><em>Ltv123</em>: so each game is only half a real game right?<br><em>Slap</em>: Hey guys&#044; from wa here and just logged on.. whats happened?<br><em>charlie</em>: Hey fellas&#044; is the Champion Data live feed working for anyone?<br><em>maanco</em>: what channel is this being broadcasted on?<br><em>bazza525</em>: heey y isnt m0ntey doing sc ??<br><em>lozdaleg</em>: what happened nows when do quaters end<br><em>spudmania</em>: hey m0nty&#044; when will SC scores some up?? round 1 of season or NAB cup??<br><em>gleesestar</em>: this format is crap it makes it hard to see whos playing well.<br><em>PiesGOGOGO</em>: 20 min halves are sh!t house<br><em>thorgils</em>: McKernan pretty impressive<br>
+270917,Patrick,Dangerfield,AD,7,49,147,60,41,54,8,7,3,0,0,2,0,0,0, Half Time,hot,Head to head with Moloney in midfield... %B among %D with %M
+280038,Shaun,McKernan,AD,9,40,153,48,35,42,3,3,3,1,0,0,0,2,0, Half Time,news,Kicked %s from %P and %G on Rivers
+240370,Richard,Douglas,AD,9,37,77,48,28,36,3,2,2,3,0,0,0,1,0, Half Time,news,First goal... %P and %s with %M and %T
+261138,Jared,Petrenko,AD,3,36,68,48,26,33,6,1,2,2,0,2,0,0,0, Half Time,news,Industrious across half back... %P and %T with %M
+280506,Taylor,Walker,AD,2,35,42,45,28,33,5,1,3,1,0,2,0,0,3, Half Time,news,Heaps of it early... %s from %P and %G on Garland
+270296,Andy,Otten,AD,2,34,143,40,28,36,6,6,0,0,0,4,0,0,0, Half Time,news,Running with Trengove... %P with %4
+291748,Brodie,Smith,AD,2,31,128,40,24,33,5,3,2,1,0,0,0,0,0, Half Time,news,%O and %M
+280281,Brodie,Martin,AD,2,28,62,34,24,33,4,5,2,0,0,0,0,0,0, Half Time,news,%P and %M
+210056,Graham,Johncock,AD,2,25,11,34,16,24,5,1,0,2,0,0,0,0,0, Half Time,news,Starting well as he often does... %D
+280804,Phil,Davis,AD,2,25,86,30,22,30,3,5,2,0,0,0,0,0,0, Half Time,job,Following Watts... %D and %M
+230216,Richard,Tambling,AD,1,24,23,32,19,24,3,1,3,1,0,0,0,0,0, Half Time,news,Working across half back... %O and %M
+250118,Nathan,van Berlo,AD,1,22,54,28,19,27,3,4,1,1,0,1,1,0,0, Half Time,bench,%P... subbed off in Q2
+291351,Jack,Gunston,AD,1,21,93,25,18,25,3,4,1,0,0,0,0,0,1, Half Time,news,%s from %O on Macdonald
+270963,Rory,Sloane,AD,2,18,34,24,14,21,2,3,0,2,0,1,1,0,0, Half Time,news,%B among %D with %T
+270964,Myke,Cook,AD,0,18,73,23,14,18,2,2,1,1,0,1,0,0,0, Half Time,news,%O
+250418,James,Sellar,AD,1,16,21,20,13,18,3,2,1,0,0,0,0,0,0, Half Time,news,%D
+261351,Matthew,Jaensch,AD,1,16,56,20,14,18,2,2,2,0,0,0,0,0,0, Half Time,news,%D and %M
+261857,Ian,Callinan,AD,1,16,29,23,11,18,1,2,0,3,0,0,1,0,0, Half Time,news,%O and %T
+270811,Sam,Jacobs,AD,0,14,34,16,13,17,1,3,1,0,2,0,0,0,0, Half Time,news,%H and %P
+291201,Ricky,Henderson,AD,1,14,36,18,12,15,2,1,2,0,0,0,0,0,0, Half Time,news,%D on McNamara
+280949,Luke,Thompson,AD,0,13,24,15,12,15,1,3,1,0,0,1,0,0,0, Half Time,cougar,Standing Jurrah... %O
+240546,Ivan,Maric,AD,0,11,43,13,11,13,0,3,0,1,1,3,1,0,0, Half Time,news,Limited ruck TOG with some time spent forward... %P
+280934,Daniel,Talia,AD,0,8,39,10,7,9,1,1,1,0,0,0,0,0,0, Half Time,news,%P
+261384,Matthew,Wright,AD,0,6,32,6,6,9,0,3,0,0,0,0,0,0,0, Half Time,news,%D with all by hand
+270170,Tony,Armstrong,AD,0,5,29,7,5,9,2,1,0,0,0,0,1,0,0, Half Time,news,Started as a sub... on in Q2
+220093,Ben,Rutten,AD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and stayed there
+261297,Jack,Grimes,ME,4,46,146,28,36,48,8,3,4,1,0,0,0,0,0, Half Time,hot,Racked it up in defence as usual... %O and %M
+250345,Rohan,Bail,ME,8,43,57,44,29,39,4,1,3,5,0,0,0,0,0, Half Time,news,Started slowly but was hot in Q2... %P and %M with %T
+220052,Mark,Jamar,ME,4,41,131,47,36,45,1,5,3,3,9,1,1,0,0, Half Time,news,%H with %D and %M with %T
+200054,Brad,Green,ME,9,38,87,25,33,42,5,5,2,0,0,1,0,1,0, Half Time,news,%s from %P and %M
+200002,Aaron,Davey,ME,2,36,52,28,25,34,5,2,1,3,0,1,0,0,1, Half Time,news,%O and %T plus %s
+270830,Colin,Garland,ME,3,34,115,19,30,42,6,5,3,0,0,0,1,0,0, Half Time,job,Standing Walker... %M and %P
+270833,Addam,Maric,ME,8,34,88,22,29,36,5,1,1,1,0,1,1,2,0, Half Time,news,%s from %P
+260952,Liam,Jurrah,ME,8,32,105,24,26,32,4,1,2,1,0,0,0,1,2, Half Time,news,Booted %s from %D and %G on Thompson
+280608,Jack,Trengove,ME,2,27,85,26,21,30,2,5,1,2,0,0,0,0,0, Half Time,tagged,Tagged by Otten... %B among %O with %T
+280763,Stefan,Martin,ME,1,26,95,21,24,29,2,6,1,0,2,3,0,0,0, Half Time,news,Given a run in ruck... %H with %P
+294741,Michael,Evans,ME,2,26,31,14,21,27,5,1,3,0,0,0,0,0,0, Half Time,news,%P and %M
+230130,Joel,Macdonald,ME,1,24,95,20,19,24,3,1,3,1,0,0,0,0,0, Half Time,job,Minding Gunston... %P and %M
+280972,Jack,Watts,ME,7,24,74,22,20,24,2,1,2,1,0,0,0,1,0, Half Time,news,Kicked %s on Davis from %G and %P
+230250,Jared,Rivers,ME,2,22,80,20,18,24,2,3,2,1,0,0,0,0,0, Half Time,job,On McKernan... %M and %O
+240037,Colin,Sylvia,ME,2,22,42,16,18,30,4,3,0,3,0,1,3,0,0, Half Time,news,Couldn't find any space in the Crows midfield flood... %P and %T with %F
+250245,Clint,Bartram,ME,2,21,63,19,15,21,2,3,0,2,0,1,0,0,0, Half Time,news,%D and %T
+230151,Brent,Moloney,ME,1,17,34,9,16,24,3,4,1,0,0,0,1,0,0, Half Time,news,Head to head with Dangerfield... %O
+290943,Jamie,Bennell,ME,0,14,35,6,11,15,3,1,1,0,0,0,0,0,0, Half Time,news,%P
+250548,Lynden,Dunn,ME,0,12,20,7,10,12,2,1,1,0,0,1,0,0,0, Half Time,news,%D
+281280,Neville,Jetta,ME,1,11,6,6,10,19,3,1,0,2,0,0,3,0,1, Half Time,news,%s from %P with %F
+270937,James,Strauss,ME,0,10,25,4,8,12,2,2,0,0,0,0,0,0,0, Half Time,news,%O
+250510,Matthew,Bate,ME,0,8,65,8,8,12,0,4,0,0,0,0,0,0,0, Half Time,news,Seemed to be on Petrenko of all people... %P with no kicks among those
+261390,Tom,McNamara,ME,0,0,-11,-3,1,3,1,0,0,0,0,0,1,0,0, Half Time,job,Has Henderson
+280521,Jake,Spencer,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and stayed there
+291313,Jeremy,Howe,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,news,Played but didn't get a stat
+294874,Dan,Nicholson,ME,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and stayed there

@@ -1,0 +1,48 @@
+Port Adelaide,Power,Fremantle,Dockers,R18,6.12.48,11.9.75, Full Time
+Jul 29,2012,1:10,Footy Park,Fox Sports,280013,10341807,430158,0,A shower or two,15,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>hipnsholda</em>: Bugger. Bringing Fyfe in this week was looking genius at half-time. Guess he ran out of legs in the second half?<br><em>rosty63</em>: you need help Antony!!!<br><em>Woodie</em>: Yep<br><em>Antony</em>: Am I the only person who likes the Fremantle song?<br><em>grossn</em>: Barlow missed 12 last week. It got added after the game was over&#044; dont worry.<br><em>feralmong</em>: sutcliffe 34 in a qtr. hmmm.<br><em>hipnsholda</em>: junk up fyfe<br><em>sainter11</em>: atleast 90 pav<br><em>dingo23</em>: barlow missing 12<br><em>J.Bartel</em>: how many missed stats can they have against barlow jesus<br><em>coldog</em>: spurr 65 sc<br><em>Woodie</em>: supperfooty live hq<br>
+210020,Kane,Cornes,PA,26,110,115,135,91,123,15,16,6,2,0,1,0,1,0, Full Time,hot,%P and %T plus %M,,
+210043,Domenic,Cassisi,PA,20,92,108,114,77,105,7,18,5,5,0,3,1,0,0, Full Time,news,%D and %T with %M,tagger,Tagging Hill
+261230,Matthew,Lobbe,PA,23,92,96,114,74,91,6,7,4,6,22,2,0,0,0, Full Time,news,%H and %D plus %T,,
+250365,Travis,Boak,PA,19,86,84,110,65,91,13,9,1,5,0,2,1,1,1, Full Time,creepy,Tagged by Crowley... %O and %T,,
+260750,Justin,Westhoff,PA,16,84,79,104,70,92,10,10,4,3,4,2,1,1,1, Full Time,news,%D and %T on Johnson... also %H,,
+250063,Danyle,Pearce,PA,10,78,87,100,60,84,14,8,4,2,0,0,0,0,0, Full Time,news,%D and %M,sore,Shoulder knock in Q2
+271128,John,McCarthy,PA,13,74,90,94,57,80,9,11,1,5,2,3,1,0,0, Full Time,news,Matched up on Ibbotson... %B among %P with %T,,
+271078,Matthew,Broadbent,PA,13,73,63,95,53,75,10,8,2,5,0,1,0,0,0, Full Time,news,%D and %T with %M,,
+280750,Andrew,Moore,PA,9,68,76,84,56,78,10,12,2,2,0,3,1,0,0, Full Time,news,%P,,
+261911,Brad,Ebert,PA,13,67,67,87,54,76,9,9,3,4,0,2,2,0,1, Full Time,news,%D and %M plus %T... also %s,,
+1230242,Brett,Ebert,PA,12,62,67,78,53,65,7,3,5,2,0,1,1,2,2, Full Time,news,%s from %P and %M on McPhee,,
+260511,Darren,Pfeiffer,PA,8,58,76,72,53,75,7,12,5,1,0,0,2,0,0, Full Time,job,Responsible for Walters... %O and %M,,
+292145,Thomas,Jonas,PA,15,56,73,77,39,57,7,4,2,6,0,0,1,0,0, Full Time,news,%O and %T with %M,job,Big job on Mayne
+240180,Troy,Chaplin,PA,5,53,55,66,44,58,5,8,4,2,1,1,0,0,0, Full Time,news,Loose in defence... %D and %M,,
+291962,Chad,Wingard,PA,7,53,62,64,47,66,8,11,3,0,0,1,1,0,0, Full Time,news,%D and %M,,
+250688,Alipate,Carlile,PA,7,52,62,68,41,57,11,4,3,1,0,1,1,0,0, Full Time,job,Standing Pavlich... %D and %M,,
+240385,Matt,Thomas,PA,4,48,63,61,40,57,4,9,3,3,0,0,1,0,0, Full Time,tagger,Forward role on Duffield... %P and %T with %M,,
+270779,Paul,Stewart,PA,5,48,49,62,39,51,5,5,5,2,0,0,0,0,0, Full Time,pumpkin,%O and %M on Roberton... a far cry from the five goals of last week,concussed,Smashed in a headclash with Spurr in Q2 and looked groggy
+260201,Daniel,Stewart,PA,13,46,48,59,41,49,7,1,6,0,0,1,1,1,1, Full Time,news,%s from %P and %M on McPharlin,,
+280013,Jackson,Trengove,PA,3,40,44,50,33,48,5,7,1,2,2,0,1,0,1, Full Time,job,On Bradley... %P,subbed,Subbed off in Q4 for Young
+230124,Tom,Logan,PA,2,38,46,45,32,45,4,9,1,1,0,1,0,0,0, Full Time,job,Chasing Ballantyne... %P,,
+290546,Aaron,Young,PA,1,22,26,26,19,24,3,4,1,0,0,2,0,0,0, Full Time,news,On in Q4 for Trengove,sub,Started as a sub
+292026,Michael,Barlow,FR,26,109,94,99,90,123,11,13,9,7,1,1,3,0,2, Full Time,hot,%P and %M with %T and %s,,
+280386,Clancee,Pearce,FR,22,107,139,86,89,114,12,10,9,3,0,0,0,2,0, Full Time,star,%s from %P and %M playing a HFF... also %T,,
+210037,Adam,McPhee,FR,20,99,99,66,79,102,16,5,11,2,0,0,0,0,0, Full Time,news,%P and %M plus %T,job,Chasing Brett Ebert
+200045,Luke,McPharlin,FR,20,93,112,60,79,102,16,4,13,1,0,0,2,0,0, Full Time,rock,Standing Daniel Stewart... Plenty of intercepts among %M and %O... also %F,,
+291570,Nathan,Fyfe,FR,20,89,87,29,71,100,22,4,4,1,0,1,3,1,1, Full Time,news,%P and %M plus %s,,
+240139,Paul,Duffield,FR,14,88,113,50,70,93,16,6,8,1,0,0,0,0,0, Full Time,tagged,Thomas playing a forward role on him... %D and %M,,
+200032,Matthew,Pavlich,FR,19,87,108,66,75,93,10,8,7,1,0,1,0,2,3, Full Time,news,%s from %P and %M on Carlile... went missing in Q2,,
+250268,Garrick,Ibbotson,FR,15,87,83,65,71,94,12,8,8,3,1,1,1,0,0, Full Time,news,Matched up on McCarthy... %O and %M,,
+280336,Stephen,Hill,FR,15,85,90,64,65,90,12,8,5,5,0,1,1,0,0, Full Time,tagged,Tagged by Cassisi... %B among %D with %T and %M,,
+240052,David,Mundy,FR,19,76,104,62,61,87,9,10,3,5,0,0,2,1,0, Full Time,news,%O and %T plus %s,,
+230107,Michael,Johnson,FR,14,71,68,44,54,73,13,3,4,4,1,3,2,0,0, Full Time,news,%D and %T,job,Westhoff is his man
+240266,Lee,Spurr,FR,14,69,66,48,52,73,11,5,4,4,0,0,1,0,1, Full Time,news,%D and %M plus %s,,
+250088,Jonathon,Griffin,FR,21,69,84,69,56,69,5,1,3,6,24,1,2,0,0, Full Time,sore,%H with %P and %T with %M... right knee restrapped in Q4,,
+280416,Chris,Mayne,FR,22,68,79,73,54,69,4,4,5,6,0,0,1,2,0, Full Time,news,First goal... %s from %P and %M on Jonas... also %T,,
+280726,Tendai,Mzungu,FR,21,66,74,60,49,67,7,4,3,6,1,0,1,1,0, Full Time,zimbabwe,%O and %T plus %M and %s,,
+280933,Dylan,Roberton,FR,8,58,72,27,46,60,12,3,5,0,0,1,0,0,0, Full Time,job,Responsible for Paul Stewart... %M and %P,,
+271015,Matthew,de Boer,FR,13,56,61,46,47,67,7,8,3,4,0,2,3,0,1, Full Time,news,%P and %M with %T,,
+230011,Kepler,Bradley,FR,8,50,61,32,45,61,7,8,3,0,7,0,1,0,0, Full Time,news,%P and %M on Trengove... also %H,,
+281007,Michael,Walters,FR,14,46,64,44,34,42,4,2,2,4,0,2,0,1,0, Full Time,news,%s from %D on Pfeiffer... also %T,subbed,Subbed off in Q4 for Sutcliffe
+260069,Hayden,Ballantyne,FR,4,44,36,28,34,49,8,3,2,3,0,1,2,0,1, Full Time,news,%s from %O and %M on Logan,,
+290733,Cameron,Sutcliffe,FR,9,36,27,30,28,36,4,2,2,2,0,0,0,1,0, Full Time,news,On in Q4 for Walters,sub,Started as a sub
+230048,Ryan,Crowley,FR,2,28,36,29,24,36,2,6,1,3,0,1,2,0,0, Full Time,tagger,Tagging Boak... %P and %T,,

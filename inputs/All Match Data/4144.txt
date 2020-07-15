@@ -1,0 +1,48 @@
+Fremantle,Dockers,Western Sydney,Giants,R17,18.24.132,5.7.37, Full Time
+Jul 22,2012,4:40,Subiaco,Fox Sports,280726,10341709,430151,0,Late shower possible,21,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>JDolling69</em>: Pearce&#044; you have been such good bench cover!! brought you in for martin and got 90&#044; 100&#044; now covering franklin<br><em>Bomb3rs</em>: 2171 with a crap captain<br><em>Bomb3rs</em>: Pearce you absolute champion  you won me the game!<br><em>Refused</em>: lol giles left my team around round 9 ish<br><em style='color:#ff028d;margin-bottom:-2px'><b class="ticon tAD"></b> hoky_90</em>: treloar covering franklin. would of played adams over treloar to had he played<br><em style='color:#ff028d;margin-bottom:-2px'><b class="ticon tAD"></b> Grazz</em>: How long left for god sake someone anyone<br><em style='color:#ff028d;margin-bottom:-2px'><b class="ticon tGC"></b> R.Griff</em>: 2341 DT everyone else<br><em style='color:#ff028d;margin-bottom:-2px'><b class="ticon tWC"></b> hipnsholda</em>: flower you giles. dead to me<br><em style='color:#ff028d'>eski_liddr</em>: i cannot believe ppl still hav giles as a ruck<br><em style='color:#ff028d'>chadwick</em>: People still have Giles?<br><em style='color:#ff028d'>colche</em>: GILES...drops a sitter then throws for a FA<br><em style='color:#ff028d;margin-bottom:-2px'><b class="ticon tAD"></b> gards</em>: ffs Giles your a cow!<br>
+200032,Matthew,Pavlich,FR,43,120,160,148,103,123,15,1,7,3,0,1,2,7,3, Full Time,star,First goal... %s from %P and %M on Davis including four goals in Q1... also %T,,
+200045,Luke,McPharlin,FR,31,115,127,153,95,120,20,3,16,1,0,0,1,0,0, Full Time,hot,%M and %O,job,Running off Giles
+280386,Clancee,Pearce,FR,26,112,125,142,97,122,17,7,11,1,1,2,2,2,1, Full Time,hot,%s from %D and %M playing forward,,
+292026,Michael,Barlow,FR,21,103,101,132,78,104,13,10,4,6,3,3,0,0,2, Full Time,hot,%D and %M plus %s... also %H and %T,,
+230107,Michael,Johnson,FR,25,101,101,131,84,102,17,3,11,1,0,4,1,1,0, Full Time,hot,%M and %D,job,Frost is his man
+240139,Paul,Duffield,FR,18,87,85,116,69,87,16,1,11,1,0,0,0,0,0, Full Time,news,%O and %M,,
+280726,Tendai,Mzungu,FR,20,84,97,109,64,85,8,8,5,6,1,1,0,0,3, Full Time,news,%2 Treloar... %P and %M with %T and %s,,
+230011,Kepler,Bradley,FR,16,83,98,101,70,91,9,11,5,2,0,1,0,1,4, Full Time,news,%s from %D and %M,,
+250088,Jonathon,Griffin,FR,15,81,109,95,74,94,9,11,5,0,19,1,1,0,0, Full Time,sore,%H and %P with %M... corked left thigh in Q3,,
+250268,Garrick,Ibbotson,FR,14,80,92,106,64,84,14,4,8,2,0,1,1,0,0, Full Time,news,%D and %M,,
+280336,Stephen,Hill,FR,15,79,119,98,63,87,14,8,1,2,0,1,1,2,0, Full Time,news,%2 Greene... %D and %T plus %s,,
+281007,Michael,Walters,FR,11,66,68,82,54,64,10,2,4,1,0,3,0,2,1, Full Time,news,%s from %O and %M on Power,,
+230048,Ryan,Crowley,FR,14,63,92,76,57,77,10,10,3,0,0,2,2,1,2, Full Time,news,%P and %M plus %s,skull,Tagging Scully
+240266,Lee,Spurr,FR,12,61,73,77,56,75,7,10,7,1,0,1,2,0,0, Full Time,sore,%O and %M... also %F... cut above left eyebrow in Q4 drew plenty of claret,,
+290251,Zachary,Clarke,FR,12,61,87,77,54,65,7,2,5,2,10,2,2,1,1, Full Time,sore,%P and %M on Bruce... also %H... hip soreness in Q3,,
+210037,Adam,McPhee,FR,8,59,81,76,48,66,13,5,4,0,0,1,1,0,0, Full Time,job,Has Wilson... %P and %M,,
+240052,David,Mundy,FR,4,57,66,74,44,58,11,3,4,1,0,1,0,0,1, Full Time,news,%P and %M plus %s,subbed,Subbed off in Q3 for Sutcliffe
+271015,Matthew,de Boer,FR,15,55,74,75,43,66,4,9,2,7,0,0,3,0,0, Full Time,news,%O and %T with %M,,
+280933,Dylan,Roberton,FR,5,53,58,70,42,57,9,4,4,2,0,1,1,0,0, Full Time,job,In defence on Haynes... %D,,
+260069,Hayden,Ballantyne,FR,8,45,46,55,39,51,8,5,0,1,0,4,2,1,3, Full Time,bugg,%s from %D on Bugg... also %F,,
+270908,Nick,Suban,FR,8,41,41,55,30,45,5,5,1,4,0,0,1,0,0, Full Time,news,Playing forward on Hampton... %D and %T,,
+290733,Cameron,Sutcliffe,FR,2,35,48,44,27,37,6,4,1,1,0,1,0,0,1, Full Time,news,On in Q3 for Mundy,sub,Started as a sub
+29,Adam,Treloar,WS,31,106,88,81,91,120,13,13,10,2,0,0,1,1,0, Full Time,hot,%2 Mzungu... %P and %M,,
+291802,Tomas,Bugg,WS,25,102,90,80,91,123,13,14,11,3,0,2,4,0,0, Full Time,hot,%P and %M with %T,job,Minding Ballantyne
+980011,Luke,Power,WS,25,96,103,57,85,111,17,8,12,0,0,2,3,0,0, Full Time,news,%P and %M... also %F,job,Minding Walters
+290671,Anthony,Miles,WS,19,94,93,59,77,105,15,12,6,2,0,2,1,0,0, Full Time,bubble,Second game... %P and %M with %T,,
+280109,Callan,Ward,WS,15,89,97,70,68,91,11,9,4,5,3,2,0,0,1, Full Time,news,%P and %s... also %H,,
+261231,Rhys,Palmer,WS,15,88,78,61,73,97,13,9,8,2,0,1,1,0,1, Full Time,news,%P and %T with %M,,
+295344,Toby,Greene,WS,14,80,89,51,70,102,12,17,3,2,0,2,3,0,0, Full Time,news,%2 Hill... %O and %M... also %F,,
+291492,Josh,Bruce,WS,19,78,88,59,66,82,10,5,9,1,0,0,0,1,1, Full Time,sore,Second game... %D and %M... lower back soreness in Q2,job,On Clarke
+30,Mark,Whiley,WS,13,65,46,46,55,75,10,6,7,2,0,0,2,0,0, Full Time,news,%P and %M,,
+290306,Curtly,Hampton,WS,9,63,69,41,51,72,10,8,4,2,0,0,1,0,0, Full Time,job,Suban is his man... %O and %M,,
+280804,Phil,Davis,WS,5,58,56,40,47,63,9,5,5,2,0,1,1,0,0, Full Time,job,Has Pavlich... %P,,
+291720,Will,Hoskin-Elliott,WS,10,58,72,39,50,63,8,6,5,0,0,1,0,1,0, Full Time,news,%O and %M,,
+12,Sam,Frost,WS,15,57,72,50,45,58,6,4,3,4,1,2,1,1,0, Full Time,rookie,First game... %P on Johnson,,
+280969,Tom,Scully,WS,14,55,45,55,40,60,5,7,1,7,0,1,2,0,0, Full Time,creepy,Tagged by Crowley... %D and %T... also %F,,
+260290,Stephen,Clifton,WS,10,52,46,49,45,66,5,9,4,4,0,0,3,0,0, Full Time,bubble,Second game... %P and %T... also %F,,
+294917,Israel,Folau,WS,6,48,62,42,42,53,4,6,2,2,11,2,1,0,0, Full Time,tonga,Starting in ruck... %H and %D with %M,,
+291928,Gerald,Ugle,WS,9,38,23,35,30,39,4,1,3,3,0,0,1,1,0, Full Time,rookie,First game... donuts in Q1... %s from %D,,
+261841,Jonathan,Giles,WS,4,36,51,17,33,44,7,3,0,1,10,3,3,0,1, Full Time,news,%s from %D starting at FF on McPharlin... also %H,,
+7,Nick,Haynes,WS,3,36,34,24,30,39,6,2,4,1,0,1,1,0,0, Full Time,news,Did not touch it in Q1... %P on Roberton,,
+290687,Kurt,Aylett,WS,3,27,14,18,22,30,5,1,2,2,0,2,2,0,0, Full Time,news,%O and %M,subbed,Subbed off in Q3 for Townsend
+291891,Jacob,Townsend,WS,2,25,9,24,21,27,2,3,3,1,0,0,0,0,0, Full Time,news,On in Q3 for Aylett,sub,Started as a sub
+294125,Nathan,Wilson,WS,2,23,26,18,18,24,3,2,2,1,0,0,0,0,0, Full Time,news,%P on McPhee,,

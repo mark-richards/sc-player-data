@@ -1,0 +1,48 @@
+Carlton,Blues,Richmond,Tigers,R20,23.18.156,10.7.67, Full Time
+Aug 14,2010,2:10,MCG,Ten,230202,10282002,5015486,5222,Windy with showers,15
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>nathgb.79</em>: Brown out traded him 4 waite new he woodnt play<br><em>Lady4Hire</em>: bad luck duff..hopefully next week he will blitz 4 u<br><em>TheoX</em>: sucked in dufftime<br><em title="JB0016">jb0016</em>: had judd&#044; murphy and warnock!!!<br><em>Gibblet</em>: JUddy VC in SC ;( sh!t<br><em>TeamOz</em>: Gibbs a lazy 93 sc points<br><em>TheoX</em>: Warnock u SC star!<br><em>hoddo</em>: 122 Judd (Capt)&#044; 102 Scotland&#044; 81 Warnock - very happy with that<br><em>cptFantasy</em>: for someone who flirts with thuggery&#044; Waite's ok by me<br><em>hawk2010</em>: star 4 waite monty<br><em>itsduftime</em>: betts to didak. cost 170k. gain 2 points<br><em>Pointer</em>: Well done BIG ROBBY flower you Rated_RKO<br>
+220056,Chris,Judd,CA,37,122,145,155,90,126,14,16,1,9,0,3,0,1,0, Full Time,star,Tagged by Morton... %D and %T plus %s
+220110,Jarrad,Waite,CA,27,109,109,134,95,116,12,7,9,2,0,1,1,4,2, Full Time,hot,%s from %D and %G on Gourdis
+270326,Lachie,Henderson,CA,31,107,110,134,92,110,11,6,10,3,0,3,1,3,2, Full Time,hot,Booted %s from %P and %G on Moore
+270653,Jeff,Garlett,CA,26,102,132,124,86,104,10,7,6,3,0,2,0,4,2, Full Time,x-factor,%s from %O and %M on O'Reilly
+990059,Heath,Scotland,CA,21,102,124,125,81,112,17,12,2,2,0,0,0,2,1, Full Time,hot,Running with Cousins on a wing... %P and %M plus %s
+250105,Marc,Murphy,CA,21,95,131,112,81,106,8,17,3,3,0,3,0,2,1, Full Time,tagged,Tagged by Jackson... %P and %M with %s
+240060,Eddie,Betts,CA,26,90,89,114,69,89,9,7,3,6,0,2,0,2,2, Full Time,garbage,%s from %P and %M with %T... most of his scoring in Q4 junk time
+220015,Andrew,Carrazzo,CA,15,83,87,106,66,94,11,12,4,4,0,0,1,0,1, Full Time,tagger,Tagging Deledio... %O and %T
+250672,Robert,Warnock,CA,20,81,105,96,69,84,8,7,3,2,18,2,0,1,0, Full Time,news,%H and %P with %T and %s
+230202,Kade,Simpson,CA,14,80,78,96,69,94,11,15,5,0,1,1,0,0,0, Full Time,news,Head to head with Edwards... %B among %P
+210022,Richard,Hadley,CA,24,75,95,98,57,82,8,9,1,7,0,1,2,1,1, Full Time,injured,%D and %T plus %s... corked right hip in Q4 and mothballed
+250298,Shaun,Grigg,CA,19,72,73,89,58,83,8,12,1,4,1,0,1,1,1, Full Time,news,%P and %s
+250090,Jordan,Russell,CA,18,71,87,88,54,75,9,10,0,4,0,2,0,1,0, Full Time,news,Loose in defence early... %O
+250417,Bryce,Gibbs,CA,13,71,93,90,64,90,11,12,6,1,0,1,3,0,0, Full Time,news,%P and %M
+290311,Mitch,Robinson,CA,14,66,47,86,53,70,11,4,3,3,0,3,2,1,1, Full Time,tagger,Forward tag on Newman... %O and %M
+250211,Paul,Bower,CA,13,61,76,75,55,75,4,13,6,2,0,0,1,0,0, Full Time,job,Standing the resting ruckman which was mostly Graham... %D
+270737,Shaun,Hampson,CA,10,53,53,64,47,55,4,2,3,2,21,1,1,0,1, Full Time,injured,%H with %D and %M... right ankle knock late in Q4 and did not reappear
+261258,David,Ellard,CA,9,47,41,64,39,57,6,6,3,4,0,1,3,0,0, Full Time,tagger,Tagging Tuck... %D
+260533,Dennis,Armfield,CA,6,44,73,50,39,57,5,13,1,0,0,0,0,0,0, Full Time,crown,Minding King... %P
+261043,Michael,Jamison,CA,4,44,58,56,35,48,5,6,3,2,0,0,0,0,0, Full Time,job,Standing Riewoldt
+281049,Marcus,Davies,CA,3,38,51,48,32,43,6,5,2,1,0,2,1,0,1, Full Time,bubble,Second game... %D
+261318,Aaron,Joseph,CA,2,30,76,36,27,39,5,7,1,0,0,1,1,0,0, Full Time,injured,%D including %b by hand... right ankle injury in Q3 and shut down
+260105,Daniel,Connors,RI,25,114,64,82,89,120,17,9,9,5,0,1,1,0,0, Full Time,hot,%O and %M with %T
+240412,Mitch,Morton,RI,20,104,94,74,79,109,15,11,5,5,0,1,0,0,1, Full Time,hot,Tagging Judd... %P and %T plus %s
+200109,Shane,Tuck,RI,26,98,115,90,79,114,9,17,5,7,0,0,2,0,0, Full Time,tagged,Tagged by Ellard... %B among %P with %M and %T
+960662,Ben,Cousins,RI,20,88,111,57,76,100,12,14,5,0,0,2,0,1,1, Full Time,heart,Scotland running with him on a wing... %D and %M plus %s... badly corked calf in Q2
+290847,Dustin,Martin,RI,20,81,68,59,65,89,12,6,4,5,1,2,3,1,1, Full Time,news,%P and %T
+261910,Ben,Nason,RI,19,74,54,51,61,78,11,5,6,2,0,2,1,1,0, Full Time,news,%O and %M
+240336,Brett,Deledio,RI,10,70,90,51,59,81,9,12,4,2,0,2,1,0,0, Full Time,sore,Tagged by Carrazzo... %O and %M... corked left thigh in Q4
+230279,Kelvin,Moore,RI,13,67,71,50,56,72,9,6,8,1,0,0,0,0,0, Full Time,job,Standing Henderson... %M and %P
+261260,David,Gourdis,RI,13,67,84,57,60,78,7,9,9,1,0,0,1,0,0, Full Time,rookie,First game... standing Waite... %O and %M
+260930,Shane,Edwards,RI,10,65,74,40,58,84,11,11,4,2,0,2,4,0,0, Full Time,news,Head to head with Simpson... %D and %M
+290198,David,Astbury,RI,9,65,73,47,52,69,9,7,5,2,0,1,0,0,0, Full Time,news,%D and %M
+270315,Jayden,Post,RI,14,61,59,52,55,70,6,7,7,1,1,0,1,1,0, Full Time,news,%P
+260146,Angus,Graham,RI,16,55,45,51,51,65,4,4,2,3,20,0,3,1,0, Full Time,news,%H and %P with %T
+210048,Chris,Newman,RI,4,53,65,38,39,54,8,4,3,3,0,0,0,0,0, Full Time,tagged,Forward tag on him by Robinson... %P
+240707,Daniel,Jackson,RI,18,52,77,39,43,66,7,9,0,4,0,0,3,1,0, Full Time,tagger,First goal... tagging Murphy... %P and %s
+250395,Jack,Riewoldt,RI,11,48,40,46,40,49,4,1,4,3,0,0,1,2,1, Full Time,garbage,Not only was Jamison on him but two or three loose Blues filled the space in front of him in the first half... %s from %P and %G with almost all of it in the second half
+260104,Andrew,Collins,RI,15,48,55,43,39,54,5,5,2,4,0,1,2,1,0, Full Time,news,%P and %M with %T
+271437,Jake,King,RI,10,38,59,29,35,51,5,6,2,2,0,0,3,1,0, Full Time,sore,Small forward again but this time it's Armfield on him... %s from %D... left ankle knock in Q2
+292510,James,O'Reilly,RI,4,37,24,24,37,48,6,5,5,0,0,3,3,0,0, Full Time,rookie,First game... minding Garlett... %D and %M plus %F
+270954,Andrew,Browne,RI,1,19,24,22,17,20,0,3,1,1,5,1,0,0,0, Full Time,news,%H
+290046,Robbie,Hicks,RI,0,16,23,16,13,18,1,3,1,1,0,0,0,0,0, Full Time,news,%O
+240389,Matt,White,RI,0,4,5,6,2,3,0,0,0,1,0,0,0,0,0, Full Time,injured,Corked hip early in Q1 and couldn't run the game out

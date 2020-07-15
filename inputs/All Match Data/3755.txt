@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Melbourne,Demons,R8,19.10.124,12.11.83, Full Time
+May 14,2011,2:10,Docklands,Ten,210039,10310802,5516,56,Roof closed,15
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Jumbos</em>: Melbourne have started tanking again&#044; they need more draft picks!<br><em title="SUPER DUPE">super dupe</em>: NOOO put Martin as emergency and Petrie<br><em>bert1</em>: jamar should be out for 3 to 4 weeks at most<br><em>skevies7</em>: i traded out wells last week for curnow&#044; GR!<br><em>demon_spud</em>: how long is jamar out for?<br><em>TheSalt</em>: yeah harvey vs j.watts SC is crapola<br><em>mrpotato</em>: haha thank goodness gibbs had the bye this week&#044; i played s. martin and he racks up 124<br><em>Constant</em>: adams heart please monty<br><em>TheSalt</em>: haha cool<br><em>Impromptu</em>: seriously Petrie if u score 100+ when u on my bench..hm<br><em>C-Dogg</em>: watts the flower s/c<br><em>nathan11</em>: tappy and petrie going to cost me 2 games this week :(<br>
+230232,Daniel,Wells,NM,43,150,175,191,117,147,21,8,8,6,0,5,0,3,0, Full Time,star,One of his better games for NMFC... %O and %M with %T and %s,,
+271129,Todd,Goldstein,NM,39,136,158,162,122,147,14,12,6,3,30,7,3,2,0, Full Time,gun,No recognised ruckman on the other side... %H and %D plus %s... also %4 frees for,sore,Left knee knock in Q4
+230240,Aaron,Edwards,NM,48,130,122,162,108,129,12,4,10,5,0,0,0,6,0, Full Time,x-factor,%s from %P and %M... also %T,,
+250285,Leigh,Adams,NM,36,123,109,157,96,129,15,13,7,6,0,1,0,1,0, Full Time,hot,%2 Davey... %P and %M with %T plus %s,,
+960491,Brent,Harvey,NM,25,103,95,126,86,109,15,8,6,1,0,1,0,3,1, Full Time,garbage,Tagged by Bartram... %D and %M plus %s... racked it up in Q4 junk time,,
+280944,Jack,Ziebell,NM,26,93,94,124,69,97,10,9,5,8,0,0,1,0,1, Full Time,tagger,Tagging Moloney... %P and %T plus %M and %s,subbed,Subbed off in Q4 for Speight
+240417,Andrew,Swallow,NM,14,86,88,109,67,94,11,13,2,5,0,3,1,0,1, Full Time,news,%D and %T with %M,,
+271300,Cruize,Garlett,NM,19,78,79,101,60,84,6,12,3,7,0,2,1,0,0, Full Time,news,%P and %T with %M,in,Late replacement for Ben Cunnington (ill)
+240131,Nathan,Grima,NM,14,77,89,98,66,87,11,9,8,1,0,1,1,0,0, Full Time,cougar,On Jurrah... %P and %M,,
+250135,Scott,McMahon,NM,9,69,56,93,53,75,14,4,4,3,0,1,2,0,0, Full Time,job,Has Maric... %O and %T with %M,,
+250373,Lachlan,Hansen,NM,19,65,85,80,60,76,9,6,6,0,0,1,2,2,1, Full Time,news,%s from %P and %M on Frawley,,
+210039,Daniel,Pratt,NM,9,64,74,85,51,72,13,5,4,2,0,1,2,0,0, Full Time,job,Petterd is his man... %O and %T,mrp,Caught Newton in the face with a reckless spoil in Q1 which will be scrutinised
+990055,Brady,Rawlings,NM,9,62,63,76,52,72,10,10,4,0,0,0,0,0,0, Full Time,job,Minding Wonaeamirri... %O with %b by hand... also %M,,
+210023,Drew,Petrie,NM,6,60,50,75,47,59,7,3,2,3,13,1,0,0,1, Full Time,garbage,Warnock on him... %H and %P with %M and %s... thrown into the ruck in Q4 junk time after Goldstein's late knock,,
+290547,Kieran,Harper,NM,14,54,53,72,38,51,6,2,2,5,0,0,0,1,0, Full Time,cash,%s from %O and %T with %M,,
+230272,Michael,Firrito,NM,8,52,75,64,45,63,5,11,3,2,0,1,1,0,0, Full Time,job,Standing Newton... %D and %M with %T,,
+281395,Scott D.,Thompson,NM,8,51,80,63,43,58,6,9,2,2,0,3,1,0,1, Full Time,news,Loose in defence... %P,,
+261909,Lindsay,Thomas,NM,8,43,39,61,29,40,6,0,2,5,0,1,1,0,1, Full Time,news,%s from %D and %T on Dunn,,
+290194,Jamie,MacMillan,NM,3,41,41,53,33,48,8,5,2,1,0,0,1,0,0, Full Time,job,Chasing Jetta... %D and %M,,
+290787,Shaun,Atley,NM,3,33,26,43,29,39,4,4,4,1,0,0,1,0,0, Full Time,cash,%O and %M,,
+280864,Sam,Wright,NM,3,32,43,41,28,42,2,8,1,3,0,1,2,0,0, Full Time,news,No touches in Q1... %O and %T,,
+280300,Ben,Speight,NM,7,30,19,36,25,33,3,4,1,1,0,0,0,1,0, Full Time,news,On in Q4 for Ziebell,sub,Started as a sub
+280763,Stefan,Martin,ME,26,108,125,77,90,117,16,4,7,5,21,2,4,0,0, Full Time,hot,#1 ruck today in the absence of any recognised ruckmen... %P and %H with %M and %T... also %F,sore,Right knee knock in Q3
+240355,Michael,Newton,ME,22,99,106,74,86,105,13,4,8,3,7,4,3,2,2, Full Time,hot,First goal... forward on Firrito and started like a rocket in Q1... %s from %P and %G.... also %T,,
+200002,Aaron,Davey,ME,19,97,109,54,70,96,19,3,6,4,0,0,0,0,0, Full Time,news,%2 Adams... %O and %T with %M,,
+240037,Colin,Sylvia,ME,31,96,114,88,76,104,10,9,6,8,5,2,3,0,0, Full Time,sore,%P and %M with %T... also %H as third man up in ruck... split above the eye in Q1,,
+250222,Nathan,Jones,ME,15,89,95,58,72,100,13,14,4,2,0,1,0,0,1, Full Time,news,%D with %b by hand and %s... also %M and %T,sore,Left ankle knock in Q1
+281280,Neville,Jetta,ME,43,87,70,102,63,90,4,11,3,12,0,2,2,0,0, Full Time,news,%D and %M with %T on Macmillan,,
+260288,James,Frawley,ME,13,84,98,58,65,87,13,6,7,3,0,0,0,0,0, Full Time,news,%D and %M with %T,job,Following Hansen
+280972,Jack,Watts,ME,16,77,105,56,65,87,10,10,5,2,0,1,1,1,0, Full Time,news,Booted %s from %P and %M with %T,,
+250360,Ricky,Petterd,ME,12,74,65,58,61,76,9,4,5,3,0,2,1,2,1, Full Time,news,Kicked %s from %P on Pratt... also %M and %T,,
+280748,Jordan,Gysberts,ME,14,74,85,61,62,91,8,15,3,4,1,0,2,0,0, Full Time,news,%D and %M with %T,,
+270833,Addam,Maric,ME,16,72,65,48,60,73,10,3,4,1,0,1,0,3,1, Full Time,garbage,%s from %D and %M on McMahon... most of his scoring in Q4 garbage time,,
+200054,Brad,Green,ME,9,63,52,31,53,73,12,8,4,0,0,1,1,0,1, Full Time,news,Coming off a wing again... %O and %M plus %s,,
+250245,Clint,Bartram,ME,11,63,61,49,51,69,8,6,4,3,0,0,1,1,0, Full Time,tagger,Tagging Harvey... %O and %T with %M and %s,,
+250388,Austin,Wonaeamirri,ME,10,62,54,58,46,62,6,5,4,5,0,0,0,0,2, Full Time,news,%s from %O with %T and %M on Rawlings,,
+260952,Liam,Jurrah,ME,15,55,78,36,49,61,8,2,3,1,0,1,2,3,1, Full Time,sore,Booted %s from %P and %G on Grima... left knee problem in Q3,,
+230151,Brent,Moloney,ME,13,54,83,46,44,66,6,10,2,4,0,0,2,0,0, Full Time,tagged,Tagged by Ziebell... %P and %T with %M,,
+250716,Matthew,Warnock,ME,8,51,63,37,41,52,8,1,6,2,1,1,1,0,0, Full Time,job,Standing Petrie... %M and %O,,
+290943,Jamie,Bennell,ME,8,40,36,41,29,39,3,4,2,4,0,1,0,0,0, Full Time,news,On in Q3 for Garland... %D,sub,Started as a sub
+250548,Lynden,Dunn,ME,4,36,19,29,31,43,5,3,4,2,1,0,2,0,0, Full Time,job,In defence on Thomas... %D and %F,reported,Reported for rough conduct in a sliding bump on Pratt early in Q1
+280579,Luke,Tapscott,ME,3,36,41,9,32,48,10,3,3,0,0,0,3,0,0, Full Time,cash,Loose in defence early... %P and %M with %F,,
+250345,Rohan,Bail,ME,7,26,33,25,19,30,3,3,0,4,0,1,2,0,0, Full Time,longterminjured,%O and %T... left knee buckled with no one near him in Q3 which suggests a PCL,,
+270830,Colin,Garland,ME,1,21,32,16,16,21,3,1,2,1,0,0,0,0,0, Full Time,injured,Left ankle knock early in Q1... back after 15 minutes... %O and %M... eventually shut down in Q3,subbed,Subbed off in Q3 for Bennell

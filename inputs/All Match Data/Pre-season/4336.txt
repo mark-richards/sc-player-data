@@ -1,0 +1,52 @@
+Sydney,Swans,Gold Coast,Suns,W3,11.14.80,6.8.44, Full Time
+Mar 09,2013,7.00,Blacktown,None,,10380309,,0,Possible morning shower,27,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>Grazz</em>: Yes mate <br><em>maluckyday</em>: carlton vs brisbane grand final nab cup in Melbourne next week&#044; yes  or no<br><em>colmullet</em>: what is ging on with Jesse White?? he seriously putting his hand up now since Tippet has arrived??<br><em>TheLegend6</em>: @Sammy no exactly sure but looked like knee/ankle<br><em>sammyo7</em>: what happened to johnson?<br><em>SydneyRox</em>: lovin it boys. keep it up<br><em>J Dog</em>: and its been fixed<br><em>J Dog</em>: malceski doing well considering he came on in q3 <br><em>waggsy10</em>: wow what a first quarter from o'meara!<br><em>dtchamp</em>: omeara?!?!<br><em>Fernyys</em>: hi<br><em>SydneyRox</em>: lets go boys. want to see some determination and less skill errors.<br>
+230253,Jarrad,McVeigh,SY,31,131,143,168,106,148,19,16,8,5,0,0,2,0,4, Full Time,,,,
+260382,Josh,Kennedy,SY,26,106,121,133,86,118,16,12,3,4,0,2,2,2,1, Full Time,hot,First goal,,
+270170,Tony,Armstrong,SY,14,89,83,116,68,93,17,6,6,2,0,0,0,0,0, Full Time,,,,
+250212,Jesse,White,SY,15,87,96,112,70,88,13,4,8,2,7,1,0,0,0, Full Time,,,,
+230132,Nick,Malceski,SY,15,84,89,102,69,91,13,9,3,1,0,1,0,2,1, Full Time,news,On in Q2 for Bird,sub,Started as a sub
+240072,Heath,Grundy,SY,14,84,88,107,71,96,13,10,8,1,0,0,1,0,0, Full Time,,,,
+290778,Luke,Parker,SY,20,82,89,102,64,83,10,7,2,4,0,2,0,2,2, Full Time,,,,
+281281,Lewis,Jetta,SY,13,81,89,99,69,92,12,12,6,0,0,1,0,0,2, Full Time,,,,
+240226,Kieren,Jack,SY,16,80,78,104,61,79,9,5,5,5,0,1,0,1,1, Full Time,,,,
+990011,Jude,Bolton,SY,16,79,93,98,66,91,11,11,4,2,0,0,1,1,1, Full Time,,,,
+200071,Ryan,O'Keefe,SY,18,77,67,102,60,81,11,6,6,4,0,1,1,0,0, Full Time,,,,
+220089,Lewis,Roberts-Thomson,SY,14,73,57,96,60,78,9,6,8,3,0,1,1,0,0, Full Time,,,,
+290117,Daniel,Hannebery,SY,9,73,95,91,61,87,12,12,4,1,0,0,1,0,0, Full Time,news,On in Q1 for Johnson,sub,Started as a sub
+200023,Rhyce,Shaw,SY,9,69,64,91,53,75,16,4,4,1,0,0,1,0,0, Full Time,,,,
+230140,Ben,McGlynn,SY,11,62,60,81,52,69,10,4,5,2,0,1,2,1,0, Full Time,,,,
+291206,Mike,Pyke,SY,20,62,76,67,60,67,2,5,3,0,37,0,0,0,0, Full Time,,,,
+261257,Andrejs,Everitt,SY,9,61,63,78,48,66,9,7,4,2,0,0,0,0,0, Full Time,,,,
+210027,Ted,Richards,SY,4,48,69,61,41,54,7,6,4,1,0,2,1,0,0, Full Time,,,,
+290307,Dane,Rampe,SY,4,48,49,62,38,51,8,4,4,1,0,0,0,0,0, Full Time,,,,
+980073,Adam,Goodes,SY,11,48,43,62,43,54,5,2,5,2,0,0,2,2,0, Full Time,,,subbed,Subbed off in Q3 for Mumford
+290188,Sam,Reid,SY,3,31,38,39,27,39,2,7,2,2,0,0,1,0,0, Full Time,,,,
+291450,Alex,Johnson,SY,3,29,31,38,24,30,5,1,4,0,0,0,0,0,0, Full Time,injured,Stretchered off in Q1... %P and %M,subbed,Subbed off in Q1 for Hannebery
+261212,Craig,Bird,SY,0,11,8,14,8,12,3,1,0,0,0,0,0,0,0, Full Time,,,subbed,Subbed off in Q2 for Malceski
+280762,Shane,Mumford,SY,0,7,17,7,7,10,0,3,0,0,1,0,0,0,0, Full Time,news,On in Q3 for Goodes,sub,Started as a sub
+294613,Jaeger,O'Meara,GC,15,89,81,59,69,98,14,10,4,4,1,0,1,0,1, Full Time,,,,
+291594,Harley,Bennell,GC,15,86,98,39,69,93,17,7,2,1,0,2,1,2,0, Full Time,,,,
+261756,Greg,Broughton,GC,8,61,74,41,54,75,9,10,5,1,0,1,2,0,0, Full Time,,,,
+281075,Rory,Thompson,GC,5,61,72,43,48,63,9,5,5,2,0,1,0,0,0, Full Time,,,,
+230015,Jared,Brennan,GC,13,57,75,25,41,58,12,3,0,2,1,0,0,1,0, Full Time,,,,
+240712,Michael,Rischitelli,GC,8,55,47,30,47,63,10,6,5,0,0,1,1,0,0, Full Time,,,,
+250146,Thomas,Murphy,GC,7,55,56,33,46,63,9,8,3,1,0,2,1,0,0, Full Time,,,,
+290832,David,Swallow,GC,7,52,66,26,40,58,10,7,0,2,0,2,1,0,1, Full Time,,,,
+291753,Sam,Day,GC,10,51,51,43,47,61,6,4,6,2,7,1,3,0,0, Full Time,,,,
+281085,Steven,May,GC,9,50,43,43,38,54,6,5,3,4,0,0,1,0,0, Full Time,,,,
+281279,Kyal,Horsley,GC,2,45,27,24,35,49,8,6,1,1,0,1,0,0,1, Full Time,news,On in Q3 for Prestia,sub,Started as a sub
+290817,Brandon,Matera,GC,8,43,38,18,32,45,9,3,0,1,0,0,0,1,0, Full Time,,,,
+294583,Jesse,Lonergan,GC,4,42,30,21,31,42,9,1,2,2,0,2,1,0,0, Full Time,,,,
+290703,Joel,Wilkinson,GC,3,39,55,25,31,42,6,5,2,1,0,1,0,0,0, Full Time,,,,
+291304,Daniel,Gorringe,GC,2,36,45,27,30,38,4,4,1,1,7,1,0,0,1, Full Time,,,,
+296735,Aaron,Hall,GC,7,34,46,37,24,33,2,4,1,4,0,1,0,0,0, Full Time,,,,
+220013,Campbell,Brown,GC,9,31,24,24,28,33,3,2,2,0,0,0,0,2,0, Full Time,,,subbed,Subbed off in Q3 for Weller
+250716,Matthew,Warnock,GC,3,31,40,20,26,33,5,2,4,0,0,0,0,0,0, Full Time,,,,
+250249,Danny,Stanley,GC,2,29,42,18,22,30,5,2,2,1,0,0,0,0,0, Full Time,,,,
+301,Jack,Martin,GC,1,28,-,16,21,28,5,2,1,1,1,1,0,0,0, Full Time,,,,
+280711,Charlie,Dixon,GC,1,23,23,16,18,23,3,1,0,1,7,0,0,0,1, Full Time,news,On in Q3 for Smith,sub,Started as a sub
+281024,Maverick,Weller,GC,1,23,13,20,19,27,2,5,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Brown,sub,Started as a sub
+290627,Dion,Prestia,GC,1,22,19,14,16,21,4,0,2,1,0,0,0,0,0, Full Time,,,subbed,Subbed off at half time for Horsley
+280722,Zac,Smith,GC,1,15,28,13,14,16,1,1,1,0,7,0,0,0,0, Full Time,,,subbed,Subbed off at half time for Dixon

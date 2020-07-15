@@ -1,0 +1,48 @@
+Essendon,Bombers,Melbourne,Demons,R11,10.8.68,15.11.101, Full Time
+Jun 3,2011,7:40,MCG,Seven,240027,10311101,5542,79,Windy,17,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Abioitoita</em>: Either way, the Blues should make the Prelim :)<br><em>Jumbos</em>: E=mc(2)<br><em>Kickit</em>: Teams after their byes are ALL struggling<br><em>Kickit</em>: Anyone know how to figure out the price change of players, whats the FORMULA?<br><em>Jumbos</em>: how ironic that they are named the bombers haha, Nab cup heros!<br><em>JRealkkk</em>: Stefan Martin deserved more sc points... Robbed<br><em>Kernahan</em>: @Abi I say it's the Blurs this year.<br><em>Kernahan</em>: Who do you reckon Abi?<br><em>JRealkkk</em>: Sir James and the bandwagon jumping bomber fans cop that reality check. From a top 4 fav to losing to tigers and demons<br><em>Kernahan</em>: Lol @ Jumbos. <br><em>Abioitoita</em>: There's usually one surprise to the top 4 per year Sticks, so keep your eyes open<br><em>Spudanator</em>: bombers eating burgers in the box <br>
+280824,Jake,Melksham,ES,31,117,85,153,89,118,20,5,8,4,0,0,0,1,1, Full Time,hot,%P and %M with %T and %s,,
+260073,Ben,Howlett,ES,20,91,89,118,69,96,14,8,3,5,0,1,1,1,0, Full Time,news,%2 Evans... %O and %T plus %M and %s,,
+240319,Sam,Lonergan,ES,15,90,102,114,75,108,15,14,5,2,0,0,2,0,0, Full Time,news,%D and %M with %T and %F,,
+240290,Angus,Monfries,ES,20,89,70,113,70,92,9,9,5,5,0,1,0,1,2, Full Time,news,%s from %O and %M... also %T,,
+240027,Brent,Stanton,ES,16,87,77,109,70,94,11,10,5,3,0,0,0,1,1, Full Time,news,Roaming up from a HFF on Morton... %D and %M plus %s,,
+261314,David,Myers,ES,14,85,82,111,67,93,14,8,6,3,0,0,1,0,0, Full Time,job,Has Green... %P and %M,,
+290160,Michael,Hibberd,ES,13,83,89,105,67,90,14,9,6,1,0,1,0,0,0, Full Time,skull,On a HBF on Scully... %P and %M,cash,Earning a motza at the same rate as his mate Heppell did
+292503,Stewart,Crameri,ES,19,82,77,104,69,90,9,8,7,3,0,0,1,1,3, Full Time,news,%P with %b by hand on MacDonald... also %M and %T,,
+290629,Dyson,Heppell,ES,13,81,79,103,66,87,13,8,7,1,0,1,0,0,0, Full Time,news,%P including %K with %M,,
+270951,David,Zaharakis,ES,14,65,66,82,53,69,10,5,5,1,0,0,0,1,0, Full Time,news,%s from %P and %M on Strauss,,
+200026,David,Hille,ES,16,64,54,75,62,77,6,7,3,1,20,2,3,1,0, Full Time,sore,%H and %P with %M... also %s and %F... poke in the eye in Q2... much better in the second half after a terrible first half,,
+270588,Cale,Hooker,ES,9,63,66,83,52,69,9,5,7,2,0,0,1,0,0, Full Time,job,Standing the first-gamer Howe... %D and %M,,
+960197,Dustin,Fletcher,ES,8,60,64,79,44,60,12,3,3,2,0,1,0,0,0, Full Time,cougar,At FB on Jurrah... %O and %M,,
+250267,Patrick,Ryder,ES,11,58,65,72,48,59,6,2,2,3,8,1,1,2,0, Full Time,burger,%s from %P and %M on Frawley... also %H and %T... looked lazy apart from a good patch in Q2,,
+990046,Mark,McVeigh,ES,9,57,39,76,46,66,9,6,4,3,0,0,2,0,0, Full Time,tagger,Tagging Sylvia until his early injury... moved to tag Gysberts late... %O and %M,,
+250071,Henry,Slattery,ES,10,55,50,72,46,66,5,9,4,4,0,0,2,0,0, Full Time,tagger,Tagging Moloney... %P and %M,,
+210079,Nathan,Lovett-Murray,ES,12,53,48,69,39,60,8,8,0,4,0,0,1,0,0, Full Time,news,Started in midfield... %P and %T,,
+270584,Kyle,Hardingham,ES,9,48,62,62,37,48,7,2,3,2,0,0,0,1,0, Full Time,job,On Watts... %M and %D plus %s,,
+280988,Travis,Colyer,ES,3,48,55,62,37,51,9,4,3,1,0,0,0,0,0, Full Time,news,%D and %M,,
+250352,Leroy,Jetta,ES,4,46,40,60,38,51,10,3,4,0,0,1,1,0,0, Full Time,sore,%O and %M on Bennell... right thumb strapped up in Q4,,
+261320,Tom,Bellchambers,ES,4,27,40,33,30,38,3,3,3,0,11,1,3,0,0, Full Time,news,%H and %D with %M and %F,subbed,Subbed off in Q3 for Browne
+291522,Alex,Browne,ES,0,12,17,16,8,12,2,1,0,1,0,0,0,0,0, Full Time,rookie,First game... on in Q3 for Bellchambers,sub,Started as a sub
+230151,Brent,Moloney,ME,31,127,132,93,100,132,17,11,7,5,0,1,0,2,0, Full Time,hot,Tagged by Henry Slattery... %D and %M with %T and %s,,
+270906,Jordie,McKenzie,ME,49,125,124,136,95,132,6,22,3,13,0,5,1,0,0, Full Time,hot,%O (%b by hand) and a typically impressive %T... also %M and %4 frees for,,
+280748,Jordan,Gysberts,ME,26,121,111,80,94,128,19,11,8,4,1,0,0,0,1, Full Time,star,%P and %T with %M... got McVeigh in Q4,,
+280608,Jack,Trengove,ME,31,116,115,96,92,129,14,14,8,7,0,0,2,0,0, Full Time,hot,%O and %M with %T and %F,,
+230130,Joel,MacDonald,ME,26,109,106,80,90,117,15,10,12,2,0,0,0,0,0, Full Time,hot,%B among %O with %M and %T,job,Has Crameri
+280969,Tom,Scully,ME,26,100,91,79,76,106,12,12,3,6,0,0,0,1,1, Full Time,hot,On a HFF on Hibberd... %O and %T with %M and %s,,
+200054,Brad,Green,ME,27,99,113,86,80,102,9,8,4,5,0,0,0,4,0, Full Time,news,First goal... kicked %s from %P and %G on Myers,,
+280763,Stefan,Martin,ME,20,97,87,60,85,110,14,11,3,1,23,3,2,0,0, Full Time,news,%H as first ruck... also %P and %M,,
+260288,James,Frawley,ME,14,93,90,63,73,99,14,10,6,3,0,1,0,0,0, Full Time,job,Has Ryder... %D and %M plus %T,,
+280972,Jack,Watts,ME,20,88,100,53,69,90,15,5,6,2,0,1,0,1,0, Full Time,news,Booted %s from %D and %G back in attack on Hardingham,,
+291313,Jeremy,Howe,ME,19,86,97,68,70,91,10,9,6,3,0,1,0,1,1, Full Time,rookie,First game... %s from %P and %M on Hooker... had a particularly good Q3,,
+260952,Liam,Jurrah,ME,22,85,73,68,69,88,10,4,5,4,0,0,1,3,1, Full Time,heart,Kicked %s from %P and %G on Fletcher... also %T... cramp in the left hamstring in Q4,,
+270937,James,Strauss,ME,14,83,70,57,66,90,13,7,7,3,0,0,1,0,0, Full Time,job,Minding Zaharakis... %O and %M,,
+294741,Michael,Evans,ME,18,83,55,64,61,81,12,3,7,5,0,0,0,0,0, Full Time,cash,%2 Howlett... %D and %T with %M,,
+281280,Neville,Jetta,ME,16,81,80,63,68,85,9,8,5,2,0,2,0,2,1, Full Time,news,%s from %P and %M,,
+270985,Cale,Morton,ME,13,78,84,60,67,90,9,13,7,1,0,0,0,0,0, Full Time,job,Playing a rebounding role off half back wide of Stanton... %D with %k by foot... also %M,,
+250222,Nathan,Jones,ME,15,77,85,67,63,91,8,13,4,5,0,0,2,0,1, Full Time,news,%B among %D with %T and %s,,
+230250,Jared,Rivers,ME,8,61,76,39,49,63,10,4,6,1,0,1,0,0,0, Full Time,job,Standing Hille... %D and %M,,
+294874,Daniel,Nicholson,ME,5,57,46,42,47,63,8,6,5,2,0,1,1,0,0, Full Time,bubble,Second game... on in Q2 for Sylvia... %O and %M,sub,Started as a sub
+290528,Max,Gawn,ME,6,56,50,49,47,54,5,3,4,2,10,3,0,0,2, Full Time,rookie,First game... %H and %D,,
+290943,Jamie,Bennell,ME,8,52,71,43,43,61,5,11,2,2,0,0,0,0,1, Full Time,job,Following Jetta... %B among %P with %T,,
+240037,Colin,Sylvia,ME,7,21,32,16,19,24,2,3,1,0,0,0,0,1,0, Full Time,injured,Existing knee problem freshened up with a corkie to the right thigh in Q1... tagged by McVeigh... %P and %s,subbed,Subbed off in Q2 for Nicholson

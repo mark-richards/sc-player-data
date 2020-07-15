@@ -1,0 +1,48 @@
+St Kilda,Saints,Melbourne,Demons,R13,16.8.104,10.9.69, Full Time
+Jun 22,2013,4.40,MCG,Seven,210001,10391303,stk-v-melb,0,Mostly sunny,15,,
+
+<em>coondambo</em>: no spud for dawes?<br><em>hardballge</em>: come on sc scores<br><em>frenzy</em>: birchal to clisby<br><em>N_Riewoldt</em>: C'mon cd upscale roo and terlich<br><em>ConnorZ1</em>: garland 148<br><em>N_Riewoldt</em>: Damn 1 spot off the png 2 games in a row<br><em>runt</em>: terlick trips the ton<br><em>Pavalinco</em>: What the flower is Terpsichore<br><em>danmaio</em>: tonned up&#044;  well done terlich<br><em>Ferog</em>: @Dangerooo I agree.<br><em>runt</em>: terlich bad luck<br><em>Ferog</em>: Turdlicker you beauty.<br>
+220075,Leigh,Montagna,SK,37,146,143,185,116,153,20,15,9,5,0,3,0,1,0, Full Time,star,%P and %M with %T and %s... massive Q1 and had 20 touches to half time,,,511400,135,549000,157,Centre,11,10,105.9,108.4,1.88,1.10
+210001,Nick,Riewoldt,SK,32,114,99,144,96,118,16,5,10,2,0,2,1,3,1, Full Time,gun,Booted %s from %P and %G on McDonald... had a very productive Q3... also %T,,,471000,133,512100,144,Forward,12,11,102.8,108.5,10.93,6.57
+240062,Farren,Ray,SK,25,109,152,134,93,123,16,13,7,1,0,1,1,2,0, Full Time,hot,First goal... head to head with Toumpas on a wing... %P and %M plus %s,,,362200,69,350200,54,Centre,22,8,76.9,68.5,0.39,0.37
+260113,Jarryn,Geary,SK,21,103,103,129,82,111,15,12,5,3,0,1,0,1,0, Full Time,garbage,%D and %M with %T plus %s... lots of stats in second half junk time,flash,Minding Davey,258600,86,317300,81,Back,14,11,61.1,73.7,2.24,2.33
+270912,Jack,Steven,SK,14,90,99,113,68,100,18,12,1,2,1,0,0,0,0, Full Time,news,%2 Rodan in Q1 then got Matt Jones in Q2... %D including %B with %T,,,460500,137,542900,140,Centre,3,11,93.1,102.2,1.57,1.63
+270766,Terry,Milera,SK,19,88,105,108,75,99,11,12,7,1,0,0,0,1,0, Full Time,news,%s from %P and %M on Terlich,,,267900,67,277700,65,Forward,32,6,55.5,55.3,0.32,0.29
+230243,Sean,Dempster,SK,19,85,99,107,70,90,11,8,7,2,0,1,0,1,0, Full Time,news,%D and %M plus %s,job,Has Blease,291600,80,319300,63,Back,24,8,60,63.5,0.50,0.53
+296459,Sam,Dunell,SK,19,84,87,111,67,89,11,6,8,4,0,0,1,0,2, Full Time,news,%P and %T with %M.... also %s,job,Following Byrnes,216400,,201200,,Centre,38,1,54,64,0.23,0.33
+220023,Nick,Dal Santo,SK,14,83,87,102,68,100,11,17,2,3,1,0,1,0,0, Full Time,news,%2 Nathan Jones... %D including %b by hand.... also %T,,,382000,69,450900,46,Centre,26,11,81.9,87.4,1.71,2.23
+250340,David,Armitage,SK,19,83,98,108,65,96,14,10,1,5,0,1,3,1,0, Full Time,news,%O and %T... also %s and %F,,,402900,86,426900,70,Centre,20,10,89.7,94.1,0.65,1.00
+250703,James,Gwilt,SK,14,80,83,104,69,93,15,7,9,0,0,0,2,0,0, Full Time,news,%D and %M... also %F,job,On Dawes,264400,96,390500,121,Back,33,6,59.5,82.5,2.02,2.18
+291773,Jack,Newnes,SK,10,74,58,96,59,81,13,7,5,2,0,1,1,0,0, Full Time,news,%O and %M with %T,,,268500,50,314200,27,Centre,16,9,51.9,58.2,0.62,0.45
+280933,Dylan,Roberton,SK,8,60,61,80,49,64,11,2,7,1,0,0,1,0,1, Full Time,news,%D and %M plus %s,job,Standing Watts,333600,130,396900,130,Back,17,11,70.8,84.3,4.13,5.70
+293846,Sebastian,Ross,SK,14,60,51,74,53,75,7,11,3,2,0,0,2,1,0, Full Time,news,%2 Matt Jones in Q1... %P and %M plus %s,,,284300,88,276100,94,Centre,6,8,56.9,52.8,1.08,0.69
+270570,Trent,Dennis-Lane,SK,16,57,75,72,50,69,3,10,4,4,0,0,2,1,0, Full Time,news,%s from %D and %M with %T on Garland,,,238400,16,221100,18,Forward,8,4,49.3,44.3,0.40,0.81
+261743,Clinton,Jones,SK,10,53,62,66,42,54,5,6,2,3,0,2,0,1,0, Full Time,news,%D and %s,tagger,Tagging Sylvia,377300,127,392700,134,Centre,4,8,78.5,84.8,0.28,0.32
+295095,Brodie,Murdoch,SK,4,46,56,61,36,51,6,5,3,3,0,0,1,0,0, Full Time,news,%P and %T with %M,in,Late replacement for Sam Fisher,102700,27,109500,30,Forward,30,2,20.5,19,1.02,0.82
+210002,Justin,Koschitzke,SK,10,43,69,51,41,48,4,3,2,1,5,3,2,2,1, Full Time,spud,%s from %D on Pedersen... also %H and %F,,,281200,95,322700,101,Forward,23,2,45.5,49.5,0.46,0.29
+290757,Jimmy,Webster,SK,2,35,25,44,29,39,4,5,3,1,0,0,0,0,0, Full Time,news,On as concussion sub for McEvoy in Q2... %P... eventually on for McEvoy for good in Q3,sub,Started as a sub,155400,18,164600,40,Back,29,5,41.2,40.8,3.64,4.72
+280053,Tom,Simpkin,SK,2,32,42,41,28,39,4,5,3,1,0,0,1,0,0, Full Time,job,Responsible for Kent... %O and %M,mrp,A left hook to the jaw of Dawes in Q2 will get weeks,254100,,298800,,Back,31,1,20,29,0.27,0.42
+261323,Ben,McEvoy,SK,3,30,53,34,27,32,3,3,1,0,11,1,0,0,0, Full Time,injured,%H and %D.. ducked his head into a bump by Spencer in Q2 which left him woozy... concussion sub in Q2 for Webster,subbed,Subbed off for Webster in Q3,366900,109,463900,114,Ruck,5,11,81.9,102.5,3.27,5.06
+280317,Rhys,Stanley,SK,9,30,36,35,31,43,3,5,0,1,10,0,3,1,0, Full Time,news,Starting forward on Dunn.. %s from %P... also %H and %F,,,236400,6,296200,58,Forward,28,11,53.2,65.8,1.07,0.58
+270830,Colin,Garland,ME,20,117,144,75,92,120,19,9,9,3,0,3,0,0,0, Full Time,bluemoon,Had a pretty good game under the circumstances... %P and %M with %T,job,Playing back on Dennis-Lane,307600,38,411400,33,Back,20,11,63.8,82.7,0.49,0.68
+240037,Colin,Sylvia,ME,26,114,113,82,86,117,16,12,4,6,2,3,0,0,1, Full Time,hot,Tagged by Jones... %P and %M,,,419900,75,447000,90,Forward Centre,12,8,83.8,83.1,0.87,0.74
+270241,Dean,Terlich,ME,19,100,88,65,82,114,16,12,7,3,0,1,2,0,0, Full Time,hot,%P including %k by foot... also %M and %T,job,Running off Milera,344600,76,366500,69,Back,46,10,73.2,73.7,32.14,28.29
+250222,Nathan,Jones,ME,20,95,118,68,76,102,13,10,6,3,0,0,0,1,0, Full Time,news,%2 Dal Santo... %P and %T with %M... also %s,,,372200,86,440300,86,Centre,2,11,76.1,87.5,0.57,0.58
+280521,Jake,Spencer,ME,25,84,101,91,81,96,1,14,6,2,27,3,1,0,0, Full Time,news,%H and %P with %M,reported,Reported for front on contact with McEvoy in Q2,330400,115,339800,101,Ruck,42,2,51.5,54.5,0.18,0.21
+280972,Jack,Watts,ME,20,79,85,59,67,83,10,5,6,2,0,2,1,2,2, Full Time,news,%s from %D and %M on Roberton,,,312200,84,359100,91,Back Forward,4,7,55.1,63.9,1.68,1.82
+293042,Jimmy,Toumpas,ME,13,75,52,47,60,78,13,4,7,2,0,2,1,0,0, Full Time,cash,%O and %M with %T,,,138900,20,136400,13,Centre,5,5,30,25.4,4.48,5.34
+230022,Shannon,Byrnes,ME,15,74,59,61,62,82,8,9,5,3,0,1,1,1,1, Full Time,news,%s from %D and %M on Dunell... also %T,,,292100,121,283100,110,Forward,10,8,62.6,58.4,2.65,3.29
+250548,Lynden,Dunn,ME,13,72,84,50,59,78,11,6,7,2,0,1,1,0,0, Full Time,spud,%O and %M,job,In defence on Stanley,299800,63,328600,89,Back Forward,14,7,64.4,66.9,0.52,0.46
+280608,Jack,Trengove,ME,9,72,59,50,55,75,11,6,5,3,0,0,0,0,0, Full Time,news,%O and %T with %M,,,374500,76,388700,88,Centre,9,9,77,75.7,0.58,0.77
+270976,Mitch,Clisby,ME,8,70,71,39,58,84,12,12,3,1,0,0,1,0,0, Full Time,rookie,First game... %P and %M,,,89300,,96200,,Back,50,0,0,0,3.15,2.95
+291533,Tom,McDonald,ME,13,69,58,52,60,79,9,8,8,1,1,0,1,0,0, Full Time,job,Following Riewoldt... %P and %M,,,284300,79,351400,97,Back,25,6,55.2,66.7,0.18,0.26
+296027,Matt,Jones,ME,8,64,57,44,55,76,9,10,5,1,0,0,1,0,1, Full Time,news,%2 Ross then moved to Steven in Q2... %P and %M,,,341500,109,341800,86,Centre,45,11,74.4,71.8,4.06,2.81
+280758,Jack,Fitzpatrick,ME,11,63,66,49,54,64,7,3,5,1,9,1,0,1,1, Full Time,news,%H and %D with %M,,,146800,-24,209700,39,Ruck,48,2,60.5,45.5,1.19,0.67
+291313,Jeremy,Howe,ME,15,63,54,59,59,73,4,9,6,1,1,1,1,2,0, Full Time,garbage,%s from %D and %M... does not get enough of it... all of his goals in Q4 garbage time,,,394600,139,426200,118,Forward,38,11,76.5,83.2,1.39,1.42
+292029,Cameron,Pedersen,ME,12,61,83,49,56,76,7,10,7,1,1,0,2,0,0, Full Time,spud,%D and %M,job,Standing Koschitzke,266300,35,302400,11,Back Ruck,21,6,53.7,63.8,0.82,2.05
+220090,David,Rodan,ME,12,59,80,60,46,67,3,14,0,5,0,1,0,0,1, Full Time,news,%2 Steven... %O and %T plus %s,,,271300,30,340000,50,Centre,15,5,52.6,60.6,0.91,0.38
+280746,Sam,Blease,ME,10,55,48,28,44,58,11,1,4,1,0,0,1,1,1, Full Time,news,%s from %D and %M on Dempster,,,235200,58,236700,43,Forward Centre,17,4,37.5,35.3,0.33,0.67
+200002,Aaron,Davey,ME,4,52,32,30,36,51,10,2,2,3,0,0,0,0,0, Full Time,ghost,%D and %T with %M on Geary,,,300800,63,304300,66,Forward,36,9,53.7,53,1.31,0.95
+294874,Daniel,Nicholson,ME,2,35,25,25,28,37,5,3,3,1,0,0,0,0,1, Full Time,news,On after QT for Dawes,sub,Started as a sub,319600,97,335000,103,Back,26,6,60.3,61.7,0.17,0.15
+294570,Dean,Kent,ME,8,34,49,17,29,39,7,1,2,1,0,1,2,1,0, Full Time,cash,%s from %P and %T on Simpkin,,,154700,-12,152100,-15,Centre,34,4,43,38.8,0.70,0.86
+260394,Chris,Dawes,ME,6,26,30,20,21,24,3,1,1,1,0,2,0,1,0, Full Time,news,Gwilt sitting on him... no touches in Q1... %s from %P,subbed,Subbed off at 3QT for Nicholson,290900,68,309100,79,Forward,6,5,51.2,53.2,0.44,0.71

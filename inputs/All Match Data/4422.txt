@@ -1,0 +1,48 @@
+Western Sydney,Giants,St Kilda,Saints,R3,10.8.68,21.14.140, Full Time
+Apr 13,2013,4.40,Manuka,Seven,220023,10390304,5015,0,Partly cloudy,26,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>wadaramus</em>: Whitfield you Plow!<br><em>Bluffie</em>: mcevo- 131 sc<br><em>Costanza</em>: Richmond something like 45/15 in same period<br><em>bert1</em>: the dee even tank there picks<br><em>Reidy</em>: flowering Riewoldt with the junk time goals&#044; making my league game even harder to win.<br><em>bobby98</em>: whats mcevoy SC?<br><em>bobby98</em>: thanks<br><em>Costanza</em>: since 2000 Dees had 33 draft picks who never palyed a games and another 9 who playes 5 or less <br><em>go_freo</em>: will smith be out for weeks?<br><em>darkness</em>: brogan 78sc<br><em title="GERVA">gerva</em>: Whitfield is going on my bench! worst pick<br><em>bobby98</em>: whats brogans SC?? pls<br>
+280109,Callan,Ward,WS,26,113,118,147,83,115,18,10,4,6,0,2,0,0,1, Full Time,hot,%P and %T with %M,,,501300,104,570100,154,Midfielder,8
+291790,Adam,Treloar,WS,17,91,70,115,73,96,14,7,4,3,0,2,1,2,0, Full Time,news,%O and %T plus %M and %s,,,423000,73,445000,77,Midfielder ,17
+291802,Tomas,Bugg,WS,15,86,91,109,70,90,10,10,5,4,0,5,1,0,3, Full Time,news,%O and %T with %M plus %s,job,Milne is his man,352100,76,369800,71,Midfielder,14
+261841,Jonathan,Giles,WS,13,78,96,92,68,76,10,2,4,0,14,4,0,2,2, Full Time,news,%H and %D with %M and %s,,,422200,112,498900,126,Ruck,26
+280804,Phil,Davis,WS,13,70,75,89,59,75,11,6,8,0,0,1,0,0,0, Full Time,job,Following Riewoldt... %D and %M,,,324100,87,387400,123,Back,1
+291771,Devon,Smith,WS,14,67,55,84,51,69,10,5,1,3,0,0,0,2,0, Full Time,news,%s from %D and %T,reported,Reported for rough conduct after he tunnelled Geary in Q4,352100,77,339200,75,Forward,10
+200111,Dean,Brogan,WS,16,61,86,68,61,72,2,6,3,1,24,0,2,2,0, Full Time,news,%H and %P with %M and %s,,,307400,49,367400,15,Ruck,50
+291783,Dylan,Shiel,WS,13,60,69,76,46,63,6,9,2,4,0,2,0,0,0, Full Time,news,%D and %T with %M,,,378200,53,403500,28,Midfielder,5
+291720,Will,Hoskin-Elliott,WS,5,59,43,79,46,61,11,2,5,2,0,1,1,0,1, Full Time,news,%P on Roberton... also %T and %M,,,267900,50,264800,76,Midfielder,33
+230082,Stephen,Gilham,WS,4,55,52,70,45,60,8,6,5,1,0,0,0,0,0, Full Time,job,Standing Lee... %O and %M,,,239600,60,279100,67,Back,38
+291509,Adam,Kennedy,WS,4,54,61,69,43,54,11,3,4,0,0,3,0,0,0, Full Time,job,Minding Saad... %P and %M,,,266900,83,285400,77,Midfielder,40
+291969,Stephen,Coniglio,WS,7,50,60,61,42,58,8,8,3,0,0,0,0,0,1, Full Time,news,%O and %M,,,409200,63,406200,42,Midfielder,3
+293662,Liam,Sumner,WS,8,49,30,66,35,48,6,3,3,4,0,0,0,0,0, Full Time,news,%O and %T with %M on a HFF on Montagna,,,224100,-2,217200,,Midfielder ,28
+295344,Toby,Greene,WS,6,49,47,60,41,60,8,10,1,1,0,1,1,0,0, Full Time,news,Tagged by Jones in Q1 then head to head with Dal Santo... %P,,,495700,180,506300,167,Midfielder,4
+290306,Curtly,Hampton,WS,5,48,51,65,40,54,8,3,5,2,0,1,2,0,0, Full Time,news,%M and %D... also %F,job,Milera is his responsibility,276100,57,300300,83,Back Forward,2
+280969,Tom,Scully,WS,4,47,42,65,36,51,9,2,3,3,0,1,2,0,0, Full Time,tagger,Forward tag on Geary... %D and %M,,,380700,111,424700,135,Midfielder,9
+261189,Tim,Mohr,WS,4,45,93,58,36,45,9,2,4,0,0,2,0,0,0, Full Time,news,%M and %D,job,Has Maister,265100,39,352700,40,Back,39
+293845,Jeremy,Cameron,WS,10,43,52,55,40,57,3,8,3,3,0,0,3,1,0, Full Time,news,%s from %D and %M on Fisher... also %T,,,299800,63,333700,80,Forward,18
+261374,Sam,Reid,WS,3,41,31,54,31,42,6,3,3,2,0,0,0,0,0, Full Time,news,On after HT for Patton... %P,sub,Started as a sub,245200,,291100,,Midfielder,23
+294305,Lachie,Whitfield,WS,3,36,31,42,32,45,2,10,2,1,0,0,0,0,0, Full Time,cash,%2 Newnes on a wing... never got into the game at all... %O and %M,,,183700,-42,199500,-32,Midfielder ,6
+294624,Lachlan,Plowman,WS,1,24,27,32,17,21,5,0,1,1,0,2,0,0,0, Full Time,news,Looks like he needs a year in the magoos... %D,,,174700,21,189500,25,Back ,30
+291821,Jonathon,Patton,WS,6,15,26,18,13,15,2,0,1,0,0,0,0,1,0, Full Time,injured,%s from %D on Stanley... right ankle and/or knee twisted under him in a tackle by Stanley in Q2,subbed,Subbed off at HT for Reid,183300,-21,242300,,Forward ,12
+250340,David,Armitage,SK,34,136,175,91,115,148,19,12,8,2,0,1,1,4,1, Full Time,star,%D and %M plus %s,,,459500,81,460100,78,Midfielder,20
+270912,Jack,Steven,SK,26,109,123,68,92,127,17,15,6,2,0,1,2,1,1, Full Time,hot,%P and %M plus %T and %s,,,433300,75,480800,115,Midfielder,3
+220075,Leigh,Montagna,SK,22,104,102,73,86,120,14,16,5,3,0,0,1,1,0, Full Time,hot,%P including %K with %T and %M,job,Starting on a HBF on Sumner,498100,,530700,,Midfielder,11
+280933,Dylan,Roberton,SK,19,102,118,73,82,111,14,13,7,3,0,1,0,0,0, Full Time,hot,%P and %M with %T,job,Chasing Hoskin-Elliott,226700,9,254100,-17,Back ,17
+210001,Nick,Riewoldt,SK,25,99,122,71,86,105,13,5,9,1,1,1,1,3,2, Full Time,garbage,Booted %s from %D and %G on Davis... most of his goals in Q4 garbage time,,,441400,67,513100,91,Forward,12
+261323,Ben,McEvoy,SK,22,97,139,88,87,105,6,12,5,2,30,2,0,0,0, Full Time,news,%H and %P with %M and %T,,,457900,101,557400,98,Ruck,5
+990028,Lenny,Hayes,SK,19,87,91,77,73,102,8,16,6,4,0,0,1,0,0, Full Time,news,%P and %M with %T,,,489900,102,547400,131,Midfielder,7
+250134,Sam,Gilbert,SK,16,84,96,69,72,97,8,15,5,2,0,0,0,1,1, Full Time,job,%O and %T plus %M and %s,,,339100,64,387800,66,Back,19
+240062,Farren,Ray,SK,14,81,70,46,64,87,15,6,6,2,0,1,1,0,0, Full Time,in,%l Arryn Siposs... on in Q2 for Newnes... %O and %M,sub,Started as a sub,342800,,368700,,Midfielder,22
+260113,Jarryn,Geary,SK,14,81,113,55,67,93,12,11,6,2,0,0,1,0,0, Full Time,news,%O with %b by hand... also %M,skull,Scully manning him up,330800,36,394100,39,Back,14
+220023,Nick,Dal Santo,SK,9,76,95,56,63,88,9,15,3,2,0,1,0,0,1, Full Time,news,%2 Green after Q1... %D including %B with %T and %s,,,471200,84,544800,140,Midfielder,26
+261743,Clinton,Jones,SK,15,73,74,61,59,84,8,12,4,4,0,0,1,0,0, Full Time,news,Tagging Greene in Q1 then freed up to chase pill... %P and %T plus %M,,,396100,70,409500,18,Midfielder,4
+280317,Rhys,Stanley,SK,9,72,114,44,55,75,13,4,5,3,0,1,1,0,0, Full Time,job,Standing Patton... %O and %M with %T,,,312100,33,345500,49,Ruck,28
+294317,Nathan,Wright,SK,9,69,67,53,57,82,8,14,2,3,0,1,1,0,1, Full Time,rookie,First game... %D and %T plus %M and %s,,,102700,,109500,,Back ,34
+200108,Stephen,Milne,SK,20,68,78,46,64,82,10,4,6,1,0,1,4,3,1, Full Time,news,First goal... %s from %P and %M,bugg,Bugg on him,352700,115,371400,132,Forward,44
+270766,Terry,Milera,SK,15,66,73,37,59,79,11,7,4,0,0,0,2,2,1, Full Time,news,%s from %P and %M on Hampton,,,308100,49,337400,63,Forward,32
+250036,Beau,Maister,SK,11,64,63,41,54,66,10,1,5,1,0,1,1,2,3, Full Time,news,Kicked %s from %G and %P on Mohr,,,287500,56,283000,60,Back Forward,37
+240708,Sam,Fisher,SK,12,62,62,33,54,72,12,5,7,0,0,1,2,0,0, Full Time,job,Has Cameron... %D and %M,,,370900,,444100,,Back,25
+294818,Ahmed,Saad,SK,16,58,83,40,52,66,8,3,4,1,0,0,2,3,0, Full Time,egypt,%s from %O and %M on Kennedy,,,275600,90,325700,100,Forward,21
+200068,Jason,Blake,SK,9,56,62,35,50,71,10,6,5,2,2,1,4,0,0, Full Time,news,Spending some time in ruck support... %P and %M... %F as well,job,Responsible for the resting ruck,338400,101,397600,115,Back,27
+290422,Thomas,Lee,SK,9,45,59,40,37,48,4,5,3,2,0,0,0,1,0, Full Time,rookie,First game... %P and %M on Gilham,,,108500,,115900,,Forward ,9
+291773,Jack,Newnes,SK,0,6,15,0,4,6,2,0,0,0,0,0,0,0,0, Full Time,news,%2 Whitfield on a wing... %O,subbed,Subbed off in Q2 for Ray,271600,68,299600,108,Midfielder,16

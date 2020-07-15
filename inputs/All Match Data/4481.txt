@@ -1,0 +1,48 @@
+Fremantle,Dockers,Melbourne,Demons,R9,19.16.130,6.4.40, Full Time
+May 26,2013,4.40,Subiaco,Seven,291570,10390909,fre-v-melb,0,Possible late shower,24,,
+
+<em>rooboypete</em>: Worse. Lost by 2 due to Mayne's last minute goal...<br><em>Crabstick</em>: Why is m0nty so harsh on Dunn? He doesn't put up that bad scores. <br><em>Jodd</em>: 9 point win with Fyfe's last couple of points! You bewdy!<br><em>JarodTiger</em>: 25 inside 50's by Melbourne... is that right?<br><em>JarodTiger</em>: MAyne for Buddy next week<br><em style='margin-bottom:-2px'><b class="ticon tWB"></b> JRedden</em>: lost by 2&#044; got 2251 DT zzz and lost elimanator cos of birchall<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> Springyboy</em>: dang lost dt by 8<br><em>MarksMen</em>: I hope that 130 is correct.Cheers Woody<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> Woodie</em>:  Nathan Fyfe 130 MarksMen<br><em>rupink06</em>: lol ballbag good idea<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> feralmong</em>: oh no. 5 points short.<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> JarodTiger</em>: more tons than a cricket match in Bombay<br>
+292026,Michael,Barlow,FR,61,149,138,191,114,157,13,19,7,11,1,0,0,1,0, Full Time,magnet,%O and %T with %M and %s,,,481400,78,492800,69,Centre,21
+280726,Tendai,Mzungu,FR,43,133,127,169,109,139,14,10,10,6,1,1,1,3,0, Full Time,hot,%D and %T plus %M and %s,,,317800,108,358200,99,Centre,13
+240052,David,Mundy,FR,26,131,131,167,106,142,23,11,7,3,2,3,2,1,2, Full Time,star,%P with %k by foot... also %M and %T... %s as well... had a very productive Q1 and went on with it with a fine Q2... copped the McKenzie tag in Q3,,,438400,77,490000,87,Centre,16
+250268,Garrick,Ibbotson,FR,37,130,112,166,108,138,18,10,14,2,0,0,0,1,0, Full Time,cherry,%O and %M with %T and %s,job,Minding Jetta,423700,64,453500,48,Back,5
+240139,Paul,Duffield,FR,25,119,107,155,94,123,19,8,11,3,0,1,0,0,0, Full Time,hot,%D and %M,,,446000,64,496200,48,Back,41
+280386,Clancee,Pearce,FR,26,119,86,151,97,129,18,13,10,2,0,1,0,0,0, Full Time,hot,%P and %M,,,399900,74,440000,104,Centre,46
+240266,Lee,Spurr,FR,25,112,89,145,92,123,18,10,11,2,0,0,1,0,0, Full Time,hot,%O and %M,job,Has Tapscott,353900,90,392800,90,Back,34
+280416,Chris,Mayne,FR,27,111,126,138,94,120,11,12,10,3,0,0,0,2,0, Full Time,hot,%s from %P and %M on Frawley... also %T,,,387600,93,413600,83,Forward,23
+271015,Matthew,de Boer,FR,31,110,96,145,82,111,12,10,7,8,0,1,0,0,0, Full Time,hot,%D and %M with %T up forward on Terlich,,,368900,70,361700,55,Forward Centre,9
+230107,Michael,Johnson,FR,24,108,96,139,89,120,19,10,10,1,0,0,1,0,0, Full Time,hot,%O and %M,job,Zoning off Watts,364500,64,419100,73,Back,37
+260069,Hayden,Ballantyne,FR,30,101,104,129,80,99,13,2,7,4,0,0,0,3,3, Full Time,hot,%s from %D and %M on Nicholson,,,300400,69,336600,81,Forward,1
+291570,Nathan,Fyfe,FR,21,99,128,120,87,120,14,18,5,1,0,2,2,1,0, Full Time,news,Tagged by McKenzie until HT when he was freed up... %D including %B with %M and %s,,,488000,92,536400,118,Centre,7
+290251,Zachary,Clarke,FR,21,93,87,113,78,97,5,10,5,5,21,1,0,0,1, Full Time,news,%H and %D with %T and %M... also %s,,,360300,,395900,,Ruck,30
+250063,Danyle,Pearce,FR,17,89,79,112,74,101,15,8,4,2,0,0,2,2,2, Full Time,news,%P and %M plus %s,,,336200,60,350000,67,Back Centre,6
+290733,Cameron,Sutcliffe,FR,14,87,85,114,69,93,14,7,7,3,0,1,1,0,0, Full Time,news,Matched up on Evans... %P and %M with %T,,,241800,22,232000,12,Centre,33
+200045,Luke,McPharlin,FR,18,81,72,106,66,83,15,2,10,0,2,0,0,0,0, Full Time,job,On Gawn... %M and %P... also %H,subbed,Subbed off in Q3 for Suban,361600,63,384500,86,Back,18
+293651,Hayden,Crozier,FR,15,78,69,98,65,78,11,2,7,1,0,1,0,2,3, Full Time,cash,%s from %O and %M,,,204100,2,259700,17,Forward,17
+230048,Ryan,Crowley,FR,16,72,71,93,58,77,8,6,5,4,1,0,1,1,1, Full Time,news,%D and %T plus %M and %s,tagger,Tagging Nathan Jones,254400,61,278900,46,Centre,15
+281105,Jack,Hannath,FR,11,64,69,80,53,65,9,3,5,1,5,1,0,1,0, Full Time,cash,%s from %P and %M on Garland... also %H,,,149400,9,192900,11,Ruck,38
+271433,Alex,Silvagni,FR,11,60,67,80,49,66,9,3,5,3,0,0,2,1,0, Full Time,news,%s from %D and %M starting forward on Sellar... also %F,reported,Reported for catching Nathan Jones high in Q2... not much in it,215300,40,245000,80,Back,36
+240552,Zac,Dawson,FR,8,47,43,58,42,54,3,8,6,1,0,0,0,0,0, Full Time,job,Standing Dawes... %D and %M,,,169600,45,240000,55,Back,3
+270908,Nick,Suban,FR,4,41,34,54,32,42,5,3,4,2,0,0,0,0,0, Full Time,news,On in Q3 for McPharlin,sub,Started as a sub,319500,59,337800,64,Back,8
+291313,Jeremy,Howe,ME,32,129,116,87,106,133,19,8,11,2,1,2,0,2,0, Full Time,hot,%s from %P including %K with %M,,,344000,45,377000,48,Forward,38
+280608,Jack,Trengove,ME,32,100,95,79,81,109,13,7,6,6,1,1,3,2,0, Full Time,hot,%D and %M plus %T and %s,,,368700,140,384300,120,Centre,9
+296027,Matt,Jones,ME,21,98,65,74,79,102,13,7,9,3,0,0,0,1,0, Full Time,news,%P and %M,cash,Is most definitely the 2013 Toby Greene,342600,75,351100,36,Centre,45
+260176,James,Magner,ME,21,87,77,67,65,93,12,9,4,6,0,0,1,0,0, Full Time,news,%O and %T with %M,,,319700,,317200,,Centre,22
+250222,Nathan,Jones,ME,20,84,76,76,62,87,8,12,2,7,0,2,0,0,0, Full Time,creepy,Tagged by Crowley... %O and %T,,,367600,83,447600,98,Centre,2
+200002,Aaron,Davey,ME,14,82,70,60,60,81,12,6,4,5,0,2,0,0,0, Full Time,news,%O and %T with %M,,,207100,4,223800,2,Forward,36
+260288,James,Frawley,ME,13,76,60,54,63,81,11,6,9,1,0,0,0,0,0, Full Time,news,%M and %D,job,Following Mayne,308000,86,321900,88,Back,8
+270906,Jordie,McKenzie,ME,13,70,77,62,58,87,6,18,0,5,0,2,2,0,0, Full Time,tagger,Tagging Fyfe but moved to Mundy in Q3... %D and %T... also %F,,,287900,102,304400,93,Centre,13
+270241,Dean,Terlich,ME,13,67,65,54,51,72,8,9,3,4,0,0,0,0,0, Full Time,injured,%O and %T with %M... copped a knock to the ribs in Q3... mothballed in Q4,job,de Boer manning him up,289800,-12,310100,-32,Back,46
+294874,Daniel,Nicholson,ME,8,65,58,53,52,73,7,11,3,3,0,0,0,0,1, Full Time,job,Minding Ballantyne.. %O and %T with %M and %s,,,330800,88,344900,80,Back,26
+280972,Jack,Watts,ME,18,63,56,47,55,72,8,7,6,1,0,0,1,1,0, Full Time,astronaut,First goal... starting forward on Johnson... %s from %P and %M,,,312100,52,399600,81,Back Forward,4
+294741,Michael,Evans,ME,10,63,56,48,46,63,9,4,4,4,0,0,0,0,0, Full Time,wall,Matched up on Sutcliffe... %O and %T with %M,,,289200,49,289400,58,Centre,32
+220052,Mark,Jamar,ME,25,61,64,70,48,55,1,0,0,6,34,0,0,0,0, Full Time,news,%H and %D with %T,,,368400,89,441300,86,Ruck,40
+250548,Lynden,Dunn,ME,8,57,66,39,47,67,8,10,2,2,0,1,1,0,1, Full Time,spud,Playing defence which is usually the sign of a Demon loss... %D and %M plus %s,,,311200,79,351700,77,Back Forward,14
+270830,Colin,Garland,ME,9,53,64,45,38,54,7,3,3,5,0,0,1,0,0, Full Time,job,Has the resting ruck which is mostly Hannath... %M and %P with %T,,,299700,78,393900,101,Back,20
+250418,James,Sellar,ME,8,48,46,38,42,55,6,5,6,1,1,0,1,0,0, Full Time,spud,%M and %O,job,On Silvagni,225500,58,304500,54,Back Forward,30
+260394,Chris,Dawes,ME,3,41,53,35,32,42,5,3,3,3,0,2,1,0,0, Full Time,crab,%P and %M on Dawson... also %T,,,337700,120,344800,106,Forward,6
+230022,Shannon,Byrnes,ME,3,38,29,26,30,39,6,2,4,1,0,0,0,0,0, Full Time,missing,%P and %M,,,334500,135,329100,134,Forward,10
+280579,Luke,Tapscott,ME,7,36,22,42,27,39,1,7,1,4,0,0,0,0,0, Full Time,spud,Donuts in Q1... Spurr on him... %P,,,260400,73,258400,70,Back,35
+290528,Max,Gawn,ME,4,34,39,39,30,37,0,5,1,2,13,0,0,0,0, Full Time,crab,McPharlin on him when forward... %H and %P with %T,,,188200,23,234400,35,Ruck,37
+281280,Neville,Jetta,ME,1,24,23,25,16,21,2,1,1,3,0,1,0,0,0, Full Time,ghost,%P and %T on Ibbotson,subbed,Subbed off in Q3 for Bail,236200,59,251900,58,Centre,39
+250345,Rohan,Bail,ME,0,12,6,4,11,16,3,1,1,0,0,0,1,0,1, Full Time,news,On in Q3 for Jetta... %O,sub,Started as a sub,247700,103,249100,101,Centre,44

@@ -1,0 +1,48 @@
+Richmond,Tigers,Gold Coast,Suns,R16,6.17.53,6.8.44, Full Time
+Jul 13,2013,4.40,Cairns,Seven,294613,10391604,rich-v-gcfc,0,Windy with a shower or two,26,,
+
+<em style='color:#000'>Mash</em>: and only in supercoach brent<br><em style='color:#000'>brent-83</em>: can you only change players during lockout in SC or DT also?<br><em style='color:#000'>stunnersfc</em>: hes back!<br><em style='color:#000'>brent-83</em>: Thanks MarksMen. I need to swap take emergency off zac clarke and put it onto sam rowe due to stokes/buddy... <br><em style='color:#000'>RooBoyStu</em>: he'll play more games than you scaledup<br><em style='color:#000'>rosty63</em>: gramer?<br><em style='color:#000'>Kenny27</em>: Maric show some emotion brother<br><em style='color:#000'>flyupup</em>: harry o to miss 3 due to incorrect grammer use on ff<br><em style='color:#000'>MarksMen</em>: @brent...only if they haven't played<br><em style='color:#000'>thommoae</em>: Best AFL Grammar lesson ever tonight! Well done people - brilliant exchange.<br><em style='color:#000'>spangle</em>: thanks lads<br><em style='color:#000'>brent-83</em>: can i change emergencies mid round?<br>
+250360,Ricky,Petterd,RI,31,132,120,177,98,126,20,4,11,7,0,3,0,0,0, Full Time,star,%D and %M plus %T,job,Running off Aaron Hall,284500,40,278900,34,Forward,13,5,65.4,65.2,0.77,1.23
+290847,Dustin,Martin,RI,21,120,120,156,89,122,23,8,5,4,0,2,0,0,2, Full Time,magnet,%O and %M with %T and %s,,,423900,115,472500,132,Forward Centre,4,14,95.1,101.6,39.81,35.19
+270896,Trent,Cotchin,RI,20,114,109,146,91,121,19,10,9,2,0,1,0,0,1, Full Time,hot,%2 O'Meara... %P and %M plus %s,,,394700,70,495500,93,Centre,9,13,91,108,19.84,26.27
+240707,Daniel,Jackson,RI,21,97,137,126,74,102,19,5,2,4,0,2,2,2,0, Full Time,x-factor,%O and %T with %M and %s,tagger,Spent a lot of time tagging Ablett jnr,419600,113,462500,98,Centre,23,14,86.9,86.1,0.76,1.05
+240336,Brett,Deledio,RI,14,84,107,106,65,93,11,13,3,4,0,0,0,0,0, Full Time,news,%2 Ablett jnr to start but mostly free... %O and %T with %M,,,451000,118,512500,158,Centre,3,14,95.7,106.5,11.83,14.42
+210048,Chris,Newman,RI,13,76,68,101,57,74,13,2,6,3,0,1,0,0,2, Full Time,news,%P and %M plus %T and %s,job,Swallow manning him up,320100,92,382700,116,Back,1,13,66.8,79.6,2.91,3.44
+240389,Matt,White,RI,18,75,58,103,58,79,13,2,7,4,0,0,2,0,1, Full Time,news,%D and %M plus %T and %s,,,248200,45,207500,44,Centre,35,9,52.3,41.9,0.78,0.70
+293713,Brandon,Ellis,RI,19,75,82,93,60,81,7,11,3,4,0,1,0,1,0, Full Time,news,%2 Harbrow off a wing... %P and %M plus %T and %s,,,382700,158,432800,151,Back,5,12,67.7,74,4.87,5.15
+240130,Nathan,Foley,RI,24,71,75,91,51,73,8,8,0,6,0,0,0,1,1, Full Time,news,%D and %T plus %s,,,392800,54,435900,67,Centre,41,8,76.3,75.8,0.20,0.25
+240180,Troy,Chaplin,RI,8,69,98,88,55,75,12,7,5,1,0,0,0,0,0, Full Time,news,Loose in defence to start... %P and %M,,,250700,78,317700,113,Back,25,13,55.6,62.9,0.86,0.69
+261362,Alex,Rance,RI,10,68,98,85,58,81,8,12,5,2,0,0,1,0,0, Full Time,job,Standing May... %D,,,309100,65,429300,64,Back,18,14,66.4,83.6,1.73,1.98
+240546,Ivan,Maric,RI,16,67,86,75,63,77,6,7,2,0,32,0,1,0,0, Full Time,news,%H and %D,,,343600,78,461900,69,Ruck,20,11,74.8,96,7.10,10.73
+270941,Tyrone,Vickery,RI,10,63,82,78,54,64,7,3,6,1,13,1,0,0,0, Full Time,news,Day on him... %D and %M... also %H,,,314700,24,425400,37,Forward,29,13,63.8,78.5,4.07,3.67
+250395,Jack,Riewoldt,RI,10,61,63,77,52,66,9,4,5,1,0,1,1,1,3, Full Time,news,Kicked %s from %D on Thompson then got Tape in Q3,,,358400,80,440900,110,Forward,8,14,73.6,86.9,8.09,10.42
+291835,Matthew,Arnot,RI,13,58,66,71,46,64,6,9,1,3,0,0,0,1,1, Full Time,bubble,Second game... %s from %O on Murphy,,,108500,,115900,,Centre,44,1,56,85,0.40,0.75
+260930,Shane,Edwards,RI,12,57,86,73,43,65,6,10,0,5,0,0,1,0,2, Full Time,news,Starting forward on Broughton... %s from %O,,,330900,73,375300,83,Forward,10,14,70.1,79.4,0.65,0.71
+294674,Nick,Vlastuin,RI,8,56,66,73,43,61,9,6,2,3,0,1,1,0,1, Full Time,news,%P and %T plus %s,,,321000,146,360500,155,Back Centre,31,9,74.6,77.4,41.69,41.45
+271437,Jake,King,RI,9,52,57,71,41,53,7,2,4,4,0,3,2,0,2, Full Time,news,%s from %O and %T on Tape... %M as well,,,224700,51,323400,70,Forward,28,13,53.4,69,1.31,1.35
+230240,Aaron,Edwards,RI,5,51,71,67,41,57,6,6,4,3,0,0,1,0,0, Full Time,switch,Started in defence on the resting ruck which is mostly Josh Hall... switched forward in Q2 on Murphy but back to defence in Q3... %D and %T with %M,subbed,Subbed off at 3QT for Grigg,321300,69,386400,70,Forward,27,5,63.6,73,0.30,0.37
+290823,Reece,Conca,RI,9,50,46,67,38,54,6,5,3,4,0,0,1,0,0, Full Time,harley,Tagging Bennell... %D and %M with %T,,,388100,96,391600,99,Centre,30,8,81.4,82.9,0.39,0.60
+260433,Steven,Morris,RI,4,45,68,59,33,45,6,4,2,3,0,1,0,0,0, Full Time,job,Minding Brown... %O and %T,,,186100,26,235600,50,Back,38,13,39.8,48.7,0.91,1.16
+250298,Shaun,Grigg,RI,1,19,17,26,14,18,3,0,2,1,0,0,0,0,0, Full Time,news,On after 3QT for Aaron Edwards,sub,Started as a sub,466800,137,431000,94,Centre,6,14,93.2,82.1,0.45,0.49
+261756,Greg,Broughton,GC,27,108,127,97,79,111,11,13,4,9,0,1,0,0,0, Full Time,hot,%D and %T with %M,job,Shane Edwards his opponent to start with,324900,113,359300,101,Back Forward,36,10,65.9,71,2.56,2.60
+220001,Gary,Ablett jnr,GC,24,106,120,61,72,103,20,6,1,7,0,2,0,0,1, Full Time,hot,%2 Deledio at times but mostly tagged by Jackson... %O and %T plus %s,,,598100,142,687900,160,Centre,9,13,122,136.5,65.37,62.59
+290815,Thomas,Nicholls,GC,30,105,121,97,89,112,8,10,6,5,25,1,1,0,0, Full Time,hot,%H and %P with %M,cash,Approaching starter status at this rate,272100,32,325500,17,Ruck,22,5,82,97.6,31.36,34.99
+290627,Dion,Prestia,GC,19,89,100,62,70,103,13,14,2,5,0,1,2,0,1, Full Time,news,%P and %T plus %s,,,502000,92,503600,90,Centre,10,13,100.4,97.2,0.80,0.34
+294613,Jaeger,O'Meara,GC,21,89,78,80,73,100,8,13,5,5,0,0,1,1,1, Full Time,news,%2 Cotchin... %D and %M plus %T and %s,,,424600,101,461700,94,Centre,1,14,88.6,91.4,46.42,46.29
+290527,Trent,McKenzie,GC,15,87,85,30,64,90,21,3,2,2,0,1,1,1,0, Full Time,news,%D and %M,,,399400,116,476000,111,Back,18,10,86.6,95.9,3.94,3.11
+290790,Matthew,Shaw,GC,20,87,66,74,75,99,8,14,7,2,0,0,0,1,0, Full Time,news,%O and %M plus %T and %s,,,329600,62,372900,70,Back,26,14,69.5,73.4,0.71,0.44
+281025,Luke,Russell,GC,15,82,83,65,64,87,10,10,5,4,0,1,0,0,0, Full Time,news,In defence again... %O and %M,,,322900,82,333400,82,Back,8,10,59.4,56.5,0.24,0.31
+291594,Harley,Bennell,GC,15,75,86,55,61,82,10,8,4,3,0,1,1,1,1, Full Time,tagged,First goal... %P and %M plus %T and %s... tagged by Conca,,,411700,106,474000,107,Centre,11,7,79,87.4,0.66,0.61
+240254,Jarrod,Harbrow,GC,13,74,77,62,60,81,8,10,6,3,0,0,0,0,0, Full Time,news,%2 Ellis off a wing... %P and %M,,,413500,71,424500,64,Back,5,14,86.1,87.2,5.14,1.88
+291753,Sam,Day,GC,15,70,90,55,58,76,8,8,5,2,1,0,0,1,0, Full Time,news,%D and %M with %s,job,In defence on Vickery,225800,73,291500,86,Forward,12,14,49.5,58.2,2.96,2.36
+250249,Danny,Stanley,GC,13,62,62,54,48,69,6,11,2,4,0,0,0,0,0, Full Time,news,%D and %T,,,386300,82,409300,87,Back,25,10,80.2,78.5,0.93,0.29
+290832,David,Swallow,GC,12,57,60,45,42,60,7,8,1,4,0,1,0,0,0, Full Time,news,Starting forward on Newman... %D,,,307200,73,342100,62,Centre,24,14,67.6,75.6,1.87,1.52
+293223,Seb,Tape,GC,15,57,70,58,40,54,5,3,4,6,0,0,0,0,0, Full Time,job,King was his man then went to Riewoldt in Q3 after Thompson got injured... %M and %D,,,216400,,247200,,Back,48,0,0,0,0.21,0.25
+220013,Campbell,Brown,GC,10,54,54,39,44,60,8,4,3,3,0,1,2,1,0, Full Time,news,%P and %M on Morris,mrp,A high bump on Vlaustin in Q4 will be looked at,285200,56,321000,63,Forward,30,8,64.5,70.6,1.03,1.05
+296736,Josh,Hall,GC,4,50,47,45,44,56,4,7,5,1,4,0,0,0,1, Full Time,news,%P when forward on Aaron Edwards,,,123600,,141800,,Ruck,46,0,0,0,2.21,2.56
+230015,Jared,Brennan,GC,4,42,32,22,39,57,9,4,5,1,0,0,4,0,0, Full Time,news,%O and %M,,,353500,90,406500,92,Back,3,10,71.5,80.5,0.48,0.34
+250146,Thomas,Murphy,GC,3,39,55,26,35,51,6,7,3,1,0,0,2,0,0, Full Time,job,Responsible for Arnot... %D and %M,reported,Reported for rough conduct on Petterd in Q4,284700,76,336100,64,Back,29,12,61.6,71.7,0.73,0.85
+296735,Aaron,Hall,GC,4,35,30,24,32,43,5,5,4,0,0,0,1,0,1, Full Time,news,%D and %M on Petterd,,,329500,94,341400,85,Forward,33,14,65.6,63.9,0.62,0.52
+281085,Steven,May,GC,2,30,24,25,20,27,4,1,1,3,0,1,0,0,0, Full Time,news,%P and %T on Rance,,,210500,47,267500,59,Back Forward,17,10,41.1,54.8,0.44,0.34
+294485,Andrew,Boston,GC,1,20,33,11,16,22,4,1,1,1,0,1,1,0,1, Full Time,news,On in Q3 for Thompson,sub,Started as a sub,89300,39,96200,40,Centre,40,2,9.5,9.5,1.84,1.50
+281075,Rory,Thompson,GC,0,9,18,0,8,12,3,1,0,0,0,1,1,0,0, Full Time,injured,Standing Riewoldt... %P... a bump to his chest by Arnot in Q3 left him lying on the ground holding his torso,subbed,Subbed off in Q3 for Boston,286000,50,394900,69,Back,16,14,59.9,76.1,0.89,1.16

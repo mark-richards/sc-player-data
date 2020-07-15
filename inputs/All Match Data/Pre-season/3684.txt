@@ -1,0 +1,56 @@
+West Coast,Eagles,Fremantle,Dockers,W1,0.5.7.37,0.4.1.25, Half Time
+Feb 13,2011,9:55,Subiaco,Fox Sports,,10300109,1111112046105,5264,Fine,29
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>Ryder30</em>: how are these sc scores right<br><em>Judd005</em>: nicholls.SPUD SPUD SPUD<br><em>McRooster</em>: Anyone itchy for Viv Mitchie?<br><em>Bullwinkle</em>: @run2dmax the reason they got Darling is coz they don't like Q. Darling will play.<br><em>Judd005</em>: or not<br><em>Judd005</em>: o the old 1 pointer ireckon<br><em>run2dmax</em>: Q. Stick making it hard to lock in Jack Darling or Callum Wilson. Just too much confusion on who's getting the jobs<br><em>Judd005</em>: McPhee any1 ;) lmao<br><em>Judd005</em>: think Jack Anthonys gonna have a new lease on life in freo.still wont pick him though<br><em>Junktimer</em>: mzungu already showing heaps of confidence.  not afraid to take em on<br><em>Junktimer</em>: lower&#044; tempted.<br><em>Judd005</em>: true roygbiv...always is <br>
+220061,Quinten,Lynch,WC,9,48,-,60,42,52,6,3,4,1,3,1,1,1,1, Half Time,hot,%P and %G on Grover
+250111,Matt,Rosa,WC,7,38,-,53,23,33,5,1,0,5,0,1,0,0,0, Half Time,news,%P and %T
+280946,Koby,Stevens,WC,7,36,-,50,25,33,3,1,3,4,0,0,0,0,0, Half Time,news,%O and %M with %T
+240283,Shannon,Hurn,WC,2,35,-,46,27,33,6,1,3,1,0,2,0,0,0, Half Time,job,On Johnson... %P and %M
+271073,Tom,Swift,WC,2,35,-,46,25,33,6,2,1,2,0,2,0,0,0, Half Time,news,%D and %T
+240124,Matt,Priddis,WC,8,32,-,41,26,36,2,4,1,3,0,0,1,1,0, Half Time,news,%D and %T plus %s
+250317,Eric,MacKenzie,WC,3,32,-,41,25,33,3,4,2,2,0,1,0,0,0, Half Time,job,On Bradley... %D and %M with %T
+261290,Chris,Masten,WC,2,30,-,36,24,36,4,7,0,1,0,0,0,0,0, Half Time,news,%B among %P
+271045,Nic,Naitanui,WC,7,30,-,40,23,31,1,2,1,4,7,0,1,0,0, Half Time,fiji,%H and %T with %D
+240731,Brett,Jones,WC,1,28,-,36,21,27,7,1,1,0,0,2,0,0,0, Half Time,job,Following McPhee... %P including %k by foot
+260546,Bradd,Dalziell,WC,2,27,-,34,21,30,2,5,1,2,0,0,0,0,0, Half Time,news,%O and %T
+270926,Jordan,Jones,WC,2,24,-,32,19,24,5,0,3,0,0,0,0,0,0, Half Time,news,%O and %M
+280994,Ryan,Neates,WC,7,24,-,28,20,25,4,2,0,0,0,1,0,1,1, Half Time,news,%s from %D
+230281,Mark,Nicoski,WC,6,23,-,28,19,22,2,1,1,1,0,1,0,1,1, Half Time,news,%s from %P in attack on Mzungu
+260446,Andrew,Strijk,WC,2,22,-,29,17,22,5,0,2,0,0,0,0,0,1, Half Time,news,%D and %M
+290838,Jack,Darling,WC,2,22,-,28,17,24,1,4,1,2,0,0,0,0,0, Half Time,news,%B among %D with %T
+294147,Anton,Hamp,WC,1,19,-,25,16,19,3,0,3,0,0,0,0,0,1, Half Time,news,Kicked %s from %P and %M
+250034,Ashton,Hams,WC,1,17,-,22,14,17,3,0,2,0,0,0,0,0,2, Half Time,news,%s from %D and %M
+260050,Callum,Wilson,WC,6,16,-,18,15,18,1,2,1,0,0,0,0,1,0, Half Time,news,First goal... %s from %P on McPharlin
+261214,Will,Schofield,WC,2,15,-,20,16,21,3,2,2,0,0,2,2,0,0, Half Time,job,Standing Griffin in defence... %P and %M plus %F
+250238,Jarrad,Oakley-Nicholls,WC,1,13,-,18,8,12,1,1,0,2,0,0,0,0,0, Half Time,news,He's still on an AFL list? %O
+290932,Gerrick,Weedon,WC,0,10,-,13,7,9,1,1,0,1,0,1,0,0,0, Half Time,news,No score from %D
+261226,Tim,Houlihan,WC,0,8,-,11,7,12,1,2,0,1,0,0,1,0,0, Half Time,news,%D
+280379,Lewis,Stevenson,WC,0,8,-,10,7,9,1,1,1,0,0,0,0,0,0, Half Time,news,%P
+291641,Lewis,Broome,WC,0,8,-,10,7,9,1,1,1,0,0,0,0,0,0, Half Time,news,Showed a few signs in attack... %O
+260303,Mitchell,Brown,WC,0,4,-,7,6,9,2,0,1,0,0,1,2,0,0, Half Time,news,%O and %F
+200045,Luke,McPharlin,FR,8,53,-,37,45,57,8,4,6,1,0,2,1,0,0, Half Time,hot,On Wilson... %P and %M
+291446,Viv,Michie,FR,4,44,-,26,34,45,8,2,4,1,0,0,0,0,0, Half Time,news,%P and %M
+230107,Michael,Johnson,FR,3,42,-,23,34,42,8,1,5,0,0,1,0,0,0, Half Time,news,Hurn on him... %K among %P
+210037,Adam,McPhee,FR,3,34,-,29,26,34,4,2,3,2,1,0,0,0,0, Half Time,news,Playing across half forward on Brett Jones... %P and %T
+260713,Nick,Lower,FR,3,34,-,22,29,39,5,5,3,0,0,0,0,0,0, Half Time,news,%D and %M
+240139,Paul,Duffield,FR,3,29,-,23,21,27,4,1,2,2,0,1,0,0,0, Half Time,news,%O and %T with %M
+230194,Byron,Schammer,FR,2,25,-,22,18,24,3,1,2,2,0,0,0,0,0, Half Time,news,%D and %T plus %M
+281154,Justin,Bollenhagen,FR,2,25,-,20,20,27,3,3,2,1,0,0,0,0,0, Half Time,news,%M and %D
+270681,Jay,van Berlo,FR,3,24,-,21,19,27,3,2,2,2,0,0,1,0,0, Half Time,news,%P and %M with %T
+220096,Aaron,Sandilands,FR,2,23,-,15,20,24,3,2,1,0,6,1,0,0,0, Half Time,news,%H and %D
+280726,Tendai,Mzungu,FR,2,22,-,12,22,33,4,5,2,0,0,0,2,0,0, Half Time,job,Playing a HBF on Nicoski... %O and %M but got caught HTB twice for %F
+250088,Jonathon,Griffin,FR,6,19,-,17,18,21,1,3,1,0,0,1,0,1,0, Half Time,news,Playing forward on Schofield... %s from %P
+280386,Clancee,Pearce,FR,1,19,-,24,15,21,0,4,1,2,0,0,0,0,0, Half Time,news,%D including %b by hand... also %T
+990092,Antoni,Grover,FR,2,19,-,12,16,21,3,2,2,0,0,0,0,0,0, Half Time,job,Has Lynch... %D and %M
+261231,Rhys,Palmer,FR,1,18,-,12,17,25,3,3,1,1,0,1,2,0,1, Half Time,news,%D plus %s
+270908,Nick,Suban,FR,2,18,-,5,15,21,5,0,2,0,0,0,1,0,0, Half Time,news,%O and %M
+260315,Jack,Anthony,FR,6,17,-,9,16,18,3,0,1,0,0,2,1,1,0, Half Time,news,Booted %s from %P on Brown
+291560,Josh,Mellington,FR,6,17,-,11,15,18,2,2,0,0,0,1,0,1,0, Half Time,news,Playing forward... %s from %P
+230011,Kepler,Bradley,FR,6,13,-,11,12,12,1,0,1,0,0,1,0,1,0, Half Time,news,Playing FF on MacKenzie... kicked %s from his only touch
+290251,Zac,Clarke,FR,0,12,-,11,9,12,1,2,0,1,0,1,0,0,0, Half Time,news,Back to #2 ruck in this match... %D
+230048,Ryan,Crowley,FR,0,11,-,6,9,12,2,1,1,0,0,0,0,0,0, Half Time,news,%P
+200032,Matthew,Pavlich,FR,0,9,-,5,7,12,2,1,0,1,0,0,1,0,0, Half Time,news,Started in the guts... %P
+290296,Jesse,Crichton,FR,0,6,-,8,4,6,0,1,0,1,0,0,0,0,0, Half Time,news,Just the %p touch
+250301,Peter,Faulks,FR,0,5,-,6,5,6,0,1,1,0,0,0,0,0,0, Half Time,news,One of the few mature-agers not to impress this weekend... %O
+261756,Greg,Broughton,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used
+271433,Alex,Silvagni,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used

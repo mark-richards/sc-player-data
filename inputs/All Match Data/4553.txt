@@ -1,0 +1,48 @@
+Sydney,Swans,Richmond,Tigers,R18,16.14.110,9.9.63, Full Time
+Jul 28,2013,4.40,SCG,Seven,270896,10391809,syd-v-rich,0,Mostly sunny,21,,
+
+<em style='color:#000'>howeydamus</em>: sydney looming ominous<br><em style='color:#000'>Far cue</em>: good swans. premiership?<br><em style='color:#000'>cdrobert</em>: wank<br><em style='color:#000'>jpk2goodes</em>: heart for malceski<br><em style='color:#000'>rotated</em>: me to gdshifty<br><em style='color:#000'>rosty63</em>: i reckon they missed 2 points for cotchin<br><em style='color:#000'>Grazz</em>: @LF and your quite clever mate&#044; dont sell your self short. I'll be cheering you from the sidelines in Champs next year <br><em style='color:#000'>matthius</em>: @remon tea - 170 exactly from jack & o'keefe. wait for the pre scaling lol<br><em style='color:#000'>howeydamus</em>: jpk supercoach&#044; HA!  i'll take it<br><em style='color:#000'>gdshifty</em>: im in front by 2 points in a league game. Whats the bet a score adjustment sees my team lose<br><em style='color:#000'>nugget1</em>: Ok gws I'll show myself out<br><em style='color:#000'>howeydamus</em>: jpk supercoach&#044; HA!  i<br>
+240226,Kieren,Jack,SY,56,128,146,168,90,126,18,8,2,10,0,0,0,2,0, Full Time,star,%P and %T plus %s,,,454000,117,533800,132,Centre,15,16,102.4,110.9,12.09,7.48
+291856,Tom,Mitchell,SY,31,112,106,139,93,122,13,13,6,4,0,2,1,2,2, Full Time,hot,%D and %M plus %s,,,388900,64,412900,64,Centre,6,7,100.4,99.3,45.87,47.40
+200071,Ryan,O'Keefe,SY,20,104,134,132,81,115,15,15,3,5,0,2,1,0,1, Full Time,hot,Tagged by Jackson... %P and %T with %M,,,516300,152,564500,161,Centre,5,16,102.5,107.3,6.42,2.95
+280762,Shane,Mumford,SY,32,103,123,121,92,116,1,17,5,6,29,1,1,0,0, Full Time,hot,%H and %D with %M and %T,,,331700,82,407300,81,Ruck,41,13,67.9,80.6,2.36,3.89
+250338,Nick,Smith,SY,21,91,108,116,70,90,13,7,4,4,0,4,0,1,0, Full Time,job,Minding Shane Edwards... %P and %T with %M and %s,,,244500,21,301300,16,Back,40,16,56.2,64.7,0.56,0.70
+290778,Luke,Parker,SY,10,85,70,110,65,88,16,6,5,2,0,1,0,0,1, Full Time,news,%O and %M plus %s,,,379500,82,428900,125,Centre,26,16,86.3,91,2.42,2.43
+270742,Kurt,Tippett,SY,17,79,90,96,67,83,6,7,5,3,0,0,0,3,2, Full Time,news,%s from %P and %G on Chaplin... %T as well,,,368800,94,437600,116,Forward,8,5,75.6,85.4,4.09,4.05
+290117,Daniel,Hannebery,SY,14,76,87,94,64,94,10,16,2,3,0,1,2,0,1, Full Time,tagged,Tagged by Conca... %O with %b by hand... also %T,,,426900,42,488800,37,Centre,4,16,95.6,102.1,4.99,7.72
+230132,Nick,Malceski,SY,13,74,86,100,50,72,16,2,2,4,0,0,0,0,0, Full Time,tagged,Forward tag by White... %P and %T,sore,Right shoulder knock in Q1 after he was flattened by Vickery... returned after a while,436700,93,490100,83,Back,9,16,87.8,94.9,9.63,6.26
+250212,Jesse,White,SY,17,73,103,88,67,82,10,4,5,0,0,1,2,4,1, Full Time,news,Booted %s from %P and %G on Rance,,,227400,25,269300,33,Forward,18,6,55.7,61.5,1.01,0.79
+230253,Jarrad,McVeigh,SY,8,71,77,91,55,79,16,7,2,1,0,1,1,0,1, Full Time,tagged,Forward tagged by Ellis... %P and %M plus %s,,,484600,98,537600,110,Centre,3,16,99.3,107.5,3.41,2.33
+261212,Craig,Bird,SY,8,71,71,91,54,73,15,5,3,1,0,2,0,0,1, Full Time,news,%P and %M plus %s,tagger,Tagging Deledio,429100,96,473000,114,Forward Centre,14,14,70.9,72.2,2.19,1.85
+210027,Ted,Richards,SY,9,66,99,80,56,75,6,13,4,2,0,2,0,0,0, Full Time,job,On Riewoldt... %D and %T with %M,,,221800,60,290300,62,Back,25,16,47.8,63.8,2.58,2.37
+990011,Jude,Bolton,SY,18,64,61,80,58,78,8,9,6,1,0,0,2,1,0, Full Time,news,%D and %M on Vlaustin,,,295200,56,343700,77,Forward Centre,24,16,65.3,72.4,2.71,3.56
+291544,Jed,Lamb,SY,10,57,50,71,48,61,7,5,5,1,0,0,0,1,1, Full Time,cash,%P and %M,,,194400,-1,232300,-27,Forward,11,8,39.9,44.1,3.17,3.98
+260382,Josh P.,Kennedy,SY,8,55,82,65,47,72,6,16,0,2,0,0,1,0,0, Full Time,news,%2 Tuck... %B among %D with %T,,,427900,69,498700,95,Centre,12,16,92.7,109.4,10.12,29.47
+261257,Andrejs,Everitt,SY,4,51,56,68,39,54,8,4,3,3,0,1,1,0,0, Full Time,news,%O,,,291800,67,319200,72,Forward,13,11,58,63.7,0.88,0.39
+290307,Dane,Rampe,SY,8,48,55,63,39,57,9,6,2,2,0,1,2,0,0, Full Time,job,Interesting matchup on Martin... %P and %M with %T,,,258100,50,333800,73,Centre,43,14,51.6,61.1,3.59,2.97
+240072,Heath,Grundy,SY,3,46,50,57,37,51,7,7,2,1,0,1,0,0,0, Full Time,job,Has Vickery... %O and %M,,,224300,44,287800,48,Back,39,16,55.8,64.9,1.39,1.42
+295906,Brandon,Jack,SY,9,45,56,58,35,45,4,3,3,3,0,0,0,1,0, Full Time,cash,%s from %O and %M on Morris... also %T,subbed,Subbed off in Q3 for Cunningham,176500,26,187100,42,Centre,33,5,44.8,44.8,4.51,4.06
+291206,Mike,Pyke,SY,10,36,45,41,35,43,1,5,2,1,10,0,1,1,0, Full Time,canada,%s from %P when forward on Petterd... also %H,,,341400,68,427300,60,Ruck,38,16,75.6,91.6,4.54,4.01
+291978,Harry,Cunningham,SY,0,12,6,16,9,12,3,0,1,0,0,0,0,0,0, Full Time,news,On in Q3 for Brandon Jack,sub,Started as a sub,102700,,109500,,Centre,7,1,10,15,0.62,0.51
+290847,Dustin,Martin,RI,23,112,126,68,90,124,18,12,4,3,1,0,1,2,0, Full Time,hot,%s from %O and %M with %T starting forward on Rampe,,,446100,55,474200,73,Forward Centre,4,16,97.8,102.8,42.84,37.12
+250298,Shaun,Grigg,RI,19,94,94,65,77,104,13,13,6,2,2,1,0,0,0, Full Time,news,%D and %M,,,399300,119,386500,108,Centre,6,16,90.2,80.1,0.41,0.47
+290823,Reece,Conca,RI,31,94,73,69,68,96,14,7,1,8,0,3,2,1,0, Full Time,news,%P and %T plus %s... also %F,tagger,Tagging Hannebery,344400,110,337700,119,Centre,30,10,76.3,75.4,0.37,0.58
+250312,Bachar,Houli,RI,14,91,93,47,69,90,18,4,6,2,0,3,0,0,0, Full Time,news,%P and %M,job,Running off Parker,407500,128,454700,146,Back,14,14,83.1,92.5,2.06,4.47
+250395,Jack,Riewoldt,RI,26,91,85,72,82,107,11,7,8,3,0,0,4,3,2, Full Time,news,%s from %D and %M on Richards,,,336000,62,392800,91,Forward,8,16,74.1,85.6,7.49,9.94
+270896,Trent,Cotchin,RI,14,91,99,53,70,102,15,15,1,3,0,1,0,0,0, Full Time,news,Slow start but lifted in Q2... %O and %T,,,454900,31,518500,76,Centre,9,15,96.3,110,20.85,27.18
+293713,Brandon,Ellis,RI,19,91,75,78,73,95,10,8,9,4,0,0,0,0,2, Full Time,tagger,Forward tag on McVeigh... %P and %M plus %s,,,333500,45,379400,77,Back,5,14,70.1,74.8,3.44,4.76
+240707,Daniel,Jackson,RI,20,88,56,57,74,100,14,8,7,2,0,0,2,1,1, Full Time,news,%O and %M with %T... also %s,tagger,Tagging O'Keefe,415500,64,475300,69,Centre,23,16,88.8,89.4,0.73,1.04
+240130,Nathan,Foley,RI,10,80,95,54,62,85,12,9,4,3,0,1,0,0,1, Full Time,news,%D and %T with %M and %s,,,372700,149,410600,158,Centre,41,10,70.1,70.3,0.21,0.26
+240336,Brett,Deledio,RI,19,80,75,67,67,94,9,12,6,4,0,0,2,0,1, Full Time,tagged,Tagged by Bird... %P and %M with %T,,,412300,120,464600,118,Centre,3,16,92.9,103.9,11.06,14.51
+200109,Shane,Tuck,RI,10,77,79,61,64,87,9,12,5,3,0,2,1,0,0, Full Time,news,%2 Kennedy... %O including %b by hand... also %T and %M,subbed,Subbed off in Q4 for Arnot,398900,154,453700,146,Centre,21,5,63.8,74.4,0.31,0.30
+240180,Troy,Chaplin,RI,13,77,72,58,63,84,10,9,7,2,0,0,0,0,0, Full Time,news,%D and %M,job,Has to play straight KP on Tippett,258100,32,322400,27,Back,25,15,57.2,66.1,0.87,0.73
+261362,Alex,Rance,RI,9,64,82,48,52,70,8,9,4,2,1,1,0,0,0, Full Time,news,%P and %M plus %T,job,Standing White,341000,6,468700,46,Back,18,16,71.5,88.5,1.75,2.00
+270941,Tyrone,Vickery,RI,10,59,56,40,51,62,8,4,5,0,4,1,0,1,1, Full Time,injured,%s from %P and %M on Grundy... copped a knock to the head in Q4 in a marking contest with O'Keefe and stretchered off,switch,Spent time loose in defence,329000,66,421900,110,Forward,29,15,65,78.1,3.78,3.55
+294674,Nick,Vlastuin,RI,9,55,67,37,49,75,8,13,2,2,0,0,3,0,0, Full Time,job,In defence on Bolton... %D and %T... %F as well,,,276500,43,315400,45,Back Centre,31,11,73.3,77.1,29.80,34.60
+240389,Matt,White,RI,13,52,72,20,42,60,12,3,2,1,0,0,2,1,0, Full Time,tagger,First goal... forward tag on Malceski... %P and %s,,,278800,44,235000,26,Centre,35,11,55.2,45.2,0.81,0.73
+240546,Ivan,Maric,RI,10,51,59,54,45,54,2,3,3,3,21,0,1,0,0, Full Time,news,Well beaten by the Mumford and Pyke combo... %H and %D with %T and %M,,,334200,73,467400,94,Ruck,20,13,74.3,96.4,6.57,10.26
+250360,Ricky,Petterd,RI,8,50,62,30,42,57,8,7,4,0,0,0,0,0,0, Full Time,witcheshat,Asked to play KP defender on the resting ruck which is mostly Pyke... lamb to the wolves given his height... %P and %M,sore,Pulled up sore with a groin problem in Q4,347300,16,351400,21,Forward,13,7,76.4,74.9,1.38,1.36
+260930,Shane,Edwards,RI,3,46,39,38,37,54,5,9,1,3,0,1,1,0,0, Full Time,news,%D on Smith,,,326800,64,381900,48,Forward,10,16,70.5,81.3,0.64,0.74
+210048,Chris,Newman,RI,2,37,40,19,30,45,7,6,1,1,0,0,1,0,0, Full Time,news,%P,,,313500,42,345600,72,Back,1,15,68.5,78.5,2.78,3.28
+260433,Steven,Morris,RI,2,29,28,15,24,33,5,5,1,0,0,1,0,0,0, Full Time,job,Brandon Jack is his man... %D,,,199600,58,251500,49,Back,38,15,39.2,49.4,1.10,1.25
+291835,Matthew,Arnot,RI,2,26,14,22,24,33,2,7,2,0,0,0,0,0,0, Full Time,news,On in Q4 for Tuck,sub,Started as a sub,142500,-3,170300,-6,Centre,44,3,50.3,65.7,2.47,3.09

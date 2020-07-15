@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Brisbane,Lions,R16,17.16.118,7.1.43, Full Time
+Jul 17,2010,2:10,Launceston,Fox Sports,220047,10281603,5015504,5191,Fine,15
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em title="NOZZAROX">nozzarox</em>: Sewell should keep his spot now<br><em title="NOZZAROX">nozzarox</em>: Go Skipper you bloody legend!<br><em>Red Unit</em>: I am very very red<br><em>cougar37</em>: kicking 4.5 and not getting the ton is a first.<br><em>The Bomber</em>: when is PNG decided<br><em>Romacrow98</em>: missed it by 1 point :(((<br><em>ben_benny</em>: lewis got 170<br><em>Stingers</em>: m0nty said he was going to  ban me so i better not do  it :l<br><em>tigermania</em>: thanks browny&#044; worth the wait. won't get much better next week against geelong<br><em>greco272</em>: lucky brissy kicked stright <br><em>Stingers</em>: ha guys soz about what i about nto do<br><em>cdrobert</em>: spuds<br>
+250089,Jordan,Lewis,HW,43,145,170,180,121,150,14,12,11,5,0,2,0,4,0, Full Time,star,%s from %P and %M on a HFF doing a forward tag on Johnstone... three of those majors in Q1... also %T
+220047,Luke,Hodge,HW,31,126,157,161,97,142,21,18,2,6,0,2,2,0,1, Full Time,gun,Tagged by Polkinghorne... %O and %T with %M and %s
+230197,Brad,Sewell,HW,32,124,132,150,105,151,9,30,5,6,0,0,1,0,1, Full Time,in,%l Lance Franklin (ankle)... tagging Brennan... %P and %T
+210062,Wayde,Skipper,HW,31,117,149,144,96,119,13,9,6,4,16,3,0,1,1, Full Time,hot,%H and %D with %M
+210012,Shaun,Burgoyne,HW,33,113,109,148,86,126,15,15,4,8,0,0,2,0,0, Full Time,x-factor,%D including %B with %T... his silky smooth clearance work stood out
+250257,Xavier,Ellis,HW,31,108,104,138,84,114,12,12,6,6,0,0,0,1,0, Full Time,hot,%O and %T plus %M and %s
+220073,Sam,Mitchell,HW,30,105,131,129,83,123,12,23,0,6,0,2,1,0,0, Full Time,hot,Tagged by Rockliff... %B among %O with %T
+200060,Brent,Guerra,HW,18,93,92,119,76,101,17,8,7,1,0,2,1,0,2, Full Time,job,Minding Banfield... %O and %M plus %s
+240357,Jarryd,Roughead,HW,22,92,91,114,82,98,12,2,8,1,0,1,2,4,5, Full Time,news,First goal... %s from %G and %P on Merrett
+260955,Cyril,Rioli,HW,31,89,95,120,64,93,13,6,2,8,0,0,2,1,0, Full Time,news,Started on a HFF on Rich... %O and %T with %s
+250055,Clinton,Young,HW,26,87,95,110,70,91,11,5,4,4,0,0,1,3,1, Full Time,news,%P and %s
+220013,Campbell,Brown,HW,19,72,81,92,58,75,10,5,6,2,0,0,0,1,0, Full Time,job,Playing back on Sherman... %D and %s
+250308,Brent,Renouf,HW,16,72,89,88,60,73,2,8,4,5,15,2,0,0,1, Full Time,sore,%H and %P... left ankle knock in Q3
+270854,Carl,Peterson,HW,22,71,69,96,52,69,9,2,4,6,0,1,1,1,0, Full Time,news,Maguire kept him very quiet early but much better in Q3... %s from %O and %T
+280471,Ben,Stratton,HW,9,71,94,88,59,81,6,13,5,3,0,0,0,0,0, Full Time,job,Going with Staker... %P
+240302,Grant,Birchall,HW,13,67,68,86,53,76,8,10,3,4,0,0,1,0,1, Full Time,job,Midning Buchanan... %P
+210092,Michael,Osborne,HW,10,61,62,77,50,66,7,7,3,3,0,2,1,1,0, Full Time,news,%s from %D and %M
+250146,Thomas,Murphy,HW,9,58,52,77,48,63,8,4,7,2,0,0,1,0,0, Full Time,news,%M and %P
+250715,Josh,Gibson,HW,7,46,74,55,39,54,5,10,2,1,0,1,0,0,0, Full Time,job,Has Brown... %D
+261386,Brendan,Whitecross,HW,3,44,30,59,32,42,6,2,3,3,0,1,0,0,0, Full Time,tagger,Forward tag on McGrath... %T
+230082,Stephen,Gilham,HW,3,39,65,47,33,45,6,7,2,0,0,1,0,0,0, Full Time,job,Standing Fevola... %P
+200040,Chance,Bateman,HW,3,36,48,45,27,39,5,5,0,2,0,0,0,0,3, Full Time,sore,Tagging Power... %D and %T wiht %s... hammy tweak in Q4
+230015,Jared,Brennan,BL,27,102,115,71,73,105,17,6,4,8,0,1,2,0,0, Full Time,hot,Tagged by Sewell... %P and %M plus %T
+980011,Luke,Power,BL,21,96,115,70,75,99,13,9,5,4,0,2,0,1,0, Full Time,tagged,Tagged by Bateman... %D and %M plus %s
+240712,Michael,Rischitelli,BL,21,94,89,78,71,99,11,11,5,6,0,0,0,0,0, Full Time,news,%D and %M with %T
+250335,Matthew,Leuenberger,BL,17,83,80,74,71,87,6,7,3,3,30,0,0,0,0, Full Time,news,%H and %P
+270919,Tom,Rockliff,BL,18,76,90,69,55,79,7,12,0,7,1,2,0,0,0, Full Time,tagger,Tagging Mitchell... %P and %T
+271072,Daniel,Rich,BL,24,76,58,66,51,75,9,7,1,8,0,0,0,0,0, Full Time,job,On a HBF on Rioli... %D and %T
+240393,Mitchell,Clark,BL,27,71,64,77,61,86,4,9,2,8,17,1,5,0,0, Full Time,news,%H and %D
+281373,Jack,Redden,BL,14,71,70,52,57,81,10,10,3,4,0,2,2,0,0, Full Time,news,%P
+270512,Pearce,Hanley,BL,10,62,35,54,47,63,7,5,5,4,0,0,0,0,0, Full Time,news,%P and %T with %M
+210045,Amon,Buchanan,BL,11,54,33,42,47,63,7,5,5,2,0,0,2,1,0, Full Time,news,%D and %M
+230170,Joel,Patfull,BL,5,54,61,50,43,57,5,6,5,3,0,0,0,0,0, Full Time,news,%O and %M
+260975,James,Polkinghorne,BL,8,52,68,54,39,57,3,10,1,5,0,0,0,0,0, Full Time,tagger,Tagging Hodge... %O and %T
+980050,Travis,Johnstone,BL,8,52,44,41,44,63,6,10,3,2,0,0,1,0,0, Full Time,tagged,Forward tag on him by Lewis... %P
+230211,Brent,Staker,BL,10,51,61,41,39,51,6,4,2,3,0,1,0,1,0, Full Time,news,%s from %P with %T on Stratton
+220062,Matt,Maguire,BL,8,50,51,40,41,51,7,1,7,2,0,1,1,0,0, Full Time,job,On Peterson... %O and %M
+200007,Jonathan,Brown,BL,14,48,74,39,44,51,4,4,3,0,0,1,0,3,0, Full Time,news,Gibson going with him... no stats in Q1... %s from %D
+210013,Ashley,McGrath,BL,4,43,32,14,38,54,11,3,4,0,0,1,3,0,0, Full Time,tagged,Forward tag on him by Whitecross... %P and %M
+230147,Daniel,Merrett,BL,8,38,25,36,30,42,4,4,2,4,0,2,2,0,0, Full Time,job,Standing Roughead... %D and %F
+240325,Justin,Sherman,BL,3,33,33,30,26,36,3,5,2,2,0,0,0,0,0, Full Time,news,Brown on him... %D and %M
+250419,Tom,Collier,BL,2,26,26,22,19,24,3,2,1,2,0,2,0,0,0, Full Time,news,%D
+271071,Todd,Banfield,BL,1,21,20,20,15,21,2,2,1,2,0,0,0,0,0, Full Time,news,Guerra on him... %O
+990022,Brendan,Fevola,BL,7,14,14,10,16,21,2,1,2,0,0,0,2,1,0, Full Time,crab,Gilham kept him nearly statless in the first half... kicked %s from %P and %G

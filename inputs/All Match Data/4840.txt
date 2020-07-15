@@ -1,0 +1,48 @@
+Essendon,Bombers,St Kilda,Saints,R5,9.11.65,11.15.81, Full Time
+Apr 19,2014,7.40,Docklands,Seven,200071,10420504,ess-v-stk,0,Roof closed,17,,
+
+<em style='color:#000'>Luke919</em>: why is merrett's SC so shower<br><em style='color:#000'>matthius</em>: merrett went at 84% efficiency. his sc is a disgrace. clearly they dont have him in their team<br><em style='color:#000'>carlton_99</em>: whats with chappies sc <br><em style='color:#000'>Ewoks</em>: wtf watson you planning on playing a full game next week?<br><em style='color:#000'>rooboypete</em>: I prefer the Robert Powell version...<br><em style='color:#000'>torres</em>: atlas for stanton<br><em style='color:#000'>runt</em>: Good win to St-Kilda. Looking forward to playing them next week<br><em style='color:#000'>old_shepp</em>: Merrett has been smashed by the SC Scorers<br><em style='color:#000'>Kennedy31</em>: Sun for Billings<br><em style='color:#000'>Heizenberg</em>: How long left? <br><em style='color:#000' title="TIMWHATSON">timwhatson</em>: wheres Dunstan?<br><em style='color:#000'>The39Steps</em>: And studied the book.<br>
+240027,Brent,Stanton,ES,37,136,102,173,110,144,20,9,9,4,0,0,1,3,0, Full Time,hot,%P and %M plus %T... %s as well,,,555900,88,517900,65,Midfielder,5,4,106.3,103.8,2.15,0.70,1.23,545249,95
+270588,Cale,Hooker,ES,31,131,114,169,108,138,19,10,15,2,0,1,0,0,0, Full Time,hot,%D and %M with %T,switch,On Stanley... Went forward with effect in Q4...,432300,61,459200,67,Back,26,4,99.8,105,4.26,1.88,7.03,447250,73
+290160,Michael,Hibberd,ES,25,116,112,149,96,123,18,9,13,1,0,1,0,0,0, Full Time,hot,%M and %O,job,Has Templeton...,476400,70,505600,74,Back,1,4,95.8,96.8,4.53,3.40,9.54,476328,83
+200039,Paul,Chapman,ES,25,110,82,140,88,119,14,13,8,4,0,0,0,0,2, Full Time,gun,Dempster manning him... %s from %O and %M plus %T,,,461100,9,495800,51,Forward Midfielder,3,3,116.7,116.3,15.47,12.54,23.44,470891,34
+294798,Mark,Baguley,ES,21,101,96,133,84,108,15,6,13,2,0,0,1,0,0, Full Time,hot,%O including %K... also %M and %T,,,385500,18,411000,11,Back,12,4,84,90.8,0.37,0.60,0.52,374529,49
+270935,Michael,Hurley,ES,19,92,92,119,78,102,14,8,11,1,0,0,1,0,0, Full Time,news,%D and %M,job,Big job on Riewoldt...,327200,53,356600,62,Forward,18,4,66.8,69,1.11,1.42,1.59,341915,69
+250267,Patrick,Ryder,ES,23,90,100,106,78,90,8,5,4,2,25,3,0,1,2, Full Time,news,%H... also %D and %M with %T... %s as well... umps paid him %4FF,,,447600,132,486400,137,Ruck,30,2,57,67,1.96,2.63,2.25,413176,110
+230231,Jobe,Watson,ES,15,87,75,104,74,105,9,20,4,2,0,0,0,0,0, Full Time,news,%2 Montagna... %P and %M plus %T,,,539900,123,585300,123,Midfielder,4,4,111.8,118.3,26.34,19.61,33.95,579973,126
+261314,David,Myers,ES,20,87,85,109,71,93,12,9,6,2,0,1,0,1,0, Full Time,news,First goalscorer... %O and %M plus %T... %s as well,,,434000,56,420100,53,Midfielder,23,3,95,95.3,0.25,0.41,0.26,445297,69
+280824,Jake,Melksham,ES,21,86,85,110,67,84,11,4,5,4,0,2,0,2,0, Full Time,news,Geary on him... %O including %K... also %M and %T... and scored %s,,,427600,76,403300,80,Midfielder,17,2,79.5,72,0.18,0.27,0.16,419175,81
+295285,Jackson,Merrett,ES,14,85,58,110,68,90,11,8,8,3,0,0,0,0,0, Full Time,news,%D and %M with %T,,,386900,14,366500,4,Forward,20,4,100.8,94.8,20.95,15.76,21.94,382972,43
+960197,Dustin,Fletcher,ES,13,84,82,108,66,90,18,6,6,0,0,0,0,0,0, Full Time,news,%O including %K... also %M,job,On Schneider...,340900,19,377200,16,Back,31,3,78.7,87.7,1.12,1.17,1.80,350200,43
+260073,Ben,Howlett,ES,14,82,64,103,67,88,9,11,6,3,0,2,0,0,1, Full Time,news,%s from %P and %M plus %T,,,407500,56,394200,67,Forward Midfielder,40,4,86.8,82.5,1.47,1.41,2.26,418172,72
+297438,Martin,Gleeson,ES,10,82,73,103,66,91,12,11,5,2,0,0,0,0,1, Full Time,news,%O and %M plus %T... %s as well,cash,,207900,-17,192500,-22,Midfielder,35,4,64.8,60.5,2.14,2.06,5.89,183069,-11
+270951,David,Zaharakis,ES,13,79,69,98,67,90,10,12,7,1,0,0,0,0,0, Full Time,news,%D and %M,,,439600,84,407600,106,Midfielder,11,4,87,71.8,2.73,2.92,3.53,454005,91
+250352,Leroy,Jetta,ES,9,44,45,53,38,49,6,4,1,1,0,1,1,2,1, Full Time,news,Webster on him... %s from %O,,,277900,,248800,,Forward,7,1,52,52,0.52,0.63,0.67,259200,45
+290629,Dyson,Heppell,ES,7,43,57,57,38,60,9,8,1,2,0,1,4,0,0, Full Time,tagged,Forward tag from Curren... %D and %T... not helped by %F,,,551900,39,507900,35,Midfielder,21,4,125.5,109.5,2.67,2.42,5.43,553851,77
+250569,Heath,Hocking,ES,13,39,46,53,28,42,1,6,1,6,0,0,1,0,0, Full Time,tagger,Tagging Steven... %O with %b by hand... also %T,subbed,Subbed off in Q3...,396900,60,416200,48,Midfielder,39,4,73.3,85.3,0.34,0.64,0.45,386772,73
+294470,Jason,Ashby,ES,4,39,43,51,31,45,6,5,2,2,0,0,1,0,0, Full Time,news,Subbed on in Q3... %O and %M plus %T,sub,Started the sub...,119200,-47,123900,-29,Back,14,2,56,49,1.02,1.34,0.82,156788,1
+294518,Joe,Daniher,ES,7,39,35,51,37,48,4,5,6,1,0,1,2,0,0, Full Time,news,Gwilt on him... %D and %M,,,287700,11,302000,25,Forward,6,4,70.5,68,9.41,13.10,10.92,287929,32
+270584,Kyle,Hardingham,ES,3,37,32,50,26,35,5,1,2,3,0,0,0,0,2, Full Time,sore,Hamstring tightness late in Q3... %O with %k by foot... also %T and %M... and kicked %s,,,317600,67,345000,79,Back,34,4,63.5,67.3,0.43,0.50,0.76,327297,70
+290641,Jake,Carlisle,ES,2,30,26,35,30,40,2,7,3,0,4,0,1,0,0, Full Time,news,Delaney on him... %O including %B... also %M,,,405800,67,425100,94,Back,22,4,84.5,84,2.26,3.22,3.24,400968,69
+220075,Leigh,Montagna,SK,37,135,140,86,100,138,23,8,6,7,0,1,1,1,0, Full Time,cherry,%2 Watson... %O with %k by foot... also %T and %M... and kicked %s,,,571300,145,579700,143,Midfielder,11,3,93,94,0.82,0.58,1.60,585303,140
+990028,Lenny,Hayes,SK,25,117,128,95,96,134,13,19,7,5,2,0,1,0,0, Full Time,magnet,%D and %M with %T,,,456100,84,482300,97,Midfielder,7,3,81.7,91,0.28,0.32,0.42,448938,88
+210001,Nick,Riewoldt,SK,36,111,116,79,97,112,14,3,10,0,0,2,0,5,1, Full Time,star,Hurley on him... Booted %s from %G and %P,,,571000,120,584900,120,Forward,12,4,116.8,122.5,14.90,9.77,16.54,585883,112
+220098,Adam,Schneider,SK,22,102,85,61,78,105,18,4,5,4,0,0,1,2,0, Full Time,hot,Fletcher on him... %s from %O and %M plus %T,,,296300,,323300,,Forward,13,0,0,0,0.48,0.23,0.31,312300,58
+250703,James,Gwilt,SK,19,101,100,49,82,105,21,3,11,0,0,2,1,0,0, Full Time,job,Manning Daniher... %P with %k by foot... also %M,heart,Fell heavily and pulled up sore in Q3... But played a pivotal role when it was on the line...,320800,45,406800,65,Back,33,4,74.3,90.5,1.11,0.86,2.48,335213,57
+280317,Rhys,Stanley,SK,21,100,92,71,88,109,14,7,13,0,7,1,1,0,0, Full Time,hot,Hooker has him... %M and %D,,,285400,7,319900,19,Back,28,4,64.3,68.3,0.69,0.62,0.78,264972,25
+291773,Jack,Newnes,SK,14,88,90,67,71,96,11,12,6,3,0,1,0,0,0, Full Time,news,%O and %M plus %T,,,373100,52,374500,49,Midfielder,16,4,83,88,0.50,0.65,0.50,373843,60
+296351,Jack,Billings,SK,19,88,101,61,74,94,12,7,7,1,0,0,0,2,1, Full Time,news,%s from %O and %M,bubble,,202800,,207300,,Forward Midfielder,15,1,14,14,6.34,8.87,3.09,257400,69
+260113,Jarryn,Geary,SK,19,84,106,50,70,94,14,8,6,1,0,0,1,1,1, Full Time,news,%P and %M plus %s,job,Has Melksham...,354300,75,398200,70,Back,14,4,61.5,70,0.70,0.50,0.60,358064,77
+240062,Farren,Ray,SK,9,80,78,29,63,88,19,5,4,1,0,2,2,0,1, Full Time,news,%O including %K... also %M... and scored %s,,,469900,64,470800,53,Midfielder,22,4,99.5,103.3,0.23,0.23,0.28,471631,78
+295477,Josh,Saunders,SK,19,77,72,76,57,79,6,10,3,7,0,1,0,0,1, Full Time,news,%D and %M with %T... %s as well,,,258400,27,258800,31,Midfielder,35,4,64.5,70.5,1.01,2.58,1.18,270144,38
+270912,Jack,Steven,SK,9,73,82,39,62,86,13,10,5,0,0,0,1,0,2, Full Time,tagged,Tagged by Hocking... %D and %M plus %s,,,536600,,593100,,Midfielder,3,1,82,80,0.41,0.40,0.48,532400,109
+261743,Clinton,Jones,SK,19,71,65,79,54,75,3,12,3,7,0,1,0,0,0, Full Time,news,%D with %b by hand... also %T and %M,,,446300,77,444200,119,Midfielder,4,4,100.3,94.5,0.49,0.50,1.02,475747,90
+230243,Sean,Dempster,SK,12,69,61,48,57,75,10,7,7,1,0,0,0,0,0, Full Time,job,Chapman is his man... %M and %O,,,382500,71,422800,71,Back,24,4,84,98,1.10,2.17,2.10,396535,71
+294429,Luke,Dunstan,SK,13,67,52,53,57,78,8,10,6,2,0,0,1,0,0, Full Time,news,%O and %M plus %T,cash,,277200,-32,286800,-38,Midfielder,36,4,90.5,90.5,43.96,49.15,28.27,321439,27
+290757,Jimmy,Webster,SK,8,63,92,33,52,72,11,10,3,0,0,1,0,0,0, Full Time,job,Has Jetta... %M and %D,,,234700,41,246400,36,Back,29,3,45.7,52.3,1.98,7.02,1.19,234417,44
+291492,Josh,Bruce,SK,13,62,69,48,52,69,8,7,6,2,0,1,1,0,0, Full Time,news,%P and %M plus %T,,,280600,,282400,,Back,27,0,0,0,0.22,0.29,0.13,278400,51
+294266,Tom,Hickey,SK,15,60,64,62,57,71,1,10,1,2,29,0,1,0,0, Full Time,news,%H... also %D and %T,,,317200,16,357600,9,Ruck,1,3,81,96,12.07,9.92,13.76,344290,46
+291518,Thomas,Curren,SK,5,52,61,39,43,60,7,7,4,2,0,0,1,0,0, Full Time,tagger,Forward tagging Heppell... %P and %M plus %T,,,285500,80,317000,83,Midfielder,26,4,50.8,55,0.34,0.40,0.40,312679,79
+270303,Luke,Delaney,SK,3,39,40,34,33,42,4,4,5,1,0,0,0,0,0, Full Time,job,Has Carlisle... %M and %O,,,265600,73,268600,72,Back,21,4,50.3,44.5,0.54,0.67,0.92,258534,57
+296208,Eli,Templeton,SK,2,27,25,21,24,31,3,4,3,0,0,0,0,0,1, Full Time,cash,Hibberd on him... %D and %M plus %s,subbed,Subbed off in Q4...,198300,7,208900,11,Midfielder,43,4,53.8,55.8,2.28,2.50,7.66,179903,9
+293846,Sebastian,Ross,SK,2,25,11,22,18,24,3,1,2,2,0,0,0,0,0, Full Time,news,Subbed on in Q4... %D and %T,sub,Started the sub...,307600,,296200,,Midfielder,6,0,0,0,0.24,0.32,0.15,305200,56

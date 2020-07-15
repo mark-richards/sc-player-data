@@ -1,0 +1,48 @@
+West Coast,Eagles,Carlton,Blues,R4,7.23.65,12.17.89, Full Time
+Apr 20,2013,7.40,Subiaco,Seven,240283,10390405,wce-v-carl,0,A shower or two,22,,
+
+<em>The captai</em>: Surely Murphy wasn't that ineffective that he lost 20 sc points...<br><em>Hawks_13</em>: anyone know what the sc scores are<br><em>Hawkey86</em>: sc?<br><em>goodes=god</em>: C.Judd 3 votes<br><em>outandover</em>: Thanks for flower all Cox!<br><em>spudaroos</em>: Brock gets the X factor.<br><em>tracygrims</em>: cox 88.. how did he manage that..<br><em>Drak</em>: i dont even barrack for Carlotn either<br><em>HawkTalker</em>: wow Eagles. Way to lose two games at home by round 4<br><em>Drak</em>: i just mean from a solidarity point of view and new coaching structure. they will hit thier stride now<br><em>ballbag</em>: @drak check out their fixture<br><em>Bazinga</em>: Judd 3 votes<br>
+270928,Scott,Selwood,WC,33,127,128,164,96,133,17,15,4,8,0,4,1,0,1, Full Time,hot,%P and %M plus %s,tagger,Tagging Murphy,504600,70,533200,121,Centre,10
+261290,Chris,Masten,WC,20,109,95,137,87,117,16,14,6,3,0,3,0,0,0, Full Time,hot,%O on White... also %T and %M,,,449900,53,495200,60,Centre,7
+240119,Mark,LeCras,WC,22,103,124,132,81,109,16,7,5,4,0,0,1,2,1, Full Time,hot,%s from %D and %T on Tuohy... also %M,,,355400,47,369200,44,Forward,2
+280078,Luke,Shuey,WC,20,101,117,129,76,104,15,9,3,5,0,1,0,1,2, Full Time,hot,%2 Judd... %D and %M plus %s,,,471700,81,516400,118,Centre,13
+240124,Matt,Priddis,WC,24,89,104,114,67,99,10,15,1,7,0,1,1,0,0, Full Time,news,%O and %T,carrot,Tagged by Carrazzo,484300,96,576300,107,Centre,11
+290838,Jack,Darling,WC,19,81,84,102,69,86,10,6,9,1,0,0,0,1,2, Full Time,news,%s from %P and %M on Jamison,,,374600,41,425700,42,Forward,27
+200112,Dean,Cox,WC,16,75,96,90,65,77,8,3,3,2,29,2,1,0,0, Full Time,news,%H and %P,,,512200,83,613700,75,Ruck,20
+240406,Josh J.,Kennedy,WC,20,73,68,98,56,75,7,5,6,6,1,0,1,0,2, Full Time,news,%s from %P and %M on Henderson... also %T,,,335700,-11,374700,-17,Forward,17
+280324,Jacob,Brennan,WC,13,70,58,92,54,72,10,5,6,3,0,0,0,0,0, Full Time,news,%P and %M,job,Has Lucas,249100,,266800,,Back,14
+210018,Daniel,Kerr,WC,14,69,92,84,57,81,8,13,1,3,0,1,1,1,0, Full Time,tagged,Tagged by Scotland... %O and %T plus %s,,,384100,,476900,,Centre,4
+261214,Will,Schofield,WC,4,60,76,79,46,61,12,2,5,1,1,0,0,0,0, Full Time,news,%P and %M,job,Standing Rowe,283600,111,349300,124,Back,31
+240159,Sam,Butler,WC,9,59,53,78,43,60,8,5,3,4,0,0,0,0,0, Full Time,job,Minding Robinson... %D,,,362400,86,391500,90,Back,26
+240283,Shannon,Hurn,WC,4,54,86,71,42,58,10,4,3,2,0,1,1,0,1, Full Time,tagged,Forward tag on him by Armfield... %P,,,369000,121,466700,137,Back,25
+294737,Callum,Sinclair,WC,4,51,55,60,46,56,7,7,2,0,6,5,1,0,2, Full Time,cash,%s from %P... also %H,,,105300,-52,112200,-55,Ruck Forward,22
+290801,Andrew,Gaff,WC,8,47,54,56,39,52,8,6,1,0,0,1,0,1,1, Full Time,tagged,Tagged by Curnow... %D,,,415900,116,448300,126,Centre,3
+200074,Darren,Glass,WC,4,46,35,61,37,51,9,3,4,1,0,0,1,0,0, Full Time,news,%D,sore,Left shoulder wrenched in Q1,241300,89,322100,112,Back,23
+290826,Jamie,Cripps,WC,9,46,30,62,36,49,4,4,4,4,0,0,1,0,1, Full Time,news,%s from %O and %M on Walker,subbed,Subbed off in Q3 for Dalziell,248400,72,235900,94,Forward,15
+250317,Eric,Mackenzie,WC,13,38,61,57,28,45,4,3,1,7,0,1,4,0,0, Full Time,job,On Hampson... %O and %T... also %F,,,256100,,345100,,Back,16
+250034,Ashton,Hams,WC,9,34,38,44,28,37,4,2,2,2,0,0,1,1,1, Full Time,news,%s from %P,,,271800,68,340100,71,Forward,43
+261209,Josh,Hill,WC,2,33,52,45,24,33,7,1,1,2,0,2,1,0,0, Full Time,news,%P on Gibbs,,,335400,43,406700,32,Forward,33
+260546,Bradd,Dalziell,WC,3,32,25,43,23,31,3,2,2,3,0,0,0,0,1, Full Time,news,On in Q3 for Cripps,sub,Started as a sub,185500,,252500,,Centre,18
+230254,Adam,Selwood,WC,1,21,22,27,18,27,5,3,1,0,0,0,1,0,0, Full Time,job,Minding Yarran... %D,,,280500,51,275600,42,Centre,37
+250105,Marc,Murphy,CA,36,116,98,89,89,129,17,11,6,9,0,1,4,0,0, Full Time,gun,%P including %b by hand... also %T and %M... %F as well,scooter,Tagged by Scott Selwood,517500,111,582300,139,Centre,3
+240028,Brock,McLean,CA,26,105,127,82,87,121,12,17,5,4,0,0,1,1,1, Full Time,hot,%O and %M with %T and %s,,,470900,143,513400,160,Centre,14
+270653,Jeff,Garlett,CA,25,96,125,75,70,96,12,9,1,7,0,2,0,1,3, Full Time,news,%s from %D,,,355900,17,407700,50,Forward,38
+250417,Bryce,Gibbs,CA,14,93,95,63,73,97,14,9,6,3,0,2,0,0,1, Full Time,news,%P and %T with %M,job,Responsible for Hill,484700,114,522600,129,Centre,4
+271110,Chris,Yarran,CA,22,92,131,65,71,88,13,1,2,5,0,3,1,4,1, Full Time,star,%s from %D and %T starting forward again on Adam Selwood... three big ones in Q2,,,324700,33,363200,52,Back,13
+990059,Heath,Scotland,CA,15,82,83,59,68,97,12,11,5,4,0,1,3,0,1, Full Time,news,%O and %T with %M and %s,tagger,Tagging Kerr,493400,,535600,,Back,29
+281079,Kane,Lucas,CA,16,80,93,56,67,89,11,9,5,2,0,1,1,1,2, Full Time,news,%s from %P and %T with %M,,,273700,8,253600,3,Centre,9
+240014,Andrew,Walker,CA,15,78,109,38,63,84,15,6,5,0,0,0,0,1,0, Full Time,news,%P and %M,job,Responsible for Cripps,393900,70,464400,68,Forward,1
+220015,Andrew,Carrazzo,CA,14,77,82,59,59,87,10,12,2,5,0,0,1,0,0, Full Time,tagger,Tagging Priddis.... %O and %T,,,423800,158,467900,167,Centre,44
+230202,Kade,Simpson,CA,15,69,72,51,59,81,8,13,2,2,0,2,1,1,0, Full Time,news,%B among %D,,,445000,141,456200,155,Centre,6
+290311,Mitch,Robinson,CA,14,69,78,50,54,72,9,8,2,3,0,2,0,1,0, Full Time,news,%O with %T and %M on Butler,,,435900,96,428500,98,Centre,12
+270737,Shaun,Hampson,CA,11,66,78,44,58,77,10,5,4,2,14,1,3,0,0, Full Time,news,%D and %M with %T... also %H and %F,,,334500,89,378200,80,Ruck,22
+270146,Ed,Curnow,CA,13,63,79,53,51,78,6,16,0,4,0,0,1,0,0, Full Time,news,%D and %T,tagger,Tagging Gaff,361200,,390000,,Centre,35
+292511,Zach,Tuohy,CA,8,63,66,38,46,66,11,6,2,3,0,0,0,0,0, Full Time,job,Minding LeCras... %O and %M,,,237500,43,298500,35,Back,42
+260278,Sam,Rowe,CA,14,62,68,49,53,64,7,4,6,1,1,1,0,1,3, Full Time,cash,First goal... %s from %P and %G on Schofield,,,108500,-62,115900,-73,Forward,17
+250672,Robert,Warnock,CA,9,58,70,48,48,59,6,3,2,3,17,2,1,0,0, Full Time,news,%H and %P with %M,,,285600,,351800,,Ruck,11
+220056,Chris,Judd,CA,6,52,60,31,42,61,8,10,1,1,0,0,0,0,1, Full Time,news,%2 Shuey... %D,,,462700,97,556800,109,Centre,5
+261043,Michael,Jamison,CA,8,48,87,31,44,63,8,7,5,1,0,0,3,0,0, Full Time,job,Has Darling... %O... also %F,,,267400,40,335400,53,Back,40
+270326,Lachie,Henderson,CA,5,46,69,33,37,51,7,4,4,2,0,0,1,0,0, Full Time,job,Following Kennedy... %P and %M,,,276500,71,341400,89,Back,23
+270637,Simon,White,CA,2,32,44,20,27,36,5,4,3,0,0,0,0,0,0, Full Time,job,On Masten... %D and %M,subbed,Subbed off in Q4 for Joseph,244200,,291100,,Back,43
+260533,Dennis,Armfield,CA,8,29,28,30,24,33,1,6,0,2,0,0,0,1,0, Full Time,tagger,Forward tag on Hurn... %s from %P,,,305900,87,327900,86,Centre Forward,27
+261318,Aaron,Joseph,CA,0,10,8,8,9,12,1,2,1,0,0,0,0,0,0, Full Time,news,On in Q4 for White,sub,Started as a sub,247300,66,267900,63,Centre,45

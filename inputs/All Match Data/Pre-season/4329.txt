@@ -1,0 +1,52 @@
+Adelaide,Crows,Carlton,Blues,W3,4.11.7.109,2.13.10.106, Full Time
+Mar 08,2013,8.40,Footy Park,Fox Sports,,10380302,,0,Possible late shower,36,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>J.Worrall</em>: Too old&#044; too St Andrews<br><em>bebobagger</em>: scotland 55 points in a quarter and a bit of footy! still got left in the tank for a good yr after his 2 week suspension<br><em>J.Worrall</em>: yeah Brock!<br><em>I<3Sausage</em>: full strength team&#044; home game&#044; carlton arent full strength and nearly lose HAHA bottom 10 team this year<br><em>I<3Sausage</em>: this is embarrasing by the crow<br><em>J.Worrall</em>: .. on pressure points?<br><em>Meldrum23</em>: yeah they were pressure touches..<br><em>J.Worrall</em>: 25 pressure touches?<br><em>johnkay</em>: Crows run too hard in the 3rd?<br><em>Meldrum23</em>: yeah Judds finished he only averaged 25 touches last year.<br><em>J.Worrall</em>: Judd's past it - good for chicken wings and pressure points only ...<br><em>I<3Sausage</em>: Whats up with Murphy? Its NAB Cup thats whats up//<br>
+250118,Nathan,van Berlo,AD,31,94,95,126,67,93,13,5,3,8,0,1,1,1,0, Full Time,news,%2 Simpson... %D and %T with %M and %s,,
+280506,Taylor,Walker,AD,24,83,130,103,72,90,11,5,7,1,0,0,1,3,0, Full Time,news,%s from %P and %G on Jamison plus two supergoals,,
+210016,Scott,Thompson,AD,19,76,98,96,64,97,10,16,2,4,0,0,3,0,1, Full Time,news,%D including %b by hand ... also %T plus %s... Curnow hanging around him at times,,
+261142,Bernie,Vince,AD,9,69,97,90,57,81,14,7,5,1,0,0,2,0,0, Full Time,news,%P and %M plus a supergoal,,
+220086,Brent,Reilly,AD,12,66,84,86,57,78,13,6,7,0,0,0,2,0,0, Full Time,news,%O and %M,job,Interesting role on Walker
+291201,Ricky,Henderson,AD,14,66,77,89,53,72,9,5,6,4,0,1,2,0,0, Full Time,news,Started on a wing... %D and %M... also %T and %F,,
+294307,Brad,Crouch,AD,18,66,82,84,56,72,10,5,6,1,0,1,1,1,0, Full Time,news,Started slowly but his endurance was a feature of his game as he was still going late in Q4... %P and %M plus %s,,
+240370,Richard,Douglas,AD,15,65,77,85,50,66,9,4,3,4,0,2,1,1,0, Full Time,news,%s from %P and %M starting forward on Tuohy... also %T,,
+270917,Patrick,Dangerfield,AD,19,61,89,77,51,73,6,10,2,4,1,0,2,1,0, Full Time,tagged,Tagged by Armfield... %O and %s... also %F including two HTBs in Q1 run down by Armfield both times,subbed,Subbed off in Q4 for Martin
+294828,Josh,Jenkins,AD,12,59,94,71,49,59,6,4,2,2,5,2,0,2,0, Full Time,news,%s from %D on Henderson... also %T,,
+261351,Matthew,Jaensch,AD,5,57,77,76,44,57,11,2,4,2,0,3,1,0,0, Full Time,job,Responsible for Betts... %D and %M,,
+230174,Jason,Porplyzia,AD,9,55,46,74,40,52,5,3,4,5,0,1,0,0,1, Full Time,news,Dugian on him... %s from %D and %T with %M,,
+270963,Rory,Sloane,AD,4,47,74,60,39,53,4,7,3,3,1,1,1,0,1, Full Time,news,Started forward but quickly rotated to midfield... %P and %T with %M and %s,,
+270811,Sam,Jacobs,AD,8,46,82,54,43,55,5,5,1,1,19,1,2,0,0, Full Time,news,%H and %P... also %F and a supergoal,,
+250362,David,Mackay,AD,7,45,94,61,35,54,12,4,0,2,0,2,3,0,0, Full Time,job,Matched up on Robinson most often... %O,,
+220093,Ben,Rutten,AD,3,42,46,54,34,42,6,3,4,1,0,2,0,0,0, Full Time,job,Has the resting ruck... %D and %M,,
+261384,Matthew,Wright,AD,3,40,57,53,32,45,6,5,1,3,0,3,2,0,0, Full Time,tagger,Tagging Murphy... %P... also %F,,
+210056,Graham,Johncock,AD,8,38,48,50,33,44,7,1,3,1,0,0,2,1,2, Full Time,news,On in Q2 for Callinan... %s from %P and %M on Joseph,sub,Started as a sub
+280934,Daniel,Talia,AD,3,32,44,43,25,36,5,3,2,2,0,0,1,0,0, Full Time,job,At CHB on Kreuzer... %O and %T,,
+261138,Jared,Petrenko,AD,8,30,34,37,25,30,3,2,2,1,0,1,0,1,0, Full Time,tagger,Manning up Yarran... %s from %O and %M,subbed,Subbed off in Q3 for Shaw
+293193,Luke,Brown,AD,2,27,18,34,23,30,4,3,3,0,0,0,0,0,0, Full Time,job,Big job on Garlett... %O and %M,,
+280281,Brodie,Martin,AD,0,10,16,12,9,12,1,2,1,0,0,0,0,0,0, Full Time,news,On in Q4 for Dangerfield,sub,Started as a sub
+290211,Sam,Shaw,AD,0,6,14,8,4,6,2,0,0,0,0,0,0,0,0, Full Time,news,On in Q3 for Petrenko,sub,Started as a sub
+261857,Ian,Callinan,AD,0,2,1,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,injured,One handball on Joseph... knock to a knee in Q1,subbed,Subbed off at QT for Johncock
+260533,Dennis,Armfield,CA,27,86,99,76,61,78,9,4,1,8,0,4,0,2,0, Full Time,news,%D and %T plus %s... two rundowns of Dangerfield in Q1 were a highlight,tagger,Tagging Dangerfield
+240028,Brock,McLean,CA,16,85,111,57,71,96,12,12,4,2,0,2,1,1,0, Full Time,news,%D and %M plus %s and a ninepointer,,
+220015,Andrew,Carrazzo,CA,26,84,101,77,67,91,7,13,2,6,0,3,1,1,1, Full Time,news,%P and %T plus %s,,
+281079,Kane,Lucas,CA,25,84,65,64,72,90,10,6,6,2,0,1,1,3,0, Full Time,news,First goal... %s from %O and %M... also %T... playing wing with all efforts on attack,,
+270146,Ed,Curnow,CA,14,72,75,63,57,81,7,13,2,5,0,2,1,0,0, Full Time,news,%P and %T,,
+270737,Shaun,Hampson,CA,15,72,79,48,62,76,10,5,4,1,9,3,1,1,1, Full Time,news,%s from %P and %M up forward on Rutten... also %H,,
+290311,Mitch,Robinson,CA,15,63,74,48,49,66,8,5,1,4,0,1,1,2,0, Full Time,news,%D and %T plus %s rotating through midfield and forward line... matched up on Mackay most often,,
+230202,Kade,Simpson,CA,9,62,48,40,50,68,10,6,4,2,0,1,1,0,2, Full Time,news,%2 van Berlo... %P and %M plus %T and %s,,
+271110,Chris,Yarran,CA,15,57,52,40,44,61,9,3,2,4,0,1,2,1,1, Full Time,job,Petrenko manning him up... %O and %T... also %F and %s,,
+990059,Heath,Scotland,CA,11,55,55,42,46,60,7,5,4,2,0,1,1,1,0, Full Time,news,On after HT for Warnock... %O and %M,sub,Started as a sub
+261299,Matthew,Kreuzer,CA,9,52,64,38,43,58,7,3,1,3,16,0,2,0,0, Full Time,news,Started at CHF on Talia... %H and %P with %T,,
+240014,Andrew,Walker,CA,7,48,39,19,39,57,11,4,2,1,0,0,2,0,3, Full Time,news,%s from %D on Reilly... also %F,,
+250105,Marc,Murphy,CA,7,44,81,25,37,51,7,8,2,0,0,1,0,0,0, Full Time,tagged,Tagged by Wright... %P and a supergoal,,
+240060,Eddie,Betts,CA,3,41,57,23,27,39,8,2,0,3,0,1,0,0,0, Full Time,news,%O and %T,,
+270653,Jeff,Garlett,CA,8,36,37,14,32,49,8,5,0,1,0,0,3,1,1, Full Time,news,The kid Brown on him... %s from %P,,
+292511,Zach,Tuohy,CA,1,30,43,11,21,30,7,2,0,1,0,1,0,0,0, Full Time,job,Minding Douglas... %D,,
+250672,Robert,Warnock,CA,6,29,28,28,26,28,1,2,0,1,16,2,0,0,0, Full Time,news,%H and %D,subbed,Subbed off at HT for Scotland
+261009,Nick,Duigan,CA,1,29,37,17,22,30,5,3,1,1,0,1,0,0,0, Full Time,porpoise,Porplyzia is his man... %P,,
+270326,Lachie,Henderson,CA,2,28,40,12,22,30,6,2,2,0,0,0,0,0,0, Full Time,job,Standing Jenkins... %O,,
+270899,Jeremy,Laidler,CA,1,26,60,14,21,30,5,3,1,1,0,1,1,0,0, Full Time,job,Blues are rotating their resting midfielders on him... %P,,
+261318,Aaron,Joseph,CA,1,21,33,14,15,21,4,0,1,2,0,1,1,0,0, Full Time,job,Started on Callinan then got Johncock in Q2 after Callinan was subbed off... %D and %T,subbed,Subbed off in Q3 for Dale
+270637,Simon,White,CA,0,7,16,1,7,12,2,2,0,0,0,0,1,0,0, Full Time,news,On in Q3 for Jamison,sub,Started as a sub
+293684,Frazer,Dale,CA,0,6,6,5,5,9,1,1,0,1,0,0,1,0,0, Full Time,news,On in Q3 for Joseph,sub,Started as a sub
+261043,Michael,Jamison,CA,0,2,14,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,job,On Walker... one handball,subbed,Subbed off in Q3 for White

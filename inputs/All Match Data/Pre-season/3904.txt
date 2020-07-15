@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Collingwood,Magpies,W1,14.19.103,12.12.84, Full Time
+Feb 18,2012,8.20,Blacktown,Fox Footy,,10330105,,5,Humid,22,,
+
+<em>loserboy</em>: anyone know where i can stream this game?<br><em>brent_bren</em>: or should i say he looks realy bad out of shape chubba!!<br><em>whatlez1</em>: Boyd 21 touches and 1 goal?<br><em>SeanJohn41</em>: Dancasta&#044; I'd go chapman <br><em>brent_bren</em>: yeah and he never looks this out of shape!!<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Billyho</em>: what happens when 3 of the teams win one each. Does it go down to percentage<br><em>Torpedo10</em>: guys&#044; I'll see u all at other mtahc chat. :P<br><em>whatlez1</em>: Is Boyd legit?<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> mabo</em>: Swan never looks IN shape<br><em>brent_bren</em>: swan looking a bit out of shape!!<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> dancasta</em>: chapman or sidebottom?<br><em>BB67th</em>: Thnx Pb reckon tassy have that one<br>
+220010,Matthew,Boyd,WB,21,90,-,117,73,96,15,5,8,2,0,0,1,1,0, Full Time,news,%O and %M plus %s,,,87
+281374,Christian,Howard,WB,9,67,-,89,54,66,11,1,9,1,0,1,0,0,0, Full Time,news,%M and %P,,,100
+271439,Liam,Picken,WB,9,53,-,72,36,51,7,3,2,5,0,0,0,0,0, Full Time,news,Not much tagging in these half-games... %D and %T with %M,,,87
+280012,Jordan,Roughead,WB,6,52,-,67,43,55,7,2,4,2,10,0,1,0,0, Full Time,news,%O and %M with %T and %H,,,97
+200082,Ryan,Hargrave,WB,4,47,-,63,36,45,7,1,5,2,0,1,0,0,0, Full Time,news,Enjoyed himself with the Pies complete lack of forward press... %O and %M with %T,,,90
+200083,Robert,Murphy,WB,7,46,-,60,36,51,12,3,2,0,0,1,1,0,0, Full Time,news,Playing defence... %P and %M,,,94
+200079,Daniel,Giansiracusa,WB,9,44,-,56,34,45,4,4,2,3,0,0,0,1,0, Full Time,news,%s from %D and %T with %M,,,90
+290799,Tom,Liberatore,WB,3,42,-,57,32,45,6,3,3,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,,84
+240212,Dylan,Addison,WB,3,32,-,44,24,30,4,0,4,2,0,0,0,0,0, Full Time,news,%M and %O with %T playing as a defender,,,93
+250150,Tom,Williams,WB,3,31,-,41,25,30,6,0,4,0,0,1,0,0,0, Full Time,job,Standing Dawes... %O and %M,,,100
+230255,Will,Minson,WB,3,30,-,38,24,30,2,2,2,2,6,0,0,0,0, Full Time,news,%G and %D with %T... also %H,,,81
+250601,Lukas,Markovic,WB,2,30,-,39,24,33,4,4,1,2,0,2,1,0,0, Full Time,job,Marking Ceglar... %D and %T,,,100
+210049,Daniel,Cross,WB,1,26,-,32,21,29,3,4,1,1,2,0,0,0,0, Full Time,news,%P,,,88
+281139,Easton,Wood,WB,2,26,-,34,21,27,5,1,3,0,0,0,0,0,0, Full Time,news,%M and %D,,,92
+293847,Clay,Smith,WB,2,25,-,33,19,24,4,1,2,1,0,1,0,0,0, Full Time,,,,,50
+281078,Liam,Jones,WB,7,24,-,30,19,24,1,2,1,2,0,0,0,1,0, Full Time,news,Booted %s from %P with %T,,,90
+281102,Matthew,Panos,WB,2,23,-,32,17,25,4,1,1,2,0,0,1,0,1, Full Time,news,%s from %D on Buckley.. also %T,,,90
+291526,Luke,Dahlhaus,WB,1,18,-,22,14,21,2,4,0,1,0,0,0,0,0, Full Time,news,Has Toovey for company... %O,,,88
+295712,Tory,Dickson,WB,0,16,-,21,12,15,2,1,1,1,0,1,0,0,0, Full Time,,,,,78
+261319,Jarrad,Grant,WB,0,3,-,5,5,9,2,1,0,0,0,1,2,0,0, Full Time,missing,Barely sighted in the forward line floating about as often happens.... %P and %F,,,100
+240156,Ryan,Griffen,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Corked right hip in Q1... not too serious,subbed,Subbed out in Q1 for Smith,9
+291545,Mitch,Wallis,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,Was not used,sub,Started as a sub,13
+240700,Heath,Shaw,CO,8,47,-,65,34,48,5,3,3,5,0,0,1,0,0, Full Time,news,%P and %T with %M,,,100
+250683,Simon,Buckley,CO,3,47,-,64,33,42,8,0,3,3,0,2,0,0,0, Full Time,news,%D and %M with %T,job,Running off Panos,84
+280965,Steele,Sidebottom,CO,4,44,-,57,34,45,6,4,3,2,0,1,0,0,0, Full Time,news,Running through midfield mostly... %P and %M with %T,,,81
+240359,Dale,Thomas,CO,3,42,-,54,33,45,7,4,3,1,0,0,0,0,0, Full Time,news,Cut off his blonde hair for some reason... %P and %M,,,91
+220105,Dane,Swan,CO,7,37,-,46,29,39,6,3,1,1,0,0,0,1,0, Full Time,news,%D plus %s,,,70
+295296,Marley,Williams,CO,8,32,-,39,28,36,6,1,1,0,0,0,1,2,0, Full Time,,,,,49
+220005,Luke,Ball,CO,2,31,-,40,24,30,5,2,2,1,0,2,0,0,0, Full Time,news,%O with %k by foot... also %M,,,69
+260246,Tyson,Goldsack,CO,3,28,-,36,22,30,2,4,2,2,0,0,0,0,0, Full Time,news,%O and %T with %M,,,91
+291883,Peter,Yagmoor,CO,1,27,-,34,21,30,4,4,1,1,0,0,0,0,0, Full Time,,,,,93
+290314,Lachlan,Keeffe,CO,2,25,-,33,19,24,4,1,2,1,0,1,0,0,0, Full Time,news,%P and %M,,,100
+210099,Darren,Jolly,CO,2,24,-,28,22,25,2,2,2,0,7,1,0,0,0, Full Time,news,%H and %D with %M,,,100
+294733,Paul,Seedsman,CO,2,24,-,32,18,24,4,1,2,1,0,0,0,0,0, Full Time,news,%D and %M,,,85
+260394,Chris,Dawes,CO,6,18,-,23,16,21,2,1,1,1,0,0,1,1,0, Full Time,news,Kicked %s from %D on Williams,,,100
+240419,Alan,Toovey,CO,1,17,-,20,14,21,3,4,0,0,0,0,0,0,0, Full Time,job,Has Dahlhaus... %D,,,100
+294826,Tom,Young,CO,1,17,-,21,15,21,2,4,0,1,0,2,1,0,0, Full Time,news,%O,,,83
+261181,Brent,Macaffer,CO,1,16,-,22,12,15,2,0,2,1,0,0,0,0,0, Full Time,injured,Serious-looking left knee injury in Q1... one of the knee ligaments looks to be torn... %O and %M,subbed,Subbed off in Q1 for Williams,29
+291327,Jonathan,Ceglar,CO,0,16,-,19,13,16,1,2,0,1,3,1,0,0,1, Full Time,news,Kicked %s from %P on Markovic,,,96
+294077,Michael,Hartley,CO,0,16,-,22,11,15,3,0,1,1,0,0,0,0,0, Full Time,,,,,100
+290821,Alex,Fasolo,CO,0,13,-,18,11,16,2,1,1,1,0,0,1,0,1, Full Time,news,%s from %D,,,98
+291386,Ben,Sinclair,CO,1,12,-,15,11,18,1,4,0,1,0,0,1,0,0, Full Time,news,%B among D,,,89
+291811,Jackson,Paine,CO,0,5,-,8,4,6,1,0,0,1,0,1,1,0,0, Full Time,,,,,93
+292504,Seamus,McNamara,CO,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,The American served us a donut by staying in green,sub,Started as a sub,0

@@ -1,0 +1,48 @@
+Geelong,Cats,St Kilda,Saints,R18,21.11.137,5.6.36, Full Time
+Jul 27,2013,7.40,Kardinia,Seven,250321,10391805,geel-v-stk,0,Windy,15,,
+
+<em style='color:#000'>ozelite</em>: stevie j gained 3 on scaling = 120<br><em style='color:#000'>J.Gabor</em>: Stevie J my captain SC but he didn't deserve that haha will lose 7 when it gets adjusted 117 = 110<br><em style='color:#a0a'>frenzy</em>: I'm already purple&#044; don't want poker dots<br><em style='color:#000'>jpk2goodes</em>: was 75 sc at 3qtr time JuddSystem<br><em style='color:#000'>Jukes82</em>: stevie j was 63 dt<br><em style='color:#000'>Ninja!</em>: priority*<br><em style='color:#000'>JuddSystem</em>: what was stevie J on at 3qt?<br><em style='color:#000'>Slashers</em>: St Kilda are pretty cr@p<br><em style='color:#000'>leggzy3</em>: golden shiny bin for stevie j<br><em style='color:#000'>Ninja!</em>: motlop defs bog&#044; bigger names get prioritie though<br><em style='color:#000'>danmaio</em>: ton up enright<br><em style='color:#000'>McKenzie2</em>: steve jay star<br>
+250321,Joel,Selwood,GE,37,136,151,167,111,145,17,15,6,4,0,2,0,3,1, Full Time,star,First goal... tagged by Jones in Q1 then freed up... %P and %T plus %M and %s,,,492600,58,572700,86,Centre,14,16,100.5,111.8,18.38,28.69
+280990,Steven,Motlop,GE,32,120,149,142,104,135,12,17,6,2,0,0,0,4,0, Full Time,x-factor,%s from %O and %M on Geary... also %T,,,291600,66,341600,83,Forward,32,15,72.1,75.8,4.00,4.06
+281065,Mitch,Duncan,GE,26,113,93,145,95,124,16,11,12,2,0,1,1,0,1, Full Time,hot,%2 Ray off a wing... %D and %M plus %s,,,416500,117,441400,110,Centre,22,16,88.4,81.1,0.95,1.14
+220054,Steve,Johnson,GE,26,109,120,137,86,120,17,12,3,4,0,0,1,2,0, Full Time,garbage,%2 Montagna to start then got the Jones tag in Q2... %D and %T with %M... massive Q4 to make his stats look respectable,,,557000,74,583500,100,Forward Centre,20,10,120.5,118.7,27.52,22.50
+280959,Nathan,Vardy,GE,30,106,125,132,87,106,11,5,7,4,19,1,0,1,0, Full Time,hot,%H and %P with %M and %T... also %s... had to take full ruck duties after Simpson got injured in Q2,,,209200,32,239700,38,Ruck,30,2,51.5,55.5,2.74,4.29
+200035,Corey,Enright,GE,20,98,102,129,79,105,15,7,10,3,0,0,1,0,0, Full Time,news,%O and %M with %T,,,419200,115,479900,67,Back,44,15,88,94.3,6.86,5.98
+230248,Andrew,Mackie,GE,19,97,94,124,77,102,18,6,7,1,0,0,0,1,0, Full Time,news,%D and %M plus %s,job,Siposs manning him up,371000,134,413100,134,Back,4,16,80.4,84.9,4.89,4.11
+200131,James,Podsiadly,GE,25,91,82,117,78,95,13,2,11,1,1,0,1,2,1, Full Time,news,%s from %D and %M on Simpkin then got Stanley in Q2,mrp,A high fend on Steven that caught him in the gob in Q2 will be looked at,364100,106,393600,127,Forward,31,15,75.3,79.5,1.42,1.49
+250290,Travis,Varcoe,GE,32,89,88,113,68,91,5,10,3,8,0,0,0,2,1, Full Time,news,No touches in Q1... %s from %P and %T on Webster,,,202500,46,219500,53,Forward Centre,5,5,41.2,43.4,5.97,6.13
+220058,James,Kelly,GE,20,86,100,109,68,95,10,11,3,5,0,0,1,1,2, Full Time,news,%2 Hayes... %P and %T plus %s,,,454400,110,462200,116,Centre,9,11,95.1,89.9,0.37,0.37
+261510,Tom,Hawkins,GE,26,84,128,100,74,82,10,1,6,0,1,3,0,5,0, Full Time,news,Booted %s from %P and %G on Gwilt then Simpkin in Q2... three of those goals in Q2 when the Cats put their stamp on the game,,,251800,54,311900,80,Forward,26,15,59.9,70.7,3.78,4.91
+290622,Mitchell W.,Brown,GE,19,79,89,101,69,90,12,8,10,0,0,0,1,0,0, Full Time,news,%P and %M,job,Starting in defence,200700,47,216100,54,Forward,1,4,37.5,38,0.32,0.27
+261497,Harry,Taylor,GE,12,73,108,93,59,78,12,7,6,1,0,1,0,0,0, Full Time,job,Riewoldt is his man... %O and %M,,,363700,128,457200,119,Back,7,15,78.7,94.5,5.53,7.53
+200034,Joel,Corey,GE,13,68,63,89,52,73,8,8,3,5,1,1,1,0,0, Full Time,news,%D and %T plus %M,,,374600,106,439300,108,Centre,11,13,78.4,84.5,0.66,0.83
+290623,Josh,Caddy,GE,8,66,65,83,54,76,8,11,3,3,1,1,1,0,0, Full Time,news,%P and %T with %M,,,335200,26,341300,19,Centre,23,10,60,58.7,1.75,3.28
+290783,Billie,Smedts,GE,9,65,53,84,51,69,8,7,5,3,0,0,0,0,0, Full Time,news,On in Q2 for Simpson... %O and %M,sub,Started as a sub,280400,43,274000,33,Forward,2,11,55.5,56.6,0.94,2.46
+230214,Mathew,Stokes,GE,12,59,72,73,48,72,5,14,1,4,0,0,1,0,0, Full Time,news,No score from %B among %O with %T on Newnes,,,425600,139,450400,134,Forward,27,15,93.3,95.3,11.02,5.15
+293255,George,Horlin-Smith,GE,8,57,46,71,48,63,9,7,5,0,0,1,0,0,0, Full Time,news,%P and %M starting forward on Saunders,,,255800,35,287900,11,Centre,33,7,55.6,63.3,1.22,1.19
+290550,Cameron,Guthrie,GE,9,55,48,72,41,57,6,6,3,4,0,0,0,0,0, Full Time,job,Chasing Milne... %O and %M,,,230300,71,248000,81,Back,29,12,52.1,54.8,1.19,1.95
+280822,Taylor,Hunt,GE,8,48,46,55,43,60,1,15,2,2,0,1,0,0,0, Full Time,tagger,Tagging Steven... %P,,,243500,67,231900,58,Centre,19,11,58.6,58.9,0.94,1.09
+230125,Tom,Lonergan,GE,1,19,12,26,16,21,3,1,2,1,0,1,1,0,0, Full Time,job,Following Lee... did not touch the footy in Q1... %D and %M,,,178300,21,240300,18,Back,13,16,39.4,49.3,2.41,2.30
+270340,Dawson,Simpson,GE,2,9,22,9,11,13,0,1,0,0,10,0,1,0,0, Full Time,injured,%H and %D... right kneecap dislocated plus medial ligament damage in a clash of knees with Hickey in ruck in Q2,subbed,Subbed off in Q2 for Smedts,300500,-16,374900,-46,Ruck,16,5,82.6,102,3.25,2.67
+270912,Jack,Steven,SK,26,124,113,68,95,135,23,13,5,4,0,1,1,0,0, Full Time,hulk,Tagged by Taylor Hunt... %D and %T with %M,,,434800,82,548400,53,Centre,3,16,93.6,107.3,1.43,1.64
+220075,Leigh,Montagna,SK,21,109,122,70,89,127,16,18,3,3,0,0,1,1,1, Full Time,hot,%2 Johnson then Selwood in Q2... %P and %M plus %T and %s,,,492700,114,514200,98,Centre,11,15,106.9,108.8,3.37,1.30
+261743,Clinton,Jones,SK,19,89,92,73,72,102,9,18,3,4,0,1,0,0,0, Full Time,tagger,Tagging Selwood then shifted to Johnson in Q2... %O and %T,,,361300,83,374100,70,Centre,4,13,78.1,81.8,0.29,0.37
+240062,Farren,Ray,SK,19,88,79,60,68,94,14,7,6,4,1,0,1,0,0, Full Time,news,%2 Duncan off a wing... %P and %T with %M,,,376300,94,391200,92,Centre,22,13,78.8,75.5,0.39,0.39
+990028,Lenny,Hayes,SK,20,86,107,73,65,92,9,13,2,6,0,1,0,0,2, Full Time,sore,%2 Kelly... %O and %T plus %s... left hamstring tweak in Q3,,,424300,85,441100,87,Centre,7,9,89.8,89.8,0.65,0.76
+291773,Jack,Newnes,SK,13,82,76,53,70,93,12,12,7,0,0,1,0,0,0, Full Time,news,%O and %M,job,Responsible for Stokes,299300,87,309600,110,Centre,16,14,56.4,57.6,0.53,0.41
+220023,Nick,Dal Santo,SK,13,71,98,49,58,84,9,16,1,2,0,1,0,0,0, Full Time,news,%B among %P with %T,sore,Gash on his left calf in Q2 looked to be caused by a boot stud,421300,76,511900,65,Centre,26,16,86.3,94.8,1.77,2.16
+230243,Sean,Dempster,SK,13,70,80,51,58,78,10,7,7,2,0,0,1,0,0, Full Time,news,%P and %M,,,269200,47,344400,51,Back,24,13,59.6,67.2,0.57,0.59
+250340,David,Armitage,SK,14,66,71,61,55,81,5,16,2,4,0,0,1,0,0, Full Time,news,%D including %b by hand....also %M,,,440000,88,475600,87,Centre,20,15,91.3,95.3,0.75,1.05
+260113,Jarryn,Geary,SK,9,58,73,54,51,69,5,10,5,3,0,2,2,0,0, Full Time,news,%P and %M with %T,job,Motlop is his man,315600,56,359100,63,Back,14,15,65.9,75.7,1.98,2.38
+261323,Ben,McEvoy,SK,9,55,51,45,48,57,5,3,3,1,21,0,0,0,0, Full Time,news,%H and %P with %M,,,362900,59,472300,81,Ruck,5,16,80.2,101.1,3.71,5.98
+294266,Tom,Hickey,SK,9,52,66,57,47,58,1,8,2,3,16,2,1,0,0, Full Time,news,%H and %D with %T and %M,,,232000,42,252500,57,Ruck,1,8,48,50.9,1.01,0.92
+210001,Nick,Riewoldt,SK,9,48,71,35,38,49,6,3,1,2,0,0,0,2,1, Full Time,injured,Booted %s from %D on Taylor... also %T... left knee knock in Q3 after a Lonergan tackle... eventually mothballed at 3QT by medical staff as a precaution,,,466300,87,476500,74,Forward,12,15,103.3,106.6,18.75,9.45
+290422,Tom,Lee,SK,10,45,46,31,39,45,6,1,4,0,0,1,0,2,0, Full Time,news,Kicked %s from %P and %M on Lonergan,,,194900,8,230900,-13,Forward,9,5,50,60,13.26,14.42
+290757,Jimmy,Webster,SK,3,44,59,38,34,51,4,10,0,3,0,0,0,0,0, Full Time,job,Varcoe is his man... %D including %B,,,177300,20,166700,10,Back,29,8,42,40.4,2.74,4.07
+280053,Tom,Simpkin,SK,8,40,65,35,29,45,5,5,0,5,0,1,2,0,0, Full Time,tomahawk,Moved from Podsiadly to Hawkins in Q2 after a Gwilt injury... %D and %T,,,227500,67,274800,70,Back,31,3,33.3,43.3,0.24,0.39
+295477,Josh,Saunders,SK,7,39,44,36,27,39,4,4,1,4,0,0,0,0,0, Full Time,job,Standing Horlin-Smith... %O and %T,,,177000,9,175900,27,Back Centre,35,6,44.2,37.7,5.16,4.57
+200108,Stephen,Milne,SK,3,38,40,21,31,45,7,5,2,1,0,0,1,0,0, Full Time,news,%D on Guthrie,,,284700,82,309100,99,Forward,44,12,53.3,55.8,0.93,1.14
+293815,Arryn,Siposs,SK,2,31,27,24,25,32,4,2,3,1,0,0,0,0,2, Full Time,news,%s from %P and %M starting forward on Mackie,,,245700,78,267900,77,Forward,2,7,50.9,55.7,0.45,0.82
+280317,Rhys,Stanley,SK,1,21,36,12,19,28,4,2,1,1,4,0,2,0,0, Full Time,ipod,In defence... moved too Podsiadly in Q2... %D... %F as well,in,Late replacement for Dylan Roberton,200600,71,232600,73,Forward,28,16,47.6,58.3,1.00,0.75
+250703,James,Gwilt,SK,1,14,23,5,11,16,3,2,0,0,1,0,0,0,0, Full Time,injured,Has Hawkins... %D... knee injury in Q2,subbed,Subbed off in Q2 for Curren,271300,36,336300,51,Back,33,11,61.3,77,1.61,1.79
+291518,Thomas,Curren,SK,0,9,5,8,6,9,1,1,0,1,0,0,0,0,0, Full Time,bubble,Second game... on in Q2 for Gwilt... %O,sub,Started as a sub,108500,,115900,,Centre,43,1,38,67,0.35,0.29

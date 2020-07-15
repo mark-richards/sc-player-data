@@ -1,0 +1,56 @@
+Richmond,Tigers,Melbourne,Demons,W1,1.10.15.84,1.13.11.98, Full Time
+Feb 14,2014,7.10,Docklands,Fox Footy,200071,10410103,rich-v-melb,0,Roof closed,27,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tPA"></b> Monfries6</em>: lock in mcbean<br><em style='color:#069'>Ben_Gogos</em>: Hope you guys all enjoyed that, now go and lock in JKH!<br><em style='color:#000'>cheers</em>: JKH 97 supercoach wow <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: @rooboy  ganja queen corby will be back inside soon. too dumb to survive on parole<br><em style='color:#000'>Drak</em>: Yeah its NAB, but Trengove looked like a No2 Draft selection for the first time tonight. Good on him.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> RooBoyStu</em>: Toothless Tigers<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: LOL at tiges- no improvement whatsoever- ohhh its a NAB game? yeah right<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> RooBoyStu</em>: Harris the next Wonaeamirri<br><em style='color:#000'>cheers</em>: michie looks like a good pick <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Punt</em>: Lloyd 57 in less than a half<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Punt</em>: Layoff and guaranteed profit!  Say thanks<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> RooBoyStu</em>: all the FF muppets put $5 after your comment punt and people complain about Corby getting money, you feed bookies.<br>
+240336,Brett,Deledio,RI,21,88,122,113,68,88,12,4,5,4,0,0,0,2,1, Full Time,news,Playing off the half forward line... %D and %M. Plus %T. Includes %s,,,514900,,558800,,Midfielder,,22,95,103.59,0.00,0.00
+290847,Dustin,Martin,RI,13,86,64,111,68,89,16,5,7,1,1,1,0,0,1, Full Time,news,Playing off the half back flank. Looks very Dusty... %D and %M,,,526000,,549200,,Midfielder,,22,97,101.82,0.00,0.00
+210048,Chris,Newman,RI,17,77,62,98,61,76,8,4,5,4,0,1,0,2,1, Full Time,news,First goalscorer... Playing in the small forward role... %s from %D and %M. Plus %T,injured,Knee injury in 3rd Q,364300,,399400,,Back,,18,67.2,74.06,0.00,0.00
+270941,Tyrone,Vickery,RI,20,73,78,92,62,72,9,0,6,2,2,2,1,3,1, Full Time,news,Frawley on him... %s from %D and %G. Also %H and %T,,,373700,,431200,,Forward,,20,69,79.95,0.00,0.00
+290671,Anthony,Miles,RI,14,67,85,84,55,74,10,6,1,3,0,2,2,2,2, Full Time,news,Looks to be using the ball better... %O and %T. Includes %s,,,279700,,246000,,Midfielder ,,3,65.3,57,0.00,0.00
+240130,Nathan,Foley,RI,8,63,75,80,48,66,9,8,2,3,0,2,0,0,0, Full Time,news,%D and %M. Plus %T.,,,395300,,386000,,Midfielder,,16,72.9,71.56,0.00,0.00
+250298,Shaun,Grigg,RI,9,62,61,81,49,69,9,7,4,3,0,0,1,0,0, Full Time,news,%D which includes %K and %M. Also %T,,,484600,,448200,,Midfielder,,22,89.4,83.09,0.00,0.00
+270896,Trent,Cotchin,RI,10,61,63,80,48,66,7,7,4,4,0,1,1,0,0, Full Time,news,%2 Trengove... %D which includes %B and %M. Also %T,,,511300,,572000,,Midfielder,,21,94.3,106.05,0.00,0.00
+280747,Ben,Griffiths,RI,10,60,48,75,53,64,7,3,6,1,12,1,1,0,1, Full Time,news,%D and %M. Plus %H,,,135500,,230300,,Forward,,1,32,61,0.00,0.00
+293713,Brandon,Ellis,RI,10,60,47,81,45,61,7,4,4,5,0,1,1,0,1, Full Time,news,%D and %M. Plus %T,,,429300,,440400,,Midfielder,,20,79.2,81.65,0.00,0.00
+290073,Sam,Lloyd,RI,4,57,49,76,43,53,8,1,5,3,0,2,0,0,2, Full Time,news,No touches in the first half. Had limited minutes... Playing as the small forward. %D and %M. Plus %T,,,135500,,117300,,Forward,,0,0,0,0.00,0.00
+250312,Bachar,Houli,RI,8,56,91,70,48,66,8,9,4,1,0,1,1,0,0, Full Time,news,%O and %M,,,461800,,493800,,Back,,20,85.2,91.55,0.00,0.00
+294674,Nick,Vlastuin,RI,8,52,66,68,42,57,12,3,4,0,0,1,1,0,0, Full Time,news,%K from %D and %M,,,375600,,405200,,Midfielder,,17,69.3,75.12,0.00,0.00
+230240,Aaron,Edwards,RI,9,51,39,70,39,51,6,1,5,4,0,0,1,0,3, Full Time,news,McDonald playing on him... %s from %D and %M. Plus %T,,,380200,,479400,,Forward,,8,74.6,88.88,0.00,0.00
+240180,Troy,Chaplin,RI,4,45,55,58,36,48,7,4,4,1,0,0,0,0,0, Full Time,job,Rotating on a few Dees small forwards... %K from %D. Plus %G,,,330400,,368600,,Back,,21,61,68.33,0.00,0.00
+290198,David,Astbury,RI,8,43,34,59,32,45,5,3,3,4,0,0,1,0,0, Full Time,job,Been following Pederson for majority of the night... %D and %G. Plus %T,,,179700,,285900,,Back,,5,39,53,0.00,0.00
+260930,Shane,Edwards,RI,3,42,29,56,30,42,6,3,2,3,0,0,0,0,0, Full Time,news,%O and %M. Plus %T,,,372000,,421600,,Forward,,19,68.6,78.16,0.00,0.00
+270737,Shaun,Hampson,RI,5,41,42,48,36,44,1,5,2,2,14,0,0,0,0, Full Time,news,%H and %D. Also %G and %T,,,294100,,334100,,Ruck,,6,61.7,68.83,0.00,0.00
+296357,Ben,Lennon,RI,2,34,37,45,26,34,8,0,3,0,0,0,0,0,1, Full Time,news,%K and %M,,,233100,,162300,,Forward,,0,0,0,0.00,0.00
+260433,Steven,Morris,RI,2,33,66,39,28,39,3,8,1,1,0,1,0,0,0, Full Time,news,%O,,,222700,,273500,,Back,,21,41.1,50.71,0.00,0.00
+261167,Orren,Stephenson,RI,3,28,31,32,24,29,0,3,0,2,14,0,0,0,0, Full Time,news,On in the second half... %D and %H. Plus %T,sub,Started as a sub,271100,,358400,,Ruck,,6,56.8,73.83,0.00,0.00
+291437,Jake,Batchelor,RI,6,21,42,26,17,21,4,0,1,0,0,0,0,1,0, Full Time,news,Came on late in the third term... %D. Plus %s,sub,Started as a sub,265200,,315200,,Back,,9,50.4,58.44,0.00,0.00
+261362,Alex,Rance,RI,2,17,16,24,17,24,4,1,3,0,0,0,2,0,0, Full Time,job,Playing on Howe... %D and %G,,,381900,,470200,,Back,,22,70.5,87.18,0.00,0.00
+293315,Bradley,Helbig,RI,1,17,18,23,12,15,1,1,1,2,0,1,0,0,0, Full Time,news,No touches in the first half... Had limited minutes... %D and %T,,,135500,,123900,,Midfielder,,1,20,17,0.00,0.00
+294592,Kamdyn,McIntosh,RI,1,11,17,17,12,21,3,2,1,1,0,0,3,0,0, Full Time,news,Looks a bit too small at this stage... %D plus %F,,,158900,,123900,,Back,,0,0,0,0.00,0.00
+294591,Liam,McBean,RI,0,6,-1,8,5,6,1,0,1,0,0,0,0,0,0, Full Time,news,%D,,,154300,,123900,,Ruck,,0,0,0,0.00,0.00
+280608,Jack,Trengove,ME,32,130,121,96,109,138,17,12,13,2,0,2,0,1,0, Full Time,magnet,%2 Cotchin... %D and a massive %M. Plus %T. Also %s,,,422500,,404500,,Midfielder,,20,78,75,0.00,0.00
+261142,Bernie,Vince,ME,19,105,115,63,88,121,17,15,7,1,1,1,1,0,0, Full Time,heart,Has been working ferociously hard in his first Dees outing... %O and %M,,,449300,,424300,,Midfielder,,21,82.9,78.67,0.00,0.00
+250222,Nathan,Jones,ME,19,102,107,66,82,113,16,12,6,3,0,1,1,0,2, Full Time,magnet,%O and %M. Plus %T. Includes %s,,,420800,,485700,,Midfielder,,22,77.6,90.05,0.00,0.00
+260288,James,Frawley,ME,19,101,120,52,79,105,20,5,9,1,0,0,0,0,0, Full Time,hot,%D which includes %K and %G,job,On Vickery...,339900,,364600,,Back,,17,62.7,67.59,0.00,0.00
+250345,Rohan,Bail,ME,25,96,77,70,81,98,13,3,11,1,0,0,0,2,2, Full Time,news,%s from %D. Plus %M,,,234400,,232600,,Forward,,8,46,43.13,0.00,0.00
+270241,Dean,Terlich,ME,14,90,88,60,72,97,14,9,6,3,0,2,1,0,1, Full Time,news,Off half back... %D and %M. Plus %T,,,434900,,424500,,Back,,20,80.3,78.7,0.00,0.00
+291446,Viv,Michie,ME,19,87,86,76,70,93,9,10,8,4,0,0,0,0,0, Full Time,news,%O and %M. Plus %T,,,193900,,172600,,Forward,,1,49,40,0.00,0.00
+250548,Lynden,Dunn,ME,13,83,97,41,64,84,17,3,7,1,0,1,0,0,0, Full Time,news,%D including %K. Plus %M,,,369800,,444400,,Back,,18,68.2,82.39,0.00,0.00
+291313,Jeremy,Howe,ME,18,83,82,61,69,82,10,3,4,2,0,2,0,4,1, Full Time,star,Rance has him... %s from %D and %G. Also %T,,,366700,,391200,,Forward,,21,67.7,72.52,0.00,0.00
+210049,Daniel,Cross,ME,15,82,113,75,72,102,6,20,5,3,0,0,1,0,0, Full Time,news,%D which includes %B. Also %T,,,485700,,477100,,Midfielder,,13,89.6,88.46,0.00,0.00
+270937,James,Strauss,ME,13,79,63,58,67,90,10,12,7,1,0,0,0,0,0, Full Time,news,%D and %M,,,195500,,268800,,Back,,6,41,49.83,0.00,0.00
+291533,Tom,McDonald,ME,12,74,117,47,60,78,12,6,7,1,0,1,0,0,0, Full Time,job,On Edwards... %D and %G,,,326500,,402300,,Back,,17,60.2,74.59,0.00,0.00
+261297,Jack,Grimes,ME,14,72,96,40,62,87,12,13,4,0,0,1,1,0,0, Full Time,news,Playing off half back... %O and %M,,,416200,,436500,,Back,,15,76.8,80.93,0.00,0.00
+281292,Alexis,Georgiou,ME,13,70,70,37,58,75,14,2,9,0,0,0,1,0,0, Full Time,job,Playing on rotating ruck... Looks a great addition to the squad... %K from %D and %G,,,115200,,102400,,Back,,0,0,0,0.00,0.00
+296343,Jay,Kennedy-Harris,ME,16,69,99,47,60,73,9,4,5,0,0,0,0,3,1, Full Time,x-factor,Looks very good in his small forward role... %s from %D and %M,,,157200,,117300,,Forward,,0,0,0,0.00,0.00
+293042,Jimmy,Toumpas,ME,14,65,86,47,55,69,10,2,10,1,0,0,1,0,0, Full Time,news,%D and %M,,,259400,,240800,,Midfielder,,14,47.9,44.64,0.00,0.00
+280521,Jake,Spencer,ME,20,64,61,71,54,65,2,4,3,5,17,1,1,1,0, Full Time,news,%H and %D. Plus %G and %T. Includes %s,,,338800,,418000,,Ruck,,8,66.5,77.5,0.00,0.00
+296027,Matt,Jones,ME,9,62,63,37,58,84,10,13,5,0,0,0,3,0,0, Full Time,news,%D which includes %B and %M. Plus %F,,,383100,,372900,,Midfielder,,22,70.7,69.14,0.00,0.00
+291784,Dom,Tyson,ME,8,56,38,35,47,63,9,7,4,1,0,2,1,0,0, Full Time,news,%D plus %M,,,218400,,216800,,Forward,,3,51,44.67,0.00,0.00
+270906,Jordie,McKenzie,ME,5,52,54,42,44,60,6,8,4,2,0,1,1,0,0, Full Time,news,%O with %B and %M,,,308500,,311500,,Midfielder,,12,56.9,57.75,0.00,0.00
+298128,Max,King,ME,9,40,53,37,36,47,2,8,1,1,5,0,0,1,0, Full Time,news,Has been moving well... %B from %D and %H. Also %s,,,115200,,102400,,Ruck,,0,0,0,0.00,0.00
+297362,Dom,Barry,ME,3,35,26,20,29,39,6,4,3,0,0,0,0,0,0, Full Time,news,Came on in the 2nd Q... Looks very polished... %D and %M,sub,Started as a sub,115200,,123900,,Midfielder,,0,0,0,0.00,0.00
+294874,Daniel,Nicholson,ME,3,34,33,27,30,42,4,6,3,1,0,0,1,0,0, Full Time,news,%D including %B. Plus %G,,,342400,,329500,,Back,,11,63.2,61.09,0.00,0.00
+292029,Cameron,Pedersen,ME,1,29,40,20,25,33,4,4,1,1,3,2,1,0,0, Full Time,news,Looks to have put on some weight. Playing forward. Astbury on him... %O and %H,,,332800,,362500,,Back,,10,61.4,67.2,0.00,0.00
+280746,Sam,Blease,ME,7,25,25,19,22,30,3,3,1,1,0,0,1,1,0, Full Time,news,Playing half forward... %O plus %s,,,172400,,179100,,Midfielder,,10,31.8,33.2,0.00,0.00
+294741,Michael,Evans,ME,1,15,34,11,13,21,2,4,0,1,0,0,1,0,0, Full Time,news,Came on in the 2nd Q. Has had limited minutes... %D,sub,Started as a sub,361000,,345800,,Midfielder,,9,68.7,64.11,0.00,0.00

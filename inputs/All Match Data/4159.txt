@@ -1,0 +1,48 @@
+Brisbane,Lions,Richmond,Tigers,R19,12.12.84,20.12.132, Full Time
+Aug 4,2012,7:40,Gabba,Fox Sports,290808,10341906,430166,0,Sunny,23,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Rommas</em>: And the Tigers memberships avoid the microwave for another week!<br><em>Adamant</em>: nice junk rocky<br><em>TheLegend6</em>: we're from tigerland.<br><em>john90</em>: Umpires are a disgrace simple as that<br><em>GoCrowz98</em>: Siren!<br><em>Changeling</em>: cheers gocrows<br><em>GoCrowz98</em>: 20 seconds left<br><em>Rommas</em>: Come on Jackson J Redden&#044; big bin time!<br><em>Adamant</em>: time left?<br><em>Changeling</em>: how long left guys?<br><em>K.Hunt</em>: Oops wrong game<br><em>K.Hunt</em>: Miley didn't even touch Harry !!!!<br>
+261224,Dayne,Zorko,BL,33,104,105,134,80,109,8,11,4,9,0,0,1,2,1, Full Time,hot,%D and %T with %M and %s,,
+271072,Daniel,Rich,BL,15,96,101,125,72,99,14,9,5,5,0,1,0,0,0, Full Time,news,%2 Deledio... %P and %M plus %T,,
+281373,Jack,Redden,BL,27,93,74,119,75,105,10,13,4,6,0,1,2,1,0, Full Time,news,%D and %M with %T,,
+200007,Jonathan,Brown,BL,22,90,95,108,83,97,9,5,9,0,1,1,1,4,3, Full Time,news,%s from %P and %M on Rance,,
+270919,Tom,Rockliff,BL,21,82,86,102,69,96,9,12,3,4,0,0,2,2,0, Full Time,news,%O and %T with %M,,
+240087,Jed,Adcock,BL,14,80,89,103,61,84,9,10,4,5,0,1,0,0,0, Full Time,news,%O and %M,,
+240710,Ben,Hudson,BL,20,74,93,85,69,88,7,9,2,1,31,0,2,0,0, Full Time,news,%H and %P,,
+281048,Ryan,Harwood,BL,13,70,75,89,56,79,8,11,3,4,0,1,1,0,1, Full Time,news,%O and %T with %M and %s,,
+230170,Joel,Patfull,BL,10,59,65,77,45,60,6,6,4,4,0,1,0,0,0, Full Time,news,%D and %T with %M and %s,,
+200121,Josh,Drummond,BL,4,56,57,76,39,54,11,1,3,3,0,0,0,0,0, Full Time,job,Has McGuane... %O,,
+240013,Andrew,Raines,BL,8,56,49,71,43,59,9,6,2,2,0,1,0,0,2, Full Time,tagger,Tagging Cotchin... %O and %s,,
+260975,James,Polkinghorne,BL,11,55,61,72,46,63,7,5,4,3,0,0,2,1,0, Full Time,news,%D and %M on Post... also %F and %T,,
+270936,Jordan,Lisle,BL,5,52,58,65,44,57,6,5,3,2,7,1,1,0,2, Full Time,news,%s from %P and %M on Griffiths... also %H and %T,,
+290748,Joshua,Green,BL,9,50,69,60,41,54,7,5,1,1,0,0,0,2,0, Full Time,news,%s from %D on Houli,,
+292128,Elliot,Yeo,BL,4,48,55,62,40,54,10,4,4,0,0,1,1,0,0, Full Time,crown,Minding King... %D and %M,,
+230147,Daniel,Merrett,BL,4,44,86,58,35,48,7,4,3,2,0,1,1,0,0, Full Time,job,At FB on Riewoldt... %P and %T,,
+296033,Steve,Wrigley,BL,3,42,52,56,30,39,6,2,2,3,0,2,0,0,0, Full Time,job,Chasing Nahas... %P,,
+271071,Todd,Banfield,BL,3,40,37,52,31,38,5,2,3,2,0,2,0,0,2, Full Time,news,%s from %O and %M,,
+293871,Jack,Crisp,BL,8,39,47,52,29,39,2,4,3,4,0,0,0,0,0, Full Time,news,%P and %M,,
+980007,Simon,Black,BL,6,38,35,45,34,51,4,11,1,1,0,0,1,0,0, Full Time,news,On in Q3 for Karnezis,sub,Started as a sub
+270512,Pearce,Hanley,BL,3,35,56,43,29,40,6,5,2,0,1,0,0,0,0, Full Time,job,On White... %P and %M,sore,Left elbow knock in Q3
+290808,Patrick,Karnezis,BL,2,23,31,33,20,33,3,4,1,3,0,0,3,0,0, Full Time,news,%P and %T... also %F,subbed,Subbed off in Q3 for Black
+240336,Brett,Deledio,RI,26,126,144,69,97,133,23,10,6,3,1,0,0,1,0, Full Time,star,%2 Rich... %P and %T plus %M and %s,,
+240546,Ivan,Maric,RI,49,121,149,115,102,122,7,9,3,6,41,2,0,1,0, Full Time,hot,%H and %D with %M and %T,,
+250298,Shaun,Grigg,RI,26,115,95,75,96,122,17,9,9,1,2,1,0,2,0, Full Time,hot,%O and %M,,
+290823,Reece,Conca,RI,24,108,123,74,87,123,17,12,7,5,0,1,3,0,0, Full Time,hot,%P and %M with %T,,
+270896,Trent,Cotchin,RI,26,103,115,66,73,100,18,3,3,7,0,2,1,1,1, Full Time,hot,%P and %T,rain,Tagged by Raines
+250312,Bachar,Houli,RI,25,99,95,66,75,99,16,4,7,4,0,0,0,1,0, Full Time,job,%O and %M with %T,job,Green manning him up
+240707,Daniel,Jackson,RI,27,93,119,76,72,97,11,7,4,6,1,0,1,2,0, Full Time,news,%P and %T with %M,,
+200109,Shane,Tuck,RI,19,86,101,62,67,94,11,13,1,4,1,1,0,1,0, Full Time,news,%D,,
+260930,Shane,Edwards,RI,15,79,95,58,70,92,9,14,4,1,0,3,1,1,2, Full Time,news,%s from %O and %M,,
+250395,Jack,Riewoldt,RI,16,77,102,52,68,82,11,3,8,0,1,1,1,2,3, Full Time,news,Booted %s from %G and %D on Merrett,,
+290847,Dustin,Martin,RI,14,75,76,25,57,84,18,6,0,2,0,1,2,1,0, Full Time,news,%O and %s,,
+271437,Jake,King,RI,14,74,88,68,59,75,7,7,7,4,0,2,0,0,0, Full Time,news,%P and %M on Yeo... also %T,,
+240389,Matt,White,RI,15,70,65,55,58,75,8,8,5,2,0,1,0,1,0, Full Time,news,%P and %M on Hanley,,
+240256,Luke,McGuane,RI,20,64,104,63,52,68,4,6,1,5,2,0,1,3,0, Full Time,news,First goal.... %s from %P on Drummond,,
+261362,Alex,Rance,RI,8,59,83,44,51,66,8,6,7,1,0,1,1,0,0, Full Time,news,%P and %M,job,Standing Brown
+250623,Robin,Nahas,RI,16,58,59,50,53,68,5,6,3,2,0,0,2,3,2, Full Time,lebanon,%s from %O on Wrigley,,
+293713,Brandon,Ellis,RI,4,53,35,36,43,57,8,5,5,1,0,0,0,0,0, Full Time,news,%P and %M,,
+270315,Jayden,Post,RI,3,39,27,29,32,42,5,5,3,1,0,1,0,0,0, Full Time,job,Polkinghorne is his man... %P,,
+260433,Steven,Morris,RI,3,32,47,23,30,42,4,7,3,0,0,0,1,0,0, Full Time,job,Chasing Karnezis... %O and %M,,
+210048,Chris,Newman,RI,2,29,42,10,22,30,7,1,2,0,0,0,0,0,0, Full Time,news,Donuts in Q1... %D,,
+280747,Ben,Griffiths,RI,3,28,45,20,24,30,4,2,4,0,0,0,0,0,0, Full Time,job,Has Lisle... %D and %M,subbed,Subbed off at 3QT for Helbig
+293315,Bradley,Helbig,RI,0,19,16,13,14,18,3,1,1,1,0,1,0,0,0, Full Time,news,On after 3QT for Griffiths,sub,Started as a sub

@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Fremantle,Dockers,R2,11.12.78,16.10.106, Full Time
+Apr 06,2013,2.10,Docklands,Seven,230107,10390203,5015,0,Sunny,26,heart,The goal ump who went down like a sack of spuds when Picken cleaned up his knee but showed no pain... did his ACL
+
+<em>hardballge</em>: why would the goal umpire have to watch the ball til it got to row zz is beyond anyone&#044; his own fault!<br><em>J.Worrall</em>: Happy with Dickson and DPearce as new recruits<br><em>RayPest</em>: decent SC scores for barlow and mundy<br><em>NewFreoFan</em>: Give em the old heave ho! Yeah it's pretty bad :(<br><em>tracygrims</em>: freo have the worst team song by far.. actually i havent heard GWS or GC yet :s<br><em>bbbb</em>: fyfe sc?<br><em>Morts54</em>: SC scores are stuck as well at 22.55min<br><em>valkorum</em>: Freo<br><em>biggs2dujj</em>: 23 minute qtr ffs<br><em>Rockafella</em>: Mundy must be on 132 now<br><em>GoTheWoods</em>: still adding them up barlow should be on 86dt<br><em>Pokerface</em>: pumpkin. thats a bit harsh for suban.<br>
+290799,Tom,Liberatore,WB,49,120,133,157,88,126,12,16,3,11,0,2,1,0,0, Full Time,hot,Took up where he left off last week... %O and %T with %M,,,401300,,444400,,Midfielder,21
+230041,Adam,Cooney,WB,22,113,124,142,89,123,18,13,5,3,0,0,0,1,0, Full Time,hot,%O and %M plus %s,,,388200,,405100,,Midfielder,17
+293847,Clay,Smith,WB,25,105,111,135,82,106,13,8,7,5,0,2,0,1,1, Full Time,hot,%D and %M with %T and %s,,,331000,,276200,,Midfielder,14
+230255,Will,Minson,WB,37,104,143,117,92,108,6,10,1,3,48,3,0,0,0, Full Time,hot,%H and %P with %T,,,445300,,508800,,Ruck,27
+210049,Daniel,Cross,WB,21,99,102,123,86,114,11,13,7,3,0,1,2,2,0, Full Time,news,%2 Mzungu on a wing... %O and %M plus %s,,,470700,,527800,,Midfielder,4
+261160,Brett,Goodes,WB,14,82,98,107,65,90,13,8,6,3,0,0,1,0,0, Full Time,tagged,Forward tag on him by de Boer... %P and %T plus %M,,,121300,,128200,,Midfielder Back,44
+271439,Liam,Picken,WB,10,80,70,102,64,90,14,9,4,2,2,0,1,0,1, Full Time,tagger,Tagging Barlow... %D and %T,,,391100,,388600,,Midfielder,42
+240156,Ryan,Griffen,WB,13,75,89,98,55,75,10,7,3,5,0,2,0,0,0, Full Time,creepy,Tagged by Crowley... %P and %T,,,500500,,567400,,Midfielder,16
+291526,Luke,Dahlhaus,WB,20,70,86,87,56,71,8,4,1,4,0,2,1,3,2, Full Time,news,%s from %P and %T on Duffield,,,384300,,448800,,Forward,6
+260227,Shaun,Higgins,WB,20,68,48,94,52,70,8,3,6,6,0,1,2,0,1, Full Time,news,%P and %M with %T,,,396200,,425200,,Forward,7
+260713,Nick,Lower,WB,15,65,55,87,51,66,10,1,6,3,0,0,1,1,0, Full Time,tagger,Tagging Mundy... %P and %T plus %s,,,352200,,379500,,Midfielder ,33
+294826,Tom,Young,WB,12,65,69,84,54,72,11,6,6,1,0,1,1,0,0, Full Time,job,Chasing Mayne... %P,,,216400,,238500,,Back,31
+200083,Robert,Murphy,WB,11,63,68,77,53,67,8,5,4,1,0,0,0,2,1, Full Time,news,%s from %O and %T with %M on Spurr,,,360900,,453000,,Back,2
+291545,Mitch,Wallis,WB,7,58,83,74,45,63,9,8,1,3,0,3,1,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q3 for Stevens,427600,,467200,,Midfielder,3
+250712,Dale,Morris,WB,4,49,64,61,41,54,6,7,4,1,0,1,0,0,0, Full Time,job,Big job on Bradley... %P,,,220600,,277600,,Back,38
+295712,Tory,Dickson,WB,3,48,34,63,34,45,8,3,1,3,0,3,0,0,0, Full Time,news,%D on Johnson,,,349400,,374200,,Midfielder,29
+200079,Daniel,Giansiracusa,WB,3,45,33,60,35,47,10,1,3,1,0,1,1,0,2, Full Time,news,%P on Suban,,,351500,,395600,,Forward,13
+280946,Koby,Stevens,WB,3,41,30,52,34,49,7,6,2,1,0,0,1,0,1, Full Time,news,On in Q3 for Wallis,sub,Started as a sub,204800,,176600,,Midfielder,25
+281078,Liam,Jones,WB,4,41,53,51,35,43,6,4,4,0,0,2,0,0,1, Full Time,news,%P and %M on McPharlin,,,226700,,269800,,Forward,19
+294101,Jason,Johannisen,WB,6,41,58,50,35,51,6,9,1,1,0,1,1,0,0, Full Time,southafrica,%D,job,Minding Walters,204400,,256800,,Midfielder,39
+280012,Jordan,Roughead,WB,3,32,46,44,28,39,6,2,4,1,0,0,2,0,0, Full Time,job,Following Pavlich... %P and %F,,,291400,,354600,,Ruck,23
+280056,Ayce,Cordy,WB,7,24,23,29,26,34,4,3,1,0,3,2,3,1,1, Full Time,news,Dawson on him... %P and %H,,,240400,,243400,,Ruck,49
+200045,Luke,McPharlin,FR,25,109,100,61,92,117,21,3,15,0,0,1,2,0,0, Full Time,garbage,Lots of chip and mark late... %P and %M,job,Has Jones,371400,,426300,,Back,18
+280726,Tendai,Mzungu,FR,21,101,105,69,82,105,15,7,9,2,0,1,0,1,0, Full Time,hot,%2 Cross playing a wing... %P and %M,,,396000,,427300,,Midfielder,13
+291570,Nathan,Fyfe,FR,26,101,127,76,80,111,13,12,4,5,3,0,1,1,0, Full Time,star,First goal... %P and %T plus %s,,,458500,,498800,,Midfielder,7
+281007,Michael,Walters,FR,26,93,100,76,74,94,11,3,6,5,0,0,1,3,1, Full Time,news,Johannisen on him... %s from %O and %M with %T,,,330400,,404600,,Forward,10
+200032,Matthew,Pavlich,FR,21,92,96,68,76,90,12,3,8,2,0,3,0,2,3, Full Time,news,%s from %P and %M on Roughead,,,489400,,593900,,Forward,29
+292026,Michael,Barlow,FR,26,91,97,76,70,97,11,8,4,7,1,1,2,1,0, Full Time,tagged,Tagged by Picken... %O and %T plus %s,,,495300,,509500,,Midfielder,21
+250088,Jonathon,Griffin,FR,16,87,102,72,74,90,9,4,6,3,23,1,1,0,1, Full Time,news,%H and %D plus %T and %M... also %s,,,397100,,491400,,Ruck,12
+250063,Danyle,Pearce,FR,20,81,71,64,58,79,11,5,4,6,0,1,0,0,1, Full Time,news,Playing a HFF... %P and %s,,,376900,,458800,,Midfielder Back,6
+240139,Paul,Duffield,FR,13,75,91,44,63,84,14,4,9,1,0,0,2,0,0, Full Time,news,%D and %M,job,Chasing Dahlhaus,426800,,496700,,Back,41
+270908,Nick,Suban,FR,13,72,62,38,60,82,14,6,6,1,0,1,2,0,1, Full Time,pumpkin,No sign of the midfield rotations of last week.. %P and %M,job,In defence on Giansiracusa,264500,,276400,,Back,8
+240052,David,Mundy,FR,14,70,84,55,55,76,9,8,4,4,0,1,1,0,1, Full Time,tagged,Tagged by Lower... %P,,,451800,,477300,,Midfielder,16
+230107,Michael,Johnson,FR,13,65,62,40,55,75,12,4,7,2,0,1,3,0,0, Full Time,job,Zoning off Dickson... %O and %M,sore,Left knee knock late in Q4,425000,,478400,,Back,37
+271015,Matthew,de Boer,FR,16,62,75,62,52,69,4,9,4,4,0,1,1,1,0, Full Time,tagger,Forward tag on Goodes... %P and %T with %M,,,434000,,457100,,Midfielder Forward,9
+230011,Kepler,Bradley,FR,12,59,79,46,50,62,7,3,4,2,2,1,1,2,0, Full Time,news,The undersized Morris on him... %s from %D,,,329300,,379400,,Forward,26
+280336,Stephen,Hill,FR,13,57,70,35,48,66,9,7,3,1,0,0,1,1,0, Full Time,news,%O and %s,,,342900,,432600,,Midfielder,32
+240266,Lee,Spurr,FR,9,52,51,47,40,54,6,3,5,4,0,0,1,0,0, Full Time,job,Responsible for Murphy... %P and %M with %T,sore,Accidental poke in the left eye by Murphy in Q3 gave him trouble,342400,,367700,,Back,34
+280416,Chris,Mayne,FR,15,52,61,45,44,61,6,5,3,4,0,1,3,1,1, Full Time,news,%s from %D on Young,,,380500,,431600,,Forward,23
+293651,Hayden,Crozier,FR,10,52,85,38,43,51,7,1,3,2,0,3,1,2,0, Full Time,news,%s from %D and %M with %T playing a HFF,,,175200,,219400,,Forward,17
+280386,Clancee,Pearce,FR,7,48,66,29,38,54,8,7,1,2,0,2,1,0,0, Full Time,news,Loose in defence early... %O,subbed,Subbed off in Q4 for Sutcliffe,436000,,487400,,Forward,46
+290733,Cameron,Sutcliffe,FR,9,45,35,32,39,48,6,3,5,0,0,0,0,1,0, Full Time,news,On in Q4 for Clancee Pearce,sub,Started as a sub,229300,,232700,,Midfielder,33
+240552,Zac,Dawson,FR,7,26,38,29,22,36,2,5,1,4,0,0,3,0,0, Full Time,job,Standing Cordy... %O,,,179700,,265500,,Back,3
+230048,Ryan,Crowley,FR,1,21,21,20,15,21,2,2,1,2,0,0,0,0,0, Full Time,tagger,Tagging Griffen... %P,,,323900,,312000,,Forward,15

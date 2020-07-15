@@ -1,0 +1,48 @@
+Geelong,Cats,Melbourne,Demons,R10,18.13.121,10.7.67, Full Time
+May 29,2010,2:10,Kardinia,Ten,200131,10281002,5015476,5142,A few showers,16
+The app has been submitted but not approved yet... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>theduckfan</em>: 1027 off 7 captain played in sc.. :D<br><em>Scratchy</em>: sc 722 from 5 including (c). <br><em>the dud</em>: bartel=super duper star. <br><em>Evpete55</em>: 1126 of 9 captain played in sc!<br><em>the dud</em>: is sylvias score correct?<br><em>Fredddd</em>: selwood 12 contested possessions&#044; more than anyone else on the ground&#044; i'd say that's not so junky<br><em>Salisbury</em>: Bartel is a star. Not a super star. However&#044; he has been spud like today for a star<br><em>Evpete55</em>: goo ablett (c) enright&#044; selwood&#044; pods&#044; chappy<br><em>DalaBomb</em>: @ Teddler - not sure where your info is from but i can 100% guarantee it is wrong<br><em>maddogg44</em>: good 1 sylvia! disappointing week after week.<br><em>Zan5hin</em>: Gazza&#044; Selwood&#044; Pods + (Enright) not bad at all<br><em>4.Gibbs</em>: get off bartel's back he is a superstar<br>
+220001,Gary,Ablett jnr,GE,32,124,137,154,105,143,15,17,7,4,0,0,2,2,2, Full Time,star,Tagged by Jones... %O including %b by hand with %M and %T... also %s resting on a HFF
+250321,Joel,Selwood,GE,31,110,134,129,99,135,9,26,6,2,0,2,1,1,0, Full Time,garbage,Tagged by McDonald... %P including %b by hand with %M and %T... enjoyed himself in junk time late
+200039,Paul,Chapman,GE,26,108,107,137,86,117,16,12,5,4,0,2,1,1,0, Full Time,gun,%P and %M with %T
+200131,James,Podsiadly,GE,31,103,143,125,90,103,13,2,9,0,0,2,0,5,1, Full Time,x-factor,%s from %D and %G on Warnock
+261510,Tom,Hawkins,GE,24,102,118,123,90,105,6,7,9,3,6,1,0,4,0, Full Time,hot,%H and %P with %M and %s... also %T
+960375,Darren,Milburn,GE,24,99,107,120,88,117,11,18,10,0,0,0,0,0,0, Full Time,garbage,Loose man in defence early... %D and %M... racked up Q4 garbage stats
+220054,Steve,Johnson,GE,27,93,83,120,70,92,11,5,4,6,0,0,0,2,2, Full Time,garbage,First goal... kicked %s from %G and %D on Frawley... took Q2 and Q3 off but recovered his numbers in Q4
+200037,Cameron,Ling,GE,15,82,94,102,72,106,10,18,4,3,0,0,3,0,1, Full Time,tagger,Tagged Davey... %D and %T
+200035,Corey,Enright,GE,14,78,95,99,64,90,16,9,5,0,0,0,1,0,0, Full Time,news,%O including %k by foot
+230214,Mathew,Stokes,GE,20,78,80,92,71,90,9,10,5,0,0,1,1,3,0, Full Time,news,%s from %D and %M
+261497,Harry,Taylor,GE,13,76,97,94,64,85,12,10,6,0,0,1,0,0,1, Full Time,job,Followed Miller... %D
+230022,Shannon,Byrnes,GE,13,71,78,92,52,70,9,7,2,5,0,3,0,0,1, Full Time,news,%S from %O with %T
+250290,Travis,Varcoe,GE,20,71,89,93,50,70,5,9,1,8,0,2,0,0,1, Full Time,news,%D and %T on Garland
+210059,Josh,Hunt,GE,9,70,76,90,57,78,9,9,5,3,0,1,1,0,0, Full Time,job,Responsible for Wonaeamirri... %B among %P with %M
+220007,Jimmy,Bartel,GE,8,67,77,85,55,80,14,9,2,1,2,1,2,0,0, Full Time,tagged,Tagged by Grimes... %O and %T
+230248,Andrew,Mackie,GE,12,67,64,87,56,75,11,6,7,1,0,0,1,0,0, Full Time,job,Followed Green... %P
+220058,James,Kelly,GE,12,63,85,80,47,69,8,10,1,4,0,0,0,0,0, Full Time,news,%P including %k by foot
+990076,David,Wojcinski,GE,8,62,70,82,49,72,11,7,3,3,0,0,2,0,0, Full Time,news,%B among %D with %T
+230125,Tom,Lonergan,GE,8,51,61,65,44,60,7,8,3,2,0,3,2,0,0, Full Time,job,Went with Watts... %P and %F
+970006,Cameron,Mooney,GE,5,50,71,65,41,52,7,4,4,2,0,3,1,0,1, Full Time,news,Booted %s from %G and %P on Rivers... also %T
+240117,Mark,Blake,GE,9,43,25,50,47,61,2,8,3,1,19,1,4,0,0, Full Time,news,%H and %D
+270193,Simon,Hogan,GE,4,42,26,53,36,51,4,8,3,2,0,0,1,0,0, Full Time,news,%P and %T
+200002,Aaron,Davey,ME,22,108,84,65,81,111,19,5,4,5,0,0,1,2,0, Full Time,hot,Tagged by Ling but beat him on the day... %O and %T plus %M and %s
+200054,Brad,Green,ME,26,105,82,68,89,112,16,5,9,1,0,0,1,3,1, Full Time,garbage,Loose man in defence early then got Mackie... %s from %D and %M with all of his goals in second half junk time
+280748,Jordan,Gysberts,ME,20,103,95,78,84,111,13,13,8,3,0,2,0,0,0, Full Time,hot,First game but looked like a veteran... %O and %M with %T
+230151,Brent,Moloney,ME,24,86,88,63,66,96,12,13,1,6,0,3,2,0,0, Full Time,news,%O and %T
+260288,James,Frawley,ME,13,71,74,38,58,78,13,7,6,0,0,0,0,0,0, Full Time,job,Had Johnson... %M and %P
+270985,Cale,Morton,ME,14,69,73,46,57,75,10,7,5,1,0,0,0,1,0, Full Time,news,%P and %M
+970130,James,McDonald,ME,13,69,86,60,55,81,6,16,1,4,0,0,0,0,0, Full Time,tagger,Tagged Selwood... %B among %O with %T
+240037,Colin,Sylvia,ME,8,63,89,38,51,72,10,10,3,1,0,0,0,0,0, Full Time,news,%D and %M
+220052,Mark,Jamar,ME,15,61,65,64,58,67,1,8,0,3,31,5,2,0,0, Full Time,news,%H and %P with %T
+220071,Brad,Miller,ME,16,59,34,52,56,67,5,5,8,0,5,0,1,1,2, Full Time,news,Taylor on him... %D and %M
+261297,Jack,Grimes,ME,9,59,82,45,49,69,8,8,4,3,0,1,2,0,0, Full Time,tagger,Tagged Bartel... %D and %M with %T
+230130,Joel,Macdonald,ME,9,58,47,50,50,72,6,11,4,3,0,0,2,0,0, Full Time,news,%O and %M
+200052,Cameron,Bruce,ME,9,56,65,52,43,60,5,8,3,4,0,0,0,0,0, Full Time,news,Loose in defence for much of the game... %D and %T with %M
+281280,Neville,Jetta,ME,14,56,61,50,43,57,5,7,1,4,0,2,0,1,0, Full Time,news,%s from %D with %T
+270830,Colin,Garland,ME,5,52,50,39,40,54,8,2,5,3,0,0,1,0,0, Full Time,injured,Minded Varcoe... %M and %D plus %T... left knee knock in Q4 and shut down
+250245,Clint,Bartram,ME,10,51,40,51,41,57,4,7,4,4,0,0,1,0,0, Full Time,news,%P and %T
+250388,Austin,Wonaeamirri,ME,19,51,49,55,38,52,3,5,1,6,0,1,1,1,1, Full Time,news,%s from %O with %T on Hunt
+230250,Jared,Rivers,ME,8,50,44,34,44,60,8,5,6,1,0,0,2,0,0, Full Time,job,On Mooney... %M and %P
+250222,Nathan,Jones,ME,3,48,63,20,37,51,11,3,1,2,0,4,2,0,0, Full Time,tagger,Tagged Ablett jnr... %P
+280972,Jack,Watts,ME,2,27,36,16,22,31,5,3,0,2,0,3,2,0,1, Full Time,news,Booted %s from %P on Lonergan
+290943,Jamie,Bennell,ME,8,27,36,30,22,30,1,4,0,3,0,1,1,1,0, Full Time,news,%s from %O plus %T
+250716,Matthew,Warnock,ME,7,26,42,31,21,33,1,6,0,4,0,1,2,0,0, Full Time,ipod,Stood Podsiadly

@@ -1,0 +1,48 @@
+Adelaide,Crows,Melbourne,Demons,R22,18.12.120,7.10.52, Full Time
+Aug 24,2013,1.45,Footy Park,Seven,210016,10392202,adel-v-melb,0,A shower or two,17,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> cusch1</em>: that explains a lot @incredi thanks<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> cusch1</em>: that explains a lot @incredi thank<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> incredi</em>: @cusch1 he was behind walker and lynch then got injured the same time as Tex<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> leggzy3</em>: trash can for johnston<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> cusch1</em>: How has it taken this long for Johnston to get a game<br><em style='color:#000'>Bort</em>: anyone in my forward line&#044; feel free to have a rest <br><em style='color:#000'>Drak</em>: 1 min 18 secs<br><em style='color:#000'>Drak</em>: he just kicked another<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> luvfooty</em>: Goal number 6 to Johnston <br><em style='color:#000'>Crow_Saint</em>: yes johnston you beautiful man<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Karlpov</em>: hahaha Johnston you superstar!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tSY"></b> Wends</em>: Cmon viney scrape a few more....<br>
+210016,Scott,Thompson,AD,37,136,176,174,107,148,17,16,7,7,0,0,1,1,1, Full Time,star,%2 Rodan but was particularly good after Rodan got injured early... awesome Q2 to set up an Adelaide lead... %O and %M with %T... also %s,,,359700,93,374000,89,Centre,5,20,89.7,92.2,4.99,3.80
+290731,Mitchell,Grigg,AD,31,117,106,154,87,113,16,5,7,7,0,2,0,1,2, Full Time,hot,%D and %T with %M,,,149100,-32,178100,-75,Centre,38,3,56.3,71.7,4.17,2.37
+294307,Brad,Crouch,AD,21,110,82,140,87,124,15,16,5,5,0,0,1,0,1, Full Time,hot,%P including %k by foot... also %M and %T,,,429800,101,434900,79,Centre,2,12,88.8,84.7,15.58,16.60
+280568,Lewis,Johnston,AD,33,107,83,129,91,103,12,1,6,2,2,3,0,6,2, Full Time,vulture,Booted %s from %P and %G on Frawley... all but one of his goals after the Crows had built a winning lead,,,193900,4,235300,15,Forward,8,3,73.3,75,6.94,1.93
+270811,Sam,Jacobs,AD,35,104,117,121,91,105,9,4,4,2,42,1,0,1,0, Full Time,hot,%H and %D with %M and %s,,,354600,84,429900,66,Ruck,24,20,74,84.3,8.11,8.54
+270963,Rory,Sloane,AD,21,104,116,132,81,107,11,13,5,6,1,4,0,0,1, Full Time,hot,%2 Grimes... %O and %T plus %M and %s,,,459000,86,554400,62,Centre,9,19,94.5,105.4,3.38,2.41
+293222,Rory,Laird,AD,15,96,88,126,74,99,16,6,8,3,0,0,0,0,0, Full Time,news,%P and %M,job,Minding Kent,335700,51,336000,53,Back,46,16,71.4,68.4,4.00,2.91
+270917,Patrick,Dangerfield,AD,20,92,115,114,73,93,11,10,1,5,6,7,1,1,0, Full Time,tagged,Tagged by McKenzie... %D and %T plus %s... also %H as third man up... assisted by a massive %4 FF,,,440200,107,531300,143,Centre,32,18,97.5,111.8,10.03,15.24
+240370,Richard,Douglas,AD,17,86,83,107,71,96,11,10,4,3,0,0,1,2,0, Full Time,news,%2 Viney... %P and %M plus %T,,,404900,73,459500,58,Centre,26,20,97.2,102.9,2.18,1.05
+291806,Sam,Kerridge,AD,19,86,99,105,73,97,11,12,6,1,0,0,0,1,1, Full Time,news,Kicked %s from %D and %M on McDonald,,,282000,130,265500,128,Forward Centre,29,9,64.3,57.3,4.23,4.69
+270296,Andy,Otten,AD,21,81,82,101,65,84,8,8,4,4,6,1,0,1,0, Full Time,news,%P and %T with %M starting forward on Dunn... also %H,,,281800,31,327100,41,Back,22,20,61.1,72.3,1.88,3.24
+230216,Richard,Tambling,AD,15,79,72,95,70,96,7,18,5,2,0,2,1,0,0, Full Time,job,Running off Tapscott... %O and %M,in,Late replacement for Tom T. Lynch,227900,21,219800,38,Back,1,3,61,45.3,1.58,0.58
+293193,Luke,Brown,AD,13,79,85,97,67,90,12,12,6,0,0,1,0,0,0, Full Time,news,%P and %M,job,Byrnes is his man,292700,87,337500,90,Back,16,19,53.9,59,3.69,4.74
+250118,Nathan,van Berlo,AD,20,74,86,96,61,87,11,9,3,4,0,1,3,1,0, Full Time,news,%D and %M plus %s,tagger,Tagging Nathan Jones,330400,122,292800,110,Centre,7,17,68.7,64.9,0.63,0.75
+290228,Kyle,Hartigan,AD,13,70,71,89,64,84,10,9,9,0,0,1,2,0,0, Full Time,news,%D and %M... %F as well,job,In defence on Pedersen,101300,,108200,,Back,41,1,74,56,2.85,1.60
+261857,Ian,Callinan,AD,16,68,67,86,53,69,7,5,3,4,0,0,0,2,0, Full Time,news,%P,,,291500,65,366400,55,Forward,37,4,53.5,69.3,0.29,0.20
+280934,Daniel,Talia,AD,15,63,66,80,54,66,7,4,8,1,0,0,0,1,0, Full Time,sore,%D and %M plus a rare %s... left leg knock in Q4,job,On Watts,220300,56,294900,89,Back,12,20,45.3,56.9,6.77,5.02
+261142,Bernie,Vince,AD,4,55,43,71,41,56,10,4,2,2,2,1,0,0,0, Full Time,news,%P and %M... also %H,,,415200,108,411300,101,Centre,17,19,84.9,80.4,0.63,0.60
+291748,Brodie,Smith,AD,7,53,64,64,45,63,8,10,3,0,0,0,0,0,0, Full Time,news,%D,job,Responsible for Howe,311400,85,345600,74,Back,33,16,68,73.4,0.47,0.69
+220093,Ben,Rutten,AD,4,47,48,59,42,57,5,8,5,1,0,0,1,0,0, Full Time,job,Standing Dawes... %O and %M,,,244900,65,298800,87,Back,25,19,52.9,60.4,1.71,2.13
+261138,Jared,Petrenko,AD,7,33,31,45,23,30,2,2,2,4,0,1,0,0,0, Full Time,news,%O and %T with %M on Garland to start with,subbed,Subbed off in Q3 for Mackay,259500,81,300600,96,Forward,23,11,54.8,61.2,0.68,0.41
+250362,David,Mackay,AD,1,21,16,26,17,24,2,4,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Petrenko,sub,Started as a sub,362200,112,373300,113,Centre,14,17,73,72.5,0.62,0.32
+280521,Jake,Spencer,ME,29,94,91,99,80,97,4,7,5,6,30,1,1,0,1, Full Time,news,%H and %P with %M and %T... %s as well,,,322600,74,405000,77,Ruck,42,6,65.2,80.5,0.19,0.27
+250548,Lynden,Dunn,ME,20,92,129,65,68,99,14,10,3,6,0,0,1,0,0, Full Time,news,%D and %T plus %M,job,Following Otten,305800,45,413200,51,Back Forward,14,16,66.6,79.3,0.52,0.51
+280972,Jack,Watts,ME,20,87,93,64,72,91,11,7,6,2,0,1,0,2,1, Full Time,news,%s from %P and %M on Talia,,,347000,65,400900,68,Back Forward,4,16,66.8,75.7,2.06,2.23
+240037,Colin,Sylvia,ME,26,82,95,80,64,88,6,10,2,7,1,0,1,2,0, Full Time,news,%D and %T with %M... %s as well,,,358900,39,428600,84,Forward Centre,12,17,82.8,86.6,1.16,0.86
+270241,Dean,Terlich,ME,14,78,75,43,61,84,15,5,6,2,0,0,1,0,0, Full Time,news,%O and %M,job,Has the resting mid rotating through him,380700,28,408100,72,Back,46,18,80.7,79.7,19.88,20.08
+293042,Jimmy,Toumpas,ME,15,78,98,67,66,94,8,14,5,4,0,0,2,0,1, Full Time,news,%P with %b by hand... also %M and %s,,,224600,38,218800,28,Centre,5,12,44.9,39.6,3.91,5.07
+280608,Jack,Trengove,ME,13,77,67,42,65,88,14,8,7,0,1,0,1,0,0, Full Time,news,%P,,,357900,62,365200,75,Centre,9,18,78.5,75.1,0.56,0.74
+291902,Jack,Viney,ME,21,77,55,80,53,72,6,6,3,9,0,2,0,0,0, Full Time,news,%2 Douglas... %O and %T with %M,,,315800,25,369400,28,Centre,7,11,68.7,74.5,14.82,20.32
+261297,Jack,Grimes,ME,15,72,87,55,64,96,10,13,5,4,0,0,5,0,0, Full Time,news,%2 Sloane... %D and %M,,,349700,63,343000,51,Back,31,13,76.1,77.6,3.63,1.89
+250222,Nathan,Jones,ME,8,69,80,43,56,81,11,12,1,3,0,3,2,0,0, Full Time,tagged,Tagged by van Berlo... %B among %D,,,368500,106,443000,127,Centre,2,20,78.1,89.5,0.61,0.60
+260394,Chris,Dawes,ME,9,65,79,45,51,65,10,3,6,2,0,1,0,0,2, Full Time,news,Kicked %s from %P and %T with %M on Rutten,,,242100,52,266700,57,Forward,6,11,51,53.6,0.41,0.71
+291533,Tom,McDonald,ME,9,62,54,47,52,72,8,9,5,2,0,0,1,0,0, Full Time,news,%D,job,Intersting matchup on Kerridge,295600,70,386300,81,Back,25,15,61.1,75.1,0.22,0.28
+296027,Matt,Jones,ME,13,62,58,51,49,72,7,11,2,4,0,0,1,0,0, Full Time,news,%O and %M,,,296300,86,323700,89,Centre,45,20,71.3,69.9,2.59,2.04
+270830,Colin,Garland,ME,9,58,68,33,45,63,11,4,4,2,0,0,1,0,0, Full Time,news,%O,job,Manned up by Petrenko,298500,88,356400,77,Back,20,19,66.7,81,0.52,0.78
+292029,Cameron,Pedersen,ME,10,56,43,59,44,56,4,3,5,5,5,1,1,0,0, Full Time,news,Starting forward on Hartigan... one handball to HT,,,313700,29,359700,61,Back Ruck,21,9,62,69.9,0.80,1.75
+280579,Luke,Tapscott,ME,15,55,42,57,41,52,4,2,4,5,0,0,0,1,1, Full Time,news,%T... trying to keep Tambling honest... no possessions to HT,,,221200,28,211900,26,Back,35,14,47.4,42.9,0.38,0.88
+294570,Dean,Kent,ME,4,55,60,32,43,57,10,3,5,1,0,0,0,0,0, Full Time,news,%O and %M on Laird,,,217600,1,205300,-13,Centre,34,13,42.8,40.8,1.02,0.99
+291313,Jeremy,Howe,ME,10,49,60,34,42,49,7,0,4,1,0,2,1,2,1, Full Time,concussed,First goal... %s from %O and %M on Smith... copped a heel to the face tackling Tambling in Q4 leaving him with a cut over the right eye,,,257700,66,297900,77,Forward,38,19,68.9,74.1,1.45,1.33
+260288,James,Frawley,ME,4,40,53,31,35,48,5,6,4,1,0,0,1,0,0, Full Time,job,On Johnston... %D and %M,,,304900,72,364500,87,Back,8,15,65.1,69.1,0.42,0.55
+200002,Aaron,Davey,ME,3,34,36,28,28,40,4,5,2,2,0,0,1,0,1, Full Time,news,On after QT for Rodan... %O,sub,Started as a sub,167500,37,159200,30,Forward,36,18,46.7,44.4,0.92,0.81
+270906,Jordie,McKenzie,ME,4,32,38,33,32,48,2,9,3,2,0,0,3,0,0, Full Time,tagger,Tagging Dangerfield... %D and %T,,,294000,53,303200,58,Centre,13,10,60.8,61,0.22,0.26
+220090,David,Rodan,ME,1,16,44,10,14,21,2,5,0,0,0,0,0,0,0, Full Time,injured,%2 Thompson... %D including %B... left knee hyperextension in Q1,subbed,Subbed off at QT for Davey,300700,35,381200,57,Centre,15,8,60.4,70.4,0.75,0.36

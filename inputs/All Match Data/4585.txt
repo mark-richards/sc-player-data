@@ -1,0 +1,48 @@
+Carlton,Blues,Essendon,Bombers,R22,9.22.76,12.10.82, Full Time
+Aug 24,2013,7.40,MCG,Seven,230202,10392205,carl-v-ess,0,Fine,17,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> owens4</em>: good work goddard<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: how depressing- i dont even have anything to look fwd to in the off season with the blues.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> bluma</em>: Damn autofill....<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> bluma</em>: Surprised Goddard didn't cry.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> hardballge</em>: well spoken Brendan<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> bluma</em>: surprised no-one has said they have tippett as capt yet.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWB"></b> MudDawg</em>: Choke sign for Gibbs.<br><em style='color:#000'>upweydons</em>: not good enough carlton <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> hardballge</em>: wtf was Casboult doing for ever with the ball at chf&#044; Kick the god dam thing<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> wadaramus</em>: Kick straight...win game.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: blues dont even have enough % to hold ninth if north win. time to rebuild blues<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> hardballge</em>: I can tell ya as a long time passionate supporter who tries to be realistic&#044; that hurts.<br>
+230202,Kade,Simpson,CA,16,120,144,154,91,124,23,10,5,3,0,3,0,0,1, Full Time,magnet,%P and %M. With %T. Plus %K,,,449600,137,507600,134,Centre,6,20,84.8,93.8,0.75,0.77
+990059,Heath,Scotland,CA,14,89,87,113,71,94,12,10,6,3,0,2,0,0,1, Full Time,news,Loose across half back... %D and %M. Also %T,,,426800,104,419800,100,Back Centre,29,17,81.4,82.2,11.05,6.46
+271110,Chris,Yarran,CA,16,81,111,103,68,93,13,7,3,3,0,1,3,2,3, Full Time,news,Hardingham on him... %s from %O and %M. Also %T with %F,,,260100,62,256400,81,Back,13,17,58.6,62.1,4.69,5.49
+294691,Tom,Bell,CA,10,80,78,106,64,94,16,8,4,3,0,0,3,0,1, Full Time,news,%D and %M. Plus %T with %F,,,269700,100,307000,115,Centre,28,5,53.8,61,0.35,0.38
+250105,Marc,Murphy,CA,10,77,98,96,62,84,11,11,4,2,0,2,0,0,0, Full Time,tagged,Tagged by Hocking... %D and %M. Also %T,,,342300,52,390900,49,Centre,3,19,84.5,90.1,7.75,8.01
+250672,Robert,Warnock,CA,21,75,103,87,67,79,8,3,2,1,37,1,1,0,0, Full Time,news,%D and %M. Plus %H,,,309000,28,403700,68,Ruck,11,8,70.4,89.1,0.91,0.76
+290311,Mitch,Robinson,CA,13,72,86,93,56,85,10,12,1,5,0,0,2,0,1, Full Time,news,%P. Plus %T,,,367100,21,399100,37,Forward Centre,12,17,77.6,81.1,2.84,1.88
+260533,Dennis,Armfield,CA,16,70,82,88,56,72,6,8,4,4,0,2,0,1,0, Full Time,news,Dangleish on him... %O and %M. Plus %T. Also %s,,,276000,80,290600,69,Forward Centre,27,20,56.4,59.6,2.22,2.30
+293154,Troy,Menzel,CA,12,68,64,85,56,68,8,3,5,2,0,1,0,2,2, Full Time,news,Pears on him... %s from %D and %M. With %T,,,191100,-19,176900,14,Forward Centre,2,4,49,41,5.52,5.12
+250417,Bryce,Gibbs,CA,14,67,81,83,55,73,12,6,4,0,0,0,0,1,1, Full Time,news,%2 Watson... %D and %M. Also %s,,,382700,83,403300,79,Back Centre,4,17,90.3,93.7,45.49,43.44
+291456,Andrew,McInnes,CA,13,67,86,88,49,69,8,7,3,5,0,0,0,0,0, Full Time,job,On Daniher... %D and %M. Plus %T,,,243000,91,295200,83,Back,26,4,48.3,59.8,0.14,0.17
+240060,Eddie,Betts,CA,9,56,59,69,45,57,9,4,2,1,0,2,0,1,3, Full Time,news,Baguley on him... %s from %O and %M,,,287900,11,328800,30,Forward,19,14,58.4,66.4,2.20,1.64
+270326,Lachie,Henderson,CA,10,55,53,72,45,56,8,1,5,2,0,1,1,1,2, Full Time,news,Carlisle on him... %s from %D and %G,,,360400,117,440300,142,Back Forward,23,20,71.2,87,3.17,3.91
+270146,Ed,Curnow,CA,8,53,56,69,41,60,8,7,2,3,0,0,1,0,0, Full Time,tagger,Tagging Stanton... %D plus %T. Also %M,,,331000,40,391100,48,Centre,35,17,72.9,78.1,0.34,0.37
+292511,Zach,Tuohy,CA,8,52,54,64,41,54,9,4,1,1,0,1,0,1,3, Full Time,job,On Kommer... %P. Plus %s,,,276200,79,348600,90,Back,42,20,53.9,66.4,1.76,2.11
+295445,Nicholas,Graham,CA,4,51,64,66,40,54,11,3,4,0,0,0,0,0,0, Full Time,bubble,Second game... %D and %M,sub,On early 1st Q,102700,,109500,,Centre,32,1,39,51,1.17,0.74
+261009,Nick,Duigan,CA,4,49,56,63,39,56,6,7,2,3,0,0,1,0,2, Full Time,tagger,Tagging Zaharakis... %D and %M. With %T. Plus an extra %s,in,Late replacement for Andrew Walker...,270800,,315300,,Back,34,1,36,51,0.39,0.41
+281124,Levi,Casboult,CA,4,49,74,63,44,55,7,4,5,1,4,3,2,0,0, Full Time,news,Hooker on him... %D and %G. Plus %H. Also %4 and %F,,,284100,39,319200,26,Forward,41,8,56.9,59.6,0.49,0.55
+261043,Michael,Jamison,CA,4,46,70,58,40,54,6,7,4,1,0,1,1,0,0, Full Time,sore,Going toe to toe with Crameri... Hurt his shoulder... %D and %G,,,234700,67,300300,62,Back,40,20,49.1,64.6,1.38,1.60
+220110,Jarrad,Waite,CA,4,41,86,53,35,48,8,4,4,0,0,0,1,0,0, Full Time,job,On Hurley... %D and %M,,,259700,57,287700,45,Forward,30,10,70.1,73.4,0.62,0.55
+261318,Aaron,Joseph,CA,7,37,38,53,24,36,5,1,1,5,0,0,1,0,0, Full Time,job,Matched up on Davey... %O and %T,in,Late replacement for Matthew Kreuzer,222600,81,243600,74,Back,45,3,30.3,34.7,0.19,0.32
+240028,Brock,McLean,CA,2,23,15,32,16,21,3,0,2,2,0,0,0,0,0, Full Time,injured,Left quad strain... %D and %M. Plus %T,subbed,Mid 1st Q,437200,44,421500,60,Centre,14,20,89.7,89.4,0.53,0.47
+230084,Brendon,Goddard,ES,37,122,156,106,98,130,12,15,8,6,1,1,0,1,0, Full Time,star,%D and %M with %B. Also %T,,,474500,82,498800,78,Back Centre,9,20,104,103.8,62.63,65.44
+230231,Jobe,Watson,ES,26,104,112,72,82,112,14,13,2,4,0,1,0,2,1, Full Time,gun,%2 Gibbs... %O and %M. Also %s,,,446200,49,501200,77,Centre,4,17,99.6,111.7,13.35,13.32
+271022,Tayte,Pears,ES,20,101,95,81,78,102,13,7,9,5,0,1,0,0,0, Full Time,hot,%D and %G. Plus %T,job,On Menzel,331800,82,347300,96,Back,16,9,70.4,71,0.63,0.51
+270951,David,Zaharakis,ES,21,100,116,61,75,103,17,7,4,4,0,0,0,1,1, Full Time,x-factor,Duigan running with him... %O and %M. Plus %T,sore,Left quad injury,318200,73,341700,75,Centre,11,19,81.5,84.6,1.26,1.40
+250267,Patrick,Ryder,ES,23,90,127,72,75,95,11,2,5,5,20,1,3,1,0, Full Time,news,%D and %G. Plus %H and %F,,,384200,99,414200,105,Forward Ruck,30,15,82.8,89.6,4.32,6.01
+270588,Cale,Hooker,ES,20,90,91,65,75,99,13,8,10,2,0,0,1,0,0, Full Time,job,Matched upon Casboult... %O and %G. Plus %T,,,338800,93,371100,100,Back,26,20,72,77.9,1.04,0.69
+270935,Michael,Hurley,ES,21,85,70,63,74,89,11,2,9,1,0,0,1,3,2, Full Time,news,Waite on him... %s from %D and %G,sore,Ankle rolled,267000,40,365800,34,Forward,18,14,57.6,70.6,1.43,2.11
+261314,David,Myers,ES,15,80,83,56,65,85,11,8,5,2,1,1,0,1,0, Full Time,news,Playing loose in defence... %D and %M. Plus %T. Also %s,,,363600,91,348200,100,Back,23,19,76.5,73.6,1.87,1.26
+270584,Kyle,Hardingham,ES,18,77,67,66,58,78,9,6,6,5,0,0,0,0,0, Full Time,job,On Yarran... %P and %M. Plus %T,,,274800,27,321300,50,Back,34,6,59.5,64.8,0.38,0.22
+250569,Heath,Hocking,ES,14,76,71,61,61,88,9,13,2,5,0,2,2,0,1, Full Time,tagger,Going toe to toe with Murphy... %P and %M with %B. Plus %T. Also %4 and %F,mrp,Head high hit on Yarran will be scrutinised,333400,62,369400,55,Centre,39,16,71.3,67.9,1.09,0.78
+280824,Jake,Melksham,ES,9,68,54,31,51,69,15,2,4,2,0,2,1,0,0, Full Time,news,%D with %K and %M. Also %T...,concussed,Head knock led to him seeing stars in 2nd Q,397500,51,392700,27,Centre,17,19,77.7,75.1,0.85,1.11
+291686,Nick,Kommer,ES,16,68,55,65,56,75,6,7,5,5,0,1,2,1,0, Full Time,news,%s from %D and %M. Plus %T,,,219600,56,225400,35,Centre,38,18,51.4,52.9,5.79,6.72
+294798,Mark,Baguley,ES,12,65,68,37,55,75,12,6,6,1,0,1,2,0,0, Full Time,job,The job on Betts... No touches in 1st Q... %D and %M,,,323900,39,355500,45,Back,46,19,66.7,69,1.10,0.74
+292503,Stewart,Crameri,ES,12,64,67,52,53,66,7,4,5,2,0,0,0,2,0, Full Time,news,Jamieson on him... %s from %D and %G. Plus %T,sore,Right ankle injury,300300,107,345300,92,Forward,12,14,65.6,74.7,0.82,0.82
+240027,Brent,Stanton,ES,15,61,46,57,43,60,6,6,2,6,0,1,0,0,0, Full Time,tagged,Tagged by Curnow. %D and %M... Plus %T,,,428400,83,423800,73,Centre,5,19,103.2,96.1,10.76,2.26
+295285,Jackson,Merrett,ES,10,61,71,46,46,63,9,4,4,4,0,1,1,0,0, Full Time,news,%D and %M. Plus %T,,,185200,53,191800,40,Centre,20,11,48.1,47.5,1.78,1.30
+295319,Lauchlan,Dalgleish,ES,8,61,63,32,49,66,12,4,5,1,0,1,1,0,0, Full Time,bubble,Second game... %D and %M,job,Minding Armfield,108500,,115900,,Centre,36,1,48,70,0.44,0.35
+294518,Joe,Daniher,ES,12,56,32,35,51,66,9,6,6,0,1,2,2,0,2, Full Time,news,Rotating matchup of McInnes and Jamieson... %s from %P and %G,,,188800,52,208600,62,Forward,6,4,53.8,55.3,21.22,28.25
+260073,Ben,Howlett,ES,8,53,77,40,35,51,8,3,1,5,0,0,0,0,0, Full Time,news,On in Late 3rd Q... %D plus %T,sub,Started as a sub,312000,100,291200,90,Centre,40,17,76.9,75.1,1.09,1.82
+290160,Michael,Hibberd,ES,4,50,62,34,40,58,8,6,2,3,0,1,2,0,1, Full Time,job,On Menzel... %P and %M. Plus %T,,,405700,60,457200,58,Back,1,20,88.2,96.2,15.72,13.30
+290641,Jake,Carlisle,ES,4,49,55,26,41,57,10,3,5,1,0,0,2,0,0, Full Time,job,On Henderson... %D and %G,sore,Slight calf soreness,265500,56,316700,73,Back,22,19,69.5,77.8,2.86,2.92
+230051,Alwyn,Davey,ES,1,26,18,27,18,25,2,2,1,3,0,0,0,0,1, Full Time,news,%P and %M. Plus %T,subbed,Late in 3rd Q,250700,55,265000,69,Forward,29,12,53.4,60.9,0.47,0.54

@@ -1,0 +1,48 @@
+Geelong,Cats,North Melbourne,Kangaroos,R14,14.14.98,9.9.63, Full Time
+Jul 04,2010,1:10,Kardinia,Fox Sports,200131,10281406,5015568,5178,,
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em><b class="picon i_canada" title="froggy55 likes Mike Pyke!"></b> froggy55</em>: FUUU Ablett&#044; shower carnt<br><em>Kazakhstan</em>: multi position player<br><em>Grovesy</em>: Think I'll be Bringing Ablett in for Barlow in both SC and DT<br><em>kk12</em>: what is mpp? anyone pls?<br><em>hayes15</em>: Only a record for boring dreamteam<br><em>SamJ</em>: not a single sc ton for North Melbourne haha.<br><em>J-Squad</em>: Should have put the C on Swan against the weagles...<br><em>adiman</em>: j-pods s/c (:<br><em>SamJ</em>: Pods 144&#044; Selwood 118&#044; Ablett 106&#044; Enright 102. Great haul&#044; too bad I also had Ziebell's 9.<br><em>Scotty1</em>: Ziebell gone up each 1/4??<br><em>brutus76</em>: Chappy 37 touches.. not bad first week back<br><em>Scratchy</em>: 5 of the top 7 cats :)<br>
+200039,Paul,Chapman,GE,26,130,134,164,100,140,20,17,4,5,0,2,0,0,2, Full Time,gun,%D and %T with %M
+230248,Andrew,Mackie,GE,27,126,92,163,99,132,25,7,8,2,0,2,1,1,0, Full Time,hot,Has Warren... %P and %M plus %T and %s
+200131,James,Podsiadly,GE,37,120,144,148,100,118,12,5,8,4,0,3,0,5,1, Full Time,star,First goal... %s from %G and %P on Thompson
+200034,Joel,Corey,GE,50,119,90,152,91,126,8,19,5,10,0,2,0,0,0, Full Time,hot,Head to head with Swallow... %D and %M plus %T
+250321,Joel,Selwood,GE,21,109,118,135,89,124,12,20,4,5,0,3,1,0,1, Full Time,hot,Head to head with Wells... %O and %T with %M and %s
+200035,Corey,Enright,GE,20,108,102,137,86,117,18,12,7,2,0,1,0,0,0, Full Time,hot,Tagging Harvey... %D and %M with %T
+220001,Gary,Ablett jnr,GE,27,108,106,132,92,132,10,23,4,5,0,0,2,1,0, Full Time,hot,Tagged by Lower... %P including %b by hand
+230214,Mathew,Stokes,GE,20,106,105,131,90,121,10,18,9,3,0,0,0,0,1, Full Time,hot,%O and %M with %T
+220058,James,Kelly,GE,20,101,110,128,80,117,15,17,2,5,0,2,2,0,0, Full Time,hot,%P and %T with %M
+220007,Jimmy,Bartel,GE,25,94,79,116,85,106,11,11,11,0,0,2,1,1,1, Full Time,news,Playing HFF on Wright... %P and %M plus %s
+980037,Matthew,Scarlett,GE,19,85,91,104,72,99,9,16,6,2,0,0,0,0,0, Full Time,job,Minding the resting ruckman which is mostly Goldstein... %B among %P with %M and %T
+230022,Shannon,Byrnes,GE,17,84,94,101,72,94,8,12,5,2,0,0,0,2,1, Full Time,news,%s from %O and %M on Pratt
+270193,Simon,Hogan,GE,15,81,77,101,65,90,8,14,4,4,0,1,0,0,0, Full Time,in,%l Cameron Ling... %P and %T
+230125,Tom,Lonergan,GE,19,77,93,99,68,87,5,10,11,3,0,0,1,0,0, Full Time,job,Following Hansen... %M and %D plus %T
+960375,Darren,Milburn,GE,14,73,73,93,63,87,10,11,6,2,0,1,2,0,0, Full Time,news,%D and %M
+210059,Josh,Hunt,GE,13,71,89,91,59,81,10,9,6,2,0,0,1,0,0, Full Time,job,Minding Thomas... %D and %M
+280822,Taylor,Hunt,GE,9,70,70,87,60,87,10,14,3,2,0,1,2,0,0, Full Time,job,Going with Campbell... %O and %M
+990076,David,Wojcinski,GE,12,63,58,77,57,76,8,11,6,0,0,1,1,0,1, Full Time,news,%O
+240117,Mark,Blake,GE,14,58,57,65,59,74,3,12,2,1,20,4,3,0,0, Full Time,news,%H and %D with %M and %F
+260261,Trent,West,GE,10,58,62,70,51,60,5,3,5,1,9,0,0,1,3, Full Time,news,%H and %P plus %M and %s
+281065,Mitchell,Duncan,GE,11,56,53,68,49,60,7,4,5,0,0,0,0,2,0, Full Time,news,%s from %D on a HFF on McMahon
+250290,Travis,Varcoe,GE,13,53,72,63,46,66,3,13,1,3,0,0,1,1,0, Full Time,news,%s from %P on Rawlings... also %T
+990055,Brady,Rawlings,NM,30,112,91,102,105,141,7,29,11,0,0,0,0,0,0, Full Time,hot,Minding Varcoe... %D and %M
+271129,Todd,Goldstein,NM,28,106,87,86,94,122,12,10,10,3,10,0,3,1,1, Full Time,hot,Started forward on Scarlett... %P and %M with %H and %s... also %F
+230232,Daniel,Wells,NM,21,100,92,62,78,105,16,10,4,3,0,2,0,1,0, Full Time,hot,Head to head with Selwood... %O and %M with %T and %s
+250373,Lachlan,Hansen,NM,21,81,81,59,71,83,10,2,6,1,1,2,1,4,1, Full Time,news,%s from %P and %G on Lonergan
+960491,Brent,Harvey,NM,10,79,71,52,65,88,12,10,5,2,0,2,1,0,1, Full Time,tagged,Tagged by Enright... %O and %M
+271300,Cruize,Garlett,NM,24,78,86,62,55,84,11,8,1,8,0,0,2,0,0, Full Time,news,%D and %T
+240417,Andrew,Swallow,NM,13,69,60,57,51,72,8,9,2,5,0,1,0,0,0, Full Time,news,Head to head with Corey... %P including %b by hand
+250135,Scott,McMahon,NM,9,68,72,39,51,72,13,4,4,3,0,0,1,0,0, Full Time,job,On Duncan... %D and %T
+280921,Ben,Cunnington,NM,9,66,49,49,51,70,9,7,4,3,0,0,0,0,1, Full Time,news,%O
+230141,Hamish,McIntosh,NM,15,63,68,47,58,71,7,5,3,1,15,2,2,1,2, Full Time,news,%H and %D with %s
+210039,Daniel,Pratt,NM,8,59,54,31,50,69,11,7,5,0,0,0,1,0,0, Full Time,job,Sitting on Byrnes... %D
+270861,Levi,Greenwood,NM,8,58,59,40,50,69,8,10,4,1,0,1,1,0,0, Full Time,news,%B among %D
+260711,Ed,Lower,NM,9,55,36,39,49,69,8,9,4,2,0,2,3,0,0, Full Time,tagger,Tagging Ablett jnr... %D and %F
+280864,Sam,Wright,NM,12,55,44,39,49,66,8,7,6,1,0,1,2,0,0, Full Time,job,On a HBF on Bartel... %P and %M with %F
+281395,Scott D.,Thompson,NM,8,55,79,44,47,66,6,11,3,2,0,1,1,0,0, Full Time,ipod,Standing Podsiadly... %D
+250285,Leigh,Adams,NM,7,54,49,39,48,67,6,13,3,0,0,0,0,0,1, Full Time,in,%l Nathan Grima... %O
+280863,Ryan,Bastinac,NM,7,52,77,39,45,66,5,16,0,1,0,1,0,0,0, Full Time,news,%P
+230272,Michael,Firrito,NM,7,49,66,27,43,63,8,11,2,0,0,0,1,0,0, Full Time,job,Has Chapman... %O
+240189,Matt,Campbell,NM,7,43,56,45,30,42,3,5,1,5,0,1,0,0,0, Full Time,news,%P and %T on Taylor Hunt
+261228,Ben,Warren,NM,8,34,41,15,29,36,7,1,2,0,0,2,1,1,0, Full Time,news,Mackie on him... %s from %P and %M
+261909,Lindsay,Thomas,NM,8,23,18,1,25,39,8,1,2,0,0,0,5,1,0, Full Time,news,Josh Hunt has him
+280944,Jack,Ziebell,NM,0,8,9,8,8,12,0,4,0,0,0,0,0,0,0, Full Time,longterminjured,Kick on the right shin in Q1 and couldn't put any weight on it... suspected broken leg on the same side as last year... %O

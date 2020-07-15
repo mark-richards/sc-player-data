@@ -1,0 +1,48 @@
+Hawthorn,Hawks,West Coast,Eagles,R4,10.12.72,9.11.65, Full Time
+Apr 16,2011,2:10,Launceston,Fox Sports,260955,10310402,5477,27,Fine,18
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>shockie44</em>: only reason bruce is in the side&#044; is to justify picking him up. hes useless<br><em>Bluke</em>: How can Kennedy's SC be lower than DT. He kept the Eagles in the game...<br><em>soicanchat</em>: does that mean i get 0 coz i had mackenzie capt?<br><em>hayes7</em>: supercoach uploaded on website.<br><em>skystyler</em>: both selwoods tagged my SC players. bastards!<br><em>Grazz</em>: Oggmonster dont be upset your bench is strong mate.<br><em>cats09</em>: eagles flying wgaf<br><em>OggMonster</em>: Last week Curnow gets 100 and he's on my bench... this week Darling gets 100 and he's on my bench! FML!!<br><em>Save-Lo</em>: darlings maiden ton<br><em>dancasta</em>: ffs bruce i thought you were going well -sc ffaark<br><em>demons13</em>: LOL at bruce sc<br><em>BoredSaint</em>: lmao bruce<br><em>skystyler</em>: thanks Cox. flowered my round<br>
+220073,Sam,Mitchell,HW,25,129,127,165,99,138,24,13,6,3,0,1,0,0,0, Full Time,star,%2 Shuey... %O with %k by foot... also %M,,
+240399,Lance,Franklin,HW,44,127,146,154,116,146,11,13,8,4,0,2,4,6,2, Full Time,x-factor,%s from %O and %G on Brown... also %T and %F,,
+230197,Brad,Sewell,HW,43,108,108,147,72,103,12,7,3,12,0,0,0,0,1, Full Time,hot,%D and %T with %M,tagger,Tagging Priddis
+240302,Grant,Birchall,HW,21,102,113,126,83,114,17,13,5,1,0,0,0,1,0, Full Time,hot,Running off Darling... %D and %M,,
+250055,Clinton,Young,HW,19,102,82,136,75,101,17,4,7,5,0,0,0,0,2, Full Time,hot,%P and %M with %T plus %s,,
+200052,Cameron,Bruce,HW,26,101,60,131,80,106,9,11,9,6,0,0,0,0,1, Full Time,hot,%B among %O with %T and %M,tagger,Tagging Embley
+250089,Jordan,Lewis,HW,20,89,103,113,73,94,10,8,8,3,0,0,0,1,1, Full Time,tagger,Forward tag on Hurn... %D and %M plus %T and %s,,
+280737,Liam,Shiels,HW,20,81,78,105,62,82,7,9,5,6,1,2,0,0,0, Full Time,sore,%D and %T with %M... left knee knock in Q2 but returned soon after,,
+240357,Jarryd,Roughead,HW,23,73,73,97,55,72,8,2,4,6,5,0,1,1,1, Full Time,news,Glass on him... kicked %s from %D... also %T,,
+260955,Cyril,Rioli,HW,38,72,76,99,48,69,6,6,1,10,0,2,1,0,0, Full Time,tagged,Tagged by Adam Selwood... %D and %T,,
+270732,Matt,Suckling,HW,8,70,68,88,55,81,13,10,1,2,0,0,1,0,3, Full Time,news,%D and %T plus %s,,
+220047,Luke,Hodge,HW,8,67,98,86,53,75,10,9,3,3,0,1,1,0,0, Full Time,news,Started up forward but mostly back on Nicoski... %O and %T with %M,,
+200040,Chance,Bateman,HW,8,65,57,81,54,75,7,12,3,3,0,2,1,0,0, Full Time,tagger,Tagging Kerr.. %D and %M,,
+250257,Xavier,Ellis,HW,9,61,73,79,53,69,8,6,8,1,0,0,1,0,0, Full Time,news,%P and %M with %T,,
+250308,Brent,Renouf,HW,14,61,60,78,49,63,4,4,3,5,15,0,1,0,0, Full Time,news,%H and %P with %T,,
+210012,Shaun,Burgoyne,HW,14,60,80,75,46,63,4,9,1,5,0,1,0,1,0, Full Time,tagged,First goal... tagged by Scott Selwood... %P and %s,,
+220060,Rick,Ladson,HW,8,60,59,79,48,66,12,4,5,1,0,0,1,0,0, Full Time,news,%P and %M,,
+200060,Brent,Guerra,HW,8,42,28,60,30,40,4,0,4,5,0,0,1,0,1, Full Time,news,On in Q3 for Hale,sub,Started as a sub
+230082,Stephen,Gilham,HW,3,41,58,52,33,45,6,5,3,1,0,0,0,0,0, Full Time,job,On the resting ruckman... %M and %O,,
+280858,Shane,Savage,HW,3,35,36,48,28,36,7,0,4,1,0,1,1,0,0, Full Time,cash,%O and %M,,
+250715,Josh,Gibson,HW,2,31,56,34,31,45,0,13,1,1,0,1,1,0,0, Full Time,job,On Kennedy... %D,,
+220036,David,Hale,HW,3,24,24,27,23,28,1,4,2,0,7,0,0,0,0, Full Time,news,%H and %P on Mackenzie,subbed,Subbed off in Q3
+240124,Matt,Priddis,WC,49,132,134,124,91,129,13,13,3,14,0,2,0,0,0, Full Time,gun,Tagged by Sewell... %P and %T with %M,,
+990020,Andrew,Embley,WC,21,105,107,66,81,110,18,6,5,5,0,2,2,1,2, Full Time,hot,Tagged by Bruce... %O and %T with %M and %s,,
+270928,Scott,Selwood,WC,27,103,88,92,74,103,11,10,4,9,0,1,0,0,1, Full Time,hot,Tagging Burgoyne.. %D and %T with %M,,
+290838,Jack,Darling,WC,20,100,99,80,83,109,11,13,7,3,1,1,0,1,0, Full Time,hot,Trying to give Birchall the run around... %B among %P with %M and %T,,
+240159,Sam,Butler,WC,19,98,93,64,74,102,16,8,6,4,0,0,0,0,0, Full Time,news,%O and %M with %T,,
+240406,Josh J.,Kennedy,WC,23,94,88,79,82,98,10,2,9,3,0,1,2,4,2, Full Time,news,Booted %s from %G and %O on Gibson... also %T,,
+250111,Matt,Rosa,WC,20,86,91,54,69,96,13,12,3,2,0,0,0,1,0, Full Time,news,%B among %P with %M and %s,,
+220061,Quinten,Lynch,WC,15,81,80,67,65,82,10,4,10,3,0,0,0,0,1, Full Time,news,%D and %M with %T and %s,,
+200112,Dean,Cox,WC,21,79,87,63,72,87,7,6,3,1,36,0,1,0,0, Full Time,news,%H and %P with %M,,
+280078,Luke,Shuey,WC,19,76,76,60,61,84,9,10,3,4,0,1,1,1,0, Full Time,news,%2 Mitchell... %P and %T with %M plus %s,,
+210018,Daniel,Kerr,WC,9,69,77,48,55,78,10,10,3,3,0,1,1,0,0, Full Time,tagged,Tagged by Bateman... %B among %O with %T and %M,,
+290801,Andrew,Gaff,WC,14,68,73,43,55,69,11,3,6,1,0,1,0,1,0, Full Time,cash,%P and %M,,
+200074,Darren,Glass,WC,14,67,88,64,54,72,5,11,4,4,0,2,0,0,0, Full Time,job,Standing Roughead... %O and %M,,
+240283,Shannon,Hurn,WC,8,65,87,34,46,66,13,4,2,3,0,0,0,0,0, Full Time,tagged,Forward tag on him by Lewis... %D and %T,,
+250317,Eric,Mackenzie,WC,9,65,81,58,53,72,6,10,5,3,0,0,0,0,0, Full Time,news,%M and %D plus %T,job,Has Hale
+230281,Mark,Nicoski,WC,10,58,44,43,41,55,9,1,4,4,0,0,0,0,1, Full Time,news,%D and %T with %M plus %s in his small forward role on Hodge,,
+230254,Adam,Selwood,WC,8,48,64,39,41,57,5,10,2,2,0,2,1,0,0, Full Time,tagger,Tagging Rioli... %D and %M with %T,,
+261911,Brad,Ebert,WC,4,46,42,34,36,51,6,7,2,2,0,0,0,0,0, Full Time,news,%D and %M,,
+271045,Nic,Naitanui,WC,5,40,42,38,40,54,2,9,2,1,12,0,2,0,0, Full Time,fiji,%P and %M with %H,,
+261214,Will,Schofield,WC,2,36,40,34,27,39,3,6,1,3,0,0,0,0,0, Full Time,news,%P and %T,subbed,Subbed off at 3QT for Dalziell
+260303,Mitchell,Brown,WC,3,33,42,8,25,39,10,0,1,2,0,1,3,0,0, Full Time,job,On Franklin... %P and %T with %F,,
+260546,Bradd,Dalziell,WC,2,22,16,16,19,24,3,2,3,0,0,0,0,0,0, Full Time,news,On in Q4 for Schofield,sub,Started as a sub

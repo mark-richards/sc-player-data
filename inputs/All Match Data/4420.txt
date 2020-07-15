@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Sydney,Swans,R3,13.14.92,20.11.131, Full Time
+Apr 13,2013,1.45,Hobart,Seven,980073,10390302,5015,0,Cloudy,18,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>jimmyhird5</em>: goign a bit far arent we joemontagna hes a good player i said he WILL be a gun u spastic!<br><em>SuperSub17</em>: Bin for goodes<br><em>Wends</em>: Lucky Crozan!<br><em>banta</em>: what the hell petrie you spud. get Daw in. Petrie is a hack.<br><em>JoeMontana</em>: get off the roids jimmyhird5&#044; he is far from being a gun&#044; just cause he takes a good mark&#044; so what!<br><em>CroZaN`</em>: hurry up siren!<br><em>korza</em>: Mullett ton's up for a 42pt qtr cape him<br><em>Chillicat</em>: Great job Parker awesome effort almost matching JPK <br><em>mstrbatten</em>: come on JPK late goal plssss<br><em>goodes=god</em>: farthers. no disgrace. richards i AA and nick smith is one of the best shut down defenders in the comp.<br><em>Kangas42</em>: I'm getting destroyed by an opponent who has Hannebery... kill me now<br><em>CroZaN`</em>: need sydney to win by under 40 OMGG<br>
+240417,Andrew,Swallow,NM,49,123,99,166,87,126,18,10,3,11,0,2,2,0,0, Full Time,heart,Matched up on O'Keefe... %P and %T with %M... also %F... left ankle restrapped in Q3 but he battled on,,,528800,52,585100,95,Midfielder,9
+271129,Todd,Goldstein,NM,34,114,110,136,97,108,9,3,5,4,39,5,0,1,0, Full Time,hot,First goal... %H and %P plus %M and %T... also %s,,,407300,51,497900,66,Ruck,22
+280921,Ben,Cunnington,NM,22,103,127,129,82,108,13,10,5,4,0,1,0,2,0, Full Time,hot,%D and %M plus %s,,,387500,106,412800,97,Midfielder,10
+291445,Aaron,Mullett,NM,19,98,94,128,76,103,20,6,6,2,0,2,1,0,1, Full Time,news,%O and %M,job,Minding Everitt,252700,-44,279100,-61,Midfielder,41
+230232,Daniel,Wells,NM,21,97,125,122,76,102,13,11,4,4,0,2,0,1,0, Full Time,news,Matched up on Jack... %O and %M plus %T and %s,,,448200,109,529700,136,Midfielder,8
+290194,Jamie,MacMillan,NM,19,83,-,106,69,90,12,7,7,2,0,1,1,1,0, Full Time,job,Has McGlynn... %D and %M,,,317100,79,334900,92,Midfielder,34
+281395,Scott D.,Thompson,NM,13,82,70,105,68,87,12,7,9,1,0,1,0,0,0, Full Time,news,%M and %O,job,Standing Reid,360100,75,469800,92,Back,16
+250557,Sam,Gibson,NM,13,73,42,90,63,84,10,11,7,0,0,0,0,0,0, Full Time,news,%D and %M,,,468400,103,411100,100,Midfielder,43
+250285,Leigh,Adams,NM,14,72,77,96,53,72,11,4,5,4,0,0,0,0,0, Full Time,news,%D and %M with %T on Malceski,,,384400,114,442600,137,Forward,13
+230272,Michael,Firrito,NM,8,69,75,90,55,75,14,5,5,1,0,1,1,0,0, Full Time,news,%P and %M,job,Following Goodes,319200,46,392500,115,Back,11
+250135,Scott,McMahon,NM,9,65,97,83,54,72,9,8,5,2,0,2,1,0,0, Full Time,job,Bolton is his man... %P and %M,,,332300,,421300,,Back,42
+240131,Nathan,Grima,NM,13,64,89,82,52,69,8,7,6,2,0,0,0,0,0, Full Time,job,Has the resting ruckman which is mostly Pyke... %M and %O,,,392400,105,468200,156,Back,17
+250373,Lachlan,Hansen,NM,11,62,65,78,52,64,10,1,4,1,3,1,1,2,1, Full Time,news,%s from %D and %M on Roberts-Thomson... also %H,,,271700,51,332700,86,Forward,6
+280944,Jack,Ziebell,NM,13,58,63,77,45,66,7,8,2,5,0,1,2,0,0, Full Time,news,%2 Kennedy... 99 problems but a tag ain't one... %P and %T,sore,Right hamstring tightness in Q1,406400,79,434100,76,Midfielder,7
+290787,Shaun,Atley,NM,7,55,63,71,42,57,11,4,3,1,0,1,0,0,0, Full Time,job,Responsible for Parker... %O and %M,,,311200,57,380400,75,Back,18
+290538,Taylor,Hine,NM,4,54,48,70,41,57,7,6,3,3,0,0,0,0,0, Full Time,news,%O and %M with %T,,,263400,,278200,,Back,26
+280863,Ryan,Bastinac,NM,7,51,55,66,41,58,12,4,3,0,0,0,1,0,1, Full Time,news,%P and %M plus %s,,,405800,25,407800,41,Midfielder,3
+261909,Lindsay,Thomas,NM,15,48,58,60,41,49,5,0,3,2,0,0,1,3,1, Full Time,news,%s from %P and %M on Smith,,,353200,55,396500,91,Forward,12
+290547,Kieran,Harper,NM,13,48,53,68,31,43,5,1,1,7,0,2,1,0,1, Full Time,in,%l Liam Anthony... %P and %T,subbed,Subbed off in Q3 for Wright,253200,83,275500,98,Forward,23
+270325,Robbie,Tarrant,NM,9,39,41,49,38,49,5,2,3,1,3,0,3,2,1, Full Time,news,Grundy on him... %s from %D and %M,,,285800,53,324200,69,Back,25
+210023,Drew,Petrie,NM,3,31,41,42,25,33,4,2,3,2,0,1,1,0,0, Full Time,news,%D and %T on Richards,,,419000,102,506100,147,Forward,20
+280864,Sam,Wright,NM,8,31,22,38,26,33,5,2,2,0,0,0,0,1,0, Full Time,news,On in Q3 for Harper,sub,Started as a sub,344900,,395700,,Forward,19
+230253,Jarrad,McVeigh,SY,27,120,123,90,101,133,15,13,9,3,0,0,1,2,1, Full Time,star,Roving commission without an opponent... %O and %M plus %s,,,469500,72,526000,76,Midfielder,3
+260382,Josh P.,Kennedy,SY,37,114,136,95,87,127,13,16,2,9,0,0,2,1,1, Full Time,magnet,%2 Ziebell... %P and %T plus %s,,,523900,127,643000,122,Midfielder,12
+200071,Ryan,O'Keefe,SY,38,112,97,92,88,123,14,12,4,9,0,4,4,1,0, Full Time,garbage,Matched up on Swallow... %P and %T with %M... also %F... enjoyed himself in garbage time,,,499300,83,555400,101,Midfielder,5
+290778,Luke,Parker,SY,27,112,86,73,87,117,17,10,4,4,0,1,0,2,0, Full Time,cherry,%s from %O and %T with %M on Atley,,,343600,,379500,-6,Forward ,26
+290117,Daniel,Hannebery,SY,30,108,140,72,93,119,15,10,7,1,0,1,1,3,2, Full Time,hot,%O and %M with %s,,,421800,66,439700,66,Midfielder,4
+230132,Nick,Malceski,SY,15,107,108,38,77,106,26,2,5,2,0,1,0,0,1, Full Time,hot,%O and %M,job,Responsible for Adams,373100,90,404100,75,Back,9
+990011,Jude,Bolton,SY,22,86,102,64,72,90,10,6,4,2,0,0,0,4,0, Full Time,news,%s from %P and %M on McMahon,,,451500,140,501300,131,Midfielder,24
+230140,Ben,McGlynn,SY,24,80,95,56,63,82,11,5,1,4,0,2,1,3,1, Full Time,news,%s from %D and %T on MacMillan,,,374100,69,375800,77,Midfielder,21
+291206,Mike,Pyke,SY,22,71,69,68,68,80,3,7,4,1,35,0,1,0,0, Full Time,canada,%H and %D with %M,,,341400,19,410200,16,Ruck,38
+980073,Adam,Goodes,SY,15,68,76,50,58,73,8,7,4,1,1,1,0,2,0, Full Time,news,%P on Firrito,,,424700,120,479900,135,Forward,37
+240072,Heath,Grundy,SY,9,67,65,56,53,69,8,5,7,3,0,0,0,0,0, Full Time,job,Standing Tarrant... %P and %M with %T,,,328800,71,399300,90,Back,39
+240226,Kieren,Jack,SY,7,59,68,39,44,63,9,8,1,3,0,1,0,0,0, Full Time,news,Matched up on Wells... %P,,,505800,67,601400,107,Midfielder,15
+250338,Nick,Smith,SY,8,57,64,35,48,63,9,7,5,0,0,1,0,0,0, Full Time,news,%D and %M,job,Chasing Thomas,320800,76,358200,83,Midfielder,40
+280762,Shane,Mumford,SY,15,51,65,62,51,72,0,11,1,5,21,0,5,0,0, Full Time,news,%H and %P... also %F,,,425400,106,486900,98,Ruck,41
+290188,Samuel,Reid,SY,9,49,63,39,38,53,7,3,3,4,0,1,2,0,2, Full Time,news,%s from %P on Thompson... also %T and %F,,,260600,42,319600,57,Back,20
+270170,Tony,Armstrong,SY,7,44,59,16,36,52,10,5,2,0,0,0,1,0,1, Full Time,news,%D and %s,,,249900,,244100,,Midfielder,19
+261257,Andrejs,Everitt,SY,9,40,62,30,36,48,4,8,2,0,0,0,0,1,0, Full Time,news,%P and %M on Mullett,subbed,Subbed off in Q4 for Bird,219800,,275500,,Forward,13
+281281,Lewis,Jetta,SY,8,35,51,19,28,39,7,1,1,2,0,1,2,1,0, Full Time,news,%P and %s,,,392000,116,427300,149,Midfielder Forward,32
+220063,Martin,Mattner,SY,3,33,43,19,27,39,6,4,2,1,0,0,1,0,0, Full Time,news,Loose in defence... one kick in Q1... %O,,,293900,83,332000,112,Back,29
+220089,Lewis,Roberts-Thomson,SY,2,33,45,19,27,36,6,3,2,1,0,2,1,0,0, Full Time,job,On Hansen... %P and %T,,,264700,87,296000,76,Forward,30
+210027,Ted,Richards,SY,2,30,61,15,24,36,6,4,1,1,0,0,1,0,0, Full Time,job,Following Petrie... %O,,,302600,73,417300,104,Back,25
+261212,Craig,Bird,SY,1,17,14,16,14,21,1,5,0,1,0,0,0,0,0, Full Time,news,On in Q4 for Everitt,sub,Started as a sub,354300,,388400,,Midfielder Forward,14

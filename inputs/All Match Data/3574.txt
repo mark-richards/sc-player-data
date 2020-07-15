@@ -1,0 +1,48 @@
+Melbourne,Demons,North Melbourne,Kangaroos,R22,15.13.103,17.11.113, Full Time
+Aug 29,2010,4:40,MCG  ,Fox Sports,240119,10282206,5015576,5244,Cloudy,17
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Sunday go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tRI"></b> gobbies</em>: today i announce my retirement with a priemership next to my name&#044; and monty ya fat cheers.<br><em>joblues</em>: cheers monty for a great year. to finish it all off i would love to say flower<br><em>froggy55</em>: who is monty?<br><em>Pettrefied</em>: Cheers monty<br><em title="MR KING">mr king</em>: yay<br><em>arshavin</em>: cheers m0nty for a fantastic year (:<br><em>mstrkrft</em>: drawn grand final! won on finishing higher.. yeaa!<br><em>Spudanator</em>: What have people scored in SC this round? <br><em>Hawks2010</em>: Lets hope the MIGHTY HAWKS win the GRANNY!!!<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> A fitz</em>: 2 from 2 in sc great year monty well done<br><em>Hawks2010</em>: Thanks Monty For the year... Make a soccer website :P<br><em>wbulldogs</em>: monty swallow gun and rawligs star PLEASE<br>
+200054,Brad,Green,ME,42,135,115,171,110,133,15,3,11,5,0,0,0,5,1, Full Time,star,%s from %P with %M and %T
+970130,James,McDonald,ME,54,127,110,174,95,135,16,10,7,12,0,2,4,0,0, Full Time,hot,Tagging Swallow... %O and %T with %M
+250548,Lynden,Dunn,ME,31,110,84,142,90,109,16,1,10,3,0,2,1,3,1, Full Time,hot,Forward tag on Firrito... %s from %P
+270985,Cale,Morton,ME,26,108,90,138,90,116,14,9,10,3,1,1,1,1,1, Full Time,hot,Matched up on Wells... %O and %M
+280969,Tom,Scully,ME,24,107,80,134,87,118,12,16,7,4,1,1,0,0,0, Full Time,hot,Moved to go head to head with Harvey in Q3 after Jones' injury... %P and %M with %T
+200052,Cameron,Bruce,ME,20,94,113,119,79,108,13,13,8,2,0,0,1,0,0, Full Time,job,On Warren... %O and %M
+240037,Colin,Sylvia,ME,13,87,76,116,67,91,20,2,7,1,1,0,1,0,0, Full Time,tagged,Tagged by Greenwood... %O
+270906,Jordie,McKenzie,ME,20,86,61,114,62,84,10,7,4,7,0,2,0,0,0, Full Time,news,Matched up on Cunnington... %D and %T
+220052,Mark,Jamar,ME,22,84,70,96,77,89,5,7,5,1,35,1,0,0,0, Full Time,news,%H and %D with %M
+260952,Liam,Jurrah,ME,21,74,91,88,65,78,9,3,3,1,0,1,1,5,0, Full Time,news,Pratt chasing him... %s from %D
+260288,James,Frawley,ME,9,62,79,78,52,73,12,8,4,0,0,0,1,0,1, Full Time,job,Standing Edwards... %P
+270830,Colin,Garland,ME,9,61,81,80,51,72,10,7,5,2,0,0,2,0,0, Full Time,job,Has Corey Jones... %D
+230130,Joel,Macdonald,ME,8,60,88,74,48,69,8,11,2,2,0,0,0,0,0, Full Time,news,%D
+280972,Jack,Watts,ME,9,59,30,78,50,63,9,3,8,1,0,1,1,0,0, Full Time,news,Thompson on him... %P and %G
+280608,Jack,Trengove,ME,8,58,65,73,46,61,8,7,3,2,0,2,0,0,1, Full Time,news,%P including %b by hand
+230250,Jared,Rivers,ME,9,54,60,73,44,57,8,2,7,2,0,0,1,0,0, Full Time,news,Loose in defence... %P and %M
+230151,Brent,Moloney,ME,7,52,33,65,43,67,7,12,0,3,0,0,2,0,1, Full Time,news,%B among %O
+250245,Clint,Bartram,ME,3,49,44,63,36,51,7,6,1,3,0,1,0,0,0, Full Time,job,On Wright... %D
+250388,Austin,Wonaeamirri,ME,7,45,41,60,31,41,4,3,1,5,0,2,0,0,2, Full Time,news,Grima on him... %s from %D
+250510,Matthew,Bate,ME,9,42,63,50,37,48,3,7,3,1,0,0,0,1,0, Full Time,news,%P on McMahon
+240355,Michael,Newton,ME,3,35,21,47,28,38,5,2,3,2,1,0,1,0,1, Full Time,news,%O
+250222,Nathan,Jones,ME,2,35,33,45,27,37,6,3,2,1,0,0,0,0,1, Full Time,injured,Tagging Harvey... %P and %M plus %s... knee to the ribs in Q3 and didn't return
+270861,Levi,Greenwood,NM,42,139,124,110,115,162,16,23,7,6,0,0,2,1,0, Full Time,star,Tagging Sylvia... %P and %T plus %M... got a heap of it in Q1
+990055,Brady,Rawlings,NM,25,114,109,88,100,138,12,25,8,1,0,0,0,0,0, Full Time,hot,%P and %M
+281395,Scott D.,Thompson,NM,25,110,111,86,91,124,13,17,7,4,0,2,1,0,1, Full Time,hot,Chasing Watts... %M and %D plus %s
+960491,Brent,Harvey,NM,27,109,124,73,93,124,14,16,4,1,0,0,0,3,1, Full Time,hot,Tagged by Jones then went head to head wtih Scully... %B among %P with %s
+240417,Andrew,Swallow,NM,37,105,109,99,83,114,8,17,0,9,0,5,2,2,0, Full Time,hot,Tagged by McDonald... %P and %T plus %s
+210061,Corey,Jones,NM,25,90,95,69,80,94,10,6,9,0,0,2,0,3,1, Full Time,news,Garland on him... %P and %M
+230272,Michael,Firrito,NM,14,89,97,63,74,102,13,11,7,3,0,1,2,0,0, Full Time,tagged,Forward tag on him by Dunn... %O
+230232,Daniel,Wells,NM,15,87,113,59,71,97,12,14,4,2,0,2,0,0,1, Full Time,news,Matched up on Morton.. %P and %M
+261228,Ben,Warren,NM,20,82,67,72,63,78,9,3,7,5,0,2,0,1,0, Full Time,news,%s from %O and %M on Bruce
+271129,Todd,Goldstein,NM,18,76,74,74,63,78,5,6,5,4,11,0,0,1,1, Full Time,news,%H and %P with %M and %s
+280921,Ben,Cunnington,NM,19,67,66,64,51,72,6,9,3,6,0,1,1,0,0, Full Time,news,Matched up on McKenzie... %P
+230141,Hamish,McIntosh,NM,14,65,60,57,63,81,4,14,4,0,15,1,1,0,0, Full Time,news,%H and %D
+280863,Ryan,Bastinac,NM,8,63,80,43,50,70,9,9,3,2,0,0,0,0,1, Full Time,news,%O and %M
+240189,Matt,Campbell,NM,15,60,94,50,52,72,6,9,2,3,0,0,2,2,0, Full Time,news,%s from %O
+210039,Daniel,Pratt,NM,8,57,71,43,48,69,7,11,3,2,0,0,1,0,0, Full Time,cougar,On Jurrah... %P
+271300,Cruize,Garlett,NM,9,55,71,40,48,72,7,13,2,2,0,0,2,0,0, Full Time,news,%D
+240131,Nathan,Grima,NM,8,52,70,27,45,66,9,11,2,0,0,0,1,0,0, Full Time,job,Has Wonaeamirri... %P and %M
+280864,Sam,Wright,NM,10,51,66,41,44,55,5,5,3,1,0,0,0,2,1, Full Time,news,%P on Bartram
+290194,Jamie,MacMillan,NM,9,50,27,27,37,52,9,4,0,2,0,0,0,1,1, Full Time,news,Matched up on Morton on a wing... %O and %T
+250135,Scott,McMahon,NM,6,42,72,27,36,54,6,10,1,1,0,0,1,0,0, Full Time,job,Following Bate... %P
+230240,Aaron,Edwards,NM,9,40,55,27,35,45,5,6,2,0,0,1,0,1,0, Full Time,news,Frawley on him... %O
+210093,Leigh,Harding,NM,2,21,17,14,18,24,3,3,2,0,0,0,0,0,0, Full Time,injured,%O and %M... cracked rib in Q1 and off to hospital

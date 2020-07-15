@@ -1,0 +1,48 @@
+Brisbane,Lions,Collingwood,Magpies,R10,7.9.51,14.16.100, Full Time
+May 31,2013,7.50,Gabba,Seven,240073,10391001,bl-v-coll,0,A shower or two,23,,
+
+<em>FTorres</em>: SC scoring is junk. It's a lottery<br><em>Heizenberg</em>: i love you shaw i love you man in sc<br><em>DarkLegend</em>: Is there actually partial lockout. I can see my opponents team&#044; usually cant do that with partial lockout<br><em>Sydney14</em>: all of shaws touches were basically in junk time&#044; bullshower<br><em>frenzy</em>: docherty 38 is bulldung<br><em>Morts54</em>: 50sc for Shaw in last 1/4 when game was well and truly over. CRAP<br><em>Ozbenno</em>: Martin huge<br><em>scaledup</em>: shaw got 23 touches&#044; 101 is deserved.. came back from a bad start too<br><em>slip</em>: is 130 good enough for captain?<br><em>wadaramus</em>: Shaw 101 SC&#044; hardly saw him all night?<br><em>Stuart88</em>: Gdshifty ive had never need him till now been a good bench player when needed i had dywer on <br><em>N_Riewoldt</em>: Heath Shaw with another HACK score<br>
+980007,Simon,Black,BL,26,119,115,154,89,127,20,13,3,6,0,2,1,0,1, Full Time,hot,%P and %T with %M and %s,,,389700,105,451500,131,Centre,20
+281373,Jack,Redden,BL,32,113,149,148,81,110,14,8,3,9,2,2,0,1,0, Full Time,hot,%D and %T with %M and %s,,,471600,89,499400,86,Centre,30
+261224,Dayne,Zorko,BL,27,92,100,122,71,102,9,12,5,8,0,0,2,0,0, Full Time,news,Starting at half forward on O'Brien... %D and %T with %M,,,400300,106,462400,94,Forward Centre,15
+210013,Ashley,McGrath,BL,21,79,69,99,65,79,8,3,6,3,0,0,0,3,1, Full Time,news,Started forward on Clarke... donuts in Q1... %s from %D,,,238400,64,299600,74,Back Forward,9
+290808,Patrick,Karnezis,BL,13,74,74,98,60,83,12,6,6,3,0,0,2,0,2, Full Time,news,Making plenty of mistakes but keeps presenting... %D and %T with %M and %s,,,238500,77,262200,90,Forward,28
+240087,Jed,Adcock,BL,9,73,82,95,55,75,14,5,4,2,0,1,0,0,0, Full Time,news,%D and %M,job,Manned up by Blair,415100,102,472500,92,Back,7
+281048,Ryan,Harwood,BL,13,70,83,89,59,81,9,10,6,2,0,0,1,0,0, Full Time,job,Responsible for Kennedy... %P and %M... also %T,,,295000,,325700,,Back,2
+294618,Marco,Paparone,BL,18,63,35,81,55,73,10,5,6,1,0,0,2,1,1, Full Time,cash,%s from %D and %M on Seedsman... also %F... not the greatest cash cow you could wish for,,,141900,14,141900,19,Forward Centre,22
+291548,Ryan,Lester,BL,9,57,59,74,45,63,6,8,3,4,0,1,1,0,0, Full Time,job,In defence on Krakouer... %D and %T,,,320900,68,388300,77,Back,35
+230211,Brent,Staker,BL,11,55,67,72,44,55,9,1,4,2,0,2,1,1,1, Full Time,switch,Started forward on Brown but switched back in Q1 to stem the early Pie tide... forward again in Q2... %O and %M plus %T,cash,Will make cash after his bye next week,132600,-47,128000,-93,Back Forward,14
+295162,Justin,Clarke,BL,5,55,59,74,40,54,11,1,4,2,0,0,0,0,0, Full Time,job,On Lynch... %P and %M with %T,cash,Is making money but is not really startable across the bye period,178900,-10,211100,-1,Back,42
+291828,Billy,Longer,BL,14,53,49,67,45,57,2,4,2,5,18,1,2,0,0, Full Time,news,%H and %D with %T,,,230200,70,276000,64,Ruck,5
+230170,Joel,Patfull,BL,4,47,69,63,39,51,10,2,4,1,0,3,2,0,0, Full Time,job,In defence on Reid... %O and %M... also %F,,,280900,31,339700,32,Back,24
+295518,Sam,Docherty,BL,4,46,37,59,36,46,6,4,3,2,0,2,0,0,1, Full Time,cash,On in Q3 for Moloney... %P and %M,sub,Started as a sub,136600,10,162800,8,Back,1
+260975,James,Polkinghorne,BL,3,41,45,52,33,45,6,5,3,1,0,0,0,0,0, Full Time,news,One kick in Q1... %O and %M,,,342700,98,366200,76,Centre,31
+293871,Jack,Crisp,BL,7,41,27,57,26,36,5,1,1,5,0,1,0,0,0, Full Time,news,One handball in Q1... %P and %T,,,255500,,275500,,Centre,47
+240013,Andrew,Raines,BL,4,40,40,51,34,48,4,7,3,2,0,0,1,0,0, Full Time,news,%D and %M,tagger,Tagging Pendlebury,276000,80,257100,78,Centre,29
+292128,Elliot,Yeo,BL,3,40,46,48,35,48,5,8,3,0,0,0,0,0,0, Full Time,job,Minding Elliott... %D and %M,,,280900,70,300400,59,Back,26
+281329,Rohan,Bewick,BL,9,39,31,49,33,39,6,1,4,0,0,1,0,1,0, Full Time,tagger,Making Shaw responsible... %s from %O and %M,,,334000,46,338900,42,Forward,8
+270512,Pearce,Hanley,BL,3,35,49,46,27,40,6,4,1,2,0,0,1,0,1, Full Time,tagged,Tagged by Macaffer... %O and %T plus %s,,,473400,126,547600,117,Back,11
+230151,Brent,Moloney,BL,1,24,35,30,18,27,6,3,0,0,0,0,0,0,0, Full Time,injured,Head to head with Swan... %O... spent time off the ground in Q2 after a knock,subbed,Subbed off in Q3 for Docherty,415400,101,451200,128,Centre,3
+294270,Sam,Michael,BL,1,23,27,28,19,22,2,1,1,1,7,1,0,0,0, Full Time,bubble,Second game... started forward on Maxwell... %D... also %H,,,108500,,115900,,Ruck,46
+220105,Dane,Swan,CO,33,130,131,79,103,144,21,15,4,4,0,0,1,2,0, Full Time,star,%2 Moloney... %P including %K with %T... also %s,,,537900,168,544300,177,Centre,36
+210099,Darren,Jolly,CO,43,120,136,108,108,128,8,10,6,3,40,2,1,1,1, Full Time,hot,%H with %D and %M... also %T and %s,,,413700,93,489600,123,Ruck,18
+280965,Steele,Sidebottom,CO,27,115,127,80,86,123,17,14,4,6,0,0,0,0,0, Full Time,hot,%P and %T... also %M,,,469500,117,508500,125,Centre,22
+220005,Luke,Ball,CO,31,110,105,94,83,115,13,10,7,8,0,0,1,0,1, Full Time,hot,%O and %T,,,343100,24,301800,17,Centre,12
+294733,Paul,Seedsman,CO,20,108,145,77,87,117,15,13,8,3,0,1,0,0,0, Full Time,hot,%P and %M,job,Running off Paparone,328300,41,315200,33,Centre,40
+261181,Brent,Macaffer,CO,30,105,100,89,76,103,13,6,7,8,0,0,0,0,1, Full Time,cash,%D and %M with %T... also %s,tagger,Tagging Hanley,295700,38,287600,33,Forward,3
+290289,Josh,Thomas,CO,25,97,85,65,74,105,15,10,3,5,0,0,1,1,0, Full Time,news,%O and %T plus %M and %s,cash,A quiet accumulator of fantasy value,243800,-3,267000,-8,Centre,24
+260257,Scott,Pendlebury,CO,15,95,119,69,77,106,12,16,4,3,0,2,0,0,1, Full Time,news,%D including %B,rain,Tagged by Raines,522900,112,619600,137,Centre,10
+270950,Kyle,Martin,CO,27,92,97,88,77,104,7,12,5,6,0,0,2,2,2, Full Time,rookie,First game... %P with %b by hand... also %T and %M... kicked %s as well,,,103300,,110200,,Centre,37
+293431,Ben,Kennedy,CO,16,87,78,63,72,93,11,9,3,3,0,3,1,2,3, Full Time,cash,%s from %D and %M on Harwood... this will kickstart his cash generation,,,129800,30,134300,30,Forward Centre,27
+280104,Jarryd,Blair,CO,24,82,60,79,70,93,6,12,7,4,0,0,1,1,0, Full Time,news,%D and %M on Adcock,,,413500,76,425400,83,Forward Centre,11
+240073,Harry,O'Brien,CO,9,78,96,37,63,84,15,9,4,0,0,3,0,0,0, Full Time,news,%O and %M,job,Starting at halfback on Zorko,403700,60,448700,43,Back,8
+210058,Andrew,Krakouer,CO,9,71,49,57,58,75,9,5,7,3,0,1,1,0,3, Full Time,news,%P and %T on Lester... also %M,,,280800,33,318500,45,Forward,7
+295256,Marley,Williams,CO,8,69,99,34,53,72,14,4,5,1,0,0,0,0,0, Full Time,news,%D and %M,,,248100,76,274700,87,Back,46
+240232,Ben,Reid,CO,17,65,65,46,58,75,9,4,4,2,0,1,3,3,0, Full Time,news,Started forward on Patfull.. %s from %P... also %F,,,370300,89,425200,107,Back,20
+220061,Quinten,Lynch,CO,10,62,61,52,56,70,6,6,6,1,11,0,1,0,2, Full Time,news,Booted %s from %D and %M on the overmatched Clarke... also %H,,,308500,110,316100,117,Forward,21
+240700,Heath,Shaw,CO,8,61,97,31,54,78,11,12,3,0,0,1,2,0,0, Full Time,garbage,Bewick manning him up... one kick in Q1 and barely sighted to HT... %O and %M... lifted in the second half when the pressure was off,,,434300,83,526200,94,Back,39
+293801,Jamie,Elliott,CO,11,60,73,38,51,63,9,3,5,0,0,0,0,2,0, Full Time,news,First goal... %s from %O and %M on Yeo,,,316500,24,328700,20,Forward,19
+272005,Marty,Clarke,CO,7,53,71,40,45,63,6,11,3,1,0,0,0,0,0, Full Time,job,McGrath is his man... %O and %M,in,Late replacement for Travis Cloke,317400,121,325200,131,Back,9
+230263,Nick,Maxwell,CO,4,51,63,48,43,60,4,10,3,3,0,1,1,0,0, Full Time,job,Zoning off the resting ruck which is mostly Michael... %P and %T with %M,subbed,Subbed off in Q3 for Didak,304000,64,337000,75,Back,5
+260310,Nathan,Brown,CO,4,44,58,39,40,54,4,8,5,1,0,0,1,0,0, Full Time,job,At FB on Staker... %P and %M,,,212900,52,251800,30,Back,16
+210003,Alan,Didak,CO,3,36,39,25,27,39,5,6,0,2,0,1,0,0,0, Full Time,news,On in Q3 for Maxwell... %O,sub,Started as a sub,339500,,304400,,Forward,4

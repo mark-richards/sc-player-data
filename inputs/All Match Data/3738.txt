@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Geelong,Cats,R5,15.8.98,17.15.117, Full Time
+Apr 26,2011,2:40,MCG,Seven,200039,10310507,5492,39,Sunny,24
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Adz23</em>: 2129 DT/ 2070 SC - bit disapointed with the SC Score <br><em>happyh</em>: Got 5887 and had Krakour capt....<br><em>DRose1</em>: 10&#044;000 Wallis only player on ground<br><em>Pokerface</em>: your team is called barry the beater??<br><em>thesmasher</em>: ok 2168+109+76=2353 and my teams coach barry beater if u want to check<br><em>DRose1</em>: 2140 in DT up the rankings i go!<br><em>skystyler</em>: 3799 with 4 donuts and bagel.<br><em>higgins76</em>: skystyler-agree saints will come in to top 6<br><em>Moondog21</em>: we are the mighty choking hawhs<br><em>Slashers</em>: Terrible pokerface&#044; Pokerface<br><em>DRose1</em>: worst SC in ages 2074! bloddy krak&#044; yaz & richo destroyed me<br><em>Sandi2Pav</em>: yeah pokerface<br>
+220073,Sam,Mitchell,HW,26,114,109,151,85,121,19,10,4,7,0,2,2,0,1, Full Time,hot,%2 Chapman... %P and %T with %M and %s,,
+240357,Jarryd,Roughead,HW,26,97,109,119,83,103,10,7,6,3,6,1,1,3,1, Full Time,news,Booted %s from %O with %G and %T on Taylor... also %H on the ball in the second half after Renouf was subbed off,,
+270732,Matt,Suckling,HW,14,96,111,122,75,102,19,9,5,1,0,2,0,0,0, Full Time,news,%O and %M,,
+200040,Chance,Bateman,HW,25,94,106,113,78,101,6,13,3,5,1,1,0,3,1, Full Time,news,%B among %P with %T and %M... lit it up in the second half in the forward line with %s,,
+240399,Lance,Franklin,HW,22,91,95,114,73,91,8,6,5,5,0,1,0,3,1, Full Time,news,First goal... %s from %P with %G and %T on Lonergan... very quiet in Q3,,
+230197,Brad,Sewell,HW,14,87,90,108,71,100,12,15,3,3,0,2,1,0,1, Full Time,tagger,Tagging Selwood... %P and %T with %s,,
+250055,Clinton,Young,HW,16,85,71,108,67,88,14,6,5,2,0,1,0,1,1, Full Time,news,Matched up on Kelly... %P and %M plus %s,,
+280737,Liam,Shiels,HW,15,84,69,108,64,88,12,9,4,4,0,1,0,0,1, Full Time,news,%P and %M plus %s,,
+260955,Cyril,Rioli,HW,14,83,73,108,62,85,11,8,4,5,0,1,0,0,1, Full Time,injured,%O and %M with %T and %s... right hamstring iced up in Q4,,
+210012,Shaun,Burgoyne,HW,21,71,66,93,54,75,7,7,3,6,0,0,1,1,0, Full Time,news,%D and %M with %T plus %s,,
+280858,Shane,Savage,HW,14,68,73,84,55,72,9,8,3,2,0,2,0,1,0, Full Time,cash,%O and %T plus %s,,
+220036,David,Hale,HW,14,65,67,76,62,75,3,8,4,2,12,2,2,2,0, Full Time,news,Booted %s from %P and %G on Mackie... also %H and %T,,
+200060,Brent,Guerra,HW,14,62,56,76,54,72,8,9,4,1,0,1,1,1,0, Full Time,job,Has Stokes... %B among %O with %M,sore,Left ankle knock in Q3
+240302,Grant,Birchall,HW,8,62,61,77,51,69,11,8,4,0,0,1,0,0,0, Full Time,news,%D and %M,,
+220060,Rick,Ladson,HW,9,55,53,75,41,60,10,4,2,4,0,1,2,0,0, Full Time,job,Minding Varcoe... %D and %T,,
+200052,Cameron,Bruce,HW,9,53,48,67,45,63,6,9,4,2,0,0,1,0,0, Full Time,news,Very quiet until Q4... %D and %M with %T,,
+230082,Stephen,Gilham,HW,5,49,49,64,38,51,7,4,4,2,0,0,0,0,0, Full Time,ipod,Standing Podsiadly... %M and %O with %T,,
+250089,Jordan,Lewis,HW,3,47,73,59,40,54,7,7,3,1,0,2,1,0,0, Full Time,tagger,Forward tag on Scarlett... %P and %M,concussed,Copped Scarlett's elbow to his head in Q4 which drew blood
+250715,Josh,Gibson,HW,7,42,61,51,38,57,4,12,1,2,0,1,2,0,0, Full Time,job,Has Johnson... %P and %T with %F,,
+220047,Luke,Hodge,HW,4,40,47,51,37,50,7,5,4,0,2,1,2,0,0, Full Time,pinkpig,Tagged by Ling... %O and %M,,
+250308,Brent,Renouf,HW,5,34,41,41,35,48,1,7,2,2,12,0,3,0,0, Full Time,news,%H and %P with %M and %T,subbed,Subbed off in Q3 for Ellis
+250257,Xavier,Ellis,HW,2,23,21,29,19,30,6,4,0,0,0,0,1,0,0, Full Time,news,On in Q3 for Renouf... %P,sub,Started as a sub
+250321,Joel,Selwood,GE,32,134,115,99,108,144,18,14,9,5,0,2,1,1,0, Full Time,gun,Tagged by Sewell... %D and %M with %T and %s,,
+200039,Paul,Chapman,GE,61,130,120,118,103,138,13,10,7,10,0,1,3,3,0, Full Time,x-factor,%2 Mitchell... %s from %P and %T with %M,,
+220007,Jimmy,Bartel,GE,30,124,120,84,95,128,19,9,7,5,2,0,0,1,0, Full Time,star,%P and %M with %T and %s... his Q3 engineered the victory for Geelong,,
+980037,Matthew,Scarlett,GE,19,101,107,60,84,114,17,12,8,1,0,1,1,0,0, Full Time,hot,Not taking responsibility for any of the tall Hawk forwards and instead being forward tagged by Lewis... %O and %M,mrp,An elbow to the head of Lewis in Q4 will be looked at
+980064,Brad,Ottens,GE,32,99,108,95,87,104,6,8,6,4,26,2,1,1,0, Full Time,news,%H and %P with %M and %T... also %s... dominated after Renouf was subbed off in Q3,,
+200131,James,Podsiadly,GE,26,98,80,78,78,95,12,3,8,4,0,2,0,2,2, Full Time,heart,%s from %O and %G on Gilham... also %T... corked right thigh in Q1 but played on,,
+220054,Steve,Johnson,GE,19,97,79,60,79,106,16,9,7,2,0,1,1,0,4, Full Time,news,%s from %D and %M on Gibson... lifted in Q3 as the Cats turned it on,,
+200034,Joel,Corey,GE,20,96,84,69,77,103,13,10,6,3,1,0,0,1,0, Full Time,news,%O and %M with %T and %s,,
+200035,Corey,Enright,GE,19,94,88,60,75,102,15,10,7,2,0,0,0,0,0, Full Time,news,%D and %M,,
+220058,James,Kelly,GE,25,90,100,69,70,101,12,11,1,7,0,2,3,1,2, Full Time,news,Matched up on Young... %D and %T plus %s,,
+960375,Darren,Milburn,GE,10,86,96,56,69,93,13,11,5,2,0,2,0,0,0, Full Time,news,%P and %M with %T,,
+230214,Mathew,Stokes,GE,14,84,69,64,71,96,11,11,7,3,0,2,2,0,0, Full Time,in,%l Cameron Mooney... %D and %T with %M on Guerra,,
+261497,Harry,Taylor,GE,14,81,100,68,69,91,8,13,7,2,1,1,0,0,0, Full Time,news,%D and %M... had a sensational Q2,job,Following Roughead
+281065,Mitch,Duncan,GE,24,79,76,63,71,90,8,9,6,1,0,0,1,3,0, Full Time,news,%s from %O and %M,,
+261510,Tom,Hawkins,GE,18,73,67,65,60,75,7,3,5,4,11,0,1,1,1, Full Time,news,Booted %s from %P with %M and %H,,
+250290,Travis,Varcoe,GE,15,72,86,57,58,75,8,7,3,3,0,1,0,2,0, Full Time,news,%s from %O and %T on Ladson,,
+200037,Cameron,Ling,GE,10,58,42,37,46,63,10,2,3,3,0,0,2,1,3, Full Time,tagger,Tagging Hodge... kicked %s from %P and %M,,
+230248,Andrew,Mackie,GE,5,49,57,31,44,63,9,5,5,2,0,1,4,0,0, Full Time,job,On Hale... %O and %M with %F,,
+230125,Tom,Lonergan,GE,4,47,56,37,42,54,5,8,5,0,0,1,0,0,0, Full Time,job,Standing Franklin... %P and %M,,
+291307,Daniel,Menzel,GE,4,46,57,30,39,51,7,5,5,0,0,0,0,0,0, Full Time,news,On in Q2 for Taylor Hunt... %D and %M,sub,Started as a sub
+990076,David,Wojcinski,GE,3,36,42,25,31,43,5,6,2,1,0,1,1,0,1, Full Time,news,%O and %s,,
+280822,Taylor,Hunt,GE,0,11,7,10,8,12,1,2,0,1,0,0,0,0,0, Full Time,injured,Knock in Q1 to the medial ligament in his right knee... %P,subbed,Subbed off at QT for Menzel

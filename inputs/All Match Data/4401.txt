@@ -1,0 +1,48 @@
+Adelaide,Crows,Essendon,Bombers,R1,11.16.82,18.9.117, Full Time
+Mar 22,2013,8.40,Footy Park,Seven,230084,10390101,5015,0,Fine,22,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>bennyq</em>: bombers for flag<br><em>brynpower</em>: Goddard 86 Supercoach&#044; not 79.<br><em>billnats</em>: Danger has a stinker and still gets 68! Having said that&#044; no more stinkers please or I'll sideways you to Watson<br><em>Heizenberg</em>: Okay back to my meth lab now <br><em>Heizenberg</em>: Well danger at least we know you can still rock SC when he gets more of the pill it will eb sweet <br><em>dtchamp</em>: no one in adelaide tonned up <br><em>W.Mantooth</em>: nah howlett 3&#044; watson 2&#044; dempsey/hocking 1<br><em>FiveStar</em>: walker 88! happy with that&#044; considering it was from like 1 quarter<br><em>W.Mantooth</em>: 260/3... bombers sounded like they were drugs when they were singing!<br><em>travo</em>: go india&#044; adelaide screwed my weekend on the punt<br><em>dtchamp</em>: how good will walker be? 3 goals in a poor night for adelaode<br><em>johnkay</em>: Crows not ready for round 1<br>
+261384,Matthew,Wright,AD,19,102,102,133,80,108,14,10,7,5,0,2,1,0,0, Full Time,hot,Playing small forward... %P and %T with %M,,,438700,,475300,,Forward,11
+270963,Rory,Sloane,AD,19,88,89,113,64,91,12,11,1,6,0,2,0,0,1, Full Time,news,%2 Goddard... %P and %T plus %s,,,470100,,567700,,Midfielder,9
+240370,Richard,Douglas,AD,16,84,91,106,69,91,13,6,5,2,0,0,1,2,1, Full Time,news,%s from %P and %M,,,372600,,430400,,Forward,26
+270811,Sam,Jacobs,AD,21,78,102,91,67,77,9,1,2,1,37,1,0,0,1, Full Time,news,%H and %D.... also %s,,,449900,,546300,,Ruck,24
+210016,Scott,Thompson,AD,10,75,91,96,62,90,11,12,4,3,0,0,2,0,0, Full Time,news,%2 Watson... %O and %T,,,541200,,591000,,Midfielder,5
+280506,Taylor,Walker,AD,16,68,91,83,61,76,9,5,4,1,0,2,2,3,1, Full Time,news,First goal... %s from %D on Carlisle... also %F,,,448900,,536000,,Forward,13
+291201,Ricky,Henderson,AD,8,67,63,87,54,68,11,3,7,1,0,1,0,0,2, Full Time,sore,%s from %D and %M... copped a knock in Q4 and spent time off the ground,,,261700,,314100,,Forward,45
+250362,David,Mackay,AD,19,66,64,85,54,75,8,8,3,4,0,1,2,1,0, Full Time,job,In defence on Davey... %P and %T with %M,,,366100,,405000,,Midfielder,14
+210056,Graham,Johncock,AD,11,62,85,77,51,64,7,6,4,2,0,2,0,1,1, Full Time,news,%s from %O and %M on Baguley,,,312000,,334400,,Back,18
+220086,Brent,Reilly,AD,13,62,72,86,51,78,13,6,3,4,0,1,5,0,0, Full Time,news,%D and %T... also %M and %F,,,407900,,494200,,Back,3
+230174,Jason,Porplyzia,AD,13,58,74,71,50,68,8,8,3,1,0,0,1,1,2, Full Time,news,%s from %D and %M on Fletcher,,,397000,,430000,,Forward,40
+250118,Nathan,van Berlo,AD,9,58,71,75,46,60,12,2,3,1,0,2,1,1,0, Full Time,news,%D,,,427900,,411500,,Midfielder,7
+294828,Josh,Jenkins,AD,10,57,70,71,48,58,9,2,3,1,7,3,1,1,0, Full Time,news,%D and %M on Hooker... also %H in ruck support,,,316100,,363300,,Ruck,4
+270917,Patrick,Dangerfield,AD,7,51,63,66,41,61,10,7,1,2,0,1,2,0,1, Full Time,tagged,Tagged by Heppell then got Hocking in Q2... %P and %T plus %s,,,525000,,636000,,Midfielder,32
+261138,Jared,Petrenko,AD,19,46,45,62,30,40,4,1,0,6,0,1,0,1,1, Full Time,news,%s from %P and %T on Hibberd,,,303500,,355300,,Forward,23
+270296,Andy,Otten,AD,7,46,88,55,40,54,6,9,3,0,0,1,0,0,0, Full Time,job,Following Crameri... %D and %M,,,243900,,276500,,Back,22
+261351,Matthew,Jaensch,AD,3,43,71,54,34,48,7,6,2,1,0,0,0,0,0, Full Time,job,In defence on Kommer... %O,,,316800,,324800,,Back,10
+261142,Bernie,Vince,AD,7,42,51,56,38,57,10,6,2,1,0,2,4,0,0, Full Time,news,%P and %M... also %F,,,409400,,452900,,Midfielder,17
+280281,Brodie,Martin,AD,2,36,30,46,28,36,6,3,2,1,0,2,0,0,0, Full Time,news,On in Q3 for Brown,sub,Started as a sub,256300,,281400,,Midfielder,36
+293193,Luke,Brown,AD,3,35,44,46,26,36,3,4,2,3,0,0,0,0,0, Full Time,injured,All eyes in fantasy circles on the fantasy rookie... %O and %T wiht %M... Merrett is his man... left foot trod on in Q3... iced up and on crutches,subbed,Subbed off in Q3 for Martin,147700,,135500,,Back,16
+220093,Ben,Rutten,AD,1,20,42,25,18,27,2,5,1,1,0,0,1,0,0, Full Time,job,On Ryder... %D,,,244500,,280200,,Back,25
+280934,Daniel,Talia,AD,1,7,32,11,10,18,3,2,1,0,0,0,3,0,0, Full Time,job,Standing Hurley... %D as well as %F,,,180100,,273400,,Back,12
+260073,Ben,Howlett,ES,39,127,164,96,103,133,16,9,5,6,0,3,2,4,1, Full Time,star,%P and %T with %M and %s,,,435800,,447500,,Midfielder,40
+240027,Brent,Stanton,ES,32,115,117,81,86,117,17,9,5,6,0,1,0,1,0, Full Time,hot,Usually starts the season well... %P and %T plus %M and %s,,,548900,,559700,,Midfielder,5
+230231,Jobe,Watson,ES,21,113,121,53,88,127,23,11,3,3,0,0,2,1,1, Full Time,gun,%2 Thompson... 10 possies in Q1 among %D... also %T and %M plus %s,,,579400,,647200,,Midfielder,4
+240245,Courtenay,Dempsey,ES,25,100,124,72,77,102,15,5,7,5,0,1,1,1,0, Full Time,hot,%O and %M plus %T and %s,,,396700,,418400,,Back,15
+250569,Heath,Hocking,ES,46,98,93,89,67,87,11,2,4,10,0,3,0,1,0, Full Time,news,%D and %M with %T and %s,tagger,Moved to tag Dangerfield in Q2,316600,,350800,,Midfielder,39
+261314,David,Myers,ES,15,81,91,53,63,87,12,10,2,3,0,1,0,1,0, Full Time,news,%P including %K with %T,,,337700,,352500,,Back,23
+290629,Dyson,Heppell,ES,9,76,73,41,60,84,14,9,3,2,0,2,1,0,0, Full Time,news,%P and %M,tagger,Tagging Dangerfield in Q1 then freed up,439000,,450000,,Back,21
+230084,Brendon,Goddard,ES,15,71,86,43,58,75,13,1,7,2,0,1,2,1,0, Full Time,news,%2 Sloane... very quiet early... %P and %M with %T and %s,,,501300,,541500,,Back,9
+280824,Jake,Melksham,ES,19,71,77,59,55,78,8,9,2,5,0,0,1,1,0, Full Time,news,%D and %M plus %s,,,324600,,319600,,Midfielder,17
+290641,Jake,Carlisle,ES,10,71,65,59,58,75,9,4,9,3,0,0,1,0,0, Full Time,news,%D and %M,job,On Walker,284500,,338600,,Back,22
+960197,Dustin,Fletcher,ES,9,68,85,29,50,69,16,0,5,2,0,0,1,0,0, Full Time,news,%O and %M with %T,porpoise,Started on Porplyzia,330900,,438700,,Back,31
+290160,Michael,Hibberd,ES,14,66,90,37,56,75,12,5,5,1,0,1,2,1,0, Full Time,job,Chasing Petrenko... %P and %M,,,342800,,395100,,Back,1
+295285,Jackson,Merrett,ES,9,65,71,51,51,69,8,8,4,3,0,1,0,0,0, Full Time,,,,,127800,,137000,,Midfielder,20
+270588,Cale,Hooker,ES,12,62,63,41,54,72,10,6,7,1,0,1,2,0,0, Full Time,job,Standing Jenkins... %B among %P with %M... %F as well,,,319700,,394700,,Back,26
+291686,Nick,Kommer,ES,13,60,70,38,49,64,9,7,1,2,0,4,1,1,1, Full Time,rookie,%s from %P up forward on Jaensch... also %T with %s including the sealing goal late in Q4... plus %4 FF,,,102700,,109500,,Midfielder ,38
+230051,Alwyn,Davey,ES,15,58,95,55,49,63,3,9,0,3,0,1,0,3,0, Full Time,news,%s from %O on Mackay... also %T,,,322800,,334900,,Forward,29
+270935,Michael,Hurley,ES,8,57,55,36,48,62,9,6,4,1,0,3,1,0,2, Full Time,news,%s from %P and %M on Talia,,,336800,,391300,,Forward,18
+261320,Tom,Bellchambers,ES,20,56,71,45,55,66,5,3,2,1,26,1,3,1,1, Full Time,news,%H and %P with %M and %s... also %F,,,412800,,459100,,Ruck,2
+250267,Patrick,Ryder,ES,8,45,54,50,33,41,2,2,1,5,11,1,0,0,0, Full Time,news,%P and %T on Rutten... also %H,,,465100,,564300,,Ruck,30
+294798,Mark,Baguley,ES,4,36,31,28,30,42,6,1,4,3,0,1,3,0,0, Full Time,news,%D and %T with %M... also %F,job,Minding Johncock,288100,,315100,,Back,46
+270951,David,Zaharakis,ES,7,32,28,31,21,31,3,3,0,4,0,0,0,0,1, Full Time,news,On in Q3 for Crameri,sub,Started as a sub,428400,,472900,,Midfielder,11
+292503,Stewart,Crameri,ES,8,29,44,26,24,31,3,1,2,2,0,0,1,1,1, Full Time,news,%s from %D and %G on Otten... also %T,subbed,Subbed off in Q3 for Zaharakis,341500,,420000,,Forward,12

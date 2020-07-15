@@ -1,0 +1,48 @@
+Hawthorn,Hawks,North Melbourne,Kangaroos,R5,10.10.70,12.10.82, Full Time
+Apr 25,2010,5:40,Launceston,Fox Sports,230141,10280506,5015559,4981,Fine,17
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,Delayed for a week due to working on scalability... should be next week for Round 6,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>twobeaus</em>: ruck stock?? wtf is that<br><em>Pokerface</em>: we couldnt get jolly anyway.. we had already chased burg and he did not resign with port before jolly was even available<br><em>twobeaus</em>: coad and maguire ARE kpd<br><em>twobeaus</em>: gibson is not KPD<br><em>Pokerface</em>: they may be dumb asses but we did have ruck stock<br><em>twobeaus</em>: are you defending our drafting pokerface??<br><em>twobeaus</em>: simon knee in head taylor&#044; renouf burnt in fire&#044; skipper delisted&#044; hell the ruck stocks wre greeeattt<br><em>Pokerface</em>: gibson - what other key defenders were available? he was the best available<br><em>Pokerface</em>: id have taken burgoyne any day of the week over jolly<br><em>twobeaus</em>: are you defending our drafting pokerface???<br><em>twobeaus</em>: clarkson needs to be fisted into next week<br><em>Pokerface</em>: dutchman&#044; happily cheer on out of bounds kicks because it scores&#044; but fans of the actual game prefer SC<br>
+200060,Brent,Guerra,HW,25,113,125,146,91,123,16,12,9,4,0,1,1,0,0, Full Time,hot,Loose in defence... %O and %M
+250089,Jordan,Lewis,HW,20,112,106,146,89,117,15,9,9,5,3,2,1,0,0, Full Time,hot,%O and %T with %M... also %H
+220047,Luke,Hodge,HW,21,110,110,137,89,124,17,16,2,4,6,4,2,0,1, Full Time,gun,Supporting Roughead in the ruck... %D including %B with %T and %H
+271208,Jarrod,Kayler-Thomson,HW,25,101,96,126,85,113,14,12,7,2,0,1,1,1,2, Full Time,in,%l Brent Renouf... %O and %T
+240399,Lance,Franklin,HW,27,98,123,119,83,95,11,2,6,2,0,3,0,5,2, Full Time,news,Booted %s from %G and %P on Thompson
+280471,Ben,Stratton,HW,25,98,77,130,84,108,16,5,14,1,0,0,2,0,0, Full Time,news,%K among %D with %M
+240302,Grant,Birchall,HW,24,96,103,123,86,117,14,13,11,1,0,0,3,0,0, Full Time,news,%O and %M with %F
+230082,Stephen,Gilham,HW,19,94,130,127,78,99,16,3,11,3,0,4,3,0,0, Full Time,job,Standing Hale... %M and %O
+250257,Xavier,Ellis,HW,19,90,93,116,72,96,10,10,6,5,2,2,1,0,1, Full Time,news,%B among %P with %M
+230197,Brad,Sewell,HW,43,82,126,107,63,91,3,15,2,10,0,2,2,0,1, Full Time,news,Tagging Swallow... %O and %T with %F
+220060,Rick,Ladson,HW,8,66,70,83,54,73,12,7,5,0,0,0,0,0,1, Full Time,news,%P and %M plus %s
+220013,Campbell,Brown,HW,15,64,84,82,48,63,8,5,2,4,0,2,0,1,0, Full Time,news,%s from %D
+240357,Jarryd,Roughead,HW,12,63,70,74,58,73,5,9,2,2,12,3,2,1,1, Full Time,sore,Rucking in the absence of any genuine Hawk rucks... %H and %P plus %s when going forward... tweaked his right knee in Q4 landing from a centre bounce
+260955,Cyril,Rioli,HW,14,52,35,68,39,51,5,3,3,4,0,0,0,1,0, Full Time,tagged,Tagged by Rawlings in the second half... %D and %M with %T
+261386,Brendan,Whitecross,HW,9,51,52,67,43,57,6,5,6,2,0,0,1,0,0, Full Time,job,Minding Warren... %D
+280737,Liam,Shiels,HW,8,49,17,66,42,57,9,3,6,1,0,0,2,0,0, Full Time,tagger,Tagging Harvey... %O and %M
+210092,Michael,Osborne,HW,10,48,66,63,42,58,8,4,3,2,1,1,3,1,0, Full Time,sore,Roos players targeted him with off-the-ball stuff... %P and %F... left ankle sore after being tunnelled by Rawlings in Q3
+200040,Chance,Bateman,HW,9,47,48,61,42,61,3,10,3,4,1,1,3,0,0, Full Time,news,Matched up on Bastinac... %O and %T
+281301,Ryan,Schoenmakers,HW,3,47,63,62,35,47,6,3,3,3,2,0,0,0,0, Full Time,news,Starting forward on Grima... %P and %M
+250055,Clinton,Young,HW,4,37,38,48,30,42,5,5,2,2,0,1,1,0,0, Full Time,cold,Barely sighted... %D
+250146,Thomas,Murphy,HW,2,37,47,46,31,39,4,5,3,1,0,2,0,0,0, Full Time,sore,On Edwards... %D and %M... copped Goldstein's knee in the back of the head in Q2 and it left a bruise
+270854,Carl,Peterson,HW,2,30,29,38,24,32,4,3,2,1,1,0,0,0,1, Full Time,news,%P
+960491,Brent,Harvey,NM,27,108,109,89,76,104,14,6,5,9,0,1,0,0,2, Full Time,hot,Tagged by Shiels... %s from %O and %T with %M
+230232,Daniel,Wells,NM,25,100,115,53,82,100,18,2,7,0,0,2,0,3,1, Full Time,star,%s from %O and %M
+240417,Andrew,Swallow,NM,49,94,73,98,66,96,8,7,2,13,0,1,3,1,0, Full Time,tagged,Tagged by Sewell.. %P and %T with %s
+271129,Todd,Goldstein,NM,21,87,86,80,77,91,6,8,3,4,28,6,2,0,0, Full Time,news,%H and %D with %T
+230141,Hamish,McIntosh,NM,17,86,85,73,76,92,8,5,5,3,29,2,2,0,0, Full Time,news,Should chop with no recognised ruck against him... %H and %D plus %M and %T
+260545,Liam,Anthony,NM,9,78,88,51,62,90,12,12,3,3,0,0,1,0,0, Full Time,news,%P and %M plus %T
+230272,Michael,Firrito,NM,9,70,98,41,56,78,12,9,3,2,0,2,1,0,0, Full Time,news,%P and %T
+250135,Scott,McMahon,NM,10,70,66,58,51,69,9,4,5,5,0,0,0,0,0, Full Time,sore,%D and %T... hyperextended left elbow in Q2
+250285,Leigh,Adams,NM,25,70,90,61,56,78,8,7,3,6,0,2,3,1,0, Full Time,news,%P including %B
+261228,Ben,Warren,NM,16,69,56,63,54,70,7,4,5,5,0,1,1,1,1, Full Time,news,%s from %O and %M on Whitecross
+280944,Jack,Ziebell,NM,21,69,79,80,48,69,3,9,2,9,0,0,0,0,0, Full Time,news,%T and %O
+990055,Brady,Rawlings,NM,15,65,81,36,58,81,11,10,4,0,0,0,2,1,0, Full Time,news,Loose in defence in the first half then moved to tag Rioli... %D including %K
+270861,Levi,Greenwood,NM,21,61,64,64,44,63,5,6,2,8,0,2,2,0,0, Full Time,news,%P and %T
+261909,Lindsay,Thomas,NM,14,56,31,45,36,52,8,2,1,6,0,0,0,0,1, Full Time,news,%s from %P with %T
+220036,David,Hale,NM,15,55,66,49,48,58,5,2,3,3,0,2,2,3,1, Full Time,news,First goal... %s from %G and %O on Gilham
+250373,Lachlan,Hansen,NM,9,54,68,43,45,60,7,5,6,2,0,0,1,0,0, Full Time,job,On Brown
+230240,Aaron,Edwards,NM,9,53,99,38,42,49,7,2,0,3,0,6,1,2,1, Full Time,news,%s from %P with %T on Murphy
+280863,Ryan,Bastinac,NM,13,53,27,43,44,66,7,8,3,4,0,0,3,0,0, Full Time,cash,Matched up on Bateman... %O
+280921,Ben,Cunnington,NM,9,48,61,52,38,54,2,10,2,4,0,0,0,0,0, Full Time,rookie,First game... %B among %P
+281395,Scott D.,Thompson,NM,5,47,66,38,41,57,6,6,5,2,0,0,2,0,0, Full Time,job,On Franklin... %P and %M with %T
+250315,Gavin,Urquhart,NM,3,42,43,15,34,48,10,3,3,0,0,0,1,0,0, Full Time,sore,%D and %M... right knee problem in Q4
+240131,Nathan,Grima,NM,3,32,77,17,25,36,7,1,2,2,0,1,2,0,0, Full Time,job,Has Schoenmakers

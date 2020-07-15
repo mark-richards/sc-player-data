@@ -1,0 +1,48 @@
+Richmond,Tigers,Essendon,Bombers,R9,9.8.62,13.13.91, Full Time
+May 25,2013,7.45,MCG,Seven,240027,10390905,rich-v-ess,0,Possible shower,18,,
+
+<em>Ozbenno</em>: Gambler will be there<br><em>AmosFrank</em>: party at alex rance's place after the game<br><em>J.Worrall</em>: soz gamblr ur right - ic cox is 3<br><em>Ozbenno</em>: Hahahah Martin is $hit a kunt&#044; like you gambler<br><em>AmosFrank</em>: that cougarlife bitch is hot<br><em>Maggsunits</em>: crows win tomorrow&#044;..tigers move back to their home&#044;... 9th<br><em>gambler</em>: Suck it J.Worrall you have no clue clearly <br><em>J.Worrall</em>: suck phlobistos<br><em>JoeMontana</em>: upweydons - when you lose its the umpires&#044; when u win its cause of the players :)<br><em>J.Worrall</em>: gamblr&#044; cox is the top forward atm<br><em>Ozbenno</em>: Martin sc 10<br><em>J.Worrall</em>: nice smother nick<br>
+240707,Daniel,Jackson,RI,20,110,117,140,85,118,15,14,5,5,0,1,0,0,1, Full Time,hot,%D including %B... also %T and %s,,,399500,63,389700,45,Centre,23
+240180,Troy,Chaplin,RI,21,108,115,139,90,114,12,10,13,3,0,1,0,0,0, Full Time,hot,%M and %D,job,Standing Ryder,268200,59,329000,70,Back,25
+250298,Shaun,Grigg,RI,24,106,92,134,89,117,15,12,11,1,0,0,0,0,0, Full Time,hot,%P and %M,,,441000,78,396100,79,Centre,6
+210048,Chris,Newman,RI,15,103,123,134,77,105,20,7,5,3,0,2,0,0,0, Full Time,hot,%O and %T with %M,job,Jetta is his responsibility,316800,16,402900,45,Back,1
+261362,Alex,Rance,RI,19,99,127,129,77,96,12,7,8,5,0,5,0,0,0, Full Time,news,%M and %O... enjoyed himself kicking around the backline in Q1... also %T,job,On Crameri,322700,19,399200,66,Back,18
+270896,Trent,Cotchin,RI,20,99,104,128,73,99,16,7,3,5,0,2,0,1,0, Full Time,news,%O and %M with %T and %s,,,477500,145,596700,163,Centre,9
+250312,Bachar,Houli,RI,19,92,71,116,77,102,15,10,9,0,0,0,0,0,0, Full Time,news,%D and %M,job,Running off Kommer,420700,48,492800,64,Back,14
+250623,Robin,Nahas,RI,24,87,66,111,70,87,9,7,7,4,0,3,0,1,0, Full Time,lebanon,%s from %O and %T with %M on Hibberd,in,Late replacement for Brandon Ellis,251300,65,282700,65,Forward,26
+290847,Dustin,Martin,RI,15,81,79,101,68,91,15,7,5,0,0,0,1,1,4, Full Time,news,Started at FF on Fletcher... %O and %M,,,501900,82,571200,93,Forward Centre,4
+294674,Nick,Vlastuin,RI,15,77,87,96,63,87,12,10,3,2,0,1,1,1,0, Full Time,news,Started slowly... %P,,,282300,-55,295800,-68,Back Centre,31
+240546,Ivan,Maric,RI,15,68,83,82,62,80,6,9,4,2,16,1,2,0,1, Full Time,news,%H and %D with %T,,,409000,123,497400,139,Ruck,20
+260930,Shane,Edwards,RI,14,65,57,79,56,78,11,10,3,0,0,0,1,1,0, Full Time,dreamtime,%P,,,368300,82,425600,82,Forward,10
+240130,Nathan,Foley,RI,13,60,54,75,50,72,4,13,3,4,0,0,1,0,0, Full Time,tagger,Tagging Watson... %P and %M,,,474500,186,550000,244,Centre,41
+240319,Sam,Lonergan,RI,9,57,63,74,45,63,4,9,3,5,0,1,1,0,0, Full Time,spud,%D and %T,,,337100,,386800,,Centre,22
+240336,Brett,Deledio,RI,7,53,73,66,41,60,8,9,1,2,0,0,0,0,0, Full Time,tagged,Tagged by Hocking... %D,sore,Off briefly in Q2 with a knee knock,489100,48,544800,46,Centre,3
+291437,Jake,Batchelor,RI,4,52,73,69,40,57,10,4,3,2,0,0,1,0,0, Full Time,news,%M and %P,job,Following Hurley,253900,47,335300,88,Back,11
+250395,Jack,Riewoldt,RI,10,50,46,65,44,55,8,0,5,1,0,0,2,2,1, Full Time,news,First goal... %s from %G and %P on Carlisle,,,368900,71,459000,53,Forward,8
+240256,Luke,McGuane,RI,9,45,58,56,37,51,6,5,1,2,2,0,1,1,1, Full Time,news,%s from %P and %T,,,255500,86,281000,105,Forward,16
+260433,Steven,Morris,RI,2,31,23,38,27,36,4,5,3,0,0,0,0,0,0, Full Time,job,Minding Winderlich... %P and %M,,,230300,12,295000,19,Back,38
+270941,Tyrone,Vickery,RI,2,26,42,32,25,33,1,5,3,1,3,0,1,0,0, Full Time,news,%P and %M on Hooker... also %H,subbed,Subbed off in Q3 for White,287300,63,347000,75,Forward,29
+271437,Jake,King,RI,7,24,22,31,22,30,4,2,1,1,0,1,2,1,0, Full Time,news,Baguley on him... %s from %O,,,317900,72,397600,66,Forward,28
+240389,Matt,White,RI,1,20,15,26,14,21,4,2,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Vickery,sub,Started as a sub,219200,61,246100,105,Centre,35
+240027,Brent,Stanton,ES,36,144,132,74,110,154,28,11,6,4,0,0,1,1,1, Full Time,cherry,%K among %D... also %T and %M,,,511200,191,490300,202,Centre,5
+230084,Brendon,Goddard,ES,26,131,104,80,105,141,22,12,11,2,0,0,0,0,0, Full Time,gun,%O and %M with %T,,,509200,112,528400,99,Back Centre,9
+240245,Courtenay,Dempsey,ES,31,124,91,86,94,129,20,8,8,7,0,2,2,0,0, Full Time,hot,%P and %T with %M... also %F,dreamtime,The best-performed of the indigenous players in the Dreamtime Game,395000,75,420500,48,Back,15
+230231,Jobe,Watson,ES,32,122,166,91,97,130,15,13,4,5,0,0,0,3,1, Full Time,medal,Tagged by Foley... %P and %T plus %s... won the Dreamtime Medal,,,481400,70,571300,76,Centre,4
+290160,Michael,Hibberd,ES,25,113,114,66,92,120,19,10,8,1,0,2,0,1,0, Full Time,hot,%K among %G with %M and %s,job,Running off Nahas,446900,105,499600,143,Back,1
+290629,Dyson,Heppell,ES,20,92,94,68,76,108,12,15,4,4,1,1,2,0,2, Full Time,news,%P and %M plus %s,,,460900,116,469400,118,Back Centre,21
+250267,Patrick,Ryder,ES,19,91,92,72,77,94,10,7,7,2,16,2,0,0,0, Full Time,dreamtime,%P and %M on Chaplin... also %H,heart,Left ankle knock in Q3... restrapped,438800,92,547200,82,Forward Ruck,30
+270951,David,Zaharakis,ES,21,91,114,63,69,93,14,4,4,5,0,0,1,2,0, Full Time,news,%D and %M with %T and %s,,,476000,101,501600,111,Centre,11
+260073,Ben,Howlett,ES,32,86,87,79,63,87,9,6,4,8,0,0,1,1,0, Full Time,sore,%D and %M... also %T... knee to the ribs in Q2,,,387400,80,382400,78,Centre,40
+250569,Heath,Hocking,ES,18,81,68,76,64,87,7,11,6,5,0,0,0,0,0, Full Time,news,%D and %M plus %T,tagger,Tagging Deledio,316000,23,301000,7,Centre,39
+230238,Jason,Winderlich,ES,20,75,64,63,58,72,9,2,7,4,0,1,0,1,0, Full Time,news,%s from %O and %T on Morris,,,296600,76,310500,56,Forward,8
+291686,Nick,Kommer,ES,13,75,79,58,59,78,10,6,7,3,0,0,0,0,0, Full Time,news,%O and %T with %M on Houli,,,213300,5,251500,37,Centre,38
+290641,Jake,Carlisle,ES,9,62,72,42,52,66,10,3,8,1,0,1,1,0,0, Full Time,job,Has Riewoldt.... %D and %M,,,302600,19,392500,38,Back,22
+292503,Stewart,Crameri,ES,19,60,66,48,57,70,7,2,7,1,0,0,3,3,1, Full Time,news,Kicked %s from %P and %M on Rance... also %F,,,340300,73,417000,101,Forward,12
+261314,David,Myers,ES,8,57,69,42,46,66,7,11,2,2,0,0,0,0,0, Full Time,news,%O and %T,,,394800,103,391700,94,Back,23
+960197,Dustin,Fletcher,ES,9,56,58,31,47,60,11,1,8,0,0,0,1,0,0, Full Time,news,%M and %P,job,Dragged to FB by Martin,293400,55,354700,78,Back,31
+270588,Cale,Hooker,ES,3,46,68,30,37,48,7,5,3,1,0,2,0,0,0, Full Time,job,Standing Vickery... %O,,,346200,73,416700,76,Back,26
+261320,Tom,Bellchambers,ES,14,44,51,44,47,55,1,6,3,0,25,1,2,0,0, Full Time,news,%H and %P with %M,,,398300,86,437800,84,Ruck,2
+250352,Leroy,Jetta,ES,3,38,46,32,30,44,4,7,0,3,0,1,1,0,2, Full Time,dreamtime,%P on Newman,,,330200,,368400,,Forward,7
+294798,Mark,Baguley,ES,3,38,37,29,29,39,5,4,2,2,0,1,0,0,0, Full Time,crown,Chasing King... %O and %T,,,312000,87,323300,82,Back,46
+280824,Jake,Melksham,ES,9,34,19,28,32,42,4,3,4,1,0,0,2,1,0, Full Time,news,On after HT for Hurley,sub,Started as a sub,341800,66,333000,54,Centre,17
+270935,Michael,Hurley,ES,2,20,21,14,19,25,3,2,3,0,0,0,1,0,1, Full Time,injured,%s from %P and %M on Batchelor... left ankle rolled in Q2,subbed,Subbed off at HT for Melksham,327300,143,393200,179,Forward,18

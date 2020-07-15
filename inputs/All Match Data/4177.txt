@@ -1,0 +1,48 @@
+Brisbane,Lions,Adelaide,Crows,R21,13.17.95,12.13.85, Full Time
+Aug 18,2012,7:40,Gabba,Fox Sports,280934,10342106,430184,0,Fine,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Bulky</em>: Adelaide = embarrassing  <br><em>mx187</em>: C'mon Monty Brownie surely deserves X Factor<br><em>danmaio</em>: did knights have another migrane tonight<br><em>SydneyRox</em>: Oh Adelaide and Collingwood. Sydney thanks you!!<br><em>Rourke</em>: Adelaide the softest top 4 team this century. Straight sets<br><em>wadaramus</em>: Have a nice September Brisbane.<br><em>windigo24</em>: 18 points lost from FA for Thommo. wow. <br><em>yeragam</em>: Softcock icon for Knights&#044; didn't got hard for the mark when he needed to<br><em>mx187</em>: Vossy called it<br><em>pcmaniman</em>: awesome win lions <br><em>mx187</em>: LOL Adelaide<br><em>wadaramus</em>: Yeah&#044; it sucks finishing top four Changeling.<br>
+281373,Jack,Redden,BL,32,121,140,156,91,129,14,16,3,9,2,2,1,0,1, Full Time,star,%2 Thompson... %P and %T with %M and %s,,
+270512,Pearce,Hanley,BL,18,94,92,118,76,103,16,11,6,1,0,1,0,0,1, Full Time,news,Matched up on Sloane... %D and %M,,
+271072,Daniel,Rich,BL,16,91,97,112,77,98,14,8,5,1,0,3,1,2,2, Full Time,news,%O and %M plus %s,,
+240013,Andrew,Raines,BL,25,89,113,115,66,93,13,9,1,6,0,2,1,1,0, Full Time,news,%D and %T plus %s,tagger,Tagging Dangerfield
+980007,Simon,Black,BL,25,88,98,110,73,103,11,14,3,4,0,1,2,1,1, Full Time,tagged,Tagged by van Berlo... %D and %T,,
+261224,Dayne,Zorko,BL,21,87,93,112,71,100,8,14,5,6,0,1,2,0,1, Full Time,news,Matched up on Mackay... %P and %T with %M,,
+240087,Jed,Adcock,BL,14,86,118,112,68,93,14,8,6,3,0,1,1,0,0, Full Time,news,%P and %M with %T,job,Running off Johncock
+270919,Tom,Rockliff,BL,24,81,93,106,66,87,11,5,6,4,0,1,2,1,3, Full Time,news,%s from %P and %M playing mostly forward,,
+240710,Ben,Hudson,BL,20,78,93,94,69,89,7,9,3,3,17,1,2,1,0, Full Time,news,%H and %D with %T,,
+292035,Claye,Beams,BL,13,77,80,100,60,81,13,6,6,2,0,0,0,0,0, Full Time,news,%B among %O with %M,,
+200007,Jonathan,Brown,BL,19,71,86,88,62,78,9,6,6,1,0,1,1,2,0, Full Time,news,%s from %G and %D on Talia,,
+290748,Joshua,Green,BL,9,69,53,92,54,71,11,3,6,3,0,1,1,0,2, Full Time,news,%s from %O on Doughty... also %M and %T,,
+281329,Rohan,Bewick,BL,16,63,58,77,53,64,8,2,4,1,0,0,0,3,1, Full Time,news,%s from %P and %M on Reilly,,
+230147,Daniel,Merrett,BL,5,57,107,74,44,60,7,6,4,3,0,0,0,0,0, Full Time,news,%M and %O,job,Tippett is his man
+291548,Ryan,Lester,BL,8,57,70,71,48,69,11,9,3,0,0,0,1,0,0, Full Time,news,In defence on Jenkins... %P and %M,,
+270936,Jordan,Lisle,BL,10,56,66,68,51,62,7,6,5,0,2,3,1,1,0, Full Time,news,%P on Rutten,,
+230170,Joel,Patfull,BL,5,54,58,73,46,66,8,6,5,3,0,0,3,0,0, Full Time,job,Spent time in Q1 tagging Dangerfield then went back to Walker to cover for Maguire... %P and %T with %M... also %F,,
+281048,Ryan,Harwood,BL,8,53,54,66,46,63,7,9,4,1,0,1,1,0,0, Full Time,job,Chasing Callinan... %P and %M,,
+260975,James,Polkinghorne,BL,9,45,40,57,38,51,7,4,3,1,0,0,1,1,0, Full Time,news,One touch in Q1... %s from %P and %M,,
+292128,Elliot,Yeo,BL,3,38,53,46,32,45,4,8,2,1,0,0,0,0,0, Full Time,job,On in Q2 for Maguire... responsible for Petrenko,sub,Started as a sub
+293871,Jack,Crisp,BL,2,23,27,30,16,24,1,4,0,3,0,0,0,0,0, Full Time,news,%O and %T,,
+220062,Matt,Maguire,BL,0,12,17,16,9,12,3,0,1,0,0,0,0,0,0, Full Time,injured,Standing Walker... %P... left ankle knock in Q1,subbed,Subbed off in Q2 for Yeo
+210016,Scott,Thompson,AD,25,108,99,77,94,133,16,16,7,5,0,4,6,0,1, Full Time,hot,%2 Redden... %P and %M plus %T and %s... also %F,,
+270917,Patrick,Dangerfield,AD,16,108,134,57,84,113,20,10,5,2,1,3,0,0,1, Full Time,hot,%D and %M plus %s,rain,Tagged by Raines
+280506,Taylor,Walker,AD,31,104,96,94,87,107,9,6,7,5,0,1,1,4,2, Full Time,hot,%s from %P and %T on Maguire then got Patfull... also %G,,
+270811,Sam,Jacobs,AD,26,87,104,72,82,94,7,6,6,0,37,2,1,0,0, Full Time,news,%H and %P with %M,,
+290211,Sam,Shaw,AD,13,87,113,31,66,87,21,1,7,0,0,1,0,0,0, Full Time,news,Loose in defence early... %O and %M,,
+220086,Brent,Reilly,AD,15,86,85,48,69,93,17,3,9,2,0,0,2,0,0, Full Time,job,On Bewick... %D and %M,,
+261857,Ian,Callinan,AD,21,84,86,59,73,88,11,3,6,1,0,1,1,4,1, Full Time,news,First goal... %s from %P and %M on Harwood,,
+261142,Bernie,Vince,AD,15,79,75,35,64,87,17,4,5,1,0,1,2,1,0, Full Time,news,%D and %M plus %s,,
+270963,Rory,Sloane,AD,13,76,76,48,61,78,13,3,9,1,0,0,0,0,0, Full Time,news,Matched up on Hanley... %P and %M,,
+210056,Graham,Johncock,AD,19,71,79,63,61,77,6,9,6,2,0,1,0,1,2, Full Time,news,%s from %P playing forward on Adcock... also %T and %M,,
+261138,Jared,Petrenko,AD,15,71,80,57,54,72,9,5,3,5,0,2,1,1,0, Full Time,news,%P and %M on Yeo,,
+261384,Matthew,Wright,AD,13,70,58,44,54,72,12,4,6,2,0,0,0,0,0, Full Time,news,%O and %M with %T,,
+220093,Ben,Rutten,AD,13,66,83,55,55,72,7,9,6,2,0,1,0,0,0, Full Time,news,Standing Lisle... %P and %M,,
+240370,Richard,Douglas,AD,14,62,50,55,41,59,7,5,0,7,0,1,0,0,2, Full Time,news,%s from %P and %T,,
+250118,Nathan,van Berlo,AD,9,61,52,49,51,69,8,6,6,3,0,1,2,0,0, Full Time,news,%P and %M,tagger,Tagging Black
+200092,Michael,Doughty,AD,7,50,83,31,38,54,8,7,1,2,0,1,0,0,0, Full Time,job,Green is his man... %D,mrp,A slam tackle on Rockliff in Q3 is likely to go
+250362,David,Mackay,AD,3,46,60,35,34,48,6,6,1,3,0,1,0,0,0, Full Time,news,Matched up on Zorko.... %D,,
+294828,Josh,Jenkins,AD,10,44,50,33,36,45,6,0,3,2,5,0,1,1,1, Full Time,news,%s from %P on Lester... also %H,,
+270742,Kurt,Tippett,AD,4,43,43,37,34,45,5,2,3,3,5,0,1,0,1, Full Time,news,%s from %D and %M on Merrett,,
+293193,Luke,Brown,AD,2,31,32,24,25,33,4,3,3,1,0,0,0,0,0, Full Time,news,%O,,
+240032,Chris,Knights,AD,2,30,34,19,23,31,5,2,2,1,0,0,0,0,1, Full Time,news,On after HT for Talia,sub,Started as a sub
+280934,Daniel,Talia,AD,1,17,22,11,14,21,3,2,1,1,0,0,1,0,0, Full Time,injured,Following Brown... %O... corked thigh in Q1,subbed,Subbed off at HT for Knights

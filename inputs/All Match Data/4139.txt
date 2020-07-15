@@ -1,0 +1,48 @@
+Gold Coast,Suns,Brisbane,Lions,R17,5.18.48,8.11.59, Full Time
+Jul 21,2012,4:40,Gabba,Fox Sports,200121,10341704,430146,0,Cloudy,21,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='color:#ff028d' title="EFC2012">efc2012</em>: give gaj the medal icon monty&#044; he got the marcus ashcroft award<br><em style='color:#ff028d'>R.Griff</em>: Ablett medal I said dont go to early m0nty<br><em style='color:#ff028d'>roflchris</em>: who won the medal<br><em style='color:#ff028d'>Bunta</em>: Redden wasn't best ablett was<br><em style='color:#ff028d'>GoLions</em>: rocky x factor&#044; surely gaj for star&#044; redden gun<br><em style='color:#ff028d'>Shiri</em>: What was the crowd?<br><em style='color:#ff028d'>Jormas</em>: zorko BE in DT was 44. he will go up 10K and hhave a new BE of about 90..<br><em style='color:#ff028d'>windigo24</em>: Rocky heart. <br><em style='color:#ff028d'>R.Griff</em>: Brisbane to make finals!!!<br><em style='color:#ff028d'>sainter11</em>: Rockliff X factor<br><em style='color:#ff028d'>sainter11</em>: Did zorko get DT b/e?<br><em style='color:#ff028d'>R.Griff</em>: Medal going to get announced after game<br>
+220001,Gary,Ablett jnr,GC,44,143,150,183,111,155,20,17,4,8,0,3,2,1,2, Full Time,medal,%P and %M plus %T and %s... won the Marcus Ashcroft Medal in a losing side,rain,Tagged by Raines
+290527,Trent,McKenzie,GC,18,87,88,116,67,91,14,5,7,4,0,0,1,0,1, Full Time,news,%P and %M plus %T and %s,job,In defence on Cornelius
+290627,Dion,Prestia,GC,15,87,106,112,68,96,17,9,4,2,0,1,1,0,0, Full Time,news,%O including %K with %M and %T,,
+240254,Jarrod,Harbrow,GC,13,77,109,101,55,76,12,6,2,5,0,2,0,0,1, Full Time,news,%P and %T,,
+290790,Matthew,Shaw,GC,10,77,64,99,62,85,13,8,5,2,0,1,1,0,1, Full Time,news,%O and %M with %T,job,Chasing Banfield
+280711,Charlie,Dixon,GC,12,74,104,96,61,80,13,5,7,1,2,1,1,0,0, Full Time,job,At FB on Merrett... %O and %M,,
+250716,Matthew,Warnock,GC,13,70,104,90,62,82,10,8,8,1,1,1,2,0,0, Full Time,job,Following Brown... %P and %M... also %F,,
+293813,Thomas,Lynch,GC,14,70,82,88,61,75,9,5,7,1,2,2,1,1,1, Full Time,news,Kicked %s from %P and %G on Lester,,
+281025,Luke,Russell,GC,8,69,94,89,54,70,13,4,5,1,0,2,0,0,1, Full Time,news,%D and %M,,
+291594,Harley,Bennell,GC,14,69,71,86,55,74,10,7,3,2,2,0,0,1,0, Full Time,news,%2 Zorko... %P and %M,,
+230015,Jared,Brennan,GC,15,66,50,89,55,74,13,2,4,3,0,3,4,1,2, Full Time,news,%s from %O with %M and %T,,
+280722,Zac,Smith,GC,11,66,75,77,61,75,5,8,4,1,21,1,1,0,0, Full Time,news,%H with %P and %M,,
+220013,Campbell,Brown,GC,9,57,78,75,45,57,8,3,6,2,0,1,0,0,0, Full Time,news,%D and %M with %T on Harwood,,
+290623,Josh,Caddy,GC,10,56,69,69,46,61,6,7,3,2,1,0,0,1,0, Full Time,news,%O and %M plus %s,,
+290832,David,Swallow,GC,13,55,75,73,45,67,8,8,2,4,0,1,3,0,1, Full Time,sore,%O... also %F... corked left quad in Q3,,
+240712,Michael,Rischitelli,GC,3,50,60,64,41,54,9,5,3,1,0,3,1,0,0, Full Time,news,%P and %M,,
+290817,Brandon,Matera,GC,9,48,45,68,39,55,7,2,5,4,0,0,3,0,1, Full Time,news,%O and %M.... also %F,,
+281024,Maverick,Weller,GC,3,47,66,58,39,52,8,6,3,0,1,1,0,0,0, Full Time,job,Crisp is his man... %D and %M,,
+292512,Karmichael,Hunt,GC,3,45,56,56,37,50,6,7,1,2,2,3,1,0,0, Full Time,nz,%P,tagger,Tagging Black
+291753,Sam,Day,GC,2,27,27,34,21,29,2,4,1,2,1,0,0,0,1, Full Time,goose,Maguire on him... %s from %D and %T,,
+250260,Liam,Patrick,GC,0,13,14,18,11,16,4,0,1,0,0,0,1,0,1, Full Time,news,On in Q3 for Josh Hall,sub,Started as a sub
+296736,Josh,Hall,GC,1,11,7,14,10,12,1,1,2,0,0,0,0,0,0, Full Time,bubble,Second game... %P and %M on Drummond,subbed,Subbed off in Q3 for Patrick
+281373,Jack,Redden,BL,28,112,119,78,87,117,17,7,5,6,0,2,2,2,0, Full Time,star,%O and %T plus %M and %s,,
+270919,Tom,Rockliff,BL,21,110,121,64,85,117,19,10,5,3,0,0,0,1,0, Full Time,heart,Playing forward a bit... dislocated finger in Q4... %D and %M with %T and %s,,
+230147,Daniel,Merrett,BL,25,103,122,79,91,115,12,12,10,1,2,2,1,1,2, Full Time,hot,First goal... %s from %D and %G on Dixon,,
+270512,Pearce,Hanley,BL,18,87,109,33,71,99,20,7,6,0,0,1,2,0,0, Full Time,news,%D and %M,,
+980007,Simon,Black,BL,14,80,98,61,69,102,9,20,2,3,0,1,2,0,0, Full Time,tagged,Tagged by Hunt... %B among %D with %T,,
+260975,James,Polkinghorne,BL,15,74,89,45,64,88,12,9,5,1,0,0,2,1,1, Full Time,news,%s from %O and %M playing deep forward,,
+220062,Matt,Maguire,BL,13,71,76,42,60,81,13,5,8,1,0,0,2,0,0, Full Time,job,Has Day... %D and %M,,
+261224,Dayne,Zorko,BL,18,71,115,56,52,75,9,10,0,6,0,3,1,0,0, Full Time,news,%P and %T,harley,Head to head with Bennell
+240710,Ben,Hudson,BL,15,70,101,65,69,93,3,18,2,1,21,0,2,0,0, Full Time,news,%H and %P... also %F,,
+292128,Elliot,Yeo,BL,9,69,68,39,57,81,12,10,4,1,0,0,1,0,0, Full Time,news,%P and %M,,
+240087,Jed,Adcock,BL,13,68,89,46,58,75,10,7,8,0,0,0,0,0,0, Full Time,news,%O and %M,,
+291548,Ryan,Lester,BL,9,68,97,34,57,78,13,8,5,0,0,1,1,0,0, Full Time,job,Starting in defence on Lynch... %P and %M,,
+261391,Aaron,Cornelius,BL,10,60,59,38,51,65,9,5,5,0,0,0,0,1,2, Full Time,cannon,Kicked %s from %P and %M on McKenzie,,
+281048,Ryan,Harwood,BL,12,60,53,35,51,69,11,5,6,1,0,1,2,0,0, Full Time,news,%P and %M,job,Minding Brown
+200007,Jonathan,Brown,BL,14,56,68,33,51,65,9,6,4,0,2,3,2,1,0, Full Time,news,Booted %s from %P on Warnock,,
+290738,Jared,Polec,BL,4,52,57,33,37,49,9,2,2,3,0,2,0,0,1, Full Time,news,One touch in Q1... %s from %D,,
+293871,Jack,Crisp,BL,4,49,47,42,38,54,5,8,2,3,0,0,0,0,0, Full Time,news,%P and %M on Weller,,
+240013,Andrew,Raines,BL,7,48,52,22,42,60,10,7,2,1,0,3,3,0,0, Full Time,tagger,Tagging Ablett... %O... also %F,,
+230170,Joel,Patfull,BL,3,41,59,31,32,42,5,6,1,2,0,3,0,0,0, Full Time,news,%D,,
+200121,Josh,Drummond,BL,3,37,33,12,28,39,9,2,2,0,0,0,0,0,0, Full Time,injured,Standing Josh Hall... %D and %M... right knee ligament hyperextension in Q3,subbed,Subbed off in Q4 for Bewick
+271071,Todd,Banfield,BL,2,29,49,22,25,37,4,5,1,2,0,1,2,0,1, Full Time,news,%s from %D on Shaw,,
+281329,Rohan,Bewick,BL,6,15,26,11,13,18,2,1,0,1,0,0,1,1,0, Full Time,news,On in Q4 for Drummond... %s from %P,sub,Started as a sub

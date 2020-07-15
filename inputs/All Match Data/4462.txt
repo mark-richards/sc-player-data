@@ -1,0 +1,48 @@
+Melbourne,Demons,Gold Coast,Suns,R7,7.12.54,16.18.114, Full Time
+May 12,2013,4.40,MCG,Seven,294741,10390708,melb-v-gcfc,0,Late rain,22,,
+
+<em>daniel33</em>: ablett mark and kick to win the league!<br><em>cheers</em>: 1840 with marc murphy left lets hope he gets 120 <br><em>doogz</em>: neade+stevenson for rockliff+thurlow i think this week.<br><em>Dragon88</em>: How many spuds at Melbourne<br><em>cheers</em>: ohh its over <br><em>PieBoy</em>: onya jonesy<br><em>cheers</em>: how long left? <br><em>matthius</em>: ha ha yes gaz kicked it too after the siren. loves his stats does gary<br><em>OnTheRocks</em>: spud the entire team monty!<br><em>gursh10</em>: @doogz - he will be top 4 forwards this year. so yes...<br><em>Jormas</em>: cmon GAJ another tackle! 135<br><em>Thorpy</em>: Hoping Scotland gets 120+ but being realistic don't think it will happen! <br>
+240037,Colin,Sylvia,ME,31,114,86,149,90,121,16,8,7,6,3,1,2,1,1, Full Time,hot,%P and %T plus %M and %s,mrp,A high bump on Brennan in Q3 will probably get weeks,403600,88,436800,72,Forward Centre,12
+291313,Jeremy,Howe,ME,25,92,99,114,80,99,12,5,8,1,0,0,1,3,3, Full Time,news,%s from %D and %M on Murphy,,,367000,130,401000,135,Forward,38
+291902,Jack,Viney,ME,20,87,104,113,68,96,11,12,3,6,0,3,2,0,0, Full Time,news,%2 O'Meara... %P and %T... also %F,,,192300,47,198700,63,Centre,7
+270241,Dean,Terlich,ME,8,74,108,94,55,81,13,10,1,3,0,0,0,0,0, Full Time,cash,%O and %T,job,Chasing Matera in the second half,236800,20,230300,22,Back,46
+250222,Nathan,Jones,ME,8,70,66,89,54,75,12,8,1,3,0,3,1,0,3, Full Time,tagged,Tagged by Prestia... went forward on Stanley in Q3... back to midfield in Q4 on Prestia again... %O and %T plus %s,,,410700,130,470800,116,Centre,2
+294874,Daniel,Nicholson,ME,13,70,81,86,63,84,9,12,7,0,0,1,1,0,0, Full Time,news,%B among %O with %M,tagger,Minding Shaw... moved to tag Harbrow in Q3,346800,95,365900,109,Back,26
+296027,Matt,Jones,ME,13,67,85,80,59,85,10,15,3,0,0,0,1,0,1, Full Time,cash,%P and %M,,,306600,19,290300,25,Centre,45
+294741,Michael,Evans,ME,8,60,59,77,50,67,10,6,5,1,0,1,1,0,1, Full Time,cash,%D and %M... also %s,harley,Moved to tag Bennell in Q2 which destroyed his fantasy production,244300,0,255600,6,Centre,32
+260288,James,Frawley,ME,8,55,54,70,47,63,8,7,5,1,0,1,1,0,0, Full Time,job,Has May... %P,,,318000,62,347600,83,Back,8
+250548,Lynden,Dunn,ME,4,52,68,69,38,52,10,2,3,2,1,0,0,0,0, Full Time,spud,%O and %M,job,Tagging Ablett jnr to start then went into defence in Q3 on Shaw,312600,50,344500,53,Back Forward,14
+290528,Max,Gawn,ME,12,52,88,59,51,62,3,7,2,1,10,2,2,2,1, Full Time,news,Kicked %s from %P and %M up forward on Day... also %H,,,156000,-1,180100,-11,Ruck,37
+270937,James,Strauss,ME,9,49,44,62,41,54,10,3,3,0,0,1,1,1,0, Full Time,news,%D and %M plus %s,job,Chasing Hall,214200,,258300,,Back,19
+270830,Colin,Garland,ME,8,46,56,61,34,51,6,6,1,4,0,0,1,0,0, Full Time,job,On Brown... %P and %T,,,309000,69,413400,81,Back,20
+280521,Jake,Spencer,ME,14,46,48,53,52,65,4,5,3,0,28,1,5,0,1, Full Time,news,%H and %P with %M... also %s and %F,,,330400,,339800,,Ruck,42
+270906,Jordie,McKenzie,ME,4,43,37,57,37,57,6,8,2,3,0,0,3,0,0, Full Time,tagger,Tagging Harbrow then went to Ablett in Q3... %O and %M... also %F,,,332800,94,343600,93,Centre,13
+250418,James,Sellar,ME,8,40,70,56,30,45,6,3,2,4,0,0,2,0,0, Full Time,spud,%O and %M with %T... also %F,job,At CHB on Lynch,238800,60,302800,82,Back Forward,30
+280579,Luke,Tapscott,ME,3,40,34,53,32,39,6,1,5,1,0,1,0,0,0, Full Time,news,%D and %M on Broughton,,,278100,58,274200,54,Back,35
+260394,Chris,Dawes,ME,3,35,39,44,30,39,5,4,4,0,0,0,0,0,0, Full Time,crab,%P and %M on Thompson,,,337700,,344800,,Forward,6
+230022,Shannon,Byrnes,ME,2,34,36,42,29,42,5,7,1,1,0,1,1,0,0, Full Time,ghost,Swallow on him... %D... his fantasy price rollercoaster ride is heading subterranean after this,,,348700,65,351000,86,Forward,10
+294570,Dean,Kent,ME,2,29,17,40,21,27,4,0,3,2,0,0,0,0,0, Full Time,bubble,Second game... %P and %M... also %T... starting forward on McKenzie,subbed,Subbed off in Q3 for Davey,102700,,109500,,Centre,34
+250345,Rohan,Bail,ME,3,24,19,34,26,36,6,2,4,0,0,2,4,0,0, Full Time,news,%D and %M... also %F,job,Running off Hutchins on a HBF,316500,94,324800,99,Centre,44
+200002,Aaron,Davey,ME,1,20,8,26,14,19,6,0,0,0,0,1,0,0,1, Full Time,in,Late replacement for Tom McDonald... on in Q3 for Kent,sub,Started as a sub,232700,95,270700,123,Forward,36
+220001,Gary,Ablett jnr,GC,32,134,152,97,104,147,18,20,5,6,0,1,0,0,0, Full Time,hulk,Tagged by Dunn then got McKenzie in Q3... %P and %M,,,582600,127,689100,116,Centre,9
+290627,Dion,Prestia,GC,27,115,126,83,88,126,17,13,5,7,0,1,2,0,0, Full Time,hot,%D and %T with %M,tagger,Tagging Jones except for Q3 when Jones went forward,406200,66,417700,80,Centre,10
+291594,Harley,Bennell,GC,22,115,121,71,91,126,18,14,4,3,0,0,0,1,3, Full Time,hot,%P and %M plus %s... copped a tag from Evans in Q2,,,403400,81,466700,99,Centre,11
+280722,Zac,Smith,GC,33,112,140,89,101,121,11,7,4,3,28,4,3,3,0, Full Time,star,%H and %P with %T and %M... also %s and %F,,,320400,47,392800,49,Ruck,2
+230015,Jared,Brennan,GC,24,101,116,85,75,99,12,7,6,7,2,2,0,0,1, Full Time,hot,Decided he would give a toss today... %O and %M with %T and %s,injured,Stretchered off in Q3 after Sylvia bumped him high,364000,91,420400,120,Back,3
+290790,Matthew,Shaw,GC,25,99,112,73,83,111,12,15,6,2,0,1,0,1,0, Full Time,news,%B among %P with %M on Nicholson then got Dunn in Q3,,,323900,13,327000,42,Back,26
+281075,Rory,Thompson,GC,19,93,103,74,75,96,12,6,11,3,0,0,0,0,0, Full Time,news,%M and %D with %T,job,On Dawes,266700,69,324800,66,Back,16
+290832,David,Swallow,GC,15,90,102,70,71,99,11,13,5,4,0,0,0,0,0, Full Time,news,%P and %T with %M,job,In defence again on Byrnes,363100,86,379300,57,Centre,24
+294613,Jaeger,O'Meara,GC,21,88,89,69,72,104,12,11,5,6,1,1,4,0,1, Full Time,cash,%2 Viney... %O and %T... %F as well,,,323000,-14,357000,5,Centre,1
+291753,Sam,Day,GC,15,84,114,55,72,88,12,7,5,1,7,5,1,1,0, Full Time,job,In defence on Gawn... %P and %M... also %H,,,236300,31,258200,-13,Forward,12
+290527,Trent,McKenzie,GC,19,82,91,58,64,84,12,5,6,3,0,0,0,1,0, Full Time,news,%D and %M with %T,job,Zoning off Kent,363800,33,360000,32,Back,18
+220013,Campbell,Brown,GC,20,73,74,53,66,78,9,3,7,0,0,1,1,3,3, Full Time,news,%s from %P and %M up forward on Garland,,,274100,,286400,,Forward,30
+261756,Greg,Broughton,GC,13,72,68,52,59,81,11,6,7,3,0,0,2,0,0, Full Time,news,%O and %M with %T,job,In defence on Tapscott,360900,96,397900,83,Back Forward,36
+296735,Aaron,Hall,GC,16,71,87,58,57,75,8,5,3,4,0,0,1,2,3, Full Time,news,%s from %O on Strauss,,,313600,117,293800,115,Forward,33
+250249,Danny,Stanley,GC,13,69,73,58,58,75,7,10,6,2,0,2,0,0,0, Full Time,news,%P and %M with %T... Nathan Jones went forward to man him up in Q3... freed up again in Q4,,,476400,128,483200,152,Back,25
+293813,Thomas,Lynch,GC,11,68,89,51,56,69,8,5,3,2,1,2,0,2,2, Full Time,news,First goal... %s from %P on Sellar,,,338500,82,366000,100,Forward,19
+250146,Thomas,Murphy,GC,8,64,84,38,51,69,11,6,5,1,0,0,0,0,0, Full Time,job,Taking Howe when he is forward... %D,injured,Headclash with Viney left him groggy... stretchered off,280600,27,343400,47,Back,29
+240254,Jarrod,Harbrow,GC,14,59,71,38,52,69,9,7,4,1,0,2,2,1,0, Full Time,tagged,Tagged by McKenzie... one handball in Q1... then got Nicholson in Q3 %O... %F as well,,,410500,59,442400,54,Back,5
+290817,Brandon,Matera,GC,5,55,44,36,42,54,9,3,4,2,0,2,0,0,0, Full Time,news,On in Q3 for May... %O and %M on Terlich,sub,Started as a sub,333400,131,321700,126,Forward,32
+294583,Jesse,Lonergan,GC,15,53,48,52,38,55,5,5,2,6,0,0,1,0,1, Full Time,bubble,Second game... playing plenty of midfield TOG for not much result... %P and %T,,,129700,,139500,,Centre,37
+290811,Jack,Hutchins,GC,4,47,22,34,36,49,7,4,2,3,1,2,1,0,0, Full Time,news,Started forward on Bail... %O and %M with %T,,,190700,21,201400,50,Back,34
+281085,Steven,May,GC,8,38,57,31,30,37,4,3,1,2,0,2,0,1,1, Full Time,news,Kicked %s from %P on Frawley,subbed,Subbed off in Q3 for Matera,234800,65,316000,75,Back Forward,17

@@ -1,0 +1,48 @@
+Carlton,Blues,Essendon,Bombers,R4,11.13.79,15.19.109, Full Time
+Apr 21,2012,1:45,MCG,Seven,290311,10340402,430036,0,Fine,26,,
+
+<em>mpollock</em>: 17 Marks to Stanton!!!<br><em>SaintsRGod</em>: juddster mate ur the reason i hate blues fans&#044; such sore losers<br><em>Jormas</em>: i expect more from stanton. had him 'C'...<br><em>kbbr</em>: everyone talks up kreuzer but hes a fkin spud.<br><em>antmans</em>: carrazzo will be cheap a few weeks after hes back<br><em>Juddster5</em>: Bomber fans&#044; chill out&#044; we will see who has the better season herogots!<br><em>Mochasons</em>: thought i was having a good week then i realised i don't have stanton :(<br><em>dean0s</em>: how was that shower afl_freak&#044; you just make shower comments<br><em>E Kavastar</em>: There's still 50sc points to be distributed... hopefully Murph gets a nice bump up to 125<br><em>dougie1112</em>: grapes a bit sour over there are they saints?<br><em>snowman123</em>: flowering hell&#044; Props to those who started the year with Stanton!!<br><em>GoldDigger</em>: Carrots woulda stopped those 5 goals ...<br><em>Chillicat</em>: YOU BEAUTY BOMBERS sucked in Carlton you arrogant sods.<br>
+230202,Kade,Simpson,CA,20,124,119,159,95,129,23,10,6,3,0,2,0,0,3, Full Time,hot,%O and %T with %M and %s,,
+250105,Marc,Murphy,CA,25,114,120,146,90,120,20,9,6,3,0,3,1,1,0, Full Time,hot,Tagged by Lonergan... %D and %T with %M and %s,,
+290311,Mitch,Robinson,CA,32,102,86,134,75,100,11,7,5,8,1,1,0,1,0, Full Time,hot,%P and %T plus %M and %s... forward tag on Fletcher to start with but after Carrazzo's early injury moved up to play normal midfield,,
+990059,Heath,Scotland,CA,25,97,113,122,77,111,10,18,3,6,0,1,1,0,0, Full Time,news,%2 Melksham off a wing... started slowly... %O and %T with %M,,
+220110,Jarrad,Waite,CA,20,92,94,119,82,105,12,8,13,1,0,0,2,0,3, Full Time,news,Booted %s from %G and %P on Hooker,,
+270326,Lachie,Henderson,CA,20,78,80,105,58,81,10,6,5,6,0,0,1,0,0, Full Time,news,%M and %P with %T,job,Has Hurley
+281079,Kane,Lucas,CA,14,78,58,102,59,80,9,7,5,5,0,0,0,0,2, Full Time,news,%s from %D in an important HFF role on Stanton at which he didn't do well at all... also %M and %T,,
+250417,Bryce,Gibbs,CA,18,77,86,99,56,79,11,7,1,5,1,0,0,1,0, Full Time,news,%O and %T plus %s,,
+220056,Chris,Judd,CA,15,74,91,92,64,94,10,14,2,3,0,0,3,1,1, Full Time,tagged,Tagged by Hocking... %O and %s... also %T and %M,,
+240060,Eddie,Betts,CA,15,62,71,74,53,61,7,2,1,2,0,4,1,4,1, Full Time,news,%s from %D on Hardingham,,
+270653,Jeff,Garlett,CA,16,62,66,83,47,63,9,2,4,4,0,0,1,1,0, Full Time,news,%s from %O and %M on Hibberd... also %T,,
+270146,Ed,Curnow,CA,8,59,50,71,52,69,5,12,5,1,0,1,0,0,0, Full Time,sore,Left ankle knock in Q1... %D and %M,tagger,Tagging Watson
+240028,Brock,McLean,CA,13,55,47,65,47,66,4,13,0,3,0,2,1,1,0, Full Time,news,On in Q1 for Carrazzo... %D and %T plus %s on Heppell,sub,Started as a sub
+270737,Shaun,Hampson,CA,16,52,55,60,50,61,2,5,2,2,22,0,2,1,0, Full Time,news,%s from %P and %M on Pears... also %H and %T,,
+261009,Nick,Duigan,CA,8,51,45,69,36,54,7,5,1,5,0,0,1,0,0, Full Time,news,%P and %T,,
+261299,Matthew,Kreuzer,CA,7,51,66,62,49,63,2,8,5,2,12,0,2,0,0, Full Time,news,Well beaten on the day by Bellchambers and Ryder... %H and %D with %M and %T,,
+292511,Zach,Tuohy,CA,9,49,48,68,36,54,7,4,2,5,0,0,2,0,0, Full Time,news,%D and %T... also %M and %F,job,Chasing Zaharakis
+270899,Jeremy,Laidler,CA,4,45,55,60,37,48,8,2,5,1,0,1,1,0,0, Full Time,sore,Left knee knock very early in Q1... %P and %M,,
+250211,Paul,Bower,CA,7,40,50,55,28,42,6,3,1,4,0,0,1,0,0, Full Time,job,Standing Crameri... %D and %T,,
+271110,Chris,Yarran,CA,2,39,58,50,29,42,8,4,1,1,0,0,0,0,0, Full Time,job,Responsible for Jetta... %P,sore,Right big toe problem in Q3
+261043,Michael,Jamison,CA,3,35,49,47,30,43,5,4,3,2,0,0,2,0,1, Full Time,switch,On Ryder... %P and %M with %T... switched forward in Q3 for %s,,
+220015,Andrew,Carrazzo,CA,0,1,3,1,1,0,0,0,0,0,0,1,0,0,0, Full Time,injured,Shoulder knock in Q1 in a clash with Lonergan with one FF to his stat sheet... scans suggest fractured shoulder which means 4-6 weeks out,subbed,Subbed off in Q1 for McLean
+240027,Brent,Stanton,ES,54,175,161,116,139,177,28,8,17,4,0,2,0,1,0, Full Time,star,%D and %M with %T and %s,job,Playing a HBF on Lucas
+292503,Stewart,Crameri,ES,37,127,131,106,106,129,13,5,8,5,0,1,1,5,6, Full Time,heart,First goal... Bower on him... %s from %P and %T with %M... left hamstring soreness during the second half,,
+230231,Jobe,Watson,ES,15,100,104,57,77,111,17,14,2,3,1,0,0,0,2, Full Time,x-factor,Tagged by Curnow... %B among %O with %T and %s... lots of clearances among those,,
+290629,Dyson,Heppell,ES,19,97,102,77,75,99,12,10,6,5,0,3,0,0,0, Full Time,news,%O with %T and %M,job,Responsible for McLean
+290160,Michael,Hibberd,ES,19,93,87,57,75,96,16,5,10,1,0,1,0,0,0, Full Time,news,%M and %D,job,Minding Garlett
+270588,Cale,Hooker,ES,14,82,101,57,68,90,12,9,7,2,0,2,1,0,0, Full Time,job,Following Waite.... %D and %M with %T,sore,Right index finger injury in Q2
+261320,Tom,Bellchambers,ES,16,79,88,62,69,79,8,3,5,1,28,2,0,0,0, Full Time,news,%H and %D with %M,,
+250267,Patrick,Ryder,ES,16,77,94,62,70,84,7,7,4,1,19,2,1,1,2, Full Time,news,Booted %s from %D and %M on Jamison... also %H,,
+260073,Ben,Howlett,ES,19,76,78,72,57,81,7,10,3,7,0,1,1,0,0, Full Time,news,%O and %T plus %M,,
+271022,Tayte,Pears,ES,16,76,71,67,53,72,9,4,4,7,0,1,0,0,0, Full Time,job,Standing Hampson... %D and %T with %M,,
+230060,Ricky,Dyson,ES,13,74,79,48,58,76,12,5,6,2,0,1,0,0,1, Full Time,in,Late replacement for Courtenay Dempsey... %O and %M plus %T and %s,,
+960197,Dustin,Fletcher,ES,15,71,66,49,58,75,11,3,7,2,0,0,1,1,0, Full Time,tagged,Forward tag on him by Robinson... %M and %P plus %s,,
+230051,Alwyn,Davey,ES,20,70,93,47,60,79,10,5,3,2,0,0,2,3,1, Full Time,news,%s from %D and %T... also %F and %M,,
+240290,Angus,Monfries,ES,19,70,60,54,53,72,9,6,3,4,0,0,0,1,0, Full Time,news,%P and %T with %M,,
+270951,David,Zaharakis,ES,14,68,75,50,53,72,9,7,3,3,0,0,0,1,0, Full Time,news,Tuohy on him... %P and %M with %T and %s,,
+280824,Jake,Melksham,ES,15,68,84,49,55,71,9,6,4,2,0,1,0,1,2, Full Time,news,%2 Scotland off a wing... %O and %M with %T,,
+250352,Leroy,Jetta,ES,20,62,77,64,43,61,5,6,1,8,0,2,1,0,1, Full Time,news,%s from %P and %T on Yarran,,
+240319,Sam,Lonergan,ES,15,60,62,50,44,66,8,6,2,6,0,0,2,0,0, Full Time,tagger,Tagging Murphy... %P with %T plus %M,,
+280413,Cory,Dell'Olio,ES,7,43,32,36,31,46,6,3,1,5,0,1,2,0,1, Full Time,rookie,First game... on in Q3 for Hurley... %D and %T,sub,Started as a sub
+270935,Michael,Hurley,ES,8,39,58,24,33,42,6,3,3,0,0,0,0,1,0, Full Time,injured,Kicked %s from %G and %P on Henderson... hamstring issue in Q2,subbed,Subbed off in Q3 for Dell'Olio
+250569,Heath,Hocking,ES,8,38,34,33,29,42,5,3,2,4,0,1,2,0,0, Full Time,sore,%P and %M... carrying an AC joint injury and it flared up again in Q4... also %T and %F,tagger,Tagging Judd
+270584,Kyle,Hardingham,ES,3,25,54,19,21,30,4,2,2,2,0,1,2,0,0, Full Time,job,Big job on Betts... %D and %M with %T and %F,,

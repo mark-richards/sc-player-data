@@ -1,0 +1,48 @@
+Collingwood,Magpies,North Melbourne,Kangaroos,R7,23.19.157,14.7.91, Full Time
+May 08,2010,7:10,MCG,Ten,240366,10280704,5015517,4995,Chance of light shower,20
+The style sheets are taking a little longer than expected but it will come...,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>DeRock</em>: looking at ziebell's scores is like having sand kicked in your eyes<br><em>Scully 31</em>: Happy i put swan captain<br><em>tbanger</em>: Not angry&#044; just curious. I figured Monty has a script pulling the scores of the HS site so he doesn't have to do it.<br><em>Mitchy92</em>: chill out tbanger.<br><em>footy_wiz</em>: tbanger&#044; if the sc scores were automated&#044; wouldn't you think we would get live scoring<br><em>Birdman24</em>: jiun23 that is just a god awful pun about wright<br><em style='color:#e50000'>m0nty</em>: it's not automated tbanger&#044; it's manual<br><em>footy_wiz</em>: crap cunnington>pendles. NOOO<br><em>tbanger</em>: Not having a crack at monty&#044; just surprised since I figured it was automated<br><em>tbanger</em>: Why is there such a delay between the SC scores appearing on the HS site and them appearing here?<br><em>meataxe</em>: jesus christ ziebell you piece of dogshower<br><em>BERBATOV</em>: 98 sc fr ball fml<br>
+220105,Dane,Swan,CO,21,123,127,153,98,138,19,19,5,3,0,1,0,0,0, Full Time,gun,%O and %M with %T
+220005,Luke,Ball,CO,36,113,98,149,89,129,12,16,6,9,0,0,3,0,0, Full Time,star,His hot streak continued with a BOG performance inside the packs... %D and %T with %M and %F
+240700,Heath,Shaw,CO,25,113,129,142,93,126,22,11,7,0,0,1,1,1,0, Full Time,hot,Allowed to be loose in defence by the Roos and he carved it up... %P and %M plus %s
+210003,Alan,Didak,CO,21,109,112,132,90,118,17,12,4,1,0,2,0,2,4, Full Time,heart,%s from %O and %M on Firrito... left ankle/shin knock in Q1 but returned after treatment
+240359,Dale,Thomas,CO,25,106,82,132,86,117,16,13,6,2,0,0,0,1,0, Full Time,garbage,%P and %T and %s... racked it up in Q4 garbage time
+980009,Shane,O'Bree,CO,30,97,106,120,82,112,9,16,6,4,0,0,1,1,1, Full Time,news,%D and %T with %M and %s
+280965,Steele,Sidebottom,CO,26,95,105,114,79,97,10,6,3,3,0,1,0,5,1, Full Time,x-factor,Small forward role means his fantasy scoring has been patchy but tonight was his night... had a great Q2... %P and %M with %s
+200021,Ben,Johnson,CO,16,92,81,114,75,100,11,12,5,3,0,1,0,1,1, Full Time,news,%P and %M with %s
+200019,Leon,Davis,CO,21,91,100,115,72,95,13,7,3,4,0,2,1,2,2, Full Time,garbage,Rawlings on him on a HFF... %s from %P with %T and %M... lots of his numbers late in party time
+210099,Darren,Jolly,CO,19,86,78,102,77,91,7,5,5,2,22,1,1,2,0, Full Time,news,%H and %P with %M and %s
+271001,Dayne,Beams,CO,15,86,74,108,68,94,8,14,4,5,0,1,0,0,1, Full Time,news,%D and %M plus %s
+260257,Scott,Pendlebury,CO,19,84,70,105,67,99,9,17,2,5,0,0,1,0,0, Full Time,news,%D and %M with %T
+261181,Brent,Macaffer,CO,26,83,77,108,62,86,5,11,4,8,0,0,0,0,2, Full Time,news,%O and %T
+220070,Paul,Medhurst,CO,21,76,81,97,62,81,8,5,3,5,0,1,2,3,0, Full Time,garbage,%s from %O and %M with %T on Thompson... most of his scoring in second half junk time
+240232,Ben,Reid,CO,14,76,98,96,64,84,12,8,8,0,0,0,0,0,0, Full Time,job,Ran off Edwards... %M and %D
+240419,Alan,Toovey,CO,15,65,74,86,47,63,8,3,3,5,0,0,0,1,0, Full Time,news,%O and %T plus %s
+260394,Chris,Dawes,CO,12,65,65,80,54,69,7,6,4,2,0,0,0,2,0, Full Time,news,First goal... %s from %D on Hansen
+230263,Nick,Maxwell,CO,12,61,64,76,52,69,7,9,6,1,0,0,0,0,0, Full Time,news,%P
+240073,Harry,O'Brien,CO,7,58,77,74,45,66,9,9,1,3,0,1,1,0,0, Full Time,sore,Ran off Hale... %P... started Q3 off the ground in the arms of doctors but now running the boundary
+240300,Cameron,Wood,CO,15,58,45,66,52,64,4,7,2,1,16,0,0,1,0, Full Time,news,%H and %P
+240366,Travis,Cloke,CO,10,57,59,71,47,61,8,5,4,1,0,0,0,1,1, Full Time,news,%s from %P and %M... Grima on him
+260310,Nathan,Brown,CO,8,44,70,54,43,60,5,10,5,0,0,0,2,0,0, Full Time,job,Had Warren... %M and %O
+960491,Brent,Harvey,NM,26,109,116,72,87,122,16,15,3,4,0,1,1,1,2, Full Time,hot,%B among %O with %T and %s
+990055,Brady,Rawlings,NM,16,100,99,81,86,123,10,23,5,3,0,0,1,0,0, Full Time,hot,Minded Davis on a HBF... %D and %M
+240417,Andrew,Swallow,NM,26,95,111,84,74,102,9,14,2,7,0,3,1,1,0, Full Time,news,%P and %T with %s and %4 frees for
+250285,Leigh,Adams,NM,20,87,92,66,70,100,11,14,4,4,0,0,1,0,1, Full Time,sore,Shoulder problem in Q3 but had to play on due to all the Roo injuries... %O and %T with %M and %s
+240131,Nathan,Grima,NM,24,84,98,69,63,87,11,6,6,6,0,0,1,0,0, Full Time,job,Followed Cloke... %O and %M with %T
+260545,Liam,Anthony,NM,10,83,66,57,65,90,12,11,4,3,0,1,0,0,0, Full Time,injured,%O and %T with %M... shoulder dislocated in Q3 and it was a bad one... arm in a sling in Q4
+280864,Sam,Wright,NM,14,81,52,62,67,90,10,11,7,2,0,0,0,0,0, Full Time,news,%D and %M with %T
+230232,Daniel,Wells,NM,15,75,84,60,61,78,8,8,3,3,0,2,0,2,0, Full Time,mrp,%P and %M with %T and %s... maybe be trouble for bumping Ball in Q2
+271129,Todd,Goldstein,NM,11,75,57,76,65,80,4,9,7,3,11,1,0,0,0, Full Time,news,%H and %D
+220036,David,Hale,NM,16,74,64,60,62,74,8,3,6,2,4,1,0,2,1, Full Time,news,O'Brien on him... %O
+280921,Ben,Cunnington,NM,24,71,72,70,49,72,6,9,1,8,0,0,0,0,0, Full Time,cash,%P and %T
+261909,Lindsay,Thomas,NM,21,69,49,49,55,73,10,2,2,4,0,0,2,3,1, Full Time,news,%s from %P
+280863,Ryan,Bastinac,NM,8,69,52,32,55,79,14,8,3,1,0,0,1,0,1, Full Time,news,%P and %s
+280944,Jack,Ziebell,NM,9,68,32,42,50,69,12,4,4,3,0,0,0,0,0, Full Time,news,%O and %M with %T
+230272,Michael,Firrito,NM,8,59,45,37,45,66,10,7,2,3,0,0,1,0,0, Full Time,job,Minded Didak... %O
+261228,Ben,Warren,NM,11,59,58,47,51,64,6,6,4,1,0,0,0,2,1, Full Time,sore,Left ankle knock in Q2... %s from %P and %M on Brown
+230141,Hamish,McIntosh,NM,15,58,28,46,55,67,5,6,3,0,25,0,1,0,0, Full Time,sore,%H and %D... knock to his right AC joint in Q3 but returned soon after
+250135,Scott,McMahon,NM,4,57,37,39,42,57,9,4,3,3,0,1,0,0,0, Full Time,news,%D including %K
+230240,Aaron,Edwards,NM,11,53,29,36,48,60,7,5,4,0,0,1,1,2,0, Full Time,crab,Soundly beaten by Reid... %s from %O and %M but all his scoring well after the game was done
+271300,Cruize,Garlett,NM,13,51,73,43,43,60,4,12,0,2,0,1,0,1,0, Full Time,news,%s from %O
+281395,Scott D.,Thompson,NM,4,50,56,45,42,57,4,10,3,2,0,1,0,0,0, Full Time,job,Had Medhurst... %D
+250373,Lachlan,Hansen,NM,3,42,68,23,34,48,8,4,3,1,0,0,1,0,0, Full Time,job,On Dawes... %M and %D

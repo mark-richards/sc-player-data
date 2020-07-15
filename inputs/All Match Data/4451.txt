@@ -1,0 +1,48 @@
+Gold Coast,Suns,Fremantle,Dockers,R6,7.12.54,15.9.99, Full Time
+May 04,2013,7.40,Gold Coast,Seven,280711,10390606,gcfc-v-fre,0,Fine,28,,
+
+<em>trippin123</em>: cash cow for O'Meara<br><em>doogz</em>: junk it up jelwood<br><em>valkorum</em>: walters x factor<br><em title="GERVA">gerva</em>: Dixon will play next week don't worry<br><em>Jmachete</em>: flower you barlow pig<br><em>Drenthe FC</em>: walters star&#044; no one else<br><em>Shiri</em>: great. Traded Dixon in this week. FML<br><em>NewFreoFan</em>: ablett 128 sc&#044; walters 116. makes me happy<br><em>9robbo9</em>: I think there is a -2 for GAJ missing but i am not defending panther the knob<br><em>spangle</em>: they are indeed @sdaledup<br><em>No_Hax</em>: scjst traded GAj this week for viney<br><em>danmaio</em>: cmaon gaz&#044; a lazy 15 please<br>
+240254,Jarrod,Harbrow,GC,22,110,135,140,88,123,20,12,4,3,0,2,2,1,0, Full Time,hot,%P and %T and %M and %s... also %F,,,384600,46,413900,69,Back,5
+220001,Gary,Ablett jnr,GC,32,101,137,129,85,120,12,16,4,6,0,3,4,1,0, Full Time,hot,%P and %M plus %T and %s... also %4FF and %F,creepy,Tagged by Crowley,587600,108,680100,114,Centre,9
+250249,Danny,Stanley,GC,25,99,86,131,81,109,14,8,10,4,0,0,2,0,1, Full Time,news,%s from %P and %M starting forward on Spurr... also %T,,,476400,,483200,,Back,25
+294613,Jaeger,O'Meara,GC,32,98,90,126,72,99,8,10,2,9,0,0,0,2,0, Full Time,cash,%2 Mundy... %O and %T plus %s,,,273600,-21,300500,-40,Centre,1
+290790,Matthew,Shaw,GC,10,88,61,112,69,95,15,9,5,2,0,0,0,0,2, Full Time,news,%s from %P and %M on Duffield... also %T,,,300200,30,316300,36,Back,26
+290627,Dion,Prestia,GC,16,86,86,109,70,93,12,9,5,3,0,2,1,1,0, Full Time,news,%s from %D and %M starting on a HFF on Danyle Pearce,,,396500,60,416600,83,Centre,10
+290527,Trent,McKenzie,GC,18,80,76,103,64,84,8,9,7,4,0,1,0,0,0, Full Time,news,%O and %M with %T,,,363800,,360000,,Back,18
+261756,Greg,Broughton,GC,14,77,102,98,59,81,10,10,3,4,0,2,0,0,0, Full Time,job,Chasing Walters... %O and %M with %T,,,378200,115,407000,122,Back Forward,36
+240712,Michael,Rischitelli,GC,13,75,69,96,59,80,8,10,3,5,1,3,1,0,1, Full Time,news,%D and %M with %T and %s,,,316500,54,357600,84,Centre,35
+230015,Jared,Brennan,GC,9,72,70,94,59,83,11,8,5,3,2,0,2,0,0, Full Time,tagged,Tagged by de Boer... %P and %M... also %H and %T,,,371500,87,437600,108,Back,3
+291753,Sam,Day,GC,9,65,84,83,51,69,8,8,4,3,0,1,0,0,0, Full Time,news,%M and %P with %T,job,Standing Silvagni,226300,40,232400,25,Forward,12
+250146,Thomas,Murphy,GC,9,61,74,77,51,72,12,8,4,0,0,0,1,0,0, Full Time,job,Moved to Mayne in Q2... %P and %M,,,266100,25,334900,54,Back,29
+290832,David,Swallow,GC,9,58,83,75,51,75,11,9,4,1,0,0,3,0,0, Full Time,news,%O and %M... also %F,job,Chasing Ballantyne,375400,84,386000,97,Centre,24
+280722,Zac,Smith,GC,9,55,69,63,49,54,4,4,2,1,20,4,0,0,1, Full Time,news,%H and %D with %T and %M... also %s,,,314200,38,373400,24,Ruck,2
+292512,Karmichael,Hunt,GC,21,55,58,74,42,55,3,3,4,6,0,0,1,1,1, Full Time,nz,%P and %T with %M... also %s,,,271000,58,303200,85,Centre,7
+291594,Harley,Bennell,GC,14,52,62,65,49,68,9,7,4,0,2,0,3,1,0, Full Time,news,%B among %D with %M and %s.... also %F,,,424200,98,493800,123,Centre,11
+280711,Charlie,Dixon,GC,9,50,52,65,38,48,4,2,3,4,8,0,0,0,1, Full Time,injured,%s from %P and %M up forward on McPharlin... also %H and %T in ruck support... ankle roll in Q3,subbed,Subbed off in Q3 for Hall,371900,42,477600,40,Back,23
+294583,Jesse,Lonergan,GC,13,50,46,69,34,51,4,5,1,7,0,0,1,0,0, Full Time,rookie,First game... %P and %T,,,129700,,139500,,Centre,37
+281075,Rory,Thompson,GC,4,42,66,55,31,43,7,3,2,2,0,0,0,0,1, Full Time,switch,Following Mayne then switched forward in Q2... %P and %M with %T and %s,,,257600,19,317300,48,Back,16
+293813,Thomas,Lynch,GC,3,36,25,49,30,41,4,2,3,3,4,0,2,0,1, Full Time,news,%s froim %P and %M with %T up forward on Dawson... also %H and %F,,,338500,,366000,,Forward,19
+290817,Brandon,Matera,GC,3,30,24,40,22,30,4,2,2,2,0,0,0,0,0, Full Time,news,%D and %T with %M,,,357100,83,339400,64,Forward,32
+296735,Aaron,Hall,GC,2,28,20,36,21,30,3,4,1,2,0,0,0,0,0, Full Time,news,On in Q3 for Dixon... %O,sub,Started as a sub,340600,89,328900,99,Forward,33
+240139,Paul,Duffield,FR,30,96,92,85,69,94,11,6,6,8,0,0,0,0,1, Full Time,news,%D and %M with %T and %s,job,Responsible for Shaw,412800,84,468200,115,Back,41
+250268,Garrick,Ibbotson,FR,14,96,94,53,76,96,18,4,9,1,0,3,0,0,0, Full Time,news,%P and %M,,,358200,,388500,,Back,5
+200045,Luke,McPharlin,FR,19,95,104,53,75,97,18,3,10,1,1,0,0,0,0, Full Time,job,On Dixon... %P and %M,,,333100,123,366600,129,Back,18
+240052,David,Mundy,FR,20,87,115,66,67,97,12,10,3,6,4,0,2,0,0, Full Time,news,%2 O'Meara... %P and %T with %M... also %H and %F,,,445700,93,473200,109,Centre,16
+250088,Jonathon,Griffin,FR,33,87,117,86,81,97,4,5,3,4,31,0,3,3,0, Full Time,x-factor,%H and %P with %M and %T... also %s and %F,,,405000,88,484100,99,Ruck,12
+280416,Chris,Mayne,FR,20,87,72,71,66,84,11,3,7,5,0,1,0,1,0, Full Time,news,%s from %D and %M on Murphy... also %T... but that goal came very late,,,386600,74,436900,94,Forward,23
+240266,Lee,Spurr,FR,14,84,84,59,65,84,13,4,8,3,0,1,0,0,0, Full Time,news,%O and %M with %T,job,Has Stanley,333600,45,370700,52,Back,34
+292026,Michael,Barlow,FR,15,81,79,70,65,88,8,12,5,4,1,1,0,0,0, Full Time,news,%D and %M plus %T,,,482900,90,512200,118,Centre,21
+270908,Nick,Suban,FR,15,80,92,43,63,88,15,7,2,3,0,2,2,1,1, Full Time,news,%D and %M with %T... also %s and %F,,,261700,52,269800,62,Back,8
+280386,Clancee,Pearce,FR,19,79,101,57,67,87,10,10,6,1,0,1,0,1,0, Full Time,news,%P and %M plus %s,,,389600,86,446900,120,Centre,46
+281007,Michael,Walters,FR,20,77,118,43,68,88,13,4,3,1,0,1,3,4,1, Full Time,star,%s from %D and %M on Broughton,,,398000,77,436900,129,Forward,10
+280726,Tendai,Mzungu,FR,13,73,80,47,57,74,12,4,6,2,0,1,0,0,2, Full Time,zimbabwe,%O and %M with %T and %s,,,357600,107,365800,97,Centre,13
+293651,Hayden,Crozier,FR,11,70,92,45,53,69,11,3,2,3,0,1,0,2,0, Full Time,news,First goal... %P and %M plus %T and %s,,,175200,,219400,,Forward,17
+271015,Matthew,de Boer,FR,20,68,63,64,47,69,7,7,1,8,0,1,1,0,0, Full Time,news,%P and %T,tagger,Tagging Brennan,391600,90,387100,109,Forward Centre,9
+230107,Michael,Johnson,FR,12,67,85,45,55,72,10,7,6,1,0,1,0,0,0, Full Time,news,%P and %M,,,371800,92,424100,111,Back,37
+240552,Zac,Dawson,FR,4,50,48,42,43,55,5,7,5,1,1,1,0,0,0, Full Time,job,Has Lynch... %O and %M,,,139500,32,227600,35,Back,3
+250063,Danyle,Pearce,FR,7,50,54,27,37,55,9,7,0,2,0,0,0,0,1, Full Time,news,%P and %T on Prestia... also %s,sore,Left foot knock in Q2,393300,103,420300,129,Back Centre,6
+271433,Alex,Silvagni,FR,14,48,60,48,36,48,4,3,2,5,0,1,1,1,0, Full Time,news,Starting forward... %s from %P and %M on Day... also %T,subbed,Subbed off in Q4 for Sutcliffe,210400,,256800,,Back,36
+281105,Jack,Hannath,FR,11,48,60,40,45,60,5,5,3,2,9,0,3,1,0, Full Time,bubble,Second game... %H and %P with %T and %M... %F and %s as well,,,102700,,109500,,Ruck,38
+230048,Ryan,Crowley,FR,8,47,59,45,35,46,4,5,2,4,0,2,0,0,1, Full Time,news,%D and %T with %M and %s,tagger,Tagging Ablett jnr,255800,13,252900,17,Centre,15
+260069,Hayden,Ballantyne,FR,5,47,36,28,40,52,9,2,4,2,0,4,3,0,1, Full Time,news,%s from %D and %M on Swallow... also %T,,,346300,90,387500,56,Forward,1
+290733,Cameron,Sutcliffe,FR,7,34,21,19,26,33,6,1,1,1,0,1,0,1,0, Full Time,news,On in Q4 for Silvagni... %s from %O,sub,Started as a sub,230900,31,220600,26,Centre,33

@@ -1,0 +1,48 @@
+Essendon,Bombers,Western Bulldogs,Bulldogs,R14,21.14.140,8.8.56, Full Time
+Jun 30,2012,7:40,Docklands,Seven,280824,10341405,430120,0,Roof closed,13,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em title="GAZZ MVP">gazz mvp</em>: 2157 with grimes Godard And zorko but reckon alot of use have 5 to come <br><em>Jormas</em>: currently 2250 with Goddard&#044; Jelwood and Zokro to come. on track for a mint 2500+.<br><em>OnTheRocks</em>: Man crush on Watson!<br><em>GJayBee</em>: i almost got sherman in sc after he came in and played two hundred games in a row<br><em>runt</em>: Brown is the best Captain at the moment. He's at home having a few frothies before the big game tomorrow<br><em>jimmyhird5</em>: ill take that tonight<br><em>Getit2jpod</em>: I'm currently 2050 with Goddard&#044;Hanley&#044;selwood&#044;goldy and zorko to come<br><em>13Brummy</em>: heppell struggles when the dons dominate<br><em>GJayBee</em>: i have jobe captain in sc&#044; one of my few good moves this weekend<br><em>Jormas</em>: 70 atleast harspud...<br><em title="BOMBRBLITZ">bombrblitz</em>: Nice Bombers!<br><em>LazyAs</em>: Spud Sherman up m0nty<br>
+270935,Michael,Hurley,ES,39,133,135,163,115,139,14,8,12,2,0,0,0,5,1, Full Time,target,First goal... %s from %P and %G on Lake,,
+240245,Courtenay,Dempsey,ES,32,129,99,169,102,129,17,6,13,5,0,1,0,1,0, Full Time,hot,%O and %M with %T,,
+230231,Jobe,Watson,ES,32,126,145,156,102,135,18,12,6,3,0,0,0,3,0, Full Time,star,%2 Boyd to start then got the Picken tag... %K among %D with %M and %T... also %s,,
+250569,Heath,Hocking,ES,37,122,125,158,98,132,16,11,8,6,0,1,2,1,3, Full Time,hot,%O and %M with %T and %s,tagger,Tagging Griffen
+260073,Ben,Howlett,ES,36,120,131,159,92,126,14,12,7,9,0,3,2,0,0, Full Time,hot,%2 Smith... %B among %P with %T,,
+240027,Brent,Stanton,ES,24,111,107,146,87,121,20,9,7,4,0,1,2,0,1, Full Time,hot,%D and %M plus %T,,
+960197,Dustin,Fletcher,ES,19,109,98,144,83,111,24,3,9,1,0,0,0,0,0, Full Time,rock,Cooney manning him up... %M and %O,,
+250267,Patrick,Ryder,ES,32,104,109,128,92,111,10,6,10,2,15,0,1,2,0, Full Time,hot,%H and %P plus %M and %s on Hargrave,,
+290160,Michael,Hibberd,ES,20,100,84,130,82,108,16,8,10,2,0,1,1,0,0, Full Time,hot,%P and %M,job,On Dickson
+270588,Cale,Hooker,ES,25,98,86,129,83,105,17,4,14,0,0,0,1,0,0, Full Time,news,%M and %D,job,Standing Jones
+261324,Kyle,Reimers,ES,21,88,73,111,72,85,12,0,7,2,0,1,0,3,4, Full Time,sore,Kicked %s from %D and %M on Murphy... right knee knock in Q2,,
+290629,Dyson,Heppell,ES,14,80,70,104,66,86,12,6,8,2,2,1,1,0,0, Full Time,news,Quiet first half... %P and %M with %T,,
+261314,David,Myers,ES,14,77,73,100,59,79,8,8,5,5,1,1,0,0,0, Full Time,news,%D and %T,,
+240319,Sam,Lonergan,ES,14,75,79,97,60,84,9,10,5,4,0,0,1,0,0, Full Time,news,Rotating roles across halfback... %P and %T with %M,,
+200026,David,Hille,ES,14,74,85,90,65,82,9,6,5,1,18,0,1,0,1, Full Time,news,%H and %D with %M.. also %s,,
+280824,Jake,Melksham,ES,15,70,71,87,61,75,9,5,6,1,0,2,1,2,0, Full Time,news,%O and %M plus %s,,
+270584,Kyle,Hardingham,ES,9,69,92,89,55,75,14,6,4,1,0,2,1,0,0, Full Time,news,%O and %M,job,Responsible for Sherman
+290641,Jake,Carlisle,ES,5,55,58,72,43,57,8,4,5,2,0,0,0,0,0, Full Time,job,Moved to Roughead in Q3... %D and %M,sore,Right knee knock in Q2
+280413,Cory,Dell'Olio,ES,11,53,56,64,46,57,5,5,4,1,0,0,0,2,0, Full Time,news,Donuts in Q1... %s from %P and %M on Addison,,
+250352,Leroy,Jetta,ES,8,50,79,68,37,50,7,2,3,4,0,1,1,0,2, Full Time,wood,Has Wood... %s from %D and %T with %M,,
+292503,Stewart,Crameri,ES,10,46,54,59,35,42,5,0,2,3,0,1,0,2,0, Full Time,injured,%s from %P and %G on Markovic... also %T... left achilles knock in Q1,subbed,Subbed off in Q3 for Lovett-Murray
+210079,Nathan,Lovett-Murray,ES,3,32,35,38,26,38,2,8,0,2,1,0,0,0,1, Full Time,news,On in Q3 for Crameri,sub,Started as a sub
+220010,Matthew,Boyd,WB,26,132,133,79,104,140,22,12,7,3,1,1,0,1,1, Full Time,magnet,%P and %M plus %s... also %T,,
+291526,Luke,Dahlhaus,WB,31,106,88,93,78,105,12,8,7,8,0,1,0,0,0, Full Time,hot,%P and %T with %M,,
+290799,Tom,Liberatore,WB,21,101,101,74,84,111,13,11,6,3,0,1,1,2,0, Full Time,hot,%D including %B with %M and %T... also %s,,
+260227,Shaun,Higgins,WB,19,95,77,54,74,102,17,9,6,2,0,0,0,0,0, Full Time,news,%P and %T on Hardingham,,
+230255,Will,Minson,WB,22,88,80,74,79,94,7,7,3,2,18,2,1,3,1, Full Time,news,%H and %P plus %M and %s,,
+210049,Daniel,Cross,WB,19,87,83,79,69,94,8,12,6,5,1,0,0,0,0, Full Time,news,%O and %M plus %T,,
+293847,Clay,Smith,WB,19,80,61,53,65,88,13,5,6,3,0,0,2,1,1, Full Time,news,%2 Howlett... %D,,
+220039,Brian,Lake,WB,12,72,81,37,58,75,14,4,7,0,0,1,0,0,0, Full Time,news,%D... his stat line didn't move in Q2,job,Responsible for Hurley
+295712,Tory,Dickson,WB,21,69,62,75,49,69,4,9,2,8,0,1,0,0,0, Full Time,news,%P and %T on Hibberd... also %s,,
+240156,Ryan,Griffen,WB,13,67,60,53,53,75,8,11,2,4,0,2,1,0,0, Full Time,sore,Tagged by Hocking... %D and %T with %M... left calf knock in Q4,,
+200082,Ryan,Hargrave,WB,9,65,83,45,56,78,9,11,5,1,0,0,1,0,0, Full Time,news,%B among %O with %M,job,Big job on the resting ruckman which is mostly Ryder
+271439,Liam,Picken,WB,19,61,61,48,46,69,9,6,2,6,0,1,3,0,0, Full Time,tagger,Moved to tag Watson in Q1... %P and %T.. also %F,,
+281139,Easton,Wood,WB,8,59,56,39,50,63,9,5,7,0,0,1,0,0,0, Full Time,job,Chasing Jetta... %O and %M,,
+230041,Adam,Cooney,WB,8,58,50,33,48,64,10,6,5,0,0,0,0,0,1, Full Time,news,Forward on Fletcher... %s from %P and %M,,
+250601,Lukas,Markovic,WB,5,56,58,37,43,57,9,4,4,2,0,1,0,0,0, Full Time,job,Standing Crameri... %O,,
+290246,Tom,Campbell,WB,10,49,45,39,42,50,5,2,3,1,11,0,0,1,0, Full Time,bubble,Second game.. %H and %P plus %s,,
+281078,Liam,Jones,WB,3,38,34,26,32,42,6,3,4,1,0,1,1,0,0, Full Time,news,%D and %M on Carlisle,,
+240212,Dylan,Addison,WB,3,37,13,26,33,45,6,3,5,1,0,0,2,0,0, Full Time,job,Chasing Dell'Olio.. %D,,
+281374,Christian,Howard,WB,3,35,33,26,28,36,5,2,4,1,0,0,0,0,0, Full Time,news,%D and %M,,
+200083,Robert,Murphy,WB,2,33,44,16,24,33,7,1,2,1,0,0,0,0,0, Full Time,injured,Has Reimers... %O and %M... left hamstring tweak in Q2,subbed,Subbed off at HT for Roughead
+240325,Justin,Sherman,WB,4,33,31,27,31,46,4,7,2,2,0,1,3,0,1, Full Time,news,%D and %T on Hardingham... also %F,,
+280012,Jordan,Roughead,WB,1,21,19,19,19,24,2,2,2,1,2,1,1,0,1, Full Time,news,On after HT for Murphy,sub,Started as a sub

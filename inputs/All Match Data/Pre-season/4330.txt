@@ -1,0 +1,52 @@
+Hawthorn,Hawks,Richmond,Tigers,W3,13.6.84,13.7.85, Full Time
+Mar 09,2013,1.10,Launceston,Fox Sports,,10380303,,0,Partly cloudy,30,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>ljbacon</em>: Cotchin Vs Mitchell in a Supercoach head to head? <br><em>MayhemFC2</em>: west coast&#044; geelong hawks&#044; then richmond or north<br><em>Redlegs</em>: Top 4 of the bottom 10<br><em>MayhemFC2</em>: top 4 will be Collingwood&#044; Carlton&#044; Adelaide and Essendon<br><em>MayhemFC2</em>: tigers might scrape in to the top 8<br><em>chadwick</em>: Cracking game&#044; fairy tale finish<br><em>MayhemFC2</em>: far too many passagers at tigers<br><em>TheoX</em>: lol top 4<br><em>R.Griff</em>: Tigers for top 4<br><em>myteamsuks</em>: Jroo<br><em>myteamsuks</em>: Moro after the siren<br><em>TheoX</em>: vickery is such a dissapointment<br>
+220073,Sam,Mitchell,HW,25,111,111,147,82,117,19,10,3,7,0,3,2,0,0, Full Time,hot,%2 Cotchin... %O and %T with %M... also %F,,
+240357,Jarryd,Roughead,HW,31,95,134,117,86,106,9,6,7,3,1,1,3,5,0, Full Time,news,%s from %P and %T at FF on Griffiths... also %G and %F,,
+250089,Jordan,Lewis,HW,19,93,93,121,71,97,12,9,6,5,1,0,0,0,0, Full Time,news,%B among %D with %M and %T,,
+294877,Isaac,Smith,HW,25,85,87,114,68,97,11,9,6,6,0,0,3,0,1, Full Time,news,Playing a HFF... %s from %D and %M... also %T and %F,,
+295584,Bradley,Hill,HW,14,83,81,108,66,91,15,7,6,2,0,0,1,0,1, Full Time,news,%P including %k by foot... also %M and %s,sore,Hamstring twinge in Q3 but he played on
+240302,Grant,Birchall,HW,13,69,60,89,57,75,8,8,6,3,0,2,1,0,0, Full Time,tagged,Forward tag on him by White... %D and %T plus %M,,
+291861,Jed,Anderson,HW,14,69,70,88,53,69,10,5,3,3,0,2,0,1,0, Full Time,news,Starting in a FP on Morris... %s from %P and %T... also %M,,
+210012,Shaun,Burgoyne,HW,12,67,56,84,56,72,9,5,4,2,0,1,1,2,0, Full Time,news,%D and %M plus %T and %s,,
+292013,Sam,Grimley,HW,15,63,73,71,59,75,4,12,4,0,8,0,0,1,1, Full Time,news,Starting forward on Batchelor... %D and %M... also %H and %s,,
+250715,Josh,Gibson,HW,9,56,60,74,44,57,8,3,6,2,0,0,0,0,0, Full Time,news,%O and %T with %M,job,Following Riewoldt
+250654,Matt,Spangher,HW,10,53,46,65,45,53,8,1,4,0,0,1,0,2,2, Full Time,news,%s from %P and %M on Chaplin... is nowhere near the Hawks best 22,subbed,Subbed off in Q4 for Frank
+280471,Ben,Stratton,HW,9,53,78,72,37,51,8,2,3,4,0,0,0,0,0, Full Time,job,Interesting matchup on King... went to Aaron Edwards in Q3... %P and %T with %M,,
+280858,Shane,Savage,HW,10,53,49,68,40,51,9,2,2,2,0,2,0,1,0, Full Time,tagger,Forward tag on Houli.. %P and %T plus %M and %s,,
+270215,Kyle,Cheney,HW,4,49,55,64,37,51,8,4,3,2,0,0,0,0,0, Full Time,crown,Did nothing to suggest he is best 22 material... moved to King in Q3... %D and %M,,
+250652,Jonathan,Simpkin,HW,7,47,69,60,43,63,10,8,3,0,0,1,3,0,0, Full Time,news,%D and %T... also %F,,
+260472,Max,Bailey,HW,9,45,46,56,40,52,5,3,2,2,16,0,2,0,0, Full Time,news,%H and %P with %T and %M,,
+290085,Taylor,Duryea,HW,4,43,42,55,35,51,4,8,2,3,0,0,1,0,0, Full Time,job,On a HBF on Martin... %P and %M with %T,,
+291300,Derick,Wanganeen,HW,9,42,37,53,33,42,5,3,2,2,0,1,0,1,0, Full Time,news,%s from %O and %M on Ellis,,
+281301,Ryan,Schoenmakers,HW,3,41,89,50,34,48,5,8,2,1,0,0,0,0,0, Full Time,job,Has Vickery... %O,,
+250257,Xavier,Ellis,HW,2,24,29,30,23,33,5,5,1,0,0,2,2,0,0, Full Time,news,Playing a wing on Newman... %O... also %F,subbed,Subbed off at 3QT for Puopolo
+270732,Matt,Suckling,HW,2,22,16,30,20,28,6,1,2,0,0,1,2,0,1, Full Time,longterminjured,%D and %M plus %s... also %F... right knee collapsed under him in Q3... returned to the bench with crutches and a stabilisation compact around the knee... likely ACL according to Clarkson in post-match,subbed,Subbed off in Q2 for Litherland
+260710,Paul,Puopolo,HW,1,18,28,25,13,18,1,2,0,3,0,2,1,0,0, Full Time,news,On after 3QT for Ellis,sub,Started as a sub
+294178,Angus,Litherland,HW,1,16,24,21,11,15,1,2,0,2,0,1,0,0,0, Full Time,news,On in Q3 for Suckling... %O,sub,Started as a sub
+296091,Amos,Frank,HW,0,4,0,6,2,3,0,0,0,1,0,0,0,0,0, Full Time,news,On in Q4 for Spangher,sub,Started as a sub
+240336,Brett,Deledio,RI,26,108,124,83,87,115,13,11,6,4,1,0,0,2,0, Full Time,hot,%P and %M plus %T and %s,,
+250312,Bachar,Houli,RI,20,102,108,65,84,108,16,8,9,1,0,1,0,1,0, Full Time,hot,Forward tag on him by Savage... %D and %M plus %s,,
+270896,Trent,Cotchin,RI,24,101,110,73,83,115,14,14,6,4,0,2,2,0,1, Full Time,hot,%2 Mitchell... %P with %b by foot ... also %T with %M and %s,,
+293713,Brandon,Ellis,RI,18,74,87,45,63,81,13,4,10,0,0,0,1,0,0, Full Time,job,Has Wanganeen... %O and %M,,
+210048,Chris,Newman,RI,20,73,91,49,63,75,10,3,6,0,0,1,0,3,0, Full Time,sore,Starting on a wing matched up on Ellis.. %O and %M plus %s... left leg corked in Q4,,
+250395,Jack,Riewoldt,RI,20,70,85,51,59,70,9,1,6,1,0,0,0,3,1, Full Time,news,Kicked %s from %D and %G on Gibson,,
+261362,Alex,Rance,RI,14,69,90,58,55,72,8,7,5,4,0,3,1,0,0, Full Time,news,Loose man in defence... %D and %M with %T,,
+280747,Ben,Griffiths,RI,9,61,54,46,48,58,9,0,8,2,0,1,0,0,1, Full Time,news,%M and %P with %T... also %s,job,On Roughead
+240389,Matt,White,RI,5,59,45,38,47,63,10,4,5,2,0,1,1,0,0, Full Time,tagger,Forward tag on Birchall... %D and %T with %M,,
+250298,Shaun,Grigg,RI,10,57,39,46,49,62,6,6,5,1,2,0,0,1,0, Full Time,news,%P and %M plus %s,subbed,Subbed off in Q3 for Nahas
+260433,Steven,Morris,RI,12,56,42,35,49,63,9,6,6,0,0,2,1,0,0, Full Time,job,Started on Anderson in a BP... %O and %M,,
+271437,Jake,King,RI,10,54,62,35,44,53,8,2,1,2,0,4,1,2,2, Full Time,news,First goal... %s from %P on Stratton then Cheney... also %T,,
+290847,Dustin,Martin,RI,8,52,52,27,44,60,10,5,5,0,0,0,1,0,0, Full Time,news,Starting on a HFF on Duryea... %P and %M,,
+240546,Ivan,Maric,RI,5,49,57,41,43,53,4,6,2,1,14,1,0,0,0, Full Time,news,%H and %D plus %M,,
+260930,Shane,Edwards,RI,8,47,75,26,40,60,9,7,2,2,0,1,3,0,0, Full Time,news,Started on the bench... %P and %T... also %M and %F,,
+290823,Reece,Conca,RI,8,43,53,33,39,60,6,9,2,3,0,1,4,0,0, Full Time,news,%P and %T with %M... also %F,,
+240707,Daniel,Jackson,RI,4,41,42,23,31,45,8,3,2,2,0,0,1,0,0, Full Time,news,%O and %M,,
+270941,Tyrone,Vickery,RI,9,41,55,36,36,45,3,5,2,1,5,0,0,1,1, Full Time,news,Booted %s from %G and %D on Schoenmakers... also %H,,
+291437,Jake,Batchelor,RI,3,41,51,23,36,48,7,6,3,0,0,2,1,0,0, Full Time,job,In defence on the resting ruckman which is mostly Grimley... %P and %M,,
+240180,Troy,Chaplin,RI,2,37,36,27,30,39,5,4,3,1,0,1,0,0,0, Full Time,job,Zoning off Spangher... %P and %M,subbed,Subbed off in Q3 for Petterd
+240319,Sam,Lonergan,RI,7,35,16,31,23,33,4,3,0,4,0,1,0,0,0, Full Time,news,%D and %T,subbed,Subbed off at HT for Aaron Edwards
+250360,Ricky,Petterd,RI,2,29,50,28,20,27,3,1,2,3,0,0,0,0,0, Full Time,news,On in Q3 for Chaplin... %P and %T,sub,Started as a sub
+250623,Robin,Nahas,RI,2,24,36,17,18,27,4,2,1,2,0,0,1,0,0, Full Time,lebanon,On in Q3 for Grigg... %O,sub,Started as a sub
+230240,Aaron,Edwards,RI,0,2,0,0,5,9,1,1,1,0,0,0,2,0,0, Full Time,news,On in Q3 for Lonergan... %D,sub,Started as a sub

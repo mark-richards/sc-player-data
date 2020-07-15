@@ -1,0 +1,48 @@
+Fremantle,Dockers,Brisbane,Lions,R12,12.14.86,6.10.46, Full Time
+Jun 15,2013,4.40,Subiaco,Seven,250335,10391203,fre-v-bl,0,Mostly sunny,21,,
+
+<em>RooBoyStu</em>: no gun?<br><em>cheers</em>: staker you are gone <br><em>MyMayneMan</em>: well that goal to Lisle ruined a fair few peoples Multi's<br><em>old_shepp</em>: Why cicjose? What if he did a hammy at training next week. Another donut for the bye rounds<br><em>RooBoyStu</em>: cicjose why? his 3rd game is next week<br><em>matthius</em>: mitchell could well be the most in player of teams ever by next week.<br><em>frenzy</em>: pitty docherty wont get a game next week cos his coach is a spud<br><em>Bort</em>: kennedy. atleast mayes is playing <br><em>Cicjose</em>: tom mitchell should be in your team already<br><em>Heizenberg</em>: Cheers atthius i just need bombers and pies now to cover line <br><em>LeonDavis2</em>: wouldn't be surprised if mayes was sub next week<br><em>HawkTalker</em>: actually&#044; gambler&#044; gunston's toe poke last night wasnt umpires call<br>
+240052,David,Mundy,FR,31,124,139,158,96,127,18,9,6,5,0,1,0,2,1, Full Time,star,%2 Redden... %P and %T plus %M and %s.. had a very productive Q3,,,463900,96,512000,99,Centre,16,10,93.9,100.8,2.76,4.15
+250268,Garrick,Ibbotson,FR,25,121,137,158,95,126,20,8,11,3,0,0,0,0,0, Full Time,cherry,%P and %T with %M... had a productive Q1 as the Dockers switched a lot,,,439100,83,472800,96,Back,5,6,99.8,98.7,9.33,3.01
+292026,Michael,Barlow,FR,25,115,115,142,97,134,12,20,7,4,3,0,1,0,2, Full Time,magnet,%O and %M plus %T... also %s,,,535300,76,558000,60,Centre,21,10,108.1,111.7,7.13,4.97
+280726,Tendai,Mzungu,FR,20,110,92,142,89,118,17,10,9,3,1,2,1,0,0, Full Time,hot,Plenty of outside ball in this game... %P and %T with %M,,,329300,14,366800,29,Centre,13,10,69.1,72.3,1.22,0.69
+230107,Michael,Johnson,FR,26,107,114,136,88,106,17,3,10,1,1,3,0,2,0, Full Time,seagull,Loose in defence... %P and %M plus %s,,,404800,57,441600,94,Back,37,10,76.4,79.8,1.64,1.03
+280386,Clancee,Pearce,FR,20,102,107,128,84,114,12,15,8,3,0,0,0,0,0, Full Time,hot,%2 Zorko... %D and %M with %T,,,427800,70,432700,79,Centre,46,10,82,84,0.55,0.42
+250063,Danyle,Pearce,FR,24,95,107,121,78,104,19,6,7,0,0,0,1,1,2, Full Time,x-factor,His outside pace was crucial in a tight contest... %P and %M plus %s,,,363400,62,366100,61,Back Centre,6,10,77.7,76.7,11.28,6.02
+200045,Luke,McPharlin,FR,19,91,89,121,73,96,14,5,10,3,0,0,1,0,0, Full Time,news,%M and %P with %T,switch,Standing Lisle.. switched forward in Q3 for ten minutes then back again,370400,77,374900,90,Back,18,9,72.1,70.2,1.87,1.05
+280416,Chris,Mayne,FR,21,86,95,108,72,88,10,5,8,2,0,1,0,2,1, Full Time,news,%s from %P and %M on Staker,,,394900,64,434500,64,Forward,23,10,82.6,88,3.24,2.25
+230048,Ryan,Crowley,FR,19,82,73,104,69,91,11,8,7,2,1,0,1,1,0, Full Time,news,Tagging Black until Q3 when Black got subbed... %P and %T with %M... also %s,,,248300,67,279400,84,Centre,15,10,46.5,50.7,1.28,1.43
+291570,Nathan,Fyfe,FR,9,77,77,100,56,77,15,5,2,3,2,2,0,0,0, Full Time,news,Slow start... %D and %T with %M... also %H,,,482300,126,548700,97,Centre,7,8,98.1,111.9,12.18,15.55
+290251,Zachary,Clarke,FR,21,73,93,83,68,76,5,5,3,1,28,4,1,1,0, Full Time,news,%H and %D with %M... also kicked %s,,,381100,68,420700,56,Ruck,30,3,93.7,99,5.73,2.06
+240266,Lee,Spurr,FR,13,71,72,93,58,78,11,6,7,2,0,0,1,0,0, Full Time,job,Minding McGrath... %D and %M with %T,,,371200,58,385200,91,Back,34,10,73.3,75.5,0.85,0.63
+280336,Stephen,Hill,FR,14,69,81,87,56,73,11,6,3,2,0,3,1,1,1, Full Time,rain,Tagged by Raines... %O with %k by foot.. also %M,,,331000,43,402700,52,Centre,32,6,71.8,85.5,1.76,0.79
+260069,Hayden,Ballantyne,FR,8,67,59,86,54,66,11,3,6,1,0,3,0,0,3, Full Time,news,%s from %O and %M on Patfull,,,328100,36,358600,52,Forward,1,9,64.9,69.2,1.45,1.11
+240139,Paul,Duffield,FR,9,66,71,88,52,75,12,6,4,3,0,0,2,0,0, Full Time,job,Rockliff manning him up... %O and %M plus %T,,,465700,108,515800,123,Back,41,9,90.1,96.3,4.24,5.92
+271015,Matthew,de Boer,FR,11,63,47,81,52,69,7,6,5,3,0,0,1,1,0, Full Time,tagger,Forward tag on Rich... %s from %D and %M with %T,,,408900,67,408200,61,Forward Centre,9,10,77.4,73.9,1.50,1.22
+270908,Nick,Suban,FR,9,60,53,79,44,61,8,5,3,4,0,0,0,0,1, Full Time,news,%D and %M plus %T and %s,,,302400,77,315000,77,Back,8,10,65.6,67.3,5.65,5.52
+281105,Jack,Hannath,FR,14,54,57,67,49,58,5,3,6,1,6,1,1,1,1, Full Time,cash,%s from %D and %M when forward on Clarke... %H as well,,,171400,36,209400,47,Ruck,38,6,38.3,50.2,6.52,6.77
+240552,Zac,Dawson,FR,7,33,49,44,35,45,4,4,7,0,0,1,3,0,0, Full Time,job,Has McKeever... %M and %O,,,163400,21,220500,55,Back,3,10,31.3,41.8,3.41,1.58
+293651,Hayden,Crozier,FR,2,32,20,42,25,33,5,2,3,1,0,0,0,0,0, Full Time,news,On in Q3 for Silvagni... %O and %M,sub,Started as a sub,257400,17,293100,29,Forward,17,5,65.2,74.6,3.00,2.93
+271433,Alex,Silvagni,FR,2,23,28,31,20,27,3,2,3,1,0,0,1,0,0, Full Time,news,Starting forward on Yeo... %D and %M,subbed,Subbed off in Q3 for Crozier,222800,74,239100,71,Back,36,4,50.8,48.5,1.37,0.85
+293603,Sam,Mayes,BL,19,99,104,67,78,105,15,10,7,3,0,1,0,0,0, Full Time,yinyang,%O and %M with %T... quiet first half but really lifted in Q3 and worked hard throughout the second half,,,263600,93,259800,86,Forward Centre,32,7,68,61.4,20.58,13.99
+240087,Jed,Adcock,BL,26,95,77,80,67,93,12,6,5,8,0,0,0,0,0, Full Time,news,%K among %D with %M and %T,,,402200,109,467500,91,Back,7,10,79.9,89.6,2.96,2.71
+290110,Mitchell,Golby,BL,15,92,77,50,75,108,17,12,5,2,0,0,2,0,0, Full Time,news,%D and %M,,,379300,46,396800,52,Back,41,8,74.1,77.1,0.89,0.51
+250335,Matthew,Leuenberger,BL,22,91,102,82,75,89,8,3,5,5,25,3,1,0,1, Full Time,news,%H and %P with %M and %T... kicked %s as well,,,358000,95,449800,103,Ruck,23,8,78,94.5,15.93,14.97
+291548,Ryan,Lester,BL,19,90,75,72,74,102,10,15,6,3,0,0,0,0,0, Full Time,news,%P and %M playing defensive roles in midfield... %T as well,,,315900,66,379700,85,Back,35,6,72.5,87.3,3.33,6.82
+281048,Ryan,Harwood,BL,14,87,88,62,71,96,12,11,7,2,0,0,0,0,0, Full Time,news,%P and %M,,,295000,81,325700,64,Back,2,2,54,67,0.15,0.12
+281373,Jack,Redden,BL,15,86,86,63,70,99,12,12,5,4,0,1,2,0,0, Full Time,news,%2 Mundy... %O and %T with %M,,,480800,102,526100,80,Centre,30,10,95.8,99.5,1.83,0.97
+270919,Tom,Rockliff,BL,16,80,90,50,65,87,13,7,5,2,0,1,1,1,0, Full Time,news,Starting forward trying to man up Duffield... %s from %P and %M with %T,,,473000,153,527100,170,Forward Centre,38,9,97.2,102.6,22.54,24.30
+270512,Pearce,Hanley,BL,13,74,91,49,54,76,12,6,3,4,0,0,0,0,1, Full Time,news,Quiet in Q1... %O and %T with %M,,,434400,164,516900,163,Back,11,9,90.8,104.8,15.13,14.64
+210013,Ashley,McGrath,BL,16,70,63,59,54,66,8,0,5,4,0,0,0,2,3, Full Time,news,Spurr on him... %s from %O and %M with %T,,,244200,49,297100,78,Back Forward,9,10,43.7,51.1,1.16,1.18
+270936,Jordan,Lisle,BL,20,69,81,46,61,72,10,1,7,0,0,1,1,3,0, Full Time,news,First goal... %s from %P and %G on McPharlin,,,266400,54,308500,65,Forward,19,3,60,64,0.36,0.19
+281329,Rohan,Bewick,BL,9,63,57,41,49,65,10,5,4,2,0,1,0,0,2, Full Time,news,%s from %O and %M... also %T,,,330400,92,333900,81,Forward,8,10,66.3,67.1,0.96,0.96
+271072,Daniel,Rich,BL,8,62,65,35,49,70,11,8,2,2,0,1,1,0,1, Full Time,tagged,Tagged by de Boer playing off a HBF... %D and %M plus %s,,,381300,104,468100,89,Centre,10,4,58.5,83.3,0.88,1.35
+230170,Joel,Patfull,BL,8,60,79,40,51,66,9,7,5,1,0,3,1,0,0, Full Time,job,Minding Ballantyne... %P and %M,,,287000,64,355400,50,Back,24,10,54.4,68.1,1.90,1.30
+261224,Dayne,Zorko,BL,14,60,73,52,43,63,7,7,1,6,0,1,1,0,0, Full Time,news,%2 Clancee Pearce... %O and %T,,,393600,115,464400,121,Forward Centre,15,10,76.9,88.4,15.56,16.64
+295162,Justin,Clarke,BL,5,56,61,47,46,60,6,7,5,2,0,1,0,0,0, Full Time,job,Takes the resting ruck which is mostly Hannath... %P and %T with %M,,,205700,41,237300,51,Back,42,5,51,58.2,2.20,4.53
+980007,Simon,Black,BL,4,48,67,33,37,51,7,6,2,2,0,1,0,0,0, Full Time,news,Tagged by Crowley... %O and %T with %M,subbed,Subbed off in Q3 for Docherty,395000,55,443700,73,Centre,20,4,78,77.5,0.30,0.25
+292508,Niall,McKeever,BL,5,42,44,39,40,57,4,6,3,3,9,0,4,0,0, Full Time,news,%P and %M starting forward on Dawson... also %H and %T... %F as well,,,223300,63,283600,94,Back,40,2,40,39,0.16,0.11
+292128,Elliot,Yeo,BL,3,36,55,22,30,39,6,3,4,0,0,0,0,0,0, Full Time,job,Has Silvagni... %D and %M,,,267700,80,294200,65,Back,26,9,54.8,58.6,0.66,0.59
+230211,Brent,Staker,BL,3,35,53,22,31,45,6,5,3,1,0,0,2,0,0, Full Time,cash,%O and %M... also %F,job,At CHB on Mayne,175200,-13,198100,-44,Back Forward,14,3,62.3,79.3,36.93,45.82
+295518,Sam,Docherty,BL,2,25,15,16,21,27,4,2,3,0,0,0,0,0,0, Full Time,news,On in Q3 for Black,sub,Started as a sub,151800,-5,175600,1,Back,1,4,45.5,53.5,9.15,12.92
+240013,Andrew,Raines,BL,2,17,24,12,16,27,3,4,0,2,0,1,3,0,0, Full Time,tagger,Tagging Hill... %D and %T,,,258700,83,240100,74,Centre,29,8,54.1,49,0.51,0.52

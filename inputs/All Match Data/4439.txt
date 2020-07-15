@@ -1,0 +1,48 @@
+Fremantle,Dockers,Richmond,Tigers,R5,12.9.81,12.8.80, Full Time
+Apr 26,2013,8.40,Subiaco,Seven,270896,10390503,fre-v-rich,0,Fine,27,,
+
+<em>kabooms</em>: great game<br><em>Roo18</em>: sc scores a joke. well Gary should get 288 when his dt are double trents<br><em>jack3030</em>: i said in the closing stages of the game watch the tape spastics<br><em>linusp</em>: and so supercoach is dead to me...<br><em>OnTheRocks</em>: how the hell did Cotchin get that?<br><em>Bluffie</em>: ikr&#044; sc just gives free points to high end premiums&#044; quite unfair for unique picks<br><em>bartyboys</em>: jack3030 cotchin had 6 clearances and barlow 7&#044; barlow went at better % . and freo guys had much more cp<br><em>omen77</em>: supercoach is a joke..<br><em>bartyboys</em>: jack3030 barlow had 7 clearances cotchin 7. barlow went at better %<br><em>cramers15</em>: @jack3030 no he did not play a quarter that was worth 80. He was good but he should of got 100-115 not 140. biggest joke<br><em>RayPest</em>: what in the flower??? cothin SC<br><em>Sledges</em>: Baelow was good but made some costly errors in the second half<br>
+292026,Michael,Barlow,FR,27,122,92,157,92,129,18,13,5,6,2,0,0,0,1, Full Time,magnet,%O and %M with %T and %s,,,484500,115,520500,111,Centre,21
+250268,Garrick,Ibbotson,FR,20,103,83,134,85,111,16,8,11,2,0,1,1,0,0, Full Time,hot,%D and %M plus %T,job,Chasing Knights,358200,,388500,,Back,5
+280386,Clancee,Pearce,FR,20,103,90,132,84,111,13,11,10,3,0,0,0,0,0, Full Time,hot,%O and %M on a HFF on the first gamer Vlastuin... also %T,,,388300,91,450500,99,Forward,46
+250088,Jonathon,Griffin,FR,16,101,123,120,87,105,12,9,5,1,23,4,0,0,1, Full Time,star,%H and %D with %M and %s,,,403400,88,486100,128,Ruck,12
+230107,Michael,Johnson,FR,24,98,97,130,76,96,14,4,10,4,0,2,0,0,0, Full Time,news,%P and %M with %T,job,Responsible for McGuane,377400,103,426200,102,Back,37
+291570,Nathan,Fyfe,FR,21,97,93,128,75,104,14,9,5,6,2,2,2,0,0, Full Time,tagged,%2 Cotchin then got the Jackson tag in Q3... %O and %T with %M... enjoyed himself in Q1 with no attention on him,,,478300,74,544500,92,Centre,7
+240266,Lee,Spurr,FR,14,95,107,125,74,99,17,6,7,3,0,2,1,0,0, Full Time,news,%D and %M plus %T,job,Minding White,323400,64,354400,70,Back,34
+270908,Nick,Suban,FR,25,94,87,125,73,91,15,1,8,4,0,3,1,1,1, Full Time,in,%l Paul Duffield (calf)... on in Q2 for Bradley... %s from %P and %M starting forward... also %T,sub,Started as a sub,268200,104,278600,107,Back,8
+271015,Matthew,de Boer,FR,26,93,82,123,70,97,7,11,5,9,0,1,1,0,1, Full Time,news,%s from %O and %T with %M,tagger,Forward tag role on Houli,393200,88,402900,118,Centre Forward,9
+280336,Stephen,Hill,FR,19,85,82,109,64,93,13,10,1,5,0,0,1,1,0, Full Time,news,%P and %T plus %s,,,327100,84,407500,112,Centre,32
+200045,Luke,McPharlin,FR,19,79,90,106,66,87,13,4,10,2,0,0,2,0,0, Full Time,rock,Dominated Riewoldt... %O and %M... also %F,,,342200,93,383500,129,Back,18
+281007,Michael,Walters,FR,19,76,51,97,65,81,13,2,6,1,0,2,2,2,3, Full Time,news,%s from %P and %M on Newman,,,388200,44,447200,75,Forward,10
+240052,David,Mundy,FR,14,75,63,99,55,75,12,5,4,4,0,1,0,0,0, Full Time,news,Tagged by Jackson until HT... %O and %M with %T,,,449700,75,483700,87,Centre,16
+280416,Chris,Mayne,FR,17,73,72,92,58,69,9,1,4,3,0,2,0,3,0, Full Time,news,%s from %P on Rance... also %T,,,382400,55,435800,70,Forward,23
+260069,Hayden,Ballantyne,FR,19,67,108,80,59,75,12,4,1,0,0,2,2,4,0, Full Time,x-factor,%s from %O on Helbig including the winning goal very late in Q4... also %F,concussed,Ran his head into the shoulder of Cotchin in Q4 which left him groggy,357300,85,377200,85,Forward,1
+280726,Tendai,Mzungu,FR,8,58,68,72,48,66,10,8,4,0,0,0,0,0,0, Full Time,news,%2 Ellis on a wing... %D and %M,,,382900,109,393700,132,Centre,13
+230048,Ryan,Crowley,FR,15,57,47,74,45,60,6,5,3,4,0,1,1,1,0, Full Time,tagger,Tagging Deledio... %D and %T with %M and %s,,,257300,55,256800,56,Forward,15
+250063,Danyle,Pearce,FR,9,54,48,76,41,60,9,3,3,5,0,1,3,0,0, Full Time,job,On a HBF on Martin... %P and %T... also %F,,,402400,67,445400,105,Centre Back,6
+240552,Zac,Dawson,FR,3,38,59,48,35,46,3,6,5,1,1,0,1,0,0, Full Time,job,Has Vickery... %O and %M,,,146600,52,227900,60,Back,3
+293535,Lachie,Neale,FR,3,31,41,37,29,42,4,8,2,0,0,0,1,0,0, Full Time,news,%D and %M,,,216900,,253400,,Forward,27
+281105,Jack,Hannath,FR,2,23,56,28,23,29,2,2,1,1,11,1,2,0,0, Full Time,rookie,First game... playing second ruck and forward on Grimes... %H and %D... also %F,,,102700,,109500,,Ruck,38
+230011,Kepler,Bradley,FR,1,21,18,26,17,22,4,2,1,0,0,1,0,0,1, Full Time,longterminjured,%s from %P on Batchelor... right knee injury in Q2 after he hyperextended it kicking around Grimes... later confirmed as an injury to his ACL,subbed,Subbed off in Q2 for Suban,309900,69,352100,91,Forward,26
+240707,Daniel,Jackson,RI,31,109,93,87,80,108,15,6,7,8,0,2,1,0,0, Full Time,hot,%O and %M with %T,tagger,Tagging Mundy then switched to Fyfe in Q3,378500,93,366800,84,Centre,23
+290847,Dustin,Martin,RI,26,99,115,62,70,98,17,5,2,6,0,0,0,1,2, Full Time,news,%s from %D and %T on a HFF on Danyle Pearce,,,468700,75,506400,72,Centre,4
+270941,Tyrone,Vickery,RI,23,95,95,69,81,94,12,1,8,1,10,1,0,3,0, Full Time,news,%s from %P and %M on Dawson... also %H,,,246200,50,311300,46,Forward,29
+240032,Chris,Knights,RI,21,90,74,67,75,97,11,8,4,3,0,1,1,3,1, Full Time,news,%s from %D and %M on Ibbotson... %T as well,,,254500,6,248300,18,Forward,15
+260930,Shane,Edwards,RI,26,89,63,83,67,96,8,14,2,8,0,2,1,0,0, Full Time,news,%K among %O with %T and %M,,,342500,65,439900,66,Forward,10
+250360,Ricky,Petterd,RI,24,87,57,69,65,90,12,6,6,6,0,0,1,0,0, Full Time,news,%P and %M with %T,,,258900,45,260900,42,Forward,13
+293713,Brandon,Ellis,RI,15,86,134,52,68,93,14,11,4,2,0,2,0,0,0, Full Time,news,%2 Mzungu on a wing... %P and %M,,,217500,83,220300,95,Back,5
+270896,Trent,Cotchin,RI,18,84,144,39,64,94,18,8,1,4,0,3,3,0,1, Full Time,heart,%2 Fyfe... %D and %T... also %s and %F... right ankle twisted under Suban in Q2... hobbled his way through the rest of the game,,,570500,117,622300,126,Centre,9
+240336,Brett,Deledio,RI,20,83,102,68,61,87,10,10,3,6,0,0,0,0,0, Full Time,creepy,Tagged by Crowley... %O and %T with %M,,,552600,111,616200,128,Centre,3
+250312,Bachar,Houli,RI,9,81,113,49,66,87,13,10,5,1,0,3,0,0,0, Full Time,tagged,Forward tagged by de Boer... %P and %M,,,380400,46,446000,57,Back,14
+240546,Ivan,Maric,RI,21,76,83,63,71,89,7,8,4,2,26,2,3,0,0, Full Time,news,%H and %D... also %F,,,470200,98,585100,128,Ruck,20
+261362,Alex,Rance,RI,18,71,111,52,58,81,11,6,6,4,0,1,3,0,0, Full Time,job,Following Mayne... looked as poor as he did last week against Cloke... %M and %D... also %T and %F,,,332000,96,408900,118,Back,18
+250298,Shaun,Grigg,RI,13,70,54,33,56,77,14,5,3,1,2,0,1,1,0, Full Time,news,First goal... %P and %M plus %s,,,467000,98,478200,126,Centre,6
+240389,Matt,White,RI,21,62,71,55,45,63,7,4,2,6,0,0,1,1,0, Full Time,news,%P and %T up forward on Spurr,,,218600,,266000,,Centre,35
+294674,Nick,Vlastuin,RI,9,51,39,50,39,54,4,7,3,4,0,0,0,0,0, Full Time,rookie,First game... %O and %M with %T... stopped after HT,job,On a HBF on Clancee Pearce,147700,,159500,,Centre Back,31
+210048,Chris,Newman,RI,5,49,57,33,39,54,8,4,4,2,0,0,1,0,0, Full Time,job,In defence again on Walters... %P and %M,,,337600,101,416600,62,Back,1
+250395,Jack,Riewoldt,RI,10,49,51,37,39,48,6,4,2,2,0,3,0,1,0, Full Time,news,Booted %s from %P and %M on McPharlin,,,423100,80,499800,120,Forward,8
+240256,Luke,McGuane,RI,11,41,46,36,41,57,4,6,3,2,0,0,4,2,0, Full Time,news,Kicked %s from %P and %G on Johnson... also %T and %F,,,322000,66,402500,94,Back,16
+280819,Dylan,Grimes,RI,4,33,34,15,27,42,8,2,2,2,0,0,3,0,0, Full Time,job,Has the resting ruck which is mostly the first-gamer Hannath... %D and %M with %T... also %F,,,327000,79,377600,98,Back,2
+291437,Jake,Batchelor,RI,2,30,79,23,26,36,4,4,3,1,0,0,1,0,0, Full Time,job,On Bradley... %P and %M,,,311000,80,363800,96,Back,11
+293315,Bradley,Helbig,RI,2,20,17,19,18,27,2,4,1,2,0,1,2,0,0, Full Time,job,Chasing Ballantyne... %D and %T... also %F,subbed,Subbed off in Q3 for Nahas,153500,,148700,,Centre,32
+250623,Robin,Nahas,RI,0,11,12,6,9,12,2,1,1,0,0,0,0,0,0, Full Time,in,%l Jake King... on in Q3 for Helbig... %O,sub,Started as a sub,338600,,375500,,Forward,26

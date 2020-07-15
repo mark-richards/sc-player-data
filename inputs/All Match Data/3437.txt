@@ -1,0 +1,48 @@
+Collingwood,Magpies,Essendon,Bombers,R5,18.12.120,8.7.55, Full Time
+Apr 25,2010,2:40,MCG,Seven,240366,10280505,5015537,4980,Windy with scattered showers,18
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,Delayed for a week due to working on scalability... should be next week for Round 6,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>lazza76</em>: i guess i dont encapsulate the entire ANZAC spirit to 1 defining battle...i belive it was established then but carries <br><em>shurg123</em>: Thought so... lazza&#044; fitz&#044; hendaroo et al... you have NOTHING. No argument.<br><em>numberwang</em>: actually australians dont have freedom of speech...americans do...we've never had a bill of rights<br><em>shurg123</em>: lazza76&#044; please explain the logic that links a failed beach invasion 95 years ago with freedom of speech today.<br><em>lazza76</em>: *from last* to enable you to do so...ya twit<br><em>lazza76</em>: shurg ...as a vet myself mate&#044; just enjoy the right to make comments like that...alot of very special men and women gave<br><em>shurg123</em>: *yawn* can you monkeys come up with a decent argument against me instead of pathetic juvenile outbursts? LOL @ you<br><em>sacky35</em>: Fromelles is the anzac spirit shurg123 also orchestrated by the Brits<br><em>A fitz</em>: shurg123 flower off u d#ckhead<br><em>daft_play</em>: Give the medal back PEndles<br><em>shurg123</em>: *pats Hendaroo* there there mate don't have a heart attack&#044; it'd be a disgrace to the ANZAC spirit.<br><em>shurg123</em>: LOL agro93&#044; hit a nerve did I. Have a cry.<br>
+261799,Sharrod,Wellingham,CO,37,123,112,158,97,130,16,10,7,6,1,0,1,2,0, Full Time,hot,Tagging Watson... %P and %M plus %s
+210003,Alan,Didak,CO,25,106,128,139,80,111,20,7,3,5,0,3,2,1,0, Full Time,hot,Slattery on him... %O and %T with %M plus %s
+271001,Dayne,Beams,CO,21,106,96,136,84,109,16,7,8,3,0,1,0,1,1, Full Time,x-factor,His exquisite passes to forwards inside 50 were a highlight... %O and %M plus %T and %s
+200020,Josh,Fraser,CO,27,99,101,119,91,112,10,9,8,1,10,1,2,3,0, Full Time,news,%H and %D plus %G and %s
+200021,Ben,Johnson,CO,20,97,118,123,76,105,17,10,3,3,0,2,1,1,0, Full Time,up,%P including %K... also %s and %T
+240366,Travis,Cloke,CO,25,97,131,119,82,100,13,4,7,1,0,0,0,4,1, Full Time,news,First goal... %s from %G and %O on Hooker then Pears including three majors in Q1
+260257,Scott,Pendlebury,CO,24,97,129,116,79,111,8,21,1,5,0,2,0,1,0, Full Time,medal,Tagged by Welsh... %B among %D with %T... also %s... won the Anzac Day Medal
+240359,Dale,Thomas,CO,19,96,68,119,80,104,14,10,7,1,0,1,0,1,2, Full Time,news,%s from %D and %M
+240419,Alan,Toovey,CO,31,89,112,118,65,90,8,8,3,9,0,1,1,1,0, Full Time,news,%P and %T plus %M and %s
+240700,Heath,Shaw,CO,19,87,84,111,75,103,14,11,8,1,0,0,2,0,1, Full Time,garbage,Forward tag by Monfries... %O and %M... a lot of stats in Q4 junk time
+220105,Dane,Swan,CO,18,83,78,102,72,98,11,14,6,1,0,1,1,0,2, Full Time,tagged,Tagged by Hocking... %D plus %s
+260394,Chris,Dawes,CO,20,83,89,103,69,85,8,7,6,3,0,2,0,2,1, Full Time,news,Pears on him... %G and %P
+220005,Luke,Ball,CO,24,81,73,109,56,81,9,8,1,9,0,2,1,0,0, Full Time,news,Head to head with Stanton... %P and %T
+280965,Steele,Sidebottom,CO,14,76,71,100,57,78,9,7,5,5,0,0,0,0,0, Full Time,news,%O and %T
+240073,Harry,O'Brien,CO,10,72,86,94,56,78,14,6,4,2,0,1,1,0,0, Full Time,job,Has Reimers... %D including %K
+210099,Darren,Jolly,CO,15,69,95,83,65,78,6,6,6,1,21,2,2,0,0, Full Time,news,%H and %P with %M
+200019,Leon,Davis,CO,14,56,45,78,38,53,8,1,2,6,0,1,1,0,2, Full Time,tagged,Tagged by McVeigh... %s from %O with %T
+220070,Paul,Medhurst,CO,14,48,46,63,37,51,5,4,2,4,0,0,1,1,0, Full Time,news,Dempsey then Fletcher on him... %s from %D with %T
+230263,Nick,Maxwell,CO,7,47,86,57,41,60,8,10,2,0,0,0,1,0,0, Full Time,job,Has Gumbleton... %P
+260310,Nathan,Brown,CO,8,47,46,62,35,45,4,4,3,4,0,2,0,0,0, Full Time,news,%P and %T
+261181,Brent,Macaffer,CO,3,37,36,46,29,42,4,7,1,2,0,0,0,0,0, Full Time,news,%D and %T
+240232,Ben,Reid,CO,1,18,49,22,16,24,4,4,0,0,0,1,1,0,0, Full Time,job,On Hurley... %D
+240027,Brent,Stanton,ES,32,139,98,97,108,147,21,13,9,6,0,2,1,0,0, Full Time,gun,Head to head with Ball... %O and %M with %T
+250366,Scott,Gumbleton,ES,26,96,70,74,82,103,12,6,10,2,0,0,1,2,1, Full Time,cash,Maxwell on him... %s from %G and %O
+200026,David,Hille,ES,19,87,58,70,83,106,8,14,7,0,18,1,2,0,1, Full Time,news,%D and %M plus %H and %s
+960197,Dustin,Fletcher,ES,13,86,110,32,67,96,19,10,3,0,0,0,0,0,0, Full Time,job,Moved onto Medhurst in Q3... %P
+230231,Jobe,Watson,ES,15,85,81,53,74,111,13,19,3,2,0,0,3,0,0, Full Time,tagged,Tagged by Wellingham... %D and %T with %F
+210079,Nathan,Lovett-Murray,ES,19,84,47,67,76,109,10,16,7,3,1,0,4,0,0, Full Time,news,Had a shocking Q1 with multiple clangers... %O and %M with %F
+271022,Tayte,Pears,ES,10,81,112,54,65,90,12,11,5,2,0,0,0,0,0, Full Time,job,Shifted off Dawes to Cloke in Q3... %D and %M
+240245,Courtenay,Dempsey,ES,16,78,90,60,58,77,10,4,2,5,0,0,0,2,2, Full Time,news,Started on Medhurst then went forward in Q3... %D and %T plus %s
+250569,Heath,Hocking,ES,14,78,106,54,60,87,12,10,2,5,0,2,2,0,0, Full Time,tagger,Tagging Swan... %D and %T
+230060,Ricky,Dyson,ES,13,69,72,58,51,72,8,8,3,5,0,0,0,0,0, Full Time,news,%O and %M plus %T
+270951,David,Zaharakis,ES,14,66,58,54,53,70,7,8,3,3,0,1,0,1,1, Full Time,news,%D and %T
+240290,Angus,Monfries,ES,9,65,56,47,55,77,8,13,2,2,1,2,1,0,1, Full Time,tagger,Forward tag on Shaw... %P
+261324,Kyle,Reimers,ES,13,65,67,40,55,72,10,8,3,1,0,3,1,1,0, Full Time,news,%s from %O and %M on O'Brien
+270588,Cale,Hooker,ES,14,62,69,54,53,72,5,12,3,2,0,0,0,1,0, Full Time,news,Followed Cloke in the first half then went forward... %P and %M with %T
+220115,Andrew,Welsh,ES,15,59,59,68,47,66,2,11,3,6,0,1,1,0,0, Full Time,tagger,Tagging Pendlebury... %P and %T
+250267,Patrick,Ryder,ES,9,54,52,50,43,52,5,2,3,4,9,3,1,0,1, Full Time,news,%H and %P with %M and %s
+280988,Travis,Colyer,ES,5,50,48,46,44,60,4,10,4,2,0,1,1,0,0, Full Time,cash,%D and %M wiht %T
+250071,Henry,Slattery,ES,8,47,55,38,35,51,6,6,1,4,0,1,1,0,0, Full Time,job,Minding Didak... %D and %T
+230238,Jason,Winderlich,ES,5,43,31,30,36,51,7,4,4,2,0,0,2,0,0, Full Time,news,%D and %T with %F
+280824,Jake,Melksham,ES,4,42,31,38,34,45,4,5,4,2,0,0,0,0,0, Full Time,cash,%P and %M plus %T
+990046,Mark,McVeigh,ES,4,40,40,23,35,48,7,5,4,0,0,0,1,0,0, Full Time,tagger,Tagging Davis... %O and %M
+270935,Michael,Hurley,ES,7,28,29,14,25,33,5,3,1,0,0,1,1,1,0, Full Time,news,Reid on him

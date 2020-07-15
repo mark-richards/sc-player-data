@@ -1,0 +1,48 @@
+Essendon,Bombers,West Coast,Eagles,R20,9.13.67,18.12.120, Full Time
+Aug 11,2013,1.10,Docklands,Seven,230084,10392007,ess-v-wce,0,Mostly sunny,17,,
+
+<em style='color:#000'>kuraban</em>: Time to give up Bombers. The AFL clearly going to flower you over with the umpires for rest of season. <br><em style='color:#000'>Drak</em>: Bomber will be the coach before the year is out<br><em style='color:#000'>Hazza09</em>: Thanks heaps JJK you flog<br><em style='color:#000'>rickybrad</em>: they might be in the 8 now. but dont expect that to last too long<br><em style='color:#000'>owens4</em>: Oh god kennedy<br><em style='color:#000'>riskii</em>: @beachedaz its a reference to the scrutiny and personnel lost. fool<br><em style='color:#000'>Stuart88</em>: Haha Hibbert out scored BJ <br><em style='color:#000'>danmaio</em>: Bomber Thompson all smiles&#044;  stuck the knife into Jimmies back<br><em style='color:#000'>ozstriker</em>: @beachedaz - can I get a chip bro?  agree with you too on Eddie.  Toughest not worst season<br><em style='color:#000'>Aceman</em>: i dont think Goddard has had this many tackles before...2!<br><em style='color:#000'>Demons64</em>: @johnkay - Kennedy Supercoach 44<br><em style='color:#000'>danmaio</em>: wow&#044;  a fully clothed streaker&#044;  thats a first<br>
+230084,Brendon,Goddard,ES,37,128,122,160,106,135,18,9,10,2,0,0,0,3,0, Full Time,cherry,%P and %M plus %s,sore,Left ankle restrapped in Q3,456700,101,470500,95,Back Centre,9,18,102.9,102.4,62.45,65.06
+230231,Jobe,Watson,ES,26,120,118,151,97,132,15,17,8,4,0,1,0,0,0, Full Time,hot,%O with %b by hand... also %M,,,420600,145,502200,172,Centre,4,15,96.9,111,7.87,10.11
+290160,Michael,Hibberd,ES,20,116,130,151,89,120,21,8,8,3,0,1,0,0,0, Full Time,hot,%P and %M,job,Responsible for Hill,381700,85,427900,93,Back,1,18,86.6,94.3,13.73,12.50
+240027,Brent,Stanton,ES,20,100,84,127,84,114,14,13,9,2,0,0,1,0,0, Full Time,hot,%2 Masten... %P and %M with %T,,,446700,129,444700,130,Centre,5,17,103.8,96.2,11.34,2.28
+280824,Jake,Melksham,ES,20,99,97,127,77,109,14,13,4,5,0,1,1,0,1, Full Time,news,%O and %M plus %T and %s,,,380100,97,383400,108,Centre,17,17,74.6,71.2,0.85,1.13
+271022,Tayte,Pears,ES,19,95,88,123,79,105,16,8,10,1,0,0,1,0,0, Full Time,news,Loose in defence... %O and %M,,,324400,66,352500,79,Back,16,7,71.4,74.1,0.63,0.51
+250569,Heath,Hocking,ES,26,92,113,119,67,97,9,13,2,8,0,0,0,0,1, Full Time,tagger,Tagging Priddis... %O and %T,,,318200,83,333200,79,Centre,39,14,70.4,65.1,1.06,0.76
+290629,Dyson,Heppell,ES,19,92,86,116,70,101,14,13,2,4,2,0,0,0,0, Full Time,news,%D and %T with %M,scooter,Tagged by Scott Selwood,458500,134,444000,99,Back Centre,21,17,98.7,94.5,48.60,33.31
+270951,David,Zaharakis,ES,14,79,69,102,68,96,11,12,6,3,0,1,3,0,0, Full Time,tagged,Tagged by McGinnity... %P and %M with %T... %F as well,,,344100,107,368100,109,Centre,11,17,83.2,86.5,1.19,1.34
+294798,Mark,Baguley,ES,19,79,100,98,66,87,7,11,6,3,0,0,0,1,0, Full Time,news,%P and %M plus %T and %s,job,Minding LeCras,317600,86,350400,94,Back,46,17,64.4,66.8,1.14,0.75
+270584,Kyle,Hardingham,ES,18,77,70,100,66,85,13,5,10,0,0,0,1,0,1, Full Time,news,Starting forward on Wilson... %s from %D and %M,,,259100,61,331100,101,Back,34,4,51.3,59.8,0.36,0.22
+270588,Cale,Hooker,ES,15,67,77,85,55,72,8,7,4,3,0,2,1,1,0, Full Time,job,On Darling... %P and %M with %T... also a rare %s,,,368500,98,405300,110,Back,26,18,72.9,79.3,1.08,0.70
+260073,Ben,Howlett,ES,14,64,47,88,43,58,7,2,3,7,0,1,0,0,1, Full Time,tagger,On in Q2 for Winderlich... tagging Gaff... %P and %T,sub,Started as a sub,348700,104,338100,108,Centre,40,15,80.3,79,1.19,1.93
+250366,Scott,Gumbleton,ES,10,62,47,83,48,65,6,5,5,5,0,0,1,0,2, Full Time,spud,Mackenzie on him... one tackle and no touches in Q1... looked terrible all day and got bronx cheers from Don fans... %P and %T with %M,,,229800,95,275500,122,Forward,3,6,56.7,60.5,0.82,0.52
+250267,Patrick,Ryder,ES,14,59,73,67,56,71,7,7,1,0,26,1,2,0,0, Full Time,sore,%D when forward on Brown... also %H and %F... lower leg knock in Q4,mrp,A high bump on Cripps in Q2 will be scrutinised,392400,78,429000,107,Forward Ruck,30,14,84.4,90.8,5.38,6.58
+230051,Alwyn,Davey,ES,14,57,42,78,39,54,6,3,3,6,0,0,0,0,0, Full Time,news,Butler on him... %O and %T with %M,,,240600,39,278500,58,Forward,29,10,53.3,63.5,0.45,0.53
+261314,David,Myers,ES,7,52,62,65,41,58,9,7,2,1,0,0,0,0,1, Full Time,news,%D including %K with %M... also %s,,,380200,93,362500,95,Back,23,18,77.7,74.2,2.51,1.35
+261320,Tom,Bellchambers,ES,11,48,56,58,43,51,3,3,3,2,11,1,1,1,1, Full Time,news,%H with %D and %T... also %s,,,354300,90,386400,82,Ruck,2,16,75.8,82.1,2.69,3.13
+960197,Dustin,Fletcher,ES,4,42,51,57,37,54,9,4,4,1,0,0,3,0,0, Full Time,job,Takes the resting ruck which is mostly Lycett... %M and %D... %F as well,mrp,Bumped Cripps high in Q4 which will be looked at,294000,108,339500,100,Back,31,12,59.8,67,1.31,1.11
+291686,Nick,Kommer,ES,14,40,52,54,34,49,4,4,2,4,0,0,3,1,1, Full Time,news,%s from %P on Smith... also %T and %F,,,232800,55,230300,73,Centre,38,16,52.4,53,5.93,6.81
+230238,Jason,Winderlich,ES,9,37,51,44,32,39,5,2,2,0,0,0,0,2,0, Full Time,injured,%s from %P and %M on Glass... hamstring injury in Q2,subbed,Subbed off in Q2 for Howlett,411900,5,407300,24,Forward,8,11,80.7,79.7,1.12,2.18
+290641,Jake,Carlisle,ES,1,30,39,38,23,33,5,4,1,1,0,0,0,0,0, Full Time,switch,Standing Kennedy in defence... switched forward on Mackenzie in Q4... %D,,,315500,117,366500,120,Back,22,17,70.8,79.7,3.13,3.03
+261290,Chris,Masten,WC,36,120,89,82,86,120,20,6,6,8,0,1,1,0,0, Full Time,gun,%2 Stanton... %P and %T with %M,,,459400,143,492000,154,Centre,7,16,98.7,97.2,0.97,0.68
+290838,Jack,Darling,WC,28,108,122,96,84,106,10,10,4,7,0,5,0,2,1, Full Time,hot,%s from %D and %T with %M on Hooker,,,302600,85,326800,52,Forward,27,18,69.2,76.1,4.04,3.01
+200112,Dean,Cox,WC,21,107,107,81,90,114,13,7,7,3,23,0,1,0,1, Full Time,hot,%H and %P with %M and %T... %s as well,,,420500,31,455900,44,Forward Ruck,20,18,94.3,105.9,53.02,50.70
+240124,Matt,Priddis,WC,25,107,116,74,86,117,15,13,6,3,0,0,0,1,0, Full Time,star,Tagged by Hocking... %P and %M plus %s,,,467700,115,488400,123,Centre,11,17,94.4,98.1,8.40,11.05
+270928,Scott,Selwood,WC,27,105,92,88,74,102,13,8,4,9,0,2,0,0,0, Full Time,hot,%D and %T,tagger,Tagging Heppell,508900,121,515800,136,Centre,10,14,107.7,101.8,3.17,1.05
+240119,Mark,LeCras,WC,28,104,93,88,88,104,10,3,8,3,0,0,0,5,2, Full Time,superman,%s from %O and %M on Baguley... all his goals after HT including three majors in Q4,heart,Left rib knock in a challenge with Baguley in Q2... returned after HT,390000,63,405600,62,Forward,2,14,83.2,83,5.90,8.41
+260546,Bradd,Dalziell,WC,22,101,84,65,82,108,15,10,5,2,0,1,0,2,0, Full Time,hot,%O and %M plus %T and %s,,,341100,23,360800,16,Centre,18,13,68.1,69.2,1.28,0.60
+261799,Sharrod,Wellingham,WC,17,97,96,62,78,105,15,9,4,3,0,1,1,2,0, Full Time,news,%s from %O and %M on Hibberd... also %T,,,339300,17,364800,-2,Forward Centre,12,6,71.8,72,1.22,1.13
+240159,Sam,Butler,WC,24,90,90,78,68,90,10,8,6,6,0,2,0,0,0, Full Time,news,%D and %T with %M,job,Davey is his man,368700,65,386400,105,Back,26,11,74.9,74.5,0.39,0.27
+290801,Andrew,Gaff,WC,16,84,64,53,67,90,13,9,4,2,0,1,0,1,0, Full Time,tagged,First goal... %P and %s... tagged by Howlett after HT,,,367300,51,384100,67,Centre,3,18,70.4,74.1,1.40,1.29
+261214,Will,Schofield,WC,22,82,57,75,68,84,8,3,9,4,5,0,1,1,1, Full Time,news,%P and %T with %M,,,291900,38,351900,67,Back,31,13,55,65.8,0.90,0.70
+270953,Ashley,Smith,WC,9,75,93,40,59,81,14,7,5,1,0,0,0,0,0, Full Time,news,%P and %M,job,Minding Kommer,295700,102,306600,83,Back,28,8,58.1,57.8,0.43,0.28
+290826,Jamie,Cripps,WC,14,70,69,55,56,75,8,9,3,3,0,1,0,1,0, Full Time,sore,%O and %T with %M... left shoulder knock in Q2,,,259400,24,240800,-8,Centre,15,11,54.7,48.8,0.87,1.02
+280441,Patrick,McGinnity,WC,10,57,45,47,45,64,8,4,4,5,0,1,3,0,1, Full Time,tagger,Tagging Zaharakis... %P and %M... also %T and %F,,,291100,46,284400,38,Centre,35,3,67.7,63.3,0.61,0.75
+261209,Josh,Hill,WC,11,56,61,47,47,60,5,7,2,2,0,1,0,2,0, Full Time,news,%s from %O on Baguley,,,269700,41,305100,33,Forward,33,16,63.4,73.3,0.99,0.83
+260303,Mitchell,Brown,WC,5,55,69,42,44,60,7,7,4,2,0,0,0,0,0, Full Time,news,%M and %P,job,On the resting ruck which is mostly Ryder,213800,13,231800,3,Forward,1,5,45.8,48.2,0.34,0.28
+240406,Josh J.,Kennedy,WC,10,54,45,27,43,57,11,1,4,1,0,0,1,1,0, Full Time,news,Carlisle on him... very quiet first half... %s from %D,,,453100,109,481600,119,Forward,17,17,94.5,99.9,46.92,49.09
+200074,Darren,Glass,WC,5,50,60,43,41,54,5,7,4,2,0,1,0,0,0, Full Time,job,Winderlich manning him up... %D and %T with %M,,,303600,20,377400,40,Back,23,16,55.4,67.3,2.11,1.67
+250317,Eric,Mackenzie,WC,4,45,56,30,36,48,7,4,4,1,0,0,0,0,0, Full Time,news,%M and %O,gumby,Following Gumbleton,299400,63,411800,101,Back,16,16,54.3,71.1,1.00,0.57
+290746,Scott,Lycett,WC,5,40,57,40,36,46,2,6,2,2,10,1,1,0,0, Full Time,news,%P and %T when forward on Fletcher... also %H in ruck support,,,190000,-29,235800,-23,Forward,29,3,57.3,65.3,2.40,0.70
+281080,Brad,Sheppard,WC,2,28,23,12,22,30,6,2,2,0,0,0,0,0,0, Full Time,news,On in Q4 for Wilson,sub,Started as a sub,229300,67,238800,66,Centre,5,10,50.3,50.4,0.39,0.27
+290833,Blayne,Wilson,WC,1,28,37,16,21,30,5,3,1,1,0,0,0,0,0, Full Time,sore,Has Hardingham... %O... ran his head into the knee of Dalziell in Q3 which left him a bit woozy,subbed,Subbed off in Q4 for Sheppard,210500,-25,224400,-13,Back,30,4,73.5,74.3,8.37,7.51

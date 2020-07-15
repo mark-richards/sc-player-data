@@ -1,0 +1,48 @@
+Brisbane,Lions,Adelaide,Crows,R2,10.17.77,14.12.96, Full Time
+Apr 06,2013,4.40,Gabba,Seven,261142,10390204,5015,0,Fine,25,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>OnTheRocks</em>: Luke Brown's birthday is listed as: Birthdate: 	20 Jan 1902 on here :P<br><em>GoLions</em>: damn&#044; luke brown on the bench :/<br><em>timmeh23</em>: walker you bloody spud<br><em>NewFreoFan</em>: glad i held crouch&#044; 88sc is great<br><em>stakerz</em>: thought dfield would have scored a bit more with those 2 goals<br><em>Fernyys</em>: Mummy out berger in<br><em>das_champs</em>: moloney a decent midprice pickup<br><em>Fernyys</em>: karnezis OUT monfriens IN<br><em>HawkTalker</em>: zorko looked so good til 3Q too<br><em>tracygrims</em>: @wheel if you think they'll score the same i guess its a good move<br><em>stakerz</em>: zorko gone<br><em>Wheel74</em>: Yeah i guess i can get rid of Lecrass now i wanted to wait this week<br>
+270512,Pearce,Hanley,BL,31,124,160,163,97,131,23,7,6,5,1,4,3,1,1, Full Time,hot,%D and %T with %M and %s,,,425300,,485200,,Back,11
+230151,Brent,Moloney,BL,26,101,95,133,74,108,11,13,3,9,0,0,1,0,0, Full Time,hot,%2 Thompson... %P and %T plus %M,,,309800,,362400,,Midfielder,3
+230147,Daniel,Merrett,BL,13,78,106,103,63,84,13,6,6,3,0,3,2,0,0, Full Time,job,On Walker... %P and %M... also %F,,,351000,,412200,,Back,21
+291548,Ryan,Lester,BL,13,78,111,100,64,84,10,9,6,3,0,3,1,0,0, Full Time,news,%D and %T with %M,job,Big job on Jenkins,293100,,327200,,Back,35
+270919,Tom,Rockliff,BL,20,77,109,97,64,88,9,11,3,4,0,2,2,1,1, Full Time,news,%O and %M... also %T and %s,,,481700,,520500,,Midfielder,38
+281373,Jack,Redden,BL,19,77,82,102,55,75,8,7,3,7,0,2,0,0,0, Full Time,news,%O and %T plus %M,,,531100,,550100,,Midfielder,30
+261224,Dayne,Zorko,BL,21,75,79,99,63,82,10,3,6,4,0,1,3,2,1, Full Time,news,%s from %P and %M on Jaensch,,,487800,,535000,,Midfielder,15
+250335,Matthew,Leuenberger,BL,17,74,101,86,66,80,4,7,2,3,32,1,1,0,0, Full Time,news,%H and %D wiht %T and %M,,,233600,,301100,,Ruck,23
+290110,Mitch,Golby,BL,9,69,79,86,56,76,9,10,4,2,0,1,0,0,1, Full Time,job,Responsible for Petrenko... %O and %M plus %s,,,379700,,406600,,Back,41
+281329,Rohan,Bewick,BL,15,62,44,81,47,59,7,2,4,4,0,1,0,1,2, Full Time,news,%s from %P on Otten... %T and %M as well,,,293300,,291600,,Forward,8
+240013,Andrew,Raines,BL,7,61,59,78,47,68,12,7,1,2,0,1,1,0,2, Full Time,news,%D and %T plus %s,tagger,Tagging Dangerfield,312900,,307500,,Midfielder,29
+280763,Stefan,Martin,BL,15,60,58,70,51,58,5,1,1,2,18,1,0,2,1, Full Time,news,First goal... %s from %P on Rutten... also %H and %T in ruck support,,,356400,,377700,,Ruck,12
+260975,James,Polkinghorne,BL,10,58,69,72,49,61,9,4,5,0,0,1,0,1,1, Full Time,news,%s from %P and %M,tagger,Forward tag on Reilly,293900,,307600,,Forward,31
+290748,Josh,Green,BL,15,55,58,72,44,60,5,4,2,5,0,0,2,2,0, Full Time,news,%s from %P and %T on Mackay,,,259700,,320600,,Forward,6
+292128,Elliot,Yeo,BL,9,54,72,73,42,60,8,5,3,4,0,1,2,0,0, Full Time,news,%P and %T with %M... also %F,job,Chasing Douglas,262800,,310300,,Back,26
+240087,Jed,Adcock,BL,7,51,61,66,40,57,11,5,2,1,0,1,1,0,0, Full Time,news,%P and %M,job,Manned up by Sloane,418000,,482300,,Back,7
+271072,Daniel,Rich,BL,7,47,77,61,38,57,9,7,1,2,0,1,2,0,0, Full Time,tagged,Tagged by Wright... %O including %B with %T and %F,,,439000,,485800,,Midfielder,10
+292035,Claye,Beams,BL,7,44,47,55,40,56,8,7,3,0,0,1,2,0,2, Full Time,news,%P and %M... also %s and %F,,,334900,,355100,,Midfielder,17
+200007,Jonathan,Brown,BL,2,37,33,47,30,40,5,4,3,1,0,0,0,0,1, Full Time,news,Booted %s from %G and %P on Talia,,,409600,,418100,,Forward,16
+230170,Joel,Patfull,BL,3,34,67,43,27,36,3,5,2,2,0,1,0,0,0, Full Time,job,Minding Callinan... %O and %M,,,260400,,340700,,Back,24
+210013,Ashley,McGrath,BL,1,11,22,13,11,18,2,4,0,0,0,0,1,0,0, Full Time,news,%P on the kid Brown,subbed,Subbed off in Q4 for Karnezis,344800,,387000,,Forward,9
+290808,Patrick,Karnezis,BL,1,9,8,14,6,10,1,0,0,2,0,0,1,0,1, Full Time,news,On in Q4 for McGrath,sub,Started as a sub,238500,,262200,,Forward,28
+210016,Scott,Thompson,AD,20,113,140,51,82,117,25,6,3,5,0,3,2,0,0, Full Time,star,%2 Moloney... lifted after a quiet Q1... %P and %T with %M and %F,,,541200,,591000,,Midfielder,5
+270963,Rory,Sloane,AD,26,100,100,70,87,112,15,7,11,2,0,2,3,1,1, Full Time,hot,%s from %O and %M starting on a HFF on Adcock... also %T and %F,,,470100,,567700,,Midfielder,9
+294828,Josh,Jenkins,AD,27,100,105,69,89,107,15,1,12,1,6,2,3,2,2, Full Time,hot,Kicked %s from %P and %G on Lester... also %H,,,316100,,363300,,Ruck,4
+270917,Patrick,Dangerfield,AD,21,95,107,74,76,103,11,12,2,5,0,2,1,2,1, Full Time,news,%O and %T with %M and %s,rain,Tagged by Raines,525000,,636000,,Midfielder,32
+240370,Richard,Douglas,AD,24,91,99,69,70,90,13,3,7,5,0,2,1,1,0, Full Time,news,%s from %O and %M on Yeo... %T as well,,,372600,,430400,,Forward,26
+270811,Sam,Jacobs,AD,17,82,105,59,70,84,10,3,3,2,23,2,1,1,1, Full Time,news,%H and %P with %T... also %M and %s,,,449900,,546300,,Ruck,24
+293193,Luke,Brown,AD,9,74,97,47,58,78,12,7,5,2,0,1,0,0,0, Full Time,job,Minding McGrath then Porplyzia... %P and %M with %T,,,147700,,135500,,Back,16
+280506,Taylor,Walker,AD,16,73,39,50,63,80,12,0,7,3,0,2,4,2,2, Full Time,news,Booted %s from %G and %P on Merrett... also %T and %F,,,448900,,536000,,Forward,13
+261351,Matthew,Jaensch,AD,15,71,80,52,53,69,10,4,3,4,0,2,0,1,0, Full Time,job,Has Zorko... %D and %T,sore,Left knee knock picked up in Q1... time in the rooms in Q2,316800,,324800,,Back,10
+261138,Jared,Petrenko,AD,17,64,80,55,53,69,7,4,4,4,0,1,2,2,0, Full Time,news,%s from %P and %T with %M on Golby,,,303500,,355300,,Forward,23
+220093,Ben,Rutten,AD,13,63,99,44,54,69,9,6,8,0,0,0,0,0,0, Full Time,job,Standing Martin... %O and %M,,,244500,,280200,,Back,25
+250118,Nathan,van Berlo,AD,8,62,73,28,53,78,13,9,3,1,0,1,3,0,0, Full Time,news,%B among %P... also %M and %F,mrp,A short right jab to the face of Rockliff in Q2 will be looked at,427900,,411500,,Midfielder,7
+294307,Brad,Crouch,AD,8,62,85,50,51,72,7,11,3,3,0,1,1,0,0, Full Time,rookie,First game... %O with %b by hand... also %M,,,108500,,115900,,Midfielder ,2
+250362,David,Mackay,AD,8,57,66,41,45,66,8,9,2,3,0,0,1,0,0, Full Time,job,On a HBF on Green... %P and %T,,,366100,,405000,,Midfielder,14
+220086,Brent,Reilly,AD,15,55,80,49,43,57,6,3,4,4,0,0,1,1,0, Full Time,job,Responsible for Polkinghorne... %D and %M... also %s,,,407900,,494200,,Back,3
+230174,Jason,Porplyzia,AD,4,54,59,34,43,57,9,4,5,1,0,0,0,0,0, Full Time,superman,On in Q3 for Callinan... had a big Q4... %O and %M,sub,Started as a sub,397000,,430000,,Forward,40
+280934,Daniel,Talia,AD,5,54,57,44,41,54,7,3,5,3,0,0,0,0,0, Full Time,job,On Brown... %P and %M with %T,,,180100,,273400,,Back,12
+291201,Ricky,Henderson,AD,9,51,53,40,43,53,6,3,5,1,0,0,0,1,2, Full Time,news,Started forward to exploit the lack of height in the Lion backline... %P and %M plus %s,,,261700,,314100,,Forward,45
+261142,Bernie,Vince,AD,4,50,48,34,36,50,8,3,2,3,0,0,0,0,2, Full Time,news,%D and %T plus %M,,,409400,,452900,,Midfielder,17
+261384,Matthew,Wright,AD,7,49,61,31,39,60,8,9,0,3,0,1,2,0,0, Full Time,tagger,Tagging Rich... %O and %T...  also %F,,,438700,,475300,,Forward,11
+270296,Andy,Otten,AD,3,36,43,34,29,36,3,4,3,2,0,2,0,0,0, Full Time,job,Minding Bewick... %P and %M,,,243900,,276500,,Back,22
+261857,Ian,Callinan,AD,2,20,27,18,16,24,2,4,0,2,0,1,1,0,0, Full Time,news,Patfull on him... %O and %T,subbed,Subbed off in Q3 for Porplyzia,316300,,372400,,Forward,37

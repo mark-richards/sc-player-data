@@ -1,0 +1,48 @@
+Gold Coast,Suns,Western Sydney,Giants,R23,22.14.146,9.9.63, Full Time
+Sep 1,2013,1.10,Gold Coast,Fox Sports,290627,10392307,gcfc-v-gws,0,Possible shower,25,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: the cannon- what a shower second half of the season<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Karlpov</em>: Stanley you beauty!! saved me in 3 GF's<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: oh come on mckenzie<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> gwsfevs</em>: Griff hasn't played yet gjaybee don't stress<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> jimmyflash</em>: Stanley you beauty!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Karlpov</em>: YES! Fire up Stanley... 15 more please!!<br><em style='color:#000'>GJayBee</em>: made Griff captain at last minute instead of Gazz&#044; fail.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tPA"></b> B.Pickett</em>: Crack Miley Cyrus first<br><em style='color:#000'>Richy10</em>: get to the ton omeara<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: stay put omeara<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> jimmyflash</em>: Ton up Danny<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tSK"></b> itsduftime</em>: what the hell you doing dixon <br>
+290627,Dion,Prestia,GC,33,133,139,169,101,138,18,15,4,7,0,3,0,1,0, Full Time,cherry,First goal... %P and %T plus %M and %s,,,408300,110,448100,96,Centre,10,19,94.7,95.3,0.77,0.36
+220001,Gary,Ablett jnr,GC,29,132,164,161,112,148,18,15,5,3,0,2,2,4,1, Full Time,star,Tagged by Coniglio then got Whiley in Q2... %P and %M plus %s... a massive Q1 to set him off,,,444800,137,516900,134,Centre,9,20,113.8,127.1,68.75,66.80
+240712,Michael,Rischitelli,GC,37,122,130,153,98,128,12,13,7,6,0,1,0,2,2, Full Time,hot,%D and %T plus %M and %s,skull,Matched up on Scully,310000,88,334300,101,Centre,35,10,65.2,69.2,0.67,0.65
+250249,Danny,Stanley,GC,32,114,103,140,93,121,13,12,5,4,1,1,0,3,0, Full Time,hot,Playing straight midfield... %B among %D with %T... also %s,,,384800,36,405700,20,Back,25,17,81.1,80.1,1.36,0.41
+281024,Maverick,Weller,GC,25,112,101,142,93,121,15,12,11,2,0,1,0,0,1, Full Time,hot,%D and %M,,,266200,60,270200,82,Back,4,3,54.7,46.7,0.12,0.15
+291594,Harley,Bennell,GC,26,109,126,134,87,118,12,15,3,5,0,1,0,2,1, Full Time,hot,Tagged by Whiley then got Coniglio in Q2... %P and %T plus %s,,,427300,87,516900,78,Centre,11,14,83.7,94.4,0.83,0.73
+294613,Jaeger,O'Meara,GC,25,94,113,122,71,103,13,12,3,6,0,0,1,0,1, Full Time,news,%D and %T,,,406100,114,416800,121,Centre,1,21,89,89,34.47,38.85
+230015,Jared,Brennan,GC,19,88,81,115,74,99,12,6,7,4,9,0,3,0,3, Full Time,news,%P and %M when forward on Davis... also %H and %T in ruck support,sore,Right ribs knock in Q1,302300,109,321100,122,Back,3,14,66.3,71.4,0.49,0.35
+296735,Aaron,Hall,GC,19,83,71,101,71,94,10,12,6,1,0,0,0,1,1, Full Time,news,%O and %M on Buntine,,,317500,67,315200,74,Forward,33,21,65.1,62.3,0.80,0.66
+294485,Andrew,Boston,GC,21,81,85,94,73,90,8,9,5,0,0,0,0,4,0, Full Time,vulture,%s from %O and %M on Hampton... most of his goals in Q4 garbage time,,,165100,-21,169300,-9,Centre,40,7,31.9,32,3.73,2.63
+281025,Luke,Russell,GC,10,70,47,92,56,72,8,5,8,3,0,0,0,0,0, Full Time,job,In defence on Sumner... %D and %M with %T,,,269600,86,300300,111,Back,8,17,59.2,59.4,0.25,0.32
+290527,Trent,McKenzie,GC,9,69,73,93,54,72,11,3,7,3,0,0,1,0,0, Full Time,news,%O and %M with %T,sore,Landed on his buttock in Q2 leaving him sore,326600,73,380700,111,Back,18,17,81.5,89.5,7.49,5.92
+240254,Jarrod,Harbrow,GC,14,67,87,84,54,72,13,4,2,1,0,1,1,2,0, Full Time,news,%2 Adams... %D plus %s,,,345900,90,384000,103,Back,5,20,81.5,83.2,5.70,2.19
+250146,Thomas,Murphy,GC,8,66,57,86,51,69,13,4,5,1,0,0,0,0,0, Full Time,job,The first-gamer Stewart is his man... %P and %M,,,258300,50,347900,59,Back,29,16,59.7,72,0.56,0.67
+293223,Seb,Tape,GC,15,65,58,85,48,64,5,7,3,6,1,2,0,0,0, Full Time,job,On Tomlinson.. %D and %T with %M,,,198500,58,250800,65,Back,48,6,43,51.2,0.26,0.33
+281075,Rory,Thompson,GC,9,54,70,70,48,61,6,5,8,1,1,0,1,0,0, Full Time,news,%M and %P,job,Following Cameron,226300,55,297500,65,Back,16,20,54.5,69.2,0.87,1.10
+290759,Jacob,Gillbee,GC,9,52,69,62,43,59,5,9,1,2,0,0,0,1,2, Full Time,news,%s from %P on Haynes,,,173100,48,172300,33,Forward,13,2,32.5,37,0.30,0.44
+290703,Joel,Wilkinson,GC,4,49,51,65,39,54,10,3,4,1,0,0,1,0,0, Full Time,job,On Whitfield on a HBF... %P and %M,subbed,Subbed off in Q3 for Hunt,173400,13,230400,38,Back,38,9,40.4,53.6,0.66,1.70
+291753,Sam,Day,GC,4,48,44,62,38,47,6,2,4,2,4,1,0,0,1, Full Time,news,%s from %D on Edwards,,,229900,91,273300,84,Forward,12,19,49.4,58,2.43,2.09
+280711,Charlie,Dixon,GC,9,37,51,42,34,41,3,3,0,1,14,1,1,1,0, Full Time,news,Playing #1 ruck today... %H and %P plus %s,,,303100,57,415400,88,Back,23,12,74.1,93.8,2.32,4.53
+292512,Karmichael,Hunt,GC,8,31,26,36,28,36,3,5,2,0,0,0,0,1,0, Full Time,tonga,On in Q3 for Wilkinson,sub,Started as a sub,228600,97,242000,107,Centre,7,8,44.3,45.5,1.32,0.69
+296940,Tim,Sumner,GC,1,13,26,15,13,21,0,6,0,1,0,0,1,0,0, Full Time,news,%D on Gilham,,,174200,18,203200,14,Forward,39,10,43.3,45.8,2.76,2.78
+291819,Adam,Tomlinson,WS,27,109,99,89,93,116,12,10,12,2,2,1,0,1,0, Full Time,hot,%s from %O and %M on Tape,,,309400,48,292500,48,Forward,20,16,71.4,64.4,0.43,0.26
+291776,Taylor,Adams,WS,21,101,82,48,79,112,20,10,3,2,0,0,1,1,1, Full Time,hot,%2 Harbrow... %O and %M plus %s,,,360600,62,376600,71,Centre,11,15,80.9,75.8,0.20,0.15
+291969,Stephen,Coniglio,WS,30,101,74,95,80,107,9,10,7,7,1,0,1,1,1, Full Time,hot,%P and %T plus %M and %s,harley,Tagging Ablett jnr but shifted to Bennell in Q2,332800,44,337000,49,Centre,3,17,74.8,74.1,0.51,0.59
+261841,Jonathan,Giles,WS,33,89,109,76,83,97,6,6,3,1,43,0,1,1,0, Full Time,news,%H and %P with %M and %s,,,273700,91,323600,106,Ruck,26,21,65.9,73.3,2.22,3.07
+291509,Adam,Kennedy,WS,19,89,67,54,72,90,15,4,8,1,0,2,0,1,0, Full Time,news,%P and %M plus %s,,,228700,56,281000,42,Back,40,18,50,56.4,0.48,0.62
+291797,Matthew,Buntine,WS,14,89,108,61,74,96,13,9,9,1,0,1,0,0,0, Full Time,news,%O and %M,job,Minding Aaron Hall,213800,59,264800,67,Back,21,2,40,49,0.11,0.13
+261189,Tim,Mohr,WS,14,84,90,49,67,87,15,5,8,1,0,1,0,0,0, Full Time,news,Loose in defence but many clangers among %D and %M,,,243300,58,297500,58,Back,39,21,56.2,68.6,0.87,1.00
+290306,Curtly,Hampton,WS,20,83,80,64,62,84,11,6,4,5,0,0,0,1,0, Full Time,job,Boston is his responsibility... %P and %T with %M,,,338300,106,354800,94,Back Forward,2,17,63.2,64.1,1.29,1.06
+291783,Dylan,Shiel,WS,20,81,84,62,62,91,11,11,2,6,0,1,2,0,1, Full Time,news,%D and %T,,,327100,59,350700,65,Centre,5,20,71.6,75.1,0.64,0.77
+295265,Nick,Haynes,WS,14,80,86,67,65,84,9,8,8,3,0,1,0,0,0, Full Time,news,%P and %M with %T... Gillbee is his man,in,Late replacement for Zac Williams,265900,79,296400,97,Forward Centre,19,10,55.6,62.3,0.94,1.70
+294305,Lachlan,Whitfield,WS,10,78,84,48,61,84,13,8,5,2,0,0,0,0,0, Full Time,news,Playing a HFF on Wilkinson... %P,,,365600,113,388500,137,Centre,6,18,70.7,72.4,7.37,7.27
+280804,Phil,Davis,WS,14,75,95,62,60,78,9,6,8,3,0,0,0,0,0, Full Time,news,%M and %O with %T,job,Has the resting ruck which is mostly Brennan,248000,45,294800,57,Back,1,12,52.2,60.1,0.45,0.50
+293845,Jeremy,Cameron,WS,12,74,72,55,61,75,9,5,4,2,0,2,0,2,3, Full Time,news,Booted %s from %D and %M on Thompson,,,306900,127,384200,171,Forward,18,20,66.1,72.7,2.83,2.90
+295344,Toby,Greene,WS,9,68,72,60,59,84,5,18,3,2,0,0,0,0,0, Full Time,news,%O including %B,,,363600,64,375500,61,Centre,4,18,77.1,73.2,0.71,0.69
+291784,Dom,Tyson,WS,9,67,65,45,53,73,10,8,4,2,0,0,0,0,1, Full Time,news,%D and %M plus %s,,,317400,121,299100,117,Centre,29,2,43,34.5,0.11,0.20
+230082,Stephen,Gilham,WS,10,65,57,44,50,63,11,0,8,2,0,0,0,0,0, Full Time,job,Responsible for Sumner... %P and %M,,,312900,95,384100,82,Back,38,13,62.1,73.2,0.49,0.71
+280969,Tom,Scully,WS,10,59,65,52,46,66,7,6,4,5,0,0,2,0,0, Full Time,news,Matched up on Rischitelli... %D and %T with %M,,,358600,77,378800,78,Centre,9,20,75.8,74,1.43,1.02
+293662,Liam,Sumner,WS,14,51,47,46,40,53,5,4,2,4,1,1,1,1,1, Full Time,news,%s from %O on Russell,,,200600,67,185500,60,Centre,28,7,47.3,42.6,0.43,0.53
+291936,Shaun,Edwards,WS,8,46,46,31,39,58,7,8,2,2,0,0,2,0,1, Full Time,job,On Day... %P and %s,,,255000,,288400,,Back,22,1,37,35,0.11,0.11
+293816,Mark,Whiley,WS,1,23,25,14,19,27,4,3,1,1,0,1,1,0,0, Full Time,tagger,Tagging Bennell but moved to Ablett jnr in Q2... %O,,,195300,34,165000,28,Back,42,6,45.7,35.3,0.74,0.50
+294561,Kristian,Jaksch,WS,2,17,15,7,15,21,4,1,2,0,0,0,1,0,0, Full Time,news,On in Q3 for Stewart,sub,Started as a sub,134200,,144500,,Back Forward,34,1,54,51,1.39,1.29
+294654,James,Stewart,WS,0,7,5,7,8,12,1,1,1,1,0,1,2,0,0, Full Time,rookie,First game... %P up forward on Murphy... %F as well,subbed,Subbed off in Q3 for Jaksch,102700,,109500,,Forward,36,0,0,0,0.30,0.46

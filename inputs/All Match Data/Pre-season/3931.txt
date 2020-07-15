@@ -1,0 +1,59 @@
+Brisbane,Lions,Carlton,Blues,W3,14.19.103,12.12.84, Full Time
+Mar 10,2012,4.40,Maroochydore,,,10330305,,32,Fine,31,,
+
+<em>BlueBoys#5</em>: should carlton fans be worried yet? <br><em>Meldrum23</em>: and i don't care what you say.. easy isn't it?<br><em>m0neyball</em>: i dont care what anyone says - getting belted 62 to 0 in a half of footy is a terrible way to end a preseason.<br><em>Meldrum23</em>: is this real life?<br><em>m0neyball</em>: Carlton havent scored a single point for almost 2 hours...<br><em>Meldrum23</em>: if carlton won all the games this nab cup people would be saying we are trying to hard..<br><em>E Kavastar</em>: Carlton won the NAB Cup a few years ago and got the wooden spoon. Maybe they're trying the opposite this year?<br><em>GoLions</em>: when was the last time carlton scored? i couldve sworn they were this score in the 2nd qtr<br><em>dannoaus</em>: Same cards all defenders and would be mids for clt.pick me<br><em>Meldrum23</em>: ill cop anything pokerface as long as its in the season proper.. please<br><em>lozdaleg</em>: @arch Oh no I doubt  we will win a game this year<br><em>Pokerface</em>: im not trying to be a comedian. i just see lots of carlton defenders here who forget who they are playing<br>
+281373,Jack,Redden,BL,36,132,-,174,96,132,18,11,6,9,0,2,0,0,0, Full Time,hot,%O with %k by foot... also %T and %M,,,87
+980007,Simon,Black,BL,38,126,-,162,97,135,15,16,3,9,0,4,2,1,0, Full Time,hot,%O and %T plus %M and %s,,,81
+270919,Tom,Rockliff,BL,27,113,-,141,90,118,13,10,5,5,0,0,0,3,1, Full Time,hot,%P and %M plus %T and %s,,,80
+240087,Jed,Adcock,BL,24,100,-,132,80,111,18,9,6,4,0,3,3,0,0, Full Time,hot,%P and %M with %T... also %F,,,80
+270512,Pearce,Hanley,BL,18,87,-,111,72,96,17,8,7,0,0,2,1,0,0, Full Time,news,%D and %M,,,88
+292035,Claye,Beams,BL,20,80,-,103,67,88,11,5,6,3,0,0,2,2,1, Full Time,news,%s from %O and %T with %M,,,84
+280572,Jesse,O'Brien,BL,16,74,-,94,62,76,10,3,6,2,0,2,1,2,1, Full Time,news,On in Q3... %s from %P and %M,sub,Started as a sub,39
+290110,Mitchell,Golby,BL,14,73,-,96,56,75,7,7,6,5,0,0,0,0,0, Full Time,news,With Adcock and Hanley back in the side his numbers are down from last week... %D and %M with %T,,,96
+250335,Matthew,Leuenberger,BL,20,70,-,88,54,67,6,2,2,5,16,0,0,1,0, Full Time,news,Much better numbers than last week... %H and %P with %T and %s,,,85
+291828,Billy,Longer,BL,12,63,-,75,58,67,5,4,3,2,13,4,2,2,0, Full Time,news,%H and %D with %M and %T... also %F,,,93
+250053,Cheynee,Stiller,BL,5,54,-,70,42,54,8,4,4,2,0,2,0,0,0, Full Time,news,%D and %T,,,100
+271072,Daniel,Rich,BL,7,54,-,68,42,57,10,6,2,1,0,2,0,0,0, Full Time,news,Spent Q1 as a sub... %O and %M,,,57
+230147,Daniel,Merrett,BL,14,48,-,58,45,56,7,2,3,0,0,0,2,3,2, Full Time,news,First goal... %D and %M plus %s,,,82
+290808,Patrick,Karnezis,BL,10,47,-,59,42,53,7,3,5,0,0,0,1,1,2, Full Time,news,On in Q2... %s from %D and %M,sub,Started as a sub,56
+291548,Ryan,Lester,BL,8,47,-,58,42,57,7,8,4,0,0,1,1,0,0, Full Time,news,%D,,,93
+290738,Jared,Polec,BL,4,44,-,59,36,52,8,4,3,2,0,0,2,0,1, Full Time,news,%P and %T plus %M and %s,,,78
+292508,Niall,McKeever,BL,3,43,-,56,37,51,10,4,3,0,0,2,2,0,0, Full Time,news,%D... also %F,,,100
+271071,Todd,Banfield,BL,3,41,-,53,31,39,6,2,2,2,0,2,0,0,3, Full Time,news,%s from %O and %T,,,88
+261250,Sam,Sheldon,BL,8,35,-,49,27,40,4,3,2,4,0,0,2,0,1, Full Time,news,%D and %T with %M and %s,,,86
+260975,James,Polkinghorne,BL,3,33,-,45,27,39,4,4,2,3,0,1,2,0,0, Full Time,news,%D and %T plus %M,subbed,Subbed off at HT,43
+261222,James,Hawksley,BL,2,31,-,40,24,33,7,2,2,0,0,0,0,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,17
+230170,Joel,Patfull,BL,3,28,-,35,27,39,5,6,2,0,0,1,2,0,0, Full Time,news,%O and %M... also %F,,,98
+210013,Ashley,McGrath,BL,1,26,-,34,18,27,8,1,0,0,0,0,0,0,0, Full Time,news,%K among %O,subbed,Subbed off at HT,37
+220062,Matt,Maguire,BL,2,26,-,34,22,30,4,3,2,1,0,1,1,0,0, Full Time,news,%P and %M,subbed,Subbed off at HT,50
+240710,Ben,Hudson,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+281048,Ryan,Harwood,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+281329,Rohan,Bewick,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+292128,Elliot,Yeo,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+292501,Bryce,Retzlaff,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+270146,Ed,Curnow,CA,26,88,-,121,61,84,13,3,4,8,0,2,1,0,0, Full Time,news,%P and %T with %M,,,90
+281079,Kane,Lucas,CA,14,76,-,100,65,90,11,9,7,3,0,1,3,0,0, Full Time,news,Put his name in front of the fantasy selectors with this performance... %P with %M and %T... also %F,,,91
+250090,Jordan,Russell,CA,9,71,-,94,55,75,12,5,5,3,0,1,1,0,0, Full Time,news,%D and %M with %T,,,92
+271110,Chris,Yarran,CA,9,71,-,96,51,69,14,1,5,3,0,0,0,0,0, Full Time,news,Spent Q1 as a sub... %O and %M with %T,,,60
+250211,Paul,Bower,CA,9,65,-,85,52,66,11,4,5,2,0,4,1,0,0, Full Time,news,%P with %k by foot... also %M and %T,,,95
+261009,Nick,Duigan,CA,9,64,-,81,52,69,8,8,5,2,0,1,0,0,0, Full Time,news,%K among %D with %M and %T,,,78
+220110,Jarrad,Waite,CA,11,63,-,81,49,61,8,3,4,3,0,2,0,1,1, Full Time,news,%s from %D and %M with %T,,,87
+292511,Zach,Tuohy,CA,10,58,-,71,47,60,9,4,2,1,0,1,0,2,0, Full Time,news,%P and %s,,,87
+270737,Shaun,Hampson,CA,15,55,-,64,52,61,3,4,2,2,28,2,2,0,0, Full Time,news,%H and %D with %T... also %M,,,85
+281049,Marcus,Davies,CA,15,53,-,73,39,57,6,5,2,6,0,1,2,0,0, Full Time,news,%D and %T... also %F,,,95
+261258,David,Ellard,CA,7,51,-,64,41,60,6,10,1,3,0,1,1,0,0, Full Time,news,%B among %D with %T,,,64
+260533,Dennis,Armfield,CA,4,48,-,63,35,48,7,4,2,3,0,1,0,0,0, Full Time,news,%D,,,89
+290526,Matthew,Watson,CA,4,47,-,61,37,48,8,3,4,1,0,1,0,0,0, Full Time,news,%P and %M,,,96
+260104,Andrew,Collins,CA,9,45,-,58,41,57,8,5,3,1,0,1,3,1,0, Full Time,news,%P and %M plus %s,,,93
+220056,Chris,Judd,CA,3,41,-,54,33,48,8,5,1,2,0,2,2,0,0, Full Time,news,%O and %T,,,75
+220108,Bret,Thornton,CA,4,41,-,56,34,48,11,1,4,0,0,0,2,0,0, Full Time,news,%D including %K plus %M,subbed,Subbed off at HT,49
+240028,Brock,McLean,CA,3,41,-,53,30,42,7,4,1,2,0,1,0,0,0, Full Time,news,%D and %T,subbed,Subbed off at HT,52
+281124,Levi,Casboult,CA,4,38,-,50,30,36,4,1,4,2,2,1,0,0,1, Full Time,news,%s from %G and %O... also %T,,,85
+261318,Aaron,Joseph,CA,3,33,-,43,25,33,4,3,2,2,0,1,0,0,0, Full Time,news,%O and %T with %M,,,44
+270910,Nick,Heyne,CA,8,33,-,42,29,37,6,1,3,0,0,0,1,1,1, Full Time,news,%s from %P,,,53
+260278,Sam,Rowe,CA,7,24,-,28,25,30,3,4,1,0,0,4,2,1,0, Full Time,news,%s from %D,,,95
+293329,Patrick,McCarthy,CA,1,24,-,30,19,24,5,2,1,0,0,2,0,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,26
+281054,Mitchell,Carter,CA,1,21,-,28,15,21,2,2,1,2,0,0,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,46
+240014,Andrew,Walker,CA,1,17,-,23,16,21,3,1,3,0,0,0,1,0,0, Full Time,news,%O and %M,subbed,Subbed off at QT,25
+296531,Joshua,Bootsma,CA,0,12,-,17,10,15,2,1,1,1,0,0,1,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,48
+291397,Rohan,Kerr,CA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

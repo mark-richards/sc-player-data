@@ -1,0 +1,48 @@
+Port Adelaide,Power,Sydney,Swans,R13,10.12.72,8.6.54, Full Time
+Jun 22,2013,1.40,Footy Park,Seven,200071,10391302,port-v-syd,0,Isolated showers,13,,
+
+<em>matthius</em>: buddyboyz - get of the forum if u dont like the chat bell end<br><em>JarodTiger</em>: Swans been up for a while... Carlton 95 2 games they lost were to lowly Saints and Swans<br><em>buddyboyz</em>: stop talking matthius u have no idea what u r going on about<br><em>matthius</em>: at least i am a rich Spud.. poor boys <br><em>HawkTalker</em>: see you all in the other room<br><em>wangwonder</em>: anyone else feel that hannerbery will struggle to score&#044; cause he will get tagged more often now <br><em>Mash</em>: wont go as far to say they will miss the finals but they haven't done anything this year<br><em>gambler</em>: by your logic matthius i would have to say 50/50 for sure <br><em>Rockafella</em>: No upset of the year was Hawks beating west coast last night<br><em>Mash</em>: swans have beaten pies and bombers&#044; soft draw again like last year will show in the second half of the year<br><em>matthius</em>: what odds is he gambler?? i have cash now after cleaning up @$7.50 on the Power! ha ha Swans<br><em>gambler</em>: hmm start of the Tippett curse perhaps? <br>
+271078,Matthew,Broadbent,PA,26,115,123,149,91,117,18,5,10,3,0,0,0,1,3, Full Time,cherry,His outside run was crucial all day... %P and %M plus %T and %s,,,276400,53,296400,40,Centre,5,11,65,71.7,0.39,0.36
+261911,Brad,Ebert,PA,31,114,119,151,79,113,17,9,2,9,2,1,0,0,0, Full Time,hot,%2 Mitchell... %D including %k by foot... also %T,,,446900,72,457300,63,Centre,7,11,96.8,94.3,2.22,0.78
+261230,Matthew,Lobbe,PA,56,106,110,135,83,103,5,4,2,11,37,2,2,0,0, Full Time,star,Lots of stoppages today in wet conditions so he had a lot of work but only Pyke against him... %H and %P plus %T... also %F,,,296700,60,353700,72,Ruck,23,8,60.5,69.4,0.63,0.51
+291962,Chad,Wingard,PA,27,101,103,130,78,102,17,3,4,4,0,1,1,3,0, Full Time,x-factor,%s from %O and %M with %T starting forward on McVeigh but zoning up to midfield a lot... went to Jack in Q2,,,422700,59,440400,67,Centre,20,11,90.5,98,6.58,8.22
+261396,Robbie,Gray,PA,20,99,124,128,75,103,16,8,3,5,1,2,1,1,0, Full Time,news,%s from %D and %T on Smith... also %M,,,287700,128,355500,167,Forward Centre,9,8,56.1,64,4.01,4.58
+260750,Justin,Westhoff,PA,21,98,101,126,74,98,16,5,4,4,4,1,0,1,1, Full Time,news,%s from %P and %T with %M... also %H,,,387200,77,450300,80,Forward,39,11,90.4,100.9,10.70,9.01
+261892,Hamish,Hartlett,PA,25,86,79,114,61,91,11,10,1,8,0,0,1,0,1, Full Time,news,%2 O'Keefe... %D and %T,sore,Freshened up his sore left shoulder in Q1 in a clash with Richards,350900,55,421500,81,Back Centre,8,11,78.7,90.5,16.99,17.54
+230124,Tom,Logan,PA,14,83,73,107,64,86,9,9,5,5,0,1,0,0,2, Full Time,news,%P and %M with %T and %s,job,Responsible for McGlynn,314000,46,357400,44,Back,44,3,76,78.7,0.30,0.21
+210043,Domenic,Cassisi,PA,25,80,94,104,56,84,8,12,0,8,0,0,0,0,0, Full Time,news,%D and %T,tagger,Head to head with Jack in Q1 then went to tag McVeigh,353800,118,404500,111,Centre,25,4,65.3,73.5,0.27,0.15
+280750,Andrew,Moore,PA,14,80,81,105,59,82,13,7,2,5,1,3,1,0,0, Full Time,news,%P and %T on Malceski,in,Late replacement for John Butcher,295200,60,294500,62,Centre,26,4,58.3,55.8,0.21,0.18
+240290,Angus,Monfries,PA,16,76,96,93,63,82,9,8,4,2,0,0,0,2,1, Full Time,news,%s from %P and %M on Richards,,,376700,64,409900,54,Forward Centre,6,11,82.2,91.8,10.76,14.04
+230195,Jay,Schulz,PA,14,73,104,90,63,83,10,9,5,1,0,1,1,1,2, Full Time,news,%s from %P on Grundy,,,343400,52,394000,93,Forward,28,11,73.3,83.4,2.02,1.81
+210020,Kane,Cornes,PA,9,68,68,86,54,78,10,11,2,3,0,1,1,0,0, Full Time,tagger,Tagging Hannebery... %O,,,487400,87,505900,74,Centre,18,11,112.5,115.6,6.73,5.10
+290540,Cameron,O'Shea,PA,18,68,52,92,56,78,10,6,6,4,0,1,3,0,0, Full Time,job,Morton was his man to start but went to Goodes in Q2... %P and %M with %T,,,333200,7,353000,10,Back,13,11,72,76.4,3.65,4.65
+291964,Jack,Hombsch,PA,9,63,101,84,46,63,9,5,2,5,0,3,1,0,0, Full Time,job,Takes the resting ruck which is mostly White... %O and %T,,,293700,17,366200,12,Back,36,2,88.5,107,0.45,0.70
+294318,Oliver,Wines,PA,8,62,62,80,48,70,14,6,2,1,1,0,1,0,0, Full Time,tagged,Tagged by Bird... %P including %K,,,317900,75,357700,79,Centre,16,11,79.5,81.7,25.08,25.03
+294604,Jake,Neade,PA,14,58,82,74,42,58,6,6,0,5,0,1,0,1,1, Full Time,news,%s from %O and %T on Armstrong,,,208400,52,241300,86,Forward Centre,32,10,51.8,56.9,20.75,19.34
+290171,Campbell,Heath,PA,5,47,50,65,37,51,8,2,4,3,0,1,2,0,0, Full Time,switch,%P and %M starting forward on Rampe... switched back in Q2 onto Morton,in,Late replacement for Paul Stewart,214500,66,243900,75,Back,3,9,53.2,59,5.04,4.73
+250688,Alipate,Carlile,PA,7,46,50,62,31,42,5,3,1,5,0,2,0,0,0, Full Time,job,Standing Tippett... %D and %T,,,225000,58,324000,76,Back,27,10,53.5,68.9,1.93,0.61
+292145,Thomas,Jonas,PA,4,45,57,59,36,51,7,5,3,2,0,0,1,0,0, Full Time,job,Has Reid... %O and %T with %M,,,245900,52,305400,75,Back,42,11,46.7,56.9,0.58,0.58
+240385,Matt,Thomas,PA,8,40,27,55,29,42,3,4,2,5,0,0,1,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q3 for Pittard,327000,79,378100,92,Centre,21,2,68.5,71,0.16,0.11
+290156,Jasper,Pittard,PA,2,20,18,26,18,24,4,2,2,0,0,1,1,0,0, Full Time,news,On in Q3 for Thomas,sub,Started as a sub,213200,17,235700,26,Back,29,4,66,76,11.66,12.08
+200071,Ryan,O'Keefe,SY,44,114,95,97,75,108,15,6,2,13,0,2,1,0,0, Full Time,hot,%2 Hartlett... %D and %T,,,483800,104,532400,103,Centre,5,11,100.1,105.7,2.42,1.66
+240226,Kieren,Jack,SY,32,105,122,82,77,111,14,9,1,9,0,0,2,2,0, Full Time,hot,%2 Cassisi in Q1 then Wingard in Q2... %P and %T plus %s,,,520600,111,559400,99,Centre,15,11,107.3,113,5.64,3.65
+230132,Nick,Malceski,SY,19,97,98,44,74,103,21,5,6,2,1,0,1,0,0, Full Time,news,%D including %K with %M,job,Running off Moore,417400,76,462700,65,Back,9,11,86.2,93.2,5.34,4.35
+230253,Jarrad,McVeigh,SY,24,97,98,67,70,105,15,12,1,7,0,0,1,0,0, Full Time,tagged,Wingard playing wide of him in Q1 but got the Cassisi tag in Q2... %P and %T,,,461600,104,521900,102,Centre,3,11,98.2,107.6,2.37,1.70
+261212,Craig,Bird,SY,26,97,82,74,67,96,14,7,3,8,0,0,0,0,0, Full Time,news,%D and %T,tagger,Tagging Wines,306600,21,340300,19,Forward Centre,14,9,56.1,55.8,1.26,1.50
+260382,Josh P.,Kennedy,SY,19,92,107,58,70,105,14,17,0,4,0,0,0,0,0, Full Time,news,%O including %b by hand... also %T,,,445500,117,544900,125,Centre,12,11,92.4,113.1,10.52,24.21
+291206,Mike,Pyke,SY,31,83,94,75,69,81,6,2,0,5,42,2,1,0,0, Full Time,canada,#1 ruck today in the absence of Mumford... %H and %P with %T,,,366800,104,456400,139,Ruck,38,11,76.3,92.2,4.76,3.97
+291856,Tom,Mitchell,SY,25,81,84,70,60,82,9,7,2,7,0,2,1,1,1, Full Time,cash,%2 Ebert... %P and %T plus %s,,,108500,-170,115900,-141,Centre,6,2,121,106.5,23.92,25.85
+290778,Luke,Parker,SY,18,66,69,53,47,72,9,8,0,7,0,1,2,0,0, Full Time,news,%O and %T,,,407500,91,449400,66,Centre,26,11,89.6,94.6,2.77,2.73
+290307,Dane,Rampe,SY,13,65,85,45,47,67,10,6,2,4,0,0,0,0,1, Full Time,cash,%P and %T plus %s,job,Responsible for Heath,231700,17,272000,-7,Centre,43,9,49.6,57.7,4.61,3.78
+270170,Tony,Armstrong,SY,5,59,52,45,45,60,8,5,4,3,0,1,0,0,0, Full Time,job,Running off Neade... %P and %T,,,267800,91,295000,100,Back,19,6,48.8,53.2,0.59,0.65
+270742,Kurt,Tippett,SY,15,57,64,55,46,57,5,1,3,5,1,2,2,2,2, Full Time,news,First goal... %s from %P and %G on Carlile... also %T and %F,,,373200,,462800,,Forward,8,0,0,0,0.49,0.43
+240072,Heath,Grundy,SY,13,56,39,57,51,69,3,12,6,2,0,0,1,0,0, Full Time,job,Standing Schulz... %D and %M with %T,,,288000,93,347600,88,Back,39,11,60.7,69.8,1.40,1.43
+210027,Ted,Richards,SY,5,54,54,41,43,57,7,6,4,2,0,1,0,0,0, Full Time,news,%D and %M,job,Port going small so Monfries is his man,214200,98,308100,126,Back,25,11,46.5,64.7,2.31,2.03
+240412,Mitch,Morton,SY,14,53,73,53,41,54,4,5,2,5,0,2,1,1,0, Full Time,news,%D and %T on O'Shea,,,222000,29,246800,47,Forward,10,5,52.4,49,2.22,1.07
+290117,Daniel,Hannebery,SY,9,53,60,47,41,60,6,7,2,5,0,1,2,0,0, Full Time,tagged,Tagged by Cornes... %O and %T,,,468600,107,492300,110,Centre,4,11,98.7,102.6,4.00,6.65
+980073,Adam,Goodes,SY,9,52,63,31,42,54,8,4,1,1,0,1,0,2,0, Full Time,injured,%D and %s... O'Shea went to him in Q2... right buttock soreness in Q3,subbed,Subbed off at 3QT for Lamb,461800,172,497600,162,Forward,37,11,83.6,86.2,6.09,5.19
+230140,Ben,McGlynn,SY,4,44,66,38,35,48,5,5,3,3,0,1,1,0,0, Full Time,news,%P on Logan,,,387200,103,382800,108,Forward,21,11,78.1,74.5,1.46,1.73
+250338,Nick,Smith,SY,3,40,39,26,32,45,6,6,2,1,0,0,0,0,0, Full Time,job,Minding Gray... %P and %M,,,277400,80,327200,91,Back,40,11,57.5,65,0.50,0.64
+990011,Jude,Bolton,SY,8,37,37,29,29,48,6,5,0,5,0,1,4,0,0, Full Time,news,%O and %T,,,315400,80,340400,63,Forward Centre,24,11,67.8,75.1,1.86,2.12
+250212,Jesse,White,SY,2,24,28,11,19,25,5,0,0,1,7,1,1,0,0, Full Time,news,%P when forward on Hombsch... also %H,,,214300,-6,266800,5,Forward,18,2,74,80,0.66,0.45
+291544,Jed,Lamb,SY,1,14,17,7,11,18,3,2,0,1,0,0,1,0,0, Full Time,news,On after 3QT for Goodes,sub,Started as a sub,108100,29,105900,42,Forward,11,3,22.7,15.7,2.17,2.12

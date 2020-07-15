@@ -1,0 +1,48 @@
+Adelaide,Crows,St Kilda,Saints,R8,12.15.87,6.11.47, Full Time
+May 19,2013,4.40,Footy Park,Seven,210016,10390809,adel-v-stk,0,Fine,21,,
+
+<em style='margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: Webster sc yeah baby yeah <br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> buddy23!!!</em>: holy moly please let dangers score really be 88. won my league by 1 point against the top team if it is<br><em>DangerCrow</em>: Talia massive price rise!! haha&#044; my opp had him.. still won though lol<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> Pecks</em>: Boo the saints<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Hadouken</em>: lost by 10. flower you vince fisher dal<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> mobj</em>: jacobs SC anyone??<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> DirtyDawn</em>: until next weeken my furry friends<br><em>Mcswains</em>: cherrys for Dougo<br><em style='margin-bottom:-2px'><b class="ticon tWB"></b> WrightMan</em>: Blue Moon Talia M0nty<br><em>DangerCrow</em>: lost elim by 1 point..&#044;. Terlich 120 fckd me up... omg<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> chyeaahh</em>: danger 85&#044; laird 53<br><em>doogz</em>: mcevoy flowering pathetic<br>
+240370,Richard,Douglas,AD,36,124,128,158,101,131,15,11,11,4,1,0,0,1,1, Full Time,hot,%D and %T with %M and %s,,,452400,115,506100,113,Centre,26
+270963,Rory,Sloane,AD,26,117,129,151,95,122,16,9,12,3,1,1,0,0,1, Full Time,star,%P and %M plus %T and %s,,,465500,104,523100,123,Centre,9
+210016,Scott,Thompson,AD,36,113,113,145,96,127,13,12,11,4,1,0,2,1,0, Full Time,gun,Tagged by Montagna... went forward to try to break it in Q3... %P and %T with %M... %F as well,,,495000,95,538500,95,Centre,5
+250362,David,Mackay,AD,21,110,136,143,86,109,20,3,9,2,0,2,0,1,1, Full Time,hot,First goal... %P and %M plus %s,job,On a HBF on Milera,368900,56,358500,28,Centre,14
+294828,Josh,Jenkins,AD,17,93,105,118,77,91,12,2,9,2,0,2,0,2,4, Full Time,heart,Stanley on him.... hyperextended right knee in Q1 but played on... %s from %D and %M... also %T,,,319300,48,340200,63,Forward Ruck,4
+261142,Bernie,Vince,AD,21,92,72,119,70,93,14,6,5,4,0,1,0,1,0, Full Time,news,%K among %P with %T and %M... also %s,,,405500,44,404100,52,Centre,17
+270811,Sam,Jacobs,AD,20,92,101,109,81,101,11,9,6,0,23,0,0,0,0, Full Time,news,%H and %P with %M,,,366200,110,429000,117,Ruck,24
+280934,Daniel,Talia,AD,20,87,101,109,74,93,9,9,9,2,0,1,0,1,0, Full Time,job,On Riewoldt... %O and %M,,,176400,31,235000,37,Back,12
+270938,Tom T.,Lynch,AD,25,85,74,112,75,94,14,1,11,1,0,0,3,2,1, Full Time,news,Kicked %s from %D and %M on Gwilt... %F as well,,,359000,-22,317700,-25,Forward,27
+250118,Nathan,van Berlo,AD,16,82,93,103,66,88,12,8,5,2,0,0,0,1,1, Full Time,news,%P including %B,,,371400,93,380200,94,Centre,7
+220086,Brent,Reilly,AD,13,81,80,104,65,87,14,7,7,1,0,0,0,0,0, Full Time,news,%D and %M,,,387800,47,497800,58,Back,3
+270917,Patrick,Dangerfield,AD,10,77,89,97,61,84,10,10,4,3,3,0,0,0,0, Full Time,news,Started forward on Dempster... %P and %M with %T,,,508900,32,599800,41,Centre,32
+291748,Brodie,Smith,AD,10,72,74,92,58,81,12,9,4,2,0,1,1,0,0, Full Time,job,Has Saad... %P and %T with %M,,,322000,73,359100,62,Back,33
+293222,Rory,Laird,AD,9,67,57,87,53,69,8,6,6,3,0,1,0,0,0, Full Time,cash,%D and %M,,,159600,-50,157200,-25,Back,46
+293716,Jarryd,Lyons,AD,9,64,72,83,51,70,11,6,4,2,0,1,1,0,1, Full Time,cash,%P,,,185500,12,169400,-1,Forward Centre,31
+270296,Andy,Otten,AD,5,58,81,76,44,60,8,5,4,3,0,0,0,0,0, Full Time,news,%P and %T,job,Responsible for Ross,334300,81,400300,90,Back,22
+230174,Jason,Porplyzia,AD,10,56,44,70,47,60,7,5,5,1,0,0,0,1,0, Full Time,news,On in Q3 for Wright,sub,Started as a sub,254000,75,288500,63,Forward,40
+291806,Sam,Kerridge,AD,8,55,22,73,46,60,9,3,7,1,0,0,1,0,0, Full Time,cash,%P and %M,,,206900,-58,204000,-56,Forward Centre,29
+293193,Luke,Brown,AD,5,55,55,74,43,57,8,3,5,3,0,1,1,0,0, Full Time,cash,%M and %D,job,Minding Milne,190400,7,202300,14,Back,16
+280038,Shaun,McKernan,AD,11,52,47,66,46,58,6,3,4,2,6,1,2,1,1, Full Time,news,Kicked %s from %P and %M on Fisher.... also %H,,,202600,-16,274500,15,Forward Ruck,35
+220093,Ben,Rutten,AD,8,45,54,61,40,51,9,1,7,0,0,1,2,0,0, Full Time,job,Standing Maister... %P and %M,,,290100,61,325400,57,Back,25
+261384,Matthew,Wright,AD,4,45,59,59,33,46,8,3,2,2,0,0,0,0,1, Full Time,news,%O and %T with %M,subbed,Subbed off in Q3 for Porplyzia,369500,102,382000,91,Forward Centre,11
+220075,Leigh,Montagna,SK,21,129,137,81,102,139,21,13,9,3,0,0,0,0,1, Full Time,magnet,%P and %M with %T and %s,tagger,Tagging Thompson,492100,124,542500,121,Centre,11
+210001,Nick,Riewoldt,SK,25,99,97,63,83,99,16,2,12,0,0,2,0,1,3, Full Time,news,%s from %P and %G on Talia,,,546100,101,605100,93,Forward,12
+291773,Jack,Newnes,SK,19,96,99,70,77,105,13,12,7,3,0,0,0,0,0, Full Time,news,%P and %T with %M,,,210800,22,246300,11,Centre,16
+240062,Farren,Ray,SK,19,95,83,67,73,100,14,9,6,4,0,0,0,0,1, Full Time,news,%D and %M with %T and %s,,,347100,93,327700,109,Centre,22
+270912,Jack,Steven,SK,19,95,100,75,73,100,12,10,6,5,0,0,0,0,1, Full Time,news,%O and %T with %M,,,429800,49,484100,63,Centre,3
+280933,Dylan,Roberton,SK,13,88,110,52,71,93,15,8,7,1,0,2,0,0,0, Full Time,news,Loose in defence... %O and %M,,,340100,59,409100,70,Back,17
+240708,Sam,Fisher,SK,13,80,89,60,65,87,11,8,7,3,0,1,1,0,0, Full Time,news,%M and %O with %T,job,Responsible for McKernan,347800,51,422100,74,Back,25
+220023,Nick,Dal Santo,SK,9,74,97,51,60,84,10,13,3,2,0,1,0,0,0, Full Time,news,%P and %T with %M,,,399300,111,408600,121,Centre,26
+250340,David,Armitage,SK,24,72,77,67,54,75,6,10,1,6,0,1,0,1,0, Full Time,news,%D and %T plus %s,,,431000,87,458000,107,Centre,20
+260113,Jarryn,Geary,SK,20,68,71,64,55,78,7,8,5,6,0,1,3,0,0, Full Time,news,%P and %M with %T... also %F,,,317600,101,384200,137,Back,14
+250703,James,Gwilt,SK,7,62,83,31,48,66,12,6,3,1,0,1,0,0,0, Full Time,news,%O and %M,job,Running off Lynch,269400,5,339800,8,Back,33
+293846,Sebastian,Ross,SK,8,58,48,42,51,69,7,11,5,0,0,0,0,0,0, Full Time,cash,%D and %M,,,194500,-26,220300,-10,Centre,6
+290757,Jimmy,Webster,SK,5,56,85,43,45,60,7,7,4,2,0,1,0,0,0, Full Time,bubble,Second game.... %O and %M,,,108500,,115900,,Back,29
+294818,Ahmed,Saad,SK,10,52,24,36,47,61,7,5,3,1,0,1,2,2,1, Full Time,egypt,%s from %D and %M on Smith,,,252600,54,273200,53,Forward,21
+261323,Ben,McEvoy,SK,9,50,59,46,47,54,3,5,5,0,15,1,0,0,0, Full Time,news,%H and %D with %M,,,454200,70,564600,92,Ruck,5
+230243,Sean,Dempster,SK,4,49,56,34,35,48,8,2,3,3,0,0,0,0,0, Full Time,job,Started on Dangerfield... %P and %T with %M,,,345000,80,396500,95,Back,24
+294266,Tom,Hickey,SK,3,45,25,29,38,47,7,2,5,0,4,0,0,0,1, Full Time,news,%H and %P plus %M and %s,,,272000,75,308200,57,Ruck,1
+270766,Terry,Milera,SK,4,43,38,22,36,50,9,2,4,1,0,0,2,0,2, Full Time,news,%s from %O on Mackay,,,285900,86,302900,97,Forward,32
+200108,Stephen,Milne,SK,10,42,56,23,39,51,7,4,2,0,0,1,2,2,0, Full Time,news,%s from %P and %M on Brown,,,273400,73,298700,72,Forward,44
+280317,Rhys,Stanley,SK,2,28,38,10,25,36,7,2,3,0,0,0,2,0,0, Full Time,job,Big job on Jenkins... %P and %M... also %F,,,245800,72,349900,84,Forward,28
+293815,Arryn,Siposs,SK,2,26,25,16,22,30,4,4,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Maister,sub,Started as a sub,308000,62,317900,46,Forward,2
+250036,Beau,Maister,SK,0,11,13,6,11,16,2,2,1,0,0,0,1,0,1, Full Time,news,%s from %D on Rutten,subbed,Subbed off in Q3 for Siposs,284800,76,276300,64,Forward,37

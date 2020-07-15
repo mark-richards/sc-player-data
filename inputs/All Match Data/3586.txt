@@ -1,0 +1,48 @@
+Collingwood,Magpies,St Kilda,Saints,GF,16.12.108,7.10.52, Full Time
+Oct 2,2010,2:40,MCG,Seven,990028,10290501,5014387,5255,Sunny,22
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Sunday go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em style='color:#e50000'>m0nty</em>: Thanks everyone for making FanFooty so much fun to run. See you next year!<br><em>TW=spud</em>: bring on trade week<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> oldshepp</em>: Luke Ball clearly mixed feelings<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> oldshepp</em>: Well deserved Pendles. Bad luck Swanny&#044; Daisy and Steele. All deserving<br><em style='color:#e50000'>m0nty</em>: get Joffa out of that shot of the dais!<br><em>Turbo5</em>: jolly for the norm smith?<br><em>Rated_RKO</em>: thanks m0nty for the year of fanfooty scores and news. cya all next year<br><em>tigermania</em>: 51 weeks of hell until hopefully a new premier<br><em>Rilian</em>: Swan should have trashcan imo!<br><em>Rated_RKO</em>: oh well.. at least buckley doesnt get a medal... <br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> oldshepp</em>: You bloody beauty !!!<br><em>newatthis</em>: goddard is so upset<br>
+220105,Dane,Swan,CO,60,141,123,187,101,135,18,8,6,11,0,3,0,1,0, Full Time,gun,Tagged by Jones... %O and %T with %s... quiet first half but fired up in Q3
+260257,Scott,Pendlebury,CO,54,141,123,190,101,141,20,9,7,11,0,1,1,0,0, Full Time,medal,Tagged by Gram and was helped by Gram's early concussion... %O and %T with %M... deserving winner of the Norm Smith Medal to add to his Anzac one
+280965,Steele,Sidebottom,CO,31,113,144,143,89,117,16,9,6,4,0,1,0,2,0, Full Time,hot,%D and %M with %T
+240359,Dale,Thomas,CO,25,112,94,142,90,117,20,7,8,1,1,1,0,1,2, Full Time,hot,Head to head with Dal Santo... %P and %M plus %s
+210099,Darren,Jolly,CO,38,110,121,133,95,113,9,5,6,4,35,1,1,1,0, Full Time,x-factor,Thrashed McEvoy including being instrumental in a couple of Q3 goals... %H and %P with %T and %M... also %s
+240700,Heath,Shaw,CO,24,109,125,140,88,117,19,9,10,1,0,0,0,0,0, Full Time,hot,%P and %M
+261799,Sharrod,Wellingham,CO,33,106,112,136,79,106,11,9,3,8,0,1,0,2,1, Full Time,hot,Tagging Montagna... %P and %T plus %s
+220005,Luke,Ball,CO,24,103,97,133,80,108,15,10,7,4,0,1,0,0,0, Full Time,hot,Head to head with Hayes... %O and %M plus %T
+230263,Nick,Maxwell,CO,20,97,81,130,79,104,16,4,11,3,0,0,2,0,2, Full Time,tagged,Forward tag on him by Eddy... %D and %M
+240419,Alan,Toovey,CO,30,95,64,128,69,93,8,7,7,9,0,0,0,0,0, Full Time,news,%D and %T with %M
+210003,Alan,Didak,CO,17,92,92,115,74,97,14,7,5,2,0,0,0,2,1, Full Time,tagged,Tagged by Ray... %s from %O and %M
+200021,Ben,Johnson,CO,15,83,91,107,64,84,17,3,5,1,0,1,0,1,0, Full Time,news,%P and %s
+240073,Harry,O'Brien,CO,15,79,80,102,62,81,13,5,4,3,0,3,1,1,0, Full Time,job,Minding Milne... %P and %M with %T
+261181,Brent,Macaffer,CO,12,73,79,93,60,78,9,5,5,3,0,0,1,2,0, Full Time,news,%s from %O and %M
+200028,Leigh,Brown,CO,18,69,56,92,58,81,7,6,4,6,12,0,4,0,0, Full Time,news,%P and %T with %H and %F on Blake rotating through ruck
+271001,Dayne,Beams,CO,5,55,53,74,43,57,8,3,5,3,0,1,1,0,0, Full Time,news,%P and %T on Baker
+260394,Chris,Dawes,CO,11,51,54,62,46,57,5,5,4,1,0,1,1,2,0, Full Time,news,Booted %s from %D and %G on Gwilt
+260246,Tyson,Goldsack,CO,10,49,63,63,41,54,4,5,4,3,0,0,1,1,0, Full Time,tagger,First goal... forward tag on Fisher... kicked %s from %O and %M
+240366,Travis,Cloke,CO,4,46,59,60,36,47,4,4,4,3,1,0,0,0,1, Full Time,news,Dawson on him... %s from %D and %G with %T
+280104,Jarryd,Blair,CO,7,44,45,59,30,43,6,3,1,4,0,0,0,0,1, Full Time,news,%O and %T
+240232,Ben,Reid,CO,3,43,50,56,35,45,6,3,5,1,0,0,0,0,0, Full Time,sore,Standing Koschitzke... %M and %D... rolled an ankle in Q2
+260310,Nathan,Brown,CO,3,38,71,49,31,39,5,3,4,1,0,1,0,0,0, Full Time,job,Chasing Riewoldt.... %M and %O
+220023,Nick,Dal Santo,SK,32,126,98,80,93,127,21,8,5,6,1,1,0,1,0, Full Time,hot,Head to head with Thomas... %O and %M with %T
+990028,Lenny,Hayes,SK,50,123,114,124,89,127,10,12,3,14,3,0,2,1,1, Full Time,hot,Head to head with Ball... %P and %T with %s... also %H as third man up in ruck
+230084,Brendon,Goddard,SK,26,110,172,89,91,121,11,18,4,4,4,3,0,1,0, Full Time,hot,A roving commission like last week... %B among %D with %M and %T.... also %s
+250703,James,Gwilt,SK,19,95,126,59,72,99,17,5,7,4,0,0,1,0,0, Full Time,job,Standing Dawes... %M and %O with %T
+250134,Sam,Gilbert,SK,24,85,57,66,68,90,11,6,6,4,0,0,1,1,3, Full Time,news,Moved forward in Q2 to provide a vital link up option... %s from %D with %T and %M
+200068,Jason,Blake,SK,10,75,73,56,58,72,11,2,8,3,0,2,0,0,0, Full Time,job,Has Leigh Brown... %M and %P plus %T
+220098,Adam,Schneider,SK,14,73,76,61,59,83,8,11,4,4,0,0,1,0,2, Full Time,news,%P and %M with %T and %s
+210001,Nick,Riewoldt,SK,9,71,52,50,57,76,10,7,5,2,3,0,0,0,1, Full Time,news,%s from %P and %G on Nathan Brown
+240708,Sam,Fisher,SK,12,71,94,47,58,73,11,5,7,1,0,2,0,0,1, Full Time,injured,Forward tag on him by Goldsack... %D and %M... right hamstring tweak in Q3
+240062,Farren,Ray,SK,10,66,14,48,48,66,10,4,4,4,0,0,0,0,0, Full Time,tagger,Tagging Didak... %O and %M
+261323,Ben,McEvoy,SK,12,64,67,78,54,70,0,11,4,5,10,0,0,0,0, Full Time,news,Smashed by Jolly... %H and %P with %M and %T
+261743,Clinton,Jones,SK,12,55,48,39,41,60,8,8,0,4,0,2,1,0,0, Full Time,tagger,Tagging Swan... %D and %T
+220075,Leigh,Montagna,SK,3,48,52,23,34,49,10,3,1,2,0,0,0,0,1, Full Time,tagged,Tagged by Wellingham... %D and %T plus %s
+230243,Sean,Dempster,SK,5,48,76,44,40,54,4,8,4,2,0,0,0,0,0, Full Time,news,%P
+210002,Justin,Koschitzke,SK,11,44,45,32,42,56,6,5,2,2,5,3,4,1,0, Full Time,crab,%s from %P on Reid with %H in limited ruck work... providing very little
+220034,Jason,Gram,SK,3,44,37,26,37,51,7,7,3,0,0,0,0,0,0, Full Time,concussed,Hit his head on the turf in Q1 and looked very dazed... %D and %M tagging Pendlebury
+240701,Brett,Peake,SK,4,39,23,22,36,51,7,6,4,0,0,0,2,0,0, Full Time,spud,%O and %M... looks out of his depth in this company
+990004,Steven,Baker,SK,3,34,18,28,27,39,5,2,3,3,0,0,2,0,0, Full Time,job,Rotating on Beams and Sidebottom... %O and %F
+200108,Stephen,Milne,SK,9,31,36,26,30,39,3,3,2,1,0,0,2,2,0, Full Time,garbage,O'Brien kept him touchless in Q1 and Q3... %s from %D and %M with his only scores late in Q4 junk time
+240012,Andrew,McQualter,SK,2,31,25,22,27,36,4,5,3,0,0,0,0,0,0, Full Time,news,Rotating through the forward line doing defensive jobs... %D
+250207,Robert,Eddy,SK,3,31,29,26,23,30,4,1,3,2,0,0,0,0,0, Full Time,tagger,Forward tag on Maxwell... %D
+240552,Zac,Dawson,SK,3,28,48,30,28,39,0,11,2,0,0,0,0,0,0, Full Time,job,On Cloke... %M and %D

@@ -1,0 +1,48 @@
+West Coast,Eagles,Gold Coast,Suns,R13,15.13.103,15.10.100, Full Time
+Jun 14,2014,4.40,Subiaco,Foxtel,,10421304,wce-v-gcfc,0,Fine,18,,
+
+<em style='color:#000'>howeydamus</em>: wellingham X<br><em style='color:#000'>debzz</em>: thank god Fasolo isn't playing i'll take a 143 from McGovern!<br><em style='color:#000'>TheSaint</em>: i'm glad SC believe mclovins game was 50 points better than robbie grays haha<br><em style='color:#000'>whale607</em>: mcgovern u sickcnt<br><em style='color:#000' title="MIJG">mijg</em>: Hope my op doesnt know how to loophole<br><em style='color:#000'>Punt</em>: McGovern!!  If you don't have him&#044; unlucky!!<br><em style='color:#000'>rigs</em>: rocky 170+<br><em style='color:#069'>Ben_Gogos</em>: What a game!<br><em style='color:#000'>_wato</em>: McGovern 143sc? Hahahha flower yes! <br><em style='color:#000'>poolboybob</em>: lmao at mcgovern's supercoach score<br><em style='color:#000'>Chadwickus</em>: Deserved the win for sure<br><em style='color:#000'>Jrobb</em>: mcgovern 143 sc<br>
+250317,Eric,Mackenzie,WC,31,120,106,160,96,123,18,5,14,4,0,1,1,0,0, Full Time,bluemoon,%D with %k by foot... also %M and %T,job,Has the big job on Dixon,306700,60,323000,63,Back,16,11,63.8,67.8,1.48,0.80,2.15,317441,66
+271045,Nic,Naitanui,WC,33,116,142,137,97,124,7,15,2,6,34,1,0,0,0, Full Time,x-factor,Hundredth game and making it count... %H... also %P and %T,,,363900,26,422000,23,Ruck,9,11,64.7,78.5,7.47,8.75,9.72,329021,31
+240406,Josh J.,Kennedy,WC,43,115,116,138,101,117,12,3,9,1,0,0,0,7,0, Full Time,star,First goal... Thompson manning him... Booted %s from %G and %P,,,406400,145,424800,175,Forward,17,10,72.3,75.1,3.70,3.36,4.44,388282,86
+240283,Shannon,Hurn,WC,25,111,157,144,90,117,19,7,12,1,0,0,0,0,0, Full Time,hot,%D with %k by foot... also %M,job,Largely responsible for Hall,414400,81,451300,84,Back,25,7,77,82.6,2.37,2.35,3.00,381961,65
+240124,Matt,Priddis,WC,26,108,128,133,85,123,9,23,2,7,0,1,0,0,0, Full Time,hot,%O with %b by hand... also %T and %M,,,565100,100,578000,123,Midfielder,11,11,107.3,106.7,2.35,2.10,2.72,546143,92
+261799,Sharrod,Wellingham,WC,26,101,125,128,80,111,13,13,4,5,0,1,1,1,0, Full Time,tagger,Tagging Ablett but was released in the fourth... %D and %M with %T... %s as well,in,Late replacement for Scott Selwood,347100,107,335800,130,Midfielder,12,9,67.2,65.8,1.36,1.20,1.66,356780,84
+294859,Jeremy,McGovern,WC,26,95,146,118,82,97,11,3,10,1,1,0,0,3,3, Full Time,news,Day running with him... Kicked %s from %G and %O,cash,,119200,-66,123900,-56,Forward,42,2,69,65,4.25,3.43,4.70,121312,-27
+250111,Matt,Rosa,WC,15,89,83,110,76,102,9,15,8,2,0,0,0,0,0, Full Time,news,%P and %M plus %T,,,428200,117,374300,111,Midfielder,24,10,89.9,81.1,1.71,0.83,2.63,452094,109
+290746,Scott,Lycett,WC,24,88,104,105,77,94,9,7,6,1,18,0,0,1,1, Full Time,news,May minding him... %H... also %P and %M... and kicked %s,,,259400,92,287100,107,Ruck,29,3,41.7,39.3,0.64,0.34,0.60,252198,80
+281052,Mark,Hutchings,WC,16,87,71,111,67,90,16,6,4,2,0,1,0,1,0, Full Time,news,%P with %k by foot... also %M and %T... and booted %s,,,393400,100,379100,102,Midfielder,34,6,73.8,67.5,0.25,0.14,0.23,385998,73
+261290,Chris,Masten,WC,18,84,60,114,61,81,13,2,7,5,0,0,0,0,0, Full Time,news,%P with %k by foot... also %M and %T,,,439100,116,421600,120,Midfielder,7,10,87.2,83.4,0.82,0.30,0.82,457909,104
+290801,Andrew,Gaff,WC,9,79,47,107,58,81,17,2,5,3,0,0,1,0,0, Full Time,news,%2 Harbrow... %O with %k by foot... also %M and %T,,,440300,37,431600,47,Midfielder,3,11,92.8,86.5,1.90,1.86,1.92,413513,42
+250257,Xavier,Ellis,WC,13,77,71,103,60,81,13,4,7,3,0,0,1,0,0, Full Time,news,%O including %K... also %M and %T,cash,,263700,41,282100,26,Midfielder,18,9,58,64.6,17.15,15.65,22.52,245438,27
+281080,Brad,Sheppard,WC,13,71,99,94,51,72,10,6,3,5,0,0,0,0,0, Full Time,news,%P and %M plus %T,,,347200,79,351000,98,Midfielder,5,9,67.4,68.9,0.75,0.87,0.65,344392,65
+290838,Jack,Darling,WC,16,64,58,87,47,65,7,4,4,6,0,0,1,0,2, Full Time,news,%s from %O and %M plus %T,cannon,McKenzie standing him,407000,90,387400,91,Forward,27,11,81.7,80.8,5.18,3.61,6.50,409165,82
+290943,Jamie,Bennell,WC,9,63,57,84,50,60,11,0,8,1,0,2,0,0,0, Full Time,job,Running with Matera... %D with %b by hand... also %M,,,274200,55,321200,52,Midfielder,44,11,53.9,65.7,1.61,2.45,3.43,270417,49
+240119,Mark,LeCras,WC,10,53,47,68,49,66,8,6,5,1,0,1,3,1,0, Full Time,down,%s from %P and %M... not helped by %F,,,442700,66,455200,73,Forward,2,6,91.3,93.5,3.49,3.08,3.82,447695,84
+261214,Will,Schofield,WC,3,40,55,51,33,45,7,5,2,1,0,2,1,0,0, Full Time,job,Responsible for Lynch... %M and %D,,,244500,50,294000,76,Back,31,6,45.3,53.3,0.60,0.31,0.69,251556,57
+292128,Elliot,Yeo,WC,2,28,17,38,19,27,5,1,1,2,0,0,0,0,0, Full Time,news,%O including %K... also %T,subbed,Subbed out midway through the third,361200,38,372000,49,Back,6,11,70.2,74.2,2.38,3.28,2.93,333571,35
+240159,Sam,Butler,WC,1,27,21,37,18,24,3,1,1,3,0,1,0,0,0, Full Time,in,Late replacement for Luke Shuey... Subbed on midway through the third... Tagged Ablett when he came on... %P and %T,sub,Started as a sub,421000,,408900,,Back,26,1,35,45,0.22,0.12,0.20,383542,134
+290826,Jamie,Cripps,WC,8,23,26,32,18,27,5,0,0,2,0,0,2,1,0, Full Time,news,Broughton keeping him company... %s from %O and %T,,,323400,79,302100,88,Forward,15,11,62.1,60.2,1.04,1.90,1.20,329526,76
+260303,Mitchell,Brown,WC,1,21,19,27,16,21,3,2,1,1,0,1,0,0,0, Full Time,job,Spending time on Bennell and relieving Mackenzie... %O,,,220700,56,224000,66,Back,1,11,44.5,50.3,0.88,1.74,1.15,233404,54
+290627,Dion,Prestia,GC,32,139,146,94,109,150,20,18,5,5,0,2,0,1,0, Full Time,magnet,%P and %M plus %T... %s as well,,,525600,82,549300,103,Midfielder,10,11,102.5,108.2,1.16,2.12,1.58,509686,82
+220001,Gary,Ablett jnr,GC,31,118,106,75,86,128,20,13,1,8,0,1,2,0,2, Full Time,gun,Tagged by Wellingham then had Butler... %D and %T plus %s,,,557600,94,679200,127,Midfielder,9,11,118.9,142.4,59.53,70.53,68.69,579414,112
+294613,Jaeger,O'Meara,GC,25,98,89,87,79,105,9,13,6,5,0,1,0,1,0, Full Time,news,%O and %M plus %T... %s as well,,,447200,95,480700,120,Midfielder,1,11,91.6,99.6,3.38,6.62,6.18,460690,94
+280722,Zac,Smith,GC,25,89,75,87,69,91,6,9,2,7,19,0,0,0,0, Full Time,news,%H... also %P and %T,,,355700,43,432400,36,Ruck,2,4,74.3,91.3,0.68,0.78,1.41,312132,36
+290832,David,Swallow,GC,26,88,87,80,67,98,9,12,3,8,1,0,2,0,1, Full Time,news,%P and %M plus %T... %s as well,,,451500,82,504700,113,Back Midfielder,24,11,94.6,105.5,43.49,51.01,45.06,461296,92
+290527,Trent,McKenzie,GC,18,81,86,60,61,81,12,4,7,4,0,0,0,0,0, Full Time,news,%O with %k by foot... also %M and %T,job,Following Darling,331400,71,381000,71,Back,18,11,71.1,77.1,0.82,1.18,0.97,354252,78
+240712,Michael,Rischitelli,GC,20,78,83,70,61,81,7,8,3,5,0,0,0,2,0, Full Time,news,%O and %M plus %T... %s as well,,,345200,57,375700,59,Midfielder,35,11,74.1,77.5,0.79,0.66,1.00,354960,67
+291594,Harley,Bennell,GC,15,77,77,55,61,83,10,10,2,3,0,1,0,1,2, Full Time,news,%O and %M plus %T... %s as well,,,443400,94,490000,95,Midfielder,11,4,88.5,91.3,0.40,0.21,0.59,437681,84
+293813,Thomas,Lynch,GC,20,71,86,58,62,74,7,4,6,1,0,0,0,3,2, Full Time,news,Manned by Schofield... Booted %s from %G and %P,,,358100,130,415100,155,Forward,19,11,69.2,74.3,0.97,1.34,1.65,382113,102
+290790,Matthew,Shaw,GC,9,66,67,50,54,75,8,11,4,2,0,0,0,0,0, Full Time,news,%D and %M with %T,,,358100,122,358700,145,Back Midfielder,26,11,63.3,58.5,0.99,1.12,1.67,369978,96
+261756,Greg,Broughton,GC,8,64,79,54,52,72,6,13,2,3,0,2,0,0,0, Full Time,job,Responsible for Cripps... %D and %M with %T,,,331800,53,369300,63,Back,36,11,68.9,74.5,0.61,0.76,0.96,347274,73
+281085,Steven,May,GC,8,63,68,28,47,63,14,1,5,1,0,0,0,0,0, Full Time,job,Standing Lycett... %D with %k by foot... also %M,,,258700,53,330200,59,Back Forward,17,11,56.1,75.7,2.47,7.99,3.11,261973,49
+240254,Jarrod,Harbrow,GC,10,60,59,51,48,64,6,7,3,3,0,0,0,1,1, Full Time,news,%2 Gaff... Moving up and down the wing... %D and %M with %T... %s as well,,,438600,109,443000,144,Back,5,11,84.6,84.5,1.45,1.26,1.88,434194,85
+250249,Danny,Stanley,GC,7,54,71,28,44,63,10,8,2,1,0,1,1,0,0, Full Time,news,%P and %M,,,346200,84,359500,83,Midfielder,25,11,68.5,68.6,0.22,0.22,0.25,363000,83
+290817,Brandon,Matera,GC,10,54,64,43,44,60,6,6,1,3,0,0,1,2,0, Full Time,news,Bennell on him... %s from %P and %T,,,380500,113,400700,130,Forward,32,10,72.3,79.5,0.92,1.97,1.24,382770,84
+280711,Charlie,Dixon,GC,16,50,67,43,50,62,4,3,1,2,14,1,4,3,0, Full Time,news,Mackenzie following him... %s from %D and %T... not helped by %F,,,354900,61,431400,80,Forward Ruck,23,7,61.1,73.7,1.83,2.51,2.59,319616,48
+281075,Rory,Thompson,GC,8,49,54,28,40,48,9,1,6,0,0,2,0,0,0, Full Time,witcheshat,On Kennedy... %P with %k by foot... also %M,,,254300,39,340500,85,Back,16,8,46.9,60.4,0.40,0.30,0.54,242160,37
+281025,Luke,Russell,GC,4,45,42,33,39,54,6,7,4,1,0,0,1,0,0, Full Time,news,%M and %P,,,286100,54,283900,65,Back,8,9,51.3,50.6,0.19,0.34,0.30,264956,35
+296209,Kade,Kolodjashnij,GC,3,34,47,26,28,39,4,6,2,1,0,0,0,0,0, Full Time,wall,%M and %P,job,Rotating on the resting mid,351100,74,393900,103,Back,28,9,74.9,77.9,13.64,12.56,8.66,360775,70
+291753,Sam,Day,GC,2,32,49,20,27,36,5,4,3,0,0,0,0,0,0, Full Time,job,Manning McGovern... %M and %D,,,263600,45,275600,53,Back Forward,12,11,57.9,57.8,2.94,2.70,4.17,285182,67
+294643,Alex,Sexton,GC,1,23,14,15,17,22,4,0,2,1,0,0,0,0,1, Full Time,news,On at 3QT... %O and %M plus %s,sub,Started as a sub,189600,43,194000,34,Midfielder,6,3,33.3,32.7,0.41,0.27,1.23,157204,27
+296735,Aaron,Hall,GC,7,20,30,14,18,24,2,4,0,0,0,0,0,1,0, Full Time,news,Hurn largely minding him... %s from %P,subbed,Subbed at 3QT,307700,59,312400,84,Forward,33,10,59.5,61.5,0.38,0.66,0.44,311273,60

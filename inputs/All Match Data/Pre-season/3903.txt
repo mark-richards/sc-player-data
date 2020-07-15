@@ -1,0 +1,48 @@
+Western Sydney,Giants,Western Bulldogs,Bulldogs,W1,8.18.66,20.20.140, Full Time
+Feb 18,2012,7.15,Blacktown,Fox Footy,,10330104,,4,Fine,22,,
+
+<em>Torpedo10</em>: Boydy!<br><em>Legend008</em>: this SHOULD be a walk in the park for the pies..<br><em>sless</em>: Long year for the Doggies<br><em>brent_bren</em>: gun*<br><em style='color:#a0a'>moorey21</em>: m0nty whens the iphone app coming out?<br><em>whatlez1</em>: Israel played well<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> mabo</em>: Was good to see J Mc back out on the park. <br><em>windigo24</em>: Did GWS win?<br><em>brent_bren</em>: conigilio not a great start!! the boy is a gung though!!<br><em>Sloan4Pres</em>: going to be a long year for dogs fans...<br><em>HurleyGun</em>: hope Mooney & McNamara plays for the pies tonight<br><em>port4spoon</em>: lol izzy surely no one will get sucked into picking him<br>
+261231,Rhys,Palmer,WS,9,48,-,61,38,48,8,2,3,1,0,1,0,1,0, Full Time,news,%D and %M,,,92
+261841,Jonathan,Giles,WS,10,45,-,57,37,46,4,2,2,3,7,1,1,1,0, Full Time,news,%H and %D with %M... also %T and %s,,,94
+970130,James,McDonald,WS,3,38,-,51,29,42,5,4,2,3,0,0,1,0,0, Full Time,tagger,Tagging Griffen... %D and %M with %T,,,83
+290765,Sam,Darley,WS,3,36,-,46,29,39,7,3,3,0,0,0,0,0,0, Full Time,news,%O and %M,,,91
+291891,Jacob,Townsend,WS,3,33,-,44,24,33,5,2,2,2,0,0,0,0,0, Full Time,news,%P including %k by foot... also %M,,,75
+261374,Sam,Reid,WS,2,31,-,40,24,30,5,2,2,1,0,2,0,0,0, Full Time,news,%M and %P,,,100
+280804,Phil,Davis,WS,2,30,-,38,24,33,4,4,2,1,0,0,0,0,0, Full Time,job,Has Jones... %M and %P,,,92
+980059,Chad,Cornes,WS,2,29,-,37,23,30,6,2,2,0,0,1,0,0,0, Full Time,news,Spent most of his time in midfield... %D and %M,,,87
+280969,Tom,Scully,WS,2,26,-,34,19,27,1,4,1,3,0,0,0,0,0, Full Time,news,%2 Cross... %P and %T,,,92
+280109,Callan,Ward,WS,7,25,-,28,23,29,2,4,1,0,2,0,0,1,0, Full Time,news,%B among %D... also a supergoal,,,86
+980011,Luke,Power,WS,2,24,-,34,16,24,6,0,0,2,0,1,1,0,0, Full Time,news,%K among %D... also %T,,,100
+290306,Curtly,Hampton,WS,7,23,-,30,18,24,5,0,0,1,0,1,1,1,0, Full Time,news,The first goal for GWS... %s from %D on Addison,,,95
+260290,Stephen,Clifton,WS,1,19,-,25,14,18,1,2,1,2,0,1,0,0,0, Full Time,news,%O and %T,,,67
+13,Devon,Smith,WS,0,17,-,22,12,15,3,1,0,1,0,2,0,0,0, Full Time,news,%D,,,84
+17,Tim,Mohr,WS,2,17,-,24,15,24,2,3,1,2,0,0,2,0,0, Full Time,news,%O and %T... also %F including a poor FA to gift a double goal to the Dogs in Q2,,,100
+2,Stephen,Coniglio,WS,1,17,-,23,14,21,1,3,1,2,0,0,1,0,0, Full Time,news,%P and %T,,,81
+291964,Jack,Hombsch,WS,0,8,-,10,7,9,1,1,1,0,0,0,0,0,0, Full Time,news,%P,,,77
+293845,Jeremy,Cameron,WS,0,7,-,9,5,7,2,0,0,0,0,0,0,0,1, Full Time,news,Playing forward mostly but running up the ground... but for not much ball... %s from %D,,,93
+294068,Andrew,Phillips,WS,0,3,-,3,3,4,0,1,0,0,1,0,0,0,0, Full Time,news,On in Q2 for Folau but only managed a single touch,sub,Started as a sub,35
+15,Israel,Folau,WS,0,0,-,0,4,9,0,3,0,0,0,0,2,0,0, Full Time,tonga,At FF on Markovic... %D and %F,subbed,Subbed off in Q2 for Phillips,62
+3,Dom,Tyson,WS,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,Did not get on the park,sub,Started as a sub,19
+31,Nathan,Wilson,WS,0,-5,-,-5,1,6,0,2,0,0,0,0,3,0,0, Full Time,news,%P and %F,,,94
+220010,Matthew,Boyd,WB,7,55,-,70,43,63,8,9,1,3,0,1,1,0,0, Full Time,news,%B among %O... also %T,,,91
+200079,Daniel,Giansiracusa,WB,8,54,-,71,45,60,11,3,6,0,0,0,1,0,0, Full Time,news,%D (including %K) and %M,,,92
+280442,Zephaniah,Skinner,WB,10,53,-,63,46,55,7,4,3,0,0,2,0,2,1, Full Time,news,First goal... %s from %D and %G,,,97
+200082,Ryan,Hargrave,WB,4,47,-,62,37,48,10,1,5,0,0,0,0,0,0, Full Time,news,%O and %M,,,90
+210049,Daniel,Cross,WB,10,47,-,56,42,54,3,8,4,1,0,0,0,1,0, Full Time,news,%2 Scully... %P and %M,subbed,Subbed off in Q2 for Howard,73
+280056,Ayce,Cordy,WB,7,41,-,54,29,37,4,2,1,4,4,2,0,0,0, Full Time,news,%P and %T,,,100
+290799,Tom,Liberatore,WB,8,41,-,56,30,42,5,3,2,4,0,1,1,0,0, Full Time,news,%O and %T with %M,,,69
+230255,Will,Minson,WB,8,36,-,42,31,37,3,3,1,1,7,1,0,1,0, Full Time,news,%H and %P plus %s,subbed,Subbed off in Q2 for Panos,70
+240212,Dylan,Addison,WB,2,35,-,44,29,33,6,2,3,0,0,4,0,0,0, Full Time,job,Minding Hampton... %M and %D... also %4 FF,,,93
+270186,Patrick,Veszpremi,WB,3,34,-,44,29,39,7,3,3,0,0,1,1,0,0, Full Time,news,%D and %M,,,90
+240156,Ryan,Griffen,WB,2,33,-,41,28,36,5,4,3,0,0,1,0,0,0, Full Time,tagged,Tagged by McDonald... %P and %M,,,86
+250601,Lukas,Markovic,WB,2,26,-,37,19,27,3,1,2,3,0,0,1,0,0, Full Time,job,Standing Folau... %D and %T with %M,,,100
+291545,Mitch,Wallis,WB,2,25,-,32,22,30,3,4,2,1,0,1,1,0,0, Full Time,news,Providing link play... %O and %M,,,88
+281078,Liam,Jones,WB,2,23,-,29,20,25,3,2,3,0,0,0,0,0,1, Full Time,news,%s from %G and %D on Davis,,,91
+281102,Matthew,Panos,WB,7,22,-,26,18,24,2,3,0,1,0,0,0,1,0, Full Time,news,On in Q2 for Minson... %P and %s,sub,Started as a sub,30
+291526,Luke,Dahlhaus,WB,1,19,-,26,15,22,2,2,1,2,0,0,1,0,1, Full Time,news,%s from %O and %T,,,84
+291810,Michael,Talia,WB,1,19,-,24,15,21,2,3,1,1,0,0,0,0,0, Full Time,,,,,100
+293847,Clay,Smith,WB,1,19,-,26,12,18,1,2,0,3,0,0,0,0,0, Full Time,,,,,82
+271439,Liam,Picken,WB,1,18,-,25,11,16,3,0,0,2,0,0,0,0,1, Full Time,news,%O,,,76
+281139,Easton,Wood,WB,1,13,-,17,13,18,2,2,2,0,0,0,1,0,0, Full Time,news,%P and %M,,,93
+281374,Christian,Howard,WB,0,8,-,10,7,9,1,1,1,0,0,0,0,0,0, Full Time,news,On in Q2 for Cross,sub,Started as a sub,24
+295712,Tory,Dickson,WB,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,,,,,81

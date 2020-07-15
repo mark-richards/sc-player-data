@@ -1,0 +1,48 @@
+Richmond,Tigers,Melbourne,Demons,R3,20.13.133,11.8.74, Full Time
+Apr 14,2012,1:45,MCG,Seven,200002,10340302,5015,0,,,,
+
+<em>wally2g</em>: time to watch that 3rd qtr again i think!<br><em>Tynath</em>: Tuck always scores well and plays like his dad but always gets dropped<br><em>Spitter9</em>: good recovery deledio. flower YOU RIEWOLDT<br><em>Sydney14</em>: Ellis robbed of SC points<br><em>haooyy</em>: melbourne disgraceful<br><em>Scratchy</em>: goddamit had Morris on field in DT not in SC&#044; and Ellis on field in SC not in DT.<br><em>asmodean</em>: fox footy used one direction to describe the foxtel cup game also. morons<br><em>mooose</em>: martin out...barlow in<br><em>97crows98</em>: 8 x 100's for Tiges & Dusty not one of them.<br><em>Mochasons</em>: WTF ablett has all the stats?<br><em>Juggalo</em>: Morris +4. Didn't he get a tackle?<br><em>lachybee76</em>: channel 7 commentators&#044; using one direction to describe the game .<br>
+200109,Shane,Tuck,RI,61,151,152,195,115,155,16,16,6,11,1,4,1,1,1, Full Time,star,%2 Trengove... %O and %T with %M and %s,,
+250298,Shaun,Grigg,RI,38,142,147,177,121,159,19,18,12,2,0,2,1,1,0, Full Time,hot,%D and %M,,
+290823,Reece,Conca,RI,38,138,115,174,110,141,16,13,8,6,0,4,0,2,0, Full Time,hot,%B among %O with %T and %M,,
+240130,Nathan,Foley,RI,36,125,114,163,93,128,16,12,6,8,0,1,0,0,2, Full Time,hot,%O and %M plus %T,,
+270896,Trent,Cotchin,RI,27,110,126,137,88,112,14,8,5,4,0,2,0,3,1, Full Time,hot,Tagged by McKenzie... %O and %T,,
+240336,Brett,Deledio,RI,26,109,108,134,91,119,14,12,7,2,2,0,0,2,0, Full Time,hot,%s from %P with %M,,
+250312,Bachar,Houli,RI,24,102,111,124,87,117,13,16,7,1,0,0,0,1,0, Full Time,hot,%D and %M plus %s,job,Has Davey
+250623,Robin,Nahas,RI,22,102,112,130,78,101,16,5,4,4,0,2,0,2,2, Full Time,lebanon,%s from %P and %M on Bartram... also %T,,
+240707,Daniel,Jackson,RI,20,91,77,116,75,99,12,9,7,3,0,1,1,1,0, Full Time,news,Started forward on Grimes... %D and %T,concussed,Had his head slammed into the artificial turf on member's wing by Grimes in Q1
+240546,Ivan,Maric,RI,28,86,94,103,76,93,2,10,3,6,24,3,2,1,0, Full Time,news,%H and %P plus %T... also %F,,
+261362,Alex,Rance,RI,19,85,93,112,70,90,11,6,10,3,0,1,1,0,0, Full Time,pumpkin,%M and %D with %T,job,On Clark
+280819,Dylan,Grimes,RI,14,79,92,101,68,87,9,9,9,2,0,2,1,0,0, Full Time,news,%P and %M,,
+210048,Chris,Newman,RI,10,74,68,96,56,78,14,6,4,2,0,0,0,0,0, Full Time,news,%D and %T with %M,,
+293713,Brandon,Ellis,RI,9,68,49,86,55,75,7,10,5,3,0,0,0,0,0, Full Time,cash,%O and %T with %M,,
+291437,Jake,Batchelor,RI,9,67,86,87,53,69,8,6,6,3,0,1,0,0,0, Full Time,job,Has Sellar... %D and %M,,
+220071,Brad,Miller,RI,17,65,67,78,56,66,5,5,4,2,0,2,0,3,0, Full Time,news,%s from %P and %M on McDonald,,
+290847,Dustin,Martin,RI,13,64,70,81,51,72,13,6,2,1,0,0,1,1,0, Full Time,news,Starting in the middle on Jones... %P and %M,,
+250395,Jack,Riewoldt,RI,14,61,62,77,55,72,8,6,6,1,0,0,2,1,3, Full Time,news,Booted %s from %D and %M on Frawley,,
+260433,Steven,Morris,RI,8,57,64,69,50,72,3,15,3,3,0,0,1,0,0, Full Time,cash,%O with %b by hand... also %T,job,Responsible for Bate
+260930,Shane,Edwards,RI,8,44,57,60,34,55,8,6,0,4,0,0,3,0,1, Full Time,news,%s from %O,,
+270941,Tyrone,Vickery,RI,8,35,42,44,27,34,4,1,1,2,4,0,0,1,0, Full Time,news,Booted %s from %P and %T on Rivers... also %H,subbed,Subbed off in Q4 for Maric
+270833,Addam,Maric,RI,0,5,2,6,4,6,1,1,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Vickery,sub,Started as a sub
+291313,Jeremy,Howe,ME,28,128,121,86,102,127,20,3,12,3,0,1,0,2,1, Full Time,bluemoon,Kicked %s from %P and %M,,
+220052,Mark,Jamar,ME,17,79,84,67,73,86,6,6,4,1,34,1,1,0,1, Full Time,news,%H and %P,,
+280972,Jack,Watts,ME,19,77,75,58,65,81,10,5,9,1,0,0,0,1,0, Full Time,news,Started on a wing... %O and %M,,
+280608,Jack,Trengove,ME,16,70,61,48,58,75,10,5,4,2,0,1,1,2,0, Full Time,news,%2 Tuck and was well beaten in the first half... played more forward in the second half... %s from %O and %M,,
+261297,Jack,Grimes,ME,10,65,66,54,51,69,8,6,5,4,0,1,1,0,0, Full Time,injured,Jackson went to him in a defensive role... %D and %M with %T... KOed in a Jackson tackle in Q4,,
+250222,Nathan,Jones,ME,14,63,91,36,53,75,12,5,3,3,0,2,4,1,0, Full Time,news,%2 Martin.... %D and %M plus %s,,
+250510,Matthew,Bate,ME,5,58,61,41,43,58,9,3,4,3,0,0,0,0,1, Full Time,news,%P and %M with %T and %s,,
+270985,Cale,Morton,ME,8,58,49,41,50,69,8,9,5,1,0,0,1,0,0, Full Time,news,%O and %M,,
+260288,James,Frawley,ME,4,57,91,32,40,54,11,2,2,3,0,2,0,0,0, Full Time,job,Has Riewoldt... %D,,
+270830,Colin,Garland,ME,10,54,74,39,39,54,9,1,4,4,0,0,1,0,0, Full Time,news,%P and %M,,
+270906,Jordie,McKenzie,ME,12,54,60,35,41,63,9,8,0,4,0,1,2,0,0, Full Time,news,%O,tagger,Tagging Cotchin
+291533,Tom,McDonald,ME,8,54,53,44,46,60,6,7,6,1,0,0,0,0,0, Full Time,job,Standing Miller... %P,,
+250418,James,Sellar,ME,10,53,59,46,44,53,5,3,4,2,4,1,0,1,1, Full Time,news,%D and %H with %M,,
+260176,James,Magner,ME,9,52,61,45,39,54,7,2,4,5,0,1,2,0,0, Full Time,cash,Slow start... %P,,
+240393,Mitchell,Clark,ME,10,51,77,34,47,57,8,0,5,1,0,2,3,2,3, Full Time,news,First goal... %s from %P and %G on Rance,,
+200002,Aaron,Davey,ME,9,49,62,45,38,51,5,5,3,4,0,2,1,0,0, Full Time,news,%P and %T with %M on Houli,,
+250245,Clint,Bartram,ME,4,47,66,32,35,48,8,2,3,3,0,1,1,0,0, Full Time,job,On Nahas... %P,,
+230250,Jared,Rivers,ME,8,46,62,37,44,60,6,6,7,1,0,0,3,0,0, Full Time,job,On Vickery... %M and %O,,
+250548,Lynden,Dunn,ME,9,37,23,24,32,39,5,2,2,0,0,0,0,2,0, Full Time,news,On in Q3 for Martin... %s from %P,sub,Started as a sub
+280579,Luke,Tapscott,ME,3,36,34,30,28,39,4,5,2,2,0,0,0,0,0, Full Time,news,%O and %M,,
+250345,Rohan,Bail,ME,3,35,33,31,27,39,4,4,2,3,0,0,1,0,0, Full Time,news,%D and %T,,
+280763,Stefan,Martin,ME,2,23,27,22,22,29,1,6,2,0,1,0,0,0,1, Full Time,news,%P and %M plus %s,subbed,Subbed off in Q3 for Dunn

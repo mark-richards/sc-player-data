@@ -1,0 +1,48 @@
+Brisbane,Lions,Port Adelaide,Power,R15,15.9.99,13.10.88, Full Time
+Jul 3,2011,1:10,Gabba,Fox Sports,261230,10311506,5583,116,Possible shower,22,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>theuncle</em>: $$$ sign for Karnezis Monty<br><em>Daniel_79</em>: Lobbe will be a great get next season. developing very nicely at the moment.<br><em>scoregasms</em>: shulz star<br><em>GoLions</em>: roooarrr!!!<br><em>GoLions</em>: we'll kick the winning score&#044; you'll heaar our mighty roar<br><em>smcp</em>: all for one and one for all&#044; we will answer to the call&#044; go the lions the brisbane lions<br><em>Centurions</em>: went adcock to enright very happy <br><em>dtownsend</em>: lol shulz kicks 7 goals and lobbe gets 6 points less<br><em>BluesFlag</em>: lucky spud<br><em>Mons00nal</em>: Adcock should have the mag glass&#044; 16 pts in a half<br><em>BluesFlag</em>: adcock break 70 SC or die mofo<br><em>champion</em>: lionnsss...needed that one<br>
+281373,Jack,Redden,BL,49,129,103,176,93,126,14,7,7,13,3,3,2,0,0, Full Time,gun,%D and %T with %M,,
+270919,Tom,Rockliff,BL,25,121,120,156,93,129,18,13,7,5,0,0,0,0,0, Full Time,magnet,%P and %M with %T,,
+210013,Ashley,McGrath,BL,21,102,121,129,80,103,12,7,5,5,0,1,0,2,4, Full Time,hot,%s from %D and %M with %T up forward on Logan,,
+250335,Matthew,Leuenberger,BL,27,100,128,120,83,100,7,6,3,5,37,1,0,0,0, Full Time,hot,%H with %D and %T... also %M,,
+980011,Luke,Power,BL,26,96,116,114,83,111,7,17,3,4,0,1,1,3,0, Full Time,star,Tagged by Jacobs... %P and %T with %M and %s,,
+281048,Ryan,Harwood,BL,21,95,85,121,73,98,10,12,4,6,1,3,0,0,1, Full Time,news,%O and %T with %M and %s,,
+200007,Jonathan,Brown,BL,21,92,84,112,79,92,11,3,7,1,1,2,0,4,1, Full Time,x-factor,Booted %s from %G and %O on Trengove,,
+980007,Simon,Black,BL,13,84,118,107,62,91,12,12,1,5,1,0,0,0,0, Full Time,news,%2 Cassisi... %O and %T,,
+240013,Andrew,Raines,BL,14,82,105,100,70,102,10,19,2,3,0,2,2,0,0, Full Time,tagger,Tagging Pearce... %D and %T with %F,,
+270512,Pearce,Hanley,BL,15,80,89,100,68,99,12,15,4,2,0,0,2,0,0, Full Time,job,Has Phillips... %B among %D with %M,,
+250053,Cheynee,Stiller,BL,19,75,66,94,62,81,9,8,6,2,0,0,0,1,0, Full Time,news,%O and %M with %T and %s,,
+261250,Sam,Sheldon,BL,22,69,72,92,55,75,6,5,3,7,0,1,3,2,0, Full Time,news,%s from %D and %T in his regular small forward role... also %M,,
+240087,Jed,Adcock,BL,12,67,71,84,56,75,9,9,6,1,0,0,0,0,0, Full Time,injured,%D and %M... cramped up in Q4 after coming back from an injury layoff and did not score afterwards,job,On Ebert
+280572,Jesse,O'Brien,BL,12,65,51,84,55,73,10,6,7,1,0,0,1,0,1, Full Time,news,%s from %O and %M,,
+290808,Patrick,Karnezis,BL,12,64,68,80,53,63,7,3,5,2,0,2,0,2,0, Full Time,news,%s from %G and %D on Salter... also %T,,
+290110,Mitchell,Golby,BL,5,47,41,63,37,51,6,4,4,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,
+230170,Joel,Patfull,BL,3,43,56,56,35,45,6,3,5,1,0,0,0,0,0, Full Time,job,Standing the resting ruckman which is mostly Daniel Stewart... %O and %M,,
+260975,James,Polkinghorne,BL,3,42,58,54,33,48,5,6,1,3,2,0,1,0,1, Full Time,tagger,Tagging Rodan... %O,,
+281329,Rohan,Bewick,BL,8,40,31,50,33,42,7,2,3,0,0,0,0,1,0, Full Time,news,On in Q3 for Retzlaff... %s from %D with %M,sub,Started as a sub
+292501,Bryce,Retzlaff,BL,7,39,36,51,33,40,6,1,6,0,0,0,0,0,1, Full Time,injured,%P and %G at CHF on Chaplin... broken hand in Q3,subbed,Subbed off in Q3 for Bewick
+292508,Niall,McKeever,BL,3,35,37,43,31,42,4,5,2,1,6,0,1,0,0, Full Time,job,Chasing Westhoff... %P and %T,bubble,Second game
+220062,Matt,Maguire,BL,3,32,46,38,30,42,4,8,2,0,0,1,1,0,0, Full Time,job,Well beaten by Schulz... %O,,
+230195,Jay,Schulz,PA,45,127,124,104,106,120,13,0,8,4,0,3,0,7,3, Full Time,hot,Booted %s from %P and %G on Maguire... also %T,,
+261396,Robbie,Gray,PA,27,102,113,73,75,100,15,6,4,6,0,2,0,1,1, Full Time,hot,First goal... %P and %M with %T plus %s,,
+261892,Hamish,Hartlett,PA,20,98,115,67,81,108,15,9,10,2,0,0,1,0,0, Full Time,news,Loose in defence... %O and %M with %T,,
+261230,Matthew,Lobbe,PA,26,94,118,93,80,109,6,13,3,7,22,0,3,0,0, Full Time,news,%H and %P with %T and %M... also %F,,
+250365,Travis,Boak,PA,15,82,93,60,70,100,10,17,4,2,0,0,1,0,1, Full Time,news,%O and %M with %T and %s,,
+210043,Domenic,Cassisi,PA,15,81,86,66,69,96,8,16,3,3,0,1,1,1,0, Full Time,sore,%2 Black... %O with %M and %T plus %s... shoulder knock in Q4,,
+240381,Simon,Phillips,PA,22,80,92,72,60,75,8,5,4,6,0,4,0,1,0, Full Time,sore,%s from %P and %M plus %T on Hanley... shoulder injury in Q4,,
+220090,David,Rodan,PA,15,74,65,47,58,76,12,4,5,2,0,0,0,1,1, Full Time,tagged,Tagged by Polkinghorne... %D and %M plus %s,,
+230242,Brett,Ebert,PA,16,74,68,56,61,78,9,6,5,2,0,0,0,2,0, Full Time,news,%s from %P and %M on Adcock... also %T,,
+230124,Tom,Logan,PA,9,72,84,55,57,78,9,10,4,3,0,1,0,0,0, Full Time,job,McGrath is his man... %D and %M,,
+260750,Justin,Westhoff,PA,13,72,75,47,56,73,12,3,7,2,1,0,0,0,0, Full Time,news,%O and %M with %T on McKeever,,
+250063,Danyle,Pearce,PA,9,68,64,37,51,75,13,7,2,3,0,0,1,0,0, Full Time,tagged,Tagged by Raines... %P and %T with %M,,
+240385,Matt,Thomas,PA,14,65,60,67,55,78,4,13,4,5,0,1,2,0,0, Full Time,news,%B among %D with %M and %T,,
+290540,Cameron,O'Shea,PA,13,65,60,51,55,73,8,8,6,2,0,1,1,0,1, Full Time,news,%M and %P with %T,,
+271078,Matthew,Broadbent,PA,8,59,56,43,49,64,8,6,6,1,1,0,0,0,0, Full Time,news,%P and %M,,
+260201,Daniel,Stewart,PA,10,50,37,47,39,50,5,1,4,4,7,0,1,0,1, Full Time,news,Booted %s from %P and %G on Patfull... also %H and %T in ruck support,,
+290802,Ben,Jacobs,PA,7,47,40,24,34,51,9,6,0,2,0,0,0,0,0, Full Time,job,Running with Power... %O and %T,,
+210020,Kane,Cornes,PA,5,46,41,39,37,49,5,5,4,2,1,0,0,0,0, Full Time,news,On in Q3 for Moore... %O and %M,sub,Started as a sub
+240294,Nick,Salter,PA,7,45,64,12,37,54,12,3,3,0,0,0,2,0,0, Full Time,job,Minding Karnezis... %M and %D,,
+280013,Jackson,Trengove,PA,5,42,57,31,35,51,7,3,4,3,0,0,3,0,0, Full Time,job,On Brown... %P and %M with %T,,
+240180,Troy,Chaplin,PA,4,40,44,27,36,48,6,5,5,0,0,0,1,0,0, Full Time,missing,Had Retzlaff until Q3.... %M and %O... went missing after QT,,
+280750,Andrew,Moore,PA,7,33,39,32,22,30,3,3,0,4,0,2,0,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q3 for Kane Cornes

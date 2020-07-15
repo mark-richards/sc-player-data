@@ -1,0 +1,48 @@
+St Kilda,Saints,Port Adelaide,Power,R17,13.14.92,14.13.97, Full Time
+Jul 20,2013,2.10,Docklands,Seven,261396,10391703,stk-v-port,0,Roof closed,13,,
+
+<em style='color:#000'>ballbag</em>: Nroo kept them in it<br><em style='color:#000'>jpk2goodes</em>: i wouldn't be proud of liking slipknot&#044; but i guess they suit angsty 12 year old kids.<br><em style='color:#000'>wadaramus</em>: The umps won the game for Port rosty&#044; what game were you watching?<br><em style='color:#000'>slipknot_4</em>: your a squeezer mate<br><em style='color:#000'>N_Riewoldt</em>: lol @heizenberg<br><em style='color:#000'>flagdog49</em>: Saints ripped off<br><em style='color:#000'>Heizenberg</em>: Nick roo cost the saints in the last <br><em style='color:#000'>LeonDavis2</em>: hoff massive sc with those marks<br><em style='color:#000'>rosty63</em>: glad wewon cause umps best players for saints<br><em style='color:#000'>PotLoser</em>: @matthius - he who laughs last laughs loudest<br><em style='color:#000'>Redraptor</em>: matthius: lol <br><em style='color:#000'>adz11</em>: Wtf happen to boak<br>
+220075,Leigh,Montagna,SK,36,140,145,183,104,145,24,11,7,6,0,0,0,0,1, Full Time,gun,%D and %T with %M,,,490400,135,511300,137,Centre,11,14,104.6,106.2,3.26,1.30
+220023,Nick,Dal Santo,SK,25,127,159,161,100,135,17,16,7,5,0,3,0,0,0, Full Time,magnet,%O and %T with %M,,,416300,115,495600,121,Centre,26,15,83.6,90.5,1.85,2.19
+210001,Nick,Riewoldt,SK,28,118,134,153,97,120,17,3,12,3,0,1,1,2,3, Full Time,cherry,%s from %P and %M on Trengove... also %T,,,464100,113,469800,118,Forward,12,14,102.2,104.6,15.01,8.62
+270912,Jack,Steven,SK,32,115,161,143,92,120,15,10,5,4,0,1,0,3,0, Full Time,hot,%2 Ebert... %O and %T with %M,,,428300,100,516400,86,Centre,3,15,92.1,103.7,1.45,1.59
+261323,Ben,McEvoy,SK,29,99,135,112,92,106,7,6,4,1,34,1,1,3,0, Full Time,news,%H and %P plus %M and %s,,,342600,51,457500,100,Ruck,5,15,78.9,98.9,3.72,6.02
+990028,Lenny,Hayes,SK,26,94,91,119,73,98,7,12,4,7,1,1,0,1,1, Full Time,tagged,Tagged by Moore... %D and %T with %M... also %s,,,425400,97,443400,95,Centre,7,8,89.3,89.6,0.65,0.76
+250340,David,Armitage,SK,43,87,78,119,64,95,11,9,1,10,0,3,4,0,2, Full Time,concussed,%P and %T... also %s and %F... had his head slammed into the ground in Q4 which shook him up,,,433200,71,470900,66,Centre,20,14,91.6,96.6,0.74,1.04
+261743,Clinton,Jones,SK,10,80,80,101,64,87,10,11,5,3,0,1,0,0,0, Full Time,tagger,Tagging Hartlett... %O and %M with %T,,,364400,88,370100,70,Centre,4,12,77.9,82,0.29,0.36
+295477,Josh,Saunders,SK,13,72,49,92,55,76,9,9,3,4,0,1,0,0,1, Full Time,sore,%s from %O and %M with %T... worse for wear after a clash with Jonas in Q3,,,147200,1,154000,-1,Back Centre,35,5,38.6,35.4,4.96,4.36
+240062,Farren,Ray,SK,8,64,68,80,53,76,13,9,3,0,1,0,1,0,0, Full Time,news,%O and %M,,,381500,77,408900,108,Centre,22,12,80,76.1,0.39,0.39
+230243,Sean,Dempster,SK,12,59,69,76,48,63,11,4,6,0,0,0,0,0,0, Full Time,news,%P and %M,,,275100,73,341300,61,Back,24,12,59.7,67,0.55,0.58
+250703,James,Gwilt,SK,8,59,72,74,48,66,9,8,4,1,0,0,0,0,0, Full Time,job,Donuts in Q1... on Schulz... %P and %M,,,268200,52,346300,94,Back,33,10,61.5,77.5,1.59,1.80
+270570,Trent,Dennis-Lane,SK,9,58,48,78,42,54,6,2,4,5,0,1,0,0,3, Full Time,news,%s from %P and %M on Pittard... also %T,,,277400,105,294700,98,Forward,8,8,51.9,52.5,0.43,0.84
+291773,Jack,Newnes,SK,9,54,30,72,43,63,7,7,3,4,0,0,2,0,0, Full Time,news,Did not touch it in Q1... %O and %T with %M,job,Takes Monfries,304900,68,334100,86,Centre,16,13,56.6,59.8,0.55,0.42
+280053,Tom,Simpkin,SK,8,48,59,64,42,57,10,3,6,0,0,0,2,0,0, Full Time,job,Butcher is his man... %O and %M...a lso %F,,,254100,112,298800,114,Back,31,2,26,35.5,0.24,0.39
+290757,Jimmy,Webster,SK,4,48,50,63,38,54,6,6,3,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,,168200,27,157400,29,Back,29,7,41.1,39,2.79,4.08
+200108,Stephen,Milne,SK,9,44,34,57,33,42,7,1,2,2,0,1,0,1,0, Full Time,news,%s from %D and %M on Jonas,,,279100,31,306500,28,Forward,44,11,54.2,57.8,0.91,1.15
+294266,Tom,Hickey,SK,4,44,45,52,37,48,3,6,1,2,11,0,0,0,1, Full Time,news,%H and %P with %T and %s,,,234400,50,260600,63,Ruck,1,7,48.6,51.7,0.99,0.91
+290422,Tom,Lee,SK,10,42,68,50,36,45,2,5,2,2,0,0,0,2,0, Full Time,news,%s from %D and %T on Carlile,,,166500,-25,183000,-43,Forward,9,4,52,58,11.67,13.54
+291518,Thomas,Curren,SK,8,38,67,47,30,36,4,3,1,2,0,3,0,1,0, Full Time,rookie,First game.. on in Q3 for Roberton... %O,sub,Started as a sub,108500,,115900,,Centre,43,0,0,0,0.19,0.22
+280933,Dylan,Roberton,SK,2,26,26,32,20,30,6,4,0,0,0,0,0,0,0, Full Time,concussed,%D including %K... copped a bump to the head by Jonas in Q2,subbed,Subbed off in Q3 for Curren,270200,31,316500,44,Back,17,15,67.7,78.5,3.51,5.05
+280317,Rhys,Stanley,SK,0,8,19,11,10,16,2,2,1,0,1,0,2,0,0, Full Time,job,Has Westhoff... no touches in the first half... %P,,,224200,65,260700,83,Forward,28,15,50.2,60.9,1.01,0.74
+261230,Matthew,Lobbe,PA,50,131,127,120,109,133,10,7,5,7,40,1,1,1,0, Full Time,star,%H and %D with %T and %M... %s as well... had a massive Q1 and went on with it in Q2,,,353500,73,392900,77,Ruck,23,12,67.9,74.7,0.84,0.68
+291962,Chad,Wingard,PA,22,108,130,79,90,113,14,8,9,2,1,1,0,2,1, Full Time,hot,%O and %M plus %T and %s,,,425100,121,450900,114,Centre,20,15,89.2,95.7,6.27,7.96
+260750,Justin,Westhoff,PA,20,90,152,76,77,99,9,9,7,3,2,0,1,2,1, Full Time,x-factor,%s from %P and %M on Stanley... also %H and %T.. his intercept marks in the last few minutes saved the game for Port,,,403800,92,452900,122,Forward,39,14,90,97.8,7.99,7.69
+261892,Hamish,Hartlett,PA,21,90,88,70,69,98,13,7,5,7,0,1,3,0,2, Full Time,tagged,Tagged by Jones... %P and %T with %M... also %s,,,374700,115,422600,108,Back Centre,8,15,77.9,88.2,17.37,18.80
+271078,Matthew,Broadbent,PA,14,87,77,34,67,93,20,5,5,1,0,1,1,0,0, Full Time,news,%O and %M,,,375400,122,399400,121,Centre,5,15,71.2,76.3,0.65,0.68
+261911,Brad,Ebert,PA,14,83,90,48,64,85,15,5,6,2,1,1,0,0,0, Full Time,news,%2 Steven... %P and %M,,,532900,121,531400,130,Centre,7,15,102.5,99,2.68,0.84
+261396,Robbie,Gray,PA,19,81,107,64,64,85,9,10,2,4,0,2,0,1,4, Full Time,news,%s from %D and %M with %T,,,351900,47,400400,16,Forward Centre,9,12,67.5,77.3,4.46,4.30
+290156,Jasper,Pittard,PA,16,74,86,41,62,82,14,2,5,2,0,1,3,2,1, Full Time,news,%P and %M plus %T and %s,job,Dennis-Lane is his man,212900,51,231400,44,Back,29,8,53,59.4,9.74,11.01
+230195,Jay,Schulz,PA,15,68,76,62,56,70,6,6,6,3,0,1,0,1,1, Full Time,news,Booted %s from %D and %M on Gwilt... also %T,,,371500,103,394100,118,Forward,28,15,73.9,81.9,2.10,1.86
+270779,Paul,Stewart,PA,12,65,53,38,53,70,12,3,7,1,0,0,1,0,1, Full Time,news,%D and %M plus %s,,,225800,65,221300,48,Forward,14,9,50.3,46.3,0.41,0.39
+240290,Angus,Monfries,PA,11,60,79,47,49,63,7,6,4,2,0,1,0,1,0, Full Time,news,%s from %D and %M on Newnes,,,389400,71,436600,83,Forward Centre,6,15,82.1,91.1,10.60,13.99
+290540,Cameron,O'Shea,PA,14,60,62,42,48,70,10,5,4,4,1,0,3,0,0, Full Time,news,%P and %T... also %M and %F,,,348600,98,364700,83,Back,13,15,71.3,74.3,3.36,4.34
+250365,Travis,Boak,PA,7,53,89,47,43,63,4,14,0,3,0,1,0,0,0, Full Time,news,%O with %b by hand... also %T,,,471200,96,504700,85,Centre,1,14,101.6,105.9,3.49,2.94
+280877,John,Butcher,PA,15,51,61,40,46,52,5,2,4,0,0,1,0,3,1, Full Time,news,First goal... %s from %P and %M on Simpkin,,,210100,23,245800,30,Forward,11,4,47.8,46.3,0.58,0.40
+292145,Thomas,Jonas,PA,8,46,57,33,32,45,8,0,3,4,0,0,1,0,0, Full Time,job,Minding Milne... %D and %M with %T,mrp,A high bump on Roberton in Q2 will be looked at,242300,70,291500,86,Back,42,15,47.7,56.7,0.59,0.58
+270606,Kane,Mitchell,PA,9,45,75,32,37,48,6,4,3,1,0,0,0,1,0, Full Time,news,On in Q3 for Neade... %s from %O and %M,sub,Started as a sub,203700,30,189000,42,Centre,37,8,40.6,35,7.29,6.60
+280013,Jackson,Trengove,PA,8,43,53,47,33,45,2,7,2,4,0,1,0,0,0, Full Time,job,Following Riewoldt... %P and %T,,,236400,55,266600,46,Back,12,8,45.8,54.1,0.50,0.49
+295054,Sam,Colquhoun,PA,3,35,36,30,29,39,4,4,3,2,0,1,1,0,0, Full Time,news,%D and %M,,,102700,-38,109500,-16,Centre Back,30,2,52.5,42,9.24,10.39
+294318,Oliver,Wines,PA,2,34,24,28,24,34,4,4,0,3,1,1,0,0,0, Full Time,news,%D,,,365500,85,389100,102,Centre,16,15,79.7,81.1,21.46,20.82
+280750,Andrew,Moore,PA,4,33,40,30,30,45,3,8,2,2,0,0,2,0,0, Full Time,tagger,Tagging Hayes... %D,,,330600,87,338400,71,Centre,26,8,66.4,66.4,0.20,0.18
+250688,Alipate,Carlile,PA,3,27,31,25,22,30,3,2,3,2,0,0,1,0,0, Full Time,job,Standing Lee... %M and %O with %T,,,220500,47,295700,65,Back,27,14,51.5,65.4,1.87,0.59
+294604,Jake,Neade,PA,1,17,9,20,10,15,1,1,0,3,0,0,0,0,0, Full Time,news,Donuts in Q1... %O and %T,subbed,Subbed off in Q3 for Mitchell,192300,71,221900,101,Forward Centre,32,14,48.1,53.3,16.64,16.25

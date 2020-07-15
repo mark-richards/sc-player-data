@@ -1,0 +1,48 @@
+Geelong,Cats,West Coast,Eagles,PF,17.15.117,10.9.69, Full Time
+Sep 24,2011,2:20,MCG,Ten,100000,10320302,7635,196,Isolated showers,17,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tGE"></b> Rilian</em>: 2/3 umps from WCE game last week. They over umpire&#044; bad both ways. Better not get the GF next week&#044; will ruin it!<br><em>footyhack</em>: it would be good if kelly getts a week&#044;pods is playing sore&#044;steve j dose not get up same gos for for tom  h h and bartel<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> old_shepp</em>: Siren - thank God<br><em>freaks</em>: give the Star to the umpired&#044; they did a fantastic job of giving Geelong 5 of those 17 goals!<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> old_shepp</em>: I know Gaff only young but his disposal is Rhys Palmer like<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> The BeRad</em>: Mackie played good... but Kelly so damaging around the stoppages.<br><em>BarlowGod</em>: gun watres<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> cheese</em>: next year&#044; masten out rosa back in<br><em title="S.N.A.F.U">s.n.a.f.u</em>: mackie star for mine<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> old_shepp</em>: Waters and NicNat have saved eagles from a mother of a hiding<br><em>Grazz</em>: Waters has shown plenty of ticker.<br><em title="150+">150+</em>: Give masten the bin cause he is garbage<br>
+230248,Andrew,Mackie,GE,24,116,141,151,92,118,22,5,11,1,0,2,0,0,1, Full Time,x-factor,Starting on a wing on Embley then drifting back to be loose in defence... that matchup defined the match as Mackie dominated... %O and %M,,
+220058,James,Kelly,GE,26,109,137,143,84,121,17,12,5,6,0,0,2,0,1, Full Time,star,%2 Kerr... %D and %M plus %T and %s,mrp,Dropped his knees into Kerr's back in Q1 which will be scrutinised
+250321,Joel,Selwood,GE,31,107,127,138,79,108,16,9,3,6,0,2,0,1,0, Full Time,gun,Tagged by his brother Scott Selwood... %O and %T with %M and %s,,
+200037,Cameron,Ling,GE,21,90,94,119,68,96,12,9,5,6,0,0,1,0,0, Full Time,news,%O and %M with %T,tagger,Tagging Priddis
+200039,Paul,Chapman,GE,20,90,95,114,74,96,14,7,8,1,0,0,0,1,0, Full Time,news,%D and %M on Butler,,
+200035,Corey,Enright,GE,15,86,106,115,64,90,16,5,5,4,0,0,1,0,0, Full Time,news,%P and %M,job,Minding Darling
+230214,Mathew,Stokes,GE,21,86,95,108,70,97,8,13,4,5,0,0,1,1,1, Full Time,news,%O and %T on Schofield,,
+200131,James,Podsiadly,GE,24,84,109,100,74,88,8,7,6,1,1,2,0,3,3, Full Time,news,Booted %s from %D and %G on Mackenzie,sore,Sore right quad in Q4
+220054,Steve,Johnson,GE,25,83,109,109,60,80,11,4,3,6,0,1,0,1,2, Full Time,injured,%s from %P and %M with %T on Adam Selwood... left knee injury in Q3 when Embley fell on him... looked like dislocation of the patella,subbed,Subbed off in Q3 for Duncan
+261497,Harry,Taylor,GE,14,83,95,108,62,84,11,8,4,5,0,2,0,0,0, Full Time,garbage,Enjoyed himself in Q4 garbage time... %D and %M,job,Standing Lynch
+200034,Joel,Corey,GE,19,78,51,103,57,82,11,8,2,6,0,1,1,0,1, Full Time,news,%2 Priddis... %O,,
+210059,Josh,Hunt,GE,18,72,66,90,60,78,10,7,6,1,0,0,0,1,0, Full Time,job,Chasing LeCras... %P and %M,,
+220007,Jimmy,Bartel,GE,15,69,100,88,59,81,10,8,5,2,0,0,2,1,0, Full Time,news,%2 Shuey... %D and %M with %T,,
+260261,Trent,West,GE,15,69,72,87,58,71,9,0,3,3,19,1,2,1,1, Full Time,news,%H and %P with %M and %s,,
+261510,Tom,Hawkins,GE,16,68,82,86,56,68,8,2,6,2,1,0,0,2,1, Full Time,sore,Kicked %s from %D and %G on Glass... knock to a shin in Q4,,
+280918,Allen,Christensen,GE,15,68,77,83,59,81,9,10,2,2,0,1,2,2,0, Full Time,news,%s from %P on Hurn,,
+250290,Travis,Varcoe,GE,10,59,50,71,50,62,7,5,3,1,0,1,0,2,2, Full Time,news,First goal... %s from %O,,
+980064,Brad,Ottens,GE,20,58,58,77,49,65,3,4,2,7,17,2,4,0,0, Full Time,news,%H and %P with %M and %T... also %F,,
+980037,Matthew,Scarlett,GE,5,57,77,71,48,63,5,9,5,2,0,1,0,0,0, Full Time,job,Starting on Cox... %P and %T with %M,,
+230125,Tom,Lonergan,GE,7,36,39,50,32,42,6,1,6,1,0,0,2,0,0, Full Time,job,Has Kennedy... %O and %F,,
+990076,David,Wojcinski,GE,9,36,58,44,32,42,6,4,2,0,0,1,1,1,0, Full Time,job,Running off Masten... %O plus %s,sore,Back soreness in Q3
+281065,Mitch,Duncan,GE,2,20,20,27,17,24,3,2,2,1,0,0,1,0,0, Full Time,news,On in Q3 for Johnson,sub,Started as a sub
+240016,Beau,Waters,WC,31,140,141,80,113,153,25,13,11,2,0,1,1,0,0, Full Time,hot,Loose in defence... %O and %M,,
+210018,Daniel,Kerr,WC,22,113,108,73,90,122,17,13,5,3,0,1,0,1,2, Full Time,hot,%2 Kelly... %P and %T,,
+271045,Nic,Naitanui,WC,21,91,141,75,80,97,7,11,1,2,22,3,0,2,0, Full Time,news,%H and %P plus %s,,
+240124,Matt,Priddis,WC,18,87,88,65,66,94,11,14,1,5,1,2,0,0,0, Full Time,pinkpig,Tagged by Ling... %P and %T,garbage,Racked it up in Q4 junk time
+270928,Scott,Selwood,WC,26,87,84,86,71,94,6,12,5,6,0,2,1,1,1, Full Time,news,%O and %T with %M,tagger,Tagging his brother Joel Selwood
+240159,Sam,Butler,WC,13,84,90,51,63,84,15,4,6,3,0,1,0,0,0, Full Time,job,Matched up on Chapman... %O and %M,,
+280078,Luke,Shuey,WC,15,81,80,41,61,84,16,5,2,3,0,2,1,1,0, Full Time,news,%2 Bartel... %O and %T plus %M and %s,,
+290801,Andrew,Gaff,WC,13,74,67,55,65,90,9,14,6,1,0,0,1,0,0, Full Time,news,%D,,
+240283,Shannon,Hurn,WC,9,70,102,32,56,78,14,8,4,0,0,0,0,0,0, Full Time,job,Minding Stokes... %D and %M,,
+240406,Josh J.,Kennedy,WC,16,60,71,51,53,63,5,5,4,1,0,1,0,3,0, Full Time,news,Booted %s from %D on Lonergan,,
+230254,Adam,Selwood,WC,4,53,40,44,41,57,6,7,3,3,0,0,0,0,0, Full Time,job,Going with Johnson... %P and %T,,
+290838,Jack,Darling,WC,11,53,56,44,45,58,6,4,5,2,0,0,1,1,1, Full Time,news,%s from %O and %M on Enright,,
+990020,Andrew,Embley,WC,8,53,17,20,42,63,13,3,2,2,1,0,3,0,2, Full Time,news,Mackie starting on him then zoning off... %O and %M plus %s... disposal efficiency was terrible,,
+261290,Chris,Masten,WC,8,51,51,39,43,63,6,11,2,2,0,0,1,0,0, Full Time,news,%P on a HFF on Wojcinski... also %F,,
+240119,Mark,LeCras,WC,9,50,66,44,39,51,5,4,3,3,0,0,0,1,0, Full Time,news,%s from %D and %T with %M on Josh Hunt,,
+261214,Will,Schofield,WC,4,40,45,28,32,46,6,5,2,2,0,0,1,0,1, Full Time,job,Has Stokes... %D and %T plus %s,sore,Right shoulder problem in Q3
+200112,Dean,Cox,WC,4,35,54,26,38,48,3,9,0,0,12,5,3,0,0, Full Time,cold,%D... gets Scarlett when forward... also %H and %F,,
+220061,Quinten,Lynch,WC,4,35,38,25,34,45,5,5,5,0,0,1,2,0,0, Full Time,crab,%D and %M on Taylor,sore,Shaken in a contest with Wojcinski in Q1
+200074,Darren,Glass,WC,3,30,41,35,23,30,1,4,2,3,0,1,0,0,0, Full Time,tomahawk,Responsible for Hawkins... %O and %M with %T,,
+280441,Patrick,McGinnity,WC,2,28,18,24,21,30,3,4,1,2,0,0,0,0,0, Full Time,news,On in Q3 for Nicoski,sub,Started as a sub
+230281,Mark,Nicoski,WC,2,20,18,18,14,21,2,3,0,2,0,0,0,0,0, Full Time,cold,%O and %T,subbed,Subbed off in Q3 for McGinnity
+250317,Eric,Mackenzie,WC,2,17,29,20,16,24,1,3,2,2,0,0,2,0,0, Full Time,ipod,Standing Podsiadly... %D,,

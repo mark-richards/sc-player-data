@@ -1,0 +1,56 @@
+Western Sydney,,Gold Coast,GC,W1,0.4.3.27,0.8.4.52, Half Time
+Feb 19,2011,9:25,Blacktown,Fox Sports,,10300115,1226003080386,5270,Windy,36
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em style='color:#0b0'>Khoa</em>: hi<br><em>tom_scully</em>: hunt is from NZ monty<br><em title="RAFA">rafa</em>: anyone considering bennell over swallow?<br><em>MarcMurphy</em>: @Dylbags&#044; I don't think he will be worth looking at with the other midfielders they have.<br><em>Dylbags</em>: What are people now making of Maverick Weller after tonight?<br><em>BGriff32</em>: Hows Hunt been looking???<br><em>thorgils</em>: Chicken or fish?<br><em>thorgils</em>: Why is the sky blue?<br><em>BGriff32</em>: no iles??? whats the go?<br><em>Roo rocks!</em>: what happened to toy??<br><em>thollo</em>: @ mdon11 lol gd jk<br><em>meloduncan</em>: whats the go with Zack Smith not playing in both games????<br>
+291928,Gerald,Ugle,WS,3,32,-,44,22,30,4,1,2,3,0,0,0,0,0, Half Time,news,%D and %T plus %M
+261841,Jonathan,Giles,WS,3,31,-,37,27,33,4,3,2,0,6,1,0,0,0, Half Time,news,%H and %P with %M
+250534,Marcus,Crook,WS,2,29,-,39,24,33,7,1,3,0,0,0,1,0,0, Half Time,news,Industrious across halfback... %O with %k by foot plus %M
+260290,Stephen,Clifton,WS,1,29,-,38,20,30,7,2,0,1,0,0,0,0,0, Half Time,news,%D including %K
+281039,Alex,Carey,WS,2,29,-,38,21,27,4,2,1,2,0,2,0,0,0, Half Time,news,%P and %T
+250116,Mitchell,Daniher,WS,2,26,-,34,22,30,4,3,2,1,0,1,1,0,0, Half Time,news,%D and %M
+290671,Anthony,Miles,WS,2,25,-,32,20,27,3,3,2,1,0,0,0,0,0, Half Time,news,%O and %M
+291783,Dylan,Shiel,WS,2,24,-,30,18,27,2,5,0,2,0,0,0,0,0, Half Time,news,%O including %b by hand... also %T
+291492,Josh,Bruce,WS,2,22,-,26,20,25,2,4,2,0,0,1,0,0,1, Half Time,news,Played forward on Hutchins... %D and %M
+293188,Jimmi,Savage,WS,7,22,-,26,20,24,2,2,2,0,0,0,0,1,0, Half Time,news,Kicked %s from %P and %G on Coad
+291964,Jack,Hombsch,WS,7,21,-,24,19,24,2,3,1,0,0,0,0,1,0, Half Time,news,%s from %D
+293845,Jeremy,Cameron,WS,2,19,-,23,17,22,2,3,2,0,0,0,0,0,1, Half Time,news,%B among %D with %M and %s
+292124,Isiah,Stevens,WS,6,18,-,22,17,19,3,0,1,0,0,2,1,1,1, Half Time,news,Booted %s from %D on Toy
+291879,Damian,Williams,WS,1,17,-,20,14,21,3,4,0,0,0,0,0,0,0, Half Time,job,Minding Russell... %P
+290306,Curtly,Hampton,WS,1,15,-,20,15,24,2,4,1,1,0,0,2,0,0, Half Time,news,%P with %B... also %F
+290765,Sam,Darley,WS,1,12,-,16,13,21,3,3,1,0,0,0,2,0,0, Half Time,news,%P and %F
+291927,Simon,Tunbridge,WS,0,12,-,16,9,12,3,0,1,0,0,0,0,0,0, Half Time,news,At FF on Tape... %P
+291802,Tomas,Bugg,WS,1,11,-,12,10,15,1,4,0,0,0,0,0,0,0, Half Time,news,%P with all but one by hand
+291985,Jarrod,Harding,WS,6,11,-,12,10,12,1,1,0,0,0,0,0,1,0, Half Time,news,%s from %P
+294920,Rohan,Bates,WS,0,11,-,14,9,12,2,1,1,0,0,0,0,0,0, Half Time,news,Started as a sub... on in Q2... %O
+294919,Tim,Barton,WS,0,10,-,13,7,9,1,1,0,1,0,1,0,0,0, Half Time,job,At FB on Dixon... %O
+294283,Rhys,Cooyou,WS,0,6,-,8,4,6,0,1,0,1,0,0,0,0,0, Half Time,news,Not used a lot in this game... just the %p touch
+290687,Kurt,Aylett,WS,0,5,-,6,4,6,1,1,0,0,0,0,0,0,0, Half Time,news,Started as a sub... on in Q2... %D
+291909,Adam,Flagg,WS,0,3,-,4,2,3,1,0,0,0,0,0,0,0,0, Half Time,news,Just a single disposal
+294068,Andrew,Phillips,WS,0,3,-,3,3,3,0,0,0,0,3,0,0,0,0, Half Time,news,%H
+260250,Ben,Hughes,WS,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Half Time,news,Only %p touch
+250249,Danny,Stanley,GC,16,72,-,61,51,67,9,3,4,6,0,2,0,0,1, Half Time,hot,%O and %T plus %M and %s
+210014,Daniel,Harris,GC,8,42,-,32,35,45,5,4,3,1,0,0,0,1,0, Half Time,news,Lockity lock lock lock... %P and %M plus %s
+291594,Harley,Bennell,GC,9,42,-,36,36,45,4,4,4,1,0,0,0,1,0, Half Time,news,Pleasing that he works hard to be a link man... %P and %M plus a late %s
+290520,Alik,Magin,GC,8,32,-,21,30,39,4,4,1,0,0,0,1,2,0, Half Time,news,%s from %P as a small forward
+281025,Luke,Russell,GC,7,29,-,20,23,30,4,2,1,1,0,0,0,1,0, Half Time,news,Playing FP again... %O and %s
+281044,Marc,Lock,GC,2,28,-,12,22,30,6,2,2,0,0,0,0,0,0, Half Time,news,%O with %k by foot... also %M
+293223,Sebastian,Tape,GC,2,27,-,20,21,27,4,1,3,1,0,0,0,0,0, Half Time,job,Standing Tunbridge... %O and %M
+260630,Michael,Coad,GC,1,25,-,18,19,24,4,0,3,1,0,0,0,0,0, Half Time,job,Minding Savage... %M and %P
+280711,Charlie,Dixon,GC,7,25,-,20,20,24,3,0,2,1,0,0,0,1,0, Half Time,news,Booted %s from %G and %D at FF on Barton
+281076,Hayden,Jolly,GC,1,25,-,17,22,30,3,6,1,0,0,1,0,0,0, Half Time,news,%B among %P
+290817,Brandon,Matera,GC,8,25,-,15,23,28,4,1,2,0,0,1,1,1,1, Half Time,news,%s from %O and %M
+290832,David,Swallow,GC,2,25,-,20,18,27,3,4,0,2,0,0,0,0,0, Half Time,news,Looks a ready-made fantasy player... %O and %T
+290627,Dion,Prestia,GC,1,24,-,15,20,30,4,4,1,1,0,0,1,0,0, Half Time,news,%B among %O
+290815,Thomas,Nicholls,GC,2,23,-,18,16,22,3,2,0,2,1,1,0,0,0, Half Time,fiji,%P and %T
+240254,Jarrod,Harbrow,GC,7,21,-,15,21,30,2,6,0,0,0,0,1,1,0, Half Time,news,%P and %s
+292512,Karmichael,Hunt,GC,1,21,-,18,17,24,2,4,1,1,0,0,0,0,0, Half Time,news,Has done nothing wrong all night... %D
+200020,Josh,Fraser,GC,1,19,-,17,13,18,2,1,0,2,2,0,0,0,1, Half Time,news,Started as a sub... on in Q2... %P and %T plus %s... also %H
+290790,Matthew,Shaw,GC,1,19,-,9,15,24,4,3,0,1,0,0,1,0,0, Half Time,news,%O including %B
+290539,Joshua,Toy,GC,1,17,-,10,14,18,3,1,2,0,0,0,0,0,0, Half Time,injured,Ran off Stevens for %M and %P... corked right thigh got him subbed off late in Q1
+290811,Jack,Hutchins,GC,0,15,-,4,11,15,4,0,1,0,0,0,0,0,0, Half Time,job,On Bruce... %O
+240712,Michael,Rischitelli,GC,0,13,-,8,11,15,2,2,1,0,0,0,0,0,0, Half Time,news,Not used in the guts much all night... %P
+290577,Jake,Crawford,GC,0,11,-,6,11,15,2,2,1,0,0,1,1,0,0, Half Time,news,%O
+270994,Joseph,Daye,GC,0,9,-,0,6,9,3,0,0,0,0,0,0,0,0, Half Time,news,%P
+281024,Maverick,Weller,GC,0,7,-,4,6,9,1,2,0,0,0,0,0,0,0, Half Time,news,%D
+291304,Daniel,Gorringe,GC,0,6,-,0,8,13,2,2,0,0,1,1,2,0,0, Half Time,news,%P and %F
+261083,Nathan,Krakouer,GC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and not used

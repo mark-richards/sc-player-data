@@ -1,0 +1,48 @@
+Gold Coast,Suns,Carlton,Blues,R18,11.11.77,16.24.120, Full Time
+Jul 27,2013,1.45,Gold Coast,Seven,220001,10391802,gcfc-v-carl,0,Possible shower,21,,
+
+<em style='color:#000'>rosty63</em>: dam p.n.g curse gaj only got 118<br><em style='color:#000'>vcgb15</em>: Kreuzer star&#044; IMO&#044; 16 hit outs to advantage<br><em style='color:#000'>alftiles44</em>: what about SJ as c<br><em style='color:#000'>bebobagger</em>: GAJ capt or pendles swan or griffen?<br><em style='color:#a0a'>ConnorZ1</em>: selwood at skilled against the saints easy<br><em style='color:#000'>Woodie</em>: Ablett 120sc<br><em style='color:#000'>casey22</em>: A return from Gibbs at last<br><em style='color:#000'>colin wood</em>: Bin for fonns<br><em style='color:#000'>Woodie</em>: Murf 94sc<br><em style='color:#000'>Dos95</em>: Gibbs great garbage time<br><em style='color:#000'>GoCrowz98</em>: Lovely Gibbs :)<br><em style='color:#000'>1Week</em>: i thought that too dangercrow<br>
+220001,Gary,Ablett jnr,GC,26,114,116,144,89,126,17,15,3,5,0,1,1,1,0, Full Time,magnet,Tagged by Curnow... %P and %T plus %M and %s,,,585000,108,668300,117,Centre,9,15,123.7,138.1,65.99,64.16
+290790,Matthew,Shaw,GC,21,97,86,121,81,105,10,12,8,3,0,1,0,1,0, Full Time,news,%P and %M plus %s,job,On a HBF on Robinson,353800,63,378900,87,Back,26,16,71.1,73.5,0.79,0.47
+296735,Aaron,Hall,GC,27,95,96,124,72,90,11,3,6,6,0,2,0,2,0, Full Time,news,%s from %O and %M with %T on Tuohy,,,276100,105,279500,122,Forward,33,16,61.9,59.1,0.58,0.49
+280711,Charlie,Dixon,GC,22,93,104,113,79,97,10,7,6,2,10,1,0,2,0, Full Time,news,Starting forward on Jamison... %s from %P and %M... %H in ruck support then had to take all the ruck when Nicholls got injured in Q3,,,359900,145,461300,185,Back,23,7,77.9,96.7,1.72,2.24
+250249,Danny,Stanley,GC,32,89,78,116,70,99,7,12,4,8,0,0,2,1,0, Full Time,news,%2 McLean... %D and %T with %M... also %s and %F,,,359600,103,372100,109,Back,25,12,77.6,75.6,0.92,0.28
+294613,Jaeger,O'Meara,GC,21,87,95,112,71,102,8,15,5,6,0,0,2,0,0, Full Time,news,%2 Judd... %O and %T with %M... also %F,,,429400,59,452600,84,Centre,1,16,91.1,92.3,41.05,42.38
+240254,Jarrod,Harbrow,GC,9,74,71,95,58,78,14,6,5,1,0,1,0,0,0, Full Time,news,%2 Lucas off a wing... %P and %M,,,407200,114,429000,112,Back,5,16,84.7,86,5.48,2.00
+291753,Sam,Day,GC,17,71,62,89,58,72,7,3,3,4,7,1,1,2,2, Full Time,news,%s from %D and %T on Watson,,,226200,30,289500,41,Forward,12,16,50.6,59.6,2.85,2.29
+281024,Maverick,Weller,GC,14,64,54,85,51,69,7,6,6,4,0,0,1,0,0, Full Time,news,%O and %M plus %T,job,In defence on Yarran,271500,75,286500,92,Back,4,2,50,43,0.12,0.15
+281025,Luke,Russell,GC,9,64,87,80,53,72,7,10,5,2,0,0,0,0,0, Full Time,job,The big job on Garlett... %D and %M with %T,,,324300,57,337000,50,Back,8,12,62.2,60.4,0.25,0.32
+220013,Campbell,Brown,GC,14,63,95,80,52,69,13,4,4,0,0,1,1,1,0, Full Time,switch,%D and %M on Tuohy... switched as loose man in defence in Q2,,,292800,56,327700,53,Forward,30,10,64.9,71.6,1.02,1.03
+290527,Trent,McKenzie,GC,8,60,102,77,45,63,9,7,2,3,0,1,0,0,0, Full Time,news,%O and %T,job,Started on Henderson at FB then moved to Rowe in Q2,399300,59,461800,92,Back,18,12,88.7,96.2,4.08,3.18
+291594,Harley,Bennell,GC,13,59,61,72,48,65,11,6,2,0,1,0,0,1,1, Full Time,news,%2 Murphy... %D and %s,,,397700,94,455100,122,Centre,11,9,79.4,85.9,0.67,0.62
+261756,Greg,Broughton,GC,9,58,52,79,45,60,9,2,6,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,,334600,25,386400,17,Back Forward,36,12,70.8,77.8,2.75,2.72
+293223,Seb,Tape,GC,8,47,48,62,34,48,3,6,2,5,0,0,0,0,0, Full Time,job,Has Betts... %D and %T,,,216400,34,247200,41,Back,48,2,53,56.5,0.26,0.32
+296940,Tim,Sumner,GC,3,46,44,59,38,52,8,5,3,1,0,1,1,0,1, Full Time,news,%D on Gibbs,in,Late replacement for Dion Prestia,188500,22,184000,22,Forward,39,5,48.8,48,2.92,2.77
+230015,Jared,Brennan,GC,9,44,42,61,31,40,5,0,4,4,0,0,0,0,1, Full Time,news,Starting forward on Walker... %s from %D and %T with %M,,,339800,94,375800,118,Back,3,12,70,76.8,0.52,0.36
+294643,Alex,Sexton,GC,7,44,48,60,29,40,7,1,1,4,0,1,0,0,1, Full Time,news,Donuts in Q1... %O,,,197500,,174800,,Centre,6,1,13,6,0.57,0.74
+290759,Jacob,Gillbee,GC,2,31,34,38,25,36,2,7,1,2,0,0,0,0,0, Full Time,in,Late replacement for Rory Thompson... on in Q3 for Nicholls... %D,sub,Started as a sub,173100,,172300,,Forward,13,0,0,0,0.30,0.42
+294485,Andrew,Boston,GC,3,31,32,41,25,36,8,2,2,0,0,0,1,0,0, Full Time,news,%P and %M,,,97400,-2,100200,4,Centre,40,4,21,19.5,2.80,2.03
+281085,Steven,May,GC,2,30,54,37,26,39,6,6,1,0,0,0,1,0,0, Full Time,job,In defence on Rowe then moved to Henderson in Q2... %D,,,202000,44,253800,46,Back Forward,17,12,41.4,55,0.49,0.37
+290815,Thomas,Nicholls,GC,2,25,36,30,23,29,2,3,1,1,7,1,1,0,1, Full Time,injured,Right knee knock in Q2... %H with %P and %s,subbed,Subbed off in Q3 for Gillbee,338600,14,404300,42,Ruck,22,7,87.7,99.6,31.60,35.08
+990059,Heath,Scotland,CA,26,129,111,74,102,135,23,10,10,2,0,2,0,0,0, Full Time,seagull,Loose in defence... %O including %k by foot... %M as well,,,319600,99,353500,115,Back Centre,29,13,73.5,77.5,5.92,4.90
+230202,Kade,Simpson,CA,26,127,108,86,101,132,20,8,13,3,0,0,0,0,0, Full Time,cherry,%P and %M with %T,,,410200,55,490100,66,Centre,6,16,80.9,91.2,0.72,0.76
+240014,Andrew,Walker,CA,26,113,114,73,92,120,19,6,13,2,0,0,1,0,0, Full Time,hot,%B among %P with %M and %T,job,Has Brennan,387800,90,494700,107,Forward Centre,1,16,83.4,107.1,10.44,24.05
+240028,Brock,McLean,CA,26,111,94,74,93,122,16,11,7,2,1,1,1,2,1, Full Time,hot,%2 Stanley... %P and %M plus %T and %s,,,408900,134,443400,137,Centre,14,16,84.9,88.4,0.50,0.47
+270326,Lachie,Henderson,CA,26,107,124,78,87,105,14,2,7,3,0,1,0,4,3, Full Time,star,First goal... %s from %P and %M.... starting at FF on McKenzie then got May in Q2,,,352100,57,449100,44,Back Forward,23,16,69.6,87.4,2.67,2.74
+250417,Bryce,Gibbs,CA,20,104,96,71,84,114,16,10,9,3,0,0,1,0,0, Full Time,hot,%D and %M,job,Starting in defence on Sumner,417700,128,441000,145,Back Centre,4,13,92,96.3,41.90,41.23
+261299,Matthew,Kreuzer,CA,29,94,140,80,84,99,8,4,4,3,42,2,2,0,0, Full Time,news,%H and %P with %T and %M... %F as well,,,451100,88,546100,93,Ruck,8,13,88.3,98.9,12.14,8.28
+270146,Ed,Curnow,CA,14,88,95,64,70,93,12,10,6,3,0,2,0,0,0, Full Time,news,%P and %M with %T,tagger,Tagging Ablett jnr,329500,76,354400,46,Centre,35,13,72.2,76.1,0.31,0.31
+240060,Eddie,Betts,CA,21,81,89,67,69,89,8,8,4,3,0,0,1,3,2, Full Time,news,%s from %D and %M on Tape... also %T,,,221900,49,288200,75,Forward,19,10,52.3,62.7,1.78,1.49
+250105,Marc,Murphy,CA,13,76,92,51,62,91,10,17,1,2,0,0,0,0,1, Full Time,news,%O including %B with %T,harley,Head to head with Bennell,337100,60,376000,56,Centre,3,15,86.9,91.7,5.36,5.99
+220015,Andrew,Carrazzo,CA,14,74,69,47,63,90,11,14,4,1,0,0,1,0,0, Full Time,news,%D including %b by hand,,,341100,121,379400,138,Centre,44,8,65.8,71,0.58,0.60
+270653,Jeff,Garlett,CA,15,73,74,56,55,73,10,3,3,5,0,1,1,1,4, Full Time,news,%s from %O and %T with %M on Russell,,,258700,35,291300,32,Forward,38,16,73,81.9,3.60,3.35
+260533,Dennis,Armfield,CA,14,69,86,39,58,76,11,7,3,0,0,0,0,2,1, Full Time,news,Playing a HFF... %O,,,242700,60,250700,75,Forward Centre,27,16,54.9,57.7,1.97,2.06
+290311,Mitch,Robinson,CA,12,66,79,50,49,70,9,8,1,5,0,2,1,0,1, Full Time,news,Playing HFF on Shaw... %s from %P and %T,,,340500,84,378900,97,Forward Centre,12,14,73.9,77.7,3.34,2.12
+271110,Chris,Yarran,CA,15,62,75,60,47,60,5,3,3,5,0,0,0,2,0, Full Time,news,%s from %O and %T on Weller,,,253600,18,284000,45,Back,13,13,59.9,66.6,4.73,5.37
+292511,Zach,Tuohy,CA,8,60,70,48,47,66,7,9,3,3,0,0,0,0,0, Full Time,job,Minding Brown then got Aaron Hall in Q2... %P and %T,,,241700,45,305000,59,Back,42,16,51.9,64.2,1.71,2.04
+220056,Chris,Judd,CA,12,59,89,27,48,64,11,7,1,0,0,2,0,1,1, Full Time,news,%2 O'Meara... %P and %s,,,419900,118,517500,102,Centre,5,15,83.6,100.7,3.84,3.85
+261043,Michael,Jamison,CA,8,50,59,32,42,54,8,4,6,0,0,0,0,0,0, Full Time,job,Standing Dixon... %D,,,203200,64,293300,98,Back,40,16,48.3,64.7,1.27,1.58
+260278,Sam,Rowe,CA,5,44,26,38,39,50,5,2,5,2,7,0,2,0,1, Full Time,cannon,%P when forward on May then got McKenzie in Q2... also %H,,,230300,19,271100,28,Forward Ruck,17,7,57.1,64.3,23.10,24.49
+290526,Matthew,Watson,CA,9,42,65,30,32,42,6,2,2,2,0,0,0,1,0, Full Time,job,On Day.... %P and %T... also a rare %s,,,258900,67,343800,81,Back,10,2,50,66.5,0.19,0.17
+280971,Jaryd,Cachia,CA,2,29,35,21,23,31,4,3,2,1,0,0,0,0,1, Full Time,in,Late replacement for Joshua Bootsma... on in Q3 for Lucas,sub,Started as a sub,324000,74,299700,60,Centre,37,11,67.8,62.2,1.98,1.38
+281079,Kane,Lucas,CA,2,26,15,23,19,30,3,4,0,3,0,0,1,0,0, Full Time,injured,%2 Harbrow off a wing... %P and %T... hip knock in Q2,subbed,Subbed off in Q3 for Cachia,361700,131,361500,96,Centre,9,15,74.3,75.2,2.25,4.21

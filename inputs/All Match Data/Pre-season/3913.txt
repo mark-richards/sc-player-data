@@ -1,0 +1,48 @@
+Melbourne,Demons,Brisbane,Lions,W1,2.1.13,1.4.10, Full Time
+Feb 25,2012,7.15,Gold Coast,Fox Footy,,10330114,,14,Rain periods,24,,
+
+<em>Pokerface</em>: He could've. had all the space in the world<br><em>chadwick</em>: Bate playing forward could be interesting to watch for dt. See if he keeps that role in nab 2&#044;3&#044;4<br><em>Meldrum23</em>: tbh i think magner was benefited by the weather.<br><em>E Kavastar</em>: He could've ran to the line and bombed the ball out of the stadium. What an idiot...<br><em>chadwick</em>: Will put it in paste bin and tell you "told ya so" in a few years. Watts will be good. More strength and endurance<br><em>E Kavastar</em>: He could<br><em>Demons15</em>: @meldrum&#044; i never didn't back them. i was just stating my point<br><em>Pokerface</em>: magner will be comparable to barlow<br><em>chadwick</em>: Polkinghorse tried to curl the ball in the wet&#044; will always skid on<br><em>R.Griffen.</em>: Chadwick he will play in 2 years time but I cant see him being a Johno Brown<br><em>chadwick</em>: 9 years before he is 30&#044; wouldn't call that "soon". Key position forward is always going to be 23+<br><em>Meldrum23</em>: @demons why didn't you back them in before then? instead of now?<br>
+250510,Matthew,Bate,ME,3,49,-,64,36,48,11,2,2,1,0,2,0,0,0, Full Time,news,%O and %M,,,85
+260176,James,Magner,ME,7,31,-,43,19,27,4,1,0,4,0,1,0,0,0, Full Time,,,,,67
+250222,Nathan,Jones,ME,2,30,-,42,18,27,6,0,0,3,0,0,0,0,0, Full Time,news,%K among %P with %T,,,77
+270174,Tom,Couch,ME,2,29,-,40,19,27,6,0,1,2,0,0,0,0,0, Full Time,,,,,75
+220052,Mark,Jamar,ME,2,26,-,32,20,24,2,2,0,2,6,2,0,0,0, Full Time,news,%H and %D with %T,,,87
+291313,Jeremy,Howe,ME,2,26,-,32,22,30,4,4,2,0,0,0,0,0,0, Full Time,news,Took a long time to get into it... %P and %G,,,94
+230151,Brent,Moloney,ME,2,25,-,33,19,30,4,4,0,2,0,0,1,0,0, Full Time,news,%P with %b by hand... also %T,,,77
+290943,Jamie,Bennell,ME,1,25,-,36,17,24,4,0,1,3,0,1,1,0,0, Full Time,job,On Banfield... %P and %T,,,100
+250345,Rohan,Bail,ME,2,24,-,33,17,27,5,2,0,2,0,0,1,0,0, Full Time,news,%P and %T,,,82
+230130,Joel,MacDonald,ME,2,23,-,30,17,24,2,3,1,2,0,0,0,0,0, Full Time,job,Minding Sheldon... %O and %T,,,100
+230250,Jared,Rivers,ME,1,23,-,31,16,21,3,1,1,2,0,1,0,0,0, Full Time,job,On Hudson... %D and %T,,,100
+261297,Jack,Grimes,ME,1,23,-,28,19,27,4,4,1,0,0,0,0,0,0, Full Time,news,Captain Jack not getting a lot of action... %D,,,100
+200054,Brad,Green,ME,2,22,-,29,17,27,1,5,0,3,0,0,1,0,0, Full Time,news,%B among %D with %T on Stiller,,,91
+294874,Daniel,Nicholson,ME,1,20,-,25,15,21,5,2,0,0,0,1,0,0,0, Full Time,news,%D with %k by foot,,,86
+240037,Colin,Sylvia,ME,6,18,-,23,15,21,3,1,0,1,0,0,1,1,0, Full Time,news,Played forward a bit on McGrath... has been known to wear a beret... %D and %s,,,90
+291533,Tom,McDonald,ME,1,18,-,24,13,18,1,2,1,2,0,0,0,0,0, Full Time,news,On in Q2 for Garland... %D and %T,sub,Started as a sub,53
+260288,James,Frawley,ME,1,14,-,20,13,21,3,2,1,1,0,0,2,0,0, Full Time,job,Has Brown.. %D and %F,,,100
+280972,Jack,Watts,ME,1,10,-,15,7,12,1,1,0,2,0,0,1,0,0, Full Time,news,Patfull on him... %P and %T,,,88
+250418,James,Sellar,ME,6,7,-,8,8,9,1,0,0,0,0,1,1,1,0, Full Time,news,On in Q2 for Clark... %P and %s,sub,Started as a sub,32
+270830,Colin,Garland,ME,0,4,-,6,2,3,0,0,0,1,0,0,0,0,0, Full Time,injured,Standing Karnezis... succumbed with an unknown injury without a touch,subbed,Subbed off in Q2 for McDonald,47
+280763,Stefan,Martin,ME,0,0,-,1,3,7,1,1,0,0,0,0,2,0,1, Full Time,news,%P and %s... also %F,,,100
+240393,Mitchell,Clark,ME,0,-6,-,-6,-2,0,0,0,0,0,0,0,2,0,0, Full Time,news,Maguire on him... no touches and %F... terrible conditions for his type of player to be fair,subbed,Subbed off in Q2 for Sellar,68
+210013,Ashley,McGrath,BL,12,71,-,93,55,69,14,2,6,1,0,3,0,0,0, Full Time,seagull,Lots of work zoning up from defence on Sylvia... %P and %M,,,90
+292128,Elliot,Yeo,BL,3,47,-,60,37,48,10,3,3,0,0,2,0,0,0, Full Time,news,In everything all game... %D and %M,,,78
+291548,Ryan,Lester,BL,3,45,-,59,33,45,10,2,2,1,0,1,0,0,0, Full Time,news,%K among %O with %M,,,100
+250053,Cheynee,Stiller,BL,3,44,-,57,34,45,8,3,3,1,0,1,0,0,0, Full Time,job,Playing a HBF on Green... %D and %M,,,100
+260975,James,Polkinghorne,BL,7,44,-,59,30,43,6,3,1,4,0,0,0,0,1, Full Time,news,%O and %T... plus %s which was a miss that could have won the game for Brisbane,,,89
+980007,Simon,Black,BL,3,44,-,54,37,54,5,9,1,2,2,0,1,0,1, Full Time,news,%2 Magner... %O and %T plus %s,,,79
+220062,Matt,Maguire,BL,4,42,-,55,35,42,9,1,4,0,0,4,1,0,0, Full Time,news,%P and %M,job,Following Clark,100
+292035,Claye,Beams,BL,4,38,-,49,33,45,5,5,4,1,0,0,1,0,0, Full Time,news,%O and %M,,,83
+290110,Mitchell,Golby,BL,3,37,-,46,31,42,6,5,3,0,0,0,0,0,0, Full Time,news,%D and %M,,,100
+250335,Matthew,Leuenberger,BL,3,36,-,45,28,36,4,2,1,2,9,0,0,0,0, Full Time,news,%H and %P with %T,,,100
+240087,Jed,Adcock,BL,2,35,-,47,26,39,5,4,1,3,0,0,1,0,0, Full Time,news,%B among %O with %T,,,81
+230170,Joel,Patfull,BL,2,33,-,46,23,30,4,0,3,3,0,0,0,0,0, Full Time,job,On Watts... %P and %T with %M,,,100
+271071,Todd,Banfield,BL,8,33,-,42,24,30,3,2,0,3,0,2,0,1,0, Full Time,news,First goal... %s from %P with %T on Bennell,,,89
+280572,Jesse,O'Brien,BL,2,32,-,43,22,30,4,2,1,3,0,1,0,0,0, Full Time,news,%D and %T,,,62
+270512,Pearce,Hanley,BL,2,30,-,38,24,30,4,3,2,1,0,2,0,0,0, Full Time,news,Notably loose across halfback... %O and %M,,,78
+281373,Jack,Redden,BL,2,30,-,39,23,31,5,2,2,1,0,0,0,0,1, Full Time,news,%P and %M plus %s,,,67
+200007,Jonathan,Brown,BL,2,18,-,25,17,24,3,2,2,1,0,1,2,0,0, Full Time,news,%G and %D on Frawley... also %F,subbed,Subbed off in Q2 for Bewick,74
+281329,Rohan,Bewick,BL,1,15,-,21,13,18,2,1,2,1,0,0,1,0,0, Full Time,news,On in Q2 for Brown... %P and %M,sub,Started as a sub,27
+290808,Patrick,Karnezis,BL,1,15,-,19,13,16,2,1,2,0,0,0,0,0,1, Full Time,news,%s from %P and %M on Garland,,,87
+240710,Ben,Hudson,BL,0,8,-,10,6,8,0,1,0,1,2,0,0,0,0, Full Time,news,Playing forward but didn't touch it in Q1,,,100
+261250,Sam,Sheldon,BL,0,8,-,9,7,9,1,2,0,0,0,1,0,0,0, Full Time,news,%O on MacDonald,,,90
+270936,Jordan,Lisle,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,On late in Q2 but didn't get near it,sub,Started as a sub,26

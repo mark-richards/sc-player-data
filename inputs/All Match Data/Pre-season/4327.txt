@@ -1,0 +1,52 @@
+West Coast,Eagles,Collingwood,Magpies,W2,1.10.7.76,3.10.9.96, Full Time
+Mar 03,2013,6.40,Subiaco,Seven,,10380209,,0,Sunny,31,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>Leon88</em>: forgot luke ball<br><em>DoctorRush</em>: And Daisy<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> mufc</em>: chandeling natinui missing as well<br><em>Leon88</em>: pies have beams jolly young krakeour johnson and probly macaffer at least to come in<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> mufc</em>: in this game wce havebetter team collingwood full strength better<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> Changeling</em>: a selwood and maybe wellingham<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> dmac0712</em>: is pendles on the bench? bareky touched it in the last<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> Changeling</em>: waters <br><em>J.Worrall</em>: Leon speekz thruth&#044; whiteman<br><em>Leon88</em>: who wc got to come back in apart from kerr and naitanui?<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> DoctorRush</em>: Pies have just as many out as Eagles.<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Mudkipz</em>: tonights lists yeah&#044; not in general though<br>
+261290,Chris,Masten,WC,32,113,115,151,84,117,15,10,5,9,0,3,2,0,0, Full Time,hot,%D including %K with %T and %M,,
+270928,Scott,Selwood,WC,31,111,96,147,93,130,16,12,8,6,0,2,5,0,4, Full Time,hot,%P and %T with %M and %s... also a supergoal,swan,Tagging Swan
+280078,Luke,Shuey,WC,15,91,119,116,71,96,16,9,5,2,0,2,0,0,0, Full Time,news,Quiet first half but lifted after HT... %O and %M,,
+240124,Matt,Priddis,WC,25,88,82,110,72,102,10,15,2,5,0,2,2,1,0, Full Time,news,%2 Pendlebury... %D including %B... also %M and %T,,
+290801,Andrew,Gaff,WC,14,86,108,106,71,99,15,13,5,0,0,0,0,0,0, Full Time,news,%D and %M on Clarke,,
+200112,Dean,Cox,WC,25,81,127,95,73,86,10,5,2,1,26,5,2,1,0, Full Time,news,Is big... %P and%M plus  %s... also %H,,
+240119,Mark,LeCras,WC,18,76,97,94,64,78,10,2,4,2,0,1,1,4,0, Full Time,news,First goal... %s from %D and %M,,
+240283,Shannon,Hurn,WC,15,67,92,88,51,69,10,4,3,4,0,1,1,1,0, Full Time,job,Elliott manning him up... %O and %T plus %M and %s,,
+200074,Darren,Glass,WC,5,57,80,75,46,63,7,6,5,3,0,0,1,0,0, Full Time,job,Standing Lynch... %P and %M with %T,,
+261214,Will,Schofield,WC,8,53,61,70,42,54,9,2,6,1,0,0,0,0,0, Full Time,job,Responsible for Sinclair... %M and %O,,
+270953,Ashley,Smith,WC,5,53,47,70,40,54,9,3,4,2,0,0,0,0,0, Full Time,news,%P and %T with %M,,
+281080,Brad,Sheppard,WC,5,53,48,69,43,57,8,5,4,2,0,2,1,0,0, Full Time,news,Matched up on Seedsman on a HFF... %D and %M,,
+290826,Jamie,Cripps,WC,10,51,61,65,42,57,5,6,3,3,0,0,1,1,0, Full Time,news,On in Q1 for Cripps... %D and %T with %M,sub,Started as a sub
+240159,Sam,Butler,WC,5,50,73,66,40,54,8,4,4,2,0,1,1,0,0, Full Time,news,%P and %M,,
+240406,Josh,Kennedy,WC,9,50,51,64,39,49,5,3,3,3,0,1,0,1,1, Full Time,news,Reid on him... %s from %D and %G,,
+290746,Scott,Lycett,WC,10,42,43,52,36,45,4,3,2,2,6,1,1,1,0, Full Time,news,%s from %P up forward mostly on Frost... also %H and %T,,
+280441,Patrick,McGinnity,WC,4,35,36,46,31,45,4,6,3,2,0,0,2,0,0, Full Time,job,In defence on Mooney... %P and %T with %M,,
+290838,Jack,Darling,WC,7,34,21,46,23,31,3,2,1,4,0,1,0,0,1, Full Time,news,%s from %P in an interesting matchup on Toovey... also %T,,
+250317,Eric,Mackenzie,WC,3,33,49,43,29,42,6,5,2,1,0,1,2,0,0, Full Time,job,On Cloke... %M and %P,,
+250111,Matt,Rosa,WC,1,16,9,22,15,24,3,3,1,1,0,0,2,0,0, Full Time,injured,%D in limited TOG... also %F... left hamstring iced up in Q4,subbed,Subbed off in Q4 for Tunbridge
+261209,Josh,Hill,WC,0,12,10,16,9,12,3,0,1,0,0,0,0,0,0, Full Time,news,Donuts in Q1... Shaw on him... %P,subbed,Subbed off in Q3 for Brown
+990020,Andrew,Embley,WC,0,6,1,8,4,6,2,0,0,0,0,0,0,0,0, Full Time,injured,Started on a wing but O'Brien went to him... %D... right hamstring injury in Q1,subbed,Subbed off in Q1 for Cripps
+260303,Mitchell,Brown,WC,0,4,16,4,4,6,0,2,0,0,0,0,0,0,0, Full Time,sore,On in Q3 for Rosa... left leg knock in Q4,sub,Started as a sub
+291927,Simon,Tunbridge,WC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Hill,sub,Started as a sub
+280965,Steele,Sidebottom,CO,22,109,116,73,86,108,17,3,9,3,0,1,0,2,0, Full Time,hot,Started forward on Butler... %s from %D and %M... also %T,,
+260257,Scott,Pendlebury,CO,25,99,137,68,76,109,15,13,2,6,0,3,2,0,1, Full Time,news,%2 Priddis... %P and %T plus %s,,
+240700,Heath,Shaw,CO,18,91,99,33,71,99,22,4,6,1,0,1,2,0,0, Full Time,job,Running off Hill... %P including %K... also %M and %F,,
+280104,Jarryd,Blair,CO,26,87,99,85,69,88,6,11,4,6,0,4,0,1,1, Full Time,news,%O and %T with %M and %s,,
+272005,Martin,Clarke,CO,14,75,71,64,61,82,8,10,5,4,0,2,1,0,1, Full Time,job,Minding Gaff... %O and %T with %M and %s,,
+220105,Dane,Swan,CO,9,70,109,50,59,84,9,14,3,2,0,1,1,0,0, Full Time,scooter,Tagged by Scott Selwood.. %P and a supergoal,,
+220061,Quinten,Lynch,CO,10,60,46,52,56,73,6,7,6,2,9,1,3,0,1, Full Time,news,%P and %G on Glass... also %H and %F,,
+294733,Paul,Seedsman,CO,7,60,71,26,47,66,13,5,3,1,0,1,1,0,0, Full Time,job,Matched up on Sheppard in defence... %P and %M plus a supergoal,,
+240073,Heritier,O'Brien,CO,4,57,34,37,46,61,9,5,5,1,0,0,0,0,1, Full Time,news,Started on a wing manning up Embley and stayed there even after Embley got injured.. %O and %M plus %s,,
+250090,Jordan,Russell,CO,8,56,57,38,45,57,9,2,7,1,0,0,0,0,0, Full Time,news,Just one kick in Q1 and two in Q2... %P... not really accountable to a man but not getting much of the ball either,,
+290289,Josh,Thomas,CO,9,55,63,41,41,57,8,5,2,4,0,2,1,0,0, Full Time,news,On in Q3 for Reid,sub,Started as a sub
+296732,Caolan,Mooney,CO,15,54,48,49,45,57,5,4,2,4,0,3,2,2,0, Full Time,news,%s from %P and %T with %M on McGinnity,,
+290810,Jack,Frost,CO,14,50,52,50,35,48,5,2,3,6,0,1,1,0,0, Full Time,job,Standing Lycett... one FA to his name by QT... %O,,
+291386,Ben,Sinclair,CO,9,48,56,30,36,47,8,1,2,2,0,0,0,1,2, Full Time,news,%s from %P on Schofield... also %T,,
+230263,Nick,Maxwell,CO,3,43,57,27,34,46,7,4,3,1,1,0,0,0,0, Full Time,news,Having a devil of a time trying to get to contests third man up with the ball coming in too fast to the Eagles forward line... %D,,
+270950,Kyle,Martin,CO,4,43,50,26,35,49,8,3,3,2,0,1,2,0,1, Full Time,news,Started in midfield... %P and %M with %T,subbed,Subbed off in Q4 for Oxley
+293801,Jamie,Elliott,CO,8,37,60,31,32,39,3,4,1,1,0,1,0,2,0, Full Time,news,Keeping Hurn honest... %s from %D,,
+250133,Sam,Dwyer,CO,8,36,41,21,32,42,6,3,3,0,0,0,1,1,0, Full Time,news,%D and %M,,
+240419,Alan,Toovey,CO,3,33,31,28,25,33,4,2,3,2,0,0,0,0,0, Full Time,job,Big job on Darling... %P,,
+291975,Jarrod,Witts,CO,3,30,58,27,25,33,3,2,0,3,9,2,2,0,0, Full Time,news,On after HT for Hudson... %H and %P,sub,Started as a sub
+292048,Adam,Oxley,CO,1,27,19,22,17,24,4,0,1,3,0,0,0,0,0, Full Time,news,On in Q4 for Martin... %P and %T,sub,Started as a sub
+240366,Travis,Cloke,CO,8,22,50,12,22,30,4,2,2,0,0,0,2,1,0, Full Time,sore,Donuts in Q1... Mackenzie on him... %s from %D and %M... right thigh heavily strapped in Q2 but played on... also a supergoal,,
+240710,Ben,Hudson,CO,2,22,23,11,20,27,4,2,1,0,6,0,1,0,0, Full Time,news,%H and %D,subbed,Subbed off at HT for Witts
+240232,Ben,Reid,CO,0,6,0,1,6,9,2,0,1,0,0,0,1,0,0, Full Time,injured,Has Kennedy... %D... hyperextension around his right knee in Q3,subbed,Subbed off in Q3 for Josh Thomas

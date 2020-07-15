@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Essendon,Bombers,R14,23.8.146,12.9.81, Full Time
+Jun 24,2011,7:40,MCG,Seven,240027,10311401,5569,103,Isolated showers,17,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>BenjiS</em>: 463 from savage&#044; mitchell&#044; zaka & jetta!!<br><em>jwiggle</em>: nice comeback pal<br><em>Lecras2</em>: When do the supercoach new prices update??<br><em>Thebiggf</em>: Night twiggles u soft co.. Just like ur team&#044; go hawks<br><em>Twiggles</em>: West coast new bane. The BEAGLES... Blues by 7 goals<br><em>Twiggles</em>: Night all. Go blues<br><em>Rikki bob</em>: West Coast will test the blues hardness<br><em>Thebiggf</em>: Go the hawkers I feel a repeat of 08 coming <br><em>Twiggles</em>: @jwiggle (yawns)<br><em>Stuart88</em>: The blue boys are flying just uwait till finals<br><em>jwiggle</em>: that is 1 side in the top 8 you have actually beaten...<br><em>Toohey0709</em>: @theheater&#044; youve been saying that for 6 years... they still havnt arrived<br>
+294877,Isaac,Smith,HW,43,138,112,173,117,145,15,10,14,3,0,0,0,3,1, Full Time,x-factor,%O and %M plus %T and %s... provided much-needed outside run all night... started Q2 like he had ants in his pants,,
+280737,Liam,Shiels,HW,44,134,116,175,102,138,20,7,5,8,0,1,2,3,0, Full Time,gun,%D and %T plus %M and %s,,
+220073,Sam,Mitchell,HW,26,128,102,161,105,147,19,19,8,3,0,0,1,0,0, Full Time,cherry,Started forward but quickly got Hocking's tag... %P and %M,,
+280858,Shane,Savage,HW,38,128,118,160,110,137,16,9,12,2,0,1,1,3,2, Full Time,hot,%2 Monfries on a wing... %D and %M plus %s,,
+270732,Matt,Suckling,HW,27,126,113,160,101,136,21,10,7,3,0,0,1,2,1, Full Time,seagull,%P with %k by foot with %M and %T... also %s,,
+240302,Grant,Birchall,HW,26,124,129,158,104,138,20,13,12,1,0,1,1,0,0, Full Time,star,Loose in defence and the Dons seemed unable to stop kicking it to him... %D and %M,,
+250089,Jordan,Lewis,HW,32,124,122,155,105,140,13,16,8,5,1,1,2,2,1, Full Time,hot,%s from %D and %M rotating between forward and midfield... also %T,,
+250715,Josh,Gibson,HW,24,103,102,134,85,111,18,7,11,1,0,1,1,0,0, Full Time,heart,Came into game with heavily strapped left shoulder and had it restrapped in Q1... %D and %M,job,Vital job on Hurley
+220047,Luke,Hodge,HW,25,100,114,128,79,110,15,11,3,5,2,2,2,1,0, Full Time,heart,Whack behind the ear caused jaw soreness in Q1... tagged by Welsh... %O and %T plus %M and %s,,
+270215,Kyle,Cheney,HW,20,88,86,109,75,96,11,10,8,1,0,1,0,1,0, Full Time,job,Minding Jetta... %O and %M with %s,in,Late replacement for Thomas Murphy
+260472,Max,Bailey,HW,21,78,64,98,61,79,5,6,1,7,22,1,1,0,0, Full Time,news,%H and %D with %T and %F,,
+220036,David,Hale,HW,13,76,89,94,67,84,7,6,5,3,8,1,2,2,1, Full Time,news,Booted %s from %P and %M on Pears... also %T and %H,,
+200060,Brent,Guerra,HW,12,73,63,94,59,75,14,4,7,0,0,2,0,0,0, Full Time,job,Started on Watson at FF... %M and %O,,
+210012,Shaun,Burgoyne,HW,9,73,78,94,57,78,10,8,5,3,0,0,0,0,0, Full Time,job,Has the big job in defence on Ryder... %P and %T with %M,,
+210092,Michael,Osborne,HW,21,70,90,89,64,81,8,4,7,2,0,0,3,3,0, Full Time,news,One of the phalanx of Hawk small forwards who has to step up tonight... %s from %P and %M with %T,,
+230197,Brad,Sewell,HW,13,69,89,86,55,78,6,13,3,4,0,0,0,0,0, Full Time,injured,%P and %T with %M... left knee medial ligament tweak and iced up at HT,subbed,Subbed off at HT for Bateman
+260955,Cyril,Rioli,HW,15,67,74,87,50,63,7,2,3,5,0,1,0,2,0, Full Time,injured,%s from %O with %T and %M... right hamstring tweaked in Q3,,
+261386,Brendan,Whitecross,HW,14,60,57,75,50,68,8,7,3,2,1,0,1,1,1, Full Time,tagger,Forward tag on Fletcher... %D and %M plus %s,,
+260710,Paul,Puopolo,HW,15,59,65,77,43,60,4,8,2,6,0,1,0,0,0, Full Time,switch,Has Zaharakis... %P and %M with %T... switched forward in Q2,,
+280744,Luke,Breust,HW,10,56,75,74,42,54,6,4,4,4,0,2,0,0,0, Full Time,sore,%O and %M with %T on McVeigh... left quad soreness in Q2,,
+270936,Jordan,Lisle,HW,9,51,46,67,44,57,5,5,7,2,0,0,1,0,0, Full Time,job,In defence again on Hille... %M and %P,,
+200040,Chance,Bateman,HW,7,46,32,60,38,48,6,3,6,1,0,0,0,0,0, Full Time,news,On in Q3 for Sewell... %O and %M,sub,Started as a sub
+240027,Brent,Stanton,ES,23,119,107,59,94,127,23,8,5,2,0,1,1,2,1, Full Time,garbage,%P with %k by foot... also %M and %T with %s... highly industrious in the second half when it was all over,,
+270951,David,Zaharakis,ES,26,115,95,74,87,123,18,13,3,5,0,0,0,1,0, Full Time,hot,%O and %T with %M,,
+250569,Heath,Hocking,ES,50,110,108,100,81,111,11,11,3,10,0,3,1,1,0, Full Time,hot,%P and %M with %T and %s,tagger,Tagging Mitchell
+250352,Leroy,Jetta,ES,22,92,94,76,81,105,9,12,5,3,0,2,2,3,0, Full Time,news,First goal... %s from %P on Cheney... also %T and %M,,
+290629,Dyson,Heppell,ES,19,81,66,70,72,99,7,18,6,2,0,1,1,0,0, Full Time,job,Hawks rotating many small forwards through him.. %O with %b by hand... also %M,,
+240290,Angus,Monfries,ES,20,78,66,70,58,79,8,8,4,6,0,1,0,0,1, Full Time,news,%2 Savage on a wing... %s from %D and %M with %T,,
+261320,Tom,Bellchambers,ES,17,77,86,64,66,78,7,5,4,2,18,2,0,1,0, Full Time,news,%H and %D with %T and %M... also %s,,
+200026,David,Hille,ES,15,74,62,66,66,81,6,7,6,2,17,1,1,0,1, Full Time,news,Lisle on him... %H and %P with %T and %M... also %s,,
+250049,Brent,Prismall,ES,9,72,52,45,56,78,12,8,3,3,0,2,1,0,0, Full Time,news,%O and %T,,
+261314,David,Myers,ES,14,71,67,56,54,75,9,8,4,4,0,0,0,0,0, Full Time,injured,%P and %T with %M... right hamstring pulled in Q3,job,Has Osborne
+271022,Tayte,Pears,ES,9,70,75,59,57,78,7,12,4,3,0,1,0,0,0, Full Time,job,On Hale... %O and %T with %M,,
+230051,Alwyn,Davey,ES,15,63,58,60,51,69,4,10,1,4,0,0,0,2,0, Full Time,garbage,%D and %T... all of his %s in Q4 garbage time,,
+220115,Andrew,Welsh,ES,4,52,62,46,43,60,5,9,3,3,0,1,1,0,0, Full Time,tagger,Tagging Hodge... %O and %M with %T,,
+250267,Patrick,Ryder,ES,5,51,30,36,46,61,7,5,4,1,9,0,2,0,1, Full Time,missing,Burgoyne started on him but he just wasn't interested at all... %H and %P with %M,,
+290160,Michael,Hibberd,ES,8,51,60,31,45,63,8,9,4,0,0,0,1,0,0, Full Time,news,%P and %M,,
+260073,Ben,Howlett,ES,9,49,37,39,44,60,5,9,3,1,0,0,1,1,0, Full Time,news,One touch in the first half... %P and %M plus %s,,
+960197,Dustin,Fletcher,ES,3,44,57,26,30,42,8,3,0,3,0,2,0,0,0, Full Time,tagged,Forward tag on him by Whitecross... %D,,
+280824,Jake,Melksham,ES,9,42,36,38,35,46,3,7,1,2,1,1,0,1,0, Full Time,news,On in Q2 for Lonergan... %P and %T plus %s,sub,Started as a sub
+270935,Michael,Hurley,ES,4,40,34,30,37,49,5,6,5,0,0,0,1,0,1, Full Time,news,%s from %G and %P on Gibson,,
+230231,Jobe,Watson,ES,2,33,57,22,26,36,5,4,2,1,0,0,0,0,0, Full Time,injured,Started forward on Guerra but that didn't work... %O and %M... left hamstring tightness in Q2 and iced up at HT,,
+240319,Sam,Lonergan,ES,2,26,27,23,17,24,3,2,0,3,0,1,0,0,0, Full Time,injured,Early clearance work was impressive... %P and %T... left knee medial ligament injury in Q2,subbed,Subbed off in Q2 for Melksham
+990046,Mark,McVeigh,ES,1,22,35,10,19,30,5,3,1,1,0,0,2,0,0, Full Time,job,In a BP on Breust... %P and %F,,

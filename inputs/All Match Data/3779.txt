@@ -1,0 +1,48 @@
+Geelong,Cats,Western Bulldogs,Bulldogs,R11,23.10.148,13.9.87, Full Time
+Jun 4,2011,2:10,Kardinia,Ten,220058,10311102,5543,80,Windy,12,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>wazzasmith</em>: boyd deserves more<br><em>wazzasmith</em>: selwoods sc score is crap did nothing when it mattered and got all his touches in second half<br><em>tom.i52</em>: Impressive Murphy 81 SC&#044; thank god<br><em>Rourke</em>: Actual scores Steve J 147&#044; Otto 158&#044; Bartel 144&#044; Gia 145 not sure why they're so different today<br><em>tom.i52</em>: Yeah! Murphy for SC!<br><em>Eagle boy</em>: Masten = #7<br><em>dusty m</em>: wtf ottans 150sc<br><em>NewFreoFan</em>: #7 used to be Chad Fletcher&#044; no idea these days lol<br><em>falcooons</em>: flowerkk u boyd as my sc capt<br><em title="KCEB1980">kceb1980</em>: whos number 7 for the eagles?<br><em>NewFreoFan</em>: Cross comes close to rewarding the faith&#044; I'll take 94SC after his last few weeks<br><em>DangerousD</em>: Bartel SC???<br>
+220054,Steve,Johnson,GE,43,143,147,183,114,146,17,10,11,6,0,1,0,2,2, Full Time,gun,Started in midfield... %s from %O and %M on Morris... also %T,,
+220007,Jimmy,Bartel,GE,31,123,144,156,98,129,17,12,8,4,0,2,0,1,0, Full Time,hot,Skulking around halfback... %B among %D with %M and %s,,
+230214,Mathew,Stokes,GE,32,115,112,148,90,120,15,9,6,6,0,1,1,2,0, Full Time,seagull,%D and %M with %T and %s... snuck up to the Dog carcass like a jackal and had a good old feast in the second half,,
+980064,Brad,Ottens,GE,38,107,158,127,102,127,7,11,5,4,16,2,5,5,0, Full Time,star,%H and %D plus %M and %T... also a massive %s,,
+261497,Harry,Taylor,GE,21,102,80,131,90,118,12,12,13,2,1,0,2,0,0, Full Time,garbage,Plenty of cheap kicks in the last five minutes... %P and %M with %F,job,Standing Jones
+200037,Cameron,Ling,GE,26,92,85,119,67,93,13,8,2,6,0,1,0,1,0, Full Time,news,%D with %k by foot and %M... also %T and %s,,
+230248,Andrew,Mackie,GE,19,92,89,119,74,102,16,9,7,2,0,0,1,0,0, Full Time,news,%M and %P with %T,,
+250321,Joel,Selwood,GE,22,92,103,113,79,106,13,12,4,2,0,2,2,2,1, Full Time,garbage,Tagged by Picken... %O and %M with %T and %s... quiet early but got decent numbers in second half junk time,,
+200131,James,Podsiadly,GE,22,85,121,108,76,92,11,3,8,2,1,3,3,3,1, Full Time,news,Booted %s from %D and %G on the first-gamer Mulligan,,
+200035,Corey,Enright,GE,10,82,105,106,65,90,15,8,5,2,0,1,1,0,0, Full Time,job,Responsible for Giansiracusa... %M and %D,,
+980037,Matthew,Scarlett,GE,24,82,79,107,65,87,11,6,6,4,0,0,1,1,0, Full Time,switch,Dogs forwards not making him accountable enough... went forward in Q4... %M and %P plus %T and %s,,
+200034,Joel,Corey,GE,14,77,78,96,64,93,9,15,2,4,3,1,2,0,0, Full Time,news,%2 Boyd... %P and %T,,
+280959,Nathan,Vardy,GE,21,77,84,95,62,74,7,3,3,4,15,2,0,1,2, Full Time,cash,%H and %P plus %T and %M... also %s,,
+280822,Taylor,Hunt,GE,12,65,46,84,55,72,12,5,7,0,0,1,1,0,0, Full Time,news,%P and %M,,
+281065,Mitch,Duncan,GE,11,64,88,80,55,70,9,5,3,2,0,3,2,2,1, Full Time,news,%s from %D with %T and %M,in,Late replacement for Darren Milburn
+291307,Daniel,Menzel,GE,11,63,59,77,54,65,7,4,5,1,0,1,0,2,2, Full Time,news,%s from %O and %M on Wood,,
+210059,Josh,Hunt,GE,5,57,42,77,43,60,10,3,4,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,
+990076,David,Wojcinski,GE,10,51,73,69,41,54,6,4,4,4,0,3,2,0,0, Full Time,news,%O and %M,,
+230125,Tom,Lonergan,GE,4,47,64,60,38,51,7,5,4,1,0,0,0,0,0, Full Time,job,Has Williams... %O and %M,,
+290106,Josh,Cowan,GE,9,46,41,62,37,54,5,6,3,4,0,0,2,0,0, Full Time,bubble,Second game... %P and %T,,
+220058,James,Kelly,GE,8,45,60,62,33,48,6,4,1,5,0,2,2,0,0, Full Time,news,%O and %T,subbed,Subbed off in Q3 for Varcoe
+250290,Travis,Varcoe,GE,9,38,26,48,31,39,3,3,3,2,0,0,0,1,0, Full Time,news,On in Q3 for Kelly... %O and %s,sub,Started as a sub
+200079,Daniel,Giansiracusa,WB,37,126,145,96,105,132,15,8,7,4,0,1,1,5,0, Full Time,cherry,First goal... %s from %P and %M on Enright... also %T,,
+240156,Ryan,Griffen,WB,21,108,105,64,86,111,18,6,6,2,2,1,0,2,1, Full Time,garbage,%O and %M with %T and %s... lots of numbers in Q4 garbage time,,
+220010,Matthew,Boyd,WB,15,94,72,66,72,98,14,9,4,5,2,3,1,0,0, Full Time,news,%2 Corey... started very slowly as he did last week... %D and %M,,
+210049,Daniel,Cross,WB,25,91,93,94,76,98,5,13,6,6,8,3,1,0,0, Full Time,news,%P and %M with %T,,
+230255,Will,Minson,WB,19,87,86,76,75,98,8,11,3,5,17,4,3,0,0, Full Time,news,%H with %D and %M... also %T and %F,,
+260227,Shaun,Higgins,WB,15,83,85,56,65,85,12,6,3,3,0,1,0,2,1, Full Time,news,Started FF on Scarlett but not being accountable... %s from %P with %M and %T,,
+291545,Mitch,Wallis,WB,21,73,71,82,51,72,4,8,3,9,0,0,0,0,0, Full Time,cash,%P and %T with %M,,
+250712,Dale,Morris,WB,16,72,87,62,51,66,9,2,5,6,0,2,0,0,0, Full Time,sore,%P and %M with %T... bang to the ribs in a collision with Podsiadly in Q2,job,Has Johnson
+280109,Callan,Ward,WB,8,64,72,37,54,76,10,12,3,0,0,0,0,0,1, Full Time,news,%O and %M,,
+271439,Liam,Picken,WB,14,60,65,52,45,63,7,7,1,6,0,4,2,0,0, Full Time,tagger,Tagging Selwood... %P and %T,,
+281374,Christian,Howard,WB,9,59,43,38,51,73,10,7,5,2,0,0,3,0,1, Full Time,bubble,Second game... %O and %s,,
+281139,Easton,Wood,WB,9,54,61,44,46,63,6,9,4,2,0,1,1,0,0, Full Time,job,Minding Menzel... %M and %O,,
+200082,Ryan,Hargrave,WB,4,49,59,26,40,54,9,5,4,0,0,0,0,0,0, Full Time,news,%D and %M,,
+200083,Robert,Murphy,WB,7,48,76,32,41,63,7,11,1,2,0,0,2,0,0, Full Time,news,%O with %k by foot,,
+250150,Tom,Williams,WB,4,47,42,26,38,50,9,2,4,1,1,1,1,0,1, Full Time,sore,Copped Vardy's knee to his ribs in Q1 and looked very sore... %s from %D and %M up forward on Lonergan,,
+240325,Justin,Sherman,WB,9,46,69,33,38,54,6,7,1,2,0,0,1,1,0, Full Time,news,%s from %D,,
+220039,Brian,Lake,WB,14,43,49,28,43,54,6,3,3,0,0,1,3,3,0, Full Time,garbage,%s from %P and %M with all of his goals in second half junk time... also %F,switch,On the resting ruckman in the first half and got smashed... thrown forward in desperation in Q3
+250383,Nathan,Djerrkura,WB,7,38,25,40,29,42,3,5,1,5,0,2,2,0,0, Full Time,news,On in Q3 for Grant,sub,Started as a sub
+261209,Josh,Hill,WB,2,34,35,21,26,37,6,3,1,2,0,1,1,0,1, Full Time,news,%P,,
+281078,Liam,Jones,WB,2,34,23,31,24,31,4,0,3,3,1,0,0,0,0, Full Time,news,%P and %G on Taylor,,
+261310,James,Mulligan,WB,2,20,36,14,16,24,4,1,0,3,0,3,3,0,0, Full Time,ipod,Standing Podsiadly... %P and %T,rookie,First game
+261319,Jarrad,Grant,WB,6,18,19,27,12,18,0,1,1,4,0,0,1,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q3 for Djerrkura

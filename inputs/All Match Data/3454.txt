@@ -1,0 +1,48 @@
+Geelong,Cats,Sydney,Swans,R7,19.12.126,9.5.59, Full Time
+May 09,2010,1:10,Kardinia,Fox Sports,200096,10280706,5015561,4997,Cloudy and windy,20
+The style sheets are taking a little longer than expected but it will come...,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>hawk2010</em>: who wins 580pts vs shane tuck<br><em>djwam18</em>: 1971 with Phil Davis&#044; Goddard and gram to play<br><em>sarfras</em>: my dt is sitting on 2800 with nicky dal&#044; martin&#044; gilber&#044; goddard to come<br><em>gibba23</em>:  who wins..judd/dal santo/kreuzer/gilbert vs judd/montagna/180pnts??<br><em>CuStArDaRm</em>: I reckon we could have a record weekly score this week for both DT and SC<br><em>iffy</em>: 59pts + goddard + montagna vs gilbert + tippet&#044;who wins?<br><em>CuStArDaRm</em>: goodes good pick up in a few weeks for SC will be cheap as presti<br><em>GoLions</em>: who will win? phil davis +102pts vs goddard and gram?<br><em>mikka</em>: 1875 with goddard&#044; NDS and martin<br><em>CuStArDaRm</em>: Franencow u cant be serious!?!?!??!<br><em>carltonboy</em>: SC 1736 from 15 players :)<br><em>singoman</em>: korza im sure monty will get to you shortly... impatient cow<br>
+220001,Gary,Ablett jnr,GE,49,167,203,211,133,177,20,18,10,7,0,1,0,2,0, Full Time,star,Head to head with O'Keefe in Q1 then copped Jack's tag... %P and %M with %T
+200039,Paul,Chapman,GE,42,140,138,178,109,141,17,10,7,7,0,2,0,3,0, Full Time,heart,Tagged by Mattner... %s from %O with %T and %M... left shin problems in the second half but played on
+200131,James,Podsiadly,GE,33,118,156,145,103,128,13,8,8,3,0,1,2,5,2, Full Time,x-factor,Richards on him... %s from %D and %G
+220054,Steve,Johnson,GE,26,111,86,144,86,107,17,2,8,4,0,2,0,2,2, Full Time,hot,%s from %O and %M with %T... Smith on his hammer
+250321,Joel,Selwood,GE,25,107,118,137,80,109,13,13,3,7,1,4,0,0,0, Full Time,gun,Kirk tagged him... %O and %M with %T
+220007,Jimmy,Bartel,GE,20,98,74,126,75,103,11,12,3,7,4,3,1,0,0, Full Time,garbage,Tagged by Jude Bolton... %D and %M with %T... a lot of his numbers in Q4 junk time
+960375,Darren,Milburn,GE,25,94,84,126,72,96,12,6,8,6,0,1,1,0,0, Full Time,job,On Barlow... his dominance across halfback in Q3 set up the smashing of the Swans... %D and %M with %T
+230248,Andrew,Mackie,GE,20,93,97,123,75,99,14,6,10,3,0,0,1,0,0, Full Time,job,On the first-gamer Rohan in Q1 then got O'Keefe... %P and %M with %T
+200035,Corey,Enright,GE,14,83,68,109,66,90,15,6,7,2,0,0,1,0,0, Full Time,news,%D and %M
+220058,James,Kelly,GE,20,83,91,106,66,93,11,11,2,5,0,2,2,1,0, Full Time,reported,Tagged by Jack in Q1 then freed up... moved forward in Q4... %s from %P with %M and %T... reported for rough conduct on Jack in Q2
+250290,Travis,Varcoe,GE,20,80,95,99,62,80,8,6,1,5,0,1,0,3,2, Full Time,mrp,%s from %O and %M on Malceski... could be trouble for bumping O'Keefe high in Q2
+261510,Tom,Hawkins,GE,21,75,82,98,62,78,5,6,6,6,9,3,2,0,0, Full Time,news,Rotated between #2 ruck and CHF on Kennelly... %H and %D with %M and %T
+270193,Simon,Hogan,GE,19,71,55,88,59,81,6,12,3,4,0,1,1,1,0, Full Time,news,Fantasy coaches didn't like the taste of a Duncan donut over this performance... %D and %M with %T plus %s
+240117,Mark,Blake,GE,21,70,54,79,66,75,4,4,3,1,33,1,1,1,0, Full Time,news,%H and %P with %M... also a surprising %s
+200037,Cameron,Ling,GE,9,67,64,88,57,82,10,9,5,3,0,0,3,0,1, Full Time,tagger,Tagged McVeigh... %O
+210059,Josh,Hunt,GE,9,67,79,87,53,73,10,7,4,3,1,1,1,0,0, Full Time,job,Minded Moore... %P
+230022,Shannon,Byrnes,GE,14,62,77,79,50,69,8,7,3,3,0,0,1,1,0, Full Time,news,Shaw on him... %D and %T with %M
+970006,Cameron,Mooney,GE,5,62,66,84,49,68,11,3,5,3,0,0,2,0,2, Full Time,news,%O and %T
+261497,Harry,Taylor,GE,8,61,79,76,51,72,10,10,3,1,0,1,1,0,0, Full Time,job,On Goodes... %D
+990076,David,Wojcinski,GE,4,48,49,59,39,52,5,8,2,2,0,2,0,0,1, Full Time,news,Matched up on Jetta... %O
+980037,Matthew,Scarlett,GE,2,40,66,49,32,45,6,7,1,1,0,1,0,0,0, Full Time,job,Had Bradshaw... %P
+230125,Tom,Lonergan,GE,3,28,39,40,23,33,3,2,3,3,0,0,2,0,0, Full Time,job,Stood White
+280762,Shane,Mumford,SY,33,94,78,95,78,100,6,8,3,8,25,3,3,0,0, Full Time,news,Enjoyed the #1 ruck role... %H and %D with %M and %T
+240226,Kieren,Jack,SY,26,92,104,73,68,90,12,4,3,7,0,2,1,2,0, Full Time,tagger,Tagged Kelly then moved to Ablett jnr in Q2... %P and %M plus %s
+230132,Nick,Malceski,SY,15,90,123,67,70,96,12,11,5,4,0,1,0,0,0, Full Time,job,Minded Varcoe... %B among %D with %T and %M
+200023,Rhyce,Shaw,SY,13,84,99,44,66,87,16,6,6,1,0,2,0,0,0, Full Time,job,Ran with Byrnes... %D and %M
+260382,Josh P.,Kennedy,SY,19,78,87,72,59,87,7,14,1,7,0,1,1,0,0, Full Time,news,%D and %T
+200096,Tadhg,Kennelly,SY,14,75,96,41,64,90,13,12,5,0,0,0,1,0,0, Full Time,job,Has Hawkins... %D and %M
+200071,Ryan,O'Keefe,SY,20,71,72,51,60,84,11,6,5,4,0,1,4,1,0, Full Time,heart,Head to head with Ablett jnr in Q1 then shifted to a HFF on Mackie... %s from %O and %M... bumped high by Varcoe in Q2 and looked groggy but played on
+240072,Heath,Grundy,SY,13,71,92,55,62,84,9,10,7,2,0,1,2,0,0, Full Time,job,Stood Mooney... %P and %T with %M
+990114,Brett,Kirk,SY,13,69,68,50,53,78,10,10,1,5,0,2,2,0,0, Full Time,tagger,Tagged Selwood... %P and %T
+230253,Jarrad,McVeigh,SY,13,66,82,38,53,67,11,5,3,1,0,3,0,1,1, Full Time,pinkpig,Tagged by Ling... %s from %D
+281281,Lewis,Jetta,SY,13,65,45,49,48,67,9,6,3,4,0,0,0,0,1, Full Time,cash,Matched up on Wojcinski... %O and %M
+980073,Adam,Goodes,SY,15,63,25,47,56,79,9,7,5,3,0,0,4,1,1, Full Time,news,First goal... %s from %O and %G on Taylor... a number of clangers plus %F destroying his SC score
+990011,Jude,Bolton,SY,9,63,65,56,52,75,5,15,2,3,0,0,0,0,0, Full Time,tagger,Tagged Bartel... %O
+210027,Ted,Richards,SY,4,50,55,35,43,58,7,7,4,1,0,1,1,0,1, Full Time,ipod,On Podsiadly... %P
+250338,Nick,Smith,SY,3,50,52,31,40,54,8,6,3,1,0,1,0,0,0, Full Time,job,Followed Johnson... %D
+291206,Mike,Pyke,SY,9,47,58,40,48,63,3,10,2,0,18,0,2,0,0, Full Time,canada,%H and %P
+260373,Ed,Barlow,SY,10,46,35,39,39,54,5,6,2,3,0,1,2,1,0, Full Time,in,%l Lewis Roberts-Thomson... %P on Milburn
+250212,Jesse,White,SY,9,42,58,34,35,45,5,3,3,2,0,1,1,1,0, Full Time,news,%s from %P and %G on Lonergan... also %T
+291357,Gary,Rohan,SY,18,40,34,47,28,39,2,2,1,6,0,0,1,1,0, Full Time,rookie,First game... Mackie on him. in Q1... %T
+220063,Martin,Mattner,SY,3,38,39,28,28,39,6,2,2,3,0,1,1,0,0, Full Time,tagger,Tagged Chapman... %D and %T
+250080,Jarred,Moore,SY,1,21,20,13,18,24,3,4,1,0,0,1,0,0,0, Full Time,cold,%P and no score on Hunt
+960079,Daniel,Bradshaw,SY,7,15,7,11,15,18,2,0,2,0,0,0,1,1,0, Full Time,cold,Scarlett sat on him... no stats to QT... %s from %G and %O

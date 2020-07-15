@@ -1,0 +1,48 @@
+Essendon,Bombers,Hawthorn,Hawks,R6,15.16.106,9.9.63, Full Time
+May 01,2010,7:10,MCG,Ten,240027,10280604,5015538,4987,Clear with north wind,22
+Delayed for another week... not quite ready yet due to short week,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>kappa6198</em>: go bombers gd win looked great from above<br><em>nikos</em>: i thought gumbleton's sc score would be a lot higher <br><em>johndebono</em>: who would be jealous of a cheat ?<br><em>Akerwankis</em>: purple prat <br><em>CFC 1979</em>: purple yet<br><em style='color:#a0a'>PrimeTime</em>: bye guys<br><em style='color:#a0a'>PrimeTime</em>: u are jealous that im the PNG king<br><em>Akerwankis</em>: at least we get to wank over kelli underwood<br><em>Jumby</em>: JKT wil still make some $$$ at least&#044; got 100 last week<br><em>higgins76</em>: haha. prime time has some prime time to himself. u wrecked me<br><em>Shanos_72</em>: jkt=c r a p <br><em>singoman</em>: im jealous because i dont get to wank over a purple name lol??? a bit silly dont you think?<br>
+210079,Nathan,Lovett-Murray,ES,55,137,135,179,107,150,12,20,6,12,0,4,3,0,0, Full Time,hot,%D and %M
+250049,Brent,Prismall,ES,37,128,105,164,101,135,15,13,9,6,0,0,0,1,0, Full Time,hot,Why was he languishing at Bendigo... %D and %M with %T
+240027,Brent,Stanton,ES,37,127,138,163,100,136,17,13,7,6,0,1,1,1,1, Full Time,gun,%D and %M with %s
+230231,Jobe,Watson,ES,36,122,137,154,97,129,13,15,7,6,0,2,0,1,0, Full Time,star,Tagged by Sewell... %B among %O with %M and %T... also %s
+230238,Jason,Winderlich,ES,25,117,102,152,90,123,17,11,8,5,0,0,0,0,0, Full Time,hot,%D including %K
+200026,David,Hille,ES,23,113,98,140,97,122,12,11,9,3,10,2,1,1,1, Full Time,reported,Spent the first 12 minutes off the ground talking to doctors about something... %H and %D with %M and %s... shirtfronted Young in Q2 and may get weeks
+220115,Andrew,Welsh,ES,31,110,82,147,80,108,12,8,7,9,0,1,0,0,0, Full Time,reported,Tagged Hodge... %P and %T with %M... reported for kneeing Ellis in the groin off the ball in Q3
+250267,Patrick,Ryder,ES,34,104,106,129,85,102,7,4,4,7,28,2,1,1,2, Full Time,hot,%H and %T with %D and %M.. also %s
+960197,Dustin,Fletcher,ES,19,96,106,125,77,102,19,6,8,1,0,2,1,0,0, Full Time,mrp,On Roughead... %P... hit Ellis with a trailing elbow in Q3 which will attract attention
+270935,Michael,Hurley,ES,25,87,103,104,76,90,9,6,6,1,0,2,0,4,0, Full Time,heart,Off in Q1 with a right knee problem but back in Q2... %s from %P and %G on Gilham
+240319,Sam,Lonergan,ES,25,84,93,108,64,88,8,10,2,7,0,2,1,1,1, Full Time,news,%O and %T with %s
+990046,Mark,McVeigh,ES,14,84,80,113,59,81,15,3,4,5,0,1,0,0,0, Full Time,news,%O and %M with %T
+240245,Courtenay,Dempsey,ES,18,83,75,110,64,87,11,7,6,5,0,1,1,0,0, Full Time,job,Had Brown... %D and %M with %T
+250071,Henry,Slattery,ES,24,81,90,110,63,84,10,5,7,6,0,2,2,0,0, Full Time,tagger,Tagged Rioli... %P
+270951,David,Zaharakis,ES,19,78,66,101,63,81,11,4,6,3,0,1,1,1,3, Full Time,news,%D and %T
+230051,Alwyn,Davey,ES,17,76,84,98,60,78,10,3,4,4,0,0,1,2,3, Full Time,news,%s from %O
+240290,Angus,Monfries,ES,19,72,81,92,57,75,7,8,3,5,0,3,1,1,0, Full Time,news,%s from %P and %M with %T
+250366,Scott,Gumbleton,ES,16,69,58,91,57,70,8,2,8,3,0,1,1,1,1, Full Time,news,%s from %G and %O on Stratton
+261676,Jarrod,Atkinson,ES,9,66,80,87,48,66,8,6,3,5,0,1,0,0,0, Full Time,news,Not sure why he was playing over Howlett... %P and %M with %T
+250569,Heath,Hocking,ES,13,65,91,85,48,66,9,6,3,4,0,1,0,0,0, Full Time,tagger,Tagged Bateman... %O and %T
+230060,Ricky,Dyson,ES,4,53,25,72,39,51,8,1,5,3,0,0,0,0,0, Full Time,news,%O and %M with %T
+270588,Cale,Hooker,ES,3,34,70,42,30,42,4,7,2,1,0,1,1,0,0, Full Time,job,Stood Franklin
+240399,Lance,Franklin,HW,32,108,121,82,89,109,13,3,5,4,1,1,1,5,3, Full Time,hot,%s from %O and %G on Hooker... also %T
+250055,Clinton,Young,HW,21,96,96,70,80,102,12,10,6,2,0,2,0,2,0, Full Time,news,%P and %M plus %s
+220047,Luke,Hodge,HW,25,84,124,71,61,90,11,8,2,9,0,2,3,0,0, Full Time,tagged,Tagged by Welsh... %P and %T with %M
+200040,Chance,Bateman,HW,15,83,80,45,63,85,16,3,4,3,0,1,1,1,1, Full Time,tagged,Tagged by Hocking... %D and %s
+250308,Brent,Renouf,HW,20,78,44,85,69,86,3,8,6,5,19,1,2,0,1, Full Time,news,%H and %P with %T
+230197,Brad,Sewell,HW,19,77,66,64,57,82,10,7,3,7,1,1,2,0,0, Full Time,tagger,Tagged Watson... %O and %T with %M
+220013,Campbell,Brown,HW,16,62,64,63,47,66,5,7,4,6,0,0,1,0,0, Full Time,news,Up forward matched up on Dempsey... %D and %M plus %T
+260955,Cyril,Rioli,HW,9,61,51,46,48,63,9,3,6,3,0,1,1,0,0, Full Time,tagged,Tagged by Henry Slattery... %O and %M with %T
+210092,Michael,Osborne,HW,19,60,54,50,53,78,7,10,3,4,0,0,4,1,0, Full Time,news,First goal... %s from %O and %M with %F
+250089,Jordan,Lewis,HW,5,59,37,46,49,67,8,6,5,3,1,1,2,0,0, Full Time,news,%D and %M
+281301,Ryan,Schoenmakers,HW,15,56,39,56,41,54,5,2,3,6,6,1,1,0,0, Full Time,news,Played #2 ruck... %H and %D with %M and %T
+280471,Ben,Stratton,HW,8,54,85,41,48,63,6,10,5,0,0,1,0,0,0, Full Time,job,Stood Gumbleton... %M and %O
+200060,Brent,Guerra,HW,7,53,57,18,40,58,13,3,2,1,0,0,1,0,1, Full Time,news,%P and %s
+261386,Brendan,Whitecross,HW,4,51,37,45,40,54,5,7,3,3,0,1,0,0,0, Full Time,news,%O and %M with %T
+250146,Thomas,Murphy,HW,5,50,54,38,43,60,7,6,5,2,0,0,2,0,0, Full Time,job,Minded Zaharakis... %P and %T plus %M and %F
+271208,Jarrod,Kayler-Thomson,HW,4,46,14,29,38,51,8,3,5,1,0,0,1,0,0, Full Time,news,%P and %M
+240302,Grant,Birchall,HW,4,44,50,33,36,51,6,6,3,2,0,0,1,0,0, Full Time,news,%P and %M with %T
+280737,Liam,Shiels,HW,4,44,46,37,33,45,5,5,2,3,0,1,0,0,0, Full Time,news,%D and %M with %T
+220060,Rick,Ladson,HW,3,42,73,35,34,48,4,9,1,2,0,1,0,0,0, Full Time,news,%O including %b by hand
+250257,Xavier,Ellis,HW,4,42,54,30,36,52,6,7,2,2,1,1,2,0,0, Full Time,news,%B among %P with %M and %T
+230082,Stephen,Gilham,HW,5,39,63,32,43,60,4,9,5,0,6,0,4,0,0, Full Time,job,Had Hurley... %P and %M with %F.... also %H helping out Renouf in ruck
+240357,Jarryd,Roughead,HW,3,39,51,26,33,45,6,4,3,1,1,0,1,0,2, Full Time,cold,Booted %s from %G and %P on Fletcher

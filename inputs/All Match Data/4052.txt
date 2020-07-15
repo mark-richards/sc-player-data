@@ -1,0 +1,48 @@
+Carlton,Blues,Western Sydney,Giants,R6,15.20.110,6.7.43, Full Time
+May 6,2012,1:10,Docklands,Fox Sports,250105,10340607,430059,0,Roof closed,17,,
+
+<em>lenny20</em>: Good on you donzano. He probably shouldn't have named his multiple teams before.<br><em>mufc</em>: anyone elses comments takin five minutes to get posted?<br><em title="RICEANATOR">riceanator</em>: do high scores lower a players break even or increase it?<br><em>mufc</em>: murphy score better get bumped to 90<br><em>mufc</em>: whats t mean? trolololololololol<br><em>BillyBeane</em>: man0005 - that's the best advice I've had - you're right - you hypocrites are a waste of time.<br><em>Hawks4Flag</em>: give Bootsma the spark<br><em>Dont_Argue</em>: Sub bern activated<br><em>BillyBeane</em>: My son enjoys being involved and playing against his Uncles. You're just jealous.<br><em>SChawkMI</em>: @jormas don't use 2 trades on cheap players in 1 week<br><em>Clark U</em>: If ur son is too young to trade then he shouldnt have a team. Give him some crayons to play with.<br><em>Jayman</em>: flower u murphy kennedy giles bugg<br>
+230202,Kade,Simpson,CA,37,123,113,157,98,131,13,12,7,7,0,0,1,2,2, Full Time,hot,%2 Palmer... %O and %T plus %M and %s,,
+290311,Mitch,Robinson,CA,30,123,128,157,96,128,17,11,7,5,1,1,0,1,1, Full Time,star,%D and %T with %M and %s,,
+250211,Paul,Bower,CA,31,116,122,152,90,117,16,6,10,5,0,0,0,1,0, Full Time,hot,%P and %M with %T and %s,switch,Switched from defence to attack in Q3
+270737,Shaun,Hampson,CA,37,103,115,118,99,115,8,7,7,0,31,1,2,3,0, Full Time,garbage,%H and %D plus %M... all of his %s in Q4 junk time,,
+250090,Jordan,Russell,CA,26,99,101,128,80,108,7,14,8,7,0,1,1,0,0, Full Time,news,%P and %T with %M,job,On a HBF on Sumner
+261043,Michael,Jamison,CA,15,98,92,131,74,97,18,2,9,3,0,0,0,0,1, Full Time,news,%P and %M plus %T... also %s,job,Standing Giles
+240014,Andrew,Walker,CA,21,94,100,120,79,104,13,7,7,3,0,0,2,2,2, Full Time,news,First goal... %s from %P and %M on Mohr... also %T,,
+250105,Marc,Murphy,CA,19,94,89,116,75,103,11,16,3,4,0,3,0,0,1, Full Time,tagged,Tagged by McDonald... %O and %T,,
+261299,Matthew,Kreuzer,CA,12,89,83,113,73,90,10,4,8,3,14,0,0,0,1, Full Time,news,%H and %D plus %T and %M... also %s,,
+250417,Bryce,Gibbs,CA,15,85,82,116,65,94,16,5,5,5,0,0,3,0,1, Full Time,news,%D and %T with %M and %s,,
+990059,Heath,Scotland,CA,10,84,93,106,69,96,11,13,5,3,0,1,1,0,0, Full Time,news,Started slowly... %D and %T plus %M,,
+261258,David,Ellard,CA,39,82,78,115,56,81,10,4,3,10,0,1,2,0,0, Full Time,news,%O and %T... also %F,tagger,Tagging Ward
+281079,Kane,Lucas,CA,21,81,61,107,61,76,10,0,6,5,0,0,0,2,1, Full Time,news,%s from %D and %M on Shiel... also %T,,
+261318,Aaron,Joseph,CA,14,80,84,103,62,84,10,9,5,4,0,1,0,0,0, Full Time,news,%P and %M plus %T,,
+220108,Bret,Thornton,CA,21,78,75,95,69,82,9,4,8,0,0,0,0,3,1, Full Time,news,%s from %D and %M on Hombsch,,
+270653,Jeff,Garlett,CA,15,75,71,96,60,75,11,3,6,2,0,1,0,1,3, Full Time,news,Bugg on him... didn't touch the ball in Q1... %s from %D and %M,,
+261009,Nick,Duigan,CA,9,74,78,97,58,79,12,6,5,3,0,1,1,0,1, Full Time,news,%P and %T with %M,job,Minding Hampton
+240060,Eddie,Betts,CA,4,56,52,72,44,59,10,4,4,1,0,0,0,0,2, Full Time,news,%s from %P and %M on Kennedy,,
+292511,Zach,Tuohy,CA,4,45,56,57,37,54,4,9,2,3,0,0,1,0,0, Full Time,job,Minding Smith... %P and %T with %M,,
+270326,Lachie,Henderson,CA,3,39,66,51,31,40,8,1,4,0,1,0,0,0,0, Full Time,job,Has O'hAilpin... %M and %P,subbed,Subbed off at 3QT for Bootsma
+260533,Dennis,Armfield,CA,2,38,40,51,26,37,6,2,1,3,0,0,0,0,1, Full Time,news,%s from %D up forward on Power... also %T,,
+296531,Joshua,Bootsma,CA,2,30,10,40,22,30,6,1,2,1,0,0,0,0,0, Full Time,in,Late replacement for Ed Curnow... on after 3QT for Henderson,sub,Started as a sub
+295344,Toby,Greene,WS,25,122,99,93,96,128,16,12,9,5,0,1,0,0,2, Full Time,hot,%D and %M plus %T and %s... had a good Q2,,
+291771,Devon,Smith,WS,21,97,111,72,73,100,14,8,5,6,0,2,1,0,1, Full Time,news,%D and %T on Tuohy... also %M... had an excellent Q3,,
+291969,Stephen,Coniglio,WS,19,97,87,77,75,103,12,11,6,5,0,0,0,0,1, Full Time,news,%P and %T with %M and %s,,
+970130,James,McDonald,WS,25,92,84,74,73,107,11,15,3,6,0,0,2,0,2, Full Time,news,%P and %T plus %M and %s,tagger,Tagging Murphy
+11,Taylor,Adams,WS,15,91,90,55,73,99,16,7,8,2,0,0,1,0,0, Full Time,bubble,Second game... %D and %M,,
+291783,Dylan,Shiel,WS,13,80,74,62,69,93,9,14,7,1,0,0,0,0,0, Full Time,job,In defence on Lucas... %B among %D with %M,,
+280969,Tom,Scully,WS,21,75,82,74,55,75,6,7,3,7,0,0,0,1,0, Full Time,news,%O and %T plus %M and %s,,
+261189,Tim,Mohr,WS,18,72,91,62,58,78,8,8,6,4,0,1,1,0,0, Full Time,news,%M and %P with %T,job,Standing Walker
+980011,Luke,Power,WS,10,72,104,45,58,81,12,8,5,2,0,0,1,0,0, Full Time,news,%M and %D,job,In defence on Armfield
+280804,Phil,Davis,WS,12,68,63,61,56,69,6,5,5,3,0,1,0,2,0, Full Time,sore,Started forward... %s from %D and %M with %T... ducked his head into Duigan's knee in Q2... left big toe restrapped in Q3,,
+291802,Tomas,Bugg,WS,9,68,55,46,55,78,11,7,5,3,0,0,2,0,0, Full Time,job,Chasing Garlett... %O and %T with %M... also %F,,
+261231,Rhys,Palmer,WS,8,65,61,37,54,72,11,8,5,0,0,1,0,0,0, Full Time,news,%2 Simpson... %P and %M,,
+9,Liam,Sumner,WS,14,64,92,55,52,69,6,9,3,3,0,1,0,1,0, Full Time,rookie,First game... %s from %P and %M on Russell... also %T,,
+261841,Jonathan,Giles,WS,14,59,56,57,49,66,4,7,0,5,18,1,2,0,0, Full Time,news,%H and %P with %T... also %F,,
+280109,Callan,Ward,WS,7,54,71,31,43,61,9,9,0,2,1,3,1,0,0, Full Time,tagged,Tagged by Ellard... %P,,
+291784,Dom,Tyson,WS,8,52,41,40,44,60,6,9,4,1,0,0,0,0,0, Full Time,news,%O and %M,,
+290306,Curtly,Hampton,WS,4,47,48,40,36,51,5,7,2,3,0,0,0,0,0, Full Time,news,%P and %M on Duigan... also %T,,
+291964,Jack,Hombsch,WS,4,47,64,41,38,48,5,4,5,2,0,1,0,0,0, Full Time,job,On Thornton... %P and %M,,
+291509,Adam,Kennedy,WS,3,40,40,26,32,45,6,6,2,1,0,0,0,0,0, Full Time,wall,%O,job,In defence on Betts
+240716,Setanta,O'hAilpin,WS,8,34,59,28,29,34,3,2,1,1,0,1,0,2,1, Full Time,injured,Kicked %s from %D on Henderson... left knee injury in Q3,,
+261374,Sam,Reid,WS,3,27,25,24,20,27,3,2,2,2,0,0,0,0,0, Full Time,news,On after HT for Brogan... %P,sub,Started as a sub
+200111,Dean,Brogan,WS,1,13,15,10,12,14,1,2,0,0,5,1,0,0,0, Full Time,injured,Right forearm knock in Q1... on after a long time off in Q2... %H and %D,subbed,Subbed off at HT for Reid

@@ -1,0 +1,48 @@
+Essendon,Bombers,Western Sydney,Giants,R6,17.18.120,12.9.81, Full Time
+May 04,2013,1.45,Docklands,Seven,240027,10390602,ess-v-gws,0,Roof closed,15,,
+
+<em>W.Mantooth</em>: you're gone watson. dont let the door hit you on the way out<br><em>JobeyOne</em>: hibberd definitely BOG<br><em>Bluffie</em>: thank you hibberd for lifting... 120 in 3 qtrs in sc<br><em>MudDawg</em>: Give Watson the Mare&#044; mOnty.<br><em>mdon11</em>: What happened to Bellchambers?<br><em>Jormas</em>: i'll cut him some slack and offload him to Watson/Cotchin in 2 weeks time @ sewelly<br><em>dezza33</em>: essendond game next week?<br><em>Sewelly07</em>: thank u jeremy cameron for kicking the most goals<br><em>Jormas</em>: townsend almost doubled watsons score lol<br><em>JobeyOne</em>: 15 secs<br><em>Nick_Goggs</em>: Bauguley Junktime<br><em>Sewelly07</em>: lol first year player. cut him slack maybe?<br>
+261314,David,Myers,ES,26,115,104,153,93,124,16,8,12,5,1,0,2,0,0, Full Time,hot,%O and %M with %T... also %F,,,362400,71,381700,92,Back,23
+230084,Brendon,Goddard,ES,32,114,97,146,87,118,13,12,5,7,1,1,0,1,0, Full Time,gun,%P and %T with %M and %s,skull,Got the Scully tag in Q3,505000,107,551000,118,Back Centre,9
+290160,Michael,Hibberd,ES,19,105,124,134,87,117,18,11,9,1,0,1,1,0,0, Full Time,cherry,Quiet first half but better in Q3... %D and %M,,,411500,40,470900,57,Back,1
+230051,Alwyn,Davey,ES,33,96,105,122,80,104,10,6,4,6,0,1,3,4,2, Full Time,garbage,%s from %P and %T... most of his goals in Q4 junk time,bugg,Bugg on him,271900,55,319900,51,Forward,29
+240245,Courtenay,Dempsey,ES,19,95,112,121,75,103,16,10,6,2,0,0,0,0,1, Full Time,news,%O and %M plus %s,job,Treloar manning him up,391100,83,406200,78,Back,15
+270951,David,Zaharakis,ES,19,95,92,123,72,103,17,10,3,4,0,1,1,0,1, Full Time,star,%2 Greene... %P and %T with %M and %s,,,431100,43,467100,40,Centre,11
+294798,Mark,Baguley,ES,20,93,87,118,76,100,15,8,6,2,0,2,1,1,1, Full Time,job,Minding Palmer... %O and %M,,,302800,71,321200,79,Back,46
+200026,David,Hille,ES,21,88,73,107,77,98,11,7,4,2,18,1,2,1,2, Full Time,news,%s from %P and %T up forward on Mohr... also %M and %H,,,383000,107,403700,106,Forward Ruck,19
+270588,Cale,Hooker,ES,20,87,93,114,74,99,13,8,10,2,0,0,2,0,0, Full Time,news,%D and %M with %T,job,On Frost then moved to Cameron in Q2,328100,60,400300,60,Back,26
+292503,Stewart,Crameri,ES,20,82,116,97,69,84,11,5,2,1,0,2,0,4,3, Full Time,news,Kicked %s from %D on Gilham,,,344300,93,425600,129,Forward,12
+250366,Scott,Gumbleton,ES,21,74,99,92,61,73,5,4,5,4,0,1,0,3,1, Full Time,news,%s from %P and %M on Bruce... also %T,,,249600,-14,306800,15,Forward,3
+280824,Jake,Melksham,ES,14,71,58,94,54,75,11,6,4,4,0,1,1,0,0, Full Time,tagger,Tagging Ward... %O and %T with %M,,,324700,51,327700,70,Centre,17
+260073,Ben,Howlett,ES,14,69,57,93,53,75,10,6,4,5,0,1,2,0,0, Full Time,news,%D and %M with %T... %F as well,,,440400,134,459900,137,Centre,40
+270584,Kyle,Hardingham,ES,18,69,96,84,61,78,8,9,7,0,0,0,0,1,0, Full Time,news,%P and %M plus %s,job,Has Tomlinson,252400,,343200,,Back,34
+295285,Jackson,Merrett,ES,10,68,62,92,50,67,10,3,4,5,0,2,1,0,1, Full Time,cash,%s from %D and %M... also %T,,,204800,14,210500,7,Centre,20
+261320,Tom,Bellchambers,ES,12,62,60,74,56,68,6,6,4,1,10,2,1,1,1, Full Time,sore,One kick in Q1... smashed about the park by Giles... %H and %P... iced right calf in Q4 but played on,,,407300,50,460200,67,Ruck,2
+271022,Tayte,Pears,ES,8,59,83,75,52,72,9,9,5,1,0,1,2,0,0, Full Time,job,Following Cameron but got smashed in Q1 and shifted to Frost in Q2... %P and %M... also %F,,,232900,,291600,,Back,16
+230231,Jobe,Watson,ES,8,54,66,65,49,73,7,14,2,1,0,0,2,0,1, Full Time,tagged,Tagged by Townsend... %P and %T... also %s and %F,,,532500,107,611800,101,Centre,4
+250352,Leroy,Jetta,ES,9,54,61,71,41,58,5,7,2,5,0,1,1,0,1, Full Time,news,%s from %O and %T,,,330200,,368400,,Forward,7
+240027,Brent,Stanton,ES,8,51,41,70,35,48,6,2,3,5,0,0,0,0,0, Full Time,injured,Tagged by Scully... %P and %T with %M.... tweaked his right adductor/quad in Q2... back on after 10 minutes,subbed,Subbed off in Q3 for Hocking,581700,109,567100,102,Centre,5
+250569,Heath,Hocking,ES,9,42,41,55,36,49,8,2,3,1,0,0,2,1,1, Full Time,news,On in Q3 for Stanton... %P and %s... also %F,sub,Started as a sub,329100,75,303600,90,Centre,39
+291686,Nick,Kommer,ES,4,42,57,53,33,45,3,7,2,3,0,1,0,0,0, Full Time,cash,%P and %T on Hampton... also %M,,,140900,-4,161500,-16,Centre,38
+291776,Taylor,Adams,WS,27,120,94,86,95,123,17,7,9,4,0,0,0,2,0, Full Time,hot,%s from %P and %M,,,387800,,400900,,Centre,11
+280969,Tom,Scully,WS,31,109,116,94,83,108,12,6,7,7,0,0,0,2,0, Full Time,hot,%P and %T plus %M and %s,tagger,Tagging Stanton then moved to Goddard in Q3,342100,43,360500,58,Centre,9
+291790,Adam,Treloar,WS,30,109,106,82,89,118,14,12,7,4,1,2,1,1,0, Full Time,hot,%D and %M with %T playing a forward role on Dempsey,,,422900,107,419900,95,Centre,17
+230082,Stephen,Gilham,WS,20,100,118,69,83,105,15,7,12,1,0,1,0,0,0, Full Time,hot,%M and %O,job,On Crameri,236100,51,271700,62,Back,38
+293845,Jeremy,Cameron,WS,33,96,101,74,86,96,10,2,8,0,0,2,0,6,0, Full Time,target,First goal... %s from %P and %G on Pears including three majors in Q1... got Hooker in Q2,,,270000,55,300000,71,Forward,18
+261189,Tim,Mohr,WS,14,93,97,46,74,100,19,5,8,1,0,0,1,0,1, Full Time,news,%P and %M plus %s,job,Has the resting ruck which is mostly Hille,261300,33,380200,83,Back,39
+261231,Rhys,Palmer,WS,15,88,67,61,73,95,13,8,8,2,0,2,1,0,2, Full Time,news,%s from %O and %T with %M up forward on Baguley,,,383600,42,380000,44,Centre,7
+295344,Toby,Greene,WS,10,84,68,35,63,87,19,4,4,2,0,2,1,0,0, Full Time,news,%2 Zaharakis... %P and %M,,,408400,66,401700,87,Centre,4
+261841,Jonathan,Giles,WS,26,82,89,73,74,93,6,8,1,4,36,2,3,0,0, Full Time,news,%H and %D with %T... also %F,,,384200,98,461600,125,Ruck,26
+291891,Jacob,Townsend,WS,14,77,47,59,58,79,11,5,5,5,1,1,1,0,0, Full Time,news,%O and %M with %T,tagger,Tagging Watson,212200,,200400,,Centre,31
+291969,Stephen,Coniglio,WS,9,72,84,45,56,76,12,6,5,2,0,0,0,0,1, Full Time,news,%D and %T plus %M and %s,,,386500,65,401000,77,Centre,3
+280109,Callan,Ward,WS,9,61,75,39,49,65,10,5,4,2,0,2,1,0,2, Full Time,tagged,Tagged by Melksham... %P and %M plus %s,,,502600,110,539400,119,Centre,8
+261374,Sam,Reid,WS,18,60,61,57,46,69,6,9,1,7,0,2,3,0,0, Full Time,news,%O and %T... also %F,,,258200,17,289600,34,Centre,23
+291771,Devon,Smith,WS,5,48,39,38,42,58,6,7,4,2,0,1,2,0,1, Full Time,news,%P and %T with %M and %s,,,359100,34,349300,21,Forward Centre,10
+290306,Curtly,Hampton,WS,3,47,38,31,38,51,7,6,3,1,0,1,0,0,0, Full Time,job,In defence on Kommer... %P and %M,,,271300,92,285400,90,Back Forward,2
+291802,Tomas,Bugg,WS,4,47,47,29,37,48,8,3,4,1,0,1,0,0,0, Full Time,job,Minding Davey... %P and %M,in,Late replacement for Adam Kennedy,326600,123,354000,135,Back,14
+291492,Josh,Bruce,WS,10,46,51,31,41,54,7,4,4,1,0,1,2,1,0, Full Time,gumby,Standing Gumbleton... %O and %M,,,235300,,244000,,Back Forward,47
+291783,Dylan,Shiel,WS,7,46,62,35,39,55,5,10,2,1,1,0,0,0,0, Full Time,news,%B among %D,,,374900,50,439800,53,Centre,5
+293738,Sam,Frost,WS,4,46,58,41,38,50,4,7,3,2,2,1,0,0,0, Full Time,news,%P and %T with %M up forward on Hooker then Pears... also %H,subbed,Subbed off in Q4 for Williams,199600,,278400,,Back,48
+291819,Adam,Tomlinson,WS,4,42,47,23,38,51,8,4,5,0,0,1,2,0,0, Full Time,news,%D and %M on Hardingham... also %F,,,241000,,258000,,Forward,20
+294508,Aidan,Corr,WS,2,26,38,18,22,30,4,3,2,1,0,1,1,0,0, Full Time,rookie,Donuts in Q1... first game... %P,,,125200,,134500,,Back,35
+294685,Zachary,Williams,WS,1,24,17,11,17,24,5,2,0,1,0,1,0,0,0, Full Time,bubble,Second game... on in Q4 for Frost,sub,Started as a sub,89300,,96200,,Back Centre,51

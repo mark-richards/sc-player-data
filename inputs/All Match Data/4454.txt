@@ -1,0 +1,48 @@
+West Coast,Eagles,Western Bulldogs,Bulldogs,R6,21.11.137,10.7.67, Full Time
+May 05,2013,4.40,Subiaco,Seven,200112,10390609,wce-v-wb,0,Partly cloudy,28,,
+
+<em style='margin-bottom:-2px'><b class="ticon tES"></b> Nthn</em>: Won my game by 4 points...<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> W.Mantooth</em>: seals it? game over at half time<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> Dicko</em>: Might have won by 1 point.<br><em>banta</em>: wish lecras could kick straight. would have cashed in nicely<br><em>doogz</em>: rock&#044; bin&#044; cross&#044; vulture&#044; heart&#044; star&#044; cheery and hulk... 8 icons!<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: Omg i just realized i played viney over jones in sc flower flower flower flower <br><em>doogz</em>: 6 icons for WCE... that is alot!<br><em>Fonz99</em>: Hill seals it against his old side<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> J.Gabor</em>: $ for koby stevens<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> dezza33</em>: so wellingham is the vulture<br><em>gambler</em>: JJK 72 point last half <br><em style='margin-bottom:-2px'><b class="ticon tME"></b> kiddy56</em>: Need 9 from Kennedy for 2000 in dt cmon mate<br>
+240124,Matt,Priddis,WC,32,124,113,157,96,129,14,15,5,7,0,3,0,1,0, Full Time,hulk,Tagged by Lower... %D and %M with %T and %s,,,435800,172,525800,205,Centre,11
+261290,Chris,Masten,WC,38,120,125,160,89,123,19,7,5,8,0,2,2,1,0, Full Time,hot,%P and %T plus %M and %s,,,486600,92,509000,144,Centre,7
+270928,Scott,Selwood,WC,49,119,110,158,88,123,11,13,6,11,0,1,1,0,0, Full Time,cherry,No tagging required today... %D and %M with a massive %T,,,561700,78,549300,99,Centre,10
+280078,Luke,Shuey,WC,27,118,139,148,93,118,15,10,5,5,0,5,0,2,1, Full Time,star,Tagged by Stevens... %O and %M plus %T and %s,injured,Left ankle knock in Q4 and mothballed,492900,83,515900,86,Centre,13
+200112,Dean,Cox,WC,34,112,126,133,106,122,12,2,9,0,29,1,3,4,0, Full Time,heart,First goal... %H with %P and %M plus %s... copped an Austin knee to the face in ruck in Q1 but soldiered on,,,505500,131,623000,170,Forward Ruck,20
+240119,Mark,LeCras,WC,25,106,117,133,88,106,18,1,9,0,0,1,0,3,4, Full Time,hot,%s from %D and %M on Morris,,,390200,57,417800,61,Forward,2
+261799,Sharrod,Wellingham,WC,24,102,73,134,78,109,18,8,6,4,0,0,1,0,1, Full Time,vulture,Starting on a HFF... %s from %O and %M with %T,,,424300,,436200,,Forward Centre,12
+240283,Shannon,Hurn,WC,14,96,118,128,71,96,21,2,7,2,0,0,0,0,0, Full Time,tagged,Forward tag on him by Addison... %O and %M,,,328300,78,442900,75,Back,25
+260546,Bradd,Dalziell,WC,14,88,66,115,66,88,12,7,5,5,0,2,0,0,1, Full Time,news,%P and %T with %M,,,197500,56,258100,14,Centre,18
+290838,Jack,Darling,WC,22,86,120,102,75,88,11,3,5,0,0,1,0,5,1, Full Time,x-factor,Kicked %s from %O and %M on Young including three in Q2 and five to HT,sore,Left thigh corkie late in Q4 when Kennedy ran into him,398100,111,447500,135,Forward,27
+240406,Josh J.,Kennedy,WC,21,83,80,101,71,82,10,2,6,1,0,2,0,4,1, Full Time,garbage,%s from %D and %M on Roughead... no stats at all in Q2... all his goals in second half junk time,,,394500,69,448000,75,Forward,17
+280324,Jacob,Brennan,WC,20,81,77,110,56,78,13,3,4,6,0,0,0,0,0, Full Time,news,%D and %M plus %T,job,Chasing Dahlhaus,242900,53,242200,74,Back,14
+261214,Will,Schofield,WC,10,76,71,100,61,78,9,5,9,3,0,0,0,0,0, Full Time,in,Late replacement for Beau Waters... %P and %T with %M,job,Responsible for Macrae,260700,56,327900,66,Back,31
+200074,Darren,Glass,WC,13,71,108,90,59,75,8,8,7,2,0,2,0,0,0, Full Time,rock,At FB on Austin... %P and %M,,,222800,21,266700,64,Back,23
+270953,Ashley,Smith,WC,13,67,45,86,57,72,10,5,9,0,0,0,0,0,0, Full Time,job,Has Tutt... %O and %M,,,254100,,289900,,Back,28
+260303,Mitchell,Brown,WC,15,62,60,84,43,60,5,5,3,7,0,0,0,0,0, Full Time,job,Has Stringer... %P and %T,,,209500,,233600,,Forward,1
+210018,Daniel,Kerr,WC,12,61,70,76,48,72,5,14,0,5,0,1,1,0,0, Full Time,news,%2 Boyd... %O including %B... also %T,,,366100,106,451000,124,Centre,4
+250317,Eric,Mackenzie,WC,15,58,53,77,43,58,3,6,4,6,1,0,0,0,0, Full Time,job,On Jones... %D and %T,,,229900,65,309800,93,Back,16
+290801,Andrew,Gaff,WC,8,57,59,73,45,66,10,8,2,2,0,0,1,0,0, Full Time,news,%P and %T,,,386900,79,418100,90,Centre,3
+261209,Josh,Hill,WC,11,54,58,69,45,58,7,4,4,2,0,1,1,1,1, Full Time,news,%D and %M on Johannisen,,,328100,83,412800,109,Forward,33
+294737,Callum,Sinclair,WC,5,47,67,60,37,46,4,2,3,3,10,0,0,0,0, Full Time,cash,%P and %T with %M up forward... also %H in ruck support,subbed,Subbed off in Q3 for Naitanui,189000,-3,213000,-7,Forward Ruck,22
+271045,Nic,Naitanui,WC,7,34,40,38,33,38,1,4,1,1,17,2,1,0,0, Full Time,news,On in Q3 for Sinclair,sub,Started as a sub,442800,,611000,,Forward Ruck,9
+293847,Clay,Smith,WB,26,103,99,66,81,112,16,10,3,4,0,0,1,2,1, Full Time,hot,%O and %s,,,340000,78,316900,58,Centre,14
+271439,Liam,Picken,WB,25,86,75,84,63,90,7,12,3,8,0,0,0,0,0, Full Time,news,%P and %T,job,Minding the resting midfielder,341700,75,352200,56,Centre,42
+230041,Adam,Cooney,WB,15,84,87,51,69,93,13,11,4,1,0,1,0,1,0, Full Time,news,%D and %M plus %s,,,431600,72,480100,85,Centre,17
+281078,Liam,Jones,WB,20,84,77,64,69,86,11,4,9,2,0,0,0,1,2, Full Time,news,Mackenzie on him... %D and %M with %T,,,255900,39,306800,49,Forward,19
+210049,Daniel,Cross,WB,15,81,77,60,62,85,11,9,4,4,1,1,0,0,0, Full Time,news,%P and %M with %T,,,462800,82,500500,119,Centre,4
+220010,Matthew,Boyd,WB,19,80,102,70,67,96,7,18,3,4,0,1,1,0,0, Full Time,news,%2 Kerr... %O and %M with %T,,,593700,164,605800,180,Centre,5
+260713,Nick,Lower,WB,31,75,65,63,57,84,10,6,2,8,0,1,4,1,0, Full Time,tagger,Tagging Priddis... %P and %T plus %s,sore,A Priddis poke to the eye in Q4 drew blood,301000,66,296000,89,Centre,33
+280946,Koby,Stevens,WB,14,69,81,58,57,81,8,10,5,4,0,0,2,0,0, Full Time,tagger,Tagging Shuey... %D and %T with %M,,,248200,32,265400,21,Centre,25
+230255,Will,Minson,WB,20,66,106,48,67,86,7,7,1,1,38,1,5,0,0, Full Time,news,%H and %P... also %F,,,432900,95,534000,113,Ruck,27
+240212,Dylan,Addison,WB,15,66,69,59,52,69,6,8,3,4,0,1,0,1,0, Full Time,tagger,Forward tag role on Hurn... %D and %M,,,304900,,319800,,Back Forward,22
+290799,Tom,Liberatore,WB,18,66,78,52,49,75,9,9,1,6,0,0,2,0,0, Full Time,news,%P and %T... also %F,,,422800,63,471700,52,Centre,21
+291526,Luke,Dahlhaus,WB,8,62,69,39,51,73,9,12,2,1,0,0,0,0,1, Full Time,news,%O on Brennan,,,319600,74,384500,85,Forward,6
+295467,Jackson,Macrae,WB,13,58,57,29,43,60,11,5,0,2,0,1,0,1,0, Full Time,cash,%s from %D and %T on Schofield,,,161200,9,174500,35,Centre,11
+281013,Jason,Tutt,WB,9,52,43,37,40,52,8,1,3,3,0,1,1,1,1, Full Time,news,%s from %P and %T on Smith,,,203000,8,194800,12,Centre,15
+280012,Jordan,Roughead,WB,9,50,76,49,37,51,5,3,4,5,0,0,1,0,0, Full Time,news,%D and %T with %M,job,Has Kennedy,247300,7,311300,22,Back Forward,23
+294826,Tom,Young,WB,7,49,51,22,39,54,10,5,3,0,0,0,0,0,0, Full Time,job,Following Darling... %P and %M,,,291100,40,331400,29,Back,31
+291545,Mitch,Wallis,WB,9,35,29,21,29,42,6,4,0,2,0,1,2,1,0, Full Time,news,On in Q3 for Stringer,sub,Started as a sub,401000,93,431000,125,Centre,3
+281374,Christian,Howard,WB,1,31,55,12,22,30,7,2,0,1,0,2,0,0,0, Full Time,news,%P,,,309100,,328300,,Back,30
+294101,Jason,Johannisen,WB,2,27,23,2,22,33,9,0,2,0,0,0,2,0,0, Full Time,job,Responsible for Hill... %D,,,228800,18,292200,24,Back,39
+261243,Mark,Austin,WB,1,23,38,24,17,25,2,2,1,3,1,0,1,0,0, Full Time,switch,Started at FF on Glass... that did not work so he went back in Q2... %P and %T,,,217800,,276300,,Back,47
+293884,Jake,Stringer,WB,7,22,30,20,16,21,2,1,0,2,0,0,0,1,0, Full Time,injured,%s from %D up forward on Brown... knock to his left kneecap in Q2,subbed,Subbed off in Q3 for Wallis,165700,19,179500,19,Forward,9
+250712,Dale,Morris,WB,1,9,16,4,11,18,2,3,1,0,0,0,2,0,0, Full Time,job,On LeCras... %O,,,239700,38,329600,51,Back,38

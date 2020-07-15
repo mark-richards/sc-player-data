@@ -1,0 +1,48 @@
+Geelong,Cats,Sydney,Swans,QF,12.14.86,15.9.99, Full Time
+Aug 27,2011,2:10,Kardinia,Fox Sports,230248,10312303,5654,175,Cloudy and windy,15,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>chinospot</em>: yes these are adjusted<br><em>MajicMajak</em>: have these been adjusted yet?<br><em>ELLsendon</em>: go the blies<br><em>97crows98</em>: Where are SC scores?<br><em>richorocks</em>: mumford 170 steve j 90 chappy 91<br><em>Daza7792</em>: mumford 170sc!<br><em>MajicMajak</em>: please 150+ mummy<br><em>johno69</em>: Mumford's SC ?<br><em>macca.barb</em>: fev kicked 10 i think <br><em>Poppy8</em>: fev kicked 8 goals 4<br><em>toxic</em>: C'mon captain MUMMY<br><em>Daza7792</em>: fev kicked 10<br>
+200037,Cameron,Ling,GE,43,131,121,167,98,132,15,11,3,9,0,1,0,3,0, Full Time,hot,%P and %T plus %M and %s,tagger,Tagging Kennedy
+220058,James,Kelly,GE,48,113,113,150,79,117,10,15,1,13,0,1,1,0,0, Full Time,hot,%O and %T... a massive eight of those tackles in Q1,,
+200039,Paul,Chapman,GE,26,104,91,134,78,109,14,12,4,6,0,1,0,0,1, Full Time,hot,Tagged by Jack... %D and %M with %T and %s,,
+220007,Jimmy,Bartel,GE,21,101,107,127,80,108,13,11,3,5,0,2,1,2,0, Full Time,hot,%2 O'Keefe... %P and %T plus %M an d %s,,
+250321,Joel,Selwood,GE,20,100,105,129,73,95,13,9,2,7,0,7,0,0,2, Full Time,hot,Tagged by McGlynn... %P and %T plus %M and %s... also a massive %4 frees for,,
+230214,Mathew,Stokes,GE,16,90,88,110,74,98,12,12,4,2,0,2,0,1,2, Full Time,news,%s from %P and %M on Mattner... also %T,,
+200035,Corey,Enright,GE,14,84,105,110,68,96,14,9,6,3,0,0,2,0,0, Full Time,news,%P and %M with %T,,
+220054,Steve,Johnson,GE,20,79,90,102,62,82,11,6,4,4,0,2,1,1,1, Full Time,news,%s from %D and %M with %T on Shaw... scoreless until Q4 but it was too late,,
+230248,Andrew,Mackie,GE,19,73,67,100,51,72,12,3,3,6,0,1,1,0,0, Full Time,job,Moved from Parker to Spangher in Q3 to cover Taylor's injury... %O and %M with %T,,
+980064,Brad,Ottens,GE,20,69,75,80,73,94,6,10,3,1,32,2,6,0,2, Full Time,news,%H and %D with %M... also %F and %s,,
+250290,Travis,Varcoe,GE,18,68,83,85,51,72,7,10,0,5,0,1,0,1,0, Full Time,news,%D and %T plus %s,,
+210059,Josh,Hunt,GE,9,66,91,87,52,72,10,6,5,3,0,0,1,0,0, Full Time,job,Minding Meredith... %M and %D with %T,,
+291307,Daniel,Menzel,GE,14,66,62,83,53,70,11,5,4,1,0,0,0,1,1, Full Time,news,%s from %D and %M,,
+980037,Matthew,Scarlett,GE,12,66,94,83,49,72,7,12,0,5,0,1,0,0,0, Full Time,job,Responsible for White... %P and %T,,
+260261,Trent,West,GE,16,64,54,78,59,74,5,4,3,3,23,0,3,1,0, Full Time,news,First goal... %s from %P and %G on Richards... also %T and %H,,
+230022,Shannon,Byrnes,GE,9,55,59,68,44,58,9,5,2,1,0,1,0,1,1, Full Time,news,%s from %O and %M on Kennelly,,
+990076,David,Wojcinski,GE,14,52,61,64,42,60,4,10,0,4,0,1,1,1,0, Full Time,news,%2 Hannebery off a wing... %O and %T plus %s,,
+261510,Tom,Hawkins,GE,3,47,76,60,39,53,8,5,3,1,1,1,1,0,1, Full Time,news,%s from %G and %P on Grundy,,
+200131,James,Podsiadly,GE,3,45,36,58,37,49,4,5,3,3,2,1,1,0,2, Full Time,news,%s from %D and %T with %M on Johnson,,
+230125,Tom,Lonergan,GE,8,33,48,43,27,39,0,7,2,4,0,0,1,0,0, Full Time,job,On Reid... %D and %T with %M,,
+280918,Allen,Christensen,GE,3,30,15,43,26,39,4,3,3,3,0,0,3,0,0, Full Time,news,On in Q2 for Taylor... %P and %T with %M and %F,sub,Started as a sub
+261497,Harry,Taylor,GE,1,18,28,21,15,21,3,4,0,0,0,1,0,0,0, Full Time,injured,Standing Spangher... %O... copped Lonergan's arm in his moosh in Q2 and looked groggy,subbed,Subbed off in Q2 for Christensen
+280762,Shane,Mumford,SY,45,135,170,132,118,144,7,15,4,7,39,5,2,1,0, Full Time,star,Set up a heap of scores with hit outs to advantage... %H and %D with %T and %M... also %s in Q4 to seal the deal,,
+990011,Jude,Bolton,SY,50,115,119,117,83,114,8,13,0,13,0,4,1,2,0, Full Time,hot,%D and %T plus %s,,
+980073,Adam,Goodes,SY,27,108,109,70,89,126,17,13,5,4,0,0,3,1,3, Full Time,x-factor,%P and %T with %M and %s... also %F... lifted in the second half to drag the Swans over the line for a memorable victory,,
+230140,Ben,McGlynn,SY,32,104,111,91,77,105,11,11,2,9,0,4,1,1,0, Full Time,hot,%P and %T with %M and %s,tagger,Tagging Selwood
+200023,Rhyce,Shaw,SY,18,88,117,46,63,93,17,9,1,4,0,0,0,0,0, Full Time,news,%D and %T,job,On Johnson
+200071,Ryan,O'Keefe,SY,14,88,114,54,65,93,15,9,3,4,0,0,0,0,0, Full Time,news,%2 Bartel... %O and %M with %T,,
+260382,Josh P.,Kennedy,SY,45,87,80,93,58,81,7,3,3,12,0,0,1,1,0, Full Time,pinkpig,Tagged by Ling... %O and %T with %s and %M,,
+240226,Kieren,Jack,SY,15,78,72,63,61,84,9,11,4,4,0,1,0,0,0, Full Time,tagger,Tagging Chapman... %D and %T with %M,,
+290117,Daniel,Hannebery,SY,14,71,76,60,57,84,8,12,3,5,0,0,2,0,0, Full Time,news,%2 Wojcinski off a wing... %B among %D plus %M and %T,,
+290778,Luke,Parker,SY,14,66,84,44,53,70,9,7,1,2,0,1,0,2,1, Full Time,news,%s from %D and %T on Mackie,,
+210027,Ted,Richards,SY,8,64,89,35,50,66,12,4,5,1,0,1,0,0,0, Full Time,news,%P and %M,job,Standing West
+291357,Gary,Rohan,SY,10,61,79,38,45,60,10,2,1,3,0,0,0,2,0, Full Time,news,%s from %O and %T playing forward,,
+290188,Samuel,Reid,SY,11,57,49,44,46,55,7,1,4,2,0,1,0,2,1, Full Time,news,%s from %D and %G on Lonergan... also %T,,
+250212,Jesse,White,SY,11,54,69,45,50,65,6,5,3,3,6,3,4,1,2, Full Time,news,%s from %P and %G on Scarlett... also %H and %T,,
+250654,Matthew,Spangher,SY,10,49,47,28,42,55,9,2,4,1,0,1,2,1,1, Full Time,news,Kicked %s from %D and %M on Taylor,,
+200096,Tadhg,Kennelly,SY,8,43,35,30,28,42,7,3,0,4,0,0,0,0,0, Full Time,job,Minding Byrnes... %O and %T,in,Late replacement for Nick Malceski
+250338,Nick,Smith,SY,8,42,59,37,31,45,5,4,2,4,0,0,1,0,0, Full Time,news,%P and %T with %M,,
+291450,Alex,Johnson,SY,4,35,35,28,30,42,5,3,4,2,0,0,2,0,0, Full Time,ipod,Has Podsiadly... %D and %M... also %F,,
+261031,Brett,Meredith,SY,8,32,37,28,27,36,3,4,1,2,0,1,1,1,0, Full Time,news,%s from %D and %T,subbed,Subbed off at 3QT for Bird
+220063,Martin,Mattner,SY,7,29,25,26,21,33,4,2,1,4,0,0,2,0,0, Full Time,job,Has Stokes... %P and %T,,
+240072,Heath,Grundy,SY,2,24,39,11,22,36,6,3,1,2,0,1,4,0,0, Full Time,tomahawk,Has Hawkins... %P and %T,,
+261212,Craig,Bird,SY,1,23,17,14,17,24,4,2,1,1,0,0,0,0,0, Full Time,news,On in Q4 for Meredith,sub,Started as a sub

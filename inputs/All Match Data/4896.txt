@@ -1,0 +1,48 @@
+Gold Coast,Suns,Sydney,Swans,R12,10.14.74,17.7.109, Full Time
+Jun 8,2014,3.20,Gold Coast,Seven,,10421206,gcfc-v-syd,0,A shower or two,22,,
+
+<em style='color:#000'>RooBoyStu</em>: Kolodjashnij no ying yang or bin ok<br><em style='color:#000'>MudDawg</em>: Collar Jazz Knee for the Cape.<br><em style='color:#000'>hammers</em>: Am stoping also <br><em style='color:#000'>hammers</em>: All good - reason why I<br><em style='color:#000'>TheSaint</em>: mcveigh down arrow. 6 off his average<br><em style='color:#000'>Heizenberg</em>: *hammers sorry<br><em style='color:#000'>Tempaa</em>: Captain Ablett prestia and malceski great game <br><em style='color:#000'>uptoolate</em>: it was you dip !!!<br><em style='color:#069'>Koss</em>: 25 point quarter for Swallow did enough to remove the arrow I reckon. Sh now ;)<br><em style='color:#000'>rooboypete</em>: Cape for KK. 51 pts in last qtr<br><em style='color:#000'>hammers</em>: Tor&#044; i was kicking the couch <br><em style='color:#000'>Heizenberg</em>: I think he needed over 30 for doc? <br>
+220001,Gary,Ablett jnr,GC,44,146,149,184,115,161,15,22,5,9,0,1,1,1,2, Full Time,star,Running relatively free... %O and %M plus %T... %s as well,,,567300,172,710500,221,Midfielder,9,10,116.2,141.7,58.10,69.44,68.07,601614,144
+290627,Dion,Prestia,GC,26,107,99,137,81,114,14,14,4,6,0,1,0,0,0, Full Time,hot,%D and %M with %T,,,504800,63,534700,67,Midfielder,10,10,102,109.1,0.95,1.89,1.40,491699,72
+294613,Jaeger,O'Meara,GC,25,101,98,125,83,112,12,14,6,3,1,0,0,1,0, Full Time,hot,%D and %M with %T... %s as well,,,455100,122,502700,149,Midfielder,1,10,90.7,99.8,3.41,6.75,6.29,468751,105
+291594,Harley,Bennell,GC,20,99,100,128,81,105,18,4,9,1,0,0,1,1,3, Full Time,news,Rampe has him... %P including %K... also %M... and booted %s,,,454800,128,500900,125,Midfielder,11,3,85,88.3,0.43,0.21,0.72,437681,98
+280722,Zac,Smith,GC,27,94,115,112,81,96,7,5,3,4,39,2,1,0,0, Full Time,news,%H... also %P and %T,,,341600,64,414800,76,Ruck,2,3,67.7,83.3,0.60,0.53,1.06,303650,47
+240254,Jarrod,Harbrow,GC,15,85,69,113,63,88,14,6,4,5,0,1,1,0,1, Full Time,news,%P and %M plus %T... %s as well,,,432500,74,450900,87,Back,5,10,84.6,86,1.41,1.28,1.89,429050,78
+290527,Trent,McKenzie,GC,18,82,98,110,60,80,14,2,6,4,0,0,0,0,2, Full Time,news,%P including %K... also %M and %T... and booted %s,job,Has Reid...,342900,110,386400,111,Back,18,10,70,75,0.82,1.26,0.96,376758,101
+296209,Kade,Kolodjashnij,GC,19,82,71,103,68,84,14,3,7,0,0,1,0,2,0, Full Time,garbage,On Cunningham... Big Q4... %D with %k by foot... also %M... and booted %s,,,351000,84,397800,81,Back,28,8,74,78.8,14.49,13.20,9.12,360461,73
+281025,Luke,Russell,GC,19,81,68,105,63,81,12,4,6,3,0,1,0,1,0, Full Time,news,Smith has him... %O including %K... also %M and %T... and kicked %s,,,277800,64,277800,55,Back,8,8,47.6,48.4,0.19,0.34,0.27,263898,52
+290832,David,Swallow,GC,18,74,59,98,50,71,12,5,0,6,2,2,0,0,0, Full Time,news,%P with %k by foot... also %T,,,457300,90,517800,90,Back Midfielder,24,10,96.6,110.1,43.11,50.09,45.28,453267,74
+240712,Michael,Rischitelli,GC,14,72,88,90,58,79,6,12,4,4,0,1,0,0,1, Full Time,news,%2 Parker... %P and %M plus %T... %s as well,,,345400,75,369000,73,Midfielder,35,10,74.3,76.4,0.76,0.64,0.98,359344,72
+281075,Rory,Thompson,GC,9,68,57,89,54,68,8,4,7,3,2,1,0,0,0, Full Time,job,Has Tippett... %D and %M with %T,,,256200,74,353500,87,Back,16,7,43.9,60.9,0.41,0.31,0.54,242160,47
+280711,Charlie,Dixon,GC,13,67,77,79,59,71,4,8,4,2,5,2,0,2,0, Full Time,news,Grundy on him... %s from %D and %M with %T,,,344000,45,423600,60,Forward Ruck,23,6,60.2,73.2,1.72,2.40,2.30,302229,35
+290817,Brandon,Matera,GC,11,64,56,83,49,63,9,3,4,3,0,1,0,1,0, Full Time,news,Laidler has him... %s from %O and %M plus %T,,,387600,82,422100,105,Forward,32,9,73.2,82.1,0.94,2.13,1.28,381022,73
+261756,Greg,Broughton,GC,8,61,77,71,54,75,7,15,3,0,0,1,0,0,0, Full Time,job,Has Bird... %M and %O,,,338000,77,369300,78,Back,36,10,69.7,74.2,0.60,0.76,0.94,349596,69
+293813,Thomas,Lynch,GC,14,58,53,74,51,68,11,4,5,0,0,0,2,1,2, Full Time,news,Richards has him... %s from %O and %M,,,382400,115,439800,110,Forward,19,10,70.3,76.4,1.17,1.59,1.93,393867,100
+250249,Danny,Stanley,GC,9,55,52,73,42,60,7,6,3,4,0,0,1,0,0, Full Time,news,%2 Kennedy... %D and %M with %T,,,352800,72,360100,54,Midfielder,25,10,69.8,70.2,0.22,0.22,0.25,368838,80
+281085,Steven,May,GC,4,53,74,70,43,57,10,3,5,1,0,1,1,0,0, Full Time,job,On Franklin... %P with %k by foot... also %M,,,250100,35,323900,60,Back Forward,17,10,56.4,75.9,2.46,8.25,3.16,265066,53
+291753,Sam,Day,GC,3,37,27,46,32,39,5,3,4,0,2,1,0,0,1, Full Time,news,%s from %O and %M,,,271400,56,288700,57,Back Forward,12,10,60,60.9,2.94,2.61,4.19,287455,58
+290790,Matthew,Shaw,GC,2,30,14,40,25,34,5,2,3,1,1,0,1,0,0, Full Time,news,Subbed on in Q3... %D with %k by foot... also %M,sub,Started the sub,370900,61,371600,44,Back Midfielder,26,10,66.6,62.9,1.06,1.23,1.80,363507,66
+292512,Karmichael,Hunt,GC,2,26,25,32,20,30,2,6,0,2,0,0,0,0,0, Full Time,news,%O with %b by hand... also %T,,,233700,,233700,,Midfielder,7,0,0,0,0.47,0.39,0.70,224900,77
+291896,Clay,Cameron,GC,0,11,15,13,12,16,1,3,1,0,1,1,1,0,0, Full Time,job,Has Reid... In the negatives at QT... %P,subbed,Subbed off in Q3,151600,42,168500,35,Back,27,5,33.6,40.8,3.93,7.23,7.27,153865,30
+240226,Kieren,Jack,SY,20,106,114,63,80,115,18,13,3,4,0,0,0,0,1, Full Time,magnet,%O and %M plus %T... %s as well,,,533400,99,582600,104,Midfielder,15,9,100.1,109.7,2.50,3.12,3.60,514697,84
+290117,Daniel,Hannebery,SY,20,106,137,74,87,120,15,15,7,3,0,1,1,0,0, Full Time,cherry,%O and %M plus %T,,,550400,131,589300,153,Midfielder,4,10,99.7,104.7,1.94,2.75,2.60,530421,94
+260382,Josh P.,Kennedy,SY,26,103,126,87,86,117,9,19,3,4,0,1,0,2,0, Full Time,gun,%2 Stanley... %D and %M with %T... %s as well,,,596000,103,657600,128,Midfielder,12,10,112.1,122.8,3.98,6.64,4.93,570619,88
+290778,Luke,Parker,SY,26,98,102,92,85,112,7,15,7,4,1,0,1,2,0, Full Time,news,%2 Rischitelli... %s from %D and %M with %T,,,531100,98,519100,114,Forward Midfielder,26,10,103.1,102.2,18.05,12.60,15.90,518615,88
+230140,Ben,McGlynn,SY,25,93,108,82,67,97,10,12,1,9,0,2,1,0,1, Full Time,news,%s from %P and %T,concussed,Copped a big knee to the head from Broughton early in Q4...,484400,82,457000,49,Forward,21,9,98.6,93.4,1.41,1.56,2.13,477960,80
+230253,Jarrad,McVeigh,SY,15,92,109,54,70,99,16,10,4,3,0,0,0,0,0, Full Time,news,Started forward... %D and %M with %T,,,490300,139,565900,155,Back Midfielder,3,10,94.1,105,38.81,33.13,34.32,497600,104
+230132,Nick,Malceski,SY,14,90,116,53,66,93,16,8,3,4,0,1,0,0,0, Full Time,news,%O and %M plus %T,,,450400,34,512100,62,Back,9,10,91.4,101.9,2.29,3.77,3.13,433180,51
+200023,Rhyce,Shaw,SY,9,75,75,25,59,84,18,6,4,0,0,0,1,0,0, Full Time,news,%O including %K... also %M,,,397200,64,424800,52,Back,2,10,80.7,82.4,11.72,13.58,15.25,405549,76
+290307,Dane,Rampe,SY,13,73,84,51,60,81,11,7,7,2,0,0,1,0,0, Full Time,news,%P and %M plus %T,harley,On Bennell...,353000,107,386200,115,Back,24,10,70.1,80.4,1.23,1.68,1.40,381329,100
+210027,Ted,Richards,SY,9,71,77,57,56,72,9,5,7,3,0,1,0,0,0, Full Time,job,On Lynch... %P and %M plus %T,,,249100,49,334500,44,Back,25,10,52.5,68.9,1.23,1.30,2.51,263989,55
+261212,Craig,Bird,SY,8,71,81,49,60,84,9,15,3,1,0,1,0,0,0, Full Time,news,Broughton on him... %P and %M,,,463500,19,483700,26,Forward Midfielder,14,8,87.9,91.8,1.22,1.21,1.92,407178,29
+291978,Harry,Cunningham,SY,17,67,82,62,59,72,4,7,3,2,0,0,0,4,0, Full Time,news,Kolodjashnij has him... %D and %M with %T... %s as well,,,243200,71,257700,73,Midfielder,7,10,55.7,57,7.61,6.14,8.72,277575,76
+281281,Lewis,Jetta,SY,14,65,76,35,56,75,11,7,3,0,0,0,1,2,0, Full Time,news,%s from %O and %M,,,398900,127,387800,141,Forward Midfielder,32,10,77.4,73.6,2.91,3.89,5.08,407331,92
+240399,Lance,Franklin,SY,15,56,71,39,48,65,8,3,1,3,0,0,3,3,2, Full Time,news,First goalscorer... May has him... %s from %O and %T... gave away %F,,,444700,44,443400,32,Forward,23,9,84.8,84.1,13.29,15.80,14.01,410587,48
+294797,Tom,Derickx,SY,14,56,63,43,50,62,6,3,1,2,26,1,2,0,0, Full Time,cash,%H... also %P and %T,,,286600,25,293400,34,Ruck,19,9,55.1,57.4,25.05,26.01,23.83,253609,19
+250338,Nick,Smith,SY,10,55,59,49,41,54,6,4,4,4,0,1,0,0,0, Full Time,job,Has Russell... %O and %M plus %T,,,265300,63,312000,79,Back,40,10,59.3,66.8,0.50,0.47,0.60,298845,75
+290188,Samuel,Reid,SY,15,53,53,41,50,62,5,6,3,0,2,0,1,3,0, Full Time,cannon,Cameron had him then McKenzie... %s from %O and %M,,,298200,55,294000,72,Forward,20,6,59.7,55.5,0.94,0.64,1.40,280425,43
+240072,Heath,Grundy,SY,12,50,77,29,47,66,9,7,6,0,0,0,3,0,0, Full Time,job,Has Dixon... %M and %D... gave away %F,,,305000,73,365700,95,Back,39,10,62.7,73.6,1.48,1.84,1.83,314365,65
+980073,Adam,Goodes,SY,4,48,37,26,43,57,9,4,5,0,0,1,2,0,3, Full Time,cold,%s from %D and %M,,,322900,66,346600,68,Forward,37,5,50.8,56.4,0.65,0.58,1.44,308615,57
+270899,Jeremy,Laidler,SY,5,45,50,38,36,48,5,5,4,2,0,0,0,0,0, Full Time,job,On Matera... %D and %M with %T,,,234700,48,259900,57,Back,11,9,52.3,60.4,15.98,25.87,18.41,246637,54
+295342,Jake,Lloyd,SY,9,34,22,26,30,36,4,2,4,0,0,0,0,1,0, Full Time,cash,Subbed on at 3QT... %D and %M plus %s,sub,Started the sub,258400,-2,256400,-1,Midfielder,44,6,60.3,58.3,3.91,3.30,7.56,226080,13
+270742,Kurt,Tippett,SY,2,27,41,23,24,32,3,3,3,1,2,0,1,0,0, Full Time,cold,Thompson on him... Quiet Q1... %P and %M,subbed,Subbed off with knee soreness at 3QT,427200,87,483300,90,Forward,8,3,87,96,1.12,1.16,2.08,405804,70

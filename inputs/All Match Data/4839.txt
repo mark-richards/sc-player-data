@@ -1,0 +1,48 @@
+Sydney,Swans,Fremantle,Dockers,R5,13.14.92,11.9.75, Full Time
+Apr 19,2014,4.40,SCG,Foxtel,250395,10420503,syd-v-fre,0,Mostly sunny,21,,
+
+<em style='color:#000'>burgz300</em>: Sandi broke the ton - hope people keep trading him out<br><em style='color:#000'>Pokerface</em>: 116.. yeah you lot better trade sandi now clarke is back<br><em style='color:#000'>MudDawg</em>: @Chadwickus - yeah its his dad&#044; Sherlock.<br><em style='color:#000'>Wends</em>: I'll take laidler's 61 thx Rupert.<br><em style='color:#000'>banta</em>: few celebratory lines between hanners and buddy tonight<br><em style='color:#000'>HawkTalker</em>: Come on Sandy. One last kick... <br><em style='color:#000'>Chadwickus</em>: Buddy has a tattoo of what he'll look like in 20 years time on his arm<br><em style='color:#000'>burgz300</em>: @joleyboy Agreed<br><em style='color:#000'>J.Worrall</em>: buddy's back!<br><em style='color:#000'>Gigantor</em>: 3 sc tons dont mind if i do!<br><em style='color:#069'>Ben_Gogos</em>: McGlynn also very worthy of the star&#044; was a toss up between JPK or him<br><em style='color:#000'>Wends</em>: Yesss! Bottle of Mumm wasn't it we bet Matthius?? :-D<br>
+230140,Ben,McGlynn,SY,62,153,105,201,117,152,14,10,10,12,0,2,1,2,2, Full Time,bluemoon,%s from %P and %M plus %T,tagger,Tagging Fyfe,407800,65,414800,74,Forward,21,4,81.5,85.3,0.66,1.16,1.09,403395,72
+260382,Josh P.,Kennedy,SY,27,123,144,146,104,143,13,25,4,3,0,2,0,1,2, Full Time,star,%O and %M plus %T... %s as well,,,484400,70,558000,80,Midfielder,12,4,94.5,107.5,2.10,2.95,2.56,475430,79
+290117,Daniel,Hannebery,SY,48,112,113,143,82,120,10,19,1,10,0,1,0,0,0, Full Time,hot,%2 Mundy... %O including %B... also %T,,,442800,102,471100,113,Midfielder,4,4,75,78.3,1.40,1.74,1.83,448780,100
+240399,Lance,Franklin,SY,32,110,104,140,92,113,14,3,8,4,0,2,2,4,2, Full Time,gun,McPharlin on him... %s from %P and %M plus %T,,,408800,72,454300,94,Forward,23,4,69.5,73,14.95,16.16,14.91,403818,85
+200023,Rhyce,Shaw,SY,19,107,101,136,85,117,16,13,7,3,0,0,0,0,0, Full Time,hot,Free wheeling off half back early... %D and %M with %T,,,266400,28,282000,29,Back,2,4,62.8,59.3,9.92,13.33,14.28,276054,43
+230253,Jarrad,McVeigh,SY,26,104,114,128,86,121,10,19,4,5,0,0,1,1,1, Full Time,hot,%2 Mzungu... %O and %M plus %T... %s as well,,,491700,85,523700,97,Back Midfielder,3,4,89.3,93.3,35.13,27.21,30.62,490840,94
+240226,Kieren,Jack,SY,26,98,110,131,68,96,12,8,3,9,0,1,0,0,0, Full Time,creepy,Crowley standing him... %D and %M with %T,,,511200,103,556200,93,Midfielder,15,3,79.3,92.7,2.53,3.02,3.55,504719,113
+290778,Luke,Parker,SY,49,92,98,123,70,102,8,11,3,10,0,0,3,1,0, Full Time,news,%2 Neale... %s from %D and %M with %T... gave away %F,,,473600,45,491600,51,Forward Midfielder,26,4,96,101,9.70,6.17,7.98,463345,73
+230132,Nick,Malceski,SY,19,89,102,109,70,98,15,12,1,2,0,1,0,1,2, Full Time,news,%D and %T plus %s,job,On Pearce,443000,41,479000,57,Back,9,4,87.5,94,2.02,2.95,2.82,425666,62
+281281,Lewis,Jetta,SY,19,86,78,114,66,86,16,1,6,3,0,1,1,1,2, Full Time,news,%2 Hill... %s from %P and %M plus %T,,,362500,66,349400,71,Forward Midfielder,32,4,74,70.3,2.47,3.24,4.72,356955,61
+290307,Dane,Rampe,SY,10,77,113,96,62,84,11,11,4,2,0,2,0,0,0, Full Time,news,%D and %M with %T,job,Following Mayne,306300,13,360300,18,Back,24,4,68.3,81.3,0.79,0.98,0.94,286134,27
+250338,Nick,Smith,SY,13,75,73,99,57,75,12,4,6,3,0,1,0,0,0, Full Time,news,%O with %k by foot... also %M and %T,job,Minding Ballantyne,323300,40,365500,55,Back,40,4,67.5,75.5,0.51,0.47,0.58,317640,49
+210027,Ted,Richards,SY,12,71,99,89,62,81,9,10,7,1,0,2,1,0,0, Full Time,news,%M and %D,job,Has the big job on Pavlich,280300,35,356400,51,Back,25,4,56.3,70.3,1.25,1.41,2.62,278007,46
+291978,Harry,Cunningham,SY,14,69,64,93,54,72,9,4,7,4,0,0,1,0,0, Full Time,news,Manned by Duffield... %P and %M plus %T,cash,,200000,13,206700,10,Midfielder,7,4,58.5,60,13.23,8.93,12.89,212569,24
+261212,Craig,Bird,SY,12,58,78,74,46,72,6,13,0,5,0,0,2,0,0, Full Time,news,%D including %B... also %T,,,390300,113,393500,110,Forward Midfielder,14,2,50.5,54.5,0.79,0.76,1.01,363234,98
+240072,Heath,Grundy,SY,14,56,69,76,37,54,5,5,1,7,0,0,0,0,0, Full Time,job,On Taberner... %O and %T,,,304900,52,364200,78,Back,39,4,60,76.3,1.61,1.93,2.00,307138,59
+220089,Lewis,Roberts-Thomson,SY,14,53,49,68,41,54,4,5,3,4,0,0,0,1,0, Full Time,news,Johnson going with him... %s from %O and %M plus %T,,,172500,23,209100,68,Back Forward,30,3,30.3,19.3,5.57,1.75,9.45,136945,17
+291206,Mike,Pyke,SY,9,49,38,63,40,53,5,3,1,4,12,1,2,0,2, Full Time,canada,Dawson minding him when forward... %H... also %D and %T... and scored %s,,,406000,87,463600,102,Ruck,38,4,79.5,89.5,2.01,3.21,2.68,417802,86
+270899,Jeremy,Laidler,SY,3,46,62,58,36,51,8,6,2,1,0,0,0,0,0, Full Time,job,Manning DeBoer... %M and %D,cash,,200300,-10,213800,-1,Back,11,3,58.3,71.7,21.95,34.90,21.87,169084,-1
+294797,Tom,Derickx,SY,8,38,39,50,33,49,1,7,1,5,7,0,3,0,0, Full Time,news,%H... also %P and %T... gave away %F,cash,,135700,13,148900,-7,Ruck,19,3,36.3,43.7,22.73,22.91,21.49,150508,21
+295906,Brandon,Jack,SY,8,26,31,35,23,36,3,4,0,3,0,0,3,1,0, Full Time,news,Spurr following him... %D and %T plus %s... conceded %F,subbed,Off at 3QT,194800,,191800,,Midfielder,33,0,0,0,1.84,2.14,2.10,187500,35
+295342,Jake,Lloyd,SY,2,25,15,34,18,24,3,1,2,2,0,0,0,0,0, Full Time,rookie,First game... On at 3QT... %O and %M plus %T,sub,Started as a sub,119200,,123900,,Midfielder,44,0,0,0,0.20,0.19,0.37,115200,21
+240052,David,Mundy,FR,22,121,134,69,94,126,21,10,5,3,2,2,0,1,1, Full Time,magnet,%2 Hannebery... Had a massive third term with 13 touches and a goal... %O and %M plus %T... %s as well,,,498700,144,517100,158,Midfielder,16,4,88,88.5,1.21,1.22,2.01,528203,130
+291570,Nathan,Fyfe,FR,21,114,109,74,88,124,18,14,4,5,1,2,1,0,0, Full Time,hulk,McGlynn trying to quell his influence... %O and %M plus %T,,,535100,135,574300,79,Midfielder,7,2,79.5,120,7.29,11.62,7.91,495896,109
+200032,Matthew,Pavlich,FR,28,112,119,86,99,124,13,9,9,2,0,1,2,4,1, Full Time,atlas,First goal... Richards manning him... %s from %P and %M plus %T,,,396000,22,438900,22,Forward,29,4,80.8,90.8,9.81,10.81,11.90,379172,52
+293535,Lachie,Neale,FR,24,98,86,70,80,112,14,13,6,4,0,1,2,0,1, Full Time,news,%2 Parker... %D and %M with %T... %s as well,,,378600,73,411800,91,Midfielder,27,3,52.7,50.7,0.23,0.16,0.34,351520,76
+230107,Michael,Johnson,FR,20,96,91,64,75,96,15,3,7,3,0,0,0,2,0, Full Time,news,%D including %K... also %M and %T... and kicked %s,job,Standing Roberts-Thomson,437900,59,464300,73,Back,37,4,88.3,95.3,2.39,2.22,4.36,434268,70
+220096,Aaron,Sandilands,FR,32,86,118,74,79,87,5,6,1,1,48,4,0,0,0, Full Time,news,%H with %P... aided by %4FF,,,361100,37,443100,58,Ruck,31,4,93.8,116.8,65.25,71.77,69.05,352259,41
+240266,Lee,Spurr,FR,13,76,81,58,60,78,10,7,6,3,0,2,0,0,0, Full Time,news,%P and %M plus %T,job,Staying with B.Jack,341700,86,358400,105,Back,34,4,61,62.8,1.00,1.05,1.38,353578,76
+280336,Stephen,Hill,FR,8,72,87,43,54,76,12,9,1,3,0,2,0,0,1, Full Time,news,%2 Jetta... %O and %T plus %s,,,404300,49,474800,75,Midfielder,32,4,84.3,96.5,1.24,0.62,2.41,395849,61
+250063,Danyle,Pearce,FR,13,71,77,40,60,84,13,8,6,1,0,0,2,0,0, Full Time,news,%P and %M,,,443300,28,424100,54,Midfielder,6,4,91.5,89.8,0.44,0.48,0.77,437012,67
+280726,Tendai,Mzungu,FR,15,71,65,46,56,75,11,6,4,2,0,0,0,1,0, Full Time,zimbabwe,%2 McVeigh... %D and %M with %T... %s as well,,,398900,84,422800,120,Midfielder,13,4,80,83.3,0.77,0.80,1.29,420441,85
+260069,Hayden,Ballantyne,FR,16,68,59,52,51,66,9,2,3,4,0,0,0,2,0, Full Time,news,Smith on him... %s from %P and %M plus %T,,,338700,59,374400,55,Forward,1,4,57.8,73.8,0.99,1.18,2.10,339646,69
+200045,Luke,McPharlin,FR,13,67,57,38,56,75,13,3,8,1,0,0,2,0,0, Full Time,news,%P with %k by foot... also %M,job,Has the big job on Franklin,381300,17,393200,22,Back,18,4,71,79.3,0.85,1.25,1.66,351308,41
+290733,Cameron,Sutcliffe,FR,13,66,44,51,47,66,9,6,2,5,0,1,0,0,0, Full Time,news,%D and %M with %T,,,268800,28,260600,38,Back,33,4,60.5,60.3,1.06,2.03,1.99,272783,40
+240139,Paul,Duffield,FR,9,61,63,42,48,66,9,7,4,2,0,0,0,0,0, Full Time,job,Following Cunningham... %P and %M plus %T,,,408100,82,425900,93,Back,41,4,77.3,80,1.16,1.17,1.39,402868,73
+280416,Chris,Mayne,FR,15,59,47,59,42,57,5,5,3,6,0,1,0,0,0, Full Time,news,Has Rampe for company... %D and %M with %T,,,413600,132,436100,137,Forward,23,3,50,53.7,1.07,1.06,1.61,386455,117
+280386,Clancee,Pearce,FR,5,57,61,49,45,60,6,7,4,3,0,1,0,0,0, Full Time,news,Malceski on him... %O and %M plus %T,,,398500,,401700,,Back,46,1,74,78,0.55,0.32,0.58,395400,72
+240552,Zac,Dawson,FR,8,53,65,51,46,63,3,13,3,2,0,1,0,0,0, Full Time,job,Minding the resting ruck mainly Pyke... %D including %B... also %M and %T,,,180700,43,249000,43,Back,3,3,33.7,48.7,2.48,1.74,3.78,187720,40
+290251,Zachary,Clarke,FR,15,50,49,57,40,55,2,5,1,6,13,0,2,0,0, Full Time,news,%H... also %D and %T,,,463500,,519400,,Ruck,30,1,105,92,0.42,0.21,0.67,459900,72
+230048,Ryan,Crowley,FR,9,49,31,49,39,52,4,5,4,4,1,1,1,0,0, Full Time,tagger,Tagging Jack... %O and %M plus %T,,,298800,39,285600,58,Midfielder,15,4,57.5,52.8,1.40,1.64,2.37,303180,56
+271015,Matthew,de Boer,FR,9,49,31,35,40,57,7,6,1,3,0,1,2,1,0, Full Time,news,Laidler on him... %s from %P and %T,,,425600,50,423700,53,Forward Midfielder,9,4,89.5,93,1.02,1.87,2.24,424663,67
+293854,Matthew,Taberner,FR,2,19,11,16,16,24,3,1,2,2,0,0,2,0,0, Full Time,news,Grundy following him... %D and %M with %T,subbed,Off midway through the 3rd,202100,,167200,,Forward,20,1,50,56,0.14,0.56,0.29,164400,18
+270908,Nick,Suban,FR,0,14,15,10,10,15,2,2,0,1,0,0,0,0,0, Full Time,news,%O,sub,Started as a sub,340300,70,364700,81,Midfielder,8,3,51.7,56.7,0.27,0.32,0.42,322759,66

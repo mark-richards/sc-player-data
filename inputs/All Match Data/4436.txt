@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Brisbane,Lions,R4,18.17.125,9.8.62, Full Time
+Apr 21,2013,4.40,Docklands,Seven,271072,10390409,nmfc-v-bl,0,Roof closed,19,,
+
+<em>32Danger32</em>: Bahahaha to the people who traded Zorko out =D<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> frenzy</em>: flowered SC again!!<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: leun less than goldy SC??? yeah what a pull that is<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: @bahodie. yeah vineys big mouth has segragated him from rest of team<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> Grazz</em>: Your a knob flickclint<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> myteamsuks</em>: Traded in Hanley and burger&#044; lol<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Bluffie</em>: as if leuy only gets 78 sc from 19 disposals from a ruck.. joke<br><em style='margin-bottom:-2px'><b class="ticon tGC"></b> Mochasons</em>: FU Goldy. Q4 junk just lost me my league match.<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> W.Mantooth</em>: Grazz is a nice guy<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> colin wood</em>: Dawsy swallow still scored 90 SC<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> bartyboys</em>: weird game weird sc scores !!!<br><em>adz11</em>: Hanley wtf<br>
+250557,Sam,Gibson,NM,27,119,99,148,99,131,16,14,9,2,0,0,0,1,2, Full Time,cherry,%P and %M plus %T and %s,,,454000,90,384600,97,Centre,43
+281395,Scott D.,Thompson,NM,30,107,164,134,90,114,15,10,10,1,0,2,0,1,0, Full Time,rock,Following Brown... %P and %M plus %s,,,361900,63,459200,104,Back,16
+280944,Jack,Ziebell,NM,21,105,106,136,82,106,17,5,8,3,0,1,0,1,1, Full Time,star,%2 Moloney... %D and %M plus %s,,,396100,86,427600,93,Centre,7
+290194,Jamie,MacMillan,NM,20,99,-,125,81,103,16,7,8,1,0,2,0,1,1, Full Time,news,%D and %M plus %s,,,317900,49,334800,45,Centre,34
+261909,Lindsay,Thomas,NM,22,97,110,117,81,98,14,6,2,2,0,6,1,4,2, Full Time,x-factor,%s from %O and %T on Harwood... helped by %4FF,,,349000,76,381200,98,Forward,12
+210023,Drew,Petrie,NM,22,96,120,114,85,103,9,9,5,2,2,3,1,4,2, Full Time,news,Booted %s from %P and %G on Merrett,reported,Reported for charging in Q2,387100,113,458300,140,Forward,20
+230232,Daniel,Wells,NM,16,84,119,106,70,99,12,12,4,3,0,0,2,1,0, Full Time,news,%O and %M with %T and %s,rain,Tagged by Raines,441500,90,523700,117,Centre,8
+250135,Scott,McMahon,NM,14,83,80,106,68,87,11,8,8,2,0,2,0,0,0, Full Time,news,%D and %M with %T,job,Green is his responsibility,332300,43,421300,53,Back,42
+291445,Aaron,Mullett,NM,19,83,76,105,69,93,14,8,6,1,0,0,1,1,0, Full Time,news,%O and %M,job,Matched up on Bewick,312500,-15,346800,-10,Centre,41
+280863,Ryan,Bastinac,NM,10,81,96,103,68,96,13,11,5,2,0,0,2,0,3, Full Time,news,%D and %M plus %s,,,415300,59,413000,79,Centre,3
+250285,Leigh,Adams,NM,14,74,95,92,57,79,11,9,1,3,0,1,0,1,1, Full Time,news,%s from %D and %T on Adcock,,,365100,78,415300,94,Forward,13
+290538,Taylor,Hine,NM,13,73,60,95,60,78,11,6,7,2,0,2,1,0,0, Full Time,tagger,Tagging Rich... %O and %M,,,263400,,278200,,Back,26
+240131,Nathan,Grima,NM,13,69,97,90,54,72,11,5,6,2,0,0,0,0,0, Full Time,job,Has Martin... %D and %M,,,373700,71,437800,109,Back,17
+271129,Todd,Goldstein,NM,22,69,86,78,66,81,3,8,2,2,36,0,2,0,0, Full Time,garbage,Beaten by Leuenberger around the ground... %H and %D... also %F... worked hardest in Q4 junk time,,,432700,57,516000,91,Ruck,22
+230272,Michael,Firrito,NM,13,68,91,88,58,78,14,6,6,0,0,2,2,0,0, Full Time,job,Minding McGrath then got Paparone in Q3... %P and %M,,,327900,59,373900,114,Back,11
+240417,Andrew,Swallow,NM,13,64,90,83,54,78,6,12,3,5,0,2,3,0,0, Full Time,news,%O including %b by hand with %T and %M... also %F,,,557300,92,585400,137,Centre,9
+260545,Liam,Anthony,NM,9,64,31,85,53,69,11,3,8,1,0,0,1,0,0, Full Time,news,On as a concussion sub in Q1 for Daw... stayed on when the sub was made official at QT... %D and %M,sub,Started as a sub,499200,191,483900,177,Centre,4
+290787,Shaun,Atley,NM,8,59,76,75,49,69,10,8,4,1,0,0,1,0,0, Full Time,job,Starting on Golby... %O and %M,,,309200,44,374200,66,Back,18
+280864,Sam,Wright,NM,13,55,63,67,44,61,7,8,1,2,0,0,0,1,1, Full Time,tagger,Tagging Hanley... %O,,,344900,160,395700,187,Forward,19
+280921,Ben,Cunnington,NM,12,52,56,69,40,60,8,7,1,4,0,1,2,0,0, Full Time,news,%D and %T,,,385000,83,425000,78,Centre,10
+250373,Lachlan,Hansen,NM,8,28,31,35,28,37,4,3,3,0,0,0,2,1,1, Full Time,news,Patfull on him.... donuts in Q1... %s from %P and %M,,,275300,67,322600,94,Forward,6
+290199,Majak,Daw,NM,7,23,44,27,21,23,2,1,2,0,1,1,0,1,1, Full Time,injured,First goal... first game... starting forward on McKeever... %s from %P and %M... headclash with Cunnington in Q1 left him dazed... was a concussion sub,subbed,Subbed off at QT for Anthony,108500,,115900,,Forward,38
+240087,Jed,Adcock,BL,30,118,135,82,90,123,18,11,6,6,0,3,1,0,0, Full Time,heart,%D and %T with %M... copped a random finger from McKeever in his right eye in Q3 which drew blood,job,Responsible for Adams,389000,108,449500,116,Back,7
+270919,Tom,Rockliff,BL,22,117,95,66,93,129,20,14,5,2,0,0,0,1,0, Full Time,garbage,%O and %M plus %s... Q4 junk time was his most productive,,,481500,115,525300,114,Centre,38
+281373,Jack,Redden,BL,19,97,84,65,75,102,16,7,6,5,0,3,2,0,0, Full Time,news,%D and %M with %T and %F,reported,Reported for front on contact on Cunnington in Q3,508600,120,519500,117,Centre,30
+261224,Dayne,Zorko,BL,20,88,105,70,68,91,10,11,2,5,0,3,0,1,1, Full Time,news,%P and %M plus %s,,,440700,135,488100,143,Centre,15
+250335,Matthew,Leuenberger,BL,19,86,79,76,80,100,6,13,6,1,21,1,1,0,1, Full Time,news,%H and %D with %M and %s,,,233600,-9,301100,-15,Ruck,23
+281329,Rohan,Bewick,BL,19,76,75,60,66,79,8,7,6,1,0,3,0,2,1, Full Time,news,%s from %D and %M on Mullett,,,298300,36,305500,53,Forward,8
+293603,Sam,Mayes,BL,9,75,78,50,57,78,12,6,5,3,0,0,0,0,0, Full Time,bubble,Second game... %O and %M,,,152200,,164500,,Forward,32
+294618,Marco,Paparone,BL,20,71,64,56,61,72,8,2,7,1,0,0,0,3,0, Full Time,rookie,First game... on after QT for McGrath... %s from %P and %M,sub,Started as a sub,107200,,114500,,Forward,22
+230151,Brent,Moloney,BL,8,66,79,43,52,78,10,12,1,3,0,0,1,0,0, Full Time,news,%2 Ziebell... %P and %T,,,350800,25,404900,29,Centre,3
+270512,Pearce,Hanley,BL,8,62,71,33,50,69,12,5,5,1,0,0,1,0,0, Full Time,injured,Tagged by Wright... %K among %P with %M... Thomas fell across his left leg in Q2 which aggravated an existing injury... left knee iced up at 3QT,,,454300,37,527800,12,Back,11
+230170,Joel,Patfull,BL,9,60,67,54,48,63,6,6,6,3,0,0,0,0,0, Full Time,job,On Hansen... %M and %P plus %T,,,248100,73,333900,73,Back,24
+295518,Sam,Docherty,BL,8,58,86,41,49,69,7,13,2,1,0,1,0,0,0, Full Time,rookie,First game... %P,,,108500,,115900,,Back,1
+290748,Josh,Green,BL,16,56,41,44,44,60,8,2,4,4,0,0,2,1,0, Full Time,news,%O and %M on McMahon... also %T,,,276200,36,326500,56,Forward,6
+271072,Daniel,Rich,BL,6,54,77,21,40,52,12,3,1,1,0,4,0,0,1, Full Time,tagged,Tagged by Hine... %D and %s,,,405000,106,471900,85,Centre,10
+200007,Jonathan,Brown,BL,9,52,32,33,47,59,9,2,8,0,0,1,2,0,2, Full Time,news,Donuts in Q1... Thompson on him... %s from %D and %M,,,383500,84,398100,74,Forward,16
+290110,Mitch,Golby,BL,9,51,56,41,47,69,6,11,4,2,0,0,3,0,0, Full Time,news,Starting forward on Atley... %P and %M... also %F,,,362900,101,392600,102,Back,41
+240013,Andrew,Raines,BL,9,49,44,51,40,57,3,9,3,4,0,0,1,0,0, Full Time,tagger,Tagging Wells... %P and %M... also %F,,,312900,57,307500,58,Centre,29
+292508,Niall,McKeever,BL,10,44,45,47,40,54,2,8,3,3,0,1,2,1,0, Full Time,news,%D and %M with %T and %s,switch,In defence on Daw to start but switched forward in Q1,223300,,283600,,Back,40
+281048,Ryan,Harwood,BL,3,38,51,27,30,45,6,5,1,3,0,1,2,0,0, Full Time,job,Minding Thomas... %O... %F as well,,,295000,,325700,,Back,2
+280763,Stefan,Martin,BL,2,29,23,20,27,35,4,3,3,0,4,0,1,0,1, Full Time,crab,%s from %P and %M on Grima... also %H,,,330900,92,351900,105,Ruck,12
+230147,Daniel,Merrett,BL,3,24,29,16,29,45,5,4,5,1,0,0,6,0,0, Full Time,job,Has Petrie... %P and %M... %F as well,,,348200,78,420200,66,Back,21
+210013,Ashley,McGrath,BL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Donuts in Q1... started forward on Firrito... right leg injury in Q1,subbed,Subbed off at QT,296100,125,337300,124,Forward,9

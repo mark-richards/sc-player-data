@@ -1,0 +1,62 @@
+Fremantle,Dockers,Richmond,Tigers,W2,14.16.100,18.8.116, Full Time
+Mar 4,2012,8.10,Subiaco,Fox Footy,,10330209,,27,Sunny,35,,
+
+<em>DilenS</em>: Mzungu isn't a bad buy<br><em>Pokerface</em>: dawson is not even close to presti<br><em>dmagnus</em>: yeah u wouldnt spud presti<br><em>Ace Manuva</em>: Yeah&#044; broughton was almost first in my team&#044; never even questioned him once. <br><em>nostrdamus</em>: maybe freo had to take dawson if they wanted lyon&#044; package deal<br><em>R.Griffen.</em>: KingP Dawson does well for what he does but not a DT Player<br><em>Mithrandir</em>: Daniel Connors a decent smokie this year<br><em>E Kavastar</em>: Broughton tons up and locks himself into 70% of teams... fml<br><em>Mithrandir</em>: Too many to come back in for Broughton to have this role all year<br><em>KingPetrie</em>: do u reckon st kilda paid dawson to leave?<br><em>Nigey95</em>: brett o'hanlon showing me why i put him in my sc team..<br><em>R.Griffen.</em>: Ellis 4 more points to make your worth<br>
+280726,Tendai,Mzungu,FR,32,119,-,152,91,126,14,14,5,7,0,0,0,1,0, Full Time,zimbabwe,%2 Webberley on a wing... %P and %T with %M,,,85
+261756,Greg,Broughton,FR,33,108,-,139,80,109,12,9,3,8,0,0,0,2,1, Full Time,hot,Played midfield all game... %O and %T plus %s including a ninepointer... subbed off in Q2 for Pitt but back on for Q3,,,77
+280386,Clancee,Pearce,FR,30,107,-,136,87,116,10,15,7,6,0,3,1,0,2, Full Time,bluemoon,%s from %P with %M and %T,,,80
+240139,Paul,Duffield,FR,25,103,-,137,83,111,16,7,10,4,0,1,2,0,0, Full Time,hot,%D and %T with %M... also %F,,,98
+260069,Hayden,Ballantyne,FR,20,99,-,128,77,96,18,3,7,2,0,4,0,1,0, Full Time,news,Playing midfield again.... %O and %M,,,76
+230107,Michael,Johnson,FR,18,88,-,115,68,90,12,7,7,4,0,1,0,0,0, Full Time,news,%P with %k by foot... also %T and %M,job,In defence on Miller then Vickery,98
+210037,Adam,McPhee,FR,14,80,-,100,66,93,14,12,4,1,0,1,1,0,0, Full Time,news,A bit unsuited to the smalls in the Tiger forward line... %P,,,99
+280336,Stephen,Hill,FR,14,79,-,104,58,82,15,6,2,4,0,2,1,0,1, Full Time,news,%O including %K... also %M and %T,,,79
+230011,Kepler,Bradley,FR,17,74,-,87,65,77,9,5,4,0,5,2,0,3,0, Full Time,news,%s from %D and %G on Post... also %H,,,92
+291570,Nathan,Fyfe,FR,19,74,-,85,66,91,8,17,3,0,0,0,0,1,1, Full Time,news,First goal... %P and %M plus %s,subbed,Subbed off at 3QT,61
+291560,Josh,Mellington,FR,15,69,-,86,59,78,10,7,3,2,0,2,2,2,0, Full Time,news,%s from %P and %M on Morris... also %F,,,85
+293535,Lachie,Neale,FR,8,65,-,81,54,72,11,8,5,0,0,1,0,0,0, Full Time,news,%D and %M,,,65
+271015,Matthew,de Boer,FR,19,62,-,77,51,72,3,12,2,5,0,0,1,1,0, Full Time,news,If he's fighting for a round 1 spot then he didn't start very well... had a much better Q4 though... %s from %O and %T,,,93
+230048,Ryan,Crowley,FR,8,61,-,74,52,68,7,10,4,1,0,2,0,0,2, Full Time,news,%s from %O and %M,,,87
+291542,Jayden,Pitt,FR,15,60,-,74,48,57,8,1,2,2,0,2,0,3,0, Full Time,news,On in Q2... %O and %s,,,54
+270908,Nick,Suban,FR,5,57,-,74,44,57,9,4,4,2,0,2,0,0,0, Full Time,job,Concentrating on locking down Nahas... %D,,,98
+290251,Zachary,Clarke,FR,14,56,-,71,48,58,4,2,3,4,19,2,2,0,0, Full Time,news,On in Q2 for Mayne... %H and %D,sub,Started as a sub,54
+200045,Luke,McPharlin,FR,8,55,-,70,47,57,8,4,7,0,0,2,0,0,0, Full Time,job,Moved from Vickery to Riewoldt in Q1... %M and %D,subbed,Subbed off at HT,48
+240266,Lee,Spurr,FR,3,44,-,57,33,45,9,3,2,1,0,1,0,0,0, Full Time,news,On in Q3.... %P,sub,Started as a sub,52
+260315,John,Anthony,FR,5,44,-,58,39,53,5,5,5,2,0,0,2,0,2, Full Time,news,Booted %s from %G and %P on Rance then Wright... also %F,subbed,Subbed off in Q4,74
+280416,Chris,Mayne,FR,9,33,-,40,32,45,1,8,2,2,0,0,2,1,0, Full Time,news,%s from %D on McGuane... subbed off in Q2 for Clarke but back on in Q3,,,82
+250088,Jonathon,Griffin,FR,3,32,-,40,25,33,3,3,1,2,6,0,0,0,0, Full Time,news,%H and %P with %T as #1 ruck with Sandilands' late withdrawal,subbed,Subbed off at HT,40
+270681,Jay,van Berlo,FR,0,16,-,21,11,15,3,1,0,1,0,1,0,0,0, Full Time,news,On in Q4 for Fyfe... %P and %T,sub,Started as a sub,24
+240552,Zac,Dawson,FR,1,10,-,11,12,18,0,5,1,0,0,0,1,0,0, Full Time,job,Started on Riewoldt but moved in Q1 to Miller... %O,,,100
+200032,Matthew,Pavlich,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+220096,Aaron,Sandilands,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Tightened up in the warmup and not used,,,0
+271433,Alex,Silvagni,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+291792,Thomas,Sheridan,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+295547,Haiden,Schloithe,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+260930,Shane,Edwards,RI,42,80,-,111,54,81,10,6,1,10,0,1,2,0,0, Full Time,news,Playing off a wing... %P and %T,,,84
+292500,Jeromey,Webberley,RI,13,71,-,94,56,75,13,4,6,2,0,1,1,0,0, Full Time,news,%2 Mzungu on a wing... %O and %M,,,84
+200109,Shane,Tuck,RI,9,67,-,85,55,79,10,11,2,3,1,2,2,0,0, Full Time,news,Starting in the guts as usual... %D and %T,,,80
+293713,Brandon,Ellis,RI,8,61,-,76,49,69,12,8,3,0,0,0,0,0,0, Full Time,news,%D and %M... subbed off in Q2 for Verrier then back on for Q3,,,64
+290847,Dustin,Martin,RI,8,58,-,75,43,60,11,5,2,2,0,1,0,0,0, Full Time,news,Doing nothing to dissuade fantasy coaches from picking him... %D and %M with %T,subbed,Subbed off at HT,39
+220071,Brad,Miller,RI,15,57,-,75,51,65,8,3,6,2,1,2,3,1,1, Full Time,news,Booted %s from %P and %G on Johnson then Dawson... subbed off in Q2 for O'Hanlon then back out for Q3,,,79
+250395,Jack,Riewoldt,RI,11,54,-,65,47,58,5,5,4,1,1,0,0,2,0, Full Time,news,%s from %P and %G on Dawson then McPharlin,subbed,Subbed off at HT,48
+270315,Jayden,Post,RI,4,54,-,68,44,57,8,6,4,1,0,2,0,0,0, Full Time,news,%P and %M,job,On Bradley,96
+250623,Robin,Nahas,RI,14,49,-,64,37,49,4,2,1,5,0,0,1,2,1, Full Time,lebanon,%s from %O and %T on Suban,,,98
+023785,Steven,Morris,RI,3,48,-,61,38,54,6,8,1,3,0,2,1,0,0, Full Time,,,,,80
+291437,Jake,Batchelor,RI,5,46,-,62,36,49,8,2,4,2,0,0,1,0,1, Full Time,news,%P and %M,,,79
+293315,Bradley,Helbig,RI,4,44,-,57,35,46,3,5,4,3,0,0,0,0,1, Full Time,news,Playing a BP.... %D and %T plus %s,subbed,Subbed off in Q4 for Verrir,64
+270833,Addam,Maric,RI,9,40,-,50,32,42,8,2,2,0,0,0,0,1,0, Full Time,news,On in Q3... %O,sub,Started as a sub,52
+240546,Ivan,Maric,RI,4,39,-,48,34,43,5,2,2,1,13,0,1,0,0, Full Time,news,%H and %D with %M,subbed,Subbed off at HT,48
+271437,Jake,King,RI,5,39,-,51,37,54,4,8,4,2,0,0,3,0,0, Full Time,news,Should be able to exploit the tall Freo backline... %O and %M,,,92
+260105,Daniel,Connors,RI,8,38,-,47,30,40,4,4,1,2,0,0,0,1,1, Full Time,news,On in Q3 and went to FF on Dawson... %D,sub,Started as a sub,50
+240389,Matt,White,RI,2,36,-,50,25,36,9,0,1,2,0,1,1,0,0, Full Time,news,Enjoying himself locking down on the Freo HBFers... %O and %T,,,90
+250312,Bachar,Houli,RI,2,31,-,41,23,30,6,1,2,1,0,1,0,0,0, Full Time,news,%O and %M,subbed,Subbed off at HT,44
+261362,Alex,Rance,RI,2,29,-,39,21,27,4,2,0,3,0,4,1,0,0, Full Time,job,Standing Anthony... %D and %T,subbed,Subbed off at HT,48
+270941,Tyrone,Vickery,RI,8,28,-,34,25,30,3,2,3,0,0,0,0,1,0, Full Time,sore,%P and %M on McPharlin then Vickery... corked right thigh in Q1 but played on,subbed,Subbed off at HT,45
+210048,Chris,Newman,RI,2,26,-,34,20,27,4,2,2,1,0,0,0,0,0, Full Time,news,%D and %M,subbed,Subbed off at HT,45
+294797,Tom,Derickx,RI,9,26,-,32,29,37,3,2,1,1,10,2,4,1,0, Full Time,news,On in Q3... %H and %P plus %s... also %F,sub,Started as a sub,52
+291835,Matthew,Arnot,RI,1,25,-,31,22,33,3,6,1,1,0,0,1,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,42
+292025,Matt,Dea,RI,1,19,-,24,15,21,4,2,1,0,0,0,0,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,49
+291825,Todd,Elton,RI,6,16,-,18,15,18,1,2,1,0,0,0,0,1,0, Full Time,news,On in Q3... %s from %D,sub,Started as a sub,52
+240256,Luke,McGuane,RI,1,14,-,17,18,30,2,7,1,0,0,0,3,0,0, Full Time,job,Chasing Mayne... %P and %F,,,98
+291809,Piva,Wright,RI,0,9,-,12,6,9,1,1,0,1,0,0,0,0,0, Full Time,job,On in Q3 and went to FB on Anthony,sub,Started as a sub,52
+291948,Steven,Verrier,RI,0,5,-,5,7,12,0,4,0,0,0,0,1,0,0, Full Time,news,On in Q2 for Ellis... off again at HT... on again in Q4 for Helbig,sub,Started as a sub,23
+295325,Brett,O'Hanlon,RI,0,3,-,5,3,6,0,1,0,1,0,0,1,0,0, Full Time,news,On in Q2 for Miller... %D,sub,Started as a sub,21

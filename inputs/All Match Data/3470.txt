@@ -1,0 +1,48 @@
+Adelaide,Crows,Brisbane,Lions,R9,13.15.93,11.15.81, Full Time
+May 23,2010,1:10,Footy Park,Fox Sports,240393,10280906,5015563,5013,Showers developing,16
+The new pages are being tested this week with an iPhone-only app to launch next week... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>LouMo</em>: Trade Brown for Riewoldt?<br><em>sainterman</em>: haha 42 and 43 in this match... pathetic<br><em>masterdead</em>: why in the hell would have a rookie as a captain?<br><em>masterdead</em>: remember you dont know what the hell is feeling<br><em>footypie33</em>: gunston for spud GUNSTON FOR SPUD GUNSTON FOR SPUD . im never having him captain again<br><em>Spudmaster</em>: That is just so flowering shower...<br><em>soretummy</em>: injured groin doesnt excuse dropping sitters<br><em>Cotts</em>: any trades for jono brown?<br><em>madmax33</em>: wats browns s/c<br><em>masterdead</em>: remember j brown is injured but they dont want to admit it<br><em>wood&cox</em>: he will be under 300k soon<br><em>brodman_18</em>: Lions' season in big trouble. need to rest Brown for at least 2 weeks to get him right.. <br>
+240370,Richard,Douglas,AD,39,126,145,164,94,125,18,5,4,8,0,1,1,3,2, Full Time,star,Head to head with Rich... %D and %T plus %M and %s
+250118,Nathan,van Berlo,AD,24,108,107,135,87,118,13,16,6,4,0,2,0,0,1, Full Time,hot,Head to head with Sherman... %O and %M plus %s
+960036,Simon,Goodwin,AD,20,85,87,111,61,87,10,10,2,7,0,1,0,0,0, Full Time,news,%P and %T
+220086,Brent,Reilly,AD,14,82,93,107,59,85,13,8,2,5,0,0,0,0,1, Full Time,tagger,Tagged Black... %D and %M
+220093,Ben,Rutten,AD,10,79,127,94,69,93,6,18,5,2,0,2,0,0,0, Full Time,job,On Fevola... %P and %M
+210016,Scott,Thompson,AD,13,77,86,92,63,90,10,17,1,2,0,2,0,0,0, Full Time,tagged,Tagged by Rischitelli... %O
+960023,Andrew,McLeod,AD,15,77,85,97,61,81,12,5,2,3,0,1,1,2,3, Full Time,news,Head to head with Power... %P and %s including two goals in Q1
+230174,Jason,Porplyzia,AD,25,74,81,95,57,80,5,10,2,7,0,0,1,1,2, Full Time,news,%s from %O on McGrath... also %T and %M
+270917,Patrick,Dangerfield,AD,16,67,85,81,57,72,8,6,2,2,0,2,1,3,0, Full Time,tagged,Tagged by Stiller... %s from %D
+200072,Scott,Stevens,AD,12,65,75,81,57,76,8,9,6,1,3,0,1,0,1, Full Time,news,Played CHF on Clark... %P and %M
+200092,Michael,Doughty,AD,13,63,67,82,48,69,7,9,2,5,0,1,1,0,0, Full Time,news,%P and %T with %M
+240546,Ivan,Maric,AD,10,60,70,72,52,66,4,7,2,3,18,1,1,0,0, Full Time,news,%H and %D
+980002,Tyson,Edwards,AD,8,58,57,74,48,66,10,7,4,1,0,1,1,0,0, Full Time,news,Matched up on Buchanan... %O and %M
+280506,Taylor,Walker,AD,15,57,42,71,54,67,7,4,7,0,0,0,2,2,1, Full Time,news,Booted %s from %G and %P on Patfull including two key Q4 goals
+220009,Nathan,Bock,AD,4,53,67,69,44,60,9,5,5,1,0,0,1,0,0, Full Time,job,Had Brown... %D and %M
+270742,Kurt,Tippett,AD,11,53,77,66,47,59,6,3,3,2,10,1,2,1,1, Full Time,news,Booted %s from %G and %D on Maguire
+250362,David,Mackay,AD,6,43,57,52,35,51,6,9,1,1,0,0,0,0,0, Full Time,news,%B among %O
+261263,Chris,Schmidt,AD,7,43,51,54,37,57,6,10,1,2,0,0,2,0,0, Full Time,job,Beaten by Banfield... %O and %T
+291351,Jack,Gunston,AD,8,36,49,45,29,36,5,2,2,1,0,1,0,1,0, Full Time,rookie,First game... Hawksley on him... %s from %P and %M
+261138,Jared,Petrenko,AD,4,35,42,44,36,51,5,8,4,0,0,1,3,0,0, Full Time,news,%P and %M
+270964,Myke,Cook,AD,7,35,49,41,35,51,4,11,2,0,0,1,2,0,0, Full Time,news,%D and %M
+280804,Phil,Davis,AD,2,32,51,40,27,36,3,5,3,1,0,0,0,0,0, Full Time,job,Stood Staker... %M and %P
+210013,Ashley,McGrath,BL,33,140,141,95,109,145,21,10,8,5,0,0,0,2,1, Full Time,hot,Minded Porplyzia... %D and %M with %T and %s
+271072,Daniel,Rich,BL,36,103,135,78,77,113,14,12,1,8,0,0,2,1,2, Full Time,hot,Head to head with Douglas... %P and %T plus %s
+271071,Todd,Banfield,BL,29,101,115,95,76,95,9,5,5,8,0,3,0,2,2, Full Time,hot,Schmidt on him... %s from %P with %M and %T
+980007,Simon,Black,BL,21,99,99,80,75,102,12,11,5,6,0,2,0,0,0, Full Time,tagged,Tagged by Reilly... %O and %M with %T
+980011,Luke,Power,BL,21,94,79,81,72,99,10,12,5,6,0,1,0,0,0, Full Time,news,Head to head with McLeod... %P and %T with %M
+281373,Jack,Redden,BL,24,92,82,74,68,92,12,6,6,6,0,0,0,0,2, Full Time,news,%D and %M with %T
+240087,Jed,Adcock,BL,20,91,91,74,72,96,11,9,8,4,0,0,0,0,0, Full Time,heart,%D and %M with %T... rolled his previously-injured left ankle in Q2
+240325,Justin,Sherman,BL,24,90,94,57,78,106,14,11,7,1,0,0,2,1,1, Full Time,news,Head to head with van Berlo... %P and %M plus %s
+240712,Michael,Rischitelli,BL,15,86,70,57,69,97,13,12,4,3,0,1,1,0,1, Full Time,tagger,Tagged Thompson... %D
+240393,Mitchell,Clark,BL,21,84,70,78,67,85,7,7,3,6,15,3,1,0,1, Full Time,job,Rotated from ruck through CHB on Stevens... %H and %P with %M and %T
+250053,Cheynee,Stiller,BL,20,78,65,75,57,78,7,8,4,7,0,1,0,0,0, Full Time,tagger,Tagged Dangerfield... %P and %T
+990022,Brendan,Fevola,BL,21,74,66,56,63,77,9,0,3,3,0,0,2,5,2, Full Time,news,First goal... %s from %G and %D on Rutten
+230211,Brent,Staker,BL,16,73,91,63,54,75,9,5,5,6,0,0,1,0,0, Full Time,news,Played third tall forward on Davis... %P and %M with %T
+250335,Matthew,Leuenberger,BL,20,73,93,61,74,90,5,11,3,0,32,3,3,0,1, Full Time,news,%H and %P with %M
+270919,Tom,Rockliff,BL,13,68,54,43,59,78,11,7,8,0,0,0,1,0,0, Full Time,news,%O and %M
+220062,Matt,Maguire,BL,15,65,57,56,47,66,8,5,3,6,0,1,1,0,0, Full Time,sore,Stood Tippett... %P and %T... cut above the left eye in Q4
+210045,Amon,Buchanan,BL,4,47,43,38,40,52,5,7,4,1,0,1,0,0,1, Full Time,news,Matched up on Edwards... %O
+240013,Andrew,Raines,BL,7,40,46,21,37,54,7,9,2,0,0,1,2,0,0, Full Time,news,%B among %D
+261222,James,Hawksley,BL,4,40,48,28,30,42,6,4,2,2,0,0,0,0,0, Full Time,job,Had the first-gamer Gunston... %P
+200007,Jonathan,Brown,BL,3,37,43,24,32,43,5,7,2,0,1,1,0,0,0, Full Time,sore,Bock on him... %D... the jab in his injured torso isn't working today
+260975,James,Polkinghorne,BL,4,36,28,36,34,51,2,11,2,2,0,0,2,0,0, Full Time,news,%P including %b by hand
+230170,Joel,Patfull,BL,6,32,45,36,20,27,2,2,0,5,0,2,0,0,0, Full Time,job,Stood Walker... %D and %T

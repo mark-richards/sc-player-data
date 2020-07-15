@@ -1,0 +1,48 @@
+Adelaide,Crows,Sydney,Swans,R15,8.9.57,6.14.50, Full Time
+Jul 2,2011,7:40,Footy Park,Fox Sports,280934,10311505,5582,115,Rain periods,16,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em title="BIG_GAME">big_game</em>: Do u reason ur any chance to finish 9th mate&#044; how ur sc going <br><em>HotTiges</em>: get Talia next week @big_game??<br><em>HotTiges</em>: yeah i'll 'stoke' goodes sc for sure..<br><em title="BIG_GAME">big_game</em>: Talia sc is huge <br><em>HotTiges</em>: yeah big game wanna jump off a bridge mate.. couldn't give a flower it's all sc now<br><em title="BIG_GAME">big_game</em>: Hot tigers u sld change ur name to cold tigers&#044; he'll stoked with goodes sc <br><em>falcooons</em>: tippett thompson and ROK briliant boys <br><em title="BIG_GAME">big_game</em>: Hot tigers still cut about today's loss lol<br><em>HotTiges</em>: Richard Champion??<br><em>BrennanBus</em>: you should all take back what you were saying about the champion<br><em>HotTiges</em>: who capt'n O Keefe&#044; bloody poofters<br><em>BluesFlag</em>: hzhaha yes goodes!! yesa.a.a.a.a.a..a..a.a.a..a.a!<br>
+270811,Sam,Jacobs,AD,42,120,118,147,101,124,9,8,6,6,36,1,1,0,1, Full Time,star,The Crows' best four-quarter performer... %H and %D with %M and %T,,
+261138,Jared,Petrenko,AD,32,102,140,134,75,100,11,7,5,8,0,1,0,1,1, Full Time,x-factor,%s from %P with %T and %M as a small forward,,
+261142,Bernie,Vince,AD,15,96,97,125,73,99,17,7,4,4,0,3,1,0,3, Full Time,news,%2 Hannebery on a wing... %O and %M with %T and %s,,
+210016,Scott,Thompson,AD,18,92,110,119,66,97,16,10,1,5,1,0,0,0,0, Full Time,news,Tagged by Bird until Q4... %D and %T,,
+230215,Brad,Symes,AD,15,91,86,120,66,93,15,7,4,5,0,0,0,0,0, Full Time,news,%D with %b by hand... also %M,,
+270742,Kurt,Tippett,AD,22,88,99,109,75,88,9,3,6,3,7,3,1,3,0, Full Time,news,First goal... kicked %s from %P and %M on Roberts-Thomson,,
+250118,Nathan,van Berlo,AD,20,84,112,109,68,94,10,9,5,5,0,0,2,1,1, Full Time,news,%O and %M with %T,tagger,Tagging McVeigh
+261351,Matthew,Jaensch,AD,9,79,92,104,56,81,17,5,2,3,0,0,0,0,0, Full Time,news,%D and %T,job,On a HBF on Bevan
+210056,Graham,Johncock,AD,8,76,99,100,55,78,19,3,3,1,0,0,0,0,0, Full Time,news,%P and %M,job,On McGlynn
+270917,Patrick,Dangerfield,AD,14,76,63,101,55,78,15,5,2,4,0,2,1,0,0, Full Time,news,%P and %T with %M up forward on Richards,,
+220086,Brent,Reilly,AD,19,72,78,96,52,75,10,7,2,6,0,1,1,0,0, Full Time,tagger,Tagging Bolton... %O and %T,,
+270296,Andy,Otten,AD,18,69,75,89,57,78,6,10,6,4,0,0,1,0,0, Full Time,job,Standing Johnson... %O and %M with %T,,
+270963,Rory,Sloane,AD,18,65,96,80,51,66,6,9,1,4,0,4,0,1,0, Full Time,news,%O and %T,,
+261857,Ian,Callinan,AD,13,64,66,80,50,67,12,5,2,1,0,1,0,1,1, Full Time,news,%s from %P and %M on Shaw,bubble,Second game
+240370,Richard,Douglas,AD,14,62,49,82,43,57,11,1,1,4,0,2,0,1,0, Full Time,tagger,Forward tag on Kennelly... %D and %T,sore,Left ankle twisted in Q3
+200092,Michael,Doughty,AD,13,61,59,84,50,78,11,8,2,5,0,1,5,0,0, Full Time,news,%O and %T,tagger,Tagging O'Keefe
+280934,Daniel,Talia,AD,12,59,92,79,42,63,9,6,1,5,0,0,1,0,0, Full Time,rookie,First game... %D and %T,job,Has Reid
+250362,David,Mackay,AD,12,58,74,77,42,61,10,5,1,4,0,1,1,0,1, Full Time,news,%2 Kennedy... %P and %T,,
+230216,Richard,Tambling,AD,2,36,45,46,27,39,3,6,1,3,0,0,0,0,0, Full Time,news,On in Q3 for Wright,sub,Started as a sub
+220093,Ben,Rutten,AD,3,32,49,41,26,39,4,6,1,2,0,0,1,0,0, Full Time,job,On Goodes at FB... %P,,
+250045,Brad,Moran,AD,2,25,41,33,23,30,4,0,2,1,9,0,2,0,0, Full Time,news,Playing CHF on Grundy... %P and %M... also %H,,
+261384,Matthew,Wright,AD,1,22,18,28,17,24,3,3,1,1,0,0,0,0,0, Full Time,news,%O on Mattner,subbed,Subbed off at HT for Tambling
+200071,Ryan,O'Keefe,SY,24,100,102,52,73,101,19,7,1,4,0,2,0,1,2, Full Time,gun,Tagged by Doughty... %P and %T plus %s,,
+990011,Jude,Bolton,SY,24,96,79,49,68,97,20,5,1,6,0,4,2,0,1, Full Time,tagged,Tagged by Reilly... %P and %T,sore,Left arm hyperextension in Q3
+230253,Jarrad,McVeigh,SY,15,95,100,48,74,106,19,9,4,3,0,1,2,0,1, Full Time,tagged,Tagged by van Berlo... %D and %M,,
+230010,Paul,Bevan,SY,44,82,84,81,54,74,8,2,1,11,0,2,1,1,2, Full Time,news,%D and %T on Jaensch,,
+980073,Adam,Goodes,SY,19,81,106,70,63,87,8,11,3,5,0,0,0,1,0, Full Time,news,At FF on Rutten mostly... %s from %D and %T,,
+220101,Mark,Seaby,SY,20,76,102,67,64,79,6,6,1,4,28,2,1,0,0, Full Time,news,%H and %D,,
+230140,Ben,McGlynn,SY,26,76,86,72,55,75,7,7,1,8,0,3,1,1,0, Full Time,news,%P and %T on Johncock,,
+290117,Daniel,Hannebery,SY,13,69,75,39,60,84,11,14,3,0,0,2,1,0,0, Full Time,news,%2 Vince on a wing... %P,,
+260382,Josh P.,Kennedy,SY,12,66,74,44,45,64,11,4,1,5,0,1,0,0,1, Full Time,news,%2 Mackay... %P and %T,,
+261212,Craig,Bird,SY,18,66,72,59,52,75,6,11,1,5,0,0,1,1,0, Full Time,injured,Left knee injury in Q3... %P and %T plus %s,tagger,Tagging Scott Thompson
+220063,Martin,Mattner,SY,12,60,94,49,45,69,7,11,0,5,0,0,1,0,0, Full Time,job,Has Wright... %P and %T,,
+290188,Samuel,Reid,SY,13,59,55,52,44,57,7,2,6,4,0,0,0,0,0, Full Time,news,%D on Talia,,
+291450,Alex,Johnson,SY,7,57,55,22,42,60,13,4,2,1,0,0,0,0,0, Full Time,news,Matched up on Otten... %D,,
+240072,Heath,Grundy,SY,3,52,77,27,40,54,10,4,3,1,0,1,0,0,0, Full Time,job,At CHB on Moran... %M and %D,,
+200023,Rhyce,Shaw,SY,8,51,75,31,35,54,10,3,0,5,0,1,2,0,0, Full Time,job,On Callinan... %D and %T,,
+281281,Lewis,Jetta,SY,9,47,55,40,36,48,5,4,2,3,0,0,0,1,0, Full Time,news,%s from %O and %M,,
+200096,Tadhg,Kennelly,SY,14,45,49,44,32,48,5,3,2,6,0,0,2,0,0, Full Time,tagged,Forward tag on him by Douglas... %O and %T,,
+210027,Ted,Richards,SY,3,43,64,34,31,42,6,2,3,3,0,0,0,0,0, Full Time,job,Minding Dangerfield... %M and %D,,
+250212,Jesse,White,SY,4,39,39,37,36,48,3,5,3,2,9,0,2,0,0, Full Time,tog,Not suited to the very rainy conditions and benched a lot... %P and %H with %M and %T,sore,Stubbed his foot in Q2
+290778,Luke,Parker,SY,3,34,48,23,27,42,5,7,0,2,0,0,1,0,0, Full Time,news,%D,,
+261257,Andrejs,Everitt,SY,1,22,23,18,15,20,3,0,1,2,0,0,0,0,2, Full Time,in,%l Nick Smith... on in Q3 for Bird,sub,Started as a sub
+220089,Lewis,Roberts-Thomson,SY,2,18,35,9,20,30,4,3,3,0,0,0,3,0,0, Full Time,job,At FB on Tippett.. %M and %P,,

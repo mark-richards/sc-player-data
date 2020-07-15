@@ -1,0 +1,62 @@
+Essendon,Bombers,Sydney,Swans,W3,9.26.80,6.11.47, Full Time
+Mar 9,2012,6.10,Docklands,Fox Footy,,10330301,,28,Fine,21,,
+
+<em>demons13</em>: watson 133 sc<br><em>UGotBaked</em>: will play first 2 or 3 games in the WAFL though since he wont play a game in the NAB<br><em>Meldrum23</em>: I'd be surprised if Parker is a sub candidate hes a BEAST<br><em>UGotBaked</em>: yes he will catattack<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> CatAttack9</em>: will morabito get a game for freo this year?<br><em>Juulute</em>: trouble with Jetta - and Rohan and Parker - is that they are all sub-vest candidates<br><em>S_Coach99</em>: he's 50&#044;000 more than wingard...<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> CatAttack9</em>: aha thought so<br><em>Jimbo boy</em>: is goodes still on the ground ?<br><em>S_Coach99</em>: hahaha opps&#044; Sydney...Lewis...<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> CatAttack9</em>: haha which jetta s_coach99&#044; 2 L jettas<br><em>john90</em>: Best game of the nab cup so far<br>
+230231,Jobe,Watson,ES,27,107,-,130,88,117,11,16,4,4,0,2,0,2,0, Full Time,hot,%P with %b by hand with %T... also %M and %s,,,86
+240027,Brent,Stanton,ES,20,107,-,142,80,105,19,4,8,4,0,2,0,0,0, Full Time,hot,Tagged by Bird... %D and %M with %T,,,83
+250267,Patrick,Ryder,ES,24,87,-,108,83,100,10,2,7,2,10,2,5,4,3, Full Time,news,First goal... %P and %G with %H and %s... also %F,,,89
+270584,Kyle,Hardingham,ES,20,82,-,113,62,81,12,2,7,6,0,3,2,0,0, Full Time,job,Responsible for Morton... %M and %D with %T,,,97
+290160,Michael,Hibberd,ES,9,67,-,87,52,69,11,5,5,2,0,1,0,0,0, Full Time,news,%P and %M with %T,job,Minding Rohan,93
+292503,Stewart,Crameri,ES,11,66,-,81,56,73,6,8,3,3,0,1,1,2,1, Full Time,injured,%s from %P on Johnson... also %T and %M... right hamstring tightness in Q3,subbed,Subbed off in Q4,87
+271022,Tayte,Pears,ES,9,65,-,84,51,66,10,5,5,2,0,2,0,0,0, Full Time,job,Has Walsh... %O and %M,,,92
+280824,Jake,Melksham,ES,11,59,-,74,49,63,8,4,3,2,0,1,1,2,0, Full Time,news,%2 Jetta on a wing... %s from %P and %M including a supergoal... also %T,,,74
+260073,Ben,Howlett,ES,9,57,-,78,42,60,9,4,2,5,0,2,2,0,0, Full Time,news,%D and %M with %T,,,62
+280988,Travis,Colyer,ES,11,56,-,69,48,63,6,6,3,2,0,0,1,2,0, Full Time,news,%s from %O with %M and %T,,,84
+290629,Dyson,Heppell,ES,7,56,-,72,47,65,11,6,3,1,2,2,2,0,0, Full Time,job,Going with Parker... %P and %M,,,82
+240245,Courtenay,Dempsey,ES,7,54,-,67,43,58,11,6,2,0,0,2,0,0,1, Full Time,news,%O and %M plus %s,,,91
+261314,David,Myers,ES,7,51,-,67,39,57,12,4,2,1,0,0,1,0,0, Full Time,news,Spent Q1 as a sub but on for Q2... %D and %M,,,58
+960197,Dustin,Fletcher,ES,8,48,-,64,40,51,10,1,6,0,0,1,1,0,0, Full Time,job,Takes the resting ruckman which is mostly Pyke... %M and %O,,,100
+270935,Michael,Hurley,ES,9,47,-,56,40,48,5,4,2,1,0,2,0,2,0, Full Time,news,%s from %P and %M on Roberts-Thomson... also %H,,,88
+261320,Tom,Bellchambers,ES,9,45,-,54,42,50,3,3,4,1,17,0,1,0,0, Full Time,news,On in Q3... %H and %P with %M,sub,Started as a sub,47
+990046,Mark,McVeigh,ES,3,43,-,55,35,49,8,5,2,1,0,1,1,0,1, Full Time,news,%s from %O and %M on Shaw,subbed,Subbed off in Q4,67
+250569,Heath,Hocking,ES,9,40,-,50,32,46,4,6,0,3,0,0,1,1,1, Full Time,tagger,Tagging Kennedy... %O and %T plus %s,,,57
+240290,Angus,Monfries,ES,3,37,-,42,34,48,3,11,2,0,0,0,0,0,0, Full Time,news,Spent Q1 as a sub but on for Q2... %B among %O with %M,,,62
+270951,David,Zaharakis,ES,2,34,-,43,26,37,8,3,1,0,0,0,0,0,1, Full Time,news,%2 McVeigh... %D,,,61
+230238,Jason,Winderlich,ES,2,33,-,42,25,35,2,5,1,3,2,0,0,0,0, Full Time,news,On in Q3... %P and %T,sub,Started as a sub,48
+250352,Leroy,Jetta,ES,1,25,-,32,19,27,4,3,1,1,0,0,0,0,0, Full Time,news,%O on Smith,subbed,Subbed off at HT,44
+270588,Cale,Hooker,ES,1,20,-,26,16,21,2,2,2,1,0,0,0,0,0, Full Time,job,Standing Reid... %P and %T with %M,subbed,Subbed off at HT,50
+290641,Jake,Carlisle,ES,1,20,-,25,15,21,5,2,0,0,0,1,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,50
+200026,David,Hille,ES,1,19,-,28,19,27,4,0,3,1,3,0,3,0,0, Full Time,news,%P and %M on Grundy.. also %H and %F,subbed,Subbed off at HT,46
+230051,Alwyn,Davey,ES,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+240319,Sam,Lonergan,ES,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+261324,Kyle,Reimers,ES,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+292138,Luke,Davis,ES,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+281281,Lewis,Jetta,SY,32,94,-,127,68,91,12,3,5,8,0,1,1,1,1, Full Time,news,%2 Melksham on a wing... %s from %O and %T with %M,,,85
+200023,Rhyce,Shaw,SY,13,85,-,113,60,87,17,6,1,5,0,2,1,0,0, Full Time,news,%D and %T,job,Minding McVeigh,84
+290788,Luke,Parker,SY,17,84,-,105,74,97,12,9,5,2,0,3,3,2,1, Full Time,news,%s from %D and %M on Heppell,,,81
+230253,Jarrad,McVeigh,SY,14,81,-,106,60,82,11,7,4,5,0,1,0,0,1, Full Time,news,%2 Zaharakis... %P and %T,,,91
+290188,Samuel,Reid,SY,22,80,-,97,69,81,7,4,6,2,0,1,0,4,0, Full Time,news,Booted %s from %P and %G on Hooker,,,98
+240072,Heath,Grundy,SY,13,76,-,96,65,84,13,8,7,0,0,3,1,0,0, Full Time,news,%P and %M,job,Has Hille,99
+260382,Josh P.,Kennedy,SY,12,65,-,84,49,72,10,9,1,4,0,1,1,0,0, Full Time,tagged,Tagged by Hocking... %O and %T,,,82
+980073,Adam,Goodes,SY,15,57,-,74,52,67,9,2,6,1,0,0,3,2,1, Full Time,news,%s from %O and %M including a supergoal... also %F,sore,Had his head slammed into the behind post by Hardingham in Q3,97
+261212,Craig,Bird,SY,12,56,-,74,41,60,9,6,1,4,0,1,1,0,0, Full Time,tagger,Tagging Stanton... %P and %T,,,82
+291450,Alex,Johnson,SY,4,53,-,68,43,54,8,4,5,1,0,2,0,0,0, Full Time,job,In defence on Crameri... %D and %M,,,88
+230132,Nick,Malceski,SY,6,52,-,70,35,51,15,0,1,1,0,0,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,55
+261257,Andrejs,Everitt,SY,10,50,-,62,43,51,7,3,5,0,0,2,0,1,0, Full Time,news,No stats in Q1... %s from %D and %M,,,89
+280762,Shane,Mumford,SY,5,47,-,56,43,50,4,6,1,2,10,7,2,0,1, Full Time,news,%H and %P plus %T and %s... also a massive %4 frees for and %F,subbed,Subbed off in Q3,74
+291357,Gary,Rohan,SY,9,45,-,56,36,48,5,4,0,3,0,1,1,2,0, Full Time,news,%s from %P and %T on Hibberd,,,94
+240412,Mitch,Morton,SY,8,38,-,52,26,36,4,2,2,4,0,0,0,0,0, Full Time,news,%O and %T on Hardingham,,,91
+990011,Jude,Bolton,SY,3,38,-,51,29,46,7,5,0,3,0,0,2,0,1, Full Time,news,%s from %D,,,90
+220101,Mark,Seaby,SY,9,33,-,35,32,37,1,5,1,0,10,1,0,1,0, Full Time,news,On in Q3... %H and %P,sub,Started as a sub,43
+250338,Nick,Smith,SY,2,33,-,43,26,33,5,2,3,1,0,1,0,0,0, Full Time,job,Chasing Jetta... %D and %M,subbed,Subbed off at 3QT,50
+291978,Harry,Cunningham,SY,8,31,-,38,26,30,3,0,2,1,0,0,0,2,0, Full Time,news,On in Q3... %s from %O,sub,Started as a sub,48
+240226,Kieren,Jack,SY,2,30,-,39,23,31,5,2,2,1,0,0,0,0,1, Full Time,injured,%O and %M plus %s... right shin iced up in Q2,subbed,Subbed off at HT,37
+220089,Lewis,Roberts-Thomson,SY,2,24,-,32,22,33,4,4,2,1,0,0,2,0,0, Full Time,job,Started in defence on Hurley... %P and %M with %F,subbed,Subbed off at HT,79
+292509,Tommy,Walsh,SY,1,17,-,21,16,23,3,3,1,0,0,0,1,0,2, Full Time,irish,%s from %O on Pears... spent Q3 as a sub,switch,Switched into defence in Q4 but was terrible at it,85
+291206,Mike,Pyke,SY,1,15,-,18,16,21,1,2,0,1,9,1,2,0,0, Full Time,canada,%H and %D... also %F... spent Q3 as a sub,,,69
+280018,Nathan,Gordon,SY,0,12,-,16,9,12,3,0,1,0,0,0,0,0,0, Full Time,news,On in Q4,sub,Started as a sub,7
+210027,Ted,Richards,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+220063,Martin,Mattner,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+230140,Ben,McGlynn,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+250080,Jarred,Moore,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+250212,Jesse,White,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

@@ -1,0 +1,48 @@
+West Coast,Eagles,Gold Coast,Suns,R11,13.7.85,10.7.67, Full Time
+Jun 4,2011,3:10,Subiaco,Fox Sports,200020,10311103,5544,81,Sunny,18,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Scratchy</em>: *SC Lynch 46<br><em>wazzasmith</em>: cox got 166 not 158<br><em>Scratchy</em>: and Darling 75 not 71&#044; Prestia 54&#044; Lynch 47<br><em>Salisbury</em>: Thank you Capt Gazza<br><em>Scratchy</em>: Cox 166. Smith 118. Ablett 154.<br><em>schezza</em>: hurn in :-)<br><em>bigdaddydy</em>: franklin out<br><em>BoredSaint</em>: cox 166&#044; hurn 140 after adjustments :D<br><em>mrpotato</em>: sweet 275 from my ruck dept this weel<br><em>living21</em>: flower just found out franklins not playin<br><em style='color:#a0a'>rodallegaa</em>: im having an awful awful week<br><em>chinospot</em>: traded in gaz this week hells to the yeah<br>
+200112,Dean,Cox,WC,44,145,166,177,128,158,15,11,9,4,28,3,3,2,1, Full Time,star,Started at FF on Tape... %P and %M plus %s and %H,,
+240124,Matt,Priddis,WC,38,133,117,170,104,141,13,18,8,8,0,2,0,0,0, Full Time,gun,%P and %M with %T,,
+240283,Shannon,Hurn,WC,31,131,140,172,104,135,25,5,14,1,0,0,0,0,0, Full Time,hot,%D and %M,,
+240119,Mark,LeCras,WC,39,128,144,165,97,135,15,13,4,9,0,0,1,2,0, Full Time,hot,%s from %P and %M... also %T,,
+270928,Scott,Selwood,WC,49,96,78,129,70,96,8,8,3,11,0,3,2,1,0, Full Time,tagger,Tagging Ablett jnr... %O and %T with %M plus %s,mrp,Punched Ablett jnr off the ball in Q4 which will be looked at by the MRP
+270953,Ashley,Smith,WC,19,93,82,122,70,93,13,7,6,5,0,2,0,0,0, Full Time,job,%T and %D plus %M,,
+200074,Darren,Glass,WC,19,91,91,119,76,99,11,8,11,3,0,0,1,0,0, Full Time,job,Standing Lynch... %O,,
+250111,Matt,Rosa,WC,20,91,74,124,72,100,17,4,8,4,1,0,3,0,0, Full Time,news,%P and %T with %M,,
+271045,Nic,Naitanui,WC,23,86,78,103,76,93,6,6,3,4,24,1,2,2,0, Full Time,fiji,%H and %P with %T and %s,,
+220061,Quinten,Lynch,WC,19,85,98,107,70,88,11,7,7,2,0,2,0,1,1, Full Time,news,First goal... kicked %s from %G and %O on the much smaller Brown,,
+261290,Chris,Masten,WC,14,83,68,108,63,87,10,9,5,5,0,0,0,0,0, Full Time,news,%O and %T,,
+990020,Andrew,Embley,WC,20,82,69,108,63,87,9,9,5,6,0,1,1,0,0, Full Time,news,%D and %T with %M,,
+240406,Josh J.,Kennedy,WC,21,78,106,96,71,86,9,3,7,1,0,0,2,4,2, Full Time,news,%s from %P and %M on Bock,,
+290838,Jack,Darling,WC,20,78,75,105,57,75,9,4,6,6,0,1,0,0,0, Full Time,reported,%O and %M with %T... reported for a late but rather soft strike on Brown in Q3,,
+280078,Luke,Shuey,WC,13,72,65,94,55,78,9,9,3,5,0,1,1,0,0, Full Time,sore,%2 Swallow... %O and %M with %T... right thigh corkie in Q3 in a challenge with Swallow,,
+230281,Mark,Nicoski,WC,12,70,70,91,55,71,13,3,6,1,0,1,0,0,2, Full Time,news,%s from %P and %M on Harbrow,,
+261214,Will,Schofield,WC,8,62,68,82,51,66,11,3,7,1,0,1,1,0,0, Full Time,job,On Day... %D and %M,,
+281080,Brad,Sheppard,WC,10,57,49,73,44,57,7,4,3,3,0,1,0,1,0, Full Time,job,Minding McKenzie... %D and %M,,
+230254,Adam,Selwood,WC,8,52,36,67,43,60,9,6,4,1,0,0,1,0,0, Full Time,job,Out of the play a bit in defence on Krakouer... %P,,
+280441,Patrick,McGinnity,WC,4,50,53,66,39,54,7,5,3,3,0,1,1,0,0, Full Time,job,Has Stanley... %O and %T,,
+271073,Thomas,Swift,WC,3,37,33,50,29,40,6,2,3,2,0,0,1,0,1, Full Time,in,%l Daniel Kerr... %D and %T with %M and %s,subbed,Subbed off in Q3 for Strijk
+260446,Andrew,Strijk,WC,0,15,20,20,11,15,2,1,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Swift... %D,sub,Started as a sub
+220001,Gary,Ablett jnr,GC,38,132,154,106,99,138,15,17,1,9,0,2,0,2,0, Full Time,gun,Tagged by Scott Selwood... %P and %T plus %s,,
+280722,Zac,Smith,GC,32,107,118,92,87,111,10,11,3,6,15,4,1,1,0, Full Time,hot,%H and %P with %M and %T... also %s,,
+240712,Michael,Rischitelli,GC,26,105,101,72,81,111,16,9,5,5,0,1,1,1,0, Full Time,hot,%P and %M with %T and %s,,
+290527,Trent,McKenzie,GC,26,102,94,73,79,102,15,5,8,4,0,1,0,1,0, Full Time,hot,%D and %M with %T on a HFF on Sheppard,,
+220009,Nathan,Bock,GC,15,94,94,61,74,99,16,5,9,3,0,0,1,0,0, Full Time,job,On Kennedy... %M and %O,,
+220013,Campbell,Brown,GC,14,85,99,61,70,93,13,6,9,3,0,1,2,0,0, Full Time,job,Was a lot smaller than Lynch but worked hard anyway... %D and %M with %F,,
+240254,Jarrod,Harbrow,GC,14,81,84,54,60,81,13,6,4,4,0,2,0,0,0, Full Time,job,Minding Nicoski... %O,,
+230015,Jared,Brennan,GC,19,72,93,70,52,72,6,9,2,7,0,2,0,0,0, Full Time,news,%O and %T,,
+281085,Steven,May,GC,10,66,55,46,47,63,11,1,5,4,0,0,0,0,0, Full Time,cash,%P and %T plus %M,,
+200020,Josh,Fraser,GC,16,65,62,56,54,71,7,5,2,5,7,3,3,1,1, Full Time,news,%H and %P with %T and %s,,
+291594,Harley,Bennell,GC,8,61,62,36,54,79,9,15,2,0,0,0,1,0,1, Full Time,news,%s from %O on a wing,,
+281024,Maverick,Weller,GC,9,60,55,52,48,66,6,9,4,3,0,0,0,0,0, Full Time,cash,%P and %M with %T,,
+210014,Daniel,Harris,GC,18,58,58,58,42,63,4,11,0,6,0,0,0,0,0, Full Time,news,%D and %T,,
+240316,Sam,Iles,GC,8,58,63,42,51,69,7,11,5,0,0,0,0,0,0, Full Time,cash,%D and %M,,
+290832,David,Swallow,GC,8,53,66,34,46,70,9,9,2,3,0,1,4,0,1, Full Time,reported,%2 Shuey... %O... a report for a bump on Scott Selwood in Q1 will be scrutinised,,
+250249,Danny,Stanley,GC,9,48,47,40,36,52,6,5,2,4,0,0,1,0,1, Full Time,cash,%s from %P with %T,,
+291753,Sam,Day,GC,13,45,40,36,42,52,5,4,6,0,0,0,1,1,1, Full Time,cash,%s from %O and %M on Schofield,,
+290627,Dion,Prestia,GC,9,43,54,36,37,48,4,6,3,1,0,0,0,1,0, Full Time,news,On in Q2 for Hine... %O and %M plus %s,sub,Started as a sub
+293223,Seb,Tape,GC,8,33,39,37,25,36,2,4,2,4,0,0,1,0,0, Full Time,switch,Started at FB on Cox but that didn't work... spent most of the game up forward getting cold... %T,,
+293813,Thomas,Lynch,GC,9,31,46,29,27,33,2,3,0,2,0,2,1,2,0, Full Time,cash,%s from %P on Glass... also %T,,
+261083,Nathan,Krakouer,GC,1,20,23,2,18,28,6,3,0,0,1,1,2,0,0, Full Time,news,%O on Adam Selwood,,
+290538,Taylor,Hine,GC,0,5,11,2,6,10,1,2,0,0,0,0,1,0,1, Full Time,rookie,First game... %P and %s,subbed,Subbed off in Q2 for Prestia

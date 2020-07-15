@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Brisbane,Lions,R12,19.21.135,11.4.70, Full Time
+Jun 17,2012,1:10,MCG,Fox Sports,240087,10341205,430108,0,A shower or two,15,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em title="MANONFIRE">manonfire</em>: yes lazy with typing<br><em>bixler</em>: 2076 with dickson and redden to come (with 2 donuts)<br><em>Magic33</em>: bin for mitchell<br><em title="CHAVSON">chavson</em>: @mochasons made it at the start of the year targeting this round<br><em>myteamsuks</em>: Glad i kept rioli averaging 115 sc last 3 weeks<br><em>KingPetrie</em>: what does everyone think the biggest SC score will be?<br><em>danmaio</em>: Mitchell flame<br><em>Fr1dg3</em>: to the people bagging rockliff. choke on a black dildo<br><em>bert1</em>: golby your on notice<br><em>Jukes82</em>: Rockliff with the junk.<br><em>Sydney14</em>: how does hanley not have the mare icon<br><em>Moona</em>: Need Boyd to get less than 90 - don't like my chances unless he gets injured<br>
+240399,Lance,Franklin,HW,38,122,118,155,93,115,15,2,4,7,0,2,0,5,1, Full Time,heart,Booted %s from %P and %M with %T... Maguire fell across his right leg in Q3 which twisted his ankle... three of those majors in Q4,goose,Maguire on him
+220073,Sam,Mitchell,HW,38,113,124,146,86,117,13,12,4,8,0,3,1,1,0, Full Time,garbage,Racked it up in Q4 junk time... %O and %T plus %M and %s,rain,Tagged by Raines
+240357,Jarryd,Roughead,HW,32,111,129,136,89,110,10,7,3,6,17,2,0,2,3, Full Time,hot,%s from %P and %T with %M on McKeever... also %H,,
+210012,Shaun,Burgoyne,HW,27,107,137,140,81,114,16,8,3,7,0,0,2,2,0, Full Time,star,%P and %M with %T and %s,,
+280737,Liam,Shiels,HW,45,102,55,138,74,104,12,8,4,10,0,2,2,0,2, Full Time,hot,%s from %D  and %T playing mostly forward on Hanley... also %M,,
+260955,Cyril,Rioli,HW,31,98,115,129,69,96,11,8,2,9,0,1,0,1,0, Full Time,news,%s from %D and %T with %M,,
+270732,Matt,Suckling,HW,19,98,119,127,72,102,16,10,3,5,0,1,0,0,0, Full Time,news,Zorko manning him up... %P,,
+240302,Grant,Birchall,HW,19,97,83,128,72,99,21,4,6,2,0,0,0,0,0, Full Time,news,%D and %M with %T,job,Responsible for Polkinghorne
+260710,Paul,Puopolo,HW,31,93,88,122,69,91,10,6,1,9,0,5,2,2,1, Full Time,news,%s from %P and %T on Harwood,,
+280858,Shane,Savage,HW,20,87,121,110,66,91,13,9,2,4,0,1,0,1,1, Full Time,news,Playing half forward again on Adcock... %s from %D and %T with %M,,
+230197,Brad,Sewell,HW,9,75,99,94,59,84,10,12,3,3,0,0,0,0,0, Full Time,news,%2 Rich... %O and %T with %M,,
+280744,Luke,Breust,HW,17,72,85,91,62,81,4,9,5,5,0,1,2,2,0, Full Time,news,Golby on him... %s from %D and %T with %M,,
+250055,Clinton,Young,HW,8,63,63,82,47,64,12,4,3,2,0,1,0,0,1, Full Time,news,%O and %M plus %s,,
+291351,Jack,Gunston,HW,10,61,84,72,51,64,6,7,1,2,0,2,0,2,4, Full Time,news,Kicked %s from %P and %T on Patfull,,
+294877,Isaac,Smith,HW,9,59,43,79,43,63,8,6,2,5,0,0,1,0,0, Full Time,news,Just one touch in Q1... %P and %T with %M,,
+250715,Josh,Gibson,HW,8,57,84,71,49,63,6,8,6,1,0,1,0,0,0, Full Time,job,On Merrett... %O and %M,,
+280471,Ben,Stratton,HW,4,54,76,72,43,54,11,1,5,1,0,3,1,0,0, Full Time,job,Standing Cornelius... %P and %M,,
+200060,Brent,Guerra,HW,5,49,41,66,38,52,9,2,4,2,0,0,1,0,1, Full Time,injured,%D and %M with %T and %s... copped one in the jaw and later a right hip knock in Q1... then Mitchell got him high in Q2 as well!,subbed,Subbed off in Q3 for Hill
+220036,David,Hale,HW,10,49,52,56,50,61,3,6,4,0,20,0,2,0,2, Full Time,news,%H as first ruck... also %s from %P and %M... %F as well,,
+250146,Thomas,Murphy,HW,8,48,73,64,33,48,5,5,1,5,0,0,0,0,0, Full Time,job,Minding Green... %P and %T,,
+295584,Bradley,Hill,HW,9,41,25,52,32,46,7,4,0,2,0,0,1,1,1, Full Time,news,On in Q3 for Guerra... %s from %P,sub,Started as a sub
+281301,Ryan,Schoenmakers,HW,1,16,34,19,17,27,1,7,0,1,0,1,2,0,0, Full Time,job,Had Brown... %P... also %F,,
+261224,Dayne,Zorko,BL,38,140,137,109,108,138,18,6,9,7,0,1,0,3,0, Full Time,cherry,First goal... %s from %P and %M manning up Suckling... also %T,cash,Still generating fantasy cash but the question is will you ever trade him?
+270919,Tom,Rockliff,BL,25,100,100,83,75,108,11,16,2,7,0,1,0,0,0, Full Time,hot,Started slowly... %P and %T,,
+240087,Jed,Adcock,BL,19,96,120,61,72,105,16,11,3,5,0,0,1,0,0, Full Time,news,Playing a lot of halfback on Savage... %D and %T with %M,,
+281373,Jack,Redden,BL,15,93,102,67,72,98,13,10,5,4,2,1,0,0,0, Full Time,news,%O and %T with %M,,
+200007,Jonathan,Brown,BL,21,88,78,69,74,87,10,4,7,2,0,3,0,3,0, Full Time,news,Booted %s from %G and %D on Schoenmakers... also %T,,
+240710,Ben,Hudson,BL,17,84,88,70,75,91,7,7,3,2,34,1,1,0,0, Full Time,news,%H and %D with %M,,
+240013,Andrew,Raines,BL,18,72,73,52,54,78,10,9,0,5,0,1,1,1,0, Full Time,tagger,Tagging Mitchell... %D and %T plus %s,,
+290110,Mitchell,Golby,BL,15,60,52,59,45,66,5,9,2,6,0,0,1,0,0, Full Time,job,Responsible for Breust... %P and %T with %M,,
+230147,Daniel,Merrett,BL,5,58,61,43,46,60,8,3,3,3,7,1,1,0,2, Full Time,news,%s from %G and %P on Gibson... also %T and %H,,
+271072,Daniel,Rich,BL,14,54,75,36,43,63,9,5,1,4,0,1,3,1,0, Full Time,news,%2 Sewell... %O and %T plus %s,,
+200121,Josh,Drummond,BL,8,53,62,36,45,66,8,9,3,2,0,0,2,0,0, Full Time,news,%O and %M... also %T and %F,,
+230170,Joel,Patfull,BL,8,51,61,41,36,48,7,2,3,4,0,1,0,0,0, Full Time,job,Gunston is his man... %P and %T with %M,,
+281048,Ryan,Harwood,BL,4,51,70,33,39,51,8,5,2,2,0,3,0,0,0, Full Time,news,Playing in defence on Puopolo... %P and %T with %M,,
+220062,Matt,Maguire,BL,4,46,74,23,36,51,10,2,3,2,0,1,2,0,0, Full Time,job,Standing Franklin... %M and %O... also %T and %F,,
+291548,Ryan,Lester,BL,7,42,54,18,39,57,9,7,3,0,0,1,3,0,0, Full Time,news,%D and %M.. also %F,,
+290748,Joshua,Green,BL,3,40,38,16,26,40,10,0,0,3,0,0,1,0,1, Full Time,news,%s from %P and %T on Murphy,,
+260975,James,Polkinghorne,BL,9,37,45,24,33,49,6,5,1,2,0,0,3,1,1, Full Time,news,%s from %P and %T on Birchall,,
+270512,Pearce,Hanley,BL,3,34,41,24,28,42,6,3,2,3,0,1,3,0,0, Full Time,job,Shiels manning him up... %P and %T with %M... also %F,,
+281329,Rohan,Bewick,BL,7,28,18,16,21,27,5,0,1,1,0,0,0,1,0, Full Time,news,On in Q3 for Polec... %s from %O,sub,Started as a sub
+290738,Jared,Polec,BL,2,26,45,22,19,27,3,3,1,2,0,0,0,0,0, Full Time,news,%O and %T,subbed,Subbed off in Q3 for Bewick
+292508,Niall,McKeever,BL,2,26,35,22,23,31,3,3,3,1,1,0,1,0,0, Full Time,job,Has the resting ruckman which is mostly Roughead... %M and %D,,
+261391,Aaron,Cornelius,BL,7,23,24,24,21,31,2,2,1,3,1,0,3,1,0, Full Time,sore,%s from %D and %T on Stratton... right AC joint knock in Q4,,

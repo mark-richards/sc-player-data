@@ -1,0 +1,54 @@
+Adelaide,Crows,West Coast,Eagles,GF,12.23.95,7.19.61, Full Time
+Mar 17,2012,7.40,Footy Park,,,10330408,,44,Light wind,24,,
+
+<em>WEEEagles</em>: who won?<br><em>Meldrum23</em>: so butthurt<br><em>cdrobert</em>: flower off meldrum ya drip<br><em>damoc85</em>: channel 7 coverage is horrible<br><em>bert1</em>: jocks vince<br><em>Wends</em>: B Vince. <br><em>Grazz</em>: Onya Bernie&#044; nice comeback..<br><em>itsduftime</em>: who won the norm smith?<br><em>Meldrum23</em>: SOME eagles supporters are so precious.<br><em>E Kavastar</em>: Channel 7 are a shambles<br><em>bert1</em>: well done sando<br><em>Arch</em>: Ouch pronga gotch sook<br>
+210016,Scott,Thompson,AD,60,135,-,179,101,138,16,11,6,11,0,3,2,1,0, Full Time,hot,Tagged by Scott Selwood... %P and %T with %M plus %s,,,86
+261142,Bernie,Vince,AD,25,108,-,136,91,121,19,10,9,0,1,0,1,1,0, Full Time,hot,First goal... got McGinnity's tag in Q1... %O and %M plus %s,,,83
+250362,David,Mackay,AD,20,84,-,108,65,90,11,9,3,5,0,1,1,1,0, Full Time,news,%D and %T,,,77
+270917,Patrick,Dangerfield,AD,15,83,-,108,66,93,17,8,4,2,0,2,2,0,0, Full Time,news,%2 Kerr... %D,,,84
+270742,Kurt,Tippett,AD,17,78,-,100,66,80,10,2,8,2,7,1,1,1,1, Full Time,news,%G and %O on Mackenzie... also %H,,,90
+280506,Taylor,Walker,AD,22,77,-,99,67,82,10,1,8,2,0,0,2,3,1, Full Time,news,Glass on him.... %s from %D and %G including a ninepointer,,,91
+220086,Brent,Reilly,AD,8,75,-,95,58,78,15,7,3,1,0,3,0,0,0, Full Time,job,Minding Hill... %D,,,86
+270938,Tom T.,Lynch,AD,9,69,-,90,57,69,12,2,9,0,0,2,0,0,0, Full Time,,,sub,Started as a sub,44
+270811,Sam,Jacobs,AD,16,67,-,83,58,69,7,1,5,2,18,0,1,1,0, Full Time,bench,%H and %P with %M... subbed off in Q2 for McKernan,,,77
+261138,Jared,Petrenko,AD,19,64,-,86,45,57,7,1,1,7,0,4,1,1,3, Full Time,news,%s from %P and %T on Butler,,,86
+291201,Ricky,Henderson,AD,13,64,-,85,51,69,11,4,6,2,0,0,1,0,0, Full Time,job,Playing a HBF on Nicoski then got Embley after Nico's injury in Q1... %D and %M,,,79
+270963,Rory,Sloane,AD,18,61,-,82,45,67,8,7,1,6,1,1,2,0,0, Full Time,news,Started on a HFF on Waters... %P and %T,,,92
+261857,Ian,Callinan,AD,13,60,-,74,48,60,12,3,2,0,0,3,0,1,3, Full Time,news,%s from %D,,,60
+261351,Matthew,Jaensch,AD,10,57,-,74,43,55,10,1,3,2,0,1,0,1,1, Full Time,,,sub,Started as a sub,49
+291748,Brodie,Smith,AD,7,51,-,65,43,63,10,8,2,1,0,1,2,0,0, Full Time,news,%2 Gaff on a wing... %O,,,80
+200092,Michael,Doughty,AD,4,49,-,62,39,51,4,7,3,3,0,2,0,0,0, Full Time,job,Chasing Hams... %O and %M,,,89
+230174,Jason,Porplyzia,AD,10,46,-,56,42,55,6,6,4,0,0,0,1,1,1, Full Time,news,%s from %G and %D on Schofield,,,86
+250118,Nathan,van Berlo,AD,8,46,-,62,32,48,8,4,0,4,0,1,1,0,0, Full Time,news,%2 Priddis.... %O,,,86
+290211,Sam,Shaw,AD,3,43,-,54,35,48,8,5,3,0,0,0,0,0,0, Full Time,job,On Lycett... %D,,,93
+210056,Graham,Johncock,AD,3,36,-,46,28,39,6,4,2,1,0,0,0,0,0, Full Time,news,%O and %M,,,42
+270296,Andy,Otten,AD,2,31,-,38,26,34,5,4,2,0,0,1,0,0,1, Full Time,job,Responsible for Darling... %P and %M plus %s,,,85
+291806,Sam,Kerridge,AD,3,27,-,37,21,30,4,2,2,2,0,0,1,0,0, Full Time,,,sub,Started as a sub,42
+261384,Matthew,Wright,AD,1,21,-,26,17,24,2,4,1,1,0,0,0,0,0, Full Time,news,%P,,,37
+280934,Daniel,Talia,AD,0,4,-,4,4,6,0,2,0,0,0,0,0,0,0, Full Time,job,Standing the resting ruck which is mostly Cox... %B among %D,,,66
+280038,Shaun,McKernan,AD,0,2,-,2,2,2,0,0,0,0,2,0,0,0,0, Full Time,news,On in Q2 for Jacobs... %H,sub,Started as a sub,10
+240124,Matt,Priddis,WC,32,99,-,126,76,108,9,15,2,8,0,1,1,1,0, Full Time,news,%2 van Berlo... %D and %T,,,89
+240016,Beau,Waters,WC,25,93,-,121,79,106,10,11,10,4,0,0,2,0,1, Full Time,news,%P and %M plus %s,job,On a HBF on Sloane,86
+261209,Josh,Hill,WC,20,88,-,110,72,90,12,4,6,2,0,0,0,2,6, Full Time,news,%s from %P and %M on Reilly including a supergoal,,,76
+200074,Darren,Glass,WC,13,86,-,112,69,87,15,4,9,1,0,2,0,0,0, Full Time,job,Has Walker... %M and %O,,,88
+240159,Sam,Butler,WC,19,86,-,114,68,96,12,9,6,5,0,0,2,0,0, Full Time,job,Minding Petrenko... %P and %T,,,88
+270928,Scott,Selwood,WC,19,83,-,104,68,99,9,17,2,5,0,2,2,0,0, Full Time,news,%P and %T,tagger,Tagging Scott Thompson,92
+230254,Adam,Selwood,WC,10,79,-,101,62,84,11,9,5,3,0,1,0,0,0, Full Time,news,Loose in defence early... %P,,,91
+250317,Eric,Mackenzie,WC,14,76,-,101,58,75,10,4,7,4,0,1,0,0,0, Full Time,news,%P and %M with %T,job,Standing Tippett,93
+290838,Jack,Darling,WC,16,73,-,96,59,78,8,6,5,5,0,2,2,1,0, Full Time,news,%P and %M on Otten,,,86
+250111,Matt,Rosa,WC,14,71,-,87,65,90,6,16,6,2,0,1,2,0,0, Full Time,news,%D and %M,,,87
+280441,Patrick,McGinnity,WC,10,58,-,77,45,60,7,5,4,4,0,2,1,0,0, Full Time,tagger,Moved to tag Vince in Q1... %D and %M,,,80
+271045,Nic,Naitanui,WC,15,55,-,62,49,57,2,4,1,2,30,0,0,0,0, Full Time,fiji,%H and %P,,,89
+990020,Andrew,Embley,WC,8,55,-,69,47,66,10,8,4,0,0,0,1,0,0, Full Time,news,On in Q1 for Nicoski... %O,sub,Started as a sub,65
+210018,Daniel,Kerr,WC,6,51,-,65,40,57,11,6,1,1,0,2,1,0,0, Full Time,news,%2 Dangerfield... %D,,,67
+280078,Luke,Shuey,WC,7,48,-,65,32,44,8,1,1,4,1,1,0,0,1, Full Time,,,sub,Started as a sub,46
+261214,Will,Schofield,WC,4,46,-,61,40,54,10,3,5,0,0,1,2,0,0, Full Time,porpoise,On Porplyzia... %D and %M,,,87
+240283,Shannon,Hurn,WC,3,45,-,61,34,51,9,4,1,3,0,1,2,0,0, Full Time,news,Started forward... %P and %T,,,87
+261290,Chris,Masten,WC,8,44,-,56,38,57,6,9,2,2,0,0,2,0,0, Full Time,news,%B among %O... also %T and %M,,,55
+290801,Andrew,Gaff,WC,7,42,-,50,36,51,6,9,2,0,0,0,0,0,0, Full Time,news,%2 Smith on a wing... %D and %M,,,40
+250034,Ashton,Hams,WC,9,38,-,46,34,46,4,6,2,1,0,0,1,1,1, Full Time,news,%s from %P on Doughty,,,78
+280946,Koby,Stevens,WC,3,33,-,45,28,40,5,3,3,2,0,0,2,0,1, Full Time,,,sub,Started as a sub,43
+290932,Gerrick,Weedon,WC,7,28,-,36,21,27,1,2,1,3,0,0,0,1,0, Full Time,,,sub,Started as a sub,44
+200112,Dean,Cox,WC,2,27,-,32,25,32,2,4,1,1,8,1,1,0,0, Full Time,news,Started at FF... %P and %H,,,40
+290746,Scott,Lycett,WC,2,24,-,30,20,25,2,3,2,1,1,1,0,0,0, Full Time,news,Shaw on him... %D,,,89
+230281,Mark,Nicoski,WC,6,16,-,20,13,15,1,0,1,1,0,0,0,1,0, Full Time,injured,%s from %O on Henderson including a supergoal... left hamstring torn in Q1,subbed,Subbed off in Q1 for Embley,15

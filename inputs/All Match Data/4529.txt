@@ -1,0 +1,48 @@
+Geelong,Cats,Melbourne,Demons,R16,13.20.98,4.6.30, Full Time
+Jul 13,2013,2.10,Kardinia,Seven,296027,10391603,geel-v-melb,0,Rain and wind,15,,
+
+<em style='color:#000'>ShowerTime</em>: Simpson on the bench :(<br><em style='color:#000'>colonel78</em>: Simpson bang<br><em style='color:#000'>rosty63</em>: a purple frenzy well done champ<br><em style='color:#000'>banta</em>: brick wall terlich?<br><em style='color:#000'>cusch1</em>: how did watts get a higher sc than terlich!?<br><em style='color:#000'>Slashers</em>: Terlich you flower head!<br><em style='color:#000'>Sloaneyyyy</em>: yep definitely Terlich -> Grimes next week<br><em style='color:#000'>hardballge</em>: Goota love the man love at a games end&#044; respect!<br><em style='color:#000'>NDiddy</em>: sj 143sc - glad i stuck with the vc on him ;)<br><em style='color:#000'>cusch1</em>: got pendles and johnson...and swan was decent as well<br><em style='color:#000'>frenzy</em>: blow the siren and i'm purple FFS<br><em style='color:#000'>flyupup</em>: doubting gaz should be a punishable offence<br>
+220054,Steve,Johnson,GE,48,156,143,201,119,165,23,15,6,8,1,1,1,1,2, Full Time,gun,Tagged by Nicholson... %P and %M with %T... also %s... racked it up in Q2... but his disposal lacked quality,mrp,A knee dropped into the jaw of Nathan Jones in Q2 will be looked at though not much in it,541000,120,575400,122,Forward Centre,20,9,116.6,116,22.73,18.61
+250321,Joel,Selwood,GE,48,126,133,167,86,121,20,9,1,10,0,4,0,0,1, Full Time,star,%2 Grimes... %O with %k by foot... also %T and %s,,,451800,126,528700,119,Centre,14,14,96.4,108.5,14.22,21.79
+270340,Dawson,Simpson,GE,40,109,131,121,100,116,3,11,3,3,55,1,0,0,1, Full Time,bluemoon,%H and %D with %M and %s,,,212800,-8,245800,-17,Ruck,16,3,67.7,77,2.53,2.31
+220058,James,Kelly,GE,44,105,111,144,70,103,15,6,2,11,0,0,1,0,1, Full Time,hot,%P and %T plus %M and %s,,,449000,86,458600,76,Centre,9,9,95.9,90.9,0.31,0.35
+290623,Josh,Caddy,GE,27,104,93,137,78,109,16,6,3,7,0,0,2,2,1, Full Time,hot,%D and %T with %M... also %s and %F,tagger,Tagging Nathan Jones,252700,-5,255800,-6,Centre,23,8,51.3,49.3,1.63,3.21
+200131,James,Podsiadly,GE,21,101,88,129,81,106,16,5,6,3,2,0,1,2,2, Full Time,vulture,%s from %D and %M on McDonald... all of his goals in second half junk time,,,378800,92,433300,101,Forward,31,13,76.9,82.7,1.31,1.48
+293255,George,Horlin-Smith,GE,25,79,114,98,60,79,7,9,0,6,0,3,0,2,1, Full Time,news,%P and %T plus %s,in,Late replacement for Mathew Stokes,232700,25,253300,34,Centre,33,6,51.7,54.8,1.26,1.20
+281065,Mitch,Duncan,GE,20,74,90,95,61,85,9,9,4,4,1,0,2,1,0, Full Time,news,%O and %M with %T,,,409000,54,403000,15,Centre,22,14,90.1,81,0.85,1.04
+290783,Billie,Smedts,GE,19,73,81,96,55,73,12,3,3,4,0,2,1,1,1, Full Time,news,%s from %O and %M on Terlich... also %T,,,261200,74,263400,93,Forward,2,9,52.4,53.9,0.91,2.39
+291309,Jesse,Stringer,GE,20,70,83,93,47,64,9,3,0,7,0,2,0,1,1, Full Time,news,%s from %P and %T,,,246200,63,247100,64,Centre,41,4,45.5,41.5,0.32,0.39
+220007,Jimmy,Bartel,GE,8,69,80,93,48,67,15,1,3,3,1,0,0,0,0, Full Time,news,In defence again... %P and %M with %T,,,491000,136,533600,116,Forward Centre,3,14,99,109.5,38.18,35.75
+250290,Travis,Varcoe,GE,20,65,59,90,43,60,4,4,3,9,0,0,0,0,0, Full Time,news,%O and %T with %M on Clisby,,,227000,79,257400,86,Forward Centre,5,3,40.3,44.3,4.85,5.50
+210059,Josh,Hunt,GE,9,64,83,85,45,60,11,3,2,4,0,3,0,0,0, Full Time,flash,Minding Davey... %D and %T,,,353400,88,427100,89,Back,8,7,64.7,74.9,0.58,0.48
+280990,Steven,Motlop,GE,18,61,71,83,45,69,12,4,0,5,0,0,3,1,0, Full Time,news,%D and %T on Dunn,,,310000,92,360400,84,Forward,32,13,73.8,77.5,3.75,4.09
+261497,Harry,Taylor,GE,8,57,97,73,47,61,10,4,6,0,1,0,0,0,0, Full Time,news,%P and %M,switch,Standing Watts... switched forward in Q3,403600,77,486100,96,Back,7,13,82.6,96.3,5.48,7.23
+295942,Jordan,Murdoch,GE,13,52,68,72,32,46,6,2,0,7,0,1,0,0,1, Full Time,news,%D and %T starting forward on Garland,,,278400,43,274200,28,Back,21,7,56,54.9,0.33,0.52
+296733,Mark,Blicavs,GE,5,52,68,63,42,53,6,5,1,2,11,2,0,0,0, Full Time,news,%H and %P,,,332100,71,371500,96,Centre Ruck,46,13,59.7,65.9,24.11,23.82
+230125,Tom,Lonergan,GE,4,50,76,62,42,55,8,6,4,0,0,1,0,0,1, Full Time,job,On Dawes... %P and %M,,,153900,30,205800,39,Back,13,14,38.4,46.9,2.07,2.03
+261510,Tom,Hawkins,GE,10,42,55,51,39,48,5,3,4,0,0,0,1,2,0, Full Time,news,First goal... %s from %O and %M on Frawley,,,274800,82,352500,97,Forward,26,13,60.8,72.8,3.88,5.23
+280822,Taylor,Hunt,GE,7,41,44,54,29,42,4,5,1,4,0,0,0,0,0, Full Time,news,%O and %T,,,246700,50,233900,48,Centre,19,10,60.4,60.4,0.86,0.99
+230248,Andrew,Mackie,GE,3,31,26,42,22,30,5,1,2,2,0,0,0,0,0, Full Time,news,%O and %T plus %M,subbed,Subbed off in Q3 for Guthrie,405000,68,457000,72,Back,4,14,84.4,88.2,4.86,4.18
+290550,Cameron,Guthrie,GE,1,26,21,36,17,24,3,1,1,3,0,0,0,0,0, Full Time,news,On in Q3 for Mackie,sub,Started as a sub,248500,46,273400,42,Back,29,10,54.7,58.5,1.25,2.00
+250222,Nathan,Jones,ME,25,108,120,78,81,117,15,16,1,7,0,3,1,0,0, Full Time,hot,Tagged by Caddy... %D and %T,,,382300,93,473600,116,Centre,2,14,77.6,89.6,0.59,0.60
+296027,Matt,Jones,ME,26,106,114,77,74,105,16,8,3,8,0,1,0,0,0, Full Time,hot,%P and %T with %M,,,331700,59,323200,67,Centre,45,14,74.1,69.9,3.23,2.27
+290528,Max,Gawn,ME,43,96,92,98,80,96,4,5,0,7,48,1,1,0,0, Full Time,cash,%H and %D with %T,,,252500,-32,263200,-2,Ruck,37,8,63,65.6,5.54,5.50
+261297,Jack,Grimes,ME,40,94,92,98,62,87,8,5,4,12,0,0,0,0,0, Full Time,news,%2 Selwood... %O and %T with %M,,,383700,146,410100,167,Back,31,7,75.6,83.3,1.61,1.09
+293042,Jimmy,Toumpas,ME,20,83,83,57,59,88,14,6,2,7,0,0,2,0,1, Full Time,cash,%P and %T plus %s,,,219500,30,195800,26,Centre,5,8,42.1,34.1,4.44,5.29
+250548,Lynden,Dunn,ME,14,79,109,52,58,81,13,6,4,4,0,0,0,0,0, Full Time,news,%P and %T plus %M,job,Minding Motlop,304700,72,346300,59,Back Forward,14,10,64.8,70.6,0.51,0.45
+280608,Jack,Trengove,ME,14,76,62,59,58,84,10,10,3,5,0,0,1,0,0, Full Time,news,%O and %M,,,378700,75,372800,70,Centre,9,12,77.9,74.9,0.55,0.75
+294874,Daniel,Nicholson,ME,24,76,84,77,54,81,6,11,1,9,0,0,1,0,0, Full Time,news,%O and %T,tagger,Tagging Johnson,315500,17,303900,31,Back,26,9,64.9,61.2,0.18,0.18
+230022,Shannon,Byrnes,ME,19,72,90,62,58,81,6,13,0,4,0,0,0,2,0, Full Time,news,%s from %P and %T,,,244500,98,221600,95,Forward,10,11,57.7,51.5,2.42,3.03
+270830,Colin,Garland,ME,10,71,73,52,50,69,11,3,4,5,0,0,0,0,0, Full Time,job,Murdoch is his man... %P and %T with %M,,,387400,77,486900,135,Back,20,14,70.9,87,0.75,0.89
+291533,Tom,McDonald,ME,13,70,100,58,52,73,8,9,2,5,1,1,0,0,0, Full Time,ipod,Has Podsiadly... %P,,,287300,53,341500,32,Back,25,9,59.2,70.7,0.18,0.25
+270976,Mitch,Clisby,ME,13,66,68,51,49,69,9,7,2,5,0,2,1,0,0, Full Time,cash,%D and %T plus %M,job,Responsible for Varcoe,148800,-33,147700,-15,Back,50,3,66.7,59,27.34,21.18
+260288,James,Frawley,ME,9,60,71,52,43,60,7,5,3,5,0,0,0,0,0, Full Time,news,%D and %T plus %M,tomahawk,On Hawkins,314500,53,350200,21,Back,8,12,65.8,68.8,0.51,0.64
+240037,Colin,Sylvia,ME,18,51,72,36,40,66,9,7,0,6,0,1,5,0,0, Full Time,news,%D and %T,,,438900,116,462700,118,Forward Centre,12,11,86.5,85.8,1.05,0.80
+270241,Dean,Terlich,ME,4,44,27,37,35,49,5,6,2,3,0,1,1,0,1, Full Time,news,%P and %M,job,Running off Smedts,410800,47,430300,38,Back,46,13,80.8,80.8,29.93,25.25
+294570,Dean,Kent,ME,3,43,50,26,29,42,8,2,1,3,0,0,0,0,0, Full Time,news,%D,,,169800,41,187000,48,Centre,34,7,39.3,38.7,0.78,0.88
+200002,Aaron,Davey,ME,7,31,19,20,22,38,7,0,0,5,0,0,4,0,2, Full Time,news,Josh Hunt on him... %s from %O... also %T and %F,,,272000,74,258300,60,Forward,36,12,53.1,50.7,1.03,0.83
+260394,Chris,Dawes,ME,8,30,38,30,24,30,2,2,2,2,0,0,0,1,0, Full Time,news,%s from %P and %T on Lonergan,,,257300,24,281200,26,Forward,6,8,53.1,55.4,0.50,0.78
+291313,Jeremy,Howe,ME,7,30,46,16,25,29,5,1,1,0,1,2,0,1,1, Full Time,news,%s from %D,,,353400,54,367100,67,Forward,38,14,77.1,80.5,1.39,1.36
+280746,Sam,Blease,ME,2,25,19,22,16,24,3,2,0,3,0,0,0,0,0, Full Time,news,On in Q3 for Fitzpatrick,sub,Started as a sub,233600,72,240800,71,Forward Centre,17,6,38.2,36.3,0.37,0.73
+280972,Jack,Watts,ME,2,19,26,19,22,36,1,9,1,1,0,0,3,0,0, Full Time,news,%O... also %F,,,345200,48,421700,32,Back Forward,4,10,64,75.9,2.03,2.20
+280758,Jack,Fitzpatrick,ME,1,13,26,11,12,14,1,1,1,0,5,0,0,0,0, Full Time,news,%D... also %H,subbed,Subbed off in Q3 for Blease,254100,-5,289400,-6,Ruck,48,5,70.8,68.2,2.21,0.88

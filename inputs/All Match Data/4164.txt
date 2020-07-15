@@ -1,0 +1,48 @@
+St Kilda,Saints,Melbourne,Demons,R20,16.11.107,12.10.82, Full Time
+Aug 11,2012,1:45,MCG,Seven,261297,10342002,430171,0,A shower or two,15,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Murf2Gibbs</em>: Only 4 sc tons something is a miss <br><em>Magner</em>: Cheers coldog<br><em>coldog</em>: 79 and 94 for dal<br><em>Magner</em>: Goddard and Dal Santo sc?<br><em>TmBattler</em>: Thanks SuperSub<br><em>sputnik</em>: Cheers shepp<br><em>Changeling</em>: mcevoy sc?<br><em>Magner</em>: +1 please Grimes?<br><em style='color:#99cc00'><b class="picon i_muppet" title="Kermit the Frog"></b> Kermit</em>: Kermit the Frog here with a Muppet News Flash: McDonald kicks across the backline to the defensive hotspot where Saad intercepts and goals.<br><em>SuperSub17</em>: Fisher 79<br><em>dancasta</em>: harsh on the bin kicking 5 in a losing team is a fair effort<br><em>yeragam</em>: + Wilkes?<br>
+250036,Beau,Wilkes,SK,37,121,121,148,106,124,13,4,12,1,4,0,0,5,0, Full Time,star,%s from %P and %M on Garland including three goals in Q3... also %H,,
+230084,Brendon,Goddard,SK,26,107,77,136,88,116,13,11,8,4,0,1,1,1,2, Full Time,hot,Tagged by McKenzie... %D and %M with %T,,
+220075,Leigh,Montagna,SK,25,106,113,139,80,117,16,13,3,7,0,1,2,0,0, Full Time,hot,%D and %T with %M and %F,,
+220023,Nick,Dal Santo,SK,16,105,92,133,81,114,18,12,4,3,1,0,0,0,2, Full Time,hot,%P and %M plus %s,,
+210002,Justin,Koschitzke,SK,22,90,98,113,76,94,6,7,7,5,6,1,1,2,1, Full Time,news,%s from %D and %M on Rivers,,
+990028,Lenny,Hayes,SK,20,90,85,117,67,99,11,13,2,7,0,0,1,0,0, Full Time,news,%O and %T,,
+260113,Jarryn,Geary,SK,15,85,85,106,69,96,12,13,5,2,0,0,0,0,0, Full Time,news,%P and %M,job,Minding Bail
+230243,Sean,Dempster,SK,13,81,99,106,63,84,12,6,7,3,0,0,0,0,0, Full Time,news,Loose in defence... %O and %T with %M,,
+270912,Jack,Steven,SK,15,81,100,100,68,93,13,11,4,1,0,1,1,1,0, Full Time,tagger,Tagging Jones... %O,,
+220034,Jason,Gram,SK,9,77,93,100,56,81,15,7,2,3,0,0,0,0,0, Full Time,news,%P,,
+250340,David,Armitage,SK,15,77,79,102,60,85,13,7,4,4,0,1,2,0,1, Full Time,news,%P and %M with %T,,
+240708,Sam,Fisher,SK,13,69,80,88,56,75,9,8,6,2,0,0,0,0,0, Full Time,tagged,Forward tag on him by Tapscott... %D and %M with %T,,
+261323,Ben,McEvoy,SK,21,69,101,78,64,72,3,4,2,2,39,2,1,0,0, Full Time,news,%H and %P with %M... also %F,,
+250134,Sam,Gilbert,SK,14,67,76,86,52,72,5,10,4,5,0,0,0,0,0, Full Time,news,%P and %M,job,On Howe
+250703,James,Gwilt,SK,14,67,71,90,50,69,11,4,4,4,0,1,1,0,0, Full Time,job,Has Green... %O,,
+290826,Jamie,Cripps,SK,19,65,75,79,54,75,5,11,1,4,0,0,1,2,0, Full Time,in,%l Farren Ray... %O and %T on Strauss,,
+200108,Stephen,Milne,SK,10,57,53,71,46,61,7,5,1,3,0,1,1,2,1, Full Time,news,First goal... %s from %O on Dunn,,
+294818,Ahmed,Saad,SK,10,52,58,64,42,52,4,4,2,3,0,1,0,2,1, Full Time,egypt,%s from %P and %T on MacDonald,,
+296459,Sam,Dunell,SK,5,50,57,64,45,60,5,8,5,2,0,2,2,0,0, Full Time,news,%D and %M... also %F,,
+280053,Tom,Simpkin,SK,4,40,33,55,31,42,5,2,4,3,0,0,1,0,0, Full Time,job,Standing the resting ruck which is mostly Sellar... %P and %M,,
+294198,Tom,Ledger,SK,2,31,52,39,27,42,8,6,0,0,0,1,2,0,0, Full Time,in,%l Clinton Jones... on after QT for Riewoldt... %P,sub,Started as a sub
+210001,Nick,Riewoldt,SK,7,30,40,38,25,30,3,1,3,1,0,0,0,1,0, Full Time,injured,Booted %s from %P and %G on McDonald... right knee knock in Q1,subbed,Subbed off at QT for Ledger
+280746,Sam,Blease,ME,33,118,115,96,100,123,12,8,8,3,0,0,0,5,0, Full Time,garbage,%s from %O and %M up forward again... lots of second half junk stats,,
+261297,Jack,Grimes,ME,15,107,101,61,82,112,19,10,5,3,0,2,0,0,1, Full Time,hot,%P and %M,,
+230130,Joel,MacDonald,ME,24,95,95,80,81,114,10,17,7,4,0,0,2,0,0, Full Time,news,%P and %T with %M,job,Chasing Saad
+250222,Nathan,Jones,ME,19,87,83,66,70,100,11,15,2,5,0,3,2,0,1, Full Time,tagged,Tagged by Steven... %O and %s,,
+250510,Matthew,Bate,ME,19,86,81,77,70,93,8,12,7,4,0,1,0,0,0, Full Time,news,%P and %M with %T,,
+230250,Jared,Rivers,ME,14,80,93,60,68,90,10,11,8,1,0,0,0,0,0, Full Time,news,%D and %M,job,Standing Koschitzke
+280608,Jack,Trengove,ME,10,79,74,51,63,86,12,10,4,2,2,1,0,0,0, Full Time,news,%D and %M,,
+250345,Rohan,Bail,ME,14,78,61,66,61,84,9,9,5,5,0,1,1,0,0, Full Time,news,%P and %M with %T up forward again on Geary,,
+250418,James,Sellar,ME,13,76,81,67,64,78,6,6,3,3,12,1,0,2,0, Full Time,news,%P and %T up forward on Simpkin... also %H,,
+270830,Colin,Garland,ME,9,73,94,38,57,78,14,6,5,1,0,0,0,0,0, Full Time,job,In defence on Wilkes... %P and %M,,
+291533,Tom,McDonald,ME,13,73,83,56,60,79,9,9,6,2,0,1,0,0,1, Full Time,job,Following Riewoldt then went to Ledger in Q2... %P and %M... also %T,,
+250548,Lynden,Dunn,ME,15,72,91,47,56,75,12,3,5,3,0,0,1,1,0, Full Time,job,In defence on Milne... %D and %M plus %T and %s,,
+280579,Luke,Tapscott,ME,16,69,52,59,48,63,9,1,5,6,0,1,0,0,0, Full Time,tagger,Forward tag role on Fisher... %P and %T with %M,,
+240037,Colin,Sylvia,ME,26,68,53,79,50,69,2,10,1,8,0,1,0,1,0, Full Time,sore,Right shin knock in Q1... %O and %T,,
+281280,Neville,Jetta,ME,16,67,61,60,50,66,7,4,4,5,0,0,0,1,0, Full Time,news,%O and %T with %M,,
+280521,Jake,Spencer,ME,16,65,64,61,59,73,4,6,2,3,28,1,2,0,0, Full Time,news,%H and %P with %M,,
+270906,Jordie,McKenzie,ME,7,58,56,47,48,69,6,13,1,3,0,2,1,0,0, Full Time,news,%P and %T,tagger,Tagging Goddard
+270937,James,Strauss,ME,7,53,53,40,43,63,6,12,1,2,0,0,0,0,0, Full Time,job,Minding Cripps... %O,,
+200054,Brad,Green,ME,10,48,44,28,40,49,8,2,4,0,0,1,0,1,1, Full Time,news,Started at FF on Gwilt... %s from %D and %M,,
+291313,Jeremy,Howe,ME,9,42,62,34,40,55,4,8,2,1,3,0,2,1,1, Full Time,news,Kicked %s from %G and %D on Gilbert,,
+230151,Brent,Moloney,ME,3,28,51,17,23,36,5,5,0,2,0,1,2,0,0, Full Time,news,%O and %T... also %F,subbed,Subbed off at 3QT for Magner
+260176,James,Magner,ME,2,24,13,24,16,24,2,3,0,3,0,0,0,0,0, Full Time,news,On after 3QT for Moloney,sub,Started as a sub

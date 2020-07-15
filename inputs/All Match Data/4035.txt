@@ -1,0 +1,48 @@
+Sydney,Swans,North Melbourne,Kangaroos,R4,17.11.113,10.17.77, Full Time
+Apr 22,2012,3:15,SCG,Seven,230132,10340408,430042,0,Rain,26,,
+
+<em>Crabstick</em>: Flower you Swallow you plow... 95 SC is not what I paid for :(<br><em>Mac_Attack</em>: soo close to winning the PNG<br><em>Mac_Attack</em>: i was 1 off in PNG and got them all right<br><em>Hadouken</em>: dammit&#044; twice i got PNG exact<br><em>GoldDigger</em>: swallow amazing final 1/4<br><em>bert1</em>: well done swans <br><em>biggs2dujj</em>: Another eski ton. Will take it<br><em>bert1</em>: harvey going down in score<br><em>afl_freak2</em>: who the hell would play hall ahead of harvey u twit??<br><em>austinmax</em>: luke parker is a jet!<br><em>GoldDigger</em>: a blue moon is the second full moon in the smae month - other answers therefore both wrong<br><em>Adamant</em>: nice job HMac :)<br>
+290788,Luke,Parker,SY,20,104,121,133,81,114,15,14,4,5,0,2,1,0,0, Full Time,star,%2 Swallow... %K among %P with %T and %M,,
+230253,Jarrad,McVeigh,SY,21,100,105,130,74,102,18,6,4,4,0,0,0,1,0, Full Time,hot,%2 Cunnington... %P and %M with %T and %s,,
+261212,Craig,Bird,SY,44,97,90,132,68,97,9,8,4,11,0,0,1,0,1, Full Time,news,%O and %M plus %s,tagger,Tagging Wells
+260382,Josh P.,Kennedy,SY,25,95,99,121,73,105,16,11,2,4,0,0,1,1,0, Full Time,news,%2 Ziebell... %B among %O,,
+240226,Kieren,Jack,SY,15,89,106,115,72,103,15,11,5,3,0,0,2,0,1, Full Time,news,%2 Bastinac... %P and %M plus %s,,
+230132,Nick,Malceski,SY,19,82,96,107,60,84,16,5,1,4,0,2,1,1,0, Full Time,news,%D and %T plus %s,,
+230140,Ben,McGlynn,SY,20,75,76,92,62,78,11,4,2,2,0,2,1,3,3, Full Time,news,%s from %O,,
+261257,Andrejs,Everitt,SY,16,71,78,87,57,72,8,5,2,3,0,1,0,3,0, Full Time,news,%P and %s on Atley,,
+210027,Ted,Richards,SY,14,70,77,94,55,72,9,4,7,4,0,1,1,0,0, Full Time,job,On Petrie... %D and %T,,
+220101,Mark,Seaby,SY,16,70,85,79,63,76,3,8,0,3,34,2,1,0,0, Full Time,news,%H and %D,,
+291450,Alex,Johnson,SY,9,62,72,82,46,63,12,3,4,2,0,0,0,0,0, Full Time,job,Responsible for Edwards... %M and %P with %T,,
+281281,Lewis,Jetta,SY,17,61,77,78,56,75,9,4,4,2,0,0,4,3,0, Full Time,news,%s from %O and %M on Atley,,
+990011,Jude,Bolton,SY,14,61,77,71,52,69,5,11,1,2,0,1,0,2,0, Full Time,news,%P on MacMillan,,
+200071,Ryan,O'Keefe,SY,13,58,64,73,46,63,10,6,1,2,0,2,1,1,0, Full Time,news,%P on Firrito,,
+250212,Jesse,White,SY,7,58,74,76,55,76,7,6,5,3,13,0,5,0,0, Full Time,news,%P and %M with %T and %H on Wright,,
+200023,Rhyce,Shaw,SY,7,50,58,63,38,54,8,7,1,2,0,1,0,0,0, Full Time,x-factor,%D and %T... his job on Harvey was a large factor in the Swan win,tagger,Tagging Harvey
+220063,Martin,Mattner,SY,4,46,51,62,35,48,7,3,3,3,0,1,1,0,0, Full Time,job,Minding Adams... %O,,
+240072,Heath,Grundy,SY,8,46,54,58,42,54,6,6,6,0,0,1,1,0,0, Full Time,job,Standing McIntosh... %P and %M,,
+290117,Daniel,Hannebery,SY,3,35,43,44,27,39,4,6,1,2,0,0,0,0,0, Full Time,news,%D,,
+290188,Samuel,Reid,SY,2,35,30,44,27,35,2,5,1,3,0,2,0,0,2, Full Time,news,%P on Luke Delaney,,
+270170,Tony,Armstrong,SY,8,32,32,38,28,36,4,4,2,0,0,0,0,1,0, Full Time,news,On in Q1 for Rohan... %D,sub,Started as a sub
+291357,Gary,Rohan,SY,6,9,14,11,10,12,1,0,1,0,0,0,1,1,0, Full Time,longterminjured,First goal... %s starting at FF on Thompson... broken ankle/foot in Q1,subbed,Subbed off in Q1 for Armstrong
+261909,Lindsay,Thomas,NM,25,101,72,74,81,102,14,4,7,4,0,2,1,2,3, Full Time,hot,Kicked %s from %D and %M... also %T,,
+260545,Liam,Anthony,NM,20,97,98,62,76,108,15,15,2,4,0,3,1,0,0, Full Time,news,%O including %B,,
+281395,Scott D.,Thompson,NM,20,97,112,88,78,102,9,12,8,5,0,2,0,0,0, Full Time,job,At FB on Rohan... %M and %O,,
+240417,Andrew,Swallow,NM,25,93,95,81,74,103,9,16,3,6,0,3,1,0,1, Full Time,news,%2 Parker... %D and %T,,
+280921,Ben,Cunnington,NM,25,87,91,75,66,94,9,12,1,7,0,1,1,1,1, Full Time,news,%2 McVeigh... %P and %T plus %s,,
+280944,Jack,Ziebell,NM,15,87,93,55,68,94,15,7,5,4,0,2,2,0,1, Full Time,news,%2 Kennedy... %D and %T plus %s,,
+230141,Hamish,McIntosh,NM,16,83,81,64,70,86,9,5,2,3,29,2,1,0,0, Full Time,news,%P and %G on Grundy... also %H and %T,,
+210023,Drew,Petrie,NM,20,81,79,69,69,86,8,7,8,2,3,0,0,1,2, Full Time,news,%s from %P and %G on Richards,,
+230232,Daniel,Wells,NM,14,77,78,42,59,78,14,5,3,2,0,2,0,1,0, Full Time,tagged,Tagged by Bird... %O and %s,,
+250285,Leigh,Adams,NM,20,77,71,61,58,81,11,5,5,6,0,1,2,0,0, Full Time,news,%O and %T,,
+290194,Jamie,MacMillan,NM,15,77,76,49,64,85,11,9,3,1,0,0,0,2,1, Full Time,news,%s from %D,,
+280863,Ryan,Bastinac,NM,8,63,63,38,48,70,11,7,2,3,0,0,1,0,1, Full Time,news,%2 Jack... %P and %M,,
+290787,Shaun,Atley,NM,9,63,73,52,55,78,6,15,3,2,0,1,1,0,0, Full Time,job,Standing Everitt... %P,,
+230272,Michael,Firrito,NM,7,60,73,29,48,69,12,7,3,1,0,0,1,0,0, Full Time,job,Has O'Keefe... %D and %M,,
+250135,Scott,McMahon,NM,8,60,88,33,47,63,11,5,4,1,0,1,0,0,0, Full Time,job,Following Bolton... %P,,
+960491,Brent,Harvey,NM,8,52,41,25,40,54,10,4,1,1,0,1,0,1,0, Full Time,tagged,Tagged by Shaw... %O and %s,,
+280864,Sam,Wright,NM,8,47,66,38,40,58,5,10,2,2,0,0,1,0,1, Full Time,job,Huge job on White... %D and %T,,
+240189,Matt,Campbell,NM,8,34,29,22,29,37,5,1,1,1,0,0,1,2,1, Full Time,news,Just one touch in Q1,,
+271129,Todd,Goldstein,NM,7,33,40,27,33,40,2,5,0,0,18,1,1,0,1, Full Time,news,%H and %D,subbed,Subbed off in Q3 for Harper
+270303,Luke,Delaney,NM,3,32,42,20,31,45,5,7,3,0,0,0,2,0,0, Full Time,job,Has Reid... %P,,
+290547,Kieran,Harper,NM,2,27,12,20,19,27,4,2,1,2,0,0,0,0,0, Full Time,news,On in Q3 for Goldstein,sub,Started as a sub
+230240,Aaron,Edwards,NM,2,25,26,20,22,31,3,4,2,1,0,0,1,0,1, Full Time,news,Kicked %s from %D on Johnson,,

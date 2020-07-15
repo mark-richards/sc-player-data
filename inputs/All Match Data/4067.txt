@@ -1,0 +1,48 @@
+Sydney,Swans,Melbourne,Demons,R8,21.12.138,5.7.37, Full Time
+May 19,2012,4:40,SCG,Fox Sports,291206,10340804,430074,0,Sunny,21,,
+
+<em>hoddo</em>: Goddard was a #1 draft pick who was so bad in his first few years he copped a lot of criticism .. sound familiar?<br><em>hoddo</em>: Seems there are people here who forget how ridiculed Goddard was as #1 draft pick in his early years<br><em>justi</em>: Of all the players to put a bad icon on m0nty went for the bloke that got it 34 times in a team that lost by 101<br><em>grubby</em>: swans on top of the ladder<br><em>miccyg</em>: some work to do in melbourne<br><em>grubby</em>: terrible seagull call<br><em>Mithrandir</em>: Dangerfield dragged off Hill whilst carrying the ball<br><em>Jormas</em>: jpk sc!<br><em>MayhemFC2</em>: <br><em>mpollock</em>: Watts 149 SC!!<br><em>Mochasons</em>: LOL how dare anyone compare Goddard to Watts... BWHWAWHAHAHAHHAAHA RIDICULOUS!<br><em>miccyg</em>: hah cale morton<br>
+290117,Daniel,Hannebery,SY,37,138,120,179,106,148,16,17,7,9,0,1,1,0,1, Full Time,hot,%P and %M with %T,,
+240226,Kieren,Jack,SY,33,128,152,161,105,145,19,14,4,5,0,1,3,3,1, Full Time,star,First goal... ran riot in Q1... head to head with Morton... %P and %T plus %s,,
+200071,Ryan,O'Keefe,SY,27,116,136,143,95,132,15,19,4,4,0,2,1,1,0, Full Time,hot,%2 Moloney... %B among %D with %M and %T... also %s,,
+220089,Lewis,Roberts-Thomson,SY,27,103,95,134,82,108,11,9,8,6,6,1,1,0,0, Full Time,bluemoon,%P and %T with %M up forward on Rivers... also %H,,
+220063,Martin,Mattner,SY,26,100,103,130,78,102,14,6,8,4,0,0,0,1,0, Full Time,hot,%D and %M with %T and %s,,
+281281,Lewis,Jetta,SY,22,99,102,126,79,102,18,3,5,2,0,1,1,3,0, Full Time,news,%s from %P on Garland... also %M and %T,,
+260382,Josh P.,Kennedy,SY,30,96,132,119,74,99,8,11,1,7,0,1,0,3,0, Full Time,tagged,Tagged by McKenzie then got Magner in Q2... %O and %T,,
+290788,Luke,Parker,SY,25,96,100,121,80,102,12,6,7,3,0,0,1,3,0, Full Time,news,%D and %M with %T and %s,,
+230140,Ben,McGlynn,SY,21,87,84,112,74,96,11,6,8,3,0,0,2,2,0, Full Time,news,%P and %M with %T and %s,,
+292509,Tommy,Walsh,SY,21,85,84,108,70,85,9,5,6,4,0,4,1,2,1, Full Time,irish,%s from %P and %M on Grimes,rookie,First game
+230132,Nick,Malceski,SY,8,79,80,104,57,77,16,3,3,3,0,2,0,0,2, Full Time,job,Forward tag on him by Magner in Q1 then got Green... %O and %T,,
+990011,Jude,Bolton,SY,14,75,66,95,57,82,10,11,2,4,0,0,0,0,1, Full Time,news,%s from %O and %T up forward with Watts giving him plenty of latitude,,
+230253,Jarrad,McVeigh,SY,13,72,78,92,53,75,11,9,1,4,0,2,0,0,0, Full Time,tagged,Tagged by Blease... %D and %T,,
+291206,Mike,Pyke,SY,15,72,95,85,61,76,3,9,0,5,24,3,1,0,1, Full Time,canada,%H and %D... also %M,,
+270570,Trent,Dennis-Lane,SY,16,71,60,92,55,66,8,1,5,4,0,2,0,2,0, Full Time,burma,%D and %M on Bartram,,
+200023,Rhyce,Shaw,SY,9,69,60,90,54,76,15,5,4,1,0,0,1,0,1, Full Time,flash,On Davey... %D and %M,,
+290188,Samuel,Reid,SY,11,67,81,83,56,73,5,9,5,3,0,0,0,1,1, Full Time,news,%D and %T on McDonald,,
+240072,Heath,Grundy,SY,9,59,30,79,48,63,9,3,7,2,0,0,1,0,0, Full Time,job,Standing Clark... %O and %M,,
+210027,Ted,Richards,SY,10,56,76,72,46,63,4,9,4,4,0,1,1,0,0, Full Time,cougar,Has Jurrah... %P and %M with %T,,
+291450,Alex,Johnson,SY,5,52,47,69,40,52,8,2,5,2,0,0,0,0,1, Full Time,job,Has Howe... %O and %T with %M,subbed,Subbed off in Q4 for Bird
+250338,Nick,Smith,SY,3,38,47,49,32,45,6,5,3,1,0,0,1,0,0, Full Time,job,Minding Sylvia... %D and %M,,
+261212,Craig,Bird,SY,2,19,16,24,14,21,1,4,0,2,0,0,0,0,0, Full Time,news,On in Q4 for Johnson,sub,Started as a sub
+280972,Jack,Watts,ME,25,121,150,80,103,138,18,16,11,1,0,1,1,0,0, Full Time,seagull,Playing across halfback on Bolton with not much accountability... %P and %M,,
+270830,Colin,Garland,ME,25,105,110,80,80,105,15,5,10,5,0,0,0,0,0, Full Time,hot,%D and %T with %M,job,Matched up on Jetta
+250222,Nathan,Jones,ME,21,96,91,71,76,100,12,10,3,4,0,2,0,2,1, Full Time,news,%D and %T plus %M and %s,,
+261297,Jack,Grimes,ME,14,95,91,55,76,99,17,6,9,1,0,1,0,0,0, Full Time,news,%D and %M,job,Responsible for Walsh
+280746,Sam,Blease,ME,13,86,104,37,68,99,18,11,3,1,0,0,1,0,0, Full Time,news,%P and %M,tagger,Tagging McVeigh
+230250,Jared,Rivers,ME,18,80,91,59,69,90,11,8,10,1,0,0,1,0,0, Full Time,news,%M and %P,job,On Roberts-Thomson
+240393,Mitchell,Clark,ME,15,80,91,53,69,90,13,3,6,3,14,2,4,0,1, Full Time,news,Booted %s from %G and %P on Grundy... also %H,,
+250245,Clint,Bartram,ME,14,75,49,57,61,78,10,6,8,2,0,1,0,0,0, Full Time,job,Minding Dennis-Lane... %O and %M,,
+260176,James,Magner,ME,16,74,58,71,55,76,7,7,4,7,0,1,1,0,1, Full Time,sore,%O and %M with %T... right knee knock in Q4,tagger,Forward tag role on Malceski in Q1 then shifted to Kennedy in midfield
+220052,Mark,Jamar,ME,32,72,72,63,70,76,4,3,3,0,46,2,1,0,0, Full Time,news,%H and %D with %M,,
+260288,James,Frawley,ME,13,72,85,36,63,90,15,7,7,1,0,0,4,0,0, Full Time,job,Started on Parker... %P and %M... also %F,,
+240037,Colin,Sylvia,ME,14,67,51,41,56,75,11,6,5,1,0,0,1,1,0, Full Time,news,Smith on him... %D and %M,,
+230151,Brent,Moloney,ME,8,59,58,46,50,72,7,12,2,3,0,2,2,0,0, Full Time,news,%2 O'Keefe... %P and %T,,
+280608,Jack,Trengove,ME,8,56,38,49,42,61,6,8,1,5,1,1,1,0,0, Full Time,news,%O and %T,,
+291533,Tom,McDonald,ME,5,56,44,50,47,63,5,9,5,2,0,0,0,0,0, Full Time,job,Standing Reid... %P and %T with %M,,
+200054,Brad,Green,ME,14,53,51,46,41,54,6,3,3,4,0,1,1,1,0, Full Time,news,Not a great set of numbers to push for a permanent spot back in this team... %D and %T mostly on Malceski,,
+270906,Jordie,McKenzie,ME,9,51,44,43,39,57,6,7,2,4,0,0,1,0,0, Full Time,news,Tagging Kennedy in Q1 then released... %O and %T,,
+291313,Jeremy,Howe,ME,4,51,50,40,43,54,6,5,5,1,1,1,0,0,2, Full Time,news,Kicked %s from %P and %G on Johnson,,
+260952,Liam,Jurrah,ME,3,43,43,33,36,48,5,7,3,1,0,1,0,0,0, Full Time,sore,%D and %M on Richards... dislocated finger on his left hand in Q4... left ankle knock later in Q4,,
+270985,Cale,Morton,ME,3,34,37,21,31,45,5,8,2,0,0,0,1,0,0, Full Time,spud,%2 Jack and well beaten... %P and %M,subbed,Subbed off at 3QT for Bennell
+200002,Aaron,Davey,ME,7,33,37,33,22,31,3,2,1,4,0,0,0,0,1, Full Time,news,%s from %P on Shaw,,
+290943,Jamie,Bennell,ME,8,26,17,21,25,30,3,1,4,0,0,0,1,1,0, Full Time,news,On after 3QT for Morton,sub,Started as a sub

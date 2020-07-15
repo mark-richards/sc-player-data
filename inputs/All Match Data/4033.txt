@@ -1,0 +1,48 @@
+Brisbane,Lions,Gold Coast,Suns,R4,17.9.111,6.10.46, Full Time
+Apr 21,2012,7:40,Gabba,Fox Sports,290832,10340406,430040,0,Fine,28,,
+
+<em>Sxxyman23</em>: Hello<br><em>Zombify</em>: $$$ for hall?<br><em>Slashers</em>: Well take the frinking cross off for a bandaid. SILLY<br><em>Thorpy</em>: what is considered the benchmark dt score this week?<br><em>TheLegend6</em>: nearly ton for khunt<br><em>barlow=god</em>: club doctors saying no structural damage for ablett they reckon&#044; just be sore for the next few days<br><em>mardals16</em>: go khunt<br><em>Catas</em>: Ablett reported as right for next week<br><em>Pokerface</em>: rocky would be so proud winning the 'marcus ashcroft' medal<br><em title="GAZZ MVP">gazz mvp</em>: They said nothing about it after the game so I must be fine<br><em>piesvendet</em>: carn hunt<br><em>JuddMurphy</em>: How does Brennan get 97 SC when he was smashed all night by Cornelius? SC is a joke...<br>
+270919,Tom,Rockliff,BL,39,143,163,179,113,156,18,19,4,7,0,2,1,2,0, Full Time,medal,%D and %T plus %M and %s,,
+980007,Simon,Black,BL,31,121,105,155,94,129,15,15,7,6,0,1,0,0,0, Full Time,hot,%O and %M,,
+271072,Daniel,Rich,BL,38,113,99,146,84,114,15,7,2,8,0,1,1,3,0, Full Time,hot,%2 Rischitelli... %O and %T,,
+210013,Ashley,McGrath,BL,20,109,112,140,87,117,18,10,9,2,0,0,0,0,0, Full Time,hot,%B among %O with %M and %T,job,Chasing Bennell
+261391,Aaron,Cornelius,BL,28,107,85,135,89,105,12,1,10,3,0,0,0,4,3, Full Time,hot,%s from %P and %M with %T on Brennan,,
+200121,Josh,Drummond,BL,19,105,80,139,78,102,17,5,7,5,0,3,0,0,0, Full Time,hot,%P and %M,,
+270512,Pearce,Hanley,BL,25,102,114,135,72,102,18,7,3,6,0,1,0,0,0, Full Time,hot,%K among %P with %M and %T,,
+290110,Mitchell,Golby,BL,20,100,100,127,78,108,12,14,5,5,0,1,0,0,0, Full Time,job,Minding Hall... %D and %T plus %M,,
+271071,Todd,Banfield,BL,15,85,87,107,66,87,13,8,3,3,0,3,0,1,0, Full Time,sore,Copped a head knock early in Q1... %s from %P on Harbrow,,
+200007,Jonathan,Brown,BL,24,84,80,101,74,90,8,8,7,1,0,1,0,3,0, Full Time,heart,%s from %G and %O on Warnock including his 500th goal,,
+240087,Jed,Adcock,BL,20,82,77,103,65,87,9,10,4,4,0,1,0,1,0, Full Time,news,%O and %s,,
+290738,Jared,Polec,BL,16,82,91,104,64,87,12,8,4,3,0,0,0,1,0, Full Time,news,%s from %P and %M,,
+281373,Jack,Redden,BL,15,74,74,86,71,100,3,23,5,2,1,1,2,0,0, Full Time,news,%O and %M,,
+230147,Daniel,Merrett,BL,12,67,75,84,56,71,9,4,4,2,8,1,1,1,0, Full Time,news,%P on Bock... also %H,,
+293871,Jack,Crisp,BL,12,67,51,86,49,69,10,7,1,4,0,1,0,0,3, Full Time,rookie,First game... %s from %D,,
+240013,Andrew,Raines,BL,20,66,57,87,48,69,8,6,1,6,0,0,1,1,0, Full Time,news,%D,tagger,Tagging Ablett jnr
+240710,Ben,Hudson,BL,15,66,102,73,64,81,4,10,1,1,33,0,2,0,0, Full Time,news,%H and %D... also %F,,
+220062,Matt,Maguire,BL,9,61,59,79,47,63,10,5,4,2,0,1,0,0,0, Full Time,job,Standing Fraser... %O,,
+230170,Joel,Patfull,BL,5,52,69,68,45,63,5,8,5,3,0,0,2,0,0, Full Time,job,Has Day... %D,,
+291548,Ryan,Lester,BL,7,43,58,52,41,60,6,11,3,0,0,0,2,0,0, Full Time,news,%P,,
+261250,Sam,Sheldon,BL,3,34,53,42,30,48,4,10,0,2,0,0,2,0,0, Full Time,in,Late replacement for James Polkinghorne... %D on Tape,subbed,Subbed out in Q4 for Harwood
+281048,Ryan,Harwood,BL,2,31,20,41,24,36,3,5,1,3,0,0,1,0,0, Full Time,news,On in Q4,sub,Started as a sub
+220001,Gary,Ablett jnr,GC,19,97,129,54,74,111,17,16,0,4,0,1,1,0,0, Full Time,injured,Tagged by Raines... %P and %T... right knee injury in Q4... hyperextended as a Lion fell across the knee... limped off so hopefully not too bad,,
+280722,Zac,Smith,GC,20,76,82,63,71,85,5,11,2,0,24,2,0,1,1, Full Time,news,%H and %P plus %s,,
+290832,David,Swallow,GC,19,75,72,43,63,90,12,13,2,1,0,0,1,1,0, Full Time,news,First goal... %D and %s,sore,Spent much of Q2 off with a knock but returned
+296735,Aaron,Hall,GC,14,75,52,61,55,73,10,3,6,5,0,0,0,0,1, Full Time,news,%P and %T on Golby,,
+220009,Nathan,Bock,GC,12,72,59,39,58,78,14,4,7,1,0,0,1,0,0, Full Time,news,%P and %M,job,At FB on Merrett
+230015,Jared,Brennan,GC,9,72,97,53,56,75,10,7,5,3,0,1,0,0,0, Full Time,job,At CHB on Cornelius... %D,,
+291594,Harley,Bennell,GC,19,71,90,46,59,79,10,7,1,2,1,0,1,3,0, Full Time,news,%s from %O on McGrath,,
+292512,Karmichael,Hunt,GC,19,70,91,68,57,85,5,16,1,6,0,1,2,0,1, Full Time,tonga,%P,,
+240712,Michael,Rischitelli,GC,14,69,82,55,55,78,8,12,2,4,0,2,1,0,0, Full Time,news,%2 Rich... %O,,
+290527,Trent,McKenzie,GC,10,68,53,36,51,65,13,1,3,2,0,2,0,1,2, Full Time,news,%D and %s,,
+290623,Josh,Caddy,GC,10,67,53,46,57,81,10,10,5,2,0,0,2,0,0, Full Time,news,%P,,
+290790,Matthew,Shaw,GC,8,62,81,43,49,72,9,10,2,3,0,0,1,0,0, Full Time,news,%D with %k by foot,,
+290627,Dion,Prestia,GC,7,52,67,28,45,63,9,9,3,0,0,1,1,0,0, Full Time,news,%B among %P,,
+200020,Josh,Fraser,GC,4,50,67,35,46,62,6,8,1,1,14,1,2,0,0, Full Time,news,%P... also %H,,
+281025,Luke,Russell,GC,3,44,27,21,35,51,9,5,2,1,0,0,1,0,0, Full Time,news,On in Q2 for Harbrow,sub,Started as a sub
+290817,Brandon,Matera,GC,3,44,46,25,32,46,8,4,1,2,0,0,0,0,1, Full Time,news,%s from %P and %T,,
+293813,Thomas,Lynch,GC,3,43,63,25,38,51,7,7,3,0,0,2,1,0,0, Full Time,news,%O and %M,,
+220013,Campbell,Brown,GC,2,37,32,35,28,40,3,6,1,3,0,0,0,0,1, Full Time,news,%O,,
+291753,Sam,Day,GC,3,37,33,32,29,36,4,3,3,2,0,2,0,0,0, Full Time,news,%D on Patfull,,
+250716,Matthew,Warnock,GC,3,31,55,21,29,42,4,8,2,0,0,0,1,0,0, Full Time,job,Sitting on Brown,,
+240254,Jarrod,Harbrow,GC,2,26,43,21,23,33,3,5,2,1,0,0,1,0,0, Full Time,injured,Has Banfield... %D and %M... right elbow knock in Q2,subbed,Subbed off in Q2 for Russell
+293223,Seb,Tape,GC,2,20,25,19,21,30,1,7,2,0,0,0,1,0,0, Full Time,job,Minding Sheldon... %D,,

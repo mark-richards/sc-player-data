@@ -1,0 +1,48 @@
+Geelong,Cats,Richmond,Tigers,R4,11.9.75,9.11.65, Full Time
+Apr 22,2012,1:10,Kardinia,Fox Sports,291437,10340407,430041,0,Windy with showers,24,,
+
+<em>scrappers</em>: only got martin in dream team so happy with that<br><em>benny21</em>: Martin you're a over-rated joke!<br><em>ImSoHood</em>: chappy was 41 at around 20 minute mark of Q3 - just wanna lick his bald head for that effort<br><em>Sydney14</em>: Martin died in the alps at 3qtr time<br><em>Leon88</em>: geelong are cooked!! wont make top 4<br><em>Pendles_10</em>: had 3 players that scored 81 lol<br><em>Dali</em>: really happy with ellis and morris<br><em>ImSoHood</em>: Selwood scored 58 in a qtr + about 2 or 3 mins. what a star<br><em>bert1</em>: another 80 from martin grr<br><em>bert1</em>: chunck norris 81 ellis 81 <br><em>bert1</em>: richmond played well but well done geelong dont write off teams this early<br><em>The Bomber</em>: enright is the x factor..he saved atleast 2 goals in the last quarter<br>
+250321,Joel,Selwood,GE,56,130,144,168,99,134,13,14,5,10,2,3,1,1,0, Full Time,star,%2 Tuck... %O and %T plus %M and %s,,
+261497,Harry,Taylor,GE,25,115,105,146,92,124,15,14,8,4,1,1,0,0,0, Full Time,hot,%D and %M plus %T,job,Has Vickery
+280918,Allen,Christensen,GE,33,110,123,142,82,112,12,11,4,8,0,1,0,1,1, Full Time,hot,%2 Deledio... %P and %T... also %M,,
+220007,Jimmy,Bartel,GE,31,108,97,140,82,109,10,12,6,8,1,3,0,0,0, Full Time,hot,%P and %T with %M,,
+200039,Paul,Chapman,GE,27,100,103,133,74,99,16,2,5,6,0,0,1,2,0, Full Time,x-factor,%s from %D and %M on Houli... his hard work late set up the win for Geelong after a slow start,,
+200035,Corey,Enright,GE,24,92,120,120,74,105,14,11,6,4,0,0,2,0,0, Full Time,tagged,Forward tag on him by Jackson... %O and %T plus %M,,
+220054,Steve,Johnson,GE,19,92,69,124,73,100,15,6,7,5,0,2,3,0,1, Full Time,news,%P and %M with %T on Morris... also %F,,
+210059,Josh,Hunt,GE,21,87,70,116,69,88,12,2,9,4,0,0,1,1,1, Full Time,news,%P and %T with %M plus %s,,
+260261,Trent,West,GE,18,83,66,98,72,86,7,5,4,2,31,0,0,0,1, Full Time,news,%H and %D with %M and %s,,
+280822,Taylor,Hunt,GE,20,83,67,109,61,84,8,9,4,7,0,1,0,0,0, Full Time,news,%D and %T,tagger,Tagging Cotchin
+261510,Tom,Hawkins,GE,15,80,67,102,65,82,9,5,7,3,2,0,0,1,2, Full Time,news,Booted %s from %P and %G on Grimes,,
+230214,Mathew,Stokes,GE,20,74,86,92,58,78,8,8,2,4,0,0,0,2,0, Full Time,news,First goal... %s from %O on Newman... also %T and %M,,
+280990,Steven,Motlop,GE,15,73,77,93,58,81,13,7,3,2,0,0,1,1,0, Full Time,news,%O and %T with %M,,
+290550,Cameron,Guthrie,GE,13,72,71,91,56,78,6,12,3,5,0,1,0,0,0, Full Time,job,Has Nahas... %P and %T with %M,,
+230125,Tom,Lonergan,GE,14,70,84,92,55,72,7,6,7,4,0,0,0,0,0, Full Time,job,On Riewoldt... %O and %M plus %T,,
+230248,Andrew,Mackie,GE,8,68,60,90,53,72,15,4,3,2,0,4,2,0,0, Full Time,news,Loose in defence... %D and %M... also %F,,
+200034,Joel,Corey,GE,12,58,72,75,43,65,9,8,0,4,2,0,1,0,0, Full Time,news,%2 Foley... %P and %T,,
+280125,Tom,Gillies,GE,4,49,53,64,43,60,8,6,5,1,0,0,2,0,0, Full Time,job,Standing Miller... %O and %M,,
+200131,James,Podsiadly,GE,13,47,63,62,35,49,6,3,1,4,1,0,1,1,0, Full Time,news,Rance on him... didn't touch it in Q1... %s from %D,,
+281065,Mitch,Duncan,GE,9,43,42,54,36,46,3,5,2,3,0,2,1,1,1, Full Time,news,%D and %T... also %s,job,Minding Addam Maric
+293255,George,Horlin-Smith,GE,4,40,14,51,35,48,5,6,4,1,0,0,1,0,0, Full Time,news,Playing a HFF on Batchelor... %P and %M,subbed,Subbed off in Q4 for Stringer
+291309,Jesse,Stringer,GE,3,37,39,48,28,35,3,3,2,3,0,2,0,0,2, Full Time,news,On in Q4 for Horlin-Smith... %s from %D and %T,sub,Started as a sub
+200109,Shane,Tuck,RI,32,113,88,103,86,123,11,16,5,9,0,0,1,0,0, Full Time,hot,%2 Selwood... %O and %T,mrp,A swinging high arm on Chapman in Q2 will be looked at
+270896,Trent,Cotchin,RI,26,105,103,84,75,108,14,10,3,9,0,1,1,0,0, Full Time,hot,Tagged by Taylor Hunt... %O and %T,,
+240336,Brett,Deledio,RI,16,103,102,54,80,112,19,12,4,2,0,1,0,0,1, Full Time,hot,%2 Christensen... %O and %M plus %s,,
+250298,Shaun,Grigg,RI,21,100,98,70,83,112,13,15,5,2,1,1,0,1,0, Full Time,hot,%P and %T,,
+290847,Dustin,Martin,RI,21,96,79,85,76,107,10,13,5,7,0,1,2,0,2, Full Time,news,%O and %T,,
+210048,Chris,Newman,RI,14,90,98,59,72,97,14,9,7,2,0,0,0,0,1, Full Time,news,%D and %T with %M,job,Stokes is his job
+240130,Nathan,Foley,RI,21,85,101,75,73,105,8,16,4,5,0,0,3,1,0, Full Time,news,%2 Corey... %D with %b by hand,,
+240546,Ivan,Maric,RI,30,85,104,73,80,95,5,10,1,1,38,2,1,1,0, Full Time,news,%H and %P plus %s,,
+290823,Reece,Conca,RI,15,85,61,67,68,95,11,10,5,5,1,1,2,0,1, Full Time,news,A rather lucrative wing role... %D and %T plus %M and %s,,
+291437,Jake,Batchelor,RI,14,81,72,63,69,96,10,13,6,3,0,1,2,0,0, Full Time,news,%P and %M with %T,job,Playing a HBF on Horlin-Smith
+293713,Brandon,Ellis,RI,13,79,83,59,58,82,11,8,3,5,0,0,0,0,1, Full Time,news,%D and %M with %T,,
+250312,Bachar,Houli,RI,9,70,79,47,60,84,10,12,5,1,0,0,1,0,0, Full Time,job,Sitting on Chapman... %B among %D,,
+250623,Robin,Nahas,RI,15,67,64,40,54,72,11,5,2,2,0,1,1,2,0, Full Time,lebanon,Guthrie on him... %D and %T,,
+261362,Alex,Rance,RI,8,63,86,36,52,72,11,8,4,1,0,1,1,0,0, Full Time,ipod,Standing Podsiadly... %O,,
+260433,Steven,Morris,RI,12,60,80,65,48,69,2,15,1,5,0,1,0,0,0, Full Time,job,Minding Johnson... %D and %T,,
+240707,Daniel,Jackson,RI,14,57,59,48,47,65,6,8,1,4,1,2,2,1,1, Full Time,tagger,Manning up Enright in the forward line... %O and %T,,
+280819,Dylan,Grimes,RI,8,57,77,44,48,63,7,7,6,1,0,0,0,0,0, Full Time,tomahawk,Has Hawkins... %P and %M,,
+250395,Jack,Riewoldt,RI,10,46,48,41,40,54,4,7,3,2,0,0,1,1,0, Full Time,news,Kicked %s from %P and %G on Lonergan,,
+270941,Tyrone,Vickery,RI,10,46,54,45,39,50,3,5,2,3,5,1,1,1,0, Full Time,sore,Booted %s from %P and %M on Taylor... also %H and %T... right shoulder knock in Q3,,
+220071,Brad,Miller,RI,2,36,36,32,31,38,3,5,3,1,1,2,0,0,1, Full Time,news,%P and %M on Gillies,,
+270833,Addam,Maric,RI,2,24,17,22,18,27,2,5,0,2,0,0,0,0,0, Full Time,news,%P and %T on Duncan,subbed,Subbed off in Q3 for White
+240389,Matt,White,RI,6,16,20,12,14,18,2,1,0,1,0,1,1,1,0, Full Time,news,On in Q3 for Addam Maric,sub,Started as a sub

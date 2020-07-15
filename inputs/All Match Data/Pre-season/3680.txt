@@ -1,0 +1,56 @@
+Richmond,Tigers,Collingwood,Magpies,W1,0.1.1.7,0.7.8.50, Half Time
+Feb 12,2011,8:20,Docklands,Ten,,10300105,1111112046123,5260,Dome,17
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>Coglistro</em>: no sc scores :(<br><em>ando671</em>: Sc scores<br><em>da cooler</em>: peoples should i get pendles or swan for sc<br><em>S_Coach99</em>: think I might jump on the krak<br><em>Nigey95</em>: Big Derickx FTW<br><em>tferrier18</em>: Benny Johnson! What a star<br><em>DamenS</em>: Conca damn it !!<br><em>DamenS</em>: Sat down awkwardly - my left Coca hurts ...<br><em>R.Griffen</em>: number 39<br><em>NoButYeah</em>: What number is Derickx?<br><em>DamenS</em>: Someone smother this Cracker in something ... i'm hungry.<br><em>Linkster</em>: derickx on 92 k might be bench option in the future<br>
+261362,Alex,Rance,RI,5,53,-,69,41,54,8,4,4,2,0,1,0,0,0, Half Time,hot,Has Dawes.... %D and %T with %M
+294797,Tom,Derickx,RI,9,51,-,63,42,52,1,7,3,4,7,2,0,0,0, Half Time,hot,%H and %P with %T and %M
+240412,Mitch,Morton,RI,8,44,-,59,31,42,3,4,2,5,0,1,0,0,0, Half Time,news,%P and %T with %M
+240389,Matt,White,RI,3,41,-,55,31,42,10,1,2,1,0,2,1,0,0, Half Time,job,Playing halfback on resting midfielders... %P
+291437,Jake,Batchelor,RI,3,41,-,53,32,42,7,3,3,1,0,1,0,0,0, Half Time,news,%B among %P with %M
+260930,Shane,Edwards,RI,2,31,-,39,24,33,3,5,1,2,0,1,0,0,0, Half Time,crab,%P and %T but his usage is questionable
+280819,Dylan,Grimes,RI,2,29,-,38,23,30,4,2,3,1,0,0,0,0,0, Half Time,news,%O and %M
+280922,Ben,Jakobi,RI,2,27,-,34,20,30,1,6,0,3,0,0,0,0,0, Half Time,news,%O and %T
+290823,Reece,Conca,RI,2,26,-,37,20,27,4,0,3,2,0,0,1,0,0, Half Time,news,%D and %M with %T
+250623,Robin,Nahas,RI,3,24,-,30,20,27,0,5,2,2,0,0,0,0,0, Half Time,lebanon,%B among %P
+250662,Will,Thursfield,RI,1,20,-,26,16,21,2,2,2,1,0,0,0,0,0, Half Time,job,Standing Reed... %M and %O
+261910,Ben,Nason,RI,1,18,-,24,14,18,4,0,2,0,0,0,0,0,0, Half Time,news,%O and %M
+290198,David,Astbury,RI,1,17,-,21,18,27,3,5,1,0,0,1,2,0,0, Half Time,job,Standing Brown... %P
+292027,Pat,Contin,RI,1,17,-,22,13,18,4,1,1,0,0,0,0,0,0, Half Time,news,%P
+293798,Dean,MacDonald,RI,1,15,-,20,10,13,1,1,0,2,0,1,0,0,1, Half Time,news,%P and %T plus %s
+260105,Daniel,Connors,RI,2,14,-,20,14,21,4,1,2,0,0,0,2,0,0, Half Time,news,Racking it up in defence... %O and %M
+292510,James,O'Reilly,RI,1,14,-,17,13,21,1,5,0,1,0,0,1,0,0, Half Time,news,%P including %b by hand
+280986,Troy,Taylor,RI,1,12,-,16,10,12,2,0,2,0,0,0,0,0,0, Half Time,news,%P and %M
+220071,Brad,Miller,RI,6,10,-,11,9,9,1,0,0,0,0,1,0,1,0, Half Time,news,Kicked %s on Reid
+270941,Tyrone,Vickery,RI,0,9,-,12,6,9,1,1,0,1,0,0,0,0,0, Half Time,news,Derickx given much more TOG in this game... %O
+271139,Mitchell,Keddell,RI,0,7,-,9,7,12,2,2,0,0,0,0,1,0,0, Half Time,news,Started as a sub... on in Q2
+292025,Matthew,Dea,RI,0,7,-,9,7,12,0,3,0,1,0,0,1,0,0, Half Time,news,Played in defence... %P
+292032,Nick,Westhoff,RI,0,7,-,9,6,7,1,0,1,0,1,0,0,0,0, Half Time,news,Just the %p touch
+271437,Jake,King,RI,0,6,-,7,5,6,1,1,0,0,0,1,0,0,0, Half Time,news,%D
+292500,Jeromey,Webberley,RI,0,6,-,9,6,9,2,0,1,0,0,0,1,0,0, Half Time,news,Queit... %P
+293315,Bradley,Helbig,RI,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and didn't appear
+294915,Jye,Bolton,CO,14,45,-,43,33,40,4,1,2,4,0,2,0,1,1, Half Time,garbage,%P and %M with %T and %s... most of his scoring very late
+260394,Chris,Dawes,CO,13,44,-,34,38,45,4,4,0,1,0,2,0,3,0, Half Time,hot,%s from %D on Rance
+240359,Dale,Thomas,CO,7,41,-,40,31,45,4,5,1,5,0,2,2,0,0, Half Time,news,%P including %k by foot... also %T
+271001,Dayne,Beams,CO,9,41,-,31,37,48,4,8,2,0,0,1,0,1,0, Half Time,news,Very good in Q2... %P and %M plus %s
+280104,Jarryd,Blair,CO,2,36,-,22,26,34,6,3,0,2,0,3,0,0,1, Half Time,magnet,Playing midfield and racking up inside 50s... %O including %4 with %T
+200028,Leigh,Brown,CO,8,33,-,23,28,38,5,2,1,2,2,1,2,1,0, Half Time,news,%s from %P and %T starting forward on Astbury
+240419,Alan,Toovey,CO,2,31,-,23,25,34,4,4,2,1,0,0,0,0,1, Half Time,job,Has Morton... %P and %M plus %s
+250683,Simon,Buckley,CO,2,31,-,23,25,34,4,4,2,1,0,0,0,0,1, Half Time,news,%O and %M
+260257,Scott,Pendlebury,CO,2,30,-,27,21,30,3,4,0,3,0,1,0,0,0, Half Time,news,%D and %T
+291386,Ben,Sinclair,CO,2,27,-,23,20,28,3,3,1,2,0,0,0,0,1, Half Time,news,%P and %T
+240700,Heath,Shaw,CO,1,26,-,16,20,27,4,4,0,1,0,2,0,0,0, Half Time,job,Chasing Nason... %P
+210058,Andrew,Krakouer,CO,2,25,-,20,22,30,3,4,2,1,0,1,1,0,0, Half Time,news,Quiet early but starred when shifted into the middle... %P and %M
+271091,Scott,Reed,CO,1,25,-,24,19,23,2,2,1,2,0,2,0,0,2, Half Time,news,Booted %s from %P up forward
+290821,Alex,Fasolo,CO,6,24,-,18,19,24,3,1,1,1,0,0,0,1,0, Half Time,news,%s from %P in a small forward role
+261799,Sharrod,Wellingham,CO,1,21,-,9,17,24,4,4,0,0,0,1,0,0,0, Half Time,news,%P
+240073,Heritier,O'Brien,CO,1,19,-,14,12,18,3,1,0,2,0,0,0,0,0, Half Time,brazil,%O and %T
+280965,Steele,Sidebottom,CO,1,19,-,10,17,27,4,3,1,1,0,0,2,0,0, Half Time,news,%O and %F
+290933,Jack,Perham,CO,2,18,-,14,16,21,2,3,2,0,0,0,0,0,0, Half Time,news,%P and %M
+240300,Cameron,Wood,CO,2,17,-,19,15,16,0,0,0,1,13,0,0,0,0, Half Time,news,Set up multiple goals directly from ruck taps to advantage... %H
+980023,Chris,Tarrant,CO,0,9,-,6,8,12,1,3,0,0,0,0,0,0,0, Half Time,news,Used sparingly... %D
+240232,Ben,Reid,CO,0,8,-,3,8,12,2,1,1,0,0,0,1,0,0, Half Time,job,Standing Miller... %P
+290138,Tom,Hunter,CO,0,8,-,6,7,9,1,1,1,0,0,0,0,0,0, Half Time,news,%D
+290314,Lachlan,Keeffe,CO,0,7,-,6,4,6,1,0,0,1,0,0,0,0,0, Half Time,news,Just the %p touch
+294826,Tom,Young,CO,0,7,-,5,8,12,1,2,1,0,0,0,1,0,0, Half Time,news,%O
+294740,Kirk,Ugle,CO,0,4,-,6,2,3,0,0,0,1,0,0,0,0,0, Half Time,news,Only %t tackle on his stat sheet
+210099,Darren,Jolly,CO,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and didn't appear

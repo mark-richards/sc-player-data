@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,North Melbourne,Kangaroos,R2,8.6.54,12.11.83, Full Time
+Mar 30,2014,4.40,Docklands,Foxtel,200071,10420209,wb-v-nmfc,0,Fine,30,,
+
+<em style='color:#000'>AngryRyno</em>: oy anyone know when I can do my DT trades?<br><em style='color:#000'>rooboypete</em>: Harvey is a legend<br><em style='color:#000'>LuvIt74</em>: North is no way near being a top 6 side<br><em style='color:#000'>LuvIt74</em>: ROHAN has to go and think ill trade out Franklin for Zorko<br><em style='color:#000'>joelyboy04</em>: wtf harvey sc?<br><em style='color:#000'>uptoolate</em>: North is just average yet again . so are the Dogs . Unless the dogs unleash a new EJ  we are routed long term. Ven<br><em style='color:#000'>Slightly01</em>: Cartz411 you're a pleb<br><em style='color:#000'>JGreezy</em>: Won the game theta&#044; should have been higher<br><em style='color:#000'>uptoolate</em>: Doggies ..need a new EJ !!! (lets get physical !!!). North ar pretending same as usual...<br><em style='color:#000'>Thanatos</em>: Hmmmm<br><em style='color:#000'>theta</em>: Harvey sc bs<br><em style='color:#000'>Roksta</em>: as preki said played west coast in perth last week...  north supposed to be top 6 team i reckon they did ok<br>
+230041,Adam,Cooney,WB,37,116,121,152,86,117,14,9,6,8,0,0,0,1,0, Full Time,hot,%O and %M plus %T... %s as well,,,506900,,531400,,Midfielder,17,1,96,67,0.45,0.67,0.00,502900,91
+230255,Will,Minson,WB,33,98,120,116,82,96,6,5,2,5,42,2,0,0,0, Full Time,heart,%H... also %P and %T,,,502100,,616600,,Ruck,27,1,54,62,4.75,5.52,0.00,498100,117
+280946,Koby,Stevens,WB,20,96,109,120,79,105,13,11,7,2,0,0,0,1,0, Full Time,news,%O and %M plus %T... %s as well,concussed,Took a bit of a hit to the head in a 4th quarter tackle,367100,,367100,,Midfielder,25,1,88,71,0.81,1.16,0.00,364300,54
+291526,Luke,Dahlhaus,WB,20,93,104,117,74,102,15,10,3,3,0,1,1,1,3, Full Time,news,%s from %O and %M plus %T,,,384100,,425900,,Forward,6,1,108,93,2.81,3.43,0.00,381100,46
+290799,Tom,Liberatore,WB,26,90,111,119,68,100,8,13,3,9,1,0,2,0,0, Full Time,news,%2 Gibson... %P and %M plus %T,,,531100,,576200,,Midfielder,21,1,84,79,11.33,17.04,0.00,527000,106
+220010,Matthew,Boyd,WB,19,87,72,117,60,84,13,5,3,7,0,1,0,0,0, Full Time,news,%O with %k by foot... also %T and %M,,,567700,,560100,,Midfielder,5,1,118,110,2.08,0.76,0.00,563300,95
+295467,Jackson,Macrae,WB,19,82,86,103,70,93,14,8,7,0,0,0,1,1,0, Full Time,news,%2 Dal Santo... %P and %M plus %s,,,347100,,331100,,Midfielder,11,1,122,113,5.29,6.00,0.00,344400,26
+200083,Robert,Murphy,WB,13,78,106,98,61,87,15,10,3,1,0,0,0,0,0, Full Time,news,%M and %P,,,463200,,534300,,Back,2,1,94,118,0.84,0.98,0.00,459600,79
+271439,Liam,Picken,WB,14,77,88,93,65,90,10,15,4,1,0,1,0,0,0, Full Time,news,%M and %P,job,Playing on Thomas,351000,,340100,,Back,42,1,82,95,0.58,0.77,0.00,348200,53
+294557,Lachie,Hunter,WB,9,68,80,87,53,72,11,7,4,2,0,1,0,0,0, Full Time,news,%P and %M plus %T,,,281600,,284700,,Forward Midfielder,26,1,103,92,1.64,2.49,0.00,271000,16
+250712,Dale,Morris,WB,13,67,75,80,62,81,5,14,8,0,0,0,0,0,0, Full Time,news,%O including %B... also %M,,,263000,,342500,,Back,38,1,28,26,0.89,0.82,0.00,260900,61
+260227,Shaun,Higgins,WB,9,59,68,78,43,60,6,6,3,5,0,0,0,0,0, Full Time,news,Playing an outside defense role... %D and %M with %T,,,272800,,254600,,Forward,7,1,78,69,25.12,31.20,0.00,305400,42
+281139,Easton,Wood,WB,12,58,69,72,54,72,8,10,6,0,0,2,2,0,0, Full Time,news,%M and %D,job,On Black,203200,,215800,,Back,10,1,43,47,1.34,3.47,0.00,171400,24
+295313,Lin,Jong,WB,9,57,42,76,40,57,7,5,2,5,0,0,0,0,0, Full Time,png,%O and %M plus %T,job,Taking Bastinac,155000,,157800,,Midfielder,46,0,0,0,0.35,0.36,0.00,215300,40
+280012,Jordan,Roughead,WB,9,56,75,73,48,63,6,6,7,2,0,0,1,0,0, Full Time,job,Will take Petrie... %D and %M with %T,,,284100,,360200,,Back,23,1,45,72,1.21,1.09,0.00,281800,57
+292503,Stewart,Crameri,WB,9,46,53,58,37,48,7,3,3,1,0,0,0,1,0, Full Time,news,Thompson is following him... %s from %O and %M,,,355400,,390400,,Forward,8,1,83,80,1.39,2.84,0.00,352600,53
+240156,Ryan,Griffen,WB,9,45,63,54,37,48,4,7,1,2,0,2,0,1,0, Full Time,news,%D and %T plus %s,,,576300,,627600,,Midfielder,16,0,0,0,2.53,3.10,0.00,571800,106
+281078,Liam,Jones,WB,10,43,29,56,38,47,5,2,4,2,2,2,2,1,0, Full Time,news,%s from %O and %M plus %T,,,262500,,277600,,Forward,19,0,0,0,0.61,0.78,0.00,260400,48
+294101,Jason,Johannisen,WB,4,41,39,54,32,46,7,4,2,2,0,0,1,0,1, Full Time,southafrica,%O and %M plus %T... %s as well,,,314700,,348100,,Back,39,1,43,37,0.31,0.28,0.00,312300,67
+293884,Jake,Stringer,WB,8,40,46,50,33,41,5,2,3,1,0,0,0,1,2, Full Time,subbed,Subbed off in the last quarter... %s from %P and %M,,,240900,,251400,,Forward,9,1,38,51,0.79,1.47,0.00,239000,48
+291545,Mitch,Wallis,WB,2,28,23,36,23,33,3,5,1,2,0,1,1,0,0, Full Time,tagger,On Wells... %D and %T,,,382100,,386000,,Midfielder,3,1,59,56,0.56,0.93,0.00,379100,77
+200079,Daniel,Giansiracusa,WB,1,25,14,32,19,27,4,3,1,1,0,0,0,0,0, Full Time,news,Subbed on in the 4th quarter... %P,sub,Started as a sub,382900,,391900,,Forward,13,1,48,32,0.40,0.45,0.00,379900,84
+960491,Brent,Harvey,NM,32,118,169,79,97,124,17,8,8,2,0,0,0,3,1, Full Time,star,%s from %D and %M with %T,,,507300,,561300,,Forward Midfielder,29,1,96,74,3.06,3.52,0.00,503400,91
+250557,Sam,Gibson,NM,25,117,99,78,91,126,18,13,7,4,0,0,0,0,0, Full Time,hot,%2 Liberatore... %D and %M with %T,,,446000,,412600,,Midfielder,43,1,59,42,0.22,0.34,0.00,442500,96
+220023,Nick,Dal Santo,NM,15,105,128,55,84,117,19,13,5,1,2,0,0,0,1, Full Time,gun,%2 Macrae... %O and %M plus %s,,,483000,,525700,,Midfielder,15,1,74,96,2.96,3.93,0.00,479200,98
+250373,Lachlan,Hansen,NM,25,97,84,73,77,102,14,6,10,4,0,0,1,0,0, Full Time,sore,Playing back as a third man up in contests... Copped some sort of a knock in the third quarter... %O with %k by foot... also %M and %T,,,395000,,393500,,Back,6,1,43,66,0.81,0.92,0.00,391900,91
+280863,Ryan,Bastinac,NM,19,92,64,72,70,95,12,8,6,5,0,0,0,0,2, Full Time,news,Jong making sure he has little effect on this game... %P and %M plus %T... %s as well,,,466800,,501900,,Midfielder,3,1,62,50,0.52,0.46,0.00,463200,101
+250285,Leigh,Adams,NM,19,84,87,67,64,87,10,9,3,5,0,1,0,1,0, Full Time,news,%s from %P and %M plus %T,,,392200,,428500,,Forward Midfielder,13,1,81,46,0.79,0.66,0.00,389100,66
+281395,Scott D.,Thompson,NM,14,82,90,58,68,93,12,10,6,3,0,2,2,0,0, Full Time,rock,%D and %M with %T,job,Taking every resting Bulldog forward no matter if it is a ruck or a midfielder,424400,,529400,,Back,16,1,66,88,1.19,3.35,0.00,421000,85
+290787,Shaun,Atley,NM,14,80,81,58,65,87,11,9,7,2,0,0,0,0,0, Full Time,news,%P and %M plus %T,,,368700,,394200,,Back,18,1,61,41,1.86,5.64,0.00,365800,72
+291963,Brad,McKenzie,NM,15,75,74,47,64,84,11,10,5,0,0,1,0,1,0, Full Time,news,First goalscorer... %O and %M plus %s,,,249600,,222200,,Midfielder,2,1,58,35,0.68,1.12,0.00,247700,38
+296355,Luke,McDonald,NM,13,74,96,52,55,78,11,8,3,4,0,0,0,0,0, Full Time,news,%P and %M plus %T,bubble,Playing his second game,177800,,182300,,Back Midfielder,21,1,53,48,51.14,60.27,0.00,243900,40
+291672,Aaron,Black,NM,15,70,53,54,59,72,9,3,7,2,0,2,1,1,3, Full Time,wood,Taken care of by Wood... %s from %D and %M with %T,sore,Knee getting a look by the trainers,387500,,412900,,Forward,35,1,43,53,0.89,0.89,0.00,384500,89
+280921,Ben,Cunnington,NM,13,67,74,53,51,73,8,10,2,4,0,0,0,0,1, Full Time,news,%P and %M plus %T... %s as well,,,449900,,516700,,Midfielder,10,1,78,92,0.72,0.67,0.00,446300,85
+280944,Jack,Ziebell,NM,16,67,72,63,55,76,6,8,4,5,1,0,2,1,0, Full Time,sore,Copped a knock to the scone in the second quarter and also has a shoulder concern... %D and %M with %T... %s as well,,,517100,,513600,,Midfielder,7,1,45,47,2.18,2.71,0.00,513100,127
+210023,Drew,Petrie,NM,16,66,77,55,57,71,7,4,6,2,1,0,1,2,1, Full Time,news,Followed by Roughead... %s from %D and %M with %T,,,468300,,554300,,Forward,20,1,24,20,2.05,3.50,0.00,464600,126
+271129,Todd,Goldstein,NM,19,63,75,71,54,65,1,5,1,5,29,1,1,0,0, Full Time,news,%H... also %D and %T,,,490900,,612400,,Ruck,22,1,62,89,4.50,5.53,0.00,487100,108
+230232,Daniel,Wells,NM,9,54,68,40,41,55,7,5,1,3,0,1,0,1,1, Full Time,tagged,Tagged by Wallis... %P and %T plus %s,,,454100,,518500,,Midfielder,8,1,37,41,0.75,0.70,0.00,450600,113
+270861,Levi,Greenwood,NM,10,54,51,32,47,60,9,4,5,0,0,1,1,1,0, Full Time,news,Coming on in the 4th quarter... %P and %M plus %s,sub,Started as a sub,410500,,447400,,Midfielder,24,0,0,0,0.34,0.35,0.00,398300,73
+290194,Jamie,MacMillan,NM,9,54,75,43,41,60,7,7,2,4,0,0,1,0,0, Full Time,job,Taking Gia... %P and %M plus %T,,,376400,,392500,,Midfielder,34,1,74,90,0.34,0.41,0.00,373500,66
+291445,Aaron,Mullett,NM,8,54,50,34,43,61,9,6,3,2,0,0,1,0,1, Full Time,news,%D and %M with %T... %s as well,,,405700,,419700,,Back,41,1,97,90,0.80,0.77,0.00,402600,59
+261236,Daniel,Currie,NM,10,49,65,44,41,48,4,2,3,2,9,1,0,1,0, Full Time,rookie,Finally playing a game... %H... also %D and %M with %T... %s as well,in,Late replacement for Sam Wright,119200,,123900,,Ruck,1,0,0,0,35.53,32.62,0.00,115200,21
+240131,Nathan,Grima,NM,4,41,46,20,30,42,9,1,2,2,0,1,1,0,0, Full Time,subbed,Taken off at 3QT... %O including %K... also %M and %T,,,358300,,403600,,Back,17,1,44,48,0.43,0.39,0.00,355500,80
+261909,Lindsay,Thomas,NM,6,26,27,29,18,27,2,2,1,4,0,0,1,0,0, Full Time,news,Picken picking him up... Gave up an easy goal by whacking Picken late in the second half... %P and %T,,,346600,,386200,,Forward,12,1,87,101,1.07,1.55,0.00,343900,48

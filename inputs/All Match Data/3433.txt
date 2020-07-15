@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Adelaide,Crows,R5,18.13.121,10.12.72, Full Time
+Apr 23,2010,7:40,Docklands,Seven,230041,10280501,5015449,4976,Roof closed,27
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,Delayed for a week due to working on scalability... should be next week for Round 6,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>sacky35</em>: Traded Hall and Medhurst 4 ROK and ipod.poor start<br><em>murphy3</em>: go dogs<br><em>Juddsuperb</em>: about time gia did something<br><em>wazzbatt</em>: Bugger me.  I traded out Moles yesterday before he was named replacement!<br><em>GoLions</em>: i think i may bring davis in2 my sc team<br><em>demons#1</em>: 315 from 3 in DT and 97 from 1 in sc<br><em>callumbak</em>: Some of the SC scores are wrong<br><em>The Bomber</em>: brian lake deserves junk bin<br><em>Ltv123</em>: the scores are wrong for higgins and vince<br><em>RICK05</em>: good to see you can read hoddo<br><em>Nath_footy</em>: wtf vince? lost 3 points!!!!<br><em>hoddo</em>: Giansiracusa (133)&#044; Griffen (126)&#044; Hall (119) and Lake (60) in SC<br>
+200079,Daniel,Giansiracusa,WB,27,125,133,156,98,133,21,14,4,3,0,3,0,1,1, Full Time,gun,Started in the midfield this week and ran hot... %D including %K... also %M and %T with %s... Reilly moved to tag him in Q2... off in Q3 to get a jab in the ribs
+200080,Lindsay,Gilbee,WB,31,124,111,164,96,126,20,6,12,4,0,0,0,0,0, Full Time,hot,%P and %M with %T
+240156,Ryan,Griffen,WB,23,118,126,146,97,132,17,15,5,3,0,1,1,2,0, Full Time,star,Had a particularly good Q2 to set up a winning lead... %P and %M with %T and %s
+970100,Nathan,Eagleton,WB,27,114,75,142,95,119,15,7,9,2,0,0,0,3,2, Full Time,hot,Matched up on Cook on a wing... %D and %M plus %s
+240029,Brodie,Moles,WB,24,102,91,130,80,109,14,12,6,4,0,1,0,0,1, Full Time,in,%l Ryan Hargrave (neck soreness)... %P and %M plus %T and %s
+230041,Adam,Cooney,WB,20,99,92,127,76,105,13,12,5,5,0,1,0,0,0, Full Time,news,Head to head with Vince... %O including %B with %T and %M
+960570,Barry,Hall,WB,28,98,119,120,84,98,10,2,8,2,0,0,0,5,2, Full Time,x-factor,Usually has a tough time with Rutten... %s from %P and %G including three goals in Q2
+210049,Daniel,Cross,WB,15,95,91,119,78,100,9,13,5,5,4,6,1,0,0, Full Time,news,%B among %O with %T and %M... also %4 frees for
+200081,Mitch,Hahn,WB,22,94,101,116,76,101,10,11,4,4,0,0,0,2,2, Full Time,news,Goodwin didn't pay him much attention... %s from %D with %G and %T
+260227,Shaun,Higgins,WB,26,87,100,115,65,90,10,7,4,7,0,0,1,1,0, Full Time,garbage,Johncock on him... %s from %D and %M with %T... started slowly but got a fair bit in Q4 junk time when rotated into midfield
+960258,Brad,Johnson,WB,13,83,96,105,67,90,16,8,6,0,0,1,0,0,0, Full Time,news,The kid Schmidt on him... %O and %M
+220039,Brian,Lake,WB,18,80,60,103,67,85,13,5,10,0,1,0,0,0,0, Full Time,job,Stood Tippett... %D and %M much of which came in junk time in Q4
+960064,Jason,Akermanis,WB,14,74,70,93,63,87,7,13,6,3,0,0,1,0,0, Full Time,news,Edwards matched up on him... %B among %P with %M
+200083,Robert,Murphy,WB,18,72,37,91,63,85,11,8,6,1,0,0,2,1,1, Full Time,garbage,Kicked %s from %P and %M on Doughty... got a lot of ball very late in garbage time
+240254,Jarrod,Harbrow,WB,13,72,78,96,58,81,14,5,6,2,0,0,2,0,0, Full Time,job,Ran off Petrenko... %M and %D with %F
+250150,Tom,Williams,WB,12,68,73,87,58,78,10,8,7,1,0,0,1,0,0, Full Time,news,%M and %O
+261257,Andrejs,Everitt,WB,9,66,63,84,53,72,7,9,5,3,0,0,0,0,0, Full Time,sore,Copped a whack in the noggin in Q1... %O and %M with %T
+240710,Ben,Hudson,WB,11,64,78,80,50,64,4,6,2,5,13,1,0,0,0, Full Time,news,%H and %P with %T
+280012,Jordan,Roughead,WB,11,64,49,77,55,65,3,6,4,3,9,2,0,1,2, Full Time,rookie,First game... %s from %O with %M and %H
+261319,Jarrad,Grant,WB,10,58,75,68,49,66,3,11,1,3,0,0,0,2,0, Full Time,news,%s from %D and %M with %T on Davis
+240212,Dylan,Addison,WB,5,54,44,70,42,57,6,6,4,3,0,0,0,0,0, Full Time,tagger,Tagged Knights... %P and %M with %T
+250712,Dale,Morris,WB,3,31,54,37,29,39,2,8,2,1,0,2,1,0,0, Full Time,job,Followed Burton... %O and %M
+210016,Scott,Thompson,AD,27,108,79,93,87,126,11,20,4,7,0,1,2,0,0, Full Time,hot,%B among %D with %M and %T... also %F
+980002,Tyson,Edwards,AD,20,97,88,84,78,110,9,18,4,5,2,0,0,0,0, Full Time,job,Minded Akermanis... %O and %T
+220086,Brent,Reilly,AD,20,95,59,74,81,111,12,13,9,3,0,0,2,0,0, Full Time,tagger,Moved to tag Giansiracusa in Q2... %P and %T
+261142,Bernie,Vince,AD,25,94,82,62,80,111,14,13,6,2,0,0,2,1,0, Full Time,news,Head to head with Cooney... first goal... %s from %O and %M
+270964,Myke,Cook,AD,20,83,65,76,65,89,8,10,5,6,1,1,1,0,1, Full Time,news,Matched up on Eagleton on a wing... %P and %T with %M
+960036,Simon,Goodwin,AD,15,82,65,72,64,90,8,13,4,5,0,0,0,0,0, Full Time,job,Tried to zone off Hahn... %D and %T with %M
+990012,Brett,Burton,AD,20,82,92,63,72,92,10,7,7,2,2,1,2,2,0, Full Time,sore,%s from %P and %G on Morris... a nick over the knee drew blood in Q3
+210056,Graham,Johncock,AD,14,81,96,69,68,96,7,19,3,3,0,1,0,0,0, Full Time,job,Sat on Higgins... %D including %b by hand... also %T and %M
+230174,Jason,Porplyzia,AD,21,77,58,69,63,82,8,4,6,5,0,0,2,2,1, Full Time,news,%s from %D and %T
+200092,Michael,Doughty,AD,13,72,70,61,61,81,7,12,6,2,0,1,0,0,0, Full Time,job,Followed Murphy... %O and %M with %T
+280804,Phil,Davis,AD,13,71,88,57,61,81,8,11,6,2,0,2,1,0,0, Full Time,bubble,Second game... on Grant... %M and %P
+270742,Kurt,Tippett,AD,21,68,68,56,62,69,6,1,6,0,11,0,0,3,1, Full Time,garbage,Booted %s from %G and %O on Lake... a much better start than usual this season... his rotation through the ruck continues... left calf soreness in Q3... got a fair bit in Q4 junk time
+261263,Chris,Schmidt,AD,13,67,55,54,55,72,8,7,7,2,0,0,0,0,0, Full Time,smiling,Had a big job on Johnson... %O and %M
+240032,Chris,Knights,AD,14,66,71,60,55,75,5,12,3,3,0,0,0,1,0, Full Time,tagged,Addison tagged him... %s from %P including %B... also %M and %T
+240546,Ivan,Maric,AD,15,65,78,67,56,71,3,7,3,4,19,0,1,0,1, Full Time,news,%H and %P with %T and %M... also %s
+960023,Andrew,McLeod,AD,8,65,62,39,55,81,10,14,2,1,0,0,1,0,0, Full Time,news,Not much space for him at Etihad... %P and %M
+220093,Ben,Rutten,AD,8,63,76,52,55,75,6,13,5,1,0,0,0,0,0, Full Time,job,Stood Hall... %P and %M
+240370,Richard,Douglas,AD,7,54,75,33,48,67,8,11,3,0,0,1,1,0,1, Full Time,news,%s from %P and %M
+250118,Nathan,van Berlo,AD,13,51,45,46,42,63,5,10,2,4,0,0,2,0,0, Full Time,news,%O and %T plus %M and %F
+270917,Patrick,Dangerfield,AD,10,51,51,39,41,53,6,5,2,2,0,1,0,1,2, Full Time,sore,Ran into a goalpost in Q1 but only looked winded... %P plus %s
+261138,Jared,Petrenko,AD,7,36,43,44,27,39,1,6,1,5,0,1,1,0,0, Full Time,news,%O including %B plus %T... Harbrow on him
+291201,Ricky,Henderson,AD,3,33,19,24,26,33,5,1,4,1,0,0,0,0,0, Full Time,rookie,First game.. %P... rotated through FF when Tippett went into the ruck

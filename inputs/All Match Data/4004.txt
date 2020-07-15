@@ -1,0 +1,48 @@
+Melbourne,Demons,Brisbane,Lions,R1,11.12.78,17.17.119, Full Time
+Mar 31,2012,1:45,MCG,Fox Sports,270512,10340104,430011,0,Humid,25,,
+
+<em>JTren</em>: bit rough with the witches hat on grimes monty you oaf<br><em>tbeilbs</em>: hanley dominated<br><em title="EZA100">eza100</em>: 5 votes rockliff 4 votes black 3 votes magner 2 votes hanley 1 vote beams<br><em>port4spoon</em>: that is down to the rooms<br><em>port4spoon</em>: @CamT i was talking about magner walking off the grpound after the game finished<br><em>CamT</em>: @ port4spoon ... Magner could hardly make it off the ground. Had a training beside him the whole time.<br><em>jballstars</em>: green seagull and rubbish bin plz<br><em>jballstars</em>: magner ankle twist didnt look to bad should be ok imho<br><em>port4spoon</em>: monty&#044; magner walked from the ground barely hobbling<br><em>synergy247</em>: What's the injury to mags n how bad???<br><em>wolfheart</em>: so thats Parker&#044; McDonald and Magner all out for round 2. I'll be trading early.<br><em>7ator</em>: 75 from 3 quaters for Golby&#044; not a terrible result. <br>
+280608,Jack,Trengove,ME,36,105,104,138,78,100,11,6,6,8,0,3,0,1,1, Full Time,hot,%2 Redden... %O and %M with %T and %s,,
+260176,James,Magner,ME,22,103,102,128,82,105,13,10,4,4,0,4,0,2,0, Full Time,magnet,First game but didn't look like it with a perfect DT-friendly game... %D and %T plus %M and %s,injured,Slight ankle knock in Q2 but played on... left ankle and/or knee twisted under a tackler late in Q4 and hobbled off unassisted but it didn't look good
+220052,Mark,Jamar,ME,21,82,103,99,70,85,6,6,3,4,27,2,1,0,1, Full Time,news,Shaded on the day by Hudson... %H and %D with %T... also %M and %s,,
+250222,Nathan,Jones,ME,15,82,64,107,61,85,13,7,4,4,0,0,0,0,1, Full Time,news,%O and %M with %T and %s... got a cut over the eye in Q3,,
+280972,Jack,Watts,ME,15,78,88,101,62,84,12,6,5,3,0,0,1,1,0, Full Time,news,Interesting matchup on Hanley... %D and %M with %T and %s,,
+270906,Jordie,McKenzie,ME,18,72,80,97,50,69,12,4,1,6,0,4,1,0,0, Full Time,tagger,Tagging Black... %D and %T,,
+280763,Stefan,Martin,ME,17,67,73,85,56,68,5,3,5,4,11,1,1,1,0, Full Time,news,McKeever on him... %s from %D and %M... also %H,,
+230130,Joel,MacDonald,ME,8,66,79,86,51,72,13,6,3,2,0,1,1,0,0, Full Time,job,Minding Bewick... %O and %M,,
+261297,Jack,Grimes,ME,13,66,82,88,47,66,11,4,3,4,0,0,0,0,0, Full Time,witcheshat,McGrath trying to keep him honest early... got Rockliff in the second half and got smashed... looked exactly like a bloke who had played no preseason... %P,,
+260288,James,Frawley,ME,9,65,84,86,50,69,13,4,4,2,0,1,1,0,0, Full Time,job,Has Clark... %P and %M,,
+200054,Brad,Green,ME,10,64,54,82,51,66,11,3,5,1,0,0,0,1,0, Full Time,seagull,Completely absent when the game was up for grabs... %s from %P and %M on Patfull,,
+240393,Mitchell,Clark,ME,12,60,49,77,49,61,9,1,4,2,0,1,1,2,1, Full Time,crab,Booted %s from %G and %P on Frawley,,
+291313,Jeremy,Howe,ME,12,53,53,70,49,64,8,2,5,2,0,1,4,2,1, Full Time,news,Kicked %s from %D and %M,,
+250345,Rohan,Bail,ME,14,52,73,69,37,54,5,7,0,6,0,2,1,0,0, Full Time,news,Off a HBF with Stiller manning him up... %D and %T,,
+200002,Aaron,Davey,ME,14,51,57,67,39,55,6,5,0,5,0,2,2,1,1, Full Time,news,Rich on him... %D and %T,,
+270830,Colin,Garland,ME,4,51,59,70,37,51,12,0,3,2,0,1,1,0,0, Full Time,job,Responsible for Lester... %D and %M,,
+250245,Clint,Bartram,ME,7,48,51,61,40,57,8,7,3,1,0,0,1,0,0, Full Time,job,Chasing Banfield... %O,reported,Reported for a sling tackle on Banfield in Q4... nothing in it
+293877,Josh,Tynan,ME,3,46,43,61,35,51,11,3,2,1,0,0,1,0,0, Full Time,rookie,First game... %D,,
+230151,Brent,Moloney,ME,3,41,58,52,30,45,7,6,0,2,0,0,0,0,0, Full Time,tagged,Tagged by Beams... %O,,
+230250,Jared,Rivers,ME,3,32,59,43,25,36,3,4,2,3,0,0,1,0,0, Full Time,news,%P and %T,job,Has the resting ruckman
+250510,Matthew,Bate,ME,3,30,11,38,26,37,6,4,2,0,0,0,1,0,1, Full Time,news,On in Q4 for Blease,sub,Started as a sub
+280746,Sam,Blease,ME,1,20,22,24,17,21,3,2,1,0,0,1,0,0,3, Full Time,news,Playing small forward on Golby... %D and %s,subbed,Subbed off at 3QT for Bate
+270919,Tom,Rockliff,BL,37,130,139,102,108,137,16,7,10,5,0,1,2,3,5, Full Time,star,First goal... %O and %M plus %T and %s... resting forward a bit too much for long-term fantasy purposes,,
+980007,Simon,Black,BL,50,128,152,100,91,129,17,13,3,10,0,2,0,0,0, Full Time,cherry,Tagged by McKenzie but engineered the win anyway... %P and %T,,
+240087,Jed,Adcock,BL,31,125,140,88,101,132,18,11,9,4,0,3,1,1,0, Full Time,hot,Drifting into defence early... %P and %M plus %T and %s,,
+270512,Pearce,Hanley,BL,33,120,104,90,95,126,17,6,9,6,0,0,2,2,0, Full Time,hot,%O and %M plus %s,job,Watts playing wide of him
+260975,James,Polkinghorne,BL,32,97,109,82,76,100,11,5,4,7,0,1,2,3,1, Full Time,switch,Switching back and forward... %s from %D and %T... also %M and %F,,
+250053,Cheynee,Stiller,BL,24,95,81,80,76,99,11,8,10,4,0,0,0,0,0, Full Time,news,Playing a forward role on Bail... %O and %M with %T,,
+230147,Daniel,Merrett,BL,21,83,80,63,68,88,11,5,5,4,0,2,2,2,1, Full Time,news,Starting forward on Frawley... %s from %P and %G... also %T,,
+281373,Jack,Redden,BL,20,82,84,79,63,88,7,11,4,7,0,1,1,0,1, Full Time,news,%2 Trengove... %P and %T with %M,,
+292035,Claye,Beams,BL,18,82,84,57,62,93,12,13,1,5,0,0,1,0,0, Full Time,tagger,Tagging Moloney... %P and %T,,
+290110,Mitchell,Golby,BL,14,77,72,51,65,87,12,8,8,1,0,0,1,0,0, Full Time,news,Is he fool's Golby for fantasy coaches... no stats in Q2... %O and %M,job,Responsible for Blease
+220062,Matt,Maguire,BL,10,75,71,55,60,75,11,3,9,2,0,1,0,0,0, Full Time,job,Has Clark... %M and %O,,
+240710,Ben,Hudson,BL,13,71,107,63,62,82,5,12,1,3,19,1,1,0,0, Full Time,x-factor,Played ruck most of the day and probably beat Jamar... %H and %D with %T,,
+292508,Niall,McKeever,BL,12,68,86,36,57,75,13,5,7,0,0,1,1,0,0, Full Time,job,In defence on Martin... %O and %M,,
+271072,Daniel,Rich,BL,8,65,81,31,54,82,13,11,1,2,0,1,3,0,1, Full Time,job,Playing halfback on Davey... %D and %T... also %F,,
+250335,Matthew,Leuenberger,BL,16,64,100,63,57,70,3,6,2,3,22,0,1,1,0, Full Time,news,Started forward on Rivers with Hudson in ruck... %s from %P and %G... also %H,,
+290738,Jared,Polec,BL,12,63,68,45,55,73,8,10,6,0,1,0,0,0,0, Full Time,news,%P and %M,,
+271071,Todd,Banfield,BL,16,62,68,44,50,61,8,2,2,2,0,1,0,3,1, Full Time,news,Bartram sitting on him... %s from %O,,
+230170,Joel,Patfull,BL,9,58,84,48,50,66,6,10,4,2,0,3,1,0,0, Full Time,news,%D and %T with %M,job,Following Green
+210013,Ashley,McGrath,BL,10,52,41,34,43,61,9,3,3,3,0,0,3,1,1, Full Time,news,Started forward on Grimes... %s from %D,,
+291548,Ryan,Lester,BL,4,49,44,29,38,53,9,3,3,2,0,0,1,0,2, Full Time,news,%s from %D and %T on Garland,,
+281329,Rohan,Bewick,BL,5,47,45,41,40,54,5,6,5,2,0,0,1,0,0, Full Time,news,%O and %M with %T on MacDonald,subbed,Subbed off at 3QT for Sheldon
+261250,Sam,Sheldon,BL,8,33,13,26,25,31,4,1,1,2,0,1,0,1,1, Full Time,news,On in Q4 for Bewick,sub,Started as a sub

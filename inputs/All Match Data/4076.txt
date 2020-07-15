@@ -1,0 +1,48 @@
+St Kilda,Saints,Sydney,Swans,R9,16.15.111,12.11.83, Full Time
+May 26,2012,4:40,Docklands,Fox Sports,200068,10340904,430083,0,Roof closed,15,,
+
+<em>Smirks</em>: will kennedy get more than 123 sc or less ?<br><em>JuddMyBud</em>: God sc willbe Upscaled mark my words <br><em>JuddMyBud</em>: God sc willbe y<br><em>alexd1996</em>: well done goddard got me right back into my league game<br><em>Ledgenads4</em>: can anyone hear me<br><em title="LIVERPOOL">liverpool</em>: 100 in sc at 500k equals medioca score<br><em>Ledgenads4</em>: hay<br><em>comma3</em>: If only le junk had saved Hargrave..hope chopper visits him...<br><em>dancasta</em>: no more bagging god i see<br><em>mrpig</em>: goddard and oscar the grouch had a good time in the last qtr<br><em>HappyDEZ</em>: NDS gun? Goddard cape<br><em>mowie13</em>: spud goodard is a turd<br>
+220075,Leigh,Montagna,SK,36,121,115,159,92,122,19,6,7,6,0,2,1,1,2, Full Time,cherry,Vintage Monty from several years ago... %D and %T with %M... also %s,,
+250340,David,Armitage,SK,20,112,112,147,89,120,21,8,8,3,0,3,2,0,0, Full Time,hot,His outside run was very important... %O and %M with %T,,
+220023,Nick,Dal Santo,SK,32,111,130,140,84,113,15,10,2,6,2,2,0,2,0, Full Time,hot,Tagged by Bird... %O and %T with %s,,
+270912,Jack,Steven,SK,28,109,143,137,85,114,12,12,4,6,0,1,0,2,0, Full Time,heart,First goal... %D and %M with %T and %s... right ankle twisted in Q3,,
+210001,Nick,Riewoldt,SK,25,100,115,128,79,99,11,5,7,5,1,1,0,2,2, Full Time,hot,Booted %s from %P and %G on Richards,,
+990028,Lenny,Hayes,SK,19,96,103,121,76,108,12,15,3,5,3,1,1,0,0, Full Time,heart,%2 Kennedy... %P and %T with %M in his 250th game,,
+200068,Jason,Blake,SK,24,94,90,112,83,100,7,6,5,3,31,0,1,1,0, Full Time,star,Manful effort in ruck... %H and %D plus %M and %s,,
+230084,Brendon,Goddard,SK,15,90,97,114,70,96,14,11,4,3,0,2,0,0,0, Full Time,garbage,%2 O'Keefe... %D and %M with %T... many of his touches in Q4 garbage time,,
+294818,Ahmed,Saad,SK,45,88,105,117,61,81,7,4,0,11,0,3,1,2,3, Full Time,egypt,%s from %P with a massive %T on Shaw,,
+240062,Farren,Ray,SK,15,87,76,113,71,94,12,8,8,3,0,1,1,0,1, Full Time,news,%P and %M plus %s,job,Chasing McGlynn
+200108,Stephen,Milne,SK,17,75,88,95,61,76,10,2,4,3,0,1,1,3,1, Full Time,x-factor,%s from %D and %M on Smith with three goals in Q3,,
+280053,Tom,Simpkin,SK,9,72,76,94,57,72,9,5,7,3,0,2,0,0,0, Full Time,news,%M and %O,job,Standing Walsh
+230243,Sean,Dempster,SK,13,69,77,89,57,75,10,7,6,2,0,2,1,0,0, Full Time,news,%B among %P,,
+250703,James,Gwilt,SK,8,66,67,86,52,73,14,5,4,1,0,0,1,0,1, Full Time,news,%M and %P,job,Standing Roberts-Thomson
+261743,Clinton,Jones,SK,12,65,58,78,59,78,4,14,7,1,0,0,0,0,0, Full Time,news,%D,tagger,Tagging McVeigh
+270766,Terry,Milera,SK,15,59,57,77,51,71,10,5,4,2,0,0,3,1,2, Full Time,news,%s from %P on Mattner,,
+290826,Jamie,Cripps,SK,20,54,53,72,41,58,5,5,1,6,0,1,2,1,1, Full Time,news,%D and %T,,
+220034,Jason,Gram,SK,7,47,50,59,42,61,9,8,3,0,0,0,2,0,1, Full Time,news,%P and %M plus %s,,
+210002,Justin,Koschitzke,SK,9,45,51,60,36,49,5,2,2,4,9,0,2,0,1, Full Time,news,%s from %D on Grundy... also %H,,
+250134,Sam,Gilbert,SK,8,39,48,53,32,45,3,5,3,4,0,1,2,0,0, Full Time,news,%P and %T,job,On Reid
+293815,Arryn,Siposs,SK,8,34,33,44,26,33,6,0,2,1,0,0,0,1,0, Full Time,news,On after HT for Geary,sub,Started as a sub
+260113,Jarryn,Geary,SK,1,21,37,28,16,21,3,1,2,1,0,0,0,0,0, Full Time,injured,%P and %M... cut over his left eye in Q2,subbed,Subbed off at HT for Siposs
+230140,Ben,McGlynn,SY,22,111,103,84,91,114,14,7,9,3,1,1,0,2,2, Full Time,hot,Kicked %s from %D and %M on Ray,,
+230253,Jarrad,McVeigh,SY,24,110,118,80,87,118,15,13,7,4,0,1,0,0,1, Full Time,hot,Tagged by Jones... %D and %M plus %s,,
+200071,Ryan,O'Keefe,SY,25,109,109,71,77,108,18,9,2,7,0,3,0,0,0, Full Time,hot,%2 Goddard... %P and %T,,
+240226,Kieren,Jack,SY,31,105,123,73,80,111,15,11,1,6,0,2,1,2,0, Full Time,hot,%P and %T plus %s,,
+291206,Mike,Pyke,SY,27,98,108,98,81,98,5,9,3,6,29,3,0,0,0, Full Time,canada,%H and %P with %M and %T,,
+260382,Josh P.,Kennedy,SY,31,94,122,84,73,105,9,15,1,8,0,2,2,1,0, Full Time,news,%2 Hayes... %D and %T plus %s,,
+290117,Daniel,Hannebery,SY,19,80,68,63,65,93,11,9,6,5,0,0,3,0,0, Full Time,news,%B among %D with %T,,
+281281,Lewis,Jetta,SY,22,75,64,63,59,73,8,2,4,4,0,0,0,3,1, Full Time,news,%O,,
+210027,Ted,Richards,SY,13,71,95,55,63,81,8,11,8,0,0,1,0,0,0, Full Time,news,%D and %M,job,Following Riewoldt
+261212,Craig,Bird,SY,10,70,53,44,58,84,12,9,4,3,0,1,3,0,0, Full Time,news,%O and %M with %T... also %F,tagger,Tagging Dal Santo
+230132,Nick,Malceski,SY,13,65,44,44,52,79,11,8,2,5,0,1,4,0,1, Full Time,mare,%D and %T... also %F,,
+990011,Jude,Bolton,SY,14,62,85,56,56,72,4,13,4,1,0,2,0,1,0, Full Time,news,%D and %s,,
+200023,Rhyce,Shaw,SY,8,56,60,30,46,63,10,7,4,0,0,0,0,0,0, Full Time,news,%D,job,Chasing Saad
+220089,Lewis,Roberts-Thomson,SY,9,51,64,44,45,54,4,5,3,1,8,1,0,1,1, Full Time,news,%s from %P and %M on Gwilt at CHF... also %H,,
+240072,Heath,Grundy,SY,8,50,59,27,43,60,9,7,4,0,0,0,1,0,0, Full Time,news,%D,job,Standing Koschitzke
+290188,Samuel,Reid,SY,10,50,55,42,41,48,5,2,3,2,0,2,0,2,0, Full Time,news,%s from %P on Gilbert,,
+250338,Nick,Smith,SY,7,47,44,34,41,57,6,9,3,1,0,1,1,0,0, Full Time,job,Minding Milne... %P,,
+291450,Alex,Johnson,SY,4,42,51,32,32,46,6,4,2,3,0,0,1,0,1, Full Time,injured,%D and %T plus %s... left arm injury in Q4 and iced up,,
+290788,Luke,Parker,SY,7,41,46,40,43,64,2,15,3,1,0,0,3,0,1, Full Time,news,%P... also %F,,
+220063,Martin,Mattner,SY,3,39,32,26,31,46,6,6,1,2,0,0,1,0,1, Full Time,news,%O,job,Minding Milera
+270570,Trent,Dennis-Lane,SY,0,11,11,11,10,15,1,2,1,1,0,0,1,0,0, Full Time,news,On in Q3 for Walsh,sub,Started as a sub
+292509,Tommy,Walsh,SY,0,-3,4,-6,0,3,1,0,0,0,0,0,2,0,0, Full Time,bubble,One touch on Simpkin... also %F,subbed,Subbed off in Q3 for Dennis-Lane

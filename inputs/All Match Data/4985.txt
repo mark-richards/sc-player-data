@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Geelong,Cats,R22,14.10.94,11.5.71, Full Time
+Aug 23,2014,7.40,MCG,Seven,,10422205,haw-v-geel,0,Isolated showers,21,,
+
+<em style='color:#000'>buddyluvsu</em>: isnt it great when the umps put there whistles away<br><em style='color:#000'>buddyluvsu</em>: isn't itt<br><em style='color:#000'>happytimes</em>: Beast I agree going to be a cracking year<br><em style='color:#000'>Lynxe</em>: 8 teams that fill the finals it isnt just the top 4 smh silly fool<br><em style='color:#000'>Heizenberg</em>: * downs<br><em style='color:#000'>happytimes</em>: I will just say I would rather be playing for the hawks going into the finals <br><em style='color:#000'>Heizenberg</em>: All you ppl saying these teams are shower have no idea top 4 so even this year cant split them really all 4 had ups and do<br><em style='color:#000'>Raspel31</em>: My point Beastmode-lol.<br><em style='color:#000'>Beast_Mode</em>: good finals series ahead anyway.<br><em style='color:#000'>Lynxe</em>: what do u mean real team hawks r shower as flower lol<br><em style='color:#000'>old_shepp</em>: Even Lingy conceded Cats not good enough to challenge top teams<br><em style='color:#000'>happytimes</em>: Cats been lucky all year. Been found out by a real team<br>
+250089,Jordan,Lewis,HW,30,108,110,136,89,119,13,12,7,4,4,0,1,1,1, Full Time,hot,%O and %M plus %T... %s as well,,,582600,45,615900,59,Midfielder,3,19,107.6,107.1,1.32,0.88,1.83,545339,65
+250715,Josh,Gibson,HW,20,101,123,126,84,114,13,15,8,2,0,0,0,0,0, Full Time,hot,%D and %M with %T,,,336000,64,406200,103,Back,6,12,72.7,87,1.96,1.58,2.83,355329,75
+220073,Sam,Mitchell,HW,19,95,103,117,81,108,12,16,6,2,0,4,1,0,0, Full Time,news,%D and %M with %T... aided by %4FF,,,460300,75,412000,80,Back Midfielder,5,11,92,86.8,26.44,25.05,28.61,440935,69
+240302,Grant,Birchall,HW,14,91,94,119,71,94,18,4,8,1,0,0,0,0,1, Full Time,news,%D with %k by foot... also %M... and booted %s,,,397200,70,438200,112,Back,14,20,80.8,87,8.95,10.91,9.03,388911,75
+290683,Will,Langford,HW,17,90,116,108,76,100,10,13,4,2,0,1,0,2,1, Full Time,news,%D and %M with %T... %s as well,,,365300,42,374200,49,Back,29,14,68.5,71,11.46,10.41,10.70,350858,53
+220047,Luke,Hodge,HW,14,85,64,111,69,91,12,6,8,3,4,0,1,0,0, Full Time,news,%P and %M plus %T,,,512900,89,491700,89,Back Midfielder,15,18,97.8,93.1,13.48,12.60,19.63,508963,91
+280737,Liam,Shiels,HW,31,85,99,116,61,87,12,4,3,8,0,0,2,1,0, Full Time,news,%D with %k by foot... also %T and %M... and booted %s,,,486600,104,473100,108,Midfielder,26,16,94.9,88,3.17,2.05,3.08,479191,94
+220036,David,Hale,HW,23,83,89,99,72,84,7,3,5,2,15,0,0,3,0, Full Time,news,%s from %D and %M with %T,,,305900,30,357800,40,Forward Ruck,20,17,62.2,70.7,4.63,4.55,5.98,282729,35
+220039,Brian,Lake,HW,14,80,78,102,65,87,11,9,7,2,0,0,0,0,0, Full Time,news,%O and %M plus %T,,,304400,71,334700,98,Back,17,6,52.8,56.8,1.04,0.87,1.91,295115,62
+280471,Ben,Stratton,HW,14,80,77,101,70,90,8,11,9,2,0,2,1,0,0, Full Time,news,%P and %M plus %T,,,282200,71,345800,89,Back,24,11,50.1,59.4,0.48,0.69,0.49,274092,56
+260710,Paul,Puopolo,HW,14,79,49,101,62,81,9,8,5,4,0,2,0,0,3, Full Time,news,%s from %P and %M plus %T,,,348100,72,390500,70,Forward,28,20,71.9,74.9,1.04,0.97,1.06,356701,73
+291327,Jonathan,Ceglar,HW,18,78,89,93,67,80,5,5,4,3,23,0,0,1,0, Full Time,news,%H... also %P and %M plus %T... %s as well,,,353200,97,399300,102,Ruck,18,11,68.6,75.9,3.48,2.66,3.21,352944,92
+210012,Shaun,Burgoyne,HW,13,70,100,90,54,75,10,9,2,4,0,3,1,0,0, Full Time,news,%O and %M plus %T... aided by %4FF,,,417500,75,443100,91,Back Midfielder,9,20,87.8,93.7,15.77,25.52,15.01,417208,78
+240357,Jarryd,Roughead,HW,22,70,81,87,59,75,5,6,4,4,0,0,1,3,0, Full Time,news,%s from %P and %M plus %T,,,483000,70,498700,62,Forward,2,18,88.6,94.3,12.99,20.52,13.68,475838,70
+250652,Jonathan,Simpkin,HW,9,67,50,88,50,69,11,5,4,3,0,0,0,0,0, Full Time,news,%D and %M with %T,,,294000,68,256500,65,Midfielder,32,14,65.1,57.7,0.39,0.38,0.39,330028,88
+230197,Brad,Sewell,HW,14,66,61,84,52,72,10,7,2,3,0,1,1,1,0, Full Time,news,%D and %M with %T... %s as well,,,417200,166,433500,169,Midfielder,12,7,75.7,77,0.37,0.43,0.54,406092,125
+294877,Isaac,Smith,HW,9,66,74,85,51,74,13,7,2,2,1,0,1,0,1, Full Time,news,%P and %M plus %T... %s as well,,,457900,113,449200,107,Midfielder,16,19,95.3,91.8,0.98,1.27,1.20,483763,112
+295584,Bradley,Hill,HW,9,63,67,84,45,63,10,4,3,4,0,0,0,0,0, Full Time,news,%D including %K... also %T and %M,,,315300,69,324200,61,Midfielder,10,18,73.2,76.2,2.36,3.42,2.80,322661,69
+291351,Jack,Gunston,HW,10,56,66,71,47,60,9,4,4,1,0,2,1,1,0, Full Time,news,%s from %D and %M,,,366400,103,433500,116,Forward,19,18,81.9,88.3,9.71,7.96,8.65,402070,109
+280744,Luke,Breust,HW,9,45,46,58,37,49,4,4,3,3,0,0,1,1,1, Full Time,news,%s from %O and %M plus %T,,,349100,63,387300,70,Forward,22,20,77,87.9,5.21,12.85,6.33,362950,77
+250654,Matthew,Spangher,HW,2,23,22,30,20,28,3,3,2,1,0,0,1,0,1, Full Time,news,%s from %O and %M,,,316400,73,349700,73,Forward,27,10,63.7,74,0.66,0.83,0.68,319156,73
+270732,Matt,Suckling,HW,2,18,30,23,17,24,3,3,2,0,0,0,1,0,0, Full Time,news,%M and %D,,,378500,111,373900,110,Back,4,20,80.1,79.3,37.97,33.67,27.71,393026,98
+281065,Mitch,Duncan,GE,31,116,125,91,104,145,12,25,7,2,1,0,2,1,0, Full Time,hot,%P and %M plus %T... %s as well,,,477600,133,494600,149,Midfielder,22,20,92.4,96.6,0.78,1.91,3.41,494280,118
+230248,Andrew,Mackie,GE,24,103,99,59,87,117,18,11,10,0,0,0,1,0,0, Full Time,hot,%M and %O,,,414900,68,424000,93,Back,4,18,85.2,87.8,2.30,2.97,3.21,419190,79
+230214,Mathew,Stokes,GE,16,102,104,66,85,120,15,18,5,2,0,1,1,0,0, Full Time,hot,%P and %M plus %T,,,388800,114,424500,120,Midfielder,27,16,89.5,95.8,0.60,0.59,0.73,422493,102
+250290,Travis,Varcoe,GE,20,91,79,79,79,105,8,17,8,2,0,1,0,0,0, Full Time,news,%P and %M plus %T,,,257000,72,266900,78,Forward Midfielder,5,19,60.6,64.1,3.17,4.89,5.26,280798,74
+200035,Corey,Enright,GE,19,90,97,66,76,108,12,15,6,3,0,0,2,0,0, Full Time,news,%P and %M plus %T,,,432000,73,469700,78,Back,44,18,80.3,88.3,9.29,6.27,7.99,430925,84
+250321,Joel,Selwood,GE,20,87,90,83,74,99,5,19,3,4,0,3,0,1,0, Full Time,news,%O including %B... also %T and %M... and kicked %s... helped out by %4FF,,,604500,124,644800,148,Midfielder,14,20,105.9,119.7,25.46,41.74,23.90,580597,106
+280918,Allen,Christensen,GE,14,87,88,67,68,96,11,13,3,5,0,2,1,0,0, Full Time,news,%O and %M plus %T,,,439100,86,480400,73,Midfielder,28,7,82,91,0.17,0.18,0.32,412891,68
+290550,Cameron,Guthrie,GE,14,81,92,55,73,109,10,23,2,1,0,0,2,0,1, Full Time,news,%O and %M plus %s,,,368300,106,396800,120,Back,29,20,75.7,81.1,3.14,4.15,4.51,380223,89
+290623,Josh,Caddy,GE,14,81,90,59,65,93,10,16,2,3,0,1,0,0,0, Full Time,news,%P and %M plus %T,,,372800,61,410000,56,Forward Midfielder,23,12,65,72.3,7.18,7.04,6.66,330841,36
+220007,Jimmy,Bartel,GE,16,79,68,57,67,89,10,11,4,2,2,2,1,1,0, Full Time,news,%P and %M plus %T... %s as well,,,466700,96,461100,86,Back Midfielder,3,19,99.5,101.6,30.30,36.84,29.01,477362,106
+296733,Mark,Blicavs,GE,11,75,58,70,64,85,5,13,4,3,10,0,0,0,0, Full Time,news,%H... also %P and %T,,,382600,37,408200,30,Ruck,46,19,62,69.1,1.79,2.39,1.74,352941,42
+261497,Harry,Taylor,GE,16,71,59,56,58,72,9,3,8,2,0,0,0,1,0, Full Time,news,%P including %K... also %M and %T... and booted %s,,,463300,58,532900,60,Back,7,19,71.1,86.6,2.34,3.88,3.20,431333,64
+295942,Jordan,Murdoch,GE,16,71,65,56,61,78,8,7,5,2,0,1,1,2,0, Full Time,news,%s from %P and %M plus %T,,,300600,86,285700,72,Forward,21,19,65.3,63.7,1.31,1.74,1.32,309605,90
+230141,Hamish,McIntosh,GE,14,70,77,58,60,77,6,10,2,2,17,1,0,0,0, Full Time,news,%H... also %P and %T,,,422700,50,432000,68,Ruck,17,17,80.2,84.2,7.72,8.54,5.34,422493,75
+261510,Tom,Hawkins,GE,20,67,65,48,58,70,9,1,6,1,0,0,1,3,1, Full Time,news,Scored %s from %G and %D,,,390600,73,441300,113,Forward,26,20,74.7,84.8,3.80,7.21,5.20,386015,72
+220058,James,Kelly,GE,8,66,74,42,49,69,11,6,3,3,0,0,0,0,0, Full Time,news,%D and %M with %T,,,401900,80,418200,68,Midfielder,9,19,88.4,90.2,0.59,0.82,5.71,432654,105
+230125,Tom,Lonergan,GE,8,66,75,39,52,66,12,2,7,1,0,1,0,0,0, Full Time,news,%P including %K... also %M,,,252200,49,301900,23,Back,13,19,47.2,55.4,2.14,2.96,3.15,261442,60
+230250,Jared,Rivers,GE,13,65,80,53,53,72,8,7,6,3,0,0,1,0,0, Full Time,news,%P and %M plus %T,,,320300,38,354300,34,Back,25,18,59.1,69.7,1.11,1.45,2.07,312704,54
+280990,Steven,Motlop,GE,13,48,45,28,42,60,8,7,2,1,0,0,2,1,0, Full Time,news,%s from %D and %M,,,459900,114,448600,143,Forward,32,14,84.2,83.4,1.66,2.62,3.35,474923,109
+294663,Jackson,Thurlow,GE,10,43,46,32,38,48,5,5,4,0,0,0,0,1,0, Full Time,news,%D and %M plus %s,,,261100,86,285900,73,Back,40,2,34.5,49,0.52,0.46,0.40,251753,67
+295138,Brad,Hartman,GE,3,42,31,27,29,42,7,4,0,3,0,1,0,0,0, Full Time,news,%O and %T,,,133300,33,150300,19,Forward,36,4,30.8,36,0.49,0.88,1.27,142322,37
+291949,Shane,Kersten,GE,0,2,9,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,,,,,187300,50,181900,55,Forward,39,8,45.9,42.5,13.48,11.28,13.85,213533,58

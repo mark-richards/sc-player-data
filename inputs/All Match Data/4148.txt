@@ -1,0 +1,48 @@
+Western Sydney,Giants,Collingwood,Magpies,R18,7.12.54,26.18.174, Full Time
+Jul 28,2012,4:40,Showground,Fox Sports,291771,10341804,430155,0,Sunny,18,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em title="EZA100">eza100</em>: ward :(<br><em>sainter11</em>: Start marty next week - I think so<br><em>mackinaw</em>: i have an average player score of 120&#044; to bad i also have 5 zeros<br><em>sainter11</em>: Start clarke next week thanks (y)<br><em>Costanza</em>: Cloke will blow a GF yet<br><em>CatAttack9</em>: tippett to power (SC) looks like a good trade<br><em>windigo24</em>: Dawes needs a blue moon as well. :p <br><em>grossn</em>: Huge from Marty Clarke. Didnt play 2 qtrs<br><em>Magpie28</em>: "Upgraded" Treloar to Goodes 2 weeks ago... *shakes head*<br><em>dawsy</em>: trading giles in about 2 weeks when maric drops<br><em>Hazza09</em>: Clokeyy<br><em>chadwick</em>: Cheers swannie! Oink oink<br>
+29,Adam,Treloar,WS,25,121,99,150,103,141,18,19,9,1,0,1,1,0,0, Full Time,hot,%D and %M,tagger,Tagging Pendlebury
+261841,Jonathan,Giles,WS,36,118,112,138,108,127,8,11,10,1,29,1,0,1,2, Full Time,hot,%H and %P with %M and %s,,
+280969,Tom,Scully,WS,26,107,77,139,82,117,13,14,5,7,0,0,1,0,0, Full Time,hot,%P including %K... also %T and %M,,
+295344,Toby,Greene,WS,24,101,100,119,89,124,12,23,6,0,1,0,0,0,0, Full Time,hot,%2 Beams... %O and %M,,
+290306,Curtly,Hampton,WS,20,100,103,129,79,105,17,8,8,2,0,1,0,0,0, Full Time,hot,%M and %P with %T,job,In defence on Goldsack
+291771,Devon,Smith,WS,26,100,103,123,79,105,11,11,2,5,0,1,0,3,0, Full Time,hot,First goal... %s from %D and %T,,
+291802,Tomas,Bugg,WS,19,93,86,116,78,105,13,13,8,1,0,0,0,0,0, Full Time,news,%P and %M,job,Minding Sinclair
+11,Taylor,Adams,WS,20,85,93,109,71,105,10,16,4,5,0,0,3,0,0, Full Time,news,%D and %M with %T... also %F,,
+980011,Luke,Power,WS,10,81,98,101,65,90,12,12,4,2,0,1,0,0,0, Full Time,job,Has Elliott... %D and %M,,
+261231,Rhys,Palmer,WS,19,79,68,98,70,88,9,9,8,1,1,2,1,1,0, Full Time,tagger,Forward tag on Shaw... %s from %P and %M,,
+293845,Jeremy,Cameron,WS,15,75,58,94,65,78,12,2,7,0,0,2,1,2,3, Full Time,concussed,%s from %P and %G on Reid... concussed when his head ran into the knee of a teammate late in Q4,,
+280109,Callan,Ward,WS,14,73,72,92,63,94,10,15,3,3,1,0,3,0,0, Full Time,swan,%2 Swan... %B among %O with %T... also %F and %M,,
+290671,Anthony,Miles,WS,13,70,50,89,61,84,11,10,6,1,0,1,2,0,0, Full Time,news,%P and %M... also %F,,
+291720,Will,Hoskin-Elliott,WS,8,56,53,71,48,65,10,6,5,0,1,0,1,0,1, Full Time,news,Does not like a contest... %P and %M,,
+280804,Phil,Davis,WS,4,51,42,65,44,60,7,7,5,1,0,0,1,0,0, Full Time,news,%P and %M,job,Following Cloke
+24,Shaun,Edwards,WS,4,48,40,62,38,51,10,3,4,0,0,0,0,0,0, Full Time,news,%P and %M on Toovey,,
+291891,Jacob,Townsend,WS,4,44,33,58,35,49,5,5,3,3,0,0,1,0,1, Full Time,tagger,Forward role on Maxwell... %P and %T with %M and %s,,
+12,Sam,Frost,WS,3,40,59,50,33,45,5,6,3,1,0,0,0,0,0, Full Time,job,Standing Tarrant... %O and %M,,
+1,Jonathon,Patton,WS,3,37,39,49,28,37,5,2,3,2,0,0,0,0,1, Full Time,injured,Booted %s from %P and %G on Brown... also %T... left knee iced up at 3QT,subbed,Subbed off at 3QT for Haynes
+7,Nick,Haynes,WS,3,33,21,43,25,34,4,3,2,2,0,0,0,0,1, Full Time,news,On after 3QT for Patton,sub,Started as a sub
+294917,Israel,Folau,WS,3,31,31,35,28,35,3,4,1,0,10,0,0,0,1, Full Time,tonga,%H and %D plus %s,,
+291492,Josh,Bruce,WS,2,23,46,26,23,33,2,8,1,0,0,1,1,0,0, Full Time,in,%l Chad Cornes... %P,job,Has Dawes
+220105,Dane,Swan,CO,43,159,141,100,134,170,23,14,8,1,0,2,0,5,2, Full Time,star,%2 Ward... %P and %M plus %s including three majors in Q4,dttalk,The #1 captain option from Calvin of DT Talk
+240366,Travis,Cloke,CO,43,125,122,99,112,135,13,8,11,1,0,0,1,6,0, Full Time,target,Kicked %s from %P and %G on Davis,,
+260257,Scott,Pendlebury,CO,16,114,136,77,92,124,16,17,5,3,0,4,0,0,1, Full Time,magnet,Tagged by Treloar... %P and %M,,
+271001,Dayne,Beams,CO,27,113,109,75,95,128,16,14,6,2,0,0,1,2,2, Full Time,gun,%2 Greene... started slowly but lifted in Q2... %P and %M plus %s,,
+260394,Chris,Dawes,CO,32,110,87,105,94,114,8,9,11,4,6,1,0,2,0, Full Time,garbage,Booted %s from %G and %P on Bruce... also %T and %H... most of his numbers in junk time,,
+240232,Ben,Reid,CO,25,104,95,77,90,117,14,11,13,1,0,0,1,0,0, Full Time,bluemoon,%M and %O,job,Has Cameron
+240700,Heath,Shaw,CO,21,100,121,68,83,108,15,8,9,2,0,1,1,1,0, Full Time,hot,Forward tag on him by Palmer... %D and %M plus %T and %s,,
+293801,Jamie,Elliott,CO,21,95,86,55,81,104,16,6,8,0,0,0,1,2,2, Full Time,news,%s from %P and %M on Power,,
+280104,Jarryd,Blair,CO,20,89,89,66,74,99,11,12,6,2,0,0,0,1,0, Full Time,news,Started in midfield... %P and %M plus %s,,
+294826,Tom,Young,CO,18,85,81,53,72,96,13,12,7,0,0,1,0,0,0, Full Time,news,%O and %M,,
+980023,Chris,Tarrant,CO,24,80,51,68,70,86,8,7,10,1,0,0,0,1,2, Full Time,news,%s from %G and %D on Frost,,
+294733,Paul,Seedsman,CO,9,79,86,55,64,91,11,13,3,3,0,1,1,0,1, Full Time,news,%O and %T plus %M and %s,,
+230263,Nick,Maxwell,CO,15,75,80,50,60,81,11,8,4,2,0,0,0,1,0, Full Time,tagged,Forward tag on him by Townsend... %D plus %T and %s,,
+240300,Cameron,Wood,CO,12,74,92,73,66,79,4,7,5,3,22,2,1,0,0, Full Time,news,%H and %P with %M and %T,,
+260310,Nathan,Brown,CO,13,68,41,54,58,75,8,8,8,1,0,0,0,0,0, Full Time,job,Standing Patton... %P and %M,,
+240419,Alan,Toovey,CO,12,65,80,44,49,70,10,8,1,4,0,2,1,0,1, Full Time,job,Matched up on Edwards... %P and %T,,
+290821,Alex,Fasolo,CO,10,65,55,39,50,64,11,3,3,2,0,2,0,1,1, Full Time,news,%s from %D and %T... also %M,,
+272005,Marty,Clarke,CO,9,62,45,40,48,66,10,6,4,2,0,0,0,0,0, Full Time,news,Subbed on in Q3 for Mooney... %O and %M,sub,Started as a sub
+260246,Tyson,Goldsack,CO,11,60,76,46,55,72,7,7,5,1,0,0,2,2,0, Full Time,news,Up forward again on Hampton... %s from %D and %M,,
+250683,Simon,Buckley,CO,8,55,52,38,36,54,9,4,0,5,0,0,0,0,0, Full Time,news,%P and %T,,
+291386,Ben,Sinclair,CO,9,45,54,38,39,51,4,7,3,1,0,0,0,1,0, Full Time,bugg,Bugg on him... %s from %P and %M,,
+296732,Caolan,Mooney,CO,6,21,36,18,19,25,2,2,1,1,0,0,1,1,1, Full Time,news,%s from %O,subbed,Subbed off in Q3 for Clarke

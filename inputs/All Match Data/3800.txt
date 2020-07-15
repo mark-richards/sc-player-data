@@ -1,0 +1,48 @@
+Carlton,Blues,Sydney,Swans,R13,15.10.100,10.6.66, Full Time
+Jun 19,2011,2:10,Docklands,Seven,261009,10311307,5566,101,Roof closed,16,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>RobHarves</em>: Oops&#044; I was think Ezard<br><em>mesosexy</em>: all contested gandog<br><em>MontyJnr</em>: haha rikdawggs is just pimping on this site bro&#044; what a lad!<br><em>mrpotato</em>: judd with 40 odd sc last quarter&#044; all junk. what bullshower<br><em>asglongden</em>: elllard never played for essendon...<br><em>FunkyJunk1</em>: who is this dids people talk about?<br><em>Gandog</em>: ROK 109 sc. flower off<br><em>drevil</em>: im in love with u gtrainers&#044;keep the gold comin<br><em>RobHarves</em>: Didnt Ellard play for the Dons?<br><em>drevil</em>: maybe he meant didak<br><em>gtrainers1</em>: oh someone told me there is a player called dids?<br><em>lift_spud</em>: judd 92 SC. Get flowered&#044; what a load of shower.<br>
+261299,Matthew,Kreuzer,CA,34,133,150,166,108,137,13,11,6,7,13,3,1,2,1, Full Time,star,%s from %D and %M at CHF on Grundy... also %H,,
+250105,Marc,Murphy,CA,33,129,138,161,101,130,16,13,4,6,0,6,0,2,1, Full Time,gun,%2 McVeigh... %O and %T with %M and %s,,
+250417,Bryce,Gibbs,CA,32,127,124,163,101,133,22,8,10,2,0,0,0,1,1, Full Time,cherry,%O and %M plus %s,job,Not on Goodes as usual and instead has Reid
+240014,Andrew,Walker,CA,26,111,114,143,89,109,16,3,10,3,0,2,0,2,1, Full Time,hot,%D and %M,,
+290311,Mitch,Robinson,CA,21,102,106,132,79,106,15,7,5,5,4,1,1,1,0, Full Time,hot,%P with %k by foot... also %M and %T with %s,,
+990059,Heath,Scotland,CA,10,91,80,117,70,97,15,9,5,3,0,0,0,0,1, Full Time,news,%O,,
+220015,Andrew,Carrazzo,CA,14,88,100,116,65,87,13,6,5,5,0,2,0,0,0, Full Time,news,%O and %M,,
+220056,Chris,Judd,CA,20,85,92,106,69,96,10,13,3,4,0,1,1,1,0, Full Time,tagged,Tagged by Bird... %D and %M with %T and %s,,
+230202,Kade,Simpson,CA,14,79,75,106,59,82,12,5,5,5,0,0,1,0,1, Full Time,news,%D and %T with %M,,
+261043,Michael,Jamison,CA,13,78,87,101,62,81,12,6,7,2,0,1,0,0,0, Full Time,job,On Goodes at FB... %P,,
+271110,Chris,Yarran,CA,15,77,84,97,62,87,13,9,3,2,0,0,1,1,0, Full Time,job,Running off McGlynn... %D,,
+250090,Jordan,Russell,CA,14,76,82,100,57,75,9,6,5,5,0,2,0,0,0, Full Time,news,%M and %D,job,Matched up on Bolton
+270146,Ed,Curnow,CA,21,73,62,100,49,69,8,4,3,8,0,0,0,0,0, Full Time,news,%P,,
+261009,Nick,Duigan,CA,16,67,55,90,49,66,6,5,5,6,0,0,0,0,0, Full Time,news,%P and %T,,
+240060,Eddie,Betts,CA,5,61,57,80,47,62,8,4,5,3,0,0,0,0,2, Full Time,news,%D on Smith,,
+220108,Bret,Thornton,CA,10,57,74,75,45,60,6,6,4,4,0,2,1,0,0, Full Time,job,Has Roberts-Thomson,,
+261258,David,Ellard,CA,20,55,60,73,39,51,4,2,0,7,0,2,1,2,0, Full Time,concussed,%D and %T plus %s... got his head knocked in a tackle by Mumford in Q4 and he was in Koosbane,,
+270653,Jeff,Garlett,CA,14,50,60,63,40,51,4,4,1,4,0,2,1,2,0, Full Time,news,Shaw on him... %T,,
+270737,Shaun,Hampson,CA,9,46,62,56,45,59,1,7,3,3,17,0,3,0,0, Full Time,injured,%H and %D with %M and %F... sore right knee in Q3,subbed,Subbed off in Q3 for Houlihan
+270326,Lachie,Henderson,CA,9,43,48,53,36,46,3,5,3,2,1,0,0,1,0, Full Time,news,%D on Richards,,
+292511,Zach,Tuohy,CA,3,39,40,50,31,42,8,3,3,0,0,0,0,0,0, Full Time,irish,Matched up on Kennelly... %P,,
+200013,Ryan,Houlihan,CA,2,26,24,32,20,30,2,6,0,2,0,0,0,0,0, Full Time,news,On in Q3 for Hampson,sub,Started as a sub
+260382,Josh P.,Kennedy,SY,26,104,104,74,78,112,16,10,4,7,0,1,2,0,1, Full Time,hot,%D and %T with %M,,
+980073,Adam,Goodes,SY,21,91,104,76,79,102,10,8,9,3,0,0,2,2,0, Full Time,news,First goal... booted %s from %D and %T on Jamison,,
+240072,Heath,Grundy,SY,15,90,85,63,72,96,14,6,9,3,0,0,1,0,0, Full Time,news,%P and %M,job,Standing Kreuzer at CHB
+990011,Jude,Bolton,SY,27,90,85,87,71,99,7,13,4,7,0,0,1,1,0, Full Time,news,Playing forward on Russell... %D and %T,,
+200071,Ryan,O'Keefe,SY,30,88,103,78,67,102,9,16,1,8,0,0,2,0,0, Full Time,sore,Poke in the right eye in Q1... %O and %F,mrp,A bump on Murphy in Q1 will be scrutinised
+291450,Alex,Johnson,SY,14,84,81,41,68,90,18,2,9,1,0,1,2,0,0, Full Time,news,%P and %M,,
+290188,Samuel,Reid,SY,13,75,72,61,60,77,9,6,7,3,0,1,0,0,2, Full Time,news,%P on Gibbs,,
+290117,Daniel,Hannebery,SY,9,72,83,42,56,81,12,11,2,2,0,0,0,0,0, Full Time,news,%P,,
+261212,Craig,Bird,SY,21,67,58,65,47,63,6,4,2,7,0,1,0,1,0, Full Time,news,%P and %T plus %s,tagger,Tagging Judd
+240226,Kieren,Jack,SY,10,66,74,43,50,66,10,4,1,3,0,1,0,2,0, Full Time,news,%D and %s,,
+250338,Nick,Smith,SY,8,66,87,40,55,75,11,8,5,1,0,1,1,0,0, Full Time,job,Chasing Betts... %P,,
+280762,Shane,Mumford,SY,16,66,69,58,60,73,6,2,4,3,28,1,3,0,0, Full Time,news,%H,,
+200096,Tadhg,Kennelly,SY,13,63,81,52,50,72,7,11,2,4,0,1,1,0,0, Full Time,irish,Matched up on Tuohy as a forward... %O,,
+230140,Ben,McGlynn,SY,10,63,64,41,47,62,10,3,2,3,0,1,0,1,2, Full Time,news,%s from %O on Yarran,,
+210027,Ted,Richards,SY,9,61,60,47,53,69,8,6,8,1,0,0,1,0,0, Full Time,news,%M and %O,job,Standing Henderson
+220063,Martin,Mattner,SY,9,55,53,50,39,54,6,4,3,5,0,0,0,0,0, Full Time,news,%P and %T,,
+230132,Nick,Malceski,SY,11,51,50,39,44,58,7,3,5,2,0,0,2,1,1, Full Time,news,Playing forward to put the press on... %O,,
+200023,Rhyce,Shaw,SY,10,49,59,31,45,63,8,6,4,1,0,0,3,1,0, Full Time,switch,Following Garlett... %O and %M... kicked %s when switched forward in Q4,,
+230253,Jarrad,McVeigh,SY,8,46,46,28,38,57,8,7,2,2,0,0,2,0,0, Full Time,news,%2 Murphy... %P,,
+220101,Mark,Seaby,SY,3,33,46,34,27,32,2,0,1,3,14,1,1,0,0, Full Time,news,%H and %T,subbed,Subbed off in Q3 for Jetta
+220089,Lewis,Roberts-Thomson,SY,2,32,48,23,28,36,4,4,3,0,3,0,0,0,0, Full Time,news,%P and %M up forward on Thornton,,
+281281,Lewis,Jetta,SY,6,17,15,13,13,15,2,0,0,1,0,1,0,1,0, Full Time,news,On in Q3 for Seaby.... %s from %O,sub,Started as a sub

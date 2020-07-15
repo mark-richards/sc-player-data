@@ -1,0 +1,48 @@
+Geelong,Cats,North Melbourne,Kangaroos,R7,19.13.127,9.7.61, Full Time
+May 7,2011,2:10,Kardinia,Ten,250321,10310703,5508,49,Fine,17
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Salisbury</em>: how can swallow have eight tackles and only get SC 66?<br><em>wazzasmith</em>: thought selwood deserved a little more than 128<br><em>Jimmy B!</em>: Kelly SC suprises me..so to does Bartel's. SC scoring is so shower and why i didnt play for years and dont care bout it<br><em>wazzasmith</em>: bartel DID NOT deserve 113 SC<br><em>strikes91</em>: flame up wells<br><em>Judd_Dog5</em>: patience ppl. gee<br><em>Scotty1</em>: D.Wells 122 B.Rawlings 119 D.Pratt 118 B.Harvey 102 D.Petrie 96 S.Thompson 91 L.Anthony 75 S.McMahon 73 N.Grima 72 T.Gol<br><em>GoPies:D</em>: selwood 128 sc<br><em>Scotty1</em>: J.Kelly 130 J.Selwood 128 J.Podsiadly 117 J.Bartel 113 M.Stokes 105 J.Corey 101 P.Chapman 85 D.Milburn 84 A.Mackie 83 <br><em>Moondog21</em>: champion data are checking who their mates and leaders have before making up the scores<br><em>Lionkingz</em>: sc scores toss bag<br><em>Lionkingz</em>: sc scores toss bag\<br>
+230214,Mathew,Stokes,GE,37,132,109,162,112,142,18,12,10,1,0,1,0,3,1, Full Time,hot,%s from %O and %M,,
+250321,Joel,Selwood,GE,34,124,126,158,101,141,17,15,5,6,0,1,3,2,0, Full Time,star,%2 Harvey... %O and %M plus %s and %T... also %F,,
+220058,James,Kelly,GE,21,108,127,131,88,123,16,18,3,2,0,1,0,1,0, Full Time,hot,%O with %b by hand... also %M and %s,,
+200131,James,Podsiadly,GE,30,97,125,120,86,103,11,5,10,1,0,1,1,3,4, Full Time,news,First goal... %s from %G and %O on Firrito,sore,Minor knee knock in Q1
+960375,Darren,Milburn,GE,26,93,86,120,80,105,13,8,10,2,0,0,2,1,0, Full Time,news,%D and %T with %M plus a bonus %s,,
+200034,Joel,Corey,GE,16,91,99,114,74,102,11,13,4,4,5,1,1,0,1, Full Time,news,%D and %T with %M and %s,,
+220007,Jimmy,Bartel,GE,25,91,112,113,73,104,12,14,2,4,0,0,1,1,2, Full Time,garbage,%D with %b by hand plus %T.... Ziebell moved to tag him in Q2 then got subbed in Q3 to free Jimmy up,,
+230248,Andrew,Mackie,GE,19,83,84,107,68,90,15,5,7,1,0,0,1,1,0, Full Time,news,%P and %M with %T and %s,,
+200039,Paul,Chapman,GE,15,76,85,98,60,87,14,8,2,3,0,0,2,1,0, Full Time,news,Started forward on Pratt.. %s from %O and %F,,
+261497,Harry,Taylor,GE,13,74,82,94,63,81,11,7,9,0,0,0,0,0,0, Full Time,job,Has Pederson... %M and %D,,
+250290,Travis,Varcoe,GE,14,73,72,89,60,79,13,6,3,0,0,0,0,2,1, Full Time,news,%K among %D with %M and %s,,
+970006,Cameron,Mooney,GE,9,66,71,81,58,73,6,8,7,1,7,0,0,0,0, Full Time,news,Providing ruck support... %H and %D with %M,,
+210059,Josh,Hunt,GE,13,64,73,83,57,75,11,6,8,0,0,1,2,0,0, Full Time,news,%O and %M,,
+291307,Daniel,Menzel,GE,15,64,72,79,57,69,7,5,6,1,0,2,1,2,0, Full Time,news,%s from %P and %M,,
+200035,Corey,Enright,GE,8,63,76,83,51,72,14,5,4,1,0,1,2,0,0, Full Time,news,%D and %M with %F,,
+281065,Mitch,Duncan,GE,14,59,45,73,54,73,9,8,5,0,0,0,2,1,1, Full Time,news,%s from %D and %M... also %F,,
+990076,David,Wojcinski,GE,13,59,66,77,46,66,7,8,3,4,0,0,1,0,0, Full Time,news,%P and %M plus %T,,
+261510,Tom,Hawkins,GE,14,56,55,69,54,72,6,9,5,1,3,1,3,1,0, Full Time,news,Up forward on Grima... %D and %F with %G and %s,,
+980064,Brad,Ottens,GE,4,45,57,54,37,45,2,4,1,3,14,1,0,0,1, Full Time,news,%H and %P with %T and %s,subbed,Subbed off in Q3 for Christensen
+230125,Tom,Lonergan,GE,8,44,59,57,39,51,5,5,6,1,0,0,1,0,0, Full Time,job,Standing Petrie... %M and %O,,
+980037,Matthew,Scarlett,GE,4,44,65,57,33,45,7,4,2,2,0,1,0,0,0, Full Time,tagged,Forward tag on him by Wright... %O and %T with %M,,
+280918,Allen,Christensen,GE,4,43,24,54,36,48,5,7,2,2,0,3,1,0,0, Full Time,in,%l Steve Johnson (shoulder)... on in Q3 for Ottens... %O,sub,Started as a sub
+210039,Daniel,Pratt,NM,25,106,123,65,83,114,19,7,8,4,0,1,2,0,0, Full Time,hot,%P and %M with %T,job,Big job on Chapman
+990055,Brady,Rawlings,NM,20,105,118,81,89,123,12,20,6,3,0,2,1,0,0, Full Time,hot,%D and %M with %T,,
+230232,Daniel,Wells,NM,21,102,125,66,83,111,15,13,5,2,0,2,0,1,0, Full Time,news,%O and %M plus %s,,
+960491,Brent,Harvey,NM,20,101,100,76,85,117,12,18,7,2,0,0,0,0,0, Full Time,gun,%2 Selwood... %B among %O with %M and %T,,
+210023,Drew,Petrie,NM,27,91,102,80,76,94,9,4,8,4,0,0,1,3,1, Full Time,news,Booted %s from %P and %G on Lonergan but got double teamed way too often... also %T,,
+271129,Todd,Goldstein,NM,22,91,71,83,76,89,7,4,5,4,29,2,0,0,0, Full Time,news,%H and %D with %M and %T... did better after Ottens was subbed off in Q3,,
+260545,Liam,Anthony,NM,15,89,75,70,72,95,11,9,8,3,0,0,0,0,2, Full Time,news,%O and %M plus %s... also %T,,
+281395,Scott D.,Thompson,NM,14,74,89,64,60,84,8,11,4,5,0,2,2,0,0, Full Time,news,%P and %T with %M,job,On the resting ruckman at FB which is mostly Mooney
+240417,Andrew,Swallow,NM,24,71,65,76,55,81,4,14,1,8,0,2,2,0,0, Full Time,news,%P and %T,,
+290194,Jamie,MacMillan,NM,13,71,54,42,58,75,13,3,8,1,0,1,1,0,0, Full Time,news,%P and %M,,
+290787,Shaun,Atley,NM,13,71,56,60,53,75,8,9,3,5,0,0,0,0,0, Full Time,news,%D and %T with %M,,
+250135,Scott,McMahon,NM,9,69,77,47,52,69,11,4,5,3,0,1,0,0,0, Full Time,news,%M and %O with %T,,
+250285,Leigh,Adams,NM,13,67,52,57,54,76,7,11,3,4,0,1,1,0,1, Full Time,news,%D and %T,,
+240131,Nathan,Grima,NM,9,63,76,40,48,66,11,4,4,3,0,1,1,0,0, Full Time,tomahawk,Chasing Hawkins... %M and %D plus %T,,
+280300,Ben,Speight,NM,14,62,60,49,51,67,7,8,2,3,0,3,1,1,1, Full Time,news,%P and %T plus %s,,
+280864,Sam,Wright,NM,10,46,41,37,41,49,5,2,4,1,0,1,1,2,1, Full Time,tagger,Forward tag on Scarlett... %s from %D and %M,,
+261909,Lindsay,Thomas,NM,8,43,52,25,34,45,7,4,1,1,0,1,0,1,0, Full Time,news,%s from %O,,
+280944,Jack,Ziebell,NM,3,43,57,36,32,40,5,3,2,3,1,3,0,0,0, Full Time,tagger,Moved to tag Bartel in Q2... %P and %T with %M,subbed,Subbed off in Q3 for Cunnington
+292029,Cameron,Pedersen,NM,4,42,61,33,35,46,5,5,4,1,1,0,0,0,0, Full Time,bubble,Playing CHF on Taylor... %P and %M,,
+290547,Kieran,Harper,NM,9,40,31,23,33,45,7,3,2,1,0,0,1,1,0, Full Time,bubble,Second game... %s from %P and %M,,
+230272,Michael,Firrito,NM,4,37,31,26,34,45,5,6,4,0,0,1,1,0,0, Full Time,ipod,Standing Podisadly... %M and %P,,
+280921,Ben,Cunnington,NM,1,19,16,16,15,21,2,3,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Ziebell,sub,Started as a sub

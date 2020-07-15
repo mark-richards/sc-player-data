@@ -1,0 +1,48 @@
+Brisbane,Lions,Collingwood,Magpies,R7,8.10.58,17.14.116, Full Time
+May 12,2012,7:40,Gabba,Fox Sports,240013,10340706,430067,0,Fine,27,,
+
+<em>HotTiges84</em>: err The It_123 game over 20 mins ago<br><em>scotty95</em>: oh well<br><em>dmagnus</em>: Down arrow for rock<br><em>Sydney14</em>: 8 point sc quarter from Hanley&#044; well done champ<br><em>The It_123</em>: nice pendles&#044; shaw and sidey<br><em>feralmong</em>: 2046/18 4 premo's to go.<br><em>Leon88</em>: loving clarke<br><em>The It_123</em>: junk it cloke kick some goals<br><em>mpollock</em>: C'mon Swanny ... junk it up!!<br><em>KanyeWest</em>: yeezy taught you<br><em>Getit2jpod</em>: Lift swan <br><em>adz11</em>: ton it up clarke<br>
+281373,Jack,Redden,BL,36,121,118,157,91,127,14,14,6,8,1,0,0,0,0, Full Time,hot,Head to head with Swan to start then got Pendlebury in Q2... %O and %M with %T,,
+261222,James,Hawksley,BL,19,90,71,114,76,98,12,9,10,1,1,0,0,0,1, Full Time,news,%O and %M plus %s,,
+271072,Daniel,Rich,BL,16,85,93,111,65,87,16,4,4,3,0,2,1,1,0, Full Time,news,%O and %s,,
+200007,Jonathan,Brown,BL,20,82,70,100,73,89,9,7,9,0,0,0,0,2,2, Full Time,news,Booted %s from %G and %D on Reid,,
+980007,Simon,Black,BL,20,81,75,101,64,87,9,11,3,4,0,1,0,1,0, Full Time,news,%D and %T,,
+220062,Matt,Maguire,BL,13,76,102,101,58,75,12,3,7,3,0,1,0,0,0, Full Time,news,%M and %O with %T,job,Standing Cloke
+270919,Tom,Rockliff,BL,9,73,86,93,58,84,11,11,3,3,0,0,1,0,0, Full Time,news,%2 Sidebottom... %B among %P with %M,,
+210013,Ashley,McGrath,BL,9,65,76,84,53,71,10,6,5,2,0,1,1,0,2, Full Time,news,%B among %D with %M and %s up forward on Toovey,,
+260975,James,Polkinghorne,BL,10,61,36,82,45,58,8,2,5,4,1,1,0,0,0, Full Time,news,%O and %M,,
+291828,Billy,Longer,BL,15,58,56,66,55,64,3,4,3,1,31,0,1,0,0, Full Time,news,%H and %P,,
+240013,Andrew,Raines,BL,8,57,42,72,47,63,8,7,5,1,0,0,0,0,0, Full Time,news,%P and %M,tagger,Tagging Pendlebury in Q1 then went to Swan in Q2... back to Pendles in Q3
+290110,Mitchell,Golby,BL,8,56,65,73,48,69,10,8,3,2,0,2,3,0,0, Full Time,job,Minding Sinclair...%D and %M... also %F,,
+200121,Josh,Drummond,BL,5,54,80,69,43,57,7,6,4,2,0,1,0,0,0, Full Time,job,Standing Goldsack... %D and %M,,
+290738,Jared,Polec,BL,11,54,50,71,46,61,6,4,5,3,1,0,2,1,0, Full Time,news,%D and %M with %T,,
+270512,Pearce,Hanley,BL,7,52,81,64,42,60,8,9,2,1,0,0,0,0,0, Full Time,injured,%P and %M... hamstring pull in Q2,subbed,Subbed off at HT for Zorko
+281048,Ryan,Harwood,BL,4,48,49,60,39,54,5,8,3,2,0,0,0,0,0, Full Time,news,%D and %T with %M,,
+230147,Daniel,Merrett,BL,10,41,35,56,38,49,5,1,4,3,4,2,4,1,0, Full Time,news,%D and %T with %M up forward again on Maxwell,,
+290808,Patrick,Karnezis,BL,9,40,49,51,36,46,6,1,3,1,0,0,2,2,1, Full Time,news,%s from %D and %M on Brown,,
+271071,Todd,Banfield,BL,3,37,39,48,32,41,5,3,4,1,0,1,1,0,2, Full Time,news,%s from %O and %M on Clarke,,
+292508,Niall,McKeever,BL,3,35,54,41,36,51,3,11,3,0,0,1,2,0,0, Full Time,job,In defence on Keeffe... %P,,
+230170,Joel,Patfull,BL,3,30,45,40,22,30,4,2,2,2,0,0,0,0,0, Full Time,news,%O and %T with %M,,
+261224,Dayne,Zorko,BL,2,26,18,33,22,33,2,6,1,2,0,0,1,0,0, Full Time,rookie,First game... on in Q3 for Hanley... %D,sub,Started as a sub
+220105,Dane,Swan,CO,33,143,138,90,121,155,22,12,13,0,0,0,0,2,2, Full Time,magnet,%2 Redden to start with... copped the Raines tag in Q2 but went forward and broke it in Q3... %P and %M plus %s,dttalk,Calvin's #1 captain option this week
+271001,Dayne,Beams,CO,26,122,111,95,97,130,15,15,8,5,0,2,0,0,1, Full Time,cherry,Started slowly... %D and %T with %M and %s,,
+260257,Scott,Pendlebury,CO,20,119,108,72,89,125,20,13,3,5,1,2,0,0,1, Full Time,hot,Tagged by Raines in Q1 then head to head with Redden... %P and %T,rain,Raines returned to him in Q3
+280965,Steele,Sidebottom,CO,27,115,162,74,99,135,16,19,5,1,0,1,1,2,0, Full Time,star,%2 Rockliff... %D and %M plus %s,,
+240700,Heath,Shaw,CO,24,113,136,53,88,114,23,5,7,1,0,3,0,1,0, Full Time,hot,%P and %M plus %s,,
+210003,Alan,Didak,CO,30,110,70,70,84,113,18,7,6,4,0,0,0,1,2, Full Time,hot,%s from %D and %M with %T on Hanley,,
+240300,Cameron,Wood,CO,24,103,97,88,89,105,8,6,3,3,33,1,0,2,0, Full Time,hot,%H and %P with %M and %s,,
+240073,Harry,O'Brien,CO,19,91,118,74,78,108,9,19,6,2,0,0,0,0,0, Full Time,brazil,%B among %O,,
+272005,Marty,Clarke,CO,14,91,91,67,73,99,12,12,6,3,0,1,0,0,0, Full Time,garbage,Racked it up in junk time after starting slowly... %P and %T with %M,job,Minding Banfield
+230263,Nick,Maxwell,CO,14,83,78,52,69,92,14,7,7,2,2,2,2,0,0, Full Time,job,Responsible for Merrett... %P and %M,,
+280104,Jarryd,Blair,CO,20,79,87,75,61,87,6,15,2,6,0,1,0,0,0, Full Time,news,%O and %T,,
+261799,Sharrod,Wellingham,CO,15,76,89,44,67,94,13,10,5,1,0,0,3,1,1, Full Time,news,%D and %M with %F... also %s,,
+291386,Ben,Sinclair,CO,16,76,86,51,63,81,11,6,4,2,0,2,1,2,0, Full Time,news,%s from %P and %M on Golby... also %T,,
+240419,Alan,Toovey,CO,13,72,88,49,57,76,11,6,6,2,0,0,0,0,1, Full Time,job,Minding McGrath... %P and %M plus %s,,
+240366,Travis,Cloke,CO,16,71,72,48,62,78,11,2,8,1,0,0,2,2,0, Full Time,news,First goal... %s from %D and %G on Maguire,,
+260246,Tyson,Goldsack,CO,20,65,70,65,51,64,4,4,2,5,1,0,0,3,0, Full Time,garbage,%s from %P and %T on Drummond.. two of those goals very late in Q4,,
+250683,Simon,Buckley,CO,8,61,59,37,49,67,10,7,4,1,0,0,0,0,1, Full Time,news,%O and %M,,
+240232,Ben,Reid,CO,12,58,67,37,49,63,9,6,6,0,0,1,0,0,0, Full Time,job,On Brown... %P and %M,,
+294733,Paul,Seedsman,CO,8,51,59,42,48,66,5,12,4,1,0,2,2,0,0, Full Time,news,%O and %M... also %F,,
+290314,Lachlan,Keeffe,CO,10,46,67,34,42,53,6,3,4,1,5,1,2,1,0, Full Time,news,Playing forward on McKeever... %P and %M... also %H,,
+291883,Peter,Yagmoor,CO,4,44,29,21,35,46,9,2,4,0,0,0,0,0,1, Full Time,in,%l Chris Dawes... on in Q2 for Reid... %D,sub,Started as a sub
+260310,Nathan,Brown,CO,0,18,20,12,13,18,3,1,1,1,0,0,0,0,0, Full Time,injured,Has Karnezis... %O... left knee twisted under O'Brien in Q2,subbed,Subbed off in Q2 for Yagmoor

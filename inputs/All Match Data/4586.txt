@@ -1,0 +1,48 @@
+Fremantle,Dockers,Port Adelaide,Power,R22,21.8.134,9.6.60, Full Time
+Aug 24,2013,7.40,Subiaco,Seven,210020,10392206,fre-v-port,0,Fine,25,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> boges11</em>: I dropped 77 points just on this match to my opp<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Jukes82</em>: the fyfe hulk was premature<br><em style='color:#000'>J.Worrall</em>: keep yer sunny side up!<br><em style='color:#000'>J.Worrall</em>: were happy little vegemites&#044; Jackina<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> W.Mantooth</em>: monty&#044; lobbe has played a great game but no icon?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> frenzy</em>: barlow barlow barlow. the costly flog barlow<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> boges11</em>: I apologise to everyone for getting in pearce and mayne this week and ruining their scores<br><em style='color:#000'>Jackina</em>: so many angry people&#044; I've posted this before...<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> SteveFTW</em>: barlow has cost me my match in a game his team wins by 80 odd points... wheres the junk..<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> tomzoy</em>: barlow you flowering shower cow<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> owens4</em>: cornes needs 1 more kick<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> lift_spud</em>: shower second half barlow you flog<br>
+290251,Zachary,Clarke,FR,29,105,134,121,94,108,7,8,5,2,30,3,0,2,0, Full Time,star,Back in #1 ruck role with no Sandilands again... %H and %D with %M... %s and %T as well,,,372500,23,440000,37,Ruck,30,13,83.3,93.4,5.48,2.61
+260069,Hayden,Ballantyne,FR,22,104,114,130,85,106,15,4,5,3,0,2,1,4,1, Full Time,heart,First goal... %s from %P and %T on Jonas... freshened up his already sore shoulder with a knock in Q3,,,358300,66,373300,72,Forward,1,17,69.5,70.1,1.36,1.24
+200032,Matthew,Pavlich,FR,27,102,114,121,91,109,7,11,8,2,0,2,0,4,1, Full Time,vulture,Booted %s from %P and %M on Trengove... most of his scoring in second half junk time,,,372100,75,436800,110,Forward,29,7,74.4,80,3.37,2.99
+291570,Nathan,Fyfe,FR,24,96,122,124,78,109,14,11,6,4,3,0,2,0,1, Full Time,hulk,Tagged by Moore... %P and %T plus %M and %s... %H as third man up as well... had a massive Q1 proving the tag was not particularly tight,,,462700,138,529900,146,Centre,7,18,98.1,105.6,15.36,19.69
+240052,David,Mundy,FR,25,95,100,124,70,102,13,12,2,7,0,1,1,0,0, Full Time,news,%2 Ebert... %O and %T,,,448100,103,493900,89,Centre,16,18,98.1,103.9,3.40,5.12
+293535,Lachie,Neale,FR,20,93,127,113,76,106,13,15,3,2,0,0,0,1,1, Full Time,news,%s from %O and %T starting forward on Colquhoun... also %M,,,353100,10,412700,23,Centre,27,7,77,85.1,0.95,0.55
+230048,Ryan,Crowley,FR,26,91,80,119,67,91,12,6,4,6,0,0,0,1,1, Full Time,news,%D and %T with %M and %s,tagger,Tagging Boak,275000,33,284100,26,Centre,15,20,54.8,55.8,1.47,1.60
+250063,Danyle,Pearce,FR,14,84,78,108,66,91,18,7,4,1,0,2,1,0,1, Full Time,tagged,Tagged by Cornes... %O and %s,,,396300,40,408200,40,Back Centre,6,20,81.6,82.3,10.20,6.69
+271015,Matthew,de Boer,FR,43,79,70,108,56,84,5,10,2,11,0,0,2,0,0, Full Time,news,Playing a HFF on Broadbent... %O and %T... %M and %F as well,,,347600,69,394000,90,Forward Centre,9,20,76.4,75.9,1.70,1.42
+291792,Thomas,Sheridan,FR,16,78,62,96,64,81,10,7,4,2,0,2,0,2,0, Full Time,news,On in Q2 for Suban... %O and %M,sub,Started as a sub,189500,-22,189300,-18,Centre,11,7,51.3,49.3,1.22,0.78
+292026,Michael,Barlow,FR,19,77,94,96,61,87,10,12,1,4,0,1,1,1,0, Full Time,yinyang,%D including %b by hand... also %T and %s... dropped off from his normally prolific pace in the second half,,,496900,101,546600,118,Centre,21,19,108.6,113.2,24.38,12.95
+281007,Michael,Walters,FR,17,76,109,94,64,79,10,4,4,2,0,2,1,3,1, Full Time,news,%s from %D and %M on O'Shea... also %T,sore,Left AC joint knock in Q2... right leg knock in Q3,375900,62,416300,55,Forward,10,17,82.4,87.7,3.56,1.49
+240139,Paul,Duffield,FR,14,75,68,101,64,87,13,5,9,2,0,0,3,0,0, Full Time,job,Responsible for Heath.... %P and %M... %T and %F too,,,323300,23,343100,56,Back,41,17,79.5,82.8,3.87,4.97
+280416,Chris,Mayne,FR,10,74,81,93,61,84,9,12,4,3,0,2,1,0,0, Full Time,news,%P and %M with %T on Pittard,,,438000,84,478000,68,Forward,23,20,87.2,92.5,6.51,4.10
+280726,Tendai,Mzungu,FR,14,71,63,92,56,79,9,9,4,4,1,0,1,0,0, Full Time,news,Quiet Q1 with just one handball... %D and %M with %T,,,404300,79,418100,70,Centre,13,20,79.6,80.5,1.39,0.86
+230107,Michael,Johnson,FR,14,68,98,86,55,72,13,4,5,0,0,0,0,1,0, Full Time,news,%P and %M,job,Following Westhoff,385200,70,430300,113,Back,37,20,82.7,86.4,3.38,1.79
+290733,Cameron,Sutcliffe,FR,15,61,81,78,57,81,8,10,5,2,0,0,4,1,0, Full Time,news,%P and %M.... %F as well,,,191800,52,197800,44,Centre,33,14,44.5,42.6,0.56,0.38
+280336,Stephen,Hill,FR,8,59,82,73,49,72,10,11,2,1,0,0,1,0,0, Full Time,job,On a HBF on Mitchell... %O,,,349500,43,438200,80,Centre,32,15,71.3,86.2,1.85,0.93
+240266,Lee,Spurr,FR,8,52,49,70,44,60,12,2,6,0,0,0,2,0,0, Full Time,job,Minding Neade... %P and %M,,,314200,69,330800,50,Back,34,19,71.9,73.6,0.90,0.75
+240552,Zac,Dawson,FR,4,38,31,50,30,39,4,3,4,2,0,0,0,0,0, Full Time,job,Standing Schulz... %P and %T,,,173300,40,261600,44,Back,3,20,33.8,47.3,3.40,1.81
+281105,Jack,Hannath,FR,8,36,33,41,34,41,4,4,1,0,8,2,1,1,0, Full Time,news,Starting forward on Carlile... %H,,,170900,44,206000,63,Ruck,38,10,38.9,47.6,5.22,5.63
+270908,Nick,Suban,FR,1,16,29,19,13,18,1,4,0,1,0,1,0,0,0, Full Time,injured,%O... right hamstring pull in Q2,subbed,Subbed off in Q2 for Sheridan,369300,54,443800,70,Back,8,18,70.7,75.4,4.15,4.46
+261230,Matthew,Lobbe,PA,62,136,127,143,104,134,8,6,1,15,43,2,3,0,1, Full Time,cherry,%H and %D with %T and %s,,,431100,51,471700,35,Ruck,23,17,78,84.1,1.40,0.85
+261396,Robbie,Gray,PA,30,119,115,78,92,123,19,9,6,5,0,3,1,1,0, Full Time,hot,%P and %M plus %T,,,351400,86,426900,94,Forward Centre,9,17,69.5,80.1,3.95,4.37
+290156,Jasper,Pittard,PA,26,111,87,95,86,117,13,10,9,7,0,0,1,0,0, Full Time,hot,%P and %T with %M,job,Big job following Mayne,254900,69,297200,75,Back,29,13,54.8,61.8,9.08,10.79
+210020,Kane,Cornes,PA,19,100,96,59,81,111,17,12,6,2,0,2,1,0,0, Full Time,hot,%P and %M with %T,tagger,Tagging Danyle Pearce,449200,91,444400,80,Centre,18,19,105.1,104.2,9.33,5.77
+295054,Sam,Colquhoun,PA,24,87,93,69,63,84,12,4,6,6,0,1,0,0,0, Full Time,job,Neale is his man... %P and %M with %T,,,182000,-23,191500,-15,Centre Back,30,6,51,47.8,15.65,12.73
+280750,Andrew,Moore,PA,26,85,88,66,64,90,11,9,2,6,0,1,1,1,0, Full Time,news,%D and %T with %M,tagger,Tagging Fyfe,317400,39,316600,47,Centre,26,13,67.5,65.8,0.21,0.18
+260750,Justin,Westhoff,PA,14,84,97,61,69,92,11,11,6,2,2,1,0,0,0, Full Time,news,%D and %M on Johnson... also %H,,,363300,52,424200,76,Forward,39,19,87.1,96.9,8.16,7.95
+294318,Oliver,Wines,PA,20,82,72,69,61,87,9,12,2,6,0,1,0,0,0, Full Time,news,%O and %T with %M,,,296200,99,296900,82,Centre,16,20,73.9,74.3,16.52,17.58
+291962,Chad,Wingard,PA,15,78,77,52,65,84,11,9,5,1,0,2,0,1,0, Full Time,injured,%O and %M plus %s... left thigh iced up in Q3,subbed,Subbed off in Q3 for Young,404300,107,521200,149,Centre,20,20,89.1,100.1,6.10,8.01
+270606,Kane,Mitchell,PA,19,76,65,58,56,75,10,6,2,5,0,2,0,1,0, Full Time,news,%s from %O and %M starting forward on Hill... also %T,,,263200,80,264400,102,Centre,37,12,46.4,42.8,6.82,6.37
+261911,Brad,Ebert,PA,19,73,75,55,59,78,10,5,6,3,0,0,1,1,0, Full Time,sore,%2 Mundy... %P and %M plus %T... also %s... right hamstring soreness in Q3,,,440000,68,457700,86,Centre,7,20,99.8,96.8,2.47,0.84
+240290,Angus,Monfries,PA,15,72,58,57,60,79,8,9,5,2,0,0,0,1,1, Full Time,news,%P and %M,,,378000,27,461800,52,Forward Centre,6,20,82.3,92.8,10.21,13.75
+250365,Travis,Boak,PA,12,66,70,52,48,70,8,10,0,5,1,1,0,0,0, Full Time,news,%O and %T,creepy,Tagged by Crowley,473000,33,544500,61,Centre,1,19,102.4,108.8,4.34,3.23
+271078,Matthew,Broadbent,PA,9,66,70,53,54,75,8,9,5,3,0,0,1,0,0, Full Time,news,%P and %M plus %T,job,Starting on a HBF on de Boer,313800,62,374700,60,Centre,5,20,71.1,77.8,0.58,0.65
+294604,Jake,Neade,PA,19,55,51,53,38,51,5,3,1,6,0,1,0,1,0, Full Time,news,%s from %P and %T on Spurr,,,169800,60,182000,80,Forward Centre,32,15,46,50.3,14.65,15.00
+230195,Jay,Schulz,PA,14,54,53,46,44,54,6,2,6,2,0,0,0,1,0, Full Time,concussed,%s from %D and %M on Dawson... hit his head on the ground in Q3 after flying for a mark but played on,,,389300,84,433800,80,Forward,28,20,77.1,85.3,2.14,2.05
+292145,Thomas,Jonas,PA,7,48,31,32,41,58,7,8,3,1,0,0,1,0,1, Full Time,job,Minding Ballantyne... %P and %M plus %s,,,219400,77,262600,79,Back,42,17,45.9,55,0.45,0.49
+290171,Campbell,Heath,PA,7,42,39,39,32,43,4,5,1,4,0,3,1,0,1, Full Time,news,Starting forward on Duffield... %s from %P and %T,,,212200,24,234700,38,Back,3,11,53.9,58.1,2.88,2.94
+290540,Cameron,O'Shea,PA,8,42,49,41,35,54,3,11,0,4,0,1,2,0,0, Full Time,job,Takes Walters... %P and %T,,,338400,63,352400,78,Back,13,20,72,73.8,3.25,4.15
+290546,Aaron,Young,PA,9,37,30,30,35,48,4,6,3,1,0,0,2,1,0, Full Time,news,On in Q3 for Wingard... %P,sub,Started as a sub,181600,,225600,,Forward,40,1,58,63,0.80,0.26
+280013,Jackson,Trengove,PA,2,21,20,14,23,34,4,3,3,1,1,1,4,0,0, Full Time,job,Following Pavlich... donuts in Q1... %P and %M... %F as well,,,230000,38,282600,40,Back,12,13,48,56.8,0.54,0.54
+250688,Alipate,Carlile,PA,1,13,18,15,13,21,0,6,0,1,0,0,1,0,0, Full Time,job,Standing Hannath... %O,,,199800,46,244300,65,Back,27,19,48.8,60.5,1.79,0.62

@@ -1,0 +1,56 @@
+Hawthorn,Hawks,Fremantle,Dockers,W1,1.4.4.37,0.3.5.23, Half Time
+Feb 13,2011,8:50,Subiaco,Fox Sports,,10300108,1111112046195,5263,Fine,29
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>RedRaven</em>: Broughten should be a lock in any DT backline.<br><em>omatty</em>: Yeah you are right BBosCo - It's not like Broughton isn't known after 5 years of being a gun<br><em>Galimaufry</em>: is fyfe injured?<br><em>yogibbear</em>: WHY ARE ALL MY PLAYERS IN MY DT SIDE GUNNING IT??? I wanted them to be unique-ish i.e. < 30% of teams :(<br><em>run2dmax</em>: So&#044; any one know anything of the Hawks. Schneider going to play much this year. 2 good games tonight<br><em>maanco</em>: freo may play two rucks&#044; cause clarke did very well<br><em>chrissy_J</em>: i guess.  they are "pools" after all and only one can win this pool<br><em>byjingoes</em>: BBosCo&#044; a good DT will have Broughton&#044; and would already have known that before tonight. It was no secret<br><em>mjbt</em>: Top of each group and next best 2 qualify for quarters<br><em>cmgb84</em>: @ chrissy_j - well one team will have to finish on top of the group still<br><em>run2dmax</em>: BBosCo&#044; I'd be worried if people are choosing him from one NAB Cup game :P<br><em>McRooster</em>: This format highlights tagging match up fade outs - Shiels sucks against Mzungu - coaches will exploit<br>
+270732,Matt,Suckling,HW,3,45,-,57,36,48,9,4,3,0,0,1,0,0,0, Half Time,news,%D with %k by foot... also %M
+210012,Shaun,Burgoyne,HW,2,37,-,48,29,39,6,3,3,1,0,0,0,0,0, Half Time,news,%K among %P with %M
+280471,Ben,Stratton,HW,3,36,-,47,28,36,2,4,3,3,0,1,0,0,0, Half Time,job,Standing Anthony... %D and %M with %T
+280858,Shane,Savage,HW,9,36,-,46,29,36,3,2,3,2,0,0,0,1,0, Half Time,news,First goal... %P and %T plus %s
+280612,Will,Sierakowski,HW,3,35,-,46,28,36,5,2,4,1,0,0,0,0,0, Half Time,job,Chasing Mayne... %P and %M
+291537,Thomas,Schneider,HW,3,33,-,42,28,39,7,4,2,0,0,1,1,0,0, Half Time,news,%P with %k of those by foot... also %M
+260955,Cyril,Rioli,HW,2,32,-,41,25,33,5,3,2,1,0,1,0,0,0, Half Time,news,Ran off a HBF... %O and %M
+290085,Taylor,Duryea,HW,3,31,-,40,24,31,3,3,2,2,0,1,0,0,1, Half Time,news,%P and %M with %T and %s
+260710,Paul,Puopolo,HW,2,30,-,39,21,30,3,4,0,3,0,1,0,0,0, Half Time,news,%B among %O with %T
+270215,Kyle,Cheney,HW,2,27,-,33,23,30,4,4,2,0,0,1,0,0,0, Half Time,news,%P and %M
+294178,Angus,Litherland,HW,1,26,-,34,19,24,7,0,1,0,0,2,0,0,0, Half Time,news,%P including %k by foot
+280744,Luke,Breust,HW,6,25,-,30,21,25,2,2,1,1,0,1,0,1,1, Half Time,news,%s from %O
+281032,Jordan,Williams,HW,8,25,-,29,24,30,3,2,1,0,0,0,1,2,0, Half Time,news,%D and %s
+280737,Liam,Shiels,HW,2,24,-,32,16,24,4,2,0,2,0,0,0,0,0, Half Time,news,Matched up on Mzungu... %P and %T
+250664,Travis,Tuck,HW,2,22,-,28,16,23,2,3,0,2,2,0,0,0,0, Half Time,news,%D and %H helping out in ruck... also %T
+294877,Isaac,Smith,HW,0,22,-,33,17,21,3,1,0,1,0,1,0,0,0, Half Time,news,%P plus a ninepointer in a HFF role
+290730,Nathan,Ahmat-Watkins,HW,6,21,-,30,12,18,1,1,0,4,0,0,0,0,0, Half Time,news,%D and %T
+280059,Riley,Milne,HW,2,20,-,26,18,25,4,2,2,0,1,0,1,0,0, Half Time,news,%D and %M
+294199,Sam,Menegola,HW,0,12,-,15,9,12,1,2,0,1,0,1,0,0,0, Half Time,news,%P
+261386,Brendan,Whitecross,HW,0,10,-,14,9,13,3,0,1,0,0,0,1,0,1, Half Time,news,%P and %s
+292013,Sam,Grimley,HW,0,9,-,12,6,8,1,0,0,1,2,0,0,0,0, Half Time,news,%H
+270936,Jordan,Lisle,HW,0,6,-,8,7,10,1,1,1,0,0,0,1,0,1, Half Time,news,Booted %s from %O on Silvagni
+281301,Ryan,Schoenmakers,HW,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Half Time,news,Playing forward on Grover
+250146,Thomas,Murphy,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub... not used
+250308,Brent,Renouf,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub... not used
+290669,Jack,Mahony,HW,0,-3,-,-3,-1,0,0,0,0,0,0,0,1,0,0, Half Time,news,No stats apart from 1 FA
+261756,Greg,Broughton,FR,10,59,-,55,43,57,6,4,4,5,0,1,0,0,0, Half Time,hot,%P and %T with %M
+260315,Jack,Anthony,FR,14,51,-,47,38,47,5,1,3,4,0,1,0,1,2, Half Time,hot,Booted %s from %P on Stratton... also %T and %M
+280726,Tendai,Mzungu,FR,3,45,-,31,37,51,6,8,2,1,0,1,0,0,0, Half Time,hot,Matched up on Shiels... %P including %b by hand... also %M
+290251,Zac,Clarke,FR,4,45,-,47,37,50,2,8,2,3,4,0,0,0,1, Half Time,news,%H as #1 ruck... also %P and %T plus %s
+230048,Ryan,Crowley,FR,8,40,-,30,35,45,5,4,3,1,0,1,1,1,0, Half Time,news,Starting forward... %s from %P and %M
+210037,Adam,McPhee,FR,3,35,-,32,28,39,3,6,2,2,0,0,0,0,0, Half Time,news,%O and %T
+260713,Nick,Lower,FR,3,34,-,26,28,39,4,6,2,1,0,0,0,0,0, Half Time,news,%P and %M
+261231,Rhys,Palmer,FR,2,33,-,18,27,36,6,3,3,0,0,0,0,0,0, Half Time,news,%D
+271433,Alex,Silvagni,FR,3,31,-,22,26,33,5,1,4,1,0,1,1,0,0, Half Time,job,Standing Lisle... %D and %M
+230107,Michael,Johnson,FR,2,30,-,15,24,30,6,1,3,0,0,1,0,0,0, Half Time,news,%O and %M
+250088,Jonathon,Griffin,FR,3,29,-,19,25,31,4,2,2,0,7,0,0,0,0, Half Time,news,%H and %D with %M
+240139,Paul,Duffield,FR,2,27,-,20,19,27,4,2,1,2,0,0,0,0,0, Half Time,news,%D and %T
+280386,Clancee,Pearce,FR,2,26,-,22,19,27,3,3,1,2,0,0,0,0,0, Half Time,job,Minding Bruest... %O and %T
+230011,Kepler,Bradley,FR,7,25,-,20,20,24,3,0,2,1,0,0,0,1,0, Half Time,news,Playing FF... %D
+270681,Jay,van Berlo,FR,2,23,-,17,20,25,3,2,3,0,0,0,0,0,1, Half Time,news,%s from %D and %M
+290296,Jesse,Crichton,FR,2,21,-,21,17,24,2,2,2,2,0,0,1,0,0, Half Time,news,%P and %M with %T
+291560,Josh,Mellington,FR,1,21,-,16,16,18,3,0,2,1,0,2,0,0,0, Half Time,news,Looked a bit overawed... %P and %M
+230194,Byron,Schammer,FR,1,20,-,15,18,25,2,5,1,0,0,0,0,0,1, Half Time,sore,Playing as a small forward... %s from %D... copped a knock to shoulder and ear in Q1
+990092,Antoni,Grover,FR,1,20,-,14,17,21,3,1,3,0,0,0,0,0,0, Half Time,job,Following Schoenmakers... %M and %O
+291446,Viv,Michie,FR,2,18,-,11,17,24,3,3,2,0,0,0,1,0,0, Half Time,news,%D and %M
+270908,Nick,Suban,FR,1,15,-,3,11,15,4,1,0,0,0,1,0,0,0, Half Time,news,%K among %P
+250301,Peter,Faulks,FR,1,13,-,9,11,12,2,0,2,0,0,1,0,0,0, Half Time,news,Not hugely influential... %P and %M
+281154,Justin,Bollenhagen,FR,0,10,-,8,9,12,1,2,1,0,0,0,0,0,0, Half Time,news,%P
+280416,Chris,Mayne,FR,0,2,-,-1,3,6,1,1,0,0,0,0,1,0,0, Half Time,news,%O on Sierakowski
+200032,Matthew,Pavlich,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub... not used
+220096,Aaron,Sandilands,FR,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub... not used

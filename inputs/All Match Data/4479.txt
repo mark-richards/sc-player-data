@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Gold Coast,Suns,R9,18.10.118,14.8.92, Full Time
+May 26,2013,1.10,MCG,Seven,220073,10390907,haw-v-gcfc,0,Possible shower,17,,
+
+<em>Raveneyes</em>: m0nty did you watch the game? GAJ clear B.O.G.<br><em>MudDawg</em>: Roughy should have the Vulture icon&#044; does it every week.<br><em>eski_liddr</em>: Wouldnt say buddy is a champ- far from it...an ok footy player though<br><em>Drak</em>: liam shiels star with 76 butchered sc points<br><em>kuraban</em>: Shiels 76? Shenanigans.<br><em>Sydney14</em>: lmao at shiels star&#044; ablett clear bog<br><em>9robbo9</em>: well done roughy trash can him monty<br><em>BigBuds</em>: well said Bud&#044; what a champ<br><em>JoeMontana</em>: why no bin for hawk spuds&#044; joke!<br><em>DoctorRush</em>: @scrappers. JoM 76. I just hope Jones plays like the last few weeks.<br><em>dashurg</em>: star*<br><em>gambler</em>: Where is ScottD now?<br>
+250089,Jordan,Lewis,HW,22,122,121,150,103,136,13,18,9,3,7,1,0,0,0, Full Time,magnet,%P and %M with %T,,,436000,91,466100,66,Forward Centre,3
+291351,Jack,Gunston,HW,31,114,107,145,96,124,12,12,11,4,0,1,1,1,1, Full Time,hot,Kicked %s from %P and %M on Hutchins,,,334800,4,402100,12,Forward,19
+240399,Lance,Franklin,HW,32,108,98,132,94,119,14,7,6,2,0,0,2,5,2, Full Time,x-factor,%s from %P and %M on Thompson... also three out on the full... looked massively out of touch early... lifted in Q3 back to his best,,,380100,100,443100,73,Forward,23
+250652,Jonathan,Simpkin,HW,16,107,112,133,85,120,16,17,4,3,0,1,0,0,0, Full Time,hot,%O including %B wiht %T and %M... double figures in Q3,,,203300,22,209600,19,Centre,32
+280737,Liam,Shiels,HW,20,107,78,140,82,107,17,6,8,4,0,2,0,0,2, Full Time,star,%D and %M plus %s... 11 of those touches in a productive Q1,,,360100,75,351000,50,Centre,26
+260472,Max,Bailey,HW,33,106,120,124,92,108,6,9,4,4,33,3,0,1,0, Full Time,hot,%H and %D with %M and %s,,,301100,77,367000,62,Ruck,39
+220073,Sam,Mitchell,HW,26,103,109,125,87,126,16,20,2,2,0,1,2,1,0, Full Time,hot,%2 Brennan... %O,,,492800,102,545900,111,Centre,5
+280471,Ben,Stratton,HW,26,103,82,133,81,108,10,12,8,6,0,1,0,0,0, Full Time,hot,%D including %B with %M,job,Has May,329400,57,355600,67,Back,24
+250715,Josh,Gibson,HW,19,99,97,126,78,108,15,12,6,3,0,0,0,0,0, Full Time,heart,%P and %M with %T... left ankle knock in Q1,job,Running off Lonergan,325300,23,388300,60,Back,6
+220047,Luke,Hodge,HW,15,88,75,113,67,94,17,7,2,3,0,1,1,1,1, Full Time,news,%D and %s,job,Starting in defence on Matera,436100,69,514300,100,Centre,15
+240357,Jarryd,Roughead,HW,22,87,95,103,80,103,9,11,5,1,7,0,2,3,0, Full Time,garbage,%s from %P and %M... much of his scoring in late garbage time,,,453800,39,532600,64,Forward Ruck,2
+210012,Shaun,Burgoyne,HW,20,83,95,97,69,93,8,14,0,3,0,1,0,3,0, Full Time,news,Started in midfield... %B among %O plus %s... moved forward in Q3 which worked,,,398900,79,423000,98,Back Centre,9
+295584,Bradley,Hill,HW,14,83,79,109,59,84,14,7,2,5,0,1,0,0,0, Full Time,news,%D and %M on Murphy,sore,Knock to the ribs by Swallow in Q3,281700,80,270900,89,Centre,10
+292013,Sam,Grimley,HW,17,81,82,99,70,86,7,7,7,2,11,0,0,1,0, Full Time,news,First goal... %s from %P and %M on Day... also %H,subbed,Subbed off at 3QT for Duryea,108500,,115900,,Ruck,35
+294877,Isaac,Smith,HW,15,76,57,97,65,95,9,14,4,4,1,0,3,0,1, Full Time,news,%D and %M plus %s,,,393200,120,388300,100,Centre,16
+230197,Brad,Sewell,HW,18,69,61,91,50,75,9,9,1,6,0,0,1,0,0, Full Time,news,%P,,,382900,76,444000,105,Centre,12
+260710,Paul,Puopolo,HW,14,64,64,78,53,72,5,11,3,3,0,0,0,1,0, Full Time,news,%O and %M on Stanley,,,276200,35,313800,54,Forward,28
+280744,Luke,Breust,HW,14,60,76,75,50,69,6,9,3,3,0,0,1,1,0, Full Time,news,%s from %D and %M on Swallow,,,384300,100,466400,112,Forward,22
+220039,Brian,Lake,HW,8,59,74,77,50,66,9,5,7,1,0,0,1,0,0, Full Time,job,Standing Lynch... %O and %M,,,345800,59,389300,63,Back,17
+200060,Brent,Guerra,HW,8,57,49,71,46,63,7,9,3,2,0,1,0,0,0, Full Time,job,Responsible for Brown... %D,,,334100,68,406900,69,Back,18
+270215,Kyle,Cheney,HW,9,55,46,75,40,57,7,4,3,5,0,0,1,0,0, Full Time,news,%D and %M,in,Late replacement for Grant Birchall,209500,,250600,,Back,13
+290085,Taylor,Duryea,HW,1,16,7,22,12,15,2,0,2,1,0,0,0,0,0, Full Time,news,On after 3QT for Grimley,sub,Started as a sub,215700,3,235200,7,Centre,41
+220001,Gary,Ablett jnr,GC,38,139,149,111,115,157,14,23,4,5,0,0,0,3,1, Full Time,gun,%P and %M plus %T and %s... spent a fair bit of time forward but still racked it up,,,585900,97,695100,153,Centre,9
+290627,Dion,Prestia,GC,27,117,118,75,93,127,18,14,4,4,0,3,1,1,1, Full Time,hot,%B among %P... also %s,,,434700,71,461700,46,Centre,10
+290817,Brandon,Matera,GC,20,101,82,60,77,100,18,3,7,3,0,1,0,1,1, Full Time,hot,%s from %P and %M on Hodge,,,283000,61,266700,56,Forward,32
+294613,Jaeger,O'Meara,GC,21,86,74,75,68,99,10,11,5,7,0,0,3,0,0, Full Time,news,%D and %T... also %F,,,389000,56,416300,52,Centre,1
+293813,Thomas,Lynch,GC,19,81,76,66,66,85,9,8,6,3,1,1,0,1,0, Full Time,news,Booted %s from %P and %G on Lake,,,316400,63,339900,61,Forward,19
+296735,Aaron,Hall,GC,26,80,85,59,69,87,9,6,2,2,0,0,1,5,0, Full Time,target,%s from %O and %M with %T,,,284400,44,284900,14,Forward,33
+290527,Trent,McKenzie,GC,8,75,102,32,57,81,16,7,3,1,0,0,0,0,0, Full Time,news,%D including %k by foot,,,385000,78,397400,57,Back,18
+240254,Jarrod,Harbrow,GC,14,73,68,47,55,81,12,9,2,4,0,0,1,0,0, Full Time,news,One handball in Q1... %O and %M,,,404400,119,457100,122,Back,5
+220013,Campbell,Brown,GC,20,72,76,71,59,79,5,10,4,5,0,1,1,1,1, Full Time,news,%s from %D on Guerra,,,274100,32,286400,19,Forward,30
+250249,Danny,Stanley,GC,8,72,67,54,57,77,9,10,3,3,1,2,0,0,1, Full Time,job,In defence on Puopolo... %B among %O,,,440300,117,440200,100,Back,25
+261756,Greg,Broughton,GC,19,71,59,75,58,78,3,13,3,5,0,1,0,1,0, Full Time,news,%D,,,356700,65,401600,85,Back Forward,36
+291304,Daniel,Gorringe,GC,10,66,53,57,56,71,6,6,3,3,17,1,1,0,0, Full Time,news,%H and %P with %T,,,129800,,149800,,Ruck,15
+290811,Jack,Hutchins,GC,9,62,50,39,49,66,11,3,6,2,0,0,1,0,0, Full Time,job,Responsible for Gunston... %P,,,199300,35,181500,37,Back,34
+281025,Luke,Russell,GC,8,61,41,38,49,63,10,5,5,1,0,2,0,0,0, Full Time,news,On after HT for Lonergan,sub,Started as a sub,269200,74,243100,78,Back,8
+290832,David,Swallow,GC,14,61,71,51,53,75,6,12,2,3,0,1,2,1,0, Full Time,job,In defence again on Breust... %D,,,347600,87,403700,75,Centre,24
+281075,Rory,Thompson,GC,8,56,61,37,45,57,9,3,6,1,0,1,0,0,0, Full Time,news,%M and %O,job,Following Franklin,285700,26,356900,39,Back,16
+290790,Matthew,Shaw,GC,7,53,66,39,45,63,6,12,2,1,0,1,0,0,0, Full Time,news,%O,,,371400,67,371900,37,Back,26
+250146,Thomas,Murphy,GC,4,49,52,32,37,51,8,4,3,2,0,0,0,0,0, Full Time,job,Chasing Hill... %P,,,295300,60,359400,58,Back,29
+281085,Steven,May,GC,5,45,52,35,37,51,6,5,4,2,0,0,1,0,0, Full Time,news,%P on Stratton,sore,Right leg muscle knock in Q3,219800,59,298300,85,Back Forward,17
+291753,Sam,Day,GC,3,42,43,32,35,45,5,4,3,1,6,0,0,0,0, Full Time,job,On Grimley... %P,,,272000,41,346200,30,Forward,12
+230015,Jared,Brennan,GC,4,37,48,25,31,45,6,4,2,2,3,0,2,0,0, Full Time,news,%2 Mitchelll.. %O,sore,Jarred knee in Q4,374300,60,422900,63,Back,3
+294583,Jesse,Lonergan,GC,1,22,21,16,17,24,3,3,1,1,0,0,0,0,0, Full Time,injured,%P... left hamstring tweak in Q2,subbed,Subbed off at HT for Russell,171500,-22,190100,-39,Centre,37

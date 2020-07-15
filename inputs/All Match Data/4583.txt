@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Hawthorn,Hawks,R22,15.13.103,17.15.117, Full Time
+Aug 24,2013,2.10,Docklands,Seven,960491,10392203,nmfc-v-haw,0,Roof closed,17,,
+
+<em style='color:#a0a'>mattbalmer</em>: bloody hawks cost me some money $$$ just needed 2 more bloody points!!!<br><em style='color:#000'>johnkay</em>: Mitchell disposal efficiency 74% SC Franklin 64% SC 99 v 112?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> luvfooty</em>: shower Smitch you fell short of a ton again <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> JGreezy</em>: Wells is great&#044; Drak<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> buddy23!!!</em>: you ripper!! go the hawks!<br><em style='color:#000'>ozstriker</em>: @johnkay i think he's been super efficient with his disposals and a couple of goal assists. i'm dirty too though!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> ConnorZ1</em>: please get close to 100 burgoyne<br><em style='color:#000'>biggerz</em>: what happened to boomer after half time?!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> Grazz</em>: Ton up Harves<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tBL"></b> GoLions</em>: where are all the north fans now?<br><em style='color:#000'>Drak</em>: Efficency and Effectiveness. Cmon guys you are on a Fantasy Footy sight... You shouldnt be asking those questions<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> tor01doc</em>: Important behind that<br>
+271129,Todd,Goldstein,NM,28,118,132,141,100,120,10,9,5,4,24,3,0,2,0, Full Time,gun,%H and %D with %M and %T... %s as well,,,395200,106,535100,99,Ruck,22,20,88.9,112.3,16.71,16.50
+280944,Jack,Ziebell,NM,27,114,90,145,90,120,18,9,5,4,0,2,1,2,0, Full Time,cherry,%P and %M plus %T and %s,,,427200,99,435400,109,Centre,7,16,90.6,91.4,0.84,1.34
+250557,Sam,Gibson,NM,20,103,90,128,86,114,13,15,8,2,0,2,0,0,0, Full Time,magnet,%D and %M with %T,,,346000,80,376100,72,Centre,43,20,80.4,75.5,0.58,0.41
+230232,Daniel,Wells,NM,25,99,104,125,83,112,16,11,6,2,0,2,2,1,1, Full Time,news,%2 Sewell... %D and %M plus %T and %s,,,403900,63,489200,73,Centre,8,20,82.4,95.9,1.00,1.26
+250373,Lachlan,Hansen,NM,20,99,88,127,83,111,12,12,10,3,0,0,1,0,0, Full Time,news,Loose in defence once again... %D and %M with %T,mrp,A punch to the throat of Franklin in Q3 will be looked at,383500,104,406500,76,Forward,6,18,71.8,72.3,1.13,0.64
+960491,Brent,Harvey,NM,24,95,115,117,80,105,13,12,7,1,0,1,0,1,0, Full Time,news,Tagged by Shiels then freed up in Q2 after Shiels was subbed off injured... %O and %M plus %s,,,447400,149,494500,192,Forward Centre,29,14,91.6,101.6,7.82,10.10
+291445,Aaron,Mullett,NM,19,84,81,108,67,87,17,3,7,0,0,0,0,1,0, Full Time,news,%P and %M,job,Running off Whitecross,361500,123,386900,102,Centre,41,20,74.6,79.4,3.13,3.01
+280863,Ryan,Bastinac,NM,15,78,91,94,65,85,9,10,3,2,0,1,0,2,1, Full Time,news,%D and %s,,,405500,109,454200,135,Centre,3,20,83.5,90.6,0.99,1.32
+280921,Ben,Cunnington,NM,15,76,93,92,66,93,8,17,4,2,0,1,1,0,0, Full Time,news,%P including %B... also %M,,,418500,95,502400,89,Centre,10,18,83.7,96.6,0.55,0.69
+290787,Shaun,Atley,NM,14,75,68,97,59,81,10,9,4,4,0,2,1,0,0, Full Time,news,%O and %T with %M,,,329500,80,387900,95,Back,18,20,66,73.7,2.27,4.53
+280864,Sam,Wright,NM,15,74,74,92,61,80,9,8,5,2,0,0,0,1,2, Full Time,sore,Forward role on Birchall... %s from %P and %M... right shoulder dislocated in Q4,,,272900,-2,316300,22,Back,19,14,49.1,56.5,0.45,0.43
+291672,Aaron,Black,NM,15,71,76,86,63,82,10,8,5,0,0,0,1,2,1, Full Time,news,%s from %D and %G on Gibson,,,304800,87,317900,88,Forward,35,16,69.3,74.8,3.04,5.39
+290194,Jamie,MacMillan,NM,14,67,-,85,54,75,9,8,3,3,0,0,1,1,0, Full Time,sore,%D and %T... went forward in Q4 after a knock for %s,,,325400,62,371300,70,Centre,34,20,67.9,71.6,0.87,0.70
+280612,Will,Sierakowski,NM,9,64,47,83,49,66,11,5,4,2,0,1,0,0,0, Full Time,job,Minding Breust... %O and %M,in,Late replacement for Leigh Adams,122000,56,130600,57,Back,28,5,29.8,30,1.88,2.11
+210023,Drew,Petrie,NM,7,60,67,74,49,66,9,8,3,1,3,1,0,0,0, Full Time,news,%P on Lake... %H as well,,,403200,78,505900,78,Forward,20,20,85.4,102.6,3.81,4.92
+230272,Michael,Firrito,NM,8,60,95,74,48,66,8,10,2,2,0,2,0,0,0, Full Time,news,%P and %T with %M,job,Following Franklin,244300,78,255700,77,Back,11,15,57.5,58.7,0.80,0.92
+270861,Levi,Greenwood,NM,8,55,70,72,42,61,11,5,2,2,1,0,1,0,0, Full Time,news,%D and %T with %M,,,354600,48,379300,30,Centre,24,5,89.2,96.6,0.58,0.93
+270303,Luke,Delaney,NM,9,54,62,71,43,54,7,3,6,2,0,1,0,0,0, Full Time,job,Standing Roughead... %D and %M,,,233300,39,283200,53,Back,15,3,52,61.3,0.23,0.32
+261909,Lindsay,Thomas,NM,9,39,34,49,31,40,4,3,2,2,0,0,0,1,1, Full Time,news,Guerra on him... %s from %D and %T,,,282200,61,341300,65,Forward,12,18,65,72.9,1.24,1.47
+290802,Ben,Jacobs,NM,8,29,36,37,24,33,3,3,1,2,0,0,1,1,0, Full Time,news,%P and %T plus %s,,,243500,30,297900,27,Back,5,5,44.2,58.6,0.30,0.42
+270325,Robbie,Tarrant,NM,1,28,30,35,24,34,4,5,1,1,0,1,1,0,1, Full Time,concussed,%s from %P on Stratton... ran his moosh into the bicep of Guerra in Q3 leaving him groggy,subbed,Subbed off in Q4 for McKenzie,231300,48,253400,65,Forward,25,11,52.1,57.8,0.44,0.39
+291963,Brad,McKenzie,NM,1,16,19,23,12,18,2,1,1,2,0,0,1,0,0, Full Time,news,On in Q4 for Tarrant... %P and %T,sub,Started as a sub,195800,45,186000,50,Centre,2,8,49.9,44.1,4.71,2.04
+220073,Sam,Mitchell,HW,20,97,97,67,75,105,14,13,4,4,0,1,0,0,0, Full Time,star,%P and %M with %T,,,433500,125,502700,102,Centre,5,19,96.2,105.1,16.39,17.21
+294877,Isaac,Smith,HW,21,94,88,73,76,105,12,10,5,5,2,0,2,1,1, Full Time,news,%O and %T plus %s,,,446700,112,449700,89,Centre,16,19,87.2,84.1,0.78,1.48
+240357,Jarryd,Roughead,HW,21,92,108,57,76,92,14,2,5,1,0,1,0,4,2, Full Time,x-factor,A return to form from Roughie... %s from %D and %M on Luke Delaney,,,369000,110,437100,99,Forward Ruck,2,20,86.1,97.1,29.17,28.37
+220047,Luke,Hodge,HW,15,84,87,53,69,96,15,6,8,3,0,0,3,0,0, Full Time,news,Loose in defence... %D and %M... also %T and %F,,,461500,101,485300,109,Centre,15,18,92.1,98.3,4.32,5.01
+220039,Brian,Lake,HW,18,83,95,59,69,87,12,6,10,1,0,1,0,0,0, Full Time,heart,Copped a whack from Harvey in the throat in Q2 leaving him in pain... %D and %M,job,Standing Petrie,329700,100,384400,125,Back,17,16,67.7,76.9,2.22,3.06
+210012,Shaun,Burgoyne,HW,19,82,71,60,66,91,12,8,6,4,0,1,2,0,1, Full Time,news,%P and %M with %T... also %s,job,Starting in defence with the resting mid rotating through him,356000,73,418300,92,Back Centre,9,18,77.9,84.9,13.63,8.92
+280744,Luke,Breust,HW,22,82,84,76,67,84,7,5,5,5,0,1,1,3,0, Full Time,news,First goal... %s from %P and %T with %M on Sierakowski,,,332200,49,364400,31,Forward,22,20,74.2,82.1,3.83,3.07
+240399,Lance,Franklin,HW,21,79,116,57,70,85,9,5,3,1,0,1,1,5,1, Full Time,target,Firrito on him... %s from %P and %M,,,380900,107,441400,120,Forward,23,17,80.3,90.8,23.84,32.98
+200060,Brent,Guerra,HW,13,78,103,53,65,88,11,11,6,1,0,0,0,0,1, Full Time,job,Minding Thomas... %O and %s,,,351800,43,414000,74,Back,18,15,68.1,78.6,1.59,1.15
+260955,Cyril,Rioli,HW,20,76,100,60,61,82,9,7,3,4,0,0,1,2,1, Full Time,sore,%O and %T with %M... also %s... left thigh corkie late in Q4,,,300500,75,373600,79,Forward Centre,33,12,73.3,87.4,4.89,6.68
+280858,Shane,Savage,HW,18,73,53,51,55,75,12,3,6,4,0,0,1,0,0, Full Time,news,%D and %T with %M,,,391400,106,384900,112,Centre,21,13,69.8,66.8,1.34,1.46
+291351,Jack,Gunston,HW,10,66,70,59,49,66,7,6,4,5,0,1,0,0,0, Full Time,news,%B among %P with %T,,,336700,89,375300,77,Forward,19,18,76.4,82.6,1.74,1.69
+230197,Brad,Sewell,HW,8,60,61,39,42,59,10,4,1,4,0,1,0,0,2, Full Time,news,%2 Wells... %P and %T plus %s,,,363500,79,378500,72,Centre,12,16,77.1,78.1,0.78,0.71
+220036,David,Hale,HW,16,59,83,58,54,68,3,7,2,3,15,1,2,1,2, Full Time,yinyang,%H and %P.... also %T and %M... %s and %F as well... very quiet to HT but much better in the second half,,,362500,71,410900,88,Forward Ruck,20,19,71,82.3,3.25,3.49
+295584,Bradley,Hill,HW,15,59,62,48,44,60,7,5,2,4,0,0,0,1,0, Full Time,news,On in Q2 for Shiels... %D and %T,sub,Started as a sub,256500,66,257000,58,Centre,10,19,61,59.1,3.70,4.71
+240302,Grant,Birchall,HW,8,57,61,38,44,63,9,7,2,3,0,1,1,0,0, Full Time,job,Wright manning him up... %O,,,317500,99,416300,113,Back,14,12,81.8,93.5,6.38,6.62
+280471,Ben,Stratton,HW,5,57,67,44,47,66,8,6,5,3,0,0,2,0,0, Full Time,job,Tarrant is his man.... %P and %T,,,282600,62,292300,65,Back,24,20,63.6,66.5,2.63,2.08
+291861,Jed,Anderson,HW,8,51,78,41,43,63,6,10,2,3,0,1,2,0,0, Full Time,news,%O and %T,,,144800,-26,153900,-42,Centre,37,3,49.7,51.7,0.82,1.09
+260472,Max,Bailey,HW,9,50,68,40,47,58,5,3,3,1,22,0,2,0,0, Full Time,news,%H and %P... %F as well,,,274000,56,318200,91,Ruck,39,15,63.1,73,2.89,3.08
+261386,Brendan,Whitecross,HW,5,50,48,48,40,54,4,7,4,3,0,0,0,0,0, Full Time,news,%P and %M starting forward on Mullett... also %T,,,329500,38,315100,23,Forward Centre,11,8,67.5,63.8,0.35,0.36
+250715,Josh,Gibson,HW,2,37,59,29,26,36,5,3,1,3,0,1,0,0,0, Full Time,job,Zoning off Black... %P and %T,,,321700,56,430500,69,Back,6,19,64.2,79.9,3.23,2.75
+280737,Liam,Shiels,HW,0,2,1,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,in,Late replacement for Jordan Lewis... tagging Harvey... %D... right ankle injury in Q2 when it was twisted under him,subbed,Subbed off in Q2 for Hill,310100,94,335900,77,Centre,26,13,68.2,66.1,0.30,0.72

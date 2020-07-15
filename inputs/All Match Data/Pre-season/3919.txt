@@ -1,0 +1,60 @@
+Sydney,Swans,North Melbourne,Kangaroos,W2,16.16.112,9.10.64, Full Time
+Mar 3,2012,7.00,Kellyville,,,10330202,,20,Rainy and windy,24,,
+
+<em>LilGazza</em>: will gibson get elevated off the rookie list?<br><em>JayTRayne</em>: You're right bomber&#044; I reckon your phone calls are being monitored for dt tips....<br><em>bigdaddydy</em>: people forget HMAC is a former premium ruckman. jesus one of the most nimble for his size and weight<br><em>Ace Manuva</em>: You're thinking Hartlett bomber<br><em>mufc</em>: is the only reason mcintosh rackin in the points because of goldstien not there or something else<br><em>bomber5186</em>: Zeddy the less people who know the better. You dont know who's watching the chat.<br><em>brent_bren</em>: malceski worth a look for his price??<br><em>zeddyzed</em>: Lol Sloane is no secrret bomberboy<br><em>Rowan1812</em>: why is mumford not scoring well. I know he was on at Q3 but 14 points in nearly a half?<br><em>bomber5186</em>: Um... not Sloane :P<br><em>farthers</em>: Sloane?<br><em>Rowan1812</em>: who bomber?<br>
+990011,Jude,Bolton,SY,27,106,-,139,77,105,13,10,4,8,0,3,0,0,0, Full Time,hot,%D and %T with %M,,,88
+261212,Craig,Bird,SY,24,82,-,101,68,92,8,10,1,5,0,1,2,3,2, Full Time,news,%P and %T plus %s,,,78
+230132,Nick,Malceski,SY,19,79,-,106,64,88,15,3,6,3,0,0,3,1,1, Full Time,news,%O and %M,,,85
+250338,Nick,Smith,SY,9,76,-,102,56,78,16,3,4,3,0,1,1,0,0, Full Time,news,%P and %T with %M,,,93
+240226,Kieren,Jack,SY,15,65,-,84,59,84,12,8,5,1,0,0,4,1,0, Full Time,news,%D and %M... also %F,,,90
+230140,Ben,McGlynn,SY,7,64,-,82,49,67,13,5,3,1,0,1,0,0,1, Full Time,news,%s from %O with %M,,,86
+260382,Josh P.,Kennedy,SY,12,61,-,80,45,66,10,7,1,4,0,1,1,0,0, Full Time,news,%D and %T,,,62
+220101,Mark,Seaby,SY,10,58,-,71,48,58,4,5,3,3,7,2,0,1,0, Full Time,news,%H and %D with %M and %T... also %s,subbed,Subbed off at HT,50
+230253,Jarrad,McVeigh,SY,6,57,-,71,44,63,11,8,1,1,0,1,0,0,0, Full Time,news,%O with %k by foot,,,88
+281281,Lewis,Jetta,SY,9,56,-,71,42,58,10,4,1,2,0,0,0,1,1, Full Time,news,%s from %O,,,82
+291978,Harry,Cunningham,SY,14,56,-,68,48,63,8,7,4,0,0,0,0,1,0, Full Time,news,%D and %M,,,74
+290788,Luke,Parker,SY,6,49,-,62,41,57,10,7,1,1,0,4,2,0,0, Full Time,news,%O,,,71
+210027,Ted,Richards,SY,4,48,-,65,35,45,9,0,4,2,0,1,0,0,0, Full Time,news,%P and %M,,,97
+220063,Martin,Mattner,SY,7,48,-,63,37,52,13,2,2,0,0,1,1,0,1, Full Time,news,%P and %s,,,90
+240072,Heath,Grundy,SY,4,47,-,60,38,51,9,4,4,0,0,0,0,0,0, Full Time,news,%M and %O,subbed,Subbed off at HT,50
+250212,Jesse,White,SY,4,47,-,58,40,50,7,5,4,0,0,2,0,0,2, Full Time,news,%s from %G and %P,,,88
+261257,Andrejs,Everitt,SY,10,47,-,59,37,48,6,4,2,2,0,1,0,1,0, Full Time,news,%s from %D,,,62
+291450,Alex,Johnson,SY,4,45,-,60,37,48,10,1,5,0,0,1,1,0,0, Full Time,news,%G and %D,,,93
+292509,Tommy,Walsh,SY,2,28,-,37,24,31,4,2,3,1,0,1,1,0,1, Full Time,news,%s from %P and %M,subbed,Subbed off at HT,50
+291206,Mike,Pyke,SY,3,25,-,35,21,32,4,2,0,3,5,1,3,0,0, Full Time,canada,%H and %P with %T,,,93
+291357,Gary,Rohan,SY,7,24,-,30,19,24,5,0,1,0,0,0,0,1,0, Full Time,news,%s from %P,,,60
+280762,Shane,Mumford,SY,2,23,-,26,21,24,0,2,1,1,12,0,0,0,0, Full Time,news,On in Q3... %H,sub,Started as a sub,48
+220089,Lewis,Roberts-Thomson,SY,1,22,-,27,18,24,4,3,1,0,0,1,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,45
+240412,Mitch,Morton,SY,6,19,-,24,15,18,2,0,1,1,0,0,0,1,0, Full Time,news,First goal... %s from %D,subbed,Subbed off at HT,45
+280018,Nathan,Gordon,SY,0,14,-,18,11,15,1,2,1,1,0,0,0,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,25
+250080,Jarred,Moore,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,7
+290171,Campbell,Heath,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,0
+290188,Samuel,Reid,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,0
+291544,Jed,Lamb,SY,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,0
+230141,Hamish,McIntosh,NM,17,104,-,128,90,116,10,13,8,3,14,1,1,0,0, Full Time,hot,%H and %P with %M,,,86
+240417,Andrew,Swallow,NM,15,98,-,124,76,103,16,11,4,3,0,3,0,0,1, Full Time,news,%P including %K... also %M and %T... kicked %s,,,88
+250285,Leigh,Adams,NM,9,74,-,91,61,83,11,11,4,1,0,1,0,0,2, Full Time,news,%s from %P and %M,,,88
+960491,Brent,Harvey,NM,20,69,-,82,62,78,9,7,4,0,0,1,1,3,0, Full Time,news,%s from %O  and %M with %k by foot,,,69
+290787,Shaun,Atley,NM,12,65,-,85,48,72,11,8,1,4,0,0,1,0,0, Full Time,news,%D with %b by hand... also %T,,,98
+280944,Jack,Ziebell,NM,18,64,-,85,46,66,8,7,1,6,0,2,1,0,0, Full Time,news,%O and %T,,,74
+250373,Lachlan,Hansen,NM,8,56,-,74,47,66,11,5,5,1,0,0,2,0,0, Full Time,news,%P and %M... also %F,,,73
+250135,Scott,McMahon,NM,8,54,-,70,42,57,10,5,2,2,0,3,1,0,0, Full Time,news,%O and %M,,,99
+261909,Lindsay,Thomas,NM,10,48,-,62,41,52,5,2,3,3,0,1,2,2,1, Full Time,news,%s from %P with %T,,,92
+280921,Ben,Cunnington,NM,8,46,-,58,37,51,9,4,1,1,0,1,1,1,0, Full Time,news,%P,,,68
+292029,Cameron,Pedersen,NM,3,43,-,54,36,51,7,7,2,1,0,1,1,0,0, Full Time,news,%D with %k by foot... also %M,,,95
+210023,Drew,Petrie,NM,9,41,-,50,34,38,5,0,2,1,8,2,0,1,0, Full Time,news,Kicked %s from %P and %G,,,96
+240189,Matt,Campbell,NM,8,40,-,50,34,43,6,3,2,1,0,2,1,1,1, Full Time,news,%s from %D and %M,,,71
+280863,Ryan,Bastinac,NM,3,39,-,49,30,42,5,6,1,2,0,1,0,0,0, Full Time,news,%D and %T,subbed,Subbed off at HT,39
+230272,Michael,Firrito,NM,3,38,-,45,35,49,5,9,2,0,0,1,1,0,1, Full Time,news,%D and %M plus %s,,,100
+271129,Todd,Goldstein,NM,3,34,-,42,26,36,2,5,0,3,6,0,0,0,0, Full Time,news,%H and %D with %T,subbed,Subbed off at HT,46
+291445,Aaron,Mullett,NM,2,34,-,38,31,43,3,10,1,0,0,1,0,0,1, Full Time,news,On in Q3... %B among %O,sub,Started as a sub,44
+230240,Aaron,Edwards,NM,7,31,-,38,25,30,4,2,1,1,0,2,0,1,0, Full Time,news,On in Q3... %s from %P,sub,Started as a sub,48
+290194,Jamie,MacMillan,NM,2,30,-,36,24,34,6,5,0,0,0,1,0,0,1, Full Time,news,%O and %s,subbed,Subbed off at HT,35
+281395,Scott D.,Thompson,NM,2,29,-,34,25,36,2,8,1,1,0,0,0,0,0, Full Time,news,%B among %D,subbed,Subbed off at HT,50
+250557,Sam,Gibson,NM,2,28,-,38,22,30,8,0,2,0,0,1,1,0,0, Full Time,news,On in Q3... %D with %k by foot,sub,Started as a sub,43
+270861,Levi,Greenwood,NM,1,27,-,36,19,27,6,1,1,1,0,0,0,0,0, Full Time,news,%D,,,50
+293796,Cameron,Delaney,NM,2,24,-,29,23,33,3,6,2,0,0,0,1,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,50
+270325,Robbie,Tarrant,NM,2,22,-,30,16,21,2,1,2,2,0,0,0,0,0, Full Time,news,%P and %M,,,72
+290547,Kieran,Harper,NM,2,19,-,25,17,22,4,1,2,0,0,1,1,0,1, Full Time,news,%s from %O and %M,subbed,Subbed off at HT,36
+280300,Ben,Speight,NM,1,18,-,22,14,21,4,3,0,0,0,0,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,41
+291672,Aaron,Black,NM,0,4,-,4,4,6,0,2,0,0,0,0,0,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,50

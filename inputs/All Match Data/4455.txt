@@ -1,0 +1,48 @@
+Geelong,Cats,Essendon,Bombers,R7,17.11.113,11.19.85, Full Time
+May 10,2013,7.50,Docklands,Seven,291686,10390701,geel-v-ess,0,Fine,25,,
+
+<em>pladavm</em>: Swallow out for season...ACL<br><em>herbfitta</em>: did I win png? Can't check<br><em>Heizenberg</em>: Just put the c straight onto ablett well done anyway selwood decent effort <br><em>herbfitta</em>: Go Ablett<br><em>ImSoHood</em>: Wall for thurlow<br><em>ImSoHood</em>: Ablest might outdo Jobe by 1/2 time<br><em>HowI Rioli</em>: Gee I'm so spewing I traded out the blitz and his huge bag of 58 points...<br><em>old_shepp</em>: Hibberd disappointing second half in SC<br><em>ImSoHood</em>: *Suckling<br><em>matthius</em>: 121 enough for captain or ride with ablett??<br><em>ImSoHood</em>: Goddard with the symbol sucking made famous<br><em>danmaio</em>: sorta happy&#044;  my opp got goddard&#044;  gulled it again&#044; probably named in ess best for garbage<br>
+280990,Steven,Motlop,GE,26,117,102,147,95,124,18,10,8,2,0,1,0,1,4, Full Time,x-factor,%D and %M plus %s on Baguley... his run and carry is exceptional even if his finishing is patchy,,,367800,89,394000,104,Forward,32
+230214,Mathew,Stokes,GE,31,112,119,140,99,126,15,9,11,1,0,0,2,3,0, Full Time,star,%s from %P and %M,tagger,Forward tag role on Fletcher,438800,97,451700,99,Forward,27
+220054,Steve,Johnson,GE,21,105,123,129,90,129,15,21,5,2,0,1,2,0,0, Full Time,magnet,%2 Watson... %P and %T with %M... also %F,,,543700,58,554600,52,Forward Centre,20
+250321,Joel,Selwood,GE,32,101,100,130,76,99,9,10,4,8,0,4,0,1,0, Full Time,hot,Tagged by Hocking... %O and %T with %M and %s,,,497300,125,598200,167,Centre,14
+200035,Corey,Enright,GE,19,99,100,130,79,102,20,3,11,0,0,0,0,0,0, Full Time,news,%D and %M,job,Manned up by Winderlich,413700,41,453500,71,Back,44
+220058,James,Kelly,GE,25,85,86,109,64,96,7,16,1,8,0,0,1,0,0, Full Time,news,%2 Goddard... %P including %B with %T,mrp,A bump on Goddard in Q3 will be looked at but there was very little in it,493700,101,525400,131,Centre,9
+220007,Jimmy,Bartel,GE,15,79,102,101,61,81,12,6,4,3,0,1,0,1,0, Full Time,tagged,Playing BP but forward tagged by Kommer... %P and %M,,,453600,61,526900,76,Forward Centre,3
+290783,Billie,Smedts,GE,26,79,74,100,63,84,6,9,3,6,0,1,1,2,0, Full Time,news,%O and %M on Hardingham,,,246600,29,272800,30,Forward,2
+293255,George,Horlin-Smith,GE,18,75,68,96,62,85,7,11,6,4,0,0,1,0,1, Full Time,news,Playing a HFF on Hibberd... %s from %P and %M with %T,,,217200,35,259200,59,Centre,33
+294663,Jackson,Thurlow,GE,14,74,77,95,58,79,8,9,5,4,0,0,0,0,1, Full Time,rookie,First game... %D and %T with %M,,,116200,,124500,,Back,40
+281065,Mitch,Duncan,GE,18,70,57,87,60,76,10,6,7,0,1,0,0,1,0, Full Time,news,%D and %M plus %s,,,447000,73,408800,83,Centre,22
+200131,James,Podsiadly,GE,13,69,86,90,56,76,11,6,6,2,1,0,1,0,0, Full Time,switch,%D and %G on Hooker... switched with Taylor in Q2,,,350400,79,368200,92,Forward,31
+296733,Mark,Blicavs,GE,13,67,60,82,59,70,4,3,5,3,12,0,1,2,1, Full Time,cash,First goal... %P and %M plus %s,,,169900,18,211000,24,Centre Ruck,46
+261497,Harry,Taylor,GE,9,66,69,86,53,69,7,6,7,3,0,0,0,0,0, Full Time,switch,In defence on Hurley... switched with Podsiadly in Q2... %P and %M,,,428500,72,520900,75,Back,7
+230248,Andrew,Mackie,GE,12,64,62,82,52,69,12,5,6,0,0,0,0,0,0, Full Time,news,%M and %P,gumby,Running off Gumbleton,400500,98,424400,108,Back,4
+290550,Cameron,Guthrie,GE,10,63,70,85,47,63,8,4,4,5,0,2,1,0,0, Full Time,news,%O and %M with %T,job,Minding Davey,223500,31,247300,25,Back,29
+230125,Tom,Lonergan,GE,11,61,72,74,55,69,6,7,5,1,0,1,1,2,0, Full Time,switch,Standing Crameri... %O and %M plus a rare %s during some switches forward,,,224500,43,276400,32,Back,13
+280918,Allen,Christensen,GE,14,59,72,72,51,69,6,10,3,2,0,1,1,1,0, Full Time,news,%O and %M,,,403400,57,464700,31,Forward Centre,28
+261510,Tom,Hawkins,GE,9,47,46,57,42,53,5,4,3,1,1,0,1,2,1, Full Time,burger,Booted %s from %D on Carlisle... looks like he could do with a teensy bit of anti-obesity treatment,,,365200,129,458900,152,Forward,26
+290576,Jordan,Schroder,GE,13,44,54,57,34,46,4,4,1,4,0,1,1,1,1, Full Time,bubble,Second game... on Q1 for Taylor Hunt... %P and %T plus %s,sub,Started as a sub,127800,,144500,,Centre,15
+260261,Trent,West,GE,8,43,54,53,37,48,4,4,0,3,15,2,2,0,0, Full Time,news,%H and %P with %T... also %F,,,312400,42,364200,48,Ruck,12
+280822,Taylor,Hunt,GE,0,11,13,14,8,12,1,2,0,1,0,0,0,0,0, Full Time,injured,Tagging Zaharakis... right shoulder knock very early in Q1 in a clash with Melksham... %P,subbed,Subbed off in Q1 for Schroder,341000,99,373300,113,Centre,19
+270951,David,Zaharakis,ES,26,122,115,76,97,134,21,10,9,4,0,0,2,0,2, Full Time,hot,Tagged by Taylor Hunt but an early Q1 injury to Hunt meant he ran free for 13 touches... %P and %M plus %s,,,451600,54,489500,62,Centre,11
+230231,Jobe,Watson,ES,20,112,123,61,81,113,21,9,2,5,0,3,0,0,2, Full Time,hot,%2 Johnson... %O and %T,,,508000,150,595800,165,Centre,4
+230084,Brendon,Goddard,ES,24,101,107,51,84,114,19,10,7,0,0,0,1,1,0, Full Time,seagull,%2 Kelly... %D and %M plus %s,,,506300,94,541400,134,Back Centre,9
+260073,Ben,Howlett,ES,24,94,79,81,71,97,11,8,6,7,0,1,1,0,1, Full Time,news,%O and %M with %T and %s,,,411600,134,424200,147,Centre,40
+290160,Michael,Hibberd,ES,20,92,86,58,75,96,15,5,9,1,0,0,0,1,0, Full Time,news,%O and %M... also %s,job,Horlin-Smith manning him up on a HBF,437600,68,499800,61,Back,1
+261314,David,Myers,ES,16,89,90,67,72,94,11,8,5,3,0,0,0,2,1, Full Time,news,Started on a wing... %D and %M plus %s,,,379600,67,386700,92,Back,23
+261320,Tom,Bellchambers,ES,23,89,94,65,79,94,10,4,4,1,31,1,1,1,0, Full Time,news,%H and %D with %M,,,410800,83,456800,105,Ruck,2
+290641,Jake,Carlisle,ES,19,88,104,69,68,87,12,4,9,4,0,1,0,0,0, Full Time,news,%P and %M with %T,tomahawk,Has Hawkins,307100,108,396300,131,Back,22
+280824,Jake,Melksham,ES,10,79,73,52,63,86,12,9,5,2,0,0,0,0,2, Full Time,news,%P and %M with %T,,,331900,61,322300,55,Centre,17
+290629,Dyson,Heppell,ES,14,78,78,64,61,87,9,12,3,5,0,1,1,0,0, Full Time,sore,Attending most centre bounces but not getting a lot of it in the first half... lifted in Q3 though... %B among %P with %M... spewed his guts up in Q4 after copping a knee from Christensen to his ribs,,,477000,91,488900,102,Back Centre,21
+960197,Dustin,Fletcher,ES,9,73,64,40,55,75,14,4,5,2,0,0,0,0,0, Full Time,tagged,Forward tag on him by Stokes... %M and %O,,,319600,96,412900,132,Back,31
+291686,Nick,Kommer,ES,14,68,72,65,48,67,6,8,1,7,0,2,0,0,1, Full Time,cash,%s from %O and %T,tagger,Forward tag role on Bartel,160000,-8,193600,-33,Centre,38
+250569,Heath,Hocking,ES,14,66,78,50,56,79,8,11,2,3,0,1,2,1,1, Full Time,tagger,Tagging Selwood... %P,,,314000,86,281800,81,Centre,39
+270584,Kyle,Hardingham,ES,9,65,50,52,51,69,8,7,5,3,0,0,0,0,0, Full Time,news,%P and %T with %M,job,Responsible for Smedts,252400,59,343200,72,Back,34
+270588,Cale,Hooker,ES,13,64,74,49,53,72,9,6,6,3,0,1,2,0,0, Full Time,ipod,Standing Podsiadly... %M and %D,,,338200,63,414400,92,Back,26
+270935,Michael,Hurley,ES,10,61,55,36,51,63,10,4,5,0,0,2,0,1,0, Full Time,news,%D and %M on Taylor... one kick in Q1,,,367200,66,430600,49,Forward,18
+292503,Stewart,Crameri,ES,19,59,49,55,49,63,6,3,6,4,0,1,2,1,0, Full Time,news,%P and %G on Lonergan... also %F,,,338300,65,419500,75,Forward,12
+230051,Alwyn,Davey,ES,15,56,67,56,44,56,4,4,4,4,0,0,0,1,2, Full Time,news,%s from %O and %M on Guthrie,subbed,Subbed off in Q3 for Lovett-Murray,288300,28,343300,41,Forward,29
+294798,Mark,Baguley,ES,5,52,47,37,42,54,8,3,5,2,0,2,1,0,0, Full Time,job,Chasing Motlop... %D and %M,,,311000,56,324600,57,Back,46
+230238,Jason,Winderlich,ES,10,51,63,48,40,55,5,5,4,4,0,0,1,0,1, Full Time,tagger,Manning up Enright.... %s from %D with %M and %T,,,272000,34,246100,8,Forward,8
+250366,Scott,Gumbleton,ES,9,45,47,41,40,48,3,4,3,1,3,0,0,2,0, Full Time,news,Mackie on him... %s from %D... also %H,,,286100,49,343200,42,Forward,3
+210079,Nathan,Lovett-Murray,ES,2,23,21,15,17,27,4,3,0,2,0,0,1,0,0, Full Time,news,On in Q3 for Davey,sub,Started as a sub,290300,,299900,,Centre,42

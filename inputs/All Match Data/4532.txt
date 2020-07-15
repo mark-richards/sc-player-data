@@ -1,0 +1,48 @@
+Brisbane,Lions,North Melbourne,Kangaroos,R16,18.9.117,17.3.105, Full Time
+Jul 13,2013,7.40,Gabba,Seven,293603,10391606,bl-v-nmfc,0,A shower or two,20,,
+
+<em style='color:#000'>runt</em>: Good kicking is good football but outscoring the opposition is even better<br><em style='color:#000'>Solat</em>: staker sc how???<br><em style='color:#000'>Foss</em>: thank god for that sc conversion<br><em style='color:#000'>flyupup</em>: que the bradd scott press conferance<br><em style='color:#000'>Affliction</em>: Another scott brother scalp for voss<br><em style='color:#000'>ShowerTime</em>: stu :O<br><em style='color:#000'>lionspro</em>: Haha Roos!<br><em style='color:#000'>Luke87</em>: wow brisbane wow<br><em style='color:#000'>old_shepp</em>: Fair quarter from Green<br><em style='color:#000'>gdshifty</em>: rockliff gun<br><em style='color:#000'>Kenny27</em>: There it is !!! Give stu the muppet<br><em style='color:#000' title="MIJG">mijg</em>: Goldy SC<br>
+270919,Tom,Rockliff,BL,50,134,147,179,96,132,18,10,5,11,0,4,1,0,0, Full Time,star,%P and %M plus %T,,,383000,99,425500,103,Forward Centre,38,13,90.8,96.2,24.78,24.66
+293603,Sam,Mayes,BL,25,99,130,123,84,107,15,6,7,1,2,0,1,3,0, Full Time,news,%s from %P and %M... also %H,,,275800,74,293600,62,Forward Centre,32,10,68,65.2,16.87,12.92
+271072,Daniel,Rich,BL,15,88,90,117,67,94,15,7,4,5,0,2,2,0,1, Full Time,tagged,Tagged by Greenwood... %D and %M with %T,,,349600,86,444300,94,Centre,10,8,65.3,84.8,0.95,1.35
+270512,Pearce,Hanley,BL,21,84,105,106,66,84,12,3,4,3,0,0,0,3,0, Full Time,x-factor,Tagged by Hine... %O and %M plus %T... also %s all in Q4 as the Lions ran over the Roos,,,366000,29,411100,49,Back,11,13,88.8,98.4,17.36,19.23
+240087,Jed,Adcock,BL,13,82,87,108,62,81,14,4,6,3,0,2,0,0,0, Full Time,news,%D and %M with %T,,,387000,75,423800,72,Back,7,14,81.5,88,2.98,2.70
+230211,Brent,Staker,BL,21,78,111,102,64,84,10,4,6,4,0,0,2,2,0, Full Time,news,Starting forward on Hansen... %s from %D,,,245100,14,330600,16,Back Forward,14,7,61.7,80.4,35.44,46.30
+250335,Matthew,Leuenberger,BL,21,75,79,85,67,77,4,5,2,2,37,1,0,0,1, Full Time,news,%H and %D plus %s,,,396500,45,504100,73,Ruck,23,12,84.3,100.5,15.39,14.90
+281329,Rohan,Bewick,BL,14,74,77,94,59,81,7,11,5,4,0,0,0,0,0, Full Time,news,%O and %M with %T,,,298500,70,299700,69,Forward,8,12,65.5,65.5,0.71,0.78
+281373,Jack,Redden,BL,15,74,103,94,62,87,8,12,4,4,3,1,2,0,0, Full Time,news,%B among %D plus %T,,,452600,111,466100,101,Centre,30,14,94.8,95.6,1.79,0.92
+220062,Matt,Maguire,BL,8,66,62,86,53,67,11,3,7,1,0,1,0,0,1, Full Time,job,Standing Petrie... %O and %M... also %s,,,300700,14,385800,53,Back,36,3,68.7,75.7,0.25,0.18
+281048,Ryan,Harwood,BL,10,63,70,82,48,66,7,7,4,4,0,0,0,0,0, Full Time,news,%D and %T with %M,job,Chasing Adams,249100,59,267700,63,Back,2,6,53.2,56.7,0.16,0.14
+261224,Dayne,Zorko,BL,10,53,80,68,44,60,7,6,2,3,0,2,2,1,0, Full Time,news,Did not touch the ball in Q1... %P and %T,sore,Left calf restrapped in Q3 after a knock,348400,83,401600,112,Forward Centre,15,14,75.1,84.5,13.96,14.98
+291548,Ryan,Lester,BL,10,53,58,67,43,60,6,7,2,3,0,0,1,1,0, Full Time,news,%D,,,307800,93,340400,64,Back,35,10,68.8,78.9,2.73,5.50
+200007,Jonathan,Brown,BL,15,51,50,62,46,54,7,1,4,0,0,1,1,3,0, Full Time,news,%s from %D on Thompson,,,358100,71,357700,43,Forward,16,12,69.5,68.3,1.20,1.51
+290110,Mitchell,Golby,BL,4,50,51,67,37,54,9,4,2,3,0,0,1,0,0, Full Time,news,Matched up on Harvey... %O and %T,,,352700,80,369200,81,Back,41,12,73.8,75,0.80,0.50
+240013,Andrew,Raines,BL,3,46,58,59,35,52,7,7,0,3,0,1,1,0,1, Full Time,news,%P and %T,tagger,Tagging Wells,217700,61,210300,52,Centre,29,10,51.3,46.9,0.47,0.52
+230170,Joel,Patfull,BL,5,44,57,59,35,48,7,3,4,2,0,0,1,0,0, Full Time,job,On Black... %D and %M,,,256900,80,345800,93,Back,24,14,53.9,68.1,1.68,1.21
+210013,Ashley,McGrath,BL,14,43,48,56,43,58,8,1,3,1,0,0,5,3,1, Full Time,concussed,%s from %D and %M on Atley... accidental shoulder to the moosh ed by Firrito in Q4 and he was in Koosbane,sore,Back soreness in Q2,228900,95,278300,143,Back Forward,9,14,43.4,49.8,1.20,1.25
+230147,Daniel,Merrett,BL,9,41,61,54,33,40,4,1,3,3,1,2,1,1,0, Full Time,switch,Starting forward on Grima but zoning up a lot to be loose in defence... %P and %M,mrp,A swinging arm on Swallow in Q3 will be scrutinised,268800,48,354600,41,Back Forward,21,10,55.2,71.5,1.56,1.40
+290748,Joshua,Green,BL,9,41,51,54,30,39,5,1,2,3,0,0,0,1,0, Full Time,news,On after 3QT for Polkinghorne,sub,Started as a sub,228300,70,252200,54,Forward,6,9,52,53.1,0.70,0.46
+295162,Justin,Clarke,BL,2,28,57,36,24,33,4,4,2,1,0,1,1,0,0, Full Time,news,%P and %M,job,On Tarrant,193000,47,234900,51,Back,42,9,46.6,53.9,1.79,3.57
+260975,James,Polkinghorne,BL,0,14,14,18,11,15,1,2,1,1,0,0,0,0,0, Full Time,news,%P,subbed,Subbed off at 3QT for Green,286000,112,326400,121,Centre,31,10,59,61.5,1.31,0.93
+250557,Sam,Gibson,NM,18,97,79,58,79,108,16,12,7,1,0,0,0,0,0, Full Time,news,%D and %M,,,394000,97,402100,90,Centre,43,14,83.8,75.5,0.41,0.40
+280921,Ben,Cunnington,NM,26,95,113,82,71,93,10,7,3,7,0,2,0,2,0, Full Time,news,%O and %T with %M and %s,,,419000,98,482800,121,Centre,10,12,79.2,90.8,0.57,0.70
+210023,Drew,Petrie,NM,26,91,109,67,82,99,11,3,7,1,2,0,2,5,1, Full Time,news,First goal... %s from %D and %M,goose,Maguire on him,408000,77,516600,97,Forward,20,14,82.6,99.4,3.65,4.42
+280863,Ryan,Bastinac,NM,31,91,101,76,66,91,11,7,2,8,0,2,1,1,1, Full Time,news,%O and %M with %T and %s,,,384800,94,487600,52,Centre,3,14,80.9,90.3,0.92,1.31
+230232,Daniel,Wells,NM,20,89,101,77,70,93,9,9,5,5,3,0,0,1,0, Full Time,rain,Tagged by Raines... %B among %D with %M,,,386300,91,428200,94,Centre,8,14,80.4,93.1,0.86,1.00
+290787,Shaun,Atley,NM,19,89,86,65,70,93,13,7,7,4,0,2,1,0,0, Full Time,job,On McGrath... %D and %M with %T,,,306000,60,362000,76,Back,18,14,63.2,71.4,2.45,4.71
+240417,Andrew,Swallow,NM,20,83,101,67,63,90,10,12,2,6,0,2,1,0,0, Full Time,news,%B among %D plus %T,sore,Right wrist knock in Q4,462000,135,498800,137,Centre,9,14,100.1,105.1,14.29,8.00
+960491,Brent,Harvey,NM,20,80,115,57,65,93,11,12,2,4,0,1,2,1,0, Full Time,news,Matched up on Golby... %P and %M plus %T,,,405200,49,473500,56,Forward Centre,29,8,90.3,103.5,3.56,6.40
+270861,Levi,Greenwood,NM,18,74,86,64,52,75,8,10,0,7,0,2,0,0,0, Full Time,tagger,Tagging Rich.... %D amd %T,,,295800,20,299600,8,Centre,24,3,87.7,92.3,0.55,0.84
+271129,Todd,Goldstein,NM,27,72,85,63,63,71,5,1,2,2,41,0,0,0,0, Full Time,news,%H and %P,,,426900,108,551800,105,Ruck,22,14,90.7,113.6,14.15,12.44
+280944,Jack,Ziebell,NM,9,72,74,36,54,75,14,7,2,2,0,2,0,0,0, Full Time,news,%P and %M plus %T,sore,Left knee soreness in Q1,463200,121,494900,111,Centre,7,11,91.6,95.2,0.79,1.31
+290194,Jamie,MacMillan,NM,9,68,-,37,51,69,13,4,4,2,0,1,0,0,0, Full Time,news,%O and %M,,,291500,104,321400,100,Centre,34,14,65.8,67.9,0.75,0.67
+291445,Aaron,Mullett,NM,14,66,68,40,55,72,11,5,5,1,0,1,1,1,0, Full Time,news,%P and %M plus %s,sore,Left leg knock in Q3,337800,90,394600,83,Centre,41,14,75.4,81.3,3.29,3.28
+250285,Leigh,Adams,NM,9,59,57,41,53,75,8,12,4,1,0,1,2,0,0, Full Time,news,%O on Harwood,,,347200,2,380700,11,Forward Centre,13,14,69.6,76.3,1.20,1.23
+291963,Brad,McKenzie,NM,8,58,68,50,49,69,5,13,3,2,0,0,0,0,0, Full Time,news,On in Q1 for Hansen... %P and %T plus %M,sub,Started as a sub,144000,-8,140300,-15,Centre,2,3,51.7,42.3,5.17,2.03
+240131,Nathan,Grima,NM,8,55,57,17,45,63,14,3,4,0,0,1,2,0,0, Full Time,job,Has Merrett... %O,,,346200,47,431300,71,Back,17,13,65.2,76.6,0.84,0.78
+291672,Aaron,Black,NM,15,53,60,41,48,57,5,5,3,0,0,1,0,3,0, Full Time,news,%s from %P and %M on Patfull,,,302200,69,351000,93,Forward,35,10,71.9,81.9,3.67,6.13
+281395,Scott D.,Thompson,NM,8,49,84,34,46,60,7,7,6,0,0,2,2,0,0, Full Time,job,Has Brown... %M and %O,,,377400,55,485300,55,Back,16,14,79,98.6,2.01,3.56
+230272,Michael,Firrito,NM,4,41,39,31,33,45,6,3,4,2,0,0,1,0,0, Full Time,news,%P,,,259300,78,268800,68,Back,11,14,58.6,60.1,1.17,1.10
+270325,Robbie,Tarrant,NM,15,41,56,33,41,48,4,2,4,0,0,1,2,3,0, Full Time,sore,%s from %G and %D on Clarke... right leg knock in Q3,,,259500,48,314700,21,Forward,25,5,54.6,66.8,0.39,0.35
+290538,Taylor,Hine,NM,2,33,28,11,25,37,8,3,0,1,0,1,1,0,1, Full Time,tagger,Tagging Hanley... %D and %s,,,214600,14,208600,32,Back,26,9,44.7,40.3,0.40,0.43
+250373,Lachlan,Hansen,NM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,concussed,Zoning off Staker.... ran his head into the shoulder of Hanley in Q1 leaving him dazed,subbed,Subbed off in Q1 for McKenzie,360000,37,372100,18,Forward,6,12,69.8,69.5,0.64,0.53

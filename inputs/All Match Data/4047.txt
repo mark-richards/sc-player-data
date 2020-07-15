@@ -1,0 +1,48 @@
+Essendon,Bombers,Brisbane,Lions,R6,19.15.129,9.8.62, Full Time
+May 5,2012,1:40,Docklands,Fox Sports,290629,10340602,430054,0,A shower or two,16,,
+
+<em>crafer</em>: you know ur crap when dyson tons up<br><em>Rourke</em>: DT 676/4 with Stants the only gun played so far<br><em>wolfheart</em>: you're legally crying? is that where you smash your lawyers thumb with a hammer so he can cry for you?<br><em>LivesFooty</em>: Was DEMPSEY subbed of just to rest COLYER?<br><em title="STICKY">sticky</em>: wth? Heppell SC 19 more than Ryder!<br><em>24incharms</em>: Stanton the DT garbage king !<br><em>adz11</em>: Watson 133 SC<br><em>jballstars</em>: stanton is still shower<br><em>Solat</em>: geez i have heppell inSC<br><em>Rockafella</em>: DirtyDawn&#044; how ya going<br><em>Rourke</em>: just make the Rock Fletch's permanent icon<br><em>raz07</em>: just the 150 SC for stanton<br>
+240027,Brent,Stanton,ES,60,193,154,258,147,195,32,7,17,8,0,0,1,0,3, Full Time,superman,%O and %M with %T and %s... racked it up all day including a humongous Q4,,
+290629,Dyson,Heppell,ES,32,137,87,174,114,150,19,15,14,2,0,0,0,0,0, Full Time,cherry,%D and %M with %T... had a massive Q3,job,Running off Polec
+230231,Jobe,Watson,ES,37,134,134,170,110,153,18,18,8,5,0,0,2,1,0, Full Time,star,%2 Redden... %O and %T with %M and %s,,
+240319,Sam,Lonergan,ES,51,129,142,169,92,123,13,9,3,12,0,3,0,2,0, Full Time,x-factor,%P and %T plus %M and %s,tagger,Tagging Black
+230060,Ricky,Dyson,ES,26,111,93,142,88,114,17,8,8,3,0,2,0,1,0, Full Time,hot,%O and %M plus %T and %s,,
+261320,Tom,Bellchambers,ES,26,110,121,134,99,120,13,8,9,1,26,3,2,0,1, Full Time,hot,%H and %D with %M and %T... also %s,,
+270951,David,Zaharakis,ES,16,104,110,130,83,116,15,15,5,3,0,0,0,0,2, Full Time,hot,%s from %D and %M on McGrath... also %T,,
+240290,Angus,Monfries,ES,26,97,90,123,81,103,10,8,8,4,0,1,1,2,1, Full Time,news,%2 Adcock... %P and %M plus %T and %s,,
+280824,Jake,Melksham,ES,19,97,102,125,78,101,21,3,7,0,1,2,1,1,1, Full Time,news,%P and %M plus %s,,
+210079,Nathan,Lovett-Murray,ES,21,94,80,118,75,102,11,12,5,4,0,0,0,1,0, Full Time,news,%D and %M with %T and %s,,
+960197,Dustin,Fletcher,ES,19,88,105,116,70,90,18,2,10,0,0,0,0,0,0, Full Time,rock,Unruffled in defence as loose man as he so often is... %M and %P,,
+250352,Leroy,Jetta,ES,25,84,83,102,69,88,7,9,3,4,0,1,0,3,1, Full Time,news,%s from %O and %T on Hanley... also %M,,
+270588,Cale,Hooker,ES,18,81,72,108,63,85,12,5,7,4,0,0,1,0,1, Full Time,job,Has Brown... %M and %O with %T,,
+230051,Alwyn,Davey,ES,20,79,66,97,63,82,12,5,2,2,0,0,0,3,1, Full Time,news,%s from %O on Golby... also %T and %M,,
+260073,Ben,Howlett,ES,19,77,67,103,58,84,9,9,3,7,0,1,2,0,0, Full Time,news,%D and %T with %M... also %F,,
+270584,Kyle,Hardingham,ES,14,72,61,94,55,75,9,7,5,4,0,0,0,0,0, Full Time,job,In defence on Patfull... %P and %T with %M,,
+292503,Stewart,Crameri,ES,19,68,100,76,63,81,7,11,1,0,0,1,1,4,0, Full Time,sore,First goal... %s from %P on Maguire including four in Q1... right ribcage knock in Q3... left knee wrenched in Q4 under a Merrett tackle,,
+290641,Jake,Carlisle,ES,13,67,57,86,56,75,9,8,6,2,0,1,1,0,0, Full Time,job,Standing Cornelius... %P and %M with %T,,
+240245,Courtenay,Dempsey,ES,11,62,61,79,49,63,9,4,4,2,0,1,0,1,0, Full Time,news,%P and %M with %T and %s,subbed,Subbed off in Q3 for Colyer
+250569,Heath,Hocking,ES,13,62,68,78,50,72,4,13,2,5,0,1,1,0,0, Full Time,news,%O and %T with %M,tagger,Tagging Rockliff
+250267,Patrick,Ryder,ES,9,51,72,61,45,54,6,2,2,1,21,1,1,0,0, Full Time,news,%P and %M on Merrett... also %H,,
+280988,Travis,Colyer,ES,3,39,24,51,29,40,6,3,2,2,0,0,0,0,1, Full Time,news,On in Q3 for Demspey... %P and %M plus %s,sub,Started as a sub
+281373,Jack,Redden,BL,21,112,84,81,91,124,15,15,8,3,0,0,0,0,1, Full Time,hot,%2 Watson... %D and %M with %T and %s,,
+271072,Daniel,Rich,BL,26,107,93,82,85,121,14,15,5,6,0,1,2,0,1, Full Time,hot,%O and %T with %M and %s,,
+200007,Jonathan,Brown,BL,20,90,104,64,79,97,11,10,7,0,0,3,0,2,1, Full Time,sore,Booted %s from %P and %G on Hooker... freshened up a left shoulder injury in Q4,,
+240710,Ben,Hudson,BL,22,85,103,83,79,98,4,12,4,3,23,2,2,1,0, Full Time,news,%H and %P plus %T and %M... also %s,,
+270512,Pearce,Hanley,BL,13,80,91,58,61,90,11,13,1,5,0,1,1,0,0, Full Time,news,%P and %T,job,Responsible for Jetta
+293871,Jack,Crisp,BL,16,74,72,52,60,78,10,6,4,2,0,0,0,2,0, Full Time,cash,%s from %P and %M with %T,,
+270919,Tom,Rockliff,BL,10,73,74,58,61,84,8,13,5,2,0,0,0,0,0, Full Time,tagged,Tagged by Hocking... %B among %O with %T and %M,,
+240087,Jed,Adcock,BL,10,71,59,51,59,84,10,11,4,3,0,1,2,0,0, Full Time,news,%2 Monfries... %D and %T with %M,,
+260975,James,Polkinghorne,BL,9,70,69,35,56,78,14,7,3,2,0,3,2,0,0, Full Time,news,%O and %M with %T,,
+980007,Simon,Black,BL,13,70,55,46,63,91,9,18,3,0,0,0,1,0,1, Full Time,tagged,Tagged by Lonergan... %D including %B with %M and %s,,
+291548,Ryan,Lester,BL,9,68,66,48,54,75,10,8,4,3,0,1,1,0,0, Full Time,news,%P and %T with %M,,
+210013,Ashley,McGrath,BL,14,65,49,44,51,70,10,5,3,3,0,0,1,1,1, Full Time,sore,%P and %M with %T on Zaharakis... also %s... groin problem in Q4,,
+290110,Mitchell,Golby,BL,9,65,59,54,47,66,8,6,3,5,0,0,0,0,0, Full Time,news,%D and %T plus %M,job,Minding Davey
+290738,Jared,Polec,BL,10,59,62,36,48,62,9,4,2,1,2,0,0,2,0, Full Time,news,%s from %O and %M on Heppell,,
+261391,Aaron,Cornelius,BL,10,57,42,39,47,60,8,5,4,1,0,1,0,1,0, Full Time,news,%s from %O and %M on Carlisle,,
+220062,Matt,Maguire,BL,4,55,75,43,42,58,7,6,3,3,1,0,0,0,0, Full Time,job,Standing Crameri... %D and %T with %M,,
+281048,Ryan,Harwood,BL,7,50,48,31,42,60,8,8,3,1,0,0,1,0,0, Full Time,news,%D and %M,,
+290808,Patrick,Karnezis,BL,7,46,22,36,38,47,6,2,6,1,0,0,0,0,2, Full Time,news,On in Q3 for Longer... %s from %G and %O,sub,Started as a sub
+230170,Joel,Patfull,BL,2,32,35,28,27,36,3,5,3,1,0,0,0,0,0, Full Time,news,Playing forward on Hardingham... %D and %M,,
+230147,Daniel,Merrett,BL,7,30,48,29,24,39,4,3,1,5,0,1,4,0,0, Full Time,job,In defence on Ryder... %D and %T... also %F,,
+271071,Todd,Banfield,BL,2,21,18,19,17,27,2,5,0,2,0,0,1,0,0, Full Time,news,Donuts in Q1 and did bugger all for the rest of the day too... %P,,
+291828,Billy,Longer,BL,2,21,23,27,15,19,0,1,0,3,7,0,0,0,0, Full Time,news,%H and %T,subbed,Subbed off in Q3 for Karnezis

@@ -1,0 +1,48 @@
+Collingwood,Magpies,Gold Coast,Suns,R10,23.11.149,7.10.52, Full Time
+Jun 3,2012,4:40,MCG,Fox Sports,240359,10341009,430097,0,A shower or two,16,,
+
+<em style='color:#e50000'>m0nty</em>: Ablett ended up third in SC :)<br><em>MightyEss</em>: holy flower ablett...<br><em>K.Hunt</em>: Got 2501 wooohooo<br><em>tamoz</em>: personal best dt of 2449!! Yay<br><em>tamoz</em>: personal best dt of 2449!<br><em>Jormas</em>: well&#044; after being projected 2400&#044; ended up with 2109. <br><em>Moona</em>: 2445 - my best ever<br><em>Bedlam</em>: SC scores are always adjusted at the end of the game depending on what effect the player had on the game<br><em>Pokerface</em>: DangerousD because the first half is scaled up&#044; the second half was junk time. not ridiculous at all<br><em>TheLegend6</em>: if ablett scored 120 i woulda won :P<br><em>Big Stick</em>: sc doesn't lie&#044; gaj best on 3 votes up yours m0nty<br><em>layngarys </em>: to be honest&#044; i think abblet equally deserves the seagull swell as the magnet<br>
+240359,Dale,Thomas,CO,33,133,159,164,107,141,18,14,5,4,0,2,0,3,0, Full Time,star,%2 Ablett jnr and was more influential as he was against Dangerfield last week... %D and %T with %M and %s,,
+261799,Sharrod,Wellingham,CO,31,125,106,161,98,129,19,8,9,4,0,0,0,1,3, Full Time,hot,%P and %M plus %s,,
+210003,Alan,Didak,CO,27,120,102,154,99,132,21,8,9,2,0,0,2,2,0, Full Time,hot,%s from %P and %M on Shaw... right ankle knock in Q1,,
+240300,Cameron,Wood,CO,33,114,157,138,99,127,11,12,5,4,25,1,2,1,0, Full Time,bluemoon,#1 ruck... %P and %H... also %M and %T... kicked %s as well,in,Late replacement for Darren Jolly
+240366,Travis,Cloke,CO,26,112,127,142,93,115,15,4,9,3,0,1,1,3,4, Full Time,hot,Booted %s from %G and %O with %T on Warnock... owes his fantasy owners at least a couple of big ones,,
+271001,Dayne,Beams,CO,21,101,121,122,85,120,12,20,3,3,0,1,1,1,0, Full Time,hot,%2 Hunt... %O and %T with %M and %s,,
+290821,Alex,Fasolo,CO,22,100,102,127,83,108,13,8,8,3,0,0,1,2,0, Full Time,hot,First goal... %s from %O and %M... also %T,,
+293801,Jamie,Elliott,CO,25,100,106,126,81,100,15,3,7,2,0,1,0,3,1, Full Time,hot,Second game... %s from %P and %M on Caddy... also %T,,
+250683,Simon,Buckley,CO,24,94,82,118,77,102,17,8,7,0,0,0,0,1,0, Full Time,news,%D and %M,harley,Running with Bennell
+295296,Marley,Williams,CO,20,84,83,110,62,84,12,5,4,5,0,0,0,1,0, Full Time,bubble,%s from %P and %M with %T,,
+272005,Marty,Clarke,CO,13,75,85,98,60,81,13,6,6,2,0,1,1,0,0, Full Time,news,%O and %M with %T,job,Minding Hall
+230263,Nick,Maxwell,CO,12,73,84,93,60,77,11,6,7,1,2,1,0,0,0, Full Time,job,On Day... %D and %M,,
+280104,Jarryd,Blair,CO,13,71,79,90,56,87,9,15,0,5,0,0,2,0,0, Full Time,news,%P on Iles,,
+260246,Tyson,Goldsack,CO,16,69,94,91,51,66,8,3,4,5,0,1,0,1,0, Full Time,news,%P and %T with %M up forward again,,
+280965,Steele,Sidebottom,CO,9,68,74,85,57,84,11,13,2,2,0,1,2,0,0, Full Time,missing,%2 Rischitelli... %D and %M,dttalk,Calvin's #1 DT captain option
+240073,Harry,O'Brien,CO,8,63,56,81,50,66,11,5,5,1,0,1,0,0,0, Full Time,brazil,%O and %M,job,Has Brown
+260257,Scott,Pendlebury,CO,13,59,95,72,49,66,8,9,1,2,0,3,1,1,0, Full Time,injured,Tagged by Wilkinson... %P and %T plus %s... right knee knock early in Q1 and played on,subbed,Subbed off in Q3 for Ugle as a precaution
+260394,Chris,Dawes,CO,9,59,74,73,48,65,7,8,3,2,5,0,0,0,0, Full Time,news,%G and %D on Thompson... also %H and %T,,
+260310,Nathan,Brown,CO,5,56,61,73,43,57,7,5,4,3,0,1,0,0,0, Full Time,job,Has Lynch... %P and %T with %M,,
+291386,Ben,Sinclair,CO,15,46,56,54,44,57,4,6,2,1,0,0,2,3,0, Full Time,news,Kicked %s from %P and %M on Sexton,,
+294826,Tom,Young,CO,5,45,43,56,38,51,3,8,4,2,0,0,0,0,0, Full Time,news,%O and %M,,
+294740,Kirk,Ugle,CO,2,26,30,32,20,30,2,6,0,2,0,0,0,0,0, Full Time,in,%l Alan Toovey... on in Q3 for Pendlebury,sub,Started as a sub
+220001,Gary,Ablett jnr,GC,55,190,155,120,147,207,31,22,9,7,0,1,1,0,0, Full Time,magnet,%2 Thomas... %P and %T with %M... racked it up in Q2 and Q4 especially,,
+294266,Tom,Hickey,GC,26,112,107,101,97,117,9,10,8,4,24,4,1,0,0, Full Time,hot,%D and %T with %M... also %H,,
+291594,Harley,Bennell,GC,19,103,97,76,84,115,13,15,6,3,0,0,0,0,4, Full Time,hot,%s from %O and %M on Buckley,,
+290527,Trent,McKenzie,GC,19,94,62,60,70,94,16,5,6,4,1,1,0,0,0, Full Time,in,%l Dion Prestia... %P and %M,,
+250249,Danny,Stanley,GC,15,92,73,68,73,96,13,7,9,3,0,0,0,0,0, Full Time,news,Playing a HBF... %P and %M,,
+240316,Sam,Iles,GC,13,83,63,38,66,90,17,7,6,0,0,0,0,0,0, Full Time,news,%P and %M,job,Running off Blair
+281025,Luke,Russell,GC,20,82,74,61,67,85,11,5,8,2,1,0,0,1,0, Full Time,news,%s from %P and %M,,
+296735,Aaron,Hall,GC,25,80,67,72,58,79,8,7,2,7,0,1,0,1,1, Full Time,cash,%s from %D and %M with %T on Clarke,,
+290790,Matthew,Shaw,GC,18,74,70,45,64,84,12,7,7,0,0,0,1,1,0, Full Time,job,Minding Didak... %P and %M plus %s,,
+293813,Thomas,Lynch,GC,14,65,39,47,56,70,9,4,7,1,0,1,1,1,1, Full Time,news,Kicked %s from %P and %G on Brown,,
+220013,Campbell,Brown,GC,16,62,66,45,60,78,8,6,5,1,0,1,4,3,0, Full Time,news,%s from %P and %M on O'Brien,,
+240012,Andrew,McQualter,GC,10,61,45,57,47,64,6,6,4,5,0,1,1,0,1, Full Time,news,%O and %T,,
+294643,Alex,Sexton,GC,5,61,48,40,47,63,10,4,5,2,0,0,0,0,0, Full Time,job,In defence on Sinclair... %P and %T with %M,,
+281075,Rory,Thompson,GC,8,52,66,39,43,54,7,4,6,1,0,1,0,0,0, Full Time,job,Standing Dawes... %D and %M,,
+250716,Matthew,Warnock,GC,5,47,50,37,39,54,6,6,4,2,0,0,1,0,0, Full Time,job,Following Cloke... %M and %D with %T,,
+290623,Josh,Caddy,GC,7,46,50,31,40,54,6,9,3,0,0,1,0,0,0, Full Time,job,Responsible for Elliott... %O and %M,,
+292512,Karmichael,Hunt,GC,7,43,53,30,38,52,5,10,2,0,1,1,0,0,0, Full Time,nz,%2 Beams... %D,,
+290703,Joel,Wilkinson,GC,3,42,38,33,34,45,6,3,3,3,0,3,2,0,0, Full Time,nigeria,%P and %T... also %F,tagger,Tagging Pendlebury
+281279,Kyal,Horsley,GC,3,38,32,28,31,42,5,5,3,1,0,0,0,0,0, Full Time,wall,%D and %M,subbed,Subbed off in Q3 for Magin
+291753,Sam,Day,GC,3,33,29,35,30,38,1,6,3,1,5,0,0,0,0, Full Time,news,%D on Maxwell... also %H,,
+240712,Michael,Rischitelli,GC,7,30,23,26,22,34,4,3,0,4,0,1,2,0,1, Full Time,news,%2 Sidebottom... %P and %T,,
+290520,Alik,Magin,GC,2,28,20,26,24,33,2,6,2,1,0,0,0,0,0, Full Time,news,On in Q3 for Horsley,sub,Started as a sub

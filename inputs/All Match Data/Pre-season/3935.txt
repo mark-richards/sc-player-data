@@ -1,0 +1,62 @@
+North Melbourne,Kangaroos,Western Bulldogs,Bulldogs,W3,14.16.100,18.8.116, Full Time
+Mar 11,2012,3.40,North Ballarat,Fox Footy,,10330309,,36,Partly cloudy,21,,
+
+<em>spiggs</em>: great to see wellsy back in action!<br><em>Pokerface</em>: any coincidence they are all bulldogs players<br><em>R.Griffen.</em>: for Mid??? or FWD<br><em>jappleby</em>: u mean couple years ago harbrow<br><em>Adamant</em>: plus beams has a shin injury<br><em>lloydy28</em>: u mean 90's Danny Southern<br><em>pavs nose</em>: lin jong? any one for lin jong?<br><em>R.Griffen.</em>: I stackec my mids I have Swan&#044; Ablett&#044; Murphy&#044; Selwood and Griffen<br><em>FTroopCapt</em>: Yes Demons - Im either thinking LBerger & Redden/Giles<br><em>Adamant</em>: why would you want Beams when you can get sidebottom for 74k cheaper and will average the same??<br><em>Pokerface</em>: rats tails havent been seen since the 80s zeph<br><em>Demons15</em>: reckon i could get away with a cox-redden ruck combo?<br>
+271129,Todd,Goldstein,NM,21,78,-,90,68,84,2,11,2,4,27,1,0,0,0, Full Time,news,%H and %P with %T and %M,,,97
+230240,Aaron,Edwards,NM,16,72,-,93,55,70,9,4,4,4,0,2,0,1,1, Full Time,news,Booted %s from %G with %P and %T on Markovic,,,92
+281395,Scott D.,Thompson,NM,15,72,-,86,63,81,9,11,5,0,0,2,0,1,0, Full Time,news,%P and %M plus %s,job,Following Skinner,100
+260545,Liam,Anthony,NM,15,71,-,85,62,83,11,9,3,0,0,0,1,2,2, Full Time,news,First goal... %P and %M plus %s,,,65
+280864,Sam,Wright,NM,9,66,-,87,52,69,12,4,5,2,0,2,1,0,0, Full Time,job,In defence on Dickson... %O and %M with %T,,,76
+280944,Jack,Ziebell,NM,8,59,-,74,49,66,8,9,3,2,0,3,1,0,0, Full Time,news,%2 Dahlhaus... %O and %M with %T,,,77
+270325,Robbie,Tarrant,NM,9,58,-,77,50,65,8,3,7,2,2,0,2,0,3, Full Time,news,Started forward... %s from %D and %M with %T,,,97
+960491,Brent,Harvey,NM,7,53,-,64,44,63,9,10,2,0,0,0,0,0,0, Full Time,news,On in Q3... %O and %M,sub,Started as a sub,47
+230272,Michael,Firrito,NM,12,52,-,65,47,63,7,8,6,0,0,0,1,0,0, Full Time,job,Standing Cordy... %P and %M,,,86
+250285,Leigh,Adams,NM,10,51,-,63,44,58,5,7,3,2,0,1,1,1,1, Full Time,news,%s from %D with %M and %T on Addison,subbed,Subbed off at HT,43
+290787,Shaun,Atley,NM,9,49,-,61,41,57,8,6,2,1,0,0,1,1,0, Full Time,news,%O with %M and %s,,,88
+230232,Daniel,Wells,NM,9,47,-,58,37,49,6,5,1,2,0,1,0,1,1, Full Time,news,On in Q3... %P plus %s including a ninepointer,sub,Started as a sub,44
+270861,Levi,Greenwood,NM,8,47,-,62,34,46,5,4,2,4,1,1,0,0,0, Full Time,news,%O and %T with %M,subbed,Subbed off at HT,41
+293796,Cameron,Delaney,NM,4,44,-,56,37,51,5,7,3,2,0,1,1,0,0, Full Time,job,Minding Grant... %O and %M plus %T,,,100
+280921,Ben,Cunnington,NM,3,43,-,55,34,49,5,7,1,3,0,1,1,0,1, Full Time,news,Started forward trying to give Lake some trouble... %D and %T plus %s,,,76
+240189,Matt,Campbell,NM,8,37,-,47,30,37,5,1,3,1,0,0,0,1,1, Full Time,news,On in Q3... %s from %O and %M,sub,Started as a sub,46
+261909,Lindsay,Thomas,NM,3,37,-,50,34,51,9,4,2,1,0,1,4,0,3, Full Time,news,Still has the yips... %s from %O and %M... also %F,,,83
+290547,Kieran,Harper,NM,9,37,-,47,29,39,4,2,0,3,0,0,1,2,0, Full Time,news,Deep forward... %s from %P and %T,,,88
+280863,Ryan,Bastinac,NM,3,35,-,43,29,45,4,9,0,2,0,0,1,0,0, Full Time,news,%2 Griffen... %B among %D with %T,subbed,Subbed off at HT,43
+240417,Andrew,Swallow,NM,8,30,-,35,30,39,2,6,3,0,0,0,1,1,0, Full Time,sore,On in Q3... %D and %M plus %s... knee twisted in Q4 but he was fine,sub,Started as a sub,38
+292029,Cameron,Pedersen,NM,2,27,-,35,22,33,1,6,1,3,0,0,1,0,0, Full Time,job,In defence on the resting ruckman which is mostly Campbell... %B among %P with %T,,,64
+230141,Hamish,McIntosh,NM,7,24,-,28,22,24,2,1,2,0,3,1,0,1,0, Full Time,news,%H and %D with %M and %s,subbed,Subbed off at HT,34
+271300,Cruize,Garlett,NM,2,22,-,29,19,27,3,3,2,1,0,0,1,0,0, Full Time,tog,Spent Q1 and Q3 as a sub... %P and %M,,,27
+291445,Aaron,Mullett,NM,1,19,-,24,15,21,4,2,1,0,0,0,0,0,0, Full Time,news,%D on Delaney,subbed,Subbed off at HT,51
+291672,Aaron,Black,NM,0,14,-,18,11,14,1,1,1,1,1,0,0,0,1, Full Time,news,On in Q3... %s from %P,sub,Started as a sub,49
+290194,Jamie,MacMillan,NM,0,12,-,15,9,13,3,1,0,0,0,0,0,0,1, Full Time,job,In defence on Higgins... %P and %s,subbed,Subbed off at HT,47
+291963,Brad,McKenzie,NM,1,9,-,13,9,12,2,0,2,0,0,0,1,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,45
+250315,Gavin,Urquhart,NM,0,8,-,11,7,12,3,1,0,0,0,0,1,0,0, Full Time,news,On in Q3 and went to Giansiracusa... %O,sub,Started as a sub,43
+250557,Sam,Gibson,NM,0,5,-,6,4,6,1,1,0,0,0,0,0,0,0, Full Time,news,Spent Q1 as a sub... %D,subbed,Subbed off at HT,11
+291526,Luke,Dahlhaus,WB,19,88,-,113,64,90,12,11,1,6,0,3,0,0,0, Full Time,news,%2 Ziebell in midfield and looked very good... %P and %T,,,85
+290246,Tom,Campbell,WB,18,78,-,93,68,80,6,5,5,2,5,1,0,3,3, Full Time,news,%H and %P plus %M and %T... also an impressive %s,,,86
+291545,Mitch,Wallis,WB,15,78,-,102,60,84,12,8,4,4,0,1,1,0,0, Full Time,news,Poor last week so needs a good one to challenge for R1... %D and %T with %M,,,87
+280012,Jordan,Roughead,WB,16,77,-,92,65,80,6,7,3,3,16,1,0,1,1, Full Time,news,Started in ruck... %H and %D with %M and %T... also %s,,,93
+293847,Clay,Smith,WB,14,76,-,101,65,94,13,9,6,3,0,0,4,0,1, Full Time,news,Started in the guts... terrible disposal efficiency but he kept getting it... %O and %M plus %T and %s,,,70
+220039,Brian,Lake,WB,13,73,-,96,56,72,11,4,6,3,0,2,0,0,0, Full Time,job,On Harper... %D and %M with %T... subbed off for Q4,,,73
+290799,Tom,Liberatore,WB,9,72,-,87,60,85,8,15,3,2,0,0,0,0,1, Full Time,news,%D and %M plus %T and %s,,,76
+240156,Ryan,Griffen,WB,15,71,-,90,55,70,10,4,1,4,0,4,1,2,1, Full Time,news,%2 Bastinac... %O and %T plus %s,subbed,Subbed off at HT,44
+281374,Christian,Howard,WB,8,67,-,86,53,75,10,9,3,3,0,1,1,0,0, Full Time,news,Playing off a wing... %O and %M with %T,,,91
+295712,Tory,Dickson,WB,12,63,-,82,45,62,10,5,1,4,0,2,0,0,2, Full Time,news,%s from %O and %T on Wright,,,92
+270186,Patrick,Veszpremi,WB,8,57,-,76,44,60,15,1,4,0,0,1,1,0,0, Full Time,news,%O with %k by foot... also %M,,,90
+280442,Zephaniah,Skinner,WB,11,56,-,70,50,65,8,4,4,1,0,0,2,2,2, Full Time,news,Booted %s from %P and %G on Thompson,,,67
+281102,Matthew,Panos,WB,5,54,-,69,43,55,7,5,4,2,0,2,0,0,1, Full Time,news,Spent Q1 as a sub... %O and %T with %M and %s,,,64
+280056,Ayce,Cordy,WB,4,52,-,64,43,57,5,8,3,2,3,1,0,0,0, Full Time,news,%D and %M on Firrito... also %H and %T,,,93
+261319,Jarrad,Grant,WB,4,50,-,65,38,48,8,2,3,2,0,2,0,0,3, Full Time,news,Delaney on him... %s from %O with %M and %T,,,91
+293676,Daniel,Pearce,WB,7,48,-,62,37,54,9,6,1,2,0,1,1,0,0, Full Time,news,%P and %T,,,91
+250601,Lukas,Markovic,WB,5,44,-,59,35,48,7,3,4,2,0,0,1,0,0, Full Time,job,Has Edwards... %P and %M with %T,,,96
+200079,Daniel,Giansiracusa,WB,4,41,-,54,30,42,7,3,2,2,0,0,0,0,0, Full Time,news,On in Q3 and got Urquhart... %D and %M plus %T,sub,Started as a sub,45
+295313,Lin,Jong,WB,2,33,-,40,27,39,4,7,1,1,0,0,0,0,0, Full Time,news,Spent Q1 as a sub... ran about with Harvey for a while... %P,,,54
+281139,Easton,Wood,WB,3,32,-,41,27,39,7,4,2,0,0,0,1,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,49
+260227,Shaun,Higgins,WB,2,29,-,35,23,34,4,6,0,1,0,0,0,0,1, Full Time,news,%s from %P on MacMillan,subbed,Subbed off at HT,45
+280882,Tom,Hill,WB,7,25,-,32,21,27,2,2,1,2,0,1,1,1,0, Full Time,news,On in Q4... %s from %D,sub,Started as a sub,24
+261310,James,Mulligan,WB,1,18,-,22,15,21,3,3,1,0,0,0,0,0,0, Full Time,news,%O,subbed,Subbed off at HT,66
+291810,Michael,Talia,WB,2,18,-,22,16,21,2,3,2,0,0,0,0,0,0, Full Time,news,On in Q3... %D and %M,sub,Started as a sub,33
+280919,Andrew,Hooper,WB,1,15,-,18,13,18,2,3,1,0,0,0,0,0,0, Full Time,job,Standing Mullett... %O,subbed,Subbed off at HT,46
+240212,Dylan,Addison,WB,0,14,-,18,10,12,2,1,0,1,0,2,0,0,0, Full Time,job,Chasing Adams... %D,subbed,Subbed off at HT,47
+240029,Brodie,Moles,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+291814,Fletcher,Roberts,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+292030,Jack,Redpath,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

@@ -1,0 +1,48 @@
+Collingwood,Magpies,Essendon,Bombers,R5,11.14.80,11.13.79, Full Time
+Apr 25,2012,2:40,MCG,Seven,220105,10340501,430044,0,Rain clearing,15,,
+
+<em>morrowind</em>: Heppell on fire?&#044; Sidey smashed him<br><em>Shiri</em>: If Stantons goal was the sealer how many points would he have gotten?<br><em>tronleg</em>: how can cloke score less than clarke<br><em>frozensage</em>: and stanton gets 70 as well for having done fk all?<br><em>josh111</em>: i think boyd will rack it. been in great from except last week and only coz he got tagged but bullys will kill it<br><em>dmac0712</em>: how did clarke end up with more than cloke?!?! crazy&#044; cloke -10 last qrt?? :(<br><em>Lodgy</em>: heppel responsible for sidebottom? congrats on lettin ur opponent kick bum<br><em>Patty19</em>: @josh11 im in the same situation i might bo boyd to bounce back<br><em>barlow32</em>: so glad i put swan as my captain<br><em>DuhWinning</em>: hstants got 28 for that late goal in SC noob<br><em>higgogun!</em>: sidebottom and watsons sc are shower! :/<br><em>DuhWinning</em>: 171 !!! yesa swan!<br>
+220105,Dane,Swan,CO,54,171,180,217,133,181,28,14,6,6,0,1,1,3,1, Full Time,anzac,%2 Watson then got Howlett's tag in Q2 but that didn't work... Hird tried Stanton on him... %P and %T plus %s... had a massive Q1 and a massive Q3 as well,,
+271001,Dayne,Beams,CO,26,121,98,152,97,132,18,14,7,3,0,0,0,1,0, Full Time,hot,%D including %K with %M and %T,,
+260257,Scott,Pendlebury,CO,16,113,140,142,89,126,18,16,5,3,0,0,0,0,0, Full Time,hot,Tagged by Hocking... %P and %M with %T,,
+280965,Steele,Sidebottom,CO,21,109,104,139,84,114,19,9,5,3,0,1,0,1,0, Full Time,hot,First goal... %s from %D and %M on Heppell,,
+200021,Ben,Johnson,CO,14,91,82,118,68,96,21,6,4,1,0,0,0,0,0, Full Time,news,%O and %M,job,Matched up on Davey
+210099,Darren,Jolly,CO,39,86,100,108,76,97,4,5,2,8,34,1,5,1,0, Full Time,news,%H and %P with %T... also %F,,
+261799,Sharrod,Wellingham,CO,25,84,87,113,59,85,11,7,2,8,0,1,1,0,1, Full Time,news,Playing a HFF role... %D and %T,,
+240419,Alan,Toovey,CO,19,78,80,107,51,72,13,2,2,7,0,1,0,0,0, Full Time,job,Chasing Jetta... %P and %T with %M,,
+240366,Travis,Cloke,CO,20,76,68,94,65,76,11,1,7,0,0,1,0,3,1, Full Time,news,Booted %s from %P and %M on Pears,,
+291386,Ben,Sinclair,CO,21,74,71,102,48,68,8,3,2,9,0,0,0,0,2, Full Time,news,%O and %T on Hardingham,,
+250683,Simon,Buckley,CO,8,63,65,83,45,64,12,4,2,3,0,0,0,0,1, Full Time,news,%P and %s,job,Following Zaharakis
+260246,Tyson,Goldsack,CO,15,63,54,87,44,62,7,3,3,7,0,0,1,0,2, Full Time,news,Starting forward on Fletcher... %O and %M with %T,,
+260394,Chris,Dawes,CO,6,63,38,78,53,69,6,8,5,2,6,0,0,0,0, Full Time,news,%D and %T with %M on Hooker... also %H,,
+290821,Alex,Fasolo,CO,15,62,52,83,45,65,7,6,2,6,0,0,1,0,2, Full Time,news,%O and %T on Hibberd... also %M,,
+240073,Harry,O'Brien,CO,8,58,58,74,44,63,8,8,2,3,0,0,0,0,0, Full Time,job,Responsible for Carlisle until Q3 when Monfries went to him... %P and %T,,
+230263,Nick,Maxwell,CO,7,57,78,74,41,60,10,6,1,3,0,0,0,0,0, Full Time,job,Started on Monfries then got Carlisle in Q3... %P and %T,,
+280104,Jarryd,Blair,CO,13,54,84,63,48,63,6,9,1,1,0,2,1,2,0, Full Time,news,%s from %D on Dyson,,
+290314,Lachlan,Keeffe,CO,3,46,63,58,37,48,7,5,3,1,0,2,0,0,0, Full Time,job,Has the resting ruckman... %D,,
+272005,Marty,Clarke,CO,3,45,69,59,36,51,9,4,3,1,0,0,1,0,0, Full Time,news,Tagging Stanton in the first half... %O and %M,,
+260310,Nathan,Brown,CO,4,40,66,54,33,48,5,5,3,3,0,0,2,0,0, Full Time,job,Standing Crameri... %O and %M,,
+294733,Paul,Seedsman,CO,12,34,20,52,23,37,3,1,1,7,0,0,3,0,1, Full Time,news,%P and %T plus %s,subbed,Subbed off in Q4 for Ugle
+294740,Kirk,Ugle,CO,1,12,24,15,12,18,2,3,1,0,0,0,1,0,0, Full Time,news,On in Q4 for Seedsman,sub,Started as a sub
+290629,Dyson,Heppell,ES,25,111,116,86,86,112,15,7,10,5,1,1,0,0,0, Full Time,hot,%D and %M,job,Responsible for Sidebottom
+260073,Ben,Howlett,ES,31,110,88,95,84,110,12,8,7,7,0,1,0,1,2, Full Time,hot,Moved to Swan in Q2 then off again as that didn't work... %D and %M plus %T and %s,,
+230231,Jobe,Watson,ES,25,104,93,91,79,109,11,12,6,7,1,0,0,0,0, Full Time,hot,%2 Swan in Q1 then released... %D and %T with %M,,
+270951,David,Zaharakis,ES,21,104,113,72,81,108,15,9,3,5,0,3,1,2,0, Full Time,hot,%s from %P and %T on Buckley,,
+230060,Ricky,Dyson,ES,19,92,83,45,65,94,19,6,2,4,0,0,0,0,1, Full Time,job,Has Blair... %D and %T plus %s,,
+240319,Sam,Lonergan,ES,24,86,101,74,63,88,9,10,1,7,0,1,0,1,1, Full Time,news,Trying to get to Swan but can't go with him... %O and %T,,
+261320,Tom,Bellchambers,ES,16,83,80,66,75,87,8,6,5,1,27,4,1,0,0, Full Time,news,%H with %P and %M,,
+250569,Heath,Hocking,ES,25,82,113,72,59,81,9,6,3,7,0,0,0,1,0, Full Time,news,%D and %T,tagger,Tagging Pendlebury
+240027,Brent,Stanton,ES,21,77,71,53,54,72,13,0,3,6,0,2,1,1,0, Full Time,swan,Tagged by Clarke mostly though he spent some time on Swan in Q2 and Q4... %D and %T with %M and %s,,
+250267,Patrick,Ryder,ES,14,74,104,53,62,82,10,6,3,3,15,1,2,0,1, Full Time,news,Started forward on Keeffe... %P and %H with %M and %T,,
+240290,Angus,Monfries,ES,15,69,62,47,55,71,10,5,4,2,0,1,0,1,2, Full Time,news,%s from %D and %M with %T... started on Maxwell but moved to O'Brien in Q3,,
+290641,Jake,Carlisle,ES,13,69,69,52,56,74,9,7,6,2,0,0,0,0,2, Full Time,news,%O and %G with %T on O'Brien then got Maxwell in Q3,,
+960197,Dustin,Fletcher,ES,9,69,79,36,51,69,14,2,5,2,0,0,0,0,0, Full Time,tagged,Forward tag on him by Goldsack... %O and %M,,
+280824,Jake,Melksham,ES,10,67,54,49,49,66,10,4,4,4,0,1,0,0,0, Full Time,news,%O and %M with %T,,
+230051,Alwyn,Davey,ES,21,66,73,58,52,66,6,4,2,4,0,0,0,3,0, Full Time,news,%s from %D and %T on Johnson,,
+250352,Leroy,Jetta,ES,14,58,59,58,39,57,5,6,1,7,0,0,0,0,0, Full Time,news,%P and %T on Toovey,,
+270584,Kyle,Hardingham,ES,5,57,66,44,43,57,8,3,5,3,0,0,0,0,0, Full Time,job,Minding Paine... %M and %D,,
+270588,Cale,Hooker,ES,5,49,59,30,40,57,9,4,4,2,0,0,2,0,0, Full Time,job,Following Cloke... %D and %M... also %F,,
+292503,Stewart,Crameri,ES,7,37,46,42,27,39,2,5,1,5,0,1,1,0,0, Full Time,news,%O and %T on Brown,,
+280413,Cory,Dell'Olio,ES,8,35,27,27,28,40,5,2,1,3,0,0,2,1,1, Full Time,news,On in Q1 for Hibberd... %s from %P and %T,sub,Started as a sub
+271022,Tayte,Pears,ES,7,31,45,36,22,33,1,6,0,4,0,0,0,0,0, Full Time,job,On Dawes... %P and %T,,
+290160,Michael,Hibberd,ES,1,28,15,13,20,27,6,1,1,1,0,1,0,0,0, Full Time,injured,Minding Fasolo... %P with %k by foot... right hamstring went TWANG in Q1,subbed,Subbed off in Q1 for Dell'Olio

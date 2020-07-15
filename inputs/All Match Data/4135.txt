@@ -1,0 +1,48 @@
+West Coast,Eagles,Sydney,Swans,R16,10.9.69,18.13.121, Full Time
+Jul 15,2012,4:40,Subiaco,Fox Sports,990011,10341609,430142,0,A shower or two,18,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>old_shepp</em>: Maybe they were tanking Bluepoo - familiar with that term?<br><em>buttersMIZ</em>: howd you get icons<br><em>buttersMIZ</em>: crows<br><em>Kobe_10</em>: adelaide v collingwood grand final<br><em>richorocks</em>: Goodes vs natanui for the game. YOU BEAUTY!<br><em style='margin-bottom:-2px'><b class="ticon tFR"></b> GET_FYFED</em>: what is myke pyke talking aboot?<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> Slashers</em>: Will JPK get upscaled to more than 121 SC?<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> da cooler</em>: fml cox&#044; your sc score better get scaled up heaps&#044; from anyone who watched&#044; what went wrong with him<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> WCE !</em>: Jega = spanner !<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> tor01doc</em>: syoun - really? No Hawks in GF?<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> bluepoo</em>: any team that loses to carlton twice in one season should be excluded from gf discussion<br><em style='margin-bottom:-2px'><b class="ticon tPA"></b> scoregasms</em>: Goodes estimated breakeven for next week is 42...<br>
+270928,Scott,Selwood,WC,37,116,114,152,83,114,17,8,3,8,0,2,0,1,0, Full Time,hot,%O and %T plus %M and %s,,
+240124,Matt,Priddis,WC,48,111,128,146,78,117,7,18,0,14,0,1,1,0,0, Full Time,hot,%2 O'Keefe... %P and %T,,
+261290,Chris,Masten,WC,25,103,90,130,83,105,14,5,7,3,0,0,0,3,0, Full Time,hot,%s from %P and %M on Smith,,
+210018,Daniel,Kerr,WC,15,101,105,129,75,108,20,11,2,3,0,1,0,0,0, Full Time,hot,Tagged by Jack... %O and %T,,
+290801,Andrew,Gaff,WC,18,94,92,120,77,102,17,9,7,1,0,3,1,0,0, Full Time,news,%2 Hannebery... %P and %M,,
+250111,Matt,Rosa,WC,13,87,90,110,73,96,16,8,7,0,3,2,1,0,0, Full Time,news,Moved off Jetta in Q2... %O and %M,,
+240283,Shannon,Hurn,WC,14,86,83,118,58,81,18,0,4,5,0,0,0,0,0, Full Time,job,Minding Bird... %P and %T,,
+200112,Dean,Cox,WC,17,83,74,97,73,82,8,5,4,1,21,5,0,1,1, Full Time,news,%s from %P on Grundy... also %H,,
+240159,Sam,Butler,WC,14,78,77,104,60,78,12,3,8,3,0,0,0,0,0, Full Time,job,Responsible for McGlynn... %D and %M,,
+200074,Darren,Glass,WC,18,76,85,98,60,81,6,10,6,5,0,0,0,0,0, Full Time,news,%P and %T with %M,job,Following Reid
+271073,Thomas,Swift,WC,16,71,58,98,52,73,9,4,4,7,0,1,2,0,1, Full Time,news,%P and %T with %M and %s,tagger,Tagging Kennedy
+230254,Adam,Selwood,WC,12,63,57,81,54,72,9,7,7,1,0,0,1,0,0, Full Time,tagger,Moved to Jetta in Q2... %P,,
+250317,Eric,Mackenzie,WC,9,55,75,73,47,66,8,7,4,3,0,2,3,0,0, Full Time,job,Standing Roberts-Thomson... %P and %M with %T,,
+271045,Nic,Naitanui,WC,20,55,66,62,51,59,2,4,1,2,26,1,1,1,0, Full Time,fiji,%H and %P,,
+280324,Jacob,Brennan,WC,4,55,58,72,40,52,11,2,2,2,0,3,0,0,1, Full Time,news,%D on Malceski,,
+281080,Brad,Sheppard,WC,9,52,57,65,44,57,8,5,3,1,0,2,1,1,0, Full Time,news,%s from %P and %M on Malceski,,
+294169,Murray,Newman,WC,10,44,43,55,37,49,5,5,2,2,0,1,1,1,1, Full Time,news,First goal... %s from %O,in,Late replacement for Ashton Hams
+261214,Will,Schofield,WC,4,41,52,54,32,44,7,3,2,2,0,1,1,0,2, Full Time,switch,Starting forward on Johnson but switched back in Q3... %s from %D with %M and %T,,
+290838,Jack,Darling,WC,10,40,41,49,35,40,5,0,4,0,0,0,0,2,1, Full Time,injured,Booted %s from %P and %M on Richards... hamstring iced up in Q3,subbed,Subbed off in Q3 for Stevens
+280946,Koby,Stevens,WC,3,34,12,47,26,36,4,2,3,3,0,0,1,0,0, Full Time,news,On in Q3 for Darling,sub,Started as a sub
+260303,Mitchell,Brown,WC,2,29,26,37,26,36,5,4,3,0,0,0,1,0,0, Full Time,sore,Ran his head into Roberts-Thomson's hip early in Q1 but he was fine... %D and %M,job,Following Goodes
+280441,Patrick,McGinnity,WC,3,21,25,29,21,33,2,5,2,2,0,0,3,0,0, Full Time,tagger,Forward tag on Mattner... one touch in Q1... %D,mrp,A high bump on O'Keefe in Q3 will be scrutinised
+200071,Ryan,O'Keefe,SY,37,142,142,100,107,155,21,18,3,9,1,2,2,0,1, Full Time,star,%2 Priddis... %O and %T with %M... also %F... racked it up in Q3,,
+240226,Kieren,Jack,SY,48,118,158,99,84,123,14,15,1,11,0,2,1,0,0, Full Time,hot,%P and a massive %T,tagger,Tagging Kerr
+290117,Daniel,Hannebery,SY,27,116,119,82,100,144,14,28,4,2,0,1,1,0,0, Full Time,hot,%2 Hannebery... %O and %M,,
+230253,Jarrad,McVeigh,SY,24,96,95,49,82,112,18,10,7,0,0,0,2,1,1, Full Time,news,%D and %M plus %s,,
+990011,Jude,Bolton,SY,32,95,82,81,75,99,10,7,4,6,0,0,1,3,0, Full Time,news,%D and %M with %T and %s,,
+260382,Josh P.,Kennedy,SY,30,87,110,72,72,106,9,18,0,6,0,2,3,1,1, Full Time,tagged,Tagged by Swift... %O and %T,,
+281281,Lewis,Jetta,SY,21,86,71,64,70,89,10,6,2,3,0,0,0,4,2, Full Time,tagged,Matched up on Rosa then got the tag of Adam Selwood in Q4... %P and %s,,
+290188,Samuel,Reid,SY,21,81,87,60,69,85,10,5,5,2,0,2,1,3,1, Full Time,news,Booted %s from %P and %G on Glass,,
+230140,Ben,McGlynn,SY,15,79,70,55,64,83,11,7,5,2,0,1,0,1,2, Full Time,news,%s from %D and %M on Adam Selwood,,
+280762,Shane,Mumford,SY,22,78,79,75,71,90,5,7,4,4,29,0,3,0,1, Full Time,news,%H and %P with %M.... also %s and %F,,
+291206,Mike,Pyke,SY,17,72,82,67,65,83,5,8,4,3,16,0,2,1,1, Full Time,canada,%H and %D plus %s,,
+980073,Adam,Goodes,SY,14,71,75,44,55,75,12,5,3,3,0,1,1,1,0, Full Time,news,%s from %P and %M on Brown,,
+240072,Heath,Grundy,SY,9,66,69,31,55,78,13,9,4,0,0,0,1,0,0, Full Time,news,%M and %O,job,Has Cox
+261212,Craig,Bird,SY,14,66,101,41,57,78,9,13,2,0,0,1,0,1,0, Full Time,news,Forward role on Hurn.... %P,,
+230132,Nick,Malceski,SY,8,62,65,41,46,63,10,5,3,3,0,1,0,0,0, Full Time,job,Responsible for Sheppard... %P,,
+220063,Martin,Mattner,SY,8,57,65,40,49,69,8,10,3,2,0,2,2,0,0, Full Time,tagged,Forward tag on him by McGinnity... %O and %M,,
+291450,Alex,Johnson,SY,8,55,72,37,49,69,8,10,4,1,0,1,2,0,0, Full Time,news,%D and %M,job,In defence on Schofield
+250338,Nick,Smith,SY,4,51,48,39,40,57,7,6,3,3,0,0,1,0,0, Full Time,job,Chasing Masten... %D and %T with %M,,
+261257,Andrejs,Everitt,SY,9,49,48,36,36,46,7,1,2,3,0,1,0,1,1, Full Time,news,On after HT for Roberts-Thomson,sub,Started as a sub
+200023,Rhyce,Shaw,SY,3,47,59,28,35,51,8,6,1,2,0,0,0,0,0, Full Time,news,%P,,
+210027,Ted,Richards,SY,8,45,64,32,40,54,7,4,6,1,0,0,2,0,0, Full Time,job,On Darling... %P and %M,,
+220089,Lewis,Roberts-Thomson,SY,8,28,31,21,25,30,3,3,2,0,0,1,0,1,0, Full Time,concussed,%s from %G and %O on Mackenzie... KOed in Q2 running his head into Brennan's hip,subbed,Subbed off at HT for Everitt

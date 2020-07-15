@@ -1,0 +1,48 @@
+Essendon,Bombers,West Coast,Eagles,R16,14.16.100,20.12.132, Full Time
+Jul 17,2010,7:10,Docklands,Fox Sports,240406,10281604,5015526,5192,Roof closed,15
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em title="BENNN17">bennn17</em>: i seriously have le cras on my bench!!! why did brown have to come bak this week. ARGHHH!!!<br><em>bomber1</em>: bob k suck my plow<br><em>Jack34</em>: its only SC clearly it isnt an afl match mate<br><em>BobK</em>: need a hanky bomber1?<br><em>North_2010</em>: lecras got 228&#044; 228&#044; 228&#044; 228&#044; 228&#044; 228&#044; 228<br><em>BigV</em>: 228...legend!!<br><em>master6842</em>: priddis deerves gun as reflectedf in his SC score obviously can use ball<br><em>redgum</em>: Mark le cras. On my bench. Not scoring. :(<br><em>LAd69</em>: i have lecras as captain!!<br><em>Jack34</em>: master6842= priddis is poo&#044; he cant use the ball<br><em>master6842</em>: priddis gun<br><em>bomber1</em>: hey bob k fucck you<br>
+240027,Brent,Stanton,ES,33,110,110,142,87,114,15,6,5,6,0,2,2,3,0, Full Time,hot,Head to head with Priddis... %P and %T with %M and %s
+230238,Jason,Winderlich,ES,19,100,107,127,80,107,12,12,7,4,1,1,0,0,1, Full Time,hot,Tagged by Scott Selwood... %D and %M with %T
+280988,Travis,Colyer,ES,21,100,114,122,80,109,14,13,2,3,0,1,0,2,1, Full Time,hot,%D and %s
+260073,Ben,Howlett,ES,27,99,67,128,76,105,11,11,4,7,0,1,1,1,0, Full Time,garbage,%O and %T with %M including a lot of Q4 junk time stuff
+230231,Jobe,Watson,ES,15,83,66,104,66,93,7,15,4,5,0,0,0,0,0, Full Time,tagged,Tagged by Adam Selwood... %O and %M plus %T
+261324,Kyle,Reimers,ES,14,81,81,106,64,85,15,5,6,2,0,2,1,0,1, Full Time,news,%D and %M
+210079,Nathan,Lovett-Murray,ES,10,78,101,96,66,93,8,16,4,3,0,1,1,0,0, Full Time,job,Joined the merry-go-round on LeCras in Q3... %P and %M
+270951,David,Zaharakis,ES,16,78,56,97,63,85,11,9,4,2,0,0,0,1,1, Full Time,news,First goal... %s from %P and %M on Hurn
+240319,Sam,Lonergan,ES,15,74,78,94,61,81,11,6,3,3,0,2,2,2,0, Full Time,sore,%P and %s... headclash with Ebert in Q4 left him bleeding
+250366,Scott,Gumbleton,ES,16,72,80,93,56,70,8,4,5,4,0,2,0,1,1, Full Time,news,Booted %s from %O and %G on Brown
+270588,Cale,Hooker,ES,10,70,70,89,59,75,5,9,8,3,0,1,0,0,0, Full Time,job,On Kennedy... %D
+240290,Angus,Monfries,ES,19,68,99,85,56,75,6,10,3,4,0,2,1,1,0, Full Time,news,%s from %D and %M on Waters
+960197,Dustin,Fletcher,ES,9,65,93,86,51,69,12,4,5,2,0,1,1,0,0, Full Time,news,Moved onto LeCras in Q1 then off again... %P and %T with %M
+280824,Jake,Melksham,ES,8,61,28,79,49,63,10,4,6,1,0,1,0,0,0, Full Time,news,%P and %M
+270935,Michael,Hurley,ES,8,60,47,79,48,66,12,4,5,1,0,0,1,0,0, Full Time,job,On Lynch... %P
+250267,Patrick,Ryder,ES,12,59,56,73,52,67,5,6,3,3,10,1,2,1,0, Full Time,news,%H and %D with %M
+230051,Alwyn,Davey,ES,9,51,39,63,43,59,8,6,2,1,0,0,1,1,2, Full Time,news,%s from %O and %M on Sheppard
+250569,Heath,Hocking,ES,5,50,75,68,44,60,10,4,4,2,0,4,4,0,0, Full Time,job,Moved off LeCras in Q1 to Strijk... %O and %M with %T
+240245,Courtenay,Dempsey,ES,4,49,34,63,38,52,7,5,3,2,0,0,0,0,1, Full Time,news,%P and %s
+261320,Tom,Bellchambers,ES,4,42,14,53,38,45,4,2,5,1,9,1,1,0,0, Full Time,news,%H
+260256,Jay,Neagle,ES,8,41,60,49,36,43,5,3,3,0,0,1,0,1,4, Full Time,news,%D on Neagle
+990046,Mark,McVeigh,ES,4,41,39,53,35,48,8,4,4,0,0,0,1,0,0, Full Time,job,Minding Hams... %O
+240119,Mark,LeCras,WC,56,176,228,133,157,179,19,3,12,1,0,2,1,12,2, Full Time,star,Kicked %s from %O and %M on Hocking then Fletcher then McVeigh including four majors in Q1
+240406,Josh J.,Kennedy,WC,38,118,84,94,94,121,16,4,12,6,0,1,2,1,1, Full Time,hot,%s from %P and %M with %T on Hooker
+240124,Matt,Priddis,WC,32,110,148,94,90,126,10,22,2,6,0,3,1,1,0, Full Time,hot,Head to head with Stanton... %O and %T with %s
+200112,Dean,Cox,WC,25,104,85,83,88,111,12,6,7,4,23,1,2,0,1, Full Time,hot,%H and %D with %M and %T
+250034,Ashton,Hams,WC,30,102,127,82,82,105,12,6,6,5,0,1,1,3,0, Full Time,hot,%s from %O with %M and %T on McVeigh
+230254,Adam,Selwood,WC,24,97,118,72,80,109,13,13,6,4,0,3,2,0,1, Full Time,tagger,Tagging Watson... %D and %M plus %s
+261911,Brad,Ebert,WC,19,93,52,68,72,99,13,10,6,4,0,0,0,0,0, Full Time,news,%O and %M with %T
+990020,Andrew,Embley,WC,20,93,121,55,76,101,15,10,5,1,0,1,0,1,2, Full Time,news,%D and %M plus %s
+250111,Matt,Rosa,WC,15,85,64,72,72,96,9,12,8,3,0,1,1,0,0, Full Time,news,%D and %M with %T
+270928,Scott,Selwood,WC,20,80,96,73,64,90,8,11,5,6,0,1,2,0,0, Full Time,tagger,Tagging Winderlich... %O
+220061,Quinten,Lynch,WC,13,72,79,52,60,82,10,9,6,2,0,0,1,0,1, Full Time,news,%s from %P on Hurley
+240283,Shannon,Hurn,WC,9,70,83,30,52,72,16,2,4,2,0,1,1,0,0, Full Time,job,Sitting on Zaharakis... %P
+270953,Ashley,Smith,WC,8,66,76,38,53,75,11,10,3,1,0,0,0,0,0, Full Time,bubble,Second game... %P
+280379,Lewis,Stevenson,WC,12,64,53,48,54,72,8,9,6,1,0,0,0,0,0, Full Time,news,%P and %M
+261290,Chris,Masten,WC,4,52,48,37,43,57,7,7,4,1,0,1,0,0,0, Full Time,news,%P
+271045,Nic,Naitanui,WC,11,52,83,47,51,68,3,11,2,1,11,0,2,1,0, Full Time,fiji,%H and %P
+240016,Beau,Waters,WC,8,49,44,23,44,63,11,4,5,1,0,1,4,0,0, Full Time,job,Has Monfries... %D
+260446,Andrew,Strijk,WC,10,49,65,46,41,54,4,6,3,3,0,1,1,1,0, Full Time,news,%O
+281080,Brad,Sheppard,WC,3,42,27,17,33,46,9,4,2,0,0,0,0,0,1, Full Time,job,Going with Davey... %P and %s
+250317,Eric,MacKenzie,WC,4,35,31,29,29,42,4,6,2,2,0,0,1,0,0, Full Time,reported,Standing the resting ruckman... %P... reported in Q2 for rough conduct on Neagle in Q2
+260303,Mitchell,Brown,WC,3,32,57,19,31,45,5,8,2,0,0,1,2,0,0, Full Time,gumby,Following Gumbleton
+261214,Will,Schofield,WC,2,30,38,32,27,36,1,7,3,1,0,0,0,0,0, Full Time,job,On Neagle... %M and %O

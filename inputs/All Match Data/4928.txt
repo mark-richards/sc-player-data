@@ -1,0 +1,48 @@
+Richmond,Tigers,Brisbane,Lions,R16,12.7.79,7.12.54, Full Time
+Jul 5,2014,1.45,MCG,Seven,,10421602,rich-v-bl,0,A few showers,15,,
+
+<em style='color:#000'>Jukes82</em>: plus cotch was at 73% efficiency<br><em style='color:#000'>Jukes82</em>: @_wato cotch had 16 contested possies thats why<br><em style='color:#000'>BoatsNHoes</em>: and 5 points in a quarter what the plow<br><em style='color:#000'>BoatsNHoes</em>: 2 weeks in  a row u failed to ton miles<br><em style='color:#000'>_wato</em>: Cotch went at like 50-60% by foot yet still 130sc? Bs<br><em style='color:#000'>Gotigres</em>: thanks woodie<br><em style='color:#000'>Gotigres</em>: thanks chyeaahh<br><em style='color:#000'>smoochy</em>: lol +4 rocky in the last 10 secs great work. :)<br><em style='color:#000'>Torz</em>: Rocky gets a cheap tackle to make it 140<br><em style='color:#000'>korza</em>: Zorko you 174cm flog<br><em style='color:#000'>Heizenberg</em>: Hard to argue with that ant <br><em style='color:#000'>RooBoyStu</em>: ying yang Miles hopless 2nd half<br>
+290847,Dustin,Martin,RI,16,115,102,145,90,127,19,15,5,3,0,0,0,0,1, Full Time,magnet,%s from %D and %M with %T,,,545000,117,566800,85,Forward Midfielder,4,14,100.3,103.3,41.64,41.09,39.00,543047,113
+293713,Brandon,Ellis,RI,20,115,103,146,90,124,19,13,6,3,0,1,0,0,1, Full Time,astronaut,%D and %M with %T... %s as well,,,526000,82,522400,109,Midfielder,5,14,95.4,91.9,2.04,1.35,2.18,511062,87
+250360,Ricky,Petterd,RI,30,111,100,142,88,118,15,11,6,5,1,2,1,1,0, Full Time,hot,%P and %M plus %T... %s as well,,,406200,127,386400,133,Back,13,9,80,75.7,0.37,0.22,0.70,420344,105
+270896,Trent,Cotchin,RI,20,110,133,135,90,130,16,21,3,3,0,1,1,0,1, Full Time,hot,%D and %M with %T... %s as well,,,522300,55,497000,34,Midfielder,9,14,104.6,102,16.81,15.17,16.36,501995,71
+240546,Ivan,Maric,RI,22,97,126,109,90,112,5,16,3,2,34,2,1,0,0, Full Time,news,%H... also %D and %T,,,385400,64,461600,85,Ruck,20,5,73.2,82.6,0.79,0.68,1.77,369318,69
+260930,Shane,Edwards,RI,21,95,114,113,79,108,10,17,2,3,0,1,0,2,0, Full Time,news,%s from %P and %M plus %T,,,342000,98,390200,69,Forward Midfielder,10,14,67.3,76.7,0.76,0.67,1.15,351739,80
+290671,Anthony,Miles,RI,19,95,109,121,77,103,12,12,6,4,0,3,1,0,1, Full Time,news,%O and %M plus %T... %s as well... helped out by %4FF,graph,Will generate fantasy cash on this form,376200,14,381400,9,Midfielder,26,4,100.5,102.3,9.84,9.81,7.04,351789,28
+240336,Brett,Deledio,RI,18,90,89,111,75,102,13,14,6,1,0,1,0,0,0, Full Time,news,Starting up forward on Bewick... %D and %M,,,412500,55,445000,73,Midfielder,3,10,88.4,93.3,1.54,1.81,2.03,414702,69
+240707,Daniel,Jackson,RI,10,85,64,108,66,90,15,9,4,2,0,2,0,0,0, Full Time,news,%O and %M plus %T,,,435800,174,461900,167,Midfielder,23,8,90.3,95.6,0.25,0.31,0.29,448251,134
+270941,Tyrone,Vickery,RI,22,78,110,93,75,95,9,7,4,1,8,1,4,4,0, Full Time,star,First goal... the second-gamer McStay on him... %s from %O and %M... conceded %F,,,339500,38,394600,80,Forward,29,9,64.1,75.9,0.45,0.33,0.56,309160,37
+291437,Jake,Batchelor,RI,19,71,69,91,59,78,10,6,6,2,0,0,1,1,0, Full Time,news,%O and %M plus %T... %s as well,,,256200,63,288200,83,Back,11,4,44,49.3,0.17,0.17,0.21,238052,51
+290823,Reece,Conca,RI,25,67,71,87,55,81,6,11,2,6,0,0,3,1,0, Full Time,news,%O and %M plus %T... %s as well... conceded %F,,,401200,81,388100,97,Midfielder,30,12,85.3,83.6,0.27,0.31,0.38,422913,91
+240180,Troy,Chaplin,RI,9,65,74,81,54,78,7,13,3,3,0,0,1,0,0, Full Time,news,%O and %M plus %T,,,268800,38,374900,62,Back,25,14,53.8,72.1,0.73,1.06,0.81,266763,50
+250395,Jack,Riewoldt,RI,12,65,83,81,56,72,7,6,5,2,0,0,1,2,0, Full Time,news,%s from %O and %M plus %T,goose,Maguire on him,398100,104,401900,74,Forward,8,14,80.6,84.7,2.41,2.45,3.65,428605,106
+250312,Bachar,Houli,RI,8,59,50,77,43,61,10,5,2,3,0,0,0,0,1, Full Time,news,%O and %M plus %T... %s as well,job,Minding Green,442400,103,433900,113,Back,14,14,83.2,83.5,2.36,1.72,2.34,447443,99
+210048,Chris,Newman,RI,8,56,79,69,47,64,7,9,4,1,0,0,0,0,1, Full Time,news,%D and %M plus %s,job,Starting in defence on Hanley,302500,45,347100,40,Back,1,9,61.4,67.4,0.61,0.81,1.26,309423,62
+292025,Matt,Dea,RI,4,52,52,66,43,57,9,5,5,0,0,0,0,0,0, Full Time,news,%M and %P,job,On Close,231800,52,275000,88,Back,7,6,46.2,57.5,0.26,0.92,0.68,220876,45
+261362,Alex,Rance,RI,8,51,79,63,44,60,5,10,3,2,0,2,1,0,0, Full Time,sore,Left leg knock in Q3... %O and %M plus %T,job,Standing Merrett,384600,75,459000,67,Back,18,9,71.9,89.3,0.80,0.88,1.14,360705,58
+240130,Nathan,Foley,RI,7,47,66,56,45,66,6,13,3,0,0,0,2,0,0, Full Time,news,%P and %M,,,383600,66,405300,46,Midfielder,41,9,65.4,68.4,0.30,0.42,0.59,337031,38
+291835,Matthew,Arnot,RI,9,42,39,52,35,45,3,5,3,2,0,0,0,1,0, Full Time,news,In a FP on Gardiner... %P and %M plus %T... %s as well,subbed,Subbed off in Q3 for O'Hanlon,259200,19,283400,41,Midfielder,44,3,62.3,56.3,0.17,0.22,0.60,236314,25
+280819,Dylan,Grimes,RI,4,34,35,46,33,45,3,5,5,2,0,1,3,0,0, Full Time,news,%O and %M plus %T... conceded %F,job,Following Taylor,202400,9,230500,33,Back,2,10,40.8,44,0.43,0.70,0.74,194431,24
+295325,Brett,O'Hanlon,RI,2,33,19,41,28,37,5,4,3,0,0,0,0,0,1, Full Time,news,On in Q3 for Arnot... %s from %P and %M,sub,Started as a sub,141500,,143900,,Forward,45,0,0,0,0.17,0.22,0.17,140400,49
+270919,Tom,Rockliff,BL,56,137,141,105,106,155,19,17,5,10,1,1,4,0,1, Full Time,gun,Lack of Redden beside him did nothing to halt his output... %O and %M plus %T... %s as well... gave away %F,,,607600,68,613900,81,Midfielder,38,12,124.2,123.5,21.68,12.46,21.32,617646,119
+280763,Stefan,Martin,BL,23,97,89,76,89,113,10,10,5,2,32,1,3,0,0, Full Time,news,%D and %M with %T... not helped by %F,graph,Enjoy his price rises before Leuenberger returns,376100,0,378700,-3,Forward Ruck,12,4,105.8,110.5,20.47,23.22,21.72,311493,1
+270512,Pearce,Hanley,BL,14,95,111,46,79,115,18,16,3,1,1,1,2,0,0, Full Time,seagull,Starting forward on Newman... %M and %D,,,482600,108,510600,94,Back Midfielder,11,12,93.6,96,15.29,16.34,13.08,469254,82
+230170,Joel,Patfull,BL,19,87,89,69,72,99,11,11,7,4,0,1,2,0,0, Full Time,news,%P and %M plus %T,,,304100,23,358300,26,Back,24,13,54.5,63.7,0.81,0.53,0.72,287567,36
+296269,Darcy,Gardiner,BL,10,81,100,64,66,87,9,13,4,3,0,4,0,0,0, Full Time,cash,%O and %M plus %T... umps paid him %4FF,job,In defence on Arnot,171600,19,209700,19,Back,27,9,37.4,45,2.65,4.89,0.60,189092,41
+281048,Ryan,Harwood,BL,20,80,74,73,60,81,8,8,5,6,0,1,0,0,0, Full Time,news,%O and %M plus %T,job,Minding Shane Edwards,335800,61,413300,71,Back,2,7,61.7,77.4,0.19,0.19,0.22,303635,43
+291548,Ryan,Lester,BL,14,79,64,56,64,85,11,9,6,2,1,1,0,0,0, Full Time,news,%P and %M plus %T,,,382500,86,373600,82,Midfielder,35,9,78.9,76.4,0.24,0.18,0.37,405753,97
+261224,Dayne,Zorko,BL,15,74,99,52,65,87,9,12,3,1,0,1,1,2,0, Full Time,sore,Playing mostly as a small forward... right ankle tweak in Q3 but played on... %s from %O and %M,,,360700,82,432100,82,Forward Midfielder,15,14,81,91.6,21.15,28.85,17.05,371283,79
+296211,Lewis,Taylor,BL,14,73,70,49,58,78,11,7,3,3,0,2,1,1,0, Full Time,cash,Up forward on Grimes... %s from %D and %M with %T,,,354200,32,368400,42,Forward Midfielder,28,14,63.3,62.4,9.59,12.43,4.97,323380,31
+220062,Matt,Maguire,BL,10,72,103,47,57,78,11,9,4,2,0,1,0,0,0, Full Time,news,%P and %M plus %T,job,Has Riewoldt,277300,64,332700,88,Back,36,6,45,55.3,0.17,0.13,0.20,257848,51
+294618,Marco,Paparone,BL,9,70,60,44,57,78,11,9,5,1,0,0,0,0,0, Full Time,news,%P and %M,,,316500,118,315900,123,Forward,22,14,61.3,57.5,0.59,1.31,1.14,336376,93
+295162,Justin,Clarke,BL,13,65,84,51,53,69,8,7,6,2,0,1,0,0,0, Full Time,news,%D and %M with %T,,,223300,27,305900,51,Back,42,14,46.6,59.6,0.44,0.45,0.43,224351,39
+281329,Rohan,Bewick,BL,14,64,64,46,54,72,8,9,4,1,0,0,0,1,0, Full Time,news,%s from %P and %M,job,Starting on a HBF on Deledio,296700,29,296400,48,Forward,8,8,52.8,52.4,0.19,0.24,0.28,261072,24
+290748,Joshua,Green,BL,11,62,50,47,50,62,8,3,5,2,0,1,0,1,2, Full Time,news,Keeping Houli honest... %s from %O and %M plus %T,,,257800,45,309800,84,Forward,6,12,57.1,62.1,0.51,0.43,0.87,274420,58
+297504,Daniel,McStay,BL,12,59,58,46,50,66,7,8,6,1,0,0,0,0,0, Full Time,bubble,Second game... %M and %D,job,On Vickery,112800,,117300,,Back,25,1,23,17,0.79,0.98,0.42,197800,45
+240087,Jed,Adcock,BL,8,57,53,40,49,66,8,8,5,1,0,1,1,0,0, Full Time,news,%M and %P,,,323900,56,371300,69,Back,7,14,69.9,77.5,1.03,1.44,1.42,345392,76
+292035,Claye,Beams,BL,7,52,62,27,43,57,9,7,2,0,2,2,0,0,1, Full Time,news,%O and %M plus %s,,,278500,52,264300,35,Midfielder,17,6,62,61.8,6.35,5.98,7.63,260467,37
+293603,Sam,Mayes,BL,15,50,49,48,40,54,4,6,2,4,0,1,1,1,0, Full Time,news,%s from %O and %M plus %T,,,314000,68,326000,77,Forward Midfielder,32,13,65.7,71.8,1.04,1.99,1.48,336678,82
+294309,Michael,Close,BL,8,35,33,30,30,38,3,4,2,1,2,0,0,1,0, Full Time,news,Dea is manning him up... %s from %D and %M,,,195400,-3,197400,3,Forward,33,7,40.7,42.1,1.21,1.44,1.35,165065,0
+295067,James,Aish,BL,7,34,31,36,24,36,2,6,0,4,0,0,0,0,0, Full Time,wall,Attending a lot of stoppages in Q1... did very little after QT though... %P with %b by hand... also %T,subbed,Subbed off in Q3 for McGrath,353300,33,342000,54,Midfielder,4,13,75.6,72.4,6.92,9.09,5.13,343137,41
+210013,Ashley,McGrath,BL,2,23,18,17,22,29,3,3,3,0,0,0,1,0,2, Full Time,news,On in Q3 for Aish... %s from %P and %M,sub,Started as a sub,241200,,279700,,Forward,9,1,30,23,0.40,0.51,0.72,239300,53
+230147,Daniel,Merrett,BL,2,18,31,14,18,25,2,4,2,0,0,0,1,0,1, Full Time,news,Starting at FF on Rance... %s from %P and %M,,,255400,73,267500,75,Back Forward,21,11,49.6,53,0.73,0.84,1.45,265907,64

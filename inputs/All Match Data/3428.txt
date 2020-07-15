@@ -1,0 +1,48 @@
+Collingwood,Magpies,Hawthorn,Hawks,R4,17.21.123,8.11.59, Full Time
+Apr 17,2010,7:10,MCG,Ten,260955,10280404,5015514,4971,Windy,27
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,m0nty is working on it... hopefully should be up for next week,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>BigRoost29</em>: Spudd<br><em style='color:#069'>Prospector</em>: 220105&#044;Dane&#044;Swan&#044;CO&#044;22&#044;119&#044;131&#044;149&#044;93&#044;129&#044;20&#044;14&#044;4&#044;3&#044;0&#044;1&#044;0&#044;1&#044;0&#044; Full Time&#044;hot&#044;Tagged by Ellis... %B among %O with %M and <br><em>Swanny!</em>: Lion09&#044; stoner keep wasting those trades!<br><em>stoner</em>: haha lion09... Was just thinkin that :D<br><em>Grimesy31</em>: Gilbert_19 is stupid<br><em>Lion09</em>: Woooho Sam Mitchell out and Chris Judd In!!!!<br><em>Swanny!</em>: Luke Ball you bl00dy scrubba...why did I pick you??<br><em>Grimesy31</em>: fanfooty is f*cked<br><em>Rilian</em>: Shaw for star&#044; Hodge for gun!<br><em>cgjh</em>: thank god i put schoenmakers on the bench!<br><em>torca</em>: dale thomas star<br><em>quekkie</em>: yay<br>
+220105,Dane,Swan,CO,22,119,131,149,93,129,20,14,4,3,0,1,0,1,0, Full Time,hot,Tagged by Ellis... %B among %O with %M and %T plus %s
+280965,Steele,Sidebottom,CO,30,112,133,140,91,123,11,16,7,5,0,0,0,1,0, Full Time,hot,Played HFF on Murphy... %s from %P with %b of them by hand... also %M and %T
+240700,Heath,Shaw,CO,24,111,135,148,80,111,21,5,6,5,0,0,0,0,0, Full Time,gun,Usually chops against the Hawks up and tonight was no different... %D and %T with %M
+240359,Dale,Thomas,CO,27,110,132,135,89,118,15,11,4,3,0,0,0,3,1, Full Time,star,First goal... %s from %P and %M with %T... instrumental in early scores to set up the win
+260257,Scott,Pendlebury,CO,26,108,107,135,85,116,13,14,4,5,1,1,0,1,1, Full Time,hot,%s from %P with %T and %M
+200019,Leon,Davis,CO,25,94,113,119,79,101,13,4,6,3,0,0,2,3,5, Full Time,news,%s from %D and %M with %T
+240366,Travis,Cloke,CO,24,90,92,115,78,95,12,5,11,1,0,2,1,1,2, Full Time,news,Normally terrible vs Hawthorn... %s from %G and %P on Schoenmakers
+210003,Alan,Didak,CO,20,89,103,107,76,109,13,16,1,2,0,0,2,2,1, Full Time,tagged,Tagged by Moss... %s from %O with %T
+271001,Dayne,Beams,CO,19,89,109,111,70,99,9,16,3,5,0,1,0,0,0, Full Time,news,%P and %T plus %M
+210099,Darren,Jolly,CO,23,87,89,108,76,96,9,5,4,4,18,1,3,2,0, Full Time,news,%H and %D plus %s
+261799,Sharrod,Wellingham,CO,15,82,81,103,64,83,14,6,3,2,0,3,0,1,2, Full Time,tagger,Tagged Mitchell... %s from %D and %M
+200021,Ben,Johnson,CO,15,81,84,105,64,91,15,7,3,3,0,0,2,1,1, Full Time,news,%O and %M
+980110,Tarkyn,Lockyer,CO,20,74,57,101,56,74,8,3,7,6,0,0,1,0,2, Full Time,news,%O and %T
+220070,Paul,Medhurst,CO,13,73,93,93,59,79,8,9,6,3,0,0,0,0,1, Full Time,news,Stratton on him... %D and %M
+230263,Nick,Maxwell,CO,18,73,98,94,58,78,7,9,6,4,0,0,0,0,0, Full Time,job,Brown tried to keep him honest... %D and %M with %T
+261181,Brent,Macaffer,CO,19,70,71,87,59,75,7,8,6,2,0,1,0,1,0, Full Time,news,%D and %M
+220005,Luke,Ball,CO,9,62,47,79,48,66,4,10,3,5,0,1,0,0,0, Full Time,sore,%B among %D... rolled an ankle in Q1 but back on late in Q2
+240073,Harry,O'Brien,CO,9,62,71,80,47,66,5,9,3,5,0,0,0,0,0, Full Time,job,On Morton... %O and %M with %T
+240419,Alan,Toovey,CO,8,51,46,67,39,57,10,5,2,2,0,0,1,0,0, Full Time,news,%P and %M with %T
+200020,Josh,Fraser,CO,4,49,33,62,40,50,5,3,2,3,9,2,1,0,2, Full Time,news,%H and %D plus %s
+960159,Simon,Prestigiacomo,CO,2,31,30,39,26,36,1,7,1,3,0,2,1,0,0, Full Time,job,On Roughead
+200028,Leigh,Brown,CO,3,30,18,39,25,36,1,6,2,3,0,0,1,0,0, Full Time,spud,%P mostly at FF on Gilham... why Anthony doesn't get picked every week for Collingwood is a mystery for future scholars
+200040,Chance,Bateman,HW,26,118,113,86,99,132,15,16,7,3,3,2,1,1,0, Full Time,hot,%D and %T plus %s
+220047,Luke,Hodge,HW,26,114,136,89,91,130,13,21,2,6,4,2,1,0,0, Full Time,hot,%P including %B with %T... also %H as occasional ruck
+220013,Campbell,Brown,HW,21,89,91,73,70,88,11,3,9,4,0,0,0,1,1, Full Time,news,Tried to keep Maxwell honest... %s from %O
+240302,Grant,Birchall,HW,15,89,79,72,71,99,10,14,5,4,0,0,0,0,0, Full Time,news,%B among %D with %M
+261386,Brendan,Whitecross,HW,19,87,69,62,70,88,13,4,10,2,0,1,0,0,1, Full Time,news,%O and %M
+230082,Stephen,Gilham,HW,19,86,92,77,72,97,8,13,7,4,1,1,1,0,0, Full Time,job,Ran off Leigh Brown... %O and %M
+250146,Thomas,Murphy,HW,14,85,75,66,73,93,10,11,9,1,0,2,0,0,0, Full Time,job,Zoned off Sidebottom on a HBF... %M and %O
+250257,Xavier,Ellis,HW,10,83,73,73,70,96,7,17,5,3,0,1,0,0,0, Full Time,injured,Tagged Swan... %O and %M... copped Cloke's knee in Q4 and stretchered off with shoulder likely the problem
+250055,Clinton,Young,HW,15,72,45,64,56,69,8,2,8,4,2,1,0,0,1, Full Time,news,%P and %M with %T and %s
+260806,Jarryd,Morton,HW,16,69,47,63,62,80,5,10,5,2,1,0,1,2,1, Full Time,news,%P on O'Brien
+260955,Cyril,Rioli,HW,14,68,77,52,59,81,7,14,3,1,0,0,0,1,0, Full Time,news,%P including %B
+220073,Sam,Mitchell,HW,8,66,67,41,56,81,10,13,3,1,0,0,1,0,0, Full Time,injured,Tagged by Wellingham... %P and %M... back spasms leading to hamstring soreness in Q3... iced up in Q4
+250089,Jordan,Lewis,HW,14,63,68,39,51,71,10,7,2,2,2,0,1,1,0, Full Time,news,%P and %M plus %s
+200060,Brent,Guerra,HW,8,61,67,39,50,75,9,13,1,2,0,0,1,0,0, Full Time,news,%P and %T
+250308,Brent,Renouf,HW,15,60,70,58,58,68,2,8,2,1,29,2,1,0,0, Full Time,news,%H and %P
+240357,Jarryd,Roughead,HW,10,54,45,42,48,61,6,6,4,1,2,1,1,1,2, Full Time,news,Booted %s from %G and %O on Prestigiacomo
+281301,Ryan,Schoenmakers,HW,9,54,29,35,51,67,9,5,8,0,1,1,3,0,0, Full Time,job,Ran off Cloke... %M and %O
+210092,Michael,Osborne,HW,8,51,39,35,43,57,8,4,6,1,0,0,1,0,0, Full Time,news,%O
+220060,Rick,Ladson,HW,7,49,57,30,42,60,7,11,2,0,0,0,0,0,0, Full Time,news,%D
+270854,Carl,Peterson,HW,9,41,41,24,36,49,7,4,2,1,1,1,2,1,0, Full Time,cash,%D and %T plus %s and %F
+280471,Ben,Stratton,HW,3,41,43,30,29,42,6,4,1,3,0,0,0,0,0, Full Time,bubble,Second game... on Medhurst... %O and %T
+250351,Garry,Moss,HW,3,39,24,23,32,40,7,1,5,0,0,0,0,0,1, Full Time,tagger,Tagged Didak... %P and %s

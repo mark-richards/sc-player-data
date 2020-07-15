@@ -1,0 +1,56 @@
+Carlton,Blues,Collingwood,Magpies,W1,0.3.8.26,0.5.3.33, Half Time
+Feb 12,2011,9:25,Docklands,Ten,,10300106,1111112046114,5261,Dome,17
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>Ryder30</em>: how does sum1 who gets 50 dt get 200 sc???<br><em>camandjac</em>: nothing can burst tarrantss bubble of arrogance. toss<br><em>McRooster</em>: Too much panic shown there in the young Blues mid&#044; disposal not clean enough under pressure<br><em>DamenS</em>: because you are a sup spudman - check the convo history ...<br><em>DamenS</em>: Rather have Nathan Buckley I think<br><em>camandjac</em>: Blues kicking letting them down under pressure<br><em>thespudman</em>: why r the sc scores so high?<br><em>Angry Kid</em>: so what tiger i can help someone that acutly cares about footy not like you<br><em>dabombers</em>: Buckley anyone think he's a target for SC/DT<br><em>TigerFever</em>: Angry Kid i didnt ask you i told you<br><em>TigerFever</em>: m0nty how can i get back to the footy with all the dicks on here.<br><em>Angry Kid</em>: Nah tiger i cant be botherd shuting up<br>
+261258,David,Ellard,CA,3,40,-,51,32,43,4,5,3,2,0,0,0,0,1, Half Time,news,%P and %M plus %s
+240014,Andrew,Walker,CA,8,34,-,39,31,38,5,3,0,0,0,2,1,2,2, Half Time,news,First goal... %P and %s
+230202,Kade,Simpson,CA,2,26,-,33,19,28,1,5,0,3,1,0,0,0,0, Half Time,news,%B among %O with %T
+270737,Shaun,Hampson,CA,1,26,-,32,21,24,3,1,1,1,6,2,0,0,0, Half Time,news,%H and %P
+290311,Mitch,Robinson,CA,1,25,-,32,19,27,4,3,1,1,0,0,0,0,0, Half Time,news,%D
+261043,Michael,Jamison,CA,2,23,-,30,22,29,5,2,2,0,0,2,2,0,2, Half Time,news,Started on Keeffe but moved into attack in Q2... %s from %D and %M with %F
+250211,Paul,Bower,CA,1,22,-,28,17,24,3,3,1,1,0,0,0,0,0, Half Time,job,Standing Dawes... %P
+261318,Aaron,Joseph,CA,1,22,-,28,17,21,3,2,1,1,0,2,0,0,0, Half Time,news,%O
+291397,Rohan,Kerr,CA,1,22,-,28,16,22,4,2,0,1,0,1,0,0,1, Half Time,news,%O and %s
+250090,Jordan,Russell,CA,2,21,-,26,18,24,3,3,2,0,0,0,0,0,0, Half Time,news,Started as a sub... on late in Q1... %P and %M
+260533,Dennis,Armfield,CA,1,20,-,25,15,21,5,2,0,0,0,1,0,0,0, Half Time,news,%D including %k by foot
+250417,Bryce,Gibbs,CA,1,19,-,26,12,18,5,0,0,1,0,0,0,0,0, Half Time,news,Head to head with Pendlebury... %P
+271110,Chris,Yarran,CA,0,19,-,25,14,18,3,1,1,1,0,1,0,0,0, Half Time,job,In defence on Krakouer... %O
+281079,Kane,Lucas,CA,1,18,-,23,15,22,3,3,0,1,0,1,1,0,1, Half Time,news,%D and %s
+292511,Zach,Tuohy,CA,1,16,-,19,13,18,3,3,0,0,0,1,0,0,0, Half Time,news,%P including %b by hand
+240060,Eddie,Betts,CA,6,15,-,18,13,15,2,0,1,0,0,0,0,1,0, Half Time,news,Kicked %s from %O on Toovey... didn't get a touch until very late
+281124,Levi,Casboult,CA,1,13,-,18,8,10,1,0,0,2,1,1,0,0,0, Half Time,news,%T
+261009,Nicholas,Duigan,CA,0,12,-,14,11,15,1,3,1,0,0,0,0,0,0, Half Time,news,%B among %D
+280971,Jaryd,Cachia,CA,0,11,-,15,9,15,2,2,0,1,0,0,1,0,0, Half Time,news,Started as a sub... on in Q2....%O
+281049,Marcus,Davies,CA,1,11,-,15,7,9,0,1,0,2,0,1,0,0,0, Half Time,job,Chasing Macaffer... %T
+250667,Wayde,Twomey,CA,0,10,-,12,8,12,2,2,0,0,0,0,0,0,0, Half Time,news,%P
+270146,Edward,Curnow,CA,1,10,-,10,10,15,0,5,0,0,0,0,0,0,0, Half Time,news,%O with %b by hand
+281054,Mitchell,Carter,CA,0,10,-,13,8,9,2,0,1,0,0,1,0,0,0, Half Time,news,%D
+291456,Andrew,McInnes,CA,0,6,-,9,5,9,1,1,0,1,0,0,1,0,0, Half Time,news,%P
+290526,Matthew,Watson,CA,0,4,-,5,5,9,1,2,0,0,0,0,1,0,0, Half Time,news,%O
+240716,Setanta,O'hAilpin,CA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,injured,Right ankle knock in Q1 and subbed off for precautionary reasons
+240232,Ben,Reid,CO,9,58,-,39,49,60,9,3,8,0,0,1,0,0,0, Half Time,hot,Started on O'hAilpin then different roles after Setanta's injury... %M and %D
+280965,Steele,Sidebottom,CO,10,53,-,38,44,57,7,5,4,1,0,0,0,1,0, Half Time,hot,%O and %M plus %s... very hot in Q1
+240700,Heath,Shaw,CO,4,39,-,25,33,42,6,4,4,0,0,1,0,0,0, Half Time,news,%P and %M
+280104,Jarryd,Blair,CO,8,37,-,27,30,42,5,4,1,2,0,0,1,1,0, Half Time,news,Very good in Q2 again... %P and %T plus %s
+260257,Scott,Pendlebury,CO,3,34,-,26,26,39,4,7,0,2,0,0,0,0,0, Half Time,news,Head to head with Gibbs... %O and %T
+250683,Simon,Buckley,CO,2,29,-,18,22,30,5,2,2,1,0,0,0,0,0, Half Time,news,%O and %M
+200021,Ben,Johnson,CO,1,28,-,15,21,30,5,4,0,1,0,1,0,0,0, Half Time,news,%P including %k by foot... also %T
+220005,Luke,Ball,CO,2,28,-,20,20,30,4,4,0,2,0,0,0,0,0, Half Time,news,%D and %T
+260394,Chris,Dawes,CO,7,26,-,21,21,25,3,0,2,1,0,0,0,1,1, Half Time,sore,Booted %s from %G and %O on Bower... corked right quad in a collision in Q2
+261181,Brent,Macaffer,CO,1,26,-,17,22,33,4,5,1,1,0,0,1,0,0, Half Time,news,%P
+200028,Leigh,Brown,CO,2,23,-,20,18,25,3,1,2,2,1,0,1,0,0, Half Time,news,%M and %O with %T
+294915,Jye,Bolton,CO,2,23,-,18,16,24,3,3,0,2,0,0,0,0,0, Half Time,news,%P and %T
+210058,Andrew,Krakouer,CO,7,22,-,14,19,24,3,2,1,0,0,0,0,1,0, Half Time,news,%s from %O on Yarran... as a small forward he's a poor DTer... put him in midfield Mick!
+290138,Tom,Hunter,CO,6,21,-,26,14,21,1,2,0,4,0,1,1,0,0, Half Time,news,%O and %T
+271001,Dayne,Beams,CO,2,20,-,16,18,24,2,4,2,0,0,0,0,0,0, Half Time,news,%B among %O with %M
+290314,Lachlan,Keeffe,CO,1,19,-,17,15,18,2,1,2,1,0,1,0,0,0, Half Time,news,%D and %M
+240073,Heritier,O'Brien,CO,1,18,-,8,14,18,4,0,2,0,0,0,0,0,0, Half Time,brazil,%M and %P
+980023,Chris,Tarrant,CO,1,17,-,17,13,21,2,2,0,3,0,1,2,0,0, Half Time,news,%D and %T plus %F... used in attack and defence
+294740,Kirk,Ugle,CO,6,16,-,7,13,16,3,0,0,0,0,0,0,1,1, Half Time,news,%s from %P as a small forward
+271091,Scott,Reed,CO,1,15,-,18,10,15,1,1,0,3,0,1,1,0,0, Half Time,news,%T and %P
+240419,Alan,Toovey,CO,1,12,-,18,6,9,0,0,0,3,0,0,0,0,0, Half Time,job,Minding Betts... %T
+261799,Sharrod,Wellingham,CO,0,10,-,5,10,15,2,2,1,0,0,0,1,0,0, Half Time,news,%O
+290933,Jack,Perham,CO,0,10,-,10,7,9,1,0,1,1,0,0,0,0,0, Half Time,news,Started as a sub and came on in Q2 to little effect
+240300,Cameron,Wood,CO,2,9,-,9,11,12,0,0,0,0,12,0,1,0,0, Half Time,news,%H but no possessions
+294826,Tom,Young,CO,0,8,-,6,7,9,1,1,1,0,0,0,0,0,0, Half Time,job,Manning up Walker... %D
+210099,Darren,Jolly,CO,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and stayed there

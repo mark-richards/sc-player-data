@@ -1,0 +1,48 @@
+Collingwood,Magpies,Richmond,Tigers,R2,12.13.85,8.16.64, Full Time
+Apr 7,2012,7:40,MCG,Seven,220105,10340205,430021,0,Partly cloudy,19,,
+
+<em>Brown*Dog</em>: Who won the name game<br><em>Hawks1976</em>: how do tiges get 7 SC tons vs 3 to pies and they lost????<br><em>JDare</em>: 140 deledio lol that is an effort<br><em>BenW--</em>: Dustin Martin & Heath Shaw on the chopping block. Dangerfield not far behind<br><em>Foss</em>: low sc scores accros the board<br><em>BenW--</em>: Afl websie has Pendles on 122 (not 120)<br><em>Torpedo10</em>: Cloke +23? Did I win Purple Name gaMe?<br><em>ap1975</em>: Monty<br><em>mufc</em>: pendles last handball?<br><em>Cruise on</em>: Jack&#044; you are a joke. <br><em>Hadouken</em>: @fatboys&#044; couldnt agree with you more. Most talked up player that doesnt produce !<br><em>CatAttack9</em>: not happy. not happy at all.<br>
+260257,Scott,Pendlebury,CO,32,122,126,160,91,126,17,12,5,8,0,3,1,0,0, Full Time,hot,%D and %T with %M,,
+220105,Dane,Swan,CO,20,116,100,147,91,126,19,13,6,3,0,0,0,0,3, Full Time,hot,%K among %O with %M and %s,,
+240366,Travis,Cloke,CO,25,94,117,120,82,101,16,2,8,1,0,3,3,3,2, Full Time,news,Booted %s from %G and %O on Rance,,
+280104,Jarryd,Blair,CO,25,87,92,109,73,96,8,10,6,4,0,0,1,2,0, Full Time,news,%s from %O and %M,,
+220005,Luke,Ball,CO,21,86,76,114,67,94,11,9,5,6,0,1,2,0,1, Full Time,news,%O and %M plus %T and %s,,
+240359,Dale,Thomas,CO,26,85,92,107,69,90,10,6,4,4,0,0,1,3,0, Full Time,news,%P and %M with %T and %s with three of those goals in Q3,,
+280965,Steele,Sidebottom,CO,10,85,106,108,67,93,14,10,5,2,0,0,0,0,0, Full Time,news,%P including %K with %M and %T,,
+240073,Harry,O'Brien,CO,13,84,88,107,67,90,15,8,6,1,0,1,0,0,0, Full Time,brazil,%M and %D,,
+271001,Dayne,Beams,CO,9,74,72,92,61,84,11,11,5,1,0,0,0,0,0, Full Time,news,%O and %M,,
+290821,Alex,Fasolo,CO,12,73,73,91,60,73,9,4,5,2,0,2,0,2,1, Full Time,news,%s from %P and %M,,
+272005,Marty,Clarke,CO,9,71,92,90,56,75,11,8,4,2,0,2,0,0,0, Full Time,news,%D and %M with %T,,
+240700,Heath,Shaw,CO,9,66,75,91,51,69,13,1,6,3,0,1,2,0,0, Full Time,news,%O,,
+240232,Ben,Reid,CO,13,63,78,82,52,69,9,6,6,2,0,1,1,0,0, Full Time,job,Has Riewoldt... %M and %D,,
+210099,Darren,Jolly,CO,20,58,69,67,50,58,2,3,1,3,25,0,0,1,0, Full Time,news,%H and %P,,
+260246,Tyson,Goldsack,CO,8,50,66,67,48,67,8,6,7,1,0,0,4,0,1, Full Time,news,%D and %M plus %s,,
+260394,Chris,Dawes,CO,4,50,56,61,44,57,4,8,5,1,2,0,0,0,1, Full Time,news,Only %K among %D with %M and %s,,
+290314,Lachlan,Keeffe,CO,3,48,62,60,39,51,9,5,3,0,0,2,0,0,0, Full Time,job,Standing Miller... %D and %M,,
+240419,Alan,Toovey,CO,4,44,44,58,36,51,6,6,2,3,0,2,2,0,0, Full Time,news,%P,,
+294733,Paul,Seedsman,CO,5,41,25,54,37,51,4,6,5,2,0,0,2,0,0, Full Time,news,On in Q2 for Tarrant... %P and %M,sub,Started as a sub
+291811,Jackson,Paine,CO,8,39,43,48,32,42,5,4,2,1,0,0,0,1,0, Full Time,news,First goal... %s from %D,,
+291386,Ben,Sinclair,CO,2,34,36,44,29,40,5,4,3,1,0,0,1,0,1, Full Time,news,%s from %D,,
+980023,Chris,Tarrant,CO,0,6,15,8,5,6,1,0,1,0,0,0,0,0,0, Full Time,injured,Sustained a recurrence of an old leg muscle injury in Q1,subbed,Subbed off at QT for Seedsman
+240336,Brett,Deledio,RI,33,140,141,104,113,150,17,18,5,5,2,3,0,2,1, Full Time,hot,%O and %M with %T,,
+261362,Alex,Rance,RI,37,138,125,92,121,153,21,13,17,0,0,4,2,0,0, Full Time,hot,%M and %O,job,Has Cloke
+250312,Bachar,Houli,RI,31,121,112,94,93,124,16,10,9,6,0,1,0,0,1, Full Time,hot,%P and %M plus %T,,
+210048,Chris,Newman,RI,31,119,98,84,99,126,18,7,15,2,0,1,1,0,0, Full Time,hot,%P and a massive %M,,
+250298,Shaun,Grigg,RI,20,102,105,76,90,121,12,18,8,1,3,1,1,0,1, Full Time,hot,%B among %O with %M,,
+280819,Dylan,Grimes,RI,21,98,89,72,80,102,14,6,12,2,0,0,0,0,0, Full Time,news,%O and %M,,
+200109,Shane,Tuck,RI,26,96,116,80,77,109,11,14,5,6,1,1,2,0,0, Full Time,news,%B among %P with %M and %T,,
+291437,Jake,Batchelor,RI,15,91,105,65,76,102,13,10,9,2,0,0,1,0,0, Full Time,news,%D and %M with %T,,
+270896,Trent,Cotchin,RI,15,88,103,54,70,96,14,12,4,2,0,2,0,0,0, Full Time,news,%O and %T,,
+290823,Reece,Conca,RI,20,85,84,52,75,98,14,7,9,0,1,0,2,1,1, Full Time,news,A pleasing %M to add to %D,,
+260433,Steven,Morris,RI,10,77,76,56,63,84,10,11,5,2,0,2,0,0,0, Full Time,news,%D and %M,,
+290847,Dustin,Martin,RI,10,75,69,46,60,85,13,8,4,3,0,1,2,0,1, Full Time,news,%P and %T with %M,,
+240130,Nathan,Foley,RI,15,72,70,68,51,72,7,7,3,7,0,0,0,0,0, Full Time,sore,%P and %M... broken nose in Q2,,
+240546,Ivan,Maric,RI,11,66,66,62,58,70,4,7,4,2,18,1,0,0,1, Full Time,news,%H and %P with %M and %s,,
+293713,Brandon,Ellis,RI,8,61,54,36,51,69,10,8,5,0,0,0,0,0,0, Full Time,news,Started much better than last week... %P and %M,,
+220071,Brad,Miller,RI,16,60,52,50,55,61,5,2,5,0,0,1,0,4,1, Full Time,news,%s from %P and %M on Keeffe,,
+240707,Daniel,Jackson,RI,8,57,39,30,48,69,11,7,4,1,0,0,2,0,0, Full Time,news,%P,,
+260930,Shane,Edwards,RI,13,49,63,27,45,64,8,9,2,0,0,0,2,1,1, Full Time,news,%s from %D,,
+250623,Robin,Nahas,RI,4,48,23,48,39,54,3,9,3,3,0,0,0,0,0, Full Time,news,On in Q3 for King,sub,Started as a sub
+270941,Tyrone,Vickery,RI,4,46,39,45,37,46,3,4,2,3,8,1,0,0,2, Full Time,news,%s from %D... also %H,,
+250395,Jack,Riewoldt,RI,3,33,30,11,31,45,8,4,2,0,0,1,3,0,3, Full Time,news,Booted %s from %G and %O on Reid,,
+271437,Jake,King,RI,0,13,15,8,11,15,2,2,1,0,0,0,0,0,0, Full Time,injured,Ankle knock in Q1... %O... also a knee problem in Q3,subbed,Subbed off in Q3 for Nahas

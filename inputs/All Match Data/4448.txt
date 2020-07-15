@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Port Adelaide,Power,R6,14.9.93,12.11.83, Full Time
+May 04,2013,2.10,Hobart,Seven,210020,10390603,nmfc-v-port,0,Possible hail and snow,12,,
+
+<em>^Yokel</em>: since when do any supporters agree with every free kick an umpy pays...?<br><em>daniel87</em>: back in tye middle<br><em>daniel87</em>: cmon i saw the bounce in the middle half ot them would bounce orths way when port got a bounce go their way got called b<br><em>W.Mantooth</em>: ^Yokel - I saw the entire game&#044; the free kicks were ridiculous<br><em>^Yokel</em>: Agreed Sewelly07...might say more about how the game was played rather than "favoritism"<br><em>Sewelly07</em>: umpires surely don't favour anyone as much as the losing team would like to think otherwise&#044; so port must be to blame<br><em>W.Mantooth</em>: @swelly07 - 20 free kick differential mate...<br><em>daniel87</em>: 33 to 15 and that free kick with 2 minutes 2 go when port had the run was bullshower<br><em>W.Mantooth</em>: Frees 35-15 in favour of nth<br><em>Bluffie</em>: @swelly&#044; true dat&#044; but still too much of a difference..<br><em>Sewelly07</em>: is that in the rules?<br><em>Sewelly07</em>: since when does the free kick count need to be even?<br>
+240417,Andrew,Swallow,NM,24,98,134,125,72,99,14,12,1,6,0,5,0,0,0, Full Time,news,%s Boak... %P and %T,,,530400,142,554600,116,Centre,9
+280944,Jack,Ziebell,NM,32,96,95,127,74,98,10,7,5,8,0,3,2,1,2, Full Time,news,%D and %T plus %M and %s,,,404600,52,428800,71,Centre,7
+280863,Ryan,Bastinac,NM,15,90,100,111,74,102,12,15,5,2,0,1,0,0,0, Full Time,news,%D and %M with %T,tagger,Tagging Hartlett,394900,98,403800,83,Centre,3
+230272,Michael,Firrito,NM,24,89,95,119,69,90,12,6,6,6,0,5,2,0,0, Full Time,news,%O including %B plus %T,,,322500,81,366500,71,Back,11
+271129,Todd,Goldstein,NM,28,85,132,97,77,91,4,7,2,3,37,1,1,1,0, Full Time,news,%H and %P plus %s,,,429100,124,517500,104,Ruck,22
+230232,Daniel,Wells,NM,14,84,104,106,65,90,15,8,1,3,2,2,1,1,1, Full Time,tagged,Tagged by Cassisi... %P,,,439200,91,549000,83,Centre,8
+210023,Drew,Petrie,NM,22,83,121,105,68,81,9,2,5,4,2,3,1,3,1, Full Time,news,Booted %s from %D and %G on Carlile,,,366800,49,438900,59,Forward,20
+280921,Ben,Cunnington,NM,14,79,108,100,62,87,15,10,2,2,0,3,1,0,0, Full Time,news,%O,,,366000,108,422800,114,Centre,10
+250285,Leigh,Adams,NM,16,76,101,94,64,84,8,9,4,3,0,1,1,2,0, Full Time,news,%D and %M with %T,,,354700,83,413000,81,Forward Centre,13
+281395,Scott D.,Thompson,NM,13,76,97,101,62,84,12,6,7,3,0,1,2,0,0, Full Time,news,%P and %T with %M,job,Standing Schulz,392100,57,497800,49,Back,16
+250557,Sam,Gibson,NM,14,73,66,98,55,75,10,5,5,5,0,1,1,0,0, Full Time,news,%P and %M,,,461300,76,382800,46,Centre,43
+290787,Shaun,Atley,NM,12,72,57,92,58,78,12,7,6,1,0,0,0,0,0, Full Time,news,%P and %M,job,Responsible for Wingard,304200,71,374700,70,Back,18
+261909,Lindsay,Thomas,NM,16,69,63,89,53,65,8,2,2,5,0,4,1,2,2, Full Time,news,%s from %P on Jonas,,,355200,49,400200,35,Forward,12
+291672,Aaron,Black,NM,11,63,84,78,50,65,7,5,2,3,0,0,0,2,2, Full Time,news,%s from %P on O'Shea,,,200900,,212600,,Forward,35
+290194,Jamie,MacMillan,NM,9,61,-,81,50,66,9,4,7,2,0,0,1,0,0, Full Time,news,%O and %M,,,361100,40,380800,52,Centre,34
+291445,Aaron,Mullett,NM,8,61,66,77,49,66,12,6,4,0,0,1,0,0,0, Full Time,job,Running off Neade... %O,,,361700,81,388000,89,Centre,41
+290199,Majak,Daw,NM,9,54,64,66,45,54,7,2,3,1,9,1,0,1,0, Full Time,cash,%s from %P and %M on Heath... also %H,subbed,Subbed off in Q4 for Hine,108500,4,115900,-2,Ruck,38
+280864,Sam,Wright,NM,10,51,67,63,42,54,5,6,3,2,0,1,0,1,0, Full Time,tagger,Forward tag role on Stevenson... %P,,,277100,68,309900,75,Back,19
+280612,Will,Sierakowski,NM,3,41,34,53,32,45,5,6,1,3,0,2,1,0,0, Full Time,rookie,First game... %P,,,108500,,115900,,Back,28
+250135,Scott,McMahon,NM,3,40,60,51,30,39,6,4,1,2,0,3,0,0,0, Full Time,job,Chasing Monfries... %D,,,347500,64,425500,110,Back,42
+240131,Nathan,Grima,NM,3,39,57,50,31,42,6,4,3,1,0,0,0,0,0, Full Time,job,Following Westhoff... %O,,,354900,91,426900,99,Back,17
+290538,Taylor,Hine,NM,1,16,16,20,12,18,2,3,0,1,0,0,0,0,0, Full Time,news,On in Q4 for Daw,sub,Started as a sub,265700,49,273100,57,Back,26
+210020,Kane,Cornes,PA,25,106,124,87,82,115,12,16,3,7,0,3,1,0,1, Full Time,hot,%D and %T plus %s,,,568900,89,585700,108,Centre,18
+250365,Travis,Boak,PA,21,104,125,61,81,117,19,11,4,5,0,2,3,0,0, Full Time,hot,%2 Swallow... %D,,,498800,96,544700,127,Centre,1
+230195,Jay,Schulz,PA,30,95,110,83,78,96,9,6,7,4,0,1,0,3,0, Full Time,news,%P on Thompson,,,336700,75,382900,97,Forward,28
+261396,Robbie,Gray,PA,20,84,85,60,66,90,12,8,2,5,0,3,2,1,3, Full Time,news,%s from %D,,,276100,95,301800,90,Forward Centre,9
+261911,Brad,Ebert,PA,14,84,105,66,63,87,11,8,5,5,0,0,0,0,0, Full Time,news,%O and %T with %M,,,474900,117,480600,114,Centre,7
+210043,Domenic,Cassisi,PA,18,83,93,68,65,87,10,8,7,4,0,0,0,0,0, Full Time,news,%D and %M,tagger,Tagging Wells,384500,88,440100,108,Centre,25
+291962,Chad,Wingard,PA,16,79,94,49,69,94,12,10,4,1,0,0,2,2,1, Full Time,news,%O on Atley,,,374400,57,451100,81,Centre,20
+240290,Angus,Monfries,PA,25,72,90,65,57,81,7,10,2,6,0,1,2,1,0, Full Time,news,%D on McMahon,,,388400,99,451300,96,Forward Centre,6
+294318,Oliver,Wines,PA,25,72,74,62,58,84,8,10,2,6,0,1,3,1,0, Full Time,cash,%P,,,360300,46,354000,38,Centre,16
+261230,Matthew,Lobbe,PA,16,62,65,57,56,68,4,6,3,2,17,1,1,1,0, Full Time,news,%H and %D,,,304400,79,360800,79,Ruck,23
+294604,Jake,Neade,PA,15,55,64,49,43,58,6,4,2,5,0,2,2,1,1, Full Time,cash,First goal... %s from %O on Mullett,,,226800,17,266800,22,Forward Centre,32
+290540,Cameron,O'Shea,PA,10,52,51,48,40,57,6,4,4,5,0,0,2,0,0, Full Time,job,Responsible for Black... %D,,,268000,6,288700,-20,Back,13
+271078,Matthew,Broadbent,PA,9,45,48,22,40,58,9,5,2,1,1,0,3,1,0, Full Time,news,%D... also %s and %F,,,408000,94,473600,119,Centre,5
+290171,Campbell,Heath,PA,13,40,44,46,27,42,3,3,1,7,0,0,2,0,0, Full Time,job,The big job on Daw... %O and %T... also %F,cash,Still making money though it is drying up,235100,-6,265300,28,Back,3
+270606,Kane,Mitchell,PA,6,38,59,24,33,48,5,10,1,0,0,0,0,0,0, Full Time,cash,%O,,,123900,19,121000,23,Centre,37
+260750,Justin,Westhoff,PA,3,33,48,21,32,45,5,6,3,0,1,0,2,0,2, Full Time,cold,Well beaten for the second week in a row... %s from %P and %M on Grima,,,515800,147,577300,142,Forward,39
+280379,Lewis,Stevenson,PA,3,33,42,21,27,39,6,3,2,2,0,1,2,0,0, Full Time,tagged,Forward tag on him by Wright... %D... also %F,cash,Cash flow is slowing to a trickle,224400,-12,253600,-2,Back,15
+261892,Hamish,Hartlett,PA,7,32,53,30,22,36,4,3,0,5,0,0,2,0,0, Full Time,tagged,Tagged by Bastinac... %P and %T,,,458000,44,538100,37,Back Centre,8
+292145,Thomas,Jonas,PA,3,27,47,22,25,42,4,6,1,3,0,0,4,0,0, Full Time,job,On Thomas... %P and %T,,,215400,40,287500,70,Back,42
+250688,Alipate,Carlile,PA,2,26,41,22,23,36,3,6,1,2,0,0,2,0,0, Full Time,job,Standing Petrie... %O,,,277300,28,376700,42,Back,27
+270779,Paul,Stewart,PA,3,24,17,21,19,27,3,2,2,2,0,0,1,0,0, Full Time,news,On in Q3 for Renouf,sub,Started as a sub,299700,102,310500,121,Forward,14
+250308,Brent,Renouf,PA,8,23,44,22,24,30,1,2,0,1,12,0,2,1,0, Full Time,news,%H and %P,subbed,Subbed off in Q3 for Stewart,291000,83,318900,77,Ruck,4

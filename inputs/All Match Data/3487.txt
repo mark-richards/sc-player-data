@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Port Adelaide,Power,R11,10.14.74,8.15.63, Full Time
+Jun 06,2010,2:10,MCG,Seven,210020,10281107,5015587,5155,Windy with showers,16
+The iPhone app is going through last minute modifications requested by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>TC-Forever</em>: done Hodge<br><em>fossburger</em>: end of discussion<br><em>fossburger</em>: if a player gets 30sc in the last 2min by kicking it around in the back50 with a 6point margin he deserves the bin<br><em>Nigey95</em>: Nice Boaky <br><em>fossburger</em>: lol you guys are douche bags<br><em>cgjh</em>: "Junk time" definition: 'when the game is dead and buried'<br><em>fossburger</em>: foolydick<br><em>Crippa</em>: foss is an idiot &#044; junk time is when the game is dead and buried.<br><em>foolysik</em>: tossburger<br><em>Cotts</em>: confucious say.. man who go to bed with stiff willy wake up with solutin in hand<br><em>fossburger</em>: "junk" definition: 'any undesired thing or substance'<br><em>jeff b</em>: taking a while<br>
+220047,Luke,Hodge,HW,36,131,137,169,105,136,18,8,10,5,2,1,1,1,5, Full Time,star,Tagged by Thomas playing up forward... %s from %P and %M with %T
+200060,Brent,Guerra,HW,15,106,107,140,80,105,20,4,8,3,0,2,0,0,0, Full Time,hot,Running off Chad Cornes... %P and %M with %T
+220060,Rick,Ladson,HW,20,90,105,116,67,86,13,3,3,5,0,2,0,2,2, Full Time,sore,Tagging Pearce... %P and %M plus %s... also %T... corked right thigh in Q4
+230197,Brad,Sewell,HW,19,89,105,113,77,111,14,15,6,2,0,0,3,0,0, Full Time,news,Tagging Rodan... %O including %b by hand with %M and %F
+250089,Jordan,Lewis,HW,14,88,85,116,65,94,17,7,3,4,0,0,1,0,1, Full Time,news,%P including %k by foot with %M and %T... also %s
+200040,Chance,Bateman,HW,13,83,63,108,67,89,16,5,7,1,1,1,1,0,1, Full Time,mrp,%D including %k by foot with %M... drove his knees into Brogan in Q3 and given his history Changa may go
+240302,Grant,Birchall,HW,13,80,80,102,64,84,14,7,6,1,0,2,0,0,0, Full Time,news,%D and %M
+280471,Ben,Stratton,HW,13,75,92,98,60,78,15,3,8,0,0,0,0,0,0, Full Time,news,%P and %M
+210092,Michael,Osborne,HW,20,73,66,96,66,85,13,2,8,1,1,1,4,2,0, Full Time,news,%s from %D and %M
+210012,Shaun,Burgoyne,HW,15,72,61,97,52,72,8,6,3,7,0,2,1,0,0, Full Time,news,Helmetless and starting up forward on Chaplin... %P
+230082,Stephen,Gilham,HW,10,69,113,90,52,67,9,5,4,4,1,3,0,0,0, Full Time,job,On Daniel Stewart... %D and %M
+250257,Xavier,Ellis,HW,13,68,45,88,55,72,9,6,7,2,0,0,0,0,0, Full Time,news,%O and %M
+260955,Cyril,Rioli,HW,21,68,100,88,52,73,6,8,2,6,0,0,1,1,1, Full Time,news,Poor in Q1 but lifted in Q2... %P and %T plus %s on Surjan
+280737,Liam,Shiels,HW,14,66,54,90,51,66,9,2,7,4,0,1,1,0,0, Full Time,news,%O and %M with %T
+261386,Brendan,Whitecross,HW,11,64,82,80,53,69,7,6,3,3,0,1,1,2,0, Full Time,news,First goal... %D and %s
+240357,Jarryd,Roughead,HW,14,60,80,79,46,60,6,3,3,5,3,1,1,1,0, Full Time,sore,%s from %P and %M with %T on Carlile... cut above the right eye in Q2
+250308,Brent,Renouf,HW,15,60,49,77,52,64,4,3,5,4,16,1,2,0,0, Full Time,news,%H and %D plus %M
+220073,Sam,Mitchell,HW,12,59,59,77,45,67,8,9,0,5,0,2,2,0,1, Full Time,sore,Tagged by Kane Cornes... %O and %T plus %s... cut on the lip in Q2
+250146,Thomas,Murphy,HW,9,56,53,77,50,66,10,2,9,1,0,0,3,0,0, Full Time,job,Has Motlop... %M and %D with %F
+270854,Carl,Peterson,HW,5,47,48,63,39,55,6,5,4,3,1,0,2,0,0, Full Time,news,%D and %T plus %M
+250055,Clinton,Young,HW,9,46,43,57,37,49,7,4,2,1,0,0,0,1,1, Full Time,injured,%s from %D and %M... torn left quad iced up at half time
+210062,Wayde,Skipper,HW,4,42,52,50,35,42,3,4,1,2,12,2,0,0,0, Full Time,news,%H and %P with %T
+250365,Travis,Boak,PA,50,123,126,104,92,133,15,14,4,11,0,2,3,0,1, Full Time,hot,%P and %T plus %M
+250063,Danyle,Pearce,PA,19,109,118,65,80,111,19,10,3,5,0,3,0,0,0, Full Time,hot,Tagged by Ladson... %O and %M with %T
+210043,Domenic,Cassisi,PA,44,107,100,113,73,108,8,12,2,14,0,0,1,0,0, Full Time,hot,%D and %T with %M
+230124,Tom,Logan,PA,32,102,107,95,83,108,9,11,8,6,0,2,1,1,0, Full Time,hot,%D and %M plus %s
+210020,Kane,Cornes,PA,15,96,84,78,75,102,11,13,5,5,0,2,0,0,0, Full Time,tagger,Tagging Mitchell... %P and %M with %T
+220090,David,Rodan,PA,24,84,94,64,58,82,12,7,0,8,0,4,1,0,1, Full Time,sore,Tagged by Sewell... %P and %T plus %s... left medial ligament problem in Q3
+240385,Matt,Thomas,PA,19,83,93,69,64,88,9,10,3,5,1,0,0,1,0, Full Time,tagger,Tagging Hodge... %P
+230192,Steven,Salopek,PA,15,75,79,37,64,87,15,6,5,1,0,2,3,1,0, Full Time,news,%P and %M
+230242,Brett,Ebert,PA,16,75,95,60,60,74,9,2,6,3,0,0,0,2,2, Full Time,news,%s from %O and %M with %T
+272004,Jason,Davenport,PA,16,72,94,67,58,78,6,8,3,5,0,0,1,2,0, Full Time,news,%P and %T with %M and %s
+240180,Troy,Chaplin,PA,14,71,77,50,58,82,11,8,4,4,1,2,3,0,0, Full Time,job,Has Burgoyne... %D
+250688,Alipate,Carlile,PA,13,69,84,58,58,78,7,11,6,2,0,0,0,0,0, Full Time,job,Running off Roughead... %M and %D
+200111,Dean,Brogan,PA,14,67,63,46,63,79,8,8,3,0,22,2,2,0,0, Full Time,news,%H and %P with %M
+261892,Hamish,Hartlett,PA,15,66,43,54,47,64,9,3,3,6,0,2,1,0,1, Full Time,news,%D and %T plus %s
+230159,Jay,Nash,PA,4,54,54,28,39,54,11,2,3,2,0,0,0,0,0, Full Time,news,%K among %D
+210008,Daniel,Motlop,PA,5,52,50,39,43,57,7,4,4,2,2,0,1,0,4, Full Time,burger,%s from %P and %M on Murphy... looking medium rare
+240074,Jacob,Surjan,PA,4,44,48,32,34,48,6,6,2,2,0,0,0,0,0, Full Time,tagger,Tagging Rioli... %D and %M with %T
+260201,Daniel,Stewart,PA,10,42,51,32,36,45,6,1,4,2,0,2,2,1,0, Full Time,sore,%M and %O... left ankle problem in Q3
+280013,Jackson,Trengove,PA,3,39,44,30,35,44,4,4,1,1,13,1,1,0,1, Full Time,news,%H and %P
+271078,Matthew,Broadbent,PA,2,31,62,16,26,39,5,8,0,0,0,0,0,0,0, Full Time,news,%B among %O
+270779,Paul,Stewart,PA,2,28,49,16,24,36,4,8,0,0,0,0,0,0,0, Full Time,news,%P
+980059,Chad,Cornes,PA,0,13,10,13,12,18,1,3,1,1,0,0,1,0,0, Full Time,cold,Playing forward on Guerra but doing nothing... %P

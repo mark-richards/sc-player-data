@@ -1,0 +1,56 @@
+West Coast,Eagles,Hawthorn,Hawks,W1,0.5.1.31,0.4.5.29, Half Time
+Feb 13,2011,7:45,Subiaco,Fox Sports,,10300107,1111112046204,5262,Fine,29
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>macca.barb</em>: well done eagles<br><em>pie time</em>: looks like SC scores are not working<br><em>Big Lance</em>: Baby Hawks looked good&#044; good signs from Puopolo<br><em>jumpinjack</em>: Gaff had very limited TOG from what i saw<br><em>Panther</em>: Gaff out of my team.better off with Caddy.<br><em>Usman</em>: Gaff should bemore prominent in longer forms of the game<br><em>cptFantasy</em>: early days maan<br><em>maanco</em>: i recon so junktimer<br><em>maanco</em>: GAff hasnt lived up to his hype<br><em title="DA BOSH KA">da bosh ka</em>: go cox u r a legend in Dream Team defently puting him with Sandilands<br><em>run2dmax</em>: Nothing too exciting for West Coast other than Cox. Plenty of rookie options to be interested in with Hawks though.<br><em>MarcMurphy</em>: That's what i've got at the moment&#044; just getting some thoughts :)<br>
+200112,Dean,Cox,WC,6,62,-,76,53,64,7,5,5,1,10,2,0,0,0, Half Time,hot,Not much opposition in the ruck... %D and %M with %H
+270928,Scott,Selwood,WC,9,53,-,66,41,54,8,5,1,2,0,2,0,1,0, Half Time,hot,First goal... %P and %T plus %s
+240124,Matt,Priddis,WC,15,51,-,65,41,57,2,8,2,5,0,0,1,1,0, Half Time,hot,Tagged by Shiels... %P and %s including %b... also %T and %M
+240159,Sam,Butler,WC,7,40,-,53,35,45,7,2,6,0,0,0,1,0,0, Half Time,hot,%O and %M
+281080,Brad,Sheppard,WC,2,34,-,40,28,42,4,9,0,1,0,0,0,0,0, Half Time,job,Minding Bruest... %D including %b by hand
+230281,Mark,Nicoski,WC,7,30,-,38,25,30,3,1,3,1,0,0,0,1,0, Half Time,news,Set up several scores across half forward... %P and %M plus %s himself
+270926,Jordan,Jones,WC,2,29,-,38,22,27,5,1,2,1,0,2,0,0,0, Half Time,job,On Smith... %P and %M
+271073,Tom,Swift,WC,2,28,-,36,22,30,4,3,2,1,0,0,0,0,0, Half Time,news,%D and %M
+250111,Matt,Rosa,WC,2,27,-,36,19,27,4,2,1,2,0,0,0,0,0, Half Time,news,%D including %K
+990020,Andrew,Embley,WC,2,26,-,33,20,27,2,4,1,2,0,1,0,0,0, Half Time,news,Just the sort of low pressure game he excels in... %D and %T
+261911,Brad,Ebert,WC,8,25,-,33,24,30,5,0,3,0,0,1,2,1,0, Half Time,news,%P and %M plus %s
+260546,Bradd,Dalziell,WC,1,24,-,32,19,24,3,1,3,1,0,0,0,0,0, Half Time,news,On the end of a lot of switch kicks in space on the wing... %P and %M
+240406,Josh J.,Kennedy,WC,2,22,-,29,19,24,3,2,2,1,0,2,1,0,0, Half Time,news,%P and %G on Stratton
+261226,Tim,Houlihan,WC,1,22,-,27,17,24,3,4,0,1,0,1,0,0,0, Half Time,news,%P
+260303,Mitchell,Brown,WC,1,20,-,22,18,27,2,7,0,0,0,0,0,0,0, Half Time,news,%P including %b by hand... also %T
+280946,Koby,Stevens,WC,1,20,-,26,15,21,3,2,1,1,0,0,0,0,0, Half Time,news,%D
+261290,Chris,Masten,WC,1,19,-,26,17,27,4,3,1,1,0,0,2,0,0, Half Time,news,%D and %F
+271045,Nic,Naitanui,WC,2,19,-,24,17,22,0,2,1,2,7,0,1,0,0, Half Time,fiji,%H and %P
+250034,Ashton,Hams,WC,0,17,-,23,12,16,3,0,1,1,0,0,0,0,1, Half Time,news,%s from %P
+290801,Andrew,Gaff,WC,1,17,-,23,14,21,5,1,1,0,0,0,1,0,0, Half Time,news,%K among %O
+280379,Lewis,Stevenson,WC,1,16,-,21,13,21,3,3,0,1,0,0,1,0,0, Half Time,job,CHB on Schoenmakers... %B among %P
+200074,Darren,Glass,WC,1,14,-,18,12,18,2,3,0,1,0,1,1,0,0, Half Time,job,Standing Lisle... %P
+290932,Gerrick,Weedon,WC,6,14,-,16,12,12,2,0,0,0,0,2,0,1,0, Half Time,news,%s from %O
+270953,Ashley,Smith,WC,0,13,-,18,10,15,3,1,0,1,0,1,1,0,0, Half Time,news,%O
+260050,Callum,Wilson,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used
+280994,Ryan,Neates,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used
+210012,Shaun,Burgoyne,HW,8,43,-,36,30,45,5,6,0,4,0,0,0,0,0, Half Time,news,%K among %D with %T
+260955,Cyril,Rioli,HW,2,33,-,19,23,33,6,3,0,2,0,1,0,0,0, Half Time,news,%O and %T
+261386,Brendan,Whitecross,HW,3,33,-,17,27,37,6,4,2,0,0,0,0,0,1, Half Time,news,%P and %M
+270936,Jordan,Lisle,HW,8,32,-,21,28,33,4,2,1,0,0,1,0,2,0, Half Time,news,Playing FF on Glass but didn't get a sniff early... %P and %s
+291537,Thomas,Schneider,HW,8,30,-,25,27,36,3,4,2,1,0,0,1,1,0, Half Time,news,%s from %O and %M
+280737,Liam,Shiels,HW,2,28,-,32,21,27,1,4,1,3,0,2,0,0,0, Half Time,tagger,Tagging Priddis... %O and %T
+270732,Matt,Suckling,HW,1,27,-,4,19,27,8,0,1,0,0,0,0,0,0, Half Time,news,Plenty of inside 50s among his %P... all by foot
+280744,Luke,Breust,HW,1,25,-,21,20,25,3,1,3,1,0,0,0,0,1, Half Time,news,Kicked %s from %O and %M on Sheppard
+294199,Sam,Menegola,HW,6,25,-,19,20,24,3,1,1,1,0,1,0,1,0, Half Time,news,%O and %s
+260710,Paul,Puopolo,HW,1,24,-,17,19,27,3,5,0,1,0,1,0,0,0, Half Time,job,Minding Weedon... %B among %D
+280471,Ben,Stratton,HW,1,24,-,18,21,30,3,5,1,1,0,1,1,0,0, Half Time,job,On Kennedy... %P
+280858,Shane,Savage,HW,1,24,-,15,18,25,4,2,1,1,0,0,0,0,1, Half Time,news,%D and %s
+280612,Will,Sierakowski,HW,1,23,-,15,17,21,4,0,2,1,0,1,0,0,0, Half Time,news,Started in defence... %P and %M
+290085,Taylor,Duryea,HW,1,21,-,17,14,18,3,0,1,2,0,1,0,0,0, Half Time,news,%P and %T
+270215,Kyle,Cheney,HW,1,19,-,16,15,21,2,3,1,1,0,0,0,0,0, Half Time,news,Plenty of work for him in defence... %P
+281032,Jordan,Williams,HW,1,18,-,10,15,21,3,3,1,0,0,0,0,0,0, Half Time,news,%D
+281301,Ryan,Schoenmakers,HW,2,17,-,10,16,21,3,2,2,0,0,1,1,0,0, Half Time,news,Played CHF on Stevenson... %O and %G
+250664,Travis,Tuck,HW,0,16,-,15,13,16,1,3,0,1,1,2,0,0,0, Half Time,news,Seemed to always be chasing Eagle tail in midfield... %O
+280059,Riley,Milne,HW,0,15,-,8,10,15,3,1,0,1,0,0,0,0,0, Half Time,news,%P
+294877,Isaac,Smith,HW,1,14,-,12,8,12,2,0,0,2,0,0,0,0,0, Half Time,news,Played a HFF on Jordan Jones... %D and %T
+250308,Brent,Renouf,HW,0,12,-,11,11,16,1,3,0,1,0,1,1,0,1, Half Time,sore,%T... knock in Q1 but returned late in Q2
+292013,Sam,Grimley,HW,0,7,-,4,8,11,1,2,0,0,2,1,1,0,0, Half Time,news,Had to ruck most of the game after Renouf's early knock... %H and %P
+294178,Angus,Litherland,HW,0,7,-,0,6,12,3,0,0,1,0,0,2,0,0, Half Time,news,%O and %F
+250146,Thomas,Murphy,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,injured,Left ankle knock early in Q1 and subbed off
+290669,Jack,Mahony,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,news,Started as a sub... on in Q1
+290730,Nathan,Ahmat-Watkins,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,news,Started as a sub... on after Q1

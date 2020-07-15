@@ -1,0 +1,48 @@
+Sydney,Swans,Western Sydney,Giants,R16,24.27.171,5.12.42, Full Time
+Jul 14,2013,1.10,SCG,Seven,291856,10391607,syd-v-gws,0,Fine,19,,
+
+<em style='color:#000'>Jukes82</em>: 84 point second half for mitchell wow<br><em style='color:#000'>RooBoyStu</em>: McGlynn 87 bullshower played only one half<br><em style='color:#000'>Stuart88</em>: Good work Mitchell beating K Jack just might win SC coz of you :) <br><em style='color:#000'>demonchris</em>: 51 scoring shots to sydney amazing..<br><em style='color:#000'>casey22</em>: 67 in a quarter - amazing effort<br><em style='color:#000'>ozgamer</em>: Hit the Road Jack<br><em style='color:#000'>OnTheRocks</em>: if JPK gets more than ROK&#044; i'm going to be surprised as ROK did all the work early<br><em style='color:#000'>mstrbatten</em>: 70 point qtr for mitch wow<br><em style='color:#000'>BomBlitz11</em>: massive quarter<br><em style='color:#000'>Stuart88</em>: What's Mitchell's Sc score <br><em style='color:#a0a'>frenzy</em>: Tom Mitchell clap clap clap<br><em style='color:#000'>Fonz99</em>: 67 in a quarter by Tommy Mitchell what a finish<br>
+230253,Jarrad,McVeigh,SY,31,132,143,168,107,144,21,14,11,2,0,0,0,0,0, Full Time,gun,%O and %M,,,451900,94,511700,100,Centre,3,14,98.2,106.9,2.32,1.73
+230132,Nick,Malceski,SY,31,125,156,165,93,126,26,4,6,4,0,2,1,1,0, Full Time,star,%O including %k by foot... also %M and %T... %s as well,bugg,Forward tagged by Bugg,421900,102,468300,113,Back,9,14,86.9,92.6,6.08,5.03
+261212,Craig,Bird,SY,25,116,111,148,93,123,23,5,7,1,0,0,1,2,3, Full Time,seagull,Mostly playing off a wing in an outside role he has enjoyed recently... %P and %M plus %s,,,402900,51,437300,21,Forward Centre,14,12,67.7,69.3,1.61,1.61
+291856,Tom,Mitchell,SY,32,113,113,142,87,115,14,9,3,6,0,1,0,3,1, Full Time,vulture,One kick in Q1... %P and %M plus %s... most of his numbers in second half junk time,cash,Making more cash than Liam Pickering,324900,17,340600,4,Centre,6,5,103.2,100.4,45.75,47.16
+260382,Josh P.,Kennedy,SY,22,107,107,129,92,125,11,18,5,3,0,0,1,2,2, Full Time,hot,%B among %P with %M and %s,,,416500,101,507500,127,Centre,12,14,91.1,109.6,10.18,27.53
+200071,Ryan,O'Keefe,SY,25,102,107,126,87,116,11,15,7,3,0,1,1,1,2, Full Time,hot,Tagged by Shiel... %P and %T plus %M and %s,,,526400,96,555500,73,Centre,5,14,104.2,109,4.01,1.84
+290117,Daniel,Hannebery,SY,19,102,122,125,87,123,15,19,6,1,0,0,1,0,0, Full Time,hot,Tagged by Scully until Scully got injured early... %O and %M,,,410500,108,444300,96,Centre,4,14,92.6,97.6,4.81,7.35
+291206,Mike,Pyke,SY,23,89,118,107,76,87,9,1,5,2,16,1,0,3,2, Full Time,news,%s from %G and %P when forward on Gilham... also %H,,,352900,93,423000,108,Ruck,38,14,75.5,90,4.70,4.04
+261257,Andrejs,Everitt,SY,14,83,84,104,70,93,11,11,8,1,0,0,0,0,0, Full Time,news,%D and %M,,,280900,53,318500,65,Forward,13,9,57.4,63.8,0.89,0.39
+240226,Kieren,Jack,SY,13,79,74,100,67,88,8,11,7,3,0,2,1,0,1, Full Time,tagged,Tagged by Palmer... %P and %T plus %M and %s,,,494300,143,555300,131,Centre,15,14,104.4,112.5,10.66,5.25
+290778,Luke,Parker,SY,15,79,62,99,64,85,9,9,5,3,0,0,0,1,1, Full Time,news,%D and %T with %M and %s,,,387800,85,455100,75,Centre,26,14,87,93.9,2.62,2.58
+990011,Jude,Bolton,SY,16,78,81,95,70,96,8,15,5,2,0,1,2,1,0, Full Time,news,%P and %M on Mohr,,,281900,55,333200,46,Forward Centre,24,14,65,73,2.33,3.40
+270742,Kurt,Tippett,SY,21,73,83,93,65,80,8,2,6,3,0,1,3,3,5, Full Time,news,Booted %s from %P and %G on Davis... %T as well,reported,Reported for an incident off the ball in Q3,370300,63,457300,74,Forward,8,3,78,90.3,3.39,3.67
+290307,Dane,Rampe,SY,18,69,93,88,53,75,10,8,1,4,0,1,1,1,0, Full Time,job,Hoskin-Elliott is his man... %P and %T plus %s,,,257100,71,327600,84,Centre,43,12,50.5,60.1,3.86,3.12
+280762,Shane,Mumford,SY,17,63,95,71,59,69,4,6,4,0,20,0,0,1,1, Full Time,news,%H and %D plus %M and %s,,,343300,90,409900,111,Ruck,41,11,68.3,79.6,2.35,3.91
+230140,Ben,McGlynn,SY,12,59,89,76,48,60,9,1,4,2,0,1,1,2,0, Full Time,injured,%s from %O and %M on Darley... also %T... left thigh iced up at HT,subbed,Subbed off at HT for White,313500,105,359300,83,Forward,21,14,71.5,73.1,1.43,1.85
+250212,Jesse,White,SY,15,58,57,68,53,62,5,4,5,0,2,0,0,3,0, Full Time,news,On after HT for McGlynn,sub,Started as a sub,229000,84,279100,98,Forward,18,4,53,58.5,1.11,0.85
+250338,Nick,Smith,SY,4,55,74,70,43,57,8,6,3,2,0,2,0,0,0, Full Time,job,Minding Smith... %D and %M,,,237500,65,279700,62,Back,40,14,54.4,61.7,0.54,0.66
+291544,Jed,Lamb,SY,3,51,85,68,35,51,10,3,1,3,0,0,0,0,0, Full Time,cash,%K among %D starting forward on Haynes,,,136400,-21,143100,-29,Forward,11,6,32,30.2,2.91,3.61
+240072,Heath,Grundy,SY,3,49,71,61,40,54,7,7,3,1,0,1,0,0,0, Full Time,job,Standing O'hAilpin... %O,,,239800,88,287400,77,Back,39,14,56.5,64.8,1.33,1.35
+295906,Brandon,Jack,SY,5,45,26,60,38,51,7,3,4,2,0,1,2,0,3, Full Time,cash,%s from %P and %M on Hampton,,,122100,-28,135500,-50,Centre,33,3,45.3,49.7,2.85,2.80
+210027,Ted,Richards,SY,4,43,60,55,37,51,8,5,4,0,0,0,1,0,0, Full Time,job,Has Cameron... %D,,,214300,24,280900,38,Back,25,14,48.6,64.4,2.54,2.28
+280109,Callan,Ward,WS,28,108,104,95,81,110,11,12,4,8,5,2,0,0,0, Full Time,hot,%D and %T with %M... also %H,,,406800,145,438800,146,Centre,8,14,89.2,92.4,0.73,0.71
+291790,Adam,Treloar,WS,20,97,92,79,76,106,11,14,5,5,0,0,0,0,1, Full Time,news,Starting in defence... %D and %M with %T,,,446400,103,462000,89,Centre,17,13,90.8,89.5,0.54,0.58
+293845,Jeremy,Cameron,WS,24,90,102,60,75,91,13,3,7,1,0,1,0,3,1, Full Time,news,First goal... %s from %P and %M on Richards,,,340700,105,365800,76,Forward,18,13,65.1,68.3,2.50,2.43
+294305,Lachlan,Whitfield,WS,9,80,99,47,65,87,13,11,4,1,0,3,0,0,0, Full Time,news,%P and %M,,,322400,39,331100,52,Centre,6,13,68.4,70.3,9.47,8.53
+290765,Sam,Darley,WS,15,77,79,35,57,78,16,4,2,2,0,1,0,1,0, Full Time,news,%O and %M,job,Minding McGlynn,286200,,291900,,Back,13,0,0,0,0.13,0.13
+291783,Dylan,Shiel,WS,10,75,77,39,62,88,15,7,5,2,0,1,3,0,1, Full Time,tagger,Tagging O'Keefe... %O and %T... also %F,,,328400,21,334400,28,Centre,5,14,71.5,75.4,0.69,0.80
+280804,Phil,Davis,WS,8,65,64,30,51,69,14,3,5,1,0,1,1,0,0, Full Time,news,%D and %M,job,On Tippett,302300,99,363400,78,Back,1,5,53.8,64.8,0.40,0.48
+291771,Devon,Smith,WS,13,60,60,34,48,70,10,9,0,2,1,0,1,1,0, Full Time,news,%O and %T on Smith,,,331000,68,321700,37,Forward Centre,10,13,72.8,69.1,1.18,1.39
+291784,Dom,Tyson,WS,10,59,52,50,44,60,7,5,4,4,0,0,0,0,0, Full Time,news,%O and %T with %M,,,317400,,299100,,Centre,29,0,0,0,0.10,0.20
+295265,Nick,Haynes,WS,5,59,76,43,48,66,9,5,5,3,0,1,2,0,0, Full Time,news,%D and %M,job,Responsible for Lamb,228700,46,254900,-31,Forward Centre,19,4,53.8,64.8,0.53,1.36
+290306,Curtly,Hampton,WS,9,58,66,49,43,60,7,6,2,5,0,2,1,0,0, Full Time,news,%P,job,Brandon Jack is his man,279000,81,310700,71,Back Forward,2,10,55.6,55.8,1.06,1.02
+261841,Jonathan,Giles,WS,19,55,45,51,50,57,3,1,1,2,36,0,1,0,0, Full Time,news,%H and %P with %T,,,353400,86,392100,74,Ruck,26,14,69.5,77.4,2.42,3.15
+230082,Stephen,Gilham,WS,4,52,70,40,39,54,7,5,3,3,0,0,0,0,0, Full Time,job,Standing the resting ruck which is mostly Pyke... %D and %T with %M,,,320500,42,382500,66,Back,38,11,63.5,72.3,0.69,0.92
+240716,Setanta,O'hAilpin,WS,4,48,26,29,40,51,8,3,5,0,3,0,0,0,0, Full Time,news,%D on Grundy... also %H,,,180400,2,267300,6,Forward Ruck,37,6,47.3,63.2,9.02,2.56
+261231,Rhys,Palmer,WS,4,44,56,32,34,48,6,6,2,2,0,0,0,0,0, Full Time,news,%K among %P with %M,tagger,Tagging Kieren Jack,379600,118,343500,74,Centre,7,10,75.7,67.3,0.35,0.50
+261189,Tim,Mohr,WS,4,41,70,33,34,46,5,5,3,2,1,1,1,0,0, Full Time,job,Responsible for Bolton... %O and %M,sore,Left knee hyperextension in Q4,253300,60,304500,65,Back,39,14,58.9,71,0.73,0.79
+291936,Shaun,Edwards,WS,4,37,35,32,34,42,3,7,4,0,0,2,0,0,0, Full Time,news,On in Q1 for Edwards... %O,sub,Started as a sub,255000,,288400,,Back,22,0,0,0,0.11,0.11
+294615,Jonothon,O'Rourke,WS,3,31,14,24,24,36,5,2,2,3,0,0,2,0,0, Full Time,rookie,First game... %P,,,179200,,194500,,Centre,24,0,0,0,0.45,0.61
+291720,Will,Hoskin-Elliott,WS,2,26,31,15,21,29,5,1,2,1,0,0,1,0,2, Full Time,news,%s from %D on Rampe,,,272400,38,274500,21,Forward Centre,33,6,59.5,54.8,0.73,0.85
+294508,Aidan,Corr,WS,1,26,39,16,20,30,4,5,0,1,0,0,0,0,0, Full Time,news,%B among %D,,,163000,39,199300,45,Back,35,9,31.2,40.8,1.42,1.47
+280969,Tom,Scully,WS,0,14,8,6,11,13,3,0,1,0,0,1,0,0,1, Full Time,injured,Tagging Hannebery... %D and %s... copped a high knock early from a McGlynn swinging arm,subbed,Subbed off in Q1 for Edwards,405800,93,399300,72,Centre,9,14,77.3,74.8,1.53,1.05
+291802,Tomas,Bugg,WS,1,11,13,5,11,17,2,3,0,0,0,0,1,0,2, Full Time,news,Donuts in Q1... %D and %s,tagger,Forward tag on Malceski,263100,76,280900,75,Back,14,7,55,58.7,0.80,0.99

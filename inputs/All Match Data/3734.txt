@@ -1,0 +1,48 @@
+Carlton,Blues,Adelaide,Crows,R5,11.19.85,12.7.79, Full Time
+Apr 23,2011,7:10,Docklands,Ten,270653,10310503,5488,35,Cloudy,20
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>dawsy</em>: at a decentr hour too!!!<br><em>dawsy</em>: Yes c'mon liverpool!! <br><em>dawsy</em>: heeelllooo?<br><em>Judd005</em>: yes baggers! Yaz ur killin me<br><em>Wheels1974</em>: nope...lol<br><em>HotTiges</em>: nice dt : sc Gibbs<br><em>Davo75</em>: Dawsy&#044; finally Liverpool playing on a Saturday!<br><em>dawsy</em>: anyone drunk lool<br><em>Wheels1974</em>: you all gone<br><em>Wheels1974</em>: What a kick A** day<br><em>Wheels1974</em>: oi is Jolly in?<br><em>HotTiges</em>: i love you revolving doors!!!<br>
+250105,Marc,Murphy,CA,27,126,137,161,97,136,17,17,4,7,0,3,1,0,1, Full Time,star,%D and %T with %M... also %s,,
+261258,David,Ellard,CA,31,112,106,144,91,123,15,10,7,5,0,0,2,2,0, Full Time,hot,%P and %M plus %T and %s,tagger,Tagging Dangerfield
+220056,Chris,Judd,CA,16,108,110,133,87,119,15,17,4,3,0,3,0,0,2, Full Time,gun,Crows rotated the tags through him... %P and %M with %T plus %s,,
+240014,Andrew,Walker,CA,28,104,106,127,85,109,11,9,4,4,0,0,0,4,1, Full Time,x-factor,Seemed to want to prove he's not sub fodder... %s from %P and %M on Otten... also %T,,
+230202,Kade,Simpson,CA,25,100,113,134,75,103,15,6,7,6,0,0,1,0,1, Full Time,hot,Had a bit to prove from last week... %D and %M with %T,,
+990059,Heath,Scotland,CA,15,94,114,118,74,105,18,12,4,1,0,0,0,0,0, Full Time,news,%D and %M,,
+220015,Andrew,Carrazzo,CA,21,87,76,112,66,93,9,12,4,6,0,0,0,0,0, Full Time,news,Matched up on Doughty... %D and %M with %T,,
+220110,Jarrad,Waite,CA,25,85,97,110,71,91,10,5,7,4,0,1,2,2,1, Full Time,news,Booted %s from %G and %O on Rutten,,
+270899,Jeremy,Laidler,CA,14,85,75,112,69,87,12,5,9,3,0,3,1,0,0, Full Time,job,Standing Henderson... %M and %O with %T,,
+270146,Ed,Curnow,CA,19,80,94,97,65,94,7,18,2,4,0,0,0,0,1, Full Time,tagger,Tagging Scott Thompson... %B among %P with %T and %M... also %s,,
+240060,Eddie,Betts,CA,25,76,75,98,59,81,5,10,3,7,0,1,1,1,0, Full Time,news,First goal... kicked %s from %D on Tambling... also %T and %M,,
+270653,Jeff,Garlett,CA,21,75,70,101,56,77,9,4,3,7,0,1,2,1,2, Full Time,news,Smith on him... %s from %O and %T with %M,,
+261043,Michael,Jamison,CA,13,71,75,91,59,75,10,6,8,1,0,1,0,0,0, Full Time,news,%P and %M,job,Standing Tippett
+250417,Bryce,Gibbs,CA,12,70,87,90,51,71,9,8,1,5,1,2,0,0,1, Full Time,news,One of those games where Bryce floats about and doesn't get into the flow of the game... %D and %T plus %s,,
+290311,Mitch,Robinson,CA,12,67,40,84,56,73,9,8,6,1,0,1,0,0,1, Full Time,news,Playing forward.. %s from %D and %M,,
+250090,Jordan,Russell,CA,15,65,85,77,59,81,6,14,4,1,0,0,1,1,0, Full Time,job,Minding Jaensch... %O and %M plus %s,,
+250672,Robert,Warnock,CA,19,65,75,73,64,80,5,10,3,0,25,1,2,0,1, Full Time,news,%H and %P with %M,,
+261009,Nick,Duigan,CA,4,53,53,69,42,60,7,7,3,3,0,0,1,0,0, Full Time,news,%O and %M with %T,,
+270637,Simon,White,CA,4,47,55,59,38,51,5,7,3,2,0,1,0,0,0, Full Time,job,Following Walker... %O and %M plus %T,,
+271110,Chris,Yarran,CA,3,44,45,58,33,45,9,2,3,1,0,0,0,0,0, Full Time,injured,Trying to zone off Knights... %P and %M... copped a knock in the right side of his ribcage in a friendly fire incident with White in Q2... also right hamstring iced up in Q3,subbed,Subbed off in Q3 for Joseph
+270737,Shaun,Hampson,CA,3,36,44,42,31,34,3,2,1,1,12,3,0,0,1, Full Time,news,%H and %D plus %s,,
+261318,Aaron,Joseph,CA,2,21,29,27,15,21,2,3,0,2,0,1,0,0,0, Full Time,news,On in Q3 for Yarran... %O and %T,sub,Started as a sub
+210056,Graham,Johncock,AD,14,89,134,59,69,93,14,8,6,3,0,1,0,0,0, Full Time,news,%M and %O with %T,,
+250118,Nathan,van Berlo,AD,14,88,74,77,76,104,8,16,7,3,2,0,1,0,0, Full Time,news,%O and %M with %T,,
+240032,Chris,Knights,AD,20,87,67,74,74,96,9,11,10,2,0,0,0,0,0, Full Time,news,Tried to keep Yarran honest by doing a lot of link work across half forward... %P and %M with %T,,
+210016,Scott,Thompson,AD,21,86,102,68,70,96,10,12,4,4,0,1,1,1,0, Full Time,tagged,Curnow tagging him... %D and %M with %T and %s,,
+270742,Kurt,Tippett,AD,23,86,85,74,78,95,8,5,8,2,7,0,2,3,1, Full Time,news,%s from %G and %D on Jamison... also %T and %H,,
+220086,Brent,Reilly,AD,26,83,72,80,63,90,8,9,5,8,0,0,2,0,0, Full Time,news,%D and %T with %M,,
+240370,Richard,Douglas,AD,14,77,77,59,58,81,11,6,5,5,0,0,1,0,0, Full Time,news,Various defensive jobs in midfield mostly on Judd... %P and %M with %T,,
+220093,Ben,Rutten,AD,13,69,95,45,61,84,10,12,6,0,0,0,1,0,0, Full Time,job,On Waite... %M and %P,,
+270917,Patrick,Dangerfield,AD,9,68,104,49,57,78,9,12,2,3,0,5,2,0,0, Full Time,news,%D with %M... also %4 frees for,,
+280506,Taylor,Walker,AD,17,65,71,46,59,70,8,2,5,0,0,0,1,4,1, Full Time,news,Booted %s from %P and %G on White,,
+291748,Brodie,Smith,AD,12,61,67,47,43,64,8,8,0,5,1,0,0,0,0, Full Time,job,Chasing Garlett... %P and %T,,
+280949,Luke,Thompson,AD,12,59,78,41,55,75,8,11,6,0,0,1,2,0,0, Full Time,news,%D and %M,,
+280038,Shaun,McKernan,AD,11,58,58,47,47,58,7,1,4,3,1,1,1,2,0, Full Time,news,Booted %s from %D and %M with %T,,
+261142,Bernie,Vince,AD,13,56,92,29,50,68,10,7,3,0,2,1,2,1,0, Full Time,sore,%P and %M plus %s... knock to a knee in Q4 drew blood,,
+270296,Andy,Otten,AD,9,55,65,59,44,63,3,10,3,5,0,0,1,0,0, Full Time,job,On Walker... %D and %M with %T,,
+230215,Brad,Symes,AD,12,51,47,50,41,63,4,11,1,5,0,0,2,0,0, Full Time,news,%B among %P with %T,,
+200092,Michael,Doughty,AD,8,50,73,35,41,60,7,9,2,2,0,0,1,0,0, Full Time,carrot,Matched up on Carrazzo... %O and %M with %T,,
+230216,Richard,Tambling,AD,3,45,49,37,34,45,5,6,1,3,0,3,0,0,0, Full Time,job,Minding Betts... %D and %T,,
+270811,Sam,Jacobs,AD,8,45,34,39,40,47,3,4,1,1,20,1,0,0,0, Full Time,news,%H and %D,,
+291201,Ricky,Henderson,AD,3,40,41,28,32,42,6,3,4,1,0,0,0,0,0, Full Time,news,Laidler on him... no score from %O and %G,,
+280281,Brodie,Martin,AD,2,27,29,19,24,34,3,7,1,0,1,0,0,0,0, Full Time,news,On in Q3 for Jaensch... %P,sub,Started as a sub
+261351,Matthew,Jaensch,AD,7,21,29,9,21,31,4,4,0,0,0,0,2,1,1, Full Time,injured,%s from %O as a small forward on Russell... right ankle knock and a corked right quad iced up in Q3,subbed,Subbed off in Q3 for Martin

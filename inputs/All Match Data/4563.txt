@@ -1,0 +1,48 @@
+St Kilda,Saints,Hawthorn,Hawks,R20,7.14.56,14.18.102, Full Time
+Aug 09,2013,7.50,Docklands,Seven,240062,10392001,stk-v-haw,0,Roof closed,17,,
+
+<em style='color:#000'>murrisj</em>: Darkness&#044; the tables have turned!<br><em style='color:#000'>ballbag</em>: mitchell SC haha theres my point. ridiculous SC<br><em style='color:#000'>Heizenberg</em>: I hear you scaled up <br><em style='color:#000'>matthius</em>: mitchell 114 sc yeah get f..d<br><em style='color:#000'>ballbag</em>: @darkness LOL i meant charlie murphy<br><em style='color:#a0a'>frenzy</em>: mitchell sc bulldang<br><em style='color:#000'>Ninja!</em>: LOL read leigh montagnas thing "19 possesions and 0 hit outs" hahahaha<br><em style='color:#000'>woofy</em>: look at mitchell go <br><em style='color:#a0a'>frenzy</em>: thank flower mr. lewis thank flower<br><em style='color:#000'>darkness</em>: nice ballbag<br><em style='color:#000'>woofy</em>: nice.. hope he gets scaled up<br><em style='color:#000'>murrisj</em>: First of all you don't slap a man!<br>
+240062,Farren,Ray,SK,31,129,107,168,103,137,20,10,11,4,1,1,1,0,1, Full Time,cherry,%O plus %M. Also %T,,,369400,71,378900,80,Centre,22,15,79.6,75.7,0.39,0.39
+220075,Leigh,Montagna,SK,25,111,129,140,92,129,19,16,6,2,0,2,2,0,0, Full Time,magnet,%2 Mitchell... %K and %B. Plus %G,,,507200,109,555400,94,Centre,11,17,107.4,110.7,4.65,1.47
+210001,Nick,Riewoldt,SK,21,104,112,131,86,107,14,7,9,2,2,2,0,1,3, Full Time,gun,Gibson standing Riewoldt... %s from %O and %G. Including a big opening term.,,,433500,146,467400,148,Forward,12,17,99.2,102.4,19.75,10.10
+270912,Jack,Steven,SK,16,99,100,121,85,121,12,21,4,3,0,2,2,0,1, Full Time,news,%2 Sewell... %O. Plus %M and %T. Including 12 touches in the first term.,,,461300,98,581800,150,Centre,3,18,94.4,107.1,1.61,1.85
+220023,Nick,Dal Santo,SK,19,96,95,123,74,105,16,12,3,4,0,2,1,0,0, Full Time,news,%O and %M. Also %T,,,435700,97,546500,126,Centre,26,18,87.1,96.1,1.73,2.16
+990028,Lenny,Hayes,SK,15,86,79,107,69,97,11,14,4,3,1,0,0,0,0, Full Time,news,%O and %M. Also %T,,,416400,107,458800,77,Centre,7,11,88.4,92.4,0.66,0.78
+280933,Dylan,Roberton,SK,9,75,74,97,58,78,13,6,5,2,0,1,0,0,0, Full Time,job,Zoning off Grimley. %O and %M. Plus %T,,,274700,69,313700,74,Back,17,17,66.2,76.4,3.44,4.83
+291518,Thomas,Curren,SK,9,73,83,93,58,80,11,9,3,3,0,2,1,0,2, Full Time,news,%s from %D and %M. Also %T. Off the half back flank.,,,123700,12,138600,29,Centre,43,3,35.7,41.3,1.26,1.08
+220098,Adam,Schneider,SK,16,72,46,91,60,79,10,4,3,3,0,0,2,3,1, Full Time,in,Late replacement for Stephen Milne. Subbed on at Half Time... %s from %D. High bump on Guerra in Q4 will be looked at.,sub,Started as a sub,347800,,367800,,Forward,13,1,42,46,0.19,0.18
+250340,David,Armitage,SK,10,70,78,87,60,84,8,13,5,2,0,0,1,0,0, Full Time,news,%O and %G. Also %T and %M,,,422100,101,452800,106,Centre,20,17,90.8,94.4,0.69,1.02
+260113,Jarryn,Geary,SK,13,67,76,89,48,66,11,4,3,4,0,1,0,0,0, Full Time,job,Chasing Rioli... %D plus %M.,,,301500,99,351300,98,Back,14,17,63.9,73.9,1.76,2.23
+291773,Jack,Newnes,SK,13,67,50,88,55,72,10,5,7,2,0,1,1,0,0, Full Time,news,%s and %O. Plus %M,,,296500,57,295300,77,Centre,16,15,58.1,58.9,0.52,0.41
+261323,Ben,McEvoy,SK,11,63,76,76,56,68,3,6,4,3,20,1,1,0,0, Full Time,news,%H and %D. Plus %G and %T,,,353800,111,457700,139,Ruck,5,18,77.9,97.9,3.85,6.26
+261743,Clinton,Jones,SK,8,63,64,77,53,75,10,12,2,1,0,2,1,0,0, Full Time,tagger,Toe to toe with Smith. %D,,,358300,89,384600,80,Centre,4,15,77.3,81.5,0.31,0.39
+295095,Brodie,Murdoch,SK,13,50,52,64,43,51,5,2,7,1,0,0,0,1,0, Full Time,news,%s from %O and %G. Also %M.,,,196800,32,204400,40,Forward,30,6,42.5,41.3,1.96,1.43
+230243,Sean,Dempster,SK,4,49,48,66,35,48,8,2,3,3,0,0,0,0,0, Full Time,job,Has Spangher. %O,,,290400,38,362300,61,Back,24,15,61.7,69.1,0.59,0.59
+200068,Jason,Blake,SK,4,47,83,60,37,48,6,5,3,2,0,2,0,0,0, Full Time,news,%D plus %T. Also %M,job,Taking the resting ruckmen...,318000,110,373300,126,Back,27,3,50.7,60,0.15,0.18
+295477,Josh,Saunders,SK,8,41,47,49,34,46,5,6,1,1,0,0,0,1,1, Full Time,news,Burgoyne minding him. %s from %D.,,,206500,42,196000,29,Back Centre,35,8,44.8,39.9,5.54,4.73
+296452,Darren,Minchington,SK,9,41,33,51,35,43,6,2,4,0,0,0,0,1,1, Full Time,rookie,First gamer... %s from %D. Guerra following him.,,,108500,,115900,,Forward,41,0,0,0,0.15,0.15
+290757,Jimmy,Webster,SK,4,40,35,51,35,48,7,5,4,0,0,0,1,0,0, Full Time,news,Minding Breust. %D plus %M,,,199000,28,217000,2,Back,29,10,43.8,45.6,2.66,4.18
+290422,Tom,Lee,SK,4,39,43,50,34,46,5,5,4,1,0,0,1,0,1, Full Time,news,%D on Lake.,,,223100,20,279500,31,Forward,9,7,53.7,63.3,12.86,14.12
+250703,James,Gwilt,SK,1,11,13,12,10,15,1,4,0,0,0,0,0,0,0, Full Time,job,Standing Roughead. %O,subbed,At Half Time,261500,98,324300,106,Back,33,12,57.3,72.5,1.22,1.43
+280858,Shane,Savage,HW,20,115,104,60,91,121,22,8,9,1,0,1,0,0,1, Full Time,hot,%O and %M. Including %K!,,,369500,45,380200,58,Centre,21,11,68.9,67.4,1.29,1.45
+200060,Brent,Guerra,HW,20,106,94,69,82,105,18,3,11,3,0,1,0,0,0, Full Time,hot,%O and %G. Plus %G and %T,job,Following Michington,317600,22,381800,20,Back,18,14,65.4,77.5,1.51,1.13
+210012,Shaun,Burgoyne,HW,19,103,103,65,84,117,17,12,7,3,0,1,2,0,0, Full Time,hot,%O and %M,job,Foloowing Saunders,312500,33,388600,49,Back Centre,9,16,77.8,85,12.05,8.43
+250089,Jordan,Lewis,HW,16,100,97,66,79,102,15,8,5,3,2,3,0,1,1, Full Time,hot,%O and %M. Plus %T,,,442000,95,482800,118,Forward Centre,3,18,90.2,94.9,10.30,6.22
+280744,Luke,Breust,HW,26,94,108,89,72,97,8,10,5,7,0,0,0,1,1, Full Time,news,Webster on him. %O plus %M. Also %T.,,,325700,85,347500,101,Forward,22,18,73.1,80.3,3.65,2.70
+294877,Isaac,Smith,HW,20,92,87,58,71,98,15,8,3,4,1,1,1,1,1, Full Time,tagged,Tagged by Jones. %D from %M. Plus %T and an extra %s,,,453600,104,453000,114,Centre,16,17,86.9,82.8,0.76,1.47
+261386,Brendan,Whitecross,HW,14,88,81,65,70,93,12,9,7,3,0,1,0,0,0, Full Time,news,%O and %G. Also %T,,,330400,91,321500,108,Forward Centre,11,6,60.7,56.2,0.32,0.31
+240357,Jarryd,Roughead,HW,23,87,113,67,75,93,10,4,4,3,0,1,2,5,0, Full Time,star,First goal... %s from %P on Gwilt. Also %G,,,403700,114,466700,138,Forward Ruck,2,18,88.4,98.2,26.70,26.20
+250652,Jonathan,Simpkin,HW,18,85,68,75,68,93,9,10,7,5,0,0,1,0,0, Full Time,news,%D and %M,,,303500,81,335000,94,Centre,32,12,65,68.8,0.85,1.06
+250715,Josh,Gibson,HW,19,84,95,62,76,102,10,16,8,0,0,1,1,0,0, Full Time,news,%D plus %M.,job,Following Riewoldt,289300,41,389100,43,Back,6,17,62.7,77.6,3.03,2.71
+290085,Taylor,Duryea,HW,15,82,56,64,70,94,10,11,8,2,0,0,1,0,1, Full Time,news,%D and %M,,,269900,79,295800,87,Centre,41,15,56.3,58.9,1.31,1.11
+230197,Brad,Sewell,HW,26,81,73,70,64,90,9,9,4,6,0,0,2,1,0, Full Time,news,%2 Steven. %D and %M. Also %s,,,373300,86,385400,81,Centre,12,14,76.8,77.6,0.78,0.71
+260710,Paul,Puopolo,HW,10,79,85,54,63,85,12,8,5,3,0,2,1,0,1, Full Time,news,%s from %D. Plus %T and %M,,,342000,10,391700,26,Forward,28,16,67.3,71.3,2.60,2.38
+220073,Sam,Mitchell,HW,8,77,115,36,57,84,16,8,1,3,0,1,1,0,0, Full Time,news,%2 Montagna. %D,mrp,Open hand slap,436100,62,469500,70,Centre,5,17,98.2,105.1,16.53,16.25
+220036,David,Hale,HW,19,73,86,69,66,82,3,12,1,2,27,1,0,0,1, Full Time,news,%H and %D. Also %s,,,347200,57,417800,99,Forward Ruck,20,17,69.6,82.2,3.07,3.31
+220039,Brian,Lake,HW,10,69,65,58,57,72,8,5,9,2,0,0,0,0,0, Full Time,job,Standing Lee. %D and %M,,,324400,40,386500,53,Back,17,14,69.1,79.8,2.16,3.01
+280471,Ben,Stratton,HW,13,63,58,47,56,78,9,8,7,2,0,0,3,0,0, Full Time,job,Curren is his man. %D and %M,,,272700,47,312600,84,Back,24,18,63.8,67.3,2.52,2.10
+250654,Matthew,Spangher,HW,14,60,75,47,51,63,7,4,6,1,0,0,0,1,3, Full Time,news,Started forward. %s from %D. Plus %M. Dempster minding him.,,,132600,,128000,,Forward,27,1,71,84,2.16,3.59
+260955,Cyril,Rioli,HW,8,55,57,40,50,71,7,11,4,1,0,0,2,0,2, Full Time,burger,%O plus %T. Also %M. Geary on him.,,,334500,98,413100,103,Forward Centre,33,10,75.9,89.6,4.66,6.17
+291351,Jack,Gunston,HW,11,55,73,38,48,60,7,5,4,0,0,0,0,2,0, Full Time,injured,Left quad strain in Q2. %s. From %O plus %G,subbed,Late Q3,402100,139,433200,152,Forward,19,16,77.8,83.2,1.94,1.70
+292013,Sam,Grimley,HW,10,51,48,32,45,56,8,2,5,0,4,0,1,1,1, Full Time,news,Roberton minding him. %s from %D. Also %G,,,108500,-74,115900,-77,Ruck,35,2,72.5,74.5,5.46,5.88
+295584,Bradley,Hill,HW,9,48,35,31,39,51,7,5,2,1,0,1,0,1,0, Full Time,news,On late in Q3... %O plus %s,sub,Started as a sub,298600,102,287200,78,Centre,10,17,62.2,60.1,3.90,4.83

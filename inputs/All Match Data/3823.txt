@@ -1,0 +1,48 @@
+Port Adelaide,Power,St Kilda,Saints,R16,8.5.53,17.7.109, Full Time
+Jul 10,2011,3:10,Footy Park,Seven,980059,10311606,5592,124,A shower or two,14,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tPA"></b> rodallegaa</em>: i dont get it&#044; hartlett had tonnes of clangers....<br><em>Khunt1vote</em>: Ah yes&#044; gotta love the Port muppets living in the past&#044; off another club's glory<br><em title="BIG_GAME">big_game</em>: Wow nds n hamish <br><em>thetank</em>: wtf hartlett?<br><em>WEEEagles</em>: we're flyin'high<br><em>ILUVban</em>: Mcevoy in this week was a good choice ;)<br><em>ILUVban</em>: DAl santo smokey for brownlow i reckon<br><em>chinospot</em>: massive dal santo score agreed<br><em>jonnymac</em>: 40sc fisher<br><em>Meister21</em>: Port Adelaide more tradition and success in their left nut then anything you muppets have or could achieve. STFU<br><em>hayes7</em>: down arrow for fisher<br><em>lmach8</em>: saints are going to get a touch up next week<br>
+261396,Robbie,Gray,PA,38,120,125,154,91,124,13,13,5,8,0,1,0,1,1, Full Time,hot,%s from %O and %M with %T,,
+230124,Tom,Logan,PA,25,114,95,148,91,117,17,8,11,3,0,2,0,0,0, Full Time,hot,%P and %M with %T,job,Minding Milne
+261892,Hamish,Hartlett,PA,19,109,155,139,90,120,21,11,7,1,0,5,2,0,0, Full Time,hot,%2 Montagna... %O and %M,,
+210043,Domenic,Cassisi,PA,20,94,103,122,77,107,13,12,5,5,2,3,3,0,0, Full Time,tagged,Tagged by Steven... %P and %M with %T... also %F,,
+210020,Kane,Cornes,PA,15,89,82,116,72,96,13,8,8,3,0,1,1,0,0, Full Time,news,%D and %M plus %T,tagger,Tagging Dal Santo
+250365,Travis,Boak,PA,15,89,62,114,69,91,12,9,5,4,0,3,0,0,1, Full Time,tagged,Tagged by Jones... %D and %M with %T and %s,,
+240385,Matt,Thomas,PA,25,85,58,111,73,95,6,11,8,6,2,4,3,0,0, Full Time,news,%D and %M with %T,,
+290802,Ben,Jacobs,PA,14,79,75,103,62,84,11,8,5,4,0,2,1,0,0, Full Time,job,Chasing Schneider... %P and %T with %M,,
+250063,Danyle,Pearce,PA,18,74,70,95,53,75,11,7,0,5,0,1,0,1,0, Full Time,tagged,Tagged by Dempster... %D and %T,,
+270952,Mitch,Banner,PA,8,66,58,82,55,75,9,10,5,1,0,0,0,0,0, Full Time,garbage,%2 Ray... %O and %M... Q4 junk time was good to him after Ray had been subbed off,,
+230242,Brett,Ebert,PA,8,58,48,72,49,63,9,7,5,0,0,2,0,0,0, Full Time,news,%O and %G on Clarke,,
+230195,Jay,Schulz,PA,11,54,54,68,47,57,9,1,5,0,0,1,1,2,0, Full Time,news,Booted %s from %G and %P on Dawson,,
+261230,Matthew,Lobbe,PA,14,54,66,61,48,58,2,6,1,2,25,0,0,0,0, Full Time,news,%H and %P with %T,,
+290540,Cameron,O'Shea,PA,8,52,47,67,44,63,8,8,3,2,0,1,2,0,0, Full Time,tagger,Tagging Goddard... %P and %M with %T,,
+980059,Chad,Cornes,PA,8,51,58,66,44,56,7,4,6,1,1,1,1,0,1, Full Time,news,%s from %P and %M with %T,tagger,Forward tag on Fisher
+260201,Daniel,Stewart,PA,10,47,47,57,39,46,4,2,2,2,9,1,0,1,1, Full Time,news,Gwilt on him... %s from %P with %M and %T.. also %H,,
+271078,Matthew,Broadbent,PA,10,44,41,54,38,48,6,4,4,0,0,0,0,1,0, Full Time,news,%D and %M,,
+280013,Jackson,Trengove,PA,8,42,57,55,42,57,4,7,7,1,0,0,3,0,0, Full Time,job,Standing Gamble... %M and %O... also %F,sore,Right elbow hyperextended in Q4
+240180,Troy,Chaplin,PA,3,37,63,46,30,42,5,6,2,1,0,0,0,0,0, Full Time,job,Has Riewoldt... %O and %T,,
+220090,David,Rodan,PA,2,36,62,48,25,33,5,2,1,3,0,2,0,0,0, Full Time,news,%P and %T,subbed,Subbed off in Q3 for Hitchcock
+281375,Cameron,Hitchcock,PA,8,34,26,42,27,33,5,0,1,1,0,0,0,2,0, Full Time,news,On in Q3 for Rodan... %s from %P,sub,Started as a sub
+240294,Nick,Salter,PA,2,26,31,35,21,30,5,2,2,1,0,0,1,0,0, Full Time,job,Going with Lynch... %P,,
+220023,Nick,Dal Santo,SK,33,134,174,106,110,148,14,22,4,5,1,3,0,2,0, Full Time,star,Tagged by Kane Cornes... %D with %b by hand... also %M and %T with %s,,
+261323,Ben,McEvoy,SK,45,106,142,121,88,109,2,9,3,9,40,0,1,0,0, Full Time,hot,%H and %T with %D and %M,,
+230084,Brendon,Goddard,SK,25,105,108,68,89,117,16,11,9,1,0,1,1,1,0, Full Time,garbage,Tagged by O'Shea... %P and %M plus %s... lots of stats in late garbage time,mrp,An off the ball incident with O'Shea in Q3 will be looked at
+270912,Jack,Steven,SK,21,99,109,57,78,106,17,9,5,2,0,0,0,1,1, Full Time,news,%P and %T with %M and %s,tagger,Tagging Cassisi
+260581,Ryan,Gamble,SK,27,96,105,76,81,103,11,6,5,4,0,1,2,4,1, Full Time,x-factor,%s from %D and %T with %M on Trengove,,
+210001,Nick,Riewoldt,SK,22,91,104,76,80,94,9,4,6,3,2,4,2,4,2, Full Time,news,First goal... %s from %P and %M on Chaplin,,
+220098,Adam,Schneider,SK,31,90,85,66,74,104,14,6,6,6,1,1,5,1,1, Full Time,news,%P and %M with %T on Jacobs,,
+261743,Clinton,Jones,SK,25,83,85,81,60,90,7,13,1,9,0,0,1,0,0, Full Time,tagger,Tagging Boak... %O and %T,,
+200108,Stephen,Milne,SK,22,81,95,59,65,87,12,2,4,5,0,0,3,3,0, Full Time,news,%s from %O and %T on Logan,,
+220075,Leigh,Montagna,SK,24,78,95,65,67,93,9,10,6,4,0,0,3,1,0, Full Time,news,%2 Hartlett... %O and %T plus %M and %s,,
+250703,James,Gwilt,SK,13,74,99,31,61,84,17,4,6,1,0,2,3,0,0, Full Time,job,Has Daniel Stewart... %P with %k by foot... also %M and %F,,
+220034,Jason,Gram,SK,8,68,67,38,57,81,11,13,3,0,0,0,0,0,0, Full Time,garbage,%P and %M... saved his fantasy day with some garbage time production,,
+240701,Brett,Peake,SK,8,66,80,37,52,72,12,7,3,2,0,2,1,0,0, Full Time,news,%D and %M plus %T,,
+230035,Raphael,Clarke,SK,13,65,63,45,53,72,10,6,6,2,0,0,1,0,0, Full Time,job,Minding Ebert... %D and %M plus %T,,
+250134,Sam,Gilbert,SK,9,64,70,53,51,69,7,9,4,3,0,1,0,0,0, Full Time,news,Loose in defence... %O and %M with %T,,
+230243,Sean,Dempster,SK,10,55,51,52,42,57,5,6,4,4,0,0,0,0,0, Full Time,tagger,Tagging Pearce... %D and %T,sore,Left arm knock in Q2
+270938,Tom T.,Lynch,SK,10,54,59,51,43,58,5,6,4,4,0,1,1,0,1, Full Time,news,%s from %P and %M on Salter.. also %T,,
+250066,Dean,Polo,SK,4,48,60,40,41,58,5,9,3,2,0,0,1,0,1, Full Time,news,%O and %M with %T and %s,,
+240062,Farren,Ray,SK,3,36,61,25,27,39,5,6,0,2,0,1,0,0,0, Full Time,news,%2 Banner... %O and %T,subbed,Subbed off in Q3 for Armitage
+240552,Zac,Dawson,SK,3,34,45,27,32,41,4,4,5,0,2,0,1,0,0, Full Time,job,Standing Schulz... %D and %M,,
+240708,Sam,Fisher,SK,4,33,36,21,29,43,6,4,2,2,1,1,3,0,0, Full Time,tagged,Forward tag on him by Chad Cornes... %O and %M... also %F,,
+250340,David,Armitage,SK,2,33,23,31,26,39,3,6,1,3,0,0,1,0,0, Full Time,mrp,On in Q3 for Ray... %D and %T... a hit on Thomas in Q4 will be scrutinised,sub,Started as a sub

@@ -1,0 +1,48 @@
+Geelong,Cats,Gold Coast,Suns,R10,18.15.123,10.11.71, Full Time
+Jun 01,2013,7.40,Kardinia,Seven,220075,10391005,geel-v-gcfc,0,Isolated showers,18,,
+
+<em>Ozbenno</em>: I spent 600 for 89 points<br><em>matthius</em>: back to back sc tons for blicavs.. interesting with leuy still in my team. might leave him till he returns<br><em>bigpens</em>: why do people want to give stevie j flowers?<br><em>rupink06</em>: lol at all the people that didn't trust gaz<br><em>demons123</em>: flower you stevie j <br><em>W.Mantooth</em>: flower you stevie johnson flower you.<br><em>Moona</em>: When GAJ retires - straight to Legend Status<br><em>runners47</em>: Agree too with cusch1 - happy with GAJ as my C!<br><em>devize</em>: blitz 106 sc<br><em>Wends</em>: I concur cusch.<br><em>gdshifty</em>: GAJ&#044; please forgive me for taking the C off you. Im forever regretful<br><em>old_shepp</em>: Blicavs No.1 ruck at the Cattery now<br>
+281065,Mitch,Duncan,GE,38,138,135,181,105,141,21,9,8,7,0,2,1,1,0, Full Time,cherry,Often loose in defence... %D and %T with %M and %s... huge numbers in Q4 junk time,,,424600,98,372100,77,Centre,22
+220007,Jimmy,Bartel,GE,28,119,119,147,98,130,19,11,5,2,0,1,1,3,1, Full Time,star,%D and %M plus %s,switch,Started in a BP on Matera but switched forward in Q4,482200,77,554500,91,Forward Centre,3
+220058,James,Kelly,GE,19,98,86,130,69,99,19,6,3,5,0,0,0,0,0, Full Time,news,%P including %k by foot... also %T and %M,,,485700,118,505300,129,Centre,9
+200034,Joel,Corey,GE,19,95,101,120,76,103,11,13,6,4,1,1,0,0,0, Full Time,news,%O and %T with %M,job,In defence with Rischitelli manning up,381100,72,382400,76,Centre,11
+220054,Steve,Johnson,GE,19,94,86,125,71,98,17,5,6,4,0,0,1,0,2, Full Time,news,%2 Ablett jnr... %O with %k by foot... also %M and %T,,,573100,117,604100,90,Forward Centre,20
+230248,Andrew,Mackie,GE,15,94,105,122,75,99,13,8,9,3,0,0,0,0,0, Full Time,news,%D and %M with %T,,,384800,56,399000,52,Back,4
+296733,Mark,Blicavs,GE,22,94,107,113,77,101,7,13,2,5,13,1,0,1,1, Full Time,cash,%H and %P with %T,garbage,A lot of numbers in Q4 junk time,242500,22,271300,19,Centre Ruck,46
+200035,Corey,Enright,GE,15,85,97,113,64,90,15,6,5,4,0,0,1,0,0, Full Time,news,%D and %T with %M,,,462000,93,473900,100,Back,44
+250321,Joel,Selwood,GE,15,83,73,107,66,91,9,11,5,5,1,1,1,0,0, Full Time,news,%O and %M with %T,,,447800,142,521600,141,Centre,14
+210059,Josh,Hunt,GE,19,80,89,101,65,84,9,8,6,3,0,1,0,1,0, Full Time,job,On Brown... %O and %T with %M,,,361500,194,414800,203,Back,8
+230214,Mathew,Stokes,GE,14,79,86,94,68,94,11,16,4,0,0,1,0,0,1, Full Time,news,%s from %D and %M on Harbrow,,,463700,94,495500,92,Forward,27
+280959,Nathan,Vardy,GE,18,71,73,82,64,74,5,5,4,1,5,1,0,4,0, Full Time,x-factor,%s from %D and %M... also %H,,,209200,,239700,,Ruck,30
+260261,Trent,West,GE,12,66,75,82,54,67,10,2,4,1,10,0,0,1,0, Full Time,news,%H and %P plus %M and %s,,,296100,69,367100,71,Ruck,12
+261497,Harry,Taylor,GE,8,63,84,79,52,67,9,7,5,1,1,2,0,0,0, Full Time,job,Has Day... %P and %M,,,406000,70,497000,71,Back,7
+290756,George,Burbury,GE,15,59,67,74,49,67,4,9,3,4,0,0,1,1,1, Full Time,cash,%s from %P and %T... also %M,,,108500,,115900,,Forward,43
+280990,Steven,Motlop,GE,10,58,65,72,45,59,9,3,1,2,0,0,0,2,2, Full Time,news,%s from %O and %T on Wilkinson,,,390400,96,406600,60,Forward,32
+261510,Tom,Hawkins,GE,10,52,71,64,47,58,5,4,5,1,0,0,1,2,1, Full Time,news,Booted %s from %G and %D on Thompson,,,318100,37,381500,46,Forward,26
+290550,Cameron,Guthrie,GE,10,51,50,64,40,51,5,3,2,3,0,0,0,2,0, Full Time,news,%D and %T,,,253600,49,292600,59,Back,29
+280918,Allen,Christensen,GE,8,49,54,58,44,58,5,10,4,0,0,1,0,0,1, Full Time,news,On in Q3 for Brown... %s from %O,sub,Started as a sub,401600,70,467700,117,Forward Centre,28
+230125,Tom,Lonergan,GE,3,38,44,48,31,42,3,6,3,2,0,0,0,0,0, Full Time,job,Standing Lynch... %M and %O with %T,,,208600,90,277900,98,Back,13
+290622,Mitchell W.,Brown,GE,2,35,29,45,27,37,6,3,2,1,0,0,0,0,1, Full Time,news,%s from %P and %M,subbed,Subbed off in Q3 for Christensen,209500,67,233600,70,Forward,1
+290576,Jordan,Schroder,GE,1,17,18,21,13,18,2,3,0,1,0,1,0,0,0, Full Time,news,%P on Shaw,,,155400,-4,181700,-8,Centre,15
+220001,Gary,Ablett jnr,GC,34,140,129,103,110,149,18,16,5,6,0,1,0,2,2, Full Time,gun,%2 Johnson... %P and %T plus %M and %s,,,600500,109,692700,157,Centre,9
+290627,Dion,Prestia,GC,50,136,109,114,97,138,17,12,5,12,0,1,1,0,0, Full Time,hot,%D and %T with %M,,,452000,85,492800,74,Centre,10
+250249,Danny,Stanley,GC,18,87,100,59,64,93,13,12,1,5,0,1,0,0,0, Full Time,heart,%P and %T... ankle knock in Q2,,,419600,106,425200,99,Back,25
+290527,Trent,McKenzie,GC,15,85,88,47,64,91,17,4,5,4,0,0,2,0,1, Full Time,news,%O and %M plus %T... also %s,,,381900,88,417000,59,Back,18
+290817,Brandon,Matera,GC,14,84,73,51,67,87,15,3,8,2,0,1,1,0,3, Full Time,injured,%s from %O and %M... also %T... knock to the voicebox in Q1... left ankle knock in Q2,subbed,Subbed off in Q3 for Horsley,298400,29,277900,26,Forward,32
+281025,Luke,Russell,GC,16,82,89,55,66,87,12,8,5,2,0,1,0,1,0, Full Time,news,First goal... %s from %O and %M,,,262700,60,226700,54,Back,8
+294613,Jaeger,O'Meara,GC,16,82,72,67,72,97,8,15,5,2,1,1,1,1,0, Full Time,heart,%P and %M with %T and %s... sore right ribs after a knock in Q2,,,399600,70,425600,74,Centre,1
+290815,Thomas,Nicholls,GC,26,76,90,85,64,84,2,9,1,7,27,0,2,0,0, Full Time,news,%H and %P with %T,,,108500,,115900,,Ruck,22
+240254,Jarrod,Harbrow,GC,18,68,62,44,49,69,11,5,1,4,0,0,0,1,0, Full Time,news,%O and %T,job,Chasing Stokes,383200,97,432900,112,Back,5
+240712,Michael,Rischitelli,GC,13,58,59,35,49,68,9,8,2,1,1,0,1,1,1, Full Time,news,Starting forward on Corey... %s from %D and %M,,,324100,49,350500,57,Centre,35
+293813,Thomas,Lynch,GC,10,58,92,44,51,67,7,7,5,1,0,0,1,1,1, Full Time,news,%s from %D and %M on Lonergan,,,322400,58,346200,79,Forward,19
+290832,David,Swallow,GC,9,56,62,50,42,61,6,7,2,5,1,0,1,0,0, Full Time,news,%O and %T with %M,,,335200,112,401500,106,Centre,24
+296735,Aaron,Hall,GC,8,54,50,37,44,62,8,7,3,2,0,0,1,0,2, Full Time,news,%B among %P with %T and %M... also %s,,,298200,47,315800,36,Forward,33
+290790,Matthew,Shaw,GC,8,52,60,37,45,63,7,9,4,1,0,0,1,0,0, Full Time,job,Playing HBF running off Schroder... %D with %b by hand... also %M,,,363600,113,384200,92,Back,26
+291304,Daniel,Gorringe,GC,5,52,63,36,43,55,7,4,3,1,10,0,0,0,0, Full Time,news,%H and %P with %M,,,129800,,149800,,Ruck,15
+220013,Campbell,Brown,GC,15,51,78,32,44,54,7,3,2,0,0,0,0,3,0, Full Time,news,%s from %D and %M on Josh Hunt,sore,Knee twist in Q3,289800,46,311100,33,Forward,30
+250146,Thomas,Murphy,GC,8,50,47,33,33,45,9,0,2,4,0,1,0,0,0, Full Time,news,%P and %T,,,289400,72,356600,79,Back,29
+281075,Rory,Thompson,GC,4,50,79,44,39,54,5,7,3,3,0,0,0,0,0, Full Time,news,%D and %M plus %T,tomahawk,Standing Hawkins,297000,74,366100,88,Back,16
+290703,Joel,Wilkinson,GC,7,44,73,37,38,57,4,12,1,2,0,0,1,0,0, Full Time,job,Has Motlop... %D and %T,sore,Ankle knock in Q2,204100,45,233500,33,Back,38
+296940,Tim,Sumner,GC,3,41,55,22,31,42,8,2,3,1,0,0,0,0,0, Full Time,rookie,First game... %O,,,102700,,109500,,Forward,39
+281279,Kyal,Horsley,GC,2,34,30,28,24,36,4,5,0,3,0,0,0,0,0, Full Time,news,On in Q3 for Matera... %O,sub,Started as a sub,385600,,399200,,Centre,42
+291753,Sam,Day,GC,1,14,29,10,12,15,2,1,2,0,0,0,0,0,0, Full Time,news,%D on Taylor,,,271000,86,351700,105,Forward,12

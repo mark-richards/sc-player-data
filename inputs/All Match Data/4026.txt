@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Adelaide,Crows,R3,21.14.140,12.12.84, Full Time
+Apr 15,2012,3:15,MCG,Seven,270742,10340308,5015,0,,,,
+
+<em style='margin-bottom:-2px'><b class="ticon tME"></b> TheHanger</em>: @ GoldDigger&#044; than how come Watson got it last night&#044; not Ablett?<br><em>mpollock</em>: 98 to Thompson ... rigged again i reckon!!  He was smashed!!<br><em>MarcMurphy</em>: SaintsRGod&#044; you can't use players like Rohan&#044; Martin and Clark as excuses for a poor score.. <br><em>GoldDigger</em>: ... unless you got sauce ...<br><em>GoldDigger</em>: It's fantasy - if Hale isn't the best back up ruck on that&#044; I dunno who is ...<br><em>Joel20</em>: Heart for Roughy<br><em>piesvendet</em>: @lachybee thinking same thing<br><em>SaintsRGod</em>: 1999 with a 2nd half from bartel to come&#044; also had fyfe&#044; gary rohan&#044; d.martin&#044;mitch clark and porpz :)<br><em>adz11</em>: 2263 for me :/<br><em>GoldDigger</em>: Gice Ablett the lot!!!<br><em>Dusty4</em>: Monty the rock looks to similar to the pumpkin. need to change that<br><em>GoldDigger</em>: Agree on Hale&#044; m0nty!<br>
+250715,Josh,Gibson,HW,42,149,129,197,116,150,21,8,15,6,0,1,0,0,0, Full Time,rock,%M and %P with %T,job,On Walker
+261386,Brendan,Whitecross,HW,37,122,99,158,100,129,16,9,12,4,0,1,1,1,0, Full Time,hot,%D and %M plus %s,,
+240399,Lance,Franklin,HW,32,118,118,151,99,131,15,9,8,5,0,0,3,3,2, Full Time,gun,First goal... %s from %P and %G on Talia,,
+240357,Jarryd,Roughead,HW,32,110,121,142,88,118,10,12,6,8,9,2,2,0,1, Full Time,hot,Ruck tandem with Hale with no other rucks in the team... %H and %P,,
+220036,David,Hale,HW,23,104,117,123,90,106,8,7,5,3,23,2,0,2,2, Full Time,star,Ruck tandem with Roughead with no other rucks in the team... %s from %D with %H,sore,Dislocated finger in Q3
+200060,Brent,Guerra,HW,20,102,105,132,82,112,18,9,8,2,0,0,1,0,1, Full Time,hot,%P and %M plus %s,job,Zoning off Petrenko
+270732,Matt,Suckling,HW,26,102,100,128,86,106,14,6,10,1,1,1,0,2,0, Full Time,hot,%P and %s,,
+280737,Liam,Shiels,HW,31,98,95,128,70,97,10,9,2,9,1,1,0,1,0, Full Time,news,%D and %T,,
+220073,Sam,Mitchell,HW,26,95,83,123,70,97,11,9,3,7,0,0,0,1,1, Full Time,news,%2 Sloane... %P and %T,,
+280471,Ben,Stratton,HW,20,94,81,122,76,99,14,7,10,2,0,0,0,0,0, Full Time,news,%D and %M,job,Following Lynch
+280744,Luke,Breust,HW,26,92,101,116,75,95,11,5,5,4,0,1,1,3,2, Full Time,injured,%s from %O and %M with %T... copped Martin's knee to his head in Q4 in a marking contest running with the flight,,
+281301,Ryan,Schoenmakers,HW,20,89,94,115,77,102,12,10,10,2,0,1,2,0,0, Full Time,news,%D and %M,job,Has Tippett
+250089,Jordan,Lewis,HW,15,86,121,103,74,99,12,12,3,1,2,1,1,2,1, Full Time,news,%O and %s,tagger,Tagging Thompson
+240302,Grant,Birchall,HW,13,81,98,104,67,87,12,7,9,1,0,0,0,0,0, Full Time,injured,%O with %b by hand plus %M... knee ligament issue in Q3,subbed,Subbed off at 3QT for Savage
+250055,Clinton,Young,HW,13,75,61,99,57,75,12,4,6,3,0,1,0,0,0, Full Time,news,%2 Mackay... %O and %M,in,Late replacement for Broc McCauley
+230197,Brad,Sewell,HW,19,74,80,97,56,78,6,10,3,7,0,2,1,0,0, Full Time,news,%P and %T,,
+210092,Michael,Osborne,HW,19,71,75,86,62,78,7,8,6,1,5,0,0,1,1, Full Time,news,%s from %P and %M on Reilly,,
+210012,Shaun,Burgoyne,HW,15,65,61,85,53,69,10,3,6,2,0,0,1,1,0, Full Time,news,%O and %s,,
+270215,Kyle,Cheney,HW,14,65,86,80,52,72,7,10,2,3,0,0,0,1,0, Full Time,job,Minding Callinan... %D and %s,,
+260955,Cyril,Rioli,HW,12,59,54,74,50,63,5,5,4,3,0,1,1,2,0, Full Time,sore,%s from %P and %M with %T on Doughty... left knee tweaked late in Q2 but played on,,
+291351,Jack,Gunston,HW,10,44,55,54,40,51,4,6,4,1,0,1,1,1,0, Full Time,news,%P and %M on Rutten,,
+280858,Shane,Savage,HW,3,38,23,51,28,37,4,2,3,3,0,0,0,0,1, Full Time,news,On in Q4 for Birchall,sub,Started as a sub
+270742,Kurt,Tippett,AD,26,98,128,81,88,108,10,6,7,3,9,2,3,3,3, Full Time,news,%s from %D and %G on Schoenmakers,,
+270811,Sam,Jacobs,AD,20,93,104,70,81,100,10,9,5,1,25,1,0,0,0, Full Time,news,%H and %D with %M,,
+270917,Patrick,Dangerfield,AD,19,91,99,65,72,105,13,14,3,5,0,1,2,0,0, Full Time,news,%D with %k by foot,,
+250118,Nathan,van Berlo,AD,9,85,69,46,65,91,16,8,3,3,0,2,1,0,1, Full Time,news,Very quiet in Q1... %O,,
+261857,Ian,Callinan,AD,19,74,76,40,60,81,12,8,0,1,0,0,0,3,0, Full Time,news,%P on Cheney,,
+250362,David,Mackay,AD,13,68,72,58,55,78,7,12,3,4,0,1,1,0,0, Full Time,news,%2 Young... %P,,
+261138,Jared,Petrenko,AD,15,63,53,55,43,57,8,1,4,6,0,1,0,0,0, Full Time,news,%O and %T on Guerra,,
+220086,Brent,Reilly,AD,10,62,71,44,47,63,9,4,3,3,0,0,0,1,0, Full Time,job,On Osborne... %D and %T,,
+210016,Scott,Thompson,AD,8,57,90,41,52,81,7,17,1,2,0,0,3,0,0, Full Time,tagged,Tagged by Lewis... %B among %O... also %F,,
+270963,Rory,Sloane,AD,8,56,76,40,42,60,8,7,2,3,0,0,0,0,0, Full Time,news,%2 Mitchell,,
+230174,Jason,Porplyzia,AD,14,55,67,43,40,54,7,4,1,4,0,1,0,1,0, Full Time,news,%s from %P and %T,,
+210056,Graham,Johncock,AD,8,54,57,25,42,60,12,3,3,2,0,1,2,0,0, Full Time,news,%O,,
+200092,Michael,Doughty,AD,9,46,48,41,38,54,4,8,1,3,0,0,1,1,0, Full Time,job,Chasing Rioli... %D,,
+291748,Brodie,Smith,AD,7,46,43,23,37,54,9,6,2,1,0,0,1,0,0, Full Time,news,%P with %k by foot,,
+270938,Tom T.,Lynch,AD,10,45,54,33,35,42,6,0,2,2,0,1,0,2,0, Full Time,news,%s from %P on Stratton... also %T,subbed,Subbed off in Q3 for Kerridge
+280934,Daniel,Talia,AD,3,43,52,35,32,45,5,6,1,3,0,1,0,0,0, Full Time,job,Standing Franklin... %D,,
+261142,Bernie,Vince,AD,9,42,32,22,36,50,8,3,2,1,0,0,2,1,2, Full Time,news,%P and %s,,
+280281,Brodie,Martin,AD,3,40,49,26,32,45,6,6,2,1,0,0,0,0,0, Full Time,news,%D and %M,,
+270296,Andy,Otten,AD,2,30,47,19,23,30,5,2,2,1,0,1,0,0,0, Full Time,job,Minding Breust... %P,,
+220093,Ben,Rutten,AD,1,29,31,17,22,28,5,2,1,1,0,2,0,0,1, Full Time,job,Has Gunston... %P,,
+280506,Taylor,Walker,AD,1,22,24,16,19,23,3,1,3,0,0,0,0,0,2, Full Time,news,Kicked %s from %P and %G on Gibson,,
+291806,Sam,Kerridge,AD,0,6,5,6,6,9,0,3,0,0,0,0,0,0,0, Full Time,in,Late replacement for Ricky Henderson... on in Q3 for Lynch,sub,Started as a sub

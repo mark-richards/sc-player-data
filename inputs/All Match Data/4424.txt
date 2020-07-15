@@ -1,0 +1,48 @@
+Gold Coast,Suns,Brisbane,Lions,R3,13.14.92,13.16.94, Full Time
+Apr 13,2013,7.40,Gold Coast,Seven,270512,10390306,5015,0,Rain at times,24,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>aceballa</em>: where is sam mayes? he did play didnt he?<br><em>JobeyOne</em>: bloody fanfooty is shower atm<br><em>jimmyhird5</em>: @windigo moloney did but i dont know who this moley guy/girl is? plz tell us your lifetime stories that you have shared<br><em>Slashers</em>: What's this "too many connections" crap?<br><em>glam77</em>: Colin getting wood<br><em>matthius</em>: o'meara score is an indication of how crap sc is? kid put his body on the line&#044; did some great things<br><em>colin wood</em>: Scored 2178 week one and 2297 last week. Good for u pokerface<br><em>jimmyhird5</em>: flower dixon was killing it my new recruit finishes with 75<br><em>farthers</em>: mayes finishes on 95<br><em>Breezey</em>: Lions win by 2<br><em>Bluffie</em>: game over! bris win!<br><em>Bayno82</em>: Lions just get home<br>
+291594,Harley,Bennell,GC,27,116,119,146,92,123,20,7,4,3,1,0,1,3,2, Full Time,hot,Allowed to run free... %D and %T with %M and %s,,,438200,145,521900,180,Midfielder,11
+230015,Jared,Brennan,GC,21,107,146,138,82,118,17,13,4,5,0,0,1,0,1, Full Time,hot,Playing a wing... %P and %M plus %s,,,375500,135,418000,158,Forward,3
+220001,Gary,Ablett jnr,GC,30,105,112,138,74,108,15,12,0,9,0,3,1,0,0, Full Time,magnet,%P and %T,rain,Tagged by Raines,642500,155,740500,157,Midfielder,9
+261756,Greg,Broughton,GC,21,94,95,121,74,99,14,8,5,4,0,2,1,1,0, Full Time,news,%O and %M plus %s,,,408000,,441900,,Back,36
+296735,Aaron,Hall,GC,19,82,90,106,61,80,13,4,3,4,0,2,0,1,2, Full Time,news,%D and %T on Adcock,,,320700,55,322400,81,Forward,33
+280722,Zac,Smith,GC,19,80,71,96,67,83,11,4,1,2,28,2,1,0,1, Full Time,news,%H and %D,,,300700,94,374900,112,Ruck,2
+240254,Jarrod,Harbrow,GC,14,79,66,101,63,91,12,12,2,4,0,2,2,0,1, Full Time,news,%P and %T with %M and %s... also %F,,,321400,26,414500,67,Back,5
+290832,David,Swallow,GC,19,77,55,103,53,76,12,5,2,6,0,0,0,0,1, Full Time,news,%D and %s,,,380400,75,418200,36,Midfielder,24
+290817,Brandon,Matera,GC,15,76,49,96,63,77,13,1,7,0,0,0,0,2,2, Full Time,news,%s from %P and %M on McGrath,,,354000,74,357800,86,Forward,32
+290811,Jack,Hutchins,GC,21,73,87,103,50,72,11,2,3,8,0,1,2,0,0, Full Time,job,Rockliff and McKeever rotating through him... %P and %T,,,108500,,115900,,Back,34
+292512,Karmichael,Hunt,GC,20,73,85,98,49,72,6,8,1,9,0,0,0,0,0, Full Time,tagger,Tagging Rich... %P and %T,,,273600,93,310900,102,Midfielder,7
+290703,Joel,Wilkinson,GC,15,70,90,94,49,66,9,4,3,6,0,2,0,0,0, Full Time,nigeria,%O and %T,tagger,Tagging Zorko,185500,24,171200,-21,Back,38
+280711,Charlie,Dixon,GC,11,66,77,82,54,71,6,8,2,4,11,2,1,0,0, Full Time,injured,%H and %P with %T and %M... left ankle iced up at 3QT,subbed,Subbed off at 3QT for Russell,304800,-30,393300,-22,Forward,23
+281075,Rory,Thompson,GC,10,57,78,75,46,58,7,2,5,3,1,1,1,1,0, Full Time,job,Standing Brown... %O and %T with %M,,,221600,43,283400,45,Back,16
+294613,Jaeger,O'Meara,GC,7,54,40,68,43,57,9,6,3,1,0,2,0,0,0, Full Time,news,Rotating forward on Yeo... %P and %M,,,108500,-113,115900,-124,Midfielder ,1
+290790,Matthew,Shaw,GC,8,51,54,66,42,58,11,4,4,0,0,0,1,0,1, Full Time,job,On a HBF on Mayes... %P and %s,,,306400,69,317600,68,Back ,26
+291753,Sam,Day,GC,19,51,49,66,37,51,2,6,1,6,0,0,0,1,0, Full Time,news,%P and %T on Patfull,,,201600,20,226900,45,Ruck,12
+281085,Steven,May,GC,10,48,65,60,40,51,6,3,2,2,0,1,1,2,0, Full Time,news,%s from %P on Merrett,,,287900,98,343100,84,Back,17
+240712,Michael,Rischitelli,GC,12,46,65,53,39,54,5,10,0,1,0,1,0,1,0, Full Time,news,%D,,,322000,41,358900,30,Midfielder,35
+291942,Jackson,Allen,GC,7,43,44,60,27,39,6,1,1,5,0,0,0,0,0, Full Time,job,Chasing Green... %P and %T,,,225700,,276100,,Midfielder,31
+281025,Luke,Russell,GC,8,33,34,41,27,34,6,1,2,0,0,0,0,1,1, Full Time,news,On after 3QT for Dixon,sub,Started as a sub,349200,99,324500,86,Forward,8
+250716,Matthew,Warnock,GC,1,18,48,24,15,22,3,2,1,1,1,0,1,0,0, Full Time,job,On the resting ruck which is mostly Martin,,,236500,35,352900,73,Back,14
+270512,Pearce,Hanley,BL,30,108,141,70,84,117,18,8,6,5,0,0,2,1,0, Full Time,x-factor,Running free... %P and %T with %M,,,425300,37,485200,42,Back,11
+200007,Jonathan,Brown,BL,31,106,129,74,94,115,14,5,8,1,0,1,2,5,1, Full Time,medal,First goal... %s from %P and %G on Thompson... won the Marcus Ashcroft medal,,,409600,164,418100,172,Forward,16
+281373,Jack,Redden,BL,31,104,109,86,77,114,13,13,3,9,0,0,2,0,0, Full Time,hot,%P and %T with %M... also %F,mrp,A shoulder to the face of Ablett in Q4 will attract MRP attention,531100,152,550100,176,Midfielder,30
+293603,Sam,Mayes,BL,20,95,72,64,76,99,15,6,10,2,0,0,0,0,0, Full Time,rookie,FIrst game... %O and %M with %T,,,152200,,164500,,Forward,32
+270919,Tom,Rockliff,BL,26,93,88,68,70,97,13,9,2,6,0,2,1,1,1, Full Time,news,Started forward on Hutchins... %O and %T with %M,,,481700,90,520500,74,Midfielder,38
+271072,Daniel,Rich,BL,13,87,118,43,64,94,17,10,1,3,0,0,0,0,1, Full Time,tagged,Tagged by Hunt... %P,,,439000,163,485800,147,Midfielder,10
+230151,Brent,Moloney,BL,15,82,116,63,63,90,11,10,4,5,0,0,1,0,0, Full Time,news,%B among %P with %T,,,309800,-16,362400,18,Midfielder,3
+281329,Rohan,Bewick,BL,19,79,84,60,61,82,10,8,3,4,0,1,0,1,1, Full Time,news,%s from %D and %M with %T,,,293300,65,291600,51,Forward,8
+250335,Matthew,Leuenberger,BL,27,73,93,61,66,84,7,4,1,4,30,1,4,1,0, Full Time,news,%H and %P with %T... also %F,,,233600,,301100,,Ruck,23
+290748,Josh,Green,BL,16,73,80,59,58,79,9,5,3,5,0,0,2,2,1, Full Time,news,%s from %D on Allen... also %T and %M,,,259700,32,320600,65,Forward,6
+240087,Jed,Adcock,BL,16,71,90,57,49,66,10,2,4,6,0,1,0,0,0, Full Time,job,Minding Hall... %P and %M,,,418000,135,482300,162,Back,7
+240013,Andrew,Raines,BL,13,67,66,42,50,75,11,10,0,4,0,1,1,0,0, Full Time,news,%D and %T,tagger,Tagging Ablett jnr,312900,,307500,,Midfielder,29
+261224,Dayne,Zorko,BL,7,51,67,28,43,66,10,8,1,3,0,2,4,0,0, Full Time,tagged,Tagged by Wilkinson... %O... also %F,,,487800,157,535000,171,Midfielder,15
+230147,Daniel,Merrett,BL,4,50,77,32,38,54,8,6,2,2,0,0,0,0,0, Full Time,job,May is his man... %O and %M,,,351000,54,412200,57,Back,21
+292128,Elliot,Yeo,BL,4,47,42,29,39,54,8,5,4,1,0,0,1,0,0, Full Time,job,Has the resting midfielder which is mostly O'Meara... %D and %M,,,262800,45,310300,51,Back,26
+290110,Mitch,Golby,BL,7,45,52,17,37,54,10,6,2,0,0,0,1,0,0, Full Time,news,%O and %M,,,379700,81,406600,82,Back,41
+280763,Stefan,Martin,BL,8,44,46,37,36,44,4,5,1,2,2,3,0,1,0, Full Time,news,%s from %P on Warnock,subbed,Subbed off in Q3 for Polkinghorne,356400,101,377700,103,Ruck,12
+230170,Joel,Patfull,BL,3,40,58,32,31,42,5,4,3,2,0,0,0,0,0, Full Time,job,Standing Day... %O and %T with %M,,,260400,67,340700,72,Back,24
+210013,Ashley,McGrath,BL,2,39,54,18,29,42,8,4,1,1,0,0,0,0,0, Full Time,job,Chasing Matera... %O,,,344800,150,387000,165,Forward,9
+260975,James,Polkinghorne,BL,8,38,33,23,32,39,6,2,3,0,0,1,0,1,0, Full Time,news,On in Q3 for Martin,sub,Started as a sub,293900,88,307600,100,Forward,31
+292508,Niall,McKeever,BL,2,36,33,25,29,39,5,4,2,1,3,0,0,0,0, Full Time,news,Donuts in Q1... %s from %P and %M rotating forward on Hutchins and bench,,,223300,,283600,,Back,40
+290738,Jared,Polec,BL,2,31,32,23,23,33,4,5,0,2,0,1,0,0,0, Full Time,sore,Started on a wing... %D and %T... left knee twisted in a marking contest in Q4,,,278600,,287600,,Midfielder,4

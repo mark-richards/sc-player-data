@@ -1,0 +1,48 @@
+Fremantle,Dockers,Collingwood,Magpies,R7,15.10.100,10.13.73, Full Time
+May 11,2013,7.40,Subiaco,Seven,281105,10390706,fre-v-coll,0,Showers clearing,20,,
+
+<em>9robbo9</em>: whats your issue eagles<br><em>Bort</em>: macca gone before all of them<br><em>Eagles:(</em>: @ 9robbo9 = Pillowbiter<br><em>NDiddy</em>: how did dave get 95 when he was on 91 at 3/4 time - sick!<br><em>herbfitta</em>: seedsman looked to finally score well with a 99 DT&#044; nup&#044; 64 sc<br><em>Ozbenno</em>: This is bullspit<br><em>gambler</em>: Gun for Sidebum<br><em>The captai</em>: pendles and swan with same sc score&#044; that's shower<br><em>lift_spud</em>: powerweak pies. utter shower on a plate you gutless cows served up tonight.<br><em>herbfitta</em>: yeah that's a good point but you can't underestimate the effect of premiership players such as ball&#044; beams&#044; young&#044; <br><em>rider</em>: WTF Dwyer I just tradedvu<br><em>J.Gabor</em>: Spud for scaledup Monty <br>
+250268,Garrick,Ibbotson,FR,31,136,142,179,105,138,21,8,12,5,0,1,0,0,0, Full Time,cherry,Loose in defence... %D and %M with %T,,,358200,22,388500,56,Back,5
+281007,Michael,Walters,FR,31,120,129,150,96,116,14,5,6,5,0,4,0,4,2, Full Time,star,%s from %O on Macaffer... also %T and %M,,,396700,92,431700,90,Forward,10
+240139,Paul,Duffield,FR,19,109,137,140,85,115,22,8,7,1,0,1,0,0,1, Full Time,hot,%K among %D with %M and %s,job,Running off Dwyer,416500,80,457500,109,Back,41
+292026,Michael,Barlow,FR,19,100,108,126,77,108,15,13,3,4,3,1,0,0,0, Full Time,magnet,%O and %M,,,477200,91,494400,126,Centre,21
+240052,David,Mundy,FR,27,92,103,119,71,97,11,9,4,6,1,1,1,1,0, Full Time,news,%P and %T with %M and %s,,,441700,110,475200,107,Centre,16
+271433,Alex,Silvagni,FR,27,86,60,113,71,90,7,6,8,6,0,2,2,1,3, Full Time,news,%s from %P and %M playing forward on Reid... also %T,,,210400,,256800,,Back,36
+280386,Clancee,Pearce,FR,19,86,80,108,71,93,13,8,7,1,0,0,0,1,0, Full Time,news,%P and %M plus %s,,,385400,56,438300,72,Centre,46
+280416,Chris,Mayne,FR,21,83,97,104,68,85,5,8,6,5,1,1,0,2,0, Full Time,news,First goal... %s from %P and %M on Reid,,,390800,81,426900,112,Forward,23
+200045,Luke,McPharlin,FR,19,81,61,108,72,99,15,7,10,1,0,0,4,0,0, Full Time,news,%P and %M... %F as well,job,Following Cloke,319900,23,355300,19,Back,18
+270908,Nick,Suban,FR,19,78,78,104,54,78,12,6,2,6,0,0,0,0,0, Full Time,news,%O including %K with %T,,,272700,-6,282700,-9,Back,8
+280726,Tendai,Mzungu,FR,15,72,93,92,58,78,10,7,4,3,0,1,1,1,0, Full Time,news,%2 Sidebottom... %O and %M plus %s,,,341900,80,357900,67,Centre,13
+290733,Cameron,Sutcliffe,FR,18,71,79,89,61,81,12,7,6,0,0,0,1,1,0, Full Time,news,%P and %M plus %s,in,Late replacement for Stephen Hill,231700,63,218400,61,Centre,33
+230107,Michael,Johnson,FR,9,66,64,89,50,69,12,3,5,3,0,0,1,0,0, Full Time,news,%O,,,359900,57,412300,65,Back,37
+250063,Danyle,Pearce,FR,8,60,63,76,49,68,9,8,3,2,0,1,1,0,2, Full Time,news,%O and %M... also %T and %s,,,369500,124,387100,130,Back Centre,6
+240266,Lee,Spurr,FR,8,57,67,69,49,66,6,11,4,1,0,1,0,0,0, Full Time,job,Minding Krakouer... %P and %M,,,349100,36,384200,40,Back,34
+260069,Hayden,Ballantyne,FR,10,56,49,72,49,64,9,4,5,1,0,1,2,1,1, Full Time,news,%s from %P and %M trying to keep Shaw honest,,,327200,88,378200,83,Forward,1
+293651,Hayden,Crozier,FR,10,56,47,70,46,60,10,4,4,0,0,0,0,1,0, Full Time,cash,On in Q1 for Griffin.... %O and %M,sub,Started as a sub,175200,-14,219400,-45,Forward,17
+240552,Zac,Dawson,FR,5,51,58,64,43,57,6,6,3,2,6,1,1,0,0, Full Time,job,Has Lynch... %P... had to play ruck after Griffin got injured for %H,,,146700,3,233100,33,Back,3
+271015,Matthew,de Boer,FR,10,50,53,64,38,51,6,4,2,3,0,0,0,1,0, Full Time,tagger,Forward role on Dale Thomas... %s from %P,,,380900,74,366500,75,Forward Centre,9
+281105,Jack,Hannath,FR,10,50,73,58,46,56,4,5,2,1,14,1,1,1,0, Full Time,cash,%H and %P,,,102700,-7,109500,-50,Ruck,38
+230048,Ryan,Crowley,FR,14,47,56,64,36,58,3,9,0,7,1,0,3,0,0, Full Time,tagger,Tagging Pendlebury... %D,,,269500,62,271100,57,Centre,15
+250088,Jonathon,Griffin,FR,0,11,11,13,10,12,1,1,1,0,3,0,0,0,0, Full Time,longterminjured,%H and %P... right knee knock in Q1,subbed,Subbed off in Q1 for Crozier,403100,61,491600,55,Ruck,12
+280965,Steele,Sidebottom,CO,27,119,132,77,93,129,18,15,4,4,0,1,0,1,0, Full Time,hot,%2 Mzungu... %D and %s,,,489800,113,530800,141,Centre,22
+220105,Dane,Swan,CO,32,111,94,90,87,120,12,15,3,6,0,0,0,2,0, Full Time,hot,%B among %D with %T and %M... also %s,,,615400,150,652000,146,Centre,36
+290289,Josh,Thomas,CO,24,108,104,81,86,118,14,14,7,4,0,0,0,0,1, Full Time,hot,%O and %M plus %T,cash,His cash generation just got kickstarted,150000,-15,165700,-21,Centre,24
+210099,Darren,Jolly,CO,26,102,121,91,90,106,8,7,7,3,31,3,1,0,0, Full Time,hot,%H and %P with %M,,,393100,132,476300,161,Ruck,18
+280104,Jarryd,Blair,CO,32,99,92,87,72,94,11,5,5,8,0,2,0,1,1, Full Time,news,%D and %T with %M,,,384500,92,420000,100,Forward Centre,11
+250133,Sam,Dwyer,CO,25,95,99,64,82,109,13,12,6,1,0,0,1,2,1, Full Time,cash,%s from %O and %M on Duffield,,,229700,53,250700,60,Forward Centre,41
+294733,Paul,Seedsman,CO,20,95,69,64,81,103,16,3,13,2,0,2,3,0,1, Full Time,news,%P and %M... also %s and %F,,,247900,39,257000,35,Centre,40
+260257,Scott,Pendlebury,CO,25,92,96,75,65,93,11,12,0,8,0,3,0,0,0, Full Time,creepy,Tagged by Crowley... %P and %T,,,535600,101,648400,92,Centre,10
+240232,Ben,Reid,CO,19,89,81,58,72,90,15,2,12,1,0,0,0,0,0, Full Time,news,%M and %O,job,Chasing Mayne,338800,21,421800,20,Back,20
+240700,Heath,Shaw,CO,14,87,98,44,69,96,18,5,7,2,0,0,2,0,0, Full Time,news,%K among %P with %M and %F... Ballantyne manning him up,mrp,A rabbit pucnh on Ballantyne in Q2 will be assessed,417700,45,504400,48,Back,39
+240359,Dale,Thomas,CO,18,78,105,45,67,93,13,12,6,0,0,0,1,0,0, Full Time,tagged,Started in defence again with de Boer tagging him... %P and %M,,,411800,68,428200,49,Forward Centre,13
+261181,Brent,Macaffer,CO,18,76,63,52,59,81,13,3,7,4,0,0,2,0,0, Full Time,cash,%P and %M... %T and %F also,job,In defence on Walters,233000,25,228200,11,Forward,3
+210058,Andrew,Krakouer,CO,11,63,67,46,51,64,8,4,3,2,0,1,0,2,1, Full Time,news,Spurr on him... %s from %D,,,243200,,291100,,Forward,7
+240073,Harry,O'Brien,CO,9,63,70,36,51,72,12,5,5,2,0,0,2,0,0, Full Time,news,%D and %M... %F as well,,,360700,46,385700,67,Back,8
+220061,Quinten,Lynch,CO,5,55,51,44,49,64,6,7,5,1,7,0,1,0,0, Full Time,news,%D and %M on Dawson... also %H,job,Right leg knock in Q4 after a tackle by Mayne,398400,105,411200,101,Forward,21
+240366,Travis,Cloke,CO,4,54,36,37,44,52,8,2,5,1,0,3,0,0,4, Full Time,news,Booted %s from %G and %D on McPharlin,,,491700,115,575000,158,Forward,32
+293431,Ben,Kennedy,CO,10,52,50,42,40,54,6,5,2,3,0,0,0,1,0, Full Time,bubble,Second game... %D,,,102700,,109500,,Forward Centre,27
+230263,Nick,Maxwell,CO,4,49,39,42,37,48,6,2,5,3,0,0,0,0,0, Full Time,news,%M and %O,,,329200,73,395900,83,Back,5
+260310,Nathan,Brown,CO,4,44,30,33,38,51,6,5,5,1,0,0,1,0,0, Full Time,job,On the resting ruck which is mostly Hannath... %P,,,197800,16,256400,40,Back,16
+296732,Caolan,Mooney,CO,9,37,51,36,32,45,3,5,2,3,0,0,2,1,0, Full Time,sore,On in Q2 for Clarke... %P and %T with %M and %s... also %F... right knee injury in Q4 but returned late,sub,Started as a sub,108500,,115900,,Centre,48
+293801,Jamie,Elliott,CO,4,36,28,32,30,39,4,3,4,2,0,1,1,0,0, Full Time,news,%O and %M,,,344900,100,362800,100,Forward,19
+272005,Marty,Clarke,CO,3,29,15,21,25,30,4,2,4,0,0,1,0,0,0, Full Time,injured,%M and %P... hamstring tweak in Q2,subbed,Subbed off in Q2 for Mooney,355900,69,393000,98,Back,9

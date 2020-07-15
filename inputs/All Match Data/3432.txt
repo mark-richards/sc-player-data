@@ -1,0 +1,48 @@
+St Kilda,Saints,Fremantle,Dockers,R4,16.12.108,14.9.93, Full Time
+Apr 18,2010,4:40,Docklands,Fox Sports,200032,10280408,5015602,4975,Roof closed,26
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,m0nty is working on it... hopefully should be up for next week,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em style='color:#a0a'>boyyy</em>: pants<br><em>sarfras</em>: dont worry about them monty. your site is awesome. keep it up :)<br><em>sarfras</em>: dont worry about them monty.<br><em>rooboypete</em>: Stop giving m0nty such a hard time! He's just a victim of his own success!!<br><em>BoredSaint</em>: won by a point on SC thanks to Dal as capt :)<br><em>macka14</em>: barlow alright<br><em>emjay68</em>: how did gram get 78 SC? He was 86% efficient! My belief in SC is lost<br><em style='color:#069'>Prospector</em>: Needed only 5 more from Gram&#044; dram!<br><em>kafka69</em>: thnx monty enjoy the site&#044; can accept downtime :)<br><em>STK_r_FAIL</em>: monty will still be sitting there with a crashing site in 5 years time<br><em>Fairy Tail</em>: hi<br><em>boyyy</em>: grr gilbert<br>
+220023,Nick,Dal Santo,SK,28,130,129,158,107,143,17,18,5,3,0,2,0,2,2, Full Time,star,Head to head with Mundy... that was the wrong decision by coach Harvey... first goal.. %P and %M with %s
+230084,Brendon,Goddard,SK,33,130,134,162,109,132,17,4,9,3,1,2,1,5,2, Full Time,gun,Starting forward... %s from %D and %M with %T on McPharlin
+200108,Stephen,Milne,SK,28,108,138,130,90,114,12,9,4,3,0,0,0,5,0, Full Time,x-factor,%s from %D and %M with %T on Hayden
+220034,Jason,Gram,SK,19,104,78,131,84,114,14,14,7,3,0,1,0,0,0, Full Time,hot,%O and %M with %T
+250340,David,Armitage,SK,15,99,101,126,77,104,12,12,5,5,0,2,0,0,2, Full Time,news,%D including %b by hand... also %s and %M with %T
+261743,Clinton,Jones,SK,21,99,106,118,85,120,12,21,3,2,0,1,1,1,0, Full Time,tagger,Tagged Barlow... %B among %O plus %s
+990028,Lenny,Hayes,SK,19,99,109,124,79,108,12,15,3,5,1,4,1,0,2, Full Time,creepy,Tagged by Crowley... %B among %D with %T and %M... also %s
+220075,Leigh,Montagna,SK,15,95,82,124,75,108,18,10,5,3,0,0,2,0,0, Full Time,news,Head to head with Duffield... %P and %M with %T and %F
+260113,Jarryn,Geary,SK,19,95,71,122,74,102,15,10,6,3,0,0,0,0,0, Full Time,news,%K among %D with %M and %T
+990004,Steven,Baker,SK,18,85,69,113,66,90,11,7,7,5,0,0,1,0,0, Full Time,job,Minded Ballantyne... %D and %T
+240012,Andrew,McQualter,SK,25,84,103,104,67,90,5,14,3,6,0,2,0,1,0, Full Time,news,%P and %T with %M and %s
+200068,Jason,Blake,SK,15,79,77,102,69,93,10,10,9,2,0,0,2,0,0, Full Time,job,Followed Mayne.. %D and %M
+220098,Adam,Schneider,SK,15,76,98,93,65,86,11,8,4,1,0,0,1,2,2, Full Time,news,%s from %D and %M
+240708,Sam,Fisher,SK,14,71,66,93,61,78,10,6,8,2,0,3,2,0,0, Full Time,news,Started at FF on Tarrant then switched back in Q3... %P and %M
+250703,James,Gwilt,SK,13,70,69,90,56,75,10,7,6,2,0,0,0,0,0, Full Time,job,Went with Pavlich... %D and %M
+250134,Sam,Gilbert,SK,8,62,58,78,53,73,11,8,5,0,1,0,1,0,0, Full Time,news,%O and %M
+240062,Farren,Ray,SK,4,54,53,70,41,57,7,6,3,3,0,0,0,0,0, Full Time,news,%P and %M plus %T
+240552,Zac,Dawson,SK,8,49,48,64,45,60,6,6,7,1,0,0,2,0,0, Full Time,job,Started at FB but the Dockers rotated small blokes through him so he went forward in Q3... %M and %P
+240701,Brett,Peake,SK,3,49,50,66,35,51,10,3,1,3,0,1,1,0,0, Full Time,news,%O and %T
+970064,Michael,Gardiner,SK,5,47,46,56,42,56,7,6,2,0,11,0,1,0,0, Full Time,news,%H and %D with %M... beaten by Sandilands on the day
+230035,Raphael,Clarke,SK,3,43,61,55,36,51,7,6,3,1,0,0,1,0,0, Full Time,news,%D and %M
+960337,Steven,King,SK,3,29,29,36,30,39,3,4,2,1,9,2,3,0,0, Full Time,news,%H and %D with %F
+240139,Paul,Duffield,FR,31,135,89,74,110,148,25,11,12,1,0,0,1,0,1, Full Time,hot,Head to head with Montagna... %P and %M
+220096,Aaron,Sandilands,FR,31,113,117,92,105,126,10,12,7,1,36,4,2,0,0, Full Time,hot,%H and %P with %M and %T
+210084,Roger,Hayden,FR,25,105,105,93,87,120,10,17,8,5,0,0,1,0,0, Full Time,hot,Minded Milne but zoned off a lot... %D and %M with %T
+240052,David,Mundy,FR,21,102,119,69,82,111,14,13,3,3,0,1,0,2,0, Full Time,hot,Head to head with Dal Santo... %D
+200032,Matthew,Pavlich,FR,27,94,140,72,80,96,10,6,4,2,0,2,0,5,0, Full Time,news,Gwilt on him... %s from %D and %M including a huge Q3
+280386,Clancee,Pearce,FR,21,90,55,80,71,90,9,5,7,5,0,0,0,2,0, Full Time,up,%P and %M with %T and %s
+280336,Stephen,Hill,FR,21,89,93,75,72,97,9,11,3,5,1,1,1,2,0, Full Time,news,%P and %T with %s
+200045,Luke,McPharlin,FR,15,88,92,65,76,102,12,11,9,2,0,1,2,0,0, Full Time,job,On Goddard... %P and %M plus %F
+261756,Greg,Broughton,FR,18,88,85,49,75,105,15,14,6,0,0,0,1,0,0, Full Time,news,%D and %M
+271433,Alex,Silvagni,FR,15,83,75,53,69,93,14,7,8,2,0,1,2,0,0, Full Time,news,%M and %O
+292026,Michael,Barlow,FR,14,78,84,63,67,96,7,21,2,2,0,1,0,0,0, Full Time,tagged,Tagged by Jones... %P and %T
+230107,Michael,Johnson,FR,12,64,60,46,56,72,8,9,6,0,2,1,0,0,1, Full Time,news,%P and %M
+980023,Chris,Tarrant,FR,13,62,86,56,54,72,6,9,6,3,0,2,2,0,0, Full Time,job,Stood Fisher then Dawson at FB... %O and %M
+210037,Adam,McPhee,FR,15,59,75,55,46,58,5,5,3,4,0,2,0,1,1, Full Time,news,%O and %T with %s
+280416,Chris,Mayne,FR,14,56,53,49,49,60,5,6,6,1,0,1,0,1,0, Full Time,news,Kicked %s from %O and %M on Blake
+230048,Ryan,Crowley,FR,37,54,52,73,35,54,1,6,0,11,0,1,2,0,0, Full Time,tagger,Tagged Hayes... %T and %O
+271015,Matthew,de Boer,FR,13,52,42,61,36,52,2,7,1,7,0,0,0,0,1, Full Time,news,%D and %T
+281111,Anthony,Morabito,FR,3,47,21,19,34,51,11,3,1,2,0,0,1,0,0, Full Time,news,Far cry from last week's performance... %P and %T
+200031,Paul,Hasleby,FR,12,45,35,44,38,60,3,13,0,4,0,0,2,0,0, Full Time,news,%P including %B with %T
+990029,Des,Headland,FR,3,37,25,32,29,39,4,4,3,2,0,0,0,0,0, Full Time,sore,Right knee worked on in Q2... %P and %M
+260069,Hayden,Ballantyne,FR,8,29,26,26,24,33,3,3,0,3,0,2,2,1,0, Full Time,cold,%s from %D with %T... Baker on him
+270681,Jay,van Berlo,FR,2,28,17,25,21,33,3,5,0,3,0,0,1,0,0, Full Time,news,%B among %P

@@ -1,0 +1,48 @@
+West Coast,Eagles,Geelong,Cats,R11,14.14.98,18.14.122, Full Time
+Jun 05,2010,7:40,Subiaco,Ten,220054,10281105,5015543,5152,Cloudy,19
+The iPhone app is going through last minute modifications requested by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>DarrenP</em>: RobotNinja he died a long time ago.<br><em>nikos</em>: @hungryjack no more.<br><em>Crow_Man1</em>: 1516 from 15 with Swan (c)&#044; hodge&#044; h shaw&#044; rok&#044; gia&#044; didak and hall to go<br><em>hungryJack</em>: it's called efficiency @nikos something you seem to lack<br><em>barlow=god</em>: waters isnt consistent enough to get gun&#044; wasnt BOG&#044; wasnt superman&#044; didnt come back after injury. therefore just flame<br><em>FiveStar</em>: on around 1952/15 + Captain&#044; looking for a 2500+ score on SC and thats with davis' 31:)<br><em>Inzy</em>: bartel robbed in sc. Easily a 125 game<br><em>JStapo21</em>: chapmans voice! wtf<br><em>fossburger</em>: beau waters had a terrible game... million turn overs<br><em>AchillesII</em>: wellsy.. u have no idea<br><em>johngst</em>: Sorry RobotNinja ricky may 'Checked out" 10-15 years ago.<br><em>wellsy24</em>: How does 154 only earn a flame when Cats get a star and gun for < 115? Waters this year = gun DT scorer. <br>
+240016,Beau,Waters,WC,43,155,118,200,129,162,20,13,17,4,0,5,1,0,0, Full Time,hot,Still playing as a HFF... %P and %M
+990020,Andrew,Embley,WC,20,106,82,138,80,106,20,4,6,3,1,1,0,1,0, Full Time,hot,%s from %D with %T
+240283,Shannon,Hurn,WC,14,94,76,126,71,93,21,0,9,1,0,0,0,0,0, Full Time,job,Minding Byrnes... %D and %M
+260546,Bradd,Dalziell,WC,21,91,88,118,71,93,14,6,5,4,0,3,1,1,0, Full Time,news,%P including %k by foot with %M
+261911,Brad,Ebert,WC,30,90,77,117,74,97,8,8,7,6,0,1,2,1,4, Full Time,news,Head to head with Bartel... %P and %T with %M
+240124,Matt,Priddis,WC,19,89,121,107,74,109,7,23,1,5,0,1,1,0,1, Full Time,tagged,Tagged by Hogan... %D including %b by hand with %T
+200112,Dean,Cox,WC,22,84,103,97,76,92,6,8,3,2,29,1,1,1,0, Full Time,news,%H and %D with %M and %s.... resting up forward on Taylor to stretch Geelong's lack of fit KP defenders
+281080,Brad,Sheppard,WC,13,81,74,104,64,85,17,5,6,0,0,1,0,0,1, Full Time,news,%D and %M
+271045,Nic,Naitanui,WC,22,79,78,95,67,82,6,5,2,4,19,1,1,2,0, Full Time,fiji,%H and %P with %T and %s
+240379,Ben,McKinley,WC,20,73,88,93,62,73,9,0,7,2,0,1,1,3,1, Full Time,news,Booted %s from %G and %D on Mackie
+250111,Matt,Rosa,WC,19,73,81,96,52,75,7,9,2,7,0,0,0,0,0, Full Time,news,%P and %T
+240406,Josh J.,Kennedy,WC,16,72,94,90,57,70,9,2,3,3,0,1,0,3,1, Full Time,news,First goal... %s from %P and %G on Lonergan
+271073,Tom,Swift,WC,10,69,51,87,62,90,9,14,5,2,0,0,3,0,0, Full Time,news,%O
+240119,Mark,LeCras,WC,11,67,60,83,56,68,11,2,5,0,0,1,0,2,2, Full Time,news,%s from %P and %M on Josh Hunt
+260303,Mitchell,Brown,WC,4,54,48,70,43,58,7,6,3,3,0,2,1,0,1, Full Time,news,%s from %G and %O on Milburn
+280379,Lewis,Stevenson,WC,7,50,47,62,40,57,10,7,2,0,0,0,0,0,0, Full Time,news,%D
+240159,Sam,Butler,WC,8,48,40,62,44,60,6,7,6,1,0,0,2,0,0, Full Time,news,%P and %F
+261214,Will,Schofield,WC,4,48,50,63,38,48,6,3,5,2,0,1,0,0,0, Full Time,job,Minding Johnson... %M and %D
+250036,Beau,Wilkes,WC,4,46,64,59,37,48,7,4,4,1,0,1,0,0,0, Full Time,job,On Mooney... %D
+230254,Adam,Selwood,WC,3,44,53,53,36,48,4,9,1,2,0,3,0,0,0, Full Time,injured,Tagging Ablett jnr... %D and %T... Enright hurt his shoulder in Q3 with a late bump
+270928,Scott,Selwood,WC,13,40,52,56,29,45,3,5,1,6,0,0,2,0,0, Full Time,tagger,Moved to tag Ablett jnr in Q3... %D and %T
+250317,Eric,MacKenzie,WC,3,36,38,46,30,43,2,7,2,3,1,0,1,0,0, Full Time,ipod,Has Podsiadly... %P
+220007,Jimmy,Bartel,GE,33,116,106,97,91,130,13,17,4,8,4,1,2,0,0, Full Time,hot,Head to head with Ebert... %D and %T
+200039,Paul,Chapman,GE,21,112,141,67,94,130,18,18,5,2,0,4,2,0,1, Full Time,star,%P and %M
+220001,Gary,Ablett jnr,GE,27,110,120,94,85,115,11,13,3,7,0,1,0,2,1, Full Time,gun,Tagged by Adam Selwood then Scott Selwood... %O and %T plus %s
+230022,Shannon,Byrnes,GE,27,108,112,80,95,120,13,9,7,2,0,1,2,4,3, Full Time,hot,%s from %O and %M with %T
+250321,Joel,Selwood,GE,33,103,122,93,81,114,10,14,4,8,0,1,2,1,0, Full Time,hot,%D and %T plus %F
+230214,Mathew,Stokes,GE,15,89,64,48,71,96,16,8,5,1,0,0,0,1,0, Full Time,news,%O and %M
+990076,David,Wojcinski,GE,26,89,110,77,68,90,9,8,3,6,0,1,0,2,0, Full Time,news,%P and %T with %M and %s
+220054,Steve,Johnson,GE,16,80,81,59,64,78,10,3,3,3,0,2,0,3,3, Full Time,news,%s from %P on Schofield
+250290,Travis,Varcoe,GE,24,80,77,81,65,84,5,10,6,5,0,1,0,1,0, Full Time,news,%D and %T plus %M
+230248,Andrew,Mackie,GE,18,79,63,38,65,84,16,3,7,0,0,1,1,1,0, Full Time,job,Zoned off McKinley... %P and %M plus %s
+200035,Corey,Enright,GE,20,77,84,32,66,96,17,8,4,1,0,0,4,1,0, Full Time,mrp,%M and %D... could be trouble for a high bump on Adam Selwood in Q3
+960375,Darren,Milburn,GE,10,68,86,49,57,78,9,11,4,2,0,2,1,0,0, Full Time,job,Following Brown... %P and %T
+270193,Simon,Hogan,GE,18,66,52,64,49,72,5,12,1,6,0,0,0,0,0, Full Time,tagger,Tagging Priddis... %P and %T
+200131,James,Podsiadly,GE,20,61,78,60,54,72,5,6,6,4,0,0,3,1,3, Full Time,mrp,Booted %s from %P and %G on MacKenzie... could be in trouble for an errant elbow which hit Schofield's head in Q2
+220058,James,Kelly,GE,8,60,73,38,48,72,10,9,2,3,0,0,2,0,0, Full Time,news,%D and %M
+210059,Josh,Hunt,GE,7,58,70,33,46,63,10,7,3,1,0,1,0,0,0, Full Time,job,On LeCras... %D
+230125,Tom,Lonergan,GE,9,56,70,52,45,63,5,9,3,4,0,1,1,0,0, Full Time,job,On Kennedy... %M and %D
+280822,Taylor,Hunt,GE,15,53,50,42,40,55,7,3,2,4,0,0,1,1,1, Full Time,in,%l Cameron Ling (shoulder)... %P and %T plus %s
+261497,Harry,Taylor,GE,8,49,63,42,44,58,5,7,6,1,1,0,1,0,0, Full Time,job,Standing the resting ruckmen... %M and %O
+240117,Mark,Blake,GE,10,48,43,44,48,59,2,8,2,0,23,0,1,0,0, Full Time,news,%H and %D
+270340,Dawson,Simpson,GE,7,31,31,37,22,29,1,2,1,4,5,0,0,0,0, Full Time,news,%P and %T
+970006,Cameron,Mooney,GE,2,24,21,12,21,28,5,1,3,0,0,0,1,0,1, Full Time,sore,Left ankle rolled in Q2 and also a calf problem in Q3... %P on Wilkes

@@ -1,0 +1,48 @@
+Melbourne,Demons,West Coast,Eagles,R2,4.6.30,18.15.123, Full Time
+Mar 30,2014,3.20,MCG,Seven,200071,10420208,melb-v-wce,0,Partly cloudy,26,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> Crowls</em>: how does nn ratio be 65/102?   <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tPA"></b> yuhalo101</em>: Nathan Jones 98? <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> CJEagles14</em>: @rooboypete and against Big Will too!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> linusp</em>: 57-60 from michie is perfectly acceptable... dunstan only got that after his hunge last week<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> jfitty</em>: Bit of scaling to come here!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> linusp</em>: ermagerd @ nicnats SC<br><em style='color:#000'>Crowls</em>: cox  62 little ones<br><em style='color:#000'>coldog</em>: Trengove is so shower!<br><em style='color:#000'>DoctorRush</em>: First upgrade at bye time.<br><em style='color:#000'>linusp</em>: unlucky on N Jones SC score <br><em style='color:#000'>Brown*Dog</em>: Nat Jones stiff not to get the gun<br><em style='color:#000'>Demons15</em>: bin for lecca<br>
+250222,Nathan,Jones,ME,37,129,95,170,102,144,19,15,6,8,0,4,4,0,0, Full Time,hot,%2 Priddis... Stuck it out all day for his side... %D and %M with %T... umps paid him %4FF... not helped by %F,,,424100,,485700,,Midfielder,2,1,147,142,0.65,1.02,0.00,420800,33
+210049,Daniel,Cross,ME,50,125,129,160,94,131,7,20,4,12,1,2,0,0,1, Full Time,hot,%D with %b by hand... also %T and %M... and scored %s,,,489500,,477100,,Midfielder,18,1,85,71,0.44,0.58,0.00,485700,93
+260288,James,Frawley,ME,31,124,101,162,101,129,17,8,15,3,0,0,0,0,0, Full Time,bluemoon,Lots of ball in the Dee's backline pumped up his stats... %P and %M plus %T,job,Manning Kennedy...,342500,,364600,,Back,8,1,77,76,0.57,1.71,0.00,339900,53
+270241,Dean,Terlich,ME,20,113,96,146,88,117,19,9,8,3,0,2,0,0,0, Full Time,hot,%P and %M plus %T,job,On Wellingham...,438400,,424500,,Back,46,1,54,73,1.28,0.72,0.00,434900,97
+261142,Bernie,Vince,ME,24,111,90,144,88,117,23,6,10,0,0,0,0,0,0, Full Time,hot,%P including %K... also %M,,,452900,,424300,,Midfielder,23,1,118,107,3.70,7.55,0.00,449300,60
+291784,Dom,Tyson,ME,26,111,105,140,98,129,15,15,12,1,0,2,2,0,0, Full Time,hot,%P and %M,,,250700,,216800,,Midfielder,12,1,116,111,25.81,23.35,0.00,218400,-9
+293042,Jimmy,Toumpas,ME,24,90,78,116,71,93,11,7,7,4,0,0,0,1,0, Full Time,news,%P and %M plus %T... %s as well,,,261400,,240800,,Midfielder,5,1,66,65,1.31,2.04,0.00,259400,36
+280972,Jack,Watts,ME,14,84,59,110,69,90,11,7,9,3,0,1,1,0,0, Full Time,news,%O and %M plus %T,,,368100,,411100,,Back Forward,4,1,86,95,7.46,7.72,0.00,365200,55
+281292,Alexis,Georgiou,ME,18,77,64,101,62,84,7,9,7,5,0,0,1,0,0, Full Time,bubble,Second game... Taking the resting tall... %O and %M plus %T,,,98500,,102400,,Back,41,1,54,64,20.19,26.17,0.00,115200,0
+261297,Jack,Grimes,ME,10,75,87,93,61,84,10,12,4,2,0,1,0,0,0, Full Time,job,Putting work into LeCras... %D and %M with %T,,,419500,,436500,,Back Midfielder,31,1,80,100,5.66,5.36,0.00,416200,75
+296027,Matt,Jones,ME,10,74,75,97,59,84,13,8,4,3,0,1,2,0,0, Full Time,news,%P and %M plus %T,,,386100,,372900,,Midfielder,45,1,70,77,0.43,0.58,0.00,383100,71
+250548,Lynden,Dunn,ME,13,72,104,95,61,79,13,3,8,1,4,1,2,0,0, Full Time,news,%O including %K... also %M,,,372700,,444400,,Back,14,1,80,92,0.46,0.44,0.00,369800,61
+280608,Jack,Trengove,ME,10,71,65,90,56,78,11,9,4,2,0,0,0,0,0, Full Time,news,%O and %M plus %T,,,425800,,404500,,Midfielder,9,1,85,80,0.64,1.01,0.00,422500,73
+250345,Rohan,Bail,ME,14,67,65,88,50,69,9,6,4,4,0,0,0,0,0, Full Time,news,%P and %M plus %T,,,251300,,232600,,Midfielder,44,1,94,70,0.32,0.34,0.00,234400,10
+230022,Shannon,Byrnes,ME,11,62,67,76,51,64,7,5,3,2,0,1,0,2,1, Full Time,news,Sheppard on him... %s from %D and %M with %T,,,326500,,301400,,Forward,10,1,62,81,0.28,0.38,0.00,323900,58
+291313,Jeremy,Howe,ME,8,52,39,67,45,59,9,4,6,0,0,0,1,0,2, Full Time,news,McKenzie on him... %s from %O and %M,,,369600,,391200,,Forward,38,1,34,39,1.17,1.46,0.00,366700,90
+291533,Tom,McDonald,ME,4,49,48,63,42,54,9,4,5,0,0,2,1,0,0, Full Time,job,Has Darling... %M and %O,,,329000,,402300,,Back,25,1,44,60,0.47,0.34,0.00,326500,71
+292029,Cameron,Pedersen,ME,8,47,-,61,35,47,4,5,2,4,2,1,0,0,0, Full Time,switch,Yeo sticking with him... Moved to defence in Q3... %O and %M plus %T,,,335400,,362500,,Back,21,1,60,59,0.16,0.20,0.00,332800,62
+291446,Viv,Michie,ME,4,39,53,49,31,42,4,6,2,2,0,1,0,0,0, Full Time,news,%P and %M,sore,Had his eye stitched up in Q1...,214100,,172600,,Midfielder,22,1,65,61,22.88,23.40,0.00,193900,17
+296343,Jay,Kennedy-Harris,ME,8,33,26,41,27,34,4,2,2,1,0,0,0,1,1, Full Time,news,On in Q3... Bennell on him... %s from %P and %M,sub,Started as a sub,112800,,117300,,Forward,24,1,31,24,32.86,43.42,0.00,157200,28
+280521,Jake,Spencer,ME,8,26,32,27,32,39,0,5,1,0,21,1,3,0,0, Full Time,news,%H with %D... conceded %F,,,363300,,418000,,Ruck,42,1,108,104,0.41,0.28,0.00,338800,33
+280758,Jack,Fitzpatrick,ME,1,19,25,23,15,21,0,4,0,2,3,0,0,0,0, Full Time,news,Glass manning him up... %D and %T,subbed,Subbed off in Q3...,329300,,347700,,Forward Ruck,48,1,22,23,0.85,0.97,0.00,326700,85
+280078,Luke,Shuey,WC,28,122,137,93,104,136,14,16,9,2,0,0,0,2,1, Full Time,magnet,First goalscorer... %D and %M with %T... %s as well,,,483100,,489300,,Midfielder,13,1,60,75,1.51,1.86,0.00,479300,107
+261290,Chris,Masten,WC,27,111,119,87,88,117,13,12,5,5,0,1,0,2,0, Full Time,star,Started the Eagles' domination with a great first half... %D and %M with %T... %s as well,,,537600,,523200,,Midfielder,7,1,67,56,1.90,0.60,0.00,533400,119
+290801,Andrew,Gaff,WC,21,106,88,67,89,123,17,14,8,2,0,1,2,0,0, Full Time,hot,%D and %M with %T,,,381600,,383500,,Midfielder,3,1,105,105,1.64,1.81,0.00,378700,47
+240406,Josh J.,Kennedy,WC,37,105,118,93,85,106,10,5,6,6,0,1,1,4,1, Full Time,hot,Frawley on him... %s from %P and %M plus %T,,,470300,,485200,,Forward,17,1,48,54,5.96,5.61,0.00,466600,111
+250111,Matt,Rosa,WC,25,105,95,54,86,117,19,12,6,0,0,0,0,1,0, Full Time,hot,%O and %M plus %s,,,384900,,409000,,Midfielder,24,1,122,128,0.53,0.31,0.00,381900,37
+240124,Matt,Priddis,WC,25,104,94,78,71,102,15,9,1,9,0,2,0,0,0, Full Time,gun,%2 Jones... Did his usual thing... %D and %T,,,523400,,544500,,Midfielder,11,1,109,105,1.47,1.55,0.00,519300,87
+250257,Xavier,Ellis,WC,15,90,98,57,72,99,14,12,5,2,0,1,0,0,0, Full Time,news,%P and %M plus %T,,,163900,,159100,,Midfielder,18,1,56,66,46.23,45.52,0.00,135500,5
+240119,Mark,LeCras,WC,21,83,80,62,68,93,11,8,4,4,0,0,2,2,0, Full Time,garbage,Spending a fair amount of time forward on Grimes... Added respectability to his score in junk time... %s from %O and %M plus %T,,,462100,,451300,,Forward,2,1,139,144,3.18,2.65,0.00,458500,49
+290826,Jamie,Cripps,WC,26,82,77,68,62,83,10,5,4,6,0,1,1,1,2, Full Time,news,%s from %P and %M plus %T,,,300400,,267500,,Forward,15,1,66,68,0.69,1.01,0.00,298100,48
+290838,Jack,Darling,WC,21,76,82,59,71,88,9,5,8,1,0,1,3,3,1, Full Time,news,McDonald is on him... Kicked %s from %G and %O... not helped by %F,,,377400,,413300,,Forward,27,1,96,106,4.17,2.40,0.00,374500,52
+261799,Sharrod,Wellingham,WC,9,69,80,43,56,79,11,10,3,2,0,1,1,0,1, Full Time,news,Terlich has him... %D and %M with %T... %s as well,,,395000,,394800,,Midfielder,12,1,79,88,2.35,2.27,0.00,391900,68
+292128,Elliot,Yeo,WC,10,66,72,55,52,70,8,6,5,4,1,1,1,0,0, Full Time,job,Following Pedersen... %O and %M plus %T,,,317100,,333900,,Back,6,1,84,75,2.79,3.93,0.00,314600,41
+271045,Nic,Naitanui,WC,15,65,104,49,59,73,6,10,2,0,13,2,0,1,0, Full Time,news,%H... also %D and %M... and booted %s,,,423100,,518800,,Ruck,9,1,51,53,7.23,7.88,0.00,419800,95
+294737,Callum,Sinclair,WC,11,65,76,46,55,67,8,4,3,1,11,1,0,1,2, Full Time,news,%H... also %P and %M... and kicked %s,,,244700,,278800,,Ruck,22,1,70,61,1.38,1.56,0.00,258000,33
+250317,Eric,Mackenzie,WC,10,62,68,39,50,63,10,3,5,1,0,1,0,1,0, Full Time,job,Has Howe... %D including %K... also %M... and kicked %s,,,284900,,369500,,Back,16,1,92,100,0.97,0.58,0.00,282600,26
+260303,Mitchell,Brown,WC,8,54,81,36,44,60,8,7,4,1,0,0,0,0,0, Full Time,news,%M and %O,,,214200,,245000,,Back,1,1,31,45,0.91,1.84,0.00,212500,45
+281080,Brad,Sheppard,WC,7,54,51,29,44,63,10,7,3,1,0,0,1,0,0, Full Time,job,On at QT... Responsible for Byrnes... %P and %M,sub,Started as a sub,276900,,271400,,Midfielder,5,0,0,0,0.74,0.89,0.00,274700,51
+200112,Dean,Cox,WC,9,51,63,43,47,55,4,4,2,1,21,2,1,0,1, Full Time,news,No touches in Q1... %H... also %P and %M... and scored %s,,,530100,,578900,,Ruck,20,1,108,115,11.19,5.31,0.00,526000,90
+200074,Darren,Glass,WC,8,48,44,52,35,48,3,5,3,5,0,0,0,0,0, Full Time,job,Manning Fitzpatrick... %P and %M plus %T,,,307500,,363500,,Back,23,1,68,74,1.28,1.06,0.00,305100,49
+270928,Scott,Selwood,WC,8,48,70,26,45,72,9,12,1,2,0,1,5,0,0, Full Time,news,Not tagging anyone this week... %P and %T... not helped by %F,,,592100,,559800,,Midfielder,10,1,113,114,6.59,1.16,0.00,587500,105
+290943,Jamie,Bennell,WC,8,43,36,30,38,51,7,3,6,1,0,0,2,0,0, Full Time,job,Picking up Kennedy-Harris... %P and %M,,,119200,,123900,,Midfielder,44,1,45,68,1.28,1.11,0.00,135500,12
+240283,Shannon,Hurn,WC,0,5,7,6,5,6,0,1,1,0,0,0,0,0,0, Full Time,injured,Knee soreness in Q1 which he eventually succumbed to,subbed,Subbed off at QT...,355100,,472000,,Back,25,1,67,99,3.55,4.48,0.00,352300,64

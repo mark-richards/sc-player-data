@@ -1,0 +1,48 @@
+Carlton,Blues,Richmond,Tigers,R1,14.20.104,13.6.84, Full Time
+Mar 24,2011,7:10,MCG,Ten,261009,10310101,5015,2,Windy with showers,17
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Hopefully!,SC scores?,Only for the last Sunday game.,Team icons?
+<em>sullitons</em>: oi jackmatt you herogot<br><em title="DA BOSH KA">da bosh ka</em>: go gibbsy<br><em>Jackmatt12</em>: hi<br><em>H-Dog</em>: hey<br><em>RobotNinja</em>: Curnow!<br><em>junna15</em>: yes&#044; i did have curnow in my team. did you?<br><em>Go Kangas!</em>: crimmo where u from? thats my nickname!<br><em>h-comb525</em>: helbig the new relton roberts?<br><em>j-bomb3000</em>: your a liar The_Kid_05<br><em title="1901">1901</em>: My only DT in this game for me was gibbs :)<br><em>proud_lion</em>: should i settle with murph 127 or go swan?<br><em>proud_lion</em>: i had murphy vice instead of gibbs!<br>
+250417,Bryce,Gibbs,CA,43,147,138,196,112,147,25,4,12,6,0,1,1,1,0, Full Time,star,Drifted between midfield and half forward without seeming to have an opponent... %P and %T plus %s,,
+230202,Kade,Simpson,CA,37,131,124,172,101,136,16,12,9,8,0,2,1,0,1, Full Time,hot,%O and %M plus %M and %s,,
+250105,Marc,Murphy,CA,33,127,107,165,98,136,19,12,5,7,0,2,2,1,1, Full Time,gun,%2 Foley and beat him comprehensively... %D and %M with %T and %s,,
+290311,Mitch,Robinson,CA,25,118,116,155,93,128,19,10,8,5,1,1,2,0,1, Full Time,hot,%O and %T with %M plus %s,,
+220015,Andrew,Carrazzo,CA,25,110,88,144,85,114,17,7,7,5,0,1,1,1,0, Full Time,hot,Tagging Deledio... %O and %T with %M and %s,,
+270146,Edward,Curnow,CA,27,107,118,139,82,114,13,11,5,7,0,0,1,1,0, Full Time,hot,%P and %M with %T and %s,,
+250672,Robert,Warnock,CA,32,102,117,120,89,109,3,14,3,6,30,4,1,0,1, Full Time,hot,Started in ruck like a train... %P and %T with %M and %H... also %s,,
+220056,Chris,Judd,CA,31,97,108,125,78,109,13,12,3,6,0,3,3,1,1, Full Time,tagged,Tagged by Jackson... %O and %T plus %s,,
+240060,Eddie,Betts,CA,26,92,111,114,76,96,10,7,4,4,0,2,1,3,3, Full Time,news,Kicked %s from %O on Newman... also %T,,
+250090,Jordan,Russell,CA,13,79,87,100,67,90,12,10,7,1,0,1,1,0,0, Full Time,news,%P and %M,job,Has Nahas
+990059,Heath,Scotland,CA,13,79,89,98,71,97,10,14,7,1,0,1,2,0,1, Full Time,news,%D and %M plus %s,,
+240014,Andrew,Walker,CA,16,76,65,97,64,84,12,4,5,2,0,0,2,2,3, Full Time,news,Up forward on Rance... %s from %D and %M,,
+270899,Jeremy,Laidler,CA,10,68,77,89,51,66,7,6,4,5,0,3,0,0,0, Full Time,job,On Morton... %P,sore,Adductor problem in Q4
+270653,Jeff,Garlett,CA,15,57,80,74,44,58,7,2,2,4,0,0,1,2,1, Full Time,news,The first-gamer Conca on him... %s from %O and %T,,
+261009,Nick,Duigan,CA,5,51,59,67,41,57,8,5,4,2,0,0,1,0,0, Full Time,rookie,Having a devil of a time trying to be the loose man in front of Riewoldt... %D and %T,sore,Calf cramp in Q4
+270737,Shaun,Hampson,CA,11,50,63,63,48,59,6,1,5,1,12,0,3,1,2, Full Time,news,Started in attack on Astbury... %s from %P and %G... also %H,,
+220108,Bret,Thornton,CA,4,49,61,65,39,54,12,2,4,0,0,0,1,0,0, Full Time,news,%D and %M without doing anything to suggest he'll survive the return of Jamison and Bower,,
+260533,Dennis,Armfield,CA,9,43,64,57,33,45,6,2,2,3,0,0,1,1,0, Full Time,news,%P and %T with %M,,
+281079,Kane,Lucas,CA,3,39,40,52,29,39,4,3,3,3,0,0,0,0,0, Full Time,news,On in Q2 for Waite... %P and %T with %M,sub,Started as a sub
+270637,Simon,White,CA,2,32,45,43,26,36,6,2,3,1,0,0,1,0,0, Full Time,job,Not good enough to mind Riewoldt... %M and %P,,
+271110,Chris,Yarran,CA,1,21,32,29,13,18,4,0,0,2,0,1,0,0,0, Full Time,tagged,Forward tag on him by White in defence... %O,,
+220110,Jarrad,Waite,CA,0,14,15,18,13,19,1,3,1,1,0,0,1,0,1, Full Time,concussed,%s from %P on McGuane... got a whack in the head in Q2,subbed,Subbed off in Q2
+250395,Jack,Riewoldt,RI,38,106,122,87,87,101,11,0,6,4,1,1,0,6,1, Full Time,hot,Kicked %s from %P and %G on White who could do nothing about it,,
+240707,Daniel,Jackson,RI,26,95,95,68,73,102,14,8,1,7,0,3,3,2,0, Full Time,tagger,Tagged Judd... %P and %T with %F... also %s,,
+260146,Angus,Graham,RI,34,95,84,94,76,97,7,6,4,8,16,2,2,1,0, Full Time,heart,%H and %T with %P... left leg knock in Q1... also %s,,
+270896,Trent,Cotchin,RI,10,91,116,50,68,89,17,5,4,3,0,4,0,0,2, Full Time,news,%D and %M... plus %s,,
+210048,Chris,Newman,RI,10,88,132,43,66,90,18,5,5,2,0,1,0,0,0, Full Time,news,Plenty of rebound work early... %D and %M,job,Running off Betts
+250312,Bachar,Houli,RI,18,76,57,59,67,84,9,9,10,0,0,1,0,0,0, Full Time,news,%P and %M,,
+240336,Brett,Deledio,RI,9,74,92,51,57,78,11,8,4,3,0,1,0,0,0, Full Time,carrot,Tagged by Carrazzo... %O and %M,,
+250298,Shaun,Grigg,RI,9,68,69,33,57,81,13,10,4,0,0,0,1,0,0, Full Time,news,%O and %M,,
+260930,Shane,Edwards,RI,12,62,55,49,44,63,8,7,1,5,0,1,0,0,0, Full Time,spud,Provided precisely bugger all of anything on a wing... %O and %T,,
+290823,Reece,Conca,RI,12,61,61,36,50,66,11,4,6,1,0,1,1,0,0, Full Time,rookie,On a HBF... %D and %M,job,Minding Garlett
+240389,Matt,White,RI,20,60,62,60,45,60,5,4,3,6,0,1,1,1,0, Full Time,tagger,Forward tag on Yarran... %s from %P and %T with %M,,
+261362,Alex,Rance,RI,8,60,86,42,52,72,8,11,4,1,0,1,1,0,0, Full Time,job,Has Walker... %M and %D,,
+290847,Dustin,Martin,RI,7,59,76,27,44,66,13,5,1,3,0,1,2,0,0, Full Time,news,%O and %T,,
+250623,Robin,Nahas,RI,9,51,48,52,40,57,3,10,2,4,0,0,0,0,0, Full Time,lebanon,%P and %T with %M,,
+240412,Mitch,Morton,RI,10,49,55,40,41,54,6,2,3,3,0,0,2,2,0, Full Time,news,First goal... on Laidler... %s from %P and %M,,
+270941,Tyrone,Vickery,RI,10,48,61,35,44,55,6,4,3,1,7,2,2,1,0, Full Time,news,%H and %P with %s,,
+291437,Jake,Batchelor,RI,3,39,52,21,34,48,7,6,3,0,0,0,1,0,0, Full Time,rookie,%P,,
+290198,David,Astbury,RI,2,37,49,22,31,44,6,6,1,1,2,1,1,0,0, Full Time,job,Has the resting ruckman... %P,,
+240256,Luke,McGuane,RI,3,36,57,32,30,42,4,5,2,3,0,2,2,0,0, Full Time,job,Following Waite... %D,,
+293315,Bradley,Helbig,RI,2,31,13,19,26,36,5,5,1,1,0,2,1,0,0, Full Time,rookie,Barely sighted in the first half... %O,,
+240130,Nathan,Foley,RI,1,24,25,18,21,30,3,5,1,1,0,1,1,0,0, Full Time,missing,%2 Murphy... %B among %P... quiet in Q2,subbed,Subbed off in Q3
+260105,Daniel,Connors,RI,1,21,30,10,17,22,4,2,1,0,0,1,0,0,1, Full Time,news,On in Q3 for Foley,sub,Started as a sub

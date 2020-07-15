@@ -1,0 +1,48 @@
+Richmond,Tigers,Carlton,Blues,R2,14.14.98,12.14.86, Full Time
+Mar 27,2014,7.45,MCG,Seven,250395,10420201,rich-v-carl,0,A few showers,23,,
+
+<em style='color:#000'>RooBoyStu</em>: where's the muppet that said he had Deledio as vc during 2nd qtr lol<br><em style='color:#000'>matthius</em>: simpson played a good game. didn't see many clangers. that score is a disgrace and i don't have him<br><em style='color:#000' title="AJ11">aj11</em>: 287 off three :/ wtf cotchin<br><em style='color:#000'>greco272</em>: simpsons sc is a joke<br><em style='color:#000'>old_shepp</em>: Thomas for Thomas next week?<br><em style='color:#000'>spangle</em>: Terrible scores... Murph&#044; Cotch&#044; Simpson&#044; Thomas<br><em style='color:#000'>happychapp</em>: supercoach should be ashamed giving simpson 59<br><em style='color:#000'>theta</em>: sc bs<br><em style='color:#000'>Brown*Dog</em>: Bell 57 SC points your joking right!!<br><em style='color:#000'>Ewoks</em>: how the flower can kade get 59sc and warnock ton up after giving away the match winning goal?<br><em style='color:#000'>3rdstriker</em>: haha kade&#044; terrible kicking tonight<br><em style='color:#000'>LuvIt74</em>: SC rocks<br>
+240385,Matt,Thomas,RI,45,107,118,145,78,112,11,10,5,11,1,0,2,0,0, Full Time,hot,No defensive role tonight... %D and a massive %T. Also %M and %F frees against,,,266600,,250300,,Midfielder,26,1,108,121,1.47,1.82,0.00,271100,12
+293713,Brandon,Ellis,RI,25,93,93,121,75,98,14,4,6,4,0,1,2,2,2, Full Time,news,%D and %M with %T. Plus %s,tagger,Tagging Gibbs,432600,,440400,,Midfielder,5,1,50,46,2.55,1.71,0.00,429300,98
+290847,Dustin,Martin,RI,16,89,108,114,71,94,18,3,5,1,0,0,1,2,1, Full Time,news,Starting forward... Tuohy on him... %D with %K and %M. Plus %s,reported,Reported in 2nd term for striking White. Not much in it,530100,,549200,,Forward Midfielder,4,1,100,102,40.89,38.73,0.00,526000,95
+250360,Ricky,Petterd,RI,14,88,76,114,70,96,16,8,6,2,0,1,1,0,0, Full Time,news,Playing on the wing... %O and %M,,,398800,,410400,,Back,13,1,81,77,0.49,0.28,0.00,395700,68
+290198,David,Astbury,RI,18,85,91,114,68,87,17,1,10,1,0,1,1,0,0, Full Time,news,%D and %G,job,Has the job on Waite then Henderson,213000,,285900,,Back,12,1,58,62,0.46,0.66,0.00,179700,17
+250312,Bachar,Houli,RI,9,81,104,107,60,82,15,4,5,3,0,0,0,0,1, Full Time,news,%D and %M with %T,,,465400,,493800,,Back,14,1,73,68,2.64,1.79,0.00,461800,93
+270737,Shaun,Hampson,RI,16,79,107,91,69,83,4,10,2,3,26,3,0,0,0, Full Time,news,%H and %O with %T. Also %4 frees for,,,303200,,334100,,Ruck,16,1,82,107,3.45,4.16,0.00,294100,36
+270896,Trent,Cotchin,RI,20,79,84,98,68,94,15,10,4,0,1,1,2,1,0, Full Time,news,Curnow following him like usual... %D with %K and %M. Plus %s,,,515300,,572000,,Midfielder,9,1,127,118,19.08,17.85,0.00,511300,73
+294674,Nick,Vlastuin,RI,13,78,91,101,61,81,13,6,6,2,0,1,0,0,0, Full Time,news,Free wheeling off half back... %D and %M with %T,,,378500,,405200,,Back Midfielder,31,1,72,74,6.58,7.15,0.00,375600,68
+240336,Brett,Deledio,RI,15,74,92,93,60,84,10,10,3,3,0,0,1,1,0, Full Time,news,%2 Bell then Everitt went to him... Massive first term then slowed... %D and %M with %T. Plus %s,,,519000,,558800,,Midfielder,3,1,132,136,2.89,3.83,0.00,514900,71
+250298,Shaun,Grigg,RI,10,73,85,90,60,84,9,13,4,2,0,0,0,0,0, Full Time,news,%D and %M with %T,,,488400,,448200,,Midfielder,6,1,96,74,0.21,0.40,0.00,484600,85
+280747,Ben,Griffiths,RI,21,71,76,96,63,83,8,3,7,5,7,1,5,1,1, Full Time,x-factor,Playing as the second ruck... %D and %G with %T. Also %H plus %s,,,157300,,230300,,Back,24,1,73,68,8.27,2.81,0.00,135500,-6
+260930,Shane,Edwards,RI,14,69,75,85,58,80,13,8,3,0,0,0,1,1,2, Full Time,news,First goalscorer... %D and %M. Plus %s,,,374900,,421600,,Forward Midfielder,10,1,65,76,0.77,0.54,0.00,372000,71
+250395,Jack,Riewoldt,RI,21,68,78,89,50,65,6,4,3,6,0,1,0,1,2, Full Time,news,Jamison standing him... %s from %D and %G. Plus %T,,,403500,,458500,,Forward,8,1,50,36,2.37,2.62,0.00,400300,89
+210048,Chris,Newman,RI,8,66,86,86,51,69,13,4,5,1,0,0,0,0,0, Full Time,switch,Switched back late to help fight the onslaught... %O and %M,,,367200,,399400,,Back,1,1,70,56,0.95,1.42,0.00,364300,65
+290823,Reece,Conca,RI,8,64,54,82,52,72,12,7,4,1,0,1,1,0,0, Full Time,news,%O and %M,,,438700,,438300,,Midfielder,30,1,97,99,0.34,0.43,0.00,435300,69
+270941,Tyrone,Vickery,RI,16,62,101,74,54,61,6,1,4,1,0,1,0,4,1, Full Time,target,Rowe on him... %s from %D and %G,,,376700,,431200,,Forward,29,1,70,61,0.75,0.77,0.00,373700,68
+240180,Troy,Chaplin,RI,4,57,71,73,46,60,9,5,5,1,0,1,0,0,0, Full Time,news,Range of opponents early... %D and %G,,,333000,,368600,,Back,25,1,48,63,0.81,1.14,0.00,330400,69
+271437,Jake,King,RI,13,48,47,62,35,48,3,5,1,5,0,0,0,1,0, Full Time,news,White sticking to him... %D with %T plus %s,subbed,Subbed out late 3rd term,296600,,367100,,Forward,28,0,0,0,0.73,0.56,0.00,294300,54
+240130,Nathan,Foley,RI,3,33,38,41,29,42,4,7,2,1,0,0,1,0,0, Full Time,news,Unlikely to be the axle of the team tonight... On late 3rd term... %D and %M with %T,sub,Started as a sub,398400,,386000,,Midfielder,41,1,24,25,0.43,0.69,0.00,395300,105
+280819,Dylan,Grimes,RI,1,23,22,30,19,24,2,2,3,1,0,0,0,0,0, Full Time,job,On Everitt... %O and %M,,,238300,,256900,,Back,2,0,0,0,0.45,0.79,0.00,222300,41
+260433,Steven,Morris,RI,1,17,33,22,17,27,2,5,1,1,0,0,2,0,0, Full Time,job,Has Garlett... %O,,,224500,,273500,,Back,38,1,43,43,1.98,3.04,0.00,222700,40
+270146,Ed,Curnow,CA,36,117,101,103,88,123,13,12,7,9,0,0,1,0,0, Full Time,hot,%D including %B with %M and %T,tagger,Tagging Cotchin as usual,398500,,411400,,Midfielder,35,1,94,115,0.27,0.23,0.00,395400,59
+250105,Marc,Murphy,CA,15,103,121,56,78,107,19,9,4,3,0,2,0,0,2, Full Time,magnet,Running free tonight... %D and %M with %T. Plus %s,,,467200,,498300,,Midfielder,3,1,89,122,9.45,13.57,0.00,463500,83
+271110,Chris,Yarran,CA,22,103,108,64,83,103,16,5,5,2,0,3,0,3,1, Full Time,star,%O and %M with %T. Plus %s,switch,Started on King but then moved forward in Q2,331800,,357100,,Forward,13,1,60,69,1.19,1.52,0.00,329200,61
+230202,Kade,Simpson,CA,20,96,61,46,74,99,20,3,6,2,0,1,1,1,0, Full Time,news,Free wheeling off half back... %O which includes %K and %M with %T. Plus %s,,,465600,,513200,,Back,6,1,84,105,14.62,7.36,0.00,461900,86
+220110,Jarrad,Waite,CA,20,88,104,72,67,84,11,2,7,5,0,1,0,1,3, Full Time,switch,Astbury had him then switching back and forth in the 2nd half.. %s from %D and %G with %T,job,Mainly on Griffiths,375600,,406300,,Forward,30,1,58,73,0.90,0.84,0.00,372600,76
+290311,Mitch,Robinson,CA,13,86,62,56,71,96,13,11,7,1,0,0,0,0,0, Full Time,news,%D and %G,,,414900,,434600,,Forward Midfielder,12,1,69,55,1.41,1.06,0.00,411600,80
+294691,Tom,Bell,CA,19,86,55,56,73,96,13,9,7,1,0,1,1,1,0, Full Time,news,%2 Deledio... %D and %M. Plus %s,,,276700,,311400,,Midfielder,28,1,62,61,1.30,1.18,0.00,277600,44
+240359,Dale,Thomas,CA,14,81,92,56,63,90,12,11,3,4,0,1,1,0,0, Full Time,news,Started very slowly... %D and %M with %T,,,328600,,341800,,Midfielder,39,1,65,62,34.91,42.19,0.00,346400,63
+250672,Robert,Warnock,CA,21,79,118,69,67,84,6,8,0,4,30,2,1,0,0, Full Time,news,%H and %D. Plus %T with %4 frees for,,,384600,,474700,,Ruck,11,1,46,64,0.61,0.44,0.00,381600,86
+261257,Andrejs,Everitt,CA,16,79,81,59,58,75,11,2,3,5,0,1,0,2,0, Full Time,news,Grimes has him then moved to Deledio... %D with %M and %T. Plus %s,,,328100,,342000,,Back,33,1,59,74,1.67,4.05,0.00,325500,61
+291777,Dylan,Buckley,CA,19,76,86,60,56,78,10,8,2,6,0,3,1,0,0, Full Time,sore,Rolled left ankle in 2nd term... %D and %M with %T,in,Late replacement for Matthew Kreuzer,120200,,133800,,Midfielder,7,0,0,0,1.17,2.01,0.00,135500,25
+270326,Lachie,Henderson,CA,10,70,81,52,56,72,10,4,8,2,0,0,0,0,0, Full Time,news,Astbury on him... %D and %G with %T,,,375400,,449400,,Back Forward,23,1,25,47,1.68,2.55,0.00,372500,97
+270653,Jeff,Garlett,CA,11,68,68,38,53,69,13,0,5,2,0,0,1,1,3, Full Time,news,Morris on him... %s from %D and %M,,,389200,,421800,,Forward,38,1,45,42,0.80,0.66,0.00,386200,88
+250417,Bryce,Gibbs,CA,20,61,69,58,44,61,5,7,0,6,1,1,0,1,0, Full Time,tagged,Tagged by Ellis... %D and %T with a score saving %T,,,485300,,514700,,Midfielder,4,1,93,99,1.10,0.91,0.00,481500,86
+293154,Troy,Menzel,CA,10,54,69,29,44,57,10,1,3,1,0,0,1,2,0, Full Time,news,%D and %M with %s,,,260400,,231900,,Forward,2,1,7,4,1.25,3.11,0.00,227300,65
+261258,David,Ellard,CA,14,49,39,51,35,49,4,4,2,6,0,1,1,0,1, Full Time,news,%D with a fantastic %T,,,228700,,220100,,Midfielder,46,1,100,120,0.82,0.84,0.00,224100,3
+292511,Zach,Tuohy,CA,5,47,45,34,36,48,7,3,4,2,0,0,0,0,0, Full Time,job,On Martin early... %D and %M with %T,,,287000,,349400,,Back,42,1,42,47,1.40,1.62,0.00,284800,59
+270637,Simon,White,CA,4,41,47,34,34,45,5,4,4,2,0,1,1,0,0, Full Time,switch,Switching back and forth... %D and %M with %T,crown,Has King when back,247600,,315800,,Back,43,0,0,0,0.19,0.20,0.00,238300,44
+260278,Sam,Rowe,CA,4,34,53,29,32,45,4,4,3,2,6,0,3,0,0, Full Time,job,Following Vickery and relief in the ruck for Warnock... %D and %M plus %H. Also %F frees against,in,Late replacement for Matthew Watson,307500,,324200,,Forward Ruck,17,0,0,0,0.60,0.87,0.00,305100,56
+261043,Michael,Jamison,CA,2,30,58,24,20,28,4,2,0,3,0,1,0,0,1, Full Time,news,No stats in Q1... %D and %T,job,Has the job on Riewoldt,260700,,348400,,Back,40,1,48,67,0.91,0.65,0.00,258700,48
+281079,Kane,Lucas,CA,1,24,42,12,17,24,5,1,1,1,0,0,0,0,0, Full Time,news,On late in the 3rd... %D,sub,Started as a sub,380500,,376900,,Midfielder,9,0,0,0,0.20,0.30,0.00,377500,70
+240028,Brock,McLean,CA,1,19,10,13,17,24,2,6,0,0,0,1,0,0,0, Full Time,mare,Had an absolute mare... %D,subbed,Subbed out late 3rd term,472700,,463100,,Midfielder,14,1,58,54,0.27,0.32,0.00,469000,105

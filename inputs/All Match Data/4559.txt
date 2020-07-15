@@ -1,0 +1,48 @@
+Brisbane,Lions,St Kilda,Saints,R19,16.12.108,11.11.77, Full Time
+Aug 03,2013,7.40,Gabba,Seven,270919,10391906,bl-v-stk,0,Fine,23,,
+
+<em style='color:#a0a'>Karlpov</em>: How many PNG's can I win?<br><em style='color:#000'>bgenocks</em>: thanks for the bin roo!<br><em style='color:#000'>cusch1</em>: start scoring staker you are on my field<br><em style='color:#000'>HydeSide</em>: @connor:coin?<br><em style='color:#a0a'>ConnorZ1</em>: stop scoring lee you are no help on my bench <br><em style='color:#000'>santaclara</em>: HawkatackL insanity<br><em style='color:#000'>Mcswains</em>: come on Roo more junk please :)<br><em style='color:#000'>HydeSide</em>: good boy roo couple more mate<br><em style='color:#000'>jpk2goodes</em>: rockliff for star&#044; gun and cherry<br><em style='color:#000'>Hawkatack</em>: upgrading Ablett to Monangna next week<br><em style='color:#000'>matthius</em>: montagna 1 possession last qtr. aint no premo!!<br><em style='color:#000'>123wce</em>: hanley for gun?<br>
+270919,Tom,Rockliff,BL,38,144,166,183,110,156,18,21,5,8,0,1,0,0,0, Full Time,star,%P including %B with %T and %M,,,462100,84,523900,86,Forward Centre,38,16,95.8,102.3,36.28,29.96
+281373,Jack,Redden,BL,31,122,126,158,102,139,18,14,10,4,1,2,3,0,0, Full Time,magnet,%2 Armitage... %O with %b by hand... also %M and %T... %F as well,,,432700,83,493200,89,Centre,30,17,94.1,97.5,1.79,0.96
+270512,Pearce,Hanley,BL,27,105,108,132,92,124,15,12,8,2,0,0,3,2,1, Full Time,gun,%2 Ray... %P and %M plus %T and %s,,,413600,87,463100,70,Back,11,15,89.2,99.8,12.62,19.76
+250335,Matthew,Leuenberger,BL,27,100,110,117,89,105,7,7,6,2,39,0,0,0,0, Full Time,hot,%H and %P with %M and %T,,,426800,82,493900,102,Ruck,23,15,85.5,99.3,16.12,15.00
+240087,Jed,Adcock,BL,15,98,90,123,77,109,15,14,4,3,0,0,0,0,1, Full Time,news,%D and %T with %M,,,374600,101,433500,83,Back,7,17,80.4,88.5,3.26,2.98
+220062,Matt,Maguire,BL,20,90,86,118,74,96,14,4,8,3,2,1,2,1,1, Full Time,switch,Has Lee... swtiched forward in Q3... %M and %O with %T... also %s and %F,job,,325400,77,391300,62,Back,36,6,67.8,78.3,0.34,0.20
+230147,Daniel,Merrett,BL,24,89,125,106,79,95,10,8,7,0,1,2,0,3,1, Full Time,news,%s from %D and %M starting forward on Roberton,,,259200,50,344100,80,Back Forward,21,13,54.8,70,1.61,1.42
+230170,Joel,Patfull,BL,15,83,106,106,68,90,11,9,8,2,0,0,0,0,0, Full Time,job,Following Riewoldt... %P and %M,,,262900,22,347800,32,Back,24,17,55.8,70.3,1.66,1.21
+271072,Daniel,Rich,BL,20,81,96,99,67,90,10,9,2,3,0,0,1,3,0, Full Time,x-factor,Tagged by Jones... %P and %T plus %s,,,340800,101,420000,113,Centre,10,11,66.5,83.3,1.00,1.36
+281048,Ryan,Harwood,BL,10,76,66,98,58,81,14,7,4,2,0,0,0,0,0, Full Time,job,Milne is his man... %D and %M,,,271000,41,298900,35,Back,2,8,56.9,61.4,0.18,0.20
+293603,Sam,Mayes,BL,18,73,42,97,57,78,8,7,6,5,0,0,1,0,0, Full Time,news,%2 Saunders off a wing... %D and %T with %M,,,334900,74,379800,116,Forward Centre,32,13,71,69.4,17.83,13.37
+292128,Elliot,Yeo,BL,13,71,81,93,59,78,12,5,8,1,0,0,1,0,0, Full Time,news,%P and %M,job,Responsible for Saad,254900,53,298100,52,Back,26,14,55.1,60.6,0.56,0.50
+281329,Rohan,Bewick,BL,13,70,73,91,55,71,11,4,6,2,0,1,0,0,2, Full Time,news,On in Q1 for Brown... %s from %O,sub,Started as a sub,301900,64,315000,63,Forward,8,15,66.2,66.4,0.69,0.77
+280572,Jesse,O'Brien,BL,16,69,63,90,54,73,9,5,4,4,0,0,1,1,1, Full Time,news,%D and %M with %T,,,159700,,136400,,Centre,34,0,0,0,0.27,0.58
+295162,Justin,Clarke,BL,14,66,56,87,57,72,9,4,10,1,0,0,1,0,0, Full Time,job,On Stanley then moved to Lee in Q3... %M and %D,,,178600,36,253700,42,Back,42,12,44,54.8,1.68,3.29
+290110,Mitchell,Golby,BL,8,61,57,76,50,69,9,9,4,1,0,0,0,0,0, Full Time,news,%2 Dal Santo... %P and %M,,,346600,79,358500,71,Back,41,14,73.8,75.1,0.73,0.48
+295518,Sam,Docherty,BL,13,55,73,66,47,63,8,8,3,0,0,0,0,1,0, Full Time,news,%O and %M plus %s,,,181200,35,193700,46,Back,1,9,41.2,44,7.33,11.02
+290748,Joshua,Green,BL,14,53,38,71,38,54,7,3,1,5,0,0,1,1,0, Full Time,news,%s from %P and %T on Dunell,,,221000,45,266600,47,Forward,6,12,50.7,54,0.72,0.48
+261224,Dayne,Zorko,BL,10,51,52,65,44,60,7,5,3,2,1,0,2,1,2, Full Time,news,%s from %O and %M starting forward on Geary... also %T and %F,,,322900,68,395600,76,Forward Centre,15,17,73.4,84.3,12.72,14.96
+230211,Brent,Staker,BL,15,47,42,57,43,51,6,1,4,0,0,0,1,3,0, Full Time,sore,%s from %D on Simpkin... corked left quad in a clash with Dempster in Q2,,,318400,61,428400,92,Back Forward,14,10,65.7,84.8,35.09,46.58
+240013,Andrew,Raines,BL,4,31,14,40,28,42,3,7,2,2,0,0,2,0,0, Full Time,tagger,Tagging Steven... %P and %T,,,218700,50,225800,55,Centre,29,13,50.2,47.2,0.56,0.57
+200007,Jonathan,Brown,BL,0,8,7,10,7,9,1,1,1,0,0,0,0,0,0, Full Time,injured,%D... left plantar fascia injury in Q1,subbed,Subbed off in Q1 for Bewick,338400,102,347600,93,Forward,16,14,68.1,67.3,1.20,1.46
+220023,Nick,Dal Santo,SK,22,116,115,61,91,122,21,10,4,2,3,2,0,1,2, Full Time,hot,%2 Golby... %O and %M with %T... also %s,,,418300,75,526500,70,Centre,26,17,85.4,94.9,1.79,2.17
+220075,Leigh,Montagna,SK,25,112,128,57,89,117,21,7,6,1,0,1,0,2,0, Full Time,hot,%O and %M plus %s,,,489500,70,525100,59,Centre,11,16,107.1,109.6,4.00,1.39
+250340,David,Armitage,SK,25,108,104,74,88,122,16,14,6,4,0,2,2,0,2, Full Time,hot,%2 Armitage... %D including %K with %T and %M... also %s and %F,,,429900,127,469100,142,Centre,20,16,89.7,93.8,0.74,1.04
+210001,Nick,Riewoldt,SK,21,89,71,68,74,92,11,5,8,2,0,0,0,2,2, Full Time,garbage,Booted %s from %P and %M on Patfull... %T as well... all of his goals in late Q4 junk time,,,449000,127,475400,90,Forward,12,16,99.8,104.4,20.99,10.27
+280933,Dylan,Roberton,SK,13,84,95,61,66,87,12,7,7,3,0,1,0,0,0, Full Time,news,%P and %M with %T,job,Has Merrett,268200,69,308500,84,Back,17,16,65.1,75.2,3.68,4.98
+240062,Farren,Ray,SK,14,82,76,62,67,91,11,9,7,3,1,0,1,0,0, Full Time,news,%2 Hanley... %P and %T with %M,,,373000,91,385800,93,Centre,22,14,79.4,75.7,0.39,0.39
+230243,Sean,Dempster,SK,18,81,84,66,65,87,10,8,7,4,0,1,1,0,0, Full Time,news,%P and %M plus %T,,,278300,53,357100,73,Back,24,14,60.4,68.1,0.57,0.59
+290422,Tom,Lee,SK,15,81,97,60,65,82,10,6,3,3,3,2,0,2,1, Full Time,news,%s from %D and %T... Maguire on him then got Clarke in Q3,,,210000,50,256900,46,Forward,9,6,49.2,57.7,13.15,14.38
+270912,Jack,Steven,SK,19,79,98,58,58,78,11,6,2,5,0,2,0,1,0, Full Time,news,%P and %T plus %M and %s,rain,Tagged by Raines,451000,55,574900,83,Centre,3,17,95.4,107.6,1.49,1.82
+990028,Lenny,Hayes,SK,10,78,101,56,64,85,10,12,4,2,1,3,0,0,0, Full Time,news,%O and %M,,,423800,96,450000,82,Centre,7,10,89.4,91.5,0.66,0.77
+261323,Ben,McEvoy,SK,11,65,94,59,57,69,4,7,2,2,24,1,0,0,0, Full Time,news,%H and %D with %M and %T,,,360300,81,459700,100,Ruck,5,17,78.7,98.2,3.90,6.20
+296459,Sam,Dunell,SK,12,65,66,32,52,69,13,4,6,0,0,0,0,0,0, Full Time,job,Matched up on Green... %P and %M,,,217800,53,215000,44,Centre,38,3,47.7,51.3,0.27,0.47
+291518,Thomas,Curren,SK,8,60,52,39,49,66,9,8,4,1,0,1,0,0,0, Full Time,news,%D and %M with %T,,,108500,24,115900,,Centre,43,2,23.5,36,0.58,0.78
+290757,Jimmy,Webster,SK,8,58,74,38,47,63,9,6,5,1,0,0,0,0,0, Full Time,news,%O and %M,,,187200,30,188200,8,Back,29,9,42.2,42.4,2.71,4.16
+261743,Clinton,Jones,SK,7,56,67,30,42,60,10,8,0,2,0,2,0,0,0, Full Time,tagger,Tagging Rich... %O,,,362900,68,384100,67,Centre,4,14,78.9,82.6,0.30,0.38
+295477,Josh,Saunders,SK,4,54,49,42,41,57,7,6,3,3,0,0,0,0,0, Full Time,news,%2 Mayes off a wing... %P and %T with %M,,,189000,12,183700,21,Back Centre,35,7,43.4,38.6,5.59,4.69
+200108,Stephen,Milne,SK,10,48,46,26,43,57,9,3,5,0,0,0,2,1,0, Full Time,news,%s from %D and %M on Harwood,,,265800,91,283600,102,Forward,44,13,52.2,54.6,0.92,1.14
+260113,Jarryn,Geary,SK,4,40,47,26,34,45,6,5,4,0,0,0,0,0,0, Full Time,news,%P and %M,,,315800,75,363600,76,Back,14,16,65.4,75.6,1.81,2.24
+280317,Rhys,Stanley,SK,3,40,46,38,33,41,3,4,3,2,4,1,0,0,1, Full Time,concussed,%s from %D and %M on Clarke... also %T and %H.... had his head slam into the turf in a marking contest in Q2 leaving him woozy,subbed,Subbed off in Q3 for Siposs,179500,88,216900,80,Forward,28,17,46,56.9,0.92,0.71
+293815,Arryn,Siposs,SK,3,29,37,28,28,39,1,10,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Stanley... %D including %b by hand,sub,Started as a sub,225800,94,246600,101,Forward,2,8,48.4,52.1,0.44,0.81
+280053,Tom,Simpkin,SK,2,28,43,12,24,34,6,3,2,0,1,0,1,0,0, Full Time,job,On Staker... %P and %M,,,215800,53,272900,46,Back,31,4,35,48.8,0.24,0.39
+294818,Ahmed,Saad,SK,7,28,32,22,23,27,3,0,1,1,0,0,0,2,0, Full Time,news,%s from %O on Yeo,in,Late replacement for Jack Newnes,213200,61,217400,52,Forward,21,12,46.8,48.1,1.05,1.14

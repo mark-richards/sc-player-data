@@ -1,0 +1,48 @@
+Carlton,Blues,Collingwood,Magpies,R1,7.4.46,1.5.11, Full Time
+Feb 3,2017,7.40,Princes Park,Seven,,100640101,,0,Fine,27,,
+#####
+
+1003020,Brianna,Davey,CA,19,76,0,94,65,93,15,11,3,0,0,0,2,1,0, Full Time,magnet,Worked hard to run to receive from defence... %s from %O and %M,guard,Starting in a BP,416400,0,407900,102,Forward,1,12,70.08,76.33,0.38,0.83,0.68,397000,108,,8,1,5,77,0
+997663,Darcy,Vescio,CA,17,73,0,89,61,76,10,3,2,2,0,1,1,4,1, Full Time,star,The superstar of the evening with fabulous skills at times... %s from %O and %M plus %T,pocket,Starting deep forward,416400,0,407900,102,Forward,3,12,70.08,76.33,0.38,0.83,0.68,397000,108,,12,1,2,69,0
+296158,Bianca,Jakobsson,CA,15,72,0,90,59,78,9,8,5,2,0,0,0,1,0, Full Time,hot,%s from %P and %M plus %T,spearhead,Playing key forward,416400,0,407900,102,Forward,35,12,70.08,76.33,0.38,0.83,0.68,397000,108,,8,1,3,35,0
+998154,Lauren,Arnell,CA,10,63,0,79,50,67,7,7,3,3,0,0,0,1,1, Full Time,hot,%s from %O and %M plus %T,shovel,In the engine room,416400,0,407900,102,Forward,13,12,70.08,76.33,0.38,0.83,0.68,397000,108,,5,0,2,64,0
+1007003,Alison,Downie,CA,13,54,0,67,42,52,4,3,1,4,16,1,0,0,0, Full Time,ruck,%P and %T... First ruck,,,416400,0,407900,102,Forward,30,12,70.08,76.33,0.38,0.83,0.68,397000,108,,5,1,0,71,0
+1006996,Lauren,Brazzale,CA,9,51,0,70,36,51,9,2,2,4,0,1,1,0,0, Full Time,wing,%O including %K... also %T and %M... Playing in midfield,,,416400,0,407900,102,Forward,12,12,70.08,76.33,0.38,0.83,0.68,397000,108,,4,1,4,46,0
+296143,Danielle,Hardiman,CA,5,48,0,65,37,51,9,2,4,2,0,0,1,0,0, Full Time,job,%O with %k by foot... also %M and %T... Holding down FB on Hope,,,416400,0,407900,102,Forward,31,12,70.08,76.33,0.38,0.83,0.68,397000,108,,9,0,3,64,0
+1007017,Tilly,Lucas-Rodd,CA,7,43,0,59,29,43,6,3,0,5,0,1,1,0,1, Full Time,wing,%s from %D and %T... Playing midfield,,,416400,0,407900,102,Forward,18,12,70.08,76.33,0.38,0.83,0.68,397000,108,,2,0,2,56,0
+1007137,Nat,Exon,CA,8,40,0,52,28,42,4,6,0,4,0,0,0,0,0, Full Time,injured,Corked thigh after a hot start... %P and %T,wing,Playing midfield,416400,0,407900,102,Forward,15,12,70.08,76.33,0.38,0.83,0.68,397000,108,,4,1,0,50,0
+997678,Madeline,Keryk,CA,14,40,0,59,31,54,7,5,0,6,0,0,5,0,0, Full Time,shovel,%D and %T... conceded %F... Starting in inside midfield,,,416400,0,407900,102,Forward,4,12,70.08,76.33,0.38,0.83,0.68,397000,108,,8,4,7,33,0
+1007026,Gabriella,Pound,CA,7,38,0,53,25,36,5,2,0,5,0,2,1,0,0, Full Time,wing,%D with %k by foot... also %T... Rotating forward,,,416400,0,407900,102,Forward,6,12,70.08,76.33,0.38,0.83,0.68,397000,108,,6,0,3,71,0
+1007016,Katie,Loynes,CA,7,36,0,48,24,36,4,4,0,4,0,0,0,0,0, Full Time,wing,%D and %T... Playing in midfield,,,416400,0,407900,102,Forward,2,12,70.08,76.33,0.38,0.83,0.68,397000,108,,5,1,0,38,0
+1007023,Breann,Moody,CA,3,33,0,40,27,32,2,1,1,2,14,0,0,0,0, Full Time,ruck,%O and %T... Rotating in ruck,,,416400,0,407900,102,Forward,16,12,70.08,76.33,0.38,0.83,0.68,397000,108,,0,0,0,67,0
+997664,Shae,Audley,CA,7,32,0,43,21,30,3,3,0,4,0,1,0,0,0, Full Time,shovel,%O and %T... Playing inside midfield,,,416400,0,407900,102,Forward,26,12,70.08,76.33,0.38,0.83,0.68,397000,108,,6,3,0,50,0
+1007135,Jessica,Kennedy,CA,2,28,0,37,22,33,4,4,1,2,0,0,1,0,0, Full Time,wing,%O and %T... Rotating through midfield,,,416400,0,407900,102,Forward,23,12,70.08,76.33,0.38,0.83,0.68,397000,108,,2,1,2,62,0
+1006666,Sarah,Hosking,CA,13,27,0,40,20,33,1,4,0,6,0,1,3,0,0, Full Time,shovel,%P including %B... also %T... gave away %F... Starting in midfield,,,416400,0,407900,102,Forward,10,12,70.08,76.33,0.38,0.83,0.68,397000,108,,5,1,4,40,0
+1007133,Alison,Brown,CA,2,25,0,33,18,24,3,2,1,2,0,1,0,0,0, Full Time,wing,%D and %T... Rotating through midfield,,,416400,0,407900,102,Forward,27,12,70.08,76.33,0.38,0.83,0.68,397000,108,,3,0,0,40,0
+1007012,Sarah,Last,CA,1,23,0,29,20,30,5,4,1,0,0,0,1,0,0, Full Time,job,%D... Running from defence,,,416400,0,407900,102,Forward,7,12,70.08,76.33,0.38,0.83,0.68,397000,108,,5,0,3,78,0
+997695,Katherine,Gillespie-Jones,CA,3,23,0,29,24,39,1,9,1,2,0,0,3,0,0, Full Time,shovel,%O with %b by hand... also %T... conceded %F... Playing inside midfield,,,416400,0,407900,102,Forward,5,12,70.08,76.33,0.38,0.83,0.68,397000,108,,5,1,3,90,0
+997662,Laura,Attard,CA,1,16,0,20,13,18,3,2,1,0,0,0,0,0,0, Full Time,guard,%O... Playing a lockdown defender role,,,416400,0,407900,102,Forward,14,12,70.08,76.33,0.38,0.83,0.68,397000,108,,4,0,1,100,0
+1007025,Natalie,Plane,CA,0,3,0,4,2,3,1,0,0,0,0,0,0,0,0, Full Time,injured,Ankle injury,shovel,Playing inside midfield,416400,0,407900,102,Forward,32,12,70.08,76.33,0.38,0.83,0.68,397000,108,,0,0,0,100,0
+997715,Isabella,Ayre,CA,0,2,0,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,spearhead,Playing tall forward,,,416400,0,407900,102,Forward,22,12,70.08,76.33,0.38,0.83,0.68,397000,108,,0,0,0,100,0
+1007024,Tara,Morgan,CO,20,64,0,58,40,54,8,0,2,8,0,2,0,0,0, Full Time,hot,%D including %B... also %T and %M,job,Rotating through the defence,416400,0,407900,102,Forward,26,12,70.08,76.33,0.38,0.83,0.68,397000,108,,5,1,2,38,0
+997683,Amelia,Barden,CO,8,62,0,49,44,60,8,6,1,5,0,3,0,0,0, Full Time,hot,%O and %T... umps paid him %4FF,shovel,Starting in the guts,416400,0,407900,102,Forward,38,12,70.08,76.33,0.38,0.83,0.68,397000,108,,12,6,1,36,0
+998029,Alicia,Eva,CO,19,59,0,58,37,54,6,3,1,8,0,0,0,0,0, Full Time,guard,%D and %T... Coming off a HFF,,,416400,0,407900,102,Forward,2,12,70.08,76.33,0.38,0.83,0.68,397000,108,,4,3,1,22,0
+998164,Nicola,Stevens,CO,20,59,0,63,40,54,5,2,3,8,0,2,1,0,0, Full Time,job,%O with %k by foot... also %T and %M... Starting at CHB,,,416400,0,407900,102,Forward,21,12,70.08,76.33,0.38,0.83,0.68,397000,108,,5,0,1,71,0
+997729,Brittany,Bonnici,CO,19,56,0,60,37,54,5,3,1,9,0,2,2,0,0, Full Time,wing,%O and %T... Playing in midfield,,,416400,0,407900,102,Forward,8,12,70.08,76.33,0.38,0.83,0.68,397000,108,,3,0,5,50,0
+1004400,Sarah,D'Arcy,CO,4,55,0,32,43,57,10,4,3,2,0,3,1,0,0, Full Time,spearhead,%O including %K... also %M and %T... aided by %4FF... Starting forward,,,416400,0,407900,102,Forward,4,12,70.08,76.33,0.38,0.83,0.68,397000,108,,9,0,4,64,0
+998159,Caitlyn,Edwards,CO,9,54,0,40,38,52,8,3,2,4,0,1,0,0,1, Full Time,guard,%s from %P and %M plus %T... Running off a HBF,,,416400,0,407900,102,Forward,1,12,70.08,76.33,0.38,0.83,0.68,397000,108,,7,2,2,54,0
+296154,Jasmine,Garner,CO,9,48,0,39,36,45,6,1,3,3,0,1,0,1,0, Full Time,spearhead,First goal... %s from %O and %M plus %T... Starting at CHF,,,416400,0,407900,102,Forward,43,12,70.08,76.33,0.38,0.83,0.68,397000,108,,4,0,0,86,0
+997688,Meg,Hutchins,CO,4,45,0,22,33,46,10,0,3,2,1,0,1,0,0, Full Time,guard,%O with %b by hand... also %M and %T... Starting in defence,,,416400,0,407900,102,Forward,25,12,70.08,76.33,0.38,0.83,0.68,397000,108,,2,0,1,90,0
+1001684,Cecilia,McIntosh,CO,8,43,0,38,30,42,5,3,2,4,0,0,0,0,0, Full Time,guard,%O and %M plus %T... Playing small defender,,,416400,0,407900,102,Forward,20,12,70.08,76.33,0.38,0.83,0.68,397000,108,,2,0,0,62,0
+998048,Bree,White,CO,8,43,0,33,29,42,6,4,0,4,0,1,0,0,0, Full Time,wing,%O and %T... Playing outside midfield,,,416400,0,407900,102,Forward,33,12,70.08,76.33,0.38,0.83,0.68,397000,108,,7,3,1,30,0
+998158,Stephanie,Chiocci,CO,2,42,0,28,29,40,7,2,1,3,0,1,0,0,1, Full Time,concussed,Copped a head knock... %s from %D and %T,guard,Starting on a HBF,416400,0,407900,102,Forward,17,12,70.08,76.33,0.38,0.83,0.68,397000,108,,7,1,1,56,0
+1007027,Ruby,Schleicher,CO,8,39,0,41,29,40,2,5,0,4,7,0,0,0,0, Full Time,spearhead,%O including %B... also %T... Playing a ruck/forward role,,,416400,0,407900,102,Forward,18,12,70.08,76.33,0.38,0.83,0.68,397000,108,,3,0,2,43,0
+1001686,Emma,King,CO,8,38,0,29,34,41,4,1,1,1,20,0,1,0,0, Full Time,ruck,%P with %k by foot... First ruck,,,416400,0,407900,102,Forward,60,12,70.08,76.33,0.38,0.83,0.68,397000,108,,1,0,1,80,0
+1007015,Stacey,Livingstone,CO,3,37,0,30,26,36,5,2,2,3,0,0,0,0,0, Full Time,sore,Hurt a shoulder... %O with %k by foot... also %T and %M,job,Playing tall defender,416400,0,407900,102,Forward,12,12,70.08,76.33,0.38,0.83,0.68,397000,108,,4,1,1,57,0
+1005864,Jessica,Cameron,CO,2,34,0,18,27,34,7,0,3,1,0,2,1,0,1, Full Time,spearhead,%s from %D and %M... Playing tall forward,,,416400,0,407900,102,Forward,27,12,70.08,76.33,0.38,0.83,0.68,397000,108,,4,0,2,57,0
+1006649,Helen,Roden,CO,6,34,0,36,21,30,3,1,1,5,0,0,0,0,0, Full Time,sore,Shoulder problem... %O and %T,wing,Rotating between midfield and forward line,416400,0,407900,102,Forward,11,12,70.08,76.33,0.38,0.83,0.68,397000,108,,1,0,0,25,0
+1004401,Emma,Grant,CO,6,25,0,27,15,21,2,1,0,4,0,1,0,0,0, Full Time,injured,Concussed in a clash in Q2... did not return after HT... %O and %T,wing,Rotating forward and midfield,416400,0,407900,102,Forward,5,12,70.08,76.33,0.38,0.83,0.68,397000,108,,3,1,2,67,0
+997680,Christina,Bernardi,CO,1,25,0,18,19,24,4,0,3,1,0,0,0,0,0, Full Time,pocket,%O and %M... Starting deep forward,,,416400,0,407900,102,Forward,6,12,70.08,76.33,0.38,0.83,0.68,397000,108,,1,0,5,50,0
+1006990,Lauren,Tesoriero,CO,6,24,0,31,15,24,1,2,0,5,0,0,1,0,0, Full Time,pocket,%O and %T... Playing a FP role,,,416400,0,407900,102,Forward,7,12,70.08,76.33,0.38,0.83,0.68,397000,108,,3,1,2,33,0
+1007139,Sophie,Casey,CO,2,22,0,22,18,24,2,2,2,2,0,1,1,0,0, Full Time,wing,%O and %M plus %T... Starting forward,,,416400,0,407900,102,Forward,22,12,70.08,76.33,0.38,0.83,0.68,397000,108,,3,0,3,25,0
+997672,Moana,Hope,CO,0,17,0,17,14,19,1,3,1,1,0,0,0,0,1, Full Time,mare,Not the way she was hoping the night would turn out... had terrible supply... %s from %P,spearhead,Starting deep forward on Hardiman,416400,0,407900,102,Forward,23,12,70.08,76.33,0.38,0.83,0.68,397000,108,,4,0,0,50,0

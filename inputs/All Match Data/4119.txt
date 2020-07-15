@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,West Coast,Eagles,R15,13.6.84,12.14.86, Full Time
+Jul 7,2012,1:45,Hobart,Seven,280944,10341502,430126,0,Sunny,14,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Rockafella</em>: Love west coast&#044; love Priddis and love big cox<br><em>pharace</em>: Getting seriously sick of SC score anomolies&#044; re Swallow vs Priddis<br><em>lock98</em>: NicNat x factor.<br><em>Sydney14</em>: Priddis got the game medal<br><em>shavedape</em>: Waters looks to be limping SH!T<br><em>Bunta</em>: Where's Cam Pedersen?<br><em>Jormas</em>: X2 tonne. One of many in cox's past.<br><em>matDTC</em>: sucked in to all the haters<br><em>The It_123</em>: Cox's SC is ok if your into that sort of stuff<br><em>captjerk</em>: Give cox Star&#044; X Factor&#044; Gun&#044; Cherry<br><em>KraKBabY</em>: Big Cox stands up and delivers.<br><em>shifter93</em>: radio call - cox marks&#044; to cox&#044; kicks to cox&#044; cox goals...<br>
+240417,Andrew,Swallow,NM,56,134,134,181,99,136,15,10,4,14,1,6,4,1,0, Full Time,hot,%D and %T plus %M and %s,,
+960491,Brent,Harvey,NM,25,102,125,124,86,109,14,9,6,1,0,1,0,3,1, Full Time,hot,%P and %M plus %s,,
+270325,Robbie,Tarrant,NM,21,85,108,105,74,89,11,2,7,1,0,0,1,4,2, Full Time,news,Glass on him... %s from %P and %G,,
+250135,Scott,McMahon,NM,14,79,87,103,65,84,12,6,8,2,0,2,1,0,0, Full Time,news,%M and %D plus %T,job,Chasing Hill
+250557,Sam,Gibson,NM,20,79,66,106,58,78,9,5,6,6,0,0,0,0,0, Full Time,news,%D and %T with %M,,
+260545,Liam,Anthony,NM,13,74,68,93,63,85,11,10,6,1,0,1,1,0,1, Full Time,news,%O and %M plus %s,,
+230232,Daniel,Wells,NM,9,73,103,96,56,76,15,4,4,2,0,2,1,0,1, Full Time,news,%O and %T with %M... also %F,scooter,Tagged by Scott Selwood
+250285,Leigh,Adams,NM,9,73,90,93,57,78,10,9,4,3,0,1,0,0,0, Full Time,news,%D and %M,,
+261909,Lindsay,Thomas,NM,17,71,49,93,60,76,11,0,5,3,0,1,3,3,1, Full Time,news,Booted %s from %D and %M on Butler... also %F,,
+240131,Nathan,Grima,NM,19,69,79,93,59,81,8,7,8,4,0,0,3,0,0, Full Time,news,%P and %T with %M,job,Following Darling
+280944,Jack,Ziebell,NM,14,69,66,88,57,78,12,7,3,2,0,2,2,1,0, Full Time,news,%2 Priddis... %D and %M plus %T and %s,,
+290787,Shaun,Atley,NM,8,61,102,75,52,69,9,9,5,0,0,1,0,0,0, Full Time,news,%D and %M,job,Minding Hams
+290194,Jamie,MacMillan,NM,8,59,49,76,45,63,8,7,3,3,0,0,0,0,0, Full Time,news,%O and %T with %M,,
+271129,Todd,Goldstein,NM,9,55,90,67,46,57,5,3,1,3,21,1,1,0,0, Full Time,concussed,%H and %D plus %T... very sore head after a clash with Brennan in Q3,,
+280864,Sam,Wright,NM,5,53,65,69,43,60,8,6,4,2,0,0,1,0,0, Full Time,news,Playing in defence... %O and %M,,
+280863,Ryan,Bastinac,NM,8,49,34,61,47,69,6,12,4,1,0,0,3,0,0, Full Time,news,%P and %M,,
+210023,Drew,Petrie,NM,4,46,32,61,38,50,6,3,3,3,5,2,2,0,0, Full Time,news,%P and %T with %M on Mackenzie... also %H and %F,,
+240189,Matt,Campbell,NM,7,46,46,62,31,45,5,4,1,5,0,0,0,0,0, Full Time,news,%D and %T on McGinnity,,
+250373,Lachlan,Hansen,NM,9,42,45,56,35,48,5,3,3,3,0,0,2,1,0, Full Time,news,Kicked %s from %D and %G on Schofield,subbed,Subbed off in Q4 for Harper
+230272,Michael,Firrito,NM,3,35,52,41,33,45,4,9,2,0,0,2,1,0,0, Full Time,job,On Lynch... %D and %M,,
+270303,Luke,Delaney,NM,2,31,33,40,23,33,2,5,1,3,0,0,0,0,0, Full Time,job,Has Cox... %P,,
+290547,Kieran,Harper,NM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Hansen,sub,Started as a sub
+200112,Dean,Cox,WC,44,148,215,117,132,154,16,5,15,1,24,1,1,3,1, Full Time,star,First goal... %s from %P and %G on Luke Delaney... also %H,,
+240124,Matt,Priddis,WC,57,141,170,137,111,154,10,24,4,11,0,3,1,1,1, Full Time,magnet,%2 Ziebell... %O and %T plus %M and %s... massive Q1,,
+210018,Daniel,Kerr,WC,22,114,116,57,90,122,22,9,5,2,0,2,1,1,2, Full Time,hot,%O and %M plus %s,,
+250111,Matt,Rosa,WC,14,94,89,67,75,100,13,11,6,3,0,2,0,0,1, Full Time,news,%D and %T with %M and %s,,
+240159,Sam,Butler,WC,15,93,95,59,67,94,16,6,4,5,0,0,0,0,1, Full Time,news,%D and %T with %M,job,Minding Thomas
+261214,Will,Schofield,WC,19,86,108,52,75,97,15,6,11,0,0,1,2,0,1, Full Time,news,%P and %M... also %F,job,Responsible for Hansen
+271045,Nic,Naitanui,WC,22,84,120,81,70,88,6,6,3,6,24,2,2,0,1, Full Time,fiji,%H and %P with %T and %M... also %F,,
+220061,Quinten,Lynch,WC,20,82,110,53,70,87,12,4,5,1,0,1,1,3,3, Full Time,news,Booted %s from %D and %G on Firrito,,
+280078,Luke,Shuey,WC,14,78,91,53,64,91,12,11,3,4,0,3,3,0,1, Full Time,news,%P and %T plus %s,,
+270928,Scott,Selwood,WC,13,64,63,59,52,72,6,10,3,5,0,3,2,0,0, Full Time,news,%P and %T wth %M... also %F,tagger,Tagging Wells
+240283,Shannon,Hurn,WC,5,63,83,43,47,63,10,4,4,3,0,1,0,0,0, Full Time,news,%P and %M,,
+261290,Chris,Masten,WC,14,61,59,43,51,72,8,10,2,2,0,0,1,1,0, Full Time,news,%O and %s,,
+261209,Josh,Hill,WC,10,54,63,34,41,52,9,1,3,2,0,1,0,1,1, Full Time,news,%D on McMahon,,
+280324,Jacob,Brennan,WC,5,52,42,41,39,51,7,3,4,3,0,1,0,0,0, Full Time,news,Donuts in Q1... %D and %M,,
+200074,Darren,Glass,WC,9,50,58,48,42,54,4,6,6,2,0,0,0,0,0, Full Time,job,Standing Tarrant... %M and %D,,
+250317,Eric,Mackenzie,WC,4,48,74,30,38,52,8,5,2,2,1,2,1,0,0, Full Time,job,Standing Petrie... %O,,
+290801,Andrew,Gaff,WC,6,46,37,14,37,54,11,6,1,0,0,1,1,0,0, Full Time,news,%D,,
+290838,Jack,Darling,WC,9,45,67,32,35,42,6,1,1,2,0,2,0,2,0, Full Time,news,%s from %D on Grima,,
+280441,Patrick,McGinnity,WC,2,36,48,27,32,48,4,10,1,1,0,0,1,0,0, Full Time,job,Minding Campbell... %D,,
+294169,Murray,Newman,WC,3,33,20,24,24,33,5,2,2,2,0,0,0,0,0, Full Time,bubble,Second game... %O and %T with %M,subbed,Subbed off in Q3 for Stevens
+250034,Ashton,Hams,WC,3,23,27,22,22,36,3,4,2,3,0,0,4,0,0, Full Time,news,%O and %T on Atley... also %F,,
+280946,Koby,Stevens,WC,1,14,18,15,11,18,1,3,0,2,0,0,1,0,0, Full Time,in,%l Beau Waters... on in Q3 for Newman,sub,Started as a sub

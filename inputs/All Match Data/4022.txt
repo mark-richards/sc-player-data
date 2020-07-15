@@ -1,0 +1,48 @@
+Fremantle,Dockers,Brisbane,Lions,R3,8.16.64,5.5.35, Full Time
+Apr 14,2012,4:40,Subiaco,Fox Sports,280726,10340304,5015,0,,,,
+
+<em>GoTEAM</em>: FF on GC game with Saints Dogs on Fx Footy HD<br><em>CHEbber</em>: Kepler Bradley tons up!!! is that a first?<br><em>dean0s</em>: pretty happy with broughtons score<br><em>BlueBoys#5</em>: glad i ahve nobody from these teams<br><em>Sydney14</em>: hanley SC :(<br><em>Lionking</em>: Fyfe out-Murphy in Pav out - Stanton in!!<br><em>mitch4</em>: pav 90<br><em>maluckyday</em>: the top 8 players from Fremantle did better in DT then Brisbane's top player.<br><em>lachybee76</em>: Zac clarke 96? <br><em>j0sh34</em>: i said broughton and rockliff would both get 100s<br><em>GoTEAM</em>: longer looking good<br><em>snoop1</em>: lions only had 20 inside 50s for whole game.. deplorable!<br>
+240139,Paul,Duffield,FR,36,117,116,152,93,129,16,12,7,6,0,0,2,1,0, Full Time,hot,%D with %K,,
+280386,Clancee,Pearce,FR,32,115,116,141,97,123,10,13,8,4,0,1,0,3,0, Full Time,star,%s from %D and %T on Golby,,
+261756,Greg,Broughton,FR,25,109,110,146,83,112,16,7,7,7,1,3,2,0,0, Full Time,hot,Started on a wing but moved into the guts after Fyfe's Q2 injury which helped his numbers considerably... %D and %T with %M,,
+220096,Aaron,Sandilands,FR,44,103,110,114,98,114,7,9,4,0,54,1,1,0,0, Full Time,gun,A massive %H... also %P with %M,,
+230107,Michael,Johnson,FR,20,102,105,134,80,108,18,7,8,3,0,1,1,0,0, Full Time,hot,In defence on Leuenberger but after Leuey's Q2 injury was freed up to create... %P and %M with %T,,
+292026,Michael,Barlow,FR,30,99,108,129,70,103,13,12,1,8,0,0,0,0,1, Full Time,news,%P and %T,,
+280726,Tendai,Mzungu,FR,20,96,108,126,74,104,16,9,4,5,1,2,2,0,1, Full Time,news,%2 Rockliff... %P and %T,,
+210037,Adam,McPhee,FR,19,95,103,123,73,96,14,8,6,4,0,3,0,0,0, Full Time,job,Has Harwood... %D and %M,,
+230011,Kepler,Bradley,FR,19,91,103,117,73,94,10,8,8,4,2,1,0,0,2, Full Time,news,Kicked %s from %G and %O on Maguire,,
+250268,Garrick,Ibbotson,FR,10,78,97,101,62,85,12,8,5,3,0,1,1,0,1, Full Time,news,%P and %M,,
+200045,Luke,McPharlin,FR,13,75,84,96,62,81,13,6,8,0,0,0,0,0,0, Full Time,job,Responsible for Brown... %P and %M,,
+270908,Nick,Suban,FR,9,74,83,97,56,75,14,4,5,2,0,1,0,0,0, Full Time,news,%O including %K with %M,job,Minding Banfield
+200032,Matthew,Pavlich,FR,15,67,93,87,51,70,8,6,2,5,0,1,1,1,1, Full Time,news,Patfull on him... one touch in Q1... %s from %D,,
+290251,Zachary,Clarke,FR,14,66,97,81,54,71,6,9,3,3,2,1,0,1,0, Full Time,news,%D and %M plus %s,,
+271015,Matthew,de Boer,FR,10,64,65,85,50,68,8,5,5,4,0,0,1,0,2, Full Time,tagger,Forward role on Drummond... %D,,
+280416,Chris,Mayne,FR,5,54,54,70,42,54,6,5,4,3,0,2,0,0,0, Full Time,news,%O,,
+240052,David,Mundy,FR,9,49,57,61,42,57,7,6,3,1,0,0,1,1,0, Full Time,news,On in Q2 for Fyfe... %D and %s,sub,Started as a sub
+240552,Zac,Dawson,FR,8,49,54,64,45,60,8,5,7,0,0,0,2,0,0, Full Time,job,Has Merrett.... %P,,
+230048,Ryan,Crowley,FR,4,47,66,63,37,54,8,5,2,3,0,1,2,0,0, Full Time,news,%D and %M,tagger,Tagging Rich
+291560,Josh,Mellington,FR,9,47,38,59,39,48,6,2,4,1,0,0,0,1,3, Full Time,news,%s from %D and %M,,
+280336,Stephen,Hill,FR,4,42,63,55,39,56,9,5,4,0,0,0,3,0,2, Full Time,tagged,Tagged by Raines... %O and %F,,
+291570,Nathan,Fyfe,FR,1,22,34,26,21,30,1,7,1,1,0,1,1,0,0, Full Time,injured,Tagged by Polkinghorne... %O... left shoulder dislocated yet again in Q2 in a bump by Maguire,subbed,Subbed off in Q2 for Mundy
+200121,Josh,Drummond,BL,19,95,96,60,77,96,16,4,11,1,0,2,0,0,0, Full Time,news,Massive early in Q1... %P and %M... forward tag on him by de Boer,sore,Cramp in right hamstring in Q3
+270919,Tom,Rockliff,BL,21,91,108,79,69,99,10,12,4,7,0,0,1,0,0, Full Time,news,%2 Mzungu... %D,,
+230147,Daniel,Merrett,BL,20,90,69,77,70,86,10,3,7,5,4,2,0,1,1, Full Time,news,Booted %s from %G and %P on Zawson,,
+260975,James,Polkinghorne,BL,24,89,77,75,68,93,11,7,7,6,0,0,1,0,0, Full Time,news,%O and %M,tagger,Tagging Fyfe
+290738,Jared,Polec,BL,16,84,61,59,66,83,12,3,5,3,0,1,0,2,2, Full Time,news,On in Q2 for Leuenberger,sub,Started as a sub
+240087,Jed,Adcock,BL,14,82,90,40,62,87,18,2,6,3,0,0,2,0,0, Full Time,news,%D and %M,,
+281048,Ryan,Harwood,BL,24,81,80,74,62,87,9,7,6,7,0,0,2,0,0, Full Time,news,%O and %M on McPhee... also %T,,
+281373,Jack,Redden,BL,14,77,74,57,65,87,10,11,6,2,0,2,1,0,0, Full Time,news,%P with %B,,
+270512,Pearce,Hanley,BL,12,71,56,36,57,75,14,4,7,0,0,0,0,0,0, Full Time,news,%P and %M,,
+290110,Mitchell,Golby,BL,14,70,81,61,54,75,8,7,5,5,0,0,1,0,0, Full Time,news,%P and %M plus %T,job,Responsible for Pearce
+210013,Ashley,McGrath,BL,9,67,89,53,50,66,9,5,3,5,0,4,1,0,0, Full Time,news,%O and %M,,
+230170,Joel,Patfull,BL,9,67,87,37,56,78,13,6,5,2,0,2,3,0,0, Full Time,news,%M and %O,job,Following Pavlich
+220062,Matt,Maguire,BL,9,64,84,41,53,69,11,3,8,1,0,0,1,0,0, Full Time,news,%D and %M,job,Standing Bradley
+291828,Billy,Longer,BL,9,59,85,43,47,58,8,0,2,3,19,1,1,0,0, Full Time,rookie,%H and %P with %M,,
+291548,Ryan,Lester,BL,4,52,59,21,42,57,12,2,5,0,0,0,1,0,0, Full Time,news,%D,,
+292035,Claye,Beams,BL,4,50,47,35,38,51,8,3,3,3,0,2,1,0,0, Full Time,news,%O and %M with %T,,
+271072,Daniel,Rich,BL,9,46,63,31,42,55,6,7,3,0,0,1,1,1,1, Full Time,creepy,Tagged by Crowley... %P and %M plus %s,,
+280572,Jesse,O'Brien,BL,8,46,42,45,34,45,4,4,3,4,0,1,0,0,0, Full Time,news,%P,,
+271071,Todd,Banfield,BL,13,44,53,43,32,43,4,2,1,5,0,1,1,1,1, Full Time,news,First goal... %s from %O and %T on Suban,,
+240013,Andrew,Raines,BL,2,31,21,20,26,36,5,4,2,1,0,1,1,0,0, Full Time,news,%O,tagger,Tagging Hill
+200007,Jonathan,Brown,BL,1,18,9,12,15,18,3,0,3,0,0,0,0,0,0, Full Time,news,%G and %D,,
+250335,Matthew,Leuenberger,BL,0,7,8,2,7,10,2,0,1,0,1,0,1,0,0, Full Time,injured,Playing deep forward on Johnson... %D.... left ankle or heel injury in Q2,subbed,Subbed off in Q2 for Polec

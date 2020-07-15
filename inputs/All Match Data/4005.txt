@@ -1,0 +1,48 @@
+Gold Coast,Suns,Adelaide,Crows,R1,10.8.68,19.23.137, Full Time
+Mar 31,2012,4:45,Gold Coast,Fox Sports,270938,10340105,430012,0,Fine,27,,
+
+<em>dimmel</em>: ablett is the best in the afl by that far it is a joke<br><em>Jayman</em>: is my name purple? ;)<br><em>jamesalex</em>: yeah who won PNG?<br><em>OziBatla</em>: Fox 1 for freo<br><em title="TIMWHATSON">timwhatson</em>: woohoo<br><em>Za Chap</em>: @axelbiddy do you know if the games on tv??<br><em>mufc</em>: disapointing 2nd half from tippet<br><em>Jayman</em>: who won PNG? It said 'too many connections' when I went on???<br><em>Jawdan</em>: Red button does nothing? Do I have to watch it on Fox Sports? Poor form FoxFooty... So much for every game live.<br><em>decapp</em>: caddy turnover king <br><em>Jayman</em>: did I win PNG?<br><em>axelbiddy</em>: josh caddy is a future gun!<br>
+220001,Gary,Ablett jnr,GC,33,136,139,168,111,156,23,19,3,3,0,2,2,2,0, Full Time,heart,%2 Thompson then got van Berlo in the second half... %O and %T plus %s... racked it up especially in Q2... copped one in the torso in Q2 that left him clutching at his back... back on after a few minutes rest,dttalk,Calvin's #1 captain option
+230015,Jared,Brennan,GC,19,104,114,136,80,109,20,7,6,3,1,2,1,0,0, Full Time,hot,Trying to get loose in defence but Vince manning him up... %P and %M,,
+290832,David,Swallow,GC,20,89,74,113,67,93,12,10,2,5,0,1,0,1,0, Full Time,news,%P and %T plus %M and %s,,
+240316,Sam,Iles,GC,14,85,63,109,70,96,11,11,7,3,0,0,1,0,0, Full Time,news,%D and %M with %T,job,Minding Douglas
+291594,Harley,Bennell,GC,20,84,91,102,74,97,12,10,6,0,0,0,1,2,1, Full Time,news,%s from %O and %M on Doughty,,
+240712,Michael,Rischitelli,GC,14,80,81,98,67,96,9,17,3,3,0,1,1,0,0, Full Time,news,%O and %T,,
+290627,Dion,Prestia,GC,15,78,87,97,63,85,9,10,4,3,0,0,0,1,1, Full Time,news,%P and %M with %T and %s,,
+290623,Josh,Caddy,GC,19,77,60,100,63,81,12,4,7,2,0,1,1,1,0, Full Time,news,%s from %K among %D with %T and %M,,
+281025,Luke,Russell,GC,13,73,40,94,60,76,11,5,8,1,0,1,0,0,1, Full Time,garbage,On in Q3 for Tape... %s from %P and %M,sub,Started as a sub
+220013,Campbell,Brown,GC,19,71,65,89,61,78,10,5,6,1,0,0,1,2,0, Full Time,news,Playing forward on Johncock.... %s from %D and %M,,
+280722,Zac,Smith,GC,15,68,82,80,57,72,5,8,1,3,15,1,0,1,0, Full Time,news,Started at FF on Rutten... %D with %H and %T,,
+240254,Jarrod,Harbrow,GC,12,63,99,79,53,69,10,7,6,0,0,1,0,0,0, Full Time,job,Matched up on Petrenko... %O and %M,,
+292512,Karmichael,Hunt,GC,9,63,54,81,49,66,8,7,4,3,0,1,0,0,0, Full Time,tonga,Playing midfield... %O and %M with %T,,
+296735,Aaron,Hall,GC,7,55,55,67,46,63,7,10,3,1,0,1,0,0,0, Full Time,rookie,First game... %D and %M on Reilly,,
+281085,Steven,May,GC,4,43,53,56,36,48,7,4,4,1,0,1,1,0,0, Full Time,switch,Smashed by Tippett early and moved forward in Q2... %D and %M,,
+294266,Tom,Hickey,GC,3,41,45,51,36,47,3,6,3,2,4,1,1,0,1, Full Time,news,%D and %T on Henderson... also %H,,
+290817,Brandon,Matera,GC,8,40,47,54,28,42,6,4,0,4,0,1,1,0,0, Full Time,news,%P and %T,,
+293813,Thomas,Lynch,GC,3,40,19,51,32,42,4,5,3,2,0,1,0,0,0, Full Time,news,Talia on him... %D and %M,,
+293223,Seb,Tape,GC,7,38,35,50,27,39,3,5,1,4,0,0,0,0,0, Full Time,injured,Chasing Porplyzia... %P and %T... lost three of his front teeth,subbed,Subbed off in Q3 for Russell
+291304,Daniel,Gorringe,GC,3,36,35,45,29,40,1,7,2,3,1,0,0,0,0, Full Time,switch,Shifted from the forward line to defence on Walker in Q2... %D and %M,,
+293795,Jeremy,Taylor,GC,2,30,27,40,27,39,5,4,3,1,0,0,2,0,0, Full Time,news,%O and %M... also %F,,
+250716,Matthew,Warnock,GC,1,17,51,20,19,30,2,7,1,0,0,0,2,0,0, Full Time,job,Moved from Walker to Tippett in Q2... %O,,
+210016,Scott,Thompson,AD,25,135,147,72,104,145,25,14,6,3,0,1,0,0,1, Full Time,gun,%2 Ablett jnr in the first half... %D and %T with %M plus %s,,
+270963,Rory,Sloane,AD,37,125,114,95,91,124,18,6,6,9,0,1,1,1,1, Full Time,hot,Playing mostly forward which is lucrative against Gold Coast... %s from %D and %T... also %M,,
+270742,Kurt,Tippett,AD,27,114,150,84,101,121,13,6,7,1,13,1,1,4,3, Full Time,hot,First goal... %s from %P and %G on May including three majors in Q1... also %H,,
+240370,Richard,Douglas,AD,30,109,101,87,81,105,14,5,6,7,0,2,0,1,3, Full Time,hot,%O and %T with %M on a HFF on Iles... good position to score against the Suns,,
+250118,Nathan,van Berlo,AD,26,108,117,80,87,114,15,7,7,5,0,2,2,2,0, Full Time,hot,Moved onto Ablett in the second half... %O with %k by foot plus %T... also %M and %s,,
+261857,Ian,Callinan,AD,21,99,89,72,77,101,14,4,5,5,0,0,1,2,5, Full Time,news,%s from %O and %T and %M,,
+270811,Sam,Jacobs,AD,21,98,102,82,85,106,9,9,5,3,28,1,1,0,0, Full Time,news,%H and %D with %M and %T,,
+280506,Taylor,Walker,AD,32,98,106,80,88,107,10,5,8,2,0,0,2,5,2, Full Time,news,Booted %s from %D on Warnock... also %G and %T,,
+220086,Brent,Reilly,AD,19,91,104,63,71,99,14,9,6,4,0,0,1,0,0, Full Time,job,Minding Hall... %D and %T with %M,,
+270917,Patrick,Dangerfield,AD,21,89,93,57,74,102,13,12,3,2,0,0,1,2,0, Full Time,garbage,%s from %O and %M with %T... did his best work in late garbage time,,
+261142,Bernie,Vince,AD,9,85,87,40,61,85,18,4,3,3,0,1,0,0,1, Full Time,news,Playing a forward role on Brennan... %O and %T,,
+291748,Brodie,Smith,AD,14,84,76,66,63,87,11,8,5,5,0,0,0,0,0, Full Time,news,%O and %M with %T,,
+270296,Andy,Otten,AD,18,81,87,66,63,84,10,7,7,4,0,0,0,0,0, Full Time,job,Has Gorringe then got May in Q2... %D with %k by foot... also %M and %T,,
+210056,Graham,Johncock,AD,13,79,57,42,61,81,16,2,7,2,0,1,1,0,0, Full Time,job,Minding Brown... %D and %M,,
+250362,David,Mackay,AD,14,79,75,65,62,88,9,12,3,5,1,1,1,0,0, Full Time,news,%D and %T,,
+200092,Michael,Doughty,AD,9,65,68,60,54,72,5,12,4,3,0,2,0,0,0, Full Time,job,Chasing Bennell... %P and %T with %M,,
+230174,Jason,Porplyzia,AD,13,58,74,38,48,66,8,9,2,1,0,0,0,1,0, Full Time,news,%s from %P on Tape... Crows cleared out their forward 50 to suit Tippett so he was cold all game,,
+261138,Jared,Petrenko,AD,10,58,65,52,46,64,6,7,4,4,0,0,1,0,1, Full Time,news,%P and %T on Harbrow,,
+280934,Daniel,Talia,AD,9,56,60,47,48,66,6,9,5,2,0,0,1,0,0, Full Time,job,Standing Lynch... %D and %T,,
+220093,Ben,Rutten,AD,8,48,42,39,42,54,6,4,7,1,0,0,1,0,0, Full Time,job,On the resting ruckman... %M and %D,,
+270938,Tom T.,Lynch,AD,8,38,19,21,31,38,7,0,2,1,0,2,1,1,2, Full Time,garbage,On in Q3 for Henderson... %s from %O and %M,sub,Started as a sub
+291201,Ricky,Henderson,AD,1,28,41,16,21,30,5,3,1,1,0,0,0,0,0, Full Time,news,In defence on Hickey... stretchered off from a headclash in a bump by Rischitelli in Q2... %P,subbed,Subbed off at HT for Lynch

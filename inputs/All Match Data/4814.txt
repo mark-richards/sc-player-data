@@ -1,0 +1,48 @@
+Sydney,Swans,Collingwood,Magpies,R2,10.9.69,12.17.89, Full Time
+Mar 29,2014,7.40,Homebush,Seven,261257,10420205,syd-v-coll,0,Windy,26,,
+
+<em style='color:#000'>TheKent</em>: Pendles captain doing wonders<br><em style='color:#000'>Wends</em>: But still&#044; Pendles amazing&#044; good win.<br><em style='color:#000'>a1trader</em>: Pendles has to a good Brownlow chance with that sort of form<br><em style='color:#000'>claysymo9</em>: Beams i love you and barlow. not mcveigh<br><em style='color:#000'>Wends</em>: Meh&#044; Swans back to usual slow early season start.<br><em style='color:#000'>muntedmyke</em>: wow ryno will be very cheap soon<br><em style='color:#000'>Kenny27</em>: Go the mighty pies !!<br><em style='color:#000'>old_shepp</em>: That will do<br><em style='color:#000'>meka100</em>: Swans to old&#044; they are flowered&#044; GWS beat them for flower sake<br><em style='color:#000'>oldfart</em>: good win but swans are shower<br><em style='color:#000'>Jukes82</em>: swans for spoon<br><em style='color:#000'>coldog</em>: Okeefs looks finished to old<br>
+281281,Lewis,Jetta,SY,21,104,93,136,80,102,18,3,8,3,0,2,0,1,0, Full Time,hot,%s from %D and %M with %T,,,338100,,333300,,Forward Midfielder,32,1,59,65,2.34,3.18,0.00,335500,64
+260382,Josh P.,Kennedy,SY,25,99,109,125,77,112,10,18,2,7,0,1,1,0,1, Full Time,news,%2 Pendlebury... %O and %M plus %T... %s as well,,,496900,,568600,,Midfielder,12,1,83,91,2.32,3.13,0.00,493000,96
+291206,Mike,Pyke,SY,25,98,110,118,84,98,12,4,6,1,23,3,0,1,0, Full Time,news,%H... also %P and %M... and scored %s... aided by %4FF,,,405200,,466800,,Ruck,38,1,84,92,1.98,3.35,0.00,402100,68
+230140,Ben,McGlynn,SY,25,97,99,125,75,97,14,6,6,4,0,2,0,1,1, Full Time,news,Lumumba taking care of him... %s from %D and %M with %T,,,386100,,389800,,Forward,21,1,70,85,0.52,0.68,0.00,383100,71
+291856,Tom,Mitchell,SY,19,95,97,122,70,100,15,11,2,5,0,1,0,0,1, Full Time,news,%s from %O and %T,,,492600,,464800,,Forward Midfielder,6,1,93,93,26.38,21.87,0.00,488700,88
+290117,Daniel,Hannebery,SY,20,93,107,112,77,108,12,17,3,2,0,0,0,1,0, Full Time,news,%P and %M plus %T... %s as well,,,485700,,514200,,Midfielder,4,1,66,57,1.61,2.16,0.00,481900,104
+230253,Jarrad,McVeigh,SY,18,89,97,112,74,103,15,12,6,1,0,0,1,0,1, Full Time,news,%D and %M plus %s,job,Playing loosely off Blair,534100,,572500,,Back Midfielder,3,1,83,82,37.45,29.45,0.00,529900,107
+290188,Samuel,Reid,SY,16,81,79,105,65,81,10,3,8,3,0,0,0,1,3, Full Time,switch,Gone back to the forward line... %s from %D and %M with %T,,,283000,,313900,,Forward,20,1,36,34,1.50,1.19,0.00,280800,62
+290778,Luke,Parker,SY,26,79,87,104,62,93,7,14,2,8,0,1,3,0,0, Full Time,news,%P and %M plus %T... gave away %F,,,462600,,468800,,Forward Midfielder,26,1,90,95,7.87,4.26,0.00,459000,81
+230132,Nick,Malceski,SY,14,75,81,96,57,78,14,5,3,2,0,0,0,1,0, Full Time,news,%P including %K... also %M and %T... and kicked %s,,,451200,,489600,,Back,9,1,73,86,2.22,3.11,0.00,447600,89
+240399,Lance,Franklin,SY,16,73,79,93,61,82,10,6,4,3,0,0,2,2,1, Full Time,news,Frost covering him well... %s from %P and %M plus %T,,,429800,,487700,,Forward,23,1,52,54,17.26,19.31,0.00,426500,96
+250338,Nick,Smith,SY,20,69,82,92,55,78,6,9,5,6,0,0,2,0,0, Full Time,job,Taking Swan when he rests up forward... %D and %M with %T,,,311100,,355700,,Back,40,1,63,72,0.52,0.48,0.00,308700,53
+291978,Harry,Cunningham,SY,19,68,69,81,61,78,3,13,6,2,0,1,0,1,0, Full Time,news,%D including %B... also %M and %T... and kicked %s,,,119200,,123900,,Midfielder,7,1,69,66,12.28,8.15,0.00,135500,-4
+240072,Heath,Grundy,SY,14,67,93,89,53,75,8,8,4,5,0,1,2,0,0, Full Time,job,Taking the resting ruck... %P and %M plus %T,,,295000,,345900,,Back,39,1,58,87,1.78,1.88,0.00,292700,51
+290307,Dane,Rampe,SY,11,64,79,83,51,69,9,5,4,3,0,0,1,1,0, Full Time,news,%O and %M plus %T... %s as well,,,281600,,320900,,Back,24,1,54,64,0.76,0.96,0.00,279400,50
+240226,Kieren,Jack,SY,14,60,62,79,41,60,7,7,0,6,0,1,0,0,0, Full Time,tagged,Macaffer sticking to him like glue... %P and %T,,,553700,,589400,,Midfielder,15,0,0,0,3.29,3.74,0.00,549400,101
+291357,Gary,Rohan,SY,13,52,37,71,34,46,6,2,1,6,0,2,0,0,1, Full Time,sore,Getting slight work done on the knee in Q3... %s from %D and %T,subbed,Subbed out at 3QT,176600,,176200,,Forward,16,1,50,47,47.05,51.33,0.00,138400,10
+210027,Ted,Richards,SY,4,50,56,63,41,54,9,5,4,0,0,1,0,0,0, Full Time,news,Following Travis Cloke around... %M and %O,,,283800,,374100,,Back,25,1,56,78,1.32,1.48,0.00,281600,49
+294797,Tom,Derickx,SY,14,47,41,58,38,47,3,2,0,4,20,1,1,0,0, Full Time,news,%H... also %D and %T,,,119200,,123900,,Ruck,19,0,0,0,21.31,20.86,0.00,135500,25
+200071,Ryan,O'Keefe,SY,4,44,43,56,39,51,7,5,5,0,0,1,1,0,0, Full Time,news,Playing a defensive forward role... %D and %M,,,534800,,545500,,Midfielder,5,1,17,16,0.35,0.38,0.00,530700,151
+200023,Rhyce,Shaw,SY,3,43,18,55,35,51,8,6,2,1,0,0,1,0,0, Full Time,job,Sticking to Elliott... %M and %O,,,254000,,299400,,Back,2,1,90,91,10.62,16.10,0.00,246400,17
+261212,Craig,Bird,SY,2,26,38,34,18,27,4,3,0,2,0,0,0,0,0, Full Time,news,Will be tweeting from the field now because he got subbed on in the 4th quarter... %P,sub,Started as a sub,390300,,393500,,Forward Midfielder,14,1,75,71,1.84,1.48,0.00,387300,69
+260257,Scott,Pendlebury,CO,57,152,182,107,109,148,23,10,4,10,0,4,0,1,1, Full Time,star,%2 Kennedy... %O and %M plus %T... %s as well... helped out by %4FF,,,616000,,683100,,Midfielder,10,1,122,127,23.42,37.78,0.00,611200,107
+271001,Dayne,Beams,CO,32,113,115,86,87,123,14,16,3,6,0,0,0,1,0, Full Time,gun,%O and %M plus %T... %s as well,,,497300,,497200,,Midfielder,17,1,122,136,44.42,45.49,0.00,498800,73
+230263,Nick,Maxwell,CO,15,93,113,68,74,99,13,9,8,3,0,0,0,0,0, Full Time,bluemoon,Taking the resting ruck... %D and %M with %T,,,354800,,360800,,Back,5,1,54,57,0.79,0.77,0.00,352000,72
+240073,Harry,Lumumba,CO,19,87,91,51,80,111,15,13,9,0,0,1,4,0,0, Full Time,job,Playing off Benny McGlynn... %M and %O... gave away %F,,,479200,,474700,,Back Midfielder,8,1,84,92,2.60,1.97,0.00,475400,90
+293801,Jamie,Elliott,CO,21,78,74,63,59,74,9,2,2,5,0,1,0,3,2, Full Time,news,First goalscorer... Taken by Shaw... %s from %O and %M plus %T,,,369200,,390600,,Forward,19,1,54,52,1.74,2.33,0.00,366300,76
+293957,Brodie,Grundy,CO,22,77,81,75,72,94,5,8,3,5,30,1,5,0,1, Full Time,news,%H... also %P and %M plus %T... %s as well... not helped by %F,,,345800,,363300,,Ruck,4,1,88,80,9.49,17.26,0.00,335500,45
+240366,Travis,Cloke,CO,16,76,67,51,68,85,12,2,9,1,0,1,3,2,1, Full Time,news,Ted Richards following him... Kicked %s from %G and %O,,,506200,,513400,,Forward,32,1,35,35,5.85,5.42,0.00,502200,130
+220005,Luke,Ball,CO,19,75,57,65,55,78,8,10,2,6,0,1,0,0,0, Full Time,news,%D and %M with %T,,,522600,,523700,,Midfielder,12,1,124,105,0.35,0.36,0.00,518500,77
+250055,Clinton,Young,CO,18,74,79,46,60,78,12,5,6,1,0,0,0,1,0, Full Time,news,Playing a rebounding defender role with O'Keefe occasionally picking him up... %D and %M,,,231600,,243800,,Midfielder,14,1,76,60,5.09,5.07,0.00,218300,17
+291386,Ben,Sinclair,CO,19,72,88,65,64,84,6,11,7,2,0,0,1,1,0, Full Time,news,Playing a semi-loose backline role... %P and %M plus %T... %s as well,,,279700,,299900,,Back,28,1,69,62,0.57,0.92,0.00,277500,40
+220105,Dane,Swan,CO,14,68,65,36,51,69,13,3,3,2,0,0,0,1,0, Full Time,ghost,Playing full forward on occasion with Nick Smith picking him up... %P including %K... also %M and %T... and kicked %s,,,641600,,632600,,Midfielder,36,1,97,89,26.01,12.06,0.00,636600,131
+295444,Tom,Langdon,CO,13,66,56,38,53,72,13,2,7,2,0,0,2,0,0, Full Time,bubble,Looking like very solid bench cover... %D with %k by foot... also %M and %T,,,112800,,117300,,Back Midfielder,41,1,105,111,30.24,37.77,0.00,135500,-27
+280104,Jarryd,Blair,CO,8,65,60,34,53,67,12,5,5,0,0,3,0,0,1, Full Time,news,With McVeigh close to him... %O including %K... also %M... umps paid him %4FF,,,404800,,414600,,Forward Midfielder,11,0,0,0,0.60,0.71,0.00,401600,74
+240419,Alan,Toovey,CO,15,64,67,54,44,63,8,5,2,6,0,0,0,0,0, Full Time,news,%D and %M with %T,,,254700,,303800,,Back,34,1,20,30,1.69,4.36,0.00,238600,60
+260246,Tyson,Goldsack,CO,12,59,73,49,49,60,6,4,4,2,0,1,0,2,0, Full Time,news,Taking Brown's defensive role since Brown got subbed... %P and %M plus %T... %s as well,,,306800,,356900,,Back,6,1,34,48,0.89,0.90,0.00,304400,71
+261181,Brent,Macaffer,CO,5,58,53,47,45,61,7,6,4,3,0,0,0,0,1, Full Time,tagger,Sticking uncomfortably close to Jack... %D and %M with %T... %s as well,,,362100,,321800,,Midfielder,3,1,90,70,0.60,0.95,0.00,359300,51
+280965,Steele,Sidebottom,CO,8,56,68,35,45,61,9,6,4,1,0,0,0,0,1, Full Time,news,%P and %M plus %s,,,527100,,555300,,Midfielder,22,1,84,73,0.83,0.87,0.00,523000,105
+290810,Jack,Frost,CO,5,52,80,41,41,57,7,5,4,3,0,0,1,0,0, Full Time,job,Got the job following Buddy around and doing quite well so far... %D and %M with %T,,,183500,,239500,,Back,45,1,53,76,1.83,1.73,0.00,173000,18
+250212,Jesse,White,CO,9,48,47,41,39,54,5,6,0,4,7,2,2,0,2, Full Time,news,Playing as the back up for Grundy in the ruck while also playing forward... %s from %O and %T... gave away %F,,,338700,,364500,,Forward,18,0,0,0,1.16,2.22,0.00,336000,62
+260310,Nathan,Brown,CO,1,31,38,16,23,33,6,3,1,1,0,0,0,0,0, Full Time,injured,Popped his shoulder out late in the 3rd quarter... %D,subbed,Subbed out at 3QT,213600,,261500,,Back,16,1,22,44,1.07,1.52,0.00,211900,50
+250133,Sam,Dwyer,CO,2,28,46,24,24,36,2,9,0,1,0,0,0,0,0, Full Time,news,%O with %b by hand,in,Late replacement for Jarrod Witts,352600,,366500,,Forward Midfielder,2,0,0,0,1.03,1.25,0.00,349900,65
+291776,Taylor,Adams,CO,1,25,47,16,19,27,4,3,1,1,0,0,0,0,0, Full Time,news,On in the 4th quarter... %P,sub,Started as a sub,449000,,410900,,Midfielder,13,1,58,64,0.87,1.62,0.00,445400,98

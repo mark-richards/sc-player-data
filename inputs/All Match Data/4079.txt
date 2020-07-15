@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Brisbane,Lions,R9,17.10.112,15.6.96, Full Time
+May 27,2012,1:10,Docklands,Fox Sports,290110,10340907,430086,0,Roof closed,15,,
+
+<em>Kuzco</em>: Goldstein 28 disposals WOW !<br><em>Zombify</em>: Oh wow&#044; only 3 tons this game&#044; 7 90's with 5 of them from BL<br><em>Alka</em>: Adcock 44 point quarter!<br><em>strikes91</em>: flower off brown got 57<br><em title="TNUC">tnuc</em>: why does Black have P plates.?<br><em>Zombify</em>: Yes Zorko & Golby!! 65 points this quarter :) for 94 & 93&#044; you legends!!<br><em>bazza525</em>: zorko sc robbed <br><em>greentea89</em>: oh snap jeddelley! out of nowhere<br><em>TheYesMan</em>: thanks coldog!<br><em title="EFC2012">efc2012</em>: played pfeiffer over zorko.. flower<br><em>coldog</em>: Zorko 78 sc and Boomer 104 SC points<br><em>FTroopCapt</em>: 58pts up to win by 16. This game was so close to be a coach killer & in the end both escape<br>
+271129,Todd,Goldstein,NM,45,140,153,162,123,152,13,15,5,2,47,1,0,0,0, Full Time,star,%H and %D with %M and %T,sore,Landed on his back in a ruck contest with Brown in Q3 which left him sore
+960491,Brent,Harvey,NM,25,101,103,127,83,111,16,11,6,2,0,2,1,1,0, Full Time,rain,Tagged by Raines... %D and %M plus %s,garbage,Racked it up in Q4 garbage time
+210023,Drew,Petrie,NM,24,95,121,117,80,98,13,4,7,1,3,0,0,3,2, Full Time,news,Booted %s from %D and %G,goose,Maguire on him
+240417,Andrew,Swallow,NM,25,93,127,116,75,105,10,15,3,5,0,1,1,1,0, Full Time,news,%2 Redden... %O and %T plus %M and %s,,
+270861,Levi,Greenwood,NM,14,82,76,102,64,87,16,8,2,1,0,2,0,1,0, Full Time,news,%D,tagger,Tagging Rich
+250285,Leigh,Adams,NM,19,76,97,95,65,94,9,16,2,4,0,3,3,0,1, Full Time,news,Manning up Hanley... %P and %T,,
+280864,Sam,Wright,NM,16,75,97,87,66,79,7,7,3,1,0,2,0,4,1, Full Time,news,Playing forward on McGrath... %s from %D and %M,,
+230272,Michael,Firrito,NM,10,72,79,93,58,81,12,8,5,2,0,0,1,0,0, Full Time,news,%P and %M,job,Started at FB on Zorko
+280863,Ryan,Bastinac,NM,9,70,67,87,56,79,10,11,3,2,0,0,0,0,1, Full Time,news,%D and %M plus %s,tagger,Tagging Black
+240131,Nathan,Grima,NM,9,69,97,90,57,81,14,7,5,1,0,0,2,0,0, Full Time,job,Standing Cornelius.. %D and %M,,
+290547,Kieran,Harper,NM,20,66,86,83,54,66,6,3,3,4,0,2,1,3,0, Full Time,news,First goal... %s from %P on Golby... also %T,,
+230232,Daniel,Wells,NM,8,65,79,85,50,72,11,7,3,3,0,0,1,0,0, Full Time,tagged,Tagged by Polkinghorne... %P and %T with %M,,
+290787,Shaun,Atley,NM,9,63,76,77,51,72,8,12,2,2,0,1,0,0,0, Full Time,news,%O including %B,,
+270303,Luke,Delaney,NM,8,58,78,76,47,63,11,4,5,1,0,1,1,0,0, Full Time,job,Standing Brown... %P and %M,,
+281395,Scott D.,Thompson,NM,9,58,71,73,47,63,7,8,4,2,0,1,0,0,0, Full Time,job,Standing Merrett... %P,,
+230240,Aaron,Edwards,NM,5,56,49,73,46,61,8,5,5,2,0,1,1,0,1, Full Time,news,%s from %D and %G on Patfull... also %T,,
+291672,Aaron,Black,NM,15,55,85,65,50,63,5,6,3,1,0,0,1,3,0, Full Time,bubble,Played forward on Drummond... %s from %O and %M,,
+293796,Cameron,Delaney,NM,8,54,62,71,45,64,11,5,4,1,0,0,2,0,1, Full Time,job,Minding Yeo... %O and %M plus %s,,
+280921,Ben,Cunnington,NM,10,52,39,67,43,60,3,9,4,4,0,0,1,0,0, Full Time,tagger,Tagging Rockliff... %D and %M with %T,,
+290194,Jamie,MacMillan,NM,7,42,48,56,34,54,10,6,0,2,0,1,3,0,0, Full Time,job,Chasing Bewick... %O and %T... also %F,,
+280944,Jack,Ziebell,NM,8,36,41,47,30,39,6,1,3,1,0,0,1,1,0, Full Time,injured,%P and %M plus %s... back soreness worked on at QT,subbed,Subbed off in Q3 for Garlett
+271300,Cruize,Garlett,NM,2,32,20,42,24,33,6,2,2,1,0,0,0,0,0, Full Time,in,%l Lindsay Thomas... on in Q3 for Ziebell... %O and %M,sub,Started as a sub
+281373,Jack,Redden,BL,32,126,131,97,102,132,16,9,9,5,3,1,1,2,0, Full Time,hot,%2 Swallow... %D and %M plus %T and %s,,
+270512,Pearce,Hanley,BL,20,96,112,61,75,100,17,4,8,4,1,2,2,0,0, Full Time,news,%D and %T with %M,job,Adams manning him up
+240087,Jed,Adcock,BL,25,95,84,88,72,99,9,11,6,7,0,0,0,0,0, Full Time,garbage,%P and %T with %M... many of his stats in Q4 junk time,,
+271072,Daniel,Rich,BL,20,95,76,60,69,93,16,5,3,5,0,2,0,1,0, Full Time,tagged,Tagged by Greenwood... %P and %T with %s,,
+261224,Dayne,Zorko,BL,28,94,83,92,68,87,8,6,4,9,0,4,0,1,0, Full Time,cash,Started at FF on Firrito... %O and %M with %T and %s,garbage,Racked it up in Q4 garbage time
+290110,Mitchell,Golby,BL,24,93,78,59,75,105,16,9,6,4,0,2,3,0,0, Full Time,news,%D and %T with %M... also %F,job,Minding Harper
+200007,Jonathan,Brown,BL,22,82,57,69,73,90,9,5,10,2,0,1,2,2,0, Full Time,news,Kicked %s from %G and %P on Luke Delaney,,
+210013,Ashley,McGrath,BL,10,77,84,47,62,86,13,8,5,2,0,0,1,0,2, Full Time,job,Wright is his man... %D and %T with %M and %s,,
+270919,Tom,Rockliff,BL,16,76,87,57,65,90,9,13,4,2,0,0,1,1,0, Full Time,tagged,Tagged by Cunnington... %D and %M,sore,Hyperextended right knee in Q$
+200121,Josh,Drummond,BL,12,74,90,40,58,78,14,5,6,1,0,0,0,0,0, Full Time,job,Responsible for the second-gamer Black... %P and %M,,
+291828,Billy,Longer,BL,21,74,60,81,62,73,2,4,3,5,31,0,0,0,0, Full Time,cash,%H and %P with %T,,
+220062,Matt,Maguire,BL,10,66,96,55,50,66,8,5,5,4,0,1,0,0,0, Full Time,news,%P and %T with %M,job,Standing Petrie
+261391,Aaron,Cornelius,BL,17,66,63,47,60,69,8,2,5,0,0,2,1,4,0, Full Time,news,%s from %O and %M on Grima,,
+290748,Joshua,Green,BL,16,62,52,45,47,60,9,1,2,4,0,2,1,2,0, Full Time,news,%s from %D with %M and %T,,
+230147,Daniel,Merrett,BL,11,61,57,44,51,63,8,3,5,1,5,0,0,1,1, Full Time,news,%s from %P and %M on Thompson,,
+230170,Joel,Patfull,BL,16,59,85,58,47,66,6,5,5,6,0,1,3,0,0, Full Time,job,On Edwards... %O and %T,,
+281329,Rohan,Bewick,BL,10,59,61,44,47,63,8,5,3,3,0,1,1,1,0, Full Time,news,%s from %D on MacMillan,,
+292128,Elliot,Yeo,BL,7,54,47,38,45,61,7,9,3,1,0,1,0,0,1, Full Time,rookie,First game... %s from %P and %M on Cameron Delaney,,
+240013,Andrew,Raines,BL,4,51,32,35,39,57,8,6,2,3,0,0,1,0,0, Full Time,tagger,Tagging Harvey... %O and %M,,
+260975,James,Polkinghorne,BL,3,47,42,24,36,51,9,5,2,1,0,0,0,0,0, Full Time,news,%D,tagger,Tagging Wells
+980007,Simon,Black,BL,3,39,45,27,29,45,6,6,0,3,0,0,1,0,0, Full Time,injured,Tagged by Bastinac... %O and %T... left thigh pulled slightly in the warm-up... struggled all game,subbed,Subbed off in Q3 for Lester
+291548,Ryan,Lester,BL,2,23,27,20,21,27,2,4,3,0,0,0,0,0,0, Full Time,news,On in Q3 for Black,sub,Started as a sub

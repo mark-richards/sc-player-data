@@ -1,0 +1,48 @@
+Brisbane,Lions,Carlton,Blues,R9,12.13.85,13.20.98, Full Time
+May 25,2013,7.40,Gabba,Seven,281373,10390906,bl-v-carl,0,Windy,23,,
+
+<em>Stuart88</em>: Warkock only 46 SC doesn't seem fair<br><em>Stuart88</em>: Warkock<br><em>rosty63</em>: wheres the flog that was bagging gibbs now!!!???<br><em>woofy</em>: nice sc gibbs<br><em>ballbag</em>: glad i traded maloney for SJ!<br><em>colin wood</em>: Time left?<br><em>Rob K</em>: how long has moloney freakin been on 85 for?!<br><em>spudaroos</em>: Murphy is a bit of a truck.<br><em>scaledup</em>: needed kruz to beat brown in dt for a bet&#044; so close.. good come back kruz<br><em>Changeling</em>: cmon zorko<br><em>woofy</em>: keep going hanley!<br><em>wangwonder</em>: judd bin it<br>
+281373,Jack,Redden,BL,26,93,90,121,72,99,9,10,5,7,0,0,1,1,0, Full Time,news,%O and %T with %M and %s,,,478700,105,499200,89,Centre,30
+230151,Brent,Moloney,BL,25,87,69,113,71,93,12,5,6,4,0,1,2,2,0, Full Time,news,%2 Judd... %O and %M plus %T and %s... %F as well... had a particularly good Q2,,,409900,70,469500,110,Centre,3
+281329,Rohan,Bewick,BL,17,81,91,99,67,82,8,6,4,3,0,2,0,3,1, Full Time,news,First goal... %s from %O on Walker... also %M and %T,,,324600,55,330100,70,Forward,8
+270512,Pearce,Hanley,BL,18,80,102,102,64,81,16,3,6,0,0,2,0,1,0, Full Time,news,Started on a HFF on Simpson... %P and %M,,,471400,70,537900,79,Back,11
+291548,Ryan,Lester,BL,18,80,87,104,62,82,10,7,6,4,0,1,0,0,1, Full Time,news,%D and %T,,,326800,91,394200,100,Back,35
+980007,Simon,Black,BL,14,79,81,98,63,88,8,14,3,4,0,1,0,0,1, Full Time,news,%D and %T starting forward,,,421300,150,497300,185,Centre,20
+200007,Jonathan,Brown,BL,21,78,47,104,62,78,10,1,8,4,0,0,1,1,3, Full Time,news,Booted %s from %D and %G on Jamieson... also %T,,,341900,81,356900,81,Forward,16
+240087,Jed,Adcock,BL,14,76,111,99,59,81,9,9,4,5,0,2,1,0,0, Full Time,tagged,Forward tag on him by Armfield... %P,,,427900,102,472700,111,Back,7
+230170,Joel,Patfull,BL,14,73,97,101,54,72,11,1,7,5,0,0,1,0,0, Full Time,job,Has Waite... %D and %T,,,261400,24,319900,51,Back,24
+230211,Brent,Staker,BL,18,71,98,91,59,78,12,5,6,1,0,0,1,1,0, Full Time,news,%M and %O plus %s,job,On Kreuzer,132600,,128000,,Back Forward,14
+270919,Tom,Rockliff,BL,14,67,69,84,59,79,12,7,5,0,0,1,2,1,1, Full Time,news,%P and %M plus %s starting forward on White,,,494300,112,535700,88,Forward Centre,38
+250335,Matthew,Leuenberger,BL,15,65,84,75,57,65,4,4,2,2,28,2,0,0,1, Full Time,injured,%H and %P with %M and %T... also %T... dislocated thumb in Q4 which had him off for the rest of the game,,,357400,60,443200,68,Ruck,23
+295518,Sam,Docherty,BL,8,57,69,74,43,60,10,5,3,2,0,0,0,0,0, Full Time,news,%O and %M,in,Late replacement for Mitchell Golby,108500,-11,115900,-38,Back,1
+260975,James,Polkinghorne,BL,13,55,76,65,48,64,7,9,3,0,0,0,0,1,1, Full Time,news,%O and %M plus %s,,,350800,71,364200,71,Centre,31
+292128,Elliot,Yeo,BL,5,52,68,71,40,54,10,1,5,2,0,0,1,0,0, Full Time,job,Minding Robinson... %D,,,283200,54,300400,68,Back,26
+261224,Dayne,Zorko,BL,8,46,61,60,34,46,2,6,2,5,0,1,0,0,1, Full Time,news,%O and %T on Tuohy,,,415200,77,476400,92,Forward Centre,15
+293603,Sam,Mayes,BL,4,45,47,60,33,45,8,2,3,2,0,0,0,0,0, Full Time,news,One handball in Q1... %O,,,285300,94,272500,76,Forward Centre,32
+240013,Andrew,Raines,BL,4,43,32,55,37,55,6,8,2,2,0,0,2,0,1, Full Time,tagger,Tagging Murphy... %P and %T... also %F,,,291400,77,276100,75,Centre,29
+270936,Jordan,Lisle,BL,3,39,45,50,30,42,3,6,2,3,0,0,0,0,0, Full Time,news,%P on Henderson... also %T,,,260500,22,304800,36,Forward,19
+290748,Joshua,Green,BL,7,30,44,37,24,30,4,2,1,1,0,1,0,1,0, Full Time,news,On in Q3 for McGrath,sub,Started as a sub,265200,79,265900,72,Forward,6
+210013,Ashley,McGrath,BL,3,29,33,40,24,36,5,3,2,2,0,0,2,0,0, Full Time,job,Chasing Garlett... %P and %T,subbed,Subbed off in Q3 for Green,242900,37,302200,39,Back Forward,9
+294270,Sam,Michael,BL,0,12,30,15,12,18,0,4,1,1,0,0,1,0,0, Full Time,news,One handball to HT,,,108500,,115900,,Ruck,46
+220110,Jarrad,Waite,CA,32,114,124,90,96,114,14,2,12,3,0,2,1,3,3, Full Time,star,Booted %s from %G and %P on Patfull... also %T,,,454800,120,520000,131,Forward,30
+281079,Kane,Lucas,CA,27,102,110,72,86,108,14,6,8,2,0,1,1,3,0, Full Time,hot,%P and %M plus %s,,,360800,89,368400,97,Centre,9
+290311,Mitch,Robinson,CA,16,89,122,56,74,96,13,9,4,1,0,1,0,2,3, Full Time,news,%s from %O and %M on Yeo,,,419500,83,434100,85,Forward Centre,12
+230202,Kade,Simpson,CA,14,87,103,49,69,91,16,5,8,1,0,0,0,0,1, Full Time,job,Starting on a HBF on Hanley... %O and %M,,,368200,110,411200,84,Centre,6
+250417,Bryce,Gibbs,CA,14,84,109,44,59,82,17,3,3,4,0,1,0,0,1, Full Time,news,%P and %T,,,451100,135,486700,132,Back Centre,4
+280971,Jaryd,Cachia,CA,19,83,87,63,67,93,12,8,6,5,0,2,3,0,0, Full Time,news,%O and %M with %T and %F,,,156200,-51,159900,-45,Centre,37
+220056,Chris,Judd,CA,20,82,113,49,67,96,13,13,2,2,0,0,1,1,0, Full Time,news,%2 Moloney... %B among %P,,,380700,53,477500,72,Centre,5
+261299,Matthew,Kreuzer,CA,16,82,92,74,67,82,7,5,5,4,16,1,0,0,3, Full Time,news,%s from %P and %G on Staker... also %H and %T,,,323300,81,388800,112,Ruck,8
+261043,Michael,Jamison,CA,19,79,65,60,64,81,11,4,10,2,0,0,0,0,0, Full Time,job,Has Brown... %P and %M,sore,Knock to his jaw in Q3,261900,77,347000,88,Back,40
+240028,Brock,McLean,CA,15,76,94,60,66,93,8,17,4,2,0,1,1,0,0, Full Time,concussed,%O including %b by hand... also %M... helped off in Q4 after his head fell into the turf under a Raines tackle,,,433500,123,487700,129,Centre,14
+250105,Marc,Murphy,CA,15,73,105,44,64,84,11,11,4,0,0,3,1,1,0, Full Time,news,%B among %D with %M and %s,rain,Tagged by Raines,503000,157,531500,132,Centre,3
+260533,Dennis,Armfield,CA,14,70,83,40,56,75,12,6,4,1,0,0,0,1,0, Full Time,news,%O and %M in a forward role on Adcock,,,298400,41,333100,28,Forward Centre,27
+270326,Lachie,Henderson,CA,10,69,68,51,55,70,10,3,8,2,0,0,0,0,1, Full Time,job,On Lisle... %M and %D,,,323700,30,438900,43,Back Forward,23
+990059,Heath,Scotland,CA,13,68,72,35,59,82,13,8,6,0,0,0,2,0,1, Full Time,news,%D,,,443400,110,487900,126,Back Centre,29
+294691,Tom,Bell,CA,13,66,90,49,49,68,9,7,2,4,0,1,0,0,2, Full Time,news,%D and %T with %M and %s,,,304000,63,310200,47,Centre,28
+270653,Jeff,Garlett,CA,11,62,62,33,51,62,11,1,4,0,0,1,0,2,2, Full Time,news,%s from %O on McGrath,,,417200,96,525600,121,Forward,38
+270146,Ed,Curnow,CA,7,60,90,41,50,69,8,11,3,1,0,1,0,0,0, Full Time,news,%P,,,373300,83,384700,83,Centre,35
+240014,Andrew,Walker,CA,4,46,58,20,36,48,10,2,4,0,0,0,0,0,0, Full Time,job,Responsible for Bewick... %D,,,406400,104,545900,155,Forward Centre,1
+292511,Zach,Tuohy,CA,4,43,47,32,33,45,6,4,3,2,0,0,0,0,0, Full Time,job,Minding Zorko.... %P and %T,,,237700,70,321900,88,Back,42
+250672,Robert,Warnock,CA,13,31,44,30,34,39,1,0,0,1,33,0,3,0,0, Full Time,news,%H,,,333900,52,456200,69,Ruck,11
+296531,Joshua,Bootsma,CA,1,18,19,16,14,18,2,1,2,1,0,0,0,0,0, Full Time,news,On in Q3 for White,sub,Started as a sub,212300,58,226500,55,Back,21
+270637,Simon,White,CA,0,4,14,6,2,3,0,0,0,1,0,0,0,0,0, Full Time,job,Takes the resting midfielder which is mostly Rockliff,subbed,Subbed off in Q3 for Bootsma,259300,72,319800,65,Back,43

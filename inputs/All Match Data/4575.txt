@@ -1,0 +1,48 @@
+Essendon,Bombers,North Melbourne,Kangaroos,R21,9.16.70,17.13.115, Full Time
+Aug 17,2013,4.40,Docklands,Seven,290160,10392104,ess-v-nmfc,0,Roof closed,15,,
+
+<em style='color:#a0a'>mattbalmer</em>: hope Bombers loose their points just to rub salt into the wounds&#044; might as well have Mad Monday this week.<br><em style='color:#000'>sacky35</em>: use the ambulance loophole. call them for a sore foot to get to a & e quicker than going thru the waiting room. u khunt<br><em style='color:#000'>Khunt1vote</em>: ROFL at the butthurt toddler<br><em style='color:#000'>sacky35</em>: your name sums u up Khunt<br><em style='color:#000'>Khunt1vote</em>: Someone call Sacky a wahmbulance<br><em style='color:#000'>Mash</em>: and it's more hits for sc website so they love it<br><em style='color:#000'>Mash</em>: lol sacky if it was cheating they would lock the captain&#044; it's just an extra tactic<br><em style='color:#000'>sacky35</em>: How smart to cheat on your opponent? its a loophole only used by those without the skill to pick the right side friday<br><em style='color:#000'>vartic</em>: You realise HeraldSun themselves have done articles on how to use the loophole? It's a legitimate&#044; endorsed tactic<br><em style='color:#000'>sacky35</em>: All fanfooty use loophole&#044;all losers. not accountable.<br><em style='color:#000'>matthius</em>: will never ever have any respect for the essendon football club. pathetic is the only word you can use<br><em style='color:#000'>sacky35</em>: u obviously use loophole Costanza! How many chances do u want to pick the side. <br>
+230231,Jobe,Watson,ES,27,121,116,154,93,129,14,17,5,7,0,2,0,0,0, Full Time,gun,%P and %T with %M,,,409300,36,478500,64,Centre,4,16,98.3,111.4,10.10,11.65
+230084,Brendon,Goddard,ES,16,99,110,123,80,111,15,15,5,2,0,1,0,0,0, Full Time,news,%P and %M with %T,,,467100,85,482300,73,Back Centre,9,19,104.3,103.4,61.77,65.14
+240027,Brent,Stanton,ES,14,96,106,125,73,97,17,6,6,3,0,2,0,0,1, Full Time,tagged,Tagged by Greenwood... %O and %M with %T,,,433600,112,424800,109,Centre,5,18,103.6,95.6,10.76,2.25
+280824,Jake,Melksham,ES,26,95,120,120,78,101,13,6,4,4,0,2,2,3,2, Full Time,news,%D and %M plus %T and %s,tagger,Tagging Wells,386000,71,378700,88,Centre,17,18,76.8,72.6,0.84,1.11
+294798,Mark,Baguley,ES,20,88,76,110,74,99,6,15,8,4,0,0,0,0,0, Full Time,news,%O and %M plus %T,job,Minding Thomas,316100,72,352800,70,Back,46,18,65.5,68.6,1.10,0.73
+290160,Michael,Hibberd,ES,18,85,96,106,70,96,15,11,6,0,0,0,0,0,0, Full Time,news,%D with %k by foot.... also %M,,,395100,63,443800,66,Back,1,19,88.3,96.2,13.97,12.62
+290641,Jake,Carlisle,ES,14,77,85,98,66,87,13,8,8,0,0,1,1,0,0, Full Time,news,%M and %O,job,Standing Black,282900,121,331200,119,Back,22,18,69.1,77.4,2.89,2.97
+270584,Kyle,Hardingham,ES,15,75,80,97,62,80,9,5,7,3,0,0,1,1,2, Full Time,news,%D and %M plus %T and %s,switch,Matched up on Jacobs on a HBF... swtiched forward in the second half,265300,55,317900,73,Back,34,5,56.4,61.8,0.36,0.22
+261320,Tom,Bellchambers,ES,21,68,91,78,65,74,7,2,3,0,26,2,2,2,0, Full Time,news,%H and %P plus %M and %s,,,336100,109,375200,94,Ruck,2,17,74.1,80.5,2.69,3.20
+250569,Heath,Hocking,ES,9,63,62,79,54,71,5,10,5,3,1,2,1,0,1, Full Time,tagger,Tagging Harvey... %O and %T with %M,,,321100,36,348100,13,Centre,39,15,71.9,68.3,1.06,0.76
+270588,Cale,Hooker,ES,9,60,54,80,53,78,9,9,5,3,0,0,4,0,0, Full Time,news,%P and %T with %M... %F as well,job,Standing Petrie,354700,102,390800,100,Back,26,19,72.6,79.2,1.06,0.70
+294518,Joe,Daniher,ES,8,57,51,72,48,59,7,4,6,1,1,1,0,0,4, Full Time,news,Kicked %s from %P and %G on Luke Delaney,,,170200,14,186800,1,Forward,6,3,52.7,56.7,21.33,28.27
+230051,Alwyn,Davey,ES,11,55,54,68,45,57,6,4,3,2,0,0,0,2,0, Full Time,news,%s from %D and %M on Mullett,,,246000,46,271700,70,Forward,29,11,53.3,61.5,0.45,0.53
+270951,David,Zaharakis,ES,7,55,68,68,43,63,8,10,1,2,0,0,0,0,0, Full Time,news,%D with %b by hand,,,331600,90,350600,89,Centre,11,18,83,85.6,1.16,1.36
+250352,Leroy,Jetta,ES,4,52,37,65,41,58,5,9,2,3,0,0,0,0,1, Full Time,news,On in Q2 for Heppell... %s from %P and %T,sub,Started as a sub,279800,101,282200,106,Forward,7,6,52.8,50.5,0.48,0.51
+295319,Lauchlan,Dalgleish,ES,3,48,70,62,37,51,9,4,3,1,0,0,0,0,0, Full Time,rookie,First game... %P and %M,,,108500,,115900,,Centre,36,0,0,0,0.20,0.21
+291686,Nick,Kommer,ES,9,47,53,58,39,51,6,5,3,1,0,0,0,1,0, Full Time,news,%s from %D and %M on Wright,,,226200,65,221200,44,Centre,38,17,51.7,52.9,5.83,6.74
+260073,Ben,Howlett,ES,6,39,44,48,33,49,8,7,1,0,0,0,1,0,1, Full Time,news,%P,,,331200,88,311700,92,Centre,40,16,79.3,77,1.10,1.84
+292503,Stewart,Crameri,ES,3,38,45,49,30,41,6,4,1,2,0,2,1,0,2, Full Time,news,%s from %D on Grima... also %T,,,336900,129,376300,117,Forward,12,13,67.7,77,0.82,0.82
+271022,Tayte,Pears,ES,4,35,32,46,30,45,5,6,2,2,0,0,2,0,0, Full Time,job,On Tarrant... %P,,,337700,52,356500,54,Back,16,8,74.9,75.9,0.61,0.51
+290629,Dyson,Heppell,ES,2,35,39,45,27,36,6,3,2,1,0,1,0,0,0, Full Time,injured,Tagged by Bastinac... %P and %M... right foot put in a moon boot in Q2... apparently an ankle injury,subbed,Subbed off in Q2 for Jetta,440100,125,438100,109,Back Centre,21,18,98.3,94,49.26,33.46
+291812,Nicholas,O'Brien,ES,3,28,34,36,22,30,2,4,2,2,0,0,0,0,0, Full Time,news,Donuts in Q1... starting forward on MacMillan... %P and %T with %M,,,165900,14,204100,35,Forward,10,2,47.5,46,0.80,0.38
+210023,Drew,Petrie,NM,38,134,162,100,108,130,18,2,10,5,6,4,1,3,1, Full Time,cherry,Booted %s from %P and %G on Hooker... also %H and %T,,,399100,128,491400,129,Forward,20,19,82.8,99.4,4.00,4.90
+270861,Levi,Greenwood,NM,25,109,120,80,90,132,13,25,2,4,0,1,1,0,0, Full Time,hot,Tagging Stanton... %O including %B with %T,in,Late replacement for Jack Ziebell,318700,26,333100,14,Centre,24,4,84.3,90.8,0.64,0.97
+280864,Sam,Wright,NM,25,99,108,63,84,109,15,10,9,0,0,0,0,1,1, Full Time,news,%O and %M plus %s,job,In defence on Kommer,233400,7,282500,31,Back,19,13,45.2,52.5,0.36,0.42
+271129,Todd,Goldstein,NM,28,94,124,100,79,99,3,11,3,6,30,0,0,0,0, Full Time,news,%H and %P with %T and %M,,,413300,141,545100,148,Ruck,22,19,88.6,111.7,17.00,16.16
+230232,Daniel,Wells,NM,22,93,107,60,77,96,14,3,5,2,0,1,1,4,0, Full Time,star,Tagged by Melksham... %O and %M plus %T and %s,,,388000,58,463300,48,Centre,8,19,81.8,95.3,0.92,1.21
+250373,Lachlan,Hansen,NM,14,91,105,60,77,102,14,10,9,1,0,1,1,0,0, Full Time,news,Loose in defence... %M and %P... racked it up in Q1,,,378300,82,398800,88,Forward,6,17,70.7,70.4,1.19,0.64
+280921,Ben,Cunnington,NM,21,91,110,63,73,105,14,10,4,5,0,0,3,1,0, Full Time,news,%P and %M with %T... %s and %F as well,,,433200,130,510500,129,Centre,10,17,83.2,95.8,0.56,0.69
+280863,Ryan,Bastinac,NM,19,85,82,48,68,90,15,6,6,1,0,0,0,1,0, Full Time,news,%D and %M... tagging Heppell in the first half until Hep got injured,,,411400,103,479100,140,Centre,3,19,83.4,91,1.01,1.33
+290802,Ben,Jacobs,NM,13,77,89,59,57,80,10,9,2,5,0,1,0,0,2, Full Time,news,Matched up on Hardingham on a HFF... %s from %P and %M with %T,,,239500,70,277000,41,Back,5,4,36,51,0.30,0.41
+291672,Aaron,Black,NM,14,75,70,54,64,84,11,6,8,2,1,1,2,0,2, Full Time,news,%s from %D and %G on Carlisle... also %F,,,319100,112,328000,94,Forward,35,15,68.9,75.1,3.40,5.59
+261909,Lindsay,Thomas,NM,16,72,84,54,56,73,10,4,4,4,0,2,1,1,1, Full Time,news,First goal... %s from %O and %T with %M on Baguley,,,282300,75,338200,77,Forward,12,17,64.6,72.3,1.20,1.43
+291963,Brad,McKenzie,NM,13,72,57,43,57,78,13,5,6,2,0,0,1,0,0, Full Time,news,%O and %M with %T,,,191800,64,195700,80,Centre,2,7,46.7,42.3,4.81,2.05
+960491,Brent,Harvey,NM,9,70,72,40,56,76,12,8,4,1,0,1,0,0,1, Full Time,tagged,Tagged by Hocking... %P and %M,,,464900,116,531200,157,Forward Centre,29,13,93.2,103.9,7.62,10.06
+290194,Jamie,MacMillan,NM,15,67,-,51,55,72,8,8,4,2,0,1,0,1,0, Full Time,job,The kid O'Brien is his man... %P and %T with %M and %s,,,323900,66,368000,63,Centre,34,19,67.9,71.6,0.87,0.69
+240131,Nathan,Grima,NM,14,64,72,36,53,69,11,5,5,0,0,0,0,1,0, Full Time,sore,%P and %M... foot problem in Q2,switch,Standing Crameri... switched forward in Q4,336000,73,390900,96,Back,17,16,65.7,75,0.58,0.66
+270325,Robbie,Tarrant,NM,16,63,65,51,55,65,6,4,4,1,0,1,0,3,2, Full Time,news,One tackle in Q1... Pears on him... %s from %P and %M,,,242300,92,275500,116,Forward,25,10,51,57.1,0.43,0.39
+290787,Shaun,Atley,NM,9,58,52,42,43,60,9,4,3,4,0,1,1,0,0, Full Time,news,%O and %T with %M,,,331200,65,383500,42,Back,18,19,66.4,74.8,2.28,4.51
+250285,Leigh,Adams,NM,8,52,72,43,45,61,5,10,4,1,0,0,0,0,1, Full Time,injured,%D and %M plus %s... chest knock in Q2 but played on for a while... shoulder knock aggravated his existing injury in Q3,subbed,Subbed off in Q4 for Sierakowski,400900,100,443900,77,Forward Centre,13,19,72.8,79.8,1.67,1.50
+270303,Luke,Delaney,NM,7,50,43,38,41,51,7,2,7,1,0,0,0,0,0, Full Time,job,Daniher is his man... %D and %M,,,230700,46,278200,32,Back,15,2,53,70.5,0.18,0.23
+291445,Aaron,Mullett,NM,7,48,63,25,39,57,9,7,2,1,0,0,1,0,0, Full Time,job,Minding Davey... %P and %M,,,361400,51,383400,55,Centre,41,19,76,80.2,3.21,3.03
+250557,Sam,Gibson,NM,10,45,49,28,37,51,8,2,3,2,0,0,2,1,0, Full Time,news,On a wing as usual... %D and %M plus %T and %s... also %F,,,356600,74,384000,68,Centre,43,19,82.3,76.9,0.49,0.39
+280612,Will,Sierakowski,NM,0,4,2,6,2,3,0,0,0,1,0,0,0,0,0, Full Time,in,Late replacement for Scott D. Thompson... on in Q4 for Adams,sub,Started as a sub,139900,48,152600,53,Back,28,4,36.3,37,1.90,2.12

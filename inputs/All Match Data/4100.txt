@@ -1,0 +1,48 @@
+Gold Coast,Suns,North Melbourne,Kangaroos,R12,12.8.80,11.21.87, Full Time
+Jun 16,2012,7:40,Gold Coast,Fox Sports,280863,10341204,430107,0,Fine,24,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>nwsnapper</em>: Suns missed a chance for some credability.<br><em>Cruise on</em>: Whose hanging around for a party? Buddy's just rocked up.<br><em>Pecks</em>: took priddis as my capt over gaz<br><em>flytilidie</em>: m0nty why do u hate ablett so much?? u do this every time. he was best so easily<br><em>chadwick</em>: Harvey best on? Dreaming<br><em>Cruise on</em>: I've got Mountain Goat&#044; Sol&#044; Asahi & james Squire Golden Ale<br><em>Slashers</em>: Yiieeeablettt<br><em>rosty63</em>: squires amber ale 4 me @cruiseon<br><em>DuhWinning</em>: yabaletttt<br><em>doogz</em>: can't believe i took Nic ants score of 185 and lost against my auto-captain choice...<br><em>djmckf</em>: North should have been the GC Suns. They are so ordinary.<br><em>flytilidie</em>: @igotabig1 because ablett should get the recongnition he deserves tonight. bog easily<br>
+220001,Gary,Ablett jnr,GC,43,148,188,178,121,168,19,23,1,5,0,1,1,4,0, Full Time,gun,First goal... tagged by Greenwood... %P and %T plus %s,,
+250249,Danny,Stanley,GC,24,103,89,131,81,111,14,13,6,4,0,1,0,0,0, Full Time,hot,%B among %D with %M and %T on a HFF in an interesting matchup on Swallow,,
+290817,Brandon,Matera,GC,25,94,74,120,80,103,14,7,10,1,0,0,1,1,1, Full Time,news,%O and %M,,
+291594,Harley,Bennell,GC,20,90,127,109,74,104,14,13,1,2,2,0,1,2,0, Full Time,news,Ran around by himself all night... %D,,
+240712,Michael,Rischitelli,GC,15,87,89,112,67,91,10,10,5,5,0,1,0,0,1, Full Time,news,%2 Ziebell... %P and %M with %T,,
+240316,Sam,Iles,GC,10,82,101,109,62,84,16,4,5,3,0,2,1,0,0, Full Time,news,%D and %M with %T,job,Responsible for Thomas
+280722,Zac,Smith,GC,19,80,91,92,76,94,4,13,6,1,22,1,1,0,0, Full Time,news,Started at FF... %P and %M... also %H,,
+250260,Liam,Patrick,GC,15,78,59,97,63,83,9,9,4,3,0,1,0,1,2, Full Time,news,%s from %P and %M with %T on Atley,,
+281279,Kyal,Horsley,GC,14,76,85,92,62,90,8,17,2,3,0,0,0,0,0, Full Time,news,%2 Bastinac... %O including %B with %T and %M,,
+230015,Jared,Brennan,GC,11,69,62,87,56,71,7,6,5,3,0,1,0,1,2, Full Time,news,Booted %s from %P and %M at CHF on Firrito... also %T,,
+290623,Josh,Caddy,GC,10,66,65,85,50,65,10,3,3,3,1,1,0,1,1, Full Time,news,%O and %T with %M and %s,,
+292512,Karmichael,Hunt,GC,8,65,72,78,53,75,6,15,1,3,0,2,0,0,0, Full Time,nz,%B among %P with %T,,
+281025,Luke,Russell,GC,9,62,40,80,48,66,10,6,4,2,0,0,0,0,0, Full Time,news,%D and %M,,
+290538,Taylor,Hine,GC,14,56,50,69,47,66,7,9,2,2,0,0,1,1,0, Full Time,job,Responsible for Adams... %O and %M plus %s,,
+294266,Tom,Hickey,GC,6,55,87,63,50,60,1,10,3,2,12,3,0,0,0, Full Time,news,%P and %M... also %H,,
+290527,Trent,McKenzie,GC,7,50,49,61,40,54,6,9,1,2,0,3,0,0,0, Full Time,news,%P on McMahon,,
+281075,Rory,Thompson,GC,3,44,72,58,33,42,5,3,3,3,0,2,0,0,0, Full Time,sore,%M and %D with %T... pinged his right calf in Q4,job,On Petrie
+291753,Sam,Day,GC,8,33,35,40,29,34,4,2,3,0,0,1,0,1,1, Full Time,news,Kicked %s from %P and %G on Thompson,,
+250716,Matthew,Warnock,GC,3,29,30,38,27,43,4,7,1,2,1,0,3,0,0, Full Time,muppet,Has Tarrant... %O and %T,,
+294643,Alex,Sexton,GC,1,27,30,35,20,27,5,2,1,1,0,1,0,0,0, Full Time,in,%l Campbell Brown.. on in Q3 for Tape... %P,sub,Started as a sub
+293223,Seb,Tape,GC,1,22,21,30,15,21,3,1,1,2,0,0,0,0,0, Full Time,injured,Minding Black... %D and %T... off in Q3 after Thomas fell across his right leg,subbed,Subbed off in Q3 for Sexton
+290703,Joel,Wilkinson,GC,7,16,16,25,17,33,1,6,0,4,0,0,5,0,0, Full Time,nigeria,%P and %T... also %F,tagger,Tagging Harvey
+240131,Nathan,Grima,NM,31,132,126,89,103,135,21,8,12,4,0,1,0,0,0, Full Time,hot,%M and %D,job,Standing the resting ruckman
+960491,Brent,Harvey,NM,32,127,138,80,106,135,19,10,6,2,0,3,1,4,0, Full Time,star,Tagged by Wilkinson... %s from %P and %M... also %T,,
+210023,Drew,Petrie,NM,33,126,156,96,108,133,16,7,14,2,1,1,1,2,3, Full Time,hot,Booted %s from %D and %M on Thompson,,
+261909,Lindsay,Thomas,NM,31,104,121,94,80,101,10,6,6,7,0,2,0,2,2, Full Time,hot,%s from %O and %M with %T on Iles,sore,Left shoulder restrapped at QT
+271129,Todd,Goldstein,NM,26,104,100,83,98,125,10,13,7,1,32,0,3,0,0, Full Time,hot,%H and %D with %M,,
+240417,Andrew,Swallow,NM,26,103,99,74,78,111,15,12,4,6,0,1,1,0,0, Full Time,hot,%P and %T with %M,job,Playing a HBF on Stanley
+230232,Daniel,Wells,NM,21,100,104,61,79,103,17,5,8,2,0,0,0,1,1, Full Time,hot,%O and %M plus %s... also %T,,
+281395,Scott D.,Thompson,NM,25,95,93,77,77,102,12,8,10,4,0,0,1,0,0, Full Time,news,%M and %P with %T,job,Has Day
+290194,Jamie,MacMillan,NM,14,89,77,56,68,93,15,7,6,3,0,0,0,0,0, Full Time,news,%D and %M with %T,job,Minding Russell
+280921,Ben,Cunnington,NM,27,88,85,83,71,97,7,13,4,6,0,1,1,1,1, Full Time,news,%D and %M plus %T and %s,,
+250135,Scott,McMahon,NM,14,86,99,65,70,93,12,7,9,3,0,0,1,0,0, Full Time,news,%P and %M with %T,cannon,Responsible for McKenzie
+250285,Leigh,Adams,NM,10,78,59,49,61,86,13,8,4,3,0,0,1,0,2, Full Time,news,%s from %P and %T on Hine... also %M,,
+250557,Sam,Gibson,NM,8,67,56,35,54,73,13,5,5,1,0,1,1,0,1, Full Time,rookie,First game... %D and %M and %s,,
+280863,Ryan,Bastinac,NM,8,67,69,52,53,75,8,11,3,3,0,0,0,0,0, Full Time,news,%2 Horsley... %P and %T with %M,,
+280944,Jack,Ziebell,NM,9,66,70,40,50,69,12,4,4,3,0,1,1,0,0, Full Time,news,%2 Rischitelli... %P and %M with %T,,
+280864,Sam,Wright,NM,9,61,46,38,42,60,11,3,2,4,0,0,0,0,0, Full Time,news,%O and %T with %M,,
+270325,Robbie,Tarrant,NM,5,60,61,38,46,58,10,2,4,2,1,2,0,0,3, Full Time,news,Kicked %s from %D and %T up forward on Warnock... also %G,,
+290787,Shaun,Atley,NM,7,52,82,33,44,66,8,11,1,2,0,1,2,0,0, Full Time,job,Chasing Patrick... %O,,
+230272,Michael,Firrito,NM,9,44,57,39,36,51,4,7,1,3,0,0,1,1,0, Full Time,news,%D and %T plus %s,job,Following Brennan
+270861,Levi,Greenwood,NM,2,25,29,7,24,40,7,4,1,1,0,0,4,0,1, Full Time,tagger,Tagging Ablett jnr... %D and %s... also %F,,
+291672,Aaron,Black,NM,1,21,23,25,16,24,1,3,1,3,0,0,1,0,0, Full Time,news,Tape on him... one handball in Q1... %P and %T,subbed,Subbed off at 3QT for Harper
+290547,Kieran,Harper,NM,1,20,19,11,16,23,4,1,1,1,0,0,1,0,2, Full Time,news,On after 3QT for Black,sub,Started as a sub

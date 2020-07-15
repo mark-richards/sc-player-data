@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Western Bulldogs,Bulldogs,R7,12.11.83,15.11.101, Full Time
+May 13,2012,1:10,Docklands,Fox Sports,200083,10340707,430068,0,Roof closed,14,,
+
+<em>Jawdan</em>: 1701 with 5 to go. Not bad considering I had Ellis on the field (6) Hmac who finished early (66) and <br><em>TheAnt</em>: Top score for SC would be 2800<br><em>elmazi</em>: 1906 with 4 to go<br><em>MickH</em>: Im 2072 with robbo&#044; god and broughts to come. would be 2116 if i had boyd Captain !!<br><em>drykill01</em>: What are we expecting as top sc score this week?<br><em>Smirks</em>: looking at 2500 in SC and 2300 in DT<br><em>merto09</em>: missed out on dicksons 102SC cause i didnt have him emergency :(<br><em>Centurions</em>: winner of the purple name game boys<br><em>Moondog21</em>: Boyd 140 sc Lake 108<br><em>thebigshot</em>: whinging me: Mummy. Fyffe&#044; GAJ HMac&#044; Bock&#044; hanley..ffs all have injuries<br><em>HotTiges84</em>: not good enough boomer<br><em>Crowbot_85</em>: Harvey 34 point qtr in DT and only 20 in SC? Bullshower.<br>
+260545,Liam,Anthony,NM,22,104,92,127,86,114,14,13,5,2,0,1,0,2,0, Full Time,hot,%O and %M with %T and %s,,
+281395,Scott D.,Thompson,NM,19,100,117,125,82,111,14,14,7,2,0,1,0,0,0, Full Time,hot,%D,job,Responsible for Giansiracusa
+240417,Andrew,Swallow,NM,26,95,86,128,68,99,13,9,2,9,0,2,2,0,0, Full Time,news,%2 Boyd... %P and %T,,
+271129,Todd,Goldstein,NM,28,88,93,108,74,93,4,8,4,6,27,0,1,0,0, Full Time,news,Started forward on Hargrave... %H and %P with %T,,
+230232,Daniel,Wells,NM,14,84,79,109,63,92,15,9,2,4,1,0,1,0,1, Full Time,news,%2 Dahlhaus... %O and %T,,
+261909,Lindsay,Thomas,NM,20,77,88,95,64,80,11,4,3,2,0,2,1,3,2, Full Time,news,%s from %O on Addison,,
+280944,Jack,Ziebell,NM,20,75,53,99,57,78,8,8,4,6,0,2,1,0,0, Full Time,news,%D,,
+290787,Shaun,Atley,NM,13,73,84,94,54,78,9,10,2,5,0,0,0,0,0, Full Time,job,Chasing Dickson... %P and %M,,
+960491,Brent,Harvey,NM,9,72,65,93,58,84,14,9,3,2,0,1,2,0,0, Full Time,tagged,Tagged by Picken... %D,,
+230141,Hamish,McIntosh,NM,10,66,77,82,55,71,7,5,3,3,17,0,1,0,0, Full Time,injured,%H and %P with %T and %M... right kneecap dislocation in Q3,subbed,Subbed off at 3QT for McKenzie
+250285,Leigh,Adams,NM,21,66,69,87,47,64,7,4,2,6,0,0,0,1,1, Full Time,news,%s from %D and %T on Murphy,,
+210023,Drew,Petrie,NM,16,65,67,81,58,70,5,4,5,3,0,2,2,3,1, Full Time,news,Booted %s from %P on Lake,,
+280864,Sam,Wright,NM,15,65,83,87,47,66,8,6,2,6,0,2,1,0,0, Full Time,sore,%P and %T with %M... right shoulder knock in Q4,job,Minding Grant
+280863,Ryan,Bastinac,NM,9,59,54,76,50,76,9,11,2,3,0,0,3,0,1, Full Time,news,%P and %T,tagger,Tagging Griffen
+230272,Michael,Firrito,NM,8,56,61,73,43,63,9,7,2,3,0,0,1,0,0, Full Time,news,%D,,
+290547,Kieran,Harper,NM,14,54,42,70,41,53,5,3,3,4,0,0,0,1,2, Full Time,news,%s from %O and %T,,
+293796,Cameron,Delaney,NM,14,54,57,74,37,51,5,3,3,6,0,0,0,0,0, Full Time,job,Chasing Sherman... %M and %O with %T,,
+280921,Ben,Cunnington,NM,11,53,59,65,45,58,4,7,4,2,1,0,0,1,0, Full Time,news,%s from %P up forward on Veszpremi,,
+290194,Jamie,MacMillan,NM,4,53,63,69,40,54,7,5,3,3,0,1,0,0,0, Full Time,job,Minding Higgins... %O and %T with %M,,
+230240,Aaron,Edwards,NM,14,49,36,60,46,58,5,6,6,0,0,0,1,1,1, Full Time,news,%D and %M on Austin,,
+270303,Luke,Delaney,NM,3,28,39,33,27,39,3,8,2,0,0,0,1,0,0, Full Time,job,Has Roughead,,
+291963,Brad,McKenzie,NM,2,23,8,30,20,24,3,1,4,0,0,0,0,0,0, Full Time,news,On after 3QT for McIntosh,sub,Started as a sub
+220010,Matthew,Boyd,WB,36,162,137,81,122,169,32,12,7,4,2,1,0,0,2, Full Time,magnet,%2 Swallow... %P and %T plus %M and %s,,
+291545,Mitch,Wallis,WB,38,119,110,106,92,126,11,17,4,8,0,2,0,1,0, Full Time,hot,%O and %T,,
+240156,Ryan,Griffen,WB,27,118,123,65,85,123,23,8,4,6,0,0,1,0,0, Full Time,star,Tagged by Bastinac... %P and %T with %M,,
+220039,Brian,Lake,WB,26,109,108,71,91,120,18,8,12,2,0,1,2,0,0, Full Time,rock,On Petrie... lots of intercept marks... %M and %O,,
+295712,Tory,Dickson,WB,35,105,113,102,81,100,8,4,5,8,0,1,0,4,1, Full Time,x-factor,Kicked %s from %O and %M on Atley... also %T... massive Q1,,
+210049,Daniel,Cross,WB,20,93,92,72,71,93,12,7,5,5,0,2,0,1,0, Full Time,news,%P and %T,,
+200082,Ryan,Hargrave,WB,14,92,98,58,73,96,15,8,7,2,0,2,0,0,0, Full Time,garbage,%M and %O with %T... most of his numbers late in Q3 and Q4 in junk time,job,Standing Goldstein
+240325,Justin,Sherman,WB,16,84,104,51,67,90,13,8,2,2,0,0,0,2,3, Full Time,news,Playing forward on Cameron Delaney... %P,,
+290799,Tom,Liberatore,WB,14,82,90,63,64,87,10,12,3,4,0,3,0,0,0, Full Time,news,%D,,
+200079,Daniel,Giansiracusa,WB,17,80,100,56,65,81,11,3,5,2,0,0,0,3,0, Full Time,news,%s from %D on Thompson,,
+200083,Robert,Murphy,WB,15,79,85,36,63,84,16,5,5,0,0,0,0,1,0, Full Time,news,%D,job,Adams manning him up
+270186,Patrick,Veszpremi,WB,9,74,80,50,61,90,11,13,3,3,0,0,2,0,0, Full Time,job,In defence on Cunnington... %P,,
+291526,Luke,Dahlhaus,WB,9,71,98,55,59,85,8,15,2,3,0,1,1,0,1, Full Time,news,%2 Wells... %O,,
+230255,Will,Minson,WB,16,64,71,59,62,76,4,5,3,2,34,0,3,0,0, Full Time,news,%H and %D,,
+280056,Ayce,Cordy,WB,16,63,76,57,51,67,6,6,4,4,0,1,1,1,1, Full Time,news,%s from %D and %T,,
+271439,Liam,Picken,WB,13,59,46,58,49,69,4,12,3,4,0,1,1,0,0, Full Time,news,%D,tagger,Tagging Harvey
+240212,Dylan,Addison,WB,9,57,54,43,47,63,8,5,6,2,0,0,1,0,0, Full Time,job,Following Thomas... %P,,
+261319,Jarrad,Grant,WB,9,57,72,47,44,61,7,6,3,4,0,1,1,0,1, Full Time,news,%O and %T on Wright,,
+280012,Jordan,Roughead,WB,20,57,50,69,39,52,2,4,2,8,4,1,0,0,0, Full Time,news,Luke Delaney on him when forward... %P and %H,subbed,Subbed off in Q4 for Smith
+260227,Shaun,Higgins,WB,11,54,55,47,45,59,5,5,2,3,0,0,1,2,2, Full Time,news,First goal... %s from %D and %T on MacMillan,concussed,Headclash with Firrito in Q2 left him woozy
+261243,Mark,Austin,WB,3,38,57,28,31,42,5,5,3,1,0,0,0,0,0, Full Time,job,Has Edwards... %O,,
+293847,Clay,Smith,WB,6,20,10,25,11,15,1,0,0,4,0,1,0,0,0, Full Time,in,%l Adam Cooney... on in Q4 for Roughead... %O and %T,sub,Started as a sub

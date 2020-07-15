@@ -1,0 +1,48 @@
+Adelaide,Crows,West Coast,Eagles,R15,9.15.69,11.9.75, Full Time
+Jul 06,2013,7.40,Footy Park,Seven,270917,10391506,adel-v-wce,0,A few showers,14,,
+
+<em style='color:#000'>Jackwatt$</em>: No icon is good enough for Matt Priddis...Infact i think there should be a Matt Priddis icon whenever a player dominates<br><em style='color:#000'>boges11</em>: Thinking Embley was the x factor. His 2 runs at the end there&#044; enabled Kenedy to goal and stopped Adelaide on the other <br><em style='color:#000'>nugget1</em>: Where's the orange vest for west coast<br><em style='color:#000'>Jormas</em>: JJK surely x factor<br><em style='color:#000'>dipper33</em>: kennedy x factor<br><em style='color:#000'>Heizenberg</em>: Holy sht kennedy i love you <br><em style='color:#000'>Jmachete</em>: i called the kennedy goal haha scroll down winner<br><em style='color:#000'>shavedape</em>: eagles won on Priddis back<br><em style='color:#000'>Bort</em>: priddis star<br><em style='color:#000'>matthius</em>: season over cows<br><em style='color:#000'>scaledup</em>: lol sc is a jokee<br><em style='color:#000'>bobby98</em>: well flower...<br>
+210016,Scott,Thompson,AD,19,97,108,123,76,109,13,15,3,5,1,1,1,0,0, Full Time,news,%2 Priddis... slow start... %P and %T with %M,,,436700,107,458400,105,Centre,5,13,95.4,99.4,6.10,4.27
+270917,Patrick,Dangerfield,AD,21,95,136,118,78,108,13,13,4,3,3,0,1,1,0, Full Time,news,Waters goes to him at stoppages... %O including %B with %M and %T... also %s,,,491300,88,605900,78,Centre,32,13,101,116,20.80,24.22
+240370,Richard,Douglas,AD,15,93,99,121,71,95,14,8,4,5,0,4,1,0,2, Full Time,news,%2 Masten... %D and %T plus %M and %s,,,493300,139,517800,154,Centre,26,13,101.6,105.8,1.80,0.80
+261142,Bernie,Vince,AD,19,93,78,123,69,94,16,5,6,4,0,0,0,0,1, Full Time,news,%P and %M with %T and %s,,,402500,118,405200,142,Centre,17,12,80.3,75.8,0.62,0.57
+291201,Ricky,Henderson,AD,19,89,85,116,72,93,17,4,10,0,0,0,0,0,0, Full Time,news,Loose in defence... %D and %M,,,297300,74,325100,81,Back Forward,45,8,66.8,69.6,1.64,0.91
+294307,Brad,Crouch,AD,15,84,76,108,69,99,15,11,5,2,0,0,2,0,0, Full Time,cash,%B among %P with %M... also %F,,,277200,-14,261400,2,Centre,2,5,81.2,75.6,16.57,18.02
+270963,Rory,Sloane,AD,16,83,112,102,70,92,11,11,4,2,1,3,1,1,1, Full Time,news,%D and %M plus %s,,,431500,125,502800,136,Centre,9,13,93.4,101,3.77,2.39
+270938,Tom T.,Lynch,AD,21,82,59,104,64,82,10,5,4,4,0,1,0,2,1, Full Time,news,%s from %D and %M on Mackenzie... %T as well,,,395200,92,374700,57,Forward,27,10,90.6,81.1,4.88,1.99
+291748,Brodie,Smith,AD,10,82,71,109,60,81,18,2,5,2,0,1,0,0,0, Full Time,news,%O and %M with %T,job,Hill is his man,315100,48,370000,51,Back,33,9,67.3,76.4,0.36,0.65
+280038,Shaun,McKernan,AD,18,80,85,100,66,83,8,5,4,4,12,1,1,1,2, Full Time,news,First goal.... %s from %G and %P on Brown... also %H and %T,mrp,A swinging elbow on Sheppard in Q1 will be looked at,271100,48,302800,55,Forward Ruck,35,6,64.3,65.3,4.95,2.01
+230174,Jason,Porplyzia,AD,16,75,67,96,60,78,13,2,4,2,0,0,1,2,3, Full Time,news,%P and %T with %M and %s,,,301700,12,300800,-19,Forward,40,12,56.3,58.3,1.27,1.11
+270296,Andy,Otten,AD,12,65,78,82,56,75,9,9,6,1,0,1,1,0,0, Full Time,job,Has Darling... %P and %M,,,274500,60,339400,58,Back,22,13,61.2,75.2,1.85,3.37
+270811,Sam,Jacobs,AD,10,61,64,73,56,66,5,4,5,1,20,1,1,0,1, Full Time,news,%H and %D with %M and %s,,,356100,59,404400,57,Ruck,24,13,73.9,84.2,9.18,9.10
+293222,Rory,Laird,AD,8,59,68,76,47,66,10,7,3,2,0,1,1,0,0, Full Time,job,Cripps is his man... %D and %M,,,313000,50,315800,69,Back,46,9,70.9,65.6,4.98,3.39
+261384,Matthew,Wright,AD,9,56,83,70,43,55,7,5,1,3,0,3,0,1,1, Full Time,news,Escaped the vests but still largely unsighted... %O and %T,,,321800,74,355400,85,Forward Centre,11,10,70.6,72.8,1.22,0.87
+250118,Nathan,van Berlo,AD,15,54,57,74,42,63,6,7,2,6,0,1,3,0,0, Full Time,news,%P and %T... also %F,tagger,Tagging Gaff,327300,66,325200,69,Centre,7,10,68.1,68.5,0.56,0.68
+280934,Daniel,Talia,AD,5,52,68,67,41,54,7,5,4,2,0,1,0,0,0, Full Time,job,Standing Kennedy... %D and %T,,,247300,40,317200,53,Back,12,13,45.5,56.3,7.64,5.37
+220093,Ben,Rutten,AD,4,48,63,61,39,51,7,5,4,1,0,1,0,0,0, Full Time,job,Takes the resting ruck which is mostly Cox... %M and %O,,,258900,39,286500,75,Back,25,13,54.2,59.6,1.98,2.32
+261351,Matthew,Jaensch,AD,4,42,42,56,36,49,8,3,4,1,0,1,2,0,1, Full Time,news,On in Q1 for Riley... %D and %M.... also %s and %F,sub,Started as a sub,328800,95,296800,94,Back,10,8,65.9,61.5,0.32,0.25
+293193,Luke,Brown,AD,3,38,48,50,30,39,8,1,4,0,0,0,0,0,0, Full Time,news,%D and %M,job,Running with LeCras,240500,31,270800,40,Back,16,12,49.3,52.9,4.28,5.42
+294828,Josh,Jenkins,AD,8,33,64,40,30,39,3,5,2,1,0,1,1,1,0, Full Time,news,%s from %D on Glass,,,317400,39,339300,29,Forward Ruck,4,13,70.8,74.2,6.60,5.71
+291402,Aidan,Riley,AD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Right leg injury early in Q1,subbed,Subbed off in Q1 for Jaensch,229800,,262200,,Centre,43,1,44,63,0.31,0.32
+260546,Bradd,Dalziell,WC,37,124,135,97,98,130,16,10,9,6,0,1,1,1,1, Full Time,star,%O and %M plus %T and %s,,,256100,-22,280200,15,Centre,18,8,58.9,57.9,0.85,0.45
+240124,Matt,Priddis,WC,26,120,129,81,90,127,18,15,3,6,0,2,0,0,1, Full Time,cherry,%2 Thompson... %P and %T plus %M and %s,,,467100,85,512800,107,Centre,11,13,93.2,97.8,9.17,11.57
+261290,Chris,Masten,WC,20,112,107,64,92,132,18,21,4,1,0,0,0,0,0, Full Time,gun,%2 Douglas... %B among %P with %M,,,472700,100,477400,90,Centre,7,12,101.7,98.4,1.15,0.79
+250317,Eric,Mackenzie,WC,19,95,148,66,79,99,14,7,11,1,0,2,0,0,0, Full Time,job,Following Lynch... %D and %M,,,250900,72,363200,85,Back,16,11,45.2,60.8,0.74,0.43
+280441,Patrick,McGinnity,WC,26,93,107,79,70,93,11,6,5,7,0,2,1,1,0, Full Time,news,%D and %M,,,282500,73,275100,85,Centre,35,2,55,41.5,0.64,0.75
+240016,Beau,Waters,WC,15,90,82,61,70,99,14,10,5,4,0,0,1,0,0, Full Time,news,Often loose in defence but goes to Dangerfield at stoppages... %P and %M plus %T,,,413600,90,430700,139,Back,8,6,86.3,83,4.50,3.48
+250111,Matt,Rosa,WC,14,84,89,51,61,88,15,7,2,5,1,1,1,0,0, Full Time,news,%K among %D with %T,,,325400,81,355600,81,Centre,24,7,63.6,69.6,0.22,0.16
+240406,Josh J.,Kennedy,WC,22,81,106,53,73,87,12,1,8,0,0,1,2,4,0, Full Time,x-factor,Booted %s from %D and %G on Talia including the winning goal in the last minute,,,436300,49,485300,84,Forward,17,12,94.2,100.8,45.51,48.71
+240119,Mark,LeCras,WC,16,78,81,59,59,78,11,3,4,5,0,1,1,1,3, Full Time,news,%s from %D on Brown... also %M and %T,,,365100,49,350100,27,Forward,2,11,81.5,81,8.45,10.69
+290826,Jamie,Cripps,WC,20,71,46,62,59,78,8,5,7,4,0,0,2,1,0, Full Time,news,%s from %P and %M on Laird,,,228500,66,209200,32,Centre,15,6,46.5,41.7,0.85,1.01
+271045,Nic,Naitanui,WC,15,68,79,56,55,70,7,4,1,4,22,1,1,0,0, Full Time,news,%H and %D plus %T,,,419800,119,561300,155,Forward Ruck,9,8,81.6,104,14.56,18.38
+200112,Dean,Cox,WC,14,66,83,60,55,70,5,7,1,4,19,2,1,0,0, Full Time,news,%H and %P with %T,,,463200,73,548900,112,Forward Ruck,20,13,96.2,111.2,50.89,48.86
+281052,Mark,Hutchings,WC,12,65,65,43,46,69,11,6,1,5,0,0,1,0,0, Full Time,cash,%D and %T,,,248800,-13,251900,-34,Centre,34,4,88.8,82.3,10.39,4.00
+990020,Andrew,Embley,WC,13,64,99,30,49,66,13,3,3,1,0,0,0,1,0, Full Time,news,On in Q2 for Sheppard as concussion sub then off again... %P,sub,Started as a sub,250200,35,225100,54,Centre,32,6,53.3,41.3,2.52,2.51
+261214,Will,Schofield,WC,14,55,67,30,49,66,10,5,5,0,0,0,2,1,0, Full Time,news,Loose in defence... %O and %M,,,238700,83,320100,109,Back,31,8,45.5,58.1,0.75,0.56
+261209,Josh,Hill,WC,13,52,32,40,37,49,7,2,1,4,0,1,0,1,1, Full Time,news,%s from %O and %T on Smith,,,332100,87,409200,105,Forward,33,11,66.5,79.8,1.01,0.86
+281080,Brad,Sheppard,WC,9,49,57,44,36,48,5,5,2,4,0,2,0,0,0, Full Time,news,%D and %T with %M... spent time off the ground in Q1 after getting cleaned up by McKernan,concussed,Concussion sub in Q2 for Embley then returned late,254500,73,267600,69,Centre,5,8,52.5,52.8,0.41,0.28
+200074,Darren,Glass,WC,5,46,68,41,37,51,5,5,4,3,0,0,1,0,0, Full Time,job,On Jenkins... %O and %T with %M,,,238700,63,289200,78,Back,23,12,48.8,59.9,2.09,1.65
+260303,Mitchell,Brown,WC,4,43,37,31,34,48,7,3,3,3,0,1,2,0,0, Full Time,job,Takes McKernan... %P and %M plus %T,,,200700,47,216100,51,Forward,1,4,37.5,38,0.34,0.28
+290801,Andrew,Gaff,WC,6,43,43,18,34,51,9,7,0,1,0,1,1,0,0, Full Time,tagged,Tagged by van Berlo... %O,,,319800,2,388500,25,Centre,3,13,68.2,74.8,1.20,1.24
+290838,Jack,Darling,WC,1,18,23,16,14,18,2,1,2,1,0,0,0,0,0, Full Time,cold,%P and %M on Otten,,,340000,85,369300,97,Forward,27,13,73.4,80.4,3.91,2.74
+280324,Jacob,Brennan,WC,0,1,4,-4,7,15,2,2,1,0,0,0,4,0,0, Full Time,cold,No touches in Q1... %P and %F,,,244300,52,262400,34,Back,14,8,51.1,49.5,0.52,0.59

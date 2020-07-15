@@ -1,0 +1,62 @@
+West Coast,Eagles,Port Adelaide,Power,W2,8.18.66,20.20.140, Full Time
+Mar 3,2012,7.10,Mandurah,,,10330204,,22,Sunny,30,,
+
+<em>bomber5186</em>: m0nty&#044; are you sure Port Adelaie are playing? They are putting up a fight and Im confused as to why you think Port coulu<br><em>Rowan1812</em>: lobbe injured noobz<br><em>Demons15</em>: @old_shepp he was subbed off for sure<br><em>mh7690</em>: can someone please explain to me what the interchange system is? there's so many subs<br><em>PowerBug</em>: so close :( Still very impressed though. No Boak&#044; Trengove&#044; Lobbe. Very happy with the effort put up.<br><em>Noobz0r</em>: Redden won't start this season... Lobbe + renouf<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> old_shepp</em>: Wingard second week blues?<br><em>Johnc0ck1</em>: Port deserve to win this<br><em>whatlez1</em>: Poor PB lol<br><em>PowerBug</em>: Port love to play West COast :D<br><em>whatlez1</em>: Redden or Josh Jenkins?<br><em style='color:#e50000'>m0nty</em>: hard to believe Port still in this...<br>
+261290,Chris,Masten,WC,21,89,-,116,75,105,16,9,5,3,0,2,4,1,0, Full Time,news,%B among %O with %M and %T,,,82
+210018,Daniel,Kerr,WC,21,84,-,105,67,91,11,9,2,4,0,1,1,2,1, Full Time,news,%O and %M plus %s,,,55
+200112,Dean,Cox,WC,17,80,-,96,77,101,9,12,5,1,13,2,4,1,1, Full Time,news,%H and %D with %M and %s,,,86
+240124,Matt,Priddis,WC,14,80,-,106,65,96,13,11,3,5,0,2,4,0,0, Full Time,news,%O and %T with %M... also %F,,,85
+290801,Andrew,Gaff,WC,10,79,-,104,58,79,17,3,4,2,0,1,0,0,1, Full Time,news,%D and %M plus %s,,,86
+280946,Koby,Stevens,WC,16,77,-,96,65,82,8,7,5,3,0,2,1,2,1, Full Time,news,%D and %T with %M,,,82
+290838,Jack,Darling,WC,9,63,-,81,51,66,6,7,6,3,0,1,0,0,0, Full Time,news,%D and %M,,,91
+290833,Blayne,Wilson,WC,8,62,-,82,46,60,14,1,4,1,0,2,0,0,0, Full Time,news,%O and %M,,,87
+270928,Scott,Selwood,WC,8,61,-,77,47,66,8,9,2,3,0,1,0,0,0, Full Time,news,%D,,,55
+261209,Josh,Hill,WC,5,57,-,73,46,60,7,6,5,2,0,1,0,0,0, Full Time,news,%P and %M,,,70
+023861,Fraser,McInnes,WC,11,55,-,70,47,58,6,4,5,2,0,2,1,1,1, Full Time,,,,,72
+271073,Thomas,Swift,WC,13,52,-,61,46,66,4,13,1,2,0,0,1,1,0, Full Time,news,First goal... %D and %s,,,81
+280324,Jacob,Brennan,WC,9,46,-,61,37,52,5,6,2,4,0,2,2,0,1, Full Time,news,%P and %T with %M and %s,,,90
+240283,Shannon,Hurn,WC,6,45,-,57,36,54,9,7,1,1,0,0,1,0,0, Full Time,news,%D with %k by foot,,,88
+280994,Ryan,Neates,WC,10,45,-,54,40,48,5,3,4,0,0,0,0,2,0, Full Time,news,On in Q3.. %s from %D,sub,Started as a sub,51
+281080,Brad,Sheppard,WC,4,43,-,59,35,48,6,3,4,3,0,1,2,0,0, Full Time,news,%M and %P,,,91
+250034,Ashton,Hams,WC,9,41,-,50,37,48,6,4,1,1,0,2,2,2,0, Full Time,news,%s from %D,,,91
+290932,Gerrick,Weedon,WC,3,41,-,53,31,43,4,5,2,3,0,0,0,0,1, Full Time,news,%s from %P,,,86
+220061,Quinten,Lynch,WC,4,40,-,51,34,46,4,6,3,2,1,1,1,0,0, Full Time,news,%P and %M with %T,,,63
+261214,Will,Schofield,WC,8,36,-,43,31,40,5,4,2,0,0,0,0,1,1, Full Time,news,%D and %M plus %s,subbed,Subbed off at HT,49
+200074,Darren,Glass,WC,2,29,-,34,27,36,2,7,3,0,0,0,0,0,0, Full Time,news,%M and %D,,,93
+280441,Patrick,McGinnity,WC,1,29,-,36,23,33,4,5,1,1,0,0,0,0,0, Full Time,news,%P,,,72
+230281,Mark,Nicoski,WC,2,25,-,33,21,29,4,2,2,1,0,0,1,0,2, Full Time,news,%s from %O and %M,subbed,Subbed off at HT,47
+280379,Lewis,Stevenson,WC,1,17,-,24,10,15,3,0,0,2,0,0,0,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,48
+260546,Bradd,Dalziell,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,0
+270953,Ashley,Smith,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,0
+280078,Luke,Shuey,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,On the sidelines with crutches so he won't be used,,,0
+291927,Simon,Tunbridge,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,0
+294147,Anton,Hamp,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,0
+271128,John,McCarthy,PA,25,99,-,124,80,99,15,3,6,2,3,1,0,3,0, Full Time,news,%s from %P with %k by foot... also %M and %T,,,86
+290277,Jarrad,Redden,PA,27,84,-,100,72,88,2,11,2,6,25,4,1,0,0, Full Time,news,%H and %P with %T,,,78
+230192,Steven,Salopek,PA,15,79,-,101,61,79,14,4,4,2,0,2,0,1,1, Full Time,news,%D and %M with %s,,,85
+240180,Troy,Chaplin,PA,13,79,-,105,63,81,16,2,8,1,0,2,1,0,0, Full Time,news,%M and %P,,,100
+260201,Daniel,Stewart,PA,19,75,-,93,68,84,11,6,7,0,5,3,2,1,1, Full Time,news,%P and %M... also %H,,,90
+260511,Darren,Pfeiffer,PA,14,74,-,96,59,81,9,9,5,4,0,1,1,0,0, Full Time,news,%B among %P with %T,,,88
+230124,Tom,Logan,PA,19,69,-,90,59,78,10,5,7,2,0,0,2,1,0, Full Time,news,%D and %M with %T... also %s and %F,,,92
+270779,Paul,Stewart,PA,12,66,-,85,54,69,10,5,7,1,0,1,0,0,0, Full Time,news,%G and %D,,,84
+280877,John,Butcher,PA,20,60,-,68,55,63,5,3,3,0,0,0,0,5,0, Full Time,news,Booted %s from %D,,,69
+290802,Ben,Jacobs,PA,8,59,-,76,51,72,10,8,5,1,0,0,2,0,0, Full Time,news,%O and %M... also %F,,,66
+261892,Hamish,Hartlett,PA,9,58,-,75,43,58,7,6,2,4,0,2,0,0,1, Full Time,news,%P and %T with %s,,,78
+292145,Thomas,Jonas,PA,5,54,-,72,43,57,7,4,5,3,0,1,1,0,0, Full Time,news,%P and %M,,,57
+270952,Mitch,Banner,PA,10,49,-,62,40,55,7,5,2,2,0,0,1,1,1, Full Time,news,%D with %b by hand,,,86
+250688,Alipate,Carlile,PA,4,45,-,58,37,48,8,3,5,0,0,0,0,0,0, Full Time,news,%M and %O,subbed,Subbed off at HT,49
+260750,Justin,Westhoff,PA,4,43,-,56,36,46,9,2,4,0,1,2,1,0,0, Full Time,news,%O and %M,,,91
+271078,Matthew,Broadbent,PA,9,40,-,48,36,45,4,5,4,0,0,0,0,1,0, Full Time,news,%D and %M plus %s,,,42
+240381,Simon,Phillips,PA,3,39,-,50,33,45,6,5,3,1,0,1,1,0,0, Full Time,news,%D and %M,,,92
+240294,Nick,Salter,PA,2,35,-,47,28,36,7,1,3,1,0,2,1,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,51
+291962,Chad,Wingard,PA,3,30,-,36,29,39,3,7,3,0,0,1,1,0,0, Full Time,news,%O (including %B) and %M,subbed,Subbed off at HT,43
+280750,Andrew,Moore,PA,2,29,-,35,25,36,4,7,0,1,0,2,1,0,0, Full Time,news,%D,,,77
+210020,Kane,Cornes,PA,1,26,-,32,20,30,4,5,0,1,0,0,0,0,0, Full Time,news,%P,subbed,Subbed off at HT,48
+290540,Cameron,O'Shea,PA,2,26,-,35,20,30,4,3,1,2,0,0,1,0,0, Full Time,news,Just one touch in the first half... %D,,,53
+291947,Brendon,Ah Chee,PA,1,20,-,24,16,24,2,5,0,1,0,0,0,0,0, Full Time,news,On in Q3... %P including %B,sub,Started as a sub,48
+291607,Ben,Newton,PA,1,15,-,20,13,18,4,1,1,0,0,1,1,0,0, Full Time,news,On in Q3... %D with %k by foot,sub,Started as a sub,21
+290546,Aaron,Young,PA,1,14,-,18,14,21,2,4,0,1,0,2,2,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,49
+291597,Jarrad,Irons,PA,0,11,-,13,9,12,2,2,0,0,0,1,0,0,0, Full Time,news,%O,subbed,Subbed off at HT,44
+290001,Nathan,Blee,PA,0,5,-,7,6,9,1,1,1,0,0,0,1,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,34
+290156,Jasper,Pittard,PA,0,4,-,6,2,3,0,0,0,1,0,0,0,0,0, Full Time,news,On in Q3.. %D,sub,Started as a sub,0
+280013,Jackson,Trengove,PA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,sub,Started as a sub,0

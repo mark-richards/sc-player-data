@@ -1,0 +1,48 @@
+Collingwood,Magpies,Fremantle,Dockers,R14,15.17.107,12.6.78, Full Time
+Jun 30,2012,1:45,MCG,Seven,240073,10341402,430117,0,A few showers,13,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>buttersMIZ</em>: hot seat billionaire tonight cos eddies in a good mood<br><em>qwerty15</em>: give swan the flowering star<br><em>Seb78</em>: Terrible Sidey <br><em>torres</em>: @mackinaw: most overrated seagull in the comp<br><em>pondzo</em>: thomas for X factor<br><em>qwerty15</em>: swan not BOG wat a joke<br><em>singoman</em>: swan is a front runner because no one else can keep up with him<br><em>sainter11</em>: I love you captain swan&#044; you will be the key to my hopeful win this week! <br><em>hipnsholda</em>: bummed with sidey's 2nd half... 30 points not enough<br><em>Grazz</em>: that be said.<br><em>mackinaw</em>: torres all you do i bag boyd. he bone ya sister or somthing?<br><em>CatAttack9</em>: Swan (c)&#044; Sidebottom&#044; Beams and Cloke&#044; and I was projected for 2504 before the start! Good weekkk<br>
+220105,Dane,Swan,CO,50,172,147,215,139,188,21,22,8,7,0,2,1,2,2, Full Time,magnet,First goal... %O and %M plus %T and %s,,
+280104,Jarryd,Blair,CO,33,133,115,173,98,137,19,13,5,8,0,1,0,0,2, Full Time,star,Played midfield and put in all day in his best performance for the club... %O and %T with %M and %s,,
+210099,Darren,Jolly,CO,44,123,157,145,105,127,6,12,4,6,43,2,0,0,0, Full Time,hot,%H and %P with %T and %M,,
+240359,Dale,Thomas,CO,31,116,111,153,91,124,21,5,6,5,0,1,3,2,1, Full Time,hot,Matched up on Lower... %D and %T plus %s,,
+271001,Dayne,Beams,CO,26,113,117,143,88,124,19,13,3,4,0,1,1,1,1, Full Time,gun,%P and %T plus %s,creepy,Tagged by Crowley
+261799,Sharrod,Wellingham,CO,19,102,109,131,76,109,18,11,3,4,0,0,0,0,1, Full Time,hot,Starting forward on Ibbotson but adding an extra player in midfield... %O and %T with %M,,
+280965,Steele,Sidebottom,CO,25,99,93,128,75,109,12,14,3,7,0,0,1,0,1, Full Time,news,%D and %T with %M,,
+293801,Jamie,Elliott,CO,39,95,73,133,61,85,4,5,4,15,0,0,0,0,1, Full Time,news,%s from %O and %M on Suban... but his major contribution is an amazing %T,,
+250683,Simon,Buckley,CO,19,87,85,110,70,92,11,8,6,3,1,0,0,1,1, Full Time,news,%P and %M with %T and %s,,
+290821,Alex,Fasolo,CO,25,83,94,112,60,87,11,8,2,8,0,2,2,0,0, Full Time,news,%P and %T,,
+291811,Jackson,Paine,CO,26,81,78,102,63,84,6,9,3,6,0,0,0,2,0, Full Time,news,%s from %O and %T on Roberton,,
+260246,Tyson,Goldsack,CO,12,79,83,100,63,79,10,4,5,3,0,1,0,2,1, Full Time,news,%s from %P and %M on McPhee... also %T,concussed,Headclash with Lower in a bump in Q3 left him groggy
+260394,Chris,Dawes,CO,16,61,75,74,59,75,8,4,3,1,8,1,4,3,1, Full Time,news,Kicked %s from %G and %D on Silvagni... also %H,,
+240700,Heath,Shaw,CO,8,59,66,80,42,60,13,2,2,3,0,1,1,0,0, Full Time,news,Loose in defence.... %P,,
+295296,Marley,Williams,CO,4,52,50,68,38,54,8,5,2,3,0,0,0,0,0, Full Time,news,%D and %M,,
+230263,Nick,Maxwell,CO,4,48,60,63,37,49,5,4,4,3,1,0,0,0,0, Full Time,news,Broughton manning him up... %D and %T with %M,,
+240366,Travis,Cloke,CO,9,42,49,51,35,43,5,2,2,1,0,0,0,2,1, Full Time,sore,%s from %P on McPharlin... right knee knock in Q2 which was briefly iced but he was alright,subbed,Subbed off in Q4 for Mooney
+240419,Alan,Toovey,CO,8,41,52,55,29,39,4,3,2,4,0,1,0,0,0, Full Time,job,Minding Mayne... %O and %T with %M,,
+240073,Harry,O'Brien,CO,4,40,61,55,33,51,7,5,2,3,0,0,3,0,0, Full Time,brazil,%D,job,Has Ballantyne
+240232,Ben,Reid,CO,3,36,44,47,29,42,7,4,2,1,0,0,1,0,0, Full Time,job,Following Pavlich... %D,,
+260310,Nathan,Brown,CO,4,33,35,48,30,45,5,3,4,3,0,0,4,0,0, Full Time,job,Standing Clarke... %P and %T with %M... also %F,,
+296732,Caolan,Mooney,CO,1,16,14,21,11,15,1,2,0,2,0,1,0,0,0, Full Time,rookie,First game... on in Q4 for Cloke,sub,Started as a sub
+292026,Michael,Barlow,FR,26,120,117,90,98,138,14,23,4,4,3,1,0,0,0, Full Time,hot,%B among %D with %M and %T,,
+200032,Matthew,Pavlich,FR,31,113,113,79,97,116,14,7,6,1,0,3,0,5,2, Full Time,hot,Kicked %s from %P and %M on Reid,,
+230107,Michael,Johnson,FR,31,110,102,90,86,115,14,8,10,6,1,0,1,0,0, Full Time,hot,Loose in defence.... %P and %M with %T,,
+250088,Jonathon,Griffin,FR,16,95,96,69,79,99,12,7,4,3,21,3,1,0,0, Full Time,news,%H and %P with %T... also %M,,
+260713,Nick,Lower,FR,25,87,66,74,62,90,11,8,2,9,0,2,2,0,0, Full Time,news,Matched up on Thomas... %O and %T,,
+271015,Matthew,de Boer,FR,26,85,77,82,62,90,7,13,2,8,0,0,0,0,0, Full Time,news,%P and %T,,
+210037,Adam,McPhee,FR,14,82,83,61,67,87,11,8,8,2,0,1,0,0,0, Full Time,news,%O and %M with %T,job,Has Goldsack
+230048,Ryan,Crowley,FR,20,81,65,60,61,90,12,9,3,6,0,0,2,0,0, Full Time,tagger,Tagging Beams... %D and %T with %M,,
+200045,Luke,McPharlin,FR,14,79,82,59,69,93,10,12,8,1,0,0,1,0,0, Full Time,news,%P and %M,job,Following Cloke
+261756,Greg,Broughton,FR,17,75,71,69,61,78,6,8,4,4,0,1,0,2,0, Full Time,news,Playing a forward role on Maxwell... %s from %P and %T plus %M,,
+260069,Hayden,Ballantyne,FR,15,73,74,52,51,69,12,2,3,6,0,3,1,0,0, Full Time,news,%D and %T with %M on O'Brien,,
+280386,Clancee,Pearce,FR,30,72,74,77,54,78,4,11,1,8,0,0,1,1,0, Full Time,news,Playing straight midfield... %P and %T,sore,Right ankle knock in Q1
+280933,Dylan,Roberton,FR,9,71,87,57,57,78,8,11,4,3,0,1,0,0,0, Full Time,job,Responsible for Paine... %D and %M with %T,,
+280726,Tendai,Mzungu,FR,13,70,61,54,53,75,9,9,3,4,0,0,0,0,0, Full Time,zimbabwe,%D,,
+250268,Garrick,Ibbotson,FR,14,68,71,59,46,67,8,6,1,7,1,0,0,0,0, Full Time,news,Allowing Wellingham to zone up to midfield from a HFF... %D and %T,,
+240052,David,Mundy,FR,14,65,65,51,58,78,7,11,5,1,0,0,1,1,0, Full Time,news,%P,,
+270908,Nick,Suban,FR,12,65,68,43,46,66,11,5,1,5,0,2,1,0,0, Full Time,job,Minding Elliott... %O and %T,,
+280416,Chris,Mayne,FR,12,65,52,60,54,69,5,7,4,3,0,0,0,2,0, Full Time,news,%s from %P and %M on Toovey,,
+271433,Alex,Silvagni,FR,4,44,44,33,38,50,6,5,3,2,2,3,2,0,0, Full Time,job,Standing Dawes... %O... also %F,,
+290251,Zachary,Clarke,FR,9,36,31,26,34,40,4,2,2,0,9,1,1,1,1, Full Time,news,%s from %P and %M on Brown... also %H,,
+293535,Lachie,Neale,FR,1,26,26,27,18,25,2,2,1,3,0,0,0,0,1, Full Time,injured,%s from %O and %T... left ankle restrapped in Q2 and struggled with it,subbed,Subbed off in Q3 for Pitt
+291542,Jayden,Pitt,FR,2,20,9,10,16,21,4,1,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Neale,sub,Started as a sub

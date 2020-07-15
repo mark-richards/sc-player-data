@@ -1,0 +1,48 @@
+Richmond,Tigers,North Melbourne,Kangaroos,R17,14.15.99,15.13.103, Full Time
+Jul 22,2012,3:15,MCG,Seven,210023,10341708,430150,0,Mostly sunny,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='color:#ff028d'>Petrie4PM</em>: wow<br><em style='color:#ff028d'>Seb78</em>: Cotchin was on 93 SC points about 15 mins ago wtf??<br><em style='color:#ff028d'>Roflcake</em>: I was shaking too lol... Wd Rooboys<br><em style='color:#ff028d'>zadow757</em>: give tuck the cape&#044; TOWERING final q<br><em style='color:#ff028d'>Petrie4PM</em>: if we didnt choke and loose to port and dons&#044; we could be top 4. so frustrating but none the less its such an even comp<br><em style='color:#ff028d'>Spew</em>: I'm going to watch the Giants game now. I hope it's as close as this one!<br><em style='color:#ff028d'>runt</em>: North have got their shinboner spirit back<br><em style='color:#ff028d'>M.Hurley</em>: Thats heartbreak. Not even a supporter but just agony for them<br><em style='color:#ff028d'>chadwick</em>: Cracking game. Petrie stood up when the chips were down<br><em style='color:#ff028d' title="EZA100">eza100</em>: as a richmond supporter im flowering heartbroken so many close games gone<br><em style='color:#ff028d'>Dons4eva</em>: grigg will be spewing<br><em style='color:#ff028d'>Petrie4PM</em>: im shaking what a game. well done roos!! flowering petrie you absoloute beast<br>
+200109,Shane,Tuck,RI,27,106,155,132,86,114,14,12,4,4,0,3,1,2,0, Full Time,hot,%2 Swallow... %P and %M with %T... also %s which all came in Q4,,
+240336,Brett,Deledio,RI,20,103,91,129,85,118,16,15,6,2,1,1,1,0,0, Full Time,hot,%D and %M with %T,,
+270896,Trent,Cotchin,RI,20,101,98,132,77,103,18,6,3,5,0,5,2,1,1, Full Time,hot,%P and %s,,
+240707,Daniel,Jackson,RI,15,95,81,124,72,99,15,8,4,5,0,2,1,0,3, Full Time,news,%P and %T plus %M and %s,,
+290847,Dustin,Martin,RI,21,92,88,116,75,101,13,9,3,4,0,2,2,2,2, Full Time,news,%P and %T plus %M and %s,,
+261362,Alex,Rance,RI,19,90,96,115,76,102,16,9,9,0,0,0,1,0,0, Full Time,job,Standing Petrie until Q4 after Petrie got three in a hurry... %O and %M,,
+290823,Reece,Conca,RI,14,85,77,112,60,84,15,6,2,5,0,2,0,0,0, Full Time,news,%D and %T,,
+240546,Ivan,Maric,RI,26,83,100,99,75,97,6,9,2,4,34,0,3,0,0, Full Time,news,%H and %D... also %T and %F,,
+250395,Jack,Riewoldt,RI,21,79,83,99,69,83,8,4,6,3,0,3,2,3,2, Full Time,news,First goal... %s from %P on Thompson... also %T,,
+260930,Shane,Edwards,RI,19,77,75,93,68,85,7,9,7,1,0,0,0,2,1, Full Time,news,%s from %P and %M on McMahon,,
+250298,Shaun,Grigg,RI,13,74,69,92,62,82,12,8,6,0,3,0,0,0,1, Full Time,news,%O and %M,,
+260433,Steven,Morris,RI,10,73,68,93,63,90,10,13,4,3,0,2,3,0,0, Full Time,news,%D and %M with %T,job,Minding Adams
+293713,Brandon,Ellis,RI,9,70,90,87,58,79,12,9,5,0,0,0,0,0,1, Full Time,news,%D,,
+250312,Bachar,Houli,RI,15,60,68,79,44,57,8,2,3,4,0,1,0,1,0, Full Time,news,%O and %M with %T and %s,,
+240256,Luke,McGuane,RI,15,59,57,80,44,64,7,5,2,6,2,0,2,0,2, Full Time,switch,%s from %P and %T on Grima... switched back on Petrie in Q4,,
+230279,Kelvin,Moore,RI,4,52,65,68,45,60,9,5,5,1,0,2,2,0,0, Full Time,job,Standing Tarrant... %D and %M,,
+210048,Chris,Newman,RI,7,50,65,64,37,54,9,6,1,2,0,0,0,0,0, Full Time,news,Loose in defence... %D and %T,,
+250623,Robin,Nahas,RI,14,47,59,57,40,51,5,3,1,2,0,0,1,3,0, Full Time,news,%s from %O on Atley,,
+270315,Jayden,Post,RI,4,42,75,51,39,54,5,9,4,0,0,0,1,0,0, Full Time,job,On Hansen... %P and %M,,
+270833,Addam,Maric,RI,3,39,27,52,29,39,4,3,3,3,0,0,0,0,0, Full Time,news,%P and %M on Wright... also %T,subbed,Subbed off in Q3 for O'Hanlon
+292025,Matt,Dea,RI,4,39,42,48,34,45,3,7,4,1,0,0,0,0,0, Full Time,job,Thomas is his man... %O,,
+295325,Brett,O'Hanlon,RI,0,10,18,12,9,12,1,2,1,0,0,0,0,0,0, Full Time,news,On in q3 for Addam Maric,sub,Started as a sub
+210023,Drew,Petrie,NM,50,128,161,111,106,122,12,1,7,6,1,4,1,7,1, Full Time,star,Booted %s from %P and %T with %G on Rance including five huge goals in Q4 during which he got McGuane,,
+260545,Liam,Anthony,NM,27,113,92,89,96,126,13,13,9,3,0,0,1,2,0, Full Time,hot,%D and %M plus %s,,
+960491,Brent,Harvey,NM,25,106,107,72,82,109,16,8,6,4,0,1,0,1,1, Full Time,hot,%O and %M plus %s,,
+271129,Todd,Goldstein,NM,37,90,95,88,76,87,4,4,0,5,47,2,0,0,1, Full Time,news,%H and %P with %T,,
+240417,Andrew,Swallow,NM,18,89,92,67,74,108,11,18,1,5,1,3,3,0,2, Full Time,news,%P and %s,,
+250557,Sam,Gibson,NM,14,87,72,49,69,96,16,8,6,2,0,0,1,0,0, Full Time,news,%O and %M,,
+240131,Nathan,Grima,NM,19,86,91,62,76,102,12,11,10,1,0,0,2,0,0, Full Time,news,%M and %O,job,Standing McGuane
+280863,Ryan,Bastinac,NM,13,86,60,45,66,99,16,13,1,3,0,0,1,0,0, Full Time,news,%D,,
+250135,Scott,McMahon,NM,19,84,91,68,69,93,11,7,9,4,0,0,2,0,0, Full Time,news,%M and %P plus %T,job,Has Edwards
+250285,Leigh,Adams,NM,10,77,80,52,61,84,12,8,5,3,0,1,1,0,0, Full Time,news,%P and %T on Morris,,
+280921,Ben,Cunnington,NM,20,75,79,67,59,85,8,10,4,6,0,0,2,0,1, Full Time,news,%P and %T plus %s,,
+230232,Daniel,Wells,NM,13,70,90,44,52,76,12,7,2,4,0,0,1,0,1, Full Time,news,%P including %K... also %T,,
+280864,Sam,Wright,NM,9,68,65,48,57,78,9,11,5,1,0,0,0,0,0, Full Time,news,%D and %M,,
+281395,Scott D.,Thompson,NM,9,65,70,52,55,75,8,9,5,3,0,2,2,0,0, Full Time,news,%M and %D with %T,job,On Riewoldt
+290194,Jamie,MacMillan,NM,10,62,72,36,47,63,11,3,3,2,0,0,0,1,0, Full Time,news,%P and %T,,
+290547,Kieran,Harper,NM,10,58,58,42,51,64,7,6,3,1,1,2,1,2,0, Full Time,news,%s from %D and %M,,
+290787,Shaun,Atley,NM,7,46,63,30,40,55,6,10,2,0,0,1,0,0,1, Full Time,job,Minding Nahas... %D and %s,,
+250373,Lachlan,Hansen,NM,10,44,51,34,40,57,6,6,2,3,0,2,4,1,0, Full Time,news,Kicked %s from %D and %G on Post... also %T,,
+261909,Lindsay,Thomas,NM,3,44,41,19,32,45,10,2,1,2,0,2,1,0,0, Full Time,news,%O on Dea,,
+230272,Michael,Firrito,NM,3,42,43,19,31,42,9,2,2,1,0,1,0,0,0, Full Time,news,Loose in defence... %P,,
+270325,Robbie,Tarrant,NM,2,33,32,25,27,36,4,5,2,1,0,1,0,0,0, Full Time,news,%D on Moore,subbed,Subbed off in Q3 for Campbell
+240189,Matt,Campbell,NM,7,32,48,26,27,36,3,5,1,1,0,0,0,1,0, Full Time,news,On in Q3 for Tarrant,sub,Started as a sub

@@ -1,0 +1,48 @@
+Gold Coast,Suns,Geelong,Cats,R10,10.13.73,21.13.139, Full Time
+May 28,2011,7:10,Gold Coast,Ten,220001,10311004,5536,74,Possible shower,22
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>hano916</em>: give chapman a chapstick icon<br><em>PasDaddy</em>: Should I trade out both Matera and Haris this week?<br><em>TheBowss</em>: scores been adjusted yet?<br><em style='color:#069'>Prospector</em>: one assumes the missus made him do it!<br><em>richotheki</em>: i'd be bitter too if i was the blitz<br><em>fatrab</em>: It is -67.5 you spud<br><em>Thebiggf</em>: The blitz keep sooking mate<br><em title="GTSR">gtsr</em>: tab had a special on ablett getting more possies than any other geelong player. $10 it paid.<br><em>ShowerTime</em>: sign said i would let paul chapman shag my wife<br><em>haooyy</em>: great game by smith&#044; im not gonna miss sandi at all =]<br><em>howey</em>: bullshower sc is crap stanley should have go a ton <br><em>KraKBabY</em>: "Paul Chapman&#044; I'll let you shag my wife" :)<br>
+230015,Jared,Brennan,GC,37,116,138,150,91,122,11,12,7,8,1,1,1,1,1, Full Time,hot,Running free in midfield... %P and %M with %T and %s,,
+240712,Michael,Rischitelli,GC,27,102,110,134,74,102,12,10,4,8,0,2,0,0,0, Full Time,hot,%O and %M with %T,,
+250249,Danny,Stanley,GC,30,98,83,127,77,103,9,10,6,7,0,1,1,1,1, Full Time,cash,Roaming across half forward for %s from %P and %T with %M,,
+220001,Gary,Ablett jnr,GC,19,92,106,114,73,108,13,18,1,4,0,1,1,0,0, Full Time,tagged,Tagged by Kelly... %P,,
+280722,Zac,Smith,GC,22,88,114,100,77,91,7,7,1,2,28,2,0,2,0, Full Time,cash,%H and %P with %s,,
+240254,Jarrod,Harbrow,GC,14,79,72,101,61,90,16,10,2,2,0,0,1,0,0, Full Time,news,%O and %M with %T,,
+220009,Nathan,Bock,GC,8,78,89,100,59,84,17,7,3,1,0,0,0,0,0, Full Time,ipod,Standing Podisadly... %D,,
+261083,Nathan,Krakouer,GC,11,69,59,85,57,72,10,4,4,1,0,0,0,2,3, Full Time,news,%s from %O and %M on Mackie,,
+240316,Sam,Iles,GC,15,66,66,84,51,69,7,7,3,4,0,0,0,1,0, Full Time,cash,Matched up on Wojcinski... %P and %M with %T and %s,,
+280711,Charlie,Dixon,GC,15,66,65,84,48,59,8,2,0,5,8,4,0,1,0, Full Time,cash,%s from %P and %T on Milburn... also %H in ruck support,,
+293813,Thomas,Lynch,GC,14,66,69,78,56,72,4,12,2,3,2,3,0,1,1, Full Time,cash,%s from %P on Lonergan including the first Sun goal at their new home ground,,
+290790,Matthew,Shaw,GC,13,65,45,83,53,69,8,7,6,2,0,1,0,0,0, Full Time,job,On Varcoe... %M and %P,,
+290832,David,Swallow,GC,8,62,84,78,49,69,7,10,3,3,0,0,0,0,0, Full Time,cash,%2 Selwood...%D and %M,,
+290527,Trent,McKenzie,GC,5,61,53,78,48,63,9,5,4,2,0,1,0,0,3, Full Time,cash,%P and %M with %T plus %s,,
+220013,Campbell,Brown,GC,5,57,66,75,45,60,10,4,4,2,0,2,1,0,0, Full Time,job,Has Johnson... %D and %M,,
+281085,Steven,May,GC,4,57,45,74,47,60,10,3,5,1,2,2,1,0,1, Full Time,tomahawk,Standing Hawkins... %P and %H,,
+281024,Maverick,Weller,GC,4,48,55,62,36,51,8,5,2,2,0,0,0,0,0, Full Time,job,Minding Stokes... %O,,
+292512,Karmichael,Hunt,GC,9,41,54,52,39,55,6,6,3,1,0,0,3,1,1, Full Time,job,On a HBF on Kelly... %D and %M plus a rare %s,,
+290817,Brandon,Matera,GC,2,31,28,38,26,36,3,6,2,1,0,0,0,0,0, Full Time,cash,Taylor Hunt on him... %D,,
+291753,Sam,Day,GC,2,29,35,34,26,34,3,6,2,0,0,1,0,0,1, Full Time,news,%s from %O and %G on Scarlett,,
+290627,Dion,Prestia,GC,1,27,16,32,23,33,2,7,1,1,0,0,0,0,0, Full Time,cash,On after 3QT for Harris... %O,sub,Started as a sub
+210014,Daniel,Harris,GC,1,25,31,29,22,30,3,6,1,0,0,1,0,0,0, Full Time,cold,%D,subbed,Subbed off at 3QT for Prestia
+220054,Steve,Johnson,GE,56,171,162,124,146,174,21,8,12,2,0,3,0,7,3, Full Time,star,%s from %D and %M with %T on Brown,,
+220058,James,Kelly,GE,51,128,117,109,93,135,15,15,4,11,0,0,1,0,0, Full Time,hot,%O and %T,tagger,Started on a HFF on Hunt then went to tag Ablett jnr in Q2
+250321,Joel,Selwood,GE,33,116,136,76,91,126,19,8,5,6,0,1,3,2,0, Full Time,gun,%2 Swallow... %O and %T with %s and %M... also %F,,
+200037,Cameron,Ling,GE,30,111,111,88,88,120,13,14,6,5,0,0,0,1,0, Full Time,hot,%P and %T with %M and %s,,
+200131,James,Podsiadly,GE,28,110,119,91,90,108,12,2,9,4,1,0,0,4,2, Full Time,hot,%s from %P and %G on Bock... also %T,,
+230214,Mathew,Stokes,GE,27,110,131,85,93,121,13,12,8,3,0,1,1,2,1, Full Time,hot,First goal... %s from %P and %M on Weller... also %T,,
+200034,Joel,Corey,GE,20,96,97,69,79,112,13,15,4,4,4,1,2,0,0, Full Time,news,%O with %b by hand... also %M,,
+200039,Paul,Chapman,GE,18,95,65,65,82,111,13,15,7,1,0,1,1,0,3, Full Time,garbage,%s from %P and %M... very quiet in Q2... enjoyed himself in late garbage time,,
+291307,Daniel,Menzel,GE,20,81,63,54,64,81,13,2,8,2,0,0,0,1,0, Full Time,news,%s from %O and %M,in,Late replacement for Mitch Duncan
+210059,Josh,Hunt,GE,18,79,72,52,65,84,12,6,7,1,0,0,0,1,0, Full Time,garbage,%D and %M plus %s... lots of garbage time stats,,
+960375,Darren,Milburn,GE,15,79,64,49,67,93,14,7,8,2,0,0,3,0,0, Full Time,garbage,Massive junk time numbers... %D and %M,job,On Dixon
+230248,Andrew,Mackie,GE,10,78,84,48,63,87,13,9,5,2,0,1,1,0,0, Full Time,news,%M and %O with %T,job,Responsible for Krakouer
+970006,Cameron,Mooney,GE,14,75,45,60,60,78,9,6,6,3,6,0,0,0,0, Full Time,news,Moved into ruck early after Vardy's knock... %P and %M,,
+280959,Nathan,Vardy,GE,22,70,76,71,67,80,3,7,6,2,20,1,2,1,0, Full Time,heart,Ran his head into Hunt's bump in Q1... off for 20 minutes after the stretcher was called on but he walked off himself... %H and %P with %M and %s,bubble,Second game
+220007,Jimmy,Bartel,GE,8,67,82,36,48,69,13,5,2,3,0,0,0,0,0, Full Time,news,%2 Ablett jnr to start with but drifted out of the game... %P and %T with %M,,
+280822,Taylor,Hunt,GE,8,64,64,35,48,67,12,5,3,2,0,0,0,0,1, Full Time,job,%D and %M in defence on Matera,,
+990076,David,Wojcinski,GE,9,62,53,46,50,69,8,9,4,2,0,0,0,0,0, Full Time,news,Matched up on Iles... %O and %M,,
+290106,Josh,Cowan,GE,10,53,37,47,44,55,5,4,5,2,0,0,0,1,1, Full Time,rookie,First game... on in Q3 for Hawkins,sub,Started as a sub
+230125,Tom,Lonergan,GE,5,48,63,41,42,60,6,6,5,3,0,0,3,0,0, Full Time,job,Standing Lynch... %O and %F,,
+250290,Travis,Varcoe,GE,8,45,55,48,35,51,2,10,1,4,0,0,0,0,0, Full Time,news,No stats in Q1... Shaw on him... %D and %T,,
+980037,Matthew,Scarlett,GE,4,39,67,25,35,48,6,6,4,0,0,0,1,0,0, Full Time,job,Zoning off Day... %P and %M,,
+261510,Tom,Hawkins,GE,9,35,56,28,35,47,4,4,3,1,5,0,3,1,0, Full Time,news,%D on May... also %H is ruck support,subbed,Subbed off in Q3 for Cowan

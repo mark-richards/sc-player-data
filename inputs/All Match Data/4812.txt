@@ -1,0 +1,48 @@
+St Kilda,Saints,Western Sydney,Giants,R2,15.5.95,13.10.88, Full Time
+Mar 29,2014,1.40,Docklands,Foxtel,294266,10420203,stk-v-gws,0,Partly cloudy,25,,
+
+<em style='color:#000'>korza</em>: Scotti2hot hmm <br><em style='color:#000'>judd555</em>: hickey was on track for at least 130. oh well not gonna complain just hope he is right next week<br><em style='color:#000'>Scotti2Hot</em>: @gscfevs should have the tool symbol...<br><em style='color:#000'>Scotti2Hot</em>: Why is that korza&#044; it wouldn't be the first time you have said something stupid.<br><em style='color:#000'>judd555</em>: lol gcsfevs<br><em style='color:#000'>judd555</em>: Nroo is Noah! got all his flock on the boat!<br><em style='color:#000'>kano</em>: Are u 12 gcsfevs ?? Or just a flowerwit ??<br><em style='color:#000'>TheKent</em>: Nice sc for josh kelly<br><em style='color:#000'>SydneyRox</em>: well done saints! vintage Nroo<br><em style='color:#000'>judd555</em>: dunstan 63 sc on grd on grnd wish i benched him farg it!<br><em style='color:#000'>spudaroos</em>: Nroo is jesus&#044; Gaj is god.<br><em style='color:#000'>korza</em>: This will be stkilda's last win for the season<br>
+210001,Nick,Riewoldt,SK,44,148,152,185,127,154,17,7,14,3,0,1,1,5,1, Full Time,star,Haynes on him mainly... %s from %P and %M plus %T,,,563400,,567100,,Forward,12,1,125,133,8.62,5.05,0.00,559000,89
+294266,Tom,Hickey,SK,38,119,127,142,108,131,7,12,8,4,20,2,2,3,0, Full Time,heart,Foot soreness which was an obvious impediment but stayed out there... %H... also %D and %M with %T... %s as well,,,285000,,313300,,Ruck,1,1,85,98,9.87,7.82,0.00,282700,31
+220075,Leigh,Montagna,SK,30,110,103,144,85,114,19,6,7,4,0,1,1,1,0, Full Time,hot,%P with %k by foot... also %M and %T... and booted %s,,,610800,,619000,,Midfielder,11,0,0,0,0.73,0.61,0.00,606000,112
+250340,David,Armitage,SK,25,109,86,137,89,118,18,11,6,2,1,3,1,1,0, Full Time,magnet,%2 Coniglio... %O and %M plus %T... %s as well... helped out by %4FF,,,477600,,498500,,Midfielder,20,1,61,55,0.40,0.37,0.00,473900,105
+240062,Farren,Ray,SK,24,99,94,126,78,105,19,7,6,1,0,0,0,1,0, Full Time,news,%P including %K... also %M... and kicked %s,,,451700,,429200,,Midfielder,22,1,105,110,0.20,0.18,0.00,448100,68
+230243,Sean,Dempster,SK,20,97,110,126,75,99,16,5,7,3,0,0,0,1,0, Full Time,news,Going third up mainly then moved to Cameron in the 2nd half... %O including %K... also %M and %T... and scored %s,,,361100,,385000,,Back,24,1,100,118,0.38,0.74,0.00,358300,44
+291773,Jack,Newnes,SK,15,95,107,123,74,102,17,9,5,3,0,2,1,0,0, Full Time,news,%O and %M plus %T,,,325600,,313700,,Midfielder,16,1,84,86,0.38,0.51,0.00,323100,44
+261743,Clinton,Jones,SK,15,92,98,116,73,102,13,13,5,3,0,0,0,0,0, Full Time,news,Ball hunting again this week... %P and %M plus %T,,,423500,,438600,,Midfielder,4,1,141,152,0.20,0.20,0.00,420200,36
+990028,Lenny,Hayes,SK,14,79,102,104,61,85,10,8,5,5,1,0,1,0,0, Full Time,news,Tagged by Townsend then let free late in the third... %D and %M with %T,,,474100,,492000,,Midfielder,7,0,0,0,0.29,0.32,0.00,470400,87
+250134,Sam,Gilbert,SK,19,75,64,100,62,84,9,7,8,4,0,0,2,0,0, Full Time,job,On Cameron in the first half... %D and %M with %T,,,383600,,427900,,Back,19,1,56,65,0.32,0.26,0.00,369200,76
+294429,Luke,Dunstan,SK,25,72,64,95,56,78,8,7,3,6,0,1,2,1,0, Full Time,bubble,%2 Treloar... 2nd game... %O and %M plus %T... %s as well,,,127800,,132300,,Midfielder,36,1,106,100,31.79,36.07,0.00,216800,-3
+260113,Jarryn,Geary,SK,14,70,62,90,56,78,6,11,4,5,0,1,1,0,0, Full Time,tagger,On Ward... %D and %M with %T,,,386800,,430700,,Back,14,1,56,67,0.98,0.62,0.00,383800,80
+270303,Luke,Delaney,SK,16,69,64,91,52,69,5,7,5,6,0,1,0,0,0, Full Time,job,On Patton... %O and %M plus %T,,,266600,,291300,,Back,21,1,59,37,0.54,0.77,0.00,224800,30
+250703,James,Gwilt,SK,14,68,96,91,59,84,13,7,6,2,0,1,4,0,0, Full Time,job,On Giles... %O and %M plus %T... gave away %F,,,293700,,366400,,Back,33,1,98,105,0.50,0.39,0.00,291400,25
+296208,Eli,Templeton,SK,16,68,74,86,56,69,8,3,6,2,0,0,0,2,0, Full Time,x-factor,Provided the speed to break the lines... %D including %K... also %M and %T... and scored %s,bubble,2nd game,126500,,130400,,Midfielder,43,1,45,44,1.86,1.59,0.00,115200,6
+294317,Nathan,Wright,SK,8,65,52,87,49,64,14,0,6,1,0,0,0,0,1, Full Time,job,On Smith... %O with %b by hand... also %M... and scored %s,,,228700,,260300,,Back,34,1,31,26,0.43,0.57,0.00,213300,45
+280317,Rhys,Stanley,SK,5,58,52,72,49,60,7,4,5,1,8,1,0,0,1, Full Time,news,%P and %M plus %s,,,249500,,303900,,Back,28,1,49,62,0.62,0.62,0.00,247500,44
+291518,Thomas,Curren,SK,13,54,52,73,36,51,4,5,1,7,0,1,0,0,0, Full Time,news,%O and %T,,,323100,,360600,,Midfielder,26,1,72,75,0.37,0.45,0.00,324100,52
+250036,Beau,Maister,SK,8,53,39,69,44,55,5,4,7,2,0,0,0,0,1, Full Time,sore,In the rooms early first term... Frost has him... %s from %D and %M with %T,,,260600,,284300,,Forward,37,1,39,26,0.34,0.30,0.00,261400,54
+295477,Josh,Saunders,SK,14,53,57,70,37,54,4,7,1,6,0,0,0,0,0, Full Time,news,Hunt has him... %O and %T,,,230500,,208700,,Midfielder,35,1,90,112,0.78,1.08,0.00,228700,11
+280933,Dylan,Roberton,SK,1,20,15,28,12,18,2,1,0,3,0,0,0,0,0, Full Time,news,%D and %T,subbed,Subbed late in third,361400,,404500,,Back,17,1,71,52,0.45,0.51,0.00,358500,63
+280858,Shane,Savage,SK,1,19,6,26,12,18,5,0,0,1,0,0,0,0,0, Full Time,news,The vest will quiet the savage beast... On late 3rd term... %D with %b by hand,sub,Started as a sub,367800,,341600,,Midfielder,5,1,43,32,2.68,5.45,0.00,364900,83
+280762,Shane,Mumford,WS,61,132,158,138,112,136,4,14,2,8,46,2,0,1,0, Full Time,cherry,%H... also %D and %M with %T... %s as well,,,426400,,496000,,Ruck,41,1,110,132,4.88,5.59,0.00,423000,57
+280109,Callan,Ward,WS,26,110,115,82,85,118,15,13,5,6,1,2,1,0,0, Full Time,gun,Tagged by Geary... %P and %M plus %T,,,514300,,525000,,Midfielder,8,1,111,131,0.40,0.57,0.00,510200,83
+291771,Devon,Smith,WS,28,109,107,81,94,121,13,9,5,3,0,0,2,5,1, Full Time,target,Wright on him... %s from %O and %M plus %T,,,403600,,377600,,Forward Midfielder,10,1,59,44,0.76,1.06,0.00,400500,84
+291509,Adam,Kennedy,WS,19,94,85,80,73,96,11,7,9,5,0,0,0,0,0, Full Time,news,Going third man up when possible... %D and %M with %T,,,284300,,307500,,Back,40,1,70,88,0.75,0.83,0.00,282100,40
+291969,Stephen,Coniglio,WS,15,92,109,67,69,96,13,10,4,5,0,1,0,0,0, Full Time,news,%2 Armitage... %O and %M plus %T,,,416700,,399400,,Midfielder,3,1,130,108,0.31,0.63,0.00,413400,41
+280969,Tom,Scully,WS,15,89,65,68,71,100,12,11,5,5,0,1,2,0,1, Full Time,news,%D and %M with %T... %s as well,,,409400,,396600,,Midfielder,9,1,79,104,0.69,1.61,0.00,406200,72
+295344,Toby,Greene,WS,19,86,82,63,73,102,11,15,6,2,0,0,1,0,0, Full Time,news,%P and %M plus %T,,,418300,,394600,,Midfielder,4,1,85,96,0.74,0.82,0.00,415100,71
+290306,Curtly,Hampton,WS,9,76,110,46,62,84,12,11,4,1,0,2,0,0,0, Full Time,news,%M and %P,,,351400,,350300,,Back,2,1,49,78,0.46,0.55,0.00,348700,74
+291802,Tomas,Bugg,WS,13,74,73,60,55,78,9,9,3,5,0,0,0,0,0, Full Time,news,%P and %M plus %T,,,297300,,309000,,Back,14,1,70,61,3.01,2.41,0.00,295000,44
+261841,Jonathan,Giles,WS,21,72,87,63,62,75,6,3,1,4,9,2,2,4,0, Full Time,news,First goalscorer... Gwilt on him... %H... also %P and %T... and scored %s,,,365500,,404300,,Ruck,26,1,36,46,1.26,1.45,0.00,362600,87
+291790,Adam,Treloar,WS,9,69,74,42,56,82,11,12,2,2,0,0,1,0,1, Full Time,news,%2 Dunstan... %O and %M plus %T... %s as well,,,485900,,469500,,Midfielder,17,1,124,154,0.84,0.78,0.00,482100,66
+293845,Jeremy,Cameron,WS,21,68,71,62,51,66,7,3,3,6,0,2,1,1,3, Full Time,news,Gilbert following him then Dempster... %s from %O and %M plus %T,,,363100,,392000,,Forward,18,1,56,77,4.57,11.64,0.00,360300,73
+295265,Nick,Haynes,WS,9,65,65,38,49,66,12,3,5,2,0,0,0,0,0, Full Time,job,Rotating on Riewoldt... %P with %k by foot... also %M and %T,,,315800,,347700,,Back,19,1,80,89,0.31,0.31,0.00,313400,43
+240212,Dylan,Addison,WS,5,56,51,44,45,57,7,5,5,2,0,2,0,0,0, Full Time,news,%O and %M plus %T,,,278100,,284100,,Forward,46,1,49,47,0.62,0.82,0.00,276000,52
+240700,Heath,Shaw,WS,4,50,62,15,39,54,13,1,4,0,0,0,1,0,0, Full Time,news,%P with %k by foot... also %M,,,444800,,522600,,Back,23,1,84,85,8.59,11.06,0.00,441300,80
+291891,Jacob,Townsend,WS,20,50,55,44,36,54,6,4,0,6,0,0,2,1,0, Full Time,tagger,Went to Hayes in the 2nd term... %P and %T plus %s,subbed,Subbed late 3rd term,262900,,210400,,Midfielder,31,0,0,0,0.23,0.41,0.00,245200,45
+293738,Sam,Frost,WS,4,45,53,22,36,48,9,3,4,0,0,0,0,0,0, Full Time,job,Mainly on Maister... %D with %k by foot... also %M,,,172100,,196300,,Forward,48,1,62,70,3.16,2.14,0.00,144200,4
+294624,Lachlan,Plowman,WS,4,45,34,32,34,45,7,2,4,2,0,0,0,0,0, Full Time,job,Rotating on Riewoldt and Maister... %D with %k by foot... also %M and %T,,,204900,,227400,,Back,30,0,0,0,0.50,1.02,0.00,178900,33
+294305,Lachlan,Whitfield,WS,9,44,43,29,40,54,6,7,3,0,0,0,1,1,0, Full Time,news,%O and %M plus %s,,,388400,,393800,,Midfielder,6,1,78,88,1.38,1.84,0.00,385400,67
+296347,Josh,Kelly,WS,3,41,58,36,31,45,4,7,1,3,0,0,0,0,0, Full Time,rookie,First gamer... On late 3rd term... %O and %T,sub,Started as a sub,207800,,212300,,Midfielder,22,0,0,0,2.67,6.07,0.00,260200,48
+210059,Josh,Hunt,WS,2,34,41,18,26,36,6,5,0,1,0,2,0,0,0, Full Time,job,On Saunders... %P,,,330500,,379700,,Back,32,1,95,102,1.08,1.47,0.00,327900,38
+291821,Jonathon,Patton,WS,1,21,26,15,18,26,3,3,1,1,0,0,1,0,2, Full Time,news,Delaney on him... %s from %O,,,208300,,241600,,Forward,12,1,73,90,6.24,6.07,0.00,204100,15

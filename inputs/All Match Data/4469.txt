@@ -1,0 +1,48 @@
+Sydney,Swans,Fremantle,Dockers,R8,11.4.70,9.16.70, Full Time
+May 18,2013,7.40,SCG,Seven,990011,10390806,syd-v-fre,0,Fine,20,,
+
+<em>matthius</em>: has there ever been a bigger troll than Ozbenno?? get a grip bell end<br><em>valkorum</em>: @cic you say some silly things&#044; we just drew with the reigning premiers at their home ground.  How is that a long time<br><em>CptObvious</em>: to the flog that called freo have no puff..<br><em>Crossy123</em>: Wooow<br><em>JarodTiger</em>: Bolton surely has to be dropped ... no influence at all this season<br><em>Cicjose</em>: shows that fremantle have A LONG TIME to ever get close to challenging for a flag<br><em>valkorum</em>: @cic I am pretty sure Reid marked that in front of the line :(<br><em>jono71501</em>: the mark was no where near the line!<br><em>Ozbenno</em>: Looks like matthius is still a tool<br><em>NewFreoFan</em>: God damn you Reid. Still good crack to get the tie&#044; any result other than a loss against Sydney at the SCG is good<br><em>Cicjose</em>: that mark was over the line<br><em>vbdl</em>: wow wtf <br>
+240226,Kieren,Jack,SY,56,138,120,177,101,145,15,18,2,11,0,0,0,1,1, Full Time,hot,Matched up on Fyfe... %O and %T,,,496900,101,571700,122,Centre,15
+260382,Josh P.,Kennedy,SY,54,135,151,176,100,138,13,16,6,11,0,2,0,0,0, Full Time,hot,Tagged by Suban... %P and %M... also %T,,,465800,86,575700,101,Centre,12
+290117,Daniel,Hannebery,SY,28,116,112,139,100,129,12,15,5,3,0,2,1,4,0, Full Time,star,%D and %T plus %M and %s including three majors in Q2,creepy,Tagged by Crowley,460900,123,513700,135,Centre,4
+290778,Luke,Parker,SY,49,115,108,154,84,114,13,9,6,10,0,3,1,0,0, Full Time,hot,%D and %M with %T,,,410100,68,446300,92,Centre,26
+980073,Adam,Goodes,SY,19,97,73,121,79,109,14,14,6,2,0,0,0,0,1, Full Time,news,%s from %O with %b by hand... also %M and %T,,,390700,39,415600,68,Forward,37
+200071,Ryan,O'Keefe,SY,27,96,70,130,73,105,13,9,5,8,0,1,3,0,0, Full Time,news,%O and %M with %T... also %F,,,456000,118,524000,109,Centre,5
+230253,Jarrad,McVeigh,SY,19,95,94,121,77,108,16,12,6,2,0,0,1,0,0, Full Time,tagged,Tagged by de Boer... %D and %M with %T,sore,Left knee problem in Q4,478300,139,547100,143,Centre,3
+291206,Mike,Pyke,SY,27,94,105,107,86,101,4,11,5,2,29,2,0,1,0, Full Time,news,%H and %D wtih %M... also %T and %s,,,348600,60,446000,61,Ruck,38
+290188,Samuel,Reid,SY,19,91,91,120,73,93,12,5,11,3,0,0,0,0,0, Full Time,news,%D and %M with %T on McPharlin,,,254900,41,302300,37,Forward,20
+230140,Ben,McGlynn,SY,17,85,80,110,67,84,10,4,5,5,0,3,1,2,0, Full Time,news,%O and %M on Spurr... also %T,,,361600,75,363700,83,Forward,21
+230132,Nick,Malceski,SY,13,78,89,101,62,90,18,8,3,1,0,1,2,0,0, Full Time,job,Responsible for Walters... %P,,,414200,120,450000,119,Back,9
+280762,Shane,Mumford,SY,21,70,66,89,55,67,3,3,2,7,22,2,1,0,0, Full Time,news,%H and %P with %T,,,331700,67,402400,91,Ruck,41
+210027,Ted,Richards,SY,13,69,74,88,58,78,9,9,6,2,0,1,1,0,0, Full Time,job,Has the resting ruck which is mostly Hannath... %P and %M,,,277200,93,392900,144,Back,25
+240072,Heath,Grundy,SY,9,66,79,85,53,75,9,9,4,3,0,0,1,0,0, Full Time,job,Following Silvagni... %O and %M,,,304100,49,357100,73,Back,39
+250338,Nick,Smith,SY,14,66,69,84,53,72,5,10,5,4,0,0,0,0,0, Full Time,job,Minding Ballantyne... %P and %M,,,294700,42,348000,37,Back,40
+281281,Lewis,Jetta,SY,11,62,62,78,50,66,8,6,4,2,0,0,0,1,0, Full Time,news,Donuts in Q1... %D,,,300700,2,323600,3,Forward Centre,32
+290307,Dane,Rampe,SY,5,50,48,66,38,51,6,4,4,3,0,0,0,0,0, Full Time,job,Standing Mayne... %O,,,164400,21,190500,11,Centre,43
+990011,Jude,Bolton,SY,10,50,48,63,41,55,5,6,2,3,0,1,1,1,1, Full Time,news,%s from %D and %T with %M,,,393100,110,434800,127,Forward Centre,24
+240412,Mitch,Morton,SY,8,49,35,65,36,48,5,4,3,4,0,1,0,0,0, Full Time,news,%P and %M with %T,subbed,Subbed off at 3QT for Bird,164900,,208900,,Forward,10
+261257,Andrejs,Everitt,SY,9,49,48,60,41,54,6,6,3,1,0,0,0,1,0, Full Time,in,Late replacement for Martin Mattner... %s from %P and %M,,,223800,68,282500,76,Forward,13
+261212,Craig,Bird,SY,2,31,37,40,24,33,5,3,2,1,0,0,0,0,0, Full Time,news,On after 3QT for Morton,sub,Started as a sub,295100,74,296600,71,Forward Centre,14
+292509,Tommy,Walsh,SY,4,30,24,41,25,33,3,2,4,2,0,0,1,0,0, Full Time,irish,Manning up Ibbotson... %O and %M,,,194100,,189800,,Forward,17
+292026,Michael,Barlow,FR,30,123,119,102,95,130,14,14,7,7,3,0,0,0,1, Full Time,hot,%P and %M plus %T and %s,,,479400,119,486500,106,Centre,21
+291570,Nathan,Fyfe,FR,28,116,111,85,90,118,16,7,5,6,2,2,1,2,2, Full Time,cherry,First goal... matched up on Jack... %P and %M plus %T and %s,,,483400,105,544900,132,Centre,7
+271015,Matthew,de Boer,FR,48,111,109,98,78,106,13,6,6,10,0,1,0,0,1, Full Time,hot,%P and %T with %M and %s,tagger,Tagging McVeigh,369700,113,356800,99,Forward Centre,9
+240139,Paul,Duffield,FR,21,106,113,67,86,114,18,6,9,3,0,1,2,1,0, Full Time,hot,%O and %M... also %T and %F,,,427500,62,469800,54,Back,41
+240052,David,Mundy,FR,27,105,104,93,80,112,11,13,5,8,1,1,1,0,0, Full Time,hot,%D and %T with %M,,,432600,91,473200,67,Centre,16
+290251,Zachary,Clarke,FR,36,104,98,107,94,114,4,12,7,4,27,1,1,1,0, Full Time,hot,%H and %P with %M and %T... also %s.... had a massive Q1,,,360300,,395900,,Ruck,30
+230107,Michael,Johnson,FR,24,98,115,56,79,105,17,8,7,1,0,0,0,1,0, Full Time,job,Zoning off Everitt... %O and %M,,,362600,94,411500,99,Back,37
+250063,Danyle,Pearce,FR,21,91,80,69,68,96,13,8,5,6,0,0,1,0,0, Full Time,news,%P and %M,,,341400,104,357500,98,Back Centre,6
+280386,Clancee,Pearce,FR,14,90,80,66,71,93,13,6,9,3,0,0,0,0,0, Full Time,news,%P and %T with %M,,,397000,83,441700,85,Centre,46
+200045,Luke,McPharlin,FR,19,82,84,63,67,84,11,5,10,2,0,1,0,0,0, Full Time,news,%O and %M,job,On Reid,343300,39,373500,60,Back,18
+240266,Lee,Spurr,FR,13,75,79,52,57,81,12,7,3,5,0,2,2,0,0, Full Time,sore,%D and %M with %T... smashed by Walsh in a contest in Q3 leaving him needing stitches to the forehead,job,Chasing McGlynn,356700,82,396100,88,Back,34
+280416,Chris,Mayne,FR,14,67,68,47,56,71,9,6,5,1,0,1,0,1,2, Full Time,news,%s from %P and %M on Grundy,,,390400,74,420100,84,Forward,23
+250268,Garrick,Ibbotson,FR,9,65,82,37,49,67,12,4,4,2,0,0,0,0,1, Full Time,job,Walsh manning him up... %P and %T with %M,,,405200,21,426000,21,Back,5
+260069,Hayden,Ballantyne,FR,11,63,72,47,49,62,8,3,2,3,0,1,0,2,2, Full Time,news,%s from %O and %T on Smith,,,312800,93,363200,134,Forward,1
+270908,Nick,Suban,FR,15,63,61,46,48,67,9,5,2,4,0,0,1,1,1, Full Time,tagger,Tagging Kennedy... %P and %T,,,307200,34,320800,23,Back,8
+290733,Cameron,Sutcliffe,FR,5,59,49,41,48,64,9,5,5,2,0,1,1,0,1, Full Time,news,%D and %M,,,234400,42,226100,36,Centre,33
+230048,Ryan,Crowley,FR,8,51,66,41,41,60,6,9,2,3,0,0,1,0,0, Full Time,tagger,Tagging Hannebery... %O,,,262300,70,270700,48,Centre,15
+281007,Michael,Walters,FR,4,50,37,29,41,55,9,4,4,1,0,1,1,0,1, Full Time,sore,%s from %D and %M on Malceski... left ankle twisted under Morton in a tackle in Q3,,,407400,58,448500,23,Forward,10
+281105,Jack,Hannath,FR,8,35,32,38,27,36,2,3,1,4,6,1,1,0,0, Full Time,news,%H and %D,,,126700,-18,163500,-34,Ruck,38
+280726,Tendai,Mzungu,FR,2,19,23,14,16,27,3,4,0,2,0,0,2,0,0, Full Time,in,Late replacement for Hayden Crozier... on in Q3 for Silvagni,sub,Started as a sub,337600,66,369300,49,Centre,13
+240552,Zac,Dawson,FR,2,10,31,16,14,24,0,4,2,2,0,0,4,0,0, Full Time,job,Has the resting ruck which is mostly Pyke... %O and %T,,,166700,4,244000,41,Back,3
+271433,Alex,Silvagni,FR,0,9,7,6,8,12,1,3,0,0,0,0,0,0,0, Full Time,news,%P up forward on Rampe,subbed,Subbed off in Q3 for Mzungu,210400,-2,256800,35,Back,36

@@ -1,0 +1,56 @@
+Essendon,Bombers,Brisbane,Lions,W1,1.11.1.76,0.2.2.14, Half Time
+Feb 18,2011,7:15,Docklands,Seven,,10300110,1111112046141,5265,Dome,25
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>magpies01</em>: Dyson Heppel done alright<br><em>da cooler</em>: why isnt the other game starting<br><em>bomber5186</em>: im going to watch the game now :)<br><em>T MilzKent</em>: Heppell played better than Barlows first game. Kids a gun&#044; its that simple<br><em>bomber5186</em>: yeah the dons are defs through so im happy :)<br><em>tferrier18</em>: just logged on then...can someone please tell me how heppell played? good disposal?<br><em>dyl_2</em>: even if saints win both games bombers will still make it through cuz of there performance<br><em>aces-high</em>: i wish in a way the tigers couyld have picked up polec instead of conca very early yet but i reckon polec will be gun!!<br><em>maanco</em>: well he wont play mid like warnie thinks he will<br><em>ipfreely</em>: I had Stiller as captain. Can't take a trick this year<br><em>bomber5186</em>: good signs for my sc team :)<br><em>footynut</em>: Wheres the sc scores man?<br>
+240027,Brent,Stanton,ES,9,54,-,74,43,54,9,1,3,1,0,0,0,1,0, Half Time,hot,Head to head with Rich... %O and %M with %s plus a supergoal
+230231,Jobe,Watson,ES,7,49,-,59,40,54,5,10,1,2,0,3,0,0,0, Half Time,hot,Started in the guts showing the Dons mean business... %O including %B
+270951,David,Zaharakis,ES,9,45,-,54,37,45,4,4,1,2,0,2,0,2,0, Half Time,news,Busy early... %D plus %s
+270935,Michael,Hurley,ES,14,43,-,50,38,45,5,2,2,0,0,0,0,3,0, Half Time,news,%s from %P on Maguire
+292503,Stewart,Crameri,ES,14,40,-,48,36,42,4,1,2,1,0,1,1,3,0, Half Time,news,First goal... %s from %P and %G
+990046,Mark,McVeigh,ES,8,38,-,47,30,39,8,2,1,0,0,1,0,1,0, Half Time,news,Starting in midfield... %D and %s
+290629,Dyson,Heppell,ES,2,36,-,47,26,36,6,3,1,2,0,1,0,0,0, Half Time,news,%K among %P with %T
+210079,Nathan,Lovett-Murray,ES,3,33,-,43,27,39,4,5,2,2,0,0,1,0,0, Half Time,news,%O and %T plus %M
+270584,Kyle,Hardingham,ES,2,32,-,42,23,33,5,3,1,2,0,0,0,0,0, Half Time,news,%D with %k of those by foot
+250267,Patrick,Ryder,ES,7,30,-,37,24,29,2,2,1,2,2,1,0,1,0, Half Time,news,%H and %P with %T and %s
+240319,Sam,Lonergan,ES,2,29,-,37,22,30,1,5,1,3,0,1,0,0,0, Half Time,news,%D and %T
+250071,Henry,Slattery,ES,1,25,-,34,19,24,4,0,3,1,0,0,0,0,0, Half Time,news,%D and %M
+260073,Ben,Howlett,ES,2,25,-,28,23,33,2,8,1,0,0,0,0,0,0, Half Time,news,%D including %b by hand
+250352,Leroy,Jetta,ES,1,24,-,31,18,24,4,2,1,1,0,1,0,0,0, Half Time,news,Didn't really join in the fun... %O
+280824,Jake,Melksham,ES,1,23,-,30,19,27,4,3,1,1,0,1,1,0,0, Half Time,news,%P
+960197,Dustin,Fletcher,ES,1,23,-,30,17,24,4,2,1,1,0,0,0,0,0, Half Time,job,Standing Clark... %P
+240290,Angus,Monfries,ES,1,20,-,27,13,18,3,1,0,2,0,1,0,0,0, Half Time,news,%T and %O
+230051,Alwyn,Davey,ES,2,19,-,24,14,21,1,4,0,2,0,0,0,0,0, Half Time,news,%P and %T
+230060,Ricky,Dyson,ES,1,16,-,20,13,18,3,2,1,0,0,0,0,0,0, Half Time,news,%D
+261314,David,Myers,ES,1,16,-,21,13,21,3,3,0,1,0,0,1,0,0, Half Time,news,%O
+250569,Heath,Hocking,ES,2,13,-,16,16,24,1,5,2,0,0,0,2,0,0, Half Time,news,%O and %M
+250049,Brent,Prismall,ES,0,12,-,14,11,15,1,3,1,0,0,0,0,0,0, Half Time,news,Being eased in... %D
+261320,Tom,Bellchambers,ES,0,12,-,15,11,16,1,2,0,1,4,0,1,0,0, Half Time,news,%H... also %B among %D
+292138,Luke,Davis,ES,0,10,-,12,9,12,1,2,1,0,0,0,0,0,0, Half Time,news,One of the few young Bombers not to get amongst it... %P
+280988,Travis,Colyer,ES,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used
+291522,Alex,Browne,ES,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used
+270919,Tom,Rockliff,BL,9,42,-,40,37,48,3,6,3,2,0,1,1,1,0, Half Time,news,%B among %P with %M and %T
+261250,Sam,Sheldon,BL,3,35,-,32,28,39,3,6,2,2,0,0,0,0,0, Half Time,news,%O and %M
+290738,Jared,Polec,BL,8,34,-,28,26,34,4,2,0,3,0,2,1,1,1, Half Time,news,%O and %T plus %s
+261222,James,Hawksley,BL,2,28,-,23,23,30,3,4,2,1,0,1,0,0,0, Half Time,news,Plenty of halfback rebound work early... %D and %M
+281329,Rohan,Bewick,BL,2,27,-,16,20,27,5,1,2,1,0,0,0,0,0, Half Time,news,%D and %M
+271072,Daniel,Rich,BL,2,25,-,21,18,24,3,2,1,2,0,1,0,0,0, Half Time,news,Head to head with Stanton... %D and %T
+261391,Aaron,Cornelius,BL,1,20,-,6,15,21,5,1,1,0,0,0,0,0,0, Half Time,news,%D with %k by foot
+292035,Claye,Beams,BL,1,20,-,16,16,24,2,5,0,1,0,0,0,0,0, Half Time,news,%P including %B
+250335,Matthew,Leuenberger,BL,2,19,-,16,20,24,1,2,0,0,14,0,1,0,1, Half Time,news,%H and %P plus %s
+292501,Bryce,Retzlaff,BL,1,19,-,14,14,18,3,0,2,1,0,0,0,0,0, Half Time,news,%P and %M
+290110,Mitchell,Golby,BL,1,18,-,16,12,18,2,2,0,2,0,0,0,0,0, Half Time,news,%D and %T
+240013,Andrew,Raines,BL,6,17,-,19,13,24,2,2,0,4,0,0,3,0,0, Half Time,news,%O and %F
+220062,Matt,Maguire,BL,0,16,-,10,13,18,3,1,1,1,0,1,1,0,0, Half Time,job,On Hurley... %P
+250419,Tom,Collier,BL,1,16,-,21,12,15,0,2,1,2,0,1,0,0,0, Half Time,news,Part of an understrength backline... %P
+260986,Matt,Austin,BL,0,13,-,16,11,15,0,3,1,1,0,0,0,0,0, Half Time,news,%D including %B
+210045,Amon,Buchanan,BL,1,11,-,10,12,21,1,5,0,1,0,0,2,0,0, Half Time,news,%B among %D
+240393,Mitchell,Clark,BL,0,10,-,4,8,12,2,2,0,0,0,0,0,0,0, Half Time,news,Not influential... %P
+271071,Todd,Banfield,BL,1,10,-,11,7,12,1,1,0,2,0,0,1,0,0, Half Time,news,%P and %T
+290808,Patrick,Karnezis,BL,0,9,-,8,6,9,1,1,0,1,0,0,0,0,0, Half Time,news,Young Lions did not impress... %O
+250053,Cheynee,Stiller,BL,0,8,-,2,8,12,2,2,0,0,0,1,1,0,0, Half Time,news,%P and %F
+291731,Broc,McCauley,BL,0,7,-,7,7,9,0,2,0,0,3,0,0,0,0, Half Time,news,%H and not much else
+230211,Brent,Staker,BL,0,4,-,1,5,9,1,2,0,0,0,0,1,0,0, Half Time,news,Not much supply in the forward line... %P
+280572,Jesse,O'Brien,BL,0,4,-,1,5,9,1,2,0,0,0,0,1,0,0, Half Time,news,%P
+291548,Ryan,Lester,BL,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Half Time,news,Just the %p touch
+281048,Ryan,Harwood,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used
+290748,Joshua,Green,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used

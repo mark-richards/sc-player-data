@@ -1,0 +1,48 @@
+Adelaide,Crows,Western Sydney,Giants,R4,13.18.96,7.8.50, Full Time
+Apr 21,2012,4:40,Footy Park,Fox Sports,280109,10340404,430038,0,A little rain,24,,
+
+<em>Patty19</em>: @mufc look at the legend just under where you type your messages<br><em>HawkTalker</em>: Thompson absolutely underperformed<br><em>mufc</em>: how are FF points awaarded?<br><em>maluckyday</em>: McKernan's supercoach score is absoloutely ridicilous<br><em>MLSs</em>: seriously&#044; if premo's pumped out 150's every week&#044; they'd have a 150 average. clearly that is not how it works<br><em>Barlow</em>: you rarely see the Star that low down the list<br><em>TheLegend6</em>: Hurn&#044; Selwood and Magner vs Cox&#044; Morris and Boyd. Who wins?<br><em>cobrakai00</em>: how is that a good score from Thompson? he underperformed given the opposition<br><em>mufc</em>: because noone cares about sculy anymore so noone tags him :)<br><em>mardals16</em>: 39 fan footy points for one player?<br><em>W.Mantooth</em>: been a disappointing day DT wise. need to cash in these giants&#044; they are killing my OA chances<br><em>GoldDigger</em>: highest dt score is a cog?<br>
+210016,Scott,Thompson,AD,31,109,110,139,81,111,16,11,2,6,0,3,0,1,0, Full Time,hot,Tagged by McDonald... %P,,
+250118,Nathan,van Berlo,AD,30,109,114,148,75,112,20,7,1,9,0,1,2,0,1, Full Time,hot,%2 Ward... %D and %T plus %s,,
+270963,Rory,Sloane,AD,31,99,125,128,72,103,13,11,0,8,1,2,1,1,0, Full Time,news,%D and %T plus %s,,
+220086,Brent,Reilly,AD,20,91,123,121,71,105,18,9,4,4,0,0,3,0,0, Full Time,news,%D,job,On Hampton
+270742,Kurt,Tippett,AD,21,90,126,108,79,97,11,6,5,1,3,1,1,4,1, Full Time,star,First goal... %s from %P and %G on Davis,,
+291748,Brodie,Smith,AD,25,87,88,115,64,92,15,6,1,6,1,1,2,1,1, Full Time,news,%P and %T plus %s,job,Matched up on Treloar
+200092,Michael,Doughty,AD,13,78,86,102,57,81,11,8,3,5,0,0,0,0,0, Full Time,news,%D and %M,,
+261384,Matthew,Wright,AD,14,77,86,93,61,85,10,13,0,3,0,2,0,1,1, Full Time,news,%s from %O and %T on Power,,
+280506,Taylor,Walker,AD,14,76,97,94,61,80,11,7,3,2,0,1,0,1,5, Full Time,news,Mohr on him... %s from %P and %T,,
+230174,Jason,Porplyzia,AD,16,75,95,96,56,75,9,5,2,5,0,0,0,2,0, Full Time,news,%s from %D and %T... got Bugg in Q3,,
+261142,Bernie,Vince,AD,7,68,59,87,52,75,16,6,1,1,0,1,1,0,3, Full Time,news,Tagged by Bugg in the first half... %O and %s,,
+280281,Brodie,Martin,AD,9,67,67,87,53,76,12,8,2,3,0,2,2,0,1, Full Time,news,%P and %T,sore,Headclash with Jaensch in Q3
+270811,Sam,Jacobs,AD,16,66,75,80,63,81,7,5,3,2,29,0,4,0,1, Full Time,news,Not going well on his own against the Brogan/Giles combo... %H and %D with %s... also %F,,
+270917,Patrick,Dangerfield,AD,7,66,91,79,54,79,10,14,1,1,1,0,0,0,0, Full Time,news,%2 Shiel... %P,,
+250362,David,Mackay,AD,16,60,50,81,47,64,7,3,4,5,0,0,2,1,1, Full Time,news,%O and %M plus %s,,
+290211,Sam,Shaw,AD,4,59,71,80,41,57,12,1,3,3,0,0,0,0,0, Full Time,rookie,First game... %P and %M,job,Standing Edwards
+261351,Matthew,Jaensch,AD,4,52,71,68,38,54,8,5,2,3,0,0,0,0,0, Full Time,job,Minding Smith... %D and %T,sore,Headclash with Martin in Q3
+291201,Ricky,Henderson,AD,9,50,67,61,42,54,8,5,3,0,0,1,0,1,0, Full Time,news,On in Q1 for Petrenko... %P and %M on Kennedy,sub,Started as a sub
+280934,Daniel,Talia,AD,7,42,55,56,29,40,3,4,1,5,0,1,0,0,1, Full Time,job,Has Folau... %D and %s,,
+280038,Shaun,McKernan,AD,5,33,67,40,36,54,3,9,0,2,12,1,5,0,0, Full Time,news,%P and %H on Hombsch... also a massive %F in ruck with only %H,,
+220093,Ben,Rutten,AD,2,25,20,34,18,27,5,2,0,2,0,1,1,0,0, Full Time,job,On Tomlinson... %O,,
+261138,Jared,Petrenko,AD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Ran his head into Porplyzia in Q1 and didn't register a stat,subbed,Subbed out in Q1 for Henderson
+980011,Luke,Power,WS,25,119,131,64,88,123,23,8,6,4,0,0,0,0,0, Full Time,hot,%O and %T,job,Running off Wright
+280109,Callan,Ward,WS,26,110,133,83,90,128,14,19,3,6,0,4,3,0,2, Full Time,hot,%2 van Berlo... %D and %T... also %F,,
+280969,Tom,Scully,WS,25,107,98,78,79,108,16,7,7,6,0,0,0,0,0, Full Time,hot,%O and %M,,
+261841,Jonathan,Giles,WS,29,101,106,94,81,96,8,3,5,6,24,2,0,1,0, Full Time,hot,%H and %P with %T and %s,,
+290671,Anthony,Miles,WS,25,89,74,76,66,87,11,4,8,6,0,0,0,0,0, Full Time,rookie,First game... %P and %M with %T,in,Late replacement for Stephen Coniglio
+29,Adam,Treloar,WS,18,85,73,54,62,84,15,3,6,4,0,0,0,0,0, Full Time,bubble,Second game... %O including %K with %M on Smith... also %T,,
+970130,James,McDonald,WS,39,84,78,81,55,81,9,5,2,11,0,0,1,0,0, Full Time,tagger,Tagging Thompson... %O and %T,,
+200111,Dean,Brogan,WS,14,82,97,58,67,80,11,4,3,3,17,6,1,0,0, Full Time,news,%H and %D with %M... also a massive %4 frees for,,
+291783,Dylan,Shiel,WS,13,67,69,55,51,75,8,10,2,5,0,0,1,0,0, Full Time,cash,%2 Dangerfield... %D and %T,,
+291802,Tomas,Bugg,WS,18,66,83,69,48,69,4,11,1,7,0,1,0,0,0, Full Time,porpoise,Tagged Vince in the first half... moved to Porplyzia in Q3... %D including %B with %T,cash,Working hard to get free even though he is playing roles
+291771,Devon,Smith,WS,9,62,55,47,45,63,9,4,2,5,0,1,1,0,3, Full Time,cash,Jaensch on him... %s from %P and %T,,
+280804,Phil,Davis,WS,10,61,73,43,45,61,10,2,4,4,0,1,1,0,1, Full Time,job,Has Tippett... %D and %T with %M and %s,,
+290306,Curtly,Hampton,WS,15,57,64,46,47,57,6,2,3,2,0,0,0,3,0, Full Time,cash,%s from %D on Reilly,,
+291964,Jack,Hombsch,WS,8,56,88,39,48,63,8,8,3,2,0,5,2,0,0, Full Time,job,Standing McKernan... %B among %D,,
+261189,Tim,Mohr,WS,9,47,74,30,38,51,7,5,2,1,0,0,0,1,0, Full Time,cash,%P and %M,switch,Has Walker... went back in Q4
+261231,Rhys,Palmer,WS,4,41,38,26,34,49,7,5,2,2,0,1,2,0,1, Full Time,news,%D and %s with %M and %T,,
+291509,Adam,Kennedy,WS,3,41,40,25,32,42,7,3,3,1,0,1,0,0,0, Full Time,cash,%D and %M,job,Responsible for Henderson
+294917,Israel,Folau,WS,9,41,56,32,36,46,5,3,4,1,0,0,1,1,1, Full Time,tonga,%s from %G and %P on Talia,switch,Switched back in Q4
+291891,Jacob,Townsend,WS,2,32,25,22,23,30,5,2,1,2,0,2,0,0,0, Full Time,cash,On in Q3 for Adam Tomlinson... %P and %T,sub,Started as a sub
+980059,Chad,Cornes,WS,2,26,25,18,23,39,5,4,1,3,0,0,4,0,0, Full Time,switch,Started very slowly in Q1 in defence but woke up in Q2 when moved forward... %D,,
+24,Shaun,Edwards,WS,7,24,33,14,18,24,4,1,0,1,0,0,0,1,0, Full Time,rookie,First game... %s from %D on Shaw,,
+291819,Adam,Tomlinson,WS,1,23,46,17,20,30,3,5,1,1,0,0,1,0,0, Full Time,cash,%P on Rutten,subbed,Subbed off in Q3 for Townsend

@@ -1,0 +1,48 @@
+Fremantle,Dockers,Carlton,Blues,R22,13.15.93,13.9.87, Full Time
+Aug 27,2010,8:40,Subiaco ,Seven,220056,10282205,5015554,5240,Fine,23
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Sunday go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tCA"></b> DA BOSH KA</em>: go gibbs<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> cfc1995</em>: I think the scoreline flattered us in the end!<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> dudeshbood</em>: go pav and ballantyne<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> Roo rocks!</em>: No Carrazzo don't do this to me in my grand final!<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> bongetti</em>: your team is the skidmark of AFL football<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> bongetti</em>: toproo you absolute flowering pleb use your brain north melbourne will be lucky to survive for another 10 years <br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> TopRoo</em>: Oh tigerboy&#044; I forgot..."Carlton are coming" apparently!<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> millsie69</em>: Terrible decision on Mundy with the star! If you'd watched the game it'd easily be Hill!<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> rooattack</em>: TopRoo&#044;100% correct&#044;Carlton need to go back to their cheating ways&#044;it's their only hope<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> tigerboy</em>: HAHAHA top roo... I wish!<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> TopRoo</em>: Bring back Jack Elliot&#044; lmao<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> TopRoo</em>: Hey tigerboy&#044; even the tigers will see a GF before Carlton will<br>
+200032,Matthew,Pavlich,FR,32,107,143,132,87,115,10,15,3,6,0,4,1,2,1, Full Time,gun,%s from %O and %M on Jamison... also %T
+230107,Michael,Johnson,FR,22,107,112,135,94,120,13,10,9,3,3,3,3,2,0, Full Time,hot,%s from %P and %G on Bower... also %H and %F in limited ruck action
+220096,Aaron,Sandilands,FR,32,98,125,107,91,109,5,15,2,1,40,3,0,0,0, Full Time,heart,An amazing %H with almost no support in the ruck... also %P and %M
+240052,David,Mundy,FR,19,95,102,121,75,100,12,11,6,4,1,2,0,0,0, Full Time,star,Tagged by Carrazzo but freed up after QT when Carrazzo was injured... %P and %M with %T
+210037,Adam,McPhee,FR,19,93,86,125,72,100,15,6,7,5,0,0,2,0,1, Full Time,tagger,Tagging Judd... %P and %M plus %T
+280336,Stephen,Hill,FR,21,93,148,113,76,103,13,12,3,2,0,0,0,2,1, Full Time,x-factor,Tagged by Armfield... %P and %s
+250268,Garrick,Ibbotson,FR,14,87,88,112,70,91,15,6,8,1,0,1,0,0,1, Full Time,job,Minding Yarran... %P and %M plus %s
+280416,Chris,Mayne,FR,16,78,81,98,67,83,9,5,7,2,0,1,1,2,2, Full Time,news,%s from %D and %M on Ellard
+281111,Anthony,Morabito,FR,14,67,66,83,55,72,12,6,4,0,0,1,0,1,0, Full Time,news,%O
+261756,Greg,Broughton,FR,10,64,58,81,58,84,8,13,5,2,0,0,3,0,0, Full Time,job,On Betts... %O and %M
+210084,Roger,Hayden,FR,9,63,67,86,50,69,11,3,6,3,0,0,2,0,0, Full Time,news,%D and %M with %T
+270681,Jay,van Berlo,FR,8,63,54,79,50,69,7,10,3,3,0,1,0,0,0, Full Time,tagger,Tagging Simpson... %O and %M
+240139,Paul,Duffield,FR,15,62,51,85,43,63,9,4,2,6,0,0,1,0,0, Full Time,news,Forward tag on him by Robinson in the first half but freed up somewhat in the second half... %O and %T
+291570,Nathan,Fyfe,FR,9,62,64,79,53,76,7,11,4,3,0,0,2,0,1, Full Time,news,%O and %M with %T plus %F
+260069,Hayden,Ballantyne,FR,15,61,84,78,46,63,7,6,2,4,0,0,0,1,0, Full Time,in,%l Jesse Crichton... %s from %P and %M on Joseph... also %T
+200045,Luke,McPharlin,FR,5,59,87,76,46,60,9,5,4,2,0,2,0,0,0, Full Time,sore,Following Waite... %D and %M... left knee knock in Q2 but returned
+271015,Matthew,de Boer,FR,15,58,67,75,45,60,5,6,2,5,0,2,1,1,0, Full Time,tagger,Forward tag on Gibbs.... %O and %T with %M
+280933,Dylan,Roberton,FR,5,57,43,76,45,61,8,4,5,3,0,0,1,0,1, Full Time,job,Chasing Garlett... %P and %M
+281007,Michael,Walters,FR,10,51,49,63,43,54,8,3,2,1,0,2,1,2,0, Full Time,news,%s from %O on Russell
+270908,Nick,Suban,FR,9,47,44,65,35,51,6,4,2,5,0,1,2,0,0, Full Time,tagger,Tagging Murphy... %D and %T
+200031,Paul,Hasleby,FR,4,45,58,56,37,51,4,8,3,2,0,0,0,0,0, Full Time,news,%P
+990092,Antoni,Grover,FR,4,43,54,56,37,48,6,4,5,1,0,1,1,0,0, Full Time,job,Has Henderson... %M and %O
+220056,Chris,Judd,CA,32,121,141,97,90,128,15,15,3,9,0,2,1,0,2, Full Time,hot,Tagged by McPhee... %O and %T with %M and %s
+250105,Marc,Murphy,CA,32,113,136,89,90,124,13,17,3,6,0,3,1,1,1, Full Time,hot,Tagged by Suban... %O and %T with %M plus %s
+250417,Bryce,Gibbs,CA,20,112,123,67,83,111,21,3,8,5,0,2,1,0,0, Full Time,hot,Forward tag on him by de Boer... %P and %M with %T
+261258,David,Ellard,CA,49,98,108,106,68,93,6,9,2,12,0,2,0,1,0, Full Time,job,Running off Mayne... %O and %T
+230202,Kade,Simpson,CA,25,90,85,65,75,100,13,6,6,4,0,1,3,2,1, Full Time,tagged,Tagged by van Berlo... %D and %T plus %M and %s
+250298,Shaun,Grigg,CA,14,86,79,60,70,96,12,12,6,2,0,0,0,0,0, Full Time,news,%O and %M
+220110,Jarrad,Waite,CA,16,75,65,55,63,79,10,4,6,2,0,1,1,2,1, Full Time,news,First goal... %s from %P and %G on McPharlin... also %T
+260533,Dennis,Armfield,CA,19,74,86,63,51,72,9,6,2,7,0,1,0,0,0, Full Time,tagger,Tagging Hill... %O and %T
+990059,Heath,Scotland,CA,19,72,84,71,60,81,4,14,3,4,0,1,0,1,0, Full Time,news,Moved forward in the second half... %D including %b by hand... also %T and %s
+270653,Jeff,Garlett,CA,19,69,75,47,60,75,9,6,3,1,0,2,1,3,0, Full Time,news,%s from %P and %M on Roberton
+240060,Eddie,Betts,CA,21,67,61,58,49,67,8,3,3,6,0,0,1,1,1, Full Time,news,%P and %T on Broughton
+250211,Paul,Bower,CA,9,67,83,46,57,78,10,9,5,2,0,2,2,0,0, Full Time,job,Standing Johnson... %P and %M
+250672,Robert,Warnock,CA,16,67,51,65,64,79,3,9,3,2,28,1,2,0,0, Full Time,news,%H and %P with %M and %F
+271110,Chris,Yarran,CA,9,65,66,53,54,72,7,10,5,2,0,1,0,0,0, Full Time,news,%O and %M on Ibbotson
+290311,Mitch,Robinson,CA,8,62,66,40,48,69,10,8,2,3,0,1,1,0,0, Full Time,news,Forward tag on Duffield in the first half but chased his own footy after that... %P and %T with %M
+250090,Jordan,Russell,CA,9,55,44,42,43,63,8,6,3,4,0,0,2,0,0, Full Time,job,Minding Walters... %O and %T plus %F
+281049,Marcus,Davies,CA,14,42,35,38,30,45,6,1,2,6,0,1,3,0,0, Full Time,job,Has Hasleby... %P and %T with %F
+270326,Lachie,Henderson,CA,10,40,42,35,34,42,4,1,3,2,0,0,1,2,0, Full Time,news,Grover on him... %s from %D and %M
+261043,Michael,Jamison,CA,8,39,52,38,31,45,4,4,3,4,0,0,2,0,0, Full Time,job,Following Pavlich... %P and %M with %T and %F
+261318,Aaron,Joseph,CA,3,36,55,38,28,39,2,6,2,3,0,0,0,0,0, Full Time,job,Chasing Ballantyne... %P and %T
+270737,Shaun,Hampson,CA,3,29,30,33,26,37,1,5,1,3,7,0,2,0,0, Full Time,news,%H and %D with %T
+220015,Andrew,Carrazzo,CA,0,15,11,12,11,15,2,1,1,1,0,0,0,0,0, Full Time,injured,Tagging Mundy... %P... hamstring strain in Q1

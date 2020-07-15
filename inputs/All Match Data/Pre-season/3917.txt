@@ -1,0 +1,52 @@
+Adelaide,Crows,Port Adelaide,Power,W1,2.6.18,2.5.17, Full Time
+Feb 26,2012,4.50,Footy Park,Fox Footy,,10330118,,18,Possible shower,36,,
+
+<em>R.Griffen.</em>: Dug winning can you remember the 2007 GF where Port nearly beat you<br><em>McRooster</em>: Little do you know Heysheeky ;) Go Crows - undefeated in 2012 lol !<br><em>DuhWinning</em>: Geelong biaaatch!<br><em>port4spoon</em>: spud for tambling<br><em>Pokerface</em>: no&#044; muppet for the umpire<br><em>port4spoon</em>: muppet for jacobs seriously<br><em>R.Griffen.</em>: Duh Winning who do you go for??? <br><em>DuhWinning</em>: port are spuds<br><em>heysheeky</em>: doubt mcrooster has the money to get a house on the parade lachy<br><em>Lachy12345</em>: no i want won right next to Norwood oval go the Redlegs<br><em>R.Griffen.</em>: McRooster get him a house in elizabeth so he can watch a team win <br><em>Lachy12345</em>: im a port supporter<br>
+270963,Rory,Sloane,AD,9,51,-,67,39,51,12,0,2,1,0,2,1,1,0, Full Time,news,First goal... playing wide of Pearce... %D and %M plus %s,,,93
+261277,Tim,McIntyre,AD,8,31,-,40,26,33,5,2,0,2,0,4,2,1,0, Full Time,news,%s from %P on Jacobs... also %T,,,100
+270811,Sam,Jacobs,AD,2,28,-,37,20,26,4,0,1,2,5,0,0,0,0, Full Time,news,%H and %D with %T,,,57
+261351,Matthew,Jaensch,AD,2,26,-,35,19,24,5,0,2,1,0,1,0,0,0, Full Time,news,%D and %M,,,88
+270917,Patrick,Dangerfield,AD,2,26,-,35,18,24,4,1,1,2,0,1,0,0,0, Full Time,news,%D and %T,,,90
+250118,Nathan,van Berlo,AD,2,25,-,33,21,28,4,2,2,1,0,1,1,0,1, Full Time,news,%O and %M plus %s,,,87
+270742,Kurt,Tippett,AD,2,25,-,32,21,26,4,1,3,0,2,0,0,0,0, Full Time,news,%P and %M on Carlile,,,91
+290211,Sam,Shaw,AD,2,24,-,32,18,24,4,1,2,1,0,0,0,0,0, Full Time,job,Standing Schulz... %O and %M,,,95
+261138,Jared,Petrenko,AD,1,23,-,28,19,27,2,5,1,1,0,0,0,0,0, Full Time,news,%P with %b by hand,,,78
+291806,Sam,Kerridge,AD,2,22,-,27,19,25,3,3,2,0,0,0,0,0,1, Full Time,news,%s from %G and %P,,,92
+200092,Michael,Doughty,AD,1,21,-,25,17,24,2,5,0,1,0,1,0,0,0, Full Time,news,%D including %B,,,92
+210016,Scott,Thompson,AD,1,18,-,22,15,21,1,4,1,1,0,0,0,0,0, Full Time,news,%B among %O,,,90
+240370,Richard,Douglas,AD,2,16,-,21,15,21,3,2,2,0,0,0,1,0,0, Full Time,news,Trying to keep Hartlett honest on a HFF... %D and %M,subbed,Subbed off in Q2 for Tambling,56
+261142,Bernie,Vince,AD,1,16,-,20,12,18,4,2,0,0,0,0,0,0,0, Full Time,news,%D with %k by foot,,,82
+294828,Josh,Jenkins,AD,0,15,-,19,11,16,2,2,0,1,1,0,0,0,0, Full Time,news,%P,,,36
+230215,Brad,Symes,AD,0,11,-,14,8,12,1,2,0,1,0,0,0,0,0, Full Time,news,%D,,,76
+280506,Taylor,Walker,AD,1,11,-,16,8,12,1,1,0,2,0,1,1,0,0, Full Time,news,Chaplin on him... %D and %T,,,100
+291402,Aidan,Riley,AD,0,11,-,14,8,12,1,2,0,1,0,0,0,0,0, Full Time,news,%O,,,75
+220086,Brent,Reilly,AD,0,6,-,8,7,10,1,1,1,0,0,0,1,0,1, Full Time,news,%P and %s,,,96
+230216,Richard,Tambling,AD,0,5,-,6,5,6,0,1,1,0,0,0,0,0,0, Full Time,news,On in Q2 for Douglas... just a single touch,sub,Started as a sub,35
+270296,Andy,Otten,AD,0,5,-,6,4,6,1,1,0,0,0,0,0,0,0, Full Time,job,Has Daniel Stewart... %O,,,94
+280934,Daniel,Talia,AD,0,1,-,2,2,3,1,0,0,0,0,1,1,0,0, Full Time,job,Chasing Westhoff... just the one disposal,,,69
+280568,Lewis,Johnston,AD,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,Duck eggs across his stat sheet,,,28
+291201,Ricky,Henderson,AD,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,Zippo on his stat line,,,0
+230195,Jay,Schulz,PA,10,46,-,57,38,45,4,2,3,2,0,1,0,2,0, Full Time,news,Booted %s from %P on Shaw... also %G and %T,,,95
+261396,Robbie,Gray,PA,3,38,-,50,28,37,6,2,2,2,0,1,0,0,1, Full Time,news,%P and %T with %M and %s,,,72
+261911,Brad,Ebert,PA,3,36,-,46,30,36,6,2,4,0,0,2,0,0,0, Full Time,news,Obviously slotted in with no problem at Port... %O and %M,,,85
+261892,Hamish,Hartlett,PA,3,35,-,45,29,42,6,5,2,1,0,0,1,0,0, Full Time,news,Floating about half back on Douglas... %P and %M,,,89
+250365,Travis,Boak,PA,2,34,-,46,25,36,7,2,1,2,0,1,1,0,0, Full Time,news,%O and %T,,,77
+250063,Danyle,Pearce,PA,2,30,-,39,24,36,4,5,1,2,0,0,1,0,0, Full Time,news,Playing wide of Sloane... %O and %T,,,100
+271078,Matthew,Broadbent,PA,2,28,-,37,21,27,5,1,2,1,0,1,0,0,0, Full Time,news,%D and %M,,,79
+240180,Troy,Chaplin,PA,1,26,-,30,23,30,3,6,1,0,0,2,0,0,0, Full Time,job,On Walker... %O,,,100
+260201,Daniel,Stewart,PA,1,25,-,28,23,29,2,5,1,0,4,1,0,0,1, Full Time,news,%P but only %k kicks,,,92
+290277,Jarrad,Redden,PA,2,22,-,25,21,26,1,5,2,0,2,1,0,0,0, Full Time,news,%H and %P with %M,,,73
+230192,Steven,Salopek,PA,2,19,-,25,17,24,4,2,2,0,0,0,1,0,0, Full Time,news,%P and %M,,,94
+290802,Ben,Jacobs,PA,1,18,-,23,14,19,4,1,1,0,0,0,0,0,1, Full Time,job,Running off McIntyre... %D,,,100
+292145,Thomas,Jonas,PA,1,18,-,24,17,27,3,4,1,1,0,0,2,0,0, Full Time,news,%P and %F,,,85
+280750,Andrew,Moore,PA,1,16,-,20,14,18,2,2,2,0,0,0,0,0,0, Full Time,news,%O and %M,,,78
+290546,Aaron,Young,PA,2,16,-,21,15,21,3,2,2,0,0,0,1,0,0, Full Time,news,%P and %M,,,85
+290540,Cameron,O'Shea,PA,1,12,-,13,11,15,1,4,0,0,0,1,0,0,0, Full Time,news,%D,,,99
+220090,David,Rodan,PA,1,11,-,12,10,15,1,4,0,0,0,0,0,0,0, Full Time,news,%B among %O,,,82
+240381,Simon,Phillips,PA,0,11,-,15,10,15,3,1,1,0,0,0,1,0,0, Full Time,news,%O,,,100
+250688,Alipate,Carlile,PA,0,8,-,11,8,12,2,1,1,0,0,0,1,0,0, Full Time,job,Has Tippett... %D,,,88
+260750,Justin,Westhoff,PA,0,6,-,8,5,6,1,0,1,0,0,0,0,0,0, Full Time,news,One touch on Talia,,,78
+291947,Brendon,Ah Chee,PA,0,3,-,5,4,6,1,0,1,0,0,0,1,0,0, Full Time,news,Just the solitary kick,,,22
+270952,Mitch,Banner,PA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,Zero in the way of stats,,,5
+280013,Jackson,Trengove,PA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,Not used,sub,Started as a sub,0
+291597,Jarrad,Irons,PA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,No statistics at all,,,20

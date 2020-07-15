@@ -1,0 +1,48 @@
+Essendon,Bombers,Carlton,Blues,R3,21.12.138,8.9.57, Full Time
+Apr 6,2014,7.10,MCG,Seven,,10420309,ess-v-carl,0,Fine,23,,
+
+<em style='color:#000'>Karlpov</em>: When does Fantasy Elite lockout end?<br><em style='color:#000'>JGreezy</em>: No sc tonnes for blues&#044; not even 90<br><em style='color:#000'>Ewoks</em>: hope hibberd&#044; simspon and daisy get it all :D<br><em style='color:#000'>HawkTalker</em>: murphy. up there with the great captains - maxwell&#044; vandenberg... <br><em style='color:#000'>fitzy73</em>: u serious murph<br><em style='color:#000'>tor01doc</em>: Murphy not too bad<br><em style='color:#000'>jimmyjay</em>: haha Murphy.. toss<br><em style='color:#000'>Raptorbalz</em>: chappy a chance for a break according to dennis&#044; <br><em style='color:#000'>eski_liddr</em>: murphy u flog<br><em style='color:#000'>Stuart88</em>: Great game blue boys great way to end my weekend <br><em style='color:#000'>uptoolate</em>: brave call Raspel !<br><em style='color:#000'>JGreezy</em>: actually only 100 now&#044; but still<br>
+200039,Paul,Chapman,ES,33,134,110,170,111,138,19,4,11,3,0,0,1,4,3, Full Time,star,He still has the mojo... %s from %P and %M plus %T,sore,Ankle soreness in Q1,416300,13,464400,19,Forward Midfielder,3,2,108,119.5,10.43,9.01,17.33,435934,45
+295285,Jackson,Merrett,ES,31,131,130,168,106,144,21,14,10,3,0,1,1,0,0, Full Time,magnet,Continued his run of form... %P and %M plus %T,,,274800,-54,266000,-31,Forward,20,2,102.5,89.5,2.72,2.81,7.87,332054,8
+290629,Dyson,Heppell,ES,30,120,114,154,92,123,18,10,6,5,0,2,0,1,0, Full Time,hot,%O and %M plus %T... %s as well,,,519000,47,491400,82,Midfielder,21,2,119,95.5,1.65,2.21,4.69,543545,84
+250569,Heath,Hocking,ES,26,111,135,140,92,124,15,13,8,3,1,0,1,1,0, Full Time,hot,%P and %M plus %T... %s as well,tagger,Tagging Murphy,391100,80,367400,46,Midfielder,39,2,67.5,79,0.31,0.50,0.35,372562,70
+230084,Brendon,Goddard,ES,28,110,102,140,97,120,13,7,13,2,0,1,2,2,3, Full Time,gun,Started up forward on Everitt and played the role very well... %D and %M with %T... %s as well,,,575800,102,572200,79,Midfielder,9,2,107,119.5,3.12,2.23,4.33,567157,108
+240027,Brent,Stanton,ES,30,106,109,129,89,114,15,10,6,1,0,1,0,3,0, Full Time,hot,Tagged by Curnow... %P and %M plus %s,,,564700,102,508100,91,Midfielder,5,2,104,96,2.23,0.69,1.15,546797,97
+290641,Jake,Carlisle,ES,26,101,83,127,88,108,13,4,9,2,18,1,2,1,0, Full Time,hot,The number one ruck tonight... Swapping with Daniher up forward... %O including %K... also %M and %T... and kicked %s,,,362900,17,408900,33,Back,22,2,91,97,1.72,2.98,2.40,377199,38
+294798,Mark,Baguley,ES,19,100,117,128,79,105,17,9,7,2,0,2,0,0,0, Full Time,hot,%P and %M plus %T,job,On Garlett,363100,57,374000,63,Back,12,2,71,72.5,0.32,0.49,0.42,363661,67
+230231,Jobe,Watson,ES,20,96,101,120,76,106,10,16,4,5,0,1,0,0,1, Full Time,news,%P and %M plus %T... %s as well,,,538200,23,601300,64,Midfielder,4,2,136.5,135,20.07,17.16,31.19,574619,71
+290160,Michael,Hibberd,ES,19,95,103,119,79,105,16,11,8,0,0,1,0,0,0, Full Time,news,%M and %P,job,On Menzel,476000,70,517300,108,Back,1,2,95.5,90,3.38,3.15,7.97,474416,80
+280824,Jake,Melksham,ES,21,92,89,117,77,99,13,8,8,2,0,2,1,1,0, Full Time,news,Buckley manning him up... %O and %M plus %T... %s as well,,,427600,,403300,,Midfielder,17,0,0,0,0.18,0.29,0.16,424300,78
+261314,David,Myers,ES,18,83,86,108,64,87,11,8,6,4,0,0,0,0,0, Full Time,news,%P and %M plus %T,,,418700,28,399400,22,Midfielder,23,2,101,100,0.23,0.39,0.22,437800,56
+270588,Cale,Hooker,ES,14,81,80,105,68,90,11,8,9,2,0,0,1,0,0, Full Time,job,On Henderson... %P and %M plus %T,,,393800,-7,417500,0,Back,26,2,111.5,116,1.60,0.84,4.88,434495,42
+270951,David,Zaharakis,ES,10,81,50,102,65,90,10,12,5,3,0,0,0,0,0, Full Time,news,%D and %M with %T,,,448200,55,458700,89,Midfielder,11,2,95.5,83,3.05,4.05,3.84,454482,72
+270935,Michael,Hurley,ES,14,79,70,99,69,93,12,11,8,0,0,0,1,0,0, Full Time,news,%O and %M,job,On Waite,326400,39,375500,69,Forward,18,2,70,70,1.10,1.51,1.63,335146,56
+960197,Dustin,Fletcher,ES,12,72,84,94,56,75,14,4,6,1,0,0,0,0,0, Full Time,job,Manning Rowe... %D including %K... also %M,,,321500,13,354800,18,Back,31,2,82,89.5,1.01,0.98,1.48,336851,34
+294518,Joe,Daniher,ES,12,71,72,88,61,78,8,6,5,2,9,0,1,1,0, Full Time,news,Jamison has him... Spending time in the ruck... %s from %O and %M plus %T,,,236900,-5,272900,23,Forward,6,2,67.5,64.5,8.77,12.96,10.58,272093,29
+260073,Ben,Howlett,ES,25,70,72,96,53,78,7,8,3,8,0,1,3,0,0, Full Time,news,%D and %M with %T... not helped by %F,,,409100,46,402300,46,Forward Midfielder,40,2,89.5,89,1.44,1.42,2.31,421437,68
+270584,Kyle,Hardingham,ES,20,65,76,82,54,63,7,0,6,2,0,0,0,3,0, Full Time,news,Yarran manning him up... %D with %b by hand... also %M and %T... and booted %s,subbed,Subbed off at 3QT,323700,31,338500,32,Back,34,2,73.5,78,0.42,0.47,0.78,321394,44
+230238,Jason,Winderlich,ES,17,64,96,74,59,69,5,5,5,0,0,0,0,4,0, Full Time,news,Deep forward on Tuohy... %s from %P and %M,,,421100,,417100,,Forward,8,0,0,0,0.23,0.30,0.33,417800,77
+294470,Jason,Ashby,ES,4,48,41,60,41,54,7,6,5,0,0,0,0,0,0, Full Time,rookie,First game... %M and %P,,,119200,,123900,,Back,14,0,0,0,0.50,0.86,0.32,152000,28
+297438,Martin,Gleeson,ES,3,35,25,45,29,40,6,4,2,1,0,1,1,0,1, Full Time,news,Subbed on at 3QT... %D and %M plus %s,sub,Started the sub,119200,-63,123900,-44,Midfielder,35,2,64,56.5,1.56,1.65,5.26,160964,-19
+250105,Marc,Murphy,CA,33,102,80,77,75,105,15,6,4,8,0,1,2,1,0, Full Time,hot,Hocking making life difficult for him... %O with %k by foot... also %T and %M... and scored %s,,,467200,65,498300,34,Midfielder,3,2,96,121.5,9.13,13.74,7.45,466155,74
+250417,Bryce,Gibbs,CA,19,101,89,70,83,111,14,13,7,2,3,1,0,0,0, Full Time,hot,%O and %M plus %T,,,485300,113,514700,118,Midfielder,4,2,77,84,1.10,0.91,1.73,464183,104
+230202,Kade,Simpson,CA,18,88,86,57,67,88,15,4,6,4,0,3,1,0,1, Full Time,news,%P with %k by foot... also %M and %T... and scored %s... helped out by %4FF,,,465600,76,513200,119,Back,6,2,90,83,14.51,7.57,12.69,458160,79
+240359,Dale,Thomas,CA,18,86,82,79,68,90,8,10,7,5,0,1,0,0,0, Full Time,news,%D and %M with %T,,,328600,34,341800,36,Midfielder,39,2,73,77,31.15,39.55,21.25,349057,53
+240014,Andrew,Walker,CA,14,81,89,44,69,96,14,13,5,0,0,1,1,0,0, Full Time,switch,Went forward in Q2... %M and %D,,,473700,,572500,,Back,1,1,62,64,3.69,7.31,3.52,470000,103
+290311,Mitch,Robinson,CA,14,79,70,64,60,87,9,13,2,5,0,0,0,0,0, Full Time,news,%P and %M plus %T,,,414900,73,434600,125,Forward Midfielder,12,2,77.5,58.5,1.34,1.01,1.56,404168,72
+220015,Andrew,Carrazzo,CA,13,76,78,65,59,84,7,16,0,5,0,3,0,0,0, Full Time,news,%P and %T... umps paid him %4FF,,,342500,,356500,,Midfielder,44,0,0,0,0.71,0.98,1.27,339800,63
+260278,Sam,Rowe,CA,11,73,65,70,65,81,4,11,5,2,14,1,0,0,1, Full Time,news,Playing forward on Fletcher... Also spending time in the ruck... %s from %D and %M with %T,,,307500,,324200,,Forward Ruck,17,1,34,53,0.56,0.78,0.58,290161,71
+293154,Troy,Menzel,CA,12,68,62,53,58,73,8,5,5,2,0,1,1,2,1, Full Time,news,%s from %P and %M plus %T,,,260400,82,231900,56,Forward,2,2,30.5,36.5,1.13,2.89,1.35,203337,44
+270146,Ed,Curnow,CA,14,66,61,55,52,72,8,7,5,4,0,0,1,0,0, Full Time,tagger,Tagging Stanton... %P and %M plus %T,,,398500,8,411400,13,Midfielder,35,2,105.5,108,0.29,0.27,0.51,423782,41
+250672,Robert,Warnock,CA,25,62,66,53,56,62,4,1,1,1,41,0,0,0,0, Full Time,news,%H... also %P,,,384600,86,474700,82,Ruck,11,2,62.5,91,0.57,0.42,0.64,361156,72
+261257,Andrejs,Everitt,CA,8,61,92,21,48,66,15,2,5,0,0,0,1,0,0, Full Time,news,%D with %k by foot... also %M,job,Has the job on Goddard,328100,42,342000,35,Back,33,2,69,77.5,1.56,3.97,1.71,327737,49
+292511,Zach,Tuohy,CA,13,57,69,40,45,63,8,7,1,3,0,1,1,1,0, Full Time,job,Has Winderlich... %O and %T plus %s,,,287000,69,349400,102,Back,42,2,44.5,46,1.33,1.54,2.06,269907,59
+270326,Lachie,Henderson,CA,14,52,60,51,40,50,4,3,3,4,0,1,0,1,2, Full Time,news,Hooker on him... %s from %P and %M plus %T,,,375400,111,449400,122,Back Forward,23,2,47.5,64,1.57,2.40,2.13,334879,80
+261043,Michael,Jamison,CA,7,50,60,34,41,57,7,8,3,1,0,0,0,0,0, Full Time,news,%M and %O,job,Has Daniher,260700,65,348400,69,Back,40,2,39,62.5,0.89,0.64,0.92,246722,58
+291777,Dylan,Buckley,CA,8,50,34,37,43,57,7,5,6,1,0,0,1,0,0, Full Time,job,On Melksham... %P and %M,,,120200,,133800,,Midfielder,7,1,76,86,1.13,1.92,0.84,155900,-8
+261258,David,Ellard,CA,10,46,59,37,39,51,5,4,2,2,0,0,1,2,0, Full Time,news,%P and %M plus %T... %s as well,,,228700,-23,220100,-37,Midfielder,46,2,74.5,79.5,1.62,2.85,2.03,266763,21
+220110,Jarrad,Waite,CA,3,44,44,29,35,44,7,2,4,1,0,1,0,0,2, Full Time,news,Hurley has him... %s from %D and %M,,,375600,60,406300,49,Forward,30,2,73,88.5,0.88,0.84,1.23,367072,60
+270653,Jeff,Garlett,CA,13,39,36,36,27,36,4,1,1,4,0,0,0,1,0, Full Time,news,Baguley manning him... %s from %O and %T,,,389200,101,421800,125,Forward,38,2,56.5,55,0.77,0.64,0.94,359077,80
+271110,Chris,Yarran,CA,4,38,47,20,30,45,8,3,2,2,0,0,2,0,0, Full Time,job,On Hardingham... %P with %k by foot... also %M,,,331800,19,357100,22,Forward,13,2,81.5,88.5,1.15,1.52,1.64,341968,36
+294691,Tom,Bell,CA,3,35,21,11,28,39,9,1,3,0,0,0,1,0,0, Full Time,news,Subbed on late in Q3... %P including %K... also %M,sub,Started the sub,276700,4,311400,57,Midfielder,28,2,74,58,1.25,1.12,1.64,296344,27
+270637,Simon,White,CA,0,5,4,7,5,9,0,2,0,1,0,0,1,0,0, Full Time,news,%O,subbed,Subbed out late in Q3,247600,,315800,,Back,43,1,41,47,0.18,0.19,0.18,233024,46

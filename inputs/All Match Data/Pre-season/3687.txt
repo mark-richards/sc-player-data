@@ -1,0 +1,56 @@
+Essendon,Bombers,St Kilda,Saints,W1,0.5.8.38,0.6.2.38, Half Time
+Feb 18,2011,9:25,Docklands,Seven,,10300112,1226003076959,5267,Dome,25
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>aceballa</em>: hey monty&#044; mark williams scored&#044; he got the final goal didn't he?<br><em>{crows17}</em>: hey monty whos a good dream team player any position worth arund $300.000<br><em>donsfan86</em>: shut up&#044; st kilda scum!!<br><em>alec yakka</em>: crameri can he play in round one? because he's on the rokkie list..<br><em>lenny20</em>: Don't worry dons&#044; you'll smash 'em in the replay!<br><em>Judd005</em>: ur still shizen<br><em>dj_2188</em>: Pies Saints Rematch<br><em>Rommas</em>: Um&#044; you drew you tard<br><em>spudmania</em>: sc scores?<br><em>spudmania</em>: u essendon supporters are carrying on as if u've just won the flag. u've won a practice match.. congrats<br><em>kakarot</em>: come on...saints have 6 pts to adelaidss 4...of course they overtake them<br><em>proud_lion</em>: crameri a lock?<br>
+240027,Brent,Stanton,ES,4,43,-,58,34,46,7,2,4,2,0,0,1,0,1, Half Time,news,%D and %T with %M
+240290,Angus,Monfries,ES,9,43,-,54,34,42,3,4,2,3,0,2,0,1,0, Half Time,news,Hird obviously concentrating on his frontal pressure skills.. %T and %D with %M and %s
+240245,Courtenay,Dempsey,ES,3,41,-,51,34,46,7,5,3,0,0,0,0,0,1, Half Time,news,%P and %M plus %s
+290641,Jake,Carlisle,ES,8,37,-,47,28,34,5,1,1,2,0,2,0,1,1, Half Time,news,%K among %D... also %T and %s
+292503,Stewart,Crameri,ES,8,37,-,44,30,39,5,3,0,1,0,0,0,2,0, Half Time,news,First goal... %s from %D
+291522,Alex,Browne,ES,2,33,-,44,27,37,6,2,3,1,0,0,1,0,1, Half Time,news,%K among %P with %M and %s
+280824,Jake,Melksham,ES,2,32,-,43,22,30,4,2,1,3,0,1,0,0,0, Half Time,news,%P and %T
+210040,Mark,Williams,ES,8,30,-,38,26,30,4,0,4,0,0,0,0,1,0, Half Time,news,No score from %O and %G
+280988,Travis,Colyer,ES,2,30,-,38,22,32,8,2,0,0,0,0,0,0,2, Half Time,news,%s from %O
+260073,Ben,Howlett,ES,2,29,-,37,22,30,3,4,1,2,0,1,0,0,0, Half Time,news,%O with %b by hand
+250569,Heath,Hocking,ES,1,23,-,30,17,24,4,2,1,1,0,0,0,0,0, Half Time,news,%D with %k by foot
+210079,Nathan,Lovett-Murray,ES,1,19,-,26,15,22,4,1,1,1,1,0,1,0,0, Half Time,news,%P including %K
+240319,Sam,Lonergan,ES,1,18,-,22,14,21,2,4,0,1,0,0,0,0,0, Half Time,news,%B among %D
+250366,Scott,Gumbleton,ES,1,18,-,23,13,18,1,2,0,2,3,0,0,0,0, Half Time,news,%D plus %H and %T
+250071,Henry,Slattery,ES,0,17,-,22,13,18,2,2,1,1,0,0,0,0,0, Half Time,news,%D
+290160,Michael,Hibberd,ES,1,17,-,22,13,18,4,1,1,0,0,0,0,0,0, Half Time,job,Minding Milne.... %D
+230051,Alwyn,Davey,ES,1,16,-,20,12,18,2,3,0,1,0,0,0,0,0, Half Time,news,%O
+270588,Cale,Hooker,ES,1,16,-,21,14,21,2,3,1,1,0,0,1,0,0, Half Time,news,%D with %b by hand
+270935,Michael,Hurley,ES,1,16,-,22,10,15,2,1,0,2,0,0,0,0,0, Half Time,news,Started as a sub... on in Q2... %O
+250267,Patrick,Ryder,ES,1,14,-,16,13,15,1,1,1,0,6,0,0,0,0, Half Time,news,%H and %P
+260256,Jay,Neagle,ES,1,14,-,18,12,15,2,1,2,0,0,0,0,0,0, Half Time,news,Starting at fullback... %M and %D
+250352,Leroy,Jetta,ES,0,12,-,16,8,12,2,1,0,1,0,0,0,0,0, Half Time,news,%P
+230238,Jason,Winderlich,ES,0,11,-,14,8,10,1,1,0,1,1,1,0,0,0, Half Time,news,Just the %D
+250049,Brent,Prismall,ES,0,9,-,10,9,12,0,3,1,0,0,0,0,0,0, Half Time,news,%B among %O
+294828,Josh,Jenkins,ES,0,8,-,10,6,7,0,0,0,1,4,0,0,0,0, Half Time,news,%H
+270584,Kyle,Hardingham,ES,0,4,-,6,2,3,0,0,0,1,0,0,0,0,0, Half Time,news,Started as a sub... on in Q2
+220075,Leigh,Montagna,SK,14,54,-,45,37,48,7,0,2,5,0,1,0,1,0, Half Time,news,%D and %T with %M
+260581,Ryan,Gamble,SK,9,41,-,34,37,45,4,4,5,0,0,0,0,1,0, Half Time,news,%s from %D and %G
+230084,Brendon,Goddard,SK,3,39,-,32,28,39,5,3,2,3,0,0,0,0,0, Half Time,news,%O and %T plus %M
+250340,David,Armitage,SK,7,39,-,36,27,39,4,4,1,4,0,0,0,0,0, Half Time,news,NAB Cup specialist... %O and %T
+261323,Ben,McEvoy,SK,5,38,-,35,31,38,3,2,2,2,11,0,0,0,0, Half Time,news,%H and %P plus %M
+240012,Andrew,McQualter,SK,3,37,-,34,27,36,4,2,3,3,0,0,0,0,0, Half Time,news,%O and %M plus %T
+230035,Raphael,Clarke,SK,3,33,-,28,25,33,4,2,3,2,0,0,0,0,0, Half Time,news,%D and %T plus %M
+281151,Will,Johnson,SK,8,31,-,27,24,30,3,2,1,2,0,1,0,1,0, Half Time,news,%s from %D with %T
+240708,Sam,Fisher,SK,2,30,-,22,24,33,4,4,2,1,0,0,0,0,0, Half Time,news,%D and %M
+270910,Nick,Heyne,SK,2,30,-,32,22,28,2,2,2,3,0,1,0,0,1, Half Time,news,%s from %D and %M
+990004,Steven,Baker,SK,3,28,-,27,21,30,3,2,2,3,0,0,1,0,0, Half Time,news,%P and %T with %M
+200108,Stephen,Milne,SK,7,24,-,12,20,24,4,0,0,0,0,0,0,2,0, Half Time,news,%s from %P
+220023,Nick,Dal Santo,SK,2,23,-,17,15,24,4,1,0,3,0,0,1,0,0, Half Time,news,Eased into the season... %P and %T
+294198,Thomas,Ledger,SK,7,23,-,11,20,27,5,0,1,1,0,1,2,1,0, Half Time,news,%s from %O
+270938,Tom,Lynch,SK,1,19,-,16,17,21,2,2,3,0,0,0,0,0,0, Half Time,news,%P and %M
+280053,Tom,Simpkin,SK,1,19,-,18,13,18,2,1,1,2,0,0,0,0,0, Half Time,news,Started as a sub... on in Q2... %D and %T
+220034,Jason,Gram,SK,1,18,-,10,15,21,3,3,1,0,0,0,0,0,0, Half Time,news,%D
+250703,James,Gwilt,SK,1,17,-,15,15,21,2,2,2,1,0,0,1,0,0, Half Time,news,%O and %M
+281108,Daniel,Archer,SK,0,17,-,14,13,17,2,1,1,1,1,0,0,0,1, Half Time,news,Booted %s from %O
+292509,Tommy,Walsh,SK,0,15,-,9,12,18,3,1,1,1,0,0,1,0,0, Half Time,irish,%P
+230243,Sean,Dempster,SK,1,14,-,8,12,18,2,4,0,0,0,0,0,0,0, Half Time,news,%B among %P
+200068,Jason,Blake,SK,0,13,-,12,10,15,1,3,0,1,0,0,0,0,0, Half Time,news,%O with %b by hand
+240701,Brett,Peake,SK,0,8,-,10,6,9,0,2,0,1,0,0,0,0,0, Half Time,news,All handballs among %O
+290444,Alistair,Smith,SK,0,7,-,5,6,6,1,0,1,0,0,1,0,0,0, Half Time,news,Not sighted much after his knock in the earlier game
+290456,Nick,Winmar,SK,1,7,-,11,5,9,0,1,0,2,0,0,1,0,0, Half Time,news,%T
+291454,Sam,Crocker,SK,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub... wasn't used

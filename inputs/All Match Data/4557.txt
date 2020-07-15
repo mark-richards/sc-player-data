@@ -1,0 +1,48 @@
+West Coast,Eagles,Gold Coast,Suns,R19,20.10.130,17.11.113, Full Time
+Aug 03,2013,4.40,Subiaco,Seven,240406,10391904,wce-v-gcfc,0,Mostly sunny,23,,
+
+<em style='color:#000'>matthius</em>: JJK another horrible sc score. faaarrrkkkeen muppets dishing out these scores<br><em style='color:#000'>Ninja!</em>: why do people hate crowly? <br><em style='color:#000'>howeydamus</em>: may as well bring sharrod in for buddy<br><em style='color:#000'>johnkay</em>: How is Dixon the 2nd best SC for Gold Coast?<br><b class="picon i_spud" title="Fan_Booty is a spud"></b> Fan_Booty: what about between Crows and Port?<br><em style='color:#000'>fixxxer</em>: jaegers SC was terrible<br><em style='color:#000'>Hazza09</em>: Terrible Cannon<br><em style='color:#000'>matthius</em>: @Ninja - you can believe whatever you want to mate.. and good luck with that tooth fairy<br><em style='color:#000'>3rdstriker</em>: Jjks sc is a disgrace&#044; as bad as buddys last week&#044; should be much greater weight on goals than meaningless midfield poss<br><em style='color:#000'>HydeSide</em>: wce have the sheitist haircuts in the comp and that was before  wellingham went there<br><em style='color:#000'>Breezey</em>: Qlders hate WCE<br><em style='color:#000'>grossn</em>: I like both<br>
+200112,Dean,Cox,WC,49,141,149,169,124,147,11,8,9,4,44,1,1,1,1, Full Time,star,%H and %P with %M and %T... also %s,,,392700,75,440100,113,Forward Ruck,20,17,91.5,103.4,51.17,49.66
+261799,Sharrod,Wellingham,WC,25,111,128,145,83,108,18,5,6,5,0,3,0,1,0, Full Time,hot,%s from %P and %M starting forward on Swallow,,,310500,43,321900,30,Forward Centre,12,5,64,60.8,0.75,0.76
+260546,Bradd,Dalziell,WC,21,110,130,139,88,111,16,7,7,3,0,3,0,2,0, Full Time,cherry,%P and %T with %M and %s,,,326200,75,339000,81,Centre,18,12,64.6,64.2,1.33,0.61
+240406,Josh J.,Kennedy,WC,28,107,101,133,91,107,12,2,8,3,0,2,1,5,2, Full Time,heart,First goal... %s from %P and %G on Thompson... got May in Q2... left knee restrapped in Q1 after a bit of spilt claret,,,443900,85,475700,88,Forward,17,16,93.8,99.8,46.85,49.11
+281052,Mark,Hutchings,WC,31,102,127,131,77,106,15,10,2,6,0,3,1,1,1, Full Time,hot,%D and %T with %M and %s,cash,Is still making money at this late stage,376500,60,388900,58,Centre,34,8,90,85.3,10.44,4.19
+270928,Scott,Selwood,WC,20,98,97,125,77,105,15,12,4,4,0,4,1,0,0, Full Time,heart,%B among %D with %T and %M... ran his head into Sumner in Q3 leaving him dazed... returned to play it out after 3QT,tagger,Tagging Ablett jnr,519200,123,533200,138,Centre,10,13,108.5,102.2,2.23,1.04
+250317,Eric,Mackenzie,WC,20,84,81,113,69,91,15,2,8,3,0,1,3,1,1, Full Time,news,%P and %M with %T,job,Standing Dixon,304500,97,426000,115,Back,16,15,52.3,70.4,1.04,0.58
+290746,Scott,Lycett,WC,21,84,83,106,75,91,11,2,9,1,15,0,2,1,1, Full Time,cash,%s from %P and %M when forward on May... then Thompson in Q2... also %H as second ruck,,,162300,18,206000,15,Forward,29,2,44,56.5,1.45,0.42
+290801,Andrew,Gaff,WC,15,83,69,110,62,87,15,6,4,4,0,1,1,0,0, Full Time,news,%2 Prestia...%O and %T with %M,,,339900,18,365500,27,Centre,3,17,69.7,74.4,1.33,1.24
+240159,Sam,Butler,WC,18,82,77,110,60,81,14,3,6,4,0,0,0,0,0, Full Time,job,Responsible for Aaron Hall... %O and %M with %T,,,347400,32,371700,44,Back,26,10,74.2,74.2,0.37,0.27
+261214,Will,Schofield,WC,17,82,77,103,66,82,8,6,5,4,1,2,0,2,0, Full Time,news,Playing mostly forward... %s from %P and %T... also %H,,,278800,51,354800,84,Back,31,12,52.8,64.9,0.89,0.70
+261209,Josh,Hill,WC,17,79,99,97,66,82,7,6,5,3,0,0,0,3,1, Full Time,cannon,%s from %P and %M on McKenzie... %T as well,,,262500,62,294900,76,Forward,33,15,62.3,71.5,0.97,0.79
+290833,Blayne,Wilson,WC,9,79,70,98,65,87,14,10,5,0,0,2,0,0,0, Full Time,cash,%D and %M,,,168700,-21,183300,-24,Back,30,3,71.7,75.7,6.52,6.62
+200074,Darren,Glass,WC,14,75,77,100,56,75,9,5,6,5,0,0,0,0,0, Full Time,job,Takes Bock... %P,,,271300,-2,344400,2,Back,23,15,54.1,66.6,2.14,1.71
+290826,Jamie,Cripps,WC,20,74,80,97,57,78,9,6,4,5,0,0,1,1,0, Full Time,news,%s from %P and %M on Broughton,,,251300,55,222500,38,Centre,15,10,52.8,45.7,0.85,1.01
+250034,Ashton,Hams,WC,14,67,82,84,53,69,8,7,3,3,0,2,0,1,0, Full Time,news,%D and %M on Russell,,,237600,72,266600,115,Forward,43,7,49.9,52.7,0.38,0.19
+260303,Mitchell,Brown,WC,5,43,49,55,37,51,4,7,4,2,0,0,1,0,0, Full Time,job,On Day... %D and %M,in,Late replacement for Matt Priddis,213800,13,231800,3,Forward,1,5,45.8,48.2,0.33,0.27
+290838,Jack,Darling,WC,4,43,81,53,39,52,6,7,4,0,0,1,1,0,1, Full Time,news,%D on Tape,,,315100,74,332900,96,Forward,27,17,70.7,75.8,4.03,2.97
+270953,Ashley,Smith,WC,2,34,43,44,27,36,5,3,3,1,0,0,0,0,0, Full Time,sore,%P... left knee knock in Q2,job,Minding Brown,298800,42,308300,48,Back,28,7,61.6,59.9,0.43,0.28
+281080,Brad,Sheppard,WC,2,34,25,43,28,37,4,4,3,1,0,0,0,0,1, Full Time,news,%O and %M,,,244800,72,261900,79,Centre,5,9,52.1,53.2,0.39,0.27
+294496,Adam,Carter,WC,2,29,28,38,24,33,5,3,2,1,0,1,1,0,0, Full Time,sore,In defence on Aaron Hall... %D and %M... copped a stray elbow across the nose in Q3,subbed,Subbed off in Q3 for Embley,147400,-20,143400,-16,Centre,19,3,58,48.7,4.93,1.36
+990020,Andrew,Embley,WC,6,17,20,20,15,18,2,1,1,0,0,0,0,1,0, Full Time,news,On in Q3 for Carter... %D and %s,sub,Started as a sub,286500,13,283500,-34,Centre,32,8,61.8,57.3,2.37,2.51
+291594,Harley,Bennell,GC,26,112,123,77,93,119,15,12,6,2,1,3,0,2,1, Full Time,hot,%D and %s,,,382000,103,428900,130,Centre,11,10,77.4,83.4,0.68,0.62
+220001,Gary,Ablett jnr,GC,20,89,100,58,75,103,12,15,1,2,0,2,1,2,1, Full Time,news,%O and %s... went forward early to break the tag,scooter,Tagged by Scott Selwood,586000,105,668100,121,Centre,9,16,123.1,136.8,67.18,65.35
+290627,Dion,Prestia,GC,14,89,93,51,70,100,15,13,3,2,0,0,0,0,1, Full Time,news,%2 Gaff... %O and %M plus %s,sore,Adductor soreness in Q3,462400,148,478500,116,Centre,10,15,97.2,96.3,0.71,0.34
+294613,Jaeger,O'Meara,GC,44,86,66,86,62,90,8,8,4,10,0,0,2,0,0, Full Time,cash,%O and %T with %M,,,440100,71,457500,70,Centre,1,17,90.9,92.5,40.98,42.25
+290832,David,Swallow,GC,15,78,94,54,63,87,11,10,3,3,0,1,1,1,0, Full Time,news,%D and %M,job,Starting in defence on Wellingham,301100,58,340700,57,Centre,24,15,66.9,74.6,1.59,1.39
+291304,Daniel,Gorringe,GC,10,71,73,54,61,74,8,7,5,1,11,3,0,0,0, Full Time,cash,#1 ruck today... %H with %P and %M,,,167000,41,196100,23,Ruck,15,5,44.4,49,5.60,4.12
+290527,Trent,McKenzie,GC,10,69,78,57,50,66,9,3,5,5,0,1,0,0,0, Full Time,news,%P and %T with %M,job,Responsible for Hill,398500,89,466500,78,Back,18,13,86.5,96.6,8.83,5.46
+220013,Campbell,Brown,GC,15,66,61,40,61,82,11,6,5,1,0,1,4,2,1, Full Time,news,%s from %D and %M on Smith... also %F,,,295100,55,346300,23,Forward,30,11,64.7,73.7,1.03,1.07
+240254,Jarrod,Harbrow,GC,14,66,81,44,59,78,9,10,5,0,0,1,1,1,0, Full Time,news,%P and %M plus %s,,,389600,105,411600,107,Back,5,17,84.1,85.1,5.61,2.04
+250249,Danny,Stanley,GC,14,66,67,45,52,70,10,5,3,3,0,1,1,1,1, Full Time,switch,%D and %M starting in defence but switching forward... also %s,,,352900,74,358700,85,Back,25,13,78.5,75.8,0.92,0.28
+281085,Steven,May,GC,13,66,79,38,53,72,13,2,7,2,0,0,2,0,0, Full Time,job,Shifted from Lycett to Kennedy in Q3... %O,,,195600,42,257600,18,Back Forward,17,13,40.5,54.9,0.55,0.49
+220009,Nathan,Bock,GC,12,63,71,51,52,64,7,3,5,2,0,0,0,2,1, Full Time,in,Late replacement for Andrew Boston... starting forward on Glass... %s from %P and %M,subbed,Subbed off in Q3 for Sumner,282800,,297400,,Back Forward,44,0,0,0,1.08,1.89
+294643,Alex,Sexton,GC,16,63,71,46,53,67,8,3,3,2,0,0,1,3,1, Full Time,news,%s from %D and %M playing small forward,,,197500,72,174800,55,Centre,6,2,28.5,27,0.57,0.74
+280711,Charlie,Dixon,GC,15,59,102,55,52,66,3,9,1,2,15,0,0,1,0, Full Time,news,%s from %P starting at FF on Mackenzie.... %H as well,,,337300,90,426500,111,Back,23,8,79.8,97.6,1.79,2.36
+296735,Aaron,Hall,GC,11,52,66,37,45,61,7,5,2,2,0,0,2,2,1, Full Time,news,%s from %D and %M on Butler... also %F,,,271200,44,268500,49,Forward,33,17,63.9,61.3,0.57,0.49
+281025,Luke,Russell,GC,7,49,58,22,43,63,10,8,3,0,0,0,2,0,0, Full Time,job,In defence again on Hams... %D and %M... also %F,,,326400,79,353500,56,Back,8,13,62.3,62.5,0.25,0.33
+281075,Rory,Thompson,GC,8,46,52,42,33,45,5,3,3,4,0,0,0,0,0, Full Time,job,Dragged off Kennedy in Q2 to Lycett... %D and %T,,,247400,115,350300,142,Back,16,16,55.3,71.4,0.82,1.11
+290790,Matthew,Shaw,GC,3,40,48,36,37,51,3,10,3,1,0,1,1,0,0, Full Time,sore,%D and %M playing a HFF... right shoulder slammed into the ground in a Glass tackle in Q4,,,367000,64,379000,66,Back,26,17,72.6,74.2,0.82,0.48
+291753,Sam,Day,GC,3,39,45,31,33,43,4,5,2,1,6,0,0,0,1, Full Time,news,%s from %P and %M on Brown.... %H as well,,,242800,42,298800,75,Forward,12,17,51.8,59.8,2.84,2.27
+293223,Seb,Tape,GC,3,33,55,31,30,48,3,9,1,3,0,0,3,0,0, Full Time,job,On Darling... %P,,,221500,49,250600,65,Back,48,3,51,53.7,0.27,0.32
+261756,Greg,Broughton,GC,2,26,38,12,25,39,5,7,1,0,0,0,2,0,0, Full Time,job,Cripps is his man... %O,,,347700,86,401800,102,Back Forward,36,13,69.8,75.8,2.87,2.88
+296940,Tim,Sumner,GC,0,7,6,2,7,10,2,0,1,0,0,0,1,0,1, Full Time,news,On in Q3 for Bock,sub,Started as a sub,198300,46,194000,31,Forward,39,6,48.3,47.3,2.75,2.70

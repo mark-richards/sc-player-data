@@ -1,0 +1,48 @@
+Brisbane,Lions,Geelong,Cats,R5,4.17.41,12.7.79, Full Time
+Apr 28,2012,7:45,Gabba,Fox Sports,290110,10340506,430049,0,Rain,24,,
+
+<em>SuperSub17</em>: @7ator punch to Raines' jaw&#044; probably 2-3&#044; like scarlett<br><em>Tempaa</em>: CHILL OUT GUYS.. they are the sc scores&#044; they have already updated&#044;<br><em title="EZA100">eza100</em>: lol 23rookie<br><em>23rookie23</em>: WOW I was freeking out there and adding the points up on a calc. Monty you cant do that mate!<br><em>old_shepp</em>: Don't panic only 2000 points between teams - so something wrong<br><em>bigrig</em>: correct me if im wrong&#044; but should SC total up to around 3300 per game??? - currently adds to 2021<br><em>7ator</em>: whatd jelwood do? will he miss games?<br><em>localh</em>: Raines 5 selwood 2<br><em>dashurg</em>: So Selwood's real score is 1.632 * 71 = 116ish.<br><em>tronleg</em>: selwood 118 what a joke he was showerhouse<br><em>MayhemFC2</em>: lol. supercoach site says those score too...wtf<br><em>dashurg</em>: I think those are unscaled scores. Unscaled total is 2021. 3300/2021 = 1.632<br>
+270919,Tom,Rockliff,BL,33,128,140,163,98,135,18,14,5,6,0,1,0,1,0, Full Time,gun,%O and %T with %M,,
+980007,Simon,Black,BL,32,103,111,133,75,102,12,10,2,8,0,3,0,1,0, Full Time,heart,Tagged by Taylor Hunt... %P and %T plus %s,,
+240710,Ben,Hudson,BL,30,96,122,115,79,99,9,6,0,5,39,1,1,0,0, Full Time,news,%H and %D,,
+240087,Jed,Adcock,BL,42,87,89,118,59,85,10,7,1,10,0,2,1,0,1, Full Time,news,%2 Bartel... %D and %T plus %s,,
+281373,Jack,Redden,BL,19,84,94,114,58,84,16,5,0,7,0,4,2,0,0, Full Time,news,%D and %T,,
+271072,Daniel,Rich,BL,14,79,91,102,60,86,11,10,2,5,0,1,1,0,2, Full Time,news,%P with %T and %s,,
+230147,Daniel,Merrett,BL,24,76,67,106,53,81,11,5,1,9,3,0,3,0,0, Full Time,news,Playing forward again on Taylor... %D and %T... also %H,,
+290738,Jared,Polec,BL,7,69,81,90,49,70,14,5,1,3,0,1,0,0,1, Full Time,news,%K among %D,,
+261250,Sam,Sheldon,BL,21,64,57,88,42,60,6,4,2,8,0,0,0,0,0, Full Time,news,%P and %T on Enright,,
+210013,Ashley,McGrath,BL,13,63,79,79,47,61,10,5,0,3,0,4,0,1,1, Full Time,news,%O and %T,job,Chasing Stokes... switched forward in Q3
+270512,Pearce,Hanley,BL,8,63,86,80,49,69,10,8,3,2,0,0,0,0,0, Full Time,job,Minding Duncan... %O and %M,,
+200007,Jonathan,Brown,BL,10,59,44,73,51,65,8,6,4,1,1,2,1,1,1, Full Time,news,Booted %s from %D on Lonergan,,
+240013,Andrew,Raines,BL,14,59,52,84,41,61,10,2,1,7,0,2,3,0,1, Full Time,tagger,Tagging Selwood... %P and %T plus %s,mrp,Will get weeks for a strike on Selwood behind play in Q4
+230170,Joel,Patfull,BL,9,56,45,77,42,60,8,4,3,5,0,1,2,0,0, Full Time,ipod,Standing Podisadly... %D and %M with %T,,
+290110,Mitchell,Golby,BL,7,51,61,66,39,57,10,6,1,2,0,1,1,0,0, Full Time,job,Has Johnson... %D and %T,,
+271071,Todd,Banfield,BL,14,49,77,66,36,53,5,6,0,6,0,2,2,0,2, Full Time,news,%s from %D and %T on Josh Hunt,,
+293871,Jack,Crisp,BL,8,49,48,68,35,54,8,4,1,5,0,0,2,0,0, Full Time,bubble,Second game... %P and %T,,
+291548,Ryan,Lester,BL,3,47,57,61,34,48,7,5,1,3,0,1,0,0,0, Full Time,news,In defence... %P,,
+220062,Matt,Maguire,BL,7,43,93,58,30,42,5,3,0,5,3,2,1,0,0, Full Time,tomahawk,Standing Hawkins... %P and %T,,
+261391,Aaron,Cornelius,BL,3,36,27,47,29,40,3,5,2,3,1,1,1,0,0, Full Time,news,%D on Scarlett,,
+290808,Patrick,Karnezis,BL,2,32,15,42,22,30,4,2,0,3,0,1,0,0,3, Full Time,news,On in Q3 for Drummond,sub,Started as a sub
+200121,Josh,Drummond,BL,2,25,30,34,16,24,5,1,0,2,0,0,0,0,0, Full Time,job,Following Motlop.... %D and %T,subbed,Subbed off in Q3 for Karnezis
+200039,Paul,Chapman,GE,21,102,96,45,81,112,21,8,2,2,0,2,2,2,1, Full Time,x-factor,Started poorly as he did last week but his Q2 was massive... %O and %T plus %s,,
+280918,Allen,Christensen,GE,24,101,107,71,76,111,15,14,1,7,0,3,2,0,0, Full Time,heart,Copped West's stray boot to his face in Q3 but returned five minutes later... %O and %T,,
+261510,Tom,Hawkins,GE,32,95,139,70,82,93,11,0,6,1,3,1,0,6,0, Full Time,star,First goal... %s from %P and %G on Maguire including the first three goals in Q1,,
+261497,Harry,Taylor,GE,15,88,121,63,71,94,13,7,8,3,1,1,1,0,0, Full Time,job,Standing Merrett... %M and %O,,
+980037,Matthew,Scarlett,GE,24,86,84,73,63,87,11,5,6,7,0,0,1,0,0, Full Time,news,%P and %T with %M,job,Responsible for Cornelius
+200034,Joel,Corey,GE,19,83,97,55,64,94,13,10,1,5,1,0,2,1,0, Full Time,news,%P and %T,,
+260261,Trent,West,GE,26,82,103,80,70,83,4,6,0,5,37,3,1,0,1, Full Time,news,%H and %D with %T and %s,,
+220054,Steve,Johnson,GE,20,81,65,44,58,87,17,4,2,6,0,1,3,0,0, Full Time,news,%P on Golby,,
+280822,Taylor,Hunt,GE,14,79,85,56,59,84,12,8,3,5,0,1,1,0,0, Full Time,tagger,Tagging Black... %D and %T,,
+220007,Jimmy,Bartel,GE,25,77,78,73,53,78,8,7,2,9,0,0,1,0,0, Full Time,news,Just his sort of greasy conditions... head to head with Adcock... %D and %T,,
+291309,Jesse,Stringer,GE,43,77,87,78,54,81,7,8,2,10,0,0,2,0,0, Full Time,bubble,Second game... %P and %T,,
+280990,Steven,Motlop,GE,19,72,79,53,54,73,10,5,3,4,0,0,0,1,1, Full Time,news,%s from %P on Drummond... also %T and %M,,
+250321,Joel,Selwood,GE,18,69,114,52,54,76,9,9,0,5,1,3,2,1,0, Full Time,tagged,Tagged by Raines... %D and %T plus %s,mrp,Will get a holiday for a strike on Raines behind play in Q4
+230248,Andrew,Mackie,GE,8,67,74,20,49,70,18,0,3,2,0,1,2,0,1, Full Time,news,%P and %M plus %s,,
+281065,Mitch,Duncan,GE,15,65,73,43,53,72,10,6,4,2,0,0,1,1,0, Full Time,news,%P and %M on Hanley,,
+200035,Corey,Enright,GE,7,56,93,21,43,63,13,5,2,1,0,0,1,0,0, Full Time,job,Sheldon is his man... %P and %M,,
+200131,James,Podsiadly,GE,9,55,58,45,40,56,7,4,1,5,5,1,1,0,0, Full Time,news,%P and %T on Patfull,,
+290550,Cameron,Guthrie,GE,4,47,39,37,35,48,6,5,2,3,0,1,0,0,0, Full Time,news,%D and %T,,
+230125,Tom,Lonergan,GE,3,36,58,29,27,39,5,3,2,3,0,0,1,0,0, Full Time,job,Has Brown... %D and %T,,
+230214,Mathew,Stokes,GE,2,35,47,17,25,37,8,1,0,3,0,2,2,0,1, Full Time,injured,%P on McGrath... also %T and %F... rolled right ankle in Q4,subbed,Subbed off in Q4 for Smedts
+210059,Josh,Hunt,GE,3,33,38,23,25,36,6,1,2,3,0,1,2,0,0, Full Time,job,Sitting on Banfield... %O,,
+290783,Billie,Smedts,GE,0,4,3,0,4,9,2,0,0,1,0,0,2,0,0, Full Time,news,On in Q4 for Stokes,sub,Started as a sub

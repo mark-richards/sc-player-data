@@ -1,0 +1,48 @@
+West Coast,Eagles,Geelong,Cats,R21,6.5.41,16.11.107, Full Time
+Aug 17,2013,7.40,Subiaco,Seven,200035,10392105,wce-v-geel,0,A shower or two,19,,
+
+<em style='color:#000'>whale607</em>: Motlop 101 supercoach in two quarters lolwut flower stupid sc scoring<br><em style='color:#a0a'>JDDD</em>: kennedy had a terrible night <br><em style='color:#000'>johnkay</em>: Motlop on 81 SC when he was subbed and ends up with 101? Huh?<br><em style='color:#000'>matthius</em>: na&#044; youre talking crap lodgy. i was at aami stadium&#044; only winds - no rain. rubbish games!<br><em style='color:#000'>lubby</em>: comments too retarded to warrant a direct response<br><em style='color:#000'>Slashers</em>: Blitz<br><em style='color:#000'>Lodgy</em>: so since u all shut up i spose my comments did make sense... so ill smoke what i like<br><em style='color:#000'>Moona</em>: tradedbartel for rocky this week - doh!<br><em style='color:#000'>cusch1</em>: Come on Sharrod ton up son<br><em style='color:#000'>NoneyaB</em>: grrrr<br><em style='color:#000'>m_zulian</em>: onya jimmy! raise the bat<br><em style='color:#000'>3rdstriker</em>: Much in the cox report?<br>
+270928,Scott,Selwood,WC,54,112,119,147,84,120,12,14,1,11,0,4,3,1,0, Full Time,hot,%D and %T... %s and %F as well,tagger,Tagging his brother Joel Selwood,501200,127,496700,120,Centre,10,15,107.5,101.1,3.46,1.05
+261799,Sharrod,Wellingham,WC,20,100,101,127,77,106,21,8,2,2,0,3,1,1,1, Full Time,hot,Playing a FP on Enright... %s from %P and %T,,,371800,37,407300,29,Forward Centre,12,7,75.4,75.4,2.15,1.89
+200112,Dean,Cox,WC,30,98,89,119,78,96,8,7,1,6,29,3,0,0,1, Full Time,news,%H and %D with %T... also %s,reported,Reported for striking Joel Selwood in Q3,451100,49,483300,44,Forward Ruck,20,19,94.9,106,55.35,52.54
+240124,Matt,Priddis,WC,15,93,88,113,77,108,10,19,4,3,0,1,0,0,0, Full Time,news,%2 Johnson... %P and %T with %M,,,463400,124,485400,92,Centre,11,18,95.1,99.1,6.97,10.21
+294496,Adam,Carter,WC,18,86,65,115,64,84,14,3,7,4,0,1,0,0,0, Full Time,news,%D and %T with %M,,,167900,27,162700,27,Centre,19,4,50.8,43.5,5.49,1.55
+240159,Sam,Butler,WC,19,82,69,110,59,85,11,7,3,7,0,0,1,0,1, Full Time,job,Minding Stokes... %O and %M plus %T and %s,,,378200,77,380000,69,Back,26,12,76.2,75.8,0.40,0.27
+281080,Brad,Sheppard,WC,14,81,77,107,60,79,13,4,5,4,0,2,0,0,1, Full Time,news,%D and %M plus %T and %s,,,214400,75,220000,89,Centre,5,11,48.6,47.9,0.40,0.27
+260546,Bradd,Dalziell,WC,20,75,75,96,62,87,9,10,4,4,0,0,2,1,0, Full Time,news,%P and %M plus %T and %s,,,372700,34,390400,29,Centre,18,14,70.4,70.3,1.28,0.63
+290801,Andrew,Gaff,WC,10,72,61,92,61,87,11,11,5,2,0,0,2,0,0, Full Time,news,%P and %T with %M and %F,,,380100,83,382700,105,Centre,3,19,71.2,73.6,1.39,1.27
+200074,Darren,Glass,WC,12,70,97,87,60,78,8,10,7,1,0,1,0,0,0, Full Time,news,%M and %P,job,Zoning off the resting ruck which is mostly Blicavs,315500,83,386000,103,Back,23,17,55.1,66.8,2.12,1.67
+261214,Will,Schofield,WC,19,67,89,83,53,71,6,9,2,4,1,1,0,1,1, Full Time,news,%D and %T plus %s,job,Manning up Murdoch,307800,43,347500,82,Back,31,14,56.6,65.2,0.92,0.70
+290746,Scott,Lycett,WC,16,67,68,83,57,73,4,7,4,4,16,0,1,0,0, Full Time,news,%P and %M when forward on Taylor... also %H and %T,,,217900,21,270400,28,Forward,29,4,52.8,63.3,2.68,0.80
+270953,Ashley,Smith,WC,9,61,43,83,44,63,9,4,3,5,0,0,1,0,0, Full Time,job,Varcoe is his man... %P and %T plus %M,,,283900,78,310800,57,Back,28,9,60,61.7,0.40,0.28
+250317,Eric,Mackenzie,WC,9,60,73,79,47,61,9,3,6,2,1,0,0,0,0, Full Time,news,%M and %O,ipod,Standing Podsiadly,291200,63,392100,107,Back,16,17,53.7,70.2,1.01,0.57
+240406,Josh J.,Kennedy,WC,9,58,55,78,50,69,8,6,6,3,0,1,3,0,0, Full Time,news,No score from %D and %M on Mackie... also %T,,,429100,121,449500,133,Forward,17,18,92.3,96.8,47.18,49.20
+290838,Jack,Darling,WC,10,53,54,67,44,57,7,5,3,2,0,2,1,1,0, Full Time,news,%s from %D and %T on Lonergan... the goal only came very late in Q4,,,313100,51,357300,19,Forward,27,19,71.4,78.5,3.87,3.06
+290826,Jamie,Cripps,WC,4,48,45,62,36,51,6,6,2,3,0,0,0,0,0, Full Time,news,%O and %M with %T,,,278000,39,274500,22,Centre,15,12,56,50.5,0.89,1.04
+280441,Patrick,McGinnity,WC,9,47,47,64,34,48,7,3,2,4,0,1,1,0,0, Full Time,news,%P and %T with %M,tagger,Tagging Motlop,295100,44,287600,27,Centre,35,4,65,58.8,0.61,0.75
+990020,Andrew,Embley,WC,3,43,43,56,31,45,6,5,1,3,0,0,0,0,0, Full Time,in,Late replacement for Chris Masten... on in Q3 for Shuey... %D and %T,sub,Started as a sub,288400,63,307200,60,Centre,32,9,56.8,53.1,2.33,2.47
+280078,Luke,Shuey,WC,2,24,27,30,20,27,4,3,2,0,0,0,0,0,0, Full Time,news,%O and %M,subbed,Subbed off in Q3 for Embley,457600,124,474900,115,Centre,13,13,93.4,95.6,1.17,1.03
+260303,Mitchell,Brown,WC,2,23,28,31,24,36,3,5,3,1,0,0,3,0,0, Full Time,job,Has Walker... %D,,,213800,14,231800,3,Forward,1,5,45.8,48.2,0.33,0.28
+261209,Josh,Hill,WC,6,14,8,17,13,18,1,2,0,1,0,0,1,1,0, Full Time,cold,One handball to HT... Guthrie on him... %s from %O,,,275500,46,317200,37,Forward,33,17,62.9,72.5,1.03,0.96
+220054,Steve,Johnson,GE,36,143,110,113,112,155,17,20,7,7,0,1,0,0,2, Full Time,gun,%2 Priddis... %O and %T with %M... also %s,,,553400,143,573500,154,Forward Centre,20,13,118.1,116.1,37.43,29.44
+250321,Joel,Selwood,GE,37,135,144,107,114,148,15,14,7,5,0,2,2,4,1, Full Time,star,%D and %M... also %T and %s... got one across the nose from McGinnity in Q1 which drew claret,scooter,Tagged by his brother Scott Selwood,551100,108,625000,125,Centre,14,19,105.2,115.9,21.99,30.56
+230214,Mathew,Stokes,GE,32,127,135,93,103,132,16,14,6,4,0,5,0,2,0, Full Time,cherry,%s from %P with %M and %T on Butler,,,374000,66,405100,92,Forward,27,18,91,92.3,11.07,5.70
+220007,Jimmy,Bartel,GE,21,111,135,58,85,123,22,10,5,4,0,0,2,0,0, Full Time,hot,Loose in defence... %P and %M,,,382100,107,447300,123,Forward Centre,3,18,92.6,102.8,34.40,38.54
+220058,James,Kelly,GE,27,103,97,71,77,108,16,7,2,7,0,1,2,2,0, Full Time,hot,%D and %T... also %s and %F,,,430200,93,432400,108,Centre,9,14,94.4,89.3,0.38,0.38
+230248,Andrew,Mackie,GE,19,98,125,58,79,109,17,10,7,2,0,0,1,0,1, Full Time,news,%O including %K with %T and %M,job,Running off Kennedy,371100,73,420200,71,Back,4,19,81.8,86.4,6.03,4.67
+281065,Mitch,Duncan,GE,19,98,84,70,85,113,13,14,9,1,0,1,1,0,2, Full Time,news,%P and %M plus %s,,,396400,160,394600,151,Centre,22,19,85.7,78.2,1.00,1.11
+280918,Allen,Christensen,GE,31,97,126,87,81,117,8,21,2,6,0,1,2,1,0, Full Time,news,%P including %B with %T and %M... also %F and %s,,,426100,101,450900,86,Forward Centre,28,15,86.1,89.9,1.72,2.22
+296733,Mark,Blicavs,GE,26,96,115,94,78,101,6,11,4,6,18,0,0,0,2, Full Time,news,%s from %P and %M when forward on Glass... also %H and %T,,,301300,92,338300,104,Centre Ruck,46,16,58.4,64.4,14.84,18.84
+290623,Josh,Caddy,GE,15,86,56,66,67,91,11,10,5,4,0,1,0,0,1, Full Time,garbage,On in Q3 for Motlop... %O and %M with %T... all his stats in garbage time though that was not his fault,sub,Started as a sub,336700,88,348000,92,Centre,23,13,61.5,59.7,1.72,3.27
+200034,Joel,Corey,GE,10,76,63,59,63,90,9,14,4,3,0,0,1,0,0, Full Time,news,%O and %T with %M,,,348700,67,417700,59,Centre,11,16,78.1,85.1,0.68,0.83
+200035,Corey,Enright,GE,9,70,88,33,53,75,15,4,4,2,0,0,1,0,0, Full Time,news,%P and %M,job,Wellingham manning him up,421700,77,486000,120,Back,44,18,89.9,94.3,13.12,8.62
+200131,James,Podsiadly,GE,12,63,55,47,53,69,8,5,4,2,0,0,1,2,0, Full Time,news,Kicked %s from %P and %M on Mackenzie,,,348400,43,362600,50,Forward,31,17,77.4,80.5,1.16,1.37
+280959,Nathan,Vardy,GE,12,63,86,62,54,67,3,8,2,3,13,1,0,1,0, Full Time,news,%H and %D with %s,,,266600,81,333500,78,Ruck,30,5,60.8,73,4.96,5.94
+250290,Travis,Varcoe,GE,8,59,60,49,49,69,6,12,2,3,0,2,1,0,0, Full Time,news,%P and %T,,,246300,55,268600,50,Forward Centre,5,8,50.3,52.8,7.34,7.10
+230250,Jared,Rivers,GE,8,57,67,33,45,60,10,5,4,1,0,1,0,0,0, Full Time,news,%P,,,228500,107,304200,140,Back,25,4,35.3,43.8,0.77,0.66
+280990,Steven,Motlop,GE,13,57,103,31,48,63,9,7,1,0,0,1,0,2,0, Full Time,injured,First goal... tagged by McGinnity... %s from %P... right hamstring soreness in Q2,subbed,Subbed off in Q3 for Caddy,374000,65,457700,61,Forward,32,18,76.8,83.8,4.97,4.64
+290550,Cameron,Guthrie,GE,12,57,61,38,50,67,9,6,6,1,0,1,2,0,1, Full Time,job,Minding Hill... %O and %s,,,243100,32,263900,8,Back,29,15,53.9,57.5,1.21,1.96
+261497,Harry,Taylor,GE,5,50,46,33,39,54,9,2,4,3,0,1,2,0,0, Full Time,job,Has the resting ruck which is mostly Lycett... %D and %T,,,344700,45,465200,78,Back,7,18,79.8,96.4,5.83,9.04
+295942,Jordan,Murdoch,GE,9,44,42,37,33,42,5,2,2,3,0,1,0,1,0, Full Time,news,%D and %M with %T on Schofield,,,272900,115,298800,100,Back,21,9,50.8,52.2,0.38,0.70
+291550,Joshua,Walker,GE,13,42,50,41,32,46,4,3,1,5,1,0,2,1,0, Full Time,sore,%s from %P and %T on Brown... left wrist knock in Q3,,,221500,,236200,,Forward,34,1,69,55,0.15,0.24
+230125,Tom,Lonergan,GE,2,28,28,20,22,30,4,3,2,1,0,0,0,0,0, Full Time,job,On Darling... %P,,,157200,34,186400,50,Back,13,19,37.9,45.6,2.42,2.29

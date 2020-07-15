@@ -1,0 +1,48 @@
+Carlton,Blues,Geelong,Cats,R5,15.14.104,9.14.68, Full Time
+Apr 26,2010,2:10,MCG,Ten,220001,10280508,5015603,4983,Windy and cloudy,19
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,Delayed for a week due to working on scalability... should be next week for Round 6,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,The stats are out of m0nty's control so please be patient until they are restored.,Scores frozen?
+<em>Bassat</em>: the person i played in eliminator got 0.<br><em>Moondog21</em>: I'm happy I won eliminated by 566<br><em>bombers15</em>: Dammit... chose Swan as skipper instead of GAJ... and I paid dearly<br><em>maat.1</em>: @dmilne- corey was taken out of the side<br><em>singoman</em>: certainly taking longer than usual<br><em>Pokerface</em>: because late adjustments arent in Paliente<br><em>JimmyJ</em>: no SC scores updated in my league yet but if my calculations are correct i got 2588 :)<br><em>hawk2010</em>: $<br><em>hawk2010</em>: ablett worth every<br><em>GoLions</em>: i know wat u mean Paliente<br><em>dmilne</em>: my opponent in eliminator had all bombers players and i trashed him by 950points!<br><em>Paliente</em>: on the actual SC website I mean&#044; not here. :)<br>
+220056,Chris,Judd,CA,25,108,145,135,84,112,14,13,3,5,0,4,0,1,1, Full Time,hot,Started head to head with Selwood then copped Ling's tag in Q2... %O including %B with %T and %s... quieter after half time
+990059,Heath,Scotland,CA,25,108,145,135,88,115,14,12,7,3,0,2,0,1,1, Full Time,heart,%P with %b by hand... also %M and %s... copped a knock to his left groin/quad in Q2 and up the race for treatment.. returned for Q3
+250417,Bryce,Gibbs,CA,20,105,124,135,79,111,16,12,4,5,0,1,0,0,0, Full Time,hot,%D and %T with %M
+220015,Andrew,Carrazzo,CA,20,104,86,135,83,114,17,10,8,3,0,0,1,0,0, Full Time,hot,%P and %M plus %T
+250090,Jordan,Russell,CA,25,103,122,135,83,108,12,9,10,5,0,2,1,0,0, Full Time,star,Smashed Johnson as he did last year... %P and %M plus %T
+270653,Jeff,Garlett,CA,24,93,94,114,79,98,12,6,7,1,0,0,0,3,2, Full Time,news,%s from %D and %M
+230202,Kade,Simpson,CA,10,91,104,114,73,98,12,12,5,3,0,2,0,0,2, Full Time,news,%O and %M with %s
+250105,Marc,Murphy,CA,21,89,98,113,69,90,10,7,4,5,0,1,0,2,0, Full Time,news,Started being tagged by Ling then freed up in Q2 head to head with Selwood... %D and %M with %T and %s
+240060,Eddie,Betts,CA,21,88,110,112,72,87,12,3,8,2,0,2,0,2,0, Full Time,news,Hunt on him... %s from %P and %M
+240028,Brock,McLean,CA,25,75,67,102,54,81,9,8,2,8,0,0,2,0,0, Full Time,news,Head to head with Bartel... %P and %T with %M
+261299,Matthew,Kreuzer,CA,23,75,84,94,60,77,5,6,2,6,12,1,1,1,2, Full Time,news,Beat Ottens which is a big scalp... %H and %D plus %T and %s
+200013,Ryan,Houlihan,CA,16,73,106,88,62,81,7,10,4,2,0,0,0,2,0, Full Time,news,%s from %O and %M on Enright
+271110,Chris,Yarran,CA,12,64,88,83,52,66,10,1,5,2,0,0,1,2,0, Full Time,sore,Wojcinski on him... %s from %D and %M... poked in the right eye in Q1
+260533,Dennis,Armfield,CA,8,63,74,78,53,72,8,10,5,1,0,0,0,0,0, Full Time,job,Sat on Byrnes as he did last year to great effect... %B among %D with %M
+270637,Simon,White,CA,10,58,48,77,49,63,7,4,8,2,0,0,1,0,0, Full Time,bubble,Second game... on Podsiadly... %M and %O
+240716,Setanta,O'hAilpin,CA,10,53,58,65,45,55,6,4,4,1,1,1,0,1,3, Full Time,news,%s from %P and %G on Lonergan
+240014,Andrew,Walker,CA,7,52,58,65,44,63,10,8,3,0,0,0,1,0,0, Full Time,injured,Had Hawkins... %D and %M... right shoulder problem in Q3... broken arm had him rushed to hospital in Q4
+281079,Kane,Lucas,CA,5,52,64,68,41,54,7,4,5,2,0,0,0,0,0, Full Time,cash,%D and %M
+261318,Aaron,Joseph,CA,15,48,36,67,38,57,4,6,3,6,0,0,3,0,0, Full Time,tagger,Tagged Ablett jnr... %P and %T with %M
+250672,Robert,Warnock,CA,9,43,58,53,36,46,1,6,1,4,10,2,1,0,0, Full Time,news,%H and %O with %T
+261043,Michael,Jamison,CA,3,27,54,36,26,36,5,3,4,0,0,0,2,0,0, Full Time,job,On Mooney... %M and %D with %F
+270326,Lachie,Henderson,CA,1,20,39,26,15,21,1,3,1,2,0,0,0,0,0, Full Time,cold,Kept out of it by Taylor... %P and %T
+220001,Gary,Ablett jnr,GE,38,145,173,118,117,154,16,17,7,7,0,4,1,2,1, Full Time,gun,Tagged by Joseph... moved to FF in Q1 then back to midfield... %O and %M plus %s
+220007,Jimmy,Bartel,GE,25,116,90,84,92,120,16,10,8,4,4,2,0,0,2, Full Time,hot,Head to head with McLean... %D and %M plus %s... terrible disposal efficiency though
+200039,Paul,Chapman,GE,19,103,111,51,74,106,21,7,3,4,0,0,0,0,1, Full Time,hot,%O and %M plus %T
+960375,Darren,Milburn,GE,25,100,107,62,82,108,16,9,8,1,0,0,0,1,0, Full Time,hot,%P and %M plus %s
+220058,James,Kelly,GE,49,92,99,94,69,99,7,11,3,10,0,0,2,1,0, Full Time,news,%P and %T with %M
+250321,Joel,Selwood,GE,25,86,100,78,64,90,8,11,2,7,0,0,0,1,0, Full Time,news,Head to head with Judd then Murphy in Q2... %O and %T
+990076,David,Wojcinski,GE,13,70,96,37,61,85,13,9,6,0,0,0,2,0,1, Full Time,job,Minded Yarran... %D and %M
+230248,Andrew,Mackie,GE,12,69,51,41,57,78,12,7,6,1,0,0,1,0,0, Full Time,news,%P and %M
+261497,Harry,Taylor,GE,16,62,71,67,49,63,3,7,4,5,0,1,0,1,0, Full Time,job,On Henderson... %P and %M with %T and %s
+200131,James,Podsiadly,GE,8,60,68,39,51,64,9,5,6,0,0,1,0,0,4, Full Time,sore,The second-gamer White on him... kicked %s from %G and %D... hip soreness in Q2
+200035,Corey,Enright,GE,8,58,75,38,45,63,9,7,3,2,0,0,0,0,0, Full Time,job,Had Houlihan... %P and %M with %T
+230125,Tom,Lonergan,GE,14,56,59,63,47,63,3,7,6,5,0,1,2,0,0, Full Time,job,Stood O'hAilpin... %O and %M with %T
+980064,Brad,Ottens,GE,10,53,56,56,50,62,1,10,2,2,16,2,1,0,1, Full Time,news,Beaten by Kreuzer... %H and %P
+200037,Cameron,Ling,GE,8,51,21,39,44,66,7,9,3,3,0,0,3,0,0, Full Time,tagger,Tag shifted from Murphy to Judd in Q2... %P
+210059,Josh,Hunt,GE,3,40,50,21,32,45,8,3,3,1,0,0,1,0,0, Full Time,job,Had the job on Betts... %O and %M
+270193,Simon,Hogan,GE,9,40,48,28,35,45,5,5,3,0,0,0,0,1,0, Full Time,news,%O and %M with %s
+210089,Max,Rooke,GE,3,36,23,33,29,37,3,5,2,2,0,2,0,0,1, Full Time,in,%l Joel Corey... %s from %O with %M and %T
+220054,Steve,Johnson,GE,8,35,53,18,33,46,6,6,1,0,0,1,2,1,1, Full Time,cold,Russell kept him goalless last time they played and smashed him again today... %s from %O and %M
+261510,Tom,Hawkins,GE,3,28,44,32,28,36,0,8,4,0,0,0,0,0,0, Full Time,cold,No kicks among %P and %M... Walker on him... surely has to be dropped soon
+970006,Cameron,Mooney,GE,7,28,48,22,23,30,3,3,1,1,0,0,0,1,0, Full Time,cold,First goal... %s from %D on Jamison... barely touched it after half time
+230022,Shannon,Byrnes,GE,2,27,29,14,22,30,5,3,2,0,0,0,0,0,0, Full Time,cold,Armfield owned him as he did last year... %P and %M
+240117,Mark,Blake,GE,4,24,10,23,29,38,1,5,2,0,14,0,3,0,0, Full Time,news,%H and %P with %M and %F

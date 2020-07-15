@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Sydney,Swans,PF,11.15.81,14.7.91, Full Time
+Sep 29,2012,2:40,MCG,Seven,260382,10350401,430214,0,A few showers,14,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='margin-bottom:-2px'><b class="ticon tCA"></b> Murf2Gibbs</em>: Poor Monty :-(<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> Luke919</em>: great game and great year! well done to ROK and jarred mcveigh as well<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> SydneyRox</em>: What a game! Love you Swannies!!<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> bennyq</em>: suck it hawks<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> Wends</em>: wohhoo!!!!<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: great win! youre a fighter mcveigh! tough year for him. thanks m0nty. <br><em>pinkwalls</em>: Next year m0nty. Thanks for the year<br><em>johnkay</em>: Even the umpires couldn't beat Sydney.<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> Chucky2010</em>: Why is the update stuck on 28:01<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> Grazz</em>: Game set match well done Sydney. Unlucky Hawks great GF.<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: malceski... u let me down in SC... swannies 1 more goal to come!!<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> ZacDawson</em>: congrats sydney<br>
+230197,Brad,Sewell,HW,33,129,141,165,97,138,16,17,4,8,1,0,0,0,2, Full Time,hot,%2 Kennedy... %O with %b by hand... also %T and %M,,
+240399,Lance,Franklin,HW,32,128,122,160,106,134,14,10,8,5,1,2,1,3,4, Full Time,hot,Booted %s from %P and %G on Richards.. also %T,,
+210012,Shaun,Burgoyne,HW,44,100,99,133,69,99,11,10,2,10,0,1,0,0,0, Full Time,hot,%D and %T,job,Started on Pyke
+220036,David,Hale,HW,24,92,122,105,82,95,6,6,3,2,30,1,0,2,2, Full Time,news,%H and %D with %M and %T.. also %s,,
+250089,Jordan,Lewis,HW,20,86,97,108,67,92,7,13,1,7,8,3,1,0,0, Full Time,news,%2 McVeigh... %P and %T... also %H as third man up,,
+280744,Luke,Breust,HW,27,84,91,108,61,81,7,7,1,8,0,2,0,2,0, Full Time,news,%s from %O and %T,,
+220073,Sam,Mitchell,HW,13,79,101,99,62,90,9,15,1,5,0,2,1,0,0, Full Time,news,%2 O'Keefe... %D including %B... also %T,,
+250055,Clinton,Young,HW,8,73,58,95,54,75,13,6,3,3,0,1,0,0,0, Full Time,news,%D and %M,,
+280737,Liam,Shiels,HW,8,65,59,86,48,69,13,5,2,3,0,1,1,0,0, Full Time,tagger,Tagging Hannebery.... %P and %T,,
+270732,Matt,Suckling,HW,8,64,48,85,50,67,14,2,5,1,0,1,1,0,1, Full Time,news,%O and %M,,
+220047,Luke,Hodge,HW,7,62,66,80,49,65,13,4,3,1,2,3,1,0,0, Full Time,news,Loose in defence... %P and %M,,
+240357,Jarryd,Roughead,HW,9,61,58,73,56,72,9,5,3,0,18,0,2,0,3, Full Time,news,%s from %P on Grundy.. also %H,,
+291351,Jack,Gunston,HW,11,61,70,77,49,58,6,2,4,3,0,2,0,2,1, Full Time,news,%s from %D and %M on Johnson,,
+294877,Isaac,Smith,HW,9,59,73,76,43,60,10,4,1,3,0,0,0,1,0, Full Time,news,%2 Jetta... %P and %s,,
+260955,Cyril,Rioli,HW,10,58,58,74,48,66,4,10,4,4,0,1,1,0,0, Full Time,news,%D and %T with %M... Smith takes him when forward,,
+240302,Grant,Birchall,HW,4,47,63,60,38,51,9,4,4,0,0,0,0,0,0, Full Time,tagged,Donuts in Q1... forward tag on him by Bolton... %O,,
+250715,Josh,Gibson,HW,4,46,58,58,37,51,3,8,3,3,0,0,0,0,0, Full Time,job,Started on Roberts-Thomson but was mostly on Goodes... %O and %M with %T,,
+250257,Xavier,Ellis,HW,8,42,34,53,31,42,9,2,0,1,0,1,0,1,0, Full Time,switch,First goal... %P and %s... started forward but switched back in Q2 to try to stem the Swan tide,subbed,Subbed off in Q3 for Savage
+281301,Ryan,Schoenmakers,HW,3,41,74,52,32,45,7,5,2,1,0,0,0,0,0, Full Time,job,Standing Reid... %D,,
+260710,Paul,Puopolo,HW,7,36,41,50,22,33,4,2,0,5,0,0,0,0,0, Full Time,news,Manning up Shaw... %O and %T,,
+280471,Ben,Stratton,HW,2,35,45,47,26,39,5,4,1,3,0,0,1,0,0, Full Time,job,Mostly on Roberts-Thomson... %D and %T,,
+280858,Shane,Savage,HW,1,27,34,38,17,24,4,0,1,3,0,0,0,0,0, Full Time,news,On in Q3 for Ellis,sub,Started as a sub
+200071,Ryan,O'Keefe,SY,49,140,109,128,95,138,15,13,3,15,0,0,0,0,0, Full Time,medal,%2 Mitchell... %P and %T with %M... tireless four quarter worker as always this season,,
+230253,Jarrad,McVeigh,SY,38,123,123,95,92,120,17,4,7,8,0,2,1,2,0, Full Time,heart,%2 Lewis.. %O and %T with %M and %s,,
+290117,Daniel,Hannebery,SY,26,106,141,84,84,117,12,16,4,5,0,0,0,1,0, Full Time,hot,Tagged by Shiels... %B among %D... also %T and %M,,
+260382,Josh P.,Kennedy,SY,26,96,83,66,78,112,14,12,2,5,0,0,3,2,1, Full Time,news,%2 Sewell.. %B among %O with %T... also %F and %s,,
+240226,Kieren,Jack,SY,46,93,80,89,68,93,9,5,3,10,0,1,2,2,0, Full Time,news,%O and %T with %M and %F... also %s,,
+291206,Mike,Pyke,SY,25,92,83,84,82,97,6,9,6,2,28,2,0,0,0, Full Time,x-factor,Started forward on Gibson... %P and %M... also %H and %T... herculean effort to cover for the proppy Mumford especially in Q4 after Mummy was subbed,,
+230132,Nick,Malceski,SY,26,89,132,63,63,87,14,2,2,7,0,0,1,2,0, Full Time,news,%D and %T and %M with %s,,
+261212,Craig,Bird,SY,20,79,68,65,61,88,10,9,4,6,0,0,2,0,1, Full Time,news,%D and %T with %M and %s,,
+220089,Lewis,Roberts-Thomson,SY,20,78,85,75,66,83,6,8,7,4,1,2,1,1,1, Full Time,news,%O and %T plus %s... started on Gibson but mostly on Stratton,,
+980073,Adam,Goodes,SY,15,67,113,58,50,69,7,7,2,5,0,0,0,1,0, Full Time,heart,%D and %T... left knee soreness in Q2... possible PCL injury... strapped up and stayed forward... kicked the go-ahead goal late in Q4,,
+990011,Jude,Bolton,SY,15,66,57,64,46,66,6,7,2,7,0,0,0,0,0, Full Time,heart,Came into the game with leg muscle problems... one touch in Q1... %P and %T with %M,tagger,Forward tag on Birchall
+291450,Alex,Johnson,SY,5,62,66,45,47,64,9,5,4,3,0,0,0,0,1, Full Time,job,Has Gunston... %P and %T... also %M and %s,,
+290188,Samuel,Reid,SY,10,60,70,51,48,64,6,7,3,3,0,0,0,1,1, Full Time,news,%s from %D and %T on Schoenmakers,,
+240412,Mitch,Morton,SY,16,59,58,51,47,63,6,5,2,4,0,0,1,2,0, Full Time,ghost,Playing a HFF... %s from %O and %T... his two Q2 goals were very important,,
+200023,Rhyce,Shaw,SY,8,56,66,36,43,60,9,6,3,2,0,0,0,0,0, Full Time,news,%P and %M,job,Has Puopolo
+250338,Nick,Smith,SY,10,53,44,47,41,57,6,5,4,4,0,0,1,0,0, Full Time,job,Minding Rioli when Cyril is forward... %D and %T with %M,,
+210027,Ted,Richards,SY,9,52,81,43,37,54,7,4,2,5,0,0,1,0,0, Full Time,sore,Noticeably hobbling during the game on his dodgy ankle... %P and %T,job,Following Franklin
+220063,Martin,Mattner,SY,14,51,54,49,36,54,5,6,1,6,0,0,1,0,0, Full Time,news,Loose in defence... %P and %T,,
+240072,Heath,Grundy,SY,4,43,60,29,38,57,7,7,3,2,0,0,3,0,0, Full Time,news,%P and %T with %M... also %F,job,Standing Roughead
+280762,Shane,Mumford,SY,5,42,34,41,37,47,3,3,2,3,14,1,2,0,0, Full Time,sore,Came into the game with rumoured hamstring soreness and looked proppy... %H and %T... only %D,subbed,Subbed off in Q4 for Parker
+281281,Lewis,Jetta,SY,3,42,60,13,31,43,11,0,2,1,0,1,1,0,1, Full Time,news,%2 Smith... %O and %s,,
+290788,Luke,Parker,SY,0,10,25,6,8,12,2,1,0,1,0,1,1,0,0, Full Time,news,On in Q4 for Mumford,sub,Started as a sub

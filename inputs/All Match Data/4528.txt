@@ -1,0 +1,48 @@
+Port Adelaide,Power,Hawthorn,Hawks,R16,12.7.79,19.10.124, Full Time
+Jul 13,2013,1.45,Footy Park,Seven,295584,10391602,port-v-haw,0,Rain and wind,16,,
+
+<em style='color:#000'>rosty63</em>: bad luck for saints next week <br><em style='color:#000'>RooBoyStu</em>: @masterhc2 it also was his 1st game back&#044; give me a break<br><em style='color:#000'>Dasherman</em>: me too Marksman<br><em style='color:#000'>frenzy</em>: sugar not rewarded thanks SC<br><em style='color:#000'>Sloaneyyyy</em>: i've actually tipped GC to beat Richmond... fingers crossed&#044; its the week i either take the lead in my tips or crumble <br><em style='color:#000'>masterhc2</em>: @royboystu because sandi averages about 30 more than hale when fit<br><em style='color:#000' title="MIJG">mijg</em>: 1 more goal roughy<br><em style='color:#000'>dipstick</em>: icicle means gone cold. its hale- he's always cold so always an icicle<br><em style='color:#000'>MarksMen</em>: I went Watson to JSelwood...<br><em style='color:#000'>RooBoyStu</em>: icicles Sandi last week&#044; but not Hale<br><em style='color:#000'>Dasherman</em>: S Michtell most traded in for Watson in DT <br><em style='color:#000'>colonel78</em>: Go hodgey <br>
+250365,Travis,Boak,PA,26,109,138,132,88,126,13,21,2,4,0,0,0,1,0, Full Time,atlas,The only four quarter performer for Port... %O and %T with %M and %s,,,464400,94,498000,121,Centre,1,13,101,103.4,3.42,2.95
+210020,Kane,Cornes,PA,21,93,75,114,79,105,10,15,5,3,0,3,1,1,0, Full Time,news,%P and %T with %M... also %s,tagger,Tagging Mitchell,469300,89,484900,101,Centre,18,14,108.5,109.8,10.08,6.09
+261911,Brad,Ebert,PA,24,87,90,110,78,110,15,12,6,1,1,0,4,1,1, Full Time,news,%P and %M plus %s,,,523600,67,531000,87,Centre,7,14,103.6,99.6,2.28,0.82
+290540,Cameron,O'Shea,PA,19,77,85,102,57,79,10,7,3,6,1,2,1,0,0, Full Time,job,Gunston is his man... %D and %T plus %M,,,356700,98,366500,88,Back,13,14,70.9,73.5,3.56,4.50
+261396,Robbie,Gray,PA,14,75,118,94,58,79,11,8,2,3,0,1,0,1,1, Full Time,news,%s from %D and %M on Guerra with plenty of goal assists,,,331500,27,374400,57,Forward Centre,9,11,66.8,73.5,4.28,4.22
+261230,Matthew,Lobbe,PA,25,74,73,92,56,67,6,2,0,6,25,3,0,0,0, Full Time,news,%H and %D plus %T,,,354800,79,399800,87,Ruck,23,11,67.4,74.8,0.84,0.68
+240290,Angus,Monfries,PA,15,70,79,86,58,72,10,5,4,1,0,2,0,2,0, Full Time,news,%s from %O and %M on Duryea,,,388500,69,442300,91,Forward Centre,6,14,83,91.9,10.41,13.97
+291962,Chad,Wingard,PA,15,68,77,86,58,84,12,10,2,2,0,1,3,1,0, Full Time,news,%O and %T with %M and %s,,,443600,114,465400,109,Centre,20,14,90.7,97,6.38,8.08
+240385,Matt,Thomas,PA,16,67,63,79,63,88,4,17,4,2,1,0,2,1,0, Full Time,news,Starting forward... %s from %O and %M... %T and %F as well,,,313500,98,351800,123,Centre,21,3,59,56.3,0.16,0.11
+280750,Andrew,Moore,PA,13,62,79,81,50,73,8,9,3,4,1,0,2,0,0, Full Time,news,Defensive midfield roles... %P and %M with %T... also %F,,,327500,56,327700,53,Centre,26,7,67,64.6,0.20,0.18
+271078,Matthew,Broadbent,PA,8,61,67,75,49,69,10,10,2,1,0,1,0,0,0, Full Time,news,%D and %M,job,Starting at HBF on Savage,377300,67,407500,84,Centre,5,14,71.9,77,0.67,0.72
+294318,Oliver,Wines,PA,13,61,68,77,47,66,4,11,2,5,0,1,0,0,0, Full Time,news,%D and %T,,,351700,30,380300,47,Centre,16,14,81,82,21.88,21.45
+230195,Jay,Schulz,PA,14,58,70,74,55,75,11,7,5,0,0,2,4,1,0, Full Time,news,%s from %P and %M on Lake... %F as well,,,377200,73,415700,118,Forward,28,14,75,82.7,2.12,1.91
+280877,John,Butcher,PA,14,58,52,73,49,59,7,3,6,1,0,1,0,1,2, Full Time,news,%s from %D and %M on Gibson,,,205000,47,243300,46,Forward,11,3,44.3,44.3,0.56,0.39
+290156,Jasper,Pittard,PA,5,55,53,69,45,60,6,8,4,2,0,1,0,0,0, Full Time,news,%D and %M,,,211200,52,225500,39,Back,29,7,52.7,60.3,10.25,11.23
+250688,Alipate,Carlile,PA,5,54,57,69,43,57,5,7,4,3,0,1,0,0,0, Full Time,job,Standing the resting ruck which is mostly Hale... %M and %O,,,221500,57,299700,65,Back,27,13,51.3,66,1.91,0.59
+292145,Thomas,Jonas,PA,8,54,52,70,42,60,8,7,2,3,0,1,1,0,0, Full Time,sore,Hamstring tweak in Q1... %P and %T with %M,,,242100,55,298600,67,Back,42,14,47.2,57.1,0.60,0.59
+270779,Paul,Stewart,PA,8,52,66,62,46,66,2,15,2,3,0,1,1,0,0, Full Time,news,%P including %b by hand... also %T,,,218500,36,204400,27,Forward,14,8,50.1,43.9,0.40,0.37
+261892,Hamish,Hartlett,PA,8,43,59,58,34,53,5,7,0,5,0,1,3,0,2, Full Time,news,%D and %T... also %s and %F,,,388400,77,430300,75,Back Centre,8,14,80.4,90.3,17.32,18.41
+280013,Jackson,Trengove,PA,3,43,55,53,38,51,7,6,3,0,3,1,1,0,0, Full Time,news,Loose in defence to start... %P and %M... also %H,job,On Roughead,235300,41,267500,56,Back,12,7,46.1,54,0.49,0.47
+294604,Jake,Neade,PA,9,34,24,42,28,33,2,1,2,2,0,0,0,2,0, Full Time,news,On in Q3 for Logan... %s from %O and %T with %M,sub,Started as a sub,207500,71,246900,81,Forward Centre,32,13,49.2,55.5,17.47,16.95
+230124,Tom,Logan,PA,2,32,39,40,25,36,3,6,1,2,0,0,0,0,0, Full Time,job,Minding Breust... %O and %T,subbed,Subbed off in Q3 for Neade,306600,118,339000,110,Back,44,6,65.2,67.8,0.42,0.21
+294877,Isaac,Smith,HW,49,145,137,117,111,147,18,8,8,9,0,0,1,3,0, Full Time,cherry,%O and %M plus %T and %s,,,356300,53,354900,53,Centre,16,13,79.3,76,0.62,1.34
+220047,Luke,Hodge,HW,26,107,119,59,83,110,20,6,4,4,2,5,2,1,0, Full Time,x-factor,%K among %D with %T and %s... assisted by %4 FF despite %F,,,387900,92,454800,109,Centre,15,13,86.5,94.8,8.43,7.06
+250089,Jordan,Lewis,HW,27,105,117,91,81,110,10,13,2,7,8,1,0,1,0, Full Time,hot,%O and %M plus %T and %s... chuck in %H as third man up,,,402800,124,461600,137,Forward Centre,3,14,87.1,92.4,8.06,5.80
+280858,Shane,Savage,HW,36,105,103,85,82,105,13,3,7,6,0,0,1,3,0, Full Time,hot,%s from %P and %T with %M starting forward on Broadbent,,,279100,30,295200,38,Centre,21,7,54.9,54.1,1.22,1.42
+291351,Jack,Gunston,HW,27,99,110,73,85,100,12,2,8,1,0,0,0,5,1, Full Time,target,%s from %D and %M on O'Shea,,,422700,95,483200,90,Forward,19,12,77.8,85.2,1.66,1.48
+240357,Jarryd,Roughead,HW,27,96,130,77,82,95,10,2,7,2,0,1,0,5,2, Full Time,star,First goal... %s from %P and %G on Trengove... also %T,,,455100,106,550300,134,Forward Ruck,2,14,90.5,101.3,22.41,22.07
+280744,Luke,Breust,HW,14,77,66,70,61,80,8,6,7,5,0,1,1,0,2, Full Time,news,%s from %O and %T with %M on Logan,,,342400,58,414300,60,Forward,22,14,75,86,3.41,2.68
+250652,Jonathan,Simpkin,HW,14,75,70,58,57,76,10,6,5,4,0,1,0,0,1, Full Time,news,On in Q2 as concussion sub for Cheney then again in Q3 for Stratton... stayed on... %D and %M with %T and %s,sub,Started as a sub,311400,63,360900,58,Centre,32,9,65.3,71.3,0.97,1.17
+200060,Brent,Guerra,HW,14,74,87,51,55,78,11,9,2,4,0,1,0,0,0, Full Time,news,%P and %T,job,Running off Gray,281600,78,342900,98,Back,18,10,60.8,72.9,1.14,0.87
+210012,Shaun,Burgoyne,HW,13,73,90,62,55,78,8,10,3,5,0,0,0,0,0, Full Time,news,%P and %M with %T,,,294800,82,378700,97,Back Centre,9,14,76.6,83.4,16.86,10.17
+220039,Brian,Lake,HW,14,71,77,58,60,81,9,7,8,3,0,0,2,0,0, Full Time,job,Standing Schulz... %P and %T... also %M and %F,,,345800,97,411000,97,Back,17,10,68,78.9,2.12,3.01
+270215,Kyle,Cheney,HW,9,67,62,46,53,69,10,6,5,2,0,2,0,0,0, Full Time,concussed,Following Butcher.. %D and %M... off as concussion sub in Q2 after a clash with Brad Ebert... returned in Q3,in,Late replacement for Lance Franklin,209500,65,250600,92,Back,13,2,35.5,31,0.30,0.30
+290085,Taylor,Duryea,HW,9,67,77,34,53,75,14,4,5,2,0,0,2,0,0, Full Time,news,%D and %M with %T,job,Has Monfries,236500,23,267400,22,Centre,41,11,55.1,57.5,1.35,1.17
+250715,Josh,Gibson,HW,8,61,72,35,52,72,11,7,5,1,0,1,2,0,0, Full Time,job,On Butcher... %O and %M... also %F,,,269500,97,366800,98,Back,6,13,60.3,74.4,2.54,2.48
+260472,Max,Bailey,HW,24,60,64,72,49,59,1,1,1,7,29,1,2,0,0, Full Time,news,%H and %P with %T,,,306600,93,383800,122,Ruck,39,11,64.5,77.7,3.45,3.62
+260955,Cyril,Rioli,HW,10,60,76,51,50,67,6,8,3,3,0,1,1,1,1, Full Time,sore,%s from %O with %T and %M... limped off in Q2 with a right ankle knock but returned after restrapping,,,426300,146,507800,157,Forward Centre,33,6,83.8,97.7,3.38,3.67
+261386,Brendan,Whitecross,HW,8,60,48,39,51,72,9,10,4,1,0,0,1,0,0, Full Time,news,%D and %M,,,454100,160,453300,141,Forward Centre,11,2,67,68.5,0.28,0.30
+220073,Sam,Mitchell,HW,8,56,51,25,53,79,11,13,2,0,1,2,4,0,0, Full Time,tagged,Tagged by Cornes... %O... also %F,,,432800,53,503400,66,Centre,5,14,99.4,108.1,13.66,14.56
+260710,Paul,Puopolo,HW,7,53,75,21,39,54,12,4,0,2,0,4,1,0,0, Full Time,news,%P and %T,,,315700,82,343000,67,Forward,28,12,62.3,64.8,2.74,2.41
+295584,Bradley,Hill,HW,7,53,61,28,44,67,9,12,0,1,0,0,1,0,1, Full Time,news,%D including %B plus %s,,,302300,58,308800,64,Centre,10,13,63.3,61.5,4.21,5.24
+220036,David,Hale,HW,8,34,32,40,29,41,1,5,1,4,7,0,2,0,1, Full Time,news,%H and %P plus %T... also %s and %F,,,306000,47,381600,60,Forward Ruck,20,13,67.6,81.9,2.45,2.67
+280471,Ben,Stratton,HW,7,34,39,34,23,30,3,2,1,4,0,2,0,0,0, Full Time,job,Paul Stewart is his man... %O and %T,subbed,Off as concussion sub in Q3 for Simpkin... made official later in Q3,297800,103,348700,90,Back,24,14,65.3,70.1,2.34,2.11

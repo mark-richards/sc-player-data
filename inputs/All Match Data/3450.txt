@@ -1,0 +1,48 @@
+Essendon,Bombers,Port Adelaide,Power,R7,16.10.106,17.7.109, Full Time
+May 08,2010,2:10,Docklands,Fox Sports,210008,10280702,5015473,4994,Morning showers,20
+The style sheets are taking a little longer than expected but it will come...,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>Ryderrr</em>: Go verse Brisbane again. Don't get something stuck in your throat this time<br><em>winmar</em>: essendon are weak as power<br><em>winmar</em>: essendon are a bunch of softc0cks<br><em>Ryderrr</em>: Nope. Judd has done absolutely nothing for Carlton. An 800k a year hack<br><em>4.Gibbs</em>: That will be a great match <br><em>4.Gibbs</em>: Go play in another dreamtime at the G match<br><em>4.Gibbs</em>: Haha still bitter that Windy Hill wasnt attractive enough? <br><em>Ryderrr</em>: Great leadership Juddy! you mercenary&#044; brown paper bag accepting spud<br><em>Ryderrr</em>: Robinson&#044; Walker&#044; Houlihan&#044; Betts = drinkers. A teenager was strapped to a pole and force to drink with Judd right there<br><em>4.Gibbs</em>: Big talk Ryderr coming talking about leadership. Essendon power drinkers. Hurley and Lovett = rapist?<br><em>Ryderrr</em>: Its always nice to know no matter how crap we are&#044; we can always put the Carlton game down as a win<br><em>Ryderrr</em>: Whens the last time Carlton beat Essendon?<br>
+240290,Angus,Monfries,ES,42,130,117,164,102,133,14,11,6,7,0,1,0,3,1, Full Time,hot,%s from %D and %M with %T on Paul Stewart
+250049,Brent,Prismall,ES,27,108,87,144,79,109,15,8,5,8,0,2,1,0,1, Full Time,hot,Head to head with Boak... %O and %M with %T
+230231,Jobe,Watson,ES,21,107,120,133,88,124,11,20,5,5,1,1,1,0,0, Full Time,hot,Tagged by Thomas... %B among %P with %M and %T
+230238,Jason,Winderlich,ES,49,104,53,137,83,120,7,17,6,10,0,0,3,0,0, Full Time,hot,Played wide of Pearce... %P including %b by hand with %T and %M
+210079,Nathan,Lovett-Murray,ES,27,103,89,132,83,115,10,14,5,7,1,1,2,1,0, Full Time,hot,%P and %M with %T... also %s
+240027,Brent,Stanton,ES,32,102,107,129,83,118,11,16,4,6,0,0,2,1,1, Full Time,gun,Tagged by Kane Cornes.... %O and %T with %M and %s
+250267,Patrick,Ryder,ES,27,99,96,122,85,102,8,6,7,4,21,2,1,1,0, Full Time,news,%H and %P with %M... also %s
+230051,Alwyn,Davey,ES,27,90,81,112,70,87,6,8,2,7,0,4,0,3,0, Full Time,news,%s from %O on Surjan... also %T and %4 frees for
+280824,Jake,Melksham,ES,16,87,71,111,67,91,14,7,4,3,0,0,0,1,1, Full Time,news,%P and %M with %s
+240245,Courtenay,Dempsey,ES,25,86,97,115,62,90,10,9,3,8,0,0,1,0,0, Full Time,job,Switched from Ebert to Daniel Motlop in Q2... %D and %T
+960197,Dustin,Fletcher,ES,20,85,84,116,60,81,11,3,6,7,0,0,0,0,0, Full Time,job,Switched from Daniel Motlop to Trengove in Q2... %O and %T with %M
+990046,Mark,McVeigh,ES,15,84,94,108,62,82,16,4,2,3,0,3,0,1,1, Full Time,job,Minded Davenport on a HBF... %O and %M
+260073,Ben,Howlett,ES,20,77,60,99,59,87,6,14,2,7,0,0,1,0,0, Full Time,news,%B among %O with %M and %T
+270588,Cale,Hooker,ES,15,75,106,93,64,90,3,17,5,5,0,0,1,0,0, Full Time,mobile,Followed Tredrea... %D and %T
+270951,David,Zaharakis,ES,19,74,70,94,60,78,10,6,6,2,0,0,0,1,0, Full Time,news,%s from %M and %O on Salopek
+240319,Sam,Lonergan,ES,14,70,63,84,61,84,9,12,3,1,0,0,1,1,3, Full Time,tagger,Forward tag on Chad Cornes... %s from %D and %M
+250366,Scott,Gumbleton,ES,15,64,70,74,57,72,5,9,3,1,0,0,0,3,0, Full Time,news,%s from %G and %D on Chaplin
+250569,Heath,Hocking,ES,7,59,62,75,46,69,9,10,1,3,0,0,1,0,0, Full Time,sore,%D including %B with %T... rolled his right ankle in Q3
+270935,Michael,Hurley,ES,5,58,49,72,49,66,3,11,5,3,0,0,0,0,0, Full Time,news,Didn't touch the ball in Q1 as Carlile dominated him but had a better second half... %P and %M with %T
+200026,David,Hille,ES,9,57,61,66,51,69,2,13,1,3,12,1,1,0,0, Full Time,down,%H and %D with %T
+261676,Jarrod,Atkinson,ES,2,39,47,48,31,45,6,7,1,1,0,0,0,0,0, Full Time,job,Shifted to Ebert in Q2... %D
+250071,Henry,Slattery,ES,6,23,16,33,15,24,2,2,0,4,0,0,1,0,0, Full Time,sore,%P and %T... big bump in Q2 rattled his ribcage and the docs tested his lungs... returned in Q3
+210043,Domenic,Cassisi,PA,44,113,108,126,81,117,6,16,3,14,0,1,1,0,0, Full Time,hot,%O and %M with %T
+210020,Kane,Cornes,PA,31,110,79,87,82,120,14,15,3,8,0,0,1,0,0, Full Time,heart,Tagged Stanton... %P and %T with %M... rolled an ankle in Q3
+250063,Danyle,Pearce,PA,21,106,82,58,85,118,19,10,3,3,0,1,2,2,1, Full Time,hot,Played wide of Winderlich and that was a mistake by Knights... %P including %b by hand with %M and %T... also %s
+250365,Travis,Boak,PA,37,106,135,85,81,117,13,14,2,8,0,1,2,1,0, Full Time,star,Head to head with Prismall... %D and %T with %M and %s
+260750,Justin,Westhoff,PA,26,103,119,77,84,104,13,6,5,4,2,4,1,3,0, Full Time,hot,%P and %M with %s
+200111,Dean,Brogan,PA,28,96,112,87,84,98,6,6,3,3,44,1,0,0,0, Full Time,heart,%H and %D... left knee caught under Prismall in a tackle in Q1 and hyperextended a medial ligament... back for Q2
+230242,Brett,Ebert,PA,26,95,80,74,80,97,11,5,8,2,0,1,0,3,1, Full Time,news,Booted %s from %G and %D on Dempsey then Atkinson
+210008,Daniel,Motlop,PA,21,86,69,71,71,85,9,4,6,3,0,2,0,3,1, Full Time,news,First goal... %s from %O and %G on Fletcher
+980059,Chad,Cornes,PA,20,85,98,61,65,92,12,9,2,5,2,0,1,1,0, Full Time,tagged,Forward tag on him by Lonergan... smashed him in Q1 with 13 touches but unsighted in Q2... %D and %T with %s
+270779,Paul,Stewart,PA,14,72,69,58,55,75,9,7,5,4,0,0,0,0,0, Full Time,job,Minded Monfries... %D and %M with %T
+220090,David,Rodan,PA,12,70,82,46,51,74,11,8,1,4,1,0,0,0,1, Full Time,x-factor,%D and %T including some vital clearances late in the game to set up the win
+240385,Matt,Thomas,PA,20,70,63,73,55,78,5,10,4,7,0,1,2,0,0, Full Time,tagger,Tagged Watson... %O and %M with %T
+280013,Jackson,Trengove,PA,22,70,57,76,57,75,3,8,3,6,8,0,1,1,1, Full Time,news,%H and %P with %T
+250688,Alipate,Carlile,PA,9,66,58,50,51,69,9,6,5,3,0,0,0,0,0, Full Time,job,On Hurley at FB... %D and %M
+261396,Robbie,Gray,PA,16,65,96,55,52,66,7,4,3,4,0,2,1,2,0, Full Time,news,Didn't touch the ball in Q1... %s from %O with %T
+261083,Nathan,Krakouer,PA,9,61,44,50,50,69,7,9,4,3,0,1,1,0,0, Full Time,sore,%B among %D with %M and %T... left knee problem in Q4
+230192,Steven,Salopek,PA,8,56,68,39,44,60,8,7,3,2,0,1,0,0,0, Full Time,job,Chased Zaharakis... %P and %M
+240180,Troy,Chaplin,PA,4,51,55,39,43,58,6,8,4,1,1,0,0,0,0, Full Time,gumby,On Gumbleton... %M and %O
+240074,Jacob,Surjan,PA,3,40,41,40,33,45,3,6,3,3,0,1,1,0,0, Full Time,job,Minded Davey... %O and %M
+272004,Jason,Davenport,PA,9,39,45,33,33,45,4,5,2,2,0,0,1,1,0, Full Time,news,McVeigh on him on a HFF... %s from %D with %T
+230124,Tom,Logan,PA,3,36,39,33,29,40,3,6,2,2,0,0,0,0,1, Full Time,in,%l Matthew Broadbent... %O
+970120,Warren,Tredrea,PA,0,9,8,6,8,12,1,3,0,0,0,0,0,0,0, Full Time,sore,Hooker on him... %D... knock to his right achilles in Q2

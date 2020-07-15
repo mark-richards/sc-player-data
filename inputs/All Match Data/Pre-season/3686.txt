@@ -1,0 +1,56 @@
+Brisbane,Lions,St Kilda,Saints,W1,0.2.3.15,1.5.5.44, Half Time
+Feb 18,2011,8:20,Docklands,Seven,,10300111,1111112046132,5266,Dome,25
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>dids77</em>: prospector &#044; your jokes truly suck<br><em>Turbo</em>: SC scores???<br><em style='color:#069'>Prospector</em>: OK&#044; back to the footy!<br><em>bindas123</em>: Is Lenny worth a punt this yr ?<br><em style='color:#069'>Prospector</em>: oh tommy boy&#044; the pipes&#044; the pipes<br><em>Judd005</em>: back? bad<br><em>Wanderer30</em>: Prospector your jokes weren't even funny the first team you tried. Stfu<br><em>Judd005</em>: give up the back jokes prospector<br><em>darkness</em>: maybe you should waite for the start of the season !<br><em style='color:#069'>Prospector</em>: famous spud - Raines - it never does! In Brissy&#044; it pours (is it too soon 4 that joke?)<br><em style='color:#069'>Prospector</em>: harley for charley?<br><em style='color:#069'>Prospector</em>: hunt worth a punt?<br>
+271072,Daniel,Rich,BL,9,58,-,76,42,60,8,6,2,4,0,0,0,0,0, Half Time,hot,%O and %M plus %T
+271071,Todd,Banfield,BL,14,57,-,72,43,52,6,2,1,4,0,3,0,2,1, Half Time,hot,%s from %D with %T
+281048,Ryan,Harwood,BL,13,47,-,65,29,42,4,3,0,7,0,1,0,0,0, Half Time,news,%D and %T
+291731,Broc,McCauley,BL,5,39,-,48,36,44,3,3,4,1,11,0,1,0,0, Half Time,news,%H and %D with %M
+270919,Tom,Rockliff,BL,2,28,-,32,24,33,4,7,0,0,0,2,0,0,0, Half Time,news,%B among %D
+281329,Rohan,Bewick,BL,3,27,-,36,20,27,3,2,2,2,0,0,0,0,0, Half Time,news,%P and %T with %M
+230147,Daniel,Merrett,BL,2,26,-,35,22,33,4,4,1,2,0,1,2,0,0, Half Time,news,Desperately needed in defence by Brisbane judging from the first game... %D and %T plus %F
+230170,Joel,Patfull,BL,3,26,-,35,23,30,3,2,4,1,0,0,1,0,0, Half Time,news,%M and %D
+290110,Mitchell,Golby,BL,2,25,-,34,18,24,3,1,2,2,0,0,0,0,0, Half Time,news,%P and %M with %T
+230211,Brent,Staker,BL,1,24,-,29,20,27,4,4,1,0,0,1,0,0,0, Half Time,news,%P with %b by hand
+240013,Andrew,Raines,BL,1,24,-,33,15,21,3,1,0,3,0,1,0,0,0, Half Time,spud,Plenty of clangers across both games... %O and %T
+250053,Cheynee,Stiller,BL,1,22,-,28,17,24,5,2,1,0,0,0,0,0,0, Half Time,news,%D with %k by foot
+291548,Ryan,Lester,BL,1,22,-,29,16,21,2,2,1,2,0,1,0,0,0, Half Time,news,%D
+220062,Matt,Maguire,BL,1,20,-,26,14,21,4,2,0,1,0,0,0,0,0, Half Time,news,%O including %K
+210013,Ashley,McGrath,BL,1,18,-,25,12,15,2,0,1,2,0,1,0,0,0, Half Time,news,%P and %T
+290748,Joshua,Green,BL,1,17,-,22,14,18,3,1,2,0,0,0,0,0,0, Half Time,news,%D and %M
+280572,Jesse,O'Brien,BL,1,16,-,19,13,18,3,3,0,0,0,1,0,0,0, Half Time,news,%O
+290808,Patrick,Karnezis,BL,1,15,-,19,13,16,2,1,2,0,0,0,0,0,1, Half Time,news,%s from %P and %M
+292035,Claye,Beams,BL,0,12,-,15,9,12,1,2,0,1,0,1,0,0,0, Half Time,news,%P
+261222,James,Hawksley,BL,0,7,-,8,6,7,1,1,0,0,0,1,0,0,1, Half Time,news,%P and %s
+240393,Mitchell,Clark,BL,0,3,-,4,4,6,1,1,0,0,0,1,1,0,0, Half Time,news,Got cold sitting in attack with the Lions getting flogged... %D
+250419,Tom,Collier,BL,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Half Time,news,Anonymous across both games
+292501,Bryce,Retzlaff,BL,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Half Time,news,Clashed with Smith in Q1 but didn't do much else
+290738,Jared,Polec,BL,0,1,-,1,3,6,0,2,0,0,0,0,1,0,0, Half Time,news,Much less prominent than in the first game... %P
+260986,Matt,Austin,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used
+261250,Sam,Sheldon,BL,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and wasn't used
+260581,Ryan,Gamble,SK,14,50,-,28,42,51,8,1,2,0,0,0,0,3,0, Half Time,superman,%s from %K among %D with %G... all his goals in Q2
+250340,David,Armitage,SK,4,45,-,24,34,45,9,1,4,1,0,0,0,0,0, Half Time,hot,%P (%k by foot) with %M
+220023,Nick,Dal Santo,SK,3,42,-,22,32,45,8,4,2,1,0,0,0,0,0, Half Time,news,%O and %M
+240708,Sam,Fisher,SK,4,42,-,25,35,45,7,4,4,0,0,1,0,0,0, Half Time,news,%K among %P with %M
+220075,Leigh,Montagna,SK,4,39,-,31,32,45,5,5,3,2,0,0,1,0,0, Half Time,news,%O and %M plus %T
+230084,Brendon,Goddard,SK,3,39,-,26,33,46,6,5,3,1,1,0,1,0,0, Half Time,news,%P and %M
+270938,Tom,Lynch,SK,10,39,-,25,37,49,6,4,4,0,0,0,2,1,1, Half Time,hot,%s from %O and %G
+290444,Alistair,Smith,SK,9,37,-,24,32,42,5,5,2,0,0,0,0,1,0, Half Time,sore,Smashed in a contest in Q1 by Retzlaff... %P and %M plus %s
+261323,Ben,McEvoy,SK,3,33,-,31,31,40,2,6,2,1,7,1,1,0,0, Half Time,news,%H and %P with %M
+230243,Sean,Dempster,SK,3,32,-,23,27,36,5,2,4,1,0,0,1,0,0, Half Time,news,%D and %M
+240012,Andrew,McQualter,SK,7,31,-,34,23,33,2,4,1,4,0,1,1,0,0, Half Time,news,%O and %T
+240701,Brett,Peake,SK,1,29,-,25,23,30,4,3,0,1,0,1,0,0,0, Half Time,news,First goal and it was a supergoal... %O
+294198,Thomas,Ledger,SK,2,26,-,17,22,27,4,2,3,0,0,1,0,0,0, Half Time,news,Started as a sub... on in Q1... %P and %M
+230035,Raphael,Clarke,SK,2,25,-,18,22,30,3,5,2,0,0,0,0,0,0, Half Time,news,%M and %O in his usual halfback role
+990004,Steven,Baker,SK,1,25,-,16,19,27,4,3,1,1,0,0,0,0,0, Half Time,news,%P
+281108,Daniel,Archer,SK,2,23,-,28,18,24,1,2,2,3,0,1,1,0,0, Half Time,news,%D and %T with %M
+292509,Tommy,Walsh,SK,2,22,-,18,20,27,2,5,2,0,0,0,0,0,0, Half Time,irish,%D including %b by hand... also %M
+290826,Jamie,Cripps,SK,2,19,-,18,18,24,1,5,2,0,0,0,0,0,0, Half Time,news,%B among %D with %M
+281151,Will,Johnson,SK,1,16,-,11,15,22,3,1,2,1,0,0,2,0,1, Half Time,news,Booted %s from %O and %G
+220034,Jason,Gram,SK,1,15,-,7,14,21,3,3,1,0,0,0,1,0,0, Half Time,news,%D
+200108,Stephen,Milne,SK,0,11,-,10,8,12,1,2,0,1,0,0,0,0,0, Half Time,news,Not given huge TOG... %D
+250703,James,Gwilt,SK,1,11,-,5,11,18,2,4,0,0,0,0,1,0,0, Half Time,news,%B among %O
+291454,Sam,Crocker,SK,1,11,-,3,12,19,3,2,1,0,0,0,2,0,1, Half Time,news,%s from %P
+280053,Tom,Simpkin,SK,0,10,-,7,8,12,2,0,1,1,0,0,1,0,0, Half Time,news,%O
+290456,Nick,Winmar,SK,0,6,-,4,5,6,1,0,1,0,0,0,0,0,0, Half Time,news,Started as a sub.... on in Q2
+260113,Jarryn,Geary,SK,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,bench,Subbed off halfway through Q1

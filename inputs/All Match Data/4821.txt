@@ -1,0 +1,48 @@
+Adelaide,Crows,Sydney,Swans,R3,9.17.71,21.8.134, Full Time
+Apr 5,2014,2.10,Adelaide,Foxtel,,10420303,adel-v-syd,0,Sunny,22,,
+
+<em style='color:#000'>Crowls</em>: tmitch ok?<br><em style='color:#000'>zadolinnyj</em>: Don't jump off crows yet. Many injuries and good players to return<br><em style='color:#000'>owens4</em>: I do agree @diaz89 i was just to late<br><em style='color:#000'>NDiddy</em>: junk it up wright<br><em style='color:#000'>scaledup</em>: at least rohan will reach his be&#044; that's all I care about<br><em style='color:#000'>DoctorRush</em>: I had Rohan benched for JKH hoping they give him a full run<br><em style='color:#000'>zadolinnyj</em>: Props is way better then petrenko<br><em style='color:#000'>Boydosanes</em>: I don't have Cunningham but wasn't he on that many points at half time ??<br><em style='color:#000'>diaz89</em>: not all 50% would have rohan on field<br><em style='color:#000'>zadolinnyj</em>: Crows will come good. Walker to return is there best player<br><em style='color:#000'>Boydosanes</em>: Alka I was thinking the same thing about Wright !!<br><em style='color:#000'>JRedden</em>: crows for bottom 4<br>
+270811,Sam,Jacobs,AD,36,109,112,130,97,119,6,11,7,4,35,0,1,0,0, Full Time,hot,%H... also %P and %T,,,409900,50,460200,74,Ruck,24,2,87.5,91,4.53,4.15,5.79,420584,71
+200131,James,Podsiadly,AD,21,105,117,133,86,109,15,8,9,2,0,2,0,1,1, Full Time,hot,Richards is his shadow today... %s from %O and %M plus %T,,,412700,141,411600,166,Forward,1,2,43,31.5,0.86,0.84,1.07,364673,104
+270963,Rory,Sloane,AD,30,105,122,139,78,103,13,5,7,7,1,0,0,1,0, Full Time,hot,First goalscorer... %O including %K... also %M and %T... and booted %s,,,516600,62,577100,116,Midfielder,9,2,111,102.5,1.83,2.39,3.17,522812,80
+240370,Richard,Douglas,AD,25,97,98,127,71,100,20,5,2,4,0,1,1,1,1, Full Time,news,%O with %k by foot... also %T and %M... and kicked %s,,,525700,,549900,,Midfielder,26,1,102,117,0.21,0.16,0.31,515457,92
+261351,Matthew,Jaensch,AD,21,96,111,119,81,105,11,12,8,2,0,1,0,1,0, Full Time,news,%P and %M plus %s,cash,,312900,-36,298100,-52,Back,10,2,104,109,1.51,2.18,1.75,355879,12
+261384,Matthew,Wright,AD,15,91,100,119,68,93,13,8,5,5,0,1,0,0,0, Full Time,news,%P and %M plus %T,,,371800,44,384900,79,Forward Midfielder,11,2,80,67.5,13.87,12.68,18.55,384874,67
+294828,Josh,Jenkins,AD,13,86,63,111,68,88,12,5,7,3,3,0,0,0,4, Full Time,news,Back up ruck role likely today while being taken by Grundy in the forwardline... %s from %P and %M plus %T,sore,Some sort of leg injury giving him trouble,353100,,371500,,Forward,4,0,0,0,0.31,0.25,0.26,350400,65
+270917,Patrick,Dangerfield,AD,15,83,99,102,69,93,12,11,3,2,2,2,1,1,1, Full Time,tagged,McGlynn running with him... %s from %O and %M plus %T,,,538900,148,609000,159,Forward Midfielder,32,2,74,90,57.07,65.12,48.17,495043,118
+293222,Rory,Laird,AD,13,77,64,100,62,84,15,6,6,1,0,1,1,0,0, Full Time,news,%D including %K... also %M,,,389400,,376700,,Back,29,0,0,0,0.49,0.40,0.52,386300,71
+220086,Brent,Reilly,AD,14,70,77,92,54,81,12,9,2,4,0,0,2,0,0, Full Time,news,%O and %M plus %T,,,345100,,423000,,Back,3,1,71,78,0.41,0.24,0.57,340156,58
+297401,Matt,Crouch,AD,13,69,45,89,51,73,10,8,2,4,0,0,0,0,1, Full Time,rookie,On the field in the second quarter... %O and %T plus %s,sub,Started as a sub,112800,,117300,,Midfielder,44,0,0,0,17.60,24.06,5.71,203200,38
+291748,Brodie,Smith,AD,9,67,78,83,53,73,10,10,2,2,0,2,0,0,1, Full Time,news,%O and %T plus %s,,,374500,21,407500,24,Back,33,2,92.5,101.5,1.21,0.72,1.27,384767,38
+261138,Jared,Petrenko,AD,20,62,49,85,42,62,4,6,1,9,0,0,1,0,2, Full Time,news,%s from %D and %T,,,289500,,316400,,Forward,23,0,0,0,0.49,0.26,0.55,287300,53
+293193,Luke,Brown,AD,8,62,53,77,52,70,10,8,5,0,0,0,0,0,1, Full Time,news,%O and %M plus %s,,,304100,31,326500,58,Back,16,2,68,62,0.60,0.60,0.60,315265,50
+250362,David,Mackay,AD,14,61,87,72,54,75,7,13,2,1,0,1,1,1,0, Full Time,news,%P and %M plus %s,,,367700,82,359400,48,Midfielder,14,2,60,76,0.39,0.45,0.36,349323,73
+290731,Mitchell,Grigg,AD,11,58,54,74,51,64,9,2,5,1,0,1,2,2,1, Full Time,news,%P with %k by foot... also %M... and kicked %s,,,308500,22,353800,71,Midfielder,38,2,73.5,63,1.51,0.99,1.30,338184,51
+280934,Daniel,Talia,AD,9,57,69,75,47,63,6,6,6,3,0,0,1,0,0, Full Time,job,Franklin will be his man today... %O and %M plus %T,,,251800,37,303800,55,Back,12,2,50.5,57,1.89,1.85,2.10,249280,40
+290228,Kyle,Hartigan,AD,8,52,60,67,45,60,7,6,6,1,0,0,1,0,0, Full Time,job,Taking the big LRT... %M and %D,,,268900,,232800,,Back,41,0,0,0,0.97,0.94,0.31,301100,56
+220093,Ben,Rutten,AD,4,48,57,61,40,57,6,8,3,2,0,0,1,0,0, Full Time,job,Taking the big resting rucks... %P and %M plus %T,,,284100,57,317500,63,Back,25,2,49.5,57,0.80,0.71,1.10,272039,52
+240060,Eddie,Betts,AD,9,47,40,60,39,52,8,3,3,1,0,0,1,1,1, Full Time,news,Nick Smith taking him... %s from %O and %M,,,325700,22,362700,44,Forward,18,2,78.5,79,4.49,6.28,6.88,339036,42
+291806,Sam,Kerridge,AD,4,34,37,43,29,42,3,7,2,2,0,0,1,0,0, Full Time,tagger,Running with Jack... %D and %M with %T,sore,Poked in the eye,378400,66,350600,61,Forward Midfielder,17,2,71,67,0.77,0.84,1.17,376133,73
+210016,Scott,Thompson,AD,2,33,28,41,28,36,3,5,3,1,0,1,0,0,0, Full Time,injured,May have a hamstring... %D and %M,subbed,Subbed out in the second quarter,508800,131,526400,145,Midfielder,5,2,74,74,0.74,0.61,0.87,468980,104
+290778,Luke,Parker,SY,32,121,131,91,101,129,14,12,6,3,0,1,0,4,0, Full Time,gun,%s from %P and %M plus %T,,,462600,85,468800,79,Forward Midfielder,26,2,84.5,91,7.83,4.29,4.79,452724,87
+240399,Lance,Franklin,SY,27,113,130,80,92,113,15,5,6,3,0,2,0,4,2, Full Time,hot,Talia likely to follow him for the game... Playing like he used to which is a good sign for fantasy owners... %s from %P and %M plus %T,,,429800,111,487700,138,Forward,23,2,62.5,66.5,15.96,18.08,13.90,397292,89
+240226,Kieren,Jack,SY,32,101,123,97,75,102,8,11,2,9,0,1,0,2,0, Full Time,hot,Kerridge taking care of him... %D and %M with %T... %s as well,,,553700,,589400,,Midfielder,15,1,60,62,2.83,3.39,3.88,521853,128
+230140,Ben,McGlynn,SY,50,99,96,100,73,99,8,8,5,10,0,1,1,1,0, Full Time,news,Running with the danger man... %s from %D and %M with %T,tagger,,386100,45,389800,33,Forward,21,2,83.5,92,0.52,0.70,0.85,387912,55
+230132,Nick,Malceski,SY,15,90,98,39,68,96,20,5,5,2,0,0,1,0,0, Full Time,news,%O with %k by foot... also %M and %T,,,451200,100,489600,105,Back,9,2,74,83.5,2.15,3.07,2.83,429805,90
+230253,Jarrad,McVeigh,SY,20,83,84,70,73,97,8,13,7,2,0,0,1,1,1, Full Time,news,%D and %M with %T... %s as well,,,534100,121,572500,139,Back Midfielder,3,2,86,89.5,36.85,28.88,31.85,506396,107
+260382,Josh P.,Kennedy,SY,18,83,110,70,69,103,8,20,1,5,1,1,2,0,0, Full Time,news,%P including %B... also %T,,,496900,91,568600,116,Midfielder,12,2,91,100,2.23,3.04,2.59,482518,88
+290117,Daniel,Hannebery,SY,15,80,82,52,62,81,12,6,2,3,0,2,0,2,0, Full Time,news,%D and %M with %T... %s as well,,,485700,108,514200,122,Midfielder,4,2,79.5,82,1.50,1.99,1.90,458853,93
+291206,Mike,Pyke,SY,16,77,86,59,65,80,8,6,2,2,26,1,0,0,0, Full Time,news,%H... also %P and %M,,,405200,41,466800,58,Ruck,38,2,91,101,1.96,3.29,2.34,413176,57
+240072,Heath,Grundy,SY,13,76,69,62,61,81,9,8,7,3,0,0,0,0,0, Full Time,job,Looking to take the resting ruckmen today... %P and %M plus %T,,,295000,37,345900,12,Back,39,2,62.5,90,1.71,1.91,1.96,296504,45
+281281,Lewis,Jetta,SY,8,69,69,36,51,72,14,4,3,3,0,1,1,0,0, Full Time,news,%O including %K... also %T,,,338100,23,333300,27,Forward Midfielder,32,2,81.5,79,2.31,3.15,4.17,346498,37
+250338,Nick,Smith,SY,9,65,66,43,51,69,10,7,4,2,0,1,0,0,0, Full Time,job,Playing on Eddie Betts... %O and %M plus %T,,,311100,39,355700,44,Back,40,2,66,77,0.52,0.48,0.56,313293,48
+270899,Jeremy,Laidler,SY,10,60,58,48,47,63,7,6,3,3,0,0,0,1,0, Full Time,news,%P and %T,,,167200,,161800,,Back,11,1,55,95,23.84,34.86,21.58,135500,6
+290307,Dane,Rampe,SY,5,59,77,38,47,63,10,4,5,2,0,1,1,0,0, Full Time,news,%O and %M plus %T,,,281600,37,320900,35,Back,24,2,59,71.5,0.75,0.95,0.89,282059,43
+200071,Ryan,O'Keefe,SY,9,58,70,52,44,63,6,8,2,5,0,1,1,0,0, Full Time,news,%O and %M plus %T,,,534800,233,545500,244,Midfielder,5,2,30.5,29.5,0.33,0.34,0.71,438599,152
+210027,Ted,Richards,SY,5,56,64,49,48,66,6,8,5,3,0,1,2,0,0, Full Time,ipod,%P and %M plus %T,,,283800,50,374100,74,Back,25,2,53,67,1.31,1.49,2.71,279021,52
+291978,Harry,Cunningham,SY,14,55,59,42,47,57,6,3,3,1,0,0,0,3,0, Full Time,news,%P and %M plus %s,,,119200,-72,123900,-66,Midfielder,7,2,68.5,67.5,13.60,8.62,13.63,184629,-13
+200023,Rhyce,Shaw,SY,6,46,62,25,40,61,8,10,1,1,0,0,2,0,1, Full Time,news,%O and %s,,,254000,6,299400,58,Back,2,2,66.5,54.5,11.85,16.74,18.71,273905,35
+291856,Tom,Mitchell,SY,8,41,55,34,35,45,4,5,3,1,0,0,0,1,0, Full Time,news,%s from %D and %M,subbed,Subbed off at 3QT,492600,83,464800,69,Forward Midfielder,6,2,94,95,26.26,21.79,23.39,484863,87
+291357,Gary,Rohan,SY,8,31,21,19,26,31,5,0,3,0,0,0,0,1,1, Full Time,news,On for Titchell in the final quarter... %s from %O,sub,Started as a sub,176600,-5,176200,14,Forward,16,2,51,42,46.43,50.92,49.81,165814,3
+294797,Tom,Derickx,SY,7,31,51,25,31,39,2,5,0,0,18,0,1,0,0, Full Time,news,Second game for the popular ruck rookie this year so get him in if you want him before he rises... %H... also %D,,,119200,,123900,,Ruck,19,1,47,41,21.50,21.03,19.66,143002,11
+220089,Lewis,Roberts-Thomson,SY,8,27,19,17,23,27,4,1,2,0,0,1,0,1,0, Full Time,news,Taken by Hartigan... %O,,,180300,,249500,,Back Forward,30,1,19,10,6.22,2.21,9.02,146700,32

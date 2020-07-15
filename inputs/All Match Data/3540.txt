@@ -1,0 +1,48 @@
+Sydney,Swans,Geelong,Cats,R18,9.18.72,20.5.125, Full Time
+Jul 31,2010,7:10,Homebush,Ten,220001,10281804,5015528,5211,Windy,20
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>dudeshbood</em>: big hero is @EAGLE4LIFE<br><em>Hawkmad</em>: last week i put ablett off for ball ablett scored twice of ball this week put ball off ablett edges him but i had judd <br><em>SwiftStar5</em>: enright&#044;ling&#044;chappy&#044;goodes.<br><em>skystyler</em>: chapman 85 is not gonna get it done. My SC finals dream is shot.<br><em>tapper</em>: Jack Riewoldt is the spot and share nerd!<br><em title="25/5/10">25/5/10</em>: maybe EAGLE4LIFE is new to football commentary as well lol<br><em>bigzinger</em>: flower you ROK<br><em>tapper</em>: Winty&#044; not BFUC's by any chance?<br><em style='color:#a0a'>EAGLE4LIFE</em>: eagle out!<br><em>barlowgun</em>: ffs not having luck in the past 3 rounds in SC :(<br><em style='color:#a0a'>EAGLE4LIFE</em>: cya all and for 25/5/10 you really need 2 grow up<br><em>tapper</em>: hey winty&#044; not the same as BFUC's by any chance?<br>
+980073,Adam,Goodes,SY,32,119,120,150,98,123,15,7,8,4,0,2,1,3,3, Full Time,hot,%s from %P and %M on Taylor
+240226,Kieren,Jack,SY,24,88,96,117,62,86,14,4,1,7,0,2,1,1,2, Full Time,tagger,Tagging Selwood... %P and %s
+990011,Jude,Bolton,SY,21,88,68,112,71,94,11,7,5,4,0,0,1,2,1, Full Time,news,Matched up on Kelly... %D
+280762,Shane,Mumford,SY,29,87,79,105,77,95,2,9,4,6,32,1,2,0,0, Full Time,news,%H and %P with %T
+200096,Tadhg,Kennelly,SY,9,82,101,104,64,87,16,8,4,1,0,2,0,0,0, Full Time,job,Running off Stokes... %P and %M
+230140,Ben,McGlynn,SY,14,76,52,101,57,78,11,6,4,5,0,2,1,0,0, Full Time,tagger,Tagging Ablett jnr
+220063,Martin,Mattner,SY,10,74,76,97,60,84,12,8,5,3,0,1,2,0,0, Full Time,job,Spending time on Ablett when he's resting from midfield... %D and %M
+200071,Ryan,O'Keefe,SY,19,72,62,92,59,90,7,16,1,6,0,1,3,0,0, Full Time,news,Head to head with Corey... %O
+250080,Jarred,Moore,SY,8,69,74,88,55,72,12,6,5,1,0,2,0,0,0, Full Time,news,%D and %M on Hunt
+290117,Daniel,Hannebery,SY,13,66,53,78,60,81,6,15,6,0,0,0,0,0,0, Full Time,news,%D and %M
+230132,Nick,Malceski,SY,9,64,76,77,56,81,6,16,3,2,0,0,1,0,0, Full Time,job,Minding Stokes... %P
+230253,Jarrad,McVeigh,SY,13,58,60,75,45,64,7,8,2,4,0,1,1,0,1, Full Time,pinkpig,Tagged by Ling... %D
+210027,Ted,Richards,SY,9,56,78,72,46,57,6,5,6,2,0,2,0,0,0, Full Time,job,Standing Mooney... %P
+230010,Paul,Bevan,SY,8,55,62,67,47,64,8,9,4,0,0,0,0,0,1, Full Time,job,On Johnson... %D and %M
+990114,Brett,Kirk,SY,14,51,68,63,40,51,3,7,1,4,0,3,0,1,0, Full Time,tagger,Forward tag on Enright... %T
+291206,Mike,Pyke,SY,9,50,77,62,41,52,3,6,1,4,10,3,1,0,0, Full Time,canada,%H and %P with %T
+260382,Josh P.,Kennedy,SY,9,45,55,56,39,56,6,7,1,2,0,0,2,1,2, Full Time,news,%O and %s
+281281,Lewis,Jetta,SY,4,44,35,58,32,45,8,3,2,2,0,0,0,0,0, Full Time,news,%O
+240072,Heath,Grundy,SY,8,43,28,55,41,60,6,9,4,1,0,0,3,0,0, Full Time,job,Has Hawkins
+250212,Jesse,White,SY,9,39,19,51,35,45,6,2,4,1,0,1,2,1,0, Full Time,news,%O with %F on Scarlett
+200023,Rhyce,Shaw,SY,2,31,40,40,24,37,3,6,0,3,0,0,1,0,1, Full Time,news,%P and %s
+261031,Brett,Meredith,SY,2,23,22,30,20,28,5,2,2,0,0,0,1,0,1, Full Time,news,%D and %s
+220054,Steve,Johnson,GE,49,144,154,115,123,150,15,10,10,3,0,1,0,6,0, Full Time,star,Booted %s from %O and %M on Bevan
+960375,Darren,Milburn,GE,30,128,139,95,102,135,18,11,11,5,0,2,1,0,0, Full Time,hot,%D and %T with %M
+220001,Gary,Ablett jnr,GE,36,127,135,87,103,135,18,11,6,4,0,2,1,3,0, Full Time,gun,%s from %P and %M... tagged by McGlynn in midfield then gets Mattner when forward
+220058,James,Kelly,GE,33,113,130,105,87,118,10,14,4,9,0,3,1,1,1, Full Time,hot,Matched up on Jude Bolton... %P and %T with %M and %s
+250321,Joel,Selwood,GE,21,111,102,84,91,126,14,18,5,5,0,4,2,0,0, Full Time,hot,Tagged by Jack... %O and %T
+970006,Cameron,Mooney,GE,31,96,101,74,84,105,12,5,10,2,0,0,2,3,0, Full Time,news,Booted %s from %P and %G on Richards
+200034,Joel,Corey,GE,42,93,116,103,64,89,5,11,1,12,2,3,0,0,0, Full Time,news,Head to head with O'Keefe... %P and %T
+980037,Matthew,Scarlett,GE,20,93,96,78,81,105,10,12,11,2,0,1,1,0,0, Full Time,job,Standing White... %M and %D
+200037,Cameron,Ling,GE,20,90,85,70,71,100,11,12,3,5,0,0,1,1,1, Full Time,sore,Tagging McVeigh... %O... started hobbling in Q2
+200039,Paul,Chapman,GE,14,88,85,53,69,93,15,8,6,2,0,1,0,0,0, Full Time,sore,%P and %M... knock to his left knee in Q2
+230248,Andrew,Mackie,GE,16,84,90,48,67,90,15,6,5,2,0,1,1,1,0, Full Time,news,%O and %M
+261497,Harry,Taylor,GE,19,81,93,66,67,84,10,5,11,2,0,0,0,0,0, Full Time,job,Following Goodes... %M and %O
+250290,Travis,Varcoe,GE,26,73,76,75,59,81,6,6,6,7,0,0,3,1,0, Full Time,news,%s from %P and %M with %T
+200035,Corey,Enright,GE,13,72,73,45,59,84,13,6,6,3,0,0,3,0,0, Full Time,kirk,Forward tag on him by Kirk... %D
+210059,Josh,Hunt,GE,19,70,86,54,62,78,8,8,8,0,0,0,0,1,0, Full Time,sore,Chasing Moore... %D and %M... also a rare %s... lower right leg problem after Goodes stepped on him in Q3 but played on
+230022,Shannon,Byrnes,GE,10,60,55,48,47,61,7,5,3,3,0,1,0,1,1, Full Time,news,%s from %D with %T on Kennelly
+230214,Mathew,Stokes,GE,14,57,39,46,39,58,8,4,1,6,0,0,1,0,1, Full Time,sore,%D and %T... Malceski on him... left calf problem in Q1
+261510,Tom,Hawkins,GE,8,56,87,49,52,66,4,12,5,0,3,2,0,0,0, Full Time,news,%P and %M on Grundy
+260261,Trent,West,GE,11,55,67,55,50,64,3,6,3,3,13,0,2,1,0, Full Time,mrp,%H and %P with %T... an elbow to Kirk's head in Q4 will be scrutinised
+980064,Brad,Ottens,GE,15,55,62,50,56,71,3,10,2,1,17,2,3,1,0, Full Time,news,%H and %P with %s
+230125,Tom,Lonergan,GE,8,47,18,33,42,54,7,4,7,0,0,0,1,0,0, Full Time,news,%P
+990076,David,Wojcinski,GE,3,34,20,20,28,36,6,2,4,0,0,0,0,0,0, Full Time,news,%D

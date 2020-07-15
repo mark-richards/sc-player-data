@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,North Melbourne,Kangaroos,R7,15.7.97,22.19.151, Full Time
+May 11,2013,4.40,Docklands,Seven,290199,10390704,wb-v-nmfc,0,Fine,25,,
+
+<em>Dt God</em>: fml played blicavs over daw! rageeee<br><em>pladavm</em>: Swallow out for season...ACL<br><em>MQuimby</em>: NicNat is a poor man's Majak ;)<br><em>korza</em>: @Hardballage&#044; your the star<br><em>PieBoy</em>: onya jonesy<br><em>muddy85</em>: libba.. terrible again<br><em>MarksMen</em>: Swallow is walking... May miss 1 if any<br><em>wolfheart</em>: far out. what a captitulation.<br><em>Cheannn</em>: Goldstein 117 SC in the last half hahah thanks for coming<br><em>tracygrims</em>: excellent work Goldstein!<br><em>Pantsman</em>: Nicnat... the next Daw? ;-)<br><em>Grasscutta</em>: They will get pumped by west coast<br>
+240156,Ryan,Griffen,WB,31,129,169,163,101,135,20,13,6,4,0,3,0,1,0, Full Time,atlas,%P and %M plus %T and %s,,,482200,120,537000,150,Centre,16
+260713,Nick,Lower,WB,43,104,94,144,68,99,8,8,2,15,0,1,1,0,0, Full Time,hot,%O and a massive %T,tagger,Tagging Swallow,303800,50,285300,61,Centre,33
+200083,Robert,Murphy,WB,25,97,111,127,78,102,13,5,7,5,0,1,2,2,0, Full Time,news,Starting forward on Atley... %D and %T with %M,,,363800,89,441100,130,Back,2
+230255,Will,Minson,WB,27,89,114,101,78,92,7,6,1,2,38,1,0,1,0, Full Time,news,%H and %D plus %s,,,419100,121,530100,110,Ruck,27
+250601,Lukas,Markovic,WB,26,85,95,105,72,88,5,7,7,4,1,0,0,3,0, Full Time,news,%s from %P and %M,switch,Started at FB on the resting ruck which is mostly Daw... got smashed so switched forward in Q1 with Austin,213500,,272300,,Back,37
+291545,Mitch,Wallis,WB,24,81,60,107,56,76,11,4,1,7,0,2,0,1,1, Full Time,news,%O and %T,,,375200,128,388400,149,Centre,3
+291526,Luke,Dahlhaus,WB,24,76,88,98,54,75,10,7,0,6,0,2,0,1,0, Full Time,news,%O and %T plus %s,,,313300,68,376900,69,Forward,6
+200079,Daniel,Giansiracusa,WB,17,68,64,83,61,72,9,2,4,1,0,3,2,4,0, Full Time,news,First goal... %s from %P and %M on Firrito,,,305700,119,329800,115,Forward,13
+220010,Matthew,Boyd,WB,13,65,74,83,50,75,9,11,1,4,0,0,1,0,0, Full Time,news,%2 Ziebell... %P and %T,,,556200,155,570800,133,Centre,5
+294826,Tom,Young,WB,12,59,64,77,49,66,10,5,6,1,0,0,1,0,0, Full Time,news,%P and %M,job,On Black,294000,52,340800,50,Back,31
+294101,Jason,Johannisen,WB,8,56,72,71,45,60,11,5,4,0,0,1,0,0,0, Full Time,southafrica,%O and %M,job,Minding Adams,231800,37,291300,50,Back,39
+250712,Dale,Morris,WB,9,55,56,74,39,54,6,4,3,5,0,0,0,0,0, Full Time,job,Responsible for Thomas... %O and %T,,,226700,84,314000,115,Back,38
+210049,Daniel,Cross,WB,14,54,45,70,39,55,3,8,1,6,1,1,0,0,0, Full Time,news,On in Q3 for Tutt... %O and %T,sub,Started as a sub,460700,99,481800,130,Centre,4
+290799,Tom,Liberatore,WB,14,54,68,70,43,63,3,11,1,6,0,2,2,0,0, Full Time,news,%2 Bastinac... %B among %D with %T and %F,,,422600,116,482500,117,Centre,21
+240212,Dylan,Addison,WB,5,51,61,66,41,52,6,4,5,2,0,1,0,0,1, Full Time,news,%s from %P in a forward role on McMahon... also %T and %M,,,304900,,319800,,Back Forward,22
+230041,Adam,Cooney,WB,6,47,70,60,37,52,10,5,1,1,0,2,1,0,1, Full Time,news,%D,,,435000,114,480300,136,Centre,17
+271439,Liam,Picken,WB,4,41,45,51,35,48,4,8,2,2,0,2,1,0,0, Full Time,tagger,Tagging Harvey... %O and %T,,,345300,51,360200,50,Centre,42
+261243,Mark,Austin,WB,9,39,39,49,34,48,3,7,1,3,0,1,2,1,0, Full Time,switch,Starting forward on Hansen but switched to defence with Markovic in Q1... %P,,,217800,71,276300,87,Back,47
+293847,Clay,Smith,WB,8,31,31,43,26,37,5,1,1,3,0,1,3,1,1, Full Time,news,%P and %s,,,349600,33,334500,21,Centre,14
+281078,Liam,Jones,WB,3,27,24,34,28,35,3,4,4,0,1,2,2,0,1, Full Time,news,Thompson on him... %P and %M,,,274300,4,318800,7,Forward,19
+280012,Jordan,Roughead,WB,2,22,36,32,17,27,3,2,1,3,0,0,2,0,0, Full Time,job,Standing Petrie... %T,,,264500,36,334800,46,Back Forward,23
+281013,Jason,Tutt,WB,0,2,4,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,news,One solitary handball on Mullett,subbed,Subbed off in Q3 for Cross,221200,13,208000,30,Centre,15
+290199,Majak,Daw,NM,43,128,129,105,111,134,13,5,8,4,4,1,2,6,4, Full Time,star,%s from %P and %M when forward on Markovic... %H and %T as well,,,129300,-13,145100,-5,Ruck,38
+271129,Todd,Goldstein,NM,40,127,156,120,107,129,8,9,5,6,33,1,0,2,0, Full Time,cherry,%H and %P with %T and %M,sore,Landed with his back on the knee of Jones in Q4,411200,101,529400,67,Ruck,22
+210023,Drew,Petrie,NM,37,110,113,91,85,106,13,2,8,6,0,0,0,3,1, Full Time,hot,Booted %s from %G and %D on Roughead... also %T,,,379900,73,465600,75,Forward,20
+280944,Jack,Ziebell,NM,22,103,110,60,85,117,18,9,5,3,0,1,3,2,0, Full Time,x-factor,%2 Boyd... %P and %M with %T and %s,,,421900,75,438900,89,Centre,7
+250557,Sam,Gibson,NM,19,96,73,72,77,106,13,11,7,4,0,0,1,0,1, Full Time,news,%P and %M with %T,,,458300,125,391000,86,Centre,43
+291672,Aaron,Black,NM,20,90,90,73,76,96,10,7,7,3,0,1,1,2,3, Full Time,sore,%s from %P and %M on Young... also %T... left eye injury in Q4 in a headclash and iced up temporarily,,,200900,-15,212600,-43,Forward,35
+261909,Lindsay,Thomas,NM,20,83,76,54,65,85,14,1,3,5,0,3,3,2,4, Full Time,news,%s from %O on Morris,,,362500,85,412200,90,Forward,12
+280863,Ryan,Bastinac,NM,16,82,77,55,68,91,12,9,5,2,0,1,1,1,1, Full Time,news,%2 Liberatore... %D,,,390200,90,410900,85,Centre,3
+240417,Andrew,Swallow,NM,25,80,91,75,60,87,8,10,3,8,0,1,2,0,0, Full Time,injured,Tagged by Lower... %P and %T with %M... right knee hyperextension when Lower fell across it in late in Q4,,,509900,100,562000,78,Centre,9
+960491,Brent,Harvey,NM,14,77,117,43,57,78,14,5,2,3,0,1,0,1,0, Full Time,tagged,Tagged by Picken... %s from %P and %T,,,452000,,511000,,Forward Centre,29
+290194,Jamie,MacMillan,NM,19,75,66,61,62,81,9,6,7,3,0,0,1,1,0, Full Time,news,%P and %M,,,368600,86,381700,93,Centre,34
+290787,Shaun,Atley,NM,16,68,60,53,51,66,9,3,4,4,0,1,0,1,0, Full Time,news,%P and %T with %M,job,Minding Murphy,303600,60,368800,86,Back,18
+250373,Lachlan,Hansen,NM,13,62,52,43,55,72,9,7,8,0,0,0,1,0,0, Full Time,in,Late replacement for Taylor Hine... %O and %M,job,Started at FB on Austin then Markovic,257500,69,294500,81,Forward,6
+280612,Will,Sierakowski,NM,15,60,72,46,44,60,8,4,2,4,0,0,0,1,0, Full Time,bubble,Second game.... %O,,,108500,,115900,,Back,28
+280864,Sam,Wright,NM,9,60,74,39,48,66,10,5,5,2,0,0,1,0,0, Full Time,news,%D and %M,,,269200,69,306100,70,Back,19
+250285,Leigh,Adams,NM,12,59,72,44,45,66,8,9,1,4,0,1,1,0,0, Full Time,news,%D and %T on Johanissen,,,350800,82,421200,82,Forward Centre,13
+280921,Ben,Cunnington,NM,12,59,78,53,48,69,5,13,1,4,0,2,1,0,0, Full Time,news,%O and %T,,,352300,76,419600,62,Centre,10
+250135,Scott,McMahon,NM,5,50,69,34,40,54,8,4,4,2,0,1,1,0,0, Full Time,job,Addison manning him up... %D and %M,,,336100,103,403200,118,Back,42
+281395,Scott D.,Thompson,NM,8,49,85,25,41,57,10,5,2,2,0,4,3,0,0, Full Time,news,%P... also %F,job,Has Jones,398700,96,518300,130,Back,16
+230272,Michael,Firrito,NM,4,39,70,25,39,54,6,8,4,0,0,2,3,0,0, Full Time,job,Has Giansiracusa... %O and %M,,,324800,65,376800,74,Back,11
+291445,Aaron,Mullett,NM,2,28,28,18,19,27,5,1,1,2,0,0,0,0,0, Full Time,injured,Responsible for Tutt... %P and %T... left ankle knock in Q2,subbed,Subbed off in Q3 for Wells,352000,100,377800,94,Centre,41
+230232,Daniel,Wells,NM,1,18,31,4,15,22,5,1,1,0,0,0,1,0,1, Full Time,news,On in Q3 for Mullett,sub,Started as a sub,434700,92,557400,105,Centre,8

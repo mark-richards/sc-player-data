@@ -1,0 +1,48 @@
+St Kilda,Saints,Western Sydney,Giants,R22,25.13.163,5.5.35, Full Time
+Aug 25,2012,1:45,Docklands,Seven,240062,10342202,430189,0,Roof closed,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>hacker</em>: yeah bj is used to popping a few cherries - the dirty little slut<br><em>beamen</em>: cherries for bj<br><em>Murf2Gibbs</em>: Yes go capt Goddard hopefully good sc <br><em>Jobey Boi</em>: Lol Nick Maxwell benched Cloke this week. You know your'e shower when even your captain thinks you'll have a bad one.<br><em>grossn</em>: Bin for BJ<br><em>dickitch</em>: centurions: vulture<br><em>K-Red7</em>: dempster = vulture<br><em>Changeling</em>: goddard goal<br><em>Dangeroo</em>: vulture apparently<br><em>K-Red7</em>: milney X factor!<br><em>gards</em>: vulture<br><em>old_shepp</em>: Buntine showing a bit ?<br>
+230243,Sean,Dempster,SK,37,140,131,185,111,142,25,4,16,2,0,0,0,0,1, Full Time,vulture,%P and %T with %M,job,Running off Smith
+220075,Leigh,Montagna,SK,32,128,132,163,104,138,16,12,9,5,0,0,1,2,0, Full Time,star,%2 Ward... %O and %M with %T and %s,,
+230084,Brendon,Goddard,SK,27,116,121,145,95,120,15,8,8,3,0,1,0,3,0, Full Time,garbage,Starting forward on Hampton... %P and %M plus %s.. racked it up in junk time,,
+293815,Arryn,Siposs,SK,25,100,101,125,85,109,15,9,10,0,1,0,0,1,0, Full Time,hot,Matched up on Hoskin-Elliott... %O and %M,,
+240062,Farren,Ray,SK,19,99,101,129,78,107,15,9,7,4,1,0,1,0,1, Full Time,news,%O and %M with %T,job,On a HBF on Tyson
+200108,Stephen,Milne,SK,30,97,116,119,84,101,13,2,7,1,0,0,1,5,2, Full Time,news,First goal... %s from %O and %M on Kennedy including three goals in Q1,,
+220023,Nick,Dal Santo,SK,20,96,135,124,73,103,15,9,3,5,1,0,1,1,0, Full Time,news,%D and %T with %M,,
+260113,Jarryn,Geary,SK,20,94,110,119,75,106,13,14,4,4,0,1,1,0,1, Full Time,job,Minding Adams... %D and %s,,
+291773,Jack,Newnes,SK,26,86,67,117,63,84,13,1,6,6,0,0,1,1,0, Full Time,news,Matched up on Greene... %P and %T plus %s,,
+261323,Ben,McEvoy,SK,22,84,85,103,70,82,4,4,5,5,22,1,0,1,0, Full Time,news,%H and %P with %T and %M,,
+294818,Ahmed,Saad,SK,16,79,75,104,61,80,10,4,5,5,0,1,1,1,2, Full Time,egypt,%s from %D on Power... also %T and %M,,
+270766,Terry,Milera,SK,17,78,99,96,65,81,9,5,5,2,0,0,0,3,0, Full Time,news,%s from %D and %M on Darley,,
+270912,Jack,Steven,SK,10,76,85,95,63,90,9,14,4,3,0,0,1,0,0, Full Time,news,%P and %T,,
+250703,James,Gwilt,SK,9,75,98,98,56,78,13,6,4,3,0,0,0,0,0, Full Time,job,Has Phillips... %O and %M,,
+280317,Rhys,Stanley,SK,14,70,63,87,60,73,10,3,7,0,4,0,0,1,3, Full Time,news,Davis on him... %s from %D and %M,,
+290826,Jamie,Cripps,SK,12,69,70,86,58,75,7,7,4,3,0,1,1,2,0, Full Time,news,Matched up on Treloar... %O and %M with %T and %s,,
+294198,Tom,Ledger,SK,14,65,76,79,58,81,9,12,3,1,0,1,2,1,0, Full Time,news,%D and %M... also %F,,
+250036,Beau,Wilkes,SK,16,63,69,75,57,71,8,5,4,0,1,0,1,3,1, Full Time,news,%s from %P and %G on Haynes,,
+250134,Sam,Gilbert,SK,13,63,56,83,51,69,10,5,6,2,0,0,1,0,0, Full Time,news,%O and %M,,
+280053,Tom,Simpkin,SK,8,50,58,66,44,60,8,5,6,1,0,0,2,0,0, Full Time,job,Following Tomlinson... %D and %M... also %F,,
+990028,Lenny,Hayes,SK,4,47,67,60,36,48,5,6,2,3,0,2,0,0,0, Full Time,news,%2 Miles... %D and %T plus %M,subbed,Subbed off at HT for Ross
+293846,Sebastian,Ross,SK,7,40,41,53,27,36,5,3,0,4,0,3,0,0,0, Full Time,rookie,First game... on after HT for Hayes,sub,Started as a sub
+295344,Toby,Greene,WS,20,109,100,59,83,120,20,14,2,4,0,2,1,0,0, Full Time,hot,Matched up on Newnes... %O and %T with %M,,
+11,Taylor,Adams,WS,25,105,92,71,86,114,15,12,7,2,0,1,0,1,0, Full Time,hot,%s from %P and %M on Geary,,
+980011,Luke,Power,WS,32,105,91,87,80,114,13,12,5,8,0,1,2,0,0, Full Time,hot,%P and %T with %M,job,Saad is his man
+29,Adam,Treloar,WS,21,99,109,73,80,102,13,7,7,3,0,1,0,2,0, Full Time,news,Matched up on Cripps... %P and %M plus %s,,
+291784,Dom,Tyson,WS,20,88,73,77,77,108,9,15,8,4,0,0,3,0,0, Full Time,news,%D on Ray... also %M and %T with %F,,
+290671,Anthony,Miles,WS,15,84,94,64,69,97,11,12,5,4,1,1,2,0,0, Full Time,news,%2 Hayes... %D,in,Late replacement for Rhys Palmer
+280109,Callan,Ward,WS,13,78,94,55,63,82,11,7,6,2,3,1,0,0,1, Full Time,news,%2 Montagna... %O and %M,,
+261841,Jonathan,Giles,WS,16,74,79,59,62,75,8,2,3,3,27,1,1,0,0, Full Time,news,%H and %D with %T,,
+280804,Phil,Davis,WS,12,65,77,47,56,75,9,8,7,1,0,0,1,0,0, Full Time,news,%O and %M,job,On Stanley
+7,Nick,Haynes,WS,8,63,76,38,53,72,10,9,5,0,0,0,0,0,0, Full Time,news,%D and %M,job,At FB on Wilkes
+290765,Sam,Darley,WS,7,49,45,35,41,57,6,10,2,1,0,1,0,0,0, Full Time,job,Minding Milera... %O and %M,,
+294283,Rhys,Cooyou,WS,10,47,41,46,38,51,3,7,2,3,0,0,0,1,0, Full Time,rookie,First game... %O,,
+291802,Tomas,Bugg,WS,4,46,51,32,35,48,7,4,3,2,0,0,0,0,0, Full Time,news,%D and %M with %T,,
+291720,Will,Hoskin-Elliott,WS,4,45,37,34,35,48,6,5,3,2,0,0,0,0,0, Full Time,sore,Matched up on Siposs... %P and %M... right ankle issue in Q4,,
+5,Matthew,Buntine,WS,4,44,37,33,39,51,5,8,4,0,0,1,0,0,0, Full Time,in,%l Chad Cornes... on in Q3 for McDonald,sub,Started as a sub
+970130,James,McDonald,WS,3,43,63,28,30,45,7,5,0,3,0,0,0,0,0, Full Time,injured,%D and %T... right ankle problem in Q2,subbed,Subbed off in Q3 for Buntine
+290306,Curtly,Hampton,WS,9,42,48,32,33,45,5,5,1,2,0,0,0,1,0, Full Time,job,Following Goddard... %P,,
+291819,Adam,Tomlinson,WS,2,36,34,26,27,36,5,4,1,2,0,2,0,0,0, Full Time,news,%D and %T on Simpkin,,
+291771,Devon,Smith,WS,2,34,19,19,28,40,6,5,1,1,0,1,1,0,1, Full Time,news,%P on Dempster,,
+294068,Andrew,Phillips,WS,3,33,30,31,29,35,2,4,2,1,8,1,0,0,0, Full Time,news,%P and %M starting at FF on Gwilt... also %H,,
+291509,Adam,Kennedy,WS,2,32,33,27,22,30,4,2,1,3,0,1,0,0,0, Full Time,job,Chasing Milne... one touch in the first half,,
+294125,Nathan,Wilson,WS,6,21,19,26,12,18,1,1,0,4,0,0,0,0,0, Full Time,news,No touches in the first half... %P and %T,,
