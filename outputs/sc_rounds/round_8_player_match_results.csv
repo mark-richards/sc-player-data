@@ -1,177 +1,177 @@
-,coach_id,coach_team_id,coach_first_name,coach_team_name,player_id,points,on_field,feed_id,first_name,last_name,team
-0,180650,33301,Jordan,"What's Up, Doch?",755,169,True,295467,Jack,Macrae,WBD
-1,180650,33301,Jordan,"What's Up, Doch?",387,166,True,295344,Toby,Greene,GWS
-2,180650,33301,Jordan,"What's Up, Doch?",469,157,True,290528,Max,Gawn,MEL
-3,180650,33301,Jordan,"What's Up, Doch?",715,139,True,290307,Dane,Rampe,SYD
-4,180650,33301,Jordan,"What's Up, Doch?",440,104,True,291856,Tom,Mitchell,HAW
-5,180650,33301,Jordan,"What's Up, Doch?",392,95,True,993903,Jacob,Hopper,GWS
-6,180650,33301,Jordan,"What's Up, Doch?",660,90,True,991988,Zak,Jones,STK
-7,180650,33301,Jordan,"What's Up, Doch?",643,88,True,296351,Jack,Billings,STK
-8,180650,33301,Jordan,"What's Up, Doch?",335,88,True,270917,Patrick,Dangerfield,GEE
-9,180650,33301,Jordan,"What's Up, Doch?",112,80,True,296190,Jack,Martin,CAR
-10,180650,33301,Jordan,"What's Up, Doch?",167,79,True,1008089,Isaac,Quaynor,COL
-11,180650,33301,Jordan,"What's Up, Doch?",99,66,True,295518,Sam,Docherty,CAR
-12,180650,33301,Jordan,"What's Up, Doch?",615,59,True,1002227,Jack,Higgins,RIC
-13,180650,33301,Jordan,"What's Up, Doch?",82,57,True,290311,Mitch,Robinson,BRL
-14,180650,33301,Jordan,"What's Up, Doch?",311,56,True,1001195,Izak,Rankine,GCS
-15,180650,33301,Jordan,"What's Up, Doch?",570,47,True,261396,Robbie,Gray,PTA
-16,180650,33301,Jordan,"What's Up, Doch?",610,45,True,1006276,Derek,Eggmolesse-Smith,RIC
-17,180650,33301,Jordan,"What's Up, Doch?",228,45,True,295067,James,Aish,FRE
-18,180650,33301,Jordan,"What's Up, Doch?",609,0,False,260930,Shane,Edwards,RIC
-19,180650,33301,Jordan,"What's Up, Doch?",362,49,False,1004940,Sam,Simpson,GEE
-20,180650,33301,Jordan,"What's Up, Doch?",587,0,False,270919,Tom,Rockliff,PTA
-21,180650,33301,Jordan,"What's Up, Doch?",645,87,False,992374,Dan,Butler,STK
-22,86078,9806,Lester,HoweIMetYourMother,67,147,True,293716,Jarryd,Lyons,BRL
-23,86078,9806,Lester,HoweIMetYourMother,307,140,True,298272,Touk,Miller,GCS
-24,86078,9806,Lester,HoweIMetYourMother,232,136,True,1002232,Andrew,Brayshaw,FRE
-25,86078,9806,Lester,HoweIMetYourMother,34,118,True,294733,Paul,Seedsman,ADE
-26,86078,9806,Lester,HoweIMetYourMother,789,114,True,240283,Shannon,Hurn,WCE
-27,86078,9806,Lester,HoweIMetYourMother,709,110,True,993905,Callum,Mills,SYD
-28,86078,9806,Lester,HoweIMetYourMother,620,108,True,290847,Dustin,Martin,RIC
-29,86078,9806,Lester,HoweIMetYourMother,439,93,True,261323,Ben,McEvoy,HAW
-30,86078,9806,Lester,HoweIMetYourMother,341,90,True,290550,Cameron,Guthrie,GEE
-31,86078,9806,Lester,HoweIMetYourMother,366,89,True,291800,Tom,Stewart,GEE
-32,86078,9806,Lester,HoweIMetYourMother,178,81,True,291790,Adam,Treloar,COL
-33,86078,9806,Lester,HoweIMetYourMother,719,76,True,1006126,James,Rowbottom,SYD
-34,86078,9806,Lester,HoweIMetYourMother,94,75,True,990704,Patrick,Cripps,CAR
-35,86078,9806,Lester,HoweIMetYourMother,303,65,True,1004095,Jack,Lukosius,GCS
-36,86078,9806,Lester,HoweIMetYourMother,807,44,True,296296,Dom,Sheed,WCE
-37,86078,9806,Lester,HoweIMetYourMother,536,35,True,993998,Jy,Simpkin,NTH
-38,86078,9806,Lester,HoweIMetYourMother,8,31,True,1000932,Tom,Doedee,ADE
-39,86078,9806,Lester,HoweIMetYourMother,268,0,True,993816,Darcy,Tucker,FRE
-40,86078,9806,Lester,HoweIMetYourMother,379,74,False,294508,Aidan,Corr,GWS
-41,86078,9806,Lester,HoweIMetYourMother,616,0,False,250312,Bachar,Houli,RIC
-42,86078,9806,Lester,HoweIMetYourMother,738,0,False,993834,Josh,Dunkley,WBD
-43,86078,9806,Lester,HoweIMetYourMother,578,0,False,290746,Scott,Lycett,PTA
-44,45168,5524,Luke,The Dragon's Laird,703,157,True,295342,Jake,Lloyd,SYD
-45,45168,5524,Luke,The Dragon's Laird,76,152,True,293535,Lachie,Neale,BRL
-46,45168,5524,Luke,The Dragon's Laird,534,136,True,290738,Jared,Polec,NTH
-47,45168,5524,Luke,The Dragon's Laird,97,123,True,270146,Ed,Curnow,CAR
-48,45168,5524,Luke,The Dragon's Laird,18,116,True,993946,Ben,Keays,ADE
-49,45168,5524,Luke,The Dragon's Laird,217,114,True,1001026,Jordan,Ridley,ESS
-50,45168,5524,Luke,The Dragon's Laird,411,111,True,998172,Tim,Taranto,GWS
-51,45168,5524,Luke,The Dragon's Laird,761,104,True,1006130,Bailey,Smith,WBD
-52,45168,5524,Luke,The Dragon's Laird,713,101,True,996765,Tom,Papley,SYD
-53,45168,5524,Luke,The Dragon's Laird,21,97,True,293222,Rory,Laird,ADE
-54,45168,5524,Luke,The Dragon's Laird,446,97,True,294613,Jaeger,O'Meara,HAW
-55,45168,5524,Luke,The Dragon's Laird,565,91,True,261911,Brad,Ebert,PTA
-56,45168,5524,Luke,The Dragon's Laird,146,89,True,293871,Jack,Crisp,COL
-57,45168,5524,Luke,The Dragon's Laird,459,87,True,291962,Chad,Wingard,HAW
-58,45168,5524,Luke,The Dragon's Laird,30,86,True,297523,Reilly,O'Brien,ADE
-59,45168,5524,Luke,The Dragon's Laird,200,77,True,270935,Michael,Hurley,ESS
-60,45168,5524,Luke,The Dragon's Laird,553,54,True,250365,Travis,Boak,PTA
-61,45168,5524,Luke,The Dragon's Laird,456,42,True,294877,Isaac,Smith,HAW
-62,45168,5524,Luke,The Dragon's Laird,208,38,False,997846,Conor,McKenna,ESS
-63,45168,5524,Luke,The Dragon's Laird,36,0,False,270963,Rory,Sloane,ADE
-64,45168,5524,Luke,The Dragon's Laird,628,0,False,290627,Dion,Prestia,RIC
-65,45168,5524,Luke,The Dragon's Laird,746,0,False,294557,Lachie,Hunter,WBD
-66,21562,186,Mark,GetRichOrDieTryin,397,195,True,296347,Josh,Kelly,GWS
-67,21562,186,Mark,GetRichOrDieTryin,809,130,True,280078,Luke,Shuey,WCE
-68,21562,186,Mark,GetRichOrDieTryin,261,118,True,998659,Luke,Ryan,FRE
-69,21562,186,Mark,GetRichOrDieTryin,680,114,True,296205,Jack,Steele,STK
-70,21562,186,Mark,GetRichOrDieTryin,6,111,True,297401,Matt,Crouch,ADE
-71,21562,186,Mark,GetRichOrDieTryin,356,99,True,298419,Brandan,Parfitt,GEE
-72,21562,186,Mark,GetRichOrDieTryin,617,90,True,290032,Kane,Lambert,RIC
-73,21562,186,Mark,GetRichOrDieTryin,79,89,True,1002235,Cameron,Rayner,BRL
-74,21562,186,Mark,GetRichOrDieTryin,562,88,True,280711,Charlie,Dixon,PTA
-75,21562,186,Mark,GetRichOrDieTryin,343,87,True,261510,Tom,Hawkins,GEE
-76,21562,186,Mark,GetRichOrDieTryin,808,80,True,281080,Brad,Sheppard,WCE
-77,21562,186,Mark,GetRichOrDieTryin,460,77,True,1002222,James,Worpel,HAW
-78,21562,186,Mark,GetRichOrDieTryin,574,67,True,994295,Dan,Houston,PTA
-79,21562,186,Mark,GetRichOrDieTryin,151,61,True,293957,Brodie,Grundy,COL
-80,21562,186,Mark,GetRichOrDieTryin,572,57,True,261892,Hamish,Hartlett,PTA
-81,21562,186,Mark,GetRichOrDieTryin,613,27,True,990827,Jack,Graham,RIC
-82,21562,186,Mark,GetRichOrDieTryin,80,22,True,271072,Daniel,Rich,BRL
-83,21562,186,Mark,GetRichOrDieTryin,235,113,False,1002239,Adam,Cerra,FRE
-84,21562,186,Mark,GetRichOrDieTryin,649,103,False,1002264,Hunter,Clark,STK
-85,21562,186,Mark,GetRichOrDieTryin,165,0,False,260257,Scott,Pendlebury,COL
-86,21562,186,Mark,GetRichOrDieTryin,361,0,False,250321,Joel,Selwood,GEE
-87,21562,186,Mark,GetRichOrDieTryin,74,74,False,1005521,Oscar,McInerney,BRL
-88,71052,9867,James,Bad Boys For Fyfe,72,131,True,1000978,Hugh,McCluggage,BRL
-89,71052,9867,James,Bad Boys For Fyfe,736,128,True,295136,Caleb,Daniel,WBD
-90,71052,9867,James,Bad Boys For Fyfe,370,113,True,292511,Zach,Tuohy,GEE
-91,71052,9867,James,Bad Boys For Fyfe,714,113,True,290778,Luke,Parker,SYD
-92,71052,9867,James,Bad Boys For Fyfe,378,109,True,291969,Stephen,Coniglio,GWS
-93,71052,9867,James,Bad Boys For Fyfe,218,107,True,295461,Adam,Saad,ESS
-94,71052,9867,James,Bad Boys For Fyfe,121,101,True,994539,Sam,Petrevski-Seton,CAR
-95,71052,9867,James,Bad Boys For Fyfe,293,97,True,281091,Hugh,Greenwood,GCS
-96,71052,9867,James,Bad Boys For Fyfe,115,92,True,250105,Marc,Murphy,CAR
-97,71052,9867,James,Bad Boys For Fyfe,495,91,True,296359,Christian,Salem,MEL
-98,71052,9867,James,Bad Boys For Fyfe,319,87,True,290832,David,Swallow,GCS
-99,71052,9867,James,Bad Boys For Fyfe,752,84,True,1003130,Patrick,Lipinski,WBD
-100,71052,9867,James,Bad Boys For Fyfe,797,84,True,271045,Nic,Naitanui,WCE
-101,71052,9867,James,Bad Boys For Fyfe,481,79,True,298264,Ed,Langdon,MEL
-102,71052,9867,James,Bad Boys For Fyfe,816,77,True,292128,Elliot,Yeo,WCE
-103,71052,9867,James,Bad Boys For Fyfe,579,69,True,1004998,Todd,Marshall,PTA
-104,71052,9867,James,Bad Boys For Fyfe,220,49,True,291771,Devon,Smith,ESS
-105,71052,9867,James,Bad Boys For Fyfe,227,28,True,296294,Blake,Acres,FRE
-106,71052,9867,James,Bad Boys For Fyfe,101,0,False,999827,Zac,Fisher,CAR
-107,71052,9867,James,Bad Boys For Fyfe,219,0,False,291783,Dylan,Shiel,ESS
-108,71052,9867,James,Bad Boys For Fyfe,244,0,False,291570,Nat,Fyfe,FRE
-109,71052,9867,James,Bad Boys For Fyfe,124,53,False,298290,Marc,Pittonet,CAR
-110,8258,9856,Simon,It's always Sonny,677,142,True,250267,Paddy,Ryder,STK
-111,8258,9856,Simon,It's always Sonny,491,141,True,298210,Christian,Petracca,MEL
-112,8258,9856,Simon,It's always Sonny,389,129,True,295265,Nick,Haynes,GWS
-113,8258,9856,Simon,It's always Sonny,328,125,True,296733,Mark,Blicavs,GEE
-114,8258,9856,Simon,It's always Sonny,516,122,True,296035,Trent,Dumont,NTH
-115,8258,9856,Simon,It's always Sonny,270,115,True,281007,Michael,Walters,FRE
-116,8258,9856,Simon,It's always Sonny,90,106,True,261224,Dayne,Zorko,BRL
-117,8258,9856,Simon,It's always Sonny,751,103,True,290799,Tom,Liberatore,WBD
-118,8258,9856,Simon,It's always Sonny,599,97,True,993993,Shai,Bolton,RIC
-119,8258,9856,Simon,It's always Sonny,537,96,True,270325,Robbie,Tarrant,NTH
-120,8258,9856,Simon,It's always Sonny,136,94,True,291776,Taylor,Adams,COL
-121,8258,9856,Simon,It's always Sonny,637,90,True,294674,Nick,Vlastuin,RIC
-122,8258,9856,Simon,It's always Sonny,522,90,True,260227,Shaun,Higgins,NTH
-123,8258,9856,Simon,It's always Sonny,277,80,True,998260,Jack,Bowes,GCS
-124,8258,9856,Simon,It's always Sonny,777,73,True,990290,Tom,Barrass,WCE
-125,8258,9856,Simon,It's always Sonny,519,69,True,271129,Todd,Goldstein,NTH
-126,8258,9856,Simon,It's always Sonny,403,61,True,998205,Harry,Perryman,GWS
-127,8258,9856,Simon,It's always Sonny,557,39,True,1006121,Zak,Butters,PTA
-128,8258,9856,Simon,It's always Sonny,682,52,False,296422,Callum,Wilkie,STK
-129,8258,9856,Simon,It's always Sonny,796,0,False,294859,Jeremy,McGovern,WCE
-130,8258,9856,Simon,It's always Sonny,133,140,False,1006094,Sam,Walsh,CAR
-131,8258,9856,Simon,It's always Sonny,203,90,False,298630,Kyle,Langford,ESS
-132,10857,189,Anthony,The Full Bonty,490,177,True,996701,Clayton,Oliver,MEL
-133,10857,189,Anthony,The Full Bonty,455,164,True,297566,James,Sicily,HAW
-134,10857,189,Anthony,The Full Bonty,794,150,True,295898,Tim,Kelly,WCE
-135,10857,189,Anthony,The Full Bonty,337,148,True,281065,Mitch,Duncan,GEE
-136,10857,189,Anthony,The Full Bonty,207,124,True,998102,Andrew,McGrath,ESS
-137,10857,189,Anthony,The Full Bonty,633,110,True,992049,Jayden,Short,RIC
-138,10857,189,Anthony,The Full Bonty,734,108,True,293651,Hayden,Crozier,WBD
-139,10857,189,Anthony,The Full Bonty,576,106,True,997142,Peter,Ladhams,PTA
-140,10857,189,Anthony,The Full Bonty,559,99,True,991930,Darcy,Byrne-Jones,PTA
-141,10857,189,Anthony,The Full Bonty,51,97,True,998133,Jarrod,Berry,BRL
-142,10857,189,Anthony,The Full Bonty,214,96,True,993817,Darcy,Parish,ESS
-143,10857,189,Anthony,The Full Bonty,729,87,True,297373,Marcus,Bontempelli,WBD
-144,10857,189,Anthony,The Full Bonty,54,84,True,990609,Charlie,Cameron,BRL
-145,10857,189,Anthony,The Full Bonty,740,73,True,1004592,Tim,English,WBD
-146,10857,189,Anthony,The Full Bonty,322,65,True,298524,Lachie,Weller,GCS
-147,10857,189,Anthony,The Full Bonty,426,52,True,291351,Jack,Gunston,HAW
-148,10857,189,Anthony,The Full Bonty,377,48,True,293845,Jeremy,Cameron,GWS
-149,10857,189,Anthony,The Full Bonty,5,15,True,294307,Brad,Crouch,ADE
-150,10857,189,Anthony,The Full Bonty,415,0,False,294685,Zac,Williams,GWS
-151,10857,189,Anthony,The Full Bonty,173,0,False,280965,Steele,Sidebottom,COL
-152,10857,189,Anthony,The Full Bonty,676,67,False,293846,Sebastian,Ross,STK
-153,10857,189,Anthony,The Full Bonty,668,160,False,992468,Rowan,Marshall,STK
-154,300791,182,Paul,Coronaviney,211,135,True,992016,Zach,Merrett,ESS
-155,300791,182,Paul,Coronaviney,787,130,True,290801,Andrew,Gaff,WCE
-156,300791,182,Paul,Coronaviney,37,129,True,291748,Brodie,Smith,ADE
-157,300791,182,Paul,Coronaviney,501,118,True,291902,Jack,Viney,MEL
-158,300791,182,Paul,Coronaviney,414,116,True,294305,Lachie,Whitfield,GWS
-159,300791,182,Paul,Coronaviney,506,116,True,291861,Jed,Anderson,NTH
-160,300791,182,Paul,Coronaviney,128,115,True,998215,Will,Setterfield,CAR
-161,300791,182,Paul,Coronaviney,351,113,True,294199,Sam,Menegola,GEE
-162,300791,182,Paul,Coronaviney,593,100,True,294318,Ollie,Wines,PTA
-163,300791,182,Paul,Coronaviney,747,97,True,294101,Jason,Johannisen,WBD
-164,300791,182,Paul,Coronaviney,323,97,True,291975,Jarrod,Witts,GCS
-165,300791,182,Paul,Coronaviney,655,94,True,298421,Jade,Gresham,STK
-166,300791,182,Paul,Coronaviney,690,78,True,992242,Jordan,Dawson,SYD
-167,300791,182,Paul,Coronaviney,159,75,True,992010,Brayden,Maynard,COL
-168,300791,182,Paul,Coronaviney,47,68,True,996059,Harris,Andrews,BRL
-169,300791,182,Paul,Coronaviney,575,57,True,292145,Tom,Jonas,PTA
-170,300791,182,Paul,Coronaviney,102,57,True,296200,Michael,Gibbons,CAR
-171,300791,182,Paul,Coronaviney,22,45,True,270938,Tom,Lynch,ADE
-172,300791,182,Paul,Coronaviney,513,0,False,280921,Ben,Cunnington,NTH
-173,300791,182,Paul,Coronaviney,606,0,False,270896,Trent,Cotchin,RIC
-174,300791,182,Paul,Coronaviney,700,0,False,260382,Josh P.,Kennedy,SYD
-175,300791,182,Paul,Coronaviney,418,0,False,291327,Jonathon,Ceglar,HAW
+,coach_id,coach_team_id,coach_first_name,coach_team_name,player_id,points,on_field,feed_id,first_name,last_name,team,round_number,round_number_alt
+0,180650,33301,Jordan,"What's Up, Doch?",755,169,True,295467,Jack,Macrae,WBD,8,R8
+1,180650,33301,Jordan,"What's Up, Doch?",387,166,True,295344,Toby,Greene,GWS,8,R8
+2,180650,33301,Jordan,"What's Up, Doch?",469,157,True,290528,Max,Gawn,MEL,8,R8
+3,180650,33301,Jordan,"What's Up, Doch?",715,139,True,290307,Dane,Rampe,SYD,8,R8
+4,180650,33301,Jordan,"What's Up, Doch?",440,104,True,291856,Tom,Mitchell,HAW,8,R8
+5,180650,33301,Jordan,"What's Up, Doch?",392,95,True,993903,Jacob,Hopper,GWS,8,R8
+6,180650,33301,Jordan,"What's Up, Doch?",660,90,True,991988,Zak,Jones,STK,8,R8
+7,180650,33301,Jordan,"What's Up, Doch?",643,88,True,296351,Jack,Billings,STK,8,R8
+8,180650,33301,Jordan,"What's Up, Doch?",335,88,True,270917,Patrick,Dangerfield,GEE,8,R8
+9,180650,33301,Jordan,"What's Up, Doch?",112,80,True,296190,Jack,Martin,CAR,8,R8
+10,180650,33301,Jordan,"What's Up, Doch?",167,79,True,1008089,Isaac,Quaynor,COL,8,R8
+11,180650,33301,Jordan,"What's Up, Doch?",99,66,True,295518,Sam,Docherty,CAR,8,R8
+12,180650,33301,Jordan,"What's Up, Doch?",615,59,True,1002227,Jack,Higgins,RIC,8,R8
+13,180650,33301,Jordan,"What's Up, Doch?",82,57,True,290311,Mitch,Robinson,BRL,8,R8
+14,180650,33301,Jordan,"What's Up, Doch?",311,56,True,1001195,Izak,Rankine,GCS,8,R8
+15,180650,33301,Jordan,"What's Up, Doch?",570,47,True,261396,Robbie,Gray,PTA,8,R8
+16,180650,33301,Jordan,"What's Up, Doch?",610,45,True,1006276,Derek,Eggmolesse-Smith,RIC,8,R8
+17,180650,33301,Jordan,"What's Up, Doch?",228,45,True,295067,James,Aish,FRE,8,R8
+18,180650,33301,Jordan,"What's Up, Doch?",609,0,False,260930,Shane,Edwards,RIC,8,R8
+19,180650,33301,Jordan,"What's Up, Doch?",362,49,False,1004940,Sam,Simpson,GEE,8,R8
+20,180650,33301,Jordan,"What's Up, Doch?",587,0,False,270919,Tom,Rockliff,PTA,8,R8
+21,180650,33301,Jordan,"What's Up, Doch?",645,87,False,992374,Dan,Butler,STK,8,R8
+22,86078,9806,Lester,HoweIMetYourMother,67,147,True,293716,Jarryd,Lyons,BRL,8,R8
+23,86078,9806,Lester,HoweIMetYourMother,307,140,True,298272,Touk,Miller,GCS,8,R8
+24,86078,9806,Lester,HoweIMetYourMother,232,136,True,1002232,Andrew,Brayshaw,FRE,8,R8
+25,86078,9806,Lester,HoweIMetYourMother,34,118,True,294733,Paul,Seedsman,ADE,8,R8
+26,86078,9806,Lester,HoweIMetYourMother,789,114,True,240283,Shannon,Hurn,WCE,8,R8
+27,86078,9806,Lester,HoweIMetYourMother,709,110,True,993905,Callum,Mills,SYD,8,R8
+28,86078,9806,Lester,HoweIMetYourMother,620,108,True,290847,Dustin,Martin,RIC,8,R8
+29,86078,9806,Lester,HoweIMetYourMother,439,93,True,261323,Ben,McEvoy,HAW,8,R8
+30,86078,9806,Lester,HoweIMetYourMother,341,90,True,290550,Cameron,Guthrie,GEE,8,R8
+31,86078,9806,Lester,HoweIMetYourMother,366,89,True,291800,Tom,Stewart,GEE,8,R8
+32,86078,9806,Lester,HoweIMetYourMother,178,81,True,291790,Adam,Treloar,COL,8,R8
+33,86078,9806,Lester,HoweIMetYourMother,719,76,True,1006126,James,Rowbottom,SYD,8,R8
+34,86078,9806,Lester,HoweIMetYourMother,94,75,True,990704,Patrick,Cripps,CAR,8,R8
+35,86078,9806,Lester,HoweIMetYourMother,303,65,True,1004095,Jack,Lukosius,GCS,8,R8
+36,86078,9806,Lester,HoweIMetYourMother,807,44,True,296296,Dom,Sheed,WCE,8,R8
+37,86078,9806,Lester,HoweIMetYourMother,536,35,True,993998,Jy,Simpkin,NTH,8,R8
+38,86078,9806,Lester,HoweIMetYourMother,8,31,True,1000932,Tom,Doedee,ADE,8,R8
+39,86078,9806,Lester,HoweIMetYourMother,268,0,True,993816,Darcy,Tucker,FRE,8,R8
+40,86078,9806,Lester,HoweIMetYourMother,379,74,False,294508,Aidan,Corr,GWS,8,R8
+41,86078,9806,Lester,HoweIMetYourMother,616,0,False,250312,Bachar,Houli,RIC,8,R8
+42,86078,9806,Lester,HoweIMetYourMother,738,0,False,993834,Josh,Dunkley,WBD,8,R8
+43,86078,9806,Lester,HoweIMetYourMother,578,0,False,290746,Scott,Lycett,PTA,8,R8
+44,45168,5524,Luke,The Dragon's Laird,703,157,True,295342,Jake,Lloyd,SYD,8,R8
+45,45168,5524,Luke,The Dragon's Laird,76,152,True,293535,Lachie,Neale,BRL,8,R8
+46,45168,5524,Luke,The Dragon's Laird,534,136,True,290738,Jared,Polec,NTH,8,R8
+47,45168,5524,Luke,The Dragon's Laird,97,123,True,270146,Ed,Curnow,CAR,8,R8
+48,45168,5524,Luke,The Dragon's Laird,18,116,True,993946,Ben,Keays,ADE,8,R8
+49,45168,5524,Luke,The Dragon's Laird,217,114,True,1001026,Jordan,Ridley,ESS,8,R8
+50,45168,5524,Luke,The Dragon's Laird,411,111,True,998172,Tim,Taranto,GWS,8,R8
+51,45168,5524,Luke,The Dragon's Laird,761,104,True,1006130,Bailey,Smith,WBD,8,R8
+52,45168,5524,Luke,The Dragon's Laird,713,101,True,996765,Tom,Papley,SYD,8,R8
+53,45168,5524,Luke,The Dragon's Laird,21,97,True,293222,Rory,Laird,ADE,8,R8
+54,45168,5524,Luke,The Dragon's Laird,446,97,True,294613,Jaeger,O'Meara,HAW,8,R8
+55,45168,5524,Luke,The Dragon's Laird,565,91,True,261911,Brad,Ebert,PTA,8,R8
+56,45168,5524,Luke,The Dragon's Laird,146,89,True,293871,Jack,Crisp,COL,8,R8
+57,45168,5524,Luke,The Dragon's Laird,459,87,True,291962,Chad,Wingard,HAW,8,R8
+58,45168,5524,Luke,The Dragon's Laird,30,86,True,297523,Reilly,O'Brien,ADE,8,R8
+59,45168,5524,Luke,The Dragon's Laird,200,77,True,270935,Michael,Hurley,ESS,8,R8
+60,45168,5524,Luke,The Dragon's Laird,553,54,True,250365,Travis,Boak,PTA,8,R8
+61,45168,5524,Luke,The Dragon's Laird,456,42,True,294877,Isaac,Smith,HAW,8,R8
+62,45168,5524,Luke,The Dragon's Laird,208,38,False,997846,Conor,McKenna,ESS,8,R8
+63,45168,5524,Luke,The Dragon's Laird,36,0,False,270963,Rory,Sloane,ADE,8,R8
+64,45168,5524,Luke,The Dragon's Laird,628,0,False,290627,Dion,Prestia,RIC,8,R8
+65,45168,5524,Luke,The Dragon's Laird,746,0,False,294557,Lachie,Hunter,WBD,8,R8
+66,21562,186,Mark,GetRichOrDieTryin,397,195,True,296347,Josh,Kelly,GWS,8,R8
+67,21562,186,Mark,GetRichOrDieTryin,809,130,True,280078,Luke,Shuey,WCE,8,R8
+68,21562,186,Mark,GetRichOrDieTryin,261,118,True,998659,Luke,Ryan,FRE,8,R8
+69,21562,186,Mark,GetRichOrDieTryin,680,114,True,296205,Jack,Steele,STK,8,R8
+70,21562,186,Mark,GetRichOrDieTryin,6,111,True,297401,Matt,Crouch,ADE,8,R8
+71,21562,186,Mark,GetRichOrDieTryin,356,99,True,298419,Brandan,Parfitt,GEE,8,R8
+72,21562,186,Mark,GetRichOrDieTryin,617,90,True,290032,Kane,Lambert,RIC,8,R8
+73,21562,186,Mark,GetRichOrDieTryin,79,89,True,1002235,Cameron,Rayner,BRL,8,R8
+74,21562,186,Mark,GetRichOrDieTryin,562,88,True,280711,Charlie,Dixon,PTA,8,R8
+75,21562,186,Mark,GetRichOrDieTryin,343,87,True,261510,Tom,Hawkins,GEE,8,R8
+76,21562,186,Mark,GetRichOrDieTryin,808,80,True,281080,Brad,Sheppard,WCE,8,R8
+77,21562,186,Mark,GetRichOrDieTryin,460,77,True,1002222,James,Worpel,HAW,8,R8
+78,21562,186,Mark,GetRichOrDieTryin,574,67,True,994295,Dan,Houston,PTA,8,R8
+79,21562,186,Mark,GetRichOrDieTryin,151,61,True,293957,Brodie,Grundy,COL,8,R8
+80,21562,186,Mark,GetRichOrDieTryin,572,57,True,261892,Hamish,Hartlett,PTA,8,R8
+81,21562,186,Mark,GetRichOrDieTryin,613,27,True,990827,Jack,Graham,RIC,8,R8
+82,21562,186,Mark,GetRichOrDieTryin,80,22,True,271072,Daniel,Rich,BRL,8,R8
+83,21562,186,Mark,GetRichOrDieTryin,235,113,False,1002239,Adam,Cerra,FRE,8,R8
+84,21562,186,Mark,GetRichOrDieTryin,649,103,False,1002264,Hunter,Clark,STK,8,R8
+85,21562,186,Mark,GetRichOrDieTryin,165,0,False,260257,Scott,Pendlebury,COL,8,R8
+86,21562,186,Mark,GetRichOrDieTryin,361,0,False,250321,Joel,Selwood,GEE,8,R8
+87,21562,186,Mark,GetRichOrDieTryin,74,74,False,1005521,Oscar,McInerney,BRL,8,R8
+88,71052,9867,James,Bad Boys For Fyfe,72,131,True,1000978,Hugh,McCluggage,BRL,8,R8
+89,71052,9867,James,Bad Boys For Fyfe,736,128,True,295136,Caleb,Daniel,WBD,8,R8
+90,71052,9867,James,Bad Boys For Fyfe,370,113,True,292511,Zach,Tuohy,GEE,8,R8
+91,71052,9867,James,Bad Boys For Fyfe,714,113,True,290778,Luke,Parker,SYD,8,R8
+92,71052,9867,James,Bad Boys For Fyfe,378,109,True,291969,Stephen,Coniglio,GWS,8,R8
+93,71052,9867,James,Bad Boys For Fyfe,218,107,True,295461,Adam,Saad,ESS,8,R8
+94,71052,9867,James,Bad Boys For Fyfe,121,101,True,994539,Sam,Petrevski-Seton,CAR,8,R8
+95,71052,9867,James,Bad Boys For Fyfe,293,97,True,281091,Hugh,Greenwood,GCS,8,R8
+96,71052,9867,James,Bad Boys For Fyfe,115,92,True,250105,Marc,Murphy,CAR,8,R8
+97,71052,9867,James,Bad Boys For Fyfe,495,91,True,296359,Christian,Salem,MEL,8,R8
+98,71052,9867,James,Bad Boys For Fyfe,319,87,True,290832,David,Swallow,GCS,8,R8
+99,71052,9867,James,Bad Boys For Fyfe,752,84,True,1003130,Patrick,Lipinski,WBD,8,R8
+100,71052,9867,James,Bad Boys For Fyfe,797,84,True,271045,Nic,Naitanui,WCE,8,R8
+101,71052,9867,James,Bad Boys For Fyfe,481,79,True,298264,Ed,Langdon,MEL,8,R8
+102,71052,9867,James,Bad Boys For Fyfe,816,77,True,292128,Elliot,Yeo,WCE,8,R8
+103,71052,9867,James,Bad Boys For Fyfe,579,69,True,1004998,Todd,Marshall,PTA,8,R8
+104,71052,9867,James,Bad Boys For Fyfe,220,49,True,291771,Devon,Smith,ESS,8,R8
+105,71052,9867,James,Bad Boys For Fyfe,227,28,True,296294,Blake,Acres,FRE,8,R8
+106,71052,9867,James,Bad Boys For Fyfe,101,0,False,999827,Zac,Fisher,CAR,8,R8
+107,71052,9867,James,Bad Boys For Fyfe,219,0,False,291783,Dylan,Shiel,ESS,8,R8
+108,71052,9867,James,Bad Boys For Fyfe,244,0,False,291570,Nat,Fyfe,FRE,8,R8
+109,71052,9867,James,Bad Boys For Fyfe,124,53,False,298290,Marc,Pittonet,CAR,8,R8
+110,8258,9856,Simon,It's always Sonny,677,142,True,250267,Paddy,Ryder,STK,8,R8
+111,8258,9856,Simon,It's always Sonny,491,141,True,298210,Christian,Petracca,MEL,8,R8
+112,8258,9856,Simon,It's always Sonny,389,129,True,295265,Nick,Haynes,GWS,8,R8
+113,8258,9856,Simon,It's always Sonny,328,125,True,296733,Mark,Blicavs,GEE,8,R8
+114,8258,9856,Simon,It's always Sonny,516,122,True,296035,Trent,Dumont,NTH,8,R8
+115,8258,9856,Simon,It's always Sonny,270,115,True,281007,Michael,Walters,FRE,8,R8
+116,8258,9856,Simon,It's always Sonny,90,106,True,261224,Dayne,Zorko,BRL,8,R8
+117,8258,9856,Simon,It's always Sonny,751,103,True,290799,Tom,Liberatore,WBD,8,R8
+118,8258,9856,Simon,It's always Sonny,599,97,True,993993,Shai,Bolton,RIC,8,R8
+119,8258,9856,Simon,It's always Sonny,537,96,True,270325,Robbie,Tarrant,NTH,8,R8
+120,8258,9856,Simon,It's always Sonny,136,94,True,291776,Taylor,Adams,COL,8,R8
+121,8258,9856,Simon,It's always Sonny,637,90,True,294674,Nick,Vlastuin,RIC,8,R8
+122,8258,9856,Simon,It's always Sonny,522,90,True,260227,Shaun,Higgins,NTH,8,R8
+123,8258,9856,Simon,It's always Sonny,277,80,True,998260,Jack,Bowes,GCS,8,R8
+124,8258,9856,Simon,It's always Sonny,777,73,True,990290,Tom,Barrass,WCE,8,R8
+125,8258,9856,Simon,It's always Sonny,519,69,True,271129,Todd,Goldstein,NTH,8,R8
+126,8258,9856,Simon,It's always Sonny,403,61,True,998205,Harry,Perryman,GWS,8,R8
+127,8258,9856,Simon,It's always Sonny,557,39,True,1006121,Zak,Butters,PTA,8,R8
+128,8258,9856,Simon,It's always Sonny,682,52,False,296422,Callum,Wilkie,STK,8,R8
+129,8258,9856,Simon,It's always Sonny,796,0,False,294859,Jeremy,McGovern,WCE,8,R8
+130,8258,9856,Simon,It's always Sonny,133,140,False,1006094,Sam,Walsh,CAR,8,R8
+131,8258,9856,Simon,It's always Sonny,203,90,False,298630,Kyle,Langford,ESS,8,R8
+132,10857,189,Anthony,The Full Bonty,490,177,True,996701,Clayton,Oliver,MEL,8,R8
+133,10857,189,Anthony,The Full Bonty,455,164,True,297566,James,Sicily,HAW,8,R8
+134,10857,189,Anthony,The Full Bonty,794,150,True,295898,Tim,Kelly,WCE,8,R8
+135,10857,189,Anthony,The Full Bonty,337,148,True,281065,Mitch,Duncan,GEE,8,R8
+136,10857,189,Anthony,The Full Bonty,207,124,True,998102,Andrew,McGrath,ESS,8,R8
+137,10857,189,Anthony,The Full Bonty,633,110,True,992049,Jayden,Short,RIC,8,R8
+138,10857,189,Anthony,The Full Bonty,734,108,True,293651,Hayden,Crozier,WBD,8,R8
+139,10857,189,Anthony,The Full Bonty,576,106,True,997142,Peter,Ladhams,PTA,8,R8
+140,10857,189,Anthony,The Full Bonty,559,99,True,991930,Darcy,Byrne-Jones,PTA,8,R8
+141,10857,189,Anthony,The Full Bonty,51,97,True,998133,Jarrod,Berry,BRL,8,R8
+142,10857,189,Anthony,The Full Bonty,214,96,True,993817,Darcy,Parish,ESS,8,R8
+143,10857,189,Anthony,The Full Bonty,729,87,True,297373,Marcus,Bontempelli,WBD,8,R8
+144,10857,189,Anthony,The Full Bonty,54,84,True,990609,Charlie,Cameron,BRL,8,R8
+145,10857,189,Anthony,The Full Bonty,740,73,True,1004592,Tim,English,WBD,8,R8
+146,10857,189,Anthony,The Full Bonty,322,65,True,298524,Lachie,Weller,GCS,8,R8
+147,10857,189,Anthony,The Full Bonty,426,52,True,291351,Jack,Gunston,HAW,8,R8
+148,10857,189,Anthony,The Full Bonty,377,48,True,293845,Jeremy,Cameron,GWS,8,R8
+149,10857,189,Anthony,The Full Bonty,5,15,True,294307,Brad,Crouch,ADE,8,R8
+150,10857,189,Anthony,The Full Bonty,415,0,False,294685,Zac,Williams,GWS,8,R8
+151,10857,189,Anthony,The Full Bonty,173,0,False,280965,Steele,Sidebottom,COL,8,R8
+152,10857,189,Anthony,The Full Bonty,676,67,False,293846,Sebastian,Ross,STK,8,R8
+153,10857,189,Anthony,The Full Bonty,668,160,False,992468,Rowan,Marshall,STK,8,R8
+154,300791,182,Paul,Coronaviney,211,135,True,992016,Zach,Merrett,ESS,8,R8
+155,300791,182,Paul,Coronaviney,787,130,True,290801,Andrew,Gaff,WCE,8,R8
+156,300791,182,Paul,Coronaviney,37,129,True,291748,Brodie,Smith,ADE,8,R8
+157,300791,182,Paul,Coronaviney,501,118,True,291902,Jack,Viney,MEL,8,R8
+158,300791,182,Paul,Coronaviney,414,116,True,294305,Lachie,Whitfield,GWS,8,R8
+159,300791,182,Paul,Coronaviney,506,116,True,291861,Jed,Anderson,NTH,8,R8
+160,300791,182,Paul,Coronaviney,128,115,True,998215,Will,Setterfield,CAR,8,R8
+161,300791,182,Paul,Coronaviney,351,113,True,294199,Sam,Menegola,GEE,8,R8
+162,300791,182,Paul,Coronaviney,593,100,True,294318,Ollie,Wines,PTA,8,R8
+163,300791,182,Paul,Coronaviney,747,97,True,294101,Jason,Johannisen,WBD,8,R8
+164,300791,182,Paul,Coronaviney,323,97,True,291975,Jarrod,Witts,GCS,8,R8
+165,300791,182,Paul,Coronaviney,655,94,True,298421,Jade,Gresham,STK,8,R8
+166,300791,182,Paul,Coronaviney,690,78,True,992242,Jordan,Dawson,SYD,8,R8
+167,300791,182,Paul,Coronaviney,159,75,True,992010,Brayden,Maynard,COL,8,R8
+168,300791,182,Paul,Coronaviney,47,68,True,996059,Harris,Andrews,BRL,8,R8
+169,300791,182,Paul,Coronaviney,575,57,True,292145,Tom,Jonas,PTA,8,R8
+170,300791,182,Paul,Coronaviney,102,57,True,296200,Michael,Gibbons,CAR,8,R8
+171,300791,182,Paul,Coronaviney,22,45,True,270938,Tom,Lynch,ADE,8,R8
+172,300791,182,Paul,Coronaviney,513,0,False,280921,Ben,Cunnington,NTH,8,R8
+173,300791,182,Paul,Coronaviney,606,0,False,270896,Trent,Cotchin,RIC,8,R8
+174,300791,182,Paul,Coronaviney,700,0,False,260382,Josh P.,Kennedy,SYD,8,R8
+175,300791,182,Paul,Coronaviney,418,0,False,291327,Jonathon,Ceglar,HAW,8,R8
