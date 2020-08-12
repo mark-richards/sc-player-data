@@ -1,0 +1,81 @@
+,round_number,match_name,team_id,team_name,team_coach,team_points,opposition_team_id,opposition_team_name,opposition_team_coach,opposition_team_points,Rank,Opponent Rank
+0,1,Lester vs Simon,9806,HoweIMetYourMother,Lester,1827,9856,It's always Sonny,Simon,1476,1.0,8.0
+0,1,James vs Jordan,33301,"What's Up, Doch?",Jordan,1721,9867,Bad Boys For Fyfe,James,1623,2.0,7.0
+0,1,Anthony vs Luke,5524,The Dragon's Laird,Luke,1720,189,The Full Bonty,Anthony,1662,3.0,5.0
+0,1,Paul vs Mark,182,Coronaviney,Paul,1686,186,GetRichOrDieTryin,Mark,1657,4.0,6.0
+0,1,Anthony vs Luke,189,The Full Bonty,Anthony,1662,5524,The Dragon's Laird,Luke,1720,5.0,3.0
+0,1,Paul vs Mark,186,GetRichOrDieTryin,Mark,1657,182,Coronaviney,Paul,1686,6.0,4.0
+0,1,James vs Jordan,9867,Bad Boys For Fyfe,James,1623,33301,"What's Up, Doch?",Jordan,1721,7.0,2.0
+0,1,Lester vs Simon,9856,It's always Sonny,Simon,1476,9806,HoweIMetYourMother,Lester,1827,8.0,1.0
+0,2,James vs Luke,5524,The Dragon's Laird,Luke,1906,9867,Bad Boys For Fyfe,James,1538,1.0,8.0
+0,2,Jordan vs Simon,33301,"What's Up, Doch?",Jordan,1700,9856,It's always Sonny,Simon,1659,2.0,4.0
+0,2,Paul vs Anthony,182,Coronaviney,Paul,1676,189,The Full Bonty,Anthony,1653,3.0,6.0
+0,2,Jordan vs Simon,9856,It's always Sonny,Simon,1659,33301,"What's Up, Doch?",Jordan,1700,4.0,2.0
+0,2,Lester vs Mark,9806,HoweIMetYourMother,Lester,1658,186,GetRichOrDieTryin,Mark,1642,5.0,7.0
+0,2,Paul vs Anthony,189,The Full Bonty,Anthony,1653,182,Coronaviney,Paul,1676,6.0,3.0
+0,2,Lester vs Mark,186,GetRichOrDieTryin,Mark,1642,9806,HoweIMetYourMother,Lester,1658,7.0,5.0
+0,2,James vs Luke,9867,Bad Boys For Fyfe,James,1538,5524,The Dragon's Laird,Luke,1906,8.0,1.0
+0,3,Paul vs Lester,9806,HoweIMetYourMother,Lester,1679,182,Coronaviney,Paul,1590,1.0,3.0
+0,3,Simon vs Luke,5524,The Dragon's Laird,Luke,1659,9856,It's always Sonny,Simon,1497,2.0,5.0
+0,3,Paul vs Lester,182,Coronaviney,Paul,1590,9806,HoweIMetYourMother,Lester,1679,3.0,1.0
+0,3,Jordan vs Mark,186,GetRichOrDieTryin,Mark,1535,33301,"What's Up, Doch?",Jordan,1277,4.0,7.0
+0,3,Simon vs Luke,9856,It's always Sonny,Simon,1497,5524,The Dragon's Laird,Luke,1659,5.0,2.0
+0,3,James vs Anthony,189,The Full Bonty,Anthony,1411,9867,Bad Boys For Fyfe,James,1263,6.0,8.0
+0,3,Jordan vs Mark,33301,"What's Up, Doch?",Jordan,1277,186,GetRichOrDieTryin,Mark,1535,7.0,4.0
+0,3,James vs Anthony,9867,Bad Boys For Fyfe,James,1263,189,The Full Bonty,Anthony,1411,8.0,6.0
+0,4,Luke vs Mark,186,GetRichOrDieTryin,Mark,1810,5524,The Dragon's Laird,Luke,1700,1.0,2.0
+0,4,Luke vs Mark,5524,The Dragon's Laird,Luke,1700,186,GetRichOrDieTryin,Mark,1810,2.0,1.0
+0,4,Jordan vs Lester,33301,"What's Up, Doch?",Jordan,1674,9806,HoweIMetYourMother,Lester,1648,3.0,4.0
+0,4,Jordan vs Lester,9806,HoweIMetYourMother,Lester,1648,33301,"What's Up, Doch?",Jordan,1674,4.0,3.0
+0,4,Simon vs Anthony,189,The Full Bonty,Anthony,1558,9856,It's always Sonny,Simon,1528,5.0,6.0
+0,4,Simon vs Anthony,9856,It's always Sonny,Simon,1528,189,The Full Bonty,Anthony,1558,6.0,5.0
+0,4,Paul vs James,9867,Bad Boys For Fyfe,James,1468,182,Coronaviney,Paul,1443,7.0,8.0
+0,4,Paul vs James,182,Coronaviney,Paul,1443,9867,Bad Boys For Fyfe,James,1468,8.0,7.0
+0,5,Mark vs Anthony,186,GetRichOrDieTryin,Mark,1719,189,The Full Bonty,Anthony,1589,1.0,5.0
+0,5,Luke vs Lester,9806,HoweIMetYourMother,Lester,1646,5524,The Dragon's Laird,Luke,1591,2.0,4.0
+0,5,Paul vs Jordan,33301,"What's Up, Doch?",Jordan,1602,182,Coronaviney,Paul,1350,3.0,8.0
+0,5,Luke vs Lester,5524,The Dragon's Laird,Luke,1591,9806,HoweIMetYourMother,Lester,1646,4.0,2.0
+0,5,Mark vs Anthony,189,The Full Bonty,Anthony,1589,186,GetRichOrDieTryin,Mark,1719,5.0,1.0
+0,5,Simon vs James,9867,Bad Boys For Fyfe,James,1583,9856,It's always Sonny,Simon,1507,6.0,7.0
+0,5,Simon vs James,9856,It's always Sonny,Simon,1507,9867,Bad Boys For Fyfe,James,1583,7.0,6.0
+0,5,Paul vs Jordan,182,Coronaviney,Paul,1350,33301,"What's Up, Doch?",Jordan,1602,8.0,3.0
+0,6,Paul vs Simon,9856,It's always Sonny,Simon,1754,182,Coronaviney,Paul,1486,1.0,7.0
+0,6,Luke vs Jordan,33301,"What's Up, Doch?",Jordan,1688,5524,The Dragon's Laird,Luke,1428,2.0,8.0
+0,6,Anthony vs Lester,9806,HoweIMetYourMother,Lester,1675,189,The Full Bonty,Anthony,1541,3.0,5.0
+0,6,Mark vs James,186,GetRichOrDieTryin,Mark,1633,9867,Bad Boys For Fyfe,James,1519,4.0,6.0
+0,6,Anthony vs Lester,189,The Full Bonty,Anthony,1541,9806,HoweIMetYourMother,Lester,1675,5.0,3.0
+0,6,Mark vs James,9867,Bad Boys For Fyfe,James,1519,186,GetRichOrDieTryin,Mark,1633,6.0,4.0
+0,6,Paul vs Simon,182,Coronaviney,Paul,1486,9856,It's always Sonny,Simon,1754,7.0,1.0
+0,6,Luke vs Jordan,5524,The Dragon's Laird,Luke,1428,33301,"What's Up, Doch?",Jordan,1688,8.0,2.0
+0,7,Mark vs Simon,9856,It's always Sonny,Simon,1755,186,GetRichOrDieTryin,Mark,1645,1.0,5.0
+0,7,Paul vs Luke,5524,The Dragon's Laird,Luke,1664,182,Coronaviney,Paul,1648,2.0,4.0
+0,7,Lester vs James,9867,Bad Boys For Fyfe,James,1663,9806,HoweIMetYourMother,Lester,1578,3.0,7.0
+0,7,Paul vs Luke,182,Coronaviney,Paul,1648,5524,The Dragon's Laird,Luke,1664,4.0,2.0
+0,7,Mark vs Simon,186,GetRichOrDieTryin,Mark,1645,9856,It's always Sonny,Simon,1755,5.0,1.0
+0,7,Anthony vs Jordan,189,The Full Bonty,Anthony,1643,33301,"What's Up, Doch?",Jordan,1547,6.0,8.0
+0,7,Lester vs James,9806,HoweIMetYourMother,Lester,1578,9867,Bad Boys For Fyfe,James,1663,7.0,3.0
+0,7,Anthony vs Jordan,33301,"What's Up, Doch?",Jordan,1547,189,The Full Bonty,Anthony,1643,8.0,6.0
+0,8,Anthony vs Luke,5524,The Dragon's Laird,Luke,1834,189,The Full Bonty,Anthony,1803,1.0,2.0
+0,8,Anthony vs Luke,189,The Full Bonty,Anthony,1803,5524,The Dragon's Laird,Luke,1834,2.0,1.0
+0,8,Lester vs Simon,9856,It's always Sonny,Simon,1772,9806,HoweIMetYourMother,Lester,1552,3.0,7.0
+0,8,Paul vs Mark,182,Coronaviney,Paul,1740,186,GetRichOrDieTryin,Mark,1512,4.0,8.0
+0,8,James vs Jordan,9867,Bad Boys For Fyfe,James,1639,33301,"What's Up, Doch?",Jordan,1630,5.0,6.0
+0,8,James vs Jordan,33301,"What's Up, Doch?",Jordan,1630,9867,Bad Boys For Fyfe,James,1639,6.0,5.0
+0,8,Lester vs Simon,9806,HoweIMetYourMother,Lester,1552,9856,It's always Sonny,Simon,1772,7.0,3.0
+0,8,Paul vs Mark,186,GetRichOrDieTryin,Mark,1512,182,Coronaviney,Paul,1740,8.0,4.0
+0,9,Lester vs Mark,9806,HoweIMetYourMother,Lester,1875,186,GetRichOrDieTryin,Mark,1667,1.0,3.0
+0,9,James vs Luke,5524,The Dragon's Laird,Luke,1743,9867,Bad Boys For Fyfe,James,1497,2.0,8.0
+0,9,Lester vs Mark,186,GetRichOrDieTryin,Mark,1667,9806,HoweIMetYourMother,Lester,1875,3.0,1.0
+0,9,Paul vs Anthony,182,Coronaviney,Paul,1637,189,The Full Bonty,Anthony,1630,4.0,5.0
+0,9,Paul vs Anthony,189,The Full Bonty,Anthony,1630,182,Coronaviney,Paul,1637,5.0,4.0
+0,9,Jordan vs Simon,33301,"What's Up, Doch?",Jordan,1619,9856,It's always Sonny,Simon,1617,6.0,7.0
+0,9,Jordan vs Simon,9856,It's always Sonny,Simon,1617,33301,"What's Up, Doch?",Jordan,1619,7.0,6.0
+0,9,James vs Luke,9867,Bad Boys For Fyfe,James,1497,5524,The Dragon's Laird,Luke,1743,8.0,2.0
+0,10,James vs Anthony,189,The Full Bonty,Anthony,1792,9867,Bad Boys For Fyfe,James,1516,1.0,6.0
+0,10,Simon vs Luke,9856,It's always Sonny,Simon,1694,5524,The Dragon's Laird,Luke,1318,2.0,8.0
+0,10,Jordan vs Mark,33301,"What's Up, Doch?",Jordan,1598,186,GetRichOrDieTryin,Mark,1437,3.0,7.0
+0,10,Paul vs Lester,182,Coronaviney,Paul,1583,9806,HoweIMetYourMother,Lester,1548,4.0,5.0
+0,10,Paul vs Lester,9806,HoweIMetYourMother,Lester,1548,182,Coronaviney,Paul,1583,5.0,4.0
+0,10,James vs Anthony,9867,Bad Boys For Fyfe,James,1516,189,The Full Bonty,Anthony,1792,6.0,1.0
+0,10,Jordan vs Mark,186,GetRichOrDieTryin,Mark,1437,33301,"What's Up, Doch?",Jordan,1598,7.0,3.0
+0,10,Simon vs Luke,5524,The Dragon's Laird,Luke,1318,9856,It's always Sonny,Simon,1694,8.0,2.0
