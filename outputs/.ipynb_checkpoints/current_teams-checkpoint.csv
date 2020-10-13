@@ -1,0 +1,177 @@
+,player_id,trade_status,user_team_id,waiver_until,feed_id,first_name,last_name,team,position,coach_id,coach_team_id,coach_first_name,coach_team_name
+0,151,owner,186.0,,293957,Brodie,Grundy,COL,RUC,21562,186,Mark,GetRichOrDieTryin
+1,469,owner,33301.0,,290528,Max,Gawn,MEL,RUC,180650,33301,Jordan,"What's Up, Doch?"
+2,755,owner,33301.0,,295467,Jack,Macrae,WBD,MID,180650,33301,Jordan,"What's Up, Doch?"
+3,76,owner,5524.0,,293535,Lachie,Neale,BRL,MID,45168,5524,Luke,The Dragon's Laird
+4,244,owner,9867.0,,291570,Nat,Fyfe,FRE,MID,71052,9867,James,Bad Boys For Fyfe
+5,397,owner,186.0,,296347,Josh,Kelly,GWS,MID,21562,186,Mark,GetRichOrDieTryin
+6,94,owner,9806.0,,990704,Patrick,Cripps,CAR,MID,86078,9806,Lester,HoweIMetYourMother
+7,738,owner,9806.0,,993834,Josh,Dunkley,WBD,MID,86078,9806,Lester,HoweIMetYourMother
+8,440,owner,33301.0,,291856,Tom,Mitchell,HAW,MID,180650,33301,Jordan,"What's Up, Doch?"
+9,335,owner,33301.0,,270917,Patrick,Dangerfield,GEE,MID,180650,33301,Jordan,"What's Up, Doch?"
+10,729,owner,189.0,,297373,Marcus,Bontempelli,WBD,MID,10857,189,Anthony,The Full Bonty
+11,178,owner,9806.0,,291790,Adam,Treloar,COL,MID,86078,9806,Lester,HoweIMetYourMother
+12,519,owner,9856.0,,271129,Todd,Goldstein,NTH,RUC,8258,9856,Simon,It's always Sonny
+13,414,owner,182.0,,294305,Lachie,Whitfield,GWS,FWD MID,300791,182,Paul,Coronaviney
+14,668,owner,189.0,,992468,Rowan,Marshall,STK,RUC,10857,189,Anthony,The Full Bonty
+15,490,owner,189.0,,996701,Clayton,Oliver,MEL,MID,10857,189,Anthony,The Full Bonty
+16,703,owner,5524.0,,295342,Jake,Lloyd,SYD,DEF,45168,5524,Luke,The Dragon's Laird
+17,816,owner,9867.0,,292128,Elliot,Yeo,WCE,MID,71052,9867,James,Bad Boys For Fyfe
+18,787,owner,182.0,,290801,Andrew,Gaff,WCE,MID,300791,182,Paul,Coronaviney
+19,553,owner,5524.0,,250365,Travis,Boak,PTA,MID,45168,5524,Luke,The Dragon's Laird
+20,90,owner,9856.0,,261224,Dayne,Zorko,BRL,MID,8258,9856,Simon,It's always Sonny
+21,700,owner,182.0,,260382,Josh P.,Kennedy,SYD,MID,300791,182,Paul,Coronaviney
+22,211,owner,182.0,,992016,Zach,Merrett,ESS,MID,300791,182,Paul,Coronaviney
+23,616,owner,9806.0,,250312,Bachar,Houli,RIC,DEF,86078,9806,Lester,HoweIMetYourMother
+24,714,owner,9867.0,,290778,Luke,Parker,SYD,MID,71052,9867,James,Bad Boys For Fyfe
+25,165,owner,186.0,,260257,Scott,Pendlebury,COL,MID,21562,186,Mark,GetRichOrDieTryin
+26,6,owner,186.0,,297401,Matt,Crouch,ADE,MID,21562,186,Mark,GetRichOrDieTryin
+27,789,owner,9806.0,,240283,Shannon,Hurn,WCE,DEF,86078,9806,Lester,HoweIMetYourMother
+28,794,owner,186.0,,295898,Tim,Kelly,WCE,MID,21562,186,Mark,GetRichOrDieTryin
+29,337,owner,189.0,,281065,Mitch,Duncan,GEE,MID,10857,189,Anthony,The Full Bonty
+30,36,owner,5524.0,,270963,Rory,Sloane,ADE,MID,45168,5524,Luke,The Dragon's Laird
+31,411,owner,5524.0,,998172,Tim,Taranto,GWS,MID,45168,5524,Luke,The Dragon's Laird
+32,415,owner,189.0,,294685,Zac,Williams,GWS,DEF,10857,189,Anthony,The Full Bonty
+33,578,owner,9806.0,,290746,Scott,Lycett,PTA,RUC,86078,9806,Lester,HoweIMetYourMother
+34,628,owner,5524.0,,290627,Dion,Prestia,RIC,MID,45168,5524,Luke,The Dragon's Laird
+35,378,owner,9867.0,,291969,Stephen,Coniglio,GWS,MID,71052,9867,James,Bad Boys For Fyfe
+36,809,owner,186.0,,280078,Luke,Shuey,WCE,MID,21562,186,Mark,GetRichOrDieTryin
+37,270,owner,9856.0,,281007,Michael,Walters,FRE,FWD MID,8258,9856,Simon,It's always Sonny
+38,620,owner,9806.0,,290847,Dustin,Martin,RIC,FWD MID,86078,9806,Lester,HoweIMetYourMother
+39,323,owner,182.0,,291975,Jarrod,Witts,GCS,RUC,300791,182,Paul,Coronaviney
+40,736,owner,9867.0,,295136,Caleb,Daniel,WBD,DEF,71052,9867,James,Bad Boys For Fyfe
+41,67,owner,9806.0,,293716,Jarryd,Lyons,BRL,MID,86078,9806,Lester,HoweIMetYourMother
+42,5,owner,33301.0,,294307,Brad,Crouch,ADE,MID,180650,33301,Jordan,"What's Up, Doch?"
+43,366,owner,9806.0,,291800,Tom,Stewart,GEE,DEF,86078,9806,Lester,HoweIMetYourMother
+44,219,owner,9867.0,,291783,Dylan,Shiel,ESS,MID,71052,9867,James,Bad Boys For Fyfe
+45,715,owner,33301.0,,290307,Dane,Rampe,SYD,DEF,180650,33301,Jordan,"What's Up, Doch?"
+46,460,owner,186.0,,1002222,James,Worpel,HAW,MID,21562,186,Mark,GetRichOrDieTryin
+47,21,owner,5524.0,,293222,Rory,Laird,ADE,DEF,45168,5524,Luke,The Dragon's Laird
+48,80,owner,186.0,,271072,Daniel,Rich,BRL,DEF,21562,186,Mark,GetRichOrDieTryin
+49,136,owner,9856.0,,291776,Taylor,Adams,COL,MID,8258,9856,Simon,It's always Sonny
+50,261,owner,186.0,,998659,Luke,Ryan,FRE,DEF,21562,186,Mark,GetRichOrDieTryin
+51,392,owner,33301.0,,993903,Jacob,Hopper,GWS,MID,180650,33301,Jordan,"What's Up, Doch?"
+52,30,owner,5524.0,,297523,Reilly,O'Brien,ADE,RUC,45168,5524,Luke,The Dragon's Laird
+53,746,owner,5524.0,,294557,Lachie,Hunter,WBD,MID,45168,5524,Luke,The Dragon's Laird
+54,807,owner,189.0,,296296,Dom,Sheed,WCE,MID,10857,189,Anthony,The Full Bonty
+55,680,owner,186.0,,296205,Jack,Steele,STK,MID,21562,186,Mark,GetRichOrDieTryin
+56,522,owner,9856.0,,260227,Shaun,Higgins,NTH,MID,8258,9856,Simon,It's always Sonny
+57,173,owner,189.0,,280965,Steele,Sidebottom,COL,MID,10857,189,Anthony,The Full Bonty
+58,413,owner,9856.0,,280109,Callan,Ward,GWS,MID,8258,9856,Simon,It's always Sonny
+59,72,owner,9867.0,,1000978,Hugh,McCluggage,BRL,MID,71052,9867,James,Bad Boys For Fyfe
+60,387,owner,33301.0,,295344,Toby,Greene,GWS,FWD,180650,33301,Jordan,"What's Up, Doch?"
+61,455,owner,189.0,,297566,James,Sicily,HAW,DEF,10857,189,Anthony,The Full Bonty
+62,643,owner,33301.0,,296351,Jack,Billings,STK,MID,180650,33301,Jordan,"What's Up, Doch?"
+63,377,owner,189.0,,293845,Jeremy,Cameron,GWS,FWD,10857,189,Anthony,The Full Bonty
+64,637,owner,9856.0,,294674,Nick,Vlastuin,RIC,DEF,8258,9856,Simon,It's always Sonny
+65,587,owner,33301.0,,270919,Tom,Rockliff,PTA,MID,180650,33301,Jordan,"What's Up, Doch?"
+66,97,owner,5524.0,,270146,Ed,Curnow,CAR,MID,45168,5524,Luke,The Dragon's Laird
+67,495,owner,9867.0,,296359,Christian,Salem,MEL,DEF,71052,9867,James,Bad Boys For Fyfe
+68,446,owner,5524.0,,294613,Jaeger,O'Meara,HAW,MID,45168,5524,Luke,The Dragon's Laird
+69,574,owner,186.0,,994295,Dan,Houston,PTA,DEF MID,21562,186,Mark,GetRichOrDieTryin
+70,146,owner,5524.0,,293871,Jack,Crisp,COL,DEF,45168,5524,Luke,The Dragon's Laird
+71,37,owner,182.0,,291748,Brodie,Smith,ADE,DEF,300791,182,Paul,Coronaviney
+72,322,owner,189.0,,298524,Lachie,Weller,GCS,DEF,10857,189,Anthony,The Full Bonty
+73,593,owner,182.0,,294318,Ollie,Wines,PTA,MID,300791,182,Paul,Coronaviney
+74,617,owner,189.0,,290032,Kane,Lambert,RIC,FWD,10857,189,Anthony,The Full Bonty
+75,796,owner,9856.0,,294859,Jeremy,McGovern,WCE,DEF,8258,9856,Simon,It's always Sonny
+76,389,owner,9856.0,,295265,Nick,Haynes,GWS,DEF,8258,9856,Simon,It's always Sonny
+77,559,owner,189.0,,991930,Darcy,Byrne-Jones,PTA,DEF,10857,189,Anthony,The Full Bonty
+78,133,owner,9856.0,,1006094,Sam,Walsh,CAR,MID,8258,9856,Simon,It's always Sonny
+79,506,owner,182.0,,291861,Jed,Anderson,NTH,MID,300791,182,Paul,Coronaviney
+80,363,owner,33301.0,,280317,Rhys,Stanley,GEE,RUC,180650,33301,Jordan,"What's Up, Doch?"
+81,481,owner,9867.0,,298264,Ed,Langdon,MEL,MID,71052,9867,James,Bad Boys For Fyfe
+82,361,owner,186.0,,250321,Joel,Selwood,GEE,MID,21562,186,Mark,GetRichOrDieTryin
+83,214,owner,189.0,,993817,Darcy,Parish,ESS,FWD MID,10857,189,Anthony,The Full Bonty
+84,660,owner,33301.0,,991988,Zak,Jones,STK,MID,180650,33301,Jordan,"What's Up, Doch?"
+85,343,owner,186.0,,261510,Tom,Hawkins,GEE,FWD,21562,186,Mark,GetRichOrDieTryin
+86,293,owner,9867.0,,281091,Hugh,Greenwood,GCS,FWD MID,71052,9867,James,Bad Boys For Fyfe
+87,51,owner,189.0,,998133,Jarrod,Berry,BRL,MID,10857,189,Anthony,The Full Bonty
+88,307,owner,9806.0,,298272,Touk,Miller,GCS,MID,86078,9806,Lester,HoweIMetYourMother
+89,783,owner,186.0,,290838,Jack,Darling,WCE,FWD,21562,186,Mark,GetRichOrDieTryin
+90,747,owner,182.0,,294101,Jason,Johannisen,WBD,DEF,300791,182,Paul,Coronaviney
+91,797,owner,9867.0,,271045,Nic,Naitanui,WCE,RUC,71052,9867,James,Bad Boys For Fyfe
+92,808,owner,186.0,,281080,Brad,Sheppard,WCE,DEF,21562,186,Mark,GetRichOrDieTryin
+93,516,owner,9856.0,,296035,Trent,Dumont,NTH,MID,8258,9856,Simon,It's always Sonny
+94,767,owner,182.0,,291545,Mitch,Wallis,WBD,FWD MID,300791,182,Paul,Coronaviney
+95,570,owner,33301.0,,261396,Robbie,Gray,PTA,FWD MID,180650,33301,Jordan,"What's Up, Doch?"
+96,464,owner,9867.0,,298279,Angus,Brayshaw,MEL,MID,71052,9867,James,Bad Boys For Fyfe
+97,47,owner,182.0,,996059,Harris,Andrews,BRL,DEF,300791,182,Paul,Coronaviney
+98,328,owner,9856.0,,296733,Mark,Blicavs,GEE,DEF,8258,9856,Simon,It's always Sonny
+99,677,owner,9856.0,,250267,Paddy,Ryder,STK,RUC FWD,8258,9856,Simon,It's always Sonny
+100,740,owner,189.0,,1004592,Tim,English,WBD,RUC,10857,189,Anthony,The Full Bonty
+101,537,owner,9856.0,,270325,Robbie,Tarrant,NTH,DEF,8258,9856,Simon,It's always Sonny
+102,751,owner,9856.0,,290799,Tom,Liberatore,WBD,MID,8258,9856,Simon,It's always Sonny
+103,709,owner,9806.0,,993905,Callum,Mills,SYD,DEF,86078,9806,Lester,HoweIMetYourMother
+104,218,owner,9867.0,,295461,Adam,Saad,ESS,DEF,71052,9867,James,Bad Boys For Fyfe
+105,121,owner,9867.0,,994539,Sam,Petrevski-Seton,CAR,DEF MID,71052,9867,James,Bad Boys For Fyfe
+106,351,owner,182.0,,294199,Sam,Menegola,GEE,MID,300791,182,Paul,Coronaviney
+107,752,owner,9867.0,,1003130,Patrick,Lipinski,WBD,FWD MID,71052,9867,James,Bad Boys For Fyfe
+108,491,owner,9856.0,,298210,Christian,Petracca,MEL,FWD,8258,9856,Simon,It's always Sonny
+109,501,owner,182.0,,291902,Jack,Viney,MEL,MID,300791,182,Paul,Coronaviney
+110,689,owner,186.0,,291978,Harry,Cunningham,SYD,DEF,21562,186,Mark,GetRichOrDieTryin
+111,99,owner,33301.0,,295518,Sam,Docherty,CAR,DEF,180650,33301,Jordan,"What's Up, Doch?"
+112,572,owner,189.0,,261892,Hamish,Hartlett,PTA,DEF,10857,189,Anthony,The Full Bonty
+113,159,owner,182.0,,992010,Brayden,Maynard,COL,DEF,300791,182,Paul,Coronaviney
+114,426,owner,186.0,,291351,Jack,Gunston,HAW,FWD,21562,186,Mark,GetRichOrDieTryin
+115,54,owner,189.0,,990609,Charlie,Cameron,BRL,FWD,10857,189,Anthony,The Full Bonty
+116,200,owner,5524.0,,270935,Michael,Hurley,ESS,DEF,45168,5524,Luke,The Dragon's Laird
+117,606,owner,182.0,,270896,Trent,Cotchin,RIC,MID,300791,182,Paul,Coronaviney
+118,356,owner,186.0,,298419,Brandan,Parfitt,GEE,FWD MID,21562,186,Mark,GetRichOrDieTryin
+119,713,owner,5524.0,,996765,Tom,Papley,SYD,FWD,45168,5524,Luke,The Dragon's Laird
+120,112,owner,33301.0,,296190,Jack,Martin,CAR,FWD MID,180650,33301,Jordan,"What's Up, Doch?"
+121,679,owner,5524.0,,994389,Jack,Sinclair,STK,FWD MID,45168,5524,Luke,The Dragon's Laird
+122,416,owner,9856.0,,280744,Luke,Breust,HAW,FWD,8258,9856,Simon,It's always Sonny
+123,418,owner,182.0,,291327,Jonathon,Ceglar,HAW,RUC FWD,300791,182,Paul,Coronaviney
+124,761,owner,5524.0,,1006130,Bailey,Smith,WBD,FWD MID,45168,5524,Luke,The Dragon's Laird
+125,565,owner,9856.0,,261911,Brad,Ebert,PTA,FWD,8258,9856,Simon,It's always Sonny
+126,341,owner,9806.0,,290550,Cameron,Guthrie,GEE,MID,86078,9806,Lester,HoweIMetYourMother
+127,459,owner,5524.0,,291962,Chad,Wingard,HAW,FWD MID,45168,5524,Luke,The Dragon's Laird
+128,277,owner,5524.0,,998260,Jack,Bowes,GCS,MID,45168,5524,Luke,The Dragon's Laird
+129,162,owner,9867.0,,298288,Darcy,Moore,COL,DEF,71052,9867,James,Bad Boys For Fyfe
+130,597,owner,33301.0,,1000223,Liam,Baker,RIC,DEF FWD,180650,33301,Jordan,"What's Up, Doch?"
+131,28,owner,189.0,,990882,Wayne,Milera,ADE,DEF MID,10857,189,Anthony,The Full Bonty
+132,649,owner,5524.0,,1002264,Hunter,Clark,STK,DEF,45168,5524,Luke,The Dragon's Laird
+133,203,owner,182.0,,298630,Kyle,Langford,ESS,FWD MID,300791,182,Paul,Coronaviney
+134,614,owner,9856.0,,280819,Dylan,Grimes,RIC,DEF,8258,9856,Simon,It's always Sonny
+135,207,owner,189.0,,998102,Andrew,McGrath,ESS,MID,10857,189,Anthony,The Full Bonty
+136,88,owner,9806.0,,998128,Alex,Witherden,BRL,DEF,86078,9806,Lester,HoweIMetYourMother
+137,486,owner,186.0,,291533,Tom,McDonald,MEL,FWD,21562,186,Mark,GetRichOrDieTryin
+138,370,owner,9867.0,,292511,Zach,Tuohy,GEE,DEF,71052,9867,James,Bad Boys For Fyfe
+139,482,owner,182.0,,298281,Jake,Lever,MEL,DEF,300791,182,Paul,Coronaviney
+140,484,owner,33301.0,,281085,Steven,May,MEL,DEF,180650,33301,Jordan,"What's Up, Doch?"
+141,536,owner,9806.0,,993998,Jy,Simpkin,NTH,FWD MID,86078,9806,Lester,HoweIMetYourMother
+142,232,owner,9806.0,,1002232,Andrew,Brayshaw,FRE,FWD MID,86078,9806,Lester,HoweIMetYourMother
+143,599,owner,9856.0,,993993,Shai,Bolton,RIC,FWD,8258,9856,Simon,It's always Sonny
+144,272,owner,9867.0,,294125,Nathan,Wilson,FRE,DEF,71052,9867,James,Bad Boys For Fyfe
+145,74,owner,186.0,,1005521,Oscar,McInerney,BRL,RUC FWD,21562,186,Mark,GetRichOrDieTryin
+146,365,owner,182.0,,270912,Jack,Steven,GEE,FWD MID,300791,182,Paul,Coronaviney
+147,776,owner,189.0,,1004385,Oscar,Allen,WCE,FWD,10857,189,Anthony,The Full Bonty
+148,101,owner,9867.0,,999827,Zac,Fisher,CAR,FWD MID,71052,9867,James,Bad Boys For Fyfe
+149,562,owner,186.0,,280711,Charlie,Dixon,PTA,FWD,21562,186,Mark,GetRichOrDieTryin
+150,633,owner,189.0,,992049,Jayden,Short,RIC,DEF,10857,189,Anthony,The Full Bonty
+151,514,owner,9806.0,,1002267,Luke,Davies-Uniacke,NTH,FWD MID,86078,9806,Lester,HoweIMetYourMother
+152,235,owner,33301.0,,1002239,Adam,Cerra,FRE,DEF,180650,33301,Jordan,"What's Up, Doch?"
+153,719,owner,9806.0,,1006126,James,Rowbottom,SYD,FWD MID,86078,9806,Lester,HoweIMetYourMother
+154,220,owner,9867.0,,291771,Devon,Smith,ESS,FWD MID,71052,9867,James,Bad Boys For Fyfe
+155,795,owner,182.0,,240406,Josh J.,Kennedy,WCE,FWD,300791,182,Paul,Coronaviney
+156,128,owner,9806.0,,998215,Will,Setterfield,CAR,MID,86078,9806,Lester,HoweIMetYourMother
+157,493,owner,5524.0,,992644,Braydon,Preuss,MEL,RUC FWD,45168,5524,Luke,The Dragon's Laird
+158,274,owner,33301.0,,998130,Ben,Ainsworth,GCS,FWD MID,180650,33301,Jordan,"What's Up, Doch?"
+159,557,owner,9856.0,,1006121,Zak,Butters,PTA,FWD,8258,9856,Simon,It's always Sonny
+160,281,owner,9856.0,,295446,Sam,Collins,GCS,DEF,8258,9856,Simon,It's always Sonny
+161,528,owner,186.0,,296355,Luke,McDonald,NTH,DEF,21562,186,Mark,GetRichOrDieTryin
+162,576,owner,189.0,,997142,Peter,Ladhams,PTA,RUC FWD,10857,189,Anthony,The Full Bonty
+163,217,owner,5524.0,,1001026,Jordan,Ridley,ESS,DEF,45168,5524,Luke,The Dragon's Laird
+164,107,owner,9806.0,,1001398,Matthew,Kennedy,CAR,FWD,86078,9806,Lester,HoweIMetYourMother
+165,770,owner,182.0,,992351,Bailey,Williams,WBD,DEF,300791,182,Paul,Coronaviney
+166,693,owner,9867.0,,291848,Robbie,Fox,SYD,DEF FWD,71052,9867,James,Bad Boys For Fyfe
+167,665,owner,182.0,,993917,Ben,Long,STK,FWD,300791,182,Paul,Coronaviney
+168,303,owner,9806.0,,1004095,Jack,Lukosius,GCS,DEF FWD,86078,9806,Lester,HoweIMetYourMother
+169,18,owner,5524.0,,993946,Ben,Keays,ADE,FWD,45168,5524,Luke,The Dragon's Laird
+170,49,owner,9806.0,,1002312,Zac,Bailey,BRL,DEF MID,86078,9806,Lester,HoweIMetYourMother
+171,645,owner,33301.0,,992374,Dan,Butler,STK,FWD,180650,33301,Jordan,"What's Up, Doch?"
+172,379,owner,33301.0,,294508,Aidan,Corr,GWS,DEF,180650,33301,Jordan,"What's Up, Doch?"
+173,38,owner,9867.0,,997230,Tyson,Stengle,ADE,FWD,71052,9867,James,Bad Boys For Fyfe
+174,263,owner,9806.0,,1009420,Caleb,Serong,FRE,MID,86078,9806,Lester,HoweIMetYourMother
+175,311,owner,33301.0,,1001195,Izak,Rankine,GCS,FWD,180650,33301,Jordan,"What's Up, Doch?"

@@ -1,0 +1,2113 @@
+,round,coach_id,coach_team_id,coach_first_name,coach_team_name,player_id,played_position,points,on_field,feed_id,first_name,last_name,team,position,round_number_alt
+0,1,86078,9806,Lester,HoweIMetYourMother,153,DEF,156,True,291313,Jeremy,Howe,COL,DEF,R1
+1,2,86078,9806,Lester,HoweIMetYourMother,153,DEF,126,True,291313,Jeremy,Howe,COL,DEF,R2
+2,3,86078,9806,Lester,HoweIMetYourMother,153,DEF,88,True,291313,Jeremy,Howe,COL,DEF,R3
+3,4,86078,9806,Lester,HoweIMetYourMother,153,DEF,112,True,291313,Jeremy,Howe,COL,DEF,R4
+4,1,86078,9806,Lester,HoweIMetYourMother,789,DEF,152,True,240283,Shannon,Hurn,WCE,DEF,R1
+5,2,86078,9806,Lester,HoweIMetYourMother,789,DEF,73,True,240283,Shannon,Hurn,WCE,DEF,R2
+6,3,86078,9806,Lester,HoweIMetYourMother,789,DEF,89,True,240283,Shannon,Hurn,WCE,DEF,R3
+7,4,86078,9806,Lester,HoweIMetYourMother,789,DEF,86,True,240283,Shannon,Hurn,WCE,DEF,R4
+8,5,86078,9806,Lester,HoweIMetYourMother,789,DEF,68,True,240283,Shannon,Hurn,WCE,DEF,R5
+9,6,86078,9806,Lester,HoweIMetYourMother,789,DEF,39,True,240283,Shannon,Hurn,WCE,DEF,R6
+10,7,86078,9806,Lester,HoweIMetYourMother,789,DEF,93,True,240283,Shannon,Hurn,WCE,DEF,R7
+11,8,86078,9806,Lester,HoweIMetYourMother,789,DEF,114,True,240283,Shannon,Hurn,WCE,DEF,R8
+12,9,86078,9806,Lester,HoweIMetYourMother,789,DEF,63,True,240283,Shannon,Hurn,WCE,DEF,R9
+13,10,86078,9806,Lester,HoweIMetYourMother,789,DEF,0,False,240283,Shannon,Hurn,WCE,DEF,R10
+14,11,86078,9806,Lester,HoweIMetYourMother,789,DEF,68,True,240283,Shannon,Hurn,WCE,DEF,R11
+15,12,86078,9806,Lester,HoweIMetYourMother,789,DEF,95,True,240283,Shannon,Hurn,WCE,DEF,R12
+16,1,86078,9806,Lester,HoweIMetYourMother,536,FWD,131,True,993998,Jy,Simpkin,NTH,FWD MID,R1
+17,2,86078,9806,Lester,HoweIMetYourMother,536,FWD,104,True,993998,Jy,Simpkin,NTH,FWD MID,R2
+18,3,86078,9806,Lester,HoweIMetYourMother,536,FWD,140,True,993998,Jy,Simpkin,NTH,FWD MID,R3
+19,4,86078,9806,Lester,HoweIMetYourMother,536,FWD,119,True,993998,Jy,Simpkin,NTH,FWD MID,R4
+20,5,86078,9806,Lester,HoweIMetYourMother,536,FWD,97,True,993998,Jy,Simpkin,NTH,FWD MID,R5
+21,6,86078,9806,Lester,HoweIMetYourMother,536,FWD,127,True,993998,Jy,Simpkin,NTH,FWD MID,R6
+22,7,86078,9806,Lester,HoweIMetYourMother,536,FWD,57,True,993998,Jy,Simpkin,NTH,FWD MID,R7
+23,8,86078,9806,Lester,HoweIMetYourMother,536,FWD,35,True,993998,Jy,Simpkin,NTH,FWD MID,R8
+24,9,86078,9806,Lester,HoweIMetYourMother,536,FWD,56,True,993998,Jy,Simpkin,NTH,FWD MID,R9
+25,10,86078,9806,Lester,HoweIMetYourMother,536,FWD,103,True,993998,Jy,Simpkin,NTH,FWD MID,R10
+26,11,86078,9806,Lester,HoweIMetYourMother,536,FWD,74,True,993998,Jy,Simpkin,NTH,FWD MID,R11
+27,12,86078,9806,Lester,HoweIMetYourMother,536,FWD,105,True,993998,Jy,Simpkin,NTH,FWD MID,R12
+28,1,86078,9806,Lester,HoweIMetYourMother,700,MID,129,True,260382,Josh P.,Kennedy,SYD,MID,R1
+29,2,86078,9806,Lester,HoweIMetYourMother,700,MID,91,True,260382,Josh P.,Kennedy,SYD,MID,R2
+30,3,86078,9806,Lester,HoweIMetYourMother,700,MID,126,True,260382,Josh P.,Kennedy,SYD,MID,R3
+31,4,86078,9806,Lester,HoweIMetYourMother,700,MID,93,True,260382,Josh P.,Kennedy,SYD,MID,R4
+32,5,86078,9806,Lester,HoweIMetYourMother,700,MID,85,True,260382,Josh P.,Kennedy,SYD,MID,R5
+33,6,300791,182,Paul,Coronaviney,700,MID,18,True,260382,Josh P.,Kennedy,SYD,MID,R6
+34,7,300791,182,Paul,Coronaviney,700,MID,0,False,260382,Josh P.,Kennedy,SYD,MID,R7
+35,8,300791,182,Paul,Coronaviney,700,MID,0,False,260382,Josh P.,Kennedy,SYD,MID,R8
+36,9,300791,182,Paul,Coronaviney,700,MID,0,False,260382,Josh P.,Kennedy,SYD,MID,R9
+37,10,300791,182,Paul,Coronaviney,700,MID,0,False,260382,Josh P.,Kennedy,SYD,MID,R10
+38,11,300791,182,Paul,Coronaviney,700,MID,0,False,260382,Josh P.,Kennedy,SYD,MID,R11
+39,12,300791,182,Paul,Coronaviney,700,MID,0,False,260382,Josh P.,Kennedy,SYD,MID,R12
+40,1,86078,9806,Lester,HoweIMetYourMother,807,MID,128,True,296296,Dom,Sheed,WCE,MID,R1
+41,2,86078,9806,Lester,HoweIMetYourMother,807,MID,77,True,296296,Dom,Sheed,WCE,MID,R2
+42,3,86078,9806,Lester,HoweIMetYourMother,807,MID,56,True,296296,Dom,Sheed,WCE,MID,R3
+43,4,86078,9806,Lester,HoweIMetYourMother,807,MID,87,True,296296,Dom,Sheed,WCE,MID,R4
+44,5,86078,9806,Lester,HoweIMetYourMother,807,MID,119,False,296296,Dom,Sheed,WCE,MID,R5
+45,6,86078,9806,Lester,HoweIMetYourMother,807,MID,114,True,296296,Dom,Sheed,WCE,MID,R6
+46,7,86078,9806,Lester,HoweIMetYourMother,807,MID,76,True,296296,Dom,Sheed,WCE,MID,R7
+47,8,86078,9806,Lester,HoweIMetYourMother,807,MID,44,True,296296,Dom,Sheed,WCE,MID,R8
+48,9,86078,9806,Lester,HoweIMetYourMother,807,MID,135,True,296296,Dom,Sheed,WCE,MID,R9
+49,10,10857,189,Anthony,The Full Bonty,807,MID,0,False,296296,Dom,Sheed,WCE,MID,R10
+50,11,10857,189,Anthony,The Full Bonty,807,MID,137,False,296296,Dom,Sheed,WCE,MID,R11
+51,12,10857,189,Anthony,The Full Bonty,807,MID,75,True,296296,Dom,Sheed,WCE,MID,R12
+52,1,86078,9806,Lester,HoweIMetYourMother,620,FWD,126,True,290847,Dustin,Martin,RIC,FWD MID,R1
+53,2,86078,9806,Lester,HoweIMetYourMother,620,FWD,79,True,290847,Dustin,Martin,RIC,FWD MID,R2
+54,3,86078,9806,Lester,HoweIMetYourMother,620,FWD,0,False,290847,Dustin,Martin,RIC,FWD MID,R3
+55,4,86078,9806,Lester,HoweIMetYourMother,620,FWD,81,True,290847,Dustin,Martin,RIC,FWD MID,R4
+56,5,86078,9806,Lester,HoweIMetYourMother,620,FWD,93,True,290847,Dustin,Martin,RIC,FWD MID,R5
+57,6,86078,9806,Lester,HoweIMetYourMother,620,FWD,66,True,290847,Dustin,Martin,RIC,FWD MID,R6
+58,7,86078,9806,Lester,HoweIMetYourMother,620,FWD,100,True,290847,Dustin,Martin,RIC,FWD MID,R7
+59,8,86078,9806,Lester,HoweIMetYourMother,620,FWD,108,True,290847,Dustin,Martin,RIC,FWD MID,R8
+60,9,86078,9806,Lester,HoweIMetYourMother,620,FWD,184,True,290847,Dustin,Martin,RIC,FWD MID,R9
+61,10,86078,9806,Lester,HoweIMetYourMother,620,FWD,111,True,290847,Dustin,Martin,RIC,FWD MID,R10
+62,11,86078,9806,Lester,HoweIMetYourMother,620,FWD,74,True,290847,Dustin,Martin,RIC,FWD MID,R11
+63,12,86078,9806,Lester,HoweIMetYourMother,620,FWD,92,True,290847,Dustin,Martin,RIC,FWD MID,R12
+64,1,86078,9806,Lester,HoweIMetYourMother,67,MID,115,True,293716,Jarryd,Lyons,BRL,MID,R1
+65,2,86078,9806,Lester,HoweIMetYourMother,67,MID,92,True,293716,Jarryd,Lyons,BRL,MID,R2
+66,3,86078,9806,Lester,HoweIMetYourMother,67,MID,114,True,293716,Jarryd,Lyons,BRL,MID,R3
+67,4,86078,9806,Lester,HoweIMetYourMother,67,MID,116,True,293716,Jarryd,Lyons,BRL,MID,R4
+68,5,86078,9806,Lester,HoweIMetYourMother,67,MID,124,True,293716,Jarryd,Lyons,BRL,MID,R5
+69,6,86078,9806,Lester,HoweIMetYourMother,67,MID,88,True,293716,Jarryd,Lyons,BRL,MID,R6
+70,7,86078,9806,Lester,HoweIMetYourMother,67,MID,114,True,293716,Jarryd,Lyons,BRL,MID,R7
+71,8,86078,9806,Lester,HoweIMetYourMother,67,MID,147,True,293716,Jarryd,Lyons,BRL,MID,R8
+72,9,86078,9806,Lester,HoweIMetYourMother,67,MID,115,True,293716,Jarryd,Lyons,BRL,MID,R9
+73,10,86078,9806,Lester,HoweIMetYourMother,67,MID,121,True,293716,Jarryd,Lyons,BRL,MID,R10
+74,11,86078,9806,Lester,HoweIMetYourMother,67,MID,138,True,293716,Jarryd,Lyons,BRL,MID,R11
+75,12,86078,9806,Lester,HoweIMetYourMother,67,MID,126,True,293716,Jarryd,Lyons,BRL,MID,R12
+76,1,86078,9806,Lester,HoweIMetYourMother,94,MID,112,True,990704,Patrick,Cripps,CAR,MID,R1
+77,2,86078,9806,Lester,HoweIMetYourMother,94,MID,117,True,990704,Patrick,Cripps,CAR,MID,R2
+78,3,86078,9806,Lester,HoweIMetYourMother,94,MID,123,True,990704,Patrick,Cripps,CAR,MID,R3
+79,4,86078,9806,Lester,HoweIMetYourMother,94,MID,81,True,990704,Patrick,Cripps,CAR,MID,R4
+80,5,86078,9806,Lester,HoweIMetYourMother,94,MID,116,True,990704,Patrick,Cripps,CAR,MID,R5
+81,6,86078,9806,Lester,HoweIMetYourMother,94,MID,56,True,990704,Patrick,Cripps,CAR,MID,R6
+82,7,86078,9806,Lester,HoweIMetYourMother,94,MID,85,True,990704,Patrick,Cripps,CAR,MID,R7
+83,8,86078,9806,Lester,HoweIMetYourMother,94,MID,75,True,990704,Patrick,Cripps,CAR,MID,R8
+84,9,86078,9806,Lester,HoweIMetYourMother,94,MID,149,True,990704,Patrick,Cripps,CAR,MID,R9
+85,10,86078,9806,Lester,HoweIMetYourMother,94,MID,0,False,990704,Patrick,Cripps,CAR,MID,R10
+86,11,86078,9806,Lester,HoweIMetYourMother,94,MID,93,True,990704,Patrick,Cripps,CAR,MID,R11
+87,12,86078,9806,Lester,HoweIMetYourMother,94,MID,119,True,990704,Patrick,Cripps,CAR,MID,R12
+88,1,86078,9806,Lester,HoweIMetYourMother,307,MID,111,True,298272,Touk,Miller,GCS,MID,R1
+89,2,86078,9806,Lester,HoweIMetYourMother,307,MID,98,True,298272,Touk,Miller,GCS,MID,R2
+90,3,86078,9806,Lester,HoweIMetYourMother,307,MID,126,True,298272,Touk,Miller,GCS,MID,R3
+91,4,86078,9806,Lester,HoweIMetYourMother,307,MID,111,True,298272,Touk,Miller,GCS,MID,R4
+92,5,86078,9806,Lester,HoweIMetYourMother,307,MID,81,True,298272,Touk,Miller,GCS,MID,R5
+93,6,86078,9806,Lester,HoweIMetYourMother,307,MID,142,True,298272,Touk,Miller,GCS,MID,R6
+94,7,86078,9806,Lester,HoweIMetYourMother,307,MID,102,True,298272,Touk,Miller,GCS,MID,R7
+95,8,86078,9806,Lester,HoweIMetYourMother,307,MID,140,True,298272,Touk,Miller,GCS,MID,R8
+96,9,86078,9806,Lester,HoweIMetYourMother,307,MID,80,True,298272,Touk,Miller,GCS,MID,R9
+97,10,86078,9806,Lester,HoweIMetYourMother,307,MID,109,True,298272,Touk,Miller,GCS,MID,R10
+98,11,86078,9806,Lester,HoweIMetYourMother,307,MID,65,True,298272,Touk,Miller,GCS,MID,R11
+99,12,86078,9806,Lester,HoweIMetYourMother,307,MID,124,True,298272,Touk,Miller,GCS,MID,R12
+100,1,86078,9806,Lester,HoweIMetYourMother,366,DEF,100,True,291800,Tom,Stewart,GEE,DEF,R1
+101,2,86078,9806,Lester,HoweIMetYourMother,366,DEF,119,True,291800,Tom,Stewart,GEE,DEF,R2
+102,3,86078,9806,Lester,HoweIMetYourMother,366,DEF,84,True,291800,Tom,Stewart,GEE,DEF,R3
+103,4,86078,9806,Lester,HoweIMetYourMother,366,DEF,18,True,291800,Tom,Stewart,GEE,DEF,R4
+104,5,86078,9806,Lester,HoweIMetYourMother,366,DEF,0,False,291800,Tom,Stewart,GEE,DEF,R5
+105,6,86078,9806,Lester,HoweIMetYourMother,366,DEF,0,False,291800,Tom,Stewart,GEE,DEF,R6
+106,7,86078,9806,Lester,HoweIMetYourMother,366,DEF,0,False,291800,Tom,Stewart,GEE,DEF,R7
+107,8,86078,9806,Lester,HoweIMetYourMother,366,DEF,89,True,291800,Tom,Stewart,GEE,DEF,R8
+108,9,86078,9806,Lester,HoweIMetYourMother,366,DEF,145,True,291800,Tom,Stewart,GEE,DEF,R9
+109,10,86078,9806,Lester,HoweIMetYourMother,366,DEF,68,True,291800,Tom,Stewart,GEE,DEF,R10
+110,11,86078,9806,Lester,HoweIMetYourMother,366,DEF,100,True,291800,Tom,Stewart,GEE,DEF,R11
+111,12,86078,9806,Lester,HoweIMetYourMother,366,DEF,103,True,291800,Tom,Stewart,GEE,DEF,R12
+112,1,86078,9806,Lester,HoweIMetYourMother,656,MID,93,True,290117,Dan,Hannebery,STK,MID,R1
+113,2,86078,9806,Lester,HoweIMetYourMother,656,MID,97,True,290117,Dan,Hannebery,STK,MID,R2
+114,3,86078,9806,Lester,HoweIMetYourMother,656,MID,41,True,290117,Dan,Hannebery,STK,MID,R3
+115,4,86078,9806,Lester,HoweIMetYourMother,656,MID,73,True,290117,Dan,Hannebery,STK,MID,R4
+116,1,86078,9806,Lester,HoweIMetYourMother,709,DEF,85,True,993905,Callum,Mills,SYD,DEF,R1
+117,2,86078,9806,Lester,HoweIMetYourMother,709,DEF,96,True,993905,Callum,Mills,SYD,DEF,R2
+118,3,86078,9806,Lester,HoweIMetYourMother,709,DEF,74,True,993905,Callum,Mills,SYD,DEF,R3
+119,4,86078,9806,Lester,HoweIMetYourMother,709,DEF,112,True,993905,Callum,Mills,SYD,DEF,R4
+120,5,86078,9806,Lester,HoweIMetYourMother,709,DEF,119,True,993905,Callum,Mills,SYD,DEF,R5
+121,6,86078,9806,Lester,HoweIMetYourMother,709,DEF,173,True,993905,Callum,Mills,SYD,DEF,R6
+122,7,86078,9806,Lester,HoweIMetYourMother,709,DEF,81,True,993905,Callum,Mills,SYD,DEF,R7
+123,8,86078,9806,Lester,HoweIMetYourMother,709,DEF,110,True,993905,Callum,Mills,SYD,DEF,R8
+124,9,86078,9806,Lester,HoweIMetYourMother,709,DEF,83,True,993905,Callum,Mills,SYD,DEF,R9
+125,10,86078,9806,Lester,HoweIMetYourMother,709,DEF,74,True,993905,Callum,Mills,SYD,DEF,R10
+126,11,86078,9806,Lester,HoweIMetYourMother,709,DEF,0,False,993905,Callum,Mills,SYD,DEF,R11
+127,12,86078,9806,Lester,HoweIMetYourMother,709,DEF,104,True,993905,Callum,Mills,SYD,DEF,R12
+128,1,86078,9806,Lester,HoweIMetYourMother,464,MID,71,True,298279,Angus,Brayshaw,MEL,MID,R1
+129,2,86078,9806,Lester,HoweIMetYourMother,464,MID,83,True,298279,Angus,Brayshaw,MEL,MID,R2
+130,3,86078,9806,Lester,HoweIMetYourMother,464,MID,0,False,298279,Angus,Brayshaw,MEL,MID,R3
+131,4,86078,9806,Lester,HoweIMetYourMother,464,MID,114,True,298279,Angus,Brayshaw,MEL,MID,R4
+132,5,86078,9806,Lester,HoweIMetYourMother,464,MID,76,True,298279,Angus,Brayshaw,MEL,MID,R5
+133,6,86078,9806,Lester,HoweIMetYourMother,464,MID,44,True,298279,Angus,Brayshaw,MEL,MID,R6
+134,10,71052,9867,James,Bad Boys For Fyfe,464,MID,91,True,298279,Angus,Brayshaw,MEL,MID,R10
+135,11,71052,9867,James,Bad Boys For Fyfe,464,MID,113,True,298279,Angus,Brayshaw,MEL,MID,R11
+136,12,71052,9867,James,Bad Boys For Fyfe,464,MID,131,True,298279,Angus,Brayshaw,MEL,MID,R12
+137,1,86078,9806,Lester,HoweIMetYourMother,578,RUC,70,True,290746,Scott,Lycett,PTA,RUC,R1
+138,2,86078,9806,Lester,HoweIMetYourMother,578,RUC,117,True,290746,Scott,Lycett,PTA,RUC,R2
+139,3,86078,9806,Lester,HoweIMetYourMother,578,RUC,156,True,290746,Scott,Lycett,PTA,RUC,R3
+140,4,86078,9806,Lester,HoweIMetYourMother,578,RUC,96,True,290746,Scott,Lycett,PTA,RUC,R4
+141,5,86078,9806,Lester,HoweIMetYourMother,578,RUC,62,True,290746,Scott,Lycett,PTA,RUC,R5
+142,6,86078,9806,Lester,HoweIMetYourMother,578,RUC,108,True,290746,Scott,Lycett,PTA,RUC,R6
+143,7,86078,9806,Lester,HoweIMetYourMother,578,RUC,0,False,290746,Scott,Lycett,PTA,RUC,R7
+144,8,86078,9806,Lester,HoweIMetYourMother,578,RUC,0,False,290746,Scott,Lycett,PTA,RUC,R8
+145,9,86078,9806,Lester,HoweIMetYourMother,578,RUC,0,False,290746,Scott,Lycett,PTA,RUC,R9
+146,10,86078,9806,Lester,HoweIMetYourMother,578,RUC,0,False,290746,Scott,Lycett,PTA,RUC,R10
+147,11,86078,9806,Lester,HoweIMetYourMother,578,RUC,63,True,290746,Scott,Lycett,PTA,RUC,R11
+148,12,86078,9806,Lester,HoweIMetYourMother,578,RUC,90,True,290746,Scott,Lycett,PTA,RUC,R12
+149,1,86078,9806,Lester,HoweIMetYourMother,377,FWD,70,True,293845,Jeremy,Cameron,GWS,FWD,R1
+150,2,86078,9806,Lester,HoweIMetYourMother,377,FWD,53,True,293845,Jeremy,Cameron,GWS,FWD,R2
+151,3,86078,9806,Lester,HoweIMetYourMother,377,FWD,49,True,293845,Jeremy,Cameron,GWS,FWD,R3
+152,4,10857,189,Anthony,The Full Bonty,377,FWD,92,True,293845,Jeremy,Cameron,GWS,FWD,R4
+153,5,10857,189,Anthony,The Full Bonty,377,FWD,86,True,293845,Jeremy,Cameron,GWS,FWD,R5
+154,6,10857,189,Anthony,The Full Bonty,377,FWD,119,True,293845,Jeremy,Cameron,GWS,FWD,R6
+155,7,10857,189,Anthony,The Full Bonty,377,FWD,105,True,293845,Jeremy,Cameron,GWS,FWD,R7
+156,8,10857,189,Anthony,The Full Bonty,377,FWD,48,True,293845,Jeremy,Cameron,GWS,FWD,R8
+157,9,10857,189,Anthony,The Full Bonty,377,FWD,63,True,293845,Jeremy,Cameron,GWS,FWD,R9
+158,10,10857,189,Anthony,The Full Bonty,377,FWD,88,True,293845,Jeremy,Cameron,GWS,FWD,R10
+159,11,10857,189,Anthony,The Full Bonty,377,FWD,0,False,293845,Jeremy,Cameron,GWS,FWD,R11
+160,12,10857,189,Anthony,The Full Bonty,377,FWD,23,True,293845,Jeremy,Cameron,GWS,FWD,R12
+161,1,86078,9806,Lester,HoweIMetYourMother,232,FWD,66,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R1
+162,2,86078,9806,Lester,HoweIMetYourMother,232,FWD,88,False,1002232,Andrew,Brayshaw,FRE,FWD MID,R2
+163,3,86078,9806,Lester,HoweIMetYourMother,232,MID,82,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R3
+164,4,86078,9806,Lester,HoweIMetYourMother,232,MID,78,False,1002232,Andrew,Brayshaw,FRE,FWD MID,R4
+165,5,86078,9806,Lester,HoweIMetYourMother,232,FWD,144,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R5
+166,6,86078,9806,Lester,HoweIMetYourMother,232,FWD,122,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R6
+167,7,86078,9806,Lester,HoweIMetYourMother,232,FWD,102,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R7
+168,8,86078,9806,Lester,HoweIMetYourMother,232,FWD,136,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R8
+169,9,86078,9806,Lester,HoweIMetYourMother,232,FWD,106,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R9
+170,10,86078,9806,Lester,HoweIMetYourMother,232,MID,0,False,1002232,Andrew,Brayshaw,FRE,FWD MID,R10
+171,11,86078,9806,Lester,HoweIMetYourMother,232,FWD,150,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R11
+172,12,86078,9806,Lester,HoweIMetYourMother,232,FWD,67,True,1002232,Andrew,Brayshaw,FRE,FWD MID,R12
+173,1,86078,9806,Lester,HoweIMetYourMother,591,FWD,57,True,260750,Justin,Westhoff,PTA,FWD MID,R1
+174,2,86078,9806,Lester,HoweIMetYourMother,591,FWD,101,True,260750,Justin,Westhoff,PTA,FWD MID,R2
+175,3,86078,9806,Lester,HoweIMetYourMother,591,FWD,114,True,260750,Justin,Westhoff,PTA,FWD MID,R3
+176,4,86078,9806,Lester,HoweIMetYourMother,591,FWD,99,True,260750,Justin,Westhoff,PTA,FWD MID,R4
+177,5,86078,9806,Lester,HoweIMetYourMother,591,FWD,30,True,260750,Justin,Westhoff,PTA,FWD MID,R5
+178,6,86078,9806,Lester,HoweIMetYourMother,591,FWD,61,False,260750,Justin,Westhoff,PTA,FWD MID,R6
+179,10,71052,9867,James,Bad Boys For Fyfe,591,FWD,61,True,260750,Justin,Westhoff,PTA,FWD MID,R10
+180,1,86078,9806,Lester,HoweIMetYourMother,37,DEF,55,True,291748,Brodie,Smith,ADE,DEF,R1
+181,2,86078,9806,Lester,HoweIMetYourMother,37,DEF,56,True,291748,Brodie,Smith,ADE,DEF,R2
+182,3,86078,9806,Lester,HoweIMetYourMother,37,DEF,94,True,291748,Brodie,Smith,ADE,DEF,R3
+183,4,86078,9806,Lester,HoweIMetYourMother,37,DEF,106,True,291748,Brodie,Smith,ADE,DEF,R4
+184,5,86078,9806,Lester,HoweIMetYourMother,37,DEF,72,True,291748,Brodie,Smith,ADE,DEF,R5
+185,6,300791,182,Paul,Coronaviney,37,DEF,124,True,291748,Brodie,Smith,ADE,DEF,R6
+186,7,300791,182,Paul,Coronaviney,37,DEF,13,True,291748,Brodie,Smith,ADE,DEF,R7
+187,8,300791,182,Paul,Coronaviney,37,DEF,129,True,291748,Brodie,Smith,ADE,DEF,R8
+188,9,300791,182,Paul,Coronaviney,37,DEF,52,True,291748,Brodie,Smith,ADE,DEF,R9
+189,10,300791,182,Paul,Coronaviney,37,DEF,0,False,291748,Brodie,Smith,ADE,DEF,R10
+190,11,300791,182,Paul,Coronaviney,37,DEF,105,True,291748,Brodie,Smith,ADE,DEF,R11
+191,12,300791,182,Paul,Coronaviney,37,DEF,84,True,291748,Brodie,Smith,ADE,DEF,R12
+192,1,86078,9806,Lester,HoweIMetYourMother,572,DEF,68,False,261892,Hamish,Hartlett,PTA,DEF,R1
+193,2,86078,9806,Lester,HoweIMetYourMother,572,DEF,73,False,261892,Hamish,Hartlett,PTA,DEF,R2
+194,4,21562,186,Mark,GetRichOrDieTryin,572,DEF,96,True,261892,Hamish,Hartlett,PTA,DEF,R4
+195,5,21562,186,Mark,GetRichOrDieTryin,572,DEF,50,True,261892,Hamish,Hartlett,PTA,DEF,R5
+196,6,21562,186,Mark,GetRichOrDieTryin,572,DEF,96,False,261892,Hamish,Hartlett,PTA,DEF,R6
+197,7,21562,186,Mark,GetRichOrDieTryin,572,DEF,100,True,261892,Hamish,Hartlett,PTA,DEF,R7
+198,8,21562,186,Mark,GetRichOrDieTryin,572,DEF,57,True,261892,Hamish,Hartlett,PTA,DEF,R8
+199,9,21562,186,Mark,GetRichOrDieTryin,572,DEF,84,True,261892,Hamish,Hartlett,PTA,DEF,R9
+200,10,21562,186,Mark,GetRichOrDieTryin,572,DEF,87,True,261892,Hamish,Hartlett,PTA,DEF,R10
+201,11,21562,186,Mark,GetRichOrDieTryin,572,DEF,94,True,261892,Hamish,Hartlett,PTA,DEF,R11
+202,12,10857,189,Anthony,The Full Bonty,572,DEF,54,True,261892,Hamish,Hartlett,PTA,DEF,R12
+203,1,86078,9806,Lester,HoweIMetYourMother,178,MID,0,False,291790,Adam,Treloar,COL,MID,R1
+204,2,86078,9806,Lester,HoweIMetYourMother,178,MID,0,False,291790,Adam,Treloar,COL,MID,R2
+205,3,86078,9806,Lester,HoweIMetYourMother,178,MID,0,False,291790,Adam,Treloar,COL,MID,R3
+206,4,86078,9806,Lester,HoweIMetYourMother,178,MID,0,False,291790,Adam,Treloar,COL,MID,R4
+207,5,86078,9806,Lester,HoweIMetYourMother,178,MID,119,True,291790,Adam,Treloar,COL,MID,R5
+208,6,86078,9806,Lester,HoweIMetYourMother,178,MID,122,True,291790,Adam,Treloar,COL,MID,R6
+209,7,86078,9806,Lester,HoweIMetYourMother,178,MID,158,True,291790,Adam,Treloar,COL,MID,R7
+210,8,86078,9806,Lester,HoweIMetYourMother,178,MID,81,True,291790,Adam,Treloar,COL,MID,R8
+211,9,86078,9806,Lester,HoweIMetYourMother,178,MID,103,True,291790,Adam,Treloar,COL,MID,R9
+212,10,86078,9806,Lester,HoweIMetYourMother,178,MID,94,True,291790,Adam,Treloar,COL,MID,R10
+213,11,86078,9806,Lester,HoweIMetYourMother,178,MID,0,False,291790,Adam,Treloar,COL,MID,R11
+214,12,86078,9806,Lester,HoweIMetYourMother,178,MID,0,False,291790,Adam,Treloar,COL,MID,R12
+215,1,86078,9806,Lester,HoweIMetYourMother,699,MID,0,False,294036,George,Hewett,SYD,MID,R1
+216,2,86078,9806,Lester,HoweIMetYourMother,699,MID,67,False,294036,George,Hewett,SYD,MID,R2
+217,3,86078,9806,Lester,HoweIMetYourMother,699,MID,84,False,294036,George,Hewett,SYD,MID,R3
+218,7,21562,186,Mark,GetRichOrDieTryin,699,MID,81,False,294036,George,Hewett,SYD,MID,R7
+219,1,86078,9806,Lester,HoweIMetYourMother,268,FWD,76,False,993816,Darcy,Tucker,FRE,FWD MID,R1
+220,2,86078,9806,Lester,HoweIMetYourMother,268,FWD,79,True,993816,Darcy,Tucker,FRE,FWD MID,R2
+221,3,86078,9806,Lester,HoweIMetYourMother,268,FWD,90,True,993816,Darcy,Tucker,FRE,FWD MID,R3
+222,4,86078,9806,Lester,HoweIMetYourMother,268,FWD,86,True,993816,Darcy,Tucker,FRE,FWD MID,R4
+223,5,86078,9806,Lester,HoweIMetYourMother,268,FWD,85,True,993816,Darcy,Tucker,FRE,FWD MID,R5
+224,6,86078,9806,Lester,HoweIMetYourMother,268,FWD,68,True,993816,Darcy,Tucker,FRE,FWD MID,R6
+225,7,86078,9806,Lester,HoweIMetYourMother,268,FWD,34,True,993816,Darcy,Tucker,FRE,FWD MID,R7
+226,8,86078,9806,Lester,HoweIMetYourMother,268,FWD,0,True,993816,Darcy,Tucker,FRE,FWD MID,R8
+227,1,180650,33301,Jordan,"What's Up, Doch?",643,MID,120,True,296351,Jack,Billings,STK,MID,R1
+228,2,180650,33301,Jordan,"What's Up, Doch?",643,MID,133,True,296351,Jack,Billings,STK,MID,R2
+229,3,180650,33301,Jordan,"What's Up, Doch?",643,MID,70,True,296351,Jack,Billings,STK,MID,R3
+230,4,180650,33301,Jordan,"What's Up, Doch?",643,MID,113,True,296351,Jack,Billings,STK,MID,R4
+231,5,180650,33301,Jordan,"What's Up, Doch?",643,MID,116,True,296351,Jack,Billings,STK,MID,R5
+232,6,180650,33301,Jordan,"What's Up, Doch?",643,MID,83,True,296351,Jack,Billings,STK,MID,R6
+233,7,180650,33301,Jordan,"What's Up, Doch?",643,MID,81,True,296351,Jack,Billings,STK,MID,R7
+234,8,180650,33301,Jordan,"What's Up, Doch?",643,MID,88,True,296351,Jack,Billings,STK,MID,R8
+235,9,180650,33301,Jordan,"What's Up, Doch?",643,MID,93,True,296351,Jack,Billings,STK,MID,R9
+236,10,180650,33301,Jordan,"What's Up, Doch?",643,MID,104,True,296351,Jack,Billings,STK,MID,R10
+237,11,180650,33301,Jordan,"What's Up, Doch?",643,MID,88,True,296351,Jack,Billings,STK,MID,R11
+238,12,180650,33301,Jordan,"What's Up, Doch?",643,MID,124,True,296351,Jack,Billings,STK,MID,R12
+239,1,180650,33301,Jordan,"What's Up, Doch?",440,MID,119,True,291856,Tom,Mitchell,HAW,MID,R1
+240,2,180650,33301,Jordan,"What's Up, Doch?",440,MID,95,True,291856,Tom,Mitchell,HAW,MID,R2
+241,3,180650,33301,Jordan,"What's Up, Doch?",440,MID,96,True,291856,Tom,Mitchell,HAW,MID,R3
+242,4,180650,33301,Jordan,"What's Up, Doch?",440,MID,143,True,291856,Tom,Mitchell,HAW,MID,R4
+243,5,180650,33301,Jordan,"What's Up, Doch?",440,MID,101,True,291856,Tom,Mitchell,HAW,MID,R5
+244,6,180650,33301,Jordan,"What's Up, Doch?",440,MID,122,True,291856,Tom,Mitchell,HAW,MID,R6
+245,7,180650,33301,Jordan,"What's Up, Doch?",440,MID,83,True,291856,Tom,Mitchell,HAW,MID,R7
+246,8,180650,33301,Jordan,"What's Up, Doch?",440,MID,104,True,291856,Tom,Mitchell,HAW,MID,R8
+247,9,180650,33301,Jordan,"What's Up, Doch?",440,MID,164,True,291856,Tom,Mitchell,HAW,MID,R9
+248,10,180650,33301,Jordan,"What's Up, Doch?",440,MID,0,False,291856,Tom,Mitchell,HAW,MID,R10
+249,11,180650,33301,Jordan,"What's Up, Doch?",440,MID,102,True,291856,Tom,Mitchell,HAW,MID,R11
+250,12,180650,33301,Jordan,"What's Up, Doch?",440,MID,132,True,291856,Tom,Mitchell,HAW,MID,R12
+251,1,180650,33301,Jordan,"What's Up, Doch?",99,DEF,117,True,295518,Sam,Docherty,CAR,DEF,R1
+252,2,180650,33301,Jordan,"What's Up, Doch?",99,DEF,93,True,295518,Sam,Docherty,CAR,DEF,R2
+253,3,180650,33301,Jordan,"What's Up, Doch?",99,DEF,122,True,295518,Sam,Docherty,CAR,DEF,R3
+254,4,180650,33301,Jordan,"What's Up, Doch?",99,DEF,185,True,295518,Sam,Docherty,CAR,DEF,R4
+255,5,180650,33301,Jordan,"What's Up, Doch?",99,DEF,89,True,295518,Sam,Docherty,CAR,DEF,R5
+256,6,180650,33301,Jordan,"What's Up, Doch?",99,DEF,49,True,295518,Sam,Docherty,CAR,DEF,R6
+257,7,180650,33301,Jordan,"What's Up, Doch?",99,DEF,89,True,295518,Sam,Docherty,CAR,DEF,R7
+258,8,180650,33301,Jordan,"What's Up, Doch?",99,DEF,66,True,295518,Sam,Docherty,CAR,DEF,R8
+259,9,180650,33301,Jordan,"What's Up, Doch?",99,DEF,91,True,295518,Sam,Docherty,CAR,DEF,R9
+260,10,180650,33301,Jordan,"What's Up, Doch?",99,DEF,0,False,295518,Sam,Docherty,CAR,DEF,R10
+261,11,180650,33301,Jordan,"What's Up, Doch?",99,DEF,70,True,295518,Sam,Docherty,CAR,DEF,R11
+262,12,180650,33301,Jordan,"What's Up, Doch?",99,DEF,82,True,295518,Sam,Docherty,CAR,DEF,R12
+263,1,180650,33301,Jordan,"What's Up, Doch?",389,DEF,114,True,295265,Nick,Haynes,GWS,DEF,R1
+264,2,180650,33301,Jordan,"What's Up, Doch?",389,DEF,97,True,295265,Nick,Haynes,GWS,DEF,R2
+265,3,180650,33301,Jordan,"What's Up, Doch?",389,DEF,110,True,295265,Nick,Haynes,GWS,DEF,R3
+266,4,180650,33301,Jordan,"What's Up, Doch?",389,DEF,101,True,295265,Nick,Haynes,GWS,DEF,R4
+267,5,8258,9856,Simon,It's always Sonny,389,DEF,148,True,295265,Nick,Haynes,GWS,DEF,R5
+268,6,8258,9856,Simon,It's always Sonny,389,DEF,113,True,295265,Nick,Haynes,GWS,DEF,R6
+269,7,8258,9856,Simon,It's always Sonny,389,DEF,75,True,295265,Nick,Haynes,GWS,DEF,R7
+270,8,8258,9856,Simon,It's always Sonny,389,DEF,129,True,295265,Nick,Haynes,GWS,DEF,R8
+271,9,8258,9856,Simon,It's always Sonny,389,DEF,110,True,295265,Nick,Haynes,GWS,DEF,R9
+272,10,8258,9856,Simon,It's always Sonny,389,DEF,102,True,295265,Nick,Haynes,GWS,DEF,R10
+273,11,8258,9856,Simon,It's always Sonny,389,DEF,0,False,295265,Nick,Haynes,GWS,DEF,R11
+274,12,8258,9856,Simon,It's always Sonny,389,DEF,67,True,295265,Nick,Haynes,GWS,DEF,R12
+275,1,180650,33301,Jordan,"What's Up, Doch?",392,MID,112,True,993903,Jacob,Hopper,GWS,MID,R1
+276,2,180650,33301,Jordan,"What's Up, Doch?",392,MID,68,True,993903,Jacob,Hopper,GWS,MID,R2
+277,3,180650,33301,Jordan,"What's Up, Doch?",392,MID,83,True,993903,Jacob,Hopper,GWS,MID,R3
+278,4,180650,33301,Jordan,"What's Up, Doch?",392,MID,68,True,993903,Jacob,Hopper,GWS,MID,R4
+279,5,180650,33301,Jordan,"What's Up, Doch?",392,MID,64,True,993903,Jacob,Hopper,GWS,MID,R5
+280,6,180650,33301,Jordan,"What's Up, Doch?",392,MID,103,False,993903,Jacob,Hopper,GWS,MID,R6
+281,7,180650,33301,Jordan,"What's Up, Doch?",392,MID,96,False,993903,Jacob,Hopper,GWS,MID,R7
+282,8,180650,33301,Jordan,"What's Up, Doch?",392,MID,95,True,993903,Jacob,Hopper,GWS,MID,R8
+283,9,180650,33301,Jordan,"What's Up, Doch?",392,MID,134,True,993903,Jacob,Hopper,GWS,MID,R9
+284,10,180650,33301,Jordan,"What's Up, Doch?",392,MID,86,True,993903,Jacob,Hopper,GWS,MID,R10
+285,11,180650,33301,Jordan,"What's Up, Doch?",392,MID,0,False,993903,Jacob,Hopper,GWS,MID,R11
+286,12,180650,33301,Jordan,"What's Up, Doch?",392,MID,63,True,993903,Jacob,Hopper,GWS,MID,R12
+287,1,180650,33301,Jordan,"What's Up, Doch?",387,FWD,108,True,295344,Toby,Greene,GWS,FWD,R1
+288,2,180650,33301,Jordan,"What's Up, Doch?",387,FWD,47,True,295344,Toby,Greene,GWS,FWD,R2
+289,3,180650,33301,Jordan,"What's Up, Doch?",387,FWD,0,False,295344,Toby,Greene,GWS,FWD,R3
+290,4,180650,33301,Jordan,"What's Up, Doch?",387,FWD,96,True,295344,Toby,Greene,GWS,FWD,R4
+291,5,180650,33301,Jordan,"What's Up, Doch?",387,FWD,106,True,295344,Toby,Greene,GWS,FWD,R5
+292,6,180650,33301,Jordan,"What's Up, Doch?",387,FWD,83,True,295344,Toby,Greene,GWS,FWD,R6
+293,7,180650,33301,Jordan,"What's Up, Doch?",387,FWD,0,False,295344,Toby,Greene,GWS,FWD,R7
+294,8,180650,33301,Jordan,"What's Up, Doch?",387,FWD,166,True,295344,Toby,Greene,GWS,FWD,R8
+295,9,180650,33301,Jordan,"What's Up, Doch?",387,FWD,41,True,295344,Toby,Greene,GWS,FWD,R9
+296,10,180650,33301,Jordan,"What's Up, Doch?",387,FWD,0,False,295344,Toby,Greene,GWS,FWD,R10
+297,11,180650,33301,Jordan,"What's Up, Doch?",387,FWD,0,False,295344,Toby,Greene,GWS,FWD,R11
+298,12,180650,33301,Jordan,"What's Up, Doch?",387,FWD,0,False,295344,Toby,Greene,GWS,FWD,R12
+299,1,180650,33301,Jordan,"What's Up, Doch?",112,FWD,107,True,296190,Jack,Martin,CAR,FWD MID,R1
+300,2,180650,33301,Jordan,"What's Up, Doch?",112,FWD,71,True,296190,Jack,Martin,CAR,FWD MID,R2
+301,3,180650,33301,Jordan,"What's Up, Doch?",112,FWD,127,True,296190,Jack,Martin,CAR,FWD MID,R3
+302,4,180650,33301,Jordan,"What's Up, Doch?",112,FWD,56,True,296190,Jack,Martin,CAR,FWD MID,R4
+303,5,180650,33301,Jordan,"What's Up, Doch?",112,FWD,121,True,296190,Jack,Martin,CAR,FWD MID,R5
+304,6,180650,33301,Jordan,"What's Up, Doch?",112,FWD,116,True,296190,Jack,Martin,CAR,FWD MID,R6
+305,7,180650,33301,Jordan,"What's Up, Doch?",112,FWD,85,True,296190,Jack,Martin,CAR,FWD MID,R7
+306,8,180650,33301,Jordan,"What's Up, Doch?",112,FWD,80,True,296190,Jack,Martin,CAR,FWD MID,R8
+307,9,180650,33301,Jordan,"What's Up, Doch?",112,FWD,99,True,296190,Jack,Martin,CAR,FWD MID,R9
+308,10,180650,33301,Jordan,"What's Up, Doch?",112,FWD,0,False,296190,Jack,Martin,CAR,FWD MID,R10
+309,11,180650,33301,Jordan,"What's Up, Doch?",112,FWD,18,True,296190,Jack,Martin,CAR,FWD MID,R11
+310,12,180650,33301,Jordan,"What's Up, Doch?",112,FWD,0,False,296190,Jack,Martin,CAR,FWD MID,R12
+311,1,180650,33301,Jordan,"What's Up, Doch?",491,FWD,105,True,298210,Christian,Petracca,MEL,FWD,R1
+312,2,180650,33301,Jordan,"What's Up, Doch?",491,FWD,126,True,298210,Christian,Petracca,MEL,FWD,R2
+313,3,180650,33301,Jordan,"What's Up, Doch?",491,FWD,0,False,298210,Christian,Petracca,MEL,FWD,R3
+314,4,180650,33301,Jordan,"What's Up, Doch?",491,FWD,89,True,298210,Christian,Petracca,MEL,FWD,R4
+315,5,8258,9856,Simon,It's always Sonny,491,FWD,111,True,298210,Christian,Petracca,MEL,FWD,R5
+316,6,8258,9856,Simon,It's always Sonny,491,FWD,104,True,298210,Christian,Petracca,MEL,FWD,R6
+317,7,8258,9856,Simon,It's always Sonny,491,FWD,160,True,298210,Christian,Petracca,MEL,FWD,R7
+318,8,8258,9856,Simon,It's always Sonny,491,FWD,141,True,298210,Christian,Petracca,MEL,FWD,R8
+319,9,8258,9856,Simon,It's always Sonny,491,FWD,99,True,298210,Christian,Petracca,MEL,FWD,R9
+320,10,8258,9856,Simon,It's always Sonny,491,FWD,132,True,298210,Christian,Petracca,MEL,FWD,R10
+321,11,8258,9856,Simon,It's always Sonny,491,FWD,160,True,298210,Christian,Petracca,MEL,FWD,R11
+322,12,8258,9856,Simon,It's always Sonny,491,FWD,125,True,298210,Christian,Petracca,MEL,FWD,R12
+323,1,180650,33301,Jordan,"What's Up, Doch?",570,FWD,104,True,261396,Robbie,Gray,PTA,FWD MID,R1
+324,2,180650,33301,Jordan,"What's Up, Doch?",570,FWD,77,True,261396,Robbie,Gray,PTA,FWD MID,R2
+325,3,180650,33301,Jordan,"What's Up, Doch?",570,FWD,71,True,261396,Robbie,Gray,PTA,FWD MID,R3
+326,4,180650,33301,Jordan,"What's Up, Doch?",570,FWD,77,False,261396,Robbie,Gray,PTA,FWD MID,R4
+327,5,180650,33301,Jordan,"What's Up, Doch?",570,FWD,77,True,261396,Robbie,Gray,PTA,FWD MID,R5
+328,6,180650,33301,Jordan,"What's Up, Doch?",570,FWD,79,False,261396,Robbie,Gray,PTA,FWD MID,R6
+329,7,180650,33301,Jordan,"What's Up, Doch?",570,FWD,90,True,261396,Robbie,Gray,PTA,FWD MID,R7
+330,8,180650,33301,Jordan,"What's Up, Doch?",570,FWD,47,True,261396,Robbie,Gray,PTA,FWD MID,R8
+331,9,180650,33301,Jordan,"What's Up, Doch?",570,FWD,72,False,261396,Robbie,Gray,PTA,FWD MID,R9
+332,10,180650,33301,Jordan,"What's Up, Doch?",570,FWD,106,True,261396,Robbie,Gray,PTA,FWD MID,R10
+333,11,180650,33301,Jordan,"What's Up, Doch?",570,FWD,133,True,261396,Robbie,Gray,PTA,FWD MID,R11
+334,12,180650,33301,Jordan,"What's Up, Doch?",570,FWD,60,True,261396,Robbie,Gray,PTA,FWD MID,R12
+335,1,180650,33301,Jordan,"What's Up, Doch?",691,MID,99,True,998103,Oliver,Florent,SYD,MID,R1
+336,2,180650,33301,Jordan,"What's Up, Doch?",691,MID,100,False,998103,Oliver,Florent,SYD,MID,R2
+337,3,180650,33301,Jordan,"What's Up, Doch?",691,MID,95,True,998103,Oliver,Florent,SYD,MID,R3
+338,4,180650,33301,Jordan,"What's Up, Doch?",691,MID,59,True,998103,Oliver,Florent,SYD,MID,R4
+339,5,180650,33301,Jordan,"What's Up, Doch?",691,MID,97,False,998103,Oliver,Florent,SYD,MID,R5
+340,6,180650,33301,Jordan,"What's Up, Doch?",691,MID,89,True,998103,Oliver,Florent,SYD,MID,R6
+341,7,180650,33301,Jordan,"What's Up, Doch?",691,MID,55,True,998103,Oliver,Florent,SYD,MID,R7
+342,9,45168,5524,Luke,The Dragon's Laird,691,MID,85,True,998103,Oliver,Florent,SYD,MID,R9
+343,10,45168,5524,Luke,The Dragon's Laird,691,MID,70,True,998103,Oliver,Florent,SYD,MID,R10
+344,1,180650,33301,Jordan,"What's Up, Doch?",82,MID,97,True,290311,Mitch,Robinson,BRL,MID,R1
+345,2,180650,33301,Jordan,"What's Up, Doch?",82,MID,106,True,290311,Mitch,Robinson,BRL,MID,R2
+346,3,180650,33301,Jordan,"What's Up, Doch?",82,MID,76,True,290311,Mitch,Robinson,BRL,MID,R3
+347,4,180650,33301,Jordan,"What's Up, Doch?",82,MID,139,True,290311,Mitch,Robinson,BRL,MID,R4
+348,5,180650,33301,Jordan,"What's Up, Doch?",82,MID,77,True,290311,Mitch,Robinson,BRL,MID,R5
+349,6,180650,33301,Jordan,"What's Up, Doch?",82,MID,64,True,290311,Mitch,Robinson,BRL,MID,R6
+350,7,180650,33301,Jordan,"What's Up, Doch?",82,MID,88,True,290311,Mitch,Robinson,BRL,MID,R7
+351,8,180650,33301,Jordan,"What's Up, Doch?",82,MID,57,True,290311,Mitch,Robinson,BRL,MID,R8
+352,9,180650,33301,Jordan,"What's Up, Doch?",82,MID,76,True,290311,Mitch,Robinson,BRL,MID,R9
+353,10,180650,33301,Jordan,"What's Up, Doch?",82,MID,70,True,290311,Mitch,Robinson,BRL,MID,R10
+354,11,180650,33301,Jordan,"What's Up, Doch?",82,MID,25,True,290311,Mitch,Robinson,BRL,MID,R11
+355,1,180650,33301,Jordan,"What's Up, Doch?",469,RUC,93,True,290528,Max,Gawn,MEL,RUC,R1
+356,2,180650,33301,Jordan,"What's Up, Doch?",469,RUC,184,True,290528,Max,Gawn,MEL,RUC,R2
+357,3,180650,33301,Jordan,"What's Up, Doch?",469,RUC,0,False,290528,Max,Gawn,MEL,RUC,R3
+358,4,180650,33301,Jordan,"What's Up, Doch?",469,RUC,141,True,290528,Max,Gawn,MEL,RUC,R4
+359,5,180650,33301,Jordan,"What's Up, Doch?",469,RUC,163,True,290528,Max,Gawn,MEL,RUC,R5
+360,6,180650,33301,Jordan,"What's Up, Doch?",469,RUC,153,True,290528,Max,Gawn,MEL,RUC,R6
+361,7,180650,33301,Jordan,"What's Up, Doch?",469,RUC,185,True,290528,Max,Gawn,MEL,RUC,R7
+362,8,180650,33301,Jordan,"What's Up, Doch?",469,RUC,157,True,290528,Max,Gawn,MEL,RUC,R8
+363,9,180650,33301,Jordan,"What's Up, Doch?",469,RUC,87,True,290528,Max,Gawn,MEL,RUC,R9
+364,10,180650,33301,Jordan,"What's Up, Doch?",469,RUC,107,True,290528,Max,Gawn,MEL,RUC,R10
+365,11,180650,33301,Jordan,"What's Up, Doch?",469,RUC,0,False,290528,Max,Gawn,MEL,RUC,R11
+366,12,180650,33301,Jordan,"What's Up, Doch?",469,RUC,0,False,290528,Max,Gawn,MEL,RUC,R12
+367,1,180650,33301,Jordan,"What's Up, Doch?",609,DEF,86,True,260930,Shane,Edwards,RIC,DEF MID,R1
+368,2,180650,33301,Jordan,"What's Up, Doch?",609,DEF,69,True,260930,Shane,Edwards,RIC,DEF MID,R2
+369,3,180650,33301,Jordan,"What's Up, Doch?",609,DEF,55,True,260930,Shane,Edwards,RIC,DEF MID,R3
+370,4,180650,33301,Jordan,"What's Up, Doch?",609,DEF,119,False,260930,Shane,Edwards,RIC,DEF MID,R4
+371,5,180650,33301,Jordan,"What's Up, Doch?",609,DEF,77,True,260930,Shane,Edwards,RIC,DEF MID,R5
+372,6,180650,33301,Jordan,"What's Up, Doch?",609,DEF,0,False,260930,Shane,Edwards,RIC,DEF MID,R6
+373,7,180650,33301,Jordan,"What's Up, Doch?",609,DEF,0,False,260930,Shane,Edwards,RIC,DEF MID,R7
+374,8,180650,33301,Jordan,"What's Up, Doch?",609,DEF,0,False,260930,Shane,Edwards,RIC,DEF MID,R8
+375,9,180650,33301,Jordan,"What's Up, Doch?",609,DEF,0,False,260930,Shane,Edwards,RIC,DEF MID,R9
+376,1,180650,33301,Jordan,"What's Up, Doch?",601,MID,84,True,290623,Josh,Caddy,RIC,FWD MID,R1
+377,2,180650,33301,Jordan,"What's Up, Doch?",601,FWD,0,False,290623,Josh,Caddy,RIC,FWD MID,R2
+378,3,180650,33301,Jordan,"What's Up, Doch?",601,FWD,70,True,290623,Josh,Caddy,RIC,FWD MID,R3
+379,6,21562,186,Mark,GetRichOrDieTryin,601,FWD,70,False,290623,Josh,Caddy,RIC,FWD MID,R6
+380,1,180650,33301,Jordan,"What's Up, Doch?",637,DEF,78,True,294674,Nick,Vlastuin,RIC,DEF,R1
+381,2,180650,33301,Jordan,"What's Up, Doch?",637,DEF,100,True,294674,Nick,Vlastuin,RIC,DEF,R2
+382,3,180650,33301,Jordan,"What's Up, Doch?",637,DEF,105,True,294674,Nick,Vlastuin,RIC,DEF,R3
+383,4,180650,33301,Jordan,"What's Up, Doch?",637,DEF,50,True,294674,Nick,Vlastuin,RIC,DEF,R4
+384,5,8258,9856,Simon,It's always Sonny,637,DEF,55,True,294674,Nick,Vlastuin,RIC,DEF,R5
+385,6,8258,9856,Simon,It's always Sonny,637,DEF,103,True,294674,Nick,Vlastuin,RIC,DEF,R6
+386,7,8258,9856,Simon,It's always Sonny,637,DEF,101,True,294674,Nick,Vlastuin,RIC,DEF,R7
+387,8,8258,9856,Simon,It's always Sonny,637,DEF,90,True,294674,Nick,Vlastuin,RIC,DEF,R8
+388,9,8258,9856,Simon,It's always Sonny,637,DEF,0,False,294674,Nick,Vlastuin,RIC,DEF,R9
+389,10,8258,9856,Simon,It's always Sonny,637,DEF,81,True,294674,Nick,Vlastuin,RIC,DEF,R10
+390,11,8258,9856,Simon,It's always Sonny,637,DEF,103,True,294674,Nick,Vlastuin,RIC,DEF,R11
+391,12,8258,9856,Simon,It's always Sonny,637,DEF,108,True,294674,Nick,Vlastuin,RIC,DEF,R12
+392,1,180650,33301,Jordan,"What's Up, Doch?",763,DEF,67,True,270732,Matthew,Suckling,WBD,DEF,R1
+393,2,180650,33301,Jordan,"What's Up, Doch?",763,DEF,47,True,270732,Matthew,Suckling,WBD,DEF,R2
+394,3,180650,33301,Jordan,"What's Up, Doch?",763,DEF,56,False,270732,Matthew,Suckling,WBD,DEF,R3
+395,1,180650,33301,Jordan,"What's Up, Doch?",767,FWD,59,True,291545,Mitch,Wallis,WBD,FWD MID,R1
+396,2,180650,33301,Jordan,"What's Up, Doch?",767,FWD,64,True,291545,Mitch,Wallis,WBD,FWD MID,R2
+397,3,180650,33301,Jordan,"What's Up, Doch?",767,FWD,68,True,291545,Mitch,Wallis,WBD,FWD MID,R3
+398,12,300791,182,Paul,Coronaviney,767,FWD,67,True,291545,Mitch,Wallis,WBD,FWD MID,R12
+399,1,180650,33301,Jordan,"What's Up, Doch?",90,MID,52,True,261224,Dayne,Zorko,BRL,MID,R1
+400,2,180650,33301,Jordan,"What's Up, Doch?",90,MID,107,True,261224,Dayne,Zorko,BRL,MID,R2
+401,3,180650,33301,Jordan,"What's Up, Doch?",90,MID,0,False,261224,Dayne,Zorko,BRL,MID,R3
+402,4,180650,33301,Jordan,"What's Up, Doch?",90,MID,47,True,261224,Dayne,Zorko,BRL,MID,R4
+403,5,8258,9856,Simon,It's always Sonny,90,MID,0,False,261224,Dayne,Zorko,BRL,MID,R5
+404,6,8258,9856,Simon,It's always Sonny,90,MID,119,True,261224,Dayne,Zorko,BRL,MID,R6
+405,7,8258,9856,Simon,It's always Sonny,90,MID,116,True,261224,Dayne,Zorko,BRL,MID,R7
+406,8,8258,9856,Simon,It's always Sonny,90,MID,106,True,261224,Dayne,Zorko,BRL,MID,R8
+407,9,8258,9856,Simon,It's always Sonny,90,MID,81,True,261224,Dayne,Zorko,BRL,MID,R9
+408,10,8258,9856,Simon,It's always Sonny,90,MID,74,True,261224,Dayne,Zorko,BRL,MID,R10
+409,11,8258,9856,Simon,It's always Sonny,90,MID,163,True,261224,Dayne,Zorko,BRL,MID,R11
+410,12,8258,9856,Simon,It's always Sonny,90,MID,118,True,261224,Dayne,Zorko,BRL,MID,R12
+411,1,180650,33301,Jordan,"What's Up, Doch?",88,DEF,41,False,998128,Alex,Witherden,BRL,DEF,R1
+412,2,180650,33301,Jordan,"What's Up, Doch?",88,DEF,0,False,998128,Alex,Witherden,BRL,DEF,R2
+413,10,86078,9806,Lester,HoweIMetYourMother,88,DEF,85,True,998128,Alex,Witherden,BRL,DEF,R10
+414,11,86078,9806,Lester,HoweIMetYourMother,88,DEF,100,True,998128,Alex,Witherden,BRL,DEF,R11
+415,12,86078,9806,Lester,HoweIMetYourMother,88,DEF,101,True,998128,Alex,Witherden,BRL,DEF,R12
+416,1,180650,33301,Jordan,"What's Up, Doch?",59,MID,0,False,293479,Cameron,Ellis-Yolmen,BRL,MID,R1
+417,1,180650,33301,Jordan,"What's Up, Doch?",197,MID,0,False,290629,Dyson,Heppell,ESS,MID,R1
+418,2,180650,33301,Jordan,"What's Up, Doch?",197,MID,89,True,290629,Dyson,Heppell,ESS,MID,R2
+419,3,180650,33301,Jordan,"What's Up, Doch?",197,MID,0,False,290629,Dyson,Heppell,ESS,MID,R3
+420,4,180650,33301,Jordan,"What's Up, Doch?",197,MID,0,False,290629,Dyson,Heppell,ESS,MID,R4
+421,5,180650,33301,Jordan,"What's Up, Doch?",197,MID,0,False,290629,Dyson,Heppell,ESS,MID,R5
+422,1,180650,33301,Jordan,"What's Up, Doch?",256,MID,0,False,240052,David,Mundy,FRE,MID,R1
+423,3,10857,189,Anthony,The Full Bonty,256,MID,68,True,240052,David,Mundy,FRE,MID,R3
+424,7,21562,186,Mark,GetRichOrDieTryin,256,MID,38,True,240052,David,Mundy,FRE,MID,R7
+425,1,45168,5524,Luke,The Dragon's Laird,76,MID,157,True,293535,Lachie,Neale,BRL,MID,R1
+426,2,45168,5524,Luke,The Dragon's Laird,76,MID,171,True,293535,Lachie,Neale,BRL,MID,R2
+427,3,45168,5524,Luke,The Dragon's Laird,76,MID,166,True,293535,Lachie,Neale,BRL,MID,R3
+428,4,45168,5524,Luke,The Dragon's Laird,76,MID,147,True,293535,Lachie,Neale,BRL,MID,R4
+429,5,45168,5524,Luke,The Dragon's Laird,76,MID,130,True,293535,Lachie,Neale,BRL,MID,R5
+430,6,45168,5524,Luke,The Dragon's Laird,76,MID,134,True,293535,Lachie,Neale,BRL,MID,R6
+431,7,45168,5524,Luke,The Dragon's Laird,76,MID,87,True,293535,Lachie,Neale,BRL,MID,R7
+432,8,45168,5524,Luke,The Dragon's Laird,76,MID,152,True,293535,Lachie,Neale,BRL,MID,R8
+433,9,45168,5524,Luke,The Dragon's Laird,76,MID,157,True,293535,Lachie,Neale,BRL,MID,R9
+434,10,45168,5524,Luke,The Dragon's Laird,76,MID,149,True,293535,Lachie,Neale,BRL,MID,R10
+435,11,45168,5524,Luke,The Dragon's Laird,76,MID,167,True,293535,Lachie,Neale,BRL,MID,R11
+436,12,45168,5524,Luke,The Dragon's Laird,76,MID,134,True,293535,Lachie,Neale,BRL,MID,R12
+437,1,45168,5524,Luke,The Dragon's Laird,459,FWD,131,True,291962,Chad,Wingard,HAW,FWD MID,R1
+438,2,45168,5524,Luke,The Dragon's Laird,459,FWD,60,True,291962,Chad,Wingard,HAW,FWD MID,R2
+439,3,45168,5524,Luke,The Dragon's Laird,459,FWD,122,True,291962,Chad,Wingard,HAW,FWD MID,R3
+440,4,45168,5524,Luke,The Dragon's Laird,459,FWD,136,True,291962,Chad,Wingard,HAW,FWD MID,R4
+441,5,45168,5524,Luke,The Dragon's Laird,459,FWD,76,True,291962,Chad,Wingard,HAW,FWD MID,R5
+442,6,45168,5524,Luke,The Dragon's Laird,459,FWD,34,True,291962,Chad,Wingard,HAW,FWD MID,R6
+443,7,45168,5524,Luke,The Dragon's Laird,459,FWD,74,True,291962,Chad,Wingard,HAW,FWD MID,R7
+444,8,45168,5524,Luke,The Dragon's Laird,459,FWD,87,True,291962,Chad,Wingard,HAW,FWD MID,R8
+445,9,45168,5524,Luke,The Dragon's Laird,459,FWD,112,True,291962,Chad,Wingard,HAW,FWD MID,R9
+446,10,45168,5524,Luke,The Dragon's Laird,459,FWD,0,False,291962,Chad,Wingard,HAW,FWD MID,R10
+447,11,45168,5524,Luke,The Dragon's Laird,459,FWD,53,True,291962,Chad,Wingard,HAW,FWD MID,R11
+448,12,45168,5524,Luke,The Dragon's Laird,459,FWD,71,True,291962,Chad,Wingard,HAW,FWD MID,R12
+449,1,45168,5524,Luke,The Dragon's Laird,553,MID,125,True,250365,Travis,Boak,PTA,MID,R1
+450,2,45168,5524,Luke,The Dragon's Laird,553,MID,112,True,250365,Travis,Boak,PTA,MID,R2
+451,3,45168,5524,Luke,The Dragon's Laird,553,MID,159,True,250365,Travis,Boak,PTA,MID,R3
+452,4,45168,5524,Luke,The Dragon's Laird,553,MID,90,True,250365,Travis,Boak,PTA,MID,R4
+453,5,45168,5524,Luke,The Dragon's Laird,553,MID,133,True,250365,Travis,Boak,PTA,MID,R5
+454,6,45168,5524,Luke,The Dragon's Laird,553,MID,70,True,250365,Travis,Boak,PTA,MID,R6
+455,7,45168,5524,Luke,The Dragon's Laird,553,MID,98,True,250365,Travis,Boak,PTA,MID,R7
+456,8,45168,5524,Luke,The Dragon's Laird,553,MID,54,True,250365,Travis,Boak,PTA,MID,R8
+457,9,45168,5524,Luke,The Dragon's Laird,553,MID,104,True,250365,Travis,Boak,PTA,MID,R9
+458,10,45168,5524,Luke,The Dragon's Laird,553,MID,67,True,250365,Travis,Boak,PTA,MID,R10
+459,11,45168,5524,Luke,The Dragon's Laird,553,MID,129,True,250365,Travis,Boak,PTA,MID,R11
+460,12,45168,5524,Luke,The Dragon's Laird,553,MID,97,True,250365,Travis,Boak,PTA,MID,R12
+461,1,45168,5524,Luke,The Dragon's Laird,588,FWD,125,True,1001299,Connor,Rozee,PTA,FWD,R1
+462,2,45168,5524,Luke,The Dragon's Laird,588,FWD,145,True,1001299,Connor,Rozee,PTA,FWD,R2
+463,3,45168,5524,Luke,The Dragon's Laird,588,FWD,30,True,1001299,Connor,Rozee,PTA,FWD,R3
+464,4,45168,5524,Luke,The Dragon's Laird,588,FWD,53,True,1001299,Connor,Rozee,PTA,FWD,R4
+465,5,45168,5524,Luke,The Dragon's Laird,588,FWD,53,True,1001299,Connor,Rozee,PTA,FWD,R5
+466,6,45168,5524,Luke,The Dragon's Laird,588,FWD,54,True,1001299,Connor,Rozee,PTA,FWD,R6
+467,7,10857,189,Anthony,The Full Bonty,588,FWD,34,True,1001299,Connor,Rozee,PTA,FWD,R7
+468,1,45168,5524,Luke,The Dragon's Laird,36,MID,123,True,270963,Rory,Sloane,ADE,MID,R1
+469,2,45168,5524,Luke,The Dragon's Laird,36,MID,78,True,270963,Rory,Sloane,ADE,MID,R2
+470,3,45168,5524,Luke,The Dragon's Laird,36,MID,94,False,270963,Rory,Sloane,ADE,MID,R3
+471,4,45168,5524,Luke,The Dragon's Laird,36,MID,84,True,270963,Rory,Sloane,ADE,MID,R4
+472,5,45168,5524,Luke,The Dragon's Laird,36,MID,93,True,270963,Rory,Sloane,ADE,MID,R5
+473,6,45168,5524,Luke,The Dragon's Laird,36,MID,76,True,270963,Rory,Sloane,ADE,MID,R6
+474,7,45168,5524,Luke,The Dragon's Laird,36,MID,0,False,270963,Rory,Sloane,ADE,MID,R7
+475,8,45168,5524,Luke,The Dragon's Laird,36,MID,0,False,270963,Rory,Sloane,ADE,MID,R8
+476,9,45168,5524,Luke,The Dragon's Laird,36,MID,0,False,270963,Rory,Sloane,ADE,MID,R9
+477,10,45168,5524,Luke,The Dragon's Laird,36,MID,0,False,270963,Rory,Sloane,ADE,MID,R10
+478,11,45168,5524,Luke,The Dragon's Laird,36,MID,0,False,270963,Rory,Sloane,ADE,MID,R11
+479,12,45168,5524,Luke,The Dragon's Laird,36,MID,68,True,270963,Rory,Sloane,ADE,MID,R12
+480,1,45168,5524,Luke,The Dragon's Laird,628,MID,118,True,290627,Dion,Prestia,RIC,MID,R1
+481,2,45168,5524,Luke,The Dragon's Laird,628,MID,72,True,290627,Dion,Prestia,RIC,MID,R2
+482,3,45168,5524,Luke,The Dragon's Laird,628,MID,97,True,290627,Dion,Prestia,RIC,MID,R3
+483,4,45168,5524,Luke,The Dragon's Laird,628,MID,86,True,290627,Dion,Prestia,RIC,MID,R4
+484,5,45168,5524,Luke,The Dragon's Laird,628,MID,89,True,290627,Dion,Prestia,RIC,MID,R5
+485,6,45168,5524,Luke,The Dragon's Laird,628,MID,0,False,290627,Dion,Prestia,RIC,MID,R6
+486,7,45168,5524,Luke,The Dragon's Laird,628,MID,0,False,290627,Dion,Prestia,RIC,MID,R7
+487,8,45168,5524,Luke,The Dragon's Laird,628,MID,0,False,290627,Dion,Prestia,RIC,MID,R8
+488,9,45168,5524,Luke,The Dragon's Laird,628,MID,0,False,290627,Dion,Prestia,RIC,MID,R9
+489,10,45168,5524,Luke,The Dragon's Laird,628,MID,0,False,290627,Dion,Prestia,RIC,MID,R10
+490,11,45168,5524,Luke,The Dragon's Laird,628,MID,0,False,290627,Dion,Prestia,RIC,MID,R11
+491,12,45168,5524,Luke,The Dragon's Laird,628,MID,0,False,290627,Dion,Prestia,RIC,MID,R12
+492,1,45168,5524,Luke,The Dragon's Laird,446,MID,112,True,294613,Jaeger,O'Meara,HAW,MID,R1
+493,2,45168,5524,Luke,The Dragon's Laird,446,MID,0,False,294613,Jaeger,O'Meara,HAW,MID,R2
+494,3,45168,5524,Luke,The Dragon's Laird,446,MID,142,True,294613,Jaeger,O'Meara,HAW,MID,R3
+495,4,45168,5524,Luke,The Dragon's Laird,446,MID,54,True,294613,Jaeger,O'Meara,HAW,MID,R4
+496,5,45168,5524,Luke,The Dragon's Laird,446,MID,100,True,294613,Jaeger,O'Meara,HAW,MID,R5
+497,6,45168,5524,Luke,The Dragon's Laird,446,MID,66,True,294613,Jaeger,O'Meara,HAW,MID,R6
+498,7,45168,5524,Luke,The Dragon's Laird,446,MID,79,True,294613,Jaeger,O'Meara,HAW,MID,R7
+499,8,45168,5524,Luke,The Dragon's Laird,446,MID,97,True,294613,Jaeger,O'Meara,HAW,MID,R8
+500,9,45168,5524,Luke,The Dragon's Laird,446,MID,102,True,294613,Jaeger,O'Meara,HAW,MID,R9
+501,10,45168,5524,Luke,The Dragon's Laird,446,MID,0,False,294613,Jaeger,O'Meara,HAW,MID,R10
+502,11,45168,5524,Luke,The Dragon's Laird,446,MID,61,True,294613,Jaeger,O'Meara,HAW,MID,R11
+503,12,45168,5524,Luke,The Dragon's Laird,446,MID,116,True,294613,Jaeger,O'Meara,HAW,MID,R12
+504,1,45168,5524,Luke,The Dragon's Laird,30,RUC,107,True,297523,Reilly,O'Brien,ADE,RUC,R1
+505,2,45168,5524,Luke,The Dragon's Laird,30,RUC,161,True,297523,Reilly,O'Brien,ADE,RUC,R2
+506,3,45168,5524,Luke,The Dragon's Laird,30,RUC,91,True,297523,Reilly,O'Brien,ADE,RUC,R3
+507,4,45168,5524,Luke,The Dragon's Laird,30,RUC,88,True,297523,Reilly,O'Brien,ADE,RUC,R4
+508,5,45168,5524,Luke,The Dragon's Laird,30,RUC,95,True,297523,Reilly,O'Brien,ADE,RUC,R5
+509,6,45168,5524,Luke,The Dragon's Laird,30,RUC,103,True,297523,Reilly,O'Brien,ADE,RUC,R6
+510,7,45168,5524,Luke,The Dragon's Laird,30,RUC,143,True,297523,Reilly,O'Brien,ADE,RUC,R7
+511,8,45168,5524,Luke,The Dragon's Laird,30,RUC,86,True,297523,Reilly,O'Brien,ADE,RUC,R8
+512,9,45168,5524,Luke,The Dragon's Laird,30,RUC,94,True,297523,Reilly,O'Brien,ADE,RUC,R9
+513,10,45168,5524,Luke,The Dragon's Laird,30,RUC,50,True,297523,Reilly,O'Brien,ADE,RUC,R10
+514,11,45168,5524,Luke,The Dragon's Laird,30,RUC,106,True,297523,Reilly,O'Brien,ADE,RUC,R11
+515,12,45168,5524,Luke,The Dragon's Laird,30,RUC,124,True,297523,Reilly,O'Brien,ADE,RUC,R12
+516,1,45168,5524,Luke,The Dragon's Laird,761,FWD,106,True,1006130,Bailey,Smith,WBD,FWD MID,R1
+517,2,45168,5524,Luke,The Dragon's Laird,761,FWD,126,True,1006130,Bailey,Smith,WBD,FWD MID,R2
+518,3,45168,5524,Luke,The Dragon's Laird,761,FWD,101,True,1006130,Bailey,Smith,WBD,FWD MID,R3
+519,4,45168,5524,Luke,The Dragon's Laird,761,FWD,93,True,1006130,Bailey,Smith,WBD,FWD MID,R4
+520,5,45168,5524,Luke,The Dragon's Laird,761,FWD,3,True,1006130,Bailey,Smith,WBD,FWD MID,R5
+521,6,45168,5524,Luke,The Dragon's Laird,761,FWD,119,True,1006130,Bailey,Smith,WBD,FWD MID,R6
+522,7,45168,5524,Luke,The Dragon's Laird,761,FWD,77,True,1006130,Bailey,Smith,WBD,FWD MID,R7
+523,8,45168,5524,Luke,The Dragon's Laird,761,FWD,104,True,1006130,Bailey,Smith,WBD,FWD MID,R8
+524,9,45168,5524,Luke,The Dragon's Laird,761,FWD,76,True,1006130,Bailey,Smith,WBD,FWD MID,R9
+525,10,45168,5524,Luke,The Dragon's Laird,761,FWD,88,True,1006130,Bailey,Smith,WBD,FWD MID,R10
+526,11,45168,5524,Luke,The Dragon's Laird,761,FWD,68,True,1006130,Bailey,Smith,WBD,FWD MID,R11
+527,12,45168,5524,Luke,The Dragon's Laird,761,FWD,150,True,1006130,Bailey,Smith,WBD,FWD MID,R12
+528,1,45168,5524,Luke,The Dragon's Laird,21,DEF,88,True,293222,Rory,Laird,ADE,DEF,R1
+529,2,45168,5524,Luke,The Dragon's Laird,21,DEF,72,True,293222,Rory,Laird,ADE,DEF,R2
+530,3,45168,5524,Luke,The Dragon's Laird,21,DEF,107,True,293222,Rory,Laird,ADE,DEF,R3
+531,4,45168,5524,Luke,The Dragon's Laird,21,DEF,86,True,293222,Rory,Laird,ADE,DEF,R4
+532,5,45168,5524,Luke,The Dragon's Laird,21,DEF,107,True,293222,Rory,Laird,ADE,DEF,R5
+533,6,45168,5524,Luke,The Dragon's Laird,21,DEF,76,True,293222,Rory,Laird,ADE,DEF,R6
+534,7,45168,5524,Luke,The Dragon's Laird,21,DEF,91,True,293222,Rory,Laird,ADE,DEF,R7
+535,8,45168,5524,Luke,The Dragon's Laird,21,DEF,97,True,293222,Rory,Laird,ADE,DEF,R8
+536,9,45168,5524,Luke,The Dragon's Laird,21,DEF,93,True,293222,Rory,Laird,ADE,DEF,R9
+537,10,45168,5524,Luke,The Dragon's Laird,21,DEF,120,True,293222,Rory,Laird,ADE,DEF,R10
+538,11,45168,5524,Luke,The Dragon's Laird,21,DEF,185,True,293222,Rory,Laird,ADE,DEF,R11
+539,12,45168,5524,Luke,The Dragon's Laird,21,DEF,77,True,293222,Rory,Laird,ADE,DEF,R12
+540,1,45168,5524,Luke,The Dragon's Laird,713,FWD,85,True,996765,Tom,Papley,SYD,FWD,R1
+541,2,45168,5524,Luke,The Dragon's Laird,713,FWD,84,True,996765,Tom,Papley,SYD,FWD,R2
+542,3,45168,5524,Luke,The Dragon's Laird,713,FWD,109,True,996765,Tom,Papley,SYD,FWD,R3
+543,4,45168,5524,Luke,The Dragon's Laird,713,FWD,101,True,996765,Tom,Papley,SYD,FWD,R4
+544,5,45168,5524,Luke,The Dragon's Laird,713,FWD,79,True,996765,Tom,Papley,SYD,FWD,R5
+545,6,45168,5524,Luke,The Dragon's Laird,713,FWD,72,True,996765,Tom,Papley,SYD,FWD,R6
+546,7,45168,5524,Luke,The Dragon's Laird,713,FWD,102,True,996765,Tom,Papley,SYD,FWD,R7
+547,8,45168,5524,Luke,The Dragon's Laird,713,FWD,101,True,996765,Tom,Papley,SYD,FWD,R8
+548,9,45168,5524,Luke,The Dragon's Laird,713,FWD,57,True,996765,Tom,Papley,SYD,FWD,R9
+549,10,45168,5524,Luke,The Dragon's Laird,713,FWD,55,True,996765,Tom,Papley,SYD,FWD,R10
+550,11,45168,5524,Luke,The Dragon's Laird,713,FWD,0,False,996765,Tom,Papley,SYD,FWD,R11
+551,12,45168,5524,Luke,The Dragon's Laird,713,FWD,82,True,996765,Tom,Papley,SYD,FWD,R12
+552,1,45168,5524,Luke,The Dragon's Laird,746,MID,84,True,294557,Lachie,Hunter,WBD,MID,R1
+553,2,45168,5524,Luke,The Dragon's Laird,746,MID,0,False,294557,Lachie,Hunter,WBD,MID,R2
+554,3,45168,5524,Luke,The Dragon's Laird,746,MID,0,False,294557,Lachie,Hunter,WBD,MID,R3
+555,4,45168,5524,Luke,The Dragon's Laird,746,MID,0,False,294557,Lachie,Hunter,WBD,MID,R4
+556,5,45168,5524,Luke,The Dragon's Laird,746,MID,0,False,294557,Lachie,Hunter,WBD,MID,R5
+557,6,45168,5524,Luke,The Dragon's Laird,746,MID,108,True,294557,Lachie,Hunter,WBD,MID,R6
+558,7,45168,5524,Luke,The Dragon's Laird,746,MID,118,True,294557,Lachie,Hunter,WBD,MID,R7
+559,8,45168,5524,Luke,The Dragon's Laird,746,MID,0,False,294557,Lachie,Hunter,WBD,MID,R8
+560,9,45168,5524,Luke,The Dragon's Laird,746,MID,0,False,294557,Lachie,Hunter,WBD,MID,R9
+561,10,45168,5524,Luke,The Dragon's Laird,746,MID,0,False,294557,Lachie,Hunter,WBD,MID,R10
+562,11,45168,5524,Luke,The Dragon's Laird,746,MID,0,False,294557,Lachie,Hunter,WBD,MID,R11
+563,12,45168,5524,Luke,The Dragon's Laird,746,MID,141,True,294557,Lachie,Hunter,WBD,MID,R12
+564,1,45168,5524,Luke,The Dragon's Laird,703,DEF,77,True,295342,Jake,Lloyd,SYD,DEF,R1
+565,2,45168,5524,Luke,The Dragon's Laird,703,DEF,145,True,295342,Jake,Lloyd,SYD,DEF,R2
+566,3,45168,5524,Luke,The Dragon's Laird,703,DEF,101,True,295342,Jake,Lloyd,SYD,DEF,R3
+567,4,45168,5524,Luke,The Dragon's Laird,703,DEF,102,True,295342,Jake,Lloyd,SYD,DEF,R4
+568,5,45168,5524,Luke,The Dragon's Laird,703,DEF,132,True,295342,Jake,Lloyd,SYD,DEF,R5
+569,6,45168,5524,Luke,The Dragon's Laird,703,DEF,102,True,295342,Jake,Lloyd,SYD,DEF,R6
+570,7,45168,5524,Luke,The Dragon's Laird,703,DEF,111,True,295342,Jake,Lloyd,SYD,DEF,R7
+571,8,45168,5524,Luke,The Dragon's Laird,703,DEF,157,True,295342,Jake,Lloyd,SYD,DEF,R8
+572,9,45168,5524,Luke,The Dragon's Laird,703,DEF,126,True,295342,Jake,Lloyd,SYD,DEF,R9
+573,10,45168,5524,Luke,The Dragon's Laird,703,DEF,133,True,295342,Jake,Lloyd,SYD,DEF,R10
+574,11,45168,5524,Luke,The Dragon's Laird,703,DEF,0,False,295342,Jake,Lloyd,SYD,DEF,R11
+575,12,45168,5524,Luke,The Dragon's Laird,703,DEF,137,True,295342,Jake,Lloyd,SYD,DEF,R12
+576,1,45168,5524,Luke,The Dragon's Laird,200,DEF,63,True,270935,Michael,Hurley,ESS,DEF,R1
+577,2,45168,5524,Luke,The Dragon's Laird,200,DEF,78,True,270935,Michael,Hurley,ESS,DEF,R2
+578,3,45168,5524,Luke,The Dragon's Laird,200,DEF,0,False,270935,Michael,Hurley,ESS,DEF,R3
+579,4,45168,5524,Luke,The Dragon's Laird,200,DEF,72,False,270935,Michael,Hurley,ESS,DEF,R4
+580,5,45168,5524,Luke,The Dragon's Laird,200,DEF,89,False,270935,Michael,Hurley,ESS,DEF,R5
+581,6,45168,5524,Luke,The Dragon's Laird,200,DEF,112,False,270935,Michael,Hurley,ESS,DEF,R6
+582,7,45168,5524,Luke,The Dragon's Laird,200,DEF,99,True,270935,Michael,Hurley,ESS,DEF,R7
+583,8,45168,5524,Luke,The Dragon's Laird,200,DEF,77,True,270935,Michael,Hurley,ESS,DEF,R8
+584,9,45168,5524,Luke,The Dragon's Laird,200,DEF,87,True,270935,Michael,Hurley,ESS,DEF,R9
+585,10,45168,5524,Luke,The Dragon's Laird,200,DEF,93,True,270935,Michael,Hurley,ESS,DEF,R10
+586,11,45168,5524,Luke,The Dragon's Laird,200,DEF,0,False,270935,Michael,Hurley,ESS,DEF,R11
+587,12,45168,5524,Luke,The Dragon's Laird,200,DEF,110,True,270935,Michael,Hurley,ESS,DEF,R12
+588,1,45168,5524,Luke,The Dragon's Laird,146,DEF,62,True,293871,Jack,Crisp,COL,DEF,R1
+589,2,45168,5524,Luke,The Dragon's Laird,146,DEF,108,True,293871,Jack,Crisp,COL,DEF,R2
+590,3,45168,5524,Luke,The Dragon's Laird,146,DEF,114,True,293871,Jack,Crisp,COL,DEF,R3
+591,4,45168,5524,Luke,The Dragon's Laird,146,DEF,115,True,293871,Jack,Crisp,COL,DEF,R4
+592,5,45168,5524,Luke,The Dragon's Laird,146,DEF,68,True,293871,Jack,Crisp,COL,DEF,R5
+593,6,45168,5524,Luke,The Dragon's Laird,146,DEF,91,True,293871,Jack,Crisp,COL,DEF,R6
+594,7,45168,5524,Luke,The Dragon's Laird,146,DEF,107,True,293871,Jack,Crisp,COL,DEF,R7
+595,8,45168,5524,Luke,The Dragon's Laird,146,DEF,89,True,293871,Jack,Crisp,COL,DEF,R8
+596,9,45168,5524,Luke,The Dragon's Laird,146,DEF,99,True,293871,Jack,Crisp,COL,DEF,R9
+597,10,45168,5524,Luke,The Dragon's Laird,146,DEF,81,True,293871,Jack,Crisp,COL,DEF,R10
+598,11,45168,5524,Luke,The Dragon's Laird,146,DEF,109,True,293871,Jack,Crisp,COL,DEF,R11
+599,12,45168,5524,Luke,The Dragon's Laird,146,DEF,58,True,293871,Jack,Crisp,COL,DEF,R12
+600,1,45168,5524,Luke,The Dragon's Laird,97,MID,57,True,270146,Ed,Curnow,CAR,MID,R1
+601,2,45168,5524,Luke,The Dragon's Laird,97,MID,98,True,270146,Ed,Curnow,CAR,MID,R2
+602,3,45168,5524,Luke,The Dragon's Laird,97,MID,74,True,270146,Ed,Curnow,CAR,MID,R3
+603,5,45168,5524,Luke,The Dragon's Laird,97,MID,74,True,270146,Ed,Curnow,CAR,MID,R5
+604,6,45168,5524,Luke,The Dragon's Laird,97,MID,115,False,270146,Ed,Curnow,CAR,MID,R6
+605,7,45168,5524,Luke,The Dragon's Laird,97,MID,88,True,270146,Ed,Curnow,CAR,MID,R7
+606,8,45168,5524,Luke,The Dragon's Laird,97,MID,123,True,270146,Ed,Curnow,CAR,MID,R8
+607,9,45168,5524,Luke,The Dragon's Laird,97,MID,95,True,270146,Ed,Curnow,CAR,MID,R9
+608,10,45168,5524,Luke,The Dragon's Laird,97,MID,0,False,270146,Ed,Curnow,CAR,MID,R10
+609,11,45168,5524,Luke,The Dragon's Laird,97,MID,91,True,270146,Ed,Curnow,CAR,MID,R11
+610,12,45168,5524,Luke,The Dragon's Laird,97,MID,105,True,270146,Ed,Curnow,CAR,MID,R12
+611,1,45168,5524,Luke,The Dragon's Laird,235,DEF,54,True,1002239,Adam,Cerra,FRE,DEF,R1
+612,5,86078,9806,Lester,HoweIMetYourMother,235,DEF,134,True,1002239,Adam,Cerra,FRE,DEF,R5
+613,6,86078,9806,Lester,HoweIMetYourMother,235,DEF,54,True,1002239,Adam,Cerra,FRE,DEF,R6
+614,7,86078,9806,Lester,HoweIMetYourMother,235,DEF,79,True,1002239,Adam,Cerra,FRE,DEF,R7
+615,8,21562,186,Mark,GetRichOrDieTryin,235,DEF,113,False,1002239,Adam,Cerra,FRE,DEF,R8
+616,9,21562,186,Mark,GetRichOrDieTryin,235,DEF,72,False,1002239,Adam,Cerra,FRE,DEF,R9
+617,12,180650,33301,Jordan,"What's Up, Doch?",235,DEF,89,True,1002239,Adam,Cerra,FRE,DEF,R12
+618,1,45168,5524,Luke,The Dragon's Laird,719,FWD,46,True,1006126,James,Rowbottom,SYD,FWD MID,R1
+619,4,10857,189,Anthony,The Full Bonty,719,FWD,76,True,1006126,James,Rowbottom,SYD,FWD MID,R4
+620,5,10857,189,Anthony,The Full Bonty,719,FWD,81,True,1006126,James,Rowbottom,SYD,FWD MID,R5
+621,7,86078,9806,Lester,HoweIMetYourMother,719,MID,84,True,1006126,James,Rowbottom,SYD,FWD MID,R7
+622,8,86078,9806,Lester,HoweIMetYourMother,719,FWD,76,True,1006126,James,Rowbottom,SYD,FWD MID,R8
+623,9,86078,9806,Lester,HoweIMetYourMother,719,FWD,92,True,1006126,James,Rowbottom,SYD,FWD MID,R9
+624,10,86078,9806,Lester,HoweIMetYourMother,719,FWD,94,True,1006126,James,Rowbottom,SYD,FWD MID,R10
+625,11,86078,9806,Lester,HoweIMetYourMother,719,FWD,0,False,1006126,James,Rowbottom,SYD,FWD MID,R11
+626,12,86078,9806,Lester,HoweIMetYourMother,719,FWD,104,True,1006126,James,Rowbottom,SYD,FWD MID,R12
+627,1,45168,5524,Luke,The Dragon's Laird,484,DEF,69,False,281085,Steven,May,MEL,DEF,R1
+628,7,45168,5524,Luke,The Dragon's Laird,484,DEF,90,False,281085,Steven,May,MEL,DEF,R7
+629,9,180650,33301,Jordan,"What's Up, Doch?",484,DEF,91,True,281085,Steven,May,MEL,DEF,R9
+630,10,180650,33301,Jordan,"What's Up, Doch?",484,DEF,100,True,281085,Steven,May,MEL,DEF,R10
+631,11,180650,33301,Jordan,"What's Up, Doch?",484,DEF,36,True,281085,Steven,May,MEL,DEF,R11
+632,12,180650,33301,Jordan,"What's Up, Doch?",484,DEF,115,True,281085,Steven,May,MEL,DEF,R12
+633,1,45168,5524,Luke,The Dragon's Laird,657,MID,58,False,295584,Bradley,Hill,STK,MID,R1
+634,1,45168,5524,Luke,The Dragon's Laird,676,MID,84,False,293846,Sebastian,Ross,STK,MID,R1
+635,2,45168,5524,Luke,The Dragon's Laird,676,MID,111,True,293846,Sebastian,Ross,STK,MID,R2
+636,3,45168,5524,Luke,The Dragon's Laird,676,MID,58,True,293846,Sebastian,Ross,STK,MID,R3
+637,4,45168,5524,Luke,The Dragon's Laird,676,MID,60,True,293846,Sebastian,Ross,STK,MID,R4
+638,5,45168,5524,Luke,The Dragon's Laird,676,MID,107,True,293846,Sebastian,Ross,STK,MID,R5
+639,6,45168,5524,Luke,The Dragon's Laird,676,MID,37,True,293846,Sebastian,Ross,STK,MID,R6
+640,7,10857,189,Anthony,The Full Bonty,676,MID,70,True,293846,Sebastian,Ross,STK,MID,R7
+641,8,10857,189,Anthony,The Full Bonty,676,MID,67,False,293846,Sebastian,Ross,STK,MID,R8
+642,1,45168,5524,Luke,The Dragon's Laird,426,FWD,73,False,291351,Jack,Gunston,HAW,FWD,R1
+643,2,45168,5524,Luke,The Dragon's Laird,426,FWD,71,True,291351,Jack,Gunston,HAW,FWD,R2
+644,3,45168,5524,Luke,The Dragon's Laird,426,FWD,75,False,291351,Jack,Gunston,HAW,FWD,R3
+645,4,45168,5524,Luke,The Dragon's Laird,426,FWD,53,False,291351,Jack,Gunston,HAW,FWD,R4
+646,6,10857,189,Anthony,The Full Bonty,426,FWD,58,True,291351,Jack,Gunston,HAW,FWD,R6
+647,8,10857,189,Anthony,The Full Bonty,426,FWD,52,True,291351,Jack,Gunston,HAW,FWD,R8
+648,11,21562,186,Mark,GetRichOrDieTryin,426,FWD,86,False,291351,Jack,Gunston,HAW,FWD,R11
+649,12,21562,186,Mark,GetRichOrDieTryin,426,FWD,66,False,291351,Jack,Gunston,HAW,FWD,R12
+650,1,300791,182,Paul,Coronaviney,501,MID,186,True,291902,Jack,Viney,MEL,MID,R1
+651,2,300791,182,Paul,Coronaviney,501,MID,86,True,291902,Jack,Viney,MEL,MID,R2
+652,3,300791,182,Paul,Coronaviney,501,MID,0,False,291902,Jack,Viney,MEL,MID,R3
+653,4,300791,182,Paul,Coronaviney,501,MID,91,True,291902,Jack,Viney,MEL,MID,R4
+654,5,300791,182,Paul,Coronaviney,501,MID,60,True,291902,Jack,Viney,MEL,MID,R5
+655,6,300791,182,Paul,Coronaviney,501,MID,123,True,291902,Jack,Viney,MEL,MID,R6
+656,7,300791,182,Paul,Coronaviney,501,MID,120,True,291902,Jack,Viney,MEL,MID,R7
+657,8,300791,182,Paul,Coronaviney,501,MID,118,True,291902,Jack,Viney,MEL,MID,R8
+658,9,300791,182,Paul,Coronaviney,501,MID,82,True,291902,Jack,Viney,MEL,MID,R9
+659,10,300791,182,Paul,Coronaviney,501,MID,109,True,291902,Jack,Viney,MEL,MID,R10
+660,11,300791,182,Paul,Coronaviney,501,MID,0,False,291902,Jack,Viney,MEL,MID,R11
+661,12,300791,182,Paul,Coronaviney,501,MID,69,True,291902,Jack,Viney,MEL,MID,R12
+662,1,300791,182,Paul,Coronaviney,513,MID,185,True,280921,Ben,Cunnington,NTH,MID,R1
+663,2,300791,182,Paul,Coronaviney,513,MID,72,True,280921,Ben,Cunnington,NTH,MID,R2
+664,3,300791,182,Paul,Coronaviney,513,MID,0,False,280921,Ben,Cunnington,NTH,MID,R3
+665,4,300791,182,Paul,Coronaviney,513,MID,0,False,280921,Ben,Cunnington,NTH,MID,R4
+666,5,300791,182,Paul,Coronaviney,513,MID,50,True,280921,Ben,Cunnington,NTH,MID,R5
+667,6,300791,182,Paul,Coronaviney,513,MID,0,False,280921,Ben,Cunnington,NTH,MID,R6
+668,7,300791,182,Paul,Coronaviney,513,MID,0,False,280921,Ben,Cunnington,NTH,MID,R7
+669,8,300791,182,Paul,Coronaviney,513,MID,0,False,280921,Ben,Cunnington,NTH,MID,R8
+670,1,300791,182,Paul,Coronaviney,698,FWD,152,True,298539,Isaac,Heeney,SYD,FWD MID,R1
+671,2,300791,182,Paul,Coronaviney,698,FWD,60,True,298539,Isaac,Heeney,SYD,FWD MID,R2
+672,3,300791,182,Paul,Coronaviney,698,FWD,123,True,298539,Isaac,Heeney,SYD,FWD MID,R3
+673,4,300791,182,Paul,Coronaviney,698,FWD,64,True,298539,Isaac,Heeney,SYD,FWD MID,R4
+674,5,300791,182,Paul,Coronaviney,698,MID,79,True,298539,Isaac,Heeney,SYD,FWD MID,R5
+675,6,300791,182,Paul,Coronaviney,698,FWD,86,True,298539,Isaac,Heeney,SYD,FWD MID,R6
+676,1,300791,182,Paul,Coronaviney,395,RUC,134,True,270811,Sam,Jacobs,GWS,RUC,R1
+677,2,300791,182,Paul,Coronaviney,395,RUC,56,True,270811,Sam,Jacobs,GWS,RUC,R2
+678,3,300791,182,Paul,Coronaviney,395,RUC,95,True,270811,Sam,Jacobs,GWS,RUC,R3
+679,1,300791,182,Paul,Coronaviney,787,MID,119,True,290801,Andrew,Gaff,WCE,MID,R1
+680,2,300791,182,Paul,Coronaviney,787,MID,137,True,290801,Andrew,Gaff,WCE,MID,R2
+681,3,300791,182,Paul,Coronaviney,787,MID,117,True,290801,Andrew,Gaff,WCE,MID,R3
+682,4,300791,182,Paul,Coronaviney,787,MID,112,True,290801,Andrew,Gaff,WCE,MID,R4
+683,5,300791,182,Paul,Coronaviney,787,MID,83,True,290801,Andrew,Gaff,WCE,MID,R5
+684,6,300791,182,Paul,Coronaviney,787,MID,67,True,290801,Andrew,Gaff,WCE,MID,R6
+685,7,300791,182,Paul,Coronaviney,787,MID,90,True,290801,Andrew,Gaff,WCE,MID,R7
+686,8,300791,182,Paul,Coronaviney,787,MID,130,True,290801,Andrew,Gaff,WCE,MID,R8
+687,9,300791,182,Paul,Coronaviney,787,MID,66,True,290801,Andrew,Gaff,WCE,MID,R9
+688,10,300791,182,Paul,Coronaviney,787,MID,0,False,290801,Andrew,Gaff,WCE,MID,R10
+689,11,300791,182,Paul,Coronaviney,787,MID,96,True,290801,Andrew,Gaff,WCE,MID,R11
+690,12,300791,182,Paul,Coronaviney,787,MID,94,True,290801,Andrew,Gaff,WCE,MID,R12
+691,1,300791,182,Paul,Coronaviney,211,MID,111,True,992016,Zach,Merrett,ESS,MID,R1
+692,2,300791,182,Paul,Coronaviney,211,MID,159,True,992016,Zach,Merrett,ESS,MID,R2
+693,3,300791,182,Paul,Coronaviney,211,MID,0,False,992016,Zach,Merrett,ESS,MID,R3
+694,4,300791,182,Paul,Coronaviney,211,MID,78,True,992016,Zach,Merrett,ESS,MID,R4
+695,5,300791,182,Paul,Coronaviney,211,MID,0,False,992016,Zach,Merrett,ESS,MID,R5
+696,6,300791,182,Paul,Coronaviney,211,MID,68,True,992016,Zach,Merrett,ESS,MID,R6
+697,7,300791,182,Paul,Coronaviney,211,MID,96,True,992016,Zach,Merrett,ESS,MID,R7
+698,8,300791,182,Paul,Coronaviney,211,MID,135,True,992016,Zach,Merrett,ESS,MID,R8
+699,9,300791,182,Paul,Coronaviney,211,MID,87,True,992016,Zach,Merrett,ESS,MID,R9
+700,10,300791,182,Paul,Coronaviney,211,MID,119,True,992016,Zach,Merrett,ESS,MID,R10
+701,11,300791,182,Paul,Coronaviney,211,MID,137,True,992016,Zach,Merrett,ESS,MID,R11
+702,12,300791,182,Paul,Coronaviney,211,MID,97,True,992016,Zach,Merrett,ESS,MID,R12
+703,1,300791,182,Paul,Coronaviney,414,FWD,109,True,294305,Lachie,Whitfield,GWS,FWD MID,R1
+704,2,300791,182,Paul,Coronaviney,414,FWD,97,True,294305,Lachie,Whitfield,GWS,FWD MID,R2
+705,3,300791,182,Paul,Coronaviney,414,FWD,8,True,294305,Lachie,Whitfield,GWS,FWD MID,R3
+706,4,300791,182,Paul,Coronaviney,414,FWD,85,True,294305,Lachie,Whitfield,GWS,FWD MID,R4
+707,5,300791,182,Paul,Coronaviney,414,FWD,93,True,294305,Lachie,Whitfield,GWS,FWD MID,R5
+708,6,300791,182,Paul,Coronaviney,414,FWD,111,True,294305,Lachie,Whitfield,GWS,FWD MID,R6
+709,7,300791,182,Paul,Coronaviney,414,FWD,102,True,294305,Lachie,Whitfield,GWS,FWD MID,R7
+710,8,300791,182,Paul,Coronaviney,414,FWD,116,True,294305,Lachie,Whitfield,GWS,FWD MID,R8
+711,9,300791,182,Paul,Coronaviney,414,FWD,148,True,294305,Lachie,Whitfield,GWS,FWD MID,R9
+712,10,300791,182,Paul,Coronaviney,414,FWD,131,True,294305,Lachie,Whitfield,GWS,FWD MID,R10
+713,11,300791,182,Paul,Coronaviney,414,FWD,0,False,294305,Lachie,Whitfield,GWS,FWD MID,R11
+714,12,300791,182,Paul,Coronaviney,414,FWD,84,True,294305,Lachie,Whitfield,GWS,FWD MID,R12
+715,1,300791,182,Paul,Coronaviney,47,DEF,103,True,996059,Harris,Andrews,BRL,DEF,R1
+716,2,300791,182,Paul,Coronaviney,47,DEF,88,True,996059,Harris,Andrews,BRL,DEF,R2
+717,3,300791,182,Paul,Coronaviney,47,DEF,94,True,996059,Harris,Andrews,BRL,DEF,R3
+718,4,300791,182,Paul,Coronaviney,47,DEF,96,True,996059,Harris,Andrews,BRL,DEF,R4
+719,5,300791,182,Paul,Coronaviney,47,DEF,83,True,996059,Harris,Andrews,BRL,DEF,R5
+720,6,300791,182,Paul,Coronaviney,47,DEF,43,True,996059,Harris,Andrews,BRL,DEF,R6
+721,7,300791,182,Paul,Coronaviney,47,DEF,127,True,996059,Harris,Andrews,BRL,DEF,R7
+722,8,300791,182,Paul,Coronaviney,47,DEF,68,True,996059,Harris,Andrews,BRL,DEF,R8
+723,9,300791,182,Paul,Coronaviney,47,DEF,92,True,996059,Harris,Andrews,BRL,DEF,R9
+724,10,300791,182,Paul,Coronaviney,47,DEF,127,True,996059,Harris,Andrews,BRL,DEF,R10
+725,11,300791,182,Paul,Coronaviney,47,DEF,44,True,996059,Harris,Andrews,BRL,DEF,R11
+726,12,300791,182,Paul,Coronaviney,47,DEF,81,True,996059,Harris,Andrews,BRL,DEF,R12
+727,1,300791,182,Paul,Coronaviney,418,FWD,101,True,291327,Jonathon,Ceglar,HAW,RUC FWD,R1
+728,2,300791,182,Paul,Coronaviney,418,FWD,71,True,291327,Jonathon,Ceglar,HAW,RUC FWD,R2
+729,3,300791,182,Paul,Coronaviney,418,FWD,120,True,291327,Jonathon,Ceglar,HAW,RUC FWD,R3
+730,4,300791,182,Paul,Coronaviney,418,FWD,86,True,291327,Jonathon,Ceglar,HAW,RUC FWD,R4
+731,5,300791,182,Paul,Coronaviney,418,FWD,53,True,291327,Jonathon,Ceglar,HAW,RUC FWD,R5
+732,6,300791,182,Paul,Coronaviney,418,FWD,43,True,291327,Jonathon,Ceglar,HAW,RUC FWD,R6
+733,7,300791,182,Paul,Coronaviney,418,FWD,0,False,291327,Jonathon,Ceglar,HAW,RUC FWD,R7
+734,8,300791,182,Paul,Coronaviney,418,FWD,0,False,291327,Jonathon,Ceglar,HAW,RUC FWD,R8
+735,9,300791,182,Paul,Coronaviney,418,FWD,89,True,291327,Jonathon,Ceglar,HAW,RUC FWD,R9
+736,10,300791,182,Paul,Coronaviney,418,FWD,0,False,291327,Jonathon,Ceglar,HAW,RUC FWD,R10
+737,11,300791,182,Paul,Coronaviney,418,FWD,54,True,291327,Jonathon,Ceglar,HAW,RUC FWD,R11
+738,12,300791,182,Paul,Coronaviney,418,FWD,0,False,291327,Jonathon,Ceglar,HAW,RUC FWD,R12
+739,1,300791,182,Paul,Coronaviney,28,DEF,96,True,990882,Wayne,Milera,ADE,DEF MID,R1
+740,2,300791,182,Paul,Coronaviney,28,DEF,70,True,990882,Wayne,Milera,ADE,DEF MID,R2
+741,12,10857,189,Anthony,The Full Bonty,28,DEF,0,False,990882,Wayne,Milera,ADE,DEF MID,R12
+742,1,300791,182,Paul,Coronaviney,690,DEF,84,True,992242,Jordan,Dawson,SYD,DEF FWD,R1
+743,2,300791,182,Paul,Coronaviney,690,DEF,45,True,992242,Jordan,Dawson,SYD,DEF FWD,R2
+744,3,300791,182,Paul,Coronaviney,690,DEF,113,False,992242,Jordan,Dawson,SYD,DEF FWD,R3
+745,4,300791,182,Paul,Coronaviney,690,FWD,54,True,992242,Jordan,Dawson,SYD,DEF FWD,R4
+746,5,300791,182,Paul,Coronaviney,690,FWD,61,True,992242,Jordan,Dawson,SYD,DEF FWD,R5
+747,6,300791,182,Paul,Coronaviney,690,DEF,75,False,992242,Jordan,Dawson,SYD,DEF FWD,R6
+748,7,300791,182,Paul,Coronaviney,690,FWD,93,True,992242,Jordan,Dawson,SYD,DEF FWD,R7
+749,8,300791,182,Paul,Coronaviney,690,FWD,78,True,992242,Jordan,Dawson,SYD,DEF FWD,R8
+750,9,10857,189,Anthony,The Full Bonty,690,FWD,67,True,992242,Jordan,Dawson,SYD,DEF FWD,R9
+751,10,10857,189,Anthony,The Full Bonty,690,FWD,121,True,992242,Jordan,Dawson,SYD,DEF FWD,R10
+752,11,10857,189,Anthony,The Full Bonty,690,FWD,0,False,992242,Jordan,Dawson,SYD,DEF FWD,R11
+753,1,300791,182,Paul,Coronaviney,738,MID,67,True,993834,Josh,Dunkley,WBD,MID,R1
+754,2,300791,182,Paul,Coronaviney,738,MID,131,True,993834,Josh,Dunkley,WBD,MID,R2
+755,3,300791,182,Paul,Coronaviney,738,MID,128,True,993834,Josh,Dunkley,WBD,MID,R3
+756,4,300791,182,Paul,Coronaviney,738,MID,0,False,993834,Josh,Dunkley,WBD,MID,R4
+757,5,300791,182,Paul,Coronaviney,738,MID,0,False,993834,Josh,Dunkley,WBD,MID,R5
+758,6,86078,9806,Lester,HoweIMetYourMother,738,MID,0,False,993834,Josh,Dunkley,WBD,MID,R6
+759,7,86078,9806,Lester,HoweIMetYourMother,738,MID,0,False,993834,Josh,Dunkley,WBD,MID,R7
+760,8,86078,9806,Lester,HoweIMetYourMother,738,MID,0,False,993834,Josh,Dunkley,WBD,MID,R8
+761,9,86078,9806,Lester,HoweIMetYourMother,738,MID,0,False,993834,Josh,Dunkley,WBD,MID,R9
+762,10,86078,9806,Lester,HoweIMetYourMother,738,MID,90,True,993834,Josh,Dunkley,WBD,MID,R10
+763,11,86078,9806,Lester,HoweIMetYourMother,738,MID,87,True,993834,Josh,Dunkley,WBD,MID,R11
+764,12,86078,9806,Lester,HoweIMetYourMother,738,MID,88,True,993834,Josh,Dunkley,WBD,MID,R12
+765,1,300791,182,Paul,Coronaviney,747,DEF,61,True,294101,Jason,Johannisen,WBD,DEF,R1
+766,2,300791,182,Paul,Coronaviney,747,DEF,74,False,294101,Jason,Johannisen,WBD,DEF,R2
+767,3,300791,182,Paul,Coronaviney,747,DEF,103,True,294101,Jason,Johannisen,WBD,DEF,R3
+768,4,300791,182,Paul,Coronaviney,747,DEF,87,True,294101,Jason,Johannisen,WBD,DEF,R4
+769,5,300791,182,Paul,Coronaviney,747,DEF,108,True,294101,Jason,Johannisen,WBD,DEF,R5
+770,6,300791,182,Paul,Coronaviney,747,DEF,57,True,294101,Jason,Johannisen,WBD,DEF,R6
+771,7,300791,182,Paul,Coronaviney,747,DEF,81,True,294101,Jason,Johannisen,WBD,DEF,R7
+772,8,300791,182,Paul,Coronaviney,747,DEF,97,True,294101,Jason,Johannisen,WBD,DEF,R8
+773,9,300791,182,Paul,Coronaviney,747,DEF,91,True,294101,Jason,Johannisen,WBD,DEF,R9
+774,10,300791,182,Paul,Coronaviney,747,DEF,59,True,294101,Jason,Johannisen,WBD,DEF,R10
+775,11,300791,182,Paul,Coronaviney,747,DEF,71,True,294101,Jason,Johannisen,WBD,DEF,R11
+776,12,300791,182,Paul,Coronaviney,747,DEF,0,False,294101,Jason,Johannisen,WBD,DEF,R12
+777,1,300791,182,Paul,Coronaviney,214,FWD,53,True,993817,Darcy,Parish,ESS,FWD MID,R1
+778,2,300791,182,Paul,Coronaviney,214,FWD,86,True,993817,Darcy,Parish,ESS,FWD MID,R2
+779,4,86078,9806,Lester,HoweIMetYourMother,214,FWD,62,False,993817,Darcy,Parish,ESS,FWD MID,R4
+780,5,86078,9806,Lester,HoweIMetYourMother,214,FWD,62,False,993817,Darcy,Parish,ESS,FWD MID,R5
+781,6,10857,189,Anthony,The Full Bonty,214,FWD,88,True,993817,Darcy,Parish,ESS,FWD MID,R6
+782,7,10857,189,Anthony,The Full Bonty,214,FWD,94,True,993817,Darcy,Parish,ESS,FWD MID,R7
+783,8,10857,189,Anthony,The Full Bonty,214,FWD,96,True,993817,Darcy,Parish,ESS,FWD MID,R8
+784,9,10857,189,Anthony,The Full Bonty,214,FWD,92,True,993817,Darcy,Parish,ESS,FWD MID,R9
+785,10,10857,189,Anthony,The Full Bonty,214,FWD,72,True,993817,Darcy,Parish,ESS,FWD MID,R10
+786,11,10857,189,Anthony,The Full Bonty,214,FWD,114,True,993817,Darcy,Parish,ESS,FWD MID,R11
+787,12,10857,189,Anthony,The Full Bonty,214,FWD,100,True,993817,Darcy,Parish,ESS,FWD MID,R12
+788,1,300791,182,Paul,Coronaviney,278,MID,36,True,998129,Will,Brodie,GCS,MID,R1
+789,1,300791,182,Paul,Coronaviney,802,MID,36,True,281373,Jack,Redden,WCE,MID,R1
+790,1,300791,182,Paul,Coronaviney,655,FWD,27,True,298421,Jade,Gresham,STK,FWD MID,R1
+791,2,300791,182,Paul,Coronaviney,655,FWD,120,True,298421,Jade,Gresham,STK,FWD MID,R2
+792,3,300791,182,Paul,Coronaviney,655,FWD,81,True,298421,Jade,Gresham,STK,FWD MID,R3
+793,4,300791,182,Paul,Coronaviney,655,FWD,43,True,298421,Jade,Gresham,STK,FWD MID,R4
+794,5,300791,182,Paul,Coronaviney,655,FWD,91,True,298421,Jade,Gresham,STK,FWD MID,R5
+795,6,300791,182,Paul,Coronaviney,655,FWD,92,True,298421,Jade,Gresham,STK,FWD MID,R6
+796,7,300791,182,Paul,Coronaviney,655,FWD,108,True,298421,Jade,Gresham,STK,FWD MID,R7
+797,8,300791,182,Paul,Coronaviney,655,FWD,94,True,298421,Jade,Gresham,STK,FWD MID,R8
+798,9,300791,182,Paul,Coronaviney,655,FWD,110,True,298421,Jade,Gresham,STK,FWD MID,R9
+799,10,300791,182,Paul,Coronaviney,655,FWD,57,True,298421,Jade,Gresham,STK,FWD MID,R10
+800,11,300791,182,Paul,Coronaviney,655,FWD,74,True,298421,Jade,Gresham,STK,FWD MID,R11
+801,1,300791,182,Paul,Coronaviney,675,DEF,26,True,280933,Dylan,Roberton,STK,DEF,R1
+802,1,300791,182,Paul,Coronaviney,616,DEF,0,False,250312,Bachar,Houli,RIC,DEF,R1
+803,2,300791,182,Paul,Coronaviney,616,DEF,111,True,250312,Bachar,Houli,RIC,DEF,R2
+804,3,300791,182,Paul,Coronaviney,616,DEF,110,True,250312,Bachar,Houli,RIC,DEF,R3
+805,4,300791,182,Paul,Coronaviney,616,DEF,68,True,250312,Bachar,Houli,RIC,DEF,R4
+806,5,300791,182,Paul,Coronaviney,616,DEF,88,True,250312,Bachar,Houli,RIC,DEF,R5
+807,6,86078,9806,Lester,HoweIMetYourMother,616,DEF,0,False,250312,Bachar,Houli,RIC,DEF,R6
+808,7,86078,9806,Lester,HoweIMetYourMother,616,DEF,0,False,250312,Bachar,Houli,RIC,DEF,R7
+809,8,86078,9806,Lester,HoweIMetYourMother,616,DEF,0,False,250312,Bachar,Houli,RIC,DEF,R8
+810,9,86078,9806,Lester,HoweIMetYourMother,616,DEF,0,False,250312,Bachar,Houli,RIC,DEF,R9
+811,10,86078,9806,Lester,HoweIMetYourMother,616,DEF,0,False,250312,Bachar,Houli,RIC,DEF,R10
+812,11,86078,9806,Lester,HoweIMetYourMother,616,DEF,0,False,250312,Bachar,Houli,RIC,DEF,R11
+813,12,86078,9806,Lester,HoweIMetYourMother,616,DEF,0,False,250312,Bachar,Houli,RIC,DEF,R12
+814,1,300791,182,Paul,Coronaviney,413,MID,0,False,280109,Callan,Ward,GWS,MID,R1
+815,2,300791,182,Paul,Coronaviney,413,MID,83,True,280109,Callan,Ward,GWS,MID,R2
+816,3,300791,182,Paul,Coronaviney,413,MID,92,True,280109,Callan,Ward,GWS,MID,R3
+817,4,300791,182,Paul,Coronaviney,413,MID,104,True,280109,Callan,Ward,GWS,MID,R4
+818,5,300791,182,Paul,Coronaviney,413,MID,0,False,280109,Callan,Ward,GWS,MID,R5
+819,6,300791,182,Paul,Coronaviney,413,MID,75,True,280109,Callan,Ward,GWS,MID,R6
+820,9,10857,189,Anthony,The Full Bonty,413,MID,0,False,280109,Callan,Ward,GWS,MID,R9
+821,10,86078,9806,Lester,HoweIMetYourMother,413,MID,91,True,280109,Callan,Ward,GWS,MID,R10
+822,12,8258,9856,Simon,It's always Sonny,413,MID,59,True,280109,Callan,Ward,GWS,MID,R12
+823,1,300791,182,Paul,Coronaviney,323,RUC,50,False,291975,Jarrod,Witts,GCS,RUC,R1
+824,2,300791,182,Paul,Coronaviney,323,RUC,77,False,291975,Jarrod,Witts,GCS,RUC,R2
+825,4,300791,182,Paul,Coronaviney,323,RUC,144,True,291975,Jarrod,Witts,GCS,RUC,R4
+826,5,300791,182,Paul,Coronaviney,323,RUC,83,True,291975,Jarrod,Witts,GCS,RUC,R5
+827,7,300791,182,Paul,Coronaviney,323,RUC,109,True,291975,Jarrod,Witts,GCS,RUC,R7
+828,8,300791,182,Paul,Coronaviney,323,RUC,97,True,291975,Jarrod,Witts,GCS,RUC,R8
+829,9,300791,182,Paul,Coronaviney,323,RUC,74,True,291975,Jarrod,Witts,GCS,RUC,R9
+830,10,300791,182,Paul,Coronaviney,323,RUC,107,True,291975,Jarrod,Witts,GCS,RUC,R10
+831,11,300791,182,Paul,Coronaviney,323,RUC,95,True,291975,Jarrod,Witts,GCS,RUC,R11
+832,12,300791,182,Paul,Coronaviney,323,RUC,93,True,291975,Jarrod,Witts,GCS,RUC,R12
+833,1,300791,182,Paul,Coronaviney,486,FWD,40,False,291533,Tom,McDonald,MEL,FWD,R1
+834,12,21562,186,Mark,GetRichOrDieTryin,486,FWD,66,False,291533,Tom,McDonald,MEL,FWD,R12
+835,1,21562,186,Mark,GetRichOrDieTryin,151,RUC,179,True,293957,Brodie,Grundy,COL,RUC,R1
+836,2,21562,186,Mark,GetRichOrDieTryin,151,RUC,115,True,293957,Brodie,Grundy,COL,RUC,R2
+837,3,21562,186,Mark,GetRichOrDieTryin,151,RUC,103,True,293957,Brodie,Grundy,COL,RUC,R3
+838,4,21562,186,Mark,GetRichOrDieTryin,151,RUC,135,True,293957,Brodie,Grundy,COL,RUC,R4
+839,5,21562,186,Mark,GetRichOrDieTryin,151,RUC,151,True,293957,Brodie,Grundy,COL,RUC,R5
+840,6,21562,186,Mark,GetRichOrDieTryin,151,RUC,107,True,293957,Brodie,Grundy,COL,RUC,R6
+841,7,21562,186,Mark,GetRichOrDieTryin,151,RUC,144,True,293957,Brodie,Grundy,COL,RUC,R7
+842,8,21562,186,Mark,GetRichOrDieTryin,151,RUC,61,True,293957,Brodie,Grundy,COL,RUC,R8
+843,9,21562,186,Mark,GetRichOrDieTryin,151,RUC,118,True,293957,Brodie,Grundy,COL,RUC,R9
+844,10,21562,186,Mark,GetRichOrDieTryin,151,RUC,147,True,293957,Brodie,Grundy,COL,RUC,R10
+845,11,21562,186,Mark,GetRichOrDieTryin,151,RUC,100,True,293957,Brodie,Grundy,COL,RUC,R11
+846,12,21562,186,Mark,GetRichOrDieTryin,151,RUC,148,True,293957,Brodie,Grundy,COL,RUC,R12
+847,1,21562,186,Mark,GetRichOrDieTryin,680,MID,128,True,296205,Jack,Steele,STK,MID,R1
+848,2,21562,186,Mark,GetRichOrDieTryin,680,MID,137,True,296205,Jack,Steele,STK,MID,R2
+849,3,21562,186,Mark,GetRichOrDieTryin,680,MID,73,True,296205,Jack,Steele,STK,MID,R3
+850,4,21562,186,Mark,GetRichOrDieTryin,680,MID,114,True,296205,Jack,Steele,STK,MID,R4
+851,5,21562,186,Mark,GetRichOrDieTryin,680,MID,136,True,296205,Jack,Steele,STK,MID,R5
+852,6,21562,186,Mark,GetRichOrDieTryin,680,MID,87,True,296205,Jack,Steele,STK,MID,R6
+853,7,21562,186,Mark,GetRichOrDieTryin,680,MID,162,True,296205,Jack,Steele,STK,MID,R7
+854,8,21562,186,Mark,GetRichOrDieTryin,680,MID,114,True,296205,Jack,Steele,STK,MID,R8
+855,9,21562,186,Mark,GetRichOrDieTryin,680,MID,129,True,296205,Jack,Steele,STK,MID,R9
+856,10,21562,186,Mark,GetRichOrDieTryin,680,MID,124,True,296205,Jack,Steele,STK,MID,R10
+857,11,21562,186,Mark,GetRichOrDieTryin,680,MID,86,True,296205,Jack,Steele,STK,MID,R11
+858,12,21562,186,Mark,GetRichOrDieTryin,680,MID,92,True,296205,Jack,Steele,STK,MID,R12
+859,1,21562,186,Mark,GetRichOrDieTryin,165,MID,109,True,260257,Scott,Pendlebury,COL,MID,R1
+860,2,21562,186,Mark,GetRichOrDieTryin,165,MID,115,True,260257,Scott,Pendlebury,COL,MID,R2
+861,3,21562,186,Mark,GetRichOrDieTryin,165,MID,86,True,260257,Scott,Pendlebury,COL,MID,R3
+862,4,21562,186,Mark,GetRichOrDieTryin,165,MID,150,True,260257,Scott,Pendlebury,COL,MID,R4
+863,5,21562,186,Mark,GetRichOrDieTryin,165,MID,84,True,260257,Scott,Pendlebury,COL,MID,R5
+864,6,21562,186,Mark,GetRichOrDieTryin,165,MID,90,True,260257,Scott,Pendlebury,COL,MID,R6
+865,7,21562,186,Mark,GetRichOrDieTryin,165,MID,98,True,260257,Scott,Pendlebury,COL,MID,R7
+866,8,21562,186,Mark,GetRichOrDieTryin,165,MID,0,False,260257,Scott,Pendlebury,COL,MID,R8
+867,9,21562,186,Mark,GetRichOrDieTryin,165,MID,0,False,260257,Scott,Pendlebury,COL,MID,R9
+868,10,21562,186,Mark,GetRichOrDieTryin,165,MID,0,False,260257,Scott,Pendlebury,COL,MID,R10
+869,11,21562,186,Mark,GetRichOrDieTryin,165,MID,0,False,260257,Scott,Pendlebury,COL,MID,R11
+870,12,21562,186,Mark,GetRichOrDieTryin,165,MID,94,True,260257,Scott,Pendlebury,COL,MID,R12
+871,1,21562,186,Mark,GetRichOrDieTryin,809,MID,104,True,280078,Luke,Shuey,WCE,MID,R1
+872,2,21562,186,Mark,GetRichOrDieTryin,809,MID,116,True,280078,Luke,Shuey,WCE,MID,R2
+873,3,21562,186,Mark,GetRichOrDieTryin,809,MID,83,True,280078,Luke,Shuey,WCE,MID,R3
+874,4,21562,186,Mark,GetRichOrDieTryin,809,MID,114,True,280078,Luke,Shuey,WCE,MID,R4
+875,5,21562,186,Mark,GetRichOrDieTryin,809,MID,33,True,280078,Luke,Shuey,WCE,MID,R5
+876,6,21562,186,Mark,GetRichOrDieTryin,809,MID,0,False,280078,Luke,Shuey,WCE,MID,R6
+877,7,21562,186,Mark,GetRichOrDieTryin,809,MID,0,False,280078,Luke,Shuey,WCE,MID,R7
+878,8,21562,186,Mark,GetRichOrDieTryin,809,MID,130,True,280078,Luke,Shuey,WCE,MID,R8
+879,9,21562,186,Mark,GetRichOrDieTryin,809,MID,116,True,280078,Luke,Shuey,WCE,MID,R9
+880,10,21562,186,Mark,GetRichOrDieTryin,809,MID,0,False,280078,Luke,Shuey,WCE,MID,R10
+881,11,21562,186,Mark,GetRichOrDieTryin,809,MID,78,True,280078,Luke,Shuey,WCE,MID,R11
+882,12,21562,186,Mark,GetRichOrDieTryin,809,MID,101,True,280078,Luke,Shuey,WCE,MID,R12
+883,1,21562,186,Mark,GetRichOrDieTryin,343,FWD,103,True,261510,Tom,Hawkins,GEE,FWD,R1
+884,2,21562,186,Mark,GetRichOrDieTryin,343,FWD,63,True,261510,Tom,Hawkins,GEE,FWD,R2
+885,3,21562,186,Mark,GetRichOrDieTryin,343,FWD,97,True,261510,Tom,Hawkins,GEE,FWD,R3
+886,4,21562,186,Mark,GetRichOrDieTryin,343,FWD,94,True,261510,Tom,Hawkins,GEE,FWD,R4
+887,5,21562,186,Mark,GetRichOrDieTryin,343,FWD,152,True,261510,Tom,Hawkins,GEE,FWD,R5
+888,6,21562,186,Mark,GetRichOrDieTryin,343,FWD,120,True,261510,Tom,Hawkins,GEE,FWD,R6
+889,7,21562,186,Mark,GetRichOrDieTryin,343,FWD,80,True,261510,Tom,Hawkins,GEE,FWD,R7
+890,8,21562,186,Mark,GetRichOrDieTryin,343,FWD,87,True,261510,Tom,Hawkins,GEE,FWD,R8
+891,9,21562,186,Mark,GetRichOrDieTryin,343,FWD,79,True,261510,Tom,Hawkins,GEE,FWD,R9
+892,10,21562,186,Mark,GetRichOrDieTryin,343,FWD,115,True,261510,Tom,Hawkins,GEE,FWD,R10
+893,11,21562,186,Mark,GetRichOrDieTryin,343,FWD,126,True,261510,Tom,Hawkins,GEE,FWD,R11
+894,12,21562,186,Mark,GetRichOrDieTryin,343,FWD,204,True,261510,Tom,Hawkins,GEE,FWD,R12
+895,1,21562,186,Mark,GetRichOrDieTryin,397,MID,102,True,296347,Josh,Kelly,GWS,MID,R1
+896,2,21562,186,Mark,GetRichOrDieTryin,397,MID,89,True,296347,Josh,Kelly,GWS,MID,R2
+897,3,21562,186,Mark,GetRichOrDieTryin,397,MID,0,False,296347,Josh,Kelly,GWS,MID,R3
+898,4,21562,186,Mark,GetRichOrDieTryin,397,MID,120,True,296347,Josh,Kelly,GWS,MID,R4
+899,5,21562,186,Mark,GetRichOrDieTryin,397,MID,122,True,296347,Josh,Kelly,GWS,MID,R5
+900,6,21562,186,Mark,GetRichOrDieTryin,397,MID,92,True,296347,Josh,Kelly,GWS,MID,R6
+901,7,21562,186,Mark,GetRichOrDieTryin,397,MID,95,True,296347,Josh,Kelly,GWS,MID,R7
+902,8,21562,186,Mark,GetRichOrDieTryin,397,MID,195,True,296347,Josh,Kelly,GWS,MID,R8
+903,9,21562,186,Mark,GetRichOrDieTryin,397,MID,106,True,296347,Josh,Kelly,GWS,MID,R9
+904,10,21562,186,Mark,GetRichOrDieTryin,397,MID,104,True,296347,Josh,Kelly,GWS,MID,R10
+905,11,21562,186,Mark,GetRichOrDieTryin,397,MID,0,False,296347,Josh,Kelly,GWS,MID,R11
+906,12,21562,186,Mark,GetRichOrDieTryin,397,MID,119,True,296347,Josh,Kelly,GWS,MID,R12
+907,1,21562,186,Mark,GetRichOrDieTryin,808,DEF,94,True,281080,Brad,Sheppard,WCE,DEF,R1
+908,2,21562,186,Mark,GetRichOrDieTryin,808,DEF,67,True,281080,Brad,Sheppard,WCE,DEF,R2
+909,3,21562,186,Mark,GetRichOrDieTryin,808,DEF,99,True,281080,Brad,Sheppard,WCE,DEF,R3
+910,4,21562,186,Mark,GetRichOrDieTryin,808,DEF,102,True,281080,Brad,Sheppard,WCE,DEF,R4
+911,5,21562,186,Mark,GetRichOrDieTryin,808,DEF,116,True,281080,Brad,Sheppard,WCE,DEF,R5
+912,6,21562,186,Mark,GetRichOrDieTryin,808,DEF,80,True,281080,Brad,Sheppard,WCE,DEF,R6
+913,7,21562,186,Mark,GetRichOrDieTryin,808,DEF,107,True,281080,Brad,Sheppard,WCE,DEF,R7
+914,8,21562,186,Mark,GetRichOrDieTryin,808,DEF,80,True,281080,Brad,Sheppard,WCE,DEF,R8
+915,9,21562,186,Mark,GetRichOrDieTryin,808,DEF,67,True,281080,Brad,Sheppard,WCE,DEF,R9
+916,10,21562,186,Mark,GetRichOrDieTryin,808,DEF,0,False,281080,Brad,Sheppard,WCE,DEF,R10
+917,11,21562,186,Mark,GetRichOrDieTryin,808,DEF,69,True,281080,Brad,Sheppard,WCE,DEF,R11
+918,12,21562,186,Mark,GetRichOrDieTryin,808,DEF,107,True,281080,Brad,Sheppard,WCE,DEF,R12
+919,1,21562,186,Mark,GetRichOrDieTryin,522,MID,93,True,260227,Shaun,Higgins,NTH,MID,R1
+920,2,21562,186,Mark,GetRichOrDieTryin,522,MID,117,True,260227,Shaun,Higgins,NTH,MID,R2
+921,3,8258,9856,Simon,It's always Sonny,522,MID,61,True,260227,Shaun,Higgins,NTH,MID,R3
+922,4,8258,9856,Simon,It's always Sonny,522,MID,141,True,260227,Shaun,Higgins,NTH,MID,R4
+923,5,8258,9856,Simon,It's always Sonny,522,MID,35,True,260227,Shaun,Higgins,NTH,MID,R5
+924,6,8258,9856,Simon,It's always Sonny,522,MID,90,True,260227,Shaun,Higgins,NTH,MID,R6
+925,7,8258,9856,Simon,It's always Sonny,522,MID,182,True,260227,Shaun,Higgins,NTH,MID,R7
+926,8,8258,9856,Simon,It's always Sonny,522,MID,90,True,260227,Shaun,Higgins,NTH,MID,R8
+927,9,8258,9856,Simon,It's always Sonny,522,MID,109,True,260227,Shaun,Higgins,NTH,MID,R9
+928,10,8258,9856,Simon,It's always Sonny,522,MID,109,True,260227,Shaun,Higgins,NTH,MID,R10
+929,11,8258,9856,Simon,It's always Sonny,522,MID,74,True,260227,Shaun,Higgins,NTH,MID,R11
+930,12,8258,9856,Simon,It's always Sonny,522,MID,109,True,260227,Shaun,Higgins,NTH,MID,R12
+931,1,21562,186,Mark,GetRichOrDieTryin,460,MID,93,True,1002222,James,Worpel,HAW,MID,R1
+932,2,21562,186,Mark,GetRichOrDieTryin,460,MID,91,True,1002222,James,Worpel,HAW,MID,R2
+933,3,21562,186,Mark,GetRichOrDieTryin,460,MID,72,True,1002222,James,Worpel,HAW,MID,R3
+934,4,21562,186,Mark,GetRichOrDieTryin,460,MID,133,True,1002222,James,Worpel,HAW,MID,R4
+935,5,21562,186,Mark,GetRichOrDieTryin,460,MID,77,True,1002222,James,Worpel,HAW,MID,R5
+936,6,21562,186,Mark,GetRichOrDieTryin,460,MID,83,True,1002222,James,Worpel,HAW,MID,R6
+937,7,21562,186,Mark,GetRichOrDieTryin,460,MID,58,True,1002222,James,Worpel,HAW,MID,R7
+938,8,21562,186,Mark,GetRichOrDieTryin,460,MID,77,True,1002222,James,Worpel,HAW,MID,R8
+939,9,21562,186,Mark,GetRichOrDieTryin,460,MID,117,True,1002222,James,Worpel,HAW,MID,R9
+940,10,21562,186,Mark,GetRichOrDieTryin,460,MID,0,False,1002222,James,Worpel,HAW,MID,R10
+941,11,21562,186,Mark,GetRichOrDieTryin,460,MID,96,True,1002222,James,Worpel,HAW,MID,R11
+942,12,21562,186,Mark,GetRichOrDieTryin,460,MID,90,False,1002222,James,Worpel,HAW,MID,R12
+943,1,21562,186,Mark,GetRichOrDieTryin,617,FWD,90,True,290032,Kane,Lambert,RIC,FWD,R1
+944,2,21562,186,Mark,GetRichOrDieTryin,617,FWD,58,True,290032,Kane,Lambert,RIC,FWD,R2
+945,3,21562,186,Mark,GetRichOrDieTryin,617,FWD,59,True,290032,Kane,Lambert,RIC,FWD,R3
+946,4,21562,186,Mark,GetRichOrDieTryin,617,FWD,60,False,290032,Kane,Lambert,RIC,FWD,R4
+947,5,21562,186,Mark,GetRichOrDieTryin,617,FWD,158,True,290032,Kane,Lambert,RIC,FWD,R5
+948,6,21562,186,Mark,GetRichOrDieTryin,617,FWD,109,True,290032,Kane,Lambert,RIC,FWD,R6
+949,7,21562,186,Mark,GetRichOrDieTryin,617,FWD,89,True,290032,Kane,Lambert,RIC,FWD,R7
+950,8,21562,186,Mark,GetRichOrDieTryin,617,FWD,90,True,290032,Kane,Lambert,RIC,FWD,R8
+951,9,21562,186,Mark,GetRichOrDieTryin,617,FWD,70,True,290032,Kane,Lambert,RIC,FWD,R9
+952,10,21562,186,Mark,GetRichOrDieTryin,617,FWD,82,True,290032,Kane,Lambert,RIC,FWD,R10
+953,11,21562,186,Mark,GetRichOrDieTryin,617,FWD,52,True,290032,Kane,Lambert,RIC,FWD,R11
+954,12,10857,189,Anthony,The Full Bonty,617,FWD,109,True,290032,Kane,Lambert,RIC,FWD,R12
+955,1,21562,186,Mark,GetRichOrDieTryin,80,DEF,87,True,271072,Daniel,Rich,BRL,DEF,R1
+956,2,21562,186,Mark,GetRichOrDieTryin,80,DEF,80,True,271072,Daniel,Rich,BRL,DEF,R2
+957,3,21562,186,Mark,GetRichOrDieTryin,80,DEF,102,True,271072,Daniel,Rich,BRL,DEF,R3
+958,4,21562,186,Mark,GetRichOrDieTryin,80,DEF,96,True,271072,Daniel,Rich,BRL,DEF,R4
+959,5,21562,186,Mark,GetRichOrDieTryin,80,DEF,97,True,271072,Daniel,Rich,BRL,DEF,R5
+960,6,21562,186,Mark,GetRichOrDieTryin,80,DEF,77,True,271072,Daniel,Rich,BRL,DEF,R6
+961,7,21562,186,Mark,GetRichOrDieTryin,80,DEF,83,True,271072,Daniel,Rich,BRL,DEF,R7
+962,8,21562,186,Mark,GetRichOrDieTryin,80,DEF,22,True,271072,Daniel,Rich,BRL,DEF,R8
+963,9,21562,186,Mark,GetRichOrDieTryin,80,DEF,0,False,271072,Daniel,Rich,BRL,DEF,R9
+964,10,21562,186,Mark,GetRichOrDieTryin,80,DEF,0,False,271072,Daniel,Rich,BRL,DEF,R10
+965,11,21562,186,Mark,GetRichOrDieTryin,80,DEF,70,True,271072,Daniel,Rich,BRL,DEF,R11
+966,12,21562,186,Mark,GetRichOrDieTryin,80,DEF,0,False,271072,Daniel,Rich,BRL,DEF,R12
+967,1,21562,186,Mark,GetRichOrDieTryin,649,DEF,84,True,1002264,Hunter,Clark,STK,DEF,R1
+968,2,21562,186,Mark,GetRichOrDieTryin,649,DEF,105,True,1002264,Hunter,Clark,STK,DEF,R2
+969,3,21562,186,Mark,GetRichOrDieTryin,649,DEF,70,True,1002264,Hunter,Clark,STK,DEF,R3
+970,4,21562,186,Mark,GetRichOrDieTryin,649,DEF,90,True,1002264,Hunter,Clark,STK,DEF,R4
+971,5,21562,186,Mark,GetRichOrDieTryin,649,DEF,55,True,1002264,Hunter,Clark,STK,DEF,R5
+972,6,21562,186,Mark,GetRichOrDieTryin,649,DEF,61,True,1002264,Hunter,Clark,STK,DEF,R6
+973,8,21562,186,Mark,GetRichOrDieTryin,649,DEF,103,False,1002264,Hunter,Clark,STK,DEF,R8
+974,9,21562,186,Mark,GetRichOrDieTryin,649,DEF,79,True,1002264,Hunter,Clark,STK,DEF,R9
+975,11,45168,5524,Luke,The Dragon's Laird,649,DEF,51,True,1002264,Hunter,Clark,STK,DEF,R11
+976,12,45168,5524,Luke,The Dragon's Laird,649,DEF,106,False,1002264,Hunter,Clark,STK,DEF,R12
+977,1,21562,186,Mark,GetRichOrDieTryin,131,DEF,82,True,230202,Kade,Simpson,CAR,DEF,R1
+978,2,10857,189,Anthony,The Full Bonty,131,DEF,70,True,230202,Kade,Simpson,CAR,DEF,R2
+979,3,10857,189,Anthony,The Full Bonty,131,DEF,58,True,230202,Kade,Simpson,CAR,DEF,R3
+980,4,10857,189,Anthony,The Full Bonty,131,DEF,89,False,230202,Kade,Simpson,CAR,DEF,R4
+981,5,10857,189,Anthony,The Full Bonty,131,DEF,82,True,230202,Kade,Simpson,CAR,DEF,R5
+982,6,10857,189,Anthony,The Full Bonty,131,DEF,70,True,230202,Kade,Simpson,CAR,DEF,R6
+983,1,21562,186,Mark,GetRichOrDieTryin,6,MID,68,True,297401,Matt,Crouch,ADE,MID,R1
+984,2,21562,186,Mark,GetRichOrDieTryin,6,MID,94,True,297401,Matt,Crouch,ADE,MID,R2
+985,3,21562,186,Mark,GetRichOrDieTryin,6,MID,102,True,297401,Matt,Crouch,ADE,MID,R3
+986,4,21562,186,Mark,GetRichOrDieTryin,6,MID,0,False,297401,Matt,Crouch,ADE,MID,R4
+987,5,21562,186,Mark,GetRichOrDieTryin,6,MID,113,False,297401,Matt,Crouch,ADE,MID,R5
+988,6,21562,186,Mark,GetRichOrDieTryin,6,MID,123,True,297401,Matt,Crouch,ADE,MID,R6
+989,7,21562,186,Mark,GetRichOrDieTryin,6,MID,90,True,297401,Matt,Crouch,ADE,MID,R7
+990,8,21562,186,Mark,GetRichOrDieTryin,6,MID,111,True,297401,Matt,Crouch,ADE,MID,R8
+991,9,21562,186,Mark,GetRichOrDieTryin,6,MID,82,True,297401,Matt,Crouch,ADE,MID,R9
+992,10,21562,186,Mark,GetRichOrDieTryin,6,MID,112,True,297401,Matt,Crouch,ADE,MID,R10
+993,11,21562,186,Mark,GetRichOrDieTryin,6,MID,100,True,297401,Matt,Crouch,ADE,MID,R11
+994,12,21562,186,Mark,GetRichOrDieTryin,6,MID,132,True,297401,Matt,Crouch,ADE,MID,R12
+995,1,21562,186,Mark,GetRichOrDieTryin,783,FWD,68,True,290838,Jack,Darling,WCE,FWD,R1
+996,2,21562,186,Mark,GetRichOrDieTryin,783,FWD,53,True,290838,Jack,Darling,WCE,FWD,R2
+997,3,21562,186,Mark,GetRichOrDieTryin,783,FWD,63,False,290838,Jack,Darling,WCE,FWD,R3
+998,4,21562,186,Mark,GetRichOrDieTryin,783,FWD,22,False,290838,Jack,Darling,WCE,FWD,R4
+999,7,45168,5524,Luke,The Dragon's Laird,783,FWD,95,True,290838,Jack,Darling,WCE,FWD,R7
+1000,10,45168,5524,Luke,The Dragon's Laird,783,FWD,0,False,290838,Jack,Darling,WCE,FWD,R10
+1001,12,21562,186,Mark,GetRichOrDieTryin,783,FWD,124,True,290838,Jack,Darling,WCE,FWD,R12
+1002,1,21562,186,Mark,GetRichOrDieTryin,148,FWD,66,True,994185,Jordan,De Goey,COL,FWD,R1
+1003,2,21562,186,Mark,GetRichOrDieTryin,148,FWD,67,True,994185,Jordan,De Goey,COL,FWD,R2
+1004,3,21562,186,Mark,GetRichOrDieTryin,148,FWD,85,True,994185,Jordan,De Goey,COL,FWD,R3
+1005,4,21562,186,Mark,GetRichOrDieTryin,148,FWD,62,True,994185,Jordan,De Goey,COL,FWD,R4
+1006,5,21562,186,Mark,GetRichOrDieTryin,148,FWD,85,False,994185,Jordan,De Goey,COL,FWD,R5
+1007,6,21562,186,Mark,GetRichOrDieTryin,148,FWD,0,False,994185,Jordan,De Goey,COL,FWD,R6
+1008,7,21562,186,Mark,GetRichOrDieTryin,148,FWD,151,False,994185,Jordan,De Goey,COL,FWD,R7
+1009,1,21562,186,Mark,GetRichOrDieTryin,618,FWD,55,True,293813,Tom J.,Lynch,RIC,FWD,R1
+1010,2,21562,186,Mark,GetRichOrDieTryin,618,FWD,113,True,293813,Tom J.,Lynch,RIC,FWD,R2
+1011,3,21562,186,Mark,GetRichOrDieTryin,618,FWD,61,True,293813,Tom J.,Lynch,RIC,FWD,R3
+1012,4,21562,186,Mark,GetRichOrDieTryin,618,FWD,89,True,293813,Tom J.,Lynch,RIC,FWD,R4
+1013,5,21562,186,Mark,GetRichOrDieTryin,618,FWD,65,True,293813,Tom J.,Lynch,RIC,FWD,R5
+1014,11,45168,5524,Luke,The Dragon's Laird,618,FWD,58,True,293813,Tom J.,Lynch,RIC,FWD,R11
+1015,1,21562,186,Mark,GetRichOrDieTryin,261,DEF,52,True,998659,Luke,Ryan,FRE,DEF,R1
+1016,2,21562,186,Mark,GetRichOrDieTryin,261,DEF,123,True,998659,Luke,Ryan,FRE,DEF,R2
+1017,3,21562,186,Mark,GetRichOrDieTryin,261,DEF,67,True,998659,Luke,Ryan,FRE,DEF,R3
+1018,4,21562,186,Mark,GetRichOrDieTryin,261,DEF,79,True,998659,Luke,Ryan,FRE,DEF,R4
+1019,5,21562,186,Mark,GetRichOrDieTryin,261,DEF,109,True,998659,Luke,Ryan,FRE,DEF,R5
+1020,6,21562,186,Mark,GetRichOrDieTryin,261,DEF,105,True,998659,Luke,Ryan,FRE,DEF,R6
+1021,7,21562,186,Mark,GetRichOrDieTryin,261,DEF,125,True,998659,Luke,Ryan,FRE,DEF,R7
+1022,8,21562,186,Mark,GetRichOrDieTryin,261,DEF,118,True,998659,Luke,Ryan,FRE,DEF,R8
+1023,9,21562,186,Mark,GetRichOrDieTryin,261,DEF,131,True,998659,Luke,Ryan,FRE,DEF,R9
+1024,10,21562,186,Mark,GetRichOrDieTryin,261,DEF,0,False,998659,Luke,Ryan,FRE,DEF,R10
+1025,11,21562,186,Mark,GetRichOrDieTryin,261,DEF,100,True,998659,Luke,Ryan,FRE,DEF,R11
+1026,12,21562,186,Mark,GetRichOrDieTryin,261,DEF,162,True,998659,Luke,Ryan,FRE,DEF,R12
+1027,1,21562,186,Mark,GetRichOrDieTryin,231,DEF,0,False,298450,Connor,Blakely,FRE,DEF,R1
+1028,2,21562,186,Mark,GetRichOrDieTryin,231,DEF,0,False,298450,Connor,Blakely,FRE,DEF,R2
+1029,3,21562,186,Mark,GetRichOrDieTryin,231,DEF,0,False,298450,Connor,Blakely,FRE,DEF,R3
+1030,9,86078,9806,Lester,HoweIMetYourMother,231,DEF,63,True,298450,Connor,Blakely,FRE,DEF,R9
+1031,1,21562,186,Mark,GetRichOrDieTryin,115,MID,101,False,250105,Marc,Murphy,CAR,MID,R1
+1032,2,21562,186,Mark,GetRichOrDieTryin,115,MID,107,False,250105,Marc,Murphy,CAR,MID,R2
+1033,3,21562,186,Mark,GetRichOrDieTryin,115,MID,78,True,250105,Marc,Murphy,CAR,MID,R3
+1034,4,21562,186,Mark,GetRichOrDieTryin,115,MID,98,True,250105,Marc,Murphy,CAR,MID,R4
+1035,5,21562,186,Mark,GetRichOrDieTryin,115,MID,50,True,250105,Marc,Murphy,CAR,MID,R5
+1036,6,21562,186,Mark,GetRichOrDieTryin,115,MID,47,True,250105,Marc,Murphy,CAR,MID,R6
+1037,7,71052,9867,James,Bad Boys For Fyfe,115,MID,76,True,250105,Marc,Murphy,CAR,MID,R7
+1038,8,71052,9867,James,Bad Boys For Fyfe,115,MID,92,True,250105,Marc,Murphy,CAR,MID,R8
+1039,9,71052,9867,James,Bad Boys For Fyfe,115,MID,57,False,250105,Marc,Murphy,CAR,MID,R9
+1040,1,21562,186,Mark,GetRichOrDieTryin,361,MID,68,False,250321,Joel,Selwood,GEE,MID,R1
+1041,2,21562,186,Mark,GetRichOrDieTryin,361,MID,151,False,250321,Joel,Selwood,GEE,MID,R2
+1042,3,21562,186,Mark,GetRichOrDieTryin,361,MID,93,True,250321,Joel,Selwood,GEE,MID,R3
+1043,4,21562,186,Mark,GetRichOrDieTryin,361,MID,104,True,250321,Joel,Selwood,GEE,MID,R4
+1044,5,21562,186,Mark,GetRichOrDieTryin,361,MID,95,True,250321,Joel,Selwood,GEE,MID,R5
+1045,6,21562,186,Mark,GetRichOrDieTryin,361,MID,143,True,250321,Joel,Selwood,GEE,MID,R6
+1046,7,21562,186,Mark,GetRichOrDieTryin,361,MID,10,True,250321,Joel,Selwood,GEE,MID,R7
+1047,8,21562,186,Mark,GetRichOrDieTryin,361,MID,0,False,250321,Joel,Selwood,GEE,MID,R8
+1048,9,21562,186,Mark,GetRichOrDieTryin,361,MID,0,False,250321,Joel,Selwood,GEE,MID,R9
+1049,10,21562,186,Mark,GetRichOrDieTryin,361,MID,57,True,250321,Joel,Selwood,GEE,MID,R10
+1050,11,21562,186,Mark,GetRichOrDieTryin,361,MID,73,True,250321,Joel,Selwood,GEE,MID,R11
+1051,12,21562,186,Mark,GetRichOrDieTryin,361,MID,53,True,250321,Joel,Selwood,GEE,MID,R12
+1052,1,21562,186,Mark,GetRichOrDieTryin,565,FWD,104,False,261911,Brad,Ebert,PTA,FWD,R1
+1053,3,45168,5524,Luke,The Dragon's Laird,565,FWD,116,True,261911,Brad,Ebert,PTA,FWD,R3
+1054,4,45168,5524,Luke,The Dragon's Laird,565,FWD,107,True,261911,Brad,Ebert,PTA,FWD,R4
+1055,5,45168,5524,Luke,The Dragon's Laird,565,FWD,84,True,261911,Brad,Ebert,PTA,FWD,R5
+1056,6,45168,5524,Luke,The Dragon's Laird,565,FWD,47,True,261911,Brad,Ebert,PTA,FWD,R6
+1057,7,45168,5524,Luke,The Dragon's Laird,565,FWD,0,False,261911,Brad,Ebert,PTA,FWD,R7
+1058,8,45168,5524,Luke,The Dragon's Laird,565,FWD,91,True,261911,Brad,Ebert,PTA,FWD,R8
+1059,9,45168,5524,Luke,The Dragon's Laird,565,FWD,49,True,261911,Brad,Ebert,PTA,FWD,R9
+1060,11,8258,9856,Simon,It's always Sonny,565,FWD,0,False,261911,Brad,Ebert,PTA,FWD,R11
+1061,12,8258,9856,Simon,It's always Sonny,565,FWD,0,False,261911,Brad,Ebert,PTA,FWD,R12
+1062,1,10857,189,Anthony,The Full Bonty,519,RUC,136,True,271129,Todd,Goldstein,NTH,RUC,R1
+1063,2,10857,189,Anthony,The Full Bonty,519,RUC,164,True,271129,Todd,Goldstein,NTH,RUC,R2
+1064,3,10857,189,Anthony,The Full Bonty,519,RUC,151,True,271129,Todd,Goldstein,NTH,RUC,R3
+1065,4,10857,189,Anthony,The Full Bonty,519,RUC,116,True,271129,Todd,Goldstein,NTH,RUC,R4
+1066,5,10857,189,Anthony,The Full Bonty,519,RUC,137,True,271129,Todd,Goldstein,NTH,RUC,R5
+1067,6,10857,189,Anthony,The Full Bonty,519,RUC,129,True,271129,Todd,Goldstein,NTH,RUC,R6
+1068,7,8258,9856,Simon,It's always Sonny,519,RUC,106,True,271129,Todd,Goldstein,NTH,RUC,R7
+1069,8,8258,9856,Simon,It's always Sonny,519,RUC,69,True,271129,Todd,Goldstein,NTH,RUC,R8
+1070,9,8258,9856,Simon,It's always Sonny,519,RUC,140,True,271129,Todd,Goldstein,NTH,RUC,R9
+1071,10,8258,9856,Simon,It's always Sonny,519,RUC,102,True,271129,Todd,Goldstein,NTH,RUC,R10
+1072,11,8258,9856,Simon,It's always Sonny,519,RUC,100,True,271129,Todd,Goldstein,NTH,RUC,R11
+1073,12,8258,9856,Simon,It's always Sonny,519,RUC,134,True,271129,Todd,Goldstein,NTH,RUC,R12
+1074,1,10857,189,Anthony,The Full Bonty,173,MID,125,True,280965,Steele,Sidebottom,COL,MID,R1
+1075,2,10857,189,Anthony,The Full Bonty,173,MID,95,True,280965,Steele,Sidebottom,COL,MID,R2
+1076,3,10857,189,Anthony,The Full Bonty,173,MID,150,True,280965,Steele,Sidebottom,COL,MID,R3
+1077,4,10857,189,Anthony,The Full Bonty,173,MID,67,True,280965,Steele,Sidebottom,COL,MID,R4
+1078,5,10857,189,Anthony,The Full Bonty,173,MID,0,False,280965,Steele,Sidebottom,COL,MID,R5
+1079,6,10857,189,Anthony,The Full Bonty,173,MID,0,False,280965,Steele,Sidebottom,COL,MID,R6
+1080,7,10857,189,Anthony,The Full Bonty,173,MID,0,False,280965,Steele,Sidebottom,COL,MID,R7
+1081,8,10857,189,Anthony,The Full Bonty,173,MID,0,False,280965,Steele,Sidebottom,COL,MID,R8
+1082,9,10857,189,Anthony,The Full Bonty,173,MID,141,True,280965,Steele,Sidebottom,COL,MID,R9
+1083,10,10857,189,Anthony,The Full Bonty,173,MID,94,True,280965,Steele,Sidebottom,COL,MID,R10
+1084,11,10857,189,Anthony,The Full Bonty,173,MID,93,True,280965,Steele,Sidebottom,COL,MID,R11
+1085,12,10857,189,Anthony,The Full Bonty,173,MID,103,True,280965,Steele,Sidebottom,COL,MID,R12
+1086,1,10857,189,Anthony,The Full Bonty,337,MID,120,True,281065,Mitch,Duncan,GEE,MID,R1
+1087,2,10857,189,Anthony,The Full Bonty,337,MID,114,True,281065,Mitch,Duncan,GEE,MID,R2
+1088,3,10857,189,Anthony,The Full Bonty,337,MID,123,True,281065,Mitch,Duncan,GEE,MID,R3
+1089,4,10857,189,Anthony,The Full Bonty,337,MID,120,True,281065,Mitch,Duncan,GEE,MID,R4
+1090,5,10857,189,Anthony,The Full Bonty,337,MID,117,True,281065,Mitch,Duncan,GEE,MID,R5
+1091,6,10857,189,Anthony,The Full Bonty,337,MID,13,True,281065,Mitch,Duncan,GEE,MID,R6
+1092,7,10857,189,Anthony,The Full Bonty,337,MID,0,False,281065,Mitch,Duncan,GEE,MID,R7
+1093,8,10857,189,Anthony,The Full Bonty,337,MID,148,True,281065,Mitch,Duncan,GEE,MID,R8
+1094,9,10857,189,Anthony,The Full Bonty,337,MID,134,True,281065,Mitch,Duncan,GEE,MID,R9
+1095,10,10857,189,Anthony,The Full Bonty,337,MID,101,True,281065,Mitch,Duncan,GEE,MID,R10
+1096,11,10857,189,Anthony,The Full Bonty,337,MID,100,True,281065,Mitch,Duncan,GEE,MID,R11
+1097,12,10857,189,Anthony,The Full Bonty,337,MID,90,True,281065,Mitch,Duncan,GEE,MID,R12
+1098,1,10857,189,Anthony,The Full Bonty,559,DEF,114,True,991930,Darcy,Byrne-Jones,PTA,DEF,R1
+1099,2,10857,189,Anthony,The Full Bonty,559,DEF,94,True,991930,Darcy,Byrne-Jones,PTA,DEF,R2
+1100,3,10857,189,Anthony,The Full Bonty,559,DEF,77,True,991930,Darcy,Byrne-Jones,PTA,DEF,R3
+1101,4,10857,189,Anthony,The Full Bonty,559,DEF,58,True,991930,Darcy,Byrne-Jones,PTA,DEF,R4
+1102,5,10857,189,Anthony,The Full Bonty,559,DEF,57,True,991930,Darcy,Byrne-Jones,PTA,DEF,R5
+1103,6,10857,189,Anthony,The Full Bonty,559,DEF,84,True,991930,Darcy,Byrne-Jones,PTA,DEF,R6
+1104,7,10857,189,Anthony,The Full Bonty,559,DEF,70,True,991930,Darcy,Byrne-Jones,PTA,DEF,R7
+1105,8,10857,189,Anthony,The Full Bonty,559,DEF,99,True,991930,Darcy,Byrne-Jones,PTA,DEF,R8
+1106,9,10857,189,Anthony,The Full Bonty,559,DEF,71,True,991930,Darcy,Byrne-Jones,PTA,DEF,R9
+1107,10,10857,189,Anthony,The Full Bonty,559,DEF,88,True,991930,Darcy,Byrne-Jones,PTA,DEF,R10
+1108,11,10857,189,Anthony,The Full Bonty,559,DEF,71,True,991930,Darcy,Byrne-Jones,PTA,DEF,R11
+1109,12,10857,189,Anthony,The Full Bonty,559,DEF,69,False,991930,Darcy,Byrne-Jones,PTA,DEF,R12
+1110,1,10857,189,Anthony,The Full Bonty,586,FWD,105,True,993979,Sam,Powell-Pepper,PTA,FWD MID,R1
+1111,2,10857,189,Anthony,The Full Bonty,586,FWD,65,True,993979,Sam,Powell-Pepper,PTA,FWD MID,R2
+1112,3,10857,189,Anthony,The Full Bonty,586,FWD,36,True,993979,Sam,Powell-Pepper,PTA,FWD MID,R3
+1113,1,10857,189,Anthony,The Full Bonty,556,DEF,101,True,992128,Ryan,Burton,PTA,DEF,R1
+1114,2,10857,189,Anthony,The Full Bonty,556,DEF,40,False,992128,Ryan,Burton,PTA,DEF,R2
+1115,6,300791,182,Paul,Coronaviney,556,DEF,69,False,992128,Ryan,Burton,PTA,DEF,R6
+1116,7,300791,182,Paul,Coronaviney,556,DEF,96,True,992128,Ryan,Burton,PTA,DEF,R7
+1117,1,10857,189,Anthony,The Full Bonty,490,MID,99,True,996701,Clayton,Oliver,MEL,MID,R1
+1118,2,10857,189,Anthony,The Full Bonty,490,MID,127,True,996701,Clayton,Oliver,MEL,MID,R2
+1119,3,10857,189,Anthony,The Full Bonty,490,MID,0,False,996701,Clayton,Oliver,MEL,MID,R3
+1120,4,10857,189,Anthony,The Full Bonty,490,MID,111,True,996701,Clayton,Oliver,MEL,MID,R4
+1121,5,10857,189,Anthony,The Full Bonty,490,MID,96,True,996701,Clayton,Oliver,MEL,MID,R5
+1122,6,10857,189,Anthony,The Full Bonty,490,MID,106,True,996701,Clayton,Oliver,MEL,MID,R6
+1123,7,10857,189,Anthony,The Full Bonty,490,MID,121,True,996701,Clayton,Oliver,MEL,MID,R7
+1124,8,10857,189,Anthony,The Full Bonty,490,MID,177,True,996701,Clayton,Oliver,MEL,MID,R8
+1125,9,10857,189,Anthony,The Full Bonty,490,MID,105,True,996701,Clayton,Oliver,MEL,MID,R9
+1126,10,10857,189,Anthony,The Full Bonty,490,MID,205,True,996701,Clayton,Oliver,MEL,MID,R10
+1127,11,10857,189,Anthony,The Full Bonty,490,MID,137,True,996701,Clayton,Oliver,MEL,MID,R11
+1128,12,10857,189,Anthony,The Full Bonty,490,MID,137,True,996701,Clayton,Oliver,MEL,MID,R12
+1129,1,10857,189,Anthony,The Full Bonty,334,FWD,98,True,291526,Luke,Dahlhaus,GEE,FWD,R1
+1130,2,10857,189,Anthony,The Full Bonty,334,FWD,87,True,291526,Luke,Dahlhaus,GEE,FWD,R2
+1131,3,10857,189,Anthony,The Full Bonty,334,FWD,7,True,291526,Luke,Dahlhaus,GEE,FWD,R3
+1132,4,10857,189,Anthony,The Full Bonty,334,FWD,93,True,291526,Luke,Dahlhaus,GEE,FWD,R4
+1133,5,10857,189,Anthony,The Full Bonty,334,FWD,91,True,291526,Luke,Dahlhaus,GEE,FWD,R5
+1134,6,10857,189,Anthony,The Full Bonty,334,FWD,53,True,291526,Luke,Dahlhaus,GEE,FWD,R6
+1135,7,8258,9856,Simon,It's always Sonny,334,FWD,62,True,291526,Luke,Dahlhaus,GEE,FWD,R7
+1136,1,10857,189,Anthony,The Full Bonty,5,MID,92,True,294307,Brad,Crouch,ADE,MID,R1
+1137,2,10857,189,Anthony,The Full Bonty,5,MID,66,True,294307,Brad,Crouch,ADE,MID,R2
+1138,3,10857,189,Anthony,The Full Bonty,5,MID,101,True,294307,Brad,Crouch,ADE,MID,R3
+1139,4,10857,189,Anthony,The Full Bonty,5,MID,102,True,294307,Brad,Crouch,ADE,MID,R4
+1140,5,10857,189,Anthony,The Full Bonty,5,MID,110,True,294307,Brad,Crouch,ADE,MID,R5
+1141,6,10857,189,Anthony,The Full Bonty,5,MID,81,True,294307,Brad,Crouch,ADE,MID,R6
+1142,7,10857,189,Anthony,The Full Bonty,5,MID,90,True,294307,Brad,Crouch,ADE,MID,R7
+1143,8,10857,189,Anthony,The Full Bonty,5,MID,15,True,294307,Brad,Crouch,ADE,MID,R8
+1144,12,180650,33301,Jordan,"What's Up, Doch?",5,MID,0,False,294307,Brad,Crouch,ADE,MID,R12
+1145,1,10857,189,Anthony,The Full Bonty,597,DEF,91,True,1000223,Liam,Baker,RIC,DEF FWD,R1
+1146,2,10857,189,Anthony,The Full Bonty,597,FWD,65,True,1000223,Liam,Baker,RIC,DEF FWD,R2
+1147,10,180650,33301,Jordan,"What's Up, Doch?",597,FWD,112,True,1000223,Liam,Baker,RIC,DEF FWD,R10
+1148,11,180650,33301,Jordan,"What's Up, Doch?",597,FWD,65,True,1000223,Liam,Baker,RIC,DEF FWD,R11
+1149,12,180650,33301,Jordan,"What's Up, Doch?",597,FWD,75,True,1000223,Liam,Baker,RIC,DEF FWD,R12
+1150,1,10857,189,Anthony,The Full Bonty,633,DEF,86,True,992049,Jayden,Short,RIC,DEF,R1
+1151,2,10857,189,Anthony,The Full Bonty,633,DEF,78,True,992049,Jayden,Short,RIC,DEF,R2
+1152,3,10857,189,Anthony,The Full Bonty,633,DEF,126,True,992049,Jayden,Short,RIC,DEF,R3
+1153,4,10857,189,Anthony,The Full Bonty,633,DEF,82,True,992049,Jayden,Short,RIC,DEF,R4
+1154,5,10857,189,Anthony,The Full Bonty,633,DEF,75,True,992049,Jayden,Short,RIC,DEF,R5
+1155,6,10857,189,Anthony,The Full Bonty,633,DEF,118,True,992049,Jayden,Short,RIC,DEF,R6
+1156,7,10857,189,Anthony,The Full Bonty,633,DEF,86,True,992049,Jayden,Short,RIC,DEF,R7
+1157,8,10857,189,Anthony,The Full Bonty,633,DEF,110,True,992049,Jayden,Short,RIC,DEF,R8
+1158,9,10857,189,Anthony,The Full Bonty,633,DEF,94,True,992049,Jayden,Short,RIC,DEF,R9
+1159,10,10857,189,Anthony,The Full Bonty,633,DEF,125,True,992049,Jayden,Short,RIC,DEF,R10
+1160,11,10857,189,Anthony,The Full Bonty,633,DEF,85,True,992049,Jayden,Short,RIC,DEF,R11
+1161,12,10857,189,Anthony,The Full Bonty,633,DEF,106,True,992049,Jayden,Short,RIC,DEF,R12
+1162,1,10857,189,Anthony,The Full Bonty,794,MID,86,True,295898,Tim,Kelly,WCE,MID,R1
+1163,2,10857,189,Anthony,The Full Bonty,794,MID,105,True,295898,Tim,Kelly,WCE,MID,R2
+1164,3,10857,189,Anthony,The Full Bonty,794,MID,61,True,295898,Tim,Kelly,WCE,MID,R3
+1165,4,10857,189,Anthony,The Full Bonty,794,MID,102,True,295898,Tim,Kelly,WCE,MID,R4
+1166,5,10857,189,Anthony,The Full Bonty,794,MID,77,True,295898,Tim,Kelly,WCE,MID,R5
+1167,6,10857,189,Anthony,The Full Bonty,794,MID,140,True,295898,Tim,Kelly,WCE,MID,R6
+1168,7,10857,189,Anthony,The Full Bonty,794,MID,105,True,295898,Tim,Kelly,WCE,MID,R7
+1169,8,10857,189,Anthony,The Full Bonty,794,MID,150,True,295898,Tim,Kelly,WCE,MID,R8
+1170,9,10857,189,Anthony,The Full Bonty,794,MID,90,True,295898,Tim,Kelly,WCE,MID,R9
+1171,10,10857,189,Anthony,The Full Bonty,794,MID,0,False,295898,Tim,Kelly,WCE,MID,R10
+1172,11,10857,189,Anthony,The Full Bonty,794,MID,73,True,295898,Tim,Kelly,WCE,MID,R11
+1173,12,21562,186,Mark,GetRichOrDieTryin,794,MID,68,True,295898,Tim,Kelly,WCE,MID,R12
+1174,1,10857,189,Anthony,The Full Bonty,221,FWD,82,True,990606,William,Snelling,ESS,FWD,R1
+1175,9,71052,9867,James,Bad Boys For Fyfe,221,FWD,87,True,990606,William,Snelling,ESS,FWD,R9
+1176,10,71052,9867,James,Bad Boys For Fyfe,221,FWD,59,True,990606,William,Snelling,ESS,FWD,R10
+1177,1,10857,189,Anthony,The Full Bonty,677,FWD,79,True,250267,Paddy,Ryder,STK,RUC FWD,R1
+1178,2,10857,189,Anthony,The Full Bonty,677,FWD,84,True,250267,Paddy,Ryder,STK,RUC FWD,R2
+1179,3,10857,189,Anthony,The Full Bonty,677,FWD,62,True,250267,Paddy,Ryder,STK,RUC FWD,R3
+1180,8,8258,9856,Simon,It's always Sonny,677,FWD,142,True,250267,Paddy,Ryder,STK,RUC FWD,R8
+1181,9,8258,9856,Simon,It's always Sonny,677,FWD,81,True,250267,Paddy,Ryder,STK,RUC FWD,R9
+1182,10,8258,9856,Simon,It's always Sonny,677,FWD,68,True,250267,Paddy,Ryder,STK,RUC FWD,R10
+1183,11,8258,9856,Simon,It's always Sonny,677,FWD,0,False,250267,Paddy,Ryder,STK,RUC FWD,R11
+1184,12,8258,9856,Simon,It's always Sonny,677,FWD,132,True,250267,Paddy,Ryder,STK,RUC FWD,R12
+1185,1,10857,189,Anthony,The Full Bonty,729,MID,76,True,297373,Marcus,Bontempelli,WBD,MID,R1
+1186,2,10857,189,Anthony,The Full Bonty,729,MID,94,True,297373,Marcus,Bontempelli,WBD,MID,R2
+1187,3,10857,189,Anthony,The Full Bonty,729,MID,97,True,297373,Marcus,Bontempelli,WBD,MID,R3
+1188,4,10857,189,Anthony,The Full Bonty,729,MID,166,True,297373,Marcus,Bontempelli,WBD,MID,R4
+1189,5,10857,189,Anthony,The Full Bonty,729,MID,55,True,297373,Marcus,Bontempelli,WBD,MID,R5
+1190,6,10857,189,Anthony,The Full Bonty,729,MID,116,True,297373,Marcus,Bontempelli,WBD,MID,R6
+1191,7,10857,189,Anthony,The Full Bonty,729,MID,105,True,297373,Marcus,Bontempelli,WBD,MID,R7
+1192,8,10857,189,Anthony,The Full Bonty,729,MID,87,True,297373,Marcus,Bontempelli,WBD,MID,R8
+1193,9,10857,189,Anthony,The Full Bonty,729,MID,96,True,297373,Marcus,Bontempelli,WBD,MID,R9
+1194,10,10857,189,Anthony,The Full Bonty,729,MID,114,True,297373,Marcus,Bontempelli,WBD,MID,R10
+1195,11,10857,189,Anthony,The Full Bonty,729,MID,138,True,297373,Marcus,Bontempelli,WBD,MID,R11
+1196,12,10857,189,Anthony,The Full Bonty,729,MID,199,True,297373,Marcus,Bontempelli,WBD,MID,R12
+1197,1,10857,189,Anthony,The Full Bonty,322,DEF,61,True,298524,Lachie,Weller,GCS,DEF,R1
+1198,2,10857,189,Anthony,The Full Bonty,322,DEF,100,True,298524,Lachie,Weller,GCS,DEF,R2
+1199,3,10857,189,Anthony,The Full Bonty,322,DEF,108,True,298524,Lachie,Weller,GCS,DEF,R3
+1200,4,10857,189,Anthony,The Full Bonty,322,DEF,58,True,298524,Lachie,Weller,GCS,DEF,R4
+1201,5,10857,189,Anthony,The Full Bonty,322,DEF,97,True,298524,Lachie,Weller,GCS,DEF,R5
+1202,6,10857,189,Anthony,The Full Bonty,322,DEF,59,True,298524,Lachie,Weller,GCS,DEF,R6
+1203,7,10857,189,Anthony,The Full Bonty,322,DEF,100,True,298524,Lachie,Weller,GCS,DEF,R7
+1204,8,10857,189,Anthony,The Full Bonty,322,DEF,65,True,298524,Lachie,Weller,GCS,DEF,R8
+1205,9,10857,189,Anthony,The Full Bonty,322,DEF,73,False,298524,Lachie,Weller,GCS,DEF,R9
+1206,10,10857,189,Anthony,The Full Bonty,322,DEF,57,True,298524,Lachie,Weller,GCS,DEF,R10
+1207,11,10857,189,Anthony,The Full Bonty,322,DEF,127,True,298524,Lachie,Weller,GCS,DEF,R11
+1208,12,10857,189,Anthony,The Full Bonty,322,DEF,78,True,298524,Lachie,Weller,GCS,DEF,R12
+1209,1,10857,189,Anthony,The Full Bonty,304,FWD,56,True,996464,Darcy,MacPherson,GCS,FWD MID,R1
+1210,2,10857,189,Anthony,The Full Bonty,304,FWD,65,True,996464,Darcy,MacPherson,GCS,FWD MID,R2
+1211,3,10857,189,Anthony,The Full Bonty,304,FWD,111,True,996464,Darcy,MacPherson,GCS,FWD MID,R3
+1212,4,10857,189,Anthony,The Full Bonty,304,FWD,52,True,996464,Darcy,MacPherson,GCS,FWD MID,R4
+1213,5,10857,189,Anthony,The Full Bonty,304,FWD,50,True,996464,Darcy,MacPherson,GCS,FWD MID,R5
+1214,6,10857,189,Anthony,The Full Bonty,304,FWD,34,False,996464,Darcy,MacPherson,GCS,FWD MID,R6
+1215,1,10857,189,Anthony,The Full Bonty,133,MID,55,True,1006094,Sam,Walsh,CAR,MID,R1
+1216,2,10857,189,Anthony,The Full Bonty,133,MID,89,False,1006094,Sam,Walsh,CAR,MID,R2
+1217,3,10857,189,Anthony,The Full Bonty,133,MID,75,False,1006094,Sam,Walsh,CAR,MID,R3
+1218,4,10857,189,Anthony,The Full Bonty,133,MID,99,False,1006094,Sam,Walsh,CAR,MID,R4
+1219,5,10857,189,Anthony,The Full Bonty,133,MID,58,True,1006094,Sam,Walsh,CAR,MID,R5
+1220,6,10857,189,Anthony,The Full Bonty,133,MID,92,False,1006094,Sam,Walsh,CAR,MID,R6
+1221,8,8258,9856,Simon,It's always Sonny,133,MID,140,False,1006094,Sam,Walsh,CAR,MID,R8
+1222,9,8258,9856,Simon,It's always Sonny,133,MID,52,True,1006094,Sam,Walsh,CAR,MID,R9
+1223,10,8258,9856,Simon,It's always Sonny,133,MID,0,False,1006094,Sam,Walsh,CAR,MID,R10
+1224,11,8258,9856,Simon,It's always Sonny,133,MID,114,True,1006094,Sam,Walsh,CAR,MID,R11
+1225,12,8258,9856,Simon,It's always Sonny,133,MID,123,True,1006094,Sam,Walsh,CAR,MID,R12
+1226,1,10857,189,Anthony,The Full Bonty,415,DEF,0,False,294685,Zac,Williams,GWS,DEF,R1
+1227,2,10857,189,Anthony,The Full Bonty,415,DEF,82,True,294685,Zac,Williams,GWS,DEF,R2
+1228,3,10857,189,Anthony,The Full Bonty,415,DEF,55,True,294685,Zac,Williams,GWS,DEF,R3
+1229,4,10857,189,Anthony,The Full Bonty,415,DEF,77,True,294685,Zac,Williams,GWS,DEF,R4
+1230,5,10857,189,Anthony,The Full Bonty,415,DEF,0,False,294685,Zac,Williams,GWS,DEF,R5
+1231,6,10857,189,Anthony,The Full Bonty,415,DEF,0,False,294685,Zac,Williams,GWS,DEF,R6
+1232,7,10857,189,Anthony,The Full Bonty,415,DEF,0,False,294685,Zac,Williams,GWS,DEF,R7
+1233,8,10857,189,Anthony,The Full Bonty,415,DEF,0,False,294685,Zac,Williams,GWS,DEF,R8
+1234,9,10857,189,Anthony,The Full Bonty,415,DEF,112,True,294685,Zac,Williams,GWS,DEF,R9
+1235,10,10857,189,Anthony,The Full Bonty,415,DEF,105,True,294685,Zac,Williams,GWS,DEF,R10
+1236,11,10857,189,Anthony,The Full Bonty,415,DEF,0,False,294685,Zac,Williams,GWS,DEF,R11
+1237,12,10857,189,Anthony,The Full Bonty,415,DEF,111,True,294685,Zac,Williams,GWS,DEF,R12
+1238,1,10857,189,Anthony,The Full Bonty,207,MID,113,False,998102,Andrew,McGrath,ESS,MID,R1
+1239,2,10857,189,Anthony,The Full Bonty,207,MID,98,True,998102,Andrew,McGrath,ESS,MID,R2
+1240,3,10857,189,Anthony,The Full Bonty,207,MID,0,False,998102,Andrew,McGrath,ESS,MID,R3
+1241,4,10857,189,Anthony,The Full Bonty,207,MID,79,True,998102,Andrew,McGrath,ESS,MID,R4
+1242,5,10857,189,Anthony,The Full Bonty,207,MID,91,False,998102,Andrew,McGrath,ESS,MID,R5
+1243,6,10857,189,Anthony,The Full Bonty,207,MID,120,True,998102,Andrew,McGrath,ESS,MID,R6
+1244,7,10857,189,Anthony,The Full Bonty,207,MID,67,True,998102,Andrew,McGrath,ESS,MID,R7
+1245,8,10857,189,Anthony,The Full Bonty,207,MID,124,True,998102,Andrew,McGrath,ESS,MID,R8
+1246,9,10857,189,Anthony,The Full Bonty,207,MID,89,True,998102,Andrew,McGrath,ESS,MID,R9
+1247,10,10857,189,Anthony,The Full Bonty,207,MID,90,True,998102,Andrew,McGrath,ESS,MID,R10
+1248,11,10857,189,Anthony,The Full Bonty,207,MID,109,True,998102,Andrew,McGrath,ESS,MID,R11
+1249,12,10857,189,Anthony,The Full Bonty,207,MID,113,True,998102,Andrew,McGrath,ESS,MID,R12
+1250,1,10857,189,Anthony,The Full Bonty,353,MID,82,False,999824,Quinton,Narkle,GEE,MID,R1
+1251,2,10857,189,Anthony,The Full Bonty,353,MID,71,False,999824,Quinton,Narkle,GEE,MID,R2
+1252,3,10857,189,Anthony,The Full Bonty,353,MID,111,False,999824,Quinton,Narkle,GEE,MID,R3
+1253,5,300791,182,Paul,Coronaviney,353,MID,52,True,999824,Quinton,Narkle,GEE,MID,R5
+1254,1,10857,189,Anthony,The Full Bonty,365,FWD,0,False,270912,Jack,Steven,GEE,FWD MID,R1
+1255,2,10857,189,Anthony,The Full Bonty,365,FWD,0,False,270912,Jack,Steven,GEE,FWD MID,R2
+1256,3,10857,189,Anthony,The Full Bonty,365,FWD,20,True,270912,Jack,Steven,GEE,FWD MID,R3
+1257,4,10857,189,Anthony,The Full Bonty,365,FWD,36,False,270912,Jack,Steven,GEE,FWD MID,R4
+1258,5,10857,189,Anthony,The Full Bonty,365,FWD,95,False,270912,Jack,Steven,GEE,FWD MID,R5
+1259,7,45168,5524,Luke,The Dragon's Laird,365,FWD,67,True,270912,Jack,Steven,GEE,FWD MID,R7
+1260,11,300791,182,Paul,Coronaviney,365,FWD,86,True,270912,Jack,Steven,GEE,FWD MID,R11
+1261,12,300791,182,Paul,Coronaviney,365,FWD,0,False,270912,Jack,Steven,GEE,FWD MID,R12
+1262,1,71052,9867,James,Bad Boys For Fyfe,219,MID,163,True,291783,Dylan,Shiel,ESS,MID,R1
+1263,2,71052,9867,James,Bad Boys For Fyfe,219,MID,96,True,291783,Dylan,Shiel,ESS,MID,R2
+1264,3,71052,9867,James,Bad Boys For Fyfe,219,MID,0,False,291783,Dylan,Shiel,ESS,MID,R3
+1265,4,71052,9867,James,Bad Boys For Fyfe,219,MID,81,True,291783,Dylan,Shiel,ESS,MID,R4
+1266,5,71052,9867,James,Bad Boys For Fyfe,219,MID,156,True,291783,Dylan,Shiel,ESS,MID,R5
+1267,6,71052,9867,James,Bad Boys For Fyfe,219,MID,74,True,291783,Dylan,Shiel,ESS,MID,R6
+1268,7,71052,9867,James,Bad Boys For Fyfe,219,MID,0,False,291783,Dylan,Shiel,ESS,MID,R7
+1269,8,71052,9867,James,Bad Boys For Fyfe,219,MID,0,False,291783,Dylan,Shiel,ESS,MID,R8
+1270,9,71052,9867,James,Bad Boys For Fyfe,219,MID,76,True,291783,Dylan,Shiel,ESS,MID,R9
+1271,10,71052,9867,James,Bad Boys For Fyfe,219,MID,55,True,291783,Dylan,Shiel,ESS,MID,R10
+1272,11,71052,9867,James,Bad Boys For Fyfe,219,MID,129,True,291783,Dylan,Shiel,ESS,MID,R11
+1273,12,71052,9867,James,Bad Boys For Fyfe,219,MID,117,True,291783,Dylan,Shiel,ESS,MID,R12
+1274,1,71052,9867,James,Bad Boys For Fyfe,714,MID,125,True,290778,Luke,Parker,SYD,MID,R1
+1275,2,71052,9867,James,Bad Boys For Fyfe,714,MID,109,True,290778,Luke,Parker,SYD,MID,R2
+1276,3,71052,9867,James,Bad Boys For Fyfe,714,MID,113,True,290778,Luke,Parker,SYD,MID,R3
+1277,4,71052,9867,James,Bad Boys For Fyfe,714,MID,120,True,290778,Luke,Parker,SYD,MID,R4
+1278,5,71052,9867,James,Bad Boys For Fyfe,714,MID,110,True,290778,Luke,Parker,SYD,MID,R5
+1279,6,71052,9867,James,Bad Boys For Fyfe,714,MID,45,True,290778,Luke,Parker,SYD,MID,R6
+1280,7,71052,9867,James,Bad Boys For Fyfe,714,MID,141,True,290778,Luke,Parker,SYD,MID,R7
+1281,8,71052,9867,James,Bad Boys For Fyfe,714,MID,113,True,290778,Luke,Parker,SYD,MID,R8
+1282,9,71052,9867,James,Bad Boys For Fyfe,714,MID,107,True,290778,Luke,Parker,SYD,MID,R9
+1283,10,71052,9867,James,Bad Boys For Fyfe,714,MID,77,True,290778,Luke,Parker,SYD,MID,R10
+1284,11,71052,9867,James,Bad Boys For Fyfe,714,MID,0,False,290778,Luke,Parker,SYD,MID,R11
+1285,12,71052,9867,James,Bad Boys For Fyfe,714,MID,127,True,290778,Luke,Parker,SYD,MID,R12
+1286,1,71052,9867,James,Bad Boys For Fyfe,293,FWD,116,True,281091,Hugh,Greenwood,GCS,FWD MID,R1
+1287,2,71052,9867,James,Bad Boys For Fyfe,293,FWD,95,True,281091,Hugh,Greenwood,GCS,FWD MID,R2
+1288,3,71052,9867,James,Bad Boys For Fyfe,293,FWD,116,True,281091,Hugh,Greenwood,GCS,FWD MID,R3
+1289,4,71052,9867,James,Bad Boys For Fyfe,293,FWD,61,True,281091,Hugh,Greenwood,GCS,FWD MID,R4
+1290,5,71052,9867,James,Bad Boys For Fyfe,293,FWD,132,True,281091,Hugh,Greenwood,GCS,FWD MID,R5
+1291,6,71052,9867,James,Bad Boys For Fyfe,293,FWD,126,True,281091,Hugh,Greenwood,GCS,FWD MID,R6
+1292,7,71052,9867,James,Bad Boys For Fyfe,293,FWD,144,True,281091,Hugh,Greenwood,GCS,FWD MID,R7
+1293,8,71052,9867,James,Bad Boys For Fyfe,293,FWD,97,True,281091,Hugh,Greenwood,GCS,FWD MID,R8
+1294,9,71052,9867,James,Bad Boys For Fyfe,293,FWD,69,True,281091,Hugh,Greenwood,GCS,FWD MID,R9
+1295,10,71052,9867,James,Bad Boys For Fyfe,293,FWD,99,True,281091,Hugh,Greenwood,GCS,FWD MID,R10
+1296,11,71052,9867,James,Bad Boys For Fyfe,293,FWD,85,True,281091,Hugh,Greenwood,GCS,FWD MID,R11
+1297,12,71052,9867,James,Bad Boys For Fyfe,293,FWD,96,True,281091,Hugh,Greenwood,GCS,FWD MID,R12
+1298,1,71052,9867,James,Bad Boys For Fyfe,378,MID,114,True,291969,Stephen,Coniglio,GWS,MID,R1
+1299,2,71052,9867,James,Bad Boys For Fyfe,378,MID,111,True,291969,Stephen,Coniglio,GWS,MID,R2
+1300,3,71052,9867,James,Bad Boys For Fyfe,378,MID,87,True,291969,Stephen,Coniglio,GWS,MID,R3
+1301,4,71052,9867,James,Bad Boys For Fyfe,378,MID,49,True,291969,Stephen,Coniglio,GWS,MID,R4
+1302,5,71052,9867,James,Bad Boys For Fyfe,378,MID,103,True,291969,Stephen,Coniglio,GWS,MID,R5
+1303,6,71052,9867,James,Bad Boys For Fyfe,378,MID,97,True,291969,Stephen,Coniglio,GWS,MID,R6
+1304,7,71052,9867,James,Bad Boys For Fyfe,378,MID,141,True,291969,Stephen,Coniglio,GWS,MID,R7
+1305,8,71052,9867,James,Bad Boys For Fyfe,378,MID,109,True,291969,Stephen,Coniglio,GWS,MID,R8
+1306,9,71052,9867,James,Bad Boys For Fyfe,378,MID,121,True,291969,Stephen,Coniglio,GWS,MID,R9
+1307,10,71052,9867,James,Bad Boys For Fyfe,378,MID,114,True,291969,Stephen,Coniglio,GWS,MID,R10
+1308,11,71052,9867,James,Bad Boys For Fyfe,378,MID,0,False,291969,Stephen,Coniglio,GWS,MID,R11
+1309,12,71052,9867,James,Bad Boys For Fyfe,378,MID,95,True,291969,Stephen,Coniglio,GWS,MID,R12
+1310,1,71052,9867,James,Bad Boys For Fyfe,121,DEF,113,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R1
+1311,2,71052,9867,James,Bad Boys For Fyfe,121,DEF,103,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R2
+1312,3,71052,9867,James,Bad Boys For Fyfe,121,DEF,45,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R3
+1313,4,71052,9867,James,Bad Boys For Fyfe,121,DEF,82,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R4
+1314,5,71052,9867,James,Bad Boys For Fyfe,121,DEF,51,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R5
+1315,6,71052,9867,James,Bad Boys For Fyfe,121,DEF,87,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R6
+1316,7,71052,9867,James,Bad Boys For Fyfe,121,DEF,73,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R7
+1317,8,71052,9867,James,Bad Boys For Fyfe,121,DEF,101,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R8
+1318,9,71052,9867,James,Bad Boys For Fyfe,121,DEF,40,True,994539,Sam,Petrevski-Seton,CAR,DEF MID,R9
+1319,10,71052,9867,James,Bad Boys For Fyfe,121,DEF,0,False,994539,Sam,Petrevski-Seton,CAR,DEF MID,R10
+1320,11,71052,9867,James,Bad Boys For Fyfe,121,DEF,72,False,994539,Sam,Petrevski-Seton,CAR,DEF MID,R11
+1321,12,71052,9867,James,Bad Boys For Fyfe,121,DEF,64,False,994539,Sam,Petrevski-Seton,CAR,DEF MID,R12
+1322,1,71052,9867,James,Bad Boys For Fyfe,244,MID,110,True,291570,Nat,Fyfe,FRE,MID,R1
+1323,2,71052,9867,James,Bad Boys For Fyfe,244,MID,143,True,291570,Nat,Fyfe,FRE,MID,R2
+1324,3,71052,9867,James,Bad Boys For Fyfe,244,MID,166,True,291570,Nat,Fyfe,FRE,MID,R3
+1325,4,71052,9867,James,Bad Boys For Fyfe,244,MID,71,True,291570,Nat,Fyfe,FRE,MID,R4
+1326,5,71052,9867,James,Bad Boys For Fyfe,244,MID,0,False,291570,Nat,Fyfe,FRE,MID,R5
+1327,6,71052,9867,James,Bad Boys For Fyfe,244,MID,84,True,291570,Nat,Fyfe,FRE,MID,R6
+1328,7,71052,9867,James,Bad Boys For Fyfe,244,MID,0,False,291570,Nat,Fyfe,FRE,MID,R7
+1329,8,71052,9867,James,Bad Boys For Fyfe,244,MID,0,False,291570,Nat,Fyfe,FRE,MID,R8
+1330,9,71052,9867,James,Bad Boys For Fyfe,244,MID,112,True,291570,Nat,Fyfe,FRE,MID,R9
+1331,10,71052,9867,James,Bad Boys For Fyfe,244,MID,0,False,291570,Nat,Fyfe,FRE,MID,R10
+1332,11,71052,9867,James,Bad Boys For Fyfe,244,MID,130,True,291570,Nat,Fyfe,FRE,MID,R11
+1333,12,71052,9867,James,Bad Boys For Fyfe,244,MID,121,True,291570,Nat,Fyfe,FRE,MID,R12
+1334,1,71052,9867,James,Bad Boys For Fyfe,218,DEF,110,True,295461,Adam,Saad,ESS,DEF,R1
+1335,2,71052,9867,James,Bad Boys For Fyfe,218,DEF,100,True,295461,Adam,Saad,ESS,DEF,R2
+1336,3,71052,9867,James,Bad Boys For Fyfe,218,DEF,0,False,295461,Adam,Saad,ESS,DEF,R3
+1337,4,71052,9867,James,Bad Boys For Fyfe,218,DEF,131,True,295461,Adam,Saad,ESS,DEF,R4
+1338,5,71052,9867,James,Bad Boys For Fyfe,218,DEF,80,True,295461,Adam,Saad,ESS,DEF,R5
+1339,6,71052,9867,James,Bad Boys For Fyfe,218,DEF,92,True,295461,Adam,Saad,ESS,DEF,R6
+1340,7,71052,9867,James,Bad Boys For Fyfe,218,DEF,99,True,295461,Adam,Saad,ESS,DEF,R7
+1341,8,71052,9867,James,Bad Boys For Fyfe,218,DEF,107,True,295461,Adam,Saad,ESS,DEF,R8
+1342,9,71052,9867,James,Bad Boys For Fyfe,218,DEF,57,True,295461,Adam,Saad,ESS,DEF,R9
+1343,10,71052,9867,James,Bad Boys For Fyfe,218,DEF,115,True,295461,Adam,Saad,ESS,DEF,R10
+1344,11,71052,9867,James,Bad Boys For Fyfe,218,DEF,89,True,295461,Adam,Saad,ESS,DEF,R11
+1345,12,71052,9867,James,Bad Boys For Fyfe,218,DEF,107,True,295461,Adam,Saad,ESS,DEF,R12
+1346,1,71052,9867,James,Bad Boys For Fyfe,220,FWD,105,True,291771,Devon,Smith,ESS,FWD MID,R1
+1347,2,71052,9867,James,Bad Boys For Fyfe,220,FWD,105,True,291771,Devon,Smith,ESS,FWD MID,R2
+1348,3,71052,9867,James,Bad Boys For Fyfe,220,FWD,0,False,291771,Devon,Smith,ESS,FWD MID,R3
+1349,4,71052,9867,James,Bad Boys For Fyfe,220,FWD,70,True,291771,Devon,Smith,ESS,FWD MID,R4
+1350,5,71052,9867,James,Bad Boys For Fyfe,220,FWD,70,True,291771,Devon,Smith,ESS,FWD MID,R5
+1351,6,71052,9867,James,Bad Boys For Fyfe,220,FWD,68,True,291771,Devon,Smith,ESS,FWD MID,R6
+1352,7,71052,9867,James,Bad Boys For Fyfe,220,FWD,71,True,291771,Devon,Smith,ESS,FWD MID,R7
+1353,8,71052,9867,James,Bad Boys For Fyfe,220,FWD,49,True,291771,Devon,Smith,ESS,FWD MID,R8
+1354,9,71052,9867,James,Bad Boys For Fyfe,220,FWD,73,True,291771,Devon,Smith,ESS,FWD MID,R9
+1355,10,71052,9867,James,Bad Boys For Fyfe,220,FWD,105,True,291771,Devon,Smith,ESS,FWD MID,R10
+1356,11,71052,9867,James,Bad Boys For Fyfe,220,FWD,64,True,291771,Devon,Smith,ESS,FWD MID,R11
+1357,12,71052,9867,James,Bad Boys For Fyfe,220,FWD,0,False,291771,Devon,Smith,ESS,FWD MID,R12
+1358,1,71052,9867,James,Bad Boys For Fyfe,319,MID,92,True,290832,David,Swallow,GCS,MID,R1
+1359,2,71052,9867,James,Bad Boys For Fyfe,319,MID,0,False,290832,David,Swallow,GCS,MID,R2
+1360,3,71052,9867,James,Bad Boys For Fyfe,319,MID,58,True,290832,David,Swallow,GCS,MID,R3
+1361,6,71052,9867,James,Bad Boys For Fyfe,319,MID,92,True,290832,David,Swallow,GCS,MID,R6
+1362,7,71052,9867,James,Bad Boys For Fyfe,319,MID,108,True,290832,David,Swallow,GCS,MID,R7
+1363,8,71052,9867,James,Bad Boys For Fyfe,319,MID,87,True,290832,David,Swallow,GCS,MID,R8
+1364,9,71052,9867,James,Bad Boys For Fyfe,319,MID,67,True,290832,David,Swallow,GCS,MID,R9
+1365,10,71052,9867,James,Bad Boys For Fyfe,319,MID,74,True,290832,David,Swallow,GCS,MID,R10
+1366,11,71052,9867,James,Bad Boys For Fyfe,319,MID,53,True,290832,David,Swallow,GCS,MID,R11
+1367,1,71052,9867,James,Bad Boys For Fyfe,736,DEF,92,True,295136,Caleb,Daniel,WBD,DEF,R1
+1368,2,71052,9867,James,Bad Boys For Fyfe,736,DEF,83,True,295136,Caleb,Daniel,WBD,DEF,R2
+1369,3,71052,9867,James,Bad Boys For Fyfe,736,DEF,134,True,295136,Caleb,Daniel,WBD,DEF,R3
+1370,4,71052,9867,James,Bad Boys For Fyfe,736,DEF,114,True,295136,Caleb,Daniel,WBD,DEF,R4
+1371,5,71052,9867,James,Bad Boys For Fyfe,736,DEF,107,True,295136,Caleb,Daniel,WBD,DEF,R5
+1372,6,71052,9867,James,Bad Boys For Fyfe,736,DEF,81,True,295136,Caleb,Daniel,WBD,DEF,R6
+1373,7,71052,9867,James,Bad Boys For Fyfe,736,DEF,108,True,295136,Caleb,Daniel,WBD,DEF,R7
+1374,8,71052,9867,James,Bad Boys For Fyfe,736,DEF,128,True,295136,Caleb,Daniel,WBD,DEF,R8
+1375,9,71052,9867,James,Bad Boys For Fyfe,736,DEF,100,True,295136,Caleb,Daniel,WBD,DEF,R9
+1376,10,71052,9867,James,Bad Boys For Fyfe,736,DEF,86,True,295136,Caleb,Daniel,WBD,DEF,R10
+1377,11,71052,9867,James,Bad Boys For Fyfe,736,DEF,87,True,295136,Caleb,Daniel,WBD,DEF,R11
+1378,12,71052,9867,James,Bad Boys For Fyfe,736,DEF,95,True,295136,Caleb,Daniel,WBD,DEF,R12
+1379,1,71052,9867,James,Bad Boys For Fyfe,72,MID,85,True,1000978,Hugh,McCluggage,BRL,MID,R1
+1380,2,71052,9867,James,Bad Boys For Fyfe,72,MID,66,True,1000978,Hugh,McCluggage,BRL,MID,R2
+1381,3,71052,9867,James,Bad Boys For Fyfe,72,MID,155,False,1000978,Hugh,McCluggage,BRL,MID,R3
+1382,4,71052,9867,James,Bad Boys For Fyfe,72,MID,141,True,1000978,Hugh,McCluggage,BRL,MID,R4
+1383,5,71052,9867,James,Bad Boys For Fyfe,72,MID,116,True,1000978,Hugh,McCluggage,BRL,MID,R5
+1384,6,71052,9867,James,Bad Boys For Fyfe,72,MID,74,True,1000978,Hugh,McCluggage,BRL,MID,R6
+1385,7,71052,9867,James,Bad Boys For Fyfe,72,MID,89,True,1000978,Hugh,McCluggage,BRL,MID,R7
+1386,8,71052,9867,James,Bad Boys For Fyfe,72,MID,131,True,1000978,Hugh,McCluggage,BRL,MID,R8
+1387,9,71052,9867,James,Bad Boys For Fyfe,72,MID,74,True,1000978,Hugh,McCluggage,BRL,MID,R9
+1388,10,71052,9867,James,Bad Boys For Fyfe,72,MID,114,True,1000978,Hugh,McCluggage,BRL,MID,R10
+1389,11,71052,9867,James,Bad Boys For Fyfe,72,MID,117,True,1000978,Hugh,McCluggage,BRL,MID,R11
+1390,12,71052,9867,James,Bad Boys For Fyfe,72,MID,60,True,1000978,Hugh,McCluggage,BRL,MID,R12
+1391,1,71052,9867,James,Bad Boys For Fyfe,796,DEF,83,True,294859,Jeremy,McGovern,WCE,DEF,R1
+1392,2,71052,9867,James,Bad Boys For Fyfe,796,DEF,63,True,294859,Jeremy,McGovern,WCE,DEF,R2
+1393,3,71052,9867,James,Bad Boys For Fyfe,796,DEF,0,False,294859,Jeremy,McGovern,WCE,DEF,R3
+1394,4,71052,9867,James,Bad Boys For Fyfe,796,DEF,0,False,294859,Jeremy,McGovern,WCE,DEF,R4
+1395,5,71052,9867,James,Bad Boys For Fyfe,796,DEF,82,True,294859,Jeremy,McGovern,WCE,DEF,R5
+1396,6,71052,9867,James,Bad Boys For Fyfe,796,DEF,122,True,294859,Jeremy,McGovern,WCE,DEF,R6
+1397,7,71052,9867,James,Bad Boys For Fyfe,796,DEF,85,True,294859,Jeremy,McGovern,WCE,DEF,R7
+1398,8,8258,9856,Simon,It's always Sonny,796,DEF,0,False,294859,Jeremy,McGovern,WCE,DEF,R8
+1399,9,8258,9856,Simon,It's always Sonny,796,DEF,0,False,294859,Jeremy,McGovern,WCE,DEF,R9
+1400,10,8258,9856,Simon,It's always Sonny,796,DEF,0,False,294859,Jeremy,McGovern,WCE,DEF,R10
+1401,11,8258,9856,Simon,It's always Sonny,796,DEF,0,False,294859,Jeremy,McGovern,WCE,DEF,R11
+1402,12,8258,9856,Simon,It's always Sonny,796,DEF,96,True,294859,Jeremy,McGovern,WCE,DEF,R12
+1403,1,71052,9867,James,Bad Boys For Fyfe,370,DEF,64,True,292511,Zach,Tuohy,GEE,DEF,R1
+1404,2,71052,9867,James,Bad Boys For Fyfe,370,DEF,56,True,292511,Zach,Tuohy,GEE,DEF,R2
+1405,3,71052,9867,James,Bad Boys For Fyfe,370,DEF,70,True,292511,Zach,Tuohy,GEE,DEF,R3
+1406,4,71052,9867,James,Bad Boys For Fyfe,370,DEF,73,False,292511,Zach,Tuohy,GEE,DEF,R4
+1407,5,71052,9867,James,Bad Boys For Fyfe,370,DEF,93,False,292511,Zach,Tuohy,GEE,DEF,R5
+1408,6,71052,9867,James,Bad Boys For Fyfe,370,DEF,102,True,292511,Zach,Tuohy,GEE,DEF,R6
+1409,7,71052,9867,James,Bad Boys For Fyfe,370,DEF,88,True,292511,Zach,Tuohy,GEE,DEF,R7
+1410,8,71052,9867,James,Bad Boys For Fyfe,370,DEF,113,True,292511,Zach,Tuohy,GEE,DEF,R8
+1411,9,71052,9867,James,Bad Boys For Fyfe,370,DEF,85,True,292511,Zach,Tuohy,GEE,DEF,R9
+1412,10,71052,9867,James,Bad Boys For Fyfe,370,DEF,58,True,292511,Zach,Tuohy,GEE,DEF,R10
+1413,11,71052,9867,James,Bad Boys For Fyfe,370,DEF,79,True,292511,Zach,Tuohy,GEE,DEF,R11
+1414,12,71052,9867,James,Bad Boys For Fyfe,370,DEF,57,True,292511,Zach,Tuohy,GEE,DEF,R12
+1415,1,71052,9867,James,Bad Boys For Fyfe,384,FWD,62,True,298111,Jeremy,Finlayson,GWS,FWD,R1
+1416,2,71052,9867,James,Bad Boys For Fyfe,384,FWD,60,True,298111,Jeremy,Finlayson,GWS,FWD,R2
+1417,3,71052,9867,James,Bad Boys For Fyfe,384,FWD,39,True,298111,Jeremy,Finlayson,GWS,FWD,R3
+1418,4,71052,9867,James,Bad Boys For Fyfe,384,FWD,74,True,298111,Jeremy,Finlayson,GWS,FWD,R4
+1419,5,71052,9867,James,Bad Boys For Fyfe,384,FWD,111,True,298111,Jeremy,Finlayson,GWS,FWD,R5
+1420,6,71052,9867,James,Bad Boys For Fyfe,384,FWD,61,True,298111,Jeremy,Finlayson,GWS,FWD,R6
+1421,10,86078,9806,Lester,HoweIMetYourMother,384,FWD,49,True,298111,Jeremy,Finlayson,GWS,FWD,R10
+1422,1,71052,9867,James,Bad Boys For Fyfe,69,RUC,58,True,280763,Stefan,Martin,BRL,RUC,R1
+1423,2,71052,9867,James,Bad Boys For Fyfe,69,RUC,38,True,280763,Stefan,Martin,BRL,RUC,R2
+1424,3,71052,9867,James,Bad Boys For Fyfe,69,RUC,0,False,280763,Stefan,Martin,BRL,RUC,R3
+1425,4,71052,9867,James,Bad Boys For Fyfe,69,RUC,0,False,280763,Stefan,Martin,BRL,RUC,R4
+1426,5,71052,9867,James,Bad Boys For Fyfe,69,RUC,51,False,280763,Stefan,Martin,BRL,RUC,R5
+1427,6,71052,9867,James,Bad Boys For Fyfe,69,RUC,39,False,280763,Stefan,Martin,BRL,RUC,R6
+1428,7,71052,9867,James,Bad Boys For Fyfe,69,RUC,46,False,280763,Stefan,Martin,BRL,RUC,R7
+1429,1,71052,9867,James,Bad Boys For Fyfe,816,MID,57,True,292128,Elliot,Yeo,WCE,MID,R1
+1430,2,71052,9867,James,Bad Boys For Fyfe,816,MID,110,True,292128,Elliot,Yeo,WCE,MID,R2
+1431,3,71052,9867,James,Bad Boys For Fyfe,816,MID,71,True,292128,Elliot,Yeo,WCE,MID,R3
+1432,4,71052,9867,James,Bad Boys For Fyfe,816,MID,59,True,292128,Elliot,Yeo,WCE,MID,R4
+1433,5,71052,9867,James,Bad Boys For Fyfe,816,MID,121,True,292128,Elliot,Yeo,WCE,MID,R5
+1434,6,71052,9867,James,Bad Boys For Fyfe,816,MID,105,True,292128,Elliot,Yeo,WCE,MID,R6
+1435,7,71052,9867,James,Bad Boys For Fyfe,816,MID,102,True,292128,Elliot,Yeo,WCE,MID,R7
+1436,8,71052,9867,James,Bad Boys For Fyfe,816,MID,77,True,292128,Elliot,Yeo,WCE,MID,R8
+1437,9,71052,9867,James,Bad Boys For Fyfe,816,MID,87,True,292128,Elliot,Yeo,WCE,MID,R9
+1438,10,71052,9867,James,Bad Boys For Fyfe,816,MID,0,False,292128,Elliot,Yeo,WCE,MID,R10
+1439,11,71052,9867,James,Bad Boys For Fyfe,816,MID,110,True,292128,Elliot,Yeo,WCE,MID,R11
+1440,12,71052,9867,James,Bad Boys For Fyfe,816,MID,0,False,292128,Elliot,Yeo,WCE,MID,R12
+1441,1,71052,9867,James,Bad Boys For Fyfe,468,FWD,39,True,1001438,Bayley,Fritsch,MEL,DEF FWD,R1
+1442,1,71052,9867,James,Bad Boys For Fyfe,671,FWD,35,True,294596,Tim,Membrey,STK,FWD,R1
+1443,2,71052,9867,James,Bad Boys For Fyfe,671,FWD,62,False,294596,Tim,Membrey,STK,FWD,R2
+1444,1,71052,9867,James,Bad Boys For Fyfe,406,DEF,62,False,240700,Heath,Shaw,GWS,DEF,R1
+1445,1,71052,9867,James,Bad Boys For Fyfe,749,DEF,79,False,290797,Alex,Keath,WBD,DEF,R1
+1446,2,71052,9867,James,Bad Boys For Fyfe,749,DEF,47,False,290797,Alex,Keath,WBD,DEF,R2
+1447,3,71052,9867,James,Bad Boys For Fyfe,749,DEF,106,True,290797,Alex,Keath,WBD,DEF,R3
+1448,4,71052,9867,James,Bad Boys For Fyfe,749,DEF,40,True,290797,Alex,Keath,WBD,DEF,R4
+1449,1,71052,9867,James,Bad Boys For Fyfe,388,MID,0,False,999309,Jackson,Hately,GWS,MID,R1
+1450,2,71052,9867,James,Bad Boys For Fyfe,388,MID,0,False,999309,Jackson,Hately,GWS,MID,R2
+1451,4,71052,9867,James,Bad Boys For Fyfe,388,MID,47,False,999309,Jackson,Hately,GWS,MID,R4
+1452,1,71052,9867,James,Bad Boys For Fyfe,752,FWD,0,False,1003130,Patrick,Lipinski,WBD,FWD MID,R1
+1453,2,71052,9867,James,Bad Boys For Fyfe,752,FWD,97,True,1003130,Patrick,Lipinski,WBD,FWD MID,R2
+1454,3,71052,9867,James,Bad Boys For Fyfe,752,FWD,0,False,1003130,Patrick,Lipinski,WBD,FWD MID,R3
+1455,4,71052,9867,James,Bad Boys For Fyfe,752,FWD,85,True,1003130,Patrick,Lipinski,WBD,FWD MID,R4
+1456,5,71052,9867,James,Bad Boys For Fyfe,752,FWD,94,True,1003130,Patrick,Lipinski,WBD,FWD MID,R5
+1457,6,71052,9867,James,Bad Boys For Fyfe,752,FWD,83,True,1003130,Patrick,Lipinski,WBD,FWD MID,R6
+1458,7,71052,9867,James,Bad Boys For Fyfe,752,FWD,90,True,1003130,Patrick,Lipinski,WBD,FWD MID,R7
+1459,8,71052,9867,James,Bad Boys For Fyfe,752,FWD,84,True,1003130,Patrick,Lipinski,WBD,FWD MID,R8
+1460,9,71052,9867,James,Bad Boys For Fyfe,752,FWD,41,True,1003130,Patrick,Lipinski,WBD,FWD MID,R9
+1461,10,71052,9867,James,Bad Boys For Fyfe,752,FWD,71,True,1003130,Patrick,Lipinski,WBD,FWD MID,R10
+1462,11,71052,9867,James,Bad Boys For Fyfe,752,FWD,85,True,1003130,Patrick,Lipinski,WBD,FWD MID,R11
+1463,12,71052,9867,James,Bad Boys For Fyfe,752,FWD,58,True,1003130,Patrick,Lipinski,WBD,FWD MID,R12
+1464,1,8258,9856,Simon,It's always Sonny,587,MID,115,True,270919,Tom,Rockliff,PTA,MID,R1
+1465,2,8258,9856,Simon,It's always Sonny,587,MID,99,True,270919,Tom,Rockliff,PTA,MID,R2
+1466,3,8258,9856,Simon,It's always Sonny,587,MID,61,True,270919,Tom,Rockliff,PTA,MID,R3
+1467,4,8258,9856,Simon,It's always Sonny,587,MID,81,False,270919,Tom,Rockliff,PTA,MID,R4
+1468,5,8258,9856,Simon,It's always Sonny,587,MID,75,True,270919,Tom,Rockliff,PTA,MID,R5
+1469,6,8258,9856,Simon,It's always Sonny,587,MID,0,False,270919,Tom,Rockliff,PTA,MID,R6
+1470,8,180650,33301,Jordan,"What's Up, Doch?",587,MID,0,False,270919,Tom,Rockliff,PTA,MID,R8
+1471,9,180650,33301,Jordan,"What's Up, Doch?",587,MID,103,True,270919,Tom,Rockliff,PTA,MID,R9
+1472,10,180650,33301,Jordan,"What's Up, Doch?",587,MID,134,True,270919,Tom,Rockliff,PTA,MID,R10
+1473,11,180650,33301,Jordan,"What's Up, Doch?",587,MID,104,True,270919,Tom,Rockliff,PTA,MID,R11
+1474,12,180650,33301,Jordan,"What's Up, Doch?",587,MID,80,True,270919,Tom,Rockliff,PTA,MID,R12
+1475,1,8258,9856,Simon,It's always Sonny,22,FWD,113,True,270938,Tom,Lynch,ADE,FWD,R1
+1476,2,8258,9856,Simon,It's always Sonny,22,FWD,60,True,270938,Tom,Lynch,ADE,FWD,R2
+1477,3,8258,9856,Simon,It's always Sonny,22,FWD,35,True,270938,Tom,Lynch,ADE,FWD,R3
+1478,7,300791,182,Paul,Coronaviney,22,FWD,95,True,270938,Tom,Lynch,ADE,FWD,R7
+1479,8,300791,182,Paul,Coronaviney,22,FWD,45,True,270938,Tom,Lynch,ADE,FWD,R8
+1480,9,300791,182,Paul,Coronaviney,22,FWD,78,False,270938,Tom,Lynch,ADE,FWD,R9
+1481,10,300791,182,Paul,Coronaviney,22,FWD,95,True,270938,Tom,Lynch,ADE,FWD,R10
+1482,11,300791,182,Paul,Coronaviney,22,FWD,18,True,270938,Tom,Lynch,ADE,FWD,R11
+1483,1,8258,9856,Simon,It's always Sonny,136,MID,112,True,291776,Taylor,Adams,COL,MID,R1
+1484,2,8258,9856,Simon,It's always Sonny,136,MID,131,True,291776,Taylor,Adams,COL,MID,R2
+1485,3,8258,9856,Simon,It's always Sonny,136,MID,106,True,291776,Taylor,Adams,COL,MID,R3
+1486,4,8258,9856,Simon,It's always Sonny,136,MID,122,True,291776,Taylor,Adams,COL,MID,R4
+1487,5,8258,9856,Simon,It's always Sonny,136,MID,103,True,291776,Taylor,Adams,COL,MID,R5
+1488,6,8258,9856,Simon,It's always Sonny,136,MID,104,True,291776,Taylor,Adams,COL,MID,R6
+1489,7,8258,9856,Simon,It's always Sonny,136,MID,126,True,291776,Taylor,Adams,COL,MID,R7
+1490,8,8258,9856,Simon,It's always Sonny,136,MID,94,True,291776,Taylor,Adams,COL,MID,R8
+1491,9,8258,9856,Simon,It's always Sonny,136,MID,67,True,291776,Taylor,Adams,COL,MID,R9
+1492,10,8258,9856,Simon,It's always Sonny,136,MID,138,True,291776,Taylor,Adams,COL,MID,R10
+1493,11,8258,9856,Simon,It's always Sonny,136,MID,128,True,291776,Taylor,Adams,COL,MID,R11
+1494,12,8258,9856,Simon,It's always Sonny,136,MID,115,True,291776,Taylor,Adams,COL,MID,R12
+1495,1,8258,9856,Simon,It's always Sonny,270,FWD,110,True,281007,Michael,Walters,FRE,FWD MID,R1
+1496,2,8258,9856,Simon,It's always Sonny,270,FWD,148,True,281007,Michael,Walters,FRE,FWD MID,R2
+1497,3,8258,9856,Simon,It's always Sonny,270,FWD,109,True,281007,Michael,Walters,FRE,FWD MID,R3
+1498,4,8258,9856,Simon,It's always Sonny,270,FWD,113,True,281007,Michael,Walters,FRE,FWD MID,R4
+1499,5,8258,9856,Simon,It's always Sonny,270,FWD,92,True,281007,Michael,Walters,FRE,FWD MID,R5
+1500,6,8258,9856,Simon,It's always Sonny,270,FWD,107,True,281007,Michael,Walters,FRE,FWD MID,R6
+1501,7,8258,9856,Simon,It's always Sonny,270,FWD,101,True,281007,Michael,Walters,FRE,FWD MID,R7
+1502,8,8258,9856,Simon,It's always Sonny,270,FWD,115,True,281007,Michael,Walters,FRE,FWD MID,R8
+1503,9,8258,9856,Simon,It's always Sonny,270,FWD,0,False,281007,Michael,Walters,FRE,FWD MID,R9
+1504,10,8258,9856,Simon,It's always Sonny,270,FWD,0,False,281007,Michael,Walters,FRE,FWD MID,R10
+1505,11,8258,9856,Simon,It's always Sonny,270,FWD,0,False,281007,Michael,Walters,FRE,FWD MID,R11
+1506,12,8258,9856,Simon,It's always Sonny,270,FWD,60,True,281007,Michael,Walters,FRE,FWD MID,R12
+1507,1,8258,9856,Simon,It's always Sonny,755,MID,103,True,295467,Jack,Macrae,WBD,MID,R1
+1508,2,8258,9856,Simon,It's always Sonny,755,MID,93,True,295467,Jack,Macrae,WBD,MID,R2
+1509,3,8258,9856,Simon,It's always Sonny,755,MID,133,True,295467,Jack,Macrae,WBD,MID,R3
+1510,4,8258,9856,Simon,It's always Sonny,755,MID,92,True,295467,Jack,Macrae,WBD,MID,R4
+1511,5,180650,33301,Jordan,"What's Up, Doch?",755,MID,90,True,295467,Jack,Macrae,WBD,MID,R5
+1512,6,180650,33301,Jordan,"What's Up, Doch?",755,MID,138,True,295467,Jack,Macrae,WBD,MID,R6
+1513,7,180650,33301,Jordan,"What's Up, Doch?",755,MID,122,True,295467,Jack,Macrae,WBD,MID,R7
+1514,8,180650,33301,Jordan,"What's Up, Doch?",755,MID,169,True,295467,Jack,Macrae,WBD,MID,R8
+1515,9,180650,33301,Jordan,"What's Up, Doch?",755,MID,162,True,295467,Jack,Macrae,WBD,MID,R9
+1516,10,180650,33301,Jordan,"What's Up, Doch?",755,MID,113,True,295467,Jack,Macrae,WBD,MID,R10
+1517,11,180650,33301,Jordan,"What's Up, Doch?",755,MID,183,True,295467,Jack,Macrae,WBD,MID,R11
+1518,12,180650,33301,Jordan,"What's Up, Doch?",755,MID,118,True,295467,Jack,Macrae,WBD,MID,R12
+1519,1,8258,9856,Simon,It's always Sonny,325,FWD,93,True,220001,Gary,Ablett,GEE,FWD,R1
+1520,2,8258,9856,Simon,It's always Sonny,325,FWD,130,True,220001,Gary,Ablett,GEE,FWD,R2
+1521,3,8258,9856,Simon,It's always Sonny,325,FWD,64,True,220001,Gary,Ablett,GEE,FWD,R3
+1522,4,8258,9856,Simon,It's always Sonny,325,FWD,72,True,220001,Gary,Ablett,GEE,FWD,R4
+1523,5,8258,9856,Simon,It's always Sonny,325,FWD,49,True,220001,Gary,Ablett,GEE,FWD,R5
+1524,6,8258,9856,Simon,It's always Sonny,325,FWD,97,True,220001,Gary,Ablett,GEE,FWD,R6
+1525,7,8258,9856,Simon,It's always Sonny,325,FWD,70,True,220001,Gary,Ablett,GEE,FWD,R7
+1526,1,8258,9856,Simon,It's always Sonny,653,MID,92,True,294429,Luke,Dunstan,STK,MID,R1
+1527,2,8258,9856,Simon,It's always Sonny,653,MID,0,False,294429,Luke,Dunstan,STK,MID,R2
+1528,1,8258,9856,Simon,It's always Sonny,668,RUC,92,True,992468,Rowan,Marshall,STK,RUC,R1
+1529,2,8258,9856,Simon,It's always Sonny,668,RUC,70,False,992468,Rowan,Marshall,STK,RUC,R2
+1530,3,8258,9856,Simon,It's always Sonny,668,RUC,81,False,992468,Rowan,Marshall,STK,RUC,R3
+1531,4,8258,9856,Simon,It's always Sonny,668,RUC,117,False,992468,Rowan,Marshall,STK,RUC,R4
+1532,5,8258,9856,Simon,It's always Sonny,668,RUC,128,True,992468,Rowan,Marshall,STK,RUC,R5
+1533,6,8258,9856,Simon,It's always Sonny,668,RUC,76,True,992468,Rowan,Marshall,STK,RUC,R6
+1534,7,10857,189,Anthony,The Full Bonty,668,RUC,74,False,992468,Rowan,Marshall,STK,RUC,R7
+1535,8,10857,189,Anthony,The Full Bonty,668,RUC,160,False,992468,Rowan,Marshall,STK,RUC,R8
+1536,9,10857,189,Anthony,The Full Bonty,668,RUC,90,False,992468,Rowan,Marshall,STK,RUC,R9
+1537,10,10857,189,Anthony,The Full Bonty,668,RUC,143,True,992468,Rowan,Marshall,STK,RUC,R10
+1538,11,10857,189,Anthony,The Full Bonty,668,RUC,89,True,992468,Rowan,Marshall,STK,RUC,R11
+1539,12,10857,189,Anthony,The Full Bonty,668,RUC,119,True,992468,Rowan,Marshall,STK,RUC,R12
+1540,1,8258,9856,Simon,It's always Sonny,539,FWD,86,True,1005729,Tarryn,Thomas,NTH,FWD,R1
+1541,2,8258,9856,Simon,It's always Sonny,539,FWD,64,False,1005729,Tarryn,Thomas,NTH,FWD,R2
+1542,3,8258,9856,Simon,It's always Sonny,539,FWD,35,False,1005729,Tarryn,Thomas,NTH,FWD,R3
+1543,1,8258,9856,Simon,It's always Sonny,715,DEF,86,True,290307,Dane,Rampe,SYD,DEF,R1
+1544,2,8258,9856,Simon,It's always Sonny,715,DEF,149,True,290307,Dane,Rampe,SYD,DEF,R2
+1545,3,8258,9856,Simon,It's always Sonny,715,DEF,32,True,290307,Dane,Rampe,SYD,DEF,R3
+1546,4,8258,9856,Simon,It's always Sonny,715,DEF,74,True,290307,Dane,Rampe,SYD,DEF,R4
+1547,5,180650,33301,Jordan,"What's Up, Doch?",715,DEF,44,True,290307,Dane,Rampe,SYD,DEF,R5
+1548,6,180650,33301,Jordan,"What's Up, Doch?",715,DEF,90,True,290307,Dane,Rampe,SYD,DEF,R6
+1549,7,180650,33301,Jordan,"What's Up, Doch?",715,DEF,120,True,290307,Dane,Rampe,SYD,DEF,R7
+1550,8,180650,33301,Jordan,"What's Up, Doch?",715,DEF,139,True,290307,Dane,Rampe,SYD,DEF,R8
+1551,9,180650,33301,Jordan,"What's Up, Doch?",715,DEF,69,True,290307,Dane,Rampe,SYD,DEF,R9
+1552,10,180650,33301,Jordan,"What's Up, Doch?",715,DEF,65,True,290307,Dane,Rampe,SYD,DEF,R10
+1553,11,180650,33301,Jordan,"What's Up, Doch?",715,DEF,0,False,290307,Dane,Rampe,SYD,DEF,R11
+1554,12,180650,33301,Jordan,"What's Up, Doch?",715,DEF,140,True,290307,Dane,Rampe,SYD,DEF,R12
+1555,1,8258,9856,Simon,It's always Sonny,335,MID,83,True,270917,Patrick,Dangerfield,GEE,MID,R1
+1556,2,8258,9856,Simon,It's always Sonny,335,MID,101,True,270917,Patrick,Dangerfield,GEE,MID,R2
+1557,3,8258,9856,Simon,It's always Sonny,335,MID,75,True,270917,Patrick,Dangerfield,GEE,MID,R3
+1558,4,8258,9856,Simon,It's always Sonny,335,MID,140,True,270917,Patrick,Dangerfield,GEE,MID,R4
+1559,5,180650,33301,Jordan,"What's Up, Doch?",335,MID,104,True,270917,Patrick,Dangerfield,GEE,MID,R5
+1560,6,180650,33301,Jordan,"What's Up, Doch?",335,MID,146,True,270917,Patrick,Dangerfield,GEE,MID,R6
+1561,7,180650,33301,Jordan,"What's Up, Doch?",335,MID,127,True,270917,Patrick,Dangerfield,GEE,MID,R7
+1562,8,180650,33301,Jordan,"What's Up, Doch?",335,MID,88,True,270917,Patrick,Dangerfield,GEE,MID,R8
+1563,9,180650,33301,Jordan,"What's Up, Doch?",335,MID,121,True,270917,Patrick,Dangerfield,GEE,MID,R9
+1564,10,180650,33301,Jordan,"What's Up, Doch?",335,MID,89,True,270917,Patrick,Dangerfield,GEE,MID,R10
+1565,11,180650,33301,Jordan,"What's Up, Doch?",335,MID,117,True,270917,Patrick,Dangerfield,GEE,MID,R11
+1566,12,180650,33301,Jordan,"What's Up, Doch?",335,MID,124,True,270917,Patrick,Dangerfield,GEE,MID,R12
+1567,1,8258,9856,Simon,It's always Sonny,574,DEF,79,True,994295,Dan,Houston,PTA,DEF MID,R1
+1568,2,8258,9856,Simon,It's always Sonny,574,DEF,60,True,994295,Dan,Houston,PTA,DEF MID,R2
+1569,3,21562,186,Mark,GetRichOrDieTryin,574,DEF,73,True,994295,Dan,Houston,PTA,DEF MID,R3
+1570,4,21562,186,Mark,GetRichOrDieTryin,574,DEF,76,False,994295,Dan,Houston,PTA,DEF MID,R4
+1571,5,21562,186,Mark,GetRichOrDieTryin,574,DEF,117,False,994295,Dan,Houston,PTA,DEF MID,R5
+1572,6,21562,186,Mark,GetRichOrDieTryin,574,DEF,109,True,994295,Dan,Houston,PTA,DEF MID,R6
+1573,7,21562,186,Mark,GetRichOrDieTryin,574,DEF,107,True,994295,Dan,Houston,PTA,DEF MID,R7
+1574,8,21562,186,Mark,GetRichOrDieTryin,574,DEF,67,True,994295,Dan,Houston,PTA,DEF MID,R8
+1575,9,21562,186,Mark,GetRichOrDieTryin,574,DEF,95,True,994295,Dan,Houston,PTA,DEF MID,R9
+1576,10,21562,186,Mark,GetRichOrDieTryin,574,DEF,66,True,994295,Dan,Houston,PTA,DEF MID,R10
+1577,11,21562,186,Mark,GetRichOrDieTryin,574,DEF,108,True,994295,Dan,Houston,PTA,DEF MID,R11
+1578,12,21562,186,Mark,GetRichOrDieTryin,574,DEF,77,True,994295,Dan,Houston,PTA,DEF MID,R12
+1579,1,8258,9856,Simon,It's always Sonny,471,MID,77,True,297899,James,Harmes,MEL,MID,R1
+1580,2,8258,9856,Simon,It's always Sonny,471,MID,61,True,297899,James,Harmes,MEL,MID,R2
+1581,1,8258,9856,Simon,It's always Sonny,455,DEF,70,True,297566,James,Sicily,HAW,DEF,R1
+1582,2,8258,9856,Simon,It's always Sonny,455,DEF,96,True,297566,James,Sicily,HAW,DEF,R2
+1583,3,8258,9856,Simon,It's always Sonny,455,DEF,128,True,297566,James,Sicily,HAW,DEF,R3
+1584,4,8258,9856,Simon,It's always Sonny,455,DEF,114,True,297566,James,Sicily,HAW,DEF,R4
+1585,5,8258,9856,Simon,It's always Sonny,455,DEF,44,True,297566,James,Sicily,HAW,DEF,R5
+1586,6,8258,9856,Simon,It's always Sonny,455,DEF,132,True,297566,James,Sicily,HAW,DEF,R6
+1587,7,10857,189,Anthony,The Full Bonty,455,DEF,149,True,297566,James,Sicily,HAW,DEF,R7
+1588,8,10857,189,Anthony,The Full Bonty,455,DEF,164,True,297566,James,Sicily,HAW,DEF,R8
+1589,9,10857,189,Anthony,The Full Bonty,455,DEF,88,True,297566,James,Sicily,HAW,DEF,R9
+1590,10,10857,189,Anthony,The Full Bonty,455,DEF,0,False,297566,James,Sicily,HAW,DEF,R10
+1591,11,10857,189,Anthony,The Full Bonty,455,DEF,97,True,297566,James,Sicily,HAW,DEF,R11
+1592,12,10857,189,Anthony,The Full Bonty,455,DEF,50,True,297566,James,Sicily,HAW,DEF,R12
+1593,1,8258,9856,Simon,It's always Sonny,635,DEF,55,True,1002583,Sydney,Stack,RIC,DEF,R1
+1594,2,8258,9856,Simon,It's always Sonny,635,DEF,38,False,1002583,Sydney,Stack,RIC,DEF,R2
+1595,1,8258,9856,Simon,It's always Sonny,51,MID,52,True,998133,Jarrod,Berry,BRL,MID,R1
+1596,4,10857,189,Anthony,The Full Bonty,51,MID,150,False,998133,Jarrod,Berry,BRL,MID,R4
+1597,5,10857,189,Anthony,The Full Bonty,51,MID,121,True,998133,Jarrod,Berry,BRL,MID,R5
+1598,6,10857,189,Anthony,The Full Bonty,51,MID,87,True,998133,Jarrod,Berry,BRL,MID,R6
+1599,7,10857,189,Anthony,The Full Bonty,51,MID,81,True,998133,Jarrod,Berry,BRL,MID,R7
+1600,8,10857,189,Anthony,The Full Bonty,51,MID,97,True,998133,Jarrod,Berry,BRL,MID,R8
+1601,9,10857,189,Anthony,The Full Bonty,51,MID,124,True,998133,Jarrod,Berry,BRL,MID,R9
+1602,10,10857,189,Anthony,The Full Bonty,51,MID,78,True,998133,Jarrod,Berry,BRL,MID,R10
+1603,11,10857,189,Anthony,The Full Bonty,51,MID,71,True,998133,Jarrod,Berry,BRL,MID,R11
+1604,12,10857,189,Anthony,The Full Bonty,51,MID,67,True,998133,Jarrod,Berry,BRL,MID,R12
+1605,1,8258,9856,Simon,It's always Sonny,116,DEF,39,True,297907,Nic,Newman,CAR,DEF,R1
+1606,1,8258,9856,Simon,It's always Sonny,548,FWD,19,True,280944,Jack,Ziebell,NTH,FWD MID,R1
+1607,2,8258,9856,Simon,It's always Sonny,548,FWD,89,True,280944,Jack,Ziebell,NTH,FWD MID,R2
+1608,3,8258,9856,Simon,It's always Sonny,548,FWD,99,True,280944,Jack,Ziebell,NTH,FWD MID,R3
+1609,4,8258,9856,Simon,It's always Sonny,548,FWD,20,True,280944,Jack,Ziebell,NTH,FWD MID,R4
+1610,7,10857,189,Anthony,The Full Bonty,548,FWD,0,True,280944,Jack,Ziebell,NTH,FWD MID,R7
+1611,1,8258,9856,Simon,It's always Sonny,495,DEF,0,False,296359,Christian,Salem,MEL,DEF,R1
+1612,2,8258,9856,Simon,It's always Sonny,495,DEF,94,True,296359,Christian,Salem,MEL,DEF,R2
+1613,3,8258,9856,Simon,It's always Sonny,495,DEF,0,False,296359,Christian,Salem,MEL,DEF,R3
+1614,4,8258,9856,Simon,It's always Sonny,495,DEF,51,True,296359,Christian,Salem,MEL,DEF,R4
+1615,5,8258,9856,Simon,It's always Sonny,495,DEF,82,True,296359,Christian,Salem,MEL,DEF,R5
+1616,6,8258,9856,Simon,It's always Sonny,495,DEF,101,True,296359,Christian,Salem,MEL,DEF,R6
+1617,7,8258,9856,Simon,It's always Sonny,495,DEF,68,True,296359,Christian,Salem,MEL,DEF,R7
+1618,8,71052,9867,James,Bad Boys For Fyfe,495,DEF,91,True,296359,Christian,Salem,MEL,DEF,R8
+1619,9,71052,9867,James,Bad Boys For Fyfe,495,DEF,102,True,296359,Christian,Salem,MEL,DEF,R9
+1620,10,71052,9867,James,Bad Boys For Fyfe,495,DEF,84,True,296359,Christian,Salem,MEL,DEF,R10
+1621,11,71052,9867,James,Bad Boys For Fyfe,495,DEF,66,True,296359,Christian,Salem,MEL,DEF,R11
+1622,12,71052,9867,James,Bad Boys For Fyfe,495,DEF,102,True,296359,Christian,Salem,MEL,DEF,R12
+1623,1,8258,9856,Simon,It's always Sonny,577,DEF,38,False,293987,Jarrod,Lienert,PTA,DEF,R1
+1624,1,8258,9856,Simon,It's always Sonny,289,MID,71,False,993799,Brayden,Fiorini,GCS,MID,R1
+1625,1,8258,9856,Simon,It's always Sonny,356,FWD,0,False,298419,Brandan,Parfitt,GEE,FWD MID,R1
+1626,2,21562,186,Mark,GetRichOrDieTryin,356,FWD,114,False,298419,Brandan,Parfitt,GEE,FWD MID,R2
+1627,3,21562,186,Mark,GetRichOrDieTryin,356,FWD,0,False,298419,Brandan,Parfitt,GEE,FWD MID,R3
+1628,4,21562,186,Mark,GetRichOrDieTryin,356,FWD,104,True,298419,Brandan,Parfitt,GEE,FWD MID,R4
+1629,5,21562,186,Mark,GetRichOrDieTryin,356,FWD,98,True,298419,Brandan,Parfitt,GEE,FWD MID,R5
+1630,6,21562,186,Mark,GetRichOrDieTryin,356,FWD,79,True,298419,Brandan,Parfitt,GEE,FWD MID,R6
+1631,7,21562,186,Mark,GetRichOrDieTryin,356,FWD,68,True,298419,Brandan,Parfitt,GEE,FWD MID,R7
+1632,8,21562,186,Mark,GetRichOrDieTryin,356,FWD,99,True,298419,Brandan,Parfitt,GEE,FWD MID,R8
+1633,9,21562,186,Mark,GetRichOrDieTryin,356,MID,52,True,298419,Brandan,Parfitt,GEE,FWD MID,R9
+1634,10,21562,186,Mark,GetRichOrDieTryin,356,FWD,0,False,298419,Brandan,Parfitt,GEE,FWD MID,R10
+1635,11,21562,186,Mark,GetRichOrDieTryin,356,FWD,76,True,298419,Brandan,Parfitt,GEE,FWD MID,R11
+1636,12,21562,186,Mark,GetRichOrDieTryin,356,FWD,76,True,298419,Brandan,Parfitt,GEE,FWD MID,R12
+1637,2,45168,5524,Luke,The Dragon's Laird,534,MID,120,True,290738,Jared,Polec,NTH,MID,R2
+1638,3,45168,5524,Luke,The Dragon's Laird,534,MID,72,True,290738,Jared,Polec,NTH,MID,R3
+1639,4,45168,5524,Luke,The Dragon's Laird,534,MID,94,True,290738,Jared,Polec,NTH,MID,R4
+1640,5,45168,5524,Luke,The Dragon's Laird,534,MID,80,False,290738,Jared,Polec,NTH,MID,R5
+1641,6,45168,5524,Luke,The Dragon's Laird,534,MID,81,True,290738,Jared,Polec,NTH,MID,R6
+1642,7,45168,5524,Luke,The Dragon's Laird,534,MID,55,True,290738,Jared,Polec,NTH,MID,R7
+1643,8,45168,5524,Luke,The Dragon's Laird,534,MID,136,True,290738,Jared,Polec,NTH,MID,R8
+1644,9,45168,5524,Luke,The Dragon's Laird,534,MID,0,False,290738,Jared,Polec,NTH,MID,R9
+1645,10,45168,5524,Luke,The Dragon's Laird,534,MID,71,True,290738,Jared,Polec,NTH,MID,R10
+1646,11,45168,5524,Luke,The Dragon's Laird,534,MID,83,True,290738,Jared,Polec,NTH,MID,R11
+1647,2,45168,5524,Luke,The Dragon's Laird,217,DEF,94,True,1001026,Jordan,Ridley,ESS,DEF,R2
+1648,3,45168,5524,Luke,The Dragon's Laird,217,DEF,0,False,1001026,Jordan,Ridley,ESS,DEF,R3
+1649,4,45168,5524,Luke,The Dragon's Laird,217,DEF,134,True,1001026,Jordan,Ridley,ESS,DEF,R4
+1650,5,45168,5524,Luke,The Dragon's Laird,217,DEF,122,True,1001026,Jordan,Ridley,ESS,DEF,R5
+1651,6,45168,5524,Luke,The Dragon's Laird,217,DEF,111,True,1001026,Jordan,Ridley,ESS,DEF,R6
+1652,7,45168,5524,Luke,The Dragon's Laird,217,DEF,92,True,1001026,Jordan,Ridley,ESS,DEF,R7
+1653,8,45168,5524,Luke,The Dragon's Laird,217,DEF,114,True,1001026,Jordan,Ridley,ESS,DEF,R8
+1654,9,45168,5524,Luke,The Dragon's Laird,217,DEF,88,True,1001026,Jordan,Ridley,ESS,DEF,R9
+1655,10,45168,5524,Luke,The Dragon's Laird,217,DEF,101,True,1001026,Jordan,Ridley,ESS,DEF,R10
+1656,11,45168,5524,Luke,The Dragon's Laird,217,DEF,124,True,1001026,Jordan,Ridley,ESS,DEF,R11
+1657,12,45168,5524,Luke,The Dragon's Laird,217,DEF,70,True,1001026,Jordan,Ridley,ESS,DEF,R12
+1658,2,45168,5524,Luke,The Dragon's Laird,411,MID,0,False,998172,Tim,Taranto,GWS,MID,R2
+1659,3,45168,5524,Luke,The Dragon's Laird,411,MID,0,False,998172,Tim,Taranto,GWS,MID,R3
+1660,4,45168,5524,Luke,The Dragon's Laird,411,MID,0,False,998172,Tim,Taranto,GWS,MID,R4
+1661,5,45168,5524,Luke,The Dragon's Laird,411,MID,0,False,998172,Tim,Taranto,GWS,MID,R5
+1662,6,45168,5524,Luke,The Dragon's Laird,411,MID,0,False,998172,Tim,Taranto,GWS,MID,R6
+1663,7,45168,5524,Luke,The Dragon's Laird,411,MID,81,True,998172,Tim,Taranto,GWS,MID,R7
+1664,8,45168,5524,Luke,The Dragon's Laird,411,MID,111,True,998172,Tim,Taranto,GWS,MID,R8
+1665,9,45168,5524,Luke,The Dragon's Laird,411,MID,126,True,998172,Tim,Taranto,GWS,MID,R9
+1666,10,45168,5524,Luke,The Dragon's Laird,411,MID,92,True,998172,Tim,Taranto,GWS,MID,R10
+1667,11,45168,5524,Luke,The Dragon's Laird,411,MID,0,False,998172,Tim,Taranto,GWS,MID,R11
+1668,12,45168,5524,Luke,The Dragon's Laird,411,MID,69,True,998172,Tim,Taranto,GWS,MID,R12
+1669,2,45168,5524,Luke,The Dragon's Laird,665,FWD,41,False,993917,Ben,Long,STK,FWD,R2
+1670,12,300791,182,Paul,Coronaviney,665,FWD,56,True,993917,Ben,Long,STK,FWD,R12
+1671,2,180650,33301,Jordan,"What's Up, Doch?",660,MID,127,True,991988,Zak,Jones,STK,MID,R2
+1672,3,180650,33301,Jordan,"What's Up, Doch?",660,MID,66,True,991988,Zak,Jones,STK,MID,R3
+1673,4,180650,33301,Jordan,"What's Up, Doch?",660,MID,45,True,991988,Zak,Jones,STK,MID,R4
+1674,5,180650,33301,Jordan,"What's Up, Doch?",660,MID,0,False,991988,Zak,Jones,STK,MID,R5
+1675,6,180650,33301,Jordan,"What's Up, Doch?",660,MID,104,False,991988,Zak,Jones,STK,MID,R6
+1676,7,180650,33301,Jordan,"What's Up, Doch?",660,MID,80,True,991988,Zak,Jones,STK,MID,R7
+1677,8,180650,33301,Jordan,"What's Up, Doch?",660,MID,90,True,991988,Zak,Jones,STK,MID,R8
+1678,9,180650,33301,Jordan,"What's Up, Doch?",660,MID,123,False,991988,Zak,Jones,STK,MID,R9
+1679,10,180650,33301,Jordan,"What's Up, Doch?",660,MID,59,True,991988,Zak,Jones,STK,MID,R10
+1680,11,180650,33301,Jordan,"What's Up, Doch?",660,MID,0,False,991988,Zak,Jones,STK,MID,R11
+1681,12,180650,33301,Jordan,"What's Up, Doch?",660,MID,103,True,991988,Zak,Jones,STK,MID,R12
+1682,2,180650,33301,Jordan,"What's Up, Doch?",454,MID,20,False,280737,Liam,Shiels,HAW,MID,R2
+1683,9,21562,186,Mark,GetRichOrDieTryin,454,MID,107,True,280737,Liam,Shiels,HAW,MID,R9
+1684,11,21562,186,Mark,GetRichOrDieTryin,454,MID,40,True,280737,Liam,Shiels,HAW,MID,R11
+1685,2,300791,182,Paul,Coronaviney,159,DEF,105,True,992010,Brayden,Maynard,COL,DEF,R2
+1686,3,300791,182,Paul,Coronaviney,159,DEF,125,True,992010,Brayden,Maynard,COL,DEF,R3
+1687,4,300791,182,Paul,Coronaviney,159,DEF,118,True,992010,Brayden,Maynard,COL,DEF,R4
+1688,5,300791,182,Paul,Coronaviney,159,DEF,116,True,992010,Brayden,Maynard,COL,DEF,R5
+1689,6,300791,182,Paul,Coronaviney,159,DEF,89,True,992010,Brayden,Maynard,COL,DEF,R6
+1690,7,300791,182,Paul,Coronaviney,159,DEF,99,True,992010,Brayden,Maynard,COL,DEF,R7
+1691,8,300791,182,Paul,Coronaviney,159,DEF,75,True,992010,Brayden,Maynard,COL,DEF,R8
+1692,9,300791,182,Paul,Coronaviney,159,DEF,116,True,992010,Brayden,Maynard,COL,DEF,R9
+1693,10,300791,182,Paul,Coronaviney,159,DEF,106,True,992010,Brayden,Maynard,COL,DEF,R10
+1694,11,300791,182,Paul,Coronaviney,159,DEF,101,True,992010,Brayden,Maynard,COL,DEF,R11
+1695,12,300791,182,Paul,Coronaviney,159,DEF,60,True,992010,Brayden,Maynard,COL,DEF,R12
+1696,2,300791,182,Paul,Coronaviney,606,MID,99,True,270896,Trent,Cotchin,RIC,MID,R2
+1697,3,300791,182,Paul,Coronaviney,606,MID,85,True,270896,Trent,Cotchin,RIC,MID,R3
+1698,4,300791,182,Paul,Coronaviney,606,MID,113,False,270896,Trent,Cotchin,RIC,MID,R4
+1699,5,300791,182,Paul,Coronaviney,606,MID,74,True,270896,Trent,Cotchin,RIC,MID,R5
+1700,6,300791,182,Paul,Coronaviney,606,MID,0,False,270896,Trent,Cotchin,RIC,MID,R6
+1701,7,300791,182,Paul,Coronaviney,606,MID,0,False,270896,Trent,Cotchin,RIC,MID,R7
+1702,8,300791,182,Paul,Coronaviney,606,MID,0,False,270896,Trent,Cotchin,RIC,MID,R8
+1703,9,300791,182,Paul,Coronaviney,606,MID,106,True,270896,Trent,Cotchin,RIC,MID,R9
+1704,10,300791,182,Paul,Coronaviney,606,MID,67,True,270896,Trent,Cotchin,RIC,MID,R10
+1705,11,300791,182,Paul,Coronaviney,606,MID,0,False,270896,Trent,Cotchin,RIC,MID,R11
+1706,12,300791,182,Paul,Coronaviney,606,MID,114,True,270896,Trent,Cotchin,RIC,MID,R12
+1707,2,300791,182,Paul,Coronaviney,593,MID,0,False,294318,Ollie,Wines,PTA,MID,R2
+1708,3,300791,182,Paul,Coronaviney,593,MID,107,True,294318,Ollie,Wines,PTA,MID,R3
+1709,4,300791,182,Paul,Coronaviney,593,MID,72,True,294318,Ollie,Wines,PTA,MID,R4
+1710,5,300791,182,Paul,Coronaviney,593,MID,67,True,294318,Ollie,Wines,PTA,MID,R5
+1711,6,300791,182,Paul,Coronaviney,593,MID,85,True,294318,Ollie,Wines,PTA,MID,R6
+1712,7,300791,182,Paul,Coronaviney,593,MID,104,True,294318,Ollie,Wines,PTA,MID,R7
+1713,8,300791,182,Paul,Coronaviney,593,MID,100,True,294318,Ollie,Wines,PTA,MID,R8
+1714,9,300791,182,Paul,Coronaviney,593,MID,143,True,294318,Ollie,Wines,PTA,MID,R9
+1715,10,300791,182,Paul,Coronaviney,593,MID,70,True,294318,Ollie,Wines,PTA,MID,R10
+1716,11,300791,182,Paul,Coronaviney,593,MID,189,True,294318,Ollie,Wines,PTA,MID,R11
+1717,12,300791,182,Paul,Coronaviney,593,MID,83,True,294318,Ollie,Wines,PTA,MID,R12
+1718,2,300791,182,Paul,Coronaviney,227,FWD,0,False,296294,Blake,Acres,FRE,FWD MID,R2
+1719,4,300791,182,Paul,Coronaviney,227,FWD,0,False,296294,Blake,Acres,FRE,FWD MID,R4
+1720,5,300791,182,Paul,Coronaviney,227,FWD,0,False,296294,Blake,Acres,FRE,FWD MID,R5
+1721,6,300791,182,Paul,Coronaviney,227,FWD,46,True,296294,Blake,Acres,FRE,FWD MID,R6
+1722,8,71052,9867,James,Bad Boys For Fyfe,227,FWD,28,True,296294,Blake,Acres,FRE,FWD MID,R8
+1723,2,21562,186,Mark,GetRichOrDieTryin,8,DEF,39,True,1000932,Tom,Doedee,ADE,DEF,R2
+1724,4,180650,33301,Jordan,"What's Up, Doch?",8,DEF,48,True,1000932,Tom,Doedee,ADE,DEF,R4
+1725,6,86078,9806,Lester,HoweIMetYourMother,8,DEF,105,True,1000932,Tom,Doedee,ADE,DEF,R6
+1726,7,86078,9806,Lester,HoweIMetYourMother,8,DEF,124,True,1000932,Tom,Doedee,ADE,DEF,R7
+1727,8,86078,9806,Lester,HoweIMetYourMother,8,DEF,31,True,1000932,Tom,Doedee,ADE,DEF,R8
+1728,9,86078,9806,Lester,HoweIMetYourMother,8,DEF,0,False,1000932,Tom,Doedee,ADE,DEF,R9
+1729,10,86078,9806,Lester,HoweIMetYourMother,8,DEF,89,True,1000932,Tom,Doedee,ADE,DEF,R10
+1730,11,86078,9806,Lester,HoweIMetYourMother,8,DEF,102,True,1000932,Tom,Doedee,ADE,DEF,R11
+1731,2,8258,9856,Simon,It's always Sonny,481,MID,90,True,298264,Ed,Langdon,MEL,MID,R2
+1732,3,8258,9856,Simon,It's always Sonny,481,MID,0,False,298264,Ed,Langdon,MEL,MID,R3
+1733,4,8258,9856,Simon,It's always Sonny,481,MID,79,True,298264,Ed,Langdon,MEL,MID,R4
+1734,5,8258,9856,Simon,It's always Sonny,481,MID,69,True,298264,Ed,Langdon,MEL,MID,R5
+1735,6,8258,9856,Simon,It's always Sonny,481,MID,87,True,298264,Ed,Langdon,MEL,MID,R6
+1736,7,8258,9856,Simon,It's always Sonny,481,MID,82,False,298264,Ed,Langdon,MEL,MID,R7
+1737,8,71052,9867,James,Bad Boys For Fyfe,481,MID,79,True,298264,Ed,Langdon,MEL,MID,R8
+1738,9,71052,9867,James,Bad Boys For Fyfe,481,MID,75,False,298264,Ed,Langdon,MEL,MID,R9
+1739,10,71052,9867,James,Bad Boys For Fyfe,481,MID,77,True,298264,Ed,Langdon,MEL,MID,R10
+1740,11,71052,9867,James,Bad Boys For Fyfe,481,MID,86,True,298264,Ed,Langdon,MEL,MID,R11
+1741,12,71052,9867,James,Bad Boys For Fyfe,481,MID,138,False,298264,Ed,Langdon,MEL,MID,R12
+1742,2,8258,9856,Simon,It's always Sonny,797,RUC,85,True,271045,Nic,Naitanui,WCE,RUC,R2
+1743,3,8258,9856,Simon,It's always Sonny,797,RUC,137,True,271045,Nic,Naitanui,WCE,RUC,R3
+1744,4,8258,9856,Simon,It's always Sonny,797,RUC,74,True,271045,Nic,Naitanui,WCE,RUC,R4
+1745,5,8258,9856,Simon,It's always Sonny,797,RUC,107,False,271045,Nic,Naitanui,WCE,RUC,R5
+1746,6,8258,9856,Simon,It's always Sonny,797,RUC,85,False,271045,Nic,Naitanui,WCE,RUC,R6
+1747,7,8258,9856,Simon,It's always Sonny,797,RUC,87,False,271045,Nic,Naitanui,WCE,RUC,R7
+1748,8,71052,9867,James,Bad Boys For Fyfe,797,RUC,84,True,271045,Nic,Naitanui,WCE,RUC,R8
+1749,9,71052,9867,James,Bad Boys For Fyfe,797,RUC,146,True,271045,Nic,Naitanui,WCE,RUC,R9
+1750,10,71052,9867,James,Bad Boys For Fyfe,797,RUC,0,False,271045,Nic,Naitanui,WCE,RUC,R10
+1751,11,71052,9867,James,Bad Boys For Fyfe,797,RUC,129,True,271045,Nic,Naitanui,WCE,RUC,R11
+1752,12,71052,9867,James,Bad Boys For Fyfe,797,RUC,153,True,271045,Nic,Naitanui,WCE,RUC,R12
+1753,2,8258,9856,Simon,It's always Sonny,416,FWD,68,True,280744,Luke,Breust,HAW,FWD,R2
+1754,3,8258,9856,Simon,It's always Sonny,416,FWD,80,True,280744,Luke,Breust,HAW,FWD,R3
+1755,4,8258,9856,Simon,It's always Sonny,416,FWD,64,True,280744,Luke,Breust,HAW,FWD,R4
+1756,9,8258,9856,Simon,It's always Sonny,416,FWD,78,True,280744,Luke,Breust,HAW,FWD,R9
+1757,11,8258,9856,Simon,It's always Sonny,416,FWD,88,True,280744,Luke,Breust,HAW,FWD,R11
+1758,12,8258,9856,Simon,It's always Sonny,416,FWD,40,False,280744,Luke,Breust,HAW,FWD,R12
+1759,2,8258,9856,Simon,It's always Sonny,817,MID,59,True,291594,Harley,Bennell,MEL,MID,R2
+1760,2,8258,9856,Simon,It's always Sonny,734,DEF,46,True,293651,Hayden,Crozier,WBD,DEF,R2
+1761,3,8258,9856,Simon,It's always Sonny,734,DEF,107,True,293651,Hayden,Crozier,WBD,DEF,R3
+1762,4,8258,9856,Simon,It's always Sonny,734,DEF,64,True,293651,Hayden,Crozier,WBD,DEF,R4
+1763,5,8258,9856,Simon,It's always Sonny,734,DEF,114,False,293651,Hayden,Crozier,WBD,DEF,R5
+1764,6,8258,9856,Simon,It's always Sonny,734,DEF,0,False,293651,Hayden,Crozier,WBD,DEF,R6
+1765,7,10857,189,Anthony,The Full Bonty,734,DEF,63,True,293651,Hayden,Crozier,WBD,DEF,R7
+1766,8,10857,189,Anthony,The Full Bonty,734,DEF,108,True,293651,Hayden,Crozier,WBD,DEF,R8
+1767,9,10857,189,Anthony,The Full Bonty,734,DEF,62,True,293651,Hayden,Crozier,WBD,DEF,R9
+1768,10,10857,189,Anthony,The Full Bonty,734,DEF,40,True,293651,Hayden,Crozier,WBD,DEF,R10
+1769,2,71052,9867,James,Bad Boys For Fyfe,403,MID,63,True,998205,Harry,Perryman,GWS,MID,R2
+1770,4,8258,9856,Simon,It's always Sonny,403,MID,66,True,998205,Harry,Perryman,GWS,MID,R4
+1771,5,8258,9856,Simon,It's always Sonny,403,MID,136,True,998205,Harry,Perryman,GWS,MID,R5
+1772,6,8258,9856,Simon,It's always Sonny,403,MID,73,True,998205,Harry,Perryman,GWS,MID,R6
+1773,7,8258,9856,Simon,It's always Sonny,403,MID,78,True,998205,Harry,Perryman,GWS,MID,R7
+1774,8,8258,9856,Simon,It's always Sonny,403,MID,61,True,998205,Harry,Perryman,GWS,MID,R8
+1775,9,8258,9856,Simon,It's always Sonny,403,MID,86,False,998205,Harry,Perryman,GWS,MID,R9
+1776,10,8258,9856,Simon,It's always Sonny,403,MID,48,True,998205,Harry,Perryman,GWS,MID,R10
+1777,2,71052,9867,James,Bad Boys For Fyfe,161,FWD,40,True,291849,Brody,Mihocek,COL,FWD,R2
+1778,11,45168,5524,Luke,The Dragon's Laird,161,FWD,99,True,291849,Brody,Mihocek,COL,FWD,R11
+1779,3,86078,9806,Lester,HoweIMetYourMother,583,FWD,33,True,280990,Steven,Motlop,PTA,FWD,R3
+1780,3,300791,182,Paul,Coronaviney,550,MID,77,True,297354,Karl,Amon,PTA,MID,R3
+1781,10,300791,182,Paul,Coronaviney,550,MID,59,True,297354,Karl,Amon,PTA,MID,R10
+1782,3,300791,182,Paul,Coronaviney,228,DEF,74,True,295067,James,Aish,FRE,DEF,R3
+1783,8,180650,33301,Jordan,"What's Up, Doch?",228,DEF,45,True,295067,James,Aish,FRE,DEF,R8
+1784,3,300791,182,Paul,Coronaviney,564,MID,51,True,1006096,Xavier,Duursma,PTA,MID,R3
+1785,3,300791,182,Paul,Coronaviney,363,RUC,70,False,280317,Rhys,Stanley,GEE,RUC,R3
+1786,11,180650,33301,Jordan,"What's Up, Doch?",363,RUC,112,True,280317,Rhys,Stanley,GEE,RUC,R11
+1787,12,180650,33301,Jordan,"What's Up, Doch?",363,RUC,88,True,280317,Rhys,Stanley,GEE,RUC,R12
+1788,3,180650,33301,Jordan,"What's Up, Doch?",328,DEF,63,True,296733,Mark,Blicavs,GEE,DEF,R3
+1789,4,180650,33301,Jordan,"What's Up, Doch?",328,DEF,107,True,296733,Mark,Blicavs,GEE,DEF,R4
+1790,5,8258,9856,Simon,It's always Sonny,328,DEF,89,True,296733,Mark,Blicavs,GEE,DEF,R5
+1791,6,8258,9856,Simon,It's always Sonny,328,DEF,108,True,296733,Mark,Blicavs,GEE,DEF,R6
+1792,7,8258,9856,Simon,It's always Sonny,328,DEF,74,True,296733,Mark,Blicavs,GEE,DEF,R7
+1793,8,8258,9856,Simon,It's always Sonny,328,DEF,125,True,296733,Mark,Blicavs,GEE,DEF,R8
+1794,9,8258,9856,Simon,It's always Sonny,328,DEF,90,True,296733,Mark,Blicavs,GEE,DEF,R9
+1795,10,8258,9856,Simon,It's always Sonny,328,DEF,127,True,296733,Mark,Blicavs,GEE,DEF,R10
+1796,11,8258,9856,Simon,It's always Sonny,328,DEF,99,True,296733,Mark,Blicavs,GEE,DEF,R11
+1797,12,8258,9856,Simon,It's always Sonny,328,DEF,102,True,296733,Mark,Blicavs,GEE,DEF,R12
+1798,3,180650,33301,Jordan,"What's Up, Doch?",456,MID,110,False,294877,Isaac,Smith,HAW,MID,R3
+1799,4,180650,33301,Jordan,"What's Up, Doch?",456,MID,58,False,294877,Isaac,Smith,HAW,MID,R4
+1800,7,300791,182,Paul,Coronaviney,456,MID,58,True,294877,Isaac,Smith,HAW,MID,R7
+1801,8,45168,5524,Luke,The Dragon's Laird,456,MID,42,True,294877,Isaac,Smith,HAW,MID,R8
+1802,3,21562,186,Mark,GetRichOrDieTryin,74,FWD,132,True,1005521,Oscar,McInerney,BRL,RUC FWD,R3
+1803,4,21562,186,Mark,GetRichOrDieTryin,74,FWD,30,True,1005521,Oscar,McInerney,BRL,RUC FWD,R4
+1804,5,21562,186,Mark,GetRichOrDieTryin,74,FWD,123,False,1005521,Oscar,McInerney,BRL,RUC FWD,R5
+1805,6,21562,186,Mark,GetRichOrDieTryin,74,FWD,38,True,1005521,Oscar,McInerney,BRL,RUC FWD,R6
+1806,7,21562,186,Mark,GetRichOrDieTryin,74,FWD,48,False,1005521,Oscar,McInerney,BRL,RUC FWD,R7
+1807,8,21562,186,Mark,GetRichOrDieTryin,74,FWD,74,False,1005521,Oscar,McInerney,BRL,RUC FWD,R8
+1808,9,21562,186,Mark,GetRichOrDieTryin,74,FWD,91,True,1005521,Oscar,McInerney,BRL,RUC FWD,R9
+1809,10,21562,186,Mark,GetRichOrDieTryin,74,FWD,128,True,1005521,Oscar,McInerney,BRL,RUC FWD,R10
+1810,11,21562,186,Mark,GetRichOrDieTryin,74,FWD,113,True,1005521,Oscar,McInerney,BRL,RUC FWD,R11
+1811,12,21562,186,Mark,GetRichOrDieTryin,74,FWD,99,True,1005521,Oscar,McInerney,BRL,RUC FWD,R12
+1812,3,10857,189,Anthony,The Full Bonty,175,FWD,68,False,1002240,Jaidyn,Stephenson,COL,FWD,R3
+1813,3,8258,9856,Simon,It's always Sonny,277,MID,94,True,998260,Jack,Bowes,GCS,MID,R3
+1814,4,8258,9856,Simon,It's always Sonny,277,MID,107,True,998260,Jack,Bowes,GCS,MID,R4
+1815,5,8258,9856,Simon,It's always Sonny,277,MID,71,True,998260,Jack,Bowes,GCS,MID,R5
+1816,6,8258,9856,Simon,It's always Sonny,277,MID,90,True,998260,Jack,Bowes,GCS,MID,R6
+1817,7,8258,9856,Simon,It's always Sonny,277,MID,85,True,998260,Jack,Bowes,GCS,MID,R7
+1818,8,8258,9856,Simon,It's always Sonny,277,MID,80,True,998260,Jack,Bowes,GCS,MID,R8
+1819,9,8258,9856,Simon,It's always Sonny,277,MID,95,True,998260,Jack,Bowes,GCS,MID,R9
+1820,10,8258,9856,Simon,It's always Sonny,277,MID,53,True,998260,Jack,Bowes,GCS,MID,R10
+1821,12,45168,5524,Luke,The Dragon's Laird,277,MID,104,False,998260,Jack,Bowes,GCS,MID,R12
+1822,3,8258,9856,Simon,It's always Sonny,516,MID,87,True,296035,Trent,Dumont,NTH,MID,R3
+1823,4,8258,9856,Simon,It's always Sonny,516,MID,86,False,296035,Trent,Dumont,NTH,MID,R4
+1824,5,8258,9856,Simon,It's always Sonny,516,MID,97,True,296035,Trent,Dumont,NTH,MID,R5
+1825,6,8258,9856,Simon,It's always Sonny,516,MID,98,True,296035,Trent,Dumont,NTH,MID,R6
+1826,7,8258,9856,Simon,It's always Sonny,516,MID,139,True,296035,Trent,Dumont,NTH,MID,R7
+1827,8,8258,9856,Simon,It's always Sonny,516,MID,122,True,296035,Trent,Dumont,NTH,MID,R8
+1828,9,8258,9856,Simon,It's always Sonny,516,MID,126,True,296035,Trent,Dumont,NTH,MID,R9
+1829,10,8258,9856,Simon,It's always Sonny,516,MID,110,True,296035,Trent,Dumont,NTH,MID,R10
+1830,11,8258,9856,Simon,It's always Sonny,516,MID,131,True,296035,Trent,Dumont,NTH,MID,R11
+1831,12,8258,9856,Simon,It's always Sonny,516,MID,95,True,296035,Trent,Dumont,NTH,MID,R12
+1832,3,8258,9856,Simon,It's always Sonny,417,DEF,57,True,210012,Shaun,Burgoyne,HAW,DEF,R3
+1833,4,8258,9856,Simon,It's always Sonny,417,DEF,53,False,210012,Shaun,Burgoyne,HAW,DEF,R4
+1834,3,8258,9856,Simon,It's always Sonny,560,DEF,32,True,294504,Tom,Clurey,PTA,DEF,R3
+1835,3,71052,9867,James,Bad Boys For Fyfe,314,MID,141,True,1009208,Matthew,Rowell,GCS,MID,R3
+1836,4,71052,9867,James,Bad Boys For Fyfe,314,MID,114,True,1009208,Matthew,Rowell,GCS,MID,R4
+1837,5,71052,9867,James,Bad Boys For Fyfe,314,MID,6,True,1009208,Matthew,Rowell,GCS,MID,R5
+1838,6,71052,9867,James,Bad Boys For Fyfe,314,MID,0,False,1009208,Matthew,Rowell,GCS,MID,R6
+1839,3,71052,9867,James,Bad Boys For Fyfe,54,FWD,46,True,990609,Charlie,Cameron,BRL,FWD,R3
+1840,5,10857,189,Anthony,The Full Bonty,54,FWD,101,True,990609,Charlie,Cameron,BRL,FWD,R5
+1841,6,10857,189,Anthony,The Full Bonty,54,FWD,47,True,990609,Charlie,Cameron,BRL,FWD,R6
+1842,7,10857,189,Anthony,The Full Bonty,54,FWD,99,True,990609,Charlie,Cameron,BRL,FWD,R7
+1843,8,10857,189,Anthony,The Full Bonty,54,FWD,84,True,990609,Charlie,Cameron,BRL,FWD,R8
+1844,9,10857,189,Anthony,The Full Bonty,54,FWD,107,True,990609,Charlie,Cameron,BRL,FWD,R9
+1845,10,10857,189,Anthony,The Full Bonty,54,FWD,72,True,990609,Charlie,Cameron,BRL,FWD,R10
+1846,11,10857,189,Anthony,The Full Bonty,54,FWD,52,True,990609,Charlie,Cameron,BRL,FWD,R11
+1847,12,10857,189,Anthony,The Full Bonty,54,FWD,21,False,990609,Charlie,Cameron,BRL,FWD,R12
+1848,3,71052,9867,James,Bad Boys For Fyfe,599,FWD,39,True,993993,Shai,Bolton,RIC,FWD,R3
+1849,8,8258,9856,Simon,It's always Sonny,599,FWD,97,True,993993,Shai,Bolton,RIC,FWD,R8
+1850,9,8258,9856,Simon,It's always Sonny,599,FWD,75,True,993993,Shai,Bolton,RIC,FWD,R9
+1851,10,8258,9856,Simon,It's always Sonny,599,FWD,106,True,993993,Shai,Bolton,RIC,FWD,R10
+1852,11,8258,9856,Simon,It's always Sonny,599,FWD,84,True,993993,Shai,Bolton,RIC,FWD,R11
+1853,12,8258,9856,Simon,It's always Sonny,599,FWD,69,True,993993,Shai,Bolton,RIC,FWD,R12
+1854,3,71052,9867,James,Bad Boys For Fyfe,634,RUC,32,True,998529,Ivan,Soldo,RIC,RUC,R3
+1855,4,45168,5524,Luke,The Dragon's Laird,134,DEF,70,True,993832,Jacob,Weitering,CAR,DEF,R4
+1856,5,45168,5524,Luke,The Dragon's Laird,134,DEF,46,True,993832,Jacob,Weitering,CAR,DEF,R5
+1857,4,86078,9806,Lester,HoweIMetYourMother,203,FWD,58,True,298630,Kyle,Langford,ESS,FWD MID,R4
+1858,6,8258,9856,Simon,It's always Sonny,203,FWD,79,True,298630,Kyle,Langford,ESS,FWD MID,R6
+1859,7,8258,9856,Simon,It's always Sonny,203,FWD,72,True,298630,Kyle,Langford,ESS,FWD MID,R7
+1860,8,8258,9856,Simon,It's always Sonny,203,FWD,90,False,298630,Kyle,Langford,ESS,FWD MID,R8
+1861,10,300791,182,Paul,Coronaviney,203,FWD,66,True,298630,Kyle,Langford,ESS,FWD MID,R10
+1862,11,300791,182,Paul,Coronaviney,203,FWD,78,True,298630,Kyle,Langford,ESS,FWD MID,R11
+1863,12,300791,182,Paul,Coronaviney,203,FWD,68,True,298630,Kyle,Langford,ESS,FWD MID,R12
+1864,4,86078,9806,Lester,HoweIMetYourMother,340,FWD,61,False,298211,Darcy,Fort,GEE,FWD,R4
+1865,5,86078,9806,Lester,HoweIMetYourMother,340,FWD,107,False,298211,Darcy,Fort,GEE,FWD,R5
+1866,6,86078,9806,Lester,HoweIMetYourMother,340,FWD,84,True,298211,Darcy,Fort,GEE,FWD,R6
+1867,7,86078,9806,Lester,HoweIMetYourMother,340,FWD,58,True,298211,Darcy,Fort,GEE,FWD,R7
+1868,4,180650,33301,Jordan,"What's Up, Doch?",645,FWD,118,True,992374,Dan,Butler,STK,FWD,R4
+1869,5,180650,33301,Jordan,"What's Up, Doch?",645,FWD,95,True,992374,Dan,Butler,STK,FWD,R5
+1870,6,180650,33301,Jordan,"What's Up, Doch?",645,FWD,40,True,992374,Dan,Butler,STK,FWD,R6
+1871,7,180650,33301,Jordan,"What's Up, Doch?",645,FWD,52,True,992374,Dan,Butler,STK,FWD,R7
+1872,8,180650,33301,Jordan,"What's Up, Doch?",645,FWD,87,False,992374,Dan,Butler,STK,FWD,R8
+1873,9,180650,33301,Jordan,"What's Up, Doch?",645,FWD,83,True,992374,Dan,Butler,STK,FWD,R9
+1874,10,180650,33301,Jordan,"What's Up, Doch?",645,FWD,116,True,992374,Dan,Butler,STK,FWD,R10
+1875,11,180650,33301,Jordan,"What's Up, Doch?",645,FWD,20,True,992374,Dan,Butler,STK,FWD,R11
+1876,12,180650,33301,Jordan,"What's Up, Doch?",645,FWD,40,True,992374,Dan,Butler,STK,FWD,R12
+1877,4,180650,33301,Jordan,"What's Up, Doch?",274,FWD,69,True,998130,Ben,Ainsworth,GCS,FWD MID,R4
+1878,5,180650,33301,Jordan,"What's Up, Doch?",274,FWD,79,True,998130,Ben,Ainsworth,GCS,FWD MID,R5
+1879,6,180650,33301,Jordan,"What's Up, Doch?",274,FWD,63,True,998130,Ben,Ainsworth,GCS,FWD MID,R6
+1880,12,180650,33301,Jordan,"What's Up, Doch?",274,FWD,42,True,998130,Ben,Ainsworth,GCS,FWD MID,R12
+1881,4,10857,189,Anthony,The Full Bonty,756,FWD,54,True,996483,Toby,McLean,WBD,FWD,R4
+1882,4,10857,189,Anthony,The Full Bonty,428,DEF,53,True,993794,Blake,Hardwick,HAW,DEF,R4
+1883,4,300791,182,Paul,Coronaviney,751,MID,78,True,290799,Tom,Liberatore,WBD,MID,R4
+1884,7,8258,9856,Simon,It's always Sonny,751,MID,103,True,290799,Tom,Liberatore,WBD,MID,R7
+1885,8,8258,9856,Simon,It's always Sonny,751,MID,103,True,290799,Tom,Liberatore,WBD,MID,R8
+1886,9,8258,9856,Simon,It's always Sonny,751,MID,96,True,290799,Tom,Liberatore,WBD,MID,R9
+1887,10,8258,9856,Simon,It's always Sonny,751,MID,114,True,290799,Tom,Liberatore,WBD,MID,R10
+1888,11,8258,9856,Simon,It's always Sonny,751,MID,81,True,290799,Tom,Liberatore,WBD,MID,R11
+1889,12,8258,9856,Simon,It's always Sonny,751,MID,127,True,290799,Tom,Liberatore,WBD,MID,R12
+1890,4,300791,182,Paul,Coronaviney,596,DEF,63,True,290198,David,Astbury,RIC,DEF,R4
+1891,4,300791,182,Paul,Coronaviney,92,DEF,126,False,281124,Levi,Casboult,CAR,DEF FWD,R4
+1892,5,300791,182,Paul,Coronaviney,92,FWD,39,True,281124,Levi,Casboult,CAR,DEF FWD,R5
+1893,4,71052,9867,James,Bad Boys For Fyfe,124,RUC,94,True,298290,Marc,Pittonet,CAR,RUC,R4
+1894,5,71052,9867,James,Bad Boys For Fyfe,124,RUC,83,True,298290,Marc,Pittonet,CAR,RUC,R5
+1895,6,71052,9867,James,Bad Boys For Fyfe,124,RUC,75,True,298290,Marc,Pittonet,CAR,RUC,R6
+1896,7,71052,9867,James,Bad Boys For Fyfe,124,RUC,32,True,298290,Marc,Pittonet,CAR,RUC,R7
+1897,8,71052,9867,James,Bad Boys For Fyfe,124,RUC,53,False,298290,Marc,Pittonet,CAR,RUC,R8
+1898,4,71052,9867,James,Bad Boys For Fyfe,579,FWD,82,True,1004998,Todd,Marshall,PTA,FWD,R4
+1899,5,71052,9867,James,Bad Boys For Fyfe,579,FWD,38,True,1004998,Todd,Marshall,PTA,FWD,R5
+1900,6,71052,9867,James,Bad Boys For Fyfe,579,FWD,51,True,1004998,Todd,Marshall,PTA,FWD,R6
+1901,7,71052,9867,James,Bad Boys For Fyfe,579,FWD,110,True,1004998,Todd,Marshall,PTA,FWD,R7
+1902,8,71052,9867,James,Bad Boys For Fyfe,579,FWD,69,True,1004998,Todd,Marshall,PTA,FWD,R8
+1903,4,71052,9867,James,Bad Boys For Fyfe,509,FWD,17,False,291867,Ben,Brown,NTH,FWD,R4
+1904,4,8258,9856,Simon,It's always Sonny,352,FWD,68,True,1004938,Gryan,Miers,GEE,FWD,R4
+1905,4,8258,9856,Simon,It's always Sonny,581,DEF,67,True,290527,Trent,McKenzie,PTA,DEF,R4
+1906,5,8258,9856,Simon,It's always Sonny,581,DEF,58,False,290527,Trent,McKenzie,PTA,DEF,R5
+1907,5,86078,9806,Lester,HoweIMetYourMother,341,MID,73,True,290550,Cameron,Guthrie,GEE,MID,R5
+1908,6,86078,9806,Lester,HoweIMetYourMother,341,MID,109,True,290550,Cameron,Guthrie,GEE,MID,R6
+1909,7,86078,9806,Lester,HoweIMetYourMother,341,MID,116,True,290550,Cameron,Guthrie,GEE,MID,R7
+1910,8,86078,9806,Lester,HoweIMetYourMother,341,MID,90,True,290550,Cameron,Guthrie,GEE,MID,R8
+1911,9,86078,9806,Lester,HoweIMetYourMother,341,MID,121,True,290550,Cameron,Guthrie,GEE,MID,R9
+1912,10,86078,9806,Lester,HoweIMetYourMother,341,MID,124,True,290550,Cameron,Guthrie,GEE,MID,R10
+1913,11,86078,9806,Lester,HoweIMetYourMother,341,MID,71,True,290550,Cameron,Guthrie,GEE,MID,R11
+1914,12,86078,9806,Lester,HoweIMetYourMother,341,MID,108,True,290550,Cameron,Guthrie,GEE,MID,R12
+1915,5,86078,9806,Lester,HoweIMetYourMother,273,DEF,68,True,1009256,Hayden,Young,FRE,DEF,R5
+1916,5,180650,33301,Jordan,"What's Up, Doch?",286,MID,78,True,293713,Brandon,Ellis,GCS,MID,R5
+1917,6,180650,33301,Jordan,"What's Up, Doch?",286,MID,71,True,293713,Brandon,Ellis,GCS,MID,R6
+1918,7,180650,33301,Jordan,"What's Up, Doch?",286,MID,89,False,293713,Brandon,Ellis,GCS,MID,R7
+1919,9,10857,189,Anthony,The Full Bonty,286,MID,87,False,293713,Brandon,Ellis,GCS,MID,R9
+1920,11,21562,186,Mark,GetRichOrDieTryin,286,MID,89,True,293713,Brandon,Ellis,GCS,MID,R11
+1921,5,180650,33301,Jordan,"What's Up, Doch?",199,DEF,78,True,270588,Cale,Hooker,ESS,DEF,R5
+1922,6,180650,33301,Jordan,"What's Up, Doch?",199,DEF,87,True,270588,Cale,Hooker,ESS,DEF,R6
+1923,7,180650,33301,Jordan,"What's Up, Doch?",199,DEF,73,True,270588,Cale,Hooker,ESS,DEF,R7
+1924,5,180650,33301,Jordan,"What's Up, Doch?",533,DEF,43,True,290156,Jasper,Pittard,NTH,DEF,R5
+1925,6,180650,33301,Jordan,"What's Up, Doch?",533,DEF,99,True,290156,Jasper,Pittard,NTH,DEF,R6
+1926,7,180650,33301,Jordan,"What's Up, Doch?",533,DEF,27,True,290156,Jasper,Pittard,NTH,DEF,R7
+1927,5,180650,33301,Jordan,"What's Up, Doch?",209,FWD,22,False,280038,Shaun,McKernan,ESS,FWD,R5
+1928,5,21562,186,Mark,GetRichOrDieTryin,562,FWD,71,True,280711,Charlie,Dixon,PTA,FWD,R5
+1929,6,21562,186,Mark,GetRichOrDieTryin,562,FWD,83,True,280711,Charlie,Dixon,PTA,FWD,R6
+1930,7,21562,186,Mark,GetRichOrDieTryin,562,FWD,118,True,280711,Charlie,Dixon,PTA,FWD,R7
+1931,8,21562,186,Mark,GetRichOrDieTryin,562,FWD,88,True,280711,Charlie,Dixon,PTA,FWD,R8
+1932,9,21562,186,Mark,GetRichOrDieTryin,562,FWD,76,True,280711,Charlie,Dixon,PTA,FWD,R9
+1933,10,21562,186,Mark,GetRichOrDieTryin,562,FWD,103,True,280711,Charlie,Dixon,PTA,FWD,R10
+1934,11,21562,186,Mark,GetRichOrDieTryin,562,FWD,117,True,280711,Charlie,Dixon,PTA,FWD,R11
+1935,12,21562,186,Mark,GetRichOrDieTryin,562,FWD,29,True,280711,Charlie,Dixon,PTA,FWD,R12
+1936,5,10857,189,Anthony,The Full Bonty,537,DEF,98,True,270325,Robbie,Tarrant,NTH,DEF,R5
+1937,6,10857,189,Anthony,The Full Bonty,537,DEF,53,True,270325,Robbie,Tarrant,NTH,DEF,R6
+1938,7,8258,9856,Simon,It's always Sonny,537,DEF,107,False,270325,Robbie,Tarrant,NTH,DEF,R7
+1939,8,8258,9856,Simon,It's always Sonny,537,DEF,96,True,270325,Robbie,Tarrant,NTH,DEF,R8
+1940,9,8258,9856,Simon,It's always Sonny,537,DEF,53,True,270325,Robbie,Tarrant,NTH,DEF,R9
+1941,10,8258,9856,Simon,It's always Sonny,537,DEF,90,True,270325,Robbie,Tarrant,NTH,DEF,R10
+1942,11,8258,9856,Simon,It's always Sonny,537,DEF,103,True,270325,Robbie,Tarrant,NTH,DEF,R11
+1943,12,8258,9856,Simon,It's always Sonny,537,DEF,0,False,270325,Robbie,Tarrant,NTH,DEF,R12
+1944,5,300791,182,Paul,Coronaviney,379,DEF,70,True,294508,Aidan,Corr,GWS,DEF,R5
+1945,8,86078,9806,Lester,HoweIMetYourMother,379,DEF,74,False,294508,Aidan,Corr,GWS,DEF,R8
+1946,10,180650,33301,Jordan,"What's Up, Doch?",379,DEF,75,True,294508,Aidan,Corr,GWS,DEF,R10
+1947,12,180650,33301,Jordan,"What's Up, Doch?",379,DEF,51,True,294508,Aidan,Corr,GWS,DEF,R12
+1948,5,71052,9867,James,Bad Boys For Fyfe,506,MID,80,True,291861,Jed,Anderson,NTH,MID,R5
+1949,6,71052,9867,James,Bad Boys For Fyfe,506,MID,0,False,291861,Jed,Anderson,NTH,MID,R6
+1950,8,300791,182,Paul,Coronaviney,506,MID,116,True,291861,Jed,Anderson,NTH,MID,R8
+1951,9,300791,182,Paul,Coronaviney,506,MID,144,False,291861,Jed,Anderson,NTH,MID,R9
+1952,10,300791,182,Paul,Coronaviney,506,MID,100,True,291861,Jed,Anderson,NTH,MID,R10
+1953,11,300791,182,Paul,Coronaviney,506,MID,48,True,291861,Jed,Anderson,NTH,MID,R11
+1954,12,300791,182,Paul,Coronaviney,506,MID,143,True,291861,Jed,Anderson,NTH,MID,R12
+1955,5,71052,9867,James,Bad Boys For Fyfe,545,DEF,43,True,295256,Marley,Williams,NTH,DEF,R5
+1956,5,71052,9867,James,Bad Boys For Fyfe,101,FWD,0,False,999827,Zac,Fisher,CAR,FWD MID,R5
+1957,6,71052,9867,James,Bad Boys For Fyfe,101,FWD,0,False,999827,Zac,Fisher,CAR,FWD MID,R6
+1958,7,71052,9867,James,Bad Boys For Fyfe,101,MID,0,False,999827,Zac,Fisher,CAR,FWD MID,R7
+1959,8,71052,9867,James,Bad Boys For Fyfe,101,MID,0,False,999827,Zac,Fisher,CAR,FWD MID,R8
+1960,9,71052,9867,James,Bad Boys For Fyfe,101,MID,0,False,999827,Zac,Fisher,CAR,FWD MID,R9
+1961,12,71052,9867,James,Bad Boys For Fyfe,101,FWD,59,True,999827,Zac,Fisher,CAR,FWD MID,R12
+1962,5,8258,9856,Simon,It's always Sonny,303,FWD,68,True,1004095,Jack,Lukosius,GCS,DEF FWD,R5
+1963,7,86078,9806,Lester,HoweIMetYourMother,303,DEF,80,True,1004095,Jack,Lukosius,GCS,DEF FWD,R7
+1964,8,86078,9806,Lester,HoweIMetYourMother,303,DEF,65,True,1004095,Jack,Lukosius,GCS,DEF FWD,R8
+1965,9,86078,9806,Lester,HoweIMetYourMother,303,FWD,84,True,1004095,Jack,Lukosius,GCS,DEF FWD,R9
+1966,10,86078,9806,Lester,HoweIMetYourMother,303,FWD,96,True,1004095,Jack,Lukosius,GCS,DEF FWD,R10
+1967,11,86078,9806,Lester,HoweIMetYourMother,303,FWD,80,True,1004095,Jack,Lukosius,GCS,DEF FWD,R11
+1968,12,86078,9806,Lester,HoweIMetYourMother,303,FWD,135,True,1004095,Jack,Lukosius,GCS,DEF FWD,R12
+1969,5,8258,9856,Simon,It's always Sonny,248,FWD,55,True,280336,Stephen,Hill,FRE,DEF FWD,R5
+1970,6,86078,9806,Lester,HoweIMetYourMother,651,DEF,54,True,1005717,Nick,Coffield,STK,DEF,R6
+1971,11,10857,189,Anthony,The Full Bonty,651,DEF,62,True,1005717,Nick,Coffield,STK,DEF,R11
+1972,6,180650,33301,Jordan,"What's Up, Doch?",641,DEF,101,True,998134,Josh,Battle,STK,DEF,R6
+1973,7,180650,33301,Jordan,"What's Up, Doch?",641,DEF,9,True,998134,Josh,Battle,STK,DEF,R7
+1974,6,180650,33301,Jordan,"What's Up, Doch?",615,FWD,94,True,1002227,Jack,Higgins,RIC,FWD,R6
+1975,7,180650,33301,Jordan,"What's Up, Doch?",615,FWD,79,True,1002227,Jack,Higgins,RIC,FWD,R7
+1976,8,180650,33301,Jordan,"What's Up, Doch?",615,FWD,59,True,1002227,Jack,Higgins,RIC,FWD,R8
+1977,9,180650,33301,Jordan,"What's Up, Doch?",615,FWD,82,True,1002227,Jack,Higgins,RIC,FWD,R9
+1978,10,180650,33301,Jordan,"What's Up, Doch?",615,FWD,40,True,1002227,Jack,Higgins,RIC,FWD,R10
+1979,6,45168,5524,Luke,The Dragon's Laird,472,DEF,47,True,290160,Michael,Hibberd,MEL,DEF,R6
+1980,6,300791,182,Paul,Coronaviney,351,MID,152,True,294199,Sam,Menegola,GEE,MID,R6
+1981,7,300791,182,Paul,Coronaviney,351,MID,83,True,294199,Sam,Menegola,GEE,MID,R7
+1982,8,300791,182,Paul,Coronaviney,351,MID,113,True,294199,Sam,Menegola,GEE,MID,R8
+1983,9,300791,182,Paul,Coronaviney,351,MID,105,True,294199,Sam,Menegola,GEE,MID,R9
+1984,10,300791,182,Paul,Coronaviney,351,MID,109,True,294199,Sam,Menegola,GEE,MID,R10
+1985,11,300791,182,Paul,Coronaviney,351,MID,154,True,294199,Sam,Menegola,GEE,MID,R11
+1986,12,300791,182,Paul,Coronaviney,351,MID,104,True,294199,Sam,Menegola,GEE,MID,R12
+1987,6,300791,182,Paul,Coronaviney,740,RUC,105,True,1004592,Tim,English,WBD,RUC,R6
+1988,7,10857,189,Anthony,The Full Bonty,740,RUC,204,True,1004592,Tim,English,WBD,RUC,R7
+1989,8,10857,189,Anthony,The Full Bonty,740,RUC,73,True,1004592,Tim,English,WBD,RUC,R8
+1990,9,10857,189,Anthony,The Full Bonty,740,RUC,50,True,1004592,Tim,English,WBD,RUC,R9
+1991,10,10857,189,Anthony,The Full Bonty,740,RUC,93,False,1004592,Tim,English,WBD,RUC,R10
+1992,12,10857,189,Anthony,The Full Bonty,740,RUC,90,False,1004592,Tim,English,WBD,RUC,R12
+1993,6,300791,182,Paul,Coronaviney,162,DEF,102,True,298288,Darcy,Moore,COL,DEF,R6
+1994,9,71052,9867,James,Bad Boys For Fyfe,162,DEF,102,False,298288,Darcy,Moore,COL,DEF,R9
+1995,10,71052,9867,James,Bad Boys For Fyfe,162,DEF,75,True,298288,Darcy,Moore,COL,DEF,R10
+1996,11,71052,9867,James,Bad Boys For Fyfe,162,DEF,0,False,298288,Darcy,Moore,COL,DEF,R11
+1997,12,71052,9867,James,Bad Boys For Fyfe,162,DEF,41,False,298288,Darcy,Moore,COL,DEF,R12
+1998,6,8258,9856,Simon,It's always Sonny,557,FWD,73,True,1006121,Zak,Butters,PTA,FWD,R6
+1999,7,8258,9856,Simon,It's always Sonny,557,FWD,110,False,1006121,Zak,Butters,PTA,FWD,R7
+2000,8,8258,9856,Simon,It's always Sonny,557,FWD,39,True,1006121,Zak,Butters,PTA,FWD,R8
+2001,9,8258,9856,Simon,It's always Sonny,557,FWD,87,True,1006121,Zak,Butters,PTA,FWD,R9
+2002,10,8258,9856,Simon,It's always Sonny,557,FWD,125,True,1006121,Zak,Butters,PTA,FWD,R10
+2003,11,8258,9856,Simon,It's always Sonny,557,FWD,119,True,1006121,Zak,Butters,PTA,FWD,R11
+2004,12,8258,9856,Simon,It's always Sonny,557,FWD,53,True,1006121,Zak,Butters,PTA,FWD,R12
+2005,6,8258,9856,Simon,It's always Sonny,682,DEF,119,False,296422,Callum,Wilkie,STK,DEF,R6
+2006,7,8258,9856,Simon,It's always Sonny,682,DEF,37,True,296422,Callum,Wilkie,STK,DEF,R7
+2007,8,8258,9856,Simon,It's always Sonny,682,DEF,52,False,296422,Callum,Wilkie,STK,DEF,R8
+2008,11,8258,9856,Simon,It's always Sonny,682,DEF,53,True,296422,Callum,Wilkie,STK,DEF,R11
+2009,7,86078,9806,Lester,HoweIMetYourMother,439,RUC,35,True,261323,Ben,McEvoy,HAW,RUC,R7
+2010,8,86078,9806,Lester,HoweIMetYourMother,439,RUC,93,True,261323,Ben,McEvoy,HAW,RUC,R8
+2011,9,86078,9806,Lester,HoweIMetYourMother,439,RUC,85,True,261323,Ben,McEvoy,HAW,RUC,R9
+2012,7,180650,33301,Jordan,"What's Up, Doch?",311,FWD,102,True,1001195,Izak,Rankine,GCS,FWD,R7
+2013,8,180650,33301,Jordan,"What's Up, Doch?",311,FWD,56,True,1001195,Izak,Rankine,GCS,FWD,R8
+2014,9,180650,33301,Jordan,"What's Up, Doch?",311,FWD,34,True,1001195,Izak,Rankine,GCS,FWD,R9
+2015,10,180650,33301,Jordan,"What's Up, Doch?",311,FWD,83,True,1001195,Izak,Rankine,GCS,FWD,R10
+2016,11,180650,33301,Jordan,"What's Up, Doch?",311,FWD,85,True,1001195,Izak,Rankine,GCS,FWD,R11
+2017,12,180650,33301,Jordan,"What's Up, Doch?",311,FWD,52,True,1001195,Izak,Rankine,GCS,FWD,R12
+2018,7,21562,186,Mark,GetRichOrDieTryin,79,FWD,73,True,1002235,Cameron,Rayner,BRL,FWD,R7
+2019,8,21562,186,Mark,GetRichOrDieTryin,79,FWD,89,True,1002235,Cameron,Rayner,BRL,FWD,R8
+2020,9,21562,186,Mark,GetRichOrDieTryin,79,FWD,68,True,1002235,Cameron,Rayner,BRL,FWD,R9
+2021,7,71052,9867,James,Bad Boys For Fyfe,688,MID,70,True,996442,Ryan,Clarke,SYD,MID,R7
+2022,7,71052,9867,James,Bad Boys For Fyfe,107,FWD,36,True,1001398,Matthew,Kennedy,CAR,FWD,R7
+2023,9,300791,182,Paul,Coronaviney,107,FWD,63,True,1001398,Matthew,Kennedy,CAR,FWD,R9
+2024,12,86078,9806,Lester,HoweIMetYourMother,107,FWD,80,False,1001398,Matthew,Kennedy,CAR,FWD,R12
+2025,7,300791,182,Paul,Coronaviney,128,MID,98,True,998215,Will,Setterfield,CAR,MID,R7
+2026,8,300791,182,Paul,Coronaviney,128,MID,115,True,998215,Will,Setterfield,CAR,MID,R8
+2027,9,300791,182,Paul,Coronaviney,128,MID,50,True,998215,Will,Setterfield,CAR,MID,R9
+2028,11,86078,9806,Lester,HoweIMetYourMother,128,MID,102,True,998215,Will,Setterfield,CAR,MID,R11
+2029,12,86078,9806,Lester,HoweIMetYourMother,128,MID,82,True,998215,Will,Setterfield,CAR,MID,R12
+2030,7,300791,182,Paul,Coronaviney,102,FWD,76,True,296200,Michael,Gibbons,CAR,FWD,R7
+2031,8,300791,182,Paul,Coronaviney,102,FWD,57,True,296200,Michael,Gibbons,CAR,FWD,R8
+2032,8,180650,33301,Jordan,"What's Up, Doch?",167,DEF,79,True,1008089,Isaac,Quaynor,COL,DEF,R8
+2033,9,180650,33301,Jordan,"What's Up, Doch?",167,DEF,52,True,1008089,Isaac,Quaynor,COL,DEF,R9
+2034,8,180650,33301,Jordan,"What's Up, Doch?",610,DEF,45,True,1006276,Derek,Eggmolesse-Smith,RIC,DEF,R8
+2035,8,180650,33301,Jordan,"What's Up, Doch?",362,MID,49,False,1004940,Sam,Simpson,GEE,MID,R8
+2036,8,86078,9806,Lester,HoweIMetYourMother,34,MID,118,True,294733,Paul,Seedsman,ADE,MID,R8
+2037,9,86078,9806,Lester,HoweIMetYourMother,34,MID,107,True,294733,Paul,Seedsman,ADE,MID,R9
+2038,10,86078,9806,Lester,HoweIMetYourMother,34,MID,77,True,294733,Paul,Seedsman,ADE,MID,R10
+2039,11,8258,9856,Simon,It's always Sonny,34,MID,72,True,294733,Paul,Seedsman,ADE,MID,R11
+2040,8,45168,5524,Luke,The Dragon's Laird,18,FWD,116,True,993946,Ben,Keays,ADE,FWD,R8
+2041,9,45168,5524,Luke,The Dragon's Laird,18,FWD,59,True,993946,Ben,Keays,ADE,FWD,R9
+2042,10,45168,5524,Luke,The Dragon's Laird,18,FWD,88,True,993946,Ben,Keays,ADE,FWD,R10
+2043,11,45168,5524,Luke,The Dragon's Laird,18,FWD,82,True,993946,Ben,Keays,ADE,FWD,R11
+2044,12,45168,5524,Luke,The Dragon's Laird,18,FWD,81,False,993946,Ben,Keays,ADE,FWD,R12
+2045,8,45168,5524,Luke,The Dragon's Laird,208,DEF,38,False,997846,Conor,McKenna,ESS,DEF,R8
+2046,8,21562,186,Mark,GetRichOrDieTryin,613,MID,27,True,990827,Jack,Graham,RIC,MID,R8
+2047,8,8258,9856,Simon,It's always Sonny,777,DEF,73,True,990290,Tom,Barrass,WCE,DEF,R8
+2048,9,8258,9856,Simon,It's always Sonny,777,DEF,68,True,990290,Tom,Barrass,WCE,DEF,R9
+2049,8,10857,189,Anthony,The Full Bonty,576,FWD,106,True,997142,Peter,Ladhams,PTA,RUC FWD,R8
+2050,9,10857,189,Anthony,The Full Bonty,576,FWD,45,True,997142,Peter,Ladhams,PTA,RUC FWD,R9
+2051,10,10857,189,Anthony,The Full Bonty,576,FWD,123,True,997142,Peter,Ladhams,PTA,RUC FWD,R10
+2052,11,10857,189,Anthony,The Full Bonty,576,FWD,138,True,997142,Peter,Ladhams,PTA,RUC FWD,R11
+2053,12,10857,189,Anthony,The Full Bonty,576,FWD,89,True,997142,Peter,Ladhams,PTA,RUC FWD,R12
+2054,8,300791,182,Paul,Coronaviney,575,DEF,57,True,292145,Tom,Jonas,PTA,DEF,R8
+2055,11,180650,33301,Jordan,"What's Up, Doch?",575,DEF,60,True,292145,Tom,Jonas,PTA,DEF,R11
+2056,9,86078,9806,Lester,HoweIMetYourMother,49,DEF,104,True,1002312,Zac,Bailey,BRL,DEF MID,R9
+2057,10,86078,9806,Lester,HoweIMetYourMother,49,DEF,73,True,1002312,Zac,Bailey,BRL,DEF MID,R10
+2058,11,86078,9806,Lester,HoweIMetYourMother,49,DEF,111,True,1002312,Zac,Bailey,BRL,DEF MID,R11
+2059,12,86078,9806,Lester,HoweIMetYourMother,49,DEF,81,True,1002312,Zac,Bailey,BRL,DEF MID,R12
+2060,9,45168,5524,Luke,The Dragon's Laird,520,MID,134,True,296735,Aaron,Hall,NTH,MID,R9
+2061,10,45168,5524,Luke,The Dragon's Laird,520,MID,60,True,296735,Aaron,Hall,NTH,MID,R10
+2062,9,180650,33301,Jordan,"What's Up, Doch?",798,DEF,37,True,298298,Jackson,Nelson,WCE,DEF,R9
+2063,9,180650,33301,Jordan,"What's Up, Doch?",40,DEF,66,False,280934,Daniel,Talia,ADE,DEF,R9
+2064,10,180650,33301,Jordan,"What's Up, Doch?",40,DEF,77,True,280934,Daniel,Talia,ADE,DEF,R10
+2065,11,180650,33301,Jordan,"What's Up, Doch?",40,DEF,0,False,280934,Daniel,Talia,ADE,DEF,R11
+2066,9,300791,182,Paul,Coronaviney,689,DEF,93,True,291978,Harry,Cunningham,SYD,DEF,R9
+2067,10,300791,182,Paul,Coronaviney,689,DEF,53,True,291978,Harry,Cunningham,SYD,DEF,R10
+2068,12,21562,186,Mark,GetRichOrDieTryin,689,DEF,63,True,291978,Harry,Cunningham,SYD,DEF,R12
+2069,9,300791,182,Paul,Coronaviney,776,FWD,70,True,1004385,Oscar,Allen,WCE,FWD,R9
+2070,11,10857,189,Anthony,The Full Bonty,776,FWD,72,True,1004385,Oscar,Allen,WCE,FWD,R11
+2071,12,10857,189,Anthony,The Full Bonty,776,FWD,49,True,1004385,Oscar,Allen,WCE,FWD,R12
+2072,9,300791,182,Paul,Coronaviney,152,FWD,44,False,291720,Will,Hoskin-Elliott,COL,FWD,R9
+2073,9,71052,9867,James,Bad Boys For Fyfe,238,FWD,53,True,997033,Brennan,Cox,FRE,FWD,R9
+2074,9,8258,9856,Simon,It's always Sonny,281,DEF,110,True,295446,Sam,Collins,GCS,DEF,R9
+2075,10,8258,9856,Simon,It's always Sonny,281,DEF,93,True,295446,Sam,Collins,GCS,DEF,R10
+2076,11,8258,9856,Simon,It's always Sonny,281,DEF,50,True,295446,Sam,Collins,GCS,DEF,R11
+2077,12,8258,9856,Simon,It's always Sonny,281,DEF,56,True,295446,Sam,Collins,GCS,DEF,R12
+2078,10,180650,33301,Jordan,"What's Up, Doch?",693,DEF,62,True,291848,Robbie,Fox,SYD,DEF FWD,R10
+2079,12,71052,9867,James,Bad Boys For Fyfe,693,FWD,38,True,291848,Robbie,Fox,SYD,DEF FWD,R12
+2080,10,300791,182,Paul,Coronaviney,482,DEF,103,True,298281,Jake,Lever,MEL,DEF,R10
+2081,11,300791,182,Paul,Coronaviney,482,DEF,91,True,298281,Jake,Lever,MEL,DEF,R11
+2082,12,300791,182,Paul,Coronaviney,482,DEF,62,True,298281,Jake,Lever,MEL,DEF,R12
+2083,10,300791,182,Paul,Coronaviney,391,FWD,46,True,993107,Harry,Himmelberg,GWS,FWD,R10
+2084,10,8258,9856,Simon,It's always Sonny,488,FWD,22,True,296420,Alex,Neal-Bullen,MEL,FWD,R10
+2085,10,8258,9856,Simon,It's always Sonny,679,FWD,63,False,994389,Jack,Sinclair,STK,FWD MID,R10
+2086,12,45168,5524,Luke,The Dragon's Laird,679,FWD,59,True,994389,Jack,Sinclair,STK,FWD MID,R12
+2087,10,10857,189,Anthony,The Full Bonty,225,MID,76,True,270951,David,Zaharakis,ESS,MID,R10
+2088,10,21562,186,Mark,GetRichOrDieTryin,770,DEF,105,True,992351,Bailey,Williams,WBD,DEF,R10
+2089,12,300791,182,Paul,Coronaviney,770,DEF,119,True,992351,Bailey,Williams,WBD,DEF,R12
+2090,10,21562,186,Mark,GetRichOrDieTryin,528,DEF,95,True,296355,Luke,McDonald,NTH,DEF,R10
+2091,11,21562,186,Mark,GetRichOrDieTryin,528,DEF,138,False,296355,Luke,McDonald,NTH,DEF,R11
+2092,12,21562,186,Mark,GetRichOrDieTryin,528,DEF,119,True,296355,Luke,McDonald,NTH,DEF,R12
+2093,10,21562,186,Mark,GetRichOrDieTryin,580,MID,63,True,293603,Sam,Mayes,PTA,MID,R10
+2094,10,21562,186,Mark,GetRichOrDieTryin,549,FWD,49,True,998484,Cameron,Zurhaar,NTH,FWD,R10
+2095,10,71052,9867,James,Bad Boys For Fyfe,401,RUC,101,True,280762,Shane,Mumford,GWS,RUC,R10
+2096,11,86078,9806,Lester,HoweIMetYourMother,514,FWD,97,True,1002267,Luke,Davies-Uniacke,NTH,FWD MID,R11
+2097,12,86078,9806,Lester,HoweIMetYourMother,514,FWD,86,False,1002267,Luke,Davies-Uniacke,NTH,FWD MID,R12
+2098,11,86078,9806,Lester,HoweIMetYourMother,263,MID,82,True,1009420,Caleb,Serong,FRE,MID,R11
+2099,12,86078,9806,Lester,HoweIMetYourMother,263,MID,52,True,1009420,Caleb,Serong,FRE,MID,R12
+2100,11,180650,33301,Jordan,"What's Up, Doch?",507,DEF,70,True,290787,Shaun,Atley,NTH,DEF,R11
+2101,11,300791,182,Paul,Coronaviney,174,MID,75,True,1003029,Brayden,Sier,COL,MID,R11
+2102,11,300791,182,Paul,Coronaviney,147,MID,70,True,1005054,Josh,Daicos,COL,MID,R11
+2103,11,10857,189,Anthony,The Full Bonty,598,FWD,33,True,1002245,Noah,Balta,RIC,RUC FWD,R11
+2104,11,71052,9867,James,Bad Boys For Fyfe,272,DEF,97,True,294125,Nathan,Wilson,FRE,DEF,R11
+2105,12,71052,9867,James,Bad Boys For Fyfe,272,DEF,79,True,294125,Nathan,Wilson,FRE,DEF,R12
+2106,11,71052,9867,James,Bad Boys For Fyfe,658,FWD,30,True,297452,Nick,Hind,STK,FWD,R11
+2107,11,71052,9867,James,Bad Boys For Fyfe,71,FWD,24,True,293581,Lincoln,McCarthy,BRL,FWD,R11
+2108,12,8258,9856,Simon,It's always Sonny,614,DEF,79,False,280819,Dylan,Grimes,RIC,DEF,R12
+2109,12,45168,5524,Luke,The Dragon's Laird,493,FWD,84,True,992644,Braydon,Preuss,MEL,RUC FWD,R12
+2110,12,300791,182,Paul,Coronaviney,795,FWD,96,True,240406,Josh J.,Kennedy,WCE,FWD,R12
+2111,12,71052,9867,James,Bad Boys For Fyfe,38,FWD,30,True,997230,Tyson,Stengle,ADE,FWD,R12

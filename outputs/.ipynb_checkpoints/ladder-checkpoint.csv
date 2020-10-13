@@ -1,0 +1,97 @@
+,round,coach_id,coach_team_id,coach_first_name,coach_team_name,wins,draws,losses,points_for,points_against,league_points,position
+0,1,86078,9806,Lester,HoweIMetYourMother,1,0,0,1827,1476,4,1
+0,1,180650,33301,Jordan,"What's Up, Doch?",1,0,0,1721,1623,4,2
+0,1,45168,5524,Luke,The Dragon's Laird,1,0,0,1720,1662,4,3
+0,1,300791,182,Paul,Coronaviney,1,0,0,1686,1657,4,4
+0,1,21562,186,Mark,GetRichOrDieTryin,0,0,1,1657,1686,0,5
+0,1,10857,189,Anthony,The Full Bonty,0,0,1,1662,1720,0,6
+0,1,71052,9867,James,Bad Boys For Fyfe,0,0,1,1623,1721,0,7
+0,1,8258,9856,Simon,It's always Sonny,0,0,1,1476,1827,0,8
+0,2,45168,5524,Luke,The Dragon's Laird,2,0,0,3626,3200,8,1
+0,2,86078,9806,Lester,HoweIMetYourMother,2,0,0,3485,3118,8,2
+0,2,180650,33301,Jordan,"What's Up, Doch?",2,0,0,3421,3282,8,3
+0,2,300791,182,Paul,Coronaviney,2,0,0,3362,3310,8,4
+0,2,21562,186,Mark,GetRichOrDieTryin,0,0,2,3299,3344,0,5
+0,2,10857,189,Anthony,The Full Bonty,0,0,2,3315,3396,0,6
+0,2,8258,9856,Simon,It's always Sonny,0,0,2,3135,3527,0,7
+0,2,71052,9867,James,Bad Boys For Fyfe,0,0,2,3161,3627,0,8
+0,3,45168,5524,Luke,The Dragon's Laird,3,0,0,5285,4697,12,1
+0,3,86078,9806,Lester,HoweIMetYourMother,3,0,0,5164,4708,12,2
+0,3,300791,182,Paul,Coronaviney,2,0,1,4952,4989,8,3
+0,3,180650,33301,Jordan,"What's Up, Doch?",2,0,1,4698,4817,8,4
+0,3,21562,186,Mark,GetRichOrDieTryin,1,0,2,4834,4621,4,5
+0,3,10857,189,Anthony,The Full Bonty,1,0,2,4726,4659,4,6
+0,3,8258,9856,Simon,It's always Sonny,0,0,3,4632,5186,0,7
+0,3,71052,9867,James,Bad Boys For Fyfe,0,0,3,4424,5038,0,8
+0,4,45168,5524,Luke,The Dragon's Laird,3,0,1,6985,6507,12,1
+0,4,86078,9806,Lester,HoweIMetYourMother,3,0,1,6812,6382,12,2
+0,4,180650,33301,Jordan,"What's Up, Doch?",3,0,1,6372,6465,12,3
+0,4,21562,186,Mark,GetRichOrDieTryin,2,0,2,6644,6321,8,4
+0,4,10857,189,Anthony,The Full Bonty,2,0,2,6284,6187,8,5
+0,4,300791,182,Paul,Coronaviney,2,0,2,6395,6457,8,6
+0,4,71052,9867,James,Bad Boys For Fyfe,1,0,3,5892,6481,4,7
+0,4,8258,9856,Simon,It's always Sonny,0,0,4,6160,6744,0,8
+0,5,86078,9806,Lester,HoweIMetYourMother,4,0,1,8458,7973,16,1
+0,5,180650,33301,Jordan,"What's Up, Doch?",4,0,1,7974,7815,16,2
+0,5,21562,186,Mark,GetRichOrDieTryin,3,0,2,8363,7910,12,3
+0,5,45168,5524,Luke,The Dragon's Laird,3,0,2,8576,8153,12,4
+0,5,10857,189,Anthony,The Full Bonty,2,0,3,7873,7906,8,5
+0,5,300791,182,Paul,Coronaviney,2,0,3,7745,8059,8,6
+0,5,71052,9867,James,Bad Boys For Fyfe,2,0,3,7475,7988,8,7
+0,5,8258,9856,Simon,It's always Sonny,0,0,5,7667,8327,0,8
+0,6,86078,9806,Lester,HoweIMetYourMother,5,0,1,10133,9514,20,1
+0,6,180650,33301,Jordan,"What's Up, Doch?",5,0,1,9662,9243,20,2
+0,6,21562,186,Mark,GetRichOrDieTryin,4,0,2,9996,9429,16,3
+0,6,45168,5524,Luke,The Dragon's Laird,3,0,3,10004,9841,12,4
+0,6,10857,189,Anthony,The Full Bonty,2,0,4,9414,9581,8,5
+0,6,300791,182,Paul,Coronaviney,2,0,4,9231,9813,8,6
+0,6,71052,9867,James,Bad Boys For Fyfe,2,0,4,8994,9621,8,7
+0,6,8258,9856,Simon,It's always Sonny,1,0,5,9421,9813,4,8
+0,7,86078,9806,Lester,HoweIMetYourMother,5,0,2,11711,11177,20,1
+0,7,180650,33301,Jordan,"What's Up, Doch?",5,0,2,11209,10886,20,2
+0,7,21562,186,Mark,GetRichOrDieTryin,4,0,3,11641,11184,16,3
+0,7,45168,5524,Luke,The Dragon's Laird,4,0,3,11668,11489,16,4
+0,7,10857,189,Anthony,The Full Bonty,3,0,4,11057,11128,12,5
+0,7,71052,9867,James,Bad Boys For Fyfe,3,0,4,10657,11199,12,6
+0,7,8258,9856,Simon,It's always Sonny,2,0,5,11176,11458,8,7
+0,7,300791,182,Paul,Coronaviney,2,0,5,10879,11477,8,8
+0,8,180650,33301,Jordan,"What's Up, Doch?",5,0,3,12839,12525,20,1
+0,8,86078,9806,Lester,HoweIMetYourMother,5,0,3,13263,12949,20,2
+0,8,45168,5524,Luke,The Dragon's Laird,5,0,3,13502,13292,20,3
+0,8,21562,186,Mark,GetRichOrDieTryin,4,0,4,13153,12924,16,4
+0,8,71052,9867,James,Bad Boys For Fyfe,4,0,4,12296,12829,16,5
+0,8,8258,9856,Simon,It's always Sonny,3,0,5,12948,13010,12,6
+0,8,10857,189,Anthony,The Full Bonty,3,0,5,12860,12962,12,7
+0,8,300791,182,Paul,Coronaviney,3,0,5,12619,12989,12,8
+0,9,86078,9806,Lester,HoweIMetYourMother,6,0,3,15138,14616,24,1
+0,9,45168,5524,Luke,The Dragon's Laird,6,0,3,15245,14789,24,2
+0,9,180650,33301,Jordan,"What's Up, Doch?",6,0,3,14458,14142,24,3
+0,9,21562,186,Mark,GetRichOrDieTryin,4,0,5,14820,14799,16,4
+0,9,300791,182,Paul,Coronaviney,4,0,5,14256,14619,16,5
+0,9,71052,9867,James,Bad Boys For Fyfe,4,0,5,13793,14572,16,6
+0,9,8258,9856,Simon,It's always Sonny,3,0,6,14565,14629,12,7
+0,9,10857,189,Anthony,The Full Bonty,3,0,6,14490,14599,12,8
+0,10,180650,33301,Jordan,"What's Up, Doch?",7,0,3,16056,15579,28,1
+0,10,86078,9806,Lester,HoweIMetYourMother,6,0,4,16686,16199,24,2
+0,10,45168,5524,Luke,The Dragon's Laird,6,0,4,16563,16483,24,3
+0,10,300791,182,Paul,Coronaviney,5,0,5,15839,16167,20,4
+0,10,8258,9856,Simon,It's always Sonny,4,0,6,16259,15947,16,5
+0,10,10857,189,Anthony,The Full Bonty,4,0,6,16282,16115,16,6
+0,10,21562,186,Mark,GetRichOrDieTryin,4,0,6,16257,16397,16,7
+0,10,71052,9867,James,Bad Boys For Fyfe,4,0,6,15309,16364,16,8
+0,11,86078,9806,Lester,HoweIMetYourMother,7,0,4,18343,17487,28,1
+0,11,180650,33301,Jordan,"What's Up, Doch?",7,0,4,17344,17236,28,2
+0,11,45168,5524,Luke,The Dragon's Laird,6,0,5,18029,18070,24,3
+0,11,300791,182,Paul,Coronaviney,6,0,5,17425,17740,24,4
+0,11,8258,9856,Simon,It's always Sonny,5,0,6,17981,17608,20,5
+0,11,21562,186,Mark,GetRichOrDieTryin,5,0,6,17844,17863,20,6
+0,11,10857,189,Anthony,The Full Bonty,4,0,7,17943,17837,16,7
+0,11,71052,9867,James,Bad Boys For Fyfe,4,0,7,16882,17950,16,8
+0,12,86078,9806,Lester,HoweIMetYourMother,8,0,4,20119,19239,32,1
+0,12,180650,33301,Jordan,"What's Up, Doch?",8,0,4,18922,18810,32,2
+0,12,8258,9856,Simon,It's always Sonny,6,0,6,19729,19133,24,3
+0,12,21562,186,Mark,GetRichOrDieTryin,6,0,6,19711,19535,24,4
+0,12,45168,5524,Luke,The Dragon's Laird,6,0,6,19781,19846,24,5
+0,12,300791,182,Paul,Coronaviney,6,0,6,18999,19318,24,6
+0,12,10857,189,Anthony,The Full Bonty,4,0,8,19615,19704,16,7
+0,12,71052,9867,James,Bad Boys For Fyfe,4,0,8,18407,19698,16,8
