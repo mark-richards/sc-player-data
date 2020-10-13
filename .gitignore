@@ -7,3 +7,4 @@ venv
 .DS_Store
 .env
 sc-2020-83e91efb0e25.json
+creds.json
