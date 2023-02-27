@@ -1,175 +1,145 @@
 ,round_number,match_name,team_id,team_name,team_coach,team_points,opposition_team_id,opposition_team_name,opposition_team_coach,opposition_team_points,Rank,Opponent Rank
-0,1,Anthony vs Lester,20323,La MacRaena,Anthony,1691,22859,Ariana Grundy,Lester,1563,1.0,4.0
-0,1,Jordan vs Simon,23345,Pink Lloyd,Jordan,1657,23413,The West Wingard,Simon,1235,2.5,8.0
-0,1,Paul vs Mark,2018,Surviving J.Kelly,Mark,1657,2016,At Witts End,Paul,1477,2.5,6.0
-0,1,Anthony vs Lester,22859,Ariana Grundy,Lester,1563,20323,La MacRaena,Anthony,1691,4.0,1.0
-0,1,Luke vs James,20240,MakingTheirMarcus,James,1558,6510,The Big Short,Luke,1470,5.0,7.0
-0,1,Paul vs Mark,2016,At Witts End,Paul,1477,2018,Surviving J.Kelly,Mark,1657,6.0,2.5
-0,1,Luke vs James,6510,The Big Short,Luke,1470,20240,MakingTheirMarcus,James,1558,7.0,5.0
-0,1,Jordan vs Simon,23413,The West Wingard,Simon,1235,23345,Pink Lloyd,Jordan,1657,8.0,2.5
-0,2,Paul vs Luke,2016,At Witts End,Paul,1693,6510,The Big Short,Luke,1651,1.0,3.0
-0,2,Anthony vs Mark,20323,La MacRaena,Anthony,1665,2018,Surviving J.Kelly,Mark,1464,2.0,8.0
-0,2,Paul vs Luke,6510,The Big Short,Luke,1651,2016,At Witts End,Paul,1693,3.0,1.0
-0,2,Simon vs Lester,22859,Ariana Grundy,Lester,1642,23413,The West Wingard,Simon,1574,4.0,6.0
-0,2,Jordan vs James,20240,MakingTheirMarcus,James,1629,23345,Pink Lloyd,Jordan,1537,5.0,7.0
-0,2,Simon vs Lester,23413,The West Wingard,Simon,1574,22859,Ariana Grundy,Lester,1642,6.0,4.0
-0,2,Jordan vs James,23345,Pink Lloyd,Jordan,1537,20240,MakingTheirMarcus,James,1629,7.0,5.0
-0,2,Anthony vs Mark,2018,Surviving J.Kelly,Mark,1464,20323,La MacRaena,Anthony,1665,8.0,2.0
-0,3,Lester vs James,22859,Ariana Grundy,Lester,1805,20240,MakingTheirMarcus,James,1700,1.0,2.0
-0,3,Lester vs James,20240,MakingTheirMarcus,James,1700,22859,Ariana Grundy,Lester,1805,2.0,1.0
-0,3,Paul vs Anthony,20323,La MacRaena,Anthony,1679,2016,At Witts End,Paul,1469,3.0,7.0
-0,3,Jordan vs Luke,6510,The Big Short,Luke,1586,23345,Pink Lloyd,Jordan,1488,4.0,6.0
-0,3,Simon vs Mark,2018,Surviving J.Kelly,Mark,1550,23413,The West Wingard,Simon,1376,5.0,8.0
-0,3,Jordan vs Luke,23345,Pink Lloyd,Jordan,1488,6510,The Big Short,Luke,1586,6.0,4.0
-0,3,Paul vs Anthony,2016,At Witts End,Paul,1469,20323,La MacRaena,Anthony,1679,7.0,3.0
-0,3,Simon vs Mark,23413,The West Wingard,Simon,1376,2018,Surviving J.Kelly,Mark,1550,8.0,5.0
-0,4,James vs Mark,2018,Surviving J.Kelly,Mark,1706,20240,MakingTheirMarcus,James,1688,1.0,2.0
-0,4,James vs Mark,20240,MakingTheirMarcus,James,1688,2018,Surviving J.Kelly,Mark,1706,2.0,1.0
-0,4,Simon vs Anthony,23413,The West Wingard,Simon,1651,20323,La MacRaena,Anthony,1627,3.0,4.0
-0,4,Simon vs Anthony,20323,La MacRaena,Anthony,1627,23413,The West Wingard,Simon,1651,4.0,3.0
-0,4,Paul vs Jordan,23345,Pink Lloyd,Jordan,1559,2016,At Witts End,Paul,1496,5.0,7.0
-0,4,Lester vs Luke,6510,The Big Short,Luke,1552,22859,Ariana Grundy,Lester,1415,6.0,8.0
-0,4,Paul vs Jordan,2016,At Witts End,Paul,1496,23345,Pink Lloyd,Jordan,1559,7.0,5.0
-0,4,Lester vs Luke,22859,Ariana Grundy,Lester,1415,6510,The Big Short,Luke,1552,8.0,6.0
-0,5,Mark vs Luke,6510,The Big Short,Luke,1899,2018,Surviving J.Kelly,Mark,1613,1.0,6.0
-0,5,James vs Anthony,20323,La MacRaena,Anthony,1673,20240,MakingTheirMarcus,James,1665,2.0,4.0
-0,5,Paul vs Simon,2016,At Witts End,Paul,1669,23413,The West Wingard,Simon,1515,3.0,7.0
-0,5,James vs Anthony,20240,MakingTheirMarcus,James,1665,20323,La MacRaena,Anthony,1673,4.0,2.0
-0,5,Lester vs Jordan,23345,Pink Lloyd,Jordan,1615,22859,Ariana Grundy,Lester,1481,5.0,8.0
-0,5,Mark vs Luke,2018,Surviving J.Kelly,Mark,1613,6510,The Big Short,Luke,1899,6.0,1.0
-0,5,Paul vs Simon,23413,The West Wingard,Simon,1515,2016,At Witts End,Paul,1669,7.0,3.0
-0,5,Lester vs Jordan,22859,Ariana Grundy,Lester,1481,23345,Pink Lloyd,Jordan,1615,8.0,5.0
-0,6,Paul vs Lester,22859,Ariana Grundy,Lester,2005,2016,At Witts End,Paul,1732,1.0,3.0
-0,6,James vs Simon,20240,MakingTheirMarcus,James,1881,23413,The West Wingard,Simon,1528,2.0,7.0
-0,6,Paul vs Lester,2016,At Witts End,Paul,1732,22859,Ariana Grundy,Lester,2005,3.0,1.0
-0,6,Mark vs Jordan,2018,Surviving J.Kelly,Mark,1680,23345,Pink Lloyd,Jordan,1483,4.0,8.0
-0,6,Luke vs Anthony,20323,La MacRaena,Anthony,1641,6510,The Big Short,Luke,1530,5.0,6.0
-0,6,Luke vs Anthony,6510,The Big Short,Luke,1530,20323,La MacRaena,Anthony,1641,6.0,5.0
-0,6,James vs Simon,23413,The West Wingard,Simon,1528,20240,MakingTheirMarcus,James,1881,7.0,2.0
-0,6,Mark vs Jordan,23345,Pink Lloyd,Jordan,1483,2018,Surviving J.Kelly,Mark,1680,8.0,4.0
-0,7,Luke vs Simon,6510,The Big Short,Luke,1829,23413,The West Wingard,Simon,1376,1.0,8.0
-0,7,Mark vs Lester,22859,Ariana Grundy,Lester,1717,2018,Surviving J.Kelly,Mark,1551,2.0,6.0
-0,7,Paul vs James,2016,At Witts End,Paul,1640,20240,MakingTheirMarcus,James,1587,3.0,5.0
-0,7,Anthony vs Jordan,23345,Pink Lloyd,Jordan,1617,20323,La MacRaena,Anthony,1524,4.0,7.0
-0,7,Paul vs James,20240,MakingTheirMarcus,James,1587,2016,At Witts End,Paul,1640,5.0,3.0
-0,7,Mark vs Lester,2018,Surviving J.Kelly,Mark,1551,22859,Ariana Grundy,Lester,1717,6.0,2.0
-0,7,Anthony vs Jordan,20323,La MacRaena,Anthony,1524,23345,Pink Lloyd,Jordan,1617,7.0,4.0
-0,7,Luke vs Simon,23413,The West Wingard,Simon,1376,6510,The Big Short,Luke,1829,8.0,1.0
-0,8,Anthony vs Lester,22859,Ariana Grundy,Lester,1800,20323,La MacRaena,Anthony,1629,1.0,5.0
-0,8,Luke vs James,20240,MakingTheirMarcus,James,1753,6510,The Big Short,Luke,1674,2.0,3.5
-0,8,Luke vs James,6510,The Big Short,Luke,1674,20240,MakingTheirMarcus,James,1753,3.5,2.0
-0,8,Jordan vs Simon,23345,Pink Lloyd,Jordan,1674,23413,The West Wingard,Simon,1529,3.5,8.0
-0,8,Anthony vs Lester,20323,La MacRaena,Anthony,1629,22859,Ariana Grundy,Lester,1800,5.0,1.0
-0,8,Paul vs Mark,2016,At Witts End,Paul,1624,2018,Surviving J.Kelly,Mark,1570,6.0,7.0
-0,8,Paul vs Mark,2018,Surviving J.Kelly,Mark,1570,2016,At Witts End,Paul,1624,7.0,6.0
-0,8,Jordan vs Simon,23413,The West Wingard,Simon,1529,23345,Pink Lloyd,Jordan,1674,8.0,3.5
-0,9,Anthony vs Mark,20323,La MacRaena,Anthony,1812,2018,Surviving J.Kelly,Mark,1525,1.0,7.0
-0,9,Paul vs Luke,6510,The Big Short,Luke,1802,2016,At Witts End,Paul,1659,2.0,5.0
-0,9,Simon vs Lester,22859,Ariana Grundy,Lester,1762,23413,The West Wingard,Simon,1460,3.0,8.0
-0,9,Jordan vs James,23345,Pink Lloyd,Jordan,1726,20240,MakingTheirMarcus,James,1653,4.0,6.0
-0,9,Paul vs Luke,2016,At Witts End,Paul,1659,6510,The Big Short,Luke,1802,5.0,2.0
-0,9,Jordan vs James,20240,MakingTheirMarcus,James,1653,23345,Pink Lloyd,Jordan,1726,6.0,4.0
-0,9,Anthony vs Mark,2018,Surviving J.Kelly,Mark,1525,20323,La MacRaena,Anthony,1812,7.0,1.0
-0,9,Simon vs Lester,23413,The West Wingard,Simon,1460,22859,Ariana Grundy,Lester,1762,8.0,3.0
-0,10,Paul vs Anthony,2016,At Witts End,Paul,1801,20323,La MacRaena,Anthony,1736,1.0,4.0
-0,10,Jordan vs Luke,6510,The Big Short,Luke,1791,23345,Pink Lloyd,Jordan,1291,2.0,8.0
-0,10,Lester vs James,20240,MakingTheirMarcus,James,1741,22859,Ariana Grundy,Lester,1506,3.0,7.0
-0,10,Paul vs Anthony,20323,La MacRaena,Anthony,1736,2016,At Witts End,Paul,1801,4.0,1.0
-0,10,Simon vs Mark,23413,The West Wingard,Simon,1703,2018,Surviving J.Kelly,Mark,1657,5.0,6.0
-0,10,Simon vs Mark,2018,Surviving J.Kelly,Mark,1657,23413,The West Wingard,Simon,1703,6.0,5.0
-0,10,Lester vs James,22859,Ariana Grundy,Lester,1506,20240,MakingTheirMarcus,James,1741,7.0,3.0
-0,10,Jordan vs Luke,23345,Pink Lloyd,Jordan,1291,6510,The Big Short,Luke,1791,8.0,2.0
-0,11,Paul vs Jordan,2016,At Witts End,Paul,1812,23345,Pink Lloyd,Jordan,1716,1.0,4.0
-0,11,Simon vs Anthony,20323,La MacRaena,Anthony,1757,23413,The West Wingard,Simon,1475,2.0,8.0
-0,11,James vs Mark,2018,Surviving J.Kelly,Mark,1737,20240,MakingTheirMarcus,James,1480,3.0,7.0
-0,11,Paul vs Jordan,23345,Pink Lloyd,Jordan,1716,2016,At Witts End,Paul,1812,4.0,1.0
-0,11,Lester vs Luke,6510,The Big Short,Luke,1702,22859,Ariana Grundy,Lester,1502,5.0,6.0
-0,11,Lester vs Luke,22859,Ariana Grundy,Lester,1502,6510,The Big Short,Luke,1702,6.0,5.0
-0,11,James vs Mark,20240,MakingTheirMarcus,James,1480,2018,Surviving J.Kelly,Mark,1737,7.0,3.0
-0,11,Simon vs Anthony,23413,The West Wingard,Simon,1475,20323,La MacRaena,Anthony,1757,8.0,2.0
-0,12,Mark vs Luke,6510,The Big Short,Luke,1829,2018,Surviving J.Kelly,Mark,964,1.0,7.0
-0,12,Lester vs Jordan,23345,Pink Lloyd,Jordan,1619,22859,Ariana Grundy,Lester,1157,2.0,6.0
-0,12,James vs Anthony,20323,La MacRaena,Anthony,1512,20240,MakingTheirMarcus,James,1348,3.0,4.0
-0,12,James vs Anthony,20240,MakingTheirMarcus,James,1348,20323,La MacRaena,Anthony,1512,4.0,3.0
-0,12,Paul vs Simon,23413,The West Wingard,Simon,1334,2016,At Witts End,Paul,875,5.0,8.0
-0,12,Lester vs Jordan,22859,Ariana Grundy,Lester,1157,23345,Pink Lloyd,Jordan,1619,6.0,2.0
-0,12,Mark vs Luke,2018,Surviving J.Kelly,Mark,964,6510,The Big Short,Luke,1829,7.0,1.0
-0,12,Paul vs Simon,2016,At Witts End,Paul,875,23413,The West Wingard,Simon,1334,8.0,5.0
-0,13,Mark vs Jordan,2018,Surviving J.Kelly,Mark,1840,23345,Pink Lloyd,Jordan,1472,1.0,4.0
-0,13,Luke vs Anthony,20323,La MacRaena,Anthony,1716,6510,The Big Short,Luke,1237,2.0,7.0
-0,13,Paul vs Lester,2016,At Witts End,Paul,1581,22859,Ariana Grundy,Lester,1356,3.0,6.0
-0,13,Mark vs Jordan,23345,Pink Lloyd,Jordan,1472,2018,Surviving J.Kelly,Mark,1840,4.0,1.0
-0,13,James vs Simon,20240,MakingTheirMarcus,James,1426,23413,The West Wingard,Simon,1235,5.0,8.0
-0,13,Paul vs Lester,22859,Ariana Grundy,Lester,1356,2016,At Witts End,Paul,1581,6.0,3.0
-0,13,Luke vs Anthony,6510,The Big Short,Luke,1237,20323,La MacRaena,Anthony,1716,7.0,2.0
-0,13,James vs Simon,23413,The West Wingard,Simon,1235,20240,MakingTheirMarcus,James,1426,8.0,5.0
-0,14,Mark vs Lester,22859,Ariana Grundy,Lester,1559,2018,Surviving J.Kelly,Mark,1533,1.0,2.0
-0,14,Mark vs Lester,2018,Surviving J.Kelly,Mark,1533,22859,Ariana Grundy,Lester,1559,2.0,1.0
-0,14,Paul vs James,2016,At Witts End,Paul,1498,20240,MakingTheirMarcus,James,1218,3.0,5.0
-0,14,Luke vs Simon,23413,The West Wingard,Simon,1436,6510,The Big Short,Luke,1143,4.0,6.0
-0,14,Paul vs James,20240,MakingTheirMarcus,James,1218,2016,At Witts End,Paul,1498,5.0,3.0
-0,14,Luke vs Simon,6510,The Big Short,Luke,1143,23413,The West Wingard,Simon,1436,6.0,4.0
-0,14,Anthony vs Jordan,20323,La MacRaena,Anthony,890,23345,Pink Lloyd,Jordan,797,7.0,8.0
-0,14,Anthony vs Jordan,23345,Pink Lloyd,Jordan,797,20323,La MacRaena,Anthony,890,8.0,7.0
-0,15,Paul vs Mark,2016,At Witts End,Paul,1855,2018,Surviving J.Kelly,Mark,1671,1.0,4.0
-0,15,Luke vs James,20240,MakingTheirMarcus,James,1731,6510,The Big Short,Luke,1627,2.0,7.0
-0,15,Anthony vs Lester,20323,La MacRaena,Anthony,1697,22859,Ariana Grundy,Lester,1653,3.0,6.0
-0,15,Paul vs Mark,2018,Surviving J.Kelly,Mark,1671,2016,At Witts End,Paul,1855,4.0,1.0
-0,15,Jordan vs Simon,23413,The West Wingard,Simon,1663,23345,Pink Lloyd,Jordan,1568,5.0,8.0
-0,15,Anthony vs Lester,22859,Ariana Grundy,Lester,1653,20323,La MacRaena,Anthony,1697,6.0,3.0
-0,15,Luke vs James,6510,The Big Short,Luke,1627,20240,MakingTheirMarcus,James,1731,7.0,2.0
-0,15,Jordan vs Simon,23345,Pink Lloyd,Jordan,1568,23413,The West Wingard,Simon,1663,8.0,5.0
-0,16,Paul vs Luke,2016,At Witts End,Paul,1997,6510,The Big Short,Luke,1652,1.0,4.0
-0,16,Anthony vs Mark,20323,La MacRaena,Anthony,1779,2018,Surviving J.Kelly,Mark,1498,2.0,7.0
-0,16,Simon vs Lester,22859,Ariana Grundy,Lester,1764,23413,The West Wingard,Simon,1362,3.0,8.0
-0,16,Paul vs Luke,6510,The Big Short,Luke,1652,2016,At Witts End,Paul,1997,4.0,1.0
-0,16,Jordan vs James,20240,MakingTheirMarcus,James,1617,23345,Pink Lloyd,Jordan,1514,5.0,6.0
-0,16,Jordan vs James,23345,Pink Lloyd,Jordan,1514,20240,MakingTheirMarcus,James,1617,6.0,5.0
-0,16,Anthony vs Mark,2018,Surviving J.Kelly,Mark,1498,20323,La MacRaena,Anthony,1779,7.0,2.0
-0,16,Simon vs Lester,23413,The West Wingard,Simon,1362,22859,Ariana Grundy,Lester,1764,8.0,3.0
-0,17,Paul vs Anthony,2016,At Witts End,Paul,1893,20323,La MacRaena,Anthony,1555,1.0,8.0
-0,17,Lester vs James,20240,MakingTheirMarcus,James,1859,22859,Ariana Grundy,Lester,1708,2.0,3.0
-0,17,Lester vs James,22859,Ariana Grundy,Lester,1708,20240,MakingTheirMarcus,James,1859,3.0,2.0
-0,17,Simon vs Mark,23413,The West Wingard,Simon,1702,2018,Surviving J.Kelly,Mark,1620,4.0,7.0
-0,17,Jordan vs Luke,23345,Pink Lloyd,Jordan,1689,6510,The Big Short,Luke,1630,5.0,6.0
-0,17,Jordan vs Luke,6510,The Big Short,Luke,1630,23345,Pink Lloyd,Jordan,1689,6.0,5.0
-0,17,Simon vs Mark,2018,Surviving J.Kelly,Mark,1620,23413,The West Wingard,Simon,1702,7.0,4.0
-0,17,Paul vs Anthony,20323,La MacRaena,Anthony,1555,2016,At Witts End,Paul,1893,8.0,1.0
-0,18,Paul vs Jordan,2016,At Witts End,Paul,1839,23345,Pink Lloyd,Jordan,1571,1.0,6.0
-0,18,Simon vs Anthony,20323,La MacRaena,Anthony,1760,23413,The West Wingard,Simon,1518,2.0,7.0
-0,18,Lester vs Luke,22859,Ariana Grundy,Lester,1704,6510,The Big Short,Luke,1600,3.0,4.0
-0,18,Lester vs Luke,6510,The Big Short,Luke,1600,22859,Ariana Grundy,Lester,1704,4.0,3.0
-0,18,James vs Mark,20240,MakingTheirMarcus,James,1598,2018,Surviving J.Kelly,Mark,1327,5.0,8.0
-0,18,Paul vs Jordan,23345,Pink Lloyd,Jordan,1571,2016,At Witts End,Paul,1839,6.0,1.0
-0,18,Simon vs Anthony,23413,The West Wingard,Simon,1518,20323,La MacRaena,Anthony,1760,7.0,2.0
-0,18,James vs Mark,2018,Surviving J.Kelly,Mark,1327,20240,MakingTheirMarcus,James,1598,8.0,5.0
-0,19,James vs Anthony,20323,La MacRaena,Anthony,1779,20240,MakingTheirMarcus,James,1408,1.0,8.0
-0,19,Mark vs Luke,6510,The Big Short,Luke,1777,2018,Surviving J.Kelly,Mark,1491,2.0,6.0
-0,19,Paul vs Simon,2016,At Witts End,Paul,1747,23413,The West Wingard,Simon,1424,3.0,7.0
-0,19,Lester vs Jordan,23345,Pink Lloyd,Jordan,1689,22859,Ariana Grundy,Lester,1656,4.0,5.0
-0,19,Lester vs Jordan,22859,Ariana Grundy,Lester,1656,23345,Pink Lloyd,Jordan,1689,5.0,4.0
-0,19,Mark vs Luke,2018,Surviving J.Kelly,Mark,1491,6510,The Big Short,Luke,1777,6.0,2.0
-0,19,Paul vs Simon,23413,The West Wingard,Simon,1424,2016,At Witts End,Paul,1747,7.0,3.0
-0,19,James vs Anthony,20240,MakingTheirMarcus,James,1408,20323,La MacRaena,Anthony,1779,8.0,1.0
-0,20,Paul vs Lester,22859,Ariana Grundy,Lester,1932,2016,At Witts End,Paul,1879,1.0,2.0
-0,20,Paul vs Lester,2016,At Witts End,Paul,1879,22859,Ariana Grundy,Lester,1932,2.0,1.0
-0,20,Luke vs Anthony,6510,The Big Short,Luke,1811,20323,La MacRaena,Anthony,1555,3.0,7.0
-0,20,Mark vs Jordan,2018,Surviving J.Kelly,Mark,1645,23345,Pink Lloyd,Jordan,1600,4.0,6.0
-0,20,James vs Simon,23413,The West Wingard,Simon,1629,20240,MakingTheirMarcus,James,1427,5.0,8.0
-0,20,Mark vs Jordan,23345,Pink Lloyd,Jordan,1600,2018,Surviving J.Kelly,Mark,1645,6.0,4.0
-0,20,Luke vs Anthony,20323,La MacRaena,Anthony,1555,6510,The Big Short,Luke,1811,7.0,3.0
-0,20,James vs Simon,20240,MakingTheirMarcus,James,1427,23413,The West Wingard,Simon,1629,8.0,5.0
-0,21,Luke vs Simon,23413,The West Wingard,Simon,1754,6510,The Big Short,Luke,1706,1.0,3.0
-0,21,Mark vs Lester,2018,Surviving J.Kelly,Mark,1736,22859,Ariana Grundy,Lester,1671,2.0,5.0
-0,21,Luke vs Simon,6510,The Big Short,Luke,1706,23413,The West Wingard,Simon,1754,3.0,1.0
-0,21,Anthony vs Jordan,23345,Pink Lloyd,Jordan,1673,20323,La MacRaena,Anthony,1612,4.0,8.0
-0,21,Mark vs Lester,22859,Ariana Grundy,Lester,1671,2018,Surviving J.Kelly,Mark,1736,5.0,2.0
-0,21,Paul vs James,2016,At Witts End,Paul,1662,20240,MakingTheirMarcus,James,1631,6.0,7.0
-0,21,Paul vs James,20240,MakingTheirMarcus,James,1631,2016,At Witts End,Paul,1662,7.0,6.0
-0,21,Anthony vs Jordan,20323,La MacRaena,Anthony,1612,23345,Pink Lloyd,Jordan,1673,8.0,4.0
-0,22,Paul vs Luke,2016,At Witts End,Paul,1938,6510,The Big Short,Luke,1789,1.0,2.0
-0,22,Paul vs Luke,6510,The Big Short,Luke,1789,2016,At Witts End,Paul,1938,2.0,1.0
-0,22,Anthony vs James,20240,MakingTheirMarcus,James,1696,20323,La MacRaena,Anthony,1561,3.0,4.0
-0,22,Anthony vs James,20323,La MacRaena,Anthony,1561,20240,MakingTheirMarcus,James,1696,4.0,3.0
-0,23,James vs Paul,2016,At Witts End,Paul,1897,20240,MakingTheirMarcus,James,1693,1.0,2.0
-0,23,James vs Paul,20240,MakingTheirMarcus,James,1693,2016,At Witts End,Paul,1897,2.0,1.0
+0,1,James vs Lester,10883,Love is Hind,Lester,1931,10882,Take Me To Parish,James,1683,1.0,6.0
+0,1,Paul vs Mark,10834,Dunkley's Donuts,Mark,1841,5535,We're the Millers,Paul,1727,2.0,4.0
+0,1,Luke vs Jordan,14003,Gov Is In The Air,Luke,1752,63015,Wolf of Walsh St,Jordan,1554,3.0,7.0
+0,1,Paul vs Mark,5535,We're the Millers,Paul,1727,10834,Dunkley's Donuts,Mark,1841,4.0,2.0
+0,1,Anthony vs Simon,11125,Sloane Andreas,Simon,1692,10836,Cumming for the DB,Anthony,1553,5.0,8.0
+0,1,James vs Lester,10882,Take Me To Parish,James,1683,10883,Love is Hind,Lester,1931,6.0,1.0
+0,1,Luke vs Jordan,63015,Wolf of Walsh St,Jordan,1554,14003,Gov Is In The Air,Luke,1752,7.0,3.0
+0,1,Anthony vs Simon,10836,Cumming for the DB,Anthony,1553,11125,Sloane Andreas,Simon,1692,8.0,5.0
+0,2,James vs Mark,10834,Dunkley's Donuts,Mark,1961,10882,Take Me To Parish,James,1597,1.0,6.5
+0,2,Jordan vs Lester,10883,Love is Hind,Lester,1907,63015,Wolf of Walsh St,Jordan,1530,2.0,8.0
+0,2,Paul vs Anthony,10836,Cumming for the DB,Anthony,1757,5535,We're the Millers,Paul,1742,3.0,4.0
+0,2,Paul vs Anthony,5535,We're the Millers,Paul,1742,10836,Cumming for the DB,Anthony,1757,4.0,3.0
+0,2,Luke vs Simon,11125,Sloane Andreas,Simon,1730,14003,Gov Is In The Air,Luke,1597,5.0,6.5
+0,2,James vs Mark,10882,Take Me To Parish,James,1597,10834,Dunkley's Donuts,Mark,1961,6.5,1.0
+0,2,Luke vs Simon,14003,Gov Is In The Air,Luke,1597,11125,Sloane Andreas,Simon,1730,6.5,5.0
+0,2,Jordan vs Lester,63015,Wolf of Walsh St,Jordan,1530,10883,Love is Hind,Lester,1907,8.0,2.0
+0,3,Lester vs Simon,10883,Love is Hind,Lester,1946,11125,Sloane Andreas,Simon,1575,1.0,6.0
+0,3,Luke vs Anthony,10836,Cumming for the DB,Anthony,1842,14003,Gov Is In The Air,Luke,1658,2.0,5.0
+0,3,Paul vs James,5535,We're the Millers,Paul,1746,10882,Take Me To Parish,James,1737,3.0,4.0
+0,3,Paul vs James,10882,Take Me To Parish,James,1737,5535,We're the Millers,Paul,1746,4.0,3.0
+0,3,Luke vs Anthony,14003,Gov Is In The Air,Luke,1658,10836,Cumming for the DB,Anthony,1842,5.0,2.0
+0,3,Lester vs Simon,11125,Sloane Andreas,Simon,1575,10883,Love is Hind,Lester,1946,6.0,1.0
+0,3,Jordan vs Mark,10834,Dunkley's Donuts,Mark,1512,63015,Wolf of Walsh St,Jordan,1383,7.0,8.0
+0,3,Jordan vs Mark,63015,Wolf of Walsh St,Jordan,1383,10834,Dunkley's Donuts,Mark,1512,8.0,7.0
+0,4,Paul vs Luke,5535,We're the Millers,Paul,1861,14003,Gov Is In The Air,Luke,1791,1.0,2.0
+0,4,Paul vs Luke,14003,Gov Is In The Air,Luke,1791,5535,We're the Millers,Paul,1861,2.0,1.0
+0,4,Simon vs Mark,10834,Dunkley's Donuts,Mark,1753,11125,Sloane Andreas,Simon,1691,3.0,5.0
+0,4,Lester vs Anthony,10883,Love is Hind,Lester,1749,10836,Cumming for the DB,Anthony,1664,4.0,6.0
+0,4,Simon vs Mark,11125,Sloane Andreas,Simon,1691,10834,Dunkley's Donuts,Mark,1753,5.0,3.0
+0,4,Lester vs Anthony,10836,Cumming for the DB,Anthony,1664,10883,Love is Hind,Lester,1749,6.0,4.0
+0,4,Jordan vs James,10882,Take Me To Parish,James,1585,63015,Wolf of Walsh St,Jordan,1566,7.0,8.0
+0,4,Jordan vs James,63015,Wolf of Walsh St,Jordan,1566,10882,Take Me To Parish,James,1585,8.0,7.0
+0,5,Mark vs Anthony,10836,Cumming for the DB,Anthony,1830,10834,Dunkley's Donuts,Mark,1658,1.0,6.0
+0,5,Paul vs Jordan,5535,We're the Millers,Paul,1779,63015,Wolf of Walsh St,Jordan,1540,2.0,8.0
+0,5,Simon vs James,10882,Take Me To Parish,James,1767,11125,Sloane Andreas,Simon,1674,3.0,5.0
+0,5,Lester vs Luke,14003,Gov Is In The Air,Luke,1711,10883,Love is Hind,Lester,1655,4.0,7.0
+0,5,Simon vs James,11125,Sloane Andreas,Simon,1674,10882,Take Me To Parish,James,1767,5.0,3.0
+0,5,Mark vs Anthony,10834,Dunkley's Donuts,Mark,1658,10836,Cumming for the DB,Anthony,1830,6.0,1.0
+0,5,Lester vs Luke,10883,Love is Hind,Lester,1655,14003,Gov Is In The Air,Luke,1711,7.0,4.0
+0,5,Paul vs Jordan,63015,Wolf of Walsh St,Jordan,1540,5535,We're the Millers,Paul,1779,8.0,2.0
+0,6,Paul vs Lester,5535,We're the Millers,Paul,2135,10883,Love is Hind,Lester,1761,1.0,2.0
+0,6,Paul vs Lester,10883,Love is Hind,Lester,1761,5535,We're the Millers,Paul,2135,2.0,1.0
+0,6,Mark vs Luke,14003,Gov Is In The Air,Luke,1756,10834,Dunkley's Donuts,Mark,1719,3.0,5.0
+0,6,Simon vs Jordan,63015,Wolf of Walsh St,Jordan,1735,11125,Sloane Andreas,Simon,1431,4.0,8.0
+0,6,Mark vs Luke,10834,Dunkley's Donuts,Mark,1719,14003,Gov Is In The Air,Luke,1756,5.0,3.0
+0,6,Anthony vs James,10882,Take Me To Parish,James,1718,10836,Cumming for the DB,Anthony,1692,6.0,7.0
+0,6,Anthony vs James,10836,Cumming for the DB,Anthony,1692,10882,Take Me To Parish,James,1718,7.0,6.0
+0,6,Simon vs Jordan,11125,Sloane Andreas,Simon,1431,63015,Wolf of Walsh St,Jordan,1735,8.0,4.0
+0,7,Paul vs Simon,5535,We're the Millers,Paul,2007,11125,Sloane Andreas,Simon,1434,1.0,8.0
+0,7,Anthony vs Jordan,10836,Cumming for the DB,Anthony,1931,63015,Wolf of Walsh St,Jordan,1478,2.0,7.0
+0,7,Mark vs Lester,10883,Love is Hind,Lester,1821,10834,Dunkley's Donuts,Mark,1804,3.0,4.0
+0,7,Mark vs Lester,10834,Dunkley's Donuts,Mark,1804,10883,Love is Hind,Lester,1821,4.0,3.0
+0,7,James vs Luke,10882,Take Me To Parish,James,1737,14003,Gov Is In The Air,Luke,1735,5.0,6.0
+0,7,James vs Luke,14003,Gov Is In The Air,Luke,1735,10882,Take Me To Parish,James,1737,6.0,5.0
+0,7,Anthony vs Jordan,63015,Wolf of Walsh St,Jordan,1478,10836,Cumming for the DB,Anthony,1931,7.0,2.0
+0,7,Paul vs Simon,11125,Sloane Andreas,Simon,1434,5535,We're the Millers,Paul,2007,8.0,1.0
+0,8,James vs Lester,10883,Love is Hind,Lester,1829,10882,Take Me To Parish,James,1691,1.0,5.0
+0,8,Luke vs Jordan,63015,Wolf of Walsh St,Jordan,1783,14003,Gov Is In The Air,Luke,1619,2.0,7.0
+0,8,Paul vs Mark,5535,We're the Millers,Paul,1758,10834,Dunkley's Donuts,Mark,1745,3.0,4.0
+0,8,Paul vs Mark,10834,Dunkley's Donuts,Mark,1745,5535,We're the Millers,Paul,1758,4.0,3.0
+0,8,James vs Lester,10882,Take Me To Parish,James,1691,10883,Love is Hind,Lester,1829,5.0,1.0
+0,8,Anthony vs Simon,10836,Cumming for the DB,Anthony,1644,11125,Sloane Andreas,Simon,1530,6.0,8.0
+0,8,Luke vs Jordan,14003,Gov Is In The Air,Luke,1619,63015,Wolf of Walsh St,Jordan,1783,7.0,2.0
+0,8,Anthony vs Simon,11125,Sloane Andreas,Simon,1530,10836,Cumming for the DB,Anthony,1644,8.0,6.0
+0,9,Paul vs Anthony,5535,We're the Millers,Paul,1936,10836,Cumming for the DB,Anthony,1751,1.0,5.0
+0,9,James vs Mark,10834,Dunkley's Donuts,Mark,1918,10882,Take Me To Parish,James,1854,2.0,3.0
+0,9,James vs Mark,10882,Take Me To Parish,James,1854,10834,Dunkley's Donuts,Mark,1918,3.0,2.0
+0,9,Jordan vs Lester,10883,Love is Hind,Lester,1767,63015,Wolf of Walsh St,Jordan,1447,4.0,8.0
+0,9,Paul vs Anthony,10836,Cumming for the DB,Anthony,1751,5535,We're the Millers,Paul,1936,5.0,1.0
+0,9,Luke vs Simon,14003,Gov Is In The Air,Luke,1655,11125,Sloane Andreas,Simon,1495,6.0,7.0
+0,9,Luke vs Simon,11125,Sloane Andreas,Simon,1495,14003,Gov Is In The Air,Luke,1655,7.0,6.0
+0,9,Jordan vs Lester,63015,Wolf of Walsh St,Jordan,1447,10883,Love is Hind,Lester,1767,8.0,4.0
+0,10,Jordan vs Mark,10834,Dunkley's Donuts,Mark,1813,63015,Wolf of Walsh St,Jordan,1775,1.0,3.0
+0,10,Lester vs Simon,10883,Love is Hind,Lester,1802,11125,Sloane Andreas,Simon,1595,2.0,7.0
+0,10,Jordan vs Mark,63015,Wolf of Walsh St,Jordan,1775,10834,Dunkley's Donuts,Mark,1813,3.0,1.0
+0,10,Paul vs James,5535,We're the Millers,Paul,1771,10882,Take Me To Parish,James,1673,4.0,5.0
+0,10,Paul vs James,10882,Take Me To Parish,James,1673,5535,We're the Millers,Paul,1771,5.0,4.0
+0,10,Luke vs Anthony,14003,Gov Is In The Air,Luke,1668,10836,Cumming for the DB,Anthony,1514,6.0,8.0
+0,10,Lester vs Simon,11125,Sloane Andreas,Simon,1595,10883,Love is Hind,Lester,1802,7.0,2.0
+0,10,Luke vs Anthony,10836,Cumming for the DB,Anthony,1514,14003,Gov Is In The Air,Luke,1668,8.0,6.0
+0,11,Lester vs Anthony,10836,Cumming for the DB,Anthony,1941,10883,Love is Hind,Lester,1702,1.0,7.0
+0,11,Paul vs Luke,14003,Gov Is In The Air,Luke,1873,5535,We're the Millers,Paul,1746,2.0,5.0
+0,11,Simon vs Mark,10834,Dunkley's Donuts,Mark,1862,11125,Sloane Andreas,Simon,1592,3.0,8.0
+0,11,Jordan vs James,63015,Wolf of Walsh St,Jordan,1754,10882,Take Me To Parish,James,1709,4.0,6.0
+0,11,Paul vs Luke,5535,We're the Millers,Paul,1746,14003,Gov Is In The Air,Luke,1873,5.0,2.0
+0,11,Jordan vs James,10882,Take Me To Parish,James,1709,63015,Wolf of Walsh St,Jordan,1754,6.0,4.0
+0,11,Lester vs Anthony,10883,Love is Hind,Lester,1702,10836,Cumming for the DB,Anthony,1941,7.0,1.0
+0,11,Simon vs Mark,11125,Sloane Andreas,Simon,1592,10834,Dunkley's Donuts,Mark,1862,8.0,3.0
+0,12,Simon vs James,10882,Take Me To Parish,James,1633,11125,Sloane Andreas,Simon,1448,1.0,3.0
+0,12,Mark vs Anthony,10834,Dunkley's Donuts,Mark,1632,10836,Cumming for the DB,Anthony,1190,2.0,7.0
+0,12,Simon vs James,11125,Sloane Andreas,Simon,1448,10882,Take Me To Parish,James,1633,3.0,1.0
+0,12,Paul vs Jordan,63015,Wolf of Walsh St,Jordan,1444,5535,We're the Millers,Paul,1121,4.0,8.0
+0,12,Lester vs Luke,10883,Love is Hind,Lester,1258,14003,Gov Is In The Air,Luke,1240,5.0,6.0
+0,12,Lester vs Luke,14003,Gov Is In The Air,Luke,1240,10883,Love is Hind,Lester,1258,6.0,5.0
+0,12,Mark vs Anthony,10836,Cumming for the DB,Anthony,1190,10834,Dunkley's Donuts,Mark,1632,7.0,2.0
+0,12,Paul vs Jordan,5535,We're the Millers,Paul,1121,63015,Wolf of Walsh St,Jordan,1444,8.0,4.0
+0,13,Simon vs Jordan,63015,Wolf of Walsh St,Jordan,1727,11125,Sloane Andreas,Simon,1539,1.0,4.0
+0,13,Mark vs Luke,14003,Gov Is In The Air,Luke,1557,10834,Dunkley's Donuts,Mark,1308,2.0,5.0
+0,13,Paul vs Lester,10883,Love is Hind,Lester,1544,5535,We're the Millers,Paul,1245,3.0,7.0
+0,13,Simon vs Jordan,11125,Sloane Andreas,Simon,1539,63015,Wolf of Walsh St,Jordan,1727,4.0,1.0
+0,13,Mark vs Luke,10834,Dunkley's Donuts,Mark,1308,14003,Gov Is In The Air,Luke,1557,5.0,2.0
+0,13,Anthony vs James,10882,Take Me To Parish,James,1297,10836,Cumming for the DB,Anthony,1111,6.0,8.0
+0,13,Paul vs Lester,5535,We're the Millers,Paul,1245,10883,Love is Hind,Lester,1544,7.0,3.0
+0,13,Anthony vs James,10836,Cumming for the DB,Anthony,1111,10882,Take Me To Parish,James,1297,8.0,6.0
+0,14,Anthony vs Jordan,63015,Wolf of Walsh St,Jordan,1673,10836,Cumming for the DB,Anthony,1614,1.0,2.0
+0,14,Anthony vs Jordan,10836,Cumming for the DB,Anthony,1614,63015,Wolf of Walsh St,Jordan,1673,2.0,1.0
+0,14,Paul vs Simon,11125,Sloane Andreas,Simon,1433,5535,We're the Millers,Paul,1367,3.0,5.0
+0,14,James vs Luke,14003,Gov Is In The Air,Luke,1388,10882,Take Me To Parish,James,753,4.0,8.0
+0,14,Paul vs Simon,5535,We're the Millers,Paul,1367,11125,Sloane Andreas,Simon,1433,5.0,3.0
+0,14,Mark vs Lester,10834,Dunkley's Donuts,Mark,1272,10883,Love is Hind,Lester,1172,6.0,7.0
+0,14,Mark vs Lester,10883,Love is Hind,Lester,1172,10834,Dunkley's Donuts,Mark,1272,7.0,6.0
+0,14,James vs Luke,10882,Take Me To Parish,James,753,14003,Gov Is In The Air,Luke,1388,8.0,4.0
+0,15,Paul vs Mark,5535,We're the Millers,Paul,1978,10834,Dunkley's Donuts,Mark,1762,1.0,5.0
+0,15,Anthony vs Simon,10836,Cumming for the DB,Anthony,1790,11125,Sloane Andreas,Simon,1734,2.5,6.0
+0,15,James vs Lester,10882,Take Me To Parish,James,1790,10883,Love is Hind,Lester,1767,2.5,4.0
+0,15,James vs Lester,10883,Love is Hind,Lester,1767,10882,Take Me To Parish,James,1790,4.0,2.5
+0,15,Paul vs Mark,10834,Dunkley's Donuts,Mark,1762,5535,We're the Millers,Paul,1978,5.0,1.0
+0,15,Anthony vs Simon,11125,Sloane Andreas,Simon,1734,10836,Cumming for the DB,Anthony,1790,6.0,2.5
+0,15,Luke vs Jordan,14003,Gov Is In The Air,Luke,1669,63015,Wolf of Walsh St,Jordan,1648,7.0,8.0
+0,15,Luke vs Jordan,63015,Wolf of Walsh St,Jordan,1648,14003,Gov Is In The Air,Luke,1669,8.0,7.0
+0,16,Jordan vs Lester,10883,Love is Hind,Lester,2119,63015,Wolf of Walsh St,Jordan,1741,1.0,5.0
+0,16,James vs Mark,10882,Take Me To Parish,James,1804,10834,Dunkley's Donuts,Mark,1785,2.0,3.0
+0,16,James vs Mark,10834,Dunkley's Donuts,Mark,1785,10882,Take Me To Parish,James,1804,3.0,2.0
+0,16,Paul vs Anthony,10836,Cumming for the DB,Anthony,1780,5535,We're the Millers,Paul,1632,4.0,7.0
+0,16,Jordan vs Lester,63015,Wolf of Walsh St,Jordan,1741,10883,Love is Hind,Lester,2119,5.0,1.0
+0,16,Luke vs Simon,14003,Gov Is In The Air,Luke,1719,11125,Sloane Andreas,Simon,1438,6.0,8.0
+0,16,Paul vs Anthony,5535,We're the Millers,Paul,1632,10836,Cumming for the DB,Anthony,1780,7.0,4.0
+0,16,Luke vs Simon,11125,Sloane Andreas,Simon,1438,14003,Gov Is In The Air,Luke,1719,8.0,6.0
+0,17,Paul vs James,5535,We're the Millers,Paul,1866,10882,Take Me To Parish,James,1829,1.0,2.0
+0,17,Paul vs James,10882,Take Me To Parish,James,1829,5535,We're the Millers,Paul,1866,2.0,1.0
+0,17,Lester vs Simon,10883,Love is Hind,Lester,1812,11125,Sloane Andreas,Simon,1741,3.0,7.0
+0,17,Luke vs Anthony,14003,Gov Is In The Air,Luke,1787,10836,Cumming for the DB,Anthony,1688,4.0,8.0
+0,17,Jordan vs Mark,63015,Wolf of Walsh St,Jordan,1760,10834,Dunkley's Donuts,Mark,1746,5.0,6.0
+0,17,Jordan vs Mark,10834,Dunkley's Donuts,Mark,1746,63015,Wolf of Walsh St,Jordan,1760,6.0,5.0
+0,17,Lester vs Simon,11125,Sloane Andreas,Simon,1741,10883,Love is Hind,Lester,1812,7.0,3.0
+0,17,Luke vs Anthony,10836,Cumming for the DB,Anthony,1688,14003,Gov Is In The Air,Luke,1787,8.0,4.0
+0,18,Lester vs Anthony,10883,Love is Hind,Lester,1942,10836,Cumming for the DB,Anthony,1763,1.0,4.0
+0,18,Simon vs Mark,10834,Dunkley's Donuts,Mark,1795,11125,Sloane Andreas,Simon,1608,2.0,7.0
+0,18,Paul vs Luke,5535,We're the Millers,Paul,1794,14003,Gov Is In The Air,Luke,1714,3.0,5.0
+0,18,Lester vs Anthony,10836,Cumming for the DB,Anthony,1763,10883,Love is Hind,Lester,1942,4.0,1.0
+0,18,Paul vs Luke,14003,Gov Is In The Air,Luke,1714,5535,We're the Millers,Paul,1794,5.0,3.0
+0,18,Jordan vs James,10882,Take Me To Parish,James,1633,63015,Wolf of Walsh St,Jordan,1476,6.0,8.0
+0,18,Simon vs Mark,11125,Sloane Andreas,Simon,1608,10834,Dunkley's Donuts,Mark,1795,7.0,2.0
+0,18,Jordan vs James,63015,Wolf of Walsh St,Jordan,1476,10882,Take Me To Parish,James,1633,8.0,6.0

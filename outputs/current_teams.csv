@@ -1,177 +1,185 @@
-,player_id,trade_status,user_team_id,feed_id,first_name,last_name,team,position,coach_id,coach_team_id,coach_first_name,coach_team_name
-0,448,owner,6510.0,290528,Max,Gawn,MEL,RUC,45168,6510,Luke,The Big Short
-1,74,owner,22859.0,293535,Lachie,Neale,BRL,MID,86078,22859,Lester,Ariana Grundy
-2,642,owner,22859.0,296205,Jack,Steele,STK,MID,86078,22859,Lester,Ariana Grundy
-3,466,owner,2018.0,996701,Clayton,Oliver,MEL,MID,21562,2018,Mark,Surviving J.Kelly
-4,666,owner,23345.0,295342,Jake,Lloyd,SYD,DEF,180650,23345,Jordan,Pink Lloyd
-5,711,owner,20323.0,295467,Jack,Macrae,WBD,MID,10857,20323,Anthony,La MacRaena
-6,144,owner,22859.0,293957,Brodie,Grundy,COL,RUC,86078,22859,Lester,Ariana Grundy
-7,467,owner,2018.0,298210,Christian,Petracca,MEL,MID,21562,2018,Mark,Surviving J.Kelly
-8,689,owner,20240.0,297373,Marcus,Bontempelli,WBD,MID,71052,20240,James,MakingTheirMarcus
-9,200,owner,2016.0,992016,Zach,Merrett,ESS,MID,300791,2016,Paul,At Witts End
-10,704,owner,6510.0,294557,Lachie,Hunter,WBD,MID,45168,6510,Luke,The Big Short
-11,377,owner,22859.0,296347,Josh,Kelly,GWS,MID,86078,22859,Lester,Ariana Grundy
-12,317,owner,2016.0,270917,Patrick,Dangerfield,GEE,FWD MID,300791,2016,Paul,At Witts End
-13,421,owner,20240.0,291856,Tom,Mitchell,HAW,MID,71052,20240,James,MakingTheirMarcus
-14,231,owner,22859.0,291570,Nat,Fyfe,FRE,MID,86078,22859,Lester,Ariana Grundy
-15,65,owner,22859.0,293716,Jarryd,Lyons,BRL,MID,86078,22859,Lester,Ariana Grundy
-16,492,owner,20323.0,271129,Todd,Goldstein,NTH,RUC,10857,20323,Anthony,La MacRaena
-17,6,owner,20240.0,297401,Matt,Crouch,ADE,MID,71052,20240,James,MakingTheirMarcus
-18,753,owner,23413.0,271045,Nic,Naitanui,WCE,RUC,8258,23413,Simon,The West Wingard
-19,162,owner,2016.0,260257,Scott,Pendlebury,COL,MID,300791,2016,Paul,At Witts End
-20,525,owner,2018.0,250365,Travis,Boak,PTA,MID,21562,2018,Mark,Surviving J.Kelly
-21,131,owner,2016.0,291776,Taylor,Adams,COL,MID,300791,2016,Paul,At Witts End
-22,168,owner,6510.0,280965,Steele,Sidebottom,COL,FWD MID,45168,6510,Luke,The Big Short
-23,721,owner,20323.0,291790,Adam,Treloar,WBD,MID,10857,20323,Anthony,La MacRaena
-24,333,owner,23345.0,294199,Sam,Menegola,GEE,MID,180650,23345,Jordan,Pink Lloyd
-25,243,owner,20323.0,998659,Luke,Ryan,FRE,DEF,10857,20323,Anthony,La MacRaena
-26,677,owner,2016.0,290778,Luke,Parker,SYD,MID,300791,2016,Paul,At Witts End
-27,30,owner,23345.0,297523,Reilly,O'Brien,ADE,RUC,180650,23345,Jordan,Pink Lloyd
-28,743,owner,6510.0,290801,Andrew,Gaff,WCE,MID,45168,6510,Luke,The Big Short
-29,709,owner,6510.0,290799,Tom,Liberatore,WBD,MID,45168,6510,Luke,The Big Short
-30,290,owner,2016.0,298272,Touk,Miller,GCS,MID,300791,2016,Paul,At Witts End
-31,324,owner,20323.0,261510,Tom,Hawkins,GEE,FWD,10857,20323,Anthony,La MacRaena
-32,20,owner,23345.0,293222,Rory,Laird,ADE,DEF MID,180650,23345,Jordan,Pink Lloyd
-33,480,owner,23413.0,291861,Jed,Anderson,NTH,MID,8258,23413,Simon,The West Wingard
-34,395,owner,6510.0,294305,Lachie,Whitfield,GWS,DEF,45168,6510,Luke,The Big Short
-35,562,owner,2016.0,294318,Ollie,Wines,PTA,MID,300791,2016,Paul,At Witts End
-36,697,owner,23345.0,993834,Josh,Dunkley,WBD,FWD MID,180650,23345,Jordan,Pink Lloyd
-37,632,owner,23413.0,992468,Rowan,Marshall,STK,RUC FWD,8258,23413,Simon,The West Wingard
-38,322,owner,22859.0,290550,Cameron,Guthrie,GEE,MID,86078,22859,Lester,Ariana Grundy
-39,699,owner,2018.0,1004592,Tim,English,WBD,RUC,21562,2018,Mark,Surviving J.Kelly
-40,153,owner,20240.0,992010,Brayden,Maynard,COL,DEF,71052,20240,James,MakingTheirMarcus
-41,207,owner,23413.0,1001026,Jordan,Ridley,ESS,DEF,8258,23413,Simon,The West Wingard
-42,69,owner,6510.0,1000978,Hugh,McCluggage,BRL,MID,45168,6510,Luke,The Big Short
-43,696,owner,22859.0,295136,Caleb,Daniel,WBD,DEF,86078,22859,Lester,Ariana Grundy
-44,672,owner,2018.0,993905,Callum,Mills,SYD,DEF,21562,2018,Mark,Surviving J.Kelly
-45,221,owner,23345.0,1002232,Andrew,Brayshaw,FRE,MID,180650,23345,Jordan,Pink Lloyd
-46,127,owner,6510.0,1006094,Sam,Walsh,CAR,MID,45168,6510,Luke,The Big Short
-47,478,owner,23345.0,291902,Jack,Viney,MEL,MID,180650,23345,Jordan,Pink Lloyd
-48,138,owner,20323.0,293871,Jack,Crisp,COL,DEF,10857,20323,Anthony,La MacRaena
-49,254,owner,2018.0,281007,Michael,Walters,FRE,FWD MID,21562,2018,Mark,Surviving J.Kelly
-50,369,owner,22859.0,295265,Nick,Haynes,GWS,DEF,86078,22859,Lester,Ariana Grundy
-51,123,owner,20323.0,295461,Adam,Saad,CAR,DEF,10857,20323,Anthony,La MacRaena
-52,88,owner,23345.0,261224,Dayne,Zorko,BRL,FWD MID,180650,23345,Jordan,Pink Lloyd
-53,93,owner,23413.0,990704,Patrick,Cripps,CAR,MID,8258,23413,Simon,The West Wingard
-54,550,owner,20240.0,290746,Scott,Lycett,PTA,RUC,71052,20240,James,MakingTheirMarcus
-55,601,owner,6510.0,992049,Jayden,Short,RIC,DEF,45168,6510,Luke,The Big Short
-56,147,owner,2016.0,291313,Jeremy,Howe,COL,DEF,300791,2016,Paul,At Witts End
-57,749,owner,2018.0,295898,Tim,Kelly,WCE,MID,21562,2018,Mark,Surviving J.Kelly
-58,664,owner,20323.0,260382,Josh P.,Kennedy,SYD,MID,10857,20323,Anthony,La MacRaena
-59,96,owner,20240.0,270146,Ed,Curnow,CAR,MID,71052,20240,James,MakingTheirMarcus
-60,461,owner,22859.0,281085,Steven,May,MEL,DEF,86078,22859,Lester,Ariana Grundy
-61,382,owner,22859.0,998205,Harry,Perryman,GWS,MID,86078,22859,Lester,Ariana Grundy
-62,240,owner,20240.0,240052,David,Mundy,FRE,MID,71052,20240,James,MakingTheirMarcus
-63,507,owner,23413.0,993998,Jy,Simpkin,NTH,MID,8258,23413,Simon,The West Wingard
-64,532,owner,20323.0,280711,Charlie,Dixon,PTA,FWD,10857,20323,Anthony,La MacRaena
-65,626,owner,6510.0,991988,Zak,Jones,STK,MID,45168,6510,Luke,The Big Short
-66,718,owner,20323.0,1006130,Bailey,Smith,WBD,MID,10857,20323,Anthony,La MacRaena
-67,678,owner,6510.0,290307,Dane,Rampe,SYD,DEF,45168,6510,Luke,The Big Short
-68,541,owner,20240.0,261396,Robbie,Gray,PTA,FWD,71052,20240,James,MakingTheirMarcus
-69,544,owner,2018.0,994295,Dan,Houston,PTA,DEF,21562,2018,Mark,Surviving J.Kelly
-70,373,owner,23413.0,993903,Jacob,Hopper,GWS,MID,8258,23413,Simon,The West Wingard
-71,427,owner,2018.0,294613,Jaeger,O'Meara,HAW,MID,21562,2018,Mark,Surviving J.Kelly
-72,222,owner,23345.0,1002239,Adam,Cerra,FRE,MID,180650,23345,Jordan,Pink Lloyd
-73,604,owner,20323.0,294674,Nick,Vlastuin,RIC,DEF,10857,20323,Anthony,La MacRaena
-74,78,owner,20240.0,271072,Daniel,Rich,BRL,DEF,71052,20240,James,MakingTheirMarcus
-75,771,owner,20323.0,292128,Elliot,Yeo,WCE,MID,10857,20323,Anthony,La MacRaena
-76,761,owner,20323.0,296296,Dom,Sheed,WCE,MID,10857,20323,Anthony,La MacRaena
-77,37,owner,20323.0,270963,Rory,Sloane,ADE,MID,10857,20323,Anthony,La MacRaena
-78,529,owner,2016.0,1006121,Zak,Butters,PTA,FWD,300791,2016,Paul,At Witts End
-79,47,owner,6510.0,996059,Harris,Andrews,BRL,DEF,45168,6510,Luke,The Big Short
-80,472,owner,20240.0,296359,Christian,Salem,MEL,DEF,71052,20240,James,MakingTheirMarcus
-81,202,owner,20240.0,993817,Darcy,Parish,ESS,MID,71052,20240,James,MakingTheirMarcus
-82,583,owner,23345.0,250312,Bachar,Houli,RIC,DEF,180650,23345,Jordan,Pink Lloyd
-83,568,owner,23345.0,993993,Shai,Bolton,RIC,FWD MID,180650,23345,Jordan,Pink Lloyd
-84,752,owner,23413.0,294859,Jeremy,McGovern,WCE,DEF,8258,23413,Simon,The West Wingard
-85,653,owner,2016.0,992242,Jordan,Dawson,SYD,DEF,300791,2016,Paul,At Witts End
-86,8,owner,6510.0,1000932,Tom,Doedee,ADE,DEF,45168,6510,Luke,The Big Short
-87,770,owner,23345.0,998128,Alex,Witherden,WCE,DEF,180650,23345,Jordan,Pink Lloyd
-88,419,owner,2018.0,261323,Ben,McEvoy,HAW,DEF RUC,21562,2018,Mark,Surviving J.Kelly
-89,661,owner,2016.0,298539,Isaac,Heeney,SYD,FWD,300791,2016,Paul,At Witts End
-90,391,owner,2016.0,998172,Tim,Taranto,GWS,MID,300791,2016,Paul,At Witts End
-91,727,owner,2018.0,992351,Bailey,Williams,WBD,DEF,21562,2018,Mark,Surviving J.Kelly
-92,437,owner,23413.0,291962,Chad,Wingard,HAW,FWD,8258,23413,Simon,The West Wingard
-93,368,owner,2018.0,295344,Toby,Greene,GWS,FWD,21562,2018,Mark,Surviving J.Kelly
-94,594,owner,20323.0,290627,Dion,Prestia,RIC,MID,10857,20323,Anthony,La MacRaena
-95,581,owner,2018.0,990827,Jack,Graham,RIC,MID,21562,2018,Mark,Surviving J.Kelly
-96,584,owner,20323.0,290032,Kane,Lambert,RIC,FWD,10857,20323,Anthony,La MacRaena
-97,342,owner,2018.0,250321,Joel,Selwood,GEE,MID,21562,2018,Mark,Surviving J.Kelly
-98,71,owner,2018.0,1005521,Oscar,McInerney,BRL,RUC,21562,2018,Mark,Surviving J.Kelly
-99,591,owner,23413.0,298174,Toby,Nankervis,RIC,RUC,8258,23413,Simon,The West Wingard
-100,487,owner,2016.0,280921,Ben,Cunnington,NTH,MID,300791,2016,Paul,At Witts End
-101,302,owner,6510.0,290832,David,Swallow,GCS,MID,45168,6510,Luke,The Big Short
-102,38,owner,2018.0,291748,Brodie,Smith,ADE,DEF MID,21562,2018,Mark,Surviving J.Kelly
-103,107,owner,22859.0,1001398,Matthew,Kennedy,CAR,FWD MID,86078,22859,Lester,Ariana Grundy
-104,194,owner,23345.0,298630,Kyle,Langford,ESS,FWD MID,180650,23345,Jordan,Pink Lloyd
-105,18,owner,20323.0,993946,Ben,Keays,ADE,MID,10857,20323,Anthony,La MacRaena
-106,245,owner,6510.0,1009420,Caleb,Serong,FRE,MID,45168,6510,Luke,The Big Short
-107,140,owner,22859.0,994185,Jordan,De Goey,COL,FWD,86078,22859,Lester,Ariana Grundy
-108,738,owner,20323.0,290838,Jack,Darling,WCE,FWD,10857,20323,Anthony,La MacRaena
-109,488,owner,23413.0,1002267,Luke,Davies-Uniacke,NTH,MID,8258,23413,Simon,The West Wingard
-110,191,owner,20240.0,270935,Michael,Hurley,ESS,DEF,71052,20240,James,MakingTheirMarcus
-111,523,owner,22859.0,297354,Karl,Amon,PTA,MID,86078,22859,Lester,Ariana Grundy
-112,286,owner,6510.0,1004095,Jack,Lukosius,GCS,DEF,45168,6510,Luke,The Big Short
-113,35,owner,23413.0,294733,Paul,Seedsman,ADE,MID,8258,23413,Simon,The West Wingard
-114,676,owner,23413.0,996765,Tom,Papley,SYD,FWD,8258,23413,Simon,The West Wingard
-115,641,owner,20240.0,994389,Jack,Sinclair,STK,MID,71052,20240,James,MakingTheirMarcus
-116,49,owner,6510.0,1002312,Zac,Bailey,BRL,FWD MID,45168,6510,Luke,The Big Short
-117,228,owner,2016.0,998145,Sean,Darcy,FRE,RUC,300791,2016,Paul,At Witts End
-118,459,owner,23345.0,298281,Jake,Lever,MEL,DEF,180650,23345,Jordan,Pink Lloyd
-119,566,owner,23413.0,1000223,Liam,Baker,RIC,DEF,8258,23413,Simon,The West Wingard
-120,113,owner,20323.0,297907,Nic,Newman,CAR,DEF,10857,20323,Anthony,La MacRaena
-121,393,owner,23345.0,280109,Callan,Ward,GWS,MID,180650,23345,Jordan,Pink Lloyd
-122,760,owner,23413.0,1004364,Liam,Ryan,WCE,FWD,8258,23413,Simon,The West Wingard
-123,351,owner,23413.0,292511,Zach,Tuohy,GEE,MID,8258,23413,Simon,The West Wingard
-124,128,owner,23413.0,993832,Jacob,Weitering,CAR,DEF,8258,23413,Simon,The West Wingard
-125,433,owner,2016.0,998114,Jack,Scrimshaw,HAW,DEF,300791,2016,Paul,At Witts End
-126,344,owner,6510.0,294877,Isaac,Smith,GEE,FWD MID,45168,6510,Luke,The Big Short
-127,617,owner,23345.0,294429,Luke,Dunstan,STK,MID,180650,23345,Jordan,Pink Lloyd
-128,493,owner,2016.0,296735,Aaron,Hall,NTH,FWD,300791,2016,Paul,At Witts End
-129,62,owner,22859.0,993953,Eric,Hipwood,BRL,FWD,86078,22859,Lester,Ariana Grundy
-130,553,owner,20240.0,290527,Trent,McKenzie,PTA,DEF,71052,20240,James,MakingTheirMarcus
-131,400,owner,20240.0,291327,Jonathon,Ceglar,HAW,RUC,71052,20240,James,MakingTheirMarcus
-132,662,owner,20240.0,294036,George,Hewett,SYD,MID,71052,20240,James,MakingTheirMarcus
-133,737,owner,20323.0,290826,Jamie,Cripps,WCE,FWD,10857,20323,Anthony,La MacRaena
-134,154,owner,23413.0,280416,Chris,Mayne,COL,MID,8258,23413,Simon,The West Wingard
-135,409,owner,23413.0,993794,Blake,Hardwick,HAW,DEF,8258,23413,Simon,The West Wingard
-136,210,owner,2018.0,990606,Will,Snelling,ESS,FWD,21562,2018,Mark,Surviving J.Kelly
-137,636,owner,23345.0,294596,Tim,Membrey,STK,FWD,180650,23345,Jordan,Pink Lloyd
-138,141,owner,2018.0,293801,Jamie,Elliott,COL,FWD MID,21562,2018,Mark,Surviving J.Kelly
-139,295,owner,22859.0,1007881,Wil,Powell,GCS,DEF,86078,22859,Lester,Ariana Grundy
-140,509,owner,20240.0,1002240,Jaidyn,Stephenson,NTH,FWD,71052,20240,James,MakingTheirMarcus
-141,449,owner,6510.0,297899,James,Harmes,MEL,DEF,45168,6510,Luke,The Big Short
-142,698,owner,23413.0,290085,Taylor,Duryea,WBD,DEF FWD,8258,23413,Simon,The West Wingard
-143,72,owner,20240.0,297504,Daniel,McStay,BRL,FWD,71052,20240,James,MakingTheirMarcus
-144,188,owner,6510.0,297452,Nick,Hind,ESS,FWD,45168,6510,Luke,The Big Short
-145,715,owner,22859.0,1002404,Aaron,Naughton,WBD,FWD,86078,22859,Lester,Ariana Grundy
-146,679,owner,23345.0,290188,Sam,Reid,SYD,FWD,180650,23345,Jordan,Pink Lloyd
-147,326,owner,2016.0,1000937,Jack,Henry,GEE,DEF,300791,2016,Paul,At Witts End
-148,476,owner,23413.0,291819,Adam,Tomlinson,MEL,DEF MID,8258,23413,Simon,The West Wingard
-149,392,owner,23345.0,1005247,Sam,Taylor,GWS,DEF,180650,23345,Jordan,Pink Lloyd
-150,462,owner,20323.0,291533,Tom,McDonald,MEL,FWD,10857,20323,Anthony,La MacRaena
-151,522,owner,23345.0,294469,Aliir,Aliir,PTA,DEF,180650,23345,Jordan,Pink Lloyd
-152,187,owner,2016.0,290629,Dyson,Heppell,ESS,MID,300791,2016,Paul,At Witts End
-153,528,owner,22859.0,992128,Ryan,Burton,PTA,DEF,86078,22859,Lester,Ariana Grundy
-154,453,owner,2018.0,1009399,Luke,Jackson,MEL,FWD,21562,2018,Mark,Surviving J.Kelly
-155,27,owner,2016.0,990882,Wayne,Milera,ADE,DEF,300791,2016,Paul,At Witts End
-156,656,owner,2016.0,240399,Lance,Franklin,SYD,FWD,300791,2016,Paul,At Witts End
-157,533,owner,23345.0,1000972,Willem,Drew,PTA,MID,180650,23345,Jordan,Pink Lloyd
-158,422,owner,20240.0,1006314,Dylan,Moore,HAW,FWD,71052,20240,James,MakingTheirMarcus
-159,274,owner,22859.0,993799,Brayden,Fiorini,GCS,MID,86078,22859,Lester,Ariana Grundy
-160,695,owner,6510.0,996708,Bailey,Dale,WBD,FWD,45168,6510,Luke,The Big Short
-161,43,owner,20240.0,280506,Taylor,Walker,ADE,FWD,71052,20240,James,MakingTheirMarcus
-162,758,owner,23413.0,296225,Willie,Rioli,WCE,FWD,8258,23413,Simon,The West Wingard
-163,213,owner,6510.0,298289,Peter,Wright,ESS,FWD,45168,6510,Luke,The Big Short
-164,512,owner,20323.0,1005729,Tarryn,Thomas,NTH,FWD,10857,20323,Anthony,La MacRaena
-165,360,owner,20240.0,1001396,Isaac,Cumming,GWS,DEF,71052,20240,James,MakingTheirMarcus
-166,212,owner,20240.0,293884,Jake,Stringer,ESS,FWD,71052,20240,James,MakingTheirMarcus
-167,603,owner,2018.0,1002583,Sydney,Stack,RIC,MID FWD,21562,2018,Mark,Surviving J.Kelly
-168,663,owner,23345.0,294266,Tom,Hickey,SYD,RUC,180650,23345,Jordan,Pink Lloyd
-169,520,owner,22859.0,280944,Jack,Ziebell,NTH,FWD,86078,22859,Lester,Ariana Grundy
-170,58,owner,2016.0,294518,Joe,Daniher,BRL,FWD,300791,2016,Paul,At Witts End
-171,755,owner,22859.0,1008282,Xavier,O'Neill,WCE,FWD MID,86078,22859,Lester,Ariana Grundy
-172,782,owner,22859.0,290199,Majak,Daw,MEL,FWD,86078,22859,Lester,Ariana Grundy
-173,29,owner,2016.0,1016082,Tariek,Newchurch,ADE,MID FWD,300791,2016,Paul,At Witts End
-174,796,owner,2018.0,1020959,Daniel,Turner,MEL,DEF,21562,2018,Mark,Surviving J.Kelly
-175,804,owner,2018.0,1011436,Will,Collins,WCE,DEF,21562,2018,Mark,Surviving J.Kelly
+,player_id,trade_status,user_team_id,waiver_until,feed_id,first_name,last_name,team,position,coach_id,coach_team_id,coach_first_name,coach_team_name
+0,714,owner,5535.0,,295467,Jack,Macrae,WBD,MID,300791,5535,Paul,We're the Millers
+1,643,owner,10882.0,,296205,Jack,Steele,STK,MID,71052,10882,James,Take Me To Parish
+2,292,owner,5535.0,,298272,Touk,Miller,GCS,MID,300791,5535,Paul,We're the Millers
+3,463,owner,5535.0,,996701,Clayton,Oliver,MEL,MID,300791,5535,Paul,We're the Millers
+4,447,owner,14003.0,,290528,Max,Gawn,MEL,RUC,45168,14003,Luke,Gov Is In The Air
+5,693,owner,10836.0,,297373,Marcus,Bontempelli,WBD,FWD MID,10857,10836,Anthony,Cumming for the DB
+6,232,owner,63015.0,,998145,Sean,Darcy,FRE,RUC,180650,63015,Jordan,Wolf of Walsh St
+7,65,owner,14003.0,,293716,Jarryd,Lyons,BRL,MID,45168,14003,Luke,Gov Is In The Air
+8,419,owner,10836.0,,291856,Tom,Mitchell,HAW,MID,10857,10836,Anthony,Cumming for the DB
+9,128,owner,10883.0,,1006094,Sam,Walsh,CAR,MID,86078,10883,Lester,Love is Hind
+10,19,owner,10836.0,,293222,Rory,Laird,ADE,MID,10857,10836,Anthony,Cumming for the DB
+11,757,owner,10882.0,,271045,Nic,Naitanui,WCE,RUC,71052,10882,James,Take Me To Parish
+12,149,owner,10883.0,,293957,Brodie,Grundy,COL,RUC,86078,10883,Lester,Love is Hind
+13,203,owner,14003.0,,992016,Zach,Merrett,ESS,MID,45168,14003,Luke,Gov Is In The Air
+14,204,owner,10882.0,,993817,Darcy,Parish,ESS,MID,71052,10882,James,Take Me To Parish
+15,321,owner,63015.0,,290550,Cameron,Guthrie,GEE,MID,180650,63015,Jordan,Wolf of Walsh St
+16,563,owner,10836.0,,294318,Ollie,Wines,PTA,MID,10857,10836,Anthony,Cumming for the DB
+17,672,owner,5535.0,,993905,Callum,Mills,SYD,MID,300791,5535,Paul,We're the Millers
+18,464,owner,10834.0,,298210,Christian,Petracca,MEL,MID,21562,10834,Mark,Dunkley's Donuts
+19,88,owner,10836.0,,261224,Dayne,Zorko,BRL,DEF MID,10857,10836,Anthony,Cumming for the DB
+20,677,owner,10834.0,,290778,Luke,Parker,SYD,FWD MID,21562,10834,Mark,Dunkley's Donuts
+21,665,owner,5535.0,,295342,Jake,Lloyd,SYD,DEF,300791,5535,Paul,We're the Millers
+22,346,owner,5535.0,,291800,Tom,Stewart,GEE,DEF,300791,5535,Paul,We're the Millers
+23,225,owner,10883.0,,1002232,Andrew,Brayshaw,FRE,MID,86078,10883,Lester,Love is Hind
+24,78,owner,5535.0,,271072,Daniel,Rich,BRL,DEF,300791,5535,Paul,We're the Millers
+25,378,owner,14003.0,,296347,Josh,Kelly,GWS,MID,45168,14003,Luke,Gov Is In The Air
+26,525,owner,10836.0,,250365,Travis,Boak,PTA,MID,10857,10836,Anthony,Cumming for the DB
+27,496,owner,10883.0,,296735,Aaron,Hall,NTH,DEF,86078,10883,Lester,Love is Hind
+28,141,owner,10834.0,,293871,Jack,Crisp,COL,DEF MID,21562,10834,Mark,Dunkley's Donuts
+29,316,owner,10834.0,,270917,Patrick,Dangerfield,GEE,MID,21562,10834,Mark,Dunkley's Donuts
+30,662,owner,10882.0,,294266,Tom,Hickey,SYD,RUC,71052,10882,James,Take Me To Parish
+31,713,owner,10883.0,,290799,Tom,Liberatore,WBD,FWD MID,86078,10883,Lester,Love is Hind
+32,18,owner,10834.0,,993946,Ben,Keays,ADE,MID,21562,10834,Mark,Dunkley's Donuts
+33,702,owner,10834.0,,993834,Josh,Dunkley,WBD,MID FWD,21562,10834,Mark,Dunkley's Donuts
+34,8,owner,10836.0,,992242,Jordan,Dawson,ADE,DEF MID,10857,10836,Anthony,Cumming for the DB
+35,339,owner,10836.0,,250321,Joel,Selwood,GEE,MID,10857,10836,Anthony,Cumming for the DB
+36,494,owner,5535.0,,271129,Todd,Goldstein,NTH,FWD RUC,300791,5535,Paul,We're the Millers
+37,235,owner,5535.0,,291570,Nat,Fyfe,FRE,MID,300791,5535,Paul,We're the Millers
+38,69,owner,10834.0,,1000978,Hugh,McCluggage,BRL,MID,21562,10834,Mark,Dunkley's Donuts
+39,74,owner,10883.0,,293535,Lachie,Neale,BRL,MID,86078,10883,Lester,Love is Hind
+40,189,owner,10834.0,,290629,Dyson,Heppell,ESS,DEF,21562,10834,Mark,Dunkley's Donuts
+41,246,owner,10834.0,,998659,Luke,Ryan,FRE,DEF,21562,10834,Mark,Dunkley's Donuts
+42,319,owner,63015.0,,281065,Mitch,Duncan,GEE,MID FWD,180650,63015,Jordan,Wolf of Walsh St
+43,209,owner,10836.0,,1001026,Jordan,Ridley,ESS,DEF,10857,10836,Anthony,Cumming for the DB
+44,633,owner,11125.0,,992468,Rowan,Marshall,STK,FWD RUC,8258,11125,Simon,Sloane Andreas
+45,601,owner,63015.0,,992049,Jayden,Short,RIC,DEF MID,180650,63015,Jordan,Wolf of Walsh St
+46,99,owner,5535.0,,295518,Sam,Docherty,CAR,DEF,300791,5535,Paul,We're the Millers
+47,390,owner,10883.0,,998172,Tim,Taranto,GWS,MID FWD,86078,10883,Lester,Love is Hind
+48,510,owner,14003.0,,993998,Jy,Simpkin,NTH,MID,45168,14003,Luke,Gov Is In The Air
+49,426,owner,63015.0,,294613,Jaeger,O'Meara,HAW,MID,180650,63015,Jordan,Wolf of Walsh St
+50,375,owner,11125.0,,993903,Jacob,Hopper,GWS,MID,8258,11125,Simon,Sloane Andreas
+51,29,owner,14003.0,,297523,Reilly,O'Brien,ADE,RUC,45168,14003,Luke,Gov Is In The Air
+52,699,owner,10883.0,,996708,Bailey,Dale,WBD,DEF,86078,10883,Lester,Love is Hind
+53,133,owner,14003.0,,291776,Taylor,Adams,COL,MID,45168,14003,Luke,Gov Is In The Air
+54,548,owner,10883.0,,290746,Scott,Lycett,PTA,RUC,86078,10883,Lester,Love is Hind
+55,323,owner,11125.0,,261510,Tom,Hawkins,GEE,FWD,8258,11125,Simon,Sloane Andreas
+56,700,owner,14003.0,,295136,Caleb,Daniel,WBD,DEF,45168,14003,Luke,Gov Is In The Air
+57,71,owner,10834.0,,1005521,Oscar,McInerney,BRL,RUC,21562,10834,Mark,Dunkley's Donuts
+58,590,owner,10883.0,,298174,Toby,Nankervis,RIC,RUC,86078,10883,Lester,Love is Hind
+59,523,owner,63015.0,,297354,Karl,Amon,PTA,MID,180650,63015,Jordan,Wolf of Walsh St
+60,495,owner,11125.0,,281091,Hugh,Greenwood,NTH,MID,8258,11125,Simon,Sloane Andreas
+61,190,owner,10883.0,,297452,Nick,Hind,ESS,DEF,86078,10883,Lester,Love is Hind
+62,392,owner,5535.0,,280109,Callan,Ward,GWS,MID,300791,5535,Paul,We're the Millers
+63,361,owner,10836.0,,1001396,Isaac,Cumming,GWS,DEF,10857,10836,Anthony,Cumming for the DB
+64,586,owner,5535.0,,290847,Dustin,Martin,RIC,MID FWD,300791,5535,Paul,We're the Millers
+65,394,owner,14003.0,,294305,Lachie,Whitfield,GWS,DEF MID,45168,14003,Luke,Gov Is In The Air
+66,161,owner,63015.0,,992010,Brayden,Maynard,COL,DEF,180650,63015,Jordan,Wolf of Walsh St
+67,383,owner,14003.0,,998205,Harry,Perryman,GWS,DEF MID,45168,14003,Luke,Gov Is In The Air
+68,762,owner,10834.0,,281373,Jack,Redden,WCE,MID,21562,10834,Mark,Dunkley's Donuts
+69,748,owner,11125.0,,290801,Andrew,Gaff,WCE,MID,8258,11125,Simon,Sloane Andreas
+70,369,owner,14003.0,,295344,Toby,Greene,GWS,FWD,45168,14003,Luke,Gov Is In The Air
+71,456,owner,10836.0,,298281,Jake,Lever,MEL,DEF,10857,10836,Anthony,Cumming for the DB
+72,750,owner,10834.0,,240283,Shannon,Hurn,WCE,DEF,21562,10834,Mark,Dunkley's Donuts
+73,170,owner,11125.0,,260257,Scott,Pendlebury,COL,DEF MID,8258,11125,Simon,Sloane Andreas
+74,457,owner,10882.0,,281085,Steven,May,MEL,DEF,71052,10882,James,Take Me To Parish
+75,618,owner,63015.0,,294307,Brad,Crouch,STK,MID,180650,63015,Jordan,Wolf of Walsh St
+76,92,owner,14003.0,,1002239,Adam,Cerra,CAR,MID,45168,14003,Luke,Gov Is In The Air
+77,303,owner,63015.0,,290832,David,Swallow,GCS,DEF MID,180650,63015,Jordan,Wolf of Walsh St
+78,166,owner,10882.0,,298288,Darcy,Moore,COL,DEF,71052,10882,James,Take Me To Parish
+79,278,owner,10836.0,,293713,Brandon,Ellis,GCS,DEF MID,10857,10836,Anthony,Cumming for the DB
+80,341,owner,10836.0,,294877,Isaac,Smith,GEE,FWD MID,10857,10836,Anthony,Cumming for the DB
+81,532,owner,11125.0,,280711,Charlie,Dixon,PTA,FWD,8258,11125,Simon,Sloane Andreas
+82,417,owner,10882.0,,261323,Ben,McEvoy,HAW,RUC FWD,71052,10882,James,Take Me To Parish
+83,729,owner,10882.0,,291790,Adam,Treloar,WBD,MID FWD,71052,10882,James,Take Me To Parish
+84,704,owner,10836.0,,1004592,Tim,English,WBD,RUC FWD,10857,10836,Anthony,Cumming for the DB
+85,6,owner,11125.0,,297401,Matt,Crouch,ADE,MID,8258,11125,Simon,Sloane Andreas
+86,342,owner,63015.0,,280317,Rhys,Stanley,GEE,RUC,180650,63015,Jordan,Wolf of Walsh St
+87,348,owner,10834.0,,292511,Zach,Tuohy,GEE,DEF MID,21562,10834,Mark,Dunkley's Donuts
+88,391,owner,11125.0,,1005247,Sam,Taylor,GWS,DEF,8258,11125,Simon,Sloane Andreas
+89,175,owner,10834.0,,280965,Steele,Sidebottom,COL,MID FWD,21562,10834,Mark,Dunkley's Donuts
+90,448,owner,14003.0,,297899,James,Harmes,MEL,FWD MID,45168,14003,Luke,Gov Is In The Air
+91,367,owner,63015.0,,993902,Matt,Flynn,GWS,RUC,180650,63015,Jordan,Wolf of Walsh St
+92,726,owner,10834.0,,1006130,Bailey,Smith,WBD,FWD MID,21562,10834,Mark,Dunkley's Donuts
+93,533,owner,10883.0,,1000972,Willem,Drew,PTA,MID,86078,10883,Lester,Love is Hind
+94,774,owner,63015.0,,998128,Alex,Witherden,WCE,DEF,180650,63015,Jordan,Wolf of Walsh St
+95,642,owner,14003.0,,994389,Jack,Sinclair,STK,DEF MID,45168,14003,Luke,Gov Is In The Air
+96,43,owner,10882.0,,280506,Taylor,Walker,ADE,FWD,71052,10882,James,Take Me To Parish
+97,543,owner,5535.0,,994295,Dan,Houston,PTA,DEF MID,300791,5535,Paul,We're the Millers
+98,9,owner,11125.0,,1000932,Tom,Doedee,ADE,DEF,8258,11125,Simon,Sloane Andreas
+99,753,owner,10883.0,,295898,Tim,Kelly,WCE,MID,86078,10883,Lester,Love is Hind
+100,202,owner,10836.0,,998102,Andrew,McGrath,ESS,MID,10857,10836,Anthony,Cumming for the DB
+101,594,owner,11125.0,,290627,Dion,Prestia,RIC,MID,8258,11125,Simon,Sloane Andreas
+102,144,owner,11125.0,,994185,Jordan,De Goey,COL,MID FWD,8258,11125,Simon,Sloane Andreas
+103,122,owner,5535.0,,298290,Marc,Pittonet,CAR,RUC,300791,5535,Paul,We're the Millers
+104,490,owner,10882.0,,1002267,Luke,Davies-Uniacke,NTH,MID,71052,10882,James,Take Me To Parish
+105,657,owner,10836.0,,240399,Lance,Franklin,SYD,FWD,10857,10836,Anthony,Cumming for the DB
+106,606,owner,5535.0,,294674,Nick,Vlastuin,RIC,DEF,300791,5535,Paul,We're the Millers
+107,38,owner,14003.0,,291748,Brodie,Smith,ADE,DEF,45168,14003,Luke,Gov Is In The Air
+108,568,owner,10836.0,,993993,Shai,Bolton,RIC,FWD MID,10857,10836,Anthony,Cumming for the DB
+109,581,owner,10836.0,,990827,Jack,Graham,RIC,MID FWD,10857,10836,Anthony,Cumming for the DB
+110,310,owner,63015.0,,296733,Mark,Blicavs,GEE,DEF RUC,180650,63015,Jordan,Wolf of Walsh St
+111,430,owner,10836.0,,998114,Jack,Scrimshaw,HAW,DEF,10857,10836,Anthony,Cumming for the DB
+112,262,owner,14003.0,,1009199,Noah,Anderson,GCS,MID,45168,14003,Luke,Gov Is In The Air
+113,94,owner,63015.0,,990704,Patrick,Cripps,CAR,MID,180650,63015,Jordan,Wolf of Walsh St
+114,661,owner,10834.0,,298539,Isaac,Heeney,SYD,FWD MID,21562,10834,Mark,Dunkley's Donuts
+115,477,owner,10882.0,,291902,Jack,Viney,MEL,MID,71052,10882,James,Take Me To Parish
+116,454,owner,10834.0,,298264,Ed,Langdon,MEL,MID,21562,10834,Mark,Dunkley's Donuts
+117,610,owner,10882.0,,296351,Jack,Billings,STK,MID,71052,10882,James,Take Me To Parish
+118,248,owner,10882.0,,1009420,Caleb,Serong,FRE,MID,71052,10882,James,Take Me To Parish
+119,124,owner,10836.0,,295461,Adam,Saad,CAR,DEF,10857,10836,Anthony,Cumming for the DB
+120,565,owner,10834.0,,1000223,Liam,Baker,RIC,DEF FWD,21562,10834,Mark,Dunkley's Donuts
+121,433,owner,10882.0,,297566,James,Sicily,HAW,DEF,71052,10882,James,Take Me To Parish
+122,217,owner,10883.0,,298289,Peter,Wright,ESS,RUC FWD,86078,10883,Lester,Love is Hind
+123,529,owner,11125.0,,1006121,Zak,Butters,PTA,FWD MID,8258,11125,Simon,Sloane Andreas
+124,311,owner,5535.0,,293845,Jeremy,Cameron,GEE,FWD,300791,5535,Paul,We're the Millers
+125,108,owner,63015.0,,1001398,Matthew,Kennedy,CAR,MID,180650,63015,Jordan,Wolf of Walsh St
+126,767,owner,11125.0,,280078,Luke,Shuey,WCE,MID,8258,11125,Simon,Sloane Andreas
+127,680,owner,63015.0,,290188,Sam,Reid,SYD,FWD,180650,63015,Jordan,Wolf of Walsh St
+128,737,owner,14003.0,,990290,Tom,Barrass,WCE,DEF,45168,14003,Luke,Gov Is In The Air
+129,368,owner,10883.0,,1009528,Tom,Green,GWS,MID,86078,10883,Lester,Love is Hind
+130,639,owner,63015.0,,293846,Sebastian,Ross,STK,MID,180650,63015,Jordan,Wolf of Walsh St
+131,147,owner,10882.0,,293801,Jamie,Elliott,COL,FWD,71052,10882,James,Take Me To Parish
+132,153,owner,10882.0,,291313,Jeremy,Howe,COL,DEF,71052,10882,James,Take Me To Parish
+133,113,owner,63015.0,,1000953,Harry,McKay,CAR,FWD,180650,63015,Jordan,Wolf of Walsh St
+134,138,owner,11125.0,,990291,Darcy,Cameron,COL,FWD RUC,8258,11125,Simon,Sloane Andreas
+135,260,owner,10883.0,,1009256,Hayden,Young,FRE,DEF,86078,10883,Lester,Love is Hind
+136,420,owner,11125.0,,1006314,Dylan,Moore,HAW,FWD,8258,11125,Simon,Sloane Andreas
+137,308,owner,14003.0,,994386,Tom,Atkins,GEE,DEF MID,45168,14003,Luke,Gov Is In The Air
+138,659,owner,10836.0,,1013128,Errol,Gulden,SYD,FWD MID,10857,10836,Anthony,Cumming for the DB
+139,569,owner,63015.0,,295203,Nathan,Broad,RIC,DEF,180650,63015,Jordan,Wolf of Walsh St
+140,207,owner,11125.0,,997078,Mason,Redman,ESS,DEF,8258,11125,Simon,Sloane Andreas
+141,530,owner,11125.0,,991930,Darcy,Byrne-Jones,PTA,DEF,8258,11125,Simon,Sloane Andreas
+142,528,owner,10883.0,,992128,Ryan,Burton,PTA,DEF,86078,10883,Lester,Love is Hind
+143,480,owner,10883.0,,291861,Jed,Anderson,NTH,MID FWD,86078,10883,Lester,Love is Hind
+144,557,owner,10882.0,,1001299,Connor,Rozee,PTA,FWD MID,71052,10882,James,Take Me To Parish
+145,104,owner,10882.0,,294036,George,Hewett,CAR,DEF MID,71052,10882,James,Take Me To Parish
+146,183,owner,10836.0,,1005577,Sam,Draper,ESS,RUC,10857,10836,Anthony,Cumming for the DB
+147,240,owner,63015.0,,990740,Rory,Lobb,FRE,FWD,180650,63015,Jordan,Wolf of Walsh St
+148,625,owner,63015.0,,295584,Bradley,Hill,STK,DEF FWD,180650,63015,Jordan,Wolf of Walsh St
+149,373,owner,14003.0,,993107,Harry,Himmelberg,GWS,DEF FWD,45168,14003,Luke,Gov Is In The Air
+150,452,owner,10834.0,,1009399,Luke,Jackson,MEL,RUC FWD,21562,10834,Mark,Dunkley's Donuts
+151,719,owner,14003.0,,1002404,Aaron,Naughton,WBD,FWD,45168,14003,Luke,Gov Is In The Air
+152,676,owner,10882.0,,996765,Tom,Papley,SYD,FWD,71052,10882,James,Take Me To Parish
+153,584,owner,63015.0,,293813,Tom J.,Lynch,RIC,FWD,180650,63015,Jordan,Wolf of Walsh St
+154,307,owner,5535.0,,291975,Jarrod,Witts,GCS,RUC,300791,5535,Paul,We're the Millers
+155,689,owner,10883.0,,1012014,Chad,Warner,SYD,MID,86078,10883,Lester,Love is Hind
+156,502,owner,10834.0,,296355,Luke,McDonald,NTH,DEF MID,21562,10834,Mark,Dunkley's Donuts
+157,538,owner,5535.0,,298111,Jeremy,Finlayson,PTA,FWD RUC,300791,5535,Paul,We're the Millers
+158,440,owner,11125.0,,298279,Angus,Brayshaw,MEL,DEF MID,8258,11125,Simon,Sloane Andreas
+159,526,owner,11125.0,,994599,Riley,Bonner,PTA,DEF MID,8258,11125,Simon,Sloane Andreas
+160,210,owner,14003.0,,291783,Dylan,Shiel,ESS,MID,45168,14003,Luke,Gov Is In The Air
+161,158,owner,5535.0,,1003130,Patrick,Lipinski,COL,FWD MID,300791,5535,Paul,We're the Millers
+162,412,owner,10882.0,,1000887,Mitch,Lewis,HAW,FWD,71052,10882,James,Take Me To Parish
+163,219,owner,11125.0,,296294,Blake,Acres,FRE,MID,8258,11125,Simon,Sloane Andreas
+164,300,owner,10882.0,,1009208,Matt,Rowell,GCS,MID,71052,10882,James,Take Me To Parish
+165,228,owner,63015.0,,1006152,Jordan,Clark,FRE,DEF MID,180650,63015,Jordan,Wolf of Walsh St
+166,67,owner,10882.0,,993828,Rhys,Mathieson,BRL,MID,71052,10882,James,Take Me To Parish
+167,597,owner,10883.0,,1000981,Daniel,Rioli,RIC,DEF FWD,86078,10883,Lester,Love is Hind
+168,132,owner,10834.0,,997316,Lewis,Young,CAR,DEF RUC,21562,10834,Mark,Dunkley's Donuts
+169,98,owner,11125.0,,1004912,Tom,De Koning,CAR,FWD RUC,8258,11125,Simon,Sloane Andreas
+170,651,owner,10882.0,,1006028,Nick,Blakey,SYD,DEF,71052,10882,James,Take Me To Parish
+171,298,owner,5535.0,,1001195,Izak,Rankine,GCS,FWD,300791,5535,Paul,We're the Millers
+172,620,owner,5535.0,,298421,Jade,Gresham,STK,MID FWD,300791,5535,Paul,We're the Millers
+173,50,owner,10834.0,,998133,Jarrod,Berry,BRL,MID,21562,10834,Mark,Dunkley's Donuts
+174,180,owner,5535.0,,1006103,Jye,Caldwell,ESS,MID,300791,5535,Paul,We're the Millers
+175,55,owner,10883.0,,1006059,Keidean,Coleman,BRL,DEF FWD,86078,10883,Lester,Love is Hind
+176,360,owner,10883.0,,291969,Stephen,Coniglio,GWS,MID FWD,86078,10883,Lester,Love is Hind
+177,424,owner,14003.0,,1020895,Jai,Newcombe,HAW,MID,45168,14003,Luke,Gov Is In The Air
+178,1,owner,10836.0,,1012807,Sam,Berry,ADE,FWD MID,10857,10836,Anthony,Cumming for the DB
+179,96,owner,14003.0,,996731,Charlie,Curnow,CAR,FWD,45168,14003,Luke,Gov Is In The Air
+180,226,owner,5535.0,,998129,Will,Brodie,FRE,MID FWD,300791,5535,Paul,We're the Millers
+181,384,owner,10834.0,,992644,Braydon,Preuss,GWS,RUC,21562,10834,Mark,Dunkley's Donuts
+182,143,owner,10883.0,,1023261,Nick,Daicos,COL,DEF MID,86078,10883,Lester,Love is Hind
+183,779,owner,11125.0,,1012013,Nic,Martin,ESS,FWD MID,8258,11125,Simon,Sloane Andreas

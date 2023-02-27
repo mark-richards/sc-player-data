@@ -1,630 +1,627 @@
-,player_id,trade_status,user_team_id,feed_id,first_name,last_name,team,position
-32,278,free_agent,,281091,Hugh,Greenwood,GCS,MID
-39,319,free_agent,,281065,Mitch,Duncan,GEE,MID
-41,436,free_agent,,297566,James,Sicily,HAW,DEF
-42,345,free_agent,,280317,Rhys,Stanley,GEE,RUC
-45,208,free_agent,,291783,Dylan,Shiel,ESS,MID
-51,489,free_agent,,296035,Trent,Dumont,NTH,MID
-53,586,free_agent,,290847,Dustin,Martin,RIC,FWD MID
-54,348,free_agent,,291800,Tom,Stewart,GEE,DEF
-57,310,free_agent,,296733,Mark,Blicavs,GEE,DEF MID
-59,359,free_agent,,291969,Stephen,Coniglio,GWS,MID
-64,51,free_agent,,998133,Jarrod,Berry,BRL,MID
-69,607,free_agent,,296351,Jack,Billings,STK,MID
-71,498,free_agent,,296355,Luke,McDonald,NTH,DEF
-73,327,free_agent,,260227,Shaun,Higgins,GEE,MID
-74,198,free_agent,,998102,Andrew,McGrath,ESS,MID
-75,763,free_agent,,280078,Luke,Shuey,WCE,MID
-77,640,free_agent,,250267,Paddy,Ryder,STK,RUC
-80,307,free_agent,,291975,Jarrod,Witts,GCS,RUC
-83,98,free_agent,,295518,Sam,Docherty,CAR,DEF
-84,298,free_agent,,1009208,Matt,Rowell,GCS,MID
-87,762,free_agent,,281080,Brad,Sheppard,WCE,DEF
-93,457,free_agent,,298264,Ed,Langdon,MEL,MID
-98,124,free_agent,,998215,Will,Setterfield,CAR,MID
-100,504,free_agent,,290738,Jared,Polec,NTH,MID
-101,744,free_agent,,240283,Shannon,Hurn,WCE,DEF
-102,438,free_agent,,1002222,James,Worpel,HAW,MID
-109,510,free_agent,,270325,Robbie,Tarrant,NTH,DEF
-112,547,free_agent,,997142,Peter,Ladhams,PTA,RUC FWD
-114,129,free_agent,,294685,Zac,Williams,CAR,DEF
-115,209,free_agent,,291771,Devon,Smith,ESS,MID
-119,339,free_agent,,298419,Brandan,Parfitt,GEE,MID
-122,216,free_agent,,296294,Blake,Acres,FRE,MID
-125,263,free_agent,,998260,Jack,Bowes,GCS,DEF
-126,272,free_agent,,293713,Brandon,Ellis,GCS,MID
-127,616,free_agent,,294307,Brad,Crouch,STK,MID
-128,739,free_agent,,298268,Liam,Duggan,WCE,DEF
-130,705,free_agent,,294101,Jason,Johannisen,WBD,DEF
-131,733,free_agent,,990290,Tom,Barrass,WCE,DEF
-134,109,free_agent,,296190,Jack,Martin,CAR,FWD
-137,576,free_agent,,270896,Trent,Cotchin,RIC,MID
-140,139,free_agent,,1005054,Josh,Daicos,COL,MID
-141,530,free_agent,,991930,Darcy,Byrne-Jones,PTA,DEF
-143,612,free_agent,,1002264,Hunter,Clark,STK,DEF
-146,407,free_agent,,291351,Jack,Gunston,HAW,FWD
-147,396,free_agent,,280744,Luke,Breust,HAW,FWD
-148,620,free_agent,,298421,Jade,Gresham,STK,MID
-151,306,free_agent,,298524,Lachie,Weller,GCS,MID
-155,443,free_agent,,298279,Angus,Brayshaw,MEL,MID
-157,226,free_agent,,997033,Brennan,Cox,FRE,DEF
-162,159,free_agent,,298288,Darcy,Moore,COL,DEF
-164,710,free_agent,,1003130,Patrick,Lipinski,WBD,MID
-167,614,free_agent,,1005717,Nick,Coffield,STK,DEF
-168,267,free_agent,,295446,Sam,Collins,GCS,DEF
-169,732,free_agent,,1004385,Oscar,Allen,WCE,FWD
-170,542,free_agent,,261892,Hamish,Hartlett,PTA,DEF
-171,120,free_agent,,298290,Marc,Pittonet,CAR,RUC
-172,380,free_agent,,280762,Shane,Mumford,GWS,RUC
-175,435,free_agent,,280737,Liam,Shiels,HAW,MID
-176,622,free_agent,,1002227,Jack,Higgins,STK,FWD
-179,80,free_agent,,290311,Mitch,Robinson,BRL,MID
-180,639,free_agent,,293846,Sebastian,Ross,STK,MID
-181,608,free_agent,,992374,Dan,Butler,STK,FWD
-182,579,free_agent,,260930,Shane,Edwards,RIC,MID
-184,237,free_agent,,990740,Rory,Lobb,FRE,RUC FWD
-185,683,free_agent,,294737,Callum,Sinclair,SYD,RUC
-186,401,free_agent,,1000959,James,Cousins,HAW,MID
-187,260,free_agent,,1009199,Noah,Anderson,GCS,MID
-190,694,free_agent,,293651,Hayden,Crozier,WBD,DEF
-191,644,free_agent,,296422,Callum,Wilkie,STK,DEF
-192,654,free_agent,,998103,Oliver,Florent,SYD,MID
-193,21,free_agent,,270938,Tom,Lynch,ADE,FWD
-194,651,free_agent,,996442,Ryan,Clarke,SYD,MID
-195,259,free_agent,,998130,Ben,Ainsworth,GCS,FWD
-196,681,free_agent,,1006126,James,Rowbottom,SYD,MID
-197,164,free_agent,,1008089,Isaac,Quaynor,COL,DEF
-199,217,free_agent,,295067,James,Aish,FRE,MID
-200,557,free_agent,,993979,Sam,Powell-Pepper,PTA,FWD MID
-201,481,free_agent,,290787,Shaun,Atley,NTH,DEF
-202,248,free_agent,,293854,Matt,Taberner,FRE,FWD
-203,602,free_agent,,998529,Ivan,Soldo,RIC,RUC
-204,430,free_agent,,996487,Tom,Phillips,HAW,FWD MID
-205,114,free_agent,,291773,Jack,Newnes,CAR,MID FWD
-206,103,free_agent,,296200,Michael,Gibbons,CAR,FWD
-208,652,free_agent,,291978,Harry,Cunningham,SYD,DEF
-209,118,free_agent,,994539,Sam,Petrevski-Seton,CAR,DEF
-210,565,free_agent,,290198,David,Astbury,RIC,DEF
-212,534,free_agent,,1006096,Xavier,Duursma,PTA,MID
-214,754,free_agent,,298298,Jackson,Nelson,WCE,DEF
-215,54,free_agent,,990609,Charlie,Cameron,BRL,FWD
-217,257,free_agent,,294125,Nathan,Wilson,FRE,DEF
-218,101,free_agent,,999827,Zac,Fisher,CAR,FWD
-219,22,free_agent,,250362,David,Mackay,ADE,DEF
-220,161,free_agent,,1000072,John,Noble,COL,DEF
-221,77,free_agent,,1002235,Cam,Rayner,BRL,FWD
-222,341,free_agent,,291357,Gary,Rohan,GEE,FWD
-225,321,free_agent,,298211,Darcy,Fort,GEE,RUC
-226,406,free_agent,,1006159,Damon,Greaves,HAW,DEF
-228,219,free_agent,,296371,Brett,Bewley,FRE,FWD MID
-229,312,free_agent,,293845,Jeremy,Cameron,GEE,FWD
-231,105,free_agent,,281078,Liam,Jones,CAR,DEF
-232,334,free_agent,,1004938,Gryan,Miers,GEE,FWD
-233,593,free_agent,,993771,Marlion,Pickett,RIC,MID
-234,655,free_agent,,291848,Robbie,Fox,SYD,DEF
-235,402,free_agent,,1008550,Will,Day,HAW,DEF
-236,669,free_agent,,1011936,Justin,McInerney,SYD,MID
-237,630,free_agent,,993917,Ben,Long,STK,DEF
-238,582,free_agent,,280819,Dylan,Grimes,RIC,DEF
-239,236,free_agent,,996580,Ethan,Hughes,FRE,DEF
-240,588,free_agent,,294592,Kamdyn,McIntosh,RIC,MID
-241,486,free_agent,,294508,Aidan,Corr,NTH,DEF
-242,337,free_agent,,1007102,Mark,O'Connor,GEE,DEF
-243,152,free_agent,,1010841,Jack,Madgen,COL,DEF
-244,64,free_agent,,291548,Ryan,Lester,BRL,DEF
-245,724,free_agent,,291545,Mitch,Wallis,WBD,FWD
-246,399,free_agent,,210012,Shaun,Burgoyne,HAW,FWD
-247,181,free_agent,,1005577,Sam,Draper,ESS,RUC
-248,450,free_agent,,290160,Michael,Hibberd,MEL,DEF
-249,757,free_agent,,281373,Jack,Redden,WCE,MID
-250,325,free_agent,,270326,Lachie,Henderson,GEE,DEF
-251,551,free_agent,,1004998,Todd,Marshall,PTA,FWD
-252,559,free_agent,,1001299,Connor,Rozee,PTA,FWD
-253,673,free_agent,,298144,Sam,Naismith,SYD,RUC
-254,53,free_agent,,240302,Grant,Birchall,BRL,DEF
-255,316,free_agent,,291526,Luke,Dahlhaus,GEE,FWD
-257,545,free_agent,,292145,Tom,Jonas,PTA,DEF
-258,567,free_agent,,1002245,Noah,Balta,RIC,DEF
-262,376,free_agent,,290314,Lachlan,Keeffe,GWS,DEF
-263,190,free_agent,,270588,Cale,Hooker,ESS,DEF
-264,611,free_agent,,290641,Jake,Carlisle,STK,DEF
-265,296,free_agent,,1001195,Izak,Rankine,GCS,FWD
-266,197,free_agent,,294092,Anthony,McDonald-Tipungwuti,ESS,FWD
-267,225,free_agent,,290823,Reece,Conca,FRE,DEF
-268,340,free_agent,,1002220,Esava,Ratugolea,GEE,RUC FWD
-270,26,free_agent,,997206,Andrew,McPherson,ADE,DEF
-271,585,free_agent,,293813,Tom J.,Lynch,RIC,FWD
-272,713,free_agent,,996483,Toby,McLean,WBD,FWD
-273,158,free_agent,,291849,Brody,Mihocek,COL,FWD
-274,67,free_agent,,993828,Rhys,Mathieson,BRL,FWD MID
-275,180,free_agent,,297406,Tom,Cutler,ESS,MID
-276,736,free_agent,,993820,Tom,Cole,WCE,DEF
-278,3,free_agent,,293193,Luke,Brown,ADE,DEF
-279,606,free_agent,,998134,Josh,Battle,STK,FWD MID
-280,61,free_agent,,296269,Darcy,Gardiner,BRL,DEF
-282,447,free_agent,,1001438,Bayley,Fritsch,MEL,FWD
-284,424,free_agent,,1000963,Harry,Morrison,HAW,DEF MID
-285,15,free_agent,,1005199,Elliott,Himmelberg,ADE,FWD
-286,361,free_agent,,1002251,Brent,Daniels,GWS,FWD
-287,371,free_agent,,993107,Harry,Himmelberg,GWS,FWD
-288,625,free_agent,,993480,Dougal,Howard,STK,DEF
-289,121,free_agent,,294624,Lachie,Plowman,CAR,DEF
-290,23,free_agent,,298470,Shane,McAdam,ADE,FWD
-291,41,free_agent,,280934,Daniel,Talia,ADE,DEF
-292,68,free_agent,,293581,Lincoln,McCarthy,BRL,FWD
-293,229,free_agent,,998115,Taylin,Duman,FRE,DEF
-295,624,free_agent,,295584,Bradley,Hill,STK,MID
-296,46,free_agent,,298437,Callum,Ah Chee,BRL,DEF
-297,204,free_agent,,294068,Andrew,Phillips,ESS,RUC
-298,214,free_agent,,270951,David,Zaharakis,ESS,FWD
-299,367,free_agent,,1009528,Tom,Green,GWS,MID
-300,631,free_agent,,992000,Jack,Lonie,STK,FWD
-301,343,free_agent,,1004940,Sam,Simpson,GEE,FWD
-302,470,free_agent,,1009378,Trent,Rivers,MEL,DEF
-303,91,free_agent,,281124,Levi,Casboult,CAR,FWD
-304,133,free_agent,,1002770,Callum L.,Brown,COL,FWD
-305,569,free_agent,,295203,Nathan,Broad,RIC,DEF
-306,177,free_agent,,1006103,Jye,Caldwell,ESS,FWD MID
-307,178,free_agent,,998109,Dylan,Clarke,ESS,MID FWD
-308,251,free_agent,,993816,Darcy,Tucker,FRE,MID
-309,364,free_agent,,298111,Jeremy,Finlayson,GWS,FWD
-310,750,free_agent,,240406,Josh J.,Kennedy,WCE,FWD
-311,264,free_agent,,998129,Will,Brodie,GCS,MID FWD
-313,596,free_agent,,250395,Jack,Riewoldt,RIC,FWD
-314,637,free_agent,,1004985,Ben,Paton,STK,DEF
-315,36,free_agent,,1006136,Lachlan,Sholl,ADE,DEF MID
-316,552,free_agent,,293603,Sam,Mayes,PTA,DEF
-318,309,free_agent,,293883,Jed,Bews,GEE,DEF
-319,597,free_agent,,1000981,Daniel,Rioli,RIC,FWD
-320,571,free_agent,,991933,Jason,Castagna,RIC,FWD
-321,94,free_agent,,993795,David,Cuningham,CAR,FWD
-322,238,free_agent,,997933,Griffin,Logue,FRE,DEF
-323,621,free_agent,,290117,Dan,Hannebery,STK,MID
-324,59,free_agent,,293479,Cameron,Ellis-Yolmen,BRL,FWD MID
-325,521,free_agent,,998484,Cameron,Zurhaar,NTH,FWD
-326,684,free_agent,,1004848,Dylan,Stephens,SYD,MID
-327,146,free_agent,,291720,Will,Hoskin-Elliott,COL,FWD
-328,363,free_agent,,271015,Matt,de Boer,GWS,MID
-329,385,free_agent,,1008123,Jake,Riccardi,GWS,FWD
-330,531,free_agent,,294504,Tom,Clurey,PTA,DEF
-331,628,free_agent,,294570,Dean,Kent,STK,FWD
-332,570,free_agent,,290623,Josh,Caddy,RIC,MID
-334,500,free_agent,,1002143,Ben,McKay,NTH,DEF
-335,599,free_agent,,1006133,Jack,Ross,RIC,MID
-336,506,free_agent,,1006058,Bailey,Scott,NTH,FWD MID
-337,759,free_agent,,997823,Josh,Rotham,WCE,DEF
-339,379,free_agent,,290675,Daniel,Lloyd,GWS,FWD
-340,205,free_agent,,997078,Mason,Redman,ESS,DEF
-341,331,free_agent,,296291,Jake,Kolodjashnij,GEE,DEF
-342,299,free_agent,,294643,Alex,Sexton,GCS,FWD
-344,515,free_agent,,291550,Josh,Walker,NTH,DEF
-345,564,free_agent,,992786,Jake,Aarts,RIC,FWD
-346,16,free_agent,,1004863,Mitchell,Hinge,ADE,MID
-347,28,free_agent,,1000998,Lachlan,Murphy,ADE,FWD
-348,281,free_agent,,297456,Nick,Holman,GCS,FWD
-350,629,free_agent,,1006143,Max,King,STK,FWD
-351,572,free_agent,,994077,Mabior,Chol,RIC,RUC FWD
-352,660,free_agent,,997100,Will,Hayward,SYD,FWD
-354,671,free_agent,,996743,Lewis,Melican,SYD,DEF
-355,185,free_agent,,996232,Matt,Guelfi,ESS,DEF
-357,707,free_agent,,290797,Alex,Keath,WBD,DEF
-358,767,free_agent,,996554,Jake,Waterman,WCE,FWD
-359,330,free_agent,,294828,Josh,Jenkins,GEE,RUC FWD
-363,353,free_agent,,1009253,Lachie,Ash,GWS,DEF
-364,619,free_agent,,260113,Jarryn,Geary,STK,DEF
-365,183,free_agent,,990816,Aaron,Francis,ESS,DEF
-366,111,free_agent,,1000953,Harry,McKay,CAR,FWD
-367,102,free_agent,,1002228,Lachie,Fogarty,CAR,FWD
-370,647,free_agent,,1006028,Nick,Blakey,SYD,FWD MID
-371,526,free_agent,,994599,Riley,Bonner,PTA,DEF
-372,411,free_agent,,294077,Michael,Hartley,HAW,DEF
-373,539,free_agent,,1010174,Mitch,Georgiades,PTA,FWD
-374,670,free_agent,,1003203,Hayden,McLean,SYD,FWD
-375,687,free_agent,,1006232,Sam,Wicks,SYD,FWD
-376,511,free_agent,,1006137,Curtis,Taylor,NTH,FWD
-377,34,free_agent,,1008543,Harry,Schoenberg,ADE,FWD
-378,288,free_agent,,298358,Oleg,Markov,GCS,DEF
-379,410,free_agent,,290228,Kyle,Hartigan,HAW,DEF
-380,169,free_agent,,1003029,Brayden,Sier,COL,MID
-381,693,free_agent,,991939,Zaine,Cordy,WBD,DEF
-382,130,free_agent,,998167,Tom,Williamson,CAR,DEF
-383,667,free_agent,,1008198,Tom,McCartin,SYD,FWD
-386,137,free_agent,,998647,Mason,Cox,COL,FWD
-388,166,free_agent,,280012,Jordan,Roughead,COL,DEF
-389,134,free_agent,,1008171,Tyler,Brown,COL,MID
-390,372,free_agent,,296324,Jesse,Hogan,GWS,FWD
-392,335,free_agent,,999824,Quinton,Narkle,GEE,MID
-393,14,free_agent,,999309,Jackson,Hately,ADE,MID
-394,730,free_agent,,291947,Brendon,Ah Chee,WCE,FWD
-395,464,free_agent,,296420,Alex,Neal-Bullen,MEL,FWD
-396,19,free_agent,,297473,Jake,Kelly,ADE,DEF
-397,716,free_agent,,1008280,Ed,Richards,WBD,FWD MID
-398,536,free_agent,,1002253,Kane,Farrell,PTA,FWD MID
-399,279,free_agent,,240254,Jarrod,Harbrow,GCS,DEF
-400,89,free_agent,,240060,Eddie,Betts,CAR,FWD
-401,555,free_agent,,280990,Steven,Motlop,PTA,FWD
-402,195,free_agent,,298280,Jayden,Laverde,ESS,FWD
-403,262,free_agent,,1008882,Charlie,Ballard,GCS,DEF
-404,86,free_agent,,1002401,Brandon,Starcevich,BRL,DEF
-405,287,free_agent,,996464,Darcy,MacPherson,GCS,FWD
-406,170,free_agent,,290289,Josh,Thomas,COL,FWD
-407,97,free_agent,,1004912,Tom,De Koning,CAR,RUC
-408,39,free_agent,,997230,Tyson,Stengle,ADE,FWD
-409,404,free_agent,,293738,Sam,Frost,HAW,DEF
-410,48,free_agent,,1005053,Noah,Answerth,BRL,DEF
-411,479,free_agent,,993806,Sam,Weideman,MEL,FWD
-412,255,free_agent,,1004437,Tobe,Watson,FRE,DEF
-413,475,free_agent,,999391,Tom,Sparrow,MEL,MID
-414,451,free_agent,,996692,Marty,Hore,MEL,DEF
-415,383,free_agent,,992644,Braydon,Preuss,GWS,RUC
-416,135,free_agent,,990291,Darcy,Cameron,COL,FWD
-419,477,free_agent,,297990,Aaron,vandenBerg,MEL,MID
-420,378,free_agent,,291509,Adam,Kennedy,GWS,MID
-421,57,free_agent,,1006059,Keidean,Coleman,BRL,FWD
-422,284,free_agent,,1006144,Ben,King,GCS,FWD
-424,271,free_agent,,291753,Sam,Day,GCS,FWD
-426,474,free_agent,,1002282,Charlie,Spargo,MEL,FWD
-427,244,free_agent,,1000860,Lachie,Schultz,FRE,FWD
-428,728,free_agent,,281139,Easton,Wood,WBD,DEF
-429,426,free_agent,,296041,Tim,O'Brien,HAW,FWD
-430,384,free_agent,,261374,Sam J.,Reid,GWS,DEF
-431,463,free_agent,,280824,Jake,Melksham,MEL,FWD
-433,618,free_agent,,260288,James,Frawley,STK,DEF
-434,227,free_agent,,1002353,Mitch,Crowden,FRE,FWD
-435,734,free_agent,,1002300,Jarrod,Brander,WCE,FWD MID
-436,211,free_agent,,294654,James,Stewart,ESS,FWD
-437,220,free_agent,,298450,Connor,Blakely,FRE,MID
-438,95,free_agent,,996731,Charlie,Curnow,CAR,FWD
-439,308,free_agent,,994386,Tom,Atkins,GEE,FWD
-440,184,free_agent,,297438,Martin,Gleeson,ESS,DEF
-441,783,free_agent,,1006276,Derek,Eggmolesse-Smith,RIC,DEF
-443,455,free_agent,,250222,Nathan,Jones,MEL,FWD MID
-444,362,free_agent,,280804,Phil,Davis,GWS,DEF
-445,439,free_agent,,1008855,Oskar,Baker,MEL,MID
-447,460,free_agent,,298390,Jay,Lockhart,MEL,DEF
-448,548,free_agent,,293987,Jarrod,Lienert,PTA,DEF
-449,218,free_agent,,998180,Bailey,Banfield,FRE,FWD
-451,370,free_agent,,1006148,Bobby,Hill,GWS,FWD
-452,9,free_agent,,999331,Darcy,Fogarty,ADE,FWD
-453,314,free_agent,,999326,Brad,Close,GEE,FWD
-454,277,free_agent,,1006087,Caleb,Graham,GCS,DEF
-455,110,free_agent,,297255,Mitch,McGovern,CAR,FWD
-456,702,free_agent,,1001449,Mitch,Hannan,WBD,FWD
-458,494,free_agent,,998327,Kyron,Hayden,NTH,DEF
-459,719,free_agent,,992054,Roarke,Smith,WBD,MID FWD
-460,412,free_agent,,992462,Daniel,Howe,HAW,DEF MID
-461,445,free_agent,,290622,Mitch,Brown,MEL,FWD
-462,610,free_agent,,1002922,Jack,Bytel,STK,MID
-463,247,free_agent,,992059,Sam,Switkowski,FRE,FWD
-464,258,free_agent,,1009256,Hayden,Young,FRE,DEF
-465,723,free_agent,,1005000,Laitham,Vandermeer,WBD,FWD MID
-466,726,free_agent,,1006127,Rhylee,West,WBD,FWD
-467,186,free_agent,,1008190,Brayden,Ham,ESS,MID
-469,658,free_agent,,290722,Sam,Gray,SYD,FWD
-470,224,free_agent,,280988,Travis,Colyer,FRE,FWD
-471,680,free_agent,,1004880,Ben,Ronke,SYD,FWD
-472,108,free_agent,,298302,Caleb,Marchbank,CAR,DEF
-473,690,free_agent,,291492,Josh,Bruce,WBD,FWD
-474,643,free_agent,,290757,Jimmy,Webster,STK,DEF
-475,269,free_agent,,1005547,Josh,Corbett,GCS,FWD
-476,712,free_agent,,280763,Stefan,Martin,WBD,RUC
-477,497,free_agent,,1009189,Jack,Mahony,NTH,FWD
-478,535,free_agent,,296334,Orazio,Fantasia,PTA,DEF FWD
-479,233,free_agent,,295222,Joel,Hamling,FRE,DEF
-480,675,free_agent,,997842,Colin,O'Riordan,SYD,DEF
-481,491,free_agent,,296078,Taylor,Garner,NTH,FWD
-482,646,free_agent,,1002291,James,Bell,SYD,FWD
-483,315,free_agent,,1002242,Charlie,Constable,GEE,MID
-484,415,free_agent,,998390,Changkuoth,Jiath,HAW,DEF
-485,518,free_agent,,1004965,Tristan,Xerri,NTH,FWD
-486,685,free_agent,,296211,Lewis,Taylor,SYD,FWD
-487,246,free_agent,,1013611,Sam,Sturt,FRE,FWD
-488,201,free_agent,,1006097,Irving,Mosquito,ESS,FWD
-489,495,free_agent,,1001017,Nick,Larkey,NTH,FWD
-490,452,free_agent,,994385,Jayden,Hunt,MEL,FWD
-491,92,free_agent,,1008154,Matthew,Cottrell,CAR,MID
-492,563,free_agent,,999346,Boyd,Woodcock,PTA,FWD
-494,513,free_agent,,992499,Kayne,Turner,NTH,FWD
-495,444,free_agent,,291867,Ben,Brown,MEL,FWD
-497,125,free_agent,,1001028,Jack,Silvagni,CAR,FWD
-498,10,free_agent,,991773,Billy,Frampton,ADE,FWD
-499,265,free_agent,,1008454,Connor,Budarick,GCS,DEF
-500,469,free_agent,,1008541,Kysaiah,Pickett,MEL,FWD
-501,215,free_agent,,1004034,Brandon,Zerk-Thatcher,ESS,DEF
-502,75,free_agent,,1002347,Jack,Payne,BRL,DEF
-503,731,free_agent,,1004356,Brayden,Ainsworth,WCE,FWD MID
-504,285,free_agent,,294013,Sean,Lemmens,GCS,FWD
-505,291,free_agent,,295942,Jordan,Murdoch,GCS,DEF
-506,45,free_agent,,294168,Marcus,Adams,BRL,DEF
-507,703,free_agent,,991976,Will,Hayes,WBD,MID
-508,634,free_agent,,280038,Shaun,McKernan,STK,FWD
-509,482,free_agent,,1004894,Aiden,Bonar,NTH,DEF
-510,648,free_agent,,295156,Kaiden,Brand,SYD,DEF
-511,517,free_agent,,1005084,Will,Walker,NTH,MID FWD
-512,261,free_agent,,294472,Rory,Atkins,GCS,MID
-513,514,free_agent,,291784,Dom,Tyson,NTH,MID
-514,313,free_agent,,1006152,Jordan,Clark,GEE,DEF MID
-515,305,free_agent,,291891,Jacob,Townsend,GCS,FWD
-516,408,free_agent,,1001043,Oliver,Hanrahan,HAW,FWD
-517,17,free_agent,,1006203,Chayce,Jones,ADE,MID
-518,242,free_agent,,298409,Alex,Pearce,FRE,DEF
-519,52,free_agent,,1006100,Thomas,Berry,BRL,FWD
-522,701,free_agent,,997501,Ryan,Gardner,WBD,DEF
-524,282,free_agent,,291964,Jack,Hombsch,GCS,DEF
-525,765,free_agent,,280959,Nathan,Vardy,WCE,RUC
-526,468,free_agent,,1008893,Harrison,Petty,MEL,DEF FWD
-527,381,free_agent,,1006135,Xavier,O'Halloran,GWS,MID
-528,358,free_agent,,291797,Matt,Buntine,GWS,DEF FWD
-529,751,free_agent,,1004286,Zac,Langdon,WCE,FWD
-530,357,free_agent,,1009708,Jack,Buckley,GWS,DEF MID
-531,772,free_agent,,295340,Mason,Wood,STK,FWD
-532,633,free_agent,,298265,Daniel,McKenzie,STK,DEF
-533,173,free_agent,,295599,Patrick,Ambrose,ESS,DEF
-534,82,free_agent,,992752,Archie,Smith,BRL,RUC
-535,756,free_agent,,1006550,Jack,Petruccelle,WCE,FWD
-536,301,free_agent,,280722,Zac,Smith,GCS,RUC
-537,375,free_agent,,1008083,Connor,Idun,GWS,DEF
-538,717,free_agent,,993841,Josh,Schache,WBD,FWD
-539,25,free_agent,,1008185,Ned,McHenry,ADE,FWD
-540,413,free_agent,,296254,Jarman,Impey,HAW,FWD
-541,473,free_agent,,1003546,Joel,Smith,MEL,DEF
-542,13,free_agent,,1008159,Will,Hamill,ADE,DEF
-543,266,free_agent,,1000068,Chris,Burgess,GCS,DEF
-544,722,free_agent,,1009301,Jamarra,Ugle-Hagan,WBD,FWD
-545,398,free_agent,,290889,Keegan,Brooksby,HAW,RUC FWD
-546,167,free_agent,,1009383,Trey,Ruscoe,COL,FWD
-547,42,free_agent,,1008384,Riley,Thilthorpe,ADE,RUC FWD
-548,99,free_agent,,1002256,Paddy,Dow,CAR,FWD MID
-549,519,free_agent,,1004909,Lachie,Young,NTH,DEF MID
-550,501,free_agent,,992015,Connor,Menadue,NTH,DEF
-551,389,free_agent,,1007238,Jake,Stein,GWS,DEF
-552,417,free_agent,,1000887,Mitch,Lewis,HAW,FWD
-553,24,free_agent,,1009201,Fischer,Mcasey,ADE,DEF FWD
-554,503,free_agent,,1012829,Will,Phillips,NTH,MID
-555,729,free_agent,,997316,Lewis,Young,WBD,DEF
-556,418,free_agent,,1009421,Finn,Maginness,HAW,MID
-557,645,free_agent,,1008091,Joel,Amartey,SYD,RUC FWD
-558,692,free_agent,,296070,Ben,Cavarra,WBD,FWD
-559,668,free_agent,,1013230,Logan,McDonald,SYD,FWD
-560,425,free_agent,,1007124,Conor,Nash,HAW,FWD
-561,502,free_agent,,1011771,Flynn,Perez,NTH,DEF
-562,768,free_agent,,1006114,Bailey J.,Williams,WCE,RUC FWD
-563,275,free_agent,,1009260,Sam,Flanders,GCS,FWD
-564,7,free_agent,,298417,Ben,Davis,ADE,FWD
-565,691,free_agent,,1011992,Louis,Butler,WBD,DEF
-566,538,free_agent,,998321,Joel,Garner,PTA,DEF
-567,649,free_agent,,1013133,Braeden,Campbell,SYD,MID FWD
-568,580,free_agent,,998218,Ryan,Garthwaite,RIC,DEF
-569,126,free_agent,,1008312,Liam,Stocker,CAR,DEF
-570,454,free_agent,,281280,Neville,Jetta,MEL,DEF
-571,405,free_agent,,1013093,Denver,Grainger-Barras,HAW,DEF
-572,234,free_agent,,1005988,Liam,Henry,FRE,FWD
-573,273,free_agent,,999715,Jy,Farrar,GCS,FWD
-574,748,free_agent,,998791,Jamaine,Jones,WCE,FWD
-575,540,free_agent,,260246,Tyson,Goldsack,PTA,DEF
-576,115,free_agent,,1002259,Lochie,O'Brien,CAR,MID
-577,323,free_agent,,1004870,Zach,Guthrie,GEE,DEF MID
-578,590,free_agent,,1002231,Patrick,Naish,RIC,MID
-579,280,free_agent,,1012862,Elijah,Hollands,GCS,MID FWD
-580,627,free_agent,,1003520,Darragh,Joyce,STK,DEF
-581,4,free_agent,,1004995,Jordon,Butts,ADE,DEF
-582,79,free_agent,,1009385,Deven,Robertson,BRL,MID FWD
-583,179,free_agent,,1015827,Nikolas,Cox,ESS,DEF FWD
-584,230,free_agent,,999321,Michael,Frederick,FRE,FWD
-585,483,free_agent,,1008288,Atu,Bosenavulagi,NTH,FWD
-586,725,free_agent,,1011803,Cody,Weightman,WBD,FWD
-587,203,free_agent,,1015873,Archie,Perkins,ESS,MID FWD
-588,119,free_agent,,1011929,Sam,Philp,CAR,FWD
-589,206,free_agent,,1012817,Zach,Reid,ESS,DEF
-590,665,free_agent,,1004949,Matthew,Ling,SYD,DEF
-591,32,free_agent,,1012218,Luke,Pedlar,ADE,MID
-592,176,free_agent,,1009223,Ned,Cahill,ESS,FWD
-593,446,free_agent,,1005330,Kade,Chandler,MEL,FWD
-594,573,free_agent,,1000061,Callum,Coleman-Jones,RIC,RUC FWD
-595,148,free_agent,,1013974,Mark,Keane,COL,DEF
-596,356,free_agent,,1012805,Tanner,Bruhn,GWS,MID
-597,745,free_agent,,281052,Mark,Hutchings,WCE,MID FWD
-598,484,free_agent,,290246,Tom,Campbell,NTH,RUC FWD
-599,735,free_agent,,1005793,Jarrod,Cameron,WCE,FWD
-600,505,free_agent,,1011659,Tom,Powell,NTH,MID
-601,223,free_agent,,1013224,Heath,Chapman,FRE,DEF
-602,40,free_agent,,1008752,Kieran,Strachan,ADE,RUC FWD
-603,50,free_agent,,1002351,Connor,Ballenden,BRL,FWD
-604,578,free_agent,,1009226,Thomson,Dow,RIC,MID
-605,423,free_agent,,1008537,Josh,Morris,HAW,FWD
-606,390,free_agent,,1015862,Conor,Stone,GWS,FWD
-607,686,free_agent,,1012014,Chad,Warner,SYD,FWD
-608,300,free_agent,,1009380,Jeremy,Sharp,GCS,MID
-609,800,free_agent,,1000267,Matthew,Parker,RIC,FWD MID
-610,546,free_agent,,1011583,Lachlan,Jones,PTA,DEF
-611,329,free_agent,,1008940,Ben,Jarvis,GEE,DEF FWD
-612,440,free_agent,,1008139,Toby,Bedford,MEL,FWD
-613,149,free_agent,,1008285,Will,Kelly,COL,FWD
-614,374,free_agent,,296984,Tom,Hutchesson,GWS,MID FWD
-615,145,free_agent,,1012860,Oliver,Henry,COL,FWD
-616,352,free_agent,,1015777,Ryan,Angwin,GWS,MID
-617,60,free_agent,,1013532,Tom,Fullarton,BRL,RUC FWD
-618,742,free_agent,,1005599,Luke,Foley,WCE,DEF
-619,151,free_agent,,1012828,Finlay,Macrae,COL,MID FWD
-620,12,free_agent,,1018075,Lachlan,Gollant,ADE,DEF MID
-621,31,free_agent,,1011254,Ronin,O'Connor,ADE,MID
-622,44,free_agent,,1011981,Josh,Worrell,ADE,DEF FWD
-623,55,free_agent,,298336,Nakia,Cockatoo,BRL,MID FWD
-624,63,free_agent,,1006150,Tom,Joyce,BRL,FWD MID
-625,66,free_agent,,1013978,James,Madden,BRL,DEF FWD
-626,70,free_agent,,1006085,Connor,McFadyen,BRL,FWD
-627,76,free_agent,,1009386,Jaxon,Prior,BRL,DEF
-628,83,free_agent,,1009242,Brock,Smith,BRL,DEF
-629,84,free_agent,,1006033,Ely,Smith,BRL,FWD MID
-630,104,free_agent,,1002938,Josh,Honey,CAR,MID FWD
-631,106,free_agent,,1009241,Brodie,Kemp,CAR,MID
-632,116,free_agent,,1013973,Matthew,Owies,CAR,FWD
-633,122,free_agent,,1002942,Sam,Ramsay,CAR,MID
-634,132,free_agent,,1009186,Trent,Bianco,COL,DEF MID
-635,150,free_agent,,1000960,Max,Lynch,COL,RUC FWD
-636,160,free_agent,,1005107,Nathan,Murphy,COL,DEF
-637,165,free_agent,,1015793,Jay,Rantall,COL,MID
-638,171,free_agent,,1013975,Anton,Tohill,COL,FWD
-639,172,free_agent,,993797,Tom,Wilson,COL,FWD
-640,175,free_agent,,1011954,Nick,Bryan,ESS,RUC
-641,189,free_agent,,1020224,Tom,Hird,ESS,MID
-642,192,free_agent,,1006506,Lachlan,Johnson,ESS,MID FWD
-643,193,free_agent,,1011755,Harrison,Jones,ESS,FWD
-644,196,free_agent,,1018969,Cian,McBride,ESS,DEF
-645,199,free_agent,,1019156,Ross,McQuillan,ESS,DEF FWD
-646,232,free_agent,,1002354,Stefan,Giro,FRE,MID
-647,239,free_agent,,1000980,Lloyd,Meek,FRE,RUC
-648,249,free_agent,,1009381,Leno,Thomas,FRE,DEF
-649,252,free_agent,,1004850,Luke,Valente,FRE,MID
-650,268,free_agent,,1009334,Matt,Conroy,GCS,RUC
-651,289,free_agent,,1000044,Jez,McLennan,GCS,DEF
-652,292,free_agent,,1016116,Patrick,Murtagh,GCS,FWD
-653,297,free_agent,,1005986,Malcolm,Rosas,GCS,FWD
-654,303,free_agent,,281075,Rory,Thompson,GCS,DEF
-655,304,free_agent,,1019157,Luke,Towey,GCS,DEF
-656,311,free_agent,,1006101,Oscar,Brownless,GEE,FWD
-657,318,free_agent,,1009229,Sam,De Koning,GEE,DEF
-658,320,free_agent,,1017255,Francis,Evans,GEE,FWD
-659,332,free_agent,,997254,Nathan,Kreuger,GEE,FWD
-660,338,free_agent,,1013977,Stefan,Okunbor,GEE,DEF
-661,346,free_agent,,1004948,Cooper,Stephens,GEE,MID
-662,349,free_agent,,1008603,Cameron,Taheny,GEE,FWD
-663,354,free_agent,,1008436,Kieren,Briggs,GWS,DEF FWD
-664,355,free_agent,,1014038,Callum M.,Brown,GWS,DEF
-665,366,free_agent,,993902,Matt,Flynn,GWS,RUC
-666,387,free_agent,,1002296,Nick,Shipley,GWS,MID
-667,388,free_agent,,998225,Zach,Sproule,GWS,FWD
-668,414,free_agent,,1005150,Emerson,Jeka,HAW,FWD
-669,416,free_agent,,1006030,Jacob,Koschitzke,HAW,DEF
-670,429,free_agent,,1011873,Harry,Pepper,HAW,DEF
-671,431,free_agent,,1001024,Ned,Reeves,HAW,RUC
-672,442,free_agent,,1014081,Austin,Bradtke,MEL,RUC
-673,456,free_agent,,1013409,James,Jordon,MEL,MID
-674,465,free_agent,,1004695,Aaron,Nietschke,MEL,MID
-675,485,free_agent,,1015781,Charlie,Comben,NTH,RUC FWD
-676,499,free_agent,,1006653,Matt,McGuinness,NTH,DEF
-677,524,free_agent,,1009191,Miles,Bergman,PTA,FWD
-678,527,free_agent,,1008531,Trent,Burgoyne,PTA,MID FWD
-679,537,free_agent,,999320,Martin,Frederick,PTA,DEF
-680,543,free_agent,,1002248,Sam,Hayes,PTA,RUC
-681,554,free_agent,,1005326,Jackson,Mead,PTA,MID
-682,556,free_agent,,1009389,Jake,Pasini,PTA,DEF
-683,561,free_agent,,1009195,Dylan,Williams,PTA,MID FWD
-684,575,free_agent,,1008297,Riley,Collier-Dawkins,RIC,MID
-685,577,free_agent,,1009308,Noah,Cumberland,RIC,MID FWD
-686,587,free_agent,,1009313,Will,Martyn,RIC,MID
-687,589,free_agent,,1002403,Ben,Miller,RIC,DEF
-688,592,free_agent,,1006193,Bigoa,Nyuon,RIC,DEF RUC
-689,595,free_agent,,1011985,Hugo,Ralphsmith,RIC,MID FWD
-690,605,free_agent,,1013976,Sam,Alabakis,STK,RUC
-691,609,free_agent,,1011994,Ryan,Byrnes,STK,MID
-692,613,free_agent,,1002266,Oscar,Clavarino,STK,DEF
-693,615,free_agent,,1009228,Leo,Connolly,STK,DEF MID
-694,657,free_agent,,1004113,Will,Gould,SYD,DEF
-695,674,free_agent,,1019158,Barry,O'Connor,SYD,DEF FWD
-696,700,free_agent,,1006533,Riley,Garcia,WBD,MID
-697,708,free_agent,,998782,Buku,Khamis,WBD,DEF
-698,720,free_agent,,992330,Jordon,Sweet,WBD,RUC
-699,740,free_agent,,1011437,Harry,Edwards,WCE,DEF
-700,746,free_agent,,1011243,Callum,Jamieson,WCE,RUC
-701,747,free_agent,,1011464,Ben,Johnson,WCE,DEF
-702,328,free_agent,,1015889,Max,Holmes,GEE,MID FWD
-703,1,free_agent,,1012807,Sam,Berry,ADE,MID
-704,5,free_agent,,1018335,Brayden,Cook,ADE,MID FWD
-705,33,free_agent,,999316,James,Rowe,ADE,FWD
-706,56,free_agent,,1013256,Blake,Coleman,BRL,FWD
-707,81,free_agent,,1007099,Harry,Sharp,BRL,DEF MID
-708,85,free_agent,,1016189,Henry,Smith,BRL,RUC
-709,90,free_agent,,1013233,Jack,Carroll,CAR,MID
-710,100,free_agent,,1008510,Corey,Durdin,CAR,MID FWD
-711,155,free_agent,,1004757,Beau,McCreery,COL,FWD
-712,156,free_agent,,1013278,Reef,McInnes,COL,MID
-713,157,free_agent,,1012842,Liam,McMahon,COL,FWD
-714,163,free_agent,,1011589,Caleb,Poulter,COL,MID FWD
-715,174,free_agent,,1012837,Cody,Brand,ESS,DEF
-716,182,free_agent,,1015712,Joshua,Eyre,ESS,DEF FWD
-717,241,free_agent,,1013220,Nathan,O'Driscoll,FRE,MID
-718,253,free_agent,,1009410,Brandon,Walker,FRE,DEF
-719,256,free_agent,,1009401,Joel,Western,FRE,MID
-720,336,free_agent,,1016433,Shannon,Neale,GEE,RUC FWD
-721,347,free_agent,,1007101,Nick,Stevens,GEE,DEF
-722,365,free_agent,,1012863,Cameron,Fleeton,GWS,DEF
-723,394,free_agent,,1004530,Jacob,Wehr,GWS,DEF
-724,397,free_agent,,1013511,Tyler,Brockman,HAW,MID FWD
-725,403,free_agent,,1012830,Connor,Downie,HAW,MID
-726,420,free_agent,,1018016,Seamus,Mitchell,HAW,FWD
-727,441,free_agent,,1012825,Jake,Bowey,MEL,MID FWD
-728,458,free_agent,,1012826,Bailey,Laurie,MEL,DEF FWD
-729,471,free_agent,,1013086,Fraser,Rosman,MEL,MID FWD
-730,490,free_agent,,1012833,Eddie,Ford,NTH,FWD
-731,496,free_agent,,1012852,Charlie,Lazzaro,NTH,MID
-732,508,free_agent,,1011647,Phoenix,Spicer,NTH,MID FWD
-733,549,free_agent,,1012881,Ollie,Lord,PTA,FWD
-734,598,free_agent,,1009551,Maurice,Rioli,RIC,MID FWD
-735,600,free_agent,,1012386,Samson,Ryan,RIC,RUC
-736,623,free_agent,,998195,Thomas,Highmore,STK,DEF
-737,635,free_agent,,1015714,Matthew,McLeod-Allison,STK,FWD
-738,659,free_agent,,1013128,Errol,Gulden,SYD,MID
-739,688,free_agent,,1015822,Dominic,Bedendo,WBD,FWD
-740,741,free_agent,,1006576,Luke,Edwards,WCE,MID
-741,769,free_agent,,1009291,Isiah,Winder,WCE,DEF MID
-742,2,free_agent,,1009029,James,Borlase,ADE,DEF
-744,73,free_agent,,1013260,Carter,Michael,BRL,MID
-745,87,free_agent,,1021659,Deividas,Uosis,BRL,DEF
-746,117,free_agent,,1012409,Luke,Parks,CAR,DEF
-747,136,free_agent,,1015901,Isaac,Chugg,COL,DEF FWD
-748,142,free_agent,,1012857,Jack,Ginnivan,COL,MID FWD
-749,250,free_agent,,1012819,Josh,Treacy,FRE,RUC FWD
-750,270,free_agent,,1013268,Alex,Davies,GCS,MID
-751,276,free_agent,,1013263,Aiden,Fyfe,GCS,DEF MID
-752,283,free_agent,,1005992,Joel,Jeffrey,GCS,DEF
-753,293,free_agent,,1013247,Rhys,Nicholls,GCS,DEF
-754,294,free_agent,,1009320,Hawego Paul,Oea,GCS,MID FWD
-755,350,free_agent,,1007049,Paul,Tsapatolis,GEE,RUC
-756,386,free_agent,,1015688,Will,Shaw,GWS,DEF
-757,432,free_agent,,1008600,Jack,Saunders,HAW,MID FWD
-758,516,free_agent,,1013191,Patrick,Walker,NTH,DEF
-759,560,free_agent,,1012310,Taj,Schofield,PTA,MID
-760,574,free_agent,,1021660,Mate,Colina,RIC,RUC
-761,650,free_agent,,1011650,Malachy,Carruthers,SYD,DEF
-762,682,free_agent,,1013138,Marc,Sheather,SYD,FWD
-763,714,free_agent,,1009015,Lachlan,McNeil,WBD,MID
-764,764,free_agent,,1011449,Zane,Trew,WCE,MID
-765,773,free_agent,,1008478,Rhyan,Mansell,RIC,DEF
-766,774,free_agent,,992597,Paul,Hunter,STK,RUC
-767,775,free_agent,,992048,Anthony,Scott,WBD,MID FWD
-768,776,free_agent,,298445,Alec,Waterman,ESS,FWD
-769,777,free_agent,,1000864,Lachlan,Bramble,HAW,MID
-770,778,free_agent,,1008975,Kaine,Baldwin,ESS,FWD
-771,779,free_agent,,1008230,Nicholas,Murray,ADE,DEF
-772,781,free_agent,,1009288,Deakyn,Smith,MEL,DEF
-773,784,free_agent,,1013153,Patrick,Parnell,ADE,DEF
-774,785,free_agent,,1018296,Kalin,Lane,BRL,RUC
-775,786,free_agent,,1002795,Jordan,Boyd,CAR,DEF
-776,787,free_agent,,1023446,Alex,Mirkov,CAR,RUC
-777,788,free_agent,,1015748,Aiden,Begg,COL,RUC
-778,789,free_agent,,997974,Ashley,Johnson,COL,FWD
-779,790,free_agent,,1015810,Sam,Durham,ESS,DEF MID
-780,791,free_agent,,1021013,Ned,Moyle,GCS,RUC
-781,792,free_agent,,1006013,James,Peatling,GWS,DEF MID
-782,793,free_agent,,1013208,Jackson,Callow,HAW,FWD
-783,794,free_agent,,1020895,Jai,Newcombe,HAW,MID
-784,795,free_agent,,997916,Kye,Declase,MEL,DEF MID
-786,797,free_agent,,1015895,Jacob,Edwards,NTH,RUC FWD
-787,798,free_agent,,1015760,Charlie,Ham,NTH,DEF
-788,799,free_agent,,1004819,Jed,McEntee,PTA,MID
-789,801,free_agent,,1015886,Max,Heath,STK,RUC
-790,802,free_agent,,1018018,Cooper,Sharman,STK,FWD
-791,803,free_agent,,1021200,Lachlan,McAndrew,SYD,RUC
-793,805,free_agent,,1003192,Connor,West,WCE,MID
-794,780,free_agent,,992472,Oscar,McDonald,CAR,DEF
-795,558,free_agent,,270919,Tom,*** Rockliff,PTA,MID
-796,112,free_agent,,250105,Marc,*** Murphy,CAR,MID
-797,235,free_agent,,280336,Stephen,*** Hill,FRE,DEF
-798,706,free_agent,,295313,Lin,*** Jong,WBD,FWD MID
-799,434,free_agent,,280969,Tom,*** Scully,HAW,FWD MID
-800,11,free_agent,,250417,Bryce,*** Gibbs,ADE,DEF
-801,143,free_agent,,270861,Levi,*** Greenwood,COL,MID
-802,428,free_agent,,291821,Jonathon,*** Patton,HAW,FWD
-803,766,free_agent,,998414,Daniel,*** Venables,WCE,FWD
-804,638,free_agent,,280933,Dylan,*** Roberton,STK,DEF
+,player_id,trade_status,user_team_id,waiver_until,feed_id,first_name,last_name,team,position
+20,488,free_agent,,,280921,Ben,Cunnington,NTH,MID
+23,520,free_agent,,,280944,Jack,Ziebell,NTH,DEF FWD
+36,280,free_agent,,,993799,Brayden,Fiorini,GCS,MID
+43,243,free_agent,,,240052,David,Mundy,FRE,MID
+54,37,free_agent,,,270963,Rory,Sloane,ADE,MID
+56,35,free_agent,,,294733,Paul,Seedsman,ADE,MID
+59,47,waiver,14003.0,2022-07-22 04:00:00,996059,Harris,Andrews,BRL,DEF
+61,469,waiver,5535.0,2022-07-21 04:00:00,296359,Christian,Salem,MEL,DEF
+63,129,free_agent,,,993832,Jacob,Weitering,CAR,DEF
+70,214,free_agent,,,293884,Jake,Stringer,ESS,MID FWD
+71,663,free_agent,,,260382,Josh P.,Kennedy,SYD,MID
+75,627,free_agent,,,991988,Zak,Jones,STK,MID
+79,445,free_agent,,,294429,Luke,Dunstan,MEL,MID
+80,435,free_agent,,,291962,Chad,Wingard,HAW,FWD MID
+84,405,free_agent,,,993794,Blake,Hardwick,HAW,DEF
+88,408,free_agent,,,296254,Jarman,Impey,HAW,DEF
+91,312,free_agent,,,291327,Jonathon,Ceglar,GEE,RUC
+92,330,free_agent,,,294199,Sam,Menegola,GEE,MID
+104,756,free_agent,,,294859,Jeremy,McGovern,WCE,DEF
+106,708,free_agent,,,294557,Lachie,Hunter,WBD,MID
+108,116,waiver,14003.0,2022-07-21 04:00:00,297907,Nic,Newman,CAR,DEF
+109,522,free_agent,,,294469,Aliir,Aliir,PTA,DEF
+116,196,free_agent,,,298630,Kyle,Langford,ESS,MID
+118,775,free_agent,,,292128,Elliot,Yeo,WCE,MID
+121,97,free_agent,,,270146,Ed,Curnow,CAR,MID
+123,458,free_agent,,,291533,Tom,McDonald,MEL,FWD
+132,130,free_agent,,,294685,Zac,Williams,CAR,DEF
+134,49,waiver,14003.0,2022-07-21 04:00:00,1002312,Zac,Bailey,BRL,FWD MID
+136,410,free_agent,,,998390,Changkuoth,Jiath,HAW,DEF
+137,514,free_agent,,,1005729,Tarryn,Thomas,NTH,MID FWD
+140,552,free_agent,,,290527,Trent,McKenzie,PTA,DEF
+143,640,waiver,10836.0,2022-07-21 04:00:00,250267,Paddy,Ryder,STK,RUC
+144,541,free_agent,,,261396,Robbie,Gray,PTA,FWD
+152,266,waiver,14003.0,2022-07-21 04:00:00,998260,Jack,Bowes,GCS,DEF
+156,766,free_agent,,,296296,Dom,Sheed,WCE,MID
+158,324,free_agent,,,1000937,Jack,Henry,GEE,DEF
+159,297,free_agent,,,1007881,Wil,Powell,GCS,DEF
+160,336,free_agent,,,298419,Brandan,Parfitt,GEE,MID
+165,212,free_agent,,,990606,Will,Snelling,ESS,FWD
+166,288,free_agent,,,1004095,Jack,Lukosius,GCS,DEF MID
+167,626,free_agent,,,993480,Dougal,Howard,STK,DEF
+170,635,free_agent,,,294596,Tim,Membrey,STK,FWD
+171,56,free_agent,,,294518,Joe,Daniher,BRL,FWD
+172,325,free_agent,,,260227,Shaun,Higgins,GEE,FWD
+177,678,free_agent,,,290307,Dane,Rampe,SYD,DEF
+178,512,waiver,5535.0,2022-07-22 04:00:00,1002240,Jaidyn,Stephenson,NTH,FWD MID
+179,432,free_agent,,,280737,Liam,Shiels,HAW,FWD MID
+180,68,free_agent,,,293581,Lincoln,McCarthy,BRL,FWD
+183,407,free_agent,,,992462,Daniel,Howe,HAW,MID
+184,735,free_agent,,,992351,Bailey,Williams,WBD,DEF MID
+186,45,free_agent,,,294168,Marcus,Adams,BRL,DEF
+188,655,free_agent,,,998103,Oliver,Florent,SYD,DEF MID
+191,583,free_agent,,,290032,Kane,Lambert,RIC,FWD
+192,664,free_agent,,,997142,Peter,Ladhams,SYD,RUC FWD
+193,576,free_agent,,,270896,Trent,Cotchin,RIC,MID
+194,371,free_agent,,,295265,Nick,Haynes,GWS,DEF
+196,353,free_agent,,,1009253,Lachie,Ash,GWS,DEF MID
+197,290,free_agent,,,298358,Oleg,Markov,GCS,DEF
+198,72,free_agent,,,297504,Daniel,McStay,BRL,FWD
+199,206,free_agent,,,294068,Andrew,Phillips,ESS,RUC
+200,744,free_agent,,,298268,Liam,Duggan,WCE,DEF MID
+201,395,free_agent,,,1000864,Lachlan,Bramble,HAW,DEF
+202,669,free_agent,,,1011936,Justin,McInerney,SYD,DEF MID
+205,374,free_agent,,,296324,Jesse,Hogan,GWS,FWD
+206,703,free_agent,,,290085,Taylor,Duryea,WBD,DEF
+207,743,free_agent,,,290838,Jack,Darling,WCE,FWD
+208,623,free_agent,,,1002227,Jack,Higgins,STK,FWD
+210,172,free_agent,,,1008089,Isaac,Quaynor,COL,DEF
+211,545,free_agent,,,292145,Tom,Jonas,PTA,DEF
+212,683,free_agent,,,1006126,James,Rowbottom,SYD,MID
+213,579,free_agent,,,260930,Shane,Edwards,RIC,FWD MID
+214,764,free_agent,,,997823,Josh,Rotham,WCE,DEF
+216,615,free_agent,,,1002264,Hunter,Clark,STK,DEF MID
+217,80,free_agent,,,290311,Mitch,Robinson,BRL,MID
+218,306,free_agent,,,298524,Lachie,Weller,GCS,MID FWD
+220,436,free_agent,,,1002222,James,Worpel,HAW,MID
+221,742,free_agent,,,290826,Jamie,Cripps,WCE,FWD
+223,646,free_agent,,,296422,Callum,Wilkie,STK,DEF
+224,272,free_agent,,,295446,Sam,Collins,GCS,DEF
+225,462,free_agent,,,296420,Alex,Neal-Bullen,MEL,FWD
+229,335,free_agent,,,1007102,Mark,O'Connor,GEE,DEF MID
+230,654,free_agent,,,291978,Harry,Cunningham,SYD,DEF
+231,711,free_agent,,,290797,Alex,Keath,WBD,DEF
+232,258,free_agent,,,294125,Nathan,Wilson,FRE,DEF
+233,535,free_agent,,,1006096,Xavier,Duursma,PTA,MID
+234,667,free_agent,,,1008198,Tom,McCartin,SYD,DEF
+236,34,free_agent,,,1008543,Harry,Schoenberg,ADE,MID
+238,582,free_agent,,,280819,Dylan,Grimes,RIC,DEF
+239,396,free_agent,,,280744,Luke,Breust,HAW,FWD
+241,531,free_agent,,,294504,Tom,Clurey,PTA,DEF
+242,230,free_agent,,,997033,Brennan,Cox,FRE,DEF
+245,169,free_agent,,,1000072,John,Noble,COL,DEF
+246,596,free_agent,,,250395,Jack,Riewoldt,RIC,FWD
+248,427,free_agent,,,996487,Tom,Phillips,HAW,MID
+249,441,free_agent,,,291867,Ben,Brown,MEL,FWD
+250,698,free_agent,,,293651,Hayden,Crozier,WBD,DEF
+251,265,free_agent,,,1008882,Charlie,Ballard,GCS,DEF
+252,754,free_agent,,,240406,Josh J.,Kennedy,WCE,FWD
+253,152,waiver,10882.0,2022-07-21 04:00:00,291720,Will,Hoskin-Elliott,COL,FWD MID
+254,556,free_agent,,,993979,Sam,Powell-Pepper,PTA,FWD MID
+255,338,free_agent,,,291357,Gary,Rohan,GEE,FWD
+256,106,free_agent,,,281078,Liam,Jones,CAR,DEF
+257,52,free_agent,,,990609,Charlie,Cameron,BRL,FWD
+259,103,free_agent,,,1002228,Lachie,Fogarty,CAR,FWD
+260,453,waiver,10882.0,2022-07-21 04:00:00,1013409,James,Jordon,MEL,MID
+261,195,free_agent,,,297473,Jake,Kelly,ESS,DEF
+263,466,free_agent,,,1008541,Kysaiah,Pickett,MEL,FWD
+265,110,free_agent,,,296190,Jack,Martin,CAR,FWD
+266,220,free_agent,,,295067,James,Aish,FRE,DEF MID
+267,142,waiver,5535.0,2022-07-21 04:00:00,1005054,Josh,Daicos,COL,MID
+268,554,free_agent,,,280990,Steven,Motlop,PTA,FWD
+269,745,free_agent,,,1011437,Harry,Edwards,WCE,DEF
+270,604,free_agent,,,1002583,Sydney,Stack,RIC,DEF
+271,508,free_agent,,,1011659,Tom,Powell,NTH,FWD MID
+272,624,free_agent,,,998195,Tom,Highmore,STK,DEF
+273,446,free_agent,,,1001438,Bayley,Fritsch,MEL,FWD
+274,271,free_agent,,,994077,Mabior,Chol,GCS,FWD RUC
+275,402,free_agent,,,293738,Sam,Frost,HAW,DEF
+277,645,free_agent,,,290757,Jimmy,Webster,STK,DEF
+279,694,free_agent,,,291492,Josh,Bruce,WBD,FWD
+280,251,free_agent,,,293854,Matt,Taberner,FRE,FWD
+281,160,free_agent,,,1010841,Jack,Madgen,COL,DEF
+282,117,free_agent,,,291773,Jack,Newnes,CAR,MID
+283,36,free_agent,,,1006136,Lachlan,Sholl,ADE,MID
+284,593,free_agent,,,993771,Marlion,Pickett,RIC,MID
+285,660,free_agent,,,997100,Will,Hayward,SYD,FWD
+286,566,free_agent,,,1002245,Noah,Balta,RIC,DEF FWD
+287,485,free_agent,,,1000061,Callum,Coleman-Jones,NTH,RUC FWD
+288,467,free_agent,,,1009378,Trent,Rivers,MEL,DEF
+290,720,free_agent,,,296041,Tim,O'Brien,WBD,DEF FWD
+292,250,free_agent,,,992059,Sam,Switkowski,FRE,FWD
+293,428,free_agent,,,1001024,Ned,Reeves,HAW,RUC
+295,197,free_agent,,,298280,Jayden,Laverde,ESS,DEF
+296,686,free_agent,,,294737,Callum,Sinclair,SYD,RUC FWD
+297,302,free_agent,,,1009380,Jeremy,Sharp,GCS,MID
+298,126,free_agent,,,1001028,Jack,Silvagni,CAR,FWD
+299,605,free_agent,,,270325,Robbie,Tarrant,RIC,DEF
+300,404,free_agent,,,291351,Jack,Gunston,HAW,FWD
+301,313,free_agent,,,999326,Brad,Close,GEE,FWD
+302,284,free_agent,,,297456,Nick,Holman,GCS,FWD
+303,379,free_agent,,,291509,Adam,Kennedy,GWS,DEF MID
+304,380,free_agent,,,290675,Daniel,Lloyd,GWS,FWD
+305,102,free_agent,,,999827,Zac,Fisher,CAR,FWD
+306,634,free_agent,,,298265,Daniel,McKenzie,STK,MID
+307,211,free_agent,,,291771,Devon,Smith,ESS,FWD
+308,549,free_agent,,,1004998,Todd,Marshall,PTA,FWD
+309,193,free_agent,,,270935,Michael,Hurley,ESS,DEF
+310,422,free_agent,,,1000963,Harry,Morrison,HAW,FWD MID
+311,256,free_agent,,,281007,Michael,Walters,FRE,FWD
+312,534,free_agent,,,296035,Trent,Dumont,PTA,MID
+314,733,free_agent,,,1011803,Cody,Weightman,WBD,FWD
+315,521,free_agent,,,998484,Cameron,Zurhaar,NTH,FWD
+316,648,free_agent,,,295340,Mason,Wood,STK,FWD MID
+317,736,free_agent,,,1004385,Oscar,Allen,WCE,FWD
+318,609,free_agent,,,998134,Josh,Battle,STK,DEF FWD
+319,400,free_agent,,,1008550,Will,Day,HAW,DEF MID
+320,760,free_agent,,,994539,Sam,Petrevski-Seton,WCE,DEF FWD
+321,616,free_agent,,,1005717,Nick,Coffield,STK,DEF
+322,377,free_agent,,,290314,Lachlan,Keeffe,GWS,DEF
+323,79,free_agent,,,1009385,Deven,Robertson,BRL,MID
+325,238,free_agent,,,996580,Ethan,Hughes,FRE,DEF
+326,75,free_agent,,,1002347,Jack,Payne,BRL,DEF
+328,358,free_agent,,,1009708,Jack,Buckley,GWS,DEF
+330,125,free_agent,,,998215,Will,Setterfield,CAR,MID
+331,364,free_agent,,,271015,Matt,de Boer,GWS,MID FWD
+332,765,free_agent,,,1004364,Liam,Ryan,WCE,FWD
+333,331,free_agent,,,1004938,Gryan,Miers,GEE,FWD
+334,182,free_agent,,,297406,Tom,Cutler,ESS,DEF MID
+335,630,free_agent,,,1006143,Max,King,STK,FWD
+337,536,free_agent,,,296334,Orazio,Fantasia,PTA,FWD
+338,326,free_agent,,,1015889,Max,Holmes,GEE,FWD MID
+339,376,free_agent,,,1008083,Connor,Idun,GWS,DEF
+340,524,free_agent,,,1009191,Miles,Bergman,PTA,MID
+341,588,free_agent,,,294592,Kamdyn,McIntosh,RIC,MID
+343,261,free_agent,,,998130,Ben,Ainsworth,GCS,FWD
+344,653,free_agent,,,996442,Ryan,Clarke,SYD,DEF MID
+345,42,free_agent,,,1008384,Riley,Thilthorpe,ADE,FWD
+346,499,free_agent,,,1001017,Nick,Larkey,NTH,FWD
+347,727,free_agent,,,992054,Roarke,Smith,WBD,MID
+348,333,free_agent,,,999824,Quinton,Narkle,GEE,MID
+349,602,free_agent,,,998529,Ivan,Soldo,RIC,FWD RUC
+350,673,free_agent,,,298144,Sam,Naismith,SYD,RUC
+351,171,free_agent,,,1011589,Caleb,Poulter,COL,MID
+352,328,free_agent,,,296291,Jake,Kolodjashnij,GEE,DEF
+354,84,free_agent,,,1002401,Brandon,Starcevich,BRL,DEF
+355,656,free_agent,,,291848,Robbie,Fox,SYD,DEF
+356,247,free_agent,,,1000860,Lachie,Schultz,FRE,FWD
+357,3,free_agent,,,293193,Luke,Brown,ADE,DEF
+359,63,free_agent,,,291548,Ryan,Lester,BRL,DEF
+360,165,free_agent,,,291849,Brody,Mihocek,COL,FWD
+361,229,free_agent,,,280988,Travis,Colyer,FRE,FWD
+362,253,free_agent,,,993816,Darcy,Tucker,FRE,DEF MID
+363,629,free_agent,,,294570,Dean,Kent,STK,FWD
+364,354,free_agent,,,1002300,Jarrod,Brander,GWS,MID
+365,289,free_agent,,,996464,Darcy,MacPherson,GCS,FWD
+366,472,free_agent,,,1002282,Charlie,Spargo,MEL,FWD
+367,315,free_agent,,,291526,Luke,Dahlhaus,GEE,FWD
+368,241,free_agent,,,997933,Griffin,Logue,FRE,DEF
+369,782,free_agent,,,293987,Jarrod,Lienert,STK,DEF
+370,213,free_agent,,,294654,James,Stewart,ESS,DEF
+371,127,free_agent,,,1008312,Liam,Stocker,CAR,DEF
+372,540,free_agent,,,1010174,Mitch,Georgiades,PTA,FWD
+373,449,free_agent,,,290160,Michael,Hibberd,MEL,DEF
+374,670,free_agent,,,1003203,Hayden,McLean,SYD,FWD
+375,187,free_agent,,,996232,Matt,Guelfi,ESS,FWD MID
+376,362,free_agent,,,1002251,Brent,Daniels,GWS,FWD
+377,691,free_agent,,,1006232,Sam,Wicks,SYD,FWD
+378,769,free_agent,,,996554,Jake,Waterman,WCE,FWD
+379,269,free_agent,,,1000068,Chris,Burgess,GCS,RUC FWD
+380,33,free_agent,,,999316,James,Rowe,ADE,FWD
+381,614,free_agent,,,290246,Tom,Campbell,STK,RUC FWD
+382,26,free_agent,,,1008230,Nick,Murray,ADE,DEF
+383,275,free_agent,,,1005547,Josh,Corbett,GCS,FWD
+384,355,free_agent,,,1008436,Kieren,Briggs,GWS,RUC
+385,61,free_agent,,,993953,Eric,Hipwood,BRL,FWD
+386,66,free_agent,,,1013978,James,Madden,BRL,DEF
+387,322,free_agent,,,1004870,Zach,Guthrie,GEE,DEF
+388,423,free_agent,,,1007124,Conor,Nash,HAW,FWD MID
+389,4,free_agent,,,1004995,Jordon,Butts,ADE,DEF
+390,309,free_agent,,,293883,Jed,Bews,GEE,DEF
+391,575,free_agent,,,1008297,Riley,Collier-Dawkins,RIC,MID
+392,181,free_agent,,,1015827,Nikolas,Cox,ESS,MID
+393,23,free_agent,,,997206,Andrew,McPherson,ADE,DEF
+394,58,waiver,10883.0,2022-07-21 04:00:00,298211,Darcy,Fort,BRL,FWD RUC
+395,516,free_agent,,,291550,Josh,Walker,NTH,DEF
+396,709,free_agent,,,294101,Jason,Johannisen,WBD,FWD
+397,186,free_agent,,,990816,Aaron,Francis,ESS,DEF
+398,487,free_agent,,,294508,Aidan,Corr,NTH,DEF
+399,474,free_agent,,,291819,Adam,Tomlinson,MEL,DEF
+400,504,free_agent,,,1002143,Ben,McKay,NTH,DEF
+401,592,free_agent,,,1000267,Matthew,Parker,RIC,FWD
+402,697,free_agent,,,991939,Zaine,Cordy,WBD,DEF FWD
+403,245,free_agent,,,298409,Alex,Pearce,FRE,DEF
+404,451,free_agent,,,994385,Jayden,Hunt,MEL,DEF
+405,279,free_agent,,,999715,Jy,Farrar,GCS,DEF
+406,337,free_agent,,,1002220,Esava,Ratugolea,GEE,RUC FWD
+407,564,free_agent,,,992786,Jake,Aarts,RIC,FWD MID
+408,572,free_agent,,,991933,Jason,Castagna,RIC,FWD
+409,100,free_agent,,,1002256,Paddy,Dow,CAR,MID
+410,301,free_agent,,,294643,Alex,Sexton,GCS,FWD
+411,741,free_agent,,,993820,Tom,Cole,WCE,DEF
+413,501,free_agent,,,1009189,Jack,Mahony,NTH,FWD
+414,715,free_agent,,,280763,Stefan,Martin,WBD,RUC
+415,752,free_agent,,,998791,Jamaine,Jones,WCE,DEF FWD
+416,281,free_agent,,,1009260,Sam,Flanders,GCS,FWD
+417,381,free_agent,,,1006135,Xavier,O'Halloran,GWS,MID
+419,216,free_agent,,,298445,Alec,Waterman,ESS,FWD
+420,184,free_agent,,,1015810,Sam,Durham,ESS,FWD MID
+421,649,free_agent,,,1008091,Joel,Amartey,SYD,FWD
+422,119,free_agent,,,1013973,Matthew,Owies,CAR,FWD
+423,465,free_agent,,,1008893,Harrison,Petty,MEL,DEF
+424,25,free_agent,,,1000998,Lachlan,Murphy,ADE,FWD
+425,60,free_agent,,,296269,Darcy,Gardiner,BRL,DEF
+426,724,free_agent,,,993841,Josh,Schache,WBD,DEF FWD
+427,599,free_agent,,,1006133,Jack,Ross,RIC,MID
+428,519,free_agent,,,1004909,Lachie,Young,NTH,DEF MID
+429,387,free_agent,,,998225,Zach,Sproule,GWS,FWD
+430,641,free_agent,,,1018018,Cooper,Sharman,STK,FWD
+431,652,free_agent,,,1013133,Braeden,Campbell,SYD,DEF
+432,442,free_agent,,,290622,Mitch,Brown,MEL,FWD
+433,484,free_agent,,,1008288,Atu,Bosenavulagi,NTH,DEF
+434,22,free_agent,,,1008185,Ned,McHenry,ADE,FWD
+435,123,free_agent,,,294624,Lachie,Plowman,CAR,DEF
+436,286,free_agent,,,1006144,Ben,King,GCS,FWD
+437,611,free_agent,,,992374,Dan,Butler,STK,FWD
+438,483,free_agent,,,1004894,Aiden,Bonar,NTH,DEF
+439,10,free_agent,,,999331,Darcy,Fogarty,ADE,FWD
+440,668,free_agent,,,1013230,Logan,McDonald,SYD,FWD
+441,612,free_agent,,,1011994,Ryan,Byrnes,STK,FWD MID
+442,509,free_agent,,,1006058,Bailey,Scott,NTH,DEF FWD
+443,513,free_agent,,,1006137,Curtis,Taylor,NTH,FWD MID
+444,20,free_agent,,,298470,Shane,McAdam,ADE,FWD
+445,411,free_agent,,,1006030,Jacob,Koschitzke,HAW,FWD
+446,363,free_agent,,,280804,Phil,Davis,GWS,DEF
+447,460,free_agent,,,280824,Jake,Melksham,MEL,FWD
+448,287,free_agent,,,294013,Sean,Lemmens,GCS,DEF
+449,717,free_agent,,,996483,Toby,McLean,WBD,FWD
+450,758,free_agent,,,298298,Jackson,Nelson,WCE,DEF MID
+451,118,free_agent,,,1002259,Lochie,O'Brien,CAR,MID
+452,135,free_agent,,,1009186,Trent,Bianco,COL,FWD
+453,637,free_agent,,,1004985,Ben,Paton,STK,DEF
+454,77,free_agent,,,1002235,Cam,Rayner,BRL,FWD MID
+455,277,free_agent,,,291753,Sam,Day,GCS,FWD
+456,707,free_agent,,,1001449,Mitch,Hannan,WBD,FWD
+457,725,free_agent,,,992048,Anthony,Scott,WBD,FWD MID
+458,140,free_agent,,,998647,Mason,Cox,COL,FWD
+459,227,free_agent,,,1013224,Heath,Chapman,FRE,DEF
+460,46,free_agent,,,298437,Callum,Ah Chee,BRL,DEF MID
+461,57,free_agent,,,293479,Cameron,Ellis-Yolmen,BRL,MID
+462,40,free_agent,,,1008752,Kieran,Strachan,ADE,RUC
+463,17,free_agent,,,1006203,Chayce,Jones,ADE,DEF
+464,205,free_agent,,,1015873,Archie,Perkins,ESS,FWD MID
+465,671,free_agent,,,996743,Lewis,Melican,SYD,DEF
+466,24,free_agent,,,990882,Wayne,Milera,ADE,DEF
+467,136,free_agent,,,1002770,Callum L.,Brown,COL,FWD
+468,746,free_agent,,,1006576,Luke,Edwards,WCE,MID
+469,270,free_agent,,,281124,Levi,Casboult,GCS,FWD
+470,705,free_agent,,,1006533,Riley,Garcia,WBD,FWD
+471,234,free_agent,,,999321,Michael,Frederick,FRE,FWD
+472,546,free_agent,,,1011583,Lachie,Jones,PTA,DEF
+473,372,free_agent,,,1006148,Bobby,Hill,GWS,FWD
+475,93,free_agent,,,1008154,Matthew,Cottrell,CAR,FWD MID
+477,515,free_agent,,,992499,Kayne,Turner,NTH,DEF FWD
+478,53,free_agent,,,298336,Nakia,Cockatoo,BRL,FWD
+479,439,free_agent,,,1012825,Jake,Bowey,MEL,DEF
+480,755,free_agent,,,1004286,Zac,Langdon,WCE,FWD
+481,406,free_agent,,,290228,Kyle,Hartigan,HAW,DEF
+482,194,free_agent,,,1011755,Harrison,Jones,ESS,FWD
+483,585,free_agent,,,1008478,Rhyan,Mansell,RIC,DEF
+484,242,free_agent,,,1000980,Lloyd,Meek,FRE,RUC
+485,357,free_agent,,,1012805,Tanner,Bruhn,GWS,FWD MID
+487,340,free_agent,,,1004940,Sam,Simpson,GEE,FWD
+488,473,free_agent,,,999391,Tom,Sparrow,MEL,FWD MID
+489,59,free_agent,,,1013532,Tom,Fullarton,BRL,FWD
+490,537,free_agent,,,1002253,Kane,Farrell,PTA,FWD MID
+491,731,free_agent,,,1005000,Laitham,Vandermeer,WBD,FWD
+492,188,free_agent,,,1008190,Brayden,Ham,ESS,FWD MID
+495,613,free_agent,,,1002922,Jack,Bytel,STK,MID
+496,723,free_agent,,,1008280,Ed,Richards,WBD,DEF
+497,506,free_agent,,,1012829,Will,Phillips,NTH,MID FWD
+498,174,free_agent,,,1009383,Trey,Ruscoe,COL,DEF
+499,95,free_agent,,,993795,David,Cuningham,CAR,MID FWD
+500,761,free_agent,,,1006550,Jack,Petruccelle,WCE,FWD
+501,718,free_agent,,,1009015,Lachlan,McNeil,WBD,FWD
+502,231,free_agent,,,1002353,Mitch,Crowden,FRE,FWD
+503,112,free_agent,,,297255,Mitch,McGovern,CAR,FWD
+504,437,free_agent,,,1008855,Oskar,Baker,MEL,MID
+505,621,free_agent,,,290117,Dan,Hannebery,STK,MID
+506,728,free_agent,,,992330,Jordon,Sweet,WBD,RUC
+507,137,free_agent,,,1008171,Tyler,Brown,COL,FWD MID
+508,15,free_agent,,,1005199,Elliott,Himmelberg,ADE,FWD
+510,76,free_agent,,,1009386,Jaxon,Prior,BRL,MID
+511,770,free_agent,,,1003192,Connor,West,WCE,FWD MID
+512,264,free_agent,,,294472,Rory,Atkins,GCS,MID
+513,343,free_agent,,,997230,Tyson,Stengle,GEE,FWD
+514,507,free_agent,,,290738,Jared,Polec,NTH,MID
+515,48,free_agent,,,1005053,Noah,Answerth,BRL,DEF
+516,747,free_agent,,,1005599,Luke,Foley,WCE,DEF
+517,168,free_agent,,,1005107,Nathan,Murphy,COL,MID
+518,632,free_agent,,,993917,Ben,Long,STK,DEF FWD
+519,11,free_agent,,,991773,Billy,Frampton,ADE,DEF FWD
+520,382,free_agent,,,1006013,James,Peatling,GWS,DEF
+521,252,free_agent,,,1012819,Josh,Treacy,FRE,FWD
+522,224,free_agent,,,298450,Connor,Blakely,FRE,MID
+523,282,free_agent,,,1006087,Caleb,Graham,GCS,DEF RUC
+524,155,free_agent,,,1013974,Mark,Keane,COL,DEF
+525,236,free_agent,,,295222,Joel,Hamling,FRE,DEF
+526,268,free_agent,,,1008454,Connor,Budarick,GCS,DEF
+527,759,free_agent,,,1008282,Xavier,O'Neill,WCE,FWD MID
+528,13,free_agent,,,1008159,Will,Hamill,ADE,DEF
+529,222,free_agent,,,998180,Bailey,Banfield,FRE,FWD
+530,255,free_agent,,,1009410,Brandon,Walker,FRE,DEF
+531,385,free_agent,,,1008123,Jake,Riccardi,GWS,FWD MID
+532,730,free_agent,,,1009301,Jamarra,Ugle-Hagan,WBD,FWD
+533,237,free_agent,,,1005988,Liam,Henry,FRE,FWD
+534,617,free_agent,,,1009228,Leo,Connolly,STK,DEF
+535,650,free_agent,,,1002291,James,Bell,SYD,FWD
+536,397,free_agent,,,1013511,Tyler,Brockman,HAW,FWD
+537,763,free_agent,,,296225,Willie,Rioli,WCE,FWD MID
+538,539,free_agent,,,999320,Martin,Frederick,PTA,DEF
+541,732,free_agent,,,291545,Mitch,Wallis,WBD,FWD
+542,218,free_agent,,,1004034,Brandon,Zerk-Thatcher,ESS,DEF
+543,151,free_agent,,,1012860,Oliver,Henry,COL,FWD
+544,771,free_agent,,,1006114,Bailey J.,Williams,WCE,RUC FWD
+545,105,free_agent,,,1002938,Josh,Honey,CAR,FWD
+546,274,free_agent,,,1002242,Charlie,Constable,GCS,MID
+547,706,free_agent,,,997501,Ryan,Gardner,WBD,DEF
+548,162,free_agent,,,1004757,Beau,McCreery,COL,FWD
+549,109,free_agent,,,298302,Caleb,Marchbank,CAR,DEF
+550,5,free_agent,,,1018335,Brayden,Cook,ADE,MID
+551,518,free_agent,,,1004965,Tristan,Xerri,NTH,FWD RUC
+552,414,free_agent,,,1000960,Max,Lynch,HAW,RUC
+553,498,free_agent,,,1011640,Jason,Horne-Francis,NTH,FWD MID
+554,159,free_agent,,,1012828,Finlay,Macrae,COL,MID
+555,492,free_agent,,,1012833,Eddie,Ford,NTH,FWD
+556,403,free_agent,,,1013093,Denver,Grainger-Barras,HAW,DEF
+557,595,free_agent,,,1011985,Hugo,Ralphsmith,RIC,FWD MID
+558,628,free_agent,,,1003520,Darragh,Joyce,STK,DEF
+560,7,free_agent,,,298417,Ben,Davis,ADE,DEF FWD
+561,701,free_agent,,,1017126,Sam,Darcy,WBD,DEF FWD
+562,276,free_agent,,,1013268,Alex,Davies,GCS,FWD MID
+563,111,free_agent,,,992472,Oscar,McDonald,CAR,FWD
+564,249,free_agent,,,1013611,Sam,Sturt,FRE,FWD
+565,500,free_agent,,,1012852,Charlie,Lazzaro,NTH,FWD MID
+566,550,free_agent,,,293603,Sam,Mayes,PTA,FWD
+567,478,free_agent,,,993806,Sam,Weideman,MEL,FWD
+568,148,free_agent,,,1012857,Jack,Ginnivan,COL,FWD
+569,120,free_agent,,,1012409,Luke,Parks,CAR,DEF
+570,176,free_agent,,,993797,Tom,Wilson,COL,DEF
+571,497,free_agent,,,998327,Kyron,Hayden,NTH,DEF
+572,578,free_agent,,,1009226,Thomson,Dow,RIC,FWD MID
+573,359,free_agent,,,1023266,Finn,Callaghan,GWS,MID
+574,157,free_agent,,,997254,Nathan,Kreuger,COL,DEF
+575,675,free_agent,,,997842,Colin,O'Riordan,SYD,DEF
+577,81,free_agent,,,1007099,Harry,Sharp,BRL,MID
+578,785,free_agent,,,1002231,Patrick,Naish,WCE,FWD MID
+579,263,free_agent,,,1017396,Mac,Andrew,GCS,RUC
+580,14,free_agent,,,999309,Jackson,Hately,ADE,MID
+581,688,free_agent,,,296211,Lewis,Taylor,SYD,MID FWD
+582,734,free_agent,,,1006127,Rhylee,West,WBD,FWD
+583,682,free_agent,,,1004880,Ben,Ronke,SYD,FWD
+584,32,free_agent,,,1017051,Joshua,Rachele,ADE,MID FWD
+585,356,free_agent,,,1014038,Callum M.,Brown,GWS,DEF FWD
+586,389,free_agent,,,1015862,Conor,Stone,GWS,FWD MID
+587,16,free_agent,,,1004863,Mitchell,Hinge,ADE,DEF
+588,434,free_agent,,,1017110,Josh,Ward,HAW,MID
+589,471,free_agent,,,1003546,Joel,Smith,MEL,DEF
+590,388,free_agent,,,1007238,Jake,Stein,GWS,DEF
+591,221,free_agent,,,1020594,Jye,Amiss,FRE,FWD
+592,208,free_agent,,,1012817,Zach,Reid,ESS,DEF
+593,51,free_agent,,,1006100,Thomas,Berry,BRL,FWD
+594,409,free_agent,,,1005150,Emerson,Jeka,HAW,FWD
+595,580,free_agent,,,1017059,Joshua,Gibcus,RIC,DEF
+596,687,free_agent,,,1004848,Dylan,Stephens,SYD,MID
+597,233,free_agent,,,1020250,Neil,Erasmus,FRE,MID
+598,179,free_agent,,,1011954,Nick,Bryan,ESS,RUC
+599,644,free_agent,,,1015507,Nasiah,Wanganeen-Milera,STK,DEF MID
+600,21,free_agent,,,1009201,Fischer,Mcasey,ADE,DEF
+601,587,free_agent,,,1009313,Will,Martyn,RIC,MID
+602,589,free_agent,,,1002403,Ben,Miller,RIC,DEF
+603,559,free_agent,,,1017078,Josh,Sinn,PTA,DEF MID
+604,776,free_agent,,,298312,Patrick,McCartin,SYD,DEF FWD
+605,107,free_agent,,,1009241,Brodie,Kemp,CAR,DEF
+606,192,free_agent,,,1017088,Ben,Hobbs,ESS,FWD MID
+607,739,free_agent,,,1017057,Campbell,Chesser,WCE,DEF MID
+608,505,free_agent,,,1011771,Flynn,Perez,NTH,DEF MID
+609,351,free_agent,,,1008691,Leek,Aleer,GWS,DEF
+610,101,free_agent,,,1008510,Corey,Durdin,CAR,FWD
+611,401,free_agent,,,1012830,Connor,Downie,HAW,MID
+612,416,free_agent,,,1009421,Finn,Maginness,HAW,MID FWD
+613,87,free_agent,,,1017067,Darcy,Wilmot,BRL,DEF
+614,570,free_agent,,,1017086,Tom,Brown,RIC,DEF
+615,685,free_agent,,,1020339,Angus,Sheldrick,SYD,MID
+616,299,free_agent,,,1005986,Malcolm,Rosas,GCS,FWD
+617,695,free_agent,,,1011992,Louis,Butler,WBD,MID
+618,285,free_agent,,,1005992,Joel,Jeffrey,GCS,FWD
+619,712,free_agent,,,998782,Buku,Khamis,WBD,DEF
+620,476,free_agent,,,1017720,Jacob,van Rooyen,MEL,DEF FWD
+621,2,free_agent,,,1009029,James,Borlase,ADE,DEF
+622,12,free_agent,,,1018075,Lachlan,Gollant,ADE,FWD
+623,28,free_agent,,,1016082,Tariek,Newchurch,ADE,FWD
+624,30,free_agent,,,1013153,Patrick,Parnell,ADE,DEF
+625,31,free_agent,,,1012218,Luke,Pedlar,ADE,MID FWD
+626,44,free_agent,,,1011981,Josh,Worrell,ADE,DEF
+627,54,free_agent,,,1013256,Blake,Coleman,BRL,FWD
+628,62,free_agent,,,1018296,Kalin,Lane,BRL,RUC
+629,70,free_agent,,,1006085,Connor,McFadyen,BRL,FWD MID
+630,73,free_agent,,,1013260,Carter,Michael,BRL,DEF
+631,82,free_agent,,,1006033,Ely,Smith,BRL,FWD MID
+632,83,free_agent,,,1016189,Henry,Smith,BRL,FWD
+633,86,free_agent,,,1021659,Deividas,Uosis,BRL,DEF
+634,90,free_agent,,,1002795,Jordan,Boyd,CAR,DEF
+635,91,free_agent,,,1013233,Jack,Carroll,CAR,MID
+636,114,free_agent,,,1023446,Alex,Mirkov,CAR,RUC
+637,121,free_agent,,,1011929,Sam,Philp,CAR,FWD
+638,134,free_agent,,,1015748,Aiden,Begg,COL,RUC
+639,139,free_agent,,,1015901,Isaac,Chugg,COL,DEF
+640,154,free_agent,,,997974,Ashley,Johnson,COL,FWD
+641,156,free_agent,,,1008285,Will,Kelly,COL,DEF FWD
+642,163,free_agent,,,1013278,Reef,McInnes,COL,MID
+643,164,free_agent,,,1012842,Liam,McMahon,COL,FWD
+644,177,free_agent,,,1008975,Kaine,Baldwin,ESS,FWD
+645,178,free_agent,,,1012837,Cody,Brand,ESS,DEF
+646,185,free_agent,,,1015712,Josh,Eyre,ESS,DEF FWD
+647,191,free_agent,,,1020224,Tom,Hird,ESS,FWD MID
+648,199,free_agent,,,1018969,Cian,McBride,ESS,RUC FWD
+649,244,free_agent,,,1013220,Nathan,O'Driscoll,FRE,DEF MID
+650,257,free_agent,,,1009401,Joel,Western,FRE,MID
+651,273,free_agent,,,1009334,Matt,Conroy,GCS,RUC
+652,283,free_agent,,,1012862,Elijah,Hollands,GCS,MID FWD
+653,291,free_agent,,,1000044,Jez,McLennan,GCS,DEF
+654,293,free_agent,,,1021013,Ned,Moyle,GCS,RUC
+655,294,free_agent,,,1016116,Patrick,Murtagh,GCS,RUC FWD
+656,295,free_agent,,,1013247,Rhys,Nicholls,GCS,DEF
+657,296,free_agent,,,1009320,Hewago Paul,Oea,GCS,FWD MID
+658,304,free_agent,,,281075,Rory,Thompson,GCS,DEF
+659,317,free_agent,,,1009229,Sam,De Koning,GEE,DEF FWD
+660,320,free_agent,,,1017255,Francis,Evans,GEE,FWD
+661,334,free_agent,,,1016433,Shannon,Neale,GEE,FWD
+662,344,free_agent,,,1004948,Cooper,Stephens,GEE,MID
+663,345,free_agent,,,1007101,Nick,Stevens,GEE,MID
+664,347,free_agent,,,1007049,Paul,Tsapatolis,GEE,RUC
+665,352,free_agent,,,1015777,Ryan,Angwin,GWS,DEF MID
+666,366,free_agent,,,1012863,Cameron,Fleeton,GWS,DEF
+667,386,free_agent,,,1015688,Will,Shaw,GWS,DEF MID
+668,393,free_agent,,,1004530,Jacob,Wehr,GWS,DEF
+669,399,free_agent,,,1013208,Jackson,Callow,HAW,FWD
+670,418,free_agent,,,1018016,Seamus,Mitchell,HAW,FWD
+671,421,free_agent,,,1008537,Josh,Morris,HAW,FWD
+672,429,free_agent,,,1008600,Jack,Saunders,HAW,FWD
+673,438,free_agent,,,1008139,Toby,Bedford,MEL,FWD
+674,443,free_agent,,,1005330,Kade,Chandler,MEL,FWD
+675,455,free_agent,,,1012826,Bailey,Laurie,MEL,FWD MID
+676,468,free_agent,,,1013086,Fraser,Rosman,MEL,MID
+677,470,free_agent,,,1009288,Deakyn,Smith,MEL,DEF
+678,475,free_agent,,,1020959,Daniel,Turner,MEL,DEF
+679,486,free_agent,,,1015781,Charlie,Comben,NTH,RUC FWD
+680,491,free_agent,,,1015895,Jacob,Edwards,NTH,RUC FWD
+681,503,free_agent,,,1006653,Matt,McGuinness,NTH,DEF FWD
+682,511,free_agent,,,1011647,Phoenix,Spicer,NTH,FWD
+683,517,free_agent,,,1013191,Patrick,Walker,NTH,DEF MID
+684,542,free_agent,,,1002248,Sam,Hayes,PTA,RUC
+685,547,free_agent,,,1012881,Ollie,Lord,PTA,FWD
+686,551,free_agent,,,1004819,Jed,McEntee,PTA,MID FWD
+687,553,free_agent,,,1005326,Jackson,Mead,PTA,FWD MID
+688,555,free_agent,,,1009389,Jake,Pasini,PTA,DEF
+689,558,free_agent,,,1012310,Taj,Schofield,PTA,FWD MID
+690,560,free_agent,,,993836,Sam,Skinner,PTA,DEF FWD
+691,562,free_agent,,,1009195,Dylan,Williams,PTA,FWD
+692,574,free_agent,,,1021660,Mate,Colina,RIC,RUC
+693,577,free_agent,,,1009308,Noah,Cumberland,RIC,MID FWD
+694,591,free_agent,,,1006193,Bigoa,Nyuon,RIC,DEF
+695,598,free_agent,,,1009551,Maurice,Rioli,RIC,MID FWD
+696,600,free_agent,,,1012386,Samson,Ryan,RIC,RUC FWD
+697,608,free_agent,,,1015714,Matthew,Allison,STK,DEF
+698,622,free_agent,,,1015886,Max,Heath,STK,RUC FWD
+699,658,free_agent,,,1004113,Will,Gould,SYD,DEF
+700,666,free_agent,,,1021200,Lachlan,McAndrew,SYD,RUC
+701,674,free_agent,,,1019158,Barry,O'Connor,SYD,DEF
+702,684,free_agent,,,1013138,Marc,Sheather,SYD,FWD
+703,692,free_agent,,,1015822,Dominic,Bedendo,WBD,FWD
+704,751,free_agent,,,1011243,Callum,Jamieson,WCE,RUC
+705,768,free_agent,,,1011449,Zane,Trew,WCE,MID
+706,773,free_agent,,,1009291,Isiah,Winder,WCE,MID FWD
+707,786,free_agent,,,1006150,Tom,Joyce,WCE,MID
+708,795,free_agent,,,297767,Sam,Durdin,CAR,DEF
+709,796,free_agent,,,991976,Will,Hayes,CAR,MID FWD
+710,64,free_agent,,,1014026,Kai,Lohmann,BRL,FWD
+711,39,free_agent,,,1017109,Jake,Soligo,ADE,MID
+712,41,free_agent,,,1017065,Zac,Taylor,ADE,MID
+713,85,free_agent,,,1021108,James,Tunstill,BRL,MID
+714,115,free_agent,,,1017700,Jesse,Motlop,CAR,FWD
+715,146,free_agent,,,1011637,Arlo,Draper,COL,MID
+716,150,free_agent,,,1015332,Harvey,Harrison,COL,MID
+717,167,free_agent,,,1011718,Cooper,Murley,COL,MID FWD
+718,198,free_agent,,,1015369,Alastair,Lord,ESS,DEF
+719,200,free_agent,,,992012,Garrett,McDonagh,ESS,DEF
+720,223,free_agent,,,1022889,Eric,Benning,FRE,RUC FWD
+721,239,free_agent,,,1016825,Matthew,Johnson,FRE,MID
+722,314,free_agent,,,1017063,Toby,Conway,GEE,RUC
+723,327,free_agent,,,1021103,Mitchell,Knevitt,GEE,MID
+724,329,free_agent,,,1018020,Flynn,Kroeger,GEE,MID
+725,349,free_agent,,,1021090,Cooper,Whyte,GEE,MID
+726,350,free_agent,,,1011633,James,Willis,GEE,MID
+727,365,free_agent,,,1017751,Josh,Fahey,GWS,DEF
+728,398,free_agent,,,1010708,Sam,Butler,HAW,MID FWD
+729,415,free_agent,,,1017094,Connor,MacDonald,HAW,FWD MID
+730,431,free_agent,,,1017091,Jai,Serong,HAW,MID FWD
+731,450,free_agent,,,1017122,Blake,Howes,MEL,MID FWD
+732,479,free_agent,,,1018425,Taj,Woewodin,MEL,MID
+733,481,free_agent,,,1020968,Jackson,Archer,NTH,DEF
+734,482,free_agent,,,1017095,Miller,Bergman,NTH,DEF MID
+735,489,free_agent,,,1002947,Paul,Curtis,NTH,FWD
+736,493,free_agent,,,1017118,Joshua,Goater,NTH,MID
+737,527,free_agent,,,1013462,Jase,Burgoyne,PTA,DEF MID
+738,544,free_agent,,,1015330,Hugh,Jackson,PTA,MID
+739,561,free_agent,,,1017128,Dante,Visentini,PTA,RUC FWD
+740,567,free_agent,,,1013197,Samuel,Banks,RIC,DEF
+741,573,free_agent,,,1017043,Judson,Clarke,RIC,MID FWD
+742,603,free_agent,,,1017114,Tyler,Sonsie,RIC,MID
+743,607,free_agent,,,1015515,Oscar,Adams,STK,DEF RUC
+744,636,free_agent,,,1023272,Mitch,Owens,STK,MID
+745,647,free_agent,,,1023270,Marcus,Windhager,STK,MID FWD
+746,679,free_agent,,,1017115,Lachlan,Rankin,SYD,DEF FWD
+747,681,free_agent,,,1012210,Matty,Roberts,SYD,MID
+748,690,free_agent,,,1018424,Corey,Warner,SYD,MID
+749,696,free_agent,,,1015929,Luke,Cleary,WBD,DEF
+750,710,free_agent,,,1020586,Arthur,Jones,WBD,DEF FWD
+751,738,free_agent,,,1017718,Rhett,Bazzo,WCE,DEF FWD
+752,740,free_agent,,,990978,Greg,Clark,WCE,MID
+753,749,free_agent,,,1023167,Brady,Hough,WCE,DEF MID
+754,772,free_agent,,,1020371,Jack,Williams,WCE,RUC FWD
+755,27,free_agent,,,1021031,Luke,Nankervis,ADE,MID FWD
+756,89,free_agent,,,1015830,Domanic,Akuei,CAR,DEF RUC
+757,145,free_agent,,,1009197,Charlie,Dean,COL,DEF
+758,215,free_agent,,,1017754,Patrick,Voss,ESS,DEF FWD
+759,259,free_agent,,,1021015,Karl,Worner,FRE,DEF MID
+760,267,free_agent,,,1013315,Sandy,Brock,GCS,DEF
+761,305,free_agent,,,1017665,Bodhi,Uwland,GCS,DEF MID
+762,318,free_agent,,,1025034,Oliver,Dempsey,GEE,FWD
+763,332,free_agent,,,1024982,Oisin,Mullin,GEE,DEF
+764,370,free_agent,,,1017093,Cooper,Hamilton,GWS,MID FWD
+765,413,free_agent,,,1017124,Ned,Long,HAW,MID FWD
+766,425,free_agent,,,1024939,Fionn,O'Hara,HAW,MID
+767,459,free_agent,,,1017703,Judd,McVee,MEL,DEF MID
+768,461,free_agent,,,1013165,Andy,Moniz-Wakefield,MEL,MID
+769,631,free_agent,,,1017388,Josiah,Kyle,STK,FWD
+770,638,free_agent,,,1017932,Jack,Peris,STK,MID FWD
+771,716,free_agent,,,296588,Robbie,McComb,WBD,FWD MID
+772,721,free_agent,,,1023224,Charlie,Parker,WBD,MID FWD
+773,722,free_agent,,,1012879,Cody,Raak,WBD,DEF
+774,777,free_agent,,,296280,James,Tsitas,GCS,MID
+775,778,free_agent,,,1012521,Tex,Wanganeen,ESS,FWD
+777,780,free_agent,,,990840,Jack,Hayes,STK,FWD RUC
+778,781,free_agent,,,1002372,Hugh,Dixon,WCE,FWD RUC
+779,784,free_agent,,,996707,Mitchell,Cox,BRL,DEF MID
+780,787,free_agent,,,998192,Luke,Strnadica,WCE,RUC
+781,788,free_agent,,,291589,Aaron,Black,WCE,MID
+782,789,free_agent,,,1002354,Stefan,Giro,WCE,MID
+783,790,free_agent,,,999724,Declan,Mountford,WCE,DEF MID
+784,791,free_agent,,,1004356,Brayden,Ainsworth,WCE,FWD
+785,792,free_agent,,,294178,Angus,Dewar,WCE,DEF
+786,793,free_agent,,,996603,Jake,Florenca,WCE,MID
+787,794,free_agent,,,990377,Brett,Turner,ADE,MID
+788,797,free_agent,,,1027021,Josh,Carmichael,COL,MID FWD
+789,798,free_agent,,,1005144,Massimo,D'Ambrosio,ESS,DEF
+790,799,free_agent,,,1013201,Jye,Menzie,ESS,MID
+791,800,free_agent,,,1012048,Sebit,Kuek,FRE,FWD
+792,801,free_agent,,,1013038,Zane,Williams,GEE,FWD
+793,802,free_agent,,,1017089,Oskar,Faulkhead,GCS,MID
+794,803,free_agent,,,1016140,Wade,Derksen,GWS,DEF FWD
+795,804,free_agent,,,1027965,Max,Ramsden,HAW,RUC
+796,805,free_agent,,,1011839,James,Blanck,HAW,DEF
+797,806,free_agent,,,1012144,Kallan,Dawson,NTH,DEF
+798,807,free_agent,,,1007591,Brynn,Teakle,PTA,RUC FWD
+799,808,free_agent,,,1021152,Jacob,Bauer,RIC,FWD
+800,809,free_agent,,,1023273,Hugo,Hall-Kahan,SYD,FWD
+801,810,free_agent,,,1020802,Jai,Culley,WCE,MID FWD
+802,783,free_agent,,,270938,Tom,*** Lynch,NTH,FWD
+803,173,free_agent,,,280012,Jordan,*** Roughead,COL,DEF
+804,571,free_agent,,,290623,Josh,*** Caddy,RIC,MID
+805,201,free_agent,,,294092,Anthony,*** McDonald-Tipungwuti,ESS,FWD
+806,131,free_agent,,,998167,Tom,*** Williamson,CAR,DEF
+807,619,free_agent,,,260113,Jarryn,*** Geary,STK,MID
+808,444,free_agent,,,290199,Majak,*** Daw,MEL,DEF RUC
+809,254,free_agent,,,1004850,Luke,*** Valente,FRE,MID
