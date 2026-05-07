@@ -1,0 +1,1223 @@
+<!doctype html>
+<html lang="en" data-bs-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Luke — 2026</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+  <link rel="stylesheet" href="/asl-hub/static/css/custom.css">
+</head>
+<body>
+
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+  <div class="container-fluid">
+    <a class="navbar-brand fw-bold" href="/asl-hub/">🏉 ASL Fantasy 2026</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navMenu">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link " href="/asl-hub/">Season Summary</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Coaches</a>
+          <ul class="dropdown-menu">
+            
+            <li><a class="dropdown-item" href="/asl-hub/coach/Anthony">Anthony</a></li>
+            
+            <li><a class="dropdown-item" href="/asl-hub/coach/James">James</a></li>
+            
+            <li><a class="dropdown-item" href="/asl-hub/coach/Jordan">Jordan</a></li>
+            
+            <li><a class="dropdown-item" href="/asl-hub/coach/Lester">Lester</a></li>
+            
+            <li><a class="dropdown-item" href="/asl-hub/coach/Luke">Luke</a></li>
+            
+            <li><a class="dropdown-item" href="/asl-hub/coach/Mark">Mark</a></li>
+            
+            <li><a class="dropdown-item" href="/asl-hub/coach/Paul">Paul</a></li>
+            
+            <li><a class="dropdown-item" href="/asl-hub/coach/Simon">Simon</a></li>
+            
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="/asl-hub/power-rankings">Power Rankings</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="/asl-hub/draft-heat-map">Draft Heat Map</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="/asl-hub/acquisition">Acquisition</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="/asl-hub/records">Honour Board</a>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid px-4">
+  
+<div class="row g-3 mb-4 align-items-center">
+  <div class="col-auto">
+    
+    <img src="data:image/png;base64,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" alt="Luke" class="coach-portrait">
+    
+  </div>
+  <div class="col">
+    <h2 class="mb-0">Luke</h2>
+    <div class="text-muted small">2026 Season Profile</div>
+  </div>
+  <div class="col-auto d-flex gap-3">
+    <div class="text-center">
+      <div class="fs-4 fw-bold">1554.4</div>
+      <div class="text-muted small">Avg Score</div>
+    </div>
+    <div class="text-center">
+      <div class="fs-4 fw-bold">1810</div>
+      <div class="text-muted small">Best Score</div>
+    </div>
+    <div class="text-center">
+      <div class="fs-4 fw-bold">12435</div>
+      <div class="text-muted small">Total Pts</div>
+    </div>
+  </div>
+</div>
+
+<div class="row g-3">
+
+  
+  
+  <div class="col-12">
+    
+<div class="card shadow-sm mb-3">
+  <div class="card-header fw-semibold d-flex justify-content-between align-items-center">
+    <span>Current Team — Round 9</span>
+  </div>
+  <div class="card-body p-0">
+    <div class="fv-wrapper">
+
+      
+      <div class="fv-field">
+
+        
+        
+        
+        <div class="fv-position">
+          <div class="fv-pos-label">Defenders</div>
+          <div class="fv-cells">
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="ESS"><rect fill="#000000" x="0" y="0" width="24" height="24"/><polygon fill="#D51400" points="14.696,0 0,19.07 0.009,24 9.257,24 24,4.869 24,0"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">A. Roberts</div>
+                <div class="fv-sub">ESS&thinsp;<span class="fv-pos-badge">DEF</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">110.2</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="GWS"><rect fill="#F1F1F1" x="0" y="0" width="24" height="24"/><rect fill="#E37211" x="0" y="0" width="24" height="12"/><polygon fill="#787878" points="15.123,12 11.507,24 24,24 24,12"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">L. Ash</div>
+                <div class="fv-sub">GWS&thinsp;<span class="fv-pos-badge">DEF</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">102.6</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="BRL"><rect fill="#A0224B" x="0" y="0" width="24" height="24"/><rect fill="#0760AD" x="0" y="0" width="24" height="8.842"/><rect fill="#FEBF3E" x="0" y="8.842" width="24" height="5.053"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">H. Andrews</div>
+                <div class="fv-sub">BRL&thinsp;<span class="fv-pos-badge">DEF</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">95.0</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="GCS"><rect fill="#A10F0F" x="0" y="0" width="24" height="24"/><rect fill="#FF9200" x="0" y="0" width="6.575" height="24"/><rect fill="#FF9200" x="17.425" y="0" width="6.575" height="24"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">J. Jeffrey</div>
+                <div class="fv-sub">GCS&thinsp;<span class="fv-pos-badge">DEF</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">86.4</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="MEL"><rect fill="#010C69" x="0" y="0" width="24" height="24"/><polygon fill="#E01E00" points="0,0 12,16.421 24,0"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">J. Bowey</div>
+                <div class="fv-sub">MEL&thinsp;<span class="fv-pos-badge">DEF</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">—</div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        
+        
+        
+        
+        <div class="fv-position">
+          <div class="fv-pos-label">Midfielders</div>
+          <div class="fv-cells">
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="PTA"><rect fill="#000000" x="0" y="0" width="24" height="24"/><path fill="#FFFFFF" d="M2.931,0 L0,0 L0,3.981 L12.003,20.211 L24,3.492 L24,0 Z"/><polygon fill="#4AB0B3" points="0,0 12.012,16.495 24,0"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">Z. Butters</div>
+                <div class="fv-sub">PTA&thinsp;<span class="fv-pos-badge">MID</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">124.6</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="GEE"><rect fill="#000A61" x="0" y="0" width="24" height="24"/><rect fill="#FFFFFF" x="0" y="5.053" width="24" height="5.053"/><rect fill="#FFFFFF" x="0" y="13.895" width="24" height="5.053"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">M. Holmes</div>
+                <div class="fv-sub">GEE&thinsp;<span class="fv-pos-badge">MID</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">120.6</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="HAW"><rect fill="#633102" x="0" y="0" width="24" height="24"/><rect fill="#F1C813" x="4.364" y="0" width="4.364" height="24"/><rect fill="#F1C813" x="15.273" y="0" width="4.364" height="24"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">J. Newcombe</div>
+                <div class="fv-sub">HAW&thinsp;<span class="fv-pos-badge">MID</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">104.4</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="STK"><rect fill="#000000" x="0" y="0" width="24" height="24"/><rect fill="#C71100" x="0" y="0" width="8.727" height="24"/><rect fill="#FFFFFF" x="8.727" y="0" width="6.545" height="24"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">N. Wanganeen-Milera</div>
+                <div class="fv-sub">STK&thinsp;<span class="fv-pos-badge">MID</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">103.2</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="BRL"><rect fill="#A0224B" x="0" y="0" width="24" height="24"/><rect fill="#0760AD" x="0" y="0" width="24" height="8.842"/><rect fill="#FEBF3E" x="0" y="8.842" width="24" height="5.053"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">W. Ashcroft</div>
+                <div class="fv-sub">BRL&thinsp;<span class="fv-pos-badge">MID</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">92.5</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="HAW"><rect fill="#633102" x="0" y="0" width="24" height="24"/><rect fill="#F1C813" x="4.364" y="0" width="4.364" height="24"/><rect fill="#F1C813" x="15.273" y="0" width="4.364" height="24"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">C. Nash</div>
+                <div class="fv-sub">HAW&thinsp;<span class="fv-pos-badge">MID</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">79.4</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="ADE"><rect fill="#174068" x="0" y="0" width="24" height="24"/><rect fill="#EB0707" x="0" y="6.316" width="24" height="5.053"/><rect fill="#FFD204" x="0" y="11.368" width="24" height="5.053"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">J. Soligo</div>
+                <div class="fv-sub">ADE&thinsp;<span class="fv-pos-badge">MID</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">74.7</div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        
+        
+        
+        
+        <div class="fv-position">
+          <div class="fv-pos-label">Rucks</div>
+          <div class="fv-cells">
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="RIC"><rect fill="#000000" x="0" y="0" width="24" height="24"/><polygon fill="#F3C516" points="14.696,0 0,19.07 0.009,24 9.257,24 24,4.869 24,0"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">T. Nankervis</div>
+                <div class="fv-sub">RIC&thinsp;<span class="fv-pos-badge">RUC</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">110.0</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="ESS"><rect fill="#000000" x="0" y="0" width="24" height="24"/><polygon fill="#D51400" points="14.696,0 0,19.07 0.009,24 9.257,24 24,4.869 24,0"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">P. Wright</div>
+                <div class="fv-sub">ESS&thinsp;<span class="fv-pos-badge">RUC</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">86.9</div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        
+        
+        
+        
+        <div class="fv-position">
+          <div class="fv-pos-label">Forwards</div>
+          <div class="fv-cells">
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="WBD"><rect fill="#062BDB" x="0" y="0" width="24" height="24"/><rect fill="#D82018" x="0" y="6.579" width="24" height="5.263"/><rect fill="#FFFFFF" x="0" y="11.842" width="24" height="5.263"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">R. Sanders</div>
+                <div class="fv-sub">WBD&thinsp;<span class="fv-pos-badge">FWD</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">90.4</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="STK"><rect fill="#000000" x="0" y="0" width="24" height="24"/><rect fill="#C71100" x="0" y="0" width="8.727" height="24"/><rect fill="#FFFFFF" x="8.727" y="0" width="6.545" height="24"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">B. Hill</div>
+                <div class="fv-sub">STK&thinsp;<span class="fv-pos-badge">FWD</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">88.9</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="SYD"><rect fill="#FFFFFF" x="0" y="0" width="24" height="24"/><polygon fill="#EF2109" points="0,0 0,11.52 5.795,14.88 11.75,11.52 18.213,14.88 24,11.52 24,0"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">C. Warner</div>
+                <div class="fv-sub">SYD&thinsp;<span class="fv-pos-badge">FWD</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">88.4</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="SYD"><rect fill="#FFFFFF" x="0" y="0" width="24" height="24"/><polygon fill="#EF2109" points="0,0 0,11.52 5.795,14.88 11.75,11.52 18.213,14.88 24,11.52 24,0"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">T. Papley</div>
+                <div class="fv-sub">SYD&thinsp;<span class="fv-pos-badge">FWD</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">79.4</div>
+              </div>
+            </div>
+            
+            
+            
+            <div class="fv-cell">
+              <div class="fv-logo-wrap">
+                
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="ADE"><rect fill="#174068" x="0" y="0" width="24" height="24"/><rect fill="#EB0707" x="0" y="6.316" width="24" height="5.053"/><rect fill="#FFD204" x="0" y="11.368" width="24" height="5.053"/></svg>
+                
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">B. Cook</div>
+                <div class="fv-sub">ADE&thinsp;<span class="fv-pos-badge">FWD</span></div>
+              </div>
+              <div class="fv-score">
+                
+                  <div class="fv-pts ">—</div>
+                
+                <div class="fv-avg">77.8</div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+        
+        
+
+      </div>
+
+      
+      <div class="fv-bench">
+        <div class="fv-bench-header">
+          <span>Bench</span>
+        </div>
+        
+        
+        <div class="fv-bench-cell is-emergency">
+          
+          <span class="fv-emerg-badge">E</span>
+          
+          <div class="fv-logo-wrap fv-logo-wrap--bench">
+            
+            <svg class="fv-logo fv-logo--bench" viewBox="0 0 24 24" width="28" height="28" aria-label="NTH"><rect fill="#1412F6" x="0" y="0" width="24" height="24"/><rect fill="#FFFFFF" x="4.364" y="0" width="4.364" height="24"/><rect fill="#FFFFFF" x="15.273" y="0" width="4.364" height="24"/></svg>
+            
+          </div>
+          <div>
+            <div class="fv-bench-name">C. McKercher</div>
+            <div class="fv-bench-sub">NTH &middot; DEF</div>
+          </div>
+          <div class="fv-score ms-auto text-end">
+            
+              <div class="fv-bench-pts">—</div>
+            
+            <div class="fv-bench-avg">82.9</div>
+          </div>
+        </div>
+        
+        
+        <div class="fv-bench-cell is-emergency">
+          
+          <span class="fv-emerg-badge">E</span>
+          
+          <div class="fv-logo-wrap fv-logo-wrap--bench">
+            
+            <svg class="fv-logo fv-logo--bench" viewBox="0 0 24 24" width="28" height="28" aria-label="WCE"><rect fill="#F6B910" x="0" y="0" width="24" height="24"/><rect fill="#011068" x="0" y="0" width="8.727" height="24"/><rect fill="#FFFFFF" x="8.727" y="0" width="6.545" height="24"/></svg>
+            
+          </div>
+          <div>
+            <div class="fv-bench-name">H. Reid</div>
+            <div class="fv-bench-sub">WCE &middot; MID</div>
+          </div>
+          <div class="fv-score ms-auto text-end">
+            
+              <div class="fv-bench-pts">—</div>
+            
+            <div class="fv-bench-avg">80.8</div>
+          </div>
+        </div>
+        
+        
+        <div class="fv-bench-cell">
+          
+          <div class="fv-logo-wrap fv-logo-wrap--bench">
+            
+            <svg class="fv-logo fv-logo--bench" viewBox="0 0 24 24" width="28" height="28" aria-label="GCS"><rect fill="#A10F0F" x="0" y="0" width="24" height="24"/><rect fill="#FF9200" x="0" y="0" width="6.575" height="24"/><rect fill="#FF9200" x="17.425" y="0" width="6.575" height="24"/></svg>
+            
+          </div>
+          <div>
+            <div class="fv-bench-name">N. Moyle</div>
+            <div class="fv-bench-sub">GCS &middot; RUC</div>
+          </div>
+          <div class="fv-score ms-auto text-end">
+            
+              <div class="fv-bench-pts">—</div>
+            
+            <div class="fv-bench-avg">72.0</div>
+          </div>
+        </div>
+        
+        
+        <div class="fv-bench-cell is-emergency">
+          
+          <span class="fv-emerg-badge">E</span>
+          
+          <div class="fv-logo-wrap fv-logo-wrap--bench">
+            
+            <svg class="fv-logo fv-logo--bench" viewBox="0 0 24 24" width="28" height="28" aria-label="HAW"><rect fill="#633102" x="0" y="0" width="24" height="24"/><rect fill="#F1C813" x="4.364" y="0" width="4.364" height="24"/><rect fill="#F1C813" x="15.273" y="0" width="4.364" height="24"/></svg>
+            
+          </div>
+          <div>
+            <div class="fv-bench-name">N. Reeves</div>
+            <div class="fv-bench-sub">HAW &middot; RUC</div>
+          </div>
+          <div class="fv-score ms-auto text-end">
+            
+              <div class="fv-bench-pts">—</div>
+            
+            <div class="fv-bench-avg">76.9</div>
+          </div>
+        </div>
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+  </div>
+  
+
+  
+  
+  <div class="col-12">
+    <div class="card shadow-sm mb-3">
+      <div class="card-header fw-semibold">
+        Changes from Round 8
+      </div>
+      <div class="card-body p-0">
+        <div class="row g-0">
+          <div class="col-6 border-end">
+            
+            <div class="d-flex align-items-center gap-2 px-3 py-2 border-bottom">
+              <span class="badge text-bg-success">IN</span>
+              <span class="fw-semibold">J. Jeffrey</span>
+              <span class="text-muted small">GCS</span>
+            </div>
+            
+            <div class="d-flex align-items-center gap-2 px-3 py-2 border-bottom">
+              <span class="badge text-bg-success">IN</span>
+              <span class="fw-semibold">B. Cook</span>
+              <span class="text-muted small">ADE</span>
+            </div>
+            
+          </div>
+          <div class="col-6">
+            
+            <div class="d-flex align-items-center gap-2 px-3 py-2 border-bottom">
+              <span class="badge text-bg-danger">OUT</span>
+              <span class="fw-semibold">K. Briggs</span>
+              <span class="text-muted small">GWS</span>
+            </div>
+            
+            <div class="d-flex align-items-center gap-2 px-3 py-2 border-bottom">
+              <span class="badge text-bg-danger">OUT</span>
+              <span class="fw-semibold">R. Bice</span>
+              <span class="text-muted small">SYD</span>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+  
+  <div class="col-12">
+    <div class="card shadow-sm">
+      <div class="card-header fw-semibold">Positional Breakdown by Round</div>
+      <div class="card-body p-2">
+        <div id="posChart"></div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="col-12 col-lg-5">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">Round-by-Round Scores</div>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0">
+            <thead class="table-dark">
+              <tr>
+                <th>Rd</th>
+                <th class="text-end">Score</th>
+                <th>vs</th>
+                <th class="text-end">Opp</th>
+                <th class="text-center">Result</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+              <tr>
+                <td>1</td>
+                <td class="text-end fw-semibold">1471</td>
+                <td class="text-muted small">Simon</td>
+                <td class="text-end text-muted">1829</td>
+                <td class="text-center">
+                  
+                    <span class="badge bg-danger">L</span>
+                  
+                </td>
+              </tr>
+              
+              <tr>
+                <td>2</td>
+                <td class="text-end fw-semibold">1420</td>
+                <td class="text-muted small">Jordan</td>
+                <td class="text-end text-muted">1635</td>
+                <td class="text-center">
+                  
+                    <span class="badge bg-danger">L</span>
+                  
+                </td>
+              </tr>
+              
+              <tr>
+                <td>3</td>
+                <td class="text-end fw-semibold">1178</td>
+                <td class="text-muted small">Lester</td>
+                <td class="text-end text-muted">1615</td>
+                <td class="text-center">
+                  
+                    <span class="badge bg-danger">L</span>
+                  
+                </td>
+              </tr>
+              
+              <tr>
+                <td>4</td>
+                <td class="text-end fw-semibold">1646</td>
+                <td class="text-muted small">Anthony</td>
+                <td class="text-end text-muted">1575</td>
+                <td class="text-center">
+                  
+                    <span class="badge bg-success">W</span>
+                  
+                </td>
+              </tr>
+              
+              <tr>
+                <td>5</td>
+                <td class="text-end fw-semibold">1495</td>
+                <td class="text-muted small">James</td>
+                <td class="text-end text-muted">1739</td>
+                <td class="text-center">
+                  
+                    <span class="badge bg-danger">L</span>
+                  
+                </td>
+              </tr>
+              
+              <tr>
+                <td>6</td>
+                <td class="text-end fw-semibold">1771</td>
+                <td class="text-muted small">Paul</td>
+                <td class="text-end text-muted">1596</td>
+                <td class="text-center">
+                  
+                    <span class="badge bg-success">W</span>
+                  
+                </td>
+              </tr>
+              
+              <tr>
+                <td>7</td>
+                <td class="text-end fw-semibold">1644</td>
+                <td class="text-muted small">Mark</td>
+                <td class="text-end text-muted">1804</td>
+                <td class="text-center">
+                  
+                    <span class="badge bg-danger">L</span>
+                  
+                </td>
+              </tr>
+              
+              <tr>
+                <td>8</td>
+                <td class="text-end fw-semibold">1810</td>
+                <td class="text-muted small">Simon</td>
+                <td class="text-end text-muted">1681</td>
+                <td class="text-center">
+                  
+                    <span class="badge bg-success">W</span>
+                  
+                </td>
+              </tr>
+              
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="col-12 col-lg-7">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">Top Players This Season (On-Field)</div>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0">
+            <thead class="table-dark">
+              <tr>
+                <th>Player</th>
+                <th>Pos</th>
+                <th class="text-end">Gms</th>
+                <th class="text-end">Avg</th>
+                <th class="text-end">Best</th>
+                <th class="text-end">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+              <tr>
+                <td>Zak Butters</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">8</td>
+                <td class="text-end fw-semibold">124.6</td>
+                <td class="text-end">154</td>
+                <td class="text-end text-muted">997</td>
+              </tr>
+              
+              <tr>
+                <td>Max Holmes</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">7</td>
+                <td class="text-end fw-semibold">123.1</td>
+                <td class="text-end">149</td>
+                <td class="text-end text-muted">862</td>
+              </tr>
+              
+              <tr>
+                <td>Jai Newcombe</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">7</td>
+                <td class="text-end fw-semibold">110.3</td>
+                <td class="text-end">136</td>
+                <td class="text-end text-muted">772</td>
+              </tr>
+              
+              <tr>
+                <td>Archie Roberts</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">8</td>
+                <td class="text-end fw-semibold">110.2</td>
+                <td class="text-end">145</td>
+                <td class="text-end text-muted">882</td>
+              </tr>
+              
+              <tr>
+                <td>Toby Nankervis</td>
+                <td><span class="badge bg-secondary">RUC</span></td>
+                <td class="text-end">2</td>
+                <td class="text-end fw-semibold">110.0</td>
+                <td class="text-end">117</td>
+                <td class="text-end text-muted">220</td>
+              </tr>
+              
+              <tr>
+                <td>Nasiah Wanganeen-Milera</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">2</td>
+                <td class="text-end fw-semibold">109.5</td>
+                <td class="text-end">149</td>
+                <td class="text-end text-muted">219</td>
+              </tr>
+              
+              <tr>
+                <td>Nasiah Wanganeen-Milera</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">5</td>
+                <td class="text-end fw-semibold">108.8</td>
+                <td class="text-end">136</td>
+                <td class="text-end text-muted">544</td>
+              </tr>
+              
+              <tr>
+                <td>Kane McAuliffe</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">1</td>
+                <td class="text-end fw-semibold">108.0</td>
+                <td class="text-end">108</td>
+                <td class="text-end text-muted">108</td>
+              </tr>
+              
+              <tr>
+                <td>Lachie Ash</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">7</td>
+                <td class="text-end fw-semibold">107.4</td>
+                <td class="text-end">136</td>
+                <td class="text-end text-muted">752</td>
+              </tr>
+              
+              <tr>
+                <td>Harris Andrews</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">3</td>
+                <td class="text-end fw-semibold">102.3</td>
+                <td class="text-end">141</td>
+                <td class="text-end text-muted">307</td>
+              </tr>
+              
+              <tr>
+                <td>Chad Warner</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">3</td>
+                <td class="text-end fw-semibold">95.3</td>
+                <td class="text-end">104</td>
+                <td class="text-end text-muted">286</td>
+              </tr>
+              
+              <tr>
+                <td>Will Ashcroft</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">7</td>
+                <td class="text-end fw-semibold">91.7</td>
+                <td class="text-end">139</td>
+                <td class="text-end text-muted">642</td>
+              </tr>
+              
+              <tr>
+                <td>Bradley Hill</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">6</td>
+                <td class="text-end fw-semibold">90.5</td>
+                <td class="text-end">106</td>
+                <td class="text-end text-muted">543</td>
+              </tr>
+              
+              <tr>
+                <td>Ryley Sanders</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">7</td>
+                <td class="text-end fw-semibold">90.4</td>
+                <td class="text-end">122</td>
+                <td class="text-end text-muted">633</td>
+              </tr>
+              
+              <tr>
+                <td>Harley Reid</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">2</td>
+                <td class="text-end fw-semibold">90.0</td>
+                <td class="text-end">101</td>
+                <td class="text-end text-muted">180</td>
+              </tr>
+              
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="col-12">
+    <div class="card shadow-sm">
+      <div class="card-header fw-semibold">Current Roster</div>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0">
+            <thead class="table-dark">
+              <tr>
+                <th>Player</th>
+                <th>AFL Team</th>
+                <th>Pos</th>
+                <th class="text-end">Avg</th>
+                <th class="text-end">Avg3</th>
+                <th class="text-end">Price</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+              <tr>
+                <td class="fw-semibold">Zak Butters</td>
+                <td class="text-muted small">PTA</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">124.6</td>
+                <td class="text-end">127.7</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Max Holmes</td>
+                <td class="text-muted small">GEE</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">123.1</td>
+                <td class="text-end">116.7</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Jai Newcombe</td>
+                <td class="text-muted small">HAW</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">110.3</td>
+                <td class="text-end">122.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Archie Roberts</td>
+                <td class="text-muted small">ESS</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">110.2</td>
+                <td class="text-end">115.3</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Toby Nankervis</td>
+                <td class="text-muted small">RIC</td>
+                <td><span class="badge bg-secondary">RUC</span></td>
+                <td class="text-end">110.0</td>
+                <td class="text-end">110.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Nasiah Wanganeen-Milera</td>
+                <td class="text-muted small">STK</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">109.0</td>
+                <td class="text-end">106.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Lachie Ash</td>
+                <td class="text-muted small">GWS</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">107.4</td>
+                <td class="text-end">91.3</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Harris Andrews</td>
+                <td class="text-muted small">BRL</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">102.3</td>
+                <td class="text-end">102.3</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Will Ashcroft</td>
+                <td class="text-muted small">BRL</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">91.7</td>
+                <td class="text-end">98.7</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Bradley Hill</td>
+                <td class="text-muted small">STK</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">90.5</td>
+                <td class="text-end">103.7</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Ryley Sanders</td>
+                <td class="text-muted small">WBD</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">90.4</td>
+                <td class="text-end">94.3</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Chad Warner</td>
+                <td class="text-muted small">SYD</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">88.0</td>
+                <td class="text-end">95.3</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Tom Papley</td>
+                <td class="text-muted small">SYD</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">87.0</td>
+                <td class="text-end">87.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Colby McKercher</td>
+                <td class="text-muted small">NTH</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">84.4</td>
+                <td class="text-end">76.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Peter Wright</td>
+                <td class="text-muted small">ESS</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">81.3</td>
+                <td class="text-end">81.3</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Harley Reid</td>
+                <td class="text-muted small">WCE</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">80.3</td>
+                <td class="text-end">83.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Jake Soligo</td>
+                <td class="text-muted small">ADE</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">77.2</td>
+                <td class="text-end">80.7</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Joel Jeffrey</td>
+                <td class="text-muted small">GCS</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">74.5</td>
+                <td class="text-end">63.7</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Ned Moyle</td>
+                <td class="text-muted small">GCS</td>
+                <td><span class="badge bg-secondary">RUC</span></td>
+                <td class="text-end">72.0</td>
+                <td class="text-end">72.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Conor Nash</td>
+                <td class="text-muted small">HAW</td>
+                <td><span class="badge bg-secondary">MID</span></td>
+                <td class="text-end">70.0</td>
+                <td class="text-end">70.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Ned Reeves</td>
+                <td class="text-muted small">HAW</td>
+                <td><span class="badge bg-secondary">RUC</span></td>
+                <td class="text-end">64.8</td>
+                <td class="text-end">64.7</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Brayden Cook</td>
+                <td class="text-muted small">ADE</td>
+                <td><span class="badge bg-secondary">FWD</span></td>
+                <td class="text-end">62.0</td>
+                <td class="text-end">62.0</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+              <tr>
+                <td class="fw-semibold">Jake Bowey</td>
+                <td class="text-muted small">MEL</td>
+                <td><span class="badge bg-secondary">DEF</span></td>
+                <td class="text-end">—</td>
+                <td class="text-end">—</td>
+                <td class="text-end text-muted">$—</td>
+              </tr>
+              
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</div>
+
+<footer class="text-center text-muted small py-3 mt-5 border-top">
+  ASL Fantasy League Analytics &mdash; 2026 Season
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+
+
+<script>
+const posData = {"data": [{"hovertemplate": "<b>DEF</b> R%{x}: %{y:.0f}<extra></extra>", "line": {"color": "#1f77b4", "width": 2}, "mode": "lines+markers", "name": "DEF", "x": {"dtype": "i1", "bdata": "AQIDBAUGBwg="}, "y": {"dtype": "i2", "bdata": "iAEAAqcBFwL8AeIBrAHZAQ=="}, "type": "scatter"}, {"hovertemplate": "<b>MID</b> R%{x}: %{y:.0f}<extra></extra>", "line": {"color": "#2ca02c", "width": 2}, "mode": "lines+markers", "name": "MID", "x": {"dtype": "i1", "bdata": "AQIDBAUGBwg="}, "y": {"dtype": "i2", "bdata": "egIIApYBsAKIApUCAgPTAg=="}, "type": "scatter"}, {"hovertemplate": "<b>RUC</b> R%{x}: %{y:.0f}<extra></extra>", "line": {"color": "#9467bd", "width": 2}, "mode": "lines+markers", "name": "RUC", "x": {"dtype": "i1", "bdata": "AQIDBAUGBwg="}, "y": {"dtype": "i2", "bdata": "ewB1AFwAjgBKALIAMABpAA=="}, "type": "scatter"}, {"hovertemplate": "<b>FWD</b> R%{x}: %{y:.0f}<extra></extra>", "line": {"color": "#ff7f0e", "width": 2}, "mode": "lines+markers", "name": "FWD", "x": {"dtype": "i1", "bdata": "AQIDBAUGBwg="}, "y": {"dtype": "i2", "bdata": "QgFEAQEBGQEJAcIBjgH9AQ=="}, "type": "scatter"}], "layout": {"template": {"data": {"histogram2dcontour": [{"type": "histogram2dcontour", "colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}], "choropleth": [{"type": "choropleth", "colorbar": {"outlinewidth": 0, "ticks": ""}}], "histogram2d": [{"type": "histogram2d", "colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}], "heatmap": [{"type": "heatmap", "colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}], "contourcarpet": [{"type": "contourcarpet", "colorbar": {"outlinewidth": 0, "ticks": ""}}], "contour": [{"type": "contour", "colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}], "surface": [{"type": "surface", "colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}], "mesh3d": [{"type": "mesh3d", "colorbar": {"outlinewidth": 0, "ticks": ""}}], "scatter": [{"fillpattern": {"fillmode": "overlay", "size": 10, "solidity": 0.2}, "type": "scatter"}], "parcoords": [{"type": "parcoords", "line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "scatterpolargl": [{"type": "scatterpolargl", "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "#E5ECF6", "width": 0.5}, "pattern": {"fillmode": "overlay", "size": 10, "solidity": 0.2}}, "type": "bar"}], "scattergeo": [{"type": "scattergeo", "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "scatterpolar": [{"type": "scatterpolar", "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "histogram": [{"marker": {"pattern": {"fillmode": "overlay", "size": 10, "solidity": 0.2}}, "type": "histogram"}], "scattergl": [{"type": "scattergl", "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "scatter3d": [{"type": "scatter3d", "line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "scattermap": [{"type": "scattermap", "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "scattermapbox": [{"type": "scattermapbox", "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "scatterternary": [{"type": "scatterternary", "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "scattercarpet": [{"type": "scattercarpet", "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}], "barpolar": [{"marker": {"line": {"color": "#E5ECF6", "width": 0.5}, "pattern": {"fillmode": "overlay", "size": 10, "solidity": 0.2}}, "type": "barpolar"}], "pie": [{"automargin": true, "type": "pie"}]}, "layout": {"autotypenumbers": "strict", "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "hovermode": "closest", "hoverlabel": {"align": "left"}, "paper_bgcolor": "white", "plot_bgcolor": "#E5ECF6", "polar": {"bgcolor": "#E5ECF6", "angularaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "radialaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "ternary": {"bgcolor": "#E5ECF6", "aaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "baxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "caxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]]}, "xaxis": {"gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "automargin": true, "zerolinewidth": 2}, "yaxis": {"gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "automargin": true, "zerolinewidth": 2}, "scene": {"xaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white", "gridwidth": 2}, "yaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white", "gridwidth": 2}, "zaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white", "gridwidth": 2}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "geo": {"bgcolor": "white", "landcolor": "#E5ECF6", "subunitcolor": "white", "showland": true, "showlakes": true, "lakecolor": "white"}, "title": {"x": 0.05}, "mapbox": {"style": "light"}}}, "xaxis": {"title": {"text": "Round"}, "dtick": 1, "gridcolor": "#e0e0e0"}, "yaxis": {"title": {"text": "On-field Points"}, "gridcolor": "#e0e0e0"}, "legend": {"orientation": "h", "yanchor": "bottom", "y": 1.02, "xanchor": "right", "x": 1}, "margin": {"l": 50, "r": 20, "t": 60, "b": 40}, "title": {"text": "Luke \u2014 Positional Scores by Round"}, "plot_bgcolor": "white", "paper_bgcolor": "white", "height": 320}};
+Plotly.react('posChart', posData.data, posData.layout, {responsive: true, displayModeBar: false});
+</script>
+
+</body>
+</html>

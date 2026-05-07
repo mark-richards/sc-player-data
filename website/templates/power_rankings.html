@@ -1,0 +1,379 @@
+{% extends "base.html" %}
+{% block title %}Power Rankings{% endblock %}
+
+{% block content %}
+<h2 class="mb-4">Power Rankings</h2>
+
+{# ── Rolling Average Line Chart ── #}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">Power Rankings — 3 Round Average per Player</div>
+  <div class="card-body p-2">
+    <div id="prChart"></div>
+  </div>
+</div>
+
+{# ── Heat Map Table ── #}
+{% if pr_table.coaches %}
+<div class="card shadow-sm mb-4">
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table table-sm table-bordered mb-0 align-middle" style="font-size:0.85rem;">
+        <thead class="table-dark">
+          <tr>
+            <th style="min-width:70px">Coach</th>
+            <th class="text-end" title="Season average score per player">Avg</th>
+            <th class="text-end" title="Rolling 3-round average score per player">3Rd Avg</th>
+            {% for r in pr_table.rounds %}
+            <th class="text-end" style="min-width:38px">{{ r }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in pr_table.coaches %}
+          <tr>
+            <td class="fw-semibold">
+              <a href="/coach/{{ row.coach }}" class="text-decoration-none">{{ row.coach }}</a>
+            </td>
+            <td class="text-end">{{ "%.1f"|format(row.avg) }}</td>
+            <td class="text-end fw-semibold">{{ "%.1f"|format(row.avg_3rd) }}</td>
+            {% for cell in row.cells %}
+            <td class="text-end fw-semibold pr-cell"
+                style="background-color:{{ cell.color }}; color:{{ cell.text_color }}; padding:3px 6px; cursor:default;"
+                {% if cell.tooltip %}data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" data-bs-title="{{ cell.tooltip }}"{% endif %}>
+              {% if cell.val is not none %}
+                {{ cell.val | int }}{% if cell.result == "W" %} ✅{% elif cell.result == "L" %} ❌{% elif cell.result == "D" %} 🤝{% endif %}
+                {% if cell.donuts or cell.injuries %}
+                  <div style="font-size:0.9em; font-weight:normal;">{% if cell.donuts %}{{ cell.donuts }}🍩{% endif %}{% if cell.injuries %} {{ cell.injuries }}🤕{% endif %}</div>
+                {% endif %}
+              {% else %}&ndash;{% endif %}
+            </td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="card-footer text-muted small">
+    Values = team score ÷ on-field players (avg per player). Sorted by 3-round form. Rounds newest → oldest.
+  </div>
+</div>
+{% endif %}
+
+{# ── Player Rankings — tabbed by position ── #}
+<div class="card shadow-sm">
+  <div class="card-header fw-semibold">Player Rankings (On-Field, Min 2 Games)</div>
+  <div class="card-body">
+
+    <ul class="nav nav-tabs mb-3" id="rankTabs" role="tablist">
+      {% for pos in [('overall','OVERALL'), ('DEF','DEF'), ('MID','MID'), ('RUC','RUC'), ('FWD','FWD')] %}
+      <li class="nav-item" role="presentation">
+        <button class="nav-link {% if loop.first %}active{% endif %}"
+                id="tab-{{ pos[0] }}"
+                data-bs-toggle="tab"
+                data-bs-target="#pane-{{ pos[0] }}"
+                type="button" role="tab">
+          {{ pos[1] }}
+        </button>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div class="tab-content">
+      {% for pos_key, pos_label in [('overall','Overall'), ('DEF','DEF'), ('MID','MID'), ('RUC','RUC'), ('FWD','FWD')] %}
+      <div class="tab-pane fade {% if loop.first %}show active{% endif %}"
+           id="pane-{{ pos_key }}" role="tabpanel">
+
+        {% set rows = rankings[pos_key] %}
+        {% if rows %}
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0">
+            <thead class="table-dark">
+              <tr>
+                <th>#</th>
+                <th>Player</th>
+                <th>Coach</th>
+                {% if pos_key == 'overall' %}<th>Pos</th>{% endif %}
+                <th class="text-end">Gms</th>
+                <th class="text-end">Season Avg</th>
+                <th class="text-end">Form (L3)</th>
+                <th class="text-end">Best</th>
+                <th class="text-end">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for p in rows %}
+              <tr>
+                <td class="text-muted">{{ loop.index }}</td>
+                <td class="fw-semibold">{{ p.first_name }} {{ p.last_name }}</td>
+                <td class="text-muted small">
+                  <a href="/coach/{{ p.coach_first_name }}" class="text-decoration-none text-muted">{{ p.coach_first_name }}</a>
+                </td>
+                {% if pos_key == 'overall' %}
+                <td><span class="badge bg-secondary">{{ p.played_position }}</span></td>
+                {% endif %}
+                <td class="text-end">{{ p.games }}</td>
+                <td class="text-end fw-semibold">{{ p.avg }}</td>
+                <td class="text-end">
+                  {% if p.form_3rnd %}
+                    {% if p.form_3rnd >= p.avg %}
+                      <span class="text-success fw-semibold">{{ p.form_3rnd }}</span>
+                    {% else %}
+                      <span class="text-danger">{{ p.form_3rnd }}</span>
+                    {% endif %}
+                  {% else %}—{% endif %}
+                </td>
+                <td class="text-end">{{ p.best | int }}</td>
+                <td class="text-end text-muted">{{ p.total | int }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        {% else %}
+        <p class="text-muted py-3">No player data available yet for this season.</p>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+// Initialise Bootstrap tooltips on all heat-map cells
+document.querySelectorAll('.pr-cell[data-bs-toggle="tooltip"]').forEach(el => {
+  new bootstrap.Tooltip(el, { boundary: document.body });
+});
+</script>
+<script>
+const prData = {{ pr_chart | safe }};
+
+// Plotly 5.x encodes numeric arrays as {dtype, bdata} (base64 binary).
+function decodePlotlyArray(val) {
+  if (!val) return [];
+  if (Array.isArray(val)) return val;
+  if (val.bdata) {
+    const bin = atob(val.bdata);
+    const buf = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) buf[i] = bin.charCodeAt(i);
+    const types = { i1: Int8Array, i2: Int16Array, i4: Int32Array,
+                    u1: Uint8Array, u2: Uint16Array, u4: Uint32Array,
+                    f4: Float32Array, f8: Float64Array };
+    return Array.from(new (types[val.dtype] || Float64Array)(buf.buffer));
+  }
+  return Array.from(val);
+}
+
+function buildPowerRankingsChart(containerId, plotlyData) {
+  const container = document.getElementById(containerId);
+  const svgNS = 'http://www.w3.org/2000/svg';
+
+  const coaches = (plotlyData.data || []).map(t => ({
+    name:   t.name,
+    color:  (t.line && t.line.color) || (t.marker && t.marker.color) || '#1f77b4',
+    rounds: decodePlotlyArray(t.x),
+    values: decodePlotlyArray(t.y),
+  })).filter(c => c.rounds.length > 0);
+
+  const allRounds = [...new Set(coaches.flatMap(c => c.rounds))].sort((a, b) => a - b);
+  if (!coaches.length || !allRounds.length) return;
+
+  // Y axis range with padding
+  const allVals = coaches.flatMap(c => c.values).filter(v => v != null && !isNaN(v));
+  if (!allVals.length) return;
+  const dataMin = Math.min(...allVals);
+  const dataMax = Math.max(...allVals);
+  const yPad = Math.max((dataMax - dataMin) * 0.15, 5);
+  const yMin = Math.floor(dataMin - yPad);
+  const yMax = Math.ceil(dataMax + yPad);
+
+  const iconR = 10;
+  const totalW = Math.max(container.clientWidth || 500, 300);
+  const totalH = 370;
+  const ml = 44, mr = 20, mt = 28, mb = 20;
+  const legendH = 50;
+  const innerW = totalW - ml - mr;
+  const innerH = totalH - mt - mb - legendH;
+
+  const xScale = r => {
+    if (allRounds.length === 1) return ml + innerW / 2;
+    return ml + (r - allRounds[0]) / (allRounds[allRounds.length - 1] - allRounds[0]) * innerW;
+  };
+  const yScale = v => mt + (yMax - v) / (yMax - yMin) * innerH;
+
+  const svg = document.createElementNS(svgNS, 'svg');
+  svg.setAttribute('width', '100%');
+  svg.setAttribute('viewBox', `0 0 ${totalW} ${totalH}`);
+  svg.style.fontFamily = 'inherit';
+  svg.style.overflow = 'visible';
+
+  // ── Defs: circular clip paths ──────────────────────────────────
+  const defs = document.createElementNS(svgNS, 'defs');
+  coaches.forEach(coach => {
+    coach.rounds.forEach((r, j) => {
+      if (coach.values[j] == null) return;
+      const id = `clip-${coach.name}-r${r}`;
+      const cp = document.createElementNS(svgNS, 'clipPath');
+      cp.setAttribute('id', id);
+      const c = document.createElementNS(svgNS, 'circle');
+      c.setAttribute('cx', xScale(r));
+      c.setAttribute('cy', yScale(coach.values[j]));
+      c.setAttribute('r', iconR);
+      cp.appendChild(c);
+      defs.appendChild(cp);
+    });
+    const legId = `clip-leg-${coach.name}`;
+    const legCp = document.createElementNS(svgNS, 'clipPath');
+    legCp.setAttribute('id', legId);
+    const legC = document.createElementNS(svgNS, 'circle');
+    legC.setAttribute('cx', 0); legC.setAttribute('cy', 0); legC.setAttribute('r', 10);
+    legCp.appendChild(legC);
+    defs.appendChild(legCp);
+  });
+  svg.appendChild(defs);
+
+  // ── Y axis grid lines and labels ───────────────────────────────
+  const numTicks = 5;
+  for (let i = 0; i <= numTicks; i++) {
+    const v = yMin + (yMax - yMin) * i / numTicks;
+    const y = yScale(v);
+    const gl = document.createElementNS(svgNS, 'line');
+    gl.setAttribute('x1', ml); gl.setAttribute('x2', ml + innerW);
+    gl.setAttribute('y1', y);  gl.setAttribute('y2', y);
+    gl.setAttribute('stroke', '#e8e8e8'); gl.setAttribute('stroke-width', '1');
+    svg.appendChild(gl);
+    const yt = document.createElementNS(svgNS, 'text');
+    yt.setAttribute('x', ml - 6); yt.setAttribute('y', y + 4);
+    yt.setAttribute('text-anchor', 'end'); yt.setAttribute('font-size', '11');
+    yt.setAttribute('fill', '#999');
+    yt.textContent = Math.round(v);
+    svg.appendChild(yt);
+  }
+
+  // ── X axis labels ──────────────────────────────────────────────
+  const xLabelY = mt + innerH + (iconR + 2) + 12;
+  allRounds.forEach(r => {
+    const xt = document.createElementNS(svgNS, 'text');
+    xt.setAttribute('x', xScale(r)); xt.setAttribute('y', xLabelY);
+    xt.setAttribute('text-anchor', 'middle'); xt.setAttribute('font-size', '11');
+    xt.setAttribute('fill', '#999');
+    xt.textContent = r;
+    svg.appendChild(xt);
+  });
+
+  // ── Coach lines + icon markers ─────────────────────────────────
+  const groups = [];
+  coaches.forEach(coach => {
+    const g = document.createElementNS(svgNS, 'g');
+    g.setAttribute('data-coach', coach.name);
+    g.style.cursor = 'pointer';
+    g.style.transition = 'opacity 0.2s';
+
+    // Polyline (skip null values)
+    const pts = coach.rounds
+      .map((r, i) => coach.values[i] != null ? `${xScale(r)},${yScale(coach.values[i])}` : null)
+      .filter(Boolean)
+      .join(' ');
+    const poly = document.createElementNS(svgNS, 'polyline');
+    poly.setAttribute('points', pts);
+    poly.setAttribute('fill', 'none');
+    poly.setAttribute('stroke', coach.color);
+    poly.setAttribute('stroke-width', '2.5');
+    poly.setAttribute('stroke-linejoin', 'round');
+    poly.setAttribute('stroke-linecap', 'round');
+    g.appendChild(poly);
+
+    // Icon at each data point
+    coach.rounds.forEach((r, j) => {
+      const v = coach.values[j];
+      if (v == null) return;
+      const cx = xScale(r);
+      const cy = yScale(v);
+      const clipId = `clip-${coach.name}-r${r}`;
+
+      const border = document.createElementNS(svgNS, 'circle');
+      border.setAttribute('cx', cx); border.setAttribute('cy', cy);
+      border.setAttribute('r', iconR + 2);
+      border.setAttribute('fill', coach.color);
+      g.appendChild(border);
+
+      const img = document.createElementNS(svgNS, 'image');
+      img.setAttribute('x', cx - iconR); img.setAttribute('y', cy - iconR);
+      img.setAttribute('width', iconR * 2); img.setAttribute('height', iconR * 2);
+      img.setAttribute('href', `/static/images/coaches/${coach.name}_2022.png`);
+      img.setAttribute('clip-path', `url(#${clipId})`);
+      img.setAttribute('preserveAspectRatio', 'xMidYMid slice');
+      g.appendChild(img);
+    });
+
+    svg.appendChild(g);
+    groups.push(g);
+  });
+
+  // ── Hover isolation ────────────────────────────────────────────
+  groups.forEach(g => {
+    const enter = () => groups.forEach(og => { og.style.opacity = og === g ? '1' : '0.12'; });
+    const leave = () => groups.forEach(og => { og.style.opacity = '1'; });
+    g.addEventListener('mouseenter', enter);
+    g.addEventListener('mouseleave', leave);
+  });
+
+  // ── Legend ─────────────────────────────────────────────────────
+  const legY = mt + innerH + (iconR + 2) + 28;
+  const legIconR = 8;
+  const legSpacing = Math.min(Math.floor(totalW / coaches.length), 80);
+  const legStartX = (totalW - legSpacing * coaches.length) / 2 + legSpacing / 2;
+
+  coaches.forEach((coach, i) => {
+    const lx = legStartX + i * legSpacing;
+    const lg = document.createElementNS(svgNS, 'g');
+    lg.style.cursor = 'pointer';
+    lg.style.transition = 'opacity 0.2s';
+
+    const lb = document.createElementNS(svgNS, 'circle');
+    lb.setAttribute('cx', lx); lb.setAttribute('cy', legY);
+    lb.setAttribute('r', legIconR + 1.5);
+    lb.setAttribute('fill', coach.color);
+    lg.appendChild(lb);
+
+    const li = document.createElementNS(svgNS, 'image');
+    li.setAttribute('x', lx - legIconR); li.setAttribute('y', legY - legIconR);
+    li.setAttribute('width', legIconR * 2); li.setAttribute('height', legIconR * 2);
+    li.setAttribute('href', `/static/images/coaches/${coach.name}_2022.png`);
+    li.setAttribute('clip-path', `url(#clip-leg-${coach.name})`);
+    li.setAttribute('preserveAspectRatio', 'xMidYMid slice');
+    const legCpCircle = defs.querySelector(`#clip-leg-${coach.name} circle`);
+    if (legCpCircle) {
+      legCpCircle.setAttribute('cx', lx);
+      legCpCircle.setAttribute('cy', legY);
+    }
+    lg.appendChild(li);
+
+    const lt = document.createElementNS(svgNS, 'text');
+    lt.setAttribute('x', lx); lt.setAttribute('y', legY + legIconR + 12);
+    lt.setAttribute('text-anchor', 'middle'); lt.setAttribute('font-size', '9');
+    lt.setAttribute('fill', '#555');
+    lt.textContent = coach.name;
+    lg.appendChild(lt);
+
+    const mainG = groups.find(g => g.getAttribute('data-coach') === coach.name);
+    lg.addEventListener('mouseenter', () => {
+      groups.forEach(og => { og.style.opacity = og === mainG ? '1' : '0.12'; });
+    });
+    lg.addEventListener('mouseleave', () => {
+      groups.forEach(og => { og.style.opacity = '1'; });
+    });
+
+    svg.appendChild(lg);
+  });
+
+  container.innerHTML = '';
+  container.appendChild(svg);
+}
+
+buildPowerRankingsChart('prChart', prData);
+</script>
+{% endblock %}

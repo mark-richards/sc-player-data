@@ -1,0 +1,136 @@
+{% extends "base.html" %}
+{% block title %}Acquisition Analysis{% endblock %}
+
+{% block content %}
+<h2 class="mb-1">Acquisition Analysis</h2>
+<p class="text-muted small mb-4">How each coach assembled their roster — and who's made the best picks in each category.</p>
+
+{# ── King Cards ── #}
+<div class="row g-3 mb-4">
+  {% set cat_icons = {"Draft": "bi-trophy-fill", "Waiver": "bi-person-plus-fill", "FA": "bi-person-check-fill", "Trade": "bi-arrow-left-right"} %}
+  {% set cat_colors = {"Draft": "primary", "Waiver": "success", "FA": "info", "Trade": "warning"} %}
+  {% for cat in categories %}
+  {% set king = kings.get(cat, {}) %}
+  <div class="col-md-3">
+    <div class="card shadow-sm h-100 border-{{ cat_colors[cat] }}">
+      <div class="card-body text-center py-3">
+        <div class="mb-2">
+          <i class="bi {{ cat_icons[cat] }} fs-2 text-{{ cat_colors[cat] }}"></i>
+        </div>
+        <div class="fs-5 fw-bold text-{{ cat_colors[cat] }} mb-1">{{ cat }} King</div>
+        {% if king.coach %}
+        <div class="fs-3 fw-bold">
+          👑 {{ king.coach }}
+        </div>
+        <div class="text-muted small mt-1">
+          {{ "%.1f"|format(king.avg) }} avg &middot; {{ king.count }} player{{ 's' if king.count != 1 }}
+        </div>
+        {% else %}
+        <div class="text-muted fst-italic">No data yet</div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+{# ── Heat Map Table ── #}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">Avg Score by Acquisition Source</div>
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table table-sm table-bordered mb-0 align-middle" style="font-size:0.9rem;">
+        <thead class="table-dark">
+          <tr>
+            <th style="min-width:90px">Coach</th>
+            {% for cat in categories %}
+            <th class="text-center" style="min-width:130px">{{ cat }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in heatmap %}
+          <tr>
+            <td class="fw-semibold">
+              <a href="/coach/{{ row.coach }}" class="text-decoration-none">{{ row.coach }}</a>
+            </td>
+            {% for cat in categories %}
+            {% set cell = row.cells[cat] %}
+            {% if cell.avg is not none %}
+            <td class="text-center fw-semibold"
+                style="background-color:{{ cell.color }}; color:{{ cell.text_color }}; cursor:pointer; padding:6px 10px;"
+                data-bs-toggle="modal"
+                data-bs-target="#modal-{{ row.coach|replace(' ','_') }}-{{ cat|replace('/','_') }}">
+              {% if cell.is_king %}👑 {% endif %}{{ "%.1f"|format(cell.avg) }}
+              <div style="font-size:0.75rem; font-weight:normal; opacity:0.85;">{{ cell.count }} player{{ 's' if cell.count != 1 }}</div>
+            </td>
+            {% else %}
+            <td class="text-center text-muted" style="background-color:rgb(230,230,230); padding:6px 10px;">&mdash;</td>
+            {% endif %}
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="card-footer text-muted small">
+    Avg = mean on-field SC score across all rounds played. Click any cell to see the player list.
+  </div>
+</div>
+
+{# ── Modals (one per non-empty coach × category cell) ── #}
+{% for row in heatmap %}
+  {% for cat in categories %}
+  {% set cell = row.cells[cat] %}
+  {% if cell.avg is not none %}
+  <div class="modal fade" id="modal-{{ row.coach|replace(' ','_') }}-{{ cat|replace('/','_') }}" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">
+            {% if cell.is_king %}👑 {% endif %}{{ row.coach }} — {{ cat }}
+            <span class="text-muted fs-6 ms-2">({{ "%.1f"|format(cell.avg) }} avg)</span>
+          </h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body p-0">
+          <table class="table table-sm table-hover mb-0" style="font-size:0.85rem;">
+            <thead class="table-light">
+              <tr>
+                <th>Player</th>
+                <th class="text-end">Avg</th>
+                <th class="text-end">Total Pts</th>
+                <th class="text-end">Acquired</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for p in cell.players %}
+              <tr>
+                <td>{{ p.name }}</td>
+                <td class="text-end">{{ "%.1f"|format(p.avg) }}</td>
+                <td class="text-end">{{ p.total_pts if p.total_pts else '—' }}</td>
+                <td class="text-end">
+                  {% if cat == 'Waiver' and p.waiver_pick_num %}
+                    Rd {{ p.round_acquired }}, Pk {{ p.waiver_pick_num }} ({{ p.waiver_day }})
+                  {% elif p.round_acquired %}
+                    Rd {{ p.round_acquired }}
+                  {% elif p.round_acquired == 0 %}
+                    Draft
+                  {% else %}
+                    —
+                  {% endif %}
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% endblock %}

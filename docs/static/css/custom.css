@@ -1,0 +1,204 @@
+/* custom.css — Minor overrides */
+
+.standings-table th { white-space: nowrap; }
+.standings-table td { white-space: nowrap; }
+
+.card-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+}
+
+/* Make Plotly charts fill their card */
+.js-plotly-plot, .plotly { width: 100% !important; }
+
+/* Subtle row highlight */
+.standings-table tbody tr:hover {
+  background-color: #f0f4ff;
+}
+
+/* Coach portrait on profile page */
+.coach-portrait {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #dee2e6;
+}
+
+footer {
+  color: #adb5bd;
+}
+
+/* Draft Heat Map popover width */
+.draft-heatmap-table .popover {
+  max-width: 390px;
+}
+
+/* === Field View Widget === */
+.fv-wrapper {
+  display: flex;
+  gap: 0;
+  border-radius: 0 0 8px 8px;
+  overflow: hidden;
+  min-height: 520px;
+  max-width: 860px;
+  margin: 0 auto;
+  width: 100%;
+}
+.fv-field {
+  flex: 1;
+  position: relative;
+  background-color: #3a7748;
+  background-image:
+    url('/static/images/afl_field.png'),
+    linear-gradient(180deg, #5a9e6a 0%, #3a7748 45%, #2a5e38 100%);
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, cover;
+  background-position: center center, center center;
+  padding: 10px 8px;
+}
+.fv-field::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.12);
+  z-index: 0;
+}
+.fv-field > * { position: relative; z-index: 1; }
+.fv-position { margin-bottom: 6px; text-align: center; }
+.fv-pos-label {
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.9);
+  margin-bottom: 4px;
+}
+.fv-cells {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5px;
+  max-width: 530px;  /* 3 × 168px cards + gaps → DEF/FWD: 3+2, MID: 3+3+1 */
+  margin: 0 auto;
+}
+.fv-cell {
+  background: rgba(0, 0, 0, 0.60);
+  border-radius: 6px;
+  padding: 5px 6px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  width: 168px;
+  flex-shrink: 0;
+}
+.fv-cell.is-dnp { opacity: 0.55; }
+
+/* Team logo — circular clip around the 24×24 SVG badge */
+.fv-logo-wrap {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: #1a1a1a;
+}
+.fv-logo {
+  width: 32px;
+  height: 32px;
+  display: block;
+}
+/* Fallback bicolor circle if no SVG id */
+.fv-badge {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+}
+.fv-badge-l, .fv-badge-r { flex: 1; height: 100%; }
+
+.fv-info { flex: 1; min-width: 0; }
+.fv-name {
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.fv-sub { color: rgba(255,255,255,0.65); font-size: 10px; }
+.fv-pos-badge { font-size: 9px; color: rgba(255,255,255,0.5); }
+.fv-score { flex-shrink: 0; text-align: right; }
+.fv-pts { color: #fff; font-size: 20px; font-weight: 900; line-height: 1; }
+.fv-pts.is-high { color: #4ade80; }
+.fv-pts.is-low  { color: #f87171; }
+.fv-pts.is-dnp-label { color: rgba(255,255,255,0.45); font-size: 13px; line-height: 1.5; }
+.fv-avg { color: rgba(255,255,255,0.55); font-size: 10px; }
+
+/* Bench panel */
+.fv-bench {
+  flex: none;
+  width: 200px;
+  background: #f0f2f4;
+  padding: 10px 8px;
+  border-left: 1px solid #ddd;
+}
+.fv-bench-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 700;
+  color: #555;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.fv-logo-wrap--bench {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: #1a1a1a;
+}
+.fv-logo--bench { width: 28px; height: 28px; display: block; }
+.fv-badge--bench { width: 28px; height: 28px; border-radius: 50%; overflow: hidden; display: flex; }
+
+.fv-bench-cell {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 7px 8px;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  position: relative;
+}
+.fv-bench-cell.is-emergency { border-color: #f59e0b; }
+.fv-emerg-badge {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  background: #f59e0b;
+  color: #fff;
+  font-size: 9px;
+  font-weight: 700;
+  border-radius: 3px;
+  padding: 1px 4px;
+}
+.fv-bench-name { font-size: 12px; font-weight: 700; color: #222; }
+.fv-bench-sub  { font-size: 10px; color: #888; }
+.fv-bench-pts  { font-size: 20px; font-weight: 900; color: #333; }
+.fv-bench-avg  { font-size: 10px; color: #999; }
+
+/* Draft Heat Map rank colours */
+.rank-1   { background-color: #1a7a1a !important; color: #fff !important; }
+.rank-2-3 { background-color: #4caf50 !important; color: #fff !important; }
+.rank-4-5 { background-color: #ffc107 !important; color: #000 !important; }
+.rank-6-7 { background-color: #ff7043 !important; color: #fff !important; }
+.rank-8   { background-color: #f44336 !important; color: #fff !important; }

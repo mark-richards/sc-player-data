@@ -1,0 +1,143 @@
+{% extends "base.html" %}
+{% block title %}Draft Heat Map{% endblock %}
+
+{% block content %}
+<h2 class="mb-4">2026 Draft Heat Map</h2>
+
+{# Coach Draft Strength Summary #}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">Coach Draft Strength</div>
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table table-sm table-hover mb-0 align-middle">
+        <thead class="table-dark">
+          <tr>
+            <th>Coach</th>
+            <th class="text-center rank-1">Rank 1</th>
+            <th class="text-center rank-2-3">Rank 2–3</th>
+            <th class="text-center rank-4-5">Rank 4–5</th>
+            <th class="text-center rank-6-7">Rank 6–7</th>
+            <th class="text-center rank-8">Rank 8</th>
+            <th class="text-center">Avg Rank</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in coach_summary %}
+          <tr>
+            <td class="fw-semibold">
+              <a href="/coach/{{ row.coach }}" class="text-decoration-none">{{ row.coach }}</a>
+            </td>
+            <td class="text-center">{{ row.rank_1 }}</td>
+            <td class="text-center">{{ row.rank_2_3 }}</td>
+            <td class="text-center">{{ row.rank_4_5 }}</td>
+            <td class="text-center">{{ row.rank_6_7 }}</td>
+            <td class="text-center">{{ row.rank_8 }}</td>
+            <td class="text-center fw-semibold">
+              {% if row.avg_rank is not none %}{{ row.avg_rank }}{% else %}—{% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+{# Color legend #}
+<div class="mb-3 d-flex gap-3 align-items-center small text-muted flex-wrap">
+  <strong>Color key:</strong>
+  <span class="badge rank-1">Rank 1 (best)</span>
+  <span class="badge rank-2-3">Rank 2–3</span>
+  <span class="badge rank-4-5">Rank 4–5</span>
+  <span class="badge rank-6-7">Rank 6–7</span>
+  <span class="badge rank-8">Rank 8 (worst)</span>
+  <span class="text-muted">(z-score rank within each draft round)</span>
+</div>
+
+{# How it works #}
+<details class="mb-3">
+  <summary class="fw-semibold text-muted" style="cursor:pointer;">How it works</summary>
+  <div class="card card-body small mt-2 text-muted">
+    <p class="mb-2">
+      <strong>Scoring.</strong> Each player's average is adjusted for missed games — all absences (including bye rounds)
+      are filled with the estimated replacement-level score for their position, so a high scorer who misses rounds is
+      rated fairly rather than rewarded or harshly penalised.
+    </p>
+    <p class="mb-2">
+      <strong>Positional ranking.</strong> Adjusted averages are z-scored within each position group (top 40 DEF,
+      56 MID, 16 RUC, 40 FWD), measuring how far above or below the positional mean each player sits. Dual-position
+      players take their best z-score.
+    </p>
+    <p class="mb-0">
+      <strong>Colour.</strong> Each pick is ranked within a forward window of 8 picks (the pick itself plus the next 7),
+      clamped at the end of the draft so the window is always exactly 8 wide.
+      <span class="badge rank-1">Rank 1</span> = best value in that window;
+      <span class="badge rank-8">Rank 8</span> = weakest. Updates as the season progresses.
+    </p>
+  </div>
+</details>
+
+{# Full Draft Board #}
+<div class="card shadow-sm">
+  <div class="card-header fw-semibold">Full Draft Board ({{ n_rounds }} Rounds)</div>
+  <div class="card-body p-0">
+    {% if board %}
+    <div class="draft-heatmap-table table-responsive">
+      <table class="table table-sm table-bordered mb-0" style="font-size:0.8rem;">
+        <thead class="table-dark">
+          <tr>
+            <th style="width:3rem">Rd</th>
+            {% for coach in coaches %}
+            <th class="text-center">{{ coach }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in board %}
+          <tr>
+            <td class="text-muted fw-semibold text-center">{{ row.round }}</td>
+            {% for coach in coaches %}
+            {% set cell = row[coach] %}
+            <td class="{{ cell.color }} text-center"
+                {% if cell.peers_html %}
+                data-bs-toggle="popover"
+                data-bs-trigger="hover focus"
+                data-bs-placement="auto"
+                data-bs-html="true"
+                data-bs-title="{{ cell.player }}"
+                data-bs-content="{{ cell.peers_html | e }}"
+                {% endif %}>
+              <div>{{ cell.player or "—" }}</div>
+              {% if cell.missed_non_bye or cell.missed_bye %}
+              <div class="text-nowrap">
+                {% if cell.missed_non_bye and cell.missed_non_bye > 0 %}
+                <span title="{{ cell.missed_non_bye }} game{{ 's' if cell.missed_non_bye != 1 else '' }} missed (injury/omission)">🚑 {{ cell.missed_non_bye }}</span>
+                {% endif %}
+                {% if cell.missed_bye and cell.missed_bye > 0 %}
+                <span title="{{ cell.missed_bye }} bye{{ 's' if cell.missed_bye != 1 else '' }}">🏖️ {{ cell.missed_bye }}</span>
+                {% endif %}
+              </div>
+              {% endif %}
+            </td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% else %}
+    <p class="text-muted p-3">Draft data not available.</p>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  (function () {
+    document.querySelectorAll('[data-bs-toggle="popover"]').forEach(function (el) {
+      new bootstrap.Popover(el, { sanitize: false, html: true });
+    });
+  })();
+</script>
+{% endblock %}

@@ -1,0 +1,511 @@
+{% extends "base.html" %}
+{% block title %}Season Summary{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <h2 class="mb-0">{{ season_year }} Season — Round {{ current_round }}</h2>
+</div>
+
+{# ── Standings Table ── #}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">Standings</div>
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table table-hover table-sm mb-0 align-middle standings-table" id="standingsTable">
+        <thead class="table-dark">
+          <tr>
+            <th>#</th>
+            <th>Coach</th>
+            <th class="text-end">PTS</th>
+            <th class="text-end">W-D-L</th>
+            <th class="text-end">AVG</th>
+            <th class="text-end">AVG&nbsp;AGN</th>
+            <th class="text-end">WIN%</th>
+            <th class="text-end" title="Overall rating">ALL</th>
+            <th class="text-end">DEF</th>
+            <th class="text-end">MID</th>
+            <th class="text-end">RUC</th>
+            <th class="text-end">FWD</th>
+            <th class="text-end">Finals%</th>
+            <th class="text-end">GF%</th>
+            <th class="text-end">Champ%</th>
+            <th class="text-end">Spoon%</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in standings %}
+          <tr>
+            <td class="text-muted">{{ loop.index }}</td>
+            <td>
+              <a href="/coach/{{ row.coach_first_name }}" class="text-decoration-none fw-semibold">
+                {{ row.coach_first_name }}
+              </a>
+            </td>
+            <td class="text-end fw-bold">{{ row.league_points }}</td>
+            <td class="text-end text-muted">{{ row.wdl }}</td>
+            <td class="text-end">{{ row.avg_for }}</td>
+            <td class="text-end">{{ row.avg_against }}</td>
+            <td class="text-end">{{ row.win_pct }}%</td>
+
+            {# Positional ratings — colour-coded #}
+            {% for col in ['ALL', 'DEF', 'MID', 'RUC', 'FWD'] %}
+              {% set val = row[col] if row[col] is defined else none %}
+              {% if val is not none %}
+                {% if val >= 7.5 %}
+                  {% set badge = 'success' %}
+                {% elif val >= 4.5 %}
+                  {% set badge = 'warning text-dark' %}
+                {% else %}
+                  {% set badge = 'danger' %}
+                {% endif %}
+                <td class="text-end">
+                  <span class="badge bg-{{ badge }}">{{ "%.1f"|format(val) }}</span>
+                </td>
+              {% else %}
+                <td class="text-end text-muted">—</td>
+              {% endif %}
+            {% endfor %}
+
+            {# Simulation probabilities #}
+            <td class="text-end">{{ "%.1f"|format(row.finals_pct|default(0)) }}%</td>
+            <td class="text-end">{{ "%.1f"|format(row.gf_pct|default(0)) }}%</td>
+            <td class="text-end fw-semibold text-success">{{ "%.1f"|format(row.champ_pct|default(0)) }}%</td>
+            <td class="text-end text-danger">{{ "%.1f"|format(row.spoon_pct|default(0)) }}%</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+{# ── Simulation methodology note ── #}
+<div class="mb-4">
+  <a class="small text-muted text-decoration-none" data-bs-toggle="collapse" href="#simMethodology" role="button">
+    How are these simulations calculated? ▾
+  </a>
+  <div class="collapse mt-2" id="simMethodology">
+    <div class="card card-body bg-light small text-muted">
+      <p class="mb-2">
+        <strong>10,000 Monte Carlo simulations</strong> of the remaining 21 regular-season rounds are run.
+        For each simulation, every remaining matchup is decided by drawing a score for each team independently from the
+        <strong>league-wide scoring distribution</strong> (based on all scores across the current season).
+        Both teams use the same distribution, making each game approximately a 50/50 coin flip — so probabilities are
+        driven almost entirely by the current ladder standings.
+      </p>
+      <p class="mb-2">
+        After simulating the regular season, teams are ranked by <strong>league points</strong> (4 per win, 2 per draw),
+        with <strong>total points scored</strong> as the tiebreaker.
+        The top 4 teams qualify for finals.
+      </p>
+      <p class="mb-1">
+        Finals use the <strong>McIntyre double-chance format</strong> over 3 rounds:
+      </p>
+      <ul class="mb-2 ps-3">
+        <li><strong>Week 1:</strong> Qualifying Final (1st vs 2nd) + Elimination Final (3rd vs 4th). The EF loser is out.</li>
+        <li><strong>Week 2:</strong> Preliminary Final — QF loser vs EF winner. Loser is out.</li>
+        <li><strong>Week 3:</strong> Grand Final — QF winner vs PF winner.</li>
+      </ul>
+      <p class="mb-0">
+        Top 2 teams get a <strong>double chance</strong> — they can lose the qualifying final and still reach the Grand Final via the preliminary final.
+        <strong>GF%</strong> is the chance of making the Grand Final. <strong>Champ%</strong> (Dawnbreaker) is the chance of winning it.
+      </p>
+    </div>
+  </div>
+</div>
+
+{# ── Charts ── #}
+<div class="row g-3 mb-4">
+  <div class="col-12 col-xl-4">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">Ladder Journey</div>
+      <div class="card-body p-2">
+        <div id="ladderChart"></div>
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-xl-4">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">Score Distribution</div>
+      <div class="card-body p-2">
+        <div id="boxplotChart"></div>
+      </div>
+    </div>
+  </div>
+  <div class="col-12 col-xl-4">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">Avg For vs Avg Against</div>
+      <div class="card-body p-2">
+        <div id="scatterChart"></div>
+      </div>
+    </div>
+  </div>
+</div>
+{# ── Fixture Strength ── #}
+{% if fixture_strength %}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">Fixture Strength &amp; Luck Analysis</div>
+  <div class="card-body">
+    <div class="row g-4">
+
+      {# Season Performance — sorted by avg_sim_rank ascending (strongest first) #}
+      <div class="col-12 col-lg-5">
+        <h6 class="fw-semibold mb-1">Season Performance</h6>
+        <p class="text-muted small mb-2">True team strength — rank if you had played every possible schedule</p>
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0 align-middle">
+            <thead class="table-dark">
+              <tr>
+                <th>#</th>
+                <th>Coach</th>
+                <th class="text-end" title="Actual ladder rank this season">Actual</th>
+                <th class="text-end" title="Mean rank across all 8 possible schedules — lower = stronger team">Avg Rank</th>
+                <th class="text-end" title="Best rank achieved under any schedule">Best</th>
+                <th class="text-end" title="Worst rank achieved under any schedule">Worst</th>
+                <th class="text-end" title="Actual rank minus avg simulated rank. Negative = lucky schedule.">Luck</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in fixture_strength | sort(attribute='avg_sim_rank') %}
+              <tr>
+                <td class="text-muted">{{ loop.index }}</td>
+                <td><a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
+                <td class="text-end text-muted">{{ row.actual_rank }}</td>
+                <td class="text-end fw-semibold">{{ "%.2f"|format(row.avg_sim_rank) }}</td>
+                <td class="text-end text-success fw-semibold small">{{ row.best_sim_rank }}</td>
+                <td class="text-end text-danger small">{{ row.worst_sim_rank }}</td>
+                <td class="text-end">
+                  {% if row.luck_index < -0.5 %}
+                    <span class="badge bg-success" title="Lucky draw">{{ "%.1f"|format(row.luck_index) }}</span>
+                  {% elif row.luck_index > 0.5 %}
+                    <span class="badge bg-danger" title="Unlucky draw">+{{ "%.1f"|format(row.luck_index) }}</span>
+                  {% else %}
+                    <span class="text-muted small">{{ "%.1f"|format(row.luck_index) }}</span>
+                  {% endif %}
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      {# Fixture Difficulty & Luck — sorted by avg_opp_rank ascending (hardest schedule first) #}
+      <div class="col-12 col-lg-7">
+        <h6 class="fw-semibold mb-1">Fixture Difficulty &amp; Luck</h6>
+        <p class="text-muted small mb-2">Schedule difficulty, expected record, and outcome luck</p>
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0 align-middle">
+            <thead class="table-dark">
+              <tr>
+                <th>#</th>
+                <th>Coach</th>
+                <th class="text-end" title="Mean weekly rank of opponents faced (1=always faced the top scorer, 8=always faced the bottom scorer) — lower = harder schedule">Opp Rank</th>
+                <th class="text-end" title="Mean score of opponents faced — higher = harder schedule">Opp Avg</th>
+                <th class="text-end" title="Expected wins: sum of fraction of the 7-team field your score beat each round — a score-based W/L expectation">Exp W</th>
+                <th class="text-end" title="Actual wins recorded">Act W</th>
+                <th class="text-end" title="Actual wins minus expected wins. Positive = won more than your scores deserved (lucky). Negative = won fewer (unlucky).">W Luck</th>
+                <th class="text-end" title="Wins where your score was below the round average — you beat a weak opponent despite underperforming">🍀 W</th>
+                <th class="text-end" title="Losses where your score was above the round average — you lost despite outperforming the field">💔 L</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in fixture_strength | sort(attribute='avg_opp_rank') %}
+              <tr>
+                <td class="text-muted">{{ loop.index }}</td>
+                <td><a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
+                <td class="text-end fw-semibold">{{ "%.2f"|format(row.avg_opp_rank) }}</td>
+                <td class="text-end">{{ row.opp_avg }}</td>
+                <td class="text-end text-muted">{{ "%.1f"|format(row.exp_wins) }}</td>
+                <td class="text-end">{{ row.actual_wins }}</td>
+                <td class="text-end">
+                  {% set wl = row.luck_wins %}
+                  {% if wl > 0.4 %}
+                    <span class="badge bg-success" title="Won more than scores deserved">+{{ "%.1f"|format(wl) }}</span>
+                  {% elif wl < -0.4 %}
+                    <span class="badge bg-danger" title="Won fewer than scores deserved">{{ "%.1f"|format(wl) }}</span>
+                  {% else %}
+                    <span class="text-muted small">{{ "%.1f"|format(wl) }}</span>
+                  {% endif %}
+                </td>
+                <td class="text-end">
+                  {% if row.lucky_wins > 0 %}
+                    <span class="badge bg-success bg-opacity-75">{{ row.lucky_wins }}</span>
+                  {% else %}
+                    <span class="text-muted">0</span>
+                  {% endif %}
+                </td>
+                <td class="text-end">
+                  {% if row.unlucky_losses > 0 %}
+                    <span class="badge bg-danger bg-opacity-75">{{ row.unlucky_losses }}</span>
+                  {% else %}
+                    <span class="text-muted">0</span>
+                  {% endif %}
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="card-footer text-muted small">
+    <strong>Opp Rank</strong>: mean weekly rank of opponents faced (1 = always faced the top scorer). Lower = harder schedule.
+    &nbsp;|&nbsp;
+    <strong>Exp W</strong>: sum of the fraction of the 7-team field your score beat each round — what your scores deserved.
+    &nbsp;|&nbsp;
+    <strong>W Luck</strong> = actual wins − expected wins.
+    <span class="badge bg-success">Positive</span> = lucky (won more than scores warranted).
+    <span class="badge bg-danger">Negative</span> = unlucky.
+    &nbsp;|&nbsp;
+    <strong>🍀 W</strong>: wins where your score was below the round average.
+    <strong>💔 L</strong>: losses where your score was above the round average.
+    &nbsp;|&nbsp;
+    <strong>Luck</strong> (Season Performance) = actual rank − avg simulated rank.
+    <span class="badge bg-success">Negative</span> = lucky fixture draw.
+  </div>
+</div>
+{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+const ladderData  = {{ ladder_chart  | safe }};
+const boxplotData = {{ boxplot_chart | safe }};
+const scatterData = {{ scatter_chart | safe }};
+
+const cfg = {responsive: true, displayModeBar: false};
+// Render all Plotly charts first (guaranteed fallback)
+Plotly.react('ladderChart',  ladderData.data,  ladderData.layout,  cfg);
+Plotly.react('boxplotChart', boxplotData.data, boxplotData.layout, cfg);
+Plotly.react('scatterChart', scatterData.data, scatterData.layout, cfg);
+// Then attempt to replace ladder chart with custom SVG
+try { buildLadderJourney('ladderChart', ladderData); }
+catch(e) { console.error('Custom ladder chart failed:', e); }
+
+function buildLadderJourney(containerId, plotlyData) {
+  const container = document.getElementById(containerId);
+  const svgNS = 'http://www.w3.org/2000/svg';
+
+  // Plotly 5.x encodes numeric arrays as {dtype, bdata} (base64 binary).
+  // Decode them back to plain JS arrays.
+  function decodePlotlyArray(val) {
+    if (!val) return [];
+    if (Array.isArray(val)) return val;
+    if (val.bdata) {
+      const bin = atob(val.bdata);
+      const buf = new Uint8Array(bin.length);
+      for (let i = 0; i < bin.length; i++) buf[i] = bin.charCodeAt(i);
+      const types = { i1: Int8Array, i2: Int16Array, i4: Int32Array,
+                      u1: Uint8Array, u2: Uint16Array, u4: Uint32Array,
+                      f4: Float32Array, f8: Float64Array };
+      return Array.from(new (types[val.dtype] || Float64Array)(buf.buffer));
+    }
+    return Array.from(val);
+  }
+
+  // Extract coach data from Plotly traces
+  const coaches = (plotlyData.data || []).map(t => ({
+    name: t.name,
+    color: (t.line && t.line.color) || (t.marker && t.marker.color) || '#1f77b4',
+    rounds:    decodePlotlyArray(t.x),
+    positions: decodePlotlyArray(t.y),
+  })).filter(c => c.rounds.length > 0);
+
+  const allRounds = [...new Set(coaches.flatMap(c => c.rounds))].sort((a, b) => a - b);
+  if (!coaches.length || !allRounds.length) return;
+  const numPos = 8;
+  const iconR = 10;  // icon radius (border adds 2px → total 12px)
+
+  // Responsive width
+  const totalW = Math.max(container.clientWidth || 500, 300);
+  const totalH = 370;
+  const ml = 52, mr = 20, mt = 28, mb = 20;
+  const legendH = 50;
+  const innerW = totalW - ml - mr;
+  const innerH = totalH - mt - mb - legendH;
+
+  const xScale = r => {
+    if (allRounds.length === 1) return ml + innerW / 2;
+    return ml + (r - allRounds[0]) / (allRounds[allRounds.length - 1] - allRounds[0]) * innerW;
+  };
+  const yScale = p => mt + (p - 1) / (numPos - 1) * innerH;
+
+  const svg = document.createElementNS(svgNS, 'svg');
+  svg.setAttribute('width', '100%');
+  svg.setAttribute('viewBox', `0 0 ${totalW} ${totalH}`);
+  svg.style.fontFamily = 'inherit';
+  svg.style.overflow = 'visible';
+
+  // ── Defs: circular clip paths ──────────────────────────────────
+  const defs = document.createElementNS(svgNS, 'defs');
+  coaches.forEach(coach => {
+    coach.rounds.forEach((r, j) => {
+      const id = `clip-${coach.name}-r${r}`;
+      const cp = document.createElementNS(svgNS, 'clipPath');
+      cp.setAttribute('id', id);
+      const c = document.createElementNS(svgNS, 'circle');
+      c.setAttribute('cx', xScale(r));
+      c.setAttribute('cy', yScale(coach.positions[j]));
+      c.setAttribute('r', iconR);
+      cp.appendChild(c);
+      defs.appendChild(cp);
+    });
+    // Legend clip paths
+    const legId = `clip-leg-${coach.name}`;
+    const legCp = document.createElementNS(svgNS, 'clipPath');
+    legCp.setAttribute('id', legId);
+    const legC = document.createElementNS(svgNS, 'circle');
+    legC.setAttribute('cx', 0);
+    legC.setAttribute('cy', 0);
+    legC.setAttribute('r', 10);
+    legCp.appendChild(legC);
+    defs.appendChild(legCp);
+  });
+  svg.appendChild(defs);
+
+  // ── Grid lines ─────────────────────────────────────────────────
+  for (let p = 1; p <= numPos; p++) {
+    const y = yScale(p);
+    const gl = document.createElementNS(svgNS, 'line');
+    gl.setAttribute('x1', ml); gl.setAttribute('x2', ml + innerW);
+    gl.setAttribute('y1', y);  gl.setAttribute('y2', y);
+    gl.setAttribute('stroke', '#e8e8e8'); gl.setAttribute('stroke-width', '1');
+    svg.appendChild(gl);
+    // Y label — sits in the left margin, well clear of the icons
+    const yt = document.createElementNS(svgNS, 'text');
+    yt.setAttribute('x', ml - (iconR + 6)); yt.setAttribute('y', y + 4);
+    yt.setAttribute('text-anchor', 'end'); yt.setAttribute('font-size', '11');
+    yt.setAttribute('fill', '#999');
+    yt.textContent = p;
+    svg.appendChild(yt);
+  }
+
+  // ── X axis labels — below the bottom icon row ─────────────────
+  const xLabelY = mt + innerH + (iconR + 2) + 12; // clear the bottom icon border
+  allRounds.forEach(r => {
+    const xt = document.createElementNS(svgNS, 'text');
+    xt.setAttribute('x', xScale(r)); xt.setAttribute('y', xLabelY);
+    xt.setAttribute('text-anchor', 'middle'); xt.setAttribute('font-size', '11');
+    xt.setAttribute('fill', '#999');
+    xt.textContent = r;
+    svg.appendChild(xt);
+  });
+
+  // ── Coach lines + icon markers ─────────────────────────────────
+  const groups = [];
+  coaches.forEach(coach => {
+    const g = document.createElementNS(svgNS, 'g');
+    g.setAttribute('data-coach', coach.name);
+    g.style.cursor = 'pointer';
+    g.style.transition = 'opacity 0.2s';
+
+    // Polyline
+    const pts = coach.rounds.map((r, i) => `${xScale(r)},${yScale(coach.positions[i])}`).join(' ');
+    const poly = document.createElementNS(svgNS, 'polyline');
+    poly.setAttribute('points', pts);
+    poly.setAttribute('fill', 'none');
+    poly.setAttribute('stroke', coach.color);
+    poly.setAttribute('stroke-width', '2.5');
+    poly.setAttribute('stroke-linejoin', 'round');
+    poly.setAttribute('stroke-linecap', 'round');
+    g.appendChild(poly);
+
+    // Icon at each data point
+    coach.rounds.forEach((r, j) => {
+      const cx = xScale(r);
+      const cy = yScale(coach.positions[j]);
+      const clipId = `clip-${coach.name}-r${r}`;
+
+      // Coloured border circle
+      const border = document.createElementNS(svgNS, 'circle');
+      border.setAttribute('cx', cx); border.setAttribute('cy', cy);
+      border.setAttribute('r', iconR + 2);
+      border.setAttribute('fill', coach.color);
+      g.appendChild(border);
+
+      // Portrait image (circular via clip-path)
+      const img = document.createElementNS(svgNS, 'image');
+      img.setAttribute('x', cx - iconR); img.setAttribute('y', cy - iconR);
+      img.setAttribute('width', iconR * 2); img.setAttribute('height', iconR * 2);
+      img.setAttribute('href', `/static/images/coaches/${coach.name}_2022.png`);
+      img.setAttribute('clip-path', `url(#${clipId})`);
+      img.setAttribute('preserveAspectRatio', 'xMidYMid slice');
+      g.appendChild(img);
+    });
+
+    svg.appendChild(g);
+    groups.push(g);
+  });
+
+  // ── Hover isolation ────────────────────────────────────────────
+  groups.forEach(g => {
+    const enter = () => groups.forEach(og => { og.style.opacity = og === g ? '1' : '0.12'; });
+    const leave = () => groups.forEach(og => { og.style.opacity = '1'; });
+    g.addEventListener('mouseenter', enter);
+    g.addEventListener('mouseleave', leave);
+    // Also attach to the entire group area via a transparent hit rect along the line
+  });
+
+  // ── Legend — below X axis labels ───────────────────────────────
+  const legY = mt + innerH + (iconR + 2) + 28;
+  const legIconR = 8;
+  const legSpacing = Math.min(Math.floor(totalW / coaches.length), 80);
+  const legStartX = (totalW - legSpacing * coaches.length) / 2 + legSpacing / 2;
+
+  coaches.forEach((coach, i) => {
+    const lx = legStartX + i * legSpacing;
+    const lg = document.createElementNS(svgNS, 'g');
+    lg.style.cursor = 'pointer';
+    lg.style.transition = 'opacity 0.2s';
+
+    // Icon border
+    const lb = document.createElementNS(svgNS, 'circle');
+    lb.setAttribute('cx', lx); lb.setAttribute('cy', legY);
+    lb.setAttribute('r', legIconR + 1.5);
+    lb.setAttribute('fill', coach.color);
+    lg.appendChild(lb);
+
+    // Portrait image
+    const li = document.createElementNS(svgNS, 'image');
+    li.setAttribute('x', lx - legIconR); li.setAttribute('y', legY - legIconR);
+    li.setAttribute('width', legIconR * 2); li.setAttribute('height', legIconR * 2);
+    li.setAttribute('href', `/static/images/coaches/${coach.name}_2022.png`);
+    li.setAttribute('clip-path', `url(#clip-leg-${coach.name})`);
+    li.setAttribute('preserveAspectRatio', 'xMidYMid slice');
+    // Shift clip path to correct position
+    const legCpCircle = defs.querySelector(`#clip-leg-${coach.name} circle`);
+    if (legCpCircle) {
+      legCpCircle.setAttribute('cx', lx);
+      legCpCircle.setAttribute('cy', legY);
+    }
+    lg.appendChild(li);
+
+    // Name label
+    const lt = document.createElementNS(svgNS, 'text');
+    lt.setAttribute('x', lx); lt.setAttribute('y', legY + legIconR + 12);
+    lt.setAttribute('text-anchor', 'middle'); lt.setAttribute('font-size', '9');
+    lt.setAttribute('fill', '#555');
+    lt.textContent = coach.name;
+    lg.appendChild(lt);
+
+    // Click/hover mirrors the main group
+    const mainG = groups.find(g => g.getAttribute('data-coach') === coach.name);
+    lg.addEventListener('mouseenter', () => {
+      groups.forEach(og => { og.style.opacity = og === mainG ? '1' : '0.12'; });
+    });
+    lg.addEventListener('mouseleave', () => {
+      groups.forEach(og => { og.style.opacity = '1'; });
+    });
+
+    svg.appendChild(lg);
+  });
+
+  container.innerHTML = '';
+  container.appendChild(svg);
+}
+</script>
+{% endblock %}
