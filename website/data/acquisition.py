@@ -264,12 +264,13 @@ def build_acquisition_stats(
             "waiver_day":      row.get("waiver_day"),
         })
 
-    # Compute avg per (coach, cat)
+    # Compute avg and total_pts per (coach, cat)
     for coach, cats in stats.items():
         for cat, data in cats.items():
             avgs = [p["avg"] for p in data["players"]]
-            data["avg"]   = round(sum(avgs) / len(avgs), 1) if avgs else 0.0
-            data["count"] = len(data["players"])
+            data["avg"]       = round(sum(avgs) / len(avgs), 1) if avgs else 0.0
+            data["count"]     = len(data["players"])
+            data["total_pts"] = sum(p["total_pts"] for p in data["players"])
             data["players"].sort(key=lambda p: p["avg"], reverse=True)
 
     return stats
@@ -332,6 +333,7 @@ def build_acquisition_heatmap(
             cells[cat] = {
                 "avg":        avg,
                 "count":      data["count"] if data else 0,
+                "total_pts":  data["total_pts"] if data else 0,
                 "players":    data["players"] if data else [],
                 "color":      color,
                 "text_color": tcol,

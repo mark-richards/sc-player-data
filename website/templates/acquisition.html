@@ -63,6 +63,7 @@
                 data-bs-target="#modal-{{ row.coach|replace(' ','_') }}-{{ cat|replace('/','_') }}">
               {% if cell.is_king %}👑 {% endif %}{{ "%.1f"|format(cell.avg) }}
               <div style="font-size:0.75rem; font-weight:normal; opacity:0.85;">{{ cell.count }} player{{ 's' if cell.count != 1 }}</div>
+              <div style="font-size:0.75rem; font-weight:normal; opacity:0.85;">{{ cell.total_pts }} pts</div>
             </td>
             {% else %}
             <td class="text-center text-muted" style="background-color:rgb(230,230,230); padding:6px 10px;">&mdash;</td>
