@@ -9,6 +9,7 @@ filesystem permission issues with .git on Drive-mounted paths.
 import logging
 import os
 import shutil
+import stat
 import subprocess
 import sys
 from pathlib import Path
@@ -25,6 +26,14 @@ DEPLOY_CACHE = Path(os.environ.get("TEMP", os.environ.get("TMP", "/tmp"))) / "as
 def _run(args: list, cwd: Path) -> tuple[int, str, str]:
     result = subprocess.run(args, capture_output=True, text=True, cwd=str(cwd))
     return result.returncode, result.stdout.strip(), result.stderr.strip()
+
+
+def _force_rmtree(path: Path) -> None:
+    """Remove a directory tree, clearing read-only flags on Windows first."""
+    def _on_error(func, fpath, _exc):
+        os.chmod(fpath, stat.S_IWRITE)
+        func(fpath)
+    shutil.rmtree(path, onerror=_on_error)
 
 
 def build_static() -> bool:
@@ -48,7 +57,7 @@ def _ensure_deploy_clone() -> bool:
         log.warning("git fetch failed (%s) — removing stale cache and re-cloning.", err)
 
     # Wipe everything (whether fetch failed or dir has no .git) and clone fresh
-    shutil.rmtree(DEPLOY_CACHE, ignore_errors=True)
+    _force_rmtree(DEPLOY_CACHE)
     log.info("Cloning %s to %s...", GH_PAGES_REMOTE, DEPLOY_CACHE)
     rc, _, err = _run(
         ["git", "clone", GH_PAGES_REMOTE, str(DEPLOY_CACHE)],
