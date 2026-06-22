@@ -6,6 +6,7 @@ Uses a fresh temp directory each run to avoid stale-state issues with
 read-only git objects and Windows file locks on Drive-mounted paths.
 """
 
+import base64
 import logging
 import os
 import shutil
@@ -23,19 +24,21 @@ log = logging.getLogger("deploy_github_pages")
 REPO_ROOT = Path(__file__).resolve().parent
 DOCS_DIR = REPO_ROOT / "docs"
 GH_PAGES_BRANCH = "main"
-_GH_REPO = "github.com/mark-richards/asl-hub.git"
+GH_PAGES_REMOTE = "https://github.com/mark-richards/asl-hub.git"
 
 
-def _remote_url() -> str:
+def _git_auth_args() -> list[str]:
+    """Return git -c args that authenticate via token if available, else fall back to GCM."""
     token = os.environ.get("GH_DEPLOY_TOKEN", "").strip()
-    if token:
-        return f"https://{token}@{_GH_REPO}"
-    return f"https://{_GH_REPO}"
+    if not token:
+        return []
+    b64 = base64.b64encode(f"x-token-auth:{token}".encode()).decode()
+    return ["-c", "credential.helper=", "-c", f"http.extraHeader=Authorization: Basic {b64}"]
 
 
 def _run(args: list, cwd: Path) -> tuple[int, str, str]:
     env = os.environ.copy()
-    env["GIT_TERMINAL_PROMPT"] = "0"  # fail immediately instead of prompting
+    env["GIT_TERMINAL_PROMPT"] = "0"  # fail fast instead of prompting
     result = subprocess.run(args, capture_output=True, text=True, cwd=str(cwd), env=env)
     return result.returncode, result.stdout.strip(), result.stderr.strip()
 
@@ -59,13 +62,13 @@ def build_static() -> bool:
 
 
 def push_docs(round_num: int | None = None) -> bool:
-    remote = _remote_url()
+    auth = _git_auth_args()
     tmp = Path(tempfile.mkdtemp(prefix="asl-hub-deploy-"))
     try:
-        log.info("Cloning %s to %s...", _GH_REPO, tmp)
-        rc, _, err = _run(["git", "clone", remote, str(tmp)], cwd=tmp.parent)
+        log.info("Cloning %s to %s...", GH_PAGES_REMOTE, tmp)
+        rc, _, err = _run(["git"] + auth + ["clone", GH_PAGES_REMOTE, str(tmp)], cwd=tmp.parent)
         if rc != 0:
-            log.error("git clone failed: %s", err.replace(remote, f"https://{_GH_REPO}"))
+            log.error("git clone failed: %s", err)
             return False
         _run(["git", "config", "user.email", "deploy@sc-player-data"], cwd=tmp)
         _run(["git", "config", "user.name", "SC Deploy"], cwd=tmp)
@@ -98,10 +101,10 @@ def push_docs(round_num: int | None = None) -> bool:
             log.error("git commit failed: %s", err)
             return False
 
-        log.info("Pushing to %s (%s)...", _GH_REPO, GH_PAGES_BRANCH)
-        rc, _, err = _run(["git", "push", "origin", GH_PAGES_BRANCH], cwd=tmp)
+        log.info("Pushing to %s (%s)...", GH_PAGES_REMOTE, GH_PAGES_BRANCH)
+        rc, _, err = _run(["git"] + auth + ["push", "origin", GH_PAGES_BRANCH], cwd=tmp)
         if rc != 0:
-            log.error("git push failed: %s", err.replace(remote, f"https://{_GH_REPO}"))
+            log.error("git push failed: %s", err)
             return False
 
         log.info("GitHub Pages updated: https://mark-richards.github.io/asl-hub/")
