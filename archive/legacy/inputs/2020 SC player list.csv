@@ -1,0 +1,816 @@
+,sc_id,sc_first_name,sc_last_name,sc_team_id,sc_price,sc_previous_games,sc_previous_average,sc_previous_total,sc_feed_id,sc_active,sc_positions,sc_team,sc_position,sc_long_team
+0,1,Rory,Atkins,1,410000,20,75.5,1510,294472,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+1,2,Luke,Brown,1,369300,15,68.0,1020,293193,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+2,3,Jordon,Butts,1,123900,0,0.0,0,1004995,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+3,4,Ben,Crocker,1,152000,3,35.0,105,993796,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+4,5,Brad,Crouch,1,534100,22,98.36,2164,294307,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+5,6,Matt,Crouch,1,563000,19,103.68,1970,297401,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+6,7,Ben,Davis,1,123900,1,22.0,22,298417,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+7,8,Tom,Doedee,1,273700,1,56.0,56,1000932,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+8,9,Darcy,Fogarty,1,283500,4,65.25,261,999331,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+9,10,Billy,Frampton,1,165400,2,43.5,87,991773,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+10,11,Jordan,Gallucci,1,269900,10,49.7,497,998106,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+11,12,Bryce,Gibbs,1,375100,12,69.08,829,250417,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+12,13,Lachlan,Gollant,1,117300,0,0.0,0,1018075,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,DEF MID,Adelaide
+13,14,William,Hamill,1,123900,0,0.0,0,1008159,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+14,15,Kyle,Hartigan,1,239200,19,44.05,837,290228,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+15,16,Elliott,Himmelberg,1,277900,7,56.86,398,1005199,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+16,17,Chayce,Jones,1,271500,8,50.0,400,1006203,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+17,18,Ben,Keays,1,266100,2,70.0,140,993946,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+18,19,Jake,Kelly,1,406300,22,74.82,1646,297473,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+19,20,Riley,Knight,1,344300,15,63.4,951,295103,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+20,21,Rory,Laird,1,525800,22,96.82,2130,293222,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+21,22,Tom,Lynch,1,459900,16,84.69,1355,270938,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+22,23,David,Mackay,1,361100,18,66.5,1197,250362,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,DEF MID,Adelaide
+23,24,Shane,McAdam,1,123900,0,0.0,0,298470,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+24,25,Fischer,Mcasey,1,184800,0,0.0,0,1009201,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+25,26,Ned,McHenry,1,123900,0,0.0,0,1008185,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+26,27,Andrew,McPherson,1,123900,0,0.0,0,997206,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+27,28,Wayne,Milera,1,402500,17,74.12,1260,990882,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,DEF MID,Adelaide
+28,29,Lachlan,Murphy,1,295800,21,54.48,1144,1000998,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+29,30,Reilly,O'Brien,1,517400,18,95.28,1715,297523,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",ADE,RUC,Adelaide
+30,31,Ronin,O'Connor,1,117300,0,0.0,0,1011254,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+31,32,Myles,Poholke,1,221600,2,51.0,102,1000908,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+32,33,Harry,Schoenberg,1,117300,0,0.0,0,1008543,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+33,34,Paul,Seedsman,1,392700,13,72.31,940,294733,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+34,35,Lachlan,Sholl,1,123900,0,0.0,0,1006136,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+35,36,Rory,Sloane,1,559300,22,103.0,2266,270963,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+36,37,Brodie,Smith,1,481300,22,88.64,1950,291748,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+37,38,Tyson,Stengle,1,202000,2,62.0,124,997230,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+38,39,Kieran,Strachan,1,123900,0,0.0,0,1008752,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,RUC FWD,Adelaide
+39,40,Daniel,Talia,1,377700,22,69.55,1530,280934,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ADE,DEF,Adelaide
+40,41,Taylor,Walker,1,365600,22,67.32,1481,280506,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,FWD,Adelaide
+41,42,Patrick,Wilson,1,190100,1,50.0,50,295964,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ADE,MID,Adelaide
+42,43,Joshua,Worrell,1,117300,0,0.0,0,1011981,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ADE,DEF FWD,Adelaide
+43,44,Marcus,Adams,2,316300,8,58.25,466,294168,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+44,45,Callum,Ah Chee,2,311700,1,82.0,82,298437,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+45,46,Jacob,Allison,2,176800,2,46.5,93,998268,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+46,47,Harris,Andrews,2,449300,19,82.74,1572,996059,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+47,48,Noah,Answerth,2,336700,17,62.0,1054,1005053,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+48,49,Zac,Bailey,2,263200,13,48.46,630,1002312,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,DEF MID,Brisbane
+49,50,Connor,Ballenden,2,123900,0,0.0,0,1002351,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+50,51,Jarrod,Berry,2,461300,18,84.94,1529,998133,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+51,52,Thomas,Berry,2,123900,0,0.0,0,1006100,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+52,53,Grant,Birchall,2,292700,3,77.0,231,240302,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+53,54,Charlie,Cameron,2,433200,22,79.77,1755,990609,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+54,55,Allen,Christensen,2,367800,11,67.73,745,280918,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+55,56,Keidean,Coleman,2,117300,0,0.0,0,1006059,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,MID FWD,Brisbane
+56,57,Cedric,Cox,2,167300,1,44.0,44,994047,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+57,58,Matt,Eagles,2,155800,0,0.0,0,290326,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+58,59,Cameron,Ellis-Yolmen,2,507200,10,93.4,934,293479,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+59,60,Thomas,Fullarton,2,123900,0,0.0,0,1013532,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+60,61,Darcy,Gardiner,2,363300,22,66.91,1472,296269,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+61,62,Mitchell,Hinge,2,210200,2,64.5,129,1004863,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+62,63,Eric,Hipwood,2,294000,21,54.14,1137,993953,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+63,64,Tom,Joyce,2,123900,0,0.0,0,1006150,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,FWD MID,Brisbane
+64,65,Ryan,Lester,2,330000,9,60.78,547,291548,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+65,66,Corey,Lyons,2,102400,0,0.0,0,998105,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+66,67,Jarryd,Lyons,2,535400,22,98.59,2169,293716,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+67,68,James,Madden,2,123900,0,0.0,0,1013978,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,DEF FWD,Brisbane
+68,69,Stefan,Martin,2,501100,22,92.27,2030,280763,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",BRL,RUC,Brisbane
+69,70,Rhys,Mathieson,2,325200,9,59.89,539,993828,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,FWD MID,Brisbane
+70,71,Lincoln,McCarthy,2,357400,22,65.82,1448,293581,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+71,72,Hugh,McCluggage,2,510700,21,94.05,1975,1000978,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+72,73,Connor,McFadyen,2,123900,0,0.0,0,1006085,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+73,74,Oscar,McInerney,2,368400,19,67.84,1289,1005521,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,RUC FWD,Brisbane
+74,75,Daniel,McStay,2,305100,22,56.18,1236,297504,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+75,76,Lachie,Neale,2,658500,22,121.27,2668,293535,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+76,77,Jack,Payne,2,123900,0,0.0,0,1002347,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+77,78,Jaxon,Prior,2,117300,0,0.0,0,1009386,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+78,79,Cameron,Rayner,2,251800,22,46.36,1020,1002235,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+79,80,Daniel,Rich,2,525800,22,96.82,2130,271072,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+80,81,Deven,Robertson,2,117300,0,0.0,0,1009385,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+81,82,Mitch,Robinson,2,512700,22,94.41,2077,290311,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+82,83,Sam,Skinner,2,111400,0,0.0,0,993836,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",BRL,FWD,Brisbane
+83,84,Archie,Smith,2,179200,2,55.0,110,992752,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",BRL,RUC,Brisbane
+84,85,Brock,Smith,2,117300,0,0.0,0,1009242,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+85,86,Ely,Smith,2,123900,0,0.0,0,1006033,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,FWD MID,Brisbane
+86,87,Brandon,Starcevich,2,147700,1,34.0,34,1002401,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,DEF MID,Brisbane
+87,88,Alex,Witherden,2,392800,21,72.33,1519,998128,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",BRL,DEF,Brisbane
+88,89,Toby,Wooller,2,123900,0,0.0,0,1002244,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,FWD MID,Brisbane
+89,90,Dayne,Zorko,2,579100,22,106.64,2346,261224,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",BRL,MID,Brisbane
+90,91,Eddie,Betts,3,337500,21,62.14,1305,240060,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+91,92,Levi,Casboult,3,403500,20,74.3,1486,281124,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,DEF FWD,Carlton
+92,93,Matthew,Cottrell,3,123900,0,0.0,0,1008154,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+93,94,Patrick,Cripps,3,635900,20,117.1,2342,990704,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+94,95,David,Cuningham,3,360800,9,66.44,598,993795,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+95,96,Charlie,Curnow,3,372200,11,68.55,754,996731,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+96,97,Ed,Curnow,3,493200,22,90.82,1998,270146,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+97,98,Tom,De Koning,3,123900,0,0.0,0,1004912,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",CAR,RUC,Carlton
+98,99,Sam,Docherty,3,436100,0,0.0,0,295518,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+99,100,Paddy,Dow,3,295500,19,54.42,1034,1002256,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,FWD MID,Carlton
+100,101,Zac,Fisher,3,356100,21,65.57,1377,999827,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,FWD MID,Carlton
+101,102,Michael,Gibbons,3,321700,21,59.24,1244,296200,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+102,103,Hugh,Goddard,3,129500,2,26.5,53,298316,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+103,104,Josh,Honey,3,124900,0,0.0,0,1002938,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,MID FWD,Carlton
+104,105,Liam,Jones,3,358800,13,66.08,859,281078,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+105,106,Brodie,Kemp,3,135300,0,0.0,0,1009241,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+106,107,Matthew,Kennedy,3,309500,10,57.0,570,1001398,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+107,108,Matthew,Kreuzer,3,528900,15,97.4,1461,261299,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",CAR,RUC,Carlton
+108,109,Darcy,Lang,3,244400,8,45.0,360,296439,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+109,110,Harrison,Macreadie,3,123900,1,14.0,14,998226,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+110,111,Caleb,Marchbank,3,348000,13,64.08,833,298302,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+111,112,Jack,Martin,3,420800,16,77.5,1240,296190,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,FWD MID,Carlton
+112,113,Mitch,McGovern,3,263400,16,48.5,776,297255,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+113,114,Harry,McKay,3,334800,20,61.65,1233,1000953,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+114,115,Marc,Murphy,3,492400,19,90.68,1723,250105,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+115,116,Nic,Newman,3,524800,20,96.65,1933,297907,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+116,117,Lochie,O'Brien,3,243400,17,44.82,762,1002259,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+117,118,Finbar,O'Dwyer,3,123900,0,0.0,0,1011924,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+118,119,Matthew,Owies,3,123900,0,0.0,0,1013973,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+119,120,Sam,Petrevski-Seton,3,443300,22,81.64,1796,994539,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,DEF MID,Carlton
+120,121,Fraser,Phillips,3,105400,0,0.0,0,1011861,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+121,122,Sam,Philp,3,121800,0,0.0,0,1011929,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+122,123,Marc,Pittonet,3,236200,2,72.5,145,298290,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",CAR,RUC,Carlton
+123,124,Lachie,Plowman,3,392800,21,72.33,1519,294624,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+124,125,Cameron,Polson,3,138500,3,28.33,85,998100,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+125,126,Sam,Ramsay,3,117300,0,0.0,0,1002942,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+126,127,Will,Setterfield,3,329700,18,60.72,1093,998215,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+127,128,Ben,Silvagni,3,123900,0,0.0,0,1011949,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+128,129,Jack,Silvagni,3,325200,17,59.88,1018,1001028,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",CAR,FWD,Carlton
+129,130,Kade,Simpson,3,442600,18,81.5,1467,230202,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+130,131,Liam,Stocker,3,242400,5,49.6,248,1008312,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+131,132,Sam,Walsh,3,471900,22,86.91,1912,1006094,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton
+132,133,Jacob,Weitering,3,383700,20,70.65,1413,993832,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+133,134,Tom,Williamson,3,146300,2,38.5,77,998167,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",CAR,DEF,Carlton
+134,135,Taylor,Adams,4,525100,10,96.7,967,291776,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+135,136,Flynn,Appleby,4,222900,1,21.0,21,1005013,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+136,137,Dayne,Beams,4,441700,9,81.33,732,271001,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+137,138,Trent,Bianco,4,117300,0,0.0,0,1009186,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,DEF MID,Collingwood
+138,139,Atu,Bosenavulagi,4,123900,0,0.0,0,1008288,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+139,140,Tim,Broomhead,4,242200,0,0.0,0,293035,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,FWD MID,Collingwood
+140,141,Callum L.,Brown,4,370900,20,68.3,1366,1002770,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+141,142,Tyler,Brown,4,123900,0,0.0,0,1008171,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+142,143,Darcy,Cameron,4,123900,0,0.0,0,990291,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,RUC FWD,Collingwood
+143,144,Mason,Cox,4,293600,14,54.07,757,998647,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+144,145,Jack,Crisp,4,482800,22,88.91,1956,293871,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+145,146,Josh,Daicos,4,259000,5,53.0,265,1005054,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+146,147,Jordan,De Goey,4,473800,16,87.25,1396,994185,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+147,148,Jamie,Elliott,4,380500,14,70.07,981,293801,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+148,149,Levi,Greenwood,4,355300,16,65.44,1047,270861,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+149,150,Brodie,Grundy,4,705900,22,130.0,2860,293957,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",COL,RUC,Collingwood
+150,151,Will,Hoskin-Elliott,4,382000,17,70.35,1196,291720,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+151,152,Jeremy,Howe,4,431900,19,79.53,1511,291313,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+152,153,Mark,Keane,4,123900,0,0.0,0,1013974,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+153,154,Will,Kelly,4,123900,0,0.0,0,1008285,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+154,155,Tom,Langdon,4,405500,9,74.67,672,295444,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+155,156,Max,Lynch,4,123900,0,0.0,0,1000960,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",COL,RUC,Collingwood
+156,157,Jack,Madgen,4,235700,4,54.25,217,1010841,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+157,158,Brayden,Maynard,4,433900,22,79.91,1758,992010,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+158,159,Chris,Mayne,4,406700,19,74.89,1423,280416,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+159,160,Brody,Mihocek,4,390000,22,71.82,1580,291849,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+160,161,Darcy,Moore,4,405800,15,74.73,1121,298288,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+161,162,Nathan,Murphy,4,123900,0,0.0,0,1005107,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+162,163,John,Noble,4,215400,3,56.67,170,1000072,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+163,164,Scott,Pendlebury,4,566500,22,104.32,2295,260257,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+164,165,Tom,Phillips,4,450500,22,82.95,1825,996487,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+165,166,Isaac,Quaynor,4,261700,4,60.25,241,1008089,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+166,167,Jay,Rantall,4,117300,0,0.0,0,1015793,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+167,168,Ben,Reid,4,317700,7,65.0,455,240232,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+168,169,Jordan,Roughead,4,352200,22,64.86,1427,280012,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+169,170,Trey,Ruscoe,4,117300,0,0.0,0,1009383,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,DEF MID,Collingwood
+170,171,Matthew,Scharenberg,4,273700,7,56.0,392,295012,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",COL,DEF,Collingwood
+171,172,Steele,Sidebottom,4,512000,21,94.29,1980,280965,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+172,173,Brayden,Sier,4,242700,6,49.67,298,1003029,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+173,174,Jaidyn,Stephenson,4,436200,12,80.33,964,1002240,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+174,175,Josh,Thomas,4,338600,20,62.35,1247,290289,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+175,176,Anton,Tohill,4,123900,0,0.0,0,1013975,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+176,177,Adam,Treloar,4,615800,22,113.41,2495,291790,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+177,178,Travis,Varcoe,4,319400,16,58.81,941,250290,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+178,179,Rupert,Wills,4,337900,7,69.14,484,1001448,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",COL,MID,Collingwood
+179,180,Thomas,Wilson,4,102400,0,0.0,0,993797,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",COL,FWD,Collingwood
+180,181,Patrick,Ambrose,5,275200,19,50.68,963,295599,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+181,182,Josh,Begley,5,289200,8,53.25,426,1005721,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+182,183,Tom,Bellchambers,5,460500,15,84.8,1272,261320,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",ESS,RUC,Essendon
+183,184,Nick,Bryan,5,117300,0,0.0,0,1011954,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",ESS,RUC,Essendon
+184,185,Ned,Cahill,5,117300,0,0.0,0,1009223,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,MID FWD,Essendon
+185,186,Dylan,Clarke,5,352000,11,64.82,713,998109,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+186,187,Tom,Cutler,5,296500,3,78.0,234,297406,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+187,188,Joe,Daniher,5,270400,4,62.25,249,294518,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+188,189,Sam,Draper,5,123900,0,0.0,0,1005577,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",ESS,RUC,Essendon
+189,190,Orazio,Fantasia,5,314200,14,57.86,810,296334,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+190,191,Aaron,Francis,5,352300,16,64.88,1038,990816,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+191,192,Martin,Gleeson,5,387400,9,71.33,642,297438,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+192,193,Noah,Gown,5,123900,0,0.0,0,1011864,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+193,194,Matt,Guelfi,5,304700,17,56.12,954,996232,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+194,195,Brayden,Ham,5,217500,4,44.5,178,1008190,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,FWD MID,Essendon
+195,196,Dyson,Heppell,5,514300,17,94.71,1610,290629,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+196,197,Mitchell,Hibberd,5,114400,0,0.0,0,298407,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+197,198,Cale,Hooker,5,438300,17,80.71,1372,270588,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+198,199,Michael,Hurley,5,432900,18,79.72,1435,270935,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+199,200,Lachlan,Johnson,5,117300,0,0.0,0,1006506,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,MID FWD,Essendon
+200,201,Harrison,Jones,5,117300,0,0.0,0,1011755,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+201,202,Kyle,Langford,5,399900,17,73.65,1252,298630,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,FWD MID,Essendon
+202,203,Jayden,Laverde,5,364400,9,67.11,604,298280,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+203,204,Cian,McBride,5,102400,0,0.0,0,1018969,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+204,205,Anthony,McDonald-Tipungwuti,5,409500,22,75.41,1659,294092,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+205,206,Andrew,McGrath,5,399400,22,73.55,1618,998102,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+206,207,Conor,McKenna,5,433600,21,79.86,1677,997846,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+207,208,Shaun,McKernan,5,363800,15,67.0,1005,280038,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+208,209,Ross,McQuillan,5,102400,0,0.0,0,1019156,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,DEF FWD,Essendon
+209,210,Zach,Merrett,5,573600,22,105.64,2324,992016,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+210,211,Irving,Mosquito,5,123900,0,0.0,0,1006097,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+211,212,Kobe,Mutch,5,207400,1,0.0,0,998212,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+212,213,Darcy,Parish,5,465400,20,85.7,1714,993817,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,FWD MID,Essendon
+213,214,Andrew,Phillips,5,403100,5,92.8,464,294068,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",ESS,RUC,Essendon
+214,215,Mason,Redman,5,379800,19,69.95,1329,997078,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+215,216,Jordan,Ridley,5,322600,6,66.0,396,1001026,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+216,217,Adam,Saad,5,443500,21,81.67,1715,295461,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+217,218,Dylan,Shiel,5,529100,21,97.43,2046,291783,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+218,219,Devon,Smith,5,335800,7,68.71,481,291771,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,FWD MID,Essendon
+219,220,William,Snelling,5,321800,3,84.67,254,990606,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+220,221,James,Stewart,5,293000,0,0.0,0,294654,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+221,222,Jake,Stringer,5,384600,18,70.83,1275,293884,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+222,223,Jacob,Townsend,5,222900,1,29.0,29,291891,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",ESS,FWD,Essendon
+223,224,David,Zaharakis,5,428700,20,78.95,1579,270951,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",ESS,MID,Essendon
+224,225,Brandon,Zerk-Thatcher,5,189000,1,58.0,58,1004034,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",ESS,DEF,Essendon
+225,226,Blake,Acres,6,384400,19,70.79,1345,296294,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,FWD MID,Fremantle
+226,227,James,Aish,6,353000,13,65.0,845,295067,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+227,228,Bailey,Banfield,6,266700,7,54.57,382,998180,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+228,229,Brett,Bewley,6,252700,7,51.71,362,296371,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+229,230,Connor,Blakely,6,411500,14,75.79,1061,298450,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+230,231,Andrew,Brayshaw,6,382800,22,70.5,1551,1002232,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,FWD MID,Fremantle
+231,232,Isaiah,Butters,6,102400,0,0.0,0,1017984,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+232,233,Jason,Carter,6,141200,2,32.5,65,1006151,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+233,234,Adam,Cerra,6,338900,20,62.4,1248,1002239,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+234,235,Travis,Colyer,6,292200,10,53.8,538,280988,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+235,236,Reece,Conca,6,372000,22,68.5,1507,290823,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,MID,Fremantle
+236,237,Brennan,Cox,6,305500,8,56.25,450,997033,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+237,238,Mitchell,Crowden,6,272800,5,62.8,314,1002353,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+238,239,Sean,Darcy,6,402800,11,74.18,816,998145,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",FRE,RUC,Fremantle
+239,240,Hugh,Dixon,6,171100,1,45.0,45,1002372,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+240,241,Taylin,Duman,6,336300,14,61.93,867,998115,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+241,242,Minairo,Frederick,6,117300,0,0.0,0,999321,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+242,243,Nat,Fyfe,6,651600,20,120.0,2400,291570,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,MID,Fremantle
+243,244,Stefan,Giro,6,215900,0,0.0,0,1002354,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,MID,Fremantle
+244,245,Joel,Hamling,6,342400,22,63.05,1387,295222,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+245,246,Liam,Henry,6,171300,0,0.0,0,1005988,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,MID FWD,Fremantle
+246,247,Stephen,Hill,6,190600,3,39.0,117,280336,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,DEF FWD,Fremantle
+247,248,Jesse,Hogan,6,327600,12,60.33,724,296324,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+248,249,Ethan,Hughes,6,364100,21,67.05,1408,996580,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+249,250,Rory,Lobb,6,472800,15,87.07,1306,990740,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",FRE,RUC,Fremantle
+250,251,Griffin,Logue,6,339900,10,62.6,626,997933,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+251,252,Brandon,Matera,6,342900,20,63.15,1263,290817,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+252,253,Cam,McCarthy,6,289200,12,53.25,639,995192,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+253,254,Lloyd,Meek,6,123900,0,0.0,0,1000980,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",FRE,RUC,Fremantle
+254,255,David,Mundy,6,483500,22,89.05,1959,240052,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,MID,Fremantle
+255,256,Tom,North,6,102400,0,0.0,0,1003132,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,MID,Fremantle
+256,257,Dillon,O'Reilly,6,123900,0,0.0,0,1005831,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+257,258,Alex,Pearce,6,297700,11,54.82,603,298409,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+258,259,Jarvis,Pina,6,120400,0,0.0,0,1007854,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,DEF MID,Fremantle
+259,260,Luke,Ryan,6,520400,18,95.83,1725,998659,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+260,261,Lachlan,Schultz,6,208800,7,42.71,299,1000860,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+261,262,Caleb,Serong,6,175800,0,0.0,0,1009420,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,MID,Fremantle
+262,263,Sam,Sturt,6,123900,0,0.0,0,1013611,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+263,264,Sam,Switkowski,6,353000,18,65.0,1170,992059,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+264,265,Matt,Taberner,6,426600,9,78.56,707,293854,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",FRE,FWD,Fremantle
+265,266,Leno,Thomas,6,102400,0,0.0,0,1009381,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+266,267,Darcy,Tucker,6,398400,22,73.36,1614,993816,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,FWD MID,Fremantle
+267,268,Luke,Valente,6,123900,0,0.0,0,1004850,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,MID,Fremantle
+268,269,Michael,Walters,6,547200,22,100.77,2217,281007,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",FRE,FWD MID,Fremantle
+269,270,Tobe,Watson,6,123900,0,0.0,0,1004437,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+270,271,Nathan,Wilson,6,372000,18,68.5,1233,294125,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+271,272,Hayden,Young,6,180300,0,0.0,0,1009256,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",FRE,DEF,Fremantle
+272,273,Ben,Ainsworth,17,329000,12,60.58,727,998130,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,FWD MID,Gold Coast
+273,274,Noah,Anderson,17,202800,0,0.0,0,1009199,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+274,275,Charlie,Ballard,17,325800,21,60.0,1260,1008882,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+275,276,Jack,Bowes,17,411300,15,75.73,1136,998260,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+276,277,Will,Brodie,17,435800,8,80.25,642,998129,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+277,278,Connor,Budarick,17,106900,0,0.0,0,1008454,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,MID FWD,Gold Coast
+278,279,Christopher,Burgess,17,265300,14,48.86,684,1000068,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+279,280,Sam,Collins,17,328200,9,60.44,544,295446,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+280,281,Matthew,Conroy,17,102400,0,0.0,0,1009334,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",GCS,RUC,Gold Coast
+281,282,Joshua,Corbett,17,227500,9,41.89,377,1005547,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+282,283,Jacob,Dawson,17,318500,6,65.17,391,1002331,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+283,284,Sam,Day,17,369800,10,68.1,681,291753,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+284,285,Brandon,Ellis,17,470800,20,86.7,1734,293713,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+285,286,Corey,Ellis,17,279100,4,64.25,257,991953,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+286,287,Jy,Farrar,17,117300,0,0.0,0,999715,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+287,288,Brayden,Fiorini,17,477100,21,87.86,1845,993799,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+288,289,Sam,Flanders,17,162300,0,0.0,0,1009260,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,MID FWD,Gold Coast
+289,290,Sam,Fletcher,17,123900,0,0.0,0,1006110,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+290,291,Caleb,Graham,17,207800,3,54.67,164,1006087,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+291,292,Hugh,Greenwood,17,463100,14,85.29,1194,281091,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,FWD MID,Gold Coast
+292,293,Pearce,Hanley,17,419800,16,77.31,1237,270512,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+293,294,Jarrod,Harbrow,17,419400,21,77.24,1622,240254,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+294,295,Jacob,Heron,17,179900,5,36.8,184,1002328,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+295,296,Nick,Holman,17,365200,12,67.25,807,297456,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+296,297,Jack,Hombsch,17,290800,18,53.56,964,291964,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+297,298,George,Horlin-Smith,17,221300,7,45.29,317,293255,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,DEF MID,Gold Coast
+298,299,Jesse,Joyce,17,326800,16,60.19,963,996064,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+299,300,Ben,King,17,225000,14,41.43,580,1006144,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+300,301,Sean,Lemmens,17,262000,8,48.25,386,294013,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,FWD MID,Gold Coast
+301,302,Jack,Lukosius,17,274600,21,50.57,1062,1004095,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,DEF FWD,Gold Coast
+302,303,Darcy,MacPherson,17,443800,22,81.73,1798,996464,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,FWD MID,Gold Coast
+303,304,Jez,McLennan,17,123900,0,0.0,0,1000044,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+304,305,Anthony,Miles,17,455200,17,83.82,1425,290671,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+305,306,Touk,Miller,17,460700,18,84.83,1527,298272,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+306,307,Jordan,Murdoch,17,319600,14,58.86,824,295942,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+307,308,Patrick,Murtagh,17,102400,0,0.0,0,1016116,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+308,309,Wil,Powell,17,298700,13,55.0,715,1007881,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+309,310,Izak,Rankine,17,123900,0,0.0,0,1001195,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+310,311,Mitchell,Riordan,17,123900,0,0.0,0,1006108,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+311,312,Malcolm,Rosas,17,102400,0,0.0,0,1005986,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+312,313,Matthew,Rowell,17,207300,0,0.0,0,1009208,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+313,314,Josh,Schoenfeld,17,178700,1,47.0,47,998511,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+314,315,Alex,Sexton,17,297200,22,54.73,1204,294643,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+315,316,Jeremy,Sharp,17,117300,0,0.0,0,1009380,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+316,317,Zac,Smith,17,254700,3,67.0,201,280722,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",GCS,RUC,Gold Coast
+317,318,David,Swallow,17,478900,22,88.18,1940,290832,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GCS,MID,Gold Coast
+318,319,Rory,Thompson,17,212300,0,0.0,0,281075,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+319,320,Luke,Towey,17,102400,0,0.0,0,1019157,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+320,321,Lachie,Weller,17,481100,17,88.59,1506,298524,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GCS,DEF,Gold Coast
+321,322,Jarrod,Witts,17,541300,22,99.68,2193,291975,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",GCS,RUC,Gold Coast
+322,323,Peter,Wright,17,369300,17,68.0,1156,298289,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GCS,FWD,Gold Coast
+323,324,Gary,Ablett,7,519500,21,95.67,2009,220001,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+324,325,Tom,Atkins,7,327200,20,60.25,1205,994386,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+325,326,Jed,Bews,7,304700,9,56.11,505,293883,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+326,327,Mark,Blicavs,7,449200,22,82.73,1820,296733,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+327,328,Oscar,Brownless,7,102400,0,0.0,0,1006101,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+328,329,Jordan,Clark,7,330900,18,60.94,1097,1006152,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+329,330,Bradley,Close,7,109900,0,0.0,0,999326,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,MID FWD,Geelong
+330,331,Nakia,Cockatoo,7,148200,0,0.0,0,298336,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,MID FWD,Geelong
+331,332,Charlie,Constable,7,391000,7,80.0,560,1002242,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+332,333,Luke,Dahlhaus,7,462400,21,85.14,1788,291526,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+333,334,Patrick,Dangerfield,7,625500,21,115.19,2419,270917,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+334,335,Sam,De Koning,7,126300,0,0.0,0,1009229,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+335,336,Mitch,Duncan,7,560600,22,103.23,2271,281065,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+336,337,Francis,Evans,7,117300,0,0.0,0,1017255,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+337,338,Lachie,Fogarty,7,219400,2,50.5,101,1002228,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+338,339,Darcy,Fort,7,264800,3,69.67,209,298211,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+339,340,Cameron,Guthrie,7,413900,18,76.22,1372,290550,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+340,341,Zach,Guthrie,7,190100,1,50.0,50,1004870,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+341,342,Tom,Hawkins,7,465000,22,85.64,1884,261510,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+342,343,Lachlan,Henderson,7,305000,5,70.2,351,270326,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+343,344,Jack,Henry,7,289200,20,53.25,1065,1000937,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+344,345,Ben,Jarvis,7,123900,0,0.0,0,1008940,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+345,346,Josh,Jenkins,7,371200,11,68.36,752,294828,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+346,347,Jacob,Kennerley,7,123900,0,0.0,0,1004681,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+347,348,Jake,Kolodjashnij,7,297600,20,54.8,1096,296291,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+348,349,Nathan,Kreuger,7,123900,0,0.0,0,997254,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+349,350,Sam,Menegola,7,441700,9,81.33,732,294199,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+350,351,Gryan,Miers,7,365600,22,67.32,1481,1004938,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+351,352,Quinton,Narkle,7,396600,3,104.33,313,999824,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+352,353,Mark,O'Connor,7,346500,20,63.8,1276,1007102,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+353,354,Stefan,Okunbor,7,123900,0,0.0,0,1013977,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+354,355,Brandan,Parfitt,7,427400,17,78.71,1338,298419,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,FWD MID,Geelong
+355,356,James,Parsons,7,282400,4,65.0,260,993798,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+356,357,Esava,Ratugolea,7,319100,17,58.76,999,1002220,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+357,358,Gary,Rohan,7,328800,18,60.56,1090,291357,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+358,359,Blake,Schlensog,7,123900,0,0.0,0,1008202,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+359,360,Joel,Selwood,7,465600,20,85.75,1715,250321,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+360,361,Sam,Simpson,7,123900,0,0.0,0,1004940,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+361,362,Rhys,Stanley,7,467300,16,86.06,1377,280317,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",GEE,RUC,Geelong
+362,363,Cooper,Stephens,7,139800,0,0.0,0,1004948,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,MID,Geelong
+363,364,Jack,Steven,7,361700,7,74.0,518,270912,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GEE,FWD MID,Geelong
+364,365,Tom,Stewart,7,533200,22,98.18,2160,291800,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+365,366,Cameron,Taheny,7,117300,0,0.0,0,1008603,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+366,367,Jake,Tarca,7,123900,0,0.0,0,999382,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GEE,FWD,Geelong
+367,368,Harry,Taylor,7,384300,21,70.76,1486,261497,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+368,369,Zach,Tuohy,7,386300,15,71.13,1067,292511,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GEE,DEF,Geelong
+369,370,Lachlan,Ash,18,193800,0,0.0,0,1009253,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,DEF MID,GWS Giants
+370,371,Kieren,Briggs,18,123900,0,0.0,0,1008436,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,DEF FWD,GWS Giants
+371,372,Callum M.,Brown,18,123900,0,0.0,0,1014038,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+372,373,Jack,Buckley,18,123900,0,0.0,0,1009708,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,FWD MID,GWS Giants
+373,374,Matt,Buntine,18,285400,9,52.56,473,291797,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,DEF FWD,GWS Giants
+374,375,Jye,Caldwell,18,190100,2,50.0,100,1006103,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+375,376,Jeremy,Cameron,18,503900,20,92.8,1856,293845,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+376,377,Stephen,Coniglio,18,549500,15,101.2,1518,291969,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+377,378,Aidan,Corr,18,223700,4,51.5,206,294508,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+378,379,Isaac,Cumming,18,245000,5,56.4,282,1001396,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+379,380,Brent,Daniels,18,347300,22,63.95,1407,1002251,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+380,381,Phil,Davis,18,431600,19,79.47,1510,280804,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+381,382,Matt,de Boer,18,408000,15,75.13,1127,271015,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+382,383,Jeremy,Finlayson,18,446400,19,82.21,1562,298111,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+383,384,Matthew,Flynn,18,123900,0,0.0,0,993902,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",GWS,RUC,GWS Giants
+384,385,Tom,Green,18,166800,0,0.0,0,1009528,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+385,386,Toby,Greene,18,510100,16,93.94,1503,295344,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+386,387,Jackson,Hately,18,301600,7,61.71,432,999309,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+387,388,Nick,Haynes,18,474700,19,87.42,1661,295265,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+388,389,Ian,Hill,18,275800,7,56.43,395,1006148,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+389,390,Harry,Himmelberg,18,413700,21,76.19,1600,993107,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+390,391,Jacob,Hopper,18,520200,19,95.79,1820,993903,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+391,392,Tom,Hutchesson,18,117300,0,0.0,0,296984,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,MID FWD,GWS Giants
+392,393,Connor,Idun,18,143400,1,33.0,33,1008083,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+393,394,Sam,Jacobs,18,348400,5,80.2,401,270811,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",GWS,RUC,GWS Giants
+394,395,Lachlan,Keeffe,18,272700,9,50.22,452,290314,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,DEF FWD,GWS Giants
+395,396,Josh,Kelly,18,637700,14,117.43,1644,296347,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+396,397,Adam,Kennedy,18,353500,19,65.11,1237,291509,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+397,398,Zac,Langdon,18,218300,3,44.67,134,1004286,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+398,399,Daniel,Lloyd,18,328500,14,60.5,847,290675,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+399,400,Shane,Mumford,18,443200,16,81.63,1306,280762,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",GWS,RUC,GWS Giants
+400,401,Xavier,O'Halloran,18,123900,0,0.0,0,1006135,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+401,402,Harry,Perryman,18,410500,15,75.6,1134,998205,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+402,403,Sam J.,Reid,18,375700,22,69.18,1522,261374,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+403,404,Jake,Riccardi,18,117300,0,0.0,0,1008123,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+404,405,Heath,Shaw,18,448700,22,82.64,1818,240700,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+405,406,Tommy,Sheridan,18,306100,1,2.0,2,291792,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+406,407,Nick,Shipley,18,123900,0,0.0,0,1002296,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+407,408,Zach,Sproule,18,127100,1,26.0,26,998225,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",GWS,FWD,GWS Giants
+408,409,Jake,Stein,18,231100,5,53.2,266,1007238,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+409,410,Tim,Taranto,18,555900,22,102.36,2252,998172,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+410,411,Sam,Taylor,18,316200,18,58.22,1048,1005247,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+411,412,Callan,Ward,18,511400,1,4.0,4,280109,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,MID,GWS Giants
+412,413,Lachie,Whitfield,18,604100,16,111.25,1780,294305,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",GWS,FWD MID,GWS Giants
+413,414,Zac,Williams,18,551700,20,101.6,2032,294685,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",GWS,DEF,GWS Giants
+414,415,Luke,Breust,8,418100,22,77.0,1694,280744,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+415,416,Shaun,Burgoyne,8,417200,18,76.83,1383,210012,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+416,417,Jonathon,Ceglar,8,417000,15,76.8,1152,291327,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,RUC FWD,Hawthorn
+417,418,James,Cousins,8,376500,12,69.33,832,1000959,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+418,419,Will,Day,8,153300,0,0.0,0,1008550,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+419,420,James,Frawley,8,299900,18,55.22,994,260288,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+420,421,Sam,Frost,8,348000,22,64.09,1410,293738,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+421,422,Conor,Glass,8,241600,7,49.43,346,1003547,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+422,423,Will,Golds,8,123900,0,0.0,0,1006128,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,FWD MID,Hawthorn
+423,424,Damon,Greaves,8,123900,0,0.0,0,1006159,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+424,425,Jack,Gunston,8,433600,20,79.85,1597,291351,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+425,426,Oliver,Hanrahan,8,284800,9,52.44,472,1001043,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+426,427,Blake,Hardwick,8,429000,22,79.0,1738,993794,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+427,428,Michael,Hartley,8,272400,3,71.67,215,294077,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+428,429,Ricky,Henderson,8,514900,22,94.82,2086,291201,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+429,430,Daniel,Howe,8,399600,12,73.58,883,992462,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,DEF MID,Hawthorn
+430,431,Jarman,Impey,8,402500,17,74.12,1260,296254,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+431,432,Emerson,Jeka,8,115900,0,0.0,0,1005150,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+432,433,Changkuoth,Jiath,8,219900,2,67.5,135,998390,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+433,434,Harrison,Jones,8,123900,0,0.0,0,1004991,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+434,435,Jacob,Koschitzke,8,123900,0,0.0,0,1006030,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+435,436,Mitch,Lewis,8,367000,12,67.58,811,1000887,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+436,437,Finn,Maginness,8,117300,0,0.0,0,1009421,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+437,438,Ben,McEvoy,8,503600,19,92.74,1762,261323,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",HAW,RUC,Hawthorn
+438,439,Tom,Mitchell,8,630900,0,0.0,0,291856,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+439,440,Dylan,Moore,8,274400,7,56.14,393,1006314,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+440,441,Josh,Morris,8,117300,0,0.0,0,1008537,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+441,442,Harry,Morrison,8,287200,9,52.89,476,1000963,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,FWD MID,Hawthorn
+442,443,Conor,Nash,8,269600,14,49.64,695,1007124,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+443,444,Tim,O'Brien,8,389300,16,71.69,1147,296041,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,DEF FWD,Hawthorn
+444,445,Jaeger,O'Meara,8,491100,21,90.43,1899,294613,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+445,446,Jonathon,Patton,8,337000,0,0.0,0,291821,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,RUC FWD,Hawthorn
+446,447,Harrison,Pepper,8,102400,0,0.0,0,1011873,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+447,448,Paul,Puopolo,8,346600,22,63.82,1404,260710,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+448,449,Ned,Reeves,8,123900,0,0.0,0,1001024,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",HAW,RUC,Hawthorn
+449,450,Jackson,Ross,8,123900,0,0.0,0,1004919,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+450,451,Jack,Scrimshaw,8,350300,10,64.5,645,998114,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+451,452,Tom,Scully,8,356800,21,65.71,1380,280969,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+452,453,Liam,Shiels,8,471600,19,86.84,1650,280737,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+453,454,James,Sicily,8,509500,22,93.82,2064,297566,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+454,455,Isaac,Smith,8,450700,19,83.0,1577,294877,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+455,456,Ben,Stratton,8,236100,19,43.47,826,280471,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",HAW,DEF,Hawthorn
+456,457,Mathew,Walker,8,123900,0,0.0,0,1002590,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",HAW,FWD,Hawthorn
+457,458,Chad,Wingard,8,412300,14,75.93,1063,291962,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,FWD MID,Hawthorn
+458,459,James,Worpel,8,527000,22,97.05,2135,1002222,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",HAW,MID,Hawthorn
+459,460,Oskar,Baker,10,261900,9,48.22,434,1008855,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+460,461,Toby,Bedford,10,123900,0,0.0,0,1008139,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+461,462,Austin,Bradtke,10,123900,0,0.0,0,1014081,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",MEL,RUC,Melbourne
+462,463,Angus,Brayshaw,10,452400,22,83.32,1833,298279,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+463,464,Mitch,Brown,10,359800,15,66.27,994,290622,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+464,465,Kade,Chandler,10,195500,1,60.0,60,1005330,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+465,466,Kyle,Dunkley,10,207700,5,47.8,239,1006106,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,FWD MID,Melbourne
+466,467,Bayley,Fritsch,10,413900,22,76.23,1677,1001438,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,DEF FWD,Melbourne
+467,468,Max,Gawn,10,697100,21,128.38,2696,290528,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",MEL,RUC,Melbourne
+468,469,Mitch,Hannan,10,201200,6,41.17,247,1001449,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+469,470,James,Harmes,10,516400,22,95.09,2092,297899,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+470,471,Michael,Hibberd,10,349300,19,64.32,1222,290160,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+471,472,Marty,Hore,10,383600,14,70.64,989,996692,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+472,473,Jayden,Hunt,10,317300,21,58.43,1227,994385,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+473,474,Luke,Jackson,10,198300,0,0.0,0,1009399,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",MEL,RUC,Melbourne
+474,475,Neville,Jetta,10,243700,7,49.86,349,281280,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+475,476,Nathan,Jones,10,397900,22,73.27,1612,250222,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,DEF MID,Melbourne
+476,477,James,Jordon,10,123900,0,0.0,0,1013409,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+477,478,Kade,Kolodjashnij,10,207700,2,42.5,85,296209,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+478,479,Kysaiah,Kropinyeri-Pickett,10,157800,0,0.0,0,1008541,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+479,480,Ed,Langdon,10,466300,22,85.86,1889,298264,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+480,481,Jake,Lever,10,384200,8,70.75,566,298281,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+481,482,Jay,Lockhart,10,283700,12,52.25,627,298390,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+482,483,Steven,May,10,384200,8,70.75,566,281085,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+483,484,Oscar,McDonald,10,267000,12,49.17,590,992472,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+484,485,Tom,McDonald,10,387000,15,71.27,1069,291533,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+485,486,Jake,Melksham,10,359800,12,66.25,795,280824,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+486,487,Alex,Neal-Bullen,10,333600,14,61.43,860,296420,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+487,488,Aaron,Nietschke,10,123900,0,0.0,0,1004695,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+488,489,Clayton,Oliver,10,593900,22,109.36,2406,996701,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+489,490,Christian,Petracca,10,441300,22,81.27,1788,298210,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+490,491,Harrison,Petty,10,288300,10,53.1,531,1008893,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,DEF FWD,Melbourne
+491,492,Braydon,Preuss,10,329500,7,67.43,472,992644,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,RUC FWD,Melbourne
+492,493,Trent,Rivers,10,117300,0,0.0,0,1009378,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,DEF MID,Melbourne
+493,494,Christian,Salem,10,491200,20,90.45,1809,296359,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+494,495,Joel,Smith,10,207400,0,0.0,0,1003546,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+495,496,Charlie,Spargo,10,234200,8,43.13,345,1002282,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+496,497,Tom,Sparrow,10,182500,2,48.0,96,999391,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+497,498,Adam,Tomlinson,10,390200,22,71.86,1581,291819,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+498,499,Aaron,vandenBerg,10,248000,0,0.0,0,297990,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,FWD MID,Melbourne
+499,500,Jack,Viney,10,439300,21,80.9,1699,291902,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,MID,Melbourne
+500,501,Corey,Wagner,10,308000,11,56.73,624,993940,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",MEL,FWD MID,Melbourne
+501,502,Josh,Wagner,10,332200,12,61.17,734,294675,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",MEL,DEF,Melbourne
+502,503,Sam,Weideman,10,319400,11,58.82,647,993806,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",MEL,FWD,Melbourne
+503,504,Paul,Ahern,9,337900,7,69.14,484,298271,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,DEF MID,North Melbourne
+504,505,Jed,Anderson,9,470200,17,86.59,1472,291861,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+505,506,Shaun,Atley,9,403700,21,74.33,1561,290787,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+506,507,Aiden,Bonar,9,202800,2,41.5,83,1004894,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,MID FWD,North Melbourne
+507,508,Ben,Brown,9,432000,22,79.55,1750,291867,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+508,509,Tom,Campbell,9,199600,2,52.5,105,290246,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,RUC FWD,North Melbourne
+509,510,Charlie,Comben,9,117300,0,0.0,0,1015781,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,RUC FWD,North Melbourne
+510,511,Joel,Crocker,9,123900,0,0.0,0,1006138,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+511,512,Ben,Cunnington,9,554100,22,102.05,2245,280921,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+512,513,Luke,Davies-Uniacke,9,342100,14,63.0,882,1002267,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,FWD MID,North Melbourne
+513,514,Majak,Daw,9,339600,0,0.0,0,290199,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+514,515,Trent,Dumont,9,455100,21,83.81,1760,296035,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+515,516,Sam,Durdin,9,285600,10,52.6,526,297767,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+516,517,Taylor,Garner,9,337900,9,62.22,560,296078,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+517,518,Todd,Goldstein,9,609400,22,112.23,2469,271129,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",NTH,RUC,North Melbourne
+518,519,Aaron,Hall,9,370600,6,75.83,455,296735,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+519,520,Kyron,Hayden,9,134700,1,31.0,31,998327,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+520,521,Shaun,Higgins,9,515200,17,94.88,1613,260227,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+521,522,Lachlan,Hosie,9,123900,0,0.0,0,1001351,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+522,523,Ben,Jacobs,9,348500,0,0.0,0,290802,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+523,524,Nick,Larkey,9,329000,17,60.59,1030,1001017,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+524,525,Jamie,Macmillan,9,443200,18,81.61,1469,290194,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+525,526,Jack,Mahony,9,117300,0,0.0,0,1009189,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,MID FWD,North Melbourne
+526,527,Luke,McDonald,9,327100,13,60.23,783,296355,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+527,528,Matthew,McGuinness,9,102400,0,0.0,0,1006653,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+528,529,Ben,McKay,9,149200,3,34.33,103,1002143,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+529,530,Tom,Murphy,9,152000,0,0.0,0,1000905,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+530,531,Flynn,Perez,9,117300,0,0.0,0,1011771,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+531,532,Jasper,Pittard,9,432000,22,79.55,1750,290156,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+532,533,Jared,Polec,9,476400,22,87.73,1930,290738,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+533,534,Bailey,Scott,9,234600,4,54.0,216,1006058,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,MID FWD,North Melbourne
+534,535,Jy,Simpkin,9,383000,21,70.52,1481,993998,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,FWD MID,North Melbourne
+535,536,Robbie,Tarrant,9,447800,22,82.45,1814,270325,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+536,537,Curtis,Taylor,9,123900,2,20.0,40,1006137,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+537,538,Tarryn,Thomas,9,339900,20,62.6,1252,1005729,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+538,539,Kayne,Turner,9,329400,21,60.67,1274,992499,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+539,540,Dom,Tyson,9,287600,3,75.67,227,291784,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,MID,North Melbourne
+540,541,Ed,Vickers-Willis,9,247600,1,1.0,1,298287,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+541,542,Josh,Walker,9,345600,11,63.64,700,291550,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+542,543,Will,Walker,9,154900,0,0.0,0,1005084,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+543,544,Marley,Williams,9,334800,17,61.65,1048,295256,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",NTH,DEF,North Melbourne
+544,545,Mason,Wood,9,356300,18,65.61,1181,295340,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+545,546,Tristan,Xerri,9,123900,0,0.0,0,1004965,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,RUC FWD,North Melbourne
+546,547,Jack,Ziebell,9,493400,22,90.86,1999,280944,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",NTH,FWD MID,North Melbourne
+547,548,Cameron,Zurhaar,9,353800,19,65.16,1238,998484,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",NTH,FWD,North Melbourne
+548,549,Karl,Amon,11,418500,17,77.06,1310,297354,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+549,550,Joe,Atley,11,215000,1,66.0,66,998126,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+550,551,Miles,Bergman,11,148800,0,0.0,0,1009191,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+551,552,Travis,Boak,11,582300,21,107.24,2252,250365,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+552,553,Riley,Bonner,11,375500,19,69.16,1314,994599,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+553,554,Trent,Burgoyne,11,102400,0,0.0,0,1008531,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+554,555,Ryan,Burton,11,401800,16,74.0,1184,992128,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+555,556,Zak,Butters,11,328700,19,60.53,1150,1006121,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+556,557,Darcy,Byrne-Jones,11,473400,22,87.18,1918,991930,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+557,558,Tom,Clurey,11,401800,21,74.0,1554,294504,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+558,559,Tobin,Cox,11,123900,0,0.0,0,1002355,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+559,560,Charlie,Dixon,11,350600,9,64.56,581,280711,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+560,561,Willem,Drew,11,392600,10,72.3,723,1000972,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+561,562,Xavier,Duursma,11,401600,20,73.95,1479,1006096,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+562,563,Brad,Ebert,11,415200,11,76.45,841,261911,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+563,564,Kane,Farrell,11,237400,7,48.57,340,1002253,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+564,565,Martin,Frederick,11,123900,0,0.0,0,999320,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+565,566,Joel,Garner,11,219400,4,50.5,202,998321,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+566,567,Mitchell,Georgiades,11,130800,0,0.0,0,1010174,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+567,568,Robbie,Gray,11,453000,19,83.42,1585,261396,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,FWD MID,Port Adelaide
+568,569,Riley,Grundy,11,102400,0,0.0,0,1004829,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+569,570,Hamish,Hartlett,11,434900,11,80.09,881,261892,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+570,571,Sam,Hayes,11,123900,0,0.0,0,1002248,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",PTA,RUC,Port Adelaide
+571,572,Dan,Houston,11,484800,21,89.29,1875,994295,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,DEF MID,Port Adelaide
+572,573,Tom,Jonas,11,417500,18,76.89,1384,292145,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+573,574,Peter,Ladhams,11,326700,5,75.2,376,997142,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,RUC FWD,Port Adelaide
+574,575,Jarrod,Lienert,11,401500,7,82.14,575,293987,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+575,576,Scott,Lycett,11,550600,18,101.39,1825,290746,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",PTA,RUC,Port Adelaide
+576,577,Todd,Marshall,11,286200,10,52.7,527,1004998,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+577,578,Sam,Mayes,11,213500,0,0.0,0,293603,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+578,579,Trent,McKenzie,11,298700,1,110.0,110,290527,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+579,580,Jackson,Mead,11,117300,0,0.0,0,1005326,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+580,581,Steven,Motlop,11,338600,14,62.36,873,280990,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+581,582,Jake,Pasini,11,117400,0,0.0,0,1009389,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+582,583,Jake,Patmore,11,123900,0,0.0,0,1002392,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,FWD MID,Port Adelaide
+583,584,Sam,Powell-Pepper,11,403300,19,74.26,1411,993979,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,FWD MID,Port Adelaide
+584,585,Tom,Rockliff,11,495400,18,91.22,1642,270919,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+585,586,Connor,Rozee,11,422100,22,77.73,1710,1001299,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+586,587,Cameron,Sutcliffe,11,223300,5,51.4,257,290733,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+587,588,Jack,Watts,11,307900,2,81.0,162,280972,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",PTA,DEF,Port Adelaide
+588,589,Justin,Westhoff,11,435500,20,80.2,1604,260750,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,FWD MID,Port Adelaide
+589,590,Dylan,Williams,11,117300,0,0.0,0,1009195,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,MID FWD,Port Adelaide
+590,591,Ollie,Wines,11,479700,12,88.33,1060,294318,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",PTA,MID,Port Adelaide
+591,592,Boyd,Woodcock,11,102400,0,0.0,0,999346,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",PTA,FWD,Port Adelaide
+592,593,Jake,Aarts,12,123900,0,0.0,0,992786,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,FWD,Richmond
+593,594,David,Astbury,12,363800,19,67.0,1273,290198,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+594,595,Liam,Baker,12,403900,16,74.38,1190,1000223,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,DEF FWD,Richmond
+595,596,Noah,Balta,12,257700,13,47.46,617,1002245,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,RUC FWD,Richmond
+596,597,Shai,Bolton,12,379100,16,69.81,1117,993993,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,FWD,Richmond
+597,598,Nathan,Broad,12,294800,21,54.29,1140,295203,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+598,599,Josh,Caddy,12,407300,15,75.0,1125,290623,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,FWD MID,Richmond
+599,600,Jason,Castagna,12,360700,21,66.43,1395,991933,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,FWD,Richmond
+600,601,Mabior,Chol,12,316200,9,58.22,524,994077,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,RUC FWD,Richmond
+601,602,Callum,Coleman-Jones,12,195500,1,60.0,60,1000061,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,RUC FWD,Richmond
+602,603,Riley,Collier-Dawkins,12,123900,0,0.0,0,1008297,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+603,604,Trent,Cotchin,12,429500,11,79.09,870,270896,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+604,605,Noah,Cumberland,12,117300,0,0.0,0,1009308,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,MID FWD,Richmond
+605,606,Thomson,Dow,12,117300,0,0.0,0,1009226,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+606,607,Shane,Edwards,12,458000,21,84.33,1771,260930,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,DEF MID,Richmond
+607,608,Derek,Eggmolesse-Smith,12,202000,2,62.0,124,1006276,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+608,609,Luke,English,12,123900,0,0.0,0,1006536,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,FWD MID,Richmond
+609,610,Ryan,Garthwaite,12,244400,7,50.0,350,998218,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+610,611,Jack,Graham,12,418900,14,77.14,1080,990827,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+611,612,Dylan,Grimes,12,399500,21,73.57,1545,280819,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+612,613,Jack,Higgins,12,358800,13,66.08,859,1002227,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,FWD,Richmond
+613,614,Bachar,Houli,12,571600,19,105.26,2000,250312,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+614,615,Kane,Lambert,12,477900,18,88.0,1584,290032,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,FWD,Richmond
+615,616,Tom J.,Lynch,12,388800,22,71.59,1575,293813,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,FWD,Richmond
+616,617,Oleg,Markov,12,184400,2,48.5,97,298358,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+617,618,Dustin,Martin,12,543000,20,100.0,2000,290847,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,FWD MID,Richmond
+618,619,Will,Martyn,12,117300,0,0.0,0,1009313,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+619,620,Kamdyn,McIntosh,12,343800,16,63.31,1013,294592,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+620,621,Ben,Miller,12,123900,0,0.0,0,1002403,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+621,622,Patrick,Naish,12,236200,2,72.5,145,1002231,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+622,623,Toby,Nankervis,12,404300,9,74.44,670,298174,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",RIC,RUC,Richmond
+623,624,Bigoa,Nyuon,12,117300,0,0.0,0,1006193,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",RIC,DEF RUC,Richmond
+624,625,Marlion,Pickett,12,123900,0,0.0,0,993771,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+625,626,Dion,Prestia,12,550200,22,101.32,2229,290627,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+626,627,Hugo,Ralphsmith,12,117300,0,0.0,0,1011985,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,MID FWD,Richmond
+627,629,Jack,Riewoldt,12,374100,10,68.9,689,250395,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,FWD,Richmond
+628,630,Daniel,Rioli,12,321800,19,59.26,1126,1000981,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",RIC,FWD,Richmond
+629,631,Jack,Ross,12,305800,7,62.57,438,1006133,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+630,632,Jayden,Short,12,349300,12,64.33,772,992049,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+631,633,Ivan,Soldo,12,411200,11,75.73,833,998529,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",RIC,RUC,Richmond
+632,634,Sydney,Stack,12,435100,17,80.12,1362,1002583,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+633,635,Fraser,Turner,12,123900,0,0.0,0,1006208,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",RIC,MID,Richmond
+634,636,Nick,Vlastuin,12,495500,21,91.24,1916,294674,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",RIC,DEF,Richmond
+635,637,Ryan,Abbott,13,250900,1,66.0,66,1005530,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",STK,RUC,St Kilda
+636,638,Sam,Alabakis,13,123900,0,0.0,0,1013976,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",STK,RUC,St Kilda
+637,639,Logan,Austin,13,320900,0,0.0,0,298091,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+638,640,Josh,Battle,13,390100,19,71.84,1365,998134,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+639,641,Jack,Bell,13,121900,0,0.0,0,1009221,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",STK,RUC,St Kilda
+640,642,Jack,Billings,13,509500,22,93.82,2064,296351,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+641,643,Nathan,Brown,13,289500,16,53.31,853,260310,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+642,644,Dan,Butler,13,234600,7,48.0,336,992374,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+643,645,Ryan,Byrnes,13,117300,0,0.0,0,1011994,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+644,646,Jack,Bytel,13,123900,0,0.0,0,1002922,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+645,647,Jake,Carlisle,13,328500,10,60.5,605,290641,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+646,648,Hunter,Clark,13,402200,14,74.07,1037,1002264,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+647,649,Oscar,Clavarino,13,123900,0,0.0,0,1002266,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+648,650,Nick,Coffield,13,309500,8,57.0,456,1005717,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+649,651,Leo,Connolly,13,117300,0,0.0,0,1009228,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,DEF MID,St Kilda
+650,652,Luke,Dunstan,13,505300,18,93.06,1675,294429,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+651,653,Jarryn,Geary,13,305000,5,70.2,351,260113,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+652,654,Jade,Gresham,13,456400,19,84.05,1597,298421,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,FWD MID,St Kilda
+653,655,Dan,Hannebery,13,417000,5,96.0,480,290117,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+654,656,Bradley,Hill,13,457400,22,84.23,1853,295584,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+655,657,Nick,Hind,13,311000,11,57.27,630,297452,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+656,658,Dougal,Howard,13,376500,15,69.33,1040,993480,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,DEF FWD,St Kilda
+657,659,Zak,Jones,13,465400,17,85.71,1457,991988,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+658,660,Darragh,Joyce,13,209100,3,55.0,165,1003520,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+659,661,Dean,Kent,13,345900,13,63.69,828,294570,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+660,662,Max,King,13,123900,0,0.0,0,1006143,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+661,663,Doulton,Langlands,13,202700,3,53.33,160,1004989,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+662,664,Ben,Long,13,283100,16,52.13,834,993917,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+663,665,Jack,Lonie,13,354200,13,65.23,848,992000,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+664,666,Jonathon,Marsh,13,219800,5,50.6,253,990548,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+665,667,Rowan,Marshall,13,598700,20,110.25,2205,992468,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",STK,RUC,St Kilda
+666,668,Jack,Mayo,13,123900,0,0.0,0,1004360,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+667,669,Daniel,McKenzie,13,280900,15,51.73,776,298265,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+668,670,Tim,Membrey,13,436400,22,80.36,1768,294596,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+669,671,Matthew,Parker,13,290700,17,53.53,910,1000267,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,FWD,St Kilda
+670,672,Ben,Paton,13,314100,13,57.85,752,1004985,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+671,673,Ed,Phillips,13,274800,4,63.25,253,1002213,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+672,674,Dylan,Roberton,13,260400,0,0.0,0,280933,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+673,675,Sebastian,Ross,13,530900,22,97.77,2151,293846,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+674,676,Paddy,Ryder,13,449100,17,82.71,1406,250267,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",STK,RUC FWD,St Kilda
+675,677,Shane,Savage,13,456900,22,84.14,1851,280858,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+676,678,Jack,Sinclair,13,420400,22,77.41,1703,994389,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,FWD MID,St Kilda
+677,679,Jack,Steele,13,515900,20,95.0,1900,296205,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",STK,MID,St Kilda
+678,680,Jimmy,Webster,13,346200,8,63.75,510,290757,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+679,681,Callum,Wilkie,13,383800,22,70.68,1555,296422,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",STK,DEF,St Kilda
+680,682,Aliir,Aliir,14,421100,22,77.55,1706,294469,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+681,683,Joel,Amartey,14,123900,0,0.0,0,1008091,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",SYD,RUC,Sydney
+682,684,James,Bell,14,129500,2,26.5,53,1002291,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,FWD MID,Sydney
+683,685,Nick,Blakey,14,295800,21,54.48,1144,1006028,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,FWD,Sydney
+684,686,Kaiden,Brand,14,250200,5,57.6,288,295156,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+685,687,Ryan,Clarke,14,309100,14,56.93,797,996442,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+686,688,Harry,Cunningham,14,436200,9,80.33,723,291978,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+687,689,Jordan,Dawson,14,467800,20,86.15,1723,992242,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,DEF FWD,Sydney
+688,690,Oliver,Florent,14,373400,21,68.76,1444,998103,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+689,691,Zac,Foot,14,123900,0,0.0,0,1011791,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,FWD MID,Sydney
+690,692,Robbie,Fox,14,298700,11,55.0,605,291848,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,DEF FWD,Sydney
+691,693,Lance,Franklin,14,394200,10,72.6,726,240399,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,FWD,Sydney
+692,694,Will,Gould,14,117300,0,0.0,0,1004113,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+693,695,Sam,Gray,14,386600,20,71.2,1424,290722,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,FWD,Sydney
+694,696,Will,Hayward,14,317900,13,58.54,761,997100,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,FWD,Sydney
+695,697,Isaac,Heeney,14,510700,22,94.05,2069,298539,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,FWD MID,Sydney
+696,698,George,Hewett,14,477600,22,87.95,1935,294036,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+697,699,Josh P.,Kennedy,14,579000,19,106.63,2026,260382,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+698,700,Michael,Knoll,14,123900,0,0.0,0,1012101,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",SYD,RUC,Sydney
+699,701,Matthew,Ling,14,123900,0,0.0,0,1004949,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+700,702,Jake,Lloyd,14,591400,22,108.91,2396,295342,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+701,703,Jack,Maibaum,14,103900,0,0.0,0,998662,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+702,704,Tom,McCartin,14,269800,19,49.68,944,1008198,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,FWD,Sydney
+703,705,Justin,McInerney,14,123900,1,21.0,21,1011936,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+704,706,Hayden,McLean,14,265000,4,61.0,244,1003203,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",SYD,RUC,Sydney
+705,707,Lewis,Melican,14,284600,17,52.41,891,996743,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+706,708,Callum,Mills,14,444100,22,81.77,1799,993905,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+707,709,Sam,Naismith,14,251500,0,0.0,0,298144,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",SYD,RUC,Sydney
+708,710,Barry,O'Connor,14,102400,0,0.0,0,1019158,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,DEF FWD,Sydney
+709,711,Colin,O'Riordan,14,338000,12,62.25,747,997842,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+710,712,Tom,Papley,14,425500,22,78.36,1724,996765,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,FWD,Sydney
+711,713,Luke,Parker,14,570700,22,105.09,2312,290778,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+712,714,Dane,Rampe,14,527800,21,97.19,2041,290307,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+713,715,Sam,Reid,14,426000,22,78.45,1726,290188,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,FWD,Sydney
+714,716,Harry,Reynolds,14,123900,0,0.0,0,1013624,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+715,717,Ben,Ronke,14,243900,13,44.92,584,1004880,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,FWD,Sydney
+716,718,James,Rowbottom,14,337600,12,62.17,746,1006126,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,FWD MID,Sydney
+717,719,Brady,Rowles,14,123400,0,0.0,0,1011789,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,DEF MID,Sydney
+718,720,Callum,Sinclair,14,396400,14,73.0,1022,294737,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",SYD,RUC,Sydney
+719,721,Dylan,Stephens,14,189300,0,0.0,0,1004848,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+720,722,Ryley,Stoddart,14,123900,2,21.0,42,1008080,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+721,723,Elijah,Taylor,14,117300,0,0.0,0,1005997,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",SYD,MID FWD,Sydney
+722,724,Lewis,Taylor,14,310200,5,71.4,357,296211,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+723,725,Jackson,Thurlow,14,329400,9,60.67,546,294663,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",SYD,DEF,Sydney
+724,726,Chad,Warner,14,117300,0,0.0,0,1012014,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+725,727,Samuel,Wicks,14,123900,0,0.0,0,1006232,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",SYD,MID,Sydney
+726,728,Marcus,Bontempelli,15,623000,22,114.73,2524,297373,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+727,729,Josh,Bruce,15,358200,22,65.95,1451,291492,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+728,730,Louis,Butler,15,117300,0,0.0,0,1011992,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,DEF MID,Western Bulldogs
+729,731,Ben,Cavarra,15,123900,0,0.0,0,296070,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+730,732,Zaine,Cordy,15,275500,22,50.73,1116,991939,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+731,733,Hayden,Crozier,15,406800,21,74.9,1573,293651,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+732,734,Bailey,Dale,15,388000,9,71.44,643,996708,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+733,735,Caleb,Daniel,15,537900,17,99.06,1684,295136,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+734,736,Tory,Dickson,15,330900,17,60.94,1036,295712,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+735,737,Josh,Dunkley,15,632400,22,116.45,2562,993834,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+736,738,Taylor,Duryea,15,411400,13,75.77,985,290085,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+737,739,Tim,English,15,448400,19,82.58,1569,1004592,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",WBD,RUC,Western Bulldogs
+738,740,Riley,Garcia,15,117300,0,0.0,0,1006533,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+739,741,Ryan,Gardner,15,136800,2,31.5,63,997501,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+740,742,Billy,Gowers,15,263900,10,48.6,486,298277,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+741,743,Fergus,Greene,15,157400,0,0.0,0,1006303,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+742,744,Will,Hayes,15,315000,8,58.0,464,991976,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+743,745,Lachie,Hunter,15,517400,22,95.27,2096,294557,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+744,746,Jason,Johannisen,15,458100,19,84.37,1603,294101,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+745,747,Lin,Jong,15,260700,0,0.0,0,295313,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+746,748,Alex,Keath,15,413000,18,76.06,1369,290797,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+747,749,Buku,Khamis,15,123900,0,0.0,0,998782,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+748,750,Tom,Liberatore,15,447500,15,82.4,1236,290799,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+749,751,Patrick,Lipinski,15,441500,13,81.31,1057,1003130,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,FWD MID,Western Bulldogs
+750,752,Sam,Lloyd,15,419100,22,77.18,1698,290073,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+751,753,Brad,Lynch,15,221100,0,0.0,0,994410,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+752,754,Jack,Macrae,15,668900,22,123.18,2710,295467,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+753,755,Toby,McLean,15,380100,18,70.0,1260,996483,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+754,756,Aaron,Naughton,15,367800,22,67.73,1490,1002404,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+755,757,Callum,Porter,15,123900,0,0.0,0,1002383,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,MID,Western Bulldogs
+756,758,Ed,Richards,15,264400,19,48.68,925,1008280,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,FWD MID,Western Bulldogs
+757,759,Josh,Schache,15,309500,13,57.0,741,993841,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+758,760,Bailey,Smith,15,415900,22,76.59,1685,1006130,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,FWD MID,Western Bulldogs
+759,761,Roarke,Smith,15,258000,5,52.8,264,992054,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,FWD MID,Western Bulldogs
+760,762,Matthew,Suckling,15,454000,18,83.61,1505,270732,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+761,763,Jordon,Sweet,15,123900,0,0.0,0,992330,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",WBD,RUC,Western Bulldogs
+762,764,Jackson,Trengove,15,354000,16,65.19,1043,280013,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+763,765,Laitham,Vandermeer,15,123900,0,0.0,0,1005000,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,FWD MID,Western Bulldogs
+764,766,Mitch,Wallis,15,454500,10,83.7,837,291545,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}, {'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WBD,FWD MID,Western Bulldogs
+765,767,Cody,Weightman,15,144300,0,0.0,0,1011803,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+766,768,Rhylee,West,15,231300,2,71.0,142,1006127,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WBD,FWD,Western Bulldogs
+767,769,Bailey,Williams,15,300500,9,55.33,498,992351,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+768,770,Easton,Wood,15,289800,22,53.36,1174,281139,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+769,771,Lachlan,Young,15,219100,6,44.83,269,1004909,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+770,772,Lewis,Young,15,267200,4,61.5,246,997316,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WBD,DEF,Western Bulldogs
+771,773,Brendon,Ah Chee,16,266100,1,70.0,70,291947,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+772,774,Brayden,Ainsworth,16,205300,0,0.0,0,1004356,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+773,775,Oscar,Allen,16,357900,21,65.9,1384,1004385,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+774,776,Tom,Barrass,16,424500,12,78.17,938,990290,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+775,777,Jarrod,Brander,16,133000,2,35.0,70,1002300,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}, {'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,DEF FWD,West Coast
+776,778,Hamish,Brayshaw,16,102400,0,0.0,0,998107,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+777,779,Jarrod,Cameron,16,278600,7,57.0,399,1005793,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+778,780,Thomas,Cole,16,311500,14,57.36,803,993820,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+779,781,Jamie,Cripps,16,413700,17,76.18,1295,290826,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+780,782,Jack,Darling,16,458900,22,84.5,1859,290838,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+781,783,Liam,Duggan,16,353000,15,65.0,975,298268,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+782,784,Harry,Edwards,16,123900,0,0.0,0,1011437,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+783,785,Luke,Foley,16,123900,0,0.0,0,1005599,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+784,786,Andrew,Gaff,16,583200,20,107.4,2148,290801,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+785,787,Tom,Hickey,16,425700,18,78.39,1411,294266,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",WCE,RUC,West Coast
+786,788,Shannon,Hurn,16,562200,19,103.53,1967,240283,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+787,789,Mark,Hutchings,16,274200,16,50.5,808,281052,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+788,790,Callum,Jamieson,16,117300,0,0.0,0,1011243,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",WCE,RUC,West Coast
+789,791,Lewis,Jetta,16,382600,20,70.45,1409,281281,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+790,792,Ben,Johnson,16,117300,0,0.0,0,1011464,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+791,793,Tim,Kelly,16,561800,22,103.45,2276,295898,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+792,794,Josh J.,Kennedy,16,335600,20,61.8,1236,240406,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+793,795,Jeremy,McGovern,16,475300,21,87.52,1838,294859,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+794,796,Nic,Naitanui,16,457800,3,93.67,281,271045,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",WCE,RUC,West Coast
+795,797,Jackson,Nelson,16,272000,11,50.09,551,298298,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+796,798,Mitchell,O'Neill,16,102400,0,0.0,0,1009353,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+797,799,Xavier,O'Neill,16,123900,0,0.0,0,1008282,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+798,800,Jack,Petruccelle,16,276400,19,50.89,967,1006550,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+799,801,Jack,Redden,16,485400,21,89.38,1877,281373,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+800,802,Willie,Rioli,16,374700,13,69.0,897,296225,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+801,803,Josh,Rotham,16,274800,4,63.25,253,997823,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+802,804,Liam,Ryan,16,334700,22,61.64,1356,1004364,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+803,805,Will,Schofield,16,242600,12,44.67,536,261214,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+804,806,Dom,Sheed,16,516100,22,95.05,2091,296296,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+805,807,Brad,Sheppard,16,455700,22,83.91,1846,281080,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+806,808,Luke,Shuey,16,548200,22,100.95,2221,280078,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+807,809,Anthony,Treacy,16,112900,0,0.0,0,1001412,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+808,810,Nathan,Vardy,16,288800,11,53.18,585,280959,True,"[{'position': 'RUC', 'position_long': 'Ruck', 'sort': 3}]",WCE,RUC,West Coast
+809,811,Daniel,Venables,16,233800,6,47.83,287,998414,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+810,812,Jake,Waterman,16,301600,11,55.55,611,996554,True,"[{'position': 'FWD', 'position_long': 'Forward', 'sort': 4}]",WCE,FWD,West Coast
+811,813,Francis,Watson,16,218300,2,67.0,134,298474,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+812,814,Bailey,Williams,16,123900,0,0.0,0,1006114,True,"[{'position': 'DEF', 'position_long': 'Defender', 'sort': 1}]",WCE,DEF,West Coast
+813,815,Elliot,Yeo,16,584400,21,107.62,2260,292128,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",WCE,MID,West Coast
+814,816,Jack,Newnes,3,386400,20,71.15,1423,291773,True,"[{'position': 'MID', 'position_long': 'Midfielder', 'sort': 2}]",CAR,MID,Carlton

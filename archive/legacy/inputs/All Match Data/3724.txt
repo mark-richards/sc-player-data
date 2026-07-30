@@ -1,0 +1,48 @@
+St Kilda,Saints,Essendon,Bombers,R3,12.12.84,21.10.136, Full Time
+Apr 10,2011,4:40,Docklands,Fox Sports,220023,10310308,5015,25,Cloudy,18
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Lionking</em>: @ Korza what's your SC team name?<br><em>rooboypete</em>: Lost by 15 lousy pts  :(<br><em>Stoney8</em>: 2&#044;385 sc is that good could i win the $1000??<br><em>omatty</em>: 2482 in SC is massive this week<br><em>The Bomber</em>: only regret for this round is captaining liberatore...<br><em>david95</em>: I won by 18 points in dt lol<br><em>thesmasher</em>: 2178 for super coach in ordinary week very happy<br><em>pie time</em>: 2206 in sc<br><em>The Bomber</em>: @ prospector...not the byes the bloody subs... and also 2159...happy<br><em>korza</em>: 2482 supercoach wee<br><em>trollface</em>: flower off with your great english soccer shower&#044; this is AFL<br><em>Stellaluna</em>: gotta love ryder on SC!<br>
+220034,Jason,Gram,SK,26,116,96,146,99,133,21,12,9,0,0,1,2,1,1, Full Time,hot,Chasing Zaharakis... %O and %M plus %s,,
+220023,Nick,Dal Santo,SK,21,102,113,126,85,115,15,14,5,2,1,2,1,1,0, Full Time,gun,Tagged by Hocking... %O and %M plus %s,,
+240062,Farren,Ray,SK,21,100,90,130,77,104,13,10,5,6,0,3,1,0,2, Full Time,hot,%s from %P and %M with %T,,
+220075,Leigh,Montagna,SK,21,99,89,125,77,102,18,8,4,2,0,3,0,1,0, Full Time,tagged,Tagged by Lonergan... %D and %s with %M and %T,sore,A lot of blood from nose and eye from a hit by Davey in Q4
+210001,Nick,Riewoldt,SK,26,98,112,121,84,101,10,6,9,2,1,1,0,3,1, Full Time,news,Booted %s from %G and %O on Hooker in his 200th game,sore,Sore jaw from a knock sustained in Q2
+230084,Brendon,Goddard,SK,24,92,112,116,73,106,11,17,1,6,0,3,2,0,1, Full Time,news,%2 Watson and getting thrashed.. %O and %s,,
+240708,Sam,Fisher,SK,20,87,118,108,74,100,11,12,6,2,1,0,1,1,0, Full Time,job,Has Ryder... %P and %M,,
+250134,Sam,Gilbert,SK,18,79,79,103,63,85,8,9,6,5,1,1,1,0,0, Full Time,news,%P and %M with %T,,
+280317,Rhys,Stanley,SK,17,75,51,94,64,78,7,5,8,2,5,0,0,1,1, Full Time,news,Kicked %s from %P with %T on Fletcher,,
+200108,Stephen,Milne,SK,19,73,55,94,64,85,13,4,6,1,0,0,3,2,1, Full Time,news,%s from %O on Hardingham,,
+250340,David,Armitage,SK,10,71,63,89,59,83,10,11,4,2,0,0,1,0,2, Full Time,news,%2 Howlett... %D and %T with %M and %s,,
+261323,Ben,McEvoy,SK,15,69,72,83,63,81,6,9,4,2,18,1,2,0,0, Full Time,sore,%H and %P with %M... knock to the head in Q2 drew blood,,
+290444,Alistair,Smith,SK,8,63,50,82,47,66,10,6,3,3,0,0,0,0,0, Full Time,news,Playing halfback... %P and %M with %T,,
+220098,Adam,Schneider,SK,15,61,66,84,44,64,7,5,2,7,0,1,2,0,1, Full Time,news,%D and %T on McVeigh,,
+230243,Sean,Dempster,SK,8,59,73,72,49,69,4,13,3,3,0,0,0,0,0, Full Time,news,%O and %M plus %T,,
+270912,Jack,Steven,SK,11,59,62,73,50,63,7,5,3,2,0,2,1,2,0, Full Time,news,%P on Heppell,,
+240552,Zac,Dawson,SK,8,52,96,60,48,66,2,15,4,1,0,0,0,0,0, Full Time,job,On Hurley... %P,,
+250703,James,Gwilt,SK,7,48,34,60,37,54,7,8,1,2,0,0,0,0,0, Full Time,job,Minding Crameri... %D and %T,,
+230035,Raphael,Clarke,SK,3,39,35,47,33,46,4,8,2,1,1,0,0,0,0, Full Time,job,Responsible for Winderlich... %D and %M,,
+261743,Clinton,Jones,SK,13,34,37,47,25,39,1,6,0,6,0,1,2,0,0, Full Time,tagger,Tagging Stanton... %D and %T,,
+240701,Brett,Peake,SK,3,31,27,38,26,36,5,5,2,0,0,0,0,0,0, Full Time,news,Subbed on in Q3 for Gamble,sub,Started as a sub
+260581,Ryan,Gamble,SK,1,18,32,24,14,18,2,1,2,1,0,0,0,0,0, Full Time,news,%O and %M on Dempsey,subbed,Subbed off in Q3
+230231,Jobe,Watson,ES,32,134,136,74,108,144,24,9,6,3,0,2,2,3,0, Full Time,star,%2 Goddard and gave him a fair old touch up... %P and %M plus %s,,
+292503,Stewart,Crameri,ES,26,105,113,87,83,108,12,8,8,5,0,0,0,1,3, Full Time,hot,Kicked %s from %M and %D with %T on Gwilt,,
+261320,Tom,Bellchambers,ES,34,99,120,79,86,98,9,3,3,2,41,2,0,1,0, Full Time,news,%H and %D with %M... also %T and %s,,
+260073,Ben,Howlett,ES,32,93,100,79,68,93,11,5,3,8,0,0,1,2,0, Full Time,news,%2 Armitage... %P and %T plus %s,,
+250569,Heath,Hocking,ES,20,92,83,70,67,91,13,7,3,7,0,4,1,0,1, Full Time,news,%O and %T with %M,tagger,Tagging Dal Santo
+270951,David,Zaharakis,ES,26,86,105,74,70,89,8,7,4,4,0,0,0,3,2, Full Time,news,%s from %D and %M on Gram... also %T,,
+250267,Patrick,Ryder,ES,17,78,105,58,71,85,9,4,7,0,13,0,1,2,0, Full Time,news,%H and %P plus %s and %M,,
+290629,Dyson,Heppell,ES,13,77,90,48,60,81,13,6,6,2,0,0,0,0,0, Full Time,news,%P and %M with %T,job,Minding Steven
+240027,Brent,Stanton,ES,13,76,73,50,53,72,13,3,3,5,0,2,0,0,0, Full Time,tagged,Tagged by Jones... %O and %M,,
+280824,Jake,Melksham,ES,13,76,52,56,66,85,10,9,8,1,1,2,1,0,0, Full Time,concussed,%P and %M... looked groggy after a big clash in Q4,,
+270935,Michael,Hurley,ES,19,74,100,38,61,75,13,2,3,0,1,1,0,3,2, Full Time,news,%s from %D on Dawson,,
+230238,Jason,Winderlich,ES,17,72,67,64,62,78,6,7,4,3,0,1,1,3,0, Full Time,garbage,Forward on Clarke... %s from %P... all his goals in second half junk time,,
+240319,Sam,Lonergan,ES,12,68,61,32,47,69,15,3,1,4,0,1,1,0,0, Full Time,tagger,Tagging Montagna... %P and %T,,
+250352,Leroy,Jetta,ES,20,68,85,51,48,69,10,4,1,6,0,0,1,1,0, Full Time,news,%s from %O and %T,,
+960197,Dustin,Fletcher,ES,13,65,92,33,58,81,13,7,7,0,0,0,3,0,0, Full Time,job,Standing Stevens... %D and %M,,
+990046,Mark,McVeigh,ES,12,60,61,35,49,66,11,4,6,1,0,0,1,0,0, Full Time,job,Following Schneider... %O and %M,,
+270584,Kyle,Hardingham,ES,4,54,71,33,43,57,9,5,4,1,0,1,0,0,0, Full Time,job,Minding Milne... %D,,
+240245,Courtenay,Dempsey,ES,7,49,51,33,40,57,7,9,1,2,0,2,1,0,0, Full Time,job,On Gamble... %O,,
+210079,Nathan,Lovett-Murray,ES,9,46,45,46,36,54,4,7,2,5,0,0,2,0,0, Full Time,news,%D and %T with %M,,
+240290,Angus,Monfries,ES,9,46,53,41,36,45,4,3,1,3,0,1,0,2,0, Full Time,news,First goal... %s from %O with %T on Gwilt,subbed,Subbed off in Q3 for Davey
+270588,Cale,Hooker,ES,8,42,53,32,38,51,6,4,6,1,0,0,2,0,0, Full Time,job,Chasing Riewoldt... %M and %D,,
+230051,Alwyn,Davey,ES,2,27,20,21,19,30,4,3,0,3,0,0,1,0,0, Full Time,mrp,On in Q3 for Monfries... %T... a hit behind the play on Montagna in Q4 will probably get a week or three,sub,Started as a sub

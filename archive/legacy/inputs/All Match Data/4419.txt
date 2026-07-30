@@ -1,0 +1,48 @@
+Fremantle,Dockers,Essendon,Bombers,R3,9.14.68,10.12.72, Full Time
+Apr 12,2013,8.40,Subiaco,Seven,270935,10390301,5015,0,Rain at times,26,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>biggerz</em>: good call breezey<br><em>zadow757</em>: flowering shower umpiring let the bombers in. Afl needs to have a death sentence for that shower<br><em>sacky35</em>: Dane Swan: 3 Copelands&#044;Brownlow and Preimership medal&#044;No Influence? PLEASE!!!<br><em>Morts54</em>: Carlisle just proves why SC is better then DT<br><em>wabofi</em>: lots of love 4 james<br><em>dashurg</em>: @muskip That's what I'm saying&#044; DT scoring is a joke. SC is far more accurate&#044;<br><em>Heizenberg</em>: Muppett is very very harsh he just missed in high pressure situation <br><em>Breezey</em>: Jackina. Are you seriously saying Dane Swan has no influence. Fair dinkum. You are kidding<br><em>nicho1</em>: Hird didnt do it tonight&#044; as usual it was Thompson the REAL coach <br><em>Daniel_79</em>: Watson scores less than dempsey! there's something wrong with those scores tonight. Watson's 2nd half was amazing... <br><em>Mudskip</em>: @ dashurg the fact that you equate DT score to how good a player payed is sweew<br><em>tezzer_j</em>: Lovin hirdys tan<br>
+291570,Nathan,Fyfe,FR,22,108,129,139,85,116,21,6,4,3,2,1,2,2,0, Full Time,hot,%D and %M plus %s,,,458500,86,498800,70,Midfielder,7
+281007,Michael,Walters,FR,27,96,111,125,74,96,10,5,5,7,0,1,1,2,3, Full Time,news,%s from %P and %T with %M on Dempsey,,,330400,18,404600,47,Forward,10
+250088,Jonathon,Griffin,FR,21,93,95,115,71,89,12,2,0,5,32,1,0,0,0, Full Time,news,%H and %D with %T,,,397100,67,491400,70,Ruck,12
+280386,Clancee,Pearce,FR,19,90,113,117,69,91,13,7,6,4,0,2,0,0,1, Full Time,news,%O and %M plus %s,job,Starting in defence on Howlett,436000,134,487400,151,Forward,46
+292026,Michael,Barlow,FR,21,90,104,119,69,98,13,9,4,6,2,1,2,0,0, Full Time,news,Playing wide of Goddard... %O and %T with %M,,,495300,71,509500,58,Midfielder,21
+250063,Danyle,Pearce,FR,14,89,86,117,64,86,17,4,3,4,0,3,0,0,2, Full Time,job,Starting on a HBF on Zaharakis... %P and %T plus %s,,,376900,40,458800,68,Midfielder Back,6
+271015,Matthew,de Boer,FR,43,89,82,120,61,87,8,8,3,10,0,0,0,0,0, Full Time,news,%D and %T with %M,tagger,Tagging Watson,434000,140,457100,145,Midfielder Forward,9
+240052,David,Mundy,FR,19,88,91,116,63,87,11,8,3,7,0,2,0,0,0, Full Time,tagged,Tagged by Hocking... %P and %T with %M,,,451800,76,477300,70,Midfielder,16
+240139,Paul,Duffield,FR,19,86,90,114,67,88,15,2,7,3,0,0,1,1,1, Full Time,news,%O and %M plus %T and %s,job,Responsible for Kavanagh,426800,107,496700,120,Back,41
+230107,Michael,Johnson,FR,13,84,107,111,64,81,16,2,7,2,0,3,0,0,0, Full Time,job,Moved from loose to Crameri in Q1 after McPharlin injury... %P and %M,,,425000,136,478400,170,Back,37
+280416,Chris,Mayne,FR,21,83,95,102,70,89,9,7,4,3,0,1,1,3,2, Full Time,muppet,%s from %P with %M and %T on Hooker... missed what would have been the winning goal in the last minute from 25m,,,380500,66,431600,72,Forward,23
+260069,Hayden,Ballantyne,FR,15,72,73,93,59,78,13,4,4,2,0,2,2,1,3, Full Time,news,First goal... %s from %O and %T on Hibberd... also %M,,,379600,,396500,,Forward,1
+280726,Tendai,Mzungu,FR,10,65,50,88,49,66,10,3,5,4,0,1,1,0,0, Full Time,zimbabwe,%2 Heppell... %O and %T with %M,,,396000,76,427300,89,Midfielder,13
+240266,Lee,Spurr,FR,8,64,79,85,48,64,12,3,3,3,0,3,1,0,1, Full Time,job,Minding Davey... %P and %T,,,342400,85,367700,82,Back,34
+290733,Cameron,Sutcliffe,FR,9,64,57,86,45,63,9,4,3,5,0,0,0,0,0, Full Time,news,On as concussion sub in Q1 for McPharlin... %P and %T with %M,sub,Started as a sub,229300,80,232700,97,Midfielder,33
+280336,Stephen,Hill,FR,12,54,65,70,40,60,6,9,0,5,0,1,1,0,0, Full Time,news,%B among %P with %T,,,342900,47,432600,64,Midfielder,32
+230011,Kepler,Bradley,FR,4,51,41,65,39,51,6,3,2,3,8,0,0,0,1, Full Time,job,Started in defence on Ryder... %P and %M with %T... also %H in ruck relief,sore,Bumped in the head by Kommer in Q1 which drew blood,329300,76,379400,86,Forward,26
+200032,Matthew,Pavlich,FR,9,49,59,65,35,48,6,4,2,4,0,1,0,0,0, Full Time,cold,%P and %T on Carlisle,,,489400,135,593900,192,Forward,29
+270908,Nick,Suban,FR,8,42,47,57,30,45,6,4,1,4,0,0,1,0,0, Full Time,news,%O and %T,tagger,Forward role on Fletcher,264500,-15,276400,-20,Back,8
+240552,Zac,Dawson,FR,2,20,34,25,15,21,1,4,0,2,0,1,0,0,0, Full Time,job,Moved from Crameri to Hurley in Q1 after McPharlin injury... %D,,,179700,60,265500,89,Back,3
+230048,Ryan,Crowley,FR,2,11,10,19,13,24,4,2,0,2,0,2,5,0,0, Full Time,tagger,Tagging Stanton... %P and %F,,,323900,115,312000,87,Forward,15
+200045,Luke,McPharlin,FR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Following Hurley... bumped by Ryder in Q1 which left him with a gash under the chin... off in Q1 as concussion sub...,subbed,Subbed off in Q1 for Sutcliffe,371400,65,426300,95,Back,18
+240027,Brent,Stanton,ES,26,109,99,73,75,97,18,4,2,8,0,8,0,0,1, Full Time,hot,Working hard despite the tag... %P and %T plus %M and %s... aided by %4FF,creepy,Tagged by Crowley,548900,63,559700,83,Midfielder,5
+230084,Brendon,Goddard,ES,26,103,108,71,77,109,16,10,4,6,0,1,1,0,1, Full Time,hot,Playing wide of Barlow... %D and %T with %M,,,501300,100,541500,103,Back,9
+250267,Patrick,Ryder,ES,33,89,145,79,73,94,8,5,2,6,25,0,2,1,0, Full Time,x-factor,Bradley on him... %H and %P with %M and %T... also %s which was the winning goal late in Q4,mrp,A bump on McPharlin in Q1 left him with a bloodies chin which means the MRP will look at it,465100,140,564300,189,Ruck,30
+260073,Ben,Howlett,ES,30,86,80,68,56,81,12,4,0,9,0,0,0,1,0, Full Time,news,Starting up forward in a role on Clancee Pearce... %P and %T,,,435800,10,447500,-28,Midfielder,40
+290160,Michael,Hibberd,ES,14,84,105,34,67,93,19,6,5,1,0,2,2,0,0, Full Time,news,%D and %M,job,Minding Ballantyne,342800,46,395100,52,Back,1
+270935,Michael,Hurley,ES,20,83,97,68,70,90,9,7,6,3,0,0,1,2,3, Full Time,injured,%s from %P and %M on McPharlin then Dawson... off the ground after the final siren with a right wrist injury,,,336800,49,391300,76,Forward,18
+290629,Dyson,Heppell,ES,31,81,93,80,60,85,7,8,2,9,1,1,2,1,0, Full Time,superman,%2 Mzungu... %P and %T... also %F and %s... quiet most of the game but lifted massively in Q4,,,439000,33,450000,42,Back,21
+270951,David,Zaharakis,ES,14,76,74,59,60,86,10,10,3,5,0,1,2,0,2, Full Time,news,%s from %P and %T with %M on a HFF on Danyle Pearce,,,428400,123,472900,146,Midfielder,11
+280824,Jake,Melksham,ES,18,73,45,63,59,81,8,9,6,4,0,0,1,0,0, Full Time,news,%O and %M with %T,,,324600,69,319600,35,Midfielder,17
+290641,Jake,Carlisle,ES,12,67,135,34,54,72,13,5,6,0,0,0,0,0,0, Full Time,star,Sat on Pavlich... %D and %M,,,284500,-6,338600,57,Back,22
+230231,Jobe,Watson,ES,13,65,67,55,51,74,6,14,0,4,0,1,0,0,2, Full Time,tagged,Tagged by de Boer... %B among %O with %T,,,579400,81,647200,93,Midfielder,4
+291686,Nick,Kommer,ES,15,65,92,51,55,75,8,8,4,3,0,1,2,1,0, Full Time,cash,Started well but drifted out of it... %P and %M with %T,mrp,A shocking looking bump to the head of Bradley in Q1 will get him weeks... also a trip on Mzungu in Q4,102700,-25,109500,-26,Midfielder ,38
+250569,Heath,Hocking,ES,20,64,57,51,44,69,10,4,1,8,0,0,3,0,0, Full Time,tagger,Tagging Mundy... %P and %T... also %F,,,316600,11,350800,63,Midfielder,39
+270588,Cale,Hooker,ES,8,62,82,43,52,72,8,12,3,1,0,1,0,0,0, Full Time,job,Chasing Mayne... %M and %O,,,319700,56,394700,120,Back,26
+240245,Courtenay,Dempsey,ES,13,61,65,33,46,69,13,3,3,4,0,0,3,0,0, Full Time,mare,Lots of clangers among %P and %M with %T,job,Walters is his man,396700,32,418400,38,Back,15
+261314,David,Myers,ES,12,61,75,45,44,64,9,6,1,5,0,1,1,0,1, Full Time,news,%P and %T plus %s,,,337700,23,352500,27,Back,23
+261320,Tom,Bellchambers,ES,15,58,53,53,55,63,3,4,2,1,33,1,1,0,0, Full Time,news,%H and %P,,,412800,82,459100,54,Ruck,2
+292503,Stewart,Crameri,ES,15,54,64,32,48,61,8,4,2,0,0,0,1,3,1, Full Time,news,%s from %P on Dawson then Johnson,,,341500,62,420000,64,Forward,12
+280988,Travis,Colyer,ES,3,40,48,19,27,42,9,2,0,3,0,0,1,0,0, Full Time,news,On in Q3 for Fletcher,sub,Started as a sub,261000,,264000,,Midfielder,32
+291804,Elliott,Kavanagh,ES,9,39,35,34,33,48,4,6,1,3,0,0,2,1,0, Full Time,bubble,Second game... %s from %P up forward on Duffield,,,165900,,139100,,Midfielder,28
+230051,Alwyn,Davey,ES,2,31,35,16,25,36,6,4,1,1,0,1,1,0,0, Full Time,news,%O on Spurr,,,322800,74,334900,32,Forward,29
+960197,Dustin,Fletcher,ES,1,27,30,18,21,30,4,4,1,1,0,0,0,0,0, Full Time,tagged,Forward tag on him by Suban... %P,subbed,Subbed off in Q3 for Colyer,330900,51,438700,86,Back,31

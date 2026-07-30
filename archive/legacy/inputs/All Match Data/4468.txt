@@ -1,0 +1,48 @@
+Collingwood,Magpies,Geelong,Cats,R8,15.12.102,14.12.96, Full Time
+May 18,2013,7.40,MCG,Seven,200034,10390805,coll-v-geel,0,Possible shower,16,,
+
+<em>Rilian</em>: Probably countered by all his clangers being the rabbit that he is J.Gabor...<br><em>J.Gabor</em>: Krakour kicked 2 late match winning goals and scores 100. I thought sc loved that stuff<br><em>m_zulian</em>: thurlow 55. not bad<br><em>flagdog49</em>: ballbag - fail<br><em>itsduftime</em>: thanks for covering SJ Dwyer<br><em>ShaneO85</em>: Swanny too handball happy today<br><em>ballbag</em>: other game was a draw- 2 great games<br><em>Rilian</em>: Almost 2 draws at the one time&#044; that would've been interesting! Not sure how that was HTB against Corey at the end btw..<br><em>Elephant</em>: @kingcarey you do realise their cant be junk in a 1 goal match?<br><em>Breezey</em>: The yellow maggots tried their best to win Geelong the game and they still couldn't get there.<br><em>old_shepp</em>: What was that about Pies no chance Ballbag?<br><em>JobeyOne</em>: pendlebury 118. thats so ridiculous. <br>
+260257,Scott,Pendlebury,CO,28,127,118,157,105,139,16,15,8,3,0,0,0,2,1, Full Time,star,%P and %M plus %T and %s,,,530000,118,649800,134,Centre,10
+240073,Harry,O'Brien,CO,21,123,141,157,98,130,19,12,9,3,0,2,0,0,1, Full Time,cherry,%O and %M with %T and %s... underrated outside run was crucial for the Pies,,,367000,42,387100,39,Back,8
+250133,Sam,Dwyer,CO,26,104,123,126,86,114,16,11,4,1,0,0,0,3,0, Full Time,superman,%s from %O on Enright... his Q4 was the catalyst for the Pie win,,,246900,18,267900,10,Forward Centre,41
+210058,Andrew,Krakouer,CO,26,98,106,123,80,103,12,7,5,4,0,1,1,3,1, Full Time,news,%s from %D and %M on Guthrie.. %T as well,,,243200,50,291100,74,Forward,7
+280104,Jarryd,Blair,CO,19,97,90,124,79,105,10,13,7,5,0,3,1,0,0, Full Time,news,%P and %M with %T,,,386200,64,416300,84,Forward Centre,11
+240366,Travis,Cloke,CO,25,92,93,122,81,101,15,2,13,1,0,1,3,1,2, Full Time,news,Booted %s from %D and %G on Lonergan,,,464400,115,521300,154,Forward,32
+210099,Darren,Jolly,CO,34,91,103,118,79,103,6,6,5,8,26,1,5,0,2, Full Time,news,%H and %D with %T and %M... also %s and %F,reported,Reported for a bump that caught Stokes high in Q2... not much in it,379500,23,458700,31,Ruck,18
+220105,Dane,Swan,CO,14,90,84,114,72,103,18,11,4,1,0,0,1,0,1, Full Time,news,%P and %M plus %s,,,596800,153,628900,166,Centre,36
+293801,Jamie,Elliott,CO,26,88,97,111,71,93,11,6,4,4,0,0,1,3,0, Full Time,news,%s from %P and %M on Mackie... also %T,,,316900,106,331300,115,Forward,19
+280965,Steele,Sidebottom,CO,20,87,91,111,68,96,13,10,3,4,0,0,1,1,0, Full Time,news,First goal... matched up on Corey... %P and %T plus %s,,,490800,142,526400,144,Centre,22
+230263,Nick,Maxwell,CO,18,76,78,101,60,81,10,6,7,4,0,0,1,0,0, Full Time,job,Zoning off Smedts... %D and %T with %M,,,318100,90,376600,121,Back,5
+220005,Luke,Ball,CO,20,72,64,96,54,75,8,7,4,6,0,1,1,0,0, Full Time,news,%D and %M,,,343100,,301800,,Centre,12
+294733,Paul,Seedsman,CO,15,71,81,90,61,84,10,9,5,2,0,0,2,1,0, Full Time,job,Matched up on Schroder... %O,,,270800,9,271700,32,Centre,40
+261181,Brent,Macaffer,CO,14,70,62,95,53,72,11,3,6,4,0,0,1,0,0, Full Time,news,%D,tagger,Tagging Selwood,254000,24,250900,21,Forward,3
+240232,Ben,Reid,CO,8,60,61,76,49,66,9,7,5,1,0,0,0,0,0, Full Time,tomahawk,Has Hawkins... %P and %M,,,366400,51,448300,81,Back,20
+290289,Josh,Thomas,CO,7,48,65,61,37,57,7,9,0,3,0,0,1,0,0, Full Time,news,%P,,,201600,-52,220600,-40,Centre,24
+250090,Jordan,Russell,CO,4,46,69,59,35,49,7,5,2,2,0,0,0,0,1, Full Time,news,%P... also %s,,,286600,58,290500,69,Back,2
+260310,Nathan,Brown,CO,8,46,64,60,44,60,8,6,6,0,0,1,3,0,0, Full Time,ipod,On Podsiadly... %D and %M,,,209100,27,252000,66,Back,16
+291975,Jarrod,Witts,CO,4,42,29,52,34,43,2,5,2,3,7,1,0,0,0, Full Time,news,%P and %T... also %H,subbed,Subbed off at 3QT for Kennedy,108500,,115900,,Ruck,15
+220061,Quinten,Lynch,CO,9,41,44,49,35,44,6,4,2,0,1,1,0,1,1, Full Time,news,%s from %D on Taylor,,,376300,128,389200,123,Forward,21
+295256,Marley,Williams,CO,2,29,36,40,19,27,4,1,1,3,0,0,0,0,0, Full Time,news,%D and %T,,,248100,,274700,,Back,46
+293431,Ben,Kennedy,CO,1,19,21,24,15,21,2,3,1,1,0,0,0,0,0, Full Time,news,On after 3QT for Witts,sub,Started as a sub,102700,-14,109500,-8,Forward Centre,27
+220007,Jimmy,Bartel,GE,27,119,112,83,93,121,18,5,8,5,1,1,1,2,0, Full Time,hot,%P and %M with %T... also %s... had a massive Q3,switch,Started loose in defence but switched forward in Q3,459900,70,538000,91,Forward Centre,3
+200034,Joel,Corey,GE,26,111,96,101,96,129,9,21,9,4,0,2,1,0,0, Full Time,hot,Matched up on Sidebottom... %B among %D with %M,,,371100,88,387200,98,Centre,11
+230248,Andrew,Mackie,GE,25,108,105,68,89,117,17,11,7,2,0,3,1,1,0, Full Time,hot,%D and %M with %T and %s,job,Responsible for Elliott,384900,121,404200,132,Back,4
+200035,Corey,Enright,GE,20,101,84,76,86,111,13,11,12,1,0,0,0,0,0, Full Time,hot,%P and %M,job,Zoning off Dwyer,436900,51,465900,67,Back,44
+230214,Mathew,Stokes,GE,20,99,115,52,76,111,19,12,2,4,0,2,2,0,0, Full Time,news,%O and %T,,,443900,77,460200,73,Forward,27
+200131,James,Podsiadly,GE,20,88,92,66,75,91,11,5,9,1,0,1,0,2,1, Full Time,news,%s from %D and %M on Reid,,,345000,75,365400,80,Forward,31
+280990,Steven,Motlop,GE,20,79,72,56,62,84,11,6,2,4,0,0,1,2,3, Full Time,news,%s from %O... also %T and %M,,,378500,80,393200,100,Forward,32
+261510,Tom,Hawkins,GE,21,78,79,58,69,78,9,2,7,0,0,2,0,4,0, Full Time,news,Booted %s from %P and %G on Reid,,,329400,119,412100,150,Forward,26
+261497,Harry,Taylor,GE,13,76,95,39,61,84,15,6,6,1,0,0,1,0,0, Full Time,job,Has Lynch... %D and %M,,,424500,115,518300,143,Back,7
+280918,Allen,Christensen,GE,19,76,67,58,59,81,9,9,1,4,0,0,0,2,0, Full Time,news,%D and %T,,,403100,65,482500,41,Forward Centre,28
+281065,Mitch,Duncan,GE,13,76,53,48,61,81,13,5,7,2,0,1,1,0,0, Full Time,news,%D and %M with %T,,,444500,86,397100,85,Centre,22
+250321,Joel,Selwood,GE,14,69,83,61,57,80,6,14,2,4,2,2,1,0,0, Full Time,tagged,Tagged by Macaffer... %P,,,485800,105,568600,137,Centre,14
+260261,Trent,West,GE,20,65,76,48,56,65,7,2,0,2,25,3,1,1,1, Full Time,news,%H and %D with %s,,,312000,68,366900,55,Ruck,12
+294663,Jackson,Thurlow,GE,8,55,85,34,42,60,9,7,2,2,0,0,0,0,0, Full Time,news,%O,,,116200,,124500,,Back,40
+290576,Jordan,Schroder,GE,5,54,58,56,45,59,3,8,5,3,0,0,0,0,2, Full Time,news,%s from %P and %M on Seedsman,,,127800,,144500,,Centre,15
+293255,George,Horlin-Smith,GE,12,51,54,47,39,57,4,11,0,4,0,1,0,0,0, Full Time,news,%P and %T,,,233400,53,263300,78,Centre,33
+290550,Cameron,Guthrie,GE,5,50,66,34,38,51,8,3,4,2,0,0,0,0,0, Full Time,job,Minding Krakouer... %O and %T with %M,,,236400,29,267200,25,Back,29
+290623,Josh,Caddy,GE,3,50,55,39,38,54,6,7,1,3,1,0,0,0,2, Full Time,in,Late replacement for Steve Johnson... %P and %T,,,240900,115,241300,125,Centre,23
+296733,Mark,Blicavs,GE,10,49,45,50,38,49,3,4,2,4,10,0,0,0,0, Full Time,news,%D,,,190100,-13,226800,1,Centre Ruck,46
+210059,Josh,Hunt,GE,3,38,43,17,30,39,8,2,3,0,0,1,0,0,0, Full Time,news,On in Q2 for Smedts... %P,sub,Started as a sub,361500,,414800,,Back,8
+230125,Tom,Lonergan,GE,2,23,36,23,24,30,1,6,3,0,0,2,1,0,0, Full Time,job,Cloke is his man... %P and %M,,,231700,39,293800,39,Back,13
+290783,Billie,Smedts,GE,1,19,10,15,14,19,3,0,1,2,0,1,1,0,1, Full Time,injured,%s from %P and %T on Maxwell... knee injury in Q2,subbed,Subbed off in Q2 for Josh Hunt,266900,42,292100,54,Forward,2

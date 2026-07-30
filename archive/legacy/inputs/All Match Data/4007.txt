@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Essendon,Bombers,R1,15.12.102,14.20.104, Full Time
+Mar 31,2012,7:45,Docklands,Fox Sports,270935,10340107,430014,0,Roof closed,25,,
+
+<em>The Bomber</em>: essendon played shower with patches of good play...and even those were filled with behinds<br><em>Jayman</em>: flower me look at hibbberds SC!<br><em>pies4spoon</em>: flower off north and your 10 supporters<br><em>mufc</em>: heppel dissapointing<br><em>Ardenator</em>: north suck and yet essendon only won by 2 points&#044; by that reasoning essendon suck too<br><em>austinmax</em>: i thought leigh adams was better than his scores show<br><em>austinmax</em>: stanton. wowee<br><em>FlyCou</em>: @kavastar&#044; yeah you did win i was just saying we never heard from you until those stages<br><em>SeanJohn41</em>: @bernieV enjoy the moment mate. undefeated <br><em>Dutch</em>: Ooh&#044; happy with Dempsey's score. :)<br><em>Dutch</em>: Possibly not&#044; but either will nine others. :)<br><em>alexd1996</em>: Zaharakis great finish champ<br>
+261909,Lindsay,Thomas,NM,31,110,84,146,83,107,17,1,7,6,0,1,1,2,2, Full Time,bluemoon,%s from %O and %M with %T on Hardingham... still has the yips,,
+230232,Daniel,Wells,NM,20,91,90,116,73,99,20,5,5,0,1,0,1,1,2, Full Time,news,%O and %M plus %s,,
+260545,Liam,Anthony,NM,14,91,75,117,71,96,14,9,6,3,0,1,0,0,0, Full Time,news,%K among %O with %M and %T,,
+240417,Andrew,Swallow,NM,19,86,90,108,68,99,10,16,2,5,0,1,1,0,0, Full Time,news,Tagged by Hocking until Hocking got injured in Q1... %B among %D with %T,,
+281395,Scott D.,Thompson,NM,19,82,111,109,68,87,8,7,9,5,0,3,2,0,0, Full Time,news,%P and %T with %M,,
+210023,Drew,Petrie,NM,16,79,74,98,68,80,7,6,6,3,1,5,1,2,1, Full Time,sore,Booted %s from %G and %D on Hooker... also %T and %H... right calf tweak in Q4,,
+960491,Brent,Harvey,NM,20,79,91,92,69,90,10,11,3,0,0,0,0,3,0, Full Time,news,%s from %O and %M,,
+250285,Leigh,Adams,NM,14,67,73,81,58,79,9,10,1,2,0,2,2,2,1, Full Time,news,%s from %P on Dempsey,,
+230272,Michael,Firrito,NM,8,64,87,80,53,72,9,9,5,1,0,0,0,0,0, Full Time,job,On Hurley... %D,,
+290547,Kieran,Harper,NM,14,64,99,80,53,67,9,6,3,2,0,4,1,1,1, Full Time,news,%s from %O and %M,,
+280863,Ryan,Bastinac,NM,7,60,48,73,48,66,6,12,1,3,0,3,0,0,0, Full Time,news,%B among %D,,
+230240,Aaron,Edwards,NM,11,59,72,74,51,63,8,3,5,1,0,1,1,2,0, Full Time,news,%P on Hibberd,,
+280864,Sam,Wright,NM,8,58,75,72,48,66,8,9,4,1,0,0,0,0,0, Full Time,news,%O with %b by hand... also %M,,
+250135,Scott,McMahon,NM,9,57,71,73,48,66,7,8,5,2,0,0,1,0,0, Full Time,job,Standing Crameri... %O and %T,,
+230141,Hamish,McIntosh,NM,12,56,77,68,53,65,7,4,5,0,10,1,2,1,1, Full Time,news,Started forward on Fletcher... %H with %P and %M... also %F,,
+271129,Todd,Goldstein,NM,14,56,74,70,47,63,5,5,1,4,18,0,2,0,0, Full Time,news,Started in ruck... %H and %D with %T,,
+280921,Ben,Cunnington,NM,14,53,61,70,39,57,4,8,1,6,0,1,1,0,0, Full Time,news,%D with %b by hand.... also %T,,
+290787,Shaun,Atley,NM,7,51,60,63,41,57,8,8,2,1,0,1,0,0,0, Full Time,job,Minding Jetta... %D,,
+291445,Aaron,Mullett,NM,4,46,40,57,38,51,4,8,3,2,0,1,0,0,0, Full Time,news,%O and %T with %M,,
+240189,Matt,Campbell,NM,8,43,44,57,31,42,4,4,2,4,0,1,0,0,0, Full Time,news,On in Q3 for Tarrant,sub,Started as a sub
+290194,Jamie,MacMillan,NM,9,40,40,51,33,45,7,3,2,1,0,0,1,1,0, Full Time,news,%P,,
+270325,Robbie,Tarrant,NM,2,23,28,30,18,24,3,2,2,1,0,0,0,0,0, Full Time,injured,%P and %M on Pears... right hamstring tweak in Q3,subbed,Subbed off in Q3 for Campbell
+240027,Brent,Stanton,ES,37,153,180,92,117,153,26,9,7,5,0,4,0,2,0, Full Time,star,%s from %P with %k by foot... also %M,,
+250267,Patrick,Ryder,ES,34,128,165,104,113,136,13,7,9,3,33,2,2,1,1, Full Time,hot,%H and %P plus %M and %T.. also  %s,,
+230231,Jobe,Watson,ES,30,110,107,77,95,124,15,13,10,1,0,1,1,1,1, Full Time,hot,%P and %M,,
+270951,David,Zaharakis,ES,25,100,112,61,72,104,18,7,3,6,0,0,1,0,2, Full Time,hot,Showing signs of a quiet preseason on the back of offseason surgeries... %s from %D and %T,,
+200026,David,Hille,ES,26,93,74,67,83,101,12,6,10,0,10,1,1,1,1, Full Time,news,%H and %P with %M and %s,,
+280824,Jake,Melksham,ES,20,83,61,59,69,89,12,4,6,3,1,1,2,2,1, Full Time,news,%O and %M plus %s,,
+260073,Ben,Howlett,ES,24,80,82,70,57,84,9,10,1,8,0,1,1,0,0, Full Time,news,%D and %T,,
+290629,Dyson,Heppell,ES,15,75,84,43,62,84,13,7,5,1,0,0,1,1,0, Full Time,news,%O and %M plus %s,,
+240290,Angus,Monfries,ES,10,65,65,61,51,70,6,8,4,5,0,1,1,0,1, Full Time,news,%O and %M with %T,,
+290160,Michael,Hibberd,ES,18,65,116,45,59,75,10,5,10,0,0,1,2,0,0, Full Time,news,%M and %P,job,Following Edwards
+292503,Stewart,Crameri,ES,13,65,81,38,60,83,11,9,6,0,0,0,3,0,5, Full Time,news,Booted %s from %P and %G on McMahon,,
+261314,David,Myers,ES,8,64,65,30,51,69,13,5,5,0,0,0,0,0,0, Full Time,news,%D and %M,,
+240245,Courtenay,Dempsey,ES,10,63,98,51,49,66,8,6,4,4,0,2,1,0,0, Full Time,job,On Adams... %D with %M and %T,,
+210079,Nathan,Lovett-Murray,ES,11,61,63,44,49,63,8,4,3,2,0,0,0,2,0, Full Time,news,On in Q1 for Hocking... %O and %M plus %s,sub,Started as a sub
+250352,Leroy,Jetta,ES,10,58,57,37,45,60,9,4,2,2,0,0,0,1,3, Full Time,news,First goal... %s from %P on Atley,,
+270935,Michael,Hurley,ES,15,58,70,48,54,67,6,5,6,1,0,1,2,2,1, Full Time,news,Kicked %s from %P and %M on Firrito,,
+960197,Dustin,Fletcher,ES,3,51,93,20,39,54,12,2,3,1,0,1,1,0,0, Full Time,job,Has McIntosh... %P and %M,heart,His desperate defensive efforts late in Q4 earned the win
+271022,Tayte,Pears,ES,4,40,54,35,36,51,4,8,3,2,0,1,2,0,0, Full Time,job,On Tarrant... %D and %T,,
+270588,Cale,Hooker,ES,4,37,50,17,35,51,8,5,4,0,0,0,3,0,0, Full Time,job,Has Petrie... %P and %M... also %F,sore,Spent much of Q4 off with a knock
+990046,Mark,McVeigh,ES,8,30,33,23,26,33,4,1,3,1,0,0,1,1,0, Full Time,news,%s from %O,,
+270584,Kyle,Hardingham,ES,1,16,14,9,13,21,3,3,0,1,0,0,1,0,0, Full Time,job,Minding Thomas... %O,sore,Left shoulder knock when he ran into Ryder in Q2
+250569,Heath,Hocking,ES,0,10,10,5,8,10,2,0,1,0,0,0,0,0,1, Full Time,injured,Tagging Swallow... %D and %s... copped a whack on the chin in Q1,subbed,Subbed off in Q1 for Lovett-Murray

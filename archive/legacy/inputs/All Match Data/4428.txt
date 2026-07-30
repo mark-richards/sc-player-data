@@ -1,0 +1,48 @@
+Sydney,Swans,Geelong,Cats,R4,16.7.103,19.10.124, Full Time
+Apr 19,2013,7.50,SCG,Seven,280918,10390401,syd-v-geel,0,Windy with showers,20,,
+
+<em>m_zulian</em>: hope Robinson (my POD) scores more than Bartels 66<br><em>JoeMontana</em>: m_zulian&#044; for cash cows&#044;  N wright - saints&#044; sam mayes - b lions&#044; sam rowe - blues&#044; t.lee - saints <br><em>Breezey</em>: Kermit for Nugz<br><em>fixxxer</em>: well JPK 82 could have been much worse i guess<br><em>GoTheWoods</em>: Stevie j 86 p*ss off<br><em>njbland</em>: iz smokin :)<br><em>Garnzy</em>: thats it Bartel&#044; you're gone!<br><em>GoTheWoods</em>: Stevey j gutsy stuff mate&#044; love it<br><em>fixxxer</em>: Trading in Ablett when he drops below 700k&#044; which should be this week<br><em>Breezey</em>: Spud for Nugz<br><em>WormBurner</em>: looks like geelong ran over the top of em as I predicted <br>
+230132,Nick,Malceski,SY,26,119,123,155,91,123,24,4,6,3,0,0,1,2,0, Full Time,cherry,%O and %M plus %s,,,378900,61,417700,65,Back,9
+290117,Daniel,Hannebery,SY,22,106,97,128,89,120,13,16,5,2,0,0,0,2,0, Full Time,heart,%2 Stokes on a wing... %D including %b by hand with %T and %M... also %s... copped a big whack in the ribs from Grundy in Q2... then another from Podsiadly in Q3 who also landed on his left shin... soldiered on as the Swans had already used their sub,,,438400,49,471200,32,Centre,4
+240226,Kieren,Jack,SY,15,101,130,131,77,109,20,9,4,3,0,1,1,0,1, Full Time,hot,%K among %P with %T and %M... also %s,tagger,Tagging Johnson,500800,116,583000,148,Centre,15
+230253,Jarrad,McVeigh,SY,25,99,96,121,80,111,15,12,1,3,0,0,1,3,0, Full Time,news,%P and %T plus %s,,,488100,45,545600,56,Centre,3
+200071,Ryan,O'Keefe,SY,8,71,92,87,58,84,9,15,1,3,0,2,1,0,0, Full Time,news,%2 Selwood... %P including %B with %T,,,510100,98,552400,112,Centre,5
+270170,Tony,Armstrong,SY,8,67,77,86,51,69,10,7,3,3,0,2,0,0,0, Full Time,news,%O and %T with %M,job,Running off Duncan,249900,82,244100,74,Centre,19
+980073,Adam,Goodes,SY,12,67,79,84,54,65,9,2,4,2,0,2,0,2,2, Full Time,news,%s from %O and %M on Corey,,,400800,128,453100,144,Forward,37
+990011,Jude,Bolton,SY,19,67,88,86,55,78,10,7,1,4,0,1,3,2,0, Full Time,news,Starting forward on Enright... %s from %D... %F as well,,,426900,95,487300,100,Centre,24
+210027,Ted,Richards,SY,13,66,95,83,59,78,11,9,6,0,0,3,2,0,0, Full Time,news,%D and %M... also %F,tomahawk,On Hawkins,283100,91,397500,115,Back,25
+230140,Ben,McGlynn,SY,16,66,59,87,53,72,7,6,4,5,0,1,2,1,0, Full Time,news,%s from %P and %M on Mackie... also %T and %F,,,377500,75,383100,61,Centre,21
+260382,Josh P.,Kennedy,SY,14,59,80,69,57,84,6,17,2,1,0,0,3,1,0, Full Time,mare,%2 Selwood to start then got a tag from Horlin-Smith... very quiet first half and not much better after that... %P including %B... also %F and %s,,,516400,101,647600,140,Centre,12
+220063,Martin,Mattner,SY,8,58,47,74,47,63,11,5,5,0,0,0,0,0,0, Full Time,job,Responsible for Horlin-Smith... %D and %M,,,271400,93,301000,103,Back,29
+240072,Heath,Grundy,SY,9,57,69,72,48,66,7,9,4,2,0,1,1,0,0, Full Time,ipod,Has Podsiadly... %P and %M with %T,,,326100,82,387300,113,Back,39
+291206,Mike,Pyke,SY,15,55,81,66,53,63,4,4,5,1,15,1,2,1,0, Full Time,canada,%P and %H with %M and %s,,,362500,37,432700,67,Ruck,38
+280762,Shane,Mumford,SY,20,53,68,65,49,60,2,3,0,5,30,3,4,0,0, Full Time,news,%H and %P with %T... also %F,,,400500,145,471400,143,Ruck,41
+250338,Nick,Smith,SY,8,50,51,66,35,48,5,5,1,5,0,2,0,0,0, Full Time,job,Minding Motlop... %O and %T,,,311600,80,348900,83,Centre,40
+290188,Samuel,Reid,SY,10,44,43,55,37,51,3,7,2,3,0,0,1,1,0, Full Time,news,First goal... %s from %P and %G on Lonergan,,,262800,53,321700,64,Back,20
+290778,Luke,Parker,SY,6,41,43,51,33,48,8,7,0,1,0,2,1,0,0, Full Time,news,%D,,,390300,4,419300,30,Forward,26
+290307,Dane,Rampe,SY,2,39,48,52,29,39,8,1,3,1,0,0,0,0,0, Full Time,bubble,Second game... %O and %M,job,Has Smedts,89300,,96200,,Centre,43
+281281,Lewis,Jetta,SY,3,37,30,50,27,36,6,1,3,2,0,0,0,0,0, Full Time,tagged,Tagged by Taylor Hunt... %P and %T with %M,,,355800,108,383400,111,Centre Forward,32
+220089,Lewis,Roberts-Thomson,SY,8,32,42,39,28,34,4,2,3,0,0,0,0,1,1, Full Time,injured,Started forward on Taylor... %s from %D and %M... right knee injury in Q2,subbed,Subbed off in Q2 for Morton,240600,83,281900,76,Forward,30
+240412,Mitch,Morton,SY,1,31,29,38,25,33,4,5,1,1,0,2,0,0,0, Full Time,news,On in Q2 for Roberts-Thomson... went to Bartel... %P,sub,Started as a sub,164900,,208900,,Forward,10
+250321,Joel,Selwood,GE,56,123,163,109,97,137,12,19,2,10,1,4,3,1,1, Full Time,star,%2 O'Keefe... %O and %T with %M and %s... also %4FF and %F,,,523800,135,615100,151,Centre,14
+220054,Steve,Johnson,GE,27,107,97,76,81,108,16,7,5,6,0,3,1,1,0, Full Time,hot,Tagged by Jack... %O and %T with %M... also %s,,,501700,,516700,,Forward,20
+230214,Mathew,Stokes,GE,22,106,103,68,89,120,15,16,3,2,0,3,1,2,0, Full Time,hot,%2 Hannebery on a wing... %s from %P and %T,,,374700,36,387700,27,Forward,27
+261497,Harry,Taylor,GE,21,106,125,68,83,105,17,3,7,3,0,1,0,2,3, Full Time,hot,%s from %D and %T with %M,switch,Roberts-Thomson manning him up to start with... then switched forward in Q1... back to follow Goodes after QT,364200,84,442900,116,Back,7
+230248,Andrew,Mackie,GE,19,93,86,57,77,102,16,7,10,1,0,0,1,0,0, Full Time,job,Running off McGlynn... %D with %M,,,405400,109,431900,96,Back,4
+281065,Mitch,Duncan,GE,14,92,95,65,73,98,13,10,6,3,1,1,0,0,1, Full Time,news,%s from %O and %M on Armstrong,,,426800,75,412000,116,Forward,22
+200039,Paul,Chapman,GE,21,79,101,59,67,96,10,12,2,4,0,0,3,2,0, Full Time,news,%D and %T plus %M and %s,sore,Struggling with hamstring soreness early,493200,120,527700,134,Forward,35
+280990,Steven,Motlop,GE,21,79,90,57,65,81,10,5,4,2,0,1,0,3,0, Full Time,news,%s from %P on Smith... also %T and %M,,,332000,29,350500,39,Forward,32
+200131,James,Podsiadly,GE,19,75,66,53,66,85,11,5,9,1,1,0,2,1,0, Full Time,news,Started on the bench then went back briefly but mostly forward... %s from %P and %G on Grundy,,,363400,86,400700,94,Forward,31
+280918,Allen,Christensen,GE,15,75,83,42,58,79,13,7,2,2,0,1,0,1,1, Full Time,news,Started in midfield... %P with %k by foot,,,391800,53,425500,69,Centre,28
+280822,Taylor,Hunt,GE,15,72,73,48,58,78,10,10,2,2,0,2,0,1,0, Full Time,news,%P and %M... also %T and %s,tagger,Tagging Jetta,346500,49,382600,38,Centre,19
+200035,Corey,Enright,GE,12,70,76,42,58,79,12,7,6,1,0,0,1,0,1, Full Time,job,Bolton making him responsible... %P and %M... also %s,,,405000,86,482900,118,Back,44
+293255,George,Horlin-Smith,GE,14,69,105,44,59,84,10,13,1,2,0,2,2,1,0, Full Time,x-factor,%s from %P starting forward... also %T,tagger,Moved to tag Kennedy early on,171900,,198000,,Forward,33
+200034,Joel,Corey,GE,8,68,80,55,58,82,6,18,1,2,1,2,0,0,0, Full Time,news,%D with %b by hand... also %T,job,Interesting role on Goodes to start then moved off,396700,86,409700,78,Centre,11
+220007,Jimmy,Bartel,GE,13,66,70,50,57,78,9,8,7,2,0,0,2,0,0, Full Time,missing,Very little of the ball after half time... %O and %M with %T,job,Starting loose in defence... Morton manned him up in the second half,488800,96,544500,60,Centre,3
+261510,Tom,Hawkins,GE,16,56,71,50,53,66,5,4,5,2,0,1,3,3,0, Full Time,news,Kicked %s from %G and %D on Richards... also %T and %F... quiet first half but lifted in Q3,,,402800,77,497300,97,Forward,26
+260261,Trent,West,GE,9,45,62,40,42,53,3,5,0,2,23,1,2,0,0, Full Time,news,%H and %D with %T,,,327500,81,370400,98,Ruck,12
+230250,Jared,Rivers,GE,8,42,62,39,32,48,4,7,1,4,0,0,1,0,0, Full Time,job,On the resting ruck... %O and %T,,,299800,,394200,,Back,25
+230125,Tom,Lonergan,GE,3,36,38,28,27,34,5,1,3,2,0,1,0,0,1, Full Time,news,Donuts to HT... %D and %T,job,Has Reid,248200,57,297000,70,Back,13
+296733,Mark,Blicavs,GE,3,33,47,33,30,38,1,6,1,1,11,0,0,0,0, Full Time,cash,%H and %P,,,138400,-20,160500,-18,Ruck,46
+290783,Billie,Smedts,GE,8,32,38,24,26,33,4,2,2,1,0,0,0,1,0, Full Time,news,%s from %P and %M starting forward on Rampe,subbed,Subbed off at 3QT for Caddy,261400,74,267000,66,Back,2
+290623,Josh,Caddy,GE,1,11,1,2,10,16,3,2,0,0,0,0,1,0,1, Full Time,news,On after 3QT for Smedts,sub,Started as a sub,311900,80,311800,63,Centre,23

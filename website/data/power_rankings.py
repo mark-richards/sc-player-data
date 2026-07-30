@@ -90,7 +90,7 @@ def _donut_counts(on_field: dict, expected_per_round: dict) -> dict:
     }
 
 
-_INJURY_TAGS = {"injured", "sore"}
+_INJURY_TAGS = {"injured", "sore", "longterminjured", "subbedlongterminjured"}
 
 
 def _match_detail_map(fixtures_df: pd.DataFrame) -> dict:
@@ -143,16 +143,26 @@ def _injury_player_details(players_df: pd.DataFrame, fanfooty_df: pd.DataFrame) 
 
 
 def _donut_player_details(players_df: pd.DataFrame) -> dict:
-    """Returns {(coach, round): [{"name": str}]} for on-field players who scored 0."""
+    """
+    Returns {(coach, round): [{"name": str}]} for starters who scored 0.
+    Includes on-field players with 0 score and nonscoring players with picked='true' and 0 score
+    (starters on BYE or DNP).
+    """
     if players_df is None or players_df.empty:
         return {}
     needed = {"coach_first_name", "round_x", "on_field", "first_name", "last_name", "points_x"}
     if not needed.issubset(players_df.columns):
         return {}
-    df = players_df[players_df["on_field"] == True].copy()
+    df = players_df.copy()
     df["points_x"] = pd.to_numeric(df["points_x"], errors="coerce").fillna(0)
+    has_picked = "picked" in df.columns
+    # Only nonscoring starters (BYE/DNP): on_field=False AND picked='true' AND pts=0
+    if has_picked:
+        mask = (df["on_field"] == False) & (df["picked"] == "true") & (df["points_x"] == 0)
+    else:
+        mask = (df["on_field"] == True) & (df["points_x"] == 0)
     result: dict = {}
-    for _, row in df[df["points_x"] == 0].iterrows():
+    for _, row in df[mask].iterrows():
         key = (row["coach_first_name"], int(row["round_x"]))
         result.setdefault(key, []).append({
             "name": f"{str(row['first_name'])[0]}. {row['last_name']}",
@@ -301,6 +311,7 @@ def build_power_rankings_table(
 
     on_field = _on_field_counts(players_df)
     expected_per_round = _expected_on_field_per_round(on_field)
+    donut_counts   = _donut_counts(on_field, expected_per_round)
     match_details = _match_detail_map(fixtures_df)
     injured_detail = _injury_player_details(players_df, fanfooty_df)
     donut_detail = _donut_player_details(players_df)
@@ -348,6 +359,7 @@ def build_power_rankings_table(
             result_code = result_map.get(key)
             injured = injured_detail.get(key, [])
             donuts = donut_detail.get(key, [])
+            n_donuts = donut_counts.get(key, 0)
             match = match_details.get(key)
 
             # Build tooltip HTML
@@ -359,13 +371,13 @@ def build_power_rankings_table(
                 )
             for p in injured:
                 tooltip_parts.append(f"🤕 {p['name']} ({p['score']})")
-            for p in donuts:
+            for p in donuts[:n_donuts]:
                 tooltip_parts.append(f"🍩 {p['name']}")
 
             cells.append({
                 "round":           int(r),
                 "val":             float(v) if v is not None else None,
-                "donuts":          len(donuts),
+                "donuts":          n_donuts,
                 "injuries":        len(injured),
                 "result":          result_code,
                 "color":           _cell_color(v, lo, hi) if v is not None else "rgb(230,230,230)",
@@ -373,206 +385,48 @@ def build_power_rankings_table(
                 "tooltip":         "<br>".join(tooltip_parts),
             })
 
+        total_injuries = sum(c["injuries"] for c in cells)
+        all_inj_scores = [p["score"] for r in rounds_desc for p in injured_detail.get((coach, r), [])]
+        avg_inj = round(sum(all_inj_scores) / len(all_inj_scores), 1) if all_inj_scores else 0.0
+
         coach_rows.append({
-            "coach":   coach,
-            "avg":     season_avg,
-            "avg_3rd": avg_3rd,
-            "cells":   cells,
+            "coach":          coach,
+            "avg":            season_avg,
+            "avg_3rd":        avg_3rd,
+            "total_injuries": total_injuries,
+            "avg_inj":        avg_inj,
+            "cells":          cells,
         })
 
     coach_rows.sort(key=lambda x: x["avg_3rd"], reverse=True)
-    return {
-        "rounds": [int(r) for r in rounds_desc],
-        "coaches": coach_rows,
-        "lo": lo,
-        "hi": hi,
-    }
 
+    # Conditional formatting for total_injuries (more = red) and avg_inj (higher score = green)
+    inj_counts = [r["total_injuries"] for r in coach_rows if r["total_injuries"] > 0]
+    cnt_lo = min(inj_counts) if inj_counts else 0.0
+    cnt_hi = max(inj_counts) if inj_counts else 0.0
 
-def build_player_rankings(players_df: pd.DataFrame, position: str | None = None) -> list[dict]:
-    """
-    Returns a sorted list of player dicts for the rankings table.
+    inj_vals = [r["avg_inj"] for r in coach_rows if r["avg_inj"] > 0]
+    inj_lo = min(inj_vals) if inj_vals else 0.0
+    inj_hi = max(inj_vals) if inj_vals else 0.0
 
-    Filters:
-    - on_field == True only
-    - minimum 2 games played
+    for row in coach_rows:
+        cnt = row["total_injuries"]
+        if cnt > 0:
+            # invert scale: more injuries → red (reflect value so hi maps to lo)
+            row["total_inj_color"]      = _cell_color(cnt_lo + cnt_hi - cnt, cnt_lo, cnt_hi)
+            row["total_inj_text_color"] = _text_color(cnt_lo + cnt_hi - cnt, cnt_lo, cnt_hi)
+        else:
+            row["total_inj_color"]      = "rgb(230,230,230)"
+            row["total_inj_text_color"] = "#aaa"
 
-    Computes per player:
-    - games, avg (season), form (last-3-round avg), best, total
+        v = row["avg_inj"]
+        if v > 0:
+            row["avg_inj_color"]      = _cell_color(v, inj_lo, inj_hi)
+            row["avg_inj_text_color"] = _text_color(v, inj_lo, inj_hi)
+        else:
+            row["avg_inj_color"]      = "rgb(230,230,230)"
+            row["avg_inj_text_color"] = "#aaa"
 
-    position: one of "DEF", "MID", "RUC", "FWD" or None (all positions).
-    """
-    if players_df.empty:
-        return []
-
-    df = players_df[players_df["on_field"] == True].copy()
-
-    if position:
-        df = df[df["played_position"] == position]
-
-    if df.empty:
-        return []
-
-    # Include team if column is present (may be absent in older CSV snapshots)
-    base_cols = ["player_id", "first_name", "last_name", "coach_first_name"]
-    if "team" in df.columns:
-        base_cols.append("team")
-
-    # For position-filtered tabs, include played_position in the group key.
-    # For Overall, group by player only to avoid one row per position for dual-position players.
-    group_cols = base_cols + ["played_position"] if position else base_cols
-
-    agg = (
-        df.groupby(group_cols)
-        .agg(
-            games=("points_x", "count"),
-            total=("points_x", "sum"),
-            avg=("points_x", "mean"),
-            best=("points_x", "max"),
-        )
-        .reset_index()
-    )
-    agg = agg[agg["games"] >= 2]
-
-    if not position:
-        # Attach the dominant position (most games played in a single position)
-        dominant = (
-            df.groupby(["player_id", "played_position"])
-            .size()
-            .reset_index(name="_n")
-            .sort_values("_n", ascending=False)
-            .drop_duplicates("player_id")[["player_id", "played_position"]]
-        )
-        agg = agg.merge(dominant, on="player_id", how="left")
-
-    # Compute form: average of last 3 rounds per player
-    df_sorted = df.sort_values("round_x")
-    last3 = (
-        df_sorted
-        .groupby(["player_id"])["points_x"]
-        .apply(lambda s: s.tail(3).mean())
-        .reset_index()
-        .rename(columns={"points_x": "form_3rnd"})
-    )
-    agg = agg.merge(last3, on="player_id", how="left")
-    agg["avg"]       = agg["avg"].round(1)
-    agg["form_3rnd"] = agg["form_3rnd"].round(1)
-
-    agg = agg.sort_values("avg", ascending=False)
-    return agg.to_dict(orient="records")
-
-
-def build_power_rankings_table(
-    fixtures_df: pd.DataFrame,
-    players_df: pd.DataFrame | None = None,
-    fanfooty_df: pd.DataFrame | None = None,
-) -> dict:
-    """
-    Returns a dict for rendering the coach × round heat-map table.
-
-    Structure:
-      {
-        "rounds":       [int, ...]  (newest first),
-        "coaches":      [
-          {
-            "coach":    str,
-            "avg":      float,
-            "avg_3rd":  float,
-            "cells": [
-              {"round": int, "val": float|None, "color": str, "text_color": str},
-              ...  (newest first)
-            ],
-          },
-          ...  (sorted by avg_3rd descending)
-        ],
-        "lo": float, "hi": float,
-      }
-    """
-    if fixtures_df.empty:
-        return {"rounds": [], "coaches": []}
-
-    on_field = _on_field_counts(players_df)
-    expected_per_round = _expected_on_field_per_round(on_field)
-    match_details  = _match_detail_map(fixtures_df)
-    injured_detail = _injury_player_details(players_df, fanfooty_df)
-    donut_detail   = _donut_player_details(players_df)
-
-    result_map = {
-        (row["coach_first_name"], int(row["round_number"])): (
-            "W" if row["win"] else ("D" if row["draw"] else "L")
-        )
-        for _, row in fixtures_df.iterrows()
-    }
-
-    df = fixtures_df[["coach_first_name", "round_number", "team_points"]].copy()
-    df["spp"] = df.apply(
-        lambda r: round(r["team_points"] / on_field.get(
-            (r["coach_first_name"], r["round_number"]), _SCORING_PLAYERS_DEFAULT
-        ), 1),
-        axis=1,
-    )
-
-    rounds_asc = sorted(df["round_number"].unique())
-    rounds_desc = list(reversed(rounds_asc))
-
-    pivot = df.pivot_table(index="coach_first_name", columns="round_number",
-                           values="spp", aggfunc="first")
-
-    # Global colour range
-    all_vals = df["spp"].dropna().values
-    lo, hi = float(all_vals.min()), float(all_vals.max())
-
-    coach_rows = []
-    for coach in pivot.index:
-        row_vals = [pivot.loc[coach, r] if r in pivot.columns else None
-                    for r in rounds_asc]
-        valid = [v for v in row_vals if v is not None and not pd.isna(v)]
-        season_avg = round(sum(valid) / len(valid), 1) if valid else 0.0
-        last3 = valid[-3:] if len(valid) >= 1 else valid
-        avg_3rd = round(sum(last3) / len(last3), 1) if last3 else 0.0
-
-        cells = []
-        for r in rounds_desc:
-            v = pivot.loc[coach, r] if r in pivot.columns else None
-            if v is not None and pd.isna(v):
-                v = None
-            key            = (coach, r)
-            result_code    = result_map.get(key)
-            injured        = injured_detail.get(key, [])
-            donuts         = donut_detail.get(key, [])
-            match          = match_details.get(key)
-
-            # Build tooltip HTML
-            tooltip_parts: list[str] = []
-            if match and v is not None:
-                verb = "def" if result_code == "W" else ("drew" if result_code == "D" else "lost to")
-                tooltip_parts.append(
-                    f"<strong>{match['score']:,} {verb} {match['opp_score']:,} vs {match['opp_coach']}</strong>"
-                )
-            for p in injured:
-                tooltip_parts.append(f"🤕 {p['name']} ({p['score']})")
-            for p in donuts:
-                tooltip_parts.append(f"🍩 {p['name']}")
-
-            cells.append({
-                "round":           int(r),
-                "val":             float(v) if v is not None else None,
-                "donuts":          len(donuts),
-                "injuries":        len(injured),
-                "result":          result_code,
-                "color":           _cell_color(v, lo, hi) if v is not None else "rgb(230,230,230)",
-                "text_color":      _text_color(v, lo, hi) if v is not None else "#aaa",
-                "tooltip":         "<br>".join(tooltip_parts),
-            })
-
-        coach_rows.append({
-            "coach":   coach,
-            "avg":     season_avg,
-            "avg_3rd": avg_3rd,
-            "cells":   cells,
-        })
-
-    coach_rows.sort(key=lambda x: x["avg_3rd"], reverse=True)
     return {
         "rounds": [int(r) for r in rounds_desc],
         "coaches": coach_rows,

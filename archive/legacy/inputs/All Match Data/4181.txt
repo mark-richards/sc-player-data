@@ -1,0 +1,48 @@
+Richmond,Tigers,Essendon,Bombers,R22,13.24.102,8.9.57, Full Time
+Aug 24,2012,7:50,MCG,Seven,240027,10342201,430188,0,A few showers,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>old_shepp</em>: Sort of hoping GAJ doesn't play now<br><em>HawkTalker</em>: lol so many kids here get butthurt when you talk about their players<br><em>ryansteam</em>: otchin supercoach?<br><em>old_shepp</em>: I just realized I have Martin as cover for Ablett in DT :(<br><em>myteamsuks</em>: Haha bombers pathetic !<br><em>coldog</em>: tuck 143sc<br><em>djmckf</em>: pobably better at dream team too hawktalker :)<br><em>SydneyRox</em>: essendon are horrible.<br><em>coldog</em>: Tuck 139sc<br><em>Seb78</em>: Watson sc anyone?<br><em>djmckf</em>: Martin is a baby in a bottom 8 side and is still a gun. The kid is better than you i'm sure...<br><em>casey22</em>: Martin 123 sc<br>
+270896,Trent,Cotchin,RI,31,145,123,189,111,143,24,7,10,5,0,4,0,0,5, Full Time,cherry,Tagged by Hocking... %P and %T with %M and %s,,
+200109,Shane,Tuck,RI,26,131,155,167,106,139,21,12,11,2,0,2,0,0,1, Full Time,star,%P including %k by foot with %M... had a huge Q2 to set up Richmond... not a huge amount of planning in those kicks but his handballs were quality,,
+290847,Dustin,Martin,RI,36,119,137,153,95,123,16,9,10,4,0,1,0,1,0, Full Time,hot,%P and %M with %T,,
+240336,Brett,Deledio,RI,22,117,131,145,93,128,18,15,4,3,1,1,0,1,1, Full Time,magnet,First goal... head to head with Stanton... %P and %s,,
+250395,Jack,Riewoldt,RI,31,103,100,129,91,112,12,5,10,2,2,0,2,3,5, Full Time,hot,%s from %D and %M on Hooker,,
+210048,Chris,Newman,RI,19,95,82,124,73,97,14,7,7,4,0,1,0,0,1, Full Time,news,Matched up on Heppell... %O and %M,,
+240546,Ivan,Maric,RI,19,94,127,117,82,105,10,9,7,3,17,1,2,0,1, Full Time,news,%H with %P and %M... also %T and %s,,
+250312,Bachar,Houli,RI,15,91,100,113,74,103,11,15,5,3,0,0,0,0,1, Full Time,news,%O and %M plus %s,job,Running off Zaharakis
+291437,Jake,Batchelor,RI,13,79,92,104,60,81,13,5,6,3,0,0,0,0,0, Full Time,job,Has Hurley... %O and %T,,
+250298,Shaun,Grigg,RI,15,75,94,91,63,84,10,11,4,1,0,1,0,1,0, Full Time,news,%D and %M plus %s,,
+261362,Alex,Rance,RI,12,73,90,93,62,75,11,6,7,1,0,6,1,0,0, Full Time,job,Standing Crameri... %P and %M,,
+260433,Steven,Morris,RI,12,68,85,86,58,78,10,9,6,1,0,1,1,0,0, Full Time,job,Monfires is his man... %O and %M,,
+240256,Luke,McGuane,RI,12,67,79,84,55,68,6,4,5,3,1,0,0,2,1, Full Time,news,%s from %P and %M on Pears,,
+250623,Robin,Nahas,RI,16,66,71,84,52,69,6,7,4,4,0,0,0,1,0, Full Time,lebanon,%O and %T on Dempsey,,
+270315,Jayden,Post,RI,12,65,74,81,57,75,8,10,6,1,0,2,1,0,0, Full Time,gumby,Following Gumbleton... %P and %M,,
+295325,Brett,O'Hanlon,RI,10,63,44,77,54,66,9,5,5,0,0,2,0,1,3, Full Time,news,On in Q2 for White... %D and %M plus %s,sub,Started as a sub
+260930,Shane,Edwards,RI,15,62,110,71,62,87,6,16,3,0,0,0,3,2,0, Full Time,mrp,%s from %O and %M on Browne... stood on the hand of Stanton in Q1 but looked accidental,reported,Reported for striking Monfries in Q3
+292025,Matt,Dea,RI,4,44,56,57,37,51,9,4,4,0,0,0,1,0,0, Full Time,job,Minding Jetta... %O and %M,,
+293315,Bradley,Helbig,RI,8,42,53,50,42,60,4,12,4,0,0,0,2,0,0, Full Time,job,Has Davey... %B among %D,,
+240707,Daniel,Jackson,RI,6,39,59,48,37,58,6,11,1,1,0,0,3,0,1, Full Time,tagger,Tagging Watson... %D and %s,,
+290198,David,Astbury,RI,8,30,35,38,24,30,2,2,2,2,0,0,0,1,0, Full Time,news,Starting forward on Hardingham... %D and %T,,
+240389,Matt,White,RI,1,14,15,18,13,18,3,2,1,0,0,1,1,0,0, Full Time,injured,%O... right hamstring pull in Q2,subbed,Subbed off in Q2 for O'Hanlon
+290629,Dyson,Heppell,ES,15,96,98,47,73,102,19,9,4,2,0,1,0,0,0, Full Time,news,Matched up on Newman... %D and %M,,
+240290,Angus,Monfries,ES,21,90,97,64,76,96,12,7,4,3,0,4,2,3,0, Full Time,news,%s from %O and %T on Morris... also %F,,
+230231,Jobe,Watson,ES,19,76,73,47,54,81,14,6,1,6,0,1,2,0,0, Full Time,tagged,Tagged by Jackson... %K among %P with %T,,
+292503,Stewart,Crameri,ES,13,73,59,42,64,85,13,6,8,0,0,0,2,0,4, Full Time,news,Booted %s from %D and %G on Rance,sore,Left shoulder knock in Q4
+261320,Tom,Bellchambers,ES,15,69,76,56,61,71,6,5,3,1,26,2,0,0,0, Full Time,news,%H and %D,,
+290160,Michael,Hibberd,ES,10,67,62,40,57,82,12,8,5,2,0,0,3,0,1, Full Time,news,%D and %s... also %F,,
+291522,Alex,Browne,ES,11,62,59,49,51,67,7,7,4,2,0,0,0,1,1, Full Time,job,Minding Edwards... %P and %M plus %s,,
+240027,Brent,Stanton,ES,8,61,69,39,49,72,10,9,2,3,0,1,2,0,0, Full Time,news,%2 Deledio... %P... also %F,,
+240245,Courtenay,Dempsey,ES,20,60,54,58,39,60,7,3,1,9,0,0,2,0,0, Full Time,mare,Donuts in Q1... %D and %T... also %F,job,Chasing Nahas
+270588,Cale,Hooker,ES,7,60,74,40,45,63,9,8,1,3,0,2,0,0,0, Full Time,job,Standing Riewoldt... %D,,
+270935,Michael,Hurley,ES,14,60,98,43,53,70,7,10,4,0,0,0,0,1,1, Full Time,switch,Kicked %s from %P and %M in a favourable matchup on Batchelor... switched back as loose man in Q3 when he got cold,sore,Came off vomiting in Q4 after getting smashed in the ribs by McGuane
+294798,Mark,Baguley,ES,8,60,71,42,50,66,8,9,4,1,0,2,0,0,0, Full Time,news,%O and %M,job,Minding Jackson
+250569,Heath,Hocking,ES,12,56,58,44,43,63,7,9,1,4,0,1,1,0,0, Full Time,tagger,Tagging Cotchin.... %D,sore,Left shoulder knock in Q1
+270584,Kyle,Hardingham,ES,8,53,78,29,43,60,10,5,4,1,0,0,1,0,0, Full Time,job,Astbury is his man... %O,,
+250352,Leroy,Jetta,ES,10,52,66,40,44,60,6,8,2,2,0,1,1,1,0, Full Time,news,Dea on him... %D,,
+210079,Nathan,Lovett-Murray,ES,5,49,53,41,41,58,6,6,4,3,1,0,2,0,0, Full Time,sore,%P and %M... left hamstring tightness in Q3,,
+250366,Scott,Gumbleton,ES,8,47,78,26,39,51,8,4,1,1,3,2,1,1,0, Full Time,news,%s from %P on Post,,
+291812,Nicholas,O'Brien,ES,9,45,41,23,37,49,8,4,2,0,0,0,0,1,1, Full Time,rookie,First game... %P and %M plus %s,,
+270951,David,Zaharakis,ES,3,32,28,24,30,45,4,8,2,1,0,0,2,0,0, Full Time,sore,%P on Houli... index finger on his right hand trodden on in Q3 which needed restrapping,,
+280824,Jake,Melksham,ES,3,32,39,32,27,39,3,4,3,3,0,0,2,0,0, Full Time,news,On in Q2 for Davey... %O,sub,Started as a sub
+271022,Tayte,Pears,ES,1,30,50,21,24,33,4,5,1,1,0,1,0,0,0, Full Time,job,On McGuane... %P,,
+230051,Alwyn,Davey,ES,1,8,7,12,4,6,0,0,0,2,0,0,0,0,0, Full Time,injured,Helbig on him... %T... left hamstring pull in Q2,subbed,Subbed off in Q2

@@ -1,0 +1,48 @@
+Essendon,Bombers,Melbourne,Demons,R10,6.16.52,8.10.58, Full Time
+Jun 2,2012,7:40,MCG,Seven,240245,10341005,430093,0,A late shower or two,17,,
+
+<em>K.Hunt</em>: Doogsz you wit he works for seven<br><em>flytilidie</em>: heyyy MONTY finally didnt give watson bog<br><em>ZacDawson</em>: pumpkins<br><em>MayhemFC2</em>: god u idiots waffle some dribble&#044; I think the Carlton game is far more entertaining<br><em>doogz</em>: i hate luke darcy... he is a joke.  Cant believe fox footy hired him<br><em>Shiri</em>: Dons just putting the lid back on to keep everyone on their toes. Can beat number 1 but not 18.<br><em>Dadmax</em>: Hird angry?<br><em>dougie1112</em>: Feel very sorry for all the Ess fan footy chat people. Might be a bit quiet tomorrow!<br><em>Jmachete</em>: essendon biggest pretenders of 2012 on par with carlton<br><em>tom.i52</em>: Leave bombers alone what about carlton?<br><em>Cruise on</em>: Its just a beautiful beautiful night for football.<br><em>dane swine</em>: blargh<br>
+230231,Jobe,Watson,ES,32,128,140,158,104,141,14,18,6,5,0,0,0,2,0, Full Time,hot,First goal... escaped the tags and had a monster Q1... matched up on Grimes in Q2... %P and %M plus %T and %s,,
+240027,Brent,Stanton,ES,19,105,96,141,78,106,19,4,7,5,1,1,1,0,0, Full Time,hot,Tagged by McKenzie... %K among %P with %T and %M,,
+270951,David,Zaharakis,ES,20,98,95,126,74,108,18,12,2,4,0,1,1,0,0, Full Time,news,%O on Blease... also %T,,
+260073,Ben,Howlett,ES,27,97,69,128,70,96,11,9,4,8,0,2,0,0,0, Full Time,news,%P and %M with %T,,
+240245,Courtenay,Dempsey,ES,15,93,85,123,70,99,19,6,5,3,0,0,1,0,0, Full Time,news,%P including %K with %M and %T,,
+250267,Patrick,Ryder,ES,20,83,111,103,65,77,8,1,2,5,27,2,0,0,2, Full Time,news,Gets Sellar when forward... %H and %P plus %T and %s,,
+250569,Heath,Hocking,ES,19,75,85,95,59,81,8,10,2,5,0,2,1,1,0, Full Time,news,%D and %T,tagger,Tagging Moloney
+230060,Ricky,Dyson,ES,9,73,57,92,60,85,15,9,4,0,0,0,1,0,1, Full Time,news,%D and %M plus %s,,
+240290,Angus,Monfries,ES,9,73,61,93,58,77,9,8,5,3,0,1,0,0,2, Full Time,news,%s from %O with %M and %T,,
+280988,Travis,Colyer,ES,14,68,64,90,51,70,13,2,3,3,0,0,1,1,1, Full Time,news,%s from %P and %M on Nicholson,,
+290641,Jake,Carlisle,ES,9,63,77,82,51,66,8,5,7,2,0,0,0,0,0, Full Time,job,Standing Clark... %M and %D,,
+250352,Leroy,Jetta,ES,9,61,51,78,46,62,7,7,2,4,0,2,0,0,2, Full Time,news,%P and %T on MacDonald,,
+270935,Michael,Hurley,ES,7,61,61,74,51,69,8,10,3,1,0,1,0,0,3, Full Time,news,%s from %G and %O on McDonald,,
+261320,Tom,Bellchambers,ES,8,56,63,67,48,57,6,3,3,1,18,1,0,0,0, Full Time,news,%H and %D with %M,,
+960197,Dustin,Fletcher,ES,8,56,73,75,45,60,11,2,6,1,0,0,1,0,0, Full Time,news,Sylvia manning him up... %M and %O,,
+292503,Stewart,Crameri,ES,7,54,57,64,49,69,5,13,3,1,0,0,1,0,3, Full Time,news,Booted %s from %D and %G on Rivers,,
+230051,Alwyn,Davey,ES,19,53,29,73,35,51,6,2,0,7,0,0,1,1,0, Full Time,news,%s from %P and %T on Tapscott,subbed,Subbed off at 3QT for Lonergan
+210079,Nathan,Lovett-Murray,ES,7,50,51,64,39,57,7,8,1,3,0,1,1,0,0, Full Time,news,%P,,
+280824,Jake,Melksham,ES,10,44,45,60,38,57,8,4,2,3,0,0,4,1,0, Full Time,news,%D and %T... also %F,,
+270584,Kyle,Hardingham,ES,3,37,64,47,31,39,6,3,4,0,0,1,0,0,0, Full Time,job,Standing Garland in defence... %O and %M,,
+271022,Tayte,Pears,ES,2,31,40,42,25,39,4,5,1,3,0,0,2,0,0, Full Time,job,Green is his man... %D and %T,in,Late replacement for Cale Hooker
+240319,Sam,Lonergan,ES,1,16,16,22,10,15,2,1,0,2,0,0,0,0,0, Full Time,news,On after 3QT for Davey,sub,Started as a sub
+250222,Nathan,Jones,ME,37,107,130,82,80,117,15,11,2,9,0,1,3,1,0, Full Time,star,%D and %T plus %M and %s,,
+270830,Colin,Garland,ME,27,107,101,77,90,113,15,5,11,2,0,0,1,2,2, Full Time,x-factor,Started forward on Hardingham... %P and %M... his %s all in Q4 won the game for Melbourne,,
+291313,Jeremy,Howe,ME,25,103,89,75,81,108,14,10,6,4,0,1,0,1,0, Full Time,hot,%s from %P with %M and %T... had a huge Q1,,
+230250,Jared,Rivers,ME,25,98,101,74,72,96,14,6,6,6,0,2,0,0,0, Full Time,news,%M and %O plus %T,job,Standing Crameri
+280972,Jack,Watts,ME,19,98,111,68,77,105,15,9,7,4,0,1,1,0,0, Full Time,news,Loose in defence again... %P and %M,,
+261297,Jack,Grimes,ME,15,97,102,43,72,99,21,5,5,2,0,1,0,0,0, Full Time,news,Moved into midfield to pick up Watson in Q2... %O and %T,,
+230151,Brent,Moloney,ME,26,90,103,62,68,99,14,9,2,6,0,0,2,1,0, Full Time,tagged,Tagged by Hocking... %D and %T plus %s,,
+270985,Cale,Morton,ME,20,88,72,63,71,91,13,4,8,3,0,1,1,1,1, Full Time,news,%P and %M with %T and %s,in,Late replacement for Rohan Bail
+294874,Daniel,Nicholson,ME,14,86,108,68,70,94,10,12,6,3,0,1,0,0,1, Full Time,job,Responsible for Colyer... %O and %M,,
+280608,Jack,Trengove,ME,10,82,102,62,66,90,10,12,4,3,2,1,0,0,1, Full Time,news,%D and %M plus %s,,
+280579,Luke,Tapscott,ME,13,78,93,52,59,78,13,3,7,3,0,0,0,0,0, Full Time,job,Chasing Davey... %D and %M,,
+240393,Mitchell,Clark,ME,21,75,83,67,56,74,7,6,1,6,7,1,0,1,1, Full Time,news,%s from %D on Carlisle,,
+260176,James,Magner,ME,19,72,70,63,54,73,8,7,3,6,0,3,1,0,1, Full Time,news,%D and %T,,
+250418,James,Sellar,ME,13,67,104,53,57,78,8,10,6,2,0,0,1,0,0, Full Time,news,%M and %D,job,In defence on the resting ruckman which is mostly Ryder
+230130,Joel,MacDonald,ME,13,66,60,48,46,66,10,5,2,5,0,0,0,0,0, Full Time,news,%D and %T,job,Minding Jetta
+220052,Mark,Jamar,ME,10,62,88,55,60,77,4,10,3,1,23,0,2,0,0, Full Time,news,%H and %D with %M,,
+240037,Colin,Sylvia,ME,10,56,79,42,45,59,7,5,3,2,0,0,0,1,2, Full Time,news,Playing very deep forward trying to man Fletcher up... %P and %T plus %s,,
+291533,Tom,McDonald,ME,5,56,64,48,46,63,6,8,4,3,0,1,1,0,0, Full Time,job,On Hurley... %P and %M,,
+270906,Jordie,McKenzie,ME,8,50,53,43,36,54,6,6,1,5,0,0,1,0,0, Full Time,news,%O,tagger,Tagging Stanton
+250548,Lynden,Dunn,ME,13,48,48,50,30,43,4,3,0,7,1,1,0,0,0, Full Time,news,On in Q3 for Blease,sub,Started as a sub
+200054,Brad,Green,ME,4,36,38,27,29,42,5,5,2,2,0,0,1,0,0, Full Time,news,%P on Pears,,
+280746,Sam,Blease,ME,2,34,15,17,28,39,6,6,1,0,0,1,0,0,0, Full Time,injured,Corked left hip in Q1... %D... running with Zaharakis,subbed,Subbed off in Q3 for Dunn

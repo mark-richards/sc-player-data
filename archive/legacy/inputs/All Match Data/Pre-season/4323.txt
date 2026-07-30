@@ -1,0 +1,52 @@
+Western Sydney,Giants,Brisbane,Lions,W2,2.12.7.97,1.12.19.100, Full Time
+Mar 02,2013,7.00,Wagga Wagga,Seven,,10380205,,0,Sunny,27,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>richorocks</em>: wtf is the go with not being able to log into supercoach all the time?<br><em>colmullet</em>: Greene is going to be a fantasy beast for the next 10 years&#044; kid has permanent leather poisoning<br><em>Zarts</em>: rockliff&#044; you beast. 40 points in a quarter.<br><em>Zarts</em>: yeah&#044; zarts= ziplock<br><em>Zarts</em>: whitfield is everywhere<br><em>Crabstick</em>: Zarts = Ziplock?<br><em>R.Griff</em>: Rocky = beast<br><em>Zarts</em>: rocky started on the third&#044; im pretty positive. I'd be incredibly surprised if he got 26 points like like 5 minutes :P<br><em>Grommet66</em>: Update rockys info m0nty it's all wrong<br><em>R.Griff</em>: mid way or start of third???<br><em>Zarts</em>: hanley came on q2&#044; pretty sure rocky came on this quarter though :o <br><em>R.Griff</em>: when did Rocky and Hanley come on???<br>
+291790,Adam,Treloar,WS,21,90,115,114,70,96,12,9,2,5,0,1,1,2,0, Full Time,,,,
+261841,Jonathan,Giles,WS,21,89,130,106,83,98,10,6,5,1,19,5,3,2,1, Full Time,,,,
+294305,Lachie,Whitfield,WS,19,89,80,118,69,90,12,5,9,4,0,0,0,0,0, Full Time,news,Started very well... %O and %T with %M,,
+280109,Callan,Ward,WS,20,85,106,110,70,91,15,5,6,2,1,3,2,1,0, Full Time,,,,
+295344,Toby,Greene,WS,18,83,72,106,67,85,16,3,7,0,0,1,0,1,1, Full Time,news,On in Q2... %P,sub,Started as a sub
+291771,Devon,Smith,WS,10,70,70,94,52,70,10,4,4,5,0,2,1,0,1, Full Time,,,,
+291969,Stephen,Coniglio,WS,8,64,91,80,53,72,9,9,5,1,0,0,0,0,0, Full Time,,,,
+291819,Adam,Tomlinson,WS,8,52,40,67,43,52,7,3,6,1,0,2,0,0,1, Full Time,,,,
+291776,Taylor,Adams,WS,8,51,23,67,42,60,9,6,3,2,0,1,2,0,0, Full Time,,,,
+293738,Sam,Frost,WS,10,48,63,59,43,55,7,3,2,1,4,1,2,2,0, Full Time,,,,
+290765,Sam,Darley,WS,3,44,55,54,36,51,6,8,2,1,0,0,0,0,0, Full Time,,,,
+291936,Shaun,Edwards,WS,7,43,43,57,38,54,11,4,3,0,0,2,3,0,0, Full Time,,,,
+220108,Bret,Thornton,WS,4,42,56,53,36,45,6,4,5,0,0,1,0,0,0, Full Time,,,,
+230082,Stephen,Gilham,WS,3,42,75,56,31,42,9,1,3,1,0,0,0,0,0, Full Time,,,,
+261189,Tim,Mohr,WS,3,38,85,49,31,42,9,3,2,0,0,2,1,0,0, Full Time,,,,
+290671,Anthony,Miles,WS,9,37,49,46,32,39,5,2,4,0,0,0,0,1,0, Full Time,,,,
+291891,Jacob,Townsend,WS,3,34,50,46,28,40,4,4,2,3,0,1,2,0,1, Full Time,,,,
+290687,Kurt,Aylett,WS,2,31,34,40,23,33,8,2,1,0,0,0,0,0,0, Full Time,,,,
+293845,Jeremy,Cameron,WS,8,30,55,39,26,33,4,1,3,1,0,0,1,1,0, Full Time,,,,
+291821,Jonathon,Patton,WS,7,24,22,30,20,24,2,1,2,1,0,0,0,1,0, Full Time,injured,First goal... %s from %P and %M... cork to his right quad in Q2,subbed,Subbed off in Q3
+293662,Liam,Sumner,WS,7,24,24,30,20,24,4,0,2,0,0,0,0,1,0, Full Time,news,On in Q3... %s from %P,sub,Started as a sub
+291783,Dylan,Shiel,WS,1,19,21,25,16,24,5,2,1,0,0,0,1,0,0, Full Time,,,,
+293816,Mark,Whiley,WS,0,8,17,11,7,12,3,1,0,0,0,0,1,0,0, Full Time,news,On in Q4,sub,Started as a sub
+294125,Nathan,Wilson,WS,0,1,7,1,3,6,0,2,0,0,0,0,1,0,0, Full Time,,,subbed,Subbed off early for Greene
+261391,Aaron,Cornelius,BL,26,94,132,69,81,94,11,2,6,1,0,1,0,5,4, Full Time,,,,
+261224,Dayne,Zorko,BL,24,90,104,74,73,95,11,6,7,5,0,2,2,1,2, Full Time,,,,
+290808,Patrick,Karnezis,BL,20,80,113,45,69,96,13,13,4,0,0,0,1,1,0, Full Time,,,,
+292035,Claye,Beams,BL,9,68,80,38,54,76,12,9,2,2,0,2,1,0,1, Full Time,,,,
+281373,Jack,Redden,BL,9,66,80,33,53,75,13,7,4,1,0,0,1,0,0, Full Time,,,,
+290748,Josh,Green,BL,8,61,72,29,48,65,13,2,5,1,0,0,1,0,2, Full Time,,,,
+240087,Jed,Adcock,BL,7,58,69,30,43,60,11,6,1,2,0,2,0,0,0, Full Time,,,,
+220062,Matt,Maguire,BL,8,57,49,34,47,60,10,3,7,0,0,0,0,0,0, Full Time,,,,
+260975,James,Polkinghorne,BL,12,55,65,45,49,66,6,9,6,1,0,0,1,0,0, Full Time,,,,
+270919,Tom,Rockliff,BL,10,53,84,35,41,51,8,3,2,2,0,3,0,1,0, Full Time,news,On in Q3 for Moloney,sub,Started as a sub
+270512,Pearce,Hanley,BL,4,45,79,28,40,55,7,7,4,0,1,0,1,0,0, Full Time,news,On in Q2 for Golby,sub,Started as a sub
+281329,Rohan,Bewick,BL,3,44,75,26,37,51,7,7,3,0,0,0,0,0,0, Full Time,,,,
+291548,Ryan,Lester,BL,9,43,63,20,36,51,9,3,2,1,0,0,2,1,0, Full Time,,,,
+295162,Justin,Clarke,BL,7,43,84,28,36,45,7,2,6,0,0,0,0,0,0, Full Time,,,,
+295518,Sam,Docherty,BL,6,43,55,34,37,51,4,11,1,1,0,2,0,0,0, Full Time,,,,
+294270,Sam,Michael,BL,8,41,75,28,37,46,6,3,3,1,1,3,2,1,0, Full Time,,,,
+292128,Elliot,Yeo,BL,3,32,41,24,28,39,4,6,2,1,0,1,1,0,0, Full Time,,,,
+294618,Marco,Paparone,BL,8,31,50,24,28,30,3,1,2,0,0,2,0,2,0, Full Time,,,,
+290110,Mitch,Golby,BL,3,29,21,26,22,30,3,3,2,2,0,0,0,0,0, Full Time,,,subbed,Subbed off in Q2 for Hanley
+230151,Brent,Moloney,BL,2,27,32,20,22,33,3,7,0,1,0,0,0,0,0, Full Time,,,subbed,Subbed off at HT for Rockliff
+250335,Matthew,Leuenberger,BL,2,25,25,8,21,27,6,0,1,0,5,1,1,0,1, Full Time,news,On in Q3 for Longer,sub,Started as a sub
+291828,Billy,Longer,BL,2,24,34,16,23,26,3,1,1,0,11,2,1,0,0, Full Time,,,subbed,Subbed off in Q3 for Leuenberger
+280763,Stefan,Martin,BL,3,22,14,6,26,39,6,2,2,0,5,0,5,0,4, Full Time,,,,
+271071,Todd,Banfield,BL,0,8,8,5,7,9,1,2,0,0,0,1,0,0,0, Full Time,,,,

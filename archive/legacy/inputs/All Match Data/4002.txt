@@ -1,0 +1,48 @@
+Richmond,Tigers,Carlton,Blues,R1,12.9.81,18.17.125, Full Time
+Mar 29,2012,7:40,MCG,Seven,270896,10000101,430009,0,Rainy and windy,21,,
+
+<em>Fabian</em>: <br><em>Torpedo10</em>: 885 from 10 with 12 to go NOT including Captain but alot of prems&#044; ok start.<br><em>17in12</em>: is it just me&#044; or did Ed Curnow&#044; look a lot like&#044; Ed Scissorhands in tonights game?<br><em>ReltonR</em>: Hey guys...It says on here Murphy got 120 points&#044; yet on the AFL site it says 116..any clues to why?<br><em>falsecast</em>: 800+ with 13 players to go with captain. happy with SC start<br><em>DBerbatov9</em>: you guys do know Carrazzo moved off Martin right?<br><em>KruZin</em>: Carrazzo>>>daylight>>Martin<br><em>Torpedo10</em>: I'm happy with 125. :D<br><em>spiggs</em>: yeah torpedo i was having a punt on what his score was and then they put it up a second later<br><em>Sizzler</em>: good call Blue_Steel&#044; Carlton shoulda won by more<br><em>guffy</em>: Not so happy w Scotland & dusty<br><em>guffy</em>: V happy with Maric & kreuze in ruck<br>
+270896,Trent,Cotchin,RI,37,120,127,154,87,121,17,10,1,8,1,1,0,2,0, Full Time,hot,%2 Judd... %O and %T plus %M and %s,,
+240336,Brett,Deledio,RI,21,91,100,121,70,100,11,10,5,7,1,0,2,0,0, Full Time,tagged,Tagged by Gibbs... %D and %T with %M... also %F,,
+250395,Jack,Riewoldt,RI,26,91,118,115,76,99,11,5,3,5,0,1,3,4,3, Full Time,news,Henderson on him... %s from %D and %T,,
+240130,Nathan,Foley,RI,19,86,88,111,66,96,14,11,3,4,0,0,1,0,0, Full Time,news,%2 Murphy... %O and %T with %M,,
+240546,Ivan,Maric,RI,20,86,97,99,78,94,8,10,5,0,25,2,0,0,0, Full Time,news,%H and %P with %M,,
+290847,Dustin,Martin,RI,20,79,89,100,62,80,11,5,2,4,1,3,1,2,1, Full Time,carrot,Tagged by Carrazzo... %P and %T plus %M and %s,,
+261362,Alex,Rance,RI,8,70,108,86,57,75,11,10,3,1,0,4,0,0,0, Full Time,job,Has Waite.... %D and %M,,
+250298,Shaun,Grigg,RI,15,69,81,85,57,78,14,6,2,0,0,0,1,2,0, Full Time,news,%P and %M plus %s,,
+250312,Bachar,Houli,RI,9,69,72,85,58,78,9,11,5,1,0,1,0,0,0, Full Time,news,%D and %M,,
+210048,Chris,Newman,RI,9,63,66,85,46,66,9,5,3,5,0,0,1,0,0, Full Time,job,Responsible for Armfield... %P and %M with %T,,
+240707,Daniel,Jackson,RI,8,62,54,79,49,66,11,6,4,1,0,1,0,0,0, Full Time,tagger,Tagging Simpson... %O and %M,,
+250623,Robin,Nahas,RI,13,49,47,66,35,49,6,2,1,5,0,0,1,1,1, Full Time,lebanon,Tuohy on him... %s from %O with a pleasingly high %T,,
+260930,Shane,Edwards,RI,8,48,54,62,34,49,6,6,0,4,0,1,0,0,1, Full Time,news,%s from %O and %T on Russell,,
+200109,Shane,Tuck,RI,8,47,49,55,44,60,1,14,3,2,0,2,1,0,0, Full Time,news,%B among %D with %M and %T,subbed,Subbed off in Q3 for Conca
+220071,Brad,Miller,RI,4,45,58,60,39,53,4,5,5,3,1,0,2,0,1, Full Time,news,Booted %s from %P and %G on Bower... also %T,,
+270833,Addam,Maric,RI,4,45,45,57,35,49,6,6,2,2,0,0,0,0,1, Full Time,news,Kicked %s from %P and %M on Yarran,,
+280819,Dylan,Grimes,RI,4,45,54,60,34,45,9,2,2,2,0,3,1,0,0, Full Time,news,%P and %T with %M but didn't look like he deserved to be there all that much,,
+293713,Brandon,Ellis,RI,3,38,50,50,28,39,6,3,2,2,0,0,0,0,0, Full Time,rookie,First game and looked like it with a lack of poise and game awareness... %O and %T with %M,,
+270941,Tyrone,Vickery,RI,8,36,51,45,30,36,2,1,1,3,9,1,1,1,0, Full Time,news,First goal... %s from %P and %T on Laidler... also %H,,
+290823,Reece,Conca,RI,3,35,35,49,27,39,6,2,2,3,0,1,2,0,0, Full Time,news,On in Q3 for Tuck... %P and %T with %M... also %F,sub,Started as a sub
+270315,Jayden,Post,RI,2,31,44,41,28,39,5,4,3,1,0,1,2,0,0, Full Time,job,Has the resting ruckman which is mostly Hampson... %P and %M,,
+260433,Steven,Morris,RI,2,27,30,33,24,36,1,8,1,2,0,0,1,0,0, Full Time,rookie,First game... %D and %T,job,Chasing Garlett
+250105,Marc,Murphy,CA,27,116,119,93,96,130,12,20,5,4,0,2,0,1,1, Full Time,cherry,%2 Foley... %O and %T plus %M and %s,,
+220015,Andrew,Carrazzo,CA,21,106,99,72,84,120,16,15,4,5,0,2,2,0,0, Full Time,garbage,%D and %T with %M,tagger,Tagging Martin
+250417,Bryce,Gibbs,CA,25,104,118,83,83,108,13,9,10,4,0,1,0,0,0, Full Time,gun,%P and %M with %T,tagger,Tagging Deledio
+230202,Kade,Simpson,CA,25,101,120,59,79,108,18,7,6,3,0,0,1,1,0, Full Time,hot,Tagged by Jackson... %P and %M with %T and %s,,
+261299,Matthew,Kreuzer,CA,26,96,125,87,78,99,8,8,5,5,15,0,0,1,0, Full Time,star,%H and %D with %M and %T... also %s,,
+220056,Chris,Judd,CA,25,93,94,84,73,105,8,18,3,6,0,0,0,0,0, Full Time,news,%2 Cotchin... %P and %T plus %M,,
+260533,Dennis,Armfield,CA,20,92,88,57,73,93,15,4,6,2,0,1,0,2,0, Full Time,bluemoon,Playing a forward role on Newman... %P and %M... also %s,,
+271110,Chris,Yarran,CA,16,85,111,55,70,96,13,9,3,3,0,1,2,2,0, Full Time,job,Minding Maric... %D and %T plus %M and %s,,
+290311,Mitch,Robinson,CA,15,82,54,51,64,84,14,3,5,3,1,1,1,1,2, Full Time,garbage,Quiet first half but racked it up in junk time... %D and %M with %T and %s,,
+990059,Heath,Scotland,CA,14,79,83,63,61,84,10,9,4,5,0,2,1,0,0, Full Time,astronaut,No flow at all to his game... %O and %T,,
+270146,Ed,Curnow,CA,20,76,90,71,61,85,7,11,4,6,0,2,2,0,1, Full Time,news,%O and %T with %M... also %F and %s,,
+270737,Shaun,Hampson,CA,19,75,71,64,68,83,7,4,4,3,10,2,3,3,1, Full Time,sore,%H and %D plus %M and %s mostly on Post... ran into Robinson in Q3 which left him clutching at his groin,,
+220108,Bret,Thornton,CA,18,73,59,52,63,78,10,5,7,1,0,2,1,1,3, Full Time,switch,Started deep forward but switched back in Q2... %s from %O and %M,,
+270899,Jeremy,Laidler,CA,9,62,92,44,51,69,9,7,5,2,0,1,1,0,0, Full Time,heart,Manful performance to hold the Blues backline together coming off a poor preseason... %D and %M with %T,job,Has Vickery
+220110,Jarrad,Waite,CA,15,60,66,43,53,67,9,2,8,1,0,0,2,1,1, Full Time,reported,Kicked %s from %G and %P on Rance... reported early in Q1 for rough conduct on Grimes,,
+270326,Lachie,Henderson,CA,12,60,67,30,50,66,12,4,6,0,0,1,1,0,0, Full Time,job,On Riewoldt... %P and %M,,
+250211,Paul,Bower,CA,8,58,62,33,45,57,11,1,6,1,0,1,0,0,0, Full Time,job,Standing Miller... %D and %M,,
+292511,Zach,Tuohy,CA,9,57,63,50,43,60,6,7,3,4,0,0,0,0,0, Full Time,irish,%O and %M with %T,job,Chasing Nahas
+270653,Jeff,Garlett,CA,10,56,80,39,44,56,8,3,3,2,0,1,0,1,2, Full Time,news,%s from %O and %T on Morris... also %M,,
+240060,Eddie,Betts,CA,10,43,57,21,43,60,8,5,2,0,0,0,4,2,3, Full Time,news,%s from %D and %M... also %F,,
+281079,Kane,Lucas,CA,9,39,38,40,31,39,2,3,1,3,0,0,0,2,0, Full Time,garbage,On in Q4 for Russell... %s from %O,sub,Started as a sub
+250090,Jordan,Russell,CA,2,23,24,19,20,27,3,2,3,1,0,0,1,0,0, Full Time,job,Matched up on Edwards... %D and %M,subbed,Subbed off in Q4 for Lucas

@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Richmond,Tigers,R13,8.13.61,17.19.121, Full Time
+Jun 22,2013,7.40,Docklands,Seven,293713,10391304,wb-v-rich,0,Roof closed,15,,
+
+<em>Dangeroo</em>: @redraptor would you have gibbs or vlastuin?<br><em>ballbag</em>: jake kings swallows plow in reality- not fantasy<br><em>hughess14</em>: vlastuin to watts here we go<br><em>gazza1002</em>: thinking of boyd in sc<br><em>3rdstriker</em>: vlaustin to hanley for me&#044; been good but cant carry a 140+ break even<br><em>Sydney14</em>: lol hrovat beat vlas in sc<br><em>lenzskiii</em>: they were lucky vs carlton.. carlton only played 1 quarter vs them! and kicked 7straight in the last quarter lol<br><em>PieBoy</em>: onya jonesy<br><em>WojakDaw</em>: bachar houli's head is on fire<br><em>ballbag</em>: cotch 87- SC is flowering laughable- better than grigg and conca? yeah right<br><em>N_Riewoldt</em>: 6 tons lots of up scaling to do<br><em>Redraptor</em>: poor vlastuin...been a great player. will keep him<br>
+220010,Matthew,Boyd,WB,49,152,137,197,121,165,17,17,10,9,0,1,2,1,0, Full Time,cherry,%2 Cotchin... %B among %P with %M and %T... also %F... massive Q4 numbers shows he has his fitness back,,,495900,71,511400,63,Centre,5,7,99.1,97.1,3.18,1.40
+240156,Ryan,Griffen,WB,30,133,143,169,106,148,21,17,7,4,0,1,1,0,1, Full Time,gun,%O and %M plus %T and %s,,,509200,55,635700,88,Centre,16,9,106.6,123.6,2.23,3.38
+230041,Adam,Cooney,WB,20,91,90,116,71,96,14,9,3,4,0,3,1,1,0, Full Time,news,%D and %M plus %T and %s,,,379500,75,434900,84,Centre,17,9,86.3,93.7,1.32,1.21
+294557,Lachie,Hunter,WB,15,86,86,108,69,89,11,8,5,3,0,2,0,1,2, Full Time,rookie,First game... %s from %O and %M on Newman... also %T,,,102700,,109500,,Centre,26,0,0,0,0.29,0.35
+200083,Robert,Murphy,WB,15,84,92,107,68,93,16,7,5,1,0,0,1,1,0, Full Time,news,%P and %M,,,407600,60,470200,73,Back,2,8,87.1,94.6,1.62,1.08
+293847,Clay,Smith,WB,14,83,108,111,62,85,15,4,5,4,0,1,1,0,1, Full Time,news,%D and %M with %T,,,297800,36,289500,21,Centre,14,10,63.7,62.3,0.48,1.19
+230255,Will,Minson,WB,27,80,96,96,72,89,4,6,2,5,38,1,3,0,0, Full Time,news,%H and %P with %T... %F as well,,,443800,88,559800,131,Ruck,27,11,90.5,113.2,4.13,8.16
+280012,Jordan,Roughead,WB,15,78,83,103,64,78,10,3,11,2,0,1,0,0,0, Full Time,job,Standing Vickery... %P and %M,,,254400,32,354400,48,Back Forward,23,11,50.4,67.1,1.66,1.36
+295467,Jackson,Macrae,WB,13,76,88,89,66,94,8,19,3,1,0,0,0,0,1, Full Time,cash,%2 Ellis... %D including %B,,,296100,39,302100,58,Centre,11,7,66.9,61.4,1.72,1.45
+290799,Tom,Liberatore,WB,13,74,99,94,56,78,8,11,2,5,0,2,0,0,0, Full Time,tagged,Tagged by Jackson... %P and %T with %M,,,387100,52,441600,36,Centre,21,11,86.7,96.3,3.05,2.78
+294101,Jason,Johannisen,WB,8,74,75,96,57,77,15,4,5,1,0,0,0,0,2, Full Time,southafrica,%P and %M plus %s,,,307800,58,344500,73,Back,39,10,60.9,68.2,1.64,1.25
+291810,Michael,Talia,WB,12,69,90,88,56,75,11,7,6,1,0,0,0,0,0, Full Time,cash,%D and %M,job,Aaron Edwards is his man,218400,-27,270900,5,Back,32,2,85.5,81.5,0.49,0.23
+261160,Brett,Goodes,WB,5,58,61,75,45,60,9,5,4,2,0,1,0,0,0, Full Time,crown,King manning him up... %D and %M,,,333900,53,395800,59,Centre Back,44,9,78.4,91.1,54.31,61.69
+291526,Luke,Dahlhaus,WB,9,51,42,67,37,50,6,4,2,4,0,1,0,0,2, Full Time,news,%s from %O and %T on Morris,,,275000,64,330700,88,Forward,6,11,60.1,70,1.67,1.55
+281078,Liam,Jones,WB,13,50,46,63,44,52,6,2,7,0,0,0,0,1,1, Full Time,sore,Left ankle knock early in Q1... %s from %D and %G on Chaplin,,,205400,24,258800,57,Forward,19,11,49.2,55.9,1.16,1.02
+293884,Jake,Stringer,WB,10,50,57,62,44,55,6,3,4,1,0,0,1,2,1, Full Time,cash,At FF on Rance... %s from %P and %M,,,190600,3,209000,27,Forward,9,7,44.7,45.4,3.86,6.56
+250601,Lukas,Markovic,WB,3,44,49,55,36,47,2,7,3,3,2,1,0,0,0, Full Time,news,%P and %M starting forward on Astbury... also %H,,,216200,81,276200,94,Back,37,3,49,59,0.65,0.76
+271439,Liam,Picken,WB,13,37,42,51,25,37,2,4,0,6,0,1,1,0,1, Full Time,tagger,Tagging Deledio... %O and %T plus %s,,,259600,103,263900,99,Centre,42,11,58.8,57.6,0.40,0.73
+250712,Dale,Morris,WB,3,36,42,45,32,45,4,7,3,1,0,0,1,0,0, Full Time,job,Has Riewoldt... %P and %M,,,246100,25,348000,33,Back,38,11,51.8,68.7,2.63,3.43
+200079,Daniel,Giansiracusa,WB,7,25,14,32,22,27,3,1,2,1,0,1,1,1,0, Full Time,news,On in Q3 for Hrovat... %P,sub,Started as a sub,295500,36,341800,62,Forward,13,9,62.8,65.8,0.78,0.64
+260713,Nick,Lower,WB,2,23,26,30,17,24,2,3,1,2,0,0,0,0,0, Full Time,tagger,Tagging Houli... %O,,,338200,71,328900,71,Centre,33,11,67.5,60.4,1.35,0.80
+294556,Nathan,Hrovat,WB,1,15,30,18,15,21,2,4,1,0,0,1,1,0,0, Full Time,wall,%2 Vlaustin... %O,subbed,Subbed off in Q3 for Giansiracusa,107200,-64,114500,-77,Centre,24,2,67.5,74,6.59,7.01
+250298,Shaun,Grigg,RI,27,105,94,73,91,119,16,5,10,3,3,0,4,2,2, Full Time,star,%P and %M plus %T and %s,,,475900,88,422600,80,Centre,6,11,93.8,80.5,0.41,0.46
+290823,Reece,Conca,RI,20,94,86,51,75,97,17,4,6,1,0,0,0,2,1, Full Time,news,%O and %M plus %s,,,394500,102,423800,119,Centre,30,5,81,87.2,0.37,0.60
+230240,Aaron,Edwards,RI,20,92,98,66,75,95,13,5,9,2,0,0,0,1,2, Full Time,news,Booted %s from %D and %G on Talia... also %T,,,321100,125,367400,127,Forward,27,2,43.5,50,0.21,0.25
+250312,Bachar,Houli,RI,20,85,103,41,69,94,16,9,4,0,0,0,0,1,1, Full Time,tagged,Tagged by Lower... %P and %M plus %s,,,444900,94,479800,92,Back,14,11,85.7,95.9,2.53,4.34
+290847,Dustin,Martin,RI,15,85,95,44,69,94,16,7,5,1,1,0,1,1,0, Full Time,news,%D and %M... also %s,,,459000,107,506400,120,Forward Centre,4,11,98.8,106.3,36.75,31.54
+240707,Daniel,Jackson,RI,19,84,90,57,74,100,12,11,7,1,0,0,2,1,1, Full Time,news,%P and %M plus %s,tagger,Tagging Liberatore,446700,96,457100,101,Centre,23,11,88.6,84.5,0.80,1.06
+240336,Brett,Deledio,RI,14,81,91,34,64,88,17,8,4,0,0,1,0,0,1, Full Time,heart,Tagged by Picken... %P and %M... shaken up when sandwiched in a clash in Q1,,,462500,74,552000,69,Centre,3,11,98.6,113,9.78,11.23
+270896,Trent,Cotchin,RI,19,78,86,53,60,78,12,5,3,4,0,4,1,1,0, Full Time,garbage,%2 Boyd... %P and %T plus %s... unsighted for long periods... his score looked better after some Q4 junk time stats,,,421400,137,526900,145,Centre,9,10,92,110.7,21.19,25.65
+250395,Jack,Riewoldt,RI,24,76,108,53,70,86,10,5,7,0,0,1,2,3,2, Full Time,heart,First goal... %s from %D and %G on Morris... corked left hip in Q2,,,331800,70,400500,88,Forward,8,11,72.9,86.2,7.15,9.51
+240130,Nathan,Foley,RI,14,69,76,54,55,75,8,9,3,3,0,0,0,1,0, Full Time,news,%D and %T plus %M and %s,,,381400,82,420300,71,Centre,41,5,68.2,65.8,0.16,0.19
+210048,Chris,Newman,RI,9,67,71,47,53,68,10,4,6,2,0,1,0,0,2, Full Time,job,Hunter is his man... %O and %M plus %s,,,366400,120,460500,136,Back,1,10,68.6,84.5,3.10,3.61
+260930,Shane,Edwards,RI,12,67,59,48,47,68,10,6,1,5,0,0,0,0,2, Full Time,news,One handball in Q1... %s from %O and %T,,,338100,85,400800,71,Forward,10,11,70.3,82.3,0.55,0.69
+240546,Ivan,Maric,RI,11,64,91,52,54,65,6,4,2,2,23,1,0,0,0, Full Time,news,%H and %D with %T,,,351600,89,455300,81,Ruck,20,10,76,96.5,9.04,12.10
+270941,Tyrone,Vickery,RI,16,64,108,47,61,77,7,8,4,0,7,1,2,2,1, Full Time,news,%s from %P and %M on Roughead... %H and %F as well,,,259600,55,322600,75,Forward,29,10,58.5,68.8,3.77,3.40
+240389,Matt,White,RI,11,63,42,46,48,63,9,3,4,3,0,0,0,1,0, Full Time,garbage,On in Q3 for Astbury.... %s from %O and %M... all of his stats in garbage time,sub,Started as a sub,222100,13,214500,11,Centre,35,6,48.7,41.8,0.77,0.63
+293713,Brandon,Ellis,RI,9,60,71,38,48,66,10,6,4,2,0,1,1,0,0, Full Time,sore,%2 Macrae... %O and %M with %T... cork on the right quad in Q3,,,442200,25,459900,8,Back,5,9,73.6,78,4.52,4.59
+260433,Steven,Morris,RI,5,48,56,46,42,60,4,9,4,3,0,0,2,0,0, Full Time,job,Chasing Dahlhaus... %D and %M,,,201200,87,253200,79,Back,38,10,37.4,48.2,0.85,1.09
+261362,Alex,Rance,RI,4,48,76,25,42,57,10,3,5,1,0,2,3,0,0, Full Time,job,Responsible for Stringer... %O and %M,,,352800,110,437300,122,Back,18,11,67.9,81.4,1.82,1.91
+240180,Troy,Chaplin,RI,4,47,73,32,38,51,7,5,4,1,0,0,0,0,0, Full Time,job,Following Jones... %P and %M,sore,Left ankle knock in Q4,309000,102,370000,103,Back,25,10,59.2,66.3,0.98,0.72
+271437,Jake,King,RI,2,34,62,31,25,36,3,6,0,3,0,1,0,0,0, Full Time,news,%P and %T... keeping Goodes honest,,,253500,54,323900,61,Forward,28,10,56.5,70.6,1.25,1.16
+294674,Nick,Vlastuin,RI,9,32,31,32,26,33,2,3,2,2,0,0,0,1,0, Full Time,injured,%2 Hrovat... %O and %T... also %M and %s... kick to the left shin in Q3... iced up in Q4,,,372400,75,422100,74,Back Centre,31,7,87,90.1,52.98,51.89
+290198,David,Astbury,RI,1,19,40,9,15,18,4,0,2,0,0,1,0,0,0, Full Time,injured,Has Markovic... %D and %M... hamstring twang in Q3,subbed,Subbed off in Q3 for White,144300,,207600,,Back,12,1,21,29,0.46,0.50

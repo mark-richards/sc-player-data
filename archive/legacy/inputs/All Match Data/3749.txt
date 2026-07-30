@@ -1,0 +1,48 @@
+Richmond,Tigers,Fremantle,Dockers,R7,23.10.148,14.15.99, Full Time
+May 7,2011,4:10,MCG,Fox Sports,200032,10310704,5509,50,Fine,17
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>oc16</em>: its alright wazzasmith u dont have to say phuk&#044; were all adults here <br><em title="G-MAN">g-man</em>: Thank u Sandi <br><em>Centurions</em>: hahahah i had to play batchelor this week<br><em>oldshepp</em>: Broughton fail but not a total wreck<br><em>Hydra911</em>: Broughton come on mate you gotta score higher in SC im still keeping you got no choice<br><em>wazzasmith</em>: should of had batchelor on the field instead of lower or BROUGHTON<br><em>mrpotato</em>: after doing nothing in the first a half and a tiny bit in the second&#044; deledio gets 117 BS<br><em>Slashers</em>: Hopefully Rocky can beat that Sandi score<br><em>griffdog35</em>: Sandi as CAPT!! YOU BEAUTY<br><em>walle</em>: right choice as captain - good job Sandi!<br><em>LilLionMan</em>: sandi i love you<br><em>scribe313</em>: how broughton pulled out a 67 i have no idea&#044; not complaining since i have him tho -.-<br>
+250623,Robin,Nahas,RI,38,136,125,167,114,147,16,14,7,4,0,2,1,4,0, Full Time,star,First goal... %s from %P and %M on Ibbotson... also %T,,
+270896,Trent,Cotchin,RI,28,109,130,135,92,120,17,8,5,2,0,1,2,4,0, Full Time,hot,%2 Pavlich... %P and %M with %T and %s,,
+260146,Angus,Graham,RI,34,96,112,126,78,99,8,5,6,8,12,3,3,1,0, Full Time,hot,%H and %D with%M and %T... also %s,,
+250312,Bachar,Houli,RI,16,92,98,112,77,100,13,10,5,1,0,1,0,2,1, Full Time,job,Has Ballantyne... %P and %s,,
+261362,Alex,Rance,RI,15,91,94,118,75,99,12,9,9,3,0,1,1,0,0, Full Time,job,Standing Bradley... %P and %T with %M,,
+210048,Chris,Newman,RI,14,86,100,119,62,85,18,0,5,5,0,2,2,0,1, Full Time,news,%D and %M with %T and %s,,
+290823,Reece,Conca,RI,10,83,83,105,67,93,12,12,4,3,0,2,1,0,0, Full Time,cash,%O and %M with %T,,
+291437,Jake,Batchelor,RI,9,83,98,108,60,85,17,6,2,3,0,1,0,0,1, Full Time,cash,%O and %T with %M,,
+240336,Brett,Deledio,RI,16,82,117,100,70,95,10,13,4,2,0,1,1,1,2, Full Time,news,Tagged by McPhee in the first half then freed up... %O and %M with %T plus %s,,
+240707,Daniel,Jackson,RI,20,77,81,102,58,81,9,8,4,6,0,1,1,0,0, Full Time,tagger,Tagging Mundy... %O and %T,,
+271437,Jake,King,RI,17,74,88,95,61,82,7,7,4,5,0,0,2,2,1, Full Time,x-factor,%s from %D and %M with %T,tagger,Forward tag on Duffield
+250395,Jack,Riewoldt,RI,18,73,94,88,64,76,7,4,4,2,1,2,1,4,0, Full Time,news,McPharlin on him... %s from %O,,
+250298,Shaun,Grigg,RI,13,72,69,89,62,82,10,10,7,0,0,0,0,0,1, Full Time,news,%P and %M,,
+260930,Shane,Edwards,RI,9,70,112,85,60,87,8,16,3,2,0,0,1,0,0, Full Time,news,%D (with %b by hand) and %M,,
+240130,Nathan,Foley,RI,9,63,73,78,53,75,8,12,3,2,0,1,1,0,0, Full Time,news,%2 Hill... %O with %b by hand,,
+290847,Dustin,Martin,RI,15,62,65,81,46,60,8,3,3,4,0,1,0,1,0, Full Time,tagged,Tagged by de Boer... %O and %T with %M and %s,,
+240256,Luke,McGuane,RI,13,61,65,77,53,72,4,11,6,3,0,0,1,0,0, Full Time,sore,%D and %M... left hamstring tweak in Q4,,
+270941,Tyrone,Vickery,RI,16,61,61,72,59,71,6,5,5,0,4,1,2,3,1, Full Time,news,Booted %s from %P and %M on Johnson,,
+280819,Dylan,Grimes,RI,8,53,83,67,48,66,7,9,5,1,0,1,2,0,0, Full Time,job,Chasing Mayne... %P,,
+220071,Brad,Miller,RI,13,49,49,61,43,52,4,4,6,1,0,0,0,1,1, Full Time,news,%s from %D and %G on Grover,,
+240389,Matt,White,RI,3,31,55,42,28,39,7,2,4,0,0,0,2,0,0, Full Time,news,Playing forward on Pitt... %P and %M with %F,subbed,Subbed off at 3QT for Nason
+261910,Ben,Nason,RI,1,17,12,22,13,18,4,1,1,0,0,0,0,0,0, Full Time,news,on in Q4 for White,sub,Started as a sub
+220096,Aaron,Sandilands,FR,38,129,162,94,114,136,15,8,6,2,43,5,2,0,0, Full Time,gun,%H and %D with %M and %F,,
+200032,Matthew,Pavlich,FR,25,110,122,62,85,122,19,14,1,4,1,1,1,1,1, Full Time,hot,%2 Cotchin... %P and %T plus %s,,
+240052,David,Mundy,FR,26,108,123,82,84,115,14,14,4,6,0,4,1,0,1, Full Time,hot,Tagged by Jackson... %P and %T,,
+280416,Chris,Mayne,FR,16,75,63,66,62,76,7,4,6,3,0,0,0,2,4, Full Time,news,%s from %O and %G on Grimes,,
+291570,Nathan,Fyfe,FR,9,69,71,44,56,84,11,12,2,3,0,0,2,0,0, Full Time,heart,%P and %T... right shoulder dislocated in Q4... strapped up and returned within six minutes,,
+230011,Kepler,Bradley,FR,16,63,93,38,58,71,9,4,2,0,2,2,2,4,0, Full Time,sore,Booted %s from %P on Rance... corked right buttock in Q2,,
+271015,Matthew,de Boer,FR,15,61,67,67,46,63,3,9,3,6,0,1,0,0,0, Full Time,tagger,Tagging Martin... %O and %M with %T,,
+280336,Stephen,Hill,FR,13,60,85,34,50,70,10,8,2,1,0,0,1,1,1, Full Time,news,%2 Foley... %P and %s,,
+280386,Clancee,Pearce,FR,5,60,54,47,46,59,8,3,5,3,0,1,0,0,2, Full Time,news,Playing forward... %s from %P and %M,,
+260713,Nick,Lower,FR,14,55,83,42,42,57,7,6,0,4,0,3,1,1,0, Full Time,news,%D and %T plus %s,,
+250268,Garrick,Ibbotson,FR,10,54,58,36,44,57,8,4,4,1,0,0,0,1,0, Full Time,job,Minding Nahas... %P and %M plus %s,,
+240139,Paul,Duffield,FR,9,53,47,44,36,51,7,3,2,5,0,0,0,0,0, Full Time,crown,Forward tag on him by King... %O and %M,,
+260069,Hayden,Ballantyne,FR,10,53,70,35,41,51,8,1,2,2,0,1,0,2,0, Full Time,injured,%s from %O and %M on Houli... picked up a knock in Q3 to his hamstring/back and iced up,subbed,Subbed off in Q3 for Roberton
+261756,Greg,Broughton,FR,7,50,67,23,42,60,10,7,3,0,0,0,1,0,0, Full Time,news,%P,,
+261231,Rhys,Palmer,FR,8,49,55,46,44,60,3,12,4,1,0,0,0,0,0, Full Time,news,%O,,
+291542,Jayden,Pitt,FR,8,37,38,22,31,39,6,2,3,0,0,0,0,1,0, Full Time,job,White keeping him honest on a HBF... %O and %s,,
+210037,Adam,McPhee,FR,8,36,46,22,32,43,6,3,2,1,0,1,2,1,1, Full Time,news,Tagged Deledio in the first half then moved forward... %s from %D and %M,,
+270681,Jay,van Berlo,FR,8,36,44,37,29,40,3,4,2,4,0,2,2,0,1, Full Time,news,Playing forward... %s from %P and %T,,
+990092,Antoni,Grover,FR,2,36,59,24,29,39,5,6,1,1,0,2,0,0,0, Full Time,job,Standing Miller... %D,,
+200045,Luke,McPharlin,FR,2,17,9,13,18,27,3,2,3,1,0,0,3,0,0, Full Time,job,Has Riewoldt,,
+230107,Michael,Johnson,FR,1,11,15,-1,11,18,4,2,0,0,0,1,2,0,0, Full Time,job,On Vickery... %P,,
+280933,Dylan,Roberton,FR,1,11,7,9,12,18,1,4,1,0,0,0,1,0,0, Full Time,news,On in Q3 for Ballantyne,sub,Started as a sub

@@ -1,0 +1,48 @@
+Geelong,Cats,Hawthorn,Hawks,R15,12.13.85,11.17.83, Full Time
+Jul 10,2010,2:10,MCG,Ten,200034,10281502,5015481,5183,Windy,14
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>DanF</em>: at the end of the day if you don't like SC don't play.  pretty straightforward really<br><em>JoeMontana</em>: The potatoes playing in the Eagles-Crows game get same scores as the stars from the Cats-hawks teams. Now that's a joke!<br><em>JoeMontana</em>: Yeh Swanlow. Is the Eagles-Crows game equal in Quality as the Cats-Hawks game&#044; they both get SC scores of 3&#044;300. <br><em>DanF</em>: SC adjusts total game score to 3300 so all games count the same<br><em>bjones38</em>: jako "a poor kick from your defensive backline" LOL what an idiot<br><em>swanlow</em>: hahah obviously froggy knows nothing of AFL or had ablett as captain.. rediculous comments u loser<br><em>Daniel_79</em>: lol&#044; Bartel only 7 SC in the last 1/4. What a joke...<br><em>froggy55</em>: SC is the biggest disgrace to sports<br><em>froggy55</em>: 33 possessions and 79 point&#044; SC should be banned<br><em>swanlow</em>: i would if she wasnt dead<br><em>DanF</em>: @Baker15. Yep Ottens looked like Blake.<br><em>swanlow</em>: hahaha SC is the most accurate judge of how effective a player is on the game&#044; tht=at is what SC was developed for<br>
+220007,Jimmy,Bartel,GE,43,139,148,180,106,138,17,9,8,8,3,2,0,1,3, Full Time,star,First goal... rotating from CHF on Schoenmakers through midfield... %P and %M plus %T and %s
+200039,Paul,Chapman,GE,28,117,136,148,91,120,12,12,5,7,0,2,0,2,0, Full Time,gun,Tagged by Gibson... %s from %P with %M and %T
+220001,Gary,Ablett jnr,GE,26,109,79,136,89,127,14,18,3,5,0,1,2,1,1, Full Time,hot,Head to head with Rioli then moved off him in Q1... Bateman went to him in Q3... %O including %b by hand with %M and %T... also %s
+250321,Joel,Selwood,GE,26,104,139,131,83,119,11,19,2,7,1,3,2,0,1, Full Time,hot,Tagged by Sewell... %O and %T with %M and %s
+230214,Mathew,Stokes,GE,22,101,114,122,85,110,12,10,3,3,0,1,1,4,2, Full Time,x-factor,%s from %D and %M with %T including three majors in Q3
+230248,Andrew,Mackie,GE,19,98,78,129,76,102,14,8,7,5,0,2,1,0,0, Full Time,news,%P and %M with %T
+220058,James,Kelly,GE,20,86,114,111,68,99,8,15,3,7,0,1,2,0,0, Full Time,tagger,Moved to tag Rioli in Q1... %P and %T plus %M
+200037,Cameron,Ling,GE,19,79,58,108,55,78,12,4,3,7,0,1,1,0,0, Full Time,tagger,Tagging Hodge... %D and %T with %M
+250290,Travis,Varcoe,GE,16,75,70,97,59,76,8,6,4,5,0,3,1,1,1, Full Time,news,%s from %P with %T and %M
+261497,Harry,Taylor,GE,13,70,92,91,58,78,10,7,7,2,0,0,1,0,0, Full Time,job,On Franklin... %D and %M with %T
+960375,Darren,Milburn,GE,8,62,93,77,49,68,7,10,2,3,2,1,0,0,0, Full Time,job,Zoning off Peterson... %O and %T with %M
+200131,James,Podsiadly,GE,12,59,68,76,51,65,8,2,5,2,1,0,2,2,1, Full Time,news,Gilham on him... %s from %P with %G and %T
+980064,Brad,Ottens,GE,16,57,81,65,57,73,0,11,2,3,25,1,3,0,0, Full Time,news,Rotating between FF and ruck... %D and %M plus %H and %F
+210059,Josh,Hunt,GE,5,56,81,73,44,57,6,5,5,3,0,1,0,0,0, Full Time,news,%M and %O
+240117,Mark,Blake,GE,9,52,60,60,51,64,5,7,3,0,18,1,2,0,1, Full Time,news,%H and %D with %M
+990076,David,Wojcinski,GE,7,52,48,65,44,60,8,8,3,1,0,2,1,0,0, Full Time,news,%D and %M
+200035,Corey,Enright,GE,4,42,48,57,36,54,8,5,3,2,0,0,3,0,0, Full Time,tagged,Forward tag on him on a HBF by Lewis... %O and %M with %F
+230022,Shannon,Byrnes,GE,9,41,38,53,34,45,5,3,3,2,0,0,1,1,0, Full Time,news,%s from %D with %M and %T on Murphy
+281065,Mitchell,Duncan,GE,4,38,24,51,31,42,5,3,4,2,0,0,1,0,0, Full Time,news,%O and %M
+980037,Matthew,Scarlett,GE,2,35,53,45,28,39,7,4,1,1,0,2,1,0,0, Full Time,tagged,Forward tag on him by Brown... %P
+230125,Tom,Lonergan,GE,3,31,38,41,27,39,4,5,2,2,0,1,2,0,0, Full Time,job,Has Roughead... %P
+270193,Simon,Hogan,GE,2,31,32,35,28,40,3,9,1,0,0,0,0,0,1, Full Time,in,%l Joel Corey... %D and %s
+240399,Lance,Franklin,HW,37,110,134,96,97,127,11,11,7,6,1,3,5,3,3, Full Time,mrp,Taylor on him... %s from %G with %P and %T... also %F... could be trouble for a late hit on Lonergan in Q1
+260955,Cyril,Rioli,HW,24,109,118,72,84,108,17,8,6,4,2,5,0,0,1, Full Time,hot,Started head to head with Ablett jnr then got Kelly's tag... %O and %T with %M plus %s
+230197,Brad,Sewell,HW,27,105,100,84,82,113,13,11,4,7,1,2,2,1,1, Full Time,hot,Tagging Selwood... %D and %T with %M
+220047,Luke,Hodge,HW,27,87,100,73,69,96,10,10,4,6,0,1,2,1,0, Full Time,pinkpig,Tagged by Ling... %P and %T with %M and %s
+210012,Shaun,Burgoyne,HW,15,86,84,58,66,93,14,8,4,5,0,2,2,0,0, Full Time,news,%D and %T with %M
+200060,Brent,Guerra,HW,14,79,79,53,60,84,13,6,5,4,0,0,1,0,0, Full Time,news,%O and %M with %T
+250308,Brent,Renouf,HW,26,79,75,86,61,78,4,5,3,8,17,1,1,0,1, Full Time,news,%H and %T with %P and %M
+250146,Thomas,Murphy,HW,10,74,102,53,60,81,10,10,5,2,0,1,0,0,0, Full Time,job,Following Byrnes... %D
+250089,Jordan,Lewis,HW,15,73,107,55,63,78,8,8,4,1,3,2,0,2,0, Full Time,tagger,Playing a HFF forward tag on Enright... %s from %D with %M
+240302,Grant,Birchall,HW,10,72,72,46,58,84,12,9,4,3,0,0,2,0,0, Full Time,news,%O and %M
+200040,Chance,Bateman,HW,9,69,40,48,55,76,10,7,3,3,5,0,1,0,2, Full Time,tagger,Moved to tag Ablett jnr in Q3... %P and %M with %T
+280471,Ben,Stratton,HW,9,64,76,48,53,69,9,5,7,2,0,1,1,0,0, Full Time,news,%P and %M
+250055,Clinton,Young,HW,16,63,71,51,49,65,8,3,4,4,0,0,1,1,2, Full Time,news,%O and %T plus %s though he missed two shots in the last five minutes of Q4 to win the game
+210062,Wayde,Skipper,HW,14,60,58,53,43,56,7,2,2,6,4,3,1,0,1, Full Time,news,%T
+250257,Xavier,Ellis,HW,20,58,61,56,43,61,5,6,1,6,1,0,1,1,0, Full Time,news,%s from %D with %T
+210092,Michael,Osborne,HW,5,57,54,35,45,62,10,4,4,2,2,0,1,0,0, Full Time,sore,Stinger in the heavily strapped left shoulder in Q1
+230082,Stephen,Gilham,HW,5,53,86,41,42,54,7,4,5,2,0,1,0,0,0, Full Time,ipod,Standing Podsiadly... %M and %O
+270854,Carl,Peterson,HW,9,51,46,48,38,53,5,5,2,5,2,1,1,0,0, Full Time,news,Milburn on him... %D and %T
+220013,Campbell,Brown,HW,14,46,58,46,33,46,5,1,3,6,0,1,2,0,1, Full Time,tagger,Forward tag on Scarlett... %T
+240357,Jarryd,Roughead,HW,9,45,61,34,38,44,5,2,2,1,1,2,0,2,1, Full Time,news,Booted %s from %G and %D on Lonergan
+281301,Ryan,Schoenmakers,HW,2,32,20,28,25,36,3,6,1,2,0,0,0,0,0, Full Time,job,Strange opponent at CHB is Bartel
+250715,Josh,Gibson,HW,2,28,46,22,20,30,4,3,0,3,0,1,1,0,0, Full Time,tagger,Tagging Chapman.... %D

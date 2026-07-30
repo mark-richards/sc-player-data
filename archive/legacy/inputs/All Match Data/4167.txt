@@ -1,0 +1,48 @@
+Sydney,Swans,Collingwood,Magpies,R20,9.16.70,12.6.78, Full Time
+Aug 11,2012,7:40,Homebush,Seven,260394,10342005,430174,0,Windy with showers,17,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>sammcgarry</em>: Good Dayne (:<br><em>sammcgarry</em>: good Dayne (:<br><em>hardballge</em>: 81 Cloke&#044; enough to throw up? any carrots??<br><em>sullitons</em>: 7 more scoring shots... and lost<br><em>danmaio</em>: for a side of negating players&#044; swans cant stop 1 player<br><em>Munza</em>: 30 sc beams jump<br><em>Nigey95</em>: rhyce shaw gets a sc ton on my bench. reminiscent of dempsey's 139 on my bench last week. :('<br><em>fleet007</em>: what was beams' jump in SC?<br><em>hardballge</em>: The Silk goes BANG&#044; goal!<br><em>TheLegend6</em>: beams star&#044; kennedy gun<br><em>Munza</em>: lol beams just went to 166 sc<br><em>Leon88</em>: beams gunnnn<br>
+260382,Josh P.,Kennedy,SY,49,153,168,195,114,160,23,17,3,8,0,2,0,1,1, Full Time,hot,%2 Beams... %P including %B with %T and %s... also %M,,
+200071,Ryan,O'Keefe,SY,38,132,121,173,96,131,20,8,5,8,1,1,0,1,1, Full Time,hot,%P and %M plus %T and %s,,
+240226,Kieren,Jack,SY,24,99,108,127,74,109,13,15,1,7,0,1,1,0,1, Full Time,news,%2 Pendlebury... %D and %T,mrp,Stood on the hand of Beams in Q3 which will be scrutinised
+280762,Shane,Mumford,SY,39,92,116,103,88,108,0,14,3,4,45,0,2,0,0, Full Time,news,%H and %D with %T... also %F,,
+290788,Luke,Parker,SY,25,89,64,121,60,90,13,7,1,9,0,0,1,0,0, Full Time,news,%O and %T,,
+230132,Nick,Malceski,SY,25,83,82,115,55,81,14,3,2,8,0,0,1,0,0, Full Time,news,%P and %T with %M,,
+200023,Rhyce,Shaw,SY,9,79,105,99,62,87,11,12,3,3,0,1,0,0,0, Full Time,news,%D and %M with %T,,
+281281,Lewis,Jetta,SY,13,74,61,99,52,73,12,4,3,5,0,0,0,0,1, Full Time,sore,%O and %M on Toovey... right wrist knock in Q2,,
+980073,Adam,Goodes,SY,14,58,49,73,51,68,9,6,4,1,1,1,2,1,1, Full Time,news,Reid on him... %s from %P and %M,,
+230253,Jarrad,McVeigh,SY,7,57,65,70,44,64,9,10,0,2,0,1,0,0,1, Full Time,tagger,Forward tag on O'Brien... %D,,
+250338,Nick,Smith,SY,4,56,78,73,41,57,9,5,2,3,0,1,0,0,0, Full Time,job,Minding Sinclair... %K among %D,,
+261212,Craig,Bird,SY,13,56,71,67,47,64,7,9,2,1,0,0,0,1,1, Full Time,tagger,Forward tag role on Shaw... %D and %s,,
+220089,Lewis,Roberts-Thomson,SY,10,55,61,69,46,61,7,5,1,3,0,2,2,2,1, Full Time,news,First goal... %s from %P,,
+220063,Martin,Mattner,SY,4,54,53,72,40,54,12,1,4,1,0,0,0,0,0, Full Time,job,Chasing Elliott... %P and %M,,
+291450,Alex,Johnson,SY,5,51,60,69,41,57,10,3,4,2,0,1,2,0,0, Full Time,job,Has Tarrant... %D,,
+230140,Ben,McGlynn,SY,14,50,57,63,38,52,4,6,1,4,0,0,0,1,1, Full Time,news,%D and %T on Clarke,,
+270570,Trent,Dennis-Lane,SY,19,48,39,65,34,48,2,4,1,7,0,0,1,1,0, Full Time,news,%s from %D and %T,subbed,Subbed off in Q4 for Armstrong
+291206,Mike,Pyke,SY,15,48,62,55,48,57,4,3,3,0,21,0,2,1,0, Full Time,news,When forward he is on Brown... %s from %P... also %H and %F,,
+290117,Daniel,Hannebery,SY,3,45,38,55,36,51,5,9,1,2,0,1,0,0,0, Full Time,news,%P,,
+210027,Ted,Richards,SY,2,41,63,50,33,45,6,7,1,1,0,2,0,0,0, Full Time,job,On Dawes... %P,,
+240072,Heath,Grundy,SY,2,36,64,44,29,39,5,6,1,1,0,2,0,0,0, Full Time,job,Following Cloke... %O,,
+270170,Tony,Armstrong,SY,0,16,16,22,13,19,3,1,1,1,0,0,1,0,1, Full Time,in,%l Andrejs Everitt... on in Q4 for Dennis-Lane,sub,Started as a sub
+271001,Dayne,Beams,CO,31,131,170,79,100,138,21,13,1,5,0,1,0,3,0, Full Time,star,%2 Kennedy... %P and %T plus %s,,
+261799,Sharrod,Wellingham,CO,51,120,100,116,88,123,10,14,4,11,0,0,0,1,0, Full Time,hot,%O and %T with %M,,
+230263,Nick,Maxwell,CO,31,107,104,82,77,105,16,4,7,8,0,1,1,0,0, Full Time,heart,%P and %T plus %M... left hip soreness in Q3,job,Has Roberts-Thomson
+260257,Scott,Pendlebury,CO,25,105,116,78,79,114,14,15,3,6,0,0,0,0,0, Full Time,hot,%2 Jack... %O and %T,,
+280965,Steele,Sidebottom,CO,26,101,92,74,69,96,16,3,5,8,0,0,0,0,0, Full Time,hot,%P and %T with %M,,
+280104,Jarryd,Blair,CO,31,91,92,90,68,96,7,12,2,9,0,1,1,1,0, Full Time,news,%P including %B with %T,,
+294733,Paul,Seedsman,CO,16,82,76,51,65,84,13,7,4,2,0,3,0,1,0, Full Time,news,%D and %s,,
+260394,Chris,Dawes,CO,14,80,85,58,64,83,12,3,8,3,4,0,1,0,1, Full Time,news,%s from %P and %M on Richards... also %T and %H,,
+210099,Darren,Jolly,CO,32,79,96,75,71,87,4,7,0,4,42,1,2,0,0, Full Time,sore,%H and %D with %T... hand injury in Q2,,
+240232,Ben,Reid,CO,14,79,95,47,63,84,14,6,6,2,0,2,1,0,0, Full Time,news,%P and %M,job,Following Goodes
+240700,Heath,Shaw,CO,9,75,91,38,57,78,16,2,5,3,0,2,2,0,0, Full Time,tagged,Forward tag on him by Bird... %D and %M with %T and %F,,
+240073,Harry,O'Brien,CO,20,73,74,54,45,66,12,1,1,8,0,0,0,0,0, Full Time,tagged,Forward tag on him by McVeigh... %D and %T,,
+272005,Marty,Clarke,CO,18,67,73,56,47,69,8,8,1,6,0,0,0,0,0, Full Time,job,Chasing McGlynn... %D and %T,,
+290821,Alex,Fasolo,CO,14,61,71,32,54,75,11,8,4,0,0,0,2,1,0, Full Time,sore,%D and %M... knock to his left knee in Q1 brought some temporary ice,,
+210003,Alan,Didak,CO,14,60,55,39,47,64,9,6,2,2,0,0,0,1,1, Full Time,news,On in Q2 for Thomas... %s from %P,sub,Started as a sub
+240366,Travis,Cloke,CO,16,53,85,42,53,68,6,4,5,1,0,0,4,3,2, Full Time,news,%s from %D and %M on Grundy,,
+291386,Ben,Sinclair,CO,7,38,50,38,27,39,3,5,1,4,0,0,0,0,0, Full Time,news,Donuts in Q1 on Smith... %D,,
+293801,Jamie,Elliott,CO,8,38,46,40,30,46,2,9,0,4,0,0,1,0,1, Full Time,news,%O and %M on Mattner,,
+980023,Chris,Tarrant,CO,3,37,40,26,32,40,5,4,4,0,0,1,0,0,1, Full Time,news,%s from %P and %G on Johnson,,
+240359,Dale,Thomas,CO,7,33,23,17,25,33,6,2,0,1,0,1,0,1,0, Full Time,injured,%O and %s... corked right quad in Q1,subbed,Subbed off in Q2 for Didak
+240419,Alan,Toovey,CO,2,31,36,25,21,30,4,3,0,3,0,1,0,0,0, Full Time,job,Chasing Jetta... %D,,
+260310,Nathan,Brown,CO,1,12,30,8,12,15,2,1,2,0,0,1,1,0,0, Full Time,news,Donuts in Q1... %D and %M,job,Has the resting ruckman which is mostly Pyke

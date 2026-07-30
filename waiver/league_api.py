@@ -19,6 +19,8 @@ import logging
 import requests
 import urllib3
 
+from pathlib import Path
+
 from waiver.config import (
     API_URL_TEMPLATE,
     LADDER_LEAGUE_ID,
@@ -26,9 +28,17 @@ from waiver.config import (
     MY_TEAM_ID,
     SC_API_TOKEN,
     SC_CLIENT_ID,
+    SC_REFRESH_TOKEN,
     SC_SOCIAL_TOKEN,
     SEASON_YEAR,
 )
+
+_ENV_PATH = Path(__file__).resolve().parent.parent / ".env"
+
+# In-process token cache: set after first successful refresh so subsequent calls
+# within the same pipeline run reuse the fresh token instead of consuming the
+# rotating refresh_token a second time (which would get a 401).
+_active_token: str = ""
 
 # Suppress SSL warnings (mirrors existing ingest_supercoach.py behaviour)
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -148,25 +158,107 @@ def check_token_health() -> list[str]:
     return warnings
 
 
+def _persist_tokens(access_token: str, refresh_token: str) -> None:
+    """Write updated access + refresh tokens back to .env."""
+    try:
+        text = _ENV_PATH.read_text(encoding="utf-8")
+        lines = text.splitlines(keepends=True)
+        found_access = found_refresh = False
+        updated = []
+        for line in lines:
+            if line.startswith("SC_API_TOKEN="):
+                updated.append(f"SC_API_TOKEN={access_token}\n")
+                found_access = True
+            elif line.startswith("SC_REFRESH_TOKEN="):
+                updated.append(f"SC_REFRESH_TOKEN={refresh_token}\n")
+                found_refresh = True
+            else:
+                updated.append(line)
+        content = "".join(updated)
+        if not found_access:
+            if not content.endswith("\n"):
+                content += "\n"
+            content += f"SC_API_TOKEN={access_token}\n"
+        if not found_refresh:
+            if not content.endswith("\n"):
+                content += "\n"
+            content += f"SC_REFRESH_TOKEN={refresh_token}\n"
+        _ENV_PATH.write_text(content, encoding="utf-8")
+        log.info("SC tokens persisted to .env (access + refresh).")
+    except Exception as exc:
+        log.warning("Could not persist tokens to .env: %s", exc)
+
+
+def refresh_via_refresh_token(
+    refresh_token: str = SC_REFRESH_TOKEN,
+    client_id: str = SC_CLIENT_ID,
+    year: int = SEASON_YEAR,
+) -> str:
+    """
+    Exchange a refresh_token for a new access_token (and rotating refresh_token).
+    Persists both back to .env so the next run uses the latest refresh_token.
+    """
+    if not refresh_token:
+        return ""
+    url = _TOKEN_REFRESH_URL.format(year=year)
+    payload = {
+        "grant_type": "refresh_token",
+        "refresh_token": refresh_token,
+        "client_id": client_id,
+        "client_secret": "",
+    }
+    log.info("Refreshing SC token via refresh_token grant...")
+    try:
+        resp = requests.post(url, json=payload, headers=_HEADERS, verify=False, timeout=15)
+        resp.raise_for_status()
+        data = resp.json()
+        access = data.get("access_token", "")
+        new_refresh = data.get("refresh_token", "")
+        if access:
+            global _active_token
+            _active_token = access
+            log.info("SC token refreshed via refresh_token (expires in %ds).", data.get("expires_in", 0))
+            if new_refresh:
+                _persist_tokens(access, new_refresh)
+            return access
+        log.warning("refresh_token grant returned no access_token: %s", data)
+        return ""
+    except requests.exceptions.RequestException as exc:
+        log.error("refresh_token grant failed: %s", exc)
+        return ""
+
+
 def get_valid_token(year: int = SEASON_YEAR) -> str:
     """
     Returns a valid SC bearer token.
 
-    Tries Auth0 auto-refresh first (if SC_CLIENT_ID + SC_SOCIAL_TOKEN are set).
-    Falls back to the static SC_API_TOKEN from .env if refresh is unavailable.
-
-    Returns "" if no token is available, which callers treat as a hard failure.
+    Priority: in-process cache → refresh_token grant → social token grant → static SC_API_TOKEN.
+    The refresh_token rotates on each use and is persisted back to .env automatically.
+    The in-process cache prevents consuming the rotating refresh_token more than once per run.
     """
-    if SC_CLIENT_ID and SC_SOCIAL_TOKEN:
-        refreshed = refresh_sc_token(year=year)
-        if refreshed:
-            return refreshed
-        log.warning("Auto-refresh failed; falling back to static SC_API_TOKEN.")
+    # 0. Return cached token from earlier in this process (avoids double-consuming refresh_token)
+    if _active_token:
+        return _active_token
 
+    # 1. Try rotating refresh_token (best — fully automatic, no expiry issues)
+    if SC_REFRESH_TOKEN:
+        token = refresh_via_refresh_token(year=year)
+        if token:
+            return token
+        log.warning("refresh_token grant failed; trying social token...")
+
+    # 2. Try Auth0 social token (lasts ~85 days)
+    if SC_CLIENT_ID and SC_SOCIAL_TOKEN:
+        token = refresh_sc_token(year=year)
+        if token:
+            return token
+        log.warning("Social token refresh failed; falling back to static SC_API_TOKEN.")
+
+    # 3. Static token (manual update required every ~7 days)
     if SC_API_TOKEN:
         return SC_API_TOKEN
 
-    log.error("No SC bearer token available. Set SC_CLIENT_ID+SC_SOCIAL_TOKEN (preferred) or SC_API_TOKEN in .env.")
+    log.error("No SC bearer token available. Set SC_REFRESH_TOKEN in .env.")
     return ""
 
 

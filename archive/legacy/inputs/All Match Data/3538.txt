@@ -1,0 +1,48 @@
+Collingwood,Magpies,Carlton,Blues,R18,15.15.105,9.3.57, Full Time
+Jul 31,2010,2:10,MCG,Ten,210003,10281802,5015484,5205,Windy with showers,15
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>jake1994</em>: jamesrules is a spud<br><em>maddogg44</em>: swan disappointed in dt<br><em>jamesrules</em>: jake1994 is a spud<br><em>skystyler</em>: warnock outscored jolly!<br><em>riewoldt12</em>: no joke i have swan&#044; cloke&#044; ball&#044; didak and pendlebury in my dt and sc team<br><em>namcoww</em>: scotlands 40 will hurt<br><em>Davo75</em>: Carlton = Shower!<br><em>brutus76</em>: @chompah. and who would take over?<br><em>brutus76</em>: wd to Pato on PNG.. DIdak scores big 2nd half<br><em>Salisbury</em>: carlton are a crap side. <br><em>rooattack</em>: Juddy has no heart&#044;just a money hungry hypocrite<br><em>CarnThePie</em>: good work swan and pendlebury :D <br>
+260257,Scott,Pendlebury,CO,33,129,141,162,102,143,15,19,4,7,1,1,1,1,1, Full Time,star,%P and %M with %T and %s
+271001,Dayne,Beams,CO,42,129,124,158,107,141,10,18,7,6,0,0,0,3,0, Full Time,x-factor,Forward tag on Waite... %D and %T plus %M
+220005,Luke,Ball,CO,30,120,133,157,91,124,17,11,6,7,0,3,1,0,1, Full Time,hot,%O and %T with %M
+210003,Alan,Didak,CO,23,118,136,146,95,129,17,14,5,3,0,0,0,2,0, Full Time,hot,%s from %D with %T
+220105,Dane,Swan,CO,22,114,151,141,92,124,16,15,5,3,0,2,0,1,1, Full Time,gun,Tagged by Carrazzo... %D and %s... started Q2 like he had ants in his pants
+240366,Travis,Cloke,CO,27,108,116,140,92,113,14,3,12,3,0,1,2,2,5, Full Time,hot,Booted %s from %D and %G on Bower
+200021,Ben,Johnson,CO,15,86,65,109,70,96,14,11,5,2,0,2,1,0,0, Full Time,job,Minding Garlett... %D
+261181,Brent,Macaffer,CO,18,84,98,109,65,87,9,9,6,5,0,1,0,0,0, Full Time,news,%B among %P with %T
+240359,Dale,Thomas,CO,10,77,61,98,62,88,13,10,4,2,0,0,1,0,1, Full Time,news,%D and %M with %T and %s
+240073,Harry,O'Brien,CO,13,76,87,100,58,78,12,5,6,3,0,0,0,0,0, Full Time,job,Going with Betts... %O
+261799,Sharrod,Wellingham,CO,19,76,84,99,59,84,11,8,2,5,0,1,2,1,0, Full Time,injured,Tagging Judd... %D and %T with %F... in a tracksuit after half time with a knee problem
+200019,Leon,Davis,CO,20,73,101,91,66,81,9,4,7,1,0,1,2,3,0, Full Time,news,Joseph on him... %s from %O and %M
+210099,Darren,Jolly,CO,15,73,73,88,61,71,6,3,3,3,25,2,0,0,1, Full Time,news,%H and %D with %M and %s
+240232,Ben,Reid,CO,13,72,69,93,63,84,11,8,8,1,0,1,2,0,0, Full Time,job,Has Henderson... %M and %D
+280965,Steele,Sidebottom,CO,9,71,72,92,56,78,11,8,4,3,0,1,1,0,0, Full Time,news,%D including %b by hand... also %T
+260394,Chris,Dawes,CO,16,68,96,87,52,64,8,2,3,4,0,2,0,2,1, Full Time,news,%s from %D and %G on Jamison... also %T
+200028,Leigh,Brown,CO,5,53,71,64,43,55,4,6,1,3,12,1,0,0,1, Full Time,news,Walker on him... %H
+280104,Jarryd,Blair,CO,9,52,65,68,38,54,4,7,2,5,0,0,0,0,0, Full Time,news,%O and %M with %T
+260246,Tyson,Goldsack,CO,9,50,71,64,39,54,3,8,3,4,0,0,0,0,0, Full Time,news,%D and %T
+230263,Nick,Maxwell,CO,4,49,60,63,40,57,7,7,3,2,0,0,1,0,0, Full Time,job,Trying to zone off Fisher... %P
+260310,Nathan,Brown,CO,4,34,67,44,35,54,3,10,3,2,0,0,4,0,0, Full Time,job,Started on Hampson... %P
+240419,Alan,Toovey,CO,2,24,37,26,22,33,2,9,0,0,0,0,0,0,0, Full Time,news,%P
+230202,Kade,Simpson,CA,26,115,97,69,96,132,19,14,7,2,0,1,2,1,0, Full Time,garbage,Moved onto Swan in Q4 and racked it up... %D and %M plus %s
+250298,Shaun,Grigg,CA,25,105,112,85,83,110,12,11,6,5,2,1,0,1,0, Full Time,hot,%s from %O with %T and %M
+240031,Chris,Johnson,CA,25,79,74,63,57,78,10,6,2,6,0,1,0,1,0, Full Time,news,%D and %T
+250672,Robert,Warnock,CA,14,72,87,64,63,80,5,11,3,2,17,1,0,0,0, Full Time,news,%H and %P
+250090,Jordan,Russell,CA,12,69,90,50,49,72,10,8,1,5,0,0,0,0,0, Full Time,news,%O and %T
+250105,Marc,Murphy,CA,13,67,83,52,53,78,8,13,1,4,0,1,1,0,0, Full Time,news,Moved into defence in Q3... %P and %T
+250417,Bryce,Gibbs,CA,9,67,90,37,53,75,12,9,2,2,0,2,1,0,0, Full Time,news,Started forward then sent into defence in Q3... %O and %T
+990059,Heath,Scotland,CA,9,66,40,45,57,81,9,13,4,1,0,0,1,0,0, Full Time,sore,%O and %M... left ankle knock in Q1
+261318,Aaron,Joseph,CA,10,61,39,52,46,63,7,6,4,4,0,0,0,0,0, Full Time,job,Minding Davis... %D and %M
+270737,Shaun,Hampson,CA,16,60,69,56,55,63,3,4,1,2,21,2,1,2,0, Full Time,news,First goal... started forward on Nathan Brown... %s from %D with %T... also %H rotating in ruck
+220056,Chris,Judd,CA,7,51,84,42,40,60,5,12,0,3,0,0,0,0,0, Full Time,injured,Tagged by Wellingham... %P and %T... mothballed with right shoulder problem in Q4 when it was all over
+240014,Andrew,Walker,CA,10,51,61,46,45,63,4,9,1,3,0,0,2,2,0, Full Time,garbage,Has Leigh Brown... %D and %T with %F... all of his %s in Q4 junk time after moving forward
+261258,David,Ellard,CA,8,51,57,39,38,54,7,6,1,4,0,2,1,0,0, Full Time,in,%l Dennis Armfield (neck)... %T
+220015,Andrew,Carrazzo,CA,7,49,35,33,42,64,7,11,1,2,0,0,2,0,1, Full Time,down,Moved off Swan in Q4 after being comprehensively smashed... %O and %F
+230244,Brad,Fisher,CA,10,49,44,41,37,45,6,0,4,3,0,1,0,1,0, Full Time,news,%T... trying to keep Maxwell honest
+220110,Jarrad,Waite,CA,4,47,34,28,43,57,8,6,5,0,0,2,2,0,0, Full Time,job,Loose in defence early then Beams went to him in Q1... %P and %M
+271110,Chris,Yarran,CA,8,44,41,38,32,48,6,3,2,5,0,0,2,0,0, Full Time,news,%T
+270326,Lachie,Henderson,CA,3,40,26,32,35,45,5,4,5,1,0,1,1,0,0, Full Time,news,%D on Reid
+240060,Eddie,Betts,CA,8,39,46,31,33,42,4,5,2,1,0,1,0,1,0, Full Time,cold,O'Brien sat on him... moved into midfield in Q4... %s from %O
+250211,Paul,Bower,CA,7,39,46,48,31,42,0,9,1,4,0,2,0,0,0, Full Time,news,Followed Cloke then moved forward in Q3... %P and %T
+261043,Michael,Jamison,CA,4,37,34,32,30,42,5,2,4,3,0,0,2,0,0, Full Time,job,Has Dawes... %F
+270653,Jeff,Garlett,CA,7,31,31,30,22,34,3,4,0,4,0,0,1,0,1, Full Time,news,Johnson sitting on him... %T

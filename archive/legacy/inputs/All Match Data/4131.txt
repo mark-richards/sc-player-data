@@ -1,0 +1,48 @@
+Geelong,Cats,Collingwood,Magpies,R16,10.19.79,17.8.110, Full Time
+Jul 14,2012,7:40,MCG,Seven,280918,10341605,430138,0,Showers,13,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Slashers</em>: No one cares glam<br><em>dtfreak</em>: it's funny cause i've never seen someone with a purple name on this site..<br><em>Zarts</em>: pretty sure swan got his 40th just before the siren?<br><em>glam77</em>: A good day tomorrow will see 2600 sc<br><em>pinkwalls</em>: Does your AFL DT site have Beams' and Swan's scores mixed up?<br><em>Junktimer</em>: Pendles mate- Dem abs<br><em>MLSs</em>: duck duck rubber ducky<br><em>jbarber</em>: 1650 - 15 played including captain&#044; with one zero and another to come<br><em>yowiesam</em>: whats rubber ducky mean?<br><em title="LIVERPOOL">liverpool</em>: pieswin nolan loses hahahahahha<br><em>m_snowy</em>: gun beams<br><em>Grasscutta</em>: Pendles welcome back<br>
+220054,Steve,Johnson,GE,36,137,151,175,105,146,20,16,6,6,1,1,0,0,1, Full Time,hot,%2 Pendlebury in midfield... %O and %T plus %M... also %s,,
+220058,James,Kelly,GE,32,130,151,164,100,144,18,20,4,6,0,0,0,0,0, Full Time,hot,%D and %M with %T,swan,Head to head with Swan
+250321,Joel,Selwood,GE,27,97,107,123,80,109,11,12,3,6,0,3,3,2,1, Full Time,news,%2 Beams... %D and %T... also %F and %s,,
+200035,Corey,Enright,GE,19,96,107,121,78,103,14,11,7,2,0,2,0,0,1, Full Time,news,%D and %M plus %s,job,Goldsack is his man
+260261,Trent,West,GE,23,78,74,91,72,87,6,5,3,2,26,0,2,2,1, Full Time,news,%H and %P plus %M and %s,,
+281065,Mitch,Duncan,GE,20,78,86,105,55,76,11,4,4,6,0,0,0,0,1, Full Time,news,%P and %M plus %T,,
+261510,Tom,Hawkins,GE,16,72,67,93,59,70,9,1,8,2,0,1,0,1,4, Full Time,news,Booted %s from %P and %G on Brown,,
+230214,Mathew,Stokes,GE,16,70,57,91,56,72,8,5,5,4,0,2,1,1,0, Full Time,news,%s from %P and %M on Toovey... also %T,subbed,Subbed off in Q3 for Sheringham
+280990,Steven,Motlop,GE,14,67,67,84,53,69,12,3,3,1,0,0,0,2,0, Full Time,news,%O and %M plus %s,,
+200034,Joel,Corey,GE,9,65,56,84,55,82,10,11,3,3,1,0,3,0,0, Full Time,reported,%P and %M... reported for a sling tackle on Blair in Q2 but there was little in it... also %F,,
+290550,Cameron,Guthrie,GE,9,63,55,81,51,69,8,8,4,3,0,2,1,0,0, Full Time,job,Minding Elliott... %O and %M with %T,,
+980037,Matthew,Scarlett,GE,13,62,83,82,46,66,10,6,2,4,0,1,1,0,0, Full Time,job,Responsible for Dawes... %D and %T,,
+230248,Andrew,Mackie,GE,9,60,37,78,46,63,10,5,4,2,0,0,0,0,0, Full Time,news,%P and %M with %T,,
+200039,Paul,Chapman,GE,14,59,64,74,48,66,9,7,2,2,0,1,1,1,0, Full Time,news,Started slowly as he often has this year... %s from %D and %T,,
+291550,Joshua,Walker,GE,9,55,50,72,44,56,5,4,4,4,2,2,1,0,3, Full Time,rookie,First game... %s from %G and %P on Reid... also %T,,
+280822,Taylor,Hunt,GE,9,53,42,68,40,57,5,8,2,4,0,0,0,0,0, Full Time,tagger,Tagging Thomas... %P and %T with %M,,
+280918,Allen,Christensen,GE,8,53,34,68,40,57,9,6,2,2,0,0,0,0,0, Full Time,news,%D,,
+230125,Tom,Lonergan,GE,8,44,50,59,31,42,5,3,2,4,0,1,0,0,0, Full Time,job,Standing Cloke... %O,,
+210059,Josh,Hunt,GE,3,43,67,54,35,48,6,6,3,1,0,0,0,0,0, Full Time,job,Minding Sinclair... %O and %M with %T,,
+290783,Billie,Smedts,GE,2,25,31,32,23,31,4,3,3,0,0,0,1,0,1, Full Time,news,Big job manning up Maxwell... %P,,
+261497,Harry,Taylor,GE,1,21,37,28,17,25,6,1,1,0,0,0,1,0,1, Full Time,job,At FB on Tarrant... %D,,
+250343,Jackson,Sheringham,GE,7,18,26,21,17,24,3,3,0,0,0,0,1,1,0, Full Time,rookie,First game... on in Q3 for Stokes,sub,Started as a sub
+271001,Dayne,Beams,CO,33,137,143,91,113,153,20,16,8,3,0,0,1,2,0, Full Time,hot,%2 Selwood... %D and %M plus %s,,
+260257,Scott,Pendlebury,CO,25,117,135,76,91,133,18,18,3,5,0,0,1,0,1, Full Time,hot,%2 Johnson... %O and %T plus %s,,
+220105,Dane,Swan,CO,25,116,116,52,91,132,23,17,3,1,0,0,0,0,0, Full Time,hot,%2 Kelly... %D,,
+240700,Heath,Shaw,CO,14,99,133,40,75,105,22,7,5,1,0,0,0,0,0, Full Time,star,Loose in defence and carved the Cats up... %P and %M,,
+290821,Alex,Fasolo,CO,21,94,91,75,79,102,11,8,8,3,0,0,1,2,0, Full Time,news,%s from %O and %M... also %T,,
+280104,Jarryd,Blair,CO,15,93,100,69,70,93,13,8,5,5,0,3,0,0,0, Full Time,news,%P and %T,,
+280965,Steele,Sidebottom,CO,14,86,76,44,66,93,18,4,6,3,0,0,2,0,0, Full Time,garbage,Didn't touch the footy in Q1... %D and %T with %M... most of his stats in second half garbage time,,
+260394,Chris,Dawes,CO,21,82,78,75,67,82,7,5,6,4,4,1,0,2,0, Full Time,news,Scarlett on him... %s from %G with %D and %T... also %H,,
+210099,Darren,Jolly,CO,22,80,102,72,71,80,5,5,3,2,29,3,0,1,0, Full Time,news,%H and %P plus %s,,
+230263,Nick,Maxwell,CO,20,80,92,56,60,78,12,4,4,4,0,2,0,1,0, Full Time,job,Smedts manning him up... %P and %M plus %s,,
+240073,Harry,O'Brien,CO,13,78,88,47,62,84,14,5,7,2,0,0,1,0,0, Full Time,brazil,%P and %M with %T,sore,Slight calf tweak in Q1
+240359,Dale,Thomas,CO,20,76,98,53,66,82,10,5,5,1,0,1,1,3,1, Full Time,tagged,First goal... %s from %P and %M... tagged by Taylor Hunt,,
+980023,Chris,Tarrant,CO,12,68,76,50,55,68,9,2,5,2,0,0,0,2,2, Full Time,news,Kicked %s from %P and %G on Taylor at FF,,
+291386,Ben,Sinclair,CO,9,62,74,47,50,66,8,7,5,2,0,1,0,0,0, Full Time,news,%O and %M on Josh Hunt,,
+293801,Jamie,Elliott,CO,15,62,48,54,45,60,7,3,3,5,0,0,0,1,0, Full Time,news,%s from %P and %M on Guthrie... also %T,,
+240232,Ben,Reid,CO,12,60,65,43,54,69,8,8,7,0,0,2,1,0,0, Full Time,job,On Walker... %M and %P,,
+240419,Alan,Toovey,CO,10,60,55,53,45,63,7,5,4,5,0,0,1,0,0, Full Time,job,Chasing Stokes... %D and %T,,
+260246,Tyson,Goldsack,CO,15,47,64,40,38,54,5,5,0,4,0,0,2,2,0, Full Time,news,%s from %P and %T on Enright,,
+260310,Nathan,Brown,CO,4,46,57,43,38,51,4,7,3,3,0,2,1,0,0, Full Time,tomahawk,Has Hawkins... %D,,
+240366,Travis,Cloke,CO,8,41,43,30,33,46,6,3,1,3,0,1,2,1,1, Full Time,missing,%D on Lonergan,,
+272005,Marty,Clarke,CO,2,30,25,15,26,36,6,3,3,0,0,0,1,0,0, Full Time,news,On after HT for Buckley,sub,Started as a sub
+250683,Simon,Buckley,CO,1,22,25,23,16,24,2,2,1,3,0,0,1,0,0, Full Time,injured,%D and %T... hip knock in Q2,subbed,Subbed off at HT for Clarke

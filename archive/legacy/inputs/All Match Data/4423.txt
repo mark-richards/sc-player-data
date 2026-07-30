@@ -1,0 +1,48 @@
+Geelong,Cats,Carlton,Blues,R3,18.11.119,15.13.103, Full Time
+Apr 13,2013,7.40,Docklands,Seven,990059,10390305,5015,0,Roof closed,25,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>richorocks</em>: bartel was putrid how did he get 106? from a Bartel owner<br><em>Jukes82</em>: bad luck tankers! haha.<br><em>push up</em>: Carlton losing&#044; #thingspushuploves<br><em>Coglistro</em>: game<br><em>Coglistro</em>: 2 mins<br><em>Costanza</em>: tick tock&#044; junk o'clock<br><em>danmaio</em>: what happened to robbo<br><em>boofy</em>: This defensive game plan of Micks is working wonders.<br><em>eski_liddr</em>: what ever happened to malthouse being a "mastermind" .im sure once they win a few times thet'll come bak<br><em>Coglistro</em>: 4 mins<br><em>Coglistro</em>:  mins<br><em>OiCatchYa</em>: how many minutes to go?<br>
+230214,Mathew,Stokes,GE,37,126,125,157,109,138,17,13,14,0,0,1,0,1,0, Full Time,hot,%s from %D and %M,,,338700,39,348100,33,Forward,27
+261497,Harry,Taylor,GE,26,101,103,126,87,108,12,8,11,1,0,0,0,2,0, Full Time,hot,%D and %M plus %s,job,Responsible for Rowe,376800,128,465000,151,Back,7
+281065,Mitch,Duncan,GE,20,100,78,128,83,111,11,13,9,4,0,1,1,0,0, Full Time,hot,%O and %T with %M,,,420500,82,429100,115,Forward,22
+280822,Taylor,Hunt,GE,32,95,104,122,76,102,9,8,4,7,0,0,2,3,0, Full Time,star,%O and %T plus %M and %s... had a very good Q1,tagger,Tagging Murphy,319400,29,347200,22,Midfielder,19
+220054,Steve,Johnson,GE,14,92,75,115,74,98,16,10,5,1,0,3,0,0,2, Full Time,sore,%2 McLean playing pure midfield... %O and %s... right knee knock in Q2,,,501700,,516700,,Forward,20
+280918,Allen,Christensen,GE,21,90,108,112,77,108,9,15,3,5,0,1,3,2,0, Full Time,news,%B among %P with %T and %s,,,381200,62,427700,111,Midfielder,28
+280990,Steven,Motlop,GE,15,89,100,111,70,92,17,5,3,1,0,1,0,2,2, Full Time,news,%s from %O and %M on Tuohy,,,302300,17,329400,50,Forward,32
+220007,Jimmy,Bartel,GE,20,88,106,115,69,99,15,10,4,4,0,1,2,0,0, Full Time,job,Playing BP on Garlett... %P and %T with %M,,,492700,93,527400,64,Midfielder,3
+200035,Corey,Enright,GE,15,83,81,109,67,90,14,6,8,2,0,0,1,0,0, Full Time,tagged,Forward tag on him by Robinson... %P and %M,,,416100,105,502400,123,Back,44
+200039,Paul,Chapman,GE,14,82,65,106,66,88,14,7,6,2,0,2,1,0,1, Full Time,tagged,Tagged by Joseph... %D and %T with %M,,,502600,100,535600,80,Forward,35
+261510,Tom,Hawkins,GE,20,82,107,99,70,88,10,7,5,1,0,0,0,3,1, Full Time,news,Booted %s from %G and %P on Jamison,,,409500,95,508800,131,Forward,26
+200034,Joel,Corey,GE,20,81,68,106,60,84,9,9,4,6,0,0,0,0,0, Full Time,tagged,Forward tag on him by Armfield... %P and %T with %M,,,396700,,409700,,Midfielder,11
+260261,Trent,West,GE,20,77,92,90,66,80,11,4,2,0,22,1,0,1,1, Full Time,news,%H and %D plus %s,,,349600,126,406900,173,Ruck,12
+230248,Andrew,Mackie,GE,12,72,93,90,60,78,10,9,6,1,0,2,0,0,0, Full Time,tagged,Forward tag on him by Simpson... %P and %M,sore,Sore shoulder in Q2 after Simpson fell on him,405100,68,425100,75,Back,4
+200131,James,Podsiadly,GE,14,68,79,84,57,74,9,7,5,1,1,0,0,1,1, Full Time,news,Kicked %s from %D and %M on Henderson,,,360300,58,393100,60,Forward,31
+250321,Joel,Selwood,GE,15,66,74,82,53,69,5,9,3,4,0,2,0,1,0, Full Time,carrot,Tagged by Carrazzo... %P and %T with %M and %s,,,530900,78,629500,103,Midfielder,14
+290783,Billie,Smedts,GE,9,45,57,56,37,46,4,3,1,3,0,2,1,2,1, Full Time,news,%s from %P and %T on Davies,,,267900,58,259900,40,Back,2
+296733,Mark,Blicavs,GE,5,45,57,52,38,50,3,8,0,2,11,1,0,0,0, Full Time,news,%H and %D with %T,,,108500,-25,115900,-45,Ruck,46
+290623,Josh,Caddy,GE,4,41,50,52,32,45,5,6,2,2,0,0,0,0,0, Full Time,news,On in Q2 for Varcoe... %P and %M with %T,sub,Started as a sub,328600,78,329300,88,Midfielder,23
+295942,Jordan,Murdoch,GE,7,36,39,49,24,34,4,2,1,4,0,0,0,0,1, Full Time,news,Donuts in Q1... %s from %D and %T on Walker,,,318000,,306100,,Back ,21
+230125,Tom,Lonergan,GE,4,35,39,50,31,42,4,2,5,3,0,1,3,0,0, Full Time,job,Has Hampson... %D and %M,,,255400,50,316400,82,Back,13
+250290,Travis,Varcoe,GE,0,12,9,16,9,12,1,1,1,1,0,0,0,0,0, Full Time,injured,In defence on Yarran... %O... left shoulder injury in Q2,subbed,Subbed out in Q2 for Caddy,234400,28,268900,34,Forward,5
+250105,Marc,Murphy,CA,32,111,114,76,86,118,17,10,4,6,0,3,2,1,1, Full Time,hot,Tagged by Taylor Hunt... %P and %T... also %s and %F... quiet first half by his standards but lifted in Q3,,,522000,117,602900,158,Midfielder,3
+240028,Brock,McLean,CA,22,107,109,76,87,115,14,12,5,3,0,1,0,2,1, Full Time,hot,%2 Johnson... %O and %M plus %s,,,516200,209,568600,232,Midfielder,14
+240014,Andrew,Walker,CA,15,99,137,51,77,111,18,15,2,2,0,1,0,0,0, Full Time,news,Massive Q1... %D and %M with %T,job,Running off Murdoch,382300,69,423400,41,Forward,1
+220056,Chris,Judd,CA,21,95,130,56,79,111,16,12,5,2,0,0,2,1,0, Full Time,news,%P and %M,,,465800,98,558300,131,Midfielder,5
+250417,Bryce,Gibbs,CA,19,90,95,64,68,93,14,6,6,5,0,1,1,0,0, Full Time,news,%O and %T with %M,,,473300,60,509800,63,Midfielder,4
+290311,Mitch,Robinson,CA,20,87,81,63,62,87,13,7,3,6,0,1,0,0,0, Full Time,tagger,Forward tag role on Enright... %O and %T with %M,,,478600,183,474700,184,Midfielder,12
+271110,Chris,Yarran,CA,16,81,78,51,65,83,14,0,6,3,0,1,2,2,2, Full Time,news,Starting forward on Varcoe... %s from %P and %M... also %T,,,311400,48,362000,74,Back,13
+990059,Heath,Scotland,CA,15,81,79,62,65,87,10,9,5,3,0,0,0,1,0, Full Time,news,First goal... %P and %M plus %T and %s,,,493400,,535600,,Back,29
+281079,Kane,Lucas,CA,21,78,55,69,71,90,7,9,8,2,0,1,2,2,0, Full Time,news,%P and %T with %M and %s,,,251200,24,217400,-28,Midfielder,9
+261043,Michael,Jamison,CA,13,72,66,47,58,78,12,5,7,2,0,0,1,0,0, Full Time,news,%P and %M with %T,tomahawk,Standing Hawkins,263400,61,316700,22,Back,40
+270653,Jeff,Garlett,CA,15,70,61,51,52,66,10,2,3,4,0,2,0,1,3, Full Time,news,%s from %O and %T on Bartel... also %M,,,331400,10,391300,22,Forward,38
+260278,Sam,Rowe,CA,13,68,77,55,59,71,7,3,4,2,9,1,1,2,2, Full Time,bubble,Second game... %s from %D and %M on Taylor... also %H,,,108500,,115900,,Forward,17
+292511,Zach,Tuohy,CA,9,59,89,35,49,73,10,10,2,2,0,0,2,0,1, Full Time,job,Minding Motlop... %D and %T plus %s,,,238900,60,289500,67,Back,42
+260533,Dennis,Armfield,CA,13,54,61,41,48,66,6,10,3,1,0,0,1,1,0, Full Time,tagger,Tagging Corey up forward... %P and %M,,,324100,94,343400,95,Midfielder Forward,27
+261318,Aaron,Joseph,CA,8,54,70,44,37,54,7,5,1,5,0,0,0,0,0, Full Time,tagger,Tagging Chapman... %P and %T,,,247300,,267900,,Midfielder,45
+230202,Kade,Simpson,CA,5,51,42,39,44,59,7,5,5,2,0,1,2,0,2, Full Time,tagger,Forward tag role on Mackie... %s from %D and %M... also %F,,,481600,132,501300,142,Midfielder,6
+220015,Andrew,Carrazzo,CA,4,45,46,34,40,54,5,9,4,0,0,0,0,0,0, Full Time,tagger,Tagging Selwood... %O and %M,,,467400,143,517800,157,Midfielder,44
+270326,Lachie,Henderson,CA,3,42,42,26,33,45,7,4,3,1,0,0,0,0,0, Full Time,ipod,On Podsiadly... %P and %M,,,287600,66,355100,71,Back,23
+270737,Shaun,Hampson,CA,13,36,60,33,35,40,1,5,0,0,16,1,0,1,0, Full Time,news,%D on Lonergan... also %H,,,334500,,378200,,Ruck,22
+281049,Marcus,Davies,CA,13,36,36,40,25,39,3,3,1,6,0,0,2,0,0, Full Time,job,In defence on Smedts... %P and %T... also %F,,,105600,,173900,,Back,31
+291777,Dylan,Buckley,CA,7,22,31,18,18,24,2,3,0,1,0,0,0,1,0, Full Time,news,On in Q2 for Krezuer... %P and %s,sub,Started as a sub,108500,,115900,,Midfielder,7
+261299,Matthew,Kreuzer,CA,2,21,35,23,16,19,1,0,1,2,7,0,0,0,0, Full Time,injured,%H and %p touch with %T... cracked right thumb in Q2,subbed,Subbed off in Q2 for Buckley,403700,30,494100,68,Ruck,8

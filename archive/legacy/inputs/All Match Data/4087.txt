@@ -1,0 +1,48 @@
+Port Adelaide,Power,Carlton,Blues,R10,14.15.99,6.9.45, Full Time
+Jun 2,2012,7:40,Footy Park,Fox Sports,230202,10341006,430094,0,Rain,17,,
+
+<em>FengaPapit</em>: zdsfv<br><em>D.Barwick</em>: come to the bluepoo<br><em>coldog</em>: lol everyone was saying tonight was gonna be 2 boring games with 2 easy wins for ess and carl<br><em>Cruise on</em>: Buddy 11 goals : Carlton football club 6. lol<br><em>D.Barwick</em>: blues peaked 6 weeks ago! back to winning wooden spoon in 2 or 3 years bye bye blues<br><em>MayhemFC2</em>: was it wet at football park?<br><em>Cruise on</em>: Its just a beautiful night for football. Petfect!<br><em>maluckyday</em>: totally agree Blueboys imma carlton supporter and i turned off the game to watch the dees hate essendon with the passion<br><em>chadwick</em>: Hartlett should be a def/mid<br><em>bluepoo</em>: flower this Carlton.  I'm gonna barrack for Gws from now on. This is shower<br><em>D.Barwick</em>: port would have to fav for flag after beating the blues!<br><em>glam77</em>: there it is! wish i could hit the beers now but gotta be up for work in 8 hours...<br>
+261892,Hamish,Hartlett,PA,44,133,153,171,101,136,16,10,4,9,0,1,1,3,1, Full Time,star,%P and %T with %M and %s including three goals from outside 50 that were of the highest quality,,
+271078,Matthew,Broadbent,PA,27,131,126,168,100,134,25,6,6,3,1,0,0,2,1, Full Time,hot,%P and %M plus %T and %s,,
+210020,Kane,Cornes,PA,30,117,120,151,90,124,15,13,7,6,0,0,0,0,1, Full Time,hot,%B among %P with %M and %T... also %s,,
+261911,Brad,Ebert,PA,44,117,94,160,77,111,12,8,3,14,0,0,0,0,0, Full Time,hot,%P and %M plus %T,,
+250063,Danyle,Pearce,PA,25,99,102,134,69,95,18,1,3,7,0,1,1,1,2, Full Time,news,%2 Simpson... %O and %T plus %s,,
+230195,Jay,Schulz,PA,21,84,127,105,70,84,10,3,7,2,0,1,0,3,0, Full Time,injured,First goal.... %s from %G and %P on Jamison... also %T... right hip injury in Q4,subbed,Subbed off in Q4 for Schulz
+1230242,Brett,Ebert,PA,20,80,94,104,62,85,12,6,4,4,0,0,1,1,1, Full Time,news,%s from %P and %M with %T,,
+240180,Troy,Chaplin,PA,13,77,123,100,62,81,13,5,8,1,0,0,0,0,0, Full Time,news,%O and %M,job,Standing Bower
+240385,Matt,Thomas,PA,20,77,110,94,66,87,5,14,4,4,0,3,1,1,0, Full Time,news,Again playing a forward role on Bootsma... %D and %M plus %T and %s,,
+260750,Justin,Westhoff,PA,21,77,70,100,57,76,8,6,3,6,0,1,0,1,1, Full Time,news,%P and %T on Watson,,
+260511,Darren,Pfeiffer,PA,9,67,79,89,51,66,10,3,6,3,0,1,0,0,0, Full Time,cash,%M and %D,job,Chasing Garlett
+280013,Jackson,Trengove,PA,12,67,65,85,56,69,11,5,7,0,0,3,0,0,0, Full Time,news,%M and %O,job,Walker is his man
+290277,Jarrad,Redden,PA,14,64,69,76,52,69,4,10,0,4,15,1,0,0,0, Full Time,cash,%H and %D,,
+290802,Ben,Jacobs,PA,8,64,49,83,52,72,12,6,5,1,0,0,1,0,0, Full Time,news,%D and %M,,
+250365,Travis,Boak,PA,8,63,70,81,49,69,10,8,2,3,0,2,1,0,0, Full Time,tagged,Tagged by Joseph... %P,,
+270779,Paul,Stewart,PA,14,63,55,78,52,73,7,10,2,3,0,0,1,1,1, Full Time,news,Matched up on Armfield... %O and %T plus %s,,
+291962,Chad,Wingard,PA,13,61,73,77,50,71,9,8,1,3,1,1,2,1,1, Full Time,news,%D and %T on Tuohy,,
+210043,Domenic,Cassisi,PA,4,51,70,69,37,54,10,3,2,3,0,0,1,0,0, Full Time,news,%2 McLean... %O and %T,,
+250308,Brent,Renouf,PA,8,49,55,57,42,49,5,1,1,1,24,0,0,0,1, Full Time,news,%H and %P,,
+250688,Alipate,Carlile,PA,7,40,55,54,29,42,5,4,1,4,0,1,1,0,0, Full Time,job,Standing the resting ruckman which is mostly Hampson... %P and %T,,
+240074,Jacob,Surjan,PA,2,29,30,38,23,30,4,2,3,1,0,0,0,0,0, Full Time,job,Has Betts... %P and %M,,
+280750,Andrew,Moore,PA,0,6,11,8,4,6,2,0,0,0,0,0,0,0,0, Full Time,in,%l John McCarthy... on in Q4 for Schulz,sub,Started as a sub
+261258,David,Ellard,CA,26,109,119,72,81,115,18,9,5,6,0,0,1,0,1, Full Time,hot,%D and %M with %T,,
+240028,Brock,McLean,CA,27,89,97,72,70,99,11,10,4,6,0,0,2,1,0, Full Time,news,%2 Cassisi... %D and %M plus %T and %s,,
+240014,Andrew,Walker,CA,48,86,80,82,60,85,8,8,0,10,0,2,1,1,1, Full Time,news,%s from %O on Trengove... also %T,,
+990059,Heath,Scotland,CA,14,85,84,54,65,93,14,10,3,4,0,1,1,0,0, Full Time,news,%O and %M plus %T,,
+290311,Mitch,Robinson,CA,19,84,91,74,61,87,9,10,3,7,0,0,0,0,0, Full Time,news,Started slowly... %B among %P with %M and %T... went forward in Q3,,
+296531,Joshua,Bootsma,CA,20,79,80,71,59,81,8,9,4,6,0,1,0,0,0, Full Time,cash,%P and %T,job,Manning up Thomas in defence
+250417,Bryce,Gibbs,CA,14,75,79,44,56,78,13,6,2,3,0,0,0,1,0, Full Time,news,%D and %T,,
+220056,Chris,Judd,CA,7,67,79,34,53,75,12,11,1,1,0,2,0,0,0, Full Time,news,%D,,
+260533,Dennis,Armfield,CA,10,65,49,50,48,66,9,5,4,4,0,0,0,0,0, Full Time,news,Matched up on Paul Stewart.... %P and %M,,
+290526,Matthew,Watson,CA,8,65,88,38,51,66,12,2,7,1,0,0,0,0,0, Full Time,in,%l Matthew Kreuzer... %P and %M,job,On Westhoff
+250672,Robert,Warnock,CA,26,63,102,58,56,63,3,2,0,2,42,0,0,0,0, Full Time,news,%H and %D,,
+292511,Zach,Tuohy,CA,5,61,70,40,47,63,10,4,5,2,0,0,0,0,0, Full Time,news,%M and %D,job,Minding Wingard
+270737,Shaun,Hampson,CA,11,58,50,43,51,62,7,2,4,1,14,0,1,1,0, Full Time,news,%P and %M mostly forward on Carlile... also %T,,
+270653,Jeff,Garlett,CA,14,53,67,47,37,48,6,1,2,5,0,1,0,1,0, Full Time,news,%s from %O and %T on Pfeiffer,,
+230202,Kade,Simpson,CA,3,52,58,24,37,52,11,3,1,2,0,1,0,0,1, Full Time,news,%2 Pearce... %O and %T,,
+240060,Eddie,Betts,CA,10,49,61,43,43,55,4,7,4,1,0,0,0,1,1, Full Time,news,%s from %P and %M on Surjan,,
+250211,Paul,Bower,CA,10,49,36,41,42,60,7,4,5,4,0,1,4,0,0, Full Time,switch,Started forward on Chaplin but switched back in Q3... %P and %M with %T... also %F,,
+261318,Aaron,Joseph,CA,8,43,47,34,33,51,6,6,1,4,0,0,2,0,0, Full Time,tagger,Tagging Boak... %D and %T,,
+271110,Chris,Yarran,CA,4,42,42,25,32,45,8,2,3,2,0,0,1,0,0, Full Time,switch,Started forward but that didn't work so he switched back in Q2... %P and %T,,
+260104,Andrew,Collins,CA,3,37,20,34,29,40,4,3,3,3,0,0,1,0,1, Full Time,news,On in Q3 for Curnow,sub,Started as a sub
+261043,Michael,Jamison,CA,3,35,48,37,29,39,2,6,2,3,0,2,1,0,0, Full Time,job,Standing Schulz.... %O,,
+270146,Ed,Curnow,CA,2,33,35,25,24,36,5,3,1,3,0,0,1,0,0, Full Time,news,%O and %T,subbed,Subbed off in Q3 for Collins

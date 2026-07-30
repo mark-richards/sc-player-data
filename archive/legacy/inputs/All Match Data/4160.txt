@@ -1,0 +1,48 @@
+Melbourne,Demons,Gold Coast,Suns,R19,16.12.108,9.12.66, Full Time
+Aug 5,2012,1:10,MCG,Fox Sports,270985,10341907,430167,0,A shower or two,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>moorey21</em>: If you still have Magner in your team&#044; you're the fool<br><em>motty823</em>: x factor magener<br><em>Hawkey86</em>: trollolol<br><em>coondambo</em>: wow i wonder who won the purple name game..<br><em>Dangeroo</em>: Woo purple name time!<br><em>Sloaneyyyy</em>: i have to laugh&#044; but u guys are dicks<br><em>Hawkey86</em>: well done mitsubishi magna<br><em>Scotti2Hot</em>: Magnnarr done well today...<br><em>Jormas</em>: how has magnet doen a good job. GAJ has got 16 touches after 1/2 time. and 65 DT points.<br><em>Turkies</em>: 3 votes for magnah<br><em>beamen</em>: blue moon for green<br><em>coondambo</em>: not bad from mganre<br>
+240037,Colin,Sylvia,ME,21,104,115,128,86,113,12,12,6,3,2,0,0,2,0, Full Time,hot,%D and %T with %M and %s,,
+261297,Jack,Grimes,ME,26,103,110,133,83,111,10,13,8,6,0,2,1,0,0, Full Time,hot,%2 Swallow... %O and %T,,
+200054,Brad,Green,ME,27,101,123,123,86,101,11,3,7,2,0,1,0,5,2, Full Time,star,%s from %D and %M on Hine,,
+291313,Jeremy,Howe,ME,21,99,95,125,81,105,14,9,8,2,0,1,0,1,0, Full Time,news,%O matched up on Russell... also %M and %T,,
+280579,Luke,Tapscott,ME,20,98,93,127,78,96,14,4,9,3,0,3,0,1,0, Full Time,news,%s from %O and %M,cannon,Started forward on McKenzie
+291533,Tom,McDonald,ME,15,96,121,126,71,99,15,8,5,5,0,0,0,0,0, Full Time,news,%D and %T with %M,job,Standing Lynch
+250222,Nathan,Jones,ME,19,93,124,117,75,108,12,17,2,5,0,3,2,0,0, Full Time,news,%2 Caddy... %D and %T... also %F,,
+250548,Lynden,Dunn,ME,19,89,122,116,70,96,13,9,6,4,0,1,1,0,0, Full Time,news,%P and %M with %T,job,Has Brennan
+280608,Jack,Trengove,ME,24,88,88,114,71,94,9,8,7,5,1,0,1,1,0, Full Time,news,%D and %T with %M and %s,harley,Head to head with Bennell
+250345,Rohan,Bail,ME,26,83,79,107,68,88,7,8,5,6,1,3,2,1,3, Full Time,news,%D and %T plus %M and %s on Harbrow,,
+280746,Sam,Blease,ME,19,79,74,98,66,80,11,4,6,1,0,2,0,2,2, Full Time,news,%s from %P and %M on Weller,,
+280521,Jake,Spencer,ME,17,75,77,89,66,78,3,6,5,3,21,0,0,1,0, Full Time,news,%H and %P plus %M and %T... also %s,,
+230151,Brent,Moloney,ME,8,73,88,91,60,85,13,11,3,1,0,1,1,0,1, Full Time,news,%D and %s,,
+230130,Joel,MacDonald,ME,9,62,82,79,51,72,9,9,4,2,0,0,1,0,0, Full Time,job,Minding Shaw... %D and %M,,
+250418,James,Sellar,ME,11,60,83,75,52,64,8,3,5,1,6,1,1,1,1, Full Time,news,First goal.. started forward on Dixon... %s from %P and %M... also %H,,
+270830,Colin,Garland,ME,9,59,70,80,45,66,8,6,3,5,0,0,2,0,0, Full Time,job,Brown is his man... %P and %M,,
+260288,James,Frawley,ME,8,58,65,75,50,69,10,7,5,1,0,1,2,0,0, Full Time,job,On Day... %P and %M... also %F,,
+280748,Jordan,Gysberts,ME,9,51,28,68,38,51,5,4,4,4,0,0,0,0,0, Full Time,news,%D and %M with %T,,
+230250,Jared,Rivers,ME,9,44,59,55,40,50,4,4,5,1,1,0,1,1,1, Full Time,news,%s from %G and %P on Warnock,,
+260176,James,Magner,ME,9,43,37,57,33,48,4,6,2,4,0,0,1,0,0, Full Time,in,%l Jordie McKenzie... on in Q2 for Morton and went to Ablett jnr... %O and %T... lower back knock in Q3,sub,Started as a sub
+270937,James,Strauss,ME,4,41,70,53,35,52,6,7,2,2,0,0,2,0,1, Full Time,job,Matera is his man... %O and %T plus %s,,
+270985,Cale,Morton,ME,0,9,12,12,6,9,3,0,0,0,0,0,0,0,0, Full Time,injured,Started on Ablett jnr but quickly burned off... %O... wrist knock in Q2,subbed,Subbed off in Q2 for Magner
+291594,Harley,Bennell,GC,43,156,193,108,129,172,21,17,7,4,1,0,1,4,0, Full Time,cherry,%2 Trengove... %D and %M plus %T and %s,,
+220001,Gary,Ablett jnr,GC,32,130,165,84,97,136,21,12,3,7,0,2,1,1,1, Full Time,magnet,Tagged by Morton to start but that did not last long... got Magner in Q2... %O including %K... also %T and %s,,
+293813,Thomas,Lynch,GC,20,89,90,65,73,93,12,6,8,2,3,0,0,1,0, Full Time,news,%P and %M on McDonald,,
+290790,Matthew,Shaw,GC,14,85,86,54,71,91,14,6,9,1,0,2,1,0,1, Full Time,news,Started forward on MacDonald... %s from %P and %M,,
+290817,Brandon,Matera,GC,14,78,75,62,58,76,10,5,4,5,0,2,0,0,4, Full Time,news,%s from %D on Strauss... also %M and %T,,
+230015,Jared,Brennan,GC,14,75,80,47,64,88,11,11,3,1,3,0,1,1,1, Full Time,news,%s from %D and %M on Dunn,,
+290832,David,Swallow,GC,13,75,88,48,57,84,12,11,1,4,0,1,1,0,0, Full Time,news,%2 Grimes... %O and %T,,
+290527,Trent,McKenzie,GC,10,70,75,66,58,75,6,8,8,3,0,0,0,0,0, Full Time,job,In defence on Tapscott... %P and %M with %T,,
+240254,Jarrod,Harbrow,GC,8,62,63,22,50,72,14,8,2,0,0,1,1,0,0, Full Time,job,Minding Bail... %D,,
+281025,Luke,Russell,GC,14,58,68,40,48,66,8,8,2,2,0,1,1,1,0, Full Time,news,Matched up on Howe... %P,,
+250260,Liam,Patrick,GC,5,56,41,41,46,61,8,5,5,2,0,1,1,0,1, Full Time,news,On in Q2 for Prestia... %O,sub,Started as a sub
+292512,Karmichael,Hunt,GC,20,56,72,67,42,63,2,10,1,8,0,1,2,0,0, Full Time,news,%O and %T... also %F,sore,Right wrist knock in Q1
+280711,Charlie,Dixon,GC,10,53,52,44,48,61,5,5,2,2,18,1,2,0,1, Full Time,job,Standing Sellar... %P and %M with %T... also %H,,
+290623,Josh,Caddy,GC,5,53,39,37,41,54,8,3,4,2,2,0,0,0,1, Full Time,news,%2 Jones... %P and %M plus %s,,
+240712,Michael,Rischitelli,GC,10,50,52,39,40,52,6,4,3,2,0,0,0,1,1, Full Time,sore,%D and %T with %M... moved to FF in Q2 after his left knee got sore for %s,,
+281024,Maverick,Weller,GC,8,50,49,35,43,60,7,8,4,1,0,0,1,0,0, Full Time,in,%l Danny Stanley... %O,job,Minding Blease
+220013,Campbell,Brown,GC,4,44,42,30,37,48,7,3,5,1,0,1,1,0,0, Full Time,news,%P and %M on Garland,,
+291753,Sam,Day,GC,4,43,39,38,37,49,4,7,3,2,1,2,1,0,0, Full Time,news,%P and %T,,
+280722,Zac,Smith,GC,2,23,34,21,24,31,1,6,1,0,7,1,1,0,0, Full Time,injured,%H and %P... left ankle knock in Q2 under a Grimes tackle and put in a moon boot before the game was done,,
+250716,Matthew,Warnock,GC,2,22,30,16,19,24,3,2,3,0,0,0,0,0,0, Full Time,job,Standing Rivers... %M and %O,,
+290627,Dion,Prestia,GC,1,21,33,21,18,24,1,5,1,1,0,1,0,0,0, Full Time,injured,%P.... picked up a hamstring injury in Q1,subbed,Subbed off at QT for Patrick
+290538,Taylor,Hine,GC,1,10,22,6,12,21,2,4,0,1,0,1,3,0,0, Full Time,job,On Green.... %P and %F,,

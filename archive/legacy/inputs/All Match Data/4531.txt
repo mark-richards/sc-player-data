@@ -1,0 +1,48 @@
+Carlton,Blues,St Kilda,Saints,R16,16.14.110,10.14.74, Full Time
+Jul 13,2013,7.40,Docklands,Seven,290422,10391605,carl-v-stk,0,Roof closed,15,,
+
+<em style='color:#000'>Hawks_13</em>: sam rowe for x factor<br><em style='color:#000' title="FLICKCLINT">flickclint</em>: Milne 3 votes<br><em style='color:#000'>Raveneyes</em>: Henderson star<br><em style='color:#000' title="MIJG">mijg</em>: Judd star<br><em style='color:#000' title="MIJG">mijg</em>: Judds SC gonna be huge<br><em style='color:#000'>J.Worrall</em>: agree - no star<br><em style='color:#000'>squeak123</em>: judd star<br><em style='color:#a0a'>Hank_Jones</em>: Simpson been clean in an untidy game. star.<br><em style='color:#000'>Hawks_13</em>: judd for star<br><em style='color:#000'>R.Griff</em>: Henderson<br><em style='color:#000'>WojakDaw</em>: Cachia Star<br><em style='color:#000'>Jormas</em>: milne star<br>
+280971,Jaryd,Cachia,CA,31,108,97,142,84,109,12,8,10,6,0,1,0,0,1, Full Time,hot,%P and %M plus %T,tagger,Tagging Dal Santo,311600,74,301400,82,Centre,37,9,67.9,62,2.15,1.47
+230202,Kade,Simpson,CA,19,106,119,136,85,114,19,9,9,1,0,0,0,0,0, Full Time,hot,%P and %M,,,394900,98,492000,127,Centre,6,14,77.6,87.1,0.72,0.77
+270326,Lachie,Henderson,CA,32,99,125,125,91,110,14,2,12,0,0,0,3,4,2, Full Time,x-factor,Started forward on Gwilt... %s from %P and %M... also %F,,,344200,78,420300,93,Back Forward,23,14,67.4,83.1,2.39,2.37
+220056,Chris,Judd,CA,20,98,137,123,78,103,18,8,5,1,0,2,0,1,1, Full Time,star,%O and %M plus %s,,,428700,90,511400,114,Centre,5,13,84.7,99.3,3.85,3.79
+261299,Matthew,Kreuzer,CA,24,96,107,110,86,102,4,10,4,3,33,1,0,1,0, Full Time,news,%H and %P with %T and %M... also %s,sore,Corked right thigh in Q3,430900,71,501100,61,Ruck,8,11,85.9,94.5,11.65,8.26
+260278,Sam,Rowe,CA,22,84,100,103,71,84,9,3,6,2,6,1,0,3,0, Full Time,news,Booted %s from %P and %G on Stanley,,,195600,46,229500,42,Forward Ruck,17,5,54,61.8,22.61,24.34
+240014,Andrew,Walker,CA,19,78,91,101,61,78,13,3,6,2,0,1,0,1,0, Full Time,news,%D and %M,job,Dennis-Lane is his man,389800,75,512600,132,Forward Centre,1,14,83.9,108.1,10.12,22.09
+250417,Bryce,Gibbs,CA,10,78,69,100,62,82,12,8,4,3,0,4,1,0,1, Full Time,news,%P and %M,,,477400,130,525200,143,Back Centre,4,11,95.9,102.1,41.37,41.23
+240028,Brock,McLean,CA,19,74,78,93,61,78,9,7,6,2,0,1,0,1,0, Full Time,news,%P and %M,,,447900,131,470700,109,Centre,14,14,87.8,91.1,0.49,0.47
+271110,Chris,Yarran,CA,14,71,52,96,53,69,10,2,7,4,0,0,0,0,0, Full Time,news,%O and %M on Roberton... also %T,,,227000,52,283200,68,Back,13,11,57.5,66.7,4.44,5.30
+270146,Ed,Curnow,CA,14,65,64,85,53,75,6,10,4,5,0,1,2,0,0, Full Time,news,%P and %M,tagger,Tagging Montagna,337700,70,360600,81,Centre,35,11,72.8,74.1,0.31,0.32
+291456,Andrew,McInnes,CA,13,65,81,85,53,72,10,6,6,2,0,0,1,0,0, Full Time,news,In defence... %M and %O,,,264700,,295600,,Back,26,1,61,57,0.12,0.14
+250105,Marc,Murphy,CA,15,64,75,76,58,78,8,12,4,0,0,1,1,1,0, Full Time,tagged,Tagged by Jones... %D and %M plus %s,sore,Left hamstring soreness in Q2,365600,145,425300,185,Centre,3,13,88.2,92.1,4.61,5.62
+281079,Kane,Lucas,CA,5,62,67,82,49,67,9,5,5,3,0,0,1,0,1, Full Time,news,%P and %M plus %T and %s,,,355800,25,354100,48,Centre,9,13,77.9,76.8,2.26,4.32
+290526,Matthew,Watson,CA,12,62,82,80,50,66,12,4,6,0,0,0,0,0,0, Full Time,job,On Lee... %M and %P,in,Late replacement for Mitch Robinson,258900,,343800,,Back,10,0,0,0,0.17,0.15
+990059,Heath,Scotland,CA,12,60,59,79,49,66,11,4,6,1,0,0,1,0,0, Full Time,news,%D and %M,,,348200,82,397300,91,Back Centre,29,11,77.1,82,6.18,5.00
+270653,Jeff,Garlett,CA,14,56,66,70,43,52,7,0,1,3,0,1,0,3,1, Full Time,news,%s from %P on Geary,,,279700,105,310000,109,Forward,38,14,74,83,3.37,3.09
+292511,Zach,Tuohy,CA,9,48,61,62,35,48,7,3,1,3,0,0,0,1,0, Full Time,job,Responsible for Milne... %P and %T... also %s,,,259200,75,320300,80,Back,42,14,51.4,64,1.84,2.12
+260533,Dennis,Armfield,CA,7,43,45,58,36,54,11,4,2,1,0,1,3,0,0, Full Time,tagger,Tagging Steven... %D... also %F,,,263300,68,288500,85,Forward Centre,27,14,55.9,60.1,2.03,2.08
+240060,Eddie,Betts,CA,4,40,33,51,35,46,7,4,4,0,0,1,1,0,1, Full Time,news,On in Q3 for Carrazzo,sub,Started as a sub,265800,119,341000,123,Forward,19,8,53.6,65.4,1.77,1.51
+261043,Michael,Jamison,CA,3,30,48,40,28,39,4,4,4,1,0,0,2,0,0, Full Time,news,%D and %M,job,Following Riewoldt,211700,42,297200,36,Back,40,14,50.4,67.9,1.21,1.50
+220015,Andrew,Carrazzo,CA,2,19,22,26,18,27,5,2,2,0,0,0,2,0,0, Full Time,news,%D.... %F as well,subbed,Subbed off in Q3 for Betts,379900,70,428800,68,Centre,44,6,71.2,78.3,0.56,0.60
+250340,David,Armitage,SK,32,109,131,78,80,112,17,8,4,8,0,3,2,0,1, Full Time,hot,%O and %T,,,419800,79,457700,99,Centre,20,13,90.2,93.9,0.73,1.06
+210001,Nick,Riewoldt,SK,25,96,88,71,79,97,13,4,10,2,0,1,0,1,4, Full Time,heart,Booted %s from %P and %G on Jamison... left knee knock in Q1,,,463200,96,480500,111,Forward,12,13,102.7,105.9,13.60,8.16
+990028,Lenny,Hayes,SK,19,95,96,65,75,106,14,14,2,5,1,4,2,0,0, Full Time,news,%D and %T with %M,,,441200,134,467000,149,Centre,7,7,88.4,88.7,0.65,0.75
+240062,Farren,Ray,SK,14,85,83,41,68,95,17,8,5,1,1,0,1,0,1, Full Time,news,%D and %M plus %s,,,386800,99,432300,135,Centre,22,11,79.5,75.5,0.39,0.40
+270912,Jack,Steven,SK,25,83,127,53,61,90,14,8,0,6,0,1,2,1,0, Full Time,tagged,Tagged by Armfield... %K among %D with %T and %s,sore,Hip pointer in Q3,432600,95,508600,107,Centre,3,14,92.8,102,1.45,1.58
+250703,James,Gwilt,SK,14,80,86,53,68,87,12,8,9,0,0,1,0,0,0, Full Time,news,%O and %M,job,Has Henderson,265000,74,356300,108,Back,33,9,59.4,76.6,1.75,2.02
+280933,Dylan,Roberton,SK,13,80,82,59,70,96,10,14,7,1,0,0,1,0,0, Full Time,job,Yarran is his man... %D and %M,,,268900,78,320300,90,Back,17,14,66.8,78.2,3.48,5.02
+261323,Ben,McEvoy,SK,16,76,78,79,62,74,4,3,5,5,23,0,0,0,0, Full Time,news,%H and %D plus %M,,,323800,33,445300,48,Ruck,5,14,79.1,100.4,3.53,5.82
+290422,Tom,Lee,SK,17,76,89,64,65,78,7,5,5,2,0,1,0,3,3, Full Time,news,Kicked %s from %P and %M on Watson,,,134400,-4,147300,7,Forward,9,3,44,47.7,10.24,12.65
+260113,Jarryn,Geary,SK,14,73,77,55,56,75,11,3,7,4,0,0,1,0,0, Full Time,sore,%P and %M... right knee ran into McLean at full speed in Q1 causing a hyperextension,job,Chasing Garlett,309800,60,358900,75,Back,14,14,65.4,75.6,2.59,2.63
+261743,Clinton,Jones,SK,15,70,83,41,57,81,11,10,0,2,0,0,1,2,0, Full Time,tagger,Tagging Murphy... %P and %T plus %s,,,353100,44,361000,61,Centre,4,11,78.6,81.9,0.29,0.35
+220023,Nick,Dal Santo,SK,9,69,94,47,53,76,10,10,2,3,1,0,0,0,0, Full Time,tagged,Tagged by Cachia.. %O and %M,,,415100,67,493800,88,Centre,26,14,84.6,90.2,1.90,2.23
+230243,Sean,Dempster,SK,9,68,94,52,55,75,9,8,5,3,0,1,1,0,0, Full Time,news,%D and %M,,,290000,105,349400,112,Back,24,11,58.9,64.5,0.58,0.58
+220075,Leigh,Montagna,SK,7,64,77,19,50,72,16,6,1,1,0,3,2,0,0, Full Time,tagged,Tagged by Curnow... %O,,,522700,143,544300,151,Centre,11,13,107.7,108.5,2.96,1.27
+294266,Tom,Hickey,SK,13,64,55,55,59,74,5,10,6,0,9,0,0,0,2, Full Time,news,%P and %M plus %s... also %H,,,244000,88,272400,81,Ruck,1,6,46,51.2,0.99,0.91
+200108,Stephen,Milne,SK,10,58,59,33,46,55,10,0,3,1,0,2,0,2,1, Full Time,news,%D and %M on Tuohy,,,265100,26,294800,31,Forward,44,10,53.8,57.7,0.92,1.15
+291773,Jack,Newnes,SK,8,52,53,37,45,63,7,9,4,1,0,0,1,0,0, Full Time,news,%P and %M,,,305400,55,340900,67,Centre,16,12,57,60.3,0.55,0.42
+280317,Rhys,Stanley,SK,11,51,53,31,45,55,8,2,4,0,7,1,1,1,0, Full Time,switch,In defence on Rowe but switched forward in Q3... %s from %D and %M,,,227700,60,265500,63,Forward,28,14,50.1,61.4,1.05,0.74
+295095,Brodie,Murdoch,SK,3,33,26,30,26,36,3,5,2,2,0,0,0,0,0, Full Time,news,%O and %M,,,173000,-23,187900,-12,Forward,30,5,44.4,44.4,2.19,1.54
+295477,Josh,Saunders,SK,3,33,34,31,26,34,3,3,3,2,0,0,0,0,1, Full Time,news,%s from %O and %M,subbed,Subbed off in Q3 for Milera,136100,7,134400,-11,Back Centre,35,4,40,35.8,3.26,3.17
+270766,Terry,Milera,SK,7,32,27,32,21,30,3,2,1,4,0,0,0,0,0, Full Time,news,On in Q3 for Saunders,sub,Started as a sub,252000,118,290100,120,Forward,32,9,51.8,55,0.34,0.36
+270570,Trent,Dennis-Lane,SK,2,22,30,21,18,27,2,4,1,2,0,0,1,0,0, Full Time,news,%O and %T on Walker,,,287300,47,303100,48,Forward,8,7,56.1,55.7,0.43,0.86

@@ -1,0 +1,60 @@
+Western Sydney,Giants,Gold Coast,Suns,W3,11.18.84,9.21.75, Full Time
+Mar 10,2012,5.30,Albury,,,10330306,,33,Sunny,27,,
+
+<em>GoldDigger</em>: s<br><em>demons13</em>: cornes 130sc!<br><em>Pendlez10</em>: @ KingPetrie ... North for flag yeah??<br><em>nibbb</em>: yeh caddy looks the goods<br><em>SaintsRGod</em>: josh caddy has smashed it<br><em>KingPetrie</em>: arch - i think pies have it in the bag<br><em>pavs nose</em>: palmers last high score was when he killed barlows leg<br><em>DirtyDawn</em>: all good @whatlez1<br><em>MatDark</em>: Even though it wasn't AFL&#044; miles last year averaged around the ton<br><em>Arch</em>: Blues wooden spoon in NAB Cup ha ha ha<br><em>pavs nose</em>: z smith next year dannoaus<br><em>brent_bren</em>: summer??<br>
+261231,Rhys,Palmer,WS,37,118,-,153,89,116,11,8,6,9,0,1,0,2,2, Full Time,hot,%P and %T plus %M and %s,,,93
+280109,Callan,Ward,WS,19,101,-,134,76,104,19,5,6,4,1,1,1,0,1, Full Time,hot,%D and %M plus %T and %s,,,89
+290671,Anthony,Miles,WS,19,99,-,128,79,102,20,4,7,1,0,3,1,1,0, Full Time,news,%K among %O with %M and %s,,,82
+9,Liam,Sumner,WS,21,86,-,111,73,93,13,4,8,2,0,1,2,2,0, Full Time,news,%P and %M plus %T and %s,,,84
+980059,Chad,Cornes,WS,24,84,-,108,71,94,9,9,7,4,1,1,2,1,0, Full Time,news,%P and %T with %M... also %F,,,90
+10,Toby,Greene,WS,15,82,-,102,67,88,15,6,3,1,0,2,1,2,1, Full Time,news,%s from %D and %M,,,90
+260290,Stephen,Clifton,WS,26,82,-,109,63,88,7,10,4,8,0,2,2,0,1, Full Time,news,%P and %T with %M,,,86
+15,Israel,Folau,WS,9,62,-,82,49,68,7,7,3,5,2,2,2,0,0, Full Time,tonga,%D and %T,,,90
+261374,Sam,Reid,WS,8,57,-,74,40,55,9,5,0,4,0,3,0,0,1, Full Time,news,%D and %T plus %s,,,96
+17,Tim,Mohr,WS,12,55,-,71,49,66,10,6,6,0,0,1,2,0,0, Full Time,news,%M and %O,,,98
+26,Adam,Kennedy,WS,4,55,-,69,45,57,8,6,4,1,0,3,0,0,0, Full Time,news,%P and %M,subbed,Subbed off at 3QT,66
+280804,Phil,Davis,WS,4,51,-,67,40,51,11,1,5,0,0,1,0,0,0, Full Time,news,%P with %k by foot... also %M,subbed,Subbed off at HT,47
+290306,Curtly,Hampton,WS,8,50,-,63,40,55,10,4,1,1,0,1,1,1,1, Full Time,news,%s from %O,,,87
+291802,Tomas,Bugg,WS,14,49,-,62,41,60,4,9,1,4,0,0,2,1,0, Full Time,news,%B among %D with %T and %s,,,91
+3,Dom,Tyson,WS,4,49,-,63,38,51,5,6,3,3,0,1,0,0,0, Full Time,news,%O and %M with %T,subbed,Subbed off at HT,44
+8,Adam,Tomlinson,WS,4,45,-,57,37,48,6,5,4,1,0,1,0,0,0, Full Time,news,On in Q3... %O and %M,sub,Started as a sub,50
+293845,Jeremy,Cameron,WS,13,39,-,52,39,49,6,1,7,0,0,0,3,1,1, Full Time,news,%s from %P and %M,subbed,Subbed off at HT,47
+4,Will,Hoskin-Elliott,WS,3,37,-,46,30,42,5,6,2,1,0,0,0,0,0, Full Time,news,His price will scare most away but he's quality... %O and %M,subbed,Subbed off at HT,44
+970130,James,McDonald,WS,3,36,-,47,30,42,4,5,3,2,0,0,1,0,0, Full Time,news,Accumulating his way into a lot of fantasy sides... %D and %M with %T,subbed,Subbed off at HT,41
+12,Sam,Frost,WS,2,31,-,40,26,36,5,4,2,1,0,1,1,0,0, Full Time,news,%D and %M,,,88
+290673,Sam,Schulz,WS,2,27,-,30,25,36,2,9,1,0,0,0,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,45
+291928,Gerald,Ugle,WS,2,27,-,35,21,33,4,5,0,2,0,0,1,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,47
+24,Shaun,Edwards,WS,2,18,-,25,15,21,5,0,2,0,0,0,1,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,47
+261841,Jonathan,Giles,WS,1,10,-,11,11,14,1,1,0,0,8,0,1,0,0, Full Time,news,On in Q4... %H and %P,sub,Started as a sub,25
+30,Mark,Whiley,WS,0,4,-,5,5,9,1,2,0,0,0,0,1,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,51
+25,Tim,Golds,WS,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+28,Tim,Segrave,WS,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+291891,Jacob,Townsend,WS,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+230015,Jared,Brennan,GC,14,92,-,121,70,90,16,4,7,3,0,3,0,0,0, Full Time,news,%P with %k by foot... also %M,,,100
+290832,David,Swallow,GC,20,91,-,112,76,102,15,12,4,1,0,3,1,1,0, Full Time,news,First goal... %D and %M plus %s,,,70
+220009,Nathan,Bock,GC,24,85,-,116,64,88,13,4,6,6,0,1,2,0,1, Full Time,news,%P and %M with %T and %s,,,100
+280722,Zac,Smith,GC,13,70,-,85,62,73,8,4,3,2,10,5,2,2,0, Full Time,news,%H and %P plus %T and %M... also %s,,,100
+290623,Josh,Caddy,GC,15,60,-,79,45,57,5,3,4,5,0,1,0,1,0, Full Time,news,On in Q3... %D and %T,sub,Started as a sub,43
+290627,Dion,Prestia,GC,13,58,-,76,44,63,8,7,2,4,0,1,1,0,0, Full Time,news,%P and %T with %M,,,74
+294266,Tom,Hickey,GC,11,55,-,67,47,56,4,4,4,2,7,1,0,1,1, Full Time,news,On in Q3... %O and %T with %M and %s,sub,Started as a sub,51
+292512,Karmichael,Hunt,GC,8,54,-,66,46,63,4,12,2,3,0,3,1,0,0, Full Time,tonga,%B among %D with %T and %M,subbed,Subbed off at 3QT,70
+281024,Maverick,Weller,GC,4,51,-,65,42,60,5,9,3,3,0,0,1,0,0, Full Time,news,%P with %b by hand... also %M and %T,subbed,Subbed off at 3QT,71
+220013,Campbell,Brown,GC,15,49,-,61,45,57,6,3,2,2,0,2,3,3,0, Full Time,news,%s from %O and %T with %M,,,97
+290790,Matthew,Shaw,GC,7,48,-,58,40,55,6,9,2,1,1,1,0,0,0, Full Time,news,%O,,,64
+293223,Seb,Tape,GC,4,48,-,62,40,57,6,8,2,3,0,2,2,0,0, Full Time,news,%M and %O,,,100
+240254,Jarrod,Harbrow,GC,3,42,-,52,34,48,6,7,2,1,0,0,0,0,0, Full Time,news,%D and %M,subbed,Subbed off at HT,49
+293795,Jeremy,Taylor,GC,4,38,-,49,31,45,5,6,2,2,0,0,1,0,0, Full Time,news,%P and %M,,,100
+240012,Andrew,McQualter,GC,3,37,-,47,32,45,5,6,3,1,0,0,1,0,0, Full Time,news,%P and %M,,,93
+280711,Charlie,Dixon,GC,3,34,-,41,27,34,1,5,0,3,7,2,0,0,0, Full Time,news,%P and %T...also %H,subbed,Subbed off at HT,49
+291304,Daniel,Gorringe,GC,2,34,-,43,28,38,6,2,1,1,7,0,1,0,1, Full Time,news,%D and %H plus %s,,,100
+294643,Alex,Sexton,GC,8,33,-,41,27,33,6,1,2,0,0,1,0,1,0, Full Time,news,On in Q3... %O,sub,Started as a sub,51
+281076,Hayden,Jolly,GC,2,31,-,37,26,37,3,7,1,1,0,0,0,0,1, Full Time,news,%P and %s,,,54
+250260,Liam,Patrick,GC,2,28,-,38,19,27,3,2,1,3,0,0,0,0,0, Full Time,news,On in Q3... %P and %T,sub,Started as a sub,51
+281025,Luke,Russell,GC,2,26,-,36,20,29,6,1,0,2,0,2,2,0,2, Full Time,news,%s from %P and %T,,,66
+290520,Alik,Magin,GC,2,23,-,32,16,24,3,2,0,3,0,1,1,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,33
+290759,Jacob,Gillbee,GC,2,22,-,28,16,21,2,3,0,2,0,2,0,0,0, Full Time,news,On in Q3... %D and %T,sub,Started as a sub,51
+240316,Sam,Iles,GC,1,19,-,24,15,21,2,3,1,1,0,0,0,0,0, Full Time,news,Spent Q1 as a sub... %P,subbed,Subbed off at HT,39
+240712,Michael,Rischitelli,GC,0,10,-,12,8,12,2,2,0,0,0,0,0,0,0, Full Time,news,Spent Q1 as a sub... %D,subbed,Subbed off at HT,38
+290792,Piers,Flanagan,GC,0,2,-,3,3,6,1,1,0,0,0,0,1,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,37
+109,Jaeger,O'Meara,GC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+291942,Jackson,Allen,GC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

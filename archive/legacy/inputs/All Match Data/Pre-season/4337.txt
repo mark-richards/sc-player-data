@@ -1,0 +1,52 @@
+Carlton,Blues,Brisbane,Lions,GF,2.7.9.69,0.16.13.109, Full Time
+Mar 15,2013,7.45,Docklands,Seven,,10380402,,0,Fine,22,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>DuhWinning</em>: SC scores<br><em>bebobagger</em>: commentators love brisbane<br><em>korza</em>: Rockliff is now a unique pick&#044; thx to Zorko and Karnezis<br><em>J.Worrall</em>: Sad night for the Sams ...<br><em>J.Worrall</em>: Zorko pulling junk time too - gotta love that!<br><em>circle52</em>: Zorko for Tuck Medal<br><em>creeker</em>: Rockliff + Karnezis<br><em>Grazz</em>: Same creeker ahve afew lions<br><em>circle52</em>: Yea J Woreel 11 touches 5 goals<br><em>Dt God</em>: hu the other 2 @creeker<br><em>J.Worrall</em>: JBrown a bag<br><em>Grazz</em>: With some Ringo but. matuer age&#044; not him a gun. Get some Zork on your fork.<br>
+250417,Bryce,Gibbs,CA,21,107,114,143,77,106,18,6,4,7,0,3,1,0,1, Full Time,hot,Started forward but quickly up to midfield... %P and %T with %M plus a supergoal,,
+261299,Matthew,Kreuzer,CA,34,104,104,124,89,106,5,8,3,6,34,3,1,1,0, Full Time,hot,%H and %P with %T and %s,,
+230202,Kade,Simpson,CA,15,102,80,131,80,112,22,9,5,1,0,1,1,0,1, Full Time,hot,%2 Karnezis on a wing... %K among %D... also %s,,
+281079,Kane,Lucas,CA,19,101,106,125,87,123,16,18,6,1,0,1,2,0,0, Full Time,hot,%O and %M... also %F,,
+271110,Chris,Yarran,CA,14,92,89,121,66,90,16,6,3,5,0,3,0,0,0, Full Time,job,Responsible for Green... %P and %M with %T,,
+290311,Mitch,Robinson,CA,20,88,76,113,67,88,13,6,4,4,0,2,0,1,1, Full Time,news,First goal... %s from %D and %M mostly forward on Yeo,,
+220015,Andrew,Carrazzo,CA,9,70,71,86,58,81,10,12,4,1,0,0,0,0,0, Full Time,tagger,Tagging Rich... %P and %M,,
+261009,Nick,Duigan,CA,14,65,76,83,52,72,9,7,3,3,0,0,1,1,0, Full Time,job,Chasing Bewick... %P and %s,,
+240028,Brock,McLean,CA,14,64,64,86,51,72,9,6,5,4,0,0,2,0,0, Full Time,news,%2 Moloney... %P and %T... also %F,,
+250105,Marc,Murphy,CA,8,58,63,72,48,70,8,11,2,2,0,0,1,0,1, Full Time,news,%2 Redden... %P including %b by hand... also %T and %M plus %s,,
+260533,Dennis,Armfield,CA,8,54,39,72,36,48,8,3,0,5,0,4,0,0,0, Full Time,news,%D and %T,,
+261043,Michael,Jamison,CA,14,54,68,74,39,54,5,4,3,6,0,1,1,0,0, Full Time,job,Has Brown... %D and %T,,
+296531,Josh,Bootsma,CA,14,49,47,67,33,51,6,5,0,6,0,0,1,0,0, Full Time,job,Standing Cornelius... %P and %T,,
+270737,Shaun,Hampson,CA,8,46,55,50,45,53,3,8,1,0,16,4,1,0,1, Full Time,goose,%s from %P on Maguire... also %H,,
+220056,Chris,Judd,CA,7,45,56,56,36,54,5,10,0,3,0,1,1,0,0, Full Time,news,Started on the bench... %O including %B with %T,subbed,Subbed off in Q4 for Curnow
+281124,Levi,Casboult,CA,9,38,33,48,32,39,4,2,4,1,0,0,0,1,0, Full Time,news,Kicked %s from %P and %M on Merrett... donuts in Q1,,
+240014,Andrew,Walker,CA,1,36,33,46,27,34,7,2,1,1,0,3,0,0,1, Full Time,news,Donuts in Q1... Patfull on him... %s from %D,subbed,Subbed off in Q4 for Joseph
+240060,Eddie,Betts,CA,7,28,36,33,26,36,4,5,1,0,0,0,1,1,0, Full Time,news,Started in midfield... %s from %D on Golby,,
+260278,Sam,Rowe,CA,7,28,28,35,24,28,4,0,3,0,1,0,0,1,0, Full Time,news,On in Q3 for White... %s from %P and %M,sub,Started as a sub
+270326,Lachie,Henderson,CA,2,28,54,37,24,33,6,2,3,0,0,0,1,0,0, Full Time,job,Standing Martin... %P and %M,,
+292511,Zach,Tuohy,CA,2,25,49,33,21,27,6,1,2,0,0,2,1,0,0, Full Time,job,Minding McGrath... %P.... also a supergoal,,
+261318,Aaron,Joseph,CA,2,23,10,30,18,24,3,2,2,1,0,0,0,0,0, Full Time,news,On in Q4 for Walker... %P,sub,Started as a sub
+270637,Simon,White,CA,7,19,34,21,17,21,2,3,0,0,0,1,0,1,0, Full Time,news,Interesting role up forward... %s from %P,subbed,Subbed off in Q3 for Rowe
+270146,Ed,Curnow,CA,1,16,11,20,12,18,2,3,0,1,0,0,0,0,0, Full Time,news,On in Q4 for Judd... %D,sub,Started as a sub
+261224,Dayne,Zorko,BL,32,127,109,88,100,131,19,7,8,5,1,1,1,2,1, Full Time,hot,%D and %M plus %s,,
+270512,Pearce,Hanley,BL,19,104,116,56,83,114,19,11,7,1,0,0,0,0,0, Full Time,hot,Drifting back from a wing as usual... %P and %M,,
+240087,Jed,Adcock,BL,14,93,97,54,72,99,17,7,6,3,0,1,1,0,0, Full Time,news,%K among %D plus %M,,
+281329,Rohan,Bewick,BL,20,93,60,67,74,96,13,7,7,3,0,1,0,1,0, Full Time,news,%D and %T on Duigan,,
+270919,Tom,Rockliff,BL,20,88,85,73,68,99,10,14,3,6,0,0,1,0,0, Full Time,news,%D and %T,,
+271072,Daniel,Rich,BL,15,82,97,54,66,92,12,11,2,3,0,1,1,1,2, Full Time,medal,%P and %T plus %M and %s... won the Michael Tuck medal,carrot,Tagged by Carrazzo
+290808,Patrick,Karnezis,BL,16,81,94,56,67,93,12,9,5,3,0,0,2,1,0, Full Time,news,%2 Simpson on a wing... %D and %M with %T... also %F and %s,subbed,Subbed off in Q3 for Raines
+290748,Josh,Green,BL,21,76,69,62,64,78,8,4,6,2,0,0,0,3,0, Full Time,news,%s from %O and %M on Yarran,,
+200007,Jonathan,Brown,BL,22,72,80,52,66,76,8,3,4,0,0,2,1,5,1, Full Time,target,%s from %G and %P on Jamison,,
+230151,Brent,Moloney,BL,10,72,62,45,62,90,12,11,5,2,0,0,3,0,0, Full Time,news,%2 McLean... %O and %M... also %F,,
+291828,Billy,Longer,BL,15,68,58,64,55,68,5,5,1,5,20,3,1,0,0, Full Time,news,%H and %P with %T,sore,Smashed in the torso in a marking contest with White in Q3
+292128,Elliot,Yeo,BL,10,68,57,53,52,72,10,4,5,5,0,1,2,0,0, Full Time,job,Responsible for Robinson... %D and %M with %T,sore,Copped the knee of Rowe to his ribs in a marking contest in Q3
+280763,Stefan,Martin,BL,10,64,49,45,60,79,8,10,5,0,10,1,2,0,0, Full Time,news,%P and %M on Henderson... also %H and %F,,
+260975,James,Polkinghorne,BL,13,58,68,42,51,69,7,10,3,1,0,1,1,1,0, Full Time,news,Started in a forward role... %s from %P,,
+281373,Jack,Redden,BL,18,57,79,48,47,69,6,10,1,4,0,0,2,1,0, Full Time,news,%2 Murphy... %O and %T,,
+290110,Mitch,Golby,BL,4,49,49,37,36,48,7,3,3,3,0,1,0,0,0, Full Time,mrp,Chasing Betts... %O and %M with %T... a roundarm on Murphy off the ball in Q3 will be looked at... not much in it,subbed,Subbed off in Q4 for Docherty
+220062,Matt,Maguire,BL,8,47,62,20,42,63,11,5,4,1,0,0,4,0,0, Full Time,job,On Hampson... %M and %O... also %F,,
+230170,Joel,Patfull,BL,4,44,58,27,39,54,7,7,4,0,0,0,1,0,0, Full Time,job,On a HBF minding Walker... %P and %M,sore,Right knee knock early in Q3
+210013,Ashley,McGrath,BL,8,40,41,25,36,46,6,3,3,0,0,0,1,1,4, Full Time,news,%s from %D on Tuohy as a small forward again,,
+230147,Daniel,Merrett,BL,7,38,56,25,35,48,7,2,6,1,0,0,3,0,0, Full Time,rock,Standing Casboult.. %M and %P... also %F,,
+292035,Claye,Beams,BL,4,38,27,21,33,43,7,3,4,0,0,1,1,0,1, Full Time,news,On in Q3 for Cornelius... %D and %M plus %s,sub,Started as a sub
+240013,Andrew,Raines,BL,2,28,15,24,23,33,3,5,1,2,0,1,1,0,0, Full Time,news,On in Q3 for Karnezis... %O,sub,Started as a sub
+261391,Aaron,Cornelius,BL,0,11,1,2,8,10,3,0,0,0,1,1,0,0,0, Full Time,news,Bootsma on him... one touch to half time... %D,subbed,Subbed off for Beams in Q3
+295518,Sam,Docherty,BL,0,6,5,6,6,9,0,3,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Golby... %D,sub,Started as a sub

@@ -1,0 +1,48 @@
+St Kilda,Saints,Essendon,Bombers,R4,13.13.91,19.14.128, Full Time
+Apr 20,2013,4.40,Docklands,Seven,261320,10390404,stk-v-ess,0,Roof closed,19,,
+
+<em>Bluffie</em>: jobe on the other had with 9 more possesions with 81% eff<br><em>Bluffie</em>: 64% efficient&#044; not very high<br><em>Breezey</em>: Very emotional Goddard. Never liked him but I'll tip my hat there. Good on ya Brendan. Well done<br><em>whichie</em>: monty why no icon watson? you a hater?<br><em>jesseboy</em>: hibberds sc is bullshower<br><em>Fan_Booty</em>: who gets the 3&#044; 2 and 1 votes?<br><em>linusp</em>: stants with only 114 sc?? thought he was very efficient.<br><em>Sloaneyyyy</em>: geez&#044; how did Goddard NOT ton up???<br><em>old_shepp</em>: Jobe dezza33 - he will scale up past 140 surely<br><em>matthius</em>: stick with jobe dezza. not sure about abletts hand. <br><em>masterhc2</em>: surely watson or goddard have to get the gun instead of heppell<br><em>W.Mantooth</em>: @Demon15... hes on 93... quit your gibber jabber<br>
+261743,Clinton,Jones,SK,21,112,110,139,93,126,13,18,8,3,0,1,0,0,0, Full Time,hot,%P and %T plus %M,tagger,Tagging Watson when Jobe is in midfield,396100,71,433100,67,Centre,4
+220075,Leigh,Montagna,SK,15,99,114,126,76,105,19,10,4,2,0,2,0,0,0, Full Time,news,%D and %T,,,498100,80,530700,115,Centre,11
+261323,Ben,McEvoy,SK,25,98,109,116,89,105,5,11,7,3,27,4,1,0,0, Full Time,news,%H and %D with %M and %T,,,454700,65,574100,71,Ruck,5
+210001,Nick,Riewoldt,SK,27,93,88,121,75,91,12,0,8,4,0,1,1,3,1, Full Time,news,Carlisle on him... %P and %T with %M,,,453500,61,525600,79,Forward,12
+250340,David,Armitage,SK,31,90,78,123,68,97,14,5,3,8,0,2,4,1,1, Full Time,news,%P and %T with %M... also %s and %F,,,481600,74,501700,43,Centre,20
+220023,Nick,Dal Santo,SK,14,87,70,111,68,97,11,13,3,5,0,1,1,0,1, Full Time,tagged,Tagged by Hocking... %P and %M,,,465900,121,523900,120,Centre,26
+990028,Lenny,Hayes,SK,20,84,71,111,70,102,14,11,5,4,0,1,4,0,0, Full Time,news,%O and %M with %T... also %F,,,481600,119,528400,143,Centre,7
+240708,Sam,Fisher,SK,14,75,88,97,65,87,12,8,8,1,0,1,2,0,0, Full Time,news,%O and %M,job,On Hurley,370900,109,444100,132,Back,25
+270912,Jack,Steven,SK,15,74,99,92,60,85,10,11,2,3,0,0,1,1,1, Full Time,news,%2 Heppell... %D including %B with %T and %M,,,446200,70,483200,86,Centre,3
+240062,Farren,Ray,SK,9,70,33,93,54,70,12,2,7,2,0,0,0,0,1, Full Time,news,%P and %M plus %s,tagger,Tagging Stanton,342800,41,368700,73,Centre,22
+280933,Dylan,Roberton,SK,9,64,88,81,54,75,8,10,5,2,0,0,1,0,0, Full Time,news,%O and %T,job,On Merrett,265600,-8,312800,-22,Back,17
+294818,Ahmed,Saad,SK,15,58,52,75,45,59,5,3,2,5,0,0,1,2,2, Full Time,egypt,%s from %P on Hibberd.. also %T,,,261200,52,317500,49,Forward,21
+250134,Sam,Gilbert,SK,14,57,61,71,44,58,5,7,1,4,1,2,0,1,0, Full Time,job,In defence on Watson... %O and %T,,,346700,55,400300,45,Back,19
+270570,Trent,Dennis-Lane,SK,21,56,58,73,47,63,3,6,2,6,0,2,3,2,0, Full Time,in,%l Thomas Lee... %P and %T on Dempsey,,,220200,,208000,,Forward,8
+260113,Jarryn,Geary,SK,8,53,75,67,46,63,9,7,5,0,0,0,1,0,0, Full Time,news,%O and %M,,,349000,86,425700,91,Back,14
+200108,Stephen,Milne,SK,9,41,48,54,33,47,8,2,1,2,0,0,2,1,2, Full Time,news,Baguley sitting on him... %O,,,331600,89,346900,98,Forward,44
+250036,Beau,Maister,SK,9,38,40,48,37,45,7,0,3,0,2,2,3,2,1, Full Time,news,Booted %s from %G and %P on Hooker... also %F,,,290200,48,283700,56,Back Forward,37
+270766,Terry,Milera,SK,1,26,17,33,19,28,5,3,0,1,0,0,0,0,1, Full Time,news,%s from %D on Myers,subbed,Subbed off in Q3 for Ross,314600,64,341100,72,Forward,32
+280317,Rhys,Stanley,SK,1,22,54,29,18,24,4,1,1,1,3,1,1,0,0, Full Time,news,In defence... %O,,,327800,58,373400,33,Ruck,28
+293846,Sebastian,Ross,SK,2,21,14,26,18,24,3,3,2,0,0,0,0,0,0, Full Time,in,%l Arryn Siposs.. on in Q3 for Milera,sub,Started as a sub,144300,,175500,,Centre,6
+294317,Nathan,Wright,SK,1,18,15,21,15,21,3,4,0,0,0,1,0,0,0, Full Time,bubble,Second game... donuts in Q1... %D,job,Chasing Davey,102700,,109500,,Back,34
+280053,Tom,Simpkin,SK,1,16,29,21,15,24,3,4,0,1,0,1,2,0,0, Full Time,gumby,Following Gumbleton... %D,,,254100,,298800,,Back,31
+240027,Brent,Stanton,ES,31,130,117,80,98,129,22,6,6,5,0,2,0,2,0, Full Time,cherry,Tagged by Ray... %O and %T plus %M and %s,,,566800,84,565300,108,Centre,5
+290160,Michael,Hibberd,ES,20,113,109,70,89,115,20,4,11,3,0,2,1,0,1, Full Time,star,The best four quarter performance for Essendon on this night... %P and %M with %T,job,Saad is his man,358000,40,417600,53,Back,1
+250366,Scott,Gumbleton,ES,32,112,103,88,100,116,12,6,12,0,0,2,0,4,2, Full Time,bluemoon,%s from %P and %M on Simpkin including three majors in Q3,in,Late replacement for Stewart Crameri,249600,,306800,,Forward,3
+230231,Jobe,Watson,ES,26,107,138,66,94,133,15,22,2,1,0,1,2,2,1, Full Time,hot,Started forward on Gilbert... wehn rotating through midfield gets the Jones tag... %s from %P,,,570300,129,634400,143,Centre,4
+290629,Dyson,Heppell,ES,20,103,88,70,84,114,15,13,8,2,0,0,0,0,0, Full Time,gun,%2 Steven in midfield... %O including %K with %M,,,458200,43,471300,37,Back,21
+261314,David,Myers,ES,21,97,100,64,68,96,17,4,4,7,0,1,1,0,0, Full Time,news,%P and %T with %M,job,Running from defence on Milera,352900,55,372900,57,Back,23
+230084,Brendon,Goddard,ES,27,96,117,70,76,106,14,9,4,6,0,2,3,1,1, Full Time,news,First goal... %D and %T plus %s... %F as well which the Saint fans enjoyed,,,500800,72,542600,85,Back,9
+261320,Tom,Bellchambers,ES,22,89,99,69,79,95,10,4,6,2,16,2,2,2,1, Full Time,news,%H and %D plus %M and %s,,,400900,77,457400,74,Ruck,2
+270951,David,Zaharakis,ES,18,89,99,58,76,103,13,14,6,1,0,2,1,0,1, Full Time,news,Playing on a wing... %D and %M plus %s,,,407000,70,440000,84,Centre,11
+260073,Ben,Howlett,ES,24,83,86,68,59,84,10,8,1,7,0,0,0,1,0, Full Time,news,%D and %T,,,466800,73,494100,86,Centre,40
+270588,Cale,Hooker,ES,13,80,115,58,67,87,11,8,9,1,0,0,0,0,0, Full Time,job,On Maister... %D and %M,sore,Bad cramp in his legs late in Q4,321000,60,377300,93,Back,26
+240245,Courtenay,Dempsey,ES,18,78,71,48,65,82,13,4,7,1,0,2,1,1,1, Full Time,news,%O and %M plus %s,job,Running off Dennis-Lane,407700,81,429500,106,Back,15
+270935,Michael,Hurley,ES,21,78,112,55,69,84,11,2,8,1,0,1,2,3,0, Full Time,injured,Booted %s from %D and %M on Fisher... left ankle rolled in Q3,subbed,Subbed off in Q3 for Winderlich,350000,34,399800,41,Forward,18
+200026,David,Hille,ES,19,76,84,54,69,86,9,7,3,1,25,2,2,0,1, Full Time,news,%H and %P,,,383000,,403700,,Ruck,19
+280824,Jake,Melksham,ES,13,73,81,48,64,90,11,12,6,1,0,0,2,0,0, Full Time,news,%P and %M,,,325100,71,323500,71,Centre,17
+294798,Mark,Baguley,ES,13,70,62,55,66,84,8,11,9,0,0,3,2,0,0, Full Time,job,Minding Milne... %D and %M,,,288100,50,315100,65,Back,46
+250569,Heath,Hocking,ES,12,59,44,35,51,67,10,6,6,0,0,1,1,0,1, Full Time,news,%O and %M plus %s,tagger,Tagging Dal Santo,338400,60,347500,99,Centre,39
+271022,Tayte,Pears,ES,8,57,62,34,49,66,10,6,5,1,0,2,2,0,0, Full Time,news,%O and %M,,,232900,,291600,,Back,16
+230051,Alwyn,Davey,ES,14,56,80,47,42,55,6,3,1,4,0,0,0,2,1, Full Time,news,%s from %O and %T on Wright,,,303300,93,335600,94,Forward,29
+290641,Jake,Carlisle,ES,9,56,56,48,46,57,6,5,6,2,0,2,0,0,0, Full Time,job,Following Riewoldt... %O and %T with %M,,,314900,19,372300,9,Back,22
+295285,Jackson,Merrett,ES,8,46,50,35,34,45,6,3,1,3,0,1,0,1,0, Full Time,cash,%s from %P on Roberton... also %T,,,127800,-60,137000,-47,Centre,20
+230238,Jason,Winderlich,ES,2,27,17,20,21,27,4,1,3,1,0,0,0,0,0, Full Time,news,On in Q3 for Hurley,sub,Started as a sub,272000,,246100,,Centre,8

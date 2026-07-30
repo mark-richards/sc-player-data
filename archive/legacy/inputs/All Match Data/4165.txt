@@ -1,0 +1,48 @@
+Adelaide,Crows,Fremantle,Dockers,R20,17.17.119,14.7.91, Full Time
+Aug 11,2012,2:10,Footy Park,Fox Sports,261138,10342003,430172,0,Cloudy and windy,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Joel20</em>: is thompsons sc right? if so i am a happy man<br><em>J.Bartel</em>: barlow always between 90 and 110. never gets a huge score<br><em>morrowind</em>: turning into a good player the M wight]<br><em>john90</em>: michael johnson is a useless shower<br><em>vbdl</em>: how much time left<br><em>kano</em>: what repercussions would you like champ ?<br><em>Murf2Gibbs</em>: Thats a good idea magi smell but have an age limit 16 or 18 plus <br><em>FTroopCapt</em>: Matthew Wright - wow!<br><em>mrpig</em>: love it how words are blocked yet people still say them&#044; no repercussion <br><em>adz11</em>: Pavlich hasn't touched it this q<br><em>Magicsmell</em>: someone needs to start a rival fanfooty where you can swear like a sailor<br><em>Murf2Gibbs</em>: Okay colddog Martin should be 1st next year he will Play more mid <br>
+261384,Matthew,Wright,AD,32,139,170,173,111,150,22,15,6,3,0,1,0,2,0, Full Time,cherry,%2 Mundy... %P and %M with %T and %s,,
+270917,Patrick,Dangerfield,AD,40,137,187,174,108,151,17,17,4,8,1,1,2,2,0, Full Time,star,Tagged by de Boer... %P and %T with %M and %s,,
+280506,Taylor,Walker,AD,22,90,115,110,78,89,10,2,8,1,0,2,0,4,2, Full Time,x-factor,First goal... %s from %P and %G on Dawson,,
+240370,Richard,Douglas,AD,19,85,87,108,68,88,13,6,6,2,0,1,0,1,1, Full Time,news,%s from %P and %M on Ibbotson,,
+291748,Brodie,Smith,AD,14,84,88,109,66,88,14,6,7,2,0,0,0,0,1, Full Time,news,%D and %M with %T,job,In defence on Walters
+270811,Sam,Jacobs,AD,17,80,92,94,71,82,7,3,5,1,33,0,0,0,1, Full Time,news,%H and %D with %M,,
+261142,Bernie,Vince,AD,15,77,96,94,63,84,10,11,3,2,0,2,0,1,0, Full Time,news,%O and %T with %M and %s,,
+250362,David,Mackay,AD,19,73,94,92,57,78,8,9,3,4,0,0,0,1,0, Full Time,news,%D and %T plus %s,,
+200092,Michael,Doughty,AD,14,72,82,95,56,78,10,7,5,4,0,0,1,0,0, Full Time,job,Responsible for Ballantyne... %O and %M,,
+270963,Rory,Sloane,AD,14,69,95,89,54,73,13,4,3,2,1,1,1,1,0, Full Time,news,Playing a HFF on Pearce... %O and %M plus %s,,
+210016,Scott,Thompson,AD,18,65,94,81,52,70,7,9,1,4,0,3,1,1,1, Full Time,creepy,Tagged by Crowley.. %O and %s,,
+210056,Graham,Johncock,AD,11,64,77,83,54,71,10,4,5,2,0,1,2,1,2, Full Time,news,%s from %P and %M up forward on McPhee... also %F,,
+261138,Jared,Petrenko,AD,8,62,89,77,49,64,9,7,2,2,1,3,0,0,3, Full Time,tagger,Forward tag on Duffield... %s from %P,,
+261857,Ian,Callinan,AD,11,61,75,77,54,68,9,3,5,1,0,1,2,2,2, Full Time,news,%s from %D and %M on Spurr,,
+220093,Ben,Rutten,AD,10,57,66,74,47,64,4,8,5,4,1,0,1,0,0, Full Time,job,Standing Bradley... %P and %T,,
+250118,Nathan,van Berlo,AD,4,53,55,69,39,55,8,5,2,3,0,0,0,0,1, Full Time,tagger,Tagging Hilll... %P and %s,,
+220086,Brent,Reilly,AD,5,52,60,70,42,57,10,3,4,2,0,2,2,0,0, Full Time,job,Minding Suban... %D and %T,,
+290211,Sam,Shaw,AD,4,49,58,66,36,45,9,0,4,2,0,2,0,0,0, Full Time,job,Following Mayne... %P and %M,,
+294828,Josh,Jenkins,AD,5,47,47,62,37,45,6,0,5,2,5,0,0,0,1, Full Time,news,%s from %P on Johnson,,
+280934,Daniel,Talia,AD,8,46,75,62,32,42,6,2,2,4,0,2,0,0,0, Full Time,job,Following Pavlich... %P and %T,,
+280568,Lewis,Johnston,AD,3,34,44,47,30,39,6,1,5,1,0,1,2,0,0, Full Time,news,%P and %M on Roberton,subbed,Subbed out in Q4 for Riley
+291402,Aidan,Riley,AD,6,14,14,16,13,15,1,1,1,0,0,0,0,1,0, Full Time,news,On in Q4 for Johnston... %s from %D,sub,Started as a sub
+271015,Matthew,de Boer,FR,55,123,121,119,94,127,11,11,7,11,0,2,2,1,1, Full Time,hot,%P and %T with %M and %s,tagger,Tagging Dangerfield
+240139,Paul,Duffield,FR,26,104,134,69,79,102,17,3,8,4,0,1,0,1,0, Full Time,hot,Forward tagged by Petrenko... %P and %M with %T and %s,,
+292026,Michael,Barlow,FR,31,101,104,87,80,108,11,10,7,6,0,0,1,1,0, Full Time,hot,%O and %M plus %s,,
+240266,Lee,Spurr,FR,19,79,75,60,66,82,11,4,10,2,1,2,1,0,0, Full Time,news,%O and %M,job,Callinan is his man
+240052,David,Mundy,FR,9,73,81,43,56,79,13,7,3,3,1,1,1,0,0, Full Time,news,%2 Wright... %D,,
+280386,Clancee,Pearce,FR,15,73,84,42,56,73,13,3,4,2,0,1,0,1,1, Full Time,news,%O and %M,job,Playing a HBF on Sloane
+250088,Jonathon,Griffin,FR,21,72,95,72,60,69,4,2,4,4,27,1,0,0,0, Full Time,news,%H and %P,,
+281007,Michael,Walters,FR,17,67,73,51,57,70,8,3,4,2,0,1,1,3,1, Full Time,news,%s from %D on Smith,,
+260069,Hayden,Ballantyne,FR,15,59,72,57,46,63,5,6,3,5,0,0,1,1,0, Full Time,news,%s from %P and %M on Doughty... also %T,,
+200032,Matthew,Pavlich,FR,11,58,89,47,52,70,6,8,3,2,0,0,2,2,1, Full Time,news,%s from %P on Talia,,
+230107,Michael,Johnson,FR,4,48,82,19,37,48,11,1,4,0,0,1,0,0,0, Full Time,news,Donuts until very late in Q2... much more productive in the second half... %P and %M,job,Has Jenkins
+280336,Stephen,Hill,FR,10,48,61,44,40,55,4,7,2,3,0,0,1,1,1, Full Time,tagged,Tagged by van Berlo... %P,,
+280726,Tendai,Mzungu,FR,4,46,39,27,33,48,9,2,2,3,0,0,1,0,0, Full Time,sore,Right shoulder stinger in Q3... %P,,
+230048,Ryan,Crowley,FR,8,40,31,30,29,42,7,0,3,4,0,0,2,0,0, Full Time,tagger,Tagging Thompson... %D and %T with %M,,
+270908,Nick,Suban,FR,3,39,55,22,29,42,8,2,1,3,0,2,2,0,0, Full Time,news,Playing a forward role on Reilly.... %O,,
+250268,Garrick,Ibbotson,FR,4,36,33,21,29,42,7,3,2,2,0,1,2,0,0, Full Time,job,Douglas is his man... %D,,
+280933,Dylan,Roberton,FR,3,34,46,23,26,36,6,1,3,2,0,0,1,0,0, Full Time,job,On Johnston... %O and %M,in,Late replacement for Alex Silvagni
+210037,Adam,McPhee,FR,2,31,37,21,26,36,5,3,3,1,0,0,1,0,0, Full Time,job,Responsible for Johncock... %M and %O,,
+230011,Kepler,Bradley,FR,8,31,42,23,30,36,3,3,1,0,9,1,1,1,0, Full Time,news,%D on Rutten... also %H,,
+280416,Chris,Mayne,FR,8,27,44,25,25,33,2,4,2,1,0,0,1,1,0, Full Time,news,%s from %P and %M on Shaw,subbed,Subbed off in Q3 for Neale
+293535,Lachie,Neale,FR,7,22,30,14,19,24,3,2,1,0,0,0,0,1,0, Full Time,in,%l Nathan Fyfe... on in Q3 for Mayne,sub,Started as a sub
+240552,Zac,Dawson,FR,0,7,10,2,9,15,2,2,1,0,0,0,2,0,0, Full Time,witcheshat,Standing Walker... %F,,

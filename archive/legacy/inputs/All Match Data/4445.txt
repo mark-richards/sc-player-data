@@ -1,0 +1,48 @@
+Hawthorn,Hawks,North Melbourne,Kangaroos,R5,14.15.99,13.18.96, Full Time
+Apr 28,2013,4.40,MCG,Seven,240399,10390509,haw-v-nmfc,0,A few showers clearing,20,,
+
+<em>Mash</em>: same way Bailey can kick 3 important goals and get 58 sc hoddo&#044; their scores seem to be getting more inconsistant<br><em>joelyboy04</em>: bradley hill should be x factor<br><em>maluckyday</em>: kangas had double the frees<br><em>whale607</em>: petrie biggest flattrack bully never performs against decent sides<br><em>Jmachete</em>: needed franklin to score less then 65 for the win hahaha<br><em>matthius</em>: 111 for goldy? is he cotchin's brother in law or something..<br><em>chadwick</em>: Savage for best on ;)<br><em>chadwick</em>: Saage for best on ;)<br><em>Fernyys</em>: on the hawks<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> wolfheart</em>: travesty. Umpires favoured hawthorn all game.<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> DirtyDawn</em>: until next weekend gents<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> tracygrims</em>: ahhhnnnd franklin 57!<br>
+220073,Sam,Mitchell,HW,25,111,137,140,89,118,18,10,7,2,1,1,0,1,0, Full Time,gun,%2 Ziebell... %P and %M with %T and %s,,,523200,123,576400,171,Centre,5
+295584,Bradley,Hill,HW,20,98,97,127,76,100,16,5,7,3,0,0,0,1,1, Full Time,news,%O and %M with %T and %s,,,228800,44,215600,35,Centre,10
+260955,Cyril,Rioli,HW,23,97,124,119,84,105,13,7,5,2,0,3,2,4,0, Full Time,star,%O and %T with %M... also %s... his goals kept the Hawks in front,injured,Right hamstring pulled in Q4,442400,61,530000,119,Forward Centre,33
+210012,Shaun,Burgoyne,HW,33,95,89,126,72,102,11,9,4,8,0,0,2,1,0, Full Time,news,Playing pure midfield... %P and %T with %M and %s,,,428700,18,461700,31,Back Centre,9
+250089,Jordan,Lewis,HW,19,89,81,117,74,104,17,8,7,2,0,0,3,0,2, Full Time,news,%s from %P and %M playing mostly forward... also %T,,,430400,97,472000,118,Forward Centre,3
+240302,Grant,Birchall,HW,14,80,80,103,67,90,9,10,8,3,0,0,1,0,0, Full Time,tagged,Forward tagged by Wright... %D and %M... also %T,,,518400,49,563400,74,Back,14
+260472,Max,Bailey,HW,21,77,62,96,60,72,9,2,2,4,3,3,0,3,0, Full Time,x-factor,First goal... %H and %P plus %T and %M... also %s including a surprising three majors in Q1,subbed,Subbed off in Q3 for Savage,264800,27,345100,43,Ruck,39
+210092,Michael,Osborne,HW,19,76,109,97,61,79,11,5,6,2,1,0,0,1,0, Full Time,news,Playing forward on Hine... %s from %O and %M,,,259100,,288900,,Forward,7
+291351,Jack,Gunston,HW,18,69,90,85,62,81,9,9,7,0,0,0,1,1,0, Full Time,news,%P and %M on McMahon,,,287200,78,336400,112,Forward,19
+200060,Brent,Guerra,HW,8,64,78,87,50,75,14,5,3,3,0,0,3,0,0, Full Time,job,Responsible for Thomas... %P and %T with %M,,,374300,120,431100,126,Back,18
+240357,Jarryd,Roughead,HW,11,62,80,81,52,67,10,2,5,2,4,1,2,1,0, Full Time,news,%s from %D and %M on Firrito,,,434500,78,492600,113,Forward Ruck,2
+240399,Lance,Franklin,HW,10,62,57,85,50,68,10,2,5,4,0,1,3,0,5, Full Time,mare,%s from %D and %M on Thompson... %T as well... went missing after QT,,,504400,87,589800,114,Forward,23
+294877,Isaac,Smith,HW,14,62,72,77,51,67,9,6,4,1,0,0,0,1,1, Full Time,news,%2 Gibson on a wing... %O and %M plus %s,,,409500,60,405800,57,Centre,16
+220047,Luke,Hodge,HW,12,61,80,77,51,66,10,6,6,0,0,1,0,0,0, Full Time,job,Donuts in Q1... in defence on Adams... %P and %M,,,417700,61,468200,89,Centre,15
+280737,Liam,Shiels,HW,9,60,51,77,50,69,6,9,5,3,0,0,1,0,0, Full Time,tagger,Tagging Wells... %O and %M... also %T,,,406000,48,370100,44,Centre,26
+280744,Luke,Breust,HW,9,55,71,76,43,62,8,4,3,5,0,1,3,0,2, Full Time,news,%s from %P on Atley... also %T and %M... %F as well,,,395200,68,456800,82,Forward,22
+220036,David,Hale,HW,9,54,77,66,49,62,5,4,3,2,17,0,2,0,3, Full Time,news,Starting forward on Grima for %s from %P... %H and %T in ruck support,,,375200,110,463300,110,Forward Ruck,20
+250715,Josh,Gibson,HW,8,53,59,67,47,60,6,7,6,1,0,2,1,0,0, Full Time,news,On Petrie until Q3... %D and %M,,,312100,51,404200,72,Back,6
+220039,Brian,Lake,HW,3,39,75,49,32,42,7,4,3,0,0,1,0,0,0, Full Time,job,Standing Daw then switched to Petrie in Q4... %O and %M,,,392800,,430700,,Back,17
+280471,Ben,Stratton,HW,3,24,51,31,27,42,3,8,2,1,0,1,4,0,0, Full Time,job,Has Black... %P and %M... also %F,,,295200,31,326900,61,Back,24
+260710,Paul,Puopolo,HW,1,17,28,21,16,24,3,4,1,0,0,0,1,0,0, Full Time,news,%P on Mullett,,,271700,36,287700,79,Forward,28
+280858,Shane,Savage,HW,0,4,4,6,2,3,0,0,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Bailey,sub,Started as a sub,273800,81,279200,98,Centre,21
+240417,Andrew,Swallow,NM,21,116,125,76,95,130,17,18,5,3,0,4,1,0,1, Full Time,hot,%D and %T with %M and %s,,,543000,134,564200,147,Centre,9
+230232,Daniel,Wells,NM,19,92,125,40,71,97,19,8,1,2,0,4,1,1,1, Full Time,tagged,Tagged by Shiels... %O and %T plus %s,,,436900,77,523900,68,Centre,8
+280944,Jack,Ziebell,NM,19,89,79,37,66,93,19,7,1,2,0,1,0,1,0, Full Time,news,%2 Mitchell... %P and %s,,,402300,75,433100,89,Centre,7
+250557,Sam,Gibson,NM,19,85,83,42,70,96,17,6,6,1,0,0,2,1,0, Full Time,news,%2 Smith on a wing... %O and %M plus %s,,,464500,82,385100,89,Centre,43
+290194,Jamie,MacMillan,NM,12,80,-,44,63,81,15,4,7,1,0,2,0,0,0, Full Time,news,%P and %M,,,337700,18,356300,25,Centre,34
+210023,Drew,Petrie,NM,19,78,83,52,66,80,12,3,8,1,1,3,1,1,1, Full Time,news,Booted %s from %P and %M on Gibson,,,378100,96,449200,107,Forward,20
+291672,Aaron,Black,NM,28,76,87,80,59,79,5,6,3,8,0,1,2,2,1, Full Time,news,%s from %P and %M on Stratton... also a rather high %T,in,Late replacement for Lachie Hansen,200900,,212600,,Forward,35
+281395,Scott D.,Thompson,NM,13,74,84,52,62,81,10,10,6,1,0,2,0,0,0, Full Time,news,%D and %M,job,Has Franklin,379000,35,485000,55,Back,16
+261909,Lindsay,Thomas,NM,21,70,94,60,58,64,6,0,2,3,0,3,0,5,1, Full Time,news,Donuts in Q1... Guerra on him... %s from %O and %M,,,356600,66,386100,62,Forward,12
+271129,Todd,Goldstein,NM,20,68,119,66,61,68,3,3,1,3,38,3,1,0,0, Full Time,news,%H but %D and %T is a very poor return for his ground work,sore,Headclash with Bailey in Q2,435900,74,513400,110,Ruck,22
+250135,Scott,McMahon,NM,5,64,64,41,47,63,11,3,4,3,0,1,0,0,0, Full Time,job,Responsible for Gunston... %P and %M with %T,,,348000,58,432900,81,Back,42
+280921,Ben,Cunnington,NM,8,62,82,54,53,79,5,17,1,3,0,0,1,0,1, Full Time,news,%O and %T and %s,,,370200,64,415000,64,Centre,10
+280863,Ryan,Bastinac,NM,8,61,62,38,47,65,10,6,3,2,1,0,0,0,1, Full Time,news,%D and %M plus %s... also %T,,,422900,118,420200,99,Centre,3
+250285,Leigh,Adams,NM,13,59,70,39,49,67,8,9,2,1,0,0,0,1,1, Full Time,news,%s from %D and %M on Hodge,,,361700,68,415300,76,Forward Centre,13
+240131,Nathan,Grima,NM,5,56,59,35,44,60,10,3,5,2,0,0,1,0,0, Full Time,news,%M and %P with %T,job,On Hale,371100,86,432300,72,Back,17
+291445,Aaron,Mullett,NM,12,56,67,21,44,60,12,5,1,0,0,1,0,1,0, Full Time,news,%P and %s,job,Running off Puopolo,352900,27,384400,59,Centre,41
+290787,Shaun,Atley,NM,7,55,78,37,48,66,7,12,3,0,0,1,0,0,0, Full Time,job,Minding Breust... %D and %M,,,314200,72,378300,87,Back,18
+230272,Michael,Firrito,NM,3,47,57,19,36,51,11,2,3,1,0,0,1,0,0, Full Time,job,Standing Roughead... %O and %M,,,330300,58,363700,51,Back,11
+280864,Sam,Wright,NM,4,46,47,28,36,47,8,2,4,1,0,0,0,0,2, Full Time,tagger,Tagging Birchall on a HBF... %s from %P and %M,,,298700,91,341100,118,Back,19
+290538,Taylor,Hine,NM,4,40,46,37,34,48,4,6,3,3,0,1,2,0,0, Full Time,job,In defence on Osborne... %P and %M... also %T and %F,,,263400,29,278200,58,Back,26
+290199,Majak,Daw,NM,4,39,28,30,34,43,5,2,2,2,7,2,2,0,3, Full Time,bubble,Second game... started forward on Lake... %s from %P and %T... also %M and %H,subbed,Subbed off at 3QT for Anthony,108500,,115900,,Ruck,38
+260545,Liam,Anthony,NM,0,18,27,15,14,18,2,2,1,1,0,1,0,0,0, Full Time,news,On after 3QT for Daw,sub,Started as a sub,442700,123,419400,139,Centre,4

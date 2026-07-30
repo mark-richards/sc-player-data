@@ -1,0 +1,48 @@
+Western Sydney,Giants,Sydney,Swans,R1,11.10.76,16.10.106, Full Time
+Mar 30,2013,4.40,Homebush,Seven,260382,10390105,5015,0,Cloudy,25,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>korza</em>: GAJ 47SC what has he done to deserve that ? By the way i have him C<br><em>peteywest</em>: Had JPK as captain&#044; think I'm gona save $110K now an trade Ablett to selwood<br><em>frenzy</em>: capt JPK<br><em>dashurg</em>: @jesseboy I was waiting to see which pseudo-intellectual muppet would pick that up first. Congrats!<br><em>dashurg</em>: @Morts54 makes sense. Still seems very dumbed down&#044; more like the Stock Market than fantasy footy.<br><em>DangerousD</em>: No offence lads but not keen on this blog with ppl like tawk around<br><em>flyupup</em>: @snap stick to snap<br><em>cdrobert</em>: tossers<br><em>Jmachete</em>: kennedy looks like federer<br><em>MarksMen</em>: Mate where u from...<br><em>kailum17</em>: @everyonehere. goodbye your all tosssers<br><em>Ajax22</em>: Less trades for me makes the game easier&#044; just hold as the n00bs waste them then ez win<br>
+291783,Dylan,Shiel,WS,26,103,117,129,84,114,11,15,5,5,0,2,1,1,0, Full Time,hot,%D and %T plus %M and %s,job,In defence on Bolton,378200,,403500,,Midfielder,5
+291790,Adam,Treloar,WS,25,98,113,121,80,112,10,17,3,5,0,1,1,1,1, Full Time,tagged,%O and %T with %M... copped the O'Keefe tag in Q2,,,423000,,445000,,Midfielder ,17
+291969,Stephen,Coniglio,WS,14,84,101,110,60,87,14,8,2,5,0,0,0,0,0, Full Time,news,%2 Hannebery... %O and %T with %M,,,409200,,406200,,Midfielder,3
+293662,Liam,Sumner,WS,21,84,82,108,68,88,10,6,4,5,0,3,2,2,1, Full Time,news,%s from %D and %M with %T on Mattner,,,224100,,217200,,Midfielder ,28
+280109,Callan,Ward,WS,15,83,89,105,67,93,10,13,4,4,0,2,1,0,0, Full Time,news,%2 Kennedy to start then went a hard tag... %P and %T with %M,,,501300,,570100,,Midfielder,8
+290306,Curtly,Hampton,WS,14,79,64,103,68,90,15,6,9,0,0,1,2,0,0, Full Time,job,Minding Parker... %D and %M... also %F,,,276100,,300300,,Back Forward,2
+291720,Will,Hoskin-Elliott,WS,12,77,69,101,62,82,15,4,7,1,0,1,1,0,1, Full Time,injured,%O and %M with %s... left thigh knock in Q3,subbed,Subbed off at 3QT for Adams,267900,,264800,,Midfielder,33
+291802,Tomas,Bugg,WS,13,76,70,98,63,84,9,9,7,3,0,1,1,0,0, Full Time,job,On McGlynn... %P and %M with %T,,,352100,,369800,,Midfielder,14
+280969,Tom,Scully,WS,13,72,67,95,56,79,10,8,3,5,0,2,2,0,1, Full Time,news,Starting forward on Shaw... %P and %T with %M... also %F,reported,Reported for tripping Shaw in Q1,380700,,424700,,Midfielder,9
+291771,Devon,Smith,WS,21,70,70,93,49,67,9,3,2,6,0,0,0,1,1, Full Time,news,Smith on him... %s from %O and %T... also %M,,,352100,,339200,,Forward,10
+200111,Dean,Brogan,WS,11,67,102,81,59,74,8,5,2,2,22,2,2,0,1, Full Time,news,%H and %P plus %s... also %M and %T,,,307400,,367400,,Ruck,50
+261841,Jonathan,Giles,WS,11,66,85,79,57,69,11,3,2,0,14,3,1,1,1, Full Time,news,%H and %P plus %M and %s,,,422200,,498900,,Ruck,26
+261189,Tim,Mohr,WS,8,65,96,85,48,66,13,4,3,2,0,1,0,0,0, Full Time,job,Responsible for Goodes... %D and %M with %T,sore,Copped a Mumford knee in the back of his scone in Q3,265100,,352700,,Back,39
+291821,Jonathon,Patton,WS,16,61,63,77,51,63,6,2,4,3,0,0,1,3,0, Full Time,news,Grundy on him... %s from %P with %M and %T,,,183300,,242300,,Forward ,12
+294624,Lachlan,Plowman,WS,8,58,56,76,48,63,10,4,6,1,0,1,1,0,0, Full Time,news,Some shocking clangers among %P and %M... looked tentative playing HBF... better after half time though,,,174700,,189500,,Back ,30
+293845,Jeremy,Cameron,WS,10,52,46,67,42,55,6,4,3,3,0,1,1,1,1, Full Time,news,Richards following him... did not touch the footy in Q1... %s from %P and %M with %T,,,299800,,333700,,Forward,18
+280804,Phil,Davis,WS,4,49,58,66,40,57,11,3,4,1,0,0,2,0,0, Full Time,job,Has Reid... %D and %M,sore,Landed awkwardly on his left buttock in Q2... bad corkie,324100,,387400,,Back,1
+294305,Lachie,Whitfield,WS,7,47,49,57,40,54,7,8,3,0,0,1,0,0,0, Full Time,news,Playing on the wing but it is not a game for outside players... one handball in Q1... %P and %M,,,183700,,199500,,Midfielder ,6
+291509,Adam,Kennedy,WS,3,40,38,50,33,45,7,5,3,0,0,0,0,0,0, Full Time,job,Chasing Jetta... %O and %M,,,266900,,285400,,Midfielder,40
+295344,Toby,Greene,WS,8,37,45,47,32,46,7,4,1,1,0,0,2,1,1, Full Time,cold,Tagged by O'Keefe in Q1 and went forward in Q2 to shake it... %P plus %s,,,495700,,506300,,Midfielder,4
+230082,Stephen,Gilham,WS,3,32,36,43,30,45,6,5,3,1,0,0,3,0,0, Full Time,witcheshat,Had the resting ruck and was helpless against the taller men... %P and %M... also %F,,,239600,,279100,,Back,38
+291776,Taylor,Adams,WS,1,12,8,15,12,18,2,3,1,0,0,0,1,0,0, Full Time,news,On after 3QT for Hoskin-Elliott.... %O,sub,Started as a sub,387800,,400900,,Midfielder ,11
+200071,Ryan,O'Keefe,SY,30,116,107,77,87,118,19,8,6,6,0,3,1,0,1, Full Time,hot,%P and %M plus %T and %s,tagger,Tagging Greene in Q1 then went to Treloar in Q2,499300,,555400,,Midfielder,5
+240226,Kieren,Jack,SY,31,107,116,74,84,114,15,10,2,5,0,1,1,3,0, Full Time,hot,Not tagging... %O and %T plus %M and %s,mrp,An obvious trip on Coniglio in Q3 was somehow missed by the ump but will be looked at by the MRP,505800,,601400,,Midfielder,15
+280762,Shane,Mumford,SY,31,101,116,81,92,112,11,5,7,3,25,3,4,1,3, Full Time,star,%H and %P with %M and %s... had a very good Q1... also %T and %F,,,425400,,486900,,Ruck,41
+260382,Josh P.,Kennedy,SY,19,87,147,57,69,99,12,16,0,3,0,1,0,1,0, Full Time,tagged,%2 Ward to start then copped more of a tag from the GWS captain... %O and %T plus %s,,,523900,,643000,,Midfielder,12
+980073,Adam,Goodes,SY,16,86,98,62,74,94,10,12,4,1,0,3,0,2,1, Full Time,news,%s from %D and %M on Mohr,,,424700,,479900,,Forward,37
+290778,Luke,Parker,SY,20,85,96,58,61,87,14,6,3,6,0,1,1,0,0, Full Time,news,Up forward on Hampton... %P and %T with %M,,,343600,,379500,,Forward ,26
+230140,Ben,McGlynn,SY,22,81,73,72,61,79,8,5,3,6,0,1,0,2,1, Full Time,bugg,%s from %D and %T... Bugg on him... also %M,,,374100,,375800,,Midfielder,21
+290117,Daniel,Hannebery,SY,9,78,85,51,62,88,12,11,3,3,0,1,1,0,1, Full Time,news,%2 Coniglio... %O and %T with %M,,,421800,,439700,,Midfielder,4
+230253,Jarrad,McVeigh,SY,20,77,89,64,62,87,9,9,4,5,0,0,2,1,0, Full Time,news,%P and %T with %M and %s,,,469500,,526000,,Midfielder,3
+240072,Heath,Grundy,SY,13,77,92,46,62,84,13,8,6,1,0,0,0,0,0, Full Time,job,Standing Patton... %D and %M,,,328800,,399300,,Back,39
+291206,Mike,Pyke,SY,18,73,104,62,69,84,6,5,3,2,24,1,3,2,0, Full Time,news,First goal... starting forward on Gilham... %s from %P and %M... also %H and %F,,,341400,,410200,,Ruck,38
+200023,Rhyce,Shaw,SY,10,71,81,40,58,81,13,8,4,2,0,2,2,0,0, Full Time,news,%P and %M,skull,Playing a HBF starting on Scully,333200,,389300,,Back,2
+230132,Nick,Malceski,SY,9,71,87,27,52,75,17,3,3,2,0,0,1,0,0, Full Time,news,%O and %T with %M,,,373100,,404100,,Back,9
+250338,Nick,Smith,SY,10,63,67,65,49,66,4,9,4,5,0,1,0,0,0, Full Time,job,Minding Smith... %O and %T with %M,,,320800,,358200,,Midfielder,40
+210027,Ted,Richards,SY,12,56,81,50,52,69,4,13,6,0,0,0,0,0,0, Full Time,job,Following Cameron.. %M and %O,,,302600,,417300,,Back,25
+290188,Samuel,Reid,SY,11,56,67,42,47,60,7,4,3,2,0,1,1,2,0, Full Time,news,Davis on him... booted %s from %P and %T with %M,,,260600,,319600,,Back,20
+220063,Martin,Mattner,SY,9,53,50,43,38,51,7,3,3,4,0,1,0,0,0, Full Time,job,Responsible for Sumner... %D and %T with %M,,,293900,,332000,,Back,29
+990011,Jude,Bolton,SY,10,51,76,41,48,64,5,9,1,2,0,3,3,2,1, Full Time,news,%s from %P and %T playing forward,,,451500,,501300,,Midfielder,24
+281281,Lewis,Jetta,SY,7,44,37,40,29,42,5,3,1,5,0,0,0,0,0, Full Time,news,%s from %P and %T on Kennedy,,,392000,,427300,,Midfielder Forward,32
+220089,Lewis,Roberts-Thomson,SY,3,40,52,26,29,42,7,3,1,3,0,1,1,0,0, Full Time,news,%D and %T,,,264700,,296000,,Forward,30
+290307,Dane,Rampe,SY,2,32,43,23,21,30,5,2,0,3,0,1,0,0,0, Full Time,job,In defence on Hoskin-Elliott... %P and %T,subbed,Subbed off in Q4 for Armstrong,89300,,96200,,Midfielder ,43
+270170,Tony,Armstrong,SY,2,22,12,13,20,27,4,2,3,0,0,0,1,0,0, Full Time,news,On in Q4 for Rampe... %O and %M,sub,Started as a sub,249900,,244100,,Midfielder,19

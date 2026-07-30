@@ -1,0 +1,48 @@
+Melbourne,Demons,Brisbane,Lions,R5,15.13.103,7.11.53, Full Time
+Apr 24,2010,7:10,MCG,Fox Sports,230015,10280503,5015493,4978,Windy with isolated showers,21
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,Delayed for a week due to working on scalability... should be next week for Round 6,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>WayneCarey</em>: Im pretty sure IM THE KING<br><em style='color:#a0a'>PrimeTime</em>: /thread<br><em>maat.1</em>: Great Work Brown&#044; you deserve a star!! (that is bulls*it)<br><em style='color:#a0a'>PrimeTime</em>: ringa ding ding...Prime Time's the king<br><em>tigermania</em>: maguire should have the bin<br><em style='color:#a0a'>PrimeTime</em>: lol<br><em>SC ADDICT</em>: only good thing out of this game- maguire will make money&#044; HORRIBLE GAME<br><em>bell_dog</em>: get some purple action pt<br><em>JBails</em>: Scully generous sc<br><em>bomber1</em>: OMG brown was my captapin!!<br><em>The_Dohnut</em>: brown 38 sc! ;'(<br><em>DalaBomb</em>: @colonel78 - i'm on 9100 sc points and no brown hahaha<br>
+240037,Colin,Sylvia,ME,32,112,122,146,90,119,14,8,6,7,1,3,3,2,1, Full Time,gun,%s from %O with %T
+250510,Matthew,Bate,ME,30,108,97,133,94,121,12,14,11,1,0,0,0,1,1, Full Time,hot,%s from %D and %M
+280608,Jack,Trengove,ME,26,108,129,133,89,115,11,13,6,4,0,2,0,2,1, Full Time,star,%D and %M with %T and %s
+230151,Brent,Moloney,ME,20,103,99,129,82,118,13,18,3,5,0,1,1,0,1, Full Time,hot,Head to head with Black... %P including %B with %T
+200052,Cameron,Bruce,ME,25,102,118,129,83,111,11,14,8,4,0,1,0,0,0, Full Time,hot,%P with %b by hand
+970130,James,McDonald,ME,27,90,51,120,74,105,12,10,4,7,0,3,5,1,0, Full Time,news,Matched up on Rich... %P and %M with %T and %F
+200054,Brad,Green,ME,16,89,73,111,72,95,13,9,5,2,0,1,0,1,2, Full Time,news,%s from %D and %M
+270906,Jordie,McKenzie,ME,26,87,77,109,70,99,7,15,3,6,0,0,1,1,0, Full Time,news,%P including %B with %T and %s
+220052,Mark,Jamar,ME,21,82,62,94,81,99,5,12,5,1,24,3,3,1,0, Full Time,news,%H and %D with %M
+200002,Aaron,Davey,ME,15,81,88,101,65,85,14,5,4,1,0,0,0,2,1, Full Time,news,%P and %s
+250222,Nathan,Jones,ME,19,81,85,99,65,91,14,11,2,1,0,0,0,1,1, Full Time,news,%B among %D with %s
+250360,Ricky,Petterd,ME,22,81,105,102,63,82,6,8,3,6,0,1,0,2,1, Full Time,sore,%s from %P with %T on Patfull... right AC joint knock in Q3 but returned
+250245,Clint,Bartram,ME,16,70,74,93,51,69,7,6,4,6,0,1,0,0,0, Full Time,news,%O and %M
+230130,Joel,Macdonald,ME,14,68,67,87,55,78,7,11,4,4,0,0,1,0,0, Full Time,news,%B among %P
+260288,James,Frawley,ME,8,60,93,76,50,63,8,6,6,1,0,2,0,0,0, Full Time,job,On Brown... %M and %O
+261297,Jack,Grimes,ME,13,58,75,77,52,72,8,7,7,2,0,0,3,0,0, Full Time,news,%D and %M
+250548,Lynden,Dunn,ME,7,56,52,70,49,65,9,7,3,1,4,3,2,0,1, Full Time,sore,Tagging Brennan... %D... had his nose broken in Q1 in a marking contest
+280969,Tom,Scully,ME,9,51,76,62,41,57,6,8,1,2,0,0,0,1,0, Full Time,cash,%O and %T plus %s
+280763,Stefan,Martin,ME,4,36,32,42,36,47,4,5,2,0,13,0,2,0,1, Full Time,in,%l Rohan Bail (quad strain)... %H and %P plus %s on Merrett
+290943,Jamie,Bennell,ME,2,29,38,38,25,39,2,7,1,3,0,0,2,0,0, Full Time,news,McGrath on him... %D and %T
+250716,Matthew,Warnock,ME,1,26,61,35,20,27,6,1,1,1,0,2,1,0,0, Full Time,job,Minded Fevola... %O
+270830,Colin,Garland,ME,2,24,50,33,23,36,5,4,2,1,0,0,3,0,0, Full Time,job,Stood Staker
+980007,Simon,Black,BL,21,107,131,83,88,126,13,19,5,5,0,1,2,0,0, Full Time,hot,Head to head with Moloney... %P and %T
+980050,Travis,Johnstone,BL,24,107,116,78,86,120,15,14,6,5,0,2,2,0,0, Full Time,hot,Loose off halfback... %P and %T
+240712,Michael,Rischitelli,BL,24,97,98,77,77,108,12,13,6,5,0,0,1,0,0, Full Time,news,%P and %T with %M
+250335,Matthew,Leuenberger,BL,21,96,76,86,80,105,8,12,4,5,18,1,1,0,0, Full Time,news,%H and %P with %M
+220062,Matt,Maguire,BL,19,94,93,78,73,96,11,9,7,5,0,2,0,0,0, Full Time,news,%D
+200121,Josh,Drummond,BL,21,93,100,62,68,93,15,5,4,5,0,0,0,1,0, Full Time,news,%P and %T with %M and %s
+990022,Brendan,Fevola,BL,22,90,56,67,76,91,12,0,7,3,0,2,2,4,1, Full Time,news,%s from %G and %D on Warnock... also %F
+230170,Joel,Patfull,BL,44,89,97,91,61,81,8,3,6,10,0,1,0,0,0, Full Time,job,On Petterd... %O and %T
+240393,Mitchell,Clark,BL,18,82,95,69,67,84,9,4,4,5,12,3,2,1,0, Full Time,news,%H and %D
+261222,James,Hawksley,BL,14,81,87,61,69,90,10,11,8,1,0,1,0,0,0, Full Time,news,%M and %O
+260975,James,Polkinghorne,BL,14,73,53,60,54,73,9,6,4,5,0,1,0,0,1, Full Time,news,%s from %D
+230015,Jared,Brennan,BL,14,69,56,53,56,81,9,11,3,4,0,1,2,0,0, Full Time,tagged,Tagged by Dunn... %D and %M
+240013,Andrew,Raines,BL,9,65,60,48,55,78,8,13,3,2,0,1,1,0,0, Full Time,news,%B among %P
+281373,Jack,Redden,BL,9,64,72,56,49,66,7,7,3,5,0,3,1,0,0, Full Time,news,%O and %T with %M
+210013,Ashley,McGrath,BL,9,56,54,49,42,57,6,6,3,4,0,1,0,0,0, Full Time,job,Followed Bennell
+271071,Todd,Banfield,BL,13,56,52,56,37,50,5,3,1,7,0,2,0,0,2, Full Time,news,%s from %P with %T
+230211,Brent,Staker,BL,9,53,53,41,43,62,8,5,2,5,0,3,4,0,2, Full Time,news,%P and %s on Garland
+271072,Daniel,Rich,BL,4,53,77,28,40,56,11,2,2,3,0,2,2,0,2, Full Time,news,Matched up on McDonald... %P and %T with %s
+270919,Tom,Rockliff,BL,4,52,42,42,40,57,6,8,2,3,0,0,0,0,0, Full Time,cash,Plenty of fantasy coaches relying on him tonight... %D
+200007,Jonathan,Brown,BL,13,38,38,26,38,49,6,2,6,0,0,0,3,1,1, Full Time,sore,Booted %s from %G and %O on Frawley... obviously going at half rat pace
+260944,Albert,Proud,BL,7,33,49,42,25,36,0,7,1,4,0,0,0,0,0, Full Time,in,%l Justin Sherman... left ankle problem in Q1
+230147,Daniel,Merrett,BL,1,16,30,22,10,15,0,2,0,3,0,0,0,0,0, Full Time,sore,Stood Martin... hamstring problem in Q2

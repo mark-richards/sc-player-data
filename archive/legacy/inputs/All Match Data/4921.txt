@@ -1,0 +1,48 @@
+Fremantle,Dockers,West Coast,Eagles,R15,13.10.88,11.15.81, Full Time
+Jun 28,2014,4.40,Subiaco,Foxtel,,10421504,fre-v-wce,0,Sunny,16,,
+
+<em style='color:#000'>arbel</em>: @costanza ... i know that. I'm just saying freo won't win the flag as everyone says playing that style of footy<br><em style='color:#000'>Pantsman</em>: Haha Mckenzie got the blue moon. Scored 120 two weeks ago and over 90 five times this year. <br><em style='color:#000' title="MIJG">mijg</em>: fyfey .im gonna cry tears of joy. welcome 3 more years what a star.<br><em style='color:#000'>ballbag</em>: why did cox pull out last week?<br><em style='color:#000'>knickers</em>: Weagles suck <br><em style='color:#000'>Raspel31</em>: Funny Cool9<br><em style='color:#000' title="MIJG">mijg</em>: hill is slowly becoming sc relevant<br><em style='color:#000'>Costanza</em>: which is bad football @arbel which is why they lost<br><em style='color:#000'>N.Fyfe</em>: My opponent has LeCras and Mackenzie. Thats just unlucky.<br><em style='color:#000'>Buzz67</em>: WC had more scoring shots last 2 derbies for 2 losses<br><em style='color:#000'>HawkTalker</em>: Hey&#044; whaddya know. Hurn finished above 60. <br><em style='color:#000'>Cool9</em>: Give the medal to the fattest man on field: 'FOG'<br>
+280336,Stephen,Hill,FR,33,145,146,186,109,145,26,6,5,5,0,1,0,3,1, Full Time,medal,%2 Rosa... %O and %T... and scored %s,,,415900,106,516200,119,Midfielder,32,12,81.8,96.6,1.20,0.94,2.40,416814,87
+291570,Nathan,Fyfe,FR,33,125,158,158,98,136,15,16,4,7,4,1,1,1,0, Full Time,superman,%D... and kicked %s,,,502500,81,573400,68,Midfielder,7,11,101.3,117.8,9.07,20.29,11.95,509188,99
+240139,Paul,Duffield,FR,21,108,132,139,90,124,18,12,9,2,0,0,2,0,1, Full Time,magnet,Playing as the loose man in defence... %M and %D... and booted %s,,,419600,108,501500,81,Back,41,13,79.2,89.1,1.86,2.19,1.94,413035,83
+250063,Danyle,Pearce,FR,21,99,96,126,77,104,18,7,5,2,0,0,0,1,2, Full Time,news,%P and %s,,,364000,92,373400,71,Midfielder,6,13,79,79.6,0.54,0.61,0.78,372467,75
+270908,Nick,Suban,FR,26,97,93,127,74,100,11,8,5,7,0,1,1,1,1, Full Time,news,%O and %s,,,312900,41,333700,64,Midfielder,8,12,55.7,58.8,0.45,0.47,0.66,292743,40
+292026,Michael,Barlow,FR,25,96,111,122,73,104,11,14,3,6,2,0,0,0,0, Full Time,news,%O,,,548400,109,529100,100,Midfielder,21,9,110,106.2,13.63,3.24,14.39,546026,106
+240052,David,Mundy,FR,15,95,101,122,72,101,13,11,4,5,2,0,0,0,0, Full Time,news,%D,,,491900,78,543000,80,Midfielder,16,13,99.4,104.9,1.96,2.50,2.24,491096,88
+293535,Lachie,Neale,FR,21,88,85,112,70,95,10,10,4,5,0,1,1,1,2, Full Time,news,%O with %b by hand... also %T... and scored %s,,,385500,49,417400,44,Midfielder,27,12,75.2,78.7,0.29,0.22,0.56,373172,53
+280416,Chris,Mayne,FR,24,80,68,100,66,87,6,11,6,4,0,0,0,1,0, Full Time,news,Schofield standing him... %s from %O and %M plus %T,,,322000,45,353900,29,Forward,23,12,61.3,67.1,1.13,1.22,1.65,308415,43
+293854,Matthew,Taberner,FR,14,80,78,109,58,76,12,1,7,5,1,0,0,0,0, Full Time,job,Started in defence on McGovern... %O,,,202100,51,167200,32,Forward,20,2,34.5,33.5,0.14,0.51,0.40,165817,42
+260069,Hayden,Ballantyne,FR,17,76,87,96,60,75,10,2,4,3,0,0,0,3,0, Full Time,news,Brown on him then Bennell.. %D... and kicked %s,sore,Tight lower back that needed work throughout the contest,358800,26,359100,36,Forward,1,12,68.9,72.3,1.05,1.27,2.17,343843,48
+220096,Aaron,Sandilands,FR,22,75,85,82,74,89,3,11,4,0,35,0,1,0,0, Full Time,news,%H... also %P,,,474100,112,585500,141,Ruck,31,13,93.9,116.2,62.87,71.39,66.66,469225,92
+240266,Lee,Spurr,FR,13,75,69,96,61,81,14,6,7,0,0,0,0,0,0, Full Time,news,%M and %P,job,Following Darling with the odd stint on LeCras,349900,77,396200,76,Back,34,13,64.9,69.5,1.27,1.47,1.68,338148,65
+250268,Garrick,Ibbotson,FR,13,73,68,95,62,84,11,8,7,2,0,1,2,0,0, Full Time,news,%M and %D,job,Rotating through LeCras and Darling,374400,114,413800,116,Back,5,5,48.8,58.8,0.61,0.29,1.28,334369,70
+290733,Cameron,Sutcliffe,FR,10,70,82,94,54,69,10,2,8,3,0,0,0,0,0, Full Time,job,Minding the resting mid... %M and %O,,,321700,101,339000,79,Back,33,13,66.9,66.2,1.48,2.29,2.06,350293,94
+280726,Tendai,Mzungu,FR,9,64,79,82,50,68,8,7,4,3,1,0,0,0,1, Full Time,news,%O and %M plus %s,,,362300,126,382500,107,Midfielder,13,13,77,79.1,0.91,1.04,1.26,403560,113
+230048,Ryan,Crowley,FR,5,57,52,77,46,63,9,4,5,3,0,1,2,0,0, Full Time,tagger,Tagging Shuey... %P,,,343500,53,328000,51,Midfielder,15,13,63.5,58.5,1.44,1.70,2.39,326608,49
+290251,Zachary,Clarke,FR,6,55,48,70,46,59,5,5,4,3,6,1,1,0,2, Full Time,news,%H with %P... and booted %s,,,374500,66,399600,71,Ruck,30,10,72.9,76.1,0.54,0.30,0.90,371157,68
+240552,Zac,Dawson,FR,4,47,43,59,44,59,5,8,5,1,2,1,2,0,0, Full Time,job,Responsible for Kennedy... %P,,,167000,66,233400,68,Back,3,11,32.1,44.8,2.43,1.68,3.79,170334,45
+200032,Matthew,Pavlich,FR,9,40,57,48,37,48,5,6,3,0,0,1,1,1,0, Full Time,missing,Mackenzie following him... Very quiet throughout... %s from %D and %M,,,399600,109,478800,96,Forward,29,13,79,91.8,9.40,11.95,11.39,398672,86
+240037,Colin,Sylvia,FR,8,39,51,48,33,42,4,4,3,1,0,0,0,1,0, Full Time,news,Kicked %s,subbed,Subbed out very early in the fourth,447100,205,464400,212,Forward Midfielder,4,2,30.5,31.5,0.68,0.36,0.67,382697,120
+280386,Clancee,Pearce,FR,1,18,15,24,14,18,2,1,2,1,0,0,0,0,0, Full Time,news,On very early in the fourth... %M and %O,sub,Started as the sub,318500,133,313600,133,Back,46,6,56,55.7,0.50,0.28,0.55,345640,103
+250317,Eric,Mackenzie,WC,25,112,113,91,88,114,14,8,11,5,0,1,0,0,0, Full Time,bluemoon,%M and %O,job,Taking Pavlich,339000,36,351300,35,Back,16,13,66.8,70.7,1.72,1.09,2.32,334369,60
+240119,Mark,LeCras,WC,26,109,109,77,85,113,16,6,6,5,0,0,1,2,2, Full Time,hot,Stood by Ibbotson and LeCras... %s from %D and %M with %T,,,425800,89,427900,92,Forward,2,8,89.1,90.3,3.55,3.04,3.98,432336,85
+240124,Matt,Priddis,WC,26,109,110,85,76,108,15,9,3,9,0,1,0,0,0, Full Time,hot,%O with %k by foot... also %T,,,556500,122,583800,86,Midfielder,11,13,106.9,110.2,2.49,2.24,2.93,564269,121
+250111,Matt,Rosa,WC,20,101,71,77,79,105,14,8,8,5,0,2,1,0,0, Full Time,hot,%2 S.Hill... %O with %b by hand... also %M and %T,,,419000,51,383000,23,Midfielder,24,12,91.4,84.6,1.73,0.92,2.50,429967,78
+250257,Xavier,Ellis,WC,19,89,88,53,72,93,15,6,7,1,0,1,0,1,0, Full Time,news,%D and %M... and kicked %s,,,292400,46,327200,52,Midfielder,18,11,59.1,65.7,16.44,15.17,21.95,277574,48
+200112,Dean,Cox,WC,15,82,98,66,67,84,9,6,5,3,15,1,0,0,0, Full Time,news,Has a range of opponents when forward and a clear height advantage... %H... also %P and %M,,,463100,129,487800,149,Ruck,20,11,88.5,92.3,8.02,4.23,8.45,461245,104
+261290,Chris,Masten,WC,10,78,72,56,61,84,11,9,5,3,0,0,0,0,0, Full Time,news,%D and %T,,,408500,92,381800,87,Midfielder,7,12,85.3,81.1,0.83,0.32,0.82,433797,103
+280441,Patrick,McGinnity,WC,20,78,70,57,59,76,11,4,4,4,0,2,0,1,1, Full Time,news,%O... and booted %s,,,281600,,287400,,Midfielder,35,1,15,16,0.28,0.26,0.39,255695,97
+290801,Andrew,Gaff,WC,9,75,55,45,56,79,13,7,3,3,0,0,0,0,1, Full Time,news,%D... and kicked %s,,,472500,114,433100,114,Midfielder,3,13,91.4,84.1,1.98,1.85,2.02,454963,85
+294859,Jeremy,McGovern,WC,16,73,70,56,64,78,9,3,8,1,0,0,1,2,3, Full Time,news,First goal... Taberner on him... kicked %s,cash,,247700,-6,297600,-56,Forward,42,4,72.8,90.5,15.37,18.70,15.23,206114,-3
+280078,Luke,Shuey,WC,15,72,84,55,62,85,8,13,3,2,0,1,1,1,1, Full Time,tagged,Tagged by Crowley... %P and %M plus %T... %s as well,creepy,,409700,60,425500,61,Midfielder,13,11,85.4,92.6,1.02,1.37,1.05,422466,86
+240283,Shannon,Hurn,WC,9,71,73,28,57,78,16,5,5,0,0,1,1,0,0, Full Time,news,%D with %k by foot,,,418200,82,500700,47,Back,25,9,78.4,91.9,2.51,2.87,3.18,416109,88
+240406,Josh J.,Kennedy,WC,15,71,64,53,62,74,9,3,7,1,0,2,1,2,2, Full Time,news,Dawson minding him... kicked %s,,,396700,45,402200,41,Forward,17,12,76.2,79,3.82,3.54,4.71,400184,81
+261214,Will,Schofield,WC,13,70,73,43,58,72,12,3,9,0,0,1,0,0,0, Full Time,job,Largely responsible for Mayne... %M and %O,,,226100,63,267500,70,Back,31,8,43,51,0.62,0.33,0.71,236704,58
+281052,Mark,Hutchings,WC,14,70,65,49,54,72,10,6,3,3,0,1,0,1,0, Full Time,news,%D and %M... and scored %s,,,424100,59,382500,66,Midfielder,34,8,79.5,70.6,0.30,0.15,0.30,389399,53
+271045,Nic,Naitanui,WC,19,61,76,75,47,63,0,9,0,7,15,0,0,0,0, Full Time,news,%H... also %P and %T,,,416900,71,506700,63,Ruck,9,13,68.4,84.6,8.14,9.97,10.42,389903,65
+261799,Sharrod,Wellingham,WC,8,55,62,45,45,66,6,11,2,3,0,0,1,0,0, Full Time,news,%D,,,345200,33,340900,7,Midfielder,12,11,70.7,71.6,1.38,1.28,1.68,350797,66
+290838,Jack,Darling,WC,9,43,37,18,36,49,9,3,2,0,0,0,1,1,1, Full Time,cold,Has the mismatch on Spurr... Found it hard to get involved throughout... %s from %O,,,388900,78,372100,61,Forward,27,13,81,80.6,4.96,3.44,6.07,400789,83
+281080,Brad,Sheppard,WC,3,40,32,26,29,39,7,1,3,2,0,0,0,0,0, Full Time,news,%D and %M,,,336900,77,350500,65,Midfielder,5,11,66.5,69.3,0.74,0.90,0.65,346866,79
+290943,Jamie,Bennell,WC,2,35,36,28,29,39,4,5,3,1,0,0,0,0,0, Full Time,job,Largely on the resting mid then took Ballantyne after Brown went off... %B among %P,,,255700,79,296100,110,Midfielder,44,13,51.2,60.6,1.62,2.27,3.46,278632,79
+240159,Sam,Butler,WC,2,26,22,21,23,33,3,5,2,1,0,0,1,0,0, Full Time,news,On early in the third term... %M and %O,sub,Started as the sub,361000,134,366400,116,Back,26,3,38.7,48.7,0.22,0.12,0.20,338199,99
+260303,Mitchell,Brown,WC,1,18,16,16,14,18,2,1,2,1,0,0,0,0,0, Full Time,injured,Appeared to injure his ACL in his right knee early in the third... Minding Ballantyne... %M and %O,subbed,Off early in the third term,199700,48,195800,49,Back,1,13,43.1,47.7,0.91,1.85,1.15,213623,47

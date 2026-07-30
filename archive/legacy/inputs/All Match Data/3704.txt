@@ -1,0 +1,48 @@
+Adelaide,Crows,Hawthorn,Hawks,R1,16.9.105,12.13.85, Full Time
+Mar 26,2011,7:40,Footy Park,Ten,261142,10310104,5015,5,Fine,21
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Hopefully!,SC scores?,Only for the last Sunday game.,Team icons?
+<em>supersrar4</em>: n<br><em>EastonGood</em>: colvin=spud<br><em>footywiz</em>: fml mckernan on the bench and gamble on the ground<br><em>localh</em>: umpires?<br><em>EastonGood</em>: Colvin is a spud<br><em>MrRiosWan</em>: Umpires flowering HATE buddy<br><em>Madsnake</em>: 1 off having the purple name<br><em>hungryJack</em>: sc is going to be crap this year thanks to the sub rule<br><em>nikos</em>: Knights redeemed himself in the end. Unlike bloody Franklin<br><em>GoneTheBif</em>: Walker has been robbed..<br><em>watty</em>: Umpires savaged the hawks tonight&#044; would have been a different game with unbiased umps<br><em>oldshepp</em>: Savage looks promising of he can keep his spot<br>
+200072,Scott,Stevens,AD,31,125,104,165,102,134,19,8,13,4,1,1,2,0,1, Full Time,hot,%O and %M with %T,job,Standing Hale
+220086,Brent,Reilly,AD,25,108,102,139,87,114,15,11,8,4,0,4,1,0,0, Full Time,hot,%O and %M... collarbone knock in Q3,tagger,Tagging Mitchell
+280804,Phil,Davis,AD,20,97,101,125,79,105,16,9,8,2,0,2,1,0,0, Full Time,sore,%M and %D... his head ran into Bateman's knee in Q3,job,Chasing Franklin
+230216,Richard,Tambling,AD,14,92,74,122,71,93,15,4,9,3,0,0,0,0,0, Full Time,news,%P and %M,,
+261142,Bernie,Vince,AD,16,92,86,117,72,95,16,6,5,2,0,1,0,1,2, Full Time,news,%D and %s,,
+250118,Nathan,van Berlo,AD,21,89,-,110,76,99,11,10,6,2,0,1,1,2,0, Full Time,tagged,Tagged by Ladson... %D and %M,,
+270917,Patrick,Dangerfield,AD,21,89,112,112,73,94,12,5,5,3,1,0,1,3,0, Full Time,star,Forced to play forward on Stratton after Porplyzia's injury... %s from %D with %M and %T with a scintillating second half to set up the win,,
+280038,Shaun,McKernan,AD,21,83,98,103,75,91,10,5,8,1,13,2,2,1,0, Full Time,news,%P and %G on Gilham... also %H,,
+220093,Ben,Rutten,AD,14,80,94,100,69,90,11,10,9,0,0,0,0,0,0, Full Time,job,On Roughead... %D and %M,,
+270963,Rory,Sloane,AD,14,79,90,104,63,84,12,6,5,4,1,3,2,0,2, Full Time,news,%P and %T plus %M and %s,,
+210016,Scott,Thompson,AD,19,78,91,98,64,93,10,15,2,4,0,2,2,0,0, Full Time,news,%2 Sewell... %P and %T,,
+240546,Ivan,Maric,AD,15,77,82,96,61,72,8,4,3,4,15,5,0,0,0, Full Time,news,%H and %P... also %T and %4 frees for,,
+240032,Chris,Knights,AD,20,76,79,96,64,81,10,5,6,2,0,1,1,2,0, Full Time,news,%s from %O and %M on Bruce,,
+240370,Richard,Douglas,AD,8,71,83,92,52,73,13,6,2,3,0,1,0,0,1, Full Time,news,%O and %T,,
+270296,Andy,Otten,AD,9,64,67,78,55,75,5,13,5,2,0,0,0,0,0, Full Time,job,Matched up on Osborne... %P and %M,,
+200092,Michael,Doughty,AD,10,63,86,84,49,66,8,5,5,4,0,1,1,0,0, Full Time,news,%D and %T,,
+280506,Taylor,Walker,AD,16,63,66,75,57,68,6,3,4,1,0,0,1,4,2, Full Time,news,Gibson on him... kicked %s from %G and %D,,
+291201,Ricky,Henderson,AD,12,57,63,71,50,63,5,5,5,2,0,0,1,2,0, Full Time,news,%s from %D and %M,,
+291748,Brodie,Smith,AD,4,50,48,63,41,55,9,5,4,0,0,0,0,0,1, Full Time,rookie,On very early in Q1 for Porplyzia... %D and %M with %s,sub,Started as a sub
+210056,Graham,Johncock,AD,2,36,41,48,25,36,7,2,1,2,0,0,0,0,0, Full Time,tagged,Forward tag on him by Lewis... %D,,
+250362,David,Mackay,AD,2,31,36,41,23,33,8,2,0,1,0,2,1,0,0, Full Time,news,%K among %O,,
+230174,Jason,Porplyzia,AD,6,16,13,20,13,15,1,0,1,1,0,0,0,1,0, Full Time,injured,First goal... perennially troublesome right shoulder dislocated in Q1,subbed,Subbed off very early in Q1
+220073,Sam,Mitchell,HW,26,123,122,83,97,141,18,20,4,5,0,0,1,0,0, Full Time,hot,Tagged by Reilly... %O and %M with %T,,
+250055,Clinton,Young,HW,21,109,105,58,89,112,20,4,9,0,0,1,0,2,1, Full Time,hot,%s from %O and %M,,
+260955,Cyril,Rioli,HW,19,100,117,72,77,104,15,7,7,5,0,1,1,0,2, Full Time,hot,%s from %D and %M with %T,,
+210012,Shaun,Burgoyne,HW,21,89,101,66,77,102,10,13,3,2,0,1,1,3,0, Full Time,news,%O and %M with %T and a big %s,,
+220060,Rick,Ladson,HW,14,88,105,61,65,93,13,11,2,5,0,1,0,0,0, Full Time,news,%D and %T,tagger,Tagging van Berlo
+230197,Brad,Sewell,HW,24,84,89,70,65,96,9,16,1,6,0,1,1,0,0, Full Time,news,%2 Thompson... %B among %P with %T,subbed,Subbed off at 3QT
+280737,Liam,Shiels,HW,10,75,84,50,60,81,11,10,4,2,0,2,0,0,0, Full Time,news,%O,,
+240399,Lance,Franklin,HW,20,72,72,46,66,87,12,3,6,2,0,1,5,2,6, Full Time,news,Booted %s from %P with %G on Davis... also %T and %F,,
+280858,Shane,Savage,HW,14,70,75,36,52,72,14,3,2,3,0,1,1,1,0, Full Time,news,%P,,
+200040,Chance,Bateman,HW,18,67,51,52,61,81,8,9,7,1,0,0,2,1,0, Full Time,news,%D and %M,,
+280471,Ben,Stratton,HW,15,67,79,72,51,72,4,10,3,7,0,1,1,0,0, Full Time,job,Minding Dangerfield... %B among %D with %T and %M,,
+250715,Josh,Gibson,HW,5,64,94,50,50,64,8,6,4,3,1,3,0,0,0, Full Time,job,Has Walker... %D and %M,,
+240357,Jarryd,Roughead,HW,12,60,82,44,50,64,8,3,4,2,0,0,1,2,1, Full Time,news,%D and %M on Rutten,,
+200052,Cameron,Bruce,HW,9,58,58,48,45,64,7,7,3,4,0,0,1,0,1, Full Time,job,Minding Knights... %O,,
+240302,Grant,Birchall,HW,8,58,49,46,45,63,7,8,3,3,0,0,0,0,0, Full Time,news,%P,,
+270732,Matt,Suckling,HW,7,55,66,23,43,63,12,6,2,1,0,0,1,0,0, Full Time,news,%D and %M,,
+220036,David,Hale,HW,10,53,47,49,53,66,4,7,6,1,12,2,3,0,0, Full Time,news,%P and %M with %F on Stevens... also %H,,
+210092,Michael,Osborne,HW,10,52,44,45,41,54,5,6,2,3,0,1,0,1,0, Full Time,news,Matched up on Otten... %s from %O,,
+250089,Jordan,Lewis,HW,5,51,64,43,41,57,6,6,4,3,0,0,1,0,0, Full Time,tagger,Forward tag on Johncock... %O,,
+250308,Brent,Renouf,HW,11,48,34,45,53,68,3,7,4,1,23,1,5,0,0, Full Time,news,%H and %P with %M... also %F,,
+230082,Stephen,Gilham,HW,3,34,39,25,27,39,5,4,2,2,0,0,1,0,0, Full Time,job,Standing McKernan... %D and %M,,
+261386,Brendan,Whitecross,HW,2,27,24,22,22,30,3,4,2,1,0,0,0,0,0, Full Time,news,On in Q4 for Sewell,sub,Started as a sub

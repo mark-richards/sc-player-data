@@ -1,0 +1,48 @@
+Western Sydney,Giants,Gold Coast,Suns,R7,13.16.94,9.13.67, Full Time
+May 12,2012,1:40,Manuka,Fox Sports,290627,10340702,430063,0,Sunny,14,,
+
+<em>kingcashew</em>: melbourne for sure<br><em>daniel33</em>: is there a view on afl dt website where you can see your team by position as opposed to by unique players?<br><em>MontyJnr</em>: campbell brown is a pathetic excuse for a footballer<br><em>SuperSub17</em>: spud for campbell brown<br><em>shrimp5083</em>: yay<br><em>doogz</em>: ablett sc is 126<br><em>mufc</em>: thanks guys<br><em title="AFLDT2012">afldt2012</em>: one does not simply get close to beating fremantle and essendon and then lose to gws<br><em>Grazz</em>: @Meztek hope so<br><em>mufc</em>: dixon is shower if anyone has him put a gun to your head now<br><em>SuperSub17</em>: treloar 40 pts in the last qtr<br><em>GJayBee</em>: Meztek&#044; I figured Hall had to be injured&#044; does anyone know?<br>
+980059,Chad,Cornes,WS,26,116,106,148,96,126,16,12,12,2,0,0,0,0,0, Full Time,rock,Running off Day... %D and %M,,
+291969,Stephen,Coniglio,WS,25,108,103,134,88,120,18,13,6,1,0,0,0,1,0, Full Time,star,%2 Prestia... %O and %M plus %s,cash,As usual high draft pick mids deliver on fantasy cash generation
+261841,Jonathan,Giles,WS,27,107,134,128,94,116,13,8,6,1,13,1,1,3,1, Full Time,superman,%H and %P with %M and %s... massive Q4 to help the Giants over the line for their first win,cash,The best #2 ruck you could ever hope for
+280109,Callan,Ward,WS,25,100,113,130,78,104,16,6,6,4,2,1,1,1,0, Full Time,hot,%P and %M plus %T and %s,,
+295344,Toby,Greene,WS,15,96,77,125,77,101,15,7,8,3,0,2,1,0,2, Full Time,news,%P and %M plus %s,cash,Shows no signs of slowing down as a fantasy cash generator
+29,Adam,Treloar,WS,24,95,96,125,71,93,14,4,6,5,0,1,0,1,0, Full Time,cash,%O and %T with %M,,
+261231,Rhys,Palmer,WS,14,91,53,116,75,98,14,9,7,2,0,3,1,0,2, Full Time,news,Playing a HFF... %P and %M plus %s,,
+291784,Dom,Tyson,WS,21,91,86,114,76,99,11,10,8,2,0,0,0,1,0, Full Time,cash,%D and %M on Iles,,
+280969,Tom,Scully,WS,14,78,91,100,60,86,12,10,2,4,0,1,1,0,2, Full Time,news,%2 Rischitelli... %B among %O plus %s,,
+291771,Devon,Smith,WS,16,73,77,92,62,83,11,6,4,2,0,0,2,2,2, Full Time,cash,First goal... %s from %O on Wilkinson,,
+11,Taylor,Adams,WS,9,72,80,91,55,78,11,10,2,3,0,1,0,0,0, Full Time,cash,%D and %T with %M,,
+280804,Phil,Davis,WS,12,70,82,90,57,72,11,5,7,1,0,2,0,0,0, Full Time,job,On Dixon... %M and %O,,
+291783,Dylan,Shiel,WS,15,64,62,80,57,76,7,9,5,2,0,1,2,1,1, Full Time,cash,%O and %M with %T,tagger,Tagging Ablett jnr
+980011,Luke,Power,WS,8,63,82,82,49,66,12,4,5,1,0,0,0,0,0, Full Time,news,%D and %M,,
+291509,Adam,Kennedy,WS,12,60,75,77,51,69,9,7,6,1,0,0,1,0,0, Full Time,job,In defence on Brown... %M and %D,,
+291891,Jacob,Townsend,WS,11,59,71,75,47,61,6,5,4,3,0,0,0,1,1, Full Time,cash,%P and %s on Tape,,
+291802,Tomas,Bugg,WS,10,58,68,76,44,60,6,6,4,4,0,0,0,0,0, Full Time,harley,Tagging Bennell... %P and %M,,
+294917,Israel,Folau,WS,9,58,58,73,46,60,4,7,3,4,4,1,0,0,2, Full Time,cash,%D and %T on Warnock... also %H,,
+261189,Tim,Mohr,WS,4,48,72,60,40,54,6,7,4,1,0,0,0,0,0, Full Time,cash,%D and %M,job,Standing Lynch
+293845,Jeremy,Cameron,WS,14,46,52,60,34,45,4,3,2,4,0,0,0,1,0, Full Time,cash,%P and %T on Warnock,,
+294068,Andrew,Phillips,WS,3,35,47,43,28,36,3,3,1,2,9,0,0,0,0, Full Time,rookie,First game... on in Q3 for Sumner,sub,Started as a sub
+9,Liam,Sumner,WS,7,23,24,27,19,24,2,3,0,1,0,1,0,1,0, Full Time,bubble,Second game... %s from %D,subbed,Subbed off at HT for Phillips
+290627,Dion,Prestia,GC,50,127,112,109,90,127,15,11,5,11,0,0,0,0,1, Full Time,hot,%2 Coniglio... %K among %P with %T and %s,,
+240316,Sam,Iles,GC,31,120,127,90,96,129,16,12,8,5,0,1,1,1,0, Full Time,hot,%P and %T with %M and %s,job,Responsible for Tyson
+220001,Gary,Ablett jnr,GC,15,106,125,43,79,112,23,10,2,2,0,2,0,0,1, Full Time,gun,Tagged by Shiel... %K among %D with %M and %s,,
+250716,Matthew,Warnock,GC,20,100,89,65,79,105,17,5,10,3,0,0,1,0,0, Full Time,bluemoon,%D and %M with %T,job,Standing Folau
+281279,Kyal,Horsley,GC,32,95,80,92,68,90,9,4,6,9,0,0,0,1,0, Full Time,news,%O and %T with %M and %s,cash,Massive fantasy cash injection!
+291594,Harley,Bennell,GC,16,94,99,65,75,102,13,11,4,3,0,0,0,1,3, Full Time,news,%O and %M plus %T and %s,bugg,Tagged by Bugg
+281025,Luke,Russell,GC,24,90,84,69,73,97,13,5,10,4,0,0,2,0,1, Full Time,news,%P and %M with %T... also %F,,
+290623,Josh,Caddy,GC,20,85,73,62,72,93,11,8,6,2,0,1,1,2,0, Full Time,news,%P and %T with %M and %s,,
+290527,Trent,McKenzie,GC,14,82,81,53,65,87,13,8,6,2,0,1,0,0,0, Full Time,news,%P and %M,,
+293223,Seb,Tape,GC,21,69,62,70,47,66,6,5,3,8,0,0,0,0,0, Full Time,job,Manning up Townsend... %D and %T,,
+293813,Thomas,Lynch,GC,9,66,91,46,52,71,10,6,4,3,0,1,1,0,2, Full Time,news,Booted %s from %D and %M on Mohr... also %T,,
+260630,Michael,Coad,GC,8,65,58,36,53,72,12,6,5,1,0,1,1,0,0, Full Time,job,Standing Cameron... %P and %M,,
+240712,Michael,Rischitelli,GC,14,61,70,50,53,69,6,9,5,1,0,0,0,1,0, Full Time,skull,%2 Scully... %P,,
+280722,Zac,Smith,GC,9,57,80,51,54,68,3,11,3,0,17,0,0,0,0, Full Time,news,%H and %P,,
+291753,Sam,Day,GC,15,57,53,42,52,64,7,4,6,0,0,0,1,2,1, Full Time,news,%s from %P and %M on Cornes,,
+230015,Jared,Brennan,GC,8,55,68,41,44,63,7,8,1,3,6,0,1,0,0, Full Time,news,One handball in Q1... %P and %T,,
+292512,Karmichael,Hunt,GC,7,50,66,40,41,58,5,11,1,2,1,1,0,0,0, Full Time,news,%D,,
+290832,David,Swallow,GC,9,49,41,27,38,48,9,1,3,1,0,1,0,1,0, Full Time,sore,Playing as a forward with a heavily strapped left knee... %s from %O,subbed,Subbed off in Q3 for Toy
+220013,Campbell,Brown,GC,4,47,53,32,37,53,8,3,3,3,0,0,2,0,2, Full Time,news,%P on Kennedy,,
+290703,Joel,Wilkinson,GC,7,38,26,28,36,48,6,3,6,1,0,1,3,0,0, Full Time,job,Chasing Smith... %O and %M,,
+280711,Charlie,Dixon,GC,3,29,41,23,28,36,3,4,3,0,6,0,1,0,0, Full Time,news,%D and %M on Davis... also %H,,
+290539,Joshua,Toy,GC,0,6,11,8,4,6,0,1,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Swallow,sub,Started as a sub

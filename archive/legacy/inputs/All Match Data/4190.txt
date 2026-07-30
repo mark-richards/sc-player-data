@@ -1,0 +1,48 @@
+Hawthorn,Hawks,West Coast,Eagles,R23,14.11.95,10.10.70, Full Time
+Aug 31,2012,7:50,MCG,Seven,280744,10342301,430197,0,Windy,14,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>macca.barb</em>: Is Jk hurt bad ?<br><em>thirstyman</em>: mashed runt<br><em>leeroy09</em>: Any danger of getting a contested ball Mitchell?<br><em>leeroy09</em>: Well played Scoot<br><em>I<3Sausage</em>: thankyou to Waters&#044; Cox&#044; Birchall&#044; WhiteX (on bench) and Franklin for a great 2012<br><em>dougie1112</em>: no runt&#044; you did much more than that<br><em>I<3Sausage</em>: he is inconsistant though...<br><em>Scotty1</em>: Buddy sc will still go up<br><em>Dangeroo</em>: ditto sausage&#044; so bad :(<br><em>daniel87</em>: he been recognised for spud of the year monty just hasnt added it the site yet <br><em>rosty63</em>: runt fried hawks and got mashed<br><b class="picon i_spud" title="runt is a spud"></b> runt: I got the spud because I said Franklin is inconsistant<br>
+220073,Sam,Mitchell,HW,24,98,121,127,82,117,14,14,7,4,0,0,3,0,0, Full Time,star,%O and %M,scooter,Tagged by Scott Selwood
+240302,Grant,Birchall,HW,13,90,97,114,69,99,19,10,3,1,0,0,0,0,0, Full Time,news,%P and %M,,
+250055,Clinton,Young,HW,21,84,95,113,63,90,13,7,4,6,0,1,2,0,0, Full Time,news,%D and %M with %T,,
+220047,Luke,Hodge,HW,15,83,88,104,66,89,15,7,4,1,1,0,0,1,1, Full Time,news,%D and %M plus %s,sore,Right shoulder knock in Q4
+230197,Brad,Sewell,HW,14,83,97,105,66,96,13,13,3,3,0,0,1,0,0, Full Time,news,%O and %M with %T,tagger,Tagging Kerr
+270732,Matt,Suckling,HW,9,83,101,105,66,90,15,9,5,1,0,1,0,0,0, Full Time,tagged,Forward tag on huim by McGinnity... %P and %M wiht %T,,
+281301,Ryan,Schoenmakers,HW,19,82,92,110,64,84,12,4,8,4,0,1,1,0,0, Full Time,sore,%D and %T with %M... corkie late in Q4,job,Has Darling
+294877,Isaac,Smith,HW,20,81,81,105,64,87,11,7,5,4,0,0,1,1,0, Full Time,news,%2 Embley... %P and %M plus %T and %s,,
+240399,Lance,Franklin,HW,17,76,112,92,69,85,9,5,5,1,0,1,2,4,1, Full Time,x-factor,First goal.... %s from %P and %G on Brown including four big ones early in Q1,,
+240357,Jarryd,Roughead,HW,13,75,106,95,64,85,9,9,7,2,3,0,1,0,1, Full Time,news,%P and %G on Schofield... also %T,,
+250715,Josh,Gibson,HW,14,74,91,97,56,75,10,6,5,4,0,1,0,0,0, Full Time,job,Has Kennedy... %O and %M,,
+280744,Luke,Breust,HW,25,72,74,95,55,78,9,7,2,6,0,1,2,1,0, Full Time,news,%O and %T,,
+210012,Shaun,Burgoyne,HW,14,66,90,83,52,70,10,6,3,2,0,0,0,1,1, Full Time,news,%D and %M plus %s,job,Has Strijk
+261386,Brendan,Whitecross,HW,9,65,63,86,50,68,13,3,4,2,2,1,1,0,0, Full Time,news,Matched up on Hurn... %D,,
+250089,Jordan,Lewis,HW,9,64,56,80,54,72,8,9,4,2,1,2,1,0,2, Full Time,news,Playing forward mostly on Adam Selwood... %s from %D and %M,,
+220036,David,Hale,HW,11,61,71,72,55,68,6,6,3,1,12,1,1,1,2, Full Time,news,%H and %P with %M and %s,,
+260710,Paul,Puopolo,HW,14,55,64,71,41,55,4,5,2,5,0,0,0,1,1, Full Time,news,%s from %O and %T on Butler,,
+280471,Ben,Stratton,HW,9,55,57,73,40,54,7,4,3,4,0,1,0,0,0, Full Time,job,Minding Hill... %O and %T,,
+200060,Brent,Guerra,HW,4,47,69,61,40,54,7,5,5,1,0,0,1,0,0, Full Time,injured,%D and %M... left hamstring tear in Q4,,
+260955,Cyril,Rioli,HW,9,46,41,56,37,49,5,6,1,2,0,1,0,1,1, Full Time,news,On in Q3 for Gunston... %s from %D,sub,Started as a sub
+291351,Jack,Gunston,HW,15,44,49,53,41,51,3,4,2,2,0,1,2,3,0, Full Time,injured,%s from %P and %M on Glass... left ankle knock in Q3 when Hurn fell on it,subbed,Subbed off in Q3 for Rioli
+280737,Liam,Shiels,HW,2,36,15,49,24,34,6,1,1,3,0,0,0,0,1, Full Time,tagger,Tagging Gaff... %P and %s,,
+290838,Jack,Darling,WC,32,122,101,94,99,124,15,7,9,4,0,1,0,3,1, Full Time,heart,%s from %P on Schoenmakers... also %T and %G... left knee knock in Q1 when he knocked knees with Hodge,,
+270928,Scott,Selwood,WC,26,117,137,85,94,132,15,20,5,4,0,1,0,0,0, Full Time,hot,%P and %M,tagger,Tagging Mitchell
+280078,Luke,Shuey,WC,20,98,85,66,77,108,15,12,5,4,0,1,1,0,0, Full Time,news,%O and %M with %T,,
+271045,Nic,Naitanui,WC,28,94,109,106,73,93,3,8,3,9,24,0,0,0,0, Full Time,news,%H and %P with %T and %M,,
+990020,Andrew,Embley,WC,14,94,71,41,74,104,20,8,5,1,0,0,1,0,2, Full Time,news,%2 Smith... %O and %M,,
+240016,Beau,Waters,WC,19,92,108,59,76,99,14,9,7,1,0,1,0,1,0, Full Time,switch,%P and %M... switched forward in Q4 for %s,,
+240124,Matt,Priddis,WC,19,89,86,69,71,100,10,17,2,4,0,2,0,0,1, Full Time,news,%B among %D with %T,,
+240283,Shannon,Hurn,WC,9,85,92,40,61,84,18,4,3,3,0,2,0,0,0, Full Time,job,Whitecross is his man... %P,,
+261290,Chris,Masten,WC,14,81,93,55,61,87,12,11,2,4,0,1,0,0,0, Full Time,news,%O and %T,,
+200112,Dean,Cox,WC,16,79,81,58,70,83,9,4,4,1,28,2,1,0,1, Full Time,news,%H with %P and %M... also %s,,
+280441,Patrick,McGinnity,WC,22,77,67,80,61,81,4,10,3,6,0,0,0,2,0, Full Time,tagger,Forward tag on Suckling... %D and %T with %M,,
+261214,Will,Schofield,WC,17,73,80,69,63,78,6,5,8,3,0,0,1,2,0, Full Time,news,%O and %M with %T and a bonus %s,job,Standing Roughead
+210018,Daniel,Kerr,WC,9,60,62,33,51,75,11,10,2,2,0,2,3,0,0, Full Time,tagged,Tagged by Sewell... %D and %M,,
+240159,Sam,Butler,WC,8,58,69,37,44,63,10,5,3,3,0,0,1,0,0, Full Time,job,Minding Puopolo... %P and %M,,
+261209,Josh,Hill,WC,14,57,65,49,42,57,7,2,3,5,0,0,1,1,0, Full Time,news,%s from %D and %M on Stratton... also %T,,
+290801,Andrew,Gaff,WC,9,55,75,39,46,60,7,7,3,1,0,1,0,1,0, Full Time,tagged,Tagged by Shiels... %D and %M,,
+230254,Adam,Selwood,WC,8,47,26,36,34,45,7,2,2,4,0,3,1,0,0, Full Time,news,%O and %M with %T,job,Lewis is his man
+240406,Josh J.,Kennedy,WC,8,46,30,43,39,52,5,3,6,3,0,0,2,0,1, Full Time,sore,%s from %P and %M on Gibson... also %T... left ankle tweak when Gibson fell on it late in Q4,,
+260446,Andrew,Strijk,WC,8,37,25,35,25,34,4,1,2,4,0,0,0,0,1, Full Time,news,%D and %T on Burgoyne,subbed,Subbed off in Q3 for Brennan
+200074,Darren,Glass,WC,3,35,35,35,28,39,3,4,3,3,0,0,1,0,0, Full Time,job,Started on Gunston... %M and %O with %T,,
+260303,Mitchell,Brown,WC,1,28,47,25,24,33,2,7,1,1,0,1,0,0,0, Full Time,job,The big job on Franklin... %O,,
+280324,Jacob,Brennan,WC,2,25,24,21,18,24,3,2,1,2,0,1,0,0,0, Full Time,news,On in Q3 for Strijk,sub,Started as a sub

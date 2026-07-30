@@ -1,0 +1,48 @@
+Fremantle,Dockers,St Kilda,Saints,R15,15.10.100,11.4.70, Full Time
+Jul 07,2013,3.15,Subiaco,Seven,250268,10391508,fre-v-stk,0,Sunny,18,,
+
+<em style='color:#000'>Jmachete</em>: spur took ibbos points<br><em style='color:#000'>old_shepp</em>: 111 by Barlow as Capt good enough after GAJ withdrew<br><em style='color:#000'>MudDawg</em>: Johnson tv&#044; high hit on Armo.<br><em style='color:#000'>spangle</em>: 2432 with Goddard to come&#044; woohoo!<br><em style='color:#000'>dipstick</em>: are saad and dawson going to be fighting over bottom bunk bed in the garage?<br><em style='color:#000'>Guysmiley</em>: Go Fyfey!<br><em style='color:#000'>Luke919</em>: if dawson is DPP then lock him in<br><em style='color:#000'>bigpens</em>: Dawson DPP next year? Ruck/Back?<br><em style='color:#000'>gambler</em>: Now the ump took the ball off ibbo because he accidentally blew the whistle.. apologized n all. anything else? <br><em style='color:#000'>Wends</em>: Those SC scores of dipsticks carefully calculated based on muppet factor obviously <br><em style='color:#000'>jpk2goodes</em>: dipstick&#044; it's 800. fits with the model number t-800<br><em style='color:#000'>gambler</em>: has not been ibbos day<br>
+240052,David,Mundy,FR,27,116,120,146,91,120,17,9,5,4,3,1,0,2,0, Full Time,cherry,%O including %k by foot with %T... also %M and %s,,,472500,111,527200,101,Centre,16,11,96.6,104.3,2.90,4.47
+230107,Michael,Johnson,FR,25,115,99,149,95,126,20,9,12,1,0,0,1,0,0, Full Time,hot,Loose in defence as usual... %P and %M,,,444800,99,466000,102,Back,37,13,81.5,84.2,1.96,1.38
+292026,Michael,Barlow,FR,20,111,104,140,90,125,17,15,6,3,1,1,1,0,1, Full Time,gun,%O and %M plus %T and %s,,,550400,117,604100,102,Centre,21,12,110,115.3,15.45,9.18
+280726,Tendai,Mzungu,FR,26,110,130,140,89,120,17,12,5,4,0,4,2,1,0, Full Time,star,%2 Ray off a wing... %D and %M plus %T and %s,,,382100,84,385800,87,Centre,13,13,74.2,74.1,1.41,0.78
+260069,Hayden,Ballantyne,FR,32,106,101,132,90,109,14,2,8,2,0,0,1,5,1, Full Time,x-factor,%s from %O and %M on Wright including four majors in the first half,,,311000,95,313700,99,Forward,1,12,63.1,64.5,1.50,1.16
+291570,Nathan,Fyfe,FR,21,105,82,130,88,127,17,18,4,2,3,0,2,0,1, Full Time,magnet,%2 Hayes... %B among %P with %s,,,439300,96,512200,113,Centre,7,11,95.5,106.5,12.61,17.11
+280386,Clancee,Pearce,FR,24,96,101,121,81,106,15,10,10,0,0,0,0,0,1, Full Time,news,%P and %M plus %s,job,In defence on Dennis-Lane,403400,137,423100,136,Centre,46,13,80.5,82.2,0.54,0.45
+200032,Matthew,Pavlich,FR,21,95,106,117,84,106,11,10,9,1,0,1,1,2,1, Full Time,news,%s from %P and %M on Dempster,,,450900,151,533900,170,Forward,29,3,66.3,71.7,2.84,2.33
+240266,Lee,Spurr,FR,19,94,102,120,79,105,15,10,9,1,0,1,1,0,0, Full Time,job,Minding Saad... %O and %M,,,362200,91,363000,76,Back,34,12,73,75,0.85,0.66
+280416,Chris,Mayne,FR,22,94,102,116,80,102,10,10,8,2,0,0,0,2,0, Full Time,news,%s from %D and %M on Roberton... %T as well,,,381900,107,431100,109,Forward,23,13,80.9,86.8,3.90,2.61
+271015,Matthew,de Boer,FR,25,91,92,116,74,96,7,10,8,5,0,0,0,1,0, Full Time,news,Forward role on Geary... %O and %T with %M and %s,,,392100,86,402300,57,Forward Centre,9,13,77.3,74.9,1.64,1.38
+230048,Ryan,Crowley,FR,13,84,75,106,69,93,13,10,7,1,0,0,0,0,0, Full Time,news,%P and %M,tagger,Tagging Dal Santo then went to Montagna after HT,252500,65,264400,60,Centre,15,13,49.7,52.4,1.39,1.48
+250063,Danyle,Pearce,FR,15,82,99,104,65,91,13,9,3,3,0,0,1,1,1, Full Time,news,%O and %T plus %s,,,387400,76,414000,73,Back Centre,6,13,80.5,81,10.73,6.55
+250268,Garrick,Ibbotson,FR,13,76,70,97,63,87,13,9,6,1,0,0,1,0,0, Full Time,job,Responsible for Saunders... %P and %M,,,464600,102,512100,111,Back,5,9,102,103.3,17.35,8.67
+270908,Nick,Suban,FR,13,75,95,95,58,79,9,10,3,4,0,2,0,0,1, Full Time,news,%D and %T plus %s,,,302400,59,307300,56,Back,8,13,65.6,65.9,5.35,5.18
+281007,Michael,Walters,FR,15,65,80,81,55,69,6,7,6,2,0,1,0,1,0, Full Time,news,%s from %D and %M on Murdoch... also %T,,,363800,105,401700,97,Forward,10,10,81.3,86.5,1.70,0.83
+240552,Zac,Dawson,FR,10,58,66,72,48,63,2,10,4,4,3,1,0,0,0, Full Time,sore,%M and %P plus %T... copped one in the scone in Q3 which drew claret,job,Takes Lee,157200,46,227800,42,Back,3,13,30.9,43.4,3.31,1.75
+200045,Luke,McPharlin,FR,8,57,61,72,49,66,10,7,5,0,0,1,1,0,0, Full Time,job,On Stanley... %D and %M,,,403600,64,394600,64,Back,18,12,78.1,74.8,2.00,1.15
+290251,Zachary,Clarke,FR,9,57,65,66,51,68,2,11,1,3,17,0,1,0,0, Full Time,news,Still #1 ruck with Sandilands mostly forward... %H and %P plus %T,,,393500,66,469100,76,Ruck,30,6,90.5,100,6.25,2.52
+280336,Stephen,Hill,FR,4,44,50,56,37,52,5,7,3,2,0,0,1,0,1, Full Time,tagged,Tagged by Jones... %O and %T,,,314100,104,422500,97,Centre,32,9,66.6,83.9,1.85,0.91
+220096,Aaron,Sandilands,FR,4,35,31,40,32,38,1,5,2,1,11,1,0,0,0, Full Time,cold,%P and %M starting forward on Gwilt... also %H,subbed,Subbed off at 3QT for Sheridan,478700,,602400,,Ruck,31,0,0,0,0.88,0.57
+291792,Thomas,Sheridan,FR,2,23,21,30,18,24,3,2,2,1,0,0,0,0,0, Full Time,bubble,Second game... on after 3QT for Sandilands,sub,Started as a sub,108500,,115900,,Centre,11,1,64,68,0.63,0.34
+220075,Leigh,Montagna,SK,26,117,102,61,81,120,24,7,2,7,0,0,1,0,0, Full Time,hot,%K among %P with %T and %M,creepy,Got the Crowley tag after HT,520600,113,548700,110,Centre,11,12,106.9,109,2.96,1.27
+250340,David,Armitage,SK,27,99,94,88,76,109,11,12,4,9,0,2,3,0,1, Full Time,news,%P and %T with %M and %s,,,417000,93,457900,93,Centre,20,12,89.5,93.9,0.74,1.09
+261323,Ben,McEvoy,SK,25,94,105,83,80,99,8,8,7,3,15,0,0,1,0, Full Time,news,%H and %D plus %M and %T... also %s,,,325000,97,442200,97,Ruck,5,13,78,100,3.28,5.35
+270912,Jack,Steven,SK,19,93,106,62,71,99,14,12,3,4,0,2,0,0,0, Full Time,news,Lots of clearances among %D and %T... also %M,,,435100,99,513100,115,Centre,3,13,92.8,101.7,1.49,1.60
+220023,Nick,Dal Santo,SK,16,84,92,68,69,93,9,12,5,3,0,0,0,1,0, Full Time,news,Tagged by Crowley but freed up after HT... %O and %M plus %T and %s,,,405900,63,494200,91,Centre,26,13,84.7,90.1,1.89,2.24
+240062,Farren,Ray,SK,26,84,62,68,62,91,12,6,4,8,0,0,3,0,1, Full Time,news,%2 Mzungu off a wing... %P and %M plus %T... also %s and %F,,,380900,70,422100,37,Centre,22,10,79.1,76.8,0.39,0.40
+990028,Lenny,Hayes,SK,19,82,83,65,65,93,9,16,2,4,0,1,0,0,0, Full Time,news,%2 Fyfe... %O and %T,,,452600,110,477100,105,Centre,7,6,89.5,89.7,0.65,0.76
+261743,Clinton,Jones,SK,20,77,76,72,63,84,6,11,5,4,0,0,0,1,0, Full Time,tagger,Tagging Hill... %D and %M plus %T,,,347900,65,360000,73,Centre,4,10,78.8,82.5,0.27,0.34
+291773,Jack,Newnes,SK,19,77,68,68,57,81,8,10,3,6,0,0,0,0,0, Full Time,news,%D and %T with %M,,,294000,50,346200,79,Centre,16,11,55.2,59.6,0.58,0.43
+260113,Jarryn,Geary,SK,9,75,83,45,58,78,13,6,5,2,0,1,0,0,0, Full Time,news,%P and %M plus %T,job,de Boer manning him up,285200,17,342100,44,Back,14,13,64.6,75.1,2.61,2.68
+295095,Brodie,Murdoch,SK,9,64,61,56,47,63,7,6,3,5,0,2,0,0,0, Full Time,cash,%O and %T with %M,job,In defence on Walters,133300,-30,147000,-33,Forward,30,4,39.5,40.3,1.18,1.06
+280933,Dylan,Roberton,SK,9,63,70,51,45,63,8,6,2,5,0,1,0,0,0, Full Time,news,%P and %T,job,Has Mayne,278900,88,337100,108,Back,17,13,67.1,78.8,3.88,5.48
+295477,Josh,Saunders,SK,13,61,63,42,49,66,8,9,1,2,0,2,0,1,0, Full Time,cash,%s from %D on Ibbotson,,,116600,15,115500,20,Back Centre,35,3,33,26.7,3.20,3.01
+290422,Tom,Lee,SK,19,57,67,45,53,61,6,2,6,0,0,1,1,3,1, Full Time,cash,%s from %P and %M on Dawson,,,108500,-4,115900,-5,Forward,9,2,37.5,38,10.16,12.50
+270570,Trent,Dennis-Lane,SK,11,52,54,45,43,51,5,2,4,2,0,1,0,2,0, Full Time,news,%s from %P and %M on Clancee Pearce... %T as well,,,281200,38,286800,16,Forward,8,6,56.8,56,0.41,0.85
+294818,Ahmed,Saad,SK,9,48,53,37,38,51,6,3,1,3,0,0,1,2,0, Full Time,egypt,%s from %D on Spurr,,,239300,111,241200,107,Forward,21,11,46.7,47.6,1.22,1.25
+250703,James,Gwilt,SK,3,41,34,30,29,42,6,4,1,3,0,0,0,0,0, Full Time,job,Standing the resting ruck which is mostly Sandilands... %P and %T,,,261000,32,370800,66,Back,33,8,61.8,81.9,1.87,2.06
+294266,Tom,Hickey,SK,4,37,43,36,33,42,2,5,1,2,12,1,1,0,0, Full Time,news,%H and %P with %T,,,256300,67,280600,61,Ruck,1,5,47.8,52.8,1.01,0.92
+230243,Sean,Dempster,SK,3,36,56,15,30,42,8,3,3,0,0,0,1,0,0, Full Time,news,%D,job,Following Pavlich,301000,63,356600,71,Back,24,10,61.2,65.4,0.58,0.59
+294317,Nathan,Wright,SK,2,31,34,27,28,39,3,6,3,1,0,0,1,0,0, Full Time,job,Minding Ballantyne... %O and %M,subbed,Subbed off in Q3 for Milera,177400,28,225800,37,Back,34,7,43.4,50.3,2.31,2.60
+280317,Rhys,Stanley,SK,7,29,25,26,21,33,4,2,1,4,0,0,2,0,0, Full Time,news,%P and %T at FF on McPharlin,,,244900,71,281400,61,Forward,28,13,51.8,64.2,1.04,0.68
+270766,Terry,Milera,SK,2,20,16,10,16,21,4,1,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Wright... %O,sub,Started as a sub,268900,61,298800,35,Forward,32,8,55.8,59.9,0.35,0.37

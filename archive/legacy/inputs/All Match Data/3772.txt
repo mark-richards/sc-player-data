@@ -1,0 +1,48 @@
+Fremantle,Dockers,St Kilda,Saints,R10,7.14.56,15.12.102, Full Time
+May 28,2011,3:10,Subiaco,Ten,220075,10311003,5535,73,Sunny,24
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>bobbyjay7</em>: hi guys<br><em>Sylvester</em>: What happened to Goddard?<br><em>peter_ford</em>: mundy must be a SC god<br><em>The Chip</em>: pav<br><em>port2010</em>: if fisher didnt go missing last qtr coulda got 150<br><em>Phreophile</em>: Goddard 56 SC from less than a quarter of footy...<br><em>Hassoubi</em>: Jbrown&#044; how about trying to put an actual sentence together!! Nimrod!!!<br><em>Jumbos</em>: goddard same SC as fyfe &#044; shows fyfe is quarter the footballer of GOD!<br><em>Nigey95</em>: spud palmer got the same SC as Lower... :/<br><em>Jumbos</em>: buddy_guy&#044; do u know anything about footy? montagna wont get any weeks for anything<br><em>BENana</em>: Mundy. Just scores well under all conditions.<br><em>port2010</em>: sc scores been on herald sun page ages ago<br>
+240139,Paul,Duffield,FR,51,120,133,158,87,116,13,8,5,10,1,2,0,1,1, Full Time,hot,%D and %T with %M plus %s,switch,Switched forward in Q3
+261756,Greg,Broughton,FR,27,120,121,153,94,124,18,9,5,5,0,3,1,2,1, Full Time,hot,%P and %M with %T and %s,switch,Well beaten by Schneider... shifted forward in the second half
+240052,David,Mundy,FR,44,101,119,133,71,102,10,11,2,10,3,0,0,0,0, Full Time,heart,%2 Goddard... %O and %T with %M... right ankle knock in Q3 and had it restrapped,,
+271015,Matthew,de Boer,FR,26,91,81,120,66,91,9,9,4,8,0,1,0,0,1, Full Time,news,%P and %M with %T plus %s,tagger,Tagging Montagna
+200032,Matthew,Pavlich,FR,16,88,96,111,69,91,13,8,4,3,0,2,0,1,1, Full Time,news,Trailed mostly by Fisher... %P and %M plus %T and %s,,
+250088,Jonathon,Griffin,FR,23,85,100,100,79,95,6,6,5,2,38,0,2,0,0, Full Time,news,Outpointed McEvoy as #1 ruck... %H and %P with %M and %T,,
+280726,Tendai,Mzungu,FR,10,85,77,108,67,93,14,10,5,2,0,0,0,0,0, Full Time,bubble,Second game... %D and %M,job,On a HBF on Steven
+260713,Nick,Lower,FR,26,83,70,111,61,82,6,7,6,8,1,0,0,0,0, Full Time,news,Playing some defensive forward roles... %O and %T,,
+200045,Luke,McPharlin,FR,14,81,69,104,66,84,11,7,8,2,0,2,0,0,0, Full Time,job,Chasing Riewoldt... %M and %D,,
+291570,Nathan,Fyfe,FR,10,80,58,98,66,90,10,13,4,2,0,1,0,0,3, Full Time,heart,Knock to his left hand early in Q1 and got his shoulder restrapped... %O and %M,,
+230011,Kepler,Bradley,FR,12,72,59,89,59,72,9,4,4,2,8,2,0,1,1, Full Time,sore,Booted %s from %P and %G on Dawson... rib soreness sustained in Q3 in a marking contest with Dawson,,
+261231,Rhys,Palmer,FR,15,67,65,88,54,69,9,3,6,3,0,1,1,1,0, Full Time,spud,%s from %P and %M with %T as a small forward... his game has fallen right away since he broke Barlow's leg,garbage,Lots of meaningless stats in Q4 garbage time
+230107,Michael,Johnson,FR,9,66,70,86,51,69,11,5,5,2,0,0,0,0,0, Full Time,crab,%D and %M with %T,switch,Started in defence on Lynch but moved forward in Q3
+260069,Hayden,Ballantyne,FR,9,62,58,84,45,62,11,2,3,4,0,1,1,0,2, Full Time,news,%O and %M with %T on Dempster,,
+280336,Stephen,Hill,FR,12,59,58,75,44,61,13,3,1,1,0,0,0,1,1, Full Time,tagged,Tagged by Jones... %O and %s,,
+250268,Garrick,Ibbotson,FR,9,56,68,73,41,58,7,6,2,4,0,0,0,0,1, Full Time,job,Minding Siposs... %D and %T plus %s,,
+990092,Antoni,Grover,FR,15,47,53,63,40,60,1,10,3,6,0,0,3,0,0, Full Time,job,Minding Milne... %P and %T,,
+270681,Jay,van Berlo,FR,14,46,62,60,34,51,2,9,0,6,0,1,1,0,0, Full Time,news,On a HFF on Gwilt... %D and %T,in,Late replacement for Clancee Pearce
+230048,Ryan,Crowley,FR,7,40,44,51,30,43,2,7,1,4,1,0,0,0,0, Full Time,burger,Playing small forward but looking old and slow... %D,,
+280416,Chris,Mayne,FR,3,37,30,48,28,35,3,3,2,3,0,2,0,0,2, Full Time,news,%O,,
+290296,Jesse,Crichton,FR,2,27,26,36,20,27,5,1,2,1,0,0,0,0,0, Full Time,job,Too loose on Peake on a HBF... %P,subbed,Subbed off in Q3 for Roberton
+280933,Dylan,Roberton,FR,1,20,9,25,16,21,2,3,1,1,0,1,0,0,0, Full Time,news,On in Q3 for Crichton,sub,Started as a sub
+220023,Nick,Dal Santo,SK,21,112,137,65,84,118,20,10,5,4,1,0,0,0,0, Full Time,star,%O with %k by foot... also %T and %M,,
+270912,Jack,Steven,SK,26,102,104,75,81,111,13,14,4,4,0,1,0,1,0, Full Time,hot,%s from %O and %M with %T on Mzungu,,
+250134,Sam,Gilbert,SK,16,97,90,78,80,104,11,10,8,3,7,0,0,0,1, Full Time,news,%P and %M... also %H and %s,,
+261323,Ben,McEvoy,SK,27,97,103,105,80,100,3,11,3,7,28,1,0,0,0, Full Time,news,%H and %D with %T... also %M,in,Late replacement for Justin Koschitzke
+220075,Leigh,Montagna,SK,21,90,101,62,73,102,13,10,3,4,0,0,2,2,0, Full Time,garbage,Tagged by de Boer... %D and %T with %M and %s... off the leash in Q4 junk time,,
+240701,Brett,Peake,SK,31,88,113,75,69,93,9,8,2,6,0,0,1,3,0, Full Time,x-factor,First goal... %s from %P as a small forward on Crichton... also %T... showed his old team mates a thing or two about outside run on Subiaco,,
+240708,Sam,Fisher,SK,11,88,118,62,70,95,12,10,4,3,6,0,0,0,2, Full Time,news,Allowing Pavlich to take him to the ball... %P and %s... also %H,,
+240062,Farren,Ray,SK,14,85,92,53,71,99,14,10,6,2,2,0,2,0,1, Full Time,news,%P with %b by hand... also %M,,
+230243,Sean,Dempster,SK,26,84,85,80,62,86,8,8,4,8,1,1,1,0,1, Full Time,injured,Blake's knee caught him flush in the face in a marking contest in Q4 and he was stretchered off on an oxygen feed... %P and %T with %M and %s,job,On Ballantyne
+220098,Adam,Schneider,SK,22,83,116,76,75,96,6,10,5,3,0,0,2,4,0, Full Time,news,%s from %D and %M with %T on Broughton,,
+261743,Clinton,Jones,SK,26,83,90,77,64,85,7,8,3,6,0,0,0,2,1, Full Time,news,%D and %M plus %s,tagger,Tagging Hill
+250340,David,Armitage,SK,19,71,86,57,57,78,8,9,2,4,0,1,1,1,3, Full Time,sore,%D and %T plus %s... right knee knock in Q3,,
+250703,James,Gwilt,SK,9,67,84,44,53,75,10,10,3,2,0,0,0,0,0, Full Time,news,%O and %T,job,Responsible for van Berlo
+210001,Nick,Riewoldt,SK,15,65,73,59,48,69,7,7,3,6,0,0,1,0,0, Full Time,sore,%D and %T with %M on McPharlin... right shoulder knock in Q2,,
+250066,Dean,Polo,SK,10,65,78,60,53,70,6,7,5,4,3,1,1,0,1, Full Time,news,%B among %O with %M,,
+200108,Stephen,Milne,SK,14,58,52,34,46,64,10,5,2,2,0,0,1,1,1, Full Time,news,%s from %P running up the ground a lot on Grover,,
+200068,Jason,Blake,SK,4,45,63,27,35,49,8,3,2,2,4,0,1,0,0, Full Time,sore,%D and %H with %M and %T... his right knee banged into Dempster's head in Q4,,
+270938,Tom T.,Lynch,SK,5,45,32,35,37,51,6,5,4,2,0,0,1,0,0, Full Time,bubble,%D and %M with %T on Johnson,sore,Dislocated a finger in Q4
+230084,Brendon,Goddard,SK,3,41,57,28,33,42,6,4,3,1,0,2,0,0,0, Full Time,injured,%2 Mundy... %P and %M... copped a knock to the face from Dawson's hip in Q1 and was convulsing... sent to hospital for neck scans,subbed,Subbed off in Q2 for Winmar
+290456,Nicholas,Winmar,SK,3,33,15,21,25,36,6,2,2,2,0,0,1,0,0, Full Time,news,Subbed on in Q2 for Goddard... %O,sub,Started as a sub
+293815,Arryn,Siposs,SK,7,30,52,24,25,30,3,3,1,1,0,2,0,1,0, Full Time,sore,%s from %O on Ibbotson... sore shoulder in Q2,,
+240552,Zac,Dawson,SK,2,14,31,12,18,30,2,5,2,1,0,0,4,0,0, Full Time,job,Has Bradley... %O and %F,,

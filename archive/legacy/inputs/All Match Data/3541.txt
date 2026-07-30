@@ -1,0 +1,48 @@
+Brisbane,Lions,Melbourne,Demons,R18,9.10.64,11.8.74, Full Time
+Jul 31,2010,7:10,Gabba,Fox Sports,240037,10281805,5015550,5207,Fine,27
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>pie_basher</em>: pie_basher=Star<br><em>ReggieOz</em>: cheereo and go dees<br><em>pie_basher</em>: Scully=Gun<br><em>Turtle6</em>: He Scored 30+ In A quarter let him have his gun<br><em>haooyy</em>: i love rocky =]<br><em>Hawkmad</em>: guys go easy on rocky everybody makes mistakes on the feild <br><em>ReggieOz</em>: gee Arky..who's a glaass in half empty person  :)<br><em>ocat1979</em>: Merrett SC WTF!?!<br><em>Turtle6</em>: shutup vietman your not gun material<br><em>strikes91</em>: rockliff lost us the game himself<br><em>Hawkmad</em>: weaterguy i mean rockliff is the best young guy this year beside barlow who woulda won brownlow<br><em>VietMan</em>: Rockliffe gave away a 50 at the end&#044; and had FA... not gun material<br>
+240393,Mitchell,Clark,BL,26,118,98,150,102,131,20,8,12,0,8,1,2,0,3, Full Time,hot,Playing a lot forward on Rivers... %s from %P and %M... also %H
+270919,Tom,Rockliff,BL,21,107,111,139,83,117,18,12,4,5,0,3,2,0,0, Full Time,gun,Matched up on Jones... %D and %T plus %M
+240712,Michael,Rischitelli,BL,21,102,104,126,85,117,13,16,5,3,0,1,1,1,0, Full Time,hot,Tagged by Morton... %s from %O and %M
+240325,Justin,Sherman,BL,45,100,56,138,72,106,14,7,4,10,0,0,3,0,1, Full Time,in,%l James Polkinghorne... tagging Davey... %P adn %T
+980007,Simon,Black,BL,24,99,93,129,79,111,14,12,6,5,0,1,2,0,0, Full Time,news,Tagged by McDonald... %P adn %T
+230211,Brent,Staker,BL,15,84,127,103,69,94,11,14,4,2,1,2,0,0,0, Full Time,job,Standing Dunn... %P
+260944,Albert,Proud,BL,21,83,65,105,68,82,9,2,7,3,0,0,0,3,1, Full Time,news,%s from %O with %T on Bail
+281048,Ryan,Harwood,BL,48,82,98,108,61,87,5,11,1,10,0,2,2,1,0, Full Time,bubble,Second game... %P and %T plus %s
+230015,Jared,Brennan,BL,15,79,90,100,63,87,12,8,3,3,2,0,1,1,1, Full Time,news,%P and %s
+250335,Matthew,Leuenberger,BL,14,74,42,90,64,78,8,5,6,1,18,0,0,0,0, Full Time,news,%H and %D
+281373,Jack,Redden,BL,13,70,49,92,58,81,10,8,6,3,0,0,2,0,0, Full Time,news,%O and %M
+250053,Cheynee,Stiller,BL,13,66,77,84,54,72,6,9,6,3,0,0,0,0,0, Full Time,news,%P and %T
+270512,Pearce,Hanley,BL,13,66,76,88,49,69,9,6,3,5,0,1,1,0,0, Full Time,job,Has Bennell... %P
+271072,Daniel,Rich,BL,13,65,88,79,55,81,12,13,2,0,0,0,1,0,0, Full Time,news,%D
+210013,Ashley,McGrath,BL,9,54,66,75,38,54,8,2,3,5,0,0,1,0,0, Full Time,job,Minding Wonaeamirri... %P and %T
+200007,Jonathan,Brown,BL,11,51,58,64,47,60,6,4,5,1,0,0,2,2,0, Full Time,news,%P on Frawley
+230147,Daniel,Merrett,BL,8,50,107,59,45,60,5,11,4,0,0,1,0,0,0, Full Time,job,Has the resting ruckman... %P and %M
+980011,Luke,Power,BL,8,44,45,59,32,48,6,5,1,4,0,0,1,0,0, Full Time,sore,Tagged by Bruce... %O... headclash with Merrett in Q3 left him bleeding
+271071,Todd,Banfield,BL,8,30,55,39,23,32,3,2,0,3,0,0,1,1,2, Full Time,news,%s from %O on Bartram
+230170,Joel,Patfull,BL,3,28,29,36,26,39,2,7,2,2,0,0,2,0,0, Full Time,job,On Green... %D
+220016,Xavier,Clarke,BL,0,15,9,20,10,15,3,1,0,1,0,0,0,0,0, Full Time,injured,%O... tracksuited up at halftime after work on his troublesome leg in Q2
+990022,Brendan,Fevola,BL,1,8,1,13,5,9,1,0,0,2,0,0,1,0,0, Full Time,injured,One touch in the first half on Garland then mothballed at half time with left leg problem... also %T
+240037,Colin,Sylvia,ME,45,149,137,120,119,157,18,13,9,8,1,3,2,2,0, Full Time,star,First goal... %s from %O and %M with %T
+220052,Mark,Jamar,ME,27,112,99,101,103,123,7,14,8,1,33,2,0,0,0, Full Time,hot,%H and %D with %M
+200052,Cameron,Bruce,ME,20,108,92,74,83,111,17,7,9,4,0,0,0,0,0, Full Time,hot,Tagging Power... %P and %M plus %T
+280969,Tom,Scully,ME,25,108,76,86,89,120,13,14,9,4,0,1,1,0,0, Full Time,hot,%P and %M with %T
+270906,Jordie,McKenzie,ME,31,106,124,106,81,114,7,19,3,9,0,2,0,0,0, Full Time,hot,%D and %T
+230250,Jared,Rivers,ME,21,103,103,68,82,102,17,3,12,2,0,2,0,0,0, Full Time,hot,Has the resting ruckman which is mostly Clark... %D and %M
+230130,Joel,Macdonald,ME,20,100,112,70,83,105,15,7,11,2,0,3,1,0,0, Full Time,hot,%B among %P with %M and %T
+250222,Nathan,Jones,ME,19,91,99,68,71,100,12,13,3,5,0,2,1,0,1, Full Time,news,Head to head with Rockliff... %O and %T
+250345,Rohan,Bail,ME,26,85,80,68,64,87,11,6,4,6,0,1,1,1,0, Full Time,job,Responsible for Proud... %P and %M plus %s
+200054,Brad,Green,ME,21,82,106,61,67,88,11,6,4,4,0,2,2,2,1, Full Time,news,Kicked %s from %P and %M on Patfull
+270985,Cale,Morton,ME,15,73,74,39,62,81,13,7,5,0,0,2,1,1,0, Full Time,tagger,Tagging Rischitelli... %P and %s
+280972,Jack,Watts,ME,13,73,80,52,65,91,8,19,3,0,0,1,0,0,1, Full Time,news,%s from %D
+200002,Aaron,Davey,ME,8,72,67,26,53,73,17,3,3,1,0,1,0,0,1, Full Time,tagged,Tagged by Sherman.... %O
+270830,Colin,Garland,ME,8,70,97,40,51,72,13,5,3,3,0,0,0,0,0, Full Time,job,On Fevola... %D
+250245,Clint,Bartram,ME,12,66,68,42,55,72,11,5,7,1,0,1,1,0,0, Full Time,job,Minding Banfield... %M and %D
+260288,James,Frawley,ME,9,66,78,47,52,66,10,3,7,2,0,1,0,0,0, Full Time,job,Following Brown... %P and %M
+250548,Lynden,Dunn,ME,16,63,77,42,52,63,9,1,4,1,0,0,0,3,0, Full Time,news,%s from %P on Staker
+250388,Austin,Wonaeamirri,ME,19,56,75,57,40,54,4,5,1,6,0,1,0,1,0, Full Time,news,%s from %P with %T on McGrath
+970130,James,McDonald,ME,8,50,51,40,36,54,6,8,0,4,0,0,0,0,0, Full Time,news,Tagging Black... %D and %T
+290943,Jamie,Bennell,ME,2,38,26,28,31,41,5,4,3,1,0,0,0,0,2, Full Time,news,%s from %P on Hanley
+230108,Paul,Johnson,ME,9,33,27,29,30,40,3,3,1,2,7,0,2,1,0, Full Time,news,Started forward... %P on Merrett... also %H
+260952,Liam,Jurrah,ME,2,29,38,25,22,31,3,4,1,2,0,0,0,0,1, Full Time,news,%P

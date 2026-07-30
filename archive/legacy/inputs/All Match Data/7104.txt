@@ -1,0 +1,48 @@
+Brisbane,Lions,Richmond,Tigers,EF,8.17.65,18.4.112, Full Time
+Sep 7,2019,7.25,Gabba,,,10532404,,0,Fine,19,,
+#####
+<em style='color:#000'>BigChief</em>: @Beast_Mode that is impossible. Rich would play WC in Prelims.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> AuroraBore</em>: Thats not how the bracket works? @beast<br><em style='color:#000'>Beast_Mode</em>: doubt it Yelse, you wont beat west coast. Tiges/WCE GF lock it in<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tBL"></b> DrSeuss</em>: Lions were always going to struggle with scoring in the finals without a spearhead. Still more scoring shots tonight<br><em style='color:#000'>Beast_Mode</em>: welcome to finals<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> Yelse</em>: looking more likely pies tigers GF... thats massive<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tBL"></b> runt</em>: 6.16 won't happen again<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tBL"></b> runt</em>: A nightmare tonight but we go again next week<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> Yelse</em>: where is hip wood playing haven't seen him all night<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> wadaramus</em>: Dusty blatantly throws the ball, all good,nothing to see here say the umpires!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> Raspel31</em>: England getting on top- scored a run last over- only 300 to go.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWB"></b> Ash777</em>: Lions would be in front if they flipped their goals n behinds around.<br><em style='color:#000'>Beast_Mode</em>: robbo pinged a string it looks like<br><em style='color:#000'>blonde0na</em>: no charlie, no brisbane?<br><em style='color:#000'>Beast_Mode</em>: chat is flowered tonight geez<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tBL"></b> runt</em>: Martin 6 kicks 5 goals sums it up<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> Yelse</em>: need hip wood to get a goal ffs for my multi<br><em style='color:#000'>Beast_Mode</em>: bad kicking<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Jukes82</em>: facts<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> BRAZZERS</em>: Shedda been awesome<br>
+293535,Lachie,Neale,BL,27,123,139,147,104,141,17,20,5,1,0,1,0,2,0, Full Time,hot,%D and %M plus %s,,,0,,0,,Midfielder,9,0,0,0,0.00,0.00,0.00,0,,,18,10,4,83,94
+220047,Luke,Hodge,BL,19,105,124,138,83,111,22,5,9,1,0,1,1,0,0, Full Time,hot,%D including %K... also %M,guard,In defence,0,,0,,Back,2,0,0,0,0.00,0.00,0.00,0,,,10,1,4,77,88
+261224,Dayne,Zorko,BL,26,101,109,136,71,99,16,5,3,8,0,2,1,0,3, Full Time,hot,%O including %K... also %T and %M... and kicked %s,wing,In midfield,0,,0,,Midfielder,15,0,0,0,0.00,0.00,0.00,0,,,13,3,5,57,87
+280763,Stefan,Martin,BL,21,98,106,124,81,102,13,4,5,4,24,2,2,0,0, Full Time,news,%H... also %D and %T,,,0,,0,,Ruck,12,0,0,0,0.00,0.00,0.00,0,,,11,4,4,82,78
+290311,Mitch,Robinson,BL,14,97,91,127,74,96,19,3,7,2,0,2,0,0,3, Full Time,news,%P including %K... also %M and %T... and scored %s,,,0,,0,,Midfielder,5,0,0,0,0.00,0.00,0.00,0,,,6,1,1,68,70
+998133,Jarrod,Berry,BL,15,97,87,126,76,98,15,6,8,3,0,2,0,0,2, Full Time,news,%P with %k by foot... also %M and %T... and scored %s,,,0,,0,,Back,7,0,0,0,0.00,0.00,0.00,0,,,9,5,3,66,77
+1000978,Hugh,McCluggage,BL,16,90,101,112,75,100,11,12,5,3,0,2,1,1,1, Full Time,news,%O and %M plus %T... %s as well,,,0,,0,,Midfielder,6,0,0,0,0.00,0.00,0.00,0,,,12,6,2,78,74
+293716,Jarryd,Lyons,BL,14,86,108,109,67,93,11,13,2,5,0,4,1,0,0, Full Time,news,%P and %M plus %T... umps paid him %4FF,,,0,,0,,Midfielder,17,0,0,0,0.00,0.00,0.00,0,,,13,7,2,75,80
+280918,Allen,Christensen,BL,20,85,75,111,70,90,13,3,7,3,0,1,2,2,0, Full Time,news,%O including %K... also %M and %T... and scored %s,,,0,,0,,Midfielder,3,0,0,0,0.00,0.00,0.00,0,,,5,0,2,81,84
+293581,Lincoln,McCarthy,BL,18,73,75,99,59,82,10,6,6,5,0,1,3,0,1, Full Time,news,%s from %P and %M plus %T... not helped by %F,,,0,,0,,Forward,11,0,0,0,0.00,0.00,0.00,0,,,9,0,4,56,81
+1002235,Cameron,Rayner,BL,15,72,62,91,58,76,8,7,5,3,0,0,0,1,1, Full Time,news,%P and %M plus %T... %s as well,,,0,,0,,Midfielder,16,0,0,0,0.00,0.00,0.00,0,,,5,1,3,60,81
+296269,Darcy,Gardiner,BL,12,63,78,83,53,72,14,4,6,0,0,1,2,0,0, Full Time,news,%D with %k by foot... also %M,,,0,,0,,Back,27,0,0,0,0.00,0.00,0.00,0,,,9,1,6,66,96
+998128,Alex,Witherden,BL,8,62,55,81,50,69,12,5,5,1,0,0,1,0,0, Full Time,news,%P with %k by foot... also %M,,,0,,0,,Back,29,0,0,0,0.00,0.00,0.00,0,,,4,0,7,64,78
+271072,Daniel,Rich,BL,7,56,89,71,46,63,10,7,3,1,0,2,1,0,0, Full Time,news,%M and %P,,,0,,0,,Back Midfielder,10,0,0,0,0.00,0.00,0.00,0,,,3,1,1,100,85
+1005521,Oscar,McInerney,BL,13,50,56,62,41,52,3,4,1,4,15,1,1,0,1, Full Time,news,%H... also %D and %T... and booted %s,,,0,,0,,Ruck,46,0,0,0,0.00,0.00,0.00,0,,,5,0,2,57,77
+297504,Daniel,McStay,BL,10,47,65,61,38,46,5,1,5,2,0,0,0,1,1, Full Time,news,%P with %k by foot... also %M and %T... and booted %s,,,0,,0,,Back,25,0,0,0,0.00,0.00,0.00,0,,,3,1,0,83,82
+1005053,Noah,Answerth,BL,4,42,38,56,32,42,6,2,4,2,0,0,0,0,0, Full Time,news,%O with %k by foot... also %M and %T,,,0,,0,,Back,43,0,0,0,0.00,0.00,0.00,0,,,2,0,0,75,70
+1002312,Zac,Bailey,BL,2,37,44,47,30,45,7,6,1,1,0,0,1,0,0, Full Time,news,%D,,,0,,0,,Midfielder,33,0,0,0,0.00,0.00,0.00,0,,,4,1,1,69,67
+996059,Harris,Andrews,BL,8,37,87,51,29,42,4,4,2,4,0,1,2,0,0, Full Time,news,%D and %M with %T,,,0,,0,,Back,31,0,0,0,0.00,0.00,0.00,0,,,8,1,4,62,95
+993953,Eric,Hipwood,BL,4,35,30,47,29,39,4,3,4,2,0,0,1,0,0, Full Time,news,%P and %M plus %T,,,0,,0,,Forward,30,0,0,0,0.00,0.00,0.00,0,,,3,0,3,57,83
+990609,Charlie,Cameron,BL,8,34,29,41,29,35,5,2,2,0,0,1,0,1,2, Full Time,news,%s from %D and %M,,,0,,0,,Forward,23,0,0,0,0.00,0.00,0.00,0,,,2,1,1,57,87
+294168,Marcus,Adams,BL,2,25,32,35,21,30,6,1,2,1,0,1,2,0,0, Full Time,news,%O including %K... also %M,,,0,,0,,Back,24,0,0,0,0.00,0.00,0.00,0,,,3,0,2,42,87
+290627,Dion,Prestia,RI,50,123,109,100,90,132,15,17,2,10,0,1,1,0,0, Full Time,hot,%O and %M plus %T,,,0,,0,,Midfielder,3,0,0,0,0.00,0.00,0.00,0,,,19,8,11,62,78
+260930,Shane,Edwards,RI,36,118,122,97,95,129,13,16,6,6,0,2,1,1,0, Full Time,star,%P and %M plus %T... %s as well,,,0,,0,,Midfielder,10,0,0,0,0.00,0.00,0.00,0,,,18,8,6,58,73
+290032,Kane,Lambert,RI,14,78,59,54,56,81,12,8,2,5,0,0,0,0,0, Full Time,news,%D and %M with %T,,,0,,0,,Forward,23,0,0,0,0.00,0.00,0.00,0,,,7,2,5,40,90
+294674,Nick,Vlastuin,RI,13,73,89,42,53,75,14,4,3,4,0,1,1,0,0, Full Time,news,%P with %k by foot... also %T and %M,,,0,,0,,Back,1,0,0,0,0.00,0.00,0.00,0,,,6,2,2,77,94
+290847,Dustin,Martin,RI,27,69,111,49,68,90,9,5,1,3,0,2,7,6,0, Full Time,x-factor,%D and %T plus %s... gave away %F,,,0,,0,,Midfielder,4,0,0,0,0.00,0.00,0.00,0,,,13,3,10,85,84
+991933,Jason,Castagna,RI,11,68,57,48,52,69,10,4,4,3,0,0,0,1,0, Full Time,news,%O including %K... also %M and %T... and booted %s,,,0,,0,,Back,11,0,0,0,0.00,0.00,0.00,0,,,1,0,1,85,83
+293813,Tom J.,Lynch,RI,15,67,86,54,58,69,7,5,6,1,0,2,0,2,0, Full Time,news,%s from %D and %M,,,0,,0,,Forward,19,0,0,0,0.00,0.00,0.00,0,,,10,0,2,58,84
+293713,Brandon,Ellis,RI,9,66,52,43,51,72,11,6,4,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,,0,,0,,Midfielder,5,0,0,0,0.00,0.00,0.00,0,,,1,2,3,82,92
+270896,Trent,Cotchin,RI,8,64,82,34,50,70,12,7,2,2,0,2,1,0,1, Full Time,news,%O and %M plus %T... %s as well,,,0,,0,,Midfielder,9,0,0,0,0.00,0.00,0.00,0,,,10,5,3,63,66
+290623,Josh,Caddy,RI,11,64,90,43,51,66,9,5,2,2,0,1,0,2,0, Full Time,news,%D and %M with %T... %s as well,,,0,,0,,Midfielder,22,0,0,0,0.00,0.00,0.00,0,,,8,2,1,78,79
+992049,Jayden,Short,RI,9,64,78,35,47,66,13,2,4,3,0,0,1,0,0, Full Time,news,%D with %k by foot... also %M and %T,,,0,,0,,Back,15,0,0,0,0.00,0.00,0.00,0,,,1,0,2,93,80
+290198,David,Astbury,RI,9,63,76,50,53,69,8,6,7,2,0,1,1,0,0, Full Time,news,%O and %M plus %T,,,0,,0,,Back,12,0,0,0,0.00,0.00,0.00,0,,,4,0,1,85,98
+990827,Jack,Graham,RI,20,62,65,58,45,69,7,7,1,8,0,1,3,0,0, Full Time,news,%O and %T... gave away %F,,,0,,0,,Midfielder,34,0,0,0,0.00,0.00,0.00,0,,,7,0,5,78,82
+998529,Ivan,Soldo,RI,19,60,75,57,50,61,4,3,1,4,25,1,1,0,0, Full Time,news,%H... also %D and %T,,,0,,0,,Ruck,47,0,0,0,0.00,0.00,0.00,0,,,5,4,1,71,59
+1000981,Daniel,Rioli,RI,20,59,82,53,41,52,6,1,0,6,0,2,0,2,1, Full Time,news,%s from %D and %T,,,0,,0,,Forward,17,0,0,0,0.00,0.00,0.00,0,,,5,0,1,71,80
+250395,Jack,Riewoldt,RI,19,55,60,46,43,51,6,0,1,4,0,3,1,3,0, Full Time,news,First goal... %s from %P and %T... aided by %4FF,,,0,,0,,Forward,8,0,0,0,0.00,0.00,0.00,0,,,4,0,3,66,96
+298174,Toby,Nankervis,RI,14,52,66,59,43,54,1,4,0,5,24,0,1,0,0, Full Time,news,%H... also %P and %T,,,0,,0,,Ruck,25,0,0,0,0.00,0.00,0.00,0,,,3,0,3,40,61
+993993,Shai,Bolton,RI,15,52,68,44,44,63,6,7,2,4,0,1,3,1,0, Full Time,news,%O and %M plus %T... %s as well... not helped by %F,,,0,,0,,Midfielder,29,0,0,0,0.00,0.00,0.00,0,,,7,1,5,76,88
+280819,Dylan,Grimes,RI,8,51,83,38,44,57,7,5,6,1,0,1,1,0,0, Full Time,news,%M and %P,,,0,,0,,Back,2,0,0,0,0.00,0.00,0.00,0,,,5,1,1,91,90
+1000223,Liam,Baker,RI,7,49,37,35,41,57,6,10,2,1,0,1,0,0,0, Full Time,news,%O and %M,,,0,,0,,Forward,48,0,0,0,0.00,0.00,0.00,0,,,5,0,3,62,81
+250312,Bachar,Houli,RI,7,48,58,29,40,57,8,7,3,1,0,0,1,0,0, Full Time,news,%M and %D,,,0,,0,,Back,14,0,0,0,0.00,0.00,0.00,0,,,5,1,2,80,82
+295203,Nathan,Broad,RI,0,9,17,4,7,9,2,0,1,0,0,0,0,0,0, Full Time,news,%P,,,0,,0,,Back,35,0,0,0,0.00,0.00,0.00,0,,,0,0,0,50,80

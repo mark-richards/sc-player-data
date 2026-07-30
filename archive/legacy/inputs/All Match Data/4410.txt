@@ -1,0 +1,48 @@
+St Kilda,Saints,Richmond,Tigers,R2,12.10.82,14.15.99, Full Time
+Apr 05,2013,7.50,MCG,Seven,,10390201,,0,Fine,26,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>Redmeadow$</em>: Watched the last quarter. Some of the worst kicking skills I've seen from both teams.<br><em>richorocks</em>: agreed spudaroos. Maric smashed tonight. Shows how much the sealer means in sc!<br><em>hardballge</em>: they both came back on late at the same time&#044; Cotch helped win the game Roo had no effect<br><em>hardballge</em>: Cotch came on and iced and Roo did skwat&#044; what game were you watchin dmac<br><em>Redmeadow$</em>: Dusty stays&#044; Maric scrapes in&#044; Houli gone (0 tackles in 8 quartes of football).<br><em>superspud</em>: Dmac did you even watch the game?<br><em>Willy69</em>: Is Richmond going to do a victory lap giving high fives everytime they win?<br><em>addman</em>:  Cotichin 3 j riewoldt 2 mcevoy 1<br><em>Murf2Gibbs</em>: Cotchin 3 roo 2 conca 1<br><em>dmac0712</em>: 3 jroo&#044; 2/1 cotch and mcevoy.. cotch not as dominant as stats suggest this week<br><em>hardballge</em>: Conca&#044; Jack in the box&#044; McEvoy or Deledio could share any of the other votes<br><em>spudaroos</em>: Marc got a ton? Terrible&#044; did not deserve a ton&#044; Macca destroyed him.<br>
+220075,Leigh,Montagna,SK,31,111,98,147,77,111,18,9,2,8,0,1,0,0,0, Full Time,hot,%O and %T... also %M,,,498100,,530700,,Midfielder,11
+210001,Nick,Riewoldt,SK,32,108,111,131,98,117,12,8,11,0,0,2,1,4,0, Full Time,hot,Kicked %s from %G and %D on Rance... three of those goals in Q3,,,441400,,513100,,Forward,12
+261323,Ben,McEvoy,SK,31,107,130,126,94,116,7,12,6,3,26,0,0,1,0, Full Time,hot,%H and %P with %M and %T... kicked %s as well,,,457900,,557400,,Ruck,5
+261743,Clinton,Jones,SK,20,90,116,121,65,96,17,7,2,6,0,1,2,0,0, Full Time,tagger,Tagging Cotchin... %P and %T,,,396100,,409500,,Midfielder,4
+270912,Jack,Steven,SK,15,85,78,111,65,93,14,9,4,4,0,0,1,0,0, Full Time,news,%D and %M with %T,,,433300,,480800,,Midfielder,3
+220023,Nick,Dal Santo,SK,14,79,96,99,66,94,11,14,3,3,0,2,2,0,1, Full Time,news,%B among %P... also %T and %s,,,471200,,544800,,Midfielder,26
+990028,Lenny,Hayes,SK,9,79,79,100,65,92,12,12,3,3,1,2,2,0,1, Full Time,tagged,Tagged by Jackson... %P and %T... also %M and %F,,,489900,,547400,,Midfielder,7
+250340,David,Armitage,SK,14,75,79,97,60,82,9,9,5,4,0,1,1,0,1, Full Time,news,%2 Tuck... %O and %M with %T,,,459500,,460100,,Midfielder,20
+230243,Sean,Dempster,SK,13,72,71,95,55,72,13,3,6,2,0,1,0,0,0, Full Time,crown,%P and %M... King went to him in Q3,sore,Sore right hand in Q1,389900,,463300,,Back,24
+250134,Sam,Gilbert,SK,14,66,96,81,55,78,7,12,2,3,0,0,1,1,0, Full Time,news,%D and %T plus %s,,,339100,,387800,,Back,19
+280317,Rhys,Stanley,SK,15,64,75,81,57,71,7,5,8,1,2,0,1,1,0, Full Time,switch,Started forward on Grimes then shifted to defence as loose man in Q4... %s from %P and %M... also %H,,,312100,,345500,,Ruck,28
+280933,Dylan,Roberton,SK,8,63,90,81,48,66,11,6,3,2,0,1,0,0,0, Full Time,job,Responsible for McGuane... %P and %M with %T,,,226700,,254100,,Back ,17
+250036,Beau,Maister,SK,15,60,49,76,55,69,7,4,7,1,0,0,2,2,0, Full Time,news,Booted %s from %P and %M on Batchelor,,,287500,,283000,,Back Forward,37
+270766,Terry,Milera,SK,9,56,57,75,41,54,5,4,4,5,0,1,0,0,0, Full Time,news,%O and %T on Petterd... also %M,,,308100,,337400,,Forward,32
+291773,Jack,Newnes,SK,5,52,37,70,42,60,10,4,4,2,0,0,2,0,0, Full Time,news,%K among %P with %M and %T... also %F,,,271600,,299600,,Midfielder,16
+240708,Sam,Fisher,SK,4,49,69,65,41,57,10,4,4,1,0,1,2,0,0, Full Time,job,Not doing much to zone off Vickery... then had to move to Riewoldt in Q3... %P... also %F,,,370900,,444100,,Back,25
+294818,Ahmed,Saad,SK,10,45,56,57,37,47,6,1,2,2,0,0,1,2,2, Full Time,egypt,%s from %O on Houli,,,275600,,325700,,Forward,21
+220098,Adam,Schneider,SK,4,42,46,54,39,54,7,6,5,0,0,0,2,0,0, Full Time,news,On in Q3 for Siposs... %D,sub,Started as a sub,347800,,367800,,Forward,13
+200068,Jason,Blake,SK,4,41,44,55,35,48,4,5,4,3,0,1,2,0,0, Full Time,job,Big job on Riewoldt but failed and was switched to Vickery in Q3... %P and %T... also %M and %F,,,338400,,397600,,Back,27
+260113,Jarryn,Geary,SK,4,40,48,50,34,49,4,8,2,2,0,0,1,0,1, Full Time,job,Forward tag on him by King then got Martin in Q3... %P and %T with %M and %s,,,330800,,394100,,Back,14
+200108,Stephen,Milne,SK,8,39,30,49,32,40,7,1,3,0,0,0,0,1,1, Full Time,news,%s from %P and %M on Morris,,,352700,,371400,,Forward,44
+293815,Arryn,Siposs,SK,3,38,33,49,31,39,7,2,4,0,0,1,0,0,0, Full Time,news,%P and %M,subbed,Subbed off in Q3 for Schneider,325000,,316600,,Forward,2
+270896,Trent,Cotchin,RI,21,121,119,76,91,123,20,11,5,5,0,4,0,0,0, Full Time,gun,Tagged by Jones... %P and %T with %M,,,570200,,622100,,Midfielder,9
+240336,Brett,Deledio,RI,25,104,114,73,87,117,15,12,10,2,0,0,1,0,0, Full Time,hot,%B among %P with %M and %T,,,568600,,624100,,Midfielder,3
+250395,Jack,Riewoldt,RI,39,103,138,84,85,95,10,0,3,4,0,4,0,7,2, Full Time,star,Booted %s from %P and %G on Blake with four to half time... then got Fisher in Q3... also %T,,,413100,,485900,,Forward,8
+290823,Reece,Conca,RI,21,94,113,56,76,105,16,9,4,3,0,1,2,1,3, Full Time,news,%D and %M plus %s,,,374100,,376300,,Midfielder,30
+240180,Troy,Chaplin,RI,19,93,99,66,78,100,13,9,10,1,0,1,0,0,1, Full Time,astronaut,Loose in defence and the game suited him this week... %P and %M plus %s,,,339700,,459800,,Back,25
+290847,Dustin,Martin,RI,14,93,92,53,68,96,17,7,3,4,0,0,0,0,3, Full Time,empty,Customary hot start but has trouble keeping it up for four quarters... %O and %M plus %s... went forward on Geary in Q3,,,437100,,473500,,Midfielder,4
+240546,Ivan,Maric,RI,21,77,106,64,69,82,6,7,3,1,25,1,0,1,0, Full Time,news,%H and %D with %M... also %s which was the sealing goal late in Q4,,,505400,,606900,,Ruck,20
+250360,Ricky,Petterd,RI,14,75,75,50,64,84,11,9,8,0,0,0,0,0,0, Full Time,news,%P and %M,job,In defence on Milera,243400,,240800,,Forward,13
+210048,Chris,Newman,RI,18,74,71,50,61,77,11,4,7,1,0,0,0,1,2, Full Time,news,%2 Siposs on a wing... %P and %M plus %s,,,365300,,412000,,Back,1
+240256,Luke,McGuane,RI,15,74,87,50,62,76,10,5,4,1,1,2,0,2,3, Full Time,news,Kicked %s from %P and %M on Roberton,,,308000,,391200,,Back,16
+240707,Daniel,Jackson,RI,8,67,48,40,49,66,12,4,3,3,0,2,0,0,0, Full Time,tagger,Tagging Hayes... %K among %P... also %T and %M,,,384500,,381000,,Midfielder,23
+250298,Shaun,Grigg,RI,9,64,92,41,57,78,9,12,4,0,3,1,1,0,0, Full Time,news,%B among %O,,,505100,,521200,,Midfielder,6
+271437,Jake,King,RI,15,62,82,57,50,66,6,6,3,5,0,3,2,1,0, Full Time,tagger,Forward tag role on Geary then went to Dempster in Q3... %s from %P and %T... also %M,,,274300,,329100,,Forward,28
+260930,Shane,Edwards,RI,8,61,69,45,47,66,8,9,2,3,0,1,0,0,0, Full Time,news,Started in midfield... %P and %M... also %T,,,358600,,431500,,Forward,10
+200109,Shane,Tuck,RI,8,58,58,36,51,75,9,12,3,1,0,0,2,0,0, Full Time,news,%2 Armitage... %P and %M... also %F,,,538900,,613400,,Midfielder,21
+261362,Alex,Rance,RI,5,47,47,38,41,57,6,6,5,2,0,0,2,0,0, Full Time,job,Following Riewoldt... %M and %O... also %T,,,367900,,464800,,Back,18
+291437,Jake,Batchelor,RI,4,43,49,30,34,45,7,2,4,2,0,1,1,0,0, Full Time,job,Standing Maister... %O and %M with %T,,,311000,,363800,,Back,11
+260433,Steven,Morris,RI,3,42,65,29,34,45,6,5,3,1,0,1,0,0,0, Full Time,job,Chasing Milne... %P and %M,,,303200,,350800,,Back,38
+250312,Bachar,Houli,RI,7,38,66,25,35,51,5,10,2,0,0,0,1,0,0, Full Time,job,%P with %k by foot plus %M... responsible for Saad,,,407200,,444800,,Back,14
+270941,Tyrone,Vickery,RI,9,34,59,26,34,47,4,6,2,1,2,1,3,1,0, Full Time,pumpkin,%s from %O and %M on Fisher then Blake... also %F... a far cry from last week,subbed,Subbed off in Q4 for Ellis,244400,,282400,,Forward,29
+280819,Dylan,Grimes,RI,2,28,32,12,22,30,6,2,2,0,0,0,0,0,0, Full Time,job,Running off Stanley... %P and %M,,,358400,,416700,,Back,2
+293713,Brandon,Ellis,RI,2,28,35,18,21,27,5,0,3,1,0,0,0,0,0, Full Time,news,On in Q4 for Vickery,sub,Started as a sub,300300,,300100,,Back,5

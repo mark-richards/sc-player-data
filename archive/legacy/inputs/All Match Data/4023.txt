@@ -1,0 +1,48 @@
+Gold Coast,Suns,Essendon,Bombers,R3,13.10.88,15.15.105, Full Time
+Apr 14,2012,7:40,Gold Coast,Seven,960197,10340305,5015,0,,,,
+
+<em>Nicksta</em>: @sixsix have to agree&#044; I thought the umpiring was faulted in Essendons favour somewhat<br><em>Smirks</em>: howlett should tagg ablett more often when i have him captain ;)<br><em>Hawkmad</em>: ablett you legend<br><em>glam77</em>: pretty sure frees were close to even at 3/4 time. dons ended up with 7 more<br><em>Twiggles</em>: What happened to Dempsey?<br><em>Davo75</em>: MLSs = Major League shower sentences. Stanton = Premium&#044; and you dont pick them for the price rises pillick!<br><em>Mithrandir</em>: Fantastic game to watch. Glad I chose this over the debacle at Etihad<br><em>Treebs</em>: Jump on Foxfooty now boys&#044; and have a geeze at Ablett got away with all game (every game)<br><em>Bennyy</em>: G.. Ablett&#044; 3 votes!<br><em>Treebs</em>: thanks GoTEAM&#044; glad I can count on your support<br><em>Blue_Steel</em>: Ablett 179 SC/DT Love his @ss<br><em>dean0s</em>: well done fletch<br>
+220001,Gary,Ablett jnr,GC,44,160,182,201,123,172,25,19,2,7,0,3,1,2,1, Full Time,gun,Tagged by Howlett and Hocking to completely no effect... %P and %T plus %M and %s,,
+240712,Michael,Rischitelli,GC,48,85,93,114,59,84,8,7,1,10,0,1,1,1,0, Full Time,news,%D and %T,,
+290817,Brandon,Matera,GC,20,85,83,111,63,82,12,4,4,5,0,2,0,1,1, Full Time,news,%P and %T with %M and %s on Hardingham,,
+290832,David,Swallow,GC,19,80,84,105,57,87,13,10,0,6,0,0,1,0,0, Full Time,news,%O and %T,,
+240254,Jarrod,Harbrow,GC,19,79,91,103,58,79,11,5,3,5,0,0,0,1,1, Full Time,tagger,Tagging Stanton... %D and %T with %M and %s,,
+200020,Josh,Fraser,GC,13,78,71,94,64,82,12,6,2,1,17,1,0,0,2, Full Time,news,%H and %D plus %s when forward on Fletcher,,
+220009,Nathan,Bock,GC,16,78,70,103,64,87,16,2,5,2,0,0,3,2,0, Full Time,switch,Started on Hurley but soon switched forward... %O and %M,,
+290627,Dion,Prestia,GC,18,73,81,95,54,78,7,11,1,7,0,2,1,0,0, Full Time,news,%P and %T,,
+290790,Matthew,Shaw,GC,14,69,57,85,57,75,10,8,4,1,0,1,0,1,0, Full Time,news,%O and %M,,
+280722,Zac,Smith,GC,13,68,67,78,60,78,6,11,2,1,18,0,0,0,0, Full Time,news,%H and %P,,
+296735,Aaron,Hall,GC,11,66,72,86,51,67,11,1,3,3,0,0,1,2,1, Full Time,cash,%s from %P on Hibberd,,
+290623,Josh,Caddy,GC,14,62,48,80,49,66,11,4,3,2,0,1,1,1,0, Full Time,news,%D and %s,,
+293223,Seb,Tape,GC,8,61,81,72,53,75,6,15,3,1,0,0,0,0,0, Full Time,switch,Started forward but that didn't work so mostly in defence... %D with %b by hand,,
+230015,Jared,Brennan,GC,14,58,103,76,50,72,12,6,2,2,0,2,4,1,0, Full Time,news,First goal... %O and %s,,
+281025,Luke,Russell,GC,9,49,49,62,37,48,6,4,1,3,0,2,0,1,0, Full Time,news,%D and %T,,
+291594,Harley,Bennell,GC,8,45,57,57,36,54,3,10,1,4,0,0,1,0,0, Full Time,news,%B among %D,,
+281024,Maverick,Weller,GC,8,41,24,55,31,45,4,5,2,4,0,0,1,0,0, Full Time,job,Chasing Zaharakis... %P and %T with %M,,
+293813,Thomas,Lynch,GC,4,40,44,52,36,51,6,6,4,1,0,0,2,0,0, Full Time,job,In defence on Ryder... %D,,
+292512,Karmichael,Hunt,GC,7,39,57,45,39,57,2,14,2,1,0,1,2,0,0, Full Time,tonga,%B among %P,mrp,Laid out Monfries in Q4 which will be scrutinised
+290527,Trent,McKenzie,GC,3,38,43,49,32,43,6,4,3,1,0,1,1,0,1, Full Time,news,On in Q3 for Day,sub,Started as a sub
+250716,Matthew,Warnock,GC,4,34,63,48,33,51,5,6,3,3,0,1,5,0,0, Full Time,job,Standing Crameri to start then got Hurley... %P and %F,,
+291753,Sam,Day,GC,0,13,16,16,11,15,0,3,1,1,0,0,0,0,0, Full Time,news,%P on Pears,subbed,Subbed off in Q3 for McKenzie
+292503,Stewart,Crameri,ES,27,106,130,91,88,107,10,7,5,5,0,4,1,4,2, Full Time,hot,%s from %P and %G on Warnock,,
+271022,Tayte,Pears,ES,19,96,105,71,75,102,13,11,6,4,0,1,0,0,0, Full Time,job,On Day... %P and %M,,
+290160,Michael,Hibberd,ES,19,95,89,57,75,99,16,9,6,2,0,3,0,0,0, Full Time,news,%O,job,Minding Hall
+230231,Jobe,Watson,ES,25,94,132,66,75,105,13,12,1,5,0,2,2,2,0, Full Time,star,%P and %T plus %s,,
+240027,Brent,Stanton,ES,27,93,93,77,67,96,12,8,4,8,0,0,1,0,0, Full Time,tagged,Tagged by Harbrow... %D and %M with %T,,
+240290,Angus,Monfries,ES,14,93,69,52,75,102,16,12,5,1,0,2,0,0,0, Full Time,news,%P with %b by hand with %M,,
+250352,Leroy,Jetta,ES,17,92,110,65,80,106,12,12,5,2,0,2,2,2,1, Full Time,news,%s from %D,,
+250267,Patrick,Ryder,ES,22,91,127,78,81,101,8,9,7,2,11,0,1,2,0, Full Time,news,%s from %D and %M on Lynch... also %H,,
+261320,Tom,Bellchambers,ES,23,85,96,79,76,91,5,6,3,3,33,0,1,1,1, Full Time,news,%H and %D with %T and %s,,
+960197,Dustin,Fletcher,ES,13,76,107,32,61,81,17,3,7,0,0,1,1,0,0, Full Time,x-factor,His interceptions late in Q4 were key to the Dons securing the win... %M and %P,job,At FB on the resting ruckman
+260073,Ben,Howlett,ES,13,75,97,51,58,87,11,13,1,4,0,0,1,0,0, Full Time,news,%D and %T,tagger,Tagging Ablett jnr
+290629,Dyson,Heppell,ES,9,73,84,45,55,78,12,9,2,3,0,1,0,0,0, Full Time,news,%D and %M,job,Going with Bennell
+270584,Kyle,Hardingham,ES,9,70,78,34,51,69,15,1,5,2,0,0,0,0,0, Full Time,job,Chasing Matera... %O and %M,,
+230060,Ricky,Dyson,ES,5,67,50,45,50,67,11,3,5,3,0,0,0,0,1, Full Time,news,On in Q2 for Dempsey... %s from %D and %T up forward,sub,Started as a sub
+250569,Heath,Hocking,ES,18,67,71,56,53,80,8,11,1,6,0,1,3,0,2, Full Time,news,%D and %T plus %s and %F,,
+280824,Jake,Melksham,ES,10,59,47,55,43,58,6,4,4,5,0,0,0,0,1, Full Time,news,%s from %D and %T,,
+270935,Michael,Hurley,ES,10,58,65,34,51,61,9,4,3,0,0,4,1,2,1, Full Time,news,%s from %P on Bock then Warnock,,
+230051,Alwyn,Davey,ES,14,52,74,40,43,60,7,5,1,4,0,2,3,1,3, Full Time,news,%s from %O and %T,,
+270951,David,Zaharakis,ES,4,47,50,43,37,52,4,8,2,3,0,0,0,0,1, Full Time,news,%D and %T,,
+261324,Kyle,Reimers,ES,9,40,47,32,31,39,5,1,3,2,0,0,0,1,0, Full Time,news,%s from %D and %M,,
+290641,Jake,Carlisle,ES,2,26,35,15,19,27,5,2,0,2,0,2,1,0,0, Full Time,sore,%D... calf injury in Q3,,
+240245,Courtenay,Dempsey,ES,0,10,6,8,9,12,1,2,1,0,0,0,0,0,0, Full Time,injured,%P... left hamstring injury in Q1,subbed,Subbed off in Q2 for Dyson

@@ -1,0 +1,48 @@
+Fremantle,Dockers,Brisbane,Lions,R14,12.16.88,10.5.65, Full Time
+Jun 25,2011,7:40,Subiaco,Fox Sports,281329,10311405,5573,5386,A shower or two,19,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Marucho</em>: ah&#044; ive got pav and broughton! needed a score boost as well. <br><em>BluesFlag</em>: bewick scored 68 last week spud<br><em>fuzzyone</em>: GUess who had broughton on the bench? fmdt<br><em>bickies</em>: Flower mcpharlin just saw his score&#044; what happened to him?<br><em>syoun18</em>: derr pav calf injury pav not doing anything some people are born mentally challenged<br><em>BluesFlag</em>: traded lower for Shaw LOwer gets 2 more points~ FFS<br><em>NDiddy</em>: Wow broughton makes his sc be with 2 points to spare :D<br><em title="NEWMIE">newmie</em>: 2 players 279 :-}<br><em>Khunt1vote</em>: linusp is obviously suffering severe butthurt.<br><em>valkorum</em>: freo kicked 2.8 in the 4th and kept brissy scoreless<br><em>BluesFlag</em>: PAv FYFe! I love you!<br><em>linusp</em>: christ he even beat black... he had no where near the influence black did.<br>
+261756,Greg,Broughton,FR,38,139,145,179,112,152,19,13,7,7,1,2,3,2,1, Full Time,x-factor,%P and %M with %s and %T... also %F,job,Minding Sheldon
+200032,Matthew,Pavlich,FR,37,132,155,163,111,144,19,10,6,3,0,1,2,5,0, Full Time,star,Tagged by Polkinghorne... %D and %M plus %s,,
+291570,Nathan,Fyfe,FR,15,95,125,119,79,105,12,12,8,2,0,0,0,0,3, Full Time,news,%2 Rockliff on a wing... %s from %D and %M,,
+240139,Paul,Duffield,FR,14,93,99,121,72,96,15,7,7,3,0,1,0,0,0, Full Time,tagged,Tagged by Stiller... %D and %M with %T,,
+261241,Clayton,Hinkley,FR,21,84,101,108,67,87,9,6,5,5,0,1,1,2,0, Full Time,news,%s from %P and %T with %M in a small forward role,in,Late replacement for Michael Barlow
+271433,Alex,Silvagni,FR,14,80,102,104,67,85,11,6,9,2,1,2,1,0,0, Full Time,job,Moved from Retzlaff to Brown in Q3... %M and %O,,
+261231,Rhys,Palmer,FR,9,77,89,97,59,83,12,10,2,3,0,1,0,0,2, Full Time,news,%B among %O with %T... also %s,tagger,Tagging Power
+230048,Ryan,Crowley,FR,15,75,64,99,54,72,11,3,3,5,0,1,0,1,0, Full Time,news,%P and %M plus %T and %s,tagger,Tagging Black
+260713,Nick,Lower,FR,19,73,87,98,59,84,12,6,3,5,0,2,4,1,0, Full Time,job,Minding Bewick... %D and %T plus %M and %s.... also %F,,
+290251,Zachary,Clarke,FR,11,69,80,84,59,75,2,10,3,5,14,2,1,0,1, Full Time,news,%P and %M with %H,,
+250268,Garrick,Ibbotson,FR,9,68,76,85,55,75,11,9,4,1,0,1,0,0,0, Full Time,news,%O and %M,,
+280386,Clancee,Pearce,FR,15,66,76,87,47,65,5,7,2,7,0,1,0,0,2, Full Time,news,%s from %O and %T on McGrath,,
+230107,Michael,Johnson,FR,14,63,87,79,51,72,8,9,2,3,0,0,1,1,0, Full Time,switch,%D and %T... moved to defence in Q3 on Retzlaff after McPharlin's injury,,
+271015,Matthew,de Boer,FR,14,59,74,80,43,63,6,7,1,7,0,2,2,0,0, Full Time,tagger,Forward tag on Hanley... %P and %T,,
+230011,Kepler,Bradley,FR,5,56,66,70,46,60,4,8,4,3,2,1,0,0,1, Full Time,news,%P and %G on Maguire,,
+280336,Stephen,Hill,FR,7,56,71,67,46,67,10,11,1,0,0,0,0,0,1, Full Time,tagged,Tagged by Raines... %O and %s,,
+280933,Dylan,Roberton,FR,5,55,63,73,43,60,8,5,4,3,0,0,1,0,0, Full Time,news,%O and %M,,
+291560,Josh,Mellington,FR,5,50,55,64,42,53,6,5,4,2,0,3,1,0,2, Full Time,rookie,First game... %O,,
+220096,Aaron,Sandilands,FR,8,47,44,54,41,49,2,5,1,2,19,1,0,0,0, Full Time,injured,%H and %P with %T... off in Q3 with soreness with the turf toe he was coming back from,,
+280416,Chris,Mayne,FR,3,45,50,59,34,44,5,3,3,3,0,1,0,0,2, Full Time,news,%s from %D on Patfull... also %T and %M,,
+210084,Roger,Hayden,FR,3,31,27,41,23,30,2,3,2,3,0,1,0,0,0, Full Time,in,%l Tendai Mzungu... on in Q3 for Hayden,sub,Started as a sub
+200045,Luke,McPharlin,FR,2,18,33,24,19,27,3,3,3,0,0,0,2,0,0, Full Time,injured,On Brown.. %M and %P... also %F... groin injury late in Q2,subbed,Subbed off at HT for Hayden
+270919,Tom,Rockliff,BL,31,122,115,81,97,126,19,8,10,3,0,1,0,1,0, Full Time,hot,%2 Fyfe on a wing... %O and %T with %M and %s,,
+980007,Simon,Black,BL,26,118,113,77,87,126,19,14,2,7,0,2,1,0,0, Full Time,hot,Tagged by Crowley... %P and %T,,
+281373,Jack,Redden,BL,27,112,94,87,95,129,13,17,8,3,0,0,1,1,0, Full Time,gun,%D and %T plus %M and %s,,
+250053,Cheynee,Stiller,BL,25,107,113,77,83,114,16,9,8,5,0,0,1,0,0, Full Time,hot,%O and %M with %T,tagger,Tagging Duffield
+270512,Pearce,Hanley,BL,25,102,93,69,79,105,17,4,10,4,0,0,1,0,0, Full Time,hot,Forward tag on him by de Boer... %P and %M with %T,,
+240013,Andrew,Raines,BL,9,76,101,52,59,81,11,10,3,3,0,2,0,0,0, Full Time,tagger,Tagging Hill... %P and %M,,
+271072,Daniel,Rich,BL,12,74,69,50,61,76,11,3,5,2,0,2,1,2,1, Full Time,news,%D and %M plus %s,,
+260975,James,Polkinghorne,BL,31,73,59,70,58,82,7,8,2,8,0,3,4,1,1, Full Time,news,%P and %T with %s,tagger,Tagging Pavlich
+281329,Rohan,Bewick,BL,15,70,55,51,58,71,10,2,7,2,0,2,1,1,2, Full Time,news,%s from %O and %M on Lower,,
+210013,Ashley,McGrath,BL,13,67,82,38,50,75,13,6,2,4,0,0,2,0,0, Full Time,job,In defence on Pearce... %P and %T,,
+200007,Jonathan,Brown,BL,15,62,68,38,58,73,10,4,6,0,0,2,3,2,1, Full Time,news,First goal... %s from %G and %O on McPharlin then Silvagni,,
+280572,Jesse,O'Brien,BL,9,61,45,44,44,60,9,5,2,4,0,2,0,0,0, Full Time,news,%P,,
+261250,Sam,Sheldon,BL,10,60,55,62,48,66,4,9,4,5,0,1,1,0,0, Full Time,news,%P and %T with %M in a small forward role on Broughton,,
+250335,Matthew,Leuenberger,BL,15,57,64,57,52,64,3,4,3,3,25,0,2,0,0, Full Time,news,%H and %P with %M and %T,,
+290808,Patrick,Karnezis,BL,11,54,52,52,44,57,4,6,4,3,0,0,0,1,0, Full Time,bubble,Second game... %s from %P and %M with %T,subbed,Subbed off in Q3 for Harwood
+980011,Luke,Power,BL,13,49,38,47,32,45,5,3,1,6,0,1,0,0,0, Full Time,tagged,Tagged by Palmer... %D and %T,,
+290110,Mitchell,Golby,BL,8,48,56,42,37,54,5,8,1,4,0,1,1,0,0, Full Time,cash,%O and %T,,
+220062,Matt,Maguire,BL,9,46,69,31,44,66,8,7,5,2,0,0,5,0,0, Full Time,job,Has Bradley... %D and %F,,
+292501,Bryce,Retzlaff,BL,9,45,59,34,37,45,6,1,5,1,0,0,0,1,0, Full Time,cash,Kicked %s from %P and %G on Silvagni then Johnson,,
+230170,Joel,Patfull,BL,4,44,59,28,37,48,7,4,5,0,0,0,0,0,0, Full Time,news,%M and %D,job,Chasing Mayne
+292508,Niall,McKeever,BL,3,31,35,26,28,35,3,4,4,0,2,0,0,0,0, Full Time,rookie,First game... %P,,
+281048,Ryan,Harwood,BL,3,27,35,24,20,27,3,2,2,2,0,0,0,0,0, Full Time,news,On in Q3 for Karnezis,sub,Started as a sub

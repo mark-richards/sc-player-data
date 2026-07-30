@@ -1,0 +1,12 @@
+# Large raw data dirs — mounted as volumes at runtime instead
+data/raw/
+.env
+archive/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+*.ipynb
+*.ipynb_checkpoints/
+.ipynb_checkpoints/

@@ -1,0 +1,48 @@
+Fremantle,Dockers,Sydney,Swans,SF,14.15.99,11.8.74, Full Time
+Sep 21,2013,7.45,Subiaco,Seven,,10402602,fre-v-syd,0,A shower or two,21,,
+
+<em style='color:#000'>Roonstar1</em>: Sydney not the same team without Sam Reid&#044; Adam Goodes and Tippet<br><em style='color:#000'>Luke919</em>: serious junk by barlow<br><em style='color:#000'>J.Worrall</em>: wtf?<br><em style='color:#000'>Richy10</em>: yeah Bird and De Boer were subbed off in the 3rd quarter<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tSK"></b> itsduftime</em>: wow about time<br><em style='color:#000'>J.Worrall</em>: ShootMunto!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> whale607</em>: ffs fanfooty...<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tFR"></b> NewFreoFan</em>: I want chat :(<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> rickybrad</em>: wtf<br><em style='color:#000'>J.Worrall</em>: classic mark Pav<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tPA"></b> living21</em>: I am getting sick and tired of this moonty<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> Shazzman</em>: The has started haha.<br>
+240139,Paul,Duffield,FR,25,118,103,155,92,123,26,3,9,1,0,0,1,1,0, Full Time,hot,%D and %M plus %s,job,Running with Bolton,0,104,0,97,Back,41,19,77.3,80.2,5.47,5.33
+292026,Michael,Barlow,FR,37,111,96,145,87,121,12,12,6,8,0,0,2,1,1, Full Time,hot,%P and %T with %M,,,0,166,0,160,Centre,21,21,104.6,110,26.10,13.39
+280416,Chris,Mayne,FR,48,109,101,146,80,110,5,12,6,13,0,1,1,0,2, Full Time,hot,Rampe following him...... %s from %P and %M... also %T,,,0,120,0,123,Forward,23,21,86.6,92,6.63,4.17
+291570,Nathan,Fyfe,FR,22,103,122,127,86,117,13,14,5,3,0,0,1,2,0, Full Time,star,Tagged by O'Keefe but too good... %P and %T with %M and %s,,,0,117,0,125,Centre,7,19,97.9,106.5,10.23,17.14
+230048,Ryan,Crowley,FR,21,89,98,115,71,99,12,10,4,5,0,1,2,1,0, Full Time,news,%O and %T with %M and %s,tagger,Tagging Jack,0,19,0,35,Centre,15,22,58.7,58.4,1.50,1.61
+240052,David,Mundy,FR,14,88,115,111,72,106,14,15,3,3,0,0,2,0,1, Full Time,news,%D and %M with %T and %s,,,0,82,0,97,Centre,16,19,97.9,103.7,2.46,4.68
+230107,Michael,Johnson,FR,14,85,94,112,66,87,17,3,8,1,0,0,0,0,0, Full Time,news,%O and %M,job,On Everitt,0,97,0,84,Back,37,21,82,86.9,2.98,1.76
+250063,Danyle,Pearce,FR,14,82,107,102,65,93,13,13,3,2,0,0,0,0,0, Full Time,news,%D and %M,,,0,128,0,140,Back Centre,6,22,80.6,80.2,14.94,7.60
+280336,Stephen,Hill,FR,14,78,75,102,56,81,14,7,2,4,0,0,0,0,0, Full Time,news,%O and %T with %M,,,0,56,0,79,Centre,32,16,70.5,85.9,1.82,0.92
+281007,Michael,Walters,FR,16,78,99,98,63,77,13,1,3,2,0,3,1,3,2, Full Time,news,Malceski on him... %s from %D and %M,,,0,59,0,61,Forward,10,18,82.1,88.9,2.88,1.43
+200032,Matthew,Pavlich,FR,16,77,101,94,65,83,6,9,5,3,0,0,0,2,2, Full Time,news,Richards on him...... %s from %P and %G,,,0,100,0,102,Forward,29,9,74.8,81.1,4.55,3.16
+220096,Aaron,Sandilands,FR,21,77,105,85,77,90,2,11,6,0,33,1,1,0,0, Full Time,news,%H and %P with %T,,,0,104,0,127,Ruck,31,7,49.6,64,1.37,1.03
+270908,Nick,Suban,FR,16,73,83,95,58,76,11,3,3,4,0,2,2,2,1, Full Time,news,%P and %T with %M... also %s and %F,,,0,148,0,156,Back,8,19,67.8,73,3.55,4.30
+280726,Tendai,Mzungu,FR,13,71,96,93,53,76,10,8,2,5,1,1,1,0,0, Full Time,news,%D and %T with %M,,,0,119,0,106,Centre,13,22,78.3,79.9,1.39,0.86
+260069,Hayden,Ballantyne,FR,26,70,58,95,52,74,8,5,1,8,0,2,3,1,2, Full Time,news,Smith following him... %s from %O and %T... %F as well,,,0,50,0,55,Forward,1,18,71.4,72.6,1.31,1.20
+290251,Zachary,Clarke,FR,11,69,76,83,61,76,4,8,4,3,19,1,1,0,0, Full Time,news,%H and %D with %T and %M,,,0,44,0,52,Ruck,30,14,84.9,96.3,4.30,2.49
+200045,Luke,McPharlin,FR,13,66,75,88,57,75,11,4,9,1,0,0,2,0,0, Full Time,job,On White...... %M and %P,,,0,109,0,93,Back,18,13,76.5,73.8,0.98,0.64
+240266,Lee,Spurr,FR,5,56,62,73,46,63,8,6,5,2,0,0,1,0,0, Full Time,job,On McGlynn... %D and %M with %T,,,0,94,0,88,Back,34,20,71,72.4,0.88,0.73
+290733,Cameron,Sutcliffe,FR,8,56,68,73,48,66,12,5,5,0,0,1,2,0,0, Full Time,news,%P and %M,,,0,-1,0,-17,Centre,33,16,47.5,47.6,0.60,0.40
+293535,Lachie,Neale,FR,8,36,34,42,31,42,5,6,1,0,0,0,0,1,0, Full Time,news,On in Q3 for de Boer... %s from %P,sub,Started as the sub,0,103,0,104,Centre,27,9,77.1,86.9,1.05,0.61
+240552,Zac,Dawson,FR,4,30,33,38,30,42,4,6,4,0,0,0,2,0,0, Full Time,job,Has the resting ruck mainly Pyke...... %M and %O,,,0,35,0,67,Back,3,21,34,46.5,3.35,1.80
+271015,Matthew,de Boer,FR,2,29,38,36,23,33,0,7,1,3,0,0,0,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q3 for Neale,0,75,0,92,Forward Centre,9,22,76.6,75.5,1.91,1.43
+230253,Jarrad,McVeigh,SY,33,122,105,91,94,129,16,14,5,6,0,1,0,1,0, Full Time,hot,%O and %T with %M,,,0,106,0,99,Centre,3,22,97.8,106.1,3.51,2.79
+290778,Luke,Parker,SY,32,106,82,80,82,113,14,11,4,6,0,1,1,1,2, Full Time,hot,%s from %O and %T with %M,,,0,96,0,79,Centre,26,22,84.7,86.9,2.19,2.28
+260382,Josh P.,Kennedy,SY,26,94,101,88,70,102,8,16,2,8,0,0,0,0,0, Full Time,news,%D and %T,,,0,96,0,114,Centre,12,22,91,105.4,8.89,30.24
+230140,Ben,McGlynn,SY,25,88,88,70,65,90,11,9,1,7,0,3,1,1,0, Full Time,news,Spurr has him...... %O and %T,,,0,18,0,61,Forward,21,19,70.7,72.3,1.13,1.28
+250212,Jesse,White,SY,15,88,81,65,74,95,12,8,9,2,0,2,1,0,2, Full Time,news,McPharlin on him... %s from %G and %D.... also %T,,,0,63,0,81,Forward,18,12,62,67.6,1.23,0.96
+230132,Nick,Malceski,SY,9,79,80,48,59,81,14,5,5,3,0,0,0,0,0, Full Time,job,Matched up on Walters...,,,0,72,0,91,Back,9,22,82.6,90.8,12.23,7.95
+290307,Dane,Rampe,SY,20,76,75,69,58,81,8,8,5,6,0,0,1,0,0, Full Time,job,On Mayne... %D and %T with %M,,,0,79,0,90,Centre,43,20,51.6,59.5,3.30,2.73
+280762,Shane,Mumford,SY,21,75,84,85,61,79,2,9,2,7,19,1,1,0,0, Full Time,news,%H and %T with %D and %M,,,0,68,0,69,Ruck,41,19,78.1,91.9,3.84,4.91
+290117,Daniel,Hannebery,SY,15,71,66,56,54,70,9,5,2,5,0,4,1,1,1, Full Time,news,%P and %T... also %s and %M... aided by %4 FF,,,0,93,0,124,Centre,4,21,88.9,95.3,4.18,7.50
+200071,Ryan,O'Keefe,SY,13,68,42,49,52,73,10,7,3,4,0,1,1,0,1, Full Time,tagger,Tagging Fyfe... %D and %T with %M,,,0,72,0,114,Centre,5,22,97.9,101.1,5.75,3.17
+261257,Andrejs,Everitt,SY,8,67,84,47,56,75,9,10,5,1,0,1,0,0,0, Full Time,news,Johnson has him...... %D and %M,,,0,62,0,87,Forward,13,17,60.1,63.4,0.86,0.40
+291206,Mike,Pyke,SY,12,65,66,61,55,68,4,8,2,3,11,2,0,1,0, Full Time,news,%H and %P,,,0,68,0,66,Ruck,38,22,74.2,86.5,5.02,4.27
+240072,Heath,Grundy,SY,8,63,57,30,51,72,12,9,3,0,0,0,0,0,0, Full Time,job,On resting ruck mainly Clarke...... %M and %D,,,0,77,0,96,Back,39,22,54,64.1,1.69,1.60
+990011,Jude,Bolton,SY,20,60,54,70,44,60,2,7,2,7,0,0,0,1,0, Full Time,news,Duffield sticking to him... %s from %D and %T,,,0,62,0,81,Forward Centre,24,21,64.4,70.3,2.59,3.40
+210027,Ted,Richards,SY,7,58,86,39,46,63,8,10,1,2,0,3,0,0,0, Full Time,job,Has the job on Pavlich.... %D and %T,,,0,14,0,19,Back,25,22,52,69.4,2.57,2.53
+291978,Harry,Cunningham,SY,10,52,61,40,47,60,5,8,3,0,0,0,0,2,0, Full Time,news,%s from %D and %M,,,0,18,0,28,Centre,7,3,18.7,17,1.08,0.72
+250338,Nick,Smith,SY,8,50,59,32,42,60,8,8,2,2,0,2,2,0,0, Full Time,job,Following Ballantyne... %P and %M with %T,,,0,78,0,88,Back,40,21,57,66,0.71,0.87
+281281,Lewis,Jetta,SY,10,49,35,30,41,51,8,2,5,0,0,0,0,1,0, Full Time,news,%s from %O and %M,,,0,66,0,68,Forward Centre,32,10,61.9,61.8,3.89,3.45
+295608,Shane,Biggs,SY,8,49,37,37,43,60,6,9,4,1,0,0,1,0,0, Full Time,news,%O and %M,,,0,,0,,Centre,46,1,66,62,0.41,0.30
+291357,Gary,Rohan,SY,10,44,37,33,39,43,5,1,4,0,0,2,0,2,1, Full Time,news,On in Q3 for Bird... %s from %D and %M,sub,Started as the sub,0,64,0,61,Forward,16,3,32.3,32.7,0.23,0.30
+240226,Kieren,Jack,SY,4,43,54,35,36,48,5,6,3,2,0,2,1,0,0, Full Time,creepy,Got the formidable Crowley... %P and %T with %M,,,0,96,0,115,Centre,15,22,101.4,109.3,17.89,10.64
+261212,Craig,Bird,SY,7,27,24,20,18,30,5,1,0,4,0,0,2,0,0, Full Time,news,%D and %T... also %F,subbed,Subbed off in Q3 for Rohan,0,78,0,97,Forward Centre,14,20,71.5,73,1.60,1.73

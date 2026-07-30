@@ -1,0 +1,48 @@
+Adelaide,Crows,Collingwood,Magpies,R9,6.13.49,10.15.75, Full Time
+May 26,2012,7:40,Footy Park,Fox Sports,280965,10340906,430085,0,A few showers,16,,
+
+<em>Cruise on</em>: Night everyone&#044; that was fun<br><em>winty</em>: Peaking too early in other words?<br><em>Cruise on</em>: Crows could be worse&#044; you could have Neil Craig as coach. <br><em>Bunta</em>: No one is the Black Cavair of football<br><em>stevekat10</em>: living in the past liverpool!<br><em>canavpiesi</em>: Pies are the black caviar of football but running on 3 legs! Wait till they have all 4<br><em>number1red</em>: crows so so very over rated<br><em>barlow=god</em>: now&#044; just imagine if collingwood were actually playing with a full 22...<br><em title="LIVERPOOL">liverpool</em>: he took the bait lads get him<br><em>Cruise on</em>: winty&#044; I think you meant to say 'well done Pies&#044; too good tonight'&#044; then we shake hands.<br><em>mdon11</em>: @winty: So you are refusing to acknowledge that Collingwood played well tonight and showed alot of heart?<br><em>Cruise on</em>: Just warming up winty&#044; just shifting into 3rd gear. I think the Crows are the new Port!<br>
+220086,Brent,Reilly,AD,19,101,117,135,73,100,18,4,6,5,0,0,0,0,1, Full Time,hot,%D and %T with %M,,
+261351,Matthew,Jaensch,AD,19,101,98,130,80,109,19,9,6,2,0,2,1,0,1, Full Time,hot,%D and %M,job,Fasolo is his man
+250118,Nathan,van Berlo,AD,42,96,86,134,61,91,11,5,1,13,1,0,1,0,0, Full Time,news,%2 Pendlebury... %P and %T,,
+250362,David,Mackay,AD,18,93,86,124,71,96,14,5,7,5,2,0,1,0,1, Full Time,news,%P and %T with %M,,
+270742,Kurt,Tippett,AD,21,88,104,112,79,102,11,5,7,3,8,0,4,2,4, Full Time,news,Booted %s from %G and %D on Keeffe... also %H,,
+291748,Brodie,Smith,AD,24,88,89,114,68,90,12,6,6,4,0,0,0,1,0, Full Time,news,%D and %T plus %M and %s,,
+210016,Scott,Thompson,AD,10,84,93,108,64,88,14,8,4,3,1,1,0,0,0, Full Time,news,%2 Beams... %K among %D with %M and %T,,
+270963,Rory,Sloane,AD,19,75,77,99,56,79,7,9,3,7,1,1,1,0,0, Full Time,news,%B among %P with %T and %M,,
+200092,Michael,Doughty,AD,15,70,69,95,50,69,10,4,3,6,0,2,1,0,0, Full Time,news,%O and %T with %M,job,Has Sinclair
+270917,Patrick,Dangerfield,AD,12,67,87,85,50,71,9,9,1,4,2,1,0,0,0, Full Time,news,%D and %T,,
+261384,Matthew,Wright,AD,18,66,84,81,51,68,5,10,0,5,0,3,0,1,2, Full Time,news,%s from %P with %T on Buckley,,
+230174,Jason,Porplyzia,AD,9,63,62,85,49,68,12,3,4,3,1,1,2,0,1, Full Time,news,%P and %T with %M on O'Brien... also %F,,
+294828,Josh,Jenkins,AD,5,57,58,70,47,60,6,7,3,2,6,2,0,0,0, Full Time,sore,%P and %M on Maxwell... hip knock in Q2... also %H and %T,,
+261142,Bernie,Vince,AD,8,56,56,74,44,66,10,7,2,3,0,0,2,0,0, Full Time,news,%O and %T with %M,,
+261857,Ian,Callinan,AD,7,55,47,70,44,62,11,6,2,1,0,1,1,0,2, Full Time,news,%s from %O and %M on Williams,,
+261138,Jared,Petrenko,AD,14,48,59,63,37,51,5,4,2,4,0,0,1,1,0, Full Time,news,Manning up Shaw... %s from %D with %T and %M,,
+270811,Sam,Jacobs,AD,9,48,76,52,46,57,4,7,0,0,24,1,1,0,0, Full Time,news,%H and %D,,
+210056,Graham,Johncock,AD,3,40,25,54,28,39,6,2,2,3,0,0,0,0,0, Full Time,news,Playing forward on Toovey... %O and %T with %M,subbed,Subbed off in Q4 for Douglas
+291201,Ricky,Henderson,AD,8,40,61,53,34,45,8,1,3,1,0,1,2,1,0, Full Time,job,In defence on Goldsack... %P and %M plus %s,,
+280934,Daniel,Talia,AD,3,38,67,51,30,42,6,3,3,2,0,0,1,0,0, Full Time,job,Standing Dawes... %O and %M with %T,,
+220093,Ben,Rutten,AD,3,31,49,39,27,33,4,3,4,0,0,1,0,0,0, Full Time,job,Following Cloke... %M and %O,,
+240370,Richard,Douglas,AD,1,15,6,20,12,18,3,2,0,1,0,1,1,0,0, Full Time,news,On in Q4 for Johncock... %D,sub,Started as a sub
+280965,Steele,Sidebottom,CO,32,135,142,94,106,140,19,12,6,5,0,2,0,2,2, Full Time,cherry,%P and %T plus %M and %s,,
+271001,Dayne,Beams,CO,33,132,175,99,108,150,16,20,5,5,0,0,1,2,0, Full Time,star,%2 Thompson... %O and %M plus %T and %s... had an amazing Q2,,
+240359,Dale,Thomas,CO,30,124,134,91,94,129,18,11,7,7,0,2,1,0,0, Full Time,x-factor,%P and %T with %M... his Q4 was crucial to set up the Pie win,,
+260257,Scott,Pendlebury,CO,18,88,118,43,72,100,16,13,1,1,0,3,1,1,1, Full Time,news,%2 van Berlo... %P and %s,,
+260246,Tyson,Goldsack,CO,17,81,92,68,64,83,9,5,4,5,0,1,1,2,2, Full Time,switch,Playing forward again on Henderson... switched back to Jenkins in Q4 after Keeffe's injury... %D and %T plus %M and %s,,
+210003,Alan,Didak,CO,15,80,87,39,62,86,16,5,3,2,0,0,1,1,2, Full Time,news,%s from %O with %M and %T,,
+240419,Alan,Toovey,CO,25,80,94,77,56,81,8,7,3,9,0,0,1,0,0, Full Time,job,Minding Johncock... %O and %M with %T,,
+240700,Heath,Shaw,CO,15,79,105,39,66,88,15,7,5,0,0,1,1,1,1, Full Time,news,First goal... Petrenko manning him up... %P and %M plus %s,,
+261799,Sharrod,Wellingham,CO,14,75,81,50,58,78,11,8,2,3,0,2,0,1,0, Full Time,news,%O and %M with %T and %s,,
+240073,Harry,O'Brien,CO,13,71,86,55,54,75,9,9,3,4,0,1,0,0,0, Full Time,brazil,%D and %T with %M,porpoise,Running off Porplyzia
+280104,Jarryd,Blair,CO,9,69,96,48,58,83,9,14,2,2,0,1,1,0,2, Full Time,news,%s from %O with %M and %T,,
+272005,Marty,Clarke,CO,9,68,50,37,51,70,13,4,4,2,0,0,0,0,1, Full Time,news,%D and %T plus %s,,
+250683,Simon,Buckley,CO,9,67,75,37,55,78,12,9,4,1,0,0,1,0,0, Full Time,news,%P and %M,job,Wright is his man
+230263,Nick,Maxwell,CO,15,60,93,58,47,63,5,7,1,6,6,4,2,0,0, Full Time,news,%P and %T... also %H,job,Moved from Jenkins to Tippett in Q4 after Keeffe's injury
+210099,Darren,Jolly,CO,15,55,43,57,51,60,2,3,2,3,29,1,2,0,1, Full Time,news,%H and %P with %M and %T... also %s,,
+260394,Chris,Dawes,CO,4,54,50,48,43,56,5,6,3,3,4,1,0,0,1, Full Time,news,Kicked %s from %D and %G on Talia... also %H and %T,,
+291386,Ben,Sinclair,CO,8,49,69,43,38,57,5,9,1,4,0,0,1,0,0, Full Time,news,%O and %T,,
+290314,Lachlan,Keeffe,CO,3,39,52,35,29,39,4,4,2,3,0,1,0,0,0, Full Time,job,Standing Tippett... %D and %T with %M,injured,Right knee injury in Q4 and stretchered off
+295296,Marley,Williams,CO,3,39,46,18,31,42,8,3,3,0,0,0,0,0,0, Full Time,rookie,First game... %D and %M,job,Minding Callinan
+290821,Alex,Fasolo,CO,8,35,27,38,26,39,3,3,2,5,0,0,2,0,0, Full Time,news,%O and %T on Jaensch... also %F,subbed,Subbed off in Q4 for Elliott
+240366,Travis,Cloke,CO,1,24,26,25,18,25,2,2,1,3,0,1,1,0,1, Full Time,mare,Rutten sitting on him... one touch to half time... no stats at all in Q3... %s from %P and %T,,
+293801,Jamie,Elliott,CO,1,11,8,13,8,12,1,0,1,2,0,0,1,0,0, Full Time,rookie,First game... on in Q4 for Fasolo... one touch and %T,sub,Started as a sub

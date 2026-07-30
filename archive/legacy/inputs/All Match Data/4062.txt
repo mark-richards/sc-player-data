@@ -1,0 +1,48 @@
+Fremantle,Dockers,Port Adelaide,Power,R7,12.15.87,7.5.47, Full Time
+May 13,2012,4:40,Subiaco,Fox Sports,220090,10340708,430069,0,A shower or two,23,,
+
+<em>Zombify</em>: On DT website Broughts is on 106<br><em>Jawdan</em>: Centurions, Gonna be extremely close but I'd say Murpphy and Goddard wins.<br><em>Daniel_79</em>: Brad Ebert for Gun! :)<br><em>damoc85</em>: muprhy and goddard will get that<br><em>SChawkMI</em>: on around 1930 with saad, hayes and scotland to play. i think i'll get 2150<br><em>GJayBee</em>: @Centurians, sounds close!!! Hope for good weather and high scores!<br><em>azza94</em>: whats everyone on?<br><em title="JAMESMAGNR">jamesmagnr</em>: @turkies sandi 121 and broughts 101<br><em>gocatsgo</em>: Lucky I had the right Ebert. ;)<br><em>DiPpEr3</em>: 2029 And still got murphy scotland milera and goddard<br><em>jimmyfos</em>: centurions, goddard gets 100 just for turning up u want murphy quiet<br><em>FootyDrunk</em>: i dont think sandi will get the medal mOnty<br>
+240139,Paul,Duffield,FR,26,114,130,150,85,120,17,11,5,7,0,1,1,0,0, Full Time,hot,Loose in defence... %D and %T with %M,,
+200032,Matthew,Pavlich,FR,32,109,115,138,96,120,13,6,10,3,0,1,3,4,0, Full Time,heart,Booted %s from %D and %M on Carlile... also %F... right knee twinge in Q1 but strapped it up and played on,,
+290251,Zachary,Clarke,FR,21,107,95,135,90,111,11,7,9,4,14,2,1,0,4, Full Time,hot,%P and %M on Trengove... also %H and %T,mrp,A forearm to Westhoff's head in Q2 will be looked at
+280386,Clancee,Pearce,FR,26,103,130,125,86,114,7,19,5,5,0,3,0,1,0, Full Time,hot,%s from %P and %M on Logan... also %T,,
+261756,Greg,Broughton,FR,26,98,107,127,72,102,8,14,3,9,0,1,0,0,0, Full Time,news,%P and %M with %T,,
+230107,Michael,Johnson,FR,15,97,99,126,75,105,18,9,5,3,0,1,1,0,0, Full Time,news,%P and %M,job,Has Westhoff
+220096,Aaron,Sandilands,FR,38,96,126,105,96,115,4,13,5,0,43,0,2,1,0, Full Time,star,%H and %P with %M... also %F and %s,,
+200045,Luke,McPharlin,FR,20,95,89,123,81,105,12,10,10,3,0,3,2,0,0, Full Time,rock,On Butcher... %O and %M,,
+230048,Ryan,Crowley,FR,16,88,70,112,68,90,14,6,4,3,0,1,0,1,3, Full Time,news,%D and %M plus %s,tagger,Tagging Boak
+280416,Chris,Mayne,FR,21,87,84,103,75,93,6,12,4,3,0,3,0,3,0, Full Time,news,%s from %O and %M on Chaplin... also %T,,
+280336,Stephen,Hill,FR,14,85,97,104,69,98,10,16,3,3,0,0,0,0,2, Full Time,news,%2 Hartlett... %O and %T plus %s,,
+292026,Michael,Barlow,FR,18,74,80,97,54,81,8,11,1,7,0,0,1,0,0, Full Time,news,%2 Rodan... %D and %T,,
+280726,Tendai,Mzungu,FR,9,71,76,89,55,79,12,10,2,2,0,0,0,0,1, Full Time,news,%2 Brad Ebert... %P and %s,,
+240052,David,Mundy,FR,8,69,77,91,51,74,14,5,2,3,0,0,1,0,2, Full Time,tagged,Tagged by Broadbent... %O,,
+240266,Lee,Spurr,FR,13,65,70,79,59,78,8,12,6,0,0,2,1,0,0, Full Time,bubble,Second game... %M and %P in defence,,
+260069,Hayden,Ballantyne,FR,16,65,53,86,50,66,9,3,4,4,0,1,1,1,0, Full Time,news,%s from %O on Surjan... also %M and %T,,
+271015,Matthew,de Boer,FR,9,50,69,60,42,54,6,7,2,1,0,2,0,1,0, Full Time,sore,Manning up Cornes... donuts in Q1... %D... cut over the right eye in Q2,,
+293535,Lachie,Neale,FR,9,48,50,65,35,49,7,3,2,4,0,1,1,0,1, Full Time,sore,%P and %T on Jacobs... ran full on into Daniel Stewart's knee late in Q2 which left him nursing sore ribs,subbed,Subbed off in Q4
+210037,Adam,McPhee,FR,7,46,58,57,42,60,6,10,3,1,0,1,2,0,0, Full Time,sore,%D and %M... right ankle knock in Q4,job,Responsible for Phillips
+250268,Garrick,Ibbotson,FR,2,43,67,53,34,48,7,7,1,1,0,1,0,0,0, Full Time,news,%D,,
+240552,Zac,Dawson,FR,3,39,68,48,30,45,3,9,0,3,0,0,0,0,0, Full Time,job,At FB on Paul Stewart... %P and %T,,
+280933,Dylan,Roberton,FR,1,19,16,23,15,21,4,3,0,0,0,1,0,0,0, Full Time,news,On in Q4 for Neale,sub,Started as a sub
+261911,Brad,Ebert,PA,37,114,109,102,88,118,12,10,6,9,1,3,2,1,0, Full Time,hot,%2 Mzungu... %P and %M with %T,,
+271128,John,McCarthy,PA,20,105,105,60,84,118,19,11,6,3,0,1,2,0,1, Full Time,hot,%P and %M with %T and %s,,
+240180,Troy,Chaplin,PA,19,99,92,52,78,105,19,7,8,1,0,0,0,0,0, Full Time,news,%P and %M,job,Responsible for Mayne
+230124,Tom,Logan,PA,19,89,70,77,72,96,9,12,7,4,0,1,0,0,0, Full Time,job,Pearce is his man... %D and %T,,
+270779,Paul,Stewart,PA,26,87,86,74,65,87,10,6,5,6,0,0,0,1,0, Full Time,news,Playing forward on Dawson... %s from %P and %T,,
+210020,Kane,Cornes,PA,10,84,68,49,67,94,15,9,4,3,0,2,2,0,1, Full Time,news,Matched up on de Boer... %P and %T plus %s,,
+280013,Jackson,Trengove,PA,14,84,105,58,72,96,12,11,8,1,0,1,1,0,0, Full Time,news,%M and %O,job,Standing Clarke
+271078,Matthew,Broadbent,PA,26,77,83,76,64,89,5,12,2,6,1,0,2,2,1, Full Time,news,%P and %T plus %s,tagger,Tagging Mundy
+250365,Travis,Boak,PA,14,74,71,59,61,90,9,14,2,5,0,2,3,0,0, Full Time,creepy,Tagged by Crowley... %D and %T,,
+220090,David,Rodan,PA,18,68,81,57,50,73,8,9,1,6,1,1,1,0,0, Full Time,news,%2 Barlow... %O and %T,,
+250308,Brent,Renouf,PA,12,68,69,64,60,72,4,7,4,2,21,1,0,0,0, Full Time,news,%H and %P,,
+260750,Justin,Westhoff,PA,16,67,70,52,52,69,9,3,4,4,3,0,1,1,0, Full Time,news,%P and %T on Johnson,,
+261892,Hamish,Hartlett,PA,16,64,71,74,50,69,2,11,4,6,0,0,0,0,0, Full Time,news,%2 Hill... %D and %T with %M,,
+250688,Alipate,Carlile,PA,13,63,47,58,58,81,5,14,6,2,0,0,2,0,0, Full Time,job,Has Pavlich... %D,,
+210043,Domenic,Cassisi,PA,13,62,84,38,49,75,11,9,1,4,0,1,3,0,0, Full Time,news,%D,,
+240074,Jacob,Surjan,PA,9,54,40,52,39,54,5,5,3,5,0,0,0,0,0, Full Time,news,%P,job,Has Ballantyne
+290802,Ben,Jacobs,PA,8,53,46,30,48,69,9,10,4,0,0,0,2,0,0, Full Time,job,Minding Neale... %O,,
+260201,Daniel,Stewart,PA,3,43,44,33,36,45,5,3,3,1,9,0,0,0,0, Full Time,news,%H and %D,subbed,Subbed off in Q3 for Brett Ebert
+290546,Aaron,Young,PA,3,40,46,30,31,42,5,6,1,2,0,2,0,0,0, Full Time,sore,%O and %T... left knee knock in Q4,,
+280877,John,Butcher,PA,9,38,49,30,36,46,4,4,2,1,0,1,2,2,1, Full Time,news,First goal.. %s from %P on McPharlin,,
+1230242,Brett,Ebert,PA,2,27,19,19,21,27,4,2,2,1,0,1,0,0,0, Full Time,news,ON in Q3 for Daniel Stewart,sub,Started as a sub
+240381,Simon,Phillips,PA,2,15,20,16,14,24,1,5,0,2,0,0,2,0,0, Full Time,news,Started on McPhee but was too loose... tried as a tagger on Hill but that didn't work... donuts in Q1... %P,,

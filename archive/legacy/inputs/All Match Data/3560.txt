@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,St Kilda,Saints,R20,9.9.63,17.13.115, Full Time
+Aug 15,2010,4:40,Docklands,Fox Sports,250134,10282008,5015618,5227,Roof closed,14
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Q4 Sunday twilight go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tSY"></b> BENNN17</em>: 2313 with 21 players<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> Swan37</em>: me too tigermania&#044; me too!<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> Jayman</em>: @michaelnn: the team that finished highest on the ladder goes through!<br><em>michaelnn</em>: what happens if you drew in dt<br><em style='margin-bottom:-2px'><b class="ticon tWB"></b> woofy</em>: 2523 sc highest for the year for me! :)<br><em style='margin-bottom:-2px'><b class="ticon tPA"></b> tigermania</em>: all my midfield were going to get 100s until joey let the side down<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> jake1994</em>: 2066 dt&#044; 2133 sc<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Gibblet</em>: shower Nicki dal went down in SC?<br><em>sunny_side_down</em>: lenny doesnt deserve the gun ffs m0nty your a flowering crab<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> DanF</em>: 2373 but only won by 10!!!<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> MarkPlow</em>: just scored my best sc ever and lost<br><em style='margin-bottom:-2px'><b class="ticon tPA"></b> tigermania</em>: thanks for nothing joey&#044; looked totally disinterested<br>
+250373,Lachlan,Hansen,NM,31,104,108,126,96,113,12,7,10,0,0,4,2,4,2, Full Time,hot,%s from %P and %G with %4 frees for
+230232,Daniel,Wells,NM,21,100,108,131,74,102,14,9,5,6,0,1,0,0,0, Full Time,hot,Loose in defence... %D and %M with %T
+990055,Brady,Rawlings,NM,16,100,115,122,83,114,11,19,5,3,0,2,0,0,0, Full Time,tagger,Tagging Montagna... %P and %T with %M
+240131,Nathan,Grima,NM,24,97,107,123,83,111,14,12,10,1,0,0,1,0,0, Full Time,job,Following Riewoldt... %M and %O
+230141,Hamish,McIntosh,NM,20,92,93,106,83,102,7,12,5,1,27,1,0,0,0, Full Time,news,%H and %D
+280864,Sam,Wright,NM,26,88,76,113,69,84,11,1,6,4,0,1,0,3,0, Full Time,news,First goal... %s from %P with %M and %T
+250285,Leigh,Adams,NM,20,85,45,113,62,85,11,6,5,6,0,0,0,0,1, Full Time,news,%s from %D and %M
+210039,Daniel,Pratt,NM,14,83,79,103,69,93,8,14,6,3,0,1,0,0,0, Full Time,news,%M and %P
+240417,Andrew,Swallow,NM,21,77,69,102,54,73,7,7,2,8,0,3,0,0,1, Full Time,sore,Head to head with Hayes... %O and %s... knock to the ribs in Q3
+960491,Brent,Harvey,NM,13,77,98,99,56,79,11,9,1,5,0,2,0,0,1, Full Time,tagged,Tagged by Jones... %P and %T
+210093,Leigh,Harding,NM,10,75,72,94,61,84,10,11,5,2,0,0,0,0,0, Full Time,news,%D and %T
+281395,Scott D.,Thompson,NM,14,74,67,91,69,93,9,14,8,0,0,1,2,0,0, Full Time,job,Has Stanley... %M and %D
+280863,Ryan,Bastinac,NM,9,64,71,76,57,78,7,14,5,0,0,0,0,0,0, Full Time,news,%O and %M
+250135,Scott,McMahon,NM,8,60,48,78,46,66,12,6,2,2,0,1,1,0,0, Full Time,sore,Knee problem early in Q1... minding Milne... %P
+230240,Aaron,Edwards,NM,10,58,34,73,48,58,8,1,5,1,0,0,0,2,1, Full Time,news,%s from %D and %G on Fisher
+261228,Ben,Warren,NM,4,53,55,70,41,55,8,4,3,3,0,2,1,0,1, Full Time,spud,%s from %P on Gwilt... gives nothing when not in the play which is almost all of the time
+230272,Michael,Firrito,NM,4,50,52,64,39,54,5,7,3,3,0,0,0,0,0, Full Time,job,On Schneider... %P
+280921,Ben,Cunnington,NM,7,48,62,59,38,54,6,9,1,2,0,1,0,0,0, Full Time,news,Head to head with Gram... %O and %T
+270861,Levi,Greenwood,NM,6,39,54,46,37,57,4,13,1,1,0,0,2,0,0, Full Time,tagger,Tagging Dal Santo... %P
+271129,Todd,Goldstein,NM,5,36,14,44,34,42,2,3,2,2,14,1,2,0,1, Full Time,news,%H and %F
+271300,Cruize,Garlett,NM,3,36,27,44,32,45,4,8,2,1,0,1,1,0,0, Full Time,news,%P and %M on Geary
+261909,Lindsay,Thomas,NM,2,25,37,33,21,28,6,1,2,0,0,1,1,0,1, Full Time,cold,%s from %P on Gilbert... has turned into a pumpkin since that seven-goal performance earlier in the year
+210001,Nick,Riewoldt,SK,49,142,171,111,123,142,15,4,10,2,2,2,0,7,5, Full Time,star,%s from %P and %G on Grima... struggled with left hamstring soreness
+220034,Jason,Gram,SK,26,127,122,92,104,141,17,17,8,4,0,2,1,0,3, Full Time,hot,Head to head with Cunnington... %D and %M
+230084,Brendon,Goddard,SK,26,119,141,82,102,144,17,20,8,3,0,1,3,0,0, Full Time,hot,Loose in defence... %O and %M
+220098,Adam,Schneider,SK,37,111,103,96,88,117,13,7,10,7,0,0,2,1,0, Full Time,hot,%O and %M with %T on Firrito
+990028,Lenny,Hayes,SK,30,107,98,73,85,116,16,10,6,4,2,0,1,1,0, Full Time,gun,Head to head with Swallow... %P and %M with %T and %s
+250134,Sam,Gilbert,SK,24,103,112,65,86,114,17,9,11,1,0,0,1,0,0, Full Time,hot,Has Thomas... %O and %M
+240708,Sam,Fisher,SK,20,90,83,72,81,109,11,12,11,2,1,0,3,0,0, Full Time,job,On Edwards... %O and %F
+220023,Nick,Dal Santo,SK,19,88,76,69,69,94,11,10,6,4,0,0,0,0,1, Full Time,garbage,Tagged by Greenwood... %P adn %M with %T... junked it up in Q4
+200108,Stephen,Milne,SK,15,87,68,39,70,94,17,7,3,0,0,0,0,2,1, Full Time,news,%s from %P on McMahon
+260113,Jarryn,Geary,SK,13,81,83,60,69,93,10,13,7,1,0,0,0,0,0, Full Time,job,On Garlett... %D and %M
+261743,Clinton,Jones,SK,19,74,95,64,54,81,8,12,0,7,0,1,1,0,0, Full Time,tagger,Tagging Harvey... %O and %T
+200068,Jason,Blake,SK,9,69,89,52,59,81,8,13,5,1,0,0,0,0,0, Full Time,job,Standing the resting ruckman... %P
+240012,Andrew,McQualter,SK,13,68,51,69,58,76,4,11,7,3,0,0,0,0,1, Full Time,news,%P
+220075,Leigh,Montagna,SK,14,67,74,49,55,78,10,8,4,4,0,2,3,0,0, Full Time,sore,Tagged by Rawlings.. %P and %M... cut over his right eye in Q2
+250207,Robert,Eddy,SK,12,67,79,58,57,72,6,7,5,2,0,0,0,2,0, Full Time,news,%D
+280317,Rhys,Stanley,SK,21,64,45,71,49,63,3,5,4,6,3,0,0,1,0, Full Time,news,%s from %D on Thompson
+250703,James,Gwilt,SK,7,59,64,25,46,63,13,4,3,1,0,2,1,0,0, Full Time,job,Minding Warren... %D
+261323,Ben,McEvoy,SK,10,57,74,62,50,63,1,10,2,3,15,1,0,0,0, Full Time,news,%H and %P with %M and %T
+210002,Justin,Koschitzke,SK,14,56,54,44,50,57,6,2,6,0,2,1,0,2,1, Full Time,crab,Rotating forward to ruck and quiet in both areas... %D and %G with %s
+240701,Brett,Peake,SK,14,53,69,43,47,69,6,10,2,3,0,0,3,1,0, Full Time,spud,%D and %T plus %s... a spud is a spud no matter what jumper he wears
+240062,Farren,Ray,SK,3,36,39,32,31,45,3,9,1,2,0,1,1,0,0, Full Time,news,%P and %T
+230243,Sean,Dempster,SK,8,34,25,33,28,42,4,3,3,4,0,0,3,0,0, Full Time,news,%D and %T

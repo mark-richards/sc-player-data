@@ -1,0 +1,48 @@
+Carlton,Blues,Richmond,Tigers,R1,14.17.101,14.22.106, Full Time
+Mar 28,2013,7.40,MCG,Seven,260382,10390103,5015,0,Showers,22,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>fenner1234</em>: Gibbs and Cotchin freaks <br><em>DuhWinning</em>: commentators dont look at dt SC points you duma$$<br><em>tractorfac</em>: why was -3 taken off cotchin ffs<br><em>Specky92</em>: Atlas for Gibbs&#044; seems suitable?<br><em>spiggs</em>: that just showed how spudlike casboult played billnats<br><em>J.Worrall</em>: go swanny<br><em>billnats</em>: I love how the commentators were slagging Nahas but he pulled out more points in 5 mins than Casboult did over the game<br><em>mufc</em>: atlas for gibbs and ghost for martin<br><em title="GAZZ MVP">gazz mvp</em>: not a good sign was Lucas benched the whole last 10min when game was in the balance<br><em>mufc</em>: what a great game thats y i love footy!<br><em>mufc</em>: should i take cotchins 120 sc? or keep the C on swan<br><em>westy501</em>: murphy was way better than judd tonight yet judd gets more points (sc) frecking joke<br>
+250417,Bryce,Gibbs,CA,28,133,150,168,102,139,23,11,4,4,0,1,0,2,1, Full Time,superman,%P and %T with %M and %s.. massive Q4 but just couldn't drag the Blues over the line,sore,Right ankle knock in Q2,473300,,509800,,Midfielder,4
+261299,Matthew,Kreuzer,CA,32,114,113,141,95,118,13,5,6,4,20,0,1,2,2, Full Time,hot,%H and %P with %M and %T... also %s,,,403700,,494100,,Ruck,8
+250105,Marc,Murphy,CA,25,103,104,133,79,102,14,5,6,5,0,1,0,2,0, Full Time,gun,New captain... %P and %M plus %T and %s,,,522000,,602900,,Midfielder,3
+220056,Chris,Judd,CA,20,91,106,109,78,106,13,14,3,1,0,1,1,2,1, Full Time,news,Matched up on Tuck... %D and %M... also %s,,,465800,,558300,,Midfielder,5
+240014,Andrew,Walker,CA,14,90,137,117,66,93,20,6,3,2,0,1,0,0,0, Full Time,news,%P and %M with %T,job,Started in defence on Shaun Edwards,382300,,423400,,Forward,1
+220015,Andrew,Carrazzo,CA,20,81,83,101,67,97,6,18,2,6,0,2,2,0,1, Full Time,tagger,Tagging Cotchin... %O and %T... also %F,,,467400,,517800,,Midfielder,44
+230202,Kade,Simpson,CA,9,77,78,96,62,83,13,9,4,1,0,2,0,0,2, Full Time,news,%O and %M plus %s,,,481600,,501300,,Midfielder,6
+270737,Shaun,Hampson,CA,16,73,84,88,66,79,7,6,8,0,8,0,0,1,2, Full Time,news,First goal... %s from %P and %G on Griffiths... also %H,,,334500,,378200,,Ruck,22
+240060,Eddie,Betts,CA,14,64,74,78,54,75,10,9,0,2,0,2,2,2,0, Full Time,news,%s from %P on Morris... also %T and %F,,,355500,,427800,,Forward,19
+240028,Brock,McLean,CA,9,63,67,80,51,69,8,8,5,2,0,0,0,0,0, Full Time,snail,Barely looks interested... starting forward... %P and %T,,,516200,,568600,,Midfielder,14
+270653,Jeff,Garlett,CA,11,59,77,73,47,60,8,4,2,2,0,1,0,2,0, Full Time,news,%O and %T on Houli,,,331400,,391300,,Forward,38
+271110,Chris,Yarran,CA,13,56,54,69,47,64,11,5,2,0,1,0,1,1,3, Full Time,news,Playing forward... %s from %P and %M... had a chance to kick the winning goal in the last minute but fluffed it,reported,Reported for striking in Q3 for a rather soft rabbit punch on Houli,311400,,362000,,Back,13
+260533,Dennis,Armfield,CA,7,55,59,69,43,61,10,7,2,1,0,0,0,0,1, Full Time,news,%2 Newman on a wing... %O and %M plus %s,,,324100,,343400,,Midfielder Forward,27
+270326,Lachie,Henderson,CA,9,51,65,72,37,54,8,2,3,5,0,0,2,0,0, Full Time,job,Standing Vickery... %P and %M with %T,,,287600,,355100,,Back,23
+261043,Michael,Jamison,CA,9,47,84,63,35,48,6,4,2,4,0,2,1,0,0, Full Time,job,On Riewoldt... %O and %T with %M,,,263400,,316700,,Back,40
+281079,Kane,Lucas,CA,7,47,63,53,46,66,3,16,3,0,0,0,1,0,0, Full Time,news,%2 Grigg on a wing... %B among %P with %M,,,251200,,217400,,Midfielder,9
+292511,Zach,Tuohy,CA,3,40,50,53,29,39,7,2,2,2,0,1,0,0,0, Full Time,job,Minding Edwards... %P and %M,,,238900,,289500,,Back,42
+296531,Josh,Bootsma,CA,3,38,56,49,32,42,4,5,3,2,0,2,1,0,0, Full Time,news,%O and %M,job,Has McGuane,223600,,225800,,Back,21
+261009,Nick,Duigan,CA,5,36,51,51,33,48,7,3,4,2,0,1,4,0,0, Full Time,crown,Matched up on King... %D and %T with %M... also %F,,,270800,,315300,,Back,34
+261318,Aaron,Joseph,CA,2,27,26,34,21,30,2,5,1,2,0,0,0,0,0, Full Time,news,On in Q2 under the concussion rule for Robinson and it was made official at HT... %P and %T,sub,Started as a sub,247300,,267900,,Midfielder,45
+290311,Mitch,Robinson,CA,1,21,20,27,18,25,3,3,1,1,0,1,1,0,1, Full Time,concussed,%s from %O on Batchelor... head smashed in a contest with Vickery in Q2... concussion sub during Q2,subbed,Subbed off at HT for Joseph,478600,,474700,,Midfielder,12
+281124,Levi,Casboult,CA,1,13,19,18,15,23,2,2,1,1,5,0,3,0,0, Full Time,news,%P on Rance... also %H and %F,,,283600,,311400,,Forward,41
+270896,Trent,Cotchin,RI,15,101,119,42,79,115,22,11,3,2,0,1,2,0,1, Full Time,star,%P including %b by hand... also %M and %T... %s as well,carrot,Tagged by Carrazzo,570200,,622100,,Midfielder,9
+270941,Tyrone,Vickery,RI,27,101,94,86,87,106,10,5,9,3,6,0,1,3,1, Full Time,x-factor,Booted %s from %G and %P on Henderson... also %H and %T,,,244400,,282400,,Forward,29
+240707,Daniel,Jackson,RI,25,98,94,67,79,108,15,9,6,4,0,1,2,1,0, Full Time,news,Playing a forward role... %s from %D including %B... also %M and %T,,,384500,,381000,,Midfielder,23
+250298,Shaun,Grigg,RI,15,92,69,53,73,99,17,6,8,2,0,0,1,0,0, Full Time,news,%2 Lucas on a wing... %D including %k by foot... also %M and %T,,,505100,,521200,,Midfielder,6
+200109,Shane,Tuck,RI,13,85,107,34,67,93,18,9,3,0,0,1,0,0,3, Full Time,news,Matched up on Judd... %D and %M plus %s,,,538900,,613400,,Midfielder,21
+240546,Ivan,Maric,RI,21,83,112,74,75,96,6,10,3,3,30,0,2,0,0, Full Time,news,%H and %P with %M and %T,,,505400,,606900,,Ruck,20
+261362,Alex,Rance,RI,13,82,104,56,67,87,13,6,7,3,0,4,2,0,0, Full Time,job,Has Casboult... %D and %M... also %F,,,367900,,464800,,Back,18
+240336,Brett,Deledio,RI,20,78,116,55,66,85,10,7,3,2,0,1,1,3,1, Full Time,news,%D and %M plus %s,,,568600,,624100,,Midfielder,3
+290847,Dustin,Martin,RI,14,78,85,49,60,83,12,9,1,3,0,1,0,1,2, Full Time,news,%P and %s,,,437100,,473500,,Midfielder,4
+290823,Reece,Conca,RI,13,65,75,34,51,72,12,7,1,2,0,1,1,1,0, Full Time,news,%O and %T plus %s,,,374100,,376300,,Midfielder,30
+240256,Luke,McGuane,RI,16,63,101,56,53,70,6,6,3,4,0,1,2,2,1, Full Time,news,%s from %D and %M on the kid Bootsma... also %T,,,308000,,391200,,Back,16
+291437,Jake,Batchelor,RI,5,61,72,42,45,60,10,2,5,3,0,0,0,0,0, Full Time,job,Minding Robinson... a single kick in Q1... %M and %P,,,311000,,363800,,Back,11
+210048,Chris,Newman,RI,8,58,62,37,47,63,9,7,4,1,0,1,0,0,0, Full Time,news,%2 Armfield on a wing... %D and %M,,,365300,,412000,,Back,1
+250312,Bachar,Houli,RI,10,54,77,37,47,58,7,6,4,0,0,2,0,1,1, Full Time,news,%O and %M plus %s,job,Responsible for Garlett,407200,,444800,,Back,14
+250395,Jack,Riewoldt,RI,6,52,71,22,41,55,11,4,1,1,0,3,1,0,4, Full Time,news,%s from %P on Jamison,,,413100,,485900,,Forward,8
+260930,Shane,Edwards,RI,6,51,79,26,42,63,9,10,0,1,1,0,1,0,2, Full Time,news,%s from %O on Tuohy,,,358600,,431500,,Forward,10
+271437,Jake,King,RI,9,42,55,29,34,42,6,1,1,2,0,2,1,2,0, Full Time,tagger,Playing a forward role on Duigan... one kick in Q1... %s from %O,,,274300,,329100,,Forward,28
+240180,Troy,Chaplin,RI,3,34,43,26,28,39,4,6,2,1,0,0,0,0,0, Full Time,concussed,Ran his head into the shoulder of Garlett in Q4... %P,,,339700,,459800,,Back,25
+280747,Ben,Griffiths,RI,3,32,61,30,25,33,3,3,3,2,0,0,0,0,0, Full Time,job,Standing Hampson... %O and %M,,,167200,,254400,,Forward,24
+260433,Steven,Morris,RI,1,26,25,17,20,27,4,3,1,1,0,1,0,0,0, Full Time,job,The big job on Betts... %P,,,303200,,350800,,Back,38
+293713,Brandon,Ellis,RI,1,22,35,5,18,27,6,2,1,0,0,0,1,0,0, Full Time,news,%D,subbed,Subbed off in Q4 for Nahas,300300,,300100,,Back,5
+250623,Robin,Nahas,RI,0,8,24,2,6,9,2,1,0,0,0,0,0,0,0, Full Time,lebanon,On in Q4 for Ellis... %O,sub,Started as a sub,338600,,375500,,Forward,26

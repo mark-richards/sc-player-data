@@ -1,0 +1,48 @@
+Adelaide,Crows,Port Adelaide,Power,R5,16.14.110,14.7.91, Full Time
+Apr 29,2012,4:40,Footy Park,Fox Sports,280506,10340509,430052,0,Cloudy,21,,
+
+<em style='margin-bottom:-2px'><b class="ticon tWC"></b> 9294eagles</em>: 2247 sc :)))<br><em style='margin-bottom:-2px'><b class="ticon tFR"></b> JamesKhng</em>: will walker get suspended?<br><em>eckert09</em>: I reckon you got it spot on monty!<br><em>FootyDrunk</em>: who won the medal???<br><em style='margin-bottom:-2px'><b class="ticon tPA"></b> Meister21</em>: Agree with Juddmybudd&#044; are u even watching the game Monty! BAD Call mate.<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> fattony</em>: danger got the medal<br><em>Jovenites</em>: Aaron Young for the medal!<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> Chipper23</em>: i think anyone whinging about dangerfield&#044; walker or thompson next a head check!<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> GoTEAM</em>: chaplin underated??? he conceaded 6 mate<br><em>jwshrive</em>: I hope Dangerfield's score is accurate... that would mean I win by one point in SC<br><em>razorr</em>: brad ryan is a spud<br><em>frenzy</em>: j schultz up in points on the pine??<br>
+270917,Patrick,Dangerfield,AD,26,140,141,182,110,150,28,11,8,3,0,4,2,0,0, Full Time,medal,%O (with 15 in Q1) including %K with %T and %M... also %4 FF and %F,,
+210016,Scott,Thompson,AD,38,138,141,184,108,151,26,8,8,6,0,1,4,1,1, Full Time,magnet,%2 Boak... %O and %T with %M... also %F,,
+280506,Taylor,Walker,AD,38,113,119,139,100,121,13,4,9,2,0,0,2,6,1, Full Time,x-factor,%s from %G and %P on Chaplin including three in a row in Q2,mrp,Slid in with his knees in Q3 and caught Surjan which is all the rage at the tribunal at the moment
+270811,Sam,Jacobs,AD,27,109,122,132,94,112,11,6,8,2,24,1,0,1,1, Full Time,hot,%H and %D plus %M and %s,,
+270963,Rory,Sloane,AD,24,106,121,133,85,114,11,16,6,5,0,3,0,0,0, Full Time,hot,Started on Hartlett on a HFF but moved off in Q2... %O and %T with %M,,
+210056,Graham,Johncock,AD,25,102,105,132,79,100,13,4,7,5,0,1,0,2,1, Full Time,switch,Started on Wingard... switched forward in Q4... %D and %M plus %s,job,
+261138,Jared,Petrenko,AD,33,92,105,123,71,96,11,5,4,8,0,2,3,2,0, Full Time,news,%s from %O and %M on Jacobs... went to Hartlett in Q2... also %T,,
+261384,Matthew,Wright,AD,27,88,96,112,70,96,8,12,4,6,0,1,1,1,0, Full Time,news,%s from %P and %M on Surjan... also %T,,
+280038,Shaun,McKernan,AD,15,66,101,78,60,76,8,6,2,1,19,1,2,1,0, Full Time,news,%H and %P plus %s,,
+270296,Andy,Otten,AD,13,65,72,84,52,69,9,6,6,2,0,0,0,0,0, Full Time,job,On Westhoff... %P,in,Late replacement for Sam Shaw
+250362,David,Mackay,AD,15,63,50,86,45,64,6,5,3,7,0,0,1,0,1, Full Time,news,%D and %T,,
+220086,Brent,Reilly,AD,5,60,65,80,46,63,10,4,4,3,0,1,1,0,0, Full Time,news,%O and %T with %M,,
+220093,Ben,Rutten,AD,8,57,72,70,49,66,8,9,5,0,0,0,0,0,0, Full Time,job,Schulz is his man... %O and %M,,
+270742,Kurt,Tippett,AD,10,56,65,73,47,62,11,1,4,1,1,0,2,1,4, Full Time,news,Booted %s from %G and %D on Carlile,,
+261857,Ian,Callinan,AD,10,52,56,66,41,54,7,4,3,2,0,0,0,1,0, Full Time,news,%D and %T with %M,,
+293716,Jarryd,Lyons,AD,4,52,54,65,41,58,5,9,2,3,0,0,0,0,1, Full Time,rookie,First game... %s from %D and %M,,
+261351,Matthew,Jaensch,AD,7,51,59,65,42,60,9,7,3,1,0,0,1,0,0, Full Time,job,Moved to Wingard in the second half... %O,,
+200092,Michael,Doughty,AD,4,46,49,58,38,54,6,8,2,2,0,1,1,0,0, Full Time,news,%P,,
+250118,Nathan,van Berlo,AD,3,39,36,51,27,40,6,4,0,3,0,0,0,0,1, Full Time,injured,%2 Cassisi... %P and %T plus %s... corked right thigh iced up in Q3,subbed,Subbed off in Q3 for Henderson
+291201,Ricky,Henderson,AD,3,38,30,50,30,39,6,2,4,1,0,0,0,0,0, Full Time,in,Late replacement for Jason Porplyzia... on in Q3 for van Berlo,sub,Started as a sub
+280934,Daniel,Talia,AD,2,30,34,39,23,30,5,2,2,1,0,1,0,0,0, Full Time,job,Standing Butcher... %D,,
+291748,Brodie,Smith,AD,1,30,49,37,24,34,4,5,1,1,1,0,0,0,0, Full Time,news,%D,,
+260750,Justin,Westhoff,PA,27,107,113,83,90,109,13,3,9,3,0,1,1,4,1, Full Time,hot,%s from %D and %M on Otten,,
+240180,Troy,Chaplin,PA,20,99,121,75,82,105,13,9,11,2,0,1,0,0,0, Full Time,witcheshat,Let Walker walk all over him... %O and %M,,
+210020,Kane,Cornes,PA,24,98,100,74,86,114,12,15,10,1,0,1,1,0,0, Full Time,news,%O and %M,,
+261911,Brad,Ebert,PA,25,92,94,65,72,92,14,1,7,4,2,0,1,2,0, Full Time,news,%O and %M... also %T and %s,,
+250365,Travis,Boak,PA,20,86,89,71,71,99,9,16,4,4,0,2,1,0,0, Full Time,news,%2 Scott Thompson... %B among %D with %M,,
+220090,David,Rodan,PA,13,77,85,60,57,78,10,8,3,5,0,2,0,0,0, Full Time,news,%D and %T with %M,in,Late replacement for Daniel Stewart
+280877,John,Butcher,PA,18,75,90,59,63,75,8,3,4,2,0,1,0,4,0, Full Time,news,Kicked %s from %P and %G on Talia,,
+210043,Domenic,Cassisi,PA,16,72,71,79,54,72,4,8,5,7,0,1,0,0,0, Full Time,news,%2 van Berlo... %D and %T,,
+290802,Ben,Jacobs,PA,14,64,71,47,54,69,8,7,5,1,0,1,0,1,0, Full Time,news,First goal... %P and %M plus %s,job,Running off Petrenko
+271078,Matthew,Broadbent,PA,15,63,65,39,57,73,10,4,6,0,0,0,2,2,1, Full Time,news,%P and %M plus %s,,
+250063,Danyle,Pearce,PA,7,61,78,29,47,67,12,7,2,1,0,0,0,0,1, Full Time,news,%D,,
+271128,John,McCarthy,PA,12,61,49,40,53,72,10,6,7,1,0,0,2,0,0, Full Time,seagull,Doesn't like the contested nature of the Showdown... %P and %M... also %F,,
+280013,Jackson,Trengove,PA,10,61,63,49,49,67,8,5,4,4,4,1,2,0,0, Full Time,job,Walker is his man... %D and %T with %M,,
+250688,Alipate,Carlile,PA,5,59,77,49,46,60,7,5,5,3,0,1,0,0,0, Full Time,job,Standing Tippett... %P and %M,,
+270779,Paul,Stewart,PA,9,52,52,46,38,54,6,5,2,5,0,1,1,0,0, Full Time,news,%D and %T,,
+250308,Brent,Renouf,PA,9,51,70,45,45,61,4,8,0,3,16,1,2,0,0, Full Time,news,%H and %P,,
+260511,Darren,Pfeiffer,PA,8,50,60,33,42,60,8,7,3,2,0,1,2,0,0, Full Time,news,%P and %T... also %F,,
+291962,Chad,Wingard,PA,3,48,44,29,38,53,8,6,1,2,0,2,1,0,2, Full Time,news,%s from %P on Johncock then Jaensch,,
+261892,Hamish,Hartlett,PA,6,45,70,21,36,51,9,6,1,1,0,2,1,0,0, Full Time,job,Matched up on Sloane then Petrenko on a HBF... %O,,
+230195,Jay,Schulz,PA,13,42,43,33,37,43,5,1,6,0,0,0,0,1,1, Full Time,injured,%s from %P and %M on Rutten... poked in the right eye by Doughty in Q2,subbed,Subbed off at HT for Young
+240074,Jacob,Surjan,PA,3,38,31,25,28,39,6,4,1,2,0,1,0,0,0, Full Time,job,Minding Wright... %D,,
+290546,Aaron,Young,PA,0,17,20,14,13,18,2,2,1,1,0,0,0,0,0, Full Time,rookie,First game... on in Q3 for Schulz,sub,Started as a sub

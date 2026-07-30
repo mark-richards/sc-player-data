@@ -1,0 +1,48 @@
+Richmond,Tigers,Essendon,Bombers,R9,16.9.105,13.11.89, Full Time
+May 21,2011,7:40,MCG,Ten,290847,10310905,5528,66,Fine,20
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>deano69</em>: They are 8th 1 game ahead. So it won't be for long spastic retard<br><em>tigers-3</em>: deano69&#044; tigers are in the top 8 you spastic retard<br><em>RobotNinja</em>: Tigers are in the top 8 (now).<br><em style='color:#a0a'>Bulldogs10</em>: monty who won png?<br><em>Slashers</em>: Vicks and JRoo's SC scores just went up&#044; COOL!<br><em>JarodTiger</em>: Stanton to GWS.. .not doing right by the number 5<br><em>Demons15</em>: bombers cant blame injuries. look at the dockers<br><em>skystyler</em>: cotch owners ripped off in SC<br><em>deano69</em>: Watson and the 4 others were missed. But still in top 8 unlike tigers<br><em title="NEWMIE">newmie</em>: am i ?<br><em>HotTiges</em>: spewing about the Grimes hammy.. been good all year<br><em>ratten</em>: hey bombers are the 3rd best team<br>
+270896,Trent,Cotchin,RI,25,109,112,144,83,118,22,7,3,5,0,2,3,1,1, Full Time,medal,%s from %D with %k by foot... also %T and %M,,
+240336,Brett,Deledio,RI,21,108,113,133,89,127,13,21,4,4,0,1,1,0,1, Full Time,gun,Started on a wing... %O and %T with %M and %s,,
+210048,Chris,Newman,RI,25,104,124,134,85,117,17,10,7,3,0,0,2,1,0, Full Time,hot,%O and %M plus %s,job,Chasing Jetta
+290823,Reece,Conca,RI,15,99,93,127,79,103,14,9,8,3,0,2,0,0,1, Full Time,heart,Getting a lot of rebound link work... got a kick in the shin in Q4 which opened up a gash but had to play on for the sake of rotations... %D and %M,,
+261362,Alex,Rance,RI,15,95,125,121,74,96,11,11,5,5,0,5,0,0,0, Full Time,news,%P and %T with %M,job,Has Ryder
+290847,Dustin,Martin,RI,20,94,110,124,75,108,15,11,5,5,0,1,3,0,0, Full Time,news,%P and %M,,
+240130,Nathan,Foley,RI,26,88,94,114,66,90,10,8,4,6,0,0,0,1,0, Full Time,news,%O and %T,,
+250623,Robin,Nahas,RI,15,83,90,105,64,85,15,4,3,2,0,0,0,2,1, Full Time,x-factor,Tagged by Slattery... %s from %P with %M and %T... started slowly but his big second half was instrumental in the Tiger win,,
+291437,Jake,Batchelor,RI,14,80,76,105,60,81,10,7,5,5,0,1,0,0,0, Full Time,cash,%P with %k by foot... also %M and %T,,
+270954,Andrew L.,Browne,RI,25,78,58,93,77,99,1,14,6,4,24,1,4,0,0, Full Time,news,%H and %D with %T and %M,,
+250395,Jack,Riewoldt,RI,21,75,104,95,59,74,8,1,2,5,2,0,1,4,0, Full Time,news,%s from %D on Hooker... also %T,,
+270941,Tyrone,Vickery,RI,17,73,90,88,61,71,8,2,3,2,8,2,0,3,0, Full Time,news,%s from %P and %G on Fletcher,,
+250312,Bachar,Houli,RI,9,69,83,88,56,78,9,10,4,3,0,1,1,0,0, Full Time,lebanon,%P,,
+240707,Daniel,Jackson,RI,38,65,51,92,43,65,6,4,1,10,0,0,2,0,2, Full Time,tagger,Tagging Stanton... %P and %T plus %s,,
+271437,Jake,King,RI,15,63,85,77,52,67,7,5,1,3,0,1,1,3,1, Full Time,news,First goal... %s from %O on Hardingham,,
+280819,Dylan,Grimes,RI,12,61,94,79,46,66,7,9,1,5,0,2,1,0,0, Full Time,job,On Crameri... %D and %T,injured,Hamstring pulled in Q4
+250298,Shaun,Grigg,RI,9,54,56,66,50,72,8,12,4,0,0,0,2,0,0, Full Time,news,%O,,
+200109,Shane,Tuck,RI,5,52,51,69,41,57,7,5,4,3,0,0,1,0,0, Full Time,news,%D and %M,subbed,Subbed off in Q3 for Farmer
+270315,Jayden,Post,RI,5,51,53,63,46,60,5,7,5,1,5,0,1,0,1, Full Time,news,Myers on him... %s from %M with %P and %H,in,Late replacement for Brad Miller
+240256,Luke,McGuane,RI,9,50,71,63,39,54,3,9,2,4,0,1,0,0,0, Full Time,job,Has Hille... %D and %T,,
+293315,Bradley,Helbig,RI,8,32,33,40,24,33,2,4,0,3,0,0,0,1,0, Full Time,cash,%s from %D and %T,,
+260970,Mitch,Farmer,RI,2,23,29,30,16,24,3,3,0,2,0,0,0,0,0, Full Time,news,On in Q3 for Tuck,sub,Started as a sub
+290629,Dyson,Heppell,ES,20,108,111,66,86,117,18,11,8,2,0,0,0,0,0, Full Time,hot,%P and %M with %T,,
+990046,Mark,McVeigh,ES,31,104,112,76,76,109,16,9,2,9,0,4,3,0,1, Full Time,hot,%D and %T with %M... also %F,,
+240319,Sam,Lonergan,ES,20,94,92,69,66,93,14,7,3,7,0,1,0,0,0, Full Time,news,%D and %T,,
+270951,David,Zaharakis,ES,19,85,95,53,66,85,13,5,1,3,0,2,0,3,1, Full Time,news,%s from %O and %T,,
+250352,Leroy,Jetta,ES,24,80,95,64,63,81,9,6,1,5,0,3,1,3,0, Full Time,dreamtime,%s from %D with %T on Newman,sore,Copped an accidental whack to the gob which opened up a gash in his mouth in Q2
+270584,Kyle,Hardingham,ES,13,80,92,49,62,81,14,4,7,2,0,1,0,0,0, Full Time,crown,Responsible for King... %D and %M with %T,,
+290160,Michael,Hibberd,ES,20,80,75,64,57,78,11,4,5,6,0,0,0,0,0, Full Time,cash,%P and %T with %M,,
+200026,David,Hille,ES,20,77,94,67,70,89,7,9,7,2,7,1,2,1,1, Full Time,news,%s from %P and %M on McGuane... also %H,,
+210079,Nathan,Lovett-Murray,ES,12,76,79,48,53,77,13,6,1,5,0,0,0,0,2, Full Time,dreamtime,%s from %D and %T,,
+240290,Angus,Monfries,ES,19,73,95,64,62,81,5,13,0,3,0,2,0,3,0, Full Time,news,%s from %P,,
+240027,Brent,Stanton,ES,13,69,66,38,49,69,14,2,3,4,0,1,1,0,0, Full Time,tagged,Tagged by Jackson... %O and %T,,
+260073,Ben,Howlett,ES,18,69,68,45,50,69,11,5,1,4,0,1,0,1,0, Full Time,sore,%O and %s... left knee ligament problem in Q2,,
+250071,Henry,Slattery,ES,14,59,66,55,40,57,7,2,3,7,0,0,1,0,0, Full Time,tagger,Tagging Nahas... %D and %T,,
+250267,Patrick,Ryder,ES,10,58,55,50,53,64,5,4,3,2,22,2,2,0,0, Full Time,dreamtime,%P and %M on Rance... also %F,,
+280824,Jake,Melksham,ES,8,58,53,40,41,55,9,4,1,4,0,3,0,0,1, Full Time,news,%P and %T plus %s,,
+261320,Tom,Bellchambers,ES,14,53,65,52,53,64,2,7,3,1,25,1,2,0,0, Full Time,news,%H and %D with %M and %F,,
+261314,David,Myers,ES,8,52,53,37,41,57,7,8,2,2,0,1,0,0,0, Full Time,job,On Post... %P and %T,,
+292503,Stewart,Crameri,ES,11,46,35,36,42,58,6,5,4,2,0,0,3,1,1, Full Time,news,%s from %P and %G on Grimes... also %T,,
+960197,Dustin,Fletcher,ES,3,35,49,13,29,42,8,4,2,0,0,0,1,0,0, Full Time,job,Standing Vickery... %P,,
+270588,Cale,Hooker,ES,3,34,41,30,24,33,4,2,2,3,0,0,0,0,0, Full Time,job,Has Riewoldt... %P,,
+230051,Alwyn,Davey,ES,7,24,13,23,20,27,2,2,1,2,0,0,1,1,0, Full Time,dreamtime,On in Q3 for Reimers,sub,Started as a sub
+261324,Kyle,Reimers,ES,0,-1,5,1,3,9,0,2,0,1,0,0,3,0,0, Full Time,news,%O and %F,subbed,Subbed off in Q3 for Davey

@@ -1,0 +1,48 @@
+West Coast,Eagles,North Melbourne,Kangaroos,R6,17.18.120,15.5.95, Full Time
+May 6,2012,4:40,Subiaco,Fox Sports,250285,10340609,430061,0,A shower or two,22,,
+
+<em>Morts54</em>: hmac 111<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> Planking</em>: we NEED professional umpires this is a joke to world sport<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Redlegs</em>: @brynpower i also have the added complication of having krezuer.he going. good luck with your decision haha<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> gossiboy</em>: Darling killed me.<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> Special K</em>: 2289 with a donut.<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> KimJongUn</em>: 2414 in SC or DT Costanza??<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> feralmong</em>: 17 pts difference betwwen cox and waters in SC. I need 11 or less. final numbers could be close.<br><em>hinjy</em>: finally people starting to see the umpiring in our great game is abaolute shower! u can stick ur umpire appreciation rd.<br><em>old_shepp</em>: @number1red - HMac has been about 18 diff in SC since 2nd quarter - that would put him at 111 - its close !<br><em>Pokerface</em>: watch the aleague grand final then tell me afl umps are the joke<br><em>MLSs</em>: i'm a point up in one of my leagues..please no adjustments<br><em>Mico IV</em>: West Coast Ducks crowd worst in AFL. Get THE most soft free kicks in the AFL and constantly boo the u&#044;pires and decision<br>
+270928,Scott,Selwood,WC,37,125,139,156,106,147,15,20,8,4,0,0,2,1,0, Full Time,star,%2 Swallow... %O and %M with %T and %s... also %F,,
+280078,Luke,Shuey,WC,28,112,124,144,84,107,14,6,4,7,0,4,0,2,2, Full Time,hot,%D and %T with a bonus %s,,
+240283,Shannon,Hurn,WC,21,111,127,145,88,114,23,1,9,1,0,0,1,2,0, Full Time,hot,%D and %M plus %s,job,Responsible for Edwards
+200112,Dean,Cox,WC,28,110,141,128,99,116,13,8,5,0,32,5,1,1,0, Full Time,cherry,%H as #1 ruck with no Naitanui... also %P and %M,,
+261209,Josh,Hill,WC,31,105,119,131,86,103,11,4,7,4,0,2,0,4,1, Full Time,x-factor,%s from %P and %T on Wright... also %M,,
+240124,Matt,Priddis,WC,20,103,89,129,81,112,14,15,4,4,0,2,0,0,1, Full Time,heart,%2 Ziebell... left thigh strapped at QT... %O and %T plus %s,,
+240016,Beau,Waters,WC,19,97,120,122,79,105,14,12,7,2,0,2,0,0,0, Full Time,news,%O and %M,job,Minding Thomas
+250111,Matt,Rosa,WC,20,97,94,121,80,106,13,11,7,2,0,0,0,1,1, Full Time,news,%P and %M with %T,,
+240159,Sam,Butler,WC,9,77,70,102,57,75,16,2,5,2,0,2,0,0,0, Full Time,job,Has Adams... %D and %M,,
+290801,Andrew,Gaff,WC,8,67,69,85,53,73,12,7,4,1,0,0,0,0,1, Full Time,news,%2 MacMillan... %O and %s,,
+200074,Darren,Glass,WC,9,61,66,77,51,66,6,8,6,2,0,1,0,0,0, Full Time,sore,%O and %M with %T... right hand injury in Q4,job,Has Pedersen
+261290,Chris,Masten,WC,10,60,69,78,44,59,12,1,2,2,0,0,0,1,2, Full Time,news,%D and %s on a HFF,,
+250317,Eric,Mackenzie,WC,12,51,94,65,47,64,8,7,6,0,1,0,2,0,0, Full Time,job,On Petrie..,,
+280441,Patrick,McGinnity,WC,8,50,47,67,38,50,6,3,3,4,0,2,1,0,2, Full Time,tagger,%D and %s... moved to tag Harvey in Q3,,
+230254,Adam,Selwood,WC,4,49,39,64,37,48,8,3,3,2,0,2,0,0,0, Full Time,injured,Tagging Harvey... %D and %T with %M... broken finger on his right hand in Q3,subbed,Subbed off in Q3 for Sheppard
+250034,Ashton,Hams,WC,10,47,60,59,39,50,6,4,2,2,0,2,1,1,2, Full Time,reported,%s from %P and %T on Atley... reported for a high bump on Swallow in Q2,,
+290746,Scott,Lycett,WC,9,45,45,55,38,46,3,4,3,2,4,1,0,1,0, Full Time,bubble,Second game... %P and %M on Thompson... also %H,in,Late replacement for Nic Naitanui
+290838,Jack,Darling,WC,9,45,46,58,36,44,7,0,4,1,0,0,0,1,2, Full Time,news,Booted %s from %P and %G on Firrito,,
+220061,Quinten,Lynch,WC,8,40,38,51,38,50,6,3,3,1,3,1,3,1,2, Full Time,news,Kicked %s from %P and %M on Luke Delaney,,
+210018,Daniel,Kerr,WC,3,36,54,44,30,42,4,8,0,2,0,3,1,0,0, Full Time,tagged,Tagged by Bastinac... %O and %T,,
+280324,Jacob,Brennan,WC,3,31,47,42,26,39,9,2,2,0,0,0,2,0,0, Full Time,rookie,First game... %P minding Tarrant,job,Responsible for Tarrant
+281080,Brad,Sheppard,WC,6,19,11,25,16,21,3,0,1,1,0,0,1,1,0, Full Time,in,Late replacement for Ashley Smith... on in Q3 for Adam Selwood,sub,Started as a sub
+240417,Andrew,Swallow,NM,36,126,120,108,96,133,14,15,6,9,0,2,1,0,1, Full Time,hot,%2 Scott Selwood... %P and %T with %M and %s,,
+280921,Ben,Cunnington,NM,30,98,111,78,76,96,12,3,6,5,0,0,0,3,0, Full Time,news,%O and %M plus %T and %s,,
+230141,Hamish,McIntosh,NM,23,96,111,70,86,112,12,8,4,3,31,1,4,0,0, Full Time,heart,Poke in the eye in Q2... %H and %P with %M... also %F,,
+280864,Sam,Wright,NM,24,90,83,65,68,90,14,2,7,5,0,0,1,1,0, Full Time,news,%M and %O with %T,job,In defence on Hill
+281395,Scott D.,Thompson,NM,20,89,104,78,76,100,9,11,10,3,0,0,1,0,1, Full Time,news,%M and %D with %T and %s,job,On Lycett
+230232,Daniel,Wells,NM,20,87,97,62,66,90,13,6,4,5,0,1,1,1,0, Full Time,news,%O and %M plus %T and %s,,
+280944,Jack,Ziebell,NM,20,85,86,50,64,90,15,7,2,4,0,1,1,1,0, Full Time,news,%2 Priddis... %D,,
+260545,Liam,Anthony,NM,14,81,77,55,69,97,12,12,6,2,0,0,2,0,1, Full Time,news,%P and %M,,
+250285,Leigh,Adams,NM,8,70,79,45,58,82,10,13,3,1,0,0,0,0,1, Full Time,sore,%O and %M on Butler... knock to his neck in Q3,,
+230272,Michael,Firrito,NM,10,67,74,41,57,84,12,9,4,3,0,1,4,0,0, Full Time,job,Standing Darling... %D with %M,,
+960491,Brent,Harvey,NM,15,66,76,41,59,81,9,12,2,0,0,0,1,2,0, Full Time,tagged,Tagged by Adam Selwood then got McGinnity in Q3... %P and %s,,
+290194,Jamie,MacMillan,NM,16,65,69,55,52,69,7,5,3,4,0,0,1,2,0, Full Time,news,%2 Gaff... %D and %T plus a valuable %s,,
+290787,Shaun,Atley,NM,9,65,65,34,55,75,12,8,5,0,0,1,1,0,0, Full Time,job,On Hams.. %O and %M,,
+210023,Drew,Petrie,NM,11,63,64,53,52,66,7,4,5,3,3,1,1,1,0, Full Time,news,First goal.. %s from %P and %G on Mackenzie,,
+261909,Lindsay,Thomas,NM,15,62,69,44,54,78,8,12,2,2,0,0,2,1,0, Full Time,news,%s from %P and %T on Waters,,
+230240,Aaron,Edwards,NM,9,54,40,42,41,51,7,2,3,3,0,2,0,1,0, Full Time,news,Trying to man up Hurn... %O,,
+292029,Cameron,Pedersen,NM,11,54,48,38,46,60,8,3,4,2,2,1,2,1,1, Full Time,news,%D on Glass,,
+290547,Kieran,Harper,NM,14,49,51,45,40,54,5,4,3,4,0,1,2,1,0, Full Time,news,%D... also %F,,
+270303,Luke,Delaney,NM,4,47,67,39,35,45,6,2,4,3,0,1,0,0,0, Full Time,job,Has Lynch... %P and %M,,
+280863,Ryan,Bastinac,NM,6,44,41,20,39,60,9,9,1,1,0,1,3,0,0, Full Time,tagger,Tagging Kerr... %D... also %F,,
+270325,Robbie,Tarrant,NM,2,31,39,19,26,33,5,3,3,0,0,1,0,0,0, Full Time,news,Playing forward with the first-gamer Brennan on him... %M and %P,subbed,Subbed off at 3QT for Mullett
+291445,Aaron,Mullett,NM,1,13,19,1,11,18,4,2,0,0,0,0,1,0,0, Full Time,news,On after 3QT for Tarrant,sub,Started as a sub

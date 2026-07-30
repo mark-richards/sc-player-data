@@ -1,0 +1,48 @@
+Collingwood,Magpies,Western Sydney,Giants,R18,15.16.106,10.6.66, Full Time
+Jul 27,2013,4.40,MCG,Seven,260257,10391804,coll-v-gws,0,Cloudy and windy,15,,
+
+<em style='color:#000'>dogs4grany</em>: flower yeah swan<br><em style='color:#000'>ozgamer</em>: nice come back Cloke. i still flowering hate u tho :P<br><em style='color:#000'>Wends</em>: Beams drops only 20K in SC :-(<br><em style='color:#000'>bahodie</em>: 163.  Well done Swanny!<br><em style='color:#a0a'>frenzy</em>: 95 pendles is bull shower<br><em style='color:#000'>bahodie</em>: 74 against GWS.  Hmmmm<br><em style='color:#000'>pietime!</em>: eat your words @Leon88<br><em style='color:#000'>daniel87</em>: pendles 95 dissapointed<br><em style='color:#a0a'>frenzy</em>: power off choke<br><em style='color:#000'>Costanza</em>: idiot call<br><em style='color:#000'>Ninja!</em>: didnt see that before? so where was he then?<br><em style='color:#000'>TheLegend6</em>: @Leon88 who cares what about us DTers?<br>
+220105,Dane,Swan,CO,38,163,159,201,134,174,23,16,9,3,0,2,0,3,3, Full Time,star,%P and %M plus %s... massive all game but especially in Q4 to seal the win,,,566000,129,587500,141,Centre,36,16,116.3,116.3,50.88,40.94
+280965,Steele,Sidebottom,CO,38,143,155,181,113,147,22,9,8,4,0,1,0,3,0, Full Time,cherry,%P and %M starting forward on Haynes... also %T,,,416200,64,461000,110,Centre,22,16,93.3,99.6,3.17,2.85
+271001,Dayne,Beams,CO,36,130,134,163,107,149,19,18,6,4,0,1,2,1,2, Full Time,gun,%2 Ward... %D and %M plus %T... also %F and %s,,,599400,172,657600,187,Centre,17,2,107,111,2.03,1.54
+240700,Heath,Shaw,CO,24,98,105,129,85,115,19,8,10,1,0,2,4,0,1, Full Time,news,%P and %M plus %s,job,Zoning off Smith,398500,99,513500,137,Back,39,13,85.3,102.4,13.41,24.78
+240366,Travis,Cloke,CO,22,96,93,122,78,95,12,2,8,3,0,0,0,3,2, Full Time,news,Davis on him... %s from %D and %M with %T,,,435000,101,457800,109,Forward,32,15,95,97.5,20.21,15.62
+291975,Jarrod,Witts,CO,31,95,116,115,77,100,6,12,2,6,15,1,0,1,1, Full Time,news,%H and %D with %T,,,221600,18,241700,4,Ruck,15,6,51.7,55.3,7.75,9.67
+293957,Brodie,Grundy,CO,18,92,75,117,72,91,6,8,5,7,12,2,0,0,1, Full Time,rookie,First game... %H as second ruck... also %P and %M with %T,,,107200,,114500,,Ruck,35,0,0,0,3.14,3.31
+240073,Harry,O'Brien,CO,20,91,82,116,72,96,13,8,6,3,0,0,0,1,0, Full Time,news,Playing a wing... %O and %T with %M,,,389600,81,433700,103,Back,8,13,83.2,87.7,4.74,3.20
+280104,Jarryd,Blair,CO,19,87,97,113,64,88,9,10,3,7,0,2,0,0,1, Full Time,news,%s from %D and %T with %M on Hampton,,,363300,104,369700,104,Forward Centre,11,15,79.9,78.3,1.76,1.71
+260246,Tyson,Goldsack,CO,18,81,69,104,65,87,8,10,7,4,0,0,0,0,0, Full Time,news,%P and %M,job,In defence on Tomlinson,258200,43,325900,54,Forward,6,6,54,71.2,0.91,0.87
+260257,Scott,Pendlebury,CO,13,74,92,90,60,84,12,13,2,1,0,2,0,0,0, Full Time,tagged,Tagged by Whiley... %O,,,575800,109,651400,149,Centre,10,16,114.3,128.6,44.65,46.44
+261181,Brent,Macaffer,CO,14,74,64,97,62,81,10,6,9,2,0,0,1,0,0, Full Time,news,%D and %M playing a HFF on Darley,,,330800,98,318800,91,Forward,3,15,69.8,63.9,23.79,25.19
+290289,Josh,Thomas,CO,13,63,54,82,46,66,9,7,2,4,0,0,0,0,0, Full Time,news,%O and %T with %M,,,347800,98,378400,92,Centre,24,12,75.2,78.2,1.48,1.44
+295256,Marley,Williams,CO,8,60,78,76,47,63,9,7,3,2,0,2,0,0,0, Full Time,job,Minding Hoskin-Elliott... %O and %M,sore,Knee to his thigh by Brogan in Q1 caused a corkie,323700,33,354900,49,Back,46,9,68.3,70.9,0.41,0.56
+240232,Ben,Reid,CO,11,53,71,65,47,58,6,4,4,1,0,1,1,2,1, Full Time,sore,First goal... %s from %P and %M starting forward on Bruce... left ankle twisted under him in Q4,,,354800,45,392500,84,Back,20,15,71.6,80.8,2.02,2.67
+291386,Ben,Sinclair,CO,8,51,60,65,43,60,8,7,4,1,0,0,1,0,0, Full Time,news,One handball in Q1... %P and %T with %M,,,246100,45,262500,63,Forward,28,11,52,53.5,1.11,1.06
+230263,Nick,Maxwell,CO,8,47,55,64,32,45,5,3,2,5,0,0,0,0,0, Full Time,news,Loose in defence... %D and %T,,,334000,82,341900,68,Back,5,12,67.7,68.8,1.13,1.00
+250133,Sam,Dwyer,CO,3,47,48,59,36,51,7,7,1,2,0,1,0,0,0, Full Time,news,%O on Greene,,,345500,27,360800,29,Forward Centre,41,14,70.7,74.1,13.58,15.60
+290314,Lachlan,Keeffe,CO,8,46,74,61,39,51,9,2,6,0,0,0,1,0,0, Full Time,job,Has the resting ruck which is mostly Brogan... then shifted to Cameron in Q2... %O and %M,,,251300,,301400,,Back,23,1,54,59,0.15,0.23
+293801,Jamie,Elliott,CO,10,46,40,57,42,54,4,6,5,1,0,0,1,1,0, Full Time,news,On in Q3 for Kennedy... %s from %P,sub,Started as a sub,290000,97,320600,110,Forward,19,15,67.2,71.6,2.92,4.47
+260310,Nathan,Brown,CO,3,34,40,43,32,42,4,5,5,0,0,0,1,0,0, Full Time,witcheshat,Smashed to smithereens by Cameron in Q1 and dragged to the resting ruck in Q2... %D and %M,,,192000,53,244000,48,Back,16,15,39.8,49.2,2.06,1.68
+293431,Ben,Kennedy,CO,2,24,18,32,17,24,3,2,1,2,0,0,0,0,0, Full Time,in,Late replacement for Luke Ball... %D and %T,subbed,Subbed off in Q3 for Elliott,217200,97,207100,95,Forward Centre,27,9,44.6,40.3,8.96,9.57
+280109,Callan,Ward,WS,33,139,132,120,111,150,14,18,9,7,6,0,0,0,0, Full Time,hot,%2 Beams... %O and %T with %M,,,388500,62,414400,65,Centre,8,16,89.9,92.9,0.77,0.75
+290306,Curtly,Hampton,WS,20,108,97,65,88,121,18,13,7,2,0,1,1,0,1, Full Time,hot,%P and %M,job,Minding Blair,268500,55,319000,54,Back Forward,2,12,56.2,58.5,1.05,1.01
+293845,Jeremy,Cameron,WS,34,94,120,71,82,94,10,1,5,1,0,0,0,7,1, Full Time,target,Booted %s from %P and %G on Brown including four majors in Q1... got Keefe in Q2,,,337100,42,397300,43,Forward,18,15,68.1,72.8,2.40,2.47
+291790,Adam,Treloar,WS,19,87,76,61,67,96,12,14,2,4,0,1,0,0,0, Full Time,news,%P and %T,,,429600,108,451000,122,Centre,17,15,90,88.1,0.53,0.57
+291783,Dylan,Shiel,WS,19,82,83,36,67,96,17,9,3,1,0,0,2,1,0, Full Time,news,%O including %K with %M,,,366400,84,394200,70,Centre,5,16,72.1,76.9,0.77,0.86
+280969,Tom,Scully,WS,26,79,87,77,63,84,6,10,4,6,0,2,1,1,0, Full Time,news,%D and %T,,,373200,140,370800,123,Centre,9,15,73.1,70.3,1.43,1.00
+291509,Adam,Kennedy,WS,20,79,72,69,58,78,9,6,5,6,0,1,0,0,0, Full Time,concussed,On as concussion sub in Q1 for Mohr then made official at QT... %P and %M... had his head smashed into the grass while tackling Elliott in Q3 leaving him woozy,sub,Started as a sub,245800,83,277200,95,Back,40,13,48.7,53.4,0.48,0.61
+295344,Toby,Greene,WS,14,78,76,57,66,96,10,16,3,3,0,1,2,0,0, Full Time,news,%D and %M with %T,job,Playing HBF on Dwyer,413100,53,383300,73,Centre,4,13,78.6,72.2,0.73,0.69
+291776,Taylor,Adams,WS,9,76,89,49,60,87,12,11,3,3,0,0,1,0,0, Full Time,news,%D and %M,,,359100,101,355500,93,Centre,11,11,80.3,73.2,0.19,0.15
+294685,Zac,Williams,WS,10,75,87,64,62,87,7,15,4,3,0,0,0,0,0, Full Time,news,Starting in a BP... %P and %M with %T,,,152900,5,148600,-13,Back Centre,51,6,39.7,38.2,4.63,4.20
+295265,Nick,Haynes,WS,13,71,53,46,55,72,12,3,7,2,0,0,0,0,0, Full Time,job,Started in defence on Sidebottom... %O and %M,,,276200,54,340800,48,Forward Centre,19,6,56.5,70.5,1.05,1.86
+291819,Adam,Tomlinson,WS,13,70,70,40,57,72,13,2,9,0,0,0,0,0,0, Full Time,switch,Switched from forward on Goldsack to defence in Q1 after Mohr went off... %P and %M,,,361100,69,335000,72,Forward,20,11,74.3,67,0.43,0.25
+291802,Tomas,Bugg,WS,13,67,69,60,55,78,6,13,3,4,0,1,1,0,0, Full Time,news,%P including %B with %M,,,222000,72,243200,69,Back,14,9,50.7,54.8,0.79,0.98
+200111,Dean,Brogan,WS,10,57,68,52,51,62,4,5,3,2,20,1,1,0,0, Full Time,news,%P with Keeffe on him when forward... also %H,,,266200,58,372600,64,Ruck,50,6,55.8,82.8,0.49,0.61
+293816,Mark,Whiley,WS,37,57,41,63,38,60,5,4,1,10,0,0,3,0,0, Full Time,news,%D and %T... also %F,tagger,Tagging Pendlebury,171900,10,173000,30,Back,42,2,50.5,39,0.35,0.30
+261841,Jonathan,Giles,WS,9,56,58,35,46,56,8,2,1,1,20,1,0,0,0, Full Time,news,%H and %P,,,342200,76,377600,90,Ruck,26,16,69.9,76.8,2.29,3.00
+291771,Devon,Smith,WS,9,52,60,39,42,57,6,8,1,2,0,1,0,1,0, Full Time,news,%s from %P on Shaw,,,333400,94,349800,104,Forward Centre,10,15,71.1,67.5,1.27,1.55
+290765,Sam,Darley,WS,6,50,60,18,41,60,11,8,1,0,0,1,1,0,0, Full Time,job,Macaffer is his man on a HBF... %P,,,286200,52,291900,30,Back,13,2,66.5,76,0.34,0.17
+291720,Will,Hoskin-Elliott,WS,3,44,58,25,34,45,8,3,3,1,0,1,0,0,0, Full Time,concussed,%O and %M on Williams.... stretchered off after running his head into Blair in a marking contest in Q4,,,248400,102,252200,106,Forward Centre,33,8,51.9,47.5,0.71,0.84
+291492,Josh,Bruce,WS,8,43,30,29,37,51,8,1,6,2,0,0,3,0,0, Full Time,job,Has Reid... %M and %P plus %T,,,233700,36,268700,59,Back Forward,47,8,47.9,51.9,0.36,0.52
+280804,Phil,Davis,WS,1,16,29,13,16,21,2,2,3,0,0,0,1,0,0, Full Time,job,Following Cloke... %D and %M,,,272500,66,333100,98,Back,1,7,54.1,61.9,0.41,0.48
+261189,Tim,Mohr,WS,0,9,11,8,6,9,1,1,0,1,0,0,0,0,0, Full Time,concussed,Standing the resting ruck which is mostly Witts... %P... copped an accidental knee to the head in Q1 and knocked out cold... off as concussion sub for Kennedy in Q1,subbed,Subbed off for Kennedy at QT,260000,49,341800,34,Back,39,16,58.9,73.3,0.79,0.95

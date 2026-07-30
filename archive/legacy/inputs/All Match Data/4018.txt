@@ -1,0 +1,48 @@
+Geelong,Cats,Hawthorn,Hawks,R2,14.8.92,13.12.90, Full Time
+Apr 9,2012,3:10,MCG,Seven,200039,10340209,430025,0,A shower or two,17,,
+
+<em style='margin-bottom:-2px'><b class="ticon tWC"></b> 9294eagles</em>: why did franklin get 85Sc should of went backwards for clanger shots on goal surely<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> mardals16</em>: how is 68 a solid score to deserve the heart?<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> incredi</em>: what did gunston do to have such a high supercoach<br><em>PieBoy</em>: hawks choke again<br><em>bert1</em>: the whitcross thing should of been a free kick if he ment it or no still high<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> moorey21</em>: 2298 for me.. dark I didnt crack 23<br><em>bowsaints</em>: wonder if our league will stay top ten<br><em style='margin-bottom:-2px'><b class="ticon tGC"></b> Daniel_79</em>: Hawkins has arrived<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> kpickard12</em>: wtf look at gunstan supercoach!<br><em>FootyDrunk</em>: sam mitchell went missing as the Great players Bartel&#044; selwood&#044; chapman improved as the game went on..<br><em style='margin-bottom:-2px'><b class="ticon tGC"></b> Bennyy</em>: loved chappys second half!<br><em>Stoners</em>: ballbag...  can i have some of the gear your'e on?<br>
+261510,Tom,Hawkins,GE,33,125,159,157,107,130,16,6,12,2,2,2,1,3,2, Full Time,star,Booted %s from %P and %G on Schoenmakers,,
+220007,Jimmy,Bartel,GE,32,110,110,142,89,116,11,9,7,7,2,2,2,2,0, Full Time,x-factor,%2 Savage... %O and %T,,
+250321,Joel,Selwood,GE,31,104,112,134,79,110,11,14,3,8,2,3,1,0,0, Full Time,heart,Tagged by Lewis... %D and %T... cut above his left eye in Q1 kept bleeding for a while... ran his head into Whitecross's shoulder in Q4,,
+220054,Steve,Johnson,GE,32,101,68,129,80,103,11,6,5,6,0,1,1,3,1, Full Time,heart,First goal... %s from %D and %T on Stratton... right quad soreness in Q3,,
+200039,Paul,Chapman,GE,21,89,121,121,70,99,15,7,5,6,0,3,4,0,0, Full Time,news,%2 Mitchell... %D and %T with %M... also %F,,
+200131,James,Podsiadly,GE,30,85,108,105,77,96,12,3,6,1,0,0,3,5,0, Full Time,news,Kicked %s from %P and %G on Gibson,,
+220058,James,Kelly,GE,20,80,71,106,61,90,11,10,3,6,0,0,2,0,0, Full Time,news,%2 Smith off a wing... %O and %T with %M,,
+200034,Joel,Corey,GE,9,73,92,93,59,85,14,10,2,2,1,2,2,0,0, Full Time,news,%2 Sewell... %O,,
+260261,Trent,West,GE,15,63,78,72,59,68,4,4,3,1,32,1,1,0,0, Full Time,news,%H and %P with %M,,
+280918,Allen,Christensen,GE,8,63,85,76,52,78,9,15,0,2,0,1,1,0,0, Full Time,news,%O and %T on Burgoyne,,
+200035,Corey,Enright,GE,8,62,95,78,50,69,12,8,2,1,0,3,1,0,0, Full Time,job,Minding Rioli... %D,,
+261497,Harry,Taylor,GE,8,59,69,78,45,63,12,4,3,2,0,1,1,0,0, Full Time,job,Has Roughead... %P and %M,,
+230248,Andrew,Mackie,GE,5,58,81,76,44,60,8,5,4,3,0,0,0,0,0, Full Time,job,Standing Hale then got Gunston in Q4... %P and %M,,
+230214,Mathew,Stokes,GE,13,44,41,61,28,39,4,2,1,6,0,1,0,0,0, Full Time,news,%D on Guerra,,
+280822,Taylor,Hunt,GE,3,42,39,56,29,42,9,2,1,2,0,0,0,0,0, Full Time,job,In defence on Breust... %P,,
+281065,Mitch,Duncan,GE,3,40,42,52,30,42,8,3,2,1,0,0,0,0,0, Full Time,news,%D,,
+280990,Steven,Motlop,GE,7,39,46,55,25,39,6,2,0,5,0,0,1,0,0, Full Time,news,%O on Birchall,,
+290783,Billie,Smedts,GE,8,36,42,43,32,45,6,6,1,0,0,0,1,1,0, Full Time,sore,Second game...left shoulder knock in Q3... %D and %s,subbed,Subbed off in Q4 for Brown
+290550,Cameron,Guthrie,GE,7,35,52,49,25,39,6,3,0,4,0,1,2,0,0, Full Time,job,In defence on Osborne... %O and %T... also %F,,
+230022,Shannon,Byrnes,GE,2,34,42,47,26,39,6,3,1,3,0,1,2,0,0, Full Time,news,%P and %T,in,Late replacement for Orren Stephenson
+230125,Tom,Lonergan,GE,3,24,37,31,25,36,5,5,2,0,0,2,3,0,0, Full Time,job,On Franklin as usual.... %D and %M... also %F,,
+290622,Mitchell W.,Brown,GE,0,6,10,8,5,6,1,0,1,0,0,0,0,0,0, Full Time,news,On in Q4 for Smedts,sub,Started as a sub
+220073,Sam,Mitchell,HW,32,119,141,89,92,126,15,16,3,6,0,3,0,1,0, Full Time,hot,%2 Chapman... %O and %M plus %s,,
+261386,Brendan,Whitecross,HW,26,118,133,74,97,128,19,9,7,3,2,2,2,2,0, Full Time,hot,%s from %O and %T with %M,,
+210012,Shaun,Burgoyne,HW,20,98,121,63,67,96,17,6,2,7,0,1,0,0,0, Full Time,job,In defence on Christensen... %D,,
+250089,Jordan,Lewis,HW,26,86,116,63,73,99,11,9,2,4,3,1,3,3,0, Full Time,news,%P and %M plus %s... also %F,tagger,Tagging Selwood
+294877,Isaac,Smith,HW,20,83,70,54,58,82,15,2,4,6,0,0,1,0,1, Full Time,news,%2 Kelly off a wing... %D and %T with %M,,
+240302,Grant,Birchall,HW,9,80,86,49,60,78,14,4,5,3,0,3,0,0,0, Full Time,news,Very little link work compared to last week... %P and %T,job,Matched up on Motlop
+250715,Josh,Gibson,HW,25,77,95,77,55,78,6,10,2,8,0,1,0,0,0, Full Time,ipod,Standing Podsiadly... %P and %T,sore,Copped Podsiadly's knee in the head above his left eye in Q2
+240399,Lance,Franklin,HW,15,74,89,44,63,82,13,3,3,3,0,4,4,2,4, Full Time,news,Lonergan on him... %s from %P and %G... also a rare high count of %4 frees for,,
+260955,Cyril,Rioli,HW,15,71,89,52,56,73,9,6,2,3,0,1,0,2,1, Full Time,news,Quality but not much quantity from Cyril today... %s from %P on Enright,,
+270732,Matt,Suckling,HW,18,71,83,40,56,72,13,2,6,1,0,0,0,1,0, Full Time,news,%P with %k by foot... also %M,,
+240357,Jarryd,Roughead,HW,14,68,89,55,55,71,7,9,2,3,1,3,0,1,1, Full Time,news,Starting forward on Taylor... %s from %D,,
+230197,Brad,Sewell,HW,8,67,60,43,52,75,11,8,3,3,0,0,1,0,0, Full Time,news,%2 Corey... %D and %T,,
+200060,Brent,Guerra,HW,14,66,80,49,46,63,10,4,1,6,0,4,1,0,0, Full Time,news,%O and %T,job,Chasing Stokes
+280858,Shane,Savage,HW,13,66,72,49,48,69,10,5,3,5,0,0,1,0,0, Full Time,news,%2 Bartel... %O and %T,,
+291731,Broc,McCauley,HW,7,60,69,56,52,63,4,7,4,2,12,2,0,0,0, Full Time,concussed,%H and %D with %M... friendly fire from Franklin's elbow to his head in Q3 left him dazed for a while,subbed,Subbed off in Q4 for McCauley
+220036,David,Hale,HW,15,55,74,47,53,68,4,8,2,1,17,0,2,1,0, Full Time,news,One hit out in Q1 and that was it... %D on Mackie... also %H... moved to ruck in Q4 after McCauley got subbed,,
+280471,Ben,Stratton,HW,8,55,49,44,37,51,8,1,3,5,0,0,0,0,0, Full Time,news,%P and %M with %T,job,Chasing Johnson
+210092,Michael,Osborne,HW,7,50,47,31,42,62,8,9,1,2,1,1,2,0,1, Full Time,news,%s from %P and %T on Guthrie,,
+280744,Luke,Breust,HW,9,48,46,44,39,53,5,5,3,4,0,2,2,0,2, Full Time,news,%s from %P on Taylor Hunt... also %T and %M,,
+200040,Chance,Bateman,HW,3,38,17,25,29,42,7,2,2,3,0,1,2,0,0, Full Time,news,Small forward role again...  %P and %T,,
+281301,Ryan,Schoenmakers,HW,3,31,24,21,25,39,6,2,2,3,0,0,3,0,0, Full Time,spud,Has Hawkins... %P... completely hopeless against the high ball and not much better on the ground,,
+291351,Jack,Gunston,HW,1,19,49,9,15,19,4,0,2,0,0,0,0,0,1, Full Time,news,On in Q4 for McCauley,sub,Started as a sub

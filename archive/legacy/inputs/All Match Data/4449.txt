@@ -1,0 +1,48 @@
+Adelaide,Crows,Hawthorn,Hawks,R6,11.12.78,13.11.89, Full Time
+May 04,2013,4.40,Footy Park,Seven,240302,10390604,adel-v-haw,0,Partly cloudy,20,,
+
+<em>Rigadonis</em>: Adelaide would have would have won the premiership this year if it wasn't for that freekick against Thompson...<br><em>kingbaz</em>: Yep&#044; Thompson robbed!!!<br><em>doogz</em>: monty got hawks glasses on.  Dangerfield was easily BOG<br><em>daniel87</em>: painful watching franklin go sub 60 but he will bounce back sydney next week then 2 weeks of slaughter<br><em>Jmachete</em>: the free on thompson ruined the game<br><em>daniel87</em>: bad for us franklin owners but good for everyone else <br><em>tracygrims</em>: franklin going down in price!<br><em>trippin123</em>: cash cow for Kerridge mOnty<br><em>tracygrims</em>: @bigwhitema was going to be a mark!<br><em>trippin123</em>: and the PNG curse prevails <br><em>dezza33</em>: @bigwhitema - it was a free kick!<br><em>Jormas</em>: lol. i traded dangerfield to wright after round 1. lol<br>
+270917,Patrick,Dangerfield,AD,33,145,173,186,116,152,27,8,8,3,2,4,2,2,0, Full Time,atlas,%D and %T plus %M and %s... Shiels moved to tag him in Q3,,,476900,119,547200,117,Centre,32
+210016,Scott,Thompson,AD,22,102,109,128,85,114,11,13,5,5,0,2,2,2,0, Full Time,hot,%2 Sewell... %O and %M with %T,,,509500,126,565000,144,Centre,5
+261142,Bernie,Vince,AD,21,98,95,127,74,97,14,6,5,5,0,2,0,1,1, Full Time,news,%D and %M plus %T and %s,,,358600,64,375600,86,Centre,17
+270963,Rory,Sloane,AD,20,95,87,124,80,108,15,10,8,3,0,3,3,0,0, Full Time,news,%D and %T with %M... %F as well,,,494900,113,554600,103,Centre,9
+250362,David,Mackay,AD,19,91,95,117,71,96,12,10,6,4,0,1,0,0,0, Full Time,news,Matched up on Hill on a wing... %O and %T with %M,,,354900,78,344400,99,Centre,14
+220086,Brent,Reilly,AD,14,84,122,106,70,93,14,9,8,0,0,0,0,0,0, Full Time,tagged,Forward tag on him by Burgoyne... %D and %M,,,362800,66,459700,77,Back,3
+270938,Thomas,Lynch,AD,19,82,59,107,68,85,10,5,11,2,0,0,0,0,1, Full Time,news,%s from %D and %M on Gibson... also %T,,,258900,-14,234500,-5,Forward,27
+291748,Brodie,Smith,AD,9,74,90,96,54,78,14,7,2,3,0,0,0,0,0, Full Time,job,Minding Puopolo... %O and %T with %M,,,329500,,347200,,Back,33
+220093,Ben,Rutten,AD,13,73,91,92,62,78,9,8,8,1,0,2,0,0,0, Full Time,job,Standing Roughead... %D and %M,,,260500,17,300100,44,Back,25
+240370,Richard,Douglas,AD,20,73,79,94,58,78,9,7,4,4,0,1,1,1,0, Full Time,news,%B among %D with %M and %s,,,457600,61,504900,65,Centre,26
+291806,Sam,Kerridge,AD,15,70,58,87,62,77,8,5,7,1,0,0,1,2,2, Full Time,cash,%s from %D and %M,tagger,Forward tag role on Birchall,108500,-43,115900,-28,Forward Centre,29
+294828,Josh,Jenkins,AD,16,70,48,90,60,73,10,1,6,2,0,2,2,2,4, Full Time,news,%s from %D and %M on Stratton... also %F,,,331100,77,374500,101,Forward Ruck,4
+261351,Matthew,Jaensch,AD,14,66,47,89,54,73,8,5,7,4,0,0,2,0,1, Full Time,news,Forward role on Guerra... %P and %T with %M and %s,,,341400,49,341400,56,Back,10
+280038,Shaun,McKernan,AD,11,65,77,82,55,71,4,8,5,4,8,1,1,0,0, Full Time,news,%D and %M on Lake... also %H and %T in ruck support,,,202600,,274500,,Forward Ruck,35
+270296,Andy,Otten,AD,10,59,86,79,44,57,7,3,5,4,0,1,0,0,0, Full Time,job,Has Gunston... %D and %T with %M,,,301100,-1,369800,11,Back,22
+230216,Richard,Tambling,AD,10,56,37,75,43,60,7,5,4,4,0,0,1,0,0, Full Time,in,Late replacement for Ricky Henderson... %O and %T with %M,job,Responsible for Osborne,208100,,219900,,Back,1
+270811,Sam,Jacobs,AD,20,55,66,64,55,67,6,3,3,0,25,0,3,1,0, Full Time,news,%H and %D with %M and %s... also %F,,,401900,96,498400,154,Ruck,24
+293716,Jarryd,Lyons,AD,3,41,53,54,29,42,6,4,1,3,0,0,0,0,0, Full Time,news,%P and %T on Duryea,subbed,Subbed off in Q3 for Wright,185500,,169400,,Forward Centre,31
+280934,Daniel,Talia,AD,3,38,49,49,32,48,6,7,1,2,0,1,2,0,0, Full Time,job,On Franklin... %P and %T... also %F,,,173700,25,228000,47,Back,12
+293193,Luke,Brown,AD,4,36,36,47,31,42,7,3,4,0,0,0,1,0,0, Full Time,job,Chasing Breust... %O and %M,,,179700,27,192500,26,Back,16
+230174,Jason,Porplyzia,AD,3,34,67,44,31,45,7,5,3,0,0,0,2,0,0, Full Time,news,%P and %M... also %F,,,330900,127,354200,142,Forward,40
+261384,Matthew,Wright,AD,2,26,20,32,23,30,3,4,3,0,0,0,0,0,0, Full Time,news,On in Q3 for Lyons... %D,sub,Started as a sub,408800,86,423800,100,Forward Centre,11
+220047,Luke,Hodge,HW,21,106,137,69,86,118,16,13,5,3,0,1,1,1,1, Full Time,star,%D and %M plus %T and %s,,,413900,139,464300,129,Centre,15
+294877,Isaac,Smith,HW,31,105,83,83,79,101,14,3,8,6,0,1,0,1,2, Full Time,hot,%P and %T plus %M and %s,,,406600,71,412500,73,Centre,16
+250089,Jordan,Lewis,HW,25,101,92,78,88,114,11,15,8,1,2,1,0,1,1, Full Time,heart,First goal... %s from %P and %M... sore after running into Hale in Q2,,,422900,86,455700,104,Forward Centre,3
+280471,Ben,Stratton,HW,15,94,93,65,76,96,14,7,9,2,0,3,0,0,0, Full Time,news,%M and %D,job,Following Jenkins,289300,74,322700,85,Back,24
+220073,Sam,Mitchell,HW,18,91,99,51,77,108,16,13,6,1,0,1,2,0,0, Full Time,news,%O and %M,,,513200,113,561400,115,Centre,5
+280744,Luke,Breust,HW,26,90,107,79,67,89,9,7,2,7,0,1,0,2,2, Full Time,x-factor,%s from %O and %T on Brown... his Q4 goals won the game for Hawthorn,,,385900,80,452000,84,Forward,22
+240357,Jarryd,Roughead,HW,22,85,117,67,71,92,10,7,4,4,11,2,2,1,0, Full Time,news,%P and %T with %M on Rutten.. also %H and %F,,,423800,84,478400,95,Forward Ruck,2
+250715,Josh,Gibson,HW,13,75,86,47,65,90,12,11,6,1,0,1,2,0,0, Full Time,news,%D and %M,job,Zoning off Lynch,309900,78,398600,107,Back,6
+295584,Bradley,Hill,HW,16,73,65,51,61,81,10,7,4,2,0,0,1,2,0, Full Time,cash,Matched up on Mackay on a wing... %s from %P and %M,,,249500,20,243100,12,Centre,10
+200060,Brent,Guerra,HW,9,69,83,43,60,84,11,11,5,1,0,1,2,0,0, Full Time,sore,%P and %M... also %F... left knee injury in Q4... back on very late in Q4,job,Responsible for Jaensch,347100,92,410100,102,Back,18
+280737,Liam,Shiels,HW,13,66,64,50,49,69,9,7,3,4,0,0,0,0,0, Full Time,news,%P and %T,tagger,Moved to tag Dangerfield in Q3,407400,104,373400,95,Centre,26
+260710,Paul,Puopolo,HW,13,65,89,51,52,70,7,10,1,3,0,2,0,1,1, Full Time,news,%s from %D on Smith... also %T,,,261300,81,265600,81,Forward,28
+240399,Lance,Franklin,HW,8,53,45,32,46,65,9,8,2,2,0,3,3,0,2, Full Time,mare,%s from %P and %T on Talia... also %M and %F... two weeks goalless,,,489100,133,564600,164,Forward,23
+220036,David,Hale,HW,9,52,74,45,47,57,3,8,0,1,21,2,0,0,0, Full Time,news,%H and %P,,,348200,100,448800,127,Forward Ruck,20
+291351,Jack,Gunston,HW,14,52,70,41,42,54,6,2,1,3,0,0,1,3,0, Full Time,news,%s from %D and %T on Otten,,,280800,26,327000,34,Forward,19
+230197,Brad,Sewell,HW,12,51,66,42,43,66,6,11,1,4,0,1,3,0,0, Full Time,news,%2 Thompson... %P and %T... also %F,,,457800,128,542700,163,Centre,12
+240302,Grant,Birchall,HW,6,50,59,18,39,57,11,7,1,0,0,0,0,0,0, Full Time,tagged,Forward tagged by Kerridge... %P,,,526600,89,566200,106,Back,14
+210012,Shaun,Burgoyne,HW,4,47,56,37,37,54,6,7,2,3,0,0,1,0,0, Full Time,tagger,Forward tag role on Reilly... %O and %M,,,457300,70,487200,49,Back Centre,9
+290085,Taylor,Duryea,HW,3,46,59,25,38,51,8,6,3,0,0,1,0,0,0, Full Time,job,Minding Lyons... %P,in,Late replacement for Max Bailey,108500,-63,115900,-51,Centre,41
+220039,Brian,Lake,HW,4,42,38,23,36,48,8,3,5,0,0,0,1,0,0, Full Time,job,Standing McKernan... %D and %M,,,392800,,430700,,Back,17
+210092,Michael,Osborne,HW,9,35,37,32,30,40,3,4,2,2,1,0,1,1,0, Full Time,news,%s from %D and %M on Tambling... also %T,subbed,Subbed off in Q3 for Simpkin,259100,36,288900,19,Forward,7
+250652,Jonathan,Simpkin,HW,2,35,38,13,27,34,8,1,2,0,0,2,0,0,1, Full Time,news,On in Q3 for Osborne... %O,sub,Started as a sub,195800,,198000,,Centre,32

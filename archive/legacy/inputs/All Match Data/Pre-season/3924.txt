@@ -1,0 +1,62 @@
+Adelaide,Crows,Brisbane,Lions,W2,16.16.112,8.8.56, Full Time
+Mar 3,2012,8.40,Alice Spri,,,10330207,,25,Cloudy with drizzle,23,,
+
+<em>acroyale</em>: Hard to take to much out of this game<br><em>MatDark</em>: its 1 game against a young side&#044; some scores are inflated<br><em>CrowsFan</em>: Yeah same with me Crows84. He is my favourite player<br><em>Crows84</em>: porps has been a lock in my team for ages&#044; partly for sentimentla reasons but also cuz his good to go i reckon<br><em>JDolling69</em>: Rocky was on 97 20 minutes ago.. what happened<br><em>CrowsFan</em>: Porps showing why he should be picked by everyone. Looking very fit!<br><em>acroyale</em>: Crows ranking up DT in last quarter - Bris no contest<br><em>MatDark</em>: kerridge playing very slick<br><em>acroyale</em>: Burger has been subbed - havent seen him since half time<br><em>acroyale</em>: Danger now worth reconsidering - see how he goes with VB & S. Thompson back<br><em>MatDark</em>: this is a training drill<br><em>MatDark</em>: the tackling from the crows has been really good<br>
+270917,Patrick,Dangerfield,AD,21,127,-,163,101,135,22,11,8,3,0,3,1,0,3, Full Time,hot,%O and %T with %M and %s... had a particularly good Q3,,,82
+280038,Shaun,McKernan,AD,19,85,-,106,78,97,9,5,8,2,13,0,3,2,0, Full Time,news,%s from %P and %M with %T... also %H and %s,,,94
+230215,Brad,Symes,AD,18,79,-,103,63,87,8,10,6,5,0,0,1,0,0, Full Time,news,%O and %T with %M,,,59
+261142,Bernie,Vince,AD,19,79,-,105,63,84,14,3,6,3,0,1,2,1,0, Full Time,news,%P and %T with %M and %s,,,80
+270963,Rory,Sloane,AD,15,78,-,99,61,85,15,7,2,2,1,1,1,1,0, Full Time,news,%P and %T with %M and %s,,,90
+261857,Ian,Callinan,AD,19,71,-,90,57,79,6,10,3,5,0,0,1,1,1, Full Time,news,%s from %D and %T plus %M,,,85
+270938,Tom T.,Lynch,AD,15,70,-,86,60,72,10,4,6,0,0,2,0,2,0, Full Time,news,%s from %P and %M,,,94
+291201,Ricky,Henderson,AD,8,62,-,83,46,63,12,3,3,3,0,2,1,0,0, Full Time,news,%D with %k by foot... also %T and %M,,,91
+291806,Sam,Kerridge,AD,9,58,-,76,46,60,8,4,6,2,0,0,0,0,0, Full Time,news,On in Q3... %D and %M with %T,sub,Started as a sub,38
+240370,Richard,Douglas,AD,10,54,-,67,43,54,7,5,2,2,0,3,0,1,0, Full Time,news,%P and %M with %T and %s,subbed,Subbed off at HT,41
+230174,Jason,Porplyzia,AD,8,53,-,66,44,60,9,7,4,0,0,0,0,0,0, Full Time,news,On in Q3... %P with %k by foot... also %M,sub,Started as a sub,48
+294828,Josh,Jenkins,AD,14,50,-,58,49,59,7,2,1,0,16,2,3,2,1, Full Time,news,%H and %P plus %s... also %F,,,89
+270296,Andy,Otten,AD,4,48,-,61,38,51,6,6,3,2,0,1,0,0,0, Full Time,news,%M and %O with %T,,,91
+210056,Graham,Johncock,AD,3,47,-,60,35,51,8,6,1,2,0,0,0,0,0, Full Time,news,%P and %T,,,89
+261351,Matthew,Jaensch,AD,7,47,-,58,39,54,8,7,3,0,0,0,0,0,0, Full Time,news,%O with %b by hand... also %M,,,89
+240032,Chris,Knights,AD,10,44,-,57,39,51,7,3,4,1,0,1,2,1,0, Full Time,news,%s from %P and %M... also %F,subbed,Subbed off at HT,42
+291748,Brodie,Smith,AD,3,42,-,56,30,37,8,0,2,2,0,3,0,0,1, Full Time,news,%D and %M with %T and %s,subbed,Subbed off at HT,42
+261138,Jared,Petrenko,AD,9,37,-,47,34,42,5,2,5,0,0,0,1,1,0, Full Time,news,%D and %M plus %s,,,51
+280506,Taylor,Walker,AD,10,37,-,48,38,53,7,4,4,0,0,0,4,1,2, Full Time,news,%s from %P and %G... also %F,,,97
+200,Brad,Crouch,AD,3,33,-,41,29,45,4,9,0,2,0,1,2,0,0, Full Time,news,%B among %P with %T,,,50
+280568,Lewis,Johnston,AD,2,33,-,42,25,36,4,5,1,2,0,0,0,0,0, Full Time,news,On in Q3... %O and %T,sub,Started as a sub,50
+293716,Jarryd,Lyons,AD,2,31,-,40,24,33,5,3,2,1,0,0,0,0,0, Full Time,news,%D and %M,,,49
+230216,Richard,Tambling,AD,2,28,-,36,21,27,3,3,1,2,0,2,0,0,0, Full Time,news,%O and %T,subbed,Subbed off at HT,41
+280949,Luke,Thompson,AD,2,25,-,34,17,24,4,1,1,2,0,0,0,0,0, Full Time,news,On in Q3... %P and %T,sub,Started as a sub,47
+261277,Tim,McIntyre,AD,7,22,-,28,16,21,2,1,0,2,0,0,0,1,0, Full Time,news,On in Q4... %s from %D with %T,sub,Started as a sub,32
+290211,Sam,Shaw,AD,1,17,-,21,14,18,3,2,1,0,0,1,0,0,0, Full Time,news,%D,subbed,Subbed off at HT,46
+280934,Daniel,Talia,AD,0,15,-,20,13,18,2,2,1,1,0,1,1,0,0, Full Time,news,%O,subbed,Subbed off at HT,45
+291402,Aidan,Riley,AD,1,15,-,20,14,24,3,4,0,1,0,0,2,0,0, Full Time,news,On in Q3... %D and %F,sub,Started as a sub,49
+280281,Brodie,Martin,AD,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+290110,Mitchell,Golby,BL,19,100,-,131,78,102,16,7,7,4,0,4,1,0,0, Full Time,hot,%D and %M with %T,,,89
+270919,Tom,Rockliff,BL,21,97,-,122,79,108,14,12,5,3,0,1,1,1,0, Full Time,news,%K among %P with %M and %T... also %s,,,76
+220062,Matt,Maguire,BL,14,96,-,126,77,99,19,4,9,1,0,3,1,0,0, Full Time,news,Has a bit to prove this week... %P and %M,,,97
+281373,Jack,Redden,BL,20,92,-,118,76,111,14,15,4,4,0,1,3,0,0, Full Time,news,%P and %M with %T... also %F,,,72
+260975,James,Polkinghorne,BL,15,84,-,108,67,96,15,9,3,3,0,0,2,1,0, Full Time,news,%s from %D with %T and %M... also %F,,,89
+250053,Cheynee,Stiller,BL,13,80,-,105,61,78,13,4,6,3,0,3,0,0,0, Full Time,news,%O and %M with %T,,,100
+210013,Ashley,McGrath,BL,9,60,-,76,45,60,9,5,1,3,0,2,0,1,0, Full Time,news,%P and %T plus %s,,,88
+281048,Ryan,Harwood,BL,8,60,-,73,53,72,7,12,4,1,0,2,1,0,0, Full Time,news,%P and %M,,,69
+291548,Ryan,Lester,BL,4,53,-,68,42,57,9,5,4,1,0,0,0,0,0, Full Time,news,%G and %D,,,98
+292035,Claye,Beams,BL,10,52,-,66,43,54,7,3,5,1,0,0,0,1,0, Full Time,news,%s from %D and %M,,,51
+292128,Elliot,Yeo,BL,4,42,-,54,34,45,8,3,4,0,0,0,0,0,0, Full Time,news,%D and %M,,,51
+270936,Jordan,Lisle,BL,4,40,-,50,36,45,6,5,4,0,0,3,1,0,0, Full Time,news,%D and %G,,,97
+291828,Billy,Longer,BL,4,39,-,47,31,38,4,2,0,2,14,1,0,0,0, Full Time,news,%H and %D with %T,,,51
+261391,Aaron,Cornelius,BL,8,36,-,50,29,42,3,4,3,4,0,0,2,0,0, Full Time,news,%P and %M with %T and %F,subbed,Subbed off at HT,49
+291873,Richard,Newell,BL,3,35,-,46,27,36,4,3,3,2,0,0,0,0,0, Full Time,news,On in Q3... %O and %M with %T,sub,Started as a sub,42
+261222,James,Hawksley,BL,2,34,-,46,25,33,7,0,3,1,0,0,0,0,0, Full Time,news,%M and %P,subbed,Subbed off at HT,41
+290738,Jared,Polec,BL,8,34,-,42,28,36,6,2,2,0,0,0,0,1,0, Full Time,news,%s from %D including %K with %M,,,51
+261250,Sam,Sheldon,BL,2,30,-,40,25,33,5,2,3,1,0,1,1,0,0, Full Time,news,%B among %P with %M,subbed,Subbed off at HT,41
+290626,Brad,Harvey,BL,2,29,-,37,23,30,4,3,2,1,0,1,0,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,58
+281329,Rohan,Bewick,BL,7,28,-,32,25,33,3,5,1,0,0,0,0,1,0, Full Time,news,%s from %O,sub,Started as a sub,44
+293871,Jack,Crisp,BL,3,26,-,36,20,27,4,1,2,2,0,1,1,0,0, Full Time,news,%P including %K... also %M and %T,subbed,Subbed off at HT,42
+210045,Amon,Buchanan,BL,2,25,-,31,22,33,1,7,1,2,0,0,1,0,0, Full Time,news,On in Q3... %D and %T,sub,Started as a sub,44
+292508,Niall,McKeever,BL,3,24,-,29,25,36,3,7,2,0,0,1,2,0,0, Full Time,irish,%D and %M,,,100
+292501,Bryce,Retzlaff,BL,2,22,-,26,20,27,2,5,2,0,0,0,0,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,51
+271071,Todd,Banfield,BL,1,21,-,24,19,25,2,5,1,0,0,1,0,0,1, Full Time,news,On in Q3... %s from %K among %D,sub,Started as a sub,47
+293865,Patrick,Wearden,BL,2,21,-,26,18,24,3,3,2,0,0,0,0,0,0, Full Time,news,On in Q3... %O and %M,sub,Started as a sub,35
+290748,Joshua,Green,BL,0,17,-,22,13,18,2,2,1,1,0,0,0,0,0, Full Time,news,%P with %b by hand,subbed,Subbed off at HT,39
+250335,Matthew,Leuenberger,BL,2,14,-,16,18,23,0,2,0,1,14,1,3,0,0, Full Time,news,%H and %P with %F,subbed,Subbed off at HT,49
+280572,Jesse,O'Brien,BL,0,5,-,7,7,12,2,2,0,0,0,1,2,0,0, Full Time,news,%O... also %F,subbed,Subbed off at HT,39

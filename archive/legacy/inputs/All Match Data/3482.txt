@@ -1,0 +1,48 @@
+Carlton,Blues,Melbourne,Demons,R11,15.11.101,9.6.60, Full Time
+Jun 05,2010,2:10,MCG,Ten,280748,10281102,5015477,5150,Isolated showers,16
+The iPhone app is going through last minute modifications requested by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>TmBattler</em>: m0nty - why is Pick #5 - SC Head to head a draw? Betts scored higher<br><em>buddy23!!!</em>: you really think houlihan will get the 3 brownlow botes Monty?? no wayyy<br><em>tigermania</em>: jizzberts went missing when the rain came<br><em>Mitchy92</em>: @jim jam. your an idiot. kruezer did good. hes not a consistent 100+ player so you should be happy with his score.<br><em>Nigey95</em>: juddy got a ton in SC but still a bit disappointed<br><em>RatPack</em>: What's the big deal with Watts? Just kept going to ground today&#044; even before the rain!<br><em>ocat1979</em>: any player with 7 FA's should NEVER score that high&#044; and i have him!<br><em>Jim Jam</em>: knew i shoulda traded u out carrazzo<br><em>Mitchy92</em>: @ hes pee. haha nice.<br><em>Howdoyoudo</em>: Wayne carey IS the best player ever <br><em>Jim Jam</em>: sigh carratz u r useless i hate u kreuz<br><em>Mitchy92</em>: picked 5 png things. oh well. its a good method. good work monty.<br>
+220110,Jarrad,Waite,CA,42,119,125,155,97,124,14,5,10,6,0,0,2,3,1, Full Time,reported,Booted %s from %P and %M on Rivers... also %T... reported for charging on Bate in Q2 but there wasn't much in it
+290311,Mitch,Robinson,CA,33,108,100,143,81,112,15,8,4,8,1,2,2,1,0, Full Time,hot,%P and %T with %M
+250105,Marc,Murphy,CA,27,98,95,132,73,105,11,10,5,9,0,0,2,0,0, Full Time,news,Playing half forward on Bruce... %D and %T with %M
+220056,Chris,Judd,CA,25,95,109,122,69,96,12,10,1,7,0,2,0,1,0, Full Time,x-factor,Tagged by McDonald... %O and %T with %s... well held most of the day but his Q4 wrapped up the Blue win
+250090,Jordan,Russell,CA,14,94,77,123,72,96,18,5,7,2,0,1,0,0,0, Full Time,news,%P and %M
+200013,Ryan,Houlihan,CA,22,90,118,109,78,99,10,8,5,2,0,0,1,4,0, Full Time,star,Forward tag on Grimes... %s from %O and %M including three goals in Q1
+240014,Andrew,Walker,CA,18,87,108,115,69,96,20,5,6,1,0,1,2,0,0, Full Time,job,Has Miller... %D and %M with %F
+990059,Heath,Scotland,CA,18,87,99,112,73,99,16,9,7,1,0,2,2,0,0, Full Time,news,%D and %M
+240060,Eddie,Betts,CA,20,85,79,106,66,87,11,8,2,4,0,2,0,2,0, Full Time,garbage,%O and %T with %M... all of his %s in Q4 junk time
+220015,Andrew,Carrazzo,CA,20,84,79,110,72,93,12,6,8,3,0,3,3,1,0, Full Time,tagger,Tagging Davey... %D and %M plus %s
+261299,Matthew,Kreuzer,CA,32,83,98,105,63,80,6,4,0,8,26,2,1,0,0, Full Time,news,%H and %D with %T
+220108,Bret,Thornton,CA,16,76,113,95,63,78,9,5,6,2,0,1,0,2,0, Full Time,sore,%D and %M plus %s... right ankle problem in Q3 and got strapped to return in Q4
+230202,Kade,Simpson,CA,15,73,82,94,63,88,14,7,5,1,0,0,3,1,1, Full Time,sore,First goal... tagged by Bartram... %P and %M plus %s... cut on the nose in Q3
+270811,Sam,Jacobs,CA,15,72,86,89,59,75,7,8,2,4,11,4,1,0,1, Full Time,news,%H and %P with %T
+250408,Joe,Anderson,CA,16,59,42,84,47,69,8,4,5,6,0,0,4,0,0, Full Time,news,%O and %M
+210022,Richard,Hadley,CA,8,57,73,71,47,69,6,12,2,3,0,0,1,0,0, Full Time,news,%B among %D
+261318,Aaron,Joseph,CA,12,55,63,72,41,60,8,7,1,4,0,1,1,0,0, Full Time,news,%O and %T
+270653,Jeff,Garlett,CA,8,54,57,73,36,49,8,2,1,5,0,2,0,0,1, Full Time,news,%s from %P on Garland
+250417,Bryce,Gibbs,CA,5,53,63,70,40,54,7,4,4,3,0,0,0,0,0, Full Time,cold,Started on Green at FB which was terrible for his fantasy scoring... moved off him in Q2... %O
+261219,Steven,Browne,CA,9,52,45,68,39,54,5,6,3,4,0,0,0,0,0, Full Time,news,%D and %T with %M
+240716,Setanta,O'hAilpin,CA,3,41,40,54,33,49,6,6,1,3,0,1,2,0,1, Full Time,news,Warnock on him... %s from %P
+261043,Michael,Jamison,CA,6,32,41,45,20,27,4,0,1,4,0,1,0,0,0, Full Time,job,Moved from Watts to Green in Q2
+200052,Cameron,Bruce,ME,36,117,143,111,89,123,10,16,6,9,0,1,0,0,0, Full Time,hot,Playing a HBF on Murphy... %D and %T
+230151,Brent,Moloney,ME,30,103,102,85,88,120,11,16,7,4,0,1,2,1,0, Full Time,garbage,%B among %P with %M... %s and a lot of stats in Q4 garbage time
+270985,Cale,Morton,ME,15,100,104,59,78,102,18,5,9,2,0,1,0,0,0, Full Time,hot,%P and %M
+240037,Colin,Sylvia,ME,21,93,77,59,71,98,16,5,4,5,2,1,2,1,0, Full Time,news,%s from %D with %M and %T
+261297,Jack,Grimes,ME,19,86,91,55,66,96,14,11,3,4,0,0,1,0,0, Full Time,tagged,Forward tag on him by Houlihan... %D
+250510,Matthew,Bate,ME,20,81,84,57,61,79,12,4,4,4,0,2,0,1,1, Full Time,news,%P including %K with %M
+281280,Neville,Jetta,ME,25,81,96,65,59,78,10,6,2,6,0,3,0,1,0, Full Time,news,%P and %T
+200054,Brad,Green,ME,20,79,100,56,67,82,10,5,5,1,0,1,0,3,1, Full Time,news,Started at FF on Gibbs then got Jamison... %s from %P and %M
+280748,Jordan,Gysberts,ME,14,78,85,52,68,94,10,17,4,0,1,1,0,0,0, Full Time,bubble,Second game... %P and %M
+220052,Mark,Jamar,ME,17,62,96,65,68,85,2,9,3,3,34,4,7,0,0, Full Time,news,%H and %T with %F
+280608,Jack,Trengove,ME,12,62,39,35,44,66,12,5,1,4,0,0,1,0,0, Full Time,news,%O
+970130,James,McDonald,ME,14,62,69,58,50,72,6,9,4,5,0,0,2,0,0, Full Time,sore,Tagging Judd... %O and %T... right leg knock in the last minute of Q4
+230250,Jared,Rivers,ME,12,60,80,44,50,66,8,7,6,1,0,0,0,0,0, Full Time,job,Has Waite... %M and %P
+200002,Aaron,Davey,ME,8,56,70,35,40,54,10,3,1,4,0,4,1,0,0, Full Time,tagged,Tagged by Carrazzo... %O
+280969,Tom,Scully,ME,7,56,54,36,41,60,9,7,1,3,0,0,0,0,0, Full Time,news,%D
+250245,Clint,Bartram,ME,9,51,33,48,36,51,5,5,2,5,0,0,0,0,0, Full Time,tagger,Tagging Simpson... %D
+250222,Nathan,Jones,ME,12,49,65,25,41,57,8,9,0,0,0,1,0,1,0, Full Time,sore,%K among %D plus %s... tweaked left hamstring in Q3
+270830,Colin,Garland,ME,4,48,32,30,39,57,9,4,3,3,0,1,3,0,0, Full Time,job,Has Garlett... %M and %D plus %F
+250716,Matthew,Warnock,ME,7,41,55,29,30,42,7,2,1,4,0,3,2,0,0, Full Time,in,%l James Frawley (back spasms)... on O'hAilpin
+290943,Jamie,Bennell,ME,3,34,28,21,28,40,6,4,1,2,0,2,2,0,1, Full Time,news,%s from %D
+220071,Brad,Miller,ME,3,26,24,29,23,32,1,5,2,2,2,0,1,0,0, Full Time,crab,Walker on him... %P with %b by hand
+280972,Jack,Watts,ME,7,23,22,22,19,24,2,1,1,2,0,1,1,1,0, Full Time,news,%s from %P on Jamison then Gibbs

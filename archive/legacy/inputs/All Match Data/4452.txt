@@ -1,0 +1,48 @@
+Sydney,Swans,Brisbane,Lions,R6,17.13.115,8.7.55, Full Time
+May 05,2013,1.10,SCG,Seven,240087,10390607,syd-v-bl,0,Partly cloudy,20,,
+
+<em>Jackwatt$</em>: Lester 2nd match 2 tons now..is he playing midfield?<br><em>Pies1994</em>: mayes 48 is bs<br><em>Sydney14</em>: not a blue moon for Lester&#044; Voss is just a spud for not playing him<br><em>Bluffie</em>: 2nd match biggs<br><em>biggs2dujj</em>: Lester 111 sc in first match.  Blue moon?<br><em>Sydney14</em>: and JPK finally tons up in SC <br><em>Affliction</em>: Good last qtr from Mayes<br><em>Kangas2012</em>: on track for 1600 this week... oh god<br><em>Bluffie</em>: hanley 1 possesion in qtr 3&#044; kinda ruined his score :/<br><em>buddyboyz</em>: hannebery for the star<br><em>CroZaN`</em>: tonne up Hanley!<br><em>Kromedome</em>: agreed crozan<br>
+240226,Kieren,Jack,SY,20,104,126,135,79,114,17,12,4,5,0,0,1,0,0, Full Time,magnet,%2 Rockliff... %O and %M with %T,,,480000,78,561400,91,Centre,15
+290117,Daniel,Hannebery,SY,21,101,131,121,83,115,14,18,2,2,0,2,0,1,1, Full Time,star,%s from %D and %M starting on a HFF on Yeo,,,472000,86,519700,106,Centre,4
+230253,Jarrad,McVeigh,SY,26,98,98,124,80,114,14,14,4,4,0,0,2,1,0, Full Time,tagged,Tagged by Adcock... %O including %B with %T,,,510800,114,566500,117,Centre,3
+281281,Lewis,Jetta,SY,22,98,124,126,74,99,16,5,4,4,0,0,0,2,0, Full Time,garbage,%P and %T... all of his %s in late junk time,,,285000,102,305700,122,Forward Centre,32
+290778,Luke,Parker,SY,33,96,92,124,76,106,8,13,4,8,0,1,2,1,1, Full Time,news,%s from %K among %D with %T and %M... Lester on him,,,403600,111,424800,86,Centre,26
+200071,Ryan,O'Keefe,SY,20,91,115,110,79,108,12,17,3,2,0,4,2,1,0, Full Time,news,%2 Moloney... took him to the cleaners early... %O and %M plus %s,,,485800,128,529600,120,Centre,5
+230132,Nick,Malceski,SY,14,90,114,117,70,97,22,5,5,0,0,1,1,0,1, Full Time,news,%D with %k by foot... also %M,,,426700,61,461100,78,Back,9
+980073,Adam,Goodes,SY,20,88,84,112,74,94,14,4,8,1,0,0,1,2,1, Full Time,news,First goal... %s from %P and %M on Patfull,,,366000,78,414800,93,Forward,37
+260382,Josh P.,Kennedy,SY,21,84,102,104,72,102,8,16,4,4,0,0,2,1,0, Full Time,news,%2 Redden... %D including %B with %M and %s,,,482400,136,601100,169,Centre,12
+291206,Mike,Pyke,SY,24,84,105,104,74,91,6,4,4,5,21,1,3,2,1, Full Time,news,%s from %P and %M up forward on Merrett then Clarke... also %H and %T.. %F as well,,,353100,97,426300,90,Ruck,38
+250338,Nick,Smith,SY,20,81,118,106,60,81,7,9,4,7,0,2,0,0,0, Full Time,news,%P and %T with %M,job,Chasing Bewick,287400,74,322200,85,Back,40
+290188,Samuel,Reid,SY,21,80,100,100,68,85,10,4,6,2,0,0,1,3,1, Full Time,news,Booted %s from %G and %P on the kid Clarke... Merrett moved to him in Q1,,,248300,65,295600,92,Forward,20
+990011,Jude,Bolton,SY,16,77,67,99,62,81,9,5,3,5,0,2,2,2,3, Full Time,news,%s from %D and %T on McGrath,,,409900,90,477400,110,Forward Centre,24
+280762,Shane,Mumford,SY,20,74,75,83,72,89,2,13,3,2,29,2,2,0,0, Full Time,news,%H and %P,,,338200,87,415500,104,Ruck,41
+230140,Ben,McGlynn,SY,14,53,50,70,38,50,5,2,2,5,0,0,0,1,2, Full Time,news,%s from %P and %T on Golby,subbed,Subbed off in Q4 for Lamb,371100,80,384200,91,Forward,21
+270170,Tony,Armstrong,SY,8,51,46,69,36,48,7,2,3,4,0,1,0,0,0, Full Time,news,%O and %T,,,257800,16,279600,2,Back,19
+240072,Heath,Grundy,SY,5,50,53,66,45,63,5,8,5,3,0,1,3,0,0, Full Time,job,Has Brown... %P... also %F,,,309600,73,363900,72,Back,39
+261212,Craig,Bird,SY,5,50,55,65,41,57,7,6,4,2,0,0,1,0,0, Full Time,news,%D and %M,,,311100,93,326800,116,Forward Centre,14
+290307,Dane,Rampe,SY,4,42,56,54,32,45,6,5,2,2,0,0,0,0,0, Full Time,job,Responsible for Paparone... %O and %T,,,119100,-20,133400,-19,Centre,43
+210027,Ted,Richards,SY,4,39,54,50,34,45,5,5,4,1,0,1,1,0,0, Full Time,job,On the resting ruck which is mostly Longer... %P and %M,,,276400,20,404100,35,Back,25
+220063,Martin,Mattner,SY,3,33,45,44,29,42,4,5,3,2,0,0,2,0,0, Full Time,job,Running off Cornelius... %D... also %F,,,245000,50,260800,70,Back,29
+291544,Jed,Lamb,SY,2,25,23,32,20,27,5,2,2,0,0,0,0,0,0, Full Time,rookie,First game... on in Q4 for McGlynn,sub,Started as a sub,108500,,115900,,Forward,11
+281373,Jack,Redden,BL,27,109,94,95,84,112,11,12,5,7,0,2,0,1,1, Full Time,garbage,%2 Kennedy... %P and %T plus %M and %s,,,491000,111,506100,107,Centre,30
+291548,Ryan,Lester,BL,31,106,130,91,84,114,10,17,3,6,0,3,0,1,0, Full Time,bluemoon,%D and %T plus %s,job,Parker is his man,293100,,327200,,Back,35
+240087,Jed,Adcock,BL,26,99,95,79,70,97,13,8,3,8,0,2,0,0,1, Full Time,news,%P and %T,tagger,Tagging McVeigh,407300,41,475800,60,Back,7
+270512,Pearce,Hanley,BL,26,96,93,60,76,105,16,9,4,4,0,2,2,1,0, Full Time,news,%O and %T with %M and %s,,,463000,111,553300,118,Back,11
+270919,Tom,Rockliff,BL,20,85,93,72,64,90,9,13,2,6,0,2,0,0,0, Full Time,news,%2 Jack... %P and %T,,,497500,60,511300,97,Forward Centre,38
+230151,Brent,Moloney,BL,14,81,90,53,64,90,13,10,3,4,0,3,2,0,0, Full Time,news,%2 O'Keefe... got smashed about the park early... %O and %T with %M,,,375900,64,456300,66,Centre,3
+260975,James,Polkinghorne,BL,14,80,76,51,68,94,12,13,5,1,0,1,1,0,1, Full Time,news,%O and %M,,,289100,26,303400,26,Centre,31
+290110,Mitch,Golby,BL,14,78,68,55,65,90,11,11,6,2,0,0,1,0,0, Full Time,job,Chasing McGlynn... %O and %M,,,327200,66,364000,66,Back,41
+292128,Elliot,Yeo,BL,9,69,68,56,55,75,8,9,5,3,0,0,0,0,0, Full Time,job,Responsible for Hannebery on a HBF... %D and %M with %T,,,260200,57,301600,79,Back,26
+293603,Sam,Mayes,BL,8,65,50,34,53,69,12,6,5,0,0,2,0,0,0, Full Time,news,One handball in Q1... %O and %M,,,231800,-45,229000,-36,Forward Centre,32
+200007,Jonathan,Brown,BL,19,64,54,53,57,75,7,8,6,2,0,1,2,1,0, Full Time,news,%D and %M on Richards... had to run up the ground to get kicks at stages with the Swans locking it down... %F as well,sore,Cuts over both eyes opened up in Q2 and Q3,377300,88,397300,99,Forward,16
+250335,Matthew,Leuenberger,BL,16,64,83,45,61,74,7,6,2,0,22,2,2,1,1, Full Time,news,%H and %D,,,311000,5,380100,30,Ruck,23
+261224,Dayne,Zorko,BL,21,62,63,64,46,63,4,7,2,6,0,0,0,1,0, Full Time,news,One handball in Q1... %P and %T plus %s,,,419800,47,489500,36,Forward Centre,15
+230147,Daniel,Merrett,BL,7,55,63,36,45,61,8,8,3,1,1,1,0,0,0, Full Time,job,Started on the resting ruck which is mostly Pyke... but moved to Reid in Q1 after Reid started well,,,284900,116,372600,129,Back Forward,21
+291828,Billy,Longer,BL,10,46,50,40,41,57,5,5,1,4,11,2,4,0,1, Full Time,news,%H and %D... also %F,,,241500,71,280300,59,Ruck,5
+290748,Josh,Green,BL,8,44,37,26,35,45,7,2,1,1,0,0,0,2,0, Full Time,news,On after HT for Cornelius,sub,Started as a sub,288100,64,309100,99,Forward,6
+210013,Ashley,McGrath,BL,4,42,52,30,32,45,6,5,2,2,0,0,0,0,0, Full Time,job,In defence on Bolton... %P,,,230000,58,275400,66,Back Forward,9
+281329,Rohan,Bewick,BL,4,42,47,33,35,49,5,7,2,2,1,1,1,0,0, Full Time,news,%P and %T on Smith,,,337300,37,344100,35,Forward,8
+295162,Justin,Clarke,BL,3,40,63,27,32,42,6,4,3,1,0,1,0,0,0, Full Time,bubble,Second game... %D and %M,job,Dragged off Reid in Q1 to Pyke,108500,,115900,,Back,42
+230170,Joel,Patfull,BL,3,37,46,27,34,48,5,7,3,1,0,1,2,0,0, Full Time,job,Following Goodes... %D,,,247500,29,332200,56,Back,24
+294618,Marco,Paparone,BL,3,32,31,24,26,40,4,7,0,2,0,0,1,0,1, Full Time,news,%s from %D on Rampe,,,107200,-50,114500,-31,Forward Centre,22
+261391,Aaron,Cornelius,BL,1,21,21,17,14,18,3,0,1,2,0,1,0,0,0, Full Time,news,%P on Mattner,subbed,Subbed off at HT for Green,269200,57,256200,48,Forward,44

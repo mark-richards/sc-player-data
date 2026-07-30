@@ -1,0 +1,48 @@
+Fremantle,Dockers,West Coast,Eagles,R18,24.16.160,13.7.85, Full Time
+Aug 01,2010,4:40,Subiaco,Fox Sports,240139,10281808,5015616,5210,Sunny,22
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Q4 Sunday twilight go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em>tigerboy</em>: Masten terrible..<br><em>Pavlich#29</em>: Go Ballantyne<br><em>MitchPerry</em>: Sandi medal??? WTF>>> Surely Broughton&#044; Hill&#044; Pav&#044; Johnson&#044; DeBoer&#044; Fyfe and Balla were in front of him<br><em>meataxe</em>: the 4 frees against are included in the 7 clangers&#044; so only 3 other clangers...<br><em>tigerboy</em>: cox 94 sc :P<br><em>Inzy</em>: freo herogot army<br><em>Judd_MAgic</em>: Thanks Cox and Strijk&#044; you both got me over the line by 20 points. :)<br>
+261756,Greg,Broughton,FR,31,120,122,153,98,135,12,19,7,7,0,3,2,0,0, Full Time,gun,%B among %P with %M and %T
+260069,Hayden,Ballantyne,FR,33,107,125,133,92,114,15,3,5,3,0,2,3,6,0, Full Time,garbage,%s from %O and %M on McGinnity... most of those goals in second half junk time
+200031,Paul,Hasleby,FR,32,101,132,125,80,106,9,11,3,6,0,0,0,3,1, Full Time,hot,First goal... tagging Priddis... %P and %s
+291570,Nathan,Fyfe,FR,25,100,105,132,76,105,12,9,6,7,0,0,1,0,3, Full Time,x-factor,%s from %P and %M on Waters
+200032,Matthew,Pavlich,FR,22,98,93,118,85,105,11,8,5,2,0,2,1,4,3, Full Time,news,Booted %s from %P and %M on McKenzie
+220096,Aaron,Sandilands,FR,22,89,58,101,90,117,5,17,5,1,33,0,4,0,0, Full Time,medal,%H and %D with %M and %F... won the Ross Glendinning Medal
+270908,Nick,Suban,FR,15,87,90,113,66,88,17,4,3,3,0,3,1,1,1, Full Time,news,%P and %T with %s
+240139,Paul,Duffield,FR,14,85,111,113,61,84,14,5,4,5,0,1,0,0,0, Full Time,job,Running off Strijk... %D and %M
+240052,David,Mundy,FR,24,80,105,97,66,96,8,17,1,4,0,0,1,1,0, Full Time,news,Head to head with Ebert... %B among %O with %T and %s
+250268,Garrick,Ibbotson,FR,14,79,102,101,60,81,11,9,3,4,0,3,0,0,0, Full Time,news,%D and %T
+271015,Matthew,de Boer,FR,20,79,130,99,63,87,4,15,4,6,0,1,0,0,0, Full Time,news,Small forward role... %O and %T
+230107,Michael,Johnson,FR,19,78,113,98,66,80,12,3,6,1,1,3,1,2,1, Full Time,news,%s from %D and %M on Schofield
+200045,Luke,McPharlin,FR,14,69,71,92,58,78,11,5,8,2,0,0,2,0,0, Full Time,job,Moved from Kennedy to Lynch in Q1 after Tarrant's injury in Q1... %M and %O
+290296,Jesse,Crichton,FR,14,64,86,80,50,66,8,7,2,3,0,2,0,1,0, Full Time,bubble,Second game... %P and %T
+280336,Stephen,Hill,FR,13,54,68,63,46,61,8,7,1,0,0,0,0,2,1, Full Time,tagged,Tagged by Scott Selwood
+210084,Roger,Hayden,FR,9,46,77,55,40,51,4,7,3,1,0,1,0,1,0, Full Time,news,Starting forward on Sheppard... %s from %P
+270681,Jay,van Berlo,FR,10,46,46,59,39,54,7,5,2,2,0,1,2,1,0, Full Time,tagger,Tagging Embley... %D and %M plus %s
+281154,Justin,Bollenhagen,FR,9,45,48,55,35,46,4,4,0,3,0,0,0,2,1, Full Time,rookie,First game... %O and %T plus %s on Smith
+990092,Antoni,Grover,FR,4,42,48,52,38,51,4,8,4,1,0,1,1,0,0, Full Time,job,Moved to LeCras in Q1 after Tarrant's injury... %P
+210037,Adam,McPhee,FR,4,40,28,55,34,51,6,5,3,3,0,0,3,0,0, Full Time,job,Started forward on Brown but moved back to Kennedy after Tarrant's injury in Q1... %P and %T
+281111,Anthony,Morabito,FR,2,38,55,47,32,46,6,7,1,1,0,1,1,0,1, Full Time,sore,Matched up with Rosa on a wing... %D... split above a left eye in a clash with Brett Jones in Q2
+980023,Chris,Tarrant,FR,0,10,15,11,9,12,1,3,0,0,0,1,0,0,0, Full Time,injured,Following LeCras... %D... injured the medial ligament in his left knee in Q1 which will put him out until finals
+240016,Beau,Waters,WC,26,111,87,63,89,118,20,7,8,2,0,1,1,1,1, Full Time,hot,Has Fyfe... %P and %T with %M and %s... plenty of clangers early lowered his SC score
+240124,Matt,Priddis,WC,25,101,142,94,81,115,8,20,3,7,1,2,1,0,0, Full Time,hot,Tagged by Hasleby... %B among %O with %T
+250111,Matt,Rosa,WC,21,93,103,62,82,105,13,10,8,0,0,1,1,2,0, Full Time,news,Matched up with Morabito on a wing... %O and %M plus %s
+990020,Andrew,Embley,WC,20,86,52,66,69,91,11,8,5,4,1,2,1,1,0, Full Time,tagged,Tagged by van Berlo... %D and %T with %M
+240119,Mark,LeCras,WC,27,85,86,63,79,91,10,2,8,0,0,2,2,5,1, Full Time,news,Tarrant then Grover on him... %s from %O and %G
+271073,Tom,Swift,WC,15,85,85,65,68,96,11,12,5,4,0,0,1,0,0, Full Time,news,%O and %M
+270928,Scott,Selwood,WC,20,81,86,74,64,84,7,10,4,5,0,2,0,1,0, Full Time,tagger,Tagging Hill... %O
+200112,Dean,Cox,WC,16,79,89,70,66,83,7,7,4,4,17,2,1,0,0, Full Time,news,%H and %D
+260446,Andrew,Strijk,WC,19,74,59,46,62,79,12,3,6,1,0,0,1,2,1, Full Time,news,%s from %P on Duffield
+270953,Ashley,Smith,WC,13,73,60,42,60,81,13,7,6,1,0,1,1,0,0, Full Time,job,On Bollenhagen... %M and %D
+261911,Brad,Ebert,WC,9,68,60,40,51,70,13,2,5,3,0,0,1,0,1, Full Time,news,Head to head with Mundy... %P and %s
+240731,Brett,Jones,WC,13,66,58,44,55,75,11,5,7,2,0,0,2,0,0, Full Time,in,%l Shannon Hurn... cut on his head in a clash with Morabito in Q2
+280379,Lewis,Stevenson,WC,8,62,57,44,52,69,8,10,4,1,0,2,0,0,0, Full Time,news,%O
+220061,Quinten,Lynch,WC,8,61,55,43,52,68,9,5,7,1,2,0,1,0,0, Full Time,news,%D and %M... got McPharlin early
+281080,Brad,Sheppard,WC,9,61,57,42,50,69,9,8,4,2,0,1,1,0,0, Full Time,job,Minding Hayden down back... %D
+271045,Nic,Naitanui,WC,16,60,69,51,55,73,5,10,2,2,10,1,2,1,0, Full Time,fiji,%P and %T with %s and %F
+240406,Josh J.,Kennedy,WC,4,57,51,42,43,55,8,4,3,3,0,3,0,0,1, Full Time,news,%s from %O on McPharlin then McPhee
+260303,Mitchell,Brown,WC,9,49,62,45,45,63,4,11,4,2,0,1,2,0,0, Full Time,sore,%P and %T... tweaked his right hamstring in Q3
+280441,Patrick,McGinnity,WC,7,49,81,33,46,66,7,11,3,1,0,2,3,0,0, Full Time,job,Minding Ballantyne... %P and %M with %F
+261290,Chris,Masten,WC,3,29,33,32,24,33,1,6,2,2,0,0,0,0,0, Full Time,sore,%P including %b by hand... left ankle restrapped at half time after a Q2 knock
+250317,Eric,MacKenzie,WC,3,26,32,23,21,30,3,3,2,2,0,0,1,0,0, Full Time,job,Following Pavlich... %D
+261214,Will,Schofield,WC,2,22,10,18,21,30,3,3,3,1,0,0,2,0,0, Full Time,job,Standing Johnson... %P

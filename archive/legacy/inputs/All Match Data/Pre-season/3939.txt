@@ -1,0 +1,54 @@
+Western Sydney,Giants,Richmond,Tigers,GF,8.18.66,20.20.140, Full Time
+Mar 17,2012,12.30,Manuka,,,10330404,,40,Cloudy,22,,
+
+<em>Masten</em>: 6<br><em>insano</em>: how many goals did jack end up with ?<br><em>brynpower</em>: cool.<br><em>E Kavastar</em>: We'll continue this in the Dogs/Cats game&#044; brynpower?<br><em>brynpower</em>: just as DT figure varies&#044; it's just that in SC they normalise it to 10 million<br><em>brynpower</em>: Kavastar - Supercoach cap only APPEARS 10 million - as I said&#044; this is a NORMALISED figure - it varies from year to year<br><em>FTroopCapt</em>: Only Batchelor finished under 10 touches for the Tiges....<br><em>brynpower</em>: Kavastar - I explained that - new team this year but the Salary Cap actually changed (increased) this year.<br><em>FTroopCapt</em>: 20.20 - I know what needs some work at training....<br><em>MattAttack</em>: ok&#044; so i'm set on boyd and mitchell&#044; but i need a super premium. Having second thoughts about ablett. Help me out!<br><em>E Kavastar</em>: Jawdan: I finished 507 overall last year mate&#044; and was in the top 24 until Round 8 in 2010. I go alright<br><em>E Kavastar</em>: I'm talking #supercoach bryne&#044; haha&#044; where the cap is always 10 million<br>
+280109,Callan,Ward,WS,25,126,-,161,100,135,18,13,7,5,4,2,1,0,2, Full Time,,,,,83
+261841,Jonathan,Giles,WS,27,102,-,123,89,103,13,2,8,0,21,1,0,2,1, Full Time,,,,,89
+26,Adam,Kennedy,WS,20,97,-,126,78,102,15,7,10,2,0,0,0,0,0, Full Time,,,,,88
+4,Will,Hoskin-Elliott,WS,19,78,-,101,61,79,13,3,6,2,1,0,0,1,0, Full Time,,,,,66
+970130,James,McDonald,WS,13,75,-,92,65,85,8,12,7,1,1,1,0,0,0, Full Time,,,,,75
+13,Devon,Smith,WS,21,73,-,92,56,69,9,2,2,4,0,2,0,3,0, Full Time,,,,,83
+291891,Jacob,Townsend,WS,10,70,-,94,50,66,10,3,4,5,0,2,0,0,0, Full Time,,,,,83
+8,Adam,Tomlinson,WS,13,68,-,90,55,72,11,4,7,2,0,1,1,0,0, Full Time,,,,,87
+291802,Tomas,Bugg,WS,8,64,-,81,51,66,13,5,4,0,0,3,0,0,0, Full Time,,,,,90
+10,Toby,Greene,WS,10,55,-,69,43,57,8,5,2,2,0,1,0,1,0, Full Time,,,,,48
+2,Stephen,Coniglio,WS,5,54,-,71,42,54,8,3,5,2,0,1,0,0,0, Full Time,,,,,39
+3,Dom,Tyson,WS,3,49,-,62,37,54,6,8,1,3,0,0,0,0,0, Full Time,,,,,83
+17,Tim,Mohr,WS,4,48,-,62,39,51,9,3,5,0,0,0,0,0,0, Full Time,,,,,96
+280804,Phil,Davis,WS,4,48,-,60,40,54,8,6,4,0,0,0,0,0,0, Full Time,,,,,95
+291492,Josh,Bruce,WS,4,45,-,58,36,48,7,4,4,1,0,0,0,0,0, Full Time,,,,,92
+293845,Jeremy,Cameron,WS,9,44,-,56,41,49,7,2,5,0,0,3,2,1,1, Full Time,,,,,87
+261374,Sam,Reid,WS,3,40,-,50,31,45,3,8,1,3,0,0,0,0,0, Full Time,,,,,73
+290765,Sam,Darley,WS,3,35,-,44,30,39,3,5,4,1,0,0,0,0,0, Full Time,,,,,46
+31,Nathan,Wilson,WS,8,35,-,40,31,39,4,4,1,0,0,0,0,2,0, Full Time,,,,,45
+280969,Tom,Scully,WS,3,31,-,38,28,39,5,6,2,0,0,1,1,0,0, Full Time,,,,,44
+980059,Chad,Cornes,WS,3,26,-,33,25,33,3,4,4,0,0,0,1,0,0, Full Time,,,,,41
+290306,Curtly,Hampton,WS,2,23,-,32,22,34,7,2,2,0,0,0,3,0,1, Full Time,,,,,84
+15,Israel,Folau,WS,1,21,-,27,17,22,4,1,0,1,4,2,1,0,0, Full Time,,,,,85
+260290,Stephen,Clifton,WS,1,21,-,28,15,21,2,2,1,2,0,0,0,0,0, Full Time,,,,,54
+9,Liam,Sumner,WS,0,5,-,7,6,9,1,1,1,0,0,0,1,0,0, Full Time,,,,,43
+250395,Jack,Riewoldt,RI,50,146,-,182,129,157,15,7,13,4,0,1,3,6,4, Full Time,,,,,94
+240336,Brett,Deledio,RI,29,140,-,169,116,150,18,15,5,3,0,2,0,4,3, Full Time,,,,,65
+250623,Robin,Nahas,RI,27,124,-,154,103,134,15,13,9,3,0,0,0,2,2, Full Time,,,,,89
+240130,Nathan,Foley,RI,38,117,-,150,89,121,12,13,5,8,0,1,0,1,1, Full Time,,,,,76
+250298,Shaun,Grigg,RI,25,102,-,129,85,118,19,11,6,1,0,0,2,1,1, Full Time,,,,,80
+200109,Shane,Tuck,RI,27,99,-,126,79,109,6,17,5,8,1,2,1,0,0, Full Time,,,,,76
+210048,Chris,Newman,RI,14,91,-,118,72,96,17,6,8,1,0,0,0,0,0, Full Time,,,,,76
+023785,Steven,Morris,RI,19,90,-,111,77,103,13,13,8,0,0,0,0,0,1, Full Time,,,,,84
+270833,Addam,Maric,RI,20,89,-,110,75,96,14,7,7,0,0,0,0,2,0, Full Time,,,,,89
+250312,Bachar,Houli,RI,14,83,-,99,72,99,9,18,5,1,0,1,0,0,0, Full Time,,,,,84
+261362,Alex,Rance,RI,9,74,-,95,60,81,14,7,5,1,0,2,1,0,0, Full Time,,,,,97
+240707,Daniel,Jackson,RI,15,71,-,91,56,72,11,4,5,2,0,1,0,1,0, Full Time,,,,,81
+270896,Trent,Cotchin,RI,12,71,-,90,55,82,16,9,1,1,0,0,1,0,1, Full Time,,,,,77
+220071,Brad,Miller,RI,15,64,-,81,55,66,7,3,8,1,0,0,0,1,3, Full Time,,,,,98
+290847,Dustin,Martin,RI,13,64,-,80,50,76,8,13,0,4,0,0,1,0,1, Full Time,,,,,80
+260930,Shane,Edwards,RI,14,59,-,72,48,64,7,8,2,2,0,1,0,1,1, Full Time,,,,,79
+293713,Brandon,Ellis,RI,8,56,-,70,51,72,9,10,5,0,0,0,2,0,0, Full Time,,,,,56
+270941,Tyrone,Vickery,RI,10,52,-,64,47,58,7,4,5,0,3,1,1,1,1, Full Time,,,,,93
+270954,Andrew L.,Browne,RI,5,47,-,56,43,50,4,3,5,0,14,0,0,0,0, Full Time,,,,,45
+240546,Ivan,Maric,RI,6,45,-,53,41,54,2,8,2,2,12,0,1,0,0, Full Time,,,,,47
+270315,Jayden,Post,RI,8,45,-,55,43,60,6,10,4,0,0,1,2,0,0, Full Time,,,,,93
+280819,Dylan,Grimes,RI,7,44,-,57,38,54,10,5,3,0,0,1,2,0,0, Full Time,,,,,95
+291437,Jake,Batchelor,RI,2,25,-,32,20,27,5,2,2,0,0,0,0,0,0, Full Time,,,,,46
+271437,Jake,King,RI,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,0
+291835,Matthew,Arnot,RI,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,0

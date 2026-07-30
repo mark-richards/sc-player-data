@@ -1,0 +1,48 @@
+Adelaide,Crows,Sydney,Swans,EF,5.12.42,11.5.71, Full Time
+Sep 8,2012,3:15,Footy Park,Seven,270963,10350102,430207,0,Windy,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='margin-bottom:-2px'><b class="ticon tAD"></b> tbagrocks</em>: well Swans v Collingwood maybe? repeat of the Stadium Australia clash<br><em style='margin-bottom:-2px'><b class="ticon tFR"></b> NewFreoFan</em>: The banjo in the swans song cracks me up haha<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> Grazz</em>: Not good tbag&#044; well done Sydney best of luck.<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> tbagrocks</em>: Josh was great in my SC Sloaney<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> mx187</em>: YES unlucky Grazz and Tbag&#044; good luck next week<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> tbagrocks</em>: no it's good today Grazzy<br><em style='margin-bottom:-2px'><b class="ticon tFR"></b> NewFreoFan</em>: Bombers would be regretting losing Richards I reckon<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> Sloaneyyyy</em>: why couldn't j p k do that for me during the year<br><em>Murf2Gibbs</em>: Better be close tonight <br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> Grazz</em>: @tbag should do the same&#044; isnt here a delay<br><em style='margin-bottom:-2px'><b class="ticon tFR"></b> NewFreoFan</em>: Danger on board the concussion train<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> Joe B</em>: Danger= marshmallow icon. Nothing in that.<br>
+210016,Scott,Thompson,AD,31,110,104,146,82,116,18,10,2,8,0,5,3,0,2, Full Time,hot,%2 O'Keefe... %O and %T... also %s and %F,,
+270963,Rory,Sloane,AD,21,103,112,131,80,108,15,9,5,4,3,0,0,1,0, Full Time,hot,%O and %T with %M,,
+200092,Michael,Doughty,AD,25,100,89,127,85,114,13,13,10,2,0,0,1,0,0, Full Time,hot,%P and %M with %T,job,Minding Jetta
+220086,Brent,Reilly,AD,14,92,119,117,76,99,14,9,9,1,0,1,0,0,0, Full Time,news,%O including %k by foot.. also %M,job,Responsible for McVeigh
+220093,Ben,Rutten,AD,19,89,101,117,69,90,10,7,8,5,0,1,0,0,0, Full Time,job,On the resting ruck which is mostly Pyke... %O and %M with %T,,
+250362,David,Mackay,AD,9,81,87,101,66,89,15,9,5,0,0,1,0,0,2, Full Time,news,%P and %M plus %s,,
+210056,Graham,Johncock,AD,22,79,73,106,59,79,10,3,5,6,0,0,1,1,1, Full Time,news,%P and %T with %M on Johnson,,
+261142,Bernie,Vince,AD,8,75,91,94,59,82,14,9,3,1,0,1,0,0,1, Full Time,news,%O and %M plus %s,,
+270917,Patrick,Dangerfield,AD,9,71,73,89,58,78,11,10,3,2,0,4,1,0,0, Full Time,sore,%2 Jack... %O and %M with %T... ran his jaw into Bolton's arm late in Q4,,
+261384,Matthew,Wright,AD,8,67,66,85,54,75,9,10,3,3,0,2,1,0,0, Full Time,news,Started in the guts... %P and %T plus %M,,
+240370,Richard,Douglas,AD,9,62,59,83,47,66,13,3,4,2,0,0,1,0,0, Full Time,news,%P and %M,,
+250118,Nathan,van Berlo,AD,15,62,53,80,49,66,7,6,3,4,0,1,1,1,0, Full Time,news,%P and %T plus %M... also %s,,
+291748,Brodie,Smith,AD,8,59,83,75,48,69,13,7,3,0,0,0,1,0,0, Full Time,news,%D and %M,,
+270811,Sam,Jacobs,AD,14,56,62,66,49,60,3,4,1,3,27,0,1,0,0, Full Time,news,%H and %P with %T,,
+261857,Ian,Callinan,AD,10,49,61,63,37,48,8,2,2,2,0,1,0,1,0, Full Time,news,%D and %T on Malceski,subbed,Subbed off in Q4 for Riley
+280506,Taylor,Walker,AD,10,46,53,55,45,56,5,6,4,0,2,2,2,1,3, Full Time,news,Booted %s from %G and %O on Richards,,
+270742,Kurt,Tippett,AD,4,42,50,52,37,46,5,3,3,1,10,1,1,0,0, Full Time,news,%P on Roberts-Thomson... also %H,,
+230174,Jason,Porplyzia,AD,3,32,33,45,26,42,6,4,1,3,0,0,3,0,0, Full Time,news,%D and %T on Smith,,
+261138,Jared,Petrenko,AD,2,24,11,32,16,22,4,1,0,2,0,1,0,0,1, Full Time,news,%s from %O on Shaw,,
+280934,Daniel,Talia,AD,2,24,32,30,21,27,3,3,3,0,0,0,0,0,0, Full Time,longterminjured,Right arm knock in Q4 which looked like a break... %D and %M,job,Following Goodes
+290211,Sam,Shaw,AD,1,22,36,26,19,24,3,4,1,0,0,2,0,0,0, Full Time,job,On Reid... %D,,
+291402,Aidan,Riley,AD,0,15,19,20,11,15,2,1,1,1,0,0,0,0,0, Full Time,news,On in Q4 for Callinan,sub,Started as a sub
+200071,Ryan,O'Keefe,SY,38,140,163,82,106,149,26,11,4,8,1,6,4,0,1, Full Time,star,%2 Thompson... %P and %T with %M... also %4FF and %F,,
+260382,Josh P.,Kennedy,SY,42,133,147,114,108,151,13,22,6,7,0,0,1,1,1, Full Time,gun,%B among %D with %T,,
+980073,Adam,Goodes,SY,26,108,146,82,89,114,13,9,7,3,0,0,0,3,0, Full Time,hot,First goal... %s from %P and %M on Talia... also %T,,
+200023,Rhyce,Shaw,SY,19,94,93,62,76,105,14,13,6,2,0,0,0,0,0, Full Time,news,%P and %T with %M,job,Responsible for Petrenko
+230132,Nick,Malceski,SY,15,87,104,52,63,87,16,4,5,4,0,0,0,0,0, Full Time,job,Minding Callinan... %P and %T,,
+220063,Martin,Mattner,SY,14,86,87,45,65,87,17,4,6,2,0,1,0,0,0, Full Time,news,Loose in defence early... %D and %M,,
+240226,Kieren,Jack,SY,14,83,57,48,61,87,16,5,3,5,0,2,2,0,0, Full Time,news,%2 Dangerfield... %D and %T,,
+290117,Daniel,Hannebery,SY,19,78,70,59,68,102,10,17,3,4,0,1,4,0,0, Full Time,news,%D and %M,,
+240412,Mitch,Morton,SY,17,75,93,70,63,82,6,8,5,4,0,0,1,2,1, Full Time,x-factor,%s from %P and %M,in,%l Tommy Walsh
+230253,Jarrad,McVeigh,SY,10,72,93,62,63,90,7,15,5,3,0,0,2,0,0, Full Time,news,Started forward on Reilly... %O and %M.. also %T and %F,,
+281281,Lewis,Jetta,SY,16,71,81,43,59,79,12,4,4,2,0,0,2,2,1, Full Time,ghost,%s from %O and %M on Doughty playing deep forward,,
+990011,Jude,Bolton,SY,15,67,67,65,49,69,6,8,2,7,0,2,1,0,0, Full Time,news,%P and %T with %M,,
+210027,Ted,Richards,SY,9,66,98,39,55,75,11,9,4,1,0,2,1,0,0, Full Time,job,Has Walker... %O and %M,,
+280762,Shane,Mumford,SY,25,63,88,75,53,67,0,8,0,6,25,1,1,0,0, Full Time,news,%H and %D with %T,,
+230140,Ben,McGlynn,SY,11,61,52,39,49,64,10,3,4,2,0,1,1,1,1, Full Time,injured,%s from %D and %M... right hamstring iced up in Q3,subbed,Subbed off in Q3 for Parker
+250338,Nick,Smith,SY,8,60,97,41,45,63,9,7,2,3,0,1,0,0,0, Full Time,porpoise,Chasing Porplyzia... %O and %T,,
+261212,Craig,Bird,SY,8,58,65,44,47,66,7,10,3,2,0,0,0,0,0, Full Time,news,%D and %M,,
+291450,Alex,Johnson,SY,5,52,59,40,41,54,7,4,5,2,0,0,0,0,0, Full Time,job,On Johncock... %O and %M,,
+290188,Samuel,Reid,SY,15,51,64,49,41,57,4,7,2,4,0,0,1,1,0, Full Time,news,%s from %D on Shaw... also %T,,
+291206,Mike,Pyke,SY,5,49,45,45,41,51,4,4,4,2,9,0,0,0,0, Full Time,canada,%H and %D with %T,,
+220089,Lewis,Roberts-Thomson,SY,2,29,47,15,23,33,6,2,2,1,0,0,1,0,0, Full Time,job,Standing Tippett... %P and %M,,
+290788,Luke,Parker,SY,6,15,17,14,12,15,1,1,0,1,0,0,0,1,0, Full Time,news,On in Q3 for McGlynn... %P and %s,sub,Started as a sub

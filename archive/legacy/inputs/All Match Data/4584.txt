@@ -1,0 +1,48 @@
+Geelong,Cats,Sydney,Swans,R22,13.14.92,7.6.48, Full Time
+Aug 24,2013,4.40,Kardinia,Seven,200034,10392204,geel-v-syd,0,Scattered showers,16,,
+
+<em style='color:#000'>TrevorCh</em>: you are a boss matthius<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tBL"></b> gunners23</em>: i hate rok<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGE"></b> johnkay</em>: Good score Jelwood<br><em style='color:#000'>bixler</em>: Stunned Selwood was third highest SC&#044; impact on game was not there<br><b class="picon i_spud" title="matthius is a spud"></b> matthius: well played sydney<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> hardballge</em>: lol<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tFR"></b> NewFreoFan</em>: matthius supports potatoes :)<br><em style='color:#000'>Bort</em>: monty at his best <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> hardballge</em>: See ya the Blues vs Ess caht :D<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> riskii</em>: @matthius get back n the ground where you belong you spud<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: your icon says it all matthius<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tFR"></b> NewFreoFan</em>: And I'm happy. With my Geelong players anyway. Jack&#044; JPK&#044; i wish i could trade you<br>
+220054,Steve,Johnson,GE,37,132,134,164,108,138,16,10,6,5,0,2,1,4,3, Full Time,x-factor,%2 Jack then got Bird in Q3.... %D and %T plus %M and a crucial %s,,,555300,109,554500,138,Forward Centre,20,14,119.9,115.6,38.35,30.00
+281065,Mitch,Duncan,GE,32,128,120,165,100,135,16,14,9,6,0,1,0,0,0, Full Time,hot,%P and %M with %T,,,372000,143,365600,139,Centre,22,20,86.3,78.5,0.89,1.06
+200035,Corey,Enright,GE,30,124,126,160,98,132,16,13,10,5,0,0,0,0,0, Full Time,star,%P and %T with %M,job,Responsible for McGlynn,420500,105,472400,115,Back,44,19,88.9,94,15.64,8.76
+230214,Mathew,Stokes,GE,31,118,141,144,94,138,10,27,2,7,0,0,0,0,0, Full Time,hot,Tagged by Bird in the first half then freed up... %P including %B... also %T,,,400800,50,424100,73,Forward,27,19,92.9,94.6,11.18,5.72
+220058,James,Kelly,GE,31,116,115,153,81,118,17,11,2,9,0,0,0,0,1, Full Time,hot,%2 Kennedy... %P and %T plus %s,,,435900,93,427900,87,Centre,9,15,95,89.8,0.38,0.39
+250321,Joel,Selwood,GE,27,110,131,138,86,112,14,10,2,6,3,5,1,2,1, Full Time,gun,%2 Hannebery... %P and %T with %M and %s,,,564600,75,633400,89,Centre,14,20,106.7,117.4,23.89,31.19
+280990,Steven,Motlop,GE,25,100,92,124,82,102,12,7,6,3,0,2,0,3,0, Full Time,heart,%s from %O and %T on Shaw then got Smith in Q1 after Shaw got injured... right hamstring tweak in Q4,,,372000,96,476000,73,Forward,32,19,75.8,84.8,5.02,4.70
+200034,Joel,Corey,GE,45,97,91,128,72,102,7,13,4,10,0,1,1,0,0, Full Time,news,%O and %T with %M,job,On a HBF on Mitchell,353900,46,419900,78,Centre,11,17,78,83.8,0.74,0.87
+261497,Harry,Taylor,GE,20,97,103,129,76,102,15,6,9,4,0,0,1,0,0, Full Time,news,%M and %D with %T,job,Standing Tippett,348100,65,451500,116,Back,7,19,78.2,93.8,6.40,9.63
+230248,Andrew,Mackie,GE,13,90,68,117,72,97,18,6,7,1,0,1,1,0,1, Full Time,news,%D and %M,,,382800,46,443800,39,Back,4,20,82.7,88.4,6.46,4.76
+280918,Allen,Christensen,GE,15,87,91,110,70,96,9,14,4,5,0,3,1,0,0, Full Time,news,%O and %M,,,425900,63,468500,51,Forward Centre,28,16,86.8,92.1,1.93,2.27
+220007,Jimmy,Bartel,GE,15,84,88,110,72,99,12,10,8,3,0,1,3,0,0, Full Time,news,%O and %M,job,In defence with O'Keefe on him,385400,85,452800,85,Forward Centre,3,19,93.5,104.5,33.45,38.60
+250290,Travis,Varcoe,GE,24,82,68,106,66,85,8,7,6,5,0,2,1,1,1, Full Time,news,Malceski on him... %O and %T,,,248800,46,273100,50,Forward Centre,5,9,51.2,53.6,7.37,7.16
+290550,Cameron,Guthrie,GE,14,79,79,98,67,87,8,12,7,2,0,2,0,0,0, Full Time,news,%O and %M,job,In defence on Rohan,254500,35,287100,21,Back,29,16,54.1,57.7,1.26,2.05
+296733,Mark,Blicavs,GE,11,73,69,93,56,73,7,5,3,5,11,0,0,0,2, Full Time,news,%s from %D and %T starting forward on Rampe... %H as well,,,304000,63,343200,67,Centre Ruck,46,17,60.6,67.4,14.13,18.47
+200131,James,Podsiadly,GE,19,72,50,92,60,79,8,7,6,3,0,0,1,1,1, Full Time,news,%s from %D and %M with %T on Grundy,,,357900,75,364800,79,Forward,31,18,76.6,79.1,1.20,1.44
+230125,Tom,Lonergan,GE,10,67,63,89,50,66,7,5,5,5,0,1,0,0,0, Full Time,job,On White... %P and %T,,,155500,27,177000,28,Back,13,20,37.4,44.8,2.47,2.35
+230250,Jared,Rivers,GE,10,66,68,86,50,69,6,8,4,5,0,0,0,0,0, Full Time,job,Has the resting ruck which is mostly Pyke... %D and %T with %M,,,208700,40,272700,63,Back,25,5,39.6,48.4,0.77,0.66
+200039,Paul,Chapman,GE,15,59,61,75,47,66,6,8,2,4,0,0,1,1,0, Full Time,news,On as concussion sub for Vardy in Q1 for nine touches and a goal then off again until Q4 when subbed on for Hawkins... %O and %s,sub,Started as a sub,473700,147,512800,153,Forward Centre,35,4,88.5,100,2.40,1.51
+290623,Josh,Caddy,GE,7,49,51,58,44,61,5,12,2,1,1,2,1,0,0, Full Time,news,%P starting forward again,,,337300,70,332500,92,Centre,23,14,63.3,59.4,1.70,3.24
+261510,Tom,Hawkins,GE,3,35,26,45,29,36,6,1,4,0,0,0,0,0,3, Full Time,news,Kicked %s from %D and %G on Richards,subbed,Subbed off at 3QT for Chapman,263100,97,340900,132,Forward,26,18,58.7,70.5,3.26,4.35
+280959,Nathan,Vardy,GE,7,28,30,33,25,30,3,1,0,1,9,1,1,1,0, Full Time,concussed,Copped the knee of Mumford to his head in Q1 and broke his nose when falling to the turf... concussion sub in Q1 for Chapman but returned later in the quarter... %H and %P plus %s,sore,Left adductor issue in Q2,260300,59,337100,68,Ruck,30,6,61.2,75.2,4.79,5.89
+230253,Jarrad,McVeigh,SY,19,94,131,63,74,111,14,17,1,5,0,1,2,0,0, Full Time,news,%O,,,450100,79,502600,86,Centre,3,20,98.3,105.8,3.45,2.73
+290117,Daniel,Hannebery,SY,20,92,83,71,77,103,11,12,6,3,0,1,1,1,1, Full Time,heart,%2 Selwood... %D including %B with %M and %T plus %s... right knee knock in Q2 and was in a lot of pain but returned after ten minutes with no strapping,,,363600,135,432400,143,Centre,4,20,88.8,96,5.37,8.05
+260382,Josh P.,Kennedy,SY,19,90,89,72,75,112,9,23,1,4,0,0,1,0,1, Full Time,news,%2 Kelly... %D and %s,,,392800,47,458400,56,Centre,12,20,90.9,106.5,8.34,29.84
+291206,Mike,Pyke,SY,26,89,106,79,83,99,6,8,6,1,18,0,1,3,0, Full Time,news,%s from %D starting forward on Rivers... %H,,,316100,48,360900,62,Ruck,38,20,73.8,86.4,4.85,4.19
+240226,Kieren,Jack,SY,18,87,78,54,67,99,14,14,1,4,0,1,1,0,0, Full Time,news,%2 Johnson... %O,,,472300,168,550000,187,Centre,15,20,102.3,110.9,18.26,10.55
+291856,Tom,Mitchell,SY,10,81,65,65,68,95,9,14,5,3,0,0,1,0,2, Full Time,news,Started on a HFF on Corey,,,391600,123,397600,139,Centre,6,10,94.7,90.9,27.61,37.12
+210027,Ted,Richards,SY,14,80,114,51,65,87,13,8,6,2,0,2,1,0,0, Full Time,news,%D and %M,tomahawk,Has Hawkins,227100,33,329500,71,Back,25,20,49,65.7,2.52,2.50
+230132,Nick,Malceski,SY,9,77,91,16,61,87,22,2,5,0,0,1,3,0,0, Full Time,news,%D,job,Varcoe is his man,357000,103,423900,106,Back,9,20,83.6,91.8,11.76,7.63
+280762,Shane,Mumford,SY,26,70,91,85,64,84,0,9,1,7,33,0,4,0,0, Full Time,news,%H and %P with %T... also %F,,,407600,79,490300,92,Ruck,41,17,75.2,88.1,3.83,4.88
+261212,Craig,Bird,SY,18,68,64,57,48,69,8,8,1,6,0,1,0,0,0, Full Time,news,%O and %T,tagger,Tagging Stokes then moved to Johnson in Q3,355900,83,390600,73,Forward Centre,14,18,70.9,73,1.67,1.74
+230140,Ben,McGlynn,SY,11,61,58,47,52,66,7,6,3,2,0,2,1,2,0, Full Time,news,%D on Enright,,,256900,61,328500,92,Forward,21,17,68.6,72.1,0.95,1.24
+200071,Ryan,O'Keefe,SY,9,60,51,60,45,58,5,4,5,5,0,1,0,0,1, Full Time,news,Starting forward in a role on Bartel... %D,,,433800,150,490000,163,Centre,5,20,98.7,104.3,6.95,3.17
+261257,Andrejs,Everitt,SY,8,60,44,44,46,66,8,9,2,3,0,0,0,0,0, Full Time,news,%B among %P,,,287000,68,327000,81,Forward,13,15,59.5,65.1,0.85,0.40
+250212,Jesse,White,SY,10,58,57,52,44,60,6,6,4,4,0,0,0,0,0, Full Time,news,%D on Lonergan,,,275300,38,314900,36,Forward,18,10,60.8,67.4,1.14,0.93
+240072,Heath,Grundy,SY,8,56,74,42,45,63,7,9,3,2,0,0,0,0,0, Full Time,news,%D and %T,ipod,On Podsiadly,244000,53,307500,48,Back,39,20,55.6,65.4,1.64,1.53
+290778,Luke,Parker,SY,8,54,52,34,47,69,9,9,3,2,0,1,3,0,0, Full Time,news,%P,,,385400,101,382600,100,Centre,26,20,86,88,2.24,2.29
+250338,Nick,Smith,SY,9,53,45,42,39,57,8,3,3,5,0,0,2,0,0, Full Time,sore,%O and %T... left knee iced on the sidelines just before HT,job,Moved to Motlop in Q1 after Shaw got injured,289000,122,359100,110,Back,40,20,57.2,67,0.78,0.90
+290307,Dane,Rampe,SY,3,39,41,22,30,42,7,4,2,1,0,0,0,0,0, Full Time,job,Takes the resting ruck which is mostly Blicavs... %P and %M,,,269500,85,308000,81,Centre,43,18,53,61.3,3.35,2.75
+291357,Gary,Rohan,SY,3,38,39,32,29,39,5,2,3,3,0,1,1,0,0, Full Time,news,Starting forward on Guthrie... %P and %M with %T,,,240900,,264800,,Forward,16,1,20,11,0.20,0.29
+270742,Kurt,Tippett,SY,8,33,39,24,29,34,4,2,3,0,0,1,0,1,1, Full Time,news,First goal... %s from %G and %P on Taylor,,,404400,75,479200,59,Forward,8,9,83.3,95.4,5.17,4.92
+291544,Jed,Lamb,SY,3,28,12,27,23,33,3,3,2,3,0,1,2,0,0, Full Time,news,On in Q1 for Shaw... %O,sub,Started as a sub,252200,29,281800,46,Forward,11,11,46.5,48.4,2.86,3.56
+200023,Rhyce,Shaw,SY,0,6,10,0,4,6,2,0,0,0,0,0,0,0,0, Full Time,injured,Responsible for Motlop... %P... right knee injury in Q1,subbed,Subbed off in Q1 for Lamb,290100,30,350400,52,Back,2,5,60.8,72,1.33,1.12

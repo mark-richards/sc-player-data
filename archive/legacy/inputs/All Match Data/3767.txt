@@ -1,0 +1,48 @@
+Collingwood,Magpies,Adelaide,Crows,R9,20.15.135,14.8.92, Full Time
+May 22,2011,1:10,Docklands,Fox Sports,250118,10310906,5529,68,Roof closed,18
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>thebrock</em>: sc scores on here wrong shaw 67&#044; swan 80&#044; didak 33 ffs<br><em>shurg123</em>: Swan 80 SC after scaling.<br><em>gools</em>: shaw?<br><em>biglads</em>: Swan 105 sc<br><em>finch</em>: my whole side has done great this weekend except for my captain thanks very much swanny<br><em>Stoned</em>: pot is  better then krak<br><em>slinks</em>: @SgtCroydon pies always get a good run against the crows<br><em>Scratchy</em>: best quarter of footy i've ever seen an afl side play. <br><em>lil_libba</em>: wake up m0nty and stop jerking off to the hawks game<br><em>pies_36</em>: still have not got my sc scores yet...<br><em>Axel Foley</em>: sc is taking like 50 seconds<br><em>Centurions</em>: shaw sc?<br>
+240359,Dale,Thomas,CO,33,133,151,173,101,132,18,6,8,7,1,0,0,2,2, Full Time,star,%D and %M with %T... also %s,,
+220005,Luke,Ball,CO,33,118,118,149,92,123,12,13,5,7,0,1,0,2,0, Full Time,hot,%O and %M with %T and %s,,
+260257,Scott,Pendlebury,CO,26,103,124,131,84,117,13,14,5,5,0,1,2,1,0, Full Time,hot,%2 Sloane... %O and %M with %T and %s,,
+261799,Sharrod,Wellingham,CO,22,99,94,123,81,108,14,9,4,3,0,0,1,3,0, Full Time,news,%D and %T with %M and %s,,
+220105,Dane,Swan,CO,21,94,80,122,70,94,16,5,4,4,0,1,0,1,1, Full Time,news,Tagged by Douglas in Q1 then freed up... %P and %M plus %T and %s,sore,Corked right thigh in Q2
+271001,Dayne,Beams,CO,20,88,99,112,67,91,13,8,3,4,0,1,0,1,1, Full Time,news,%s from %P and %M... also %T,,
+271128,John,McCarthy,CO,21,84,83,109,68,93,12,8,5,4,0,1,2,1,0, Full Time,news,First goal... %s from %D and %M... also %T,in,Late replacement for Leigh Brown
+210058,Andrew,Krakouer,CO,21,80,87,101,70,92,10,6,5,3,0,0,3,3,2, Full Time,news,Doughty on him... moved to midfield in Q2... %s from %O with %M and %F,,
+280965,Steele,Sidebottom,CO,14,80,86,106,59,80,11,5,5,5,0,0,0,0,2, Full Time,news,%s from %P and %M on Jaensch... also %T,,
+240232,Ben,Reid,CO,13,78,100,102,63,78,13,3,9,1,0,2,0,0,0, Full Time,news,%M and %D,job,On Tippett
+980023,Chris,Tarrant,CO,15,75,81,91,63,81,10,8,4,1,0,1,0,2,0, Full Time,switch,Standing McKernan... %M and %O... switched forward in Q4 for %s,,
+200019,Leon,Davis,CO,10,73,87,93,57,78,12,8,4,2,0,1,0,0,0, Full Time,job,Minding Wright... %O and %M with %T,,
+250683,Simon,Buckley,CO,18,72,85,90,60,78,10,7,6,1,0,0,0,1,0, Full Time,job,Chasing Knights... %P and %M plus %s,,
+260394,Chris,Dawes,CO,16,72,77,88,59,75,5,8,3,4,3,1,0,2,0, Full Time,news,Sellar on him... no touches in Q1... %s from %D and %G with %T,,
+240300,Cameron,Wood,CO,10,65,63,78,54,66,5,4,2,3,24,0,0,0,0, Full Time,news,%H and %D with %T and %M,,
+240700,Heath,Shaw,CO,18,63,67,79,55,72,10,6,6,0,0,0,1,1,0, Full Time,news,Collingwood not succeeding in getting him loose early... %D and %M plus %s,,
+260246,Tyson,Goldsack,CO,10,61,61,82,44,57,9,2,4,4,0,2,0,0,0, Full Time,news,%D and %T with %M,job,Has Henderson
+230263,Nick,Maxwell,CO,9,60,59,80,51,67,9,4,7,2,0,1,2,0,1, Full Time,switch,Started forward on Luke Thompson... switched back in Q3... %s from %P and %M with %T,,
+240073,Harry,O'Brien,CO,9,50,63,68,44,63,10,5,4,2,0,2,4,0,0, Full Time,job,Minding Dangerfield... %O and %M with %T,,
+240366,Travis,Cloke,CO,4,48,58,63,37,48,9,1,4,1,1,0,0,0,2, Full Time,news,Booted %s from %G and %O on Rutten,,
+210003,Alan,Didak,CO,1,30,33,38,23,33,5,4,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Blair... %P,sub,Started as a sub
+280104,Jarryd,Blair,CO,1,30,38,37,24,34,4,5,1,1,0,0,0,0,1, Full Time,news,%s from %D on Johncock,subbed,Subbed off in Q3 for Didak
+210016,Scott,Thompson,AD,16,108,113,47,83,118,23,10,4,2,0,1,1,0,1, Full Time,gun,%O with %k by foot... also %M,,
+240032,Chris,Knights,AD,20,94,76,64,74,98,14,7,6,3,0,0,0,1,2, Full Time,news,%s from %K among %O with %M and %T on Buckley... quiet first half but lifted in Q3,,
+270811,Sam,Jacobs,AD,34,88,93,86,80,93,4,5,4,3,45,0,1,0,0, Full Time,news,%H and %P plus %M,,
+200092,Michael,Doughty,AD,15,87,115,61,66,87,13,7,5,4,0,3,0,0,0, Full Time,news,%D and %T with %M,job,Has Krakouer
+270963,Rory,Sloane,AD,26,87,86,78,67,90,8,9,3,6,0,0,0,2,0, Full Time,news,%2 Pendlebury... %D and %T with %M plus %s,,
+240370,Richard,Douglas,AD,19,84,83,62,57,79,13,3,3,7,0,1,0,0,1, Full Time,news,Started tagging Swan then moved into different roles... %P and %M with %T and %s,,
+261351,Matthew,Jaensch,AD,14,83,86,52,61,87,14,8,3,4,0,0,0,0,0, Full Time,job,Minding Sidebottom... %P and %T with %M,,
+261384,Matthew,Wright,AD,19,83,85,69,64,85,9,9,3,5,0,2,0,1,1, Full Time,news,%s from %P and %T on Davis... also %M,,
+291748,Brodie,Smith,AD,15,81,84,65,66,88,9,10,5,3,1,0,0,1,0, Full Time,news,%D and %M with %T and %s,,
+220086,Brent,Reilly,AD,13,75,79,47,56,84,13,9,1,5,0,1,2,0,0, Full Time,news,%D and %T,,
+250118,Nathan,van Berlo,AD,14,73,73,58,59,81,8,11,3,3,0,0,0,1,0, Full Time,news,%O and %M plus %T and %s,,
+220093,Ben,Rutten,AD,9,57,66,46,46,60,7,5,6,2,0,0,0,0,0, Full Time,job,Following Cloke... %D and %T with %M,sore,Right shoulder knock in Q1
+250418,James,Sellar,AD,13,55,48,54,42,54,5,3,6,4,0,0,0,0,0, Full Time,job,In defence on Dawes... %M and %P with %T,,
+270742,Kurt,Tippett,AD,15,54,59,36,50,63,8,1,4,1,2,0,3,3,1, Full Time,news,Booted %s from %P and %G on Reid,,
+270917,Patrick,Dangerfield,AD,9,50,63,32,43,54,7,5,1,1,0,3,1,2,0, Full Time,cold,Deep forward with O'Brien on him... %s from %D,,
+291351,Jack,Gunston,AD,10,48,36,43,39,51,5,3,4,3,0,0,1,1,0, Full Time,news,%P and %M with %T and %s,,
+261263,Chris,Schmidt,AD,9,44,38,32,39,51,5,7,3,0,0,0,0,1,0, Full Time,news,%s from %O and %M,subbed,Subbed off at 3QT for Tambling
+210056,Graham,Johncock,AD,3,38,64,21,33,48,7,6,2,1,0,1,2,0,0, Full Time,job,Running off Blair... %P and %F,,
+280038,Shaun,McKernan,AD,8,35,39,24,34,43,5,1,2,1,15,1,3,0,1, Full Time,news,Mostly forward on Tarrant but also rucking... %P and %H,,
+280949,Luke,Thompson,AD,2,35,51,17,26,36,7,3,1,1,0,1,0,0,0, Full Time,job,Standing Maxwell... %D and %T,,
+291201,Ricky,Henderson,AD,7,33,57,21,28,37,5,3,1,1,0,1,1,1,1, Full Time,news,Goldsack on him... %s from %O,,
+230216,Richard,Tambling,AD,0,10,12,12,8,12,0,3,0,1,0,0,0,0,0, Full Time,news,On in Q4 for Schmidt,sub,Started as a sub

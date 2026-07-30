@@ -1,0 +1,48 @@
+Fremantle,Dockers,Geelong,Cats,R1,16.9.105,15.11.101, Full Time
+Mar 31,2012,7:45,Subiaco,Seven,200039,10340106,430013,0,Fine,30,,
+
+<em>Kraz</em>: broughton is gone if he is a tagger next week...I got rid of birchall for that douche<br><em>Fringer</em>: umpire umpire umpire <br><em>cptFantasy</em>: Fyfe's a scruffy DTer<br><em>bernieV</em>: floweren broughton<br><em>voyager</em>: yeah I am kidding d---khead<br><em title="UB6IB9">ub6ib9</em>: a<br><em title="UB6IB9">ub6ib9</em>: 2218 from 20 with boyd captain and cox left<br><em>Zombie2.5</em>: mzungu&#044; nice score&#044; smedts cmon u can do better&#044; jelwood shoulda got 120&#044; 32 touches! and fyfey wat a star<br><em>GoPies:D</em>: broughton ur a flowern dud<br><em>decapp</em>: well well sandi pants<br><em>winty</em>: Freo won their grand final going by the fan's reaction.<br><em>chadsta112</em>: Broughton you are a joke.<br>
+291570,Nathan,Fyfe,FR,38,124,109,164,100,141,20,10,6,7,0,1,5,2,0, Full Time,star,%2 Corey... %s from %D and %M... also %T,,
+271015,Matthew,de Boer,FR,25,97,97,123,78,100,11,9,7,4,0,2,0,1,1, Full Time,news,%s from %D and %M on Mackie,,
+280726,Tendai,Mzungu,FR,26,96,92,125,69,97,15,7,2,6,0,0,0,1,1, Full Time,zimbabwe,%D with %k by foot... also %T,,
+260069,Hayden,Ballantyne,FR,20,91,105,115,68,89,15,5,1,4,0,3,0,2,2, Full Time,heart,%2 Kelly... %s from %O and %T,reported,An off the ball hit on Chapman in Q1 will be looked at
+220096,Aaron,Sandilands,FR,21,90,113,102,86,104,6,13,4,1,32,4,2,0,0, Full Time,news,%H and %D with %M,,
+240139,Paul,Duffield,FR,15,86,90,115,63,90,15,6,4,5,0,0,1,0,0, Full Time,news,%K among %P with %T,,
+250268,Garrick,Ibbotson,FR,15,84,91,107,67,92,11,11,4,4,0,2,1,0,2, Full Time,news,%B among %D with %T and %s,,
+200032,Matthew,Pavlich,FR,21,83,97,104,71,93,10,7,5,3,0,0,2,3,0, Full Time,x-factor,First goal... %s from %P and %G on Lonergan,,
+230107,Michael,Johnson,FR,13,80,91,103,67,93,15,9,6,1,0,1,2,0,0, Full Time,news,%O and %M,,
+230048,Ryan,Crowley,FR,15,74,81,94,65,93,7,15,5,4,0,1,3,0,0, Full Time,tagger,Moved from Johnson to Chapman in Q2... %O and %T with %M... also %F,,
+290251,Zachary,Clarke,FR,17,73,79,90,64,76,7,4,6,2,6,2,1,2,1, Full Time,news,%s from %P and %G on Scarlett at FF,,
+270908,Nick,Suban,FR,12,69,75,90,51,75,10,9,1,5,0,1,1,0,0, Full Time,sore,%D and %T... right ankle knock in Q3,job,Responsible for Stokes
+200045,Luke,McPharlin,FR,10,67,88,88,54,69,7,5,8,3,0,0,0,0,0, Full Time,tomahawk,Has Hawkins... %D and %M with %T,,
+280416,Chris,Mayne,FR,13,67,64,85,52,72,5,11,3,5,0,1,0,0,0, Full Time,news,%O and %T,,
+280336,Stephen,Hill,FR,8,60,70,76,48,69,10,9,2,2,0,1,1,0,0, Full Time,sore,%P... right quad soreness in Q3,,
+261756,Greg,Broughton,FR,8,59,57,77,42,60,7,7,1,5,0,1,0,0,0, Full Time,job,Moved onto Johnson in Q2... %P and %T,,
+230011,Kepler,Bradley,FR,9,56,77,67,47,58,7,6,2,1,4,3,0,1,0, Full Time,news,Booted %s from %G and %P on Taylor,,
+291560,Josh,Mellington,FR,19,55,65,70,43,51,4,1,1,5,0,3,1,3,0, Full Time,news,%s from %P on Smedts,,
+292026,Michael,Barlow,FR,9,52,72,63,42,57,4,9,1,3,0,1,0,1,0, Full Time,news,On in Q3 for Pearce... %P and %s,sub,Started as a sub
+210037,Adam,McPhee,FR,4,40,38,56,32,45,8,1,4,2,0,0,2,0,0, Full Time,news,%D and %M with %T,,
+240552,Zac,Dawson,FR,4,39,63,48,34,49,3,9,2,2,1,0,1,0,0, Full Time,ipod,On Podsiadly... %O,,
+280386,Clancee,Pearce,FR,0,16,15,20,13,18,1,3,1,1,0,0,0,0,0, Full Time,news,%D,subbed,Subbed off in Q3 for Barlow
+250321,Joel,Selwood,GE,20,114,116,74,91,123,17,16,3,4,2,6,1,0,1, Full Time,hot,%O and %M with %T and %s... also %4 frees for,,
+220007,Jimmy,Bartel,GE,27,110,120,78,89,112,15,6,5,4,3,3,1,3,1, Full Time,hot,%D and %s,sore,Copped Pearce's boot on his knee in Q2 trying a smother
+200039,Paul,Chapman,GE,19,105,90,64,78,105,19,5,6,5,0,3,1,0,0, Full Time,creepy,Copped the Crowley tag in Q2... %K among %D with %T and %M,,
+220058,James,Kelly,GE,32,101,115,83,80,117,13,13,5,8,0,1,4,0,0, Full Time,hot,%2 Ballantyne... %D and %T with %M... also %F,,
+230248,Andrew,Mackie,GE,21,91,95,59,70,94,15,5,5,4,0,1,1,1,1, Full Time,news,%D and %T with %M and %s,job,Responsible for de Boer
+200131,James,Podsiadly,GE,16,80,104,58,65,84,11,5,5,3,0,1,1,2,0, Full Time,news,Dawson on him... %s from %G and %D,,
+280990,Steven,Motlop,GE,17,80,87,69,64,81,8,6,5,4,0,1,0,2,0, Full Time,news,%s from %P and %T with %M,,
+261510,Tom,Hawkins,GE,21,76,77,65,67,79,7,2,6,2,2,0,1,4,2, Full Time,news,%s from %D and %T on McPharlin... also %M and %H,,
+200034,Joel,Corey,GE,13,73,61,59,56,79,9,9,3,5,1,1,1,0,0, Full Time,news,%2 Fyfe... %O and %T,,
+281065,Mitch,Duncan,GE,18,73,59,46,61,78,12,4,7,1,0,1,1,1,0, Full Time,news,%s from %P and %M,,
+230214,Mathew,Stokes,GE,13,71,57,53,55,73,10,5,6,3,0,0,0,0,1, Full Time,news,%D and %T with %M on Suban,sore,SMashed by a Dawson bump in Q4
+220054,Steve,Johnson,GE,25,68,58,46,54,78,12,4,2,6,0,3,5,1,0, Full Time,job,Tagged by Crowley in Q1 then got Broughton... %P and %T with %M... also %F,,
+290550,Cameron,Guthrie,GE,14,61,79,64,43,63,4,9,1,7,0,0,0,0,0, Full Time,news,%P and %T,,
+261497,Harry,Taylor,GE,4,51,92,30,38,54,9,5,2,2,0,0,0,0,0, Full Time,job,Has Bradley... %D and %M,,
+290783,Billie,Smedts,GE,13,50,46,52,32,48,4,5,0,7,0,0,0,0,0, Full Time,job,Minding Mellington... %O and %T,,
+260261,Trent,West,GE,4,48,57,43,40,51,4,4,1,3,14,1,1,0,1, Full Time,news,%H and %T,,
+280822,Taylor,Hunt,GE,9,45,70,35,36,49,5,6,1,2,0,0,0,1,1, Full Time,news,%s from %P,,
+980037,Matthew,Scarlett,GE,10,45,35,35,37,57,8,2,4,5,0,0,5,0,0, Full Time,job,Responsible for Clarke... %O and %M with %T,reported,A left jab to Ballantyne's jaw will get weeks
+230125,Tom,Lonergan,GE,4,42,43,31,34,48,6,5,3,2,0,0,1,0,0, Full Time,job,Standing Pavlich... %P and %M with %T,,
+200035,Corey,Enright,GE,3,38,47,19,28,42,8,3,1,2,0,0,1,0,0, Full Time,cold,Showing the effects of a complete lack of preseason action... %O and %T,,
+280918,Allen,Christensen,GE,2,33,48,25,27,36,4,5,2,1,0,1,0,0,0, Full Time,news,On in Q3 for Stephenson,sub,Started as a sub
+261167,Orren,Stephenson,GE,3,22,16,24,21,28,1,2,1,2,10,0,2,0,0, Full Time,news,%H and %D... also %F,subbed,Subbed off in Q3 for Christensen

@@ -1,0 +1,48 @@
+Richmond,Tigers,Collingwood,Magpies,R4,11.13.79,16.17.113, Full Time
+Apr 20,2013,2.10,MCG,Seven,240073,10390403,rich-v-coll,0,Windy and cloudy,19,,
+
+<em title="FLICKCLINT">flickclint</em>: Losers. Grazz old loser<br><em>GeorgeJeff</em>: @windigo 703!! Woahh!<br><em>windigo24</em>: Dwyer WTF happened there? on 30 nek mnnit&#044; 703! <br><em>Grazz</em>: valk boot him<br><em>Grazz</em>: +1 poeticking<br><em>gards</em>: go swanny and dwyer!<br><em>outandover</em>: Both very much!<br><em>spiggs</em>: love that swanny!<br><em>Bluffie</em>: thankss<br><em>slipknot_4</em>: swan 158sc cloke 182 pendles 97<br><em>Grazz</em>: Agreed windi&#044; got me price rise that will have to do&#044; never going to be a great scorer and in and out.<br><em>teachrtony</em>: Sorry 158 now<br>
+270896,Trent,Cotchin,RI,19,101,106,127,81,109,14,13,6,3,0,2,0,0,1, Full Time,hot,%P and %M with %T and %s,,,572000,98,626000,113,Centre,9
+290823,Reece,Conca,RI,18,90,80,119,67,90,13,6,6,5,0,1,0,0,0, Full Time,news,%O and %M with %T,,,385200,46,407200,24,Centre,30
+240546,Ivan,Maric,RI,27,89,101,108,81,101,8,7,5,3,25,1,3,1,1, Full Time,news,%H and %P with %M and %T... also %F and %s,,,485100,119,597600,128,Ruck,20
+250395,Jack,Riewoldt,RI,17,82,93,103,66,81,12,2,5,2,0,1,0,3,0, Full Time,news,First goal... %s from %P and %M on Reid,,,412700,53,488700,67,Forward,8
+240336,Brett,Deledio,RI,14,80,99,97,68,95,8,17,3,3,1,2,1,0,1, Full Time,news,%B among %P with %M,,,560500,93,624300,116,Centre,3
+250312,Bachar,Houli,RI,14,77,99,94,62,87,13,11,2,1,0,0,0,1,0, Full Time,news,%O,,,387300,89,440300,85,Back,14
+250298,Shaun,Grigg,RI,8,72,64,88,59,82,11,11,3,1,2,0,0,0,2, Full Time,news,%D and %M,,,489500,120,498100,108,Centre,6
+240032,Chris,Knights,RI,10,71,55,91,60,83,11,9,5,2,0,1,2,0,2, Full Time,news,%P and %M with %F and %s,,,254500,,248300,,Forward,15
+260930,Shane,Edwards,RI,14,64,74,80,53,72,7,9,3,3,0,1,1,1,0, Full Time,news,%s from %P and %M,,,347200,72,437900,69,Forward,10
+270941,Tyrone,Vickery,RI,11,58,79,67,52,61,6,5,3,0,7,2,0,2,0, Full Time,news,Booted %s from %P and %G on Brown... also %H,,,256700,80,303000,60,Forward,29
+290847,Dustin,Martin,RI,7,58,80,77,39,58,15,2,0,2,0,0,0,0,1, Full Time,news,%P and %s,,,461400,36,494000,51,Centre,4
+280819,Dylan,Grimes,RI,8,56,81,69,48,63,6,9,5,1,0,1,0,0,0, Full Time,job,Minding Fasolo... %M and %D,,,358400,126,416700,169,Back,2
+240256,Luke,McGuane,RI,10,52,68,65,44,55,8,2,3,1,0,1,1,2,1, Full Time,news,%s from %P on Shaw,,,319600,43,406300,76,Back,16
+250360,Ricky,Petterd,RI,4,49,49,66,37,51,8,3,3,3,0,1,1,0,0, Full Time,job,Responsible for Sinclair... %P and %T with %M,,,243400,10,240800,3,Forward,13
+240707,Daniel,Jackson,RI,7,43,36,54,38,57,9,8,2,0,0,0,2,0,0, Full Time,news,%D and %M... also %F,,,395600,79,387800,83,Centre,23
+200109,Shane,Tuck,RI,2,39,55,48,33,49,6,8,1,1,1,0,1,0,0, Full Time,news,%P,subbed,Subbed off in Q3 for Ellis,495100,162,557500,201,Centre,21
+210048,Chris,Newman,RI,3,37,77,46,32,45,5,7,2,1,0,1,1,0,0, Full Time,news,%O and %M,,,355500,75,411200,64,Back,1
+293713,Brandon,Ellis,RI,2,36,31,43,30,43,6,7,1,0,0,0,0,0,1, Full Time,news,On in Q3 for Tuck... %P,sub,Started as a sub,250100,110,255400,111,Back,5
+271437,Jake,King,RI,9,35,51,43,33,46,4,6,2,1,0,0,2,1,1, Full Time,news,%s from %P on Toovey,sore,Back/hip soreness in Q4 after getting smashed in a contest,274700,42,338400,40,Forward,28
+260433,Steven,Morris,RI,3,33,46,41,27,36,6,4,2,0,0,1,0,0,0, Full Time,job,Minding Elliott... %O and %M,,,266800,90,317100,82,Back,38
+240180,Troy,Chaplin,RI,3,28,32,38,27,36,5,2,5,0,0,0,2,0,0, Full Time,concussed,%P and %M... also %F... groggy after some friendly fire to the head in Q3,,,337700,38,427200,98,Back,25
+261362,Alex,Rance,RI,2,25,34,34,21,27,6,0,3,0,0,1,1,0,0, Full Time,witcheshat,Smashed all about the park by Cloke... %P and %M,,,362200,92,450600,128,Back,18
+240366,Travis,Cloke,CO,56,147,195,114,130,152,17,3,14,2,0,2,2,7,2, Full Time,star,Booted %s from %G and %P on Rance including three big ones in Q3,,,409000,52,456400,59,Forward,32
+220105,Dane,Swan,CO,31,130,168,76,104,140,22,13,6,3,0,3,1,1,2, Full Time,gun,%P and %M with %T and %s,,,662200,169,644600,188,Centre,36
+280965,Steele,Sidebottom,CO,26,106,136,66,90,111,16,5,6,1,0,2,1,4,3, Full Time,hot,%s from %P and %M playing mostly forward,,,515800,147,546200,154,Centre,22
+220061,Quinten,Lynch,CO,25,103,98,71,87,108,16,3,14,1,6,0,1,0,0, Full Time,x-factor,Tigers had no match up for him... %P and %M... also %H,,,366400,49,388100,49,Forward,21
+240073,Harry,O'Brien,CO,20,91,88,50,72,93,17,3,8,1,0,0,0,1,0, Full Time,news,%P and %M plus %s,,,336400,72,390600,81,Back,8
+260257,Scott,Pendlebury,CO,15,86,105,61,71,99,11,16,4,2,0,1,0,0,0, Full Time,news,%O and %T with %M,,,573400,116,671800,153,Centre,10
+240232,Ben,Reid,CO,14,84,80,66,69,90,11,7,9,3,0,1,1,0,0, Full Time,job,On Riewoldt... %P and %T with %M,,,265300,61,349600,56,Back,20
+272005,Martin,Clarke,CO,19,82,99,49,68,90,14,6,7,1,0,0,1,1,0, Full Time,news,%D and %M... also %s,,,330000,44,362200,38,Back,9
+250133,Sam,Dwyer,CO,15,73,65,51,59,79,10,8,4,2,0,0,0,1,1, Full Time,news,%P and %T,,,141600,-57,171000,-76,Centre,41
+280104,Jarryd,Blair,CO,13,71,77,52,53,72,10,7,3,4,0,2,0,0,0, Full Time,news,%P and %T,,,412800,69,463900,103,Forward Centre,11
+293801,Jamie,Elliott,CO,15,71,59,49,61,75,10,4,8,0,0,0,0,1,3, Full Time,news,%s from %P and %M on Morris,,,352700,15,372200,-17,Forward,19
+240710,Ben,Hudson,CO,16,69,91,70,59,74,4,6,3,5,20,2,2,0,0, Full Time,news,%H and %P with %T and %M,,,370700,,497300,,Ruck,25
+290821,Alex,Fasolo,CO,14,67,56,54,54,74,9,5,6,4,0,0,2,0,2, Full Time,news,%s from %P and %M on Grimes... also %T,,,373900,,404100,,Forward,1
+240700,Heath,Shaw,CO,13,66,80,44,47,66,11,4,3,4,0,0,0,0,0, Full Time,job,Big job on McGuane... %P and %T with %M,,,422800,85,541300,170,Back,39
+261181,Brent,Macaffer,CO,10,64,58,50,47,63,9,3,5,4,0,0,0,0,0, Full Time,cash,%P and %T with %M,in,Late replacement for Tyson Goldsack,132600,-37,128000,-28,Forward,3
+240419,Alan,Toovey,CO,9,59,66,49,41,54,8,1,4,5,0,1,0,0,0, Full Time,crown,Minding King... %O and %T with %M,,,276800,76,350200,58,Back,34
+250090,Jordan,Russell,CO,10,55,42,43,47,60,8,2,8,2,0,1,2,0,0, Full Time,news,%P and %T with %M and %F,,,270600,26,281200,18,Back,2
+294733,Paul,Seedsman,CO,4,51,65,28,42,52,9,4,4,0,0,3,0,0,1, Full Time,news,%s from %P and %M,,,254300,,239300,,Centre,40
+290289,Josh,Thomas,CO,3,38,52,28,31,42,5,5,3,1,0,0,0,0,0, Full Time,news,%D and %M,subbed,Subbed off in Q3 for Dale Thomas,108500,,115900,,Centre,24
+240359,Dale,Thomas,CO,3,35,24,15,27,39,8,2,2,1,0,0,1,0,0, Full Time,news,On in Q3 for Josh Thomas... %P,sub,Started as a sub,480000,,515800,,Centre,13
+260310,Nathan J.,Brown,CO,3,31,46,22,28,39,5,3,4,1,0,0,2,0,0, Full Time,job,Has Vickery.... %M and %O,sore,Left adductor soreness in Q4,192300,50,249700,53,Back,16
+291386,Ben,Sinclair,CO,2,29,60,21,25,36,4,5,2,1,0,0,1,0,0, Full Time,news,%D,,,270600,35,276200,64,Centre,28

@@ -1,0 +1,48 @@
+Melbourne,Demons,Brisbane,Lions,R17,11.9.75,13.16.94, Full Time
+Jul 20,2013,7.40,Darwin,Seven,270512,10391706,melb-v-bl,0,Fine,32,,
+
+<em style='color:#000'>LeonDavis2</em>: nice staker 2nd highest score <br><em style='color:#000'>coondambo</em>: both of you guys are spuds pietime&#044; just shower it<br><em style='color:#000' title="FLICKCLINT">flickclint</em>: RooBoyStupid. Retard. Get a life loser <br><em style='color:#000'>Hadouken</em>: ty staker&#044; ty :)<br><em style='color:#000'>pietime!</em>: ok&#044; now it's official. you can give RooBoy the muppet<br><em style='color:#000'>grubby</em>: go jack<br><em style='color:#000'>runners47</em>: Almost&#044; but not quite&#044; Melb...<br><em style='color:#000'>woofy</em>: zorko hanley kick some goals!<br><em style='color:#000'>Luke87</em>: Get urton hanley<br><em style='color:#000'>LeonDavis2</em>: lift hanley<br><em style='color:#000'>LeonDavis2</em>: luke ?<br><em style='color:#000'>runners47</em>: Same here&#044; casey22 - Mayes had better make another dozen&#044; at least...<br>
+280972,Jack,Watts,ME,21,100,85,129,83,107,15,6,10,2,6,0,1,0,2, Full Time,hot,Starting forward on Patfull... %s from %P and %M,,,333500,126,418500,145,Back Forward,4,11,59.9,71.4,2.02,2.21
+280608,Jack,Trengove,ME,43,99,98,134,71,103,8,11,3,12,0,1,2,0,1, Full Time,news,%P and %T with %M... also %s and %F,,,379700,91,368800,103,Centre,9,13,77.8,73.9,0.55,0.74
+280758,Jack,Fitzpatrick,ME,22,86,99,107,68,81,10,1,3,4,3,2,0,4,0, Full Time,news,First goal... %s from %P and %M on Clarke including three majors in Q1... also %H and %T,sore,Left ankle and knee twisted under his own weight while kicking a goal in Q1,262300,52,303000,58,Ruck,48,6,61.2,61.2,2.55,1.04
+240037,Colin,Sylvia,ME,13,81,103,98,65,93,10,17,1,3,0,2,0,0,0, Full Time,sore,%2 Rockliff... %B among %D with %T... limped off in Q2 with a left ankle problem but soon back on,,,412400,129,441900,115,Forward Centre,12,12,83.6,84.7,1.05,0.80
+261297,Jack,Grimes,ME,18,76,65,101,57,75,11,4,6,4,0,1,0,0,0, Full Time,tagger,Tagging Rich... %D and %T,,,362400,50,377000,69,Back,31,8,77.9,84.4,1.80,1.14
+270241,Dean,Terlich,ME,14,76,98,99,57,75,9,7,4,5,0,3,0,0,0, Full Time,job,Bewick is his man... %O and %T with %M,,,410300,113,424700,117,Back,46,14,78.2,77,29.81,25.12
+291902,Jack,Viney,ME,9,75,69,96,61,81,14,7,5,1,0,3,1,0,0, Full Time,news,%D and %M,,,208800,-6,216900,-18,Centre,7,6,61.2,66.3,15.16,20.93
+230022,Shannon,Byrnes,ME,16,74,81,91,63,85,9,11,4,2,0,1,1,1,1, Full Time,news,%s from %P and %M with %T,,,233900,44,219100,32,Forward,10,12,58.9,54.8,2.38,3.00
+250222,Nathan,Jones,ME,19,72,78,93,57,75,9,7,2,5,0,5,2,1,0, Full Time,rain,Tagged by Raines... %P and %T,,,389100,67,474700,105,Centre,2,15,79.6,91.7,0.58,0.59
+260288,James,Frawley,ME,12,70,84,89,57,75,11,7,6,1,0,1,0,0,0, Full Time,job,Takes Merrett... %D and %M,,,318200,85,371400,79,Back,8,13,65.4,69,0.51,0.64
+200002,Aaron,Davey,ME,13,58,85,70,46,63,10,6,0,1,0,0,0,2,0, Full Time,news,%s from %O on Harwood,,,254500,83,240200,80,Forward,36,13,51.4,48.2,0.99,0.82
+260394,Chris,Dawes,ME,11,58,64,78,47,61,9,1,5,3,0,1,2,1,1, Full Time,goose,%s from %P and %M on Maguire,,,260500,73,286200,83,Forward,6,9,50.6,53.4,0.53,0.79
+270976,Mitch,Clisby,ME,8,56,77,71,44,60,8,7,3,2,0,1,0,0,0, Full Time,news,%D and %M,job,Responsible for Hanley,190800,-1,183700,-15,Back,50,4,66.5,61.3,29.40,22.23
+290528,Max,Gawn,ME,15,56,67,63,51,58,1,4,0,3,34,2,1,0,0, Full Time,news,%H and %D,,,306700,6,303800,24,Ruck,37,9,66.7,68.6,5.60,5.52
+291313,Jeremy,Howe,ME,4,56,85,71,46,57,10,3,5,0,2,2,0,0,1, Full Time,news,%D and %M on the smaller Yeo,,,344100,106,357300,96,Forward,38,15,73.9,78.2,1.48,1.38
+250548,Lynden,Dunn,ME,8,55,78,74,43,63,12,4,3,2,0,0,2,0,0, Full Time,job,On Green... %P and %T with %M,,,308100,52,367700,36,Back Forward,14,11,66.1,74.1,0.50,0.45
+296027,Matt,Jones,ME,7,45,52,60,36,54,11,4,2,1,0,0,2,0,0, Full Time,news,Played a bit in defence... %D and %M,,,352100,42,343400,20,Centre,45,15,76.3,72.9,3.11,2.21
+291533,Tom,McDonald,ME,4,42,59,56,32,42,6,2,4,2,0,0,0,0,0, Full Time,job,On Lisle... %P and %M,,,294900,48,370700,32,Back,25,10,60.3,73.6,0.19,0.27
+270830,Colin,Garland,ME,3,41,53,55,32,45,9,2,3,1,0,0,1,0,0, Full Time,job,Has Staker... %O and %M,sore,Left ankle problem in Q3,385600,78,459200,121,Back,20,15,70.9,86.1,0.78,0.89
+280746,Sam,Blease,ME,8,36,62,43,31,40,5,3,0,1,0,1,1,2,1, Full Time,news,%s from %P on McGrath,,,214300,89,217900,87,Forward Centre,17,7,36.3,33.9,0.37,0.74
+294570,Dean,Kent,ME,1,13,9,18,13,21,4,2,1,0,0,0,2,0,0, Full Time,news,On in Q3 for Toumpas,sub,Started as a sub,170900,31,187700,35,Centre,34,8,39.8,40.1,0.78,0.89
+293042,Jimmy,Toumpas,ME,0,11,11,14,9,12,0,2,1,1,0,0,0,0,0, Full Time,wall,Donuts in the first half... %P,subbed,Subbed off in Q3 for Kent,242000,11,220200,5,Centre,5,9,46.7,39.6,4.39,5.28
+270919,Tom,Rockliff,BL,26,120,128,73,97,138,21,13,8,4,0,0,3,0,0, Full Time,cherry,%2 Sylvia... %P and %M... also %F,,,398400,37,443900,27,Forward Centre,38,14,93.9,99.8,25.88,25.31
+250335,Matthew,Leuenberger,BL,32,117,117,97,106,128,11,8,9,2,38,1,2,0,0, Full Time,star,%H and %P with %T and %M... very productive Q1,,,409500,67,505700,113,Ruck,23,13,83.5,98.8,15.89,14.95
+281373,Jack,Redden,BL,32,112,116,86,96,127,14,12,8,4,1,2,3,2,0, Full Time,magnet,%D including %b by hand with %M... also %s and %F,,,438000,113,466200,72,Centre,30,15,93.4,96.1,1.77,0.93
+270512,Pearce,Hanley,BL,19,99,113,53,81,106,18,9,8,0,0,2,0,0,1, Full Time,news,%s from %O and %M starting forward again on Clisby,,,389700,42,434700,47,Back,11,14,88.5,98.9,23.16,23.28
+230211,Brent,Staker,BL,26,92,114,70,77,104,11,10,3,4,0,0,2,3,2, Full Time,news,%s from %D and %M starting forward again on Garland... %T as well,,,272500,7,371400,9,Back Forward,14,8,63.8,84.3,35.50,46.26
+293603,Sam,Mayes,BL,18,78,79,47,63,81,13,5,6,1,0,1,0,1,0, Full Time,news,%O and %M plus %s,,,286900,-2,322600,-33,Forward Centre,32,11,70.8,71.1,16.69,12.96
+281048,Ryan,Harwood,BL,14,73,81,50,55,75,12,4,5,4,0,1,1,0,0, Full Time,flash,Has Davey... %D and %T,,,251200,26,270700,16,Back,2,7,54.6,58.6,0.17,0.17
+230147,Daniel,Merrett,BL,17,72,82,60,56,71,8,3,4,4,1,0,0,2,1, Full Time,news,Starting forward on Frawley... %s from %P and %T,,,266400,78,362900,100,Back Forward,21,11,53.9,70.5,1.57,1.40
+230170,Joel,Patfull,BL,9,69,81,50,53,69,10,5,5,3,0,2,0,0,0, Full Time,job,Following Watts... %P,,,242200,51,329500,73,Back,24,15,53.2,67.4,1.66,1.20
+271072,Daniel,Rich,BL,12,69,84,50,49,72,10,8,1,5,0,0,0,0,0, Full Time,tagged,Tagged by Grimes... %P and %T,,,350900,76,442000,103,Centre,10,9,67.8,85.3,0.95,1.34
+240087,Jed,Adcock,BL,13,66,81,42,46,66,12,3,2,5,0,1,1,0,0, Full Time,news,%D,,,390400,79,429600,77,Back,7,15,81.5,87.9,3.06,2.76
+261224,Dayne,Zorko,BL,15,66,81,55,52,71,8,5,3,5,0,1,2,1,2, Full Time,news,%P and %T,,,336200,79,387300,68,Forward Centre,15,15,73.6,84.2,13.68,14.85
+290748,Joshua,Green,BL,16,66,78,48,56,73,8,6,2,2,0,0,1,3,1, Full Time,news,%s from %O and %M on Dunn,,,216700,51,250600,47,Forward,6,10,50.9,52.9,0.69,0.46
+295518,Sam,Docherty,BL,10,65,60,51,50,69,9,5,5,4,0,0,1,0,0, Full Time,news,%O and %T with %M,in,Late replacement for Mitchell Golby,169700,29,177200,18,Back,1,7,41.1,45.9,7.49,11.16
+220062,Matt,Maguire,BL,12,59,88,35,49,63,10,5,6,0,0,1,0,0,0, Full Time,job,On Dawes... %M and %D,,,323200,39,389200,83,Back,36,4,68,72.3,0.35,0.19
+240013,Andrew,Raines,BL,7,48,46,25,40,61,10,6,1,3,0,2,4,0,1, Full Time,tagger,Tagging Nathan Jones... %P and %s,,,211900,28,212500,21,Centre,29,11,50.8,47.9,0.52,0.54
+281329,Rohan,Bewick,BL,4,48,61,43,42,58,4,10,3,2,0,1,1,0,1, Full Time,news,%s from %D and %T with %M on Terlich,,,300700,60,302700,52,Forward,8,13,66.2,66.4,0.69,0.77
+292128,Elliot,Yeo,BL,8,47,58,29,39,57,8,7,2,2,0,1,2,0,0, Full Time,job,The big job on Howe... %O,,,247900,31,297700,51,Back,26,12,54.8,59.6,0.59,0.52
+270936,Jordan,Lisle,BL,9,44,53,40,36,48,4,4,2,3,3,0,1,1,0, Full Time,in,Late replacement for Jonathan Brown... %s from %P and %T on McDonald... %H as well,subbed,Subbed off in Q3 for Lester,279200,51,322200,67,Forward,19,6,63,67.5,0.32,0.21
+291548,Ryan,Lester,BL,3,36,52,25,27,39,5,6,0,2,0,1,0,0,0, Full Time,news,On in Q3 for Lester,sub,Started as a sub,291500,104,337300,97,Back,35,11,67.4,77,2.30,5.19
+295162,Justin,Clarke,BL,3,33,51,21,30,42,5,6,3,0,0,0,1,0,0, Full Time,job,Has the resting ruck which is mostly Fitzpatrick... %D,,,185500,40,237100,34,Back,42,10,44.7,54.2,1.76,3.44
+210013,Ashley,McGrath,BL,2,27,34,21,19,28,4,2,0,3,0,1,1,0,1, Full Time,switch,Started in defence on Blease but switched forward on Dunn in Q2... %D and %T,,,207500,66,236600,91,Back Forward,9,15,43.4,49.7,1.18,1.18

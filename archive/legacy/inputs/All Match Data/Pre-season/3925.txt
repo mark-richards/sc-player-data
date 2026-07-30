@@ -1,0 +1,62 @@
+Western Bulldogs,Bulldogs,Carlton,Blues,W2,12.23.95,7.19.61, Full Time
+Mar 4,2012,5.40,Docklands,Fox Footy,,10330208,,26,Roof closed,26,,
+
+<em>crazyjim</em>: lolz sandilands injured already...<br><em>dipper5</em>: my mid is murphy&#044; selwood&#044;barlow&#044; pendels&#044; ablett&#044; boyd<br><em title="SIXXSIXX6">sixxsixx6</em>: lol @ Beastie... what did u want in a half of footy from Lake 1st game back??? <br><em>Beastiano</em>: @DilenS: Franklin&#044; Fyfe&#044; Beams&#044; Nahas&#044; DSmith&#044; Bruce&#044; Hall Zorko&#044; McIntyre<br><em>brent_bren</em>: post your team on the forum and then we will talk hahaha<br><em>brent_bren</em>: any1 can post a good midfield!! its the whole team that counts u spuds LOL<br><em>whatlez1</em>: Lol to all these guys posting tre midfield<br><em>Beastiano</em>: not enuf from lake to warrant selection imo<br><em>wrangle</em>: Who gives a $hit about which players any of you have<br><em>DilenS</em>: @Beastino- your backline and forward line must be below average then. How can u afford that?<br><em>brent_bren</em>: did lake do enough? even is his avg is 70+ thats a win<br><em>Beastiano</em>: Pendlebury&#044; Ablett&#044; Rockliff&#044; Scotland&#044; Martin&#044; Zaharakis [i] Miles&#044; Magner  <br>
+271439,Liam,Picken,WB,37,124,-,166,95,129,15,10,9,9,0,2,2,0,0, Full Time,hot,%O and %T with %M... also %F,tagger,Tagging Murphy,90
+230255,Will,Minson,WB,33,116,-,139,106,131,10,10,7,3,17,1,3,4,0, Full Time,hot,%H and %D with %M and %s... also %T,,,97
+240156,Ryan,Griffen,WB,20,114,-,145,92,129,18,15,7,3,0,0,1,0,0, Full Time,hot,%2 Gibbs... %O with %b by hand... also %M,,,77
+200079,Daniel,Giansiracusa,WB,26,105,-,133,87,109,14,8,10,2,0,2,0,1,1, Full Time,hot,%s from %G and %P on Joseph,,,91
+200082,Ryan,Hargrave,WB,24,105,-,135,88,117,17,10,11,1,0,0,1,0,0, Full Time,hot,%O and %M,job,Zoning off Casboult,95
+220010,Matthew,Boyd,WB,20,99,-,126,79,111,12,14,5,5,2,0,1,0,1, Full Time,news,%P and %M with %T on Curnow... also %s,,,91
+281139,Easton,Wood,WB,13,77,-,98,64,84,11,8,8,1,0,0,0,0,0, Full Time,job,Chasing Garlett... %M and %P,,,94
+290799,Tom,Liberatore,WB,9,72,-,90,59,84,11,12,3,2,0,1,1,0,0, Full Time,news,%D and %T with %M,,,80
+200083,Robert,Murphy,WB,8,64,-,82,50,67,12,5,4,1,0,1,0,0,1, Full Time,job,Tough job deep in defence on Betts... %D and %M,,,88
+240212,Dylan,Addison,WB,9,63,-,82,50,66,9,5,6,2,0,0,0,0,0, Full Time,news,Moved deep into defence after Williams' early injury... %D and %M with %T,,,94
+270186,Patrick,Veszpremi,WB,8,60,-,74,51,72,7,12,3,2,0,1,1,0,0, Full Time,news,On in Q1 for Williams... %D and %M with %T,sub,Started as a sub,83
+250601,Lukas,Markovic,WB,5,54,-,70,42,54,6,5,4,3,0,2,0,0,0, Full Time,job,On in Q3 and went to Rowe... %P and %T,sub,Started as a sub,46
+291526,Luke,Dahlhaus,WB,15,53,-,71,41,58,8,2,0,5,0,1,3,2,1, Full Time,news,%s from %O and %T on Tuohy,,,72
+260227,Shaun,Higgins,WB,9,49,-,62,41,52,10,2,3,0,0,2,1,1,1, Full Time,news,On in Q2... %s from %D,sub,Started as a sub,55
+293847,Clay,Smith,WB,3,48,-,63,36,45,6,3,3,3,0,3,0,0,0, Full Time,news,%P and %M with %T,subbed,Subbed off at HT,39
+210049,Daniel,Cross,WB,7,45,-,52,43,61,2,14,3,1,1,0,1,0,0, Full Time,news,%2 Simpson... %O with a typically slanted K:HB ratio of %k:%b,,,72
+291545,Mitch,Wallis,WB,4,44,-,56,35,48,5,6,3,2,0,0,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,39
+261319,Jarrad,Grant,WB,8,40,-,49,32,42,6,4,1,1,0,1,0,1,0, Full Time,news,First goal... %s from %D on Bower,,,73
+230041,Adam,Cooney,WB,9,39,-,48,33,45,4,6,1,2,0,1,1,1,0, Full Time,news,%s from %P with %T mostly forward on Yarran,subbed,Subbed off in Q3,59
+295712,Tory,Dickson,WB,8,37,-,46,30,37,5,2,2,1,0,1,0,1,1, Full Time,news,On in Q3... %P,sub,Started as a sub,46
+281078,Liam,Jones,WB,4,35,-,48,28,37,5,1,4,2,0,0,1,0,1, Full Time,news,Booted %s from %G and %D on Henderson... also %T,,,97
+281374,Christian,Howard,WB,2,35,-,46,27,36,6,2,3,1,0,0,0,0,0, Full Time,news,%O and %M,,,66
+220039,Brian,Lake,WB,2,28,-,35,24,30,4,3,3,0,0,1,0,0,0, Full Time,job,Responsible for Hampson... %D and %M,subbed,Subbed off at HT,50
+280012,Jordan,Roughead,WB,2,22,-,25,19,25,1,4,0,1,7,0,0,0,0, Full Time,news,On in Q3... %H and %D,sub,Started as a sub,46
+280056,Ayce,Cordy,WB,0,20,-,26,17,21,3,1,1,1,3,2,1,0,0, Full Time,news,Rotating from ruck to FF... %D and %H,subbed,Subbed off at HT,54
+250150,Tom,Williams,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Right shoulder knock early in Q1,subbed,Subbed off in Q1 for Veszpremi,5
+280919,Andrew,Hooper,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+281013,Jason,Tutt,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+281102,Matthew,Panos,WB,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+220015,Andrew,Carrazzo,CA,24,101,-,131,82,113,15,11,7,4,1,1,2,0,1, Full Time,hot,%D and %T with %M.. also %F and %s... moved into defence in Q4,mrp,An elbow to Veszpremi's ribs behind play in Q3 will be scrutinised... as will a punch to Higgins' jaw,90
+230202,Kade,Simpson,CA,16,98,-,126,75,99,17,6,5,3,0,2,0,1,0, Full Time,news,%2 Cross... %P and %M with %T and %s,,,92
+990059,Heath,Scotland,CA,19,91,-,121,78,105,17,6,11,1,0,0,3,0,0, Full Time,news,%O and %M... also %F,,,91
+261299,Matthew,Kreuzer,CA,21,87,-,105,70,86,9,5,1,4,23,2,0,1,0, Full Time,news,Playing more ruck than forward... %H and %D plus %T and %s,,,82
+250105,Marc,Murphy,CA,14,76,-,99,59,78,11,7,4,4,0,4,1,0,0, Full Time,tagged,Tagged by Picken... %D and %T with %M,,,89
+250417,Bryce,Gibbs,CA,13,67,-,89,50,70,9,6,3,5,1,1,1,0,0, Full Time,news,%2 Griffen... %O and %T with %M,,,93
+240060,Eddie,Betts,CA,20,66,-,78,56,66,8,1,2,1,0,0,0,5,0, Full Time,news,%s from %O and %M on Murphy playing from the goalsquare.. three majors with his first three kicks in Q1,,,75
+270326,Lachie,Henderson,CA,9,60,-,78,52,66,10,4,8,0,0,1,1,0,0, Full Time,job,Standing Jones... %D and %M,,,97
+240028,Brock,McLean,CA,9,56,-,72,46,63,8,7,4,2,0,1,1,0,0, Full Time,news,On in Q3... %P and %M with %T,sub,Started as a sub,39
+270653,Jeff,Garlett,CA,9,53,-,69,39,46,8,0,2,3,0,4,0,1,1, Full Time,sore,%s from %D and %T on Wood... also %M... rolled right ankle in Q3,,,55
+271110,Chris,Yarran,CA,9,53,-,67,42,54,9,3,3,1,0,1,0,1,0, Full Time,job,Cooney keeping him honest... %D and %s,,,87
+250090,Jordan,Russell,CA,5,47,-,64,39,54,6,4,5,3,0,0,2,0,0, Full Time,news,%D and %M with %T,,,93
+281049,Marcus,Davies,CA,3,47,-,61,33,45,8,4,0,3,0,3,0,0,0, Full Time,news,On in Q1 for Laidler... %O and %T,sub,Started as a sub,67
+270737,Shaun,Hampson,CA,10,42,-,55,36,44,4,1,5,2,2,0,1,1,0, Full Time,news,%s from %D with %M and %s mostly up forward on Lake... also %H and %T,subbed,Subbed off at HT,54
+292511,Zach,Tuohy,CA,3,41,-,51,32,45,5,7,1,2,0,1,0,0,0, Full Time,job,Minding Dahlhaus... %O,,,91
+293684,Frazer,Dale,CA,8,41,-,49,34,45,5,6,1,1,0,1,0,1,0, Full Time,news,On in Q3... %D and %s,sub,Started as a sub,25
+281124,Levi,Casboult,CA,4,40,-,53,33,43,5,2,4,2,3,0,1,0,1, Full Time,news,%P and %M on Hargrave... also %H,,,89
+261258,David,Ellard,CA,8,38,-,52,26,36,2,3,2,5,0,0,0,0,0, Full Time,news,On in Q3... %P and %T with %M,sub,Started as a sub,47
+270146,Ed,Curnow,CA,4,38,-,52,31,45,7,3,3,2,0,0,2,0,0, Full Time,news,Boyd is his man... %O and %M with %T,subbed,Subbed off in Q3,46
+220108,Bret,Thornton,CA,3,36,-,47,29,36,7,1,4,0,0,1,0,0,0, Full Time,news,On in Q3 and went into defence... %O and %M,sub,Started as a sub,46
+250211,Paul,Bower,CA,3,36,-,48,26,36,6,2,2,2,0,0,0,0,0, Full Time,job,On Grant.... %O and %T,,,93
+260104,Andrew,Collins,CA,13,33,-,48,23,36,2,3,1,6,0,0,2,0,0, Full Time,switch,Moved into defence after Laidler's injury in Q1... forward again in Q3... %P and %T,,,89
+281079,Kane,Lucas,CA,3,31,-,40,26,33,3,3,4,1,0,0,0,0,0, Full Time,news,%P and %M,,,56
+261318,Aaron,Joseph,CA,1,17,-,23,14,21,3,2,1,1,0,0,1,0,0, Full Time,job,Chasing Giansiracusa... %P and %T,subbed,Subbed off at HT,46
+270899,Jeremy,Laidler,CA,0,12,-,16,9,12,1,1,1,1,0,0,0,0,0, Full Time,injured,Responsible for the resting ruckman which is mostly Minson... %D... dislocated patella in Q1,subbed,Subbed off in Q1 for Davies,24
+260278,Sam,Rowe,CA,0,3,-,4,5,6,0,1,1,0,0,1,1,0,0, Full Time,news,On in Q3 and got Markovic... %D,sub,Started as a sub,45
+290526,Matthew,Watson,CA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+291777,Dylan,Buckley,CA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+296531,Joshua,Bootsma,CA,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

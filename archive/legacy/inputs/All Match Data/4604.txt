@@ -1,0 +1,48 @@
+Richmond,Tigers,Carlton,Blues,EF,14.12.96,18.8.116, Full Time
+Sep 8,2013,3.20,MCG,Seven,,10402404,rich-v-carl,0,,,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Karlpov</em>: magnifying glass' to dusty&#044; grigg&#044; shane edwards&#044; riewoldt&#044; king and chaplin. All went missing when they were needed!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> frenzy</em>: chow tiges<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> Jmachete</em>: default<br><em style='color:#000'>J.Worrall</em>: Judd 3 votes<br><em style='color:#000'>meka100</em>: Richmond don't belong playing finals&#044; get flowerced<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tFR"></b> Pantsman</em>: Star to Judd or Gibbs...<br><em style='color:#000'>pietime!</em>: thank you for giving me a trillion sc points garlett<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> frenzy</em>: richmond still can't get over ninth spot\<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> Grazz</em>: Blues home.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tPA"></b> rosty63</em>: i reckon  you can hear richo sobbing on 3aw<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> remon tea</em>: blow the bloody siren<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> leggzy3</em>: give cotch the 'carrying his team' symbol?<br>
+270896,Trent,Cotchin,RI,27,109,129,143,83,114,22,4,4,4,0,1,2,2,0, Full Time,gun,Curnow on him... %O with %M and %T. Plus %s,,,408200,114,460000,119,Centre,9,21,94.3,106,20.91,28.34
+250312,Bachar,Houli,RI,20,96,94,128,75,100,15,5,9,4,0,0,1,0,1, Full Time,news,%P and %M. Plus %T,,,402000,63,431600,85,Back,14,20,85.2,91.6,3.90,5.17
+240336,Brett,Deledio,RI,14,91,121,118,67,94,16,8,3,4,0,1,0,0,1, Full Time,news,%O and %M with %T,,,459100,102,502500,142,Centre,3,22,95,103.6,11.18,15.85
+240546,Ivan,Maric,RI,27,88,138,101,81,101,5,11,2,3,26,1,2,2,0, Full Time,news,%s from %D and %M with %T. Including %H,,,360500,81,499700,110,Ruck,20,19,74.4,96.9,7.23,10.70
+270941,Tyrone,Vickery,RI,22,88,92,111,75,93,9,5,6,4,9,2,2,2,0, Full Time,news,Henderson has him... %s from %D and %M with %T. Plus %H,,,365300,53,416000,60,Forward,29,20,69,80,2.78,3.01
+210048,Chris,Newman,RI,19,78,80,101,61,78,11,4,6,3,0,1,0,1,0, Full Time,news,%2 with Scotland... %O including %K and %M. With %T and a bonus %s,,,302900,53,303300,75,Back,1,18,67.2,74.1,2.16,2.98
+240707,Daniel,Jackson,RI,14,73,74,96,57,84,12,9,3,4,0,0,2,0,0, Full Time,news,%D and %M with %T,sore,Right ankle strapped in Q3,437600,67,491800,73,Centre,23,22,90.9,92.5,0.79,1.06
+294674,Nick,Vlastuin,RI,12,73,81,94,58,75,13,5,6,1,0,2,0,0,0, Full Time,news,Playing off half back... %O including %K and %M,,,286600,47,343100,77,Back Centre,31,17,69.3,75.1,25.71,32.44
+200109,Shane,Tuck,RI,14,72,98,88,58,77,8,10,2,3,1,2,0,1,1, Full Time,news,Stuck in green... On early in Q1... %D and %M with %T plus %s,sub,Started as a sub,264100,57,310300,47,Centre,21,10,58.5,66.1,0.32,0.32
+261362,Alex,Rance,RI,13,72,93,90,60,78,12,8,6,0,0,2,0,0,0, Full Time,job,On Waite... %O and %M,,,335600,86,433500,92,Back,18,22,70.5,87.2,2.48,2.44
+250360,Ricky,Petterd,RI,15,70,98,87,58,75,8,8,5,2,0,1,0,1,0, Full Time,news,Armfield has him... %P and %M with %T. Including %s,,,328500,60,376600,64,Forward,13,11,73,76.1,0.82,1.20
+293713,Brandon,Ellis,RI,16,69,55,91,54,72,7,5,5,5,0,0,1,1,0, Full Time,news,%D with %M and %T. Plus %s,,,419100,38,436400,49,Back,5,20,79.2,81.7,7.18,5.08
+230240,Aaron,Edwards,RI,15,68,51,85,60,71,10,2,7,0,0,2,1,2,2, Full Time,news,McInnes following him... %s from %O including %K with %G,,,350200,44,443100,2,Forward,27,8,74.6,88.9,0.29,0.34
+250298,Shaun,Grigg,RI,14,68,70,92,54,73,10,4,6,4,1,1,2,0,0, Full Time,news,%P and %M with %T,,,412600,77,429600,68,Centre,6,22,89.4,83.1,0.83,0.58
+290847,Dustin,Martin,RI,14,65,69,83,53,76,12,7,2,2,0,0,2,1,1, Full Time,news,%2 Gibbs... %D and %M with %T. Plus %s,,,420700,27,454900,58,Forward Centre,4,22,97,101.8,47.36,40.11
+250395,Jack,Riewoldt,RI,15,64,63,84,52,66,8,3,6,3,0,1,1,1,0, Full Time,news,Jamison has him... %s from %P with %G. Plus %T,,,347900,119,402900,97,Forward,8,21,73.9,85,6.71,9.79
+271437,Jake,King,RI,8,48,55,65,32,45,8,2,1,4,0,1,0,0,0, Full Time,news,%P with %K and %T,,,247900,32,318700,62,Forward,28,17,54.3,68.1,1.09,1.08
+260930,Shane,Edwards,RI,3,43,43,54,33,47,4,7,1,3,0,0,0,0,2, Full Time,news,Yarran on him... %O and %T,,,306100,70,353400,75,Forward,10,19,68.6,78.2,0.53,0.67
+240180,Troy,Chaplin,RI,4,42,55,54,33,45,5,5,3,2,0,0,0,0,0, Full Time,job,Manning the resting ruck... %D and %M with %T,,,304900,36,348400,47,Back,25,21,61,68.3,0.99,0.83
+280819,Dylan,Grimes,RI,3,37,34,49,30,42,3,5,3,3,0,0,1,0,0, Full Time,job,Manned up on Betts... %P with %M and %T,,,218100,35,249100,38,Back,2,8,43.6,47.6,0.23,0.22
+260433,Steven,Morris,RI,2,17,16,24,16,24,3,2,2,1,0,0,2,0,0, Full Time,job,Minding Gartlett... %P and %M,,,213600,30,270100,43,Back,38,21,41.1,50.7,1.30,1.43
+290823,Reece,Conca,RI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Left hamstring injury in Q1,subbed,Subbed early in Q1,385400,81,412500,43,Centre,30,16,80.3,81.3,0.46,0.72
+250105,Marc,Murphy,CA,25,111,132,70,86,114,19,7,8,4,0,3,1,0,0, Full Time,hot,%O including %K and %M with %T,,,371800,52,443900,50,Centre,3,21,85.5,92.4,7.74,8.22
+250417,Bryce,Gibbs,CA,19,102,123,51,71,102,21,6,2,5,0,1,0,0,0, Full Time,hot,%2 Martin... %P including %K and %M with %T,,,375400,92,429000,48,Back Centre,4,19,88.8,95.4,47.81,44.14
+220056,Chris,Judd,CA,21,95,112,63,75,102,14,11,4,3,0,1,0,1,0, Full Time,star,%s from %D and %M with %T,,,361600,75,476900,114,Centre,5,18,81.9,99.1,2.62,2.88
+240060,Eddie,Betts,CA,26,93,91,72,75,89,12,0,7,4,0,3,1,3,2, Full Time,news,On Grimes... %s from %D and %M. Plus %T,,,307100,64,341800,68,Forward,19,16,59.6,67.3,2.20,1.65
+220110,Jarrad,Waite,CA,33,92,120,86,76,93,8,3,6,6,0,2,2,4,0, Full Time,target,Forward on Rance... %s from %D and %G. Plus %T,,,261200,47,331900,38,Forward,30,12,68.8,75.3,0.73,0.71
+290311,Mitch,Robinson,CA,21,92,112,58,71,96,15,6,3,4,0,1,1,2,0, Full Time,heart,%s from %D with %M and %T,sore,Left hamstring in Q1,384800,127,425400,113,Forward Centre,12,19,75.9,80.6,3.05,1.98
+261009,Nick,Duigan,CA,25,89,112,68,77,93,10,5,7,1,0,0,0,4,0, Full Time,x-factor,Playing as a defensive forward on Deledio... %P and %M. Including %s,in,Late replacement for Mclean,244800,82,295000,86,Back,34,3,38,50,0.40,0.41
+230202,Kade,Simpson,CA,18,82,87,54,62,84,14,4,6,4,0,1,1,0,0, Full Time,news,%O with %G and %T,,,442500,110,522100,109,Centre,6,22,85.2,95.1,0.86,0.82
+270146,Ed,Curnow,CA,42,79,80,81,55,81,6,11,0,10,0,2,1,0,0, Full Time,tagger,Following Cotchin... %O with a massive %T,,,336300,72,377600,114,Centre,35,19,72.9,76.3,0.35,0.37
+294691,Tom,Bell,CA,13,68,46,46,51,73,11,6,3,4,0,0,1,0,1, Full Time,news,%O with %M and %T,,,269500,51,303900,46,Centre,28,7,56.3,64.1,0.36,0.38
+990059,Heath,Scotland,CA,15,64,70,53,53,72,7,8,4,3,0,0,1,1,0, Full Time,news,%2 with Newman... %D and %M with %T. Plus %s,,,420800,109,414400,86,Back Centre,29,18,81.8,82.5,12.53,6.63
+270653,Jeff,Garlett,CA,10,53,72,42,43,56,6,4,1,3,0,1,1,2,2, Full Time,news,Morris on him... %s from %P with %T,,,286400,72,303300,75,Forward,38,20,71.3,78.2,3.09,3.57
+250672,Robert,Warnock,CA,20,52,84,36,50,58,6,0,0,1,30,2,3,1,1, Full Time,news,First goalscorer... Starting in the ruck... %s from %D. Plus %H. Also %F,,,334100,77,416300,93,Ruck,11,10,70.4,88,0.96,0.79
+261299,Matthew,Kreuzer,CA,13,50,82,49,39,46,3,1,0,4,22,1,0,0,0, Full Time,news,%D with %H. Plus %T,sore,Ankle soreness in Q1,423800,133,534700,194,Ruck,8,16,86.6,97.9,6.75,6.47
+270326,Lachie,Henderson,CA,4,49,73,34,37,48,8,1,5,2,0,0,0,0,0, Full Time,job,Playing back on Vickery... %P with %M and %T,,,307400,112,368200,136,Back Forward,23,22,68.7,83.3,3.16,4.02
+292511,Zach,Tuohy,CA,3,47,69,28,37,51,8,5,3,1,0,0,0,0,0, Full Time,news,%D with %G,,,251500,85,318200,101,Back,42,22,52.5,64.8,1.77,2.12
+271110,Chris,Yarran,CA,3,38,52,34,28,39,4,4,2,3,0,0,0,0,0, Full Time,job,Manning S Edwards... %D and %T,,,284000,28,303900,-12,Back,13,19,60.7,66.2,4.75,5.67
+240014,Andrew,Walker,CA,2,37,56,2,29,45,12,2,1,0,0,0,2,0,0, Full Time,cold,Loose in defence... Very quiet day at the office... %D with %K,,,424200,79,484100,70,Forward Centre,1,21,86.7,106.1,11.28,27.75
+261043,Michael,Jamison,CA,3,34,52,36,26,36,2,5,2,3,0,0,0,0,0, Full Time,job,On Riewoldt... %O with %M and %T,,,202200,63,296800,57,Back,40,22,47.7,64.6,1.36,1.59
+260533,Dennis,Armfield,CA,2,21,36,9,19,30,4,6,0,0,0,0,1,0,0, Full Time,job,Going with Petterd... %P,,,264500,59,304700,43,Forward Centre,27,22,56.4,60.9,2.22,2.32
+291456,Andrew,McInnes,CA,3,21,22,21,19,27,2,3,2,2,0,1,2,0,0, Full Time,subbed,Manning up A Edwards... %P with %M and %T... Subbed off at 3QT,in,Late replacement for Levi Casboult,228600,47,298400,53,Back,26,6,49.2,62.2,0.14,0.17
+293154,Troy,Menzel,CA,0,5,8,2,4,6,1,1,0,0,0,0,0,0,0, Full Time,news,Subbed on at 3QT... %D,sub,Started as a sub,225600,57,214300,40,Forward Centre,2,6,47.7,43,5.71,5.27

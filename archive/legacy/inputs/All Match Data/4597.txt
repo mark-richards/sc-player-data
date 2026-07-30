@@ -1,0 +1,48 @@
+Collingwood,Magpies,North Melbourne,Kangaroos,R23,17.12.114,19.11.125, Full Time
+Sep 1,2013,3.20,MCG,Seven,271001,10392308,coll-v-nmfc,0,Fine,25,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> owens4</em>: hello<br><em style='color:#000'>23rookie23</em>: Can anyone tell me if those are the scaled SC scores???<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> jefftee</em>: essedon good enough to make top four. still takes drugs. LOGIC<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> jefftee</em>: dipstick enjoy the first round whilst it lasts. your win was hardly finals material. <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> jefftee</em>: pretty sure nathan brow is injured?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> frenzy</em>: no f in north flog<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: swan you are a stinky sweat fat pig you useless pigboy<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tES"></b> Fury</em>: North: good enough to beat anyone&#044; too shet to make finals<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> vcgb15</em>: It's a good way to finish the year by doing what we couldn't all year<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> owens4</em>: boo shaw<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tSY"></b> Wends</em>: Grannie over before Dave's attrocious score&#044; but still a disappointment.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tSK"></b> itsduftime</em>: going pendles cap over gaz in sc didnt hurt too much. only 6 different<br>
+260257,Scott,Pendlebury,CO,32,126,157,154,104,141,14,19,6,4,0,0,0,2,0, Full Time,atlas,%2 Ziebell... %O including %K plus %M and %T... also %s,,,512800,109,588300,141,Centre,10,21,112.1,125.2,47.89,49.34
+220105,Dane,Swan,CO,19,99,100,130,77,105,20,6,7,2,0,1,1,0,0, Full Time,yinyang,Appeared not to give much of a bugger about this game in the first half but lifted in Q3... %P and %M with %T,,,559100,111,591900,144,Centre,36,21,118.3,118.1,54.56,43.47
+240366,Travis,Cloke,CO,27,88,89,107,78,90,8,2,7,2,0,1,1,5,3, Full Time,yinyang,Booted %s from %G and %P on Firrito... %T as well... three of those majors in Q2... did very little after HT,,,400600,89,432000,79,Forward,32,20,92.9,95.5,21.65,16.18
+210003,Alan,Didak,CO,19,87,80,109,76,103,13,11,7,1,0,0,2,1,1, Full Time,news,%D and %M plus %s,,,326300,60,296600,52,Forward,4,3,63,57,0.37,0.45
+240232,Ben,Reid,CO,26,86,109,102,77,90,7,5,7,1,0,0,0,5,0, Full Time,target,Kicked %s from %P and %G up forward again on Luke Delaney,,,328500,73,365700,98,Back,20,20,70.8,79.3,2.08,2.96
+250133,Sam,Dwyer,CO,20,83,99,106,64,85,9,8,4,5,0,1,0,1,1, Full Time,news,Keeping Atley honest... %s from %D and %T plus %M,,,244600,81,261200,91,Forward Centre,41,19,63.6,66.3,11.36,14.20
+290289,Josh,Thomas,CO,16,81,90,96,69,91,8,13,3,2,0,1,0,2,1, Full Time,news,%s from %D and %M up forward again on Mullett... also %T,,,338000,14,381700,34,Centre,24,17,75.2,78.3,1.38,1.38
+294733,Paul,Seedsman,CO,15,78,85,95,66,87,10,11,5,1,0,1,0,1,0, Full Time,news,%P and %M plus %s,,,394900,56,411900,44,Centre,40,15,79.3,78.5,0.82,1.36
+230263,Nick,Maxwell,CO,9,67,68,87,54,73,9,7,5,3,1,1,1,0,0, Full Time,tagged,Forward tag on him by Wright... %D and %M with %T,,,282200,64,308100,58,Back,5,17,64.8,66.8,1.15,1.02
+295256,Marley,Williams,CO,5,64,69,85,47,64,11,3,4,3,0,0,0,0,1, Full Time,news,%O and %T with %M and %s,tagger,Tagging Harvey,351200,68,393500,76,Back,46,14,71.7,75.4,0.55,0.62
+280965,Steele,Sidebottom,CO,7,61,68,79,48,68,13,5,3,1,1,0,1,0,1, Full Time,news,%P with %k by foot... also %M and %s,,,491900,126,536900,125,Centre,22,21,98.2,104.6,4.17,3.29
+293957,Brodie,Grundy,CO,11,60,69,75,57,77,7,6,2,3,23,1,5,0,0, Full Time,news,%H and %D with %T and %M... %F as well,,,237200,-3,273800,11,Ruck,35,5,72.4,76,24.57,13.31
+240700,Heath,Shaw,CO,8,59,92,74,47,66,8,9,3,2,0,0,0,0,0, Full Time,job,Minding Thomas... %D and %M with %T,,,340100,85,407800,94,Back,39,18,82.7,97.2,15.32,29.47
+293431,Ben,Kennedy,CO,7,54,44,65,45,63,7,11,2,1,0,1,0,0,0, Full Time,news,%O and %M on Sierakowski,,,183700,26,169600,22,Forward Centre,27,11,45,40.6,7.67,9.16
+271001,Dayne,Beams,CO,7,48,60,56,46,66,4,15,2,1,0,2,2,0,0, Full Time,news,%2 Bastinac... %P and %M.... %F as well,,,547800,158,566400,147,Centre,17,6,110,109.5,9.96,2.70
+261181,Brent,Macaffer,CO,3,41,36,53,32,43,7,3,3,1,0,0,0,0,1, Full Time,tagger,Tagging Wells... %D and %M plus %s,,,285200,67,264700,76,Forward,3,20,67.6,60.9,16.76,21.92
+290314,Lachlan,Keeffe,CO,3,41,55,52,33,45,6,5,3,1,0,0,0,0,0, Full Time,job,Has Tarrant... %O and %M,,,257800,67,331600,85,Back,23,6,56,69.5,0.24,0.32
+260246,Tyson,Goldsack,CO,3,37,38,49,31,45,8,4,2,1,0,1,2,0,0, Full Time,job,On Black... %O and %M... also %F,,,276800,56,318500,66,Forward,6,11,57.9,68.7,0.98,0.90
+280104,Jarryd,Blair,CO,3,37,52,48,28,39,5,4,2,2,0,0,0,0,0, Full Time,news,On in Q2 for Brown... %O and %T with %M,sub,Started as a sub,301100,95,354100,81,Forward Centre,11,20,76,78.1,1.92,1.80
+250090,Jordan,Russell,CO,3,34,32,46,27,36,5,2,3,2,0,1,1,0,0, Full Time,news,%O and %M with %T,in,Late replacement for Harry O'Brien,305800,21,333700,37,Back,2,8,64.5,67.1,0.83,2.38
+220061,Quinten,Lynch,CO,1,18,21,20,17,23,1,5,1,0,2,0,0,0,0, Full Time,sore,Sucking both up forward on Hansen and in ruck support... %P and %H... left ankle rolled under him in Q3,,,312400,68,333300,61,Forward,21,17,69.5,71.4,1.61,2.31
+260310,Nathan,Brown,CO,0,13,14,16,11,15,2,2,1,0,0,0,0,0,0, Full Time,injured,Standing Petrie... %P... off with an injury in Q2,subbed,Subbed off in Q2 for Blair,182500,25,248600,42,Back,16,20,40.4,50.2,2.05,1.65
+280944,Jack,Ziebell,NM,37,141,161,101,112,141,19,8,7,5,0,3,0,4,0, Full Time,star,%2 Pendlebury... %O and %M with %T and %s,,,433600,89,427600,108,Centre,7,17,91.9,91.4,0.83,1.33
+280863,Ryan,Bastinac,NM,37,132,145,99,105,145,17,17,6,6,0,1,1,1,1, Full Time,hot,%2 Beams... %D and %T with %M and %s,,,392800,93,435300,97,Centre,3,21,83.2,90.6,0.98,1.31
+210023,Drew,Petrie,NM,27,118,143,85,100,121,16,5,13,1,3,1,0,2,1, Full Time,hot,Booted %s from %G and %P on Brown... %H as well,,,395700,64,501200,82,Forward,20,21,84.2,100.9,3.91,5.06
+960491,Brent,Harvey,NM,26,109,127,75,86,120,15,16,3,4,0,1,0,1,0, Full Time,hot,Tagged by Williams... %P and %M with %T and %s,,,425000,112,461200,100,Forward Centre,29,15,91.8,102.5,7.76,10.10
+291672,Aaron,Black,NM,21,97,106,76,82,103,11,8,8,2,2,0,0,2,2, Full Time,heart,%s from %D and %M on Goldsack... right hamstring tweak in Q2,,,298000,48,313100,49,Forward,35,17,69.4,74.8,3.00,5.36
+290194,Jamie,MacMillan,NM,20,91,-,68,78,102,11,12,8,1,0,0,0,1,0, Full Time,news,%O and %M plus %s,,,327700,79,374200,87,Centre,34,21,67.9,71.8,0.86,0.70
+290787,Shaun,Atley,NM,19,90,67,55,75,102,15,10,8,1,0,0,1,0,0, Full Time,job,Running off Dwyer... %P and %M,,,327400,80,376300,114,Back,18,21,66.4,73.4,2.24,4.48
+250557,Sam,Gibson,NM,19,85,83,60,73,93,12,8,11,0,0,0,0,0,0, Full Time,news,%D and %M,,,355700,84,384200,100,Centre,43,21,81.5,76.2,0.57,0.40
+230232,Daniel,Wells,NM,16,82,94,57,67,90,11,10,2,3,0,2,1,2,0, Full Time,tagged,Tagged by Macaffer... %P and %T with %M and %s,,,419100,81,503000,101,Centre,8,21,83.2,96.2,1.02,1.27
+271129,Todd,Goldstein,NM,23,82,120,76,76,91,4,10,2,2,25,2,1,2,0, Full Time,news,%H and %D plus %T and %M... also %s,,,400300,49,549500,85,Ruck,22,21,90.2,113.2,16.91,16.75
+230272,Michael,Firrito,NM,13,72,106,57,59,78,9,8,6,3,0,2,1,0,0, Full Time,witcheshat,The big job on Cloke... helpless against him one-on-one though... %P and %M with %T,,,236900,53,263700,30,Back,11,16,57.6,61,0.80,0.92
+280921,Ben,Cunnington,NM,13,65,84,30,48,66,13,5,0,2,0,2,0,1,0, Full Time,news,%P and %T plus %s,,,410600,100,504300,110,Centre,10,19,83.3,96.4,0.55,0.69
+296078,Taylor,Garner,NM,14,65,64,56,52,72,7,9,4,4,0,1,1,0,0, Full Time,news,%P and %M with %T,in,Late replacement for Levi Greenwood,120700,,129500,,Forward,27,1,-1,-5,0.38,0.51
+261909,Lindsay,Thomas,NM,18,60,85,39,52,69,8,7,1,1,0,0,1,3,0, Full Time,news,First goal.... %s from %O on Shaw,,,273300,67,328000,86,Forward,12,19,63.6,70.9,1.29,1.51
+270325,Robbie,Tarrant,NM,9,60,34,47,53,65,7,5,8,0,1,0,0,0,4, Full Time,news,%s from %D and %G on Keeffe,,,223200,55,238600,53,Forward,25,12,50.1,55.5,0.46,0.41
+291445,Aaron,Mullett,NM,8,58,44,34,46,63,10,6,4,1,0,0,0,0,0, Full Time,news,%O and %M,job,Minding Josh Thomas,345300,93,377800,91,Centre,41,21,75,79.4,3.04,2.98
+250373,Lachlan,Hansen,NM,8,54,70,34,47,66,9,7,5,1,0,0,2,0,0, Full Time,job,On Lynch.. %P and %M... %F as well,,,381300,58,412100,63,Forward,6,19,73.3,73.1,1.14,0.65
+291963,Brad,McKenzie,NM,3,42,40,32,37,51,5,8,3,1,0,1,1,0,0, Full Time,news,Started forward... %O and %M,,,184100,32,172800,32,Centre,2,9,46.1,41.3,4.70,2.04
+280612,Will,Sierakowski,NM,2,37,57,13,28,42,9,3,1,1,0,0,1,0,0, Full Time,job,Kennedy is his man... %D,,,125700,14,126700,30,Back,28,6,35.5,32.8,1.88,2.11
+270303,Luke,Delaney,NM,3,34,24,26,25,33,5,1,3,2,0,0,0,0,0, Full Time,job,Has Reid... %D and %M with %T,,,239700,52,287300,74,Back,15,4,52.5,61.5,0.24,0.32
+290802,Ben,Jacobs,NM,1,23,9,10,16,24,5,2,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Wright... %O,sub,Started as a sub,243400,53,301900,63,Back,5,6,41.7,54.8,0.32,0.43
+280864,Sam,Wright,NM,0,14,16,11,12,18,2,2,1,1,0,0,1,0,0, Full Time,injured,Forward role on Maxwell... %D... iced up in Q3,subbed,Subbed off in Q3 for Jacobs,304900,26,339200,29,Back,19,15,50.7,57.7,0.56,0.48

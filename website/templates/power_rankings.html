@@ -23,6 +23,8 @@
             <th style="min-width:70px">Coach</th>
             <th class="text-end" title="Season average score per player">Avg</th>
             <th class="text-end" title="Rolling 3-round average score per player">3Rd Avg</th>
+            <th class="text-end" title="Total in-game injuries this season">🤕</th>
+            <th class="text-end" title="Average score of in-game injured players">🤕 Avg</th>
             {% for r in pr_table.rounds %}
             <th class="text-end" style="min-width:38px">{{ r }}</th>
             {% endfor %}
@@ -36,6 +38,14 @@
             </td>
             <td class="text-end">{{ "%.1f"|format(row.avg) }}</td>
             <td class="text-end fw-semibold">{{ "%.1f"|format(row.avg_3rd) }}</td>
+            <td class="text-end fw-semibold"
+                style="background-color:{{ row.total_inj_color }}; color:{{ row.total_inj_text_color }};">
+              {{ row.total_injuries if row.total_injuries else "—" }}
+            </td>
+            <td class="text-end fw-semibold"
+                style="background-color:{{ row.avg_inj_color }}; color:{{ row.avg_inj_text_color }};">
+              {{ "%.1f"|format(row.avg_inj) if row.avg_inj else "—" }}
+            </td>
             {% for cell in row.cells %}
             <td class="text-end fw-semibold pr-cell"
                 style="background-color:{{ cell.color }}; color:{{ cell.text_color }}; padding:3px 6px; cursor:default;"

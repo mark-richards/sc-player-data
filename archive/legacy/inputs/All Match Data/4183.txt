@@ -1,0 +1,48 @@
+Port Adelaide,Power,Brisbane,Lions,R22,14.9.93,16.8.104, Full Time
+Aug 25,2012,2:10,Footy Park,Fox Sports,240087,10342203,430190,0,A few showers,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>ballbag</em>: @fns he did. maybe traded him out this week<br><em>fnsupastar</em>: i just checked&#044; maxwell hasnt even got pendles in his team<br><em>Turkies</em>: Hanley pick up a few late touches mate!!<br><em title="MWAXO">mwaxo</em>: anyone associated with an AFL team callot win anything in DT&#044; so maxwell can do whatever he likes<br><em>rosty63</em>: goaless quarter power shame shame<br><em>Royale81</em>: Adcock. Son you disappoint.<br><em>Redlegs</em>: hey im cool dont worry about that grossn<br><em>grossn</em>: Game over&#044; Lions win<br><em>grimmjow</em>: how long to go?<br><em>Khunt1vote</em>: I wonder how many of these Port spuds are playing their last home game?<br><em>Jewel23</em>: Should Maxwell be playing DT/SC if he has inside information?<br><em>grossn</em>: copy exactly what i said essentially Redlegs&#044; thats cool.<br>
+250365,Travis,Boak,PA,37,112,134,149,81,114,17,8,2,9,0,3,2,1,0, Full Time,hot,%D and %T plus %s,rain,Tagged by Raines
+261911,Brad,Ebert,PA,15,108,51,141,78,111,24,7,3,3,0,1,0,0,0, Full Time,hot,%2 Redden... %O,,
+210020,Kane,Cornes,PA,15,91,105,114,75,105,12,15,5,3,0,1,1,0,0, Full Time,news,%P and %M,,
+230195,Jay,Schulz,PA,17,91,95,116,74,90,11,3,8,3,0,1,0,2,3, Full Time,news,Booted %s from %D and %G on Merrett... also %T,,
+291962,Chad,Wingard,PA,20,88,87,109,74,100,16,10,5,0,1,1,1,1,0, Full Time,news,%O on Hawksley,,
+260750,Justin,Westhoff,PA,28,85,96,109,63,80,6,3,0,9,14,2,1,2,0, Full Time,news,Lester on him... %s from %D and %T... also %H,,
+210043,Domenic,Cassisi,PA,15,78,85,102,62,87,12,9,4,4,0,2,2,0,0, Full Time,tagger,Tagging Black... %P and %T... also %F,sore,Right knee knock in Q2
+261230,Matthew,Lobbe,PA,26,77,84,92,67,83,4,6,1,5,29,1,2,1,0, Full Time,sore,%H and %D... left hamstring tightness in Q3,,
+271078,Matthew,Broadbent,PA,19,72,78,88,65,85,11,7,3,1,1,2,3,3,0, Full Time,news,%P and %M plus %s,,
+250688,Alipate,Carlile,PA,12,69,92,90,56,72,15,3,6,0,0,3,1,0,0, Full Time,job,Standing Brown... %D and %M,,
+230124,Tom,Logan,PA,3,55,69,70,41,54,8,6,1,3,0,4,0,0,0, Full Time,job,Chasing Crisp... %O,,
+240385,Matt,Thomas,PA,14,52,45,69,42,56,6,3,3,4,0,1,2,1,2, Full Time,news,Forward tag role on Adcock... %P and %M plus %s,,
+1230242,Brett,Ebert,PA,10,46,51,59,37,51,5,5,2,3,0,0,1,1,0, Full Time,news,%s from %D and %M on Patfull,,
+280013,Jackson,Trengove,PA,4,46,60,60,34,48,8,3,0,3,5,1,1,0,1, Full Time,job,Has Lisle... %P and %T... also %H and %s,,
+290546,Aaron,Young,PA,9,42,57,52,37,51,5,7,1,2,0,2,2,1,0, Full Time,news,%s from %O playing forward... also %F,,
+270779,Paul,Stewart,PA,8,39,33,49,34,45,5,4,3,1,0,0,1,1,0, Full Time,news,Matched up on Polkinghorne... %P and %M plus %s,,
+271128,John,McCarthy,PA,3,39,51,49,31,42,6,5,2,1,0,1,0,0,0, Full Time,news,%B among %P,,
+292145,Thomas,Jonas,PA,2,38,73,49,28,39,4,5,1,3,0,1,0,0,0, Full Time,tagger,Tagging Rockliff... %O,,
+220090,David,Rodan,PA,3,37,51,47,29,39,6,4,2,1,0,1,0,0,0, Full Time,tagged,Tagged by Beams... %D,,
+260511,Darren,Pfeiffer,PA,3,37,42,48,28,39,7,3,2,1,0,0,0,0,0, Full Time,job,Has Bewick... %O and %M,,
+250063,Danyle,Pearce,PA,3,32,40,42,26,37,8,2,2,0,0,0,1,0,1, Full Time,news,On after HT for Blee,sub,Started as a sub
+290001,Nathan,Blee,PA,0,5,6,6,4,6,1,1,0,0,0,0,0,0,0, Full Time,job,Green is his man... %D,subbed,Subbed off at HT for Pearce
+281373,Jack,Redden,BL,50,121,137,123,88,126,9,15,3,13,0,0,1,1,0, Full Time,star,%2 Brad Ebert... %P and %T with %M and %s,,
+261224,Dayne,Zorko,BL,32,113,163,80,89,119,16,8,3,6,0,2,2,3,2, Full Time,hot,%D and %M plus %s... also %T and %F,,
+240013,Andrew,Raines,BL,26,92,107,58,67,96,17,3,3,7,0,1,3,1,0, Full Time,superman,His Q4 set up the win for Brisbane... %D and %T with %M... also %F,tagger,Tagging Boak
+271072,Daniel,Rich,BL,20,87,100,64,66,97,13,10,2,7,0,2,3,0,1, Full Time,news,%O and %M with %T... also %s and %F,,
+980007,Simon,Black,BL,18,86,123,59,66,96,12,15,1,4,0,1,0,0,0, Full Time,tagged,Tagged by Cassisi... %D and %T,,
+292035,Claye,Beams,BL,19,75,103,56,64,79,9,6,6,1,0,1,0,2,1, Full Time,news,%P and %M plus %s,tagger,Tagging Rodan
+270512,Pearce,Hanley,BL,9,72,113,37,54,75,14,6,3,2,0,1,0,0,0, Full Time,news,Loose in defence... %O and %M,,
+270919,Tom,Rockliff,BL,13,69,63,44,51,71,12,4,3,4,0,1,1,0,2, Full Time,tagged,Tagged by Jonas... %s from %D,,
+200007,Jonathan,Brown,BL,21,68,77,47,65,79,9,3,6,0,1,1,3,4,0, Full Time,news,Booted %s from %P and %G on Carlile,,
+290748,Joshua,Green,BL,16,67,98,49,56,72,9,3,3,3,0,1,2,3,0, Full Time,news,First goal... %s from %O and %M on Blee,,
+240710,Ben,Hudson,BL,20,65,75,59,61,74,4,5,0,3,38,2,3,0,0, Full Time,news,%H and %D,,
+261222,James,Hawksley,BL,12,65,74,49,55,72,8,9,6,1,0,1,0,0,0, Full Time,news,%P and %M,job,Minding Wingard
+240087,Jed,Adcock,BL,4,56,79,38,41,54,9,3,3,3,0,2,0,0,0, Full Time,tagged,Forward tag on him by Thomas... %P and %M with %T,,
+270936,Jordan,Lisle,BL,9,43,58,33,39,48,4,7,2,0,3,2,0,1,0, Full Time,news,%s from %P and %M on Trengove... also %H,subbed,Subbed off at 3QT for Drummond
+230147,Daniel,Merrett,BL,3,40,45,18,31,42,9,1,3,1,0,1,1,0,0, Full Time,news,%O and %M,job,Standing Schulz
+230170,Joel,Patfull,BL,4,40,62,34,35,48,5,4,5,2,0,0,2,0,0, Full Time,sore,Got a knock very early in Q1... %P and %M,job,Has Brett Ebert
+281048,Ryan,Harwood,BL,2,38,50,18,31,45,7,7,1,0,0,0,0,0,0, Full Time,news,%P,,
+281329,Rohan,Bewick,BL,9,32,31,31,29,42,3,4,2,3,0,0,3,1,0, Full Time,news,%s from %D on Pfeiffer... also %T,,
+291548,Ryan,Lester,BL,2,29,42,10,24,33,7,2,2,0,0,1,1,0,0, Full Time,job,Following Westhoff... %O,,
+293871,Jack,Crisp,BL,2,29,50,27,22,33,3,4,1,3,0,0,1,0,0, Full Time,news,One touch in Q1... %P on Logan,,
+260975,James,Polkinghorne,BL,2,24,53,13,19,29,5,2,0,2,1,1,2,0,1, Full Time,news,Matched up on Paul Stewart... %P and %s,,
+200121,Josh,Drummond,BL,0,8,16,2,6,9,2,1,0,0,0,0,0,0,0, Full Time,news,On after 3QT for Lisle... %O,sub,Started as a sub

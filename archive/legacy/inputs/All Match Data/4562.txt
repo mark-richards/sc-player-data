@@ -1,0 +1,48 @@
+Collingwood,Magpies,Essendon,Bombers,R19,20.13.133,7.12.54, Full Time
+Aug 04,2013,4.40,MCG,Seven,250267,10391909,coll-v-ess,0,A shower or two,18,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: flower only 2350 again. getting repetitive now<br><em style='color:#000'>stark</em>: @juggalo&#044; absolute corruption inside m0nty's regime now... enemies can sense his vulnerability and weakness now<br><em style='color:#000'>stark</em>: think the pressure is starting to get too much for essendon...two losses in a row now<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: 2327 SC for me before update <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tSK"></b> Juggalo</em>: Why did the star move to Sidebottom??? WTF monty&#044; I thought the game was already over????<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> flagdog49</em>: Target him!!!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> gdshifty</em>: so no DT symbol next to Swan this week Monty?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: Okay cool feralmong sorry perhaps misunderstood you <br><em style='color:#000'>stark</em>: Reid looks like a genuine forward&#044; and not just a risky&#044; on/off swingman<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> Hawkatack</em>: Sidebottam sc please<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> ajconodie</em>: Cape for Cloke&#044; Montgomery!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> feralmong</em>: that's my point heizenberg. been as good as last year despite the setbacks.<br>
+280965,Steele,Sidebottom,CO,32,126,132,160,103,135,19,11,11,2,0,0,0,1,0, Full Time,star,%O including %K with %M and %T,,,447900,50,481100,52,Centre,22,17,96.2,102.8,3.37,2.89
+271001,Dayne,Beams,CO,26,117,96,150,92,120,19,8,8,3,0,2,0,1,0, Full Time,hot,%2 Goddard... %P and %M plus %T and %s,,,580100,114,635100,126,Centre,17,3,114.7,118.7,2.66,1.79
+220105,Dane,Swan,CO,27,115,108,152,84,120,21,9,4,6,0,1,1,0,0, Full Time,heart,Playing wide of Stanton... %O and %T with %M... corked thigh in Q2... returned quickly and was fine after that,dttalk,Thew #1 captain option from Calvin of DT Talk,578800,84,595600,113,Centre,36,17,119,118.8,51.90,41.59
+240073,Harry,O'Brien,CO,26,113,97,142,92,120,17,10,8,2,1,1,0,1,2, Full Time,hot,%2 Dempsey off a wing... %D and %M plus %T and %s... 11 of those touches in a productive Q1,,,392800,90,425100,89,Back,8,14,83.7,87.3,4.81,3.22
+260257,Scott,Pendlebury,CO,32,111,105,140,86,118,13,14,4,6,0,1,0,1,1, Full Time,hot,Tagged by Hocking... %O and %T with %M and %s... had a massive Q3,,,559600,182,627100,194,Centre,10,17,111.9,126.5,45.51,47.25
+220061,Quinten,Lynch,CO,26,107,110,136,84,109,13,8,6,5,7,1,0,1,0, Full Time,hot,%s from %D and %M on Fletcher trying to drag him up the ground... also %H and %T,,,298400,104,314900,107,Forward,21,13,67.7,69.1,1.49,2.30
+220005,Luke,Ball,CO,26,98,118,126,72,99,12,10,2,7,0,2,0,1,0, Full Time,news,%2 Watson... %P and %M plus %T and %s,,,436800,90,455000,74,Centre,12,8,97.5,96.1,7.82,10.00
+240232,Ben,Reid,CO,22,96,109,120,80,96,10,4,8,3,0,1,0,3,3, Full Time,x-factor,Starting forward... %s from %P and %M on Hooker... also %T,,,357400,94,387200,97,Back,20,16,70.4,80.2,2.18,2.83
+240366,Travis,Cloke,CO,26,94,98,114,81,93,13,1,7,0,0,2,0,5,0, Full Time,vulture,Booted %s from %P and %G on Carlisle... four of his goals in Q4 junk time,,,431600,96,451400,86,Forward,32,16,95.1,97.2,21.13,15.95
+240700,Heath,Shaw,CO,25,93,90,128,61,87,16,2,3,8,0,0,0,0,0, Full Time,news,%D and %M with %T,job,Responsible for Dell'Olio,397100,95,499900,118,Back,39,14,86.2,102.6,14.34,27.02
+295256,Marley,Williams,CO,15,90,76,117,68,93,12,9,5,5,0,1,0,0,0, Full Time,news,%O and %T with %M,job,Melksham is his man,334300,57,367900,65,Back,46,10,67.5,71.6,0.54,0.59
+280104,Jarryd,Blair,CO,31,88,96,114,63,85,9,6,1,8,0,1,0,2,1, Full Time,news,%s from %D and %T on Hardingham,,,355200,80,367000,74,Forward Centre,11,16,80.4,79.5,1.67,1.68
+290314,Lachlan,Keeffe,CO,13,80,99,107,60,78,14,2,7,3,0,1,0,0,0, Full Time,job,Takes the resting ruck which is mostly Ryder... %D and %M with %T,,,251300,64,301400,54,Back,23,2,50,66.5,0.17,0.23
+291386,Ben,Sinclair,CO,13,76,98,99,62,84,14,6,7,1,0,0,1,0,0, Full Time,news,%O and %M with %T,job,In defence again on Colyer,248100,30,261300,32,Forward,28,12,51.9,54.1,1.18,1.07
+293801,Jamie,Elliott,CO,17,72,84,89,59,72,7,4,4,3,0,1,0,3,0, Full Time,news,First goal... %s from %O and %M on Baguley... also %T,,,268000,71,290300,78,Forward,19,16,65.9,69.6,2.87,4.44
+230263,Nick,Maxwell,CO,13,68,77,89,50,69,8,7,3,5,0,1,0,0,0, Full Time,tagged,Forward tagged by Kommer... %O and %T with %M,,,318400,80,336700,72,Back,5,13,66.1,67.8,1.15,1.01
+260310,Nathan,Brown,CO,9,68,69,88,57,72,9,5,9,1,0,0,0,0,0, Full Time,gumby,Standing Gumbleton... %O and %M,,,183700,51,240800,61,Back,16,16,39.4,48.6,2.01,1.63
+250133,Sam,Dwyer,CO,8,67,79,82,57,76,8,11,5,1,0,1,0,0,1, Full Time,news,%O and %M,,,353100,70,369100,66,Forward Centre,41,15,69.1,72.3,13.88,15.75
+293957,Brodie,Grundy,CO,10,57,70,68,54,67,5,6,4,1,19,1,2,0,0, Full Time,news,#1 ruck... %H and %P with %M and %T... also %s,,,107200,,114500,,Ruck,35,1,92,75,4.73,3.99
+260246,Tyson,Goldsack,CO,9,52,75,68,38,54,6,6,2,4,0,0,0,0,0, Full Time,news,%P and %T with %M,subbed,Subbed off in Q4 for Josh Thomas,273700,41,332800,77,Forward,6,7,57.9,70.9,0.92,0.87
+261181,Brent,Macaffer,CO,14,37,37,54,34,54,5,4,2,5,0,0,6,1,0, Full Time,tagger,Tagging Heppell... %P and %T with %M... also %F and %s,,,319800,86,307200,90,Forward,3,16,70.1,63.9,20.83,23.89
+290289,Josh,Thomas,CO,2,23,23,32,14,21,5,0,0,2,0,0,0,0,0, Full Time,news,On in Q4 for Goldsack... %P and %T,sub,Started as a sub,332200,64,362000,68,Centre,24,13,74.2,76.3,1.49,1.45
+230231,Jobe,Watson,ES,20,113,115,68,88,121,19,12,6,3,0,1,0,0,1, Full Time,atlas,%2 Ball... %P and %M with %T and %s,,,433500,145,528900,177,Centre,4,14,95.7,110.7,7.67,9.96
+230084,Brendon,Goddard,ES,24,94,105,51,79,109,17,10,6,1,1,0,2,1,0, Full Time,news,%2 Beams... %P and %M.... also %s and %F,,,466500,118,485600,141,Back Centre,9,17,103.5,102.2,61.74,64.76
+250267,Patrick,Ryder,ES,21,91,79,75,79,97,8,10,4,2,25,2,0,0,0, Full Time,news,%P and %M when forward on Keeffe... also %H,,,402800,117,452000,133,Forward Ruck,30,13,83.9,91.7,5.31,6.44
+261314,David,Myers,ES,20,91,54,61,71,101,14,11,4,4,1,0,1,0,1, Full Time,news,%D and %T plus %M,,,375800,81,359100,47,Back,23,17,76.9,75.4,2.82,1.34
+250569,Heath,Hocking,ES,25,83,90,75,60,90,9,11,1,9,0,1,2,0,0, Full Time,news,%O and %T,tagger,Tagging Pendlebury,322200,93,332200,88,Centre,39,13,69.5,63.2,1.07,0.76
+290160,Michael,Hibberd,ES,14,78,80,62,61,87,9,13,3,4,0,0,0,0,0, Full Time,news,%O and %T with %M,,,378500,71,432500,92,Back,1,17,87.1,95.2,12.94,12.11
+240027,Brent,Stanton,ES,13,73,71,58,54,78,9,10,2,5,0,0,0,0,0, Full Time,news,%P and %T plus %M,swan,Playing wide of Swan,474600,140,466300,122,Centre,5,16,105.8,97.8,11.47,2.32
+290629,Dyson,Heppell,ES,8,73,77,46,56,76,11,11,0,3,0,5,0,0,1, Full Time,tagged,Tagged by Macaffer... %O and %T plus %s,,,476300,116,454700,102,Back Centre,21,16,100.3,95.6,47.54,32.61
+280824,Jake,Melksham,ES,15,70,50,44,56,78,12,5,4,3,0,0,2,1,0, Full Time,news,%s from %P and %M starting forward on Williams... %T as well,,,383600,79,380100,43,Centre,17,16,74.9,72.5,0.90,1.13
+270588,Cale,Hooker,ES,14,65,66,42,60,87,9,16,4,0,0,0,2,0,0, Full Time,job,Has Reid... %D and %M,,,378100,89,414200,87,Back,26,17,73.4,80.1,1.09,0.70
+261320,Tom,Bellchambers,ES,15,64,83,44,58,74,8,5,2,1,19,0,2,1,1, Full Time,news,%H and %P plus %s,,,371200,105,396700,107,Ruck,2,15,76.5,82,2.62,2.97
+280413,Cory,Dell'Olio,ES,10,59,59,46,46,63,7,7,2,3,0,0,0,1,0, Full Time,news,Trying to keep Shaw honest... %D and %T with %M and %s,,,222200,19,208000,-28,Forward,47,2,63,78.5,1.56,1.19
+250366,Scott,Gumbleton,ES,14,53,44,42,49,61,6,5,7,0,0,0,1,1,1, Full Time,news,Donuts in Q1... Brown on him... %s from %D and %M,,,258100,121,319800,147,Forward,3,5,57.4,63.8,0.80,0.52
+294798,Mark,Baguley,ES,13,52,49,49,43,66,5,10,2,5,0,0,3,0,0, Full Time,job,Minding Elliott... %P,,,325900,73,358700,69,Back,46,16,65.2,67.9,1.17,0.76
+270951,David,Zaharakis,ES,6,49,60,29,42,61,7,12,1,0,0,0,0,0,1, Full Time,news,%D and %s,,,389200,158,413200,165,Centre,11,16,85.4,88.2,1.17,1.34
+291686,Nick,Kommer,ES,8,44,42,36,33,43,5,3,1,3,0,1,0,1,1, Full Time,tagger,Forward role on Maxwell... %s from %D and %T,,,235300,51,238400,61,Centre,38,15,53,53.7,6.04,6.91
+270584,Kyle,Hardingham,ES,8,43,55,22,33,45,8,3,1,1,0,0,0,1,0, Full Time,switch,Responsible for Blair... %D... switched forward in Q3 for %s,,,254300,32,333400,61,Back,34,3,54,61.3,0.36,0.22
+250352,Leroy,Jetta,ES,4,42,38,43,36,49,2,9,3,2,0,0,0,0,1, Full Time,news,On in Q2 for Dempsey... %s from %O and %T with %M,sub,Started as a sub,296400,82,307600,97,Forward,7,5,55,53,0.48,0.51
+280988,Travis,Colyer,ES,3,39,22,27,31,40,6,2,4,1,0,0,0,0,1, Full Time,news,%s from %D and %M on Sinclair,,,285100,30,339000,37,Centre,32,6,57.3,66.8,0.35,0.38
+960197,Dustin,Fletcher,ES,2,27,46,7,22,33,7,3,1,0,0,0,1,0,0, Full Time,job,On Lynch... %O,,,315900,80,363400,102,Back,31,11,62.7,68.9,1.33,1.13
+290641,Jake,Carlisle,ES,2,25,48,18,21,33,4,4,1,2,0,0,2,0,0, Full Time,job,Following Cloke... %P... also %F,,,350500,110,393300,110,Back,22,16,73.6,81.7,3.20,3.05
+240245,Courtenay,Dempsey,ES,0,6,23,8,4,6,0,1,0,1,0,0,0,0,0, Full Time,injured,%2 O'Brien off a wing... left hamstring tweak in Q1,subbed,Subbed off in Q2 for Jetta,390300,133,386600,128,Back,15,13,83.2,82.4,2.31,1.83

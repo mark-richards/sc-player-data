@@ -1,0 +1,48 @@
+Carlton,Blues,Fremantle,Dockers,R19,12.8.80,17.14.116, Full Time
+Aug 03,2013,7.40,Docklands,Seven,290311,10391905,carl-v-fre,0,Roof closed,15,,
+
+<em style='color:#000'>Hawkatack</em>: sc<br><em style='color:#000'>Far cue</em>: walker and barlow sc?<br><em style='color:#000'>9294eagles</em>: monty gone to bed?<br><em style='color:#000'>eski_liddr</em>: sc anyone?<br><em style='color:#000'>Kenny27</em>: Gibbs 76 sc<br><em style='color:#000'>jpk2goodes</em>: foxsports (dot) com (dot) au for sc scores.<br><em style='color:#a0a'>frenzy</em>: lost in transit<br><em style='color:#000'>drake2013</em>: sc?<br><em style='color:#000'>nugget1</em>: C'mon sc<br><em style='color:#000'>ballbag</em>: gibbs disgraceful attitude<br><em style='color:#000'>bigpens</em>: maybe i have...<br><em style='color:#000'>nugget1</em>: Mayne*<br>
+990059,Heath,Scotland,CA,27,126,119,163,103,136,21,10,12,2,0,1,1,0,1, Full Time,cherry,Playing in defence with de Boer on him... %O and %M plus %T and %s,,,331300,40,352100,62,Back Centre,29,14,77.4,79.9,5.99,4.91
+230202,Kade,Simpson,CA,21,119,128,154,92,123,21,9,8,3,0,2,0,0,0, Full Time,heart,%O and %M with %T... left thigh corkie in Q3,job,Responsible for Neale,439000,56,508800,88,Centre,6,17,83.6,92.2,0.74,0.77
+290311,Mitch,Robinson,CA,21,98,90,128,75,106,11,12,5,7,1,0,1,0,0, Full Time,news,Matched up on Sutcliffe... %D and %M with %T,,,332300,78,371600,86,Forward Centre,12,15,73.4,77.8,3.25,2.06
+220056,Chris,Judd,CA,26,88,95,115,67,90,11,7,4,6,0,2,1,1,0, Full Time,news,First goal... matched up on Suban... %P and %T with %M and %s,,,394300,143,512300,146,Centre,5,16,82.1,100,3.67,3.83
+292511,Zach,Tuohy,CA,25,86,103,107,73,93,9,7,6,3,0,0,1,3,0, Full Time,heart,Corked left buttock in Q2... %P and %M with %T and %s,job,Minding Ballantyne,247400,39,310200,53,Back,42,17,52.4,64.5,1.72,2.06
+270326,Lachie,Henderson,CA,16,85,85,108,69,86,10,4,7,3,0,0,0,2,2, Full Time,news,Starting forward on Dawson... %D and %T with %M and %s,,,372100,65,484100,67,Back Forward,23,17,71.8,89.5,2.77,3.56
+240028,Brock,McLean,CA,20,84,77,108,64,84,10,7,4,5,0,2,0,1,0, Full Time,news,%P and %T with %M and %s,,,398400,93,425100,109,Centre,14,17,86.5,88.8,0.48,0.46
+240014,Andrew,Walker,CA,15,83,85,106,68,96,15,11,4,2,0,2,2,0,0, Full Time,news,%P and %T... also %M and %F,job,Interesting job on Walters,396400,63,497800,86,Forward Centre,1,17,85.1,107.5,10.71,25.38
+260533,Dennis,Armfield,CA,25,79,70,105,58,81,9,6,3,7,0,0,1,1,0, Full Time,tagger,Forward role on Danyle Pearce... %s from %O and %M... also %T,,,246100,38,255700,37,Forward Centre,27,17,55.8,59.4,2.03,2.08
+261299,Matthew,Kreuzer,CA,15,78,72,95,62,78,8,5,1,4,23,1,0,0,1, Full Time,news,%H and %D with %T,,,452500,94,566700,73,Ruck,8,14,88.7,101.9,12.45,8.39
+260278,Sam,Rowe,CA,21,76,75,95,62,75,6,3,5,4,15,0,0,1,0, Full Time,news,%s from %P and %M on Johnson... also %H and %T,,,240300,67,270600,101,Forward Ruck,17,8,55.5,59.5,22.82,24.36
+280971,Jaryd,Cachia,CA,21,76,78,105,52,75,8,5,3,9,0,0,1,0,0, Full Time,news,%P and %T plus %M,tagger,Tagging Mundy,304500,143,289000,116,Centre,37,12,64.6,59.9,1.57,1.28
+261043,Michael,Jamison,CA,14,73,73,95,59,75,10,5,8,2,0,1,0,0,0, Full Time,job,On the resting ruck which is mostly Sandilands... %M and %P plus %T,,,196800,42,276400,77,Back,40,17,48.4,64.4,1.28,1.55
+250417,Bryce,Gibbs,CA,13,69,73,88,60,84,11,10,6,1,0,0,2,0,0, Full Time,job,Given the role to follow Mayne... %O and %M,,,406500,98,420000,105,Back Centre,4,14,92.9,96.3,43.12,42.42
+270653,Jeff,Garlett,CA,16,69,64,90,53,68,8,2,3,5,0,1,1,2,2, Full Time,news,%s from %O on Spurr... also %T and %M,,,273900,30,309700,36,Forward,38,17,73,81.5,3.90,3.84
+290526,Matthew,Watson,CA,14,68,67,86,57,70,9,4,7,1,0,1,0,1,1, Full Time,news,Started forward... %P and %M plus %s,,,247800,82,337200,94,Back,10,3,47.3,66,0.20,0.18
+250105,Marc,Murphy,CA,8,55,51,70,41,57,4,9,1,5,0,2,0,0,0, Full Time,creepy,Tagged by Crowley... %D and %T,,,342800,55,392000,49,Centre,3,16,86.2,91.7,7.52,7.45
+271110,Chris,Yarran,CA,4,49,36,63,38,52,7,5,3,2,0,0,0,0,1, Full Time,news,%s from %D and %M on Duffield,,,271500,40,297400,30,Back,13,14,60.1,67.2,4.93,5.63
+281079,Kane,Lucas,CA,2,43,45,52,35,48,6,8,1,1,0,2,0,0,0, Full Time,news,On in Q2 for Carrazzo... %O,sub,Started as a sub,316900,141,326700,126,Centre,9,16,71.3,71.4,2.18,4.15
+240060,Eddie,Betts,CA,7,38,40,51,26,36,4,3,1,4,0,1,0,0,0, Full Time,news,Clancee Pearce on him... %s from %P and %T,,,234700,18,294400,23,Forward,19,11,54.9,65.1,1.84,1.52
+270146,Ed,Curnow,CA,7,38,48,50,27,39,3,5,1,4,0,0,0,0,0, Full Time,tagger,Tagging Hill... %O and %T,,,333900,58,375800,29,Centre,35,14,73.3,77.4,0.32,0.35
+220015,Andrew,Carrazzo,CA,1,27,24,37,18,24,3,1,1,3,0,1,0,0,0, Full Time,injured,Tagging Fyfe... %D and %T... left leg injury in Q1,subbed,Subbed off in Q2 for Lucas,320700,55,349700,72,Centre,44,9,66.7,70.8,0.60,0.60
+292026,Michael,Barlow,FR,26,106,110,85,84,114,12,14,5,5,0,1,0,1,0, Full Time,gun,%O including %B... also %T and %M... %s as well,,,512800,131,567400,133,Centre,21,16,108.5,113.7,20.82,11.53
+291570,Nathan,Fyfe,FR,16,101,138,54,78,112,19,11,4,3,1,0,1,0,0, Full Time,magnet,Tagged by Carrazzo but freed up in Q1 after Carrots got injured... %O and %T,,,484700,101,484600,82,Centre,7,15,100.1,105.3,13.69,17.70
+250063,Danyle,Pearce,FR,27,96,78,73,71,97,13,7,4,6,0,0,0,1,1, Full Time,tagged,Forward tag on him by Armfield... %D and %T wiht %M,,,343800,78,385500,86,Back Centre,6,17,77.5,79.6,9.98,6.59
+240052,David,Mundy,FR,15,92,94,68,69,93,13,7,5,5,2,1,0,0,1, Full Time,tagged,Tagged by Cachia... %P and %M with %T and %s,,,491700,127,524800,153,Centre,16,15,99,103.9,3.52,5.12
+280726,Tendai,Mzungu,FR,21,90,82,66,71,99,13,8,5,5,0,0,2,1,0, Full Time,news,%P and %T with %M... also %s and %F,,,408600,101,437900,111,Centre,13,17,77.5,78.6,1.39,0.84
+260069,Hayden,Ballantyne,FR,21,88,99,53,73,93,15,2,4,3,0,3,3,3,3, Full Time,star,%s from %O and %M on Tuohy... dislocated finger on right hand in Q1... also %T and drew %4 FF,,,326200,44,319200,39,Forward,1,14,66.1,66.6,1.25,1.07
+280416,Chris,Mayne,FR,18,87,89,80,69,92,8,10,7,5,1,0,0,0,1, Full Time,news,%s from %D on Gibbs... %T and %M as well,,,431200,96,467900,127,Forward,23,17,85.6,90.1,4.76,3.12
+293535,Lachie,Neale,FR,16,87,95,55,72,99,13,11,3,2,0,0,1,2,0, Full Time,news,%s from %D and %M on Simpson,,,236800,7,277700,6,Centre,27,4,58,67,0.73,0.37
+281007,Michael,Walters,FR,22,84,73,56,74,94,12,5,4,2,0,2,3,4,1, Full Time,news,%s from %P and %M on Walker... %T as well,,,367000,76,420300,97,Forward,10,14,81,86.7,3.18,1.28
+220096,Aaron,Sandilands,FR,22,80,88,74,76,92,4,10,4,1,28,0,1,1,1, Full Time,news,%s from %P and %M when forward on Jamison.... %H as well,,,411300,153,522300,166,Ruck,31,3,50,63,0.96,0.62
+270908,Nick,Suban,FR,16,79,111,47,65,88,14,4,4,3,0,1,3,2,1, Full Time,news,Matched up on Judd often in midfield... %P and %T with %M and %F... also %s,,,317600,52,345600,31,Back,8,15,67.2,69.4,3.71,4.20
+290251,Zachary,Clarke,FR,21,77,82,86,63,79,2,9,3,6,17,1,0,0,2, Full Time,news,%H and %D with %T... also %M and %s,,,324700,66,406200,85,Ruck,30,10,78.7,89.6,4.58,2.25
+271015,Matthew,de Boer,FR,14,75,97,63,57,82,8,12,2,5,0,0,0,0,1, Full Time,news,%D and %T up forward on Scotland,,,345400,83,359400,67,Forward Centre,9,17,76.2,74.5,1.52,1.27
+280336,Stephen,Hill,FR,11,67,78,44,53,69,10,4,3,2,0,0,0,2,0, Full Time,tagged,Tagged by Curnow... %O and %T plus %s,,,311600,55,407100,68,Centre,32,13,68.1,84.7,1.90,0.91
+230107,Michael,Johnson,FR,4,57,76,36,41,57,10,3,3,3,0,0,0,0,0, Full Time,job,Zoning off Rowe... %D and %T with %M,,,414200,97,470500,87,Back,37,17,83.3,88.1,2.60,1.62
+290733,Cameron,Sutcliffe,FR,4,52,59,25,41,57,11,3,4,1,0,0,1,0,0, Full Time,job,Robinson is his man... %P and %M,in,Late replacement for Matthew Taberner,219300,76,227200,89,Centre,33,12,45.8,43.2,0.54,0.37
+240266,Lee,Spurr,FR,5,47,45,38,41,57,6,6,5,2,0,0,2,0,0, Full Time,job,Responsible for Garlett... %P and %T... also %M and %F,,,359700,89,359400,88,Back,34,16,74.1,74.8,0.87,0.73
+230048,Ryan,Crowley,FR,7,45,39,38,31,46,6,3,1,5,1,0,1,0,0, Full Time,tagger,Tagging Murphy... %O and %T,,,289000,101,289100,94,Centre,15,17,53.2,54.5,1.46,1.55
+240139,Paul,Duffield,FR,7,45,58,28,28,42,9,0,0,5,0,1,1,0,0, Full Time,job,Yarran is his responsibility... %P and %T,,,323600,90,360900,97,Back,41,14,79.9,85.2,2.72,4.61
+240552,Zac,Dawson,FR,3,36,58,44,30,42,0,9,2,3,0,0,0,0,0, Full Time,job,Has Henderson... %O and %T,,,163900,13,228300,23,Back,3,17,33.3,45.2,3.33,1.77
+280386,Clancee,Pearce,FR,2,35,48,33,26,36,3,5,1,3,0,1,0,0,0, Full Time,injured,Betts is his man... %D and %T... calf injury in Q3,subbed,Subbed off in Q4 for Sheridan,335000,37,349500,53,Centre,46,17,79.1,80.1,0.57,0.47
+291792,Thomas,Sheridan,FR,0,10,4,8,9,12,1,2,1,0,0,0,0,0,0, Full Time,in,Late replacement for Garrick Ibbotson... on in Q4 for Clancee Pearce,sub,Started as a sub,165100,-8,173300,-8,Centre,11,4,50.8,51.3,1.25,0.79

@@ -1,0 +1,48 @@
+Geelong,Cats,Western Sydney,Giants,R10,19.12.126,9.7.61, Full Time
+Jun 2,2012,1:45,Kardinia,Seven,200131,10341002,430090,0,A late shower or two,17,,
+
+<em>kuraban</em>: Good to see Selwood standing tall. (Figuratively speaking&#044; of course.)<br><em>The captai</em>: Selwood 105&#044; you've gotta be kidding<br><em>mufc</em>: cameron should be ashamed of that second half<br><em>brad_lee</em>: why did i trade Shiel instead of Magner...<br><em>Scotti2Hot</em>: Lol - Selwoods s/coach score. Luv it.<br><em>mufc</em>: smedts sc is bull shower but no complaints about joels<br><em>stakerz</em>: stevie j killing me :(<br><em>jfitty</em>: Selwood's SC is bull<br><em>Bomber11</em>: 102 sc selwood&#044; cant complain well done captain(injured) &#044; courageous what can you ask for?!<br><em>GJayBee</em>: actually two more points!!!<br><em>comma3</em>: Why trade Jelwood. His price drop his too high&#044; he will come good<br><em>GJayBee</em>: one more point geelong please!!!<br>
+220054,Steve,Johnson,GE,49,150,156,189,125,154,19,6,12,4,0,1,1,5,1, Full Time,cherry,%s from %O and %M on Reid.. also %T,,
+200039,Paul,Chapman,GE,44,137,148,176,106,139,15,11,8,8,0,1,0,2,1, Full Time,star,Had a big Q2... %O and %T plus %M and %s,,
+220058,James,Kelly,GE,31,127,137,167,96,135,21,11,7,6,0,0,1,0,0, Full Time,hot,%2 Ward... %D and %T with %M,mrp,A high bump on Greene in Q3 is likely to draw a supension
+261497,Harry,Taylor,GE,43,126,110,155,109,129,13,4,10,3,0,1,1,6,3, Full Time,bluemoon,Played FF on Davis... %s from %D and %M,,
+220007,Jimmy,Bartel,GE,19,115,118,143,98,126,19,13,7,1,4,7,2,0,2, Full Time,hot,%P and %M... also %H... won %4 FF and conceded %F,skull,Matched up on Scully
+230248,Andrew,Mackie,GE,15,99,101,131,75,99,20,3,8,2,0,1,0,0,0, Full Time,news,%P and %M,,
+281065,Mitch,Duncan,GE,24,89,73,123,66,90,15,2,7,6,0,1,2,0,0, Full Time,news,%2 Shiel... one touch in Q1... %D and %T with %M,,
+290783,Billie,Smedts,GE,18,77,58,101,59,79,10,6,6,4,0,0,0,0,1, Full Time,cash,%O and %T with %M,in,Late replacement for Joel Corey
+980037,Matthew,Scarlett,GE,13,77,108,99,64,84,11,8,7,2,0,2,1,0,0, Full Time,job,Responsible for the resting ruckman which is mostly Phillips... %O and %M,,
+280822,Taylor,Hunt,GE,14,75,81,98,64,87,9,9,8,3,0,0,2,0,0, Full Time,news,%B among %P with %M and %T,tagger,Tagging Greene
+260261,Trent,West,GE,18,74,73,88,69,84,5,10,7,1,15,2,1,0,0, Full Time,news,%H and %P with %M,,
+291309,Jesse,Stringer,GE,16,71,61,93,56,75,9,5,5,4,0,0,1,1,0, Full Time,cash,%s from %P and %T on a HFF on Darley... also %M,in,Late replacement for Steven Motlop
+210059,Josh,Hunt,GE,12,66,70,85,55,75,11,7,6,1,0,0,1,0,0, Full Time,news,%D and %M,job,Minding Smith
+230214,Mathew,Stokes,GE,10,62,54,80,48,66,6,8,4,4,0,0,0,0,0, Full Time,news,Power on him... %O,,
+250321,Joel,Selwood,GE,12,62,104,80,49,72,9,10,1,4,0,2,2,0,0, Full Time,heart,Tagged by Townsend... left groin tweak in Q1 but played through it... %O and %T,,
+200131,James,Podsiadly,GE,19,60,73,72,56,66,6,3,6,0,2,0,1,3,1, Full Time,news,Booted %s from %G and %D on Mohr... also %H,,
+280125,Tom,Gillies,GE,12,60,67,76,57,75,9,9,7,0,0,3,3,0,0, Full Time,in,%l Corey Enright... %D and %M,job,On Haynes
+290550,Cameron,Guthrie,GE,11,55,72,70,46,60,7,5,4,2,0,1,1,1,0, Full Time,cash,%D and %T with %M,job,Has Treloar
+230125,Tom,Lonergan,GE,4,54,57,70,45,58,9,4,5,1,1,2,1,0,0, Full Time,job,On Cameron... %D and %M,,
+261167,Orren,Stephenson,GE,18,48,57,59,39,46,1,1,0,5,19,1,1,1,0, Full Time,cash,%H and %D with %T and %s,subbed,Subbed off at 3QT for McCarthy
+290576,Jordan,Schroder,GE,2,27,27,34,25,39,4,7,1,1,0,0,2,0,0, Full Time,rookie,First game... %P... also %F,,
+293581,Lincoln,McCarthy,GE,2,25,12,31,22,27,3,3,3,0,0,1,0,0,0, Full Time,rookie,First game... on after 3QT for Stephenson,sub,Started as a sub
+291969,Stephen,Coniglio,WS,25,115,96,60,91,119,22,5,9,1,0,0,0,1,2, Full Time,hot,First goal... %P and %M plus %s,cash,Still earning fantasy cash after all these weeks
+280109,Callan,Ward,WS,25,104,120,78,82,110,14,9,6,5,1,1,1,1,1, Full Time,hot,%2 Kelly... %P and %T with %M and %s,,
+291783,Dylan,Shiel,WS,21,95,109,75,74,100,11,10,3,5,0,0,0,2,1, Full Time,cash,%2 Duncan... %D and %T plus %s,,
+29,Adam,Treloar,WS,16,74,73,60,55,72,9,3,3,5,0,0,0,2,0, Full Time,cash,%s from %P on Guthrie... also %M and %T,,
+295344,Toby,Greene,WS,14,72,71,56,59,81,9,11,3,4,0,4,2,0,0, Full Time,cash,Tagged by Taylor Hunt... %P including %B with %T,,
+980011,Luke,Power,WS,9,68,81,37,53,72,13,5,4,2,0,2,1,0,0, Full Time,news,%O and %M with %T,job,Chasing Stokes
+980059,Chad,Cornes,WS,9,68,66,50,55,70,9,7,5,2,0,3,0,0,1, Full Time,news,%D and %M with %T,,
+290765,Sam,Darley,WS,10,66,64,54,47,63,9,2,5,5,0,0,0,0,0, Full Time,cash,%D and %T with %M,job,Playing a HBF on Stringer
+280969,Tom,Scully,WS,18,64,71,52,51,81,9,10,1,7,0,1,5,0,0, Full Time,news,%2 Bartel... %P and %T... also %F,,
+261841,Jonathan,Giles,WS,10,62,81,45,53,68,7,6,0,2,23,1,1,0,0, Full Time,news,%H and %P with %T,,
+291802,Tomas,Bugg,WS,10,62,75,54,49,66,7,6,5,4,0,1,1,0,0, Full Time,news,%P and %M,,
+293845,Jeremy,Cameron,WS,15,57,85,51,51,66,6,3,6,3,0,0,3,2,0, Full Time,cash,Kicked %s from %P and %G on Lonergan... also %T,,
+970130,James,McDonald,WS,14,54,74,46,39,57,7,5,1,6,0,2,2,0,0, Full Time,cash,%D and %T,,
+7,Nick,Haynes,WS,8,53,55,48,37,48,6,2,3,5,0,2,0,0,0, Full Time,rookie,First game... %P and %M on Gillies,,
+11,Taylor,Adams,WS,8,52,66,45,40,60,6,8,1,5,0,1,2,0,0, Full Time,cash,%D and %T,,
+280804,Phil,Davis,WS,8,50,58,26,44,60,10,4,6,0,0,0,2,0,0, Full Time,job,At FB on Taylor... %O and %M... also %F,,
+261189,Tim,Mohr,WS,4,45,56,27,35,45,8,2,4,1,0,1,0,0,0, Full Time,ipod,Standing Podsiadly... %D and %M,,
+291771,Devon,Smith,WS,8,44,44,44,33,46,3,7,1,4,0,1,0,0,1, Full Time,wall,%s from %D on Josh Hunt... also %T,,
+261374,Sam,Reid,WS,9,43,49,41,33,48,4,6,2,4,0,0,1,0,0, Full Time,news,%O and %T,job,Following Johnson
+291891,Jacob,Townsend,WS,13,41,33,39,26,39,5,1,1,6,0,0,1,0,0, Full Time,concussed,Tagging Selwood... %O and %T... also %F... ran his head into Stringer in Q2 which left him groggy,subbed,Subbed off in Q3 for Tyson
+294068,Andrew,Phillips,WS,4,37,37,28,34,43,5,3,2,2,7,4,3,0,0, Full Time,cash,%D on Scarlett... also %H and %T,,
+291784,Dom,Tyson,WS,6,21,12,15,18,24,3,1,1,1,0,0,1,1,0, Full Time,cash,On in Q3 for Townsend... %s from %D,sub,Started as a sub

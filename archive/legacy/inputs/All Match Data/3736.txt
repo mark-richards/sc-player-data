@@ -1,0 +1,48 @@
+Essendon,Bombers,Collingwood,Magpies,R5,11.11.77,16.11.107, Full Time
+Apr 25,2011,2:40,MCG,Ten,220005,10310505,5490,37,Sunny,23
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>upforgrabs</em>: Get on the mighty hawkers tomorrow there a moral <br><em>leesa68</em>: thanx monty boo hoo<br><em>upforgrabs</em>: Unlucky leesa68 u spud<br><em>FFScience</em>: @ merk hell yes<br><em>FFScience</em>: 166 pendlas gtfo<br><em style='color:#e50000'>m0nty</em>: you didn't actually win leesa68&#044; read the rules<br><em>merkinhere</em>: 2200 looking like a good score on sc?<br><em>hungryJack</em>: how the hell did swan get 107 sc he played like crap<br><em>leesa68</em>: i love footy<br><em>KraKBabY</em>: jimmeh<br><em>wbulldogs</em>: cash cow sign for heppell<br><em>CatAttack9</em>: @leesa68 did u get all of the coinflips right as well?<br>
+292503,Stewart,Crameri,ES,33,112,126,142,88,115,12,7,4,7,0,0,1,4,1, Full Time,hot,%s from %P and %T with %M,,
+260073,Ben,Howlett,ES,45,111,87,151,77,109,16,6,4,10,0,1,1,0,1, Full Time,hot,%P and %T with %M plus %s,,
+240027,Brent,Stanton,ES,26,108,91,143,79,111,17,9,4,7,0,2,1,0,0, Full Time,hot,Spent time early on Shaw then freed up... %P and %M with %T,,
+290629,Dyson,Heppell,ES,24,107,97,140,80,109,17,8,6,5,0,1,0,0,1, Full Time,hot,%P and %M with %T,job,Running off Beams then Dick
+250352,Leroy,Jetta,ES,31,103,99,135,74,96,13,5,3,8,0,4,0,1,3, Full Time,hot,%s from %O and %T with %M on Davis,,
+230231,Jobe,Watson,ES,25,101,90,127,79,114,14,15,2,5,0,0,1,1,0, Full Time,hot,%P and %M with %T plus %s,,
+990046,Mark,McVeigh,ES,19,80,74,106,59,85,13,8,1,6,0,3,2,0,1, Full Time,tagger,Tagging Shaw... %O and %T plus %s,,
+261320,Tom,Bellchambers,ES,20,78,63,93,69,81,7,5,6,1,18,1,0,1,0, Full Time,news,%H and %D with %M and %s,,
+270588,Cale,Hooker,ES,10,74,87,90,62,84,8,14,4,2,0,2,0,0,0, Full Time,job,Following Cloke... %M and %P,,
+200026,David,Hille,ES,13,68,57,84,60,76,6,6,4,3,7,1,2,2,0, Full Time,news,%D and %T with %M on Reid... also %H and %F,,
+210079,Nathan,Lovett-Murray,ES,8,68,66,86,53,75,9,10,3,3,0,0,0,0,0, Full Time,job,On Brown... %P and %M with %T,,
+270951,David,Zaharakis,ES,15,65,70,79,55,75,8,9,2,2,0,0,1,2,0, Full Time,news,%s from %D and %M on Toovey... also %T,,
+960197,Dustin,Fletcher,ES,9,61,85,79,51,72,14,6,4,0,0,1,2,0,0, Full Time,sore,%M and %D with %F... knock to the right side of his jaw in Q1,job,Responsible for Dawes
+250569,Heath,Hocking,ES,14,60,61,79,44,63,4,9,1,7,0,2,1,0,0, Full Time,tagger,Tagging Pendlebury... %D and %T,,
+250267,Patrick,Ryder,ES,4,59,70,71,48,63,5,9,1,3,9,2,0,0,0, Full Time,news,%D on Tarrant... also %H and %T,,
+240319,Sam,Lonergan,ES,7,54,50,67,41,60,7,10,0,3,0,1,0,0,0, Full Time,news,Matched up on Johnson... %D,,
+270584,Kyle,Hardingham,ES,5,52,68,68,40,54,6,5,4,3,0,0,0,0,0, Full Time,news,%D and %T with %M,,
+250071,Henry,Slattery,ES,14,51,57,71,34,51,7,3,1,6,0,0,1,0,0, Full Time,tagger,Tagging Didak... %D and %T,sore,Groin soreness in Q3
+240290,Angus,Monfries,ES,8,48,36,64,35,51,5,6,1,5,0,1,1,0,0, Full Time,news,%P and %T on O'Brien,subbed,Subbed off in Q3 for Reimers
+270935,Michael,Hurley,ES,4,44,42,57,36,51,6,6,3,2,0,0,1,0,0, Full Time,news,%O and %T,,
+280824,Jake,Melksham,ES,3,43,34,54,34,49,7,7,0,2,1,2,1,0,0, Full Time,news,%D,,
+261324,Kyle,Reimers,ES,1,25,21,31,20,28,3,4,1,1,0,0,0,0,1, Full Time,news,On in Q3 for Monfries,sub,Started as a sub
+260257,Scott,Pendlebury,CO,55,166,130,123,131,174,23,11,10,8,0,1,2,3,0, Full Time,anzac,Tagged by Hocking... %D and %M with %T plus %s,,
+240366,Travis,Cloke,CO,36,118,134,91,95,114,15,2,10,4,2,2,0,3,1, Full Time,superman,Booted %s from %O and %G on Hooker... all his goals in Q4,sore,Left ankle knock in Q2
+200019,Leon,Davis,CO,24,111,111,65,86,121,21,7,7,5,0,1,3,0,1, Full Time,hot,%P and %T with %M,switch,Minding Jetta for most of the match but switched forward in Q4
+220005,Luke,Ball,CO,33,111,96,92,83,114,14,8,5,9,0,2,2,1,0, Full Time,hot,%D and %T with %M and %s,,
+240700,Heath,Shaw,CO,20,110,111,57,86,117,22,6,9,2,0,0,1,0,0, Full Time,hot,Tagged by McVeigh... %P and %M,,
+220105,Dane,Swan,CO,27,104,106,83,81,113,13,11,4,7,0,1,2,1,2, Full Time,magnet,%O and %M with %T plus %s,,
+210099,Darren,Jolly,CO,32,100,117,89,87,107,7,9,2,4,34,1,1,1,1, Full Time,hot,%H and %P with %T... also %s,,
+261799,Sharrod,Wellingham,CO,26,94,105,79,69,99,11,12,2,8,0,2,1,0,0, Full Time,news,%O and %T with %M,,
+240359,Dale,Thomas,CO,15,85,81,50,68,97,15,10,4,3,1,1,2,0,0, Full Time,news,%D and %M,,
+240232,Ben,Reid,CO,19,80,98,51,69,90,13,7,10,0,0,0,1,0,0, Full Time,job,Has Hille... %O and %M,,
+200028,Leigh,Brown,CO,17,76,79,52,58,75,12,0,4,4,9,0,1,1,0, Full Time,news,%s from %P and %M with %T on Lovett-Murray... also %H,,
+260394,Chris,Dawes,CO,21,76,78,64,64,83,8,7,4,4,1,2,2,2,1, Full Time,news,%s from %P on Fletcher,,
+280965,Steele,Sidebottom,CO,27,72,58,75,53,75,5,8,2,8,0,0,1,1,0, Full Time,news,%P and %T,,
+210003,Alan,Didak,CO,14,68,45,43,54,76,10,10,1,2,0,0,0,1,1, Full Time,tagged,Tagged by Slattery... %s from %O,,
+280104,Jarryd,Blair,CO,7,60,58,27,48,67,12,7,3,0,0,0,0,0,1, Full Time,news,%s from %P and %M,,
+271001,Dayne,Beams,CO,11,59,59,40,51,63,8,4,5,0,0,0,0,2,0, Full Time,news,First goal... %s from %P and %M on Heppell,subbed,Subbed off at 3QT for Dick
+240073,Harry,O'Brien,CO,8,58,68,29,50,72,12,6,5,1,0,0,3,0,0, Full Time,job,Minding Monfries... %O and %M with %F,sore,Left knee knock just before HT
+230263,Nick,Maxwell,CO,4,51,45,34,39,52,8,4,3,2,1,1,0,0,0, Full Time,job,Standing Hurley... %P and %T with %M,,
+980023,Chris,Tarrant,CO,9,51,77,50,41,57,4,8,3,4,0,1,1,0,0, Full Time,job,On Ryder... %D and %T with %M,,
+240419,Alan,Toovey,CO,7,50,71,24,40,57,10,6,2,1,0,1,1,0,0, Full Time,job,Chasing Zaharakis... %D,,
+200021,Ben,Johnson,CO,3,43,30,18,34,48,9,5,2,0,0,0,0,0,0, Full Time,news,Matched up on Lonergan... %P,,
+270571,Brad,Dick,CO,1,14,9,18,10,15,0,3,0,2,0,0,0,0,0, Full Time,news,On in Q4 for Beams,sub,Started as a sub

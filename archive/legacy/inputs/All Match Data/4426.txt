@@ -1,0 +1,48 @@
+Collingwood,Magpies,Hawthorn,Hawks,R3,13.12.90,22.13.145, Full Time
+Apr 14,2013,3.15,MCG,Seven,210012,10390308,5015,0,Windy with a few showers,21,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>jimmyhird5</em>: roughys sc shoudl be better he didnt do much but everything he did was contested and important!!<br><em>spiggs</em>: lol 96&#044; flower<br><em>dezza33</em>: Give cyril the vulture<br><em>krapalot64</em>: x factor for shaun&#044;surely Monty<br><em>jimmyhird5</em>: how he got the tonne only he will know<br><em>m_zulian</em>: Birchall was a good pick. Loves to kick and loves to play on when kicking in<br><em>Drenthe FC</em>: cheers hardballge<br><em>spudaroos</em>: Xfactor or gun to Buddy.<br><em>hardballge</em>: @Drenthe FC: most pathetic excuse ever<br><em>mrpig</em>: thank you swan<br><em>Costanza</em>: Swan knows exactly what his score is<br><em>spiggs</em>: floweren swan<br>
+240366,Travis,Cloke,CO,37,121,133,148,106,123,15,3,12,0,0,1,0,5,3, Full Time,hot,Booted %s from %D and %G on Schoenmakers,,,383600,58,436300,85,Forward,32
+260257,Scott,Pendlebury,CO,31,115,124,152,83,121,18,11,3,8,0,0,1,0,1, Full Time,heart,%2 Burgoyne... %O and %M with %T... left hip flexor soreness in Q2 but played on,,,568700,99,667300,110,Midfielder,10
+220105,Dane,Swan,CO,20,106,91,135,83,122,17,16,2,5,0,1,2,0,2, Full Time,garbage,%2 Mitchell... %P and %T plus %M and %s... slow patch after HT was only rescued by late junk time stats,,,688100,161,675300,157,Midfielder,36
+240710,Ben,Hudson,CO,27,97,113,114,87,112,10,12,3,2,25,1,2,1,0, Full Time,news,%H and %D with %M... also %T and %s,,,370700,,497300,,Ruck,25
+200021,Ben,Johnson,CO,20,90,94,121,64,93,14,7,3,7,0,0,1,0,0, Full Time,news,%P and %M with %T,tagger,Tagging Rioli,263000,61,301400,82,Midfielder,26
+280104,Jarryd,Blair,CO,14,78,73,95,62,88,10,13,1,3,0,0,0,1,1, Full Time,news,Started forward... %s from %P,,,409300,66,473800,93,Forward Midfielder,11
+240359,Dale,Thomas,CO,13,77,59,102,63,85,14,5,7,2,0,1,2,0,1, Full Time,news,%D and %M with %T and %s,sore,Headclash with Guerra in Q2 drew blood,480000,,515800,,Midfielder,13
+220061,Quinten,Lynch,CO,15,72,67,89,62,81,12,5,3,1,12,1,2,1,0, Full Time,news,%P and %M... also %H and %s,,,350600,32,363000,8,Forward,21
+272005,Martin,Clarke,CO,13,70,80,92,53,75,11,7,3,4,0,1,1,0,0, Full Time,news,%O and %T with %M,,,323700,53,352800,57,Back,9
+293801,Jamie,Elliott,CO,15,69,79,85,54,67,9,3,1,3,0,2,0,3,1, Full Time,news,First goal... started where he left off last week but quiet after QT... %s from %P and %T on Guerra,,,328900,11,326000,-28,Forward,19
+240419,Alan,Toovey,CO,13,68,102,91,47,66,11,4,2,5,0,1,0,0,0, Full Time,news,%P and %M with %T,job,Chasing Breust,282800,80,333700,63,Back,34
+240700,Heath,Shaw,CO,10,63,51,85,50,70,7,6,5,5,0,0,2,0,1, Full Time,tagged,Forward tag on him by Lewis... %D and %T with %M... also %s and %F,,,422800,,541300,,Back,39
+250090,Jordan,Russell,CO,14,63,65,85,44,66,7,7,1,7,0,0,1,0,0, Full Time,job,Responsible for Puopolo... %P and %T,,,264300,46,266000,29,Back,2
+290821,Alex,Fasolo,CO,9,53,48,68,41,54,10,2,3,1,0,0,0,1,0, Full Time,news,On in Q3 for Frost... %D and %M plus %s,sub,Started as a sub,373900,,404100,,Forward,1
+240232,Ben,Reid,CO,8,52,69,63,43,60,5,11,2,2,0,1,0,0,0, Full Time,heart,Following Franklin... %D and %M... right knee problem after it hyperextended under him early in Q2... back on much later in Q2 and soldiered it out,,,285200,96,348400,65,Back,20
+250133,Sam,Dwyer,CO,7,51,68,60,44,63,7,12,2,0,0,0,0,0,0, Full Time,news,%P and %M on Duryea,,,89300,-72,96200,-102,Midfielder ,41
+260310,Nathan J.,Brown,CO,11,49,57,62,44,60,3,8,4,3,0,0,2,1,0, Full Time,job,Standing Roughead... %O and %M with %T... also a rare %s,,,204700,76,259700,79,Back,16
+280965,Steele,Sidebottom,CO,8,49,39,68,36,57,9,5,0,5,0,1,3,0,0, Full Time,cold,Never got into the game... %D and %T... also %F,,,539200,99,568400,86,Midfielder,22
+240073,Harry,O'Brien,CO,7,47,58,60,41,60,10,7,3,0,0,0,2,0,0, Full Time,job,In defence on Hill... %D and %M... also %F,reported,Reported for rough conduct when Hodge dove into his legs in Q2... nothing in it,320200,7,380600,33,Back,8
+291386,Ben,Sinclair,CO,8,46,33,59,36,49,2,7,3,4,0,0,0,0,1, Full Time,news,%s from %P on Hodge... also %T and %M... will be playing VFL very soon on this form,,,256200,10,275200,30,Midfielder,28
+290810,Jack,Frost,CO,12,36,39,50,23,33,1,3,1,6,0,0,0,0,0, Full Time,job,Standing Hale...  second game... %P and %T,subbed,Subbed off in Q3 for Fasolo,89300,,96200,,Back ,45
+260246,Tyson,Goldsack,CO,3,35,39,44,30,40,5,5,2,1,0,2,1,0,1, Full Time,switch,%s from %D and %M on Stratton... had to go back on Franklin in Q2 after Reid got injured... back forward later in Q2,,,289000,44,343200,16,Back,6
+220047,Luke,Hodge,HW,34,135,122,88,102,136,21,10,4,6,0,3,0,2,1, Full Time,star,%D and %T with %M and %s,job,Running off Sinclair,398600,,459500,,Midfielder,15
+210012,Shaun,Burgoyne,HW,33,122,91,99,94,123,14,9,5,7,0,1,0,3,0, Full Time,hot,%2 Pendlebury... %P and %T plus %M and %s,,,371200,54,439800,92,Midfielder,9
+240399,Lance,Franklin,HW,28,109,121,83,90,115,13,8,5,4,0,1,1,4,1, Full Time,hot,%s from %D and %M on Reid... %T as well... also had Goldsack in Q2 while Reid was off injured,,,521300,141,618000,184,Forward,23
+280737,Liam,Shiels,HW,19,108,100,61,78,109,20,8,3,5,0,2,0,0,1, Full Time,hot,%P and %T with %M and %s,,,408900,136,375900,136,Midfielder,26
+240302,Grant,Birchall,HW,21,106,110,59,81,111,19,9,4,3,0,1,0,1,0, Full Time,hot,%D with %k by foot... also %M and %T plus %s,,,455400,43,506400,49,Back,14
+260955,Cyril,Rioli,HW,15,102,82,65,75,102,17,7,4,5,0,2,0,0,3, Full Time,garbage,Tagged by Johnson... %K among %P with %M and %T plus %s... many of his stats in Q4 junk time,,,425800,75,527300,75,Forward,33
+220073,Sam,Mitchell,HW,24,98,89,66,71,103,15,12,1,6,1,1,0,0,0, Full Time,news,%O and %T,swan,Head to head with Swan,523500,68,592600,73,Midfielder,5
+250715,Josh,Gibson,HW,14,76,97,59,63,84,9,11,6,2,0,1,0,0,0, Full Time,news,%D and %M with %T,,,333500,107,420700,121,Back,6
+250089,Jordan,Lewis,HW,20,75,76,63,61,82,8,9,4,4,1,1,1,1,0, Full Time,tagger,Forward tag on Shaw... %P and %T with %M and %s,,,463900,105,513400,120,Midfielder,3
+294877,Isaac,Smith,HW,14,68,84,54,54,78,8,12,2,4,0,1,1,0,0, Full Time,news,%B among %D with %T and %M,,,401000,66,384100,71,Midfielder,16
+240357,Jarryd,Roughead,HW,17,67,71,55,59,70,6,4,2,2,9,2,1,3,1, Full Time,news,Brown on him... one handball in Q1... %s from %P and %M with %T... also %H,mrp,A bump to the head of Hudson in Q1 will be looked at,472200,137,554800,178,Forward,2
+291861,Jed,Anderson,HW,13,67,92,41,50,68,11,5,1,3,0,1,0,1,2, Full Time,news,%D and %T plus %s,,,108500,-18,115900,5,Midfielder ,37
+280471,Ben,Stratton,HW,10,65,77,51,56,72,9,4,9,2,0,1,2,0,0, Full Time,news,%D and %M... also %T and %F,job,Has Goldsack,275400,43,324700,62,Back,24
+280744,Luke,Breust,HW,16,65,75,55,55,72,6,7,2,3,0,0,1,3,0, Full Time,news,%s from %D on Toovey... also %T and %M,,,389100,68,458900,99,Forward,22
+260710,Paul,Puopolo,HW,20,64,43,61,44,60,6,4,1,7,0,1,0,1,0, Full Time,news,%s from %P and %T on Russell,,,267000,33,314200,45,Forward,28
+295584,Bradley,Hill,HW,10,57,58,31,47,60,10,3,2,1,0,2,1,2,0, Full Time,news,Starting forward on O'Brien... %s from %P a,,,191700,-9,152000,-37,Midfielder,10
+290085,Taylor,Duryea,HW,8,56,53,33,44,61,10,5,3,2,0,1,1,0,1, Full Time,rookie,First game... %K among %D with %M and %T... also %s,job,Minding Dwyer,108500,,115900,,Midfielder,41
+200060,Brent,Guerra,HW,5,55,65,36,42,57,9,4,4,2,0,0,0,0,0, Full Time,job,Chasing Elliott... %O and %T with %M,sore,Headclash with Thomas in Q2 left him dazed,394300,99,440100,83,Back,18
+220036,David,Hale,HW,15,54,102,52,50,61,2,8,2,1,16,0,0,1,0, Full Time,news,%s from %D and %M on Frost... also %H,,,419500,107,511600,158,Forward,20
+260472,Max,Bailey,HW,13,44,50,47,36,46,2,3,1,4,16,0,1,0,0, Full Time,news,%H and %D with %T,subbed,Subbed off in Q4 for Gunston,216400,-2,286500,-3,Ruck,39
+281301,Ryan,Schoenmakers,HW,3,28,40,11,25,39,7,3,2,1,0,0,3,0,0, Full Time,job,Following Cloke... %O and %M... also %F,,,293900,22,365300,39,Back,25
+291351,Jack,Gunston,HW,1,16,18,12,12,18,2,3,0,1,0,0,0,0,0, Full Time,news,On in Q4 for Bailey... %P,sub,Started as a sub,315200,,381600,,Forward,19

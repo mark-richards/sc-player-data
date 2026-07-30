@@ -1,0 +1,48 @@
+Carlton,Blues,St Kilda,Saints,R24,9.12.66,13.8.86, Full Time
+Sep 3,2011,7.10,MCG,Ten,220015,10312401,5668,183,Windy,22,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>TheAnt</em>: Gibbs was sooo ineffective<br><em>ZacDawson</em>: get around me<br><em>sundymundy</em>: henderson was excellent. deserved that score.<br><em>bert1</em>: montang ripped off<br><em>Cabri44</em>: Ooops = Gibbs same SC score as Henderson<br><em>morta_12</em>: wtf gibbs how sc<br><em>johnkay</em>: SC IS SHOWER. henderson 73 gibbs 73. No way they had the same impact on the game. SC IS A JOKE.<br><em>Cabri44</em>: Betts same SC as Lachie Henderson - hahaha<br><em>chinospot</em>: gibbs what the shower <br><em>ComeAtMe</em>: hahahahahha gibbs' sc<br><em>old_shepp</em>: Betts SC ???<br><em>Crowbot_85</em>: How can Gibbs get less SC than NDS? That's bullshower<br>
+230202,Kade,Simpson,CA,54,163,147,204,138,178,23,17,16,1,1,1,0,1,0, Full Time,cherry,%O and %M... seven of those marks in a humongous Q1,,
+250417,Bryce,Gibbs,CA,33,121,72,158,102,132,19,6,12,3,0,1,3,2,0, Full Time,gun,%O and %M with %T... also %s and %F,,
+261009,Nick,Duigan,CA,20,110,104,140,89,117,15,12,9,3,0,2,0,0,0, Full Time,hot,%P and %M with %T,,
+250105,Marc,Murphy,CA,20,105,115,126,88,120,17,19,4,0,0,4,0,0,0, Full Time,hot,Tagged by Dempster... %D with %k by foot... also %M,,
+990059,Heath,Scotland,CA,24,104,82,132,86,114,16,11,10,1,0,0,0,0,0, Full Time,hot,%D and %M,,
+290311,Mitch,Robinson,CA,19,95,83,123,75,103,12,11,6,5,0,1,1,0,1, Full Time,news,%s from %O and %M... also %T... forward tag on Fisher until Q3,,
+260533,Dennis,Armfield,CA,14,89,84,115,69,93,14,8,6,3,0,1,0,0,0, Full Time,tagger,Tagging Dal Santo... %P and %M,,
+261318,Aaron,Joseph,CA,15,88,82,113,74,96,12,9,9,2,0,2,1,0,0, Full Time,news,%D and %M,job,Minding Milne
+240716,Setanta,O'hAilpin,CA,22,80,81,96,72,85,8,3,6,1,6,0,1,4,1, Full Time,news,Forward on Dawson... %s from %G and %D... also %H,,
+281079,Kane,Lucas,CA,13,80,78,102,65,87,13,8,7,1,0,0,0,0,0, Full Time,news,%D and %M,tagger,Tagging Goddard
+220056,Chris,Judd,CA,9,79,81,100,63,90,12,12,3,3,0,1,1,0,0, Full Time,news,%2 Montagna... %D and %M,,
+250090,Jordan,Russell,CA,9,76,82,99,58,79,12,6,5,3,0,0,0,0,1, Full Time,news,%P and %M plus %s... also %T,in,Late replacement for Michael Jamison
+270899,Jeremy,Laidler,CA,19,76,81,100,68,90,14,6,10,0,0,1,3,0,0, Full Time,news,%D and %M... also %F,job,On Koschitzke
+271110,Chris,Yarran,CA,14,75,65,100,62,84,13,5,8,2,0,0,2,0,0, Full Time,news,%O and %M with %T,job,Has Schneider
+292511,Zach,Tuohy,CA,15,69,71,82,61,81,8,12,5,0,0,0,0,1,0, Full Time,news,%M and %P off halfback... also %s,,
+270653,Jeff,Garlett,CA,16,68,50,91,50,64,6,4,5,6,0,2,0,0,1, Full Time,news,%s from %P and %M on Gilbert... also %T,,
+250672,Robert,Warnock,CA,15,66,85,74,61,70,3,7,3,1,28,2,0,0,0, Full Time,news,%H and %D with %M,,
+270326,Lachie,Henderson,CA,10,62,73,85,53,72,9,4,8,3,0,0,3,0,0, Full Time,job,Has Riewoldt.... %M and %P... also %F,,
+281049,Marcus,Davies,CA,5,58,52,76,45,58,9,3,5,2,0,1,0,0,1, Full Time,in,%l Andrew Carrazzo... on in Q2 for Kreuzer... played as a forward on Fisher... %s from %P and %T with %M,sub,Started as a sub
+240014,Andrew,Walker,CA,4,44,34,60,39,55,9,3,5,1,0,0,3,0,1, Full Time,news,%s from %D and %M,,
+240060,Eddie,Betts,CA,3,36,61,45,29,39,5,5,2,1,0,1,0,0,0, Full Time,cold,No score from %P on Clarke,,
+261299,Matthew,Kreuzer,CA,6,20,21,23,17,20,3,1,0,0,1,1,0,1,1, Full Time,injured,%D and %s... foot knock in Q1,subbed,Subbed off in Q2 for Davies
+220075,Leigh,Montagna,SK,37,117,106,75,81,114,20,6,2,8,0,1,0,1,0, Full Time,star,%2 Judd... %O and %T plus %M and %s,,
+250134,Sam,Gilbert,SK,37,116,115,97,88,117,14,8,7,8,0,2,1,1,0, Full Time,hot,%M and %D with %T and %s,job,Chasing Garlett
+270912,Jack,Steven,SK,21,97,108,73,81,105,12,10,6,3,0,2,1,2,0, Full Time,news,No stats in Q1 but had a huge Q2 and Q3 to compensate... %s from %P and %T with %M,,
+230084,Brendon,Goddard,SK,21,94,97,73,74,99,12,9,5,5,0,2,1,1,0, Full Time,tagged,Tagged by Lucas... %P and %M with %T,,
+220098,Adam,Schneider,SK,21,88,105,62,76,100,12,9,6,2,0,1,2,2,1, Full Time,news,%D and %M on Yarran... also %T,,
+230035,Raphael,Clarke,SK,10,81,88,53,64,87,13,8,5,3,0,2,1,0,0, Full Time,job,Minding Betts... %P and %T with %M,sore,Left ankle knock in Q4
+240701,Brett,Peake,SK,10,80,84,53,64,88,12,10,5,2,0,0,0,0,1, Full Time,news,%D and %M plus %s,,
+220023,Nick,Dal Santo,SK,14,75,89,49,55,79,12,8,2,4,1,0,0,0,0, Full Time,tagged,Tagged by Armfield... %O and %T with %M,,
+230243,Sean,Dempster,SK,19,73,77,53,59,81,12,3,8,4,0,0,3,0,0, Full Time,news,%P and %M with %T,tagger,Tagging Murphy
+261323,Ben,McEvoy,SK,15,72,71,68,59,75,5,8,3,4,15,1,0,0,0, Full Time,news,%H and %P with %T and %M,,
+200068,Jason,Blake,SK,13,71,84,54,58,78,9,9,6,2,0,0,0,0,0, Full Time,news,%P and %M,,
+220034,Jason,Gram,SK,13,69,62,64,53,74,6,10,3,5,0,0,0,0,2, Full Time,news,%P and %T plus %s... also %M,,
+261743,Clinton,Jones,SK,8,62,54,49,49,69,7,11,2,3,0,1,0,0,0, Full Time,tagger,Tagging Murphy... %P and %T with %M,,
+200108,Stephen,Milne,SK,14,48,47,32,45,57,7,2,3,1,0,1,3,3,0, Full Time,news,First goal... %s from %P and %M on Joseph,,
+250066,Dean,Polo,SK,8,48,57,33,45,66,7,10,4,1,0,0,3,0,0, Full Time,news,%O and %M,,
+260113,Jarryn,Geary,SK,3,44,53,27,33,48,7,7,0,2,0,1,0,0,0, Full Time,news,%O and %T,,
+210001,Nick,Riewoldt,SK,3,43,50,35,34,43,5,4,3,2,0,2,0,0,1, Full Time,cold,%s from %G and %D on Henderson,,
+210002,Justin,Koschitzke,SK,9,43,88,33,42,52,5,3,3,1,4,2,3,2,0, Full Time,crab,%P on Laidler... also %F,,
+240552,Zac,Dawson,SK,10,43,63,35,41,53,4,7,4,0,1,0,1,1,1, Full Time,x-factor,%s from %P and %M... his second-half forward work turned the game,switch,Started off standing O'hAilpin... switched forward in Q3
+240708,Sam,Fisher,SK,4,41,52,21,35,48,8,4,4,0,0,0,1,0,0, Full Time,tagged,Forward tag on him by Robinson... then got Davies in Q3... %P and %M,,
+970064,Michael S.,Gardiner,SK,3,35,33,27,31,43,4,6,2,1,4,0,1,0,0, Full Time,news,%P and %M with %H,subbed,Subbed off in Q3 for Gardiner
+240062,Farren,Ray,SK,3,31,34,28,24,33,3,4,2,2,0,0,0,0,0, Full Time,news,On in Q3 for Gardiner... %D and %T,sub,Started as a sub

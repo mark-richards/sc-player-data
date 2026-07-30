@@ -1,0 +1,56 @@
+Geelong,Cats,North Melbourne,Kangaroos,W1,0.4.8.32,0.2.2.14, Half Time
+Feb 20,2011,4:15,Kardinia,Fox Sports,,10300116,1226003081581,5271,Showers,22
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em style='color:#e50000'>m0nty</em>: That's better! ;)<br><em>MonacoMeUp</em>: wow didnt this die in a massive rush!!!<br><em>Hooch</em>: hellooo<br><em>c4v3m4n</em>: SC scores are in. Milburn 172&#044; Duncan 142&#044; Bartel 136&#044; Urquhart 116&#044; Anthony and Richardson 112. Click on H-Sun above...<br><em>Judd005</em>: hey Monty i bet youve been asked a few times but whats happening?. ?<br><em>Blummers32</em>: Somethings wrong between champion data and all other live dt sites.<br><em>TigerFever</em>: shut up b.mcgain you twat.<br><em title="BERBA DTC">berba dtc</em>: www.dreamteamcentral.com.au 1# fantasy footy forum<br><em>Spudanator</em>: hmmm spud scores<br><em>TMillBomb</em>: Doc Larkins just said Ziebell taking no further part in their next match.<br><em>TigerFever</em>: dream-stats.com<br><em title="BERBA DTC">berba dtc</em>: bartel is so sexy<br>
+220007,Jimmy,Bartel,GE,10,58,-,75,44,55,8,2,3,3,1,2,0,1,0, Half Time,hot,Tonsillitis didn't slow him down... %P and %M with %T and %s
+960375,Darren,Milburn,GE,4,55,-,70,45,60,8,6,5,1,0,0,0,0,0, Half Time,hot,Strong case to play all 22 to reach 300 in 2011... %M and %D
+281065,Mitchell,Duncan,GE,10,51,-,62,44,57,7,6,4,0,0,0,0,1,0, Half Time,hot,%s from %P and %M
+280990,Steven,Motlop,GE,8,42,-,54,35,45,7,2,3,1,0,1,1,1,0, Half Time,news,%P and %M plus %s
+250652,Jonathan,Simpkin,GE,3,40,-,53,29,40,5,3,2,3,0,0,0,0,1, Half Time,news,%O and %T with %M and %s
+230214,Mathew,Stokes,GE,3,38,-,51,28,42,6,4,1,3,0,0,1,0,0, Half Time,news,%P and %T
+230248,Andrew,Mackie,GE,3,37,-,49,31,42,6,3,4,1,0,0,1,0,0, Half Time,job,Following Hansen... %M and %P
+200035,Corey,Enright,GE,3,34,-,44,31,44,7,4,3,0,0,0,2,0,2, Half Time,news,%D and %M plus %s
+210059,Josh,Hunt,GE,2,31,-,40,23,33,4,4,1,2,0,0,0,0,0, Half Time,news,%D and %T
+291307,Daniel,Menzel,GE,3,31,-,41,25,31,6,0,4,0,0,0,0,0,1, Half Time,news,Looked solid in defence... %M and %O
+280822,Taylor,Hunt,GE,3,30,-,40,26,34,6,1,4,0,0,0,1,0,1, Half Time,news,%M and %O
+200131,James,Podsiadly,GE,3,29,-,39,26,32,5,0,5,0,0,0,1,0,2, Half Time,injured,Subbed off in Q1 after a hand injury... %s from %O and %G
+270193,Simon,Hogan,GE,3,29,-,34,28,39,3,8,2,0,0,1,1,0,0, Half Time,news,%P and %M
+220058,James,Kelly,GE,2,27,-,35,22,33,3,5,1,2,0,0,1,0,0, Half Time,news,%O and %T
+260261,Trent,West,GE,2,26,-,32,22,29,2,4,2,1,2,0,0,0,0, Half Time,news,%H and %P with %M
+290550,Cameron,Guthrie,GE,2,25,-,31,21,28,2,4,2,1,0,0,0,0,1, Half Time,news,%s from %D and %M
+293255,George,Horlin-Smith,GE,1,21,-,26,17,24,2,4,1,1,0,0,0,0,0, Half Time,news,%P
+990076,David,Wojcinski,GE,1,18,-,24,12,18,4,1,0,1,0,0,0,0,0, Half Time,news,%K among %O
+261497,Harry,Taylor,GE,1,16,-,20,13,18,3,2,1,0,0,0,0,0,0, Half Time,job,Standing Petrie... %D
+240117,Mark,Blake,GE,1,14,-,15,13,16,1,2,0,0,7,0,0,0,0, Half Time,news,%H and %D
+280918,Allen,Christensen,GE,1,14,-,15,13,18,1,5,0,0,0,1,0,0,0, Half Time,news,%B among %D
+292502,Ben C.,Johnson,GE,6,14,-,16,13,15,1,1,1,0,0,0,0,1,0, Half Time,news,%D and %s
+280125,Tom,Gillies,GE,1,13,-,17,12,18,3,2,1,0,0,0,1,0,0, Half Time,news,%D
+290576,Jordan,Schroder,GE,1,10,-,15,7,12,1,1,0,2,0,0,1,0,0, Half Time,news,Just the %T and %O
+290756,George,Burbury,GE,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and not used
+291550,Joshua,Walker,GE,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and not used
+292031,Cameron,Richardson,NM,5,57,-,40,42,57,9,3,4,3,0,0,0,0,0, Half Time,hot,Played his way into thousands of fantasy sides... %O and %M with %T
+250315,Gavin,Urquhart,NM,4,47,-,21,39,54,10,4,4,0,0,0,1,0,0, Half Time,hot,%K among %P with %M
+270325,Robbie,Tarrant,NM,3,43,-,25,33,42,8,1,4,1,0,1,0,0,0, Half Time,news,%P and %M
+260545,Liam,Anthony,NM,3,41,-,31,32,45,5,7,1,2,0,1,0,0,0, Half Time,news,%D and %T
+230232,Daniel,Wells,NM,2,37,-,24,29,39,6,3,3,1,0,0,0,0,0, Half Time,news,%O and %M
+250373,Lachlan,Hansen,NM,8,36,-,29,28,34,4,2,1,2,1,2,0,1,0, Half Time,news,Playing CHF on Mackie... %s from %O with %T
+270861,Levi,Greenwood,NM,7,36,-,44,28,39,0,9,0,4,0,2,0,0,0, Half Time,sore,Off in Q2 after taking a knock to his left arm... %P (all by hand) and %T
+240417,Andrew,Swallow,NM,4,35,-,32,30,42,3,7,2,2,0,1,1,0,0, Half Time,news,%D and %M with %T
+250285,Leigh,Adams,NM,3,35,-,35,29,39,2,7,2,2,0,1,0,0,0, Half Time,news,%P and %T plus %M
+261228,Ben,Warren,NM,2,34,-,21,24,34,6,2,1,2,0,0,0,0,1, Half Time,news,%s from %O and %T
+270303,Luke,Delaney,NM,3,29,-,24,26,33,3,4,4,0,0,0,0,0,0, Half Time,news,%D and %M
+290194,Jamie,MacMillan,NM,2,28,-,24,23,30,3,3,3,1,0,0,0,0,0, Half Time,news,%M and %O
+280944,Jack,Ziebell,NM,2,26,-,22,21,27,3,2,3,1,0,0,0,0,0, Half Time,sore,Tweaked his back in a pack in Q2 and missed the second game... %P and %M
+271129,Todd,Goldstein,NM,1,25,-,32,19,25,0,3,1,3,4,0,0,0,0, Half Time,news,%H and %P with %T
+271300,Cruize,Garlett,NM,2,25,-,15,23,33,4,5,2,0,0,0,1,0,0, Half Time,news,No score from %O and %M
+210023,Drew,Petrie,NM,2,24,-,29,17,22,1,1,2,3,1,0,0,0,0, Half Time,news,Up forward with Taylor on him but looked slow... %D and %G with %T
+960491,Brent,Harvey,NM,1,23,-,13,17,24,4,3,0,1,0,1,0,0,0, Half Time,news,%O
+230240,Aaron,Edwards,NM,1,22,-,17,17,21,3,1,2,1,0,1,0,0,0, Half Time,news,%G and %P but nothing on the scoreboard
+290199,Majak,Daw,NM,1,18,-,15,16,19,2,1,3,0,1,0,0,0,0, Half Time,sudan,Just the one hit out to add to %P and %M
+240379,Ben,McKinley,NM,6,17,-,12,15,18,2,1,1,0,0,0,0,1,0, Half Time,news,%s from %D from limited opportunities
+240189,Matt,Campbell,NM,2,16,-,9,15,21,3,2,2,0,0,0,1,0,0, Half Time,news,Will have to work harder for touches in the regular season... %O and %M
+290787,Shaun,Atley,NM,0,12,-,8,10,15,2,2,0,1,0,1,1,0,0, Half Time,news,Unimpressive... %D
+210039,Daniel,Pratt,NM,0,10,-,4,8,12,2,2,0,0,0,0,0,0,0, Half Time,news,%P
+290547,Kieran,Harper,NM,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Half Time,news,Only a single touch
+270932,Marcus,White,NM,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and not used
+280300,Ben,Speight,NM,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub and not used

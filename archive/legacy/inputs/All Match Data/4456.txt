@@ -1,0 +1,48 @@
+Port Adelaide,Power,Richmond,Tigers,R7,10.13.73,18.6.114, Full Time
+May 11,2013,1.45,Footy Park,Seven,294674,10390702,port-v-rich,0,Late rain,27,,
+
+<em>coondambo</em>: already want to trade 5 players out of my team and it's only the second game of the round..<br><em>Ozbenno</em>: Where's the sc scores<br><em>Raffdawg</em>: why are the SC scores taking so long<br><em>ballbag</em>: noone should keep hartlett... NO PREM scores 30 ever&#044; yet alone twice. hes a dud<br><em>Sledges</em>: FFS Hartlett i can't believe i got sucked into the hype<br><em>ballbag</em>: hartlett&#044; zorko&#044; maric mega fails<br><em>bobby98</em>: guys when rich played freo ellis got 134 sc<br><em>twinkle</em>: Hartlett to Ellis ?? lol<br><em>Jormas</em>: ellis gotta be blue moon<br><em title="LIVERPOOL">liverpool</em>: at 3qtr time ellis was 91 dt and only 68 sc i hope sc has changed quite a bit now<br><em>frenzy</em>: what bullshower SC scores are coming today<br><em>buddyboyz</em>: brownlow votes?<br>
+210020,Kane,Cornes,PA,20,99,102,124,78,111,13,16,4,4,0,0,0,0,0, Full Time,news,Tagging Deledio until half time because that did not work... %P and %T with %M,,,574700,146,591900,150,Centre,18
+250365,Travis,Boak,PA,19,96,88,125,68,96,14,10,1,7,0,3,0,0,0, Full Time,news,%2 Grigg then moved to Deledio in Q3... %P and %T,,,500400,114,543200,106,Centre,1
+290277,Jarrad,Redden,PA,21,89,82,107,78,94,7,7,7,2,25,0,0,0,0, Full Time,bluemoon,%H and %P with %M and %T,,,305700,120,372200,141,Ruck,34
+230195,Jay,Schulz,PA,24,88,124,108,77,94,11,6,7,1,0,2,1,3,1, Full Time,news,Booted %s from %P and %M on Chaplin,,,344200,75,388500,67,Forward,28
+261911,Brad,Ebert,PA,20,87,95,113,67,92,8,11,4,7,2,2,1,0,0, Full Time,news,%D and %T with %M,,,459100,113,476300,104,Centre,7
+261396,Robbie,Gray,PA,15,71,75,91,59,75,8,6,6,3,0,2,1,1,0, Full Time,news,Started in a FP on Morris... %s from %P and %M,,,270600,42,299300,22,Forward Centre,9
+240290,Angus,Monfries,PA,15,70,69,88,57,75,7,8,5,3,0,0,0,1,0, Full Time,news,%s from %P on Houli,,,375600,96,448100,88,Forward Centre,6
+271078,Matthew,Broadbent,PA,15,67,57,83,57,76,6,10,4,3,0,1,1,1,1, Full Time,news,%O and %M plus %s,,,385900,119,442200,136,Centre,5
+291962,Chad,Wingard,PA,14,66,72,79,60,77,8,10,5,0,0,2,1,1,2, Full Time,news,%s from %D and %M,,,382600,63,456300,87,Centre,20
+290540,Cameron,O'Shea,PA,9,65,73,86,50,63,9,3,6,3,0,2,0,0,0, Full Time,news,One kick in the first half,,,286600,37,319400,14,Back,13
+270606,Kane,Mitchell,PA,10,59,49,69,52,64,5,8,3,1,0,2,0,2,1, Full Time,cash,On after HT for Heath... %D and %M plus %s,sub,Started as a sub,131800,6,137100,-11,Centre,37
+260750,Justin,Westhoff,PA,9,58,70,74,46,63,10,5,2,2,5,1,1,0,1, Full Time,news,%D and %T on Chaplin... also %H,,,465600,209,535300,220,Forward,39
+294318,Oliver,Wines,PA,8,54,61,69,45,66,7,10,2,3,0,1,2,0,0, Full Time,wall,%2 Vlaustin... %O,,,370100,84,369300,66,Centre,16
+280750,Andrew,Moore,PA,10,52,49,68,43,60,9,4,3,2,0,0,2,1,0, Full Time,news,Started in midfield... %P and %T with %M and %s,,,292700,,291400,,Centre,26
+292145,Thomas,Jonas,PA,9,52,36,65,45,63,5,10,4,2,0,0,1,0,0, Full Time,job,Has Riewoldt... %P and %M,,,209200,49,277400,58,Back,42
+295054,Sam,Colquhoun,PA,7,52,50,63,43,60,7,10,2,1,0,1,0,0,0, Full Time,rookie,First game... %P,,,102700,,109500,,Centre Back,30
+280379,Lewis,Stevenson,PA,3,46,48,59,34,48,6,6,1,3,0,1,0,0,0, Full Time,wall,%P and %T,job,Minding Nahas,242900,35,272900,35,Back,15
+261892,Hamish,Hartlett,PA,3,37,29,50,27,40,8,2,1,2,0,0,1,0,1, Full Time,cold,%D and %T plus %s,,,451200,130,544500,134,Back Centre,8
+250688,Alipate,Carlile,PA,3,35,51,44,28,39,3,6,2,2,0,0,0,0,0, Full Time,job,Standing McGuane... %D and %M,,,275700,94,376000,121,Back,27
+290171,Campbell,Heath,PA,2,33,49,42,27,36,4,4,3,1,0,0,0,0,0, Full Time,wall,Running off King... %P and %M,subbed,Subbed off at HT for Mitchell,253900,48,272000,49,Back,3
+294604,Jake,Neade,PA,2,24,28,32,21,31,3,4,1,2,0,1,2,0,1, Full Time,wall,Newman on him... %s from %O and %T,,,242200,27,284800,36,Forward Centre,32
+260201,Daniel,Stewart,PA,1,15,23,19,15,20,2,2,2,0,1,0,1,0,1, Full Time,in,Late replacement for Domenic Cassisi... %P up forward on Batchelor,,,256700,,285800,,Forward,43
+290847,Dustin,Martin,RI,33,144,132,92,117,151,23,10,13,2,0,1,0,1,1, Full Time,cherry,%P and %M plus %s,,,462300,80,527800,77,Forward Centre,4
+240336,Brett,Deledio,RI,31,134,163,86,104,139,22,10,10,4,0,1,0,0,1, Full Time,star,Tagged by Cornes then got Boak in Q3 ... %O including %b by hand... also %M and %s,,,491500,157,554200,184,Centre,3
+293713,Brandon,Ellis,RI,32,128,103,93,98,126,20,3,13,6,0,2,1,0,0, Full Time,hot,%P and %T with %M,,,248000,-18,283700,-46,Back,5
+210048,Chris,Newman,RI,31,110,125,89,89,111,13,6,10,4,0,1,0,2,0, Full Time,hot,%P and %T plus %M and %s,job,Chasing Neade,297700,63,395800,109,Back,1
+261362,Alex,Rance,RI,21,107,99,73,88,111,17,5,13,2,0,2,1,0,0, Full Time,hot,%O and %M with %T,job,On Schulz,293800,68,388400,64,Back,18
+294674,Nick,Vlastuin,RI,25,101,105,72,87,111,14,9,11,1,0,1,1,1,0, Full Time,hot,%2 Wines... %D and %M with %s,cash,One of the better third game for fantasy purposes you will see,147700,-38,159500,-15,Back Centre,31
+250312,Bachar,Houli,RI,14,95,104,47,76,99,19,5,9,0,0,1,0,0,0, Full Time,news,%D and %M,job,Following Monfries,392600,76,476100,91,Back,14
+250298,Shaun,Grigg,RI,26,90,71,70,74,96,12,4,8,4,0,0,2,2,0, Full Time,news,%2 Boak in the first half... %P and %T... also %F,,,434800,100,415800,117,Centre,6
+250395,Jack,Riewoldt,RI,26,86,128,65,77,91,9,5,6,0,0,0,0,5,1, Full Time,target,First goal... %s from %P and %G on Jonas including three big ones in Q1,,,384900,120,445000,135,Forward,8
+240707,Daniel,Jackson,RI,14,85,82,55,68,90,15,3,9,3,0,1,2,0,0, Full Time,news,%P and %M,,,378500,50,361200,53,Centre,23
+271437,Jake,King,RI,20,78,99,49,67,85,11,7,4,0,0,0,0,3,1, Full Time,news,Heath on him... %s from %D and %M,,,283500,37,356000,58,Forward,28
+260930,Shane,Edwards,RI,26,73,95,53,60,96,13,8,3,8,0,1,8,0,0, Full Time,news,Started in midfield... %P and %T... also %F,,,358200,49,423000,101,Forward,10
+261167,Orren,Stephenson,RI,17,72,84,66,67,82,5,6,5,2,28,0,2,0,0, Full Time,news,%H and %D with %M,,,275600,,320400,,Ruck,37
+240546,Ivan,Maric,RI,14,67,85,71,54,67,3,6,3,5,16,1,0,0,0, Full Time,news,%H and %D with %T,,,435400,127,530600,160,Ruck,20
+240256,Luke,McGuane,RI,15,65,62,51,55,67,8,3,8,1,0,0,0,1,1, Full Time,news,Carlile on him... %s from %D and %M,,,287700,89,348100,125,Forward,16
+200109,Shane,Tuck,RI,24,64,81,61,49,69,5,10,0,6,0,2,1,1,0, Full Time,news,%P and %T plus %s,sore,Left shoulder knock in Q3,440600,160,492700,170,Centre,21
+250623,Robin,Nahas,RI,15,59,49,53,45,58,6,3,4,4,0,0,0,1,1, Full Time,lebanon,%s from %P and %M on Stevenson... also %T,,,338600,190,375500,189,Forward,26
+260433,Steven,Morris,RI,5,56,73,42,42,57,8,4,4,3,0,0,0,0,0, Full Time,job,In defence on Gray... %D and %T with %M,,,219500,65,280300,76,Back,38
+291437,Jake,Batchelor,RI,4,50,50,22,39,51,11,1,5,0,0,0,0,0,0, Full Time,job,Standing Daniel Stewart... %D and %M,,,287100,104,356500,86,Back,11
+240130,Nathan,Foley,RI,4,47,26,30,41,57,8,5,5,1,0,0,2,0,0, Full Time,sore,On in Q2 for Knights... %P and %M... dislocated finger in Q4,sub,Started as a sub,474500,,550000,,Centre,41
+240180,Troy,Chaplin,RI,2,35,57,25,28,36,5,3,3,1,0,1,0,0,0, Full Time,job,Following Westhoff.... %P and %M,mrp,A swinging arm on Schulz in Q1 will be scrutinised,307300,113,359900,120,Back,25
+240032,Chris,Knights,RI,8,31,45,15,27,36,6,2,2,0,0,0,1,1,0, Full Time,longterminjured,%s from %O and %M... right knee twisted under him snapping a goal in Q2... stretchered off with what looked like a kneecap dislocation,subbed,Subbed off in Q2 for Foley,323900,8,303400,4,Forward,15

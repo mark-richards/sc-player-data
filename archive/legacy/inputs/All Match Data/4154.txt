@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Geelong,Cats,R19,17.14.116,18.10.118, Full Time
+Aug 3,2012,7:50,MCG,Seven,261167,10341901,430161,0,Windy,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em title="EFC2012">efc2012</em>: surely you're not serious ryab&#044; there's no junk time in a game like that..<br><em>Rilian</em>: "Junked it up" ?? Ummm&#044; the game was on the line until the end&#044; no junk time&#044; it's called stepping up when it counts!<br><em>johnkay</em>: Frees were Hawks 26&#044; Cats 14<br><em>ryab</em>: gee&#044; enright really junked it up<br><em>Tony9668</em>: 6 goals and no ton inDT are u kidding<br><em>aceballa</em>: muppet for puopolo&#044; goes for goal of the year&#044; costs them the game haha<br><em>Seb78</em>: Sewelly SC wtf??<br><em>gocatsgo</em>: The umps were rubbish both ways. It was a great game. See you in the finals. <br><em>budgee</em>: Umpires don't pay frees in forward 50 at end of games!<br><em>NDiddy</em>: Lewis 68 sc at 3/4 time - disappointing finish!<br><em>goatcheese</em>: that was the most flowered thing i have ever seen<br><em>Pendlez10</em>: Wtf bartel sc<br>
+240357,Jarryd,Roughead,HW,21,94,114,111,80,100,10,11,3,2,16,3,0,1,0, Full Time,news,%s from %P and %M on Taylor.. also %H and %T,,
+260955,Cyril,Rioli,HW,26,94,124,121,69,92,13,5,2,6,0,1,0,2,2, Full Time,news,%D and %M plus %s and %T... on Enright when forward,,
+220036,David,Hale,HW,32,93,141,111,83,107,8,9,2,4,31,0,3,1,1, Full Time,news,%H and %P plus %T and %F... also %s,,
+210012,Shaun,Burgoyne,HW,21,89,109,110,71,96,10,11,3,4,0,0,0,2,0, Full Time,news,%O and %T with %M and %s,job,Big job on Chapman
+280737,Liam,Shiels,HW,43,87,73,120,56,81,11,4,2,10,0,0,0,0,0, Full Time,tagger,Tagging Bartel... %O and %T,mrp,An elbow to the head of Christensen off the ball in Q3 will be looked at
+250055,Clinton,Young,HW,13,86,74,111,68,88,16,5,7,1,0,2,0,0,1, Full Time,news,Matched up on Sheringham on a wing... %D and %M,,
+220073,Sam,Mitchell,HW,15,84,86,104,68,96,8,16,4,4,0,0,0,0,0, Full Time,news,%2 Selwood... %B among %P with %T and %M,,
+261386,Brendan,Whitecross,HW,15,84,90,108,64,84,14,5,4,3,0,2,0,1,0, Full Time,news,%P with %T and %M... also %s,,
+291351,Jack,Gunston,HW,18,81,84,98,68,84,9,5,4,2,0,0,0,4,0, Full Time,news,%s from %P and %M on Lonergan,,
+230197,Brad,Sewell,HW,19,79,137,97,64,93,13,13,1,2,0,0,1,1,0, Full Time,news,%2 Kelly... %D,,
+294877,Isaac,Smith,HW,16,77,91,103,58,74,9,3,5,6,4,3,1,0,1, Full Time,news,%O and %M with %T and %s,,
+280744,Luke,Breust,HW,45,75,68,101,58,79,5,6,1,10,0,4,4,2,1, Full Time,news,%s from %O and %T on Josh Hunt,,
+240302,Grant,Birchall,HW,9,68,66,87,56,75,10,8,5,2,0,2,1,0,0, Full Time,news,Stokes manning him up... %D and %M with %T,,
+250089,Jordan,Lewis,HW,13,66,66,83,50,68,10,6,1,3,1,1,0,1,1, Full Time,news,%s from %P and %T playing forward,,
+200060,Brent,Guerra,HW,9,62,75,81,50,66,10,5,5,2,0,2,1,0,0, Full Time,job,Christensen is his man... %D and %M plus %T,mrp,A high bump in Q2 on Chapman will be looked at
+260710,Paul,Puopolo,HW,10,59,56,74,45,58,8,3,1,3,0,1,0,2,1, Full Time,muppet,%s from %O and %T on Taylor Hunt... fluffed a chance in the pocket in the last minute that could have sealed the win for Hawthorn,,
+270732,Matt,Suckling,HW,5,54,43,69,43,58,7,6,4,2,0,0,0,0,1, Full Time,news,%P and %M with %T and %s,,
+280471,Ben,Stratton,HW,3,42,48,57,32,42,8,1,3,2,0,2,1,0,0, Full Time,job,Walker is his man... %P and %M,,
+220047,Luke,Hodge,HW,2,41,23,52,33,43,6,3,3,1,3,0,0,0,1, Full Time,news,%s from %P and %M up forward again on Scarlett,subbed,Subbed off at 3QT for Savage
+281301,Ryan,Schoenmakers,HW,8,34,44,47,25,36,3,3,2,4,0,0,1,0,0, Full Time,witcheshat,Always struggles against the really big boys... %D and %T with %M,tomahawk,On Hawkins
+250715,Josh,Gibson,HW,2,32,58,41,26,36,4,5,1,2,0,2,1,0,0, Full Time,ipod,Has Podsiadly... %P,,
+280858,Shane,Savage,HW,0,19,42,25,14,18,3,1,1,1,0,1,0,0,0, Full Time,in,%l Max Bailey... on after 3QT for Hodge,sub,Started as a sub
+250321,Joel,Selwood,GE,50,125,132,111,94,133,13,16,5,10,1,1,1,0,0, Full Time,gun,Head to head with Mitchell... %P and %T with %M... racked it up in Q1,,
+220054,Steve,Johnson,GE,26,113,107,73,92,119,17,9,7,2,0,1,0,2,2, Full Time,heart,First goal... %P and %M plus %s... had a massive Q1... no signs of after effects from the concussion last week,,
+281065,Mitch,Duncan,GE,21,98,99,69,82,103,14,5,9,2,0,1,1,2,1, Full Time,news,%P and %M plus %T and %s,,
+220007,Jimmy,Bartel,GE,30,94,73,84,67,90,11,4,7,8,0,0,0,0,0, Full Time,tagged,Tagged by Shiels... %D and %T with %M,,
+261510,Tom,Hawkins,GE,32,93,147,69,85,97,10,3,6,0,2,2,1,6,2, Full Time,star,Booted %s from %P and %G on Schoenmakers including the winning goal after the siren,,
+200039,Paul,Chapman,GE,23,91,101,74,75,94,10,4,5,4,0,0,1,4,1, Full Time,news,%s from %D and %M on Burgoyne... also %T... three goals in Q1 but statless in Q2,concussed,Copped an elbow in the jaw from Guerra in Q1
+220058,James,Kelly,GE,20,86,110,69,65,96,11,12,2,7,0,1,2,0,0, Full Time,news,%2 Sewell... %D and %T,,
+200131,James,Podsiadly,GE,16,72,79,63,58,77,8,5,5,5,1,1,2,1,1, Full Time,news,Kicked %s from %P and %G on Gibson... also %T,,
+261167,Orren,Stephenson,GE,10,63,87,46,56,71,7,7,0,2,23,3,2,0,0, Full Time,news,%H and %D with %T and %F,,
+230248,Andrew,Mackie,GE,18,62,81,41,56,75,10,5,7,1,0,0,3,1,0, Full Time,news,%O and %M plus %s,,
+230214,Mathew,Stokes,GE,8,58,56,44,49,69,7,11,3,2,0,1,1,0,0, Full Time,news,%P and %M on Birchall... also %T,,
+980037,Matthew,Scarlett,GE,3,52,62,24,37,52,11,3,1,2,1,1,0,0,0, Full Time,job,Manning up Hodge... %D and %T,,
+290783,Billie,Smedts,GE,8,51,56,44,44,65,5,11,2,3,0,0,2,0,2, Full Time,news,Playing forward... %s from %P and %T,,
+261497,Harry,Taylor,GE,8,50,64,32,42,54,8,4,6,0,0,0,0,0,0, Full Time,job,Standing Roughead... %O and %M,,
+200035,Corey,Enright,GE,4,41,70,36,33,45,4,6,3,2,0,0,0,0,0, Full Time,job,Responsible for Rioli when Cyril is forward... %D,,
+250343,Jackson,Sheringham,GE,4,40,27,29,32,45,6,4,3,2,0,0,1,0,0, Full Time,news,Matched up on Young on a wing... %P and %M,,
+210059,Josh,Hunt,GE,4,39,35,34,30,39,5,1,4,3,0,1,1,0,0, Full Time,injured,Minding Breust... %O and %M with %T... left quad soreness in Q3,subbed,Subbed off in Q3 for Motlop
+230125,Tom,Lonergan,GE,4,39,58,25,36,51,7,4,5,1,0,0,3,0,0, Full Time,job,Has Gunston... %P and %M... also %F,,
+280918,Allen,Christensen,GE,12,39,45,21,35,51,6,9,0,0,0,0,1,1,0, Full Time,news,%O and %s on Guerra,,
+280822,Taylor,Hunt,GE,8,38,49,37,30,42,4,3,3,4,0,1,2,0,0, Full Time,job,In defence on Puopolo... %P and %M plus %T... also %F,,
+291550,Joshua,Walker,GE,12,34,35,31,26,36,4,0,1,4,3,0,2,1,0, Full Time,news,Stratton on him... %P and %T... also %H and %F in ruck support,,
+280990,Steven,Motlop,GE,0,15,17,12,11,15,2,1,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Josh Hunt... %O,sub,Started as a sub

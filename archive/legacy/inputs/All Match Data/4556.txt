@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Richmond,Tigers,R19,9.12.66,16.11.107, Full Time
+Aug 03,2013,2.10,MCG,Seven,291351,10391903,haw-v-rich,0,Late rain,15,,
+
+<em style='color:#000'>chyeaahh</em>: if anything&#044; they were underrated coming into the season slip<br><em style='color:#000'>ozstriker</em>: deludio (opponent) and buddy (me) might just cost me my round<br><em style='color:#000'>Foss</em>: i luv that conversion fron dusty<br><em style='color:#000'>cusch1</em>: slip how are they overrated? We deserve to be in the top 4 whether or not we are punished played with great adversity<br><em style='color:#000'>Wends</em>: Spuddy indeed. Hope he changes it up for finals!<br><em style='color:#000'>ballbag</em>: typical dustbin you clusterflower<br><em style='color:#000'>slip</em>: essedon wont be there this year overated team and will lose their ponts<br><em style='color:#000'>itsduftime</em>: thank flower u made u for that free roughy<br><em style='color:#000'>Woodie</em>: And haven't played anyone else in top 4 yet<br><em style='color:#000'>matthius</em>: give lewis and martin the yin yang symbol. hardly sighted since 1/2 time and spuds for all the hawks <br><em style='color:#000'>Moondog21</em>: Essendon are *<br><em style='color:#000'>GoCrowz98</em>: Kick it Roughie!<br>
+220073,Sam,Mitchell,HW,24,112,125,147,83,111,19,7,6,5,0,3,0,0,0, Full Time,hot,%D and %M with %T,,,439400,119,480600,151,Centre,5,16,97.4,103.8,16.31,16.12
+294877,Isaac,Smith,HW,26,109,103,138,84,117,17,12,4,4,0,0,0,1,0, Full Time,hot,%P and %T with %M and %s,,,450200,101,451500,100,Centre,16,16,85.5,81.6,0.76,1.49
+210012,Shaun,Burgoyne,HW,26,98,102,130,72,97,14,5,4,7,0,2,1,1,1, Full Time,news,Starting forward... %s from %D and %T with %M on Vlastuin,,,291600,48,375300,72,Back Centre,9,15,76.4,83.9,11.76,8.35
+280858,Shane,Savage,HW,14,93,86,122,70,93,17,4,6,3,2,1,0,0,1, Full Time,news,Starting on a wing but drifting forward... %O and %M,,,353100,55,366200,55,Centre,21,10,66.4,65.5,1.26,1.45
+260710,Paul,Puopolo,HW,26,92,97,116,71,93,9,9,3,6,0,2,0,2,0, Full Time,news,%s from %P and %M... also %T,,,311400,23,364700,36,Forward,28,15,65.4,69.5,2.52,2.33
+220039,Brian,Lake,HW,19,88,112,113,75,96,9,10,10,3,0,2,1,0,0, Full Time,news,%D and %M plus %T,job,Has McGuane,321000,80,379600,97,Back,17,13,67.7,77.3,2.13,3.01
+220036,David,Hale,HW,16,87,86,103,74,88,7,6,3,3,29,2,0,0,2, Full Time,news,%s from %P and %M when forward on Astbury... also %H and %T,,,321400,26,393200,30,Forward Ruck,20,16,68.6,81.9,2.80,3.08
+220047,Luke,Hodge,HW,24,85,63,111,67,90,10,7,6,5,0,0,1,1,0, Full Time,garbage,Starting in defence but not giving much effort... did get some meaningless stats in Q4 though... %O and %M with %T... also %s,,,434800,56,488600,79,Centre,15,16,91.1,98.5,7.77,6.99
+250715,Josh,Gibson,HW,20,82,100,110,59,78,11,4,5,6,0,2,0,0,0, Full Time,news,%P and %M with %T,job,Standing Riewoldt,270500,38,365200,46,Back,6,16,61.5,76.3,2.95,2.59
+200060,Brent,Guerra,HW,15,80,89,104,61,81,13,4,5,3,0,0,0,1,0, Full Time,sore,%O including %K... also %T and %M... %s as well... ankle knock late in Q4,,,301900,43,362300,45,Back,18,13,64.3,76.6,1.35,0.96
+250089,Jordan,Lewis,HW,15,71,82,88,61,81,8,9,5,2,3,0,1,1,0, Full Time,news,%P and %M plus %T and %s,tagger,Tagging Deledio,435400,60,482800,83,Forward Centre,3,17,91.1,95.7,9.26,6.14
+240357,Jarryd,Roughead,HW,19,70,67,93,53,74,9,6,2,6,3,2,2,0,2, Full Time,news,%s from %D and %M on Chaplin... also %T,,,423500,118,507700,162,Forward Ruck,2,17,89.5,100.1,25.96,25.51
+280471,Ben,Stratton,HW,14,68,49,90,52,69,6,6,6,5,0,0,0,0,0, Full Time,news,%D and %M with %T,job,On the resting ruck which is mostly Stephenson,259200,36,313400,52,Back,24,17,63.6,68.4,2.41,2.09
+230197,Brad,Sewell,HW,13,62,66,78,50,72,6,12,2,4,0,1,1,0,0, Full Time,news,%B among %D with %T and %M,,,372600,65,380900,57,Centre,12,13,77.6,78.5,0.75,0.69
+290085,Taylor,Duryea,HW,5,59,74,76,47,63,6,7,5,3,0,0,0,0,0, Full Time,job,Minding Shane Edwards... %O and %M with %T,,,272500,66,301200,87,Centre,41,14,56.1,57.8,1.36,1.16
+280744,Luke,Breust,HW,10,55,53,71,43,58,4,7,4,4,1,0,0,0,0, Full Time,news,No score from %O and %T with %M on Morris,,,338700,87,370900,107,Forward,22,17,74.2,81.9,3.69,2.69
+240399,Lance,Franklin,HW,10,47,53,62,41,56,8,3,3,2,0,1,3,1,2, Full Time,missing,%s from %P and %M on Rance... %F as well... very quiet after QT,,,381000,69,465900,109,Forward,23,15,81.6,92.7,29.14,38.66
+260955,Cyril,Rioli,HW,8,47,46,65,31,43,6,1,2,5,0,0,0,0,1, Full Time,ghost,%s from %O and %T with %M,,,346900,77,426100,77,Forward Centre,33,9,79.1,94.4,4.17,4.67
+261386,Brendan,Whitecross,HW,4,40,31,52,36,51,6,6,4,1,0,0,2,0,0, Full Time,news,On in Q3 for Ceglar... %O and %M... also %F,sub,Started as a sub,356100,102,349500,96,Forward Centre,11,5,64.8,61.2,0.30,0.31
+291351,Jack,Gunston,HW,3,34,37,44,28,35,6,1,4,0,0,0,0,0,2, Full Time,news,%O and %M plus %s,,,429900,104,474300,133,Forward,19,15,80.5,86.3,1.93,1.70
+295584,Bradley,Hill,HW,2,30,38,36,24,36,4,7,0,1,0,0,0,0,0, Full Time,news,%2 Ellis off a wing... %O,,,305500,49,297200,62,Centre,10,16,64.1,61.4,3.96,4.86
+291327,Jonathan,Ceglar,HW,7,10,25,12,15,20,1,1,1,0,5,0,3,1,0, Full Time,in,Late replacement for Max Bailey... second game... %H and %P... also %F giving away a lot of frees in ruck... %s as well,subbed,Subbed off in Q3 for Whitecross,99300,,106200,,Ruck,47,1,66,69,3.82,2.64
+270896,Trent,Cotchin,RI,37,137,144,104,104,147,19,15,6,9,0,2,2,0,0, Full Time,star,%O and %T with %M... also %F,,,478600,77,528700,92,Centre,9,16,96,109.3,22.22,27.84
+293713,Brandon,Ellis,RI,20,102,103,55,80,108,20,5,9,2,0,0,1,0,0, Full Time,hot,%2 Hill off a wing... %O and %M with %T,,,351900,44,378900,83,Back,5,15,71.5,74.8,3.94,4.79
+240336,Brett,Deledio,RI,19,98,109,69,74,106,14,13,3,5,1,0,0,0,0, Full Time,garbage,Tagged by Lewis... %O and %T with %M... lifted when the heat went out of the game late,,,394700,115,446300,138,Centre,3,17,92.1,102.2,10.21,14.44
+250312,Bachar,Houli,RI,14,90,84,55,74,102,14,14,5,1,0,1,0,0,0, Full Time,news,%P with %k by foot... also %M,,,391200,91,432200,102,Back,14,15,83.6,92.5,2.07,4.54
+210048,Chris,Newman,RI,19,86,70,67,74,94,10,9,9,1,0,0,0,1,1, Full Time,news,Starting on a HFF... %s from %D and %M,,,310600,82,332000,91,Back,1,16,66.6,76.1,2.94,3.42
+250395,Jack,Riewoldt,RI,25,86,95,64,73,91,11,4,7,2,0,0,1,3,1, Full Time,news,First goal... %s from %P and %M on Gibson... also %T,,,347400,42,390400,68,Forward,8,17,75.1,85.6,7.68,10.04
+240546,Ivan,Maric,RI,27,84,110,80,74,90,4,10,0,4,30,3,1,1,0, Full Time,news,%H and %D plus %T and %s,,,324400,85,452700,111,Ruck,20,14,72.6,93.7,6.53,10.31
+290847,Dustin,Martin,RI,19,84,109,41,68,95,16,9,3,1,1,0,1,1,1, Full Time,news,%D and %M plus %s,,,468900,81,497600,81,Forward Centre,4,17,98.6,104.1,44.05,37.69
+240707,Daniel,Jackson,RI,15,82,83,51,63,85,13,6,2,3,0,0,0,2,1, Full Time,vulture,%D and %M with %T and %s... all his goals in Q4 junk time,,,424500,82,469800,147,Centre,23,17,88.8,87.5,0.74,1.03
+260930,Shane,Edwards,RI,20,77,82,54,58,78,11,5,2,4,0,0,0,2,0, Full Time,news,%s from %D and %T on Duryea... also %M,,,318600,76,378100,93,Forward,10,17,69.1,78.8,0.69,0.79
+290823,Reece,Conca,RI,19,76,83,64,57,82,9,9,3,6,0,0,1,0,1, Full Time,news,%P and %T with %M,,,336800,64,318000,80,Centre,30,11,77.9,75.2,0.37,0.58
+240256,Luke,McGuane,RI,22,74,77,68,59,76,7,4,3,6,4,2,2,2,0, Full Time,news,Kicked %s from %P and %M starting forward on Lake.. %T as well,,,237100,101,260300,102,Forward,16,9,52.1,60,0.34,0.42
+240130,Nathan,Foley,RI,15,73,79,57,66,88,7,15,5,0,0,0,0,1,1, Full Time,news,%P and %M plus %s,,,342800,124,383500,121,Centre,41,11,71,72.5,0.20,0.25
+240389,Matt,White,RI,17,71,80,58,56,75,9,3,4,5,0,0,2,2,0, Full Time,news,Various defensive roles in midfield... %D and %T... also %F,,,281500,75,255100,25,Centre,35,12,54.9,47.4,0.82,0.75
+261362,Alex,Rance,RI,12,57,82,44,54,70,7,9,6,1,1,4,3,0,0, Full Time,x-factor,His job on Buddy after QT was stellar... %P and %M,job,Following Franklin,364400,28,484500,72,Back,18,17,71.1,88.1,2.55,2.33
+294674,Nick,Vlastuin,RI,9,56,74,42,42,60,8,6,2,4,0,1,1,0,0, Full Time,news,In defence on Burgoyne... %P and %T,,,280600,49,325200,50,Back Centre,31,12,71.8,76.3,29.90,34.54
+240180,Troy,Chaplin,RI,5,52,48,45,43,57,5,8,4,2,0,1,0,0,0, Full Time,rock,At FB on Roughead and kept him goalless... %D and %T,,,276500,37,342400,65,Back,25,16,58.4,66.5,0.88,0.75
+250298,Shaun,Grigg,RI,8,52,80,30,46,67,8,12,2,0,1,0,1,0,0, Full Time,news,%O and %M,,,387700,40,380500,27,Centre,6,17,90.4,80.9,0.49,0.53
+200109,Shane,Tuck,RI,9,51,36,29,38,51,9,3,1,2,0,1,0,1,0, Full Time,news,On in Q3 for Stephenson... %D and %T plus %s,sub,Started as a sub,365700,97,424900,104,Centre,21,6,66,75.2,0.31,0.30
+290198,David,Astbury,RI,4,39,37,22,32,42,7,3,4,0,0,0,0,0,0, Full Time,job,Has Hale... %D and %M,,,144300,54,207600,60,Back,12,2,20,34.5,0.46,0.49
+261167,Orren,Stephenson,RI,2,18,33,16,19,22,1,1,1,0,13,0,1,0,0, Full Time,news,%H and %P,sub,Subbed off in Q3 for Tuck,281500,47,364300,44,Ruck,37,4,64,83.8,0.47,0.49
+260433,Steven,Morris,RI,1,17,19,22,13,18,0,3,1,2,0,0,0,0,0, Full Time,job,Chasing Breust... %O and %T,,,187100,67,242900,83,Back,38,16,38.6,48.1,1.09,1.26

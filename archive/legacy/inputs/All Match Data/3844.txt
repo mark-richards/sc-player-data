@@ -1,0 +1,48 @@
+Gold Coast,Suns,St Kilda,Saints,R19,6.18.54,10.14.74, Full Time
+Jul 30,2011,7:10,Gold Coast,Fox Sports,260581,10311904,5618,145,Possible shower,22,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em title="BENNN17">bennn17</em>: I think Champion data has stuffed up the two Lynchs scores. The whole game there SC scores have been the same.<br><em>travo</em>: 2000 / 13 (c) - SC<br><em>asglongden</em>: NDS SC Captain 2nd time in a row yeah boii<br><em>travo</em>: woop woop NDS el capital SC<br><em>stixy53</em>: glad i went big cox captain<br><em>Harvey29</em>: flower. NDS SC 184<br><em>roo boys!</em>: haha ablett SC captain over goddard WAS the right move.. 4points in it ;D<br><em>tommycooz</em>: Any idea of what goddards SC will be?<br><em>Bryce08</em>: great last qtr joey!<br><em>thesmasher</em>: saints are lucky nelly <br><em>crows305</em>: SPOILER ALERT!! gc lose to saints!!<br><em>OnTheRocks</em>: ever since Kosi came into the team, it's disrupted McEvoy, power off Kosi you spud<br>
+220001,Gary,Ablett jnr,GC,26,118,138,145,93,129,17,17,2,4,0,2,0,1,3, Full Time,hot,Tagged by Jones... %P and %T with %M and %s,,
+220009,Nathan,Bock,GC,25,110,130,145,89,120,21,7,10,2,0,1,2,0,0, Full Time,hot,%M and %O with %T,job,Standing Gamble
+290832,David,Swallow,GC,31,104,99,135,82,109,12,9,7,6,0,1,1,1,1, Full Time,hot,Big Q2 after starting slowly... %D and %M with %T and %s,,
+240254,Jarrod,Harbrow,GC,21,95,94,121,75,105,18,9,4,2,0,0,1,1,0, Full Time,news,%P and %T plus %M and %s,,
+240712,Michael,Rischitelli,GC,14,89,93,113,72,94,13,9,7,2,0,2,0,0,1, Full Time,news,Tagged by Dempster... then moved forward in Q3... %O and %M with %T and %s,,
+250249,Danny,Stanley,GC,20,83,78,102,74,102,9,15,6,2,0,0,2,1,0, Full Time,news,%s from %O and %M with %T,,
+293795,Jeremy,Taylor,GC,13,73,81,94,55,73,10,7,3,4,0,3,0,0,1, Full Time,job,Minding Peake... %O and %M plus %T and%s,rookie,First game
+290627,Dion,Prestia,GC,9,72,80,90,58,82,10,12,2,3,0,2,1,0,1, Full Time,news,%B among %P with %T and %M,,
+280722,Zac,Smith,GC,16,70,73,85,57,69,9,3,2,2,15,2,0,1,0, Full Time,news,%H and %P with %T... also %M and %s,,
+291594,Harley,Bennell,GC,14,67,62,82,55,74,6,10,3,3,0,0,0,1,2, Full Time,news,%s from %D and %T with %M on Goddard,,
+281075,Rory,Thompson,GC,9,65,96,84,52,67,9,5,6,2,1,1,0,0,0, Full Time,job,Has Lynch... %D and %M,,
+290527,Trent,McKenzie,GC,8,64,52,83,47,67,11,6,2,3,0,0,0,0,1, Full Time,news,%P and %T with %M and %s,,
+200020,Josh,Fraser,GC,5,62,63,76,51,64,9,4,3,1,12,1,0,0,1, Full Time,news,%s from %P and %G on Dawson... also %H in ruck support,,
+281076,Hayden,Jolly,GC,8,61,69,76,49,67,8,9,3,2,0,1,0,0,1, Full Time,news,%B among %D with %M and %T,,
+281024,Maverick,Weller,GC,5,57,49,74,44,60,7,6,4,3,0,0,0,0,0, Full Time,tagger,Forward tag on Gram... %O and %M,,
+230015,Jared,Brennan,GC,8,56,64,68,48,64,8,9,4,0,0,1,0,0,1, Full Time,tagged,%s from %O and %M... copped Dempster's tag in Q3,,
+261083,Nathan,Krakouer,GC,5,52,37,69,39,51,7,3,4,3,0,1,0,0,0, Full Time,news,%P and %M with %T,,
+220013,Campbell,Brown,GC,8,45,41,58,40,57,9,6,4,0,0,0,2,0,0, Full Time,job,Following Milne... %O and %M,,
+281085,Steven,May,GC,2,28,36,35,25,33,3,5,2,1,0,2,1,0,0, Full Time,news,%O and %M on Clarke,,
+293813,Thomas,Lynch,GC,2,27,29,34,22,34,3,6,0,2,0,0,1,0,1, Full Time,news,%s from %D and %T,,
+292512,Karmichael,Hunt,GC,3,24,24,33,19,27,3,2,2,2,0,0,1,0,0, Full Time,job,Minding Armitage... %D and %T with %M,subbed,Subbed off in Q3 for Shaw
+290790,Matthew,Shaw,GC,1,16,7,20,14,18,2,2,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Hunt... %M and %D,sub,Started as a sub
+220023,Nick,Dal Santo,SK,42,154,189,98,119,164,25,14,7,6,2,1,1,1,0, Full Time,star,%P and %M plus %T and %s,,
+230084,Brendon,Goddard,SK,32,152,138,96,121,161,25,12,13,3,1,0,0,0,1, Full Time,gun,Humongous Q1... %D and %M with %T and %s,job,On a HBF running off Bennell
+240062,Farren,Ray,SK,25,117,83,81,91,125,18,10,8,5,1,0,1,0,1, Full Time,hot,%O and %M plus %T and %s,,
+220034,Jason,Gram,SK,25,114,100,86,93,122,15,11,11,3,0,0,0,0,2, Full Time,hot,Forward tag on him by Weller... %D and %M plus %T and %s,,
+240701,Brett,Peake,SK,27,104,95,87,79,108,11,12,2,7,0,1,0,2,0, Full Time,hot,First goal... %s from %P on a HFF on Taylor... also %T and %M,,
+200108,Stephen,Milne,SK,26,103,115,70,84,104,15,3,8,2,0,0,0,3,2, Full Time,hot,%s from %O and %M on Brown,,
+270912,Jack,Steven,SK,24,103,99,60,86,116,17,12,6,1,0,1,1,1,2, Full Time,hot,%P and %M plus %s,,
+220075,Leigh,Montagna,SK,19,99,81,64,81,111,16,11,7,3,0,2,2,0,0, Full Time,garbage,Running free in midfield... %O and %M with %T... much of his production in Q4 junk time,,
+240708,Sam,Fisher,SK,14,92,104,45,73,99,19,5,8,1,0,0,1,0,0, Full Time,news,Loose in defence as usual... %P and %M,,
+261323,Ben,McEvoy,SK,21,90,114,87,83,102,5,11,8,2,24,0,1,0,0, Full Time,news,%H and %D with %M and %T,,
+250066,Dean,Polo,SK,16,83,87,55,66,90,13,7,5,3,0,0,1,1,0, Full Time,news,%O and %M with %T and %s,,
+220098,Adam,Schneider,SK,18,80,80,67,63,84,9,9,6,4,0,1,0,0,0, Full Time,news,%D and %M plus %T,,
+230035,Raphael,Clarke,SK,14,75,65,54,64,87,11,8,8,2,0,0,2,0,0, Full Time,news,%M and %O,job,Following May
+210002,Justin,Koschitzke,SK,19,70,73,56,65,79,7,8,7,0,6,2,1,1,1, Full Time,news,%D and %M with %H and %s,,
+260581,Ryan,Gamble,SK,12,67,61,40,55,71,12,3,7,1,0,1,1,0,2, Full Time,news,%s from %D and %G on Bock,,
+261743,Clinton,Jones,SK,18,64,59,51,45,70,9,7,0,7,0,0,2,0,1, Full Time,tagger,Tagging Ablett... %P and %T plus %s,,
+230243,Sean,Dempster,SK,5,60,47,41,44,58,10,1,5,3,0,0,0,0,1, Full Time,news,%O and %M with %T and %s,tagger,Moved his tag from Rischitelli to Brennan in Q3
+250134,Sam,Gilbert,SK,9,56,58,46,48,67,6,10,4,2,1,0,1,0,0, Full Time,news,%P and %M,,
+240552,Zac,Dawson,SK,5,52,67,51,45,60,3,11,4,2,0,1,0,0,0, Full Time,job,On the resting ruckman which is usually Fraser... %D and %T with %M,,
+270938,Tom T.,Lynch,SK,10,42,42,28,38,48,6,4,4,0,0,1,1,1,0, Full Time,news,%s from %P and %M on Thompson,subbed,Subbed off in Q3 for Geary
+250340,David,Armitage,SK,5,37,34,33,37,54,4,8,4,2,0,1,4,0,0, Full Time,news,Playing a HFF on Hunt... %P and %M,,
+260113,Jarryn,Geary,SK,1,19,11,14,14,18,3,0,2,1,0,0,0,0,0, Full Time,news,On in Q3 for Lynch... %O and %M,sub,Started as a sub

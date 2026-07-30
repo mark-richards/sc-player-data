@@ -1,0 +1,48 @@
+Carlton,Blues,Port Adelaide,Power,R8,16.13.109,14.7.91, Full Time
+May 19,2013,1.10,Docklands,Seven,990059,10390807,carl-v-port,0,Fine,17,,
+
+<em>dane swine</em>: i will not be renewing my membership with your site m0nty&#044; this is disgraceful<br><em>Doug606</em>: tell them all to go get flowered m0nty<br><em>BombThis</em>: Scores here are exactly the same as on the afl website. Do retards really think Monty should do the points himself??!<br><em>jesseway</em>: mont is useless<br><em>Travatron5</em>: How inflated are these scores? How did harlett get 86???<br><em>jesseway</em>: wtf m0nty&#044; get your shi&#044;t together<br><em>dane swine</em>: update your shower m0ntgomery<br><em>layngarys </em>: pretty sure Kane cornes will go to 103&#044; got two mark kicks late&#044; including the one that resulted in monfries goal<br><em>100_a_week</em>: this is still wrong! o'shea had a tackle+kick and mark =70 Murphs figuries are 3.1 24 touches =102 points! fire up monty<br><em style='color:#e50000'>m0nty</em>: DT points from the last minute will be given out soon.<br><em>tor01doc</em>: frenzy&#044; you'll knead more doe four that.<br><em title="MIJG">mijg</em>: Supercoach sit has updated and given out zero's haha<br>
+250105,Marc,Murphy,CA,22,105,130,129,88,114,13,11,5,3,0,2,1,3,0, Full Time,star,Starting forward on Stevenson... %s from %D and %M,,,521400,149,531900,132,Centre,3
+290311,Mitch,Robinson,CA,21,97,127,120,77,103,12,11,3,4,0,1,0,2,1, Full Time,news,First goal... %s from %P on Jonas,,,409800,74,421700,100,Forward Centre,12
+280971,Jaryd,Cachia,CA,44,91,80,123,65,90,8,8,4,10,0,2,1,0,0, Full Time,cash,%P and %T and %M,,,111300,-15,118200,-14,Centre,37
+281079,Kane,Lucas,CA,15,87,73,114,67,94,12,9,5,5,0,0,1,0,1, Full Time,news,%2 Broadbent... %O and %T with %M and %s,,,353000,69,363000,62,Centre,9
+220056,Chris,Judd,CA,19,86,107,108,67,96,11,14,3,4,0,0,0,0,0, Full Time,tagged,Tagged by Cornes... %D and %T,,,381700,89,481100,117,Centre,5
+240014,Andrew,Walker,CA,15,85,93,113,64,90,15,6,5,4,0,0,1,0,0, Full Time,news,%P and %M with %T,,,414900,105,553700,112,Forward Centre,1
+220110,Jarrad,Waite,CA,20,84,95,110,64,77,10,2,6,5,0,4,0,1,2, Full Time,news,%s from %D and %T on Carlile... also %G,subbed,Subbed off at 3QT for Menzel,454800,,520000,,Forward,30
+261299,Matthew,Kreuzer,CA,15,81,80,100,73,93,8,9,7,2,12,1,2,0,3, Full Time,news,%s from %D and %G on Redden... also %H,,,357700,163,434000,184,Ruck,8
+294691,Tom,Bell,CA,25,81,84,103,60,81,7,8,1,7,0,1,0,2,0, Full Time,news,%O and %T plus %s,,,304000,,310200,,Centre,28
+270326,Lachie,Henderson,CA,15,80,110,105,70,96,12,9,9,2,0,0,3,0,0, Full Time,news,%P and %M with %T,job,Following Westhoff,297500,18,396800,15,Back Forward,23
+240028,Brock,McLean,CA,14,79,84,105,60,82,11,6,5,5,0,1,1,0,1, Full Time,news,%P and %M plus %s,,,461400,145,517600,154,Centre,14
+270146,Ed,Curnow,CA,20,78,72,103,59,84,7,10,4,7,0,0,1,0,0, Full Time,tagger,Tagging Boak... %P and %T,,,365400,60,382600,68,Centre,35
+270653,Jeff,Garlett,CA,18,76,84,97,64,79,10,0,5,3,0,0,2,4,1, Full Time,news,%s from %P and %M on Cassisi,,,416400,74,516700,65,Forward,38
+990059,Heath,Scotland,CA,16,74,77,93,64,87,12,8,3,2,0,2,3,2,0, Full Time,news,%O,,,455400,103,499400,105,Back Centre,29
+230202,Kade,Simpson,CA,8,66,97,86,49,66,13,4,3,2,0,2,0,0,0, Full Time,news,%D and %M,job,In defence again on Monfries,386000,108,412100,100,Centre,6
+260533,Dennis,Armfield,CA,14,66,74,83,53,75,11,8,2,2,0,0,1,1,0, Full Time,news,%s from %P and %M with %T starting forward,,,284300,33,306100,13,Forward Centre,27
+296531,Joshua,Bootsma,CA,10,56,63,74,43,57,9,2,3,3,0,1,1,1,0, Full Time,news,%P and %G plus %s switching foward,,,223600,83,225800,62,Back,21
+250672,Robert,Warnock,CA,15,55,74,62,51,60,2,5,1,2,30,1,1,0,0, Full Time,news,%H and %P,,,322300,28,431600,19,Ruck,11
+261043,Michael,Jamison,CA,8,51,75,67,45,60,10,4,6,0,0,1,2,0,0, Full Time,job,Standing Schulz... %O and %M,,,268000,66,354800,94,Back,40
+270637,Simon,White,CA,5,49,83,65,44,60,7,6,5,2,0,2,3,0,0, Full Time,news,%D and %M,,,254100,37,303500,47,Back,43
+292511,Zach,Tuohy,CA,3,44,70,56,33,48,7,6,1,2,0,0,0,0,0, Full Time,job,Minding Neade.... %D,,,249400,72,331400,93,Back,42
+293154,Troy,Menzel,CA,0,8,12,11,5,6,1,0,0,1,0,1,0,0,0, Full Time,rookie,First game... on after 3QT for Waite,sub,Started as a sub,138700,,149500,,Forward Centre,2
+210020,Kane,Cornes,PA,27,103,87,85,76,108,13,10,5,8,0,0,1,0,0, Full Time,hot,%B among %D with %T,tagger,Tagging Judd,552900,139,570600,117,Centre,18
+261911,Brad,Ebert,PA,26,99,86,77,74,97,13,6,5,6,1,2,0,1,0, Full Time,news,%O and %M,,,446700,108,472200,84,Centre,7
+280750,Andrew,Moore,PA,26,92,90,79,74,93,10,3,7,5,0,0,1,3,0, Full Time,news,%P and %M plus %s,,,292700,85,291400,73,Centre,26
+240290,Angus,Monfries,PA,20,84,77,66,68,90,10,9,4,4,0,2,1,1,3, Full Time,news,%D and %T on Simpson,,,363600,85,439600,106,Forward Centre,6
+261396,Robbie,Gray,PA,25,81,103,77,61,81,6,10,0,7,0,3,0,2,0, Full Time,news,%s from %D with %b by hand... also %T,,,282000,21,322600,34,Forward Centre,9
+291962,Chad,Wingard,PA,15,75,71,34,62,85,15,7,4,0,1,0,1,1,0, Full Time,news,%P and %M,,,382700,94,449600,105,Centre,20
+250365,Travis,Boak,PA,14,74,65,46,56,76,12,6,2,3,0,1,0,1,1, Full Time,tagged,Tagged by Curnow... %P and %T plus %s,,,491400,107,535100,109,Centre,1
+260750,Justin,Westhoff,PA,14,73,81,55,63,80,8,11,4,1,2,3,0,1,0, Full Time,news,%D and %M on Henderson,,,400400,159,469300,165,Forward,39
+290540,Cameron,O'Shea,PA,15,70,69,61,52,69,8,6,3,6,0,4,1,0,0, Full Time,news,%O and %M with %T,,,297700,69,345300,84,Back,13
+294318,Oliver,Wines,PA,14,69,75,62,58,81,7,11,4,5,0,3,3,0,0, Full Time,news,%P including %B with %T... also %F,,,356200,97,367100,86,Centre,16
+290277,Jarrad,Redden,PA,20,68,69,64,57,71,5,4,3,4,16,0,1,1,1, Full Time,news,%H and %P wihth %T,job,Spending time at CHB on Kreuzer,291900,65,346100,97,Ruck,34
+271078,Matthew,Broadbent,PA,10,64,58,51,47,66,9,4,4,5,0,0,1,0,0, Full Time,news,%2 Lucas... %O and %M with %T,,,362800,115,407300,140,Centre,5
+261892,Hamish,Hartlett,PA,14,59,77,52,42,64,7,7,0,7,1,1,2,0,0, Full Time,news,%O and %T,mrp,A rabbit punch on Murphy in Q3 will be looked at,410400,188,498400,218,Back Centre,8
+261230,Matthew,Lobbe,PA,10,58,64,59,52,62,2,7,3,2,20,1,0,0,0, Full Time,news,%D... also %H,,,296100,60,354200,57,Ruck,23
+280379,Lewis,Stevenson,PA,9,53,40,43,40,57,7,5,3,4,0,0,1,0,0, Full Time,news,%P and %M with %T,job,Surprising job on Murphy in defence,246900,76,278600,78,Back,15
+292145,Thomas,Jonas,PA,10,53,54,51,48,69,5,9,5,4,0,1,4,0,0, Full Time,job,Responsible for Robinson.... %M and %P... also %F,,,209800,52,267900,79,Back,42
+250688,Alipate,Carlile,PA,11,50,71,31,43,60,9,3,4,2,0,0,3,1,0, Full Time,job,Has Waite... %D and %T plus %s,,,249900,95,345400,116,Back,27
+230195,Jay,Schulz,PA,10,48,67,44,41,51,3,7,1,2,0,2,0,2,0, Full Time,news,Booted %s on %D on Jamison,,,348600,35,413300,15,Forward,28
+270606,Kane,Mitchell,PA,4,46,34,31,37,49,7,4,4,1,0,0,0,0,1, Full Time,news,On in Q3 for Paul Stewart,sub,Started as a sub,154000,6,163700,-9,Centre,37
+294604,Jake,Neade,PA,3,42,58,25,31,45,7,6,0,2,0,1,0,0,0, Full Time,news,%O,,,240500,72,281200,77,Forward Centre,32
+210043,Domenic,Cassisi,PA,3,32,46,25,26,39,4,6,1,2,0,0,1,0,0, Full Time,job,In defence on Garlett... %D,,,381200,97,433300,113,Centre,25
+270779,Paul,Stewart,PA,2,22,13,18,17,25,3,2,1,2,0,0,1,0,1, Full Time,news,%s from %O and %T,subbed,Subbed off in Q3 for Mitchell,265600,81,264500,99,Forward,14

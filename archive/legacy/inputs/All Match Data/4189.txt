@@ -1,0 +1,48 @@
+Melbourne,Demons,Adelaide,Crows,R22,11.15.81,22.18.150, Full Time
+Aug 26,2012,4:40,MCG,Fox Sports,240037,10342209,430196,0,Windy and cloudy,15,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Rootragic</em>: lost the prelim by 40. devo<br><em title="OLDSALTY">oldsalty</em>: 2366 might of played my GF this week!<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> frenzy</em>: thero sc sux<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> TheoX</em>: for a 2nd round pick jbazz!<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> coondambo</em>: lost by 1 flowering point.<br><em>BB67th</em>: Congrats to Green out of a great career<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> Havacrack</em>: Cheers rookie<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> fatboys</em>: noo<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> CJEagles14</em>: @fatboys spewing game over<br><em>23rookie23</em>: tipp 119<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> JBazz</em>: cant wait till we get viney<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> S.N.A.F.U</em>: tipp 118<br>
+240037,Colin,Sylvia,ME,16,103,120,127,85,120,16,18,4,2,0,2,1,0,0, Full Time,hot,%D and %M with %T,,
+280521,Jake,Spencer,ME,29,96,80,119,81,99,5,8,4,7,21,4,2,1,0, Full Time,news,%H and %P with %T... also %F,,
+261297,Jack,Grimes,ME,14,87,103,112,71,97,14,9,7,2,0,0,1,0,1, Full Time,news,%O and %M,,
+291313,Jeremy,Howe,ME,16,86,94,113,69,85,13,1,8,3,1,2,1,1,3, Full Time,news,%s from %P and %M,,
+250222,Nathan,Jones,ME,24,85,89,107,68,96,13,12,1,4,0,3,2,1,0, Full Time,news,%O and %T,,
+250345,Rohan,Bail,ME,14,79,80,101,67,92,12,10,6,2,0,1,2,0,2, Full Time,news,%s from %P on Mackay,,
+280746,Sam,Blease,ME,13,73,70,92,55,77,12,7,1,3,0,0,0,1,2, Full Time,news,%D on Doughty,,
+200054,Brad,Green,ME,12,72,89,88,60,74,8,6,4,2,0,2,0,2,2, Full Time,heart,First goal... %s from %P and %M on Shaw in his farewell game,,
+294874,Daniel,Nicholson,ME,9,64,73,80,52,71,8,9,4,2,0,0,0,0,2, Full Time,job,Chasing Douglas... %D and %M plus %s,,
+270906,Jordie,McKenzie,ME,8,62,66,76,50,70,6,12,2,3,0,1,0,0,1, Full Time,tagger,Tagging Thompson... %O,,
+280608,Jack,Trengove,ME,13,62,55,83,52,78,8,10,3,5,0,1,4,0,0, Full Time,news,%P... also %F,,
+250548,Lynden,Dunn,ME,8,59,89,77,46,66,11,6,3,2,0,0,1,0,0, Full Time,job,Has Walker... %P,,
+280972,Jack,Watts,ME,14,59,72,72,52,72,7,11,2,2,0,2,2,1,0, Full Time,news,Loose in defence... %P,,
+250418,James,Sellar,ME,10,56,52,68,51,60,5,4,5,1,2,2,1,2,1, Full Time,news,Starting forward on Rutten... %D... also %H,,
+230130,Joel,MacDonald,ME,8,54,63,67,48,64,8,8,5,0,1,1,1,0,0, Full Time,news,%D,job,On Johncock
+270830,Colin,Garland,ME,4,54,45,72,39,54,9,3,3,3,0,0,0,0,0, Full Time,news,%D,,
+291533,Tom,McDonald,ME,5,54,59,69,46,63,6,8,5,2,0,0,1,0,0, Full Time,job,Standing Tippett... %D and %M,,
+230250,Jared,Rivers,ME,10,53,80,66,43,54,4,4,3,3,0,0,0,2,0, Full Time,injured,%s from %G and %P on Talia... left shoulder knock in Q2,subbed,Subbed off in Q4 for Jetta
+260288,James,Frawley,ME,5,53,80,70,44,60,9,5,4,2,0,2,2,0,0, Full Time,job,On Porplyzia... %P,,
+280579,Luke,Tapscott,ME,5,48,64,62,39,51,5,5,5,2,0,0,0,0,0, Full Time,news,%P and %M up forward again on Smith,,
+270937,James,Strauss,ME,3,44,44,54,39,54,5,9,3,1,0,1,1,0,0, Full Time,job,Minding Callinan... %O,,
+281280,Neville,Jetta,ME,2,24,16,31,22,30,4,3,3,0,0,0,1,0,0, Full Time,news,On in Q4 for Rivers,sub,Started as a sub
+280506,Taylor,Walker,AD,50,148,154,117,129,155,17,8,16,2,0,2,1,4,2, Full Time,star,Booted %s from %D and %G on Dunn,,
+270742,Kurt,Tippett,AD,32,118,129,93,102,124,14,4,11,3,9,1,2,3,1, Full Time,hot,Kicked %s from %P and %M on McDonald,,
+261384,Matthew,Wright,AD,25,105,110,71,83,109,16,8,6,4,0,3,1,1,1, Full Time,hot,%P and %M,,
+270917,Patrick,Dangerfield,AD,21,105,106,57,80,103,19,3,3,3,0,2,0,3,1, Full Time,vulture,Started very slowly... %D and %T... all of his %s in the second half,,
+210016,Scott,Thompson,AD,14,92,75,47,72,106,18,11,3,3,0,0,2,0,1, Full Time,news,%D,,
+250118,Nathan,van Berlo,AD,20,80,84,62,62,82,10,7,4,4,0,1,0,1,1, Full Time,news,%O and %T,,
+270811,Sam,Jacobs,AD,20,80,102,49,71,85,11,4,2,0,32,2,1,0,2, Full Time,news,%H with %D and %s,,
+220086,Brent,Reilly,AD,16,73,86,47,56,75,13,1,5,4,0,1,2,1,0, Full Time,news,%P,,
+200092,Michael,Doughty,AD,13,69,99,43,49,66,12,4,2,4,0,3,0,0,0, Full Time,job,Responsible for Blease... %O,,
+210056,Graham,Johncock,AD,12,66,64,52,54,67,8,3,4,3,0,2,1,2,1, Full Time,news,%s from %P on MacDonald,,
+230174,Jason,Porplyzia,AD,10,66,42,39,56,81,12,8,5,2,0,0,3,0,0, Full Time,news,%O on Frawley,,
+291402,Aidan,Riley,AD,13,66,72,52,51,72,9,7,3,5,0,2,2,0,0, Full Time,news,%P and %T,,
+261857,Ian,Callinan,AD,17,65,86,50,56,69,7,4,2,2,0,1,1,4,0, Full Time,news,%D on Strauss,,
+261138,Jared,Petrenko,AD,21,61,108,63,47,64,4,7,2,6,0,1,1,1,1, Full Time,news,%O,,
+240370,Richard,Douglas,AD,14,59,82,30,50,68,11,4,2,1,1,0,2,2,1, Full Time,concussed,%s from %D on Nicholson... had his head rammed into the knee of Dangerfield in Q1 which left him dazed,,
+250362,David,Mackay,AD,9,57,59,48,48,66,7,6,6,3,0,0,2,0,0, Full Time,job,Playing a HBF on Bail... %P and %M,,
+290211,Sam,Shaw,AD,4,55,64,35,42,57,9,5,3,2,0,1,0,0,0, Full Time,job,Has Green... %O,,
+280934,Daniel,Talia,AD,7,47,57,38,39,48,6,2,7,1,0,0,0,0,0, Full Time,job,On Rivers... %P,,
+291748,Brodie,Smith,AD,3,42,62,25,33,45,7,5,2,1,0,1,0,0,0, Full Time,job,Minding Tapscott... %D,,
+261142,Bernie,Vince,AD,2,28,52,21,25,34,3,6,2,0,0,0,0,0,1, Full Time,news,%P and %M plus %s,subbed,Subbed off in Q3 for Brown
+220093,Ben,Rutten,AD,3,21,20,15,21,30,4,1,4,1,0,0,3,0,0, Full Time,job,Has Sellar... %M and %O,,
+293193,Luke,Brown,AD,0,10,3,10,7,9,1,0,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Vince,sub,Started as a sub

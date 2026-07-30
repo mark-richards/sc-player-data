@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Gold Coast,Suns,R3,18.14.122,7.9.51, Full Time
+Apr 9,2011,2:10,Docklands,Ten,240712,10310302,5015,19,Cloudy with showers,27
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Jimmy B!</em>: powered off wnet Matera over PRestia thinking PRestia might be sub/subbed off. DUMB ME<br><em>dpops</em>: Coad great for first gamer<br><em>jefftee</em>: some of these gold coast kids are going to be really crap in a few years<br><em>God+Jesus</em>: hill king of junk time<br><em>whale</em>: yep&#044; heart ablett&#044; it was well deserved<br><em>Nigey95</em>: swallow 7 SC&#044; i'll take that :) i trade out morris and he gets 102 :(<br><em>skystyler</em>: Thats 3 tons in a row for Murphy. Damn.<br><em>cotch9</em>: higgins for star!<br><em>cotch9</em>: heart for ablett&#044; <br><em>Hirdy_FC</em>: My decision to bench Jolly and field Smith has paid off. Eeexellent!<br><em>skystyler</em>: nice work Prestia. Wish I had you on the park.<br><em>kingbling</em>: harris you have let me down<br>
+260227,Shaun,Higgins,WB,27,126,122,157,106,142,16,16,9,3,0,0,1,1,4, Full Time,hot,First goal... %s from %D and %M on Brown... also %T,sore,Knock to the head in Q2
+220010,Matthew,Boyd,WB,26,125,131,159,96,135,21,15,5,4,0,1,0,0,0, Full Time,gun,%P and %T with %M,,
+210049,Daniel,Cross,WB,30,122,130,150,111,148,15,22,11,1,0,4,3,0,1, Full Time,hot,%O and %M plus %s,,
+240156,Ryan,Griffen,WB,26,117,118,147,90,125,17,14,3,5,0,1,0,1,2, Full Time,hot,%D and %T with %M and %s,,
+261209,Josh,Hill,WB,27,113,106,145,90,112,15,5,9,4,0,2,0,2,1, Full Time,garbage,%s from %P and %M with %T... all his goals in second half junk time,,
+200083,Robert,Murphy,WB,24,103,106,135,80,108,23,3,7,1,0,0,1,1,0, Full Time,hot,%O and %M plus %s,job,Running off Bennell
+230041,Adam,Cooney,WB,17,97,74,123,76,99,15,6,5,3,0,1,0,2,0, Full Time,news,%O and %T with %M plus %s,,
+240710,Ben,Hudson,WB,27,96,113,112,87,109,7,12,5,2,25,0,1,1,0, Full Time,news,%H and %D with %M and %s... also %T,,
+250712,Dale,Morris,WB,14,84,108,110,66,87,12,6,8,3,0,0,0,0,0, Full Time,news,Loose in defence... %O and %M with %T,,
+280012,Jordan,Roughead,WB,17,82,80,100,77,91,7,7,9,1,6,3,2,2,1, Full Time,news,Booted %s from %P and %G on Coad... also %H,,
+200080,Lindsay,Gilbee,WB,9,78,99,100,59,81,13,8,3,3,0,2,0,0,0, Full Time,news,%O and %T,,
+290799,Tom,Liberatore,WB,20,76,71,100,56,78,8,8,4,6,0,0,0,0,0, Full Time,bubble,%D and %T with %M,sore,Right thumb strapped in Q2 after a knock
+960570,Barry,Hall,WB,22,75,110,89,70,81,9,2,5,0,2,2,2,5,1, Full Time,news,%s from %P and %G on Bock,,
+280109,Callan,Ward,WB,19,71,91,89,56,76,5,10,3,5,0,0,0,1,1, Full Time,news,%D and %M with %T and %s,,
+200079,Daniel,Giansiracusa,WB,9,67,46,88,57,73,10,4,9,1,0,0,1,0,1, Full Time,injured,%s from %P and %M on Tape... cut on his head in Q1 and wasn't right for the rest of the day,subbed,Subbed off in Q3 for Stack
+240325,Justin,Sherman,WB,14,60,75,75,53,69,7,7,6,1,0,0,1,1,0, Full Time,news,%P and %M plus %s,,
+220039,Brian,Lake,WB,8,58,81,75,47,60,11,3,6,0,0,1,0,0,0, Full Time,news,Loose in defence... %D and %M,,
+271439,Liam,Picken,WB,15,58,69,75,45,63,5,7,2,5,0,0,1,1,0, Full Time,tagger,Tagging Ablett jnr... %O and %T with %s and %M,,
+250150,Tom,Williams,WB,4,44,49,57,35,45,7,3,4,1,0,1,0,0,0, Full Time,job,Following Brennan... %D and %M,,
+261319,Jarrad,Grant,WB,4,38,42,47,34,48,2,9,3,2,0,0,1,0,0, Full Time,news,No score from %D and %M with %T on Hunt,,
+250601,Lukas,Markovic,WB,3,35,40,44,28,36,7,3,2,0,0,2,0,0,0, Full Time,job,Standing Dixon...  %P and %M,,
+260965,Brennan,Stack,WB,1,20,12,24,16,24,4,4,0,0,0,0,0,0,0, Full Time,news,On in Q3 for Giansiracusa... %D,sub,Started as a sub
+220001,Gary,Ablett jnr,GC,27,115,141,81,92,135,17,17,5,6,0,0,3,0,0, Full Time,hot,Tagged by Picken... %D and %T with %M plus %F,,
+290627,Dion,Prestia,GC,20,100,77,69,76,99,16,4,9,4,0,1,0,0,0, Full Time,bubble,%D and %T with %M,,
+220009,Nathan,Bock,GC,14,93,102,53,74,96,17,5,9,1,0,1,0,0,0, Full Time,job,Standing Hall... %P and %M,,
+220013,Campbell,Brown,GC,20,87,88,65,75,99,12,9,10,2,0,1,2,0,0, Full Time,job,Minding Higgins... %M and %P with %F,mrp,Dropped Ward off the ball in Q1 causing a melee
+230015,Jared,Brennan,GC,19,83,114,64,65,84,10,8,3,4,3,3,0,1,0, Full Time,news,Has a bit to prove... %P and %M with %T on Williams... also %H in second half ruck work,,
+260630,Michael,Coad,GC,19,82,84,43,69,93,17,3,10,1,0,0,3,0,0, Full Time,rookie,%M and %D with %F,job,Has Roughead
+290832,David,Swallow,GC,14,80,72,48,58,82,14,7,2,4,0,1,0,0,1, Full Time,bubble,%D with %k by foot... also %T and %M plus %s,,
+240254,Jarrod,Harbrow,GC,13,78,70,47,65,90,13,10,6,1,0,0,1,0,0, Full Time,news,%O and %M,,
+250249,Danny,Stanley,GC,22,75,58,69,60,81,7,7,3,6,0,1,2,2,0, Full Time,news,%P and %T with %M and %s... also %F,,
+240712,Michael,Rischitelli,GC,14,72,70,67,58,78,6,11,5,4,0,1,0,0,0, Full Time,news,%P and %T with %M,,
+291594,Harley,Bennell,GC,15,68,65,40,56,75,12,4,4,2,0,1,2,1,3, Full Time,bubble,Kicked %s from %P on Murphy... also %M and %T,,
+280722,Zachary,Smith,GC,16,67,94,62,59,69,4,6,3,2,18,2,0,1,0, Full Time,news,%H and %P with %M... also %s,bubble,Excellent again Hudson in his second game
+210014,Daniel,Harris,GC,9,62,58,57,51,69,5,11,4,3,0,1,0,0,0, Full Time,news,%O with %b by hand... also %M and %T,,
+290527,Trent,McKenzie,GC,5,61,46,48,47,63,8,5,5,3,0,0,0,0,0, Full Time,bubble,%P and %T with %M,,
+291304,Daniel,Gorringe,GC,15,58,49,44,54,70,6,9,4,0,7,0,1,1,0, Full Time,rookie,Rotating ruck and forward... %P and %M plus %s... also %H,,
+290817,Brandon,Matera,GC,9,45,44,25,35,46,8,2,2,1,0,0,0,1,1, Full Time,bubble,%s from %P,,
+290520,Alik,Magin,GC,4,42,23,33,32,40,6,0,5,2,0,0,0,0,1, Full Time,news,On in Q3 for Krakouer... %P and %M with %T and %s,sub,Started as a sub
+293223,Sebastian,Tape,GC,4,41,42,39,33,45,4,4,4,3,0,0,1,0,0, Full Time,job,On Giansiracusa... %D and %T with %M,,
+281024,Maverick,Weller,GC,2,32,34,26,29,42,3,9,1,1,0,1,1,0,0, Full Time,rookie,%B among %O,,
+292512,Karmichael,Hunt,GC,3,30,41,28,24,36,2,8,0,2,0,0,0,0,0, Full Time,sore,No stats in Q1... %P and %T... sore groin in Q4 had him come off in pain,job,Following Grant
+261083,Nathan,Krakouer,GC,2,29,34,17,26,36,5,4,3,0,0,0,1,0,0, Full Time,news,%O and %M,subbed,Subbed off in Q3 for Magin
+280711,Charlie,Dixon,GC,7,24,22,28,18,27,2,1,2,4,0,0,2,0,0, Full Time,bubble,Markovic sitting on him... %O and %M with %T... also %F,,

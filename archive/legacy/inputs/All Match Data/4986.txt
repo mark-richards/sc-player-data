@@ -1,0 +1,48 @@
+West Coast,Eagles,Melbourne,Demons,R22,18.11.119,8.5.53, Full Time
+Aug 23,2014,7.40,Subiaco,Foxtel,,10422206,wce-v-melb,0,Fine,22,,
+
+<em style='color:#000'>Raspel31</em>: Nice one Frenzy.<br><em style='color:#000'>Costanza</em>: oh ah eff you LeCras - one week too late<br><em style='color:#000'>frenzy</em>: bye bye coxy&#044; been a star for ages<br><em style='color:#000'>old_shepp</em>: The Frenchman may have just got me into my two AF finals<br><em style='color:#000'>runners47</em>: Priddis crawled to semi DT respectability...<br><em style='color:#000'>Raspel31</em>: Well&#044;it worked a bit Heiz.<br><em style='color:#000'>Slightly01</em>: 1 min<br><em style='color:#000'>Sloan4Pres</em>: anyone know time left?<br><em style='color:#000'>Slightly01</em>: Anyone know Hurn SC pretty pls?!<br><em style='color:#000'>smoochy</em>: traded in greene and priddis. at least the average is over 100. :)<br><em style='color:#000'>Heizenberg</em>: Cmon priddis some junk these last 12 mins or whatever<br><em style='color:#000'>Raspel31</em>: Give him the Heizenberg talk-always works-lol.<br>
+240119,Mark,LeCras,WC,39,133,140,171,107,137,18,5,8,6,0,1,2,4,2, Full Time,hot,%s from %O and %M plus %T,,,398600,79,395700,88,Forward,2,13,84.5,84.6,3.77,2.84,3.25,410495,99
+290801,Andrew,Gaff,WC,32,124,95,160,92,126,18,11,4,7,0,2,0,1,0, Full Time,hot,%P and %M plus %T... %s as well,,,483100,96,492000,101,Midfielder,3,20,91.1,87.3,2.01,1.92,1.96,466134,83
+261290,Chris,Masten,WC,21,118,130,150,95,129,19,13,9,2,0,0,0,0,0, Full Time,hot,%P and %M plus %T,,,430000,46,431600,89,Midfielder,7,19,85.4,82.1,0.95,0.50,0.97,410706,60
+280078,Luke,Shuey,WC,20,103,107,130,85,109,14,9,7,3,1,3,1,1,3, Full Time,hot,%O and %M plus %T... %s as well... aided by %4FF,,,512100,57,523700,72,Midfielder,13,18,92.2,98.8,1.11,1.63,1.17,486050,71
+240283,Shannon,Hurn,WC,15,98,94,129,76,100,16,5,9,3,1,0,0,0,0, Full Time,news,%P including %K... also %M and %T,,,433600,78,439000,99,Back,25,16,81.5,88.6,2.53,3.05,3.06,419953,71
+290838,Jack,Darling,WC,31,94,116,118,75,93,9,6,3,6,0,4,1,3,3, Full Time,news,%s from %D and %M with %T... helped out by %4FF,,,394700,49,398400,56,Forward,27,20,79.1,79.4,4.63,3.37,4.98,384186,64
+200112,Dean,Cox,WC,19,88,83,108,74,88,10,5,6,2,19,3,0,0,0, Full Time,news,%H... also %D and %T... helped out by %4FF,,,405600,48,413600,62,Ruck,20,16,85.9,89.7,6.59,3.35,6.75,420866,84
+250317,Eric,Mackenzie,WC,19,86,98,112,72,93,12,7,10,2,0,1,1,0,0, Full Time,news,%D and %M with %T,,,358700,38,416800,52,Back,16,20,68.7,75.9,1.90,1.32,2.35,337649,44
+290746,Scott,Lycett,WC,21,80,95,93,71,87,5,10,4,2,18,1,0,1,0, Full Time,news,%H... also %D and %M with %T... %s as well,,,363100,106,406300,101,Ruck,29,10,66.9,73.1,0.80,0.52,1.22,369808,89
+240124,Matt,Priddis,WC,19,79,77,100,61,84,6,14,1,7,0,5,1,0,0, Full Time,news,%O and %T... umps paid him %4FF,,,584200,102,632000,113,Midfielder,11,20,109.5,115.2,7.11,4.38,10.96,578667,108
+240406,Josh J.,Kennedy,WC,28,79,91,102,62,75,7,0,4,6,0,1,1,4,0, Full Time,news,%s from %P and %M plus %T,,,407200,98,388100,106,Forward,17,18,75.9,76.2,3.78,3.42,4.60,392569,71
+261209,Josh,Hill,WC,15,79,112,99,62,79,11,5,3,3,0,2,0,2,1, Full Time,news,%s from %D and %M with %T,,,287500,16,241100,41,Forward,33,7,55.3,44.6,0.48,0.31,0.46,268402,37
+240159,Sam,Butler,WC,13,69,57,89,55,72,10,6,6,2,0,1,0,0,0, Full Time,news,%O and %M plus %T,,,404400,23,378500,71,Back,26,10,63.3,61.8,0.44,0.36,1.01,341764,27
+261214,Will,Schofield,WC,14,65,64,87,49,63,8,3,6,4,0,1,0,0,0, Full Time,news,%O including %K... also %M and %T,,,243900,30,332300,48,Back,31,15,46.5,60.5,0.70,0.38,0.85,241831,44
+290943,Jamie,Bennell,WC,8,65,73,83,52,70,11,6,5,1,0,0,0,0,1, Full Time,news,%O and %M plus %s,,,241200,22,244600,39,Midfielder,44,17,50.8,57.8,1.37,1.77,3.20,238783,38
+280441,Patrick,McGinnity,WC,20,56,48,78,41,57,5,2,3,7,0,0,2,1,0, Full Time,news,%O with %k by foot... also %T and %M... and kicked %s,,,300700,77,306100,88,Midfielder,35,8,57.6,59.8,0.30,0.31,0.51,304778,72
+290826,Jamie,Cripps,WC,15,56,77,72,47,66,5,8,3,4,0,0,2,1,0, Full Time,news,%s from %D and %M with %T,,,332400,24,298900,9,Forward,15,17,62.9,59.7,0.82,1.53,0.98,299037,29
+294859,Jeremy,McGovern,WC,4,54,89,69,43,57,9,5,4,1,0,1,0,0,0, Full Time,news,%D and %M,,,321100,29,394800,42,Forward,42,11,66.6,81.6,12.39,13.59,10.17,293703,34
+296296,Dom,Sheed,WC,4,30,35,41,27,42,5,5,2,2,0,0,3,0,0, Full Time,news,%D and %M with %T... conceded %F,sub,Started as a sub,209200,12,203800,13,Midfielder,4,9,43.1,40.4,3.73,3.56,2.17,210738,32
+294496,Adam,Carter,WC,1,29,42,37,24,33,5,4,1,1,0,2,1,0,0, Full Time,news,%O,in,Late replacement for Nic Naitanui,252600,,257800,,Back,19,0,0,0,0.24,0.13,0.16,266300,89
+260303,Mitchell,Brown,WC,2,26,22,35,22,30,4,2,3,1,0,0,1,0,0, Full Time,news,%M and %O,,,181700,17,192600,14,Back,1,18,40.6,44.7,0.90,2.13,1.26,173651,21
+281052,Mark,Hutchings,WC,1,24,42,32,17,24,1,3,1,3,0,0,0,0,0, Full Time,news,%P and %T,,,462300,84,421000,76,Midfielder,34,15,82.9,75.4,0.35,0.17,0.31,448302,82
+261142,Bernie,Vince,ME,21,117,131,66,93,128,20,14,3,3,0,3,1,1,2, Full Time,hot,%O and %M plus %T... %s as well... helped out by %4FF,,,463700,94,464500,96,Midfielder,23,20,94.6,93.3,2.91,4.92,3.20,476854,97
+291784,Dom,Tyson,ME,21,94,91,63,76,105,14,11,5,3,0,0,1,1,0, Full Time,news,%O and %M plus %T... %s as well,,,465800,107,528500,130,Midfielder,12,20,88.7,93.5,15.36,17.05,15.29,458463,89
+250222,Nathan,Jones,ME,18,90,129,64,70,102,12,17,0,5,0,3,1,0,0, Full Time,news,%D and %T... helped out by %4FF,,,496200,80,541100,103,Midfielder,2,20,101.2,107.6,8.28,4.32,8.19,491283,87
+291313,Jeremy,Howe,ME,16,88,99,51,68,93,16,5,5,3,0,0,1,1,0, Full Time,news,%s from %D and %M with %T,,,416200,86,482400,97,Forward,38,20,73.5,86,1.05,1.29,1.37,405118,77
+250345,Rohan,Bail,ME,14,78,94,46,63,90,13,11,1,3,0,2,2,1,0, Full Time,news,%P and %T plus %s,,,331100,69,329000,96,Midfielder,44,19,69,64.7,0.55,0.54,0.97,329012,68
+291533,Tom,McDonald,ME,9,72,84,53,58,81,10,9,5,3,0,0,1,0,0, Full Time,news,%P and %M plus %T,,,307600,45,361700,73,Back,25,19,57.2,69.3,0.40,0.31,0.47,301374,49
+291902,Jack,Viney,ME,14,72,93,68,61,87,5,17,3,4,0,1,1,0,0, Full Time,news,%P including %B... also %T and %M,,,347600,98,327800,80,Midfielder,7,18,75.7,72.8,0.68,1.06,1.02,374228,95
+291446,Viv,Michie,ME,10,70,65,61,64,90,6,17,5,2,0,1,2,0,0, Full Time,news,%P with %b by hand... also %M and %T,,,254700,1,238500,-2,Midfielder,22,4,63.5,64.8,5.83,7.24,6.04,218359,9
+280758,Jack,Fitzpatrick,ME,15,65,72,48,59,73,8,5,7,0,1,0,1,2,0, Full Time,news,Booted %s from %G and %P,,,270900,117,293400,114,Forward Ruck,48,3,22,28.3,0.54,0.51,0.55,241225,110
+250548,Lynden,Dunn,ME,9,64,84,37,53,75,11,9,4,1,0,0,1,0,0, Full Time,news,%M and %D,,,295800,48,337600,72,Back,14,20,70.2,85.7,0.94,1.60,0.80,303864,58
+260288,James,Frawley,ME,9,62,56,46,51,66,9,4,7,2,0,1,1,0,0, Full Time,news,%D and %M with %T,,,396000,105,416600,115,Back,8,19,78.1,79.6,1.69,2.28,3.32,406743,97
+260394,Chris,Dawes,ME,11,62,61,49,52,70,8,5,5,3,0,0,2,1,1, Full Time,news,%s from %P and %M plus %T,,,288700,49,284200,55,Forward,6,16,62.6,65.8,0.52,1.17,1.07,298123,63
+210049,Daniel,Cross,ME,18,56,56,60,49,76,3,15,1,6,1,1,4,0,0, Full Time,news,%P including %B... also %T... gave away %F,,,424200,117,440400,118,Midfielder,18,15,86.3,91.3,0.26,0.32,0.33,441239,102
+280972,Jack,Watts,ME,5,56,53,48,44,60,6,7,4,3,0,0,0,0,0, Full Time,news,%O and %M plus %T,,,337300,77,361500,85,Back Forward,4,20,72.1,74.8,6.10,6.08,5.73,344660,70
+292029,Cameron,Pedersen,ME,9,50,62,36,44,59,6,8,2,1,1,1,1,1,1, Full Time,news,%P and %M plus %s,,,319300,87,387700,102,Back,21,18,68.2,79.7,0.26,0.31,0.39,326244,89
+296027,Matt,Jones,ME,4,49,60,40,41,60,6,8,3,3,0,0,2,0,0, Full Time,news,%O and %M plus %T,,,362400,91,325100,85,Midfielder,45,18,76.7,71.1,0.42,0.57,0.29,392823,99
+290528,Max,Gawn,ME,9,48,41,37,45,57,5,5,2,1,18,1,2,0,0, Full Time,news,%H... also %P and %M,,,332300,13,365100,24,Ruck,37,7,65.4,71.4,0.27,0.27,0.29,312246,43
+220052,Mark,Jamar,ME,13,45,72,42,43,52,2,5,1,1,25,0,1,0,0, Full Time,news,%H with %P,,,363500,98,403800,115,Ruck,40,15,71.7,83,0.88,2.01,1.22,367014,79
+281280,Neville,Jetta,ME,7,35,36,40,27,42,2,6,1,5,0,0,2,0,0, Full Time,news,%D with %b by hand... also %T,,,330300,41,350200,58,Midfielder,39,14,58.6,64.4,0.44,0.39,1.48,316108,49
+270830,Colin,Garland,ME,2,34,49,19,26,36,6,4,1,1,0,1,0,0,0, Full Time,news,%P,,,298900,51,327600,79,Back,20,13,60.3,66.8,0.21,0.17,0.22,297615,53
+294570,Dean,Kent,ME,3,28,19,18,26,36,4,6,2,0,0,1,1,0,0, Full Time,news,%D and %M,,,265200,12,284800,43,Midfielder,16,11,52.6,54.3,0.59,0.47,0.42,234972,15
+296359,Christian,Salem,ME,1,16,10,14,15,21,1,5,1,0,0,0,0,0,0, Full Time,news,%O including %B,sub,Started as a sub,164500,4,185900,49,Midfielder,3,11,35.8,36.6,1.89,2.67,1.48,168969,27

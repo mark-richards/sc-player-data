@@ -1,0 +1,48 @@
+Melbourne,Demons,West Coast,Eagles,R3,13.5.83,27.15.177, Full Time
+Apr 13,2013,2.10,MCG,Seven,240037,10390303,5015,0,Cloudy and windy,25,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>SuperSub17</em>: I'm in the same situation too&#044; I have Cox as VC and Macaffer is the only player in my squad who isn't playing<br><em>SuperSub17</em>: I heard that Toovey barely trained all week and Macaffer is set to come in&#044; heard from a few on the radio<br><em>Kangas42</em>: thats what I'm worried about supersub<br><em>Bluffie</em>: atleast the crowd is clapping them off this time<br><em>Pokerface</em>: supersub where you hear that?<br><em>addman</em>: I would leave cox as c in sc<br><em>lovesbud</em>: pedersen for muppet&#044; cos hes a muppet<br><em>pharace</em>: That&#044; or a sick back for the ride home Demons15.<br><em>antmans</em>: I am pokerface:)<br><em>SuperSub17</em>: Rumour Macaffer is late inclusion tomorrow for Toovey<br><em>Pokerface</em>: kangas just make sure you set a playing emergency<br><em>Pokerface</em>: kangas - yes you do<br>
+240037,Colin,Sylvia,ME,21,103,92,132,81,103,16,4,7,3,1,1,0,2,0, Full Time,hot,%s from %P and %M starting deep forward on Glass then got Adam Selwood,,,393100,116,433400,160,Midfielder,12
+280608,Jack,Trengove,ME,21,86,101,110,67,87,9,6,5,5,0,0,0,2,0, Full Time,news,Matched up on Shuey... %D and %T plus %M and %s,,,391300,,400800,,Midfielder,9
+296027,Matt,Jones,ME,14,86,77,108,70,96,12,12,6,2,0,0,0,0,0, Full Time,cash,%D and %M with %T,,,102700,-57,109500,-48,Midfielder ,45
+250222,Nathan,Jones,ME,14,85,89,101,73,100,10,18,4,1,0,2,0,0,1, Full Time,news,Is bald... %D including %b by hand,,,456600,123,521500,137,Midfielder,2
+261297,Jack,Grimes,ME,10,75,83,97,59,81,12,8,4,3,0,2,1,0,0, Full Time,news,%P and %T with %M,,,474000,128,472400,75,Back,31
+270241,Dean,Terlich,ME,14,75,62,98,56,81,13,8,2,4,0,1,1,0,0, Full Time,bubble,Second game... %P and %T with %M,job,Responsible for Hams,102700,,109500,,Back ,46
+291533,Tom,McDonald,ME,13,74,97,93,61,81,11,9,6,1,0,1,0,0,0, Full Time,news,%P and %M,job,Darling is his man,321700,,391900,,Back,25
+240393,Mitchell,Clark,ME,21,73,78,94,64,82,11,2,6,2,0,0,3,3,1, Full Time,news,Booted %s from %P and %G on Brown,,,384100,149,449900,159,Forward,11
+280579,Luke,Tapscott,ME,14,73,61,94,57,75,14,3,5,1,0,0,0,1,0, Full Time,news,%O and %M on Hurn,,,284800,,279000,,Back,35
+220052,Mark,Jamar,ME,31,72,92,85,61,71,1,4,0,6,38,2,1,0,0, Full Time,news,%H and %D with %T,,,333800,68,395500,79,Ruck,40
+291313,Jeremy,Howe,ME,14,67,73,82,55,72,8,8,3,2,3,1,0,1,0, Full Time,news,%s from %D and %M,,,394600,59,423400,37,Forward,38
+291902,Jack,Viney,ME,13,63,71,83,52,75,7,10,3,5,0,2,3,0,0, Full Time,cash,Started slowly but lifted in Q2... %O including %B with %T and %M,,,102700,-85,109500,-101,Midfielder ,7
+294741,Michael,Evans,ME,10,58,48,73,47,64,7,7,2,3,0,1,1,1,1, Full Time,news,%P and %M plus %T and %s,,,108500,,115900,,Midfielder,32
+230022,Shannon,Byrnes,ME,10,57,58,71,45,60,8,6,2,2,0,1,0,1,0, Full Time,empty,%s from %O and %M on Butler... did very little after half time,sore,Got one on the bridge of the nose by Hams in Q2,229300,27,230100,44,Forward,10
+250345,Rohan,Bail,ME,7,50,45,62,43,60,7,9,3,1,0,1,1,0,0, Full Time,sore,Played wing... %P... headclash in Q2 left him woozy... back in Q3 after concussion sub period,,,316000,,333800,,Forward,44
+250418,James,Sellar,ME,10,50,65,62,42,53,4,5,4,2,2,0,0,1,0, Full Time,job,Has Sinclair in defence... %D and %M,,,251500,78,331400,129,Back ,30
+200002,Aaron,Davey,ME,9,49,53,63,38,49,5,3,3,3,0,0,0,1,1, Full Time,news,%s from %D on the kid Brennan... also %T,subbed,Subbed off in Q4 for Toumpas,275600,,335100,,Midfielder,36
+281280,Neville,Jetta,ME,8,45,57,59,32,46,5,5,1,4,0,0,0,0,1, Full Time,news,%B among %P,,,243900,,252400,,Forward,39
+270830,Colin,Garland,ME,4,44,59,60,38,57,8,6,2,3,0,2,4,0,0, Full Time,job,Minding LeCras... %O,,,318300,61,385500,69,Back,20
+260288,James,Frawley,ME,2,32,23,40,27,39,7,5,1,0,0,1,1,0,0, Full Time,job,Following Kennedy... %P,,,328600,32,406100,57,Back,8
+292029,Cameron,Pedersen,ME,2,28,32,36,27,38,3,5,3,1,2,0,2,0,0, Full Time,news,%P and %H,,,296200,,278200,,Back,21
+293042,Jimmy,Toumpas,ME,1,9,6,14,8,15,1,2,0,2,0,0,2,0,0, Full Time,news,On in Q2 as concussion sub for Bail then off again in Q3... back on in Q4 for Davey,sub,Started as a sub,170200,30,184500,60,Midfielder ,5
+270928,Scott,Selwood,WC,55,142,121,139,106,141,12,14,9,12,0,3,0,0,0, Full Time,hot,No need to tag today so he is running free... %D and %T with %M,,,503500,135,556700,172,Midfielder,10
+200112,Dean,Cox,WC,34,132,171,106,115,142,13,11,5,4,23,3,2,3,2, Full Time,star,Smashing Jamar around the ground... %H and %P with %M and %T... also %s and %F,,,512400,128,600700,138,Ruck,20
+290838,Jack,Darling,WC,42,127,141,103,103,126,14,5,6,6,0,3,1,5,3, Full Time,cherry,Kicked %s from %P and %T on McDonald... also %G... enjoyed himself in late junk time,,,364900,102,406100,94,Forward,27
+261290,Chris,Masten,WC,27,120,141,71,99,141,19,20,4,2,0,0,1,1,0, Full Time,hot,%s from %P and %M both forward and wing... also %T,,,436000,84,478600,101,Midfielder,7
+240406,Josh J.,Kennedy,WC,36,113,136,92,95,111,12,3,7,4,0,4,1,5,3, Full Time,hot,%s from %P on Frawley including three majors in Q2... also %T and %M,,,272300,-37,299600,-36,Forward,17
+280078,Luke,Shuey,WC,32,112,86,81,81,116,17,9,4,8,0,0,1,0,2, Full Time,hot,%D and %T with %M and %s,,,488100,146,553100,166,Midfielder,13
+240124,Matt,Priddis,WC,25,98,122,92,81,123,7,26,1,7,0,0,2,0,0, Full Time,news,%B among %P with %T... also %F,,,482500,90,588300,146,Midfielder,11
+290801,Andrew,Gaff,WC,20,85,93,63,68,96,11,12,3,4,0,0,1,1,0, Full Time,news,%P and %T,,,446100,152,483500,171,Midfielder,3
+261209,Josh,Hill,WC,24,82,105,66,66,87,10,7,6,4,0,1,1,1,0, Full Time,news,%O and %T with %M,,,327400,61,388200,61,Forward,33
+240119,Mark,LeCras,WC,20,81,84,46,65,84,14,3,3,2,0,1,1,3,0, Full Time,garbage,First goal... %s from %P on Garland... also %T... most of his goals in Q4 junk time,,,355400,,369200,,Forward,2
+210018,Daniel,Kerr,WC,13,76,80,62,57,81,9,10,3,5,0,0,0,0,0, Full Time,news,%P with %T and %M,subbed,Subbed off at 3QT for Cripps,384100,,476900,,Midfielder,4
+250034,Ashton,Hams,WC,17,76,110,54,62,75,10,3,4,2,0,2,0,3,0, Full Time,news,%s from %O and %M on Terlich,sore,Left calf corkie in Q3,264700,57,330100,86,Forward,43
+230254,Adam,Selwood,WC,8,69,62,31,53,75,14,8,2,1,0,1,0,0,0, Full Time,job,Moved to Sylvia in Q2... %P,,,291700,93,283900,80,Midfielder,37
+294737,Callum,Sinclair,WC,17,68,81,61,63,76,5,6,6,1,10,0,1,2,0, Full Time,bubble,Second game... %s from %D and %M on Sellar... also %H,,,105300,,112200,,Ruck Forward,22
+240159,Sam,Butler,WC,14,66,56,54,50,69,8,7,4,4,0,0,0,0,0, Full Time,job,Responsible for Byrnes... %O and %T,,,362400,,391500,,Back,26
+240283,Shannon,Hurn,WC,13,61,73,27,48,66,13,3,3,1,0,0,1,1,0, Full Time,news,%O and %s,job,Running off Tapscott,391300,110,488800,121,Back,25
+990020,Andrew,Embley,WC,10,48,51,31,45,61,7,7,4,0,0,0,2,1,1, Full Time,news,%D and %M plus %s,,,264300,37,283600,70,Midfielder,32
+261214,Will,Schofield,WC,3,43,54,29,35,49,6,7,2,1,0,0,0,0,1, Full Time,switch,Started forward but spent time in defence as well... %s from %P,,,313700,111,383700,130,Back,31
+280324,Jacob,Brennan,WC,8,43,32,39,32,45,5,3,3,4,0,0,1,0,0, Full Time,flash,Has Davey... %P and %T with %M,in,Late replacement for Beau Waters,249100,,266800,,Back,14
+260303,Mitchell,Brown,WC,3,37,35,32,31,42,4,5,3,2,0,1,1,0,0, Full Time,job,Standing Clark... %P,,,209500,,233600,,Back,1
+290826,Jamie,Cripps,WC,8,31,14,28,24,34,3,3,0,3,0,0,1,1,1, Full Time,news,On after 3QT for Kerr,sub,Started as a sub,246000,24,245200,34,Forward,15
+200074,Darren,Glass,WC,1,23,28,17,18,24,3,3,1,1,0,1,0,0,0, Full Time,job,Started at FB on Sylvia then moved to be loose... %D,,,274300,98,353400,97,Back,23

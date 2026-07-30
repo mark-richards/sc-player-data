@@ -1,0 +1,62 @@
+Collingwood,Magpies,Melbourne,Demons,W2,11.18.84,9.21.75, Full Time
+Mar 3,2012,7.40,Docklands,Fox Footy,,10330206,,24,Roof closed,21,,
+
+<em>Demons15</em>: :)<br><em>Hadouken</em>: clarke is GONE !!! bye bye&#044; off my team.<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> old_shepp</em>: McNamara outscoring Clarke can't be a good thing<br><em>MatDark</em>: even when clarke was playing regular footy&#044; he wasn't fantastic in dt scoring<br><em>mwallis23</em>: acroyle - no not really he doesnt work that hard off the ball<br><em>acroyale</em>: Has Yagmoor been impressive?<br><em>Hadouken</em>: darren jolly&#044; where did it all go wrong?<br><em>bomber5186</em>: Please pick Clarke. I'll have a trade up on you all.<br><em>Ace Manuva</em>: no way kavaster!<br><em>hacker</em>: give magner a pre-emptive gun&#044; cos he'll have it all season - absolute champ.<br><em>bogut</em>: am now considering bower after clarke's performance tonight<br><em>E Kavastar</em>: It's Clarke's first game of AFL footy in 2 years. Cut the dude some slack&#044; should still be a lock in everyones teams<br>
+240700,Heath,Shaw,CO,20,104,-,135,82,108,18,6,7,3,0,2,1,1,0, Full Time,hot,%P and %M with %T... also %s which was a supergoal,,,98
+220005,Luke,Ball,CO,25,102,-,129,83,111,11,13,6,5,0,2,1,1,0, Full Time,hot,%2 Jones... %O and %M with %T and %s,,,70
+240359,Dale,Thomas,CO,32,99,-,132,80,111,15,6,6,6,0,0,4,2,0, Full Time,news,%2 Sylvia... %O and %M plus %T and %s,,,90
+260257,Scott,Pendlebury,CO,10,86,-,108,68,94,12,12,4,3,0,1,0,0,1, Full Time,news,%O with %b by hand... also %T and %M... kicked %s,,,83
+290314,Lachlan,Keeffe,CO,13,70,-,91,56,72,10,5,7,2,0,1,0,0,0, Full Time,job,Has Howe... %P and %M with %T,,,100
+240232,Ben,Reid,CO,8,62,-,81,50,63,12,2,7,0,0,1,0,0,0, Full Time,job,Running off Martin... %M and %O,subbed,Subbed off at HT,49
+220105,Dane,Swan,CO,9,61,-,79,45,61,8,6,2,4,0,2,0,0,1, Full Time,news,%O with %T and %M... also %s,subbed,Subbed off at HT,42
+291386,Ben,Sinclair,CO,10,60,-,81,44,58,8,2,5,4,0,0,0,0,1, Full Time,news,%s from %D and %T with %M on Bennell,,,79
+294826,Tom,Young,CO,8,59,-,77,48,72,11,9,1,3,0,2,3,0,0, Full Time,news,%D and %T on Nicholson... also %F,,,80
+250683,Simon,Buckley,CO,8,48,-,63,41,54,7,4,6,1,0,0,1,0,0, Full Time,job,Chasing Green... %O and %M,,,83
+260394,Chris,Dawes,CO,3,48,-,62,38,48,6,3,2,3,4,3,1,0,2, Full Time,news,Garland on him... %s from %P and %T... also %M and %H,,,82
+240419,Alan,Toovey,CO,5,47,-,61,39,54,6,6,4,2,0,0,1,0,0, Full Time,job,Following Petterd... %P and %M with %T,,,75
+280965,Steele,Sidebottom,CO,8,47,-,64,35,48,6,3,3,4,0,1,1,0,0, Full Time,news,On in Q3... %D and %T with %M,sub,Started as a sub,43
+230263,Nick,Maxwell,CO,9,41,-,51,36,48,7,4,3,0,0,0,1,1,0, Full Time,news,Playing wide of Watts... %O and %M plus %s,subbed,Subbed off at HT,48
+261799,Sharrod,Wellingham,CO,3,40,-,53,32,45,8,3,3,1,0,0,1,0,0, Full Time,news,On in Q3... %D and %M,sub,Started as a sub,47
+291883,Peter,Yagmoor,CO,2,40,-,49,32,45,8,6,1,0,0,1,0,0,0, Full Time,news,Matched up on Davey... %P,,,100
+290821,Alex,Fasolo,CO,2,38,-,49,30,40,6,3,3,1,0,0,0,0,1, Full Time,news,%s from %D and %M,subbed,Subbed off at HT,40
+294077,Michael,Hartley,CO,2,37,-,48,29,36,6,2,3,1,0,2,0,0,0, Full Time,news,On in Q3 and into defence... %O and %M,sub,Started as a sub,51
+280948,Luke,Rounds,CO,9,34,-,42,30,36,6,0,2,0,0,1,1,2,0, Full Time,news,On in Q3... %P and %M plus %s,sub,Started as a sub,49
+291327,Jonathan,Ceglar,CO,12,32,-,34,33,38,1,3,1,0,17,0,1,1,0, Full Time,news,On in Q3... %H and %P plus %s,sub,Started as a sub,51
+295296,Marley,Williams,CO,2,32,-,43,24,33,6,2,1,2,0,2,1,0,0, Full Time,news,%P and %T,,,69
+291811,Jackson,Paine,CO,7,31,-,39,26,31,3,1,3,1,0,0,0,1,1, Full Time,news,%s from %P and %M on Davis,,,100
+296732,Caolan,Mooney,CO,2,26,-,33,21,27,3,3,2,1,0,1,0,0,0, Full Time,irish,%O and %M on MacDonald,subbed,Subbed off at HT,38
+210099,Darren,Jolly,CO,2,23,-,29,24,30,3,1,3,0,9,0,2,0,0, Full Time,news,%P and %M with %H... also %F,subbed,Subbed off at HT,49
+240366,Travis,Cloke,CO,7,21,-,27,19,24,4,0,2,0,0,0,1,1,0, Full Time,news,Booted %s from %G and %O on Frawley,subbed,Subbed off at HT,49
+294740,Kirk,Ugle,CO,1,20,-,28,13,18,3,0,1,2,0,0,0,0,0, Full Time,news,On in Q3... %D and %T,sub,Started as a sub,43
+294913,Paul,Cribbin,CO,1,20,-,26,15,21,3,2,1,1,0,0,0,0,0, Full Time,news,On in Q4... %D,sub,Started as a sub,25
+292504,Seamus,McNamara,CO,0,13,-,17,10,12,1,0,1,1,3,0,0,0,0, Full Time,usa,On in Q4... %H,sub,Started as a sub,18
+272005,Marty,Clarke,CO,1,12,-,15,11,18,3,3,0,0,0,0,1,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,49
+270830,Colin,Garland,ME,20,108,-,146,79,102,19,1,9,5,0,2,0,0,0, Full Time,hot,%O and %M with %T,job,Standing Dawes,94
+260176,James,Magner,ME,19,89,-,117,62,87,13,8,1,7,0,3,0,0,0, Full Time,news,%O and %T,,,74
+250360,Ricky,Petterd,ME,16,75,-,98,63,78,12,0,7,2,0,1,2,2,3, Full Time,news,%s from %P and %M on Toovey... also %T and %F,,,94
+240037,Colin,Sylvia,ME,19,73,-,95,56,75,9,6,3,5,0,2,1,1,0, Full Time,news,%2 Thomas... %O and %T with %M and %s,subbed,Subbed off in Q4,62
+270174,Tom,Couch,ME,19,72,-,96,52,73,8,7,2,7,0,2,1,0,1, Full Time,news,%D and %T plus %M and %s,,,78
+230130,Joel,MacDonald,ME,13,70,-,94,54,72,12,3,6,3,0,1,1,0,0, Full Time,job,On Mooney... %P and %T with %M,,,95
+250222,Nathan,Jones,ME,15,68,-,82,56,78,10,10,0,2,0,1,1,2,0, Full Time,news,First goal... head to head with Ball... %P and %T plus %s,,,83
+200054,Brad,Green,ME,15,67,-,84,56,73,9,7,4,2,0,2,1,1,1, Full Time,news,%s from %O and %M on Buckley... also %T,,,89
+250418,James,Sellar,ME,5,58,-,78,46,60,10,3,4,3,0,4,2,0,0, Full Time,news,%P and %T with %M,,,82
+280763,Stefan,Martin,ME,12,58,-,70,53,65,5,5,5,1,5,0,1,2,0, Full Time,news,%s from %P with %M on Reid... also %H,,,90
+294874,Daniel,Nicholson,ME,8,48,-,64,33,47,7,3,1,4,0,0,0,0,2, Full Time,job,Minding Young... %P and %T plus %s,,,91
+250510,Matthew,Bate,ME,8,45,-,61,38,58,7,7,1,4,1,2,4,0,0, Full Time,news,Hasn't got Karmichael as an opponent this week... %D and %T... also %F,,,81
+260288,James,Frawley,ME,3,44,-,58,34,48,12,2,2,0,0,1,1,0,0, Full Time,job,Following Cloke... %O and %M,,,97
+220052,Mark,Jamar,ME,4,42,-,51,35,41,5,1,2,1,13,1,0,0,1, Full Time,news,%H and %D plus %M and %s,subbed,Subbed off at HT,49
+290795,Troy,Davis,ME,3,38,-,52,28,39,6,2,2,3,0,1,1,0,0, Full Time,job,Minding Paine... %O and %T with %M,,,100
+250548,Lynden,Dunn,ME,8,35,-,43,30,34,5,0,1,1,0,3,1,2,1, Full Time,news,On in Q3... %s from %P,sub,Started as a sub,51
+280758,Jack,Fitzpatrick,ME,3,31,-,37,25,31,4,2,0,1,10,1,0,0,0, Full Time,news,On in Q3... %H and %D,sub,Started as a sub,44
+250345,Rohan,Bail,ME,1,29,-,38,21,30,6,2,1,1,0,0,0,0,0, Full Time,news,On in Q2... %D,sub,Started as a sub,59
+291313,Jeremy,Howe,ME,8,29,-,36,25,30,4,1,3,0,0,0,0,1,0, Full Time,news,%s from %D and %M on Keeffe,subbed,Subbed off in Q2 for Bail,40
+280972,Jack,Watts,ME,2,28,-,36,23,30,5,2,3,0,0,0,0,0,0, Full Time,news,Playing wide of Maxwell... %P and %M,,,96
+200002,Aaron,Davey,ME,1,23,-,30,17,22,4,1,1,1,0,1,0,0,1, Full Time,news,Matched up on Yagmoor... %P and %s,subbed,Subbed off at HT,38
+290943,Jamie,Bennell,ME,1,19,-,22,17,24,2,5,1,0,0,0,0,0,0, Full Time,job,Has Sinclair... %D,,,90
+293877,Josh,Tynan,ME,1,13,-,18,8,12,1,1,0,2,0,0,0,0,0, Full Time,news,%D and %T,subbed,Subbed off at HT,34
+280748,Jordan,Gysberts,ME,0,12,-,16,8,12,2,1,0,1,0,0,0,0,0, Full Time,news,On in Q4... %D,sub,Started as a sub,22
+291533,Tom,McDonald,ME,0,6,-,8,5,6,1,0,1,0,0,0,0,0,0, Full Time,news,On in Q4... just one touch,sub,Started as a sub,26
+280746,Sam,Blease,ME,0,2,-,3,3,6,1,1,0,0,0,0,1,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,40
+290625,Lucas,Cook,ME,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+291592,Kelvin,Lawrence,ME,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+293827,Jai,Sheahan,ME,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

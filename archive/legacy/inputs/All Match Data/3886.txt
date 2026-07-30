@@ -1,0 +1,48 @@
+Port Adelaide,Power,Melbourne,Demons,R24,17.10.112,15.14.104, Full Time
+Sep 4,2011,3.10,Adelaide,Seven,280746,10312402,5664,181,A morning shower,19,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tME"></b> hungryJack</em>: bugger we lost again!<br><em style='color:#a0a'>moorey21</em>: Cheers&#044; Im absolutely stoked.. wana get powered but have to drive to Perth and see Bear Grylls&#044; lol<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> brent_bren</em>: nice work mate<br><em style='color:#a0a'>moorey21</em>: Works was worth $1500 and the BigAnt comp is a mystery prize... not sure what<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> dosser11</em>: good win for dean brogan&#044; he deserved a win in his last match<br><em>BeerMan</em>: damn what to do with all these wooden spoons<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> WEEEagles</em>: Come join your bro megahead&#044; Lecca can shift to the mid 4 u.<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> pies4spoon</em>: i wish collingwood won the spoon<br><em>brent_bren</em>: what did u win moorey??? how much ??<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> handypoint</em>: Thank you Mr Lobbe.<br><em>GJayBee</em>: I just won the work tipping&#044; after changing my tips for the first time hahahah<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> WEEEagles</em>: Q. is can 1 of these sides (do a W.C.) next year? Pffft.<br>
+230242,Brett,Ebert,PA,37,129,121,167,98,123,17,4,7,7,0,3,0,3,0, Full Time,star,%s from %P and %M on Garland... also %T,,
+260750,Justin,Westhoff,PA,38,122,130,156,98,120,14,4,8,6,0,3,1,4,0, Full Time,x-factor,%s from %D on McDonald... also %T and %M... two Q4 goals were crucial,,
+261396,Robbie,Gray,PA,32,102,107,132,75,100,11,9,3,8,0,3,0,1,1, Full Time,hot,Tagged by McKenzie... %P and %M plus %T and %s,,
+250365,Travis,Boak,PA,25,97,99,125,75,96,12,5,6,5,0,1,0,2,0, Full Time,tagged,Tagged by Bartram... %P and %T with %M and %s,,
+230192,Steven,Salopek,PA,24,96,98,120,78,105,16,10,6,1,0,0,0,1,0, Full Time,news,Matched up on Trengove... %D and %M plus %s,,
+210008,Daniel,Motlop,PA,20,95,92,122,76,101,17,6,6,2,1,1,1,1,1, Full Time,news,%s from %P and %M on Bennell,,
+270952,Mitch,Banner,PA,20,90,74,115,73,97,13,8,6,3,0,1,1,1,1, Full Time,news,%D and %M plus %T and %s,,
+220090,David,Rodan,PA,25,86,104,109,65,90,9,10,0,7,0,2,1,2,0, Full Time,tagged,Tagged by Bail... %O and %T plus %s,,
+210043,Domenic,Cassisi,PA,42,84,112,112,56,81,8,9,0,10,0,2,0,0,0, Full Time,tagger,Tagging Moloney... %O and %T,,
+250063,Danyle,Pearce,PA,13,76,99,95,59,84,15,10,2,1,0,1,0,0,0, Full Time,news,Running off halfback again... %O and %M,,
+271078,Matthew,Broadbent,PA,21,75,85,101,51,73,8,6,2,8,0,0,0,0,1, Full Time,news,%P and %T,,
+250688,Alipate,Carlile,PA,9,69,100,91,51,69,12,4,4,3,0,1,0,0,0, Full Time,news,%D and %T with %M,job,Standing Howe
+200111,Dean,Brogan,PA,10,67,78,81,58,72,7,7,3,2,15,3,1,0,0, Full Time,heart,%H and %P with %M and %T in his last game,,
+230195,Jay,Schulz,PA,11,64,75,80,52,69,6,8,4,3,0,0,0,1,0, Full Time,news,%s from %O and %G with %T on Frawley,,
+280013,Jackson,Trengove,PA,13,62,109,78,56,71,6,9,6,2,2,4,2,0,0, Full Time,news,%M and %O with %T,job,On Watts
+261230,Matthew,Lobbe,PA,14,49,75,58,51,65,4,5,3,1,19,0,4,1,1, Full Time,news,%H and %P with %M and %s,,
+290540,Cameron,O'Shea,PA,5,48,67,62,38,51,6,5,4,2,0,0,0,0,0, Full Time,news,%2 Jones off a wing... %D and %M with %T,,
+230124,Tom,Logan,PA,3,43,45,57,36,46,7,2,5,1,0,1,1,0,1, Full Time,news,%D and %M,job,Chasing Jetta
+240074,Jacob,Surjan,PA,3,37,23,48,29,39,2,5,3,3,0,0,0,0,0, Full Time,injured,Responsible for Green... %O and %M... left calf injury in Q3,subbed,Subbed off in Q3 for Jonas
+280877,John,Butcher,PA,3,28,35,37,21,27,3,2,2,2,0,1,0,0,0, Full Time,wall,Rivers on him.... no stats in Q1... %P and %M with %T,injured,Groin iced up in Q4
+240180,Troy,Chaplin,PA,2,25,29,32,22,30,5,3,2,0,0,1,1,0,0, Full Time,news,%P,,
+292145,Thomas,Jonas,PA,1,15,33,18,12,18,1,4,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Surjan,sub,Started as a sub
+230151,Brent,Moloney,ME,36,125,133,96,93,136,16,19,1,9,0,2,1,0,1, Full Time,hot,Tagged by Cassisi... %O and %T,,
+270906,Jordie,McKenzie,ME,52,115,115,124,88,123,7,13,4,13,0,1,3,2,0, Full Time,hot,%P and %T plus %M and %s,tagger,Tagging Gray
+280608,Jack,Trengove,ME,30,104,109,76,86,119,14,13,6,4,2,0,2,1,0, Full Time,hot,Matched up on Salopek... %O and %T with %M and %s,,
+250510,Matthew,Bate,ME,21,97,118,69,80,108,13,13,5,3,0,2,1,1,0, Full Time,news,%s from %P with %M and %T,,
+280763,Stefan,Martin,ME,13,81,86,57,68,82,11,2,5,2,9,2,1,2,1, Full Time,news,%P and %M with %T and %s... also %H,,
+291313,Jeremy,Howe,ME,20,77,92,63,60,78,9,6,5,4,0,1,0,1,0, Full Time,news,%s from %P and G with %T on Carlile,,
+250222,Nathan,Jones,ME,16,76,72,51,67,97,11,12,2,3,0,0,4,2,1, Full Time,news,%2 O'Shea off a wing... %D and %s,,
+250345,Rohan,Bail,ME,18,76,73,58,53,79,11,7,1,7,0,0,1,0,1, Full Time,news,%P and %T plus %s,tagger,Tagging Rodan
+220052,Mark,Jamar,ME,32,73,68,68,72,82,3,6,2,1,40,2,2,1,0, Full Time,news,%H and %D with %M,,
+200054,Brad,Green,ME,12,68,63,58,55,67,7,3,5,3,0,1,0,2,1, Full Time,news,%s from %D with %M and %T on Surjan,,
+281280,Neville,Jetta,ME,15,63,77,50,47,63,8,4,3,4,0,0,0,1,0, Full Time,news,%s from %P and %M with %T on Logan,,
+270830,Colin,Garland,ME,9,62,89,52,51,70,7,8,5,3,1,0,1,0,0, Full Time,job,Minding Ebert... %P and %T plus %M,,
+280972,Jack,Watts,ME,9,62,66,51,46,65,8,5,3,5,1,0,1,0,1, Full Time,news,%s from %G and %D on Trengove... also %T,,
+270985,Cale,Morton,ME,10,59,64,37,43,56,10,1,2,3,0,1,0,1,2, Full Time,news,First goal... %s from %O as a forward... also %M and %T,,
+250245,Clint,Bartram,ME,5,53,42,41,42,55,7,4,5,2,0,0,0,0,1, Full Time,tagger,Tagging Boak... %D and %M with %T and %s,,
+230250,Jared,Rivers,ME,4,50,72,30,39,51,9,2,5,1,0,0,0,0,0, Full Time,news,%D and %M,job,Has Butcher
+280758,Jack,Fitzpatrick,ME,10,47,41,29,43,58,8,3,4,1,2,0,3,1,2, Full Time,news,Playing forward... %s from %D and %G,,
+260288,James,Frawley,ME,4,43,53,31,35,51,6,7,2,2,0,0,1,0,0, Full Time,job,Standing Schulz... %P and %M with %T,,
+291533,Tom,McDonald,ME,3,35,35,23,30,40,5,5,3,0,0,0,0,0,1, Full Time,job,On Westhoff... %D and %M,,
+290943,Jamie,Bennell,ME,3,30,40,24,26,39,4,5,2,2,0,0,2,0,0, Full Time,job,Going with Motlop... %D and %M with %T,,
+280579,Luke,Tapscott,ME,1,23,33,9,18,24,5,2,1,0,0,1,0,0,0, Full Time,news,On in Q3 for Blease... %D,sub,Started as a sub
+280746,Sam,Blease,ME,0,-4,-2,-10,4,13,2,2,0,0,0,0,5,0,1, Full Time,concussed,%O and %F... smacked his head into the centre wicket in a tackle by Gray in Q2,subbed,Subbed off in Q3 for Tapscott

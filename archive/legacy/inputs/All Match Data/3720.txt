@@ -1,0 +1,48 @@
+Richmond,Tigers,Hawthorn,Hawks,R3,6.16.52,17.13.115, Full Time
+Apr 9,2011,7:10,MCG,Ten,270732,10310304,5015,21,Windy with rain,27
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>kingbling</em>: $$ icons mOnty<br><em>CaptCrawf</em>: You people know nothing about SC. Scores are weighed at the end of each game to equal 3300 so every game is even<br><em>Rhodie</em>: buddy capt this week :)<br><em>zinger16</em>: lol at who didnt trade foley. 24 touches 4 tackles and he gets that cat power score<br><em>eski_liddr</em>: Gibson  SC score is amazing<br><em>Ferog</em>: Osborne up 6 SC points in last Qtr and didn't play? are they serious?<br><em title="BABE4HIRE">babe4hire</em>: who talks with a lisp?<br><em>chrissy_J</em>: bloody hell&#044; did foley go BOOM ???<br><em>Tucker</em>: well ryder go there and chat with yourself<br><em title="SUPERSTAR3">superstar3</em>: does osbornes score stand??<br><em>cobsta</em>: wtf. stratton got 4 sc points and didnt even come on the ground that quarter!<br><em>eski_liddr</em>: its crap<br>
+240707,Daniel,Jackson,RI,44,109,115,147,73,105,14,8,2,11,0,1,0,0,0, Full Time,hot,%O and %T,,
+250623,Robin,Nahas,RI,42,94,104,129,60,84,10,5,1,12,0,3,0,0,0, Full Time,news,%D and %T,,
+290847,Dustin,Martin,RI,18,94,96,124,65,93,19,6,1,5,0,2,0,0,0, Full Time,news,%P and %T,,
+240130,Nathan,Foley,RI,14,74,108,96,62,91,12,12,2,4,0,3,4,0,1, Full Time,news,%P including %B with %T and %F,,
+250298,Shaun,Grigg,RI,14,70,65,88,58,79,12,7,4,1,0,0,1,1,1, Full Time,news,%D and %M plus %s,,
+260146,Angus,Graham,RI,25,70,59,88,57,71,3,3,1,7,29,1,2,0,0, Full Time,news,%H and %P with %T,,
+270896,Trent,Cotchin,RI,7,68,70,87,52,76,18,6,1,0,0,1,1,0,1, Full Time,news,%D with %k by foot... also %s,,
+250312,Bachar,Houli,RI,8,65,61,82,52,68,13,5,4,0,0,2,0,0,2, Full Time,news,%O and %M plus %s,,
+240412,Mitch,Morton,RI,13,63,52,85,45,64,12,3,2,4,0,1,1,0,1, Full Time,news,%s from %P and %T on Stratton,,
+270941,Tyrone,Vickery,RI,9,61,72,74,49,62,8,6,1,2,4,3,0,1,1, Full Time,news,Kicked %s from %D on Gilham... also %T and %H,,
+271437,Jake,King,RI,20,57,66,76,42,58,7,2,0,6,0,1,2,2,1, Full Time,tagger,Tagging Hodge... %D and %T with %s,,
+291437,Jake,Batchelor,RI,5,52,57,72,41,57,9,2,5,3,0,0,2,0,0, Full Time,job,Has Guerra... %D and %M with %T... also %F,,
+240336,Brett,Deledio,RI,6,51,58,62,41,58,8,9,1,1,0,1,0,0,1, Full Time,news,%2 Burgoyne... %D and %s,,
+250395,Jack,Riewoldt,RI,9,48,53,60,40,48,6,2,4,1,1,1,0,1,2, Full Time,news,Took almost to half time to register a possession on Gibson... %s from %P and %G,,
+210048,Chris,Newman,RI,3,47,60,63,35,51,12,2,2,1,0,0,1,0,0, Full Time,tagged,Forward tag on him by Lewis.. %P and %M,,
+260105,Daniel,Connors,RI,3,43,48,61,34,54,11,3,1,3,0,1,4,0,0, Full Time,news,%D including %K on Suckling,,
+293315,Bradley,Helbig,RI,8,41,41,49,34,45,7,5,1,0,0,1,0,1,0, Full Time,news,%D and %s,,
+240389,Matt,White,RI,13,37,44,54,26,42,3,4,0,7,0,1,3,0,0, Full Time,tagger,Tagging Bateman... %O and %T plus %F,,
+260930,Shane,Edwards,RI,3,31,22,42,22,30,5,1,2,2,0,0,0,0,0, Full Time,news,On in Q3 for Conca... %D,sub,Started as a sub
+290823,Reece,Conca,RI,2,30,38,39,24,33,4,4,1,2,0,2,1,0,0, Full Time,job,Minding Osborne... %D and %T,subbed,Subbed off in Q3 for Edwards
+280819,Dylan,Grimes,RI,2,22,56,29,19,30,3,5,0,2,0,1,2,0,0, Full Time,job,On Franklin... %O and %F,,
+290198,David,Astbury,RI,0,18,34,24,13,15,3,0,1,1,0,2,0,0,0, Full Time,job,Has Roughead... %P,,
+250089,Jordan,Lewis,HW,21,126,99,81,100,133,20,12,9,3,0,2,0,0,1, Full Time,hot,%O and %M plus %s,tagger,Forward tag on Newman
+280737,Liam,Shiels,HW,24,102,76,71,82,117,16,11,7,5,0,0,3,0,0, Full Time,hot,%D and %M with %F,,
+240399,Lance,Franklin,HW,27,100,147,61,85,110,15,7,2,2,0,1,2,5,2, Full Time,hot,Booted %s from %P and %G on Grimes... also %F,,
+250308,Brent,Renouf,HW,23,98,97,86,79,95,9,2,5,5,31,0,0,0,1, Full Time,garbage,%H and %P with %T... racked up stats in Q4 junk time,,
+210012,Shaun,Burgoyne,HW,26,95,121,74,71,97,12,9,3,6,0,1,0,1,1, Full Time,news,%2 Deledio... %O with %b by hand... also %T and %s,,
+250257,Xavier,Ellis,HW,21,94,87,72,78,102,12,9,8,3,0,1,1,1,0, Full Time,heart,%P and %M plus %s... calf iced up in Q3 but returned due to other Hawk injuries,,
+220047,Luke,Hodge,HW,17,91,149,61,74,94,13,7,5,2,0,2,0,2,1, Full Time,crown,First goal... tagged by King... %P and %M plus %s,,
+270732,Matt,Suckling,HW,14,84,96,48,60,86,16,5,2,5,0,1,1,0,2, Full Time,job,Running off Connors... %O and %T plus %s,,
+230197,Brad,Sewell,HW,25,81,96,63,59,90,12,9,0,9,0,3,4,0,0, Full Time,news,Enjoying himself in Mitchell's absence as primary extractor... %P and %T with %F,,
+280858,Shane,Savage,HW,20,80,121,49,61,84,13,7,0,4,0,2,1,2,0, Full Time,news,%D and %T plus %s,,
+240302,Grant,Birchall,HW,9,74,85,53,58,81,10,11,3,3,0,1,0,0,0, Full Time,news,%O and %M with %T,,
+200040,Chance,Bateman,HW,21,73,69,67,51,72,8,6,2,8,0,2,1,0,0, Full Time,tagged,Tagged by White... %D and %T,,
+250715,Josh,Gibson,HW,19,73,133,69,55,78,6,12,2,6,0,1,0,0,0, Full Time,news,%O and %T,job,On Riewoldt
+200060,Brent,Guerra,HW,19,68,82,58,55,73,7,8,3,4,0,2,1,1,1, Full Time,sore,Playing a half forward role on Batchelor... %s from %P and %T... carried off with a left ankle/calf injury in Q2 after Roughead ran into him but returned later in the quarter,in,Late replacement for Sam Mitchell (family issue)
+240357,Jarryd,Roughead,HW,20,67,74,55,51,66,8,1,2,5,0,0,1,3,0, Full Time,news,%s from %P and %T on Astbury,,
+230082,Stephen,Gilham,HW,9,61,73,40,51,72,10,7,5,2,0,0,2,0,0, Full Time,job,On Vickery... %P and %T,,
+220060,Rick,Ladson,HW,7,51,85,19,39,61,12,6,0,2,0,0,2,0,1, Full Time,news,%P and %T plus %s,,
+220036,David,Hale,HW,15,49,59,46,49,62,4,3,3,3,16,2,5,1,1, Full Time,sore,%H and %P with %M and %s... knock to the back of the head that drew blood in Q2,,
+280471,Ben,Stratton,HW,3,47,46,27,34,51,9,4,1,3,0,0,1,0,0, Full Time,injured,%O and %T on Morton... dislocated right knee in Q3 and taken to hospital,,
+200052,Cameron,Bruce,HW,8,45,35,46,34,46,3,6,2,4,0,1,0,0,1, Full Time,news,On in Q3 for Osborne... %P,sub,Started as a sub
+210092,Michael,Osborne,HW,8,36,57,18,31,42,7,3,1,1,0,2,2,1,0, Full Time,injured,Kicked %s from %D on Conca... right calf iced up in Q3,subbed,Subbed off in Q3 for Bruce
+250055,Clinton,Young,HW,2,32,36,23,23,36,5,4,0,3,0,0,1,0,0, Full Time,cold,A far cry from his stat line in his first two games... %D and %T,,

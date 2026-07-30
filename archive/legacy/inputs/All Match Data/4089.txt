@@ -1,0 +1,48 @@
+Sydney,Swans,Western Bulldogs,Bulldogs,R10,20.12.132,5.10.40, Full Time
+Jun 3,2012,3:15,SCG,Seven,290117,10341008,430096,0,Rain,18,,
+
+<em style='margin-bottom:-2px'><b class="ticon tAD"></b> Refused</em>: screw u lake but mostly hargrave<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> Chillicat</em>: Somne serious scaling required in this game 154 sc will be added to make up the 3300 game points<br><em>linusp</em>: nvm<br><em>Jormas</em>: Darley is better than grave..<br><em>OiCatchYa</em>: doggies season over<br><em>bert1</em>: i traded him this week kept golby but now lose scotland cant win<br><em>linusp</em>: jettas SC anyone?<br><em>Grazz</em>: Over to the other.<br><em>bonecrusha</em>: so many hitouts in total<br><em>Grazz</em>: Hargrave has been added to the up for trade list.<br><em>afl_freak2</em>: bolton only 16 more sc than shaw??? rigged<br><em>Adamant</em>: flower u hargrave<br>
+990011,Jude,Bolton,SY,44,154,158,190,129,174,19,22,9,4,0,1,1,2,0, Full Time,star,First goal... %s from %D and %M with %T... copped Picken's tag in Q3 but by that stage he had already earned BOG honours,,
+240226,Kieren,Jack,SY,28,131,141,165,101,138,22,12,4,4,0,1,0,2,0, Full Time,hot,%O and %M with %T and %s,tagger,Tagging Griffen
+290117,Daniel,Hannebery,SY,26,120,133,153,94,133,20,15,5,4,0,1,1,0,1, Full Time,hot,%2 Cross on a wing... %O and %M with %T and %s,,
+200023,Rhyce,Shaw,SY,25,118,142,154,88,123,20,10,6,5,0,0,0,0,0, Full Time,hot,%P and %T with %M,job,Minding Dahlhaus
+281281,Lewis,Jetta,SY,21,90,93,110,73,93,11,6,3,3,0,0,0,4,0, Full Time,garbage,Tagged by Picken in the first half then released... %O and %T with %M... all of his %s in second half junk time,,
+230140,Ben,McGlynn,SY,25,89,89,108,76,91,9,7,6,2,0,3,0,3,1, Full Time,news,%s from %D and %M on Addison,,
+210027,Ted,Richards,SY,14,85,95,113,70,99,15,8,7,3,0,0,3,0,0, Full Time,job,Standing Cordy... %P and %M... also %T and %F,,
+260382,Josh P.,Kennedy,SY,19,81,105,97,69,100,10,18,0,3,0,2,2,1,1, Full Time,news,%2 Boyd... %D and %T plus %s,,
+230253,Jarrad,McVeigh,SY,10,80,68,102,62,86,14,8,4,2,0,0,0,0,2, Full Time,news,%P and %T with %M and %s,,
+291206,Mike,Pyke,SY,27,78,76,89,72,84,4,5,3,2,42,0,1,0,0, Full Time,canada,%H and %D with %M and %T,,
+291450,Alex,Johnson,SY,13,76,75,94,64,87,10,12,6,1,0,0,0,0,0, Full Time,job,Minding Cooney... %D and %M,,
+200071,Ryan,O'Keefe,SY,18,75,84,92,61,87,14,11,1,1,0,1,1,1,0, Full Time,news,Had Wood to start with... %s from %D,,
+240072,Heath,Grundy,SY,8,67,80,88,48,69,15,4,2,2,0,0,0,0,0, Full Time,job,On the resting ruckman which is mostly Roughead... %D and %M,,
+290788,Luke,Parker,SY,9,66,80,80,56,76,6,13,4,2,1,1,0,0,0, Full Time,injured,%2 Wallis... %P and %T with %M... left shoulder got smashed in a bump by Boyd in Q3,subbed,Subbed off in Q3 for Armstrong
+270570,Trent,Dennis-Lane,SY,15,55,54,68,48,58,7,1,4,1,0,0,1,3,1, Full Time,news,%s from %O and %M,,
+250338,Nick,Smith,SY,7,54,66,68,41,60,9,8,1,2,0,0,0,0,0, Full Time,job,Following Giansiracusa... %D and %T,,
+220063,Martin,Mattner,SY,8,50,55,67,36,52,6,5,1,5,0,1,1,0,1, Full Time,job,Has Higgins... %D and %T,,
+220089,Lewis,Roberts-Thomson,SY,10,47,79,59,40,48,5,2,3,2,0,2,1,2,0, Full Time,news,Playing forward on Lake... %s from %P and %T with %M,,
+261212,Craig,Bird,SY,7,47,53,61,35,54,10,6,0,2,0,0,1,0,0, Full Time,tagger,Forward tag on Murphy... %P and %T,,
+290188,Samuel,Reid,SY,10,43,46,53,42,55,7,4,3,0,0,1,3,2,1, Full Time,news,Kicked %s from %D and %G on Austin,,
+280762,Shane,Mumford,SY,8,39,36,45,36,45,1,6,1,2,15,1,1,0,0, Full Time,cold,%H and %P with %T,,
+270170,Tony,Armstrong,SY,1,31,26,40,23,33,6,3,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Parker... %P,sub,Started as a sub
+220010,Matthew,Boyd,WB,14,106,97,33,73,104,27,2,2,3,1,1,0,0,1, Full Time,hot,%2 Kennedy... %P and %T with %M and %s,,
+240156,Ryan,Griffen,WB,25,98,95,58,70,103,18,8,2,6,0,0,1,0,1, Full Time,tagged,Tagged by Jack.. %D and %T with %M and %s,,
+230255,Will,Minson,WB,33,81,96,65,76,90,7,4,1,2,48,2,3,0,0, Full Time,news,%H and %D with %T,,
+271439,Liam,Picken,WB,15,73,85,50,62,84,9,12,2,1,0,0,0,2,0, Full Time,tagger,Moved his tag from Jetta to Bolton in Q3... %D and %M plus %s,,
+230041,Adam,Cooney,WB,13,70,76,38,54,81,12,13,0,2,0,0,0,0,0, Full Time,news,%P and %T on Johnson,,
+291545,Mitch,Wallis,WB,14,68,85,52,59,84,7,16,1,2,0,1,1,1,0, Full Time,news,%2 Parker... %O and %T plus %s,,
+280012,Jordan,Roughead,WB,5,65,64,46,55,67,8,5,3,1,14,2,0,0,2, Full Time,news,Kicked %s from %P and %M on Grundy... also %H,,
+260227,Shaun,Higgins,WB,9,62,69,43,53,75,9,10,4,2,0,1,2,0,0, Full Time,news,%P and %T with %M on Mattner,,
+295712,Tory,Dickson,WB,12,58,70,60,45,66,3,13,1,5,0,0,0,0,0, Full Time,cash,%D and %T,,
+291526,Luke,Dahlhaus,WB,9,57,42,40,40,56,9,3,2,4,0,0,0,0,2, Full Time,news,%s from %P and %T with %M on Shaw,,
+240212,Dylan,Addison,WB,12,56,59,39,50,66,8,7,7,0,0,0,1,0,0, Full Time,job,On McGlynn... %P and %M,,
+200083,Robert,Murphy,WB,8,53,67,35,36,51,9,3,1,4,0,1,0,0,0, Full Time,tagged,Forward tag on him by Bird... %D and %T,,
+210049,Daniel,Cross,WB,7,50,83,27,39,58,9,8,0,2,1,1,1,0,0, Full Time,news,%2 Hannebery on a wing... %O and %T,,
+220039,Brian,Lake,WB,8,49,47,14,40,57,13,2,4,0,0,0,2,0,0, Full Time,news,%M and %O,job,At FB on Roberts-Thomson
+270186,Patrick,Veszpremi,WB,9,49,52,28,41,53,8,4,3,0,0,0,0,1,2, Full Time,switch,%P and %M... started in defence but switched forward in the second half for %s,,
+290799,Tom,Liberatore,WB,8,47,67,42,34,51,5,7,0,5,0,1,1,0,0, Full Time,news,%O and %T,,
+200082,Ryan,Hargrave,WB,3,46,47,23,37,51,9,5,2,1,0,2,1,0,0, Full Time,news,Not a happy 200th game... %D and %M,,
+261243,Mark,Austin,WB,4,37,51,25,31,42,6,4,2,2,0,3,2,0,0, Full Time,job,Standing Reid... %P and %T... also %F,,
+200079,Daniel,Giansiracusa,WB,3,33,35,25,25,36,4,6,0,2,0,1,0,0,0, Full Time,news,%D and %T on Smith,,
+280056,Ayce,Cordy,WB,7,31,31,17,26,34,5,3,1,0,0,0,0,1,1, Full Time,news,%s from %P on Richards,,
+281139,Easton,Wood,WB,2,24,25,16,18,24,4,1,2,1,0,0,0,0,0, Full Time,job,Minding O'Keefe... %D and %M,subbed,Subbed off in Q3 for Pearce
+293676,Daniel,Pearce,WB,0,6,8,3,5,6,1,1,0,0,0,1,0,0,0, Full Time,in,%l Zephaniah Skinner.. on in Q3 for Wood,sub,Started as a sub

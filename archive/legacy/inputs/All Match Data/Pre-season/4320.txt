@@ -1,0 +1,52 @@
+Geelong,Cats,Adelaide,Crows,W2,2.16.12.126,1.8.6.63, Full Time
+Mar 02,2013,2.40,Kardinia,Seven,,10380202,,0,Sunny,24,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>Grazz</em>: Harry T 111 DT points&#044; im in the twilight zone surely.<br><em>jhawk</em>: even with *hawks sorry<br><em>jhawk</em>: its a nab cap relax people. the bulldogs will finish even with harry end of yr to ? adelaide still top 8 maybe not 4 <br><em>R.Griff</em>: Crows will win 1 of there first 4<br><em>Grazz</em>: Theres terrible m0nty then theres horrible&#044; we are the later. :(<br><em>MayhemFC2</em>: If crows are bad all year&#044; Danger will stand out even more. damn it<br><em>MayhemFC2</em>: Man&#044; dangerfield is tempting me with his whiley charm<br><em style='color:#e50000'>m0nty</em>: interstate teams always look terrible at Geelong<br><em>chadwick</em>: Cause Adelaide are over rated. Soft draw every year<br><em>MayhemFC2</em>: I dont understand why adelaide are playing so poorly?<br><em>SydneyRox</em>: walker = shocker!<br><em>maluckyday</em>: any chance of a comeback (lol)<br>
+220058,James,Kelly,GE,55,124,118,164,88,121,16,9,2,11,0,4,1,1,1, Full Time,hot,%2 Vince... %P and %T plus %s... also %M,,
+261497,Harry,Taylor,GE,21,124,159,158,99,129,19,12,9,3,0,4,0,0,0, Full Time,hot,%P including %B with %M and %T,job,Walker is his man
+220007,Jimmy,Bartel,GE,31,114,119,143,98,130,14,14,7,4,0,3,3,2,1, Full Time,hot,%2 Dangerfield... %D and %M... also %F and %T... %s when moved forward late,,
+290783,Billie,Smedts,GE,21,87,88,110,71,92,10,7,5,4,0,1,1,2,2, Full Time,news,Kicked %s from %P and %M on Henderson... had a very productive Q1... also %T,,
+200035,Corey,Enright,GE,15,82,93,107,63,87,11,9,4,5,0,2,1,0,0, Full Time,news,%P including %k by foot... also %T and %M,,
+281065,Mitch,Duncan,GE,16,80,102,98,69,90,9,10,5,2,0,1,1,2,0, Full Time,news,%s from %P and %M on Reilly,,
+280822,Taylor,Hunt,GE,20,75,76,95,61,87,10,11,2,4,0,1,2,1,0, Full Time,job,In defence on Johncock... %P and %T... also %F,,
+230248,Andrew,Mackie,GE,14,73,85,88,62,84,11,12,2,1,0,3,1,1,0, Full Time,job,Matched up on Douglas... %P and %s,,
+230250,Jared,Rivers,GE,13,73,69,93,62,84,11,9,7,1,0,0,1,0,0, Full Time,job,On a HBF on Kerridge... %D and %M,,
+296733,Mark,Blicavs,GE,16,67,71,83,54,65,5,3,3,4,14,1,0,1,0, Full Time,news,Held his own with Jacobs... %H and %P with %T and %M... also %s,,
+295942,Jordan,Murdoch,GE,12,63,67,79,53,67,6,5,4,3,0,1,1,2,1, Full Time,news,%s from %D and %M... also %T,,
+200131,James,Podsiadly,GE,10,57,62,77,43,56,8,2,4,4,1,2,1,0,1, Full Time,news,Donuts in Q1 with Rutten on him... happy to take a back seat... %s from %P and %T with %G,,
+290623,Josh,Caddy,GE,9,57,58,75,41,58,8,5,2,4,0,0,0,0,1, Full Time,sore,Just does not win enough of it... %P and %M plus %s... ran his head into Joshua Walker's shoulder in Q3,,
+291949,Shane,Kersten,GE,15,55,71,67,48,60,7,3,3,1,0,0,1,3,0, Full Time,news,%s from %P in limited forward TOG,,
+293255,George,Horlin-Smith,GE,12,54,71,64,45,61,7,9,1,1,0,1,0,1,1, Full Time,news,%P and %s,,
+250290,Travis,Varcoe,GE,7,53,72,66,45,64,8,9,3,1,0,0,1,0,1, Full Time,news,First goal which was a supergoal... %D and %M... also %s... will obviously have a breakout year in SC but does he get enough of it for DT?,,
+290622,Mitch W.,Brown,GE,4,48,49,66,39,51,7,2,5,3,0,2,2,0,0, Full Time,job,In defence on Jenkins... %P and %M with %T,,
+294663,Jackson,Thurlow,GE,5,48,49,63,37,48,7,3,4,2,0,1,0,0,0, Full Time,news,On in Q2 for Chapman... %P and %T with %M,sub,Started as a sub
+290550,Cameron,Guthrie,GE,4,40,42,51,33,48,3,8,2,3,0,0,1,0,0, Full Time,news,Donuts in Q1... %P and %T plus %M,porpoise,Minding Porplyzia
+291550,Josh,Walker,GE,4,35,36,45,31,43,4,4,2,2,7,0,2,0,0, Full Time,news,%D on Otten... also %H and %T,,
+280990,Steven,Motlop,GE,3,30,43,39,27,40,5,5,2,1,0,0,2,0,1, Full Time,news,%s from %O and %M on Brown,,
+295222,Joel,Hamling,GE,1,18,9,24,14,18,4,0,2,0,0,0,0,0,0, Full Time,news,On late in Q4... %D and %M,sub,Started as a sub
+200039,Paul,Chapman,GE,1,17,40,22,15,21,2,3,1,1,0,1,1,0,0, Full Time,injured,Is bald... %D... tweaked his groin slightly in Q2 in a challenge with Vince,subbed,Subbed off in Q2 for Thurlow
+292105,Cam,Eardley,GE,1,11,9,16,10,18,3,2,0,1,0,0,2,0,0, Full Time,news,On in Q4... %P and %F,sub,Started as a sub
+270917,Patrick,Dangerfield,AD,32,124,145,92,101,136,15,16,3,5,0,2,1,3,1, Full Time,hot,%2 Bartel... seemed like he was a one-man team at times... %O and %M plus %s... also %T,sore,Ran his head into Smedts' head in Q2 which left him a little dazed
+240370,Richard,Douglas,AD,25,94,88,77,75,99,11,9,6,5,0,2,1,1,0, Full Time,news,%s from %O and %M on Mackie... also %T,,
+250118,Nathan,van Berlo,AD,15,81,72,60,65,87,10,11,3,3,0,2,0,1,0, Full Time,news,%D and %M with %T... also kicked %s,,
+270811,Sam,Jacobs,AD,21,80,95,73,71,88,5,10,4,2,25,0,0,0,0, Full Time,news,%H against Blicavs but very little on the ground... %P and %M with %T,,
+261142,Bernie,Vince,AD,9,78,65,42,57,81,15,6,3,3,0,0,0,0,0, Full Time,news,%2 Kelly... %P and %T with %M,,
+210016,Scott,Thompson,AD,18,75,72,47,60,93,13,12,1,5,0,1,4,0,0, Full Time,news,%O and %T... also %F,,
+293193,Luke,Brown,AD,5,67,60,38,48,63,13,1,4,3,0,2,0,0,0, Full Time,job,Minding Motlop... got a bit lost early as the Cats dominated the Crows defence... %O and %M,,
+261384,Matthew,Wright,AD,7,61,43,26,48,66,13,6,2,1,0,3,1,0,0, Full Time,news,%O including %K,,
+230174,Jason,Porplyzia,AD,15,60,50,51,47,66,7,6,2,5,0,1,2,1,0, Full Time,news,%s from %D and %T on Guthrie,,
+280281,Brodie,Martin,AD,10,56,46,34,49,64,9,5,5,0,0,0,1,1,1, Full Time,news,Donuts in Q1... %O and %M... also %s playing a forward role,,
+291806,Sam,Kerridge,AD,9,52,47,42,41,55,7,4,3,4,0,3,2,0,1, Full Time,news,%s from %D and %T on Rivers... also %M and a supergoal,,
+280038,Shaun,McKernan,AD,6,49,40,47,41,50,4,2,4,3,11,1,1,0,0, Full Time,news,On in Q3 for Jenkins... %P and %M plus %H,sub,Started as a sub
+250362,David,Mackay,AD,7,48,44,40,41,60,5,11,1,3,0,2,2,0,0, Full Time,news,%D and %T... also %F,,
+220086,Brent,Reilly,AD,8,46,58,26,43,63,9,6,5,1,0,0,4,0,0, Full Time,job,Responsible for Duncan... %D and %M,subbed,Subbed off at HT for Crouch
+261351,Matthew,Jaensch,AD,4,42,37,30,34,48,6,6,2,2,0,1,1,0,0, Full Time,news,%P and %T with %M,,
+291201,Ricky,Henderson,AD,7,41,78,13,35,51,10,5,2,0,0,1,2,0,0, Full Time,news,%P and %M... also %F,job,In defence on Smedts
+210056,Graham,Johncock,AD,8,39,35,31,33,42,4,5,2,1,0,1,0,1,0, Full Time,news,Taylor Hunt on him... %s from %D and %M,,
+294307,Brad,Crouch,AD,3,34,21,30,27,39,3,7,1,2,0,0,0,0,0, Full Time,news,On in Q3 for Reilly... %P including %B... also %T,sub,Started as a sub
+280506,Taylor,Walker,AD,3,33,32,20,31,44,6,4,3,1,0,1,3,0,2, Full Time,news,%D on Taylor... also %F,,
+294828,Josh,Jenkins,AD,2,25,22,21,20,29,3,3,1,2,2,0,1,0,0, Full Time,news,%P and %T on Brown.... also %H,subbed,Subbed off in Q3 for McKernan
+220093,Ben,Rutten,AD,1,23,24,20,19,27,2,5,1,1,0,0,0,0,0, Full Time,news,Donuts in Q1 with limited TOG... %D,ipod,On Podsiadly
+270296,Andrew,Otten,AD,1,22,26,13,16,21,4,1,1,1,0,1,0,0,0, Full Time,job,Has Walker... %O,,
+291402,Aidan,Riley,AD,1,17,22,17,13,21,2,2,0,3,0,1,2,0,0, Full Time,news,%P and %T... also %F,subbed,Subbed off in Q3 for Lynch
+270938,Thomas,Lynch,AD,0,10,7,8,9,12,1,2,1,0,0,0,0,0,0, Full Time,news,On in Q3 for Riley... %D,sub,Started as a sub

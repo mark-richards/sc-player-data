@@ -1,0 +1,48 @@
+Carlton,Blues,Collingwood,Magpies,R6,16.6.102,24.11.155, Full Time
+May 02,2010,2:10,MCG,Seven,210003,10280607,5015582,4990,Showers clearing,19
+Delayed for another week... not quite ready yet due to short week,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>banjyy</em>: henderson..you are up there with the showertest hacks in the afl..u are the spud<br><em>redwallis</em>: Baxter deserves a spud for trading... SWAN!??<br><em>Baxter_28</em>: why did I trade swan for ablett :/ FML<br><em>Fozman</em>: Whi will win?<br><em>buddyforpm</em>: swanny beat chappy and ill be happy<br><em>V|PeR</em>: lot pts late in this game<br><em>Monaco</em>: man i hate undefined!!<br><em>EatEmA1ive</em>: Medhurst now on 70.  Worth keeping longer or not?<br><em style='color:#a0a'>woteva</em>: carlton are crap<br><em>burner09</em>: I gave a mate 10 goals in for a bet the blues would lose&#044; Go Pies<br><em>torca</em>: give didak the heart!<br><em>ed_adkins</em>: cmon blues another point b4 final siren!<br>
+230202,Kade,Simpson,CA,20,111,89,141,90,121,17,12,9,2,0,0,0,0,1, Full Time,hot,Head to head with Swan... %P and %M
+220056,Chris,Judd,CA,20,110,107,132,93,129,15,22,5,1,0,2,0,0,0, Full Time,hot,Pies rotated a heap of blokes through him... %P including %b by hand
+250105,Marc,Murphy,CA,28,110,116,130,94,126,12,18,4,2,0,0,0,3,0, Full Time,hot,Tagged by Wellingham... %O and %s
+250211,Paul,Bower,CA,25,105,111,126,95,126,10,21,11,0,0,0,0,0,0, Full Time,hot,Had Cloke... %M and %O
+240716,Setanta,O'hAilpin,CA,27,103,113,124,86,103,13,5,4,2,0,3,0,5,1, Full Time,hot,%s from %P and %M
+250417,Bryce,Gibbs,CA,21,103,93,130,82,117,15,16,4,4,0,1,1,0,0, Full Time,hot,Tagged Beams... %O and %T with %M
+250090,Jordan,Russell,CA,14,96,112,123,76,102,14,10,7,3,0,1,0,0,0, Full Time,news,%P and %M
+220015,Andrew,Carrazzo,CA,19,95,72,122,74,102,11,12,6,5,0,0,0,0,0, Full Time,news,%D including %b by hand... also %M and %T
+990059,Heath,Scotland,CA,14,86,113,105,70,98,10,16,3,3,1,1,0,0,1, Full Time,news,%O including %B with %T
+270637,Simon,White,CA,19,83,69,104,70,90,11,8,8,1,0,0,0,1,0, Full Time,job,Had Dawes... %M and %D plus %s
+261299,Matthew,Kreuzer,CA,15,78,72,92,65,84,3,11,1,5,24,0,0,0,0, Full Time,news,%H and %P with %T
+271110,Chris,Yarran,CA,15,76,61,92,64,83,10,8,4,1,0,0,0,2,2, Full Time,news,%s from %D and %M
+281079,Kane,Lucas,CA,8,64,59,78,53,75,9,12,3,1,0,0,0,0,0, Full Time,news,%D and %M
+200013,Ryan,Houlihan,CA,14,61,73,72,55,72,6,11,5,0,0,0,0,1,0, Full Time,tagger,Forward tag on Shaw... %D and %M
+260533,Dennis,Armfield,CA,12,60,74,74,46,66,6,12,0,4,0,2,0,0,0, Full Time,job,Minded Sidebottom
+240060,Eddie,Betts,CA,14,52,73,58,46,58,4,8,0,1,0,1,0,3,1, Full Time,news,O'Brien on him... %s from %D
+240028,Brock,McLean,CA,10,50,28,67,43,63,3,9,4,5,0,0,3,0,0, Full Time,news,%D and %M with %T
+261318,Aaron,Joseph,CA,9,49,57,67,37,51,4,4,4,5,0,0,1,0,0, Full Time,tagger,Tagged Davis... %T and %O with %M
+261043,Michael,Jamison,CA,4,47,27,64,37,54,8,4,3,3,0,0,2,0,0, Full Time,job,On Medhurst... %P and %T
+270811,Sam,Jacobs,CA,8,45,55,53,40,50,1,6,1,3,17,1,1,0,0, Full Time,news,%H and %D with %T
+270326,Lachie,Henderson,CA,3,38,34,51,30,42,6,3,3,2,0,0,1,0,0, Full Time,sore,Cork in the hip very early in Q1... %O and %M... Brown on him
+270653,Jeff,Garlett,CA,12,36,24,48,24,33,2,2,0,5,0,0,0,1,0, Full Time,news,%s from %O with %T
+220105,Dane,Swan,CO,43,140,114,99,103,141,21,10,6,8,0,1,0,1,0, Full Time,gun,Head to head with Simpson... %O and %M plus %T and %s
+220005,Luke,Ball,CO,43,124,121,101,93,120,15,5,6,8,0,1,0,3,0, Full Time,hot,%O and %T with %M and %s
+260257,Scott,Pendlebury,CO,32,115,120,100,90,126,11,18,4,7,0,0,0,1,0, Full Time,hot,First goal... %s from %P with %T and %M
+261799,Sharrod,Wellingham,CO,34,114,122,101,87,117,11,12,4,8,0,1,0,2,0, Full Time,hot,Tagged Murphy... %P and %M with %T and %s
+240366,Travis,Cloke,CO,27,108,90,79,91,113,15,4,12,2,0,0,1,2,2, Full Time,hot,Bower on him... %s from %G and %P
+260394,Chris,Dawes,CO,31,103,71,81,89,109,12,5,10,2,0,0,1,3,4, Full Time,hot,Booted %s from %G and %D on White
+240359,Dale,Thomas,CO,20,93,101,63,69,97,14,9,2,5,1,0,0,1,0, Full Time,news,%s from %O and %T
+210003,Alan,Didak,CO,21,87,77,64,68,93,11,10,2,4,0,0,0,2,0, Full Time,news,%P and %s
+280965,Steele,Sidebottom,CO,16,81,90,59,67,88,10,9,4,2,0,0,0,2,1, Full Time,news,%s from %P on Armfield
+271001,Dayne,Beams,CO,14,76,72,45,62,80,12,6,3,1,0,1,0,2,2, Full Time,tagged,Tagged by Gibbs... %O and %M plus %s
+240419,Alan,Toovey,CO,20,75,64,67,57,81,8,9,4,6,0,0,1,0,0, Full Time,news,%D
+200021,Ben,Johnson,CO,10,73,90,49,62,87,11,11,5,2,0,1,2,0,0, Full Time,news,%O and %T
+261181,Brent,Macaffer,CO,20,72,75,69,47,69,7,7,0,9,0,1,0,0,0, Full Time,news,%P and %T
+220070,Paul,Medhurst,CO,21,71,64,65,58,70,7,0,5,5,0,2,2,3,1, Full Time,news,Booted %s on Jamison at FF
+230263,Nick,Maxwell,CO,13,67,84,54,51,72,8,9,3,4,0,0,0,0,0, Full Time,news,%D including %B
+210099,Darren,Jolly,CO,20,61,44,52,55,63,4,3,1,1,30,0,0,1,0, Full Time,news,%H and %P
+240700,Heath,Shaw,CO,6,51,79,27,42,63,9,10,1,1,0,0,1,0,0, Full Time,tagged,Forward tag by Houlihan
+240073,Harry,O'Brien,CO,8,44,58,32,37,51,5,8,1,1,0,0,0,1,0, Full Time,job,Followed Betts
+200020,Josh,Fraser,CO,4,40,34,33,32,39,4,2,1,2,12,1,0,0,0, Full Time,sore,Left knee knock in Q3 but returned... %H and %D
+240232,Ben,Reid,CO,3,37,37,30,28,40,5,3,2,3,1,0,1,0,0, Full Time,news,%D and %T
+200019,Leon,Davis,CO,8,35,40,28,26,42,5,5,0,4,0,0,2,0,0, Full Time,tagged,Tagged by Joseph... %O
+260310,Nathan,Brown,CO,2,30,51,25,22,33,4,3,1,3,0,0,1,0,0, Full Time,job,Stood Henderson

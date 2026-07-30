@@ -1,0 +1,48 @@
+Brisbane,Lions,Collingwood,Magpies,R10,13.10.88,11.14.80, Full Time
+May 29,2010,7:10,Gabba,Ten,220105,10281004,5015520,5144,Fine,17
+The app has been submitted but not approved yet... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>midway</em>: what a gun rockliff is<br><em>handypoint</em>: big dee&#044; shall we continue your education at internet-hero-cuts-and-runs.com?<br><em>toolboy2</em>: brown robbed in sc<br><em>handypoint</em>: bigdemon?<br><em>asha1984</em>: thought Brown would of scored higher in SC<br><em>Daniel_79</em>: Collingwood are choking already!<br><em>toolboy2</em>: staker off the bench for bradshaw loving it<br><em>drummond</em>: traded out rocky for playfair&#044; maybe shoulda held on for another week. anyway GREAT WIN LIONS<br><em>Heater</em>: Well done Brisbane.  Hang your heads Collingwood.  Very poor...<br><em>Slashers</em>: LOL Rischitelli just lost points!!!<br><em>Lionking</em>: GO THE LIONS ! b-e-a-u-t-y !!<br><em>kelso775</em>: Why is Ball so crap at SC?<br>
+980011,Luke,Power,BL,37,147,130,187,116,153,21,14,9,5,0,3,0,1,0, Full Time,star,BOG in his 250th... %P and %M with %T and %s
+230211,Brent,Staker,BL,31,120,148,155,101,135,15,14,12,4,0,1,2,0,0, Full Time,hot,Had Dawes... %D and %M with %F
+980050,Travis,Johnstone,BL,24,115,122,149,91,120,22,7,10,1,0,1,0,0,0, Full Time,hot,Minded Didak... %O and %M
+271072,Daniel,Rich,BL,22,108,92,137,85,117,19,9,4,3,0,0,1,2,0, Full Time,hot,Head to head with Swan... %O and %s including two majors in Q1
+210013,Ashley,McGrath,BL,25,104,112,137,85,114,19,7,10,2,0,1,2,0,0, Full Time,hot,On Beams... %P and %M plus %T
+270919,Tom,Rockliff,BL,20,104,95,130,86,117,16,14,8,1,0,0,0,0,0, Full Time,hot,%O and %M
+200007,Jonathan,Brown,BL,31,99,76,122,88,103,13,2,10,0,0,1,1,4,4, Full Time,heart,Booted %s from %G and %O on Reid then Maxwell then Prestiagiacomo
+980007,Simon,Black,BL,20,97,76,125,75,108,14,13,4,5,0,0,1,0,0, Full Time,tagged,Tagged by Johnson... %D and %M
+240712,Michael,Rischitelli,BL,25,94,54,122,84,117,14,13,10,2,0,0,4,0,0, Full Time,tagger,Tagged Pendlebury... %P and %M
+250335,Matthew,Leuenberger,BL,15,87,84,109,75,94,12,6,8,1,13,1,1,0,0, Full Time,news,%H and %D with %M
+220062,Matt,Maguire,BL,14,80,85,105,65,87,15,5,8,1,0,0,1,0,0, Full Time,job,Stood Anthony... %P and %M
+210045,Amon,Buchanan,BL,14,75,53,95,63,84,10,10,6,2,0,2,1,0,0, Full Time,news,%D and %M
+250419,Tom,Collier,BL,13,72,60,93,57,73,9,6,6,3,0,2,0,0,1, Full Time,news,%s from %O and %M on a HFF on Maxwell then Reid
+240393,Mitchell,Clark,BL,15,70,68,87,61,80,9,6,4,2,17,0,2,0,0, Full Time,news,%H and %P with %T and %M
+271071,Todd,Banfield,BL,12,69,52,87,56,68,7,3,5,3,0,1,0,2,2, Full Time,news,%s from %O with %T and %M
+261222,James,Hawksley,BL,9,66,47,86,53,69,7,6,7,3,0,0,0,0,0, Full Time,job,Minded Sidebottom... %O and %M with %T
+240325,Justin,Sherman,BL,9,64,42,82,53,72,9,8,5,2,0,1,1,0,0, Full Time,news,%P and %M with %T on Toovey
+230170,Joel,Patfull,BL,5,61,71,80,47,63,8,5,5,3,0,0,0,0,0, Full Time,job,Followed Cloke... %M and %D
+281373,Jack,Redden,BL,8,61,61,79,48,67,9,7,3,3,0,1,1,0,1, Full Time,news,%D and %M with %T
+990022,Brendan,Fevola,BL,17,60,84,71,57,70,7,4,4,0,0,0,2,4,1, Full Time,x-factor,Usually does poorly on Prestigiacomo and tonight started off no different...  got Maxwell for a while in Q3 but fired up late in Q3... %s from %D and %G with %F
+260975,James,Polkinghorne,BL,2,31,33,38,25,36,2,7,1,2,0,0,0,0,0, Full Time,injured,Forward tag on Shaw... %O... corked thigh and mothballed
+261250,Sam,Sheldon,BL,3,31,27,40,26,33,3,3,4,1,0,0,0,0,0, Full Time,tagger,Forward tag on Shaw after Polkinghorne's injury... %D
+240359,Dale,Thomas,CO,33,145,134,100,118,154,21,13,12,3,0,1,0,1,1, Full Time,gun,%D and %M plus %T and %s
+220105,Dane,Swan,CO,49,125,122,103,90,127,15,14,3,10,0,2,0,0,1, Full Time,hot,Head to head with Rich... %P and %T plus %s
+260257,Scott,Pendlebury,CO,22,119,131,79,96,130,17,16,5,3,0,2,0,1,1, Full Time,hot,Tagged by Rischitelli... %D and %T plus %s
+210099,Darren,Jolly,CO,26,103,85,92,94,113,7,12,8,1,23,1,0,1,0, Full Time,hot,%H and %P with %M plus %s
+220005,Luke,Ball,CO,26,97,68,80,78,112,11,16,4,6,0,1,2,0,1, Full Time,news,%O including %b by hand with %T and %M
+210003,Alan,Didak,CO,21,92,94,54,75,103,15,10,3,2,0,0,1,2,1, Full Time,news,First goal... %s from %D on Johnstone
+280965,Steele,Sidebottom,CO,19,84,90,53,71,91,13,6,6,1,0,1,1,2,1, Full Time,news,%s from %O and %M on Hawksley
+240073,Harry,O'Brien,CO,15,80,129,45,62,81,14,6,3,2,0,3,0,1,0, Full Time,news,%M and %O
+240419,Alan,Toovey,CO,21,71,79,80,49,69,4,7,3,9,0,0,0,0,0, Full Time,job,Minded Sherman... %P and %T
+261181,Brent,Macaffer,CO,14,71,63,59,61,81,8,9,8,2,0,0,1,0,0, Full Time,news,%D and %M
+240366,Travis,Cloke,CO,8,64,58,41,52,68,10,6,5,1,1,1,0,0,1, Full Time,news,Patfull on him... %P
+260394,Chris,Dawes,CO,12,62,49,54,52,66,6,5,4,3,0,1,1,2,0, Full Time,news,Booted %s from %D and %G on Staker
+230263,Nick,Maxwell,CO,14,61,85,60,52,72,5,9,6,4,0,0,2,0,0, Full Time,job,Switched from Collier to Brown in Q2 then Fevola in Q3... %M and %O plus %F
+200021,Ben,Johnson,CO,8,57,33,21,41,60,14,2,2,2,0,0,1,0,0, Full Time,tagger,Tagged Black... %O and %M
+261799,Sharrod,Wellingham,CO,12,57,54,50,44,66,5,13,0,4,0,0,0,0,0, Full Time,news,%D and %T
+260315,John,Anthony,CO,14,56,52,52,43,55,5,4,3,4,0,1,0,1,1, Full Time,news,%s from %G and %D on Maguire... also %T
+980009,Shane,O'Bree,CO,4,50,51,39,42,55,6,7,3,2,0,3,1,0,1, Full Time,news,%O
+240700,Heath,Shaw,CO,3,48,63,23,38,54,10,4,3,1,0,0,1,0,0, Full Time,tagged,Forward tag on him by Polkinghorne then Sheldon... %P and %M
+240300,Cameron,Wood,CO,4,34,42,21,33,45,5,6,2,0,6,1,2,0,0, Full Time,news,%P
+960159,Simon,Prestigiacomo,CO,2,34,60,30,29,36,3,5,3,1,0,2,0,0,0, Full Time,job,Started on Fevola but moved to Brown in Q3... %P and %M
+240232,Ben,Reid,CO,2,32,33,15,25,36,7,2,2,1,0,0,1,0,0, Full Time,job,Started on Brown then got Collier in Q2... %P
+271001,Dayne,Beams,CO,2,31,35,22,27,40,4,7,1,1,0,0,1,0,1, Full Time,news,%s from %D on McGrath

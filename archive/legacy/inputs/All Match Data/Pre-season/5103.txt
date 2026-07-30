@@ -1,0 +1,56 @@
+Brisbane,Lions,St Kilda,Saints,W1,7.16.58,8.7.55, Full Time
+Feb 28,2015,4.10,Burpengary,,,10430103,,0,Possible shower,29,,
+#####
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tWS"></b> p_terg</em>: Doc had them up before Paige but they're only the top-7<br><em style='color:#000'>J.Worrall</em>: No SC scores?<br><em style='color:#000'>J.Worrall</em>: Thx m0ntz<br><em style='color:#e50000'>m0nty</em>: looking for that news now<br><em style='color:#000'>J.Worrall</em>: Who's off for McGuane?<br><em style='color:#000'>J.Worrall</em>: Hammies for Jack? I wonder who benefits there ...<br><em style='color:#000'>J.Worrall</em>: Burpengary - home of the Big Lawnmower!<br><em style='color:#000'>J.Worrall</em>: Did Billings start on field?<br><em style='color:#000'>J.Worrall</em>: Rocky must be taking Mav to the ball&#044; then getting done!<br><em style='color:#000'>J.Worrall</em>: Billings benched to give Lonie a run!<br><em style='color:#000'>J.Worrall</em>: looks like Mav is getting the better of Rocky ...<br><em style='color:#000'>J.Worrall</em>: Beams free and Rocky tagged&#044; eh?<br>
+296211,Lewis,Taylor,BL,20,83,109,103,69,87,8,8,6,3,0,1,0,2,0, Full Time,news,Starting forward on Ross... %s from %D and %M with %T,,,371500,,341100,,Forward,28,0,0,0,0.00,0.00,0.00,373000,,,4,1,0,87,81
+271001,Dayne,Beams,BL,14,81,118,100,65,90,12,13,3,2,0,2,0,0,0, Full Time,news,%P and %M plus %T,,,607200,,621000,,Midfielder,9,0,0,0,0.00,0.00,0.00,609000,,,12,7,1,80,83
+261224,Dayne,Zorko,BL,13,73,86,96,57,75,12,4,7,2,0,0,0,0,0, Full Time,news,%O with %k by foot... also %M and %T,,,496200,,531900,,Forward,15,0,0,0,0.00,0.00,0.00,498000,,,6,5,1,68,75
+281329,Rohan,Bewick,BL,18,68,88,86,58,75,10,6,6,1,0,1,1,1,0, Full Time,news,%s from %D and %M,,,360200,,344000,,Forward,8,0,0,0,0.00,0.00,0.00,361000,,,5,1,2,75,72
+240087,Jed,Adcock,BL,18,67,117,89,48,70,9,7,1,6,0,1,1,0,1, Full Time,news,Starting forward on Geary... %O and %T plus %s,,,407400,,418000,,Back,7,0,0,0,0.00,0.00,0.00,409000,,,11,3,2,68,81
+270919,Tom,Rockliff,BL,8,66,87,84,51,69,11,7,3,2,0,2,0,0,0, Full Time,tagged,Tagged by Weller... %D and %M with %T,,,760700,,709500,,Midfielder,38,0,0,0,0.00,0.00,0.00,763000,,,6,5,1,72,82
+294618,Marco,Paparone,BL,9,65,79,83,54,75,13,7,5,0,0,0,1,0,0, Full Time,job,Zoning off McCartin... good first half but made a few errors after HT... %P and %M,,,311700,,273200,,Forward,22,0,0,0,0.00,0.00,0.00,313000,,,5,0,5,75,70
+271072,Daniel,Rich,BL,7,59,97,73,46,67,11,9,1,1,0,0,0,0,1, Full Time,news,Starting on a HBF... %O and %s,,,270900,,348300,,Midfielder,10,0,0,0,0.00,0.00,0.00,268000,,,7,0,1,65,83
+292035,Claye,Beams,BL,8,56,74,69,48,64,8,8,5,0,0,0,0,0,1, Full Time,job,Starting on a HBF running off Saad... %D and %M plus %s,,,296500,,286100,,Midfielder,17,0,0,0,0.00,0.00,0.00,298000,,,4,1,0,81,91
+281373,Jack,Redden,BL,9,44,60,55,33,46,7,4,0,2,1,0,0,1,0, Full Time,news,%2 Steven... %O and %T plus %s,,,596300,,554400,,Midfielder,30,0,0,0,0.00,0.00,0.00,598000,,,4,1,1,63,77
+250335,Matthew,Leuenberger,BL,5,43,72,54,36,46,3,3,2,3,12,0,1,0,1, Full Time,news,%H... also %D and %M with %T... %s as well,,,325100,,358000,,Ruck,23,0,0,0,0.00,0.00,0.00,277000,,,3,1,1,83,59
+295067,James,Aish,BL,2,39,52,49,32,48,7,7,1,1,0,0,1,0,0, Full Time,news,%P,,,419000,,383200,,Midfielder,4,0,0,0,0.00,0.00,0.00,420000,,,6,3,2,64,65
+230147,Daniel,Merrett,BL,4,34,40,43,33,45,5,6,4,0,0,1,2,0,0, Full Time,job,Has Bruce at FB... %M and %O,,,250400,,284900,,Back,21,0,0,0,0.00,0.00,0.00,251000,,,4,0,7,54,97
+293603,Sam,Mayes,BL,7,32,44,39,26,33,4,3,1,1,0,1,0,1,0, Full Time,news,%O and %s,,,380100,,369100,,Midfielder,32,0,0,0,0.00,0.00,0.00,381000,,,3,0,0,57,68
+291548,Ryan,Lester,BL,3,31,50,40,29,42,2,7,3,2,0,0,2,0,0, Full Time,tagger,Tagging Armitage... %P including %B... also %M and %T,,,441100,,422700,,Midfielder,35,0,0,0,0.00,0.00,0.00,442000,,,3,0,2,88,82
+290748,Josh,Green,BL,2,30,65,40,22,32,6,2,0,2,0,1,1,0,2, Full Time,news,Shenton on him... %s from %O and %T,,,324300,,355600,,Forward ,6,0,0,0,0.00,0.00,0.00,325000,,,5,1,1,75,76
+298293,Jaden,McGrath,BL,2,30,46,39,21,30,5,3,0,2,0,1,0,0,0, Full Time,news,%P and %T,,,117900,,117300,,Forward,29,0,0,0,0.00,0.00,0.00,117900,,,5,1,1,37,63
+290311,Mitch,Robinson,BL,2,27,44,35,24,36,5,5,1,1,0,1,2,0,0, Full Time,news,Matched up on Savage... %O,,,467100,,446600,,Forward,5,0,0,0,0.00,0.00,0.00,469000,,,3,1,2,80,83
+295162,Justin,Clarke,BL,2,27,57,34,23,30,4,3,3,0,0,0,0,0,0, Full Time,job,At CHB on Membrey... %M and %O,,,239600,,304400,,Back,42,0,0,0,0.00,0.00,0.00,240000,,,4,0,1,85,95
+297504,Daniel,McStay,BL,7,27,41,31,24,28,3,3,1,0,0,2,0,1,1, Full Time,news,Starting forward on Delaney... %O and %s,,,289100,,292000,,Back,25,0,0,0,0.00,0.00,0.00,281000,,,4,0,0,66,61
+240256,Luke,McGuane,BL,2,26,41,34,20,27,4,2,2,1,0,0,0,0,0, Full Time,news,On in Q3 for Staker... %P and %M,sub,Started as one of two subs,189100,,166800,,Forward,1,0,0,0,0.00,0.00,0.00,120000,,,1,0,0,100,44
+294309,Michael,Close,BL,8,25,50,31,24,30,3,2,3,0,0,0,1,1,0, Full Time,news,At FF on Fisher... Scored %s from %G and %D,,,214500,,211900,,Forward,33,0,0,0,0.00,0.00,0.00,215000,,,4,0,1,80,58
+992752,Archie,Smith,BL,2,25,36,29,24,29,1,4,1,1,8,2,1,0,0, Full Time,news,%H with %D,,,124600,,123900,,Ruck,44,0,0,0,0.00,0.00,0.00,120000,,,4,3,2,60,41
+230211,Brent,Staker,BL,1,23,16,30,19,23,4,0,3,0,0,0,0,0,2, Full Time,news,Roberton picking him up... %s from %P and %M,subbed,Subbed off in Q3 for McGuane,209700,,246800,,Forward,14,0,0,0,0.00,0.00,0.00,245000,,,1,0,0,25,30
+296269,Darcy,Gardiner,BL,2,21,19,26,18,24,3,3,2,0,0,0,0,0,0, Full Time,job,Following Lee... %M and %D,subbed,Subbed off in Q3 for Andrews,253300,,296600,,Back,27,0,0,0,0.00,0.00,0.00,254000,,,2,0,1,66,42
+996059,Harris,Andrews,BL,0,12,26,16,8,12,2,1,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Gardiner... %P,sub,Started as one of two subs,117900,,117300,,Ruck,31,0,0,0,0.00,0.00,0.00,117900,,,1,0,0,66,41
+260113,Jarryn,Geary,SK,24,101,152,52,80,102,19,6,6,1,0,4,0,1,0, Full Time,job,On Adcock... %D including %K... also %M... and booted %s... aided by %4FF,,,328700,,332400,,Back,14,0,0,0,0.00,0.00,0.00,333000,,,9,0,2,68,87
+291773,Jack,Newnes,SK,21,94,100,67,77,100,13,8,8,2,0,0,0,1,1, Full Time,news,%P and %M plus %T... %s as well,,,462600,,436800,,Midfielder,16,0,0,0,0.00,0.00,0.00,464000,,,4,0,3,76,79
+220075,Leigh,Montagna,SK,10,93,100,47,68,93,19,4,5,3,0,1,0,0,0, Full Time,news,%O including %K... also %M and %T,,,516700,,480300,,Midfielder,11,0,0,0,0.00,0.00,0.00,518000,,,7,4,4,65,74
+250340,David,Armitage,SK,15,90,109,55,73,106,15,13,4,3,1,0,2,0,0, Full Time,tagged,Followed by Lester... %D and %M with %T,,,500500,,502000,,Midfielder,20,0,0,0,0.00,0.00,0.00,502000,,,10,6,5,64,72
+281024,Maverick,Weller,SK,20,83,108,72,67,88,8,10,5,4,1,1,0,1,0, Full Time,tagger,Tagging Rockliff... %P and %M plus %T... %s as well,,,354900,,334900,,Back,44,0,0,0,0.00,0.00,0.00,356000,,,5,1,1,77,82
+240708,Sam,Fisher,SK,9,68,108,39,51,72,13,4,4,3,0,0,1,0,0, Full Time,job,Has Close... %O including %K... also %M and %T,,,407800,,445100,,Back,25,0,0,0,0.00,0.00,0.00,414000,,,5,0,1,82,77
+280858,Shane,Savage,SK,9,65,102,47,54,78,9,11,3,3,0,1,2,0,0, Full Time,news,Matched up on Robinson... %P and %M plus %T,,,377400,,371600,,Midfielder,5,0,0,0,0.00,0.00,0.00,379000,,,7,1,4,80,86
+240062,Farren,Ray,SK,9,54,86,24,43,57,11,3,3,0,0,0,0,1,0, Full Time,news,%P with %k by foot... also %M... and kicked %s,,,470600,,443300,,Midfielder,22,0,0,0,0.00,0.00,0.00,472000,,,4,1,0,92,71
+293846,Seb,Ross,SK,8,54,73,39,44,64,8,7,3,3,1,0,2,0,0, Full Time,job,Matched up on Taylor... %D and %M with %T,,,346000,,317100,,Midfielder ,6,0,0,0,0.00,0.00,0.00,347000,,,7,2,3,80,68
+280933,Dylan,Roberton,SK,8,53,73,32,44,60,9,6,4,1,0,1,1,0,0, Full Time,job,Third tall defender on Staker then McGuane... %M and %P,,,291100,,267200,,Back,17,0,0,0,0.00,0.00,0.00,266000,,,3,0,2,86,72
+291492,Josh,Bruce,SK,5,53,56,49,44,58,5,6,5,3,0,1,1,0,1, Full Time,news,Starting forward on Merrett... %O and %M plus %T... %s as well,,,275400,,294000,,Back,27,0,0,0,0.00,0.00,0.00,276000,,,5,0,3,54,75
+298312,Paddy,McCartin,SK,10,53,62,42,45,55,6,4,5,1,0,1,0,1,1, Full Time,news,Paparone on him... %s from %P and %M,,,222900,,222300,,Forward ,32,0,0,0,0.00,0.00,0.00,262900,,,3,0,0,70,75
+270303,Luke,Delaney,SK,8,43,57,35,40,51,5,5,7,0,0,0,1,0,0, Full Time,job,Standing McStay... %M and %O,,,214200,,235500,,Back,21,0,0,0,0.00,0.00,0.00,215000,,,3,0,2,90,87
+291828,Billy,Longer,SK,13,39,54,39,41,47,0,7,0,0,26,2,1,0,0, Full Time,news,%H... also %P,,,340800,,351100,,Ruck,18,0,0,0,0.00,0.00,0.00,342000,,,6,3,1,85,66
+230243,Sean,Dempster,SK,2,30,52,15,26,36,6,3,3,0,0,0,1,0,0, Full Time,news,%M and %D,,,384800,,417300,,Back,24,0,0,0,0.00,0.00,0.00,386000,,,3,0,3,88,81
+281298,Cameron,Shenton,SK,2,30,57,15,26,36,6,3,3,0,0,0,1,0,0, Full Time,job,In a BP on Green... %M and %O,,,295200,,315900,,Back,39,0,0,0,0.00,0.00,0.00,296000,,,2,1,1,77,79
+294818,Ahmed,Saad,SK,8,30,41,23,26,36,4,3,1,2,0,1,2,1,0, Full Time,news,Up forward on Claye Beams... %s from %D and %T,,,153700,,151100,,Forward,38,0,0,0,0.00,0.00,0.00,180000,,,4,2,3,85,74
+270912,Jack,Steven,SK,2,28,40,21,23,33,3,7,0,1,0,1,0,0,0, Full Time,news,%2 Redden... %O,subbed,Subbed off at HT for Holmes,489100,,455900,,Midfielder,3,0,0,0,0.00,0.00,0.00,491000,,,7,4,1,80,35
+296294,Blake,Acres,SK,1,27,46,14,20,30,5,4,0,1,0,0,0,0,0, Full Time,news,%D,,,208800,,220700,,Midfielder,8,0,0,0,0.00,0.00,0.00,166000,,,3,1,0,77,68
+294596,Tim,Membrey,SK,8,26,28,19,25,32,3,3,2,0,1,0,1,1,1, Full Time,news,First goal... %s from %P and %M,,,180600,,172000,,Forward,28,0,0,0,0.00,0.00,0.00,165000,,,1,0,2,50,83
+992000,Jack,Lonie,SK,7,24,54,15,21,27,3,4,0,0,0,1,0,1,0, Full Time,news,On in Q2 for Billings... %s from %P,sub,Started as one of two subs,117900,,117300,,Forward,37,0,0,0,0.00,0.00,0.00,117900,,,4,0,0,71,59
+296208,Eli,Templeton,SK,1,21,51,6,16,24,5,3,0,0,0,0,0,0,0, Full Time,news,%D,,,231400,,221300,,Midfielder,4,0,0,0,0.00,0.00,0.00,204000,,,4,0,1,62,67
+290422,Tom,Lee,SK,1,17,46,12,15,21,2,4,1,0,0,0,0,0,0, Full Time,news,Starting forward on Gardiner... %D,,,244600,,240100,,Forward,9,0,0,0,0.00,0.00,0.00,194000,,,3,0,1,100,72
+291518,Tom,Curren,SK,1,16,11,14,12,15,2,0,2,1,0,0,0,0,0, Full Time,news,%O and %M,,,298100,,292600,,Midfielder ,26,0,0,0,0.00,0.00,0.00,299000,,,0,0,0,50,76
+994460,Jason,Holmes,SK,1,12,21,10,13,16,1,1,1,0,7,0,1,0,0, Full Time,news,On after HT for Steven... %H with %P,sub,Started as one of two subs,124600,,123900,,Ruck,45,0,0,0,0.00,0.00,0.00,120000,,,1,0,1,100,32
+296351,Jack,Billings,SK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Experienced hamstring tightness in Q2,subbed,Subbed off in Q2 for Lonie,377800,,328200,,Forward,15,0,0,0,0.00,0.00,0.00,379000,,,0,0,0,0,3

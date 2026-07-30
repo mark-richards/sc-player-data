@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Sydney,Swans,SF,19.8.122,13.8.86, Full Time
+Sep 16,2011,7:45,MCG,Seven,,10320201,7632,193,Fine,25,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Golingo</em>: Heart for Tadhg Kennelly.<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Rilian</em>: 16 clearances for Kennedy&#044; 9 in 3Q. PB disposals. Without him would've been 10-15 goal loss!<br><em>trixxma</em>: give franklin the X as well monty&#044; he and puopolo where the difference in the end<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Bluebagg11</em>: Good star Monty. He was the difference in the first half<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> sullitons</em>: give franklin the star&#044; he was the difference<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Rilian</em>: Rioli for Seagull<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Rilian</em>: Kennedy for Star<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> kakarot</em>: Lewis is prob the star. Or Hale.<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> BuddyMagic</em>: buddy buddy gets superman cape Monty<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> BuddyMagic</em>: star could go to hale hes been fantastic<br><em>chickenpie</em>: buddy rough what a legend<br><em>TheAnt</em>: Gibson<br>
+220036,David,Hale,HW,27,107,124,124,95,111,10,7,5,1,28,2,0,2,2, Full Time,hot,%s from %P and %G on Roberts-Thomson... also %H,,
+220047,Luke,Hodge,HW,25,102,100,127,80,110,14,13,3,4,2,1,0,1,0, Full Time,hot,%2 O'Keefe... %P and %T with %M and %s,,
+250089,Jordan,Lewis,HW,21,101,118,130,78,103,17,7,4,4,1,4,1,1,0, Full Time,heart,%2 McGlynn... got smashed in a contest with Bolton in Q2.... %O and %T with %M and %s,,
+240399,Lance,Franklin,HW,37,100,95,128,88,115,10,7,6,6,1,1,5,4,3, Full Time,heart,Booted %s from %D and %M on Richards despite being rather lame from last week's knee injury... also %T and %F,,
+220073,Sam,Mitchell,HW,18,93,97,116,73,103,14,15,1,4,0,4,1,0,1, Full Time,tagged,Tagged by Jack... %D and %T plus %s,,
+260955,Cyril,Rioli,HW,20,86,105,107,72,93,10,10,7,2,0,1,0,1,0, Full Time,news,Had McVeigh on him in the first half... %P and %M plus %s,,
+294877,Isaac,Smith,HW,14,84,76,109,70,97,12,10,7,3,0,0,2,0,1, Full Time,news,Racked it up in Q1 like last week... %s from %D and %M with %T,,
+250715,Josh,Gibson,HW,15,83,109,108,68,90,13,7,8,2,0,1,1,0,0, Full Time,star,%M and %O... had Goodes when he was up forward but mostly spoiled as third man up,sore,Off during Q3 with a shoulder knock
+261386,Brendan,Whitecross,HW,14,82,104,108,61,84,13,7,3,5,0,3,1,0,0, Full Time,tagger,%D and %T on Kennelly... moved onto Goodes in Q3,,
+230197,Brad,Sewell,HW,19,81,94,108,56,81,11,7,2,7,0,0,0,0,0, Full Time,news,%2 Kennedy... %D and %T,,
+260710,Paul,Puopolo,HW,20,77,104,96,63,78,8,6,1,5,0,6,2,3,0, Full Time,x-factor,%s from %P and %T on Mattner... then got Smith in Q2 when he started like a steam train,sore,Left hamstring soreness late in Q4
+210092,Michael,Osborne,HW,25,76,97,96,60,85,6,12,2,6,0,0,1,1,1, Full Time,news,%s from %D and %T on Johnson... also %M,,
+200040,Chance,Bateman,HW,15,75,68,93,62,79,11,5,5,1,1,0,0,2,0, Full Time,news,%2 Hannebery... %P and %M plus %s,,
+210012,Shaun,Burgoyne,HW,15,75,113,93,61,87,12,11,2,2,0,0,1,1,0, Full Time,news,%D and %M plus %s... had Goodes in the first half,,
+240302,Grant,Birchall,HW,14,75,70,98,65,87,10,8,9,2,0,0,2,0,0, Full Time,job,Standing White... %P and %M plus %T,,
+280737,Liam,Shiels,HW,27,74,71,101,53,75,9,4,2,8,0,1,2,1,0, Full Time,news,%O and %T... also %s and %F,,
+260472,Max,Bailey,HW,25,72,62,87,60,73,6,3,1,4,25,1,1,1,0, Full Time,news,First goal... %P and %H plus %T and %s,,
+200060,Brent,Guerra,HW,21,67,62,92,44,63,7,4,2,8,0,0,0,0,0, Full Time,job,Bolton playing forward on him... %D and %T,,
+250146,Thomas,Murphy,HW,4,45,30,58,35,48,6,5,3,2,0,0,0,0,0, Full Time,job,Responsible for Rohan... %D,,
+280471,Ben,Stratton,HW,3,37,52,48,31,39,6,2,5,0,0,0,0,0,0, Full Time,news,Working hard to be third man up for Swan inside 50s zoning off Spangher... %P and %M,subbed,Subbed off in Q4 for Suckling
+270732,Matt,Suckling,HW,8,29,24,38,20,27,5,0,0,2,0,0,0,1,0, Full Time,news,On in Q4 for Stratton,sub,Started as a sub
+281301,Ryan,Schoenmakers,HW,2,20,20,27,18,24,4,1,3,0,0,0,1,0,0, Full Time,job,On Reid... %D,,
+280762,Shane,Mumford,SY,46,117,135,110,104,123,7,7,4,5,48,2,2,1,0, Full Time,gun,%H and %P with %M and %T... also %s,,
+230253,Jarrad,McVeigh,SY,20,101,111,51,72,100,21,2,3,5,0,1,1,1,1, Full Time,heart,%O and %T with %M and %s,switch,Started in defence on Rioli... switched forward in Q3
+260382,Josh P.,Kennedy,SY,20,97,124,76,85,124,10,25,3,3,0,1,2,0,1, Full Time,news,%2 Sewell... %P and %M plus %s... quiet first half but really lifted his game in Q3 with a massive clearance count,,
+200071,Ryan,O'Keefe,SY,32,92,91,78,74,99,10,7,4,6,0,0,2,3,0, Full Time,news,%2 Hodge... %P and %T with %M and %s,,
+990011,Jude,Bolton,SY,26,90,74,83,65,96,9,12,2,9,0,0,1,0,0, Full Time,news,Playing forward on Guerra... %O and %T with %M,,
+261212,Craig,Bird,SY,19,87,91,60,64,85,13,6,2,5,0,3,0,1,1, Full Time,news,%O and %M with %T and %s,,
+980073,Adam,Goodes,SY,21,82,101,54,70,94,12,8,2,3,1,2,3,3,0, Full Time,sore,%s from %P on Burgoyne then got Whitecross in Q3... also %T.. right thigh cork in Q1,,
+240226,Kieren,Jack,SY,21,79,80,70,53,76,10,3,3,9,0,0,1,0,1, Full Time,news,%P and %T with %M and %s,tagger,Tagging Mitchell
+291450,Alex,Johnson,SY,13,69,55,37,53,72,14,2,6,2,0,0,1,0,0, Full Time,job,Responsible for Osborne... %D and %M with %T,,
+230140,Ben,McGlynn,SY,16,66,55,64,50,69,6,7,4,6,0,1,1,0,0, Full Time,news,%2 Lewis... %P and %T plus %M,,
+220063,Martin,Mattner,SY,10,64,56,53,52,69,8,6,5,4,0,3,2,0,0, Full Time,news,%D and %T with %M,,
+250212,Jesse,White,SY,15,62,58,60,44,58,6,2,4,6,3,0,0,0,1, Full Time,news,Birchall on him... %P and %T with %M and %H,,
+200023,Rhyce,Shaw,SY,7,56,76,14,43,66,15,5,1,1,0,0,2,0,0, Full Time,news,Puopolo gave him the run around early so he was moved off... %O,,
+220089,Lewis,Roberts-Thomson,SY,4,48,64,42,37,51,5,6,3,3,0,0,0,0,0, Full Time,job,Standing Hale... %P and %M with %T,,
+210027,Ted,Richards,SY,3,44,55,29,35,42,7,2,4,1,0,3,0,0,0, Full Time,job,Following Franklin... %D and %M,,
+250338,Nick,Smith,SY,8,42,51,41,34,48,4,5,3,4,0,1,2,0,0, Full Time,job,Moved to Puopolo in Q2 to quell his massive influence... %O and %M with %T,,
+291357,Gary,Rohan,SY,9,37,47,32,31,39,4,2,3,2,0,1,1,1,0, Full Time,news,%s from %O and %M on Murphy,,
+200096,Tadhg,Kennelly,SY,8,36,46,21,30,42,6,4,1,1,0,0,1,1,0, Full Time,irish,Matched up on Whitecross in the first half... %P and %s,job,
+290117,Daniel,Hannebery,SY,2,34,34,30,29,39,3,6,3,1,0,0,0,0,0, Full Time,injured,%2 Bateman... %O and %M... dislocation in Q3 to the same left shoulder he dislocated last week,subbed,Subbed off in Q3 for Parker
+250654,Matthew,Spangher,SY,8,32,38,25,26,34,4,2,1,2,0,1,1,1,1, Full Time,news,Trying to keep Stratton honest... %s from %P... shoulder stinger in Q1,,
+290188,Samuel,Reid,SY,8,32,28,24,28,34,4,2,2,1,0,2,1,1,1, Full Time,news,Booted %s from %P and %G on Schoenmakers,,
+290778,Luke,Parker,SY,2,30,35,26,23,33,3,5,1,2,0,0,0,0,0, Full Time,news,On in Q3 for Hannebery... %P and %T,sub,Started as a sub

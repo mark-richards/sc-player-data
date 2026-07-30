@@ -1,0 +1,52 @@
+St Kilda,Saints,Sydney,Swans,W2,0.13.12.90,1.8.10.67, Full Time
+Mar 03,2013,5.10,Docklands,Seven,,10380208,,0,Sunny,29,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em title="JD985">jd985</em>: Swannies need to improve...<br><em title="JD985">jd985</em>: Bolton slowed down... Swannies need to improve their game<br><em>bennyq</em>: Angry?<br><em>TheoX</em>: yeah afl disgraceful with selective investigations<br><em>keffa</em>: Remember when Roos told J McVeigh "Just don't kick a goal" a few years ago. where was the integrity officer that day?<br><em>Clokey32</em>: m0nty with the flameee<br><em>keffa</em>: Pretty hard for reigning premiers to get fired up about an away game in this heat that means nothing.<br><em>Murf2Gibbs</em>: Kennedy's bad score Is exactly why you make little or no judgement from pre season <br><em>Clokey32</em>: Jed Lamb has not got 1 point in 2 quaters. Fired up in the first 2 then not 1 point in the last 2. fuel gauge?<br><em>Pokerface</em>: sorry just got in. how has siposs played today?<br><em>DoctorRush</em>: Fair enuf Monty. They're only talking about his knee.<br><em style='color:#e50000'>m0nty</em>: if you saw the vision you would have seen the ankle twisted too<br>
+220075,Leigh,Montagna,SK,30,120,103,156,96,124,24,4,10,1,0,2,1,1,1, Full Time,hot,%O and %M... also %F,,
+250340,David,Armitage,SK,26,98,113,130,68,95,16,4,2,7,0,0,0,1,2, Full Time,news,%2 Parker... %O and %T plus %s,,
+240062,Farren,Ray,SK,20,88,98,112,72,91,12,6,8,2,1,1,0,1,0, Full Time,news,Matched up on Jetta... %P and %T with %M,,
+261743,Clinton,Jones,SK,20,87,83,110,69,96,10,12,3,5,0,1,1,1,0, Full Time,tagger,Tagging Hannebery... %D and %T,,
+261323,Ben,McEvoy,SK,16,71,61,87,59,71,4,5,4,4,20,1,0,0,0, Full Time,news,%P and %T with %M when up forward on Richards... also %H,,
+291773,Jack,Newnes,SK,14,71,60,92,55,73,8,7,5,4,0,1,0,0,1, Full Time,news,%D and %M,,
+294317,Nathan,Wright,SK,9,67,71,87,51,69,12,5,4,2,0,1,0,0,0, Full Time,news,%D and %M,,
+250134,Sam,Gilbert,SK,13,64,69,79,53,75,5,13,2,4,2,1,1,0,1, Full Time,news,%O and %T plus %s in a variety of roles in defence and midfield,,
+280933,Dylan,Roberton,SK,5,64,50,86,47,63,13,1,5,2,0,0,0,0,0, Full Time,job,Has Everitt... %P and %M,,
+294818,Ahmed,Saad,SK,11,61,71,78,50,65,9,3,2,3,0,2,2,2,2, Full Time,egypt,%s from %D on Armstrong... also %F,,
+293846,Sebastian,Ross,SK,18,60,60,79,45,67,7,9,0,6,1,2,2,0,0, Full Time,news,%P and %T,,
+250036,Beau,Maister,SK,14,59,69,78,53,68,10,2,7,1,0,1,3,1,2, Full Time,news,Kicked %s from %D and %M on Grundy,,
+270570,Trent,Dennis-Lane,SK,15,59,87,73,47,59,4,5,2,4,1,1,0,2,1, Full Time,news,%s from %D and %M on Rampe... also %T,,
+270766,Terry,Milera,SK,19,54,58,71,39,52,5,4,0,6,1,3,1,1,0, Full Time,news,%P on Johnson... %T as well,,
+290688,Jackson,Ferguson,SK,4,53,49,69,41,54,10,3,4,1,0,1,0,0,0, Full Time,job,Standing White... %P and %M,,
+294266,Tom,Hickey,SK,6,51,48,62,42,54,5,5,2,2,12,0,0,0,0, Full Time,news,%H and %P starting as #1 ruck... also %M,,
+260113,Jarryn,Geary,SK,3,48,45,62,37,51,9,4,3,1,0,0,0,0,0, Full Time,job,Minding Lloyd... %P,,
+293815,Arryn,Siposs,SK,9,45,56,55,37,49,8,4,2,0,1,0,0,1,0, Full Time,injured,Playing the Goddard role... %O and %s... smashed in the ribs by Armstrong in Q3 which left him sore,subbed,Subbed off in Q3 for Fisher
+296459,Samuel,Dunell,SK,10,42,41,56,35,45,5,0,3,3,0,0,2,2,0, Full Time,news,First goal... %s from %P and %M on Ferguson... also %T,,
+240708,Sam,Fisher,SK,2,35,46,47,25,33,8,0,2,1,0,1,0,0,0, Full Time,news,On in Q3 for Siposs... %D and %M,sub,Started as a sub
+280317,Rhys,Stanley,SK,3,30,33,42,22,30,6,0,2,2,0,1,1,0,0, Full Time,injured,In defence on Reid... %D and %M... left ankle and knee twisted in Q3,subbed,Subbed off in Q3 for Blake
+200068,Jason,Blake,SK,0,19,39,25,14,18,3,1,1,1,0,1,0,0,0, Full Time,news,On in Q3 for Stanley... %D,sub,Started as a sub
+230243,Sean,Dempster,SK,2,18,22,26,16,24,4,1,2,1,0,0,2,0,0, Full Time,job,Rotating on Swans small forwards... %O and %M... also %F,subbed,Subbed off at 3QT for Ledger
+294198,Tom,Ledger,SK,1,15,15,21,11,18,4,1,0,1,0,0,1,0,0, Full Time,news,On in Q4 for Dempster... %O,sub,Started as a sub
+990011,Jude,Bolton,SY,26,111,101,88,83,117,14,13,5,7,0,0,0,0,0, Full Time,hot,%P and %M with %T,,
+290117,Daniel,Hannebery,SY,21,104,114,77,84,120,14,16,5,5,0,1,2,0,0, Full Time,hot,Tagged by Jones... %O and %T... also %M,,
+261257,Andrejs,Everitt,SY,21,93,103,72,74,94,11,8,4,4,1,3,0,2,0, Full Time,news,%s from %D on Roberton,,
+270170,Tony,Armstrong,SY,14,92,103,48,70,96,18,6,6,2,0,0,0,0,0, Full Time,news,%P and %M with %T,job,Following Saad
+295342,Jake,Lloyd,SY,21,85,80,71,70,93,9,9,5,4,0,0,1,2,0, Full Time,news,%s from %D and %T,,
+281281,Lewis,Jetta,SY,13,79,79,51,65,87,12,9,6,1,1,0,0,0,2, Full Time,news,Matched up on Ray... %D and %M plus %s,,
+290778,Luke,Parker,SY,9,69,62,41,53,76,12,8,2,3,0,1,1,0,1, Full Time,news,%2 Armitage... %P and %T with %M and %s,,
+260382,Josh,Kennedy,SY,8,65,81,40,53,78,10,13,1,2,0,1,1,0,0, Full Time,news,%D including %B,,
+250212,Jesse,White,SY,10,64,62,45,54,69,8,6,3,1,8,0,0,1,1, Full Time,news,%s from %D and %M on Ferguson... also %H,,
+210027,Ted,Richards,SY,8,62,90,45,55,69,7,12,4,0,0,5,0,0,0, Full Time,job,Takes the resting ruck which is mostly McEvoy... %P,,
+240072,Heath,Grundy,SY,8,62,83,38,50,69,10,8,4,1,0,0,0,0,0, Full Time,job,On Maister... %O and %M,,
+290307,Dane,Rampe,SY,8,61,58,34,50,70,11,7,4,1,0,0,1,0,1, Full Time,job,Minding Dennis-Lane... %O plus a supergoal,,
+291206,Mike,Pyke,SY,19,61,64,58,51,62,4,2,1,4,29,0,1,0,0, Full Time,canada,%H and %P with %T,,
+291450,Alex,Johnson,SY,8,51,74,34,45,66,8,9,3,2,0,1,3,0,0, Full Time,job,Chasing Milera... %D and %T with %M,,
+291978,Harry,Cunningham,SY,5,50,53,43,42,57,6,5,5,3,0,1,2,0,0, Full Time,news,%D and %T with %M,,
+291544,Jed,Lamb,SY,15,48,36,41,40,57,6,4,3,4,0,0,3,1,0, Full Time,news,%s from %P and %T with %M,,
+290188,Sam,Reid,SY,9,45,47,36,38,46,5,3,4,1,0,1,0,1,1, Full Time,news,%D on Stanley,subbed,Subbed off in Q4 for Xavier Richards
+230140,Ben,McGlynn,SY,7,40,44,39,26,36,4,2,1,5,0,1,0,0,0, Full Time,news,On in Q3 for Biggs,sub,Started as a sub
+295608,Shane,Biggs,SY,6,33,34,38,21,30,2,2,1,5,0,0,0,0,0, Full Time,news,%P and %T,subbed,Subbed off in Q3 for McGlynn
+295695,Dean,Towers,SY,8,29,30,16,28,39,5,4,2,0,0,0,2,1,0, Full Time,news,%O and %M,,
+291992,Jordan,Lockyer,SY,2,23,11,19,20,27,3,2,3,1,0,0,1,0,0, Full Time,news,On in Q3 for Roberts-Thomson,sub,Started as a sub
+295906,Brandon,Jack,SY,1,20,17,11,20,31,4,4,1,1,0,1,3,0,1, Full Time,news,%P... also %F,,
+220089,Lewis,Roberts-Thomson,SY,0,11,12,5,9,12,2,2,0,0,0,1,0,0,0, Full Time,news,Donuts in the first half... %D,subbed,Subbed off in Q3 for Lockyer
+293739,Xavier,Richards,SY,0,2,0,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Reid,sub,Started as a sub

@@ -1,0 +1,48 @@
+Richmond,Tigers,Geelong,Cats,R6,13.9.87,20.11.131, Full Time
+May 04,2013,7.40,MCG,Seven,240336,10390605,rich-v-geel,0,Windy,15,,
+
+<em>jimmyhird5</em>: flower you cotchin great work bartel and solid selwood would have brought in johnson but needed two trades to cover donuts<br><em>doogz</em>: who was judgin the bin time icon for bartel? <br><em>Bluffie</em>: 174 sc cristiansen&#044; 124 bartel&#044; 117 johnson<br><em>msiys</em>: blicavs scored more than my starting 2 rucks<br><em>ballbag</em>: zac dawson leaking dollars big time<br><em>Jormas</em>: what the actual flower bartel<br><em>chadwick</em>: Cape for bartel<br><em>doogz</em>: great great bin time bartel<br><em>bahodie</em>: Was so close to going Hoff to Stevie J this week. My bad...<br><em>trippin123</em>: yes blicaves YES<br><em>old_shepp</em>: Exactly what I was thinking 2cabs<br><em>TheDoctor</em>: loving it bartel<br>
+290847,Dustin,Martin,RI,21,106,125,135,84,108,16,6,7,3,0,1,0,2,0, Full Time,hot,%s from %O including %K with %T and %M,,,474600,131,525500,118,Forward Centre,4
+271437,Jake,King,RI,26,103,105,126,89,109,14,6,7,1,0,2,1,4,1, Full Time,hot,%s from %P and %M on Enright,sore,Hurt a hand in Q2,270700,71,343100,75,Forward,28
+240032,Chris,Knights,RI,20,102,104,128,85,110,15,9,9,1,0,0,0,1,2, Full Time,hot,%s from %P and %M,,,287600,14,273000,34,Forward,15
+250298,Shaun,Grigg,RI,30,98,79,126,80,111,14,11,6,4,0,0,2,1,0, Full Time,news,%P and %T with %M and %s,,,450800,132,446700,148,Centre,6
+250312,Bachar,Houli,RI,26,85,82,114,64,91,7,10,4,9,0,1,2,0,1, Full Time,job,Christensen starting on him... %P and %T... also %s and %F,,,391800,80,470800,69,Back,14
+293713,Brandon,Ellis,RI,20,85,82,107,71,91,10,8,8,2,0,0,0,1,1, Full Time,news,Matched up on Duncan... %P and %M plus %T and %s,,,217000,10,237800,-23,Back,5
+260930,Shane,Edwards,RI,14,83,90,99,68,99,11,19,1,2,0,1,0,0,0, Full Time,news,%D and %T but no score... playing a fair bit of midfield these days,,,349400,59,438600,125,Forward,10
+294674,Nick,Vlastuin,RI,15,78,72,100,62,87,8,12,4,5,0,1,1,0,0, Full Time,bubble,Second game... %P and %M with %T,,,147700,,159500,,Back Centre,31
+240707,Daniel,Jackson,RI,8,75,71,93,59,82,14,9,2,1,3,1,0,0,1, Full Time,news,%O and %M plus %s,,,381900,80,371000,92,Centre,23
+210048,Chris,Newman,RI,9,72,72,95,56,78,14,5,5,2,0,0,1,0,0, Full Time,news,%P and %M plus %T,job,In defence on Bartel,312200,104,414400,113,Back,1
+250395,Jack,Riewoldt,RI,20,69,81,85,61,73,8,3,6,1,1,1,1,3,0, Full Time,news,Booted %s from %G and %P on Lonergan,sore,Got a knock to his right leg early in Q1,406000,116,469700,136,Forward,8
+240546,Ivan,Maric,RI,12,66,75,79,59,74,5,7,4,2,20,0,1,0,0, Full Time,sore,%H and %D with %M and %T... right ankle twisted in Q3 but trudged on,,,456700,112,565600,153,Ruck,20
+240336,Brett,Deledio,RI,8,63,46,78,51,72,10,10,3,1,0,0,0,0,0, Full Time,tagged,Tagged by Taylor Hunt... %P and %M,,,535400,162,604800,160,Centre,3
+270896,Trent,Cotchin,RI,9,62,76,81,51,72,9,8,4,3,0,1,2,0,0, Full Time,missing,%2 Johnson and well beaten on the night... %P and %T with %M... also %F,,,551200,150,630400,126,Centre,9
+250360,Ricky,Petterd,RI,9,57,80,76,49,69,10,6,5,2,0,1,3,0,0, Full Time,job,In defence on Smedts... %D and %M... also %T and %F,,,274300,31,267700,54,Forward,13
+280819,Dylan,Grimes,RI,9,50,54,68,36,48,6,2,4,4,0,0,0,0,0, Full Time,sore,Loose in defence... %D and %T with %M... sprained foot in Q2,,,304400,96,349600,94,Back,2
+240180,Troy,Chaplin,RI,4,49,64,64,39,54,8,5,3,2,0,1,1,0,0, Full Time,news,%P and %M plus %T,tomahawk,Following Hawkins,332000,105,397700,149,Back,25
+240256,Luke,McGuane,RI,9,48,38,62,41,55,5,4,3,3,4,0,2,1,0, Full Time,news,%s from %P and %T with %M on Murdoch... also %H and %F,,,308300,94,381600,114,Forward,16
+261362,Alex,Rance,RI,4,42,58,53,35,45,5,5,4,1,0,1,0,0,0, Full Time,ipod,On Podsiadly... %P and %M,,,318300,98,406000,97,Back,18
+260433,Steven,Morris,RI,3,38,46,49,30,39,4,4,3,2,0,1,0,0,0, Full Time,job,Minding Motlop... %P and %M with %T,,,241400,88,301000,93,Back,38
+240389,Matt,White,RI,3,29,16,39,21,28,4,1,2,2,0,0,0,0,1, Full Time,news,On in Q3 for Vickery... %s from %O and %T with %M,sub,Started as a sub,218600,,266000,,Centre,35
+270941,Tyrone,Vickery,RI,2,22,30,25,20,25,2,3,1,0,7,0,0,0,0, Full Time,concussed,%P on Taylor... also %H... headclash with Johnson in Q3 which left him with blood streaming from a cut on his head... a love tap on Selwood in Q2 will be looked at,subbed,Subbed off in Q3 for White,263300,7,333100,25,Forward,29
+220007,Jimmy,Bartel,GE,37,138,131,101,109,139,19,8,10,5,0,2,0,2,1, Full Time,garbage,First goal... started forward on Newman... %s from %P and %M... also %T... enjoyed himself in Q4 garbage time,,,450300,127,530200,137,Forward Centre,3
+220054,Steve,Johnson,GE,33,136,121,92,111,147,21,10,9,5,0,3,3,2,0, Full Time,cherry,%2 Cotchin... %P and %M with %T and %s... also %4FF and %F,,,515500,65,527400,58,Forward Centre,20
+280918,Allen,Christensen,GE,38,128,177,99,103,133,15,13,4,6,0,5,1,3,1, Full Time,star,%s from %O and %M starting forward on Houli... also %T and a rather high %4FF,,,392800,100,433400,105,Forward Centre,28
+200035,Corey,Enright,GE,31,123,113,78,99,129,20,8,11,2,0,0,0,1,0, Full Time,hot,%P and %M with %T plus a rare %s,crown,Responsible for King,396900,80,450200,105,Back,44
+281065,Mitch,Duncan,GE,31,122,97,81,102,130,18,9,11,1,0,0,0,2,1, Full Time,x-factor,Matched up on Ellis... %P and %M plus %s,,,435700,92,401600,80,Centre,22
+220058,James,Kelly,GE,44,107,90,94,72,106,13,8,2,12,0,0,1,0,1, Full Time,hot,%P and %T with %M and %s,,,502300,123,553200,152,Centre,9
+250321,Joel,Selwood,GE,21,98,105,81,80,105,10,13,5,4,2,2,0,1,1, Full Time,news,%O and %M with %T and %s,,,498000,95,600100,108,Centre,14
+230214,Mathew,Stokes,GE,20,88,85,58,77,105,11,17,3,0,0,0,0,2,0, Full Time,news,%s from %P and %M,,,433200,71,449000,78,Forward,27
+260261,Trent,West,GE,23,84,112,64,76,88,8,5,4,0,31,1,0,1,0, Full Time,news,%H with %D and %M with %s,,,310300,77,355300,91,Ruck,12
+261497,Harry,Taylor,GE,18,84,100,50,69,87,15,3,11,0,0,0,0,0,0, Full Time,news,%M and %P,job,On Vickery,409000,35,490600,30,Back,7
+200034,Joel,Corey,GE,9,72,68,48,58,81,10,13,2,2,0,2,0,0,0, Full Time,news,%O and %M,,,380500,91,397300,90,Centre,11
+200131,James,Podsiadly,GE,13,72,54,56,63,81,9,7,9,1,0,0,1,0,3, Full Time,news,%s from %D and %M on Rance,,,352500,74,383400,88,Forward,31
+296733,Mark,Blicavs,GE,13,65,76,55,57,72,6,6,4,2,12,0,1,1,0, Full Time,cash,%H and %P plus %s,,,161100,43,196900,44,Centre Ruck,46
+280822,Taylor,Hunt,GE,4,57,53,45,44,60,7,7,3,3,0,1,0,0,0, Full Time,tagger,Tagging Deledio... %P and %T with %M,,,356400,91,396900,106,Centre,19
+230248,Andrew,Mackie,GE,8,56,49,24,44,60,12,4,4,0,0,0,0,0,0, Full Time,news,%K among %D with %M,,,403200,59,437000,77,Back,4
+290550,Cameron,Guthrie,GE,5,56,66,46,45,60,7,5,5,3,0,1,1,0,0, Full Time,job,Chasing Edwards... %O and %T with %M,,,223500,,247300,,Back,29
+290783,Billie,Smedts,GE,10,46,48,39,46,63,4,9,3,1,0,0,3,2,0, Full Time,news,%s from %D and %M on Petterd,,,244800,40,267700,36,Forward,2
+230125,Tom,Lonergan,GE,4,45,66,38,41,54,4,9,5,0,0,0,0,0,0, Full Time,news,%D and %M,job,Has Riewoldt,228000,52,272500,57,Back,13
+261510,Tom,Hawkins,GE,10,40,52,26,36,42,6,0,4,0,0,1,1,2,0, Full Time,news,Kicked %s from %P and %M on Chaplin... one kick in the first half,,,392000,100,485500,112,Forward,26
+280990,Steven,Motlop,GE,4,40,35,28,32,46,6,5,2,2,0,0,1,0,1, Full Time,news,%s from %D and %M on Morris... also %T,,,373300,50,401700,52,Forward,32
+295942,Jordan,Murdoch,GE,8,30,45,26,23,30,3,2,1,2,0,0,0,1,0, Full Time,job,McGuane is his man... %D and %T plus %s,subbed,Subbed off in Q3 for Horlin-Smith,318000,110,306100,103,Back,21
+293255,George,Horlin-Smith,GE,2,18,13,14,16,21,2,3,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Murdoch... %P and %M,sub,Started as a sub,197600,-30,231400,-51,Centre,33

@@ -1,0 +1,48 @@
+Essendon,Bombers,Richmond,Tigers,R8,19.14.128,15.19.109, Full Time
+May 19,2012,7:45,MCG,Seven,240245,10340805,430075,0,A shower or two,17,,
+
+<em>Magic33</em>: I love Jobe but he turned over every second kick tonight...that's the deal with his SC<br><em>brynpower</em>: There were too many BLACK cows in this game.<br><em>The_snail</em>: @spangle... uncontested turnovers absolutely murder SC had at least 3 in the 3rd q<br><em>number1red</em>: monty. that is the worst giving out of a star ive ever seen!<br><em>spangle</em>: Seriously&#044; what's going on with Watson's SC score...?<br><em title="RICEANATOR">riceanator</em>: wtf&#044; ryder lost 6sc points that quarter...<br><em>Kuzco</em>: Actually considered getting newman in sc this week&#044; thank god I got Heppell... Lol !<br><em>yehright</em>: wtf is with watson sc?<br><em>Slashers</em>: Did you just turn the game on one teddler?<br><em>Teddler</em>: Monty this is the worst star choice in your career&#044; disappointing<br><em>Blue_Steel</em>: Riewoldt 57 sc points get fu c ked<br><em>maddo</em>: Fail raz07<br>
+230231,Jobe,Watson,ES,33,134,105,167,109,139,17,13,8,4,0,4,0,2,1, Full Time,star,%D and %M plus %s,,
+240027,Brent,Stanton,ES,27,124,137,155,98,127,22,7,5,2,0,2,0,3,1, Full Time,magnet,Tagged by Jackson... %P and %M plus %s,,
+292503,Stewart,Crameri,ES,25,95,97,118,83,103,12,9,11,0,0,1,0,1,1, Full Time,news,%P and %M on Grimes,,
+260073,Ben,Howlett,ES,27,92,94,117,73,102,9,13,4,6,0,0,1,1,0, Full Time,news,%P and %T with %M,,
+261320,Tom,Bellchambers,ES,17,92,65,112,81,97,5,8,9,3,20,0,0,0,2, Full Time,news,%H and %P with %M and %s,,
+250267,Patrick,Ryder,ES,23,90,88,104,85,100,7,7,7,0,13,0,1,4,0, Full Time,news,%s from %P and %M on Rance... three majors in Q1... also %H,dreamtime,
+270951,David,Zaharakis,ES,10,87,111,112,66,90,15,8,4,3,0,2,0,0,0, Full Time,news,%P and %M with %T,,
+230060,Ricky,Dyson,ES,13,86,79,111,67,91,17,6,6,1,0,0,0,0,1, Full Time,news,%O and %M,,
+240245,Courtenay,Dempsey,ES,18,83,69,114,61,81,14,1,7,5,0,1,1,0,0, Full Time,news,%P and %M,dreamtime,
+240319,Sam,Lonergan,ES,39,70,56,98,50,75,6,7,2,10,0,1,3,0,0, Full Time,news,%O and %T,tagger,Tagging Deledio
+270935,Michael,Hurley,ES,12,69,84,88,56,73,13,5,6,0,0,1,0,0,1, Full Time,news,%P and %M,,
+240290,Angus,Monfries,ES,17,66,86,79,59,73,5,7,4,2,0,1,1,3,1, Full Time,news,%s from %P and %M on Newman,,
+250352,Leroy,Jetta,ES,14,64,65,77,54,70,8,7,3,1,0,0,0,2,1, Full Time,news,%s from %P and %M on Morris,dreamtime,
+960197,Dustin,Fletcher,ES,8,64,61,84,48,63,14,2,4,1,0,2,0,0,0, Full Time,injured,%D and %M... tightness in the right adductor in Q3,subbed,Subbed off in Q3 for Lovett-Murray
+230051,Alwyn,Davey,ES,14,63,65,77,53,71,10,6,2,1,0,0,1,2,2, Full Time,news,%s from %D and %M on Dea,dreamtime,
+290629,Dyson,Heppell,ES,8,62,63,78,49,69,9,9,3,2,0,0,0,0,0, Full Time,news,%O and %M,crown,Responsible for King
+290641,Jake,Carlisle,ES,9,62,62,80,50,66,8,6,6,2,0,0,0,0,0, Full Time,news,Standing Miller... %D and %M,,
+280824,Jake,Melksham,ES,8,55,41,69,47,61,8,6,6,0,1,0,0,0,0, Full Time,news,%D and %M,,
+270584,Kyle,Hardingham,ES,8,54,54,74,37,51,7,2,3,5,0,0,0,0,0, Full Time,job,Minding Nahas... %O and %T with %M,sore,Right calf restrapped in Q1 after a kick
+250569,Heath,Hocking,ES,3,41,56,50,32,48,3,10,0,3,0,0,0,0,0, Full Time,news,%P,tagger,Tagging Cotchin
+210079,Nathan,Lovett-Murray,ES,8,37,36,49,28,38,5,1,1,3,1,0,1,1,1, Full Time,dreamtime,On in Q3 for Fletcher,sub,Started as a sub
+270588,Cale,Hooker,ES,1,23,45,29,20,30,5,4,1,0,0,0,1,0,0, Full Time,job,Has Riewoldt... %O,,
+240336,Brett,Deledio,RI,66,160,153,130,121,166,19,16,7,10,2,0,0,1,2, Full Time,gun,Tagged by Lonergan... %P and %M with %T,,
+270896,Trent,Cotchin,RI,42,143,125,102,111,145,20,9,7,6,0,1,0,3,1, Full Time,hot,Tagged by Hocking... %D and %T with %M and %s,,
+250298,Shaun,Grigg,RI,27,127,107,75,104,135,21,9,9,1,2,0,0,2,1, Full Time,hot,Had a huge Q1... %D and %M plus %s,,
+240546,Ivan,Maric,RI,32,124,131,108,107,134,11,11,9,4,29,0,1,0,0, Full Time,hot,%H and %P plus %M and %T,,
+240707,Daniel,Jackson,RI,15,87,92,60,69,92,12,10,3,3,0,2,0,1,2, Full Time,news,%P and %M plus %s,tagger,Tagging Stanton
+260930,Shane,Edwards,RI,26,87,95,72,72,94,9,8,4,4,0,0,1,3,1, Full Time,news,%s from %P and %T with %M,dreamtime,
+240130,Nathan,Foley,RI,14,84,105,67,71,97,9,15,6,2,0,0,0,0,1, Full Time,news,%B among %D with %M and %T,,
+290847,Dustin,Martin,RI,16,82,74,49,67,90,13,8,2,2,0,1,1,2,3, Full Time,news,First goal... %s from %P and %T with %M,,
+200109,Shane,Tuck,RI,18,74,96,45,70,99,12,14,7,0,0,1,4,0,0, Full Time,news,%P and %F,,
+261362,Alex,Rance,RI,10,70,80,57,51,69,9,5,4,5,0,1,0,0,0, Full Time,job,Has Ryder... %P and %M,,
+220071,Brad,Miller,RI,11,69,68,53,54,70,9,4,5,3,0,0,0,1,1, Full Time,news,%D and %T on Carlisle,,
+291437,Jake,Batchelor,RI,9,68,64,46,57,73,11,3,9,1,0,0,1,0,1, Full Time,news,%M and %P,,
+250312,Bachar,Houli,RI,9,63,55,38,48,66,11,5,4,2,0,0,0,0,0, Full Time,news,%O and %M,,
+250623,Robin,Nahas,RI,15,63,51,61,50,69,5,8,3,5,0,0,1,1,0, Full Time,news,%s from %O on Hardingham... also %T and %M,,
+290823,Reece,Conca,RI,8,53,46,38,49,67,8,6,7,1,0,0,3,0,1, Full Time,news,%D including %b by hand with %M... also %s,,
+293713,Brandon,Ellis,RI,4,44,39,37,33,46,5,5,2,3,0,0,0,0,1, Full Time,news,On in Q2 for Grimes,sub,Started as a sub
+250395,Jack,Riewoldt,RI,9,43,57,42,34,45,3,5,2,3,0,0,0,1,0, Full Time,news,%s from %D on Hooker,,
+210048,Chris,Newman,RI,3,42,35,36,31,42,5,3,3,3,0,0,0,0,0, Full Time,job,Responsible for Monfries... %D and %T with %M,,
+271437,Jake,King,RI,3,42,51,32,32,43,6,3,2,3,0,2,1,0,1, Full Time,news,%O on Heppell,,
+260433,Steven,Morris,RI,3,40,46,29,30,39,6,2,3,2,0,1,0,0,0, Full Time,cash,%D and %M with %T,job,Chasing Jetta
+292025,Matt,Dea,RI,2,30,35,29,28,39,2,7,3,1,0,0,1,0,0, Full Time,job,Minding Davey... %D,,
+280819,Dylan,Grimes,RI,2,27,30,18,25,33,4,4,3,0,0,1,1,0,0, Full Time,injured,Standing Crameri... %D and %M... left hamstring injury in Q2,subbed,Subbed off in Q2 for Ellis

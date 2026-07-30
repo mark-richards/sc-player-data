@@ -103,6 +103,7 @@
                 <th class="text-end">Avg</th>
                 <th class="text-end">Total Pts</th>
                 <th class="text-end">Acquired</th>
+                <th class="text-end">Rounds Played</th>
               </tr>
             </thead>
             <tbody>
@@ -113,7 +114,7 @@
                 <td class="text-end">{{ p.total_pts if p.total_pts else '—' }}</td>
                 <td class="text-end">
                   {% if cat == 'Waiver' and p.waiver_pick_num %}
-                    Rd {{ p.round_acquired }}, Pk {{ p.waiver_pick_num }} ({{ p.waiver_day }})
+                    Rd {{ p.round_acquired }}, Pk {{ p.waiver_pick_num|int }} ({{ p.waiver_day }})
                   {% elif p.round_acquired %}
                     Rd {{ p.round_acquired }}
                   {% elif p.round_acquired == 0 %}
@@ -121,6 +122,9 @@
                   {% else %}
                     —
                   {% endif %}
+                </td>
+                <td class="text-end" style="color:#888; font-size:0.8rem;">
+                  {{ p.rounds_played | join(', ') if p.rounds_played else '—' }}
                 </td>
               </tr>
               {% endfor %}

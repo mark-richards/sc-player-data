@@ -1,0 +1,48 @@
+Melbourne,Demons,Collingwood,Magpies,R11,13.9.87,19.15.129, Full Time
+Jun 11,2012,3:15,MCG,Seven,260246,10341106,430103,0,Sunny,15,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em title="JV_EDT">jv_edt</em>: well the pies look like the team to beat<br><em>rusty007</em>: hello<br><em>Cruise on</em>: 8 straight&#044; temporary top of the ladder&#044; a bye to co<br><em>djmckf</em>: Effort Grumpy not score. <br><em>GJayBee</em>: smorton is a spuppet&#044; the first one ever!<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> djmckf</em>: Grimes = Gun<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> CamT</em>: Pavlich beat Morton by 25 SC points &#044; lol<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Blues17</em>: how did james frawley get a worse SC then morton? morton turned it over like 10 times<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> dusty41</em>: blairs sc is rediculous<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> Slashers</em>: Swan had a 100 point better SC game than flowering GAJ!<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> Nick1069</em>: welcome back dave!<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> chewme</em>: 1000 from this game alone!!<br>
+261297,Jack,Grimes,ME,24,114,97,152,83,111,21,4,7,5,0,2,0,0,0, Full Time,hot,%D and %T with %M,swan,Head to head with Swan
+240393,Mitchell,Clark,ME,28,109,113,134,95,114,12,4,9,2,8,0,1,4,1, Full Time,hot,Brown on him...%s from %P and %M... also %H,,
+250222,Nathan,Jones,ME,14,87,114,108,69,102,16,15,1,2,0,1,1,0,0, Full Time,news,%2 Beams... %O and %T,,
+280608,Jack,Trengove,ME,26,87,70,111,70,92,7,10,5,6,1,2,1,1,1, Full Time,news,Starting forward on Buckley... %s from %O and %M with %T,,
+291313,Jeremy,Howe,ME,20,86,98,109,74,96,10,8,7,3,0,1,2,2,0, Full Time,news,Booted %s from %D and %M,,
+260288,James,Frawley,ME,20,68,47,93,51,69,7,4,6,6,0,0,1,0,0, Full Time,job,Following Cloke... %P and %T,,
+270985,Cale,Morton,ME,8,67,70,84,54,72,11,8,4,1,0,2,0,0,0, Full Time,spud,%M and %P,muppet,On a HBF on Fasolo
+280972,Jack,Watts,ME,8,64,87,82,53,72,11,7,5,1,0,1,1,0,0, Full Time,news,%P and %M,job,Wellingham manning him up
+270906,Jordie,McKenzie,ME,18,62,55,81,50,75,6,12,1,6,0,2,3,0,0, Full Time,tagger,Tagging Thomas... %D and %T,,
+291533,Tom,McDonald,ME,10,59,65,78,44,60,7,5,4,4,0,0,0,0,0, Full Time,job,Elliott is his man... %P,,
+220052,Mark,Jamar,ME,14,55,69,61,51,61,2,7,0,2,28,2,1,0,0, Full Time,news,%H and %D,,
+240037,Colin,Sylvia,ME,11,55,53,69,45,58,4,6,4,3,0,0,0,1,1, Full Time,sore,O'Brien on him... %s from %O and %M... a headclash with Brown in Q2 rearranged his nose,,
+280746,Sam,Blease,ME,10,54,49,69,42,54,8,3,3,2,0,1,0,1,0, Full Time,news,%O and %M,,
+294874,Daniel,Nicholson,ME,9,53,45,68,46,60,5,7,6,2,0,1,1,0,0, Full Time,job,Minding Sinclair... %P and %M,sore,Smashed in a challenge with Goldsack in Q3
+280579,Luke,Tapscott,ME,4,51,41,65,39,54,6,7,2,3,0,1,0,0,0, Full Time,sore,Playing a small forward role on Clarke... %O and %T... right shin knock in Q4 when he kicked into Jolly's leg,mrp,A very late challenge that contacted Fasolo's ribs in Q3 will be looked at
+270830,Colin,Garland,ME,4,50,51,68,37,52,9,2,3,3,0,0,1,0,1, Full Time,news,%P and %M on Tarrant,,
+230250,Jared,Rivers,ME,14,48,55,62,36,48,4,4,2,4,0,0,0,1,0, Full Time,switch,Responsible for Goldsack... %O and %T... switched forward in Q3,,
+250418,James,Sellar,ME,4,46,69,60,39,51,9,3,5,0,0,1,1,0,0, Full Time,job,Standing Dawes... %O and %M,,
+200054,Brad,Green,ME,7,45,36,59,37,45,6,1,6,1,0,0,0,0,3, Full Time,injured,%s from %D and %M on Young... left groin iced up in Q3,subbed,Subbed off in Q3 for Dunn
+260176,James,Magner,ME,9,45,42,59,36,48,7,2,3,2,0,0,1,1,0, Full Time,news,%s from %P and %M,tagger,Forward tag on Maxwell
+230151,Brent,Moloney,ME,4,44,54,59,37,55,9,5,2,2,1,1,3,0,0, Full Time,news,Just one touch in Q1... %P and %T... also %F,,
+250548,Lynden,Dunn,ME,9,37,30,43,33,40,4,3,2,0,0,0,0,2,1, Full Time,news,On in Q3 for Green... %s from %D,sub,Started as a sub
+271001,Dayne,Beams,CO,43,155,137,116,123,165,20,17,9,6,0,1,0,1,3, Full Time,star,%2 Jones... %D and %M with %T and %s... massive Q2 and wasn't bad in Q1 either,,
+280965,Steele,Sidebottom,CO,42,150,156,108,115,157,21,15,7,7,0,1,0,1,1, Full Time,cherry,%P and %T with %M and %s,,
+220105,Dane,Swan,CO,38,142,160,83,121,166,23,19,8,1,0,0,2,2,1, Full Time,magnet,%2 Grimes... %B among %P plus %M and %s,mrp,A trip on Blease in Q3 will be assessed
+261799,Sharrod,Wellingham,CO,32,115,128,76,92,118,19,2,10,4,0,1,2,2,1, Full Time,hot,%P and %T plus %M and %s... manning up Watts at times,,
+280104,Jarryd,Blair,CO,33,114,148,97,93,124,11,16,4,6,0,3,1,2,1, Full Time,hot,%s from %O and %M with %T,,
+210099,Darren,Jolly,CO,35,108,130,110,93,112,5,7,3,7,34,2,2,2,0, Full Time,hot,%H and %P plus %T and %s... also %F,,
+260394,Chris,Dawes,CO,20,102,81,78,80,104,14,5,8,5,7,1,1,0,1, Full Time,hot,Kicked %s from %G and %D on Sellar... also %H and %T,,
+240366,Travis,Cloke,CO,20,86,107,65,69,87,11,5,6,3,0,1,0,2,0, Full Time,news,Frawley on him... one touch in Q1... %s from %P and %M with %T,,
+260246,Tyson,Goldsack,CO,20,76,91,57,66,85,10,5,7,2,0,0,2,2,1, Full Time,news,%P and %M on Rivers,,
+240359,Dale,Thomas,CO,13,75,86,50,64,83,11,9,6,1,0,3,1,0,2, Full Time,tagged,Tagged by McKenzie... %P and %M,,
+290821,Alex,Fasolo,CO,19,71,60,37,63,84,14,3,6,1,0,1,4,2,0, Full Time,sore,%O and %M on Morton... also %F... smashed in the ribs by Tapscott in Q3,,
+260310,Nathan,Brown,CO,12,68,63,46,56,75,10,8,6,1,0,0,0,0,0, Full Time,news,%O and %M,job,Standing Clark
+291386,Ben,Sinclair,CO,16,65,86,46,57,69,8,4,5,0,0,0,0,3,0, Full Time,news,First goal.. %s from %P and %M on Nicholson,,
+293801,Jamie,Elliott,CO,14,60,61,58,40,55,6,3,2,7,0,1,0,0,1, Full Time,concussed,McDonald on him... %D and %T... bump by Moloney in Q1 left him groggy,,
+980023,Chris,Tarrant,CO,5,60,73,44,45,57,9,2,5,3,0,2,0,0,0, Full Time,job,On Garland... %M and %O with %T,,
+250683,Simon,Buckley,CO,7,52,88,35,43,64,7,12,0,2,0,1,1,0,1, Full Time,job,Minding Trengove to start... %O,,
+295296,Marley,Williams,CO,9,47,30,39,35,51,6,5,2,4,0,0,1,0,0, Full Time,news,%P and %T,,
+294826,Tom,Young,CO,5,45,51,38,36,48,5,5,4,2,0,0,0,0,0, Full Time,sore,On very early in Q1 for Didak... going with Green then got Dunn in Q4... %D and %M... smashes in the left ribs by Sylvia in Q4,sub,Started as a sub
+240073,Harry,O'Brien,CO,4,44,49,34,32,45,6,4,2,3,0,0,0,0,0, Full Time,brazil,%O and %T,job,Minding Sylvia
+272005,Marty,Clarke,CO,3,44,56,28,35,52,7,7,1,2,0,0,1,0,1, Full Time,job,Responsible for Tapscott... %D and %s,,
+230263,Nick,Maxwell,CO,3,39,45,36,29,39,4,3,3,3,0,0,0,0,0, Full Time,tagged,Forward tag on him by Magner... %D and %M,,
+210003,Alan,Didak,CO,0,6,5,4,5,6,1,0,1,0,0,0,0,0,0, Full Time,injured,Sore left groin after his first kick early in Q1,subbed,Subbed out in Q1 for Young

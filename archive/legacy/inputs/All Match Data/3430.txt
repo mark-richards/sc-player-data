@@ -1,0 +1,48 @@
+Richmond,Tigers,Melbourne,Demons,R4,11.12.78,20.13.133, Full Time
+Apr 18,2010,1:10,MCG,Fox Sports,240037,10280406,5015558,4973,Cloudy and windy,26
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,m0nty is working on it... hopefully should be up for next week,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>Richi boy</em>: hi<br><em>karadoc</em>: ROFL - never heard the Dees team song before<br><em>SC ADDICT</em>: png to viper<br><em>BERBATOV</em>: martin cant complain hes done me good so far&#044; all good teams have him starting too<br><em>Nigey95</em>: another +7 please sylvia <br><em>barlow=god</em>: sherman how u doin in ur game?<br><em>SC ADDICT</em>: scully what a stat slut&#044; bet he willl have a crap sc<br><em>Preditors</em>: 127!!! sylvia cmon<br><em>Monaco</em>: No way&#044; Mc Donald set this win up in Q1<br><em>pattylee29</em>: how long left?<br><em>korza</em>: Martin hope you enjoyed your snooze<br><em>Exodus</em>: McKenzie gogogo!<br>
+200109,Shane,Tuck,RI,32,127,104,161,106,138,19,12,11,2,0,2,1,1,0, Full Time,hot,In a BP again minding Bennell... %O and %M with %T and %s
+250395,Jack,Riewoldt,RI,31,120,147,154,97,119,15,3,9,5,1,2,1,3,4, Full Time,hot,%s from %P and %G on Frawley... also %T
+240336,Brett,Deledio,RI,18,93,100,116,77,105,14,13,7,1,0,0,0,0,0, Full Time,news,Matched up on Bail... %D and %M
+260104,Andrew,Collins,RI,15,82,63,108,63,87,13,7,5,4,0,1,1,0,0, Full Time,news,%P and %T with %M
+261910,Ben,Nason,RI,15,78,85,103,56,72,12,2,3,5,0,3,0,1,0, Full Time,cash,Playing as a small forward on Garland... %s from %O and %T with %M
+260930,Shane,Edwards,RI,24,75,76,101,53,78,8,9,0,9,0,3,2,0,0, Full Time,news,On a wing matched up on Scully...  %O and %T
+240707,Daniel,Jackson,RI,14,72,53,95,60,85,10,9,5,4,0,1,3,0,1, Full Time,news,%K among %O matched up on McKenzie
+230279,Kelvin,Moore,RI,12,68,124,89,56,75,12,5,7,1,0,0,1,0,0, Full Time,job,Following Petterd... %P and %M
+230216,Richard,Tambling,RI,16,63,57,83,52,70,7,5,5,4,1,0,2,1,0, Full Time,news,%s from %O and %M as a small forward on Grimes
+240313,Tom,Hislop,RI,14,63,57,86,51,72,10,5,5,4,0,1,3,0,0, Full Time,news,%D and %M with %T and %F
+260970,Mitch,Farmer,RI,9,60,55,80,43,55,9,2,3,4,0,3,0,0,1, Full Time,cash,%P and %M with %T
+240412,Mitch,Morton,RI,10,55,58,69,43,56,6,5,2,3,0,1,0,1,2, Full Time,news,Warnock on him... %s from %D and %T
+290198,David,Astbury,RI,14,51,52,62,43,51,6,1,3,1,0,0,0,3,0, Full Time,rookie,First game... kicked %s from %P and %G on Macdonald
+990100,Troy,Simmonds,RI,9,49,17,61,43,55,6,3,2,2,16,1,2,0,0, Full Time,news,%H and %D with %T
+270896,Trent,Cotchin,RI,7,48,55,57,43,63,7,12,2,0,0,0,1,0,0, Full Time,news,%O and %M
+290847,Dustin,Martin,RI,7,48,54,59,41,60,7,10,2,1,0,0,1,0,0, Full Time,cash,%B among %P with %M
+240389,Matt,White,RI,3,47,62,62,33,47,8,3,1,3,1,0,0,0,1, Full Time,news,No stats in Q1... %O and %T plus %s
+280986,Troy,Taylor,RI,8,46,50,58,36,44,8,1,2,1,0,2,0,1,2, Full Time,rookie,First game... started on a HBF on Sylvia then went forward in second half... %s from %O and %M
+270941,Tyrone,Vickery,RI,9,44,49,56,37,50,3,5,1,4,11,1,2,0,0, Full Time,news,%H and %P with %T
+261362,Alex,Rance,RI,3,36,48,45,30,39,6,4,3,0,0,1,0,0,0, Full Time,news,%D and %M
+270315,Jayden,Post,RI,3,34,38,43,27,36,3,5,2,2,0,1,0,0,0, Full Time,job,Bate his man... %B among %D with %M and %T
+292025,Matthew,Dea,RI,2,30,35,36,24,36,0,9,0,3,0,0,0,0,0, Full Time,rookie,First game... %P and %T
+230151,Brent,Moloney,ME,38,131,145,108,104,150,15,22,4,9,0,3,3,0,0, Full Time,hot,%O and %T with %M and %F
+240037,Colin,Sylvia,ME,43,125,118,104,110,136,13,7,10,4,3,1,3,5,1, Full Time,reported,The first-gamer Taylor on him on a HFF... %s from %O and %M with %T and %F... reported for bumping Nason high in Q2
+970130,James,McDonald,ME,31,120,136,95,98,133,14,16,7,5,1,1,1,1,0, Full Time,star,%P including %B with %M and %s... had a scintillating Q1 with 14 of those touches
+200054,Brad,Green,ME,27,116,96,69,99,125,19,5,8,1,0,1,2,4,2, Full Time,gun,%s from %P and %M
+250510,Matthew,Bate,ME,31,109,92,87,90,113,13,5,9,4,0,0,1,3,2, Full Time,hot,%s from %O and %G on Post... also %T
+200052,Cameron,Bruce,ME,19,97,113,81,84,114,9,20,7,2,0,1,0,0,0, Full Time,news,%B among %D with %M and %T
+250222,Nathan,Jones,ME,19,95,104,64,73,104,14,13,3,4,0,0,0,0,2, Full Time,hot,%O and %T with %s... also %T
+270906,Jordie,McKenzie,ME,27,92,84,100,72,102,4,18,4,8,0,0,0,0,0, Full Time,news,Head to head with Jackson... %O and %T with %M
+280969,Tom,Scully,ME,15,88,94,71,73,99,9,17,4,3,0,3,0,0,0, Full Time,cash,On a wing matched up on Edwards... %D and %M with %T
+250548,Lynden,Dunn,ME,20,85,59,57,76,100,13,7,9,1,3,0,3,1,1, Full Time,news,%P and %M with %H and %s
+250360,Ricky,Petterd,ME,20,83,104,66,70,86,9,7,6,2,1,2,0,2,1, Full Time,news,%s from %P and %M on Moore.. also %T
+261297,Jack,Grimes,ME,14,82,107,57,66,87,12,8,7,2,0,1,0,0,0, Full Time,news,Has Tambling to deal with... %P and %M plus %T
+250345,Rohan,Bail,ME,23,79,88,78,63,81,6,6,5,6,0,1,1,2,0, Full Time,cash,Matched up on Deledio... %O and %T with %M and %s
+220052,Mark,Jamar,ME,22,71,86,74,68,79,1,8,2,2,34,1,1,1,0, Full Time,news,%H and %P with %M and %T
+200002,Aaron,Davey,ME,13,70,90,36,52,76,14,7,0,4,0,3,2,0,1, Full Time,news,%D and %T with %s
+280608,Jack,Trengove,ME,8,64,70,45,54,74,8,12,3,1,0,1,0,0,2, Full Time,cash,%P and %M with %s
+230130,Joel,Macdonald,ME,8,61,78,33,50,72,11,9,3,1,0,0,1,0,0, Full Time,job,On the first-gamer Astbury... %P and %M
+250245,Clint,Bartram,ME,10,55,50,40,48,63,7,7,4,1,0,1,1,1,0, Full Time,news,%D and %M with %s
+260288,James,Frawley,ME,8,51,26,32,44,60,9,4,6,1,0,0,2,0,0, Full Time,job,Minding Riewoldt... %O and %M
+270830,Colin,Garland,ME,12,46,62,46,39,60,3,12,1,4,0,0,2,0,0, Full Time,job,On Nason... %P and %T
+250716,Matthew,Warnock,ME,3,39,51,30,32,42,5,4,4,1,0,0,0,0,0, Full Time,job,Going with Morton... %M and %O
+290943,Jamie,Bennell,ME,2,33,48,18,27,36,6,3,3,0,0,0,0,0,0, Full Time,news,Tuck on him... %O

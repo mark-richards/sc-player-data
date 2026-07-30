@@ -1,0 +1,48 @@
+Richmond,Tigers,Hawthorn,Hawks,R9,21.11.137,10.15.75, Full Time
+May 26,2012,1:45,MCG,Seven,250312,10340902,430081,0,A few showers,15,,
+
+<em>TheLegend6</em>: localh supports hawthorn sore loser<br><em>The It_123</em>: lol sucklings SC<br><em>localh</em>: Riewoldt is shower has a bad attitude Richmond need to move him have the guts like Carlton when they moved on fev<br><em>Jormas</em>: fml franko&#044; 3 short mate..<br><em>mufc</em>: bull s#@t sc scores<br><em>Jmachete</em>: why is white x so low??<br><em>Chillicat</em>: Delidio why so low???<br><em>mufc</em>: hard for him because they have almost always lost<br><em>McGuiness</em>: @rorochezza any time is fine&#044; get con to book.. Surely M0nty keen to join and he can bring his mrs<br><em>mufc</em>: deledio is such a gun idk y some didnt start with him at the beginning of the season&#044; hard draw or not its always been h<br><em>Red Dirty</em>: Yellow and black!<br><em title="SHUEPERMAN">shueperman</em>: localh i agree bud<br>
+200109,Shane,Tuck,RI,67,152,148,195,119,165,15,20,8,10,0,0,1,1,0, Full Time,hot,%2 Sewell... %D and %M with %T and %s,,
+240336,Brett,Deledio,RI,43,141,117,177,112,148,13,19,7,8,1,4,0,1,0, Full Time,gun,Tagged by Lewis... %P and %T with %M,,
+250395,Jack,Riewoldt,RI,48,135,127,169,108,129,13,3,7,7,1,2,0,6,2, Full Time,garbage,Booted %s from %D and %M on Schoenmakers... also %T... four of those goals in Q4 junk time,,
+240130,Nathan,Foley,RI,50,125,127,165,89,124,16,11,4,10,0,2,0,0,1, Full Time,hot,%P and %T plus %s,,
+240546,Ivan,Maric,RI,38,122,146,150,99,123,9,9,5,7,27,1,0,1,0, Full Time,star,%H and %P with %M and %T... also %s,,
+270896,Trent,Cotchin,RI,22,113,112,143,90,123,19,12,5,3,0,2,1,1,0, Full Time,hot,%O and %T with %M and %s,,
+290847,Dustin,Martin,RI,22,104,119,122,89,123,11,21,3,2,0,0,0,2,0, Full Time,hot,First goal... head to head with Shiels... %P and %M plus %s,,
+250298,Shaun,Grigg,RI,20,97,89,126,71,101,14,10,3,6,2,0,0,0,0, Full Time,news,%P and %M with %T,,
+210048,Chris,Newman,RI,13,88,96,112,71,94,15,8,7,1,0,1,0,0,1, Full Time,news,Loose in defence... %D and %M plus %s,,
+260930,Shane,Edwards,RI,16,77,88,91,70,91,9,12,5,0,0,1,1,2,1, Full Time,news,%s from %P and %M,,
+240707,Daniel,Jackson,RI,19,73,50,93,56,78,9,7,1,5,0,0,1,2,0, Full Time,news,%D and %T,tagger,Forward tag on Suckling
+250312,Bachar,Houli,RI,12,70,62,90,56,75,14,5,6,0,0,0,0,0,0, Full Time,news,%D and %M,,
+290823,Reece,Conca,RI,8,70,67,90,53,75,15,6,3,1,0,0,0,0,0, Full Time,sore,%O... copped a whack in the head in Q2,job,Manning up Whitecross
+271437,Jake,King,RI,21,69,72,88,59,78,8,5,3,4,0,1,3,3,0, Full Time,x-factor,His forward pressure was telling... %s from %D and %M... also %T,tagger,Forward tag role on Birchall
+261362,Alex,Rance,RI,13,66,65,85,60,81,8,10,7,2,0,2,3,0,0, Full Time,news,%P and %M,job,Has Franklin
+250623,Robin,Nahas,RI,10,60,68,76,48,62,10,3,4,1,0,0,0,1,2, Full Time,news,%s from %P and %M on Burgoyne,,
+270941,Tyrone,Vickery,RI,10,56,62,73,41,51,5,1,2,5,11,1,0,0,1, Full Time,news,Booted %s from %P on Gilham... also %H and %T,,
+292025,Matt,Dea,RI,8,55,40,71,45,57,10,3,6,0,0,1,0,0,0, Full Time,job,Responsible for Breust... %M and %O,,
+260433,Steven,Morris,RI,10,53,57,66,43,57,4,7,3,3,0,0,0,1,0, Full Time,job,Minding Rioli... %D and %s,mrp,A high spoil on Whitecross in Q1 will be looked at though there was little in it
+293713,Brandon,Ellis,RI,7,49,50,60,42,61,7,10,2,1,0,0,1,0,1, Full Time,news,%B among %D with %M,subbed,Subbed off in Q4 for Addam Maric
+280747,Ben,Griffiths,RI,6,37,59,43,33,48,6,10,0,0,0,2,1,0,0, Full Time,news,%P,job,Standing Roughead
+270833,Addam,Maric,RI,2,26,11,32,24,33,2,6,2,1,0,1,1,0,0, Full Time,in,%l Jake Batchelor... on in Q4 for Ellis,sub,Started as a sub
+261386,Brendan,Whitecross,HW,15,101,73,56,78,104,19,5,8,2,0,0,0,0,2, Full Time,hot,%s from %P and %M on Conca,,
+240357,Jarryd,Roughead,HW,22,97,109,82,84,104,9,8,6,3,13,1,1,2,1, Full Time,news,%s from %G and %P on Griffiths.... also %H and %T as #2 ruck,,
+240399,Lance,Franklin,HW,30,97,73,79,77,99,12,6,6,6,0,4,2,1,3, Full Time,news,%s from %P and %M with %T on Rance... also %F,,
+220073,Sam,Mitchell,HW,26,89,91,70,66,100,13,9,2,9,0,1,4,0,1, Full Time,news,%O and %T... also %F,,
+280744,Luke,Breust,HW,34,88,83,96,68,87,4,7,4,8,0,0,0,3,0, Full Time,news,%s from %O and %M on Dea... also %T,,
+210012,Shaun,Burgoyne,HW,19,86,90,55,68,100,14,12,3,4,0,0,2,0,1, Full Time,news,%D and %M,job,Responsible for Nahas
+240302,Grant,Birchall,HW,14,85,71,53,69,96,14,10,6,2,0,0,1,0,0, Full Time,crown,Forward tag on him by King... %D and %M,garbage,Plenty of cheap Q4 stats after it was all over
+230197,Brad,Sewell,HW,19,83,89,62,59,87,12,9,1,7,0,1,1,0,0, Full Time,news,%2 Tuck... %D and %T,,
+260955,Cyril,Rioli,HW,20,76,74,59,59,78,9,6,2,4,0,0,0,2,3, Full Time,news,%s from %D and %T on Morris,,
+270732,Matt,Suckling,HW,13,75,48,43,62,81,13,7,7,0,0,1,0,0,0, Full Time,tagged,Forward tag on him by Jackson... %P and %M,,
+280471,Ben,Stratton,HW,10,70,85,61,52,69,8,5,5,5,0,1,0,0,0, Full Time,news,%P and %M with %T,,
+250089,Jordan,Lewis,HW,10,68,53,51,59,85,9,11,4,3,4,0,3,0,0, Full Time,news,%P and %M... also %H,tagger,Tagging Deledio
+294877,Isaac,Smith,HW,18,65,60,61,50,69,5,10,1,5,0,1,0,1,0, Full Time,news,%s from %P with only %K... also %T,,
+250055,Clinton,Young,HW,15,63,55,55,48,66,7,5,3,5,0,0,1,1,0, Full Time,injured,%O and %M with %T and %s... right knee knock in Q4 and iced up,,
+250715,Josh,Gibson,HW,9,61,83,50,48,66,7,8,4,3,0,0,0,0,0, Full Time,news,%D and %T,,
+281301,Ryan,Schoenmakers,HW,8,60,63,31,46,66,12,5,3,2,0,0,1,0,0, Full Time,job,On Riewoldt... %M and %P with %T,,
+220036,David,Hale,HW,10,57,62,53,56,71,3,9,3,1,23,0,2,0,0, Full Time,news,Well beaten by Maric... %H and %D with %M and %F,,
+200060,Brent,Guerra,HW,4,54,80,33,42,57,10,3,3,3,0,3,2,0,0, Full Time,news,Loose in defence... %P and %T with %M,sore,Cut on the head in Q3 which drew plenty of claret
+280858,Shane,Savage,HW,8,49,35,43,33,46,6,2,2,5,0,0,0,0,1, Full Time,news,Playing a small forward defensive role... %s from %D and %T... also %M,,
+280737,Liam,Shiels,HW,4,44,43,27,34,48,8,3,3,2,0,0,1,0,0, Full Time,injured,%2 Martin... %P and %T with %M... right quad restrapped in Q3,subbed,Subbed off at 3QT for Puopolo
+230082,Stephen,Gilham,HW,4,39,44,28,34,45,5,6,4,0,0,0,0,0,0, Full Time,job,Standing Vickery... %P and %M,,
+260710,Paul,Puopolo,HW,0,15,6,8,10,15,3,1,0,1,0,0,0,0,0, Full Time,news,On after 3QT for Shiels,sub,Started as a sub

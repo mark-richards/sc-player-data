@@ -1,0 +1,48 @@
+Carlton,Blues,Brisbane,Lions,R20,17.11.113,10.17.77, Full Time
+Aug 11,2012,7:40,Docklands,Fox Sports,261299,10342006,430175,0,Roof closed,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>casey22</em>: Cloke 53 sc plus that goal<br><em>windigo24</em>: Redden such a great player for Lions. :)<br><em>chadwick</em>: Love it rockliff :)<br><em>chadwick</em>: Zorko hasn't hit a wall<br><em>Adamant</em>: time left?<br><em>MightyEss</em>: where is robinson the ugly cow?<br><em>Rommas</em>: Zorkos finally hit the wall.great timing for it too<br><em>ramrod</em>: move it hanley and rockliff<br><em>Jormas</em>: go carrots and scotland... ZORKO :( maybe brick wall?<br><em>MightyEss</em>: flowering hell&#044; what a shower first week of dt&#044; robbo and zorko oh so average<br><em>cherries08</em>: Any chance of getting a kick Hanley?<br><em>staggerlee</em>: maclure just gave bell a serve on the wireless&#044; for celebrating too much...<br>
+250417,Bryce,Gibbs,CA,38,141,132,182,116,154,21,12,12,4,0,1,2,1,1, Full Time,star,%P and %T with %M and %s,mrp,A slam tackle on Bewick in Q1 will be looked at
+990059,Heath,Scotland,CA,26,124,119,157,104,138,16,16,11,3,0,2,1,0,0, Full Time,hot,%P and %M with %T,,
+220015,Andrew,Carrazzo,CA,31,114,115,142,97,133,13,18,7,4,0,1,2,1,1, Full Time,hot,%O and %M with %T and %s,tagger,Tagging Black
+230202,Kade,Simpson,CA,20,111,95,141,92,124,19,12,9,1,0,1,1,0,1, Full Time,hot,%P and %M plus %s,,
+261299,Matthew,Kreuzer,CA,29,104,110,126,86,104,8,5,4,5,26,0,0,2,0, Full Time,hot,%H... also %P and %T plus %M and %s,,
+250105,Marc,Murphy,CA,15,99,117,129,76,100,21,5,5,2,0,5,1,0,1, Full Time,news,%P and %T plus %M and %s,rain,Tagged by Raines
+270653,Jeff,Garlett,CA,25,89,99,114,68,91,13,4,2,5,0,0,1,3,1, Full Time,news,%s from %O and %T on Yeo,,
+281124,Levi,Casboult,CA,22,87,91,108,72,85,7,4,6,4,7,2,0,2,3, Full Time,news,%s from %P and %M on Merrett... also %H and %T,,
+240014,Andrew,Walker,CA,15,79,113,97,66,86,11,9,5,1,0,1,0,1,2, Full Time,news,%s from %O and %M on Harwood,,
+240028,Brock,McLean,CA,14,73,82,91,63,84,8,12,6,2,0,2,1,0,0, Full Time,news,%D and %T with %M,,
+260533,Dennis,Armfield,CA,19,71,95,86,62,78,9,7,6,0,0,0,0,2,0, Full Time,news,Donuts in Q1... %s from %D and %M,tagger,Forward tag role on Adcock
+270146,Ed,Curnow,CA,20,68,68,91,46,66,4,8,1,9,0,1,0,0,0, Full Time,news,%P and %T,tagger,Tagging Rich
+240060,Eddie,Betts,CA,16,65,78,79,55,67,8,3,4,1,0,0,0,3,1, Full Time,news,%s from %P and %M on Hanley,subbed,Subbed off in Q4 for O'Keefe
+291456,Andrew,McInnes,CA,9,62,63,82,48,63,10,3,6,2,0,0,0,0,0, Full Time,news,%P and %M plus %T,,
+294691,Tom,Bell,CA,13,61,70,74,51,69,10,8,3,0,0,0,0,1,0, Full Time,news,%D including %K with %M,,
+290526,Matthew,Watson,CA,8,50,71,62,44,57,6,7,6,0,0,0,0,0,0, Full Time,news,%D and %M,job,Has Lisle
+290311,Mitch,Robinson,CA,4,48,32,65,36,51,8,3,3,3,0,0,1,0,0, Full Time,tagged,Tagged by Wrigley... %P and %M plus %T,concussed,Headclash with Merrett in Q4 and he was in Koosbane for a minute
+220110,Jarrad,Waite,CA,14,47,72,62,44,57,7,3,6,1,0,1,3,1,0, Full Time,news,%s from %D and %M on Patfull... also %F,,
+271110,Chris,Yarran,CA,8,46,64,58,42,60,8,8,4,0,0,0,2,0,0, Full Time,job,Responsible for Banfield... %D,,
+292511,Zach,Tuohy,CA,4,45,54,61,33,48,8,3,2,3,0,0,1,0,0, Full Time,job,Minding Green... %P and %T with %M,,
+270637,Simon,White,CA,4,38,39,49,33,45,3,6,4,2,0,0,1,0,0, Full Time,job,Has Brown... %O and %M,,
+280563,Rhys,O'Keefe,CA,1,18,-,23,16,24,2,4,1,1,0,0,1,0,0, Full Time,bubble,Second game... on in Q4 for Betts,sub,Started as a sub
+281373,Jack,Redden,BL,30,108,131,87,85,117,13,14,6,6,0,2,1,0,0, Full Time,hot,%D and %M plus %T,,
+281329,Rohan,Bewick,BL,20,94,103,71,78,96,12,5,7,3,0,3,1,2,3, Full Time,news,%s from %P and %M on Tuohy... also %T,,
+270936,Jordan,Lisle,BL,18,88,83,64,74,94,12,7,10,1,2,0,0,0,2, Full Time,news,%s from %P and %M on Watson,,
+291548,Ryan,Lester,BL,15,75,93,42,62,81,13,7,4,1,0,3,1,1,0, Full Time,news,%P and %M plus %s,,
+270512,Pearce,Hanley,BL,14,73,73,44,60,84,13,7,6,2,0,0,2,0,0, Full Time,news,%P and %M... also %T and %F,job,Minding Betts
+230147,Daniel,Merrett,BL,18,72,86,49,63,81,11,6,10,0,0,0,1,0,0, Full Time,job,Standing Casboult... %P and %M,,
+200007,Jonathan,Brown,BL,12,71,77,55,59,73,8,5,4,2,2,1,0,2,2, Full Time,news,First goal... %s from %G and %P on White... also %H and %T,,
+296033,Steve,Wrigley,BL,9,70,71,43,54,72,12,5,5,2,0,1,0,0,0, Full Time,news,%P and %M with %T,,
+290748,Joshua,Green,BL,14,68,91,49,56,75,8,9,1,2,0,0,0,2,3, Full Time,news,%s from %D and %T on Tuohy,,
+240087,Jed,Adcock,BL,9,67,71,46,53,72,10,7,5,2,0,0,0,0,0, Full Time,tagged,Forward tag on him by Armfield... %P and %M,,
+270919,Tom,Rockliff,BL,13,66,61,49,51,75,9,10,2,4,0,0,1,0,0, Full Time,news,%P and %T plus %M,,
+261224,Dayne,Zorko,BL,15,63,71,53,50,69,7,7,3,4,0,0,1,1,0, Full Time,news,%O and %T with %M,,
+230170,Joel,Patfull,BL,10,61,84,46,52,66,9,3,8,2,0,2,2,0,0, Full Time,news,%O and %M plus %T,job,Running off Waite
+980007,Simon,Black,BL,8,53,61,46,42,60,5,10,2,3,0,0,0,0,0, Full Time,carrot,Tagged by Carrazzo... %O and %M with %T,,
+271072,Daniel,Rich,BL,8,47,44,32,40,58,7,8,2,2,0,1,2,0,1, Full Time,tagged,Tagged by Curnow... %P and %M plus %s,,
+240710,Ben,Hudson,BL,10,45,67,44,46,57,1,9,2,0,21,0,1,0,0, Full Time,news,%H and %D with %M,,
+292128,Elliot,Yeo,BL,4,45,58,34,35,48,6,5,3,2,0,0,0,0,0, Full Time,in,%l Matt Maguire... %P and %M,job,Chasing Garlett
+281048,Ryan,Harwood,BL,2,44,55,20,35,49,9,5,1,1,0,2,1,0,1, Full Time,job,Following Walker... %P and %s,,
+240013,Andrew,Raines,BL,4,43,36,30,34,49,7,4,2,3,0,1,2,0,1, Full Time,news,%P and %T plus %M,tagger,Tagging Murphy
+260975,James,Polkinghorne,BL,3,42,35,35,36,48,4,8,3,1,0,1,0,0,0, Full Time,news,%O and %M,,
+292035,Claye,Beams,BL,8,39,32,27,34,45,5,4,1,1,0,0,1,2,0, Full Time,news,On in Q4 for Banfield,sub,Started as a sub
+271071,Todd,Banfield,BL,2,23,22,18,16,22,3,2,0,2,0,1,0,0,1, Full Time,news,%s from %O and %T on Yarran,subbed,Subbed off in Q4 for Beams

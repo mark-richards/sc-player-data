@@ -380,6 +380,7 @@ def _parse_players(raw: dict, rnd: int) -> tuple[list[dict], list[dict]]:
                 "played_position":  position,
                 "points_x":         points,
                 "on_field":         on_field,
+                "picked":           p.get("picked", ""),
                 "feed_id":          feed_id,
                 "first_name":       first_name,
                 "last_name":        last_name,

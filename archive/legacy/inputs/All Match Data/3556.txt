@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Geelong,Cats,R20,9.6.60,25.11.161, Full Time
+Aug 14,2010,7:10,Docklands,Ten,960258,10282004,5015530,5223,Roof closed,15
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>tor01doc</em>: 1632 from 14 + c in DT. All 3 sc teams feet up this week.<br><em title="TMC44">tmc44</em>: go port!<br><em>EatEmA1ive</em>: 1628 from 13 in SC.  Capt played<br><em>adimax8</em>: omg sad bulldogs<br><em title="MTTY">mtty</em>: SC 1570 from 13 Swan my Captain<br><em>nathgb.79</em>: 1676 from 15 dt<br><em>miracleman</em>: finally ablett<br><em>eagles9294</em>: 1697 (15) capt still to come<br><em>Muels1</em>: collingwoods league that is!!!<br><em>panda</em>: easy boy! just asking<br><em>ramma7</em>: GREAT &#044; put in lake this week.<br><em>BlUeBoYs=1</em>: 156 sc gaj<br>
+200079,Daniel,Giansiracusa,WB,42,133,111,168,105,138,16,11,7,6,0,0,0,3,0, Full Time,hot,First goal... %s from %P and %M with %T
+220010,Matthew,Boyd,WB,25,112,82,141,88,127,18,17,3,4,1,1,1,0,0, Full Time,hot,Head to head with Ablett jnr... %D and %T
+210049,Daniel,Cross,WB,22,111,131,136,91,125,10,20,5,5,5,1,0,0,0, Full Time,hot,%O and %M with %T
+240156,Ryan,Griffen,WB,19,91,82,109,74,105,13,16,1,2,3,0,0,1,0, Full Time,tagged,Tagged by Kelly... %P and %T with %s
+200083,Robert,Murphy,WB,18,90,62,116,70,96,18,7,6,1,0,0,0,0,0, Full Time,tagged,Forward tag on him by Varcoe... %D and %M
+200082,Ryan,Hargrave,WB,9,82,66,104,65,90,15,9,5,1,0,0,0,0,0, Full Time,job,Minding Byrnes... %M and %O
+250712,Dale,Morris,WB,14,81,136,97,71,93,6,17,6,2,0,3,0,0,0, Full Time,job,Running off Menzel... %P and %M with %T
+200080,Lindsay,Gilbee,WB,15,67,55,84,54,72,9,7,4,2,0,0,0,1,0, Full Time,news,%D and %M
+280012,Jordan,Roughead,WB,11,61,37,74,54,67,5,6,4,2,16,1,1,0,0, Full Time,news,%H and %D with %M
+230255,Will,Minson,WB,10,57,51,72,44,55,5,4,2,4,10,2,0,0,0, Full Time,news,%H and %P with %T
+970100,Nathan,Eagleton,WB,8,57,28,72,44,61,9,7,2,2,0,1,0,0,1, Full Time,news,%P and %M plus %s
+960570,Barry,Hall,WB,15,56,51,69,52,63,6,4,7,0,0,0,1,2,0, Full Time,news,Booted %s from %G and %O on Scarlett
+240029,Brodie,Moles,WB,8,55,57,68,47,67,4,12,3,3,0,0,1,0,1, Full Time,tagger,Tagging Joel Selwood... %P and %M plus %s
+261257,Andrejs,Everitt,WB,8,53,34,71,43,57,10,2,6,1,0,0,1,0,0, Full Time,news,On a HFF on Laidler... %P and %T
+260227,Shaun,Higgins,WB,7,52,52,66,39,57,7,8,1,3,0,0,0,0,0, Full Time,news,%P and %T
+271439,Liam,Picken,WB,7,52,60,65,44,66,6,12,1,3,0,1,2,0,0, Full Time,mrp,Tagging Chapman... %D... an incident off the ball with Joel Selwood in Q2 will be looked at
+250150,Tom,Williams,WB,9,51,61,69,37,48,6,2,4,4,0,1,0,0,0, Full Time,sore,Following Mooney... %D and %T with %M... groin complaint in Q3... also headbutted Murphy's shoulder in Q4
+281078,Liam,Jones,WB,10,51,48,66,43,54,8,1,3,2,0,2,2,2,0, Full Time,news,Trying to keep Mackie honest... %s from %D
+280109,Callan,Ward,WB,3,42,38,51,37,51,5,9,2,1,0,2,1,0,0, Full Time,tagger,Tagging Bartel... %P
+960258,Brad,Johnson,WB,7,40,13,52,36,45,6,3,6,0,0,1,1,0,0, Full Time,sore,%O and %M on Hunt... left hip/groin knock in Q4
+220039,Brian,Lake,WB,4,38,38,50,30,42,6,4,2,2,0,1,1,0,0, Full Time,sore,Podsiadly kept him very busy... went forward during Q3 but that didn't work... struggled with a left hip problem... %D
+281139,Easton,Wood,WB,2,19,44,22,18,24,1,5,2,0,0,0,0,0,0, Full Time,injured,On Johnson... %M and %P... tweaked a hamstring and mothballed
+220001,Gary,Ablett jnr,GE,38,143,156,116,121,166,14,25,5,5,0,0,1,3,1, Full Time,hot,Head to head wtih Boyd... %O and %T with %M and %s
+250321,Joel,Selwood,GE,33,139,146,105,117,152,16,19,8,3,1,3,0,2,1, Full Time,gun,Tagged by Moles... %O and %M with %T plus %s
+200035,Corey,Enright,GE,27,127,154,84,95,135,20,14,5,6,0,0,0,0,0, Full Time,star,Enjoying the lack of a tag this week... %O and %T with %M
+220054,Steve,Johnson,GE,32,115,117,78,97,121,16,5,7,2,0,0,1,5,1, Full Time,hot,%s from %P and %M on Wood... also %T
+200039,Paul,Chapman,GE,26,107,80,58,90,118,19,8,8,0,0,0,1,2,1, Full Time,garbage,Tagged by Picken... %O and %M plus %s... scored heavily in Q4 garbage time
+220007,Jimmy,Bartel,GE,19,107,102,81,88,117,13,16,7,3,0,3,0,0,0, Full Time,hot,Tagged by Ward... %D and %T with %M
+230022,Shannon,Byrnes,GE,25,94,89,83,77,100,9,9,6,5,0,1,1,2,1, Full Time,garbage,%s from %D and %M with %T on Hargrave... enjoyed himself in second half junk time
+230248,Andrew,Mackie,GE,18,92,86,43,73,102,19,8,6,1,0,0,1,0,0, Full Time,job,Running off Jones... %P and %M
+220058,James,Kelly,GE,25,91,96,64,69,102,14,11,3,6,0,0,2,0,0, Full Time,tagger,Tagging Griffen... %B among %P with %T
+200131,James,Podsiadly,GE,21,86,110,81,74,91,6,8,7,3,0,0,0,3,1, Full Time,x-factor,%s from %P and %M... took Lake completely out of the play which destroyed the Dogs back structure... hip complaint in Q4
+230214,Mathew,Stokes,GE,15,82,64,53,70,95,12,11,5,1,0,0,1,1,2, Full Time,sore,%s from %D and %M... knock to the hand in Q3
+960375,Darren,Milburn,GE,13,78,92,45,64,84,14,6,7,1,0,2,1,0,0, Full Time,news,%D and %M
+250290,Travis,Varcoe,GE,20,69,100,54,58,75,7,8,2,2,0,0,0,3,0, Full Time,tagger,Forward tag on Murphy... %s from %P and %M
+990076,David,Wojcinski,GE,14,65,66,61,53,72,6,8,6,4,0,0,1,0,0, Full Time,news,%D and %T with %M
+980064,Brad,Ottens,GE,17,64,69,63,61,76,3,8,4,2,19,0,2,1,0, Full Time,news,%H and %D with %M and %T... also %s
+970006,Cameron,Mooney,GE,15,63,81,48,59,74,8,4,7,1,0,1,3,2,2, Full Time,sore,%s from %P and %G on Williams... left calf soreness in the second half
+280822,Taylor,Hunt,GE,8,62,72,40,51,72,9,11,3,1,0,0,0,0,0, Full Time,news,%P and %M
+270899,Jeremy,Laidler,GE,13,61,81,56,48,66,5,11,2,4,0,2,0,0,0, Full Time,in,%l Tom Lonergan... %D marking Everitt
+261510,Tom,Hawkins,GE,6,53,56,52,46,56,3,5,4,2,14,0,0,0,0, Full Time,news,%H and %T
+291307,Daniel,Menzel,GE,10,49,61,40,40,54,5,7,2,2,0,0,0,1,0, Full Time,rookie,First game... %s from %D with %T
+980037,Matthew,Scarlett,GE,4,46,61,32,35,48,7,4,3,2,0,0,0,0,0, Full Time,job,Standing Hall... %D and %M plus %T
+210059,Josh,Hunt,GE,7,42,60,30,41,60,5,12,3,0,0,0,2,0,0, Full Time,smiling,Going with Johnson... %P

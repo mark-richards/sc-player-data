@@ -1,0 +1,48 @@
+West Coast,Eagles,Fremantle,Dockers,R9,11.18.84,5.6.36, Full Time
+May 27,2012,4:40,Subiaco,Fox Sports,280078,10340909,430088,0,Sunny,22,,
+
+<em>TheAnt</em>: 2100 is par for supercoach<br><em>Cruise on</em>: Freo&#044; with 5 goals I hope you are enjoying Ross' game plan.<br><em>Slashers</em>: How good is waters this year?<br><em>rooboypete</em>: The last touches from Waters got me over the line :) :)<br><em>Ace Manuva</em>: 2128. Came home really strong&#044; so happy with that. played wrong rooks + Cloke<br><em>T-HeaveHo</em>: 2223 still lost my eliminator<br><em>Mithrandir</em>: Big FU to Paul Duffield this week...<br><em>buddyboyz</em>: @MontySnr 2057 mate<br><em>JimmyHayes</em>: @mcplugger name 10 forwards that are better than pav&#044; you're the dud<br><em>keenasabea</em>: woooo<br><em>Jovenites</em>: whats a par sc score this week?<br><em>whale607</em>: woo<br>
+250111,Matt,Rosa,WC,44,162,158,202,135,180,23,20,13,2,0,0,0,1,0, Full Time,medal,%P and %M with %T and %s,,
+220061,Quinten,Lynch,WC,26,116,92,150,93,116,19,3,11,2,2,1,0,1,3, Full Time,hot,Kicked %s from %D and %G on McPharlin,,
+240016,Beau,Waters,WC,30,116,128,153,89,117,19,6,10,4,0,1,0,0,0, Full Time,hot,His hamstring is fine... %D and %M with %T,,
+290801,Andrew,Gaff,WC,19,111,117,147,84,116,25,4,7,2,0,0,1,0,2, Full Time,hot,%P and %M plus %s,,
+261209,Josh,Hill,WC,32,109,107,139,83,106,14,4,4,6,0,1,0,3,4, Full Time,hot,%s from %D and %M on Broughton... also %T,,
+261290,Chris,Masten,WC,25,109,91,141,86,115,15,10,9,4,0,0,0,0,1, Full Time,hot,%O and %M with %T,,
+240124,Matt,Priddis,WC,26,108,119,133,88,120,10,18,5,5,0,1,0,1,0, Full Time,hot,%2 Mundy... %O and %T plus %M and %s,,
+280078,Luke,Shuey,WC,25,103,138,130,78,105,15,11,2,5,0,4,0,1,0, Full Time,hot,%D and %T... also %4 FF,mrp,A punch to the guts of Duffield off the ball in Q4 will be scrutinised
+281080,Brad,Sheppard,WC,30,101,78,135,77,100,12,5,10,6,0,0,0,0,1, Full Time,hot,Playing a small forward role... %s from %D and %M with %T,,
+200112,Dean,Cox,WC,21,89,68,110,80,99,7,8,8,3,20,1,2,0,1, Full Time,garbage,%P and %M on Dawson... also %H and %T... racked up possies in Q4 garbage time,,
+271045,Nic,Naitanui,WC,18,81,94,97,72,87,5,6,5,3,23,0,1,1,1, Full Time,fiji,%H and %P with %M and %T... also %s,,
+250317,Eric,Mackenzie,WC,14,76,78,97,64,82,6,9,9,3,1,0,0,0,0, Full Time,job,Has Pavlich... %P and %T with %M,,
+290838,Jack,Darling,WC,21,74,67,94,62,79,6,6,6,4,0,0,1,2,1, Full Time,news,Booted %s from %P and %G on Silvagni,,
+240283,Shannon,Hurn,WC,9,72,108,94,57,76,13,5,5,2,0,2,1,0,1, Full Time,job,Neale manning him up... %P and %M with %T and %s,,
+270928,Scott,Selwood,WC,14,71,71,89,59,81,4,14,4,5,0,2,1,0,0, Full Time,news,%2 Hill... %P and %M with %T,,
+200074,Darren,Glass,WC,13,70,107,88,60,78,8,9,8,1,0,0,0,0,0, Full Time,rock,On Clarke... %D and %M,,
+230254,Adam,Selwood,WC,8,62,59,80,50,69,12,6,4,1,0,1,1,0,0, Full Time,news,%P,,
+240159,Sam,Butler,WC,8,61,83,79,50,63,9,4,7,1,0,1,0,0,0, Full Time,injured,Responsible for de Boer... %D and %M... right thigh iced up in Q3,subbed,Subbed off in Q3 for Brennan
+210018,Daniel,Kerr,WC,3,44,48,56,36,47,8,4,2,1,1,3,1,0,1, Full Time,creepy,Tagged by Crowley... %O and %s,,
+280441,Patrick,McGinnity,WC,8,43,35,56,32,43,3,5,2,4,0,1,0,0,1, Full Time,news,Playing small forward... %s from %O with %T,,
+261214,Will,Schofield,WC,9,39,49,49,34,45,7,3,3,0,0,0,1,1,0, Full Time,job,Chasing Mayne... %P and %M plus %s,,
+280324,Jacob,Brennan,WC,0,16,11,22,11,15,3,0,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Butler,sub,Started as a sub
+292026,Michael,Barlow,FR,25,103,90,78,75,106,14,11,3,7,0,1,0,0,1, Full Time,hot,%O and %M with %T and %s,,
+200032,Matthew,Pavlich,FR,21,97,113,76,70,99,13,9,4,7,0,0,0,0,0, Full Time,news,%D and %T with %M on Mackenzie,,
+230107,Michael,Johnson,FR,15,96,120,63,77,103,15,9,8,2,1,0,0,0,0, Full Time,news,%P and %M,,
+220096,Aaron,Sandilands,FR,20,84,71,63,75,93,9,8,4,1,27,1,1,0,0, Full Time,news,%H and %P with %M,,
+261756,Greg,Broughton,FR,20,80,74,61,59,87,11,10,2,6,0,0,1,0,0, Full Time,job,In defence on Hill... %D and %M with %T,,
+200045,Luke,McPharlin,FR,13,78,76,53,64,82,12,5,9,1,0,0,0,0,1, Full Time,job,Standing Lynch... %P and %M,,
+240139,Paul,Duffield,FR,16,72,76,58,52,73,10,4,4,6,0,0,1,0,1, Full Time,sore,Started in midfield then went loose in defence in Q3... %O and %M with %T and %s... copped a punch in the guts in Q4 from Shuey that had him go off,,
+271015,Matthew,de Boer,FR,26,68,77,75,48,67,4,6,1,9,0,1,1,1,1, Full Time,news,%P and %T on Butler,,
+260069,Hayden,Ballantyne,FR,14,65,76,39,50,67,11,4,3,2,0,0,0,1,1, Full Time,news,First goal... %s from %D and %M with %T,,
+280416,Chris,Mayne,FR,15,63,73,53,55,75,6,11,4,2,0,0,1,1,0, Full Time,news,KJicked %s from %O and %M on Schofield,,
+290251,Zachary,Clarke,FR,11,61,67,52,49,63,6,5,3,3,5,0,0,1,1, Full Time,news,%s from %D and %T with %M on Glass,,
+271433,Alex,Silvagni,FR,5,60,78,42,47,60,9,4,5,2,0,2,0,0,0, Full Time,job,On Darling... %O and %M,,
+240052,David,Mundy,FR,7,53,59,37,44,60,7,9,3,1,0,1,0,0,0, Full Time,news,%2 Priddis... %D with %M,,
+280336,Stephen,Hill,FR,14,53,67,45,36,54,7,4,1,6,0,0,1,0,0, Full Time,news,%2 Scott Selwood... %O and %T,,
+293535,Lachie,Neale,FR,14,50,65,44,36,57,6,7,0,6,0,0,2,0,0, Full Time,news,%O on Hurn... also %F,,
+290296,Jesse,Crichton,FR,5,46,40,39,37,48,5,5,4,2,0,1,0,0,0, Full Time,news,%D and %M,,
+280726,Tendai,Mzungu,FR,2,36,33,20,25,36,7,2,1,2,0,0,0,0,0, Full Time,cold,%P and %T,,
+270681,Jay,van Berlo,FR,3,33,21,25,26,36,5,2,3,2,0,0,1,0,0, Full Time,news,On in Q3 for Griffin... %D,sub,Started as a sub
+280386,Clancee,Pearce,FR,3,32,36,29,28,42,4,4,3,3,0,0,3,0,0, Full Time,pumpkin,%D and %T with %M... also %F,,
+250088,Jonathon,Griffin,FR,3,26,47,24,24,30,2,3,2,1,6,1,1,0,0, Full Time,news,%P and %M with %H,subbed,Subbed off in Q3 for van Berlo
+240552,Zac,Dawson,FR,6,15,35,12,17,24,2,2,1,1,0,1,3,1,0, Full Time,job,On big Cox... %D... also %F and a late %s,,
+230048,Ryan,Crowley,FR,2,14,0,6,12,21,4,1,0,2,0,1,3,0,0, Full Time,tagger,Tagging Kerr... %O and %T... also %F,,

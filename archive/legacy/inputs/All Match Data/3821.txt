@@ -1,0 +1,48 @@
+Essendon,Bombers,Richmond,Tigers,R16,15.15.105,9.12.66, Full Time
+Jul 9,2011,7:10,MCG,Ten,200026,10311604,5590,121,Windy,14,,
+It will have to wait for 2011. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>FFScience</em>: bombers 3-1 flag!<br><em>WEEEagles</em>: Tigers of old&#044; they're crap and they'll fold. O we're from....<br><em>wadaramus</em>: Tough luck Rated_RKO<br><em>Sunday2810</em>: anyone see that paddy ryder tackle that CD missed?  He should be on 81<br><em>Priddis</em>: Tigers of Old<br><em>Rated_RKO</em>: 1238 from 14 in SC with capt ablett ... not happy considering in dt i had hodge capt and i forgot to change it in sc <br><em>Rhodie</em>: tigers worse loss for the year&#044; very embarrassing<br><em>W.Mantooth</em>: clearly not<br><em>masterdead</em>: interesting. Cats lose second in a row. Bombers win second in a row.<br><em>lezzz56</em>: Push up king!!!!<br><em>lezzz56</em>: Get a push up icon!!<br><em>McRooster</em>: Very misleading to name Stanton as possible Seagull m0nty in the coinflips&#044; bad pool >:(<br>
+240027,Brent,Stanton,ES,56,135,121,179,99,139,14,13,4,13,0,2,2,1,1, Full Time,star,Tagged by Jackson... %O and %T with %M,,
+270951,David,Zaharakis,ES,26,107,110,134,88,117,15,12,8,2,0,0,0,1,0, Full Time,hot,%D and %M plus %s,,
+290629,Dyson,Heppell,ES,21,102,86,129,84,108,12,9,9,3,3,0,0,1,0, Full Time,hot,First goal... %P and %M plus %s,,
+292503,Stewart,Crameri,ES,25,92,101,115,79,98,13,5,6,2,0,3,2,3,2, Full Time,x-factor,%s from %P and %G on McGuane,,
+250569,Heath,Hocking,ES,25,91,113,118,69,91,10,8,3,7,0,4,1,1,1, Full Time,tagger,Tagging Cotchin... %P and %T with %M and %s... also %4 frees for,sore,Dislocated finger in Q2... corked right buttock in Q4
+200026,David,Hille,ES,21,89,102,106,81,95,8,5,7,1,24,1,1,1,2, Full Time,news,%s from %P with %M on Rance... also %H,,
+240290,Angus,Monfries,ES,32,88,110,111,71,93,7,8,4,6,0,0,1,3,0, Full Time,news,%s from %O with %M and %T on Grigg,,
+250267,Patrick,Ryder,ES,32,81,97,101,67,82,6,3,2,6,25,2,2,1,0, Full Time,news,%P and %M with %s... also %H and %F,,
+260073,Ben,Howlett,ES,26,80,73,108,58,81,8,7,4,8,0,1,1,0,0, Full Time,news,%D and %T with %M,,
+230051,Alwyn,Davey,ES,21,76,84,99,56,73,8,5,3,6,0,2,0,1,1, Full Time,news,%s from %P and %T on Newman,,
+990046,Mark,McVeigh,ES,21,72,62,96,50,69,10,3,2,6,0,0,0,1,0, Full Time,tagger,Tagging Nahas... %D and %T,,
+250049,Brent,Prismall,ES,9,71,69,87,60,81,9,12,5,1,0,1,0,0,0, Full Time,news,%2 Deledio... %O and %M,,
+261324,Kyle,Reimers,ES,15,70,66,96,51,69,11,2,3,6,0,3,2,0,3, Full Time,news,%s from %O and %T,,
+270584,Kyle,Hardingham,ES,9,64,71,82,53,69,7,7,7,2,0,0,0,0,0, Full Time,news,%O and %M,,
+960197,Dustin,Fletcher,ES,14,63,106,86,48,69,11,4,4,4,0,0,2,0,0, Full Time,job,On Post... %D,,
+290160,Michael,Hibberd,ES,8,62,75,80,49,66,11,5,5,1,0,0,0,0,0, Full Time,job,Kept busy as the Tigers  are rotating their resting midfielders through him.... %P and %M,,
+271022,Tayte,Pears,ES,8,60,69,77,50,72,8,10,3,3,0,1,2,0,0, Full Time,job,Moved from Vickery to Riewoldt in Q3... %D with %k by foot... also %T,,
+250352,Leroy,Jetta,ES,14,57,62,72,45,63,4,9,1,5,0,1,1,1,0, Full Time,news,%P and %T,,
+270935,Michael,Hurley,ES,8,50,75,64,43,54,7,4,7,0,0,0,0,0,0, Full Time,switch,At FB on Riewoldt... %M and %P... switched forward late after his knock,sore,Smashed in the ribs by a teammate in Q3
+280824,Jake,Melksham,ES,3,33,45,45,30,47,5,6,1,3,0,1,4,0,2, Full Time,news,%D and %T plus %s,,
+280988,Travis,Colyer,ES,3,29,21,40,26,36,7,1,4,0,0,0,2,0,0, Full Time,injured,%P and %M... concussed in Q2,subbed,Subbed off in Q3 for Dyson
+230060,Ricky,Dyson,ES,7,20,21,28,16,27,0,5,0,4,0,0,2,0,0, Full Time,spud,On in Q3 for Colyer,sub,Started as a sub
+270896,Trent,Cotchin,RI,26,119,94,68,93,123,22,5,9,3,0,1,1,1,0, Full Time,hot,Tagged by Hocking... %P and %M plus %T and %s,,
+210048,Chris,Newman,RI,20,106,116,67,79,105,19,3,8,5,0,2,1,0,0, Full Time,hot,%P and %M,,
+270941,Tyrone,Vickery,RI,26,95,102,90,81,100,6,11,5,4,16,2,0,1,0, Full Time,news,%s from %P with %M on Pears... also %T and %H,,
+240130,Nathan,Foley,RI,50,91,112,92,72,105,7,12,2,10,0,0,4,2,0, Full Time,news,%P and %T with %s.. also %F,,
+260930,Shane,Edwards,RI,14,87,79,58,72,94,13,9,8,1,0,1,0,0,1, Full Time,news,%D and %M,,
+291437,Jake,Batchelor,RI,14,82,83,59,67,90,11,11,6,2,0,1,0,0,0, Full Time,news,%B among %D with %M,,
+240336,Brett,Deledio,RI,19,74,71,69,60,84,6,12,3,5,0,0,1,1,0, Full Time,sore,Knock to the jaw in Q1... head to head with Prismall... %P and %s,,
+250298,Shaun,Grigg,RI,13,72,61,53,60,78,10,6,7,2,1,1,1,0,2, Full Time,job,Minding Monfries... %P and %s,,
+290847,Dustin,Martin,RI,15,69,67,50,60,75,9,5,6,1,0,1,1,2,0, Full Time,news,%P and %M plus %s,,
+293315,Bradley,Helbig,RI,13,67,77,50,54,72,9,7,6,2,0,0,0,0,0, Full Time,news,%O and %M,,
+250662,Will,Thursfield,RI,9,65,80,53,51,66,8,5,6,3,0,1,0,0,0, Full Time,job,Chasing Reimers... %D and %T with %M,,
+250312,Bachar,Houli,RI,8,63,69,34,53,72,12,6,5,1,0,2,2,0,0, Full Time,news,%K among %P with %M,,
+250623,Robin,Nahas,RI,9,63,73,57,54,72,5,12,5,2,0,1,0,0,0, Full Time,tagged,Tagged by McVeigh... %P and %M plus %s,,
+290823,Reece,Conca,RI,8,63,51,37,52,69,11,6,5,1,0,2,1,0,0, Full Time,news,%P and %M,,
+240707,Daniel,Jackson,RI,12,60,70,42,45,63,9,6,1,4,0,2,1,0,3, Full Time,tagger,Tagging Stanton... %D and %T plus %s,,
+250395,Jack,Riewoldt,RI,11,60,59,46,46,58,8,2,4,3,0,1,0,1,1, Full Time,news,Booted %s from %G and %O on Hurley then Pears... also %T,,
+261362,Alex,Rance,RI,9,56,62,28,48,69,12,5,4,2,0,2,4,0,0, Full Time,job,On the resting ruckman... %O and %M... also %F,,
+240256,Luke,McGuane,RI,4,46,62,38,41,54,5,7,5,1,0,1,1,0,0, Full Time,job,Has Crameri... %M and %O,,
+270315,Jayden,Post,RI,9,45,49,38,37,50,6,1,3,4,8,1,3,0,0, Full Time,news,%s from %D and %T with %M on Fletcher,,
+280747,Ben,Griffiths,RI,10,45,63,38,38,47,5,2,4,2,1,1,1,1,1, Full Time,news,Kicked %s from %P and %G,subbed,Subbed off in Q4 for Hislop
+271437,Jake,King,RI,3,43,49,36,32,42,5,4,2,3,0,2,0,0,0, Full Time,sore,%O... right knee knock in Q2,,
+240313,Tom,Hislop,RI,0,14,13,13,11,16,1,3,0,1,1,0,0,0,0, Full Time,news,On in Q4 for Griffiths,sub,Started as a sub

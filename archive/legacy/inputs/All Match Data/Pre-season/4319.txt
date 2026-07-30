@@ -1,0 +1,52 @@
+Western Bulldogs,Bulldogs,Hawthorn,Hawks,W2,1.10.6.75,2.8.8.74, Full Time
+Mar 01,2013,7.40,Docklands,Seven,,10380201,,0,Fine,22,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>Pies1994</em>: goodes lots of cheapies at the end&#044; still a lock<br><em>mufc</em>: agree worrall the site has bugs<br><em>Dangeroo</em>: griffen i mean&#044; woops<br><em>Dangeroo</em>: can someone check the % for murphy in teams?<br><em>ben251090</em>: Goodes close to a lock?<br><em>feralmong</em>: i better get back on footy b4 monty kick me where it hurts and spill my fuic<br><em>Dangeroo</em>: i want that shirt so bad aha<br><em>SydneyRox</em>: love my buddy gaj double in dt elite!<br><em>J.Worrall</em>: yeah mufc - whole site is slow as for more than a week - infections?<br><em>feralmong</em>: this one dangeroo 'Nothin's Gonna Change My Love For Farmers Union Iced Coffee ' just watched it. gold.<br><em>mufc</em>: i posted that last post like 5 mins ago when they were now mitchell and bddy have picked up again<br><em>mufc</em>: fantasy wise doggies are killing them<br>
+240156,Ryan,Griffen,WB,31,99,87,132,77,102,14,3,7,6,0,0,2,2,0, Full Time,news,%2 Sewell... %P and %T with %M and %s,,
+220010,Matthew,Boyd,WB,19,98,104,123,74,108,16,15,1,4,0,1,0,0,0, Full Time,news,%O and %T... played forward after Q2,,
+290799,Tom,Liberatore,WB,14,80,86,104,61,87,11,10,3,5,0,1,1,0,0, Full Time,news,%2 Simpkin... %O and %T with %M,,
+280012,Jordan,Roughead,WB,13,77,85,98,65,84,10,8,9,1,0,0,0,0,0, Full Time,job,Big job on Franklin... %M and %D,,
+261160,Brett,Goodes,WB,11,70,93,93,52,66,12,0,5,3,0,1,0,1,0, Full Time,news,%P and %T with %M and %s,,
+295712,Tory,Dickson,WB,28,67,81,93,51,72,6,4,4,8,0,0,3,1,0, Full Time,news,%s from %D and %T on Guerra... also %M and %F,,
+230255,Will,Minson,WB,21,66,104,78,66,81,10,3,2,0,36,3,5,0,0, Full Time,news,%H and %P... also %M and %F,,
+200083,Robert,Murphy,WB,18,65,83,82,57,72,10,5,7,0,0,1,1,1,0, Full Time,news,First goal... %s from %P and %M on Stratton,,
+293847,Clay,Smith,WB,14,65,100,86,52,72,9,7,4,4,0,2,2,0,0, Full Time,news,%2 Mitchell.. %P and %M... also %T and %F,,
+281139,Easton,Wood,WB,9,59,65,78,48,63,9,4,6,2,0,1,1,0,0, Full Time,job,Following Gunston... %O and %M with %T,,
+291526,Luke,Dahlhaus,WB,10,55,66,69,43,54,8,4,2,2,0,3,0,1,0, Full Time,news,%s from %P and %T with %M... spent Q1 on Suckling,,
+210049,Daniel,Cross,WB,5,52,73,65,44,57,4,8,5,2,0,1,0,0,0, Full Time,news,%2 Smith on a wing... %P and %M plus %T,,
+281078,Liam,Jones,WB,9,52,75,65,44,51,8,1,5,0,0,2,0,1,3, Full Time,news,%s from %G and %P on Schoenmakers,,
+260713,Nick,Lower,WB,8,50,43,67,35,48,5,4,2,5,0,1,0,0,0, Full Time,news,%P and %M with %T,subbed,Subbed off in Q3 for Macrae
+250601,Lukas,Markovic,WB,5,47,70,64,38,54,7,4,4,3,0,0,2,0,0, Full Time,job,On whoever of Roughead or Hale is resting forward... %D and %T with %M and %F,,
+294101,Jason,Johannisen,WB,8,45,47,58,35,48,10,2,1,1,0,1,1,1,0, Full Time,job,In defence on Savage... %D and %s,,
+280946,Koby,Stevens,WB,9,44,44,54,36,45,6,4,2,1,0,2,0,1,0, Full Time,news,%D and %M plus %s,subbed,Subbed off in Q3 for Wallis
+280056,Ayce,Cordy,WB,4,35,32,44,34,45,3,5,4,1,5,0,2,0,1, Full Time,news,%s from %P and %M on Spangher... also %H,,
+271439,Liam,Picken,WB,3,33,33,42,31,45,4,7,3,1,0,0,2,0,0, Full Time,job,Playing a BP role on Breust... %O and %M... also %F,,
+295467,Jackson,Macrae,WB,2,32,48,39,28,33,4,4,3,0,0,3,0,0,0, Full Time,news,On in Q3 for Lower... %O and %M,sub,Started as a sub
+291545,Mitch,Wallis,WB,2,28,50,35,24,33,6,4,1,0,0,2,1,0,0, Full Time,news,On in Q3 for Stevens... %D,sub,Started as a sub
+250712,Dale,Morris,WB,2,22,41,29,20,27,4,2,3,0,0,0,1,0,0, Full Time,job,Uncustomarily having to deal with Hawk talls tonight... %P and %M,,
+293884,Jake,Stringer,WB,7,21,29,28,14,18,1,0,0,3,0,0,0,1,0, Full Time,injured,On in Q3 for Giansiracusa... %D and %T plus %s... left ankle twisted under Spangher in a tackle in Q4,sub,Started as a sub
+200079,Daniel,Giansiracusa,WB,1,18,14,23,13,18,5,1,0,0,0,1,0,0,0, Full Time,news,%P including %K,subbed,Subbed off in Q3 for Stringer
+240399,Lance,Franklin,HW,26,99,134,79,86,106,11,6,7,3,0,2,2,4,1, Full Time,news,Booted %s from %G and %P on Roughead plus a supergoal... also %T and %F,,
+220073,Sam,Mitchell,HW,20,82,81,62,62,87,12,7,4,6,0,2,2,0,0, Full Time,news,%2 Smith... %P and %T... also %M and %F,,
+294877,Isaac,Smith,HW,15,74,79,55,61,82,9,10,4,2,1,0,0,1,0, Full Time,news,%2 Cross on a wing... %P and %M with %s and %T,,
+280471,Ben,Stratton,HW,5,65,57,43,50,67,11,3,5,3,0,1,1,0,1, Full Time,job,On Murphy... %D and %T plus %M and %s,,
+250089,Jordan,Lewis,HW,9,64,76,49,52,68,8,7,5,2,1,1,0,0,1, Full Time,news,%P and %T with %M in a forward role that netted only %s,,
+270732,Matt,Suckling,HW,12,60,35,38,50,67,10,5,6,1,0,0,1,0,1, Full Time,news,Running after Dahlhaus... %D and %M plus %s,,
+250652,Jonathan,Simpkin,HW,5,58,76,48,48,61,6,8,4,2,0,3,0,0,1, Full Time,news,%2 Liberatore... %O and %M plus %T and %s,,
+220036,David,Hale,HW,12,54,73,51,51,61,3,5,2,2,12,2,2,2,1, Full Time,injured,%H and %P plus %M and %s... also %F... right foot injury flared up at 3QT,subbed,Subbed off at 3QT
+200060,Brent,Guerra,HW,4,52,78,32,41,57,9,5,3,2,0,1,1,0,0, Full Time,job,Minding Dickson... %D and %M with %T,,
+240357,Jarryd,Roughead,HW,11,51,85,43,45,61,6,4,2,4,12,2,4,0,1, Full Time,news,%s from %P and %M when up forward on Markovic.... also %H and %T,,
+230197,Brad,Sewell,HW,3,48,55,34,35,48,7,5,1,3,0,2,0,0,0, Full Time,news,%2 Sewell... %O and %T,,
+281301,Ryan,Schoenmakers,HW,4,48,79,27,41,57,9,5,4,1,0,1,2,0,0, Full Time,job,Standing Jones... %P and %M... also %F,,
+280858,Shane,Savage,HW,9,46,35,22,37,48,9,2,3,0,0,0,0,1,0, Full Time,news,Playing a forward role on Johannisen... donuts in Q1 including a sitter mark that bounced off his chest... %s from %P and %M,,
+291861,Jed,Anderson,HW,13,46,54,45,27,39,5,1,0,7,0,1,0,0,0, Full Time,news,%D and %T,,
+270215,Kyle,Cheney,HW,4,44,53,32,35,51,7,4,3,3,0,0,2,0,0, Full Time,news,%K among %D with %T and %M... also %F,,
+250715,Josh,Gibson,HW,4,40,67,32,33,45,5,5,3,2,0,1,1,0,0, Full Time,news,%P and %M with %T,,
+295584,Bradley,Hill,HW,4,38,40,25,31,48,7,4,2,3,0,0,3,0,0, Full Time,news,%P and %T... also %M and %F,,
+290085,Taylor,Duryea,HW,3,36,22,25,29,39,5,5,2,1,0,1,0,0,0, Full Time,news,%D and %M,subbed,Subbed off in Q4 for Frank
+250654,Matt,Spangher,HW,1,29,49,14,23,33,6,3,1,1,0,1,1,0,0, Full Time,job,Bit of a mismatch on Cordy... %D,,
+291351,Jack,Gunston,HW,2,26,39,18,22,30,4,3,2,1,0,1,1,0,0, Full Time,wood,Has Wood... %D and %M,,
+292013,Sam,Grimley,HW,3,25,42,26,22,29,1,4,0,2,8,1,1,0,0, Full Time,news,On in Q4 for Hale... %H and %P with %T,sub,Started as a sub
+280744,Luke,Breust,HW,2,24,24,20,19,27,3,3,1,2,0,1,1,0,0, Full Time,news,%O and %T on Picken,subbed,Subbed off for Wanganeen early in Q3
+291300,Derick,Wanganeen,HW,1,16,8,11,13,18,3,0,2,1,0,0,1,0,0, Full Time,sore,On in Q3 for Breust... left shoulder knock in Q3... %P and %M,sub,Started as a sub
+296091,Amos,Frank,HW,0,2,0,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Duryea... one handball,sub,Started as a sub

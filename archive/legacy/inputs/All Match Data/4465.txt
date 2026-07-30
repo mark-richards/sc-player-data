@@ -1,0 +1,48 @@
+Essendon,Bombers,Brisbane,Lions,R8,12.14.86,14.12.96, Full Time
+May 18,2013,1.45,Docklands,Seven,200007,10390802,ess-v-bl,0,Roof closed,16,,
+
+<em>SuperHonky</em>: chook79: it wasn't the winning goal&#044; that's why<br><em>Jukes82</em>: wasn't the winning goal<br><em>Jmachete</em>: points for from behind winning goal not sealer <br><em>linusp</em>: ffs stanton...<br><em>biggs2dujj</em>: I bet Zorko got paid the winning goal<br><em>chook79</em>: How is Staker only on 68 after kicking the sealer?<br><em>JoeMontana</em>: same as last year&#044; fast start&#044; juiced up&#044; and now wear and tear is going&#044; hahaha!<br><em>buddyboyz</em>: bombers aren't so good after all<br><em>jocka</em>: I love you Lions!<br><em>Dos95</em>: how does supercoach work with the winning goal?<br><em>HarleyL</em>: its over&#044; dons are fake ! <br><em>Heizenberg</em>: siren<br>
+230231,Jobe,Watson,ES,30,119,144,149,96,129,15,14,7,4,0,0,0,1,3, Full Time,hot,Playing forward a fair bit... %D and %T plus %M and %s,,,490300,140,576900,158,Centre,4
+250569,Heath,Hocking,ES,27,109,96,139,84,112,11,12,5,7,0,2,0,1,1, Full Time,hot,%P and %T plus %s,tagger,Tagging Moloney,304700,83,280400,50,Centre,39
+230084,Brendon,Goddard,ES,15,106,111,136,81,114,23,9,5,1,0,0,0,0,0, Full Time,hot,%2 Black... %O and %M,,,507600,102,529400,115,Back Centre,9
+250267,Patrick,Ryder,ES,26,94,101,115,85,107,9,8,6,3,23,1,3,1,0, Full Time,news,%H and %D with %M,,,441700,101,543600,94,Forward Ruck,30
+290629,Dyson,Heppell,ES,21,94,86,115,79,107,15,11,4,1,0,0,1,2,2, Full Time,news,Matched up on Zorko... %D and %s,,,470000,116,478000,107,Back Centre,21
+290160,Michael,Hibberd,ES,9,83,71,105,66,90,15,9,5,1,0,1,0,0,0, Full Time,heart,%P and %M... tweak in left adductor in Q1,job,Responsible for Bewick,446400,82,510600,97,Back,1
+290641,Jake,Carlisle,ES,13,83,94,102,71,93,10,13,7,1,0,2,0,0,0, Full Time,job,Following Brown... %O and %M,,,298000,72,384400,77,Back,22
+292503,Stewart,Crameri,ES,20,81,100,101,67,85,8,7,6,3,0,0,0,2,1, Full Time,news,Kicked %s from %P and %M on Clarke,,,334900,68,408100,81,Forward,12
+270588,Cale,Hooker,ES,14,80,100,98,70,93,10,13,8,0,0,0,0,0,0, Full Time,job,Has Lisle... %O and %M,,,337800,60,406500,78,Back,26
+240027,Brent,Stanton,ES,15,78,51,102,60,85,12,8,4,4,0,0,1,0,1, Full Time,news,%P,rain,Tagged by Raines,554900,182,539600,165,Centre,5
+270951,David,Zaharakis,ES,13,75,75,94,58,84,17,9,2,0,0,0,0,0,0, Full Time,tagged,Tagged by Yeo... %O,,,479100,82,512600,102,Centre,11
+291804,Elliott,Kavanagh,ES,19,75,67,95,63,84,10,8,6,2,0,0,1,1,0, Full Time,sore,%s from %P and %M on Patfull... smashed in the torso by a charging Clarke in Q1 which left him sore,,,165900,,139100,,Centre,28
+261320,Tom,Bellchambers,ES,20,74,85,86,68,76,4,4,6,1,19,1,0,2,0, Full Time,news,%H and %P with %M and %s,,,411900,107,451800,118,Ruck,2
+280824,Jake,Melksham,ES,8,69,73,89,52,73,13,6,3,2,0,0,0,0,1, Full Time,news,%O and %M plus %s,,,338600,62,330300,68,Centre,17
+260073,Ben,Howlett,ES,19,68,73,88,55,75,9,7,3,4,0,2,2,1,0, Full Time,news,On in Q1 for Hurley... %P and %T... also %F,sub,Started as a sub,393600,83,394400,102,Centre,40
+291686,Nick,Kommer,ES,14,61,42,84,43,58,6,3,3,7,0,2,1,0,1, Full Time,cash,Forward role on Adcock... %s from %D and %T... also %M,,,191700,10,239400,15,Centre,38
+230238,Jason,Winderlich,ES,9,59,68,74,48,65,7,8,4,2,0,0,0,0,2, Full Time,news,%P on McGrath,,,278400,16,270200,-23,Forward,8
+294798,Mark,Baguley,ES,8,56,65,71,46,63,6,9,3,3,0,2,1,0,0, Full Time,tagger,Forward tag role on Hanley.... %P and %M,,,308500,48,320200,59,Back,46
+960197,Dustin,Fletcher,ES,5,56,71,74,42,57,10,3,4,2,0,0,0,0,0, Full Time,job,Manned up by Rockliff to start with but mostly on Lester.... %D and %M,,,308900,93,383000,137,Back,31
+261314,David,Myers,ES,13,55,51,67,48,66,7,9,3,1,0,0,1,1,0, Full Time,news,%P and %M plus %s,,,387700,38,385700,38,Back,23
+295285,Jackson,Merrett,ES,3,36,35,44,31,42,5,6,3,0,0,0,0,0,0, Full Time,cash,%D,,,227200,9,234600,10,Centre,20
+270935,Michael,Hurley,ES,0,1,2,1,1,0,0,0,0,0,0,1,0,0,0, Full Time,concussed,Dazed after a sling tackle that drove his head into the ground in Q1 by Merrett,subbed,Subbed off in Q1 for Howlett,364200,89,432900,94,Forward,18
+281373,Jack,Redden,BL,50,119,125,112,84,115,11,11,2,12,0,3,0,1,1, Full Time,star,%D and %T plus %M and %s,,,475800,112,495800,118,Centre,30
+261224,Dayne,Zorko,BL,31,103,124,79,78,102,13,6,3,6,0,1,0,3,0, Full Time,heart,First goal and the second one as well... matched up on Heppell... %O and %T with %M and %s... got a kick to a knee in Q2,,,423400,123,493300,164,Forward Centre,15
+270512,Pearce,Hanley,BL,25,96,111,60,79,102,17,2,11,2,0,0,2,1,0, Full Time,tagged,Forward tag on him by Baguley... %P and %M,,,456300,60,529300,93,Back,11
+200007,Jonathan,Brown,BL,26,92,76,68,79,98,13,2,11,2,0,0,2,2,2, Full Time,news,Booted %s from %G and %D on Carlisle,,,351300,115,373000,114,Forward,16
+290110,Mitchell,Golby,BL,40,88,85,91,61,84,7,7,4,10,0,1,0,0,0, Full Time,news,%O and %T,,,357500,37,385400,60,Back,41
+240087,Jed,Adcock,BL,19,87,82,53,65,90,16,4,6,4,0,0,1,0,0, Full Time,job,Kommer manning him up... %P and %T with %M,,,429200,90,481900,104,Back,7
+281329,Rohan,Bewick,BL,19,86,72,67,66,85,12,3,9,4,0,0,0,0,1, Full Time,news,%D and %M on Hibberd,,,331900,104,343700,104,Forward,8
+270919,Tom,Rockliff,BL,18,83,81,67,65,84,10,7,6,4,0,2,0,0,3, Full Time,news,Started forward on Fletcher then quickly into midfield... %D and %T with %M,,,509700,120,532200,74,Forward Centre,38
+270936,Jordan,Lisle,BL,19,78,77,58,66,82,10,5,8,1,2,0,0,1,2, Full Time,news,Kicked %s from %D and %G on Hooker... also %H,,,260500,,304800,,Forward,19
+230151,Brent,Moloney,BL,25,77,75,66,56,78,9,6,2,7,0,1,1,1,0, Full Time,tagged,Tagged by Hocking... %P and %T with %M,,,403100,61,481100,103,Centre,3
+230170,Joel,Patfull,BL,10,75,76,60,59,75,10,3,9,3,0,0,0,0,0, Full Time,job,Responsible for Kavanagh... %O and %M with %T,,,253600,57,322700,83,Back,24
+250335,Matthew,Leuenberger,BL,32,70,86,59,69,79,5,2,2,1,43,1,3,1,0, Full Time,news,%H and %D plus %s,,,354700,64,434000,66,Ruck,23
+260975,James,Polkinghorne,BL,14,66,69,37,55,78,11,10,2,1,0,0,1,1,0, Full Time,news,%P,,,345200,53,360800,62,Centre,31
+980007,Simon,Black,BL,14,65,60,47,52,72,9,7,3,3,0,0,1,1,0, Full Time,news,%2 Goddard... %D and %M plus %T and %s,subbed,Subbed off in Q3 for Mayes,421300,,497300,,Centre,20
+230211,Brent,Staker,BL,14,61,73,39,51,64,10,2,6,1,0,1,1,1,1, Full Time,x-factor,Following Hurley... %D and %M with %T... also %s including the sealing goal in the last minute,,,132600,,128000,,Back Forward,14
+210013,Ashley,McGrath,BL,9,59,74,46,43,60,8,5,3,4,0,0,0,0,0, Full Time,job,Chasing Winderlich... %P and %M,,,239900,52,293900,56,Back Forward,9
+291548,Ryan,Lester,BL,8,57,70,28,46,62,11,5,4,0,0,0,0,0,2, Full Time,news,%s from %P and %M mostly up forward on Fletcher,,,317600,36,375900,29,Back,35
+292128,Elliot,Yeo,BL,5,57,54,38,44,60,9,5,4,2,0,0,0,0,0, Full Time,news,%O and %M,tagger,Tagging Zaharakis,274500,37,299900,54,Back,26
+240013,Andrew,Raines,BL,10,53,45,44,44,60,5,9,2,2,0,0,0,1,0, Full Time,tagger,Tagging Stanton... %P,,,296500,66,284700,66,Centre,29
+230147,Daniel,Merrett,BL,8,52,62,37,46,60,8,4,7,1,0,1,2,0,0, Full Time,job,On Ryder... %M and %O... also %F,,,253000,42,333800,80,Back Forward,21
+295162,Justin,Clarke,BL,3,36,34,22,28,39,6,4,2,1,0,0,0,0,0, Full Time,job,Has Crameri... %M and %P,reported,Reported for charging Kavanagh in Q1,149100,-34,172100,-54,Back,42
+293603,Sam,Mayes,BL,2,31,25,18,23,30,6,0,3,1,0,0,0,0,0, Full Time,news,On in Q3 for Black... %O and %M,sub,Started as a sub,301500,70,287500,60,Forward Centre,32

@@ -1,0 +1,48 @@
+Melbourne,Demons,Port Adelaide,Power,R17,8.8.56,12.12.84, Full Time
+Jul 21,2012,7:40,Marrara,Fox Sports,230250,10341706,430148,0,Windy,29,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='color:#ff028d'>Jormas</em>: Grimes<br><em style='color:#ff028d'>scrappers</em>: brad ebert sc please?<br><em style='color:#ff028d'>Grommet66</em>: flower you couch you spud<br><em style='color:#ff028d' title="DYLANSDONS">dylansdons</em>: thanx<br><em style='color:#ff028d'>ShrewDext</em>: Should I trade Magner yet? Might wait til Juddy is cheaper.<br><em style='color:#ff028d'>Smirks</em>: brad green<br><em style='color:#ff028d'>Grommet66</em>: one touch couch holy flower<br><em style='color:#ff028d'>krusty1</em>: Does anyone know which saints players were responsible for the fat chick comments..?<br><em style='color:#ff028d'>windigo24</em>: Brad Green.<br><em style='color:#ff028d'>ShrewDext</em>: 4 posts in 2 minutes is anyone giving a rats for this shower!<br><em style='color:#ff028d' title="DYLANSDONS">dylansdons</em>: 1st goal of the game any1??<br><em style='color:#ff028d'>yeragam</em>: Loving the Hargrave to Grimes trade this week<br>
+261297,Jack,Grimes,ME,31,135,138,174,107,141,20,12,11,4,0,2,0,0,0, Full Time,cherry,%P and %T with %M,,
+200054,Brad,Green,ME,31,109,93,143,82,105,13,3,7,7,0,0,0,2,3, Full Time,bluemoon,First goal... %s from %P and %M on Chaplin... also %T,,
+250222,Nathan,Jones,ME,25,96,111,121,77,105,13,13,2,5,0,5,2,1,0, Full Time,tagged,Tagged by Cornes... %P and %T,,
+294874,Daniel,Nicholson,ME,14,92,80,121,69,93,17,5,6,3,0,1,0,0,0, Full Time,news,%O and %M with %T,job,Running off Wingard
+240037,Colin,Sylvia,ME,26,89,105,117,65,91,14,6,2,6,1,1,1,1,0, Full Time,news,%O and %T plus %M and %s,,
+250548,Lynden,Dunn,ME,13,82,101,107,65,84,13,6,6,3,0,4,1,0,0, Full Time,news,%D and %M with %T,job,In defence on Paul Stewart
+280746,Sam,Blease,ME,20,82,51,106,62,82,12,5,4,4,0,1,0,1,1, Full Time,news,%P and %M with %T,,
+291533,Tom,McDonald,ME,10,82,97,105,64,87,14,8,5,2,0,1,0,0,0, Full Time,news,%D and %M,job,On Westhoff
+270830,Colin,Garland,ME,13,75,79,99,59,81,12,6,6,3,0,0,1,0,0, Full Time,news,%P and %T plus %M,job,Responsible for Brett Ebert
+281280,Neville,Jetta,ME,9,71,82,92,56,75,11,7,4,3,0,3,1,0,0, Full Time,news,%O and %M on Logan,,
+280608,Jack,Trengove,ME,9,67,39,84,56,78,7,12,4,3,0,1,1,0,0, Full Time,news,%2 Brad Ebert... %O and %M with %T,,
+250360,Ricky,Petterd,ME,13,65,87,87,48,66,11,4,3,4,0,2,1,0,0, Full Time,news,%D and %M,,
+280521,Jake,Spencer,ME,20,62,52,80,53,69,3,5,3,6,18,1,3,0,0, Full Time,news,%H and %D with %M and %F,,
+280763,Stefan,Martin,ME,11,58,77,70,51,65,7,5,3,1,11,0,1,1,0, Full Time,news,%s from %D on Carlile... also %H,,
+230250,Jared,Rivers,ME,10,57,67,71,50,60,7,2,5,1,2,1,1,2,1, Full Time,news,Booted %s from %P and %G on Trengove,,
+260176,James,Magner,ME,10,55,54,74,46,63,5,7,4,5,0,3,3,0,0, Full Time,tagger,Tagging Boak... %P and %T... also %F,subbed,Subbed off in Q3 for Strauss
+260288,James,Frawley,ME,4,53,65,72,39,55,10,2,3,3,1,0,1,0,0, Full Time,job,Standing Daniel Stewart... %D,,
+230130,Joel,MacDonald,ME,8,51,49,67,44,66,9,8,3,2,0,0,3,0,0, Full Time,job,Chasing Thomas... %P and %M,,
+250345,Rohan,Bail,ME,8,50,60,61,47,67,7,11,4,0,0,0,2,0,1, Full Time,tagger,Tagging Pearce... %P,,
+270174,Tom,Couch,ME,8,47,51,63,35,51,6,6,0,5,0,3,2,0,0, Full Time,bubble,Second game... %O,,
+291313,Jeremy,Howe,ME,3,42,41,55,34,44,6,3,3,2,1,2,1,0,1, Full Time,news,%D and %T with %M,,
+270937,James,Strauss,ME,0,9,7,12,6,9,1,1,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Magner,sub,Started as a sub
+210043,Domenic,Cassisi,PA,21,97,125,72,82,117,13,17,4,5,0,4,4,0,0, Full Time,news,%O and %M with %T... also %F,,
+260750,Justin,Westhoff,PA,15,92,108,64,77,100,13,9,7,2,6,2,1,0,1, Full Time,news,%s from %P and %M on McDonald... also %H,,
+261911,Brad,Ebert,PA,24,91,73,58,77,112,16,10,7,4,0,0,5,0,1, Full Time,news,%2 Trengove... %B among %P with %M and %T.. also %s and %F,,
+270779,Paul,Stewart,PA,27,90,124,66,79,96,11,4,5,2,0,2,2,5,0, Full Time,star,Kicked %s from %P and %M on Dunn,,
+250365,Travis,Boak,PA,18,81,107,31,68,95,17,11,1,0,0,3,2,1,2, Full Time,tagged,Tagged by Magner... %D and %s,,
+250063,Danyle,Pearce,PA,13,80,83,34,63,90,17,9,3,1,0,1,1,0,0, Full Time,tagged,Tagged by Bail... %P and %M,,
+240180,Troy,Chaplin,PA,13,73,98,50,60,81,11,8,6,2,0,1,1,0,0, Full Time,news,%P and %M,job,Responsible for Green
+230124,Tom,Logan,PA,9,70,94,50,59,81,9,12,5,1,0,0,0,0,0, Full Time,job,Minding Jetta... %D and %M,,
+1230242,Brett,Ebert,PA,15,65,73,46,58,70,9,4,8,0,0,2,1,1,1, Full Time,news,%s from %D and %M on Garland,,
+261230,Matthew,Lobbe,PA,15,65,92,51,59,72,6,7,2,1,18,2,1,1,0, Full Time,news,%H and %D,,
+271078,Matthew,Broadbent,PA,13,62,90,37,50,72,10,9,1,2,0,0,1,1,0, Full Time,news,%O,,
+210020,Kane,Cornes,PA,9,60,85,37,56,84,10,13,3,2,0,2,5,0,0, Full Time,news,%P... also %F,tagger,Tagging Jones
+291962,Chad,Wingard,PA,13,57,72,52,47,66,4,12,1,3,0,0,0,1,0, Full Time,sore,%P on Nicholson... spewed his guts up at QT,,
+250688,Alipate,Carlile,PA,8,55,87,32,46,61,9,7,4,0,1,1,0,0,0, Full Time,job,Has the resting ruck which is mostly Martin... %P and %M,,
+240385,Matt,Thomas,PA,3,48,90,39,37,52,5,9,0,3,0,2,0,0,1, Full Time,news,%P up forward on MacDonald,,
+292145,Thomas,Jonas,PA,4,48,54,39,38,54,6,6,3,3,0,0,1,0,0, Full Time,news,%D and %T with %M,,
+260201,Daniel,Stewart,PA,9,47,53,31,41,48,6,3,2,0,8,2,0,1,1, Full Time,news,Booted %s from %P and %G on Frawley... also %H,,
+280750,Andrew,Moore,PA,3,42,38,34,31,45,5,6,1,3,0,0,0,0,0, Full Time,news,%P,,
+280013,Jackson,Trengove,PA,2,30,39,17,24,36,6,3,1,2,0,1,2,0,0, Full Time,job,Has Rivers... %D and %T,,
+271128,John,McCarthy,PA,3,29,24,17,25,39,6,3,2,2,0,0,3,0,0, Full Time,news,%D... also %F,,
+290546,Aaron,Young,PA,8,29,54,29,23,33,2,4,0,3,0,0,1,1,0, Full Time,news,On in Q2 for Pittard... %P,sub,Started as a sub
+290156,Jasper,Pittard,PA,0,9,12,10,9,12,0,3,1,0,0,0,0,0,0, Full Time,injured,%D... copped a friendly fire knee in the ribs in Q1 which probably broke a few,subbed,Subbed off at QT for Young

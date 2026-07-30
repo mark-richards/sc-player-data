@@ -1,0 +1,48 @@
+Essendon,Bombers,Hawthorn,Hawks,R18,12.14.86,27.18.180, Full Time
+Jul 27,2012,7:50,Docklands,Seven,270584,10341801,430152,0,Roof closed,15,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Keza41</em>: Well&#044; at least it wasn't more than 100 points<br><em>runt</em>: Hawks peaking too early<br><em>thebigshot</em>: bye bye Brett<br><em>rosty63</em>: lovin life had a po3r285t5iyp [u<br><em>hardballge</em>: Hille needs another 20 min of junk time to tonne up<br><em>Phantom777</em>: Month you need to stadium points on board. <br><em>danmaio</em>: is Heppel on ground<br><em>The It_123</em>: keep the junking going hille loving it<br><em>torres</em>: Stanton cross&#044; he has been iced up for nearly the whole quarter<br><em>Phantom777</em>: Seriously get on stadiumsports.com - has supercoach covered!<br><em>Bomb3rs</em>: I sweat actually every friday game is a smashing<br><em title="BEAMMEUP">beammeup</em>: Messi<br>
+230231,Jobe,Watson,ES,25,108,120,133,89,130,15,22,2,4,0,2,2,0,1, Full Time,magnet,Tagged by Sewell... %D and % with %M and %s,,
+294798,Mark,Baguley,ES,10,86,83,112,67,93,15,8,5,3,0,1,1,0,0, Full Time,news,%P and %T with %M,job,Running off Puopolo
+290629,Dyson,Heppell,ES,18,84,76,106,71,96,15,10,7,0,0,1,1,0,0, Full Time,news,%O and %M,job,Back in defence on Whitecross
+260073,Ben,Howlett,ES,20,83,73,109,65,96,14,9,2,5,0,0,3,1,0, Full Time,news,%P and %T plus %s,tagger,Tagging Rioli
+200026,David,Hille,ES,17,70,82,81,68,81,6,6,5,0,17,1,2,2,1, Full Time,news,%s from %D on Gibson... also %H,,
+250366,Scott,Gumbleton,ES,20,69,54,82,62,71,7,2,6,0,0,0,0,4,2, Full Time,garbage,Kicked %s from %P and %G on Schoenmakers including three majors in Q3... all his goals in second half junk time,sore,Left hand issue in Q4
+250352,Leroy,Jetta,ES,14,66,63,85,54,70,12,3,5,1,0,1,1,1,1, Full Time,sore,One touch in Q1... %P and %M... right shin knock in Q2,,
+290641,Jake,Carlisle,ES,9,66,91,87,51,72,13,5,4,2,0,0,1,0,0, Full Time,news,%D and %T with %M,job,Has Gunston
+960197,Dustin,Fletcher,ES,8,66,75,86,48,66,14,4,2,2,0,2,0,0,0, Full Time,sore,%M and %D with %T... has the resting ruckman which is mostly Roughead... chest knock in Q3,mrp,A high elbow to Gunston in Q1 will be looked at but not much there
+240245,Courtenay,Dempsey,ES,14,65,62,87,49,69,10,5,4,4,0,0,1,0,0, Full Time,news,%O and %T with %M,,
+240290,Angus,Monfries,ES,14,64,70,76,56,69,8,8,4,0,0,3,0,1,3, Full Time,news,Manning up Birchall... %s from %P and %M,,
+240027,Brent,Stanton,ES,9,62,70,82,46,63,8,6,2,5,0,3,1,0,0, Full Time,injured,Tagged by Shiels... %P and %T with %M... left hamstring tightness in Q3 and iced up in Q4,,
+230238,Jason,Winderlich,ES,11,57,58,71,47,60,6,6,4,2,0,1,0,1,0, Full Time,news,Manning up Suckling... %O and %T,,
+280824,Jake,Melksham,ES,4,56,54,71,46,60,8,6,5,1,0,1,0,0,0, Full Time,news,%2 Smith... %O and %M,,
+261320,Tom,Bellchambers,ES,15,54,72,60,55,68,1,9,3,1,26,0,2,0,0, Full Time,news,%H with %P and %M...also %F,,
+280413,Cory,Dell'Olio,ES,9,49,33,61,42,52,5,4,5,1,0,0,0,1,1, Full Time,in,%l Stewart Crameri... %s from %P and %M,,
+250569,Heath,Hocking,ES,12,48,62,64,36,57,8,7,0,4,0,0,2,0,0, Full Time,tagger,Tagging Mitchell... %D and %T... also %F,,
+291522,Alex,Browne,ES,7,48,50,59,40,60,6,11,1,2,0,0,1,0,0, Full Time,job,Minding Breust... %D and %T,,
+291804,Elliott,Kavanagh,ES,4,46,26,58,38,51,8,5,4,0,0,0,0,0,0, Full Time,rookie,First game... %P,in,Late replacement for Cale Hooker
+270584,Kyle,Hardingham,ES,3,36,62,46,30,36,4,3,4,1,0,2,0,0,0, Full Time,news,%P and %M,job,Hodge is his man
+210079,Nathan,Lovett-Murray,ES,8,35,32,42,30,42,1,8,0,3,0,1,1,1,0, Full Time,news,On in Q3 for Davey,sub,Started as a sub
+230051,Alwyn,Davey,ES,2,21,20,28,16,25,1,4,0,3,0,0,1,0,1, Full Time,news,Guerra on him... donuts in Q1... %s from %O and %T,subbed,Subbed off in Q3 for Lovett-Murray
+261386,Brendan,Whitecross,HW,37,133,139,104,113,144,16,13,15,2,0,0,0,1,0, Full Time,cherry,%s from %O and %M on Heppell,,
+260955,Cyril,Rioli,HW,38,129,134,105,95,122,16,5,6,9,0,3,0,2,2, Full Time,star,Started in midfield again... tagged by Howlett... %O and %T plus %M and %s,,
+270732,Matt,Suckling,HW,27,112,110,68,94,117,18,4,8,1,0,1,1,4,0, Full Time,seagull,First goal... %P and %M plus %s,job,Winderlich manning him up
+220073,Sam,Mitchell,HW,31,109,97,88,82,117,13,16,2,8,0,3,1,0,0, Full Time,heart,Corked left quad in Q3... tagged by Hocking... %P and %T... went forward in the second half after his knock,,
+294877,Isaac,Smith,HW,17,101,79,61,80,103,17,5,5,3,0,3,1,2,1, Full Time,hot,%2 Melksham... %P and %T plus %s,,
+220047,Luke,Hodge,HW,30,94,112,75,83,99,9,7,6,1,0,1,0,5,0, Full Time,target,Playing forward on Hardingham.. %s from %P and %M,subbed,Subbed off at 3QT for Savage
+280744,Luke,Breust,HW,21,91,103,79,79,104,8,13,6,3,0,0,1,2,2, Full Time,news,%s from %D on Browne... also %M and %T,,
+291351,Jack,Gunston,HW,20,90,117,64,77,93,11,7,5,1,0,3,0,3,3, Full Time,news,Booted %s from %P and %G on Carlisle,,
+250055,Clinton,Young,HW,20,88,71,53,69,88,15,2,6,2,0,0,0,2,1, Full Time,news,%s from %P and %M,,
+200060,Brent,Guerra,HW,19,87,80,45,71,93,18,2,10,1,0,1,2,0,0, Full Time,job,Davey is his responsibility... %P and %M,,
+240357,Jarryd,Roughead,HW,21,87,100,52,76,92,13,5,4,0,8,3,1,3,0, Full Time,news,Kicked %s from %D and %M on Fletcher... also %H,mrp,An incident involving Stanton in Q3 will be scrutinised
+280737,Liam,Shiels,HW,15,80,78,51,70,97,12,12,5,1,1,0,2,1,0, Full Time,news,%O,tagger,Tagging Stanton
+250089,Jordan,Lewis,HW,18,75,88,42,64,84,13,6,6,0,2,0,1,1,1, Full Time,news,Rotating forward and midfield... %P and %M plus %s,,
+230197,Brad,Sewell,HW,9,72,85,42,57,82,13,8,3,3,0,1,2,0,1, Full Time,news,%P and %T plus %M and %s,tagger,Tagging Watson
+250715,Josh,Gibson,HW,12,67,93,34,54,72,13,5,6,0,0,0,0,0,0, Full Time,job,Standing Hille... %P and %M,sore,Right thumb knock in Q2
+260710,Paul,Puopolo,HW,15,67,70,52,57,76,8,8,5,2,0,0,1,1,1, Full Time,news,%s from %O and %M on Baguley,,
+240302,Grant,Birchall,HW,9,63,75,45,54,76,9,9,5,2,0,0,2,0,1, Full Time,job,Monfries manning him up... %D and %M... also %F,,
+280471,Ben,Stratton,HW,9,58,59,41,47,63,9,4,6,2,0,0,1,0,0, Full Time,job,Rotated on the Don small forward smalls... %D and %M,,
+210012,Shaun,Burgoyne,HW,4,53,55,35,40,57,9,4,3,3,0,0,1,0,0, Full Time,news,In defence with not much to do... %O,,
+260472,Max,Bailey,HW,15,50,79,53,47,55,1,5,2,2,25,1,1,0,0, Full Time,in,%l David Hale... %H and %P,,
+281301,Ryan,Schoenmakers,HW,4,45,80,28,38,51,7,6,4,0,0,0,0,0,0, Full Time,gumby,Following Gumbleton... %M and %P,,
+280858,Shane,Savage,HW,0,10,5,10,7,9,1,0,1,1,0,0,0,0,0, Full Time,news,On after 3QT for Hodge,sub,Started as a sub

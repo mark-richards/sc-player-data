@@ -1,0 +1,48 @@
+West Coast,Eagles,Adelaide,Crows,R15,14.11.95,17.15.117, Full Time
+Jul 10,2010,1:10,Subiaco,Fox Sports,,10281503,,5182,Windy with showers,18
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>stuartcs</em>: Its interesting to note that most people on chat get very high scores but at the same time dont understand the rules.<br><em>tigermania</em>: the lowest scoring emergency counts when 2 players are named as emergency in the same position.<br><em>riewoldt12</em>: the lowest score will get included unfortunately<br><em>Hawkmad</em>: froggy 55 it will use the lowest scoring emergenxy<br><em style='color:#069'>Prospector</em>: Lucky break there CrowsFan!<br><em>riewoldt12</em>: i thought i was god when i traded beau waters for goddard <br><em>Cousin Ben</em>: Good question froggy.  My opponent has 2 defenders emergency and Goddard out.<br><em>Tonche</em>: Vince's SC is a joke&#044; he was great in the last. SC is garbage<br><em>crusha9</em>: why do people ask the same questions re: scoring every week for years on end?<br><em style='color:#069'>Prospector</em>: lol joystick<br><em>CrowsFan</em>: with goddard out i get hendersons score in SC. can't complain :)<br><em title="JAKO">jako</em>: Lowest score counts<br>
+990020,Andrew,Embley,WC,37,124,101,156,101,129,13,10,7,6,3,2,1,3,0, Full Time,hot,Head to head with Vince... %P and %M with %T
+250111,Matt,Rosa,WC,30,120,106,155,91,126,15,14,6,7,0,1,0,0,0, Full Time,hot,%O and %M with %T
+230254,Adam,Selwood,WC,30,116,96,149,91,123,19,10,6,4,0,2,1,1,0, Full Time,hot,Head to head with Douglas... %P and %M plus %s... also %T
+200112,Dean,Cox,WC,26,104,101,123,95,119,11,12,6,1,23,2,2,1,0, Full Time,hot,%H and %P plus %M and %s
+261911,Brad,Ebert,WC,44,102,71,141,71,100,15,4,4,10,0,2,2,0,1, Full Time,hot,Head to head with van Berlo... %P and %T with %M and %s
+270928,Scott,Selwood,WC,44,91,86,119,67,96,6,14,2,10,0,2,1,0,0, Full Time,news,%D and %T
+250317,Eric,MacKenzie,WC,19,89,86,118,70,93,11,7,8,5,0,1,1,0,0, Full Time,job,Has Tippett... %D and %M
+240119,Mark,LeCras,WC,22,86,91,105,75,96,11,7,4,2,0,1,2,4,0, Full Time,mrp,Might be trouble for bumping Douglas in the head in Q1... %s from %D and %M on Johncock
+220061,Quinten,Lynch,WC,19,85,58,108,76,100,13,9,10,0,2,0,2,0,2, Full Time,news,%s from %P and %M
+240016,Beau,Waters,WC,10,79,70,100,63,84,10,10,5,3,0,2,0,0,0, Full Time,injured,%D and %M plus %T... left hamstring tweaked in Q3 and mothballed
+270953,Ashley,Smith,WC,15,79,92,101,61,81,14,5,4,2,0,1,0,1,0, Full Time,porpoise,First game... minding Porplyzia... %P and %M plus %T
+240731,Brett,Jones,WC,13,70,67,88,58,78,8,10,6,2,0,0,0,0,0, Full Time,job,Has Sloane... %M and %D
+280379,Lewis,Stevenson,WC,15,68,73,87,56,76,10,5,3,3,0,0,2,2,1, Full Time,news,%O and %T plus %s
+250034,Ashton,Hams,WC,15,64,75,83,50,69,6,7,3,5,0,0,1,1,0, Full Time,news,%s from %P and %T
+261290,Chris,Masten,WC,8,64,57,77,54,76,8,13,3,1,0,0,0,0,1, Full Time,tagged,Tagged by Doughty... %O and %M plus %s
+260303,Mitchell,Brown,WC,9,63,102,81,48,66,5,9,3,5,0,1,0,0,0, Full Time,sore,On Walker... %O and %M with %T... copped a whack on the bonce in Q2 but bandaged up to return
+281080,Brad,Sheppard,WC,9,56,64,69,44,58,6,7,1,3,0,2,0,1,1, Full Time,cash,%P and %T with %s
+240124,Matt,Priddis,WC,12,52,64,64,42,61,2,13,0,5,0,2,1,0,1, Full Time,sore,Tagged by Reilly... %O and %T... bruised shin in Q2
+261214,Will,Schofield,WC,9,51,29,70,39,57,6,5,3,5,0,0,2,0,0, Full Time,job,Sitting on Dangerfield... %P and %M with %T
+240406,Josh J.,Kennedy,WC,4,50,31,69,40,53,8,1,5,3,0,1,2,0,2, Full Time,news,Booted %s from %G and %D on Rutten
+271045,Nic,Naitanui,WC,9,43,50,51,40,51,1,5,1,3,20,0,2,0,1, Full Time,fiji,%H and %P with %F
+260446,Andrew,Strijk,WC,3,42,51,52,35,48,7,6,3,0,0,0,0,0,0, Full Time,cash,%P and %M
+291201,Ricky,Henderson,AD,32,119,136,98,98,123,13,9,8,5,0,3,1,3,0, Full Time,star,%s from %P with %T and %M
+960036,Simon,Goodwin,AD,31,119,95,89,101,132,16,12,14,2,0,0,1,0,0, Full Time,gun,%O and %M with %T
+240370,Richard,Douglas,AD,20,101,106,76,73,100,14,9,3,7,0,3,0,0,1, Full Time,hot,Head to head with Adam Selwood... %O and %M with %T and %s
+270742,Kurt,Tippett,AD,23,98,109,83,80,97,10,2,5,5,4,1,1,4,3, Full Time,superman,First goal... booted %s from %G and %P on MacKenzie including three very important majors in Q4
+261142,Bernie,Vince,AD,20,94,67,47,74,105,18,10,3,2,0,0,1,1,0, Full Time,news,Head to head with Embley... %O and %M with %T and %s
+210016,Scott,Thompson,AD,19,93,81,53,74,108,17,12,3,4,0,2,3,0,0, Full Time,news,%O and %T
+200072,Scott,Stevens,AD,20,92,106,71,77,99,13,5,12,3,0,1,2,0,0, Full Time,news,%M and %D
+230215,Brad,Symes,AD,26,87,88,69,65,88,12,4,4,7,0,2,2,1,1, Full Time,news,%P and %M with %T and %s
+200092,Michael,Doughty,AD,10,84,81,56,67,94,13,10,5,3,0,0,1,0,1, Full Time,tagger,Tagging Masten... %D and %M plus %s
+220086,Brent,Reilly,AD,19,83,91,70,61,87,10,9,3,7,0,1,1,0,0, Full Time,tagger,Tagging Priddis... %P and %M with %T
+230174,Jason,Porplyzia,AD,26,82,90,75,65,89,7,10,2,6,0,0,1,2,2, Full Time,news,%s from %D and %T on Smith
+270917,Patrick,Dangerfield,AD,15,81,86,55,72,94,11,12,5,1,0,4,2,1,1, Full Time,sore,Schofield on him... %s from %D and %M... came off second best in a clash with Naitanui in Q3
+210056,Graham,Johncock,AD,15,72,67,57,50,69,10,4,3,6,0,1,0,0,0, Full Time,job,Has LeCras... %D and %T with %M
+280506,Taylor,Walker,AD,18,69,58,39,59,76,12,4,6,0,0,0,1,1,4, Full Time,news,Booted %s from %G and %O on Brown
+261351,Matthew,Jaensch,AD,20,64,86,58,51,66,5,6,1,4,0,0,0,3,0, Full Time,cash,%s from %O with %T
+270963,Rory,Sloane,AD,14,64,55,44,55,78,9,10,3,2,0,0,2,1,0, Full Time,news,%P and %M on Jones
+250088,Jonathon,Griffin,AD,11,63,51,67,52,69,3,8,3,5,12,0,1,0,0, Full Time,news,%H and %D
+250118,Nathan,van Berlo,AD,9,59,59,63,46,63,3,10,3,5,0,1,0,0,0, Full Time,news,Head to head with Ebert... %P
+220093,Ben,Rutten,AD,4,47,45,39,42,57,5,8,5,1,0,0,1,0,0, Full Time,job,Standing Kennedy... %P and %M
+280804,Phil,Davis,AD,4,44,54,32,34,45,6,5,2,2,0,2,0,0,0, Full Time,news,%P
+270170,Tony,Armstrong,AD,2,33,34,24,27,39,4,7,1,1,0,0,0,0,0, Full Time,news,%D
+240546,Ivan,Maric,AD,3,31,38,26,31,39,2,6,1,0,12,1,1,0,0, Full Time,news,%H and %P

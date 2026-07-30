@@ -1,0 +1,48 @@
+Richmond,Tigers,North Melbourne,Kangaroos,R16,7.11.53,15.13.103, Full Time
+Jul 18,2010,2:10,MCG,Seven,292500,10281607,5015592,5194,Windy with rain,13
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>kakarot</em>: i think i got 7 for the PNG...anyone else?<br><em title="EL TIGER">el tiger</em>: Hover your mouse Lance<br><em>Big Lance</em>: nteresting that tuck should have a trash can his sc scores suggests perhaps he shouldnt<br><em>Kazakhstan</em>: love martin&#044; consistantly getting in the 90's each game (SC).<br><em>kakarot</em>: turn it up barlowgun<br><em>FFScience</em>: well done boomer in the end<br><em>adiman</em>: got 193 from 2<br><em>Turmoil</em>: tuck with the bin is bs&#044; most of his stats came from clearances<br><em>Kirk=GOD</em>: 114 SC for harvey<br><em>fatrab</em>: boomer 115ish<br><em>mick20</em>: lets see what harvey got<br><em>HawkMan</em>: HMAC 100 SC I will take that!<br>
+260105,Daniel,Connors,RI,26,123,112,165,91,126,26,4,8,4,0,0,1,0,0, Full Time,hot,Matched up on Campbell... %P and %M with %T
+200109,Shane,Tuck,RI,50,119,128,156,86,123,11,15,4,11,0,0,0,0,0, Full Time,garbage,%P and %T with %M... many of his stats in Q4 garbage time
+240336,Brett,Deledio,RI,14,91,111,118,70,96,17,7,6,2,0,0,0,0,0, Full Time,news,%D and %M... right elbow knock in Q2 to freshen up recent injury
+960662,Ben,Cousins,RI,15,89,110,110,74,102,11,16,4,3,0,3,1,0,0, Full Time,news,%O and %M
+290847,Dustin,Martin,RI,43,86,96,117,61,90,7,10,2,11,0,1,2,0,0, Full Time,tagged,Tagged by Rawlings... %D and %T
+271437,Jake,King,RI,19,81,73,106,59,79,12,4,3,5,0,1,0,1,1, Full Time,tagger,Tagging Harvey... %D and %M with %T and %s
+240256,Luke,McGuane,RI,11,70,79,89,56,73,8,6,5,3,0,0,0,1,1, Full Time,job,Has Hansen... %M and %O
+260930,Shane,Edwards,RI,12,70,94,91,50,72,10,8,1,5,0,1,0,0,0, Full Time,news,%O and %T
+260104,Andrew,Collins,RI,15,65,50,85,50,69,9,5,3,4,0,0,1,1,0, Full Time,news,Thompson on him... %s from %P and %M
+250395,Jack,Riewoldt,RI,16,64,73,82,54,67,8,0,4,3,2,0,2,3,2, Full Time,news,%s from %O on Grima... also %F
+230279,Kelvin,Moore,RI,8,61,84,77,52,66,7,7,7,1,0,1,0,0,0, Full Time,job,Has Warren... %P and %M
+210048,Chris,Newman,RI,4,56,74,76,40,57,12,2,2,3,0,1,1,0,0, Full Time,news,%D including %k by foot
+260146,Angus,Graham,RI,19,54,42,66,50,66,4,5,0,4,27,1,4,0,0, Full Time,news,%H and %D
+292500,Jeromey,Webberley,RI,7,54,67,69,44,63,10,7,3,1,0,0,1,0,0, Full Time,news,%P and %M
+250623,Robin,Nahas,RI,14,49,50,63,37,54,4,7,0,5,0,0,1,1,0, Full Time,lebanon,%O and %T on Pratt
+270896,Trent,Cotchin,RI,3,47,38,63,34,49,9,3,1,3,0,1,1,0,1, Full Time,reported,Tagged by Greenwood... %O and %T with %s... reported for charging Wright in Q2... likely to get weeks
+230216,Richard,Tambling,RI,8,41,32,53,32,48,3,8,1,4,0,0,1,0,0, Full Time,news,%B among %O
+270941,Tyrone,Vickery,RI,9,37,35,49,31,44,2,4,0,5,11,1,3,0,0, Full Time,news,%H and %T
+260970,Mitch,Farmer,RI,2,34,46,47,24,36,6,2,1,3,0,0,1,0,0, Full Time,news,%P
+290198,David,Astbury,RI,2,29,27,37,23,31,4,3,2,1,0,0,0,0,1, Full Time,sore,Ankle problem in Q2... %s from %D and %M on Firrito
+240389,Matt,White,RI,1,25,17,33,20,28,5,2,1,1,0,1,1,0,1, Full Time,news,%s from %P
+250662,Will,Thursfield,RI,2,21,41,26,18,24,3,3,2,0,0,0,0,0,0, Full Time,injured,Standing the resting rucks... %P... copped Vickery's boot to the head in Q3 and was carted off
+250285,Leigh,Adams,NM,37,139,137,103,111,144,18,10,8,5,0,0,0,3,3, Full Time,star,%s from %P and %M with %T
+240417,Andrew,Swallow,NM,39,125,157,106,100,138,13,18,4,8,1,3,2,1,2, Full Time,hot,%O and %T with %M and %s
+960491,Brent,Harvey,NM,20,99,114,64,73,100,16,7,3,5,0,1,0,1,1, Full Time,crown,Tagged by King... %O and %T plus %s
+230232,Daniel,Wells,NM,21,96,124,54,77,106,17,9,5,2,0,0,1,1,1, Full Time,news,%P and %T with %M and %s
+240131,Nathan,Grima,NM,19,96,112,58,80,102,16,8,10,0,0,2,0,0,0, Full Time,job,Standing Riewoldt... %O
+250315,Gavin,Urquhart,NM,20,89,73,63,66,90,13,7,3,5,0,1,0,1,0, Full Time,news,%O
+230141,Hamish,McIntosh,NM,15,85,100,72,74,94,7,13,2,3,18,4,1,0,1, Full Time,news,%H and %P with %T and %s
+240189,Matt,Campbell,NM,22,85,88,75,62,81,9,4,3,7,0,1,0,2,0, Full Time,news,Matched up on Connors... %s from %O with %M and %T
+280921,Ben,Cunnington,NM,26,85,73,86,64,93,7,11,4,9,0,0,2,0,0, Full Time,news,%P and %T
+230272,Michael,Firrito,NM,16,84,88,64,68,93,10,12,4,3,0,0,0,1,0, Full Time,job,Has Astbury... %O and %s
+270861,Levi,Greenwood,NM,21,78,39,69,52,75,10,3,3,9,0,0,1,0,0, Full Time,tagger,Tagging Cotchin... %D and %T
+210039,Daniel,Pratt,NM,20,77,114,59,59,75,10,5,4,4,0,3,0,1,0, Full Time,job,Minding Nahas... %O and %T
+990055,Brady,Rawlings,NM,15,75,85,73,64,90,5,16,5,4,0,0,1,0,0, Full Time,tagger,Tagging Martin... %B among %D with %M and %T
+250373,Lachlan,Hansen,NM,19,74,74,57,66,81,8,7,7,0,2,0,0,2,1, Full Time,news,%P and %G on McGuane
+281395,Scott D.,Thompson,NM,18,74,89,54,53,75,11,7,1,6,0,3,1,0,0, Full Time,job,Minding Collins... %P and %T
+261228,Ben,Warren,NM,14,71,55,46,58,72,11,3,6,1,0,1,0,1,3, Full Time,news,%s from %P and %M on Moore
+271129,Todd,Goldstein,NM,21,68,69,59,59,68,5,3,2,2,26,1,0,1,0, Full Time,news,%H and %P with %M and %s
+260711,Ed,Lower,NM,21,67,72,66,48,73,7,6,2,9,0,0,3,0,1, Full Time,news,%T
+230240,Aaron,Edwards,NM,5,51,53,38,40,54,7,5,4,2,0,0,0,0,0, Full Time,news,%D
+280863,Ryan,Bastinac,NM,2,34,46,20,29,42,5,8,1,0,0,0,0,0,0, Full Time,news,%P
+280864,Sam,Wright,NM,2,22,32,15,19,24,3,3,2,0,0,1,0,0,0, Full Time,injured,%P... smashed by Cotchin in Q2 and came off holding his ribs and dry retching
+270325,Robbie,Tarrant,NM,1,19,33,16,15,21,2,3,1,1,0,0,0,0,0, Full Time,bubble,Second game... %D

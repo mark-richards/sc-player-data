@@ -1,0 +1,48 @@
+Melbourne,Demons,Western Sydney,Giants,R4,22.12.144,15.13.103, Full Time
+Apr 21,2013,1.10,MCG,Seven,293845,10390407,melb-v-gws,0,Late rain,19,,
+
+<em>ballbag</em>: vineys speech means nothing now<br><em>W.Mantooth</em>: gcs's second year was poor... youd expect the same from GWS. I did say Melb would run game out better.<br><em>Seb78</em>: Viney you are shower!<br><em>cardez</em>: Terlich is still owed +12 and viney +4<br><em>Bluffie</em>: Dees doubled their score in last qtr<br><em>Bluffie</em>: thank you melb! first time i tipped you! ^_^<br><em>WormBurner</em>: far canal<br><em>gwsfevs</em>: Wat a finish terlich<br><em>NDiddy</em>: Long quarter<br><em>R.Griff</em>: I didnt know teams play for a grand final in round 4<br><em>Affliction</em>: haha scully will be playing in finals before the dees will be<br><em>ballbag</em>: what is setantas BE?<br>
+261297,Jack,Grimes,ME,30,126,120,164,95,130,17,12,7,7,0,1,0,0,1, Full Time,hot,%D and %M plus %T and %s,,,449600,132,474800,119,Back,31
+230022,Shannon,Byrnes,ME,27,115,128,143,95,121,14,9,8,3,0,0,0,3,1, Full Time,bluemoon,%s from %O and %M... also %T... had a good Q2 with three goals and plenty of footy,bugg,Bugg on him,241500,44,235700,44,Forward,10
+280608,Jack,Trengove,ME,51,111,107,150,82,115,15,7,4,10,0,2,3,1,1, Full Time,hot,%P and %T plus %M and %s,tagger,Tagging Ward,391300,95,400800,100,Centre,9
+294741,Michael,Evans,ME,26,111,116,139,90,109,15,5,7,3,0,4,0,3,1, Full Time,superman,Playing a HFF... %P and %M... also %s all in Q4,,,108500,,115900,,Centre,32
+220052,Mark,Jamar,ME,32,106,107,125,90,109,6,10,3,5,31,2,0,1,0, Full Time,hot,%H and %P with %T... also %M and %s,,,334600,75,400300,85,Ruck,40
+250222,Nathan,Jones,ME,20,96,104,120,76,105,16,12,2,3,0,3,1,1,0, Full Time,star,%D including %k by foot with %M... left shoulder knock in Q2,skull,Tagged by Scully,438700,94,499300,127,Centre,2
+296027,Matt,Jones,ME,21,92,86,120,71,99,9,12,5,7,0,1,1,0,0, Full Time,news,%P and %T with %M,,,163600,-37,164500,-27,Centre,45
+240037,Colin,Sylvia,ME,20,91,103,118,70,92,13,6,4,5,1,3,1,1,1, Full Time,news,%s from %P and %M starting forward on Mohr,sore,Shoulder knock when he got cleaned up by Mohr in Q2,386200,93,402400,126,Centre,12
+250345,Rohan,Bail,ME,28,88,86,119,64,87,10,4,5,8,0,0,1,1,0, Full Time,news,%D and %T with %M and %s,,,316000,,333800,,Forward,44
+291313,Jeremy,Howe,ME,22,87,86,107,76,91,9,4,7,2,0,1,1,4,1, Full Time,superman,%s from %P and %M with three goals in Q4,,,396700,62,438100,71,Forward,38
+270830,Colin,Garland,ME,10,83,106,103,68,93,11,13,5,2,0,1,0,0,0, Full Time,job,Frost is his man... %D,,,310200,84,380100,75,Back,20
+290528,Max,Gawn,ME,18,81,97,94,74,88,3,10,6,2,13,1,0,2,0, Full Time,news,%P and %M up forward on Gilham... also %H and %T,,,108500,,115900,,Ruck,37
+260288,James,Frawley,ME,14,73,75,97,55,78,10,7,4,5,0,0,1,0,0, Full Time,job,Following Cameron... %P,,,327700,71,390100,91,Back,8
+270241,Dean,Terlich,ME,8,63,62,82,47,64,12,4,3,2,0,1,0,0,1, Full Time,news,%P and %T plus %s,job,Minding Palmer,102700,-70,109500,-53,Back,46
+292029,Cameron,Pedersen,ME,22,63,64,83,53,70,4,4,4,6,3,0,3,2,1, Full Time,news,%s from %P and %M with %T on Haynes,,,296200,97,278200,68,Back,21
+280972,Jack,Watts,ME,7,59,70,73,46,66,9,10,1,2,0,1,0,0,0, Full Time,tagged,Forward tag on him by Townsend... %O,,,360600,155,460100,172,Back Forward,4
+291533,Tom,McDonald,ME,8,54,67,69,44,63,8,8,3,2,0,0,1,0,0, Full Time,job,Standing O'hAilpin... %D,,,321700,71,391900,77,Back,25
+280579,Luke,Tapscott,ME,4,50,56,64,40,49,8,3,4,1,0,3,0,0,1, Full Time,news,Starting forward on Kennedy... %D,,,284800,64,279000,81,Back,35
+281280,Neville,Jetta,ME,14,47,49,66,34,54,7,5,0,6,0,1,3,0,0, Full Time,job,In defence on Sumner... %O and %T,reported,Reported for bumping Whitfield in Q3,243900,,252400,,Forward,39
+240393,Mitchell,Clark,ME,9,44,48,56,40,51,6,3,4,1,2,1,2,1,1, Full Time,news,%s from %G and %P on Davis,,,350300,101,413300,123,Forward,11
+200002,Aaron,Davey,ME,8,34,33,42,27,33,5,0,1,1,0,0,0,2,0, Full Time,news,On in Q3 for Viney... %s from %P,sub,Started as a sub,275600,72,335100,87,Centre,36
+291902,Jack,Viney,ME,2,18,9,25,13,21,3,2,0,2,0,0,1,0,0, Full Time,missing,%O and %T... very quiet all day,subbed,Subbed off in Q3 for Davey,165700,-24,185200,-10,Centre,7
+291790,Adam,Treloar,WS,22,102,106,72,85,117,13,17,5,2,0,0,0,1,0, Full Time,hot,%B among %P with %M and %s,,,429100,88,440900,120,Centre,17
+280969,Tom,Scully,WS,32,99,109,61,79,115,18,8,4,6,1,1,5,1,0, Full Time,news,%P and %T with %M and %s,tagger,Tagging Nathan Jones,352100,122,382800,138,Centre,9
+295344,Toby,Greene,WS,25,99,75,70,79,112,14,13,3,5,0,1,2,1,1, Full Time,news,Not tagged today... %O and %T,,,438000,138,452300,136,Centre,4
+261231,Rhys,Palmer,WS,20,87,70,69,67,88,10,8,2,5,0,2,0,2,1, Full Time,news,%s from %P on a HFF on Terlich... also %T and %M,,,383000,,374200,,Centre,7
+291969,Stephen,Coniglio,WS,20,87,86,69,66,96,11,12,3,6,0,0,1,0,0, Full Time,news,%P including %K... also  %T plus %M,,,402100,97,413100,90,Centre,3
+294305,Lachie,Whitfield,WS,15,86,96,68,70,97,10,14,4,4,0,2,1,0,1, Full Time,news,%O and %M plus %s,sore,Right shoulder knock in Q4,216400,-10,226700,4,Centre,6
+280109,Callan,Ward,WS,15,83,90,62,69,94,10,13,3,3,1,2,1,1,0, Full Time,tagged,Tagged by Trengove... %D and %s,,,503400,80,552700,119,Centre,8
+291783,Dylan,Shiel,WS,19,82,111,57,70,102,10,19,1,2,0,0,1,1,0, Full Time,news,%P including %b by hand... also %s,,,379700,101,420700,89,Centre,5
+261841,Jonathan,Giles,WS,26,77,97,63,63,80,8,2,0,5,29,0,2,1,0, Full Time,news,%H and %P with %T and %s,,,406200,94,484700,109,Ruck,26
+240716,Setanta,O'hAilpin,WS,21,75,90,41,67,81,12,2,2,0,0,2,2,5,3, Full Time,news,First goal... %s from %P and %M on McDonald including three majors in Q1,,,157700,,252500,,Forward,37
+261374,Sam,Reid,WS,18,72,78,61,54,75,8,10,1,6,0,4,1,0,0, Full Time,news,%D and %T,,,245200,,291100,,Centre,23
+280804,Phil,Davis,WS,9,60,87,48,51,66,7,8,5,2,0,3,1,0,0, Full Time,job,Standing Clark.... %D,,,315800,64,365300,96,Back,1
+291509,Adam,Kennedy,WS,8,59,59,33,52,75,11,8,5,1,0,0,3,0,0, Full Time,job,Running off Tapscott... %P and %M,,,253800,63,277900,51,Centre,40
+291802,Tomas,Bugg,WS,8,59,63,40,49,70,8,12,1,2,0,2,1,0,1, Full Time,job,Chasing Byrnes... %B among %D with %s,,,355100,71,377700,57,Centre,14
+293662,Liam,Sumner,WS,9,49,44,43,40,53,5,4,3,3,0,0,1,1,2, Full Time,news,%O on Jetta,,,245300,47,230100,61,Centre,28
+293845,Jeremy,Cameron,WS,8,42,47,29,34,43,6,2,3,1,1,0,0,1,0, Full Time,news,Donuts in Q1... Frawley on him... %s from %P,,,290400,69,320700,68,Forward,18
+291891,Jacob,Townsend,WS,4,40,32,34,32,45,4,7,2,2,0,0,0,0,0, Full Time,news,%P and %T plus %M,tagger,Forward tag on Watts,212200,,200400,,Centre,31
+230082,Stephen,Gilham,WS,7,38,48,25,35,51,5,10,2,0,0,0,1,0,0, Full Time,job,Has the resting ruck which is mostly Gawn.. %O,,,236800,37,272000,48,Back,38
+261189,Tim,Mohr,WS,2,37,56,11,30,43,9,4,1,0,1,1,1,0,0, Full Time,job,Has Sylvia... %O,,,266900,62,375300,59,Back,39
+295265,Nick,Haynes,WS,3,33,26,20,31,42,6,3,5,0,0,0,2,0,0, Full Time,job,Responsible for Pedersen...  %D and %M... also %F,subbed,Subbed off in Q4 for Miles,216400,,198600,,Centre,19
+293738,Sam,Frost,WS,1,24,33,16,21,29,3,5,1,0,2,0,0,0,0, Full Time,job,%O up forward on Garland,,,199600,,278400,,Back,48
+290671,Anthony,Miles,WS,1,14,12,2,10,15,4,1,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Haynes... %P,sub,Started as a sub,346400,,338500,,Centre,25

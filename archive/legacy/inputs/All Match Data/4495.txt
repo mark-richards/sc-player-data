@@ -1,0 +1,48 @@
+St Kilda,Saints,West Coast,Eagles,R11,11.14.80,12.12.84, Full Time
+Jun 09,2013,4.40,Docklands,Seven,240283,10391105,stk-v-wce,0,Roof closed,16,,
+
+<em>cdrobert</em>: pridda<br><em>cdrobert</em>: stats<br><em>Heizenberg</em>: thanks gambler <br><em>fitzy1590</em>: montagna and riewoldt both missing easy goals&#044; umpiries heavily favouring wce.. looks like the eagles were meant to win<br><em>gambler</em>: feel for ya Heizem<br><em>Heizenberg</em>: doesnt get more empty than that as a punter<br><em title="MIJG">mijg</em>: Priddis got lucky with free kicks<br><em>J Dog</em>: where are the priddis haters now?<br><em>Dos95</em>: Thats what he gets for going for the free instead of trying to get rid of the ball<br><em>gambler</em>: joey cost stkilda the match <br><em>Rrgj</em>: not much hate on priddis now&#044; <br><em title="MIJG">mijg</em>: Holding the ball what a crock of shower<br>
+220075,Leigh,Montagna,SK,20,113,115,147,83,116,20,9,4,5,0,1,0,0,2, Full Time,hot,%P and %T with %M,,,511000,114,558800,138,Centre,11,9,105.1,107.7,1.89,1.11
+250340,David,Armitage,SK,44,113,120,152,76,108,13,9,2,12,0,2,0,0,0, Full Time,hot,%2 Priddis... %P and %T with %M,,,406300,122,419600,104,Centre,20,9,87.1,91.2,0.68,0.99
+200108,Stephen,Milne,SK,27,91,103,113,79,97,10,3,6,3,0,0,2,5,1, Full Time,target,First goal... %s from %O and %M on Adam Selwood,,,248900,53,281400,73,Forward,44,9,49.7,52.7,1.26,1.51
+210001,Nick,Riewoldt,SK,20,89,83,114,73,90,12,4,9,2,2,1,0,1,1, Full Time,news,%D and %M on Mackenzie,,,496500,151,546100,162,Forward,12,10,104.2,111,9.79,5.95
+220023,Nick,Dal Santo,SK,18,88,129,114,63,93,15,10,1,5,0,0,0,0,0, Full Time,news,%P and %T,job,Running off Sheppard on a HBF,377200,78,425400,72,Centre,26,10,81.3,83.2,1.67,2.16
+250036,Beau,Maister,SK,21,83,81,106,72,86,11,1,10,1,3,0,1,2,2, Full Time,news,Booted %s from %D and %M on the first gamer Wilson... %H as well,,,235600,78,239500,67,Forward,37,6,48,48,0.28,0.43
+270912,Jack,Steven,SK,25,82,89,110,60,90,8,11,2,9,0,0,2,0,0, Full Time,news,%O and %T,,,470200,107,542800,90,Centre,3,10,94.2,103.5,1.71,1.70
+270570,Trent,Dennis-Lane,SK,16,79,82,102,64,80,9,4,8,3,0,0,0,1,2, Full Time,news,%s from %P on Hurn... also %T and %M,,,213000,19,195400,24,Forward,8,3,39.3,31.7,0.41,0.80
+261323,Ben,McEvoy,SK,15,76,100,95,65,83,7,8,6,3,11,1,1,0,0, Full Time,news,%H and %D with %M,,,386800,125,480500,139,Ruck,5,10,82.5,102.7,3.43,4.89
+291773,Jack,Newnes,SK,9,73,107,97,58,80,13,5,5,3,0,1,2,0,2, Full Time,news,%2 Embley... %P and %s,,,272500,84,306000,89,Centre,16,8,49.3,52.1,0.63,0.45
+230243,Sean,Dempster,SK,13,71,104,93,57,76,10,6,6,3,1,1,1,0,0, Full Time,job,Moved from Hill to Darling in Q3... %D and %M,,,300700,94,326700,122,Back,24,7,58.4,57.7,0.50,0.52
+240062,Farren,Ray,SK,8,68,82,86,57,82,13,10,3,1,0,1,2,0,1, Full Time,news,%D and %M plus %s,,,361000,66,338900,57,Centre,22,7,78.1,66.6,0.37,0.36
+280317,Rhys,Stanley,SK,16,64,49,85,52,71,8,3,3,5,6,0,3,1,2, Full Time,news,%s from %P and %M on Brown... also %T and %H,,,217100,19,298200,54,Forward,28,10,52.1,67.5,0.62,0.53
+261743,Clinton,Jones,SK,12,62,66,80,45,66,9,8,1,4,0,0,0,0,0, Full Time,news,%D and %T,tagger,Tagging Shuey,404500,128,424200,139,Centre,4,7,80.9,87.4,0.29,0.34
+296459,Sam,Dunell,SK,5,54,64,70,42,57,6,6,4,3,0,0,0,0,0, Full Time,tagger,Tagging Gaff... %P and %M,,,216400,,201200,,Centre,38,0,0,0,0.22,0.34
+260113,Jarryn,Geary,SK,4,46,66,61,33,45,7,3,2,3,0,1,0,0,0, Full Time,news,%O,,,279500,97,328800,93,Back,14,10,62.6,74.5,2.46,2.53
+293846,Sebastian,Ross,SK,9,42,44,58,34,51,4,6,2,5,0,1,3,0,0, Full Time,scooter,Tagging Scott Selwood... %D and %T,,,281500,36,278600,50,Centre,6,7,59,54,1.18,0.75
+280933,Dylan,Roberton,SK,3,38,54,48,35,48,5,7,3,1,0,2,2,0,0, Full Time,news,On Darling which is ruining his scoring... donuts in Q1... %P... shifted to Hill in Q3,,,356800,95,422700,114,Back,17,10,74.1,87.3,4.49,6.20
+290757,Jimmy,Webster,SK,3,34,24,44,29,39,7,3,3,0,0,1,1,0,0, Full Time,job,Has Hams... %O and %M,subbed,Subbed off at 3QT for Saunders,150000,22,172700,43,Back,29,4,43,45,3.30,4.66
+250703,James,Gwilt,SK,2,33,57,43,26,33,7,1,3,0,0,1,0,0,0, Full Time,job,Takes the resting ruck which is mostly Cox... %P,,,286400,86,403200,87,Back,33,5,64.8,87.6,2.32,2.43
+294818,Ahmed,Saad,SK,8,30,30,38,29,39,3,4,3,1,0,0,2,1,0, Full Time,egypt,%s from %O and %M on Butler,in,Late replacement for Tom Hickey,256100,71,254300,61,Forward,21,10,48.4,49.4,1.68,1.58
+295477,Josh,Saunders,SK,1,20,31,28,13,18,3,0,1,2,0,0,0,0,0, Full Time,in,Late replacement for Nathan Wright... on after 3QT for Webster,sub,Started as a sub,102700,-13,109500,18,Back Centre,35,2,39.5,24.5,3.68,3.20
+270928,Scott,Selwood,WC,31,124,124,98,102,138,14,19,6,5,0,3,1,1,0, Full Time,star,Tagged by Ross... %D and %M plus %T and %s,,,491200,100,491200,67,Centre,10,10,107.1,101.1,5.49,2.08
+240124,Matt,Priddis,WC,22,103,119,67,88,114,15,12,5,2,0,5,2,2,0, Full Time,x-factor,%2 Armitage... %O and %M plus %T and %F... also %s all in Q4,,,443200,83,490000,95,Centre,11,10,89.2,94.8,9.97,12.22
+200112,Dean,Cox,WC,30,102,132,68,88,105,14,3,6,1,26,2,1,1,1, Full Time,hot,%D and %M starting forward on Gwilt... also %H,,,434800,104,523200,119,Forward Ruck,20,10,92.1,109.1,51.94,48.40
+271045,Nic,Naitanui,WC,24,98,109,80,85,101,9,5,5,2,31,0,0,1,1, Full Time,news,%H and %P plus %M and %s,,,432600,93,609400,118,Forward Ruck,9,5,80.4,107.2,13.40,15.67
+280078,Luke,Shuey,WC,15,86,70,54,70,99,14,12,4,3,0,2,2,0,0, Full Time,tagged,Tagged by Jones... %D and %M,,,463100,78,515000,91,Centre,13,10,95.1,99.3,2.74,2.69
+290833,Blayne,Wilson,WC,19,84,89,58,72,93,12,9,10,0,0,0,0,0,0, Full Time,heart,First game... %P and %M... right wrist knock in Q3,job,Has Maister,108500,,115900,,Back,30,0,0,0,0.31,0.24
+250317,Eric,Mackenzie,WC,20,81,132,70,71,93,8,9,7,3,0,0,2,2,0, Full Time,news,%M and %D... also %T and %F,job,Following Riewoldt,213500,35,280600,68,Back,16,8,40.8,50.1,0.65,0.37
+261290,Chris,Masten,WC,9,76,85,46,62,87,12,12,4,1,0,0,0,0,0, Full Time,news,%D and %M,,,504300,91,496600,111,Centre,7,9,104.2,99.4,1.10,0.84
+990020,Andrew,Embley,WC,15,75,52,43,60,75,13,2,5,1,0,1,0,2,0, Full Time,news,%2 Newnes.. %P and %s,,,259600,91,264100,93,Centre,32,4,48.3,41.3,2.77,2.72
+290838,Jack,Darling,WC,21,73,79,60,65,79,8,3,7,2,0,1,2,3,1, Full Time,news,Booted %s from %P and %T with %M on Roberton... got Dempster in Q3,,,363100,62,414800,77,Forward,27,10,74.6,83.8,4.28,3.06
+240159,Sam,Butler,WC,14,70,57,62,52,69,8,4,6,5,0,0,0,0,0, Full Time,news,%O and %T with %M,job,Saad is his man,361500,88,380600,83,Back,26,6,71.5,73.8,0.36,0.25
+210018,Daniel,Kerr,WC,9,65,78,43,53,72,10,8,4,2,0,2,1,0,0, Full Time,news,%D and %M with %T,,,343100,54,449000,72,Centre,4,7,70,85.4,1.25,0.65
+240283,Shannon,Hurn,WC,4,54,83,22,42,54,12,2,4,0,0,2,0,0,0, Full Time,news,%O and %M,job,Dennis-Lane manning him up,369900,73,508400,113,Back,25,10,71.8,95.9,3.55,4.22
+281080,Brad,Sheppard,WC,4,53,67,31,39,55,10,3,2,3,0,1,1,0,1, Full Time,news,%s from %P with Dal Santo paying him no mind,,,265700,46,279000,55,Centre,5,6,54.7,54.7,0.44,0.30
+280324,Jacob,Brennan,WC,5,51,65,46,40,54,5,6,4,3,0,0,0,0,0, Full Time,news,%O and %T,,,240600,43,245700,28,Back,14,7,51.1,47.3,0.61,0.72
+250111,Matt,Rosa,WC,3,45,57,20,37,54,10,4,3,1,0,0,2,0,0, Full Time,news,%O and %M,,,395300,114,418600,120,Centre,24,4,67.5,73.5,0.22,0.15
+260303,Mitchell,Brown,WC,3,44,47,34,37,51,5,8,3,1,0,0,0,0,0, Full Time,job,Has Stanley... %P and %M,,,195900,37,215400,51,Forward,1,3,34,33.3,0.35,0.28
+261209,Josh,Hill,WC,3,41,55,29,33,43,6,3,4,1,0,0,0,0,1, Full Time,news,%D and %M on Dempster then got Roberton in Q3,,,336000,51,418000,76,Forward,33,10,69,82.3,1.31,1.11
+230254,Adam,Selwood,WC,3,38,38,20,31,39,7,3,3,0,0,2,0,0,0, Full Time,job,Minding Milne... %O,,,236600,50,245300,38,Back,37,6,44.8,47,1.52,2.45
+250034,Ashton,Hams,WC,3,35,22,31,25,32,4,1,2,3,0,1,0,0,2, Full Time,news,%s from %O and %M on Webster,subbed,Subbed off in Q3 for Cripps,261300,75,332500,102,Forward,43,5,53.2,63.6,0.47,0.23
+290801,Andrew,Gaff,WC,3,31,49,18,26,36,5,5,2,0,0,0,0,0,0, Full Time,tagged,Tagged by Dunell... %O,,,328200,76,381200,73,Centre,3,10,65,71.2,1.25,1.41
+290826,Jamie,Cripps,WC,0,8,12,10,6,9,0,2,0,1,0,0,0,0,0, Full Time,in,Late replacement for Josh J. Kennedy... on in Q3 for Hams,sub,Started as a sub,239000,34,209600,14,Centre,15,5,54.2,47.6,1.02,1.21

@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Geelong,Cats,R9,11.9.75,14.11.95, Full Time
+May 25,2012,7:50,Docklands,Seven,220007,10340901,430080,0,Roof closed,14,,
+
+<em>Kasperados</em>: Boo<br><em>rogan84</em>: chaps and johno rooboypete<br><em>mufc</em>: selwood dissapointin<br><em>rooboypete</em>: 279 from 2. I'll leave you to guess which two....<br><em>Bedlam</em>: Stevie J + Chappy = Killin it<br><em>GoLions</em>: @Juddy but people don't use 'Aussie' with intended negative connotations. now do they?<br><em>go_freo</em>: yes steve j<br><em>Squidooo</em>: This site is getting as soft as the afl&#044; cant do this&#044; cant do that&#044; racism is all good but not on our own natives<br><em>cdimasi</em>: 322 from 3 that ok<br><em>redgum</em>: good response to a hard week by Josh Hunt<br><em>boskodog</em>: why am i banned monty???   i had a go at the racists..<br><em>agwager</em>: @m0nty your need to make your snippet box a little bigger. Johnson's news doesn't fit<br>
+220010,Matthew,Boyd,WB,16,111,125,137,90,126,15,19,5,3,0,1,0,0,0, Full Time,hot,%2 Corey... %P including %B with %M,,
+290799,Tom,Liberatore,WB,21,94,100,117,75,102,11,13,4,4,0,1,0,1,0, Full Time,news,%2 Duncan... %O and %M,,
+291545,Mitch,Wallis,WB,21,94,108,118,76,105,10,14,4,5,0,1,1,1,0, Full Time,news,%B among %D with %M and %T... also %s,,
+230255,Will,Minson,WB,21,91,103,106,76,98,11,9,0,2,32,0,0,0,0, Full Time,news,%H and %D with %T,,
+240156,Ryan,Griffen,WB,15,84,76,107,67,93,15,10,4,2,0,2,1,0,0, Full Time,tagged,Tagged by Taylor Hunt... %P and %M,,
+200083,Robert,Murphy,WB,13,78,103,94,64,93,14,15,2,0,0,0,0,0,0, Full Time,job,Has Johnson... %O including %B with %M,,
+200079,Daniel,Giansiracusa,WB,27,72,80,97,58,78,10,1,3,6,0,1,4,3,0, Full Time,news,%s from %P and %T with %M,,
+260227,Shaun,Higgins,WB,21,72,84,88,58,75,6,7,2,4,0,0,0,3,0, Full Time,news,Started deep forward on Mackie... %s from %P,,
+291526,Luke,Dahlhaus,WB,9,72,92,92,56,78,10,9,4,3,0,0,0,0,0, Full Time,news,Playing deep forward trying to keep Enright busy... %P,,
+280012,Jordan,Roughead,WB,9,71,93,92,55,73,8,6,3,5,4,2,1,0,3, Full Time,news,%P and %M on Lonergan... also %H and %T,,
+295712,Tory,Dickson,WB,15,70,69,89,54,72,6,8,3,5,0,1,0,1,0, Full Time,news,%s from %O on Josh Hunt... also %T,,
+210049,Daniel,Cross,WB,13,67,85,84,52,71,7,10,2,4,2,2,0,0,0, Full Time,news,%P and %T,tagger,Tagging Bartel
+200082,Ryan,Hargrave,WB,8,64,56,81,54,75,10,9,5,1,0,0,1,0,0, Full Time,news,Loose in defence... %D and %M,,
+230041,Adam,Cooney,WB,8,63,77,78,50,72,11,10,2,1,0,0,0,0,0, Full Time,news,Matched up on Scarlett... %D and %M,,
+281078,Liam,Jones,WB,10,61,55,79,52,65,11,2,5,1,0,3,2,1,2, Full Time,in,%l Ayce Cordy... %s from %G and %P on Taylor,,
+271439,Liam,Picken,WB,8,58,49,78,41,61,9,5,1,5,0,0,1,0,1, Full Time,sore,%O and %T plus %s... big cut opened up on his left cheek in Q2 which spilled plenty of claret,tagger,Tagging Selwood
+220039,Brian,Lake,WB,8,52,78,69,43,60,11,4,4,1,0,1,2,0,0, Full Time,tomahawk,Has Hawkins... %P,,
+240325,Justin,Sherman,WB,3,45,45,56,36,51,7,7,2,1,0,0,0,0,0, Full Time,news,Matched up on Motlop... %D,,
+270186,Patrick,Veszpremi,WB,3,37,36,47,29,40,4,5,2,2,0,0,0,0,1, Full Time,injured,Chasing Stokes... %P and %M with %T and %s... struggled with right hamstring tweak,subbed,Subbed off in Q3 for Skinner
+293676,Daniel,Pearce,WB,3,36,35,46,28,39,4,5,2,2,0,0,0,0,0, Full Time,rookie,First game... %D,,
+261243,Mark,Austin,WB,3,35,49,45,28,36,3,4,3,2,0,1,0,0,0, Full Time,ipod,On Podsiadly... %D and %M,,
+280442,Zephaniah,Skinner,WB,6,19,24,23,15,19,2,1,0,1,0,0,0,1,1, Full Time,news,On in Q3 for Veszpremi,sub,Started as a sub
+220054,Steve,Johnson,GE,37,148,146,91,119,157,25,11,14,2,0,0,0,0,1, Full Time,star,%s from %P and %M on Murphy... had a good Q2 playing up the ground... Dogs allowed him too much latitude and he eventually made them pay,,
+200039,Paul,Chapman,GE,32,131,128,95,103,134,18,9,8,5,0,1,0,2,2, Full Time,gun,%P and %T with %M and %s,,
+220007,Jimmy,Bartel,GE,33,100,92,90,74,102,10,10,4,8,0,0,0,1,0, Full Time,hot,Tagged by Cross... %O and %T with %M,,
+250321,Joel,Selwood,GE,21,100,110,66,74,100,16,6,4,5,1,1,0,1,0, Full Time,hot,Tagged by Picken... %P and %T plus %M and %s,,
+200035,Corey,Enright,GE,15,97,111,61,76,99,17,4,9,3,0,2,1,0,0, Full Time,news,%P and %M with %T,job,Zoning off Dahlhaus
+230248,Andrew,Mackie,GE,16,87,86,59,70,96,13,9,5,3,0,0,1,1,0, Full Time,news,First goal... %D and %T plus %M with %s,job,Higgins trying to man him up
+200034,Joel,Corey,GE,14,86,89,56,69,99,13,13,3,3,3,0,1,0,0, Full Time,news,%2 Boyd... %D and %T,,
+280822,Taylor,Hunt,GE,32,86,76,91,67,90,5,11,4,8,0,2,1,1,0, Full Time,news,%O and %T plus %M and %s,tagger,Tagging Griffen
+261510,Tom,Hawkins,GE,24,83,119,59,75,93,10,8,6,0,1,1,1,3,2, Full Time,news,Kicked %s from %P and %G on Lake,,
+210059,Josh,Hunt,GE,9,79,104,54,61,81,12,7,5,3,0,2,0,0,0, Full Time,news,%O and %M,job,Minding Dickson
+980037,Matthew,Scarlett,GE,19,78,98,58,64,87,12,5,8,4,0,1,3,0,0, Full Time,news,%P and %M,job,Cooney manning him up
+230214,Mathew,Stokes,GE,10,74,43,57,60,76,10,4,9,2,0,0,0,0,1, Full Time,news,%O and %M on Veszpremi... also %T,,
+280990,Steven,Motlop,GE,20,74,94,53,63,82,9,8,2,2,0,1,1,3,1, Full Time,x-factor,Matched up on Sherman... %s from %P with %T and %M,,
+261167,Orren,Stephenson,GE,18,73,58,63,65,78,6,4,4,2,30,0,1,0,0, Full Time,news,%H and %D with %M and %T,,
+291309,Jesse,Stringer,GE,19,71,66,69,53,78,6,11,2,7,0,0,1,0,0, Full Time,news,%D and %T with %M,,
+281065,Mitch,Duncan,GE,8,63,40,33,50,66,13,1,7,1,0,0,1,0,0, Full Time,news,%2 Liberatore... %P and %M,,
+261497,Harry,Taylor,GE,9,59,69,45,47,60,8,4,6,2,0,1,0,0,0, Full Time,news,%O and %M,job,Standing Jones
+260261,Trent,West,GE,10,52,46,34,45,54,7,3,3,0,8,1,0,1,1, Full Time,injured,%H and %P plus %M and %s... left pectoral muscle injury in Q3,subbed,Subbed off at 3QT for Simpkin
+200131,James,Podsiadly,GE,9,39,29,27,33,41,6,0,4,1,1,0,1,1,1, Full Time,news,Austin on him... %s from %P and %M,,
+290550,Cameron,Guthrie,GE,7,32,34,32,21,30,3,2,1,4,0,0,0,0,0, Full Time,news,%D and %T,,
+230125,Tom,Lonergan,GE,2,13,26,6,14,21,3,2,2,0,0,0,2,0,0, Full Time,news,Donuts in Q1... %D,job,Responsible for Roughead
+250652,Jonathan,Simpkin,GE,1,12,16,11,11,18,1,4,0,1,0,0,1,0,0, Full Time,rookie,First game... on after 3QT for West,sub,Started as a sub

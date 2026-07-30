@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Geelong,Cats,R5,13.8.86,15.17.107, Full Time
+Apr 27,2013,7.40,Docklands,Seven,261160,10390506,wb-v-geel,0,Roof closed,20,,
+
+<em>Rilian</em>: No red cross for Caddy? Didn't play after halfway through Q2....<br><em>NDiddy</em>: @Dragon88 - Good thing i didn't go jelwood captain <br><em>NDiddy</em>: goodes at least a week<br><em>ballbag</em>: jelwood being owned tonight<br><em>9robbo9</em>: caddy hasn't come back on so goodes will get at least 1<br><em>32Danger32</em>: Will goodes get any weeks?<br><em>vbdl</em>: goodes gave caddy an elbow to the head<br><em>itsduftime</em>: been a while since a geelong goal<br><em>32Danger32</em>: Why is goodes reported?<br><em>gunners23</em>: Libba&#044; what are you doing??!!<br><em>zadow757</em>: missed bartel handball -.-<br><em>spiggs</em>: do somefing jelwood ffs<br>
+220010,Matthew,Boyd,WB,26,108,107,136,85,120,11,18,5,6,0,0,0,0,0, Full Time,hot,%P including %K with %T and %M,,,593700,,605800,,Centre,5
+210049,Daniel,Cross,WB,25,104,82,129,87,118,9,18,8,4,1,0,0,0,0, Full Time,hot,%O and %M plus %T,,,465900,101,514200,113,Centre,4
+281078,Liam,Jones,WB,21,81,107,97,71,83,8,4,6,1,0,1,0,4,2, Full Time,news,First goal... %s from %P and %G on Rivers,,,238000,34,284100,56,Forward,19
+294826,Tom,Young,WB,10,81,104,104,63,84,14,7,5,2,0,2,0,0,0, Full Time,news,%D and %M,job,Has the resting ruckman,271300,28,299500,32,Back,31
+293847,Clay,Smith,WB,15,80,81,100,65,82,13,4,5,1,0,1,0,2,1, Full Time,news,%O and %M plus %s,,,325200,38,285200,9,Centre,14
+290799,Tom,Liberatore,WB,14,79,95,100,63,90,14,11,3,2,0,1,1,0,0, Full Time,news,%2 Kelly... %P and %M plus %T,,,433700,95,477600,109,Centre,21
+294101,Jason,Johannisen,WB,9,79,102,103,63,87,18,6,4,1,0,3,2,0,0, Full Time,news,%O and %M... also %F,job,Minding Christensen,216300,45,271900,56,Centre,39
+280012,Jordan,Roughead,WB,15,77,79,97,63,79,8,6,6,3,4,1,0,1,0, Full Time,news,%D and %M... also %H,job,Taylor is his man,241900,59,308500,73,Ruck,23
+271439,Liam,Picken,WB,14,76,91,98,63,81,9,7,9,2,0,0,0,0,0, Full Time,news,%P and %M,job,Minding Motlop,360200,112,355700,99,Centre,42
+230255,Will,Minson,WB,21,72,102,85,63,76,7,3,0,3,37,2,2,0,0, Full Time,news,%H and %D with %T,,,447800,97,545300,128,Ruck,27
+281013,Jason,Tutt,WB,13,72,52,95,58,77,12,4,7,2,0,0,1,0,2, Full Time,news,%s from %P and %M... also %T,,,203000,,194800,,Forward,15
+230041,Adam,Cooney,WB,14,70,65,86,59,79,13,6,3,0,0,0,1,2,1, Full Time,news,%P and %s,,,434100,66,475200,54,Centre,17
+280946,Koby,Stevens,WB,9,70,82,88,57,78,11,9,5,1,0,0,0,0,0, Full Time,news,%D and %M,,,230500,23,227300,-4,Centre,25
+291545,Mitch,Wallis,WB,14,69,55,89,53,72,8,8,4,4,0,1,0,0,0, Full Time,news,%D and %M with %T,,,404800,69,451000,101,Centre,3
+260713,Nick,Lower,WB,8,63,45,83,50,72,11,7,3,3,0,1,2,0,0, Full Time,tagger,Tagging Selwood... %P and %M... also %T and %F,,,315000,89,319900,100,Centre,33
+291526,Luke,Dahlhaus,WB,13,63,88,77,50,70,7,10,1,3,0,0,0,1,1, Full Time,news,%s from %O and %T on Bartel,,,341900,108,405300,136,Forward,6
+261160,Brett,Goodes,WB,12,61,67,79,51,69,12,5,6,0,0,0,1,0,0, Full Time,job,Zoning off Smedts... %D and %M,mrp,A swinging elbow on Caddy in Q2 will be looked at,242000,-20,294000,-18,Centre Back,44
+293884,Jake,Stringer,WB,16,58,69,72,53,66,7,3,5,1,0,0,2,3,0, Full Time,bubble,Second game... %s from %P and %M up forward on Guthrie,,,165700,,179500,,Centre Forward,9
+250712,Dale,Morris,WB,9,47,58,62,44,57,7,4,8,0,0,0,2,0,0, Full Time,ipod,On Podsiadly... %M and %D,,,237900,38,317200,30,Back,38
+261243,Mark,Austin,WB,4,41,41,52,34,45,7,4,4,0,0,0,0,0,0, Full Time,news,Started forward on Lonergan... %P and %M,,,217800,,276300,,Back,47
+295467,Jackson,Macrae,WB,2,25,11,30,22,30,3,5,2,0,0,0,0,0,0, Full Time,bubble,Second game... on in Q3 for Veszpremi... %O and %M,sub,Started as a sub,161200,,174500,,Centre,11
+270186,Patrick,Veszpremi,WB,0,15,12,19,11,16,2,2,0,1,0,0,0,0,1, Full Time,news,%s from %D on Mackie,subbed,Subbed off in Q3 for Macrae,276900,,283600,,Forward,8
+220054,Steve,Johnson,GE,57,141,160,108,102,141,19,11,4,10,0,1,0,1,3, Full Time,star,%D and %T plus %M and %s,,,501700,97,516700,136,Forward,20
+261497,Harry,Taylor,GE,33,108,138,93,96,113,10,4,11,2,0,0,1,5,2, Full Time,x-factor,Started forward on Roughead... %s from %P and %M,,,372100,13,446700,38,Back,7
+280990,Steven,Motlop,GE,30,98,98,72,86,105,12,7,10,0,0,0,0,3,0, Full Time,news,%s from %P and %M on Picken,,,352000,40,372700,32,Forward,32
+220058,James,Kelly,GE,25,97,94,63,76,108,15,12,3,4,0,0,1,1,0, Full Time,news,%2 Liberatore... %P and %T plus %M and %s,,,502300,,553200,,Centre,9
+230248,Andrew,Mackie,GE,14,93,98,58,76,100,15,9,8,1,0,1,0,0,1, Full Time,news,%P and %M plus %s,job,Running off Veszpremi,396800,69,427100,76,Back,4
+200035,Corey,Enright,GE,19,91,88,53,73,102,16,10,6,2,0,0,1,0,0, Full Time,news,%P and %M,,,396500,81,463900,119,Back,44
+230214,Mathew,Stokes,GE,14,86,87,63,71,97,11,13,6,2,0,0,0,0,1, Full Time,news,%s from %O and %M... also %T,,,403000,6,420800,23,Forward,27
+250321,Joel,Selwood,GE,17,84,87,63,72,94,10,10,5,2,1,1,1,2,0, Full Time,tagged,Tagged by Lower... %O and %M with %T and %s,,,516400,116,619900,132,Centre,14
+220007,Jimmy,Bartel,GE,9,81,109,54,63,90,12,12,3,3,0,0,0,0,0, Full Time,news,%D and %M with %T,job,In a BP again on Dahlhaus,473800,126,548500,151,Centre,3
+281065,Mitch,Duncan,GE,13,81,65,50,66,87,13,9,6,1,0,2,0,0,0, Full Time,news,%P and %M,sore,Corked right knee in Q1,432300,63,402300,67,Forward,22
+293255,George,Horlin-Smith,GE,14,81,84,62,67,90,10,11,7,2,0,0,0,0,0, Full Time,news,%O and %M with %T,,,171900,17,198000,8,Forward,33
+290783,Billie,Smedts,GE,20,77,86,64,60,79,9,6,4,5,0,2,1,1,1, Full Time,news,%s from %P and %T on Goodes... also %M,,,242500,66,254800,57,Back,2
+200034,Joel,Corey,GE,10,72,67,62,62,85,6,16,4,2,0,1,0,0,1, Full Time,news,Donuts in Q1... %P and %M... also %T,,,387400,80,410200,97,Centre,11
+260261,Trent,West,GE,11,67,59,48,58,75,9,5,4,2,15,1,2,0,0, Full Time,news,%H and %P... also %M and %F,,,310900,62,354400,57,Ruck,12
+200131,James,Podsiadly,GE,19,65,75,48,56,75,9,6,6,2,0,0,2,1,0, Full Time,news,%s from %P and %M on Morris,,,357100,68,388300,87,Forward,31
+280918,Allen,Christensen,GE,14,64,71,46,54,73,8,10,2,2,0,2,1,1,1, Full Time,news,%O and %s,,,399500,71,431100,66,Centre,28
+280822,Taylor,Hunt,GE,8,54,58,33,41,58,9,6,2,2,0,0,0,0,1, Full Time,news,On after QT for Rivers... %O,sub,Started as a sub,354800,43,397700,60,Centre,19
+230125,Tom,Lonergan,GE,8,51,68,44,46,60,5,8,6,1,0,1,1,0,0, Full Time,job,On Austin... %P and %M,,,238200,70,282700,92,Back,13
+290550,Cameron,Guthrie,GE,4,51,58,33,39,54,8,6,2,2,0,1,0,0,0, Full Time,in,%l Tom Hawkins... %P and %T,job,Minding Stringer,223500,,247300,,Back,29
+290623,Josh,Caddy,GE,1,25,20,19,20,27,3,4,1,1,0,1,0,0,0, Full Time,concussed,%D... copped a knock in Q2 and came off disoriented,,,281300,114,284400,119,Centre,23
+296733,Mark,Blicavs,GE,2,22,27,23,23,30,1,3,2,1,9,0,2,0,0, Full Time,news,%H and %P with %M,,,160400,17,188800,9,Ruck,46
+230250,Jared,Rivers,GE,0,5,9,2,4,6,1,1,0,0,0,0,0,0,0, Full Time,injured,Has Jones... %P... right knee injury in Q1,subbed,Subbed off at QT for Hunt,299800,80,394200,109,Back,25

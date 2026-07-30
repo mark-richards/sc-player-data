@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Adelaide,Crows,R9,19.10.124,18.17.125, Full Time
+May 26,2013,3.15,Docklands,Seven,240417,10390908,nmfc-v-adel,0,Roof closed,17,,
+
+<em>DangerCrow</em>: Cherry for douglas? please he was the one who won us the match! Give him a star too or at least the gun<br><em>CJEagles14</em>: Oh dear. Poor North.<br><em>DangerCrow</em>: if Kerridge doesnt get the rising star -- its rigged!<br><em>rupink06</em>: north is a joke of a club<br><em>Daddsy321</em>: i won png yay!<br><em>Karlpov</em>: That was an amazing game of football to watch! My favourite so far this year..<br><em>doogz</em>: needed danger to kick that winning goal.<br><em>dashurg</em>: Petrenko massive SC for winning goal&#044; did sfa rest of the game haha.<br><em>gambler</em>: Umps on North side too does not make it any prettier at all <br><em>R.Griff</em>: who would support North there teams a rabble<br><em>hawks:)</em>: for th quarter<br><em>matthius</em>: get that flowering heart of swallow the flog. weak effort yet again when game on the line.<br>
+280944,Jack,Ziebell,NM,56,128,113,170,96,130,16,7,6,10,0,1,2,2,1, Full Time,hot,%D and %T plus %M and %s,mrp,A late hit on Lyons in Q2 will be looked at,441200,81,467800,62,Centre,7
+250557,Sam,Gibson,NM,33,122,90,151,105,138,15,15,10,2,0,0,1,2,0, Full Time,magnet,Ran hard all day... %B among %D with %M and %s,,,413300,129,367200,96,Centre,43
+240417,Andrew,Swallow,NM,31,104,124,135,74,102,12,10,1,9,0,3,0,1,0, Full Time,heart,%2 Thompson... %P and %T... ankle restrapped in Q2,,,477700,137,553900,158,Centre,9
+280921,Ben,Cunnington,NM,31,104,116,131,80,102,12,7,3,6,0,3,0,3,0, Full Time,hot,%D and %T with %M and %s,,,355800,59,435000,89,Centre,10
+290194,Jamie,MacMillan,NM,20,95,87,124,71,90,14,4,5,5,0,4,0,1,0, Full Time,news,First goal... %P and %T plus %s,,,343900,94,357300,75,Centre,34
+280863,Ryan,Bastinac,NM,18,92,87,121,70,93,12,7,7,5,0,1,0,0,0, Full Time,news,%O and %M with %T,,,380800,99,400100,114,Centre,3
+210023,Drew,Petrie,NM,23,91,115,116,70,87,9,5,4,6,3,3,0,2,0, Full Time,news,%D and %T on Talia,,,398400,76,506000,88,Forward,20
+960491,Brent,Harvey,NM,16,89,78,114,71,97,16,7,5,2,0,0,1,1,1, Full Time,news,%O and %M with %T and %s,,,452000,94,511000,62,Forward Centre,29
+230232,Daniel,Wells,NM,20,85,87,107,69,91,12,8,6,2,0,0,0,1,1, Full Time,news,%2 Dangerfield... %P with %k by foot... also %M,,,377500,127,490500,159,Centre,8
+271129,Todd,Goldstein,NM,22,77,98,85,71,84,2,9,2,2,39,0,0,0,0, Full Time,news,%H and %P,,,429500,71,586500,107,Ruck,22
+291445,Aaron,Mullett,NM,13,77,64,100,61,81,12,6,7,2,0,0,0,0,0, Full Time,news,%O and %T with %M,,,307000,85,330700,98,Centre,41
+261909,Lindsay,Thomas,NM,22,75,110,91,65,78,10,1,4,1,0,0,1,5,0, Full Time,target,Booted %s from %P and %M on Brown then Smith,,,337000,111,376900,113,Forward,12
+250285,Leigh,Adams,NM,10,68,79,82,58,81,6,15,4,2,0,0,0,0,0, Full Time,news,%D on Reilly,,,318500,114,392500,141,Forward Centre,13
+250373,Lachlan,Hansen,NM,12,60,70,76,51,66,9,6,7,0,0,0,0,0,0, Full Time,news,%P and %M,job,Has McKernan,266800,6,287900,24,Forward,6
+281395,Scott D.,Thompson,NM,10,60,71,80,46,63,8,5,4,4,0,1,1,0,0, Full Time,job,Run all about by Lynch until HT when switched to Jenkins... %D,,,367600,94,486700,117,Back,16
+250135,Scott,McMahon,NM,5,59,80,78,45,58,10,2,5,2,0,1,0,0,1, Full Time,job,Minding Petrenko... %P and %M plus %s,,,294300,72,370900,80,Back,42
+291672,Aaron,Black,NM,14,59,60,75,51,65,8,4,6,1,0,0,1,1,2, Full Time,news,Kicked %s from %P and %M on Otten,,,274600,11,329200,-11,Forward,35
+290787,Shaun,Atley,NM,8,52,65,65,44,63,6,10,3,2,0,0,1,0,0, Full Time,news,%D,,,310900,64,348100,74,Back,18
+230272,Michael,Firrito,NM,7,49,43,64,41,51,6,3,7,1,0,0,0,0,0, Full Time,job,Lyons manning him up... %P and %M,,,306500,101,364500,110,Back,11
+240131,Nathan,Grima,NM,4,32,38,39,31,42,3,7,4,0,0,0,1,0,0, Full Time,job,Standing Jenkins until HT when moved to Lynch... %P and %M,,,300500,111,372400,120,Back,17
+280864,Sam,Wright,NM,1,14,19,21,11,19,3,1,0,2,0,0,2,0,1, Full Time,news,On in Q3 for Daw,sub,Started as a sub,255200,68,310100,62,Back,19
+290199,Majak,Daw,NM,0,6,7,8,8,13,0,2,0,1,4,0,2,0,0, Full Time,sudan,%P on Rutten... also %H and %F,subbed,Subbed off in Q3 for Wright,230300,-19,255100,-15,Ruck,38
+291806,Sam,Kerridge,AD,38,126,143,94,110,135,14,10,8,1,0,0,0,6,0, Full Time,star,%s from %D and %M including three majors in a productive Q3 and three more in Q4,cash,His cash generation has restarted,254900,-13,238500,-56,Forward Centre,29
+240370,Richard,Douglas,AD,32,123,141,80,101,135,20,8,9,4,0,1,3,2,0, Full Time,cherry,%O and %M with %T... also %F,,,456400,67,513400,67,Centre,26
+270917,Patrick,Dangerfield,AD,31,121,123,85,93,129,18,12,6,6,2,1,1,0,1, Full Time,gun,%2 Wells... %B among %D with %T and %M,,,527900,112,621500,137,Centre,32
+210016,Scott,Thompson,AD,25,102,71,72,78,109,16,8,6,6,0,1,2,0,1, Full Time,hot,%2 Swallow... %D and %T plus %s,,,502500,89,547000,95,Centre,5
+261142,Bernie,Vince,AD,17,92,122,51,71,96,17,4,4,3,0,0,1,2,0, Full Time,news,%O and %M plus %s,,,426100,63,413200,80,Centre,17
+270938,Tom T.,Lynch,AD,13,77,75,51,65,84,12,7,8,1,0,2,1,0,0, Full Time,news,%D and %M on Thompson then got Grima in Q3,,,404400,3,361400,-14,Forward,27
+294828,Josh,Jenkins,AD,16,73,80,54,65,78,8,5,5,0,4,0,0,3,2, Full Time,news,%s from %P and %M on Grima then got Thompson in Q3,,,338500,37,359100,17,Forward Ruck,4
+293716,Jarryd,Lyons,AD,13,71,72,47,54,79,11,10,1,4,0,1,1,0,1, Full Time,news,%P and %T in  a forward role on Firrito,,,207500,3,201600,-1,Forward Centre,31
+261138,Jared,Petrenko,AD,14,65,101,40,55,71,10,5,3,1,0,1,1,2,2, Full Time,news,%s from %D and %M on McMahon,,,286200,58,324000,85,Forward,23
+250118,Nathan,van Berlo,AD,9,63,62,46,50,66,9,5,6,2,0,0,0,0,0, Full Time,news,%O and %M,,,366700,51,380200,56,Centre,7
+280038,Shaun,McKernan,AD,15,63,65,39,53,72,10,5,2,2,7,0,2,1,2, Full Time,news,%s from %D on Hansen... also %H,,,231500,15,288700,54,Forward Ruck,35
+270963,Rory,Sloane,AD,14,60,72,48,50,68,6,10,2,2,1,0,0,1,1, Full Time,news,%O with %b by hand... also %s,,,471000,86,526300,82,Centre,9
+293222,Rory,Laird,AD,8,58,54,51,47,66,5,12,2,3,0,1,0,0,0, Full Time,cash,%D including %B... also %T and %M,,,209100,-5,193500,8,Back,46
+250362,David,Mackay,AD,7,54,55,35,44,59,8,7,3,1,0,1,0,0,2, Full Time,news,%O and %M plus %s,,,391900,51,406300,15,Centre,14
+280934,Daniel,Talia,AD,4,47,68,29,41,57,8,6,4,1,0,1,2,0,0, Full Time,job,Standing Petrie... %O,,,200400,-3,263600,1,Back,12
+220086,Brent,Reilly,AD,3,43,63,30,35,48,6,6,3,1,0,0,0,0,0, Full Time,job,Responsible for Adams... %P,,,402000,60,508100,105,Back,3
+291748,Brodie,Smith,AD,7,43,47,18,36,51,9,6,2,0,0,1,1,0,0, Full Time,job,Moved to Thomas in Q1... %P and %M,,,321600,75,364700,81,Back,33
+270296,Andy,Otten,AD,3,41,44,38,31,42,4,4,3,3,0,0,0,0,0, Full Time,news,%P and %T,job,Following Black,324700,76,396900,92,Back,22
+220093,Ben,Rutten,AD,4,39,42,36,38,54,3,10,4,1,0,0,2,0,0, Full Time,job,On Daw... %P,,,283600,85,324500,93,Back,25
+230174,Jason,Porplyzia,AD,8,33,35,22,29,39,4,6,1,0,0,0,0,1,0, Full Time,news,On in Q3 for Jacobs,sub,Started as a sub,246100,48,280700,81,Forward,40
+293193,Luke,Brown,AD,2,28,19,17,21,27,5,1,2,1,0,1,0,0,0, Full Time,cash,%P and %M with %T,job,Minding Thomas to start but quickly moved off after LT got off a flier,210700,1,220600,6,Back,16
+270811,Sam,Jacobs,AD,3,22,36,26,18,20,0,1,0,2,11,1,0,0,0, Full Time,news,%H and %D with %T,subbed,Subbed off in Q3 for Porplyzia,358700,69,422400,78,Ruck,24

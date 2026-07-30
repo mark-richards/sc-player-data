@@ -1,0 +1,48 @@
+West Coast,Eagles,Hawthorn,Hawks,R2,15.8.98,23.10.148, Full Time
+Apr 07,2013,4.40,Subiaco,Seven,290838,10390209,5015,0,Windy with chance of shower,32,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>Griffo7</em>: 2190 SC&#044; shattered<br><em>MudDawg</em>: Birchall is a beast.<br><em style='margin-bottom:-2px'><b class="ticon tWB"></b> elitegod22</em>: 2202 in sc and 1999 in dt so closes to 2k but much better rnd <br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> Buddyman</em>: What did Cox score in SC?<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> RayPest</em>: solid SC score from Cox very happy with that<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Daniel_79</em>: biggest junk time ever for Franklin&#044; true Hawks bias!<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Drenthe FC</em>: Kennedy i love you<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> RayPest</em>: and not a dt ton was scored that day by west coast<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> buddyboyz</em>: siren<br><em>jimmyhird5</em>: first time buddy has got the target?<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> Costanza</em>: till nex week adios <br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> GoLions</em>: is this the first time buddy has had the "on target" symbol in his career?<br>
+240406,Josh J.,Kennedy,WC,32,97,103,120,80,96,7,4,6,5,0,0,0,5,0, Full Time,target,Gibson on him... no touches in Q1... %s from %P and %G with %T,,,272300,,299600,,Forward,17
+240124,Matt,Priddis,WC,24,93,113,116,71,100,10,16,1,6,0,3,0,0,1, Full Time,news,%2 Sewell in midfield... %P and %T,,,482500,,588300,,Midfielder,11
+261290,Chris,Masten,WC,15,93,93,113,77,114,12,21,2,3,0,0,1,0,0, Full Time,news,On a HFF on Mitchell... %D and %T,,,436000,,478600,,Midfielder,7
+200112,Dean,Cox,WC,26,88,118,102,80,99,8,9,2,2,35,2,2,0,1, Full Time,news,%H and %D with %T... also %F,,,512400,,600700,,Ruck,20
+270928,Scott,Selwood,WC,21,87,74,116,68,96,11,10,4,7,0,3,3,0,0, Full Time,news,%O and %T with %M... also %F,,,503500,,556700,,Midfielder,10
+280078,Luke,Shuey,WC,19,86,102,109,67,96,13,13,2,4,0,2,1,0,0, Full Time,concussed,%O and %T with %M... copped the knee of Franklin to his right cheekbone in Q4 which left him dazed,,,488100,,553100,,Midfielder,13
+281080,Brad,Sheppard,WC,9,79,68,106,57,78,16,2,5,3,0,0,0,0,0, Full Time,news,%P and %T,,,287700,,296900,,Back,5
+990020,Andrew,Embley,WC,15,76,74,96,63,84,13,7,5,1,0,1,1,1,0, Full Time,news,%2 Hill on a wing... %O and %M plus %s,,,264300,,283600,,Midfielder,32
+261209,Josh,Hill,WC,17,74,104,92,60,74,10,2,4,2,0,0,0,3,2, Full Time,news,%s from %O and %M on Stratton,,,327400,,388200,,Forward,33
+240016,Beau,Waters,WC,9,73,103,97,54,72,13,3,5,3,0,1,0,0,0, Full Time,news,%P and %M plus %T,job,Responsible for Breust,472100,,536500,,Back,8
+240159,Sam,Butler,WC,8,63,86,77,52,72,7,12,3,2,0,1,0,0,0, Full Time,news,%P and %T with %M,job,Lewis is his man,362400,,391500,,Back,26
+290838,Jack,Darling,WC,19,54,69,66,45,57,3,5,1,4,0,1,1,3,0, Full Time,news,%s from %D on Schoenmakers... also %T,,,364900,,406100,,Forward,27
+294737,Callum,Sinclair,WC,11,47,41,58,44,53,5,1,4,1,13,0,2,1,1, Full Time,rookie,First game... %s from %D and %M on Hodge... also %H and %F,,,105300,,112200,,Ruck Forward,22
+230254,Adam,Selwood,WC,4,46,60,58,40,48,8,4,4,0,0,5,1,0,0, Full Time,job,Minding Rioli... %D and %M,,,291700,,283900,,Midfielder,37
+290801,Andrew,Gaff,WC,9,45,47,56,41,57,8,6,3,0,0,0,2,1,0, Full Time,tagged,Tagged by Shiels... %D and %M... also %F,,,446100,,483500,,Midfielder,3
+290826,Jamie,Cripps,WC,9,44,32,58,34,45,6,2,2,3,0,1,1,1,0, Full Time,news,%s from %O and %T on Guerra,,,246000,,245200,,Forward,15
+240283,Shannon,Hurn,WC,2,36,67,49,26,39,10,1,1,1,0,0,1,0,0, Full Time,news,%D,,,391300,,488800,,Back,25
+200074,Darren,Glass,WC,2,31,51,40,26,33,5,3,2,1,0,3,1,0,0, Full Time,job,Manning up Hale... %O,,,274300,,353400,,Back,23
+260546,Bradd,Dalziell,WC,2,22,23,26,20,27,2,5,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Hams,sub,Started as a sub,185500,,252500,,Midfielder,18
+250034,Ashton,Hams,WC,1,17,21,24,11,15,2,0,1,2,0,0,0,0,0, Full Time,news,Donuts in Q1... %P and %T,subbed,Subbed off in Q3 for Dalziell,264700,,330100,,Forward,43
+261214,Will,Schofield,WC,1,14,29,20,14,21,2,2,2,1,0,0,2,0,0, Full Time,job,Standing Roughead... %P,,,313700,,383700,,Back,31
+260303,Mitchell,Brown,WC,2,12,28,18,16,27,2,4,2,1,0,0,4,0,0, Full Time,job,Has Franklin... %P,sore,Caught in the ribs by Birchall with a bump in Q1,209500,,233600,,Back,1
+240302,Grant,Birchall,HW,26,121,126,64,97,129,22,9,7,1,0,0,0,2,0, Full Time,cherry,%O and %M plus %s,,,455400,,506400,,Back,14
+220073,Sam,Mitchell,HW,27,109,134,74,84,123,17,14,4,6,0,0,2,0,0, Full Time,star,%O and %M plus %T,job,On a HBF on Masten,523500,,592600,,Midfielder,5
+220047,Luke,Hodge,HW,24,99,103,77,79,105,12,13,6,4,0,3,0,0,0, Full Time,heart,Played out a full game off limited preparation... %D and %M with %T,job,In defence on the kid Sinclair,398600,,459500,,Midfielder,15
+240399,Lance,Franklin,HW,27,90,116,65,76,94,12,2,3,4,0,3,3,5,1, Full Time,target,%s from %P and %G with %T on Brown... also %F,,,521300,,618000,,Forward,23
+280744,Luke,Breust,HW,23,88,98,75,73,94,9,5,4,5,0,0,2,4,1, Full Time,news,%s from %D and %T on Waters,,,389100,,458900,,Forward,22
+260472,Max,Bailey,HW,20,81,103,64,71,88,8,7,3,2,28,1,1,0,0, Full Time,news,%H and %D with %M and %T,,,216400,,286500,,Ruck,39
+294877,Isaac,Smith,HW,19,80,85,66,61,84,9,9,3,5,0,0,0,1,0, Full Time,news,One handball in Q1... %P and %s,,,401000,,384100,,Midfielder,16
+220036,David,Hale,HW,21,79,72,65,72,82,7,4,7,0,15,1,0,2,1, Full Time,news,%D on Glass... also %H,,,419500,,511600,,Forward,20
+260955,Cyril,Rioli,HW,20,78,120,50,69,86,11,5,3,1,1,2,2,4,1, Full Time,news,First goal... %s from %O and %M on Adam Selwood,,,425800,,527300,,Forward,33
+281301,Ryan,Schoenmakers,HW,18,76,101,66,62,84,8,10,6,4,0,1,1,0,0, Full Time,job,On Darling... %P and %M,,,293900,,365300,,Back,25
+210012,Shaun,Burgoyne,HW,16,75,70,38,62,87,15,6,4,2,0,1,3,1,0, Full Time,news,%P and %M plus %s and %F,,,371200,,439800,,Midfielder,9
+240357,Jarryd,Roughead,HW,15,72,89,45,61,78,11,5,4,1,2,1,1,2,1, Full Time,news,%s from %D on Schofield,,,472200,,554800,,Forward,2
+280737,Liam,Shiels,HW,9,71,61,35,57,76,14,6,4,1,0,3,1,0,1, Full Time,x-factor,%D including %k by foot with %M and %s... played his best game for a couple of years,tagger,Tagging Gaff,408900,,375900,,Midfielder,26
+250089,Jordan,Lewis,HW,13,69,83,48,52,76,11,7,2,5,1,1,2,0,0, Full Time,news,%D and %T on Butler,,,463900,,513400,,Midfielder,3
+295584,Bradley,Hill,HW,11,63,71,39,49,63,10,3,2,2,0,1,0,2,0, Full Time,news,%2 Embley on a wing.. %O and %s,,,191700,,152000,,Midfielder,10
+230197,Brad,Sewell,HW,12,59,73,52,43,63,6,9,1,5,0,0,0,0,0, Full Time,injured,%2 Priddis in midfield... %P and %T... right hamstring tightness in Q3,subbed,Subbed off in Q3 for Savage,457800,,542700,,Midfielder,12
+280471,Ben,Stratton,HW,9,54,54,51,40,54,6,2,5,5,0,0,1,0,0, Full Time,job,Responsible for Hill... %D and %M,,,275400,,324700,,Back,24
+291861,Jed,Anderson,HW,9,54,46,47,40,51,6,4,3,4,0,3,0,0,0, Full Time,bubble,Second game... %P and %M with %T,,,108500,,115900,,Midfielder ,37
+200060,Brent,Guerra,HW,7,46,66,30,37,54,7,8,1,2,0,1,1,0,0, Full Time,job,Cripps is his responsibility... %P,,,394300,,440100,,Back,18
+250715,Josh,Gibson,HW,3,43,63,29,35,48,6,7,2,1,0,1,0,0,0, Full Time,job,On Kennedy... %O,,,333500,,420700,,Back,6
+280858,Shane,Savage,HW,2,33,26,28,23,33,4,3,1,3,0,0,0,0,0, Full Time,in,%l Jack Gunston... on in Q3 for Sewell,sub,Started as a sub,285700,,297800,,Midfielder,21
+260710,Paul,Puopolo,HW,3,25,36,25,25,39,2,7,2,2,0,0,3,0,0, Full Time,pumpkin,Back to small forward duties this week... %P and %T with %M,,,267000,,314200,,Forward,28

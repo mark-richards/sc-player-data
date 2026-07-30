@@ -1,0 +1,48 @@
+Richmond,Tigers,St Kilda,Saints,R14,17.17.119,8.7.55, Full Time
+Jun 30,2013,4.40,MCG,Seven,270912,10391409,rich-v-stk,0,Partly cloudy,16,,
+
+<em style='color:#000'>MQuimby</em>: TrentWithACottonSpud<br><em style='color:#000'>MQuimby</em>: TrentWithASpudChin<br><em style='color:#000'>MQuimby</em>: Cotspudchin<br><em style='color:#000'>MQuimby</em>: Cotspud<br><em style='color:#ff028d'>Dragon88</em>: Is the chat closed<br><em style='color:#ff028d'>Dragon88</em>: What happend to you Cotchin<br><em style='color:#ff028d'>itsmelads</em>: Yes there is matthius. they reveiw games and could add or take away points for handballs&#044; kicks&#044; takles missed or given <br><em style='color:#ff028d'>Hawks_13</em>: are they the actual scores for sc or do they change?<br><em style='color:#ff028d;margin-bottom:-2px'><b class="ticon tSY"></b> Wends</em>: Thx big boy mcevoy!<br><em style='color:#ff028d;margin-bottom:-2px'><b class="ticon tKA"></b> RooBoyStu</em>: Saints sc scores bullshower McEvoy should be 100 and DalSanto at least 130<br><em style='color:#ff028d;margin-bottom:-2px'><b class="ticon tRI"></b> JarodTiger</em>: Martin as a forward = keep.. as a mid discard<br><em style='color:#ff028d'>matthius</em>: lost by 2. is there any chance scores get amended in dt?<br>
+270941,Tyrone,Vickery,RI,31,119,152,150,101,119,14,4,11,3,16,4,1,1,1, Full Time,cherry,%s from %P and %M on Gwilt... also %H and %T,,,265400,56,339000,51,Forward,29,11,59,72.4,3.58,3.21
+250395,Jack,Riewoldt,RI,31,117,116,151,93,113,18,0,8,4,0,3,1,3,5, Full Time,vulture,Booted %s from %P and %M on Dempster then got Stanley in Q2... also %T,,,337200,60,411600,47,Forward,8,12,73.2,88,7.29,9.78
+240130,Nathan,Foley,RI,22,100,91,125,85,111,13,10,8,2,0,0,1,2,0, Full Time,star,%O and %M plus %T and %s,,,379300,87,424900,79,Centre,41,6,68.3,67.5,0.18,0.25
+240336,Brett,Deledio,RI,17,99,82,123,80,106,15,9,5,2,0,0,0,2,1, Full Time,tagged,Tagged by Murdoch... %D and %M plus %s,,,469200,91,564600,110,Centre,3,12,97.2,111.2,11.80,14.45
+240707,Daniel,Jackson,RI,21,91,123,114,72,97,15,6,2,3,0,0,1,3,1, Full Time,news,%P and %T with %M and %s,,,445100,110,455000,95,Centre,23,12,88.3,84.9,0.77,1.05
+290823,Reece,Conca,RI,19,89,73,117,64,87,19,3,1,4,0,4,1,1,0, Full Time,news,Slow start... %D and %T plus %s,,,393100,93,411700,101,Centre,30,6,82.7,87,0.38,0.58
+270896,Trent,Cotchin,RI,10,85,107,107,68,93,13,11,5,2,0,1,0,0,0, Full Time,tagged,Tagged by Jones... %B among %D with %M... also %T,,,400200,108,504100,117,Centre,9,11,90.7,108.5,20.56,25.89
+230240,Aaron,Edwards,RI,19,84,115,103,74,90,10,9,9,0,0,3,0,1,0, Full Time,x-factor,%s from %P and %M on Roberton... his productive Q1 set the Tigers off,,,310000,88,356600,84,Forward,27,3,59.7,66,0.20,0.24
+250298,Shaun,Grigg,RI,16,79,81,99,63,82,12,5,4,2,1,0,0,2,0, Full Time,news,%O and %M plus %T and %s,,,488200,89,430900,82,Centre,6,12,95,81.6,0.44,0.47
+260930,Shane,Edwards,RI,9,77,89,100,59,82,14,7,3,3,0,2,1,0,1, Full Time,news,%s from %O and %T with %M,,,333400,74,397800,107,Forward,10,12,70,80.3,0.57,0.69
+261362,Alex,Rance,RI,13,77,112,100,60,78,13,5,6,2,0,2,0,0,0, Full Time,job,Koschitzke is his man... %P and %M with %T,,,329900,103,419500,107,Back,18,12,66.3,80.9,1.72,1.84
+210048,Chris,Newman,RI,13,74,74,97,59,75,13,3,8,1,0,1,0,0,0, Full Time,news,Loose in defence... %P and %M,,,347300,104,434800,132,Back,1,11,68.5,83.3,2.91,3.43
+293713,Brandon,Ellis,RI,14,72,77,90,59,78,11,7,5,1,0,0,0,1,0, Full Time,news,%2 Ray off a wing... %P and %M plus %s,,,460600,123,489800,99,Back,5,10,72.2,77.3,5.47,5.28
+290847,Dustin,Martin,RI,9,71,73,93,59,86,16,7,4,1,1,0,3,0,1, Full Time,news,%2 Ross... %P and %M plus %s,,,453700,100,498200,81,Forward Centre,4,12,97.7,105.3,37.71,33.73
+261167,Orren,Stephenson,RI,17,70,105,78,66,78,4,8,4,0,30,0,0,0,0, Full Time,heart,%H and %D with %M... rib knock early in Q1 but got strapped up and soldiered on,,,275600,58,320400,42,Ruck,37,2,59.5,76.5,0.46,0.45
+250312,Bachar,Houli,RI,9,62,64,77,53,75,7,12,4,2,0,0,1,0,0, Full Time,yinyang,Very quiet first half but was better after half time... %D and %M with %T,job,Dennis-Lane took him to the goalsquare,444600,91,487400,81,Back,14,12,85.7,96.5,2.54,4.40
+291437,Jake,Batchelor,RI,8,62,63,80,50,64,10,4,6,1,0,1,0,0,1, Full Time,job,On Stanley... %M and %P plus %s,,,251600,67,323000,72,Back,11,7,48.6,62.4,0.23,0.31
+291835,Matthew,Arnot,RI,14,56,85,76,39,57,5,6,1,7,0,1,1,0,0, Full Time,rookie,First game... %D and %T on Webster,in,Late replacement for Nick Vlastuin,108500,,115900,,Centre,44,0,0,0,0.33,0.45
+240389,Matt,White,RI,3,45,22,60,33,45,6,3,3,3,0,0,0,0,0, Full Time,news,On in Q3 for King... %O and %M,sub,Started as a sub,245100,62,229400,70,Centre,35,7,50.7,41.9,0.78,0.70
+271437,Jake,King,RI,9,37,63,47,29,36,4,2,2,2,0,1,0,1,0, Full Time,news,%s from %P and %M on Newnes... %T as well,subbed,Subbed off in Q3 for White,247100,68,326000,59,Forward,28,11,54.5,69.8,1.24,1.29
+240180,Troy,Chaplin,RI,3,34,36,44,30,39,4,4,4,1,0,1,1,0,0, Full Time,news,%M and %O,job,Following Riewoldt,288600,81,359000,76,Back,25,11,58.1,66.9,0.94,0.71
+260433,Steven,Morris,RI,7,29,33,41,22,33,3,3,1,4,0,1,2,0,0, Full Time,job,Responsible for Milera... %O and %T... also %F,,,186700,61,244700,63,Back,38,11,38.4,48.9,0.81,1.09
+220023,Nick,Dal Santo,SK,32,117,123,86,89,117,16,9,5,6,2,3,0,1,1, Full Time,hot,%O and %T plus %M and %s,,,391000,80,471400,70,Centre,26,12,82,87.3,1.88,2.30
+261743,Clinton,Jones,SK,21,107,85,57,78,106,21,3,5,4,0,0,0,1,1, Full Time,hot,%K among %P with %M and %T... also %s,tagger,Tagging Cotchin,349500,109,363500,93,Centre,4,9,75.7,82.2,0.27,0.33
+250340,David,Armitage,SK,26,94,88,68,72,105,14,11,4,6,0,0,2,0,0, Full Time,news,%P and %T with %M and %F,,,405100,64,441500,50,Centre,20,11,89.1,94.5,0.74,1.08
+270912,Jack,Steven,SK,21,92,99,69,74,102,12,11,5,4,0,0,1,1,0, Full Time,news,%O and %M plus %T and %s,,,444700,113,528100,132,Centre,3,12,92.8,101.9,1.51,1.61
+210001,Nick,Riewoldt,SK,21,90,85,66,78,103,12,10,8,2,0,1,2,1,1, Full Time,news,%s from %P and %G on Chaplin... also %T,,,466700,96,495500,119,Forward,12,12,103.8,107.7,13.11,8.16
+270570,Trent,Dennis-Lane,SK,23,87,84,82,65,81,8,2,5,7,0,1,0,2,3, Full Time,news,First goal... %s from %O and %T on Houli... also %M,,,257400,29,247300,-7,Forward,8,5,50.8,50.4,0.40,0.81
+261323,Ben,McEvoy,SK,16,83,120,76,73,87,6,6,7,2,24,0,0,0,0, Full Time,news,%H and %D with %M and %T,,,336900,110,439900,114,Ruck,5,12,77.6,98.3,3.32,5.36
+220075,Leigh,Montagna,SK,14,78,81,38,61,84,15,7,3,1,0,0,0,1,0, Full Time,news,%K among %P with %M and %s,,,520200,74,545700,73,Centre,11,11,109.5,111.5,2.31,1.17
+295095,Brodie,Murdoch,SK,15,71,67,56,56,69,9,3,6,3,0,2,0,1,0, Full Time,cash,%D and %M... also %T and %s,tagger,Tagging Deledio,111600,19,121600,9,Forward,30,3,29,31.3,1.00,0.82
+240062,Farren,Ray,SK,13,67,68,53,57,78,8,10,6,2,0,0,1,0,0, Full Time,news,%2 Ellis off a wing... %D and %M with %T,,,382000,68,395200,6,Centre,22,9,80.4,77.8,0.38,0.37
+291773,Jack,Newnes,SK,13,66,74,50,55,72,9,6,7,2,0,1,1,0,0, Full Time,crown,Minding King... %O and %M,,,280800,33,329400,35,Centre,16,10,54.1,58.2,0.59,0.44
+260113,Jarryn,Geary,SK,24,65,62,55,48,75,9,7,1,8,0,1,4,0,0, Full Time,news,Loose in defence... %O and %T... %F as well,,,268100,23,328600,31,Back,14,12,64.6,76.2,2.20,2.41
+280317,Rhys,Stanley,SK,9,58,75,47,52,69,6,9,5,1,6,0,1,0,0, Full Time,switch,%D starting forward on Batchelor... switched back on Riewoldt in Q2,,,248500,65,288100,90,Forward,28,12,51.3,63.3,1.07,0.67
+250703,James,Gwilt,SK,9,57,77,35,47,66,10,6,4,2,0,1,2,0,0, Full Time,job,Vickery is his man... %P and %M... also %F,,,260200,54,375900,88,Back,33,7,62.4,82.6,1.87,2.05
+230243,Sean,Dempster,SK,8,47,47,26,44,60,9,5,6,0,0,1,3,0,0, Full Time,witcheshat,The big job on Riewoldt... but failed... %P and %M... also %F,sore,Arnot fell across his right leg in Q4 leaving him sore,296000,34,337000,2,Back,24,9,62.8,67.4,0.50,0.53
+290757,Jimmy,Webster,SK,4,47,44,31,40,51,7,5,5,0,0,1,0,0,0, Full Time,cash,%O and %M,job,Arnot is his man,164000,36,159000,48,Back,29,6,40.2,38.2,3.47,4.55
+294317,Nathan,Wright,SK,4,44,54,33,38,55,6,7,3,2,0,0,2,0,1, Full Time,cash,%P and %M plus %s,,,169100,24,211800,22,Back,34,6,43.3,49.7,2.34,2.65
+293846,Sebastian,Ross,SK,3,37,31,28,28,39,5,4,2,2,0,0,0,0,0, Full Time,news,%2 Martin... %D and %T,subbed,Subbed off in Q3 for Dunell,275100,75,258900,62,Centre,6,9,57.2,52.6,1.02,0.66
+280933,Dylan,Roberton,SK,3,33,37,18,26,39,7,2,2,2,0,0,2,0,0, Full Time,job,Standing Aaron Edwards... %D and %... also %T and %F,sore,Corkie in right leg in Q3... right ankle knock in Q4... returned late but looked lame,307000,99,368700,109,Back,17,12,69.9,82.3,3.90,5.47
+270766,Terry,Milera,SK,2,25,42,24,21,30,2,5,1,2,0,1,1,0,0, Full Time,news,%O and %T on Morris,,,279000,48,296800,37,Forward,32,7,60.1,62.4,0.31,0.30
+210002,Justin,Koschitzke,SK,3,23,17,20,22,31,3,2,2,2,4,1,3,0,0, Full Time,crab,%P and %M on Rance... also %H and %F,,,261900,84,310700,72,Forward,23,3,44.7,56,0.45,0.29
+296459,Sam,Dunell,SK,0,5,3,2,4,6,1,1,0,0,0,0,0,0,0, Full Time,news,On in Q3 for Ross,sub,Started as a sub,216400,1,201200,-29,Centre,38,2,69,75.5,0.26,0.39

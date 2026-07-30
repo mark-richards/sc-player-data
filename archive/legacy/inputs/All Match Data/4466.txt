@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Western Sydney,Giants,R8,21.14.140,9.3.57, Full Time
+May 18,2013,2.10,Launceston,Seven,210012,10390803,haw-v-gws,0,Fine,15,,
+
+<em>MarksMen</em>: Love the buy a Asian wife on the side of the page<br><em>Pavalinco</em>: So why isn't my name purple<br><em>Heizenberg</em>: thanks joe<br><em>Bluffie</em>: look at rhys palmer's sdifference between sc and dt<br><em>9robbo9</em>: every hawks players sahould get the trash can&#044; whole game was junk time<br><em>Pavalinco</em>: Won the png :)<br><em>ballbag</em>: hey&#044; its a bit hard for buddy to care seeings he will be leaving next year.<br><em>JoeMontana</em>: Heiz&#044; gazz is allready on fire! :)<br><em>alftiles</em>: Spangher sc please<br><em>scaledup</em>: at least my centrebet team has no birchall <br><em>alftiles</em>: Spangher please<br><em>grossn</em>: just one more kick buddy<br>
+240357,Jarryd,Roughead,HW,32,118,130,143,99,122,15,7,6,2,0,1,0,5,2, Full Time,hot,First goal... %s from %P and %M on Bruce,,,427100,55,500600,58,Forward Ruck,2
+291351,Jack,Gunston,HW,32,108,128,137,93,118,13,7,10,3,0,0,2,3,1, Full Time,hot,%s from %D and %M with %T on Gilham... also %F,,,306800,42,367000,49,Forward,19
+210012,Shaun,Burgoyne,HW,21,104,103,129,85,110,13,10,6,3,1,1,0,2,1, Full Time,hot,%D and %M plus %s starting forward again on Corr,,,416800,147,447700,161,Back Centre,9
+220073,Sam,Mitchell,HW,25,102,123,123,83,121,15,20,0,3,0,1,1,1,1, Full Time,star,Tagged by Miles... %O and %T plus %s,,,499100,117,552600,140,Centre,5
+250089,Jordan,Lewis,HW,26,100,116,125,81,112,13,14,4,4,1,1,1,1,0, Full Time,hot,%P including %B with %T and %M... also %s,,,429900,86,450200,81,Forward Centre,3
+280737,Liam,Shiels,HW,26,92,99,120,71,97,11,8,5,6,0,0,1,1,1, Full Time,news,%P and %T plus %s,,,365100,104,342400,80,Centre,26
+220036,David,Hale,HW,22,90,108,107,79,99,7,10,4,3,20,1,1,1,1, Full Time,news,%H and %P... also %F... his %s all in junk time,,,326100,56,428900,71,Forward Ruck,20
+220047,Luke,Hodge,HW,20,84,89,111,63,85,15,3,4,4,0,1,1,1,1, Full Time,tagged,Tagged by Golds... %D and %T plus %s,,,414500,33,491900,39,Centre,15
+220039,Brian,Lake,HW,19,81,87,110,67,91,12,5,9,4,0,0,3,0,1, Full Time,news,%M and %D with %T and %s,job,On Cameron,355600,104,403700,121,Back,17
+240399,Lance,Franklin,HW,19,81,107,101,69,86,12,5,6,1,0,2,1,2,2, Full Time,news,Booted %s from %P and %G on Mohr,,,406700,144,459500,146,Forward,23
+294877,Isaac,Smith,HW,15,74,79,92,62,82,10,9,4,2,1,2,1,1,0, Full Time,news,Tagged by Whiley on a wing until HT... %D plus %s,,,401500,94,398300,103,Centre,16
+230197,Brad,Sewell,HW,15,73,76,92,60,87,11,11,2,3,0,0,2,1,0, Full Time,job,Starting in defence on Smith... %P,,,396800,106,466700,129,Centre,12
+200060,Brent,Guerra,HW,13,72,92,87,63,84,7,14,6,1,0,1,0,0,0, Full Time,news,%P and %M,in,Late replacement for Bradley Hill,336200,77,401400,81,Back,18
+250654,Matthew,Spangher,HW,13,71,84,93,59,78,10,7,6,3,0,3,2,0,0, Full Time,job,Playing in defence on the resting ruck... %P... also %F,,,132600,,128000,,Forward,27
+290085,Taylor,Duryea,HW,14,68,71,88,54,75,8,9,4,4,0,1,1,0,0, Full Time,news,%O with %b by hand... also %T,,,190900,10,204300,1,Centre,41
+250652,Jonathan,Simpkin,HW,8,67,86,80,56,79,9,14,2,1,0,1,0,0,1, Full Time,news,%B among %D with %M and %s,,,195800,50,198000,60,Centre,32
+260472,Max,Bailey,HW,21,58,90,68,60,74,6,5,0,2,29,5,6,1,0, Full Time,news,%H and %P with %M and %s,,,300600,57,366900,91,Ruck,39
+280471,Ben,Stratton,HW,7,55,64,67,45,64,8,10,2,1,0,0,0,0,1, Full Time,job,Following Tomlinson... %O,,,308100,5,339600,29,Back,24
+260710,Paul,Puopolo,HW,9,50,37,60,43,54,5,7,3,1,0,2,0,1,0, Full Time,news,On in Q3 for Osborne... %s from %P and %M,sub,Started as a sub,258700,9,292400,-11,Forward,28
+280744,Luke,Breust,HW,3,42,52,51,34,48,4,9,1,2,0,1,0,0,0, Full Time,news,%P on Greene,,,389500,55,469000,59,Forward,22
+240302,Grant,Birchall,HW,2,36,30,46,31,48,7,7,1,1,0,0,2,0,0, Full Time,tagged,Manned up by Palmer then got the Whiley tag in Q3... %P... also %F,,,463500,159,494900,165,Back,14
+210092,Michael,Osborne,HW,2,17,21,24,15,24,2,3,1,2,0,0,2,0,0, Full Time,news,%P... %F as well,subbed,Subbed off in Q3 for Puopolo,261800,70,311000,85,Forward,7
+291776,Taylor,Adams,WS,38,126,118,101,94,127,16,10,5,9,0,3,1,1,1, Full Time,hot,%P and %T,,,380700,25,374700,53,Centre,11
+261231,Rhys,Palmer,WS,21,104,53,67,81,105,17,5,8,3,0,1,0,1,0, Full Time,hot,Forward role on Birchall... %s from %P with %M and %T,,,395100,116,384000,123,Centre,7
+290671,Anthony,Miles,WS,30,103,96,84,76,99,13,5,6,7,0,2,0,1,0, Full Time,hot,%D and %T with %s,tagger,Tagging Mitchell,346400,,338500,,Centre,25
+280969,Tom,Scully,WS,31,100,87,100,81,108,7,13,7,7,0,1,1,1,0, Full Time,hot,%B among %P with %T,,,361600,79,374300,67,Centre,9
+291969,Stephen,Coniglio,WS,19,90,87,74,75,106,9,19,3,4,1,2,1,0,0, Full Time,news,%D including %k by hand,,,377900,101,395400,90,Centre,3
+280109,Callan,Ward,WS,25,89,105,61,67,99,14,11,2,6,0,1,2,0,0, Full Time,news,%D and %T,,,462000,144,510700,128,Centre,8
+291771,Devon,Smith,WS,25,89,85,79,61,88,10,8,2,9,1,0,0,0,0, Full Time,news,%O and %T plus %M,,,357800,128,351700,141,Forward Centre,10
+291819,Adam,Tomlinson,WS,13,77,79,49,62,79,13,3,9,1,0,0,0,0,1, Full Time,news,%s from %P and %M on Stratton,,,260600,18,269400,28,Forward,20
+291783,Dylan,Shiel,WS,15,64,41,68,46,66,4,9,2,7,0,0,0,0,0, Full Time,news,On in Q3 for Whitfield,sub,Started as a sub,358900,119,419800,138,Centre,5
+295344,Toby,Greene,WS,8,64,64,29,49,69,13,7,2,1,0,1,0,0,0, Full Time,job,A role in defence on Breust... %P,,,405300,99,390800,82,Centre,4
+200111,Dean,Brogan,WS,14,63,90,47,53,65,8,4,0,4,16,7,3,0,1, Full Time,news,%H and %P with %T and %s,,,294400,93,392600,108,Ruck,50
+261189,Tim,Mohr,WS,9,62,62,48,45,63,9,4,3,5,0,1,1,0,0, Full Time,job,Following Franklin.... %O and %T with %M,,,315600,37,391300,80,Back,39
+293845,Jeremy,Cameron,WS,17,62,68,42,58,69,8,3,4,0,0,2,2,4,0, Full Time,news,%s from %P on Lake,,,308500,29,333500,27,Forward,18
+291509,Adam,Kennedy,WS,8,57,61,23,49,72,12,10,2,0,0,1,2,0,0, Full Time,news,%O,,,241900,67,270700,65,Back,40
+291802,Tomas,Bugg,WS,14,47,51,42,36,45,5,2,2,4,0,3,1,1,0, Full Time,news,%s from %O and %T playing forward,,,293600,120,314900,130,Back,14
+230082,Stephen,Gilham,WS,3,46,66,23,35,48,9,4,2,1,0,1,0,0,0, Full Time,job,Has Gunston... %D,,,281200,-5,327500,-5,Back,38
+291817,Tim,Golds,WS,3,40,40,32,31,42,5,4,3,2,0,0,0,0,0, Full Time,tagger,Tagging Hodge... %O,,,152000,,147100,,Back,15
+261841,Jonathan,Giles,WS,9,38,30,22,40,50,6,2,2,0,20,2,4,0,0, Full Time,news,%H and %P... also %F,,,355800,94,419100,97,Ruck,26
+294305,Lachlan,Whitfield,WS,3,36,49,37,30,45,2,9,1,3,0,0,1,0,0, Full Time,news,%P including %B... also %T,subbed,Subbed off in Q3 for Shiel,294900,44,325000,34,Centre,6
+291492,Josh,Bruce,WS,3,34,43,17,29,39,7,2,4,0,0,0,1,0,0, Full Time,job,On Roughead... %P and %M,,,235300,68,244000,63,Back Forward,47
+293816,Mark,Whiley,WS,7,29,17,35,19,27,2,0,2,5,0,0,1,0,0, Full Time,tagger,Tagged Smith on a wing until HT when he went to Birchall... %P and %T with %M,,,171900,,173000,,Back,42
+294508,Aidan,Corr,WS,7,20,34,25,17,30,1,5,0,4,0,0,3,0,0, Full Time,job,Responsible for Burgoyne... %P and %T,,,125200,32,134500,5,Back,35

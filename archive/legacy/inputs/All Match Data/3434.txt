@@ -1,0 +1,48 @@
+Sydney,Swans,West Coast,Eagles,R5,17.13.115,9.9.63, Full Time
+Apr 24,2010,2:10,SCG,Fox Sports,271045,10280502,5015471,4977,Fine with cloud increasing,29
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,Delayed for a week due to working on scalability... should be next week for Round 6,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>sam25</em>: me too nic is only bad one everyone else was really good or decent only 4 played though and 371 SC no capatin yet<br><em>roo boys!</em>: my only bad score so far is nic nat paddywhacks<br><em>sam25</em>: why did o keefe drop 1 SC<br><em>Rooke#33</em>: godes has better games than his supercoach scores he's so effective but limited SC<br><em>buddyboyz</em>: good to see jarrad mcveigh step up today<br><em>Agalloch</em>: skystyler&#044; i tend to agree&#044; goodes had more impact in other games this year&#044; but gets a tonne today/??<br><em>JAKO</em>: Fat Lady Icon for West Coast..it's over <br><em>Agalloch</em>: not sure why ROK is getting the gun now&#044; he only had 6 possesions in the 2nd half<br><em>budgie63</em>: @ronaldfc I know&#044; but why should the total in EVERY game be 3300?<br><em>00soups00</em>: how did Hurn get 91 SC... i love it because he's in my team&#044; but seems a bit sidways<br><em>ronaldfc</em>: budgie63 please dont tell me you still dont get it&#044; 3300/44 will always be 75<br><em>torres</em>: thank god i got rid of masten after the 2nd week&#044; he is a fantasy spud<br>
+200071,Ryan,O'Keefe,SY,24,111,104,143,86,116,17,10,7,4,1,1,0,0,1, Full Time,gun,A variety of opponents but too good for all of them... %O and %M with %s... %K among those
+230132,Nick,Malceski,SY,16,106,135,136,81,114,19,11,5,3,0,0,0,0,0, Full Time,hot,%P including %B with %M
+240226,Kieren,Jack,SY,25,101,110,127,78,106,13,12,3,5,0,2,0,1,1, Full Time,tagger,Tagged Ebert... %O including %K with %s
+230253,Jarrad,McVeigh,SY,25,100,127,127,79,106,13,10,6,4,0,0,0,1,1, Full Time,medal,Tagged by Selwood... %P and %M with %T and %s
+240072,Heath,Grundy,SY,19,96,133,120,81,108,13,13,9,1,0,0,0,0,0, Full Time,job,Went with Kennedy... %M and %P
+960079,Daniel,Bradshaw,SY,33,95,107,112,86,98,9,3,8,0,0,0,0,6,2, Full Time,x-factor,%s from %G and %O on Glass
+990011,Jude,Bolton,SY,26,95,117,118,78,108,9,16,4,5,0,1,1,1,0, Full Time,tagger,Tagged Masten... %O with %b of them by hand... also %M and %T with %s
+980073,Adam,Goodes,SY,21,93,110,118,78,102,13,8,6,3,0,2,2,2,0, Full Time,news,%s from %O and %M with %F... Spangher had the big job on him
+200023,Rhyce,Shaw,SY,20,91,105,118,69,91,14,5,5,4,0,1,0,1,1, Full Time,news,%O and %M with %T
+990114,Brett,Kirk,SY,25,79,68,104,63,88,10,8,3,6,0,2,3,1,1, Full Time,tagger,Tagged Priddis... %D and %T
+281281,Lewis,Jetta,SY,14,76,69,100,57,76,11,5,5,4,0,1,0,0,1, Full Time,cash,%D and %M plus %s
+200096,Tadhg,Kennelly,SY,13,75,95,93,65,90,12,12,6,0,0,0,1,0,0, Full Time,news,%B among %O
+260382,Josh P.,Kennedy,SY,18,70,89,89,54,78,8,10,1,5,0,0,1,1,0, Full Time,news,%O and %T
+220089,Lewis,Roberts-Thomson,SY,9,65,98,84,52,72,9,8,4,3,0,1,1,0,0, Full Time,job,On Brown... %D
+250080,Jarred,Moore,SY,13,64,90,82,51,69,7,9,3,4,0,3,1,0,0, Full Time,news,The first-gamer Stevenson on him... %O
+220063,Martin,Mattner,SY,13,59,69,71,52,75,5,14,1,3,0,1,2,1,0, Full Time,tagger,Tagged Embley... %P and %s
+250338,Nick,Smith,SY,9,59,59,75,50,69,5,10,5,3,0,0,1,0,0, Full Time,news,%D
+220101,Mark,Seaby,SY,7,56,56,72,53,68,5,6,5,3,10,3,4,0,1, Full Time,news,A better game this week as he lifted playing his old club... %H and %P with %M and %s
+250212,Jesse,White,SY,11,55,67,65,50,61,5,6,5,0,0,0,0,2,1, Full Time,news,Jones on him... %M and %D
+990010,Craig,Bolton,SY,4,46,55,58,37,51,3,8,3,3,0,0,0,0,0, Full Time,injured,Minded LeCras... left hand restrapped in Q2 after a tackle that went wrong... %O... right ankle iced up in Q3 after LeCras fell on it
+290117,Daniel,Hannebery,SY,6,44,36,52,37,54,5,11,1,1,0,0,0,0,0, Full Time,news,Matched up on Rosa... %D
+280762,Shane,Mumford,SY,8,43,63,45,45,60,2,12,0,0,18,1,2,0,0, Full Time,news,%H and %P
+240016,Beau,Waters,WC,25,115,106,85,84,115,17,7,7,7,0,0,0,0,1, Full Time,hot,%D and %M with %T
+200112,Dean,Cox,WC,31,102,87,78,88,105,12,3,6,3,27,3,2,1,0, Full Time,hot,%H and %D with %M and %T... also %s
+230254,Adam,Selwood,WC,21,99,92,77,74,101,13,9,5,6,1,1,0,0,1, Full Time,tagger,Tagged McVeigh... %B among %O with %T
+240124,Matt,Priddis,WC,30,85,83,72,61,84,10,7,1,8,0,3,1,1,0, Full Time,kirk,Kirk tagged him... %D with %4 frees for
+990020,Andrew,Embley,WC,20,84,74,72,62,79,10,4,6,6,1,3,0,0,0, Full Time,tagged,Tagged by Mattner... %P and %M with %T
+240406,Josh J.,Kennedy,WC,20,72,90,54,63,76,9,2,7,1,0,0,1,3,1, Full Time,news,Booted %s from %G and %O... Grundy on him
+250111,Matt,Rosa,WC,13,72,76,40,58,75,14,2,8,1,0,1,1,0,0, Full Time,news,Matched up on Hannebery... %P and %M
+250034,Ashton,Hams,WC,16,68,83,53,51,66,9,3,4,4,0,1,0,1,0, Full Time,bubble,Second game... %s from %O with %T
+260546,Bradd,Dalziell,WC,14,66,61,56,52,75,8,8,4,5,0,0,2,0,0, Full Time,news,%T and %O
+250654,Matthew,Spangher,WC,12,64,47,43,54,70,10,5,7,1,0,1,1,0,1, Full Time,job,Followed Goodes... %P
+240731,Brett,Jones,WC,9,61,58,50,50,69,7,9,4,3,0,1,1,0,0, Full Time,job,On White
+261911,Brad,Ebert,WC,5,57,58,45,46,60,7,6,5,2,0,1,0,0,0, Full Time,tagged,Tagged by Jack... %O and %M
+280379,Lewis,Stevenson,WC,5,56,54,42,42,57,8,4,4,3,0,0,0,0,0, Full Time,rookie,First game... %O and %M... minding Moore
+240283,Shannon,Hurn,WC,15,55,91,33,49,70,10,5,4,2,0,0,4,1,1, Full Time,news,%D including %K
+271045,Nic,Naitanui,WC,21,55,57,63,43,56,2,3,0,7,14,1,2,1,0, Full Time,fiji,Played up forward a lot... %H and %T with %D
+270928,Scott,Selwood,WC,8,49,44,46,34,48,5,4,2,5,0,0,0,0,0, Full Time,news,Given various jobs in midfield... %O
+240119,Mark,LeCras,WC,8,46,13,25,39,49,9,1,6,0,0,1,1,0,1, Full Time,news,%D and %M... Craig Bolton on him
+261214,Will,Schofield,WC,4,44,37,20,32,44,10,0,2,2,0,1,1,0,2, Full Time,news,Spent some time on Goodes early but didn't have a set role... %P
+261290,Chris,Masten,WC,14,43,47,45,37,54,2,10,0,4,0,1,2,1,0, Full Time,tagged,Tagged by Jude Bolton... %O and %T
+280441,Patrick,McGinnity,WC,2,30,32,16,22,30,6,1,2,1,0,0,0,0,0, Full Time,news,%P and %M
+260303,Mitchell,Brown,WC,1,21,19,16,16,21,3,1,2,1,0,0,0,0,0, Full Time,news,Roberts-Thomson on him
+200074,Darren,Glass,WC,1,17,36,10,14,18,3,1,2,0,0,0,0,0,0, Full Time,job,Stood Bradshaw

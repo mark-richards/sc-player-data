@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Sydney,Swans,R5,10.9.69,16.10.106, Full Time
+Apr 29,2012,1:10,Launceston,Fox Sports,261257,10340507,430050,0,Sunny,15,,
+
+<em>dutchtup</em>: deleido back! This better not be a luke ball incident<br><em>Cattersss</em>: @clayts - You can't win Premierships without playing top 4 sides mate. Hawks are pretenders. <br><em>punjab13</em>: goodsy&#044; much love<br><em>punjab13</em>: any1 rate the swans<br><em>Crops1</em>: Interesting Mitchell usually kills it in Tas<br><em title="RICEANATOR">riceanator</em>: surely goodes isn't over 100sc and happy with hales pathetic score<br><em>SChawkMI</em>: hawthorns effort in the second half pathetic<br><em>PieBoy</em>: hawks forward line&#044; worst than the dogs<br><em>TheoX</em>: burn in hell mitchell you flowerer<br><em>clayts</em>: Hawks have been beaten by top 4 sides though. Chill out on the hate. They'll be right<br><em>JRedden</em>: mitchell flower off cow&#044; ur out of my team<br><em>lenny20</em>: Deserved it for naming the birch&#044; clarko&#044; you angry little spud<br>
+200060,Brent,Guerra,HW,25,95,83,126,72,99,13,8,6,6,0,1,1,0,0, Full Time,news,%O and %M with %T,job,Responsible for Jetta
+230197,Brad,Sewell,HW,20,91,77,119,65,92,14,8,2,6,0,1,0,0,2, Full Time,news,%2 Malceski... %D and %s,,
+250089,Jordan,Lewis,HW,27,90,99,111,75,99,5,13,4,6,3,1,1,2,0, Full Time,news,Tagging Kennedy in Q1 then freed up... %s from %P and %T with %M,,
+240357,Jarryd,Roughead,HW,24,89,95,104,80,95,11,3,4,0,10,0,1,5,1, Full Time,news,First goal... %s from %P and %G on Grundy including three majors in Q1... also %H,,
+280858,Shane,Savage,HW,14,87,108,113,67,90,14,7,6,3,0,1,0,0,0, Full Time,news,%2 Goodes... %P and %M,,
+261386,Brendan,Whitecross,HW,10,82,61,107,66,91,14,7,5,3,4,1,2,0,0, Full Time,news,Started in defence... %D and %M with %T,,
+210012,Shaun,Burgoyne,HW,14,81,76,100,64,93,11,15,2,3,0,0,0,0,0, Full Time,news,His first five minutes were very productive... %D and %M,,
+270732,Matt,Suckling,HW,13,75,82,90,62,89,13,14,2,0,0,0,0,0,2, Full Time,news,%P and %M plus %s,job,Matched up on O'Keefe
+280737,Liam,Shiels,HW,14,73,75,94,56,78,9,9,4,4,0,0,0,0,0, Full Time,news,%P and %M with %T,,
+240399,Lance,Franklin,HW,16,71,72,94,54,75,7,7,4,6,0,0,1,0,3, Full Time,news,Booted %s from %G and %O on Richards... also %T and %F,,
+260955,Cyril,Rioli,HW,15,68,89,85,55,70,9,6,4,2,1,2,0,1,0, Full Time,news,%O and %M on Shaw,,
+291731,Broc,McCauley,HW,15,67,56,83,58,74,3,6,3,5,23,0,2,0,0, Full Time,news,%H and %D with %M,in,Late replacement for Grant Birchall
+220073,Sam,Mitchell,HW,9,63,55,82,51,75,12,8,3,2,0,0,2,0,0, Full Time,news,Went head to head with Kennedy in Q2... %O and %M... also %F,,
+281301,Ryan,Schoenmakers,HW,8,63,77,78,53,72,8,10,5,1,0,0,0,0,0, Full Time,job,Standing Reid... %P and %M,,
+280744,Luke,Breust,HW,20,62,74,84,40,57,6,5,0,8,0,2,0,0,0, Full Time,news,%D and %T on Malceski,,
+210092,Michael,Osborne,HW,8,52,69,63,45,63,3,12,2,3,3,1,1,0,0, Full Time,news,%D on Mattner,,
+250715,Josh,Gibson,HW,5,49,60,62,40,54,5,7,4,2,0,0,0,0,0, Full Time,injured,Loose in defence... %P and %M... also %T.. right ankle knock in Q2,subbed,Subbed off in Q3 for Puopolo
+220047,Luke,Hodge,HW,4,47,62,62,39,57,8,6,3,2,0,0,2,0,0, Full Time,news,Starting in defence on Bolton... %P,,
+220036,David,Hale,HW,12,44,51,53,41,50,3,2,2,2,11,0,2,2,0, Full Time,news,%s from %D on Johnson... also %H,,
+270215,Kyle,Cheney,HW,4,43,44,54,34,48,3,8,2,3,0,0,0,0,0, Full Time,news,%O and %T plus %M,job,Chasing McGlynn
+280471,Ben,Stratton,HW,2,39,41,51,28,39,5,4,1,3,0,1,0,0,0, Full Time,job,Manning up Everitt then got Goodes in Q3... %D and %T,,
+260710,Paul,Puopolo,HW,2,25,33,31,23,33,2,6,2,1,0,0,1,0,0, Full Time,news,On in Q3 for Gibson,sub,Started as a sub
+260382,Josh P.,Kennedy,SY,66,149,173,141,115,153,12,16,6,11,0,1,0,3,0, Full Time,star,Tagged by Lewis in Q1 then went head to head with Mitchell... %D and %T with %M and %s,,
+261212,Craig,Bird,SY,32,113,114,84,84,117,15,11,2,7,0,0,0,2,0, Full Time,hot,%D and %T,,
+290117,Daniel,Hannebery,SY,25,112,121,73,89,120,17,12,6,3,0,1,0,1,0, Full Time,hot,%P and %M,,
+980073,Adam,Goodes,SY,26,100,94,75,86,110,12,9,7,2,1,0,1,3,1, Full Time,heart,%2 Savage... when moved forward on Stratton in Q3 he helped turn the game Sydney's way... %P and %T with %M and %s,,
+200071,Ryan,O'Keefe,SY,17,94,95,62,74,96,14,7,4,3,0,2,0,2,0, Full Time,news,%s from %P and %M on Suckling,,
+990011,Jude,Bolton,SY,22,93,100,77,75,99,10,10,4,5,0,2,1,2,0, Full Time,news,Playing forward on Hodge... %s from %P,,
+230253,Jarrad,McVeigh,SY,20,90,79,60,73,100,13,12,3,3,0,2,1,1,1, Full Time,news,%2 Sewell... %D and %s,,
+240226,Kieren,Jack,SY,25,82,77,74,60,84,8,9,2,7,0,0,0,1,0, Full Time,news,Trying to man up the Hawk halfbacks... %O and %T,,
+220101,Mark,Seaby,SY,26,81,93,78,69,82,4,6,1,4,36,1,0,0,1, Full Time,news,%H and %D plus %T,,
+220063,Martin,Mattner,SY,9,79,91,44,58,78,15,4,4,3,0,2,0,0,0, Full Time,job,Osborne manning him up... %D and %M with %T,,
+240072,Heath,Grundy,SY,13,76,105,48,62,84,12,9,6,1,0,0,0,0,0, Full Time,job,On Roughead... %O and %M,,
+291450,Alex,Johnson,SY,14,68,62,58,54,72,8,6,6,4,0,1,1,0,0, Full Time,job,Standing Hale... %D and %T with %M,,
+210027,Ted,Richards,SY,13,66,95,58,56,75,6,11,6,2,0,0,0,0,0, Full Time,job,Following Franklin... %P and %M with %T,,
+290788,Luke,Parker,SY,14,65,83,46,55,84,10,11,3,4,0,0,4,0,0, Full Time,news,%O and %M with %T,,
+230140,Ben,McGlynn,SY,9,63,55,46,43,57,10,1,3,5,0,2,0,0,0, Full Time,sore,%O and %T on Cheney... rolled his right ankle in Q3,,
+281281,Lewis,Jetta,SY,14,61,67,46,42,56,9,0,2,5,0,0,0,1,2, Full Time,news,%s from %P and %T on Guerra,,
+261257,Andrejs,Everitt,SY,3,43,55,29,35,49,6,7,2,1,0,0,0,0,1, Full Time,news,%s from %P on Stratton,,
+250338,Nick,Smith,SY,3,42,68,31,33,49,5,9,0,2,0,0,0,0,1, Full Time,news,On after HT for Malceski,sub,Started as a sub
+220089,Lewis,Roberts-Thomson,SY,3,41,41,28,35,47,6,5,3,1,2,1,1,0,0, Full Time,sore,%D and %M... cut over the left cheek in Q3,,
+230132,Nick,Malceski,SY,2,32,38,19,26,36,6,2,3,1,0,0,1,0,0, Full Time,job,Responsible for Breust... %O and %M,subbed,Subbed off at HT for Smith
+290188,Samuel,Reid,SY,3,32,27,30,25,31,3,2,3,2,0,1,0,0,1, Full Time,news,%s from %G and %P with %T on Schoenmakers,,
+200023,Rhyce,Shaw,SY,2,28,25,23,20,30,4,2,1,3,0,0,1,0,0, Full Time,job,Chasing Rioli... %P,,

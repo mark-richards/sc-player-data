@@ -1,0 +1,48 @@
+Brisbane,Lions,Western Bulldogs,Bulldogs,R4,13.23.101,12.7.79, Full Time
+Apr 17,2010,7:10,Gabba,Fox Sports,220062,10280405,5015536,4972,A few showers,25
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,m0nty is working on it... hopefully should be up for next week,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>maat.1</em>: What's with all the behinds? u suck Lions&#044; kick fu*&ing straight!!!<br><em>gilbert_19</em>: what<br><em>Grimesy31</em>: GIlbert_19<br><em>Grimesy31</em>: Gilbert_19<br><em>craigib</em>: roo 2 brennan was a good move :)<br><em>Grimesy31</em>: gilbert_19. get off here and go watch saturday specials<br><em>quekkie</em>: yay<br><em>gilbert_19</em>: saa<br><em>WCEFanatic</em>: browny!!!<br><em>Daniel P</em>: 1 kick off png!!!<br><em>yogibbear</em>: agrhagrahgrahr Gian and Hall failed in Q4<br><em>Grimesy31</em>: haha ouch BUUURNN gilbert_19<br>
+980011,Luke,Power,BL,20,110,89,141,85,118,21,10,6,2,0,0,0,0,1, Full Time,hot,%P and %M plus %s
+230015,Jared,Brennan,BL,25,108,121,136,87,114,17,8,7,2,4,0,0,1,2, Full Time,star,%s from %O with %M and %T... set up the win with a scintillating second half
+980050,Travis,Johnstone,BL,20,92,116,120,70,93,18,3,6,2,0,0,0,1,0, Full Time,news,%P and %M plus %s
+240712,Michael,Rischitelli,BL,19,89,113,113,72,105,13,15,3,4,0,1,2,0,0, Full Time,news,%D and %M
+250335,Matthew,Leuenberger,BL,16,89,76,111,70,89,9,5,3,5,22,0,0,0,1, Full Time,news,%H and %P
+200007,Jonathan,Brown,BL,20,87,81,110,79,102,12,7,9,1,0,0,3,2,3, Full Time,superman,Stood by Lake... %s from %P and %G... terrible first half but fired up in the second half
+990022,Brendan,Fevola,BL,21,84,99,101,74,88,12,3,5,0,0,2,1,4,4, Full Time,x-factor,Morris on him... %s from %G and %O including four goals in Q3
+240013,Andrew,Raines,BL,10,80,94,98,66,90,10,14,4,2,0,2,0,0,0, Full Time,news,%K among %D with %M
+270919,Tom,Rockliff,BL,15,78,94,100,63,88,9,11,5,4,0,0,1,0,1, Full Time,news,%O and %M with %T
+230196,Troy,Selwood,BL,20,73,75,96,56,78,7,9,4,6,0,1,1,0,0, Full Time,in,%l Simon Black... %O and %M plus %T
+260944,Albert,Proud,BL,15,71,79,86,62,83,7,12,4,2,0,1,1,1,2, Full Time,news,%s from %D and %M
+261222,James,Hawksley,BL,9,71,88,92,55,75,10,7,5,3,0,0,0,0,0, Full Time,job,Minded Higgins... a lot of costly turnovers in the back half among his %D with %M
+271071,Todd,Banfield,BL,17,70,68,88,58,73,6,6,4,4,0,2,1,2,1, Full Time,cash,First goal... %D and %s
+240325,Justin,Sherman,BL,14,69,68,86,57,78,8,10,3,3,0,1,1,1,0, Full Time,tagged,Tagged by Addison... %P and %T
+200121,Josh,Drummond,BL,15,67,111,86,54,72,11,5,4,2,0,1,1,1,0, Full Time,news,Forced into defensive duties after Maguire went off... %P
+230211,Brent,Staker,BL,5,62,69,79,49,66,7,7,4,3,0,0,0,0,3, Full Time,news,%s from %O and %G on Williams
+281373,Jack,Redden,BL,5,57,49,76,47,63,10,4,5,2,0,2,2,0,0, Full Time,news,%P and %M
+230147,Daniel,Merrett,BL,9,56,71,74,44,57,6,4,6,3,0,0,0,0,0, Full Time,job,Stood Hall... %O and %M
+260975,James,Polkinghorne,BL,9,54,51,71,41,60,7,7,2,4,0,0,1,0,0, Full Time,news,%O and %T... Harbrow on him
+230170,Joel,Patfull,BL,5,53,69,69,43,58,8,5,4,2,0,1,1,0,1, Full Time,job,Back to defence this week on Murphy... %P and %M
+271072,Daniel,Rich,BL,9,51,46,69,43,63,10,5,4,2,0,0,3,0,0, Full Time,cold,His slow start to 2010 continues... %O and %T with %F
+220062,Matt,Maguire,BL,4,41,54,55,33,44,4,3,4,3,2,0,1,0,0, Full Time,concussed,Hit his head on the ground after a marking attempt in Q2 and looked groggy... %P and %M
+260227,Shaun,Higgins,WB,21,98,99,72,77,103,13,10,5,4,0,1,0,1,1, Full Time,news,%s from %D and %M on Hawksley
+240156,Ryan,Griffen,WB,24,97,86,71,79,111,14,12,6,5,0,2,3,0,0, Full Time,news,%O and %M with %T and %F
+220010,Matthew,Boyd,WB,20,95,108,58,74,103,15,12,2,3,1,1,0,1,0, Full Time,news,%K among %O with %T and %s
+230041,Adam,Cooney,WB,14,89,94,69,68,93,11,12,3,5,0,3,0,0,0, Full Time,news,%P and %M
+200079,Daniel,Giansiracusa,WB,21,86,86,67,70,87,10,5,5,3,0,1,0,3,0, Full Time,news,%s from %P and %M with %T
+240254,Jarrod,Harbrow,WB,9,77,119,41,58,81,15,6,3,3,0,2,1,0,0, Full Time,job,Minded Polkinghorne... %P
+240212,Dylan,Addison,WB,19,73,101,55,65,81,8,9,6,0,0,1,0,2,0, Full Time,tagger,Tagged Sherman... %P and %M plus %s
+240710,Ben,Hudson,WB,9,68,80,52,59,77,7,10,3,1,14,0,0,0,0, Full Time,news,%H and %P plus %M
+200082,Ryan,Hargrave,WB,8,65,65,41,50,72,11,7,3,3,0,0,1,0,0, Full Time,news,%M and %O
+210049,Daniel,Cross,WB,8,65,70,55,58,81,5,18,3,1,0,1,0,0,0, Full Time,sore,%P and %M... corkie in his left thigh in Q2
+220039,Brian,Lake,WB,9,64,99,55,56,75,6,12,5,2,0,2,1,0,0, Full Time,job,Went with Brown... %P
+970100,Nathan,Eagleton,WB,8,59,47,39,48,63,9,6,5,1,0,1,0,0,0, Full Time,news,%D and %M
+960570,Barry,Hall,WB,15,55,72,40,51,61,6,3,3,0,0,0,1,4,1, Full Time,news,Booted %s from %G and %D on Merrett but got very little of it in the second half
+261209,Josh,Hill,WB,11,54,58,49,45,60,5,6,4,3,0,0,1,1,0, Full Time,news,%D and %M plus %T
+230255,Will,Minson,WB,8,52,20,39,44,52,6,2,3,1,15,1,0,0,1, Full Time,news,%H and %P plus %M and %s
+240029,Brodie,Moles,WB,8,49,28,46,37,53,4,8,1,4,0,0,0,0,2, Full Time,cash,%O and %T plus %s
+200080,Lindsay,Gilbee,WB,3,46,84,26,33,48,9,3,1,3,0,1,1,0,0, Full Time,cold,Barely got a touch early... %P
+250712,Dale,Morris,WB,13,46,73,53,34,48,2,7,1,6,0,2,1,0,0, Full Time,job,Stood Fevola... %O
+261257,Andrejs,Everitt,WB,4,42,49,39,34,48,4,6,3,3,0,0,1,0,0, Full Time,news,%P and %T
+250150,Tom,Williams,WB,4,40,42,26,34,45,6,5,4,0,0,0,0,0,0, Full Time,concussed,On Staker... %D and %M... stretchered off in Q3 with a neck brace on after a marking contest with Rich
+200083,Robert,Murphy,WB,2,33,32,15,28,37,7,2,3,0,0,1,1,0,1, Full Time,cold,%s from %P and %M on Patfull
+200081,Mitch,Hahn,WB,1,25,33,7,18,27,7,0,1,1,0,0,1,0,0, Full Time,news,%D

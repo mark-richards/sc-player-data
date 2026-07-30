@@ -1,0 +1,48 @@
+Collingwood,Magpies,Geelong,Cats,R9,6.14.50,12.14.86, Full Time
+May 21,2010,7:40,MCG,Seven,200039,10280901,5015453,5008,Morning showers,16
+The new pages are being tested this week with an iPhone-only app to launch next week... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>robboteam</em>: hayes last 4 games ave 115&#044; cost $443K = 25.9%. GAJ ave 92 last 4 games (105&#044;95&#044;167&#044;0) cost $548k = 16.7%. GAJ=SPUD<br><em>Pravis</em>: Kenelly will be 378K if he only gets a 2 in SC<br><em>Malceski9</em>: wow how disgusting must Davis look to get called fat by Monty<br><em>Side by Side</em>: scores???<br><em>jameswilso</em>: knew i should have gone sanilands for captain<br><em>longsta34</em>: robotmab is a retard<br><em>robboteam</em>: Scotty failed maths obviously<br><em>robboteam</em>: scotty&#044; last 4 games were 105&#044; 95 167 and 0<br><em>Scotty1</em>: GAJ 145 &#044; 167 &#044; 96 &#044;105 how does that average 92 tool robboteam<br><em>handypoint</em>: highlight of the night... wonderlich.<br><em>asmodean</em>: I think Tredreas is actually because he was part of a phone company add<br><em>cougar37</em>: png on sandi = 193<br>
+220105,Dane,Swan,CO,25,94,108,118,78,106,14,11,6,2,0,0,1,1,1, Full Time,heart,First goal... %s from %O and %M with %F... heavily strapped right knee obviously bothering him
+271001,Dayne,Beams,CO,25,90,99,109,79,98,11,6,6,1,0,0,1,4,2, Full Time,up,%s from %O and %M including three goals in Q2
+240700,Heath,Shaw,CO,15,84,68,109,65,93,17,8,4,2,0,0,1,0,0, Full Time,job,On Varcoe... %P and %M with %T
+220005,Luke,Ball,CO,18,83,59,104,75,105,12,15,7,1,0,1,3,0,0, Full Time,news,Head to head with Bartel.. %O and %M with %F
+230263,Nick,Maxwell,CO,19,83,66,107,69,88,10,7,10,2,1,0,0,0,0, Full Time,garbage,Followed Hawkins... %P and %M... racked up stats in Q4 junk time
+260257,Scott,Pendlebury,CO,14,81,96,107,62,84,11,7,5,5,0,2,1,0,0, Full Time,pinkpig,Tagged by Ling... %O and %M plus %T
+200021,Ben,Johnson,CO,14,80,80,103,65,97,17,11,2,2,0,1,3,0,1, Full Time,news,Head to head with Wojcinski on a wing... %D and %T with %s and %F
+210003,Alan,Didak,CO,14,79,96,104,58,83,13,7,2,5,0,1,1,0,2, Full Time,news,%O and %T on Enright
+240359,Dale,Thomas,CO,14,76,85,99,57,80,13,7,2,4,1,2,1,0,1, Full Time,sore,Head to head with Kelly on a wing... %O and %T... rolled an ankle in Q4
+261799,Sharrod,Wellingham,CO,9,68,34,84,59,80,9,11,5,1,1,1,1,0,1, Full Time,news,%O and %M plus %s
+210099,Darren,Jolly,CO,15,67,60,82,64,79,5,8,6,2,15,3,3,0,1, Full Time,news,%H and %D with %M and %F
+240232,Ben,Reid,CO,12,66,74,85,53,66,11,4,6,1,0,3,0,0,0, Full Time,job,Had Mooney... %D and %M
+261181,Brent,Macaffer,CO,12,63,68,80,47,65,6,9,1,5,0,2,0,0,2, Full Time,news,Scarlett sat on him... %P
+240073,Harry,O'Brien,CO,7,62,73,80,49,70,13,6,3,1,0,0,1,0,1, Full Time,job,Minding Johnson... %D and %s
+240366,Travis,Cloke,CO,5,60,64,79,48,63,10,4,5,2,0,2,1,0,0, Full Time,news,Taylor then Lonergan on him... %P and %M
+980009,Shane,O'Bree,CO,15,57,71,75,44,60,5,5,3,5,0,0,1,1,0, Full Time,news,%O including %B with %M and %T... also %s
+240419,Alan,Toovey,CO,4,53,50,67,43,57,8,6,4,1,0,1,0,0,0, Full Time,job,Minded Byrnes... %P
+280965,Steele,Sidebottom,CO,7,47,53,58,37,54,6,9,1,2,0,0,0,0,0, Full Time,news,%B among %P
+200019,Leon,Davis,CO,2,38,31,50,26,37,6,3,0,3,0,1,0,0,1, Full Time,burger,%s from %P with %T on Hunt... looked fat and disinterested again
+260310,Nathan,Brown,CO,3,33,56,40,28,39,1,8,2,2,0,0,0,0,0, Full Time,ipod,Stood Podsiadly... %P
+260394,Chris,Dawes,CO,3,33,11,43,26,33,3,3,3,2,0,1,0,0,0, Full Time,news,Lonergan then Taylor on him... %P and %M
+240300,Cameron,Wood,CO,2,24,24,28,23,30,1,4,1,1,9,0,1,0,0, Full Time,news,%H and %P
+220007,Jimmy,Bartel,GE,31,125,112,84,95,129,20,10,7,6,0,3,1,0,0, Full Time,gun,Head to head with Ball... %O and %M plus %T
+200035,Corey,Enright,GE,31,124,101,90,98,129,18,9,12,4,0,0,0,0,0, Full Time,hot,Had Didak... %M and %D plus %T
+220058,James,Kelly,GE,26,121,112,87,98,135,17,15,9,4,0,0,1,0,0, Full Time,star,Head to head with Thomas on a wing... %O and %M
+200037,Cameron,Ling,GE,45,116,105,102,85,119,13,11,5,10,0,1,1,0,2, Full Time,hot,Tagged Pendlebury... %O and %T with %M
+960375,Darren,Milburn,GE,25,109,89,78,88,120,15,15,6,4,0,3,1,0,0, Full Time,garbage,Enjoyed himself in Q4 junk time... %P and %M with %T
+200039,Paul,Chapman,GE,18,107,115,50,83,111,22,7,7,1,0,2,0,0,0, Full Time,garbage,%D and %M... worked hard across the back half for much of the match and racked it up in Q4 garbage time
+220001,Gary,Ablett jnr,GE,21,105,108,69,86,122,15,17,3,3,0,0,1,1,2, Full Time,garbage,No tag but not enough footy when it mattered either... %s from %P with %M and %T... joined in the garbage time sluttiness late in Q4
+970006,Cameron,Mooney,GE,30,99,106,66,86,107,15,3,10,1,0,0,2,3,2, Full Time,x-factor,Booted %s from %G and %D on Reid including key goals in Q3 to give Geelong a big lead
+230248,Andrew,Mackie,GE,18,96,107,57,80,109,16,12,7,1,0,1,1,0,1, Full Time,news,%P including %b by hand with %M and %s
+250321,Joel,Selwood,GE,19,96,78,76,81,111,11,16,7,3,0,1,1,0,0, Full Time,news,%O and %M
+230214,Mathew,Stokes,GE,25,92,86,81,74,96,8,10,3,5,0,1,0,3,0, Full Time,garbage,Quiet early but prominent in Q4 garbage time... %s from %D with %T
+210059,Josh,Hunt,GE,15,91,66,62,73,96,14,7,9,2,0,0,0,0,0, Full Time,garbage,Minded Davis... %D and %M with %T... lots of stats in Q4 junk time
+200131,James,Podsiadly,GE,21,85,83,75,70,89,9,5,9,4,0,0,1,1,2, Full Time,news,%s from %G and %O on Brown
+250290,Travis,Varcoe,GE,20,83,74,74,72,94,7,13,6,3,0,2,1,1,1, Full Time,news,Tried to keep Shaw honest... %s from %D and %M
+220054,Steve,Johnson,GE,19,79,57,45,67,85,14,4,8,0,0,1,1,1,1, Full Time,news,O'Brien kept him quiet... %s from %P
+980037,Matthew,Scarlett,GE,13,74,61,58,61,81,9,9,7,2,0,0,0,0,0, Full Time,job,Stood Macaffer... %M and %P
+230022,Shannon,Byrnes,GE,9,73,78,52,59,80,10,9,5,2,0,0,0,0,2, Full Time,news,%s from %O and %M on Toovey
+261510,Tom,Hawkins,GE,16,68,79,66,65,83,5,8,7,3,8,2,4,1,0, Full Time,news,%s from %O and %M on Maxwell... also %H and %T rotating through ruck
+240117,Mark,Blake,GE,15,67,70,56,64,78,5,10,4,0,21,2,1,0,0, Full Time,news,%H and %D with %M
+261497,Harry,Taylor,GE,13,67,67,54,57,75,8,8,7,2,0,1,1,0,0, Full Time,job,Switched from Cloke to Dawes in Q1... %M and %D
+990076,David,Wojcinski,GE,15,66,60,57,58,78,6,11,5,2,0,0,1,1,0, Full Time,news,Head to head with Johnson on a wing... %P and %M
+230125,Tom,Lonergan,GE,9,62,80,58,55,78,5,13,5,3,0,0,2,0,0, Full Time,job,Moved from Dawes to Cloke in Q1... %B among %O with %M and %F

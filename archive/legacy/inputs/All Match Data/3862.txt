@@ -1,0 +1,48 @@
+Richmond,Tigers,Sydney,Swans,R21,14.15.99,7.14.56, Full Time
+Aug 14,2011,2:10,MCG,Seven,250395,10312107,5640,163,Possible shower,17,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>cbaz</em>: ilys riewoldt<br><em>woofy</em>: wd mummy!<br><em>timmeh23</em>: flower you Goodes<br><em>SuperSub17</em>: @fc.hawks probs about 80<br><em>kano</em>: cow<br><em>Hodgeey</em>: Goodes 82<br><em>Nigey95</em>: goodes 86 sc <br><em>fc.hawks</em>: anyone with any idea about goodes SC?<br><em>bakez33</em>: @ Im a freo fan and boy am i jealous of richmonds song YELLOW AND BLACK! what a song and there win kept us in the hunt:D<br><em>omatty</em>: Cotchin beats ROK by 5<br><em>PAforspoon</em>: Bedlam he will<br><em>PAforspoon</em>: ddaamm  iitt!!!<br>
+270896,Trent,Cotchin,RI,30,121,116,158,90,123,23,6,6,4,0,0,0,1,0, Full Time,hot,Tagged by Jack then Bird... %D and %M with %T,,
+250312,Bachar,Houli,RI,22,118,148,150,91,123,23,9,5,2,0,2,0,1,0, Full Time,star,%D with %k by foot... also %M and %s... McVeigh moved to him in Q3 after Houli carved it up across halfback,,
+261362,Alex,Rance,RI,14,96,132,123,75,99,15,9,6,3,0,3,0,0,0, Full Time,news,%P and %M with %T,job,On Goodes
+250298,Shaun,Grigg,RI,19,92,71,116,74,101,14,11,6,2,1,0,0,0,1, Full Time,news,%P and %M plus %s,,
+240336,Brett,Deledio,RI,21,90,127,106,78,108,12,18,4,0,0,0,0,1,0, Full Time,job,Running off McGlynn... %B among %O with %M and %s,,
+200109,Shane,Tuck,RI,14,86,96,106,72,101,14,14,4,1,1,1,1,0,1, Full Time,news,%D and %M plus %s,,
+250395,Jack,Riewoldt,RI,20,86,97,109,72,91,12,5,7,2,0,1,1,2,1, Full Time,news,Richards on him... %s from %D and %M with %T,,
+290847,Dustin,Martin,RI,20,85,79,110,66,87,13,4,2,5,0,3,2,2,3, Full Time,news,%2 Bolton... %D and %T plus %M and %s,,
+250623,Robin,Nahas,RI,21,84,87,102,72,93,8,10,4,3,0,1,1,3,0, Full Time,lebanon,First goal... %s from %P on Shaw,,
+270941,Tyrone,Vickery,RI,18,71,81,88,60,75,9,6,6,1,3,1,0,1,0, Full Time,news,%s from %P and %M on Grundy... also %H,,
+271437,Jake,King,RI,14,71,79,90,57,76,10,7,3,3,0,2,1,1,1, Full Time,news,%D and %T with %M on Smith,,
+260930,Shane,Edwards,RI,15,69,86,89,50,66,7,5,1,6,7,2,0,0,2, Full Time,news,%D and %T on Kennelly... a weirdly high %H,,
+240707,Daniel,Jackson,RI,13,64,72,79,59,82,5,14,6,2,1,0,2,0,0, Full Time,tagger,Tagging O'Keefe... %O and %M,,
+240130,Nathan,Foley,RI,9,60,57,81,44,63,10,4,3,4,0,0,1,0,0, Full Time,tagged,Tagged by Bird then Jack... %D and %T with %M,subbed,Subbed off in Q4 for Morton
+260970,Mitch,Farmer,RI,8,55,62,68,45,63,6,10,3,2,0,0,0,0,0, Full Time,news,%D and %M,,
+260146,Angus,Graham,RI,10,54,73,66,51,63,3,5,3,3,21,2,3,0,0, Full Time,news,%H and %F... also %M and %P with %T,,
+291437,Jake,Batchelor,RI,9,54,48,73,39,55,7,4,2,5,0,1,1,0,1, Full Time,injured,Loose in defence... %M and %O with %T and %s... dislocated his already strapped left shoulder in Q4,,
+220071,Brad,Miller,RI,20,53,56,70,38,48,3,3,2,6,0,2,0,1,0, Full Time,news,%D and %T with %M on Johnson,,
+250662,Will,Thursfield,RI,3,47,77,58,39,54,6,8,3,1,0,0,0,0,0, Full Time,news,%P and %M,job,Has Reid
+270315,Jayden,Post,RI,4,47,51,60,37,51,6,6,3,2,0,0,0,0,0, Full Time,news,%P and %M,,
+292025,Matt,Dea,RI,4,42,56,52,34,45,4,7,2,2,0,2,0,0,0, Full Time,news,%O,,
+240412,Mitch,Morton,RI,7,26,21,34,18,24,2,1,0,3,0,0,0,1,0, Full Time,news,On in Q4 for Foley... %D and %s,sub,Started as a sub
+260382,Josh P.,Kennedy,SY,34,119,117,97,91,121,14,9,4,8,0,2,1,2,4, Full Time,hot,%O and %T plus %M and %s,,
+290117,Daniel,Hannebery,SY,25,115,89,74,92,124,19,9,10,3,0,0,1,0,1, Full Time,hot,%s from %P and %M with %T,,
+200071,Ryan,O'Keefe,SY,32,106,113,85,83,110,13,7,6,6,0,0,1,2,2, Full Time,hot,Tagged by Jackson... %D and %T with %M and %s... had a massive Q3,,
+280762,Shane,Mumford,SY,22,79,123,78,75,95,4,10,3,4,32,2,4,0,0, Full Time,news,%H and %P with %T and %M... also %F,,
+980073,Adam,Goodes,SY,24,78,88,68,64,84,8,8,6,4,0,1,1,1,0, Full Time,news,%s from %P and %M on Rance... also %T,,
+220063,Martin,Mattner,SY,13,72,83,43,57,75,13,4,6,2,0,2,1,0,0, Full Time,news,%D and %M with %T,,
+240072,Heath,Grundy,SY,13,72,93,37,62,84,14,7,7,0,0,1,2,0,0, Full Time,news,%P and %M,job,Has Vickery
+261212,Craig,Bird,SY,24,72,74,61,54,78,8,9,1,6,0,0,1,1,0, Full Time,tagger,Moved tag from Foley to Cotchin in Q3... %O and %T,,
+200023,Rhyce,Shaw,SY,13,71,85,54,51,72,10,6,3,5,0,0,0,0,0, Full Time,news,%O and %M with %T,job,Has Nahas
+210027,Ted,Richards,SY,13,70,81,47,57,75,11,6,6,2,0,2,1,0,0, Full Time,job,On Riewoldt... %O and %M,,
+240226,Kieren,Jack,SY,9,69,99,39,53,75,12,9,2,2,0,1,0,0,0, Full Time,tagger,Tagging Cotchin then moved to Foley in Q3... %D and %M,,
+230140,Ben,McGlynn,SY,15,64,58,59,43,59,7,3,2,7,0,1,0,0,2, Full Time,news,%s from %P and %T on Deledio,,
+230253,Jarrad,McVeigh,SY,9,54,61,46,46,66,6,9,4,3,0,0,2,0,0, Full Time,tagger,%P and %T with %M... moved to forward tag Houli in Q3,,
+250338,Nick,Smith,SY,4,46,54,35,35,48,7,2,4,3,0,0,1,0,0, Full Time,crown,Minding King... %D and %T with %M,,
+200096,Tadhg,Kennelly,SY,3,44,64,25,36,51,8,5,3,1,0,0,1,0,0, Full Time,job,Edwards keeping him honest... %D and %M,,
+261031,Brett,Meredith,SY,9,43,39,35,34,43,5,2,3,2,0,0,0,1,1, Full Time,news,%s from %P and %M,subbed,Subbed off in Q4 for Parker
+990011,Jude,Bolton,SY,3,39,47,32,33,45,4,7,3,1,0,0,0,0,0, Full Time,news,%O and %M,,
+220089,Lewis,Roberts-Thomson,SY,3,38,46,26,34,45,6,3,4,1,2,1,2,0,1, Full Time,news,%D and %M plus %s,,
+291450,Alex,Johnson,SY,3,36,44,15,30,42,8,3,3,0,0,0,1,0,0, Full Time,job,Has Miller... %P and %M,,
+290188,Samuel,Reid,SY,3,32,25,22,29,37,5,2,5,0,0,0,1,0,1, Full Time,news,Thursfield on him... %s from %G and %O,,
+290778,Luke,Parker,SY,1,23,22,20,19,27,2,5,1,1,0,0,0,0,0, Full Time,news,On in Q4 for Meredith,sub,Started as a sub
+281281,Lewis,Jetta,SY,2,19,23,10,19,27,4,2,3,0,0,0,2,0,0, Full Time,news,%O and %M,,

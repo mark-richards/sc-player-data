@@ -1,0 +1,48 @@
+St Kilda,Saints,Gold Coast,Suns,R22,17.14.116,10.10.70, Full Time
+Aug 25,2013,1.10,Docklands,Seven,990028,10392207,stk-v-gcfc,0,Roof closed,17,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tKA"></b> RooBoyStu</em>: yeah bad call re Milne x factor&#044; should be Montagna<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> linusp</em>: christ @ JOM v Ablett... pathetic<br><em style='color:#000'>MarksMen</em>: Cannon 68 bullshower<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> linusp</em>: nroo will scale to 150 methinks<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tPA"></b> B.Pickett</em>: Because he kicked 4 goals<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> linusp</em>: rapes a hell of a drug... i mean cocaine<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tFR"></b> NewFreoFan</em>: only caught the last qtr&#044; why is milne x factor?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> Changeling</em>: gaj 93<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> linusp</em>: hoping for 150ish @ MIJG&#044; higher the better tho<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> Changeling</em>: nroo 141<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> masterhc2</em>: absolutely loving the nroo+joey combo outstanding stuff boys<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tFR"></b> MIJG</em>: SC i mean<br>
+210001,Nick,Riewoldt,SK,43,152,155,189,130,156,20,6,15,1,1,1,0,4,5, Full Time,star,Booted %s from %D and %M on Thompson,,,426700,70,450000,75,Forward,12,19,99.7,102.4,21.71,10.31
+220075,Leigh,Montagna,SK,31,123,154,149,105,140,18,15,6,1,1,0,1,3,1, Full Time,gun,%O and %s,,,504200,117,563100,141,Centre,11,19,107.2,110.1,5.35,1.56
+220023,Nick,Dal Santo,SK,25,113,119,141,92,123,19,12,7,1,0,1,0,1,0, Full Time,hot,Loose in defence... %P and %M,,,433500,118,510200,154,Centre,26,20,86.6,94.6,1.73,2.14
+260113,Jarryn,Geary,SK,21,107,94,137,86,111,15,8,9,3,0,1,0,1,0, Full Time,hot,%D and %T plus %M,job,Responsible for Aaron Hall,297800,23,359700,18,Back,14,19,66.2,76.9,1.68,2.16
+250134,Sam,Gilbert,SK,25,104,112,133,85,111,15,10,10,2,0,1,0,0,0, Full Time,hot,%P and %M,job,Moved to Brennan in Q3,305400,111,364600,131,Back,19,7,62.4,72.9,0.53,0.62
+261323,Ben,McEvoy,SK,32,100,102,128,81,98,7,3,7,7,26,1,1,0,0, Full Time,hot,%H and %D plus %T and %M,,,305900,113,398200,148,Ruck,5,20,74.5,93.1,3.69,6.30
+291518,Thomas,Curren,SK,15,94,76,120,77,102,11,11,9,3,0,0,0,0,0, Full Time,news,%P and %M with %T,harley,Tagging Bennell,200000,-29,224400,-52,Centre,43,5,53.2,63.2,1.74,1.27
+230243,Sean,Dempster,SK,19,92,70,119,75,102,19,7,8,0,0,0,1,0,0, Full Time,news,%P... %F as well,job,In defence on Sumner,303500,66,359200,80,Back,24,17,62.2,69.4,0.59,0.58
+270912,Jack,Steven,SK,20,89,119,112,68,90,13,9,2,4,0,4,0,1,0, Full Time,news,%2 Prestia... %O and %T,,,462400,77,545600,123,Centre,3,20,96.2,107.2,1.58,1.87
+220098,Adam,Schneider,SK,20,88,104,112,72,97,14,8,6,2,0,0,1,1,1, Full Time,news,First goal... %s from %O on Osborne... also %M and %T,,,331200,72,343000,88,Forward,13,3,62,57,0.20,0.19
+294266,Tom,Hickey,SK,25,86,117,103,77,97,7,10,6,2,16,0,1,1,0, Full Time,news,%D and %M with %T starting forward on May... %H in ruck support,,,240400,37,264400,32,Ruck,1,10,50.4,53.9,1.01,0.96
+200108,Stephen,Milne,SK,21,84,91,101,73,89,13,4,4,0,0,2,1,4,2, Full Time,x-factor,Kicked %s from %D and %M on McKenzie,,,227500,74,232900,85,Forward,44,15,50.1,51.3,0.94,1.15
+240062,Farren,Ray,SK,14,84,88,109,69,91,15,6,8,1,1,1,1,0,0, Full Time,news,%D and %M,,,404500,62,407000,49,Centre,22,17,82.1,78.8,0.44,0.40
+261743,Clinton,Jones,SK,14,75,90,97,59,87,10,12,2,5,0,1,2,0,0, Full Time,tagger,Tagging Ablett jnr... %O and %T... %F as well,,,325200,95,353800,108,Centre,4,17,75.1,78.5,0.30,0.38
+990028,Lenny,Hayes,SK,8,68,87,85,53,75,13,9,2,1,0,1,0,0,0, Full Time,news,%2 O'Meara... %P,,,406600,100,459900,106,Centre,7,12,88.2,91.3,0.65,0.78
+250340,David,Armitage,SK,8,60,78,78,46,66,10,7,2,3,0,1,1,0,0, Full Time,tagged,Tagged by Stanley... %P and %T,,,414000,98,450200,89,Centre,20,19,90.2,94.5,0.67,1.02
+200068,Jason,Blake,SK,9,58,58,72,52,66,6,8,8,0,0,0,0,0,0, Full Time,job,Standing Dixon... %P and %M,,,271400,91,344700,79,Back,27,5,47.6,63,0.16,0.18
+291773,Jack,Newnes,SK,4,52,52,66,42,57,8,6,4,1,0,0,0,0,0, Full Time,job,Minding Boston... %D,,,315000,56,288700,68,Centre,16,17,60.1,58.5,0.51,0.40
+293846,Sebastian,Ross,SK,9,51,68,63,43,60,2,12,2,4,0,2,1,0,0, Full Time,news,%P and %T with %M,,,247700,80,235200,68,Centre,6,11,54.2,50.1,0.76,0.57
+294198,Tom,Ledger,SK,10,48,29,60,40,51,8,3,4,0,0,0,0,1,0, Full Time,in,Late replacement for Tom Lee... on in Q3 for Shenton,sub,Started as a sub,208700,,242100,,Centre,15,0,0,0,0.26,0.21
+281298,Cameron,Shenton,SK,2,27,32,35,24,33,3,4,3,1,0,0,1,0,0, Full Time,job,First game... %D and %M... matched up on Brennan,subbed,Subbed off in Q3 for Ledger,108500,,115900,,Forward Centre,39,0,0,0,0.49,0.47
+295095,Brodie,Murdoch,SK,1,23,22,31,18,22,3,0,3,1,0,0,0,0,1, Full Time,news,Donuts in Q1... Murphy on him... %s from %P and %M,,,204200,50,209700,53,Forward,30,7,43.6,42.9,1.88,1.42
+250249,Danny,Stanley,GC,25,109,114,78,90,119,15,12,10,2,0,0,0,0,2, Full Time,hot,%D and %M,tagger,Tagging Armitage,360300,50,371700,36,Back,25,16,79.4,77.9,0.94,0.30
+290527,Trent,McKenzie,GC,14,81,71,50,65,87,14,6,7,2,0,1,1,0,0, Full Time,job,Milne is his man... %O and %M,,,337600,108,409900,139,Back,18,16,81.6,90.6,7.74,5.85
+290627,Dion,Prestia,GC,19,81,100,44,69,96,14,12,3,1,0,2,2,1,0, Full Time,news,%2 Steven... %P and %s,,,416000,100,450500,106,Centre,10,18,95.4,95.1,0.73,0.35
+280711,Charlie,Dixon,GC,14,78,89,62,66,80,8,5,4,2,10,1,0,2,1, Full Time,news,Booted %s from %P and %G on Blake... %H in ruck support,,,306000,85,424700,111,Back,23,11,73.7,94.2,2.22,4.19
+296735,Aaron,Hall,GC,18,75,64,44,60,77,13,3,6,1,0,0,0,1,2, Full Time,news,%s from %D and %M on Geary,,,303900,43,312000,57,Forward,33,20,64.7,62.3,0.79,0.65
+220001,Gary,Ablett jnr,GC,13,71,90,53,66,93,7,21,3,0,0,2,1,0,0, Full Time,tagged,Tagged by Jones... %O and %M,,,486000,170,556400,182,Centre,9,19,116,129.1,68.59,66.63
+291594,Harley,Bennell,GC,9,69,106,35,58,81,13,9,5,0,0,0,1,0,0, Full Time,tagged,Tagged by Curren... %P and %M,,,422600,58,490500,46,Centre,11,13,84.8,93.5,0.78,0.70
+294613,Jaeger,O'Meara,GC,20,69,49,57,61,90,8,11,2,5,0,0,5,2,0, Full Time,news,%2 Hayes... %D and %T... also %F,,,421500,106,432500,86,Centre,1,20,90,91.1,36.86,39.55
+250146,Thomas,Murphy,GC,14,68,84,64,54,72,6,8,6,4,0,0,0,0,0, Full Time,job,Minding Murdoch... %O and %M plus %T,,,253100,56,335200,55,Back,29,15,59.1,71.2,0.56,0.67
+281085,Steven,May,GC,12,67,77,43,56,75,11,6,7,1,0,0,1,0,0, Full Time,news,%M and %O,job,In defence on the resting ruck which is mostly Hickey,232500,39,303500,64,Back Forward,17,16,44.1,57.4,0.76,0.56
+291942,Jackson,Allen,GC,14,67,47,41,57,72,12,2,10,0,0,0,1,0,0, Full Time,news,%D and %M,,,225700,92,276100,109,Back,31,2,27.5,31.5,0.22,0.20
+281075,Rory,Thompson,GC,15,63,76,50,56,68,7,5,8,0,2,0,0,1,0, Full Time,news,%M and %D plus a rare %s,job,Following Riewoldt,220100,48,294900,70,Back,16,19,54,68.8,0.85,1.09
+296940,Tim,Sumner,GC,14,56,66,37,48,58,8,1,3,1,0,1,1,3,1, Full Time,news,%s from %P on Dempster,,,161200,25,178200,9,Forward,39,9,41.9,43.6,2.74,2.77
+240712,Michael,Rischitelli,GC,4,52,43,42,40,56,6,7,2,3,1,0,0,0,1, Full Time,news,%D and %T with %M,,,317700,71,345200,69,Centre,35,9,66.7,72.1,0.67,0.65
+230015,Jared,Brennan,GC,4,44,36,27,39,54,7,7,4,0,0,0,1,0,0, Full Time,news,%P starting forward on Shenton then got Gilbert in Q3,,,318100,82,343200,87,Back,3,13,68,74.1,0.49,0.35
+261756,Greg,Broughton,GC,3,40,50,28,35,48,5,8,3,0,0,0,0,0,0, Full Time,news,%P,,,285400,53,336600,58,Back Forward,36,16,66.7,73.4,2.75,2.80
+291304,Daniel,Gorringe,GC,3,38,58,32,35,44,3,6,1,1,11,2,1,0,0, Full Time,news,%H and %D,,,247100,-5,289200,1,Ruck,15,8,57.4,62.1,6.68,4.69
+281025,Luke,Russell,GC,2,37,29,19,28,39,7,4,1,1,0,1,0,0,0, Full Time,news,%O,,,285100,75,328400,94,Back,8,16,60.6,61.3,0.25,0.32
+290759,Jacob,Gillbee,GC,2,34,40,14,27,39,7,5,1,0,0,0,0,0,0, Full Time,news,%D,,,173100,,172300,,Forward,13,1,31,34,0.29,0.43
+292512,Karmichael,Hunt,GC,3,34,29,30,27,39,3,7,1,2,0,0,0,0,0, Full Time,in,Late replacement for Jarrod Harbrow... on after HT for Boston,sub,Started as a sub,252300,91,270600,95,Centre,7,7,45.7,47.9,1.32,0.69
+280119,Leigh,Osborne,GC,2,33,42,26,29,39,4,5,3,1,0,1,1,0,0, Full Time,rookie,First game... %D and %M,job,In defence on Schneider,125300,,132200,,Back,41,0,0,0,0.28,0.37
+294485,Andrew,Boston,GC,2,22,28,14,18,24,4,1,2,1,0,1,1,0,0, Full Time,injured,%D and %M on Newnes... chest injury in Q2,subbed,Subbed off at HT for Hunt,146900,-21,144900,-28,Centre,40,6,33.5,32.7,3.62,2.58

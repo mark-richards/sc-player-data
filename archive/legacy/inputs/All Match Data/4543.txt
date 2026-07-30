@@ -1,0 +1,48 @@
+Adelaide,Crows,Geelong,Cats,R17,14.10.94,14.8.92, Full Time
+Jul 21,2013,3.15,Footy Park,Seven,230174,10391708,adel-v-geel,0,A few showers,12,,
+
+<em style='color:#000'>Drak</em>: stars firing<br><em style='color:#000'>Drak</em>: All the old dogs are slowing down. And suddenly Geelong don't look as good. These "kids" arent that great without the<br><em style='color:#000'>Sydney14</em>: told ya bling would ton up ;)<br><em style='color:#000'>matthius</em>: absolute muppets! for over 100 years drop punts were used and these heros of today want to try something different.<br><em style='color:#000'>Thorpy</em>: too little&#044; too late in the context of the season for the crows.<br><em style='color:#000'>mstrbatten</em>: give dawson simpson the star monty<br><em style='color:#000'>bixler</em>: serves cats right for doing those stupid flowering snaps when a drop punt would suffice<br><em style='color:#000'>Bort</em>: crows played as a team without danger the selfish cow<br><em style='color:#000'>bigpens</em>: Selwood hulk... Nek minnut atlas<br><em style='color:#000'>GJayBee</em>: porps not above the png power!<br><em style='color:#000'>Rated_RKO</em>: could this weekend be any better? first north lose&#044; then collingwood and now geelong. . <br><em style='color:#000'>buddyboyz</em>: suck it up geelong u hacks<br>
+291201,Ricky,Henderson,AD,26,133,160,170,105,136,20,12,9,4,0,5,0,0,1, Full Time,cherry,%D and %T with %M and %s,job,In defence on Caddy,347400,29,365600,35,Back Forward,45,10,72.9,74.8,2.09,1.10
+240370,Richard,Douglas,AD,16,113,128,145,88,124,21,12,5,3,0,1,1,0,1, Full Time,star,%B among %D with %M and %T... 14 of those touches in Q1,,,464300,106,483700,104,Centre,26,15,100.9,104.7,1.79,0.82
+261142,Bernie,Vince,AD,27,101,99,129,81,111,16,9,4,4,0,1,2,2,0, Full Time,hot,%P and %M plus %T and %s,tagger,Tagging Selwood,398700,74,378700,56,Centre,17,14,81.9,77.6,0.61,0.55
+230216,Richard,Tambling,AD,20,100,75,129,82,111,12,12,9,4,0,0,1,0,0, Full Time,bluemoon,A fair few clangers among %D and %M with %T,job,Minding Varcoe,208100,,219900,,Back,1,1,56,37,0.49,0.48
+270963,Rory,Sloane,AD,19,92,97,113,77,106,11,16,6,2,1,0,0,0,0, Full Time,news,%O with %k by foot... also %M and %T,,,399900,93,474700,105,Centre,9,15,91.9,100.1,3.58,2.38
+270811,Sam,Jacobs,AD,27,90,86,112,71,89,5,6,3,7,25,0,0,0,1, Full Time,news,%H and P with %T and %M... also %s,,,358800,93,406600,105,Ruck,24,15,73.3,82.8,8.80,8.80
+261384,Matthew,Wright,AD,18,85,93,103,71,87,8,6,4,3,0,1,0,4,0, Full Time,x-factor,First goal... a vital %s from %P and %M with %T,tagger,Forward role on Enright,298000,101,339500,103,Forward Centre,11,12,66.4,69.6,1.24,0.89
+294307,Brad,Crouch,AD,15,83,77,105,66,93,13,10,3,3,0,0,1,1,0, Full Time,cash,%D with %k by foot... also %T and %M,,,363500,42,338500,41,Centre,2,7,85.4,78.1,17.14,18.10
+250362,David,Mackay,AD,15,80,77,100,66,93,12,13,4,2,0,1,1,0,0, Full Time,news,%P and %M,,,307400,66,339400,68,Centre,14,12,69.9,70.7,0.56,0.31
+250118,Nathan,van Berlo,AD,25,78,95,106,61,91,13,7,1,7,1,2,5,1,0, Full Time,news,%D and %T... %F as well,,,329000,75,323200,82,Centre,7,12,68.2,66.9,0.58,0.70
+294828,Josh,Jenkins,AD,19,77,68,98,66,87,11,7,6,2,3,1,2,1,0, Full Time,news,%D and %M on Lonergan... also %H and %F,,,303400,114,350400,108,Forward Ruck,4,15,66.8,71.6,6.34,5.87
+270938,Tom T.,Lynch,AD,17,75,70,94,65,82,10,4,5,2,0,1,2,3,1, Full Time,news,%s from %P and %M with %T on Mackie... also %F... three of those goals in Q3,,,408300,59,387300,72,Forward,27,12,92.5,81.6,4.96,1.96
+210016,Scott,Thompson,AD,19,72,55,96,53,73,9,6,3,6,0,2,1,0,1, Full Time,news,%s from %P and %M with %T starting forward,subbed,Subbed off in Q3 for Grigg,419900,92,446100,91,Centre,5,15,94.5,98.5,5.90,4.23
+291748,Brodie,Smith,AD,10,72,68,94,56,79,14,6,4,2,0,0,1,0,1, Full Time,job,Minding Smedts... %P and %M,,,355000,63,388100,90,Back,33,11,70.2,76.2,0.45,0.70
+293222,Rory,Laird,AD,9,71,72,88,57,78,10,11,3,2,0,2,0,0,0, Full Time,news,Stringer is his man... %O and %T with %M,concussed,Bartel caught him high in Q2 leaving him groggy. off as concussion sub for Grigg in Q2 but back in Q3,331800,83,337100,54,Back,46,11,69.9,67.7,4.78,3.19
+270296,Andy,Otten,AD,15,70,74,89,56,75,10,5,3,3,0,0,1,2,0, Full Time,news,%s from %O starting forward on Taylor... also %T,,,264700,80,334800,96,Back,22,15,59.1,72.6,1.85,3.35
+293193,Luke,Brown,AD,8,60,62,75,47,66,7,10,2,3,0,1,0,0,0, Full Time,job,Motlop is his man... %D and %T with %M,,,260200,50,290700,40,Back,16,14,50.7,55.4,4.00,5.06
+220093,Ben,Rutten,AD,10,57,66,75,44,57,5,5,5,4,0,1,0,0,0, Full Time,ipod,Switched from Hawkins to Podsiadly after the Tomahawk toweled him early... %M and %O,,,260900,75,283400,45,Back,25,15,53.1,60.3,1.99,2.27
+293716,Jarryd,Lyons,AD,7,54,54,69,40,58,10,6,1,2,0,0,0,0,1, Full Time,news,%s from %P and %T on Bartel,,,291700,20,303800,16,Forward Centre,31,6,67.8,69.8,1.38,2.06
+280934,Daniel,Talia,AD,8,53,77,68,46,60,7,6,6,1,0,1,1,0,0, Full Time,tomahawk,Switched from Podsiadly to Hawkins in Q2... no touches in Q1... %P and %M,,,247300,75,317300,81,Back,12,15,45.1,56.5,7.28,5.24
+230174,Jason,Porplyzia,AD,4,45,57,56,37,50,4,7,3,2,0,0,0,0,2, Full Time,news,%s from %P and %M on Guthrie,,,348600,54,361800,76,Forward,40,14,60.4,60.6,1.34,1.33
+290731,Mitchell,Grigg,AD,3,40,29,50,31,45,5,7,1,2,0,0,0,0,0, Full Time,rookie,First game... on in Q2 as concussion sub for Laird... on for good in Q3 for Thompson... %P,sub,Started as a sub,108500,,115900,,Centre,38,0,0,0,0.26,0.18
+250321,Joel,Selwood,GE,43,133,137,104,102,127,17,5,6,8,0,6,1,3,1, Full Time,atlas,Tagged by Vince... %P and %T plus %M and %s... had a gargantuan Q1,sore,Sore in Q3 after Vince cannoned into him from behind,452400,37,533700,46,Centre,14,15,98.3,110.1,15.88,25.63
+270340,Dawson,Simpson,GE,26,101,148,90,92,111,7,11,6,2,33,2,1,0,0, Full Time,hot,%H and %P with %M,,,262300,10,309900,-2,Ruck,16,4,78,90.5,2.71,2.44
+290623,Josh,Caddy,GE,20,86,100,52,66,87,14,4,2,3,0,0,0,3,0, Full Time,news,%s from %P and %M starting forward on Henderson,,,298900,-5,298400,1,Centre,23,9,57.1,54.1,1.72,3.27
+200034,Joel,Corey,GE,19,85,104,68,68,99,9,18,2,4,0,0,0,0,0, Full Time,news,%O and %T with %M,,,375100,87,437900,100,Centre,11,12,77.8,82.8,0.67,0.85
+220058,James,Kelly,GE,21,78,60,64,57,75,9,5,1,6,0,2,0,2,0, Full Time,news,%P and %T plus %s,,,457500,86,472800,83,Centre,9,10,96.8,92.9,0.34,0.36
+281065,Mitch,Duncan,GE,9,78,74,44,60,88,14,10,2,3,0,0,1,0,1, Full Time,news,%D with %k by foot... also %M and %s,,,418200,82,434800,58,Centre,22,15,89.1,81.6,0.96,1.14
+230248,Andrew,Mackie,GE,14,74,97,49,56,81,12,8,3,4,0,0,1,0,0, Full Time,news,%O and %M with %T,job,Lynch is his man,390200,120,436500,150,Back,4,15,80.9,84.1,5.39,4.26
+230214,Mathew,Stokes,GE,10,68,70,57,57,81,7,13,4,3,0,0,1,0,0, Full Time,sore,%P and %M... ankle knock when he ran into Otten in Q2... reappeared after HT,,,450700,128,477400,131,Forward,27,14,95.1,97.1,11.20,5.25
+261510,Tom,Hawkins,GE,16,67,59,45,59,70,10,1,8,0,0,1,1,2,1, Full Time,news,Booted %s from %D and %G on Rutten the got Talia in Q2 after he smashed Rutten early,,,258600,84,333600,108,Forward,26,14,59.4,71.6,3.85,5.07
+296733,Mark,Blicavs,GE,12,67,75,60,55,68,6,5,5,3,5,1,0,1,0, Full Time,news,%H and %P with %T and %M,,,324700,71,358700,73,Centre Ruck,46,14,59.1,66.1,22.61,22.82
+220007,Jimmy,Bartel,GE,8,66,82,35,52,73,12,9,1,2,0,3,1,0,1, Full Time,job,In defence on Lyons... %P and %T,mrp,A swinging arm on Laird in Q2 will be scrutinised,463500,154,516800,137,Forward Centre,3,15,97,107.5,38.71,37.08
+290783,Billie,Smedts,GE,10,65,57,59,48,63,7,4,5,5,0,1,0,0,0, Full Time,news,%O and %T with %M on Smith,,,261200,19,257900,20,Forward,2,10,54.5,56.6,0.90,2.38
+200035,Corey,Enright,GE,8,63,115,27,51,72,14,5,4,1,0,1,2,0,0, Full Time,tagged,Forward tag on him by Wright... %P and %M... also %F,,,432200,94,470300,92,Back,44,14,89.8,92.8,6.46,5.95
+280990,Steven,Motlop,GE,14,61,58,32,50,67,11,4,2,1,0,0,1,2,1, Full Time,news,%s from %O on Brown,,,297700,76,354000,86,Forward,32,14,72.9,77.1,3.82,4.06
+290550,Cameron,Guthrie,GE,4,52,52,38,43,57,7,6,5,1,0,0,0,0,0, Full Time,porpoise,On Porplyzia... %D and %M,,,240600,77,263900,88,Back,29,11,52.1,55.1,1.23,1.99
+261497,Harry,Taylor,GE,8,50,68,26,42,55,10,2,6,0,0,0,1,0,1, Full Time,job,Has Otten... %M and %D,,,395900,127,485600,132,Back,7,14,80.8,96.4,5.58,7.42
+230125,Tom,Lonergan,GE,9,44,56,36,37,45,5,2,5,1,0,0,0,1,0, Full Time,switch,Standing Jenkins... %P and %M... switched forward in Q3 for %s,,,162700,7,221900,14,Back,13,15,39.1,48.9,2.19,2.15
+291309,Jesse,Stringer,GE,3,43,36,30,30,42,7,2,2,3,0,0,0,0,0, Full Time,news,%D and %T on Laird,in,Late replacement for Taylor Hunt,249400,69,255100,54,Centre,41,5,50.4,49.8,0.31,0.39
+210059,Josh,Hunt,GE,3,33,35,14,26,36,7,3,2,0,0,0,0,0,0, Full Time,news,%O and %M,,,344100,73,423800,80,Back,8,8,64.6,75.9,0.59,0.50
+200131,James,Podsiadly,GE,4,28,30,25,30,48,4,6,3,3,0,1,6,0,0, Full Time,news,%P and %M on Talia then got Rutten in Q2... also %T and %F,mrp,A rather soft bump on Douglas in Q4 will nonetheless be assessed,383200,74,427000,106,Forward,31,14,78.6,83.1,1.31,1.48
+250290,Travis,Varcoe,GE,1,20,25,20,14,21,2,2,0,3,0,1,1,0,0, Full Time,news,%D and %T on Tambling,subbed,Subbed off in Q4 for Murdoch,221600,66,245300,84,Forward Centre,5,4,46.5,48,5.37,5.80
+295942,Jordan,Murdoch,GE,1,13,18,11,9,13,2,0,0,2,0,1,1,0,1, Full Time,news,On in Q4 for Varcoe,sub,Started as a sub,282500,36,291400,28,Back,21,8,55.5,56.5,0.47,0.80

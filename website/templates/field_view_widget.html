@@ -1,0 +1,92 @@
+{# field_view_widget.html — current-team field view, included in coach_profile.html #}
+<div class="card shadow-sm mb-3">
+  <div class="card-header fw-semibold d-flex justify-content-between align-items-center">
+    <span>Current Team — Round {{ field_data.round }}</span>
+  </div>
+  <div class="card-body p-0">
+    <div class="fv-wrapper">
+
+      {# ── Football field (on-field players) ── #}
+      <div class="fv-field">
+
+        {% for pos_key, pos_label in [("DEF","Defenders"),("MID","Midfielders"),("RUC","Rucks"),("FWD","Forwards")] %}
+        {% set players = field_data.positions.get(pos_key, []) %}
+        {% if players %}
+        <div class="fv-position">
+          <div class="fv-pos-label">{{ pos_label }}</div>
+          <div class="fv-cells">
+            {% for p in players %}
+            {% set pts = p.points %}
+            {% set pts_class = "is-high" if pts >= 120 else ("is-low" if pts < 60 and pts > 0 else "") %}
+            <div class="fv-cell{% if p.is_dnp %} is-dnp{% endif %}">
+              <div class="fv-logo-wrap">
+                {% if p.svg_content %}
+                <svg class="fv-logo" viewBox="0 0 24 24" width="32" height="32" aria-label="{{ p.team }}">{{ p.svg_content | safe }}</svg>
+                {% else %}
+                <div class="fv-badge">
+                  <div class="fv-badge-l" style="background:{{ p.colour1 }};"></div>
+                  <div class="fv-badge-r" style="background:{{ p.colour2 }};"></div>
+                </div>
+                {% endif %}
+              </div>
+              <div class="fv-info">
+                <div class="fv-name">{{ p.name }}</div>
+                <div class="fv-sub">{{ p.team }}&thinsp;<span class="fv-pos-badge">{{ p.position }}</span></div>
+              </div>
+              <div class="fv-score">
+                {% if p.is_dnp %}
+                  <div class="fv-pts is-dnp-label">DNP</div>
+                {% else %}
+                  <div class="fv-pts {{ pts_class }}">{{ pts if pts else "—" }}</div>
+                {% endif %}
+                <div class="fv-avg">{{ "%.1f"|format(p.avg) if p.avg else "—" }}</div>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+
+      </div>{# /fv-field #}
+
+      {# ── Bench panel ── #}
+      <div class="fv-bench">
+        <div class="fv-bench-header">
+          <span>Bench</span>
+        </div>
+        {% for p in field_data.bench %}
+        {% set pts = p.points %}
+        <div class="fv-bench-cell{% if p.is_emergency %} is-emergency{% endif %}">
+          {% if p.is_emergency %}
+          <span class="fv-emerg-badge">E</span>
+          {% endif %}
+          <div class="fv-logo-wrap fv-logo-wrap--bench">
+            {% if p.svg_content %}
+            <svg class="fv-logo fv-logo--bench" viewBox="0 0 24 24" width="28" height="28" aria-label="{{ p.team }}">{{ p.svg_content | safe }}</svg>
+            {% else %}
+            <div class="fv-badge fv-badge--bench">
+              <div class="fv-badge-l" style="background:{{ p.colour1 }};"></div>
+              <div class="fv-badge-r" style="background:{{ p.colour2 }};"></div>
+            </div>
+            {% endif %}
+          </div>
+          <div>
+            <div class="fv-bench-name">{{ p.name }}</div>
+            <div class="fv-bench-sub">{{ p.team }} &middot; {{ p.position }}</div>
+          </div>
+          <div class="fv-score ms-auto text-end">
+            {% if p.is_dnp %}
+              <div class="fv-bench-pts" style="color:#aaa;">DNP</div>
+            {% else %}
+              <div class="fv-bench-pts">{{ pts if pts else "—" }}</div>
+            {% endif %}
+            <div class="fv-bench-avg">{{ "%.1f"|format(p.avg) if p.avg else "—" }}</div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>{# /fv-bench #}
+
+    </div>{# /fv-wrapper #}
+  </div>
+</div>

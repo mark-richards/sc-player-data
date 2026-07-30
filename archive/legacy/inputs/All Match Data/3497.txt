@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Essendon,Bombers,R13,14.18.102,13.8.86, Full Time
+Jun 18,2010,7:40,MCG,Seven,220047,10281301,5015457,5165,Windy with showers,16
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>colonel78</em>: hurry up with the SC scores plz some people actually have to work tomoz<br><em>Crave</em>: mitchell 107<br><em>The_Kid_05</em>: If you want the SC scores just go to the Superfooty site.<br><em>nath29</em>: they are now!!! soz monty<br><em>nashtastic</em>: hodge got 67sc<br><em>hayes15</em>: Hodge just lost me supercoach:(<br><em>dj_2188</em>: woah changes<br><em>Stingers</em>: i got in 2nd on my thing. WAYNE CAREY<br><em>The_Kid_05</em>: Hodge SC = 63. Rioli = 101<br><em>nath29</em>: why the flower why my post dont go thru???<br><em>dj_2188</em>: lewis and mcveigh sc?<br><em>babyjack</em>: mitchel sc anyone??<br>
+240399,Lance,Franklin,HW,42,130,158,159,117,145,17,9,10,1,0,2,3,5,4, Full Time,star,%s from %P and %M on Hooker including goal of the year in Q4
+210092,Michael,Osborne,HW,21,111,115,141,90,115,17,7,9,2,2,1,0,1,2, Full Time,hot,%s from %P and %M on McVeigh
+220073,Sam,Mitchell,HW,19,98,107,127,74,107,18,10,3,4,0,0,1,0,2, Full Time,tagged,Tagged by Lovett-Murray... %D plus %s
+250089,Jordan,Lewis,HW,21,89,125,108,74,99,11,14,4,2,0,2,0,1,0, Full Time,news,%B among %O with %M
+250055,Clinton,Young,HW,17,86,82,111,66,84,10,4,5,5,0,1,0,2,0, Full Time,news,%D and %M with %T and %s
+210012,Shaun,Burgoyne,HW,21,84,77,108,66,91,12,8,4,4,0,0,1,1,1, Full Time,tagged,Tagged by Hocking... %O and %M plus %s
+210062,Wayde,Skipper,HW,16,82,91,103,65,86,7,9,4,5,10,0,0,0,1, Full Time,news,%H and %D with %M and %T... also %s
+260955,Cyril,Rioli,HW,25,82,101,108,62,85,12,6,2,6,0,3,2,1,1, Full Time,tagged,Tagged by Henry Slattery... %O and %s
+250257,Xavier,Ellis,HW,12,68,79,88,49,70,9,8,1,5,0,1,0,0,1, Full Time,news,Head to head with Winderlich... %P and %T with %s
+230197,Brad,Sewell,HW,14,64,60,85,49,69,9,6,4,4,0,0,1,0,0, Full Time,tagger,Tagged Watson and was beaten on the night... %O and %T with %M
+240302,Grant,Birchall,HW,9,62,63,85,43,63,11,3,2,5,0,0,1,0,0, Full Time,news,%P and %T
+220047,Luke,Hodge,HW,9,61,63,81,44,60,7,5,3,5,0,1,0,0,0, Full Time,sore,Tagged by Welsh... %O and %T with %M... corked knee in Q2
+250146,Thomas,Murphy,HW,9,59,84,76,48,66,7,8,4,3,0,1,1,0,0, Full Time,job,Has Zaharakis... %P and %M with %T
+220060,Rick,Ladson,HW,14,58,72,79,40,57,6,5,1,7,0,2,1,0,0, Full Time,news,%D and %T
+250308,Brent,Renouf,HW,6,57,59,70,51,63,6,4,5,1,14,0,1,0,1, Full Time,sore,%H and %P with %M... knock to a quadricep in Q2
+200060,Brent,Guerra,HW,7,53,80,65,43,57,10,7,2,0,0,3,0,0,0, Full Time,job,Zonging off Davey... %P
+240357,Jarryd,Roughead,HW,5,52,54,69,43,60,7,5,4,3,0,0,2,0,3, Full Time,news,%s from %P and %G on Pears... also %T
+260279,Beau,Muston,HW,15,46,68,58,40,48,6,0,2,2,0,2,2,3,0, Full Time,x-factor,Forward tag on Fletcher which worked a treat... %s from %O with %T was vital to the Hawks win including the goal that gave them the lead late in Q4
+281301,Ryan,Schoenmakers,HW,7,42,94,55,30,42,4,5,1,4,0,1,0,0,0, Full Time,gumby,Standing Gumbleton... %D
+200040,Chance,Bateman,HW,3,32,28,45,23,33,5,1,2,3,0,0,1,0,0, Full Time,concussed,Tagging Stanton... %D and %T with %M... concussed in Q4
+280471,Ben,Stratton,HW,2,27,45,35,21,33,4,5,0,2,0,0,1,0,0, Full Time,job,Minding the resting ruckman
+230082,Stephen,Gilham,HW,6,22,24,32,13,18,1,0,1,4,0,0,0,0,0, Full Time,job,Following Hurley... %T
+230231,Jobe,Watson,ES,27,114,152,88,95,132,13,20,5,4,0,1,1,1,0, Full Time,gun,Tagged by Sewell... %O and %T with %M and %s... his excellent second half pushed Essendon into a winning position
+230238,Jason,Winderlich,ES,30,113,119,76,96,132,15,20,6,1,0,0,0,1,0, Full Time,hot,Head to head with Ellis... %P including %b by hand with %M and %s
+230051,Alwyn,Davey,ES,52,102,88,96,78,104,10,4,4,10,0,1,3,3,2, Full Time,hot,%s from %P and %M with %T on Guerra
+250049,Brent,Prismall,ES,15,97,96,53,75,103,18,9,4,3,0,3,1,0,1, Full Time,news,%D and %T with %M and %s
+250267,Patrick,Ryder,ES,28,95,98,73,78,93,11,0,3,4,33,1,1,1,0, Full Time,news,Started forward... %H and %P with %M and %T
+990046,Mark,McVeigh,ES,20,91,77,60,73,95,14,6,7,2,0,0,0,1,2, Full Time,job,Minding Osborne... %D and %M plus %T and %s
+280824,Jake,Melksham,ES,10,80,82,50,63,87,13,9,5,2,0,0,0,0,0, Full Time,news,%P and %M
+210079,Nathan,Lovett-Murray,ES,15,72,66,56,62,90,8,15,2,3,0,0,2,1,0, Full Time,tagger,Tagged Mitchell... %P and %T with %s
+271022,Tayte,Pears,ES,18,72,38,63,58,78,8,7,7,4,0,0,1,0,0, Full Time,sore,Standing Roughead... caught Burgoyne's forearm in his face early in Q1... %M and %P with %T
+261320,Tom,Bellchambers,ES,16,71,68,68,60,72,5,4,6,3,12,0,0,1,0, Full Time,news,Started in the ruck... %H and %P with %T and %s
+270951,David,Zaharakis,ES,18,71,74,55,61,78,8,9,6,1,0,1,0,1,0, Full Time,sore,%s from %D and %M on Murphy... had a good Q3... shoulder problem in Q3
+240027,Brent,Stanton,ES,14,70,78,70,57,78,5,11,5,5,0,1,1,0,0, Full Time,tagged,Tagged by Bateman... %O and %T
+250569,Heath,Hocking,ES,13,68,53,63,54,75,6,11,3,5,0,2,1,0,0, Full Time,tagger,Tagging Burgoyne... %B among %O with %T
+250352,Leroy,Jetta,ES,9,64,57,55,47,64,7,7,2,5,0,2,0,0,1, Full Time,news,%O and %T
+261676,Jarrod,Atkinson,ES,12,60,56,47,44,66,8,8,1,5,0,0,1,0,0, Full Time,news,%D and %T
+240319,Sam,Lonergan,ES,11,59,76,52,48,63,5,7,2,3,0,0,0,2,0, Full Time,news,First goal... %P and %s
+960197,Dustin,Fletcher,ES,7,59,83,30,46,63,11,7,2,1,0,2,0,0,0, Full Time,tagged,Forward tag on him by Muston... %D and %M
+250366,Scott,Gumbleton,ES,10,51,45,43,39,48,6,1,4,3,0,1,0,1,0, Full Time,news,Booted %s from %G and %O with %T on Schoenmakers... no touches in the first half
+270588,Cale,Hooker,ES,9,50,45,43,47,66,5,11,4,2,0,2,3,0,0, Full Time,job,On Franklin... %D and %M
+220115,Andrew,Welsh,ES,8,47,48,43,34,51,5,6,1,5,0,0,1,0,0, Full Time,tagger,Tagging Hodge... %D and %T
+250071,Henry,Slattery,ES,5,47,43,42,42,60,5,8,4,3,0,1,3,0,0, Full Time,tagger,Tagging Rioli... %O and %T with %M
+270935,Michael,Hurley,ES,7,45,37,21,38,54,9,6,3,0,0,0,1,0,0, Full Time,news,%P and %M on GIlham

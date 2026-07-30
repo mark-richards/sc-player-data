@@ -1,0 +1,48 @@
+Carlton,Blues,Collingwood,Magpies,R3,18.14.122,9.8.62, Full Time
+Apr 13,2012,7:50,MCG,Seven,250211,10340301,5015,0,Fine,25,,
+
+<em>dizzydog</em>: Go baggers<br><em>Buddylove!</em>: got 266&#044; 87 and 84! Murph's was a good captain choice&#044; #lovelife<br><em>BYeates13</em>: flowered<br><em>Mithrandir</em>: Ready for Pendles to join my team in a few weeks. So glad I went for Ablett over him now<br><em>Sizzler</em>: thanks Lazza<br><em>9294eagles</em>: whats goldcoast story?<br><em>Rockafella</em>: Judds singing the west coast song<br><em>afl_freak2</em>: all the hath shaw sooks!!<br><em>Chillicat</em>: only 1 collingwood sc ton<br><em>Rockafella</em>: Mitch Robinson looks like  ra pi st<br><em>LivesFooty</em>: Well a snow flake isn't cold enough for PENDLES preformance.  He deserves LIQUID NYTROGEN.. <br><em>SaintsRGod</em>: and mick malthouse is smiling<br>
+250105,Marc,Murphy,CA,32,139,130,171,113,154,22,17,6,2,0,0,0,2,1, Full Time,star,%2 Ball then got Shaw after Ball's injury... %P and %M plus %s,,
+250417,Bryce,Gibbs,CA,26,129,107,167,100,135,21,11,9,4,0,1,0,0,0, Full Time,hot,%O including %K... also %T and %M,job,Off a HBF on Blair
+290311,Mitch,Robinson,CA,31,127,121,163,99,132,14,14,8,7,2,2,0,0,1, Full Time,cherry,%O and %T with %M,,
+220056,Chris,Judd,CA,31,124,134,155,102,141,18,17,7,3,0,0,1,1,0, Full Time,gun,Tagged by Wellingham... %P and %M,,
+990059,Heath,Scotland,CA,31,124,127,157,103,142,17,18,8,4,0,2,2,0,1, Full Time,cherry,%B among %D with %M... massive Q1 with 14 of those touches,,
+220110,Jarrad,Waite,CA,31,108,112,137,89,106,15,2,10,2,0,2,0,3,1, Full Time,hot,Reid on him until the Pie was injured in Q2 then got Keeffe... %s from %D and %G with %T,,
+270737,Shaun,Hampson,CA,28,102,120,120,92,107,6,8,6,3,26,3,1,2,0, Full Time,hot,%H and %D plus %M and %T... up forward on Keeffe then got Maxwell in Q2,,
+220015,Andrew,Carrazzo,CA,20,90,123,108,76,108,10,19,2,3,0,1,1,1,0, Full Time,news,%D with %b by hand... also %T and %s,tagger,Tagged Pendlebury and smashed him
+230202,Kade,Simpson,CA,14,80,73,100,66,87,8,12,6,3,0,2,0,0,0, Full Time,news,%2 Thomas... %D with %b by hand... also %M,,
+240060,Eddie,Betts,CA,21,77,95,91,66,77,11,1,3,0,0,1,0,5,2, Full Time,x-factor,First goal... %s from %D on O'Brien,,
+260533,Dennis,Armfield,CA,19,72,72,98,53,78,9,7,3,7,0,0,2,0,0, Full Time,sore,Left knee hyperextended in Q1 but played on... %D and %T on Goldsack,,
+261299,Matthew,Kreuzer,CA,16,72,83,84,62,76,4,7,2,3,28,0,0,0,0, Full Time,news,%H and %P with %T,,
+270146,Ed,Curnow,CA,13,72,76,91,61,84,11,10,6,1,0,0,1,0,0, Full Time,news,%O and %M,,
+261043,Michael,Jamison,CA,12,63,54,80,55,72,8,8,7,1,0,1,1,0,0, Full Time,job,Has the resting ruck which is mostly Wood... %M and %D,sore,Right shoulder stinger in Q2
+270653,Jeff,Garlett,CA,21,63,71,85,48,64,7,1,3,6,0,0,2,2,1, Full Time,news,%s from %D on Toovey... also %T and %M,,
+270326,Lachie,Henderson,CA,8,61,65,80,49,63,10,3,7,1,0,0,0,0,0, Full Time,job,Has Waite... %M and %D,,
+271110,Chris,Yarran,CA,14,61,56,80,50,63,13,0,6,0,0,1,1,1,0, Full Time,job,Responsible for Fasolo... %O... also %s,,
+250211,Paul,Bower,CA,4,56,51,74,43,57,11,2,5,1,0,0,0,0,0, Full Time,news,Started forward on Maxwell... %O and %M,,
+281079,Kane,Lucas,CA,4,47,50,61,37,49,8,3,4,1,0,0,0,0,1, Full Time,news,%s from %P and %M on Shaw,subbed,Subbed off in Q4 for Duigan
+292511,Zach,Tuohy,CA,8,43,61,53,34,46,7,4,1,1,0,0,0,1,1, Full Time,irish,%D and %s,job,Minding Beams
+270899,Jeremy,Laidler,CA,3,38,55,49,31,39,5,3,4,1,0,1,0,0,0, Full Time,job,On Dawes... %P and %M,,
+261009,Nick,Duigan,CA,2,27,18,35,23,33,6,3,2,0,0,0,1,0,0, Full Time,news,On in Q4 for Lucas,sub,Started as a sub
+280965,Steele,Sidebottom,CO,27,113,103,85,90,114,15,6,9,4,0,1,0,2,0, Full Time,hot,%D with %k by foot with %T... also %M and %s,,
+220105,Dane,Swan,CO,20,109,109,62,88,120,19,12,8,1,0,0,0,0,0, Full Time,hot,Worked hard to provide links across half back when the Pies defence was struggling... %D and %M,,
+271001,Dayne,Beams,CO,20,93,67,58,74,97,15,7,6,2,0,1,0,1,1, Full Time,news,%s from %O and %M on Tuohy,,
+240359,Dale,Thomas,CO,20,92,64,62,74,99,14,8,6,3,0,1,1,1,0, Full Time,news,%2 Simpson... %D and %M with %T,mrp,A high bump on Laidler in Q2 will be looked at though there wasn't much in it
+240073,Harry,O'Brien,CO,13,83,90,60,65,87,12,7,7,3,0,0,0,0,0, Full Time,brazil,%P and %M,job,Chasing Betts
+240700,Heath,Shaw,CO,16,81,98,32,64,90,19,3,4,2,0,1,3,1,0, Full Time,news,Minding Lucas... %D and %M... moved into midfield on Murphy in Q3,,
+290314,Lachlan,Keeffe,CO,18,78,79,48,64,81,14,2,10,1,0,1,1,0,0, Full Time,news,%M and %O,job,Moved from Hampson to Waite in Q2 after Reid's injury
+290821,Alex,Fasolo,CO,20,77,84,65,60,81,9,6,5,5,0,0,1,1,0, Full Time,news,%s from %D and %M on Yarran,,
+272005,Marty,Clarke,CO,13,74,85,46,60,81,12,8,6,1,0,0,0,0,0, Full Time,irish,%O and %M,sore,Had ice on his right arm during HT
+260394,Chris,Dawes,CO,16,70,66,61,55,70,7,6,4,4,0,2,0,1,1, Full Time,news,Freed up from ruck by Wood's presence... %D and %T on Laidler... also %G,,
+260257,Scott,Pendlebury,CO,8,62,62,41,46,63,10,5,3,3,0,1,0,0,0, Full Time,carrot,Tagged by Carrazzo and had a terrible first half... %P and %T,,
+280104,Jarryd,Blair,CO,12,60,72,42,47,68,9,8,1,4,0,2,2,0,2, Full Time,news,Matched up on Gibbs on a HFF for the first half... %O and %T plus %s,,
+240366,Travis,Cloke,CO,10,58,62,38,47,60,9,3,5,1,0,0,0,1,0, Full Time,news,Booted %s from %O and %G on Henderson,sore,Left shoulder knock late in Q4
+261799,Sharrod,Wellingham,CO,12,57,71,37,41,64,10,6,0,5,0,0,2,0,1, Full Time,news,%P and %T plus %s,tagger,Tagging Judd
+260246,Tyson,Goldsack,CO,10,53,64,45,44,57,5,7,3,2,0,1,0,1,0, Full Time,job,Responsible for Armfield... %P and %M with %T and %s,,
+230263,Nick,Maxwell,CO,4,52,68,35,44,58,8,5,5,1,1,1,1,0,0, Full Time,news,%P and %M,job,Moved from Bower to Hampson in Q2 after Reid's injury
+240300,Cameron,Wood,CO,5,49,55,42,45,56,4,7,5,0,8,0,0,0,0, Full Time,news,Starting forward on Jamison... %P and %M... also %H,,
+240419,Alan,Toovey,CO,4,48,50,34,37,51,7,5,3,2,0,0,0,0,0, Full Time,job,Minding Garlett... %D and %T with %M,,
+210099,Darren,Jolly,CO,9,42,44,43,42,53,2,5,3,2,17,1,3,0,0, Full Time,news,%H and %P,,
+220005,Luke,Ball,CO,1,26,25,17,22,33,4,5,1,1,0,0,1,0,0, Full Time,injured,%2 Murphy... %O... right knee strain in Q1... suspected medial ligament... back on after ten minutes which was massive... but succumbed again ten minutes later and only reappeared with tracksuit on,,
+240232,Ben,Reid,CO,0,12,23,8,8,12,2,1,0,1,0,0,0,0,0, Full Time,injured,Standing Waite.... %D... left quad strain in Q1,subbed,Subbed off in Q2 for Sinclair
+291386,Ben,Sinclair,CO,0,8,4,3,10,16,2,2,1,0,0,0,2,0,1, Full Time,news,On in Q2 for Reid,sub,Started as a sub

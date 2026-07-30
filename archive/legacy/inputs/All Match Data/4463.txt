@@ -1,0 +1,48 @@
+St Kilda,Saints,Carlton,Blues,R7,11.11.77,9.14.68, Full Time
+May 13,2013,7.40,Docklands,Seven,295477,10390709,stk-v-carl,0,Roof closed,16,,
+
+<em>Dragon88</em>: Anyone know when the approximate time of when DT and SC go out of lockout<br><em>Roksta</em>: Supposed is a dud. Rhys Stanley the same. Too many older players in the side<br><em>miracleman</em>: thanks roberton had to score under 75dt for my league win&#044;<br><em>spudaroos</em>: N roo shoulda got the star.<br><em>Roksta</em>: Short term joy for saints who have a few long years ahead <br><em>Scotti2Hot</em>: Have a look at the Saints team Roksta - do you see some young talent there playing tonite. You are a dumb individual.<br><em>myteamsuks</em>: Yawn<br><em>oldfart</em>: nice sc score robinson<br><em>^loser</em>: murphy would still be out there until tomorrow and still wouldn't be able to crack the tonne.<br><em>Jackfc</em>: geary why u have to tag murphy for?<br><em>matthius</em>: least a tool serves a purpose. your nothing but a little keyboard warrior. good for you.<br><em>eski_liddr</em>: apt nickname "myteamsuks"<br>
+270912,Jack,Steven,SK,36,145,150,187,111,157,22,17,6,7,0,1,1,0,1, Full Time,magnet,A personal best %P and %T with %M,,,416800,111,475100,129,Centre,3
+261323,Ben,McEvoy,SK,43,128,140,162,104,132,8,12,10,8,18,0,0,0,0, Full Time,star,%H and %D with %M and %T,,,450400,116,565300,141,Ruck,5
+210001,Nick,Riewoldt,SK,37,123,136,151,108,132,15,10,13,0,0,1,0,3,0, Full Time,gun,First goal... %s from %P and %M on Jamison,,,516200,48,569900,55,Forward,12
+240708,Sam,Fisher,SK,20,111,109,143,88,117,17,10,9,3,0,1,0,0,0, Full Time,rock,Responsible for Armfield... %P and %M with %T,,,339800,90,414800,92,Back,25
+293846,Sebastian,Ross,SK,25,94,91,121,73,100,9,12,6,6,1,0,0,0,0, Full Time,cash,%P and %M with %T,,,155800,1,182000,4,Centre,6
+250340,David,Armitage,SK,20,90,60,115,74,96,12,8,7,3,0,2,1,1,0, Full Time,news,%D and %M with %T and %s,,,449900,132,487900,128,Centre,20
+220023,Nick,Dal Santo,SK,19,89,86,112,71,100,12,14,3,4,1,2,1,0,0, Full Time,tagged,%2 Judd then copped a tag by Cachia in Q2... %D and %M with %T,,,415500,124,433800,143,Centre,26
+230243,Sean,Dempster,SK,15,89,94,114,72,96,11,10,8,3,0,0,0,0,0, Full Time,news,%P and %M plus %T,job,The big job on Betts... smashed him then went to Garlett in Q3,360600,124,419200,146,Back,24
+250703,James,Gwilt,SK,14,88,120,113,72,99,14,10,7,2,0,0,1,0,0, Full Time,job,On Kreuzer... %O,,,269400,,339800,,Back,33
+220075,Leigh,Montagna,SK,24,78,81,107,52,78,10,6,1,9,0,0,1,0,0, Full Time,tagged,Tagged by Curnow... %D and %T,,,503000,100,547800,93,Centre,11
+291773,Jack,Newnes,SK,18,75,69,99,60,81,7,8,7,5,0,0,1,0,0, Full Time,news,%D and %T with %M,,,219700,95,243300,62,Centre,16
+294266,Tom,Hickey,SK,11,75,101,93,62,78,5,9,5,4,9,2,0,0,0, Full Time,news,%P and %T with %M... also %H,,,272000,,308200,,Ruck,1
+280933,Dylan,Roberton,SK,18,72,60,92,58,75,12,4,6,1,0,0,0,1,0, Full Time,news,%O and %M plus %s,job,In defence on McLean,330500,47,407700,57,Back,17
+270766,Terry,Milera,SK,10,67,69,85,54,69,11,3,5,1,0,0,0,1,3, Full Time,news,%s from %O and %M on Curnow,,,297000,91,316600,100,Forward,32
+294818,Ahmed,Saad,SK,15,64,83,83,50,64,6,3,3,5,0,1,1,2,1, Full Time,egypt,%s from %P on Simpson... also %T and %M,,,256300,71,281600,102,Forward,21
+260113,Jarryn,Geary,SK,14,62,53,86,43,63,9,3,1,7,0,1,2,0,3, Full Time,news,%P and %T plus %s,tagger,Tagging Murphy,325700,79,410300,112,Back,14
+200108,Stephen,Milne,SK,11,59,67,74,51,63,8,3,5,1,0,1,1,2,0, Full Time,news,%s from %P and %M on Tuohy,,,291500,100,312700,99,Forward,44
+293815,Arryn,Siposs,SK,11,58,66,74,46,59,8,3,4,2,0,0,0,1,2, Full Time,news,%s from %O and %M on Walker,,,321200,87,325100,82,Forward,2
+240062,Farren,Ray,SK,8,54,55,70,43,61,9,6,3,2,0,0,1,0,1, Full Time,news,%D and %M plus %s,in,Late replacement for Clinton Jones,353700,67,350900,108,Centre,22
+280317,Rhys,Stanley,SK,4,44,58,57,37,51,7,5,4,1,0,0,1,0,0, Full Time,job,Standing Hampson... %O and %M,,,259800,75,363200,88,Forward,28
+294317,Nathan,Wright,SK,8,42,60,52,33,48,1,10,1,4,0,0,0,0,0, Full Time,injured,Chasing Garlett... %P and %T... felt his jaw as he trudged off in Q3 after a headclash with Betts,subbed,Subbed off in Q3 for Webster,144000,1,156700,-15,Back,34
+290757,Jimmy,Webster,SK,3,41,33,53,31,42,4,5,2,3,0,1,0,0,0, Full Time,rookie,First game... on in Q3 for Wright... went to Betts... %O,sub,Started as a sub,108500,,115900,,Back,29
+250672,Robert,Warnock,CA,34,102,131,99,92,114,6,8,5,5,42,0,3,0,0, Full Time,heart,%H and %D with %M and %T... also %F... copped a knock early in Q3 but was instrumental in the Carlton Q4 surge,,,296600,39,382600,19,Ruck,11
+220056,Chris,Judd,CA,24,99,108,71,71,102,14,13,0,7,0,3,0,0,0, Full Time,news,%2 Dal Santo in Q1 then freed up... %O and %T,,,388000,111,487600,123,Centre,5
+270326,Lachie,Henderson,CA,30,93,111,72,82,100,11,5,10,1,0,0,1,3,1, Full Time,superman,%P and %M... also %s all in Q4,switch,Following Riewoldt... switched forward in Q3,270900,28,357800,22,Back Forward,23
+990059,Heath,Scotland,CA,19,93,90,66,71,96,14,7,7,4,0,0,0,0,0, Full Time,news,%P and %M with %T,,,461300,104,502500,96,Back Centre,29
+270653,Jeff,Garlett,CA,25,89,111,79,73,94,8,9,6,4,0,0,0,2,1, Full Time,news,%s from %D and %M with %T on Wright... got Dempster in Q3,,,409500,70,493300,57,Forward,38
+290311,Mitch,Robinson,CA,25,83,49,75,60,85,9,8,3,8,0,1,1,0,1, Full Time,news,%P and %T with %M... also %s,,,407900,76,427900,63,Forward Centre,12
+260533,Dennis,Armfield,CA,14,80,98,39,62,90,16,9,3,2,0,0,1,0,0, Full Time,heart,%P and %M playing a forward role on Fisher... slowed down late in Q2 after a knock,,,266200,35,280500,40,Forward Centre,27
+270146,Ed,Curnow,CA,15,73,76,66,51,72,8,6,3,7,0,0,0,0,0, Full Time,job,In defence on Milera... %P and %T with %M,,,361900,62,386700,85,Centre,35
+240028,Brock,McLean,CA,14,69,80,51,59,78,8,10,4,1,0,0,0,1,3, Full Time,news,Started forward on Roberton... played FF for the second half... %s from %P and %M,,,476900,102,533700,116,Centre,14
+240014,Andrew,Walker,CA,14,65,80,24,52,75,15,5,2,1,0,0,2,1,0, Full Time,news,%D and %M plus %s and %F,job,Responsible for Siposs,417100,67,546300,63,Forward Centre,1
+270737,Shaun,Hampson,CA,11,65,60,54,52,63,7,2,4,3,7,1,0,1,2, Full Time,crab,%s from %P and %M on Stanley... also %H and %T,,,308200,60,358400,84,Forward Ruck,22
+280971,Jaryd,Cachia,CA,8,58,61,39,49,72,9,10,2,3,0,2,3,0,0, Full Time,in,Late replacement for Andrew Carrazzo... on in Q1 for Ellard... moved to tag Dal Santo in Q2... %P... also %F,sub,Started as a sub,111300,,118200,,Centre,37
+230202,Kade,Simpson,CA,10,54,66,38,47,58,7,5,5,0,0,1,0,1,1, Full Time,news,%D and %M plus %s,job,Started in defence on Saad,394500,71,410700,63,Centre,6
+240060,Eddie,Betts,CA,9,54,59,47,40,55,6,5,3,4,0,0,0,0,1, Full Time,news,%s from %O and %T with %M on Dempster... then got the kid Webster in Q3,mrp,A clash with Wright that sent the kid off in Q3 will be looked at,349600,75,420200,87,Forward,19
+250105,Marc,Murphy,CA,7,53,57,29,46,61,9,8,3,0,0,3,1,0,1, Full Time,tagged,Tagged by Geary... %O and %M plus %s,sore,Right foot stepped on in Q1,540500,94,551400,101,Centre,3
+281079,Kane,Lucas,CA,4,50,51,42,41,57,5,9,3,2,0,0,0,0,0, Full Time,astronaut,Showed very little with the Blues midfield not giving him silver service... %O and %M with %T,,,348500,37,353500,29,Centre,9
+270637,Simon,White,CA,3,41,44,26,32,42,7,2,4,1,0,0,0,0,0, Full Time,news,%D and %M,,,248200,25,298400,32,Back,43
+261299,Matthew,Kreuzer,CA,9,40,42,41,31,42,3,3,2,4,6,0,1,0,0, Full Time,switch,%P and %T on Gwilt... also %H... switched to defence on the resting ruck in Q3,,,398400,134,478500,143,Ruck,8
+261043,Michael,Jamison,CA,3,36,45,24,28,36,6,1,4,1,0,0,0,0,0, Full Time,job,Has the resting ruck which is mostly Hickey... %D and %M... switched to Riewoldt in Q3,sore,Right shoulder knock in Q1,273900,48,366800,72,Back,40
+292511,Zach,Tuohy,CA,2,35,35,25,26,37,5,4,1,2,0,0,0,0,1, Full Time,job,Minding Milne... %D and %s,,,259600,57,339900,54,Back,42
+261258,David,Ellard,CA,0,11,5,7,7,9,2,0,0,1,0,1,0,0,0, Full Time,injured,%P... carried off with a left hamstring injury in Q1,subbed,Subbed off in Q1 for Cachia,432300,,456900,,Centre,46
+271110,Chris,Yarran,CA,0,2,2,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,injured,One handball... right hamstring tweak in Q1... tracksuit on in Q2 indicating he was done for the night,,,362600,95,436800,114,Back,13

@@ -1,0 +1,48 @@
+Sydney,Swans,Adelaide,Crows,R6,14.10.94,15.9.99, Full Time
+May 5,2012,7:40,SCG,Fox Sports,270963,10340606,430058,0,Possible shower,20,,
+
+<em>DangerCrow</em>: danger was clearly the star... especially the contested mark in the middle. Thompson = GUN<br><em>Slashers</em>: Tell me about it mackinaw! How retarded is Danger?<br><em>thirstyman</em>: C Judd 3 Votes<br><em>number1red</em>: how does goodes get scaled down that much! he was BOG by fay in the first 3 qtrs<br><em>Crakkajack</em>: eat it mackinaw<br><em>PezzDogg95</em>: how did ted richards get a higher sc than porp?<br><em>number1red</em>: sloanes SC is bullshower!<br><em>georgedeka</em>: Sloane SC&#044; what a ripper!!!<br><em>mackinaw</em>: hate living in adelaide&#044; flower&#044;n hate crows supporters<br><em>Grazz</em>: Such a good win to be Sydney up there&#044; Swans are so hard to beat anywhere let alone at home.<br><em>eckert09</em>: gunna be some huge scores in dt this week<br><em>Cruise on</em>: Goodes did nothing after he was subbed!<br>
+281281,Lewis,Jetta,SY,31,133,126,172,101,128,24,3,7,4,0,4,0,2,2, Full Time,hot,%s from %O and %M with %T,,
+990011,Jude,Bolton,SY,49,118,123,158,81,109,11,7,3,13,0,3,0,1,1, Full Time,hot,%O and %M with %T,,
+260382,Josh P.,Kennedy,SY,32,114,118,147,85,117,15,11,4,7,0,1,0,1,0, Full Time,hot,%2 Dangerfield... %P and %T plus %s,,
+200071,Ryan,O'Keefe,SY,32,105,83,134,80,105,13,6,4,6,0,0,0,3,0, Full Time,hot,%2 Thompson... %D and %T plus %s,,
+980073,Adam,Goodes,SY,32,103,110,128,86,103,11,3,6,4,0,2,1,5,1, Full Time,injured,%s from %P on Henderson including three big ones in Q3... also %M and %T.. left hamstring tweak in Q4 and iced up,subbed,Subbed off in Q4 for Everitt
+290788,Luke,Parker,SY,21,93,94,122,73,103,10,12,5,7,0,1,2,0,1, Full Time,news,%D including %B... also %T,,
+240226,Kieren,Jack,SY,49,92,93,123,66,93,8,7,1,11,0,1,2,2,0, Full Time,news,%P and %T plus %s,tagger,Tagging van Berlo
+290117,Daniel,Hannebery,SY,19,92,89,117,70,99,12,13,3,5,0,1,0,0,0, Full Time,news,%2 Mackay... %B among %P with %T,,
+220101,Mark,Seaby,SY,20,86,94,99,76,93,4,12,3,3,27,2,0,0,0, Full Time,news,%H and %D with %T and %M,,
+230132,Nick,Malceski,SY,9,81,83,108,57,81,18,3,3,3,0,0,0,0,0, Full Time,job,Started slowly after his injury last week... %O and %M while minding Petrenko,,
+230253,Jarrad,McVeigh,SY,10,76,80,96,63,88,9,12,5,3,0,0,1,0,1, Full Time,news,%P and %T with %M and %s,,
+261212,Craig,Bird,SY,20,63,63,87,42,63,7,5,1,8,0,0,1,0,0, Full Time,tagger,Forward tag on Johncock... %P and %T,,
+250338,Nick,Smith,SY,14,55,54,73,38,54,3,7,1,7,0,1,0,0,0, Full Time,porpoise,Minding Porplyzia... %D and %T,,
+291450,Alex,Johnson,SY,5,53,52,68,42,57,7,6,4,2,0,0,0,0,0, Full Time,news,%D and %M with %T,,
+240072,Heath,Grundy,SY,4,52,69,65,43,57,7,7,4,1,0,1,0,0,0, Full Time,job,Standing Tippett... %D and %M,,
+230140,Ben,McGlynn,SY,8,50,43,68,35,49,7,3,1,5,0,2,1,0,1, Full Time,news,%s from %D and %T on Jaensch,,
+220063,Martin,Mattner,SY,8,47,65,64,33,45,4,3,3,5,0,0,0,0,0, Full Time,job,Responsible for Callinan... %P,,
+210027,Ted,Richards,SY,3,44,72,56,37,51,7,7,1,2,0,4,2,0,0, Full Time,job,Has Walker... %O and %T... also %F,,
+200023,Rhyce,Shaw,SY,3,41,44,56,31,48,10,3,1,2,0,0,2,0,0, Full Time,news,%O,tagger,Tagging Sloane
+290188,Samuel,Reid,SY,3,34,34,44,28,34,4,2,4,1,0,1,0,0,1, Full Time,news,%P and %G on Talia,,
+220089,Lewis,Roberts-Thomson,SY,2,28,17,37,26,37,6,3,3,0,1,0,2,0,0, Full Time,news,Playing forward on Rutten... %P and %F,,
+261257,Andrejs,Everitt,SY,0,-1,2,-1,1,3,0,1,0,0,0,0,1,0,0, Full Time,news,On in Q4 for Goodes,sub,Started as a sub
+210016,Scott,Thompson,AD,51,128,119,107,95,135,15,16,4,10,0,2,1,0,0, Full Time,star,%2 O'Keefe... %D and %M with %T... had a massive Q1,,
+270917,Patrick,Dangerfield,AD,21,104,122,47,85,120,23,7,8,2,0,1,4,0,0, Full Time,hot,%2 Kennedy... %D and %M with %T,,
+261857,Ian,Callinan,AD,26,93,122,70,74,96,11,9,2,4,0,2,0,3,0, Full Time,news,%s from %D and %T on Mattner,,
+220086,Brent,Reilly,AD,18,92,101,50,73,99,17,8,7,1,0,0,0,0,0, Full Time,news,%P and %M,,
+250118,Nathan,van Berlo,AD,25,92,78,65,59,87,15,5,0,9,0,1,0,0,0, Full Time,tagged,Tagged by Jack... %P and %T,,
+270963,Rory,Sloane,AD,18,90,125,56,78,110,14,15,6,1,1,0,2,0,1, Full Time,tagged,Tagged by Shaw... %P and %M plus %s,,
+230174,Jason,Porplyzia,AD,18,88,66,60,67,92,15,3,7,5,0,0,2,0,2, Full Time,news,%s from %P and %M with %T on Smith,,
+291201,Ricky,Henderson,AD,14,87,89,52,72,96,15,8,8,1,0,1,1,0,0, Full Time,job,Following Goodes... %P and %M,,
+250362,David,Mackay,AD,15,80,94,73,63,87,7,13,4,5,0,1,0,0,0, Full Time,news,%2 Hannebery... %O and %T,,
+270811,Sam,Jacobs,AD,27,80,82,76,74,86,4,5,2,3,44,2,2,0,0, Full Time,sore,%H and %D with %M and %T... corked right thigh in Q3,,
+261138,Jared,Petrenko,AD,20,79,92,50,65,81,12,3,5,1,0,0,0,3,0, Full Time,news,%O on Malceski,,
+280506,Taylor,Walker,AD,26,78,87,63,74,90,8,4,7,1,0,0,3,5,0, Full Time,news,First goal... %s from %P and %G on Richards,,
+261351,Matthew,Jaensch,AD,15,76,68,47,60,79,12,5,3,2,0,0,0,2,1, Full Time,news,%P and %M plus %s,job,Chasing McGlynn
+261384,Matthew,Wright,AD,19,74,94,67,55,78,7,11,2,6,0,1,0,0,0, Full Time,news,%P and %T,,
+291748,Brodie,Smith,AD,9,64,65,34,50,73,12,8,2,2,1,0,1,0,0, Full Time,news,%D,,
+200092,Michael,Doughty,AD,4,43,42,31,35,51,6,7,2,2,0,0,1,0,0, Full Time,news,%P,,
+220093,Ben,Rutten,AD,4,43,52,41,33,42,4,3,4,3,0,1,0,0,0, Full Time,job,Has Roberts-Thomson... %M and %O with %T,,
+210056,Graham,Johncock,AD,3,40,32,17,33,46,9,3,2,1,0,2,2,0,1, Full Time,tagged,Forward tag on him by Bird... %P and %M... also %F,,
+280038,Shaun,McKernan,AD,13,39,51,25,40,50,5,2,1,0,19,0,3,1,1, Full Time,news,%H and %P plus %s,subbed,Subbed off in Q4 for Lyons
+270742,Kurt,Tippett,AD,9,35,42,39,30,38,1,4,1,3,5,1,1,1,0, Full Time,pumpkin,%s from %P and %T on Grundy,,
+280934,Daniel,Talia,AD,1,21,55,7,18,27,5,3,1,0,0,0,1,0,0, Full Time,job,Chasing Reid... %O,,
+293716,Jarryd,Lyons,AD,0,11,14,10,8,12,1,2,0,1,0,0,0,0,0, Full Time,news,On in Q4 for McKernan,sub,Started as a sub

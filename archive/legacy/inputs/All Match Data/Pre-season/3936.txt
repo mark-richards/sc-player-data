@@ -1,0 +1,54 @@
+Collingwood,Magpies,St Kilda,Saints,GF,9.26.80,6.11.47, Full Time
+Mar 16,2012,4.00,Princes Pk,,,10330401,,37,A few showers,21,,
+
+<em>BillyBeane</em>: For Supercoach - I don't play that other silly game.<br><em>The Bomber</em>: hey monty&#044; you gonna put up SC scores for this round or not?<br><em>BillyBeane</em>: Answer this for me boys - Goddard and Shiel/Lewis V Suckiling and Goodes?<br><em title="SASQUATCH9">sasquatch9</em>: Check that Billy Beane...I like saying Billy Beane.<br><em>BillyBeane</em>: I'll concur with that comment bigfoot.<br><em>BillyBeane</em>: OK - check that - too many inexperienced players and lesser lights - they have a long tail.<br><em>S_Coach99</em>: Agreed&#044; Saints on the slide for sure.<br><em title="SASQUATCH9">sasquatch9</em>: BillyBeane&#044; nearly no kids compared to every other team in the league (bar GWS)&#044; old washed up...finished<br><em title="SASQUATCH9">sasquatch9</em>: Check out the Port team Monty...Pav-Zone and co.<br><em>josh111</em>: cox and kreuzer good rucks? what you boys think?<br><em>BillyBeane</em>: Saints on the slide I think - too many kids.<br><em>Richmond96</em>: is maxwell injury serious? does it mean clarke is garentee starter now<br>
+240366,Travis,Cloke,CO,31,114,-,142,95,116,15,3,7,3,0,1,1,5,2, Full Time,hot,%s from %D and %G... also %T,,,92
+260257,Scott,Pendlebury,CO,30,114,-,150,81,118,17,12,1,9,0,2,1,0,1, Full Time,hot,Tagged by Jones... %P and %T,,,87
+280965,Steele,Sidebottom,CO,19,95,-,124,69,97,18,7,3,4,0,1,0,0,1, Full Time,news,%O,,,89
+210099,Darren,Jolly,CO,26,85,-,100,74,88,3,6,2,5,39,1,1,0,1, Full Time,news,%H and %P with %M and %T... also %s,,,88
+260394,Chris,Dawes,CO,17,84,-,103,73,87,7,6,6,3,8,3,1,2,1, Full Time,news,First goal... %s from %P and %G... had a big Q1... also %H and %T,,,85
+240700,Heath,Shaw,CO,13,77,-,101,63,82,16,3,8,0,0,1,1,0,1, Full Time,news,Just a couple of kicks in Q1... %P and %M plus %s,,,95
+280104,Jarryd,Blair,CO,14,76,-,93,60,79,10,10,1,3,0,4,0,1,1, Full Time,news,%s from %O,,,78
+240232,Ben,Reid,CO,13,67,-,86,56,72,11,5,8,0,0,0,0,0,0, Full Time,job,Following Riewoldt... %M and %O,,,89
+220105,Dane,Swan,CO,14,66,-,87,53,81,11,10,2,4,0,0,3,0,0, Full Time,news,%P and %T.. also %F,,,80
+220005,Luke,Ball,CO,12,62,-,82,47,67,9,7,1,5,1,3,2,0,0, Full Time,news,%D and %T,,,60
+272005,Marty,Clarke,CO,5,58,-,76,46,63,8,6,4,3,0,1,1,0,0, Full Time,irish,On the edge of the Pies' best 22 so today is very important... %D and %M,,,86
+291811,Jackson,Paine,CO,4,57,-,71,47,59,8,6,4,1,0,3,0,0,2, Full Time,news,%D and %M plus %s,,,84
+240073,Harry,O'Brien,CO,6,52,-,68,39,57,13,4,1,1,0,1,1,0,0, Full Time,brazil,%D,job,Chasing Milne,89
+290821,Alex,Fasolo,CO,3,51,-,64,41,54,8,5,3,1,0,1,0,0,3, Full Time,news,%s from %D and %M,,,79
+240359,Dale,Thomas,CO,7,50,-,65,37,55,11,5,0,2,0,1,1,0,1, Full Time,news,Touched the ball once in Q1... %O and %T,,,88
+240419,Alan,Toovey,CO,8,43,-,59,31,45,4,4,2,5,0,0,1,0,0, Full Time,job,Minding Saad... %P and %T,,,87
+291386,Ben,Sinclair,CO,9,42,-,54,34,43,6,2,2,2,0,2,1,1,1, Full Time,news,%s from %P and %M on a HFF in the Macaffer role,,,63
+260246,Tyson,Goldsack,CO,7,34,-,48,23,34,5,1,1,4,0,0,1,0,1, Full Time,news,%O and %T plus %s,,,45
+290314,Lachlan,Keeffe,CO,2,27,-,34,24,33,5,4,2,0,0,1,1,0,0, Full Time,job,Standing Stanley... %D,,,88
+294733,Paul,Seedsman,CO,7,26,-,32,20,27,4,2,0,1,0,0,0,1,0, Full Time,,,,,46
+280948,Luke,Rounds,CO,1,24,-,34,15,21,3,0,1,3,0,0,0,0,0, Full Time,news,On in Q2 for Maxwell... %O and %T,sub,Started as a sub,65
+291883,Peter,Yagmoor,CO,1,22,-,26,19,27,3,5,1,0,0,0,0,0,0, Full Time,,,,,47
+230263,Nick,Maxwell,CO,1,19,-,25,18,24,1,3,3,1,0,0,1,0,0, Full Time,injured,%P and %M... right ankle knock in Q2,subbed,Subbed off in Q2,32
+293801,Jamie,Elliott,CO,1,19,-,25,14,18,1,2,1,2,0,1,0,0,0, Full Time,news,One handball in Q1... %P on Geary,,,55
+294826,Tom,Young,CO,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,0
+261743,Clinton,Jones,SK,37,124,-,164,94,130,16,11,8,8,0,0,1,0,1, Full Time,hot,%D and %T with %M,tagger,Tagging Pendlebury,84
+220075,Leigh,Montagna,SK,22,99,-,125,80,108,17,8,5,2,0,0,1,2,0, Full Time,news,%O and %M plus %s,,,85
+294198,Tom,Ledger,SK,19,98,-,132,75,97,17,2,9,4,0,2,1,0,1, Full Time,news,On early in Q1 for Hayes... %O and %M with %T,sub,Started as a sub,73
+220023,Nick,Dal Santo,SK,14,88,-,107,73,100,15,14,4,0,0,2,0,0,1, Full Time,news,%O with %b by hand... also %M,,,75
+260113,Jarryn,Geary,SK,20,88,-,114,72,93,12,6,8,3,0,1,1,1,0, Full Time,news,%P and %M with %T,job,Running off Elliott,87
+210001,Nick,Riewoldt,SK,19,83,-,107,69,85,10,6,10,2,0,2,0,0,1, Full Time,news,%O and %M on Reid,,,88
+230084,Brendon,Goddard,SK,14,83,-,109,71,99,16,8,8,1,0,0,3,0,0, Full Time,news,%P with %k by foot as designated kicker from halfback... also %M,,,90
+250134,Sam,Gilbert,SK,10,78,-,103,61,87,17,6,4,2,0,1,2,0,0, Full Time,news,%D and %M,,,91
+240708,Sam,Fisher,SK,13,73,-,96,61,84,14,6,7,1,0,0,2,0,0, Full Time,news,%P with %k by foot... also %M,,,92
+290826,Jamie,Cripps,SK,13,63,-,83,53,73,8,7,6,3,0,0,2,0,1, Full Time,news,%s from %O and %M,,,89
+220098,Adam,Schneider,SK,9,55,-,73,42,56,7,4,3,4,0,2,1,0,2, Full Time,news,No stats in Q1... %s from %D,,,77
+270912,Jack,Steven,SK,4,54,-,70,41,56,7,5,3,3,1,0,0,0,1, Full Time,news,%O and %T,,,84
+230243,Sean,Dempster,SK,8,51,-,67,43,60,10,5,4,1,0,1,2,0,0, Full Time,news,%D,,,91
+250340,David,Armitage,SK,9,51,-,67,45,64,8,7,4,2,0,1,3,0,1, Full Time,news,%P and %M,,,75
+280317,Rhys,Stanley,SK,8,51,-,60,44,50,5,3,2,1,17,3,0,0,0, Full Time,news,Keeffe on him... %P... also %H,,,93
+293815,Arryn,Siposs,SK,4,51,-,69,37,49,8,1,4,3,0,0,0,0,1, Full Time,news,%s from %O and %M,,,68
+210002,Justin,Koschitzke,SK,10,49,-,63,43,54,6,3,4,2,3,2,2,1,0, Full Time,news,Playing a fair bit of ruck... %D and %M... also %F,,,89
+294818,Ahmed,Saad,SK,10,49,-,60,42,57,3,9,2,3,0,1,1,1,0, Full Time,egypt,%D and %T on Toovey,,,92
+270766,Terry,Milera,SK,2,31,-,40,25,33,4,3,3,1,0,0,0,0,0, Full Time,,,,,40
+200108,Stephen,Milne,SK,7,30,-,40,21,27,3,0,1,3,0,0,0,1,0, Full Time,sore,%s from %O and %T on O'Brien... copped a boot in the face in Q2 which left a cut,,,47
+261323,Ben,McEvoy,SK,3,26,-,30,25,31,3,2,1,0,13,0,1,0,0, Full Time,news,%H and %D,,,44
+240701,Brett,Peake,SK,2,23,-,29,22,30,3,4,3,0,0,0,1,0,0, Full Time,,,,,47
+200068,Jason,Blake,SK,1,21,-,26,19,27,2,5,1,1,0,1,1,0,0, Full Time,news,%B among %D,,,48
+280053,Tom,Simpkin,SK,1,15,-,18,12,18,3,3,0,0,0,0,0,0,0, Full Time,,,,,49
+990028,Lenny,Hayes,SK,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,KOed early in Q1 in a fair contest with Goldsack... stretchered off and subbed off... went to hospital but returned to the rooms for the second half,subbed,Subbed off early in Q1 for Ledger,2

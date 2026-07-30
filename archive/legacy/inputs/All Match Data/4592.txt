@@ -1,0 +1,48 @@
+Geelong,Cats,Brisbane,Lions,R23,15.22.112,17.9.111, Full Time
+Aug 31,2013,2.10,Kardinia,Fox Sports,281373,10392303,geel-v-bl,0,Sunny,22,,
+
+<em style='color:#000'>upweydons</em>: geel lucky &#044; chappy was caught holding the ball<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Jukes82</em>: lester you spud&#044; should've snagged it<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tHW"></b> Mash</em>: selwood 70 point sc qtr???<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> torres</em>: Symonds stadium screwjob<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> mattbalmer</em>: ohhh!!! that was sooo close&#044; Lester...<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> Jmachete</em>: no holding the ball paid on chappy<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: you are so floweren lucky Ross Lyon you filthy caniving thunder flog. you disgust me lyon you cluster flower<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> lift_spud</em>: cheating umps&#044; that ballup was dodgy.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> Jmachete</em>: disgusting umpiring&#044; cheating<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> Stuart88</em>: Good gold geelong <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWC"></b> Masten</em>: Dawson for the brownlow&#044; Maxwell close second xx<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> snoop1</em>: Whorethorn for flag imo<br>
+220007,Jimmy,Bartel,GE,32,134,156,171,107,141,25,10,8,2,0,4,1,1,0, Full Time,star,%P and %M,job,In defence again with Mayes manning him up,385200,56,454200,59,Forward Centre,3,20,93.1,103.7,34.69,39.15
+230214,Mathew,Stokes,GE,24,105,106,130,90,127,17,18,6,1,0,1,2,0,1, Full Time,hot,%O with %b by hand... also %M and %F,,,429400,35,454100,6,Forward,27,20,94.2,96.9,11.65,5.87
+250321,Joel,Selwood,GE,31,97,127,121,77,108,10,15,2,6,1,1,1,1,2, Full Time,news,%D and %T with %M and %s,,,579200,132,651700,130,Centre,14,21,106.9,118,26.23,31.74
+200039,Paul,Chapman,GE,22,95,113,116,80,109,13,13,4,2,0,0,1,2,1, Full Time,x-factor,%s from %P and %T with %M on Harwood,,,437000,146,473300,132,Forward Centre,35,5,82.6,92.2,2.46,1.53
+280918,Allen,Christensen,GE,25,88,105,114,65,87,11,7,3,6,0,2,0,1,0, Full Time,news,%D and %T plus %s,,,436000,100,486100,85,Forward Centre,28,17,86.8,92.1,1.98,2.31
+220058,James,Kelly,GE,31,85,82,112,65,97,10,11,1,8,0,0,3,1,1, Full Time,news,%O and %T plus %s,,,445800,71,440300,62,Centre,9,16,96.3,91.4,0.40,0.39
+220054,Steve,Johnson,GE,15,84,101,102,68,93,10,13,2,3,0,1,0,1,3, Full Time,news,%D and %s,rain,Tagged by Raines,564900,93,552800,99,Forward Centre,20,15,120.7,116.9,39.21,30.45
+281065,Mitch,Duncan,GE,19,84,82,104,73,97,13,10,7,0,0,0,1,1,1, Full Time,news,%O and %M,,,365900,12,357400,18,Centre,22,21,88.3,80.4,0.91,1.06
+230248,Andrew,Mackie,GE,14,80,87,103,66,90,12,9,7,2,0,0,1,0,0, Full Time,news,%D and %M,sore,Left hamstring tweak in Q3,401300,73,456700,91,Back,4,21,83,87.4,7.52,5.42
+290623,Josh,Caddy,GE,20,79,82,100,64,87,11,7,2,4,0,1,2,2,3, Full Time,news,%P and %T,,,328500,79,315000,89,Centre,23,15,62.3,58.9,1.70,3.23
+261497,Harry,Taylor,GE,15,69,89,87,57,71,8,5,6,2,0,1,0,1,2, Full Time,switch,Loose in defence to start... %P.. switched forward in Q3 for %s,,,361800,89,446300,128,Back,7,20,79.2,94.3,6.44,9.87
+250290,Travis,Varcoe,GE,14,62,65,77,50,67,10,5,1,2,0,1,1,2,1, Full Time,news,Golby on him... %s from %O,,,263900,31,281100,47,Forward Centre,5,10,54.3,55,7.35,7.19
+280822,Taylor,Hunt,GE,14,62,52,81,44,63,6,8,1,6,0,1,0,0,0, Full Time,tagger,Tagging Hanley... %O and %T,in,Late replacement for Cameron Guthrie,219700,68,218800,58,Centre,19,13,55.4,55.8,0.95,1.11
+200131,James,Podsiadly,GE,14,61,53,76,53,66,8,5,7,0,0,0,0,1,0, Full Time,news,Booted %s from %D on Michael,,,356800,97,352600,114,Forward,31,19,76.3,77.5,1.20,1.44
+296733,Mark,Blicavs,GE,14,52,53,62,46,59,2,7,0,4,20,2,2,0,0, Full Time,concussed,%D and %T... also %H... slammed his head into the turf in Q4 after getting tunnelled,,,308400,32,344200,30,Centre Ruck,46,18,61.3,67.5,14.11,18.46
+200035,Corey,Enright,GE,8,48,61,60,44,61,8,8,4,0,0,1,2,0,1, Full Time,news,%D and %M plus %s,job,Responsible for McGrath,428800,85,477100,82,Back,44,20,90.7,95.6,20.18,9.57
+260261,Trent,West,GE,13,46,57,50,45,52,1,6,1,1,25,2,1,0,0, Full Time,news,%H and %P,,,283400,87,351100,110,Ruck,12,12,56.5,64.9,0.92,0.91
+200034,Joel,Corey,GE,4,44,35,56,36,48,6,5,4,1,0,0,0,0,0, Full Time,news,On in Q3 for Motlop,sub,Started as a sub,375200,71,425800,111,Centre,11,18,79.1,84.2,0.75,0.86
+230250,Jared,Rivers,GE,3,43,57,52,37,49,6,7,3,0,0,1,0,0,1, Full Time,job,On Staker.... %D and %s,,,219700,20,275300,36,Back,25,6,44,51.7,0.80,0.68
+230125,Tom,Lonergan,GE,4,37,51,47,33,45,6,5,4,0,0,0,1,0,0, Full Time,job,Has Lisle... %D and %M,,,172200,17,192300,29,Back,13,21,38.8,45.6,2.52,2.40
+261510,Tom,Hawkins,GE,9,37,38,46,32,40,3,4,2,2,0,2,1,1,1, Full Time,goose,Maguire on him... %s from %P and %M,,,237200,85,295100,120,Forward,26,19,57.5,68.2,3.23,4.29
+280990,Steven,Motlop,GE,0,16,16,20,13,18,1,3,1,1,0,0,0,0,0, Full Time,news,%O on Yeo,subbed,Subbed off in Q3 for Corey,373800,86,484600,106,Forward,32,20,77,85.2,4.87,4.71
+270919,Tom,Rockliff,BL,37,140,117,116,113,156,15,22,9,6,0,0,0,0,0, Full Time,magnet,%D and %T with %M,,,520100,105,604200,117,Forward Centre,38,20,101.3,109.3,41.49,32.93
+281373,Jack,Redden,BL,15,99,95,81,78,104,11,13,5,5,1,3,0,0,1, Full Time,news,%D and %M with %T... %s as well,,,446100,121,491400,119,Centre,30,21,94.7,98.1,1.91,0.99
+240087,Jed,Adcock,BL,19,98,93,61,73,99,17,6,6,4,0,1,0,0,0, Full Time,news,%O and %M,,,398300,70,465500,59,Back,7,21,82.6,91.1,4.25,3.55
+290110,Mitchell,Golby,BL,20,90,97,63,69,96,13,10,2,5,0,2,1,1,0, Full Time,news,%P and %T,job,In defence on Varcoe,336000,76,344900,78,Back,41,17,72.8,73.2,0.67,0.47
+261224,Dayne,Zorko,BL,32,88,89,92,71,98,5,12,3,8,0,0,2,2,2, Full Time,news,%P and %T plus %M and %s,,,321700,31,372000,39,Forward Centre,15,21,73.1,82.6,11.79,14.41
+210013,Ashley,McGrath,BL,27,85,101,57,72,85,11,1,3,1,0,0,0,6,1, Full Time,target,First goal... %s from %P and %M starting forward on Enright,heart,Right hip knock in Q1,181100,26,222700,15,Back Forward,9,19,42,49.3,1.49,1.52
+230151,Brent,Moloney,BL,25,80,89,91,61,90,3,16,2,9,0,0,1,0,0, Full Time,news,%O and %T,,,324500,93,360600,85,Centre,3,15,78.9,84.4,5.27,6.40
+281048,Ryan,Harwood,BL,14,79,82,67,60,81,9,8,5,5,0,1,0,0,0, Full Time,news,%P and %M plus %T,job,Responsible for Chapman,311000,35,345500,36,Back,2,12,62.3,66.5,0.21,0.21
+271072,Daniel,Rich,BL,9,75,91,46,59,84,12,11,3,2,0,0,0,0,0, Full Time,news,%D,,,324000,93,433600,87,Centre,10,15,66.9,85.6,1.03,1.42
+270512,Pearce,Hanley,BL,10,71,79,44,59,82,12,8,5,2,0,1,2,0,1, Full Time,tagged,Tagged by Taylor Hunt... %D and %T plus %s,,,383800,144,442300,140,Back,11,19,86.3,96.6,25.33,23.71
+291548,Ryan,Lester,BL,14,69,76,49,58,78,9,9,1,3,0,3,2,2,0, Full Time,news,Started in midfield... %O and %s,,,227500,55,265600,81,Back,35,15,61.1,69,1.54,3.75
+270936,Jordan,Lisle,BL,16,65,103,54,57,67,6,4,5,1,0,1,0,3,1, Full Time,news,Kicked %s from %P and %M on Lonergan,,,276400,68,315700,71,Forward,19,7,60.3,65.4,0.26,0.19
+230170,Joel,Patfull,BL,10,63,84,45,47,66,10,4,4,4,0,0,1,0,0, Full Time,job,Loose in defence then got Taylor in Q3... %P and %T,,,319700,32,421100,47,Back,24,21,59.8,75,1.71,1.37
+292128,Elliot,Yeo,BL,9,63,56,46,50,66,9,5,6,2,0,0,0,0,0, Full Time,news,%P and %T with %M,job,Minding Motlop,283900,21,317800,52,Back,26,18,57.8,62.2,0.64,0.52
+240013,Andrew,Raines,BL,8,61,53,45,54,76,7,14,3,1,0,1,1,0,1, Full Time,news,%P and %M plus %s,tagger,Tagging Johnson,190400,17,180500,-14,Centre,29,17,48.2,45.2,0.60,0.60
+293603,Sam,Mayes,BL,9,61,50,47,44,63,9,4,3,5,0,0,1,0,0, Full Time,news,%D and %T playing forward on Bartel,,,361500,53,359200,13,Forward Centre,32,17,73.6,71.5,15.88,11.98
+294270,Sam,Michael,BL,7,61,52,59,51,62,4,6,4,3,11,2,0,0,0, Full Time,news,%P and %M with %T... also %H,ipod,In defence on Podsiadly,108500,36,115900,15,Ruck,46,2,17.5,28.5,1.22,1.39
+220062,Matt,Maguire,BL,9,60,69,43,53,69,9,5,8,1,0,1,2,0,0, Full Time,tomahawk,Hawkins is his man... %M and %O,,,296100,94,351300,75,Back,36,10,64.6,74.3,0.36,0.21
+250335,Matthew,Leuenberger,BL,16,52,58,45,54,70,4,6,1,2,31,1,5,0,0, Full Time,news,%H and %D... %F as well,,,415800,70,469400,90,Ruck,23,19,86.9,99.1,17.06,15.51
+230211,Brent,Staker,BL,3,35,37,22,31,43,6,4,3,1,0,1,2,0,1, Full Time,news,%D and %M on Rivers,,,294800,70,358300,81,Back Forward,14,14,63.9,79.4,26.97,41.28
+290748,Joshua,Green,BL,9,33,36,23,29,33,4,1,2,0,0,1,0,2,0, Full Time,news,On after 3QT for Bewick,sub,Started as a sub,267600,53,290500,32,Forward,6,16,53.6,56.3,0.85,0.53
+281329,Rohan,Bewick,BL,7,19,30,16,20,27,1,6,0,0,0,1,1,1,0, Full Time,news,%s from %P,subbed,Subbed off at 3QT for Green,279700,106,283200,112,Forward,8,18,63.3,62.9,0.62,0.69

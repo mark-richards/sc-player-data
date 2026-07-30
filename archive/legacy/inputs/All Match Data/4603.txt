@@ -1,0 +1,48 @@
+Collingwood,Magpies,Port Adelaide,Power,EF,9.9.63,12.15.87, Full Time
+Sep 7,2013,7.45,MCG,Seven,,10402403,coll-v-port,0,,,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Jukes82</em>: eat shower eddie you cow of a human<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWB"></b> MudDawg</em>: Goodbye Dids.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tWB"></b> dogs4grany</em>: yeh port<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> old_shepp</em>: Don't know who you barrack for meka100? Can't make up your mind?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: port shoulda kicked 6 goals and one by 60 really<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> old_shepp</em>: A flowering disgrace<br><em style='color:#000'>Lorax</em>: Port's defense> Collingwood's forward <br><em style='color:#000'>meka100</em>: Buckley going to cry&#044; Eddie going to jump off the westgate&#044; get flowered collingwood<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> grossn</em>: Disgusting game of football from the Pies&#044; winning every stat almost but can't finish&#044; sums up the season pretty well.<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> old_shepp</em>: You can always dream I guess Dipstick<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: geees i thought kruddy had more chance to win than the power.<br><em style='color:#000'>meka100</em>: Is Gray dead? <br>
+271001,Dayne,Beams,CO,42,125,141,158,100,135,11,18,6,8,0,3,1,1,0, Full Time,cherry,Tagged by Cornes... %O and %M with %T... also %s,,,502100,188,528000,161,Centre,17,7,101.1,102.4,10.18,2.74
+220105,Dane,Swan,CO,32,122,107,154,103,129,15,7,11,3,0,0,1,3,3, Full Time,gun,Tagged by Wines... %P and %M plus %T and %s... his Q3 lifted the Pies into the lead with a couple of goals,,,554200,140,572200,163,Centre,36,22,117.5,117.3,55.13,43.76
+280965,Steele,Sidebottom,CO,24,107,123,141,83,118,20,9,6,4,0,0,2,0,1, Full Time,hot,%O including %K... also %T and %M,,,464700,137,511200,137,Centre,22,22,96.5,103,4.49,3.38
+260257,Scott,Pendlebury,CO,14,95,101,125,70,96,17,7,3,5,0,4,1,0,0, Full Time,tagged,Tagged by Cassisi... %O and %T with %M,,,520000,84,594200,100,Centre,10,22,112.8,126.6,48.88,49.64
+230263,Nick,Maxwell,CO,20,81,69,108,58,78,9,6,4,7,0,2,0,0,0, Full Time,job,Loose in defence but moved to Westhoff in Q3... %O and %M with %T,,,283500,41,312200,54,Back,5,18,64.9,66.9,1.18,1.03
+220005,Luke,Ball,CO,19,79,76,102,59,84,8,11,3,6,0,0,0,0,0, Full Time,news,%O and %M plus %T,sore,Knock to his recently injured left calf in Q2,443200,134,479100,136,Centre,12,12,95.7,97.1,4.71,9.02
+295256,Marley,Williams,CO,16,75,79,98,56,72,11,3,4,4,0,2,0,1,0, Full Time,news,%P and %T plus %s,,,349700,54,390100,76,Back,46,15,71.2,74.9,0.64,0.63
+240073,Harry,O'Brien,CO,13,73,76,96,58,78,13,5,6,2,0,1,1,0,0, Full Time,news,%D and %M,,,440900,97,436000,106,Back,8,18,87.7,88,13.12,3.51
+280104,Jarryd,Blair,CO,21,73,78,97,51,72,4,9,2,9,0,1,0,0,0, Full Time,news,%D and %T on Pittard,,,276900,87,341000,77,Forward Centre,11,21,74.1,76.9,2.07,1.85
+240366,Travis,Cloke,CO,16,71,69,92,59,73,10,1,7,2,0,0,1,2,1, Full Time,news,Carlile on him... %s from %D and %G... also %T,,,400300,83,435600,87,Forward,32,21,92.7,95.2,22.10,16.26
+260246,Tyson,Goldsack,CO,15,56,72,78,42,63,6,6,2,7,0,1,3,0,0, Full Time,job,Chasing Gray... %D and %T.. %F as well,,,268800,78,306000,92,Forward,6,12,56.2,66.2,0.99,0.90
+250133,Sam,Dwyer,CO,5,54,56,69,43,57,7,6,4,2,0,1,0,0,0, Full Time,news,Donuts in Q1... not giving Broadbent enough to think about... %O and %M,,,245400,19,264200,11,Forward Centre,41,20,64.6,68,11.36,14.18
+261181,Brent,Macaffer,CO,14,54,64,74,39,57,9,2,1,5,0,0,2,1,0, Full Time,tagger,Tagging Boak... %P and %s,,,274500,66,247300,68,Forward,3,21,66.3,59.7,16.63,21.83
+293801,Jamie,Elliott,CO,8,52,43,67,44,55,8,3,7,0,0,0,0,0,1, Full Time,in,Late replacement for Quinten Lynch... %s from %O and %M on Logan,subbed,Subbed off in Q3 for Didak,301400,39,341500,36,Forward,19,19,67.6,72.4,2.56,4.29
+293957,Brodie,Grundy,CO,20,51,69,63,49,61,2,4,2,4,25,2,4,0,0, Full Time,news,%H and %P with %M... %F as well,,,263700,45,298500,52,Ruck,35,6,70.3,74.8,24.90,13.42
+294733,Paul,Seedsman,CO,7,49,69,62,37,54,8,7,1,2,0,0,0,0,0, Full Time,news,%O,,,404100,65,429100,57,Centre,40,16,79.3,78.9,0.84,1.37
+290289,Josh,Thomas,CO,3,47,50,62,33,46,8,3,1,3,0,1,0,0,1, Full Time,news,%s from %O and %T on Colquhoun,,,365900,31,405400,35,Centre,24,18,75.6,78.9,1.49,1.41
+240700,Heath,Shaw,CO,4,44,71,60,35,51,7,4,3,3,0,0,2,0,0, Full Time,news,%D and %M... %F as well,job,Monfries is his man,329500,56,406300,40,Back,39,19,81.4,96.9,16.22,30.02
+290314,Lachlan,Keeffe,CO,9,44,41,56,36,43,6,1,4,1,1,1,0,1,0, Full Time,switch,On Westhoff but switched forward in Q3... %s from %O and %M,,,247000,58,318200,84,Back,23,7,53.9,67.4,0.24,0.33
+240232,Ben,Reid,CO,3,36,39,48,26,36,6,2,2,2,0,0,0,0,0, Full Time,news,Starting forward on Carlile... %D and %M,,,334000,57,369900,44,Back,20,21,71.5,80.7,2.11,2.99
+210003,Alan,Didak,CO,2,30,36,38,23,33,7,3,1,0,0,0,0,0,0, Full Time,news,On in Q3 for Elliott,sub,Started as a sub,337800,68,308300,67,Forward,4,4,69,62.8,0.38,0.46
+260310,Nathan,Brown,CO,2,27,42,34,21,30,2,5,1,2,0,0,0,0,0, Full Time,job,Standing Schulz... %P and %T,,,177600,49,236400,64,Back,16,21,39.1,48.5,2.08,1.66
+261911,Brad,Ebert,PA,27,112,122,81,80,115,18,6,5,9,0,0,2,0,1, Full Time,hot,%P and %M with %T... also %s,,,447200,106,456900,84,Centre,7,22,99.1,97.2,2.62,0.83
+210020,Kane,Cornes,PA,20,108,120,72,81,114,17,11,5,5,0,0,0,0,0, Full Time,magnet,%O and %M with %T,tagger,Tagging Beams,475200,67,471500,62,Centre,18,21,106.7,105.3,10.23,5.87
+290540,Cameron,O'Shea,PA,30,108,74,79,93,120,15,10,14,1,0,0,1,0,0, Full Time,hot,In defence racking up marks from dumb long balls from the Pie mids... %D and %M,,,324300,91,359400,63,Back,13,22,70.9,74.4,3.24,4.14
+230124,Tom,Logan,PA,20,104,123,78,84,111,14,10,10,3,0,0,0,0,0, Full Time,hot,%D and %M with %T,job,Minding Elliott,261200,53,288000,75,Back,44,8,63.6,64,0.27,0.16
+230195,Jay,Schulz,PA,31,99,112,85,83,102,10,5,8,4,0,1,1,3,3, Full Time,news,Booted %s from %P and %T with %G on Brown,,,372900,98,433000,97,Forward,28,22,76.6,85.4,2.10,2.05
+261230,Matthew,Lobbe,PA,28,99,118,92,85,104,8,6,5,6,29,4,3,0,0, Full Time,news,%H and %D with %M and %T... helped by %4FF all in ruck against Grundy... also %F,,,464100,89,507700,111,Ruck,23,19,81.1,86.1,1.59,0.87
+291962,Chad,Wingard,PA,24,90,106,61,78,97,12,7,7,0,0,0,0,3,1, Full Time,star,No one went near him all night and he carved up the Pies... %O and %M plus %s,,,384200,108,476400,130,Centre,20,22,87.5,98.6,6.03,7.96
+294318,Oliver,Wines,PA,16,76,90,59,65,87,9,9,4,3,0,1,2,2,0, Full Time,swan,Tagging Swan... %D and %M with %T and %s,,,293700,37,302500,46,Centre,16,22,74.2,74,16.30,17.47
+240290,Angus,Monfries,PA,18,75,77,47,61,74,12,3,6,1,0,3,0,1,2, Full Time,news,%s from %D and %M on Shaw,,,391400,108,442100,148,Forward Centre,6,22,81.5,90.2,10.14,13.69
+250365,Travis,Boak,PA,11,72,67,54,57,73,9,5,3,3,0,1,0,2,1, Full Time,tagged,Tagged by Macaffer... %P and %T with %M and %s,,,485000,156,549200,171,Centre,1,21,100.2,106.6,4.98,3.34
+290156,Jasper,Pittard,PA,13,72,87,48,54,72,12,3,6,3,0,0,0,0,0, Full Time,job,Blair is his man... %D and %M,,,275300,31,285800,65,Back,29,15,57.4,61.1,9.11,10.67
+292145,Thomas,Jonas,PA,13,67,84,56,58,75,7,9,8,1,0,0,0,0,0, Full Time,news,Zoning off in front of Cloke a lot in defence... %B among %D plus %M,,,192000,47,212400,77,Back,42,19,45.2,52.2,0.46,0.49
+280750,Andrew,Moore,PA,8,65,77,44,54,72,9,10,4,1,0,2,0,0,0, Full Time,news,%D and %M,,,346800,80,350800,74,Centre,26,15,68.3,66.7,0.22,0.20
+261892,Hamish,Hartlett,PA,8,64,70,31,54,74,12,9,3,0,1,2,1,0,1, Full Time,news,%D and %s,,,422700,110,460700,112,Back Centre,8,20,82.4,90.8,9.53,14.81
+290546,Aaron,Young,PA,9,64,70,55,51,67,7,6,6,3,1,0,0,0,0, Full Time,news,On in Q3 for Colquhoun,sub,Started as a sub,205200,17,249900,23,Forward,40,3,58.3,65.7,0.86,0.27
+260750,Justin,Westhoff,PA,20,62,54,55,51,67,7,3,6,4,0,0,2,1,1, Full Time,news,First goal... %s from %P and %M on Keeffe then got Maxwell in Q3,,,380300,67,453700,55,Forward,39,21,87.4,98.6,8.18,8.00
+210043,Domenic,Cassisi,PA,15,54,70,50,42,61,6,6,2,6,1,2,3,0,0, Full Time,news,%P and %T... also %M and %F,tagger,Tagging Pendlebury,232300,45,271600,30,Centre,25,10,54.6,62.2,0.28,0.16
+271078,Matthew,Broadbent,PA,7,52,68,18,40,55,12,4,2,0,0,1,0,0,1, Full Time,job,On a HBF on Dwyer... %P,,,337100,67,410600,64,Centre,5,22,71.6,79.5,0.62,0.66
+250688,Alipate,Carlile,PA,4,43,44,24,35,45,8,2,5,0,0,0,0,0,0, Full Time,job,Following Cloke... %D and %M,,,186100,44,224100,57,Back,27,20,47,58.4,1.80,0.65
+280013,Jackson,Trengove,PA,3,32,53,25,26,32,4,1,3,1,5,0,0,0,0, Full Time,job,On Reid... %P... also %H,,,224300,79,273600,93,Back,12,15,46.1,54.4,0.61,0.58
+295054,Sam,Colquhoun,PA,3,30,22,17,27,39,5,6,2,0,0,0,1,0,0, Full Time,job,Has Josh Thomas... %O and %M,subbed,Subbed off in Q3 for Young,266700,13,266700,19,Centre Back,30,8,58.4,54.4,15.59,12.76
+261396,Robbie,Gray,PA,3,27,25,18,24,36,5,3,2,2,0,1,3,0,0, Full Time,news,%P and %T on Goldsack... also %M and %F,,,365400,48,436100,72,Forward Centre,9,18,72.3,82.1,4.04,4.34

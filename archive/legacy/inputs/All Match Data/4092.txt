@@ -1,0 +1,48 @@
+Richmond,Tigers,Fremantle,Dockers,R11,9.12.66,12.6.78, Full Time
+Jun 9,2012,2:10,MCG,Fox Sports,230107,10341102,430099,0,A few showers,14,news,No live SC scores during games as of tonight. End of game SC scores will still be posted. See FAQ below.
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>preki1</em>: yeah i was expecting 150+SC... i suppose he was due for a bad one according to champion data<br><em>drywater</em>: really ??94? kicked half of the teams goals?<br><em>CamT</em>: I was expecting to see 150SC for Pav<br><em>djmckf</em>: Pav WON IT = 3 votes. no pave = lose the game 3 votes<br><em>No spuds</em>: dont have pav but his score is a joke<br><em>dmagnus</em>: Pumpkins all round for Richmond<br><em>djmckf</em>: Pav has to get the 3 votes&#044; c'mon monty....<br><em>boost</em>: I hate Crowley<br><em>Hutcho42</em>: Na De Bor was best&#044; won possession everywhere - Pav was efficient and the difference though.<br><em>Jormas</em>: R u legit martin and broughts?<br><em>MightyEss</em>: wow opponent had tuck captain&#044; hats off to him<br><em>haooyy</em>: martin once again fails in a big game<br>
+200109,Shane,Tuck,RI,37,124,155,158,93,129,15,14,3,8,3,1,0,1,0, Full Time,hot,%O and %T with %M and %s,,
+270896,Trent,Cotchin,RI,26,112,107,146,90,125,22,8,6,3,0,1,3,1,2, Full Time,heart,%2 Hill... right elbow knock in Q2... %P and %M plus %s,,
+240707,Daniel,Jackson,RI,43,100,87,137,68,101,12,8,1,12,0,1,2,0,2, Full Time,hot,Manning up McPhee in attack... %P and %T... also %F and %s,,
+240546,Ivan,Maric,RI,33,96,111,115,81,98,7,4,2,5,44,0,1,0,0, Full Time,news,%H and %P with %T and %M,,
+250298,Shaun,Grigg,RI,9,87,92,111,67,92,16,8,2,3,4,3,1,0,1, Full Time,news,%2 Mzungu... %D including %K with %T,,
+250312,Bachar,Houli,RI,15,79,73,103,62,87,11,9,5,4,0,0,1,0,0, Full Time,news,%P and %M with %T,,
+240336,Brett,Deledio,RI,24,78,67,108,51,75,11,4,1,9,0,1,1,0,0, Full Time,creepy,Tagged by Crowley... went to FF in Q4 to try to break it... %O and %T,,
+250623,Robin,Nahas,RI,21,75,71,98,55,70,8,4,3,6,0,3,0,1,1, Full Time,lebanon,%s from %O and %M with %T on Suban,,
+260930,Shane,Edwards,RI,24,73,93,91,59,82,8,8,0,5,0,0,2,3,1, Full Time,news,First goal... %s from %P on Ibbotson... also %T,,
+290847,Dustin,Martin,RI,14,68,44,84,53,75,11,9,1,2,0,0,0,1,0, Full Time,news,%s from %P,,
+292025,Matt,Dea,RI,9,65,66,84,51,69,10,6,5,2,0,0,0,0,0, Full Time,job,Responsible for Neale... %P and %M with %T,,
+293713,Brandon,Ellis,RI,8,60,49,77,48,69,10,8,3,2,0,0,1,0,0, Full Time,news,%P and %T with %M,,
+210048,Chris,Newman,RI,8,59,56,78,46,63,13,3,4,1,0,1,1,0,0, Full Time,news,Loose in defence early then Crozier tried to man him up... %P,,
+250395,Jack,Riewoldt,RI,10,58,53,74,47,63,7,5,3,3,1,0,1,1,2, Full Time,sore,Booted %s from %D on McPharlin... right ankle rolled in Q1,,
+260433,Steven,Morris,RI,6,58,66,72,45,63,11,8,1,1,0,2,0,0,0, Full Time,job,Minding Ballantyne... %D,sore,AC joint knock in Q2
+261362,Alex,Rance,RI,12,55,85,70,43,63,6,10,1,4,0,1,1,0,0, Full Time,job,Going with Pavlich... %O and %T,,
+270941,Tyrone,Vickery,RI,11,53,81,65,47,63,6,6,2,2,9,0,2,1,0, Full Time,news,Kicked %s from %G and %P on Dawson,,
+290823,Reece,Conca,RI,12,52,44,71,42,63,10,6,1,4,0,3,4,0,0, Full Time,news,%O and %T... also %F,,
+270833,Addam,Maric,RI,7,46,49,57,39,57,7,9,2,1,0,0,1,0,0, Full Time,news,%O on Pearce,,
+280747,Ben,Griffiths,RI,8,39,37,50,30,42,1,7,2,4,0,0,0,0,0, Full Time,job,Following Mayne... %D and %T,subbed,Subbed off at 3QT for O'Hanlon
+291437,Jake,Batchelor,RI,4,37,54,50,31,45,6,4,3,2,0,0,2,0,0, Full Time,job,Responsible for Broughton... %D and %M... also %F,,
+295325,Brett,O'Hanlon,RI,2,32,26,42,24,33,6,2,2,1,0,0,0,0,0, Full Time,rookie,First game... on after 3QT for Griffiths,sub,Started as a sub
+271015,Matthew,de Boer,FR,56,147,141,136,109,147,14,15,5,13,0,5,1,1,0, Full Time,star,Playing midfield... %P and %T with %M... also %4 FF and %s,,
+200032,Matthew,Pavlich,FR,37,107,99,78,92,112,13,4,6,2,0,0,1,6,1, Full Time,x-factor,Kicked %s from %P and %M on Rance including three big ones in Q1... also %T,,
+230107,Michael,Johnson,FR,25,105,121,76,79,108,16,7,7,6,0,1,1,0,0, Full Time,gun,Loose in defence and allowed to be by the Tigers... %D and %T with %M,,
+240052,David,Mundy,FR,25,102,84,79,76,102,14,7,7,6,0,1,0,0,0, Full Time,hot,%D and %M with %T,,
+250088,Jonathon,Griffin,FR,43,101,117,90,81,94,8,0,1,6,43,1,0,1,0, Full Time,hot,Played #1 ruck after Sandilands' very early injury... %H and %P with %T and %s,,
+260069,Hayden,Ballantyne,FR,32,101,88,83,76,103,13,5,3,9,0,3,3,2,1, Full Time,hot,%s from %O and %M on Morris... also %T,,
+292026,Michael,Barlow,FR,27,101,100,76,74,108,15,9,4,8,0,0,2,0,0, Full Time,hot,%P and %M with %T,,
+280336,Stephen,Hill,FR,25,100,109,74,69,102,15,9,1,9,0,1,1,0,0, Full Time,hot,%2 Cotchin... %P and %T,sore,Left ankle knock in Q1
+261756,Greg,Broughton,FR,30,99,103,99,73,97,8,9,6,9,0,2,0,0,1, Full Time,news,Playing forward on Batchelor... %P and %M with %T,,
+280416,Chris,Mayne,FR,20,79,80,59,61,84,10,10,2,4,0,1,0,1,0, Full Time,news,%P and %M on Griffiths... also %T,,
+210037,Adam,McPhee,FR,19,77,79,65,56,78,9,8,3,6,0,1,0,0,0, Full Time,job,Jackson manning him up... %D and %T,,
+280386,Clancee,Pearce,FR,20,73,75,65,46,66,9,3,1,9,0,1,0,0,0, Full Time,job,In defence on Addam Maric... %P and %T,,
+280726,Tendai,Mzungu,FR,9,68,90,37,53,76,13,7,2,3,1,2,2,0,0, Full Time,zimbabwe,%2 Grigg... %O,,
+250268,Garrick,Ibbotson,FR,8,61,63,27,48,64,13,3,5,0,0,0,0,0,1, Full Time,news,%P and %M plus %s,job,Minding Edwards
+293535,Lachie,Neale,FR,14,59,52,58,40,60,5,8,0,7,0,0,0,0,0, Full Time,news,%O and %T on Dea,,
+230048,Ryan,Crowley,FR,14,57,50,54,37,54,6,4,1,7,0,0,0,0,0, Full Time,news,%P and %T,tagger,Tagging Deledio
+270908,Nick,Suban,FR,9,56,50,37,42,60,10,3,3,4,0,1,2,0,0, Full Time,job,Chasing Nahas... %O and %M,,
+200045,Luke,McPharlin,FR,5,55,56,36,42,54,9,3,4,2,0,2,0,0,0, Full Time,news,%O and %M,job,Has Riewoldt
+290296,Jesse,Crichton,FR,21,50,50,55,41,60,3,7,2,6,0,0,3,1,0, Full Time,news,%P and %T plus %s... also %F,,
+293651,Hayden,Crozier,FR,6,42,62,29,35,51,5,11,0,1,0,1,0,0,0, Full Time,bubble,Second game... on in Q1 for Sandilands... tried to man up Newman... %D,sub,Started as a sub
+240552,Zac,Dawson,FR,3,33,61,28,30,42,3,8,2,1,0,1,1,0,0, Full Time,job,Has Vickery... %O,sore,Right leg knock in Q2... freshened it up in Q3
+220096,Aaron,Sandilands,FR,0,10,5,7,9,12,1,2,0,0,3,0,0,0,0, Full Time,injured,%P and %H... right foot injury very early in Q1,subbed,Subbed off very early in Q!

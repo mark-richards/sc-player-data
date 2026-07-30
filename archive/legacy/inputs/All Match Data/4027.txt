@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Geelong,Cats,R3,20.11.131,16.18.114, Full Time
+Apr 15,2012,4:40,Docklands,Fox Sports,200131,10340309,5015,0,,,,
+
+<em>Demons64</em>: Sizzler = Sizzling Spew from Morrabbin<br><em>tyhwu</em>: chappy for the star! won me my league game!<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Stuart88</em>: Trash Can For Tomahawk<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> felsty22</em>: won by 5 points! thank you junk time chappy ;)<br><em style='margin-bottom:-2px'><b class="ticon tWB"></b> KraKBabY</em>: @Sizzler&#044; go to the game next time tight alps.<br><em style='margin-bottom:-2px'><b class="ticon tPA"></b> Thorpy</em>: sizzler that dot represents actual size?<br><em>greatace</em>: ended up 2358 its ok got to consider ablett made 360 of that doesnt say to much the rest of the players in team<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> tyhwu</em>: selwood you jet! bloody love you!<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> Crabstick</em>: how did swallow only score 99 sc points?!!?!?! fuuu<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> jbrown</em>: whats a good sc score this round<br><em>DTSlayer</em>: finished on 2098 with martin&#044; cloke&#044; magner&#044; porplyzia&#044; fyfe&#044; hargrave <br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> merto09</em>: won by 26 SC thanks to petrie :)<br>
+280944,Jack,Ziebell,NM,38,139,132,173,114,144,17,10,9,4,0,1,0,4,0, Full Time,cherry,%2 Kelly... %O and %M with %T and %s,,
+960491,Brent,Harvey,NM,25,111,106,133,92,129,19,19,3,0,0,1,0,1,0, Full Time,star,Started like a bullet out of a gun loose in defence... Taylor Hunt never tagged him hard enough... %O and %s,,
+280863,Ryan,Bastinac,NM,27,109,118,130,93,120,14,12,5,1,0,0,0,4,0, Full Time,x-factor,First goal... %P and %s,,
+230141,Hamish,McIntosh,NM,27,106,117,132,88,107,10,6,8,4,9,1,0,2,2, Full Time,hot,%D and %M on Lonergan... also %H and %T,,
+260545,Liam,Anthony,NM,31,106,96,135,80,108,14,11,3,6,0,3,0,1,0, Full Time,hot,%D and %M plus %s,,
+230232,Daniel,Wells,NM,21,104,139,130,84,120,14,17,4,4,1,0,1,0,2, Full Time,hot,Had a sensational Q1... %P and %T plus %M and %s,,
+240417,Andrew,Swallow,NM,21,98,98,124,80,115,14,16,4,4,0,1,2,0,1, Full Time,sore,%O and %T with %M and %s... left ankle tweak in Q4,,
+230240,Aaron,Edwards,NM,25,86,127,101,77,93,9,8,6,0,0,1,0,4,0, Full Time,news,Booted %s from %G and %O in a favourable matchup on young Gillies,,
+240189,Matt,Campbell,NM,20,77,68,99,59,82,6,11,4,6,0,0,0,0,1, Full Time,news,%s from %P and %M on Guthrie,,
+230272,Michael,Firrito,NM,8,69,93,83,57,78,10,13,2,1,0,3,0,0,0, Full Time,news,%B among %P,,
+250285,Leigh,Adams,NM,19,66,73,82,52,70,8,7,0,4,0,2,1,2,1, Full Time,news,Taylor Hunt on him... %D,,
+280921,Ben,Cunnington,NM,9,59,46,78,43,60,6,6,3,5,0,0,0,0,0, Full Time,news,%2 Bartel... %O and %T,subbed,Subbed off for Harper in Q4
+290787,Shaun,Atley,NM,8,55,73,66,48,69,7,13,2,1,0,1,1,0,0, Full Time,news,%P,,
+290194,Jamie,MacMillan,NM,9,54,51,70,41,57,5,7,3,4,0,0,0,0,0, Full Time,news,%P and %M,job,Responsible for Duncan
+271129,Todd,Goldstein,NM,15,53,69,59,51,57,2,3,2,1,33,1,1,0,0, Full Time,news,%H and %P with %M,,
+281395,Scott D.,Thompson,NM,5,51,57,66,41,54,6,5,5,2,0,0,0,0,0, Full Time,ipod,Has Podsiadly... %O,,
+280864,Sam,Wright,NM,7,48,76,58,43,66,3,15,1,3,0,0,2,0,0, Full Time,news,%P and %T,job,Following Johnson
+270303,Luke,Delaney,NM,8,47,50,62,35,48,2,6,3,5,0,0,0,0,0, Full Time,tomahawk,On Hawkins... %D and %T with %M,,
+261909,Lindsay,Thomas,NM,9,42,49,53,38,51,6,5,3,1,0,1,2,1,0, Full Time,news,%s from %O and %M on Enright,,
+250135,Scott,McMahon,NM,4,41,65,54,33,46,6,4,3,2,1,0,1,0,0, Full Time,job,Has Motlop... %P,,
+210023,Drew,Petrie,NM,4,39,41,51,31,40,4,3,4,2,0,0,0,0,1, Full Time,news,Booted %s from %P on Taylor,,
+290547,Kieran,Harper,NM,9,37,22,48,31,40,4,2,3,2,0,0,1,1,1, Full Time,news,On in Q4 for Cunnington... %s from %P,sub,Started as a sub
+250321,Joel,Selwood,GE,20,106,140,73,83,113,15,14,4,4,0,3,0,0,2, Full Time,hot,%O and %T with %M and %s,,
+200034,Joel,Corey,GE,31,102,69,96,78,109,10,11,6,9,1,1,2,0,0, Full Time,hot,Moved to defence early to stem the early North tide,,
+200131,James,Podsiadly,GE,28,98,89,77,85,100,11,1,8,2,1,0,1,5,3, Full Time,news,Booted %s from %G and %P on Thompson,,
+220007,Jimmy,Bartel,GE,25,91,102,82,74,103,9,13,6,6,0,1,2,0,1, Full Time,news,%2 Cunnington... %P,,
+280822,Taylor,Hunt,GE,14,89,64,54,72,96,15,8,8,1,0,0,0,0,0, Full Time,news,Way too loose on Harvey... %P and %M,,
+261167,Orren,Stephenson,GE,16,77,81,80,63,79,4,7,5,5,16,0,0,0,0, Full Time,news,%H and %D with %T and %M,,
+281065,Mitch,Duncan,GE,19,77,82,54,64,85,11,7,6,2,0,0,1,1,1, Full Time,news,%s from %O and %M on MacMillan,,
+280918,Allen,Christensen,GE,18,76,69,60,60,80,10,6,6,4,0,1,1,0,2, Full Time,news,%P and %M with %T and %s,,
+261510,Tom,Hawkins,GE,17,74,78,63,66,79,6,6,5,1,0,0,0,4,1, Full Time,news,%s from %D and %M on Luke Delaney,,
+200035,Corey,Enright,GE,9,73,75,54,57,78,10,8,5,3,0,0,0,0,0, Full Time,job,%O and %T with %M... loose in defence early but mostly had Thomas,,
+220058,James,Kelly,GE,9,71,79,40,56,82,13,9,2,3,0,1,2,0,1, Full Time,news,%2 Ziebell... %P and %s,,
+261497,Harry,Taylor,GE,11,64,97,56,52,69,6,8,4,3,0,0,0,1,0, Full Time,job,Has Petrie... %P and %T with %M,,
+280990,Steven,Motlop,GE,10,64,73,38,47,62,11,1,1,3,0,0,0,2,2, Full Time,news,%s from %O and %T,,
+220054,Steve,Johnson,GE,9,60,56,41,44,61,10,3,3,4,0,1,1,0,1, Full Time,news,%s from %D and %M on Wright.. also %T,,
+200039,Paul,Chapman,GE,14,58,57,41,38,57,10,2,1,6,0,0,1,0,0, Full Time,news,%O and %T,,
+293255,George,Horlin-Smith,GE,14,58,46,37,49,61,9,3,6,0,0,0,0,1,1, Full Time,news,On in Q3 for Mackie... %P and %M plus %s,sub,Started as a sub
+260261,Trent,West,GE,10,56,64,42,54,69,6,6,2,1,24,1,3,0,0, Full Time,news,%H and %P with %M and %F,,
+280125,Tom,Gillies,GE,10,55,71,46,45,60,6,6,3,3,0,1,1,1,0, Full Time,job,On Edwards... %D and %T with %M,,
+290550,Cameron,Guthrie,GE,8,47,32,35,34,51,7,5,1,4,0,0,1,0,0, Full Time,job,Chasing Campbell... %O and %T,,
+230022,Shannon,Byrnes,GE,8,40,46,33,32,42,4,5,1,2,0,1,0,1,0, Full Time,news,%B among %P,,
+230125,Tom,Lonergan,GE,3,37,48,30,31,42,4,6,3,1,0,0,0,0,0, Full Time,job,Standing McIntosh... %M and %P,,
+230248,Andrew,Mackie,GE,1,18,15,11,13,18,3,2,0,1,0,1,0,0,0, Full Time,injured,%P... back injury in Q2,subbed,Subbed off at HT for Horlin-Smith

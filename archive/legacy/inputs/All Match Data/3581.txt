@@ -1,0 +1,48 @@
+Geelong,Cats,Fremantle,Dockers,SF,20.15.135,10.6.66, Full Time
+Sep 10,2010,7:45,MCG,Seven,200131,10290201,5014383,5250,Windy with a few showers,16
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Sunday go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tGE"></b> kingbling</em>: lookin forward to next week. see you all here.. i can see the chats getting ugly next.<br><em title="WCE !">wce !</em>: freo -  bloody waste of space in the finals !<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> oldshepp</em>: small things amuse small minds kingbling?<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> kingbling</em>: steve j the star.. u got it right mOnty<br><em>export</em>: monty u are a disgrace. jimmy was bog did all the hard stuff and team stuff could of kicked 4 goals but dished em off<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> kingbling</em>: @richoman&#044; that is a beauty of a joke.. hahahaha<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> finch</em>: damn i had mooney captain this week<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> kingbling</em>: @richoman&#044; what tv's they cant afford any.<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> chrome</em>: Congratulation Geelong&#044; see you next week at the G<br><em>Richoman#1</em>: .because it resembles their supporters teeth<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> oldshepp</em>: you might be able to score one then Richoman<br><em>Richoman#1</em>: why does a collingwood jumper have black & white stripes?<br>
+220007,Jimmy,Bartel,GE,36,136,134,173,107,148,21,14,6,5,4,0,1,1,0, Full Time,garbage,Head to head with Duffield... %D and %T with %M and %s... all but 10 of his touches in second half junk time
+220054,Steve,Johnson,GE,32,129,107,159,107,137,16,12,8,3,0,1,0,3,2, Full Time,star,Kicked %s from %D on Silvagni... also %M and %T
+200039,Paul,Chapman,GE,31,127,109,163,97,130,22,9,6,4,0,2,0,1,1, Full Time,hot,Tagged by Crowley... %O including %k by foot... also %M
+200037,Cameron,Ling,GE,36,122,106,157,99,132,15,12,10,5,0,0,1,1,0, Full Time,hot,Tagging Mundy... %P and %M with %T
+220001,Gary,Ablett jnr,GE,30,117,119,144,98,139,13,23,6,4,0,0,1,0,1, Full Time,gun,Started head to head with Pavlich then Hill... %O including %b by hand with %T
+250321,Joel,Selwood,GE,22,111,124,133,94,127,13,20,5,2,1,2,0,1,0, Full Time,hot,First goal... tagged by McPhee... %P and %T plus %s
+220058,James,Kelly,GE,20,104,93,132,79,114,17,14,3,4,0,0,0,0,0, Full Time,hot,Tagged by Suban... %P and %T with %M
+230214,Mathew,Stokes,GE,26,99,96,119,85,108,10,12,6,2,0,1,0,3,0, Full Time,garbage,%s from %D with %M and %T... enjoyed himself in Q4 garbage time
+250290,Travis,Varcoe,GE,21,96,106,118,81,110,7,17,5,5,0,1,1,1,2, Full Time,news,%O and %T
+200035,Corey,Enright,GE,20,91,107,119,66,93,11,10,3,7,0,1,0,0,0, Full Time,job,Zoning off Walters with arrogance... %P and %T with %M
+200034,Joel,Corey,GE,19,88,77,114,72,102,12,12,6,4,0,0,2,0,0, Full Time,news,%P and %M
+980064,Brad,Ottens,GE,32,88,98,109,77,101,5,11,4,6,17,1,3,1,0, Full Time,news,%H and %D with %T
+990076,David,Wojcinski,GE,16,83,91,97,73,97,8,15,4,1,0,0,0,2,1, Full Time,x-factor,Matched up on Morabito... %P and %M plus %s... his run and carry was highly prominent in Q1 when the game was won
+261510,Tom,Hawkins,GE,17,79,69,99,65,84,6,8,4,5,8,1,1,1,1, Full Time,news,%H and %P plus %s in ruck rotation... also %M and %T
+200131,James,Podsiadly,GE,17,78,88,97,65,80,11,3,4,2,0,2,1,3,2, Full Time,sore,Booted %s from %D on Grover... also %G and %T... tweaked right knee in Q2 but returned just after HT... did bugger all after that though
+980037,Matthew,Scarlett,GE,14,77,123,95,67,87,10,11,8,0,0,1,0,0,0, Full Time,news,Allowed to be loose in defence... %D and %M
+230022,Shannon,Byrnes,GE,14,72,87,89,58,79,8,10,3,3,0,0,0,1,1, Full Time,news,%s from %P on Ibbotson... also %T
+261497,Harry,Taylor,GE,12,68,72,87,56,72,10,6,7,1,0,1,0,0,0, Full Time,job,On Sandilands... %M and %D
+960375,Darren,Milburn,GE,8,55,59,68,49,66,8,9,5,0,0,1,1,0,0, Full Time,news,%D and %M
+210059,Josh,Hunt,GE,5,52,62,68,41,54,7,4,5,2,0,0,0,0,0, Full Time,news,%O and %M
+230125,Tom,Lonergan,GE,8,50,59,60,46,60,4,10,6,0,0,0,0,0,0, Full Time,job,Following Mayne... %M and %O
+970006,Cameron,Mooney,GE,9,45,48,56,38,46,5,3,4,1,1,1,0,1,0, Full Time,news,%P and %G on McPharlin
+200032,Matthew,Pavlich,FR,28,125,103,79,99,122,20,1,8,3,0,1,0,4,2, Full Time,hot,Started head to head with Ablett jnr then rotated forward... %s from %O and %T with %M
+240052,David,Mundy,FR,25,111,109,82,88,123,15,15,6,5,0,1,1,0,0, Full Time,hot,Tagged by Ling... %O and %T with %M
+230107,Michael,Johnson,FR,22,108,99,80,95,123,15,8,13,2,8,0,3,0,1, Full Time,hot,%H with %P and %M doing much of the ruck work
+240139,Paul,Duffield,FR,25,108,135,66,81,105,19,3,7,4,0,2,0,1,0, Full Time,garbage,Head to head with Bartel... %D and %T with %M... lots of Q4 garbage time stats
+291570,Nathan,Fyfe,FR,24,93,86,74,73,96,12,6,7,5,0,1,1,1,0, Full Time,news,Seemed to have a roving commission... %O and %M plus %T
+261756,Greg,Broughton,FR,19,82,73,63,69,90,11,7,10,2,0,0,1,0,0, Full Time,news,%O and %M
+281007,Michael,Walters,FR,17,81,75,61,65,81,10,4,4,3,0,1,0,3,0, Full Time,sore,%s from %P on Enright... also %T... left knee restrapped in Q2 after a knock
+280933,Dylan,Roberton,FR,10,64,60,47,48,66,10,3,5,4,0,0,1,0,0, Full Time,news,%D and %M with %T
+210037,Adam,McPhee,FR,20,57,23,61,38,54,5,2,3,8,0,0,1,0,0, Full Time,tagger,Tagging Selwood... %D and %M with %T
+280416,Chris,Mayne,FR,14,57,39,43,49,60,8,1,8,1,0,0,1,1,0, Full Time,news,Booted %s from %P and %M on Lonergan
+210084,Roger,Hayden,FR,4,56,48,38,43,60,9,5,3,3,0,1,1,0,0, Full Time,news,Started forward... %D and %T plus %M
+220096,Aaron,Sandilands,FR,13,56,50,53,52,61,2,7,1,1,28,1,0,0,0, Full Time,sore,Started forward on Taylor... clearly hampered by his existing PCL problem... %H and %D
+281111,Anthony,Morabito,FR,4,54,44,39,40,55,8,4,3,3,1,0,0,0,0, Full Time,news,Matched up on Wojcinski... %O and %M
+280336,Stephen,Hill,FR,4,53,44,30,39,54,10,3,3,2,0,0,0,0,0, Full Time,news,Head to head with Ablett jnr... %P and %M with %T
+250268,Garrick,Ibbotson,FR,5,51,46,32,38,48,9,1,4,2,0,2,0,0,0, Full Time,job,Minding Byrnes... %D
+200045,Luke,McPharlin,FR,4,49,49,38,43,57,6,7,5,1,0,1,1,0,0, Full Time,sore,Standing Mooney... %D and %M... left knee tweak in Q4
+230048,Ryan,Crowley,FR,7,38,33,40,27,40,3,4,1,5,0,0,1,0,1, Full Time,tagger,Tagging Chapman... %O
+271433,Alex,Silvagni,FR,7,37,25,25,33,42,6,2,6,0,0,0,1,0,0, Full Time,sore,On Johnson... %P and %M... split over the right eye in Q3
+990029,Des,Headland,FR,4,36,20,32,28,36,4,2,4,2,0,0,0,0,0, Full Time,in,%l Jesse Crichton... left knee knock early in Q1... %O
+271015,Matthew,de Boer,FR,3,35,38,28,31,43,4,6,3,1,0,0,1,0,1, Full Time,news,%P and %M
+270908,Nick,Suban,FR,7,33,42,37,23,36,2,5,0,5,0,0,1,0,0, Full Time,tagger,Tagging Kelly... %B among %P with %T
+990092,Antoni,Grover,FR,2,24,28,26,18,24,2,1,2,3,0,1,1,0,0, Full Time,ipod,Has Podsiadly... %P and %T with %M

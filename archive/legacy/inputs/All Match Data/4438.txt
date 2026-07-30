@@ -1,0 +1,48 @@
+St Kilda,Saints,Sydney,Swans,R5,9.9.63,11.13.79, Full Time
+Apr 25,2013,5.40,Wellington,Seven,230253,10390502,stk-v-syd,0,Fine,17,,
+
+<em>joelyboy04</em>: saad's run up is ridiculous<br><em><b class="picon i_anzac"></b>DirtyDawn</em>: test<br><em><b class="picon i_anzac"></b>matthius</em>: yeah 112 doesnt quite cut the mustard as captain. ablett or murphy for me.. <br><em><b class="picon i_anzac"></b>Gebs</em>: hannebery medal <br><em><b class="picon i_anzac"></b>9robbo9</em>: mummys tash for star<br><em><b class="picon i_anzac"></b>OnTheRocks</em>: im going with GaJ as captain over Dave's 127<br><em><b class="picon i_anzac"></b>colin wood</em>: Bin for o keefe<br><em><b class="picon i_anzac"></b>outandover</em>: looks like the little master gets the C again this w'end<br><em><b class="picon i_anzac"></b>dezza33</em>: hayes heart<br><em><b class="picon i_anzac"></b>OnTheRocks</em>: Colonel Saunders did alright for a sub<br><em><b class="picon i_anzac"></b>tracygrims</em>: jpk 107 sc.. good enough for captain?<br><em><b class="picon i_anzac"></b>windigo24</em>: roo atlas<br>
+210001,Nick,Riewoldt,SK,44,153,152,202,121,156,22,5,13,7,2,1,2,2,1, Full Time,magnet,Booted %s from %D and %M on Richards... also %T and %F... his role took him up the ground often which he always enjoys,,,464900,82,529200,105,Forward,12
+990028,Lenny,Hayes,SK,31,114,131,150,83,117,17,11,3,8,0,3,1,0,0, Full Time,hot,%2 Kennedy... %P and %T with %M,,,464600,103,496200,134,Centre,7
+220075,Leigh,Montagna,SK,21,104,111,135,76,102,18,4,3,5,0,1,0,2,0, Full Time,hot,%O and %M plus %s,,,504100,95,529900,100,Centre,11
+261743,Clinton,Jones,SK,20,88,87,116,65,93,13,9,3,6,0,1,1,0,0, Full Time,tagger,Tagging McVeigh... %P and %T with %M,,,411600,58,451700,85,Centre,4
+260113,Jarryn,Geary,SK,21,86,93,108,69,93,9,11,5,4,0,0,0,1,0, Full Time,news,Started forward... %O and %T with %M,,,333700,63,418100,61,Back,14
+220023,Nick,Dal Santo,SK,19,82,78,107,57,83,13,8,0,6,1,1,0,0,1, Full Time,tagged,Tagged by Bird... %P and %T,,,449500,102,501600,134,Centre,26
+261323,Ben,McEvoy,SK,20,76,90,93,60,75,6,4,1,5,27,0,0,0,0, Full Time,news,%H and %P with %T,,,466700,81,590100,104,Ruck,5
+280933,Dylan,Roberton,SK,14,75,72,101,53,73,12,3,4,5,1,0,0,0,0, Full Time,news,%D and %T,job,Running off Everitt,295000,8,361100,9,Back,17
+250134,Sam,Gilbert,SK,16,74,95,97,56,75,4,9,5,7,0,1,0,0,0, Full Time,news,%M and %O... also %T,job,Playing tight on Reid,346000,63,406800,86,Back,19
+270912,Jack,Steven,SK,14,71,78,87,57,81,10,12,0,3,0,2,1,1,0, Full Time,news,%P including %B,,,445900,80,488700,69,Centre,3
+240708,Sam,Fisher,SK,9,64,86,82,51,69,9,7,5,2,0,0,0,0,0, Full Time,tagged,Forward tagged by O'Keefe then got Kennedy in Q3... %D and %M,,,355000,73,424200,103,Back,25
+270570,Trent,Dennis-Lane,SK,16,62,37,82,49,64,7,3,5,4,0,0,1,1,1, Full Time,news,%D and %M on Malceski... also %T,,,220200,74,208000,66,Forward,8
+250340,David,Armitage,SK,14,54,56,75,36,54,8,3,1,6,0,0,1,0,0, Full Time,news,%O and %T,,,484600,64,516400,55,Centre,20
+230243,Sean,Dempster,SK,5,52,56,70,43,60,7,5,5,3,0,0,2,0,0, Full Time,job,Chasing McGlynn... %O and %T with %M and %F,,,389900,,463300,,Back,24
+210002,Justin,Koschitzke,SK,15,50,51,69,41,56,5,2,4,5,2,0,3,1,0, Full Time,crab,First goal... %s from %P and %M on Grundy... also %T,,,281200,,322700,,Forward,23
+294317,Nathan,Wright,SK,8,50,50,66,35,51,5,6,1,5,0,0,0,0,0, Full Time,cash,%P and %T,job,Big job on Bolton,102700,-26,109500,-16,Back,34
+280317,Rhys,Stanley,SK,7,47,61,61,37,57,8,7,0,3,3,0,2,0,0, Full Time,job,In defence on Goodes... %D and %T,,,311100,90,382600,60,Ruck,28
+294818,Ahmed,Saad,SK,13,47,38,65,30,41,5,1,1,6,0,1,0,0,2, Full Time,egypt,Smith sitting on him... %O and %T,,,262800,39,318400,55,Forward,21
+293846,Sebastian,Ross,SK,13,41,54,50,42,63,7,10,2,0,0,0,4,1,0, Full Time,news,%D and %M plus %s... also %F,,,144300,,175500,,Centre,6
+295477,Josh,Saunders,SK,7,38,29,52,25,36,3,3,1,5,0,0,0,0,0, Full Time,rookie,First game... on in Q3 for Lee,sub,Started as a sub,102700,,109500,,Centre Back,35
+295095,Brodie,Murdoch,SK,2,34,29,44,27,36,5,3,3,1,0,0,0,0,0, Full Time,rookie,First game... %P and %M up forward on Mattner,,,102700,,109500,,Forward,30
+290422,Thomas,Lee,SK,3,30,17,40,22,29,4,1,2,2,0,0,0,0,2, Full Time,bubble,Second game... %s from %P on Rampe... also %T and %M,subbed,Subbed off in Q3 for Saunders,108500,,115900,,Forward,9
+240226,Kieren,Jack,SY,49,113,114,113,80,115,9,13,1,13,0,1,1,1,1, Full Time,hot,%O and %T plus %s,,,492000,130,574700,144,Centre,15
+260382,Josh P.,Kennedy,SY,30,98,109,77,74,105,12,13,1,7,0,2,1,1,0, Full Time,tagger,%2 Hayes... spent a lot of time forward after half time in a defensive role on Fisher... %D and %T plus %s,,,496400,120,620700,154,Centre,12
+230253,Jarrad,McVeigh,SY,31,97,125,81,75,106,10,15,2,6,0,0,0,1,1, Full Time,tagged,Tagged by Jones... %P and %M with %T plus %s,,,509000,81,562500,116,Centre,3
+200071,Ryan,O'Keefe,SY,15,96,104,66,71,95,15,6,5,5,0,2,0,0,2, Full Time,news,Started in a forward tag role on Fisher... one kick in Q1... the played midfield after half time... %s from %P and %M with %T,,,496400,110,542900,134,Centre,5
+290117,Daniel,Hannebery,SY,20,95,107,67,76,111,13,17,3,4,0,0,1,0,0, Full Time,anzac,%P including %B... also %M and %T... won the Anzac Day medal,,,460600,58,499200,60,Centre,4
+290778,Luke,Parker,SY,22,93,124,70,80,108,11,14,4,3,0,2,2,2,0, Full Time,x-factor,%s from %K among %D with %T and %M... also %F,,,404400,86,424800,124,Forward,26
+990011,Jude,Bolton,SY,26,92,87,80,68,90,10,6,4,7,0,1,0,1,3, Full Time,news,%s from %O and %M with %T on the kid Wright,,,413300,91,481700,97,Centre,24
+210027,Ted,Richards,SY,19,82,111,65,66,84,10,6,7,3,0,1,0,1,0, Full Time,news,%P and %M... also %T and %s,job,Following Riewoldt,271400,64,388500,76,Back,25
+230140,Ben,McGlynn,SY,16,80,79,54,64,82,12,4,4,3,0,2,1,2,1, Full Time,news,%s from %O and %M on Dempster... also %T,,,371800,74,381800,74,Centre,21
+230132,Nick,Malceski,SY,13,79,74,49,61,84,14,5,6,3,0,0,1,0,0, Full Time,news,%O and %M,job,Dennis-Lane is his man,401800,11,442900,33,Back,9
+261212,Craig,Bird,SY,24,79,65,60,51,75,12,4,1,8,0,0,0,0,0, Full Time,news,%P and %T,tagger,Tagging Dal Santo,354300,173,388400,206,Centre Forward,14
+980073,Adam,Goodes,SY,16,77,76,68,59,78,8,6,5,5,0,0,0,1,0, Full Time,news,%s from %P and %M on Stanley... also %T,,,373000,85,424300,98,Forward,37
+270170,Tony,Armstrong,SY,10,74,88,52,60,81,10,11,4,2,0,2,0,0,0, Full Time,job,Saints are rotating their resting mids through him... %D and %M plus %T,,,242400,32,245400,10,Centre,19
+280762,Shane,Mumford,SY,20,66,76,65,59,71,3,6,0,4,24,3,2,1,2, Full Time,news,Has an awesome handlebar moustache... %H and %P with %T and %s,,,359500,108,438300,128,Ruck,41
+291206,Mike,Pyke,SY,15,63,83,58,55,66,4,3,1,3,32,0,1,0,1, Full Time,canada,%H and %P with %T and %s,,,368800,92,438700,111,Ruck,38
+240072,Heath,Grundy,SY,8,58,76,39,50,66,8,9,5,0,0,1,0,0,0, Full Time,job,Standing Koschitzke... %D and %M,,,314000,62,367800,85,Back,39
+290307,Dane,Rampe,SY,7,54,51,24,43,60,11,6,3,0,0,0,0,0,0, Full Time,cash,%O and %M,job,On Lee,89300,-18,96200,-33,Centre,43
+250338,Nick,Smith,SY,7,51,56,26,37,54,10,5,1,2,0,0,0,0,0, Full Time,job,Chasing Saad... %P and %T,,,297700,69,334600,85,Centre,40
+290188,Samuel,Reid,SY,7,42,42,47,30,42,2,6,1,5,0,1,0,0,0, Full Time,news,%P and %T on Gilbert,,,258000,60,312300,80,Back,20
+220063,Martin,Mattner,SY,3,41,39,38,33,45,4,5,3,3,0,1,1,0,0, Full Time,job,Responsible for Murdoch... %O and %M,,,255400,60,276400,75,Back,29
+281281,Lewis,Jetta,SY,3,34,31,22,24,33,6,1,2,2,0,0,0,0,0, Full Time,news,On after 3QT for Everitt,sub,Started as a sub,324200,120,347300,126,Centre Forward,32
+261257,Andrejs,Everitt,SY,2,32,32,28,25,36,3,6,1,2,0,0,0,0,0, Full Time,news,%D on Roberton,subbed,Subbed off at 3QT for Jetta,219800,18,275500,16,Forward,13

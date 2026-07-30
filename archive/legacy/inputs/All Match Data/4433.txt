@@ -1,0 +1,48 @@
+Gold Coast,Suns,Port Adelaide,Power,R4,9.12.66,16.8.104, Full Time
+Apr 20,2013,7.40,Gold Coast,Seven,260750,10390406,gcfc-v-port,0,Fine,25,,
+
+<em>McRooster</em>: @Wes&#044; neither has James Hird but we all think he's guilty!<br><em>McRooster</em>: Only a Port supporter (Wes) could actually understand what Bazza Hall is saying!<br><em>W.Mantooth</em>: And Roost&#044; you should know better. Rolf has not been charged.<br><em>W.Mantooth</em>: barry hall - "hamish&#044; every dream you'd be 0-4?"<br><em>LazyAs</em>: lol @McRooster<br><em>W.Mantooth</em>: that's one bitter Rooster<br><em>Grazz</em>: haha Rooster.<br><em>W.Mantooth</em>: glad ablett stopped.<br><em>Seb78</em>: Junk it up Gaz and Hamish<br><em>McRooster</em>: Kane Cornes has had more cheap touches tonight than Rolf Harris!<br><em>LazyAs</em>: primus must have been a spud as a coach when Hinkley has walked in and the improvement is already there<br><em>Drak</em>: this is what happened with Adelaide first year coach and soft draw. Not saying they dont have talent coming through&#044; but<br>
+220001,Gary,Ablett jnr,GC,31,118,131,152,93,134,19,16,3,6,0,3,3,0,2, Full Time,hot,Tagged by Cornes then got Cassisi in Q2... %K among %D with %T and %M... also %s and %F,,,618800,177,718800,215,Centre,9
+240254,Jarrod,Harbrow,GC,21,104,102,134,80,109,20,7,4,3,0,2,1,1,1, Full Time,hot,%P and %M plus %s,,,342900,45,413100,96,Back,5
+290817,Brandon,Matera,GC,15,89,96,114,69,92,18,4,5,1,0,0,0,1,2, Full Time,news,%s from %O and %M,,,353500,65,340800,79,Forward,32
+281075,Rory,Thompson,GC,17,84,78,110,68,85,12,1,8,3,0,0,1,2,1, Full Time,news,%D and %M with %T,switch,Following Westhoff... switched back in Q3,226800,59,297200,72,Back,16
+290627,Dion,Prestia,GC,19,82,81,110,57,81,13,5,3,6,0,0,0,0,0, Full Time,news,%P and %T with %M,job,Chasing Neade,386400,68,422700,97,Forward,10
+230015,Jared,Brennan,GC,15,77,91,99,64,92,13,9,3,3,1,0,3,1,1, Full Time,news,%P and %M... also %F,,,362300,77,411700,83,Forward,3
+294613,Jaeger,O'Meara,GC,15,72,100,89,57,78,11,9,2,2,0,1,0,1,0, Full Time,cash,%s from %O rotating forward and midfield,,,180000,-51,187800,-48,Centre,1
+296735,Aaron,Hall,GC,15,69,56,90,54,69,9,3,6,3,0,0,0,1,0, Full Time,news,%D on Pittard... also %T,,,331200,32,325600,36,Forward,33
+290811,Jack,Hutchins,GC,13,66,47,86,52,69,10,5,6,2,0,0,0,0,0, Full Time,job,Following Monfries... %P and %M,,,108500,-56,115900,-96,Back,34
+261756,Greg,Broughton,GC,8,65,67,79,58,84,9,15,3,1,0,1,2,0,0, Full Time,news,%B among %D with %M... also %F,job,Chasing Wingard,408000,100,441900,110,Back,36
+280711,Charlie,Dixon,GC,8,65,103,77,55,73,8,10,2,1,9,1,0,0,1, Full Time,news,%H and %P with %M and %s,,,345000,28,436000,59,Forward,23
+290832,David,Swallow,GC,12,64,45,83,53,72,11,6,6,1,0,0,1,0,0, Full Time,news,One kick in Q1... %O and %M,,,380100,59,425500,77,Centre,24
+280722,Zac,Smith,GC,14,57,81,65,52,64,5,7,1,1,16,2,1,1,0, Full Time,news,%D and %s... also %H,,,293500,60,356000,105,Ruck,2
+240712,Michael,Rischitelli,GC,8,55,43,71,45,63,12,5,4,0,0,0,1,0,0, Full Time,news,%P and %M,,,323200,54,373700,54,Centre,35
+290790,Matthew,Shaw,GC,8,54,60,69,43,63,9,8,2,2,0,0,1,0,0, Full Time,news,%P on Heath,,,297800,72,311000,73,Back,26
+250146,Thomas,Murphy,GC,5,52,61,69,42,57,8,4,5,2,0,0,1,0,0, Full Time,job,On the resting ruck... %P and %M,,,237000,25,293200,15,Back,29
+281025,Luke,Russell,GC,4,48,26,62,41,55,7,5,5,1,0,0,1,0,1, Full Time,in,%l Harley Bennell... on in Q2 for Wilkinson... %P and %M,sub,Started as a sub,319600,109,301200,99,Forward,8
+291753,Sam,Day,GC,8,48,30,62,40,51,4,5,6,2,0,0,0,0,0, Full Time,switch,%P and %M on Trengove... switched back in Q3,,,214400,32,228100,54,Ruck,12
+292512,Karmichael,Hunt,GC,4,46,39,57,41,57,5,9,4,1,0,0,1,0,0, Full Time,nz,%P and %M,,,264300,47,303000,39,Centre,7
+281085,Steven,May,GC,8,27,47,31,28,39,3,7,1,0,0,1,2,1,0, Full Time,news,%s from %P on Carlile,,,265600,75,333900,76,Back,17
+290703,Joel,Wilkinson,GC,1,16,18,20,13,18,3,2,1,0,0,0,0,0,0, Full Time,injured,%D.... left ankle twisted under Wingard in Q1,subbed,Subbed off in Q2 for Russell,204500,15,219800,-13,Back,38
+250716,Matthew,Warnock,GC,0,13,37,17,12,18,1,3,1,1,0,0,1,0,0, Full Time,job,Has Schulz... %P,sore,Dislocated right shoulder in Q4,228500,64,341100,78,Back,14
+210020,Kane,Cornes,PA,43,156,160,103,125,162,25,10,16,3,0,1,0,0,0, Full Time,hot,%P and %M... tagging Ablett jnr in Q1 then moved off... also %T,,,508800,57,547700,85,Centre,18
+260750,Justin,Westhoff,PA,32,121,149,93,102,123,15,5,11,3,0,3,1,3,3, Full Time,hot,%s from %P and %M on Thompson... also %T,,,463600,-20,500200,-16,Forward,39
+261892,Hamish,Hartlett,PA,30,118,144,79,100,130,16,13,7,1,0,0,0,3,1, Full Time,star,%P and %M plus %s,,,420600,107,484400,131,Centre,8
+250365,Travis,Boak,PA,25,116,103,68,94,123,20,10,10,1,0,2,0,0,0, Full Time,hot,%P and %M,,,463500,46,517100,50,Centre,1
+294318,Oliver,Wines,PA,20,101,91,67,81,108,16,9,8,3,0,2,1,0,0, Full Time,cash,%O and %M,,,248000,-60,255900,-20,Centre,16
+290156,Jasper,Pittard,PA,15,96,79,65,75,99,15,7,8,3,0,1,0,0,0, Full Time,cash,%O and %M,job,Minding Hall,171000,-4,193600,-17,Back,29
+250688,Alipate,Carlile,PA,19,91,119,52,77,102,16,9,9,0,0,1,1,0,0, Full Time,news,%D and %M,job,Standing May,227500,2,336500,54,Back,27
+210043,Domenic,Cassisi,PA,25,88,100,81,63,88,9,9,2,9,1,3,1,0,0, Full Time,news,%P with %k by foot... also %T and %M,tagger,Moved to tag Ablett jnr after QT,384500,,440100,,Centre,25
+230195,Jay,Schulz,PA,22,88,76,73,78,97,8,9,5,2,0,1,1,4,1, Full Time,news,%s from %P on Warnock,,,380800,141,432700,135,Forward,28
+261911,Brad,Ebert,PA,14,85,96,50,66,90,15,7,6,2,0,0,0,0,0, Full Time,news,%P and %T with %M,,,518600,118,523000,137,Centre,7
+271078,Matthew,Broadbent,PA,19,80,83,68,59,84,9,10,3,6,0,0,0,0,0, Full Time,news,%D and %T,,,407500,65,464000,52,Centre,5
+290171,Campbell,Heath,PA,18,80,60,58,60,78,12,4,6,4,0,2,0,0,0, Full Time,cash,%O and %M,job,Shaw is his man,158500,-29,187800,-50,Back,3
+291962,Chad,Wingard,PA,21,77,95,55,65,84,10,6,4,2,0,0,1,3,0, Full Time,news,First goal... %s from %O and %M on Broughton,,,306200,-28,360700,-54,Centre,20
+240290,Angus,Monfries,PA,10,73,82,66,65,90,6,16,5,3,0,2,2,0,0, Full Time,news,%P and %T on Hutchins,,,382600,40,410700,22,Forward,6
+290540,Cameron,O'Shea,PA,12,69,65,48,57,75,10,7,7,1,0,0,0,0,0, Full Time,news,%D and %M,,,202800,-6,212100,-8,Back,13
+280379,Lewis,Stevenson,PA,9,67,67,36,50,69,13,4,4,2,0,0,0,0,0, Full Time,cash,%P,,,160200,-16,177200,-37,Centre,15
+280013,Jackson,Trengove,PA,10,61,67,55,47,63,6,7,4,4,0,1,0,0,0, Full Time,job,On Day... %P and %T,,,275800,89,348500,101,Back,12
+294604,Jake,Neade,PA,10,53,66,31,40,51,9,1,1,2,0,1,0,2,0, Full Time,cash,%s from %O and %T on Prestia,subbed,Subbed off in Q3 for Gray,162300,-41,182100,-54,Centre,32
+250308,Brent,Renouf,PA,14,45,56,38,42,49,3,4,2,0,16,0,0,1,0, Full Time,news,%H and %D... also %s,,,310700,,330700,,Ruck,4
+261230,Matthew,Lobbe,PA,8,43,45,36,40,49,3,6,2,0,16,0,0,0,0, Full Time,news,%H and %P,,,334500,88,371100,73,Ruck,23
+292145,Thomas,Jonas,PA,5,38,40,35,36,51,4,6,5,2,0,0,3,0,0, Full Time,job,Has the resting ruck which is mostly Dixon... %P and %M,,,214700,41,291100,45,Back,42
+261396,Robbie,Gray,PA,3,32,17,26,24,33,4,3,2,2,0,0,0,0,0, Full Time,news,On in Q3 for Neade,sub,Started as a sub,276100,,301800,,Forward,9

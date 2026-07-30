@@ -1,0 +1,48 @@
+Melbourne,Demons,Hawthorn,Hawks,R10,6.12.48,21.17.143, Full Time
+Jun 02,2013,3.15,MCG,Seven,281373,10391007,melb-v-haw,0,A shower or two,15,,
+
+<em>Dangeroo</em>: flowertime probably an angry demons supporter if he thinks frawley is one of the best. <br><em>MudDawg</em>: Wonder if Neeld will take his son Jordie McKenzie with him when he gets the alps.<br><em>PieBoy</em>: onya jonesy<br><em>Dangeroo</em>: frawley? don't rate him at all. franklin is clearly a shadow of his former self this season<br><em>ballbag</em>: get off my flowering screen grace you old gold digging tart<br><em>Rockafella</em>: Whos the best defender flowertime?<br><em>3rdstriker</em>: frawley not one of the best defenders for a couple of years<br><em title="FLICKCLINT">flickclint</em>: Birch sc. lol<br><em>FlowerTime</em>: dangeroo you misguided flower&#044; almost a 100 point win + Franklin playing on one of the best defenders in the comp <br><em>scaledup</em>: I wonder if people are still counting buddy as one the premo's.. <br><em>3rdstriker</em>: Goodbye neeld&#044; not your fault<br><em>wolfheart</em>: monty will never spud buddy. Hes a hawthorn homer<br>
+220090,David,Rodan,ME,44,110,104,144,78,112,10,14,2,11,0,1,0,0,1, Full Time,fiji,%2 Hodge... %P including %b by hand... also %T,garbage,Most of his numbers in second half junk time,249000,88,340500,128,Centre,15
+260394,Chris,Dawes,ME,26,98,82,126,86,110,14,7,12,1,1,0,2,1,1, Full Time,news,%s from %D and %M on Lake,,,302800,96,321400,79,Forward,6
+270830,Colin,Garland,ME,18,86,114,118,62,84,16,1,6,5,0,1,1,0,0, Full Time,news,%D and %M,job,In defence on Roughead,288000,67,377600,84,Back,20
+270906,Jordie,McKenzie,ME,20,84,63,107,64,91,6,14,3,7,1,0,0,0,0, Full Time,tagger,Tagging Burgoyne... %D and %T,,,273100,69,297300,50,Centre,13
+250222,Nathan,Jones,ME,13,82,97,99,65,93,11,17,0,3,0,3,0,0,0, Full Time,news,%2 Sewell... %P with %b by hand,,,366300,73,437700,83,Centre,2
+280608,Jack,Trengove,ME,20,82,75,108,60,83,8,8,4,7,1,0,0,0,1, Full Time,news,%2 Shiels... %O and %T plus %s,,,350300,66,373200,54,Centre,9
+200002,Aaron,Davey,ME,18,80,64,103,63,82,15,3,6,1,0,0,0,1,1, Full Time,graph,%s from %D and %M on Guerra... not the worst stepping stone you could have chosen given his breakeven,,,239000,-35,253700,-42,Forward,36
+291313,Jeremy,Howe,ME,18,80,93,101,67,85,13,5,6,1,4,2,1,1,0, Full Time,news,Started on wing on Hill... %s from %P and %M,,,377500,34,406300,50,Forward,38
+270241,Dean,Terlich,ME,9,78,70,100,59,84,13,9,3,3,0,0,0,0,0, Full Time,cash,%P and %T with %M,job,Minding Breust,321800,18,352300,38,Back,46
+294570,Dean,Kent,ME,16,72,72,93,55,72,9,5,4,4,0,1,0,1,0, Full Time,cash,%O and %T with %M starting forward on Duryea,,,102700,8,109500,20,Centre,34
+250548,Lynden,Dunn,ME,16,70,63,96,48,63,8,2,4,7,0,2,0,0,0, Full Time,job,In defence on Lewis... %O and %T,,,300600,71,346500,77,Back Forward,14
+280972,Jack,Watts,ME,15,69,65,87,59,73,10,4,8,0,0,0,0,1,1, Full Time,news,%s from %D and %M playing forward on Stratton,,,315100,54,388400,89,Back Forward,4
+250345,Rohan,Bail,ME,9,65,63,83,52,70,7,8,5,3,0,0,0,0,1, Full Time,news,%O including %B with %M and %T... also %s... matched up on Mitchell on a HFF,,,208400,93,207500,89,Centre,44
+280758,Jack,Fitzpatrick,ME,7,59,48,72,50,63,5,6,4,2,10,0,0,0,2, Full Time,news,Starting forward on Birchall... %D and %M... %H in ruck support,,,146800,,209700,,Ruck,48
+292029,Cameron,Pedersen,ME,5,59,81,75,48,63,7,7,5,2,0,1,0,0,0, Full Time,news,%D and %M,job,In defence on Grimley,263100,65,266400,51,Back Ruck,21
+260288,James,Frawley,ME,9,57,62,78,46,63,9,3,6,3,0,0,2,0,0, Full Time,job,On Franklin... %D and %T with %M,sore,Leg knock late in Q4,302500,65,309300,76,Back,8
+220052,Mark,Jamar,ME,20,56,54,63,53,59,1,3,2,2,35,1,1,0,0, Full Time,news,%H and %P,,,355200,86,431300,105,Ruck,40
+230130,Joel,MacDonald,ME,9,56,-,70,50,67,4,10,6,2,0,0,1,0,1, Full Time,news,%s from %O and %M starting forward,,,328400,,385200,,Back,28
+294741,Michael,Evans,ME,11,52,47,67,45,60,5,6,4,3,0,1,2,1,0, Full Time,garbage,%D and %M... also %T... got %s late in junk time,,,293700,53,288400,61,Centre,32
+270937,James,Strauss,ME,10,48,47,67,39,57,7,4,4,4,0,0,3,0,0, Full Time,job,Chasing Puopolo... %P and %T with %M,,,203700,51,247800,70,Back,19
+296027,Matt,Jones,ME,3,40,39,54,29,39,5,2,3,3,0,0,0,0,0, Full Time,news,%O and %T with %M,subbed,Subbed off in Q3 for Tapscott,350500,54,363600,64,Centre,45
+280579,Luke,Tapscott,ME,3,38,28,50,30,39,6,2,4,1,0,0,0,0,0, Full Time,news,On in Q3 for Matt Jones,sub,Started as a sub,243700,70,237100,70,Back,35
+250089,Jordan,Lewis,HW,21,111,129,63,88,120,19,10,3,3,8,1,1,1,1, Full Time,hot,First goal... %s from %P and %M... started forward on Dunn... %H as well,,,447000,63,489800,58,Forward Centre,3
+230197,Brad,Sewell,HW,26,109,117,73,82,120,17,14,3,6,0,0,1,0,0, Full Time,hot,%2 Nathan Jones... %K among %D with %M and %T,,,378300,99,424500,119,Centre,12
+280744,Luke,Breust,HW,27,101,100,82,85,102,10,5,5,3,0,1,0,5,3, Full Time,star,A lot of supply in this one-sided game... %s from %D and %M on Terlich... also %T,,,365900,132,450300,144,Forward,22
+220036,David,Hale,HW,21,97,101,97,84,106,5,12,5,5,24,1,1,0,1, Full Time,news,%H and %D with %T and %s,,,340600,31,445500,48,Forward Ruck,20
+220039,Brian,Lake,HW,25,96,96,84,78,102,10,10,10,4,0,0,0,0,0, Full Time,news,%M and %O... also %T,job,Standing Dawes,344000,80,393900,77,Back,17
+260710,Paul,Puopolo,HW,20,94,84,59,74,99,14,11,1,3,0,3,0,2,0, Full Time,vulture,%s from %D on Strauss... also %T... all his goals in Q4 garbage time,,,287200,69,318200,91,Forward,28
+294877,Isaac,Smith,HW,21,94,99,75,73,97,11,8,4,5,0,0,0,2,1, Full Time,seagull,%P and %T plus %s,,,372800,88,369100,87,Centre,16
+250652,Jonathan,Simpkin,HW,20,93,90,49,74,100,17,8,5,1,0,0,0,1,1, Full Time,news,%P and %M plus %s,,,237900,-22,250200,-47,Centre,32
+240357,Jarryd,Roughead,HW,28,90,101,90,70,89,6,6,4,7,1,0,0,3,1, Full Time,news,Garland on him... %s from %P and %T... also %G,,,471800,96,545900,104,Forward Ruck,2
+240302,Grant,Birchall,HW,20,78,118,43,67,93,13,12,4,0,0,0,1,1,0, Full Time,news,%P and %M... also %s,job,Responsible for Fitzpatrick,411800,146,436400,159,Back,14
+295584,Bradley,Hill,HW,15,76,75,48,63,84,11,9,3,1,0,0,0,2,0, Full Time,news,%s from %O and %M starting on a wing on Howe,,,281500,74,266500,73,Centre,10
+210012,Shaun,Burgoyne,HW,15,72,86,46,61,87,11,11,3,2,0,0,2,1,0, Full Time,tagged,Tagged by McKenzie... spent a fair bit of time forward... %P and %%M plus %s,,,398800,68,421400,56,Back Centre,9
+290085,Taylor,Duryea,HW,9,71,67,46,55,75,12,5,5,3,0,1,1,0,0, Full Time,cash,%P and %M,job,Kent is his man,220100,57,235000,64,Centre,41
+220073,Sam,Mitchell,HW,8,66,74,48,54,81,8,16,0,3,0,1,1,0,0, Full Time,news,%B among %D,job,Running off Bail at HB,490800,108,544700,97,Centre,5
+292013,Sam,Grimley,HW,15,64,67,50,58,73,6,9,4,0,9,0,0,1,1, Full Time,news,%P and %M when forward on Pedersen... also %H,,,108500,,115900,,Ruck,35
+280471,Ben,Stratton,HW,9,62,70,53,52,69,6,10,5,2,0,1,0,0,0, Full Time,job,Has Watts... %D and %M,,,347100,64,362100,73,Back,24
+240399,Lance,Franklin,HW,13,60,81,39,54,72,8,9,1,1,0,2,2,2,3, Full Time,news,%s from %P on Frawley,,,381700,55,453700,69,Forward,23
+200060,Brent,Guerra,HW,8,56,74,31,47,66,9,11,2,0,0,1,0,0,0, Full Time,flash,Davey is his man... %O,,,327900,80,397700,99,Back,18
+220047,Luke,Hodge,HW,7,53,76,28,43,65,10,8,1,2,1,0,2,0,1, Full Time,news,%2 Rodan... %P and %T... kicked %s,subbed,Subbed off in Q3 for Cheney,442000,110,503100,139,Centre,15
+280737,Liam,Shiels,HW,3,46,40,30,37,51,7,6,3,1,0,0,0,0,0, Full Time,news,%2 Trengove... %O and %T,,,371700,38,363100,42,Centre,26
+250715,Josh,Gibson,HW,4,43,59,35,39,51,4,9,4,0,0,1,0,0,0, Full Time,news,%D and %M,,,355800,22,404100,60,Back,6
+270215,Kyle,Cheney,HW,1,16,16,5,14,21,4,2,1,0,0,0,1,0,0, Full Time,news,On in Q3 for Hodge,sub,Started as a sub,209500,,250600,,Back,13

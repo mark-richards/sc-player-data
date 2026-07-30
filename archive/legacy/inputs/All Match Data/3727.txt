@@ -1,0 +1,48 @@
+Carlton,Blues,Essendon,Bombers,R4,11.13.79,11.13.79, Full Time
+Apr 16,2011,2:10,MCG,Ten,270899,10310403,5478,28,Cloudy and windy,21
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em title="SUPERSTAR3">superstar3</em>: ratten the big winner in this game. if he lost&#044; his time would be about up<br><em>RoidRager</em>: @BoredSaint: Come unders Score involvements&#044; champ<br><em>BoredSaint</em>: pretty sure they dont.. check the rules i may be wrong<br><em>walle</em>: thanks superstar...understand the adjustment system - but 80 at 1st quarter and 74 at final siren is more than that...<br><em>RoidRager</em>: @BoredSaint: goal assists do count in SC&#044; champ.<br><em>BoredSaint</em>: duigan went down to 107 :(<br><em title="SUPERSTAR3">superstar3</em>: walle&#044; you need to understand how sc works before commenting<br><em>BoredSaint</em>: goal assists dont count in SC<br><em>BoredSaint</em>: everyone was bagging kade simpson at the start.. he proved everyone wrong :P<br><em>skystyler</em>: thought Hurley would score better in SC. Lots of goal assists in the last qtr.<br><em>BoredSaint</em>: i may get my highest SC score yet.. with all my saints and bulldogs guns out<br><em>goinape</em>: nice week to have a super-bye. A lot of my rookies outperforming my guns at the minute<br>
+220015,Andrew,Carrazzo,CA,56,142,121,188,105,139,15,9,9,11,1,1,0,1,0, Full Time,hot,%O and %M plus %T,tagger,Tagging Stanton
+290311,Mitch,Robinson,CA,25,100,92,134,74,98,14,4,8,6,1,0,0,0,1, Full Time,hot,%D and %T with %M and %s,sore,Right quad corkie in Q1
+990059,Heath,Scotland,CA,19,98,133,127,78,105,16,9,7,3,0,2,1,0,0, Full Time,news,%B among %D with %T and %M,,
+220110,Jarrad,Waite,CA,25,93,80,122,78,98,13,4,10,3,0,2,2,1,2, Full Time,news,Booted %s from %G and %O on Hooker... also %T... poor Q1 but lifted considerably in Q2,,
+261009,Nick,Duigan,CA,20,93,107,120,80,105,13,10,10,2,0,2,2,0,0, Full Time,cash,On Monfries... %P and %M with %T,,
+270146,Ed,Curnow,CA,20,90,99,112,71,99,9,14,3,5,0,0,0,1,0, Full Time,cash,%D and %T with %M,tagger,Tagging Watson but not doing a great job of it
+250417,Bryce,Gibbs,CA,21,89,74,118,66,92,13,7,4,6,1,1,1,0,1, Full Time,news,%O and %M with %T and %s,,
+250105,Marc,Murphy,CA,19,86,111,103,73,102,13,16,2,1,0,2,1,1,0, Full Time,news,%P and %M and %s,,
+271110,Chris,Yarran,CA,25,85,105,110,63,90,12,9,1,6,0,1,1,1,0, Full Time,sore,%P and %T... right knee knock in Q3,,
+250090,Jordan,Russell,CA,21,83,79,113,56,78,9,5,3,9,0,1,0,0,0, Full Time,news,%O and %T with %M,,
+230202,Kade,Simpson,CA,21,80,114,100,68,90,10,7,4,3,0,0,2,3,0, Full Time,sore,%O and %T plus %s... knock to his hip in Q2,,
+220056,Chris,Judd,CA,13,79,84,100,61,90,10,14,1,5,0,1,1,0,0, Full Time,tagged,Tagged by Hocking... %O and %T,,
+250672,Robert,Warnock,CA,25,79,90,91,74,90,7,8,3,1,27,2,2,1,0, Full Time,sore,%H and %D with %M... soreness in his right hip and/or leg in Q2 but played on,,
+270653,Jeff,Garlett,CA,16,69,51,88,54,69,7,6,4,4,0,2,0,1,0, Full Time,news,%s from %D and %M with %T on Dempsey,,
+270899,Jeremy,Laidler,CA,11,57,81,72,46,60,5,6,4,3,0,0,0,1,0, Full Time,cash,Standing the resting ruckman at FB... %P and %s,,
+261043,Michael,Jamison,CA,4,49,70,64,37,51,8,4,3,2,0,0,0,0,0, Full Time,job,On Hurley... %M and %D with %T,,
+260104,Andrew,Collins,CA,9,44,10,61,37,53,5,4,4,4,0,0,3,0,2, Full Time,news,Matched up on Hardingham... %O and %M with %T and %s,,
+240014,Andrew,Walker,CA,8,41,43,57,29,36,4,0,4,4,0,1,0,0,0, Full Time,news,On in Q3 for Henderson,sub,Started as a sub
+270637,Simon,White,CA,4,39,56,52,32,48,7,5,2,2,0,0,2,0,0, Full Time,switch,%D and %M with %T... tried up forward but didn't score,,
+270737,Shaun,Hampson,CA,8,37,52,43,34,43,1,5,1,2,16,0,1,0,0, Full Time,news,%H and %P,,
+240060,Eddie,Betts,CA,2,29,36,39,21,32,4,3,0,3,0,0,1,0,2, Full Time,news,%s from %O with %T,,
+270326,Lachie,Henderson,CA,1,20,22,27,14,18,2,1,1,2,0,1,0,0,0, Full Time,news,Providing nothing up forward on Fletcher... %O and %T,subbed,Subbed off in Q3 for Walker
+240027,Brent,Stanton,ES,38,122,123,89,90,122,18,7,5,8,1,2,1,1,1, Full Time,hot,Tagged by Carrazzo... %P and %T,,
+230231,Jobe,Watson,ES,26,111,116,84,92,124,13,17,6,3,0,1,0,1,1, Full Time,hot,Rather ineffectual tag on him by Curnow... %O and %M with %T and %s,,
+270951,David,Zaharakis,ES,25,105,96,85,84,108,13,6,9,5,0,1,1,1,3, Full Time,hot,%s from %P and %M... also %T,,
+250569,Heath,Hocking,ES,43,94,89,99,63,88,7,8,2,12,0,2,0,0,1, Full Time,tagger,Tagging Judd... %O and %T,,
+960197,Dustin,Fletcher,ES,24,94,136,77,73,93,11,7,6,5,0,3,0,1,0, Full Time,job,Able to run off Henderson with ease... %D and %M plus %s,,
+210079,Nathan,Lovett-Murray,ES,19,90,99,68,72,99,12,11,6,4,0,1,1,0,0, Full Time,news,%P and %M with %T,,
+290629,Dyson,Heppell,ES,20,90,105,63,64,90,14,7,3,6,0,1,0,0,0, Full Time,cash,%P and %T,,
+270588,Cale,Hooker,ES,13,73,68,51,64,84,11,7,9,1,0,1,2,0,0, Full Time,job,Following Waite... %M and %P,,
+240319,Sam,Lonergan,ES,14,71,76,45,54,72,11,5,1,3,0,1,0,2,0, Full Time,news,%K among %D with %T and %s,,
+261320,Tom,Bellchambers,ES,16,69,76,52,62,74,7,5,2,1,23,2,1,1,0, Full Time,news,%H and %D with %s,,
+270584,Kyle,Hardingham,ES,5,63,71,47,50,66,9,5,5,3,0,2,1,0,0, Full Time,job,Minding Collins... %D and %T with %M,,
+260073,Ben,Howlett,ES,7,62,55,30,45,66,13,5,1,3,0,1,1,0,0, Full Time,news,%D and %T,,
+280824,Jake,Melksham,ES,11,61,54,42,49,66,10,2,5,3,0,0,2,1,0, Full Time,news,%O and %M with %T,,
+250267,Patrick,Ryder,ES,11,56,32,52,46,62,6,2,4,5,10,0,3,0,1, Full Time,news,%D and %T with %M... also %H,,
+270935,Michael,Hurley,ES,9,55,63,33,44,57,9,3,3,1,1,0,0,1,2, Full Time,news,First goal... %s from %G and %P on Jamison,,
+292503,Stewart,Crameri,ES,5,55,69,54,47,62,4,8,5,3,1,1,1,0,1, Full Time,news,%D and %M,,
+250352,Leroy,Jetta,ES,10,53,73,33,45,60,8,5,2,1,0,0,1,2,0, Full Time,news,%s from %D,,
+240290,Angus,Monfries,ES,4,50,68,39,44,58,6,7,5,1,0,1,1,0,1, Full Time,news,Duigan thrashing him so far... %O and %M,,
+250049,Brent,Prismall,ES,9,48,41,48,38,57,4,8,2,5,0,0,2,0,0, Full Time,news,On in Q1 for Winderlich... %O and %T,sub,Started as a sub
+990046,Mark,McVeigh,ES,4,43,65,27,31,45,8,2,2,3,0,0,1,0,0, Full Time,news,%D and %T,,
+240245,Courtenay,Dempsey,ES,1,14,11,16,12,18,0,5,0,1,0,0,0,0,0, Full Time,longterminjured,Has Garlett... %D... left knee knock in Q1 as his leg twisted in a marking contest... tracksuit on and suspected ACL rupture,,
+230238,Jason,Winderlich,ES,1,11,6,10,10,12,1,1,2,0,0,0,0,0,0, Full Time,longterminjured,Left knee injury in Q1 looked very bad... club doctor says it's an ACL rupture... %P and %M,subbed,Subbed off in Q1 for Prismall

@@ -1,0 +1,48 @@
+Sydney,Swans,Brisbane,Lions,R15,16.14.110,9.9.63, Full Time
+Jul 7,2012,4:40,SCG,Fox Sports,290117,10341504,430128,0,Possible shower,17,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>runt</em>: go flower off all you rockliff haters<br><em>max41</em>: x-factor malceski set up a lot of play<br><em>Murf2Gibbs</em>: 34 sc quarter zorko you gun <br><em>buttersMIZ</em>: daddsy321 not good enough<br><em>frenzy</em>: zorko will be 70k + over the spud that is dustbin martin<br><em>SydneyRox</em>: Gun for McVeigh - he was everywhere<br><em>Changeling</em>: Wt<br><em>BillyPick</em>: Where we're u rocky when they needed u?  U will never be a top player<br><em>K-Red7</em>: gun for goodes<br><em>SydneyRox</em>: well done boys. Good win - Top spot is ours!<br><em>agwager</em>: Give zorko all the icons. Including the golden fist for that muppet moment earlier in the game<br><em>K-Red7</em>: gun for goodes <br>
+230253,Jarrad,McVeigh,SY,32,141,152,176,113,150,18,16,7,5,0,2,0,2,0, Full Time,hot,%O and %M with %T and %s,,
+980073,Adam,Goodes,SY,38,137,148,174,113,139,14,8,13,5,0,1,0,3,1, Full Time,hot,Kicked %s from %D and %M on Patfull... also %T,,
+230132,Nick,Malceski,SY,19,102,100,131,81,112,19,10,6,2,0,1,1,0,1, Full Time,hot,%P and %M plus %s,in,Late replacement for Martin Mattner
+290188,Samuel,Reid,SY,33,95,129,114,82,94,9,2,6,2,0,1,0,6,1, Full Time,star,Booted %s from %G and %P on McKeever then got Merrett in Q2,,
+260382,Josh P.,Kennedy,SY,16,83,97,102,74,108,11,19,4,2,0,1,3,0,0, Full Time,news,%2 Rockliff... %D and %M with %T,,
+200071,Ryan,O'Keefe,SY,26,80,90,99,65,93,3,17,2,7,0,0,1,1,0, Full Time,news,%P and %T with %M and %s,,
+240226,Kieren,Jack,SY,9,80,102,102,63,86,15,8,3,2,0,3,1,0,2, Full Time,rain,Tagged by Raines... %O and %M with %T and %s,,
+291206,Mike,Pyke,SY,27,78,75,94,65,77,1,6,3,6,23,1,0,1,0, Full Time,canada,%H and %P with %T and %M... also %s,,
+281281,Lewis,Jetta,SY,14,73,90,92,58,78,13,6,4,1,0,0,0,1,0, Full Time,tagged,Tagged by Stiller... %O and %M plus %s,,
+290117,Daniel,Hannebery,SY,15,73,82,90,62,84,11,10,4,1,0,1,1,1,0, Full Time,news,%B among %O with %M and %s,,
+261257,Andrejs,Everitt,SY,9,69,52,90,51,68,8,6,3,5,0,2,0,0,2, Full Time,news,%s from %P and %M plus %T,,
+280762,Shane,Mumford,SY,16,69,63,84,61,75,4,6,3,4,23,2,2,0,1, Full Time,news,Starting in ruck this week... %H and %P with %M and %T... also %s,,
+990011,Jude,Bolton,SY,13,69,69,86,57,82,4,15,3,5,0,0,1,0,1, Full Time,news,%D and %M with %T on Hanley,,
+200023,Rhyce,Shaw,SY,8,68,84,89,54,79,16,6,3,1,0,0,2,0,1, Full Time,news,%P and %M plus %s,,
+210027,Ted,Richards,SY,12,65,81,83,54,69,9,6,7,1,0,1,0,0,0, Full Time,job,Has Merrett then got Lester in Q3... %D and %M,,
+230140,Ben,McGlynn,SY,15,58,64,74,44,57,6,5,2,4,0,2,0,1,0, Full Time,news,%s from %D and %T on Harwood,,
+240072,Heath,Grundy,SY,7,52,92,66,44,63,12,7,2,0,0,2,2,0,0, Full Time,job,Following Brown... %P and %M,,
+220089,Lewis,Roberts-Thomson,SY,4,47,61,59,39,49,8,4,4,0,0,2,0,0,1, Full Time,news,%s from %P and %M on Drummond,,
+250338,Nick,Smith,SY,7,47,61,55,44,63,5,13,3,0,0,0,1,0,0, Full Time,job,Minding Green... %O and %M,,
+291450,Alex,Johnson,SY,8,47,52,62,33,45,6,4,1,4,0,2,0,0,0, Full Time,job,Karnezis is his man... %D and %T,subbed,Subbed off in Q4 for Armstrong
+261212,Craig,Bird,SY,4,42,45,55,33,48,7,5,2,2,0,0,1,0,0, Full Time,tagger,Tagging Rich... %P and %M,,
+270170,Tony,Armstrong,SY,0,15,14,20,11,15,2,1,1,1,0,0,0,0,0, Full Time,news,On in Q4 for Johnson,sub,Started as a sub
+261224,Dayne,Zorko,BL,43,140,121,121,111,150,15,16,10,8,1,1,1,0,2, Full Time,cherry,%P and %T with %M and %s,,
+270512,Pearce,Hanley,BL,16,119,119,64,91,128,22,12,5,3,2,0,0,0,0, Full Time,hot,%B among %D with %M,job,Bolton manning him up
+240087,Jed,Adcock,BL,31,111,111,82,84,111,17,4,10,6,0,1,1,0,0, Full Time,hot,%O and %M plus %T,,
+270919,Tom,Rockliff,BL,20,96,69,67,78,109,14,13,5,4,0,2,2,0,1, Full Time,garbage,%2 Kennedy... well beaten but racked it up in garbage time... %P and %T with %M and %F,,
+290808,Patrick,Karnezis,BL,22,90,88,80,77,94,9,4,11,3,0,0,1,2,1, Full Time,news,First goal.... %s from %P and %M on Johnson... also %T,,
+200121,Josh,Drummond,BL,14,84,94,44,67,93,17,5,7,2,0,0,2,0,0, Full Time,news,%O and %M plus %T,job,Responsible for Roberts-Thomson
+281048,Ryan,Harwood,BL,14,84,76,55,71,93,13,9,8,1,0,2,1,0,0, Full Time,news,%P and %M,job,Minding McGlynn
+271072,Daniel,Rich,BL,15,76,90,41,63,80,13,5,4,0,2,1,0,2,0, Full Time,tagged,Tagged by Bird... %P and %M plus %s,,
+293871,Jack,Crisp,BL,15,73,86,57,58,76,9,6,5,3,0,0,0,1,1, Full Time,news,%P and %M plus %T and %s,,
+240710,Ben,Hudson,BL,14,66,91,59,62,81,4,12,1,2,24,1,2,0,0, Full Time,news,%H and %P with %T... also %F,,
+281373,Jack,Redden,BL,10,66,54,56,59,84,7,13,5,3,0,1,3,0,0, Full Time,news,Very quiet first half and only woke up when it was all over... %D and %M... also %F,,
+281329,Rohan,Bewick,BL,10,63,54,46,53,67,8,6,5,1,0,1,0,1,1, Full Time,news,%s from %P and %M,,
+240013,Andrew,Raines,BL,14,62,66,48,53,78,7,13,1,3,0,0,2,1,0, Full Time,tagger,Tagging Jack... %P and %s,,
+230170,Joel,Patfull,BL,9,60,58,49,49,69,7,9,4,3,0,0,1,0,0, Full Time,news,%M and %D with %T,job,Following Goodes
+250053,Cheynee,Stiller,BL,8,59,52,32,48,60,11,3,6,0,0,2,0,0,0, Full Time,tagger,Tagging Jetta... %D and %M,,
+200007,Jonathan,Brown,BL,10,56,49,37,50,64,8,5,3,1,0,2,2,2,1, Full Time,news,Kicked %s from %D on Grundy,,
+291548,Ryan,Lester,BL,5,55,49,40,45,60,8,5,5,2,0,1,1,0,0, Full Time,switch,Various jobs then settled forward on Richards in Q3 when Merrett switched forward... %O and %M with %T,,
+230147,Daniel,Merrett,BL,9,53,55,42,46,61,7,5,6,2,1,1,2,0,0, Full Time,switch,%D and %M on Richards... switched back on Reid in Q2,,
+260975,James,Polkinghorne,BL,4,43,30,28,38,53,7,5,4,1,1,0,2,0,1, Full Time,news,%D and %M... also %F,,
+292508,Niall,McKeever,BL,4,42,50,36,34,48,4,8,2,2,0,0,0,0,0, Full Time,job,Standing Reid... %O and %T,,
+292035,Claye,Beams,BL,1,24,10,28,17,24,1,3,1,3,0,0,0,0,0, Full Time,in,%l Simon Black... on in Q3 for Green,sub,Started as a sub
+290748,Joshua,Green,BL,1,12,24,6,10,15,2,3,0,0,0,0,0,0,0, Full Time,news,%P on Smith,subbed,Subbed off in Q3 for Beams

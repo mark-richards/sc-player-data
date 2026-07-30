@@ -1,0 +1,48 @@
+Melbourne,Demons,St Kilda,Saints,R5,10.6.66,12.12.84, Full Time
+Apr 28,2012,7:40,MCG,Seven,210001,10340505,430048,0,Rain periods,19,,
+
+<em>Rated_RKO</em>: okay Geary&#044; i forgive you... only cause bartel didnt ton up <br><em>TheoX</em>: hey monty sc flowered in other game<br><em title="LIVERPOOL">liverpool</em>: finally i can say with confidence EAD goddard dreamteamers i will get him 200k less<br><em>Jormas</em>: flower godd...<br><em>Smirks</em>: i play up foward monty dont need to spoil much<br><em>Scottie1</em>: mowie13=tool<br><em>Blue_Steel</em>: Haha flower off SC Goddard 10 pts more than Stanley <br><em>Pokerface</em>: pumpkin for geary m0nty<br><em style='color:#e50000'>m0nty</em>: no spoilers from the other game please<br><em>LivesFooty</em>: Goddard 60 SC<br><em>WEEEagles</em>: nds good sc<br><em>hoky_90</em>: grimes was always gonna come good. and for drummond? seriously?<br>
+261297,Jack,Grimes,ME,26,111,120,145,81,114,16,11,4,7,0,1,0,0,0, Full Time,hot,%O and %T with %M,job,Responsible for Wilkes until Wilkes was subbed in Q3 when he got Goddard
+250222,Nathan,Jones,ME,31,108,108,136,80,112,16,11,0,6,0,1,0,2,1, Full Time,hot,Starting forward on Dempster... %s from %D and %T,,
+250510,Matthew,Bate,ME,24,90,71,118,71,93,13,5,7,4,0,1,1,1,0, Full Time,news,%s from %P and %M,,
+230151,Brent,Moloney,ME,21,89,93,117,69,97,16,6,4,4,0,0,2,1,1, Full Time,news,First goal... %P and %s,,
+270985,Cale,Morton,ME,14,87,82,115,63,90,16,6,2,5,3,1,1,0,0, Full Time,news,%O and %T,,
+260176,James,Magner,ME,25,86,79,113,60,87,10,10,1,8,0,1,0,0,0, Full Time,heart,%P and %T... left knee caught under Tapscott early in Q3... back on after five minutes with strapping,tagger,Moved his tag from Montagna to Dal Santo in Q2
+220052,Mark,Jamar,ME,38,84,95,95,77,88,7,2,0,2,55,2,2,0,0, Full Time,news,%H and %D,,
+230130,Joel,MacDonald,ME,20,74,84,99,55,78,9,7,4,6,0,0,1,0,0, Full Time,news,%O and %M with %T and %F,,
+291533,Tom,McDonald,ME,13,70,91,92,55,81,9,10,3,5,0,0,2,0,0, Full Time,job,Has Riewoldt... %D and %T,,
+270906,Jordie,McKenzie,ME,20,68,62,94,49,72,7,7,1,9,0,3,3,0,0, Full Time,news,%D and %T,tagger,Tagging Goddard
+280608,Jack,Trengove,ME,24,68,76,94,48,73,10,6,0,8,1,2,3,0,0, Full Time,news,%2 Dal Santo... %D and %T... also %F,,
+250245,Clint,Bartram,ME,15,66,81,84,50,69,6,8,2,5,0,0,0,1,0, Full Time,news,%D and %T,,
+270830,Colin,Garland,ME,15,63,77,85,44,61,7,4,3,6,0,0,0,0,1, Full Time,job,Chasing Milne... %P and %T,sore,Ankle knock in Q3... right hip knock in Q4
+291313,Jeremy,Howe,ME,8,61,63,77,48,67,9,8,3,2,0,0,0,0,1, Full Time,news,Kicked %s from %P and %M on Simpkin,,
+230250,Jared,Rivers,ME,9,59,73,79,47,63,12,3,4,2,0,3,2,0,0, Full Time,job,Standing Stanley... %O and %M,,
+200002,Aaron,Davey,ME,14,57,70,73,43,61,6,7,0,5,0,1,1,1,1, Full Time,news,%s from %P on Geary... also %T,,
+250345,Rohan,Bail,ME,11,53,67,67,47,66,6,7,2,3,0,0,3,2,0, Full Time,news,Playing a fair bit across half forward... %s from %P... also %F,,
+280579,Luke,Tapscott,ME,8,50,53,69,33,45,7,1,2,5,0,1,0,0,0, Full Time,job,Minding Cripps... %P,in,Late replacement for James Frawley
+250548,Lynden,Dunn,ME,9,49,44,61,39,51,8,4,2,1,0,1,0,1,0, Full Time,tagger,Moved to forward tag Fisher in Q1... %P,subbed,Subbed off in Q3 for Sylvia
+280972,Jack,Watts,ME,9,42,52,51,37,49,7,5,2,0,1,1,1,1,0, Full Time,news,Forward tag role on Fisher but moved off in Q2... %s from %P and %M,,
+240037,Colin,Sylvia,ME,7,37,60,51,24,33,3,2,1,5,0,1,0,0,0, Full Time,news,On in Q3 for Dunn,sub,Started as a sub
+250418,James,Sellar,ME,3,36,63,42,30,39,2,6,0,2,9,1,0,0,0, Full Time,news,%P on Blake... also %H,,
+250340,David,Armitage,SK,32,122,115,96,88,123,16,12,4,9,0,2,0,0,0, Full Time,hot,%D and %M with %T,,
+990028,Lenny,Hayes,SK,37,115,130,80,83,115,18,7,3,8,1,2,1,1,0, Full Time,star,%O and %M with %T and %s,,
+270912,Jack,Steven,SK,50,102,111,85,71,99,13,4,2,10,0,0,1,2,0, Full Time,hot,%P and %T plus %M and %s,,
+220023,Nick,Dal Santo,SK,19,96,110,56,72,103,16,14,0,4,0,3,0,0,1, Full Time,tagged,%2 Trengove in Q1 then copped Magner's tag in Q2... %P and %T plus %s,,
+220075,Leigh,Montagna,SK,25,87,101,74,64,90,9,12,0,7,0,2,0,1,0, Full Time,news,Tagged by Magner in Q1 then freed up... %D and %T plus %s,,
+261323,Ben,McEvoy,SK,16,83,106,68,71,87,8,6,3,3,27,2,1,0,0, Full Time,news,%H and %D plus %M and %T,,
+210001,Nick,Riewoldt,SK,16,80,87,69,62,78,8,5,3,5,0,2,0,2,3, Full Time,news,Should treat young McDonald like a rag doll.... %s from %D and %T,,
+220034,Jason,Gram,SK,14,75,71,55,57,81,10,11,2,4,0,1,0,0,0, Full Time,news,%P and %M,,
+240708,Sam,Fisher,SK,9,72,82,35,60,84,14,9,5,0,0,0,1,0,0, Full Time,tagged,Forward tag on him by Watts in Q1 but 10 touches later he got Dunn in Q2... %M and %O,,
+200108,Stephen,Milne,SK,12,71,68,51,55,69,10,1,4,3,0,0,0,2,3, Full Time,news,%s from %O and %M on Garland,,
+230243,Sean,Dempster,SK,5,65,55,40,47,63,12,1,5,3,0,0,0,0,0, Full Time,news,%O and %M with %T,job,Responsible for Jones
+261743,Clinton,Jones,SK,38,63,55,67,41,66,6,5,0,11,0,0,3,0,0, Full Time,news,%O and %T,,
+280317,Rhys,Stanley,SK,15,62,52,43,55,69,9,3,6,1,6,1,2,1,0, Full Time,news,Booted %s from %G and %P on Rivers,,
+230084,Brendon,Goddard,SK,12,58,58,37,44,62,10,5,1,4,0,3,2,0,2, Full Time,news,Tagged by McKenzie and did not cope with it at all... went forward in Q4 on Grimes for %s... %D and %F,,
+270766,Terry,Milera,SK,14,55,64,46,38,55,7,5,0,6,1,2,1,0,0, Full Time,news,Started very slowly but woke up late in Q2... %D and %T,,
+290826,Jamie,Cripps,SK,8,52,72,38,34,51,8,4,0,5,0,0,0,0,0, Full Time,news,%O and %T on Tapscott,,
+250036,Beau,Wilkes,SK,16,47,52,43,43,52,4,1,4,2,0,0,2,3,1, Full Time,in,Late replacement for Jack Newnes... forward on Grimes... %s from %D and %M,subbed,Subbed off in Q3 for Polo
+250134,Sam,Gilbert,SK,4,41,61,34,32,45,5,5,2,3,0,1,1,0,0, Full Time,news,Donuts in Q1... %D,,
+200068,Jason,Blake,SK,8,37,45,38,30,45,3,6,2,4,0,0,2,0,0, Full Time,job,Has Sellar... %P and %T with %M,sore,Tweaked his knee in Q4
+280053,Tom,Simpkin,SK,2,35,71,27,26,39,5,4,1,3,0,0,1,0,0, Full Time,job,Howe is his man... %D,,
+250066,Dean,Polo,SK,2,32,42,19,24,34,6,2,1,2,1,1,1,0,0, Full Time,news,On in Q3 for Wilkes,sub,Started as a sub
+260113,Jarryn,Geary,SK,2,17,28,10,18,27,3,4,2,0,0,0,2,0,0, Full Time,job,Has Davey.. %M and %D,,

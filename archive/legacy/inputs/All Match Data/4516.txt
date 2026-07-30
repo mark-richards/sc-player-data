@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Western Sydney,Giants,R14,19.16.130,6.8.44, Full Time
+Jun 30,2013,3.15,Docklands,Seven,230232,10391408,nmfc-v-gws,0,Roof closed,16,,
+
+<em style='color:#ff028d'>Sloaneyyyy</em>: lmao how did not a single north player crack the tonne! <br><em style='color:#ff028d'>preki1</em>: gws should tag everyone.  whoever tags get a hundred.<br><em style='color:#ff028d'>bombers27</em>: biggest flat track bullies in the AFL<br><em style='color:#ff028d'>RooBoyStu</em>: 86pts&#044; not bad&#044; now for the Tiges next week!<br><em style='color:#ff028d'>Grazz</em>: Siren<br><em style='color:#ff028d' title="OLDSALTY">oldsalty</em>: 30 secs<br><em style='color:#ff028d'>itsmelads</em>: @springyboy they are showing this game <br><em style='color:#ff028d'>itsmelads</em>: how long left?<br><em style='color:#ff028d'>itsmelads</em>: come on swallow&#044; you've come this far it's be s shame if you didnt ton up.<br><em style='color:#ff028d'>Springyboy</em>: @itsmelads its b/c there was a game on thursday this week so 7 showed live footy thursday friday saturday & not sunday<br><em style='color:#ff028d'>matthius</em>: oh&#044; i'll watch fox sports and check it out. thought dennis was having a lend<br><em style='color:#ff028d'>itsmelads</em>: Wish channel 7 were showing the tigers game.<br>
+250285,Leigh,Adams,NM,30,99,106,127,78,102,9,10,7,6,0,1,0,1,0, Full Time,bluemoon,%s from %O and %M with %T starting forward on Haynes but zoning up to midfield a lot,,,313600,84,356300,101,Forward Centre,13,12,62.6,70.4,1.15,1.20
+210023,Drew,Petrie,NM,27,97,138,119,81,93,10,1,6,3,2,2,0,5,1, Full Time,news,First goal... Mohr on him... %s from %P and %G including three majors in Q1... also %T and %H,,,430400,136,559600,192,Forward,20,12,80.8,97.6,3.56,4.24
+250373,Lachlan,Hansen,NM,20,97,94,125,85,111,14,10,12,1,0,1,2,0,0, Full Time,sore,%M and %O... also %F... right hamstring soreness in Q4,job,Following Tomlinson,324200,93,327400,95,Forward,6,10,64.2,62.4,0.51,0.48
+250557,Sam,Gibson,NM,20,97,102,123,76,106,13,13,5,4,0,0,0,0,1, Full Time,news,%P and %T with %M,,,401200,91,395500,71,Centre,43,12,84.6,75,0.40,0.39
+281395,Scott D.,Thompson,NM,19,97,124,122,83,111,16,12,9,0,0,1,1,0,0, Full Time,news,%M and %P,job,On O'hAilpin,371900,81,473900,113,Back,16,12,76.4,94.8,1.87,3.02
+960491,Brent,Harvey,NM,25,96,110,116,87,113,13,11,7,0,0,0,2,3,2, Full Time,tagged,Tagged by Greene... %P and %M plus %s,,,421600,146,497200,169,Forward Centre,29,6,84.8,98.8,3.35,6.09
+240131,Nathan,Grima,NM,15,90,91,118,70,93,14,6,8,3,0,0,0,0,0, Full Time,star,%M and %D with %T in a free ranging role with the Giants flooding back,subbed,Subbed off in Q4 for MacMillan,306300,40,374900,13,Back,17,11,61,72.9,0.74,0.62
+240417,Andrew,Swallow,NM,14,90,91,114,71,97,11,13,3,5,0,4,1,0,1, Full Time,tagged,Tagged by Treloar... %O and %s,,,468000,95,524900,124,Centre,9,12,103.2,108.5,13.27,7.86
+290787,Shaun,Atley,NM,19,86,78,111,74,96,10,9,11,2,0,0,1,0,0, Full Time,news,%D and %M with %T,job,Williams is his man,307300,87,361900,82,Back,18,12,62.3,71.1,2.53,4.86
+261909,Lindsay,Thomas,NM,21,85,109,106,73,84,12,0,7,1,0,3,1,4,0, Full Time,news,%s from %P and %M on Kennedy with three goals in Q1,mrp,A headbutting incident in Q4 will be scrutinised,299300,111,354400,143,Forward,12,12,64.5,70.8,1.46,1.68
+280863,Ryan,Bastinac,NM,16,84,137,104,68,91,12,10,4,2,0,1,0,1,1, Full Time,news,%P and %M plus %s,,,382800,97,426500,91,Centre,3,12,81.5,84.8,0.84,1.26
+271129,Todd,Goldstein,NM,23,83,103,98,72,83,7,4,4,2,26,2,0,1,0, Full Time,news,%H and %D with %M,,,446400,98,558800,118,Ruck,22,12,91.8,113.1,13.86,12.03
+291963,Brad,McKenzie,NM,13,82,89,106,67,89,11,8,7,3,1,1,1,0,1, Full Time,news,%O and %M plus %T and %s,,,108500,,115900,,Centre,2,1,54,26,0.68,0.36
+290538,Taylor,Hine,NM,13,79,56,102,63,84,14,6,7,1,0,0,0,0,0, Full Time,job,Minding Smith... %D and %M,,,170300,25,178800,20,Back,26,7,39.6,38.1,0.17,0.24
+230232,Daniel,Wells,NM,13,77,77,97,65,90,12,11,6,1,0,0,1,0,0, Full Time,tagged,Tagged by Reid... %D and %M,,,391000,67,456400,108,Centre,8,12,80.5,94.5,0.90,1.03
+280944,Jack,Ziebell,NM,19,76,84,98,56,76,10,6,2,5,0,1,0,1,1, Full Time,news,Started forward on Hampton... %O and %T,,,458800,74,489800,75,Centre,7,9,92.1,94.9,0.77,1.32
+291445,Aaron,Mullett,NM,18,67,89,84,56,72,11,5,6,0,0,0,0,1,0, Full Time,news,%O and %M plus %s,job,Running off Hoskin-Elliott,369300,105,404200,94,Centre,41,12,77.3,81.6,3.70,3.49
+270861,Levi,Greenwood,NM,15,61,69,83,46,66,5,7,3,7,0,1,2,0,0, Full Time,news,%D and %T with %M,tagger,Tagging Ward,254500,,244000,,Centre,24,1,92,101,0.24,0.41
+270325,Robbie,Tarrant,NM,10,56,72,67,50,62,6,7,5,0,0,1,0,1,2, Full Time,news,Started well up forward on Corr but drifted out of it after QT... %s from %G and %D,,,279000,90,311100,91,Forward,25,3,51,54,0.39,0.34
+230272,Michael,Firrito,NM,8,50,54,64,45,63,7,8,5,1,0,0,2,0,0, Full Time,news,%P and %M,,,273100,62,285200,67,Back,11,12,60.9,62.1,1.15,1.09
+291672,Aaron,Black,NM,3,32,29,40,26,34,2,5,2,2,0,1,0,0,1, Full Time,news,%s from %D on Gilham,,,341300,102,408200,123,Forward,35,8,74,87,4.62,7.52
+290194,Jamie,MacMillan,NM,7,29,-,37,22,28,5,0,1,1,1,0,0,1,0, Full Time,news,On in Q4 for Grima,sub,Started as a sub,320300,74,346000,83,Centre,34,12,69.7,71.1,0.76,0.67
+295344,Toby,Greene,WS,26,113,82,78,92,118,17,8,12,2,0,1,0,0,1, Full Time,hot,%O and %M with %T,tagger,Tagging Harvey,371400,61,366700,58,Centre,4,11,73.5,70.4,0.87,0.80
+291790,Adam,Treloar,WS,25,105,93,81,85,114,14,10,10,4,0,0,1,0,0, Full Time,hot,%D and %M with %T,tagger,Tagging Swallow,436500,78,449200,62,Centre,17,11,90.5,88.1,0.53,0.60
+230082,Stephen,Gilham,WS,19,92,87,45,75,99,19,4,10,0,0,0,1,0,0, Full Time,job,Has Black... %O and %M,,,300700,60,372000,65,Back,38,9,59.2,69.6,0.69,0.94
+291819,Adam,Tomlinson,WS,13,84,85,49,67,85,15,3,8,1,3,1,0,0,1, Full Time,news,%s from %D and %M on Hansen... %H as well,,,321800,24,317200,56,Forward,20,8,71.1,64.5,0.46,0.27
+291776,Taylor,Adams,WS,14,83,66,49,66,90,15,6,7,2,0,0,1,0,0, Full Time,news,%P and %M,,,406700,124,403900,94,Centre,11,8,83.6,76.4,0.21,0.16
+280969,Tom,Scully,WS,15,82,73,65,70,93,10,10,9,2,0,0,1,0,0, Full Time,news,%D and %M with %T,,,378900,49,380200,62,Centre,9,12,76.1,72.8,1.56,1.05
+240716,Setanta,O'hAilpin,WS,19,81,115,55,72,90,11,7,7,0,2,1,1,2,1, Full Time,news,Thompson on him... %s from %D and %G,in,Late replacement for Jeremy Cameron,171100,77,258800,113,Forward Ruck,37,4,42.3,55.3,8.26,2.19
+291783,Dylan,Shiel,WS,10,81,90,53,62,85,13,7,5,3,0,0,0,0,1, Full Time,news,%P and %M with %T,,,284200,45,278900,48,Centre,5,12,67.5,70.8,0.59,0.64
+291720,Will,Hoskin-Elliott,WS,18,70,87,50,61,78,9,8,7,0,0,0,0,1,0, Full Time,news,%s from %O and %M on Mullett,,,255800,51,231600,40,Forward Centre,33,4,54.8,45.3,0.65,0.77
+294305,Lachlan,Whitfield,WS,13,68,41,51,59,78,9,8,8,1,0,0,1,0,0, Full Time,news,%O and %M,,,294600,78,328300,87,Centre,6,11,65.4,69.4,10.32,9.27
+261841,Jonathan,Giles,WS,20,66,80,63,58,70,4,3,1,4,34,1,2,0,0, Full Time,news,%H and %P... also %T and %F,,,328500,8,357400,16,Ruck,26,12,69.2,76.3,2.51,3.13
+280109,Callan,Ward,WS,8,63,68,43,50,67,9,8,3,2,0,2,0,0,1, Full Time,tagged,Tagged by Greenwood... %K among %D with %M,,,460800,105,498300,123,Centre,8,12,94.3,97.6,0.77,0.73
+291509,Adam,Kennedy,WS,10,55,56,46,42,57,7,4,4,4,0,1,1,0,0, Full Time,news,%O and %M,job,Minding Thomas,259700,63,293800,62,Back,40,11,50.6,56.1,0.58,0.72
+295265,Nick,Haynes,WS,5,55,74,36,44,60,9,5,4,2,0,1,1,0,0, Full Time,job,In defence on Adams... %P,,,216400,72,198600,50,Forward Centre,19,2,33.5,35.5,0.47,1.16
+290306,Curtly,Hampton,WS,4,48,48,32,43,57,7,7,5,0,0,1,1,0,0, Full Time,news,In defence... %P and %M,,,275900,27,284400,9,Back Forward,2,8,57,54.8,1.09,1.05
+291771,Devon,Smith,WS,4,43,27,25,33,46,8,3,2,2,0,1,1,0,1, Full Time,news,%D and %T on Hine,,,351400,82,340000,76,Forward Centre,10,11,72.7,67,1.24,1.48
+261374,Sam,Reid,WS,9,40,58,39,33,42,3,4,2,3,0,2,1,1,0, Full Time,tagger,Tagging Wells... %O and %T,,,307700,47,324000,55,Centre,23,7,65.9,63,0.43,0.29
+293662,Liam,Sumner,WS,8,36,40,27,32,40,4,4,3,0,0,0,0,1,1, Full Time,news,%s from %D,,,245000,59,222700,61,Centre,28,4,57.8,50.5,0.45,0.56
+294508,Aidan,Corr,WS,9,35,36,30,31,42,4,3,3,2,0,0,2,1,0, Full Time,job,Tarrant is his man... %P and %s,,,145000,13,196700,37,Back,35,7,30.6,41.3,1.33,1.52
+261189,Tim,Mohr,WS,2,31,29,17,25,36,6,3,2,1,0,0,1,0,0, Full Time,job,Standing Petrie... %D,,,273400,63,324500,67,Back,39,12,60,72.7,0.76,0.79
+294685,Zac,Williams,WS,3,31,21,25,27,39,4,5,2,2,0,1,2,0,0, Full Time,news,%O and %T on Atley,subbed,Subbed off in Q4 for Townsend,119900,3,113000,9,Back Centre,51,4,36,30.8,4.75,4.20
+291891,Jacob,Townsend,WS,1,16,13,5,16,24,4,3,1,0,0,1,2,0,0, Full Time,news,On in Q4 for Williams,sub,Started as a sub,247600,20,218400,12,Centre,31,6,57.5,45.8,1.04,1.14

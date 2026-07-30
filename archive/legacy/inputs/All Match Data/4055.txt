@@ -1,0 +1,48 @@
+Melbourne,Demons,Hawthorn,Hawks,R7,6.13.49,15.25.115, Full Time
+May 11,2012,7:50,MCG,Seven,270732,10340701,430062,0,Cloudy,15,,
+
+<em>gunners23</em>: even schoenmakers got 100!<br><em>chporte</em>: cant pick the right captain any week&#044; Mitchell a let down&#044; very quiet last term...<br><em>hoddo</em>: flower I get sick of you wonkas with your bullshower steroetypes about Melbourne supporters going skiing<br><em>Bennyy</em>: birchall round abouts his break even. think itll be time to get him in next week for buggy!<br><em>Patty19</em>: sylvia is so dissapointing<br><em>mufc</em>: who wins png if noone guesses correctly is it the coinflip crap? or closest<br><em>Scotti2Hot</em>: Mitchell - gun - what a joke.<br><em>mufc</em>: i pulled out and went with fyfe instead who turned into beams over him and tippet&#044; still wouldve been an interesting cho<br><em>shrimp5083</em>: all my players tonned up except for whiteX<br><em>hoky_90</em>: horsely will score less with ablett playing<br><em>Dangeroo</em>: 96 points in a half from suckling :D<br><em>mufc</em>: am angry at roughy for missing games early because i was considering him all this yr but when not named through injury <br>
+240393,Mitchell,Clark,ME,28,101,104,129,88,106,11,2,9,4,8,2,3,3,2, Full Time,hot,Kicked %s from %P and %G on Schoenmakers including three big ones in Q1,,
+250245,Clint,Bartram,ME,24,94,93,125,73,90,13,3,10,4,0,3,0,0,0, Full Time,job,Minding Rioli... %O and %T with %M,,
+261297,Jack,Grimes,ME,14,87,78,115,68,87,15,3,9,2,0,1,0,0,0, Full Time,tagged,Forward tag on him by Savage... %D and %M,,
+230151,Brent,Moloney,ME,26,83,89,112,60,85,9,7,4,8,0,0,1,0,1, Full Time,news,%2 Sewell... %O and %T,,
+260176,James,Magner,ME,20,76,84,99,67,87,11,6,8,2,0,2,3,1,0, Full Time,cash,%s from %D and %M with %T... also %F,tagger,Forward tag on Guerra
+291313,Jeremy,Howe,ME,15,74,70,98,59,73,11,1,7,3,0,2,1,1,1, Full Time,news,Booted %s from %O and %M on Suckling,,
+200002,Aaron,Davey,ME,16,71,71,98,48,66,11,1,4,6,0,0,0,0,0, Full Time,news,%P and %T on Burgoyne,,
+250222,Nathan,Jones,ME,14,71,84,92,56,81,11,10,2,4,0,2,2,0,0, Full Time,news,%2 Smith off a wing... %B among %O with %T,,
+270906,Jordie,McKenzie,ME,16,71,53,95,55,76,10,4,4,5,0,0,2,1,1, Full Time,news,%O and %T plus %s,tagger,Tagging Mitchell
+280608,Jack,Trengove,ME,39,70,67,97,47,67,5,5,2,10,1,1,1,0,0, Full Time,news,Starting forward on Stratton... %P and %T,,
+220052,Mark,Jamar,ME,10,69,86,85,57,67,10,1,4,1,18,2,0,0,1, Full Time,news,%H and %D with %M,,
+270985,Cale,Morton,ME,13,69,30,90,58,76,11,5,8,1,1,0,1,0,0, Full Time,spud,Touched it once in Q1 playing pure midfield... %O and %M,,
+260288,James,Frawley,ME,13,66,94,90,55,75,13,3,7,2,0,1,3,0,0, Full Time,job,Has Franklin... %P and %M plus %T,,
+291533,Tom,McDonald,ME,8,52,58,64,44,60,6,9,4,1,0,0,0,0,0, Full Time,news,%M and %P,job,On Whitecross
+270830,Colin,Garland,ME,4,44,66,60,35,51,9,3,3,2,0,0,2,0,0, Full Time,sore,%O and %M with %T... right ankle knock in Q4,job,An interesting matchup on Breust
+230250,Jared,Rivers,ME,3,39,52,52,30,37,7,0,4,1,1,1,0,0,0, Full Time,news,%P and %M,job,Standing Roughead
+250345,Rohan,Bail,ME,3,38,25,49,32,42,8,3,3,0,0,2,1,0,0, Full Time,news,Playing a small forward stopping role... %O,,
+290943,Jamie,Bennell,ME,6,31,39,43,19,28,2,2,0,5,0,0,0,0,1, Full Time,news,In defence on Puopolo.. %P and %T,,
+240037,Colin,Sylvia,ME,1,24,26,31,18,24,4,2,1,1,0,1,0,0,0, Full Time,missing,Playing forward on Gilham... %O,,
+250360,Ricky,Petterd,ME,2,21,14,28,18,25,3,2,2,1,0,0,1,0,1, Full Time,mare,Donuts in the first half playing deep forward... %P,,
+280758,Jack,Fitzpatrick,ME,1,21,46,28,14,20,1,2,0,3,2,0,0,0,0, Full Time,news,%P and %T.. also %H,subbed,Subbed off in Q3 for Bate
+250510,Matthew,Bate,ME,0,17,13,21,14,19,1,3,1,1,0,0,0,0,1, Full Time,news,On in Q3 for Fitzpatrick,sub,Started as a sub
+270732,Matt,Suckling,HW,31,127,103,71,104,133,23,6,13,0,0,0,0,1,1, Full Time,garbage,Responsible for Howe... %P and %M... plenty of garbage stats in second half junk time,,
+230197,Brad,Sewell,HW,26,114,140,91,87,124,13,19,2,7,0,2,0,0,1, Full Time,hot,%2 Moloney... %O and %T,,
+240399,Lance,Franklin,HW,31,114,140,83,97,124,15,8,6,4,0,3,3,3,7, Full Time,hot,Booted %s from %P on Frawley... also %F.. had a massive Q2 to follow a poor start,,
+220073,Sam,Mitchell,HW,27,103,101,78,74,102,15,7,4,8,0,3,1,0,0, Full Time,gun,Tagged by McKenzie... %P and %T with %M,,
+240302,Grant,Birchall,HW,20,103,122,79,87,117,12,17,8,2,0,1,0,0,0, Full Time,hot,%D and %M,job,Responsible for Howe
+220036,David,Hale,HW,22,99,124,72,90,115,11,12,4,1,23,1,2,1,2, Full Time,news,Mostly in ruck... %H and %P with %M and %s,,
+240357,Jarryd,Roughead,HW,20,90,91,58,78,103,14,8,8,1,3,0,2,1,1, Full Time,news,%P and %M on Rivers,,
+280737,Liam,Shiels,HW,15,89,91,67,69,99,12,12,4,5,0,0,1,0,0, Full Time,news,%D and %T with %M,,
+261386,Brendan,Whitecross,HW,14,88,100,56,70,95,14,9,6,2,0,0,0,0,2, Full Time,news,%s from %P and %M on McDonald... also %T,,
+280858,Shane,Savage,HW,16,86,92,67,70,92,10,10,5,3,0,1,0,1,2, Full Time,news,%O and %M plus %s,tagger,Forward tag on Grimes
+250089,Jordan,Lewis,HW,20,81,119,70,75,102,6,20,5,1,0,1,1,1,0, Full Time,star,%B among %D with %M and %s,,
+281301,Ryan,Schoenmakers,HW,14,78,104,44,68,90,14,8,8,0,0,2,2,0,0, Full Time,news,%M and %D,job,Standing Clark
+280744,Luke,Breust,HW,20,75,91,70,63,84,6,10,5,4,0,0,1,1,3, Full Time,news,%s from %P and %M on Garland... also %T,,
+210012,Shaun,Burgoyne,HW,12,74,97,46,60,78,12,7,6,1,0,2,0,0,0, Full Time,news,%P and %M,flash,Playing in defence on Davey
+294877,Isaac,Smith,HW,20,70,71,58,58,79,8,8,4,4,0,1,2,1,1, Full Time,news,%2 Jones off a wing... %P and %M plus %s... also %T,,
+250055,Clinton,Young,HW,15,69,86,42,58,75,11,5,4,1,0,1,1,2,0, Full Time,sore,%O and %M plus %s... knee knock in Q4,,
+280471,Ben,Stratton,HW,13,61,74,47,51,69,8,7,6,2,0,0,1,0,0, Full Time,news,%D and %M,job,Responsible for Trengove on a HBF
+230082,Stephen,Gilham,HW,4,50,47,33,42,57,8,5,5,1,0,0,1,0,0, Full Time,job,Standing Sylvia... %O and %M,,
+200060,Brent,Guerra,HW,4,48,57,37,40,57,6,8,3,2,0,0,1,0,0, Full Time,tagged,Forward tag on him by Magner.... %M and %D,,
+260710,Paul,Puopolo,HW,9,43,59,31,40,49,5,4,3,0,0,1,1,2,1, Full Time,news,%s from %P and %M on Bennell,,
+260955,Cyril,Rioli,HW,8,43,48,28,35,44,6,4,1,1,0,2,0,1,2, Full Time,news,%s from %D on Bartram,subbed,Subbed off in Q4 for Osborne
+210092,Michael,Osborne,HW,0,3,2,0,2,3,1,0,0,0,0,0,0,0,0, Full Time,injured,On in Q4 for Rioli... hyperextended left knee in Q4 and iced up after one touch,sub,Started as a sub

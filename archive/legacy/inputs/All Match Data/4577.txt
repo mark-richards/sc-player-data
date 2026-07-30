@@ -1,0 +1,48 @@
+Brisbane,Lions,Western Sydney,Giants,R21,18.15.123,9.9.63, Full Time
+Aug 17,2013,7.40,Gabba,Seven,270512,10392106,bl-v-gws,0,Evening shower or storm,25,,
+
+<em style='color:#000'>Jukes82</em>: wrong greatboystu&#044; J. Selwood is the one this week<br><em style='color:#000'>ballbag</em>: barlow hasnt scored over 115 in 2 months<br><em style='color:#000'>RooBoyStu</em>: Barlow is the man you should have the C on this week!<br><em style='color:#000'>rosty63</em>: @mathius&#044; that team might give gold coast a run<br><em style='color:#000'>rotated</em>: rock 105sc<br><em style='color:#000'>thommoae</em>: Is mini trash a waste paper basket icon?<br><em style='color:#000'>ballbag</em>: is rocky gonna SC ton it<br><em style='color:#000'>matthius</em>: lions&#044; bombers&#044; blues and eagles should all merge. waste of space!<br><em style='color:#000'>Slashers</em>: Rock shud ton up in SC too<br><em style='color:#000'>Slashers</em>: Bit of mini trash for Rocky!<br><em style='color:#000'>Lodgy</em>: ahh well cant win em all. rocky looking at 95 plus in a low scoring round... such a hack<br><em style='color:#000'>woofy</em>: 20 more berger so you can reach your sc ton!<br>
+293603,Sam,Mayes,BL,28,114,125,143,91,117,15,6,4,5,0,1,1,4,3, Full Time,star,%2 Whitfield... %D and %T with %M and %s,,,331300,72,316800,94,Forward Centre,32,15,71.3,67,16.37,12.06
+250335,Matthew,Leuenberger,BL,17,99,85,119,85,105,12,9,4,2,24,4,1,0,0, Full Time,news,%H and %D with %T and %M,,,418500,107,484900,110,Ruck,23,17,85.3,98.9,16.92,15.49
+292128,Elliot,Yeo,BL,15,99,85,126,80,106,13,11,8,3,0,1,0,0,1, Full Time,news,%P and %M with %T and %s,bugg,Bugg is his man,261900,68,314400,70,Back,26,16,54.8,60.9,0.57,0.52
+240087,Jed,Adcock,BL,20,97,107,129,77,103,16,6,8,4,0,2,2,0,1, Full Time,news,%D and %M plus %T and %s,,,378400,69,442400,96,Back,7,19,81.4,88.6,3.45,3.16
+270919,Tom,Rockliff,BL,30,95,105,122,78,111,9,16,6,6,0,0,2,0,0, Full Time,news,%B among %D with %T and %M,,,502200,71,583400,70,Forward Centre,38,18,99.5,107.1,39.75,31.96
+281048,Ryan,Harwood,BL,15,93,94,117,73,102,14,13,4,3,0,1,0,0,0, Full Time,news,%P and %T with %M,job,Playing a HBF on Greene,290100,66,319200,71,Back,2,10,58,61.9,0.18,0.19
+980007,Simon,Black,BL,19,91,114,112,75,106,10,18,3,4,0,2,1,0,1, Full Time,news,%P with %b by hand... also %T and %M,,,381200,83,479900,58,Centre,20,7,75.4,88.1,0.26,0.24
+281373,Jack,Redden,BL,43,90,97,120,65,93,5,11,3,11,3,0,1,0,0, Full Time,news,%2 Ward... %P and %T with %M,,,453700,80,509900,101,Centre,30,19,95.7,98.6,1.87,0.98
+295518,Sam,Docherty,BL,15,90,102,114,73,102,15,12,5,2,0,1,1,0,0, Full Time,news,%P and %M with %T,,,189700,18,202500,21,Back,1,11,43.5,45.5,7.16,10.93
+230170,Joel,Patfull,BL,20,89,127,114,72,96,9,11,8,4,0,0,0,0,0, Full Time,news,%P and %M with %T,job,Standing Cameron,298400,65,393800,81,Back,24,19,56.8,71.5,1.72,1.29
+261224,Dayne,Zorko,BL,20,84,101,103,68,88,6,11,3,5,1,2,0,2,0, Full Time,news,%s from %P and %M on Kennedy... also %T,,,307500,93,368100,119,Forward Centre,15,19,71.4,81.2,11.92,14.55
+290748,Joshua,Green,BL,21,78,88,98,64,81,12,3,4,2,0,1,1,3,0, Full Time,news,Kicked %s from %O and %M on Haynes,,,230500,23,255200,55,Forward,6,14,52.6,53.7,0.74,0.48
+271072,Daniel,Rich,BL,14,74,118,89,62,79,12,8,1,1,0,5,1,2,1, Full Time,tagged,Tagged by Whiley... %P and %s,,,327800,61,410300,69,Centre,10,13,68.2,84.8,1.00,1.37
+290110,Mitchell,Golby,BL,13,74,71,93,63,87,11,11,6,1,0,0,1,0,0, Full Time,news,%P including %K... also %M,,,339400,65,352900,61,Back,41,15,72.9,73.9,0.66,0.47
+230211,Brent,Staker,BL,20,73,73,88,65,80,10,5,5,0,2,1,1,3,0, Full Time,news,%s from %D and %M on Gilham,,,298100,81,376000,113,Back Forward,14,12,64.3,80.8,28.74,42.26
+230147,Daniel,Merrett,BL,15,68,72,83,63,78,9,5,6,0,3,1,2,2,3, Full Time,news,Starting forward on Davis... %s from %P and %G... %H as well,,,273900,50,356300,66,Back Forward,21,15,56.1,71.1,1.70,1.51
+210013,Ashley,McGrath,BL,14,61,75,77,53,73,10,7,4,1,0,0,2,1,1, Full Time,news,%D and %M starting forward on Mohr... %F as well,,,180300,64,204900,61,Back Forward,9,17,41.5,47.8,1.28,1.35
+220062,Matt,Maguire,BL,5,52,64,66,45,58,5,7,5,2,1,2,1,0,0, Full Time,job,Following Tomlinson... %P and %T with %M,,,330400,78,390500,113,Back,36,8,68.4,75,0.37,0.20
+270512,Pearce,Hanley,BL,9,46,55,59,36,49,8,3,1,2,0,1,1,1,1, Full Time,injured,%s from %O and %T starting on a HFF again on Williams... adductor tightness in Q3,subbed,Subbed off in Q3 for Lester,429000,86,488000,100,Back,11,17,90.2,100,18.65,21.33
+291548,Ryan,Lester,BL,4,43,38,52,38,51,5,8,4,0,0,0,0,0,0, Full Time,news,On in Q3 for Hanley,sub,Started as a sub,247500,81,302400,84,Back,35,13,63.3,73.2,1.57,3.82
+240013,Andrew,Raines,BL,2,35,40,41,32,48,3,11,1,1,0,0,1,0,0, Full Time,tagger,Tagging Scully... %O,,,197100,70,182300,85,Centre,29,15,47.5,42.8,0.58,0.58
+281329,Rohan,Bewick,BL,2,32,22,43,24,36,6,3,1,2,0,0,1,0,0, Full Time,news,%D on Hampton,,,304700,46,319800,54,Forward,8,16,66.4,66.8,0.66,0.72
+291969,Stephen,Coniglio,WS,31,118,120,85,95,129,17,11,8,5,0,1,2,1,0, Full Time,hot,First goal... %O and %T with %M and %s,,,312800,104,308800,94,Centre,3,15,73.3,73.2,0.44,0.52
+291790,Adam,Treloar,WS,20,97,90,77,78,108,11,16,5,4,0,1,0,0,0, Full Time,news,%P and %M with %T,,,409300,88,415900,83,Centre,17,18,89.9,87.4,0.50,0.55
+295344,Toby,Greene,WS,21,92,91,57,80,115,14,17,3,2,0,1,3,1,1, Full Time,news,%s from %P and %M playing a HFF on Harwood... also %F,,,367800,128,359100,92,Centre,4,16,75.9,71.6,0.71,0.68
+280969,Tom,Scully,WS,14,70,82,48,54,69,10,6,2,3,0,4,0,1,0, Full Time,news,%D and %T plus %M and %s,rain,Tagged by Raines,357300,52,372200,51,Centre,9,18,75.4,73.4,1.44,1.02
+294305,Lachlan,Whitfield,WS,14,70,60,49,59,78,9,10,4,1,0,1,0,1,0, Full Time,news,%2 Mayes... %O and %M,,,360600,61,386100,55,Centre,6,17,70.8,73.1,7.78,7.55
+291783,Dylan,Shiel,WS,14,69,77,54,54,73,9,7,4,4,0,2,1,0,1, Full Time,sore,%D with %b by hand... also %M and %T... right shoulder knock in Q4,,,349900,105,386700,121,Centre,5,18,71,74.9,0.69,0.80
+291819,Adam,Tomlinson,WS,13,68,69,48,56,72,10,5,8,1,0,0,0,0,0, Full Time,news,%P and %M on Maguire,,,338100,121,317400,108,Forward,20,14,70.6,64,0.45,0.25
+280804,Phil,Davis,WS,10,66,62,45,55,72,11,3,8,2,0,1,2,0,0, Full Time,news,%M and %O... also %T and %F,job,Has Merrett,220000,31,275200,38,Back,1,10,50.9,59.5,0.42,0.48
+293845,Jeremy,Cameron,WS,15,64,66,43,57,71,9,4,6,0,0,0,1,2,2, Full Time,news,Booted %s from %D and %M on Patfull,,,361500,104,459200,111,Forward,18,18,69.4,77,2.87,2.91
+200111,Dean,Brogan,WS,11,61,96,49,56,72,7,4,3,3,20,2,4,0,1, Full Time,news,%H and %D plus %T... %F as well,,,270100,45,374700,79,Ruck,50,8,58.5,81.4,0.54,0.62
+294685,Zac,Williams,WS,14,59,83,48,43,57,8,1,3,5,0,1,1,1,0, Full Time,switch,In defence again on Hanley... switched forward in Q4 for %s... %O and %T with %M,,,267900,-2,302800,2,Back Centre,51,9,54.6,55.8,4.82,4.42
+230082,Stephen,Gilham,WS,5,57,87,44,43,57,8,3,5,3,0,0,0,0,0, Full Time,news,%D and %T with %M,job,Standing Staker,325000,89,383700,87,Back,38,12,62.5,72.1,0.52,0.73
+295265,Nick,Haynes,WS,9,54,51,50,38,51,6,2,4,5,0,0,0,0,0, Full Time,news,%O and %M with %T,job,Has Green,284400,64,338300,97,Forward Centre,19,8,57.8,67,1.00,1.77
+280109,Callan,Ward,WS,7,52,53,33,40,57,8,7,1,2,3,0,0,0,0, Full Time,news,%2 Redden... %D,,,496500,68,538100,50,Centre,8,19,96.6,100.2,1.25,1.05
+261189,Tim,Mohr,WS,4,48,50,31,38,48,8,2,5,1,0,1,0,0,0, Full Time,job,Manning up McGrath... %D and %M,,,232200,26,297900,56,Back,39,19,56.8,69.1,0.82,0.98
+291509,Adam,Kennedy,WS,5,48,68,41,40,54,6,4,5,3,0,1,2,0,0, Full Time,job,Minding Zorko... %D and %M... also %T and %F,,,251200,71,280600,58,Back,40,16,50.4,55.2,0.49,0.62
+291802,Tomas,Bugg,WS,4,47,46,33,38,54,7,6,3,2,0,0,1,0,0, Full Time,news,Starting forward on Yeo.... %P and %M with %T,,,277700,19,305400,12,Back,14,12,57.3,61.7,0.91,1.05
+290306,Curtly,Hampton,WS,3,44,54,18,32,45,10,2,2,1,0,0,0,0,0, Full Time,job,Bewick is his man... %O and %M,,,352000,53,380300,73,Back Forward,2,15,64.1,64.1,1.32,1.07
+293816,Mark,Whiley,WS,14,43,48,39,37,54,4,8,0,4,0,2,3,1,0, Full Time,tagger,Tagging Rich... %O and %T... %F as well,,,201400,60,170600,61,Back,42,5,46.2,32.8,0.77,0.46
+261841,Jonathan,Giles,WS,13,37,35,26,39,47,4,3,1,0,17,2,3,1,0, Full Time,news,%H and %D... also %s and %F,,,316500,86,373800,73,Ruck,26,19,68.2,76.1,2.28,3.15
+294125,Nathan,Wilson,WS,7,32,41,26,21,30,5,0,1,4,0,1,1,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q3 for Sumner,177500,54,176000,51,Forward,16,2,31.5,29.5,0.44,0.88
+293662,Liam,Sumner,WS,2,27,10,19,21,28,4,2,2,1,0,0,0,0,1, Full Time,news,On in Q3 for Wilson... %O,sub,Started as a sub,234900,70,213400,49,Centre,28,5,53.4,48.4,0.42,0.53

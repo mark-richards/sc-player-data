@@ -1,0 +1,48 @@
+Port Adelaide,Power,Western Sydney,Giants,R2,19.20.134,11.12.78, Full Time
+Apr 06,2013,7.40,Footy Park,Seven,295344,10390206,5015,0,Fine,29,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>OnTheRocks</em>: 300 from 4 rooks is ok by me<br><em>kano</em>: Yes koomy&#044; you dont rate Westhoff&#044; i think we get it champ<br><em>danmaio</em>: started  dwyer with neade on bench&#044;  grrr<br><em>kingerzz</em>: yeah karnezis is doing my head in<br><em>koomy4</em>: Westoff won't be getting 100+ against actual competition!<br><em>JRedden</em>: and wines gets 80&#044; wonderful stuff<br><em>masterhc2</em>: what on earth is going on with hartlett&#044; shocking effort<br><em>koomy4</em>: westoff has played Melbourne and GWS to get those scores. Do you honestly think he will continue to get those scores?<br><em>Costanza</em>: 4 rooks in the 70's <br><em>andyman268</em>: LOL at people who started Greene over Murphy.<br><em>Grasscutta</em>: Don't fall for the Westhoff trick<br><em>R.Griff</em>: Kingerzz then 40 against Corws<br>
+260750,Justin,Westhoff,PA,49,154,163,194,132,160,20,5,14,3,2,2,2,5,2, Full Time,star,%s from %O and %M... also %T,,,394800,,430700,,Forward,39
+261911,Brad,Ebert,PA,38,117,100,150,88,118,13,12,4,8,0,3,0,1,1, Full Time,hot,%P and %T plus %M and %s,,,511900,,535300,,Midfielder,7
+210020,Kane,Cornes,PA,27,116,123,148,88,120,16,14,4,6,0,4,0,0,0, Full Time,hot,%O and %T with %M,,,473000,,499000,,Midfielder,18
+250365,Travis,Boak,PA,30,116,123,150,93,123,17,10,7,5,0,4,2,1,0, Full Time,hot,%P and %T plus %M and %s,,,431300,,481500,,Midfielder,1
+291962,Chad,Wingard,PA,25,107,145,132,89,110,16,6,7,1,0,2,0,3,2, Full Time,hot,%s from %D and %M,,,249500,,276500,,Midfielder,20
+240290,Angus,Monfries,PA,26,96,102,128,69,94,11,7,5,8,0,1,0,0,1, Full Time,news,%s from %P and %M... also %T,,,352300,,356700,,Forward,6
+270779,Paul,Stewart,PA,20,92,80,119,76,98,12,6,9,3,0,0,1,1,2, Full Time,news,%s from %P and %M,,,302300,,346200,,Back,14
+271078,Matthew,Broadbent,PA,19,87,111,107,73,91,12,7,6,1,0,2,0,2,1, Full Time,news,%O and %M plus %s,,,413100,,451900,,Midfielder,5
+250688,Alipate,Carlile,PA,18,82,85,104,70,90,10,9,10,1,0,0,0,0,0, Full Time,news,%D and %M,,,227500,,336500,,Back,27
+294318,Oliver,Wines,PA,14,81,51,105,64,89,9,10,5,5,1,0,1,0,1, Full Time,bubble,Second game... slow start... %O and %T,,,156700,,169500,,Midfielder ,16
+290156,Jasper,Pittard,PA,14,78,91,95,68,96,12,15,5,0,0,0,1,0,0, Full Time,news,%O including %B with %M,,,132600,,128000,,Back,29
+294604,Jake,Neade,PA,16,75,86,91,64,79,7,8,5,2,0,2,0,2,1, Full Time,bubble,Second game... %P and %M,,,108500,,115900,,Midfielder ,32
+290171,Campbell,Heath,PA,9,74,85,96,57,78,13,6,5,2,0,0,0,0,0, Full Time,news,%K among %P with %M and %T,,,108500,,115900,,Back,3
+280379,Lewis,Stevenson,PA,13,71,93,92,60,84,15,7,6,0,0,0,2,0,0, Full Time,news,Started much more slowly than last week... %P and %M... also %F,,,108500,,115900,,Midfielder,15
+290540,Cameron,O'Shea,PA,13,59,79,71,51,69,10,9,2,0,0,2,1,1,0, Full Time,news,%D and %s,,,164900,,168500,,Back,13
+280013,Jackson,Trengove,PA,3,47,65,60,41,55,8,6,3,1,1,3,2,0,0, Full Time,news,%M and %P,,,300400,,366500,,Back,12
+261230,Matthew,Lobbe,PA,6,46,64,56,47,62,3,8,5,1,11,0,3,0,0, Full Time,news,%H and %D with %M... also %F,,,344600,,378700,,Ruck,23
+230195,Jay,Schulz,PA,9,42,66,55,34,44,6,1,3,2,0,0,1,1,2, Full Time,injured,Kicked %s from %D and %G... ankle knock,subbed,Subbed off in Q4 for Mitchell,397400,,432700,,Forward,28
+292145,Thomas,Jonas,PA,4,40,61,54,34,51,6,6,2,3,0,1,3,0,0, Full Time,news,%P and %T,,,220400,,290700,,Back,42
+261892,Hamish,Hartlett,PA,8,35,38,42,31,42,4,6,1,1,0,1,1,1,0, Full Time,tagged,Forwad tag on him by Palmer... %D and %s,,,421400,,489000,,Midfielder,8
+290277,Jarrad,Redden,PA,5,29,29,37,29,38,2,3,2,2,11,1,3,0,0, Full Time,news,%H and %P,,,305700,,372200,,Ruck,34
+270606,Kane,Mitchell,PA,7,19,15,22,18,25,3,3,0,0,0,0,1,1,1, Full Time,news,On in Q4 for Schulz,sub,Started as a sub,119300,,126200,,Midfielder ,37
+280109,Callan,Ward,WS,26,105,91,80,81,113,14,12,5,6,2,1,1,0,0, Full Time,hot,%K among %D with %M,,,501300,,570100,,Midfielder,8
+294305,Lachie,Whitfield,WS,26,102,100,74,81,106,15,5,9,4,0,0,1,1,1, Full Time,hot,Second game... %O and %M plus %s,,,183700,,199500,,Midfielder ,6
+291969,Stephen,Coniglio,WS,20,91,95,64,68,94,13,9,2,5,0,1,0,1,1, Full Time,news,%D and %T plus %M and %s,,,409200,,406200,,Midfielder,3
+291790,Adam,Treloar,WS,15,75,71,43,62,84,13,7,5,1,0,0,1,1,0, Full Time,news,%P and %M,,,423000,,445000,,Midfielder ,17
+295344,Toby,Greene,WS,10,72,85,38,60,84,14,8,4,2,0,3,3,0,0, Full Time,news,Started better than last week though still not great... %P and %M... also %F,,,495700,,506300,,Midfielder,4
+261841,Jonathan,Giles,WS,12,68,82,46,54,65,10,1,2,3,10,4,1,1,1, Full Time,news,%H with %P and %s,,,422200,,498900,,Ruck,26
+291821,Jonathon,Patton,WS,15,67,79,53,51,66,8,5,2,4,0,2,0,1,3, Full Time,news,%s from %D and %G,,,183300,,242300,,Forward ,12
+291783,Dylan,Shiel,WS,13,64,92,41,54,77,10,9,1,3,0,2,3,1,2, Full Time,news,First goal... %s from %D and %T,,,378200,,403500,,Midfielder,5
+200111,Dean,Brogan,WS,20,63,99,59,56,67,5,3,3,4,16,4,3,1,0, Full Time,news,%H and %D,,,307400,,367400,,Ruck,50
+293845,Jeremy,Cameron,WS,16,60,70,47,53,62,7,1,4,2,0,3,2,3,2, Full Time,news,%s from %P and %G... also %F,,,299800,,333700,,Forward,18
+291771,Devon,Smith,WS,11,58,54,50,48,63,6,6,4,3,0,1,1,1,0, Full Time,news,%O and %M plus %T,,,352100,,339200,,Forward,10
+280804,Phil,Davis,WS,5,53,46,41,44,60,7,6,5,2,0,0,1,0,0, Full Time,news,%M with %P and %T,,,324100,,387400,,Back,1
+291802,Tomas,Bugg,WS,7,53,76,37,46,63,7,10,3,1,0,2,1,0,0, Full Time,news,%D and %M,,,352100,,369800,,Midfielder,14
+261189,Tim,Mohr,WS,7,51,71,21,42,60,11,6,3,0,0,0,1,0,0, Full Time,news,%O,,,265100,,352700,,Back,39
+293662,Liam,Sumner,WS,4,49,46,36,38,54,7,6,2,3,0,1,1,0,0, Full Time,news,%O and %T,,,224100,,217200,,Midfielder ,28
+230082,Stephen,Gilham,WS,5,48,61,32,36,48,8,2,4,2,0,0,0,0,0, Full Time,news,%P and %T with %M,subbed,Subbed off in Q3 for Hoskin-Elliott,239600,,279100,,Back,38
+261231,Rhys,Palmer,WS,8,45,53,36,31,45,6,4,1,4,0,0,0,0,0, Full Time,tagger,Forward tag on Hartlett... %D and %T,,,383000,,374200,,Midfielder,7
+280969,Tom,Scully,WS,7,39,47,13,37,60,10,7,2,1,0,0,5,0,0, Full Time,news,%D... also %F,,,380700,,424700,,Midfielder,9
+291509,Adam,Kennedy,WS,3,33,53,17,27,36,6,4,2,0,0,1,0,0,0, Full Time,news,%D,,,266900,,285400,,Midfielder,40
+291720,Will,Hoskin-Elliott,WS,2,29,11,21,23,31,4,3,2,1,0,0,0,0,1, Full Time,news,On in Q3 for Gilham... %O,sub,Started as a sub,267900,,264800,,Midfielder,33
+290306,Curtly,Hampton,WS,2,25,29,18,23,33,4,3,3,1,0,0,2,0,0, Full Time,news,%P,,,276100,,300300,,Back Forward,2
+294624,Lachlan,Plowman,WS,2,23,30,15,19,27,4,2,2,1,0,0,1,0,0, Full Time,bubble,Second game... %P,,,174700,,189500,,Back ,30

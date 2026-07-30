@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Port Adelaide,Power,R20,24.15.159,13.9.87, Full Time
+Aug 12,2012,1:10,Launceston,Fox Sports,261911,10342007,430176,0,Mostly sunny,15,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Daniel_79</em>: got the TAB line in by 1 point&#044; and the Sportsbet line in by 0.5 a point... :)<br><em>Seb78</em>: Is the Rioli injury serious?<br><em>bahodie</em>: Mitchell&#044; so close&#044; but so far.  Darn.<br><em>turnbull8</em>: Brad ebert real sc?<br><em>nuge02</em>: Lucky murf<br><em>ZacDawson</em>: hawks -77.5. so close yet so far<br><em>Murf2Gibbs</em>: Wow just just got there power <br><em>ZacDawson</em>: one more goal hawks gogogo<br><em>GoLions</em>: hawks 11 goals this quarter<br><em>bahodie</em>: Aw Mitchell&#044; you closed the gap to Lewis&#044; only to let him get away.  Don't fail me now!<br><em>Grazz</em>: Cheers Suckling.<br><em>Affliction</em>: Whitehawk don't you mean grand finals :-p<br>
+240302,Grant,Birchall,HW,27,127,134,161,105,138,18,14,12,2,0,1,0,0,0, Full Time,star,Allowed to zone off as he likes... %K among %D with %M and %T,,
+250089,Jordan,Lewis,HW,30,115,114,147,92,124,15,11,7,5,1,0,1,1,3, Full Time,hot,%P and %M with %T and %s,,
+260710,Paul,Puopolo,HW,28,108,136,128,92,113,12,9,4,2,0,2,0,5,2, Full Time,cherry,One kick in Q1... %s from %P and %T with %M on Moore including three in Q4,,
+250055,Clinton,Young,HW,21,105,101,136,79,106,18,6,5,4,0,1,0,1,1, Full Time,hot,%O and %M plus %T and %s,,
+220073,Sam,Mitchell,HW,20,103,114,130,82,115,13,16,4,5,0,2,1,0,1, Full Time,garbage,%P and %T plus %M and %s... quiet early but racked it up in garbage time,,
+220036,David,Hale,HW,25,99,117,120,90,106,9,4,8,2,10,1,2,4,3, Full Time,garbage,%s from %P and %M on Chaplin when forward... also %H and %T... filled his boots late in junk time,,
+294877,Isaac,Smith,HW,21,91,96,112,80,102,11,10,8,1,0,1,1,2,0, Full Time,news,%O and %M plus %s,,
+230197,Brad,Sewell,HW,20,85,118,109,65,91,8,13,2,7,0,3,1,0,1, Full Time,news,%D and %T with %M and %s,tagger,Tagging Boak
+281301,Ryan,Schoenmakers,HW,14,82,94,106,69,91,15,6,9,0,0,0,1,0,1, Full Time,bluemoon,%s from %P and %M,switch,Started forward but quickly went back when the Hawks started poorly... then forward again in Q2
+200060,Brent,Guerra,HW,19,81,80,100,68,87,9,10,6,2,0,2,0,1,0, Full Time,job,Responsible for Thomas... %P,,
+250257,Xavier,Ellis,HW,16,80,75,100,67,87,9,8,5,3,0,1,1,2,0, Full Time,news,Playing forward somewhere near Hartlett... %D and %M plus %s,,
+261386,Brendan,Whitecross,HW,14,76,67,98,59,79,9,8,5,4,0,1,0,0,1, Full Time,tagger,Forward tag on Pearce... %s from %D and %M,,
+220047,Luke,Hodge,HW,15,73,84,95,58,78,13,4,5,2,0,0,1,1,0, Full Time,news,Loose in defence early as the Hawks got jumped... %P and %M,,
+260472,Max,Bailey,HW,25,70,74,85,56,65,2,4,1,6,26,3,0,0,0, Full Time,news,%H and %D,,
+280744,Luke,Breust,HW,19,70,99,82,61,78,7,9,3,1,0,0,0,3,0, Full Time,news,Donuts in Q1... %s from %P on Moore,,
+230082,Stephen,Gilham,HW,15,66,62,84,54,72,8,7,4,3,0,1,1,1,0, Full Time,in,%l Jarryd Roughead... %D and %M,job,Has Westhoff
+280471,Ben,Stratton,HW,9,58,51,79,46,60,8,2,7,3,0,0,1,0,0, Full Time,job,Interesting matchup on Brett Ebert... %D and %M plus %T,,
+210012,Shaun,Burgoyne,HW,8,54,72,67,43,60,7,9,2,2,0,1,0,0,0, Full Time,job,Paul Stewart is his man... %D,,
+270732,Matt,Suckling,HW,10,52,49,64,44,57,8,5,4,0,0,0,0,1,0, Full Time,seagull,On after HT for Rioli... %P and %M plus %s,sub,Started as a sub
+291351,Jack,Gunston,HW,10,52,65,63,47,61,7,7,4,0,0,1,1,1,1, Full Time,news,%s from %D on the first gamer Blee,,
+250715,Josh,Gibson,HW,4,48,48,63,40,51,8,3,5,1,0,2,1,0,0, Full Time,job,Standing Schulz... %O and %M,injured,Right ankle knock in Q2 and mothballed in Q4
+260955,Cyril,Rioli,HW,8,36,67,45,29,36,5,2,2,1,0,1,0,1,0, Full Time,injured,%s from %P and %M on Logan... left shoulder knock in Q2,subbed,Subbed off at HT for Suckling
+250365,Travis,Boak,PA,21,101,128,58,80,114,17,14,2,3,0,1,1,1,0, Full Time,hot,Tagged by Sewell... %P and %T,,
+261911,Brad,Ebert,PA,21,94,61,67,80,111,12,16,5,2,0,0,1,1,0, Full Time,news,%D,,
+230195,Jay,Schulz,PA,22,83,74,66,78,94,9,5,8,1,0,2,3,4,1, Full Time,news,%s from %P and %G on Gibson,,
+210020,Kane,Cornes,PA,9,71,80,50,57,81,10,11,3,3,0,1,1,0,0, Full Time,news,%D and %T,,
+210043,Domenic,Cassisi,PA,19,70,60,49,50,72,12,3,3,6,0,1,2,0,0, Full Time,news,%P and %T,,
+260750,Justin,Westhoff,PA,15,69,78,55,59,75,8,6,6,2,2,1,1,1,1, Full Time,news,%s from %P and %M on Gilham,,
+250063,Danyle,Pearce,PA,12,67,76,16,52,79,17,9,0,0,0,0,1,0,1, Full Time,tagged,Forward tag on him by Whitecross... %P and %s,,
+290277,Jarrad,Redden,PA,16,65,76,63,50,64,5,5,1,6,13,3,1,0,0, Full Time,news,%H with %P and %T,,
+261892,Hamish,Hartlett,PA,8,63,58,34,49,66,12,4,5,1,0,0,0,0,0, Full Time,news,Playing a HBF with Ellis not paying him much attention... %P and %M,,
+1230242,Brett,Ebert,PA,11,60,61,38,51,62,9,2,5,0,0,0,0,2,2, Full Time,news,%s from %P and %M on Stratton,,
+261230,Matthew,Lobbe,PA,15,60,55,51,54,67,6,3,3,3,15,2,3,1,1, Full Time,news,%H with %P and %s... also %F,,
+271078,Matthew,Broadbent,PA,10,59,72,42,50,65,7,7,2,1,1,0,0,2,1, Full Time,news,First goal... %P and %M plus %s,,
+280013,Jackson,Trengove,PA,9,58,63,51,48,61,6,5,7,2,1,0,0,0,0, Full Time,news,%M and %D,job,Standing Schoenmakers
+230124,Tom,Logan,PA,12,57,58,47,51,69,6,10,6,1,0,0,1,0,0, Full Time,news,%D and %M,job,Minding Rioli
+240385,Matt,Thomas,PA,9,57,74,53,50,69,5,10,5,3,0,1,2,0,0, Full Time,news,%D and %T up forward on Guerra... also %M,,
+270779,Paul,Stewart,PA,10,56,72,38,46,60,8,5,4,1,0,0,0,1,0, Full Time,news,%P on Burgoyne,,
+220090,David,Rodan,PA,3,38,53,23,34,48,6,7,3,0,0,0,1,0,0, Full Time,news,%O and %M,,
+260511,Darren,Pfeiffer,PA,3,31,35,32,27,36,2,5,3,2,0,1,1,0,0, Full Time,in,%l Daniel Stewart... %P and %M,,
+280750,Andrew,Moore,PA,3,27,29,24,24,36,3,5,2,2,0,0,2,0,0, Full Time,job,Chasing Breust... %P... also %F,subbed,Subbed off in Q3 for McCarthy
+240180,Troy,Chaplin,PA,1,18,33,7,16,24,4,3,1,0,0,0,1,0,0, Full Time,job,Has Hale... %O,,
+290001,Nathan,Blee,PA,1,17,27,9,16,24,3,4,1,0,0,0,1,0,0, Full Time,rookie,First game... %D,job,On Gunston
+271128,John,McCarthy,PA,1,16,12,12,12,18,2,3,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Moore,sub,Started as a sub

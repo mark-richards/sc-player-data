@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Brisbane,Lions,R1,19.13.127,7.17.59, Full Time
+Mar 30,2013,1.40,Docklands,Seven,260382,10390104,5015,0,Roof closed,23,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>benzammit</em>: karnesis got a bad score good eff was alot better than zorko?bullshower scoring system<br><em>hoddo</em>: that's phonetic Tawk<br><em>yehright</em>: rich got smashed but 46dt & 59sc from only 8 touches! pretty impressive - wait until he gets 20 touches<br><em>ballbag</em>: nah&#044; thats what i tell you when you troll after your teddy tells you to get flowered.<br><em>daniel87</em>: In the draft<br><em>tawk01</em>: @ballbag - is that what you tell yourself at night when your teddy bear doesnt reply to you?<br><em>daniel87</em>: Got Libbratore Griffen and Munson<br><em>mufc</em>: zorko  killed me<br><em>M.Hurley</em>: don't get ahead of yourself. minson playing against a kid with very little bulk. of course he is going to score well<br><em>ballbag</em>: @tawk- yeah i do fonetic- spelt fonetic<br><em>Fan_Booty</em>: i took Kreuz and Minson in elite! ;D<br><em>Jaycees</em>: @brynpower  cotch got 33 possesions against carazzo. will towel up lower in round 3<br>
+240156,Ryan,Griffen,WB,37,126,138,163,100,133,18,9,7,6,0,2,2,2,1, Full Time,cherry,%2 Moloney... %O and %T with %M and %s,,,500500,,567400,,Midfielder,16
+290799,Tom,Liberatore,WB,32,120,130,158,89,126,15,13,5,9,0,1,1,0,0, Full Time,hot,%2 Rockliff... %O and %T with %M,,,401300,,444400,,Midfielder,21
+260227,Shaun,Higgins,WB,27,115,97,147,95,120,18,4,8,3,0,2,2,3,3, Full Time,garbage,%s from %D and %M on Adcock... also %T... most of his goals in Q4 garbage time,,,396200,,425200,,Forward,7
+295712,Tory,Dickson,WB,37,107,118,141,83,108,12,6,6,8,0,3,2,2,0, Full Time,hot,First goal... %s from %P and %M on Yeo... also %T,,,349400,,374200,,Midfielder,29
+200079,Daniel,Giansiracusa,WB,25,101,116,125,86,102,13,5,9,1,0,3,0,3,0, Full Time,hot,%s from %D and %M,,,351500,,395600,,Forward,13
+210049,Daniel,Cross,WB,19,99,99,128,77,102,14,9,7,4,0,2,0,0,0, Full Time,news,%P and %M plus %T,job,Running off Bewick on a HBF,470700,,527800,,Midfielder,4
+230041,Adam,Cooney,WB,21,98,87,128,78,102,16,5,8,3,0,1,1,1,0, Full Time,news,%D and %M plus %s,,,388200,,405100,,Midfielder,17
+230255,Will,Minson,WB,22,92,126,110,87,109,9,9,5,2,34,2,4,0,0, Full Time,star,%H and %P with %T... also %F,,,445300,,508800,,Ruck,27
+261160,Brett,Goodes,WB,14,91,113,116,73,99,14,10,7,2,0,0,0,0,0, Full Time,rock,A lot of intercepts playing loose in defence among %O and %M with %T... had an excellent Q2,,,121300,,128200,,Midfielder Back,44
+200083,Robert,Murphy,WB,20,84,106,107,67,85,13,3,6,2,0,0,0,2,1, Full Time,news,%s from %P and %M on Patfull... also %T,,,360900,,453000,,Back,2
+271439,Liam,Picken,WB,18,83,74,110,68,87,15,3,10,1,0,1,1,0,0, Full Time,news,%P and %M,job,Playing a HBF on Zorko,391100,,388600,,Midfielder,42
+291526,Luke,Dahlhaus,WB,16,77,97,98,62,81,11,5,4,3,0,1,1,2,0, Full Time,x-factor,%s from %D on Golby... also %T and %M... his excellent Q1 kickstarted the Doggies to a win,sore,Smashed in the right buttock by Merrett in a ground contest late in Q4,384300,,448800,,Forward,6
+291545,Mitch,Wallis,WB,13,74,89,92,59,87,9,15,1,4,0,1,1,0,0, Full Time,news,%2 Karnezis... %O and %T,,,427600,,467200,,Midfielder,3
+294826,Tom,Young,WB,12,70,78,90,57,75,11,6,7,1,0,0,0,0,0, Full Time,job,Has Cornelius... %M and %P,,,216400,,238500,,Back,31
+250712,Dale,Morris,WB,14,68,73,92,53,69,9,3,7,4,0,1,1,0,0, Full Time,heart,Everyone wishing him well... %P and %T with %M,job,Big job on Martin,220600,,277600,,Back,38
+294101,Jason,Johannisen,WB,15,68,81,90,51,70,11,3,3,4,0,0,1,1,1, Full Time,southafrica,%M and %D with %T... also %s,job,Has McGrath,204400,,256800,,Midfielder,39
+280946,Koby,Stevens,WB,7,56,59,68,47,63,7,10,3,1,0,2,0,0,0, Full Time,injured,Played on a wing... %P including %B with %M... right hamstring iced up at 3QT,subbed,Subbed off at 3QT for Smith,204800,,176600,,Midfielder,25
+280056,Ayce,Cordy,WB,10,51,62,65,43,55,6,2,2,3,4,1,2,2,0, Full Time,news,%s from %P and %G on Merrett,,,240400,,243400,,Ruck,49
+260713,Nick,Lower,WB,4,50,46,69,37,55,11,2,2,3,0,0,2,0,1, Full Time,news,%P and %T,tagger,Tagging Rich,352200,,379500,,Midfielder ,33
+280012,Jordan,Roughead,WB,8,46,69,63,42,57,8,3,7,1,0,0,3,0,0, Full Time,job,Following Brown... %M and %O... also %F,,,291400,,354600,,Ruck,23
+281078,Liam,Jones,WB,9,42,55,53,35,44,3,4,2,3,0,2,1,1,2, Full Time,goose,Maguire on him... %s from %D and %T,,,226700,,269800,,Forward,19
+293847,Clay,Smith,WB,2,28,23,36,22,34,2,6,0,3,1,0,1,0,0, Full Time,news,On after 3QT for Stevens,sub,Started as a sub,331000,,276200,,Midfielder,14
+270919,Tom,Rockliff,BL,21,114,122,83,89,127,15,18,4,5,1,0,0,0,0, Full Time,gun,%2 Liberatore... %O and %T with %M,,,481700,,520500,,Midfielder,38
+230151,Brent,Moloney,BL,21,96,100,72,77,105,13,10,5,5,0,2,2,1,0, Full Time,news,%2 Griffen... %P and %M... also %T and %s,,,309800,,362400,,Midfielder,3
+270512,Pearce,Hanley,BL,14,87,83,58,63,90,14,8,3,5,0,0,0,0,0, Full Time,news,%O and %M,reported,Reported for rough conduct after bumping Giansiracusa in Q3,425300,,485200,,Back,11
+281373,Jack,Redden,BL,48,80,65,86,59,85,5,10,1,10,0,1,2,1,1, Full Time,news,%D and %T... also %F,,,531100,,550100,,Midfielder,30
+230147,Daniel,Merrett,BL,13,73,79,47,59,78,12,6,6,2,0,2,1,0,0, Full Time,job,On Cordy... %D and %M,,,351000,,412200,,Back,21
+290110,Mitch,Golby,BL,10,71,78,52,60,84,9,13,4,2,0,1,1,0,0, Full Time,job,Minding Dahlhaus... %D,,,379700,,406600,,Back,41
+290808,Patrick,Karnezis,BL,9,66,60,54,57,79,7,12,5,2,0,0,1,0,1, Full Time,news,%2 Wallis... %P with %b by hand,,,238500,,262200,,Forward,28
+290748,Josh,Green,BL,18,64,65,49,43,64,9,6,0,6,0,0,0,0,1, Full Time,news,%s from %P and %T,,,259700,,320600,,Forward,6
+240087,Jed,Adcock,BL,9,57,60,45,41,57,8,4,2,5,0,2,1,0,0, Full Time,job,Responsible for Higgins... %P and %T,,,418000,,482300,,Back,7
+292128,Elliot,Yeo,BL,7,54,59,34,41,60,9,7,1,3,0,1,1,0,0, Full Time,job,Minding Dickson... %O,,,262800,,310300,,Back,26
+261224,Dayne,Zorko,BL,8,52,64,31,38,53,10,2,1,4,0,3,2,0,2, Full Time,sore,%s from %P and %T on Picken... groin soreness in Q3 and spent more time up forward,,,487800,,535000,,Midfielder,15
+230170,Joel,Patfull,BL,9,51,61,44,41,57,6,6,3,4,0,2,2,0,0, Full Time,job,Has Murphy... %O and %T,,,260400,,340700,,Back,24
+261391,Aaron,Cornelius,BL,10,49,47,37,43,54,6,4,4,1,0,1,1,1,3, Full Time,news,%s from %D and %M on Young,,,269200,,256200,,Forward,44
+280763,Stefan,Martin,BL,9,47,61,36,42,52,5,4,2,1,9,1,1,1,1, Full Time,news,%s from %P and %G on Morris... also %H,,,356400,,377700,,Ruck,12
+292035,Claye,Beams,BL,9,47,33,36,37,48,6,3,3,2,0,0,0,1,0, Full Time,news,On in Q3 for Maguire,sub,Started as a sub,334900,,355100,,Midfielder,17
+271072,Daniel,Rich,BL,8,46,61,38,35,43,5,3,1,3,0,3,0,1,1, Full Time,tagged,Tagged by Lower... %D and %T... also %s,,,439000,,485800,,Midfielder,10
+291828,Billy,Longer,BL,9,45,55,46,43,54,2,5,1,3,21,2,3,0,0, Full Time,news,%H and %D... also %F,,,241500,,280300,,Ruck,5
+281329,Rohan,Bewick,BL,3,44,76,20,32,48,10,2,0,3,2,1,2,0,1, Full Time,news,%s from %O on Cross... also %F,,,293300,,291600,,Forward,8
+210013,Ashley,McGrath,BL,3,40,40,36,30,40,4,4,2,3,0,1,0,0,1, Full Time,switch,%s from %D on Johannisen... switched to defence in Q3... also %T,,,344800,,387000,,Forward,9
+200007,Jonathan,Brown,BL,9,38,40,25,38,52,6,5,3,1,0,2,4,1,1, Full Time,news,%s from %P on Roughead,,,409600,,418100,,Forward,16
+220062,Matt,Maguire,BL,3,25,43,22,20,27,3,2,2,2,0,1,1,0,0, Full Time,injured,Standing Jones... %P and %T... lower left leg knock in Q3,subbed,Subbed off in Q3 for Beams,294000,,391300,,Back,36
+260975,James,Polkinghorne,BL,1,25,12,16,19,26,4,2,1,1,1,0,0,0,1, Full Time,news,%P,,,293900,,307600,,Forward,31

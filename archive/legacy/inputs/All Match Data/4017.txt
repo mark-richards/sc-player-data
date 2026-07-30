@@ -1,0 +1,48 @@
+St Kilda,Saints,Gold Coast,Suns,R2,21.13.139,7.5.47, Full Time
+Apr 8,2012,4:40,Docklands,Fox Sports,250134,10340208,430024,0,Fine,19,,
+
+<em>kelso>you</em>: gary ablett played a soft game of football<br><em>Bluehawks</em>: pooop<br><em>mardals16</em>: red bull can symbol?<br><em>Brent007</em>: Keza: Yeah I noticed the missed tackles too :(<br><em>thebigshot</em>: GAJ 93 in the 2nd half..freak<br><em>000michael</em>: lenny haters ssshh!<br><em>austinmax</em>: What's going on with the saints team scores??<br><em>Sloan4Pres</em>: why didnt i make gaz captan... selwood better gun it tomorrow<br><em>GoldDigger</em>: gary can't be done yet<br><em>krakhead</em>: coach is ecstatic with the win<br><em>Keza41</em>: They missed 2 tackles by Hayes :(<br><em>Jormas</em>: god +108 :D<br>
+230084,Brendon,Goddard,SK,32,141,147,179,112,149,19,14,9,5,0,1,0,1,2, Full Time,star,Skulking around half back for a lot of cheap ball... %O and %M plus %T and %s,,
+210001,Nick,Riewoldt,SK,38,126,119,160,109,135,15,6,11,4,1,2,3,4,2, Full Time,cherry,Kicked %s from %P and %G on Warnock... also %T,,
+250340,David,Armitage,SK,51,109,121,142,82,114,11,11,2,10,0,2,2,2,0, Full Time,hot,%O and %T on Weller,,
+240708,Sam,Fisher,SK,20,104,114,138,83,112,19,6,9,3,1,1,2,0,0, Full Time,hot,%D and %M with %T,job,Loose in defence as usual although Matera is trying to man him up
+220075,Leigh,Montagna,SK,24,102,81,134,78,108,16,9,6,5,0,1,1,0,0, Full Time,hot,Starting the season fairly slowly... %D and %T with %M,,
+270912,Jack,Steven,SK,27,99,98,127,78,106,11,11,5,6,0,1,1,1,1, Full Time,news,%P and %M with %T,,
+280317,Rhys,Stanley,SK,21,98,101,122,81,100,13,5,7,2,6,1,0,2,1, Full Time,news,Booted %s from %G and %O on Taylor,,
+261743,Clinton,Jones,SK,25,95,105,120,71,102,10,14,1,7,0,0,0,1,0, Full Time,news,%P and %T,tagger,Tagging Ablett jnr
+220023,Nick,Dal Santo,SK,24,91,112,117,68,101,13,13,1,6,2,0,1,0,0, Full Time,tagged,Tagged by Shaw... %O and %T,,
+990028,Lenny,Hayes,SK,19,89,118,112,70,100,13,14,2,4,0,2,1,0,1, Full Time,news,%2 Rischitelli... %D and %T plus %s,,
+261323,Ben,McEvoy,SK,26,88,117,101,81,96,5,9,6,1,27,0,0,1,0, Full Time,news,%H and %D with %M and %s,,
+270766,Terry,Milera,SK,20,85,86,109,69,86,12,3,6,3,0,2,1,2,2, Full Time,bubble,First goal... %s from %D on Bennell... also %M and %T,,
+260113,Jarryn,Geary,SK,20,80,99,103,61,81,11,6,4,4,0,1,0,1,0, Full Time,job,Running off Hall... %O and %T,,
+200068,Jason,Blake,SK,13,76,95,99,62,84,10,8,7,3,0,0,1,0,0, Full Time,news,%M and %O with %T,,
+210002,Justin,Koschitzke,SK,17,76,95,96,62,78,6,6,4,5,3,2,1,2,0, Full Time,news,%s from %D and %M with %T on May,,
+250134,Sam,Gilbert,SK,19,75,85,96,64,87,11,8,6,2,0,0,2,1,0, Full Time,news,Started forward... %s from %P and %M,,
+230243,Sean,Dempster,SK,9,74,69,96,57,78,15,5,5,1,0,0,0,0,0, Full Time,job,Minding Brown... %P and %M,,
+200108,Stephen,Milne,SK,12,64,67,83,51,65,9,1,4,3,0,0,1,2,2, Full Time,news,Kicked %s from %P and %M with %T on Harbrow,subbed,Subbed off in Q3 for Ledger
+280053,Tom,Simpkin,SK,5,58,60,77,45,60,11,3,4,2,0,2,1,0,0, Full Time,news,%O and %M,job,Has Lynch
+291773,Jack,Newnes,SK,2,36,41,46,29,39,5,4,3,1,0,0,0,0,0, Full Time,rookie,First game... %O and %M,,
+290826,Jamie,Cripps,SK,8,35,28,45,30,37,5,1,3,1,0,1,1,1,1, Full Time,news,%s from %D and %M,,
+294198,Tom,Ledger,SK,7,33,17,46,25,39,4,4,1,4,0,0,2,0,0, Full Time,news,On in Q3 for Milne,sub,Started as a sub
+220001,Gary,Ablett jnr,GC,39,143,143,95,115,157,20,20,4,4,0,2,0,2,1, Full Time,gun,Tagged by Jones... %D and %M with %T and %s... had a massive Q3,sore,Copped a boot to his left wrist in Q3 but played on
+290832,David,Swallow,GC,24,102,117,81,76,108,12,16,1,7,0,3,0,0,0, Full Time,hot,%P and %T,,
+230015,Jared,Brennan,GC,20,84,96,63,69,100,11,14,4,4,1,0,2,0,0, Full Time,news,Loose in defence... %D and %T with %M,,
+290627,Dion,Prestia,GC,14,80,73,77,64,87,6,13,5,5,0,1,0,0,0, Full Time,news,%P and %T with %M,,
+290817,Brandon,Matera,GC,15,78,61,49,64,85,12,8,5,1,0,0,0,1,1, Full Time,news,Trying to man up Fisher... %O and %M,,
+290623,Josh,Caddy,GC,21,70,51,67,47,67,7,5,2,8,1,0,0,0,0, Full Time,news,%D and %T,,
+281025,Luke,Russell,GC,18,67,68,55,52,69,7,9,1,4,0,3,0,1,0, Full Time,news,%O and %T plus %s,,
+280722,Zac,Smith,GC,15,62,76,65,57,71,1,11,0,3,26,2,1,0,0, Full Time,news,%H and %P with %T,,
+240254,Jarrod,Harbrow,GC,9,58,84,36,48,67,10,6,4,2,0,1,2,0,1, Full Time,news,%O and %M,job,Has Milne
+291594,Harley,Bennell,GC,7,55,59,41,47,67,6,13,2,1,1,0,0,0,0, Full Time,job,Interesting HBF role on Milera... %O,,
+240712,Michael,Rischitelli,GC,15,54,52,56,40,57,4,7,2,6,0,1,1,0,0, Full Time,news,%2 Hayes... poor Q1... %P and %T plus %M,,
+290790,Matthew,Shaw,GC,7,51,50,41,42,61,5,12,1,2,0,0,0,0,1, Full Time,news,%P and %T plus %s,tagger,Tagging Dal Santo
+293795,Jeremy,Taylor,GC,8,50,55,43,36,48,6,3,3,4,0,1,0,0,0, Full Time,job,Playing back on Stanley... %O and %T,,
+281024,Maverick,Weller,GC,8,45,47,43,42,60,3,12,3,2,0,1,2,0,0, Full Time,news,%B among %O... also %F,job,On Armitage
+220013,Campbell,Brown,GC,9,44,36,34,39,48,5,3,3,1,0,1,1,2,0, Full Time,news,Dempster on him... no touches in Q1 and only one in Q2,,
+294266,Tom,Hickey,GC,9,42,47,33,40,49,4,5,3,0,7,1,1,1,0, Full Time,news,%s from %D... also %H,,
+281085,Steven,May,GC,4,41,48,37,33,46,4,6,2,3,0,1,1,0,1, Full Time,switch,Standing Koschitzke... %s from %D and %T... switched forward in Q2,sore,Rolled right ankle in Q2
+293813,Thomas,Lynch,GC,4,33,48,27,31,48,4,8,2,2,0,0,3,0,0, Full Time,switch,%P up forward on Simpkin... switched to defence in Q2,,
+296735,Aaron,Hall,GC,1,26,30,16,20,30,4,5,0,1,0,0,0,0,0, Full Time,bubble,One touch in Q1 but perked up after that... %O on Geary,subbed,Subbed off in Q3 for McKenzie
+250716,Matthew,Warnock,GC,3,25,44,18,26,39,3,8,2,0,0,0,2,0,0, Full Time,job,Chasing Riewoldt... %B among %P,,
+292512,Karmichael,Hunt,GC,2,23,22,27,20,30,1,5,1,3,0,1,2,0,0, Full Time,tonga,%P and %T,,
+290527,Trent,McKenzie,GC,1,22,21,13,18,24,4,2,1,1,0,2,1,0,0, Full Time,news,On in Q3 for Hall,sub,Started as a sub

@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Geelong,Cats,SF,14.18.102,15.7.97, Full Time
+Sep 20,2013,7.50,MCG,Seven,,10402601,haw-v-geel,0,A few showers,17,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> 9robbo9</em>: teams normally copy the premier team thats the issue<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> 9robbo9</em>: @tucker if every team starts playing Ross Lyons style of football the afl is doomed its not Freo its him<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tGC"></b> Jmachete</em>: now for hawks to choke next week<br><em style='color:#000'>nokrad</em>: 2011 QF means nothing i guess<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> dipstick</em>: geelong- what did you do?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tBL"></b> 3rdstriker</em>: Guess the curse is actually on the cats&#044; cant beat the Hawks in games that mean something<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tFR"></b> M. Tucker</em>: suck a fresh donk 9robbo9<br><em style='color:#000'>pietime!</em>: its the chapman curse!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> 9robbo9</em>: Hope Hawkers back it up next week against freo I hate those plows<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> W.Mantooth</em>: im putting a $1000 on freo<br><em style='color:#000'>jackenator</em>: lol the kid<br><em style='color:#000'>jimmyjay</em>: Good solid win...<br>
+210012,Shaun,Burgoyne,HW,37,129,148,164,101,129,16,8,7,6,0,2,0,3,0, Full Time,x-factor,Half back on Duncan... Crucial in the closing stages... %O with %M and %T. Plus %s,,,0,60,0,76,Back Centre,9,20,78.9,85.2,13.64,8.95
+220073,Sam,Mitchell,HW,21,119,143,150,95,135,22,16,5,2,0,1,1,0,0, Full Time,gun,Racked them up all day... %D with %M and %T,,,0,92,0,114,Centre,5,21,95.5,104.2,15.97,17.25
+200060,Brent,Guerra,HW,31,113,110,150,90,117,23,2,10,2,0,2,2,1,0, Full Time,hot,%K in %D with %M plus %s,sore,Corked upper leg in Q2,0,55,0,70,Back,18,16,68.8,80.1,1.45,1.12
+220036,David,Hale,HW,31,105,105,128,91,110,8,7,7,4,18,1,1,2,2, Full Time,hot,Rivers is on him... %s from %D with %G and %T. Also %H,sore,Knee soreness in Q3,0,90,0,74,Forward Ruck,20,21,71.1,83.2,3.26,3.53
+291351,Jack,Gunston,HW,23,101,146,122,87,110,12,9,5,2,0,1,1,4,2, Full Time,hot,First goalscorer... Mackie manning him... %s from %D and %M,,,0,61,0,67,Forward,19,20,76.7,83,1.79,1.73
+240302,Grant,Birchall,HW,18,91,117,114,75,102,16,11,7,0,0,0,0,0,0, Full Time,news,%D and %M,,,0,57,0,87,Back,14,14,80.5,92.1,10.03,10.53
+250089,Jordan,Lewis,HW,22,86,80,118,63,87,9,5,5,9,2,1,2,0,1, Full Time,news,%D with %M and %T,,,0,81,0,80,Forward Centre,3,21,92,96.6,10.73,6.30
+280744,Luke,Breust,HW,20,85,102,109,66,84,11,5,5,4,0,2,0,1,3, Full Time,news,Guthrie on him... %s from %O with %M and %T,,,0,77,0,75,Forward,22,22,74.1,82.5,3.93,3.17
+260710,Paul,Puopolo,HW,20,83,95,111,63,87,10,8,4,7,0,3,2,0,0, Full Time,news,%O with %M and %T,,,0,72,0,65,Forward,28,19,70.3,75.5,2.34,2.27
+250715,Josh,Gibson,HW,18,82,93,108,63,84,11,6,7,4,0,0,0,0,0, Full Time,job,Minding Podsiadly... %K in %P with %M and %T,,,0,97,0,124,Back,6,21,62.7,78.8,3.20,2.81
+295584,Bradley,Hill,HW,14,70,67,87,58,76,14,4,3,0,0,1,1,2,1, Full Time,news,%K in %P with %M. Plus %s,,,0,38,0,42,Centre,10,21,61.6,59.6,3.71,4.70
+294877,Isaac,Smith,HW,8,68,72,87,54,70,14,4,5,0,1,2,0,0,0, Full Time,news,%K in %O with %M,,,0,117,0,128,Centre,16,21,86.4,83,0.79,1.48
+260955,Cyril,Rioli,HW,9,67,72,86,52,71,9,7,4,3,0,0,0,0,2, Full Time,news,%P with %M and %T,,,0,55,0,43,Forward Centre,33,13,73.5,88.4,4.62,6.59
+220047,Luke,Hodge,HW,9,64,69,85,52,69,12,3,5,2,3,2,2,0,0, Full Time,job,%D including %K and %M,,,0,132,0,132,Centre,15,20,90.8,96.7,4.43,5.10
+240399,Lance,Franklin,HW,15,62,49,80,52,72,10,6,4,2,0,0,2,1,0, Full Time,news,Lonergan has him... %s from %O with %M and %T,sore,Sore right elbow in Q1,0,106,0,101,Forward,23,19,78.7,90.4,24.19,33.29
+260472,Max,Bailey,HW,10,61,61,74,50,63,7,4,2,2,18,0,0,0,0, Full Time,news,%P with %M and %H. Also %T,subbed,Subbed off in Q3,0,72,0,85,Ruck,39,16,62.3,72.7,2.94,3.09
+220039,Brian,Lake,HW,12,60,64,75,51,66,7,8,6,1,0,1,0,0,0, Full Time,job,On Hawkins... %P and %M,,,0,51,0,48,Back,17,18,68.9,78.7,2.22,3.06
+280737,Liam,Shiels,HW,9,59,45,75,47,64,8,7,4,2,0,0,0,0,1, Full Time,tagger,Tagging Selwood and moved to Johnson in Q2... %P and %M with %T,,,0,131,0,133,Centre,26,14,63.4,61.4,0.30,0.72
+230197,Brad,Sewell,HW,13,51,77,67,43,66,6,10,2,4,0,0,3,0,0, Full Time,news,%O with %M and %T,,,0,76,0,81,Centre,12,18,77.2,78.1,0.80,0.72
+280471,Ben,Stratton,HW,9,46,77,62,37,54,5,6,3,4,0,0,2,0,0, Full Time,news,%D with %T,,,0,80,0,63,Back,24,22,62.1,65.8,2.66,2.12
+240357,Jarryd,Roughead,HW,2,36,48,44,29,41,5,6,1,1,1,0,0,0,1, Full Time,news,Taylor manning him up... %P,,,0,47,0,53,Forward Ruck,2,22,86.7,98.5,29.45,28.77
+261386,Brendan,Whitecross,HW,1,23,21,30,17,24,4,2,1,1,0,0,0,0,0, Full Time,news,Subbed on in Q3... %P,sub,Started as the sub,0,99,0,97,Forward Centre,11,10,65.5,61.6,0.40,0.41
+220054,Steve,Johnson,GE,39,150,177,100,122,157,22,10,8,4,0,2,1,4,1, Full Time,star,Shiels moved to him in Q2... %K in %D with %M and %T. Featuring %s,,,0,150,0,111,Forward Centre,20,16,118.4,115.9,40.31,31.06
+250321,Joel,Selwood,GE,21,90,105,72,74,99,10,13,4,4,0,3,1,1,0, Full Time,news,Shiels tagging him in first half... %P with %M and %T. Plus %s,,,0,161,0,148,Centre,14,22,106.4,118.4,28.49,32.27
+200034,Joel,Corey,GE,20,74,66,71,57,81,7,9,4,7,0,1,2,0,0, Full Time,news,%D with %M and %T,,,0,96,0,120,Centre,11,19,77.2,81.6,0.76,0.87
+220007,Jimmy,Bartel,GE,20,73,85,61,59,78,8,8,4,4,0,2,1,1,0, Full Time,news,%D with %M and %T. Also %s,,,0,55,0,66,Forward Centre,3,21,95,106.1,35.55,39.34
+230214,Mathew,Stokes,GE,9,73,76,41,60,81,13,8,5,1,0,2,1,0,0, Full Time,news,%O and %M,,,0,76,0,64,Forward,27,21,94.7,97.3,14.11,6.07
+281065,Mitch,Duncan,GE,9,72,83,43,55,78,13,6,4,3,0,0,1,0,0, Full Time,news,Burgoyne on him... %D with %M and %T,,,0,46,0,39,Centre,22,22,88.1,80.5,1.20,1.11
+280990,Steven,Motlop,GE,16,71,98,54,54,72,9,5,2,4,0,0,0,2,0, Full Time,news,%s from %P and %T,,,0,109,0,170,Forward,32,21,74.1,81.9,5.20,4.73
+280918,Allen,Christensen,GE,19,65,50,46,53,75,10,6,3,4,0,1,3,1,0, Full Time,news,%K in %P with %M and %T. Plus %s,,,0,106,0,113,Forward Centre,28,18,86.8,92.8,2.22,2.35
+261497,Harry,Taylor,GE,10,59,86,45,50,63,7,6,5,1,0,1,0,1,0, Full Time,job,Has Roughhead... %P with %M. Also %s,,,0,65,0,76,Back,7,21,78.7,94,6.85,10.11
+295942,Jordan,Murdoch,GE,11,57,54,49,45,57,6,4,4,3,0,1,0,1,0, Full Time,news,%O with %M and %T. Plus %s,,,0,103,0,111,Back,21,10,50.1,51.2,0.37,0.69
+220058,James,Kelly,GE,9,50,51,44,38,57,6,6,2,5,0,0,2,0,0, Full Time,news,%O with %M and %T,,,0,93,0,84,Centre,9,17,95.6,90.8,0.58,0.43
+290623,Josh,Caddy,GE,9,48,49,29,40,54,8,4,3,1,0,0,1,1,0, Full Time,news,Subbed on in Q3... %D and %M. Plus %s,sub,Started as the sub,0,86,0,62,Centre,23,16,63.4,60.3,1.69,3.23
+261510,Tom,Hawkins,GE,10,46,54,37,41,52,5,5,4,1,0,1,1,1,1, Full Time,news,Lake minding him... %s from %O with %G,,,0,70,0,98,Forward,26,20,56.5,66.7,3.24,4.28
+280959,Nathan,Vardy,GE,14,44,53,36,40,47,4,1,2,1,17,0,1,1,0, Full Time,news,%O with %G and %H. Plus %s,,,0,71,0,85,Ruck,30,7,56.4,68.7,4.38,5.71
+200131,James,Podsiadly,GE,3,43,45,32,35,43,6,2,5,1,0,1,0,0,1, Full Time,news,Gibson on him... %P and %G,,,0,90,0,101,Forward,31,20,75.6,76.3,1.23,1.45
+230248,Andrew,Mackie,GE,3,43,38,21,32,48,9,4,1,2,0,0,1,0,0, Full Time,job,Manning Gunston... %D and %T,,,0,94,0,129,Back,4,22,82.9,87.4,8.04,5.44
+290550,Cameron,Guthrie,GE,8,40,69,22,31,42,7,3,1,1,0,0,0,1,0, Full Time,job,Manning Bruest... %P. Also %s,,,0,42,0,56,Back,29,17,55.5,58.9,1.28,2.05
+296733,Mark,Blicavs,GE,3,40,47,36,33,41,3,5,1,2,8,2,0,0,0, Full Time,news,%P with %T and %H,,,0,82,0,99,Centre Ruck,46,19,60.8,66.7,13.99,18.41
+230250,Jared,Rivers,GE,3,38,41,30,31,42,5,4,3,2,0,1,1,0,0, Full Time,job,Manning Hale... No points in Q1... %D and %M,,,0,41,0,53,Back,25,7,43.9,52.4,0.83,0.68
+210059,Josh,Hunt,GE,3,35,34,25,30,42,5,5,3,1,0,0,1,0,0, Full Time,news,%O with %M,subbed,Subbed off in Q3,0,109,0,137,Back,8,10,60.5,70.4,0.47,0.44
+230125,Tom,Lonergan,GE,3,31,43,25,23,30,4,2,2,2,0,1,0,0,0, Full Time,job,On Franklin... %D and %T,,,0,14,0,12,Back,13,22,38.7,45.9,2.62,2.44
+250290,Travis,Varcoe,GE,1,29,35,14,23,34,6,3,1,1,0,0,1,0,1, Full Time,news,%P,,,0,37,0,48,Forward Centre,5,11,55,55.9,7.45,7.22

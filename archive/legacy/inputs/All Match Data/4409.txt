@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Geelong,Cats,R1,12.14.86,13.15.93, Full Time
+Apr 01,2013,3.15,MCG,Seven,260382,10390109,5015,0,Partly cloudy,20,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>RayPest</em>: scored 2358 SC this week :)<br><em>m_snowy</em>: exactly when is the earliest possible time i can get rid of that dud jack watts? <br><em>fongool</em>: Hawks choke...again!<br><em>bert1</em>: roughy your shower <br><em>bob81</em>: love the jim miester but hes gone rd 2 done his  job<br><em>NDiddy</em>: @pokerface LOL!<br><em>Sydney14</em>: Buddy you herosexual<br><em>jesseboy</em>: And richmond are 9th on the ladder<br><em>kano</em>: 2122 DT...does that stack up this week ?<br><em>valkorum</em>: Andrew Robinson from Tassie wins the Stawel Gift<br><em>Pokerface</em>: enough bandaids here to feed sudan<br><em>Dangeroo</em>: finished 1899 damnit<br>
+220073,Sam,Mitchell,HW,30,128,141,161,101,141,19,18,6,4,0,1,0,0,0, Full Time,hot,%D and %T with %M,job,Starting off a HBF on Motlop,523500,,592600,,Midfielder,5
+240302,Grant,Birchall,HW,19,101,122,131,79,111,20,9,6,2,0,0,1,0,0, Full Time,hot,%P and %M... also %T,job,Running off Murdoch,455400,,506400,,Back,14
+260710,Paul,Puopolo,HW,20,98,104,122,82,111,10,18,4,5,0,6,2,0,0, Full Time,news,Played a lot of midfield... %P and %M with %T... also %4FF and %F,,,267000,,314200,,Forward,28
+250089,Jordan,Lewis,HW,24,96,98,116,82,109,12,15,6,1,0,1,0,1,1, Full Time,news,First goal... %s from %D and %M,,,463900,,513400,,Midfielder,3
+260955,Cyril,Rioli,HW,21,95,114,122,72,94,13,7,4,5,0,3,0,1,1, Full Time,news,%s from %O and %M on Enright... also %T,,,425800,,527300,,Forward,33
+230197,Brad,Sewell,HW,14,91,88,111,76,111,15,18,3,1,0,0,1,0,0, Full Time,news,%D and %M,,,457800,,542700,,Midfielder,12
+294877,Isaac,Smith,HW,20,88,69,111,75,102,11,12,6,3,0,1,2,1,0, Full Time,news,%O and %T with %M and %s,,,401000,,384100,,Midfielder,16
+210012,Shaun,Burgoyne,HW,15,87,96,110,68,96,15,11,4,2,0,0,0,0,0, Full Time,news,Playing mostly midfield... %P and %T with %M,,,371200,,439800,,Midfielder,9
+200060,Brent,Guerra,HW,15,85,109,107,68,94,15,9,3,2,0,1,1,1,1, Full Time,news,%D and %M plus %s... also %T,job,Matched up on Bartel,394300,,440100,,Back,18
+240399,Lance,Franklin,HW,12,73,62,95,62,80,11,3,5,3,0,2,3,2,2, Full Time,news,%s from %D and %G with %T on Lonergan... also %F,sore,Hamstring twinge in Q1 but returned soon after,521300,,618000,,Forward,23
+281301,Ryan,Schoenmakers,HW,13,73,74,91,61,81,10,10,6,1,0,1,0,0,0, Full Time,news,%M and %D,ipod,Standing Podsiadly,293900,,365300,,Back,25
+280744,Luke,Breust,HW,15,71,72,86,57,72,6,8,1,4,0,3,0,2,3, Full Time,news,%s from %P on Mackie... also %T,,,389100,,458900,,Forward,22
+240357,Jarryd,Roughead,HW,15,66,58,81,57,73,9,6,4,1,5,1,1,1,2, Full Time,news,%s from %D and %M on Taylor... also %H,,,472200,,554800,,Forward,2
+280471,Ben,Stratton,HW,9,64,75,85,46,63,8,5,3,5,0,1,0,0,0, Full Time,job,Chapman is his man.. %P and %T with %M,,,275400,,324700,,Back,24
+280858,Shane,Savage,HW,11,63,66,79,51,67,8,5,2,3,0,1,1,2,1, Full Time,news,Up forward on Taylor Hunt... %s from %P and %T with %M,,,285700,,297800,,Midfielder,21
+220036,David,Hale,HW,12,58,70,71,51,63,5,5,4,2,9,1,1,1,0, Full Time,news,%s from %P and %M on Rivers... also %H and %T,,,419500,,511600,,Forward,20
+295584,Bradley,Hill,HW,5,58,56,77,45,60,11,3,4,2,0,2,1,0,0, Full Time,news,Started on a wing... %D and %M including 10 touches in an excellent Q1... also %T,subbed,Subbed off in Q3 for Anderson,191700,,152000,,Midfielder,10
+260472,Max,Bailey,HW,9,47,68,56,44,57,3,6,2,2,18,0,2,0,0, Full Time,news,%H and %D with %M and %T... also %F,in,Late replacement for Brian Lake,216400,,286500,,Ruck,39
+250715,Josh,Gibson,HW,7,44,63,51,38,54,2,13,1,2,0,1,0,0,0, Full Time,tomahawk,Has Hawkins... %B among %D with %T and %M,,,333500,,420700,,Back,6
+291351,Jack,Gunston,HW,2,32,35,41,24,34,4,4,1,2,0,0,0,0,1, Full Time,news,%s from %P and %T,,,315200,,381600,,Forward,19
+280737,Liam,Shiels,HW,3,31,24,40,29,37,4,3,5,0,0,0,1,0,1, Full Time,news,Donuts in Q1... %s from %O and %M,sore,Knock on a knee in Q1,408900,,375900,,Midfielder,26
+291861,Jed,Anderson,HW,2,28,17,37,21,27,5,1,2,1,0,1,0,0,0, Full Time,news,On in Q3 for Hill... %P and %M,sub,Started as a sub,108500,,115900,,Midfielder ,37
+250321,Joel,Selwood,GE,38,122,126,103,107,149,13,20,8,6,2,2,5,1,0, Full Time,star,%O including %B with %T and %M... also %F... had a barnstorming Q3 to lift Geelong to the lead,,,530900,,629500,,Midfielder,14
+230248,Andrew,Mackie,GE,26,109,107,73,88,117,17,8,9,3,0,0,1,1,0, Full Time,hot,%D and %T with %M... also %s,job,Minding Breust,405100,,425100,,Back,4
+200039,Paul,Chapman,GE,26,103,120,67,80,111,17,8,5,5,0,1,2,1,0, Full Time,magnet,%s from %D and %M starting forward on Stratton... also %F... started slowly but was everywhere after QT,,,502600,,535600,,Forward,35
+230214,Mathew,Stokes,GE,15,98,93,70,81,113,13,16,5,3,1,1,1,0,1, Full Time,news,%s from %O including %k by foot... also %M and %T,,,338700,,348100,,Forward,27
+280822,Taylor,Hunt,GE,15,96,97,66,71,96,15,7,5,5,0,2,0,0,0, Full Time,news,%P and %T with %M,job,Savage manning him up,319400,,347200,,Midfielder,19
+200131,James,Podsiadly,GE,26,91,106,77,75,95,10,5,8,4,0,0,1,2,2, Full Time,news,Booted %s from %G and %P on Schoenmakers... also %T,,,360300,,393100,,Forward,31
+220007,Jimmy,Bartel,GE,14,89,88,57,73,96,14,8,8,1,2,0,0,0,1, Full Time,superman,%s from %P and %M starting forward on Guerra... massive Q4 when it mattered after a quiet patch,,,492700,,527400,,Midfielder,3
+281065,Mitch,Duncan,GE,20,85,87,56,74,94,13,5,8,1,0,1,2,2,1, Full Time,news,%s from %K among %D with %M,,,420500,,429100,,Forward,22
+280990,Steven,Motlop,GE,14,80,74,55,59,83,13,5,4,5,0,0,1,0,2, Full Time,news,%s from %P on Mitchell... also %M and %T,,,302300,,329400,,Forward,32
+280918,Allen,Christensen,GE,14,71,65,53,58,79,9,9,3,3,0,1,1,1,1, Full Time,sore,Copped a Selwood boot to the moosh early in Q1 which drew blood... %P and %T with %M... also %s,,,381200,,427700,,Midfielder,28
+200035,Corey,Enright,GE,8,66,85,34,52,72,12,9,2,1,0,2,0,0,0, Full Time,news,%P and %M,job,Responsible for Rioli,416100,,502400,,Back,44
+261510,Tom,Hawkins,GE,16,65,77,53,60,80,7,8,5,2,1,0,3,2,1, Full Time,news,%s from %G and %P on Gibson with %k of those by foot... also %F,,,409500,,508800,,Forward,26
+290783,Billie,Smedts,GE,11,62,77,47,53,67,7,6,4,1,0,0,0,2,1, Full Time,sore,%D and %M plus %s... vomited on the bench after a contest in Q4,,,267900,,259900,,Back,2
+261497,Harry,Taylor,GE,12,61,78,39,53,72,10,7,6,1,0,1,2,0,0, Full Time,job,Has Roughead... %O and %M... also %F,,,376800,,465000,,Back,7
+230250,Jared,Rivers,GE,4,55,64,43,44,60,7,7,3,3,0,2,1,0,0, Full Time,job,Hale is his man... %P including %B with %T and %M,sore,Right knee problem in Q3,299800,,394200,,Back,25
+250290,Travis,Varcoe,GE,14,53,61,38,41,60,8,5,1,4,0,0,2,1,0, Full Time,news,%O and %T... also %s and %F,,,234400,,268900,,Forward,5
+290623,Josh,Caddy,GE,8,50,33,29,43,61,9,6,4,1,0,0,2,0,1, Full Time,news,%D and %M plus %s starting forward,subbed,Subbed off in Q4 for Horlin-Smith,328600,,329300,,Midfielder,23
+295942,Jordan,Murdoch,GE,13,47,41,54,33,45,2,6,1,6,0,2,0,0,0, Full Time,news,%P and %T on Birchall,,,318000,,306100,,Back ,21
+230125,Tom,Lonergan,GE,9,44,37,50,36,48,2,6,4,4,0,1,1,0,0, Full Time,job,On Franklin... %O and %T with %M,,,255400,,316400,,Back,13
+260261,Trent,West,GE,4,42,36,26,36,44,6,3,2,0,11,1,0,0,0, Full Time,news,%H and %D with %M,,,349600,,406900,,Ruck,12
+296733,Mark,Blicavs,GE,4,32,57,33,31,44,1,8,0,2,11,0,2,0,0, Full Time,rookie,First game... %H and %P with %T,,,108500,,115900,,Ruck,46
+293255,George,Horlin-Smith,GE,1,16,5,12,14,18,2,2,2,0,0,0,0,0,0, Full Time,news,On in Q4 for Caddy... %O and %M,sub,Started as a sub,171900,,198000,,Forward,33

@@ -1,0 +1,48 @@
+Carlton,Blues,Melbourne,Demons,R9,15.17.107,6.13.49, Full Time
+May 27,2012,3:15,MCG,Seven,280972,10340908,430087,0,A shower or two,15,,
+
+<em>number1red</em>: stp complaining about kruezers SC everything he did today was pure class<br><em>Punt</em>: Unlucky smcp !!<br><em>JamesKhng</em>: on target for bets<br><em>jballstars</em>: Kruz 116 as if did flower all<br><em>Nick1069</em>: kreuz sc is going to cost me a league win. could not get any more powered.<br><em>smcp</em>: If Kreuz + a walker score less than SC 215 - I win :(<br><em>Nigey95</em>: scotland the useless cow didn't get a ton. :/<br><em>luvfooty</em>: nice SC Kreuzer<br><em>supervery</em>: robinson talks so fast<br><em>JuddMurphy</em>: flowering Robbo&#044; all I needed was less than 140 from him to win my eliminator... flower<br><em>Catas</em>: Agree Grazz. Can't be any worse<br><em>MontySnr</em>: scotland 93 SC<br>
+290311,Mitch,Robinson,CA,44,146,161,184,122,162,18,15,8,6,1,2,3,3,2, Full Time,star,%2 Jones then got the Dunn tag in Q3... %P and %M plus %s... had a sensational Q2,,
+261258,David,Ellard,CA,26,117,115,151,86,122,17,13,3,7,0,1,0,0,2, Full Time,hot,%O and %s,tagger,Tagging Moloney
+240014,Andrew,Walker,CA,31,115,107,148,90,121,17,8,6,5,0,0,1,2,1, Full Time,hot,%P on McDonald,,
+230202,Kade,Simpson,CA,26,111,99,144,83,116,14,12,5,7,1,0,0,0,1, Full Time,hot,Tagged by Bail... %P with %T and %M,,
+250417,Bryce,Gibbs,CA,30,111,99,148,82,115,17,8,6,7,0,0,1,0,1, Full Time,hot,%D including %K,,
+240028,Brock,McLean,CA,20,105,115,130,85,124,12,21,3,5,0,0,1,0,1, Full Time,bluemoon,%D and %T plus %M and %s,,
+240060,Eddie,Betts,CA,31,99,105,118,83,102,8,9,3,4,0,2,0,5,0, Full Time,garbage,%s from %D on Garland... also %T... three majors in Q4 garbage time,,
+990059,Heath,Scotland,CA,15,92,90,117,72,100,10,13,5,5,0,0,0,0,1, Full Time,news,%O and %T,,
+270737,Shaun,Hampson,CA,23,88,67,114,73,89,9,2,9,4,5,0,1,2,0, Full Time,news,Kicked %s from %G and %P on Rivers,,
+261043,Michael,Jamison,CA,14,83,94,109,66,87,15,5,7,2,0,2,1,0,0, Full Time,news,%P and %M,job,Standing Clark
+250672,Robert,Warnock,CA,17,79,111,93,69,85,6,6,2,3,33,0,1,0,1, Full Time,news,#1 ruck today... %H and %D with %T,,
+261299,Matthew,Kreuzer,CA,16,79,116,93,68,89,9,11,3,1,11,0,0,1,0, Full Time,news,%D at CHF on Frawley... also %H,,
+270146,Ed,Curnow,CA,9,69,64,84,56,81,7,15,2,3,0,0,0,0,0, Full Time,news,%P,,
+250211,Paul,Bower,CA,13,68,53,88,56,72,10,5,8,1,0,0,0,0,0, Full Time,job,Dunn is his man... %P and %M,in,Late replacement for Lachie Henderson
+260104,Andrew,Collins,CA,12,67,59,88,47,69,10,7,1,5,0,0,0,0,0, Full Time,injured,%O and %T on Grimes... left knee injury in Q4,,
+220056,Chris,Judd,CA,8,64,80,77,51,73,7,14,0,3,0,2,0,0,1, Full Time,tagged,Tagged by McKenzie... %P,,
+261318,Aaron,Joseph,CA,8,63,76,79,50,69,9,9,3,2,0,1,0,0,0, Full Time,news,%D,,
+296531,Joshua,Bootsma,CA,9,61,71,81,45,63,8,6,2,5,0,2,1,0,0, Full Time,bubble,Second game... %D,job,On Howe
+292511,Zach,Tuohy,CA,21,55,64,74,42,60,5,5,2,6,0,0,2,1,0, Full Time,job,Minding Green... %D and %T,,
+260533,Dennis,Armfield,CA,14,43,45,55,33,43,2,4,2,4,0,0,0,1,1, Full Time,news,Playing a HFF trying to man Watts up... %T,subbed,Subbed off in Q3 for Lucas
+270653,Jeff,Garlett,CA,4,41,45,54,32,46,5,5,2,3,0,0,1,0,1, Full Time,news,%O and %T on Nicholson,,
+281079,Kane,Lucas,CA,0,10,6,12,8,12,0,3,0,1,0,0,0,0,0, Full Time,in,%l Chris Yarran... on in Q3 for Armfield,sub,Started as a sub
+260288,James,Frawley,ME,25,114,116,69,87,115,21,3,10,4,0,1,1,0,1, Full Time,hot,%O and %M,job,Standing Kreuzer
+250222,Nathan,Jones,ME,26,108,90,87,86,117,12,15,5,5,0,1,0,1,0, Full Time,hot,%2 Robinson... %D,,
+261297,Jack,Grimes,ME,15,90,72,57,69,97,15,9,4,4,0,1,1,0,1, Full Time,news,%P,job,Zoning off Collins
+270906,Jordie,McKenzie,ME,43,89,71,91,64,90,7,10,3,10,0,2,1,0,0, Full Time,news,%D and %T,tagger,Tagging Judd
+294874,Daniel,Nicholson,ME,14,88,61,60,73,96,13,9,9,1,0,0,0,0,0, Full Time,news,%P and %M,job,Running off Garlett
+230250,Jared,Rivers,ME,14,87,95,60,68,93,13,9,6,3,0,0,0,0,0, Full Time,news,%D and %M,job,Hampson is his man
+250345,Rohan,Bail,ME,10,87,94,56,69,96,14,10,5,3,0,1,1,0,0, Full Time,news,%P and %M,tagger,Tagging Simpson
+280746,Sam,Blease,ME,15,79,72,43,60,79,15,2,5,2,0,0,0,1,1, Full Time,news,%P and %M plus %s,,
+280972,Jack,Watts,ME,10,79,80,52,65,91,12,11,5,2,1,0,1,0,0, Full Time,news,Playing a HBF again with Armfield manning him up... %O,,
+291533,Tom,McDonald,ME,13,78,100,70,65,87,7,12,7,3,0,0,0,0,0, Full Time,job,Walker is his man... %M and %D,,
+220052,Mark,Jamar,ME,37,75,77,81,63,74,2,3,0,6,40,1,1,0,1, Full Time,news,%H and %D with %T,,
+250548,Lynden,Dunn,ME,5,68,41,39,49,64,13,1,4,3,0,2,0,0,1, Full Time,tagger,Started forward on Bower... %s from %P... moved to tag Robinson in Q3,,
+270830,Colin,Garland,ME,14,67,95,58,53,75,8,7,5,5,0,0,2,0,0, Full Time,news,%P,job,Has Betts
+280608,Jack,Trengove,ME,10,66,64,57,51,68,7,7,4,4,2,1,0,0,0, Full Time,news,%D,,
+240393,Mitchell,Clark,ME,15,65,76,46,57,70,8,4,3,1,0,1,1,3,4, Full Time,news,Booted %s from %D on Jamison,,
+280579,Luke,Tapscott,ME,10,61,44,55,46,61,7,3,5,5,0,1,1,0,1, Full Time,in,%l Clint Bartram... %O and %T,,
+291313,Jeremy,Howe,ME,15,55,56,52,44,58,5,4,4,4,0,0,1,1,1, Full Time,news,First goal... booted %s from %P and %M on Bootsma,,
+260176,James,Magner,ME,7,51,54,31,38,57,9,6,1,3,0,0,1,0,0, Full Time,news,%O,,
+230151,Brent,Moloney,ME,3,42,39,35,34,49,4,9,1,2,1,0,0,0,0, Full Time,tagged,Tagged by Ellard... %P and %T,,
+250418,James,Sellar,ME,2,33,30,32,29,36,2,5,3,1,3,1,0,0,0, Full Time,news,%P,,
+290943,Jamie,Bennell,ME,3,32,27,23,23,31,5,1,2,2,0,0,0,0,1, Full Time,news,On in Q2 for Green,sub,Started as a sub
+200054,Brad,Green,ME,0,4,2,1,3,4,1,0,0,0,0,0,0,0,1, Full Time,injured,%s from %P on Tuohy... smashed in the ribs in a contest with Armfield in Q1,subbed,Subbed off in Q2 for Bennell

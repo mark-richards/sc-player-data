@@ -1,0 +1,48 @@
+Port Adelaide,Power,Carlton,Blues,R22,20.20.140,5.7.37, Full Time
+Aug 22,2014,7.50,Adelaide,Seven,,10422201,port-v-carl,0,Fine,18,,
+
+<em style='color:#000'>chrisj911</em>: murphy beat Simpson&#044; that sums up my sc prelim<br><em style='color:#000'>uptoolate</em>: very very sad Carlton ..   for many years now ... :0(<br><em style='color:#000'>Mendax</em>: Not AFL quality<br><em style='color:#000'>Costanza</em>: to the press conference shamozzle that is Mick<br><em style='color:#000'>frenzy</em>: gray VC &#044; but simpson stunk<br><em style='color:#000'>tezzer_j</em>: 40 scoring shots to 12 lol lol lol lol<br><em style='color:#000'>maestro</em>: can't wait to see malthouse press conference<br><em style='color:#000'>cusch1</em>: Ken Hinkley on his phone as the final siren goes hahah classic that one<br><em style='color:#000'>Stuart88</em>: As a carlton fan carnt belive how bad this is but on a good note robbie VC great call<br><em style='color:#000'>runt</em>: I have Simpson but his effort has been sp pathetic you can only laugh<br><em style='color:#000'>cusch1</em>: Wingard deserves the star for that<br><em style='color:#000'>Mendax</em>: Blues just a joke<br>
+261396,Robbie,Gray,PA,34,137,171,165,114,149,13,18,5,5,0,1,0,4,2, Full Time,star,%s from %P and %M plus %T,,,446900,47,512000,33,Forward Midfielder,9,20,93.5,107.3,12.22,21.66,13.97,454957,82
+291962,Chad,Wingard,PA,32,119,100,153,99,122,16,3,12,3,0,0,1,3,2, Full Time,x-factor,First goal... %s from %D and %M with %T,,,331200,68,351600,62,Forward Midfielder,20,19,73.9,77.4,13.96,18.21,14.79,346082,77
+292145,Thomas,Jonas,PA,25,109,98,143,85,111,14,8,10,5,0,1,0,0,0, Full Time,bluemoon,%D and %M with %T,job,Took White in the second quarter,310900,17,343400,25,Back,42,17,58.2,63.8,0.56,0.92,0.76,293652,35
+260750,Justin,Westhoff,PA,26,102,109,126,87,108,15,6,9,0,0,0,0,3,0, Full Time,target,Jamison manning him... %s from %P and %M,sore,Jarred knee midway through the fourth,441200,101,482500,135,Forward,39,20,87.3,90.3,4.97,4.93,7.81,436058,80
+261892,Hamish,Hartlett,PA,21,102,130,128,81,110,17,10,5,2,1,0,0,1,1, Full Time,hot,%O and %M plus %T... %s as well,,,453700,95,492700,94,Midfielder,8,17,88,94.8,0.85,1.25,1.24,434737,76
+250365,Travis,Boak,PA,25,96,108,121,81,111,15,12,6,2,0,1,2,1,0, Full Time,tagged,Tagged by Curnow at stoppages... %D and %M with %T... %s as well,,,494100,85,538400,59,Midfielder,1,19,96.4,106.2,1.62,2.81,2.74,508912,113
+290156,Jasper,Pittard,PA,14,93,104,120,74,97,17,6,8,1,0,1,0,0,1, Full Time,news,%O including %K... also %M... and scored %s,,,285700,88,285300,104,Back,29,20,65.8,66,1.72,1.95,1.87,327589,91
+210020,Kane,Cornes,PA,15,86,96,109,71,102,13,14,4,3,0,1,2,0,0, Full Time,tagger,Tagging Murphy... %O and %M plus %T,,,454000,99,417300,78,Midfielder,18,20,97.4,87.9,3.96,0.82,4.17,459630,97
+294604,Jake,Neade,PA,20,85,97,105,72,86,11,3,7,1,0,1,0,3,2, Full Time,news,%s from %D and %M,,,263000,29,281900,32,Forward,32,3,56.7,62,0.37,0.37,0.48,238884,31
+240290,Angus,Monfries,PA,19,83,80,104,68,89,9,9,6,3,0,0,0,1,2, Full Time,news,Tuohy on him... %s from %P and %M plus %T,,,292000,75,293200,69,Forward,6,12,65.8,66.3,0.88,0.76,1.30,299393,80
+261911,Brad,Ebert,PA,22,82,83,106,63,82,5,8,5,7,1,1,0,1,0, Full Time,news,%P and %M plus %T... %s as well,,,460800,121,424200,98,Midfielder,7,20,99.3,94.8,6.56,2.53,5.85,473399,108
+290738,Jared,Polec,PA,9,80,108,102,65,93,13,11,3,3,0,1,2,0,3, Full Time,news,%D and %M with %T... %s as well,,,319000,76,342000,77,Midfielder,21,19,73.6,81,20.44,23.05,24.30,335007,81
+280013,Jackson,Trengove,PA,15,73,82,93,59,80,8,8,4,4,8,0,1,0,0, Full Time,job,Responsible for Casboult... %O and %M plus %T,,,276200,109,316900,127,Back,12,15,56.1,68.7,0.95,1.87,1.56,284913,90
+261230,Matthew,Lobbe,PA,16,71,86,86,64,79,7,5,2,3,28,3,3,0,0, Full Time,news,%H... also %D and %T... umps paid him %4FF... gave away %F,,,477300,69,557300,56,Ruck,23,19,90.8,102.8,6.13,5.10,6.01,462832,71
+230195,Jay,Schulz,PA,15,65,74,80,61,74,8,5,7,0,0,2,2,2,2, Full Time,concussed,Rowe standing him... Knocked his head on the turf under pressure from Jamison... Scored %s from %G and %D,,,345700,95,346600,95,Forward,28,20,76.7,78.5,2.39,2.65,3.14,381798,103
+240389,Matt,White,PA,14,65,55,86,51,63,8,1,7,3,0,0,0,1,0, Full Time,news,%O with %k by foot... also %M and %T... and scored %s,subbed,Subbed late in the third,374300,118,367600,133,Midfielder,19,17,77.1,77.2,0.64,0.91,0.89,398157,103
+271078,Matthew,Broadbent,PA,8,56,70,74,40,57,12,3,2,2,0,0,0,0,0, Full Time,job,Has the job on Menzel... %D with %k by foot... also %M and %T,,,405300,72,430900,44,Back,5,20,77,83.9,1.50,1.54,2.02,386472,63
+290540,Cameron,O'Shea,PA,8,51,64,62,47,69,4,14,3,2,0,0,2,0,0, Full Time,news,%P including %B... also %M and %T,,,409900,109,411400,105,Back,13,8,73.4,75.5,0.33,0.21,0.40,396023,85
+250688,Alipate,Carlile,PA,8,46,72,60,35,51,5,7,1,4,0,1,1,0,0, Full Time,news,%D and %T,,,233400,46,283500,47,Back,27,15,46.6,53.9,0.34,0.44,0.57,244066,53
+294318,Oliver,Wines,PA,7,43,61,46,42,60,3,15,0,0,6,1,1,0,0, Full Time,missing,%D including %B,,,438800,123,498400,95,Midfielder,16,20,94.3,103.1,6.35,13.12,8.29,465931,116
+280750,Andrew,Moore,PA,3,38,26,49,29,40,5,4,2,2,0,0,0,0,1, Full Time,news,%D and %M with %T... %s as well,sub,Starting as the sub,351300,70,337300,62,Midfielder,26,4,60.5,60.8,0.13,0.09,0.14,319054,57
+291964,Jack,Hombsch,PA,4,35,40,45,31,42,6,4,4,0,0,0,1,0,0, Full Time,job,Has the key role on Waite... %M and %O,,,284100,84,326700,72,Back,36,19,60.4,68.3,0.64,0.90,0.79,292585,70
+250417,Bryce,Gibbs,CA,26,113,132,78,89,120,16,13,5,4,0,2,0,1,0, Full Time,magnet,%D and %M with %T... %s as well,,,522500,97,540100,119,Midfielder,4,20,101.5,106.3,1.59,1.71,2.43,524509,106
+220056,Chris,Judd,CA,18,87,80,67,65,88,12,6,6,5,0,0,0,0,1, Full Time,news,%D and %M with %T... %s as well,,,438000,72,508300,91,Midfielder,5,10,79,91.8,0.57,0.53,2.03,408318,61
+270146,Ed,Curnow,CA,14,85,97,51,62,87,15,7,3,4,0,1,0,0,0, Full Time,tagger,Tagging Boak... %P and %M plus %T,,,372700,59,370100,73,Midfielder,35,13,86.8,85.6,0.24,0.23,0.37,398259,86
+281124,Levi,Casboult,CA,16,84,84,62,69,84,11,4,5,3,7,4,1,1,2, Full Time,news,Trengove on him... %s from %O and %M plus %T... aided by %4FF,,,277200,78,303100,78,Forward,41,17,62.9,64.5,0.39,0.48,0.54,306099,82
+260278,Sam,Rowe,CA,18,83,107,57,72,93,13,6,11,1,0,1,2,0,0, Full Time,news,%P and %M,job,Responsible for Shulz,261400,43,327400,49,Forward Ruck,17,19,49.7,65.6,1.68,1.70,2.39,269469,55
+240300,Cameron,Wood,CA,20,81,86,59,77,94,10,6,8,0,22,2,3,0,0, Full Time,news,%H... also %D and %M... conceded %F,,,258100,22,263000,11,Ruck,36,4,73.3,78,5.56,12.19,1.91,324338,61
+220015,Andrew,Carrazzo,CA,24,74,64,66,52,78,8,10,0,8,0,1,1,0,0, Full Time,news,%D and %T,,,385600,56,434800,59,Midfielder,44,12,80.4,88,0.71,0.82,1.34,383271,63
+294691,Tom,Bell,CA,8,62,47,36,47,66,11,6,3,2,0,0,0,0,0, Full Time,news,%O and %M plus %T,,,343200,0,345900,-8,Midfielder,28,11,67.4,65.4,0.63,0.54,1.06,317022,32
+270637,Simon,White,CA,11,61,65,43,48,60,9,2,5,2,0,1,0,1,0, Full Time,switch,Started back... Went forward in the second... Jonas minding him... %O with %k by foot... also %M and %T... and scored %s,,,265900,59,273200,69,Back,43,17,48.4,52.1,0.32,0.26,0.45,278918,67
+271110,Chris,Yarran,CA,13,57,72,29,46,63,11,4,3,1,0,0,1,1,0, Full Time,news,%s from %P and %M,,,364900,114,397400,118,Forward,13,19,73.2,84.7,1.28,1.66,2.04,368894,77
+292511,Zach,Tuohy,CA,5,56,60,36,40,54,10,1,4,3,0,0,0,0,0, Full Time,irish,%O including %K... also %M and %T,job,Manning Monfries,248400,47,278600,32,Back,42,20,51.2,58.7,1.16,1.25,1.75,254024,52
+990425,Blaine,Johnson,CA,9,56,48,42,40,54,8,4,2,4,0,2,0,0,0, Full Time,news,%D and %M with %T,,,139700,51,125400,40,Forward,45,4,32.8,28.8,4.26,3.91,2.87,145815,29
+295445,Nicholas,Graham,CA,8,55,54,43,44,63,7,8,3,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,,255600,30,263000,23,Midfielder,32,7,52.1,47,0.43,0.22,0.69,235277,30
+295518,Sam,Docherty,CA,4,51,55,30,37,51,10,1,3,3,0,1,1,0,0, Full Time,down,%O with %k by foot... also %M and %T,,,396800,81,382000,62,Back,15,14,79.8,78.4,2.73,5.17,2.92,401815,81
+281079,Kane,Lucas,CA,4,47,39,32,38,49,7,4,4,1,0,1,0,0,1, Full Time,news,Came on midway through the second... %D and %M plus %s,sub,Started as the sub,322400,105,317700,96,Midfielder,9,5,50.6,51.6,0.18,0.18,0.22,303333,85
+220110,Jarrad,Waite,CA,9,45,60,36,36,46,5,4,2,2,0,1,0,1,1, Full Time,cold,Hombsch minding him... %s from %O and %M plus %T,,,488500,69,563600,72,Forward,30,14,82.4,93.4,0.92,0.79,1.21,442612,58
+261043,Michael,Jamison,CA,4,43,70,33,33,42,6,2,4,2,0,1,0,0,0, Full Time,job,Standing Westhoff... %P with %k by foot... also %M and %T,,,260100,82,286600,89,Back,40,18,51.8,61.7,0.71,0.51,0.84,278918,72
+297456,Nick,Holman,CA,8,40,23,35,29,42,5,3,2,4,0,0,1,0,0, Full Time,rookie,First gamer... %O and %M plus %T,,,112800,,117300,,Midfielder,20,0,0,0,0.27,0.47,0.92,135500,45
+293154,Troy,Menzel,CA,3,31,31,25,27,35,4,2,4,1,0,0,1,0,2, Full Time,cold,Broadbent on him... Booted %s from %G and %P,,,265900,39,283700,43,Forward,2,17,49.9,52.2,1.26,2.56,2.03,271348,49
+995219,Ciaran,Sheehan,CA,2,30,45,26,23,33,3,5,1,2,0,0,0,0,0, Full Time,irish,%D and %T,cash,,98500,-48,102400,-90,Midfielder,47,2,53,75.5,2.20,2.36,3.64,123100,-5
+230202,Kade,Simpson,CA,2,27,26,-2,21,33,10,0,1,0,0,0,2,0,0, Full Time,mare,%P including %B,,,487800,118,497300,110,Back,6,20,94.9,97.9,28.77,18.96,28.20,479547,99
+250105,Marc,Murphy,CA,3,24,27,21,19,27,3,2,2,2,0,0,1,0,0, Full Time,concussed,Tagged by Cornes... Concussed in a collision with O'Shea... %P and %M plus %T,subbed,Subbed after the collision,481400,82,549100,95,Midfielder,3,19,100,110.2,9.59,16.17,7.90,482798,93

@@ -1,0 +1,48 @@
+Melbourne,Demons,Adelaide,Crows,R7,22.17.149,8.5.53, Full Time
+May 8,2011,2:10,MCG,Seven,200054,10310707,5512,53,A few showers,16
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Stuart88</em>: dam u suck Grimes<br><em>Mithrandir</em>: SC doesn't rate clearances? Moloney got 19<br><em>Reidy</em>: Moloney&#044; what a player&#044; but flower you Jack Grimes - from a Melbourne supporter<br><em>CatAttack9</em>: flowering too many connections<br><em title="TMC44">tmc44</em>: Go Dees!!! - from a Port supporter<br><em>Cotchin</em>: Nah&#044; adelaide are just powerweak&#044; easybeats<br><em>hungryJack</em>: @Cotchin: the dees are on the way up<br><em>schezza</em>: LOL if u have grimes!<br><em>Cotchin</em>: Dee's overated<br><em>hungryJack</em>: dees in the 8 yeah! sylvia what a star*<br><em>alftiles</em>: will grimes be ok neext week<br><em>Judd005</em>: tappy 105 l thomp 52<br>
+240037,Colin,Sylvia,ME,49,149,159,187,118,151,13,13,7,9,1,2,0,4,0, Full Time,gun,%B among %D with %M and %T... also %s,,
+270833,Addam,Maric,ME,21,116,104,149,91,124,21,10,8,2,0,0,0,0,1, Full Time,hot,%s from %P and %M,,
+200054,Brad,Green,ME,32,115,105,148,90,120,15,9,6,6,0,1,1,2,0, Full Time,hot,Played off a wing with fire and passion... %s from %O and %M with %T,,
+280608,Jack,Trengove,ME,30,112,106,141,91,126,9,19,6,7,1,1,1,0,2, Full Time,hot,%2 Dangerfield then Thompson... %O and %M with %T and %s,,
+230151,Brent,Moloney,ME,20,111,123,145,79,115,22,9,2,5,0,0,0,0,1, Full Time,star,Racked up a huge amount of clearances among %D and %M plus %T on Reilly... also %s,,
+260288,James,Frawley,ME,20,105,110,133,86,114,13,13,9,3,0,1,0,0,0, Full Time,garbage,Demons are working for him to be the free man... %O and %M... enjoyed himself in Q4 junk time,,
+250360,Ricky,Petterd,ME,32,103,111,131,87,105,12,3,8,4,0,3,2,4,0, Full Time,hot,%s from %D and %T with %M on Johncock,,
+200002,Aaron,Davey,ME,15,97,78,129,69,97,18,5,4,5,0,0,0,0,1, Full Time,news,%D with %k by foot... also %M with %T and %s,,
+280748,Jordan,Gysberts,ME,15,90,67,115,71,98,13,11,4,4,2,2,1,0,0, Full Time,news,%P and %T with %M,,
+250345,Rohan,Bail,ME,14,89,103,112,72,99,11,13,6,3,0,0,0,0,0, Full Time,news,%O and %M plus %T,,
+250222,Nathan,Jones,ME,20,87,91,105,75,105,12,16,4,1,0,0,1,1,0, Full Time,news,Skulking around halfback... %D with %b by hand and %M... also %s,,
+250548,Lynden,Dunn,ME,29,84,87,111,61,79,7,3,4,8,6,0,0,1,1, Full Time,news,%s from %P and %M with %T,,
+220052,Mark,Jamar,ME,26,75,97,83,68,79,1,8,1,3,40,1,0,0,0, Full Time,news,%H and %D with %T,,
+260952,Liam,Jurrah,ME,15,73,82,89,62,78,11,3,3,1,2,0,1,3,4, Full Time,news,First goal... %s from %P and %G on Luke Thompson,,
+280579,Luke,Tapscott,ME,20,72,104,95,57,75,11,4,4,4,0,3,2,1,0, Full Time,cash,%O and %T plus %M and %s... also %F,,
+250388,Austin,Wonaeamirri,ME,12,69,56,88,59,78,8,6,5,3,0,0,2,2,0, Full Time,news,On in Q1 for Grimes... %s from %O and %M on Jaensch... also %T,sub,Started as a sub
+280972,Jack,Watts,ME,11,67,92,84,59,74,10,3,5,1,3,1,2,2,2, Full Time,news,Playing some ruck... %H and %D with %M and %s,,
+250245,Clint,Bartram,ME,18,63,77,80,49,67,8,7,1,4,0,2,1,1,1, Full Time,news,%D and %T plus %s,,
+270830,Colin,Garland,ME,7,46,63,61,40,60,10,6,3,1,0,0,3,0,0, Full Time,job,Standing Walker... %D and %M with %F,,
+250716,Matthew,Warnock,ME,5,44,65,58,38,54,4,7,4,3,0,0,2,0,0, Full Time,job,Has Tippett... %D and %M with %T,,
+250510,Matthew,Bate,ME,13,40,36,54,31,43,3,3,1,5,0,1,2,1,1, Full Time,news,%P and %T plus %s,,
+261297,Jack,Grimes,ME,0,6,14,8,4,6,0,1,0,1,0,0,0,0,0, Full Time,longterminjured,Broken navicular bone in his right foot in Q1 after one touch puts him out for the year,subbed,Subbed off in Q1 for Wonaeamirri
+220086,Brent,Reilly,AD,31,115,93,89,93,121,14,11,6,5,0,3,1,2,1, Full Time,hot,Matched up on Moloney but didn't do an effective tagging job... %D and %M plus %T and %s,,
+250118,Nathan,van Berlo,AD,25,97,87,65,74,105,15,10,3,5,0,0,1,1,0, Full Time,news,%P and %T with %M and %s,,
+270963,Rory,Sloane,AD,43,96,91,87,63,87,11,5,2,11,0,3,0,0,0, Full Time,news,%D and a very high %T... also %M,,
+261351,Matthew,Jaensch,AD,15,94,85,60,75,105,15,12,5,3,0,1,1,0,0, Full Time,news,%O and %M with %T,job,Minding Wonaeamirri
+270742,Kurt,Tippett,AD,17,80,91,61,72,84,8,6,5,0,8,2,0,3,1, Full Time,news,Booted %s from %D on Warnock... also %H,,
+230215,Brad,Symes,AD,9,76,78,46,59,79,13,6,5,2,1,1,0,0,0, Full Time,news,%P and %M... also %T,,
+240370,Richard,Douglas,AD,14,67,57,53,54,75,9,7,5,4,0,1,2,0,0, Full Time,news,%O and %T with %M,,
+270811,Sam,Jacobs,AD,15,67,87,57,57,68,6,2,2,3,29,1,1,0,0, Full Time,news,%H and %P with %M and %T,,
+220093,Ben,Rutten,AD,9,64,92,52,53,72,7,10,5,2,0,0,0,0,0, Full Time,job,On Watts... %M and %O with %T,,
+261263,Chris,Schmidt,AD,9,64,83,38,57,81,11,10,5,1,0,1,3,0,0, Full Time,news,%P and %M with %F,,
+210056,Graham,Johncock,AD,9,63,63,29,51,72,14,4,4,2,0,2,3,0,0, Full Time,job,Minding Petterd... %P and %T with %M,,
+210016,Scott,Thompson,AD,15,61,65,55,47,66,6,7,2,5,0,0,1,1,0, Full Time,injured,%P and %T with %M and %s... left calf problem slowed him down all day and finally mothballed in Q4,,
+280949,Luke,Thompson,AD,8,56,54,47,50,66,6,8,7,1,0,0,1,0,0, Full Time,cougar,Chasing Jurrah... %M and %O,,
+261384,Matthew,Wright,AD,5,54,54,43,41,55,7,4,4,3,0,0,0,0,1, Full Time,injured,%O and %M with %T and %s... ankle problem in Q4 and carried off,,
+291748,Brodie,Smith,AD,8,53,33,35,38,55,9,4,1,4,1,1,1,0,0, Full Time,cash,%D and %T,,
+200092,Michael,Doughty,AD,4,49,56,34,40,54,7,6,4,1,0,0,0,0,0, Full Time,news,%P and %M,,
+280038,Shaun,McKernan,AD,11,44,40,40,38,46,4,1,4,2,6,0,1,1,1, Full Time,news,%P and %H with %M and %s,,
+291201,Ricky,Henderson,AD,4,44,34,31,33,42,7,1,4,2,0,1,0,0,0, Full Time,news,%D and %M plus %T,,
+240032,Chris,Knights,AD,3,43,32,27,32,46,7,5,1,2,0,0,0,0,1, Full Time,garbage,Supply to the Crow forward line was terrible... moved to midfield in Q3... %D and %T plus %s,,
+270917,Patrick,Dangerfield,AD,2,33,52,32,27,33,2,6,1,2,0,4,0,0,0, Full Time,concussed,%2 Trengove... %D and %T... hit his head on the ground in Q3 and came off,subbed,Subbed off in Q3 for Petrenko
+280506,Taylor,Walker,AD,3,27,38,18,27,39,4,6,3,0,0,0,2,0,0, Full Time,news,%P and %G on Garland,,
+261138,Jared,Petrenko,AD,0,17,10,14,13,18,2,2,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Dangerfield... %O,sub,Started as a sub

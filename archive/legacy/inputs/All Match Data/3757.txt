@@ -1,0 +1,48 @@
+Brisbane,Lions,Essendon,Bombers,R8,9.12.66,15.12.102, Full Time
+May 14,2011,7:10,Gabba,Ten,200121,10310804,5518,59,Fine,22
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>ramma7</em>: Watson was on 77 sc @ 3/4 tome<br><em>nathan11</em>: dr hibberd only 57 sc he got robbed :(<br><em>greco272</em>: How did watson get 86<br><em>JamesGra</em>: kangars8 a fat one and loved it.<br><em>haydos23</em>: flower you redden&#044; nothing but shower from you since i got you<br><em>greco272</em>: How dud Watson get 86 sc is flowered<br><em>1870pafc</em>: zaharakis watson monfries fletcher heppel :D<br><em>kangars8</em>: go suck moneys dick @wildthing<br><em>JamesGra</em>: Don't forget who has provided us with this service for years now.<br><em>marcmunday</em>: well said wild thing<br><em>JamesGra</em>: Pretty obvious to me that there are folks trolling this site in an attempt to drive traffic elsewhere.<br><em>Nigey95</em>: David Zaharakis! :D<br>
+270919,Tom,Rockliff,BL,27,117,133,149,95,129,18,12,8,3,0,0,1,1,0, Full Time,magnet,%2 Watson... %D and %M plus %s and %F,,
+240087,Jed,Adcock,BL,21,95,94,119,78,105,11,13,5,4,0,2,1,1,0, Full Time,job,On Zaharakis... %D and %M with %T... also %s,,
+250335,Matthew,Leuenberger,BL,33,93,88,111,84,104,7,7,3,4,41,1,3,0,0, Full Time,news,%H and %P with %M and %T,,
+271072,Daniel,Rich,BL,14,87,97,110,65,89,16,7,1,3,0,2,0,1,2, Full Time,tagged,Tagged by Lonergan... %O,,
+200121,Josh,Drummond,BL,16,79,81,102,64,90,13,8,4,3,0,0,2,1,0, Full Time,heart,%D and %M with %s and %F... tweaked his troublesome knee early in Q1,,
+250053,Cheynee,Stiller,BL,25,79,86,101,59,81,6,10,2,7,0,1,0,1,0, Full Time,news,%D and %M with %T plus %s,job,Has Crameri
+240393,Mitchell,Clark,BL,15,77,61,101,62,79,11,2,7,3,3,0,1,1,1, Full Time,news,Booted %s from %O and %G on Hooker,,
+980007,Simon,Black,BL,20,76,61,103,57,87,13,8,2,6,0,0,3,0,0, Full Time,tagged,Tagged by Hocking... %D and %M with %T and %F,,
+270512,Pearce,Hanley,BL,14,75,100,95,61,91,12,13,2,3,0,0,2,0,1, Full Time,job,Responsible for Reimers... %P,,
+281373,Jack,Redden,BL,20,75,54,101,57,81,10,7,4,6,0,1,2,0,0, Full Time,news,%O and %M,,
+280572,Jesse,O'Brien,BL,8,67,77,88,49,64,12,3,3,3,0,3,0,0,1, Full Time,news,%s from %D and %M with %T,,
+230170,Joel,Patfull,BL,9,62,82,81,49,69,9,7,4,3,0,0,1,0,0, Full Time,job,Standing Ryder... %O,,
+230147,Daniel,Merrett,BL,10,60,92,82,48,69,8,6,4,5,0,1,3,0,0, Full Time,job,In defence on Hille... %D and %T with %M and %F,,
+980011,Luke,Power,BL,8,59,70,74,48,67,7,10,2,3,0,2,1,0,1, Full Time,tagged,Tagged by McVeigh... %O and %s,,
+281048,Ryan,Harwood,BL,9,56,47,74,40,57,6,6,2,5,0,0,0,0,0, Full Time,news,On in Q2 for Polkinghorne... %D and %T,sub,Started as a sub
+261250,Sam,Sheldon,BL,4,52,75,66,43,60,5,9,3,3,0,1,1,0,0, Full Time,job,Chasing Jetta... %O and %M with %T,,
+271071,Todd,Banfield,BL,9,49,57,66,36,52,7,4,2,4,0,0,1,0,1, Full Time,news,%O and %M on Hibberd,,
+281329,Rohan,Bewick,BL,10,48,41,58,43,54,5,6,5,0,0,0,0,1,0, Full Time,news,%s from %P and %M,,
+220062,Matt,Maguire,BL,5,45,53,57,39,50,4,6,4,2,0,2,1,0,2, Full Time,news,Started forward... %s from %O and %M,,
+210013,Ashley,McGrath,BL,9,44,66,54,39,49,5,3,3,1,0,0,1,2,1, Full Time,news,First goal... %s from %O and %M up forward,,
+292501,Bryce,Retzlaff,BL,0,16,16,20,13,16,3,1,1,0,0,1,0,0,1, Full Time,bubble,Second game... %P on Fletcher,,
+260975,James,Polkinghorne,BL,0,-3,0,-3,-1,0,0,0,0,0,0,0,1,0,0, Full Time,injured,Copped one high from Lonergan early in Q1 behind play and struggled to return,subbed,Subbed off in Q2 for Harwood
+270951,David,Zaharakis,ES,39,126,138,91,99,130,17,8,4,6,0,1,1,4,1, Full Time,star,%s from %D and %T on Adcock... also %M,,
+250569,Heath,Hocking,ES,31,106,107,79,77,108,15,11,2,8,0,4,1,0,0, Full Time,hot,Tagging Black... %D and %T,mrp,Could be trouble for dropping Polkinghorne behind play in Q1 with an elbow
+261314,David,Myers,ES,19,102,129,56,82,114,18,13,6,1,0,0,0,0,0, Full Time,job,Has Maguire... %D and %M,,
+260073,Ben,Howlett,ES,43,96,104,86,67,96,11,8,3,10,0,1,1,0,0, Full Time,news,%D and %T off a wing,,
+240290,Angus,Monfries,ES,20,89,123,68,79,99,10,11,7,1,0,3,1,2,0, Full Time,news,%s from %O and %M,,
+270588,Cale,Hooker,ES,14,87,102,56,75,102,14,10,9,1,0,0,2,0,0, Full Time,news,%M and %P,job,On Clark
+200026,David,Hille,ES,20,83,91,59,73,89,10,7,6,0,6,1,0,2,2, Full Time,news,%s from %P and %M on Merrett,,
+261320,Tom,Bellchambers,ES,15,81,73,62,72,85,9,5,6,1,22,3,1,0,0, Full Time,news,%H and %P with %M,,
+292503,Stewart,Crameri,ES,20,80,89,60,69,88,9,9,3,2,0,2,1,3,1, Full Time,garbage,%s from %P and %M on Stiller... most of his goals in late Q4 junk time,,
+270584,Kyle,Hardingham,ES,12,75,79,41,59,78,14,5,6,1,0,1,0,0,0, Full Time,news,%D and %M,,
+261324,Kyle,Reimers,ES,11,73,76,52,57,70,10,3,3,3,0,3,0,2,1, Full Time,news,%s from %O and %M on Hanley,,
+990046,Mark,McVeigh,ES,13,73,89,34,58,78,15,5,6,0,0,0,0,0,0, Full Time,tagger,Tagging Power... %D and %M,,
+290160,Michael,Hibberd,ES,9,72,57,42,58,81,12,10,4,1,0,0,0,0,0, Full Time,job,Switched quickly from McGrath to Banfield... %M and %D,in,Late replacement for Henry Slattery
+230231,Jobe,Watson,ES,15,71,88,47,59,79,10,8,2,2,0,1,1,2,1, Full Time,injured,%2 Rockliff... %O and %T plus %M and %s... struggled with right hamstring tightness and eventually iced up,subbed,Subbed off in Q3 for COlyer
+250267,Patrick,Ryder,ES,10,70,80,58,56,71,8,5,6,3,5,1,0,0,0, Full Time,news,%D and %M on Patfull,,
+250352,Leroy,Jetta,ES,15,60,49,49,43,66,9,4,2,7,0,0,3,0,0, Full Time,news,%P and %T with %F on Sheldon,,
+290629,Dyson,Heppell,ES,5,59,68,51,47,64,6,8,4,3,0,0,0,0,1, Full Time,cash,%O and %T plus %s,,
+280824,Jake,Melksham,ES,4,57,50,34,47,62,10,4,5,1,0,1,1,0,2, Full Time,news,%K among %O with %M and %s,,
+210079,Nathan,Lovett-Murray,ES,13,53,62,45,43,63,6,9,2,4,0,1,2,0,0, Full Time,news,%P and %T,,
+960197,Dustin,Fletcher,ES,7,52,68,27,42,60,10,6,3,1,0,0,1,0,0, Full Time,job,Trying to zone off Retzlaff... %P,,
+240319,Sam,Lonergan,ES,2,32,33,19,24,33,6,2,1,2,0,2,1,0,0, Full Time,tagger,Tagging Rich.. %P,,
+280988,Travis,Colyer,ES,1,28,17,16,21,29,5,2,1,1,0,0,0,0,2, Full Time,in,%l Michael Hurley (calf)... on in Q3 for Watson,sub,Started as a sub

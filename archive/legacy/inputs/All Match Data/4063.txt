@@ -1,0 +1,48 @@
+St Kilda,Saints,Carlton,Blues,R7,19.8.122,14.14.98, Full Time
+May 14,2012,7:40,Docklands,Seven,250211,10340709,430070,0,A few showers,16,,
+
+<em>Cruise on</em>: 2446 in SC including bloody Murphy<br><em>rustyc</em>: Outsky in Eliminator... 2300 (me) vs 2312 (flog)<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> CuzzysCrew</em>: 2495 in supercoach&#044; oh so close to 2500<br><em>mjbcattery</em>: 2452SC&#044; my oppent is 2449 pre scaling... Huge scoring round<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> OnTheRocks</em>: 2527sc<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> frenzy</em>: you can take mine&#044; murphy for sale<br><em style='margin-bottom:-2px'><b class="ticon tGC"></b> Jmachete</em>: 2581 not bad at all ;)<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> CARN CROWS</em>: 2394<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> GoLions</em>: 2317 DT&#044; 2255 SC. I'll take it&#044; although SC could've been better<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Twiggles</em>: Pls drop Joseph and bring back yarran and laidler soon!<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> GoLions</em>: ty for subbing off wilkes watters&#044; won me my game :)<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> CARN CROWS</em>: Just shy of 2400 in SC<br>
+220023,Nick,Dal Santo,SK,49,114,101,154,80,111,14,7,6,10,0,0,0,0,0, Full Time,hot,Tagged by Armfield... %O and %T with %M,,
+240062,Farren,Ray,SK,26,111,115,141,91,117,18,9,8,2,0,4,1,1,0, Full Time,star,%D and %M plus %s,tagger,Moved to tag Simpson in Q2
+220075,Leigh,Montagna,SK,21,101,101,135,73,105,16,8,4,7,0,0,1,0,0, Full Time,hot,Running free... %P and %T plus %M,,
+990028,Lenny,Hayes,SK,33,97,107,125,77,109,8,14,4,8,1,0,2,1,0, Full Time,tagged,Tagged by Curnow... %O and %T with %M and %s,,
+250340,David,Armitage,SK,17,94,88,122,77,99,17,4,5,3,0,5,3,2,0, Full Time,news,%O and %T with %M and %s... also %4FF and %F,,
+230243,Sean,Dempster,SK,19,93,102,118,79,102,12,10,11,1,0,0,0,0,0, Full Time,news,%M and %P,job,Has Betts
+220034,Jason,Gram,SK,15,92,97,121,73,97,17,5,8,2,0,1,1,0,1, Full Time,news,%D and %M plus %s,,
+230084,Brendon,Goddard,SK,15,88,113,111,70,93,18,6,5,0,0,1,0,1,0, Full Time,tagged,Tagged by Russell until Q3 when he went head to head with Gibbs... %P and %M plus %s,,
+270912,Jack,Steven,SK,15,84,109,108,64,84,14,5,4,3,0,2,0,1,0, Full Time,news,%O and %M with %T and %s,,
+200108,Stephen,Milne,SK,18,79,98,98,66,81,11,2,4,2,0,1,1,4,0, Full Time,target,%s from %O on Joseph... also %M and %T,,
+280317,Rhys,Stanley,SK,21,77,97,95,64,79,5,4,3,5,15,0,1,2,1, Full Time,news,Playing #1 ruck in the absence of McEvoy... %H and %D with %M and %T,,
+210001,Nick,Riewoldt,SK,15,74,82,95,60,72,10,2,7,2,0,2,0,1,3, Full Time,news,Kicked %s from %D and %G on Henderson,,
+270766,Terry,Milera,SK,15,69,81,85,56,72,11,3,1,2,0,1,1,3,3, Full Time,cash,%s from %D and %T on Tuohy,,
+200068,Jason,Blake,SK,14,67,94,88,53,72,8,7,5,4,0,1,1,0,0, Full Time,news,%O and %M plus %T,job,Standing Waite
+261743,Clinton,Jones,SK,13,62,54,80,49,69,7,9,3,4,0,1,1,0,0, Full Time,news,%P and %T with %M,tagger,Tagging Murphy
+210002,Justin,Koschitzke,SK,12,58,75,72,52,66,6,5,4,2,9,1,2,1,0, Full Time,news,Booted %s from %G and %P on Jamison... also %H and %T,,
+250134,Sam,Gilbert,SK,8,45,46,62,31,45,8,2,1,4,0,1,1,0,0, Full Time,job,On Walker... %D and %T,,
+294818,Ahmed,Saad,SK,10,42,81,51,37,51,3,7,0,3,0,1,2,2,0, Full Time,egypt,%s from %P on Gibbs in the first half then got Russell... also %T,bubble,Second game
+280053,Tom,Simpkin,SK,8,40,43,52,38,51,6,5,6,0,0,0,2,0,0, Full Time,job,Hampson is his man... %D and %M,,
+260113,Jarryn,Geary,SK,2,38,43,47,30,42,6,6,1,1,0,1,0,0,0, Full Time,job,Chasing Garlett... %O,,
+250036,Beau,Wilkes,SK,2,32,36,41,25,33,5,3,2,1,0,1,0,0,0, Full Time,news,%P and %M on Bower,subbed,Subbed off in Q4 for Siposs
+293815,Arryn,Siposs,SK,1,20,3,26,17,21,3,1,3,0,0,0,0,0,0, Full Time,news,On in Q4 for Wilkes,sub,Started as a sub
+220056,Chris,Judd,CA,31,108,144,81,84,120,14,15,3,6,0,0,1,1,0, Full Time,hot,%2 Dal Santo... %B among %D with %M and %T... also %s,,
+990059,Heath,Scotland,CA,21,98,97,73,77,103,13,10,4,5,0,3,1,1,1, Full Time,seagull,%P and %T with %s and %M,sore,Copped Koschitzke's knee to his head in Q2 which drew blood
+230202,Kade,Simpson,CA,31,93,92,73,64,88,13,3,3,8,0,0,0,1,1, Full Time,tagged,Ray moved to tag him in Q2... %P and %T plus %M and %s,,
+261299,Matthew,Kreuzer,CA,26,93,115,70,81,99,10,6,3,2,29,1,1,1,1, Full Time,news,%H and %D plus %s,,
+250211,Paul,Bower,CA,14,87,76,58,67,90,14,6,7,3,0,0,0,0,0, Full Time,news,%O and %M plus %T,job,Running off Wilkes
+290311,Mitch,Robinson,CA,27,87,75,67,71,99,12,9,4,6,0,3,4,1,0, Full Time,heart,%P and %T with %M... also %F... left thigh restrapped in Q1 after a knock,mrp,An obvious trip on Saad in Q3 will be scrutinised by the MRP
+250417,Bryce,Gibbs,CA,19,82,68,63,64,85,10,9,3,4,0,2,0,1,1, Full Time,news,Across half back on Saad until Q3 when he went head to head with Goddard... %P and %M plus %T and %s,,
+240014,Andrew,Walker,CA,16,81,75,60,66,83,11,3,6,3,0,1,1,2,2, Full Time,news,%s from %D and %G on Gilbert... also %T,,
+261258,David,Ellard,CA,16,76,54,55,60,76,10,3,3,3,0,0,0,3,1, Full Time,superman,On in Q3 for Joseph... %P and %s including three majors in Q4,sub,Started as a sub
+240060,Eddie,Betts,CA,22,75,92,63,56,73,9,2,3,6,0,1,1,2,1, Full Time,news,%s from %P and %M on Dempster... also %T,,
+270146,Ed,Curnow,CA,20,73,73,66,58,87,7,14,2,6,0,0,2,0,0, Full Time,news,%B among %P with %T and %F,tagger,Tagging Hayes
+270737,Shaun,Hampson,CA,17,72,87,67,68,80,4,6,5,1,31,0,1,0,1, Full Time,news,Simpkin on him when up forward... %H and %P plus %M,,
+261009,Nick,Duigan,CA,9,70,74,42,54,72,12,6,4,2,0,2,0,0,0, Full Time,news,%M and %O with %T,,
+250105,Marc,Murphy,CA,14,68,73,44,54,77,12,5,4,4,0,1,3,0,2, Full Time,tagged,Tagged by Jones... %P and %T... also %F,,
+250090,Jordan,Russell,CA,15,60,60,71,44,61,2,8,3,7,0,0,0,0,1, Full Time,job,Tagging Goddard until Q3 when moved back to Saad... %D and %T with %M and %s,,
+260533,Dennis,Armfield,CA,3,48,45,29,36,51,8,6,1,2,0,1,0,0,0, Full Time,news,%D and %T,tagger,Tagging Dal Santo
+220110,Jarrad,Waite,CA,10,46,36,34,38,51,6,5,2,2,0,1,1,1,0, Full Time,news,First goal... %s from %P on Blake... also %T,,
+270653,Jeff,Garlett,CA,3,40,42,25,32,45,8,1,3,3,0,2,3,0,0, Full Time,news,%O and %M with %T on Geary,,
+292511,Zach,Tuohy,CA,8,37,66,36,28,42,3,7,0,4,0,1,1,0,0, Full Time,job,Has Milera... %O and %T,,
+261043,Michael,Jamison,CA,3,28,52,15,25,36,5,5,2,0,0,0,1,0,0, Full Time,job,Koschitzke is his man... %M and %O,,
+270326,Lachie,Henderson,CA,2,28,33,11,23,33,7,1,2,1,0,1,2,0,0, Full Time,job,Following Riewoldt... %D and %M,,
+261318,Aaron,Joseph,CA,0,9,1,9,8,12,1,1,1,1,0,0,1,0,0, Full Time,job,Minding Milne... %P,subbed,Subbed off in Q3 for Ellard

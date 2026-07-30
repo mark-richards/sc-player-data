@@ -1,0 +1,48 @@
+Adelaide,Crows,Port Adelaide,Power,R6,10.14.74,14.13.97, Full Time
+May 01,2010,3:10,Footy Park,Fox Sports,220009,10280603,5015494,4986,Fine with light wind,25
+Delayed for another week... not quite ready yet due to short week,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>The Lad</em>: Tiges08: Sherman out that was announced by the club this morning was it not?<br><em>Nigey95</em>: sweet 100 for boak&#044; 102 for mcleod in SC. im happy =)<br><em>tigermania</em>: no changes for essendon hawks game<br><em>Nigey95</em>: tigers vs crows gonna be absolutely epic. go the tiges<br><em>meataxe</em>: Tippett you champ&#044; made your BE<br><em>Jumby</em>: the old corn-hole got 109 Sc &#044; 2 good weeks in a row<br><em>knighter33</em>: rodan big sc coz big last quarter?<br><em>tigermania</em>: brown playing&#044; hopefully doesnt stink it up for another sub 50<br><em>VeLLa</em>: get on the tigers next week!<br><em>Tiges08</em>: according to afl.com.au sherman out and selwwod in J.Brown is playing!<br><em>juddthejet</em>: haha 1 off :P<br><em>travo</em>: gray you tool&#044; injured then spud it up i trade you then you dominate - TOOL<br><em>juddthejet</em>: 130 sc gray?<br>
+980002,Tyson,Edwards,AD,27,112,122,148,80,111,14,10,4,9,0,2,0,0,0, Full Time,gun,Tagged by Cassisi... %D and %M with %T
+220086,Brent,Reilly,AD,31,110,84,146,80,109,14,8,6,8,0,1,0,0,1, Full Time,hot,%P and %T with %M
+210056,Graham,Johncock,AD,19,102,136,135,76,102,16,6,7,5,0,1,0,0,0, Full Time,hot,Ran off Ebert... %D and %M
+200072,Scott,Stevens,AD,25,98,89,126,78,101,12,5,6,5,5,0,1,1,6, Full Time,news,Played as third tall forward... %s from %P and %M
+230174,Jason,Porplyzia,AD,25,97,113,118,83,102,10,8,7,2,0,1,0,3,3, Full Time,news,%s from %P and %M on Surjan
+960023,Andrew,McLeod,AD,25,83,102,109,62,90,13,8,1,6,0,1,2,1,0, Full Time,news,%O and %T plus %s
+240546,Ivan,Maric,AD,17,74,96,87,67,79,5,6,4,2,28,2,1,0,0, Full Time,news,%H and %D with %T and %M
+261142,Bernie,Vince,AD,10,72,69,93,60,82,12,8,5,2,0,2,2,0,1, Full Time,tagged,Tagged by Kane Cornes... %O and %M with %T and %s
+261263,Chris,Schmidt,AD,14,71,91,92,54,75,7,9,4,5,0,0,0,0,0, Full Time,news,%P and %M with %T
+210016,Scott,Thompson,AD,14,68,77,90,54,81,10,10,2,5,0,1,3,0,0, Full Time,news,%O and %M with %T
+261351,Matthew,Jaensch,AD,14,68,52,93,52,69,8,3,7,5,0,0,1,0,0, Full Time,rookie,First game... %P and %M with %T
+240370,Richard,Douglas,AD,12,65,68,83,55,72,8,5,4,3,0,1,2,2,0, Full Time,news,%s from %D with %M and %T
+270742,Kurt,Tippett,AD,17,64,58,74,60,71,6,5,4,0,7,1,1,3,1, Full Time,news,Kicked %s from %P and %G on Carlile... also %H in limited ruck work
+220093,Ben,Rutten,AD,9,63,65,84,50,66,9,4,6,3,0,1,1,0,0, Full Time,mobile,Had Tredrea... %M and %O
+960036,Simon,Goodwin,AD,12,61,62,77,46,66,7,10,1,4,0,1,0,0,0, Full Time,tagged,Tagged by Thomas... %P and %T
+280804,Phil,Davis,AD,9,56,57,73,47,63,7,6,6,2,0,0,1,0,0, Full Time,job,On Schulz... %D and %M
+990012,Brett,Burton,AD,9,54,60,72,44,58,8,3,6,2,0,0,1,0,1, Full Time,news,Chaplin his man... %D and %M with %T
+220009,Nathan,Bock,AD,5,52,56,65,45,63,3,11,4,3,0,0,1,0,0, Full Time,job,On Westhoff... %O and %T
+250118,Nathan,van Berlo,AD,10,51,39,68,42,57,5,5,4,4,3,1,2,0,0, Full Time,news,Matched up on Rodan... %P and %M
+261138,Jared,Petrenko,AD,5,49,46,64,41,54,6,5,5,2,0,1,1,0,0, Full Time,news,Paul Stewart on him... %P
+200092,Michael,Doughty,AD,4,47,34,64,37,48,6,2,5,3,0,1,1,0,0, Full Time,job,Minded Gray... %D and %M
+270964,Myke,Cook,AD,3,44,40,53,37,52,5,9,2,1,0,0,0,0,1, Full Time,news,Matched up on Hartlett on a wing... %P and %s
+261396,Robbie,Gray,PA,32,120,129,84,100,121,16,4,6,3,0,3,1,5,4, Full Time,medal,Kicked %s from %M and %P on Doughty... won the medal
+210020,Kane,Cornes,PA,25,114,102,76,90,124,18,11,8,4,0,0,1,0,1, Full Time,hot,Tagged Vince... %O and %M with %T
+250063,Danyle,Pearce,PA,33,103,121,81,75,105,14,7,4,8,0,0,1,1,0, Full Time,hot,%O and %T with %M and %s
+210043,Domenic,Cassisi,PA,33,100,124,97,78,108,8,12,3,9,0,1,2,2,0, Full Time,hot,Tagged Edwards... %O and %T with %M and %s
+240180,Troy,Chaplin,PA,24,99,99,72,76,96,15,3,10,4,0,2,0,0,0, Full Time,job,Had the job on Burton... %P and %M
+980059,Chad,Cornes,PA,26,98,109,81,72,96,12,6,5,7,0,1,0,1,0, Full Time,news,Loose in defence early but moved forward in Q4... %O and %M plus %T and %s
+250365,Travis,Boak,PA,43,94,100,86,64,93,10,9,2,10,0,0,0,0,0, Full Time,news,%O and %T
+200111,Dean,Brogan,PA,22,92,77,83,83,101,7,7,6,3,32,1,2,0,0, Full Time,news,%H and %D with %M and %T... also %F
+272004,Jason,Davenport,PA,20,80,58,68,58,82,10,6,4,7,0,0,1,0,1, Full Time,news,%D and %M
+230192,Steven,Salopek,PA,13,77,81,47,67,91,12,12,6,0,0,1,1,0,1, Full Time,news,%P and %M
+270779,Paul,Stewart,PA,13,69,46,35,59,78,14,4,8,0,0,1,2,0,0, Full Time,news,Worked off Petrenko... %M and %P
+970120,Warren,Tredrea,PA,11,67,56,60,55,72,6,8,5,3,0,0,0,1,0, Full Time,news,Rutten on him... %O and %G
+990013,Josh,Carr,PA,10,63,63,59,49,66,6,7,4,5,0,2,1,0,0, Full Time,news,%D and %M with %T
+261892,Hamish,Hartlett,PA,10,62,58,44,46,61,10,2,4,4,0,2,1,0,1, Full Time,news,Matched up on Cook on a wing... %D and %M
+230242,Brett,Ebert,PA,11,59,70,46,48,59,7,2,4,2,0,0,0,2,2, Full Time,news,Kicked %s from %G and %P on Johncock
+250688,Alipate,Carlile,PA,8,59,69,38,49,61,10,2,7,1,1,2,1,0,0, Full Time,job,On Tippett... %M and %P
+220090,David,Rodan,PA,12,57,116,51,48,69,5,13,1,4,0,3,2,0,0, Full Time,news,Matched up on Van Berlo... %O
+240385,Matt,Thomas,PA,9,53,84,52,48,67,3,13,4,2,1,0,1,0,0, Full Time,tagger,Tagged Goodwin... %P and %M with %T
+260750,Justin,Westhoff,PA,9,48,42,33,37,47,7,2,2,2,2,1,0,1,0, Full Time,news,A more traditional CHF role most of this game with Bock on him... %s from %D... also %H
+240074,Jacob,Surjan,PA,2,34,41,27,28,36,4,4,3,1,0,1,0,0,0, Full Time,porpoise,Minded Porplyzia... %P and %M
+261230,Matthew,Lobbe,PA,3,28,33,26,24,28,2,1,2,1,10,0,0,0,0, Full Time,bubble,Second game... %H and %D with %T
+230195,Jay,Schulz,PA,6,16,26,11,16,21,2,2,1,0,0,0,1,1,0, Full Time,news,First goal... %s from %D on Davis

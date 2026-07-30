@@ -1,0 +1,202 @@
+{% extends "base.html" %}
+{% block title %}{{ coach }}{% endblock %}
+
+{% block content %}
+<div class="row g-3 mb-4 align-items-center">
+  <div class="col-auto">
+    {% if portrait %}
+    <img src="{{ portrait }}" alt="{{ coach }}" class="coach-portrait">
+    {% endif %}
+  </div>
+  <div class="col">
+    <h2 class="mb-0">{{ coach }}</h2>
+    <div class="text-muted small">2026 Season Profile</div>
+  </div>
+  <div class="col-auto d-flex gap-3">
+    <div class="text-center">
+      <div class="fs-4 fw-bold">{{ season_avg }}</div>
+      <div class="text-muted small">Avg Score</div>
+    </div>
+    <div class="text-center">
+      <div class="fs-4 fw-bold">{{ season_best }}</div>
+      <div class="text-muted small">Best Score</div>
+    </div>
+    <div class="text-center">
+      <div class="fs-4 fw-bold">{{ season_total }}</div>
+      <div class="text-muted small">Total Pts</div>
+    </div>
+  </div>
+</div>
+
+<div class="row g-3">
+
+  {# Field view widget #}
+  {% if field_data and field_data.on_field %}
+  <div class="col-12">
+    {% include "field_view_widget.html" %}
+  </div>
+  {% endif %}
+
+  {# Weekly changes (ins & outs) #}
+  {% if weekly_changes and (weekly_changes.ins or weekly_changes.outs) %}
+  <div class="col-12">
+    <div class="card shadow-sm mb-3">
+      <div class="card-header fw-semibold">
+        Changes from Round {{ weekly_changes.round }}
+      </div>
+      <div class="card-body p-0">
+        <div class="row g-0">
+          <div class="col-6 border-end">
+            {% for p in weekly_changes.ins %}
+            <div class="d-flex align-items-center gap-2 px-3 py-2 border-bottom">
+              <span class="badge text-bg-success">IN</span>
+              <span class="fw-semibold">{{ p.name }}</span>
+              <span class="text-muted small">{{ p.team }}</span>
+            </div>
+            {% endfor %}
+          </div>
+          <div class="col-6">
+            {% for p in weekly_changes.outs %}
+            <div class="d-flex align-items-center gap-2 px-3 py-2 border-bottom">
+              <span class="badge text-bg-danger">OUT</span>
+              <span class="fw-semibold">{{ p.name }}</span>
+              <span class="text-muted small">{{ p.team }}</span>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+  {# Positional chart #}
+  <div class="col-12">
+    <div class="card shadow-sm">
+      <div class="card-header fw-semibold">Positional Breakdown by Round</div>
+      <div class="card-body p-2">
+        <div id="posChart"></div>
+      </div>
+    </div>
+  </div>
+
+  {# Round-by-round scores #}
+  <div class="col-12 col-lg-5">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">Round-by-Round Scores</div>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0">
+            <thead class="table-dark">
+              <tr>
+                <th>Rd</th>
+                <th class="text-end">Score</th>
+                <th>vs</th>
+                <th class="text-end">Opp</th>
+                <th class="text-center">Result</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for r in scores %}
+              <tr>
+                <td>{{ r.round_number }}</td>
+                <td class="text-end fw-semibold">{{ r.team_points | int }}</td>
+                <td class="text-muted small">{{ r.opposition_team_coach }}</td>
+                <td class="text-end text-muted">{{ r.opposition_team_points | int }}</td>
+                <td class="text-center">
+                  {% if r.result == 'W' %}
+                    <span class="badge bg-success">W</span>
+                  {% elif r.result == 'D' %}
+                    <span class="badge bg-warning text-dark">D</span>
+                  {% else %}
+                    <span class="badge bg-danger">L</span>
+                  {% endif %}
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {# Top scorers #}
+  <div class="col-12 col-lg-7">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">Top Players This Season (On-Field)</div>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0">
+            <thead class="table-dark">
+              <tr>
+                <th>Player</th>
+                <th>Pos</th>
+                <th class="text-end">Gms</th>
+                <th class="text-end">Avg</th>
+                <th class="text-end">Best</th>
+                <th class="text-end">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for p in top_scorers %}
+              <tr>
+                <td>{{ p.first_name }} {{ p.last_name }}</td>
+                <td><span class="badge bg-secondary">{{ p.played_position }}</span></td>
+                <td class="text-end">{{ p.games }}</td>
+                <td class="text-end fw-semibold">{{ p.avg }}</td>
+                <td class="text-end">{{ p.best | int }}</td>
+                <td class="text-end text-muted">{{ p.total | int }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {# Current roster #}
+  <div class="col-12">
+    <div class="card shadow-sm">
+      <div class="card-header fw-semibold">Current Roster</div>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0">
+            <thead class="table-dark">
+              <tr>
+                <th>Player</th>
+                <th>AFL Team</th>
+                <th>Pos</th>
+                <th class="text-end">Avg</th>
+                <th class="text-end">Avg3</th>
+                <th class="text-end">Price</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for p in roster %}
+              <tr>
+                <td class="fw-semibold">{{ p.first_name }} {{ p.last_name }}</td>
+                <td class="text-muted small">{{ p.team }}</td>
+                <td><span class="badge bg-secondary">{{ p.position }}</span></td>
+                <td class="text-end">{{ "%.1f"|format(p.avg) if p.avg else "—" }}</td>
+                <td class="text-end">{{ "%.1f"|format(p.avg3) if p.avg3 else "—" }}</td>
+                <td class="text-end text-muted">${{ "{:,.0f}".format(p.price) if p.price else "—" }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+const posData = {{ pos_chart | safe }};
+Plotly.react('posChart', posData.data, posData.layout, {responsive: true, displayModeBar: false});
+</script>
+{% endblock %}

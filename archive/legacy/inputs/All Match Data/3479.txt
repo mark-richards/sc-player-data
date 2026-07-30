@@ -1,0 +1,48 @@
+Carlton,Blues,West Coast,Eagles,R10,15.15.105,11.10.76, Full Time
+May 30,2010,2:10,Docklands,Seven,250417,10281007,5015586,5147,Roof closed,17
+The app has been submitted but not approved yet... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>pedro_0952</em>: embly flame?<br><em>Daniel_79</em>: Franklin reported for rough conduct! MMM<br><em>Paliente</em>: What drugs were you smoking before the game?!<br><em>4.Gibbs</em>: Thanks for the love people! I try to please<br><em>cheez79</em>: hey p.kar<br><em title="NOZZAROX">nozzarox</em>: Wish I had gibbs as captain<br><em>Paliente</em>: marry me gibbs!<br><em>flashi</em>: hi cheez<br><em>Kazakhstan</em>: ily GIBBS<br><em>LaHug</em>: was scotland's injury bad?<br><em>ya lite</em>: what the hell was everyone bangin on about with Waters!? 71!!?? <br><em>bubba</em>: go btrce you good one<br>
+250417,Bryce,Gibbs,CA,50,166,192,206,138,183,24,21,12,2,0,2,0,1,0, Full Time,star,Completely dominant across half back all day... %P and %M with %T and %s
+250105,Marc,Murphy,CA,37,139,136,175,113,154,18,18,8,5,0,1,1,1,1, Full Time,gun,Tagged by Rosa... %P and %T with %M
+220056,Chris,Judd,CA,57,130,142,172,94,130,18,7,4,10,0,0,1,2,1, Full Time,hot,First goal... %P and %s... tagged by Scott Selwood then Adam Selwood
+230202,Kade,Simpson,CA,31,112,119,149,82,111,12,9,7,9,0,1,0,0,0, Full Time,hot,%P and %T with %M
+990059,Heath,Scotland,CA,30,111,101,142,88,118,15,11,6,5,0,2,1,1,1, Full Time,injured,%P and %M plus %s... injured left ankle/knee in Q4
+240014,Andrew,Walker,CA,19,108,94,139,85,115,21,8,8,1,0,0,0,0,1, Full Time,hot,%s from %D and %M
+290311,Mitch,Robinson,CA,28,105,113,136,84,114,13,9,4,7,0,2,3,2,3, Full Time,hot,Got Scott Selwood as an opponent in Q2... %P and %T plus %s
+270653,Jeff,Garlett,CA,29,101,104,133,73,94,10,4,4,9,0,2,0,2,1, Full Time,hot,%s from %D and %M on Butler
+250090,Jordan,Russell,CA,20,95,85,123,77,99,14,7,10,2,0,1,0,0,0, Full Time,job,Zoned off LeCras... %O and %M
+240060,Eddie,Betts,CA,20,93,80,117,77,99,10,9,8,3,0,0,0,1,3, Full Time,news,%s from %O and %M on Butler
+240028,Brock,McLean,CA,26,91,91,122,68,97,9,10,4,9,0,1,2,0,1, Full Time,sore,%O and %T with %M and %s... rolled left ankle in Q4
+220108,Bret,Thornton,CA,14,80,73,105,65,84,13,5,8,2,0,2,1,0,0, Full Time,job,Followed Kennedy... %M and %D
+261299,Matthew,Kreuzer,CA,21,80,77,102,62,84,8,8,2,6,12,1,1,0,0, Full Time,news,%H with %D and %T
+250408,Joe,Anderson,CA,15,74,73,97,61,81,5,9,8,5,0,0,1,0,0, Full Time,sore,%D and %M... knock to the head in Q1
+261219,Steven,Browne,CA,14,63,59,78,54,69,7,7,6,1,0,0,0,1,0, Full Time,news,%B among %D and %M and %s
+220015,Andrew,Carrazzo,CA,8,60,63,74,51,73,7,12,3,2,0,0,1,0,1, Full Time,tagger,Forward tag on Hurn... %s from %D
+240716,Setanta,O'hAilpin,CA,16,60,80,72,55,66,7,4,5,0,0,1,1,3,0, Full Time,news,%s from %P and %G on MacKenzie
+210022,Richard,Hadley,CA,9,51,39,63,47,66,4,12,4,2,0,1,2,0,0, Full Time,tagger,Tagged Priddis... %D and %M
+270326,Lachie,Henderson,CA,10,47,72,56,40,54,3,9,2,2,0,0,0,1,0, Full Time,news,%s from %O on Schofield
+261043,Michael,Jamison,CA,4,44,55,59,35,48,9,2,4,1,0,0,1,0,0, Full Time,news,%M and %P
+270811,Sam,Jacobs,CA,4,43,40,51,36,45,1,6,1,3,12,1,0,0,0, Full Time,news,%H and %D
+261318,Aaron,Joseph,CA,8,37,39,51,27,39,4,3,2,4,0,0,1,0,0, Full Time,sore,Had Waters on a HBF... %P and %T... corkie in the right quad in Q3
+240016,Beau,Waters,WC,25,109,71,90,88,116,13,10,10,5,0,1,1,0,2, Full Time,garbage,Played small forward on Joseph... %D and %M... plenty of second half garbage time stats
+990020,Andrew,Embley,WC,21,100,87,76,74,106,14,10,4,7,1,0,1,0,0, Full Time,news,%D and %T with %M
+230254,Adam,Selwood,WC,15,89,74,62,70,96,13,11,4,4,0,3,1,0,0, Full Time,tagger,Moved to tag Judd in Q2... %P and %T with %M
+240119,Mark,LeCras,WC,23,89,91,68,75,88,10,2,5,2,0,1,0,5,1, Full Time,news,%s from %D and %M on Russell
+240124,Matt,Priddis,WC,25,87,114,82,64,93,7,16,0,8,0,2,0,0,0, Full Time,sore,Tagged by Hadley... %O and %T... kicked in the calf in Q3 and bruised immediately
+250111,Matt,Rosa,WC,24,87,75,70,69,96,12,7,7,6,0,1,3,0,0, Full Time,tagger,Tagged Murphy... %P and %T with %M
+200112,Dean,Cox,WC,22,78,81,62,73,87,7,6,5,0,26,0,1,1,1, Full Time,news,%H and %D with %M and %s... gash to the elbow in Q1
+240159,Sam,Butler,WC,9,77,73,55,60,81,11,8,5,3,0,1,0,0,0, Full Time,job,Chased Garlett... %P and %M with %T
+240406,Josh J.,Kennedy,WC,22,74,42,59,67,81,9,0,8,2,0,0,3,4,0, Full Time,garbage,Thornton on him... %s from %G and %O with most of it in second half junk time
+271073,Tom,Swift,WC,10,67,58,66,61,87,4,17,5,3,0,0,2,0,0, Full Time,news,%O and %M
+240283,Shannon,Hurn,WC,9,62,75,48,43,58,9,2,3,5,0,1,0,0,1, Full Time,tagged,Forward tag on him by Carrazzo... %D
+250036,Beau,Wilkes,WC,5,60,76,42,47,63,9,5,5,2,0,0,0,0,0, Full Time,news,%M and %D
+281080,Brad,Sheppard,WC,9,58,73,51,44,60,6,7,3,4,0,1,0,0,0, Full Time,news,%O and %T with %M
+271045,Nic,Naitanui,WC,9,56,63,48,47,56,5,3,3,2,17,1,0,0,0, Full Time,fiji,%H and %P with %M and %T
+230281,Mark,Nicoski,WC,9,55,36,50,46,58,5,6,6,2,0,1,0,0,1, Full Time,news,Played a HFF... %D and %M
+220061,Quinten,Lynch,WC,4,53,52,38,41,55,8,4,3,3,0,2,1,0,1, Full Time,news,Booted %s from %D
+261214,Will,Schofield,WC,5,53,60,41,42,54,7,4,5,2,0,1,0,0,0, Full Time,job,On Henderson... %D and %M
+240379,Ben,McKinley,WC,9,48,40,31,40,51,8,1,5,1,0,0,1,1,0, Full Time,news,%O
+280441,Patrick,McGinnity,WC,3,46,37,32,35,51,7,6,1,3,0,1,1,0,0, Full Time,sore,Minded Betts... %O including %K... sore neck in Q3
+261911,Brad,Ebert,WC,3,45,34,23,36,51,9,4,3,1,0,0,1,0,0, Full Time,news,%D
+250317,Eric,MacKenzie,WC,4,43,43,40,37,49,4,5,5,2,1,0,1,0,0, Full Time,job,Stood O'hAilpin
+270928,Scott,Selwood,WC,3,38,17,21,31,45,7,5,2,1,0,0,1,0,0, Full Time,news,Moved off Judd to Robinson in Q2... %D

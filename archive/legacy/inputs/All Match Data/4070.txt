@@ -1,0 +1,48 @@
+Brisbane,Lions,Western Sydney,Giants,R8,19.18.132,5.10.40, Full Time
+May 20,2012,1:10,Gabba,Fox Sports,291828,10340807,430077,0,Fine,25,,
+
+<em>ScootD</em>: flower I played Green over the Horse<br><em>miccyg</em>: png!<br><em>loki</em>: merrett must be hung like a horse<br><em>biggs2dujj</em>: What a joke Rockliff.  61 junk points&#044; and Sidebottom gets mauled for a dominate game against a tight&#044; tough opponent.<br><em>GumbleTON!</em>: Good SC Treloar and Giles<br><em>dusty41</em>: @Mr Jinks: ha ha<br><em title="LIVERPOOL">liverpool</em>: 141 rocky love it<br><em>lozdog</em>: rubbish bin for redden.<br><em>MightyEss</em>: good performance zorko!<br><em>Schminja</em>: Haha @ Grasscutta.  Sadly true about dusty&#044; 2 quarter screamer. We live in hope...<br><em>lion16</em>: i have brown :) coniglio:| and giles:|<br><em>Mr Jinks</em>: the line will be +149.5 next week vs the Bombers<br>
+230147,Daniel,Merrett,BL,50,149,177,180,130,154,17,6,12,1,2,0,0,7,2, Full Time,star,First goal and the next two as well among five in Q1... %s from %P and %G on Mohr with a bit of Cornes,,
+200007,Jonathan,Brown,BL,49,146,154,179,131,154,15,8,16,1,2,2,1,5,2, Full Time,hot,Booted %s from %G and %P on Davis... also %H,,
+270919,Tom,Rockliff,BL,32,125,146,150,109,145,20,16,5,0,0,2,2,3,4, Full Time,garbage,Started slowly but had an excellent Q2... %D with %M and %s... all his goals in Q4 junk time,,
+270512,Pearce,Hanley,BL,30,118,122,154,96,129,18,11,10,4,0,2,2,0,0, Full Time,hot,%2 Hoskin-Elliottt off a wing... %D and %M with %T,,
+290110,Mitchell,Golby,BL,20,105,90,137,81,108,16,8,8,4,0,1,0,0,0, Full Time,hot,%P and %M with %T,job,Minding Tyson
+271072,Daniel,Rich,BL,21,101,104,130,79,108,18,8,5,3,0,1,1,1,0, Full Time,hot,%2 Coniglio... %D and %M,,
+281373,Jack,Redden,BL,30,99,90,127,74,108,9,17,1,9,0,2,1,0,0, Full Time,news,%2 Ward... %P and %T,,
+281329,Rohan,Bewick,BL,14,97,91,122,78,101,13,11,6,3,0,4,0,0,2, Full Time,news,%D and %M,,
+261224,Dayne,Zorko,BL,30,96,100,126,75,100,11,7,7,6,0,0,1,1,1, Full Time,bubble,Second game... %s from %D and %M with %T on Power,,
+980007,Simon,Black,BL,15,89,109,111,72,97,13,12,5,2,0,2,0,0,1, Full Time,tagged,Tagged by Reid... %D and %M,,
+291548,Ryan,Lester,BL,14,85,79,108,71,91,10,9,9,2,0,1,0,0,1, Full Time,news,%D and %M,,
+291828,Billy,Longer,BL,20,81,63,98,71,88,8,7,3,3,25,3,2,0,0, Full Time,cash,%H and %P with %T,,
+210013,Ashley,McGrath,BL,9,76,99,95,60,85,10,12,3,3,0,0,0,0,1, Full Time,job,In defence on Tomlinson then got Cornes in Q3... %D and %T,,
+200121,Josh,Drummond,BL,12,69,64,89,57,78,12,7,6,1,0,0,1,0,0, Full Time,job,Has Folau... %O and %M,,
+290808,Patrick,Karnezis,BL,16,68,91,87,58,70,8,2,7,2,0,1,1,2,1, Full Time,sore,Kicked %s from %P and %M on Cornes then Buntine... corked right hip/buttock in Q3,,
+240087,Jed,Adcock,BL,9,67,92,85,54,72,9,8,5,2,0,1,0,0,0, Full Time,news,%O and %M,,
+290748,Joshua,Green,BL,8,64,73,79,52,70,8,10,3,2,0,2,0,0,1, Full Time,news,%P,,
+260975,James,Polkinghorne,BL,5,56,58,73,46,62,8,5,5,2,2,0,1,0,0, Full Time,news,%O and %T,,
+220062,Matt,Maguire,BL,5,53,82,70,42,57,9,4,4,2,0,1,1,0,0, Full Time,news,%D and %M,job,Following Cameron
+230170,Joel,Patfull,BL,5,48,65,61,41,57,5,8,4,2,0,0,1,0,0, Full Time,job,Standing the resting ruckman... %P and %T,subbed,Subbed off in Q4 for Polec
+240013,Andrew,Raines,BL,7,46,44,58,40,60,8,9,2,1,0,0,2,0,0, Full Time,news,%O,skull,Tagging Scully
+290738,Jared,Polec,BL,1,11,5,14,10,12,1,1,2,0,0,0,0,0,0, Full Time,news,On in Q4 for Patfull,sub,Started as a sub
+261231,Rhys,Palmer,WS,20,104,70,72,80,105,16,7,8,4,0,2,0,0,0, Full Time,hot,%P and %M,,
+280109,Callan,Ward,WS,15,90,103,57,71,99,15,9,4,4,1,2,2,0,2, Full Time,news,%2 Redden... %D and %T with %M,,
+261841,Jonathan,Giles,WS,16,76,92,53,68,83,10,4,5,1,16,2,2,1,1, Full Time,cash,%H and %P with %M and %s,,
+291969,Stephen,Coniglio,WS,14,76,83,64,60,81,8,11,4,4,0,2,0,0,0, Full Time,cash,%2 Rich... %P and %T,,
+291784,Dom,Tyson,WS,25,74,76,76,60,85,4,14,2,6,1,0,1,1,0, Full Time,cash,%D and %T on Golby,,
+280969,Tom,Scully,WS,20,71,94,60,51,69,8,6,1,6,0,2,0,1,0, Full Time,tagged,Tagged by Raines... %D and %T plus %s,,
+290765,Sam,Darley,WS,9,64,82,36,52,75,12,7,4,2,0,0,2,0,0, Full Time,rookie,First game... playing in defence... %O and %M,,
+29,Adam,Treloar,WS,7,57,84,38,45,66,8,11,1,2,0,0,0,0,0, Full Time,cash,Defensive midfield roles... %O including %B,,
+294068,Andrew,Phillips,WS,11,56,61,48,51,60,5,3,5,1,12,1,1,1,0, Full Time,bubble,Second game... %s from %D and %M on Patfull when forward... also %H as #2 ruck,,
+980011,Luke,Power,WS,8,56,61,38,45,66,9,7,3,3,0,0,2,0,0, Full Time,job,Minding Zorko... %P,,
+11,Taylor,Adams,WS,12,55,62,34,43,66,10,7,1,4,0,1,3,0,0, Full Time,cash,Playing deep forward... %D and %T... also %F,,
+295344,Toby,Greene,WS,8,50,52,27,46,72,10,9,3,2,0,0,5,0,0, Full Time,cash,%D and %M... also %F,mrp,A high elbow in Q4 will be looked at though there wasn't much in it
+261374,Sam,Reid,WS,8,47,58,40,35,51,6,5,1,5,0,2,2,0,0, Full Time,cash,%O and %T,tagger,Tagging Black
+280804,Phil,Davis,WS,4,47,69,36,41,54,6,6,5,1,0,1,1,0,0, Full Time,job,Following Brown... %M and %D,,
+293845,Jeremy,Cameron,WS,7,45,30,32,40,52,7,2,6,1,0,0,2,0,4, Full Time,cash,%s from %D and %M,goose,Maguire on him
+294125,Nathan,Wilson,WS,9,41,45,33,34,43,5,2,3,2,0,1,1,1,1, Full Time,in,%l Jacob Townsend... %s from %D and %M,,
+261189,Tim,Mohr,WS,4,40,63,26,34,45,6,5,4,0,0,0,0,0,0, Full Time,job,Merrett kicked the first three on him.... %P and %M,,
+980059,Chad,Cornes,WS,3,39,47,27,29,40,6,3,2,2,1,0,0,0,0, Full Time,switch,Had Karnezis... went forward on McGrath in Q3... %D and %M,,
+294917,Israel,Folau,WS,3,32,24,29,25,34,3,4,2,2,0,0,0,0,1, Full Time,tonga,%D on Drummond,,
+291819,Adam,Tomlinson,WS,2,26,24,28,18,24,2,1,2,3,0,0,0,0,0, Full Time,news,%D and %T with %M on McGrath,subbed,Subbed off at HT for Buntine
+291720,Will,Hoskin-Elliott,WS,2,24,10,20,17,24,3,2,1,2,0,0,0,0,0, Full Time,news,%2 Hanley off a wing.... %P,,
+5,Matthew,Buntine,WS,1,17,15,12,17,24,2,5,1,0,0,1,1,0,0, Full Time,rookie,First game... on after HT for Tomlinson,sub,Started as a sub

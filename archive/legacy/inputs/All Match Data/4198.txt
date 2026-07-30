@@ -1,0 +1,48 @@
+Brisbane,Lions,Western Bulldogs,Bulldogs,R23,19.14.128,9.7.61, Full Time
+Sep 2,2012,4:40,Gabba,Fox Sports,280012,10342309,430205,0,Sunny,23,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='margin-bottom:-2px'><b class="ticon tCO"></b> Jovenites</em>: ass<br><em>Rootragic</em>: Just won the granny by 1 point! Boydy you star!<br><em>13Brummy</em>: cheers m0nty looking forward to the finals and next year<br><em>krusty1</em>: off to celebrate a gf win<br><em>Murf2Gibbs</em>: Thanks for this year monty some ups and downs but it's been good see all in finals <br><em>krusty1</em>: swine you drunkard be thankful<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> Sydney14</em>: cant wait til pre season to build my team for next year. great work on this site mOnty<br><em>GoLions</em>: great stuff m0nty&#044; can't wait for next year<br><em>alftiles</em>: *the<br><em>Ferog</em>: Thanks mOnty<br><em>alftiles</em>: your thw worts player ever rockcliff you flowering useless hack<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> OnTheRocks</em>: may everytones selections be better next year<br>
+271072,Daniel,Rich,BL,32,126,145,157,102,130,18,7,7,3,0,0,0,4,1, Full Time,star,%O and %M plus %T and %s,,
+292035,Claye,Beams,BL,26,114,115,147,86,115,18,8,5,5,0,2,0,1,1, Full Time,hot,%P and %M plus %T and %s,,
+270512,Pearce,Hanley,BL,26,109,117,142,87,111,18,4,11,2,0,0,0,1,0, Full Time,x-factor,Allowed to run free loose in defence and carved the Dogs up.. %P and %M plus %s,,
+281373,Jack,Redden,BL,36,104,95,136,86,121,14,12,6,6,1,1,4,1,0, Full Time,garbage,Started slowly but much better after HT... %P including %B with %M and %T... also %F and %s,,
+200007,Jonathan,Brown,BL,27,92,92,113,84,98,10,2,9,1,1,1,2,5,1, Full Time,target,Roughead on him... %s from %G and %D,,
+261224,Dayne,Zorko,BL,15,78,82,100,65,92,9,12,5,4,0,0,2,0,2, Full Time,tagged,Tagged by Picken... %O and %M with %T and %s,reported,Reported for striking Smith in Q4 but nothing in it
+980007,Simon,Black,BL,13,78,89,95,71,94,9,15,6,1,0,4,2,0,1, Full Time,heart,%D and %M plus %s... left knee knock in Q2,,
+270936,Jordan,Lisle,BL,17,77,91,95,65,77,8,4,6,2,5,2,0,2,0, Full Time,news,First goal... %s from %G and %P on Markovic... also %T and %H,,
+240087,Jed,Adcock,BL,9,76,87,100,57,78,15,5,3,3,0,3,1,0,0, Full Time,tagged,Forward tag on him by Addison... %P and %M with %T,,
+281329,Rohan,Bewick,BL,12,72,58,90,59,74,9,4,5,2,0,0,0,2,2, Full Time,news,%s from %D on Jong... also %T and %M,,
+291548,Ryan,Lester,BL,12,62,59,77,56,75,6,11,7,1,0,0,1,0,0, Full Time,job,Standing Campbell... %M and %D,subbed,Subbed off at 3QT for Harwood
+240013,Andrew,Raines,BL,18,61,42,78,46,66,9,7,0,4,0,1,1,1,0, Full Time,tagger,Tagging Griffen... %D and %T plus %s,,
+290748,Joshua,Green,BL,14,60,71,74,48,66,8,8,2,2,0,0,0,1,0, Full Time,news,%s from %D and %T... also %M,,
+260975,James,Polkinghorne,BL,10,57,58,71,49,61,8,5,4,1,0,3,1,1,1, Full Time,news,%D and %M plus %s,,
+261222,James,Hawksley,BL,8,57,83,72,46,62,11,5,4,0,2,0,0,0,0, Full Time,news,%P and %M,job,In defence on Higgins
+210045,Amon,Buchanan,BL,8,56,64,69,49,70,7,12,2,2,0,2,2,0,1, Full Time,in,%l Josh Drummond... %O and %T with %M and %s,,
+292128,Elliot,Yeo,BL,5,54,58,69,46,63,4,9,5,3,0,0,1,0,0, Full Time,job,Minding Dickson... %O and %M with %T,,
+240710,Ben,Hudson,BL,9,52,78,56,50,64,4,10,0,0,21,1,1,0,1, Full Time,news,%H and %P,,
+230147,Daniel,Merrett,BL,8,51,72,65,45,60,8,6,6,0,0,0,1,0,0, Full Time,job,At FB on Lake... %D and %M,,
+230170,Joel,Patfull,BL,8,46,79,60,42,54,6,5,6,1,0,2,2,0,0, Full Time,job,Following Grant... %M and %P,,
+270919,Tom,Rockliff,BL,7,43,43,56,37,58,8,8,1,2,0,0,3,0,1, Full Time,cold,Played forward and showed little appetite for racking up stats... %O and %T plus %s... also %F,wood,Has Wood
+281048,Ryan,Harwood,BL,2,30,21,38,22,33,2,6,0,3,0,0,0,0,0, Full Time,news,On after 3QT for Lester... %D and %T,sub,Started as a sub
+220010,Matthew,Boyd,WB,32,125,129,104,105,147,12,25,5,5,0,1,1,1,0, Full Time,gun,%B among %P with %T and %M.. also %s,,
+230041,Adam,Cooney,WB,32,122,129,99,94,130,14,15,5,7,0,0,0,1,1, Full Time,hot,%P and %T plus %M and %s,,
+200083,Robert,Murphy,WB,24,107,123,65,80,108,19,6,7,4,0,1,0,0,0, Full Time,hot,%P and %T with %M,,
+281139,Easton,Wood,WB,19,90,46,64,75,96,13,7,11,1,0,0,0,0,0, Full Time,news,%P and %M,job,Minding Rockliff
+230255,Will,Minson,WB,26,89,90,79,69,88,8,5,0,7,28,2,1,0,0, Full Time,news,%H and %P with %T,,
+291810,Michael,Talia,WB,14,88,79,57,76,99,14,9,9,1,0,3,2,0,0, Full Time,news,%P and %M... also %F,,
+293847,Clay,Smith,WB,15,85,56,65,68,93,11,11,5,4,0,2,1,0,0, Full Time,news,%O and %M with %T,,
+260227,Shaun,Higgins,WB,16,81,86,64,71,96,8,15,3,2,0,1,1,2,0, Full Time,news,%s from %P on Hawksley... also %T and %M,,
+271439,Liam,Picken,WB,15,81,95,46,67,94,14,10,3,2,0,1,2,1,1, Full Time,tagger,Tagging Zorko... %D and %T with %M and %s... also %F,,
+291545,Mitch,Wallis,WB,19,77,84,63,61,81,8,11,2,4,0,3,0,1,0, Full Time,news,%O and %T with %M and %s,,
+240156,Ryan,Griffen,WB,14,76,102,57,65,97,9,18,2,3,0,0,2,0,1, Full Time,news,%P and %M... also %T and %s,rain,Tagged by Raines
+280012,Jordan,Roughead,WB,13,76,86,66,69,88,7,12,9,1,1,2,1,0,0, Full Time,sore,%O and %M... right knee knock in Q3,job,Standing Brown
+261319,Jarrad,Grant,WB,11,69,57,59,56,73,7,7,5,3,0,0,0,1,1, Full Time,astronaut,%s from %O and %M on Patfull... also %T,,
+290246,Tom,Campbell,WB,15,67,75,62,59,76,4,10,1,3,16,1,1,1,0, Full Time,news,%s from %P and %T on Lester,,
+250601,Lukas,Markovic,WB,9,66,77,45,51,69,11,3,6,3,0,0,1,0,0, Full Time,job,Has Lisle... %P and %M with %T,,
+250383,Nathan,Djerrkura,WB,5,53,51,42,42,57,7,5,4,3,0,1,1,0,0, Full Time,spud,%D and %T with %M,,
+281374,Christian,Howard,WB,12,53,67,29,49,66,10,6,6,0,0,2,3,0,0, Full Time,news,%D and %M... also %F,,
+220039,Brian,Lake,WB,3,44,47,21,35,46,9,3,2,1,0,3,1,0,1, Full Time,cold,Mostly at FF on Merrett... switched back briefly in Q3... %s from %D and %M,,
+295712,Tory,Dickson,WB,9,40,41,38,35,45,3,5,3,2,0,1,1,1,0, Full Time,news,One touch in Q1... %s from %D and %M on Yeo,,
+240212,Dylan,Addison,WB,4,35,39,30,31,45,4,6,3,2,0,0,2,0,0, Full Time,tagger,Forward tag on Adcock... %P and %M... also %T and %F,,
+295313,Lin,Jong,WB,2,24,36,19,24,36,2,9,1,0,0,0,1,0,0, Full Time,job,In defence on Bewick... %D,subbed,Subbed off in Q3 for Skinner
+280442,Zephaniah,Skinner,WB,0,12,6,12,9,12,1,1,1,1,0,0,0,0,0, Full Time,news,On in Q3 for Jong... %O,sub,Started as a sub

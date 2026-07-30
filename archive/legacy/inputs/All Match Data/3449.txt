@@ -1,0 +1,48 @@
+Melbourne,Demons,Western Bulldogs,Bulldogs,R7,9.12.66,10.10.70, Full Time
+May 07,2010,7:40,MCG,Seven,200082,10280701,5015451,4992,Drizzling rain,19
+The style sheets are taking a little longer than expected but it will come...,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em style='color:#ff028d'>guffy</em>: Spewin: hung onto hall&#044; brought boyd off pine & put scully on it. Hall is finished<br><em style='color:#ff028d'>TBoak10</em>: 335 from 3&#044; CHEERIN had McKenzie&#044; Higgins and GIANSIRACUSA<br><em style='color:#ff028d'>drywater</em>: @monty JT is 73 not 78 !!<br><em style='color:#ff028d'>footy_wiz</em>: trengove stop losing points<br><em style='color:#ff028d'>asmodean</em>: Ah cheers ocat1979&#044; ive played it for years but didn't realise they were weighted. understood the rest of it though!<br><em style='color:#ff028d'>kinkwah</em>: lol korza&#044; stick ya purple there!!! lol<br><em style='color:#ff028d'>dees5-10ys</em>: hughes the cash sign<br><em style='color:#ff028d'>sacka</em>: Maybe in a loser side sam25 but in my midfield i expect 100 every week<br><em style='color:#ff028d'>CuStArDaRm</em>: Why oh why didnt i trust my instints and boot hall. <br><em style='color:#ff028d'>sam25</em>: cheer up everyone who has trengove if we said hed get these scores before the night started youd take it<br><em style='color:#ff028d'>ocat1979</em>: asmodean: yep spot on&#044; points are weighted towards when the game was won<br><em style='color:#ff028d'>singoman</em>: according to my SC&#044; Gia = 160 and Trengove = 73???<br>
+280969,Tom,Scully,ME,32,134,133,167,109,151,19,20,4,5,0,4,2,1,1, Full Time,superman,Started like a train and finished like one too with 18 touches in Q4... %P and %M with %T and %s
+200052,Cameron,Bruce,ME,27,105,123,130,87,123,8,22,5,6,0,1,1,0,0, Full Time,hot,Matched up on Griffen off a HBF... %D and %T with %M
+250222,Nathan,Jones,ME,26,105,95,130,82,117,15,16,2,4,0,0,0,1,0, Full Time,hot,%P including %B with %T and %M... also %s
+250510,Matthew,Bate,ME,26,94,96,119,75,97,13,5,4,4,0,1,1,3,1, Full Time,news,Not his sort of night but got some excellent supply at times... %s from %D with %T with %M on Williams
+280608,Jack,Trengove,ME,19,91,78,114,71,100,12,14,3,4,0,1,0,0,1, Full Time,cash,Involved in a lot of Melbourne's scoring chains... head to head with Cross... %O and %T with %M and %s
+250548,Lynden,Dunn,ME,14,89,64,116,69,93,12,7,5,5,2,1,1,0,4, Full Time,news,%D and %T with %M and %s
+970130,James,McDonald,ME,42,86,87,116,59,87,9,9,1,10,0,1,1,0,0, Full Time,tagger,Tagged Cooney... %O and %T
+270906,Jordie,McKenzie,ME,19,84,83,108,63,93,11,13,1,6,0,1,1,0,0, Full Time,news,%O and %T
+200002,Aaron,Davey,ME,19,83,92,111,59,81,16,2,2,5,0,2,1,1,0, Full Time,tagged,Tagged by Addison... had a scintillating Q2... %D including %k by foot with %M and %s
+261297,Jack,Grimes,ME,12,79,83,100,61,90,18,10,1,1,0,1,1,0,0, Full Time,job,Matched up on Giansiracusa... %D including %K
+200054,Brad,Green,ME,19,74,78,95,55,75,9,7,2,5,0,1,0,1,0, Full Time,news,Hargrave on him... %s from %D and %T
+260288,James,Frawley,ME,14,70,71,91,55,78,7,10,4,5,0,0,1,0,0, Full Time,job,Followed Murphy... %D and %M with %T
+270830,Colin,Garland,ME,15,67,51,90,47,66,8,5,3,6,0,0,0,0,0, Full Time,job,Minded Grant... %O and %T wiht %M
+230151,Brent,Moloney,ME,13,66,53,86,48,72,12,8,0,4,0,1,1,0,0, Full Time,news,%D and %T
+250572,Daniel,Hughes,ME,14,63,59,78,54,67,7,6,6,1,0,1,0,1,1, Full Time,rookie,First game... at FF with Lake on him... kicked %s from %G and %P
+250716,Matthew,Warnock,ME,8,59,90,74,47,66,6,10,3,3,0,0,0,0,0, Full Time,job,Had Hall... %P and %T
+220052,Mark,Jamar,ME,14,58,60,66,53,63,3,6,1,2,27,2,1,0,0, Full Time,news,%H and %D with %T
+250245,Clint,Bartram,ME,12,57,79,72,42,63,5,11,0,5,0,0,0,0,0, Full Time,job,On Akermanis... %P and %T
+230250,Jared,Rivers,ME,4,54,60,69,42,57,6,7,3,3,0,1,0,0,0, Full Time,job,Minded Hahn... %P and %M
+290943,Jamie,Bennell,ME,11,53,65,67,45,60,6,6,4,2,0,0,1,1,0, Full Time,sore,Forward tag on Harbrow... %D and %M with %s... Harbrow poked him in the eye in Q3
+240037,Colin,Sylvia,ME,6,49,52,60,38,56,9,8,0,1,2,0,0,0,0, Full Time,cold,Morris sat on him... %O
+230108,Paul,Johnson,ME,3,28,50,30,26,34,0,7,0,1,10,0,0,0,0, Full Time,crab,#2 ruck rotating up forward on a night not made for talls... %H and %D with %T
+200079,Daniel,Giansiracusa,WB,38,142,152,102,106,148,22,10,8,9,0,1,2,0,1, Full Time,star,Matched up on Grimes... %P including %k by foot with %M... also %T and %F... %s including the goal that put the Dogs in front very late in Q4
+240156,Ryan,Griffen,WB,32,115,115,79,80,113,19,4,3,9,2,0,1,1,0, Full Time,x-factor,Matched up on Bruce playing on a HFF... %O and %M with %T
+260227,Shaun,Higgins,WB,21,109,103,52,86,118,21,11,4,1,0,1,0,1,1, Full Time,hot,Got way too much room especially in the first half... %s from %D and %M
+210049,Daniel,Cross,WB,26,100,119,77,79,110,13,13,4,6,2,3,2,0,0, Full Time,gun,Head to head with Trengove... %P and %M with %T
+261209,Josh,Hill,WB,46,95,85,85,66,90,11,2,3,10,0,0,1,2,0, Full Time,in,%l Jordan Roughead... %T and %D plus %s
+240710,Ben,Hudson,WB,16,92,88,68,80,102,10,12,4,1,21,1,0,0,0, Full Time,news,%H and %D with %M
+220010,Matthew,Boyd,WB,19,86,68,52,63,86,15,4,3,4,1,0,0,1,1, Full Time,news,First goal... %P and %M with %T and %s
+220039,Brian,Lake,WB,16,84,97,62,66,82,12,2,8,3,0,1,0,1,1, Full Time,job,Stood the first-gamer Hughes... %M and %O
+960064,Jason,Akermanis,WB,20,82,86,62,67,92,11,8,5,4,0,0,2,1,2, Full Time,news,%D and %M with %T and %s on Bartram... had a good Q3
+261257,Andrejs,Everitt,WB,19,79,74,61,63,80,10,5,6,3,2,1,0,1,0, Full Time,sore,Knock to a right ankle in Q1 but returned for Q2... rotated through ruck... %P and %M with %T and %s
+261319,Jarrad,Grant,WB,22,70,74,71,53,69,5,6,4,6,0,1,0,1,0, Full Time,cash,Garland on him... %s from %O and %M with %T
+240254,Jarrod,Harbrow,WB,13,68,83,36,48,69,14,3,2,4,0,1,1,0,0, Full Time,tagged,Forward tag on him by Bennell... %P and %T
+200083,Robert,Murphy,WB,8,65,59,36,49,69,12,6,3,2,0,0,0,0,0, Full Time,news,Frawley followed him... %P
+230041,Adam,Cooney,WB,8,63,63,34,49,75,12,9,1,3,0,0,2,0,0, Full Time,tagged,Tagged by McDonald... %O
+200080,Lindsay,Gilbee,WB,7,55,42,27,40,57,11,5,1,2,0,1,0,0,0, Full Time,news,%D
+200081,Mitch,Hahn,WB,8,53,42,35,36,52,9,3,1,4,0,0,0,0,1, Full Time,news,%s from %D with %T
+200082,Ryan,Hargrave,WB,8,51,52,28,41,60,10,5,3,2,0,0,2,0,0, Full Time,job,%O and %M... only two to half time... minding Green
+250712,Dale,Morris,WB,4,45,75,35,33,45,6,4,2,3,0,1,0,0,0, Full Time,job,Minded Sylvia... %O and %T with %M
+960570,Barry,Hall,WB,3,42,29,40,35,49,3,8,1,3,3,1,1,0,1, Full Time,sore,Warnock on him... %s from %D with %T... corkie just above the left knee in Q2... hamstring cramp in Q4
+260965,Brennan,Stack,WB,8,35,41,28,29,40,4,4,1,2,0,0,1,1,1, Full Time,news,%s from %P
+250150,Tom,Williams,WB,4,32,35,30,31,42,3,4,3,2,6,1,3,0,0, Full Time,job,Followed Bate and helping out in ruck... %H and %T with %M and %F
+240212,Dylan,Addison,WB,1,12,17,3,11,18,3,3,0,0,0,0,1,0,0, Full Time,tagger,Tagged Davey... %O

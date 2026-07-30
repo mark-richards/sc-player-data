@@ -1,0 +1,48 @@
+West Coast,Eagles,Western Bulldogs,Bulldogs,R13,9.5.59,17.17.119, Full Time
+Jun 20,2010,4:40,Subiaco,Fox Sports,230041,10281305,5015545,5169,Sunny,21
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Q4 Sunday twilight go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tPA"></b> numberwang</em>: ditch the coin flips<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> Moloney#22</em>: Yes Sheppard :)<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> SwiftStar5</em>: how come im not in purple<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> SwiftStar5</em>: test!<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> SwiftStar5</em>: Nice Gilbee!<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> roo boys!</em>: A shocker for my SC this week...<br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> sincas</em>: nah ablett is back into form this week.<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> roo boys!</em>: ahhh now they are&#044; all good!<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> roo boys!</em>: my posts are not coming up for me so i cant check my icon?<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> roo boys!</em>: I didnt get all 7 right!<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> midway</em>: goddard captain over ablett this week guys?<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> jmacks</em>: i dont think my 7 coinflip thing works because i got all 7 right<br>
+260546,Bradd,Dalziell,WC,25,110,105,138,90,120,18,11,8,1,0,0,0,1,0, Full Time,hot,Matched up with Eagleton on a wing... %O and %M plus %s
+270928,Scott,Selwood,WC,25,107,99,140,81,108,14,9,7,6,0,2,0,0,0, Full Time,hot,Tagging Cooney... %B among %D with %T and %M
+240016,Beau,Waters,WC,24,101,75,125,89,120,12,17,10,1,0,0,1,0,0, Full Time,hot,%B among %D with %M... had a very productive Q3
+261214,Will,Schofield,WC,15,93,103,122,75,99,14,7,9,3,0,1,1,0,0, Full Time,smiling,Started on Lake then got Johnson... %D and %M with %T
+281080,Brad,Sheppard,WC,19,90,88,115,73,100,15,10,6,2,0,1,1,0,1, Full Time,cash,%O and %M
+990020,Andrew,Embley,WC,14,80,97,100,68,100,12,16,2,3,1,2,3,0,0, Full Time,news,%P
+200112,Dean,Cox,WC,14,75,78,91,68,86,9,9,7,0,11,1,1,0,0, Full Time,news,%H and %D with %M
+240119,Mark,LeCras,WC,17,75,87,91,63,78,8,6,4,2,0,1,0,3,0, Full Time,tagged,Tagged by Picken... %s from %O and %M
+240124,Matt,Priddis,WC,13,72,54,90,57,81,5,14,3,5,0,0,0,0,0, Full Time,news,Head to head with Boyd... %O including %b by hand with %T
+220061,Quinten,Lynch,WC,18,67,64,84,59,76,10,6,7,0,0,0,1,1,1, Full Time,in,%l Adam Selwood... Lake on him... %s from %G and %D
+261911,Brad,Ebert,WC,8,67,39,86,51,72,10,8,3,3,0,0,0,0,0, Full Time,news,%D including %b by hand... also %M
+280441,Patrick,McGinnity,WC,9,66,68,83,53,70,9,8,4,2,0,2,0,0,1, Full Time,news,%D and %M plus %s
+250036,Beau,Wilkes,WC,9,63,85,81,50,66,9,6,5,2,0,1,0,0,0, Full Time,news,%O and %M
+260446,Andrew,Strijk,WC,11,59,57,75,48,63,9,3,3,2,0,0,1,2,0, Full Time,rookie,First goals in his first game... %P and %s
+271045,Nic,Naitanui,WC,10,52,48,63,48,65,4,7,1,3,20,0,3,0,0, Full Time,fiji,%D and %H plus %F
+240406,Josh J.,Kennedy,WC,9,51,44,63,44,52,5,4,5,1,0,2,0,1,1, Full Time,news,%s from %P and %G on Morris
+260303,Mitchell,Brown,WC,8,51,54,63,44,63,5,11,3,2,0,0,1,0,0, Full Time,news,%D on Hargrave
+240379,Ben,McKinley,WC,10,50,59,63,40,51,6,4,3,2,0,1,0,1,0, Full Time,news,%s from %D and %G on Wood
+250111,Matt,Rosa,WC,8,50,69,58,46,66,6,14,2,0,0,1,1,0,0, Full Time,news,%B among %P
+280946,Koby,Stevens,WC,3,46,41,60,33,45,7,4,1,3,0,2,0,0,0, Full Time,concussed,First game... came off very groggy in Q1 after a knock to the head but returned in Q2... %D
+250317,Eric,MacKenzie,WC,3,36,72,45,29,39,7,4,2,0,0,1,0,0,0, Full Time,job,Standing Hall... %P
+240283,Shannon,Hurn,WC,1,23,33,31,17,21,4,0,2,1,0,1,0,0,0, Full Time,injured,Giansiracusa keeping him busy... %D and %M... spent much of the second half benched with some sort of leg injury
+200080,Lindsay,Gilbee,WB,27,119,149,90,101,135,14,18,9,2,0,0,0,1,0, Full Time,hot,%O and %T with %M and %s
+210049,Daniel,Cross,WB,31,116,133,95,95,131,13,18,6,6,2,3,2,0,0, Full Time,hot,%P and %M with %T
+220010,Matthew,Boyd,WB,21,114,79,62,84,119,22,8,4,5,1,1,1,0,1, Full Time,garbage,Head to head with Priddis... %D and %T plus %s... varnished his stats with late Q4 junk time stuff after an okay day
+200079,Daniel,Giansiracusa,WB,22,110,130,82,90,115,14,9,8,3,0,1,0,2,1, Full Time,gun,%s from %D and %M on Hurn
+240254,Jarrod,Harbrow,WB,20,109,92,58,86,118,21,8,8,2,0,0,1,0,1, Full Time,hot,Freed up into midfield due to lack of small opponents down back... %D and %M plus %s
+220039,Brian,Lake,WB,19,103,61,68,85,109,16,8,11,1,0,1,0,0,1, Full Time,garbage,Started forward on Schofield but quickly into defence on Lynch... %s from %D and %M... enjoyed himself in late Q4 garbage time
+200082,Ryan,Hargrave,WB,20,98,62,68,82,112,14,13,8,2,0,0,1,0,1, Full Time,job,Minding Brown... %P and %M
+240156,Ryan,Griffen,WB,26,95,124,66,68,97,15,6,2,7,1,0,1,1,0, Full Time,star,%O and %T plus %s
+970100,Nathan,Eagleton,WB,19,83,72,48,66,88,15,4,6,2,0,0,1,1,1, Full Time,garbage,Matched up with Dalziell on a wing... %D and %M with %T and %s... lots of numbers in Q4 junk time
+200083,Robert,Murphy,WB,13,82,80,40,66,88,16,7,6,0,0,1,0,0,1, Full Time,news,In defence again... %D and %M
+230255,Will,Minson,WB,16,70,75,61,60,75,6,6,3,3,15,1,1,1,0, Full Time,news,%H and %P
+261319,Jarrad,Grant,WB,16,69,67,58,58,71,7,4,6,2,0,0,0,2,2, Full Time,news,%D and %s
+960570,Barry,Hall,WB,20,69,80,44,65,84,10,6,5,0,0,0,3,3,3, Full Time,news,%s from %D on MacKenzie
+230041,Adam,Cooney,WB,13,67,56,43,61,85,10,12,6,0,0,0,2,0,1, Full Time,tagged,Tagged by Scott Selwood... %O and %M with %F
+960258,Brad,Johnson,WB,11,66,66,43,54,67,10,2,5,1,0,0,0,2,1, Full Time,news,%s from %D and %M on Schofield
+200081,Mitch,Hahn,WB,15,65,68,48,56,72,9,5,6,2,0,2,2,1,0, Full Time,job,In defence... %P and %M
+240710,Ben,Hudson,WB,10,65,85,64,56,72,3,12,2,3,12,2,0,0,0, Full Time,news,%H... also %B among %P
+261209,Josh,Hill,WB,15,62,50,63,50,69,4,9,3,5,0,0,1,1,0, Full Time,news,%P and %T
+271439,Liam,Picken,WB,12,58,76,45,45,67,7,11,0,4,0,1,1,0,1, Full Time,tagger,Tagging LeCras... %O and %T
+250712,Dale,Morris,WB,8,56,80,42,49,63,7,7,7,0,0,0,0,0,0, Full Time,job,FOllowing Kennedy... %P and %M
+281139,Easton,Wood,WB,4,49,54,38,43,57,6,7,5,1,0,1,1,0,0, Full Time,job,Has McKinley... %O
+260965,Brennan,Stack,WB,15,48,35,46,38,49,4,2,2,4,0,0,1,2,1, Full Time,news,%T

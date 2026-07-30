@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Adelaide,Crows,R12,19.10.124,11.11.77, Full Time
+Jun 12,2010,2:10,Launceston,Fox Sports,240370,10281202,5015478,5158,Fine,12
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>numberwang</em>: captain jokes aren't funny&#044; they are annoying<br><em>Happy Gilm</em>: Rolly = Ducati Desmosedici RR<br><em>wellers21</em>: maric as sc captain was a horrible choice. i thought he would dominate against the depleted rucks at hawks.<br><em>midway</em>: hodge actually 140<br><em>4.Gibbs</em>: think there is someting suss with the coinflips..entered but not being recorded m0nty<br><em>Stoney888</em>: babyjack bullshower freo for the win easy!<br><em>barlow=god</em>: how did thompson get +3 in SC in the last quarter???<br><em>kelso775</em>: Haha exteam says my projected SC score is 3419 :) i wish<br><em>buddyboyz</em>: hodge for the medal<br><em>mayzeee</em>: bdiesel not my fault ur mothers ya father&#044; two dads...<br><em>LaHug</em>: m0nty&#044; why wasn't i in the pick 6 winners? i picked all but peterson's BE!<br><em>Barlow21</em>: i picked 6 for png<br>
+260955,Cyril,Rioli,HW,48,143,167,183,114,149,15,12,7,9,1,3,2,3,1, Full Time,star,Tagged by van Berlo... %s from %O with %T and %M... had a delicious Q1
+220047,Luke,Hodge,HW,33,140,160,175,110,145,20,12,5,5,1,2,0,3,0, Full Time,gun,Starting in the guts tagged by Reilly... %D and %M plus %T and %s... had an excellent Q2
+220073,Sam,Mitchell,HW,27,112,100,143,87,123,15,16,4,6,0,2,1,0,0, Full Time,hot,Head to head with Goodwin... %B among %D with %T and %M... left ankle rolled in Q3 but didn't affect him
+250257,Xavier,Ellis,HW,33,111,118,144,84,117,11,13,4,9,0,1,1,1,0, Full Time,hot,%P and %T with %M
+240399,Lance,Franklin,HW,36,103,111,128,86,109,7,11,6,6,0,2,1,3,1, Full Time,hot,%s from %P and %G on Bock... also %T
+250089,Jordan,Lewis,HW,19,98,103,121,83,115,11,17,6,3,4,0,1,0,0, Full Time,news,%O including %b by hand with %M and %T
+240357,Jarryd,Roughead,HW,25,87,102,106,76,91,11,5,8,0,0,1,0,3,1, Full Time,news,Booted %s from %P and %G on Rutten
+210012,Shaun,Burgoyne,HW,19,80,104,105,57,82,11,8,2,6,1,0,0,0,0, Full Time,news,%O and %T with %M
+220060,Rick,Ladson,HW,21,76,66,103,51,70,9,4,2,8,0,2,0,0,1, Full Time,news,Matched up on Mackay on a wing... %D and %T
+240302,Grant,Birchall,HW,13,76,86,95,66,90,10,12,7,1,0,0,1,0,0, Full Time,news,%O including %B plus %M
+200060,Brent,Guerra,HW,15,66,73,82,54,70,8,7,4,2,0,1,0,1,1, Full Time,sore,%P and %M... copped a knock to the left side in Q1
+210062,Wayde,Skipper,HW,11,64,56,83,47,60,9,1,2,4,11,1,0,0,1, Full Time,news,Starting forward... %P and %T with %H and %M
+261386,Brendan,Whitecross,HW,14,64,45,86,52,70,6,6,6,5,0,1,2,0,1, Full Time,news,%s from %D and %M with %T in his now customary HFF role on Doughty
+230197,Brad,Sewell,HW,13,62,73,80,48,70,6,10,2,5,0,0,1,0,1, Full Time,tagger,Tagging Thompson... %D and %T
+270854,Carl,Peterson,HW,10,62,72,74,51,65,5,8,1,3,2,2,0,2,0, Full Time,news,%s from %P and %T on Stevens
+250308,Brent,Renouf,HW,10,56,55,65,49,59,3,5,2,2,23,0,0,0,0, Full Time,news,%H and %P
+281301,Ryan,Schoenmakers,HW,9,54,41,73,43,54,9,1,6,2,0,2,1,0,0, Full Time,job,Has Walker... %D and %M plus %T
+280471,Ben,Stratton,HW,4,52,71,68,40,54,10,3,4,1,0,0,0,0,0, Full Time,job,Minding Henderson... %P and %M
+250146,Thomas,Murphy,HW,9,51,50,64,46,66,5,11,4,2,0,0,2,0,0, Full Time,porpoise,Minding Porplyzia... %P and %T with %M
+210092,Michael,Osborne,HW,10,47,51,59,39,48,4,3,2,3,0,2,1,2,0, Full Time,news,First goal... %s from %P and %M
+230082,Stephen,Gilham,HW,3,41,66,53,31,42,4,5,2,3,0,1,0,0,0, Full Time,sore,On Tippett... right hamstring restrapped in Q1... %O and %T
+260279,Beau,Muston,HW,8,39,52,46,35,44,4,5,3,0,0,0,0,1,2, Full Time,tagger,Forward tag on Johncock worked a treat... moved to Petrenko in Q4... %O and %M plus a bonus %s
+240370,Richard,Douglas,AD,36,115,120,91,89,118,14,11,6,6,1,2,0,1,0, Full Time,hot,%D and %M plus %T and %s
+200092,Michael,Doughty,AD,26,109,106,93,85,115,12,12,8,6,1,0,0,0,0, Full Time,hot,On Whitecross on a HBF... %P and %T with %M
+250118,Nathan,van Berlo,AD,25,102,86,95,90,123,8,20,9,4,0,1,2,0,0, Full Time,hot,Tagging Rioli... %O and %M with %F
+230215,Brad,Symes,AD,20,98,63,90,81,109,9,13,9,5,1,0,1,0,0, Full Time,news,%D and %M with %T
+220086,Brent,Reilly,AD,19,89,75,70,71,99,12,9,7,5,0,0,2,0,0, Full Time,tagger,Tagged Hodge to little effect... %P and %M with %T
+270170,Tony,Armstrong,AD,19,89,82,65,75,96,12,9,10,1,0,1,0,0,0, Full Time,cash,%O and %M
+270742,Kurt,Tippett,AD,24,89,114,81,76,88,7,1,5,4,10,1,1,4,3, Full Time,news,%s from %D and %G on Gilham... also %H in ruck
+960036,Simon,Goodwin,AD,20,81,92,70,60,87,9,11,2,7,0,1,1,0,0, Full Time,news,Head to head with Mitchell... %B among %D with %T and %M
+200072,Scott,Stevens,AD,21,80,81,57,66,93,12,8,5,4,0,0,3,1,0, Full Time,job,Started back on Peterson... %P and %T with %M and %F
+250362,David,Mackay,AD,10,79,85,49,64,89,13,9,5,2,1,0,1,0,1, Full Time,news,Matched up on Ladson on a wing... %O and %M plus %s
+220009,Nathan,Bock,AD,14,77,65,37,65,87,16,5,8,0,0,1,2,0,0, Full Time,job,Following Franklin... %D and %M with %F
+270963,Rory,Sloane,AD,14,73,83,72,58,78,5,12,4,5,0,2,0,0,0, Full Time,news,%P and %T with %M
+210056,Graham,Johncock,AD,21,69,62,63,45,63,8,3,2,8,0,1,0,0,0, Full Time,news,Forward tag on him by Muston so he went forward but had no effect... %D and %T
+270917,Patrick,Dangerfield,AD,15,63,86,48,47,60,8,3,1,4,0,2,0,2,0, Full Time,news,%s from %O and %T on Murphy
+220093,Ben,Rutten,AD,5,58,62,54,47,63,5,8,5,3,0,0,0,0,0, Full Time,job,Standing Roughead... %P and %T with %M
+261138,Jared,Petrenko,AD,13,58,68,46,44,66,8,7,2,5,0,0,2,0,0, Full Time,tagged,Swapped with Johncock to the backline in Q1... tagged by Muston in Q4... %D and %M plus %T
+291201,Ricky,Henderson,AD,10,51,44,34,44,55,7,5,4,0,0,1,0,1,1, Full Time,bubble,Second game... %s from %D and %M on Stratton
+250088,Jonathon,Griffin,AD,7,45,25,36,39,46,4,3,1,1,19,1,0,0,0, Full Time,news,%H and %P
+230174,Jason,Porplyzia,AD,9,44,35,38,34,48,6,2,4,4,0,0,2,0,0, Full Time,news,%O and %M with %T on Murphy
+280506,Taylor,Walker,AD,10,42,25,30,40,51,6,1,4,1,0,0,3,2,3, Full Time,news,%s from %P and %M on Schoenmakers... also %F
+210016,Scott,Thompson,AD,2,27,33,15,24,36,5,5,1,1,0,1,2,0,0, Full Time,injured,Tagged by Sewell... %P... knock to the left eye socket in Q2 bruised up early... did not return
+240546,Ivan,Maric,AD,6,24,5,21,25,30,1,3,0,0,18,0,1,0,0, Full Time,news,%H and %D

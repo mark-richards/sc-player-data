@@ -1,0 +1,48 @@
+Geelong,Cats,Hawthorn,Hawks,QF,14.14.98,9.13.67, Full Time
+Sep 9,2011,7.45,MCG,Seven,220007,10320101,7628,189,Windy with a few showers,15,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tES"></b> peterfile</em>: dont be upset because i know more about football than you<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> peterfile</em>: Yes DT/SC scores are the be all and end all just look at luke shuey 85 sc and played 1 of the worst games ive seen<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> peterfile</em>: yes you are all right it doesnt excuse the fact that mitchell is a small man playing in a yellow and brown skirt<br><em>patty</em>: you're an idiot peterfile.. you're on a fantasy football site trying to argue against fantasy football scores.<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> SCARLETT</em>: @peterfile. Mitchell's a tool&#044; but hes a gun footballer!<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> peterfile</em>: jobe 2 mitchell atleast i dont play and look like a girl<br><em style='color:#a0a'>moorey21</em>: Buddy Hell! Couldn't of happened to a better bloke<br><em>hughess14</em>: will there be supercoach scores coming up?<br><em>Scotty1</em>: My point was that he has a good season. You judge him on one game being picked up by the best tagger in the comp<br><em>JoeMontana</em>: Mitchell to Jobe - At least I was the best player in my family!    <br><em>JoeMontana</em>: Mitchell - Premiership captain. Jobe - My dad was a gunn! <br><em style='margin-bottom:-2px'><b class="ticon tES"></b> peterfile</em>: so Joel Bowden averaged 111/125/117/108 in supercoach from 2005 to 2008 is he a gun?<br>
+980064,Brad,Ottens,GE,28,108,135,130,93,112,7,9,5,5,21,3,1,2,1, Full Time,star,Started at FF on Birchall then went into ruck in Q2 and turned the game... %s from %D and %M with %T... also %H,,
+220054,Steve,Johnson,GE,24,102,94,130,85,115,19,8,7,1,0,0,2,1,4, Full Time,hot,%s from %O and %M on Murphy,,
+220058,James,Kelly,GE,20,99,104,134,69,100,18,5,3,7,0,0,1,0,1, Full Time,news,%P and %M with %T,,
+250321,Joel,Selwood,GE,20,91,117,120,64,88,13,7,2,7,1,3,0,0,0, Full Time,tagged,Tagged by Lewis... %O and %T,,
+220007,Jimmy,Bartel,GE,24,85,108,111,69,93,12,7,6,4,0,1,2,1,0, Full Time,news,%2 Shiels... %D and %T with %M and %s,,
+280918,Allen,Christensen,GE,9,80,89,98,64,86,10,13,2,3,0,4,0,0,2, Full Time,news,%s from %D with %T and %M,,
+261510,Tom,Hawkins,GE,20,74,103,91,62,80,6,9,3,4,2,2,1,2,0, Full Time,x-factor,Booted %s from %G and %O on Schoenmakers,,
+281065,Mitch,Duncan,GE,15,68,60,93,45,64,11,2,2,6,0,0,0,0,1, Full Time,news,Started in midfield.... %D and %T with %M,,
+200039,Paul,Chapman,GE,12,66,80,87,47,70,11,7,0,5,0,1,1,0,1, Full Time,news,%2 Sewell.... %P and %T,,
+210059,Josh,Hunt,GE,10,65,87,84,50,63,13,1,4,1,0,2,0,1,0, Full Time,news,%O and %M plus %s,job,Minding Breust
+200037,Cameron,Ling,GE,12,63,55,83,44,64,11,5,1,4,0,0,0,0,1, Full Time,news,%P and %T,tagger,Started forward on Burgoyne then went to Mitchell in Q2
+200131,James,Podsiadly,GE,17,59,72,73,53,67,6,4,4,2,1,0,2,3,0, Full Time,news,Kicked %s from %G and %D with %T on Gibson,,
+260261,Trent,West,GE,15,58,57,69,52,61,4,3,3,2,19,1,1,1,0, Full Time,news,%H and %P,,
+261497,Harry,Taylor,GE,8,54,71,70,45,57,9,3,7,0,0,0,0,0,0, Full Time,news,%M and %D,job,On Hale
+200035,Corey,Enright,GE,2,41,29,54,29,42,10,2,1,1,0,0,0,0,0, Full Time,job,Responsible for Rioli... %P,,
+230248,Andrew,Mackie,GE,8,41,85,57,29,45,8,3,0,4,0,1,2,0,0, Full Time,job,Has Whitecross... %D,,
+980037,Matthew,Scarlett,GE,8,41,37,56,29,39,4,2,3,4,0,0,0,0,0, Full Time,tagged,Forward tag on him by Osborne... %O,,
+230214,Mathew,Stokes,GE,8,37,44,45,31,39,4,4,2,1,0,1,0,1,0, Full Time,news,On in Q2 for Menzel,sub,Started as a sub
+990076,David,Wojcinski,GE,4,33,63,45,29,45,6,5,2,2,0,0,3,0,0, Full Time,news,%2 Smith off a wing... smashed in Q1... %D and %T,,
+230125,Tom,Lonergan,GE,2,27,24,37,22,31,5,2,1,2,1,2,2,0,0, Full Time,job,Following Franklin.. %D and %F,,
+291307,Daniel,Menzel,GE,8,26,32,32,27,33,3,1,3,0,0,0,2,2,0, Full Time,longterminjured,%s from %P and %M on Guerra then Birchall.... right knee ACL injury in Q2,subbed,Subbed off in Q2 for Stokes
+250290,Travis,Varcoe,GE,1,25,34,33,17,25,6,1,0,1,0,0,0,0,1, Full Time,news,%P off a HFF,,
+220047,Luke,Hodge,HW,38,129,128,98,97,128,18,5,7,8,0,1,1,2,2, Full Time,heart,Left thigh knock in Q3... %P and %T plus %M and %s,,
+294877,Isaac,Smith,HW,26,114,77,68,90,116,20,4,10,2,0,0,0,1,2, Full Time,hot,%2 Wojcinski off a wing... %P and %M,,
+280737,Liam,Shiels,HW,31,108,103,85,81,114,15,9,6,8,0,1,2,0,0, Full Time,hot,%2 Bartel... %D and %T with %M,,
+240302,Grant,Birchall,HW,24,107,109,62,86,114,19,8,10,1,0,0,0,0,0, Full Time,hot,%D and %M,job,Taken to FB by Ottens early then got Menzel
+250715,Josh,Gibson,HW,14,89,109,58,73,93,14,7,9,1,0,2,0,0,0, Full Time,ipod,Standing Podsiadly... %P and %M,,
+230197,Brad,Sewell,HW,21,83,100,83,65,93,6,14,4,7,0,0,1,0,0, Full Time,news,%2 Chapman... %O and %T,,
+200060,Brent,Guerra,HW,13,81,86,43,61,81,16,3,6,2,0,1,0,0,0, Full Time,job,Moved off Menzel early... %P,,
+281301,Ryan,Schoenmakers,HW,20,80,88,63,58,81,12,3,5,7,0,1,2,0,0, Full Time,tomahawk,Has Hawkins... %P and %T with %M and %F,,
+210012,Shaun,Burgoyne,HW,18,79,99,71,61,81,8,8,6,5,0,1,0,0,0, Full Time,news,Ling starting forward on him them moved off in Q2... %O and %T with %M,,
+240399,Lance,Franklin,HW,22,79,93,69,65,78,8,0,4,5,0,2,2,4,3, Full Time,injured,Right knee hyperextension in Q4... %s from %P and %G with %T on Lonergan... also %4 frees for and %F,,
+270732,Matt,Suckling,HW,14,79,80,41,61,84,16,4,6,2,0,0,1,0,0, Full Time,news,%P,,
+250146,Thomas,Murphy,HW,14,70,83,46,58,75,12,3,8,2,0,2,2,0,0, Full Time,job,Big job on Johnson... %O and %T with %M,,
+261386,Brendan,Whitecross,HW,9,70,86,47,53,70,11,5,4,3,0,2,0,0,1, Full Time,news,%P and %M on Mackie,,
+220073,Sam,Mitchell,HW,12,67,94,47,49,73,10,9,0,5,0,1,1,0,1, Full Time,pinkpig,Ling moved to tag him in Q2... %D and %T plus %s,,
+250089,Jordan,Lewis,HW,15,65,68,36,57,77,12,4,3,2,8,2,4,1,0, Full Time,news,%P and %M with %T... also %H as third man up,tagger,Tagging Selwood
+260710,Paul,Puopolo,HW,8,65,80,42,51,69,10,8,3,2,0,2,0,0,0, Full Time,news,%B among %D with %M,job,Rotating on the small Cat forwards
+210092,Michael,Osborne,HW,5,48,39,35,39,54,7,5,4,2,0,0,1,0,0, Full Time,tagger,Forward tag on Scarlett... %D,,
+260955,Cyril,Rioli,HW,10,48,54,30,38,51,8,3,2,2,0,1,1,1,0, Full Time,missing,First goal... %s from %O and %T on Enright,,
+260472,Max,Bailey,HW,8,36,45,39,28,37,2,2,1,4,10,0,1,0,0, Full Time,injured,%H and %D with %T... left calf strain in Q3,subbed,Subbed off in Q3 for Bateman
+280744,Luke,Breust,HW,4,35,62,35,31,45,2,9,2,2,0,0,1,0,0, Full Time,news,%O and %M on Josh Hunt,,
+220036,David,Hale,HW,2,25,29,20,25,29,2,2,1,0,13,1,1,0,1, Full Time,news,%H and %P on Taylor,,
+200040,Chance,Bateman,HW,2,24,12,16,18,24,4,1,2,1,0,0,0,0,0, Full Time,news,On in Q3 for Bailey,sub,Started as a sub

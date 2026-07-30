@@ -1,0 +1,48 @@
+Adelaide,Crows,Fremantle,Dockers,R10,8.11.59,10.6.66, Full Time
+Jun 01,2013,2.10,Footy Park,Seven,250321,10391003,adel-v-fre,0,Rain,18,,
+
+<em>jfitty</em>: Brown fap fap fap<br><em>tracygrims</em>: Laird ! so good with dixon out!<br><em>preki1</em>: laird fap fap fap<br><em>andyman268</em>: So much man love for Barlow right now. Moist.<br><em>old_shepp</em>: Sorry Mundy but you have just become my first bye trade<br><em>hardballge</em>: settle down there Andyman&#044; a bit too much man love info there<br><em>Dos95</em>: Crows have 10 more free kicks haha<br><em>Sewelly07</em>: sub 2 ppl off....<br><em>andyman268</em>: Barlow you spunky hunk&#044; junk time monkey! MY flowering man!<br><em>Dos95</em>: Freo have won lol<br><em>ballbag</em>: go laird- hehehe sweet little bonus there<br><em>phileb77</em>: just logged ffs have macaffer and laird on the bench this week<br>
+270963,Rory,Sloane,AD,20,112,134,144,83,115,19,11,3,5,0,3,0,0,1, Full Time,hot,%2 Danyle Pearce... %P and %M with %T,,,458000,115,521500,114,Centre,9
+240370,Richard,Douglas,AD,27,103,120,138,76,108,17,6,4,7,0,0,2,1,0, Full Time,hot,%P and %T with %M... also %s,,,477900,58,545300,60,Centre,26
+293222,Rory,Laird,AD,26,101,122,127,77,105,10,14,2,7,0,3,0,1,0, Full Time,hot,%D including %B with %M..  also %T and %s,job,Has Crozier,234600,25,213400,18,Back,46
+270811,Sam,Jacobs,AD,40,99,95,116,84,98,9,2,2,3,50,0,0,0,0, Full Time,news,%H and %P plus %M,,,337500,101,403800,107,Ruck,24
+270917,Patrick,Dangerfield,AD,22,98,125,119,83,103,15,6,4,1,6,3,1,3,1, Full Time,news,%O and %M plus %s,creepy,Tagged by Crowley,529100,140,614800,159,Centre,32
+210016,Scott,Thompson,AD,25,87,97,115,65,97,12,12,0,8,1,3,3,0,0, Full Time,news,%2 Mundy... %P and %T... %F as well,,,505400,107,541600,130,Centre,5
+261138,Jared,Petrenko,AD,45,82,91,110,56,75,6,5,2,10,0,2,0,1,0, Full Time,news,%s from %D on Clancee Pearce... also %T and %M,,,287700,65,331000,45,Forward,23
+293716,Jarryd,Lyons,AD,14,81,82,106,60,82,11,7,4,5,0,1,0,0,1, Full Time,news,%s from %P and %M,,,235100,15,233400,-3,Forward Centre,31
+261142,Bernie,Vince,AD,10,75,87,95,59,81,12,9,4,2,0,1,0,0,0, Full Time,news,%D and %T with %M,,,436500,95,431200,66,Centre,17
+291748,Brodie,Smith,AD,8,74,62,96,55,75,17,4,3,1,0,2,0,0,0, Full Time,news,%D with %k by foot... also %M,job,Manned up by Suban,306600,81,349500,90,Back,33
+230174,Jason,Porplyzia,AD,19,72,66,93,54,73,10,5,3,4,0,0,0,1,1, Full Time,sore,%O and %T... ran into Duffield in Q3 which left him winded,,,238700,64,260600,78,Forward,40
+250118,Nathan,van Berlo,AD,9,71,66,93,59,84,16,7,4,1,0,2,3,0,0, Full Time,news,%O and %M,,,370200,91,382400,76,Centre,7
+270296,Andy,Otten,AD,14,67,81,89,51,72,10,6,4,4,0,0,1,0,0, Full Time,news,Loose in defence... %P and %M... %T as well,,,308500,98,375500,102,Back,22
+293193,Luke,Brown,AD,8,65,86,83,51,72,10,9,2,3,0,2,1,0,0, Full Time,job,Minding Ballantyne... %D and %M,,,221100,58,226300,63,Back,16
+270938,Tom T.,Lynch,AD,9,58,51,77,51,65,11,2,8,0,0,1,2,0,2, Full Time,news,Kicked %s from %G and %D on McPharlin,,,433500,115,400100,92,Forward,27
+294828,Josh,Jenkins,AD,13,53,57,67,40,52,5,4,1,4,3,1,0,1,1, Full Time,news,Booted %s from %D on Dawson,,,352100,59,386500,48,Forward Ruck,4
+291806,Sam,Kerridge,AD,4,47,37,61,36,49,5,5,3,3,0,0,0,0,1, Full Time,news,%s from %P and %M on Ibbotson,,,312200,18,300800,17,Forward Centre,29
+220086,Brent,Reilly,AD,6,44,52,57,34,51,10,5,1,1,0,0,1,0,0, Full Time,tagged,Forward tagged by de Boer... donuts in Q1... %D,,,393200,127,489200,152,Back,3
+220093,Ben,Rutten,AD,3,38,43,49,31,40,5,3,4,1,1,0,0,0,0, Full Time,job,Standing the resting ruck which is mostly Hannath... %M and %O,,,263200,84,302000,86,Back,25
+280281,Brodie,Martin,AD,2,37,35,49,27,37,8,1,2,1,0,0,0,0,1, Full Time,in,Late replacement for Shaun McKernan... on in Q3 for Mackay,sub,Started as a sub,256300,,281400,,Back,36
+280934,Daniel,Talia,AD,2,31,38,41,23,36,4,5,0,3,0,0,1,0,0, Full Time,job,Following Mayne... %P,,,220700,7,292600,8,Back,12
+250362,David,Mackay,AD,7,27,26,37,19,27,2,3,0,4,0,2,1,0,0, Full Time,injured,Off early in Q1 with a knock to the left side but did return... %P and %T,subbed,Subbed off in Q3 for Martin,391200,86,423600,65,Centre,14
+292026,Michael,Barlow,FR,37,118,141,90,91,131,15,17,1,8,1,2,2,1,1, Full Time,star,%O and %T... also %s and %F,,,508900,53,522600,58,Centre,21
+230107,Michael,Johnson,FR,19,95,78,70,73,96,14,5,9,4,0,0,0,0,0, Full Time,news,Loose in defence... %O and %M,,,381300,37,429000,48,Back,37
+271015,Matthew,de Boer,FR,26,85,91,80,64,93,9,9,4,9,0,1,3,0,0, Full Time,tagger,Forward tag on Reilly... %D and %T,,,384000,24,379300,24,Forward Centre,9
+280386,Clancee,Pearce,FR,14,85,98,61,67,90,12,9,6,3,0,1,0,0,0, Full Time,news,%O and %M with %T,job,Responsible for Petrenko,416800,57,431700,94,Centre,46
+280336,Stephen,Hill,FR,10,84,110,53,67,92,13,11,4,2,1,1,0,0,1, Full Time,news,%O and %M,,,324400,67,394500,90,Centre,32
+290251,Zachary,Clarke,FR,31,84,112,88,69,83,3,6,1,6,29,1,0,1,0, Full Time,news,%H and %P,,,360300,33,395900,54,Ruck,30
+291570,Nathan,Fyfe,FR,16,84,108,52,68,96,14,9,4,3,0,0,2,1,0, Full Time,x-factor,Quiet early... %D and %s playing mostly forward... his role a kick behind the play in Q4 was crucial,,,488500,97,540300,87,Centre,7
+250063,Danyle,Pearce,FR,14,82,82,45,60,84,16,5,3,4,0,2,1,0,0, Full Time,news,%2 Sloane... %P and %M,,,347100,42,354900,55,Back Centre,6
+200045,Luke,McPharlin,FR,18,80,66,53,60,81,14,2,7,4,0,0,1,0,0, Full Time,job,Following Lynch... %P and %M,,,367400,72,378100,72,Back,18
+280416,Chris,Mayne,FR,20,78,74,67,62,81,8,8,5,4,0,1,0,1,0, Full Time,news,%P on Talia... also %T and %M,,,393600,73,431900,67,Forward,23
+270908,Nick,Suban,FR,25,76,80,56,57,79,11,4,1,6,0,1,2,2,1, Full Time,news,First goal... %P and %s... started forward on Smith,,,310500,94,324500,101,Back,8
+260069,Hayden,Ballantyne,FR,20,74,62,53,59,79,11,5,4,4,0,2,2,1,1, Full Time,news,%s from %P on Brown... also %T and %M... gave away %F as well,,,312500,36,346400,33,Forward,1
+240139,Paul,Duffield,FR,9,72,83,35,56,78,16,2,5,3,0,2,3,0,0, Full Time,news,%P and %M,,,466900,73,521600,95,Back,41
+240052,David,Mundy,FR,13,71,81,31,49,73,16,4,0,4,1,1,1,0,0, Full Time,news,%2 Thompson... %P and %T,,,458800,57,508800,72,Centre,16
+293651,Hayden,Crozier,FR,21,70,80,69,50,66,6,4,3,7,0,1,0,1,0, Full Time,news,%s from %D and %M on Laird,,,235200,16,282300,55,Forward,17
+250268,Garrick,Ibbotson,FR,12,69,79,38,54,72,13,4,6,1,0,0,0,0,0, Full Time,job,Manned up by Kerridge... %O and %M,,,449400,92,481000,96,Back,5
+240266,Lee,Spurr,FR,9,68,54,46,51,69,11,4,5,3,0,0,0,0,0, Full Time,news,%D and %M with %T,,,361700,44,392100,69,Back,34
+280726,Tendai,Mzungu,FR,14,64,67,30,50,73,14,3,2,3,1,0,3,1,0, Full Time,zimbabwe,%D with %k by foot... also %T and %s,,,326800,57,370100,73,Centre,13
+240552,Zac,Dawson,FR,3,37,36,32,33,46,4,5,3,2,4,0,2,0,0, Full Time,switch,Standing Jenkins.... %D and %M... switched forward in Q2,sore,Head bandaged in Q2 after a knock,169600,52,234600,68,Back,3
+290733,Cameron,Sutcliffe,FR,7,24,37,13,22,30,4,3,1,0,0,0,1,1,0, Full Time,in,Late replacement for Alex Silvagni... on after HT for Hannath,sub,Started as a sub,268200,25,264100,26,Centre,33
+230048,Ryan,Crowley,FR,2,20,15,11,15,27,5,1,0,3,0,0,3,0,0, Full Time,tagger,Tagging Dangerfield... %O and %T,,,257700,42,289800,38,Centre,15
+281105,Jack,Hannath,FR,0,10,11,9,7,10,1,1,0,1,1,0,0,0,0, Full Time,wall,Donuts in Q1... starting forward on Rutten... %D and %H,subbed,Subbed off at HT for Sutcliffe,172000,11,218300,31,Ruck,38

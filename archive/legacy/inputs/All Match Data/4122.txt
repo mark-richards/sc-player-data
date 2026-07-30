@@ -1,0 +1,48 @@
+St Kilda,Saints,Essendon,Bombers,R15,21.7.133,8.14.62, Full Time
+Jul 7,2012,7:40,Docklands,Seven,261323,10341505,430129,0,Roof closed,14,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>Slashers</em>: I'm implying you're a hero too&#044; so power off.<br><em>Nigey95</em>: lenny...3 off the ton :(<br><em>polar01</em>: 50 dt point qtr roo&#044; well done<br><em>Pokerface</em>: K-Red youll also find everyones score was scaling up due to q4 being meaningless<br><em>CamT</em>: Could Cox be Ruck/Forward in 2013 ?<br><em>PezzDogg95</em>: essendon finally get what they deserve<br><em>K-Red7</em>: Pokerface - Jobe wasnt even near the pill champ.. nice try but<br><em>daniel87</em>: Ffs Watson you bastard <br><em>ZacDawson</em>: @slashers are you flowered? i was implying you're a hero<br><em>Kangas2012</em>: GJayBee&#044; read the sc faqs and youll find it right there mate<br><em>JamJam</em>: watson...wrong captain choice - should have gone boyd!<br><em>GJayBee</em>: I brought Stanton at his highest price and have watched him being smashed by zorko<br>
+210001,Nick,Riewoldt,SK,38,135,117,171,114,142,17,7,11,4,0,2,2,4,1, Full Time,cherry,%s from %D on Hooker... also %M and %T,,
+220034,Jason,Gram,SK,26,109,83,142,85,108,14,6,9,5,0,2,0,1,0, Full Time,hot,%P and %T with %M,,
+220023,Nick,Dal Santo,SK,20,105,115,136,79,111,16,11,5,5,0,0,0,0,0, Full Time,hot,Tagged by Hocking... %D and %M with %T,,
+250036,Beau,Wilkes,SK,20,92,88,116,77,90,15,2,9,0,0,4,0,2,0, Full Time,news,Playing forward on Carlisle... %s from %O and %M,,
+261323,Ben,McEvoy,SK,21,91,108,117,75,93,8,4,8,5,18,0,1,0,0, Full Time,news,%H and %D with %T and %M,,
+230243,Sean,Dempster,SK,14,89,90,117,68,90,15,5,7,3,0,1,0,0,0, Full Time,news,%M and %P plus %T,job,Chasing Jetta
+261743,Clinton,Jones,SK,18,89,90,115,70,93,9,10,7,5,0,1,0,0,0, Full Time,news,%P and %T plus %M,,
+250340,David,Armitage,SK,20,85,83,116,70,97,15,5,8,4,0,1,4,0,1, Full Time,news,%O and %M plus %T and %s,tagger,Tagging Watson
+240708,Sam,Fisher,SK,14,84,88,109,70,93,14,7,9,1,0,0,1,0,0, Full Time,news,%P and %M,,
+990028,Lenny,Hayes,SK,14,83,95,106,65,93,10,13,3,5,0,1,1,0,0, Full Time,tagged,Tagged by Howlett... %D and %T,,
+220075,Leigh,Montagna,SK,15,82,100,107,64,87,12,8,5,4,0,2,1,0,0, Full Time,news,%2 Stanton... %P and %M with %T,,
+293815,Arryn,Siposs,SK,19,81,104,101,67,85,12,5,6,1,0,0,0,2,1, Full Time,news,%s from %P and %M,,
+200108,Stephen,Milne,SK,23,74,104,92,68,85,10,2,4,2,0,1,4,5,1, Full Time,star,%s from %P and %M on Hardingham in his 250th game... also %T,,
+280053,Tom,Simpkin,SK,12,74,78,94,61,81,11,8,7,1,0,0,0,0,0, Full Time,job,Has the resting ruck who is mostly Ryder... %P and %M,,
+294818,Ahmed,Saad,SK,19,71,62,90,55,73,10,5,1,4,0,2,1,2,1, Full Time,egypt,%D and %T,sore,Left knee soreness in Q1
+220098,Adam,Schneider,SK,23,69,71,90,56,75,5,6,4,6,0,0,2,2,0, Full Time,news,%s from %O and %M on Heppell... also %T,,
+260113,Jarryn,Geary,SK,10,59,78,77,45,60,6,6,4,4,0,1,0,0,0, Full Time,news,%O and %T,,
+210002,Justin,Koschitzke,SK,11,56,84,70,50,60,8,2,4,1,3,3,2,2,0, Full Time,sore,%s from %D and %M on Fletcher... corked hip in a collision with McEvoy in Q2,,
+250134,Sam,Gilbert,SK,11,55,64,73,43,57,10,1,4,2,0,0,1,1,0, Full Time,job,In defence on Reimers... %D and %T plus %s,,
+270912,Jack,Steven,SK,7,48,72,63,40,57,10,5,3,1,0,1,2,0,0, Full Time,news,%O,,
+250703,James,Gwilt,SK,2,33,50,42,25,36,8,3,1,0,0,0,0,0,0, Full Time,job,Standing Hurley... %D,subbed,Subbed off at 3QT for Ray
+240062,Farren,Ray,SK,1,20,13,26,17,21,3,1,3,0,0,0,0,0,0, Full Time,news,On after 3QT for Gwilt,sub,Started as a sub
+200026,David,Hille,ES,23,104,88,78,88,101,12,2,6,2,22,3,0,2,1, Full Time,hot,%H and %D... also %M and %s,,
+240245,Courtenay,Dempsey,ES,15,96,100,81,76,103,10,14,5,5,1,2,0,0,0, Full Time,news,%P and %M with %T,,
+240319,Sam,Lonergan,ES,21,86,80,69,65,90,11,9,4,6,0,2,1,0,0, Full Time,news,%P and %T with %M,,
+230231,Jobe,Watson,ES,10,82,93,51,65,87,13,10,4,2,0,3,0,0,0, Full Time,tagged,Tagged by Armitage... %D and %M,,
+250267,Patrick,Ryder,ES,21,80,79,73,75,88,5,6,6,1,34,0,1,0,0, Full Time,news,%P and %M on Simpkin... also %H,,
+250569,Heath,Hocking,ES,26,80,73,87,64,93,4,16,3,8,0,1,2,0,0, Full Time,tagger,Tagging Dal Santo... %O including %B,mrp,A high bump behind play on Hayes in Q3 will be looked at
+290629,Dyson,Heppell,ES,13,79,80,52,67,90,12,10,7,1,0,1,1,0,0, Full Time,job,Schneider is his man... %D,,
+260073,Ben,Howlett,ES,14,77,91,56,58,80,11,7,4,4,0,0,0,0,2, Full Time,news,%D and %s,tagger,Tagging Hayes
+280824,Jake,Melksham,ES,15,76,60,32,60,82,16,4,2,1,0,0,1,2,1, Full Time,news,%O and %s,,
+240027,Brent,Stanton,ES,9,74,89,38,59,84,15,7,3,3,0,3,3,0,0, Full Time,news,%2 Montagna.... %O and %M... also %F,,
+250352,Leroy,Jetta,ES,20,68,63,67,46,65,6,6,1,8,0,1,0,0,2, Full Time,news,%O and %T,,
+210079,Nathan,Lovett-Murray,ES,19,64,58,64,53,77,5,11,3,6,1,1,3,0,1, Full Time,news,%D and %T plus %s,,
+290641,Jake,Carlisle,ES,15,61,61,54,51,63,6,4,7,2,0,0,0,1,0, Full Time,news,First goal... %D and %M plus %s,job,Standing Wilkes
+230051,Alwyn,Davey,ES,20,55,57,63,41,54,2,6,2,6,0,1,0,1,0, Full Time,news,%s from %D and %T,,
+261324,Kyle,Reimers,ES,11,54,60,41,45,60,7,5,4,2,0,0,1,1,0, Full Time,injured,%s from %D and %M on Gilbert... ran his head into Simpkin in Q3 which left him with concussion and blurred vision in left eye,,
+290160,Michael,Hibberd,ES,3,45,50,23,36,48,9,3,3,1,0,2,1,0,0, Full Time,news,%D and %M,,
+270584,Kyle,Hardingham,ES,7,44,53,34,36,45,6,2,6,1,0,0,0,0,0, Full Time,job,Chasing Milne... %M and %D,,
+261314,David,Myers,ES,3,40,52,21,34,48,8,4,3,1,0,1,2,0,0, Full Time,news,%P and %M,,
+960197,Dustin,Fletcher,ES,3,38,80,5,32,48,12,1,3,0,0,0,3,0,0, Full Time,job,Responsible for Koschitzke... %K among %P with %M,,
+270588,Cale,Hooker,ES,3,37,46,21,34,49,7,5,3,1,0,1,3,0,1, Full Time,job,Following Riewoldt... %D and %s,,
+270935,Michael,Hurley,ES,8,35,45,25,31,40,4,5,2,0,1,0,0,1,0, Full Time,injured,Booted %s from %G and %O on Gwilt... carrying a right hamstring issue,subbed,Subbed off in Q3 for Dyson
+230060,Ricky,Dyson,ES,1,20,7,14,17,21,3,1,3,0,0,0,0,0,0, Full Time,news,On in Q3 for Hurley,sub,Started as a sub

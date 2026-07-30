@@ -1,0 +1,48 @@
+Fremantle,Dockers,North Melbourne,Kangaroos,R13,10.7.67,4.5.29, Full Time
+Jun 23,2013,3.15,Subiaco,Seven,292026,10391305,fre-v-nmfc,0,Storms and heavy showers,19,,
+
+<em>Trouta</em>: m<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Juddsuperb</em>: had 10 on barlow for most dream team points. wow just snuck home<br><em>PieBoy</em>: stay true to yourself mathius<br><em>matthius</em>: rooboystu - f u keyboard warrior<br><em>PieBoy</em>: onya roos&#044; had freo under 39<br><em>bigpens</em>: Omgz hill sc a joke<br><em>1pistol7</em>: stick that up ya roos - whinging tossers<br><em>RooBoyStu</em>: matthius you're a flog<br><em>Save-Lo</em>: "swallow fighting till the bitter end" - cometti dont think you can knock his effort today<br><em>Rrgj</em>: gj<br><em>jmate</em>: fyfe star<br><em>Stuart88</em>: Saege thanks i haven't seen the game so didnt know how he was playing hope he keeps his spot seems good<br>
+292026,Michael,Barlow,FR,32,124,151,158,93,130,17,14,3,7,1,1,0,1,0, Full Time,star,First goal... tagged by Firrito in Q1 when he drifted forward... freed up in Q2... %O and %T plus %M and %s,injured,Whack to the jaw in Q4 had him off the ground for a long time,547700,128,579600,102,Centre,21,11,108.7,112,13.31,8.35
+271015,Matthew,de Boer,FR,50,112,122,147,80,109,10,10,3,11,0,2,0,1,1, Full Time,hot,Playing forward on Wright... %s from %P and %M with %T,,,404200,119,400400,110,Forward Centre,9,11,76.1,71.5,1.61,1.33
+291570,Nathan,Fyfe,FR,25,112,131,147,90,124,22,6,7,3,3,0,3,1,1, Full Time,gun,Tagged by Greenwood... %P and %M plus %T and %s,,,458500,141,537600,147,Centre,7,9,95.8,108,12.87,17.11
+230107,Michael,Johnson,FR,25,109,103,142,87,109,20,2,11,1,0,1,0,1,1, Full Time,seagull,Loose in defence as usual... %O and %M plus %s,,,422900,77,448300,85,Back,37,11,79.2,82.9,1.68,1.06
+290251,Zachary,Clarke,FR,30,106,113,131,89,109,11,6,6,4,28,2,1,0,0, Full Time,hot,%H and %P with %T and %M,,,380800,94,434800,64,Ruck,30,4,88.5,97.5,6.22,2.31
+250268,Garrick,Ibbotson,FR,24,103,98,131,87,114,16,11,10,1,0,2,1,0,0, Full Time,hot,%P and %M,,,452000,108,488500,86,Back,5,7,102.9,104.1,10.32,3.50
+200045,Luke,McPharlin,FR,20,102,85,131,88,113,16,8,13,0,2,0,1,0,0, Full Time,garbage,Half of his fantasy score in Q4 junk time... %D and %M,job,Standing Petrie,373800,75,373000,76,Back,18,10,74,72.1,1.89,1.08
+280416,Chris,Mayne,FR,26,75,85,97,63,87,6,11,4,6,0,2,3,1,0, Full Time,news,%s from %P and %M on Thompson... %T and %F as well,,,401100,100,446200,107,Forward,23,11,82.9,88.6,3.81,2.50
+240266,Lee,Spurr,FR,9,72,73,93,58,81,10,9,5,3,0,0,1,0,0, Full Time,garbage,Plenty of Q4 garbage time stats... %P and %T,job,Minding Thomas,374000,108,375400,106,Back,34,11,73.1,75.2,0.86,0.66
+270908,Nick,Suban,FR,15,71,64,91,54,72,9,5,1,5,0,2,1,2,0, Full Time,job,Responsible for Adams... %P and %T plus %s,,,293300,58,303100,55,Back,8,11,65.1,66,5.70,5.56
+240139,Paul,Duffield,FR,9,70,79,90,54,75,12,7,4,2,0,0,0,0,0, Full Time,news,%D and %T with %M,,,445100,155,490900,149,Back,41,10,87.7,93.8,4.89,6.49
+281007,Michael,Walters,FR,21,67,68,89,50,69,7,5,3,6,0,0,1,1,0, Full Time,news,Mullett on him... %O and %T with %M,,,404300,97,455200,115,Forward,10,8,85.4,89.6,1.66,0.79
+250063,Danyle,Pearce,FR,18,66,65,88,44,64,10,5,0,6,0,1,0,0,1, Full Time,news,%D and %T plus %s,,,374600,70,384400,49,Back Centre,6,11,79.3,79.5,11.45,6.20
+280726,Tendai,Mzungu,FR,8,61,56,79,50,70,9,8,3,3,1,2,2,0,0, Full Time,zimbabwe,%2 Anthony on a wing... %O and %M... also %T and %F,,,366900,68,392700,84,Centre,13,11,72.8,74.1,1.30,0.74
+280386,Clancee,Pearce,FR,5,58,56,77,43,58,9,3,4,3,1,0,0,0,0, Full Time,tagger,Tagging Wells... %D and %T with %M,,,437900,102,443200,69,Centre,46,11,83.8,86.1,0.57,0.43
+280336,Stephen,Hill,FR,7,51,101,64,40,61,7,10,0,3,1,0,1,0,0, Full Time,tagged,Tagged by Hine... %O and %T,sore,Left shoulder stinger in Q4,339400,71,413300,65,Centre,32,7,71.4,84.9,1.89,0.87
+260069,Hayden,Ballantyne,FR,4,47,45,62,36,48,7,4,2,3,0,3,1,0,0, Full Time,news,%D and %T with %M on Atley,,,339000,83,360200,102,Forward,1,10,65.1,68.2,1.53,1.19
+293854,Matthew,Taberner,FR,13,42,39,57,30,45,2,6,1,6,0,0,1,0,0, Full Time,rookie,First game... %P and %T on Grima,,,107300,,114200,,Forward,42,0,0,0,0.20,0.19
+293651,Hayden,Crozier,FR,9,39,31,50,32,39,7,0,4,0,0,0,0,1,0, Full Time,in,Late replacement for David Mundy... on after 3QT for Hannath,sub,Started as a sub,261800,71,288000,78,Forward,17,6,59.7,65.5,3.13,3.19
+281105,Jack,Hannath,FR,9,38,53,50,30,38,4,1,2,3,2,1,1,1,0, Full Time,news,%s from %P and %M when forward on Hansen... also %H and %T,subbed,Subbed off at 3QT for Crozier,177700,53,212800,64,Ruck,38,7,40.6,51.1,6.54,6.54
+230048,Ryan,Crowley,FR,3,35,39,44,35,52,6,8,3,0,0,0,3,0,1, Full Time,tagger,Tagging Harvey... %O... %F as well,,,252700,65,273500,81,Centre,15,11,49.7,52.7,1.33,1.45
+240552,Zac,Dawson,FR,3,30,61,37,25,33,1,6,2,2,0,1,0,0,0, Full Time,job,Following Black... %O and %T,,,167400,41,216900,49,Back,3,11,31.5,42.5,3.46,1.64
+240417,Andrew,Swallow,NM,33,129,118,83,95,136,22,11,4,8,0,2,2,0,1, Full Time,atlas,%D and %M with %T and %s,,,459200,117,530700,138,Centre,9,11,100.8,107.6,13.39,8.05
+280863,Ryan,Bastinac,NM,24,108,121,78,85,117,15,13,7,4,0,0,0,0,0, Full Time,hot,%O and %M with %T,,,378300,104,406000,79,Centre,3,11,79.1,81.5,0.89,1.31
+250373,Lachlan,Hansen,NM,24,97,94,85,78,102,11,7,11,5,0,0,1,0,0, Full Time,news,%M and %P with %T,job,Takes the resting ruck which is mostly Hannath,314700,81,326500,96,Forward,6,9,60.6,58.9,0.54,0.50
+270861,Levi,Greenwood,NM,26,92,101,84,67,96,9,12,3,8,0,0,0,0,0, Full Time,tagger,Tagging Fyfe... %D and %M with %T,,,254500,,244000,,Centre,24,0,0,0,0.25,0.42
+290194,Jamie,MacMillan,NM,16,87,-,57,70,90,13,8,5,2,0,3,0,1,0, Full Time,news,%P and %M plus %s,,,328300,113,352800,118,Centre,34,11,68.1,68.6,0.82,0.72
+271129,Todd,Goldstein,NM,33,86,104,86,79,91,3,6,3,3,46,1,1,0,0, Full Time,news,Threatened the hit out record at times in this game... %H and %D with %M and %T,,,435300,68,557300,107,Ruck,22,11,92.4,113.9,14.16,11.70
+240131,Nathan,Grima,NM,14,81,108,63,62,87,11,8,5,5,0,0,1,0,0, Full Time,news,%P and %T with %M,job,On the first gamer Taberner,276000,14,333900,19,Back,17,10,59,69.4,0.76,0.61
+250557,Sam,Gibson,NM,10,81,78,67,67,93,8,16,4,3,0,1,0,0,0, Full Time,news,%P and %T with %M,,,409000,108,386900,63,Centre,43,11,84.9,74.7,0.41,0.40
+230232,Daniel,Wells,NM,19,76,69,63,54,76,10,5,3,7,0,1,1,0,1, Full Time,tagged,Tagged by Clancee Pearce... %P and %T plus %M and %s,,,383700,66,463800,92,Centre,8,11,80.9,96.8,0.89,0.93
+210023,Drew,Petrie,NM,10,67,65,55,49,63,8,4,2,5,6,3,0,0,0, Full Time,news,%P and %T on McPharlin... also %H,,,430000,74,567900,91,Forward,20,11,82.1,100.5,3.72,4.31
+230272,Michael,Firrito,NM,9,63,50,44,47,63,10,4,3,4,0,3,1,0,0, Full Time,news,%P and %T with %M,tagger,Loose in defence... drifted up to tag Barlow in Q1 but not so much after that,271200,64,292800,71,Back,11,11,60.7,63.2,1.16,1.04
+291445,Aaron,Mullett,NM,14,63,71,29,52,69,13,3,5,0,0,0,1,1,0, Full Time,job,Walters is his man... %O and %M plus %s,,,359100,46,379700,20,Centre,41,11,78.5,82.5,3.93,3.54
+290787,Shaun,Atley,NM,9,59,79,28,53,75,12,8,5,0,0,1,3,0,0, Full Time,job,Responsible for Ballantyne... %O and %M... %F as well,,,305900,62,354900,67,Back,18,11,62.5,70.4,2.67,5.10
+960491,Brent,Harvey,NM,15,58,59,53,51,63,5,6,6,2,0,2,1,1,0, Full Time,creepy,Tagged by Crowley... %D and %M plus %s,,,443800,120,515700,108,Forward Centre,29,5,90.2,106.8,3.39,6.00
+260545,Liam,Anthony,NM,9,54,54,50,41,57,5,7,3,4,0,0,0,0,0, Full Time,news,%2 Mzungu on a wing... %B among %D with %T and %M,,,393900,178,370400,171,Centre,4,4,46.5,42,0.14,0.15
+281395,Scott D.,Thompson,NM,13,54,66,40,44,66,8,8,2,4,0,1,3,0,0, Full Time,job,Following Mayne... %O and %T... also %F,,,366700,49,471000,65,Back,16,11,78.5,97.4,1.94,2.81
+291963,Brad,McKenzie,NM,4,54,26,31,42,54,10,2,5,1,0,1,0,0,0, Full Time,in,Late replacement for Ben Cunnington... on in Q3 for Thomas... %P and %M,sub,Started as a sub,108500,,115900,,Centre,2,0,0,0,0.73,0.37
+290538,Taylor,Hine,NM,14,52,55,46,34,51,6,5,0,6,0,0,0,0,0, Full Time,tagger,Tagging Hill... %D and %T,,,178900,76,185500,73,Back,26,6,37.5,35.3,0.17,0.20
+291672,Aaron,Black,NM,11,52,65,47,45,60,5,6,4,3,0,1,2,1,0, Full Time,news,%D and %M with %T on Dawson,,,332900,39,403000,58,Forward,35,7,77.1,90.1,4.77,7.72
+250285,Leigh,Adams,NM,10,50,48,41,39,54,7,3,4,4,0,1,2,0,0, Full Time,news,%O and %M on Suban.... %T and %F as well,,,309900,47,362800,67,Forward Centre,13,11,63.7,72.5,1.16,1.13
+280864,Sam,Wright,NM,3,33,32,26,27,40,4,6,1,2,0,0,1,0,1, Full Time,job,In defence on de Boer... %D and %T plus %s,,,200400,26,266400,27,Back,19,10,40.8,50.6,0.42,0.52
+261909,Lindsay,Thomas,NM,2,24,20,24,18,24,2,2,2,2,0,0,0,0,0, Full Time,cold,No score from %O and %T with %M on Spurr,subbed,Subbed off in Q3 for McKenzie,315100,68,386900,99,Forward,12,11,68.2,75.5,1.46,1.67

@@ -1,0 +1,48 @@
+Western Sydney,Giants,Essendon,Bombers,R17,11.11.77,18.8.116, Full Time
+Jul 20,2013,7.40,Showgrounds,Seven,290629,10391705,gws-v-ess,0,Mostly sunny,20,,
+
+<em style='color:#000'>AngryRyno</em>: great job greene<br><em style='color:#000'>lift_spud</em>: Hibb got 14 possies in the last. Lol<br><em style='color:#000'>Ewoks</em>: get some junk stanton dammit<br><em style='color:#000'>Hawkey86</em>: i needed 6 points more...<br><em style='color:#000'>Arch</em>: how long to go?<br><em style='color:#000'>masterhc2</em>: hahah you beauty heppell and hibberd. turned it around last quarter and abit<br><em style='color:#000'>matthius</em>: pathetic Ryder. no other words.<br><em style='color:#000'>scaledup</em>: flower off you time wasting drugies<br><em style='color:#000'>lift_spud</em>: Binmaster Hibberd gogogo<br><em style='color:#000'>masterhc2</em>: blue moon surely for dell'olio<br><em style='color:#000'>Ferog</em>: Heppell for bin.<br><em style='color:#000'>scaledup</em>: just get a point bombers please<br>
+291819,Adam,Tomlinson,WS,26,110,95,140,89,114,13,10,9,4,0,2,0,1,0, Full Time,hot,%s from %O and %M on Hooker... also %T,,,352200,89,327200,77,Forward,20,10,70.7,64.2,0.45,0.25
+295344,Toby,Greene,WS,20,100,83,128,78,109,16,12,4,4,0,2,1,0,1, Full Time,hot,%D with %k by foot... also %M and %T,,,392400,51,377200,68,Centre,4,12,76.8,71.3,0.75,0.71
+261841,Jonathan,Giles,WS,28,90,100,103,82,93,8,2,3,1,27,1,1,4,0, Full Time,garbage,%H and %P plus %M and %s... scored heavily in Q4 garbage time,,,341200,88,379000,103,Ruck,26,15,68.5,75.2,2.37,3.11
+293845,Jeremy,Cameron,WS,18,85,102,106,75,92,10,3,5,3,0,2,3,4,5, Full Time,news,%s from %P and %M on Carlisle... also %T,,,334800,80,376800,54,Forward,18,14,66.9,70.7,2.35,2.41
+291776,Taylor,Adams,WS,14,83,84,104,69,99,14,14,3,2,0,2,2,0,0, Full Time,news,%B among %O with %M and %T,,,368800,107,371400,120,Centre,11,10,80,72.1,0.19,0.15
+280109,Callan,Ward,WS,14,81,89,104,62,86,9,10,4,5,2,0,0,0,0, Full Time,tagged,Tagged by O'Brien... %P and %T with %M... also %H,,,391900,89,419700,101,Centre,8,15,90.5,93.2,0.69,0.68
+261189,Tim,Mohr,WS,10,78,109,103,59,84,15,6,4,3,0,0,1,0,0, Full Time,news,%M and %D... also %T,job,On Hurley,245800,45,306200,27,Back,39,15,57.7,70.9,0.78,0.88
+291783,Dylan,Shiel,WS,13,77,98,92,62,92,11,17,0,2,1,0,0,0,1, Full Time,news,%P and %T plus %s,tagger,Tagging Goddard,351300,41,367200,35,Centre,5,15,71.7,75.5,0.77,0.86
+291790,Adam,Treloar,WS,15,72,66,91,59,78,9,8,4,3,0,2,1,1,0, Full Time,news,%2 Colyer on a wing... %O and %M with %T and %s,,,444700,108,462800,92,Centre,17,14,91.3,89.7,0.53,0.57
+293816,Mark,Whiley,WS,38,72,61,106,45,69,9,1,1,12,0,1,3,0,0, Full Time,tagger,Tagging Heppell... %P and %T... also %F,,,171900,,173000,,Back,42,1,29,17,0.34,0.30
+291492,Josh,Bruce,WS,10,68,60,92,49,66,11,2,5,4,0,0,0,0,0, Full Time,job,Has Crameri... %P and %M plus %T,in,Late replacement for Stephen Gilham,218400,32,257300,33,Back Forward,47,7,45,50.7,0.37,0.54
+295265,Nick,Haynes,WS,5,65,88,88,47,63,12,1,5,3,0,0,0,0,0, Full Time,news,%O and %M with %T,job,Minding Kommer,253800,12,301300,-3,Forward Centre,19,5,54.8,67,1.05,1.85
+294685,Zac,Williams,WS,12,63,85,79,48,69,7,11,1,4,0,1,0,0,0, Full Time,news,%O and %T,,,131400,12,118400,16,Back Centre,51,5,35,28.8,4.65,4.20
+291771,Devon,Smith,WS,10,61,54,84,46,66,9,4,4,5,0,0,2,0,0, Full Time,news,%D and %M on Hibberd... %T and %F as well,,,328100,48,331400,11,Forward Centre,10,14,71.9,68.4,1.27,1.57
+290306,Curtly,Hampton,WS,8,60,78,73,50,69,4,13,3,3,0,1,0,0,0, Full Time,job,Has Dell'Olio... %B among %D with %T and %M,,,270100,64,308200,53,Back Forward,2,11,55.8,56.7,1.05,1.02
+291802,Tomas,Bugg,WS,13,60,69,79,45,63,9,6,2,4,0,2,1,0,0, Full Time,sore,%P and %M... already strapped left knee got twisted under him in Q3... %T as well,tagger,Tagging Stanton,236200,94,253800,93,Back,14,8,49.5,53,0.80,0.98
+294305,Lachlan,Whitfield,WS,14,58,45,72,53,66,7,6,7,0,0,1,1,1,0, Full Time,news,Starting forward on Baguley... %s from %O and %M,,,340200,37,350900,8,Centre,6,14,69.2,72.4,9.28,8.44
+290765,Sam,Darley,WS,8,56,73,72,44,63,8,8,2,3,0,1,1,0,0, Full Time,news,%D and %T plus %M,job,Jetta is his man,286200,,291900,,Back,13,1,77,79,0.14,0.13
+200111,Dean,Brogan,WS,9,51,78,61,52,67,5,7,3,1,19,2,4,0,0, Full Time,news,%H and %D with %M and %F,,,281800,89,385100,106,Ruck,50,5,56.8,83.8,0.50,0.61
+280804,Phil,Davis,WS,4,45,45,57,40,52,5,6,5,1,0,1,1,0,1, Full Time,switch,Standing Ryder... %D and %M... switched forward in Q4 for %s,,,288800,84,356700,99,Back,1,6,55.7,64.7,0.40,0.48
+291720,Will,Hoskin-Elliott,WS,1,32,20,41,24,34,6,3,1,1,0,0,0,0,1, Full Time,in,Late replacement for Tom Scully... on in Q3 for,sub,Started as a sub,267700,79,278600,81,Forward Centre,33,7,54.7,51.4,0.73,0.86
+291928,Gerald,Ugle,WS,3,29,27,40,24,36,5,3,2,2,0,0,2,0,0, Full Time,news,%O and %T with %M on Dempsey,,,137000,,123100,,Back,32,1,47,46,0.81,1.21
+290629,Dyson,Heppell,ES,21,102,81,71,76,102,16,7,5,6,0,4,1,0,0, Full Time,garbage,Tagged by Whiley... %P and %M plus %T.. most of his points in late garbage time,,,473100,99,465300,112,Back Centre,21,14,100.8,96.4,42.33,30.23
+280413,Cory,Dell'Olio,ES,31,101,113,88,72,97,11,8,2,9,0,3,0,1,1, Full Time,hot,%s from %D with %M and %T on Hampton,,,222200,,208000,,Forward,47,0,0,0,0.25,0.42
+261314,David,Myers,ES,25,100,100,68,78,108,16,7,6,5,0,0,2,1,0, Full Time,garbage,%D and %T with %M... also %s and %F... huge Q4 when it was all over,,,333900,24,336300,72,Back,23,15,76.2,73.7,2.03,1.11
+280824,Jake,Melksham,ES,16,90,113,55,72,96,14,9,3,2,0,1,0,2,0, Full Time,news,%D and %M plus %T and %s,sore,Hurley ran into him in Q1 which left him sore and sorry,373800,62,355100,84,Centre,17,14,73.4,69.1,0.88,1.10
+290160,Michael,Hibberd,ES,18,90,85,57,78,108,14,14,7,1,0,1,2,0,0, Full Time,garbage,%P and %M... massive stats in Q4 garbage time,job,Running off Smith,376600,91,444700,108,Back,1,15,87,96.1,10.22,10.53
+280988,Travis,Colyer,ES,21,88,112,56,73,90,13,3,5,1,0,0,0,4,0, Full Time,star,%2 Treloar on a wing... %O and %M plus %s,,,234900,35,260500,15,Centre,32,4,47,56.8,0.25,0.28
+230084,Brendon,Goddard,ES,24,83,69,67,69,93,10,9,6,4,0,1,2,1,0, Full Time,tagged,Tagged by Shiel... %P and %M with %T and %F,,,505400,123,521400,91,Back Centre,9,15,104.9,105.1,60.50,64.00
+270588,Cale,Hooker,ES,20,81,95,63,71,93,10,9,8,2,0,1,2,1,0, Full Time,news,%D and %M... %T and %F as well... plus a rare %s,job,Has Tomlinson,363800,33,398800,40,Back,26,15,72.6,79.4,1.02,0.64
+240027,Brent,Stanton,ES,14,80,93,41,64,87,14,9,1,1,0,1,0,2,0, Full Time,news,%P and %s,bugg,Tagged by Bugg,496100,86,485100,93,Centre,5,14,108.8,99.8,8.76,2.29
+294798,Mark,Baguley,ES,10,71,80,64,61,84,6,14,5,3,0,1,1,0,0, Full Time,news,%O and %M with %T,job,Minding Whitfield,320700,55,349600,70,Back,46,14,64.5,66.6,1.16,0.76
+250352,Leroy,Jetta,ES,19,70,62,55,53,73,9,6,2,5,0,1,1,1,1, Full Time,news,%O and %T on Darley,,,310100,90,345400,104,Forward,7,3,54.7,57,0.47,0.51
+261320,Tom,Bellchambers,ES,20,60,64,53,54,62,4,3,1,2,25,2,1,1,1, Full Time,news,%H and %P... also %s,,,345500,74,369100,9,Ruck,2,13,77.8,83.9,2.32,2.80
+291812,Nicholas,O'Brien,ES,13,60,60,46,47,66,7,9,1,3,0,0,0,1,0, Full Time,bubble,Second game... %D and %T plus %s,tagger,Tagging Ward,165900,,204100,,Forward,10,1,35,32,0.51,0.35
+240245,Courtenay,Dempsey,ES,13,59,51,48,44,63,7,8,2,4,0,0,0,0,0, Full Time,job,Responsible for Ugle... %O and %T,,,399300,53,407300,63,Back,15,11,87.4,87.2,1.78,1.61
+250267,Patrick,Ryder,ES,9,59,68,48,51,64,6,3,1,3,24,1,2,0,1, Full Time,news,%s from %D on Davis... also %H and %T,,,428100,79,483600,98,Forward Ruck,30,11,85.9,94.9,5.27,6.15
+270935,Michael,Hurley,ES,10,57,100,39,50,63,7,7,3,0,0,1,0,2,0, Full Time,news,%s from %D and %G on Mohr,,,239200,22,307600,24,Forward,18,12,56,66.3,1.97,2.55
+960197,Dustin,Fletcher,ES,8,57,65,24,46,66,13,4,4,1,0,0,2,0,0, Full Time,news,%D with %k by foot... also %M,job,Takes the resting ruck which is mostly Brogan,306900,36,356000,47,Back,31,10,63.3,69.3,1.36,1.16
+290641,Jake,Carlisle,ES,5,55,75,44,42,54,7,4,4,3,0,2,0,0,0, Full Time,news,%P and %T with %M,job,Following Cameron,370500,84,424900,131,Back,22,14,75.6,83.8,3.08,2.89
+291686,Nick,Kommer,ES,19,50,59,53,38,54,4,4,1,7,0,2,3,1,0, Full Time,news,First goal... %s from %P and %T on Haynes,,,245100,68,252600,65,Centre,38,13,53.2,55.3,6.33,7.14
+292503,Stewart,Crameri,ES,8,50,78,55,38,54,2,10,1,5,0,1,0,0,0, Full Time,news,%P and %T on Bruce,subbed,Subbed off in Q3 for Lovett-Murray,347100,75,376500,78,Forward,12,12,69.2,76.9,0.95,0.94
+295285,Jackson,Merrett,ES,8,38,53,44,31,45,1,9,1,4,0,1,1,0,0, Full Time,news,%P and %T,,,195100,62,191200,52,Centre,20,10,49.1,47,1.89,1.33
+210079,Nathan,Lovett-Murray,ES,3,35,17,29,27,37,4,4,2,2,1,0,0,0,0, Full Time,news,On in Q3 for Crameri... %P and %T with %M,sub,Started as a sub,290300,,299900,,Centre,42,1,23,21,0.73,0.60

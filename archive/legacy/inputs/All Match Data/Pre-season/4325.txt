@@ -1,0 +1,52 @@
+Port Adelaide,Power,Melbourne,Demons,W2,1.10.7.76,0.12.6.78, Full Time
+Mar 03,2013,4.00,Renmark,Seven,,10380207,,0,Sunny,31,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>ReggieOz1</em>: Colquhoun could be a good pick<br><em>lloydy28</em>: Reggieoz has no clue!<br><em>thebigshot</em>: reggie ta... that bad? really? how about Colquhoun<br><em>Jimbo boy</em>: How has Sylvia looked ?<br><em>ReggieOz1</em>: hey if you want him in your side go for it<br><em>ShyOne</em>: Kane Mitchell may disagree with you Reggie<br><em>ReggieOz1</em>: Wines and Terlich best out of this lot<br><em>ReggieOz1</em>: don't pick 'em<br><em>thebigshot</em>: any thoughts on the backs rookies for port? gents?<br><em>Phantom777</em>: @Clokey32 looks alright stadiumsport.com.. $100&#044;000 to win is huge!!<br><em>Phantom777</em>: @TheKey surely your joking!!<br><em>dmagnus</em>: congrats to Sellar for his first tonne eva<br>
+270606,Kane,Mitchell,PA,19,100,90,126,81,110,13,13,7,3,0,0,0,0,2, Full Time,,,,
+261892,Hamish,Hartlett,PA,21,98,134,125,79,105,17,6,6,2,0,0,1,2,0, Full Time,,,,
+295054,Sam,Colquhoun,PA,19,78,100,100,66,90,10,9,6,3,0,0,2,1,0, Full Time,,,,
+294318,Oliver,Wines,PA,9,76,94,94,61,78,11,10,3,2,0,6,0,0,0, Full Time,,,,
+270779,Paul,Stewart,PA,12,75,65,96,61,78,12,6,7,1,0,2,0,0,0, Full Time,,,,
+290546,Aaron,Young,PA,14,74,111,92,58,74,10,7,2,3,0,4,0,1,2, Full Time,,,,
+280379,Lewis,Stevenson,PA,9,64,75,80,52,75,8,12,2,3,0,1,1,0,0, Full Time,,,,
+290171,Campbell,Heath,PA,13,63,71,83,51,69,10,5,6,2,0,0,1,0,0, Full Time,,,,
+260201,Daniel,Stewart,PA,19,62,83,74,56,64,6,3,6,0,1,1,0,3,0, Full Time,,,,
+290277,Jarrad,Redden,PA,13,60,85,68,59,77,3,13,3,1,16,1,2,0,1, Full Time,,,,
+280750,Andrew,Moore,PA,8,57,52,75,40,58,7,6,1,5,1,0,0,0,0, Full Time,,,,
+291962,Chad,Wingard,PA,10,54,51,69,46,63,8,6,3,2,0,1,2,1,0, Full Time,,,,
+294604,Jake,Neade,PA,14,53,49,71,40,52,7,1,3,4,0,1,1,1,1, Full Time,news,%s from %D and %T,,
+271078,Matthew,Broadbent,PA,4,47,62,63,35,45,8,1,4,2,0,1,0,0,0, Full Time,news,On in Q3 for Shaw,sub,Started as a sub
+261230,Matthew,Lobbe,PA,10,45,77,57,35,43,2,3,2,4,10,1,0,0,0, Full Time,news,On in Q3 for Newton,sub,Started as a sub
+280013,Jackson,Trengove,PA,7,44,52,55,38,54,8,7,3,0,0,0,1,0,0, Full Time,,,,
+290001,Nathan,Blee,PA,4,41,73,51,36,51,3,9,3,2,0,0,1,0,0, Full Time,,,,
+291607,Ben,Newton,PA,9,35,29,45,31,39,6,1,4,0,0,0,1,1,0, Full Time,news,%s from %P and %M,subbed,Subbed off in Q3 for Lobbe
+290540,Cameron,O'Shea,PA,3,33,33,43,29,37,6,2,4,0,0,1,1,0,1, Full Time,,,,
+240385,Matt,Thomas,PA,2,32,34,41,26,36,2,6,1,3,0,2,1,0,0, Full Time,,,subbed,Subbed off in Q4 for Pfeiffer
+292145,Thomas,Jonas,PA,3,30,45,37,28,39,4,6,3,0,0,0,1,0,0, Full Time,,,,
+260511,Darren,Pfeiffer,PA,2,26,28,34,19,27,3,3,1,2,0,0,0,0,0, Full Time,news,On in Q4 for Thomas,sub,Started as a sub
+294504,Tom,Clurey,PA,0,14,19,18,11,15,1,2,1,1,0,0,0,0,0, Full Time,,,,
+294644,Mason,Shaw,PA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,donut,Nothing on the stat sheet,subbed,Subbed off in Q3 for Broadbent
+250418,James,Sellar,ME,31,101,133,82,87,103,10,5,7,2,0,1,0,5,1, Full Time,,,,
+260176,James,Magner,ME,20,98,101,64,71,102,17,7,3,7,0,2,2,0,0, Full Time,,,,
+281280,Neville,Jetta,ME,14,81,102,70,63,84,8,12,3,5,0,4,0,0,0, Full Time,,,,
+280579,Luke,Tapscott,ME,27,74,81,75,52,69,6,4,3,8,0,1,0,1,0, Full Time,,,,
+290795,Troy,Davis,ME,8,59,66,35,47,63,10,6,4,1,0,1,0,0,0, Full Time,,,,
+270241,Dean,Terlich,ME,13,58,75,43,45,69,9,7,2,5,0,0,3,0,0, Full Time,,,,
+294570,Dean,Kent,ME,11,56,64,36,45,58,9,1,3,2,0,0,1,2,1, Full Time,,,,
+294741,Michael,Evans,ME,10,55,58,38,43,57,8,4,3,2,0,0,0,1,0, Full Time,,,,
+200002,Aaron,Davey,ME,15,54,73,38,45,57,7,3,1,2,0,1,1,3,0, Full Time,,,,
+270937,James,Strauss,ME,9,54,115,58,41,57,3,8,3,5,0,0,0,0,0, Full Time,,,,
+230130,Joel,MacDonald,ME,8,53,-,35,49,72,8,11,4,1,0,0,3,0,0, Full Time,,,,
+240037,Colin,Sylvia,ME,4,47,35,25,37,57,10,4,2,3,0,0,3,0,0, Full Time,,,,
+280125,Tom,Gillies,ME,4,44,51,30,38,51,6,7,4,0,0,0,0,0,0, Full Time,,,,
+296027,Matt,Jones,ME,7,43,61,26,37,57,8,7,1,3,0,2,4,0,0, Full Time,,,,
+270174,Tom,Couch,ME,3,42,56,29,32,45,6,5,1,2,0,0,0,0,3, Full Time,,,,
+293877,Josh,Tynan,ME,3,37,24,27,32,45,5,6,3,1,0,0,1,0,0, Full Time,,,subbed,Subbed off in Q4 for Nicholson
+280521,Jake,Spencer,ME,8,31,41,32,32,38,1,2,2,1,20,0,2,0,0, Full Time,,,,
+291808,Rory,Taggert,ME,2,27,32,20,24,33,3,6,2,0,0,0,0,0,0, Full Time,,,,
+294874,Daniel,Nicholson,ME,3,27,47,29,23,30,2,2,4,2,0,0,1,0,0, Full Time,news,On in Q3 for Tynan,sub,Started as a sub
+300,Jesse,Hogan,ME,2,21,-,11,17,21,4,1,2,0,0,1,0,0,0, Full Time,,,subbed,Subbed off in Q4 for Pedersen
+297362,Dom,Barry,ME,1,18,27,14,14,21,2,4,0,1,0,0,0,0,0, Full Time,,,subbed,Subbed off in Q3 for Stark
+280758,Jack,Fitzpatrick,ME,0,9,0,11,9,13,0,3,0,1,1,1,1,0,0, Full Time,,,,
+294652,Nathan,Stark,ME,0,8,28,2,6,6,2,0,0,0,0,2,0,0,0, Full Time,news,On in Q3 for Barry,sub,Started as a sub
+292029,Cameron,Pedersen,ME,0,5,28,2,4,6,1,1,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Hogan,sub,Started as a sub

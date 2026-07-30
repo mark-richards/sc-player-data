@@ -1,0 +1,48 @@
+Western Sydney,Giants,Port Adelaide,Power,R12,6.14.50,19.11.125, Full Time
+Jun 16,2013,1.10,Showgrounds,Seven,261841,10391205,gws-v-port,0,Sunny,18,,
+
+<em>100_a_week</em>: i had o'shea since he got 88 and been preety happy'<br><em>jono71501</em>: won the purple name game!<br><em>WojakDaw</em>: no more cactus :(<br><em>wolfheart</em>: Kornes continues to get the job done&#044; but everyone continues to stay off him.<br><em>Grazz</em>: Well done Kane. <br><em>TossTime</em>: good job whitfield&#044; i'll take it<br><em>kuraban</em>: Great week to have O'Shea on the bench.  FML.<br><em>Raffdawg</em>: need lol<br><em>danmaio</em>: hamish get b e&#044; gets hi 1 more week&#044; then he becomes Gibbs<br><em>Keza41</em>: Hartlett should end up on 103&#044; missed a tackle with about 1 minute to go<br><em><b class="picon i_cactus"></b>Pavalinco</em>: Trelor gun<br><em><b class="picon i_cactus"></b>Save-Lo</em>: harlett had a tackle when he was on 99 hope it gets picked up<br>
+280969,Tom,Scully,WS,21,117,96,149,94,127,17,13,9,3,0,0,0,0,1, Full Time,hot,One of his more industrious games for the Giants... %D and %M plus %T and %s,,,361300,69,369300,67,Centre,9,11,72.4,70.7,1.69,1.12
+291790,Adam,Treloar,WS,21,101,87,132,74,105,13,11,4,7,0,0,0,0,0, Full Time,hot,%2 Cornes... %O and %M with %T,,,422900,61,429100,36,Centre,17,10,89.4,88.2,0.58,0.63
+291819,Adam,Tomlinson,WS,21,100,70,130,84,107,14,6,12,2,4,0,1,0,1, Full Time,hot,%s from %D and %M on Carlile... also %H and %T,,,303900,52,312900,57,Forward,20,7,67,63.7,0.43,0.28
+294305,Lachlan,Whitfield,WS,21,95,91,121,79,103,12,9,8,3,0,1,1,1,1, Full Time,news,%2 Broadbent... %D and %M plus %T and %s,,,287100,72,331100,94,Centre,6,10,62.4,67.2,13.91,12.70
+295344,Toby,Greene,WS,15,89,83,111,71,99,14,13,4,2,0,1,0,0,0, Full Time,job,In defence again on Neade... %O including %B with %T,,,367600,74,366300,78,Centre,4,10,72,69.1,1.01,0.89
+261841,Jonathan,Giles,WS,16,87,85,105,72,86,11,3,3,2,29,2,0,0,0, Full Time,news,%H and %D with %M and %T,,,304600,25,345200,54,Ruck,26,11,67.5,75.5,2.22,2.79
+280109,Callan,Ward,WS,14,83,87,104,67,94,8,14,3,5,3,1,1,0,1, Full Time,news,Thomas spent a bit of time on him... %P and %T with %M and %s,,,456400,65,498500,83,Centre,8,11,95.3,98.5,0.80,0.80
+291969,Stephen,Coniglio,WS,15,83,61,108,64,91,13,9,4,4,1,0,1,0,0, Full Time,news,%P and %T with %M,,,376000,90,386800,97,Centre,3,11,77.1,78.8,0.72,0.79
+291783,Dylan,Shiel,WS,9,73,63,92,59,79,8,10,5,3,0,1,0,0,1, Full Time,news,%O and %M plus %T and %s,,,291200,85,288400,82,Centre,5,11,67,71.5,0.66,0.61
+291776,Taylor,Adams,WS,13,72,84,88,57,75,9,10,1,3,0,4,0,1,0, Full Time,news,Quiet first half but lifted in Q3... %D and %T plus %s,,,434500,132,416400,109,Centre,11,7,85.3,75.3,0.26,0.17
+290306,Curtly,Hampton,WS,10,71,86,90,58,81,11,10,4,2,0,1,1,0,0, Full Time,news,%O and %M with %T,job,Standing Butcher,252800,11,244800,-7,Back Forward,2,7,55,50.3,1.05,0.88
+261374,Sam,Reid,WS,13,70,57,93,50,68,12,3,3,4,1,1,0,0,1, Full Time,news,%D and %T with %M and %s,,,297600,41,317900,40,Centre,23,6,65.2,64,0.43,0.29
+291891,Jacob,Townsend,WS,14,69,58,90,56,81,7,11,4,5,0,0,2,0,0, Full Time,tagger,Tagging Hartlett... %P and %T,,,238500,43,208700,34,Centre,31,5,55.2,43.4,1.08,1.14
+293845,Jeremy,Cameron,WS,12,69,72,89,56,68,9,1,5,3,0,2,1,2,2, Full Time,garbage,%s from %D and %M on the smaller Jonas... also %T... all his goals in Q4 garbage time,mrp,A swinging arm to the chest of Wingard in Q1 will be looked at,333700,49,347300,59,Forward,18,11,66.5,67.2,2.28,2.12
+291509,Adam,Kennedy,WS,8,65,70,79,56,76,7,12,5,1,0,0,0,0,1, Full Time,news,%D and %M plus %s,job,Minding Hitchcock,254500,48,291000,61,Back,40,10,49.2,54.7,0.62,0.76
+291771,Devon,Smith,WS,9,62,42,81,46,64,6,7,3,5,0,0,0,0,1, Full Time,cactus,%P and %M... also %T,,,362400,83,347000,55,Forward Centre,10,10,73.8,69.5,1.32,1.68
+291720,Will,Hoskin-Elliott,WS,10,54,58,68,44,61,6,7,2,3,0,0,1,1,1, Full Time,news,%s from %O and %T starting forward on O'Shea,in,Late replacement for Rhys Palmer,270800,86,249900,98,Forward Centre,33,3,55,41,0.71,0.82
+294508,Aidan,Corr,WS,5,54,49,68,47,63,5,9,5,2,0,1,1,0,0, Full Time,job,Takes Paul Stewart... %D and %M,,,126300,7,182000,14,Back,35,6,26.7,40,1.40,1.75
+261189,Tim,Mohr,WS,9,49,59,66,38,57,7,6,2,4,0,0,2,0,0, Full Time,job,On Schulz... %O and %T,,,285900,75,342000,96,Back,39,11,61,73.9,0.84,0.85
+291492,Josh,Bruce,WS,4,47,48,62,34,48,9,3,2,2,0,0,0,0,0, Full Time,job,Has Westhoff... %O and %M,,,218800,45,250700,30,Back Forward,47,6,44.7,51.2,0.39,0.56
+294685,Zac,Williams,WS,9,42,37,54,32,42,6,2,2,2,0,0,0,1,0, Full Time,news,On in Q3 for Plowman... %P and %T,sub,Started as a sub,108900,14,108600,26,Back Centre,51,3,34,28.7,5.13,4.45
+294624,Lachlan,Plowman,WS,1,18,28,22,15,21,3,3,1,0,0,0,0,0,0, Full Time,cactus,Started forward again on Hombsch... %P,subbed,Subbed off in Q3 for Williams,178300,13,200400,10,Back,30,5,41.4,45,4.87,5.10
+210020,Kane,Cornes,PA,26,120,125,75,97,135,19,15,6,3,0,0,1,1,0, Full Time,gun,%2 Treloar... %B among %O with %M... also %T and %s,,,494700,129,506000,120,Centre,18,10,111.7,114.7,5.02,4.44
+250365,Travis,Boak,PA,31,119,134,75,101,132,18,11,8,1,0,0,1,3,0, Full Time,star,%P and %M plus %s... had a massive Q1,sore,FInger dislocation on the right hand very late in Q4,446400,109,469600,102,Centre,1,10,98.8,102.5,4.38,3.14
+261911,Brad,Ebert,PA,26,118,108,87,101,131,15,15,12,1,1,1,0,0,1, Full Time,magnet,%P including %B with %M and %s,,,440000,94,453300,94,Centre,7,10,94.7,92.9,2.26,0.77
+230195,Jay,Schulz,PA,31,116,111,97,98,118,12,7,11,3,0,2,0,3,1, Full Time,hot,Booted %s from %D and %G on Mohr... %T as well,,,330200,79,403000,128,Forward,28,10,69,80.6,1.96,1.75
+291962,Chad,Wingard,PA,26,114,110,72,86,121,18,13,2,5,0,1,0,1,1, Full Time,cherry,%O including %b by hand... also %T and %M... kicked %s as well,sore,Copped a Butcher knee to the torso in Q3 which left him sore,395900,43,424800,70,Centre,20,10,88.2,96.8,6.45,8.18
+290540,Cameron,O'Shea,PA,28,111,129,96,94,127,9,21,4,4,1,1,0,2,0, Full Time,bluemoon,%P and %T plus %M and %s,job,Responsible for Hoskin-Elliott,308700,47,330400,74,Back,13,10,68.1,71.1,3.65,4.69
+240290,Angus,Monfries,PA,26,100,112,66,85,117,13,17,1,2,0,1,1,3,0, Full Time,hot,%s from %K among %D... also %T,,,368700,75,401500,89,Forward Centre,6,10,80.4,89.8,10.36,13.79
+261892,Hamish,Hartlett,PA,26,99,94,75,81,112,12,15,4,4,1,1,1,1,0, Full Time,seagull,Tagged by Townsend... %D and %T plus %M and %s,,,335900,58,413300,71,Back Centre,8,10,76.7,90.2,16.46,17.00
+291964,Jack,Hombsch,PA,19,94,93,58,79,105,15,11,9,0,0,0,0,0,0, Full Time,garbage,%D and %M... lots of stats in Q4 junk time,job,Plowman is his man,293700,,366200,,Back,36,1,83,121,0.21,0.20
+261230,Matthew,Lobbe,PA,17,78,83,62,68,85,8,4,2,3,34,0,2,0,0, Full Time,news,%H and %D plus %M and %T,,,295200,70,357500,88,Ruck,23,7,58,67.4,0.58,0.47
+270779,Paul,Stewart,PA,13,77,76,57,62,84,11,7,7,3,0,0,1,0,0, Full Time,news,%P and %M up forward on Corr,,,240700,109,227000,108,Forward,14,6,49.2,42,0.37,0.20
+294318,Oliver,Wines,PA,9,76,79,54,62,90,10,14,2,3,1,0,1,0,2, Full Time,news,%P and %T with %M and %s,,,323100,83,358800,78,Centre,16,10,79.8,82,25.57,25.93
+230124,Tom,Logan,PA,15,73,72,61,65,84,6,13,4,1,0,1,0,2,0, Full Time,news,%O and a rare %s,,,301800,39,348200,47,Back,44,2,77.5,82,0.21,0.15
+271078,Matthew,Broadbent,PA,9,71,88,45,56,78,11,10,3,2,0,1,0,0,0, Full Time,news,%2 Whitfield... %D and %T with %M,,,292400,105,305800,107,Centre,5,10,64.4,70.1,0.34,0.27
+260750,Justin,Westhoff,PA,16,68,91,60,58,77,6,9,4,3,5,0,1,1,0, Full Time,news,First goal... %s from %G and %P on Bruce... also %T and %H,,,378500,41,439500,62,Forward,39,10,92.6,101.9,9.45,8.15
+250688,Alipate,Carlile,PA,14,66,70,55,54,75,8,8,5,4,0,1,2,0,0, Full Time,job,Standing Tomlinson... %D and %T with %M,,,223900,60,325700,71,Back,27,9,52.1,68.8,1.91,0.61
+240385,Matt,Thomas,PA,13,65,66,61,52,73,5,12,3,4,0,0,0,0,1, Full Time,news,Spent a bit of time on Ward... %D and %T with %M and %s,,,327000,,378100,,Centre,21,1,72,76,0.15,0.11
+280877,John,Butcher,PA,10,55,70,39,46,56,7,3,3,1,0,1,0,2,2, Full Time,news,%s from %P and %M on Hampton,,,206100,54,253500,91,Forward,11,2,39,31.5,0.60,0.36
+292145,Thomas,Jonas,PA,7,49,63,33,44,63,7,10,3,1,0,1,2,0,0, Full Time,job,On Cameron... %D and %M,,,238900,28,290200,25,Back,42,10,46.5,56.3,0.57,0.57
+294604,Jake,Neade,PA,4,40,18,25,31,45,7,4,2,2,0,0,1,0,0, Full Time,news,Greene on him... %O and %T,,,213700,49,257900,54,Forward Centre,32,9,53.1,61.2,20.97,19.82
+261396,Robbie,Gray,PA,2,28,13,21,24,33,4,3,3,1,0,0,1,0,0, Full Time,news,On in Q3 for Hitchcock... %O and %M,sub,Started as a sub,316000,91,391300,92,Forward Centre,9,7,60.1,71.3,4.13,4.60
+281375,Cameron,Hitchcock,PA,2,28,23,24,21,30,3,4,1,2,0,0,0,0,0, Full Time,sore,%D and %T on Kennedy... ankle knock in Q2,subbed,Subbed off in Q3 for Gray,132600,,128000,,Forward,2,1,61,59,1.33,1.71

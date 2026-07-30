@@ -1,0 +1,48 @@
+Carlton,Blues,Geelong,Cats,R11,11.19.85,14.13.97, Full Time
+Jun 8,2012,7:50,Docklands,Seven,,10341101,430098,0,Roof closed,14,news,No live SC scores during games as of tonight. End of game SC scores will still be posted. See FAQ below.
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>bixler</em>: Melbourne are the best team in the league if they get about 22 more top quality players<br><em>bubba</em>: carlton are gone beautiful xxx<br><em>peterkip</em>: @remon lea sorry if I offended&#044; thought we were amongst adults here<br><em>Dale C</em>: Motlop X factor Monty<br><em>tezzer_j</em>: the blues will be fine once they get some better players<br><em>jpreed84</em>: all in all was a great game&#044; honestly!<br><em>Cruise on</em>: Carlton now mixing it with the big boys on the ladder - North&#044; Tigers & Freo!<br><em>scrappers</em>: judd 102 what a joke more like 22 i am a carlton supporter<br><em>MrRioli10</em>: Munza ur mum is my maid. Thx<br><em>Sydney14</em>: cats have the worst song in the league imo<br><em>aussie</em>: Rock icon for Scarlett surely<br><em>Munza</em>: MrRioli10:Go eat a sausage roll dean<br>
+230202,Kade,Simpson,CA,25,112,113,143,89,121,23,8,6,1,0,1,1,1,1, Full Time,hot,Tagged by Taylor Hunt... %D and %M,,
+220056,Chris,Judd,CA,24,95,105,119,72,98,15,10,1,4,0,3,0,1,2, Full Time,news,%2 Bartel... %P and %T plus %s,,
+240060,Eddie,Betts,CA,23,90,99,112,74,92,10,4,4,4,0,1,1,4,2, Full Time,news,%s from %P and %T on Josh Hunt... also %M,,
+240028,Brock,McLean,CA,19,82,98,102,76,108,10,18,6,2,0,2,4,0,0, Full Time,news,%2 Kelly... %P and %M... also %T and %F,,
+261258,David,Ellard,CA,19,82,87,107,59,83,9,9,2,7,0,1,0,0,2, Full Time,news,%O and %T with %M and %s,tagger,Tagging Selwood
+260533,Dennis,Armfield,CA,16,76,90,95,65,90,11,11,4,2,0,1,2,1,0, Full Time,tagger,Tagging Chapman... %D and %M with %T and %s,,
+260104,Andrew,Collins,CA,14,75,64,93,60,79,9,9,3,3,0,2,0,1,1, Full Time,news,%s from %O and %M up forward on Enright,,
+240014,Andrew,Walker,CA,12,70,81,83,58,82,10,15,1,1,0,2,0,0,1, Full Time,news,%s from %K among %D on Mackie,,
+250672,Robert,Warnock,CA,15,69,77,80,61,69,6,3,3,1,30,2,0,0,0, Full Time,injured,%H and %D with %M... left hamstring strapped to start with... worked on in Q3,subbed,Subbed off in Q3 for Yarran
+290311,Mitch,Robinson,CA,14,68,74,85,57,84,7,15,2,4,0,1,2,0,0, Full Time,missing,%P (%b by hand) and %T... also %F... went missing for large parts of the second half,,
+261009,Nick,Duigan,CA,9,64,83,83,53,75,13,7,4,1,0,1,2,0,0, Full Time,job,Responsible for Duncan... %O and %M,,
+292511,Zach,Tuohy,CA,10,57,75,73,47,63,8,6,2,3,0,3,2,1,0, Full Time,news,%D and %M plus %T and %s,,
+270326,Lachie,Henderson,CA,9,54,52,72,44,56,8,2,6,2,0,1,1,0,2, Full Time,news,Starting at FF on Taylor then Lonergan went to him in Q4... %s from %D and %M,,
+261318,Aaron,Joseph,CA,8,53,69,69,46,69,7,10,3,3,0,0,3,0,0, Full Time,news,%P and %M plus %T... also %F,job,Has Stokes
+261299,Matthew,Kreuzer,CA,11,50,57,65,44,57,8,2,3,2,5,2,3,1,1, Full Time,news,Started forward on Lonergan then rucked full time in Q4... %s from %P and %M... also %H and %T,,
+250417,Bryce,Gibbs,CA,10,49,81,61,39,51,6,5,2,2,0,1,0,1,0, Full Time,job,In defence on Johnson.... %D and %M plus %T and %s,,
+290526,Matthew,Watson,CA,5,49,56,65,37,49,8,2,4,2,1,0,0,0,0, Full Time,job,Standing the resting ruckman... %P and %M with %T,,
+270653,Jeff,Garlett,CA,3,47,75,61,34,47,9,3,1,2,0,1,0,0,2, Full Time,news,%s from %O and %T on Wocjinski,,
+261043,Michael,Jamison,CA,4,42,44,55,34,48,6,5,3,2,0,0,1,0,0, Full Time,tomahawk,On Hawkins... %O and %M,,
+270737,Shaun,Hampson,CA,7,40,65,44,39,48,1,7,1,1,18,1,1,0,0, Full Time,crab,%D on Scarlett... also %H,muppet,
+296531,Joshua,Bootsma,CA,3,36,39,47,29,37,5,2,4,1,0,0,0,0,1, Full Time,job,Interesting matchup on Motlop... %O and %M,,
+271110,Chris,Yarran,CA,2,27,36,34,23,29,4,2,3,0,0,0,0,0,2, Full Time,news,On in Q3 for Warnock... %O,sub,Started as a sub
+250321,Joel,Selwood,GE,32,122,154,89,96,130,16,13,3,6,3,2,1,2,1, Full Time,star,Tagged by Ellard.... %P and %T plus %M and %s,,
+281065,Mitch,Duncan,GE,26,110,111,87,89,119,13,11,6,5,1,0,1,2,1, Full Time,x-factor,First goal... %s from %P and %M on Duigan... also %T,,
+980037,Matthew,Scarlett,GE,20,93,134,78,74,99,11,9,8,5,0,1,1,0,0, Full Time,job,Has Hampson... %M and %D with %T,,
+200039,Paul,Chapman,GE,20,89,99,45,73,102,18,6,6,2,0,0,3,1,0, Full Time,tagged,Tagged by Armfield... %P and %M plus %s,,
+280990,Steven,Motlop,GE,17,80,83,54,67,83,11,3,3,2,0,1,1,4,2, Full Time,news,%s from %P and %M on Bootsma including three majors in Q2... also %T,,
+210059,Josh,Hunt,GE,14,77,80,55,61,81,12,4,8,3,0,0,1,0,0, Full Time,sore,Minding Betts... %O and %M with %T... right calf cramped up heavily in Q4,mrp,Trod on Betts' hand in Q1 which will be looked at
+220007,Jimmy,Bartel,GE,19,74,100,53,58,82,10,10,1,4,1,1,1,1,0, Full Time,news,%2 Judd... %P and %T plus %s,,
+220058,James,Kelly,GE,9,73,60,44,59,84,12,11,3,2,0,1,1,0,0, Full Time,news,%2 McLean... %O and %T plus %M,,
+261497,Harry,Taylor,GE,13,71,109,48,60,75,11,5,8,1,0,3,1,0,0, Full Time,switch,On Henderson until Q4 when switched forward... %M and %O,,
+230214,Mathew,Stokes,GE,14,67,107,54,62,81,5,18,2,0,0,4,0,1,0, Full Time,sore,%D including %B on Joseph... right hamstring tweak in Q3,,
+230248,Andrew,Mackie,GE,9,65,76,44,51,69,10,6,5,2,0,0,0,0,0, Full Time,job,On Walker... %D and %M,,
+200034,Joel,Corey,GE,19,62,55,58,53,81,7,10,3,7,0,2,6,0,0, Full Time,news,%P and %T with %M... also a massive %F,,
+220054,Steve,Johnson,GE,7,60,60,38,49,64,9,8,3,1,0,3,0,0,1, Full Time,missing,No score from %P and %M on Gibbs,,
+280822,Taylor,Hunt,GE,14,58,64,43,51,67,7,8,4,1,0,1,1,1,1, Full Time,tagger,Tagging Simpson... %s from %P and %M,,
+260261,Trent,West,GE,16,56,79,59,49,65,3,6,2,5,11,1,3,1,0, Full Time,news,%H and %P with %T... also %F,,
+990076,David,Wojcinski,GE,8,56,51,41,46,57,8,3,7,1,0,1,0,0,0, Full Time,job,Chasing Garlett... %D and %M,,
+230125,Tom,Lonergan,GE,5,50,69,37,43,60,7,7,4,2,0,1,2,0,0, Full Time,news,%D and %T with %M... also %F,job,Standing Kreuzer then went to Henderson in Q4
+261510,Tom,Hawkins,GE,10,50,55,38,41,50,7,0,5,2,0,1,1,1,2, Full Time,news,Jamison on him... donuts in Q1... %s from %P and %M with %T,,
+200035,Corey,Enright,GE,8,45,49,24,40,54,9,3,6,0,0,0,2,0,0, Full Time,job,Responsible for Collins... %P and %M,,
+291309,Jesse,Stringer,GE,2,34,34,19,26,37,6,4,1,1,0,0,0,0,1, Full Time,news,On in Q3 for Stephenson... %O,sub,Started as a sub
+290550,Cameron,Guthrie,GE,2,30,31,14,24,33,6,3,2,0,0,0,0,0,0, Full Time,news,%O,,
+261167,Orren,Stephenson,GE,2,26,20,20,21,25,3,0,1,1,10,0,0,0,0, Full Time,news,%H and %D,subbed,Subbed off in Q3 for Stringer

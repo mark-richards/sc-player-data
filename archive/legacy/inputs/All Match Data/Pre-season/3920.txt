@@ -1,0 +1,61 @@
+Hawthorn,Hawks,Western Sydney,Giants,W2,12.11.83,12.14.86, Full Time
+Mar 3,2012,3.40,Launceston,Fox Footy,,10330203,,21,Cloudy and windy,22,,
+
+<em>DuhWinning</em>: haha saw loser lloydy have a cry sh!t truck essendon hommus<br><em>john90</em>: What a poor effort from scully <br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> dancasta</em>: thanks carlos78<br><em>Carlos78</em>: Dev got 51 pts from 65 mins last week.<br><em>Spite</em>: CAPE FOR CAMERON BRUCE! :p<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> penguins00</em>: Smith has been sitting there nicely for me at f7 since this year opened. unfortunately the rest of my gws are failing<br><em>lloydy28</em>: Go hawks!<br><em>lloydy28</em>:  Im not your mate! mate!<br><em>meziare</em>: Smith in the mids and McIntyre in the fwds for me currently<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> dancasta</em>: how did smith go last week?<br><em>jfitty</em>: Smith killing it&#044; will slot nicely into that last forward spot<br><em>DuhWinning</em>: Lloydy only good as your last game mate!!! ;) <br>
+280858,Shane,Savage,HW,14,93,-,120,74,96,17,5,8,1,1,1,0,0,2, Full Time,skull,%2 Scully... %O and %M plus %s,,,88
+210012,Shaun,Burgoyne,HW,20,90,-,114,72,102,10,15,4,5,0,1,1,0,0, Full Time,news,%P and %M with %T,,,81
+281301,Ryan,Schoenmakers,HW,19,86,-,112,69,90,15,4,7,2,0,1,1,1,0, Full Time,news,%D and %M... also %T and %s which was a supergoal,job,At CHB on Cameron,96
+294877,Isaac,Smith,HW,15,85,-,103,72,95,11,12,5,1,1,1,0,1,1, Full Time,news,Playing inside forward 50... %s from %O and %M,,,92
+250055,Clinton,Young,HW,9,83,-,108,65,89,18,5,5,1,0,1,1,0,2, Full Time,news,%2 Palmer and took him apart in Q1... %O and %M plus %s,,,84
+200052,Cameron,Bruce,HW,19,81,-,101,72,95,11,10,7,1,0,1,2,1,2, Full Time,news,On in Q3... %B among %D with %M and %s,sub,Started as a sub,48
+291351,Jack,Gunston,HW,19,80,-,102,69,91,11,8,7,2,0,1,2,1,1, Full Time,news,%s from %G and %D on Mohr,,,98
+220036,David,Hale,HW,17,76,-,91,66,76,8,2,5,1,9,1,0,3,1, Full Time,news,First goal... %s from %P and %G on Bruce... also %H,subbed,Subbed off at 3QT for Frank,64
+220047,Luke,Hodge,HW,19,76,-,97,68,91,12,8,7,1,0,1,3,1,1, Full Time,tagged,Playing forward but tagged by Townsend... %D and %M plus %s,,,78
+280744,Luke,Breust,HW,15,70,-,85,60,79,8,9,3,2,0,1,1,2,1, Full Time,news,%s from %O with %b by hand... also %M and %T,subbed,Subbed off at HT,52
+270215,Kyle,Cheney,HW,19,63,-,83,61,87,14,7,6,0,0,1,6,1,0, Full Time,news,%O and %M plus %s,,,90
+200040,Chance,Bateman,HW,9,61,-,79,47,63,10,5,4,2,0,1,0,0,0, Full Time,news,%2 McDonald... %P and %M with %T,,,79
+270783,Jarrad,Boumann,HW,8,61,-,76,50,66,11,7,4,0,0,2,0,0,0, Full Time,job,At FB on Folau... %P and %M,,,98
+291537,Thomas,Schneider,HW,12,57,-,70,52,69,5,11,6,1,0,1,1,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,48
+240302,Grant,Birchall,HW,14,56,-,66,52,70,4,12,4,1,0,0,1,1,1, Full Time,news,%D including %B... also %M and %s,subbed,Subbed off at HT,49
+260472,Max,Bailey,HW,5,52,-,60,45,55,3,7,1,2,14,2,0,0,2, Full Time,news,Interesting role resting both in defence and up forward between ruck stints... %H and %P with %T and %s,,,80
+250257,Xavier,Ellis,HW,4,48,-,62,36,48,8,4,2,2,0,2,0,0,0, Full Time,news,%O and %T with %M,,,48
+261386,Brendan,Whitecross,HW,4,48,-,61,39,51,7,5,4,1,0,1,0,0,0, Full Time,job,Playing a HBF on Kennedy... %D and %M,subbed,Subbed off in Q2,67
+250146,Thomas,Murphy,HW,8,46,-,60,43,57,5,6,7,1,0,0,2,0,0, Full Time,job,Following Smith... %D and %M,,,93
+270732,Matt,Suckling,HW,3,45,-,59,34,45,9,2,3,1,0,1,0,0,0, Full Time,news,On in Q3... %O and %M,sub,Started as a sub,48
+295584,Bradley,Hill,HW,9,45,-,56,37,48,4,5,3,2,0,0,0,1,0, Full Time,news,Matched up on Coniglio... %P and %T with %M and %s,subbed,Subbed off at HT,40
+200060,Brent,Guerra,HW,3,42,-,57,34,45,8,1,5,1,0,0,1,0,0, Full Time,injured,%D and %M... left calf injury,subbed,Subbed off at HT,65
+210092,Michael,Osborne,HW,8,32,-,39,25,31,3,3,0,2,0,2,0,1,1, Full Time,news,%s from %P and %T playing forward on Darley... including a supergoal,,,47
+291300,Derick,Wanganeen,HW,2,30,-,39,24,34,4,4,1,2,0,1,1,0,1, Full Time,news,On in Q3... %s from %P and %T,sub,Started as a sub,48
+292013,Sam,Grimley,HW,2,22,-,29,21,28,1,3,2,2,4,1,2,0,0, Full Time,news,On in Q2 for Woodward... %D and %M,sub,Started as a sub,42
+291772,Alex,Woodward,HW,0,11,-,13,9,12,0,3,0,1,0,1,0,0,0, Full Time,injured,%B... icepacks on right knee and left ankle after Q1,subbed,Subbed off at QT for Grimley,5
+296091,Amos,Frank,HW,0,10,-,13,8,10,2,0,1,0,0,0,0,0,1, Full Time,news,On in Q4 for Hale... %s from %O,sub,Started as a sub,25
+294178,Angus,Litherland,HW,0,8,-,11,7,12,1,2,0,1,0,0,1,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,48
+250715,Josh,Gibson,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+13,Devon,Smith,WS,24,108,-,142,85,113,19,7,7,4,0,4,2,0,2, Full Time,hot,%s from %P and %T with %M on Murphy... also %F,,,92
+261231,Rhys,Palmer,WS,15,79,-,99,65,91,8,14,4,4,0,1,1,0,1, Full Time,news,%2 Young and got smashed in Q1... %O and %T with %M,,,88
+2,Stephen,Coniglio,WS,13,75,-,94,61,88,14,11,3,1,0,0,1,0,1, Full Time,news,Matched up on Hill... %D and %M,,,90
+291492,Josh,Bruce,WS,13,70,-,90,59,79,9,8,7,2,1,0,1,0,0, Full Time,news,%D and %M with %T,job,Standing Hale,97
+290765,Sam,Darley,WS,12,68,-,89,56,72,12,4,7,1,0,2,1,0,0, Full Time,job,In defence on Osborne... %O and %M,,,93
+4,Will,Hoskin-Elliott,WS,8,58,-,78,47,61,13,0,7,0,0,0,1,0,1, Full Time,news,%s from %P and %M,,,83
+293845,Jeremy,Cameron,WS,9,57,-,73,53,64,8,5,8,0,0,4,2,0,1, Full Time,news,%s from %P and %G on Schoenmakers at CHF,sore,Corked right hip in Q3,86
+294068,Andrew,Phillips,WS,9,56,-,71,49,64,11,4,4,0,7,2,2,0,0, Full Time,news,%P and %M with %H... rucked in the second half,,,78
+15,Israel,Folau,WS,10,51,-,67,43,55,6,2,4,3,2,1,2,1,2, Full Time,tonga,At FF on Boumann... one possession the first half but had a decent Q3... %s from %G and %D with %T,sore,Left hamstring soreness in Q4,81
+260290,Stephen,Clifton,WS,4,45,-,60,34,45,7,2,4,2,0,0,0,0,0, Full Time,news,%O and %M with %T,subbed,Subbed off at HT,47
+291891,Jacob,Townsend,WS,7,45,-,59,32,42,5,4,1,4,0,3,0,0,0, Full Time,tagger,Tagging Hodge... %P and %T,,,91
+261841,Jonathan,Giles,WS,4,43,-,52,36,44,5,5,2,1,5,3,0,0,0, Full Time,news,%H and %P with %M,subbed,Subbed off at HT,43
+31,Nathan,Wilson,WS,9,41,-,48,37,45,4,4,3,0,0,0,0,2,0, Full Time,news,%s from %O and %M,subbed,Subbed off in Q2 for Haynes,38
+280969,Tom,Scully,WS,3,39,-,52,34,51,9,5,2,1,0,1,3,0,0, Full Time,news,%2 Savage... %O and %F,,,72
+8,Adam,Tomlinson,WS,8,39,-,48,35,45,4,5,3,1,0,1,1,1,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,44
+24,Shaun,Edwards,WS,3,37,-,47,30,40,7,3,3,0,0,0,0,0,1, Full Time,news,%K among %D with %M and %s,subbed,Subbed off in Q4,70
+3,Dom,Tyson,WS,3,37,-,49,32,46,7,4,3,1,0,0,2,0,1, Full Time,news,%P and %M plus %s,,,90
+290671,Anthony,Miles,WS,3,35,-,47,29,39,6,2,4,1,0,0,1,0,0, Full Time,news,On in Q3... %D and %M,sub,Started as a sub,48
+10,Toby,Greene,WS,3,33,-,43,30,42,5,5,3,1,0,1,2,0,0, Full Time,news,On in Q3... %P and %F,sub,Started as a sub,46
+9,Liam,Sumner,WS,2,25,-,33,19,24,4,1,2,1,0,1,0,0,0, Full Time,news,On in Q3,sub,Started as a sub,45
+17,Tim,Mohr,WS,1,21,-,26,19,27,4,4,1,0,0,1,1,0,0, Full Time,job,Going with Gunston... %P,subbed,Subbed off in Q4,75
+26,Adam,Kennedy,WS,1,17,-,20,14,21,3,4,0,0,0,0,0,0,0, Full Time,news,%D on Whitecross,,,66
+280804,Phil,Davis,WS,1,17,-,22,14,18,1,2,2,1,0,0,0,0,0, Full Time,news,%D and %M,subbed,Subbed off at HT,51
+970130,James,McDonald,WS,1,17,-,20,15,21,2,4,1,0,0,0,0,0,0, Full Time,news,%2 Bateman... %P,subbed,Subbed off at HT,36
+25,Tim,Golds,WS,0,15,-,19,12,15,3,1,1,0,0,1,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,46
+7,Nick,Haynes,WS,0,15,-,20,13,18,2,2,1,1,0,1,1,0,0, Full Time,news,On in Q2 for Wilson,sub,Started as a sub,58
+12,Sam,Frost,WS,1,10,-,14,11,18,3,2,1,0,0,0,2,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,44
+291928,Gerald,Ugle,WS,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

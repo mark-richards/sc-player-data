@@ -1,0 +1,48 @@
+Adelaide,Crows,North Melbourne,Kangaroos,R13,16.13.109,10.13.73, Full Time
+Jun 14,2014,7.40,Adelaide,Seven,,10421305,adel-v-nmfc,0,A shower or two,16,,
+
+<em style='color:#000'>Slashers</em>: LOL. Jeez I can't stand the Crowd<br><em style='color:#000'>Heizenberg</em>: Too right lazy as <br><em style='color:#000'>fitzy1590</em>: scott thompson is terrible<br><em style='color:#000'>Woosha 73</em>: Yes. Nanas would have screwed it&#044; so he got a bandaid<br><em style='color:#000'>Grazz</em>: You dont have a clue Slashers&#044; just dribble all night.<br><em style='color:#000'>WojakDaw</em>: Lol @ Scott Thompson's differential<br><em style='color:#000'>howeydamus</em>: perfect curve that<br><em style='color:#000'>howeydamus</em>: i like bt<br><em style='color:#000'>BillyPil</em>: That's a well-drilled team for ya Woosha<br><em style='color:#000'>Slashers</em>: Ha! I see the curve!<br><em style='color:#000'>Hutcho42</em>: Ripping curve that!<br><em style='color:#000'>LazyAs</em>: @ mrpotato<br>
+210016,Scott,Thompson,AD,33,120,81,156,93,132,13,17,5,9,0,2,2,0,0, Full Time,cherry,%2 Cunnington... %P and %M plus %T,,,477500,132,499900,131,Midfielder,5,11,90.2,91.7,0.93,1.21,1.33,489410,110
+291748,Brodie,Smith,AD,25,107,133,133,92,123,15,14,9,1,0,0,1,1,0, Full Time,hot,%P and %M plus %s,,,428000,48,479400,66,Back,33,11,90.4,96.6,2.99,2.96,3.50,438087,81
+270963,Rory,Sloane,AD,20,106,127,136,84,109,16,9,8,3,1,3,0,0,0, Full Time,star,%O and %M plus %T... umps paid him %4FF,,,480300,91,553300,85,Midfielder,9,11,102.5,111.6,3.21,3.59,4.48,503163,106
+270811,Sam,Jacobs,AD,25,101,126,119,89,108,10,8,6,1,33,0,0,0,0, Full Time,hot,%H... also %P and %M,,,446500,139,528100,143,Ruck,24,11,94.2,104.6,14.79,11.68,15.93,473583,114
+200131,James,Podsiadly,AD,20,91,98,116,76,97,15,4,8,1,0,0,1,2,1, Full Time,news,First goal... Hansen on him... %s from %D and %M,,,346000,88,364700,82,Forward,1,11,67.6,68.7,0.76,0.71,1.12,368410,91
+261384,Matthew,Wright,AD,20,90,78,112,76,96,12,9,8,1,0,2,0,1,0, Full Time,news,Atley following him... %s from %D and %M,,,359700,103,371400,132,Forward Midfielder,11,10,77.8,77.9,7.75,5.92,7.93,375236,108
+220086,Brent,Reilly,AD,13,83,72,111,64,87,15,4,7,3,0,0,1,0,0, Full Time,garbage,%O including %K... also %M and %T,job,Taking the resting mid,371400,62,411500,73,Back,3,6,75.2,79.7,0.38,0.18,0.61,368955,71
+250362,David,Mackay,AD,19,79,94,103,65,87,12,6,6,3,0,1,2,1,0, Full Time,news,%P and %M plus %T... %s as well,,,409700,72,432400,69,Midfielder,14,11,78.9,87,0.54,0.63,0.60,405423,74
+240370,Richard,Douglas,AD,14,73,92,96,54,79,13,7,2,4,0,0,1,0,1, Full Time,news,%O and %M plus %T... %s as well,,,463000,110,500500,124,Midfielder,26,8,93,96.6,0.25,0.22,0.46,483393,111
+270917,Patrick,Dangerfield,AD,8,73,91,91,57,78,14,9,2,1,0,3,0,0,0, Full Time,cactus,Tagged by Greenwood... Looks like he needs a week off... %P and %M... helped out by %4FF,,,485700,135,569400,170,Forward Midfielder,32,11,94.9,110.1,55.03,65.08,53.79,520254,131
+280506,Taylor,Walker,AD,16,71,72,91,62,79,9,4,7,2,0,0,2,2,1, Full Time,graph,Thompson minding him... %s from %D and %M with %T,sore,Appeared to have an issue with his knee in the third but played on,322800,33,355700,20,Forward,13,4,75,76.3,14.31,14.86,17.30,316380,49
+261351,Matthew,Jaensch,AD,13,69,70,88,58,78,9,9,6,2,0,1,1,0,0, Full Time,job,On Nahas... %P and %M plus %T,,,411600,85,414000,82,Back,10,11,89,89.3,10.82,14.64,10.58,426660,89
+240060,Eddie,Betts,AD,20,68,107,84,57,73,7,6,1,4,0,3,2,3,1, Full Time,news,McDonald going with him... %s from %D and %T... aided by %4FF,,,313500,88,366400,107,Forward,18,11,61.4,68.4,3.60,4.45,5.21,312132,63
+294828,Josh,Jenkins,AD,11,67,80,83,58,74,9,5,5,1,2,0,1,2,0, Full Time,news,Firrito responsible for him... %s from %D and %M,,,337800,111,351500,116,Forward,4,9,74.3,75.4,1.88,1.42,2.52,391215,118
+297401,Matt,Crouch,AD,13,52,57,71,34,48,4,4,1,7,0,1,0,0,0, Full Time,news,%P and %T,subbed,Subbed late in the third,297300,90,276300,80,Midfielder,44,6,71.2,62.5,13.28,15.87,6.83,331360,93
+280934,Daniel,Talia,AD,4,51,35,68,38,51,11,1,4,1,0,0,0,0,0, Full Time,job,Taking on Petrie... %P with %k by foot... also %M,,,289100,81,336900,81,Back,12,11,58,65.9,1.80,1.75,2.19,309806,79
+291806,Sam,Kerridge,AD,14,49,55,54,45,54,4,5,1,0,0,0,0,4,0, Full Time,x-factor,Tagged Harvey early then spent time forward... %s from %D,,,250800,72,250200,63,Forward Midfielder,17,11,50.2,49.8,1.14,1.37,1.44,258787,58
+270296,Andy,Otten,AD,4,47,54,61,39,54,8,5,4,1,0,0,1,0,0, Full Time,job,On Black... %M and %O,,,346600,103,405300,137,Back Forward,22,2,53.5,52.5,0.51,0.26,0.57,318554,74
+293193,Luke,Brown,AD,5,47,46,63,38,51,7,3,5,2,0,0,1,0,0, Full Time,job,Responsible for Thomas... %P and %M plus %T,,,262400,67,298900,98,Back,16,11,55.8,59.9,0.62,0.55,0.54,273552,61
+280281,Brodie,Martin,AD,3,43,26,54,35,46,6,4,3,1,0,0,0,0,4, Full Time,news,On late in the third... %D and %M plus %s,sub,Started as a sub,261000,64,256900,41,Back,36,6,50.5,49.7,2.96,4.51,4.32,221875,29
+220093,Ben,Rutten,AD,2,29,60,36,26,36,3,6,2,1,0,1,1,0,0, Full Time,job,Keeping Tarrant company... %M and %P,,,244600,83,268800,74,Back,25,8,47.6,53.3,0.63,0.45,0.89,262175,72
+293222,Rory,Laird,AD,2,27,25,35,26,42,5,7,1,1,0,0,3,0,0, Full Time,job,On Harvey when forward... %O... gave away %F,,,376400,95,373400,97,Back,29,9,73.4,71.2,0.53,0.40,0.71,376096,78
+960491,Brent,Harvey,NM,28,126,124,84,100,132,18,13,4,4,0,3,0,2,3, Full Time,gun,Tagged by Kerridge and then Laird later on... %s from %P and %M plus %T... aided by %4FF,,,520300,102,578200,81,Forward Midfielder,29,11,103.1,110.9,11.81,11.51,12.45,515602,90
+270861,Levi,Greenwood,NM,26,109,106,65,91,127,18,14,6,2,0,0,2,1,1, Full Time,magnet,%O and %M plus %T... %s as well,tagger,Tagging Dangerfield,538600,85,508700,96,Midfielder,24,10,99.3,89.2,0.62,0.52,0.95,492343,66
+280921,Ben,Cunnington,NM,20,98,86,70,71,103,15,9,3,7,0,0,1,0,1, Full Time,news,%2 Thompson... %O and %M plus %T... %s as well,,,448800,69,482400,57,Midfielder,10,11,94.4,97.6,0.67,0.75,0.72,471965,100
+271129,Todd,Goldstein,NM,33,85,102,99,75,92,0,10,2,6,38,0,1,0,0, Full Time,news,%H... also %P and %T,,,400500,64,473900,42,Ruck,22,11,79.4,93.6,3.56,5.00,3.52,396018,64
+220023,Nick,Dal Santo,NM,14,80,111,59,67,95,9,18,2,2,2,1,0,0,0, Full Time,sore,Wrist soreness in the first... %D and %M with %T,,,458900,130,548900,138,Midfielder,15,11,91.6,110.6,2.78,5.67,3.43,483646,120
+240417,Andrew,Swallow,NM,14,78,86,39,63,90,15,11,2,2,0,3,2,0,0, Full Time,news,%P and %M plus %T... helped out by %4FF,,,477800,77,477500,90,Midfielder,9,4,86.8,80.5,0.86,0.87,2.25,439402,74
+250557,Sam,Gibson,NM,15,78,71,56,66,93,10,15,4,2,0,1,1,0,0, Full Time,news,%D and %M with %T,,,501200,110,467000,117,Midfielder,43,11,102.7,94.2,0.95,0.52,1.02,530873,122
+290787,Shaun,Atley,NM,10,75,98,61,61,84,8,13,4,3,0,1,0,0,0, Full Time,news,%O and %M plus %T,job,Largely on Wright,326500,80,361400,105,Back,18,11,68.1,70.6,1.41,3.92,1.41,344544,80
+261909,Lindsay,Thomas,NM,21,74,78,55,65,76,9,1,6,1,0,1,1,4,1, Full Time,target,Brown minding him... Scored %s from %G and %D,,,313800,96,350500,119,Forward,12,10,57.2,62.3,1.16,1.76,1.61,306317,70
+281395,Scott D.,Thompson,NM,13,73,81,50,60,75,11,5,8,1,0,2,0,0,0, Full Time,job,Has the big job on Walker... %M and %P,,,310800,100,398100,87,Back,16,10,63.5,80.3,1.06,2.98,1.38,345555,99
+230272,Michael,Firrito,NM,13,72,91,36,58,78,14,6,6,0,0,0,0,0,0, Full Time,job,Manning Jenkins... %M and %P,,,297700,62,355100,51,Back,11,7,61,75.3,0.42,0.59,0.47,308896,66
+296355,Luke,McDonald,NM,9,72,65,46,57,81,11,11,3,2,0,0,0,0,0, Full Time,cash,%D and %M with %T,job,Key job on Betts,307900,45,332500,53,Back Midfielder,21,11,66.2,68,31.84,40.71,19.83,312537,53
+250373,Lachlan,Hansen,NM,19,70,89,53,61,78,9,7,6,2,0,3,2,1,0, Full Time,ipod,Following Podsiadly... %P and %M plus %T... %s as well... aided by %4FF,,,348500,94,386400,99,Back,6,11,72.6,77.8,0.88,1.09,0.92,374731,94
+280863,Ryan,Bastinac,NM,14,62,64,36,49,66,11,4,3,2,0,1,1,1,0, Full Time,news,%D including %K... also %M and %T... and kicked %s,,,343500,30,331800,37,Midfielder,3,11,73.6,68.4,0.72,0.63,0.54,344696,56
+250285,Leigh,Adams,NM,9,54,53,58,44,62,2,12,2,4,0,0,0,0,2, Full Time,news,Only the 3 handballs to HT... %s from %D and %M with %T,,,385900,88,388600,74,Forward Midfielder,13,11,79.6,76.4,1.86,0.99,2.27,400265,89
+280944,Jack,Ziebell,NM,9,51,50,47,42,60,5,8,3,4,0,1,2,0,0, Full Time,down,Only the 4 touches to HT and stayed quiet throughout... %P and %M plus %T,,,474600,113,462300,107,Midfielder,7,8,87.8,84.5,0.91,0.95,1.15,459881,89
+210023,Drew,Petrie,NM,10,47,58,44,39,49,4,2,3,3,6,0,1,1,1, Full Time,news,Talia standing him... Only the 1 kick to HT... %s from %O and %M plus %T,,,316900,62,356600,49,Forward,20,11,57.6,64.6,1.69,3.00,1.84,316329,58
+291672,Aaron,Black,NM,3,45,43,39,34,45,5,4,3,3,0,1,0,0,0, Full Time,news,Otten responsible for him... %O and %M plus %T,,,292400,59,323600,71,Forward,35,11,57.4,62,0.72,0.67,0.67,300351,63
+291445,Aaron,Mullett,NM,3,43,60,27,34,51,7,7,1,2,0,0,1,0,0, Full Time,news,%O and %T,,,326800,91,310400,67,Back,41,9,66.7,62.9,0.63,0.56,0.88,345403,83
+250623,Robin,Nahas,NM,3,42,42,31,32,40,6,2,3,2,0,2,0,0,1, Full Time,news,Jaensch following him... %s from %O and %M plus %T,sore,Shoulder soreness in the second,331000,49,318600,41,Forward,28,6,76.3,71.2,3.39,2.26,6.24,300958,32
+260545,Liam,Anthony,NM,2,30,22,19,25,36,5,4,2,1,0,0,1,0,0, Full Time,news,On late in the third... %O and %M,sub,Started as a sub,262200,75,239500,76,Midfielder,4,2,42,33.5,0.42,0.33,0.72,200487,35
+270325,Robbie,Tarrant,NM,0,11,19,11,10,15,1,2,1,1,0,0,1,0,0, Full Time,news,Rutten running with him... %O,subbed,Subbed late in the third,277800,,290400,,Forward,25,0,0,0,0.20,0.27,0.26,275600,96

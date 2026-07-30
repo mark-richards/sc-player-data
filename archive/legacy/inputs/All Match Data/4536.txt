@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Carlton,Blues,R17,16.12.108,16.13.109, Full Time
+Jul 19,2013,7.50,Docklands,Seven,260278,10391701,nmfc-v-carl,0,Roof closed,13,,
+
+<em style='color:#000'>wadaramus</em>: U stink Gibbs&#044; shove that mediocre score up your sphincter.<br><em style='color:#000'>pietime!</em>: wow. sing it like you mean it you flogs<br><em style='color:#000'>matthius</em>: 6 goals and you only score 73 sc. wtf!<br><em style='color:#000'>danmaio</em>: bins it for a 63&#044;   thanks petrie for money back sportsbet  kicking 4<br><em style='color:#000'>Rrgj</em>: krooz gj<br><em style='color:#000'>matthius</em>: Gibbs went up 8 sc in last qtr but scored 25 dt. spud!<br><em style='color:#000'>3rdstriker</em>: gibbs being interviewed like he played a decent game<br><em style='color:#000'>stark</em>: linsay thomas should be all australian never seen a player kick more cherry picking goals from the goalsquare in my life<br><em style='color:#000'>bigpens</em>: Whst is macmillans score? My opp has him<br><em style='color:#000'>gdshifty</em>: pretty happy with my decision to trade Cox to Kruezer so far<br><em style='color:#000'>N_Riewoldt</em>: Lol Scott D thomp 40+ sc than dt wow my rival has him <br><em style='color:#000'>stark</em>: why do they keep saying "carlton in the 8" it's the first game of the round who gives a stuff<br>
+210023,Drew,Petrie,NM,32,112,125,140,95,114,11,5,9,4,2,2,1,4,1, Full Time,hot,Booted %s from %D and %G on Jamison... %T as well,,,414600,86,520900,131,Forward,20,15,83.2,100,3.68,4.43
+280944,Jack,Ziebell,NM,25,100,99,132,71,93,15,4,3,7,0,4,0,1,0, Full Time,heart,%2 Gibbs... %D and %T with %M... right shin problem in Q2 when Tuohy kicked him by accident... carried off and iced up... back ten minutes later,,,443600,111,478100,113,Centre,7,12,90,93.4,0.81,1.31
+280863,Ryan,Bastinac,NM,26,95,97,123,72,95,11,7,5,6,0,1,0,1,2, Full Time,news,%2 Murphy... %O and %M plus %T and %s,,,384200,86,508000,103,Centre,3,15,81.6,91,0.90,1.33
+960491,Brent,Harvey,NM,25,95,98,118,75,105,12,14,3,4,0,0,0,1,0, Full Time,tagged,Tagged by Curnow... %P and %T plus %M and %s,,,418800,73,498600,68,Forward Centre,29,9,89.1,104.8,4.91,7.45
+250373,Lachlan,Hansen,NM,20,94,78,122,77,99,13,7,11,2,0,0,0,0,0, Full Time,news,%M and %D... also %T,job,Zoning off Rowe,345200,123,363500,109,Forward,6,13,64.5,64.2,0.67,0.57
+250285,Leigh,Adams,NM,15,88,91,112,68,93,16,9,4,2,0,2,0,0,0, Full Time,news,%O and %M plus %T,,,371800,57,400300,74,Forward Centre,13,15,68.9,75,1.64,1.41
+281395,Scott D.,Thompson,NM,14,84,126,107,71,96,13,10,8,1,0,0,1,0,0, Full Time,news,%D and %M,job,Interesting job on Betts,375400,101,497200,104,Back,16,15,77,97.6,2.09,4.75
+261909,Lindsay,Thomas,NM,27,78,77,92,65,76,9,1,1,2,0,1,0,6,1, Full Time,target,Tuohy on him... %s from %O and %T including three big ones in Q1,,,287900,77,339300,81,Forward,12,13,66.1,73.8,1.02,1.29
+271129,Todd,Goldstein,NM,26,73,97,83,66,77,3,5,1,3,41,1,1,0,0, Full Time,news,%H and %D with %T,,,412400,109,542400,119,Ruck,22,15,89.5,111.7,14.26,12.68
+280921,Ben,Cunnington,NM,10,72,88,97,57,84,15,6,4,3,0,0,3,0,0, Full Time,news,%2 McLean... %P and %T with %M... also %F,,,418400,114,478400,115,Centre,10,13,80.4,92.5,0.54,0.68
+240131,Nathan,Grima,NM,13,71,78,96,57,78,12,4,7,3,0,0,2,0,0, Full Time,news,%M and %O with %T,job,Has Henderson,350200,84,424700,103,Back,17,14,64.5,75.2,0.86,0.82
+240417,Andrew,Swallow,NM,14,70,72,94,56,84,12,8,2,5,0,1,4,0,3, Full Time,missing,%2 Judd... %P and %M plus %T and %s... very little after HT,,,441000,127,482300,119,Centre,9,15,99,104.8,13.83,7.93
+290194,Jamie,MacMillan,NM,11,61,70,80,51,69,10,4,5,2,0,0,2,1,0, Full Time,news,%D and %M with %T... also %s and %F,,,277100,55,316000,40,Centre,34,15,65.9,69.3,0.74,0.66
+290787,Shaun,Atley,NM,8,59,83,75,46,63,7,8,3,3,0,1,0,0,0, Full Time,job,Minding Garlett... %O and %M plus %T,,,318700,64,365600,72,Back,18,15,64.9,72.3,2.33,4.59
+291672,Aaron,Black,NM,4,54,48,69,44,59,8,6,3,2,0,2,1,0,2, Full Time,news,Kicked %s from %P and %M on McInnes... also %T,,,296200,43,336300,54,Forward,35,11,70.2,79.9,3.80,6.16
+270325,Robbie,Tarrant,NM,8,52,54,65,45,61,7,8,4,1,1,1,1,0,0, Full Time,news,No score from %P and %M on Watson,,,257000,61,329400,48,Forward,25,6,52.3,65,0.41,0.39
+291963,Brad,McKenzie,NM,10,52,59,68,41,54,7,3,3,3,0,1,1,1,0, Full Time,news,Starting on a wing on Lucas... %D and %M plus %s,,,171800,34,176100,29,Centre,2,4,53.3,48.8,5.35,2.08
+230232,Daniel,Wells,NM,9,50,75,63,39,57,7,7,0,3,0,0,1,1,0, Full Time,news,Starting forward on Walker... %s from %O and %T,,,386100,78,430600,73,Centre,8,15,80.9,93.6,0.85,1.02
+290538,Taylor,Hine,NM,9,45,28,63,36,52,7,3,3,4,0,1,3,0,1, Full Time,job,In defence on Yarran... %P and %M... also %T and %F,,,223000,65,206500,60,Back,26,10,43.5,39.1,0.41,0.47
+250557,Sam,Gibson,NM,4,44,54,56,34,48,6,6,2,2,0,0,0,0,0, Full Time,news,On in Q3 for McMahon... %O and %T plus %M,sub,Started as a sub,394700,96,396800,112,Centre,43,15,84.7,75.7,0.39,0.39
+291445,Aaron,Mullett,NM,2,33,48,44,22,33,9,1,0,1,0,0,0,0,0, Full Time,cold,Donuts in Q1... %P,,,328500,84,387400,102,Centre,41,15,74.8,80.4,3.15,3.18
+250135,Scott,McMahon,NM,3,32,35,43,27,36,7,1,4,0,0,0,1,0,0, Full Time,news,%P and %M,subbed,Subbed off in Q3 for Gibson,281100,69,348000,107,Back,42,10,62.4,73.2,0.34,0.35
+261299,Matthew,Kreuzer,CA,26,107,139,87,88,107,11,6,5,4,29,2,0,0,0, Full Time,star,%H and %P with %T and %M,,,442200,86,520500,79,Ruck,8,12,86.8,95.6,11.95,8.29
+230202,Kade,Simpson,CA,15,103,120,60,79,108,18,10,5,3,0,2,0,0,0, Full Time,hot,%P and %M with %T,,,398700,76,487800,114,Centre,6,15,79.5,89.3,0.70,0.75
+250105,Marc,Murphy,CA,24,93,103,66,65,85,14,4,1,7,0,5,0,1,1, Full Time,news,%2 Bastinac... %D and %T plus %s,,,332500,82,376800,104,Centre,3,14,86.4,90.9,4.99,5.68
+240014,Andrew,Walker,CA,9,82,109,30,58,84,20,3,2,3,0,1,1,0,0, Full Time,news,%D and %M plus %T,job,In defence again on Wells,391600,91,494100,107,Forward Centre,1,15,83.5,107,10.27,22.72
+220015,Andrew,Carrazzo,CA,25,80,76,74,58,84,8,10,2,8,0,1,1,0,0, Full Time,news,%O and %T,,,359200,123,408100,141,Centre,44,7,63.7,70.3,0.59,0.60
+270653,Jeff,Garlett,CA,18,76,83,60,64,77,8,3,4,2,0,0,0,4,2, Full Time,news,%s from %O and %M on Atley... also %T,,,259600,78,290600,81,Forward,38,15,72.8,81.9,3.35,3.12
+271110,Chris,Yarran,CA,28,75,80,77,57,74,6,2,4,8,0,1,2,2,2, Full Time,news,%s from %D and %T with %M on Hine... also %F,,,235400,32,275800,61,Back,13,12,58.7,65.5,4.48,5.32
+270146,Ed,Curnow,CA,15,72,110,51,59,78,9,9,2,2,0,1,0,2,0, Full Time,news,%P and %T plus %s,tagger,Tagging Harvey,336400,89,352500,105,Centre,35,12,72.2,73.3,0.31,0.31
+270326,Lachie,Henderson,CA,17,71,110,54,58,72,9,2,4,3,0,1,1,3,0, Full Time,news,First goal... %s from %P and %M on Grima.... also %T,,,353700,75,433500,73,Back Forward,23,15,69.5,85.9,2.32,2.38
+250417,Bryce,Gibbs,CA,16,63,60,60,46,66,7,4,4,7,0,0,2,0,0, Full Time,news,%2 Ziebell... one kick in Q1... %D and %T... also %M and %F,,,456500,156,492000,176,Back Centre,4,12,94.4,99.3,41.58,41.29
+292511,Zach,Tuohy,CA,12,63,70,41,51,66,10,2,4,2,0,0,1,2,0, Full Time,job,Minding Thomas... %O and %M plus %T and %s,,,248400,79,311700,85,Back,42,15,51.1,63.8,1.75,2.06
+240028,Brock,McLean,CA,9,56,61,42,40,55,8,4,2,4,0,1,0,0,1, Full Time,news,%2 Cunnington... %O and %T plus %M and %s,subbed,Subbed off in Q4 for Cachia,424900,95,456500,90,Centre,14,15,86.9,90.3,0.50,0.48
+220056,Chris,Judd,CA,7,55,83,29,43,61,10,7,2,1,0,0,0,0,1, Full Time,news,%2 Swallow... %O and %T with %M,,,432600,86,520600,89,Centre,5,14,85.6,102,3.82,3.76
+240060,Eddie,Betts,CA,11,54,71,45,45,57,5,6,2,2,0,1,0,2,0, Full Time,news,%s from %D and %M on Thompson,,,233200,81,301200,100,Forward,19,9,52.1,61.8,1.73,1.49
+260533,Dennis,Armfield,CA,8,54,36,38,46,59,8,4,6,1,0,1,1,0,2, Full Time,news,Starting forward on McMahon... %s from %O and %M,,,253100,79,270700,82,Forward Centre,27,15,55,59.1,1.98,2.05
+990059,Heath,Scotland,CA,3,47,46,15,35,48,12,1,2,1,0,2,1,0,0, Full Time,news,%O and %M,,,339400,95,382800,113,Back Centre,29,12,75.7,80.1,5.96,4.94
+260278,Sam,Rowe,CA,6,46,41,42,40,49,4,3,4,2,10,1,1,0,0, Full Time,cash,No score from %P and %M when forward on Hansen... also %H and %T in ruck support,,,212000,3,254500,3,Forward Ruck,17,6,59,68.2,22.35,24.08
+281079,Kane,Lucas,CA,4,40,62,31,37,52,5,7,4,1,0,0,2,0,1, Full Time,news,%2 McKenzie on wing... %B among %P with %M... also %s and %F,,,371800,65,361600,62,Centre,9,14,76.8,76.1,2.29,4.28
+290526,Matthew,Watson,CA,3,38,51,18,30,42,8,3,2,1,0,1,1,0,0, Full Time,job,On Tarrant... %D and %M,,,258900,,343800,,Back,10,1,62,82,0.17,0.15
+261043,Michael,Jamison,CA,3,37,36,23,30,42,7,2,3,2,0,1,2,0,0, Full Time,job,Standing Petrie.... %O and %M... %T and %F as well,,,207000,47,302200,56,Back,40,15,49,66.6,1.27,1.58
+291456,Andrew,McInnes,CA,3,28,46,25,25,36,3,5,2,2,0,1,2,0,0, Full Time,job,Black is his man.. %P and %T wiht %M... %F as well,,,264700,45,295600,45,Back,26,2,63,69,0.16,0.15
+280971,Jaryd,Cachia,CA,6,27,29,34,16,24,1,2,0,5,0,0,0,0,0, Full Time,news,On in Q4 for McLean.... %D and %T,sub,Started as a sub,326500,33,307400,46,Centre,37,10,71.9,65.5,1.97,1.39

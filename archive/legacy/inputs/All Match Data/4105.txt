@@ -1,0 +1,48 @@
+Collingwood,Magpies,West Coast,Eagles,R13,12.13.85,12.10.82, Full Time
+Jun 23,2012,4:40,MCG,Fox Sports,220061,10341303,430112,0,A few showers,13,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em title="GAZZ MVP">gazz mvp</em>: Geelong got dogged twice as bad as that last night. Swan cap :) <br><em>Quarters24</em>: monty you absolute flog<br><em>TaxiWaters</em>: Lots of eagles players down&#044; Pies Lucky&#044; Cheer it up pies&#044; cause finals time we will slaughter u<br><em>donga</em>: @ the legend what team do you support?<br><em>Sydney14</em>: Swan's SC cant be right<br><em>tor01doc</em>: Wow I saved $3500 by not getting Swan! Fail.<br><em>Sydney14</em>: Swan<br><em>TheLegend6</em>: grand final will be adelaide v collingwood. sorry wce.<br><em>HotTiges84</em>: good bye mardy clarke.. next week trade time<br><em>TheSaint</em>: waters supercoach is actually outrageous<br><em>ajconodie</em>: Respect WCE!<br><em>donga</em>: Png win<br>
+220105,Dane,Swan,CO,30,132,117,166,111,151,21,17,11,1,0,0,1,0,1, Full Time,gun,%2 Priddis... %D and %M,,
+271001,Dayne,Beams,CO,26,117,128,142,95,132,18,16,1,3,0,1,1,3,0, Full Time,star,First goal... %B among %P with %T and %s,scooter,Head to head with Scott Selwood
+280104,Jarryd,Blair,CO,21,90,94,111,72,96,8,12,3,5,0,1,0,2,0, Full Time,news,%P and %M with %T on McGinnity,,
+230263,Nick,Maxwell,CO,19,89,95,116,70,97,11,10,6,5,1,0,1,0,0, Full Time,news,%P and %M,,
+293801,Jamie,Elliott,CO,19,87,96,116,67,85,12,3,9,4,0,1,0,0,1, Full Time,x-factor,%O and %M with %T and %s... his link work in Q4 was crucial to the Pies win,,
+240366,Travis,Cloke,CO,27,85,89,104,74,88,9,2,6,2,0,0,1,5,1, Full Time,news,Booted %s from %O on Mackenzie,,
+240359,Dale,Thomas,CO,20,82,82,106,63,90,9,12,3,6,0,1,1,0,0, Full Time,news,%2 Shuey... %O and %T,,
+240700,Heath,Shaw,CO,10,81,86,106,60,84,15,6,4,3,0,0,0,0,0, Full Time,news,Matched up on Rosa... %D and %T with %M,,
+280965,Steele,Sidebottom,CO,14,81,99,102,62,89,15,10,2,2,0,0,0,0,2, Full Time,news,%O and %s,,
+261799,Sharrod,Wellingham,CO,14,79,70,104,59,79,10,6,5,5,0,1,0,0,1, Full Time,news,%D and %T plus %M and %s,,
+290821,Alex,Fasolo,CO,20,78,82,99,65,84,11,5,6,2,0,0,1,2,0, Full Time,news,%s from %D and %M on Brennan... also %T,,
+210099,Darren,Jolly,CO,15,71,90,82,68,86,5,11,4,1,23,1,2,0,0, Full Time,news,%H and %P... also %F,,
+250683,Simon,Buckley,CO,9,70,60,88,58,81,12,10,4,1,0,1,1,0,0, Full Time,job,Responsible for Sheppard... %P,,
+295296,Marley,Williams,CO,9,61,72,84,40,57,13,0,2,4,0,0,0,0,0, Full Time,job,Minding Hams... %O,,
+260310,Nathan,Brown,CO,8,57,70,72,47,63,8,7,5,1,0,0,0,0,0, Full Time,job,On Cox at FB... %P and %M,,
+240419,Alan,Toovey,CO,19,53,79,72,34,48,3,5,0,8,0,2,0,0,0, Full Time,job,Following Darling... %P and %T,,
+240232,Ben,Reid,CO,4,51,51,63,44,57,5,8,5,1,0,1,0,0,0, Full Time,job,Has Lynch... %P and %M,,
+240073,Harry,O'Brien,CO,7,47,69,60,38,55,9,6,2,1,0,0,1,0,1, Full Time,brazil,%D and %s,job,Running off Hill
+260394,Chris,Dawes,CO,3,42,34,52,37,49,5,6,3,1,2,1,1,0,2, Full Time,news,Kicked %s from %P and %M on Glass,,
+260246,Tyson,Goldsack,CO,3,41,38,50,33,42,4,6,1,2,0,3,0,0,3, Full Time,news,%s from %P on Brown,,
+272005,Marty,Clarke,CO,3,36,18,45,32,45,6,6,3,0,0,0,1,0,0, Full Time,news,Matched up on Gaff... %D and %M,subbed,Subbed off in Q4 for Young
+294826,Tom,Young,CO,1,10,25,14,6,9,0,1,0,2,0,0,0,0,0, Full Time,in,%l Chris Tarrant... on in Q4 for Clarke,sub,Started as a sub
+240016,Beau,Waters,WC,36,126,105,91,105,141,19,10,14,4,0,0,3,0,0, Full Time,hot,%O and %T with %M... also %F... racked it up in Q3,,
+210018,Daniel,Kerr,WC,20,96,117,48,76,105,18,11,2,2,0,3,1,1,0, Full Time,news,%P and %s,,
+250034,Ashton,Hams,WC,27,92,77,89,73,91,7,7,6,6,0,2,0,2,1, Full Time,news,%s from %P on Williams.. also %M and %T,,
+280078,Luke,Shuey,WC,15,90,75,55,69,97,15,10,4,3,0,0,0,0,1, Full Time,news,%2 Thomas... %D and %T with %M and %s,,
+220061,Quinten,Lynch,WC,20,86,90,69,72,91,10,6,7,3,0,1,1,2,1, Full Time,news,%s from %P and %M running up the ground on Reid... also %T,,
+240283,Shannon,Hurn,WC,14,86,113,56,66,90,14,7,6,3,0,0,0,0,0, Full Time,news,%O and %M with %T,,
+200112,Dean,Cox,WC,20,83,119,67,76,89,7,8,5,0,29,2,0,0,0, Full Time,news,Started at FF on Brown... %D and %M plus %H,,
+240124,Matt,Priddis,WC,19,83,83,74,68,99,7,19,2,5,0,1,1,0,0, Full Time,news,%B among %O with %M and %T... went missing in Q3 after a productive first half,swan,Head to head with Swan
+290801,Andrew,Gaff,WC,14,82,101,48,59,84,15,6,3,4,0,0,0,0,0, Full Time,news,Matched up on Clarke... %O,,
+261290,Chris,Masten,WC,19,80,71,52,70,96,12,11,6,1,0,0,2,1,0, Full Time,news,%P and %M... also %F,,
+281080,Brad,Sheppard,WC,19,78,95,56,63,81,11,5,7,2,0,0,0,1,0, Full Time,news,%s from %P and %M on Buckley,,
+250111,Matt,Rosa,WC,15,77,87,66,65,93,8,14,5,4,0,0,2,0,0, Full Time,news,Matched up on Shaw... %O and %M... also %F,,
+271045,Nic,Naitanui,WC,16,67,76,64,59,74,4,7,3,3,15,0,1,1,2, Full Time,fiji,%H and %P with %T and %M... also %s,,
+290838,Jack,Darling,WC,12,65,74,50,55,69,8,4,5,2,0,1,1,2,0, Full Time,news,%s from %O and %M on Toovey,,
+261209,Josh,Hill,WC,15,64,70,59,48,60,6,2,3,5,0,1,0,2,0, Full Time,news,O'Brien on him... donuts in Q1... %s from %D,,
+270928,Scott,Selwood,WC,8,60,57,45,48,69,8,9,3,3,0,0,1,0,0, Full Time,sore,%2 Beams... %P and %T... left shoulder knock in Q3,,
+280324,Jacob,Brennan,WC,4,47,53,33,36,49,7,4,3,2,0,0,0,0,1, Full Time,job,Responsible for Fasolo... %P and %M with %T,,
+200074,Darren,Glass,WC,5,45,46,45,40,54,3,8,5,2,0,0,1,0,0, Full Time,job,Standing Dawes... %P and %T with %M,,
+250317,Eric,Mackenzie,WC,3,41,43,19,33,45,8,5,2,0,0,1,0,0,0, Full Time,job,Following Cloke... %D,,
+280441,Patrick,McGinnity,WC,2,35,33,36,27,39,2,7,1,3,0,0,0,0,0, Full Time,job,Minding Blair... %P and %T,,
+260303,Mitchell,Brown,WC,2,30,22,18,25,33,5,3,3,0,0,0,0,0,0, Full Time,job,Has Goldsack... %D and %M,subbed,Subbed off in Q3 for Swift
+271073,Thomas,Swift,WC,1,23,51,16,18,27,3,5,0,1,0,0,0,0,0, Full Time,news,On in Q3 for Brown,sub,Started as a sub

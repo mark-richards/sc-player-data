@@ -3,8 +3,8 @@ positional_ratings.py — Compute 0-10 positional strength ratings per coach.
 
 Algorithm:
   1. Filter player_match_results to on_field == True
-  2. Group by (round, coach, position) → sum points
-  3. Per coach per position: rolling 7-game mean
+  2. Group by (round, coach, position) → mean score
+  3. Per coach per position: rolling 7-game mean of those averages
   4. At current_round: normalise each position 0-10 across all coaches
   5. ALL = mean of the four position ratings
 """
@@ -30,10 +30,10 @@ def compute_positional_ratings(
     # Only keep known positions
     df = df[df["played_position"].isin(POSITIONS)]
 
-    # Total on-field points per coach per round per position
+    # Average on-field score per coach per round per position
     agg = (
         df.groupby(["round_x", "coach_first_name", "played_position"])["points_x"]
-        .sum()
+        .mean()
         .reset_index()
     )
     agg.columns = ["round", "coach", "position", "points"]

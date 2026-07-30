@@ -1,0 +1,48 @@
+Sydney,Swans,Collingwood,Magpies,R20,10.11.71,14.16.100, Full Time
+Aug 10,2013,7.40,Homebush,Seven,280965,10392005,syd-v-coll,0,Fine,22,,
+
+<em style='color:#a0a'>JDDD</em>: Well if they have knocked off sydney&#044; i don't see how you can consider them pretenders?<br><em style='color:#000'>McKenzie2</em>: What's my team got to do with anything? How many AFL Games have you played? 2cab<br><em style='color:#000'>nugget1</em>: 132 very happy with that&#044; especially cos opponent has gablett as c<br><em style='color:#000'>rosty63</em>: 6/6 roos west c freo<br><em style='color:#000'>ballbag</em>: VC jelwood gonna help many teams win over C GAJ's<br><em style='color:#000'>2cabs</em>: You wish McKenzie2. Who do you barrack for?<br><em style='color:#a0a'>frenzy</em>: chokes SC pls?<br><em style='color:#000'>Guysmiley</em>: @matthius I have been changing that tip every 10 mins as u can change until the bounce&#044; started with eagles&#044; still a ?<br><em style='color:#000'>McKenzie2</em>: Collingwood are pretenders this year. <br><em style='color:#000'>2cabs</em>: Sweet win. Couldnt care how my DT goes now.<br><em style='color:#000'>matthius</em>: heath shaw - next week youre out. too hot and cold<br><em style='color:#000'>2cabs</em>: Yes! Carn the Pies.<br>
+230253,Jarrad,McVeigh,SY,26,124,150,160,94,132,22,13,4,5,0,3,1,0,0, Full Time,magnet,%P and %M with %T,job,Running off Thomas,445600,128,491700,135,Centre,3,18,97.3,105,3.23,2.33
+270742,Kurt,Tippett,SY,32,100,130,118,88,98,10,3,6,1,0,4,0,6,2, Full Time,target,First goal... %s from %P and %G on Brown then Keeffe,injured,Left quad strain in Q4 and mothballed late,370000,57,427500,72,Forward,8,7,80.3,88.6,4.07,4.14
+280762,Shane,Mumford,SY,28,95,111,117,77,88,6,4,4,6,28,5,0,0,0, Full Time,news,%H and %D with %T and %M,,,363900,27,447100,41,Ruck,41,15,72.9,85.6,3.12,4.46
+260382,Josh P.,Kennedy,SY,30,83,93,107,62,90,7,12,1,8,0,0,1,1,0, Full Time,news,%2 Ball... %O and %T,,,401100,135,472700,143,Centre,12,18,89.4,105.6,9.01,30.16
+230132,Nick,Malceski,SY,20,82,90,113,59,87,15,5,2,7,0,2,3,0,0, Full Time,news,%P and %T... also %M and %F,,,396000,120,457800,124,Back,9,18,85.7,93.3,11.02,7.26
+200023,Rhyce,Shaw,SY,19,80,71,101,68,85,12,5,9,0,0,0,0,1,1, Full Time,news,%s from %P and %M starting forward again in a role on his brother Heath Shaw,,,303300,124,368900,116,Back,2,3,48.3,64.7,1.11,1.10
+200071,Ryan,O'Keefe,SY,19,77,87,102,56,81,11,8,2,6,0,1,1,0,0, Full Time,news,%2 Beams... %P and %T with %M,,,477900,109,539500,107,Centre,5,18,102.3,108,6.62,3.08
+291206,Mike,Pyke,SY,11,74,85,89,64,78,4,8,5,3,18,1,0,0,0, Full Time,news,%D and %M when forward on Goldsack... %H and %T in ruck support,,,310100,93,389600,142,Ruck,38,18,73.2,87,4.43,4.01
+291856,Tom,Mitchell,SY,19,74,60,97,53,76,7,9,2,7,0,0,0,0,1, Full Time,news,%D and %T with %M,,,399100,90,417100,105,Centre,6,9,97,94.3,43.61,46.15
+261212,Craig,Bird,SY,14,68,74,89,53,78,11,9,2,4,0,1,2,0,0, Full Time,news,%O and %T,,,387700,118,420200,128,Forward Centre,14,16,70.5,71.5,2.00,1.82
+290117,Daniel,Hannebery,SY,8,61,79,73,51,73,8,13,2,1,0,0,0,0,1, Full Time,sore,%P including %B with %M and %s... right shoulder knock in Q3,swan,Head to head with Swan,435200,140,506000,154,Centre,4,18,92.9,99.6,5.96,8.23
+990011,Jude,Bolton,SY,10,61,84,77,48,62,7,5,3,3,0,1,0,1,2, Full Time,news,Manning up Maxwell... %s from %P and %M... also %T,,,291200,68,320400,85,Forward Centre,24,18,64.8,70.7,2.74,3.49
+210027,Ted,Richards,SY,8,57,77,76,45,63,12,4,3,2,0,2,2,0,0, Full Time,job,Following Cloke... %D and %M,,,221400,45,319000,39,Back,25,18,48,65.5,2.57,2.51
+240226,Kieren,Jack,SY,18,57,75,68,46,66,3,13,0,4,0,0,0,1,0, Full Time,tagged,Tagged by Macaffer... %P and %T plus %s,,,485600,48,574400,69,Centre,15,18,105.9,114.6,15.45,9.32
+290778,Luke,Parker,SY,9,53,44,71,40,57,7,5,3,4,0,0,1,0,0, Full Time,news,%O and %M with %T,,,390300,66,402900,85,Centre,26,18,87.2,90.1,2.33,2.32
+240072,Heath,Grundy,SY,4,47,49,60,43,60,6,8,5,1,0,0,2,0,0, Full Time,job,On Lynch... %M and %D,,,232600,39,292500,55,Back,39,18,55.8,64.7,1.53,1.50
+261257,Andrejs,Everitt,SY,3,44,50,55,38,54,6,8,3,1,0,0,1,0,0, Full Time,news,%D and %M,,,279300,47,313700,42,Forward,13,13,59.5,65.7,0.84,0.39
+250212,Jesse,White,SY,3,40,39,48,36,50,6,7,2,0,3,0,1,0,2, Full Time,news,%s from %D and %M on Keeffe,,,262100,38,316400,51,Forward,18,8,58.4,64.3,1.13,0.97
+290307,Dane,Rampe,SY,3,31,37,42,26,33,7,0,4,0,0,1,1,0,0, Full Time,news,%M and %P,job,Takes Reid,265900,32,316500,59,Centre,43,16,54,62.1,3.44,2.82
+250338,Nick,Smith,SY,2,27,39,36,19,27,2,3,1,3,0,0,0,0,0, Full Time,job,Responsible for Elliott... %D and %T,,,307600,23,375100,41,Back,40,18,59.8,68.2,0.83,0.93
+230140,Ben,McGlynn,SY,1,17,19,22,14,18,3,1,2,0,0,0,0,0,0, Full Time,injured,Left shoulder knock in Q1.... %P and %M on Williams,subbed,Subbed off at 3QT for Brandon Jack,294800,104,361500,91,Forward,21,15,70.7,74.2,0.88,1.26
+295906,Brandon,Jack,SY,0,6,0,9,5,9,3,0,0,0,0,0,1,0,0, Full Time,news,On after 3QT for McGlynn,sub,Started as a sub,176200,57,192400,52,Centre,33,7,40.3,41.7,4.47,4.11
+260257,Scott,Pendlebury,CO,37,117,150,100,96,138,11,24,2,7,0,2,2,1,0, Full Time,star,%P and %T with %M... also %F and %s,,,530400,161,588800,168,Centre,10,18,111.8,125.3,45.73,47.64
+220005,Luke,Ball,CO,27,115,114,86,90,125,15,16,4,6,0,3,1,0,2, Full Time,heart,%2 Kennedy... %D and %T... right hand knock in Q2... also %s,mrp,A high bump on Bird in Q2 will be looked at,440500,101,474600,96,Centre,12,9,97.6,98.6,6.93,9.65
+271001,Dayne,Beams,CO,16,108,96,67,85,117,17,15,4,3,0,3,0,0,0, Full Time,gun,%2 O'Keefe... %D and %M with %T,,,581700,132,622400,156,Centre,17,4,115.3,113,7.16,2.45
+280965,Steele,Sidebottom,CO,22,107,109,73,81,108,16,7,4,5,0,1,0,2,0, Full Time,hot,%O and %M plus %s,,,479800,44,516300,33,Centre,22,18,97.8,104.4,3.77,3.13
+240073,Harry,O'Brien,CO,27,103,98,78,79,109,14,9,5,6,0,0,1,1,1, Full Time,hot,%D and %M with %T and %s,,,402600,58,428900,87,Back,8,15,85.7,87.9,4.96,3.25
+220105,Dane,Swan,CO,19,94,128,64,73,108,13,18,1,4,0,0,0,0,0, Full Time,news,%2 Hannebery... %O with %B... also %T... quiet early but lifted in Q2,,,592000,108,593900,101,Centre,36,18,118.8,118.2,53.20,42.55
+293801,Jamie,Elliott,CO,21,90,100,66,75,91,11,5,5,2,0,2,0,3,4, Full Time,news,%s from %D and %M on Smith,,,268700,57,293500,58,Forward,19,17,66.2,70.5,2.81,4.35
+290289,Josh,Thomas,CO,17,85,113,54,70,93,13,8,4,2,0,1,1,2,0, Full Time,x-factor,%s from %O and %M starting forward on McVeigh,,,315500,120,342900,136,Centre,24,14,70.6,72.5,1.38,1.40
+295256,Marley,Williams,CO,14,78,94,49,63,87,13,8,6,2,0,0,1,0,0, Full Time,job,In defence again on McGlynn... %O and %M,,,348300,77,373200,78,Back,46,11,69.5,72,0.53,0.60
+261181,Brent,Macaffer,CO,13,74,69,48,53,76,13,4,3,5,0,0,1,0,1, Full Time,news,%D and %T with %M and %s,tagger,Tagging Jack,299700,84,284500,76,Forward,3,17,68.1,62.3,18.86,23.00
+240366,Travis,Cloke,CO,16,71,68,54,60,73,9,2,6,2,1,1,1,2,3, Full Time,news,Booted %s from %P and %G on Richards,,,430900,91,456800,92,Forward,32,17,95,97.2,21.40,16.06
+291386,Ben,Sinclair,CO,9,61,72,42,48,66,9,7,4,2,0,0,0,0,0, Full Time,job,Minding the resting mid which is either Parker or Mitchell... %D and %M,,,267600,48,290500,22,Forward,28,13,53.8,57.5,1.14,1.07
+220061,Quinten,Lynch,CO,10,59,59,47,54,68,7,4,7,1,10,0,2,0,1, Full Time,news,%s from %P and %G on Grundy... also %H,,,300000,45,316600,42,Forward,21,14,70.5,72,1.48,2.25
+260246,Tyson,Goldsack,CO,14,56,53,61,40,57,4,5,3,7,0,0,1,0,0, Full Time,news,In defence on the resting ruck... %P and %T with %M,,,278600,49,332300,62,Forward,6,8,57.1,71.4,0.96,0.88
+230263,Nick,Maxwell,CO,9,55,44,47,47,63,6,7,6,2,0,0,1,0,0, Full Time,job,Zoning off Bolton... %P and %M with %T,,,313800,90,339100,78,Back,5,14,66.2,68.4,1.13,1.01
+290314,Lachlan,Keeffe,CO,8,55,64,39,47,63,8,6,6,1,0,0,1,0,0, Full Time,job,On White then shifted to Tippett in Q3... %D and %M,,,258200,42,321100,26,Back,23,3,60,77.3,0.18,0.24
+293957,Brodie,Grundy,CO,16,55,76,50,54,72,3,10,0,2,21,0,3,1,0, Full Time,news,%H and %P plus %s,,,107200,-79,114500,-74,Ruck,35,2,74.5,72.5,16.47,8.18
+240232,Ben,Reid,CO,11,52,65,35,47,58,7,4,4,0,0,1,1,2,1, Full Time,news,Starting forward on Rampe... %s from %D and %M,,,358400,85,393000,64,Back,20,17,71.9,81.9,2.02,2.81
+240700,Heath,Shaw,CO,8,51,64,32,45,60,8,7,5,0,0,1,1,0,0, Full Time,tagged,Forward tag on him by his brother Rhyce Shaw... %P and %M,,,396600,67,488000,108,Back,39,15,86.7,101.7,15.05,28.23
+280104,Jarryd,Blair,CO,3,44,55,35,33,46,5,7,0,3,0,2,0,0,1, Full Time,news,%D and %T plus %s,,,358900,59,376900,41,Forward Centre,11,17,80.8,80.5,1.82,1.73
+250133,Sam,Dwyer,CO,2,26,25,24,22,30,2,5,2,1,0,0,0,0,0, Full Time,news,On in Q3 for Brown... %P,sub,Started as a sub,352000,115,374900,106,Forward Centre,41,16,69,72.8,12.87,15.24
+260310,Nathan,Brown,CO,2,15,44,13,17,27,2,4,2,1,0,0,3,0,0, Full Time,witcheshat,At FB on Tippett.... %D and %M... %F as well,subbed,Subbed off in Q3 for Dwyer,191000,23,244600,43,Back,16,17,41.1,49.8,2.01,1.63

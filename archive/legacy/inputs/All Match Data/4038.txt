@@ -1,0 +1,48 @@
+Fremantle,Dockers,Carlton,Blues,R5,7.15.57,10.5.65, Full Time
+Apr 27,2012,8:45,Subiaco,Seven,261756,10340502,430045,0,Cloudy,28,,
+
+<em>mufc</em>: where've u gone kav not answerin my Q? time for your nap<br><em title="CLINT_OFF">clint_off</em>: yes glam77...that would count as a kick????<br><em title="CLINT_OFF">clint_off</em>: Great choice for gun. Just dont give the nut one..<br><em>mufc</em>: what league kavastar sc or dt? where r u ranked in either<br><em>mufc</em>: these sc scores are crap no one over 130? and only 9 tonnes<br><em title="LIVERPOOL">liverpool</em>: imagine if judd played the same game swan did 300 sc points me thinking<br><em>E Kavastar</em>: Where are you ranked mufc?<br><em>glam77</em>: did judd get SC points for stopping waites goal?<br><em title="CLINT_OFF">clint_off</em>: Griffin 6 tackles are dt gold..<br><em>mufc</em>: ive gotta donut too yet im not complainin so toughrn up<br><em title="CLINT_OFF">clint_off</em>: Fyfe is awesome.  What a game.  Dont think he will c the season out but well done<br><em>mufc</em>: u see kavastar the thing is no one cares we know your crap you dont have to tell us<br>
+240052,David,Mundy,FR,26,107,110,139,79,112,16,11,4,6,0,0,0,0,1, Full Time,hot,%2 Robinson... %D and %T with %M,,
+292026,Michael,Barlow,FR,20,105,105,133,84,117,13,15,5,5,0,1,1,0,3, Full Time,hot,%2 Curnow... %D and %M with %T and %s,,
+200032,Matthew,Pavlich,FR,21,100,95,126,83,103,11,9,9,3,0,3,0,1,1, Full Time,hot,Booted %s from %P and %G on Jamison... also %T,,
+280726,Tendai,Mzungu,FR,20,100,97,129,75,103,17,9,4,4,0,2,0,0,1, Full Time,hot,%O and %M with %T and %s,,
+280386,Clancee,Pearce,FR,45,94,86,126,70,102,8,12,4,10,0,0,2,0,0, Full Time,news,Matched up on Scotland... %O and %T,,
+291570,Nathan,Fyfe,FR,21,91,98,118,68,96,11,11,4,6,0,0,0,0,0, Full Time,heart,Playing a very outside game to protect his dodgy shoulder... %D including %K with %M and %T,,
+261756,Greg,Broughton,FR,26,88,105,118,63,87,9,7,5,8,0,0,0,0,0, Full Time,news,%P and %M with %T,,
+240139,Paul,Duffield,FR,10,87,95,114,65,90,18,5,5,2,0,0,0,0,0, Full Time,news,%D and %M,job,Started back on Judd then got Garlett
+250088,Jonathon,Griffin,FR,27,84,107,101,71,91,3,11,2,6,25,1,1,0,0, Full Time,news,#1 ruck this evening in the absence of Sandilands... %H and %P with %T,,
+280416,Chris,Mayne,FR,20,82,88,106,65,81,9,5,7,4,0,2,0,1,0, Full Time,news,Playing a bit wide of Duigan... %s from %P and %M,,
+250268,Garrick,Ibbotson,FR,14,81,79,105,68,90,15,6,9,0,0,0,1,0,0, Full Time,job,In defence on Walker... %D and %M,,
+200045,Luke,McPharlin,FR,14,70,80,91,58,73,12,2,7,1,0,1,1,1,1, Full Time,switch,Following Waite... %O and %M... switched forward in Q4 in desperation,,
+271015,Matthew,de Boer,FR,20,70,54,93,55,74,5,7,6,6,0,0,1,0,2, Full Time,news,%s from %P and %M with %T,tagger,Forward tag on Gibbs
+230048,Ryan,Crowley,FR,21,65,61,86,51,72,4,8,3,7,0,0,2,1,0, Full Time,news,%O and %T... also %F,tagger,Tagging Judd
+280336,Stephen,Hill,FR,12,60,83,71,50,69,8,11,1,1,0,1,0,1,0, Full Time,tagged,First goal... tagged by Armfield... %P and %s,,
+230107,Michael,Johnson,FR,5,58,58,76,45,60,9,4,5,2,0,0,0,0,0, Full Time,news,%D,,
+260069,Hayden,Ballantyne,FR,14,57,64,75,40,52,9,1,1,4,0,2,0,1,1, Full Time,news,Joseph on him... %s from %P and %T,,
+240552,Zac,Dawson,FR,8,51,51,64,46,61,5,8,6,1,0,0,1,0,1, Full Time,job,Has Hampson... %D and %M,,
+210037,Adam,McPhee,FR,6,47,67,59,40,60,9,9,1,1,0,1,2,0,0, Full Time,news,Playing in defence... %P and %F,,
+290251,Zachary,Clarke,FR,14,43,36,55,33,40,2,1,2,4,7,0,0,1,0, Full Time,news,%H and %T with %D and %s,,
+293535,Lachie,Neale,FR,2,26,21,32,22,30,4,4,2,0,0,0,0,0,0, Full Time,bubble,On in Q3 for Anthony... second game... %O,sub,Started as a sub
+260315,John,Anthony,FR,1,16,9,23,16,21,4,0,3,0,0,1,2,0,0, Full Time,spud,Kicked %s from %P and %M on Henderson,subbed,Subbed off in Q3 for Neale
+230202,Kade,Simpson,CA,37,140,124,95,118,154,20,15,13,1,1,0,0,1,0, Full Time,cherry,%P and %M plus %s,,
+990059,Heath,Scotland,CA,31,120,106,95,99,135,15,15,10,5,0,1,2,0,0, Full Time,seagull,Matched up on Pearce... %D and %M with %T,,
+250105,Marc,Murphy,CA,32,117,118,92,86,120,15,13,4,8,0,2,0,0,0, Full Time,star,%O and %T with %M,,
+290311,Mitch,Robinson,CA,32,106,102,89,86,115,12,9,7,6,0,0,2,2,1, Full Time,gun,%2 Mundy... %P and %T with %M and %s,,
+250417,Bryce,Gibbs,CA,19,94,109,51,74,102,18,7,7,2,0,0,1,0,0, Full Time,tagged,Tagged by de Boer... %D and %M,,
+240014,Andrew,Walker,CA,17,91,84,56,70,93,15,5,4,3,0,0,0,2,0, Full Time,news,%s from %P and %M with %T on Ibbotson,,
+250090,Jordan,Russell,CA,20,91,75,74,72,96,11,9,8,4,0,0,0,0,0, Full Time,news,%O and %T with %M,,
+270146,Ed,Curnow,CA,19,86,86,69,67,93,11,9,6,5,0,0,1,0,0, Full Time,news,%2 Barlow... %P and %M,,
+270326,Lachie,Henderson,CA,18,82,96,55,69,90,13,6,10,1,0,0,1,0,0, Full Time,job,Has Anthony... %M and %O,,
+270737,Shaun,Hampson,CA,21,77,75,77,68,79,3,6,3,3,28,1,0,1,0, Full Time,news,%H and %D plus %T when in ruck... %s from %M when forward on Dawson,,
+220110,Jarrad,Waite,CA,11,65,75,47,52,64,9,3,5,2,0,2,0,1,1, Full Time,news,Booted %s from %P and %G on McPharlin,,
+261318,Aaron,Joseph,CA,10,64,53,56,49,66,7,6,5,4,0,0,0,0,0, Full Time,news,%M and %D,job,Minding Ballantyne
+261299,Matthew,Kreuzer,CA,15,61,64,50,54,64,5,5,2,1,25,1,0,0,0, Full Time,news,%H and %P,,
+240060,Eddie,Betts,CA,14,60,63,39,47,63,9,6,2,2,0,1,0,1,0, Full Time,news,%s from %O and %T,,
+261043,Michael,Jamison,CA,9,60,63,23,54,78,14,7,5,0,0,1,4,0,0, Full Time,job,Following Pavlich... %M and %P... also %F,,
+220056,Chris,Judd,CA,7,59,87,39,46,64,9,8,1,3,0,3,1,0,1, Full Time,creepy,Started forward on Duffield but mostly tagged by Crowley... %D and %T,,
+220108,Bret,Thornton,CA,12,58,63,34,48,63,10,5,6,0,0,0,0,0,0, Full Time,news,%D and %M,,
+261009,Nick,Duigan,CA,9,54,51,51,39,54,5,6,2,5,0,1,0,0,0, Full Time,job,Zoning off Mayne... %D,,
+260533,Dennis,Armfield,CA,19,53,54,55,34,51,5,3,1,8,0,0,1,0,0, Full Time,tagger,Tagging Hill.... %O and %T,,
+270653,Jeff,Garlett,CA,9,52,59,33,42,52,8,1,3,1,0,0,0,2,1, Full Time,news,%s from %O and %M on Ibbotson,,
+292511,Zach,Tuohy,CA,5,51,38,33,42,57,9,3,5,2,0,1,2,0,0, Full Time,news,%D and %T with %M,subbed,Subbed off in Q4 for Lucas
+281079,Kane,Lucas,CA,0,11,5,10,8,12,1,2,0,1,0,0,0,0,0, Full Time,news,On in Q4 for Tuohy,sub,Started as a sub

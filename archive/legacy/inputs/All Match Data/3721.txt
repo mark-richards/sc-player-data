@@ -1,0 +1,48 @@
+West Coast,Eagles,Sydney,Swans,R3,13.10.88,15.11.101, Full Time
+Apr 9,2011,7:40,Subiaco,Fox Sports,240406,10310305,5015,22,A few showers,17
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>fuzzyone</em>: chadwick - I would have thought 1st quarter efforts are just as important to the end result -  wouldn't you?<br><em>Paliente</em>: if Selwood doesn't score over 100 tomorrow i would have 0 mids who scored > 100. All but 2 scored > 100 last week ffs<br><em>eagletim</em>: those sc scores are not accurate... just wait for the official scores on the hs website<br><em>mrpotato</em>: how did mattner score higher than jack -_-<br><em>sharpynate</em>: kennedy no supercoah score?<br><em>rodallegaa</em>: wtf, kennedy sc?<br><em>u-sta</em>: gaff is an absolute gun 56 in basically a qtr of footy!<br><em>RogerTwose</em>: Goodes killing me every week!<br><em>Slashers</em>: I don't give a flower Everitt, you wont be as consistent as Enright.<br><em>upforgrabs</em>: why only 125 hard to work out<br><em>BlueGlory</em>: josh kenndy (both) 0 each<br><em style='color:#069'>Prospector</em>: again?<br>
+200112,Dean,Cox,WC,34,127,121,150,109,128,16,4,5,1,38,2,0,2,0, Full Time,gun,%H and %D with %M and %s,,
+990020,Andrew,Embley,WC,32,95,114,124,71,99,10,10,3,8,0,1,1,1,0, Full Time,tagged,Tagged by Bird but broke it with a fabulous Q3... %P and %T with %M and %s,,
+271045,Nic,Naitanui,WC,26,87,107,104,72,91,7,7,0,5,28,1,1,1,0, Full Time,fiji,Rotating from FF to ruck... %H with %P and %T plus %s,,
+240124,Matt,Priddis,WC,19,85,107,103,73,103,6,21,2,5,0,4,2,0,1, Full Time,news,%2 Jude Bolton... %O and %T plus %s,,
+230254,Adam,Selwood,WC,15,82,92,100,68,91,12,12,2,2,0,4,1,1,1, Full Time,news,%P and %M plus %s running with Goodes,,
+280441,Patrick,McGinnity,WC,19,79,77,105,58,82,11,7,3,6,0,1,1,0,1, Full Time,job,Minding McGlynn... %D and %M with %T,sore,Clash of heads with Smith in Q4 left him groggy
+250111,Matt,Rosa,WC,19,76,49,101,63,90,11,9,6,4,0,0,3,0,0, Full Time,tagger,Tagging McVeigh... %O and %T with %M,,
+270928,Scott,Selwood,WC,19,74,74,96,54,78,8,10,2,6,0,0,0,0,0, Full Time,tagger,Tagging O'Keefe... %D and %T,,
+220061,Quinten,Lynch,WC,21,71,75,86,64,76,9,2,6,0,0,0,1,4,1, Full Time,news,%s from %P and %M on Richards,,
+290838,Jack,Darling,WC,14,69,71,92,56,77,7,7,6,5,2,0,2,0,0, Full Time,cash,%P and %T with %M on Johnson,,
+240406,Josh J.,Kennedy,WC,20,68,64,90,54,67,8,2,6,4,0,2,1,1,1, Full Time,news,Kicked %s from %P and %G on Grundy... also %T,,
+280078,Luke,Shuey,WC,21,65,62,86,51,70,6,6,3,6,0,1,2,1,1, Full Time,news,%O and %T with %M and %s,,
+230281,Mark,Nicoski,WC,8,63,74,81,50,68,11,6,3,2,0,2,1,0,2, Full Time,news,%s from %D and %M on Mattner,,
+240283,Shannon,Hurn,WC,5,52,58,69,43,60,9,5,4,2,0,1,2,0,0, Full Time,job,On Hannebery... %D with %k by foot... also %M,,
+240159,Sam,Butler,WC,4,50,57,65,38,51,8,4,3,2,0,1,0,0,0, Full Time,news,%D and %M plus %T,,
+261214,Will,Schofield,WC,4,50,59,64,41,54,7,5,5,1,0,0,0,0,0, Full Time,news,%P and %M,,
+290801,Andrew,Gaff,WC,9,48,61,60,39,51,9,3,3,0,0,0,0,1,0, Full Time,news,On in Q3 for MacKenzie... %P and %M plus %s,sub,Started as a sub
+261911,Brad,Ebert,WC,10,47,48,58,38,51,3,7,2,3,0,0,0,1,0, Full Time,news,%B among %O wit%M and %s in a small forward role on Smith,,
+250317,Eric,MacKenzie,WC,4,42,48,55,34,48,6,5,3,2,0,0,1,0,0, Full Time,job,Standing White... %O and %M plus %T,subbed,Subbed off for Gaff in Q3
+200074,Darren,Glass,WC,4,37,45,45,33,42,4,6,4,0,0,1,0,0,0, Full Time,job,On Reid... %D and %M,,
+210018,Daniel,Kerr,WC,3,36,52,44,30,45,4,9,0,2,0,1,1,0,0, Full Time,tagged,Tagged by Jack... %O,,
+260303,Mitchell,Brown,WC,3,31,29,42,22,30,3,2,2,3,0,0,0,0,0, Full Time,job,Following Everitt... %M and %O with %T,,
+990011,Jude,Bolton,SY,49,124,130,138,84,124,8,12,0,19,1,2,3,1,0, Full Time,hot,%2 Priddis... %P and an AFL record %T... also %F and %s,,
+240226,Kieren,Jack,SY,44,118,103,85,78,114,20,3,3,12,0,1,2,0,0, Full Time,hot,%T and %O with %M,tagger,Tagging Kerr
+980073,Adam,Goodes,SY,31,115,133,87,92,119,15,6,7,5,0,0,1,3,2, Full Time,star,%s from %P and %M with %T on Adam Selwood,,
+261257,Andrejs,Everitt,SY,26,103,125,69,87,105,16,2,12,1,0,2,1,2,0, Full Time,hot,%s from %O and %M... switched forward in the second half on Brown and was instrumental in the late Q4 heroics for the win,,
+230253,Jarrad,McVeigh,SY,25,84,78,69,59,84,11,6,2,8,0,1,1,0,3, Full Time,tagged,Tagged by Rosa... %P and %T with %M and %s,,
+280762,Shane,Mumford,SY,51,84,98,100,72,96,2,7,2,10,33,0,5,0,0, Full Time,news,%H and %T with %P and %F,,
+230140,Ben,McGlynn,SY,16,81,75,58,64,83,11,5,4,3,0,0,0,2,2, Full Time,news,%s from %P and %M on McGinnity,,
+260382,Josh P.,Kennedy,SY,14,81,109,60,62,90,11,12,2,5,0,1,1,0,0, Full Time,news,%P and %M with %T,,
+250338,Nick,Smith,SY,16,80,97,63,65,87,9,11,4,3,0,1,0,1,0, Full Time,job,%D and %M plus %s on Ebert,,
+220063,Martin,Mattner,SY,18,76,114,66,62,81,8,9,6,4,0,3,1,0,0, Full Time,job,Minding Nicoski... %O and %M,,
+200023,Rhyce,Shaw,SY,19,71,78,43,52,72,13,2,3,4,0,0,1,1,0, Full Time,news,%D and %T with %M plus %s,,
+250212,Jesse,White,SY,16,70,108,53,60,74,8,4,3,2,4,1,1,3,1, Full Time,news,First goal... kicked %s from %D on MacKenzie... also %T and %H,,
+200071,Ryan,O'Keefe,SY,19,68,73,58,50,73,8,8,2,6,0,0,1,0,1, Full Time,tagged,Tagged by Scott Selwood... %O and %T with %M and %s,,
+290117,Daniel,Hannebery,SY,15,66,56,58,46,63,8,4,2,7,0,3,1,0,0, Full Time,news,%P and %T with %M,,
+261212,Craig,Bird,SY,14,53,66,50,36,54,5,7,0,6,0,0,0,0,0, Full Time,tagger,Tagging Embley... %T and %P,,
+240072,Heath,Grundy,SY,7,51,56,11,39,57,14,3,2,0,0,0,1,0,0, Full Time,job,Following Kennedy... %P,,
+281281,Lewis,Jetta,SY,9,50,53,34,36,48,8,1,2,3,0,0,0,1,0, Full Time,news,%O and %M plus %s,,
+291450,Alex,Johnson,SY,9,48,50,37,35,48,7,3,2,4,0,2,1,0,0, Full Time,rookie,%P and %T with %M,job,In defence on Darling
+291357,Gary,Rohan,SY,9,46,66,34,36,46,6,3,2,2,0,1,0,1,1, Full Time,x-factor,On in Q3 for Reid... %P and %M with %T and %s... provided important forward pressure in Q4,sub,Started as a sub
+230010,Paul,Bevan,SY,8,43,41,43,31,43,4,3,2,5,0,1,1,0,1, Full Time,switch,%s from %P and %M plus %T... moved forward in Q3,,
+210027,Ted,Richards,SY,2,23,38,25,18,24,1,4,1,2,0,1,0,0,0, Full Time,job,Standing Lynch... %O and %T,,
+290188,Samuel,Reid,SY,0,12,10,10,11,15,1,3,1,0,0,0,0,0,0, Full Time,injured,Glass sitting on him... %P... right calf injury in Q3,subbed,Subbed off in Q3 for Rohan

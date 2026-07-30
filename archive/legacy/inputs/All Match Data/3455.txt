@@ -1,0 +1,48 @@
+Adelaide,Crows,Richmond,Tigers,R7,15.14.104,7.12.54, Full Time
+May 09,2010,4:40,Footy Park,Fox Sports,280804,10280707,5015583,4998,Fine,23
+The style sheets are taking a little longer than expected but it will come...,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>bren</em>: bower is definately out tomorrow its on CFC website<br><em>the1</em>: Bower's playing you muppet!!!<br><em>JoeMontana</em>: SC is a joke&#044; 5 Tiges got 100's&#044; 4 CATS did&#044; WHAT A JOKE!! At leat DT is closer to the truth&#044;5 Cats with a 100&#044; 3 Tiges!<br><em>kenneth</em>: such shower who ever got bower<br><em>blair36</em>: Bower is out for 4 weeks with a quad<br><em>redbulldaz</em>: You re the joke off S.A. were the pathetic Adelaide Crows. Were slower and weaker than our foes!<br><em>weathergur</em>: Rumour going round Bower is out of tomorrow nights game<br><em>The_Dohnut</em>: Thanks<br><em>maich</em>: HTB Holding the ball<br><em>valencia09</em>: all spuds man all spuds<br><em>living21</em>: ill get a fair showerin scor fo sc 1850 :(<br><em>Pluggs</em>: Aww no haha freo are killing the pig<br>
+210016,Scott,Thompson,AD,32,121,112,156,96,123,13,10,8,7,0,4,1,1,3, Full Time,star,Tagged by Jackson... %D and %T with %s and %4 frees for... excellent Q4 to steer the Crows to their first win of the season
+261142,Bernie,Vince,AD,32,109,99,147,85,120,14,10,8,8,0,0,3,0,0, Full Time,hot,Tagged by Polo... %D and %M with %T and %F
+240370,Richard,Douglas,AD,26,108,133,138,86,106,14,5,8,4,0,3,0,2,1, Full Time,x-factor,Tagged Deledio... %P and %M with %T... his %s was instrumental in Q4 to set up the win
+960036,Simon,Goodwin,AD,20,108,95,139,80,114,18,12,3,5,0,1,0,0,0, Full Time,hot,%O and %T with %M
+250118,Nathan,van Berlo,AD,25,105,69,134,90,122,13,14,10,3,2,0,2,0,0, Full Time,hot,%D including %B... also %T and %M
+220086,Brent,Reilly,AD,26,98,86,130,71,98,11,8,5,8,1,0,0,0,1, Full Time,job,On Edwards on a HBF... %P and %T
+210056,Graham,Johncock,AD,21,93,128,117,77,99,12,9,8,2,0,1,0,1,0, Full Time,injured,%P and %M with %T... also %s late in Q4... came off in Q4 holding his left shoulder after falling on it in a marking contest and didn't return
+270742,Kurt,Tippett,AD,19,83,87,97,76,86,9,1,5,0,14,1,1,4,3, Full Time,garbage,%s from %P on McGuane... also %H... much of his scoring late in Q4 junk time
+960023,Andrew,McLeod,AD,16,83,101,107,67,90,14,5,4,3,0,1,2,2,0, Full Time,news,HFF role with Tambling not paying him enough attention... %O and %M plus %s with a great Q3
+240546,Ivan,Maric,AD,23,80,91,94,74,88,6,5,4,2,37,1,2,0,0, Full Time,news,%H and %D with %M
+980002,Tyson,Edwards,AD,14,76,74,99,58,78,10,7,5,4,0,1,0,0,0, Full Time,news,%P and %T with %M
+220009,Nathan,Bock,AD,13,74,102,93,61,81,11,9,6,1,0,1,0,0,0, Full Time,job,Had Rance... %P
+261138,Jared,Petrenko,AD,19,68,78,85,56,75,6,10,3,4,0,2,1,1,0, Full Time,news,%D and %T
+261263,Chris,Schmidt,AD,12,67,67,84,57,75,8,9,7,1,0,0,0,0,0, Full Time,job,Had White on a HBF... %M and %P
+220093,Ben,Rutten,AD,9,61,85,76,51,69,4,11,5,3,0,0,0,0,0, Full Time,job,On Riewoldt... %D and %T with %M
+990012,Brett,Burton,AD,8,59,47,79,48,62,11,1,7,1,0,0,1,0,2, Full Time,news,Thursfield on him... %s from %G and %P
+230174,Jason,Porplyzia,AD,15,58,70,70,47,60,7,4,1,2,0,0,0,3,0, Full Time,news,%s from %P on Tuck
+200092,Michael,Doughty,AD,9,48,82,60,41,54,7,5,3,1,0,1,1,1,0, Full Time,job,Minded Nahas... %P and %M plus %s
+200072,Scott,Stevens,AD,4,42,38,57,33,44,5,2,4,3,2,0,1,0,0, Full Time,news,Moore on him
+270964,Myke,Cook,AD,3,41,29,52,33,44,6,4,3,1,2,0,0,0,0, Full Time,news,%P
+280804,Phil,Davis,AD,3,40,37,52,31,42,7,3,3,1,0,0,0,0,0, Full Time,cash,%D and %M
+261351,Matthew,Jaensch,AD,3,38,40,51,27,37,5,2,2,3,0,0,0,0,1, Full Time,bubble,Second game
+230279,Kelvin,Moore,RI,25,109,118,86,89,115,14,9,11,4,0,2,1,0,1, Full Time,hot,Had Stevens... %P and %T with %M
+240707,Daniel,Jackson,RI,44,105,114,100,74,105,11,8,4,12,0,2,2,0,0, Full Time,hot,Tagged Thompson... %D and %T
+200109,Shane,Tuck,RI,32,103,101,94,87,118,10,12,9,6,1,0,3,1,0, Full Time,hot,Big job on Porplyzia... %O and %M with %T plus %s... also %F
+240336,Brett,Deledio,RI,14,91,83,52,75,99,16,8,9,0,0,0,0,0,0, Full Time,tagged,Tagged by Douglas... %P and %M
+260930,Shane,Edwards,RI,16,90,118,56,72,95,14,9,4,2,0,2,0,1,2, Full Time,news,Played small forward today on Reilly... %s from %P
+270896,Trent,Cotchin,RI,19,86,96,73,62,85,10,8,3,7,0,2,0,0,1, Full Time,news,%P with %b by hand... also %T and %s
+230216,Richard,Tambling,RI,19,85,81,72,67,87,10,6,9,4,0,0,0,0,0, Full Time,job,%O and %M with %T on a HBF with responsibility for McLeod... really let McLeod get away in Q3
+220082,Graham,Polak,RI,14,72,70,62,56,71,8,4,6,4,4,1,0,0,1, Full Time,news,%P and %M with %T and %H
+250623,Robin,Nahas,RI,16,72,84,64,55,71,7,4,3,5,0,0,0,2,2, Full Time,news,%s from %O on Doughty
+250662,Will,Thursfield,RI,9,64,66,48,51,66,9,4,7,2,0,0,0,0,0, Full Time,job,Followed Burton... %P and %M
+250395,Jack,Riewoldt,RI,11,63,71,53,50,61,7,1,5,3,1,0,0,2,0, Full Time,news,Rutten on him... %D with %T
+210048,Chris,Newman,RI,10,62,67,47,47,66,9,5,4,4,0,0,1,0,0, Full Time,news,%P and %T
+240256,Luke,McGuane,RI,9,62,107,47,52,72,8,9,5,2,0,0,1,0,0, Full Time,in,%l Mitch Farmer... on Tippett... %O
+292500,Jeromey,Webberley,RI,5,61,50,33,45,60,12,2,4,2,0,1,0,0,0, Full Time,rookie,First game... %O and %M
+260104,Andrew,Collins,RI,4,56,50,41,44,61,8,6,3,3,1,1,1,0,0, Full Time,news,%P and %T with %M
+290847,Dustin,Martin,RI,7,54,58,20,43,66,13,6,1,2,0,1,3,0,0, Full Time,cash,%D including %k by foot... got caught HTB a lot among %F
+261910,Ben,Nason,RI,4,49,47,37,38,54,7,5,3,3,0,0,1,0,0, Full Time,cash,%O and %M
+270941,Tyrone,Vickery,RI,9,47,61,50,44,54,1,7,2,2,18,1,1,0,0, Full Time,news,%H
+261362,Alex,Rance,RI,3,40,37,33,31,43,5,4,2,3,0,1,1,0,1, Full Time,news,Bock on him... %O
+240389,Matt,White,RI,9,37,40,30,28,37,5,0,2,3,0,0,1,1,1, Full Time,news,First goal... played a HFF on Schmidt... %s from %D
+250066,Dean,Polo,RI,2,37,48,25,30,42,5,7,1,1,0,1,0,0,0, Full Time,mrp,Taggied Vince... %D... rabbit punch on Douglas in Q4 will probably get him suspended given his record
+290198,David,Astbury,RI,3,26,20,27,22,30,2,3,3,2,0,0,1,0,0, Full Time,cash,%D and %M with %T

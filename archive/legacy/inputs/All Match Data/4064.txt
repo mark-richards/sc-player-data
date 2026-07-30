@@ -1,0 +1,48 @@
+Collingwood,Magpies,Geelong,Cats,R8,14.12.96,11.18.84, Full Time
+May 18,2012,7:50,MCG,Seven,210003,10340801,430071,0,Chance of a shower,16,,
+
+<em>The Bomber</em>: fasolo did take a sidestep...fifty was a bit harsh<br><em>13Brummy</em>: flower you smedts<br><em>maccamlc</em>: Are the ones with 6+ premos in this match not worried about Round 12?<br><em>therichone</em>: was at the game&#044; fasolo faked the handball but never deviated off his line<br><em>Magic33</em>: I don't like supercoach - do they score it using a dart board?<br><em>Jmachete</em>: 767*<br><em>Jmachete</em>: 740 from 5 ;)<br><em>Zombify</em>: 523 with 4 played&#044; no capt :)<br><em>miker26don</em>: Did Fasolo play on yes or no?<br><em>Patty19</em>: 473 with 4 played ohh yeah<br><em>djmckf</em>: Pendles 3 Votes&#044; Selwood 2&#044; Sidebum 3 sorry monty :)<br><em>Seb78</em>: WTF Sidebottom's SC??<br>
+280965,Steele,Sidebottom,CO,26,139,111,176,111,151,22,16,9,3,0,1,0,0,1, Full Time,star,In a hot vein of form... %O and %T with %M and %s,,
+260257,Scott,Pendlebury,CO,39,133,147,164,105,141,16,14,3,6,0,0,0,4,0, Full Time,heart,First goal... head to head with Corey... %D and %T plus %s... left calf iced temporarily at 3QT but he played on,,
+240700,Heath,Shaw,CO,21,115,133,150,91,123,22,8,9,2,0,1,1,0,0, Full Time,hot,Loose in defence... %D and %M plus %T,,
+271001,Dayne,Beams,CO,19,100,80,129,74,106,18,10,3,4,0,0,0,0,1, Full Time,hot,%P and %M plus %s,,
+220105,Dane,Swan,CO,25,95,97,120,74,106,15,12,2,4,0,0,1,1,1, Full Time,injured,Tagged by Taylor Hunt... %O and %T plus %s... left hamstring tightness in Q4... iced up in the rooms,,
+261799,Sharrod,Wellingham,CO,14,80,85,102,67,91,9,11,7,3,0,0,1,0,1, Full Time,news,%D and %T with %M and %s,tagger,Forward tag on Enright
+240366,Travis,Cloke,CO,20,77,73,100,64,82,13,2,6,2,0,1,2,2,1, Full Time,news,Booted %s from %P on Taylor,,
+260394,Chris,Dawes,CO,16,77,78,95,66,81,7,7,7,2,5,1,0,1,1, Full Time,news,Kicked %s from %P and %M on Lonergan.. also %H,,
+290821,Alex,Fasolo,CO,19,70,81,83,59,74,11,5,2,0,0,1,0,3,2, Full Time,sore,%s from %O on Josh Hunt... left shoulder sore after a clash with Johnson in Q3,,
+240359,Dale,Thomas,CO,9,69,69,90,57,79,10,8,5,3,0,1,2,0,1, Full Time,news,%2 Bartel... %D and %M plus %s,,
+240232,Ben,Reid,CO,13,68,89,92,54,73,12,3,6,3,1,1,2,0,0, Full Time,tomahawk,Has Hawkins... %O and %T,injured,Kick to the left shin in Q2... iced up temporarily... then shut down in Q4
+260246,Tyson,Goldsack,CO,12,66,78,83,58,75,6,7,5,3,0,1,2,2,0, Full Time,news,%s from %D and %M with %T,job,Forward tag on Mackie
+272005,Marty,Clarke,CO,8,66,89,84,51,69,9,8,3,3,0,2,0,0,0, Full Time,sore,One kick in Q1... %P and %T... copped Corey's finger in his left eye in Q2,job,Responsible for Stokes
+291386,Ben,Sinclair,CO,13,61,49,80,46,67,9,7,2,4,0,0,1,0,1, Full Time,news,%s from %P on Guthrie,,
+210099,Darren,Jolly,CO,14,60,88,68,59,73,5,8,1,1,28,3,3,0,0, Full Time,news,Not enjoying the Cats using two big blokes against him... %H and %P,,
+280104,Jarryd,Blair,CO,18,59,76,72,46,66,3,12,0,5,0,0,0,1,0, Full Time,news,%O and %T on Smedts,,
+240419,Alan,Toovey,CO,5,58,73,76,45,60,7,5,5,3,0,0,0,0,0, Full Time,job,Johnson is his man... %P and %T with %M,,
+240073,Harry,O'Brien,CO,9,56,51,72,46,63,8,7,4,2,0,1,1,0,0, Full Time,job,Minding Motlop... %B among %D,,
+230263,Nick,Maxwell,CO,9,53,65,69,45,60,6,6,6,2,0,0,1,0,0, Full Time,news,%D and %M with %T,,
+290314,Lachlan,Keeffe,CO,8,53,44,69,46,60,9,4,7,0,0,0,1,0,0, Full Time,news,Donuts in Q1... %O,ipod,On Podsiadly
+210003,Alan,Didak,CO,3,47,38,60,37,51,10,4,3,0,0,0,0,0,0, Full Time,news,Duncan on him... %D,subbed,Subbed off in Q3 for Buckley
+250683,Simon,Buckley,CO,2,23,21,28,20,27,3,4,2,0,0,0,0,0,0, Full Time,news,On in Q3,sub,Started as a sub
+250321,Joel,Selwood,GE,30,136,140,96,107,146,19,17,7,5,1,2,0,0,1, Full Time,gun,%P including %B with %M and %T,,
+220058,James,Kelly,GE,32,112,82,102,85,121,11,15,5,9,0,0,1,0,1, Full Time,hot,%2 Sidebottom... %P and %T with %M,,
+200035,Corey,Enright,GE,19,95,98,62,74,102,15,10,6,3,0,0,0,0,0, Full Time,tagged,Forward tag on him by Wellingham... %O and %M,,
+220054,Steve,Johnson,GE,14,95,74,60,75,101,16,7,7,3,0,1,1,0,2, Full Time,news,%D and %T on Toovey,,
+200039,Paul,Chapman,GE,15,93,104,57,72,98,15,9,3,3,0,1,0,1,2, Full Time,news,%s from %D,,
+220007,Jimmy,Bartel,GE,20,92,107,65,66,92,14,7,3,6,1,1,0,0,1, Full Time,news,%2 Thomas... %O and %T,,
+230248,Andrew,Mackie,GE,10,83,80,38,63,87,18,4,5,2,0,1,1,0,0, Full Time,tagged,Forward tag on him by Goldsack... %P and %M,,
+230214,Mathew,Stokes,GE,20,81,106,49,69,87,12,7,4,0,0,1,0,3,0, Full Time,news,%s from %O and %M on Clarke,,
+281065,Mitch,Duncan,GE,17,81,77,68,62,81,9,5,4,5,0,0,0,2,0, Full Time,switch,In defence on Didak... played a bit forward too especially after Didak was subbed... %D and %T with %M and %s,,
+261167,Orren,Stephenson,GE,11,77,67,70,65,78,6,6,5,3,17,2,0,0,1, Full Time,cash,His JS has suddenly skyrocketed...%H and %D with %M and %T... also %s,,
+210059,Josh,Hunt,GE,18,76,71,57,57,75,11,4,6,4,0,1,0,0,0, Full Time,mare,Minding Fasolo... %D and %T with %M including plenty of clangers,sore,Corkie near the right knee in Q1
+200034,Joel,Corey,GE,13,73,76,63,60,91,7,17,1,5,0,0,2,0,1, Full Time,news,%2 Pendlebury... %B among %D,,
+261497,Harry,Taylor,GE,13,72,80,49,57,75,11,6,6,2,0,1,0,0,0, Full Time,news,%D and %M,job,Following Cloke
+200131,James,Podsiadly,GE,12,66,56,51,56,68,8,2,5,2,2,1,1,2,3, Full Time,sore,Booted %s from %G and %D on Keeffe... corked left thigh after getting tunnelled by Shaw in Q4,,
+260261,Trent,West,GE,11,62,51,63,57,73,3,9,4,3,15,1,2,0,1, Full Time,news,Stephenson has gone past him in the ruck judging on this performance... %H and %P... also %F,,
+280822,Taylor,Hunt,GE,14,61,66,61,51,69,4,11,4,4,0,2,1,0,0, Full Time,swan,Tagging Swan... %D and %T with %M,,
+261510,Tom,Hawkins,GE,11,60,67,41,56,69,8,4,5,0,2,1,2,2,4, Full Time,news,Booted %s from %P and %G on Reid,,
+230125,Tom,Lonergan,GE,8,46,43,38,32,45,6,3,2,4,0,0,0,0,0, Full Time,job,Standing Dawes... %P and %T,,
+290550,Cameron,Guthrie,GE,2,37,41,15,27,39,8,4,0,1,0,1,0,0,0, Full Time,job,Has Sinclair... %D and %T,,
+280990,Steven,Motlop,GE,8,34,50,18,30,39,6,3,2,0,0,1,1,1,0, Full Time,news,%s from %O on O'Brien,,
+291309,Jesse,Stringer,GE,2,30,34,26,25,33,3,4,3,1,0,0,0,0,0, Full Time,news,On in Q3 for SMedts,sub,Started as a sub
+290783,Billie,Smedts,GE,2,19,17,16,14,24,3,2,0,3,0,0,2,0,0, Full Time,in,%l Matthew Scarlett... %D and %T... responsible for Blair,subbed,Subbed off in Q3 for Stringer

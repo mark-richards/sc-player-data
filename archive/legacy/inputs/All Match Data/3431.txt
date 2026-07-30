@@ -1,0 +1,48 @@
+Geelong,Cats,Port Adelaide,Power,R4,23.21.159,10.4.64, Full Time
+Apr 18,2010,2:10,Kardinia,Seven,980064,10280407,5015580,4974,Possible shower,25
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,m0nty is working on it... hopefully should be up for next week,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>STK_r_FAIL</em>: why does this site always die in the ar$e?<br><em>hindsight</em>: Come on Jimmy. You were flying and then you stopped!<br><em>buddyforpm</em>: bartell and enright stopped this quarter<br><em>S.K.Warne</em>: good recovery hunt<br><em>gilb0086</em>: for f*'s sake<br><em>Bunta</em>: the site has cracked up<br><em>tigermania</em>: another sunday site crash on fan footy<br><em>V|PeR</em>: working again :-)<br><em>koggy</em>: yay we're back!!<br><em>valkyries5</em>: Sunday struggles for fan footy<br><em>torca</em>: hawkins for the spud<br><em>akyy12</em>: wtf hunt&#044;selwood nd mackie<br>
+220001,Gary,Ablett jnr,GE,38,133,149,158,114,156,13,24,4,4,0,0,1,3,3, Full Time,hot,Tagged by Cassisi... %P and %T with %M and %s
+200039,Paul,Chapman,GE,32,127,144,162,102,134,19,9,8,4,0,1,1,2,2, Full Time,hot,%P and %M
+200034,Joel,Corey,GE,25,125,124,158,97,137,20,17,3,5,2,3,1,0,0, Full Time,hot,%O and %T with %H
+200037,Cameron,Ling,GE,50,116,109,153,88,126,10,16,5,11,0,1,2,0,0, Full Time,hot,Tagged Boak... %O and %T with %M
+200131,James,Podsiadly,GE,33,115,96,142,99,112,12,2,11,2,0,3,0,5,1, Full Time,hot,Second game... %s from %P
+220007,Jimmy,Bartel,GE,32,109,113,139,85,114,14,12,4,6,0,4,1,1,0, Full Time,hot,Head to head with Salopek... %O and %T with %M and %s
+261497,Harry,Taylor,GE,21,109,132,137,91,124,14,16,8,3,0,1,1,0,1, Full Time,mobile,Has Tredrea... %M and %O
+200035,Corey,Enright,GE,20,106,120,132,90,126,14,19,6,3,0,2,2,0,0, Full Time,tagger,Tagged Pearce... %P and %T with %M
+220054,Steve,Johnson,GE,36,103,104,124,90,107,13,3,6,1,0,1,1,6,2, Full Time,mrp,%s from %O and %M... will probably be cited for tripping Gray in Q1
+220058,James,Kelly,GE,26,102,103,130,80,114,12,16,4,6,0,1,1,0,0, Full Time,news,%P and %T
+970006,Cameron,Mooney,GE,25,90,123,111,79,95,9,7,10,1,0,1,0,2,2, Full Time,news,Booted %s from %G and %D on Carlile
+281065,Mitchell,Duncan,GE,20,89,76,111,76,95,13,7,9,0,0,1,0,1,2, Full Time,news,%D and %M
+990076,David,Wojcinski,GE,18,82,100,100,70,96,12,14,6,0,0,0,0,0,0, Full Time,sore,%O and %M... headclash with Kane Cornes in Q3 split his head open
+960375,Darren,Milburn,GE,10,79,85,97,66,90,9,14,5,2,0,1,0,0,0, Full Time,news,%M and %D
+261510,Tom,Hawkins,GE,19,78,74,97,66,81,8,7,7,2,0,2,0,1,3, Full Time,news,%s from %O on Trengove
+230022,Shannon,Byrnes,GE,12,69,33,85,57,73,8,6,4,2,0,0,0,2,1, Full Time,garbage,All of his %s in second half junk time... %P and %M with %T
+230248,Andrew,Mackie,GE,14,69,60,88,59,84,6,13,5,4,0,0,2,0,0, Full Time,job,Davenport tried to keep him occupied... %M and %P with %T
+230125,Tom,Lonergan,GE,12,65,61,77,59,78,4,15,6,1,0,1,0,0,0, Full Time,job,On the first-gamer Daniel Stewart... %M and %O
+250321,Joel,Selwood,GE,12,60,68,74,49,72,5,14,1,4,0,1,1,0,0, Full Time,tagged,Tagged by Kane Cornes... %P
+210059,Josh,Hunt,GE,7,59,75,75,46,63,11,6,3,1,0,1,0,0,0, Full Time,job,Minded Ebert... %O and %M
+980064,Brad,Ottens,GE,15,58,53,70,50,61,2,5,2,4,20,1,1,0,2, Full Time,news,%H and %P with %T and %s
+240117,Mark,Blake,GE,9,45,57,48,46,56,1,8,2,0,22,0,1,0,1, Full Time,news,%H and %P
+210043,Domenic,Cassisi,PA,44,95,86,97,71,108,8,14,2,12,0,1,4,0,0, Full Time,tagger,Tagged Ablett jnr... %O and %T
+272004,Jason,Davenport,PA,20,92,107,77,77,96,9,10,6,3,0,3,0,2,0, Full Time,news,%D and %T with %M and %s... tried to keep Mackie occupied
+210020,Kane,Cornes,PA,20,91,99,74,79,108,8,21,3,2,0,2,0,1,0, Full Time,sore,Tagged Selwood... %O and %M with %s... headclash with Wojcinski in Q3 drew blood
+250063,Danyle,Pearce,PA,15,89,93,45,67,96,18,7,4,3,0,0,1,0,0, Full Time,tagged,Tagged by Enright... %P including %K with %M and %T
+240180,Troy,Chaplin,PA,14,73,64,59,66,90,9,10,9,2,0,0,3,0,0, Full Time,news,%M and %O
+230242,Brett,Ebert,PA,15,72,35,63,55,72,9,2,8,5,0,0,1,0,0, Full Time,news,Hunt on him... %P and %M
+261083,Nathan,Krakouer,PA,8,71,67,38,51,72,14,4,3,3,0,0,0,0,0, Full Time,sore,%O and %M... strained hip flexor in Q1 but returned later in Q2... proppy after that though
+260750,Justin,Westhoff,PA,14,69,56,49,58,73,9,6,5,1,4,1,0,1,0, Full Time,news,%H and %D
+250688,Alipate,Carlile,PA,9,68,68,30,54,75,14,7,4,0,0,0,0,0,0, Full Time,job,Stood Mooney... %M and %D
+970120,Warren,Tredrea,PA,19,68,55,44,60,75,10,5,6,0,0,1,1,2,0, Full Time,news,Booted %s from %G and %P on Taylor
+261396,Robbie,Gray,PA,14,65,70,48,54,72,7,11,0,2,0,2,0,2,0, Full Time,news,First goal... %s from %D
+240074,Jacob,Surjan,PA,12,63,52,54,59,78,6,12,7,1,0,2,2,0,0, Full Time,news,%P and %M
+200111,Dean,Brogan,PA,10,59,41,54,47,62,6,3,3,5,11,1,2,0,0, Full Time,news,%H and %D with %F
+250365,Travis,Boak,PA,8,59,56,44,49,70,8,9,3,3,0,1,2,0,1, Full Time,pinkpig,Tagged by Ling... %P and %s
+230124,Tom,Logan,PA,9,56,52,52,48,66,4,12,4,2,0,0,0,0,0, Full Time,news,%P and %T
+240385,Matt,Thomas,PA,9,55,28,42,43,62,8,5,3,4,1,0,2,0,1, Full Time,news,%P and %s
+230192,Steven,Salopek,PA,9,53,42,27,49,72,10,10,4,0,0,0,3,0,0, Full Time,news,Head to head with Bartel... %D and %M with %F
+220090,David,Rodan,PA,7,44,45,27,35,52,7,8,0,2,0,1,1,0,1, Full Time,news,%O and %s
+260201,Daniel,Stewart,PA,8,33,46,32,27,34,2,4,1,2,1,1,0,1,0, Full Time,rookie,First game
+980059,Chad,Cornes,PA,2,33,57,22,26,36,5,4,2,1,0,0,0,0,0, Full Time,sore,%P... headclash with Milburn in Q3 rearranged his nose
+281375,Cameron,Hitchcock,PA,7,32,28,18,27,36,5,4,1,0,0,0,0,1,0, Full Time,news,Not much supply... %P
+280013,Jackson,Trengove,PA,3,27,14,27,26,40,3,4,3,3,1,0,4,0,0, Full Time,job,Stood Hawkins... %O and %T

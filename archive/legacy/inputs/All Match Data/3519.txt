@@ -1,0 +1,48 @@
+Melbourne,Demons,Essendon,Bombers,R15,19.8.122,14.19.103, Full Time
+Jul 11,2010,2:10,MCG,Seven,,10281507,,5187,Cloudy and windy,15
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>brutus76</em>: Delisted/traded = Myers. Stanton. Welsh&#044; Neagle&#044; Dyson&#044; Jetta and the SLattery boys<br><em>howey</em>: sc wtf<br><em>becstar16</em>: if you look at it.. at halftime melb had 5 50m penalites for 5 goals and the margain was 5 goals..<br><em>jamezz</em>: green <br><em>tigermania</em>: essendon will never achieve anything under knights&#044; wake up hirdy and push him out<br><em>Jesse D</em>: lynden dunn 217 SC<br><em>GumbleTON!</em>: Green only 160<br><em>brutus76</em>: Savour it Essendon players... a few of you wont be wearing red and black next year<br><em>HMoore96</em>: jamar 140 sc <br><em>becstar16</em>: @xavier.. perfect point<br><em>IamBic</em>: Essendon are crap.<br><em>super spud</em>: bunta - essendon are terrible because of the names on their list&#044; they have been terrible for many years now! <br>
+200054,Brad,Green,ME,38,141,161,178,117,149,22,5,9,3,0,0,2,5,2, Full Time,star,Got Hurley in Q1... %s from %D and %M
+250548,Lynden,Dunn,ME,43,135,137,181,100,129,19,2,11,8,3,0,0,1,0, Full Time,x-factor,Tagging Watson... %P and %M with %T and %s... nosebleed late in Q4
+240037,Colin,Sylvia,ME,31,124,125,159,97,130,21,8,6,4,1,1,1,2,0, Full Time,hot,%s from %P with %T and %M on Lovett-Murray
+220052,Mark,Jamar,ME,32,111,139,129,102,119,7,11,7,2,25,4,1,2,1, Full Time,hot,%H and %P plus %M and %s
+200052,Cameron,Bruce,ME,20,90,105,112,75,96,13,7,7,1,0,0,0,2,0, Full Time,news,%O and %M plus %s
+280608,Jack,Trengove,ME,21,82,91,103,68,88,8,8,5,4,0,1,1,2,1, Full Time,news,%D and %M with %T plus %s
+260288,James,Frawley,ME,19,81,82,108,62,81,11,4,8,4,0,0,0,0,0, Full Time,sore,%P and %Twith %M... cut under the left eye in Q1 from Jetta's boot... minding Lonergan
+230151,Brent,Moloney,ME,19,79,80,106,56,87,13,9,0,7,0,0,2,0,0, Full Time,news,%P including %k by foot with %T
+280969,Tom,Scully,ME,18,78,61,103,61,81,9,7,6,5,0,2,1,0,0, Full Time,news,%O and %M with %T
+200002,Aaron,Davey,ME,24,76,60,104,48,72,10,5,0,9,0,0,0,0,0, Full Time,tagged,Tagged by Hocking... %O and %T
+250510,Matthew,Bate,ME,15,72,66,92,59,75,9,5,7,2,0,0,0,1,0, Full Time,tagged,Welsh running with him... %P and %M
+260952,Liam,Jurrah,ME,12,70,44,90,57,70,9,2,5,3,0,2,1,2,1, Full Time,news,%s from %P and %M
+230250,Jared,Rivers,ME,9,60,62,78,50,63,8,4,8,1,0,0,0,0,0, Full Time,job,Has Neagle... %M and %O
+270906,Jordie,McKenzie,ME,14,57,70,74,40,60,3,10,0,7,0,0,0,0,0, Full Time,news,%D and %T
+290943,Jamie,Bennell,ME,10,53,54,67,45,59,8,4,4,1,0,0,1,1,2, Full Time,news,%s from %O and %M on Dempsey
+250222,Nathan,Jones,ME,9,51,50,68,43,63,6,8,3,4,0,1,3,0,0, Full Time,tagger,Tagging Stanton... %D and %T with %M and %F
+230130,Joel,Macdonald,ME,4,48,57,62,40,54,8,5,4,1,0,1,1,0,0, Full Time,news,%P and %M
+280972,Jack,Watts,ME,9,45,60,55,38,46,7,3,3,0,1,2,0,1,0, Full Time,news,Hooker on him... %P and %M
+230108,Paul,Johnson,ME,5,44,20,53,41,56,5,7,2,1,11,0,2,0,0, Full Time,news,%H and %P
+250245,Clint,Bartram,ME,3,40,29,52,31,42,5,4,3,2,0,0,0,0,0, Full Time,job,Following Davey... %P
+270215,Kyle,Cheney,ME,4,40,59,51,33,45,5,6,2,2,0,2,1,0,0, Full Time,sore,Corkie in Q1... %D
+270830,Colin,Garland,ME,2,34,55,45,28,39,6,3,3,1,0,0,1,0,0, Full Time,job,On Monfries... %D and %M
+230238,Jason,Winderlich,ES,31,126,140,94,97,130,17,13,7,6,0,3,0,0,1, Full Time,hot,%P and %T with %M and %s
+210079,Nathan,Lovett-Murray,ES,28,122,130,101,100,135,12,19,5,5,0,1,0,2,0, Full Time,hot,Minding Sylvia... %B among %P with %M and %T
+230231,Jobe,Watson,ES,26,110,135,93,90,126,10,22,3,5,0,1,0,1,0, Full Time,garbage,Tagged by Dunn... %O with %b by hand plus %s... lots of garbage time stats
+270935,Michael,Hurley,ES,15,90,84,65,73,97,13,8,8,3,0,1,1,0,1, Full Time,job,Moved to Green in Q1... %P and %M
+240027,Brent,Stanton,ES,16,86,76,61,68,87,12,5,5,3,0,1,0,2,0, Full Time,tagged,Tagged by Jones... %O and %M with %T
+250569,Heath,Hocking,ES,13,76,103,54,64,85,10,11,6,1,0,1,0,0,1, Full Time,tagger,Tagging Davey... %D and %M plus %s
+260256,Jay,Neagle,ES,16,74,83,51,62,76,10,3,5,1,0,0,0,3,1, Full Time,news,First goal.... booted %s from %P on Rivers
+260073,Ben,Howlett,ES,13,73,73,54,55,81,10,11,1,5,0,1,1,0,0, Full Time,news,%O and %T
+240319,Sam,Lonergan,ES,21,71,80,82,52,76,3,11,2,9,0,0,1,0,1, Full Time,in,%l Scott Gumbleton... playing in Gumby's rule on Frawley... %s from %G and %P
+230060,Ricky,Dyson,ES,14,70,55,33,56,73,14,3,5,0,0,0,0,1,1, Full Time,news,%P
+270951,David,Zaharakis,ES,14,70,90,47,56,73,10,7,3,2,0,2,0,1,1, Full Time,news,%s from %O with %M and %T
+250267,Patrick,Ryder,ES,11,66,56,63,58,70,4,6,3,3,22,2,1,0,0, Full Time,news,%H and %D plus %T
+230051,Alwyn,Davey,ES,15,65,60,57,48,64,7,4,3,5,0,0,0,1,1, Full Time,news,%D on Bartram
+990046,Mark,McVeigh,ES,7,63,78,36,46,67,11,8,0,3,0,1,0,0,1, Full Time,news,%D and %T
+280988,Travis,Colyer,ES,7,58,53,19,48,68,14,5,3,0,0,1,2,0,2, Full Time,news,%D
+250352,Leroy,Jetta,ES,15,57,37,55,47,64,4,9,2,4,0,1,1,1,1, Full Time,news,%D
+261324,Kyle,Reimers,ES,14,55,61,49,46,65,5,9,1,4,0,1,2,1,2, Full Time,news,%s from %P with %T
+240245,Courtenay,Dempsey,ES,4,52,39,43,42,60,6,8,3,3,0,0,1,0,0, Full Time,job,On Bennell... %P
+220115,Andrew,Welsh,ES,3,43,49,37,32,43,5,3,3,3,0,0,0,0,1, Full Time,tagger,Running with Bate... %O
+240290,Angus,Monfries,ES,9,43,43,36,39,51,4,7,3,1,0,1,1,1,0, Full Time,news,%s from %P on Garland
+261320,Tom,Bellchambers,ES,5,38,34,37,39,54,3,6,4,2,8,0,4,0,1, Full Time,news,%D
+270588,Cale,Hooker,ES,3,32,68,30,26,39,2,9,0,2,0,0,0,0,0, Full Time,job,Standing Watts... %D

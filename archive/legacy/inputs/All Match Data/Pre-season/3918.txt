@@ -1,0 +1,62 @@
+Gold Coast,Suns,Geelong,Cats,W2,9.15.69,17.16.118, Full Time
+Mar 2,2012,8.40,Gold Coast,Fox Footy,,10330201,,19,Evening shower,31,,
+
+<em>falsecast</em>: smedts?<br><em>Ace Manuva</em>: Hogan&#044; great performance. easy lock<br><em>brent_bren</em>: will all the games/dt points from around  australia be covered on fanfooty this weekend?<br><em>FTroopCapt</em>: & most of them aren't doing anything either<br><em style='color:#e50000'>m0nty</em>: looks like a bunch of council workmen in here with all those fluoro shirts<br><em>FTroopCapt</em>: monty - Bartel star - Ablett gun & either Guthrie or Hogan for x-factor<br><em>FTroopCapt</em>: I'm talking about all the NAB games live<br><em>DuhWinning</em>: SC scores?<br><em>brent_bren</em>: orren stephenson???<br><em>painkilla</em>: Did selwood play the full game?<br><em>FTroopCapt</em>: Foxtel should show all the games live - Viewers choice like in the EPL..<br><em>whatlez1</em>: No Billie or hall? There the two I wanted to see....<br>
+220001,Gary,Ablett jnr,GC,38,108,-,140,85,120,13,12,3,8,0,1,3,2,0, Full Time,hot,Tagged by Hogan... %P and %T with %M and %s,,,91
+230015,Jared,Brennan,GC,21,96,-,131,70,99,18,4,5,6,0,1,2,0,0, Full Time,news,%M and %O with %T,job,At CHB on Brown,100
+220009,Nathan,Bock,GC,25,94,-,113,84,100,12,5,7,0,0,2,1,4,4, Full Time,news,At FF again... %s from %P and %M on Mackie including a supergoal among three majors in Q1,,,92
+291594,Harley,Bennell,GC,8,70,-,85,57,78,11,11,2,1,2,2,0,0,1, Full Time,news,%s from %O and %M,,,83
+290627,Dion,Prestia,GC,7,57,-,73,46,66,13,7,1,1,0,3,2,0,0, Full Time,news,%P and %F,,,75
+281024,Maverick,Weller,GC,9,55,-,74,42,60,9,5,2,4,0,2,2,0,0, Full Time,job,In a BP on Stokes... %P and %T,,,83
+290790,Matthew,Shaw,GC,8,55,-,71,43,60,10,6,2,2,0,2,1,0,0, Full Time,job,Minding Stringer... %D,,,78
+240712,Michael,Rischitelli,GC,8,53,-,67,46,69,9,11,1,2,0,2,3,0,0, Full Time,news,Playing forward again on Burbury... %O and %T... also %F,,,81
+250260,Liam,Patrick,GC,4,49,-,61,39,54,6,8,2,2,0,1,0,0,0, Full Time,job,On in Q3 and went into defence on Motlop... %B among %D,sub,Started as a sub,51
+240316,Sam,Iles,GC,7,46,-,56,43,66,5,14,1,2,0,1,3,0,0, Full Time,news,%D and %F,,,79
+220013,Campbell,Brown,GC,9,44,-,56,43,62,7,7,3,1,0,0,4,1,2, Full Time,news,Playing forward again... concentrating on the man rather than the ball... %s from %P,,,95
+280722,Zac,Smith,GC,3,41,-,48,35,42,6,3,1,0,11,2,0,0,1, Full Time,news,%H and %P with %s,subbed,Subbed off at HT,49
+290832,David,Swallow,GC,7,40,-,53,28,39,2,5,1,5,0,1,0,0,0, Full Time,news,%D with %b by hand... also %T,subbed,Subbed off at HT,34
+200020,Josh,Fraser,GC,3,38,-,47,32,39,4,3,1,2,8,3,1,0,1, Full Time,news,Rotating CHF on Taylor through ruck... %P and %H plus %s,,,100
+281025,Luke,Russell,GC,7,33,-,40,27,34,6,2,1,0,0,1,0,1,1, Full Time,news,%s from %O on Cowan,,,61
+281076,Hayden,Jolly,GC,2,33,-,42,25,36,6,4,1,1,0,0,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,31
+240254,Jarrod,Harbrow,GC,2,30,-,41,22,33,4,3,1,3,0,0,1,0,0, Full Time,news,%P and %T,,,100
+293813,Thomas,Lynch,GC,4,29,-,42,30,45,7,3,4,1,0,1,5,0,0, Full Time,news,%P and %M... also a massive %F,,,91
+109,Jaeger,O'Meara,GC,8,26,-,32,22,31,2,4,0,2,0,0,1,1,1, Full Time,news,On in Q3... %P and %s,sub,Started as a sub,37
+294643,Alex,Sexton,GC,2,23,-,32,16,25,5,1,0,2,0,0,1,0,1, Full Time,news,On in Q3,sub,Started as a sub,42
+281085,Steven,May,GC,1,20,-,26,15,21,3,2,1,1,0,0,0,0,0, Full Time,tomahawk,Has Hawkins... %O,subbed,Subbed off at HT,49
+250716,Matthew,Warnock,GC,1,16,-,21,17,30,3,6,0,1,0,0,3,0,0, Full Time,job,On Walker... %P,,,100
+291304,Daniel,Gorringe,GC,2,16,-,18,16,22,2,3,0,0,7,0,1,0,0, Full Time,news,On in Q3.... %H,sub,Started as a sub,51
+293795,Jeremy,Taylor,GC,1,16,-,20,13,18,3,2,1,0,0,0,0,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,51
+292512,Karmichael,Hunt,GC,1,14,-,16,12,18,2,4,0,0,0,0,0,0,0, Full Time,tonga,Still being tried in midfield... %D,subbed,Subbed off at HT,32
+293223,Seb,Tape,GC,0,9,-,12,6,9,1,1,0,1,0,0,0,0,0, Full Time,news,Floating about in defence... %D,subbed,Subbed off at HT,49
+291942,Jackson,Allen,GC,0,4,-,4,4,6,0,2,0,0,0,0,0,0,0, Full Time,news,On in Q4,sub,Started as a sub,17
+240012,Andrew,McQualter,GC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+296735,Aaron,Hall,GC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,injured,Not used even though he was named... hamstring strain earlier in the week,,,0
+220007,Jimmy,Bartel,GE,42,143,-,186,109,142,22,4,7,7,1,1,1,3,3, Full Time,hot,Drifting forward and accumulating like the old days... %O and %T plus %M and %s,,,94
+250321,Joel,Selwood,GE,26,93,-,121,71,93,12,7,4,6,0,4,1,1,0, Full Time,news,%P and %T with %M plus %s which was a supergoal,,,68
+280822,Taylor,Hunt,GE,10,90,-,117,68,90,16,6,5,3,0,3,0,0,0, Full Time,news,%D with %T plus %M,,,86
+270193,Simon,Hogan,GE,20,87,-,109,67,93,12,11,2,4,0,1,0,1,0, Full Time,tagger,Tagging Ablett jnr... %D and %T plus %s,,,79
+290550,Cameron,Guthrie,GE,20,86,-,109,70,94,12,10,3,4,0,4,2,1,1, Full Time,news,%P and %T plus %s,,,87
+290622,Mitchell W.,Brown,GE,18,74,-,92,63,74,11,4,7,0,0,4,0,1,2, Full Time,news,%s from %P and %G at CHF on Brennan,sore,Copped a big bump from May in Q1 that shook him up,68
+261497,Harry,Taylor,GE,9,72,-,91,58,78,8,10,5,3,0,1,0,0,0, Full Time,news,%D and %M with %T,job,Standing the resting ruckman which is mostly Fraser,72
+293255,George,Horlin-Smith,GE,11,69,-,87,54,69,9,4,3,3,0,1,0,2,0, Full Time,news,%P and %T plus %s,,,66
+261510,Tom,Hawkins,GE,12,68,-,85,59,75,9,5,4,2,1,2,2,2,2, Full Time,news,%s from %P at CHF on May,,,89
+280990,Steven,Motlop,GE,11,57,-,73,45,60,10,2,2,2,0,0,1,2,0, Full Time,news,%D and %T,,,84
+291309,Jesse,Stringer,GE,10,57,-,72,44,57,7,5,2,3,0,2,0,1,0, Full Time,news,First goal... %P and %T plus %s on Shaw,,,90
+280125,Tom,Gillies,GE,4,49,-,65,40,54,9,4,3,2,0,3,2,0,0, Full Time,witcheshat,Spent a bit of time at FB on Bock but beaten comprehensively... %D and %T,,,91
+291949,Shane,Kersten,GE,10,45,-,58,36,43,5,1,4,2,0,1,0,1,1, Full Time,news,On in Q3... %s from %P and %M,sub,Started as a sub,50
+290576,Jordan,Schroder,GE,14,43,-,56,35,51,4,6,1,4,0,0,2,1,0, Full Time,news,%s from %P and %T,,,66
+260261,Trent,West,GE,9,39,-,46,37,44,6,1,1,0,13,2,2,1,1, Full Time,news,%H and %P plus %s,,,65
+230214,Mathew,Stokes,GE,3,38,-,47,32,42,6,5,3,0,0,1,0,0,0, Full Time,news,%D and %M on Weller,subbed,Subbed off at HT,46
+291550,Joshua,Walker,GE,2,31,-,41,24,34,5,3,1,2,1,1,1,0,0, Full Time,news,%D on Warnock,subbed,Subbed off at HT,73
+292105,Cameron,Eardley,GE,1,29,-,35,24,33,3,6,1,1,0,1,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,49
+290756,George,Burbury,GE,2,28,-,35,24,33,2,6,1,2,0,2,1,0,0, Full Time,news,Minding Rischitelli... %D with %b by hand... also %T,,,39
+230022,Shannon,Byrnes,GE,2,26,-,36,22,33,6,2,2,1,0,0,2,0,0, Full Time,news,%O and %M,subbed,Subbed off at HT,47
+295222,Joel,Hamling,GE,2,24,-,30,21,27,3,3,3,0,0,0,0,0,0, Full Time,job,On in Q3 and moved to defence on Lynch,sub,Started as a sub,51
+250652,Jonathan,Simpkin,GE,2,23,-,32,21,30,4,2,3,1,0,0,2,0,0, Full Time,news,On in Q3... %O,sub,Started as a sub,43
+261167,Orren,Stephenson,GE,3,21,-,25,22,28,3,2,1,0,10,1,2,0,0, Full Time,news,%H and %D,subbed,Subbed off at HT,70
+295942,Jordan,Murdoch,GE,2,21,-,26,18,24,3,3,2,0,0,0,0,0,0, Full Time,news,On in Q3... %O with %b by hand,sub,Started as a sub,46
+230248,Andrew,Mackie,GE,1,19,-,25,16,21,5,1,1,0,0,2,1,0,0, Full Time,sore,At FB on Bock... %P... dislocated finger on left hand in Q1,subbed,Subbed off at HT,42
+290106,Josh,Cowan,GE,1,17,-,24,15,24,4,2,1,1,0,0,2,0,0, Full Time,job,In defence on Russell... %D,subbed,Subbed off at HT,44
+294914,Ryan,Bathie,GE,0,14,-,19,10,12,2,0,1,1,0,1,0,0,0, Full Time,news,On in Q3... %P,sub,Started as a sub,51
+293883,Jed,Bews,GE,0,5,-,6,5,6,0,1,1,0,0,0,0,0,0, Full Time,news,No stats in Q1... %D,subbed,Subbed off at HT,44
+290783,Billie,Smedts,GE,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Did not attend the match,sub,Started as a sub,0

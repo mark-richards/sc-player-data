@@ -1,0 +1,48 @@
+Brisbane,Lions,Fremantle,Dockers,R7,15.10.100,15.23.113, Full Time
+May 08,2010,7:10,Gabba,Fox Sports,270919,10280705,5015539,4996,Fine,25
+The style sheets are taking a little longer than expected but it will come...,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>Slashers</em>: monty&#044; your SC scores are always way off - why??<br><em>Slashers</em>: he's the ablett of the ruckmen - must have<br><em>bato1994</em>: No chance! one good game and he is the real deal?<br><em>footy_wiz</em>: *slashers<br><em>carts08</em>: youll see&#044; hill will be a star&#044; rich will just be another fat slow midfielder<br><em>footy_wiz</em>: same here slasher&#044; had to do a double trade but worth it<br><em>carts08</em>: its not just one game&#044; hill has had a much better season this year then rich. <br><em>Slashers</em>: pretty happy I traded seaby 4 sandi. 135 points more than last week right there.<br><em>panicky</em>: soey&#044; its fish! its fish here!<br><em>lazza76</em>: hmmm who to trade in Chapman or Pav<br><em>panicky</em>: ahaha omg soey<br><em>shurg123</em>: Rich has no upside. He was better than Hill for a year&#044; Hill is probably better now and will keep improving.<br>
+980007,Simon,Black,BL,45,137,143,171,111,157,14,22,4,8,0,0,2,2,1, Full Time,gun,Tagged by Hasleby... %D and %T
+210013,Ashley,McGrath,BL,16,88,93,113,72,98,16,7,5,2,0,1,2,1,2, Full Time,news,Shifted forward in second half... %s from %D and %M with %F
+240712,Michael,Rischitelli,BL,20,87,96,107,71,102,14,14,2,2,0,0,1,1,0, Full Time,tagger,Tagged Hill... %P and %s
+271072,Daniel,Rich,BL,20,87,108,110,67,93,10,11,3,5,0,0,0,1,0, Full Time,sore,%O and %T with %s... right ankle knock in Q4
+980011,Luke,Power,BL,20,84,62,112,64,96,12,11,2,7,0,1,3,0,0, Full Time,creepy,Tagged by Crowley... %O and %T with %M and %F
+240325,Justin,Sherman,BL,14,81,72,100,65,86,14,8,3,1,0,2,0,1,2, Full Time,news,McPhee on him... %s from %O
+250053,Cheynee,Stiller,BL,20,81,63,103,67,84,10,6,8,2,0,1,0,1,0, Full Time,news,%O and %M plus %s
+261222,James,Hawksley,BL,14,70,98,89,56,75,6,10,5,4,0,1,0,0,0, Full Time,in,%l Joel Patfull... %D and %M with %T
+230015,Jared,Brennan,BL,9,66,60,84,53,70,7,8,5,3,1,1,0,0,0, Full Time,injured,%P and %M with %T... jarred his right ankle in ruck in Q3 and carried off
+260975,James,Polkinghorne,BL,9,66,66,82,57,78,7,12,5,2,0,1,1,0,0, Full Time,news,Hayden on him... %P and %M with %T
+240087,Jed,Adcock,BL,8,63,68,80,50,69,11,7,4,1,0,0,0,0,0, Full Time,job,Concentrated on Ballantyne... %P and %M
+270919,Tom,Rockliff,BL,14,63,58,79,52,72,9,8,3,2,0,0,1,1,0, Full Time,cash,%D and %M with %T and %s
+980050,Travis,Johnstone,BL,8,62,92,78,49,66,7,9,3,3,0,2,0,0,0, Full Time,tagged,Forward tag on him by de Boer... %O and %M with %T
+271071,Todd,Banfield,BL,12,57,46,74,48,63,7,3,4,3,0,0,2,2,0, Full Time,cash,First goal... %s from %O and %M on Broughton
+250335,Matthew,Leuenberger,BL,13,53,60,57,55,70,2,13,2,0,19,2,2,0,0, Full Time,sore,%H and %D... injury to his knee in Q4
+200007,Jonathan,Brown,BL,9,52,60,62,45,58,5,8,3,1,1,1,0,1,0, Full Time,news,%P... Tarrant on him
+281373,Jack,Redden,BL,5,52,57,67,41,54,5,6,4,3,0,1,0,0,0, Full Time,news,Tried to keep Duffield honest on a HFF... %O and %T
+990022,Brendan,Fevola,BL,15,51,49,64,43,51,6,0,3,2,0,1,1,3,0, Full Time,news,Booted %s from %G and %O on McPharlin
+230211,Brent,Staker,BL,8,48,51,63,43,63,11,6,4,0,0,0,3,0,0, Full Time,job,Had Pavlich... %O and %M with %F
+260986,Matt,Austin,BL,3,44,50,53,37,52,5,9,2,1,0,0,0,0,1, Full Time,news,%s from %D
+270512,Pearce,Hanley,BL,2,32,22,40,25,36,5,5,1,1,0,0,0,0,0, Full Time,news,%D
+200121,Josh,Drummond,BL,7,26,43,34,23,33,5,2,1,1,0,0,2,1,0, Full Time,injured,%D and %s... off in Q3 with a left hamstring tweak
+200032,Matthew,Pavlich,FR,37,136,128,104,113,145,17,10,9,5,0,2,2,3,4, Full Time,star,Staker on him... %s from %P and %G
+220096,Aaron,Sandilands,FR,32,110,138,107,101,124,5,16,6,3,27,2,1,1,1, Full Time,hot,%H and %P with %M and %s
+280336,Stephen,Hill,FR,15,102,112,56,78,113,18,14,2,3,0,0,0,0,2, Full Time,hot,Tagged by Rischitelli... %P and %T plus %s
+200031,Paul,Hasleby,FR,22,98,124,84,83,109,9,14,5,4,0,2,1,2,1, Full Time,tagger,Tagged Black... %P and %M
+261231,Rhys,Palmer,FR,25,98,75,79,79,103,11,11,6,4,0,2,0,1,1, Full Time,news,%P and %T with %M
+292026,Michael,Barlow,FR,25,95,92,82,79,109,8,19,3,4,1,1,0,1,0, Full Time,cash,%D and %T with %M and %s
+240052,David,Mundy,FR,14,89,96,53,73,103,14,15,4,1,1,0,0,0,0, Full Time,news,%D and %M
+230011,Kepler,Bradley,FR,16,87,101,69,76,104,9,16,5,2,6,0,1,0,2, Full Time,in,%l Alex Silvagni... %H and %P with %M
+261756,Greg,Broughton,FR,15,85,100,58,64,87,13,8,4,4,0,2,0,0,0, Full Time,job,Had Banfield... %P and %M
+210037,Adam,McPhee,FR,18,84,81,76,66,88,8,10,6,5,1,1,0,0,0, Full Time,job,Minded Sherman... %M and %O with %T
+280416,Chris,Mayne,FR,20,73,102,69,59,78,6,9,4,5,0,2,1,1,0, Full Time,news,%s from %G and %P
+230048,Ryan,Crowley,FR,13,72,59,63,59,78,7,9,6,3,1,0,0,0,2, Full Time,tagger,Tagged Power... %P and %M plus %s
+230107,Michael,Johnson,FR,16,70,87,54,57,74,9,4,3,4,0,2,2,2,2, Full Time,news,%s from %D with %T
+260069,Hayden,Ballantyne,FR,13,70,98,43,58,74,10,8,1,1,0,3,0,2,2, Full Time,news,%s from %O on Adcock... also %4 frees for
+281111,Anthony,Morabito,FR,11,63,58,48,51,64,8,3,5,2,0,0,0,1,4, Full Time,news,%P and %M with %s
+291570,Nathan,Fyfe,FR,14,63,91,46,53,69,8,7,5,1,0,0,0,1,0, Full Time,cash,%s from %O and %M
+240139,Paul,Duffield,FR,10,59,49,38,44,63,11,2,4,4,0,0,2,0,0, Full Time,tagged,Forward tag on him by Redden... %O and %M
+210084,Roger,Hayden,FR,4,47,21,30,39,57,8,6,3,2,0,0,2,0,0, Full Time,job,Minded Polkinghorne... %P
+980023,Chris,Tarrant,FR,7,43,59,27,27,38,8,0,0,4,2,1,0,0,0, Full Time,job,Stood Brown... %D and %T
+280933,Dylan,Roberton,FR,3,39,64,32,31,45,4,8,1,2,0,0,0,0,0, Full Time,bubble,Second game... %D
+271015,Matthew,de Boer,FR,2,32,37,26,24,37,4,5,0,3,1,0,1,0,0, Full Time,tagger,Forward tag on Johnstone
+200045,Luke,McPharlin,FR,7,30,45,29,21,33,3,4,0,4,0,0,1,0,0, Full Time,job,On Fevola... %O and %T

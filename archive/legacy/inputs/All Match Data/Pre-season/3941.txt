@@ -1,0 +1,54 @@
+Geelong,Cats,Western Bulldogs,Bulldogs,GF,11.18.84,9.21.75, Full Time
+Mar 17,2012,3.00,Kardinia,,,10330406,,42,Windy with showers,21,,
+
+<em>snowman123</em>: Clay Smith and Ryan Hargrave really made team selection a lot tougher this week..<br><em>mufc</em>: lol barlow<br><em>brent_bren</em>: nice looking top 5 <br><em>Barlow</em>: who is tim and when is he going to tell us?<br><em>mufc</em>: top 5&#044;kennedy&#044; miles&#044; giles&#044; ledger magne (if elevated otherwise morris who's shown promise for the tiges) <br><em>beetle123</em>: tim will definatley tell brent :) <br><em>Wends</em>: didn't hear - was griffen subbed out?<br><em>brent_bren</em>: even if he does get games there are better rookies that will avg more&#044;u dont agree??<br><em>beetle123</em>: cats have positions available<br><em>brent_bren</em>: time will tell<br><em>beetle123</em>: no worries brent&#044; if everyone had the same opinion all teams would be the same. i think smedts has shown promise and the<br><em>mufc</em>: their older bodies and try out their youth players who will need get a chance<br>
+200039,Paul,Chapman,GE,30,113,-,143,94,127,15,14,7,4,0,2,2,1,1, Full Time,,,,,86
+220058,James,Kelly,GE,26,101,-,131,75,105,14,11,4,6,0,1,0,0,0, Full Time,,,,,85
+230248,Andrew,Mackie,GE,20,91,-,118,76,105,15,9,6,3,0,1,3,1,0, Full Time,,,,,89
+200034,Joel,Corey,GE,14,89,-,113,75,103,12,12,6,3,3,1,2,0,1, Full Time,,,,,88
+220007,Jimmy,Bartel,GE,19,86,-,111,69,95,9,11,6,5,1,0,1,0,1, Full Time,,,,,93
+250321,Joel,Selwood,GE,13,72,-,92,57,80,9,10,3,4,2,1,1,0,0, Full Time,,,,,86
+261497,Harry,Taylor,GE,9,69,-,88,55,73,8,8,5,3,0,1,0,0,1, Full Time,,,,,99
+281065,Mitch,Duncan,GE,14,66,-,84,54,70,12,4,4,1,0,2,1,1,1, Full Time,,,,,85
+230214,Mathew,Stokes,GE,15,65,-,80,58,72,9,5,6,0,0,1,1,2,0, Full Time,,,,,85
+230125,Tom,Lonergan,GE,12,57,-,66,54,72,3,15,6,0,0,0,0,0,0, Full Time,,,,,93
+290550,Cameron,Guthrie,GE,7,57,-,71,44,64,9,9,1,2,0,0,0,0,1, Full Time,,,,,83
+210059,Josh,Hunt,GE,11,56,-,73,45,60,9,3,4,2,0,0,1,1,0, Full Time,,,,,49
+220054,Steve,Johnson,GE,13,56,-,73,52,75,12,7,3,1,0,2,5,1,0, Full Time,,,,,81
+200131,James,Podsiadly,GE,10,53,-,65,45,57,6,5,4,1,1,0,0,1,2, Full Time,,,,,93
+261167,Orren,Stephenson,GE,10,51,-,66,40,52,5,2,2,4,12,0,1,0,1, Full Time,,,,,68
+261510,Tom,Hawkins,GE,13,51,-,62,46,55,5,4,6,0,2,0,0,1,2, Full Time,,,,,46
+280822,Taylor,Hunt,GE,8,51,-,67,39,57,10,5,2,2,0,0,1,0,0, Full Time,,,,,77
+230022,Shannon,Byrnes,GE,14,50,-,66,35,51,3,7,1,6,0,0,0,0,0, Full Time,,,,,64
+290622,Mitchell W.,Brown,GE,3,46,-,58,39,48,5,4,5,1,0,1,0,0,3, Full Time,,,,,51
+980037,Matthew,Scarlett,GE,5,42,-,60,36,54,8,3,4,3,0,0,4,0,0, Full Time,,,,,94
+291309,Jesse,Stringer,GE,3,41,-,52,33,45,6,5,3,1,0,0,0,0,0, Full Time,,,,,40
+280990,Steven,Motlop,GE,8,36,-,44,29,36,5,1,1,1,0,0,0,2,0, Full Time,,,,,42
+260261,Trent,West,GE,2,26,-,30,23,29,3,3,1,0,8,0,0,0,0, Full Time,,,,,38
+290783,Billie,Smedts,GE,2,26,-,33,19,27,3,4,0,2,0,1,0,0,0, Full Time,,,,,53
+293255,George,Horlin-Smith,GE,1,25,-,31,22,33,3,6,1,1,0,0,1,0,0, Full Time,,,,,33
+220010,Matthew,Boyd,WB,26,129,-,163,103,142,20,16,8,3,1,0,0,0,0, Full Time,,,,,88
+210049,Daniel,Cross,WB,21,117,-,148,94,126,17,13,8,3,2,1,0,0,1, Full Time,,,,,86
+260227,Shaun,Higgins,WB,20,96,-,120,80,105,14,10,8,1,0,0,0,1,0, Full Time,,,,,81
+271439,Liam,Picken,WB,31,95,-,125,77,105,12,9,6,6,0,2,3,1,0, Full Time,,,,,87
+295712,Tory,Dickson,WB,26,89,-,116,67,85,10,5,5,6,0,3,0,1,1, Full Time,,,,,73
+200083,Robert,Murphy,WB,10,87,-,111,68,93,15,9,5,2,0,1,0,0,0, Full Time,,,,,87
+290799,Tom,Liberatore,WB,9,78,-,98,63,87,11,12,3,3,0,3,1,0,0, Full Time,,,,,79
+281374,Christian,Howard,WB,13,74,-,97,57,75,11,5,6,3,0,1,0,0,0, Full Time,,,,,80
+280012,Jordan,Roughead,WB,17,68,-,82,62,75,4,7,6,2,11,1,1,1,1, Full Time,,,,,88
+230255,Will,Minson,WB,15,64,-,75,61,73,5,6,6,0,22,0,1,0,0, Full Time,,,,,81
+220039,Brian,Lake,WB,9,63,-,82,51,66,8,5,7,2,0,0,0,0,0, Full Time,,,,,93
+200079,Daniel,Giansiracusa,WB,14,61,-,74,55,78,8,12,3,1,0,0,2,1,0, Full Time,,,,,65
+230041,Adam,Cooney,WB,7,60,-,77,46,66,12,7,1,2,0,2,1,0,0, Full Time,,,,,73
+200082,Ryan,Hargrave,WB,8,59,-,75,49,69,10,8,4,1,0,0,1,0,0, Full Time,,,,,94
+240212,Dylan,Addison,WB,7,59,-,73,47,63,10,8,2,1,0,3,0,0,0, Full Time,,,,,89
+240156,Ryan,Griffen,WB,9,51,-,63,42,55,7,5,3,1,0,0,0,1,1, Full Time,,,,,33
+261319,Jarrad,Grant,WB,10,51,-,62,43,54,8,3,3,0,0,0,0,2,0, Full Time,,,,,52
+291545,Mitch,Wallis,WB,7,50,-,64,41,57,9,6,3,1,0,1,1,0,0, Full Time,,,,,46
+250601,Lukas,Markovic,WB,8,46,-,63,31,42,5,2,2,5,0,1,0,0,0, Full Time,,,,,94
+280056,Ayce,Cordy,WB,9,44,-,55,35,46,3,5,2,3,1,0,0,1,0, Full Time,,,,,51
+281139,Easton,Wood,WB,4,42,-,53,39,51,7,6,4,0,0,3,2,0,0, Full Time,,,,,83
+281078,Liam,Jones,WB,8,32,-,40,26,33,4,2,2,1,0,0,0,1,0, Full Time,,,,,97
+291526,Luke,Dahlhaus,WB,2,30,-,39,21,30,3,4,0,3,0,1,0,0,0, Full Time,,,,,41
+280442,Zephaniah,Skinner,WB,7,28,-,32,25,32,3,4,1,0,0,0,0,1,2, Full Time,,,,,24
+293847,Clay,Smith,WB,1,21,-,28,17,25,6,1,1,0,0,0,1,0,1, Full Time,,,,,38

@@ -1,0 +1,48 @@
+West Coast,Eagles,North Melbourne,Kangaroos,R21,14.10.94,16.14.110, Full Time
+Aug 22,2010,4:40,Subiaco,Fox Sports,240119,10282108,5015575,5235,Sunny,17
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Q4 Sunday twilight go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tME"></b> simma1978</em>: Harvey got 88 in SC.<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> XrayHombre</em>: I hear you Brak&#044; you can add Ryder to that list.<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> Brak</em>: makes it so worthwhile upgrading to guns like Pav&#044; Sandi&#044; Hayes&#044; ROK&#044; Sylvia&#044; Cooney&#044; Gia....<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> OhYeah===></em>: Won by 3 points!!!<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> rooattack</em>: nortons&#044;where did u go?<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> rooattack</em>: Swallow you champ<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> longdong</em>: actually nvm its 125<br><em style='margin-bottom:-2px'><b class="ticon tGC"></b> Slashers</em>: how gives a shower about tips? tips are for the rest :-p<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> longdong</em>: did cox get 125 or 122. its diff on the afl site<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Ferst</em>: Sebelk i lose by 3 because of Cox as well :(<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> tassieguns</em>: any1 else get 8/8<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> leesa68</em>: thanx rooattack and welldone to the roos<br>
+990020,Andrew,Embley,WC,37,138,123,172,114,150,14,19,10,5,0,2,0,1,0, Full Time,hot,%O and %M with %T and %s
+200112,Dean,Cox,WC,32,125,101,150,108,138,13,15,4,4,28,4,2,0,2, Full Time,hot,%H and %P with %M plus %s
+270928,Scott,Selwood,WC,31,107,87,138,82,111,11,11,6,7,0,0,0,1,0, Full Time,hot,Matched up on Cunnington... %O and %T with %M and %s
+240283,Shannon,Hurn,WC,21,100,102,134,76,99,20,0,8,3,0,1,1,1,0, Full Time,gun,%P including %k by foot... also %M with %T plus %s... allowed to drift up the ground by the lazy Kanga small forwards in the first half but almost disappeared after half time
+240016,Beau,Waters,WC,24,88,86,116,71,96,13,6,7,4,0,0,2,1,0, Full Time,reported,Running off Wright... %D and  %T plus %s... reported for charging Adams off the ball in Q1
+270953,Ashley,Smith,WC,20,85,59,107,71,90,10,8,8,2,0,1,0,1,0, Full Time,news,%D and %M
+261911,Brad,Ebert,WC,19,82,77,103,65,93,11,14,2,4,0,2,1,0,0, Full Time,news,Head to head with Swallow... %P and %M
+280078,Luke,Shuey,WC,14,81,78,105,61,85,10,9,4,5,0,0,0,0,1, Full Time,news,%P and %M with %T
+250317,Eric,MacKenzie,WC,13,80,89,100,69,88,9,10,9,1,1,1,0,0,0, Full Time,job,Standing Hansen... %M and %P
+250111,Matt,Rosa,WC,13,79,92,102,59,87,14,10,1,4,0,1,1,0,0, Full Time,tagger,Tagging Wells... %P and %T
+260050,Callum,Wilson,WC,20,77,77,94,66,75,9,0,6,1,0,1,0,4,3, Full Time,news,Booted %s from %D and %G on Grima
+240119,Mark,LeCras,WC,15,71,56,92,51,69,12,2,1,4,0,0,0,2,0, Full Time,news,%s from %P on McMahon
+261290,Chris,Masten,WC,15,71,62,89,58,75,9,7,5,2,0,1,0,1,0, Full Time,news,First goal... %P and %M plus %s
+250034,Ashton,Hams,WC,11,65,74,81,53,66,6,7,4,3,0,3,0,1,0, Full Time,news,%D and %T with %M
+271045,Nic,Naitanui,WC,19,62,82,71,53,64,1,8,0,4,19,2,0,1,0, Full Time,fiji,%H and %P with %T and %s
+280441,Patrick,McGinnity,WC,8,58,69,72,46,63,6,10,2,3,0,2,0,0,0, Full Time,tagger,Tagging Harvey... %D
+280946,Koby,Stevens,WC,5,58,78,75,45,60,7,6,4,3,0,1,0,0,0, Full Time,news,%P and %M with %T
+250654,Matthew,Spangher,WC,3,53,76,67,42,54,9,5,3,1,0,3,0,0,0, Full Time,job,On Edwards... %D and %M
+261214,Will,Schofield,WC,5,52,53,69,42,57,8,4,5,2,0,0,1,0,0, Full Time,job,Has Warren... %M and %O
+270926,Jordan,Jones,WC,5,50,48,66,43,60,7,6,5,2,0,0,2,0,0, Full Time,job,First game... on Adams... %P and %M
+260446,Andrew,Strijk,WC,4,48,44,63,38,54,8,5,3,2,0,0,1,0,0, Full Time,news,%D and %M with %T
+240406,Josh J.,Kennedy,WC,4,46,55,62,39,50,7,2,5,2,0,2,2,0,2, Full Time,news,Booted %s from %P and %G on Thompson
+240417,Andrew,Swallow,NM,44,128,152,127,106,141,8,19,5,9,0,3,2,3,0, Full Time,star,Head to head with Ebert... %D and %T with %M plus %s
+990055,Brady,Rawlings,NM,15,86,97,65,76,105,10,18,5,2,0,3,2,0,0, Full Time,news,%B among %P with %M
+281395,Scott D.,Thompson,NM,20,84,133,64,70,93,10,11,6,2,0,0,0,1,0, Full Time,sore,Following Kennedy... %P and %M with %T and a vital %s in Q4... right ankle knock later in Q4
+280864,Sam,Wright,NM,21,81,98,57,71,89,10,6,4,1,0,0,1,4,2, Full Time,x-factor,%s from %P and %M on Waters... several of those goals in Q4 to deliver the win
+230232,Daniel,Wells,NM,14,80,104,54,63,89,11,12,1,3,0,0,0,1,2, Full Time,tagged,Tagged by Rosa... %D
+960491,Brent,Harvey,NM,13,79,77,36,59,87,16,10,1,2,0,0,0,0,0, Full Time,heart,Tagged by McGinnity... %D and %T in his 300th game
+210093,Leigh,Harding,NM,13,75,69,63,61,82,8,10,6,3,0,0,0,0,1, Full Time,news,About time he showed something like this form... %P and %M plus %s
+261228,Ben,Warren,NM,17,75,60,54,63,78,10,3,5,2,0,1,1,3,0, Full Time,news,%O and %M on Schofield
+230272,Michael,Firrito,NM,10,74,81,61,62,87,8,13,5,3,0,0,1,0,0, Full Time,news,%O
+270861,Levi,Greenwood,NM,25,74,74,68,54,81,8,9,2,8,0,0,2,0,0, Full Time,news,%P and %M plus %F
+230240,Aaron,Edwards,NM,21,73,63,53,65,84,10,4,6,2,0,0,3,3,0, Full Time,news,%s from %D and %T with %M on Spangher
+280863,Ryan,Bastinac,NM,10,71,82,63,61,87,6,16,4,3,0,0,1,0,0, Full Time,news,%P and %T with %M
+250285,Leigh,Adams,NM,15,69,78,60,51,69,8,5,3,6,0,2,1,0,3, Full Time,concussed,%s from %P with %T on Jordan Jones... bumped by Waters in Q1 which left him looking very groggy... returned in Q3... ran his nose into Edwards' elbow in Q4
+230141,Hamish,McIntosh,NM,13,68,76,57,61,78,7,6,4,3,11,2,3,1,1, Full Time,news,%H and %D with %M plus %s and %F
+271300,Cruize,Garlett,NM,10,63,45,47,55,78,8,12,4,2,0,1,2,0,0, Full Time,news,%P and %M
+210039,Daniel,Pratt,NM,5,60,62,47,48,66,8,6,5,3,0,0,1,0,0, Full Time,news,%D and %M with %T
+250135,Scott,McMahon,NM,8,58,74,34,44,63,10,7,2,2,0,0,0,0,0, Full Time,job,Has LeCras... %P
+270932,Marcus,White,NM,8,54,35,36,42,60,8,8,2,2,0,0,0,0,0, Full Time,bubble,Second game... %O and %M with %T
+250373,Lachlan,Hansen,NM,5,47,42,36,38,53,7,3,4,3,1,0,2,0,1, Full Time,news,%O and %G on MacKenzie
+240131,Nathan,Grima,NM,7,45,62,21,38,54,9,6,3,0,0,0,1,0,0, Full Time,job,Standing Wilson... %P
+280921,Ben,Cunnington,NM,3,40,51,31,33,51,5,9,0,3,0,1,2,0,0, Full Time,news,Matched up on Scott Selwood... %O and %T
+220036,David,Hale,NM,4,29,34,28,27,36,2,3,1,2,12,0,2,0,0, Full Time,spud,%H and %P... so cod ordinary that even Gold Coast should reject him

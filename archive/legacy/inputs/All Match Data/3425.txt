@@ -1,0 +1,48 @@
+West Coast,Eagles,Essendon,Bombers,R4,15.11.101,11.12.78, Full Time
+Apr 16,2010,8:40,Subiaco,Seven,270935,10280401,5015448,4968,Fine,24
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,m0nty is working on it... hopefully should be up for next week,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time,Purple?,m0nty is going to try to get quarterly SC scores up at the breaks though depending on availability they may not appear for long,SC scores?
+<em>essendon2</em>: 212 from two<br><em>Bunta</em>: hurley's supercoach score is wrong<br><em>cecchy</em>: nic nat is a bloody legend<br><em>B2ST</em>: give dalziell the heart<br><em>gravz04</em>: Gumbleton ur a flowering dud!<br><em>MR KING</em>: who got the star<br><em>bongetti</em>: thanks monty<br><em>Foley</em>: 242 from 2<br><em>TassySwans</em>: 285 from 3. Happy with that<br><em>TassySwans</em>: Lecras 83 SC here but in my Supercoach 84. Y<br><em>bongetti</em>: 3/334 good stuff naita priddas and zakka<br><em>NoButYeah</em>: sc 3/264<br>
+990020,Andrew,Embley,WC,30,111,98,144,79,112,20,8,1,6,1,1,0,1,0, Full Time,gun,Dempsey going with him... %s from %O and %T
+230254,Adam,Selwood,WC,50,107,107,143,79,108,10,9,4,11,0,3,2,1,0, Full Time,hot,Tagged by Lonergan... %D and %M with %T plus %s
+200112,Dean,Cox,WC,27,99,118,114,88,106,9,10,2,2,30,4,1,1,1, Full Time,news,%H and %P with %s
+240016,Beau,Waters,WC,26,98,84,130,79,117,15,13,5,6,0,0,4,0,0, Full Time,news,%P and %M with %F... clangers and FA dampening his SC rating
+261911,Brad,Ebert,WC,26,94,109,121,70,96,12,9,3,6,0,1,0,1,0, Full Time,news,Matched up on Winderlich... %D and %T
+240124,Matt,Priddis,WC,25,92,120,114,75,111,9,21,1,6,0,2,2,0,0, Full Time,tagged,Head to head on Watson then got Welsh's tag in Q3... %O and %T
+240406,Josh J.,Kennedy,WC,28,87,105,113,70,88,9,3,5,6,0,2,2,3,1, Full Time,news,Booted %s from %G and %P on Hooker... also %T
+271045,Nic,Naitanui,WC,20,79,117,96,65,82,6,7,1,5,17,2,1,1,2, Full Time,sore,Can NicNat get 12 possies and earn BOG from Eagle fans again? %H and %P with %s... quad soreness in Q2 and up the race for treatment at 3QT
+250111,Matt,Rosa,WC,15,77,76,99,61,84,12,7,4,3,0,0,1,1,0, Full Time,news,%P and %s
+220038,Ashley,Hansen,WC,10,73,87,93,56,65,11,2,3,3,0,7,0,1,2, Full Time,news,Pears on him... %s from %D and %M with %T... also an amazing %4 frees for
+260546,Bradd,Dalziell,WC,18,72,80,92,58,78,6,10,6,4,0,0,0,0,0, Full Time,concussed,%O and %M off a wing... stretchered off in Q2 after a headclash with Zaharakis but back on for Q3
+261290,Chris,Masten,WC,18,68,47,89,50,75,6,11,1,7,0,0,1,0,0, Full Time,news,%B among %O off a wing
+270928,Scott,Selwood,WC,12,66,56,84,59,81,9,10,7,1,0,0,2,0,0, Full Time,job,On Zaharakis... %O and %M
+240119,Mark,LeCras,WC,15,60,83,71,52,61,6,2,3,1,0,0,0,4,1, Full Time,news,First goal... kicked %s from %P and %M on Henry Slattery
+260303,Mitchell,Brown,WC,10,59,69,75,48,61,9,3,5,1,0,0,0,1,1, Full Time,news,Kicked %s from %O on Fletcher
+280441,Patrick,McGinnity,WC,9,57,56,73,43,60,6,8,2,4,0,1,0,0,0, Full Time,tagger,Tagging Reimers... %D
+240731,Brett,Jones,WC,5,54,64,68,44,60,6,8,4,2,0,0,0,0,0, Full Time,job,Minding Williams... %P
+250034,Ashton,Hams,WC,5,48,33,63,37,48,7,3,4,2,0,1,0,0,0, Full Time,rookie,First game... Houli on him... %O
+210018,Daniel,Kerr,WC,4,43,65,54,34,45,3,7,2,3,0,2,0,0,0, Full Time,injured,Tagged by Welsh... %B among %D... pulled his right hamstring in Q2
+250654,Matthew,Spangher,WC,3,43,47,57,32,48,9,4,1,2,0,0,1,0,0, Full Time,job,Restricted Hurley... %D and %T
+200074,Darren,Glass,WC,4,42,56,53,37,51,5,7,4,1,0,0,1,0,0, Full Time,job,Minding the resting ruckmen Ryder and Hille at FB
+261214,Will,Schofield,WC,4,41,62,54,32,45,5,5,2,3,0,1,1,0,0, Full Time,job,Standing Gumbleton... %O
+200026,David,Hille,ES,24,114,75,88,99,122,13,8,9,2,12,1,1,2,2, Full Time,hot,%H and %P with %M and %s... a very low disposal efficiency is destroying his SC score though
+230231,Jobe,Watson,ES,20,105,125,84,84,123,11,23,2,5,0,0,0,0,0, Full Time,hot,Head to head with Priddis... %P and %T
+270951,David,Zaharakis,ES,33,93,107,89,71,93,8,7,4,8,0,2,1,2,0, Full Time,sore,%s from %D with %T on Scott Selwood... head cut open in a headclash with Dalziell in Q2
+230238,Jason,Winderlich,ES,20,85,111,77,66,94,9,10,5,7,0,0,2,0,1, Full Time,news,Matched up on Ebert... %P and %T
+210079,Nathan,Lovett-Murray,ES,19,84,74,66,61,90,11,11,1,7,0,1,1,0,0, Full Time,news,%B among %P with %T
+250267,Patrick,Ryder,ES,28,80,95,82,70,89,4,8,2,6,16,2,3,2,1, Full Time,news,Rotating from FF on Glass through ruck... %s from %P
+250569,Heath,Hocking,ES,14,80,78,67,61,84,9,10,4,5,0,1,0,0,0, Full Time,news,%P including %B
+280988,Travis,Colyer,ES,13,73,59,58,54,78,9,10,2,5,0,0,0,0,0, Full Time,bubble,Second game... %P
+250312,Bachar,Houli,ES,19,69,76,66,57,84,6,13,3,6,0,1,3,0,0, Full Time,job,Has the first-gamer Hams... %B among %P
+261324,Kyle,Reimers,ES,15,64,66,49,47,66,9,4,2,5,0,0,1,1,0, Full Time,sore,Tagged by McGinnity... %O and %T... right ankle rolled under a body in Q3
+270588,Cale,Hooker,ES,19,64,79,60,55,75,5,11,3,4,0,2,2,1,0, Full Time,job,Standing Kennedy... %O and %T plus %M and %s
+960197,Dustin,Fletcher,ES,9,61,98,23,51,72,14,6,4,0,0,1,2,0,0, Full Time,job,Zoning off Brown... %P
+230060,Ricky,Dyson,ES,8,60,91,40,47,64,9,7,3,2,0,1,0,0,1, Full Time,news,%P including %B
+250071,Henry,Slattery,ES,9,60,66,55,44,60,6,6,3,5,0,1,0,0,0, Full Time,job,Minding LeCras... %O and %M with %T
+280824,Jake,Melksham,ES,7,59,57,39,46,66,9,8,1,3,0,1,1,0,3, Full Time,bubble,Second game... %P
+220115,Andrew,Welsh,ES,13,57,42,48,51,78,6,15,1,4,0,2,4,0,0, Full Time,mrp,Tagged Kerr then went to Priddis in Q3 after Kerr's injury... %O and %F... caught Hansen's head with a fist in Q3 and will probably get a week from the MRP
+240245,Courtenay,Dempsey,ES,15,57,52,44,40,60,9,3,2,6,0,0,2,0,0, Full Time,job,Going with Embley... %D and %T
+270935,Michael,Hurley,ES,10,47,56,36,42,51,5,4,4,0,0,0,0,2,0, Full Time,news,%s from %G and %O on Spangher... moved into defence in Q3 to stem the flow of Eagle goals
+271022,Tayte,Pears,ES,5,46,38,35,39,54,7,4,4,3,0,2,3,0,0, Full Time,job,On Hansen... %M and %O
+210040,Mark,Williams,ES,14,45,48,40,32,42,5,1,2,4,0,0,0,1,0, Full Time,news,Booted %s from %O on Brett Jones
+240319,Sam,Lonergan,ES,7,43,32,33,36,54,5,10,1,2,0,0,1,0,0, Full Time,tagger,Tagging Adam Selwood... %D
+250366,Scott,Gumbleton,ES,2,33,43,31,29,37,2,6,2,1,3,1,0,0,1, Full Time,cold,Lack of supply only half the story... %s from %O and %M on Schofield

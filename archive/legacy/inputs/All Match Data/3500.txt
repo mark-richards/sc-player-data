@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Port Adelaide,Power,R13,19.15.129,14.9.93, Full Time
+Jun 20,2010,1:10,Docklands,Fox Sports,960491,10281304,5015523,5168,Roof closed,15
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>Yanman</em>: nice one<br><em>riewoldt12</em>: higgins the little bitch has been chillin' on my bench while gumbleton has been getting me 40s week in week out <br><em>GoLions</em>: thank u boomer and basti. really needed those scores :)<br><em>murphy3</em>: yer bomer<br><em>SamJ</em>: I would say so riewoldt12.<br><em>babyjack</em>: mc intosh is frustrating never gets 100!<br><em>riewoldt12</em>: do you think warnock will come in for kreuzer?<br><em>Moondog21</em>: Harvey u star<br><em>RooBoy</em>: Join in the Chorus<br><em>riewoldt12</em>: will shaun higgins play next round?<br><em>Gibblet</em>: luv you harvs<br><em>millsie69</em>: Why would Kane get the gun?? Boomer smashed him!<br>
+960491,Brent,Harvey,NM,28,122,150,151,97,132,17,15,4,4,0,1,0,2,0, Full Time,star,Tagged by Cassisi then Kane Cornes... %D and %M plus %s
+250373,Lachlan,Hansen,NM,32,109,116,135,95,115,12,5,8,3,0,2,2,5,1, Full Time,x-factor,%s from %G and %P on Chad Cornes
+240417,Andrew,Swallow,NM,32,98,119,128,73,102,11,10,3,8,0,1,1,1,0, Full Time,news,Head to head with Pearce... %D and %T plus %s
+210039,Daniel,Pratt,NM,15,93,100,120,72,102,17,10,4,3,0,1,1,0,0, Full Time,news,%P and %M with %T
+990055,Brady,Rawlings,NM,19,93,97,113,82,114,9,20,7,2,0,0,1,0,0, Full Time,job,On Hitchcock... %P and %M plus %T
+230141,Hamish,McIntosh,NM,19,90,85,106,80,96,6,7,4,3,23,1,1,2,1, Full Time,news,%H and %D with %M and %T... also %s
+261228,Ben,Warren,NM,20,90,83,114,73,91,11,5,7,3,0,1,0,2,1, Full Time,garbage,%s from %O and %M on Paul Stewart... all of his goals very late in Q4
+271300,Cruize,Garlett,NM,20,84,96,104,71,102,7,17,3,5,0,0,2,1,0, Full Time,news,%B among %O with %T and %M... also %s
+281395,Scott D.,Thompson,NM,18,80,64,107,61,81,11,5,6,5,0,2,1,0,0, Full Time,job,Has Daniel Stewart... %D and %T with %M
+271129,Todd,Goldstein,NM,16,78,60,99,66,78,8,2,7,3,9,2,1,1,3, Full Time,news,%H and %M with %T and %s rotating from ruck to FF
+270861,Levi,Greenwood,NM,15,75,72,98,64,96,9,14,4,5,0,0,4,0,0, Full Time,tagger,Tagging Boak... %D and %M with %F
+240131,Nathan,Grima,NM,12,71,102,89,59,78,10,9,6,1,0,1,0,0,0, Full Time,job,Has Trengove and Motlop rotating through FF... %O and %M
+230272,Michael,Firrito,NM,9,69,92,86,57,78,10,10,5,1,0,0,0,0,0, Full Time,job,Standing Schulz... %O and %M
+240189,Matt,Campbell,NM,12,63,52,80,54,72,7,6,4,3,0,0,2,2,0, Full Time,news,%s from %O and %M on Nash
+280864,Sam,Wright,NM,14,63,52,80,53,69,10,5,5,1,0,1,1,1,0, Full Time,news,%s from %D and %M on Logan
+260711,Ed,Lower,NM,10,62,48,80,50,68,4,9,4,5,0,1,1,0,2, Full Time,news,%O and %M
+280863,Ryan,Bastinac,NM,12,59,84,70,48,67,9,10,0,1,0,1,0,1,1, Full Time,news,%P and %s
+280944,Jack,Ziebell,NM,8,57,66,73,48,69,9,9,3,2,0,1,2,0,0, Full Time,news,%D and %M
+230232,Daniel,Wells,NM,12,56,45,69,49,63,7,8,6,0,0,1,0,0,0, Full Time,tagged,Tagged by Kane Cornes then Cassisi... %O and %M
+250315,Gavin,Urquhart,NM,3,45,49,55,37,52,6,8,2,1,0,0,0,0,1, Full Time,in,%l Scott McMahon (quad)... %D and %M
+261909,Lindsay,Thomas,NM,8,42,57,51,36,45,6,3,3,0,0,0,0,1,3, Full Time,sore,%s from %P and %M on Surjan... knocked right knee with Chad Cornes in Q1 and looked sore
+280921,Ben,Cunnington,NM,2,21,19,26,20,33,3,7,0,1,0,0,2,0,0, Full Time,sore,Cut on his nose in Q1 that sprayed blood and required multiple stitches... %P
+230195,Jay,Schulz,PA,45,123,127,107,104,121,11,2,9,4,0,0,0,7,1, Full Time,hot,First goal... booted %s from %G and %D on Firrito
+250063,Danyle,Pearce,PA,24,112,141,70,85,114,19,8,7,4,0,2,0,0,0, Full Time,hot,Head to head with Swallow... %O and %M with %T... left knee hyperextended in Q4
+210020,Kane,Cornes,PA,20,104,86,72,85,111,15,11,9,2,0,2,0,0,0, Full Time,gun,Switched tag from Wells to Harvey in Q2... %P and %M with %T
+230124,Tom,Logan,PA,14,84,68,67,70,93,10,11,7,3,0,2,1,0,0, Full Time,job,Following Wright... %P and %M
+240385,Matt,Thomas,PA,20,84,92,81,65,91,7,12,4,7,0,1,1,0,1, Full Time,news,%D and %M plus %T
+210043,Domenic,Cassisi,PA,43,79,105,87,61,93,4,17,0,10,0,2,3,0,0, Full Time,tagger,Switched tag from Harvey to Wells in Q2... %O including %b by hand with %T
+240074,Jacob,Surjan,PA,13,79,99,48,61,78,14,3,7,2,0,2,0,0,0, Full Time,job,Minding Thomas... %D and %M
+200111,Dean,Brogan,PA,16,78,70,69,70,86,6,8,3,3,26,3,2,0,0, Full Time,news,%H and %P with %T and %M
+250688,Alipate,Carlile,PA,18,78,66,56,69,87,11,7,11,0,0,1,1,0,0, Full Time,job,Standing the resting ruckman... %P and %M
+980059,Chad,Cornes,PA,14,78,88,42,67,90,15,6,9,0,0,0,2,0,0, Full Time,job,Minding Hansen... %M and %O
+210008,Daniel,Motlop,PA,12,77,57,57,61,78,10,4,4,3,0,0,0,2,3, Full Time,news,%s from %O on Thompson
+250365,Travis,Boak,PA,9,71,76,54,59,82,8,14,3,2,0,1,0,0,1, Full Time,tagged,Tagged by Greenwood... %D
+220090,David,Rodan,PA,18,69,67,51,52,72,9,8,1,4,0,1,0,1,0, Full Time,news,%O including %k by foot
+230159,Jay,Nash,PA,9,68,55,38,54,75,12,8,4,1,0,0,0,0,0, Full Time,in,%l Troy Chaplin (personal reasons)... minding Campbell... %D and %M
+250062,Danny,Meyer,PA,16,68,79,58,50,63,8,2,4,5,0,2,0,1,0, Full Time,news,%D and %M with %T
+272004,Jason,Davenport,PA,8,60,42,46,53,73,7,11,5,1,1,0,1,0,0, Full Time,muppet,%D and %M
+270779,Paul,Stewart,PA,8,55,63,38,43,60,8,7,3,2,0,0,0,0,0, Full Time,sore,Zoning off Warren... %P and %M... had his nose rearranged in Q3
+270952,Mitchell,Banner,PA,8,55,44,38,43,60,8,7,3,2,0,0,0,0,0, Full Time,news,%P and %T
+990013,Josh,Carr,PA,7,55,46,39,46,65,7,11,1,2,1,2,1,0,1, Full Time,news,%P and %T plus %s
+281375,Cameron,Hitchcock,PA,14,48,59,33,44,54,6,3,3,0,0,0,1,3,0, Full Time,news,%s from %O on Rawlings
+260201,Daniel,Stewart,PA,8,42,37,30,38,49,6,4,6,0,0,0,1,0,1, Full Time,sore,%s from %G and %P on Thompson... rolled an ankle in Q2
+280013,Jackson,Trengove,PA,8,33,25,40,30,43,1,6,2,4,4,1,3,0,0, Full Time,news,%H and %P with %F rotating from ruck to FF.. also %M and %T

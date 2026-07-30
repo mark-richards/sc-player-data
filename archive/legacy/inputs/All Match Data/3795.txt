@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Gold Coast,Suns,R13,19.15.129,8.10.58, Full Time
+Jun 18,2011,2:10,Launceston,Ten,240712,10311302,5561,96,Morning shower,12,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em style='color:#a0a'>Centurions</em>: smith and lynch on my bench <br><em>Thebiggf</em>: 450 from 4 with a rookie happy with that n lynch on me bench <br><em>Homerj</em>: Thanks captain Gaz! Think the perma-captain might be BAAACK!!! <br><em>johnkay</em>: Franklin SC? Do you lose 20 pints for getting reported????<br><em>bert1</em>: missed out trading in smith but happy with baileys score good cover<br><em>demons13</em>: buddy shower sc<br><em>Daniel82</em>: Savage 162&#044; Shiels 83<br><em>tommycooz</em>: crap needed at least 95 SC from buddy<br><em>Jaguar42</em>: ablett 135 acording to dream team website<br><em>Crowbot2.0</em>: knvdfjvnerknberf<br><em>Daniel82</em>: Puop 69&#044; Harris 44 sc<br><em>Thebiggf</em>: Yes my opp has rioli capt in sc I had Boyd I was spewing last night all good now though<br>
+280858,Shane,Savage,HW,45,164,165,204,136,171,20,13,12,4,0,2,0,4,0, Full Time,star,%D and %M with %T plus %s,,
+220073,Sam,Mitchell,HW,26,132,144,169,107,147,23,15,8,3,0,3,2,0,0, Full Time,gun,Not tagged as is usual with the Suns structure... %P and %M,dttalk,Calvin's #1 captain
+280737,Liam,Shiels,HW,25,114,78,148,92,123,16,11,8,5,1,3,2,0,2, Full Time,hot,%O and %M with %T,,
+280744,Luke,Breust,HW,32,112,106,140,92,116,14,6,6,4,0,1,1,4,2, Full Time,garbage,%s from %P and %M on Hutchins... enjoyed himself late in garbage time,,
+270732,Matt,Suckling,HW,25,111,115,143,87,120,20,9,6,3,0,0,1,1,0, Full Time,seagull,%P and %M with %T and %s,,
+220047,Luke,Hodge,HW,26,109,115,138,90,123,19,11,6,2,3,1,2,1,0, Full Time,garbage,Up forward on Hunt... %P and %M with %T and %s... released into midfield late for junk time stats,,
+240399,Lance,Franklin,HW,26,108,89,136,93,115,13,6,9,3,0,2,2,3,4, Full Time,garbage,%s from %P on Bock... also %M and %T... and the usual %F... most of his goals in Q4 junk time,reported,Reported for bumping Weller in Q3
+250089,Jordan,Lewis,HW,20,103,87,131,85,110,12,11,10,3,1,1,0,0,1, Full Time,hot,%D and %T plus %M and %s,,
+240302,Grant,Birchall,HW,20,101,113,123,90,123,11,20,9,1,0,0,1,0,0, Full Time,news,A lot of pressured disposal in the backline early... %M and %D,,
+294877,Isaac,Smith,HW,21,99,107,123,84,105,13,8,9,1,0,1,0,2,0, Full Time,cash,%D and %M plus %s... worked hard as a link man all day,,
+260955,Cyril,Rioli,HW,21,95,85,124,70,92,15,2,4,5,0,0,0,2,2, Full Time,news,%s from %D and %M with %T on Harbrow,,
+230197,Brad,Sewell,HW,26,92,89,122,67,93,9,9,5,8,0,0,0,0,0, Full Time,news,%O and %T with %M,,
+260472,Max,Bailey,HW,19,84,70,100,77,97,3,13,7,3,19,0,1,0,0, Full Time,cash,%H and %P with %M,,
+210012,Shaun,Burgoyne,HW,14,79,93,98,66,90,9,13,6,2,0,0,0,0,0, Full Time,news,%B among %O with %M,,
+261386,Brendan,Whitecross,HW,14,78,64,102,62,81,12,5,8,2,0,0,0,0,0, Full Time,news,%P and %M on Brown,,
+220036,David,Hale,HW,13,76,66,95,64,80,10,3,5,2,14,0,1,1,0, Full Time,news,%H and %D with %M and %T... also %s,,
+260710,Paul,Puopolo,HW,13,68,68,86,53,72,7,10,3,4,0,2,0,0,0, Full Time,cash,%O and %T,job,Minding Stanley
+250146,Thomas,Murphy,HW,8,63,72,80,50,69,11,7,4,1,0,0,0,0,0, Full Time,news,%D,,
+250715,Josh,Gibson,HW,8,54,91,68,48,69,8,10,4,1,0,0,2,0,0, Full Time,job,On Lynch... %O and %M,,
+220060,Rick,Ladson,HW,5,53,51,70,40,54,7,4,4,3,0,0,0,0,0, Full Time,injured,%D and %M... right hamstring injury in Q3,subbed,Subbed off in Q3 for Osborne
+270936,Jordan,Lisle,HW,12,52,58,64,48,63,6,9,6,0,0,1,1,0,0, Full Time,job,Second game... on Day... %M and %O,in,Late replacement for Ryan Schoenmakers
+210092,Michael,Osborne,HW,8,29,20,36,24,30,3,2,2,1,0,0,0,1,0, Full Time,news,On in Q3 for Ladson... %P and %s,sub,Started as a sub
+220001,Gary,Ablett jnr,GC,33,135,144,93,100,142,21,13,5,8,0,1,1,0,1, Full Time,cherry,%D and %T with %M and %s,,
+240254,Jarrod,Harbrow,GC,19,95,89,58,70,96,17,5,6,4,0,0,0,0,0, Full Time,news,%O and %M with %T,job,Chasing Rioli
+240712,Michael,Rischitelli,GC,27,95,87,90,72,102,9,12,4,9,0,2,2,0,0, Full Time,news,%P and %T with %M,,
+293813,Thomas,Lynch,GC,24,86,76,65,74,88,10,5,7,1,0,2,0,3,1, Full Time,news,%s from %O and %M on Gibson,,
+240316,Sam,Iles,GC,10,85,80,51,64,87,15,6,5,3,0,1,0,0,0, Full Time,cash,%P and %M with %T,,
+250249,Danny,Stanley,GC,14,83,69,47,67,95,16,6,6,3,0,0,3,0,2, Full Time,news,%P and %T on Puopolo,,
+220009,Nathan,Bock,GC,14,81,89,49,67,90,14,7,8,1,0,0,1,0,0, Full Time,news,%P and %M,job,On Franklin
+281024,Maverick,Weller,GC,19,68,73,63,55,75,5,12,2,4,0,1,0,1,0, Full Time,cash,%s from %O,,
+290811,Jack,Hutchins,GC,9,65,78,51,53,75,8,10,4,3,0,0,1,0,0, Full Time,cash,%P and %M with %T,job,Has Breust
+200020,Josh,Fraser,GC,6,64,71,40,54,69,10,4,4,1,12,1,1,0,0, Full Time,news,%D and %M with %T,,
+291304,Daniel,Gorringe,GC,10,63,50,51,52,68,7,6,3,3,4,1,1,1,1, Full Time,news,%H and %D in very limited ruck work,,
+230015,Jared,Brennan,GC,11,62,66,49,49,64,7,5,2,3,0,0,0,2,1, Full Time,news,First goal... %s from %P and %T,,
+210014,Daniel,Harris,GC,9,61,43,45,49,66,8,8,4,2,0,1,0,0,0, Full Time,cash,%D and %M with %T,,
+220013,Campbell,Brown,GC,4,49,56,35,42,57,7,6,5,1,0,0,1,0,0, Full Time,job,Minding Whitecross... %D,,
+290527,Trent,McKenzie,GC,7,49,62,25,40,54,9,6,3,0,0,1,0,0,0, Full Time,cash,%P and %M,,
+281025,Luke,Russell,GC,4,43,56,27,38,51,7,5,5,0,0,0,1,0,0, Full Time,cash,%O and %M,subbed,Subbed off in Q3 for Liddy
+261083,Nathan,Krakouer,GC,3,42,35,27,31,40,7,2,2,2,0,2,0,0,1, Full Time,news,%s from %P,,
+290627,Dion,Prestia,GC,3,28,28,26,28,42,2,9,2,1,0,0,2,0,0, Full Time,cash,%D,,
+281000,Rex,Liddy,GC,2,27,12,28,24,33,1,7,2,1,0,0,0,0,0, Full Time,bubble,Second game... on in Q3 for Russell,sub,Started as a sub
+290790,Matthew,Shaw,GC,1,26,32,26,23,30,1,7,1,1,0,2,0,0,0, Full Time,cash,%P,,
+292512,Karmichael,Hunt,GC,2,18,42,13,22,36,2,9,1,0,0,0,3,0,0, Full Time,job,On Hodge... %P and %F,,
+291753,Sam,Day,GC,6,17,21,15,16,18,1,2,1,0,0,1,0,1,0, Full Time,news,Lisle on him,,

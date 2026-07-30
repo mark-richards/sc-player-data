@@ -1,0 +1,48 @@
+Adelaide,Crows,Western Bulldogs,Bulldogs,R4,12.8.80,4.4.28, Full Time
+Apr 21,2013,3.15,Footy Park,Seven,210016,10390408,adel-v-wb,0,Windy with rain at times,20,,
+
+<em>TrevorCh</em>: whats thompsons sc?<br><em>Sydney14</em>: he's 29 HawkTalker lol<br><em>kangars8</em>: only 8 years too old hawktalker<br><em>AmosFrank</em>: why does this site not work during the games?<br><em>OnTheRocks</em>: Goodes too old for Rising star :(<br><em>PezzDogg95</em>: @HawkTalker goodes does not qualify for rising star award<br><em>JoeMontana</em>: lol marksmen&#044; that's a great get&#044; haha.   :)  <br><em>Wends</em>: Bc there's chicks on here too Marksmen&#044; amazing!<br><em>HawkTalker</em>: goodes is an animal. THis year's rising star for sure<br><em>MarksMen</em>: Why we have Sussan ads on this site ???<br><em>flagdog49</em>: Jacobs i hate you....<br><em>PezzDogg95</em>: goodes hulk?<br>
+270963,Rory,Sloane,AD,26,120,146,159,85,121,21,8,4,7,1,0,0,0,0, Full Time,star,%O and %T with %M... had Picken as an opponent on a HBF to start then got Lower in Q2,,,479200,73,547000,124,Centre,9
+240370,Richard,Douglas,AD,37,118,131,157,84,117,18,7,3,9,0,2,1,1,0, Full Time,cherry,Matched up on Cooney... %P including %K with %T and %M... also %s,,,399600,38,449000,60,Forward,26
+270917,Patrick,Dangerfield,AD,27,100,120,125,81,106,15,6,2,4,0,2,2,4,1, Full Time,gun,First goal... tagged by Lower then got Picken in Q2... %P and %T plus %s,,,495400,103,582200,154,Centre,32
+210016,Scott,Thompson,AD,21,92,116,117,80,118,12,18,5,4,0,0,4,0,1, Full Time,news,%2 Boyd... %P and %T with %M... also %s and %F,,,528900,97,584100,103,Centre,5
+270938,Thomas,Lynch,AD,24,90,77,114,72,93,10,9,6,4,0,2,0,1,0, Full Time,news,Kicked %s from %D with %k by foot... also %M and %T... Young on him,,,258900,,234500,,Forward,27
+294828,Josh,Jenkins,AD,27,90,79,114,69,89,9,6,3,6,11,1,0,1,0, Full Time,news,%s from %D and %G with %T on Roughead... also %H,,,326000,40,377400,47,Ruck,4
+270296,Andy,Otten,AD,15,88,124,112,71,96,15,10,5,2,0,3,1,0,0, Full Time,job,Has Giansiracusa... %O and %M with %T,,,245600,44,297400,54,Back,22
+294307,Brad,Crouch,AD,26,88,83,113,67,96,11,11,2,6,0,0,1,1,0, Full Time,cash,%P and %T... also %M and %s,,,108500,-60,115900,-66,Centre,2
+291201,Ricky,Henderson,AD,16,87,83,112,66,90,17,5,4,2,0,0,0,1,0, Full Time,switch,Variety of roles forward and back... %D and %M with %T and %s,,,282900,31,333500,31,Forward,45
+261351,Matthew,Jaensch,AD,13,83,74,110,63,84,14,4,7,3,0,0,0,0,0, Full Time,news,%P and %M with %T,,,315500,46,332600,58,Back,10
+261384,Matthew,Wright,AD,13,82,73,109,58,81,14,5,3,5,0,1,0,0,0, Full Time,news,Starting forward on Johannisen... %P and %T with %M,,,428800,120,459300,129,Forward,11
+291806,Sam,Kerridge,AD,21,79,70,104,57,78,8,6,3,7,0,0,0,1,0, Full Time,bubble,Second game... %P and %T plus %M and %s,tagger,Tagging Griffen,108500,,115900,,Centre,29
+220086,Brent,Reilly,AD,19,76,108,101,58,81,10,8,3,6,0,3,2,0,0, Full Time,news,%B among %D plus %T and %M... also %F,,,381400,109,465800,120,Back,3
+220093,Ben,Rutten,AD,14,69,70,90,53,72,8,7,5,4,0,0,0,0,0, Full Time,news,%M and %O with %T,job,Has Cordy,235400,37,286400,32,Back,25
+270811,Sam,Jacobs,AD,21,68,77,75,64,77,2,8,1,2,38,0,1,0,0, Full Time,news,%H and %P with %T,,,435000,104,541800,110,Ruck,24
+261138,Jared,Petrenko,AD,20,67,56,90,47,70,6,8,1,8,0,0,1,0,1, Full Time,news,%s from %D and %T,tagger,Forward tag on Goodes,292600,65,343300,66,Forward,23
+250362,David,Mackay,AD,13,66,53,81,51,72,9,10,0,3,0,1,0,1,0, Full Time,news,%O and %T plus %s,,,360400,76,384800,98,Centre,14
+280506,Taylor,Walker,AD,11,63,87,79,53,69,6,8,4,3,0,2,1,1,0, Full Time,news,Kicked %s from %P and %T with %G on Morris,subbed,Subbed off for Porplyzia in Q4,424900,110,494500,161,Forward,13
+293193,Luke,Brown,AD,15,62,66,82,44,63,6,7,2,6,0,0,0,0,0, Full Time,cash,%P and %T with %M,job,Minding Stevens,163800,7,167500,-9,Back,16
+280934,Daniel,Talia,AD,8,55,42,74,42,54,7,2,6,3,0,0,0,0,0, Full Time,job,Donuts in Q1... standing Jones... %P and %M with %T,,,168000,29,252400,68,Back,12
+293222,Rory,Laird,AD,7,39,44,53,27,39,4,4,0,5,0,2,1,0,0, Full Time,rookie,First game... %D and %T,job,Responsible for Tutt,108500,,115900,,Back,46
+230174,Jason,Porplyzia,AD,0,11,8,14,8,12,3,1,0,0,0,0,0,0,0, Full Time,news,On in Q4 for Walker... %O,sub,Started as a sub,371600,103,403400,119,Forward,40
+230041,Adam,Cooney,WB,27,120,136,71,92,123,20,10,3,4,0,3,0,2,0, Full Time,hot,Matched up on Douglas... %O with %k by foot with %M and %T... also %s,,,410300,60,433400,40,Centre,17
+261160,Brett,Goodes,WB,30,115,108,76,86,118,19,8,6,6,0,2,1,0,1, Full Time,hot,Forward tagged by Petrenko... %P and %T with %M... also %s,,,185200,-20,225000,-49,Centre Back,44
+290799,Tom,Liberatore,WB,26,115,134,83,87,127,16,17,2,7,0,1,1,0,1, Full Time,hot,%B among %D with %T... also %M and %s,,,422300,84,462900,99,Centre,21
+230255,Will,Minson,WB,38,96,103,77,80,95,10,0,1,5,47,2,2,0,0, Full Time,news,A massive %H with %P... also %T and %F,,,447000,90,536000,81,Ruck,27
+210049,Daniel,Cross,WB,25,95,98,88,74,102,9,12,6,7,0,1,1,0,0, Full Time,news,%P and %T with %M,,,470300,100,520600,112,Centre,4
+220010,Matthew,Boyd,WB,19,89,74,36,66,96,19,9,0,2,0,0,0,1,0, Full Time,news,%2 Thompson... %D and %T plus %s,,,593700,,605800,,Centre,5
+291545,Mitch,Wallis,WB,10,82,77,48,64,90,14,10,4,2,0,0,0,0,0, Full Time,news,%D and %M with %T,,,413700,99,461300,100,Centre,3
+240156,Ryan,Griffen,WB,18,74,53,53,48,70,12,3,1,7,1,0,0,0,0, Full Time,injured,Tagged by Kerridge... %O and %T... smashed under a Rutten challenge in Q3 which left him sore in the sternum,,,504100,120,571800,131,Centre,16
+280012,Jordan,Roughead,WB,10,66,85,57,50,69,8,5,5,5,0,0,1,0,0, Full Time,job,Has Jenkins... %P and %T with %M,,,258900,103,324300,120,Ruck,23
+295467,Jackson,Macrae,WB,18,64,58,42,46,66,10,6,0,4,0,0,0,1,0, Full Time,rookie,First game... %P and %T plus %s,,,161200,,174500,,Centre,11
+250712,Dale,Morris,WB,9,61,88,47,46,66,9,5,3,5,0,1,2,0,0, Full Time,news,%P and %T with %M,job,Following Walker,232900,47,296800,41,Back,38
+271439,Liam,Picken,WB,15,57,63,53,41,60,6,6,2,6,0,0,1,0,0, Full Time,news,%O and %T with %M,tagger,Moved to tag Dangerfield in Q2,380800,101,372700,101,Centre,42
+291526,Luke,Dahlhaus,WB,8,57,56,43,39,55,8,5,0,5,0,2,0,0,1, Full Time,news,%O and %T plus %s,,,365900,110,434500,122,Forward,6
+294826,Tom,Young,WB,8,56,65,35,43,60,9,7,2,2,0,1,0,0,0, Full Time,job,Lynch is his man... %P and %M,,,252000,8,277100,14,Back,31
+260713,Nick,Lower,WB,8,54,43,34,43,60,9,6,3,2,0,1,1,0,0, Full Time,job,Tagging Dangerfield in Q1 then moved off to a HBF on Sloane... %D and %M with %T,,,330800,88,346300,102,Centre,33
+280056,Ayce,Cordy,WB,9,51,33,48,43,62,4,9,1,4,8,0,2,0,0, Full Time,news,%D and %T on Rutten... also %H and %F,,,240400,67,243400,60,Ruck,49
+280946,Koby,Stevens,WB,8,49,56,48,39,60,4,10,1,5,0,0,2,0,0, Full Time,news,%O and %T starting forward on Brown... also %F,,,221900,27,206700,9,Centre,25
+281013,Jason,Tutt,WB,14,44,52,46,32,48,4,4,2,6,0,0,2,0,0, Full Time,news,%D and %T up forward on Laird... also %M,,,203000,,194800,,Forward,15
+294101,Jason,Johannisen,WB,3,42,48,25,35,51,7,7,2,1,0,0,1,0,0, Full Time,southafrica,%P and %M,job,Responsible for Wright,204400,12,256800,13,Centre,39
+281078,Liam,Jones,WB,8,36,27,37,27,39,3,4,2,4,0,0,1,0,0, Full Time,news,No score from %D and %M with %T on Talia,,,235300,27,285300,29,Forward,19
+293884,Jake,Stringer,WB,3,24,19,24,20,27,2,3,2,2,0,1,1,0,0, Full Time,rookie,First game... on in Q3 for Giansiracusa... %P and %T plus %M,sub,Started as a sub,165700,,179500,,Centre Forward,9
+200079,Daniel,Giansiracusa,WB,2,23,39,22,17,24,2,3,1,2,0,0,0,0,0, Full Time,news,%D and %T on Otten,subbed,Subbed off in Q3 for Stringer,345300,112,377500,147,Forward,13

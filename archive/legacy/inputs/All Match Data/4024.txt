@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,St Kilda,Saints,R3,5.10.40,15.13.103, Full Time
+Apr 14,2012,7:40,Docklands,Fox Sports,200082,10340306,5015,0,,,,
+
+<em>Monaco</em>: BOYD GuN<br><em>W.Mantooth</em>: boyd junk dog<br><em>Bennyy</em>: give boyd something!!! 40 touches!<br><em>NDiddy</em>: lol @ BT<br><em>MacDaddy33</em>: Yeah milera just lost 9 points????<br><em>JRedden</em>: how is milera on 53 now? he was on 63 just a second ago<br><em>Nigey95</em>: started clay over devon smith&#044; looks like i'm going to regret it<br><em>CHEbber</em>: hahah BT <br><em>MacDaddy33</em>: Nothing wrong with milera score<br><em>hawks_12</em>: where are the dollar signs monty?<br><em>Chadwickus</em>: only 1% have dempster in SC<br><em>RobHarves</em>: mdon11 - go to bed<br>
+220010,Matthew,Boyd,WB,37,146,133,187,115,159,21,18,8,6,0,2,1,0,0, Full Time,magnet,%2 Hayes... %O and %T with %M,,
+230041,Adam,Cooney,WB,19,86,85,110,63,90,15,8,1,4,0,0,0,1,0, Full Time,tagged,Tagged by Jones... %P and %T,,
+230255,Will,Minson,WB,20,85,96,97,77,97,8,12,2,1,28,2,1,0,0, Full Time,news,%H and %P with %M,,
+260227,Shaun,Higgins,WB,14,82,71,105,71,94,13,9,8,1,0,2,2,0,1, Full Time,news,%s from %D and %M,,
+271439,Liam,Picken,WB,15,81,76,103,68,96,9,14,5,4,0,1,2,0,0, Full Time,news,%P and %M,tagger,Tagging Dal Santo
+210049,Daniel,Cross,WB,14,77,83,92,64,90,5,18,2,4,2,1,0,0,1, Full Time,news,%O and %T,tagger,Tagging Goddard
+220039,Brian,Lake,WB,13,74,73,98,63,84,13,5,9,1,0,0,2,0,0, Full Time,job,Has Koschitzke.. %M and %D,reported,Reported in Q4 for a rather soft punch
+291526,Luke,Dahlhaus,WB,9,74,88,93,62,82,12,10,3,2,0,6,2,0,1, Full Time,news,%s from %O and %M on Geary,,
+240212,Dylan,Addison,WB,13,72,71,94,58,79,12,6,6,2,0,0,1,0,1, Full Time,news,%D and %M plus %s,job,Minding Polo
+280012,Jordan,Roughead,WB,15,70,91,90,58,76,6,7,6,4,7,0,1,0,0, Full Time,news,%H and %D with %M and %T,,
+240156,Ryan,Griffen,WB,14,69,74,88,52,72,13,5,2,2,0,0,0,1,0, Full Time,news,%O,,
+200082,Ryan,Hargrave,WB,8,67,48,86,55,76,12,7,5,1,0,0,1,0,1, Full Time,switch,Responsible for Stanley... %D and %M... kicked %s when moved forward in junk time,,
+261319,Jarrad,Grant,WB,10,61,63,80,48,67,5,8,4,5,0,0,1,0,1, Full Time,news,%s from %D and %T with %M,,
+280056,Ayce,Cordy,WB,14,60,50,80,43,59,3,6,3,7,2,0,0,0,0, Full Time,news,%D and %T on Simpkin,,
+281139,Easton,Wood,WB,4,42,45,52,39,51,5,7,5,0,0,1,1,0,0, Full Time,job,Chasing Milera... %D and %M,,
+293847,Clay,Smith,WB,4,42,30,56,35,51,7,5,3,2,0,0,2,0,0, Full Time,cash,%D and %T with %M,,
+200083,Robert,Murphy,WB,3,39,64,50,34,51,7,7,2,1,0,0,2,0,0, Full Time,job,Minding Milne... %D,,
+200079,Daniel,Giansiracusa,WB,7,38,40,46,31,40,5,4,1,1,0,1,0,1,1, Full Time,news,%P... gave donuts in Q2,,
+250383,Nathan,Djerrkura,WB,8,32,23,40,25,33,3,3,1,2,0,0,0,1,0, Full Time,news,On in Q3 for Liberatore,sub,Started as a sub
+290799,Tom,Liberatore,WB,3,30,39,39,23,30,3,3,2,2,0,1,0,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q3 for Djerrkura
+281078,Liam,Jones,WB,9,27,47,37,25,36,4,2,2,2,0,0,3,1,0, Full Time,news,%s from %P and %M,,
+250601,Lukas,Markovic,WB,2,21,30,28,21,30,4,3,3,0,0,0,2,0,0, Full Time,job,Following Riewoldt... %M and %P,,
+230243,Sean,Dempster,SK,31,127,125,97,99,126,18,5,14,5,0,1,0,0,0, Full Time,hot,%D and %T plus %M,,
+990028,Lenny,Hayes,SK,37,126,124,107,98,136,14,16,7,8,0,1,1,0,1, Full Time,star,%2 Boyd... %P and %T plus %M and %s,,
+220075,Leigh,Montagna,SK,30,113,116,71,88,120,19,8,7,4,0,0,1,1,0, Full Time,hot,%D and %M with %T,,
+230084,Brendon,Goddard,SK,27,112,102,92,96,122,12,11,10,3,1,1,1,2,1, Full Time,gun,Tagged by Cross... %P and %M plus %T and %s,,
+280053,Tom,Simpkin,SK,20,106,83,74,79,102,17,3,9,5,0,2,0,0,0, Full Time,job,Has Cordy... %O and %M with %T,,
+260113,Jarryn,Geary,SK,15,98,95,54,71,97,19,4,5,4,0,1,0,0,1, Full Time,job,Chasing Dahlhaus... %D and %T plus %s,,
+261743,Clinton,Jones,SK,14,90,95,66,72,99,12,12,6,3,0,0,0,0,0, Full Time,news,%O and %M,tagger,Tagging Cooney
+270912,Jack,Steven,SK,19,89,85,58,74,99,13,11,6,1,0,0,0,1,0, Full Time,news,%D and %M,,
+280317,Rhys,Stanley,SK,21,88,88,72,72,89,10,4,6,4,8,2,1,1,3, Full Time,news,%D and %T with %M... also %H,,
+250340,David,Armitage,SK,30,87,119,77,64,91,9,10,1,8,1,1,1,1,0, Full Time,news,%P and %T,,
+200068,Jason,Blake,SK,19,85,73,76,68,88,9,7,8,5,1,2,1,0,0, Full Time,news,%M and %P,,
+220023,Nick,Dal Santo,SK,14,83,117,60,67,90,10,13,1,3,1,3,0,1,2, Full Time,tagged,Tagged by Picken.... %P and %s,,
+210001,Nick,Riewoldt,SK,16,76,116,65,65,78,7,6,6,2,1,2,0,2,2, Full Time,news,Kicked %s from %P and %G on Markovic... also %T,,
+240708,Sam,Fisher,SK,13,75,120,44,60,81,13,7,6,1,0,0,0,0,0, Full Time,news,Loose in defence... %P and %M,,
+200108,Stephen,Milne,SK,16,74,61,44,60,73,12,1,4,1,0,1,0,3,1, Full Time,garbage,Murphy is his man... %O and %M... all of his %s in late junk time,,
+250066,Dean,Polo,SK,14,71,63,38,56,72,13,4,4,1,0,2,0,1,0, Full Time,news,First goal... %s from %D and %M on Addison,in,Late replacement for Tom Ledger
+261323,Ben,McEvoy,SK,16,69,81,65,62,75,5,4,5,3,18,1,2,1,0, Full Time,news,%H and %D with %M and %s,,
+291773,Jack,Newnes,SK,14,61,54,40,54,75,11,4,8,2,0,0,4,0,0, Full Time,bubble,%P and %M... also %F,,
+210002,Justin,Koschitzke,SK,14,55,55,39,47,58,8,2,6,1,1,1,1,1,0, Full Time,news,Booted %s from %G and %O on Lake,,
+270766,Terry,Milera,SK,9,53,37,38,47,66,8,7,5,2,0,1,3,0,0, Full Time,cash,Has Wood... %D and %M with %T,,
+290826,Jamie,Cripps,SK,3,37,22,25,29,36,6,1,4,1,0,1,0,0,0, Full Time,news,On in Q3 for Gilbert,sub,Started as a sub
+250134,Sam,Gilbert,SK,2,25,50,20,20,28,3,4,0,2,0,2,1,0,1, Full Time,injured,%D and %T plus %s... back soreness in Q2,subbed,Subbed off in Q3 for Cripps

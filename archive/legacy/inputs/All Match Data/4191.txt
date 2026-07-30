@@ -1,0 +1,48 @@
+Geelong,Cats,Sydney,Swans,R23,17.10.112,11.12.78, Full Time
+Sep 1,2012,1:45,Kardinia,Seven,281065,10342302,430198,0,Sunny,16,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='margin-bottom:-2px'><b class="ticon tSY"></b> Gebs</em>: bolton better for the run reid back next week .. crows be wary <br><em>R.Griff</em>: BigLynchy lol Hey Eagles hey Eagles 26 billion time hahaha<br><em>Kidtuffa</em>: Kardina park will hold 33&#044;000. No finals and I doubt they will play Carlton & collingwood there in home & away season<br><b class="picon i_spud" title="runt is a spud"></b> runt: too be honest the only interest I have in the footy these days is to see who can win 3 in a row <br><em style='margin-bottom:-2px'><b class="ticon tSY"></b> Wends</em>: Thanks for DT2012 "Colonel Sanders" SJ&#044; you served my team well. <br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Pendlez10</em>: Go pies! F u all<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> D.Barwick</em>: because hawks fans become so arrogant monty?<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> masterhc2</em>: on the other hands the pies (and their fans) are just pathetic<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> DTFanatic</em>: M0nty&#044; it's all apart of the game. Even more so in the Finals. a bit of banter does not hurt anyone<br><em>R.Griff</em>: D. Barwick and thats coming from a Collingwood supporter haha good joke<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> HawkTalker</em>: surely that's Melbourne fans&#044; Barwick <br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> BigLynchy</em>: we are geelong&#044; we have a crappy song (hey)&#044; we are geelong&#044; we have a crappy song<br>
+220058,James,Kelly,GE,44,129,117,180,84,123,17,6,2,16,0,2,2,0,0, Full Time,hot,%D and %T,,
+200034,Joel,Corey,GE,43,107,101,143,74,108,9,13,1,13,0,2,1,0,0, Full Time,hot,%O and %T,,
+261497,Harry,Taylor,GE,26,107,122,140,88,111,15,6,14,2,0,0,0,0,0, Full Time,hot,%D and %M with %T,job,Following Goodes
+281065,Mitch,Duncan,GE,31,105,103,139,82,109,15,6,7,6,0,2,2,1,1, Full Time,hot,%P including %K... also %T and %M,,
+220007,Jimmy,Bartel,GE,26,102,92,133,84,110,14,7,9,4,1,1,2,1,1, Full Time,hot,%D and %M plus %s,,
+250321,Joel,Selwood,GE,19,101,111,130,77,106,16,11,3,5,1,4,1,0,0, Full Time,star,Tagged by Jack... %D including %B with %T,,
+261510,Tom,Hawkins,GE,26,100,103,123,84,103,10,6,7,3,0,0,0,4,1, Full Time,hot,Kicked %s from %D and %G on Grundy,,
+220054,Steve,Johnson,GE,26,99,89,128,75,106,14,10,3,6,0,0,1,1,1, Full Time,tagged,Tagged by McGlynn... %O and %T plus %M and %s,,
+260261,Trent,West,GE,26,96,98,118,83,107,7,10,5,5,26,0,2,0,0, Full Time,news,%H and %D with %T,,
+200039,Paul,Chapman,GE,24,90,107,113,75,95,15,3,6,1,0,0,1,3,2, Full Time,news,%s from %D and %M on Johnson,reported,Reported for striking McGlynn in Q1
+230248,Andrew,Mackie,GE,19,85,71,112,61,81,14,3,3,5,0,2,0,1,0, Full Time,news,%P and %T,,
+200131,James,Podsiadly,GE,16,78,75,97,66,81,12,2,5,1,2,1,1,3,1, Full Time,news,Booted %s from %P and %M on Richards,,
+980037,Matthew,Scarlett,GE,13,73,91,93,62,84,13,8,7,0,0,0,1,0,0, Full Time,job,Zoning off Walsh... %M and %O,,
+280918,Allen,Christensen,GE,15,67,73,85,54,72,5,9,3,5,0,2,1,1,0, Full Time,news,%O on Shaw,,
+200035,Corey,Enright,GE,13,66,83,88,52,69,12,3,6,2,0,1,1,0,0, Full Time,sore,One touch in Q1... %P... leg knock in Q1 which had him off for much of the first half,,
+230125,Tom,Lonergan,GE,16,59,51,77,47,60,6,4,4,4,0,2,1,1,0, Full Time,job,Standing Mumford... %P and %M plus a rare %s,,
+230214,Mathew,Stokes,GE,13,58,60,75,45,66,5,10,2,5,0,0,1,0,0, Full Time,news,%B among %O with %T,,
+280959,Nathan,Vardy,GE,10,58,56,71,48,56,8,1,3,1,10,2,0,1,1, Full Time,news,%H and %P plus %M and %s,,
+295942,Jordan,Murdoch,GE,9,58,30,79,45,60,9,2,6,3,0,0,1,0,0, Full Time,news,%D and %T,,
+210059,Josh,Hunt,GE,7,46,67,58,38,54,8,7,2,1,0,1,1,0,0, Full Time,news,%D,,
+280822,Taylor,Hunt,GE,1,20,36,24,16,24,2,5,0,1,0,0,0,0,0, Full Time,tagger,Tagging Jetta... donuts in Q1... %D,,
+280990,Steven,Motlop,GE,1,14,6,18,12,15,2,1,2,0,0,0,0,0,0, Full Time,,,sub,Started as a sub
+230253,Jarrad,McVeigh,SY,23,113,133,73,93,127,16,16,4,2,0,0,0,2,1, Full Time,hot,First goal... %D and %M plus %s,,
+280762,Shane,Mumford,SY,34,105,129,103,89,107,6,8,4,6,29,3,1,1,0, Full Time,hot,%H and %P with %T and %s,,
+260382,Josh P.,Kennedy,SY,16,98,105,67,78,104,14,10,5,3,0,1,0,1,2, Full Time,news,%O and %M plus %s,,
+980073,Adam,Goodes,SY,20,92,69,58,75,97,15,4,7,2,0,0,1,2,1, Full Time,news,%s from %D on Taylor,,
+990011,Jude,Bolton,SY,26,86,64,82,69,91,7,10,5,6,0,2,1,1,1, Full Time,news,%P and %T with %M,,
+220063,Martin,Mattner,SY,20,82,87,75,64,87,8,10,5,6,0,2,1,0,0, Full Time,news,%P and %T,,
+240226,Kieren,Jack,SY,19,79,83,33,66,93,17,8,3,1,0,2,3,1,0, Full Time,news,%P and %s,tagger,Tagging Selwood
+200071,Ryan,O'Keefe,SY,27,76,67,75,55,78,7,6,2,9,0,1,2,1,0, Full Time,news,%D and %T,,
+230140,Ben,McGlynn,SY,15,71,79,64,61,78,6,10,5,3,0,3,1,1,0, Full Time,news,%P and %M,tagger,Tagging Johnson
+270170,Tony,Armstrong,SY,8,68,81,31,50,72,14,7,1,2,0,1,0,0,0, Full Time,in,%l Nick Smith... %O and %T,,
+291450,Alex,Johnson,SY,13,66,74,58,56,75,6,11,6,2,0,0,0,0,0, Full Time,job,Chasing Chapman... %O,,
+230132,Nick,Malceski,SY,8,61,58,39,47,66,10,7,2,3,0,2,1,0,0, Full Time,news,%P and %T,job,Minding Stokes
+261212,Craig,Bird,SY,12,59,84,50,45,64,6,10,1,4,0,1,0,0,1, Full Time,news,Playing small forward again... %D,,
+281281,Lewis,Jetta,SY,9,59,57,47,41,57,8,4,2,5,0,1,0,0,0, Full Time,tagged,Tagged by Taylor Hunt... %D,,
+290117,Daniel,Hannebery,SY,13,58,42,50,44,63,6,9,2,4,0,0,0,0,0, Full Time,news,%B among %D,,
+210027,Ted,Richards,SY,8,57,82,35,50,72,9,11,3,1,0,1,2,0,0, Full Time,ipod,Standing Podsiadly... %D,,
+200023,Rhyce,Shaw,SY,7,55,60,38,41,60,8,8,1,3,0,0,0,0,0, Full Time,news,%P,job,Has Christensen
+240072,Heath,Grundy,SY,8,54,75,41,46,69,6,14,1,2,0,0,1,0,0, Full Time,tomahawk,On Hawkins... %P,,
+220089,Lewis,Roberts-Thomson,SY,3,44,39,31,36,49,6,6,3,1,1,0,0,0,0, Full Time,news,%O,,
+292509,Tommy,Walsh,SY,8,31,45,27,30,43,3,6,1,2,0,1,3,1,1, Full Time,irish,%s from %D and %T on Scarlett,subbed,Subbed off in Q3 for Parker
+291206,Mike,Pyke,SY,4,26,25,23,31,47,3,7,4,1,2,0,5,0,0, Full Time,canada,%H and %P... also %F,,
+290788,Luke,Parker,SY,1,23,21,18,21,30,2,7,1,0,0,0,0,0,0, Full Time,news,On in Q3 for Walsh,sub,Started as a sub

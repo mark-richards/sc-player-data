@@ -1,0 +1,48 @@
+Carlton,Blues,Melbourne,Demons,R6,18.13.121,8.12.60, Full Time
+May 05,2013,3.15,MCG,Seven,230022,10390608,carl-v-melb,0,Partly cloudy,18,,
+
+<em style='margin-bottom:-2px'><b class="ticon tAD"></b> twizted1</em>: lol no tons for melbourne<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Jackfc</em>: no one in melbourne scored over 100 sc..<br><em>DoctorRush</em>: How does Gawn not get $ sign. He'll go up most<br><em>matthius</em>: murphy only 129 sc when walker gets 138. flower SC is nothing more than a bloody lottery<br><em>NewFreoFan</em>: No $ sign for Gawn?<br><em>dezza33</em>: betts boo!<br><em>Pavalinco</em>: Agee. Bin not deserved. Are you watching the game Monty?<br><em>coondambo</em>: technically everyone should have a bin because the match was over before it started<br><em>cheers</em>: murphy cheers for the 120+<br><em>W.Mantooth</em>: 130 murph? come on!<br><em>matthius</em>: bin for jones is a bit rough. he had a great 3rd and 4th qtr. <br><em>scaledup</em>: jones and evans&#044; great day of money making and decent scores<br>
+250105,Marc,Murphy,CA,31,124,131,155,99,129,19,9,6,3,0,1,0,3,0, Full Time,star,%2 Viney... %O and %T plus %M and %s,,,527800,90,552800,133,Centre,3
+240060,Eddie,Betts,CA,35,102,126,131,80,99,6,5,5,9,0,2,1,4,0, Full Time,hot,%s from %O and %M on Garland.... also %T,,,355500,113,427800,142,Forward,19
+281079,Kane,Lucas,CA,19,102,106,128,85,118,13,16,7,3,0,0,1,0,1, Full Time,hot,%s from %O and %M,,,323600,41,315300,18,Centre,9
+290311,Mitch,Robinson,CA,21,99,105,129,76,102,15,7,5,5,0,2,1,1,0, Full Time,tagged,Tagged by McKenzie... %s from %P and %M with %T,,,411500,104,418600,83,Forward Centre,12
+270653,Jeff,Garlett,CA,31,97,135,123,72,93,11,4,1,7,0,1,0,4,0, Full Time,news,First goal... %s from %O and %T on Nicholson,,,394200,58,452600,41,Forward,38
+270146,Ed,Curnow,CA,21,96,86,123,78,109,12,12,5,5,0,0,2,1,1, Full Time,news,%D and %M plus %T and %s,,,361200,92,390000,93,Centre,35
+240014,Andrew,Walker,CA,20,89,141,119,64,90,19,2,3,4,0,0,1,1,0, Full Time,news,%P and %T,job,Responsible for Tapscott,410700,71,518400,76,Forward Centre,1
+990059,Heath,Scotland,CA,19,89,106,111,79,108,14,14,8,0,0,1,2,0,0, Full Time,news,Enjoys this kind of game immensely... %P and %M... also %F,,,473300,114,510200,122,Back Centre,29
+261258,David,Ellard,CA,26,85,80,118,60,87,11,5,4,9,0,0,2,0,0, Full Time,news,%P and %T with %M... also %F,tagger,Tagging Nathan Jones,432300,,456900,,Centre,46
+220110,Jarrad,Waite,CA,21,81,86,105,73,89,12,2,10,1,0,2,3,2,2, Full Time,news,Kicked %s from %P and %G on McDonald... also %T and %F,,,454800,,520000,,Forward,30
+270637,Simon,White,CA,14,81,92,106,64,84,13,5,8,2,0,0,0,0,0, Full Time,news,%P and %M with %T,job,Following Howe,244200,70,291100,75,Back,43
+230202,Kade,Simpson,CA,14,79,82,101,69,96,12,12,6,2,0,2,3,0,0, Full Time,news,%D and %M with %T,,,395600,78,404700,67,Centre,6
+270737,Shaun,Hampson,CA,16,78,79,101,69,86,9,3,8,3,16,1,3,0,1, Full Time,news,%D on Frawley... also %H and %F in ruck support,,,304600,67,361800,86,Forward Ruck,22
+270326,Lachie,Henderson,CA,18,75,113,100,59,78,10,5,7,4,0,1,1,0,0, Full Time,news,%O and %T with %M,job,Has Gawn,260500,48,329400,48,Back Forward,23
+240028,Brock,McLean,CA,10,74,78,92,63,87,9,13,5,2,0,1,1,0,0, Full Time,news,%P and %M with %T,,,475100,66,526900,61,Centre,14
+250672,Robert,Warnock,CA,27,72,110,82,68,80,4,4,2,2,44,0,2,0,0, Full Time,news,%H and %P,,,285600,44,351800,39,Ruck,11
+261043,Michael,Jamison,CA,9,66,75,86,53,69,7,6,7,3,0,0,0,0,0, Full Time,news,%O and %M,,,273700,63,357800,54,Back,40
+260533,Dennis,Armfield,CA,11,65,73,79,54,70,5,8,3,3,0,0,0,2,1, Full Time,news,%s from %O up forward on Strauss,,,269500,71,287100,87,Forward Centre,27
+271110,Chris,Yarran,CA,8,52,54,72,37,52,7,2,3,5,0,0,1,0,1, Full Time,news,%s from %P and %M with %T on Terlich,subbed,Subbed off in Q4 for Cachia,363900,52,426500,29,Back,13
+220056,Chris,Judd,CA,8,51,65,65,38,54,5,8,1,4,0,1,0,0,0, Full Time,tagged,Tagged by Dunn... %D and %T,,,421800,127,524500,148,Centre,5
+292511,Zach,Tuohy,CA,8,49,72,64,41,60,8,7,3,2,0,0,2,0,0, Full Time,job,On Sylvia... %P and %T,,,256100,39,332500,54,Back,42
+280971,Jaryd,Cachia,CA,1,27,25,34,20,28,5,3,0,1,0,1,0,0,1, Full Time,in,Late replacement for Andrew Carrazzo... first game... on in Q4 for Yarran,sub,Started as a sub,111300,,118200,,Centre,37
+296027,Matt,Jones,ME,26,104,94,80,84,112,12,15,4,4,0,3,0,1,1, Full Time,garbage,%B among %D with %T and %s plus %s... quiet first half but had a big second half with the sting out of it,cash,Is definitely the 2013 fantasy version of Toby Greene,264700,3,254000,11,Centre,45
+294741,Michael,Evans,ME,13,84,75,50,65,84,15,4,7,2,0,2,0,0,0, Full Time,cash,Playing pure midfield... %O and %M,,,180400,-68,189700,-76,Centre,32
+294874,Daniel,Nicholson,ME,18,80,65,55,61,82,13,4,6,4,0,1,1,0,1, Full Time,news,%O and %M with %T,job,Responsible for Garlett,367200,125,386200,110,Back,26
+270830,Colin,Garland,ME,15,79,86,56,62,81,11,7,4,3,0,2,0,1,0, Full Time,job,Has Betts... %O and %T with %M,,,300500,57,398400,51,Back,20
+240037,Colin,Sylvia,ME,15,78,92,49,62,82,12,6,3,2,0,0,0,2,1, Full Time,news,%s from %P and %M on Tuohy,,,401600,70,418200,49,Forward Centre,12
+250548,Lynden,Dunn,ME,21,76,78,58,53,72,11,2,3,6,0,0,0,1,0, Full Time,news,%P and %T plus %s,tagger,Tagging Judd,312600,,344500,,Back Forward,14
+260288,James,Frawley,ME,13,75,66,52,61,84,12,6,7,3,0,0,2,0,0, Full Time,job,Standing Hampson... %O,,,311600,57,351900,75,Back,8
+291533,Tom,McDonald,ME,9,68,79,47,54,72,10,7,5,2,0,1,0,0,0, Full Time,job,Standing Waite... %P and %M,,,306500,84,383300,104,Back,25
+270906,Jordie,McKenzie,ME,15,63,68,67,47,66,4,9,2,7,0,2,1,0,0, Full Time,tagger,Tagging Robinson.. %P and %T,,,343600,86,351300,85,Centre,13
+280521,Jake,Spencer,ME,9,57,61,50,48,57,5,3,2,3,18,3,1,0,0, Full Time,news,%H and %P,,,330400,,339800,,Ruck,42
+280579,Luke,Tapscott,ME,10,56,58,36,45,57,9,3,3,2,0,3,1,1,0, Full Time,news,%s from %P and %T on Walker,,,282300,64,272600,54,Back,35
+250222,Nathan,Jones,ME,7,54,95,40,47,70,7,12,1,3,0,2,3,0,1, Full Time,tagged,Tagged by Ellard... %O and %T... also %s and %F,,,430100,96,477300,109,Centre,2
+291902,Jack,Viney,ME,8,54,48,42,36,50,8,1,2,5,0,0,0,0,2, Full Time,cash,%2 Murphy... %D and %T plus %s,,,182800,30,193400,36,Centre,7
+270241,Dean,Terlich,ME,4,41,39,30,35,51,6,6,3,2,0,0,2,0,0, Full Time,cash,%D and %T... also %F,job,Chasing Yarran,212100,-19,206400,-16,Back,46
+230022,Shannon,Byrnes,ME,3,40,28,30,30,42,6,3,2,3,0,1,1,0,0, Full Time,news,%P and %M,,,319900,-31,325600,-31,Forward,10
+290528,Max,Gawn,ME,4,40,53,33,36,42,4,2,3,1,12,2,1,0,0, Full Time,news,%P and %M up forward on Henderson... also %H,,,108500,-73,115900,-93,Ruck,37
+250345,Rohan,Bail,ME,8,36,32,28,32,43,4,5,2,1,0,0,1,1,1, Full Time,news,%s from %D playing mostly forward,,,320000,42,332200,48,Centre,44
+291313,Jeremy,Howe,ME,3,35,34,32,27,37,4,2,3,3,0,0,1,0,1, Full Time,news,Kicked %s from %P and %M on White... also %T,,,391600,90,429600,98,Forward,38
+280608,Jack,Trengove,ME,3,33,35,29,25,34,4,2,2,3,0,1,1,0,1, Full Time,news,%O and %T plus %s,,,412300,57,423600,68,Centre,9
+270937,James,Strauss,ME,2,30,51,23,22,30,4,3,1,2,0,1,0,0,0, Full Time,news,%D and %T,job,Minding Armfield,214200,,258300,,Back,19
+294570,Dean,Kent,ME,7,29,29,26,20,25,3,0,0,3,0,1,0,1,1, Full Time,rookie,First game... on in Q1 for Grimes... %D and %s,sub,Started as a sub,102700,,109500,,Centre,34
+261297,Jack,Grimes,ME,0,12,13,3,9,12,3,1,0,0,0,1,0,0,0, Full Time,longterminjured,%P... shoulder injury in Q1 in a tackle... off to hospital with a likely broken bone,subbed,Subbed off in Q1 for Kent,447700,68,480800,74,Back,31

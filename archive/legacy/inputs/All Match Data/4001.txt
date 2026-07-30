@@ -1,0 +1,48 @@
+Western Sydney,Giants,Sydney,Swans,R1,5.7.37,14.16.100, Full Time
+Mar 24,2012,7:20,Homebush,Seven,100000,10000101,430008,0,Rainy and windy,22,,
+
+<em>fudgecake</em>: jawden i know<br><em>fudgecake</em>: why did tomas bugg just drop scores????<br><em>Stu1979</em>: Richmond will win Thursday&#044; I have a gut feeling.<br><em>jbarber</em>: bugg 103 down to 97?why!?<br><em>jbarber</em>: i took kennedy out 2 minutes before the deadline for shulz FML :(<br><em>Jawdan</em>: Why did Bugg just drop from 103 to 97?<br><em>TheHanger</em>: mumford only 82 on DT website<br><em>asher3197</em>: sup<br><em>jakeyh78</em>: GWS=Greatest Waste of Space<br><em>asher3197</em>: sup..<br><em>OnTheRocks</em>: Kennedy and McDonald on the bench :(<br><em>thebigshot</em>: parker got a hit early and was taken off precaution.. dont panic yet...<br>
+291509,Adam,Kennedy,WS,25,116,103,148,95,124,17,11,11,2,0,1,0,0,1, Full Time,hot,%B among %D with %M,job,On a HBF as advertised on Parker
+980059,Chad,Cornes,WS,26,111,104,148,84,114,17,7,8,6,0,1,1,0,0, Full Time,hot,%M and %P with %T,job,Trying to zone off Everitt
+280109,Callan,Ward,WS,26,107,107,141,78,105,17,5,3,7,3,3,1,1,0, Full Time,hot,%2 Kennedy.... %D and %T with %M and %s,,
+295344,Toby,Greene,WS,19,99,84,124,77,105,12,15,3,5,0,4,0,0,0, Full Time,rookie,%P with %b by hand... also %M,,
+261231,Rhys,Palmer,WS,26,98,126,129,77,109,13,12,4,7,1,3,3,0,0, Full Time,tagged,Tagged by Bird... %O and %T with %M,,
+970130,James,McDonald,WS,31,98,99,125,81,111,9,14,6,6,0,1,2,1,0, Full Time,tagger,Playing a possible forward tag role on Malceski... %D and %T with %M and %s,mrp,A bump on Parker in Q1 will be looked at as he did catch the kid in the jaw... probably not hard enough to get a week though
+291802,Tomas,Bugg,WS,20,97,87,124,77,108,14,13,5,4,0,1,1,0,0, Full Time,rookie,%D and %T... also %M,job,Chasing McGlynn
+261841,Jonathan,Giles,WS,22,77,87,90,69,83,6,6,3,2,26,1,1,1,0, Full Time,rookie,%H and %P with %T... also %M and %s,sore,Spent much of Q3 off with a cut on his head
+290306,Curtly,Hampton,WS,12,77,49,100,61,78,14,3,7,1,0,1,0,0,3, Full Time,rookie,%s from %D and %M on Mattner,,
+261189,Tim,Mohr,WS,13,74,86,96,59,78,9,7,7,3,0,0,0,0,0, Full Time,rookie,%D and %T with %M,job,At FB on Roberts-Thompson
+291964,Jack,Hombsch,WS,13,71,61,90,62,81,9,9,8,1,0,1,1,0,0, Full Time,rookie,%D and %M,,
+291720,Will,Hoskin-Elliott,WS,15,70,79,90,54,72,12,4,4,2,0,0,0,1,0, Full Time,rookie,%P and %T with %M and %s,,
+291771,Devon,Smith,WS,13,69,54,90,51,71,8,7,3,5,0,0,0,0,2, Full Time,rookie,%O and %T with %M and %s,,
+280804,Phil,Davis,WS,8,62,72,79,50,66,12,5,5,0,0,1,0,0,0, Full Time,job,On Reid... %D and %M,,
+291819,Adam,Tomlinson,WS,4,54,43,70,43,57,9,4,5,1,0,0,0,0,0, Full Time,rookie,Starved of supply like the young Suns tall forwards were last year... %O and %M,,
+291969,Stephen,Coniglio,WS,7,53,58,64,45,63,6,11,3,1,0,0,0,0,0, Full Time,rookie,%D with a worryingly high %B... also %M,sore,Copped a rabbit punch from McVeigh in Q4 and came off looking hurt
+291891,Jacob,Townsend,WS,8,42,40,58,32,45,6,3,2,4,0,2,2,0,0, Full Time,rookie,%P and %T with %M... also %F,job,Going with Goodes
+293845,Jeremy,Cameron,WS,3,39,40,52,33,42,6,2,5,1,0,1,1,0,0, Full Time,rookie,Getting very little quality supply at CHF on Grundy... %P and %M,,
+291783,Dylan,Shiel,WS,3,36,33,47,30,45,4,7,1,3,0,1,2,0,0, Full Time,rookie,%2 Jack... %O and %T... also %F,subbed,Subbed off in Q3 for Tyson
+294125,Nathan,Wilson,WS,7,36,23,46,29,39,7,2,1,1,0,1,1,1,0, Full Time,rookie,Playing deep forward for GWS isn't a recipe for lots of stats this year... %s from %O,,
+291784,Dom,Tyson,WS,2,25,15,28,23,33,2,8,1,0,0,0,0,0,0, Full Time,rookie,On in Q3 for Shiel... %P,sub,Started as a sub
+294917,Israel,Folau,WS,1,22,28,26,19,22,1,2,1,1,7,1,0,0,0, Full Time,rookie,Rotating from FF on Richards to ruck... causing damage with his body on other players but no damage on the stat sheet in Q1... %P and %H,,
+261212,Craig,Bird,SY,38,127,107,104,104,140,15,12,8,7,0,1,3,2,2, Full Time,hot,%O and %M plus %T and %s,tagger,Tagging Palmer
+240226,Kieren,Jack,SY,32,115,133,71,85,124,20,10,2,7,0,0,2,1,1, Full Time,hot,First goal... head to head with Shiel... %P and %T with %s,,
+281281,Lewis,Jetta,SY,22,99,103,80,82,105,11,9,8,3,0,0,0,2,0, Full Time,bluemoon,%s from %P and %T with %M,,
+990011,Jude,Bolton,SY,31,97,127,75,75,106,12,13,2,6,1,1,1,1,0, Full Time,news,%D and %T plus %s,,
+260382,Josh P.,Kennedy,SY,26,94,137,65,79,111,13,14,2,4,0,2,3,2,0, Full Time,medal,%2 Ward... won the inaugural Brett Kirk Medal... %D and %M plus %T and %s,,
+280762,Shane,Mumford,SY,34,91,95,92,85,101,4,7,5,4,35,2,3,1,0, Full Time,news,%H and %P with %T and %F... also %s,,
+250338,Nick,Smith,SY,20,87,79,71,66,90,11,8,5,6,0,2,1,0,0, Full Time,job,Responsible for Devon Smith... %P and %M,,
+240072,Heath,Grundy,SY,19,86,73,66,68,87,12,4,10,3,0,0,0,0,0, Full Time,news,%D and %M,job,Treating Cameron with contempt early
+210027,Ted,Richards,SY,19,85,103,65,67,84,12,3,10,3,0,1,0,0,0, Full Time,news,%M and %O,job,Has Folau
+980073,Adam,Goodes,SY,14,84,90,55,67,89,13,8,6,2,1,1,0,0,1, Full Time,news,%O and %M with %T on Townsend,,
+230132,Nick,Malceski,SY,18,83,83,54,62,87,15,3,6,5,0,0,2,0,0, Full Time,tagged,McDonald started on him which suggests a forward tag... %D and %M with %T,,
+291357,Gary,Rohan,SY,25,81,66,80,63,86,6,10,3,7,0,1,1,1,2, Full Time,concussed,Clashed heads with Bolton in Q1 and looked groggy... also left shoulder knock... %P and %T plus %s,,
+291450,Alex,Johnson,SY,13,80,79,37,63,82,17,2,8,0,0,0,0,0,1, Full Time,news,%M and %D,,
+290188,Samuel,Reid,SY,13,76,92,64,64,86,8,11,6,3,0,1,1,0,2, Full Time,news,Booted %s from %G and %P on Davis,,
+230253,Jarrad,McVeigh,SY,15,73,86,43,63,88,12,10,4,1,0,0,2,1,1, Full Time,news,%O and %M plus %T and %s,mrp,A rabbit punch off the ball on Coniglio in Q4 will be scrutinised
+230140,Ben,McGlynn,SY,16,72,64,65,57,75,7,7,4,5,0,2,1,1,0, Full Time,news,%s from %O and %M on Bugg,,
+261257,Andrejs,Everitt,SY,20,64,65,59,48,68,6,7,1,6,0,0,1,1,2, Full Time,news,%P and %T on Cornes,,
+220063,Martin,Mattner,SY,8,62,59,44,51,66,9,5,7,1,0,0,0,0,0, Full Time,job,Minding Hampton... %P and %M,,
+290788,Luke,Parker,SY,7,55,61,39,46,63,7,10,3,1,0,1,0,0,0, Full Time,sore,Copped a big hip and shoulder by McDonald in Q1 that jarred his jaw... %P with %b by hand on Kennedy,subbed,Subbed off for Cunningham in Q3
+220089,Lewis,Roberts-Thomson,SY,10,46,58,35,41,54,5,6,2,1,6,0,1,1,0, Full Time,news,Started at FF on Mohr... %s from %G and %P... also %H,,
+290117,Daniel,Hannebery,SY,4,44,34,38,35,48,5,5,3,3,0,1,1,0,0, Full Time,news,No touches in Q1... %O and %T,,
+291978,Harry,Cunningham,SY,1,19,4,11,15,21,4,0,2,1,0,0,1,0,0, Full Time,rookie,On in Q3 for Parker,sub,Started as a sub

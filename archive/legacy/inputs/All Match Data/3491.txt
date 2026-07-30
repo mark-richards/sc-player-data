@@ -1,0 +1,48 @@
+Essendon,Bombers,Geelong,Cats,R12,12.11.83,23.16.154, Full Time
+Jun 12,2010,7:10,Docklands,Ten,200039,10281203,5015500,5159,Roof closed,14
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>Modd</em>: maat.1...shhh<br><em>Nigey95</em>: broaja picked 99 just a second before me in the PNG not that it matters anymore<br><em>Muels1</em>: oh poo ...  just realised i had j-pod on the bench this week :(<br><em>maat.1</em>: Sorry Modd&#044; the comeback s too late!! ;)<br><em>coreyw</em>: 34 touches and still classed as a quiet game. no more captain time for you sir<br><em>Nigey95</em>: selwood u hack as if you cant even get a ton...<br><em>Modd</em>: jokes over rioli...too late...sorry pal<br><em>Rioli33</em>: BREAKING NEWS - gilbert_19 just put higgins766 back in his box. <br><em>Crim2007</em>: hello everybody<br><em>Modd</em>: hahahahah higgins 766...owned<br><em>broaja4</em>: ablett= junk time king<br><em>adiman</em>: gabblet wat have u done. 98 s/c wat is this!<br>
+250267,Patrick,Ryder,ES,27,92,75,116,74,92,6,6,6,6,20,0,0,0,0, Full Time,news,%H and %D with %T and %M
+230051,Alwyn,Davey,ES,30,91,111,114,69,86,10,5,1,6,0,4,0,3,2, Full Time,news,First goal... %s from %P with %T
+240245,Courtenay,Dempsey,ES,19,90,97,117,71,96,13,9,6,4,0,2,1,0,0, Full Time,news,%D and %M with %T
+270935,Michael,Hurley,ES,21,84,109,101,72,86,12,3,5,0,0,1,0,4,2, Full Time,news,%s from %D and %G on Lonergan
+230231,Jobe,Watson,ES,14,82,69,99,69,96,13,15,4,0,0,1,0,0,0, Full Time,news,%O
+270951,David,Zaharakis,ES,15,77,56,99,62,79,9,5,7,3,0,0,0,1,1, Full Time,news,%D and %M
+210079,Nathan,Lovett-Murray,ES,15,75,78,100,60,84,13,7,4,4,0,3,3,0,0, Full Time,tagger,Tagging Selwood... %O and %T with %F
+240027,Brent,Stanton,ES,16,73,79,90,63,81,6,9,5,3,0,1,1,2,0, Full Time,pinkpig,Ling tagging him... %D and %M plus %s
+271022,Tayte,Pears,ES,10,72,59,96,53,72,9,5,5,5,0,0,0,0,0, Full Time,news,%M and %O plus %T
+960197,Dustin,Fletcher,ES,14,72,88,98,54,72,12,2,6,4,0,1,1,0,0, Full Time,ipod,Standing Podsiadly... %M and %D
+230238,Jason,Winderlich,ES,13,71,71,89,59,78,6,11,6,3,0,1,0,0,0, Full Time,news,%D
+990046,Mark,McVeigh,ES,14,69,104,88,53,72,12,5,3,2,0,0,0,1,0, Full Time,job,Minding Johnson... %D
+240319,Sam,Lonergan,ES,14,64,57,83,46,65,6,8,1,6,0,1,0,0,2, Full Time,news,%P and %T plus %s
+250366,Scott,Gumbleton,ES,12,62,53,80,53,70,9,6,7,1,0,0,1,0,1, Full Time,news,%P and %G on Taylor
+220115,Andrew,Welsh,ES,10,61,76,79,47,63,6,7,4,4,0,1,0,0,0, Full Time,tagger,Tagging Ablett jnr... %P and %T with %M
+261320,Tom,Bellchambers,ES,6,56,53,65,51,64,5,8,4,0,12,0,0,0,1, Full Time,news,%H and %P with %M and %s
+250352,Leroy,Jetta,ES,14,53,69,68,41,57,4,7,1,5,0,1,1,1,0, Full Time,news,%P and %T
+280824,Jake,Melksham,ES,4,45,29,56,40,55,5,8,4,1,0,0,1,0,1, Full Time,news,%P and %M plus %s
+261314,David,Myers,ES,8,42,26,58,31,48,5,5,1,5,0,0,2,0,0, Full Time,news,%P
+230060,Ricky,Dyson,ES,3,39,36,50,32,42,5,4,4,1,0,0,0,0,0, Full Time,news,%O and %M
+250569,Heath,Hocking,ES,3,34,29,46,29,42,5,4,3,2,0,0,2,0,0, Full Time,sore,%D... bleeding from the lip after copping one in the moosh in Q1
+250071,Henry,Slattery,ES,2,29,21,38,23,33,4,4,1,2,0,1,1,0,0, Full Time,job,Going with Byrnes... %O
+220007,Jimmy,Bartel,GE,37,137,160,96,110,140,19,9,8,4,1,2,0,3,1, Full Time,star,%D and %M plus %T and %s
+220054,Steve,Johnson,GE,37,125,112,101,103,124,14,4,10,4,0,1,0,4,4, Full Time,gun,%s from %P and %M with %T on McVeigh
+230022,Shannon,Byrnes,GE,38,124,112,112,101,129,11,11,9,6,0,0,0,3,0, Full Time,hot,%s from  %P and %M on Henry Slattery
+220058,James,Kelly,GE,26,120,152,85,98,132,16,16,7,3,0,1,0,1,0, Full Time,hot,%P and %T with %M and %s
+200131,James,Podsiadly,GE,37,111,132,94,100,122,11,6,10,3,1,1,3,5,1, Full Time,heart,Booted %s from %G and %O on Fletcher... carrying groin soreness
+250290,Travis,Varcoe,GE,31,105,131,86,87,109,10,9,3,4,0,1,0,5,1, Full Time,x-factor,%s from %O and %T
+220001,Gary,Ablett jnr,GE,20,103,98,71,89,127,14,20,6,2,0,0,2,0,1, Full Time,garbage,Tagged by Welsh... %O and %M... relatively quiet until late in Q4
+200039,Paul,Chapman,GE,25,99,107,60,74,103,17,8,2,5,0,2,1,1,1, Full Time,heart,Knock to the neck in Q3... %s from %P with %T
+230248,Andrew,Mackie,GE,19,92,62,57,76,99,16,5,11,1,0,0,1,0,0, Full Time,news,%O and %M
+250321,Joel,Selwood,GE,14,90,92,69,75,101,11,13,6,3,1,2,1,0,1, Full Time,tagged,Tagged by Lovett-Murray... %O and %M with %s
+200035,Corey,Enright,GE,10,83,116,40,64,90,17,7,4,2,0,1,1,0,0, Full Time,news,%K among %D with %T
+230214,Mathew,Stokes,GE,15,79,83,51,70,93,11,13,5,0,0,2,1,1,0, Full Time,news,%s from %P
+280822,Taylor,Hunt,GE,13,73,54,49,55,73,12,3,6,3,0,0,0,0,1, Full Time,bubble,Second game... %P and %M
+960375,Darren,Milburn,GE,8,66,61,40,53,72,11,7,5,1,0,0,0,0,0, Full Time,news,%D and %M
+240117,Mark,Blake,GE,10,60,86,51,56,69,4,9,3,0,21,0,0,0,0, Full Time,news,%H and %P plus %M
+200037,Cameron,Ling,GE,9,57,48,38,48,69,9,8,4,2,0,0,2,0,0, Full Time,tagger,Tagging Stanton... %P and %F
+261497,Harry,Taylor,GE,8,50,64,42,45,57,5,7,7,0,0,0,0,0,0, Full Time,gumby,On Gumbleton... %P and %M
+270193,Simon,Hogan,GE,7,48,38,38,43,61,5,11,3,1,0,0,1,0,1, Full Time,news,%B among %P with %M
+990076,David,Wojcinski,GE,7,48,68,30,45,66,7,12,3,0,0,0,2,0,0, Full Time,reported,%P and %M... reported for striking Davey in Q2
+260261,Trent,West,GE,10,42,23,50,39,52,1,6,3,4,10,1,3,0,0, Full Time,news,%H and %D
+230125,Tom,Lonergan,GE,3,35,40,26,26,36,5,3,2,2,0,0,0,0,0, Full Time,job,Standing Hurley... %D
+210059,Josh,Hunt,GE,2,30,36,24,25,36,3,7,1,1,0,0,0,0,0, Full Time,news,%O including %k by foot

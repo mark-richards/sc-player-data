@@ -1,0 +1,48 @@
+Adelaide,Crows,Western Bulldogs,Bulldogs,R2,11.16.82,9.10.64, Full Time
+Apr 7,2012,7:40,Footy Park,Fox Sports,200079,10340206,430022,0,Partly cloudy,20,,
+
+<em title="EL TIGER">el tiger</em>: porps sealed it<br><em>tyhwu</em>: boyd you are an absolute muppet gtfo of my team<br><em>tyhwu</em>: boyd sc?<br><em title="EL TIGER">el tiger</em>: Danger and Porps super finish<br><em>KingPetrie</em>: Boyd sc?<br><em>hammy97</em>: happy easter everyone :)<br><em>BenW--</em>: Dangerfield on the block<br><em>ap1975</em>: Where is everyone getting their SC scores from so quickly?<br><em>Cruise on</em>: Danger is still miles away from being elite. Much promise&#044; little delivery.<br><em>Blue_Steel</em>: porpy sc?<br><em>hammy97</em>: yyeeeaaahh go the crows!!!<br><em>Morts54</em>: These are 3/4e sc scores<br>
+210016,Scott,Thompson,AD,21,109,123,140,89,129,18,16,5,4,0,1,3,0,0, Full Time,hot,%P and %T... also %F,,
+270963,Rory,Sloane,AD,33,105,97,136,79,108,10,11,5,8,0,0,0,1,0, Full Time,hot,%D and %T with %M and %s,,
+270938,Tom T.,Lynch,AD,26,103,75,133,84,103,15,2,11,2,0,0,0,2,1, Full Time,hot,On in Q1 for Douglas... %s from %P and %M... has Wood,sub,Started as a sub
+250118,Nathan,van Berlo,AD,31,102,95,135,81,115,9,14,6,9,0,1,3,0,1, Full Time,hot,%P and %T with %M and %s,,
+220086,Brent,Reilly,AD,20,95,109,122,78,105,15,10,8,2,0,1,1,0,0, Full Time,news,%O and %M,,
+280506,Taylor,Walker,AD,25,95,101,118,78,94,13,3,6,2,0,2,0,3,4, Full Time,news,%s from %G and %O on Markovic... also %T,,
+261142,Bernie,Vince,AD,18,93,90,121,73,101,20,6,6,1,0,0,1,0,2, Full Time,news,%D and %M plus %s,,
+200092,Michael,Doughty,AD,13,88,94,111,72,96,14,10,7,1,0,1,0,0,0, Full Time,tagger,Tagging Cooney... %D and %M,,
+250362,David,Mackay,AD,26,88,91,120,62,87,12,5,4,8,0,1,1,0,0, Full Time,news,%P and %T,,
+230174,Jason,Porplyzia,AD,19,83,89,104,68,88,13,7,6,1,0,1,0,1,1, Full Time,news,%D and %M on Murphy,,
+270917,Patrick,Dangerfield,AD,18,78,92,96,67,84,9,9,7,1,0,2,0,1,0, Full Time,news,%P and %M,,
+270811,Sam,Jacobs,AD,17,76,84,90,65,78,7,4,3,2,30,0,0,0,0, Full Time,news,%H and %D with %M,,
+270742,Kurt,Tippett,AD,14,74,77,91,65,80,9,6,8,0,9,0,0,0,2, Full Time,news,Kicked %s from %G and %P on Lake,,
+291748,Brodie,Smith,AD,9,70,69,90,55,79,13,8,3,2,1,0,1,0,0, Full Time,news,%P with %b by hand with %T,,
+261138,Jared,Petrenko,AD,11,60,64,76,46,57,8,2,2,3,0,2,0,2,0, Full Time,news,First goal... %s from %O and %M... also %T,,
+280934,Daniel,Talia,AD,5,46,55,62,36,48,8,2,4,2,0,1,1,0,0, Full Time,job,Standing Jones... %P,,
+210056,Graham,Johncock,AD,3,44,50,57,36,53,8,6,1,2,0,1,2,0,2, Full Time,news,%B among %P,,
+291201,Ricky,Henderson,AD,4,44,58,54,36,51,4,9,2,2,0,0,0,0,0, Full Time,sore,%P and %M... knock to the right AC joint in Q2,,
+220093,Ben,Rutten,AD,8,43,41,54,40,52,5,6,6,0,1,0,1,0,0, Full Time,news,%M and %D,,
+261857,Ian,Callinan,AD,7,21,36,25,22,31,3,4,1,0,0,0,2,1,1, Full Time,news,%s from %P,,
+270296,Andy,Otten,AD,0,16,23,20,13,18,1,3,1,1,0,0,0,0,0, Full Time,job,On Giansiracusa,,
+240370,Richard,Douglas,AD,0,4,5,5,5,9,1,2,0,0,0,0,1,0,0, Full Time,injured,%O... came off in Q1 with a hamstring injury,subbed,Subbed off in Q1 for Lynch
+220010,Matthew,Boyd,WB,38,125,98,109,105,139,12,16,8,6,0,2,2,2,1, Full Time,hot,%P and %M with %T,,
+200083,Robert,Murphy,WB,25,108,109,67,83,114,19,7,8,4,0,0,1,0,0, Full Time,porpoise,Has Porplyzia... %O and %T with %M,,
+240156,Ryan,Griffen,WB,16,103,97,53,79,114,20,11,4,3,0,0,1,0,0, Full Time,hot,%K among %D with %M,,
+271439,Liam,Picken,WB,26,103,96,89,86,117,9,19,5,4,0,1,0,1,0, Full Time,hot,%B among %O with %M and %s,,
+210049,Daniel,Cross,WB,26,102,116,101,84,112,6,19,5,6,4,3,0,0,0, Full Time,hot,%P and %T with %M,,
+200082,Ryan,Hargrave,WB,18,93,74,54,75,102,16,10,7,1,0,0,0,0,0, Full Time,sore,%P and %M.... left knee knock late in Q4,,
+220039,Brian,Lake,WB,19,93,106,55,77,99,16,7,10,0,0,1,0,0,0, Full Time,news,%M and %P,job,Back to his old role of zoning off Tippett in defence
+260227,Shaun,Higgins,WB,14,85,72,58,70,98,13,10,6,3,0,0,2,0,2, Full Time,news,%O and %M,,
+200079,Daniel,Giansiracusa,WB,15,78,94,43,64,85,14,6,5,1,0,1,1,1,1, Full Time,news,%s from %P and %M on Otten,,
+230041,Adam,Cooney,WB,10,77,71,52,62,87,11,12,4,2,0,0,0,0,0, Full Time,tagged,Tagged by Doughty... %O,,
+250383,Nathan,Djerrkura,WB,15,76,67,54,59,76,11,4,5,3,0,1,0,1,1, Full Time,news,%s from %D,,
+250601,Lukas,Markovic,WB,14,75,76,55,62,81,11,5,9,2,0,0,1,0,0, Full Time,job,Standing Walker... %M and %O,,
+291526,Luke,Dahlhaus,WB,9,72,88,54,59,84,9,13,3,3,0,1,1,0,0, Full Time,news,A massive %B among his %D... also %M,,
+261319,Jarrad,Grant,WB,15,69,63,61,52,69,7,6,3,5,0,1,0,1,0, Full Time,news,%P and %T,,
+280012,Jordan,Roughead,WB,16,62,60,55,50,65,6,4,3,4,8,0,1,1,0, Full Time,news,%H and %D,,
+290799,Tom,Liberatore,WB,9,59,60,49,44,60,7,6,3,4,0,1,0,0,0, Full Time,news,%D and %M,,
+281139,Easton,Wood,WB,5,58,64,42,46,60,8,6,4,2,0,2,0,0,0, Full Time,job,%M and %D with %T... has Lynch,,
+230255,Will,Minson,WB,9,57,50,46,50,61,5,6,2,1,19,1,0,0,0, Full Time,news,%H with %P,,
+293847,Clay,Smith,WB,5,53,28,36,44,64,9,5,4,3,0,0,3,0,1, Full Time,news,%T and %O,subbed,Subbed out in Q4 for Dickson
+240212,Dylan,Addison,WB,4,50,43,38,39,54,7,5,3,3,0,1,1,0,0, Full Time,news,%D and %T,,
+281078,Liam,Jones,WB,10,49,50,32,42,49,7,1,4,0,0,1,0,2,1, Full Time,news,%s from %P and %M on Talia,,
+295712,Tory,Dickson,WB,2,25,39,18,22,30,3,5,2,0,0,0,0,0,0, Full Time,news,On in Q4 for Smith,sub,Started as a sub

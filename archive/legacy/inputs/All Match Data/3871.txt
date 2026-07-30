@@ -1,0 +1,48 @@
+Melbourne,Demons,Richmond,Tigers,R22,17.8.110,17.15.117, Full Time
+Aug 21,2011,4:40,MCG,Fox Sports,280746,10312208,5650,172,Sunny,19,,
+It will have to wait for 2012. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tGE"></b> CatAttack9</em>: won by 295 in my semi. woop<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> PICCOLLO</em>: 2380 sc<br><em style='margin-bottom:-2px'><b class="ticon tGC"></b> Your_mum</em>: still alive baby woo<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> ComeAtMe</em>: won by 3&#044; thanks sylvia and howe<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> mevans001</em>: wtf is going on riewoldt sc 107pts lmfao<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> timmeh23</em>: Some guy must make the scores up<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> 97crows98</em>: I may have played my last SC game. I think I will retire & stick to DT.<br><em>DangerCrow</em>: lost by 21 in SC.. thanks to ROO and COTCHIN. How roo 15dis 2.2 = 106 i have no idea.. JOKE!<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> ComeAtMe</em>: cotchin kicked richmonds goal to hit the front<br><em style='margin-bottom:-2px'><b class="ticon tWB"></b> Rated_RKO</em>: i quit <br><em>grubby</em>: OK. until next week. cheers all&#044; thanks for the fun<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> GRINDER</em>: is riewoldt's sc accurate? if so flowering YES! u won me the game haha<br>
+240037,Colin,Sylvia,ME,38,132,150,161,109,141,17,12,4,4,0,2,1,5,0, Full Time,hot,%s from %D and %M on Deledio,reported,Reported for bumping Post in Q1
+250222,Nathan,Jones,ME,27,105,119,132,87,111,14,8,5,4,0,4,2,3,0, Full Time,hot,%2 Grigg off a wing... %P and %T with %M and %s,sore,Left shoulder knock in a contest with Tuck in Q3
+270830,Colin,Garland,ME,25,98,101,131,71,96,15,5,6,6,0,1,0,0,0, Full Time,news,%P and %T with %M,job,Started on King but moved to Miller
+280608,Jack,Trengove,ME,21,93,95,119,73,97,12,7,4,5,1,1,1,2,0, Full Time,news,%2 Martin.... %P and %T with %M and %s,,
+230151,Brent,Moloney,ME,25,92,90,119,69,99,13,12,2,6,0,2,1,0,0, Full Time,news,%2 Tuck... %D and %T with %M,,
+270985,Cale,Morton,ME,19,92,85,119,71,94,13,8,6,4,1,2,0,0,0, Full Time,news,%P and %M with %T,,
+260952,Liam,Jurrah,ME,21,76,79,95,64,76,8,2,7,2,0,0,0,3,1, Full Time,news,%s from %O and %M on Rance,,
+230250,Jared,Rivers,ME,12,71,105,92,57,75,12,5,7,1,0,0,0,0,0, Full Time,news,%M and %D,job,Standing Vickery
+250360,Ricky,Petterd,ME,21,70,62,95,52,72,10,3,3,6,0,1,2,1,0, Full Time,news,%D and %T on Farmer then Houli,,
+270906,Jordie,McKenzie,ME,13,69,76,85,54,78,5,15,1,5,0,1,0,0,0, Full Time,news,%D and %T,tagger,Tagging Foley
+280763,Stefan,Martin,ME,6,65,65,82,51,67,10,4,3,2,10,0,0,0,0, Full Time,news,%H and %P with %T and %M,,
+250245,Clint,Bartram,ME,15,63,54,86,45,61,6,4,3,7,0,2,1,0,1, Full Time,tagger,Tagging Cotchin... %D and %T with %M and %s,,
+260288,James,Frawley,ME,9,62,57,81,49,69,9,7,4,3,0,0,1,0,0, Full Time,job,On Riewoldt... %M and %P with %T,,
+280972,Jack,Watts,ME,11,59,70,76,49,63,8,4,5,2,0,1,1,1,0, Full Time,job,In defence on Morton... %D and %M plus %s,,
+280746,Sam,Blease,ME,8,58,66,73,48,66,8,9,3,2,0,2,1,0,0, Full Time,job,Responsible for Edwards... %O and %M,,
+220052,Mark,Jamar,ME,19,57,72,64,54,65,5,3,0,1,38,0,2,0,0, Full Time,news,%H and %D... also %F,,
+290943,Jamie,Bennell,ME,20,56,69,73,41,54,3,5,2,6,0,1,0,1,0, Full Time,job,Minding Nahas... %O and %T plus %s,,
+280969,Tom,Scully,ME,8,55,76,68,44,63,5,11,2,3,0,0,0,0,0, Full Time,sore,%O and %T... troublesome right knee gave him trouble again in Q2 so he moved forward in Q3 on Houli,,
+230130,Joel,MacDonald,ME,8,53,58,68,47,66,8,8,5,1,0,0,2,0,0, Full Time,switch,Has Miller... switched forward in Q3 after being well beaten... %P,,
+200054,Brad,Green,ME,9,37,29,46,32,38,5,1,4,0,0,0,0,1,2, Full Time,news,On in Q3 for Howe... %s from %D,sub,Started as a sub
+200002,Aaron,Davey,ME,2,33,26,45,24,36,7,2,1,2,0,0,1,0,0, Full Time,mrp,On King to start Q3... %P... an elbow on Morton in Q2 will be looked at by the MRP,switch,Tagged by Houli... one touch in the first half... switched to defence in Q3
+291313,Jeremy,Howe,ME,0,2,4,5,5,12,1,2,0,1,0,0,3,0,0, Full Time,wall,Thursfield on him... %D and %F,subbed,Subbed off in Q3 for Green
+200109,Shane,Tuck,RI,25,108,124,83,80,114,14,14,3,7,0,1,0,0,0, Full Time,hot,%2 Moloney... %D and %T with %M,,
+240130,Nathan,Foley,RI,22,101,123,74,82,110,13,11,4,4,2,1,1,2,0, Full Time,magnet,Tagged by McKenzie... %P and %T plus %M and %s,,
+220071,Brad,Miller,RI,30,97,95,87,82,103,9,7,7,5,0,2,2,3,1, Full Time,star,%s from %P and %M on MacDonald... also %T... highly motivated playing his former club,,
+290847,Dustin,Martin,RI,25,92,115,69,73,97,11,10,0,5,0,3,1,3,1, Full Time,x-factor,First goal... head to head with Trengove... %P and %T plus %s,,
+240336,Brett,Deledio,RI,15,83,95,72,67,91,8,13,5,4,1,1,0,0,0, Full Time,job,Responsible for Sylvia... %D and %M,,
+260146,Angus,Graham,RI,28,83,85,85,67,83,4,7,2,6,20,1,0,1,0, Full Time,news,%H and %P with %T.... also %s with %M,,
+270941,Tyrone,Vickery,RI,16,83,83,68,66,83,9,5,4,4,15,1,0,0,2, Full Time,news,%s from %P and %T on Rivers.... also %H,,
+250298,Shaun,Grigg,RI,9,82,84,49,62,88,14,9,3,3,0,0,0,0,1, Full Time,news,%2 Jones off a wing... %P and %M with %T and %s,,
+250395,Jack,Riewoldt,RI,16,77,107,57,63,81,10,5,4,3,1,1,1,2,2, Full Time,news,Booted %s from %D on Frawley,,
+270896,Trent,Cotchin,RI,13,74,94,36,55,75,15,3,1,3,2,2,1,1,1, Full Time,tagged,Tagged by Bartram... %O and %T plus %s,,
+260930,Shane,Edwards,RI,18,66,88,44,50,72,10,8,0,4,0,1,1,1,0, Full Time,news,%D and %T on Blease,,
+240412,Mitch,Morton,RI,8,64,75,46,49,69,9,8,3,3,0,0,0,0,0, Full Time,news,%P and %M on Watts,,
+240707,Daniel,Jackson,RI,21,64,66,49,52,77,10,4,3,6,1,0,5,1,1, Full Time,news,%P and %T with %M and %s,,
+250623,Robin,Nahas,RI,15,59,65,54,47,65,6,5,3,5,0,0,2,1,2, Full Time,lebanon,%s from %P with %T and %M on Bennell,,
+271437,Jake,King,RI,16,59,74,56,50,66,5,7,4,4,0,2,2,1,0, Full Time,news,%s from %D with %T and %M on Garland,,
+270315,Jayden,Post,RI,4,46,59,37,39,51,5,7,4,1,0,1,0,0,0, Full Time,news,%O and %M,subbed,Subbed off in Q4 for Webberley
+261362,Alex,Rance,RI,3,37,57,26,32,46,5,7,2,1,1,0,1,0,0, Full Time,cougar,Following Jurrah... %D,,
+250662,Will,Thursfield,RI,2,35,50,28,29,39,4,5,3,1,0,0,0,0,0, Full Time,job,Following Howe... %P and %M,,
+250312,Bachar,Houli,RI,4,34,53,28,30,42,4,6,2,2,0,2,2,0,0, Full Time,skull,Sat on Davey until Q3 when moved to Scully... %P,,
+260970,Mitch,Farmer,RI,2,30,31,13,21,33,7,2,0,2,0,0,1,0,0, Full Time,job,Has Petterd... %O,,
+292025,Matt,Dea,RI,2,30,33,34,23,33,1,6,1,3,0,0,0,0,0, Full Time,news,%D and %T,,
+292500,Jeromey,Webberley,RI,8,29,39,26,22,27,3,0,2,2,0,0,0,1,0, Full Time,news,On in Q4 for Post... %P and %s,sub,Started as a sub

@@ -1,0 +1,48 @@
+Western Sydney,Giants,Gold Coast,Suns,R5,16.8.104,21.22.148, Full Time
+Apr 27,2013,1.40,Manuka,Seven,220001,10390504,gws-v-gcfc,0,Fine,25,,
+
+<em>colin wood</em>: All good lads&#044; was just going off what the app said hehe...damn!<br><em>matthius</em>: his break even is pointless. if he's in your team he aint going anywhere unless suspended/injured<br><em>buddy23!!!</em>: only site to trust in regards to breakevens = SC gold<br><em>tracygrims</em>: sc website is wrong.. ablett will fall by 5k..<br><em>Wends</em>: Gaz BE doesn't matter for those who've already got him.<br><em>Grasscutta</em>: Horrid team song and it skips in the DVD player<br><em>hardballge</em>: who cares what GAJ's BE is&#044; you start the season with him and thats it.<br><em>muddy85</em>: gg gablett<br><em>MudDawg</em>: Give Ablett the bin.<br><em>Hawkatack</em>: what is Hutchins sc please<br><em>tracygrims</em>: excellent game for me: ward&#044; dixon&#044; jäger&#044; and ablett not getting his be<br><em>Milney1234</em>: footy star app is wrong as well but it is over 160<br>
+291771,Devon,Smith,WS,31,117,132,146,91,119,18,8,3,4,0,2,0,3,2, Full Time,hot,%s from %O and %T with %M... starting on a HFF on Broughton but playing midfield,,,346600,80,329600,88,Forward,10
+280109,Callan,Ward,WS,21,112,113,140,92,125,16,15,8,2,2,0,0,0,0, Full Time,hot,%O and %M with %T,,,502500,101,539600,114,Centre,8
+261231,Rhys,Palmer,WS,28,104,113,131,81,108,11,11,4,6,0,1,0,2,0, Full Time,hot,%s from %P and %M on Stanley... also %T,,,383000,94,374200,100,Centre,7
+291783,Dylan,Shiel,WS,21,96,98,119,78,106,10,14,5,4,0,0,0,1,1, Full Time,news,%P including %B with %M and %T... also %s plus many score assists,,,370100,77,430200,76,Centre,5
+261189,Tim,Mohr,WS,14,89,88,118,69,90,18,2,9,1,0,0,0,0,0, Full Time,news,%D and %M,job,Standing May,255100,69,373900,74,Back,39
+291969,Stephen,Coniglio,WS,19,83,76,107,65,84,12,5,6,3,0,1,0,1,0, Full Time,news,%D and %M with %T and %s,,,396100,97,411000,99,Centre,3
+295344,Toby,Greene,WS,20,83,78,112,61,90,14,7,3,6,0,0,2,0,0, Full Time,news,Started on the bench... matched up on Ablett after HT... %O and %M with %T,,,419400,100,425000,131,Centre,4
+220108,Bret,Thornton,WS,14,71,63,94,61,76,12,2,11,0,1,0,1,0,0, Full Time,witcheshat,In defence on the resting ruck which is mostly Dixon... and got smashed to the tune of six goals... %P and %M including 7 grabs in Q1 playing tempo,,,318700,,339400,,Forward,46
+261374,Sam,Reid,WS,14,68,61,92,55,75,7,6,7,5,0,0,2,0,0, Full Time,news,%O and %M... also %T and %F,,,245200,32,291100,65,Centre,23
+294305,Lachie,Whitfield,WS,9,68,79,86,55,75,7,10,5,3,0,0,0,0,0, Full Time,cash,%P and %M with %T,,,256300,30,267100,32,Centre,6
+293845,Jeremy,Cameron,WS,21,67,61,85,65,82,10,3,8,0,0,0,4,3,1, Full Time,news,%s from %D and %G on Thompson... also %F which was all hands in the back frees,,,277700,79,311200,87,Forward,18
+280969,Tom,Scully,WS,15,66,48,85,56,76,8,7,5,3,0,0,2,1,1, Full Time,news,%D and %T with %M... also %F and %s,tagger,Tagging Ablett jnr in Q1 then went to Brennan,340600,55,369800,69,Centre,9
+240716,Setanta,O'hAilpin,WS,15,61,87,72,52,65,9,4,2,0,1,0,0,3,1, Full Time,news,%s from %P and %M on Day,,,157700,,252500,,Forward,37
+261841,Jonathan,Giles,WS,9,58,53,71,47,60,9,3,0,2,18,2,1,0,0, Full Time,news,%H and %D,,,397000,79,478800,92,Ruck,26
+291819,Adam,Tomlinson,WS,10,52,47,67,41,51,5,3,4,3,0,1,0,1,0, Full Time,news,%s from %D on Murphy... also %T and %M,subbed,Subbed off at 3QT for Bugg,241000,,258000,,Back,20
+294624,Lachlan,Plowman,WS,4,51,56,64,43,57,8,6,5,0,0,0,0,0,0, Full Time,news,%O and %M,job,Suns are rotating their resting mids through him,175500,57,189900,56,Back,30
+291790,Adam,Treloar,WS,8,48,50,58,40,57,4,11,2,2,0,0,0,0,0, Full Time,cold,%P and %T with %M,,,433200,63,434200,83,Centre,17
+294685,Zachary,Williams,WS,4,46,46,59,37,54,5,8,2,3,0,0,1,0,0, Full Time,rookie,First game... %O and %T,cannon,Up forward on MacKenzie,89300,,96200,,Back,51
+280804,Phil,Davis,WS,3,37,58,47,34,48,7,6,3,0,0,1,2,0,0, Full Time,job,Has Lynch.... %D and %M,,,312700,55,361200,53,Back,1
+295265,Nick,Haynes,WS,3,34,45,48,27,39,5,2,3,3,0,0,2,0,0, Full Time,news,%D and %M with %T,job,In defence again on Hall,216400,,198600,,Centre,19
+291509,Adam,Kennedy,WS,3,30,31,39,27,36,3,4,4,1,0,0,1,0,0, Full Time,job,Minding Matera... %O and %M,,,250900,35,281300,48,Centre,40
+291802,Tomas,Bugg,WS,7,17,13,23,13,18,2,0,0,2,0,0,1,1,0, Full Time,sore,On after 3QT for Tomlinson... %P and %T... smashed in the ribs in a pack in Q4,sub,Started as  sub,348300,61,380000,73,Centre,14
+220001,Gary,Ablett jnr,GC,28,131,160,85,106,139,19,13,5,3,0,2,0,3,1, Full Time,cherry,%D including %B with %M and %s... tagged by Scully in Q1 then went forward in Q2 to break it... moved back to midfield in Q3 matched up on Greene,,,590900,126,681200,163,Centre,9
+280711,Charlie,Dixon,GC,39,119,142,93,106,125,13,3,9,2,6,1,2,6,2, Full Time,star,First goal.. %s from %P and %M with %T... up forward on Thornton including three majors in Q1,,,359100,81,455200,91,Forward,23
+294613,Jaeger,O'Meara,GC,27,115,119,77,90,117,17,8,5,4,0,2,0,2,3, Full Time,hot,%O and %M plus %T and %s,cash,Making more money than Scully,231700,11,252900,11,Centre,1
+290527,Trent,McKenzie,GC,20,112,108,72,85,113,19,5,9,4,0,0,0,0,2, Full Time,hot,%K among %P with %M... also %T and %s,job,Responsible for the first gamer Williams,363800,,360000,,Back,18
+290627,Dion,Prestia,GC,25,99,85,75,78,103,13,8,7,4,0,0,0,1,1, Full Time,news,%P and %T plus %s,,,390800,77,415500,83,Forward,10
+290790,Matthew,Shaw,GC,19,99,93,57,82,106,17,9,9,0,0,2,0,0,1, Full Time,news,%D and %M plus %s,,,288700,66,305200,68,Back,26
+280722,Zac,Smith,GC,23,96,118,72,84,97,10,4,4,1,21,2,0,3,1, Full Time,x-factor,A much better performance today than recent poor outings... %H and %D plus %M and %s,,,291000,35,345100,54,Ruck,2
+293813,Thomas,Lynch,GC,21,91,95,72,76,93,11,4,8,3,2,2,1,2,1, Full Time,news,Kicked %s from %D and %G on Davis,,,338500,,366000,,Forward,19
+250146,Thomas,Murphy,GC,18,85,85,61,64,84,13,4,7,4,0,1,0,0,0, Full Time,news,%P and %T with %M,job,Has Tomlinson,247300,35,313200,36,Back,29
+240254,Jarrod,Harbrow,GC,14,84,76,45,65,93,15,11,2,2,0,0,0,0,3, Full Time,news,%D and %s,,,366600,34,415400,80,Back,5
+240712,Michael,Rischitelli,GC,15,83,86,72,67,93,8,14,5,4,0,0,0,0,0, Full Time,news,%D and %T with %M,,,322100,89,368800,112,Centre,35
+290832,David,Swallow,GC,9,80,88,49,61,88,13,11,2,3,0,0,0,0,1, Full Time,news,%P and %T with %M and %s,,,380600,84,410900,145,Centre,24
+250249,Danny,Stanley,GC,19,67,52,53,57,75,8,7,6,2,0,0,1,1,0, Full Time,garbage,Donuts in Q1... %O and %M plus %s... took a while to work into it but got decent stats in Q4 junk time,job,On a HBF on Palmer,476400,,483200,,Back,25
+230015,Jared,Brennan,GC,14,62,62,44,52,67,8,7,4,1,0,1,0,1,1, Full Time,skull,Tagged by Scully after QT... %B among %D with %M and %s,,,360900,29,414800,10,Forward,3
+292512,Karmichael,Hunt,GC,12,61,57,45,51,66,8,7,6,1,0,1,0,0,0, Full Time,nz,%O and %M,,,263000,37,302900,57,Centre,7
+281075,Rory,Thompson,GC,4,54,63,34,43,54,9,3,5,1,0,2,0,0,0, Full Time,news,%M and %O,job,Following Cameron,236400,-1,299400,23,Back,16
+281085,Steven,May,GC,9,53,68,37,44,58,7,6,3,1,0,0,0,1,1, Full Time,news,Kicked %s from %P and %M on Mohr,,,243900,69,320900,79,Back,17
+261756,Greg,Broughton,GC,8,50,54,35,45,60,7,7,6,0,0,0,1,0,0, Full Time,job,Starting on a HBF matched up on Smith but paying him no attention... %P and %M,,,391100,72,422700,90,Back,36
+291753,Sam,Day,GC,8,50,84,35,43,54,7,5,6,0,0,1,0,0,0, Full Time,job,In defence on O'hAilpin... %P and %M,,,220300,31,217700,51,Ruck,12
+296735,Aaron,Hall,GC,7,49,41,42,33,45,6,3,1,5,0,2,0,0,0, Full Time,news,%O and %T on Haynes,subbed,Subbed out in Q3 for Hutchins,345500,53,334100,53,Forward,33
+290817,Brandon,Matera,GC,9,45,43,21,40,55,9,4,3,0,0,0,2,1,1, Full Time,cold,%s from %D and %M on Kennedy,,,362100,49,347900,62,Forward,32
+290811,Jack,Hutchins,GC,2,31,24,18,23,30,6,0,3,1,0,0,0,0,0, Full Time,news,On in Q3 for Hall,sub,Started as  sub,160300,-44,178700,-27,Back,34

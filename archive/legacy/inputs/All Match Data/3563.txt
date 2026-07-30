@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Fremantle,Dockers,R21,24.11.155,5.9.39, Full Time
+Aug 21,2010,2:10,Launceston,Fox Sports,220073,10282103,5015465,5230,Windy,13
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>holzbauer</em>: did i win PNG? i said 128<br><em>Mico IV</em>: Youre just peeved off because dockers smash you everytime they play you<br><em>Danny_Bhoy</em>: id rather get a wooden spoon and a premiership in the space of 5-10 years then nothing<br><em>Mico IV</em>: The eagels are so shower AND they have no depth<br><em style='color:#a0a'>Dangermaus</em>: SC scores ?<br><em title="JAKO">jako</em>: From the Moon .. .. ..Man<br><em>karadoc</em>: i like to apologies to the Tasmanians for sending the under 15's<br><em>Kieran2</em>: agree yogi bear<br><em>roo boys!</em>: Burgoyne SC huge :o<br><em>roo boys!</em>: Buddy 128 SC<br><em>Kazakhstan</em>: eat shower&#044; derek.<br><em>Kieran2</em>: jacko where you from pearth<br>
+210012,Shaun,Burgoyne,HW,39,143,170,168,122,163,11,26,4,5,1,1,0,4,0, Full Time,star,%B among %P with %M and %s
+220073,Sam,Mitchell,HW,30,129,97,163,102,141,17,18,7,5,0,1,0,0,0, Full Time,gun,Tagged by de Boer... %D and %T with %M
+250715,Josh,Gibson,HW,26,128,147,165,104,144,18,16,9,5,0,1,2,0,0, Full Time,hot,Has Murphy... %P including %b by hand with %M and %T
+260955,Cyril,Rioli,HW,38,127,110,164,101,127,16,5,9,6,1,2,1,3,0, Full Time,x-factor,Tagged by Crichton... %O and %M with %T and %s
+200040,Chance,Bateman,HW,31,119,104,148,103,136,12,17,11,3,1,0,1,1,0, Full Time,hot,Head to head with Palmer... %O and %M with %T
+250089,Jordan,Lewis,HW,32,119,107,147,105,133,16,12,12,0,1,1,1,2,0, Full Time,garbage,%P and %M plus %s... enjoyed himself in junk time
+220047,Luke,Hodge,HW,33,112,103,147,83,112,15,8,4,8,0,3,1,1,1, Full Time,injured,Matched up on Broughton.... %D and %T with %M and %s... tweaked his right knee in Q4 and mothballed
+250257,Xavier,Ellis,HW,21,104,90,130,86,112,12,12,8,3,0,1,0,1,1, Full Time,hot,%P and %M plus %s on a HFF on Roberton
+240399,Lance,Franklin,HW,31,98,128,119,84,106,8,9,3,5,0,2,2,5,1, Full Time,news,First goal... %s from %P and %G on McPharlin
+200060,Brent,Guerra,HW,10,92,127,120,69,96,17,7,5,3,0,0,0,0,0, Full Time,news,%D and %M with %T
+261386,Brendan,Whitecross,HW,21,89,88,114,78,107,15,8,6,2,0,0,4,2,2, Full Time,news,Playing a HFF on van Berlo... %s from %D and %M.... also %T and %F
+240357,Jarryd,Roughead,HW,22,84,62,103,75,89,9,3,8,1,0,0,1,4,2, Full Time,garbage,%s from %G and %D on Grover... most of it in second half garbage time
+230197,Brad,Sewell,HW,14,83,86,107,64,87,9,10,5,5,0,1,0,0,0, Full Time,news,%O and %M
+220013,Campbell,Brown,HW,18,78,73,99,69,90,9,10,10,1,0,0,1,0,0, Full Time,news,%M and %D
+210092,Michael,Osborne,HW,18,77,47,100,64,89,7,11,6,5,0,0,2,0,2, Full Time,news,%O and %M plus %s
+280471,Ben,Stratton,HW,20,77,60,103,57,75,8,5,6,6,0,1,0,0,0, Full Time,job,On Pearce... %D and %M with %T
+250308,Brent,Renouf,HW,16,73,81,87,63,79,4,9,2,4,21,2,1,0,1, Full Time,news,%H and %P with %T
+270854,Carl,Peterson,HW,13,68,67,89,55,72,11,5,6,2,0,2,1,0,0, Full Time,news,%P and %M
+240302,Grant,Birchall,HW,8,64,61,80,51,72,11,9,3,1,0,0,0,0,0, Full Time,injured,Minding Bollenhagen... %O and %M... tweaked his right hamstring in Q3
+210062,Wayde,Skipper,HW,15,58,71,66,50,62,4,6,0,2,26,0,0,0,0, Full Time,news,%H and %D
+230082,Stephen,Gilham,HW,13,49,73,59,44,60,7,8,3,0,0,0,1,1,0, Full Time,job,Standing the resting ruckmen at FB.... %D and a bonus %s
+250146,Thomas,Murphy,HW,3,40,53,47,35,48,5,9,2,0,0,1,0,0,0, Full Time,job,Minding Walters... %P
+230107,Michael,Johnson,FR,27,121,103,91,102,128,15,9,11,2,4,0,0,2,1, Full Time,hot,%D and %T with %M and %H rotating through ruck... also %s
+261756,Greg,Broughton,FR,21,94,111,71,82,117,12,18,5,4,0,3,4,0,0, Full Time,news,Matched up on Hodge... %O and %T with %M
+281007,Michael,Walters,FR,15,90,89,54,68,91,16,6,4,4,0,4,1,0,1, Full Time,news,%O and %M on Murphy
+240139,Paul,Duffield,FR,15,89,93,54,65,90,16,5,5,4,0,0,0,0,0, Full Time,news,%O and %T with %M
+270908,Nick,Suban,FR,19,74,61,64,57,84,9,9,3,7,0,1,3,0,0, Full Time,news,%P and %M with %T.... also %F
+261231,Rhys,Palmer,FR,9,71,72,50,57,81,10,11,3,3,0,1,1,0,0, Full Time,news,Head to head with Bateman... %O including %b by hand
+230011,Kepler,Bradley,FR,9,70,58,57,62,83,6,15,3,1,7,1,0,0,1, Full Time,news,%O and %M plus %s
+270681,Jay,van Berlo,FR,10,68,76,67,53,69,5,9,4,5,0,3,0,0,0, Full Time,job,On a HBF on Whitecross... %P and %M with %T
+240158,Ryan,Murphy,FR,15,67,59,62,51,62,6,2,3,5,0,2,0,2,2, Full Time,garbage,%s from %P with %T on Gibson... all his goals in Q4 junk time
+250268,Garrick,Ibbotson,FR,13,63,40,46,52,69,9,6,6,2,0,1,1,0,0, Full Time,news,%P and %M
+271015,Matthew,de Boer,FR,12,63,61,53,48,72,7,11,1,5,0,0,1,0,0, Full Time,tagger,Tagging Mitchell... %P and %T
+290251,Zac,Clarke,FR,17,61,51,72,52,72,1,11,2,6,12,0,2,0,0, Full Time,news,%H and %P with %T
+280386,Clancee,Pearce,FR,14,60,48,57,49,69,5,10,4,4,0,0,1,0,0, Full Time,news,Playing as a forward on Stratton... %D and %M with %T
+280933,Dylan,Roberton,FR,14,58,66,51,49,68,5,10,2,3,2,0,1,1,0, Full Time,job,on Ellis on a HBF.... %O and %T
+261241,Clayton,Hinkley,FR,8,56,48,40,42,60,8,7,2,3,0,0,0,0,0, Full Time,news,%D and %T with %M
+230268,Steven,Dodd,FR,8,52,38,44,43,60,5,10,3,2,0,0,0,0,0, Full Time,news,%D
+200045,Luke,McPharlin,FR,8,48,43,33,43,57,7,6,6,0,0,0,1,0,0, Full Time,job,On Franklin... %O and %M
+281154,Justin,Bollenhagen,FR,3,46,36,37,36,48,6,3,3,3,0,1,1,0,3, Full Time,news,%s from %O with %T on Birchall
+230194,Byron,Schammer,FR,4,40,29,36,32,45,4,6,2,3,0,1,1,0,0, Full Time,spud,Played in a FP but that didn't work... %P and %T
+290296,Jesse,Crichton,FR,2,36,47,34,27,39,3,6,1,3,0,0,0,0,0, Full Time,tagger,Tagging Rioli... %D and %T
+990092,Antoni,Grover,FR,3,35,43,34,28,39,3,5,2,3,0,1,1,0,0, Full Time,job,Has Roughead... %P
+271092,Tim,Ruffles,FR,0,10,19,8,9,12,1,2,1,0,0,0,0,0,0, Full Time,injured,%l Paul Hasleby... %P... injured his right knee early in Q1

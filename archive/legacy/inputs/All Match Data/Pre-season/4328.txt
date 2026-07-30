@@ -1,0 +1,52 @@
+Western Sydney,Giants,Essendon,Bombers,W3,0.4.4.28,1.16.14.119, Full Time
+Mar 08,2013,6.10,Manuka,Fox Sports,,10380301,,0,Fine,29,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>MLSs</em>: O'Rouke is like mr miagyi..subbed on..subbed off<br><em>SydneyRox</em>: cheers nostra<br><em>R.Griff</em>: thanks Torp<br><em>Torpedo10</em>: Around the 15 Minute mark of the 3rd Q Griff. <br><em>R.Griff</em>: How long ago was Heppell subbed<br><em>dtchamp</em>: watson firing<br><em>TheoX</em>: good call nostrdamus<br><em>korza</em>: This is great by Goddard&#044; all the peanut's willbe jumping off him :)<br><em>brad_lee</em>: not a good start for o'rourke. SETANTA<br><em>Deakin</em>: Is Heppell a lock?<br><em>lloydy28</em>: Goddard lock easy<br><em>nostrdamus</em>: @SydneyRox&#044; Ward attacked Hockings knee with the back of his head :P<br>
+291776,Taylor,Adams,WS,18,77,49,100,62,84,9,9,6,4,0,1,1,0,0, Full Time,news,%D and %T with %M,,
+295344,Toby,Greene,WS,10,77,78,96,64,85,9,12,4,3,0,4,1,0,1, Full Time,tagged,%P and %T plus %M and %s... copped the Hocking tag in Q2 after Ward got subbed,mrp,A slight headbutt to Stanton in Q3 will be scrutinised
+291790,Adam,Treloar,WS,9,68,56,90,51,69,11,4,5,3,0,0,0,0,0, Full Time,tagger,Tagging Goddard... %P and %T with %M,,
+280969,Tom,Scully,WS,20,65,50,88,43,58,6,4,1,8,1,3,0,0,0, Full Time,news,One handball in Q1... %O and %T,,
+294624,Lachlan,Plowman,WS,8,63,54,84,48,63,13,1,6,1,0,0,0,0,0, Full Time,job,Playing back on Merrett.. %D and %M,,
+200111,Dean,Brogan,WS,9,62,74,75,56,69,8,5,3,1,18,3,2,0,0, Full Time,news,Started as #1 ruck... %H and %D with %M,,
+261189,Tim,Mohr,WS,9,62,72,84,52,69,12,2,8,1,0,0,2,0,0, Full Time,news,%M and %O,job,Following Hurley
+261231,Rhys,Palmer,WS,10,59,67,77,46,60,9,3,3,3,0,2,1,1,0, Full Time,news,%D and %T plus %M and %s,,
+291802,Tomas,Bugg,WS,14,59,63,83,40,54,9,0,3,6,0,2,1,0,0, Full Time,job,Minding Jetta... %O and %T,,
+291969,Stephen,Coniglio,WS,8,58,67,76,49,69,11,6,5,1,0,0,2,0,0, Full Time,news,Starting on a HFF on Baguley... %O and %M... also %F,,
+293738,Sam,Frost,WS,11,53,62,68,44,55,7,1,4,2,1,0,1,2,0, Full Time,news,First goal... %s from %D and %M on Fletcher,,
+280804,Phil,Davis,WS,5,51,73,66,42,54,7,5,4,2,0,3,1,0,0, Full Time,switch,Has Ryder... switched forward in Q3... %O and %M plus %T,,
+293662,Liam,Sumner,WS,4,47,34,62,38,51,9,3,4,1,0,1,1,0,0, Full Time,tagger,Tagging Stanton... %P and %M,,
+291783,Dylan,Shiel,WS,4,46,57,62,37,52,7,4,3,3,0,1,2,0,1, Full Time,news,%P and %T with %M and %s,,
+290687,Kurt,Aylett,WS,4,43,28,58,32,42,5,2,4,3,0,0,0,0,0, Full Time,news,Touched it once in Q1... %P and %T with %M,,
+294508,Aidan,Corr,WS,3,43,49,56,35,45,6,3,5,1,0,0,0,0,0, Full Time,news,%D and %M,job,Standing Crameri
+290306,Curtly,Hampton,WS,3,38,28,51,29,42,5,4,2,3,0,0,1,0,0, Full Time,switch,Standing Kommer in a BP... switched forward in Q3... %D and %T plus %M,,
+220108,Bret,Thornton,WS,2,35,36,45,28,36,7,2,3,0,0,1,0,0,0, Full Time,switch,Started at FF on Carlisle... switched to defence in Q3... %P and %M,,
+240716,Setanta,O'hAilpin,WS,7,28,26,35,24,32,4,2,1,1,1,0,1,1,1, Full Time,news,On in Q3 for O'Rourke... %s from %P... also %H,sub,Started as a sub
+293816,Mark,Whiley,WS,2,26,12,37,22,33,4,3,1,3,0,2,3,0,0, Full Time,news,A single kick in Q1... %O and %T... also %F,,
+291819,Adam,Tomlinson,WS,1,20,35,25,18,27,2,5,1,1,0,0,1,0,0, Full Time,news,Hooker on him... %D,subbed,Subbed off in Q4 for Townsend
+291891,Jacob,Townsend,WS,0,18,15,23,14,18,2,2,1,1,0,1,0,0,0, Full Time,news,On in Q4 for TOmlinson... %P,sub,Started as a sub
+294615,Jonathan,O'Rourke,WS,0,10,13,13,7,9,1,1,0,1,0,1,0,0,0, Full Time,subbed,On after QT for Ward... %D... subbed off at HT for O'hAilpin with right leg strapped up,sub,Started as a sub
+280109,Callan,Ward,WS,0,4,10,5,3,3,1,0,0,0,0,1,0,0,0, Full Time,injured,Tagged by Hocking... one kick... smashed in the back of the head by the knee of Hocking in a marking contest in Q1,subbed,Subbed off at QT for O'Rourke
+230231,Jobe,Watson,ES,33,120,150,107,98,135,10,21,3,7,0,2,1,2,0, Full Time,hot,%P including %B with %T and %M... also %s,,
+250267,Patrick,Ryder,ES,28,106,146,89,95,118,9,12,6,2,13,1,1,3,0, Full Time,hot,%s from %P and %M on Davis... also %H,,
+290160,Michael,Hibberd,ES,20,96,101,54,81,105,17,7,9,0,0,1,1,1,0, Full Time,news,%D and %M plus %s,,
+230084,Brendon,Goddard,ES,20,93,118,60,78,108,15,11,8,2,0,0,2,0,0, Full Time,tagged,Tagged by Treloar.. %D and %M plus a supergoal,,
+261320,Tom,Bellchambers,ES,21,92,103,69,84,103,10,8,5,1,24,2,2,1,1, Full Time,news,%H and %P with %M and %s,,
+240027,Brent,Stanton,ES,14,85,99,44,71,100,16,11,5,1,0,1,2,0,1, Full Time,tagged,Tagged by Sumner... %D and %M... also %F,,
+270588,Cale,Hooker,ES,19,83,92,70,71,90,8,11,7,2,0,2,0,1,0, Full Time,job,Tomlinson is his man... %M and %O with %T,,
+290629,Dyson,Heppell,ES,14,80,97,48,64,87,14,7,6,2,0,1,1,0,0, Full Time,news,Looking a million dollars albeit against poor opposition... %O and %M with %T,subbed,Subbed off in Q3 for Lovett-Murray
+291804,Elliott,Kavanagh,ES,16,80,59,49,63,85,13,7,4,2,0,0,0,1,1, Full Time,news,%s from %O and %M mostly chasing the ball,,
+294798,Mark,Baguley,ES,20,78,78,75,64,78,6,7,7,4,0,3,0,1,0, Full Time,job,%P and %M plus kicked %s... playing a HBF on Coniglio,,
+260073,Ben,Howlett,ES,15,71,76,43,55,72,12,4,4,2,0,1,0,1,0, Full Time,news,%O and %M plus %T and %s,,
+292503,Stewart,Crameri,ES,10,65,59,66,53,71,4,10,5,4,0,0,0,0,2, Full Time,news,%D and %M on Corr... also %T,,
+250569,Heath,Hocking,ES,19,64,71,51,55,79,7,11,0,4,0,1,3,2,1, Full Time,sore,Tagged Ward then moved to Greene in Q2 after Ward was subbed off... %P and %s... right leg strapped up just under the knee,mrp,Reported in Q2 for a bump to the head of Bugg... not a whole lot in it
+261314,David,Myers,ES,13,62,100,36,53,75,9,13,1,0,0,0,0,1,0, Full Time,news,%P with %b by hand,,
+290641,Jake,Carlisle,ES,12,61,55,36,52,69,11,5,6,1,0,2,2,0,0, Full Time,job,On Thornton... %O and %M... also %F,,
+240245,Courtenay,Dempsey,ES,8,58,64,25,49,72,13,6,4,1,0,0,3,0,0, Full Time,news,%D and %M... also %F,,
+295285,Jackson,Merrett,ES,11,55,57,42,48,64,7,6,4,2,0,1,2,1,1, Full Time,news,%s from %P and %M on Plowman,,
+960197,Dustin,Fletcher,ES,6,53,73,20,41,60,12,6,1,1,0,1,1,0,0, Full Time,job,Responsible for Frost... %P,,
+210079,Nathan,Lovett-Murray,ES,8,48,36,44,33,48,5,5,1,5,0,0,0,0,0, Full Time,news,On in Q3 for Heppell... %D and %T,sub,Started as a sub
+270935,Michael,Hurley,ES,4,43,41,30,39,49,6,5,5,0,0,2,1,0,1, Full Time,sore,%s from %G and %P on Mohr... right ankle twisted in Q4 when Mohr trod on him... surprisingly returned late on,,
+250352,Leroy,Jetta,ES,2,35,37,8,25,37,10,0,1,1,0,0,1,0,1, Full Time,bugg,%s from %P on Bugg,subbed,Subbed off in Q3 for Davey
+297438,Martin,Gleeson,ES,3,31,22,28,24,33,3,4,2,2,0,0,0,0,0, Full Time,news,On in Q3 for Kommer... %P and %T with %M,sub,Started as a sub
+291686,Nick,Kommer,ES,2,27,37,22,20,30,3,5,0,2,0,0,0,0,0, Full Time,news,Starting deep forward again on Hampton... %P and %T,subbed,Subbed off in Q3 for Gleeson
+230051,Alwyn,Davey,ES,6,9,10,9,12,18,1,1,1,1,0,0,3,1,0, Full Time,news,On in Q3 for Jetta... %s from %O,sub,Started as a sub

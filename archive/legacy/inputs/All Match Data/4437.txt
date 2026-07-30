@@ -1,0 +1,48 @@
+Essendon,Bombers,Collingwood,Magpies,R5,18.13.121,10.15.75, Full Time
+Apr 25,2013,2.40,MCG,Seven,240366,10390501,ess-v-coll,0,Fine,21,,
+
+<em><b class="picon i_anzac"></b>Jolinar</em>: Do i take Pendles SC score as Capt or go for GAJ?<br><em><b class="picon i_anzac"></b>waldeckr</em>: unfair icon for winderlich&#044; he averaged 94 in 2009 and 88 in 2010<br><em><b class="picon i_anzac"></b>elitegod22</em>: who here reckons rockliff will get more than swan<br><em><b class="picon i_anzac"></b>CaptRory</em>: hmm&#044; take Watson for capt or stick with GAJ?<br><em><b class="picon i_anzac"></b>banta</em>: bugger. had 5 on sidey<br><em><b class="picon i_anzac"></b>whale607</em>: zaharakis u gun!<br><em><b class="picon i_anzac"></b>GoLions</em>: zaha for medal<br><em><b class="picon i_anzac"></b>elitegod22</em>: big z for the medal<br><em><b class="picon i_anzac"></b>buddyboyz</em>: zaka wins the medal<br><em><b class="picon i_anzac"></b>danmaio</em>: zha<br><em><b class="picon i_anzac"></b>matthius</em>: idiots stressing over a few points. if your vc gets over 120 LOCK HIM IN. you risk losing too much with bugger all gain.<br><em><b class="picon i_anzac"></b>whale607</em>: 135 from pendles i reckon ill keep that<br>
+270951,David,Zaharakis,ES,28,130,140,157,107,142,21,13,4,1,0,0,0,4,1, Full Time,anzac,First goal.. %s from %D and %M... won the Anzac Day Medal,,,413400,79,446300,93,Centre,11
+240027,Brent,Stanton,ES,20,114,119,146,88,119,22,9,6,2,0,2,0,0,2, Full Time,magnet,%O including %k by foot... also %M and %T,,,583700,106,568700,123,Centre,5
+230231,Jobe,Watson,ES,23,109,126,130,95,127,12,19,5,2,0,2,1,2,1, Full Time,gun,Went forward when tags were put on him... %O and %M plus %T and %s,,,558300,158,631600,171,Centre,4
+261320,Tom,Bellchambers,ES,29,108,109,127,98,114,8,7,5,3,32,4,2,2,1, Full Time,hot,%H and %D with %M... also %T and %F,,,404200,92,467900,127,Ruck,2
+230238,Jason,Winderlich,ES,26,107,123,134,88,109,13,6,8,3,0,1,0,3,1, Full Time,bluemoon,%s from %P and %M on Shaw,,,272000,,246100,,Centre,8
+230084,Brendon,Goddard,ES,20,104,94,135,80,112,18,9,5,4,2,0,1,0,2, Full Time,hot,%O and %M with %T and %s,swan,Head to head with Swan,508700,101,556300,106,Back,9
+290629,Dyson,Heppell,ES,24,100,103,129,77,106,15,10,6,4,0,0,0,0,1, Full Time,hot,Well beaten by Sidebottom... %P and %T plus %M and %s,,,481700,100,493100,113,Back,21
+290160,Michael,Hibberd,ES,15,97,115,128,75,99,16,5,9,3,0,0,0,0,0, Full Time,news,%D and %M,,,387600,32,442000,49,Back,1
+240245,Courtenay,Dempsey,ES,9,77,93,104,57,79,16,2,5,3,1,0,1,0,0, Full Time,job,Sinclair is his man... %P and %M,,,404600,100,413900,111,Back,15
+250569,Heath,Hocking,ES,16,66,47,88,49,66,5,6,5,6,0,0,0,0,0, Full Time,tagger,Tagging Pendlebury... %O and %T with %M,,,336300,76,323100,92,Centre,39
+295285,Jackson,Merrett,ES,22,65,69,84,52,69,5,6,2,6,0,2,2,2,0, Full Time,cash,%s from %O and %M on Macaffer... also %T and %F,sore,Left calf issues in Q4,172500,-15,179900,-47,Centre,20
+292503,Stewart,Crameri,ES,19,62,61,80,56,76,8,7,6,2,0,0,3,1,1, Full Time,news,Kicked %s from %P and %G on the smaller Toovey,,,336900,37,419300,47,Forward,12
+270588,Cale,Hooker,ES,9,59,64,77,50,66,5,7,7,3,0,0,1,0,0, Full Time,news,%M and %O... also %T,job,Has Lynch,328100,52,386800,34,Back,26
+230051,Alwyn,Davey,ES,10,54,60,68,43,58,7,4,1,3,0,0,1,2,1, Full Time,news,%s from %O on Russell... also %T,,,286500,82,329200,81,Forward,29
+250366,Scott,Gumbleton,ES,11,54,65,65,48,57,6,4,5,0,0,1,0,2,0, Full Time,news,Booted %s from %D and %G on Reid,,,249600,,306800,,Forward,3
+261314,David,Myers,ES,8,52,36,70,40,51,10,0,6,1,0,0,0,0,0, Full Time,news,On in Q3 for Colyer... %P and %M,sub,Started as a sub,369300,60,391400,58,Back,23
+260073,Ben,Howlett,ES,8,51,51,66,37,51,4,7,1,5,0,2,0,0,0, Full Time,news,Played a fair bit forward... %D and %T,,,468900,108,493700,128,Centre,40
+200026,David,Hille,ES,9,50,51,57,46,55,4,6,3,0,15,1,0,0,1, Full Time,news,%H and %P with %M and %s... Brown took him when forward,,,383000,,403700,,Ruck,19
+294798,Mark,Baguley,ES,4,43,51,57,33,45,8,3,2,2,0,2,1,0,0, Full Time,job,Responsible for Elliott... %D and %T,,,295600,20,313600,34,Back,46
+280988,Travis,Colyer,ES,3,31,33,42,22,30,3,2,2,3,0,0,0,0,0, Full Time,news,%P and %T with %M,subbed,Subbed off in Q3 for Myers,261000,,264000,,Centre,32
+270584,Kyle,Hardingham,ES,2,28,38,34,25,33,3,5,3,0,0,0,0,0,0, Full Time,job,Chasing Fasolo... %D,,,252400,,343200,,Back,34
+290641,Jake,Carlisle,ES,2,26,51,35,22,30,6,1,3,0,0,0,1,0,0, Full Time,rock,Shut down Cloke almost completely... %D and %M,sore,Off for a bit in Q3 after getting smashed in a contest and getting a right ankle knock,329500,72,392700,43,Back,22
+280965,Steele,Sidebottom,CO,38,143,136,101,110,146,21,10,9,6,0,1,0,1,2, Full Time,hot,Smashed Heppell... %D and %M plus %s... also %T... very productive Q1 with 13 touches.... backed it up with another amazing Q2,,,496000,138,537900,146,Centre,22
+220105,Dane,Swan,CO,27,120,127,73,87,121,21,9,4,6,0,2,0,0,1, Full Time,hot,%2 Goddard... %P including %k by foot with %M and %T... also %s,dttalk,The #1 captaincy option from Calvin of DT Talk,642700,143,635200,119,Centre,36
+260257,Scott,Pendlebury,CO,21,108,136,62,84,115,18,11,2,3,1,1,0,2,0, Full Time,hot,Tagged by Hocking... %O with %M plus %T and %s,,,558000,128,650000,158,Centre,10
+240700,Heath,Shaw,CO,20,106,130,61,84,111,20,4,11,2,0,0,1,0,0, Full Time,hot,%P and %M.... also %T,job,Manned up by Winderlich,412800,115,501400,168,Back,39
+240232,Ben,Reid,CO,20,99,125,74,86,111,13,11,12,1,0,1,1,0,0, Full Time,news,%P and %M,gumby,Gumbleton is his man,274000,26,359700,65,Back,20
+220061,Quinten,Lynch,CO,15,89,86,60,78,103,13,9,8,1,8,0,2,0,2, Full Time,news,Booted %s from %G and %D on Hooker... also %H,,,387900,54,409300,79,Forward,21
+240366,Travis,Cloke,CO,15,67,63,43,57,69,10,2,6,0,0,0,0,2,3, Full Time,ghost,Booted %s from %D and %G on Carlisle... well held in the first half but lifted in Q3,,,447600,-4,515900,-21,Forward,32
+272005,Martin,Clarke,CO,10,67,60,42,56,81,11,10,4,2,0,0,2,0,0, Full Time,news,%O and %M plus %T,,,344600,52,388800,53,Back,9
+280104,Jarryd,Blair,CO,16,67,77,65,54,72,5,7,3,5,0,0,1,2,0, Full Time,news,%s from %O and %M... also %T,,,411700,94,452000,119,Forward Centre,11
+250090,Jordan,Russell,CO,14,66,64,56,52,73,8,7,4,5,0,1,2,0,1, Full Time,mare,Minding Davey... %O and %T with %M and %s... noticeably large amount of clangers,,,281700,49,291700,67,Back,2
+240359,Dale,Thomas,CO,8,65,58,42,53,76,10,11,1,3,0,3,2,0,1, Full Time,news,%D and %s,,,480000,171,515800,224,Centre,13
+240710,Ben,Hudson,CO,10,61,79,56,55,73,4,11,3,2,12,0,1,0,1, Full Time,news,%H and %P with %M and %s,,,370700,53,497300,92,Ruck,25
+261181,Brent,Macaffer,CO,8,60,59,46,51,69,7,10,5,1,0,0,0,0,0, Full Time,cash,%O and %M,job,Used in defence on Merrett,175200,-26,165700,-19,Forward,3
+293801,Jamie,Elliott,CO,14,57,61,61,44,57,3,6,3,5,0,1,0,1,0, Full Time,news,No score from %D and %T with %M on Baguley,,,375100,82,405400,104,Forward,19
+240073,Harry,O'Brien,CO,4,52,41,34,42,57,8,6,4,1,0,0,0,0,0, Full Time,news,Started on a wing but is rotating through the backline... %O and %M,,,343000,65,393500,89,Back,8
+294733,Paul,Seedsman,CO,4,49,56,25,37,49,10,1,4,1,0,0,0,0,1, Full Time,news,Is in the team for backline rotations only... %O and %M plus %s,,,254300,75,239300,57,Centre,40
+240419,Alan,Toovey,CO,4,47,51,32,36,51,7,6,2,2,0,0,0,0,0, Full Time,job,Interesting role on the much larger Crameri... %D and %M,longterminjured,Stretchered off in Q4 with a left knee injury after it twisted under him... confirmed later as a ruptured ACL,268400,32,353600,43,Back,34
+250133,Sam,Dwyer,CO,5,47,38,41,42,58,5,7,5,2,0,0,2,0,1, Full Time,cash,Started forward but played midfield in Q2... %P and %M... also %s and %F,,,196400,-8,233000,6,Centre,41
+260310,Nathan J.,Brown,CO,4,46,58,37,41,54,5,8,4,1,0,2,1,0,0, Full Time,job,Takes the resting ruckman which is mostly Hille... %D and %M,,,183400,29,246300,44,Back,16
+260246,Tyson,Goldsack,CO,8,40,53,31,34,42,4,4,1,1,0,1,0,2,0, Full Time,news,On in Q3 for Sinclair.... %s from %P,sub,Started as a sub,284400,69,352800,93,Back,6
+290821,Alex,Fasolo,CO,2,26,28,14,23,30,5,2,3,0,0,1,1,0,0, Full Time,news,%O and %M on Hardingham,,,373900,101,404100,137,Forward,1
+291386,Ben,Sinclair,CO,1,11,18,9,12,18,1,4,1,0,0,0,1,0,0, Full Time,news,%P on Dempsey,subbed,Subbed off in Q3 for Goldsack,266800,83,274300,71,Centre,28

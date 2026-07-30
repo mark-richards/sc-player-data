@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "WebSearch",
+      "WebFetch(*)",
+      "Read(//c/Users/Richa/AppData/Local/Temp/bookout/**)"
+    ]
+  }
+}

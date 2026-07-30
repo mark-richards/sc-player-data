@@ -1,0 +1,48 @@
+Geelong,Cats,St Kilda,Saints,R1,6.12.48,6.11.47, Full Time
+Mar 25,2011,7:40,MCG,Seven,250290,10310102,5015,3,Cloudy and windy,18
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Hopefully!,SC scores?,Only for the last Sunday game.,Team icons?
+<em>Frawley</em>: n<br><em>Frawley</em>: im so happy<br><em>pkambo-RFC</em>: poor selwood<br><em>PiesSuck</em>: 603 from 6 <br><em title="JIMMEH3">jimmeh3</em>: m0nty where are you getting your matchups from mate? taylor had roo&#044; scarlett had gamble or blake & lon rotated<br><em title="BOOMZ23">boomz23</em>: I love Harry Taylor :D<br><em>Jackmatt12</em>: selwood :(<br><em>Jackmatt12</em>: ffs selwood<br><em>cam_miller</em>: as if stkilda lost.<br><em>crazyet</em>: when will the delay scores work properly? monty; ?<br><em>winty</em>: wigsywins: Yes&#044; because everyone lives 5min away from the ground...<br><em>magpies01</em>: Milne is shower<br>
+200035,Corey,Enright,GE,26,124,125,158,100,130,20,11,10,2,1,3,0,0,0, Full Time,star,Provided vital run and carry in a congested game all night and was BOG in his 200th... %D and %M with %T,job,Minding Milne
+261497,Harry,Taylor,GE,25,115,142,147,93,118,16,10,10,3,0,4,0,0,1, Full Time,hot,%B among %D with %M.. also %T and %s,job,Standing Gamble
+220007,Jimmy,Bartel,GE,26,114,127,142,94,122,14,13,8,3,2,2,0,1,0, Full Time,magnet,Started slowly but accumulated quietly as he almost always does... %P and %M with %T,,
+200034,Joel,Corey,GE,30,103,99,133,83,114,14,11,6,5,0,1,2,1,0, Full Time,hot,%2 Armitage... %D with %b by hand... also %M and %T... and %s,,
+980037,Matthew,Scarlett,GE,19,93,102,116,80,105,15,12,8,0,0,3,1,0,0, Full Time,news,Racking up stats as loose man in a very congested and defensive game... %O and %M,,
+220058,James,Kelly,GE,24,90,118,115,67,99,11,15,0,7,0,2,1,0,0, Full Time,news,Started in the guts... %P and %T,,
+990076,David,Wojcinski,GE,19,86,90,108,72,97,14,9,6,1,0,0,1,1,1, Full Time,news,%O and %M plus %s... moved forward to shut Fisher down in Q3,,
+980064,Brad,Ottens,GE,20,81,105,94,72,89,5,11,2,3,25,3,1,0,1, Full Time,news,%H and %D with %s,,
+210059,Josh,Hunt,GE,14,80,70,104,64,84,12,6,8,2,0,0,0,0,0, Full Time,sore,%O and %M... right hamstring twinge in Q3,,
+230248,Andrew,Mackie,GE,14,80,83,104,59,84,13,8,3,4,0,0,0,0,0, Full Time,news,%K among %D with %M... McQualter trying to keep him honest,,
+220054,Steve,Johnson,GE,14,77,88,97,65,92,14,12,2,2,1,4,3,0,1, Full Time,tagged,%s from %D under the tag by by Jones... also %M and %F,,
+281065,Mitchell,Duncan,GE,15,75,77,92,65,84,10,8,5,1,0,1,1,2,0, Full Time,news,%P and %M plus %s,,
+230125,Tom,Lonergan,GE,10,63,80,84,54,72,9,5,8,2,0,0,2,0,0, Full Time,job,On Riewoldt... %M and %P with %F,,
+230214,Mathew,Stokes,GE,13,63,57,74,62,87,5,18,6,0,0,0,2,0,0, Full Time,news,A rather high %B among %O underlining how Geelong is still overpossessing the pill,,
+280822,Taylor,Hunt,GE,13,63,63,82,51,72,8,9,3,4,0,2,2,0,0, Full Time,news,%P and %T,,
+250290,Travis,Varcoe,GE,9,61,42,75,55,79,8,13,4,1,0,0,2,0,1, Full Time,news,%s from %P and %M on Baker,,
+970006,Cameron,Mooney,GE,8,54,53,69,47,61,9,5,6,0,0,1,1,0,1, Full Time,news,Booted %s from %P and %G on Dawson,,
+960375,Darren,Milburn,GE,9,44,59,57,38,57,8,6,1,2,0,0,3,1,0, Full Time,x-factor,On in Q1 for Selwood... %P and %T with %F... kicked the matchwinning %s in the last minute!,sub,Started as a sub
+261510,Tom,Hawkins,GE,4,41,57,48,36,46,3,7,2,1,7,1,0,0,0, Full Time,cold,%H and %P in a #2 ruck cum forward role that isn't getting him into the game,,
+290550,Cameron,Guthrie,GE,4,39,30,50,34,51,5,8,2,2,0,0,2,0,0, Full Time,rookie,%O and %M,,
+291307,Daniel,Menzel,GE,3,38,33,49,30,45,4,7,1,3,0,0,1,0,0, Full Time,news,%D and %T,,
+250321,Joel,Selwood,GE,2,27,24,33,23,30,2,5,2,1,0,1,0,0,0, Full Time,concussed,%B among %P with %M... flattened in a bump by Ray in Q1 with his jaw copping the full force of Ray's shoulder... report from rooms is no structural damage,subbed,Subbed after being stretchered off in Q1
+220023,Nick,Dal Santo,SK,21,112,113,74,87,121,17,13,5,4,2,0,0,0,2, Full Time,gun,Excellent Q1 and went on with it... %D and %T with %M and %s,,
+990028,Lenny,Hayes,SK,25,107,124,68,84,116,17,12,2,5,2,4,2,1,0, Full Time,hot,%O and %T with %M... also %s late in Q4,,
+220034,Jason,Gram,SK,19,106,70,61,78,104,20,3,7,4,0,1,0,0,2, Full Time,hot,%K among %D with %T and %s,,
+220075,Leigh,Montagna,SK,25,99,99,50,72,108,21,7,2,6,0,1,3,0,0, Full Time,news,%P with %k by foot... also %T,,
+230084,Brendon,Goddard,SK,31,96,119,69,77,108,15,7,6,6,0,1,4,1,0, Full Time,news,Moved about a lot in Q1 to break his tag but didn't really start getting it a lot until Q3... %P and %M plus %s,,
+250134,Sam,Gilbert,SK,18,79,100,68,60,78,9,6,6,5,0,2,0,0,0, Full Time,news,Back in defence... %M and %P plus %T,,
+210001,Nick,Riewoldt,SK,19,78,86,58,64,80,10,6,6,2,1,2,0,1,1, Full Time,sore,Kicked %s from %P and %G on Lonergan... knock to his chest in Q3 but played on in Q4,,
+261323,Ben,McEvoy,SK,26,78,100,74,66,81,6,4,6,4,15,0,1,1,0, Full Time,news,%H and %P with %M,,
+230035,Raphael,Clarke,SK,15,72,96,57,57,72,9,4,6,3,0,1,0,1,0, Full Time,news,%D and %T with %M,,
+200068,Jason,Blake,SK,20,67,52,69,53,70,6,2,6,7,6,1,3,0,1, Full Time,news,Started forward... kicked %s,,
+250703,James,Gwilt,SK,14,67,90,50,53,72,10,5,5,4,0,2,2,0,0, Full Time,news,%O and %M plus %F,,
+261743,Clinton,Jones,SK,13,66,55,53,50,67,8,7,3,4,0,2,0,0,1, Full Time,tagger,Tagging Johnson... %O and %M with %T,,
+250340,David,Armitage,SK,10,65,63,53,48,64,9,2,5,5,0,1,1,0,1, Full Time,news,%2 Corey... %D and %T plus %s,,
+240708,Sam,Fisher,SK,8,61,66,38,47,66,10,7,3,2,0,0,0,0,0, Full Time,news,Geelong coach Scott allowed him to be loose man in defence in first half which is his favourite role... Wojcinski moved to him in Q3... %P and %M,,
+240062,Farren,Ray,SK,7,56,47,22,49,69,13,5,3,1,3,3,4,0,0, Full Time,mrp,%O and %M with %F... a damaging bump on Selwood in Q1 will be looked at albeit it was not malicious,,
+240012,Andrew,McQualter,SK,9,48,26,48,36,48,4,4,4,4,0,0,0,0,0, Full Time,tagger,Forward role on Mackie... %D and %T with %M,subbed,Subbed off in Q3 for Peake
+260581,Ryan,Gamble,SK,14,45,37,34,36,51,7,2,2,4,0,1,3,1,0, Full Time,news,Booted %s from %G and %P on Taylor,,
+240701,Brett,Peake,SK,4,43,41,23,35,45,8,3,4,0,0,1,0,0,0, Full Time,news,On in Q3 for McQualter... %P and %M,sub,Started as a sub
+240552,Zac,Dawson,SK,4,38,78,38,36,48,2,9,4,1,0,1,1,0,0, Full Time,job,Standing Mooney... %O and %M,,
+230243,Sean,Dempster,SK,4,37,47,30,32,45,5,4,4,2,0,0,2,0,0, Full Time,news,%D and %M,,
+990004,Steven,Baker,SK,3,36,37,27,27,36,5,3,2,2,0,1,0,0,0, Full Time,job,Tried on Johnson early but moved off him to Varcoe... %P and %M,,
+200108,Stephen,Milne,SK,2,31,31,23,24,37,5,3,1,3,0,0,2,0,1, Full Time,cold,%s from %O with %T... completely blanketed by Enright,,

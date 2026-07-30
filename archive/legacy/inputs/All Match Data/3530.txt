@@ -1,0 +1,48 @@
+Collingwood,Magpies,Richmond,Tigers,R17,19.13.127,6.9.45, Full Time
+Jul 24,2010,2:10,MCG,Ten,260257,10281702,5015483,5197,Cloudy,14
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>strikes91</em>: swan stole points of pendlebury absoloute bull poo<br><em>stretchie</em>: whoa 190 SC<br><em>jake1994</em>: sc&#044; swan captain&#044; jolly&#044; didak<br><em>Spudanator</em>: swannny and selwood u beautyy<br><em>Tats19-</em>: Presti won the game for them<br><em>sainterman</em>: wellingham you utter douch&#044; first under 50 is SOOO long<br><em>Salisbury</em>: so happy i picked Swan capt this week<br><em style='color:#a0a'>Rawr</em>: swanny! (c) dids! daisy thomas! ;)<br><em>hawk2010</em>: hodge 4 brownlow<br><em>GumbleTON!</em>: Muesli<br><em>Gibblet</em>: flower me opponant has swan sc cap<br><em>jake1994</em>: thomas should be 95 they missed a mark kick<br>
+220105,Dane,Swan,CO,32,133,190,166,104,143,21,16,4,4,0,2,0,1,2, Full Time,star,Tuck not working hard enough on him... %O and %T with %M plus %s
+210003,Alan,Didak,CO,32,122,141,149,103,132,15,13,8,2,0,1,0,3,0, Full Time,gun,King tagging him... %B among %P with %M and %s
+200028,Leigh,Brown,CO,33,120,105,149,103,126,13,6,10,3,10,0,1,3,2, Full Time,hot,%s from %O and %G
+260257,Scott,Pendlebury,CO,27,114,84,143,92,126,14,16,5,5,0,2,1,1,0, Full Time,hot,%P and %M plus %T and %s
+200021,Ben,Johnson,CO,19,95,110,123,77,105,18,8,8,1,0,0,1,0,0, Full Time,tagger,Tagging Cousins... %P including %k by foot... also %M
+210099,Darren,Jolly,CO,23,90,120,105,86,101,6,10,5,2,20,6,3,2,0, Full Time,news,%H and %P with %M and %T... also %s
+240359,Dale,Thomas,CO,15,89,75,112,71,99,14,12,5,2,0,0,0,0,0, Full Time,news,%D and %T with %M
+220005,Luke,Ball,CO,21,88,95,115,67,95,11,10,4,6,0,0,1,0,2, Full Time,news,%D and %T plus %s
+261181,Brent,Macaffer,CO,24,88,150,107,75,93,11,7,6,1,0,1,0,3,0, Full Time,news,First goal... %s from %O and %M on Connors
+240232,Ben,Reid,CO,14,87,115,110,75,96,12,10,9,1,0,3,1,0,0, Full Time,job,On Nason... %M and %O
+271001,Dayne,Beams,CO,19,78,92,96,68,89,8,11,6,2,0,1,1,1,2, Full Time,news,%B among %P
+980110,Tarkyn,Lockyer,CO,14,76,58,99,61,79,11,5,8,2,0,0,0,0,1, Full Time,news,%O and %M with %T
+200019,Leon,Davis,CO,22,75,96,93,69,91,8,7,4,3,0,0,4,4,1, Full Time,news,%s from %P and %M
+280104,Jarryd,Blair,CO,19,72,80,93,53,76,5,11,2,7,0,0,0,0,1, Full Time,cash,%P and %T
+280965,Steele,Sidebottom,CO,10,70,89,87,59,84,9,13,4,2,0,0,1,0,0, Full Time,news,%D and %T
+260246,Tyson,Goldsack,CO,8,62,83,77,56,75,8,11,5,1,0,3,2,0,0, Full Time,job,Has Collins... %P and %M
+260394,Chris,Dawes,CO,11,62,81,77,54,70,6,8,5,2,0,1,1,1,1, Full Time,news,%s from %G and %D on McGuane
+240073,Harry,O'Brien,CO,8,59,41,77,45,60,12,3,4,1,0,1,0,0,0, Full Time,news,%O and %M
+261799,Sharrod,Wellingham,CO,8,59,24,75,49,67,10,7,4,1,0,1,1,0,1, Full Time,news,%P and %M
+240419,Alan,Toovey,CO,2,37,50,47,28,39,3,6,1,3,0,1,0,0,0, Full Time,tagger,Forward tag on Deledio... %P
+230263,Nick,Maxwell,CO,3,30,45,39,28,39,6,4,3,0,0,1,2,0,0, Full Time,news,Loose in defence... %P and %M
+960159,Simon,Prestigiacomo,CO,0,7,30,9,7,12,2,2,0,0,0,0,1,0,0, Full Time,job,Standing Riewoldt... %D
+261362,Alex,Rance,RI,20,99,89,84,85,108,10,13,11,2,0,2,0,0,0, Full Time,up,%O and %M plus %T
+240412,Mitch,Morton,RI,24,97,107,74,85,112,12,13,11,1,0,0,1,0,1, Full Time,up,Played across half back... %P and %M
+290198,David,Astbury,RI,14,89,91,55,72,91,15,5,9,1,1,2,0,0,0, Full Time,news,%P and %M
+960662,Ben,Cousins,RI,16,87,75,69,74,100,9,15,5,2,0,0,0,1,1, Full Time,tagged,Tagged by Johnson... %O and %M plus %s
+260105,Daniel,Connors,RI,13,79,51,48,61,81,14,4,7,2,0,0,0,0,0, Full Time,job,Giving Macaffer too much room... %P and %M
+200109,Shane,Tuck,RI,14,76,53,48,62,91,12,13,2,3,0,1,2,0,1, Full Time,news,Failing to keep up with Swan... %P and %M
+210048,Chris,Newman,RI,19,76,77,54,52,72,12,4,2,6,0,2,0,0,0, Full Time,news,%D and %M with %T
+240256,Luke,McGuane,RI,14,76,76,78,66,87,4,14,8,3,0,0,0,0,0, Full Time,job,Standing Dawes... %P and %M
+240336,Brett,Deledio,RI,13,71,82,61,56,78,7,12,3,4,0,1,0,0,0, Full Time,tagged,Forward tag on him on a HBF by Toovey... %P and %T
+271437,Jake,King,RI,20,69,89,58,54,77,9,6,4,6,1,1,3,0,1, Full Time,tagger,Tagging Didak... %O and %M with %T and %s
+250066,Dean,Polo,RI,13,62,64,46,53,78,9,10,3,4,0,2,4,0,0, Full Time,news,%D and %M with %F
+250623,Robin,Nahas,RI,9,60,56,54,46,64,6,8,2,5,0,2,1,0,1, Full Time,lebanon,%s from %P with %T
+260930,Shane,Edwards,RI,8,58,60,48,50,72,6,13,2,3,0,2,2,0,0, Full Time,news,Started in midfield... %O including %b by hand
+260104,Andrew,Collins,RI,11,56,78,44,49,61,7,4,5,2,0,3,2,1,1, Full Time,news,%s from %P and %M on Goldsack
+260146,Angus,Graham,RI,20,56,63,57,49,61,3,3,2,4,19,0,2,1,0, Full Time,news,%H and %T with %F and %s
+250395,Jack,Riewoldt,RI,10,55,44,34,46,56,9,0,4,1,0,1,1,2,2, Full Time,sore,Booted %s from %D and %G on Prestigiacomo... poke in the right eye in Q2
+261910,Ben,Nason,RI,9,53,18,45,45,60,6,6,6,2,0,0,1,0,0, Full Time,news,%D and %M on Reid
+260970,Mitch,Farmer,RI,5,51,59,46,40,54,5,6,4,3,0,0,0,0,0, Full Time,news,%O and %M
+290847,Dustin,Martin,RI,12,44,50,26,40,57,6,11,0,0,0,1,1,1,0, Full Time,sore,%P and %s... cork in the back in Q4
+292500,Jeromey,Webberley,RI,7,44,57,23,38,54,8,7,3,0,0,0,1,0,0, Full Time,cash,%D and %M
+270315,Jayden,Post,RI,2,22,19,25,24,33,0,8,3,0,0,0,1,0,0, Full Time,news,%B among %D with %M
+270954,Andrew,Browne,RI,0,13,4,13,14,19,1,2,1,1,3,1,2,0,1, Full Time,news,%H and %P with %F

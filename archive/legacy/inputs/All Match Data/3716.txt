@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Melbourne,Demons,R2,16.26.122,12.5.77, Full Time
+Apr 3,2011,4:40,MCG,Fox Sports,280608,10310208,5015,17,Cloudy with showers,19
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em title="JACKSBACK">jacksback</em>: Swan is no champion but he has done bloody well with his limited ability...hats off to him<br><em>preki1</em>: buddy's SC score is a joke<br><em>Pokerface</em>: roughhead has a premiership medal with hawthorn. how many current players have a premiership medal with carlton?<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> Rioli33</em>: I'm gone - night all<br><em title="JACKSBACK">jacksback</em>: swan will kick 20metre dribblers and we will give you one hell of a game<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> Shanghan</em>: Judd or Swan? Judd any day..<br><em title="JACKSBACK">jacksback</em>: Carlton would be top 3 with Hodge in their team - CHAMPION OF THE HIGHEST ORDER<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> Hydra911</em>: Woah what the? Why is Jack Riewoldt's 0 that my opponent has being substituted???<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> Ih8carlton</em>: swan will get 69 possies and 5 goals next week pies will win and judd will still get 3 brownlow votes <br><em title="JACKSBACK">jacksback</em>: roughead or any carlton player ever? trick question...roughead was better than Peter Rhode<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> Shanghan</em>: Judd<br><em title="JACKSBACK">jacksback</em>: hodge - he is a ready-made champ&#044; walker is still developing<br>
+270732,Matt,Suckling,HW,33,141,139,177,116,150,19,13,11,3,0,1,0,2,0, Full Time,star,%P and %M plus %s... 13 of those touches in a dominant Q3,,
+280737,Liam,Shiels,HW,37,125,98,163,98,128,17,8,9,6,0,2,1,1,2, Full Time,hot,%P and %M with %T and %s... had a very productive Q3 as did most of the Hawks,,
+220073,Sam,Mitchell,HW,21,110,96,141,83,114,19,11,4,4,0,3,0,0,0, Full Time,hot,Tagged by Bail... %B among %O with %T and %M,,
+260955,Cyril,Rioli,HW,30,110,142,136,92,124,12,17,6,4,1,2,1,1,0, Full Time,gun,Tagged by Bartram... %O with %b by hand... also %M and %T,mrp,An elbow to Jones' ribs in Q2 will be scrutinised
+210012,Shaun,Burgoyne,HW,27,106,98,128,90,113,12,9,6,2,0,0,0,4,2, Full Time,hot,%P and %M plus %s forward on Frawley,,
+250055,Clinton,Young,HW,20,97,69,127,77,99,16,4,10,2,0,0,0,0,3, Full Time,tagged,Tagged by Jones... %s from %O and %M,,
+250715,Josh,Gibson,HW,15,97,86,123,80,105,13,11,9,2,0,1,0,0,0, Full Time,garbage,%M and %O... enjoyed himself in Q4 garbage time,job,Has Petterd
+200052,Cameron,Bruce,HW,21,90,96,111,80,105,8,14,9,2,0,0,1,1,0, Full Time,job,Minding Bennell... %D and %T with %M,,
+210092,Michael,Osborne,HW,21,89,85,112,71,95,10,10,5,4,0,0,0,1,2, Full Time,news,%D and %s with %M and %T,,
+220036,David,Hale,HW,15,88,92,106,78,97,6,13,8,2,9,2,0,0,1, Full Time,news,Kicked %s from %G and %D... also %T and %H,,
+240399,Lance,Franklin,HW,21,87,108,111,82,110,13,9,7,2,1,2,6,2,4, Full Time,news,%s from %P and %G on Garland... also %F... terrible first half but lifted along with the rest of the Hawks in Q3,,
+240302,Grant,Birchall,HW,18,86,96,107,71,95,15,10,6,0,0,1,0,0,2, Full Time,news,%D and %M,,
+230197,Brad,Sewell,HW,15,85,88,107,67,93,10,13,4,4,0,1,0,0,0, Full Time,tagger,Tagging Sylvia... %O and %M,,
+220060,Rick,Ladson,HW,15,77,96,95,63,84,8,11,4,3,0,1,0,1,0, Full Time,tagger,Tagging Davey... %O and %M with %T,,
+220047,Luke,Hodge,HW,13,75,79,95,61,81,14,7,6,0,0,1,0,0,0, Full Time,tagged,Forward tag on him by Dunn... %P and %M,sore,Kneed in the kidneys by Dunn in Q2
+230082,Stephen,Gilham,HW,14,75,79,98,65,87,14,6,9,0,0,0,2,0,0, Full Time,cougar,On Jurrah... %P and %M plus %F,,
+240357,Jarryd,Roughead,HW,20,70,98,91,62,86,10,7,3,4,1,2,5,2,1, Full Time,news,First goal... %s from %D and %G on Rivers... also %T,,
+200040,Chance,Bateman,HW,14,66,60,85,55,76,13,5,4,1,0,0,2,1,1, Full Time,news,%P and %s,,
+280858,Shane,Savage,HW,8,61,71,77,49,66,10,7,4,1,0,1,0,0,0, Full Time,news,Matched up on Jetta... %D and %M,,
+280471,Ben,Stratton,HW,5,57,63,75,46,63,9,5,5,2,0,0,1,0,0, Full Time,news,%P and %M,,
+250089,Jordan,Lewis,HW,2,37,44,45,30,43,7,6,1,0,0,0,0,0,1, Full Time,x-factor,On in Q3 for Renouf and provided Hawthorn with a sorely needed spark up forward... %P and %s,sub,Started as a sub
+250308,Brent,Renouf,HW,1,13,16,16,12,16,1,1,0,1,7,0,1,0,0, Full Time,injured,%H and %D... whiplash to the neck,subbed,Subbed off in Q3 for Lewis
+240037,Colin,Sylvia,ME,15,98,87,58,75,104,17,9,5,3,2,0,0,0,0, Full Time,tagged,Tagged by Sewell... %D and %M,,
+261297,Jack,Grimes,ME,15,87,92,58,71,93,14,6,9,2,0,1,1,0,0, Full Time,news,%D with %k by foot... also %M,,
+250222,Nathan,Jones,ME,18,83,65,70,63,84,10,6,7,5,0,0,0,0,0, Full Time,news,%P and %M,,
+280579,Luke,Tapscott,ME,9,80,91,39,64,87,16,7,5,1,0,2,1,0,0, Full Time,bubble,%D and %M,,
+250345,Rohan,Bail,ME,20,75,95,53,57,85,12,8,2,6,0,1,3,0,1, Full Time,tagger,Tagging Mitchell... %P and %T with %M plus %s,,
+200002,Aaron,Davey,ME,19,72,79,46,52,69,12,3,2,4,0,2,0,1,0, Full Time,tagged,Tagged by Ladson... %O and %T plus %s,,
+250245,Clint,Bartram,ME,12,67,59,49,56,72,9,7,7,1,0,1,0,0,0, Full Time,tagger,Tagging Rioli... %P and %M,,
+280763,Stefan,Martin,ME,6,66,70,49,53,70,9,5,4,3,7,1,1,0,0, Full Time,news,%D and %H with %T,,
+200054,Brad,Green,ME,15,63,87,40,56,70,9,6,4,0,0,2,1,2,1, Full Time,news,%s from %P and %M,,
+280608,Jack,Trengove,ME,10,61,73,44,51,66,8,6,5,1,0,0,0,1,0, Full Time,news,%O and %M plus %s,,
+220052,Mark,Jamar,ME,20,57,70,54,61,71,2,7,3,0,29,2,3,1,0, Full Time,news,%H and %P with %M,,
+250360,Ricky,Petterd,ME,10,56,62,41,47,59,7,5,4,1,0,1,0,1,2, Full Time,news,%P and %M on Gibson,,
+260288,James,Frawley,ME,8,56,49,37,47,63,9,5,6,1,0,0,1,0,0, Full Time,job,Minding Burgoyne... %M and %P,,
+250548,Lynden,Dunn,ME,15,55,64,48,52,65,5,5,6,1,2,0,2,2,0, Full Time,news,Forward tag on Hodge... %s from %P and %M,,
+260952,Liam,Jurrah,ME,11,54,59,39,47,57,7,3,4,1,0,2,1,2,0, Full Time,news,Gilham on him... %s from %D and %G,,
+280972,Jack,Watts,ME,13,51,58,36,45,60,6,9,3,0,0,0,0,1,0, Full Time,news,%s from %G and %P,,
+230151,Brent,Moloney,ME,8,50,61,38,44,63,6,11,2,2,0,2,2,0,0, Full Time,news,Starting forward on Suckling... %P,,
+290943,Jamie,Bennell,ME,9,48,50,42,37,48,5,3,3,3,0,0,0,1,0, Full Time,news,%D and %M with %T,,
+230250,Jared,Rivers,ME,3,41,70,33,32,42,5,4,3,2,0,1,0,0,0, Full Time,job,Standing Roughead... %M and %O,,
+270830,Colin,Garland,ME,2,30,35,9,26,39,8,3,1,1,0,2,3,0,0, Full Time,injured,%O and %F... right knee knock in Q4 that looked ligament-related,job,Had Franklin
+281280,Neville,Jetta,ME,2,30,16,19,25,36,5,4,2,1,0,0,1,0,0, Full Time,news,Matched up on Savage... %P and %M,subbed,Subbed off in Q3 for Maric
+270833,Addam,Maric,ME,1,20,11,13,15,22,3,3,0,1,0,0,0,0,1, Full Time,news,On in Q3 for Jetta,sub,Started as a sub

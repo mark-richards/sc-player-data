@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Gold Coast,Suns,R8,9.18.72,4.10.34, Full Time
+May 19,2012,7:40,Marrara,Fox Sports,290623,10340806,430076,0,Fine,32,,
+
+<em>tom.i52</em>: ...Another loss this round... I'M SO UNLUCKY!!!<br><em>Homerj</em>: love ya guts gary!!<br><em>spangle</em>: bullshower ablett got that<br><em>spiggs</em>: lake!<br><em>pondzo</em>: gablett + horsley = tackling machine!<br><em>Jormas</em>: gg Boyd&#044; Horse&#044; Hoping for another 15 Gaj&#044; Poor Hargrave&#044; hoping for 90+ :|<br><em>haooyy</em>: good stuff boydy<br><em>pcmaniman</em>: @goCrows98 were you trading hargrave??  BE means nothing much otherwise<br><em>JDolling69</em>: hargrave wrong waay...<br><em>old_shepp</em>: Hargrave culled<br><em>Meztek</em>: missed $500 by 4pts.. CRYY<br><em>GoCrowz98</em>: damn hargrave didnt get his b/e!!<br>
+220010,Matthew,Boyd,WB,30,128,137,167,95,130,19,10,6,7,3,1,0,0,1, Full Time,star,%2 Horsley... %D and %T with %M,,
+220039,Brian,Lake,WB,15,106,112,140,81,107,21,3,9,2,0,0,0,0,2, Full Time,rock,Has Lynch... plenty of intercept marks as usual... %P and %M with %T and %s,,
+240156,Ryan,Griffen,WB,25,104,124,134,77,109,13,13,3,7,1,1,0,0,0, Full Time,hot,%2 Rischitelli... %P and %T with %M,,
+290799,Tom,Liberatore,WB,26,102,112,133,76,106,16,8,3,6,0,1,1,1,1, Full Time,hot,First goal... head to head with Hunt... %P and %s... also %T and %M,,
+210049,Daniel,Cross,WB,26,97,123,124,76,109,11,15,4,6,1,0,1,0,0, Full Time,news,%D and %M with %T,job,Playing a HBF on Caddy
+291545,Mitch,Wallis,WB,19,92,104,116,71,100,11,14,3,5,0,1,0,0,1, Full Time,news,%O and %M with %T and %s,,
+230255,Will,Minson,WB,21,86,97,99,75,93,5,10,2,3,33,0,0,0,0, Full Time,news,%H and %D with %M,mrp,A punch to Bennell's chest in Q1 will be scrutinised
+260227,Shaun,Higgins,WB,19,82,62,107,60,80,12,4,3,5,0,1,0,1,2, Full Time,news,%2 Iles... %P,,
+200079,Daniel,Giansiracusa,WB,14,74,75,95,55,73,15,3,2,2,0,2,0,1,1, Full Time,news,%s from %P and %M on Tape,,
+291526,Luke,Dahlhaus,WB,18,73,74,95,51,71,12,4,0,5,0,1,0,1,2, Full Time,news,%D and %T with Wilkinson shutting him down,,
+295712,Tory,Dickson,WB,13,72,62,95,54,76,12,6,3,4,0,1,1,0,1, Full Time,cash,%s from %D including %K on Taylor... also %T,,
+271439,Liam,Picken,WB,26,68,73,93,47,66,5,4,2,9,0,0,1,1,0, Full Time,news,%D and %T,tagger,Tagging Ablett jnr
+261319,Jarrad,Grant,WB,14,59,79,74,51,70,8,8,3,2,0,1,2,1,1, Full Time,news,%s from %O and %M,,
+293847,Clay,Smith,WB,9,59,52,77,44,60,7,6,3,4,0,1,0,0,0, Full Time,cash,%P and %T with %M,,
+200082,Ryan,Hargrave,WB,8,56,66,74,47,66,11,5,5,1,0,0,2,0,0, Full Time,sore,%O and %M... rib knock in Q4,job,Responsible for Stanley
+261243,Mark,Austin,WB,9,56,39,74,47,60,7,4,7,2,0,1,1,0,0, Full Time,job,Has Day... %M and %O,,
+280056,Ayce,Cordy,WB,10,49,45,63,42,53,5,2,3,3,6,1,2,1,2, Full Time,news,%s from %D and %M... also %H and %T,job,Subbed off at 3QT for Skinner
+240212,Dylan,Addison,WB,8,46,54,62,31,45,7,3,1,4,0,0,0,0,0, Full Time,harley,On Bennell... %P and %T,,
+240325,Justin,Sherman,WB,8,45,52,59,33,51,6,7,0,4,0,0,1,0,0, Full Time,news,%D,,
+200083,Robert,Murphy,WB,3,40,53,54,31,42,11,0,3,0,0,1,1,0,0, Full Time,job,Brown manning him up... %K among %D,,
+281078,Liam,Jones,WB,13,40,56,52,29,39,3,3,1,4,0,0,0,1,0, Full Time,news,%s from %P on Warnock.... also %T,,
+280442,Zephaniah,Skinner,WB,8,28,21,35,21,27,3,2,0,2,0,1,0,1,0, Full Time,in,%l Nathan Djerrkura... on after 3QT for Cordy... %s from %P,sub,Started as a sub
+220001,Gary,Ablett jnr,GC,31,117,150,86,84,121,17,12,2,9,0,2,1,0,1, Full Time,hot,Tagged by Picken... %P and %M plus %T and %s,,
+281279,Kyal,Horsley,GC,25,108,104,83,80,114,14,13,3,7,0,0,0,0,3, Full Time,hot,%2 Boyd... %O and %T with %M and %s,cash,Broke the single week cash generation record last week and still powering on
+250249,Danny,Stanley,GC,19,105,92,67,84,115,17,11,7,3,0,1,1,0,1, Full Time,hot,%s from %P and %M on Hargrave,,
+240316,Sam,Iles,GC,18,97,104,51,79,109,18,11,6,1,0,1,1,0,1, Full Time,news,%2 Higgins... %P and %M plus %s,,
+290627,Dion,Prestia,GC,20,94,107,68,71,99,13,10,3,5,0,0,0,1,0, Full Time,news,%P and %T with %M,,
+290623,Josh,Caddy,GC,14,86,81,54,69,97,13,14,3,2,0,1,0,0,1, Full Time,news,%P and %s on a HFF on Cross,,
+250716,Matthew,Warnock,GC,10,78,90,53,62,87,12,9,5,3,0,0,1,0,0, Full Time,job,Has Jones... %M and %P,,
+290790,Matthew,Shaw,GC,13,76,73,48,65,94,11,16,3,1,0,0,1,0,1, Full Time,news,%D and %M plus %s,,
+291594,Harley,Bennell,GC,14,76,115,39,62,87,14,9,3,1,0,0,1,1,0, Full Time,concussed,Smashed in a contest in Q1.. %s from %P and %M on Addison,,
+280722,Zac,Smith,GC,20,75,86,68,69,86,4,12,3,1,20,0,0,1,0, Full Time,news,%H and %P,,
+220013,Campbell,Brown,GC,16,68,68,66,49,66,7,3,5,7,0,1,1,0,0, Full Time,news,%O and %T with %M on Murphy,,
+281025,Luke,Russell,GC,15,66,60,60,49,69,7,7,3,6,0,1,1,0,0, Full Time,news,%D and %M with %T,,
+281075,Rory,Thompson,GC,5,58,77,43,44,56,8,3,3,3,5,2,0,0,0, Full Time,news,%O and %M... also %H,,
+292512,Karmichael,Hunt,GC,8,57,66,51,50,73,5,13,3,3,0,0,2,0,1, Full Time,news,%2 Liberatore... %P and %T plus %M and %s,,
+240012,Andrew,McQualter,GC,8,54,80,32,46,66,8,12,2,0,0,0,0,0,0, Full Time,news,%B among %O,,
+293813,Thomas,Lynch,GC,10,54,52,46,49,61,5,7,5,1,1,2,1,1,0, Full Time,news,Kicked %s from %P and %G on Lake,,
+293795,Jeremy,Taylor,GC,9,48,48,47,38,54,4,7,3,4,0,0,1,0,0, Full Time,job,Minding Dickson... %D,,
+291753,Sam,Day,GC,4,46,54,40,40,52,4,8,4,1,1,1,0,0,0, Full Time,news,%P and %M on Austin,,
+290703,Joel,Wilkinson,GC,3,38,44,36,31,42,3,6,3,2,0,0,0,0,0, Full Time,nigeria,%P and %T,job,Chasing Dahlhaus
+240712,Michael,Rischitelli,GC,2,36,42,34,27,39,3,6,1,3,0,0,0,0,0, Full Time,news,%2 Griffen... %O and %T,,
+294643,Alex,Sexton,GC,2,22,13,6,18,24,6,0,2,0,0,1,1,0,0, Full Time,news,On in Q3 for Sexton,sub,Started as a sub
+293223,Seb,Tape,GC,2,18,21,8,18,27,4,3,2,0,0,0,2,0,0, Full Time,job,On Giansiracusa... %M and %O,subbed,Subbed off in Q3 for Sexton

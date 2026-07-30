@@ -1,0 +1,48 @@
+Melbourne,Demons,Western Bulldogs,Bulldogs,R4,9.13.67,13.10.88, Full Time
+Apr 22,2012,4:40,MCG,Fox Sports,261319,10340409,430043,0,Rain,23,,
+
+<em style='margin-bottom:-2px'><b class="ticon tBL"></b> bahodie</em>: Hargrave helped.but what a crazy week&#044; most of my team underperformed. <br><em>TravisBoak</em>: I lost 1905-1907<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> FTroopCapt</em>: Bloods22 is your team Bloods01<br><em>CHEbber</em>: wtf dahlhaus???<br><em>Tempaa</em>: Cross n hargrave BANGG<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> myteamsuks</em>: @mochasons read what gun means! <br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> BigWilko</em>: hargrave is not a gun either<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> FTroopCapt</em>: How many hit outs in this game - 46 & 40 for the key rucks<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> spiggs</em>: doll house!! dream team is shower<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> feralmong</em>: wow. only just won by about 13. Hargrave gave me a real scare.<br><em>Bloods22</em>: Boyd last 5 mins cost me game by 2 points.  In front all weekend until 30 minute mark of that quarter.  Spew'n!<br><em>man0005</em>: Decent effort Magner... 2530-odd in SC. Will take it&#044; had 22 rookies on the field this week...<br>
+250510,Matthew,Bate,ME,21,91,93,117,75,100,14,6,6,3,0,0,2,2,1, Full Time,news,%P and %M,,
+270985,Cale,Morton,ME,20,87,90,114,66,91,13,6,4,5,1,0,1,1,0, Full Time,news,%D and %M with %T and %s,,
+250222,Nathan,Jones,ME,13,77,82,98,59,84,10,12,1,5,0,3,1,0,0, Full Time,news,%O and %T,,
+220052,Mark,Jamar,ME,32,76,82,83,71,79,3,5,2,1,46,1,0,0,0, Full Time,news,%H and %D plus %M,,
+260288,James,Frawley,ME,14,75,82,99,56,75,11,5,5,4,0,1,0,0,0, Full Time,job,Has Jones... %M and %O with %T,,
+250345,Rohan,Bail,ME,15,69,79,87,59,81,8,10,4,3,0,1,2,1,0, Full Time,news,Matched up on Veszpremi... %P including %B with %T,,
+230250,Jared,Rivers,ME,12,65,97,85,52,66,13,2,7,0,0,1,0,0,0, Full Time,news,%D and %M,job,Standing Cordy
+280972,Jack,Watts,ME,15,65,84,83,53,67,8,4,6,2,0,0,0,1,1, Full Time,news,Has Wood... %P and %M plus %s,,
+260176,James,Magner,ME,15,64,64,88,45,64,9,3,3,6,1,0,1,0,0, Full Time,sore,%O and %T... knock to his left ankle after a challenge by Wallis in Q4,tagger,Tagging Boyd
+270906,Jordie,McKenzie,ME,14,64,73,88,45,66,9,5,1,7,0,2,2,0,0, Full Time,news,%P and %T... also %F,tagger,Tagging Griffen
+230151,Brent,Moloney,ME,18,63,77,81,49,71,10,7,0,4,0,1,2,1,2, Full Time,tagged,Tagged by Picken... %D and %T plus %s,mrp,A swinging arm on Dahlhaus in Q1 will be scrutinised
+230130,Joel,MacDonald,ME,8,62,74,78,49,66,7,9,3,3,0,2,0,0,0, Full Time,job,Has Sherman... %O with %b by hand.. also %T,,
+250245,Clint,Bartram,ME,15,62,74,83,44,60,6,5,3,6,0,1,0,0,0, Full Time,job,Minding Djerrkura... %D and %T,,
+200002,Aaron,Davey,ME,14,54,59,71,42,57,6,3,1,5,0,1,2,2,0, Full Time,news,%s from %P and %T on Murphy,,
+280608,Jack,Trengove,ME,3,53,65,67,40,54,7,6,1,3,2,2,0,0,1, Full Time,news,%2 Cross... %D and %T plus %s,,
+291313,Jeremy,Howe,ME,3,49,53,62,41,54,8,5,3,1,1,2,1,0,2, Full Time,news,%2 Dahlhaus off a wing... %P and %M plus %s,,
+240393,Mitchell,Clark,ME,9,43,51,57,38,48,7,0,5,1,1,0,2,1,2, Full Time,injured,Booted %s from %P and %G on Roughead... right wrist knock in Q3... landed right on his head later in Q3,subbed,Subbed off at 3QT for Tapscott
+270830,Colin,Garland,ME,3,42,52,56,28,40,8,2,0,3,0,1,0,0,1, Full Time,job,Giansiracusa is his man... %P and %T,sore,Left wrist knock in Q4
+291533,Tom,McDonald,ME,3,35,52,45,32,46,5,6,3,1,1,0,2,0,0, Full Time,job,Responsible for Grant... %P and %M,,
+250418,James,Sellar,ME,2,28,36,36,21,27,3,1,1,2,5,0,0,0,1, Full Time,news,Donuts in Q1... %H and %D,,
+250548,Lynden,Dunn,ME,0,14,28,20,13,19,3,1,1,1,0,1,2,0,1, Full Time,news,%P on Austin,,
+280579,Luke,Tapscott,ME,0,11,14,14,8,12,1,2,0,1,0,0,0,0,0, Full Time,news,On in Q4 for Clark... %D,sub,Started as a sub
+200082,Ryan,Hargrave,WB,25,113,106,79,88,117,17,9,9,4,0,1,0,0,0, Full Time,garbage,%K among %D with %M and %T... lots of junk time stuff at the end of each quarter,,
+230041,Adam,Cooney,WB,26,103,111,73,79,108,14,11,2,5,0,1,0,2,0, Full Time,x-factor,%s from %P and %T mostly up forward,,
+271439,Liam,Picken,WB,44,101,100,106,73,109,8,12,3,13,0,0,3,0,1, Full Time,hot,%O and %T with %M and %s,tagger,Tagging Moloney
+210049,Daniel,Cross,WB,20,98,116,74,86,118,12,16,6,3,7,2,3,0,0, Full Time,news,%2 Trengove... %O and %M... also %H and %F,,
+230255,Will,Minson,WB,39,93,95,89,79,97,6,5,2,6,40,1,2,0,0, Full Time,news,%H and %P with %M and %T,,
+291545,Mitch,Wallis,WB,25,89,104,79,67,94,8,14,0,7,0,2,0,1,1, Full Time,news,%O and %T,,
+220010,Matthew,Boyd,WB,19,84,85,73,61,87,9,10,2,7,3,0,0,0,0, Full Time,tagged,Tagged by Magner... %D and %T,,
+291526,Luke,Dahlhaus,WB,15,84,146,53,67,92,13,10,2,3,0,2,1,1,2, Full Time,star,%2 Howe off a wing... %P and %T plus %M and %s,,
+200083,Robert,Murphy,WB,9,80,104,25,62,87,20,4,5,0,0,0,1,0,0, Full Time,news,%K among %P with %M,job,Matched up on Davey
+240212,Dylan,Addison,WB,12,74,81,47,62,78,12,6,7,1,0,4,1,0,0, Full Time,news,%D and %M,,
+250383,Nathan,Djerrkura,WB,20,72,84,66,60,78,6,10,4,4,0,3,1,1,0, Full Time,news,%P and %M on Bartram... also %T,,
+261319,Jarrad,Grant,WB,17,71,79,67,55,70,6,4,4,5,0,0,0,2,1, Full Time,news,%s from %P and %T on McDonald... also %M,,
+281078,Liam,Jones,WB,15,69,79,47,58,76,11,3,7,2,0,0,2,1,1, Full Time,news,%G and %P on Frawley,,
+240325,Justin,Sherman,WB,14,67,90,43,53,78,10,11,0,3,0,0,1,1,0, Full Time,news,%s from %O on MacDonald,,
+240156,Ryan,Griffen,WB,13,66,76,40,49,67,11,5,1,3,0,1,0,1,1, Full Time,tagged,First goal... tagged by McKenzie... %D and %T plus %s,,
+280012,Jordan,Roughead,WB,14,63,75,58,51,63,6,3,7,3,0,0,0,1,0, Full Time,switch,In defence on Clark but switched forward in Q4 for %s... %M and %D with %T,,
+270186,Patrick,Veszpremi,WB,8,58,55,43,51,72,7,12,4,1,0,0,1,0,0, Full Time,news,Matched up on Bail... %O and %M,,
+281139,Easton,Wood,WB,5,54,64,35,41,54,9,3,4,2,0,1,0,0,0, Full Time,job,Following Watts... %O,,
+261243,Mark,Austin,WB,4,41,49,35,33,45,4,7,2,2,0,1,0,0,0, Full Time,job,Standing Dunn... %P and %T with %M,in,Late replacement for Lukas Markovic
+280056,Ayce,Cordy,WB,3,33,24,33,27,36,2,5,2,2,3,0,0,0,0, Full Time,news,%P on Rivers... also %H,subbed,Subbed off at 3QT for Higgins
+200079,Daniel,Giansiracusa,WB,9,30,45,10,31,45,7,3,1,0,0,0,4,2,0, Full Time,news,%s from %D on Garland... also %F,,
+260227,Shaun,Higgins,WB,1,23,28,12,19,25,4,3,1,0,0,1,0,0,1, Full Time,news,On in Q4 for Cordy... %D,sub,Started as a sub

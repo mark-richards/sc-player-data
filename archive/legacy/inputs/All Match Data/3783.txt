@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Fremantle,Dockers,R11,17.9.111,13.11.89, Full Time
+Jun 5,2011,1:10,MCG,Fox Sports,200032,10311106,5547,84,Windy,16,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em title="BURNER72">burner72</em>: what happened to hodges 50sc for puttin em in front<br><em>Khunt1vote</em>: Gotta love those Norwood boys!<br><em>Chazticles</em>: looking less than 2000 :l<br><em>FunkyJunk1</em>: What a surprise - Pav's SC 20+ higher than it should be<br><em>PuUurfect</em>: pav 86 that is a load of crap<br><em>Thebiggf</em>: Hawkers get on them look out cats next week<br><em>NelDog</em>: go gunston drafted him in this week<br><em>Thebiggf</em>: Suckling still 76 sc not to bad lol at breust 70 in basically a q of footy <br><em>HawksFEVER</em>: hawks only played 1/4 and they still won?<br><em>Centurions</em>: ffs pups on my bench<br><em>Centurions</em>: bailey 77 sc very happy with that<br><em>Homerj</em>: Thanks Fyfe buddy&#044; made my forced trade in of you worth it :)<br>
+220073,Sam,Mitchell,HW,33,129,123,168,97,135,20,11,5,7,0,1,1,1,0, Full Time,gun,%O with %k by foot... also %M and %T... %s was the sealer in Q4,,
+240357,Jarryd,Roughead,HW,23,104,133,129,86,113,12,10,5,4,13,0,1,1,1, Full Time,hot,%s from %P and %M on McPharlin... also %T and %H,,
+260955,Cyril,Rioli,HW,23,98,121,120,81,97,11,3,5,3,0,1,0,5,1, Full Time,star,%s from %D and %T on Ibbotson... also %M,,
+210092,Michael,Osborne,HW,17,95,96,119,77,104,14,9,4,3,0,0,1,2,2, Full Time,x-factor,%s from %O and %M on Grover,,
+240302,Grant,Birchall,HW,18,91,94,116,73,99,16,9,7,1,0,0,0,0,0, Full Time,news,%P and %M,,
+220047,Luke,Hodge,HW,16,83,95,105,69,92,14,8,4,2,0,3,2,1,2, Full Time,creepy,Tagged by Crowley... %s from %P with %M and %F,sore,Left calf restrapped in Q4
+210012,Shaun,Burgoyne,HW,16,82,110,98,69,91,9,12,3,2,1,1,0,2,0, Full Time,news,%O and %M plus %T and %s,,
+230197,Brad,Sewell,HW,24,73,86,96,52,78,7,11,0,8,0,1,1,0,0, Full Time,tagger,Tagging Hill... %D and %T,,
+250055,Clinton,Young,HW,18,71,59,90,58,75,13,4,6,0,0,0,0,1,0, Full Time,news,%P and %M plus %s,,
+280737,Liam,Shiels,HW,13,71,63,92,53,75,8,9,3,5,0,0,0,0,0, Full Time,news,%D and %M with %T,,
+260710,Paul,Puopolo,HW,10,70,85,86,58,81,8,13,4,2,0,0,0,0,0, Full Time,cash,%O and %M with %T,switch,Minding Ballantyne until Q4 when he switched forward
+260472,Max,Bailey,HW,16,69,76,82,62,76,7,6,2,2,25,3,2,0,0, Full Time,cash,%H and %D with %M and %T,sore,Rib knock in Q1
+270732,Matt,Suckling,HW,9,67,75,85,56,78,13,8,5,0,0,0,1,0,0, Full Time,news,%2 Fyfe on a wing... %D and %M,,
+270215,Kyle,Cheney,HW,9,58,61,73,49,69,7,10,4,2,0,0,1,0,0, Full Time,job,On a HBF on Mzungu... %P and %M with %T,,
+261386,Brendan,Whitecross,HW,10,53,66,68,47,63,8,5,5,1,0,0,2,1,0, Full Time,news,%s from %P and %M on Crichton,,
+280744,Luke,Breust,HW,15,51,72,61,45,57,4,5,2,2,0,0,1,3,0, Full Time,news,On in Q3 for Lisle... %s from %P,sub,Started as a sub
+250715,Josh,Gibson,HW,4,50,73,64,39,54,7,6,3,2,0,0,0,0,0, Full Time,job,Following Pavlich... %P and %T with %M,,
+200060,Brent,Guerra,HW,4,49,51,65,35,48,8,3,2,3,0,1,0,0,0, Full Time,pumpkin,%D and %T including a number of clangers,job,On Pearce
+270936,Jordan,Lisle,HW,4,47,35,61,38,46,5,2,5,2,2,1,0,0,2, Full Time,in,Late replacement for Lance Franklin (calf)... first game... %s from %D and %M on Johnson... also %T,subbed,Subbed off in Q3 for Breust
+250146,Thomas,Murphy,HW,4,44,47,56,34,48,6,6,2,2,0,0,0,0,0, Full Time,job,Chasing Mayne... %P and %M,,
+250089,Jordan,Lewis,HW,3,42,50,49,38,53,4,10,1,1,5,1,1,0,0, Full Time,tagger,Tagging Mundy... %D with %b by hand,,
+281301,Ryan,Schoenmakers,HW,2,35,49,46,27,36,6,2,3,1,0,0,0,0,0, Full Time,job,Has Bradley... %O and %M,,
+261756,Greg,Broughton,FR,24,117,114,80,91,124,18,11,7,5,0,2,1,0,1, Full Time,hot,Played in midfield... %P and %M with %T,,
+250088,Jonathon,Griffin,FR,38,115,117,102,95,118,10,7,3,7,31,3,2,1,0, Full Time,hot,%H and %P with %M and %T... also %s,,
+280336,Stephen,Hill,FR,32,99,106,88,80,104,9,9,4,6,0,1,1,3,2, Full Time,tagged,Tagged by Sewell... had a scintillating Q3... %D and %T with %M and %s,,
+280386,Clancee,Pearce,FR,27,93,100,77,70,91,11,4,5,6,0,0,0,2,1, Full Time,news,%s from %D and %M on Guerra... also %T,subbed,Subbed off in Q4 for Palmer
+260713,Nick,Lower,FR,20,89,76,74,64,87,11,7,4,7,0,2,0,0,0, Full Time,cash,%O and %M with %T,,
+291570,Nathan,Fyfe,FR,16,88,110,56,72,98,14,9,4,3,0,2,2,1,2, Full Time,heart,%2 Suckling on a wing... %O and %M plus %T and %s.... left shoulder knock again in Q3,,
+240139,Paul,Duffield,FR,15,77,85,51,61,84,12,7,4,3,0,0,1,1,0, Full Time,news,%P and %M plus %s,,
+240052,David,Mundy,FR,19,75,84,66,57,82,8,10,3,6,1,0,1,0,0, Full Time,tagged,Tagged by Lewis... %D with %b by hand... also %T and %M,,
+230011,Kepler,Bradley,FR,9,67,69,45,55,75,10,8,4,2,3,1,1,0,0, Full Time,news,%D and %T with %M on Schoenmakers,,
+200032,Matthew,Pavlich,FR,13,66,85,54,48,68,8,7,2,5,1,0,0,0,1, Full Time,news,%s from %P and %M with %T playing as a key forward on Gibson... quiet in the second half,,
+230048,Ryan,Crowley,FR,14,66,71,51,56,78,8,10,3,3,0,1,2,1,0, Full Time,news,%D and %M with %T and %s,tagger,Tagging Hodge
+200045,Luke,McPharlin,FR,9,65,80,48,50,69,9,7,4,3,0,0,0,0,0, Full Time,job,On Roughead... %P and %M with %T,,
+260069,Hayden,Ballantyne,FR,7,63,53,28,48,67,13,6,2,1,0,1,0,0,1, Full Time,news,%s from %O on Puopolo,,
+230107,Michael,Johnson,FR,12,61,75,48,43,63,8,7,1,5,0,0,0,0,0, Full Time,job,Has Lisle... %P and %T,,
+271015,Matthew,de Boer,FR,16,59,57,62,48,63,3,8,4,4,0,0,0,1,0, Full Time,news,Playing as a small forward... %s from %O and %M with %T,,
+280726,Tendai,Mzungu,FR,11,59,64,46,48,63,7,6,4,2,0,0,0,1,0, Full Time,cash,%s from %P and %M on a HFF on Cheney... also %T,,
+280416,Chris,Mayne,FR,10,52,55,47,44,55,4,5,3,2,0,0,0,2,1, Full Time,news,First goal... kicked %s from %P and %G on Murphy,,
+250268,Garrick,Ibbotson,FR,4,45,70,31,34,45,7,3,3,2,0,1,0,0,0, Full Time,job,Minding Rioli... %D and %T with %M,,
+990092,Antoni,Grover,FR,7,38,35,40,29,45,3,6,1,5,0,0,2,0,0, Full Time,job,Chasing Osborne... %D and %T with %F,,
+290251,Zachary,Clarke,FR,4,35,26,35,29,38,2,5,2,2,5,0,0,0,0, Full Time,news,%H with %P and %M,,
+290296,Jesse,Crichton,FR,2,29,39,18,22,30,5,2,2,1,0,0,0,0,0, Full Time,job,Responsible for Whitecross... %D,,
+261231,Rhys,Palmer,FR,1,16,10,14,12,15,2,0,2,1,0,0,0,0,0, Full Time,news,On in Q4 for Pearce,sub,Started as a sub

@@ -1,0 +1,54 @@
+Carlton,Blues,North Melbourne,Kangaroos,GF,14.16.100,18.8.116, Full Time
+Mar 17,2012,3.30,Princes Pk,,,10330407,,43,Windy with showers,21,,
+
+<em>spiggs</em>: kieran harper? 0.4?!?! expect that from lindsy not you kezza! good win north!!!<br><em title="SASQUATCH9">sasquatch9</em>: Kane Lucas anyone?<br><em>afl_freak2</em>: yep all i can say is load up on gws players or be left behind!!! <br><em>Meldrum23</em>: carlton are doomed :'( richmond by 75<br><em>arzbar</em>: the nab is over and very little rookies are to be found warranting selection..<br><em>Punt</em>: End of practice.  Now for the Tges to kick the Blues in the real deal<br><em>barlow=god</em>: carlton are 15 10&#044; not 14 16...<br><em>afl_freak2</em>: well the nab cup is over!!! hope everyone has their rooks lined up??? nothing gained out of todays game <br><em>E Kavastar</em>: Heppell averaged more contested possessions than Atley. Plus Heppell actually knows how to hit a target<br><em>The Bomber</em>: has carlton kicked a supergoal...or just terrible shooting???<br><em>Punt</em>: Can't see many paying for Goldstein<br><em>Meldrum23</em>: its been 1 year kavastar&#044; it wont be hard to beat a back flanker who plays uncontested.<br>
+220110,Jarrad,Waite,CA,26,104,-,135,91,112,17,2,12,1,0,2,3,2,4, Full Time,hot,%s from %G and %P,,,87
+220015,Andrew,Carrazzo,CA,19,98,-,128,79,106,17,8,7,3,0,3,2,0,1, Full Time,news,%D and %M plus %s,,,84
+250105,Marc,Murphy,CA,20,96,-,125,74,102,16,9,5,4,0,2,1,0,0, Full Time,news,%D and %T,,,85
+261299,Matthew,Kreuzer,CA,20,95,-,123,76,96,13,3,5,5,18,3,2,0,0, Full Time,news,%H and %P with %M and %T,,,80
+250417,Bryce,Gibbs,CA,15,92,-,117,71,100,17,10,4,2,0,0,0,0,1, Full Time,news,%D and %M,,,86
+230202,Kade,Simpson,CA,20,90,-,113,75,97,15,6,6,1,0,1,1,2,1, Full Time,news,%P and %M plus %s,,,87
+260533,Dennis,Armfield,CA,11,70,-,89,54,69,12,2,3,2,0,1,0,2,0, Full Time,news,%D,,,88
+271110,Chris,Yarran,CA,9,70,-,91,53,72,13,5,4,2,0,1,0,0,0, Full Time,job,%s from %D and %M on Harper... also %T,,,88
+270653,Jeff,Garlett,CA,16,69,-,89,54,67,7,2,5,4,0,0,0,2,1, Full Time,news,%s from %O and %M... also %T,,,84
+270146,Ed,Curnow,CA,19,68,-,90,48,69,8,7,2,6,0,0,0,0,0, Full Time,news,%P and %T,,,78
+290311,Mitch,Robinson,CA,11,67,-,81,56,70,7,7,3,2,1,2,0,2,0, Full Time,news,%O and %M with %T and %s,,,49
+990059,Heath,Scotland,CA,14,67,-,83,56,78,11,9,3,1,0,0,1,1,0, Full Time,news,%O and %M plus %s,,,90
+220108,Bret,Thornton,CA,8,55,-,73,46,60,9,3,7,1,0,0,1,0,0, Full Time,news,%M and %O,,,89
+270326,Lachie,Henderson,CA,9,51,-,69,43,57,8,3,6,2,0,1,2,0,0, Full Time,news,%M and %D... also %T,,,94
+270737,Shaun,Hampson,CA,15,51,-,63,52,65,7,2,3,1,20,2,5,1,0, Full Time,news,%H... also %F,,,80
+220056,Chris,Judd,CA,8,50,-,68,39,60,7,7,1,5,0,1,3,0,0, Full Time,news,%O and %T... also %F,,,79
+250090,Jordan,Russell,CA,3,43,-,55,36,51,7,6,3,1,0,0,1,0,0, Full Time,news,%O and %M,,,59
+281079,Kane,Lucas,CA,4,43,-,57,36,48,9,2,5,0,0,0,1,0,0, Full Time,,,,,45
+250211,Paul,Bower,CA,4,39,-,51,33,45,4,5,4,2,0,0,1,0,0, Full Time,news,%M and %D,,,77
+240060,Eddie,Betts,CA,8,37,-,45,31,40,4,4,2,1,0,0,0,1,1, Full Time,job,%s from %P and %M,,,84
+240028,Brock,McLean,CA,8,35,-,46,27,36,4,2,1,3,0,1,1,1,0, Full Time,news,%D and %T... also %s,,,42
+261318,Aaron,Joseph,CA,3,31,-,42,22,30,5,1,2,2,0,0,0,0,0, Full Time,,,,,41
+292511,Zach,Tuohy,CA,2,31,-,39,27,36,4,5,2,1,0,2,1,0,0, Full Time,news,%P and %M,,,47
+290526,Matthew,Watson,CA,8,30,-,38,24,30,4,1,2,1,0,0,0,1,0, Full Time,,,,,46
+281049,Marcus,Davies,CA,0,8,-,11,8,12,2,1,1,0,0,0,1,0,0, Full Time,news,%P,,,31
+210023,Drew,Petrie,NM,48,122,-,148,106,120,14,1,10,1,0,2,0,7,0, Full Time,hot,Booted %s from %P and %G,,,96
+240417,Andrew,Swallow,NM,32,102,-,130,78,108,8,15,2,9,0,3,1,1,0, Full Time,hot,%D and %T plus %s,,,74
+290194,Jamie,MacMillan,NM,15,82,-,106,64,85,14,5,4,3,0,2,1,1,1, Full Time,news,%D and %M... also %s,,,78
+230272,Michael,Firrito,NM,19,80,-,101,67,93,7,14,6,4,0,0,1,0,0, Full Time,news,%P and %T with %M,,,100
+281395,Scott D.,Thompson,NM,13,75,-,91,65,81,10,11,6,0,0,5,0,0,0, Full Time,news,%O with %4 frees for,,,100
+280863,Ryan,Bastinac,NM,9,73,-,88,63,87,8,16,3,2,0,3,1,0,0, Full Time,news,%P and %M,,,73
+230232,Daniel,Wells,NM,14,70,-,88,55,72,11,6,3,2,0,2,0,1,0, Full Time,news,%P and %T,,,79
+230141,Hamish,McIntosh,NM,16,67,-,78,62,75,5,8,4,1,15,2,1,1,0, Full Time,news,%H and %D,,,82
+250285,Leigh,Adams,NM,13,67,-,83,54,75,9,10,1,3,0,2,1,1,0, Full Time,news,%O and %T,,,83
+271129,Todd,Goldstein,NM,16,67,-,86,58,75,7,4,2,5,21,3,4,0,0, Full Time,news,%H and %P with %T,,,78
+250135,Scott,McMahon,NM,9,66,-,86,50,69,10,6,4,3,0,0,0,0,0, Full Time,news,%D including %K... also %T,,,98
+230240,Aaron,Edwards,NM,11,64,-,77,55,69,7,7,4,1,0,1,0,2,0, Full Time,news,Kicked %s from %G and %O,,,80
+261909,Lindsay,Thomas,NM,10,62,-,76,51,64,9,4,3,1,0,1,0,2,1, Full Time,news,%s from %O,,,68
+960491,Brent,Harvey,NM,14,57,-,74,46,66,9,6,2,3,0,0,2,1,0, Full Time,news,%D and %T plus %s,,,91
+260545,Liam,Anthony,NM,13,54,-,66,49,73,9,11,1,1,1,0,3,1,0, Full Time,news,Not nearly as productive as last week... %D,,,75
+290547,Kieran,Harper,NM,7,53,-,64,44,61,7,9,2,1,0,0,0,0,4, Full Time,news,%s from %D on Yarran,,,79
+280864,Sam,Wright,NM,7,52,-,68,43,63,11,6,3,1,0,0,2,0,0, Full Time,news,%P with %k by foot,,,91
+290787,Shaun,Atley,NM,4,47,-,63,36,51,9,3,3,2,0,0,1,0,0, Full Time,news,%O,,,97
+291445,Aaron,Mullett,NM,3,43,-,53,35,48,6,7,2,1,0,1,0,0,0, Full Time,news,%P,,,89
+280921,Ben,Cunnington,NM,8,37,-,50,28,45,5,6,0,4,0,0,2,0,0, Full Time,news,%O... also %T,,,76
+270325,Robbie,Tarrant,NM,2,29,-,39,22,31,3,3,1,3,1,1,1,0,0, Full Time,news,%D and %T,,,63
+240189,Matt,Campbell,NM,1,18,-,24,14,18,4,0,2,0,0,0,0,0,0, Full Time,news,Just the one touch in the first half... %O and %M,,,50
+250373,Lachlan,Hansen,NM,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,0
+250557,Sam,Gibson,NM,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,0
+293796,Cameron,Delaney,NM,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,0

@@ -1,0 +1,48 @@
+Port Adelaide,Power,Hawthorn,Hawks,R7,10.12.72,15.14.104, Full Time
+May 6,2011,8:40,Footy Park,Seven,261396,10310701,5506,47,Fine,17
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>kafka69</em>: shiels wa such a shy baby last year too&#044; saw him at training.  I thought he would fade&#044; but glad he found the grunt!<br><em>tabs</em>: pup scored well in 2nd and 3rd quarter&#044; pity against the GCs bunny team<br><em>Buddy Guy</em>: Liam Shiels is going to be a star. Lenny Hayes replica<br><em>Nathani</em>: Yes go hawthorn I knew they could do it<br><em>Peterdean</em>: thank god buddy got over 100<br><em>Buddy Guy</em>: no chance of Smith getting dropped. Might get the sub jacket a bit but wont get dropped<br><em>kafka69</em>: smith will get another chance. rioli wont be back for another couple of weeks. hawthorn always understate injuries<br><em>da cooler</em>: should i downgrade gray to smith in sc<br><em>Vandosa</em>: those getting smith can still use him for mpp<br><em>HotTiges</em>: who will come in for Smith..Osbourne??<br><em>sgi86</em>: all these smith lovers r gonna b soo cut when he gets dropped <br><em>barlow=god</em>: well done smith! over the moon with 89 instead of doughnut<br>
+210020,Kane,Cornes,PA,24,102,117,126,84,114,8,19,6,5,0,2,0,0,0, Full Time,heart,%P and %M with %T,tagger,Tagging Burgoyne
+261892,Hamish,Hartlett,PA,24,92,75,120,70,90,14,4,6,4,0,2,0,1,0, Full Time,news,%P and %M with %T plus %s,,
+240180,Troy,Chaplin,PA,13,86,101,113,66,87,18,3,7,1,0,1,0,0,0, Full Time,tagged,Usually has Roughead but with Roughie rucking a lot he's often loose... then got Bateman's forward tag in Q3... %O and %M,heart,Corked thigh in Q2
+250063,Danyle,Pearce,PA,14,84,88,103,68,93,14,10,3,1,0,0,0,1,3, Full Time,tagged,Tagged by Bateman until Q3... %P and %s,,
+250365,Travis,Boak,PA,20,82,86,110,63,87,9,8,5,7,0,2,2,0,0, Full Time,news,%O and %M with %T,,
+280013,Jackson,Trengove,PA,13,80,87,104,65,87,11,8,7,3,0,1,1,0,0, Full Time,news,%P and %M with %T... on Roughead,,
+200111,Dean,Brogan,PA,15,79,97,92,74,95,5,14,2,3,23,4,3,0,0, Full Time,news,%H and %D with %T... also %F which didn't help his mood,,
+250688,Alipate,Carlile,PA,12,71,65,92,56,75,15,4,6,0,0,0,0,0,0, Full Time,job,Has Franklin... %M and %D,,
+260750,Justin,Westhoff,PA,15,71,79,91,59,74,10,4,6,2,2,2,1,1,0, Full Time,news,%s from %O and %G on Birchall,,
+290156,Jasper,Pittard,PA,14,68,72,84,57,72,11,6,5,0,0,2,0,1,0, Full Time,job,Minding Lewis... %P and %M plus %s,,
+260201,Daniel,Stewart,PA,6,66,57,86,52,65,10,2,4,3,7,3,1,0,1, Full Time,news,%P and %H with %M,,
+271078,Matthew,Broadbent,PA,13,65,51,84,52,69,9,6,6,2,0,0,0,0,0, Full Time,news,%D and %M,,
+230173,Michael,Pettigrew,PA,12,63,52,83,52,69,11,4,7,1,0,0,1,0,0, Full Time,news,%O and %M,,
+281375,Cameron,Hitchcock,PA,9,56,61,70,44,58,10,4,2,1,0,1,0,1,1, Full Time,sore,%s from %O and %M on Puopolo... left ankle restrapped in Q2,,
+261396,Robbie,Gray,PA,11,55,63,68,51,62,8,3,5,0,0,2,2,2,2, Full Time,news,%2 Mitchell then moved forward in Q2... %s from %O and %M,,
+270779,Paul,Stewart,PA,4,52,63,66,43,57,7,6,5,1,0,0,0,0,0, Full Time,job,In defence on Guerra... %D and %M,,
+230124,Tom,Logan,PA,9,51,45,65,43,54,4,6,6,2,0,1,0,0,0, Full Time,tagger,Tagging Hodge... %D and %M,,
+220090,David,Rodan,PA,8,50,75,61,41,57,5,10,2,2,0,1,0,0,0, Full Time,injured,Tagged by Sewell... %P and %M with %T... torn right meniscus in Q3 under Franklin's tackle... opposite to the one he's had two LARS recos on,subbed,Subbed off in Q3 for Phillips
+230242,Brett,Ebert,PA,9,49,50,61,41,54,8,5,2,1,0,2,1,1,0, Full Time,sore,Booted %s from %P and %M on Murphy... corked back in Q2,,
+230195,Jay,Schulz,PA,9,48,55,60,38,49,4,5,2,3,1,1,0,1,0, Full Time,news,%s fro %O and %T on Gilham,,
+210008,Daniel,Motlop,PA,10,44,55,57,37,52,7,4,2,2,0,0,2,1,1, Full Time,sore,%s from %P with %T on Gibson... dislocated shoulder in Q2 but back after only 10 minutes,,
+240381,Simon,Phillips,PA,2,26,26,33,20,28,2,4,1,2,0,0,0,0,1, Full Time,news,On in Q3 for Rodan... %P,sub,Started as a sub
+220073,Sam,Mitchell,HW,26,110,108,72,93,129,17,14,7,3,0,1,3,1,0, Full Time,star,%2 Gray to start with then got blokes rotated through him... escaped the Kane Cornes tag... %O and %M with %T and %s,,
+280737,Liam,Shiels,HW,26,108,98,80,90,115,14,10,10,2,0,1,0,1,1, Full Time,hot,%D and %M plus %s,,
+240357,Jarryd,Roughead,HW,42,97,115,97,73,98,8,6,4,10,14,1,2,0,0, Full Time,x-factor,Chaplin normally smashes him but he got Trengove... %P and %M with %T... also %H in ruck support with no Hale in the side... his second half in the ruck set up the Hawk win,,
+200040,Chance,Bateman,HW,25,96,108,66,80,99,14,6,10,1,0,2,0,1,0, Full Time,tagger,Tagging Pearce then went to Chaplin in Q3... %D and %M plus %s,,
+230197,Brad,Sewell,HW,25,96,91,76,83,114,11,15,7,3,0,0,2,1,0, Full Time,news,%P and %T with %M and %s,tagger,Tagging Rodan
+250257,Xavier,Ellis,HW,20,94,84,63,81,105,15,6,12,1,2,0,2,0,1, Full Time,news,%D and %M with %F,,
+240302,Grant,Birchall,HW,19,91,75,64,76,99,13,9,10,1,0,0,0,0,0, Full Time,job,Running off Westhoff... %P and %M,,
+294877,Isaac,Smith,HW,20,89,102,63,73,94,12,9,6,2,0,2,0,1,1, Full Time,rookie,%B among %P with %M plus %s,,
+220047,Luke,Hodge,HW,25,85,91,64,65,89,12,5,3,6,3,1,2,1,2, Full Time,tagged,Tagged by Logan... %P and %T plus %H,,
+240399,Lance,Franklin,HW,21,79,114,64,69,87,8,7,5,2,0,0,1,3,3, Full Time,news,Carlile on him... %s from %G and %O... also %T,,
+261386,Brendan,Whitecross,HW,16,74,72,57,62,78,10,3,9,2,0,0,1,1,0, Full Time,news,%O and %M plus %s,,
+250715,Josh,Gibson,HW,12,72,92,43,60,78,12,7,7,0,0,1,0,0,0, Full Time,job,Standing Motlop... %O and %M,,
+220060,Rick,Ladson,HW,13,69,53,43,55,75,12,5,6,2,0,0,1,0,0, Full Time,news,%O and %T,,
+210012,Shaun,Burgoyne,HW,9,68,68,49,54,74,10,6,5,3,0,0,1,0,2, Full Time,news,Tagged by Kane Cornes... %D and %M plus %s,,
+250308,Brent,Renouf,HW,22,67,93,59,59,69,6,1,2,4,12,4,3,3,0, Full Time,injured,First goal... %H and %P with %s... left knee/hamstring soreness in Q3,subbed,Subbed off in Q4 for Savage
+250089,Jordan,Lewis,HW,12,66,86,42,57,77,11,6,7,1,1,0,2,0,1, Full Time,news,%D and %M on Pittard... also %F,,
+200060,Brent,Guerra,HW,12,63,65,39,53,70,10,7,6,0,0,0,0,0,1, Full Time,switch,%s from %P and %M up forward on Paul Stewart... rotated back during the game,,
+260710,Paul,Puopolo,HW,13,62,57,46,53,72,9,6,7,2,0,0,2,0,0, Full Time,rookie,First game... %O and %M with %T,job,Minding Hitchcock
+250055,Clinton,Young,HW,8,50,81,35,43,60,7,8,4,1,0,0,1,0,0, Full Time,news,%O and %M,,
+230082,Stephen,Gilham,HW,8,45,47,19,41,60,10,6,4,0,0,0,3,0,0, Full Time,job,Chasing Schulz... %P and %M with %F,,
+250146,Thomas,Murphy,HW,4,41,60,30,33,45,6,4,3,2,0,1,1,0,0, Full Time,job,On Ebert... %D and %M,in,%l David Hale
+280858,Shane,Savage,HW,7,30,20,24,25,30,3,1,1,1,0,0,0,2,0, Full Time,garbage,On in Q4 for Renouf... %P and %s with both goals late in junk time,sub,Started as a sub

@@ -1,0 +1,48 @@
+Collingwood,Magpies,Carlton,Blues,R2,17.15.117,15.10.100, Full Time
+Apr 07,2013,3.15,MCG,Seven,261299,10390208,5015,0,Sunny,27,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>IWantPie</em>: chillcat dreaming<br><em>Fo$$il</em>: I didn't watch the game.. but Bootsma vs Elliott looks embarrassing for the lad!!<br><em>BFAsh</em>: flower umpiring 21 frees to 13<br><em>dtfreak</em>: great game<br><em>scfreak</em>: Big q deserves the heart<br><em>Tassiescot</em>: ridiculously unfair with the free kicks<br><em>buddyboyz</em>: siren<br><em>Tassiescot</em>: terrible umpiring today<br><em>tezzer_j</em>: You suck shower bootsma&#044; power off back to vfl<br><em>JobeyOne</em>: unlucky blues. huge non decision for armfield<br><em>Drenthe FC</em>: crab&#044; muppet&#044; spud&#044; mare&#044; witches hat&#044; burger&#044; mare on bootsma. it baffles me how he gets a game<br><em>old_shepp</em>: Quinten Lynch has been sensational - well done<br>
+293801,Jamie,Elliott,CO,38,125,159,157,107,130,16,4,10,3,0,2,2,5,1, Full Time,star,%s from %P and %M on Bootsma... also %T and %F,,,328900,,326000,,Forward,19
+220105,Dane,Swan,CO,30,117,103,155,87,118,22,4,6,5,1,1,1,1,0, Full Time,magnet,%2 Judd... %O and %M... also %T,dttalk,Calvin's #1 DT captain choice,688100,,675300,,Midfielder,36
+280965,Steele,Sidebottom,CO,26,109,131,144,78,108,21,4,4,5,0,0,0,1,0, Full Time,hot,%2 Bell... %O including %K with %T... also %s which was the sealing goal late in Q4,,,539200,,568400,,Midfielder,22
+260257,Scott,Pendlebury,CO,27,108,121,137,82,108,14,9,3,6,0,3,0,2,0, Full Time,hot,%O and %T plus %s,carrot,Tagged by Carrazzo,568700,,667300,,Midfielder,10
+240700,Heath,Shaw,CO,21,102,100,131,78,105,20,5,5,2,0,0,0,1,3, Full Time,hot,%P and %M plus %s,,,422800,,541300,,Back,39
+280104,Jarryd,Blair,CO,28,97,99,127,75,102,14,6,4,6,0,1,2,2,0, Full Time,news,%O and %T with %M and %s,,,409300,,473800,,Forward Midfielder,11
+220061,Quinten,Lynch,CO,15,96,114,114,85,109,11,13,5,1,19,2,1,0,0, Full Time,news,%P... %H after playing ruck most of the game with Jolly injured,,,350600,,363000,,Forward,21
+250133,Sam,Dwyer,CO,20,90,110,110,76,100,10,13,6,2,0,1,0,1,1, Full Time,news,%s from %O and %M,,,89300,,96200,,Midfielder ,41
+272005,Martin,Clarke,CO,16,81,97,101,68,93,11,11,5,2,0,0,1,1,0, Full Time,news,%D and %M with %T,,,323700,,352800,,Back,9
+240073,Harry,O'Brien,CO,9,80,93,103,62,84,16,6,5,1,0,1,0,0,0, Full Time,news,%2 Lucas on a wing... %D,,,320200,,380600,,Back,8
+291386,Ben,Sinclair,CO,16,79,67,101,60,78,9,5,3,5,0,1,0,2,0, Full Time,news,%s from %P and %T on Tuohy... also %M,,,256200,,275200,,Midfielder,28
+250090,Jordan,Russell,CO,14,71,84,94,53,72,10,5,5,4,0,0,0,0,0, Full Time,job,Minding Garlett... %P and %T with %M,,,264300,,266000,,Back,2
+240366,Travis,Cloke,CO,9,69,79,89,56,71,9,5,7,2,0,1,0,0,2, Full Time,news,%P and %G on Jamison... also %T,,,383600,,436300,,Forward,32
+261181,Brent,Macaffer,CO,16,66,60,88,48,64,6,5,4,6,0,1,0,0,1, Full Time,news,%D,,,132600,,128000,,Forward,3
+260246,Tyson,Goldsack,CO,15,64,78,81,49,65,7,6,2,4,0,1,0,1,2, Full Time,news,%s from %P and %T on Henderson then Laidler,,,289000,,343200,,Back,6
+200021,Ben,Johnson,CO,13,62,59,84,46,66,12,4,2,4,0,2,2,0,0, Full Time,job,Responsible for Yarran... %O and %M with %T,,,263000,,301400,,Midfielder,26
+230263,Nick,Maxwell,CO,5,60,67,77,48,63,8,6,5,2,0,1,0,0,0, Full Time,tagged,Forward tag on him by Robinson... %P and %M,sore,Right ankle knock in Q1,329200,,395900,,Back,5
+240232,Ben,Reid,CO,3,44,82,54,37,51,5,8,3,1,0,0,0,0,0, Full Time,news,%P and %M,job,Started on Rowe then got Henderson in Q2,285200,,348400,,Back,20
+294733,Paul,Seedsman,CO,1,24,21,30,21,30,3,5,1,1,0,1,1,0,0, Full Time,news,On in Q2 for Jolly... %D,sub,Started as a sub,254300,,239300,,Midfielder,40
+240419,Alan,Toovey,CO,1,20,48,27,16,21,6,0,1,0,0,2,1,0,0, Full Time,job,Chasing Walker... %P,,,282800,,333700,,Back,34
+260310,Nathan J.,Brown,CO,1,15,38,19,13,16,2,1,2,0,1,0,0,0,0, Full Time,job,Has Hampson... %O,,,204700,,259700,,Back,16
+210099,Darren,Jolly,CO,0,-1,1,0,2,6,1,1,0,0,0,0,2,0,0, Full Time,injured,Rib knock very early in Q1... %P and %F,subbed,Subbed off in Q2 for Seedsman,427600,,518700,,Ruck,18
+270653,Jeff,Garlett,CA,43,124,131,95,93,121,17,3,6,8,0,1,1,3,1, Full Time,hot,%s from %D and %M with %T on Russell,,,331400,,391300,,Forward,38
+261299,Matthew,Kreuzer,CA,22,91,109,74,76,91,9,4,2,4,34,3,1,0,0, Full Time,news,%H and %P with %T,,,403700,,494100,,Ruck,8
+250105,Marc,Murphy,CA,18,84,92,39,66,92,16,10,1,1,0,1,0,1,2, Full Time,news,%O,,,522000,,602900,,Midfielder,3
+250417,Bryce,Gibbs,CA,15,83,86,65,64,90,11,9,5,5,0,0,1,0,0, Full Time,news,%P including %B with %T,,,473300,,509800,,Midfielder,4
+220056,Chris,Judd,CA,18,82,91,55,62,91,12,13,1,4,0,0,0,0,1, Full Time,news,%O,swan,Head to head with Swan,465800,,558300,,Midfielder,5
+271110,Chris,Yarran,CA,21,78,85,50,68,86,12,4,4,2,0,3,3,3,2, Full Time,news,%s from %O and %T up forward on Johnson... also %M and %F,,,311400,,362000,,Back,13
+281079,Kane,Lucas,CA,18,76,93,48,62,81,12,6,6,1,0,0,0,1,0, Full Time,news,%2 O'Brien on a wing... %O and %M plus %s,,,251200,,217400,,Midfielder,9
+290311,Mitch,Robinson,CA,8,75,75,39,54,73,15,3,3,3,0,2,0,0,1, Full Time,tagger,Forward tag role on Maxwell... %P and %T with %M,,,478600,,474700,,Midfielder,12
+230202,Kade,Simpson,CA,15,71,74,47,58,78,11,6,5,2,0,0,1,1,0, Full Time,news,Quiet Q1.. %D and %M plus %s,,,481600,,501300,,Midfielder,6
+240014,Andrew,Walker,CA,16,64,70,48,52,64,8,2,2,3,0,2,1,3,1, Full Time,news,First goal... %s from %P and %M on Toovey including the first three goals of the game,concussed,Headclash with Lucas in Q2 left him a bit woozy,382300,,423400,,Forward,1
+260278,Sam,Rowe,CA,11,59,65,44,50,62,7,4,4,1,8,0,0,1,0, Full Time,news,%D and %M on Reid... also %H,,,108500,,115900,,Forward,17
+270326,Lachie,Henderson,CA,10,51,72,33,43,57,8,4,4,1,0,0,1,1,0, Full Time,news,%M and %O,switch,Started on Goldsack but switched forward in Q2 on Reid,287600,,355100,,Back,23
+220015,Andrew,Carrazzo,CA,7,48,64,35,40,60,6,11,1,2,0,0,1,0,0, Full Time,tagger,Tagging Pendlebury... %D,,,467400,,517800,,Midfielder,44
+261043,Michael,Jamison,CA,4,46,80,37,36,51,6,5,3,3,0,0,1,0,0, Full Time,job,Following Cloke... %O and %M,,,263400,,316700,,Back,40
+294691,Tom,Bell,CA,13,46,55,38,43,66,5,11,1,3,0,0,4,1,0, Full Time,news,%2 Sidebottom... %P and %T.. also %F,,,304000,,310200,,Midfielder,28
+260533,Dennis,Armfield,CA,3,40,48,28,28,42,6,5,0,3,0,0,0,0,0, Full Time,news,%P,,,324100,,343400,,Midfielder Forward,27
+292511,Zach,Tuohy,CA,7,39,53,27,26,39,7,1,1,4,0,0,1,0,0, Full Time,job,Minding Sinclair... %O and %T,,,238900,,289500,,Back,42
+270899,Jeremy,Laidler,CA,6,34,30,36,21,30,3,1,1,5,0,0,0,0,0, Full Time,job,Moved from Lynch to Goldsack in Q2 after Lynch went into ruck... %P and %T,subbed,Subbed off in Q4 for McLean,235700,,288900,,Back,15
+281049,Marcus,Davies,CA,2,34,39,26,25,36,5,3,1,3,0,1,1,0,0, Full Time,news,%D and %T,,,105600,,173900,,Back,31
+240028,Brock,McLean,CA,2,29,35,24,22,33,3,6,0,2,0,0,0,0,0, Full Time,news,On in Q4 for Laidler,sub,Started as a sub,516200,,568600,,Midfielder,14
+281124,Levi,Casboult,CA,2,19,21,18,21,31,2,4,3,1,1,0,3,0,0, Full Time,news,%D and %M... also %F,,,283600,,311400,,Forward,41
+296531,Josh,Bootsma,CA,1,19,18,23,14,21,1,2,1,3,0,0,1,0,0, Full Time,job,Has Elliott... %P and %T,,,223600,,225800,,Back,21

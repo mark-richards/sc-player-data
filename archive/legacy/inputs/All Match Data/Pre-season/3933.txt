@@ -1,0 +1,61 @@
+Melbourne,Demons,Hawthorn,Hawks,W3,16.16.112,8.8.56, Full Time
+Mar 10,2012,5.40,Docklands,Fox Footy,,10330307,,34,Fine,21,,
+
+<em>dean771</em>: Well done Jones&#044; only melb player out score 2 of the hawks subs<br><em>Mithrandir</em>: Magner hurt his finger early on. Hopefully not a fracture. No updates really throughout the game<br><em>LilGazza</em>: how many will he miss?<br><em>LilGazza</em>: yeah ben where was magner guys?<br><em title="BENNN17">bennn17</em>: Sucko for me. I reckon they'll give him more freedom to run off compared to Birchall and won't miss a target this year.<br><em style='color:#e50000'>m0nty</em>: Birchall for me.<br><em title="BENNN17">bennn17</em>: Only just checking the game now. Whats the latest on Magner? Has this hurt his chances of elevation and rd 1 big time?<br><em>E Kavastar</em>: Chelsea is the best goal umpire in the business<br><em>whatlez1</em>: Birchall the man&#044; suckers not so much...<br><em>tigerman28</em>: wots your call m0nty? Birch or suck? It's doing my head in!<br><em>snake_p</em>: Birchall DT&#044; Suckers SC<br><em>reddevil96</em>: Smooth moves by the chick goal umpire<br>
+250222,Nathan,Jones,ME,12,66,-,87,50,69,12,6,1,4,0,5,2,0,0, Full Time,news,Spent Q1 as a sub... %O and %T with %F,,,61
+270830,Colin,Garland,ME,10,56,-,76,42,57,8,3,4,4,0,1,1,0,0, Full Time,job,Loose in defence then moved to Franklin in Q3... %M and %O with %T,,,94
+240037,Colin,Sylvia,ME,12,54,-,72,40,63,10,7,0,4,0,0,2,0,0, Full Time,news,%2 Sewell... %O and %T,,,79
+200002,Aaron,Davey,ME,13,53,-,73,35,50,6,3,0,7,0,2,1,0,2, Full Time,news,%s from %P and %T off a HFF on Murphy,,,82
+250548,Lynden,Dunn,ME,10,50,-,65,41,53,9,1,4,1,0,0,1,1,2, Full Time,news,Trying to keep Birchall honest... %s from %D and %M,,,91
+220052,Mark,Jamar,ME,9,48,-,57,45,53,5,2,2,1,23,2,2,0,0, Full Time,news,%H and %D with %M,,,92
+280972,Jack,Watts,ME,10,48,-,56,41,51,3,7,1,2,0,2,0,2,0, Full Time,news,%s from %P with %b by hand on Stratton... also %T,,,96
+240393,Mitchell,Clark,ME,14,46,-,55,44,54,8,2,1,0,0,3,3,3,3, Full Time,news,%s from %P on Boumann... also %F,,,93
+230151,Brent,Moloney,ME,3,44,-,59,31,48,11,3,0,2,0,0,1,0,0, Full Time,news,%O and %T,,,85
+291313,Jeremy,Howe,ME,3,44,-,58,33,42,5,3,3,3,0,2,0,0,0, Full Time,mrp,%D and %M with %T on Suckling... could be trouble for a swinging left elbow on Murphy behind play in Q4,,,97
+270906,Jordie,McKenzie,ME,13,41,-,56,29,42,2,5,1,6,0,1,1,0,0, Full Time,news,On in Q3... %P and %T,sub,Started as a sub,41
+280608,Jack,Trengove,ME,3,41,-,53,32,45,7,5,1,2,0,2,1,0,0, Full Time,news,%P and %T,,,67
+250245,Clint,Bartram,ME,7,38,-,51,26,36,4,3,1,4,0,1,0,0,0, Full Time,job,Minding Puopolo... %O and %T,,,71
+294874,Daniel,Nicholson,ME,4,38,-,51,32,45,6,4,3,2,0,1,2,0,0, Full Time,news,Just the one touch in Q1... %O and %T with %F,,,82
+290795,Troy,Davis,ME,2,35,-,45,28,36,5,3,3,1,0,1,0,0,0, Full Time,job,Standing Hale.. %M and %P,,,100
+230250,Jared,Rivers,ME,2,32,-,41,26,33,6,2,3,0,0,1,0,0,0, Full Time,news,On in Q3... %M and %P,sub,Started as a sub,50
+250345,Rohan,Bail,ME,7,32,-,45,22,33,4,2,1,4,0,0,1,0,0, Full Time,job,Too loose on Breust... %O and %T,,,64
+293877,Josh,Tynan,ME,2,32,-,43,23,30,7,0,2,1,0,1,0,0,0, Full Time,news,On in Q3... %P and %M,sub,Started as a sub,48
+250510,Matthew,Bate,ME,1,26,-,33,22,33,4,5,1,1,0,0,1,0,0, Full Time,news,Playing midfield again... %O,subbed,Subbed off at HT,37
+260288,James,Frawley,ME,2,25,-,34,20,27,5,1,2,1,0,1,1,0,0, Full Time,job,Chasing Franklin... %D and %M,subbed,Subbed off at HT,50
+270174,Tom,Couch,ME,1,21,-,25,18,24,3,4,1,0,0,1,0,0,0, Full Time,news,On in Q3... %D,sub,Started as a sub,38
+280758,Jack,Fitzpatrick,ME,0,19,-,22,16,18,1,3,0,1,3,3,0,0,0, Full Time,news,On in Q3... %H and %P,sub,Started as a sub,42
+290943,Jamie,Bennell,ME,1,18,-,22,15,21,3,3,1,0,0,0,0,0,0, Full Time,job,Going with Rioli... %D,subbed,Subbed off at HT,75
+250418,James,Sellar,ME,0,10,-,13,10,15,2,2,1,0,0,0,1,0,0, Full Time,news,Moved to Gunston in Q3... %D,,,99
+260176,James,Magner,ME,0,7,-,10,4,6,1,0,0,1,0,0,0,0,0, Full Time,injured,Dislocation on his right hand in Q1... one touch and a tackle,subbed,Subbed out in Q1,17
+280763,Stefan,Martin,ME,0,4,-,6,5,7,1,0,1,0,1,0,1,0,0, Full Time,news,Schoenmakers on him... %P,subbed,Subbed off at HT,50
+250360,Ricky,Petterd,ME,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+291533,Tom,McDonald,ME,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+220047,Luke,Hodge,HW,21,117,-,148,95,119,16,8,9,3,3,3,0,1,2, Full Time,hot,%P and %M plus %T and %s,,,74
+220036,David,Hale,HW,39,106,-,126,96,109,8,2,6,3,16,2,2,6,0, Full Time,hot,%s from %P and %G on Davis... also %T and %H,,,85
+261386,Brendan,Whitecross,HW,25,106,-,143,77,103,15,4,8,7,1,0,0,0,0, Full Time,hot,%P and %M with %T,,,89
+240399,Lance,Franklin,HW,27,96,-,117,84,104,12,5,5,2,0,1,2,5,2, Full Time,news,First goal... %s from %P including a supergoal on Frawley then got Garland in Q3... also %G and %T,sore,Knock to the left leg in Q3 but straight back on,92
+230197,Brad,Sewell,HW,26,91,-,116,72,97,11,11,2,6,0,5,2,1,1, Full Time,news,%2 Sylvia... %P and %T plus %s,,,85
+270732,Matt,Suckling,HW,18,91,-,120,70,94,23,2,6,0,0,2,1,0,1, Full Time,news,%M and %P,job,Zoning off Howe with the greatest of ease,85
+240302,Grant,Birchall,HW,14,89,-,113,74,99,11,12,7,3,0,2,1,0,0, Full Time,job,Dunn trying to man him up... %P and %M plus %T,,,86
+200052,Cameron,Bruce,HW,20,74,-,95,59,75,7,6,6,4,0,1,0,1,0, Full Time,news,%O and %M with %T and %s,,,85
+250089,Jordan,Lewis,HW,19,73,-,92,56,76,9,8,2,4,1,1,0,1,0, Full Time,news,%s from %P and %T with %M,,,90
+260472,Max,Bailey,HW,21,69,-,91,57,74,6,3,2,7,20,3,4,0,0, Full Time,news,%H and %D with %M and %T... also %F,,,68
+270215,Kyle,Cheney,HW,13,68,-,87,57,78,7,10,6,3,0,0,1,0,0, Full Time,news,%D and %M with %T,,,88
+294877,Isaac,Smith,HW,14,68,-,88,54,75,8,9,4,4,0,1,1,0,0, Full Time,news,On in Q3... %O and %T with %M,sub,Started as a sub,50
+260955,Cyril,Rioli,HW,10,63,-,83,47,63,8,5,4,4,0,1,0,0,0, Full Time,news,%O and %M with %T on Bennell,,,62
+281301,Ryan,Schoenmakers,HW,8,60,-,74,50,66,8,9,4,1,0,2,0,0,0, Full Time,job,On Martin... %D and %M,,,94
+200040,Chance,Bateman,HW,8,57,-,74,47,60,10,3,7,0,0,0,0,0,0, Full Time,news,Started well... %D and %M,subbed,Subbed off at HT,46
+280471,Ben,Stratton,HW,5,55,-,71,46,63,7,7,5,2,0,0,1,0,0, Full Time,job,Chasing Watts... %M and %P,,,98
+250146,Thomas,Murphy,HW,8,51,-,65,46,63,7,8,5,1,0,1,2,0,0, Full Time,job,Minding Davey... %O and %M,,,76
+270783,Jarrad,Boumann,HW,8,44,-,55,44,60,6,9,5,0,0,2,3,0,0, Full Time,job,Standing Clark... %P and %M,,,91
+280744,Luke,Breust,HW,9,43,-,50,37,48,4,6,1,1,0,0,0,2,0, Full Time,news,%s from %D on Bail,subbed,Subbed off at HT,50
+280858,Shane,Savage,HW,4,42,-,54,36,49,6,5,4,1,0,0,1,0,1, Full Time,news,On in Q3... %D and %M plus %s,sub,Started as a sub,50
+250055,Clinton,Young,HW,3,35,-,48,29,42,6,3,3,2,0,0,2,0,0, Full Time,news,%O and %T with %M,subbed,Subbed off at HT,50
+260710,Paul,Puopolo,HW,9,34,-,42,30,40,2,5,2,2,0,0,1,1,1, Full Time,news,%s from %P and %M on Bartram,,,90
+291351,Jack,Gunston,HW,2,29,-,39,22,28,5,0,3,1,0,0,0,0,1, Full Time,news,On in Q3 and got Sellar... %s from %P and %G,sub,Started as a sub,50
+280947,Luke,Lowden,HW,1,13,-,16,12,14,1,1,2,0,2,0,0,0,0, Full Time,news,Spent Q1 as a sub... %P and %M,,,26
+290781,Mitch,Hallahan,HW,0,9,-,12,8,13,1,2,0,1,0,0,1,0,1, Full Time,news,On in Q4... %O,sub,Started as a sub,24
+291815,Jordan,Kelly,HW,0,3,-,5,4,6,1,0,1,0,0,0,1,0,0, Full Time,news,Spent Q1 as a sub... just one disposal,subbed,Subbed off at HT,17
+220073,Sam,Mitchell,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+280737,Liam,Shiels,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0
+295584,Bradley,Hill,HW,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,bench,Not used even though he was named,,,0

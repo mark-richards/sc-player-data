@@ -1,0 +1,48 @@
+St Kilda,Saints,Richmond,Tigers,R2,13.17.95,14.11.95, Full Time
+Apr 1,2011,7:40,MCG,Seven,210001,10310201,5015,10,A shower or two,19
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last Sunday game. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>Jackmatt12</em>: flowering hell riewoldt<br><em>dudeshbood</em>: omg doing good with jak reiwoldt 0 and  goddard 72&#044; what is this&#044; last week 2253 now looking to just krak the 1900<br><em>1no2no3yes</em>: damn&#044; i had jack riewoldt as captain<br><em>Pendlez10</em>: lol saints<br><em>magpies01</em>: was watching the replay wat a game!<br><em>MrMonstah</em>: Anyone know what Foley has to make next week to B/E??<br><em>BuddysBest</em>: just to those newbs the super coach score isnt exactly right they have to do it quickly so they make minor errors.<br><em>c4v3m4n</em>: So&#044; anyone putting money on the draw for Sydney v West Coast next week?<br><em>Constant</em>: I Wouldnt trade anyone has of yet.. id normally wait till Thursday to do so. <br><em>BFevola</em>: flowering hell Gilbert....<br><em style='color:#a0a'>MoneyShark</em>: So i think my first Dt trade will have to be to get rid of foley. Maybe for Curnow or Gaff<br><em>dasha</em>: eccho <br>
+200108,Stephen,Milne,SK,26,124,141,152,103,127,19,5,7,1,0,1,0,4,7, Full Time,hot,First goal... %s from %O and %M on Conca... everywhere in Q1,,
+220023,Nick,Dal Santo,SK,31,113,107,151,83,114,14,8,6,9,1,1,1,0,2, Full Time,gun,%2 Grigg... %K among %P with %M and %s... also %T,,
+250340,David,Armitage,SK,37,102,127,130,80,111,10,15,2,8,0,4,2,1,0, Full Time,hot,%O and %T with %M... also %s,,
+261323,Ben,McEvoy,SK,33,100,113,121,82,102,6,8,3,6,26,0,0,1,1, Full Time,hot,%H and %D with %T,,
+240708,Sam,Fisher,SK,15,94,121,122,74,98,16,6,6,3,5,2,1,0,0, Full Time,crown,Forward tag on him by King... %P and %M with %T,,
+210001,Nick,Riewoldt,SK,20,90,95,110,77,88,11,3,7,1,2,4,0,3,2, Full Time,news,%s from %P and %G on McGuane... very quiet in Q2 and Q3,,
+220075,Leigh,Montagna,SK,20,87,100,121,63,92,20,2,2,6,0,3,4,0,2, Full Time,tagged,Tagged by White... %K among %D with %T... also %M and %s... terrible first half but lifted after White copped a knock,,
+220034,Jason,Gram,SK,10,82,67,105,66,93,12,11,5,3,0,0,1,0,0, Full Time,news,%2 Martin... %D and %M,,
+230084,Brendon,Goddard,SK,20,72,102,92,59,79,7,8,5,4,1,0,1,1,0, Full Time,missing,%2 Deledio... took him deep into attack early but Deledio outworked him after QT... %D and %M plus %s... also %T,,
+990028,Lenny,Hayes,SK,13,65,49,85,49,69,8,8,2,5,0,2,1,0,0, Full Time,longterminjured,Tagged by Jackson... %P and %T with %M... left knee twisted nastily and carried off in Q3,subbed,Subbed off after his knee injury
+260581,Ryan,Gamble,SK,10,54,54,68,47,60,7,5,5,1,0,1,1,1,0, Full Time,news,Kicked %s from %D and %G on Connors,,
+250703,James,Gwilt,SK,8,53,72,71,45,60,12,2,6,0,0,1,2,0,0, Full Time,job,Standing Vickery... %D and %M,,
+240701,Brett,Peake,SK,4,51,51,68,38,54,9,4,2,3,0,1,1,0,0, Full Time,news,%P and %M,,
+240062,Farren,Ray,SK,15,49,60,63,43,60,4,8,2,4,0,2,3,1,0, Full Time,news,%2 Edwards... %D and %M plus %s... also %T,,
+250134,Sam,Gilbert,SK,9,49,59,67,43,64,10,5,4,2,0,0,4,0,1, Full Time,news,Starting forward on Batchelor... %s from %G and %D,,
+990004,Steven,Baker,SK,13,44,44,62,29,42,5,2,1,6,0,1,1,0,0, Full Time,job,On Nahas... %O and %T,,
+230243,Sean,Dempster,SK,4,43,55,57,34,48,7,4,3,2,0,0,1,0,0, Full Time,job,Following Morton... %D and %M,,
+281108,Daniel,Archer,SK,4,43,52,56,34,44,5,3,4,2,1,0,0,0,1, Full Time,rookie,Deep in attack on Astbury... %P and %G,,
+240552,Zac,Dawson,SK,3,41,62,52,32,42,3,6,2,3,0,2,0,0,0, Full Time,job,Has Riewoldt... %P,,
+200068,Jason,Blake,SK,8,38,63,47,35,46,5,4,2,1,4,1,2,1,0, Full Time,news,%M and %O,,
+261743,Clinton,Jones,SK,2,25,47,34,16,24,5,1,0,2,0,0,0,0,0, Full Time,news,On in Q3 for Hayes,sub,Started as a sub
+230035,Raphael,Clarke,SK,1,21,38,27,16,22,5,1,1,0,1,0,0,0,0, Full Time,news,%D,,
+250298,Shaun,Grigg,RI,31,114,126,72,85,121,19,10,3,6,0,0,1,1,1, Full Time,hot,%2 Dal Santo... %D with %k by foot with %T... also %s,,
+240336,Brett,Deledio,RI,21,103,136,73,86,115,13,16,5,2,0,2,0,1,1, Full Time,medal,%2 Goddard... dragged deep in defence early but outworked Goddard after QT... %B among %O with %M... won the Ian Stewart Medal,,
+290847,Dustin,Martin,RI,26,98,92,67,78,104,14,7,3,4,0,0,1,3,2, Full Time,hot,%2 Gram... %D and %T plus %s,,
+240707,Daniel,Jackson,RI,25,91,145,70,67,95,12,9,1,7,1,1,1,1,1, Full Time,tagger,Tagging Hayes... %P and %T,,
+270896,Trent,Cotchin,RI,16,84,88,47,67,88,15,5,4,2,2,2,1,1,2, Full Time,news,%P and %T plus %s,,
+210048,Chris,Newman,RI,14,79,134,53,60,84,13,7,3,5,0,3,2,0,0, Full Time,news,Had a very quiet first half... %O and %M with %T,,
+260146,Angus,Graham,RI,27,77,80,85,65,81,2,7,2,6,30,0,1,0,0, Full Time,news,%H and %P with %T,,
+260105,Daniel,Connors,RI,9,72,71,45,58,78,12,7,5,2,0,2,1,0,0, Full Time,job,Has Gamble... %P and %M with %T,,
+270941,Tyrone,Vickery,RI,13,71,69,65,62,72,5,5,5,2,8,2,0,2,1, Full Time,news,Playing forward on Gwilt... %s from %D and %M... also %T and %H,,
+271437,Jake,King,RI,16,64,65,51,50,63,8,2,3,4,0,2,1,2,0, Full Time,news,%D and %M with %T plus %s,tagger,Forward tag on Fisher
+250623,Robin,Nahas,RI,13,62,58,54,49,72,7,9,3,5,0,0,2,0,0, Full Time,lebanon,%O on Baker... also %F,,
+240130,Nathan,Foley,RI,12,55,83,54,45,64,4,11,1,5,1,3,2,0,0, Full Time,news,Very quiet first half but had a better Q3... %B among %O with %T,,
+293315,Bradley,Helbig,RI,14,53,48,55,42,52,3,5,3,4,0,2,0,1,1, Full Time,bubble,On in Q2 for Riewoldt... kicked %s from %P with %T,sub,Started as a sub
+260930,Shane,Edwards,RI,9,51,71,37,38,51,7,4,1,3,0,1,0,1,0, Full Time,news,%2 Ray... %P and %s,,
+240389,Matt,White,RI,8,49,48,38,34,51,7,5,0,5,0,1,1,0,0, Full Time,tagger,Tagging Montagna... %P and %T,sore,Leg knock in Q3
+250312,Bachar,Houli,RI,4,48,48,27,35,48,9,3,2,2,0,1,0,0,0, Full Time,news,%D including %K,,
+290823,Reece,Conca,RI,4,42,48,29,33,48,7,4,2,3,0,1,2,0,0, Full Time,bubble,%P and %T with %M,job,Minding Milne
+240412,Mitch,Morton,RI,9,38,64,30,38,54,4,9,2,1,0,1,3,1,0, Full Time,news,Playing deep forward with Riewoldt off the ground... %s from %O on Dempster,,
+240256,Luke,McGuane,RI,7,33,68,13,33,54,8,7,2,1,0,0,5,0,0, Full Time,job,Chasing Riewoldt... %D and %F,reported,Reported in Q2 for bumping Ray
+291437,Jake,Batchelor,RI,2,26,40,27,22,33,2,5,1,3,0,1,2,0,0, Full Time,bubble,%D,job,Standing Gilbert
+290198,David,Astbury,RI,2,23,40,25,18,24,1,4,1,2,0,1,0,0,0, Full Time,job,On Archer... %P,,
+250395,Jack,Riewoldt,RI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,concussed,KOed himself in a marking contest in Q1 before touching the ball,subbed,Subbed off in Q2... yes his zero counts

@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Port Adelaide,Power,R10,10.7.67,8.10.58, Full Time
+Jun 01,2013,7.40,Darwin,Seven,240027,10391006,wb-v-port,0,Fine,33,,
+
+<em>OnTheRocks</em>: i give up on this flowering game<br><em>AngryRyno</em>: Dogs Win<br><em>W.Mantooth</em>: flowering useless port to lose to the bulldogs.<br><em>spudaroos</em>: Fanfooty should make an icon for someone who gets a shower ton of hitouts.<br><em>OnTheRocks</em>: this game is seriously luck orientated<br><em>whale607</em>: holy crap 55 hit outs hnnnggg thats huge by willo<br><em>Breezey</em>: Dogs home<br><em>AngryRyno</em>: Monfries how dd u miss!!!<br><em>Gebs</em>: lol mison plus one every two seconds<br><em>Breezey</em>: Mon freezed up<br><em>AngryRyno</em>: Monfries I want goals!<br><em>Jormas</em>: cmon port. have you for the win!!!<br>
+240156,Ryan,Griffen,WB,50,166,176,217,119,167,29,11,4,9,1,1,0,1,1, Full Time,star,%2 Hartlett... %D and %T with %M and %s,,,474700,132,579900,113,Centre,16
+230255,Will,Minson,WB,56,122,133,141,103,123,5,8,0,7,57,0,0,1,0, Full Time,cherry,%H and %P with %T and %s,,,422100,69,559700,102,Ruck,27
+290799,Tom,Liberatore,WB,26,115,129,147,91,130,20,15,4,4,0,2,2,0,1, Full Time,magnet,%D and %T with %M... %s and %F as well,,,360500,79,413300,100,Centre,21
+200083,Robert,Murphy,WB,27,96,97,128,74,105,16,7,4,6,0,1,3,1,0, Full Time,news,%D and %M plus %T... also %s,,,392400,79,452600,89,Back,2
+293847,Clay,Smith,WB,20,92,84,124,67,94,15,6,3,7,0,3,2,0,1, Full Time,news,%O and %M with %T starting forward on Heath... also %F,,,278400,97,275200,97,Centre,14
+261160,Brett,Goodes,WB,15,86,96,109,70,99,14,12,5,2,0,0,1,0,0, Full Time,cash,Quiet first half but lifted in Q3... %B among %P with %M and %T,,,308000,55,361900,55,Centre Back,44
+200079,Daniel,Giansiracusa,WB,21,84,99,103,69,95,9,12,2,4,0,0,1,2,2, Full Time,x-factor,On in Q2 for Williams... %s from %D and %M... plenty of goal assist too,sub,Started as a sub,288200,62,320800,45,Forward,13
+291545,Mitch,Wallis,WB,14,81,72,104,60,87,11,11,2,5,0,0,0,0,0, Full Time,news,%P and %T with %M,,,354500,110,349200,122,Centre,3
+294101,Jason,Johannisen,WB,16,81,76,103,66,90,13,8,5,2,0,0,1,1,0, Full Time,southafrica,%P and %M with %T... also %s,job,Responsible for Neade,258800,14,317500,36,Back,39
+295467,Jackson,Macrae,WB,8,71,63,88,59,81,12,11,3,1,0,3,1,0,0, Full Time,cash,%P and %M,,,247100,-7,256100,-20,Centre,11
+260713,Nick,Lower,WB,24,70,78,94,51,78,7,10,1,8,0,0,2,0,0, Full Time,news,%O and %T,tagger,Tagging Boak,358600,92,345900,74,Centre,33
+250712,Dale,Morris,WB,10,69,90,90,53,72,6,8,5,5,0,0,0,0,0, Full Time,job,Takes Westhoff when he is forward but is loose in defence when the Hoff is in midfield... %P and %M with %T,,,215900,36,289100,26,Back,38
+291810,Michael,Talia,WB,8,65,69,82,50,72,13,8,2,1,0,0,0,0,0, Full Time,job,Butcher is his man... %D and %M,,,218400,,270900,,Back,32
+280012,Jordan,Roughead,WB,15,63,89,82,49,66,4,9,3,6,0,3,1,0,0, Full Time,job,Standing Schulz... %O and %T with %M,,,231300,41,323200,47,Back Forward,23
+291526,Luke,Dahlhaus,WB,20,53,58,71,37,54,6,4,0,6,0,0,1,1,0, Full Time,news,Logan on him... %s from %O and %T,,,307100,94,371200,106,Forward,6
+294556,Nathan,Hrovat,WB,4,52,62,66,40,54,6,7,2,3,0,2,0,0,0, Full Time,bubble,Second game... %O and %T,,,107200,,114500,,Centre,24
+240212,Dylan,Addison,WB,11,51,48,64,42,54,5,5,4,2,0,0,0,1,0, Full Time,news,Forward again on O'Shea... %s from %P and %M,,,309400,59,338800,38,Back Forward,22
+281078,Liam,Jones,WB,9,50,64,61,42,53,6,6,1,2,2,4,1,1,0, Full Time,news,First goal... %s from %P on Carlile... also %H,,,225600,97,263300,74,Forward,19
+271439,Liam,Picken,WB,7,36,35,48,24,36,4,4,0,4,0,0,0,0,0, Full Time,job,Minding Wingard... %D and %T,,,302400,81,312200,83,Centre,42
+250150,Tom,Williams,WB,8,31,41,39,27,35,4,2,2,1,2,0,1,1,0, Full Time,injured,%s from %P and %M up forward on Jonas... also %H... right shoulder dislocation in Q2,subbed,Subbed off in Q2 for Murphy,228400,,255400,,Back Forward,12
+293884,Jake,Stringer,WB,6,27,34,38,16,24,1,2,0,5,0,0,0,0,0, Full Time,news,%P and %T on Hombsch,,,179000,29,214000,31,Forward,9
+280946,Koby,Stevens,WB,2,23,34,24,23,33,0,10,1,0,0,0,0,0,0, Full Time,sore,%P with %b by hand... cork to a calf in Q2...  moved to FF in Q3,,,322500,-2,352300,20,Centre,25
+210020,Kane,Cornes,PA,20,114,114,72,85,114,19,9,5,5,0,4,0,0,0, Full Time,hot,%D and %M... also %T,,,510000,148,525500,157,Centre,18
+260750,Justin,Westhoff,PA,51,110,107,110,82,110,8,10,4,10,7,0,0,1,1, Full Time,hot,%s from %P and %T starting forward on Morris but zoning up to midfield a lot... also %M and %H,,,360300,65,428000,79,Forward,39
+291962,Chad,Wingard,PA,27,106,95,68,76,106,18,4,2,7,0,0,1,2,1, Full Time,hot,%s from %D and %M on Picken... also %T,,,377700,61,424000,92,Centre,20
+261911,Brad,Ebert,PA,26,105,112,80,77,106,14,9,3,7,1,1,0,1,0, Full Time,hot,%O and %T with %M and %s,,,437400,97,458100,121,Centre,7
+290540,Cameron,O'Shea,PA,25,102,79,85,83,112,11,14,8,4,1,0,0,0,0, Full Time,hot,%P and %M,job,Manned up by Addison,295700,70,332900,84,Back,13
+230124,Tom,Logan,PA,20,88,105,66,69,93,11,11,3,4,0,2,0,1,0, Full Time,news,%D and %T with %M,job,Running with Dahlhaus,301800,,348200,,Back,44
+240290,Angus,Monfries,PA,19,84,87,69,70,97,10,11,7,4,0,0,2,0,1, Full Time,news,%O and %M with %T,,,363400,70,408400,101,Forward Centre,6
+291964,Jack,Hombsch,PA,15,83,121,70,66,93,9,13,4,5,0,1,1,0,0, Full Time,news,%P and %M plus %T,job,Matched up on Stringer,293700,,366200,,Back,36
+261892,Hamish,Hartlett,PA,9,77,86,43,57,81,14,7,2,3,3,0,0,0,0, Full Time,news,%2 Griffen... %P and %T,,,335300,74,409500,76,Back Centre,8
+290277,Jarrad,Redden,PA,17,76,82,69,67,80,5,7,4,2,26,1,0,0,0, Full Time,injured,%H and %D with %T and %M... right shoulder dislocation in Q4,,,311600,58,350100,55,Ruck,34
+250365,Travis,Boak,PA,20,68,82,57,50,70,8,6,1,6,0,1,1,1,1, Full Time,tagged,Tagged by Lower... %P and %T,,,466900,115,491500,130,Centre,1
+281375,Cameron,Hitchcock,PA,10,61,59,39,45,61,10,3,2,3,0,0,0,1,1, Full Time,news,%s from %P and %T with %M,,,132600,,128000,,Forward,2
+292145,Thomas,Jonas,PA,9,61,51,44,50,69,9,7,4,3,0,2,2,0,0, Full Time,news,%D and %M... also %T and %F,job,Standing Willliams,224900,27,272900,11,Back,42
+294318,Oliver,Wines,PA,12,59,63,41,46,70,9,9,1,4,0,0,2,0,1, Full Time,news,%O and %T plus %s,,,331400,78,360300,65,Centre,16
+230195,Jay,Schulz,PA,9,58,40,41,49,60,9,1,8,1,0,1,1,0,3, Full Time,news,Booted %s from %G and %P on Roughead,,,348000,99,438900,121,Forward,28
+271078,Matthew,Broadbent,PA,15,58,55,51,41,60,7,5,2,6,0,0,1,0,0, Full Time,news,%P and %T,,,315700,113,334600,120,Centre,5
+270606,Kane,Mitchell,PA,13,46,26,49,30,45,4,3,1,7,0,0,1,0,0, Full Time,news,On in Q3 for Butcher... %D,sub,Started as a sub,194400,23,192400,33,Centre,37
+294604,Jake,Neade,PA,13,46,45,43,29,39,5,2,0,6,0,3,0,0,0, Full Time,news,%P and %T on Johannisen,,,228200,80,273100,79,Forward Centre,32
+261396,Robbie,Gray,PA,7,34,40,36,25,37,3,3,1,5,0,1,2,0,1, Full Time,news,%D and %T... also %F,,,321600,46,384400,23,Forward Centre,9
+280877,John,Butcher,PA,8,31,34,18,26,33,5,2,2,0,0,0,0,1,0, Full Time,news,%s from %P and %M on Talia,subbed,Subbed off in Q3 for Mitchell,206100,,253500,,Forward,11
+290171,Campbell,Heath,PA,2,30,38,25,22,33,4,3,1,3,0,0,1,0,0, Full Time,job,Smith is his man... %O and %T,,,230900,69,257500,69,Back,3
+250688,Alipate,Carlile,PA,3,25,54,11,21,36,6,4,0,2,0,0,3,0,0, Full Time,job,On Jones... %P and %T,,,229600,38,325500,53,Back,27

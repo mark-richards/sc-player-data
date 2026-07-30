@@ -1,0 +1,10 @@
+services:
+  sc-dashboard:
+    image: mediaserver-sc-dashboard
+    build: .
+    container_name: sc-dashboard
+    restart: unless-stopped
+    ports:
+      - "5001:5000"
+    env_file:
+      - .env

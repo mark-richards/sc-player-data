@@ -1,0 +1,48 @@
+Essendon,Bombers,Brisbane,Lions,R21,10.8.68,14.11.95, Full Time
+Aug 22,2010,2:10,Docklands,Seven,240393,10282107,5015553,5234,Roof closed,16
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Sunday go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em style='margin-bottom:-2px'><b class="ticon tGE"></b> VegasMagic</em>: Well no you do them worse leesa - you get caught<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> hungryJack</em>: @leesa68: agreed just look at the geelong storm i mean cats<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> leesa68</em>: Everyone does under the table deals! we just do them better!<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> minicech15</em>: brown 166 sc<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> hungryJack</em>: confirmed stanton is shower!!!<br><em style='margin-bottom:-2px'><b class="ticon tME"></b> J.Bartel</em>: haha what are you talking about?? our list has been terriable for 30 years we never had under the table deals like you<br><em>MrsRocca</em>: sc?<br><em>Guaza</em>: unlike your 'famous' no.5 wellers 21&#044; ours played in two flags.<br><em style='margin-bottom:-2px'><b class="ticon tWC"></b> BERBATOV</em>: love you hille&#044; hate you rockliff and jb omg :) <br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> roosrule</em>: Browny - legend<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> leesa68</em>: Been hearing about melbournes list for 30years! they will never win a flag!<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> Nigey95</em>: gonna probably gonna lose my semi to Sheeds :(<br>
+200026,David,Hille,ES,32,103,91,122,91,108,8,7,7,2,30,0,0,1,0, Full Time,hot,No Ryder in support today... %H and %P with %M
+270588,Cale,Hooker,ES,19,103,122,131,82,108,15,10,7,3,2,2,0,0,1, Full Time,hot,On Clark... %P and %M with %T
+250352,Leroy,Jetta,ES,20,100,105,129,76,106,16,10,5,4,0,0,0,0,1, Full Time,garbage,%D and %T with %M... a lot of second half junk stats
+240245,Courtenay,Dempsey,ES,27,98,103,129,72,99,10,10,5,8,0,1,0,0,0, Full Time,news,%D and %T with %M
+240027,Brent,Stanton,ES,16,89,81,114,71,94,14,7,5,3,0,2,1,1,1, Full Time,garbage,Tagged by Selwood... %O and %T plus %M and %s... most of his scoring in second half garbage time after Selwood got injured
+290641,Jake,Carlisle,ES,21,80,72,103,71,87,9,5,12,1,0,0,1,1,0, Full Time,bubble,Second game... %O and %M plus %s
+250049,Brent,Prismall,ES,20,73,76,96,56,79,7,9,4,6,0,0,1,0,1, Full Time,news,%P and %T
+261314,David,Myers,ES,15,68,65,88,52,69,12,3,4,2,0,0,0,1,0, Full Time,job,Minding Brennan... %P and %M
+292503,Stewart,Crameri,ES,8,68,40,90,53,76,13,6,3,3,0,1,2,0,1, Full Time,bubble,Second game... %D and %M with %T
+260073,Ben,Howlett,ES,19,65,76,83,55,78,6,11,2,5,0,2,3,1,0, Full Time,news,%P and %M with %T and %s
+990046,Mark,McVeigh,ES,20,64,65,90,41,60,9,2,1,8,0,1,1,0,0, Full Time,job,Minding Polkinghorne... %O and %T
+230231,Jobe,Watson,ES,12,58,81,71,45,66,3,14,0,5,0,1,0,0,0, Full Time,sore,Tagged by Rockliff... %O and %T... struggled with chronic left ankle problem in the second half
+261050,Marcus,Marigliani,ES,10,53,61,64,45,60,4,9,3,2,0,0,0,1,0, Full Time,rookie,First game... %D and %s
+280824,Jake,Melksham,ES,3,52,57,67,38,54,8,6,1,3,0,1,0,0,0, Full Time,news,%P and %T
+250071,Henry,Slattery,ES,4,49,62,65,36,48,7,3,3,3,0,1,0,0,0, Full Time,news,Tagging Black... %P and %M
+261324,Kyle,Reimers,ES,14,48,45,64,37,51,5,2,1,5,0,0,2,2,0, Full Time,news,%D and %T plus %s on Stiller
+260256,Jay,Neagle,ES,8,42,29,51,36,45,4,5,3,1,0,1,0,1,0, Full Time,news,%O and %M on Merrett
+270584,Kyle,Hardingham,ES,3,41,36,52,34,44,5,4,4,1,1,0,0,0,1, Full Time,news,%s from %P and %M on Adcock
+291202,Michael,Quinn,ES,4,39,30,51,33,48,4,7,2,3,0,1,2,0,0, Full Time,in,%l Patrick Ryder... %O
+240290,Angus,Monfries,ES,9,37,37,47,34,49,3,7,1,3,0,1,3,1,1, Full Time,tagger,Forward tag on McGrath... %P
+250569,Heath,Hocking,ES,2,32,47,39,28,39,4,7,1,1,0,2,1,0,0, Full Time,job,On Banfield... %O
+270935,Michael,Hurley,ES,2,27,59,34,24,36,5,6,0,1,0,2,2,0,0, Full Time,sore,Following Brown.. %P... finger dislocated in Q1
+200007,Jonathan,Brown,BL,49,140,166,99,127,153,19,6,16,0,0,2,3,4,6, Full Time,star,First goal... %s from %O and %G on Hurley in his 200th game
+240712,Michael,Rischitelli,BL,31,122,129,86,97,129,17,11,7,4,0,0,0,2,0, Full Time,hot,%D and %M... left shoulder knock early in Q1
+271072,Daniel,Rich,BL,27,119,107,87,90,127,17,13,5,7,0,1,1,0,1, Full Time,hot,%D and %T with %M
+281373,Jack,Redden,BL,36,113,109,107,92,123,9,16,7,7,0,2,1,1,0, Full Time,hot,%B among %D with %T and %M
+250335,Matthew,Leuenberger,BL,32,107,113,109,85,112,6,13,4,8,19,0,0,0,0, Full Time,hot,%H and %D with %M and %T
+980011,Luke,Power,BL,19,104,108,62,85,117,17,14,7,1,0,0,0,0,0, Full Time,hot,%B among %D with %M
+230015,Jared,Brennan,BL,26,98,94,66,80,106,16,4,8,4,2,1,3,1,2, Full Time,news,%s from %P and %M on Myers... also %T
+980007,Simon,Black,BL,16,98,98,71,82,114,12,19,5,2,0,1,0,0,0, Full Time,tagged,Tagged by Henry Slattery... %O and %T
+270919,Tom,Rockliff,BL,20,94,94,79,76,105,10,15,5,5,0,2,1,0,0, Full Time,tagger,Tagging Watson... %D and %T plus %M
+210013,Ashley,McGrath,BL,19,90,90,71,73,99,11,12,6,4,0,2,1,0,0, Full Time,tagged,Forward tag on him by Monfries... %O and %M with %T
+240087,Jed,Adcock,BL,26,87,93,74,67,88,10,6,5,6,1,2,1,1,0, Full Time,job,Running off Hardingham... %D and %M with %T plus %s
+270512,Pearce,Hanley,BL,13,74,68,46,53,72,13,4,3,4,0,2,0,0,0, Full Time,news,%O and %T
+250053,Cheynee,Stiller,BL,14,71,85,56,54,75,9,8,4,4,0,0,0,0,0, Full Time,job,Minding Reimers... %D and %T
+260975,James,Polkinghorne,BL,20,70,75,63,57,75,7,6,6,4,0,0,1,1,0, Full Time,news,%s from %P and %M on McVeigh
+230170,Joel,Patfull,BL,5,61,78,57,50,66,5,9,5,3,0,1,0,0,0, Full Time,news,%P
+230211,Brent,Staker,BL,8,61,78,37,51,72,10,9,4,1,0,0,1,0,0, Full Time,news,%P and %M
+271071,Todd,Banfield,BL,15,59,70,48,49,58,6,2,3,2,0,1,0,3,1, Full Time,news,%s from %O and %M on Hocking
+240393,Mitchell,Clark,BL,15,50,30,37,51,66,7,4,8,0,3,0,4,1,0, Full Time,news,%s from %P and %M with %F on Hooker
+230147,Daniel,Merrett,BL,5,45,60,38,36,48,5,5,4,2,0,0,0,0,0, Full Time,job,Standing Neagle... %P and %M
+240325,Justin,Sherman,BL,4,43,53,23,37,51,8,5,4,0,0,0,1,0,0, Full Time,news,%O and %M
+281048,Ryan,Harwood,BL,3,31,39,23,27,39,4,6,2,1,0,0,1,0,0, Full Time,news,%D
+230196,Troy,Selwood,BL,1,20,45,22,18,24,0,7,0,1,0,2,0,0,0, Full Time,injured,Tagging Stanton... %O... smashed in a bump by Hardingham in Q2 and looked very sore in the torso... hospitalised in Q3 with suspected broken ribs and/or punctured lung

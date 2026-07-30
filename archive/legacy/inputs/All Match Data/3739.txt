@@ -1,0 +1,48 @@
+West Coast,Eagles,Melbourne,Demons,R6,15.16.106,6.16.52, Full Time
+Apr 28,2011,8:40,Subiaco,Ten,260952,10310601,5496,40,Partly cloudy,21
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>GrannyBoy</em>: im with ya sledgey you're talking dt obviously ;) ;P<br><em>Tucker</em>: what will be hilarious is when swan blows out another 165 then we can all cry<br><em>DanF</em>: @Tucker thanks.<br><em>Tucker</em>: @dan put a player in with a bye call then captain and have emergency cover them<br><em>DanF</em>: how do you deselect a captain?<br><em>sledgey7</em>: get your maths in order before you slag people off. feel like a tool??<br><em>Tucker</em>: 19 pints dt 9 points sc<br><em>Cottagers</em>: lemon13...In DT. Cox (c) 2x121=242 + Swan 140 = 382. Swan (c) 140x2=280 + Cox 121 = 401. Difference is 19&#044; not 38<br><em>GrannyBoy</em>: i see why you call yourself lemon lmfao idiot see below<br><em>sledgey7</em>: no lemon you dumb--ass swan with 140x2 +cox's 121 = 401 OR cox's 121x2 + swan's140 = 382 That's a difference of 19<br><em>Tucker</em>: but you get the extra 19 already so improve is only 19 points<br><em>kaisasosai</em>: lemon if you have both its only 19 points u tool<br>
+240159,Sam,Butler,WC,37,122,107,167,89,120,17,4,10,9,0,0,1,0,0, Full Time,hot,Had a sensational Q1... %M and %P with %T,,
+200112,Dean,Cox,WC,27,121,131,150,106,128,15,8,12,1,20,3,1,0,0, Full Time,gun,Sitting a kick behind the ball... %P and %M with %H,,
+261911,Brad,Ebert,WC,26,110,116,144,86,115,14,10,8,6,0,2,1,0,1, Full Time,hot,%2 Trengove... %s from %O and %M with %T... had a very productive Q2 when moved to HF,,
+250111,Matt,Rosa,WC,26,109,83,137,89,115,16,10,8,2,0,2,0,1,1, Full Time,hot,%s from %O and %M,,
+240124,Matt,Priddis,WC,21,103,142,124,86,123,9,24,4,4,0,0,0,0,0, Full Time,star,Tagged by Bail... %B among %O with %M and %T,sore,Dislocated little finger on his left hand in Q4
+290838,Jack,Darling,WC,27,98,100,124,81,99,9,5,9,4,0,0,0,3,0, Full Time,cash,Booted %s from %P and %G on Grimes... also %T,,
+270953,Ashley,Smith,WC,19,94,100,119,75,102,13,12,6,3,0,1,0,0,0, Full Time,news,%O and %M with %T,job,Chasing Watts
+230281,Mark,Nicoski,WC,27,90,100,115,72,91,8,7,5,6,0,3,1,2,1, Full Time,garbage,%s from %O with %T on Bartram... enjoyed himself in Q4 garbage time,,
+240406,Josh J.,Kennedy,WC,27,88,91,115,68,84,8,3,7,6,0,1,0,2,0, Full Time,news,Kicked %s from %D and %G on Frawley,,
+270928,Scott,Selwood,WC,20,88,81,117,64,90,12,8,3,7,0,2,1,0,0, Full Time,news,%D and %T with %M,tagger,Tagging Moloney
+280078,Luke,Shuey,WC,13,83,78,107,66,86,15,5,7,1,0,1,0,0,2, Full Time,news,%2 Jones... %P and %M,,
+210018,Daniel,Kerr,WC,14,82,86,102,68,97,14,13,4,1,0,0,1,0,1, Full Time,news,%2 Gysberts... %D and %M,,
+990020,Andrew,Embley,WC,20,81,101,98,69,86,12,5,5,0,0,0,0,3,2, Full Time,news,Morton on him... %P and %M plus %s,,
+240119,Mark,LeCras,WC,21,80,66,106,57,75,9,3,3,7,0,1,0,1,3, Full Time,heart,Garland on him... %s from %P and %T in his first game back from a terrible groin injury,subbed,Subbed off at 3QT for Gaff
+230254,Adam,Selwood,WC,12,67,68,84,59,78,10,9,7,0,0,1,1,0,0, Full Time,tagger,Tagging Davey... %O and %M,,
+240283,Shannon,Hurn,WC,8,67,74,88,50,69,15,3,4,1,0,0,0,0,0, Full Time,tagged,Forward tag on him by Green... %P,,
+220061,Quinten,Lynch,WC,16,64,80,78,54,70,8,5,2,2,1,0,1,3,0, Full Time,sore,Booted %s from %P and %M on Rivers... copped Grimes' knee to his ribs in Q3,,
+250317,Eric,Mackenzie,WC,8,57,-,74,49,64,8,5,7,1,1,0,1,0,0, Full Time,job,Has Martin... %P and %M,,
+271045,Nic,Naitanui,WC,10,54,50,69,44,61,6,5,1,4,13,0,2,0,0, Full Time,fiji,%P and %H,,
+200074,Darren,Glass,WC,8,50,52,64,44,57,8,5,6,0,0,1,1,0,0, Full Time,cougar,Standing Jurrah... %D and %M,,
+280441,Patrick,McGinnity,WC,3,41,57,54,31,42,6,3,3,2,0,0,0,0,0, Full Time,job,Minding Bennell...%D and %T with %M,,
+290801,Andrew,Gaff,WC,1,21,12,28,15,21,4,1,1,1,0,0,0,0,0, Full Time,news,On after 3QT for LeCras,sub,Started as a sub
+280608,Jack,Trengove,ME,25,99,91,84,76,103,11,11,6,6,0,1,0,0,1, Full Time,news,%2 Ebert... %O and %M with %T plus %s,,
+240037,Colin,Sylvia,ME,26,90,82,79,69,97,9,12,2,7,0,1,1,1,1, Full Time,news,%P and %T plus %s,,
+261297,Jack,Grimes,ME,14,86,96,57,72,99,12,15,5,1,0,1,0,0,0, Full Time,job,Minding Darling... %O,,
+270830,Colin,Garland,ME,13,80,90,51,64,88,14,5,7,3,1,0,2,0,0, Full Time,news,%M and %O with %T,job,Has LeCras
+250245,Clint,Bartram,ME,14,79,81,64,66,90,9,12,6,3,0,1,1,0,0, Full Time,news,%P and %M plus %T,job,On Nicoski
+250345,Rohan,Bail,ME,20,77,77,68,58,84,9,8,4,7,0,0,2,0,0, Full Time,news,%D and %M with %T and %F,tagger,Tagging Priddis
+200002,Aaron,Davey,ME,14,76,79,49,58,77,12,5,3,3,0,1,0,1,2, Full Time,tagged,Tagged by Adam Selwood... %O,,
+230151,Brent,Moloney,ME,19,75,79,52,58,78,11,7,2,4,0,3,1,1,0, Full Time,tagged,Tagged by Scott Selwood... %O and %T with %M and %s,,
+220052,Mark,Jamar,ME,16,73,93,60,71,84,6,8,5,0,27,3,2,0,0, Full Time,news,%H and %D,,
+280972,Jack,Watts,ME,15,72,80,59,58,76,8,7,5,3,1,0,0,1,0, Full Time,news,%D and %T with %M on Smith,,
+250222,Nathan,Jones,ME,15,70,90,44,64,89,10,13,4,0,0,0,2,1,2, Full Time,news,%2 Shuey... %P and %M with %s,,
+260288,James,Frawley,ME,13,68,68,43,59,78,11,7,8,0,0,0,1,0,0, Full Time,job,Following Kennedy... %D and %M,,
+270985,Cale,Morton,ME,8,63,47,52,55,75,6,13,5,1,0,0,0,0,0, Full Time,news,Following Embley... %P and %M plus %s,,
+280579,Luke,Tapscott,ME,8,61,53,40,51,67,10,4,7,1,0,0,1,0,1, Full Time,sore,Right groin soreness in Q1... %D and %M plus %s,mrp,A bump on Nicoski off the ball in Q2 will be looked at but not much in it
+200054,Brad,Green,ME,10,58,48,50,49,70,7,7,5,4,0,0,3,0,1, Full Time,tagger,Playing a forward tag on Hurn... %P and %M with %T,,
+260952,Liam,Jurrah,ME,5,57,45,40,42,55,9,2,4,3,0,1,0,0,1, Full Time,garbage,No stats in Q1 on Glass... %s from %P with %M and %T... most of his stats in second half junk time,,
+280763,Stefan,Martin,ME,5,56,64,39,48,63,8,5,5,1,5,0,1,0,1, Full Time,news,%s from %O and %M on Mackenzie,,
+230250,Jared,Rivers,ME,5,54,62,49,43,58,5,7,4,3,0,0,0,0,1, Full Time,news,%P and %M with %T,job,Standing Lynch
+290943,Jamie,Bennell,ME,4,50,46,44,39,53,5,6,3,3,0,0,0,0,2, Full Time,news,%O on McGinnity,,
+250388,Austin,Wonaeamirri,ME,3,39,37,31,33,46,4,8,2,1,0,0,0,0,1, Full Time,news,%s from %D,,
+280748,Jordan,Gysberts,ME,2,29,39,24,22,33,3,6,0,2,0,0,0,0,0, Full Time,news,%2 Kerr... %D,subbed,Subbed off in Q3
+250548,Lynden,Dunn,ME,6,13,9,9,11,15,2,0,0,1,0,0,1,1,0, Full Time,news,On in Q3 for Gysberts,sub,Started as a sub

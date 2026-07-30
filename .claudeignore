@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large ephemeral output folders
+exports/
+
+# Logs
+logs/
+*.log
+
+# Binary ML model files
+models/
+*.joblib
+
+# Raw scraped data (not source code)
+data/raw/
+
+# SQLite databases
+*.db
+
+# Archive / deprecated notebooks
+archive/
+
+# Flask app cache
+website/__pycache__/
+
+# Round JSON outputs
+outputs/json files/
+
+# Credentials / secrets
+secret/
+service_account.json
+credentials.json
+client_secret_old.json
+
+# Binary / non-code files
+*.xlsx
+*.zip

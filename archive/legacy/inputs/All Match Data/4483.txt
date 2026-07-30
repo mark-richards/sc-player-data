@@ -1,0 +1,48 @@
+Carlton,Blues,Western Sydney,Giants,R10,22.16.148,8.6.54, Full Time
+Jun 01,2013,1.45,Docklands,Seven,240226,10391002,carl-v-gws,0,Roof closed,17,,
+
+<em>danmaio</em>: learn somrthing from robbo  Murphy&#044; spud<br><em>matthius</em>: faarrk&#044; covered the line with a minute to go<br><em>Grazz</em>: Eat all you want out that bin Robbo<br><em>Luke919</em>: bin robinson<br><em>coldog</em>: wow how the hell is robbo on 28 touches not bad considering his first qtr<br><em>matthius</em>: oh no&#044; 88 points. i need 1 measly point more please<br><em>GoLions</em>: cmon gibbs&#044; almost triple figures<br><em>Adamjomi22</em>: come on gibbs&#044; couple more points<br><em>masterhc2</em>: good last 3 terms robbo&#044; junk it up<br><em>coldog</em>: @WrightMan- That the bulldogs for ya build these good young players up then they leave us<br><em>PieBoy</em>: craptain murphy<br><em>mstrbatten</em>: give corr the blue moon<br>
+240014,Andrew,Walker,CA,20,121,150,154,95,132,20,14,7,3,0,0,0,0,0, Full Time,star,%D and %M with %T,job,Manned up by Tomlinson,380100,112,503100,152,Forward Centre,1
+261299,Matthew,Kreuzer,CA,45,119,122,143,98,118,5,9,3,8,37,2,0,1,0, Full Time,cherry,%H and %P with %M and %T... also %s late in junk time,,,322000,43,380000,57,Ruck,8
+240028,Brock,McLean,CA,31,118,79,153,97,129,15,12,12,4,0,0,1,0,0, Full Time,garbage,Tagged by Treloar... %P and %M plus %T... much of his numbers in second half junk time,,,411600,108,472100,107,Centre,14
+270653,Jeff,Garlett,CA,22,105,115,129,86,106,13,6,5,3,0,2,0,4,1, Full Time,x-factor,%s from %D and %M on Greene... also %T,,,401000,118,499600,155,Forward,38
+230202,Kade,Simpson,CA,18,98,99,129,76,105,22,5,7,1,0,0,1,0,0, Full Time,garbage,%O with %k by foot plus %M... most of that in second half junk time,job,In defence on Smith,356600,75,419200,53,Centre,6
+270146,Ed,Curnow,CA,20,97,88,123,78,102,13,9,7,3,0,1,0,1,0, Full Time,news,Started on a wing... %P and %M plus %s,,,362100,93,387400,72,Centre,35
+250417,Bryce,Gibbs,CA,20,93,93,114,76,105,15,13,4,1,0,0,0,1,0, Full Time,tagged,Starting in defence on Palmer.. %D including %B... also %s,,,427500,135,476200,113,Back Centre,4
+290311,Mitch,Robinson,CA,14,90,94,113,72,105,14,15,3,3,0,0,1,0,0, Full Time,garbage,Started in defence but not prominent in Q1... %B among %P with %T and %M... most of his stats in late garbage time,,,420200,82,450100,23,Forward Centre,12
+271110,Chris,Yarran,CA,31,89,114,114,68,91,9,6,2,7,0,0,1,3,1, Full Time,news,%s from %P and %T,,,322400,152,387500,178,Back,13
+281124,Levi,Casboult,CA,18,86,68,106,74,88,8,4,8,2,13,0,0,1,3, Full Time,news,%H and %D with %M and %s,,,283600,149,311400,148,Forward,41
+270326,Lachie,Henderson,CA,20,83,108,104,68,85,11,5,6,2,0,1,0,2,1, Full Time,news,First goal... started forward on Corr... %s from %P and %M,,,338700,67,449700,93,Back Forward,23
+270637,Simon,White,CA,14,81,121,104,66,90,11,10,6,3,0,1,1,0,0, Full Time,job,Standing O'hAilpin... %D and %T,,,229400,94,297200,82,Back,43
+292511,Zach,Tuohy,CA,20,81,88,102,63,84,10,7,3,4,0,0,0,2,0, Full Time,skull,Minding Scully... %D and %s,,,225400,57,303600,66,Back,42
+220110,Jarrad,Waite,CA,25,76,73,97,63,74,7,1,6,4,0,2,1,3,2, Full Time,heart,Kicked %s from %P and %M on Mohr... also %T... left kneecap knock in Q3 but played on,,,450300,89,516400,92,Forward,30
+280971,Jaryd,Cachia,CA,14,71,64,93,55,73,10,6,4,4,0,3,1,0,1, Full Time,cash,%O and %M with %T,,,211800,-39,217600,-35,Centre,37
+250105,Marc,Murphy,CA,13,70,73,87,54,78,6,14,1,5,0,1,0,0,0, Full Time,tagged,Tagged by Shiel... %P and %T,,,465500,119,519200,78,Centre,3
+293154,Troy,Menzel,CA,12,63,56,79,53,68,8,4,4,2,0,0,1,2,2, Full Time,bubble,Second game... %s from %P and %M on Buntine,in,Late replacement for Chris Judd,138700,,149500,,Forward Centre,2
+260533,Dennis,Armfield,CA,14,61,76,76,53,70,10,5,3,1,0,1,2,2,1, Full Time,news,%s from %D on Hampton,,,309200,61,356900,58,Forward Centre,27
+296531,Joshua,Bootsma,CA,10,55,54,73,43,60,6,6,4,4,0,0,1,0,0, Full Time,job,On Wilson... %P and %M with %T,,,194600,50,210600,45,Back,21
+990059,Heath,Scotland,CA,7,50,63,67,42,63,12,5,3,1,0,0,3,0,0, Full Time,cactus,Looks like he could do with a holiday in Arizona... %D and %M... also %F,sore,Knee knock in Q2 that looked like a tweak of a ligament.... but played on,423500,128,463900,131,Back Centre,29
+261043,Michael,Jamison,CA,4,42,62,53,36,45,6,4,5,0,0,1,0,0,0, Full Time,job,Following Cameron... %M and %O,subbed,Subbed off at 3QT for Bell,261600,37,336500,63,Back,40
+294691,Tom,Bell,CA,0,12,9,17,9,15,3,1,0,1,0,0,1,0,0, Full Time,news,On after 3QT for Jamison... %P,sub,Started as a sub,303800,47,328700,24,Centre,28
+280109,Callan,Ward,WS,27,121,128,80,103,138,18,15,9,2,0,2,2,1,0, Full Time,magnet,%O and %M plus %T and %s,,,432100,97,495000,115,Centre,8
+291790,Adam,Treloar,WS,24,109,100,84,85,114,14,12,7,5,0,2,0,0,0, Full Time,hot,%P and %M with %T,tagger,Tagging McLean,418900,106,412400,107,Centre,17
+261231,Rhys,Palmer,WS,25,106,85,79,84,111,14,10,7,4,0,1,0,1,0, Full Time,hot,Forward role on Gibbs... %s from %O and %T with %M,,,369300,80,325300,89,Centre,7
+291969,Stephen,Coniglio,WS,26,103,94,65,85,112,16,9,6,2,1,1,1,2,0, Full Time,hot,%O and %M plus %s,,,369900,69,389900,72,Centre,3
+294305,Lachlan,Whitfield,WS,25,96,86,77,78,105,12,9,7,5,0,1,2,1,0, Full Time,news,%P and %M plus %T and %s,cash,This restarts his cash generation,286500,83,336500,76,Centre,6
+295344,Toby,Greene,WS,18,88,82,55,75,102,13,15,6,0,0,1,0,0,0, Full Time,news,%P and %M,job,In defence on Garlett,373400,100,374700,100,Centre,4
+280969,Tom,Scully,WS,15,86,84,67,65,87,11,9,4,5,0,3,0,0,0, Full Time,news,Started forward on Tuohy... %D and %T with %M,,,355800,64,366400,71,Centre,9
+291776,Taylor,Adams,WS,20,82,77,63,61,90,11,11,2,6,0,0,1,0,0, Full Time,news,%D and %T,,,443700,58,420300,52,Centre,11
+291509,Adam,Kennedy,WS,13,76,70,64,67,90,7,15,7,1,0,0,0,0,0, Full Time,news,%D and %M,,,241700,47,281000,48,Back,40
+290306,Curtly,Hampton,WS,16,72,78,60,57,76,9,4,5,5,0,1,2,1,1, Full Time,job,Responsible for Armfield... %D and %T plus %M and %s,,,238800,71,238200,92,Back Forward,2
+291771,Devon,Smith,WS,13,69,68,55,52,73,9,7,3,5,1,1,1,0,0, Full Time,news,%B among %D on Simpson... also %T,,,346000,41,324000,39,Forward Centre,10
+291819,Adam,Tomlinson,WS,12,61,66,42,50,66,9,6,6,1,0,0,0,0,0, Full Time,news,%D and %M on Walker,,,306600,67,310800,56,Forward,20
+293845,Jeremy,Cameron,WS,15,58,53,45,51,63,7,3,6,1,0,0,1,2,0, Full Time,news,%s from %P and %G on Jamison,,,322700,68,351100,75,Forward,18
+261841,Jonathan,Giles,WS,14,55,40,46,46,56,5,1,0,3,29,0,1,0,0, Full Time,news,%H and %P with %T,,,303700,98,363000,112,Ruck,26
+294508,Aidan,Corr,WS,5,48,63,42,39,51,5,5,5,2,0,0,0,0,0, Full Time,job,On Henderson... %O and %M with %T,,,113400,34,154500,27,Back,35
+261189,Tim,Mohr,WS,4,46,41,22,38,54,10,3,4,1,0,0,2,0,0, Full Time,news,%M and %D... also %F,job,Standing Waite,315300,86,370300,82,Back,39
+294125,Nathan,Wilson,WS,4,42,44,40,32,42,4,3,4,3,0,0,0,0,0, Full Time,news,%P on Bootsma... also %M and %T,,,177500,,176000,,Forward,16
+291797,Matthew,Buntine,WS,3,40,45,28,30,39,6,3,2,2,0,2,0,0,0, Full Time,job,Menzel is his man... %O and %T,sore,Split over an eye in Q1,213800,,264800,,Back,21
+291891,Jacob,Townsend,WS,3,40,30,24,31,46,7,5,1,2,0,0,1,0,1, Full Time,news,On after HT for O'hAilpin,sub,Started as a sub,226300,19,202000,30,Centre,31
+291783,Dylan,Shiel,WS,3,38,35,21,29,45,7,6,0,2,0,0,1,0,0, Full Time,tagger,Tagging Murphy... %P,,,323100,81,341800,114,Centre,5
+291492,Josh,Bruce,WS,3,34,44,26,30,39,4,5,4,0,0,0,0,0,0, Full Time,job,Has Kreuzer... %D and %M,,,214800,44,232100,39,Back Forward,47
+240716,Setanta,O'hAilpin,WS,2,15,19,19,11,14,0,1,0,2,5,0,0,0,0, Full Time,in,Late replacement for Dean Brogan... White on him... %P and %T... also %H,subbed,Subbed off at HT for Townsend,180200,36,274300,54,Forward Ruck,37

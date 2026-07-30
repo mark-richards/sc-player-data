@@ -1,0 +1,48 @@
+St Kilda,Saints,Carlton,Blues,R7,9.14.68,20.9.129, Full Time
+May 10,2010,7:20,Docklands,Seven,250211,10280708,5015605,4999,A few showers,21
+The style sheets are taking a little longer than expected but it will come...,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>commers</em>: 2341 in sc &#044; 2235 in dt<br><em>winty</em>: my captains were ablett&#044; ablett&#044; ablett&#044; ablett&#044; ablett&#044; chapman and ablett :P<br><em>Gerrardino</em>: i won coz of tagnas goal<br><em>dons4ever</em>: 2177 in sc<br><em>kinkwah</em>: RooBoy; exaclty!!! why do people do otherwise?!?!?!? idiots<br><em style='color:#ff028d'>Scully 31</em>: low score for judd<br><em>craig22</em>: 2300 sc with a big 0 for buddy<br><em>RooBoy</em>: my captains were ablett&#044; ablett&#044; ablett&#044; ablett&#044; ablett&#044; ablett and ablett<br><em>craig22</em>: whats up with juddy<br><em>spud85</em>: 117 for goddard. for what?<br><em>jayfaux</em>: 2383 SC&#044; 2268 DT..not bad considering ridiculously crap Saints<br><em>ben1994</em>: Lost sc by 2<br>
+240062,Farren,Ray,SK,26,119,101,157,90,120,15,9,9,7,0,1,0,0,0, Full Time,hot,Tagged Scotland... %O and %T with %M
+230084,Brendon,Goddard,SK,32,110,117,140,86,116,14,12,4,6,1,3,1,1,1, Full Time,garbage,Head to head with Gibbs... %O and %M plus %T and %s
+990028,Lenny,Hayes,SK,30,106,111,138,79,116,15,14,1,8,1,2,2,0,1, Full Time,gun,Head to head with Judd... %D and %T plus %s
+220034,Jason,Gram,SK,17,88,85,110,71,93,13,7,5,2,0,0,0,2,0, Full Time,news,%D and %M plus %s
+250134,Sam,Gilbert,SK,15,85,83,108,70,91,11,9,8,2,0,1,0,0,1, Full Time,news,%M and %D plus %s
+220075,Leigh,Montagna,SK,19,75,74,93,59,87,10,13,0,4,0,0,1,1,0, Full Time,garbage,%P including %b by hand with %T and %s... most of his numbers in Q4 junk time
+260113,Jarryn,Geary,SK,9,64,60,84,52,68,10,4,6,2,0,1,1,0,2, Full Time,tagger,Tagged Simpson... %P and %M with %T and %s
+261743,Clinton,Jones,SK,13,62,56,80,50,75,6,12,2,5,0,0,2,0,0, Full Time,tagger,Tagged Murphy... %D and %T with %F
+220098,Adam,Schneider,SK,18,61,78,78,47,66,8,7,1,4,0,1,1,1,0, Full Time,news,%s from %D with %T and %M on Armfield
+240012,Andrew,McQualter,SK,10,59,51,77,45,58,6,5,4,4,0,2,0,0,1, Full Time,news,Russell on him... %P and %M with %T plus %s
+990004,Steven,Baker,SK,5,57,57,75,46,63,7,6,5,3,0,0,1,0,0, Full Time,job,Betts lead him a merry dance... %O and %M with %T
+230035,Raphael,Clarke,SK,9,56,61,75,41,57,7,5,2,5,0,2,1,0,0, Full Time,job,Had Yarran... %P and %T
+970064,Michael,Gardiner,SK,14,55,41,63,50,57,3,3,3,1,27,0,0,0,0, Full Time,news,%H and %P with %M
+240552,Zac,Dawson,SK,4,54,46,68,45,57,7,5,5,1,0,1,0,0,3, Full Time,muppet,On O'hAilpin... %M and %O... went forward in Q4 but that didn't work with %s his return
+270912,Jack,Steven,SK,14,52,58,65,40,52,4,4,1,4,0,0,0,2,1, Full Time,news,%s from %D with %T
+200108,Stephen,Milne,SK,13,51,50,64,42,58,11,4,2,0,0,0,1,1,1, Full Time,news,Joseph on him... %s from %P and %M
+250703,James,Gwilt,SK,9,49,61,59,41,54,6,7,2,1,0,1,0,1,0, Full Time,news,First goal... %s from %D and %M on White
+200068,Jason,Blake,SK,4,48,53,64,36,48,6,3,4,3,0,0,0,0,0, Full Time,job,Shifted onto Waite in Q2... %M and %P
+220023,Nick,Dal Santo,SK,3,46,44,59,36,49,8,4,3,1,1,0,0,0,0, Full Time,tagged,Tagged by Carrazzo... %O
+210002,Justin,Koschitzke,SK,7,40,41,50,36,43,4,3,6,0,3,0,0,0,1, Full Time,crab,%O and %M on Jamison... also %H and %T wtih %P
+240708,Sam,Fisher,SK,8,37,44,51,27,38,4,2,2,4,1,0,1,0,1, Full Time,tagged,Forward tag on him by Houlihan... %P and %T with %s
+960337,Steven,King,SK,4,30,26,36,28,35,2,3,2,1,11,0,1,0,0, Full Time,injured,%H and %D with %M... left hamstring iced up in Q3
+250090,Jordan,Russell,CA,42,152,144,105,121,159,23,12,14,4,0,1,0,0,0, Full Time,superman,Ran off McQualter... %D including %B with %M and %T
+240060,Eddie,Betts,CA,38,134,128,111,110,135,14,7,9,5,0,1,0,5,0, Full Time,star,Baker on him but too good... %s from %D and %M with %T
+990059,Heath,Scotland,CA,25,113,99,73,88,120,19,8,9,4,0,0,1,0,0, Full Time,hot,Tagged by Ray... %O and %M plus %T
+220015,Andrew,Carrazzo,CA,19,99,99,79,77,105,12,12,6,5,0,1,0,0,0, Full Time,tagger,Tagged Dal Santo and did an excellent job of it... %O and %T with %M... had a particularly good Q3
+220056,Chris,Judd,CA,21,98,106,67,75,105,15,9,4,5,0,0,1,1,0, Full Time,sore,Head to head with Hayes... %O and %T with %M... dislocated little finger in Q4
+220110,Jarrad,Waite,CA,28,91,123,77,77,94,10,1,8,4,0,0,2,4,1, Full Time,sore,Gilbert then Clarke then Fisher on him all in Q1 as he dominated... then got Blake in Q2 and stopped until Q4 junk time... %s from %G and %O... knock to the right knee in Q4 but returned
+230202,Kade,Simpson,CA,15,88,81,72,68,95,10,12,4,5,0,0,0,0,2, Full Time,tagged,Tagged by Geary... %O and %M plus %s and %T
+250417,Bryce,Gibbs,CA,21,87,86,57,69,94,14,7,4,4,0,2,2,1,1, Full Time,news,Head to head with Goddard... %D and %M with %T and %s
+281079,Kane,Lucas,CA,14,86,51,53,74,99,14,10,9,0,0,0,1,0,0, Full Time,cash,%P and %M
+270811,Sam,Jacobs,CA,26,83,77,89,69,87,4,8,6,6,15,1,1,0,0, Full Time,news,%H and %D with %T
+260533,Dennis,Armfield,CA,19,82,75,74,66,87,8,9,8,4,0,0,0,0,0, Full Time,job,Followed Schneider... %P and %M
+270653,Jeff,Garlett,CA,21,82,144,62,69,85,9,6,3,2,0,1,0,4,1, Full Time,x-factor,%s from %O and %M including a huge Q2
+200013,Ryan,Houlihan,CA,24,81,68,65,65,87,10,7,6,4,0,0,1,1,0, Full Time,tagger,Forward tag on Fisher... %s from %P and %M plus %T
+250105,Marc,Murphy,CA,19,78,75,64,61,82,9,8,3,5,0,2,1,1,1, Full Time,tagged,Tagged by Jones... %P and %M plus %T and %s
+270637,Simon,White,CA,18,78,55,43,65,84,15,3,10,0,0,0,1,0,0, Full Time,job,Gwilt was his man... %D and %M
+240031,Chris,Johnson,CA,13,76,75,62,63,84,9,9,7,3,0,1,1,0,0, Full Time,in,%l Paul Bower... %D and %T
+261299,Matthew,Kreuzer,CA,11,73,59,61,60,74,7,4,3,3,23,0,0,0,0, Full Time,news,%H and %P with %T
+271110,Chris,Yarran,CA,22,71,79,64,53,70,8,2,5,6,1,0,1,1,0, Full Time,news,Clarke on him... %s from %P and %M with %T
+220108,Bret,Thornton,CA,12,67,72,46,57,75,10,7,7,1,0,1,1,0,0, Full Time,news,%O and %M
+261043,Michael,Jamison,CA,9,64,57,45,50,69,10,5,5,3,0,0,1,0,0, Full Time,job,On Koschitzke... %P and %M plus %T
+261318,Aaron,Joseph,CA,9,60,88,44,43,57,9,3,3,4,0,2,0,0,0, Full Time,job,Minded Milne... %O and %T with %M
+240716,Setanta,O'hAilpin,CA,10,53,72,32,45,56,8,3,3,0,0,0,0,2,2, Full Time,news,Dawson on him... kicked %s from %G and %D

@@ -1,0 +1,48 @@
+Port Adelaide,Power,West Coast,Eagles,R5,12.12.84,10.19.79, Full Time
+Apr 27,2013,7.40,Footy Park,Seven,294318,10390507,port-v-wce,0,Windy and cloudy,27,,
+
+<em>Pavalinco</em>: Hahahaha<br><em>The captai</em>: Hate when players lose points in quarter...Shuey<br><em>wadaramus</em>: You've only just started not giving up&#044; been giving up since 07 GF/<br><em>Fonz99</em>: Priddis would of made the difference&#044; shame that he went down<br><em>linusp</em>: christ&#044; champ data hate scooter? 28 touches&#044; 10 tackles&#044; lots of contested hard ball 136dt and gets 97 sc?<br><em>BoredSaint</em>: westhoff took the winning mark :D +20 SC<br><em>Moro</em>: Dalziell got 100? I think thats a mistake...<br><em>hardballge</em>: How cool is that&#044; Cornes little boy :D<br><em>Sunday2810</em>: suck it weagles...useless team<br><em>rosty63</em>: we  will never give up <br><em>chadwick</em>: Hartlett best on<br><em>JobeyOne</em>: give hartlett the cape/star he is an amazing player<br>
+261892,Hamish,Hartlett,PA,28,116,140,150,86,113,18,5,4,6,0,2,0,2,2, Full Time,medal,%D and %T plus %M and %s... won the Bedcoe medal,,,423500,25,489600,30,Centre,8
+210020,Kane,Cornes,PA,26,100,81,126,86,117,12,14,8,3,0,0,2,1,0, Full Time,magnet,Playing wide of Gaff... %P and %T with %M and %s,,,548600,40,580200,69,Centre,18
+291962,Chad,Wingard,PA,21,94,93,114,76,103,12,13,2,3,0,1,0,2,1, Full Time,news,%s from %O on Waters... also %T and %M,,,349400,27,425900,36,Centre,20
+250365,Travis,Boak,PA,22,91,95,114,72,96,11,9,4,4,0,0,0,2,0, Full Time,scooter,Tagged by Scott Selwood... %D and %T,,,491100,62,540100,85,Centre,1
+290540,Cameron,O'Shea,PA,15,88,127,113,67,94,13,10,4,4,0,0,0,0,1, Full Time,job,Has Darling... %O,,,233800,2,244100,26,Back,13
+261911,Brad,Ebert,PA,14,86,77,111,67,91,15,7,6,2,0,0,0,0,1, Full Time,news,%P and %T plus %s,,,502300,140,504500,132,Centre,7
+280379,Lewis,Stevenson,PA,10,82,87,105,64,87,12,9,5,3,0,1,0,0,0, Full Time,in,%l Jasper Pittard... %P and %M with %T,job,Has Cripps,194900,8,222700,17,Centre,15
+271078,Matthew,Broadbent,PA,15,74,81,96,57,75,11,4,5,3,0,0,0,1,0, Full Time,news,%P and %T,,,412000,74,477100,89,Centre,5
+294318,Oliver,Wines,PA,14,72,82,89,60,87,6,16,3,4,0,0,1,0,0, Full Time,cash,%D and %T,,,315500,-41,304600,-30,Centre,16
+290171,Campbell,Heath,PA,12,69,70,93,46,66,13,3,1,5,0,1,0,0,0, Full Time,cash,%P and %T,job,Minding Hams,204300,-8,236200,4,Back,3
+294604,Jake,Neade,PA,11,68,71,91,51,68,13,0,4,3,0,0,1,1,2, Full Time,cash,%s from %O and %T on Brennan... also %M,,,201600,4,234600,-2,Centre,32
+240290,Angus,Monfries,PA,10,64,91,78,51,62,7,5,1,3,0,4,0,2,2, Full Time,news,%s from %P and %T on Butler,,,394700,70,436900,58,Forward,6
+261230,Matthew,Lobbe,PA,10,63,91,76,58,76,7,9,4,1,13,1,2,0,0, Full Time,news,%H and %D... also %F,,,313900,79,358400,86,Ruck,23
+270779,Paul,Stewart,PA,11,61,43,77,49,61,6,5,4,3,1,2,0,1,0, Full Time,concussed,Donuts in Q1... %P... smashed in a bump by Glass in Q2,tagger,Forward tag on Hurn,306300,70,334800,99,Back,14
+210043,Domenic,Cassisi,PA,7,58,55,74,43,63,9,8,1,3,0,0,0,0,0, Full Time,tagger,Tagging Kerr... %D and %T,,,384500,,440100,,Centre,25
+292145,Thomas,Jonas,PA,9,53,62,68,42,60,5,9,2,4,0,1,1,0,0, Full Time,job,On LeCras... %O and %T with %M,,,212500,42,288800,65,Back,42
+250688,Alipate,Carlile,PA,8,50,64,63,41,60,5,10,2,3,0,0,1,0,0, Full Time,news,%D and %M,job,Following Kennedy,264600,14,364900,38,Back,27
+250308,Brent,Renouf,PA,10,49,57,60,46,63,3,8,2,3,15,0,3,0,0, Full Time,news,%H and %P... also %T and %F,,,310700,89,330700,84,Ruck,4
+260750,Justin,Westhoff,PA,3,45,53,57,37,51,8,5,2,1,2,1,1,0,1, Full Time,pumpkin,%s from %O on Brown... a far cry from his recent form... also %H... but he did take the mark to save the game in the last minute,,,521500,47,572400,42,Forward,39
+230195,Jay,Schulz,PA,3,42,56,55,34,47,8,4,1,2,0,3,2,0,2, Full Time,sore,%s from %P on Mackenzie... clutched at his right hamstring in Q1 but played on,,,356400,81,406600,110,Forward,28
+261396,Robbie,Gray,PA,3,41,73,51,33,45,6,6,2,1,0,1,0,0,0, Full Time,news,On in Q3 for Trengove,sub,Started as a sub,276100,,301800,,Forward,9
+280013,Jackson,Trengove,PA,2,31,27,40,23,33,2,5,1,3,0,0,0,0,0, Full Time,job,On the resting ruck which is mostly Sinclair... %D and %T,subbed,Subbed off in Q3 for Gray,262600,67,333400,91,Back,12
+270928,Scott,Selwood,WC,55,136,101,119,103,138,15,13,8,10,0,4,1,0,0, Full Time,hot,%O and %T with %M,tagger,Tagging Boak,526800,42,535700,70,Centre,10
+280078,Luke,Shuey,WC,25,115,105,77,91,130,18,14,6,5,0,0,2,0,1, Full Time,hot,%B among %P with %T and %M... also %s,,,478000,69,515400,104,Centre,13
+290801,Andrew,Gaff,WC,20,109,105,61,85,114,20,7,8,2,0,0,0,0,3, Full Time,hot,%O and %M plus %T and %s... Kane Cornes not tight on him,,,384600,95,416300,101,Centre,3
+200112,Dean,Cox,WC,25,101,105,85,92,112,9,10,7,2,27,3,2,0,1, Full Time,hot,%H and %D plus %T and %M... also %s,,,506500,92,622400,104,Ruck,20
+240406,Josh J.,Kennedy,WC,23,98,124,86,85,102,9,5,9,3,0,1,1,4,0, Full Time,target,First goal... %s from %D and %G on Carlile... three goals in Q1... also %T... went missing after HT,,,370200,33,411600,41,Forward,17
+240159,Sam,Butler,WC,20,96,100,64,76,105,16,7,8,4,0,0,2,0,0, Full Time,news,%D and %M,job,Responsible for Monfries,349500,81,374900,115,Back,26
+261290,Chris,Masten,WC,26,95,65,68,69,96,14,7,3,6,0,0,0,1,0, Full Time,news,%O with %T with %M and %s,,,471700,50,510300,68,Centre,7
+260546,Bradd,Dalziell,WC,21,88,115,72,68,93,10,10,4,5,0,0,0,1,0, Full Time,news,%D and %T with %M and %s,,,185500,56,252500,103,Centre,18
+261209,Josh,Hill,WC,20,83,85,65,62,82,11,4,5,5,0,0,0,1,1, Full Time,news,%s from %P and %T with %M,,,329900,80,415100,90,Forward,33
+240016,Beau,Waters,WC,14,78,71,53,63,84,13,4,8,3,0,1,2,0,0, Full Time,news,%D and %M with %T,job,Wingard is his man,472100,93,536500,100,Back,8
+240119,Mark,LeCras,WC,12,77,64,37,59,78,16,2,6,1,0,0,0,0,3, Full Time,news,%s from %O and %M,,,377600,39,404000,33,Forward,2
+290826,Jamie,Cripps,WC,21,74,84,71,56,76,6,8,3,6,0,0,0,1,1, Full Time,news,On in Q1 as concussion sub for Priddis and it was made permanent... %s from %P and %T,sub,Started as a sub,236300,63,207600,80,Forward,15
+200074,Darren,Glass,WC,15,69,60,53,57,72,10,2,10,2,0,0,1,0,0, Full Time,news,Loose in defence... %M and %P,reported,Reported for a bump on Paul Stewart in Q2,222000,62,288000,109,Back,23
+240283,Shannon,Hurn,WC,9,68,103,36,48,66,14,1,4,3,0,0,0,0,0, Full Time,tagged,Paul Stewart manning him up... one handball in Q1... %O,,,338700,85,444000,106,Back,25
+294737,Callum,Sinclair,WC,9,67,79,48,56,67,9,3,6,1,8,2,0,0,2, Full Time,cash,Starting forward on Trengove... %P and %H,sore,Smashed in a contest in Q3,148900,-31,160600,-40,Ruck Forward,22
+250034,Ashton,Hams,WC,11,59,62,44,47,60,8,3,5,2,0,0,0,1,0, Full Time,news,%O on Heath,,,256200,41,325400,46,Forward,43
+290838,Jack,Darling,WC,11,50,48,34,44,58,8,3,4,2,0,2,3,1,1, Full Time,news,%s from %P and %M on O'Shea,,,390100,22,443600,39,Forward,27
+210018,Daniel,Kerr,WC,7,48,53,31,37,54,7,9,0,2,0,1,0,0,0, Full Time,tagged,Tagged by Cassisi... %P,,,384100,82,476900,112,Centre,4
+260303,Mitchell,Brown,WC,3,38,45,27,30,42,6,3,3,2,0,0,1,0,0, Full Time,job,Following Westhoff... %D and %M,,,209500,,233600,,Back,1
+250317,Eric,Mackenzie,WC,4,37,31,27,29,39,6,1,4,2,0,0,1,0,0, Full Time,job,Has Schulz... %P,,,256100,93,345100,112,Back,16
+280324,Jacob,Brennan,WC,3,25,13,23,22,31,3,2,3,2,0,0,2,0,1, Full Time,job,Minding Neade... %P and %M plus %s,,,249100,34,266800,69,Back,14
+240124,Matt,Priddis,WC,0,4,5,4,4,6,0,2,0,0,0,0,0,0,0, Full Time,concussed,Head hit the ground when Monfries chicken wing tackled him early in Q1... KOed and stretchered off as he thought he was in Koosbane... %O... concussion sub in Q1,subbed,Subbed off in Q1 for Cripps,479300,96,574600,116,Centre,11

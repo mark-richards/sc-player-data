@@ -1,0 +1,48 @@
+Collingwood,Magpies,Sydney,Swans,R9,8.7.55,15.12.102, Full Time
+May 24,2013,7.50,MCG,Seven,240226,10390901,coll-v-syd,0,Fine,18,spud,The young lady who just sledged Goodes from the safety of the crowd
+
+<em>9robbo9</em>: education but it goes both ways!<br><em>OnTheRocks</em>: anyone know the song with the slow mo replays?<br><em>Crossy123</em>: That lady is a bastard sledging goodsey in the round which we are supposed to be supporting indigenous players&#044; disgrac<br><em>casey22</em>: I get the feeling that all is not right at collingwood. Reckon bucks thing not working!!!<br><em>Jukes82</em>: racial isn't a life ban&#044; 10 years only.<br><em>rosty63</em>: its obvious it was racial ban her for life<br><em>W.Mantooth</em>: @mash - agreed&#044; she was early 20's<br><em>9robbo9</em>: I have aboriginal heritage and must admit most of my aboriginal relations are more racist than any one else<br><em>HowI Rioli</em>: @scaledup what else could she have said? "Chewy on your boot??"<br><em>Mash</em>: she looked 20 - 24 not a kid<br><em>W.Mantooth</em>: ill bet you 100bucks it was a racist comment. he wouldn't have pointed her out to security if it wasnt<br><em>OnTheRocks</em>: i've met Goodes and he's one of the nicest people<br>
+220005,Luke,Ball,CO,32,123,101,161,90,126,15,13,5,9,0,1,0,0,0, Full Time,cherry,Matched up on Jack... %O and %T with %M,,,343100,,301800,,Centre,12
+294733,Paul,Seedsman,CO,20,98,76,124,79,103,13,9,7,3,0,1,0,1,1, Full Time,garbage,%D and %T with %M and %s... got a lot of ball in Q4 garbage time,,,296900,20,293600,26,Centre,40
+280965,Steele,Sidebottom,CO,20,96,91,125,73,105,17,10,4,4,0,0,1,0,0, Full Time,news,%2 Hannebery... %D and %T with %M,,,467800,87,503800,79,Centre,22
+260257,Scott,Pendlebury,CO,19,95,119,117,76,108,9,19,3,5,0,1,0,0,0, Full Time,news,Matched up on O'Keefe... %B among %O... also %T with %M,,,533800,115,643500,172,Centre,10
+280104,Jarryd,Blair,CO,43,91,84,122,62,87,7,9,2,11,0,2,0,0,0, Full Time,news,%2 Parker... %D and %T,,,400000,54,419600,70,Forward Centre,11
+293801,Jamie,Elliott,CO,27,90,81,114,73,96,7,10,5,6,0,1,1,2,0, Full Time,garbage,%P and %T with %M in an important matchup on McVeigh... all of his %s in Q4 junk time,,,309400,70,324000,70,Forward,19
+250090,Jordan,Russell,CO,26,89,91,121,64,90,11,6,5,8,0,0,1,0,0, Full Time,sore,%P and %T with %M... rolled right ankle in Q4,job,Minding Bolton in Q1,281500,64,290900,42,Back,2
+240232,Ben,Reid,CO,14,87,89,111,74,99,15,9,9,0,0,0,1,0,0, Full Time,job,Standing his brother Samuel Reid... %P and %M,,,370300,83,440100,122,Back,20
+220105,Dane,Swan,CO,13,85,67,112,59,87,16,7,1,5,0,0,0,0,0, Full Time,burger,Moving early like he is fatter than Tom Hawkins... %D and %T,,,570300,156,593500,178,Centre,36
+261181,Brent,Macaffer,CO,25,81,79,110,54,78,9,6,2,9,0,0,0,0,0, Full Time,cash,%P and %T,tagger,Tagging Kennedy,273500,25,269200,37,Forward,3
+210099,Darren,Jolly,CO,26,80,69,101,65,80,5,4,2,7,26,3,2,0,0, Full Time,news,%H and %P with %M and %T,,,408200,62,490700,71,Ruck,18
+240366,Travis,Cloke,CO,21,78,83,96,68,80,10,2,8,0,0,0,0,3,2, Full Time,news,Booted %s from %G and %D on Richards,,,454600,138,495300,168,Forward,32
+240073,Harry,O'Brien,CO,13,75,87,94,62,81,13,8,6,0,0,2,0,0,0, Full Time,seagull,%2 Jetta on a wing then got Goodes in Q2 and was completely torn apart by the dual Brownlow medallist... %O and %M,,,401500,65,432200,49,Back,8
+250133,Sam,Dwyer,CO,15,65,51,84,49,66,6,6,3,5,0,0,0,1,0, Full Time,cash,%s from %O and %T with %M on Malceski,,,283400,-21,318000,-31,Forward Centre,41
+230263,Nick,Maxwell,CO,5,54,50,68,46,60,6,8,4,2,0,3,1,0,0, Full Time,job,Zoning off Goodes to start then got Morton in Q2... %P and %T with %M,sore,Blood nose taped up in Q1,312300,71,358300,98,Back,5
+295256,Marley,Williams,CO,8,54,43,71,37,54,9,5,0,4,0,1,0,0,0, Full Time,job,Started on Bolton but went to Jetta in Q2... %D and %T,,,248100,,274700,,Back,46
+272005,Marty,Clarke,CO,7,53,50,64,47,64,6,11,3,1,0,2,1,0,1, Full Time,job,Chasing McGlynn... %O and %M plus %s,,,338100,99,356600,121,Back,9
+210058,Andrew,Krakouer,CO,8,48,41,62,37,54,5,8,1,4,0,1,1,0,0, Full Time,news,No score from %B among %P on Smith... also %T,,,263500,4,305300,10,Forward,7
+220061,Quinten,Lynch,CO,4,46,30,57,39,48,5,5,4,1,3,2,0,0,0, Full Time,crab,Barely sighted in the first half... %P and %M on Rampe... also %H,,,339600,117,354900,118,Forward,21
+260310,Nathan,Brown,CO,3,38,58,50,29,39,3,4,3,3,0,0,0,0,0, Full Time,job,Has the resting ruck which is mostly Pyke... %D and %T plus %M,,,217300,46,251600,57,Back,16
+293431,Ben,Kennedy,CO,3,34,30,42,26,39,2,8,0,3,0,0,0,0,0, Full Time,news,On in Q3 for Witts... %O and %T,sub,Started as a sub,117000,3,122400,3,Forward Centre,27
+291975,Jarrod,Witts,CO,8,32,43,38,28,34,4,2,2,0,4,0,0,1,0, Full Time,news,First goal... %P and %M plus %s,subbed,Subbed off in Q3 for Kennedy,108500,-8,115900,-4,Ruck,15
+980073,Adam,Goodes,SY,38,147,169,107,122,152,19,11,11,3,0,3,0,3,2, Full Time,star,Maxwell allowing him to drift up to midfield in Q1... then in Q2 went to wing on O'Brien and racked it up... %s from %P and %M... also %T,sore,Knock to right knee in Q1,415200,46,418200,80,Forward,37
+200071,Ryan,O'Keefe,SY,50,136,143,130,95,132,13,12,5,14,0,2,0,0,0, Full Time,heart,Matched up on Pendlebury... %P and %M with %T... left shoulder knock in Q1,,,446800,108,507400,144,Centre,5
+290117,Daniel,Hannebery,SY,23,114,113,74,95,130,17,14,5,3,0,1,2,2,1, Full Time,magnet,%2 Sidebottom... %P and %T with %M and %s,,,458000,107,504100,148,Centre,4
+230253,Jarrad,McVeigh,SY,20,108,106,76,87,120,15,15,7,3,0,0,0,0,0, Full Time,hot,%D and %M with %T,job,Starting at halfback on Elliott,459800,131,526100,134,Centre,3
+230132,Nick,Malceski,SY,20,100,96,59,81,114,17,13,6,2,0,0,1,0,0, Full Time,rock,Responsible for Dwyer... allowed to zone off in front of Cloke all night... %D and %T with %M,,,396600,121,437500,136,Back,9
+240226,Kieren,Jack,SY,32,99,96,74,83,121,14,13,5,6,0,0,5,1,1, Full Time,news,Matched up on Ball... %O and %T with %M... also %F and %s,,,512800,77,571400,127,Centre,15
+230140,Ben,McGlynn,SY,31,96,98,79,78,102,12,5,7,6,0,2,3,2,0, Full Time,news,%s from %O and %M with %T on Clarke... also %F,,,365900,46,362800,52,Forward,21
+281281,Lewis,Jetta,SY,15,80,78,54,62,83,12,6,4,3,0,0,0,1,2, Full Time,news,%2 O'Brien on a wing to start then went forward on Williams in Q2... %O and %T with %M and %s,,,326100,54,350000,80,Forward Centre,32
+291206,Mike,Pyke,SY,19,80,100,81,73,88,3,8,4,3,22,0,1,2,0, Full Time,news,%s from %P and %M when up forward on Brown... also %H and %T,,,363000,59,466100,72,Ruck,38
+261212,Craig,Bird,SY,19,67,75,50,50,69,9,6,2,4,0,0,0,1,0, Full Time,news,%s from %P and %T playing a straight HBF role,,,277300,82,282200,80,Forward Centre,14
+280762,Shane,Mumford,SY,16,66,68,70,59,74,3,6,5,4,20,0,2,0,0, Full Time,news,%H and %D with %M and %T.... also %F,,,332800,64,391800,94,Ruck,41
+240412,Mitch,Morton,SY,11,64,75,50,50,65,8,4,4,3,0,0,0,1,2, Full Time,news,%s from %O and %M with %T on Russell... then manned up Maxwell in Q2,,,164900,24,208900,62,Forward,10
+990011,Jude,Bolton,SY,16,64,55,60,52,70,6,6,4,5,0,1,2,1,1, Full Time,news,%s from %P on Williams... also %T and %M,,,368000,121,400800,125,Forward Centre,24
+261257,Andrejs,Everitt,SY,8,62,81,42,51,69,9,8,5,1,0,0,0,0,0, Full Time,news,Started in defence... %P and %M,,,215900,54,270500,83,Forward,13
+240072,Heath,Grundy,SY,8,61,66,29,48,66,13,3,5,1,0,0,1,0,0, Full Time,job,Following Cloke... %D and %M,,,311200,38,360200,48,Back,39
+290778,Luke,Parker,SY,13,59,62,57,49,72,4,14,2,4,0,0,1,0,0, Full Time,news,%2 Blair... %O including %B... also %T,,,429900,62,454000,80,Centre,26
+290188,Samuel,Reid,SY,9,54,56,32,43,57,9,4,3,1,0,0,0,1,0, Full Time,injured,%s from %D and %G on his brother Ben Reid... left quad soreness in Q3,subbed,Subbed off in Q3 for Lamb,276300,43,326400,60,Forward,20
+250338,Nick,Smith,SY,8,53,64,37,41,60,8,7,2,3,0,0,1,0,0, Full Time,job,Minding Krakouer.... %P and %T with %M,,,304800,64,362600,94,Back,40
+290307,Dane,Rampe,SY,9,53,50,46,39,54,6,5,3,4,0,0,0,0,0, Full Time,cash,Donuts in Q1... %P and %T,job,Has Lynch,176800,21,207000,29,Centre,43
+260382,Josh P.,Kennedy,SY,7,50,56,36,40,60,6,12,0,2,0,0,0,0,0, Full Time,tagged,Tagged by Macaffer... %O,,,486500,48,598000,65,Centre,12
+210027,Ted,Richards,SY,4,39,72,36,32,45,3,8,2,2,0,0,0,0,0, Full Time,job,On the resting ruck which is mostly Witts... %O and %T with %M,,,267000,57,362800,105,Back,25
+291544,Jed,Lamb,SY,1,19,8,17,15,19,2,1,2,1,0,0,0,0,1, Full Time,news,On in Q3 for Reid... %s from %P and %M,sub,Started as a sub,108500,19,115900,31,Forward,11

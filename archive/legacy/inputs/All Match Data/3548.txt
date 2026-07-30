@@ -1,0 +1,48 @@
+Geelong,Cats,Collingwood,Magpies,R19,12.13.85,14.23.107, Full Time
+Aug 07,2010,7:10,MCG,Ten,,10281904,,5216,Cloudy,15
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>EastonGood</em>: jake1994 is a spud<br><em>Slashers</em>: Pods is a joke&#044; Ablett calls himself a midfielder? Chapman and Didak do more!<br><em>blueboyscj</em>: sd<br><em>blueboyscj</em>: lets get the hopes up pies. drink safely and try not to murder any1. and when september comes&#044; then the fun starts<br><em>Swanlowsux</em>: Lukey ball is a spud turned it over so much!! <br><em>Dovey2</em>: @tigermania i just sent a text to a mate saying the exact same thing :P<br><em>Swanlowsux</em>: Monty you would be shattered about hawks. Two weeks ago a boundary umpire decision away from top 4 spot<br><em>SamJ</em>: for a filthy bogan&#044; dane swan is actually quite a good speaker.<br><em>Swanlowsux</em>: Ha saints beat Geelong and pies this year but put the troupe in the cabinet on august!!! <br><em>tigermania</em>: lol @ flagpie&#044; a lot of time to go between now and the last saturday in september<br><em>ronaldfc</em>: The higher they are the harder the fall!<br><em>Flagpie</em>: swan brownlow...pies GF.. lukey BALL norm smith... biatches<br>
+220001,Gary,Ablett jnr,GE,36,108,99,139,87,121,13,13,6,6,0,0,2,1,1, Full Time,hot,Head to head with Swan... %D and %T with %M and %s
+200035,Corey,Enright,GE,19,102,117,133,78,105,16,8,7,4,0,1,0,0,0, Full Time,hot,Forward tag on him by Macaffer... %O and %M with %T
+200039,Paul,Chapman,GE,21,100,100,130,77,106,15,8,5,5,0,0,1,1,1, Full Time,hot,%s from %D on Toovey... also %T
+250321,Joel,Selwood,GE,26,96,94,124,77,103,13,10,3,6,0,6,3,1,1, Full Time,tagged,Tagged by Wellingham... %O and %M with %T and %s... %F but also %4 frees for
+200037,Cameron,Ling,GE,44,93,90,120,71,102,4,17,3,10,0,1,1,0,0, Full Time,tagger,Tagging Pendlebury... %O and %T
+250290,Travis,Varcoe,GE,26,89,89,118,67,91,12,5,5,6,0,0,1,1,1, Full Time,news,Matched up on Thomas... %s from %O and %T
+200034,Joel,Corey,GE,20,83,77,104,68,92,7,12,4,5,2,1,1,1,0, Full Time,news,%P and %T plus %s
+960375,Darren,Milburn,GE,14,81,91,105,70,93,13,8,9,1,0,1,2,0,0, Full Time,job,Standing Leigh Brown... %P and %M
+220007,Jimmy,Bartel,GE,19,78,52,100,61,84,7,11,3,6,2,2,1,0,1, Full Time,news,%P and %M with %T
+220054,Steve,Johnson,GE,15,76,66,92,64,80,10,7,4,1,0,2,0,2,2, Full Time,news,Kicked %s from %P and %M on O'Brien
+230248,Andrew,Mackie,GE,14,76,48,100,57,78,11,6,5,4,0,0,0,0,0, Full Time,job,Has Thomas... %D and %T with %M
+980037,Matthew,Scarlett,GE,19,74,80,100,51,72,11,4,3,6,0,0,0,0,0, Full Time,news,Loose in defence... %P and %T
+980064,Brad,Ottens,GE,18,72,59,83,67,81,1,9,4,3,30,0,1,0,0, Full Time,news,%H and %D with %T
+210059,Josh,Hunt,GE,9,70,83,90,59,82,9,10,5,3,0,1,2,0,1, Full Time,job,On Davis... %D and %T with %M
+261497,Harry,Taylor,GE,13,68,74,89,55,75,9,7,6,3,0,0,1,0,0, Full Time,sore,Following Cloke... %M and %D... copped a knock to the kidney by Enright in a marking contest late in Q2
+970006,Cameron,Mooney,GE,10,65,64,85,53,67,8,4,8,2,0,0,0,0,1, Full Time,news,%O and %G on Reid then Maxwell
+230022,Shannon,Byrnes,GE,10,58,73,73,46,60,6,6,3,3,0,1,0,1,0, Full Time,news,%P on Goldsack
+230214,Mathew,Stokes,GE,16,53,52,63,51,63,4,6,4,1,0,1,2,3,0, Full Time,news,%s from %P and %M
+220058,James,Kelly,GE,9,48,41,58,50,75,4,16,4,1,0,0,4,0,0, Full Time,job,Has Sidebottom... %D and %M with %F
+230125,Tom,Lonergan,GE,4,47,60,58,39,54,4,9,3,2,0,0,0,0,0, Full Time,job,Standing Dawes... %M and %D
+261510,Tom,Hawkins,GE,14,46,47,59,36,48,0,6,1,6,9,1,1,0,0, Full Time,news,%O on Prestigiacomo... also %T
+200131,James,Podsiadly,GE,9,41,22,51,35,42,4,3,4,1,0,1,0,1,0, Full Time,in,%l David Wojcinski... %s from %P
+210003,Alan,Didak,CO,32,128,138,80,106,143,20,15,8,2,0,1,1,1,2, Full Time,star,%s from %O and %M
+220105,Dane,Swan,CO,26,127,130,61,95,130,26,6,6,3,0,0,0,1,1, Full Time,gun,Head to head with Ablett jnr... %P and %s
+240359,Dale,Thomas,CO,31,115,132,100,89,118,12,11,7,7,0,1,0,1,1, Full Time,hot,Matched up on Varcoe... %B among %D with %M and %T
+261181,Brent,Macaffer,CO,33,115,150,100,87,114,12,10,5,8,0,3,0,1,3, Full Time,hot,Forward tag on Enright... %P and %T with %s
+261799,Sharrod,Wellingham,CO,26,112,101,83,89,117,15,8,6,5,1,1,1,2,2, Full Time,hot,First goal... tagging Selwood... %P and %s
+220005,Luke,Ball,CO,43,110,71,105,72,102,12,5,3,14,0,2,1,0,0, Full Time,hot,Head to head with Bartel... %O and %T with %M
+260257,Scott,Pendlebury,CO,20,101,110,64,72,98,17,7,2,6,1,4,0,0,1, Full Time,hot,Tagged by Ling... %O and %T
+200028,Leigh,Brown,CO,46,94,101,105,67,87,5,5,2,12,8,3,1,1,1, Full Time,news,%D playing forward on Milburn
+240700,Heath,Shaw,CO,19,90,84,56,70,96,16,6,6,4,0,2,2,0,0, Full Time,news,Loose in defence... %P and %M
+271001,Dayne,Beams,CO,21,90,78,70,73,89,11,2,7,3,0,0,0,3,2, Full Time,news,%s from %O and %M
+240366,Travis,Cloke,CO,20,85,94,57,70,89,13,3,7,2,1,0,1,2,1, Full Time,news,%s from %D and %G on Taylor
+210099,Darren,Jolly,CO,22,81,88,70,75,93,6,8,3,2,28,0,2,1,2, Full Time,news,%H and %P with %T
+280965,Steele,Sidebottom,CO,19,71,68,67,54,76,7,8,3,7,1,2,2,0,0, Full Time,news,%P and %T on Kelly
+240073,Harry,O'Brien,CO,12,64,67,37,52,69,12,3,7,1,0,0,1,0,0, Full Time,job,Minding Johnson... %O
+200021,Ben,Johnson,CO,10,59,51,44,47,63,8,5,3,3,0,1,1,1,0, Full Time,news,%D and %T
+230263,Nick,Maxwell,CO,5,56,82,40,45,63,9,4,5,3,0,0,2,0,0, Full Time,job,%D and %M... had to move to Mooney in Q1 after Reid's injury
+260246,Tyson,Goldsack,CO,4,48,71,30,38,51,8,4,4,1,0,0,0,0,0, Full Time,job,On Byrnes... %O and %M
+260394,Chris,Dawes,CO,7,48,44,33,42,57,6,10,3,0,0,1,0,0,0, Full Time,news,%O on Lonergan
+240419,Alan,Toovey,CO,4,43,50,39,35,51,4,8,2,3,0,0,1,0,0, Full Time,job,Minding Chapman... %P
+200019,Leon,Davis,CO,2,34,16,20,25,35,7,0,1,3,0,2,2,0,2, Full Time,news,%s from %O on Hunt
+960159,Simon,Prestigiacomo,CO,0,11,13,11,10,15,1,2,1,1,0,0,1,0,0, Full Time,job,On Hawkins
+240232,Ben,Reid,CO,0,5,4,6,5,6,0,1,1,0,0,0,0,0,0, Full Time,injured,Standing Mooney... right quad knock in Q1 and did not return

@@ -1,0 +1,48 @@
+Fremantle,Dockers,Richmond,Tigers,R5,15.22.112,11.7.73, Full Time
+Apr 25,2010,8:40,Subiaco,Fox Sports,220096,10280507,5015581,4982,Partly cloudy,25
+Yes this is a new interface for the live FF scores. Hope you like it.,New stuff?,Delayed for a week due to working on scalability... should be next week for Round 6,Mobile/iPhone?,The player coloured in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>bato1994</em>: ahh thats gotta suck :D <br><em>bigrig</em>: 1750 odd with GAJ&#044; selwood&#044; lucas&#044; chappy and pods to go...<br><em>jappleby</em>: no medal<br><em>bigrig</em>: i did it at the start of the week&#044; and didnt get around to changing it :( still thought hed get a min of 75 against dees<br><em>hoddo</em>: I have Sandi&#044; Barlow&#044; and Deledio in SC with Martin on the bench - Shame SC is already a lost cause<br><em>bato1994</em>: why on earth would you put brown as captain? he wasnt even fit coming into the game<br><em>damozdukez</em>: im 1890 with gaz capt&#044; enright selwood johnson warnock to go<br><em>ben251090</em>: whats fyfes job security going to be like?<br><em>SC ADDICT</em>: ive got all the guns in this game&#044; pav&#044; sandi&#044; barlow&#044; balla<br><em>The Lad</em>: wow the games over but there collecting points <br><em>ELLsendon</em>: fak you silvagni you useless piecce of sh!t<br><em>Number</em>: who got the medal<br>
+292026,Michael,Barlow,FR,21,115,133,143,95,126,16,16,8,2,0,3,0,0,0, Full Time,gun,Head to head with Cotchin... %P and %M
+220096,Aaron,Sandilands,FR,39,104,146,117,99,115,9,7,4,0,42,2,2,2,1, Full Time,star,Tagged by Tuck of all people in Q2... had an awesome Q3... %H and %P plus %M and %s
+210037,Adam,McPhee,FR,15,97,87,121,78,104,13,13,5,3,0,3,0,0,2, Full Time,up,The first game he's looked at home back at Freo... %s from %D and %M with %T
+240052,David,Mundy,FR,20,96,123,121,79,113,11,17,4,5,1,1,2,0,1, Full Time,news,%O and %T plus %M
+260069,Hayden,Ballantyne,FR,21,94,117,119,74,89,14,1,5,3,0,3,0,3,2, Full Time,news,%s from %O and %M
+261756,Greg,Broughton,FR,15,91,121,113,75,105,12,16,4,3,0,2,1,0,0, Full Time,job,Minding Nahas... %D and %T
+200031,Paul,Hasleby,FR,26,89,77,114,69,94,10,10,3,6,0,2,1,1,1, Full Time,news,Head to head with Martin... %P and %T with %M and %s
+200032,Matthew,Pavlich,FR,22,87,113,107,78,98,9,7,5,3,0,2,3,4,2, Full Time,news,%s from %D and %M on McGuane
+240139,Paul,Duffield,FR,19,79,93,101,60,81,11,7,3,4,0,1,0,1,0, Full Time,news,%P including %K with %T and %M... also %s
+230048,Ryan,Crowley,FR,21,78,74,104,59,80,9,5,3,7,1,2,2,1,1, Full Time,tagger,Tagging Foley... %T and %F plus %P and %s
+200045,Luke,McPharlin,FR,9,67,92,86,55,72,6,8,7,3,0,0,0,0,0, Full Time,job,On Riewoldt... %M and %D
+291570,Nathan,Fyfe,FR,15,66,100,86,56,73,10,3,6,2,0,0,2,1,4, Full Time,rookie,First game... %O and %M plus %s
+271433,Alex,Silvagni,FR,14,62,38,85,47,62,9,1,6,4,2,0,1,0,0, Full Time,cash,Started on Rance... went forward in the second half... %O and %M with %T
+280416,Chris,Mayne,FR,10,61,72,80,49,67,6,7,5,4,0,0,1,0,1, Full Time,news,%s from %D and %M
+270681,Jay,van Berlo,FR,9,53,74,67,43,61,4,10,2,4,0,1,1,0,1, Full Time,tagger,Tagging Tambling... %P and %T with %M and %s
+210084,Roger,Hayden,FR,8,52,81,65,46,60,8,7,5,0,0,2,1,0,0, Full Time,job,Has Nason... %M and %O
+280336,Stephen,Hill,FR,10,51,72,64,42,58,7,6,2,2,0,0,1,1,1, Full Time,news,%s from %P and %%M
+281111,Anthony,Morabito,FR,4,42,30,55,38,57,6,8,3,2,0,0,3,0,0, Full Time,cash,%O and %M with %T and %F
+271015,Matthew,de Boer,FR,8,37,42,46,31,38,4,2,3,1,0,0,0,1,2, Full Time,tagger,Starting forward to tag Deledio... %s from %O and %M
+280386,Clancee,Pearce,FR,3,30,34,41,23,33,3,3,2,3,0,0,1,0,0, Full Time,news,%D
+980023,Chris,Tarrant,FR,2,27,34,37,26,37,5,3,3,1,0,1,3,0,1, Full Time,job,On the resting ruckmen Vickery and Simmonds... %D
+230107,Michael,Johnson,FR,2,25,27,32,25,36,4,5,3,0,0,0,2,0,0, Full Time,concussed,%B among %O... got his head smashed in a McGuane tackle and came off looking groggy
+250623,Robin,Nahas,RI,32,104,132,89,83,106,11,7,4,7,0,4,2,3,1, Full Time,heart,First goal... %s from %O on Broughton with %M and %T... off in Q1 to treat groin soreness then got a corked thigh in Q2
+200109,Shane,Tuck,RI,21,103,121,70,85,115,14,15,5,2,0,1,0,1,1, Full Time,garbage,Spent some time with the biggest job in footy tagging Sandilands... %B among %D plus %M... also %s... racked it up in junk time
+240336,Brett,Deledio,RI,13,84,122,50,70,93,14,10,6,1,0,3,1,0,0, Full Time,tagged,Playing a HBF with a forward tag on him by de Boer... %D including %K with %M
+290847,Dustin,Martin,RI,19,80,100,61,62,87,10,11,1,5,0,2,1,1,0, Full Time,cash,Head to head with Hasleby... %D plus %T and %s
+210048,Chris,Newman,RI,13,79,98,35,62,81,17,3,7,0,0,1,0,0,0, Full Time,news,%M and %O
+240130,Nathan,Foley,RI,24,79,129,79,63,93,4,21,0,6,0,1,0,0,0, Full Time,creepy,Tagged by Crowley... %O including %B plus %T
+261362,Alex,Rance,RI,22,75,77,63,63,78,8,4,4,4,0,3,2,3,0, Full Time,news,%s from %G and %P at full forward on Silvagni
+260930,Shane,Edwards,RI,13,74,94,59,55,79,9,10,2,5,0,0,0,0,1, Full Time,news,%D and %T plus %s
+270896,Trent,Cotchin,RI,9,73,80,48,56,76,11,9,2,3,1,3,0,0,0, Full Time,news,Head to head with Barlow... %O
+960662,Ben,Cousins,RI,9,73,89,59,62,84,7,16,3,2,0,3,0,0,0, Full Time,news,%D with %b by hand
+292025,Matthew,Dea,RI,14,72,69,65,55,75,7,9,4,5,0,1,0,0,0, Full Time,bubble,Second game... %P and %T
+260104,Andrew,Collins,RI,9,62,65,54,59,88,5,19,3,2,1,0,3,0,0, Full Time,news,%B among %D with %M
+261910,Ben,Nason,RI,10,61,61,49,45,61,8,4,4,4,0,0,0,0,1, Full Time,cash,Hayden on him... %s from %O with %T and %M
+990100,Troy,Simmonds,RI,7,61,26,53,57,77,6,8,4,3,13,1,4,0,1, Full Time,news,Barely trying to get ruck taps against Sandilands... %P and %T
+250395,Jack,Riewoldt,RI,16,59,57,55,49,66,6,3,4,5,0,0,3,2,0, Full Time,news,Booted %s from %G and %O on McPharlin... also %T... spent much of the second half in defence but didn't contribute
+260970,Mitch,Farmer,RI,8,51,45,41,41,60,6,9,2,3,0,0,1,0,0, Full Time,cash,%D and %M with %T
+230279,Kelvin,Moore,RI,3,39,32,29,29,42,6,3,2,3,0,0,1,0,0, Full Time,job,Following Mayne... %P
+270941,Tyrone,Vickery,RI,3,38,55,31,32,39,4,4,1,2,6,4,1,0,0, Full Time,news,%H and %P
+230216,Richard,Tambling,RI,3,37,34,36,28,38,3,4,2,3,1,0,0,0,1, Full Time,injured,Tagged by van Berlo... %O and %T... twanged his left hamstring in Q3 and that will be a regulation 2-3 weeks out
+240256,Luke,McGuane,RI,4,35,34,33,34,51,3,9,3,2,0,0,3,0,0, Full Time,job,Has Pavlich... %M and %O
+290198,David,Astbury,RI,1,22,22,16,17,24,3,3,1,1,0,0,0,0,0, Full Time,bubble,Second game... %D
+280986,Troy,Taylor,RI,7,17,7,6,19,28,4,2,1,0,0,0,3,1,1, Full Time,injured,Second game... %s from %O... left knee knock in Q4 which may have been ligament-related

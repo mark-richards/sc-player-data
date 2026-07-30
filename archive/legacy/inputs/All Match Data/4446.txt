@@ -1,0 +1,48 @@
+Collingwood,Magpies,St Kilda,Saints,R6,15.13.103,11.11.77, Full Time
+May 03,2013,7.50,Docklands,Seven,280965,10390601,coll-v-stk,0,Roof closed,15,,
+
+<em>Cheannn</em>: Lol at everyone that brought in Saunders<br><em>Jackfc</em>: yes pendles<br><em>xcite1990</em>: Hav - you comparing swan and kozi??<br><em>Pimageddon</em>: Indeed!<br><em>Havacrack</em>: Achillea I let you up for some air to defend him Jumbo?<br><em>Big_Jumbo</em>: Havacrack&#044; is that name an advertisement inviting some male action? We all have a crack&#044; but we don't have to advertise <br><em>Havacrack</em>: And Swan won a Brownlow? What's your point dip$hit?<br><em>Grommet66</em>: flowering herogot Saunders you deserve to be omitted cow<br><em>Schillaci</em>: Kosi won a Rising Star Havacrack. Who are you?<br><em>myteamsuks</em>: Ben Reid has become supercoach relevant! Average over 100 last 3 weeks.<br><em>alftiles</em>: 30 points aint almost champ<br><em title="FLICKCLINT">flickclint</em>: Hairy o > Susan Boyle <br>
+240073,Harry,O'Brien,CO,31,125,124,163,95,126,20,7,8,5,0,1,0,1,0, Full Time,seagull,Macaffer to defence means he can freewheel from the wing... %O with %k by foot... also %M and %T... %s as well,,,334400,60,372700,93,Back,8
+240359,Dale,Thomas,CO,21,121,150,151,99,135,16,18,8,3,0,1,0,0,0, Full Time,cherry,Skulking around halfback for a lot of rebound ball... %P and %M with %T... a welcome return to form,,,430400,162,442800,182,Forward Centre,13
+240366,Travis,Cloke,CO,32,121,124,152,100,116,15,1,10,3,0,3,0,4,5, Full Time,x-factor,Booted %s from %G and %D on Stanley... also %T,,,473300,74,552700,72,Forward,32
+260257,Scott,Pendlebury,CO,32,121,161,153,101,133,16,12,8,4,0,2,2,2,1, Full Time,star,First goal... tagged by Jones... %P and %M plus %T and %s... also %F,,,544100,136,640300,141,Centre,10
+210099,Darren,Jolly,CO,32,112,124,132,104,124,8,11,10,1,22,1,1,2,0, Full Time,hot,%H and %P with %M and %s,,,427600,190,518700,219,Ruck,18
+220105,Dane,Swan,CO,25,109,118,143,88,117,19,7,11,2,0,0,1,0,0, Full Time,hot,%2 Montagna to start then got an Armitage tag in Q2... then Stevens went to him in Q3... %D and %M,dttalk,THe #1 DT captain option by Calvin of DT Talk,626700,131,638600,86,Centre,36
+240700,Heath,Shaw,CO,20,107,125,145,82,109,19,3,9,5,0,2,2,0,1, Full Time,magnet,%D and %M.... also %s and %T... racked up stats in Q2 playing tempo... right ankle knock in Q3 in a challenge with Koschitzke,job,Responsible for Milne,405200,74,484900,79,Back,39
+240232,Ben,Reid,CO,18,89,108,118,69,90,12,6,7,5,0,3,1,0,0, Full Time,news,%D and %M with %T,job,Started on Koschitzke but went to Riewoldt in Q3,302500,1,385900,25,Back,20
+272005,Martin,Clarke,CO,20,84,78,108,70,90,12,6,8,2,0,1,1,1,0, Full Time,news,%O and %M plus %s,job,Minding Saad,348000,63,392100,75,Back,9
+280104,Jarryd,Blair,CO,22,78,75,101,62,84,4,10,5,7,0,0,1,1,0, Full Time,news,Matched up on the kid Ross.. %s from %P and %T... also %M,,,396300,103,433500,105,Forward Centre,11
+290289,Josh,Thomas,CO,19,70,69,93,52,73,8,7,3,6,0,1,1,0,1, Full Time,news,Attending a fair amount of stoppages but not doing a lot... %D and %T plus %M and %s,,,108500,-29,115900,-44,Centre,24
+260246,Tyson,Goldsack,CO,9,67,88,88,51,69,12,4,5,2,0,0,0,0,0, Full Time,news,%P and %M... also %T,job,In defence on Riewoldt... moved off him to the small in Q3,269500,89,335200,108,Forward,6
+294733,Paul,Seedsman,CO,15,65,63,83,60,81,11,6,5,1,0,1,4,2,0, Full Time,news,%O and %M... also %s and %F,,,240900,47,239100,22,Centre,40
+260310,Nathan J.,Brown,CO,9,60,56,81,48,63,8,3,7,3,0,0,1,0,0, Full Time,job,On Siposs... %D and %M with %T,,,189100,38,252600,47,Back,16
+261181,Brent,Macaffer,CO,12,59,67,78,53,72,10,6,7,1,0,1,3,0,0, Full Time,tagger,Forward tag role on Dal Santo... %D and %M... also %F,,,210300,4,200100,3,Forward,3
+293801,Jamie,Elliott,CO,9,56,57,72,48,64,6,7,6,2,0,0,1,0,1, Full Time,concussed,%s from %D and %M on Dempster... one handball in Q1... got caught high behind play in Q2 by Koschitzke which shook him up,,,361200,92,386800,111,Forward,19
+220061,Quinten,Lynch,CO,5,52,60,63,45,54,7,4,4,0,8,2,0,0,1, Full Time,news,%s from %P and %G on Fisher... one kick in Q1... also %H,,,399100,51,412500,62,Forward,21
+280965,Steele,Sidebottom,CO,4,46,41,61,36,49,6,4,3,3,0,1,1,0,1, Full Time,tagged,Tagged by Geary... %P and %M,,,493500,51,533800,46,Centre,22
+250133,Sam,Dwyer,CO,9,42,53,52,34,45,6,4,2,1,0,0,0,1,0, Full Time,wall,%s from %P on Newnes,,,217900,13,247200,45,Forward Centre,41
+210058,Andrew,Krakouer,CO,8,39,34,50,30,39,7,2,0,2,0,3,1,1,0, Full Time,news,%s from %O on Wright,,,243200,,291100,,Forward,7
+291975,Jarrod,Witts,CO,4,34,45,42,30,35,2,3,4,1,5,1,0,0,0, Full Time,rookie,First game... %D and %M... also %H in ruck support,subbed,Subbed off in Q3 for Kennedy,108500,,115900,,Ruck,15
+293431,Ben,Kennedy,CO,2,27,24,34,22,30,5,3,2,0,0,0,0,0,0, Full Time,rookie,First game... on in Q3 for Witts... %O,sub,Started as a sub,102700,,109500,,Forward Centre,27
+210001,Nick,Riewoldt,SK,32,117,135,95,102,125,13,6,11,3,1,1,2,4,1, Full Time,atlas,Booted %s from %D and %M with %T on Goldsack then got Reid in Q3,,,490400,52,549800,88,Forward,12
+220075,Leigh,Montagna,SK,20,106,125,59,83,114,19,11,6,2,0,1,0,0,0, Full Time,hot,Head to head with Swan but moved off in Q1... %D and %T with %M,,,503400,103,534900,94,Centre,11
+250340,David,Armitage,SK,16,92,109,60,72,93,14,8,4,3,0,4,0,1,0, Full Time,news,%O and %M... also %T and %s... spent Q2 tagging Swan then moved off,,,475700,149,517100,174,Centre,20
+261323,Ben,McEvoy,SK,21,86,108,81,71,87,7,3,6,5,23,0,1,0,1, Full Time,news,%H and %P plus %M and %T... also %s,,,460400,106,584200,149,Ruck,5
+280933,Dylan,Roberton,SK,15,82,116,44,65,87,15,6,5,1,0,0,0,1,0, Full Time,news,%P and %M plus %s,job,Takes the resting ruck which is mostly Witts,320500,56,388800,72,Back,17
+270912,Jack,Steven,SK,9,75,78,49,62,81,11,10,5,1,0,3,0,0,0, Full Time,news,%P and %M,swan,Moved to tag Swan in Q3,437800,121,492700,117,Centre,3
+293815,Arryn,Siposs,SK,16,73,80,53,61,75,10,2,6,2,0,1,1,2,3, Full Time,news,Playing forward on Brown... %P and %M plus %T and %s,,,325000,80,316600,60,Forward,2
+261743,Clinton,Jones,SK,14,72,76,56,54,75,10,6,4,5,0,1,1,0,0, Full Time,news,%D and %T with %M,tagger,Tagging Pendlebury,420400,55,452600,73,Centre,4
+240708,Sam,Fisher,SK,13,56,71,40,52,71,8,7,6,1,5,0,3,0,0, Full Time,job,Standing Lynch... %D and %M... also %H,,,348000,73,416900,75,Back,25
+293846,Sebastian,Ross,SK,9,54,52,43,41,60,7,7,2,4,0,0,1,0,0, Full Time,news,Matched up on Blair... %P and %T,,,144300,26,175500,37,Centre,6
+220023,Nick,Dal Santo,SK,7,50,39,20,41,57,11,5,3,0,0,1,1,0,0, Full Time,tagged,Starting in defence but tagged by Macaffer... %D,,,436600,96,477100,137,Centre,26
+230243,Sean,Dempster,SK,8,47,50,34,40,51,7,3,6,1,0,1,1,0,0, Full Time,news,%D and %M,job,Responsible for Elliott,389900,113,463300,149,Back,24
+210002,Justin,Koschitzke,SK,11,41,48,34,43,52,4,3,5,0,10,1,3,1,0, Full Time,news,Reid on him... %s from %P and %M... also %H and %F,mrp,A hit behind play on Elliott in Q2 has him in trouble,281200,,322700,,Forward,23
+295477,Josh,Saunders,SK,3,41,20,32,32,41,5,4,2,2,0,2,0,0,2, Full Time,bubble,Second game... %P and %T with %M and %s,,,102700,,109500,,Back Centre,35
+294818,Ahmed,Saad,SK,4,40,29,36,34,45,4,5,4,2,0,1,1,0,0, Full Time,news,No score from %O and %T with %M on Clarke,,,263700,55,311100,96,Forward,21
+200108,Stephen,Milne,SK,9,39,41,14,34,44,9,1,2,0,0,2,2,1,2, Full Time,news,%s from %P on Shaw,,,309600,79,324700,68,Forward,44
+280317,Rhys,Stanley,SK,4,38,69,17,33,48,9,2,4,1,0,0,3,0,0, Full Time,job,Following Cloke... %P and %M,,,290100,107,383200,114,Forward,28
+294317,Nathan,Wright,SK,3,38,59,28,31,42,5,5,3,1,0,0,0,0,0, Full Time,news,%O and %M,job,Minding Krakouer,134100,14,138800,18,Back,34
+260113,Jarryn,Geary,SK,3,36,41,27,29,39,5,4,2,2,0,2,1,0,0, Full Time,news,%D and %T,tagger,Tagging Sidebottom,340300,68,432200,90,Back,14
+291773,Jack,Newnes,SK,3,35,69,28,33,48,4,8,3,1,0,0,2,0,0, Full Time,job,In defence on Dwyer... %O and %M,in,Late replacement for Lenny Hayes,244000,90,258100,102,Centre,16
+250134,Sam,Gilbert,SK,9,33,32,27,27,36,4,2,2,2,0,0,1,1,0, Full Time,injured,Has Lynch... %P and %T plus %M and %s... left knee hyperextension in Q3,subbed,Subbed off in Q3 for Murdoch,347300,80,411100,89,Back,19
+295095,Brodie,Murdoch,SK,0,7,9,6,4,6,1,0,0,1,0,0,0,0,0, Full Time,bubble,Second game... on in Q3 for Gilbert,sub,Started as a sub,102700,,109500,,Forward,30

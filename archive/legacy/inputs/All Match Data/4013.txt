@@ -1,0 +1,48 @@
+West Coast,Eagles,Melbourne,Demons,R2,25.16.166,9.4.58, Full Time
+Apr 7,2012,4:40,Subiaco,Fox Sports,240406,10340204,430020,0,Fine,30,,
+
+<em>KenOath</em>: great game <br><em>Dangeroo</em>: 582 from 6 so far&#044; lookin good<br><em>maluckyday</em>: melbourne wooden spoon under the belt<br><em>@fmome</em>: Schofield 57&#044; 17 & half time.  Me not complaining!<br><em>Hawks1976</em>: Watewrs SC is flowering bullshower. Set up goals and kicked two himself.And scores 78. Champion data are cows.<br><em>Gr8Game</em>: Its sad that Melbourne lost Scully to GWS&#044; the Melbourne CEO would be hoping MAGNER has signed up for at least 3 years..<br><em>A-Dawg</em>: @gingjok apart from cox because of his terrible supercoach score this week<br><em>mufc</em>: dunn 4th from the top on 65 but would be fourth last (not counting embley) on the eagles list&#044; depressing aint it! :)<br><em>bert1</em>: dees jumper even looks shower<br><em>Chippa</em>: Have you ever seen an uglier 5 goals to a player DT wise than Mitch Clarks 57 point disgrace?<br><em>aces-high</em>: eagles 1948 points as a team 745 in front of the dees... thats massive!!<br><em>Sizzler</em>: Priddis SC score has to be 120 <br>
+240283,Shannon,Hurn,WC,32,141,111,186,108,144,23,8,12,5,0,0,0,0,0, Full Time,cherry,%P and %T with %M,job,Zoning off Bennell
+270928,Scott,Selwood,WC,33,131,152,157,110,147,13,21,5,4,0,1,0,3,0, Full Time,star,%2 Magner... %P with %b by hand with %M... also %T and %s,,
+280078,Luke,Shuey,WC,38,123,120,158,97,127,12,14,5,9,0,7,2,1,1, Full Time,hot,First goal... head to head with Trengove... %D and %T plus %s,,
+290801,Andrew,Gaff,WC,25,117,112,145,96,129,19,14,7,1,0,1,0,1,0, Full Time,hot,%2 Watts... %O,,
+261290,Chris,Masten,WC,20,113,126,146,87,127,20,14,3,5,0,1,2,0,1, Full Time,hot,Playing HFF on Bartram...%D and %T,,
+290838,Jack,Darling,WC,32,108,89,136,90,110,12,4,8,4,0,1,1,4,2, Full Time,hot,Booted %s from %D and %M on McDonald including three majors in Q3,,
+200112,Dean,Cox,WC,25,106,82,133,86,106,10,6,7,5,20,1,0,0,2, Full Time,gun,%H and %D with %M and %T... also %s,,
+261209,Josh,Hill,WC,51,105,99,138,75,98,10,3,3,10,0,0,0,3,2, Full Time,hot,%s from %D and %T,,
+240016,Beau,Waters,WC,21,103,78,134,79,102,20,1,7,2,0,0,0,2,0, Full Time,hot,%P and %M plus %s,mrp,A bump off the ball on Grimes in Q2 will be scrutinised
+230254,Adam,Selwood,WC,25,98,90,121,87,114,13,14,8,1,0,3,2,1,0, Full Time,job,Has Petterd... %P and %M,,
+240124,Matt,Priddis,WC,21,97,102,118,82,114,9,21,4,4,0,3,1,0,0, Full Time,news,%D and %M with %T,,
+250111,Matt,Rosa,WC,10,87,87,111,68,90,13,9,5,3,0,3,0,0,0, Full Time,news,%O and %M,,
+210018,Daniel,Kerr,WC,19,82,92,99,67,93,13,13,2,1,0,1,0,1,0, Full Time,tagged,Tagged by McKenzie... %O,sore,Knee to the back in Q4
+200074,Darren,Glass,WC,14,81,88,101,72,96,9,13,9,1,0,0,1,0,0, Full Time,tagged,Forward tag on him by Dunn... %O and %M,,
+271045,Nic,Naitanui,WC,17,79,108,92,69,83,4,8,3,3,22,1,0,1,1, Full Time,fiji,%H and %P with %M and %s,,
+220061,Quinten,Lynch,WC,16,77,78,94,65,76,12,1,3,1,1,4,1,4,0, Full Time,news,Booted %s from %G and %P on Garland,,
+270953,Ashley,Smith,WC,8,66,75,82,53,75,11,10,3,1,0,0,0,0,0, Full Time,news,%D,,
+240406,Josh J.,Kennedy,WC,11,63,41,80,51,61,8,2,5,2,0,2,0,1,4, Full Time,pumpkin,Kicked %s from %P on Frawley... also %M and %T,,
+261214,Will,Schofield,WC,8,57,58,75,45,63,12,4,4,1,0,0,1,0,0, Full Time,job,On Clark... %O,,
+250034,Ashton,Hams,WC,15,49,58,56,44,54,3,7,0,2,0,3,1,3,0, Full Time,news,On in Q2 for Embley... %s from %P,sub,Started as a sub
+250317,Eric,Mackenzie,WC,4,47,58,60,39,51,6,5,5,1,0,0,0,0,0, Full Time,news,%P and %M,,
+990020,Andrew,Embley,WC,1,19,19,26,12,18,1,2,0,3,0,0,0,0,0, Full Time,injured,%O and %T... dislocated his troublesome right shoulder in Q1,subbed,Subbed off at QT for Hams
+260176,James,Magner,ME,16,106,92,62,82,117,18,14,4,3,0,0,0,0,0, Full Time,magnet,%2 Scott Selwood... almost a lone hand in an otherwise terrible Dee midfield... %P and %M plus %T,,
+250222,Nathan,Jones,ME,21,92,111,61,77,108,13,14,2,3,0,1,2,2,0, Full Time,news,%O and %M plus %s,,
+291313,Jeremy,Howe,ME,14,85,65,56,63,84,14,5,5,4,0,2,0,0,0, Full Time,news,%D,,
+250548,Lynden,Dunn,ME,15,65,49,43,53,64,10,0,6,1,0,0,0,2,1, Full Time,news,%s from %P in a defensive role on Glass,,
+261297,Jack,Grimes,ME,8,65,63,33,52,72,13,5,5,1,0,0,1,0,0, Full Time,sore,Loose in defence... %P and %M... got laid out by Waters in Q2 and came off groggy... back on halfway through Q3,,
+280608,Jack,Trengove,ME,9,61,112,34,50,75,11,10,2,2,0,0,2,0,0, Full Time,news,%2 SHuey... %P,,
+240393,Mitchell,Clark,ME,20,59,67,38,54,66,7,5,0,0,0,1,1,5,0, Full Time,news,Kicked %s from %P on Schofield,,
+291533,Tom,McDonald,ME,8,58,64,43,49,66,7,10,4,1,0,1,0,0,0, Full Time,job,Standing Darling... %D and %M,in,Late replacement for Stefan Martin
+230250,Jared,Rivers,ME,5,52,82,34,43,60,9,4,5,2,0,0,2,0,0, Full Time,news,%M and %P,job,Standing Cox
+270906,Jordie,McKenzie,ME,12,52,46,28,41,63,11,5,1,4,0,2,4,0,0, Full Time,news,%D,tagger,Tagging Kerrr
+230130,Joel,MacDonald,ME,4,51,49,39,40,57,7,6,3,3,0,0,1,0,0, Full Time,news,%O,,
+250245,Clint,Bartram,ME,9,50,45,36,42,57,8,3,6,2,0,0,2,0,0, Full Time,job,Minding Masten... %O and %M,,
+250360,Ricky,Petterd,ME,9,50,37,44,38,51,6,3,4,4,0,1,1,0,0, Full Time,news,%O on Adam Selwood,,
+250510,Matthew,Bate,ME,4,49,40,25,41,58,10,4,4,1,0,0,2,0,1, Full Time,news,On in Q3 for Bennell,sub,Started as a sub
+220052,Mark,Jamar,ME,13,47,42,48,44,48,1,3,2,1,27,1,0,0,0, Full Time,cold,Smashed by the NicNat/Cox tandem... %H and %D,,
+260288,James,Frawley,ME,8,46,55,17,41,60,11,5,4,0,0,0,3,0,0, Full Time,job,Has Kennedy... %M and %O,,
+280972,Jack,Watts,ME,4,45,73,39,41,57,4,10,4,1,0,0,1,0,0, Full Time,news,%2 Gaff... %B among %D,,
+270830,Colin,Garland,ME,5,44,57,29,38,54,8,3,5,2,0,0,3,0,0, Full Time,job,On Lynch... %O and %M... also %F,,
+250345,Rohan,Bail,ME,4,41,39,26,36,51,7,5,4,1,0,0,2,0,0, Full Time,news,%P and %F,,
+250418,James,Sellar,ME,3,41,45,37,36,46,3,7,3,1,4,1,0,0,0, Full Time,news,%D and %H,,
+200054,Brad,Green,ME,3,36,44,28,31,46,5,6,1,3,0,2,3,0,1, Full Time,missing,One wonders how he keeps getting picked... %s from %D and %T... also %F,,
+290943,Jamie,Bennell,ME,0,14,17,14,11,15,1,2,1,1,0,0,0,0,0, Full Time,news,%P on Hurn,subbed,Subbed off in Q3 for Bate

@@ -1,2 +1,12 @@
 pandas
 mechanicalsoup
+requests
+python-dotenv
+gspread
+apscheduler
+markdown
+plotly
+anthropic
+tabulate
+vaderSentiment
+spacy

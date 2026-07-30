@@ -1,0 +1,48 @@
+Geelong,Cats,Adelaide,Crows,R18,15.12.102,11.9.75, Full Time
+Jul 28,2012,1:45,Kardinia,Seven,280506,10341802,430153,0,Windy with showers,14,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em>GoLions</em>: danger&#044; thompson&#044; jelwood&#044; chappy :)<br><em>mufc</em>: *he<br><em>mufc</em>: stevey j won me my matchup je and jacobs<br><em>NateKnife</em>: this is an outrage<br><em>TheLegend6</em>: votes: hawkins&#044; selwood&#044; dangerfield?<br><em>thebigshot</em>: @HydeSide no offnce taken.. Im no problem<br><em title="BART3L">bart3l</em>: carn the catters!!<br><em>NateKnife</em>: dangerfield&#044; selwood&#044; thompson...and johnson<br><em>HydeSide</em>: thebigshot: no offence mate but that attitude is part of the problem<br><em>Moondog21</em>: We are geelong. That is all<br><em>Libo</em>: Umpiring was shower but we were worse<br><em>Havacrack</em>: Nice Cats&#044; under 39.5<br>
+261510,Tom,Hawkins,GE,31,116,135,145,98,118,14,5,11,2,1,1,0,3,3, Full Time,star,Booted %s from %D and %G on Rutten then got Talia in Q2,,
+250321,Joel,Selwood,GE,30,113,126,149,85,115,18,8,6,6,0,3,1,0,1, Full Time,gun,%2 Vince... %D and %T with %M,,
+230214,Mathew,Stokes,GE,28,107,98,136,85,111,12,10,5,6,0,3,1,2,0, Full Time,hot,%s from %P and %M on Doughty... also %T,,
+220058,James,Kelly,GE,30,105,111,139,74,105,15,10,1,9,0,4,1,0,0, Full Time,hot,%P and %T,,
+200039,Paul,Chapman,GE,30,104,108,133,86,112,12,7,7,5,0,0,2,3,1, Full Time,hot,%s from %D and %M on Reilly,,
+280918,Allen,Christensen,GE,21,95,100,120,77,103,12,11,5,4,0,2,1,1,1, Full Time,news,%P and %M with %T and %s,,
+230248,Andrew,Mackie,GE,27,94,90,123,70,90,12,3,5,6,0,1,0,2,0, Full Time,x-factor,Loose in defence... %P and %T with %M... also %s all in Q4 when the whips were cracking,,
+200035,Corey,Enright,GE,15,84,103,108,66,93,12,11,4,4,0,1,1,0,0, Full Time,tagged,Forward tag on him by Sloane... %O,,
+250343,Jackson,Sheringham,GE,14,78,83,99,60,85,8,12,3,5,0,0,0,0,1, Full Time,news,On in Q1 for Johnson... %D and %M plus %s,sub,Started as a sub
+260261,Trent,West,GE,32,74,88,84,67,76,3,3,1,3,46,1,1,0,0, Full Time,news,%H and %P with %T,,
+281065,Mitch,Duncan,GE,11,74,78,94,57,74,11,3,3,3,0,0,0,2,2, Full Time,news,%D and %T plus %s,,
+220007,Jimmy,Bartel,GE,18,69,84,85,56,77,7,11,1,4,1,2,1,1,1, Full Time,tagged,Tagged by van Berlo... %P and %s,,
+261497,Harry,Taylor,GE,12,69,90,85,59,79,8,11,6,1,1,0,0,0,0, Full Time,news,%D and %M,porpoise,Interesting matchup on Porplyzia
+290783,Billie,Smedts,GE,15,68,79,84,57,74,7,8,5,2,0,0,0,1,2, Full Time,news,%O and %M with %T and %s playing forward,,
+210059,Josh,Hunt,GE,9,66,80,86,51,69,11,5,5,2,0,0,0,0,0, Full Time,job,Minding Callinan... %O and %M,,
+200034,Joel,Corey,GE,8,62,56,81,50,72,10,8,3,3,0,1,2,0,0, Full Time,injured,%B among %P with %M... also %F and %T... unsighted after half time,,
+290550,Cameron,Guthrie,GE,10,61,52,81,48,66,7,6,5,4,0,0,1,0,0, Full Time,job,Douglas is his man... %D and %T with %M,,
+291550,Joshua,Walker,GE,15,60,59,79,46,64,4,7,3,6,4,0,1,0,0, Full Time,news,%D and %T on Talia then Luke Thompson,,
+230125,Tom,Lonergan,GE,7,54,84,68,45,60,9,7,3,1,0,3,1,0,0, Full Time,job,Standing Walker... %D and %M,,
+280822,Taylor,Hunt,GE,5,52,59,64,44,60,4,10,4,2,0,0,0,0,0, Full Time,job,In defence on Petrenko... %P and %M,,
+280990,Steven,Motlop,GE,13,47,50,64,33,48,4,5,1,6,0,1,1,0,0, Full Time,news,%O on Smith... also %T,,
+220054,Steve,Johnson,GE,0,1,3,1,1,0,0,0,0,0,0,1,0,0,0, Full Time,injured,Smashed in the mouth by a bump from Scott Thompson at the first centre bounce in Q1,subbed,Subbed off in Q1 for Sheringham
+270917,Patrick,Dangerfield,AD,22,111,133,74,92,126,15,18,2,3,0,3,1,2,0, Full Time,hot,%P including %B,,
+230174,Jason,Porplyzia,AD,27,108,100,80,87,112,15,5,9,4,0,0,1,2,1, Full Time,heart,Poke in the left eye in Q1... headclash with Taylor in Q2... %s from %D and %M on Taylor... also %T,,
+210016,Scott,Thompson,AD,25,99,106,58,87,134,16,24,1,3,2,1,5,0,0, Full Time,news,%O and %T... also %F,mrp,A bump that caught Johnson high in Q1 will be looked at
+261142,Bernie,Vince,AD,16,89,85,56,69,93,14,7,3,3,0,0,0,2,0, Full Time,news,First goal... head to head with Selwood... %P and %s,,
+261384,Matthew,Wright,AD,25,89,99,95,74,105,3,23,3,6,0,1,0,0,0, Full Time,news,%D and %T with %M,,
+240370,Richard,Douglas,AD,14,82,85,34,66,94,18,8,4,1,0,1,2,0,1, Full Time,news,%P and %M on Guthrie,,
+270963,Rory,Sloane,AD,19,77,100,55,60,84,11,8,3,4,0,0,1,1,0, Full Time,news,%P and %T with %M,tagger,Forward role on Enright
+291748,Brodie,Smith,AD,10,77,74,44,59,81,14,6,5,2,0,0,0,0,0, Full Time,job,Has Motlop... %P and %M,,
+200092,Michael,Doughty,AD,13,72,90,62,57,78,7,12,3,4,0,2,0,0,0, Full Time,job,Chasing Stokes... %P and %T,,
+250118,Nathan,van Berlo,AD,9,71,71,37,53,78,14,7,2,3,0,0,1,0,0, Full Time,tagger,Tagging Bartel... %O and %T with %M,,
+250362,David,Mackay,AD,24,68,61,48,49,72,11,4,1,6,0,0,2,1,0, Full Time,news,%O and %T plus %s,,
+220086,Brent,Reilly,AD,7,53,69,25,38,54,11,4,1,2,0,1,0,0,0, Full Time,job,On Chapman... %D,,
+294828,Josh,Jenkins,AD,11,50,48,42,43,53,5,2,3,2,11,0,1,1,0, Full Time,news,%H and %P plus %s,,
+261138,Jared,Petrenko,AD,13,43,54,46,30,45,3,6,0,6,0,1,1,0,0, Full Time,news,%D on Taylor Hunt... also %T,,
+210056,Graham,Johncock,AD,8,42,51,39,32,48,4,7,1,4,0,0,1,0,0, Full Time,news,%P and %T up forward again,,
+280038,Shaun,McKernan,AD,13,41,62,33,42,50,3,4,1,0,26,1,2,0,0, Full Time,in,%l Sam Jacobs... %H and %D,,
+280506,Taylor,Walker,AD,4,40,39,17,35,45,9,1,4,0,0,2,2,0,3, Full Time,news,Booted %s from %O and %M on Lonergan,,
+261857,Ian,Callinan,AD,8,37,46,18,32,42,7,2,2,0,0,0,1,1,3, Full Time,news,%s from %O and %M on Josh Hunt,,
+280949,Luke,Thompson,AD,2,36,41,31,28,39,4,5,1,3,0,2,1,0,0, Full Time,job,Moved to Walker in Q2... %D,,
+220093,Ben,Rutten,AD,7,25,8,20,20,24,3,0,2,1,0,0,0,1,0, Full Time,switch,Started on Hawkins but switched forward in Q2... %P and a rare %s,subbed,Subbed off in Q3 for Symes
+230215,Brad,Symes,AD,2,25,32,25,19,30,2,5,0,3,0,0,1,0,0, Full Time,news,On in Q3 for Rutten,sub,Started as a sub
+280934,Daniel,Talia,AD,1,16,30,9,13,21,3,3,0,1,0,0,1,0,0, Full Time,tomahawk,Moved from Walker to Hawkins in Q2... %O,injured,Right quad corked in Q4

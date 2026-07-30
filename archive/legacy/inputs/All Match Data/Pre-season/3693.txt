@@ -1,0 +1,56 @@
+Geelong,Cats,Western Bulldogs,Bulldogs,W1,0.7.4.46,0.4.1.25, Half Time
+Feb 20,2011,6:25,Kardinia,Fox Sports,,10300118,,5273,Showers,22
+It is being developed.,Mobile/iPhone?,No PNG in the first round of the NAB this year.,Purple?,Hopefully!,SC scores?,Not for the NAB.,Team icons?
+<em>tomahawk05</em>: every pick up geroge horlin smith as a rookie!!<br><em>c4v3m4n</em>: Some massive SC Scores...Hawkins 170&#044; Gia 170&#044; Stevie J 182! :O<br><em>Judd005</em>: batel more of a goal scorer too. hahaha every1 gonna struggle with this decision<br><em>tomahawk05</em>: go george horlin smith!!<br><em>Judd005</em>: good enough to beat a tag&#044; they both are<br><em>Bad-Billy</em>: Ive got bartel at the moment but im thinking selwood will be tagged every game.. so im stuck<br><em>cptFantasy</em>: only better because you're a don's supporter MilzKent<br><em>Antz</em>: I would go Selwood. He is more consistant IMO<br><em>OhYeah===></em>: SELWOOD! not Hawkins<br><em>Judd005</em>: stevie J running all over the place. whole ground at his disposal<br><em>MarcMurphy</em>: @Billy&#044; Got Selwood in SC&#044; Bartel in DT<br><em>eagles9294</em>: selwood every time<br>
+220054,Steve,Johnson,GE,20,70,-,87,54,70,8,4,1,4,0,0,0,3,1, Half Time,hot,Picken on him... %s from %D and %T
+261510,Tom,Hawkins,GE,10,52,-,64,44,53,6,2,4,1,1,0,0,2,1, Half Time,hot,Switching between forward and ruck... %O and %M with %s late in the game to seal the win
+250652,Jonathan,Simpkin,GE,9,42,-,55,31,39,7,0,2,2,0,1,0,1,0, Half Time,hot,Prominent with his inside 50s... %K among %P with %M and %T... plus %s in the last 3 minutes
+250321,Joel,Selwood,GE,8,38,-,52,28,43,6,4,0,4,0,1,2,0,1, Half Time,news,Head to head with Boyd... %O and %T
+220007,Jimmy,Bartel,GE,8,37,-,47,31,41,6,2,2,1,1,0,1,1,1, Half Time,hot,Playing a FP on Morris... %s from %P and %G with %T
+270193,Simon,Hogan,GE,2,31,-,39,23,30,2,5,0,3,0,3,0,0,0, Half Time,news,%D and %T
+230125,Tom,Lonergan,GE,2,30,-,40,23,30,5,1,3,1,0,0,0,0,0, Half Time,job,Has Grant.... %M and %D
+200035,Corey,Enright,GE,1,29,-,36,23,33,4,5,1,1,0,0,0,0,0, Half Time,news,%O with %k by foot
+261497,Harry,Taylor,GE,2,28,-,36,23,30,5,2,3,0,0,0,0,0,0, Half Time,news,Playing forward on Williams... %P adn %M
+291307,Daniel,Menzel,GE,2,26,-,32,23,30,3,4,3,0,0,0,0,0,0, Half Time,job,Playing back on Liberatore... %M and %O
+281065,Mitchell,Duncan,GE,3,23,-,34,18,27,5,0,2,2,0,0,2,0,0, Half Time,news,%O and %M with %T and %F
+230214,Mathew,Stokes,GE,2,22,-,28,17,24,1,4,1,2,0,0,0,0,0, Half Time,news,%P and %T on Wood
+280918,Allen,Christensen,GE,1,22,-,27,18,24,2,4,1,1,0,1,0,0,0, Half Time,news,%O
+220058,James,Kelly,GE,2,21,-,30,19,31,4,3,1,2,1,0,3,0,0, Half Time,job,On Djerkurra... %D and %T with %F
+290106,Josh,Cowan,GE,1,19,-,22,19,27,2,6,1,0,0,1,1,0,0, Half Time,news,%P with %b by hand
+293255,George,Horlin-Smith,GE,1,17,-,22,12,15,1,2,0,2,0,2,0,0,0, Half Time,news,%P and %T on a HFF opposed to Gilbee
+210059,Josh,Hunt,GE,1,14,-,19,12,18,4,1,1,0,0,0,1,0,0, Half Time,news,%K among %D
+280822,Taylor,Hunt,GE,0,13,-,17,12,18,1,3,1,1,0,0,1,0,0, Half Time,news,%D
+980064,Brad,Ottens,GE,0,13,-,14,13,16,0,3,1,0,4,0,0,0,0, Half Time,news,%H and %D
+280990,Steven,Motlop,GE,0,11,-,14,8,12,1,2,0,1,0,0,0,0,0, Half Time,news,Just the %P
+292502,Ben C.,Johnson,GE,0,10,-,13,7,9,1,1,0,1,0,1,0,0,0, Half Time,news,Mostly unsighted for %D
+230248,Andrew,Mackie,GE,0,6,-,9,6,9,2,0,1,0,0,0,1,0,0, Half Time,job,On Jones.... %O
+260261,Trent,West,GE,0,5,-,7,3,4,0,0,0,1,1,0,0,0,0, Half Time,news,One tackle and one hit out and that was it
+290550,Cameron,Guthrie,GE,0,0,-,1,1,3,1,0,0,0,0,0,1,0,0, Half Time,news,A single possession
+290576,Jordan,Schroder,GE,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub... not used
+294914,Ryan,Bathie,GE,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Half Time,sub,Started as a sub... not used
+210049,Daniel,Cross,WB,3,44,-,40,37,51,3,11,1,2,0,2,0,0,0, Half Time,hot,%P with %b by hand
+200079,Daniel,Giansiracusa,WB,8,43,-,31,38,48,5,7,1,1,0,4,1,1,0, Half Time,hot,%B among %D... also %s
+220010,Matthew,Boyd,WB,3,38,-,34,31,45,3,9,1,2,0,0,0,0,0, Half Time,news,Head to head with Selwood... %O and %T
+260227,Shaun,Higgins,WB,3,38,-,27,31,42,5,6,2,1,0,1,0,0,0, Half Time,news,%D and %M
+271439,Liam,Picken,WB,2,32,-,33,28,39,2,7,1,3,0,3,2,0,0, Half Time,job,On Steve Johnson... %P and %T with %F
+290799,Tom,Liberatore,WB,3,31,-,26,24,36,3,7,0,2,0,0,0,0,0, Half Time,news,Playing forward on Menzel... %P and %T
+261319,Jarrad,Grant,WB,8,30,-,28,26,30,2,1,2,1,0,0,0,2,0, Half Time,news,Kicked %s from %D and %G on Lonergan
+240212,Dylan,Addison,WB,8,29,-,22,26,33,3,4,2,0,0,0,0,1,0, Half Time,news,First goal... %P and %M plus %s
+250150,Tom,Williams,WB,2,28,-,15,23,31,5,3,2,0,0,0,0,0,1, Half Time,job,Playing back on Taylor... %P and %M plus %s
+240325,Justin,Sherman,WB,2,26,-,19,22,30,4,2,3,1,0,0,1,0,0, Half Time,news,%O and %M
+250712,Dale,Morris,WB,2,22,-,25,17,27,1,5,0,3,0,0,1,0,0, Half Time,job,Playing BP on Bartel... %T and %D
+260965,Brennan,Stack,WB,1,20,-,26,14,21,0,4,0,3,0,0,0,0,0, Half Time,news,Looked ordinary in defence... %B among %D... also %T
+280442,Zephaniah,Skinner,WB,1,20,-,18,16,21,2,2,2,1,0,0,0,0,0, Half Time,news,%P and %M
+281078,Liam,Jones,WB,1,17,-,18,14,18,1,2,2,1,0,0,0,0,0, Half Time,news,%P and %M on Mackie
+200080,Lindsay,Gilbee,WB,1,16,-,11,16,24,2,5,1,0,0,0,1,0,0, Half Time,news,Running off Horlin-Smith... %D
+250383,Nathan,Djerrkura,WB,1,15,-,16,12,18,1,3,0,2,0,1,1,0,0, Half Time,news,%D and %T on Kelly
+250601,Lukas,Markovic,WB,1,15,-,3,11,15,4,1,0,0,0,1,0,0,0, Half Time,news,%D
+261209,Josh,Hill,WB,0,14,-,10,10,15,2,2,0,1,0,0,0,0,0, Half Time,news,%P
+281139,Easton,Wood,WB,1,14,-,6,13,18,3,2,1,0,0,1,1,0,0, Half Time,job,Minding Stokes... %P
+240156,Ryan,Griffen,WB,1,13,-,1,11,18,4,2,0,0,0,0,1,0,0, Half Time,news,%O
+281374,Christian,Howard,WB,0,12,-,8,8,12,2,1,0,1,0,0,0,0,0, Half Time,news,Just the %D
+280012,Jordan,Roughead,WB,1,11,-,13,9,10,0,0,0,1,7,0,0,0,0, Half Time,news,%H and no disposals
+281102,Matthew,Panos,WB,0,8,-,6,7,9,1,1,1,0,0,0,0,0,0, Half Time,news,Only %P
+230255,Will,Minson,WB,0,7,-,4,6,7,1,0,0,0,4,0,0,0,0, Half Time,news,%H
+291545,Mitch,Wallis,WB,0,7,-,6,4,6,1,0,0,1,0,0,0,0,0, Half Time,news,Started as a sub... on in Q2 for one touch
+270186,Patrick,Veszpremi,WB,0,6,-,0,6,9,2,1,0,0,0,1,1,0,0, Half Time,news,%O

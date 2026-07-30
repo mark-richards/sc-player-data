@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Fremantle,Dockers,R17,24.14.158,12.4.76, Full Time
+Jul 25,2010,1:10,Docklands,Fox Sports,960258,10281706,5015571,5201,Roof closed,15
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>PiesOnTop</em>: M0nty can you update the 7 coinflip coz i got 7<br><em>Bowzer</em>: good game doggies.<br><em>Scottyy</em>: good work hall<br><em>hawk2010</em>: junk 4 cooney<br><em>Judd_MAgic</em>: YES! I win my Bigfooty Div 1 game. Take that Bigfooty Div 1 opponent. LOL!<br><em>Rochefort</em>: damn you palv&#044; boyd and hall&#044; you just made me lost sc fu<br><em>Dangermaus</em>: need Goodes and Esky to make tons so I can win my match<br><em>Cousin Ben</em>: 4 sorry.<br><em>Cousin Ben</em>: 15 Bulldogs in the 90+ for SC.  1 Docker.<br><em>GoLions</em>: had cooney :)&#044; lake :)&#044; boyd :)&#044; pav :)&#044; gilbee :|&#044; and sandi >:(<br><em title="JAKO">jako</em>: No changes in the Showdown.. ..Port Vs Adelaide<br><em>barlowgun</em>: omfg not even going to get 2000 SC FML<br>
+240254,Jarrod,Harbrow,WB,26,134,119,176,103,138,25,7,11,3,0,0,0,0,0, Full Time,garbage,Minding Ballantyne... %D and %M with %T... lots of those stats in second half garbage time
+210049,Daniel,Cross,WB,38,132,108,169,106,145,12,19,9,8,1,1,1,0,0, Full Time,star,Head to head with Palmer... %O and %T plus %M
+200079,Daniel,Giansiracusa,WB,36,119,111,153,92,123,15,11,7,6,0,1,0,1,0, Full Time,garbage,%s from %P and %M with %T on Hayden... much more active in second half junk time
+220010,Matthew,Boyd,WB,21,117,92,148,91,128,18,15,5,4,1,0,0,0,1, Full Time,hot,%D and %T
+230041,Adam,Cooney,WB,26,110,129,131,91,128,15,21,2,2,0,1,0,1,2, Full Time,gun,Tagged by McPhee... %O and %s
+220039,Brian,Lake,WB,32,109,118,134,94,117,11,10,10,2,0,0,0,3,0, Full Time,hot,First goal... started forward on Grover then went back in Q1 as he has done for the past month... %s from %P and %G
+261319,Jarrad,Grant,WB,32,109,95,135,91,115,10,10,8,4,0,0,0,3,1, Full Time,garbage,%s from %P and %M with %T on Ibbotson including a couple of very late goals in Q4 garbage time
+240156,Ryan,Griffen,WB,19,91,123,107,76,101,13,11,1,1,4,0,0,3,1, Full Time,news,%O and %s
+240029,Brodie,Moles,WB,23,88,98,114,66,84,10,4,4,6,0,2,0,2,0, Full Time,news,%P and %T with %s
+280012,Jordan,Roughead,WB,14,86,85,104,74,91,6,12,6,3,7,4,0,0,3, Full Time,news,%H and %D with %M
+200083,Robert,Murphy,WB,18,84,101,106,72,102,16,12,6,0,0,0,2,0,0, Full Time,news,%P including %b by hand with %M
+200082,Ryan,Hargrave,WB,14,81,92,104,64,87,13,8,6,2,0,0,0,0,0, Full Time,job,On Fyfe... %P and %M with %T
+200080,Lindsay,Gilbee,WB,14,80,77,97,68,94,12,14,5,0,0,0,0,0,1, Full Time,news,%P including %B
+271439,Liam,Picken,WB,25,79,92,99,60,81,5,10,1,7,0,1,0,2,0, Full Time,tagger,Tagging Hill... %P and %s
+260227,Shaun,Higgins,WB,16,78,91,96,69,94,11,11,3,2,0,2,3,2,1, Full Time,news,%P and %M plus %s
+960570,Barry,Hall,WB,21,73,99,87,67,80,8,4,6,0,1,0,1,4,1, Full Time,news,%s from %G and %P on McPharlin
+960258,Brad,Johnson,WB,12,70,52,86,58,75,6,8,4,3,0,0,0,2,0, Full Time,news,%D on Broughton
+240710,Ben,Hudson,WB,15,68,88,81,60,77,2,11,3,4,17,1,1,0,0, Full Time,news,%H and %P
+281139,Easton,Wood,WB,18,67,97,80,60,78,7,11,6,0,0,0,0,1,0, Full Time,job,Has Morabito on a HBF... %B among %P plus %s
+280109,Callan,Ward,WB,4,60,51,78,46,56,12,1,4,1,1,4,0,0,1, Full Time,news,%D and %M plus %s
+250712,Dale,Morris,WB,14,58,75,79,40,54,4,4,3,7,0,1,0,0,0, Full Time,job,Following Pavlich... %D
+250150,Tom,Williams,WB,3,46,45,59,35,44,5,4,2,3,2,3,0,0,0, Full Time,job,Has Johnson... %P and %T
+270908,Nick,Suban,FR,31,111,98,74,83,117,20,4,7,8,0,2,4,0,0, Full Time,hot,%P and %M plus %T
+200032,Matthew,Pavlich,FR,27,96,107,70,84,108,12,8,6,2,0,0,2,4,0, Full Time,news,%s from %P with %M and %T on Morris
+230107,Michael,Johnson,FR,18,84,99,54,71,90,13,6,7,1,2,2,1,1,1, Full Time,news,%s from %P and %M on Williams
+210084,Roger,Hayden,FR,14,80,71,54,66,90,12,10,6,2,0,1,1,0,0, Full Time,job,Minding Giansiracusa... %P and %M
+200031,Paul,Hasleby,FR,20,71,79,68,58,76,5,10,4,4,0,1,0,1,1, Full Time,in,%l David Mundy (illness)... %s from %D... also %T and %M
+990092,Antoni,Grover,FR,13,66,70,49,53,69,9,6,6,2,0,1,0,0,0, Full Time,job,At FB... first on Lake... %P and %M
+280386,Clancee,Pearce,FR,9,62,53,60,47,66,5,9,3,5,0,0,0,0,0, Full Time,news,%O and %M with %T
+261231,Rhys,Palmer,FR,14,61,71,55,52,72,5,11,3,3,0,0,1,1,0, Full Time,sore,Head to head with Cross... %P and %T plus %M and %s... left shoulder knock in Q2 in a clash with Wood
+261756,Greg,Broughton,FR,13,60,90,56,47,66,5,10,3,4,0,0,0,0,0, Full Time,smiling,Has Johnson... %D
+260069,Hayden,Ballantyne,FR,15,59,39,42,42,57,9,2,2,4,0,0,0,1,0, Full Time,news,Started in the centre then went forward... %s from %O on Harbrow
+210037,Adam,McPhee,FR,15,57,51,47,43,58,8,0,4,5,0,0,2,1,1, Full Time,tagger,Tagging Cooney... %P and %M with %T
+250268,Garrick,Ibbotson,FR,10,57,52,40,45,60,8,5,3,2,0,0,0,1,0, Full Time,job,Following Grant... %D and %M with %T
+240139,Paul,Duffield,FR,8,54,64,39,44,63,8,7,3,3,0,1,2,0,0, Full Time,news,%D and %M
+220096,Aaron,Sandilands,FR,14,53,45,49,50,62,3,5,1,2,29,0,2,0,0, Full Time,news,%H and %D
+291570,Nathan,Fyfe,FR,10,51,26,49,46,63,3,11,3,2,0,0,1,1,0, Full Time,news,%s from %O with %M and %T on Hargrave
+290296,Jesse,Crichton,FR,9,50,55,40,43,57,5,8,3,1,0,0,0,1,0, Full Time,rookie,First game... %P
+200045,Luke,McPharlin,FR,8,48,64,36,42,54,6,6,6,0,0,0,0,0,0, Full Time,job,On Hall... %M and %D
+270681,Jay,van Berlo,FR,9,45,43,49,37,54,2,10,2,4,0,0,1,0,0, Full Time,news,%D and %M wiht %T
+280336,Stephen,Hill,FR,3,38,42,29,29,45,5,7,0,3,0,0,1,0,0, Full Time,sore,Tagged by Picken... %O and %T... knock to a thigh in Q4
+271015,Matthew,de Boer,FR,3,33,29,31,28,39,3,5,3,2,0,0,1,0,0, Full Time,news,%O and %T
+281111,Anthony,Morabito,FR,3,31,7,30,24,34,3,3,2,3,1,0,1,0,0, Full Time,news,Wood on him on a HFF.. %O and %M
+280933,Dylan,Roberton,FR,7,29,16,33,21,30,2,2,2,4,0,0,1,0,0, Full Time,news,Playing as thrid tall forward which is not a productive position today... %O

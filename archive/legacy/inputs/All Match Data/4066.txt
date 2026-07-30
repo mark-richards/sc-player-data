@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Fremantle,Dockers,R8,17.17.119,9.9.63, Full Time
+May 19,2012,2:10,Launceston,Fox Sports,260069,10340803,430073,0,Partly cloudy,15,,
+
+<em>jono71501</em>: anyone else not getting the new prices and be's?<br><em>HappyDEZ</em>: SC luv for Duff & Buddy&#044; teehee<br><em>lenny20</em>: lewis will be scaled up<br><em>DBerbatov9</em>: Anyone know what Lewis' disposal efficiency was?<br><em>The captai</em>: Seriously? Johnson gets 95sc&#044; and mitchell gets 116&#044; pretty much opposite of dt...<br><em>GoLions</em>: screw you pavlich&#044; the week i bring you in :/<br><em>feralmong</em>: 909/7 incl capt.<br><em>TheSaint</em>: thanks a lot pav. bring u in this week as my 7th forward for porps and you score 50 below average you idiot<br><em>jono71501</em>: ANYONE ELSE NOT GETTING THE NEW PRICES AND be's?<br><em>MickH</em>: wow&#044; assisant coach got broughton's score exactly right. wonder how often that happens<br><em>Gee Dee </em>: spoilers lol - games were live as in life dickbrain<br><em>MickH</em>: "If people want to hear about other games&#044; they will go to the relevant pages. Please respect others in this matter"<br>
+250055,Clinton,Young,HW,37,132,108,172,104,132,20,5,12,4,0,1,0,1,3, Full Time,hot,%2 Mzungu off a wing... %D and %M plus %s,,
+280737,Liam,Shiels,HW,20,105,97,138,77,108,20,7,5,4,0,0,0,0,0, Full Time,hot,%2 Hill... %O and %T with %M,,
+250089,Jordan,Lewis,HW,25,99,72,121,80,111,9,17,3,5,2,0,0,1,1, Full Time,news,%D,,
+280744,Luke,Breust,HW,17,97,129,118,80,106,11,13,4,3,0,1,0,2,1, Full Time,news,%s from %P,,
+230197,Brad,Sewell,HW,15,96,97,119,77,105,13,15,4,3,0,3,0,0,0, Full Time,news,%P including %B,,
+294877,Isaac,Smith,HW,25,93,94,118,76,100,11,9,6,4,1,1,1,1,3, Full Time,news,%s from %P and %M,,
+200060,Brent,Guerra,HW,16,92,104,118,71,94,17,5,5,2,0,1,0,1,1, Full Time,news,%P and %M plus %s,job,Neale not providing much opposition
+260955,Cyril,Rioli,HW,29,91,109,117,69,90,6,8,4,8,0,1,0,2,0, Full Time,star,%s from %O and %T on Spurr... also %M,,
+270732,Matt,Suckling,HW,20,87,82,112,74,93,17,1,8,0,1,1,2,2,2, Full Time,news,One kick in Q1 but had a massive Q2 to make it all better... %P and %M plus %s,,
+240302,Grant,Birchall,HW,13,86,97,110,71,93,15,8,7,1,0,3,1,0,0, Full Time,news,%O and %M,,
+240399,Lance,Franklin,HW,19,81,99,104,68,92,15,6,6,1,0,0,2,1,2, Full Time,news,%s from %P on McPharlin,,
+220036,David,Hale,HW,16,79,90,93,72,85,7,7,5,1,19,3,1,1,0, Full Time,news,%H and %P with %M,,
+240357,Jarryd,Roughead,HW,21,78,90,96,68,81,10,1,6,1,1,0,1,4,2, Full Time,news,First goal... %s from %P on Dawson,,
+261386,Brendan,Whitecross,HW,13,77,66,99,61,82,14,6,6,1,1,0,0,0,0, Full Time,news,%P on Roberton,,
+220073,Sam,Mitchell,HW,19,73,114,93,57,84,10,11,0,5,0,1,2,1,0, Full Time,creepy,Tagged by Crowley... %O and %T,,
+280471,Ben,Stratton,HW,13,69,80,86,58,78,7,11,6,2,0,0,0,0,0, Full Time,news,%B among %O with %M,job,Chasing Mayne
+250715,Josh,Gibson,HW,8,57,87,72,48,72,7,12,2,3,0,0,2,0,0, Full Time,news,Loose in defence... %D and %T,,
+210012,Shaun,Burgoyne,HW,4,49,56,65,37,54,8,5,2,3,0,0,1,0,0, Full Time,job,In defence on de Boer... %D,,
+230082,Stephen,Gilham,HW,4,48,63,60,40,54,8,6,4,0,0,0,0,0,0, Full Time,news,%M and %D,job,Has Clarke
+281301,Ryan,Schoenmakers,HW,7,40,34,54,36,48,6,3,6,1,0,0,2,0,0, Full Time,job,Following Pavlich... %M and %O,,
+280858,Shane,Savage,HW,3,32,22,41,30,39,4,4,5,0,0,0,1,0,0, Full Time,news,On in Q4 for Puopolo,sub,Started as a sub
+260710,Paul,Puopolo,HW,1,10,21,14,10,18,0,4,0,2,0,0,2,0,0, Full Time,news,Manning up Duffield... %O,subbed,Subbed off at 3QT for Savage
+292026,Michael,Barlow,FR,32,109,98,86,84,117,13,14,4,6,0,0,0,1,0, Full Time,hot,%P and %T plus %s,sore,Back soreness in Q1
+230107,Michael,Johnson,FR,20,100,99,63,82,105,16,7,9,1,0,1,0,1,0, Full Time,hot,Loose in defence... %O and %M,,
+261756,Greg,Broughton,FR,20,100,109,75,85,117,13,15,8,3,0,1,2,0,0, Full Time,hot,%P and %M,sore,Neck soreness in Q3
+240052,David,Mundy,FR,14,83,83,54,62,88,13,10,2,4,0,1,0,0,1, Full Time,news,%O and %T with %M and %s,,
+230048,Ryan,Crowley,FR,16,82,77,46,69,97,15,8,5,2,0,0,3,1,1, Full Time,news,%P and %M plus %s,tagger,Tagging Mitchell
+220096,Aaron,Sandilands,FR,27,79,100,80,76,86,1,11,2,1,41,3,0,0,0, Full Time,news,%H and %P,,
+240139,Paul,Duffield,FR,19,76,105,59,53,78,11,6,2,7,0,0,1,0,0, Full Time,news,%K among %P with %T,job,Puopolo manning him up
+290251,Zachary,Clarke,FR,18,70,74,61,57,71,7,3,4,4,10,1,1,1,1, Full Time,news,%s from %P and %T on Gilham... also %H,,
+280416,Chris,Mayne,FR,10,68,69,53,54,68,8,6,3,3,0,3,0,1,2, Full Time,news,%D on Stratton,,
+271015,Matthew,de Boer,FR,10,63,68,55,50,69,7,7,5,4,0,0,1,0,0, Full Time,news,Manning up Burgoyne in attack... %O and %T with %M,,
+293535,Lachie,Neale,FR,14,62,70,50,57,78,5,16,3,0,0,0,0,1,0, Full Time,news,%s from %P with %k of those by foot on Guerra,,
+200045,Luke,McPharlin,FR,10,60,63,55,46,60,6,5,5,4,0,1,0,0,0, Full Time,job,Chasing Franklin... %M and %D,,
+280726,Tendai,Mzungu,FR,10,60,71,59,45,61,5,6,4,5,0,0,0,0,1, Full Time,zimbabwe,%2 Young off a wing... %D and %M with %T,,
+200032,Matthew,Pavlich,FR,8,58,48,43,48,59,8,3,7,1,0,1,0,0,2, Full Time,news,%s from %D and %M on Schoenmakers,,
+280933,Dylan,Roberton,FR,5,58,51,43,48,63,8,6,5,2,0,2,1,0,0, Full Time,news,%O and %M,job,Responsible for Whitecross
+240266,Lee,Spurr,FR,8,57,55,34,47,63,10,5,5,1,0,1,1,0,0, Full Time,news,%P and %M,job,Minding Rioli
+260069,Hayden,Ballantyne,FR,9,50,40,17,40,54,12,0,1,1,0,1,2,2,0, Full Time,news,Didn't get a touch in Q1... %P,,
+250268,Garrick,Ibbotson,FR,4,45,46,33,37,54,6,8,2,2,0,0,1,0,0, Full Time,news,%O and %T,,
+280386,Clancee,Pearce,FR,3,42,58,39,33,48,3,10,0,3,0,1,0,0,0, Full Time,concussed,%D with %B... also %T... very groggy after a clash in Q3,subbed,Subbed off in Q3 for van Berlo
+280336,Stephen,Hill,FR,2,31,41,18,26,39,5,7,0,1,0,1,1,0,0, Full Time,news,%2 Shiels... %O including %B,,
+240552,Zac,Dawson,FR,8,28,47,30,29,39,1,6,3,1,0,0,2,1,0, Full Time,job,Standing Roughead... %D,,
+270681,Jay,van Berlo,FR,2,24,20,19,17,25,3,3,0,2,1,0,0,0,0, Full Time,news,On in Q3 for Pearce,sub,Started as a sub

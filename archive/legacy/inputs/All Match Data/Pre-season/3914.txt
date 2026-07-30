@@ -1,0 +1,48 @@
+Brisbane,Lions,Gold Coast,Suns,W1,2.6.18,2.4.16, Full Time
+Feb 25,2012,8.20,Gold Coast,Fox Footy,,10330115,,15,Rain periods,24,,
+
+<em>Baren_stud</em>: pokerface arent we all entitled to an opinion?<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> wilbaforce</em>: hey pokerface remember crim-i-nal??<br><em>Pokerface</em>: ban baren-stud for false information<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> wilbaforce</em>: yeah he hunts the footy like no other<br><em>Baren_stud</em>: Hunt has a future on ball&#044; was at the ground and his movement and positioning was great!<br><em>cooky273</em>: did polec get subbed? hasnt touched the ball since just after half time<br><em>Demons15</em>: this goes against the whole theory of the NAB cup so far o.O<br><em>Baren_stud</em>: well played jaeger :)<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> wilbaforce</em>: geez jaeger is good<br><em>Zarts</em>: comeone suns&#044; kick a goal :P<br><em>Meldrum23</em>: adcock was subbed a while ago i think.<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> wilbaforce</em>: longer adcock <br>
+261222,James,Hawksley,BL,4,56,-,71,44,57,8,6,3,2,0,3,0,0,0, Full Time,news,%D and %T with %M,job,Got McQualter in Q2,100
+281048,Ryan,Harwood,BL,10,55,-,69,43,54,8,4,2,2,0,3,0,1,0, Full Time,news,%O with %k by foot... also %M and %T plus %s,,,79
+281373,Jack,Redden,BL,2,45,-,57,34,49,9,5,1,1,0,0,0,0,1, Full Time,news,%D and %s,,,79
+281329,Rohan,Bewick,BL,2,36,-,47,28,36,6,2,3,1,0,1,0,0,0, Full Time,news,%D and %M,,,94
+270936,Jordan,Lisle,BL,2,35,-,43,28,39,7,4,1,0,3,0,0,0,0, Full Time,news,%P and %H,,,100
+290738,Jared,Polec,BL,2,35,-,47,25,34,8,0,2,1,0,0,0,0,1, Full Time,news,%O and %M plus %s,,,84
+270919,Tom,Rockliff,BL,3,33,-,40,28,39,3,7,2,1,0,0,0,0,0, Full Time,news,%2 Swallow.. %O with %b by hand.. also %M,,,82
+210045,Amon,Buchanan,BL,3,32,-,42,24,33,2,4,2,3,0,0,0,0,0, Full Time,news,%s from %O and %M with %T,,,92
+290626,Brad,Harvey,BL,3,32,-,42,25,33,3,3,3,2,0,0,0,0,0, Full Time,job,In defence on Gorringe... %D and %M with %T,,,100
+220062,Matt,Maguire,BL,2,24,-,33,20,27,4,1,3,1,0,0,1,0,0, Full Time,job,Standing Smith... %M and %O,,,100
+291548,Ryan,Lester,BL,7,22,-,26,19,24,3,2,1,0,0,0,0,1,0, Full Time,news,%P and %s,subbed,Subbed off in Q2 for Beams,65
+260975,James,Polkinghorne,BL,1,21,-,30,14,21,3,1,0,3,0,1,1,0,0, Full Time,news,%O and %T,,,70
+270512,Pearce,Hanley,BL,1,21,-,28,15,21,6,0,1,0,0,0,0,0,0, Full Time,news,%D with all of them by foot underlining his designated kicker role,,,91
+293871,Jack,Crisp,BL,1,21,-,27,16,21,3,2,1,1,0,1,0,0,0, Full Time,news,%P,,,81
+200007,Jonathan,Brown,BL,1,20,-,25,17,27,3,5,0,1,0,0,1,0,0, Full Time,news,%P on May,,,100
+290748,Joshua,Green,BL,1,20,-,27,17,27,5,2,0,1,0,0,2,0,3, Full Time,news,Playing as a small forward on Patrick... %s from %D,,,94
+210013,Ashley,McGrath,BL,1,19,-,26,15,21,4,1,1,1,0,1,1,0,0, Full Time,job,Minding Hall... %D,,,93
+230170,Joel,Patfull,BL,0,11,-,16,8,12,3,0,0,1,0,1,1,0,0, Full Time,job,At FB on Bock... %P,,,100
+291828,Billy,Longer,BL,1,10,-,13,12,15,2,0,1,0,5,1,2,0,1, Full Time,news,Played forward to not much effect... %H and %D with %s and %F,,,100
+280572,Jesse,O'Brien,BL,1,9,-,11,9,15,2,3,0,0,0,0,1,0,0, Full Time,news,On in Q2 for Adcock... %O,sub,Started as a sub,26
+292035,Claye,Beams,BL,0,9,-,12,6,9,1,1,0,1,0,0,0,0,0, Full Time,news,On in Q1 for Lester... %D,sub,Started as a sub,45
+240087,Jed,Adcock,BL,0,6,-,8,4,6,2,0,0,0,0,0,0,0,0, Full Time,news,Easing himself into the action without exerting too much... %P,subbed,Subbed off in Q2 for O'Brien,26
+280711,Charlie,Dixon,GC,1,35,-,42,29,38,4,5,1,1,4,1,0,0,1, Full Time,news,%s from %D... also %H,,,100
+230015,Jared,Brennan,GC,7,32,-,44,21,30,3,2,1,4,0,0,0,0,0, Full Time,news,%D and %T,,,97
+250260,Liam,Patrick,GC,2,32,-,42,22,25,6,0,0,2,0,5,0,0,1, Full Time,switch,Given a role in defence on Green in Q1 then switched forward in Q2... %s from %D and %T,,,100
+291304,Daniel,Gorringe,GC,3,30,-,35,28,37,4,4,1,0,10,0,1,0,0, Full Time,news,Starting in the ruck.... %H and %D,,,100
+290627,Dion,Prestia,GC,1,29,-,38,20,30,7,2,0,1,0,0,0,0,0, Full Time,news,%P with %k by foot,,,79
+109,Jaeger,O'Meara,GC,2,27,-,36,18,27,5,2,0,2,0,0,0,0,0, Full Time,news,On in Q1 for Hunt... %O,sub,Started as a sub,48
+220013,Campbell,Brown,GC,6,25,-,36,14,21,1,1,0,5,0,0,0,0,0, Full Time,news,Playing forward... %D and %T,,,95
+296735,Aaron,Hall,GC,1,25,-,32,23,33,4,5,1,1,0,2,2,0,0, Full Time,,,,,85
+220009,Nathan,Bock,GC,6,24,-,29,20,25,2,2,1,1,0,0,0,1,1, Full Time,news,%s from %D at FF on Patfull,,,95
+281085,Steven,May,GC,1,21,-,27,16,21,3,2,1,1,0,1,0,0,0, Full Time,job,Has Brown... %P,,,100
+290832,David,Swallow,GC,1,18,-,24,18,30,4,5,0,1,0,1,3,0,0, Full Time,news,%2 Rockliff.... %D and %F,,,85
+291594,Harley,Bennell,GC,6,18,-,22,14,18,2,1,0,1,0,0,0,1,0, Full Time,news,%s from %O,,,81
+240012,Andrew,McQualter,GC,0,15,-,20,11,15,2,1,1,1,0,0,0,0,0, Full Time,switch,Switched from a HBF in Q1 to a FP on Hawksley in Q2.... %D,,,85
+281076,Hayden,Jolly,GC,1,14,-,17,11,15,3,2,0,0,0,1,0,0,0, Full Time,news,%D,,,71
+281024,Maverick,Weller,GC,1,13,-,19,9,15,2,1,0,2,0,0,1,0,0, Full Time,news,Defensive roles as usual... %D and %T,,,100
+250716,Matthew,Warnock,GC,0,11,-,14,9,10,2,0,1,0,1,1,0,0,0, Full Time,news,%P,,,100
+291942,Jackson,Allen,GC,0,10,-,13,7,9,1,1,0,1,0,1,0,0,0, Full Time,,,,,61
+292512,Karmichael,Hunt,GC,0,9,-,13,8,12,3,0,1,0,0,0,1,0,0, Full Time,tonga,%P,subbed,Subbed off in Q1 for O'Meara,31
+293795,Jeremy,Taylor,GC,0,9,-,12,9,12,2,1,1,0,0,1,1,0,0, Full Time,news,A bit of work in defence but not much TOG... %D,,,100
+294643,Alex,Sexton,GC,0,8,-,11,8,12,2,1,1,0,0,0,1,0,0, Full Time,,,,,95
+290520,Alik,Magin,GC,0,3,-,5,3,6,2,0,0,0,0,0,1,0,0, Full Time,news,%P as a deep forward,,,53
+280722,Zac,Smith,GC,0,2,-,2,2,3,0,1,0,0,0,0,0,0,0, Full Time,news,Played forward on Maguire but one touch the return... not the night for it,,,40

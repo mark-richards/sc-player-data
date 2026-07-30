@@ -1,0 +1,48 @@
+Port Adelaide,Power,Brisbane,Lions,R18,9.17.71,9.8.62, Full Time
+Jul 28,2013,1.10,Footy Park,Seven,250365,10391807,port-v-bl,0,Possible morning shower,17,,
+
+<em style='color:#000'>howeydamus</em>: well done mr adcock<br><em style='color:#000'>Lions1980</em>: The umps won the game not poort<br><em style='color:#000'>gwsfevs</em>: Better than u mutty823<br><em style='color:#000'>Scottie7</em>: @gwsfevs 17 behinds is not classy <br><em style='color:#000'>Woodie</em>: Purple name ;)<br><em style='color:#000'>saints66</em>: farrrk 108. thought would have been higher<br><em style='color:#000'>motty823</em>: port and class shouldnt be used in the same sentance<br><em style='color:#000'>saints66</em>: Whats Hartlett SC?<br><em style='color:#000'>Sewelly07</em>: too much class? lol which is still none<br><em style='color:#000'>Mash</em>: head clash is  hardly a high tackle<br><em style='color:#000'>banta</em>: pathetic scores<br><em style='color:#000' title="JV_EDT">jv_edt</em>: How long left?<br>
+250365,Travis,Boak,PA,26,109,105,140,83,115,14,13,5,6,0,1,0,0,1, Full Time,star,%D and %T,,,453100,130,505900,87,Centre,1,15,98.3,104.7,3.90,3.12
+261892,Hamish,Hartlett,PA,20,103,108,132,79,108,16,10,5,4,0,1,0,0,3, Full Time,magnet,%2 Redden... %P and %M plus %s,,,364200,102,413400,110,Back Centre,8,16,78.7,88.2,15.98,18.48
+230195,Jay,Schulz,PA,22,98,113,123,86,109,12,9,9,2,1,2,2,2,0, Full Time,heart,Booted %s from %D and %M... accidentally headbutted Yeo in Q1 and came off holding his jaw,goose,Maguire on him,356800,104,375600,88,Forward,28,16,73.5,81.5,2.08,1.86
+270606,Kane,Mitchell,PA,20,96,97,123,73,92,13,6,4,5,0,5,0,1,2, Full Time,news,%O and %M plus %s,,,210000,45,203200,26,Centre,37,9,41.1,39.4,7.14,6.54
+294318,Oliver,Wines,PA,21,93,86,119,72,96,11,9,5,5,0,1,0,1,0, Full Time,news,%P and %M plus %T and %s,,,344500,127,355000,129,Centre,16,16,76.8,77.5,20.42,20.02
+290540,Cameron,O'Shea,PA,15,87,73,112,72,96,11,10,8,3,0,1,1,0,0, Full Time,job,On Staker... %P and %M with %T,,,333000,78,355400,74,Back,13,16,70.6,73.5,3.32,4.32
+280750,Andrew,Moore,PA,20,82,69,101,67,96,11,14,2,3,0,0,1,1,0, Full Time,news,%O and %s,tagger,Tagging Moloney,308100,104,324500,83,Centre,26,9,62.7,63.4,0.20,0.18
+210020,Kane,Cornes,PA,15,80,78,107,61,88,13,7,4,5,0,0,2,0,1, Full Time,news,%P and %M,tagger,Tagging Rich,471500,116,473000,132,Centre,18,15,107.5,107.5,8.29,5.53
+260750,Justin,Westhoff,PA,20,80,89,100,65,84,9,7,3,4,8,2,1,1,1, Full Time,news,Booted %s from %P and %M on Patfull... %H and %T as well,,,403000,98,465500,73,Forward,39,15,90,101.4,7.96,7.54
+261911,Brad,Ebert,PA,19,80,78,107,58,82,12,6,3,6,1,1,1,0,0, Full Time,sore,%D and %M with %T... head split open in a Patfull bump in Q4,rain,Tagged by Raines,517000,163,513700,139,Centre,7,16,101.3,98.4,2.77,0.84
+271078,Matthew,Broadbent,PA,8,75,104,97,56,78,17,5,3,1,0,1,0,0,0, Full Time,job,Starting on a HBF on Crisp... %O,,,360900,85,380000,92,Centre,5,16,72.2,76.4,0.63,0.66
+261230,Matthew,Lobbe,PA,21,74,65,93,58,72,4,4,3,6,21,0,0,0,0, Full Time,news,%H and %P with %T and %M,,,378000,39,414300,58,Ruck,23,13,72.8,78.7,0.83,0.68
+240290,Angus,Monfries,PA,19,73,84,92,57,78,8,9,3,4,0,0,0,1,0, Full Time,news,%D and %T on Yeo,,,385000,118,434500,112,Forward Centre,6,16,80.8,90.3,10.46,13.87
+291962,Chad,Wingard,PA,13,73,110,89,58,80,13,9,1,1,0,1,0,1,2, Full Time,news,%2 Golby off a wing... %P and %s,,,419900,95,457500,77,Centre,20,16,90.4,97.8,6.09,7.82
+270779,Paul,Stewart,PA,9,70,77,91,53,73,11,6,4,3,0,0,0,0,1, Full Time,news,%D and %M plus %T and %s,,,226100,29,223300,20,Forward,14,10,51.8,47,0.42,0.41
+261396,Robbie,Gray,PA,14,61,65,80,45,62,4,8,1,7,0,3,1,0,2, Full Time,news,%s from %P and %T on McGrath,,,366400,80,439800,48,Forward Centre,9,13,68.5,79.5,4.46,4.44
+290156,Jasper,Pittard,PA,8,56,70,68,48,66,8,10,4,0,0,0,0,0,0, Full Time,job,Minding Green... %O including %b by hand,,,222600,15,249400,16,Back,29,9,55.3,62.3,9.51,10.88
+280877,John,Butcher,PA,9,47,61,55,43,58,4,10,2,1,0,1,1,1,1, Full Time,news,%s from %P on Clarke,,,222200,34,259000,48,Forward,11,5,48.4,49.2,0.62,0.41
+280013,Jackson,Trengove,PA,8,46,45,61,33,45,3,5,2,5,0,1,0,0,0, Full Time,job,Standing Brown... %O and %T,,,231300,63,269400,60,Back,12,9,45.4,54,0.50,0.50
+210043,Domenic,Cassisi,PA,3,45,48,57,34,48,5,7,1,3,0,1,0,0,0, Full Time,job,In defence on Bewick... %D and %T,subbed,Subbed off in Q4 for Colquhoun,299700,103,359600,118,Centre,25,6,58.5,66.7,0.26,0.14
+250688,Alipate,Carlile,PA,3,36,63,44,31,42,5,6,3,0,0,0,0,0,0, Full Time,job,Merrett is his man... %D and %M,,,212200,56,280700,87,Back,27,15,49.9,63.1,1.86,0.59
+295054,Sam,Colquhoun,PA,2,24,33,30,20,27,4,3,2,0,0,0,0,0,0, Full Time,news,On in Q4 for Cassisi,sub,Started as a sub,133600,-2,132100,12,Centre Back,30,3,46.7,40,13.30,11.44
+270919,Tom,Rockliff,BL,25,97,111,61,74,111,17,11,3,6,0,0,3,0,0, Full Time,news,%O and %T with %M... also %F,,,433400,25,487600,28,Forward Centre,38,15,95.7,101.7,33.67,29.00
+290110,Mitchell,Golby,BL,15,97,101,61,77,99,16,7,8,2,0,3,0,0,0, Full Time,news,%2 Wingard off a wing... %P and %M plus %T,,,340600,81,355700,95,Back,41,13,72,73.2,0.78,0.49
+281373,Jack,Redden,BL,15,87,101,63,69,97,12,12,4,4,1,1,1,0,0, Full Time,news,%2 Hartlett... %O including %b by hand... also %T with %M,,,437600,96,484800,82,Centre,30,16,94.6,97.3,1.74,0.94
+281329,Rohan,Bewick,BL,16,85,72,60,69,92,12,8,5,3,0,1,1,1,2, Full Time,news,First goal... %s from %O and %M on Cassisi with plenty of clangers among those,,,295900,69,306200,52,Forward,8,14,64.9,66,0.70,0.78
+230170,Joel,Patfull,BL,14,81,103,72,67,87,8,9,9,3,0,0,0,0,0, Full Time,news,%D and %M,job,Following Westhoff,249800,48,332700,69,Back,24,16,54.2,68.3,1.64,1.18
+250335,Matthew,Leuenberger,BL,22,79,88,67,75,89,6,6,4,1,38,1,2,0,0, Full Time,news,%H and %D... also %F,,,430600,86,507100,119,Ruck,23,14,85.9,100.1,15.89,14.89
+230151,Brent,Moloney,BL,19,78,97,56,59,84,11,9,1,5,0,1,1,1,0, Full Time,injured,Tagged by Moore... %P and %T plus %s... pulled left hamstring in Q4,,,371800,104,397300,113,Centre,3,13,82,86.7,6.12,7.48
+240087,Jed,Adcock,BL,13,77,105,54,55,78,12,6,3,5,0,0,0,0,0, Full Time,news,%D and %M plus %T,,,385300,100,431100,100,Back,7,16,80.6,87.5,3.16,2.82
+261224,Dayne,Zorko,BL,15,77,89,45,62,83,13,5,3,2,0,0,1,2,2, Full Time,news,%P and %s,,,331000,95,392800,83,Forward Centre,15,16,73.1,84,13.31,14.99
+220062,Matt,Maguire,BL,13,76,93,47,61,82,13,6,6,2,1,1,1,0,0, Full Time,news,%D and %M with %T,job,Standing Schulz,331600,89,391200,93,Back,36,5,66.2,75.4,0.35,0.19
+200007,Jonathan,Brown,BL,15,68,73,51,60,78,8,8,5,1,0,0,1,2,0, Full Time,news,Kicked %s from %G and %D on Trengove,,,350500,95,360400,103,Forward,16,13,68.1,66.8,1.22,1.49
+292128,Elliot,Yeo,BL,13,66,75,54,54,72,8,7,6,3,0,1,1,0,0, Full Time,job,Minding Monfries... %O and %T with %M,,,254800,64,300400,81,Back,26,13,54.2,59.5,0.57,0.51
+293603,Sam,Mayes,BL,12,66,41,41,55,74,11,6,6,1,0,0,1,0,2, Full Time,news,%P and %M plus %s,,,320500,30,371200,22,Forward Centre,32,12,71.4,71.8,18.02,13.52
+293871,Jack,Crisp,BL,15,56,61,50,44,58,6,3,4,4,0,0,1,1,1, Full Time,news,%s from %P and %T with %M up forward on Broadbent,in,Late replacement for Ryan Lester,255500,,275500,,Centre,47,1,41,27,0.32,0.20
+230211,Brent,Staker,BL,4,55,60,40,43,60,8,6,3,3,0,1,1,0,0, Full Time,switch,Starting forward on O'Shea but often switched back to be loose in defence.... %P and %T with %M,,,308300,29,416800,34,Back Forward,14,9,66.9,87.6,35.27,46.39
+271072,Daniel,Rich,BL,8,52,64,46,39,57,5,9,1,4,0,0,0,0,0, Full Time,tagged,Tagged by Cornes... %O and %T,,,348100,68,433300,95,Centre,10,10,67.9,85.2,1.00,1.35
+295162,Justin,Clarke,BL,5,48,65,45,42,57,4,8,5,2,0,0,1,0,0, Full Time,job,Has Butcher... %D and %M,,,182800,57,244400,44,Back,42,11,43.6,53.9,1.72,3.36
+230147,Daniel,Merrett,BL,9,47,52,44,39,50,4,3,3,3,4,0,1,1,1, Full Time,muppet,Starting at FF on Carlile... %s from %D and %M... also %H and %T,,,264200,58,355000,78,Back Forward,21,12,55.4,71.5,1.56,1.40
+240013,Andrew,Raines,BL,7,45,40,25,39,57,8,8,2,1,0,1,2,0,0, Full Time,tagger,Tagging Ebert... %P... also %F,,,220500,48,223400,35,Centre,29,12,50.6,47.8,0.52,0.56
+290748,Joshua,Green,BL,9,33,41,22,28,42,5,5,0,2,0,0,2,1,0, Full Time,news,%O on Pittard,,,223200,37,263900,35,Forward,6,11,52.3,55.2,0.69,0.46
+210013,Ashley,McGrath,BL,2,28,33,17,23,33,5,3,2,1,0,0,1,0,0, Full Time,job,Starting in defence on Gray... %P and %M,subbed,Subbed off in Q3 for Docherty,191400,54,212000,50,Back Forward,9,16,42.4,48.7,1.25,1.25
+295518,Sam,Docherty,BL,1,18,15,14,14,21,2,4,0,1,0,0,0,0,0, Full Time,news,On in Q3 for McGrath,sub,Started as a sub,185100,27,195500,20,Back,1,8,44.1,47.6,7.30,10.98

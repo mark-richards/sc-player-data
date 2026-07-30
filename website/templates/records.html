@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+{% block title %}Honour Board{% endblock %}
+
+{% block content %}
+<h2 class="mb-4">ASL Honour Board</h2>
+
+{# All-time table #}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">All-Time Records</div>
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table table-hover table-sm mb-0 align-middle">
+        <thead class="table-dark">
+          <tr>
+            <th>Coach</th>
+            <th class="text-center" title="Championships won">🏆 Titles</th>
+            <th class="text-center">Grand Finals</th>
+            <th class="text-center">Finals Apps</th>
+            <th class="text-center">🥄 Spoons</th>
+            <th class="text-center">Seasons</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in all_time %}
+          <tr>
+            <td class="fw-semibold">
+              <a href="/coach/{{ row.coach }}" class="text-decoration-none">{{ row.coach }}</a>
+            </td>
+            <td class="text-center">
+              {% if row.Championships > 0 %}
+                {% for _ in range(row.Championships) %}🏆{% endfor %}
+                <span class="ms-1 text-muted small">({{ row.Championships }})</span>
+              {% else %}
+                <span class="text-muted">—</span>
+              {% endif %}
+            </td>
+            <td class="text-center">{{ row.GF }}</td>
+            <td class="text-center">{{ row.Finals }}</td>
+            <td class="text-center">
+              {% if row.Spoons > 0 %}
+                {% for _ in range(row.Spoons) %}🥄{% endfor %}
+                <span class="ms-1 text-muted small">({{ row.Spoons }})</span>
+              {% else %}
+                <span class="text-muted">—</span>
+              {% endif %}
+            </td>
+            <td class="text-center text-muted">{{ row.Seasons }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+{# Season-by-season results #}
+<div class="card shadow-sm">
+  <div class="card-header fw-semibold">Season Results</div>
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table table-hover table-sm mb-0">
+        <thead class="table-dark">
+          <tr>
+            <th>Season</th>
+            <th>🏆 Champion</th>
+            <th>Runner-up</th>
+            <th>3rd</th>
+            <th>4th</th>
+            <th>🥄 Spoon</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for s in seasons %}
+          <tr>
+            <td class="fw-semibold">{{ s.year }}</td>
+            <td class="text-success fw-semibold">{{ s.champion or "—" }}</td>
+            <td>{{ s.runner_up or "—" }}</td>
+            <td class="text-muted">{{ s.finalist_3 or "—" }}</td>
+            <td class="text-muted">{{ s.finalist_4 or "—" }}</td>
+            <td class="text-danger">{{ s.spoon or "—" }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock %}

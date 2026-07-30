@@ -1,0 +1,48 @@
+West Coast,Eagles,Essendon,Bombers,W1,16.16.112,8.8.56, Full Time
+Feb 19,2012,7.45,Subiaco,Fox Footy,,10330107,,7,Fine,35,,
+
+<em>marcawally</em>: easy win<br><em>Goon_Squad</em>: poor game from the bombers<br><em>m0neyball</em>: dont worry teatowel&#044; i got the joke even if others are too stoopid.<br><em>KraKBabY</em>: @teatowel&#044; take a good hard look at yourself&#044; buddy.<br><em>teatowel</em>: Gerricks only did good because no one is willing to go near him due to the fact he's damp and smells of urine<br><em>Chadwickus</em>: Good game for the young fellas...back to the cricket for me<br><em>JayTRayne</em>: cox&#044; nicnat&#044; waters&#044; kerr&#044; shuey&#044; gaff - fair to say the eagles are missing a few decent players<br><em>J.Bartel</em>: are we getting any new player icons this year? pink pig needs to moved to retired players as well<br><em>john90</em>: This gerrick weedon only plays good against essendon<br><em>Cman</em>: Chadwickus has smashed the nail square on the head<br><em>Torpedo10</em>: Guys&#044; we've lost our Captain&#044; our Rising Star&#044; and Our Vice Captain and there are other.<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Morts54</em>: Boyd was good in both games lastnite<br>
+290932,Gerrick,Weedon,WC,15,55,-,71,41,48,6,0,2,4,0,3,0,2,0, Full Time,news,First goal... %s from %P on Slattery... also %T,,,76
+261290,Chris,Masten,WC,10,50,-,64,40,55,8,4,2,2,0,0,1,1,1, Full Time,news,%P and %M plus %s,,,94
+250034,Ashton,Hams,WC,9,42,-,48,37,46,5,5,1,0,0,1,0,2,1, Full Time,news,%s from %D,,,97
+270953,Ashley,Smith,WC,3,40,-,53,32,39,8,0,5,0,0,1,0,0,0, Full Time,news,%O and %M,,,100
+280441,Patrick,McGinnity,WC,2,36,-,47,27,36,7,2,2,1,0,1,0,0,0, Full Time,news,%D and %M,,,87
+230281,Mark,Nicoski,WC,7,33,-,40,27,34,4,3,1,1,0,1,0,1,1, Full Time,news,More pressure on him to score now post Lecras' injury... %s from %P on Dempsey,,,93
+261209,Josh,Hill,WC,8,31,-,39,27,36,4,3,2,1,0,0,1,1,0, Full Time,news,%s from %O and %M,,,85
+290833,Blayne,Wilson,WC,3,30,-,39,25,30,5,1,4,0,0,1,0,0,0, Full Time,job,Minding McVeigh... %D and %M,,,85
+280324,Jacob,Brennan,WC,2,26,-,32,22,27,4,3,2,0,0,2,0,0,0, Full Time,job,Playing CHB on Crameri... %D and %M,,,93
+291929,Fraser,McInnes,WC,7,24,-,30,18,24,2,2,0,2,0,0,0,1,0, Full Time,,,,,91
+271073,Thomas,Swift,WC,2,22,-,29,19,27,3,3,2,1,0,0,1,0,0, Full Time,news,Has stupid hair.... %P and %M,,,86
+280379,Lewis,Stevenson,WC,2,22,-,29,19,27,5,2,2,0,0,0,1,0,0, Full Time,news,Starting on a wing on Colyer... %O and %M,,,84
+220061,Quinten,Lynch,WC,1,19,-,23,15,21,4,2,0,0,3,0,0,0,0, Full Time,news,Pears on him... %D and %H,,,100
+281080,Brad,Sheppard,WC,1,17,-,22,13,18,4,1,1,0,0,0,0,0,0, Full Time,news,%D,,,86
+280946,Koby,Stevens,WC,0,15,-,18,13,18,0,4,1,1,0,0,0,0,0, Full Time,news,%P,,,91
+240124,Matt,Priddis,WC,1,14,-,17,13,18,3,3,0,0,0,2,1,0,0, Full Time,news,%2 the kid Davis... just one touch in Q1... %D,,,86
+291927,Simon,Tunbridge,WC,0,9,-,12,6,9,1,1,0,1,0,0,0,0,0, Full Time,news,%O,,,78
+280994,Ryan,Neates,WC,0,7,-,8,6,9,1,2,0,0,0,0,0,0,0, Full Time,news,On in Q2... %P,sub,Started as a sub,17
+200074,Darren,Glass,WC,0,6,-,9,6,9,2,0,1,0,0,0,1,0,0, Full Time,job,Standing Carlisle... %P,,,100
+290746,Scott,Lycett,WC,0,6,-,7,7,10,1,1,0,0,4,0,1,0,0, Full Time,news,%H,,,84
+291787,Michael,Mascoulis,WC,6,5,-,6,8,12,1,1,0,0,0,0,2,1,0, Full Time,,,,,87
+295835,Callum,Papertalk,WC,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0, Full Time,,,,,0
+280824,Jake,Melksham,ES,16,55,-,74,44,60,7,3,4,4,0,0,2,1,0, Full Time,news,%O and %M plus %T and %s,,,88
+270588,Cale,Hooker,ES,8,51,-,65,45,60,6,7,6,1,0,0,1,0,0, Full Time,job,Standing the kid McInnes... %M and %D,,,100
+240290,Angus,Monfries,ES,3,43,-,56,31,42,6,4,1,3,0,2,0,0,0, Full Time,news,Starting on a wing against Mascoulis... %P and %T,,,83
+292503,Stewart,Crameri,ES,9,40,-,47,36,43,4,3,3,0,0,0,0,2,1, Full Time,news,At CHF on Brennan... %s from %P and %G,,,100
+290641,Jake,Carlisle,ES,3,37,-,48,31,38,4,2,5,1,1,0,0,0,1, Full Time,news,Started at FF on Glass but soon moved upfield.... %s from %G and %D,,,97
+260073,Ben,Howlett,ES,3,34,-,41,27,36,3,7,0,2,0,3,0,0,0, Full Time,news,%B among %O with %T,,,85
+240245,Courtenay,Dempsey,ES,2,33,-,45,22,30,7,0,1,2,0,1,0,0,0, Full Time,job,Responsible for Nicoski... %D and %T,,,94
+290160,Michael,Hibberd,ES,2,33,-,39,30,42,5,8,1,0,0,2,1,0,0, Full Time,news,Lots of work in the Don defence early... %P,,,83
+250071,Henry,Slattery,ES,2,32,-,44,27,39,7,2,3,1,0,0,2,0,0, Full Time,job,Minding Weedon... %D and %M... also %F,,,100
+280988,Travis,Colyer,ES,8,31,-,39,25,31,6,0,2,0,0,0,0,1,1, Full Time,news,%s from %O and %M in a forward-running role from wing on Stevenson,subbed,Subbed off in Q2 for Merrett,56
+291804,Elliott,Kavanagh,ES,3,30,-,38,26,33,4,3,4,0,0,0,0,0,0, Full Time,,,,,88
+271022,Tayte,Pears,ES,2,29,-,36,24,33,3,5,2,1,0,0,0,0,0, Full Time,job,At CHB on Lynch... %M and %O,,,100
+200026,David,Hille,ES,3,25,-,27,23,29,2,4,0,0,10,0,0,0,1, Full Time,news,%H and %P plus %s,,,93
+280413,Cory,Dell'Olio,ES,7,21,-,24,18,22,3,2,0,0,0,1,0,1,1, Full Time,,,,,100
+292138,Luke,Davis,ES,2,17,-,23,15,21,4,1,2,0,0,0,1,0,0, Full Time,news,%2 Priddis early... %P and %M,,,81
+260004,Brendan,Lee,ES,1,16,-,18,14,21,0,6,0,1,0,0,0,0,0, Full Time,,,,,69
+250267,Patrick,Ryder,ES,0,14,-,18,13,16,3,0,1,0,4,1,1,0,0, Full Time,news,On in Q2 for Long... %H and %P,sub,Started as a sub,48
+261314,David,Myers,ES,1,14,-,18,10,15,4,1,0,0,0,0,0,0,0, Full Time,news,%P,,,91
+295285,Jackson,Merrett,ES,1,13,-,18,8,12,1,1,0,2,0,0,0,0,0, Full Time,,,,,22
+990046,Mark,McVeigh,ES,0,12,-,16,10,15,2,2,0,1,0,1,1,0,0, Full Time,news,Started forward on Wilson... %D,,,100
+291812,Nicholas,O'Brien,ES,0,7,-,10,4,6,1,0,0,1,0,0,0,0,0, Full Time,,,,,74
+281008,Anthony,Long,ES,0,5,-,6,6,9,1,2,0,0,0,1,1,0,0, Full Time,witcheshat,Started in defence and committed a few costly clangers... %D,subbed,Subbed off at QT for Ryder,48

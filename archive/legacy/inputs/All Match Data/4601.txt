@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Sydney,Swans,EF,15.15.105,7.9.51, Full Time
+Sep 6,2013,7.50,MCG,Seven,,10400101,haw-v-syd,0,Fine,22,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: Abbot<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> Karlpov</em>: Who's everyone voting for?<br><em style='color:#000'>J.Worrall</em>: too few contributors&#044; swans<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: Have hawks 1 - 39 in one multi cmon swans 2 more <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> tezzer_j</em>: to think hawks only gave up Gilham to get anderson. Carlton need to learn <br><em style='color:#000'>pietime!</em>: this is turning ugly<br><em style='color:#000'>OnTheRocks</em>: thought birchall would come out of his shell for the finals :(<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: Im 696 lewis and tippett killing me <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> rickybrad</em>: couldnt afford to not have him gigantor<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> Heizenberg</em>: Monty will be loving this <br><em style='color:#000;margin-bottom:-2px'><b class="ticon tBL"></b> 3rdstriker</em>: no buddy&#044; no rioli&#044; no worries<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tRI"></b> rickybrad</em>: coui<br>
+200060,Brent,Guerra,HW,30,118,123,157,91,123,21,6,10,4,0,0,1,0,0, Full Time,cherry,%P and %M with %T,job,Responsible for Mitchell,366600,55,426700,70,Back,18,16,68.8,80.1,1.45,1.12
+291351,Jack,Gunston,HW,31,106,99,135,87,106,13,3,10,3,0,0,0,3,1, Full Time,vulture,Kicked %s from %D and %M on Rampe... also %T... lots of Q4 junk time stats,,,335500,61,382100,67,Forward,19,20,76.7,83,1.79,1.73
+250715,Josh,Gibson,HW,20,103,108,131,86,117,13,14,9,3,0,0,1,0,0, Full Time,heart,%O and %M with %T... left thigh corkie in Q3,job,Zoning off White,297700,97,414700,124,Back,6,21,62.7,78.8,3.20,2.81
+261386,Brendan,Whitecross,HW,20,103,110,135,80,105,13,8,9,5,0,1,0,0,0, Full Time,hot,%O and %M plus %T,,,328300,99,323700,97,Forward Centre,11,10,65.5,61.6,0.40,0.41
+220047,Luke,Hodge,HW,15,100,115,131,79,106,17,7,8,3,0,1,1,0,1, Full Time,star,Swans had no answer to his zoning off tactics... %D and %T with %M,job,Has the resting ruck which is mostly Pyke,444500,132,475200,132,Centre,15,20,90.8,96.7,4.43,5.10
+220036,David,Hale,HW,27,95,105,117,83,104,8,8,6,4,14,1,2,2,0, Full Time,news,%D and %M with %T on Grundy... also %H in ruck support,,,358900,90,413100,74,Forward Ruck,20,21,71.1,83.2,3.26,3.53
+230197,Brad,Sewell,HW,19,92,98,116,71,105,15,15,1,4,0,1,1,0,0, Full Time,news,%2 Kennedy... %P and %T,,,356900,76,379300,81,Centre,12,18,77.2,78.1,0.80,0.72
+240302,Grant,Birchall,HW,18,92,94,114,76,100,14,12,6,1,0,3,0,0,1, Full Time,news,%P and %M plus %s,job,Running off McGlynn,311300,57,405800,87,Back,14,14,80.5,92.1,10.03,10.53
+210012,Shaun,Burgoyne,HW,14,87,101,108,69,96,12,14,3,3,0,2,0,0,0, Full Time,news,%D and %M,job,Bolton is his man,358200,60,403100,76,Back Centre,9,20,78.9,85.2,13.64,8.95
+295584,Bradley,Hill,HW,19,84,66,107,68,88,10,7,7,3,0,0,0,1,1, Full Time,news,First goal... %P and %M plus %s,,,262900,38,273800,42,Centre,10,21,61.6,59.6,3.71,4.70
+220073,Sam,Mitchell,HW,14,83,93,105,70,102,15,14,3,2,0,2,3,0,0, Full Time,news,%2 O'Keefe... %O including %B with %M... %F as well,,,415500,92,489500,114,Centre,5,21,95.5,104.2,15.97,17.25
+280744,Luke,Breust,HW,22,81,65,107,61,80,8,5,4,7,0,2,1,1,2, Full Time,vulture,%s from %O on Smith... also %T and %M... most of his numbers in Q4 garbage time,,,343900,77,395600,75,Forward,22,22,74.1,82.5,3.93,3.17
+240357,Jarryd,Roughead,HW,11,75,96,91,64,78,9,5,5,1,4,1,0,2,2, Full Time,news,Booted %s from %D and %G on Richards... %H as well,,,359300,47,446000,53,Forward Ruck,2,22,86.7,98.5,29.45,28.77
+260710,Paul,Puopolo,HW,19,75,77,94,56,81,9,11,0,5,0,0,0,1,0, Full Time,news,%s from %O and %T on Malceski,,,386300,72,437900,65,Forward,28,19,70.3,75.5,2.34,2.27
+220039,Brian,Lake,HW,18,71,77,90,59,75,10,5,7,1,0,0,0,1,0, Full Time,job,Standing Tippett... %P and %M... also %s,,,320400,51,372400,48,Back,17,18,68.9,78.7,2.22,3.06
+250089,Jordan,Lewis,HW,8,70,68,89,54,75,10,9,3,3,0,1,0,0,0, Full Time,tagged,Tagged by Bird... %O and %T,,,444500,81,482200,80,Forward Centre,3,21,92,96.6,10.73,6.30
+280471,Ben,Stratton,HW,13,67,65,87,56,75,9,7,7,2,0,0,1,0,0, Full Time,job,At CHB on Rohan... %O and %M with %T,,,268700,80,291200,63,Back,24,22,62.1,65.8,2.66,2.12
+280737,Liam,Shiels,HW,14,64,67,81,55,70,9,5,6,1,0,1,1,1,1, Full Time,news,%D and %M plus %s,in,Late replacement for Cyril Rioli,271900,131,303200,133,Centre,26,14,63.4,61.4,0.30,0.72
+250654,Matthew,Spangher,HW,10,54,64,67,44,55,6,5,3,2,1,2,0,1,0, Full Time,news,%s from %D and %M starting forward on Everitt,,,180000,-11,186100,-13,Forward,27,3,66.7,71.3,2.58,4.05
+260472,Max,Bailey,HW,14,47,57,55,43,52,4,3,2,1,16,0,1,1,0, Full Time,news,%H and %P with %M and %s,subbed,Subbed off in Q3 for Anderson,271400,72,308500,85,Ruck,39,16,62.3,72.7,2.94,3.09
+294877,Isaac,Smith,HW,3,40,41,49,33,45,7,6,2,0,0,1,0,0,0, Full Time,news,%2 Hannebery... %O,,,422700,117,434800,128,Centre,16,21,86.4,83,0.79,1.48
+291861,Jed,Anderson,HW,9,38,22,50,31,40,5,1,3,2,0,0,1,1,1, Full Time,news,On in Q3 for Bailey... %D and %s,sub,Started as a sub,188000,49,237100,41,Centre,37,5,44.6,52.6,0.92,1.12
+240226,Kieren,Jack,SY,49,128,152,96,88,129,18,14,0,11,0,2,0,0,0, Full Time,hot,%P and %T,,,430900,96,482700,115,Centre,15,22,101.4,109.3,17.89,10.64
+260382,Josh P.,Kennedy,SY,30,108,134,97,82,119,10,19,1,9,0,2,1,0,2, Full Time,hot,%2 Sewell... %O and %T plus %s,,,428400,96,486400,114,Centre,12,22,91,105.4,8.89,30.24
+261212,Craig,Bird,SY,24,91,100,65,68,102,13,14,1,6,0,0,1,0,0, Full Time,tagger,Tagging Lewis... %O and %T,,,352100,78,386700,97,Forward Centre,14,20,71.5,73,1.60,1.73
+200071,Ryan,O'Keefe,SY,16,80,86,60,66,90,10,11,4,3,0,1,1,1,0, Full Time,news,%2 Mitchell... %O and %T with %M,,,386700,72,406000,114,Centre,5,22,97.9,101.1,5.75,3.17
+290778,Luke,Parker,SY,13,71,98,48,62,88,9,17,2,1,0,2,1,0,1, Full Time,news,%P including %B with %M,,,367200,96,371200,79,Centre,26,22,84.7,86.9,2.19,2.28
+250212,Jesse,White,SY,14,63,67,41,56,73,9,7,5,0,3,0,1,1,1, Full Time,news,Kicked %s from %G and %D on Hodge,,,305500,63,348400,81,Forward,18,12,62,67.6,1.23,0.96
+230132,Nick,Malceski,SY,7,61,94,32,45,66,12,6,1,3,0,1,1,0,0, Full Time,job,Puopolo is his man... %D and %T,,,332300,72,403300,91,Back,9,22,82.6,90.8,12.23,7.95
+291856,Tom,Mitchell,SY,9,60,76,44,48,64,8,7,4,2,0,1,0,0,1, Full Time,news,%s from %P and %M starting forward on Guerra,,,359800,100,346900,92,Centre,6,12,90.2,86.2,24.30,35.62
+230253,Jarrad,McVeigh,SY,8,58,66,31,45,66,11,7,2,2,0,0,1,0,0, Full Time,sore,%O and %M with %T... right knee twisted under him in a Hill tackle late in Q4,,,447700,106,508900,99,Centre,3,22,97.8,106.1,3.51,2.79
+291206,Mike,Pyke,SY,15,54,88,48,53,60,3,5,3,0,20,2,1,1,1, Full Time,news,%s from %D and %M... also %H,,,343000,68,386900,66,Ruck,38,22,74.2,86.5,5.02,4.27
+240072,Heath,Grundy,SY,9,52,67,45,45,63,5,10,4,2,0,0,1,0,0, Full Time,news,%D and %M plus %T,job,Has Hale,235600,77,318000,96,Back,39,22,54,64.1,1.69,1.60
+270742,Kurt,Tippett,SY,11,48,55,42,42,53,4,4,2,2,5,0,1,2,0, Full Time,news,Booted %s from %P and %G on Lake... also %T,,,387000,131,470900,146,Forward,8,10,78.3,89.8,4.62,4.85
+250338,Nick,Smith,SY,9,45,46,49,35,48,2,8,2,4,0,1,0,0,0, Full Time,news,%D and %T with %M,job,Breust is his man,260200,78,331000,88,Back,40,21,57,66,0.71,0.87
+281281,Lewis,Jetta,SY,13,43,35,42,31,39,4,0,3,4,0,0,0,1,0, Full Time,news,On in Q3 for Mumford... %O and %T plus %s,sub,Started as a sub,335300,66,348900,68,Forward Centre,32,10,61.9,61.8,3.89,3.45
+290117,Daniel,Hannebery,SY,3,40,32,30,37,53,5,8,3,1,0,0,2,0,2, Full Time,news,%2 Smith... %P and %M plus %s,,,346000,93,406700,124,Centre,4,21,88.9,95.3,4.18,7.50
+990011,Jude,Bolton,SY,13,37,39,46,28,45,1,8,0,6,0,0,2,0,0, Full Time,news,%D and %T up forward on Burgoyne... %F as well,,,288600,62,319700,81,Forward Centre,24,21,64.4,70.3,2.59,3.40
+291357,Gary,Rohan,SY,13,36,34,40,26,33,2,1,2,4,0,0,0,1,0, Full Time,news,%s from %P at CHF on Stratton,,,215900,64,235600,61,Forward,16,3,32.3,32.7,0.23,0.30
+290307,Dane,Rampe,SY,3,34,57,8,24,39,10,1,0,2,0,0,2,0,0, Full Time,job,Minding Gunston... %O and %T,,,239000,79,281700,90,Centre,43,20,51.6,59.5,3.30,2.73
+210027,Ted,Richards,SY,2,33,50,23,28,39,5,4,3,1,0,0,1,0,0, Full Time,job,At FB on Roughead... %D and %M,,,272400,14,371300,19,Back,25,22,52,69.4,2.57,2.53
+261257,Andrejs,Everitt,SY,2,31,43,4,22,33,9,2,0,0,0,0,0,0,0, Full Time,job,On Spangher... %O,,,291900,62,302300,87,Forward,13,17,60.1,63.4,0.86,0.40
+230140,Ben,McGlynn,SY,1,29,31,13,21,30,6,3,0,1,0,1,0,0,0, Full Time,news,%D on Birchall,,,298100,18,333400,61,Forward,21,19,70.7,72.3,1.13,1.28
+280762,Shane,Mumford,SY,7,29,40,32,31,36,0,3,1,1,21,1,2,0,0, Full Time,news,%H and %P... %F as well,subbed,Subbed off in Q3 for Jetta,417300,68,510200,69,Ruck,41,19,78.1,91.9,3.84,4.91

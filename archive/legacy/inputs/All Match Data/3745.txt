@@ -1,0 +1,48 @@
+Collingwood,Magpies,Western Bulldogs,Bulldogs,R6,15.15.105,8.9.57, Full Time
+May 1,2011,4:40,MCG,Fox Sports,261319,10310607,5502,46,Patchy rain,21
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em>FFScience</em>: wow great score constant<br><em>Barnzy</em>: Swans DT score wasn't fixed up - they missed a tackle and handball<br><em>Constant</em>: 2412 SC im happy :)<br><em>FFScience</em>: 1948 disaster was 2250 avg <br><em>SuperCodge</em>: Melbourne in the 8 lol (for now)<br><em>hipnsholda</em>: happy with 2046 SC&#044; but my DT was appalling with 10 hawks/cats/dockers out = 1570&#044; my lowest in 10 years <br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> HotTiges</em>: lol good one<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> Hydra911</em>: 1987 SC. Could have been a LOT worse.<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> peterbuch</em>: 2142 SC this week... happy with that considering Mitch&#044; Selwood and Buddy on bench with the bye.  1827 DT though :(<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> EZA100</em>: 2083<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> crazyjim</em>: @meger does the lake come with water??<br><em>s327374</em>: 2007 sc<br>
+280965,Steele,Sidebottom,CO,37,128,127,159,112,145,14,14,11,3,0,0,2,3,1, Full Time,star,%s from %O and %M on Murphy... also %T,,
+240700,Heath,Shaw,CO,20,117,116,154,86,120,25,6,6,3,0,0,0,0,0, Full Time,garbage,Ward spent a lot of time on him... %P and %T with %M... racked it up in Q4 garbage time,,
+210058,Andrew,Krakouer,CO,26,113,119,144,85,115,18,8,3,5,0,1,0,2,1, Full Time,hot,%s from %D and %T with %M... moved into midfield in Q2 after Johnson's injury,,
+261799,Sharrod,Wellingham,CO,25,102,84,133,73,104,17,9,2,6,1,1,0,0,1, Full Time,hot,%O and %T plus %s,tagger,Tagging Griffen
+240359,Dale,Thomas,CO,21,99,92,131,76,106,15,9,5,6,0,2,2,0,1, Full Time,garbage,Tagged by Picken... %D and %T plus %M and %s... lots of ball in Q4 junk time,,
+240300,Cameron,Wood,CO,25,97,112,119,78,98,9,6,3,5,29,0,0,0,0, Full Time,news,%H and %P with %T and %M,,
+220105,Dane,Swan,CO,19,96,104,121,76,106,14,14,3,4,1,3,1,0,0, Full Time,news,%2 Boyd... drifted around like he was disinterested... %B among %O with %M and %T,,
+200028,Leigh,Brown,CO,23,95,128,115,80,96,11,4,5,2,6,1,0,4,0, Full Time,superman,Lake on him... %H and %P with %M and %T... also %s all in Q4,,
+220005,Luke,Ball,CO,26,89,95,117,68,93,13,7,3,6,0,3,2,1,0, Full Time,news,%2 Cross... %D and %T with %s and %M... also %F,,
+280104,Jarryd,Blair,CO,25,88,90,114,66,93,10,9,2,7,0,0,1,1,3, Full Time,news,%s from %D and %T on Hill... also %M,,
+260257,Scott,Pendlebury,CO,14,87,103,109,67,93,14,11,2,3,0,2,0,0,3, Full Time,news,%P and %M with %T plus %s,,
+210003,Alan,Didak,CO,15,76,66,95,59,82,11,9,2,3,0,0,0,1,1, Full Time,news,%s from %P and %T on Morris,,
+240232,Ben,Reid,CO,12,65,80,82,54,72,11,7,6,0,0,0,0,0,0, Full Time,job,Standing Jones... %D and %M,,
+260394,Chris,Dawes,CO,11,54,55,69,45,58,7,4,4,2,0,1,1,1,1, Full Time,news,Markovic on him... no touches in Q1... %s from %P and %G with %T,,
+240366,Travis,Cloke,CO,10,52,58,68,40,55,8,3,2,3,1,0,1,1,0, Full Time,news,Followed by Williams... booted %s from %P and %G... also %T,,
+270571,Brad,Dick,CO,8,49,43,61,38,52,9,4,1,1,0,0,0,1,1, Full Time,news,%s from %P... got Murphy as an opponent in Q3,,
+200019,Leon,Davis,CO,4,48,65,64,36,51,10,3,2,2,0,1,1,0,0, Full Time,job,In defence on Gilbee... %O and %T,,
+250683,Simon,Buckley,CO,4,45,34,56,38,51,7,6,4,0,0,0,0,0,0, Full Time,in,%l Chris Tarrant... on in Q2 for Johnson.... %D and %M,sub,Started as a sub
+230263,Nick,Maxwell,CO,3,36,58,44,30,42,6,6,2,0,0,0,0,0,0, Full Time,job,Roughead is his man... %O,,
+240073,Harry,O'Brien,CO,2,29,57,34,25,33,4,6,1,0,0,2,0,0,0, Full Time,brazil,%O,job,Has Cooney
+240419,Alan,Toovey,CO,2,24,45,33,17,27,5,2,0,2,0,0,1,0,0, Full Time,job,Chasing Grant... %D and %T,,
+200021,Ben,Johnson,CO,1,14,20,18,10,15,4,1,0,0,0,0,0,0,0, Full Time,injured,On a wing on Sherman... %P... groin problem in Q1 and shut down,subbed,Subbed off at QT for Buckley
+210049,Daniel,Cross,WB,36,109,109,96,87,123,12,14,7,8,0,1,3,0,0, Full Time,hot,%2 Ball... %O and %M with %T,,
+240156,Ryan,Griffen,WB,26,109,116,73,79,112,18,8,4,7,0,1,1,0,1, Full Time,gun,Tagged by Wellingham... %O and %T with %M,,
+230255,Will,Minson,WB,40,104,111,83,93,110,9,5,2,2,56,0,1,0,0, Full Time,hot,%H and %P with %M and %T,,
+220010,Matthew,Boyd,WB,18,89,108,41,64,94,19,7,1,4,0,1,1,0,1, Full Time,swan,%2 Swan... %P and %T plus %s,,
+200083,Robert,Murphy,WB,9,88,112,37,62,87,20,3,3,3,0,1,0,0,0, Full Time,switch,Minding Sidebottom then switched to Dick in Q3... then went forward in Q4... %D and %M with %T,,
+240325,Justin,Sherman,WB,19,76,80,51,62,82,10,8,1,2,0,0,0,3,1, Full Time,news,On a wing on Johnson... %D and %T plus %s,,
+271439,Liam,Picken,WB,44,76,81,76,53,73,7,4,1,10,1,3,2,1,0, Full Time,tagger,Tagging Thomas... %D and %T plus %s,,
+291545,Mitch,Wallis,WB,9,70,54,44,52,70,12,4,4,3,0,1,0,0,1, Full Time,bubble,Playing a forward role to make the Collingwood backs accountable... %s from %O and %M with %T,,
+230041,Adam,Cooney,WB,15,69,82,44,54,72,11,5,4,2,0,0,0,1,0, Full Time,news,Started forward... %P and %T with %M plus %s,,
+261209,Josh,Hill,WB,15,68,85,51,45,66,11,2,2,7,0,0,1,0,0, Full Time,job,In defence on Blair... %O and %T plus %M,,
+250712,Dale,Morris,WB,10,63,75,56,48,66,7,6,4,5,0,1,1,0,0, Full Time,news,%P and %T with %M,job,Minding Didak
+250601,Lukas,Markovic,WB,12,62,68,40,50,66,10,5,6,1,0,0,0,0,0, Full Time,news,%P and %M,job,On Dawes
+290799,Tom,Liberatore,WB,7,62,74,33,44,63,12,5,1,3,0,1,0,0,0, Full Time,cash,%P and %T,,
+240212,Dylan,Addison,WB,9,57,58,48,49,66,6,9,5,2,0,1,1,0,0, Full Time,news,%P and %T with %M,,
+281078,Liam,Jones,WB,10,56,68,37,50,63,8,4,5,0,4,0,1,1,2, Full Time,news,Booted %s from %G and %P on Reid,,
+280109,Callan,Ward,WB,8,54,62,45,46,66,6,10,3,3,0,1,2,0,0, Full Time,news,Spent a lot of time shadowing Shaw... %D and %M with %T,,
+220039,Brian,Lake,WB,9,48,44,39,35,48,7,1,4,4,0,0,1,0,0, Full Time,job,Has Brown... %M and %O with %T,,
+200080,Lindsay,Gilbee,WB,9,45,53,34,37,49,6,3,3,2,0,0,1,1,1, Full Time,news,Playing forward on Davis... %s from %O and %T with %M,,
+250150,Tom,Williams,WB,3,41,30,38,31,42,4,4,3,3,0,0,0,0,0, Full Time,job,Has Cloke... %D and %M,,
+261319,Jarrad,Grant,WB,8,39,38,29,30,39,5,3,1,2,0,1,0,1,0, Full Time,news,First goal... %s from %D on Toovey... also %T,,
+240029,Brodie,Moles,WB,3,33,18,16,28,37,7,1,4,0,0,0,1,0,1, Full Time,news,On in Q3 for Roughead... %D,sub,Started as a sub
+280012,Jordan,Roughead,WB,0,23,27,17,18,23,3,1,1,1,4,0,0,0,1, Full Time,news,Reid on him... %s from %P... also %H in ruck support,subbed,Subbed off in Q3 for Moles

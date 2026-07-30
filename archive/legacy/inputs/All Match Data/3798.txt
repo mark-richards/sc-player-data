@@ -1,0 +1,48 @@
+St Kilda,Saints,Geelong,Cats,R13,11.6.72,15.10.100, Full Time
+Jun 18,2011,7:10,MCG,Ten,240701,10311305,5564,98,Isolated showers,16,,
+It is under final approval but I don't have an ETA on it.,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,They are updated when I get them.,SC scores?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?
+<em title="IMOCAN">imocan</em>: Started this evening 235 up but with 3 xtra players played. I had Chappy V Johnson & Roo&#044; ended up being 240 up lol<br><em>benny21</em>: Try Roughead and Mundy last week&#044; Bartel and Monty tonight<br><em>GoLions</em>: @hayes7- exact same with me :(<br><em>tom.i52</em>: hayes7 - lol&#044; would be hilarious<br><em>Stoned</em>: bertel coaugt meazels from a kid in the crowd<br><em>tom.i52</em>: fishyyyy<br><em>hayes7</em>: last week mundy... now bartel!<br><em>biglads</em>: just joking tom.i52<br><em>Lodgy</em>: Monty&#044; can mitch duncan be deemed as concussed? not allowed to come back on ground if showing signs of isnt it?<br><em>tom.i52</em>: @biglads - why bartell?<br><em>Daniel1986</em>: I think the only reason Saint are playing so bad is because they want there end of year trip to be in time for schoolies<br><em>Daniel82</em>: Riewoldt & Milne - 2 girls&#044; no cup.<br>
+220023,Nick,Dal Santo,SK,33,133,134,173,97,135,20,12,4,8,3,2,0,0,0, Full Time,gun,%O with %k by foot... also %T and %M,,
+240708,Sam,Fisher,SK,30,120,139,158,95,127,19,8,11,4,1,0,1,0,0, Full Time,hot,Loose in defence and the Cats seem happy to leave him there... %P and %M,,
+261743,Clinton,Jones,SK,38,120,123,151,93,129,11,19,2,9,0,4,1,1,0, Full Time,hot,%P and %T,,
+261323,Ben,McEvoy,SK,42,117,135,141,99,119,6,9,6,6,37,1,0,0,1, Full Time,hot,%H and %D with %M and %T... was everywhere in Q1,,
+240701,Brett,Peake,SK,22,114,110,144,93,120,15,9,9,3,0,0,0,2,0, Full Time,hot,%P and %M,,
+240062,Farren,Ray,SK,21,92,93,117,72,92,10,6,5,5,2,1,0,2,0, Full Time,news,%D and %M plus %T and %s,,
+220034,Jason,Gram,SK,14,88,70,111,71,96,13,11,6,2,0,1,0,0,0, Full Time,news,%O and %M,,
+250340,David,Armitage,SK,25,81,65,103,73,96,12,6,6,2,0,1,4,3,0, Full Time,news,%P and %M with %T and %s,,
+270912,Jack,Steven,SK,15,77,83,94,66,90,11,12,4,1,0,1,1,1,0, Full Time,news,%D and %M,,
+260581,Ryan,Gamble,SK,18,68,65,82,60,76,6,10,6,1,0,1,0,1,1, Full Time,news,%s from %O on Scarlett,,
+250134,Sam,Gilbert,SK,9,65,87,79,59,84,8,15,4,1,0,1,2,0,0, Full Time,job,In defence on Menzel... %P and %M,,
+230084,Brendon,Goddard,SK,7,56,84,65,51,76,7,17,0,1,1,2,2,0,0, Full Time,news,%P with %b by hand,,
+210002,Justin,Koschitzke,SK,10,53,67,66,46,56,5,4,4,2,4,2,1,1,1, Full Time,news,%s from %P and %M on Lonergan... also %H in ruck support,in,Late replacement for Jason Blake
+250703,James,Gwilt,SK,6,52,93,66,41,57,11,6,1,1,0,3,1,0,0, Full Time,ipod,Standing Podisadly... %D,,
+220098,Adam,Schneider,SK,4,50,48,64,39,54,7,6,3,2,0,0,0,0,0, Full Time,sore,Dislocated finger early in Q1.. %O and %M,,
+220075,Leigh,Montagna,SK,7,45,49,62,28,42,7,2,0,5,0,0,0,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q3 for Clarke
+200108,Stephen,Milne,SK,4,44,49,57,34,46,6,4,3,2,0,0,0,0,1, Full Time,news,%D,,
+990004,Steven,Baker,SK,8,44,51,55,36,54,2,11,1,4,0,0,1,0,0, Full Time,news,%O,,
+210001,Nick,Riewoldt,SK,2,29,32,35,26,33,3,4,3,0,1,0,0,0,2, Full Time,cold,No stats in Q1 at CHF on Taylor... %s from %P,,
+240552,Zac,Dawson,SK,3,27,52,34,24,32,1,5,2,2,2,1,1,0,0, Full Time,job,On the resting ruckman which is usually Vardy... %M and %P,,
+230243,Sean,Dempster,SK,7,25,28,35,17,27,2,3,0,4,0,0,1,0,0, Full Time,tagger,Tagging Johnson... %O and %T,,
+230035,Raphael,Clarke,SK,1,24,23,32,17,24,1,3,1,3,0,0,0,0,0, Full Time,news,On in Q3 for Montagna,sub,Started as a sub
+200039,Paul,Chapman,GE,27,106,106,68,91,120,17,8,9,2,0,1,3,2,0, Full Time,garbage,%O and %M plus %s... enjoyed himself in Q4 junk time,,
+200037,Cameron,Ling,GE,30,105,103,81,86,114,13,12,7,4,0,2,1,1,0, Full Time,hot,%P and %M plus %s,,
+230214,Mathew,Stokes,GE,27,105,109,89,87,115,10,15,4,5,0,3,1,2,1, Full Time,star,%s from %O with %T and %M,,
+200131,James,Podsiadly,GE,20,92,85,61,78,96,14,3,9,1,1,1,1,2,2, Full Time,news,Booted %s from %O and %G on Gwilt,,
+291307,Daniel,Menzel,GE,26,91,85,70,78,97,11,4,6,3,0,1,2,4,1, Full Time,x-factor,First goal... %s from %P and %M,,
+230248,Andrew,Mackie,GE,14,90,79,53,74,96,16,6,9,1,0,2,1,0,0, Full Time,news,%P and %M,,
+980064,Brad,Ottens,GE,32,90,95,90,82,103,4,12,4,4,25,1,2,1,0, Full Time,news,%H and %P with %M and %F,,
+200034,Joel,Corey,GE,15,87,92,53,75,109,14,15,4,2,4,0,3,0,0, Full Time,news,%O and %M,,
+200035,Corey,Enright,GE,13,86,99,47,68,90,16,6,7,1,0,1,0,0,0, Full Time,news,%D with %k by foot.. also %M,,
+980037,Matthew,Scarlett,GE,14,80,102,65,64,82,10,5,9,3,0,0,0,0,1, Full Time,job,At FB on Gamble... %D and %M plus %s,,
+261497,Harry,Taylor,GE,14,78,103,51,61,78,13,3,8,2,0,1,0,0,0, Full Time,news,%M and %P,job,Smashing Riewoldt
+281065,Mitch,Duncan,GE,19,74,60,57,58,80,10,6,3,5,0,1,2,1,2, Full Time,heart,On in Q2 for Bartel... %O and %T... concussed when his head hits the ground in a tackle from Koschitzke in Q2 but had to play on with Bartel already subbed off,sub,Started as a sub
+220054,Steve,Johnson,GE,14,72,83,54,60,87,8,17,2,2,0,0,0,0,0, Full Time,tagged,Tagged by Dempster... %P,,
+220058,James,Kelly,GE,14,72,70,49,55,79,11,9,2,4,0,1,1,0,1, Full Time,sore,Twisted left ankle in Q2... %D and %T with %M,,
+990076,David,Wojcinski,GE,8,60,76,38,51,69,9,9,5,0,0,0,0,0,0, Full Time,news,%M and %D,,
+960375,Darren,Milburn,GE,5,57,61,48,47,63,6,8,5,2,0,0,0,0,0, Full Time,sore,Ankle knock in Q4... %D and %M with %T,,
+280959,Nathan,Vardy,GE,11,49,68,39,45,52,4,4,2,0,10,1,0,2,0, Full Time,news,Rotating from FF on Dawson to ruck... %s from %P and %H,,
+250290,Travis,Varcoe,GE,3,45,50,26,35,48,8,4,3,1,0,0,0,0,0, Full Time,news,%P,,
+280822,Taylor,Hunt,GE,3,40,48,23,31,42,7,4,2,1,0,1,0,0,0, Full Time,news,%D,,
+210059,Josh,Hunt,GE,3,38,25,22,33,48,7,5,3,1,0,0,2,0,0, Full Time,news,%M and %D,,
+230125,Tom,Lonergan,GE,0,11,22,7,9,15,2,2,0,1,0,0,1,0,0, Full Time,job,Standing Koschitzke... %P,,
+220007,Jimmy,Bartel,GE,0,2,4,-1,3,6,1,1,0,0,0,0,1,0,0, Full Time,injured,Copped a friendly fire knock in Q1 from Podsiadly and looked groggy,subbed,Subbed off at QT for Duncan

@@ -1,0 +1,48 @@
+Fremantle,Dockers,Adelaide,Crows,R10,12.10.82,17.9.111, Full Time
+Jun 2,2012,4:40,Subiaco,Fox Sports,280506,10341004,430092,0,Sunny,23,,
+
+<em>Cruise on</em>: Lyon has more than a one paced game plan to worry about&#044; Freo have lost their character.<br><em>MickH</em>: @winkipop&#044; hes a forward that averaged below 90 last year and he just pumper out a huge 110&#044; be happy<br><em>doogz</em>: @winki&#044; you complaining about 146 SC???<br><em>JuddMyBud</em>: Winkipop you should be happy with 110 only becace a premo this year mate <br><em>JuddMyBud</em>: Check out the SC on neale <br><em>topgun12</em>: Franklin (C)&#044; Sloane&#044; Dangerfield&#044; Sandi&#044; Stevie J&#044; Chapman&#044; Coniglio&#044; Goddard&#044; Deledio&#044; Maric&#044; J. Rewoldt all played! <br><em>winkipop</em>: pathetic last qtr by danger<br><em>JuddMyBud</em>: Broughts 99 sc I reckon he will ton with the adjustment <br><em>valkorum</em>: @grazz good game&#044; if anyone calls that game ugly I will snap<br><em>johnkay</em>: Ha Ha Gerald Healy just said the Crows could be the best team at the end of the year.. Hype Hyoe Hype...<br><em>bert1</em>: shaws 2nd game so no money yet<br><em>MLSs</em>: sam shaw looks a quaility DG option after R11<br>
+220096,Aaron,Sandilands,FR,39,113,122,132,100,121,11,7,4,2,49,0,1,0,0, Full Time,hot,%H and %P with %T and %M,,
+271015,Matthew,de Boer,FR,31,109,100,140,88,120,9,16,8,7,0,1,1,0,0, Full Time,hot,%P and %M with %T,tagger,Tagging Dangerfield
+292026,Michael,Barlow,FR,27,108,96,136,86,117,14,12,4,5,0,1,1,2,0, Full Time,hot,%P and %T with %M and %s,,
+200045,Luke,McPharlin,FR,21,105,97,134,90,117,11,13,12,3,0,1,1,0,0, Full Time,hot,%P and %M,job,Standing Tippett
+250268,Garrick,Ibbotson,FR,15,98,86,129,77,105,17,7,8,3,0,0,1,0,0, Full Time,news,%2 Vince... %D with %T and %M,,
+230107,Michael,Johnson,FR,19,92,91,120,79,105,17,7,11,0,0,0,2,0,0, Full Time,news,%D and %M... also %F,job,Responsible for Jenkins
+261756,Greg,Broughton,FR,14,90,100,113,74,100,12,12,7,2,0,0,0,0,1, Full Time,tagged,Forward tag on him by Petrenko... %D and %M with %T,,
+280336,Stephen,Hill,FR,25,85,94,112,61,88,14,6,1,6,0,0,1,1,1, Full Time,tagged,Tagged by Vince... %P and %T plus %s,sore,Right shoulder knock in Q3 after a sling tackle by van Berlo
+200032,Matthew,Pavlich,FR,17,83,93,105,70,87,11,3,5,3,0,2,2,3,3, Full Time,news,%s from %D and %M on Talia... also %T,,
+280386,Clancee,Pearce,FR,14,79,68,103,63,87,12,8,6,3,0,0,1,0,0, Full Time,news,%P and %M,job,On a HBF on Wright
+290296,Jesse,Crichton,FR,14,77,74,99,62,84,7,11,5,5,0,2,1,0,0, Full Time,job,Playing a HBF on Douglas... %O and %M with %T,,
+240052,David,Mundy,FR,19,76,67,97,63,84,11,7,6,2,0,0,1,1,0, Full Time,news,%O and %M plus %T and %s,,
+260069,Hayden,Ballantyne,FR,14,75,81,97,58,77,13,4,3,3,0,2,1,1,2, Full Time,sore,%s from %P and %M on Doughty... also %T... left ankle problem in Q3,,
+280726,Tendai,Mzungu,FR,13,65,61,82,58,81,9,11,6,1,0,0,2,0,0, Full Time,mare,%2 Sloane and got smashed all about the park... %D and %M... also %F,,
+230048,Ryan,Crowley,FR,10,63,56,76,53,66,8,6,3,1,0,2,0,2,0, Full Time,tagger,Tagging Thompson... %P and %M plus %s,,
+280416,Chris,Mayne,FR,11,54,64,68,44,54,4,3,4,3,0,0,0,2,0, Full Time,news,Kicked %s from %D and %T with %M on Reilly,,
+240139,Paul,Duffield,FR,8,53,54,69,43,60,12,4,4,0,0,0,1,0,0, Full Time,news,%D and %M,job,Responsible for Callinan
+293535,Lachie,Neale,FR,8,51,73,65,43,60,8,7,4,1,0,0,1,0,0, Full Time,cash,%P and %M on Jaensch,,
+240552,Zac,Dawson,FR,4,38,59,46,35,48,1,10,3,2,0,1,1,0,0, Full Time,job,On Walker... %M and %O with %T,,
+290251,Zachary,Clarke,FR,8,37,35,50,28,37,3,2,2,4,3,1,1,0,1, Full Time,news,%s from %P with %M and %T on Rutten,,
+260315,John,Anthony,FR,2,32,27,44,23,30,3,1,3,3,0,0,0,0,0, Full Time,sore,%D and %T with %M on Shaw... right leg knock in Q2,subbed,Subbed off in Q3 for Crozier
+293651,Hayden,Crozier,FR,0,16,21,21,12,15,2,1,1,1,0,1,0,0,0, Full Time,rookie,First game... on in Q3 for Anthony... %O,sub,Started as a sub
+270963,Rory,Sloane,AD,39,150,178,112,117,153,19,14,5,7,0,4,0,3,0, Full Time,star,First goal... head to head with Mzungu and thrashed him severely... %P and %T with %M and %s,,
+270917,Patrick,Dangerfield,AD,25,110,145,58,90,123,20,12,6,1,0,1,1,1,0, Full Time,gun,Tagged by de Boer... %O and %M plus %s,,
+261384,Matthew,Wright,AD,33,105,111,91,83,108,10,10,4,6,0,1,0,3,0, Full Time,hot,%s from %O and %M on Pearce,,
+250118,Nathan,van Berlo,AD,21,103,93,68,75,108,18,6,5,7,0,0,2,0,0, Full Time,x-factor,%D and %M with %T... also %F,tagger,Tagging Hill
+261138,Jared,Petrenko,AD,19,82,89,64,62,86,10,9,2,5,1,0,0,1,1, Full Time,news,%s from %P and %T,tagger,Forward tag on Broughton
+280506,Taylor,Walker,AD,22,82,121,65,73,91,9,5,6,2,0,0,2,4,1, Full Time,news,%s from %P and %T on Dawson... also %M,,
+270811,Sam,Jacobs,AD,18,78,78,52,67,82,11,4,7,0,16,0,0,0,0, Full Time,news,%H and %D with %M,,
+290211,Sam,Shaw,AD,14,78,77,48,60,78,14,2,8,2,0,0,0,0,0, Full Time,bubble,%O and %M with %T,job,Running off Anthony
+261142,Bernie,Vince,AD,9,77,58,42,61,81,14,8,3,2,0,5,1,0,0, Full Time,news,%2 Ibbotson... %O,reported,Reported for striking Clarke off the ball in Q3
+230174,Jason,Porplyzia,AD,19,72,62,53,58,82,10,8,3,4,0,0,2,1,1, Full Time,news,%s from %D and %T with %M,,
+240370,Richard,Douglas,AD,9,70,79,26,56,76,16,5,4,0,0,2,1,0,1, Full Time,news,%P and %M on a HFF on Crichton,,
+210016,Scott,Thompson,AD,13,65,58,54,52,73,7,11,2,4,0,2,1,0,1, Full Time,creepy,Tagged by Crowley... %B among %D... also %T and %s... went forward to try to break the tag in Q4 but that didn't help,,
+200092,Michael,Doughty,AD,10,61,66,54,46,63,7,5,4,5,0,1,1,0,0, Full Time,job,Has Ballantyne.... %O and %T with %M,,
+270742,Kurt,Tippett,AD,10,61,79,46,50,62,7,4,2,2,17,1,0,0,0, Full Time,news,%P and %T on McPharlin... also %H,,
+261857,Ian,Callinan,AD,10,57,84,40,48,63,7,7,2,1,0,0,0,2,0, Full Time,news,%s from %D and %M on Duffield,,
+220086,Brent,Reilly,AD,5,54,48,36,45,63,9,5,5,2,0,0,2,0,0, Full Time,job,Following Mayne... %O and %T with %M,,
+294828,Josh,Jenkins,AD,9,49,46,44,43,52,4,5,5,1,0,1,0,1,1, Full Time,cash,Kicked %s from %P and %M on Johnson,subbed,Subbed off in Q3 for Johncock
+220093,Ben,Rutten,AD,4,47,42,38,40,54,5,8,4,1,0,0,0,0,0, Full Time,job,Standing Clarke... %P,,
+261351,Matthew,Jaensch,AD,8,45,49,38,31,42,6,1,3,4,0,0,0,0,0, Full Time,job,Neale is his man... %D and %T with %M,,
+291748,Brodie,Smith,AD,2,35,41,21,27,36,6,3,2,1,0,1,0,0,0, Full Time,news,%D,,
+210056,Graham,Johncock,AD,7,24,33,18,21,24,3,0,3,0,0,0,0,1,0, Full Time,news,On in Q3 for Jenkins... %s from %D and %M up forward,sub,Started as a sub
+280934,Daniel,Talia,AD,1,19,43,12,16,24,3,4,0,1,0,1,1,0,0, Full Time,job,Chasing Pavlich... %O,,

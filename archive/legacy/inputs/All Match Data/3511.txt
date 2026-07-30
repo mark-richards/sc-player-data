@@ -1,0 +1,48 @@
+Richmond,Tigers,Sydney,Swans,R14,14.5.89,12.13.85, Full Time
+Jul 04,2010,2:10,MCG,Seven,980073,10281407,5015590,5179,,
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>buddy</em>: Why Brutus Why?<br><em>sstork!</em>: wats goin on with goodes this yr he is past it !!!<br><em>lids#3</em>: star?<br><em>brutus76</em>: Playfair... back spasms<br><em>brutus76</em>: Thats his team. he chose them... I still love him tho<br><em>snozza</em>: The eagles will win next week. trust me.<br><em>brutus76</em>: He has Newman&#044; Deledio&#044; Thursfield&#044; Riewoldt and Edwards and has Vickery and Dylan Grimes as reserves<br><em>hawk2010</em>: poor kid brutus<br><em>LachieGun</em>: what happened to playfair anyone?<br><em>hawk2010</em>: brutus ur son is a waynker<br><em>tigermania</em>: the eagles wont win again this year trust me<br><em>snozza</em>: themselves together<br><em>tigermania</em>: kennelly retire please&#044; effective immediately<br>
+260105,Daniel,Connors,RI,30,116,107,152,90,120,18,8,10,4,0,0,0,0,0, Full Time,hot,Head to head with O'Keefe... %O and %M with %T
+240707,Daniel,Jackson,RI,44,112,98,155,76,108,14,6,3,13,0,3,2,0,0, Full Time,hot,Tagging McVeigh... %O and %T with %M
+210048,Chris,Newman,RI,21,101,119,132,79,102,18,2,7,3,0,1,1,2,0, Full Time,superman,%P and %M with %T... also %s all in Q4
+290847,Dustin,Martin,RI,30,96,81,129,73,99,13,5,6,7,0,1,2,1,0, Full Time,news,Head to head with Hannebery... %P and %M plus %T
+240336,Brett,Deledio,RI,15,95,87,119,75,106,14,14,4,3,0,0,0,0,1, Full Time,heart,Hyperextended an elbow in Q2 and he was in a lot of pain... back on later in Q2... %D and %T plus %M and %s
+250662,Will,Thursfield,RI,24,93,94,119,77,99,8,11,10,4,0,1,0,0,0, Full Time,job,Following Goodes... %P and %T plus %M
+250395,Jack,Riewoldt,RI,27,92,92,115,80,96,12,0,7,2,2,0,2,5,1, Full Time,news,Booted %s from %D and %G on Roberts-Thomson then Grundy in Q2
+230279,Kelvin,Moore,RI,14,86,87,112,67,90,13,7,7,3,0,0,0,0,0, Full Time,job,Sitting on Goodes... %M and %D with %T
+200109,Shane,Tuck,RI,24,85,75,112,59,87,8,11,1,9,0,0,0,0,0, Full Time,news,%O and %T
+260104,Andrew,Collins,RI,28,82,118,106,64,81,8,3,4,6,0,1,1,3,0, Full Time,x-factor,%D and %T with %M... his %s all came late in Q4 to give the Tigers the lead and the win!
+270896,Trent,Cotchin,RI,13,70,97,90,52,73,8,9,2,5,1,1,0,0,0, Full Time,kirk,Tagged by Kirk... %D and %T
+290198,David,Astbury,RI,9,69,73,85,60,82,9,12,5,1,0,1,1,0,1, Full Time,job,Standing Playfair... %B among %P with %M
+260146,Angus,Graham,RI,11,65,69,80,56,70,5,5,4,3,19,0,1,0,0, Full Time,news,%H and %P
+960662,Ben,Cousins,RI,8,60,71,70,51,72,5,16,1,2,0,2,0,0,0, Full Time,tagged,Tagged by Bird... %B among %D
+260970,Mitch,Farmer,RI,10,55,69,68,46,64,5,9,2,3,0,0,1,1,1, Full Time,news,%s from %D with %M and %T
+260930,Shane,Edwards,RI,7,54,72,70,41,60,11,6,1,2,0,1,1,0,0, Full Time,news,%O
+261910,Ben,Nason,RI,10,52,51,68,41,54,9,2,3,2,0,1,1,1,0, Full Time,news,%s from %P on Mattner
+230216,Richard,Tambling,RI,5,50,46,65,42,57,6,6,5,2,0,0,1,0,0, Full Time,tagged,Tagged by Jack... %O
+271437,Jake,King,RI,19,50,56,69,36,52,2,6,1,8,1,2,2,0,0, Full Time,tagger,Forward tag on Malceski... %P and %T
+280747,Ben,Griffiths,RI,13,42,46,54,31,39,3,3,1,4,0,2,0,1,0, Full Time,news,Grundy on him... %T
+240389,Matt,White,RI,3,39,41,53,29,42,6,3,2,3,0,0,1,0,0, Full Time,news,%P and %T
+270941,Tyrone,Vickery,RI,3,32,33,38,28,34,2,4,2,1,7,1,0,0,0, Full Time,news,%H and %D
+990011,Jude,Bolton,SY,33,130,130,117,100,138,12,20,5,9,0,3,0,0,0, Full Time,hot,%P and %M
+200071,Ryan,O'Keefe,SY,50,125,145,100,92,133,17,12,4,11,0,2,3,0,1, Full Time,gun,Head to head with Connors... %O and %T with %M and %s
+200023,Rhyce,Shaw,SY,20,101,86,69,77,101,16,5,8,4,0,1,0,0,2, Full Time,hot,%D and %M plus %s
+290117,Daniel,Hannebery,SY,19,98,103,82,79,108,11,13,7,5,0,1,1,0,0, Full Time,news,Head to head with Martin... %B among %P with %M and %T
+980073,Adam,Goodes,SY,26,95,71,73,79,96,12,3,10,2,0,0,0,2,3, Full Time,news,Moore on him... %s from %P and %M with %T... quiet first half but fired up in the second half
+280762,Shane,Mumford,SY,33,92,114,96,72,90,4,8,0,8,24,2,0,1,0, Full Time,news,%H and %P plus %T and %s
+230253,Jarrad,McVeigh,SY,21,90,113,72,75,99,9,12,3,3,0,0,0,3,0, Full Time,tagged,Tagged by Jackson... %D and %M
+230140,Ben,McGlynn,SY,24,89,75,69,67,85,12,3,6,5,0,2,0,1,1, Full Time,news,%s from %P with %M and %T
+230132,Nick,Malceski,SY,13,76,76,50,60,80,12,6,6,2,1,0,0,0,1, Full Time,crown,Forward tag on him by King... %O and %M with %T
+240226,Kieren,Jack,SY,20,70,58,53,59,87,9,12,2,4,0,0,3,1,0, Full Time,tagger,Tagging Tambling... %D and %s
+220063,Martin,Mattner,SY,14,69,60,56,54,75,9,7,4,5,0,2,2,0,0, Full Time,sore,Minding Nason... %D and %M with %T... right knee corkie late in Q4
+250338,Nick,Smith,SY,13,69,87,52,56,75,9,8,6,2,0,0,0,0,0, Full Time,news,%O and %M
+220089,Lewis,Roberts-Thomson,SY,9,63,106,47,54,69,9,4,9,1,0,0,1,0,0, Full Time,job,Moved off Riewoldt to Griffiths in Q2
+261212,Craig,Bird,SY,7,61,33,35,46,69,11,8,1,3,0,0,1,0,0, Full Time,tagger,Tagging Cousins... %P and %T
+291206,Mike,Pyke,SY,16,61,53,64,55,63,2,4,3,3,21,2,1,1,0, Full Time,canada,%H and %D with %T and %s which was his first goal in the seniors
+250080,Jarred,Moore,SY,11,60,76,54,49,63,5,6,3,3,0,0,0,2,0, Full Time,news,%s from %P
+240072,Heath,Grundy,SY,10,55,55,46,40,54,7,3,4,4,0,0,0,0,0, Full Time,job,Moved from Griffiths to Riewoldt in Q2... %M and %O with %T
+260382,Josh P.,Kennedy,SY,8,52,24,31,43,60,9,6,4,1,0,0,1,0,0, Full Time,news,%D
+990114,Brett,Kirk,SY,9,51,69,53,44,63,3,11,3,4,0,1,2,0,0, Full Time,tagger,Tagging Cotchin... %P including %B
+270570,Trent,Dennis-Lane,SY,10,44,22,40,38,49,4,4,4,2,0,0,1,1,1, Full Time,rookie,First game... %s from %P
+200096,Tadhg,Kennelly,SY,2,32,40,12,29,43,7,6,1,0,0,1,2,0,1, Full Time,news,%P
+220080,Henry,Playfair,SY,3,29,20,21,25,31,4,2,4,0,0,0,0,0,1, Full Time,injured,%s from %D and %G on Astbury... got a knee in the back in Q2 which caused back spasms that ended his day

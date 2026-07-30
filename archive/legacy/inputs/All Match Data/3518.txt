@@ -1,0 +1,48 @@
+Sydney,Swans,North Melbourne,Kangaroos,R15,12.13.85,7.13.55, Full Time
+Jul 11,2010,1:10,SCG,Fox Sports,,10281506,,5186,A little rain,18
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>no eyedeer</em>: Now leave Goodes in the mids for the season Roosey! Should have done it weeks ago!!<br><em>skystyler</em>: thats more like it Adam.<br><em>tigermania</em>: lol giblett<br><em>iffy</em>: lol @ gibblet<br><em>Ice Cold</em>: Tadhg's 1st Sc ton for the year .  Who hoo!<br><em>Inzy</em>: rok putting in some mega spud games this season<br><em>swan__007</em>: goodes 173sc<br><em>barlowgun</em>: nice work Kennelly<br><em>Gibblet</em>: ROk "C"ertified "U"tter "N"ob "T"ickler<br><em>beerbandit</em>: wow<br><em>beerbandit</em>: 173<br><em>Juggalo</em>: 171<br>
+980073,Adam,Goodes,SY,43,158,173,199,130,168,20,13,11,5,1,1,1,3,2, Full Time,star,Started in midfield on Garlett then got Wells in Q3... %O and %T plus %M and %s... his burst at the start of Q4 sealed the win
+200096,Tadhg,Kennelly,SY,20,119,138,150,97,132,20,14,9,1,0,0,0,0,0, Full Time,hot,Has Adams... %D including %B
+220089,Lewis,Roberts-Thomson,SY,26,119,119,155,98,124,15,8,15,3,0,0,0,0,1, Full Time,hot,Standing Petrie... %O and %M plus %s
+230132,Nick,Malceski,SY,21,111,129,136,93,126,18,16,5,1,0,3,1,1,0, Full Time,gun,%O and %M plus %s
+990114,Brett,Kirk,SY,49,110,127,144,78,108,6,13,2,13,0,2,0,1,0, Full Time,hot,Tagging Swallow... %P and %T with %M and %s
+290117,Daniel,Hannebery,SY,19,98,95,126,79,106,13,11,7,4,0,2,1,0,1, Full Time,news,%s from %P and %M on Firrito
+230010,Paul,Bevan,SY,25,94,94,121,77,100,9,9,8,5,0,1,1,1,1, Full Time,news,%D and %M plus %T and %s in a HFF role
+230140,Ben,McGlynn,SY,20,94,101,120,73,94,11,8,5,5,0,3,0,1,1, Full Time,x-factor,First goal... %s from %O and %M with %T on Pratt... his excellent Q1 set up the Swans win
+240072,Heath,Grundy,SY,14,90,99,116,72,96,16,7,8,1,0,0,0,0,0, Full Time,job,Standing Hansen... %M and %D
+280762,Shane,Mumford,SY,27,89,88,99,85,103,4,13,4,1,30,1,1,1,1, Full Time,news,%H and %P plus %s
+260382,Josh P.,Kennedy,SY,20,88,87,113,68,97,10,13,3,6,0,1,1,0,1, Full Time,news,Head to head with Bastinac... %D
+261031,Brett,Meredith,SY,14,79,72,101,65,85,10,8,8,2,0,0,0,0,1, Full Time,news,%P and %M
+200023,Rhyce,Shaw,SY,15,70,54,87,59,78,13,5,4,0,0,0,1,2,0, Full Time,job,Following Campbell... %D and %M
+990011,Jude,Bolton,SY,9,67,100,82,59,82,6,15,3,3,0,3,2,0,1, Full Time,news,%B among %P
+200071,Ryan,O'Keefe,SY,14,66,58,85,59,91,11,14,2,3,0,1,5,0,1, Full Time,tagged,Tagged by Greenwood... %O and %M with %T and %F
+250080,Jarred,Moore,SY,5,64,67,83,50,66,8,6,5,3,0,1,0,0,0, Full Time,news,%D and %M with %T
+240226,Kieren,Jack,SY,24,61,57,81,50,75,7,9,1,6,0,1,4,1,0, Full Time,tagger,Tagging Harvey... %D and %T plus %s... also %F
+291206,Mike,Pyke,SY,15,61,70,75,54,65,1,6,5,4,17,1,1,0,0, Full Time,canada,%H and %P with %M and %T
+250338,Nick,Smith,SY,8,58,97,69,49,69,7,13,2,1,0,1,0,0,0, Full Time,job,Following Thomas... %O and %M
+270570,Trent,Dennis-Lane,SY,10,51,58,64,43,54,6,4,5,1,0,0,0,1,0, Full Time,bubble,Second game... %s from %O and %M on Tarrant
+210027,Ted,Richards,SY,5,48,38,64,39,52,7,3,5,2,0,0,1,0,1, Full Time,news,Started at CHF on Tarrant then got Thompson... %s from %P and %M with %T
+230253,Jarrad,McVeigh,SY,7,27,30,37,19,30,2,4,0,4,0,0,1,0,0, Full Time,tagged,Tagged by Rawlings... %P and %T
+960491,Brent,Harvey,NM,15,97,107,50,76,104,19,8,4,3,0,4,2,0,2, Full Time,tagged,Tagged by Jack... %P and %T with %s
+280863,Ryan,Bastinac,NM,21,96,87,62,70,94,16,4,4,5,0,1,0,1,1, Full Time,news,Head to head with Kennedy... %D and %M with %T plus %s
+271129,Todd,Goldstein,NM,23,95,85,78,79,94,10,2,5,4,19,2,1,2,0, Full Time,news,%H with %P and %M plus %s
+990055,Brady,Rawlings,NM,14,89,93,48,69,96,16,11,3,2,0,2,0,0,0, Full Time,tagger,Tagging McVeigh... %P and %M
+250285,Leigh,Adams,NM,20,86,102,65,65,90,11,10,2,5,0,1,0,1,0, Full Time,sore,%s from %P with %M and %T on Kennelly... split his head open in a clash going for a loose ball in Q4
+230141,Hamish,McIntosh,NM,21,83,79,75,71,87,8,3,8,4,18,1,2,0,0, Full Time,news,%H and %D
+280864,Sam,Wright,NM,13,67,71,47,61,82,10,8,8,1,0,1,3,0,1, Full Time,news,%D and %M
+280921,Ben,Cunnington,NM,12,67,71,61,60,78,5,13,7,1,0,1,0,0,0, Full Time,news,%P and %M
+240417,Andrew,Swallow,NM,14,59,82,59,42,60,5,7,1,7,0,2,1,0,0, Full Time,kirk,Tagged by Kirk... %P and %T
+260711,Ed,Lower,NM,20,59,53,69,40,60,3,7,1,9,0,0,1,0,0, Full Time,news,%P and %T
+230232,Daniel,Wells,NM,4,53,65,34,40,57,9,5,2,3,0,1,1,0,0, Full Time,news,Moved to Goodes in Q3... %D
+230272,Michael,Firrito,NM,14,52,64,50,39,58,5,7,1,6,0,1,2,0,1, Full Time,job,Minding Hannebery... %P and %T
+261909,Lindsay,Thomas,NM,15,51,44,45,41,55,6,2,4,4,0,0,2,1,1, Full Time,news,%s from %O and %M on Smith
+261228,Ben,Warren,NM,3,49,36,31,34,46,9,0,3,3,0,0,0,0,1, Full Time,news,%P and %T
+270325,Robbie,Tarrant,NM,4,40,62,29,32,45,6,4,3,2,0,0,1,0,0, Full Time,rookie,First game... moved frrom Richards to Dennis-Lane in Q2... %P
+270861,Levi,Greenwood,NM,8,37,15,29,29,45,6,3,2,4,0,0,3,0,0, Full Time,tagger,Tagging O'Keefe... %T
+240189,Matt,Campbell,NM,9,36,50,25,29,39,5,2,0,2,0,0,1,2,0, Full Time,news,%s from %P on Shaw
+250373,Lachlan,Hansen,NM,3,36,42,22,30,37,6,2,4,0,0,1,0,0,1, Full Time,cold,Grundy keeping him very quiet... Petrie taking his space...%s from %P and %M
+281395,Scott D.,Thompson,NM,3,36,69,28,32,43,4,7,2,1,0,2,1,0,1, Full Time,job,Shifted to Richards in Q2... %D and %M
+210023,Drew,Petrie,NM,2,29,48,22,21,30,4,3,1,2,0,0,0,0,0, Full Time,sore,%D on Roberts-Thomson... looked very sore in the right foot in Q2
+210039,Daniel,Pratt,NM,1,21,29,10,17,24,4,3,1,0,0,0,0,0,0, Full Time,job,On McGlynn... %D
+271300,Cruize,Garlett,NM,1,14,12,8,14,21,2,5,0,0,0,1,1,0,0, Full Time,job,Started on Goodes but moved off him in Q3... %P

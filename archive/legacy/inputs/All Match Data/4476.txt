@@ -1,0 +1,48 @@
+St Kilda,Saints,Western Bulldogs,Bulldogs,R9,15.11.101,17.8.110, Full Time
+May 25,2013,4.40,Docklands,Seven,220075,10390904,stk-v-wb,0,Roof closed,18,,
+
+<em>schmicko</em>: sc gods pulling some false strings!<br><em>gogriff</em>: lol jones sc<br><em>23rookie23</em>: @mijg he has 30 possies and 2 goals so fair I reckon.<br><em>Crossy123</em>: Boyd the beast<br><em>Heizenberg</em>: gwilt and jones sc wtf<br><em>danmaio</em>: goodes stopped last qt&#044;  <br><em>Heizenberg</em>: omg griffen sc god <br><em>essendon-4</em>: jones*<br><em>essendon-4</em>: WTF jone 61 supercoach?/<br><em>frenzy</em>: goodes dun flowerall 2nd half and got inflated<br><em>matthius</em>: goodes -5 that qtr. lol<br><em>cashcow</em>: liam jones sc.. LOL<br>
+220075,Leigh,Montagna,SK,37,126,134,160,100,130,16,11,6,6,0,4,1,2,1, Full Time,hot,%P and %T plus %M and %s,,,494500,102,550300,112,Centre,11
+270912,Jack,Steven,SK,26,111,133,140,92,120,15,12,8,3,0,3,1,1,0, Full Time,hot,Matched up on Boyd... %D and %M with %T,,,449400,41,500700,51,Centre,3
+293846,Sebastian,Ross,SK,20,87,86,110,67,94,8,14,3,6,0,1,0,0,1, Full Time,cash,%s from %P with %T and %M,,,230100,-8,246200,9,Centre,6
+280933,Dylan,Roberton,SK,18,83,82,108,65,84,10,7,7,4,0,2,0,0,0, Full Time,news,%P and %M with %T,job,Running off Stringer,352600,61,426900,86,Back,17
+210001,Nick,Riewoldt,SK,21,80,80,98,71,83,11,1,7,0,0,1,1,4,2, Full Time,concussed,First goal... %s from %P and %M on Morris... ran his head into the shoulder of Picken in Q4 which left him dazed,,,545200,119,607400,132,Forward,12
+294818,Ahmed,Saad,SK,27,80,84,106,57,76,5,6,3,9,0,1,0,1,1, Full Time,egypt,%s from %O and %T on Johannisen... also %M,,,251800,42,261000,50,Forward,21
+240708,Sam,Fisher,SK,13,77,84,98,62,83,11,8,6,2,2,0,0,0,0, Full Time,tagged,Forward tag on him by Addison... %D and %M,,,360400,35,429100,60,Back,25
+220023,Nick,Dal Santo,SK,13,70,83,86,59,75,13,6,3,0,3,4,1,1,0, Full Time,tagged,Tagged by Lower... %P and %M plus %s,,,383900,77,398500,56,Centre,26
+990028,Lenny,Hayes,SK,15,69,55,93,50,71,7,6,3,7,1,0,1,0,1, Full Time,injured,%2 Liberatore... %O and %T with %M and %s... left calf injury in Q3,subbed,Subbed off at 3QT for Webster,464800,93,495100,95,Centre,7
+261323,Ben,McEvoy,SK,12,67,80,83,55,70,2,8,4,5,13,0,0,0,0, Full Time,news,%H and %D with %T,,,445900,101,550800,132,Ruck,5
+294266,Tom,Hickey,SK,15,66,67,79,61,80,5,10,4,2,17,0,2,0,0, Full Time,news,%H and %P with %M,,,259400,43,294700,51,Ruck,1
+240062,Farren,Ray,SK,14,64,68,80,53,69,9,6,5,1,0,0,0,1,0, Full Time,news,%O and %M,,,348000,69,316500,52,Centre,22
+250036,Beau,Maister,SK,11,63,66,82,53,67,8,4,5,3,0,3,2,1,1, Full Time,news,%s from %G and %D on Roughead then got Williams in Q3,,,257400,112,254500,100,Forward,37
+261743,Clinton,Jones,SK,21,60,43,85,47,69,9,3,2,7,0,2,5,1,0, Full Time,in,Late replacement for David Armitage... %O and %T... %F as well,tagger,Tagging Griffen,426000,107,453500,109,Centre,4
+230243,Sean,Dempster,SK,5,59,46,80,44,60,11,2,4,3,0,1,1,0,0, Full Time,job,Responsible for Murphy... %D and %T with %M,sore,Smashed in the torso by Stevens in a contest in Q2 which left him sore,332200,70,379900,78,Back,24
+293815,Arryn,Siposs,SK,15,59,65,75,48,66,5,7,1,5,0,1,2,2,0, Full Time,news,Trying to keep Goodes honest... %s from %P and %T,,,293100,100,309400,95,Forward,2
+200108,Stephen,Milne,SK,10,52,51,70,42,56,8,1,4,3,0,0,2,1,2, Full Time,news,%s from %D and %M on Picken,,,260500,62,292100,53,Forward,44
+250703,James,Gwilt,SK,8,52,95,68,45,66,7,9,3,3,0,1,3,0,0, Full Time,job,Standing Williams... %P,,,293800,34,373300,21,Back,33
+260113,Jarryn,Geary,SK,4,44,58,54,39,51,5,7,5,0,0,0,0,0,0, Full Time,news,Donuts in Q1... %D and %M,job,Chasing Dahlhaus,304000,60,355600,90,Back,14
+291773,Jack,Newnes,SK,3,38,37,50,31,42,7,3,3,1,0,1,1,0,0, Full Time,news,Matched up on Macrae... %P and %T,,,242100,-19,285500,4,Centre,16
+280317,Rhys,Stanley,SK,3,35,51,46,29,39,8,2,3,0,0,1,1,0,0, Full Time,job,Standing Jones... %P and %M,,,227500,71,330300,102,Forward,28
+290757,Jimmy,Webster,SK,1,24,24,33,16,21,4,0,1,2,0,1,0,0,0, Full Time,cash,On after 3QT for Hayes... %D,sub,Started as a sub,108500,-29,115900,-48,Back,29
+220010,Matthew,Boyd,WB,36,144,155,92,108,154,24,14,6,7,1,0,1,0,0, Full Time,magnet,Matched up on Steven... %O and %M with %T... massive Q2 as the Dogs overpossessed it,,,482000,141,508200,161,Centre,5
+280946,Koby,Stevens,WB,38,139,127,101,115,148,18,13,8,4,0,3,1,3,1, Full Time,star,His best game in the seniors... %P and %M plus %T and %s,,,281500,38,315500,43,Centre,25
+294101,Jason,Johannisen,WB,15,95,89,59,75,99,16,7,8,2,0,1,0,0,0, Full Time,southafrica,%D and %T with %M,job,Chasing Saad,234700,35,294400,36,Back,39
+240156,Ryan,Griffen,WB,20,91,136,49,78,109,15,15,1,1,1,2,2,2,0, Full Time,tagged,Tagged by Jones... %P and %s,,,476000,89,544900,55,Centre,16
+230255,Will,Minson,WB,33,88,109,75,80,95,6,7,1,2,46,1,1,0,1, Full Time,news,%H and %P plus %s,,,410600,56,548500,82,Ruck,27
+240212,Dylan,Addison,WB,23,88,99,73,71,85,9,3,4,4,0,2,0,4,1, Full Time,x-factor,Forward role on Fisher... %s from %P with %M and %T,,,304900,74,319800,55,Back Forward,22
+294556,Nathan,Hrovat,WB,20,83,86,62,64,87,11,8,4,4,0,0,0,1,0, Full Time,rookie,First game... %P and %M plus %T and %s,,,107200,,114500,,Centre,24
+261160,Brett,Goodes,WB,24,76,86,62,59,84,9,10,1,6,0,2,2,1,0, Full Time,cash,%B among %D with %T,switch,Running off Siposs... switched forward in Q3,304000,63,354700,69,Centre Back,44
+200083,Robert,Murphy,WB,14,75,97,54,59,81,10,9,3,3,0,0,0,1,0, Full Time,switch,%P and %M up forward on Dempster... switched to be loose in defence in Q2,,,382000,46,437500,62,Back,2
+293847,Clay,Smith,WB,19,74,55,51,64,87,12,5,7,3,0,1,4,1,0, Full Time,news,%D and %T plus %M and %s,,,315800,160,313700,143,Centre,14
+290799,Tom,Liberatore,WB,19,73,63,68,52,75,7,9,2,7,0,0,0,0,0, Full Time,news,%2 Hayes... %O and %T with %M,,,374700,103,436300,115,Centre,21
+295467,Jackson,Macrae,WB,13,68,74,60,54,72,6,12,2,4,0,4,0,0,0, Full Time,cash,Matched up on Newnes... %P and %T,,,209500,-24,209800,-32,Centre,11
+271439,Liam,Picken,WB,13,62,53,45,53,72,9,7,6,2,0,1,2,0,0, Full Time,job,Minding Milne... %D and %T with %M,,,325100,113,336600,108,Centre,42
+294826,Tom,Young,WB,9,62,70,49,52,72,8,8,5,3,0,1,2,0,0, Full Time,news,%P and %T with %M,,,287900,64,333900,76,Back,31
+280012,Jordan,Roughead,WB,10,56,70,44,46,60,6,8,2,2,0,2,0,1,0, Full Time,switch,Standing Maister... switched forward in Q3... %D and %M,,,241700,78,328400,81,Back Forward,23
+250712,Dale,Morris,WB,5,54,85,44,44,60,6,8,4,2,0,0,0,0,0, Full Time,job,Following Riewoldt... %P and %T,,,204800,25,271300,44,Back,38
+260713,Nick,Lower,WB,21,52,40,52,40,63,6,5,2,8,0,1,5,0,0, Full Time,tagger,Tagging Dal Santo... %D and %T... also %F,,,351400,31,333000,10,Centre,33
+250150,Tom,Williams,WB,3,41,47,34,35,45,4,6,3,1,1,1,0,0,2, Full Time,switch,Started forward on Gwilt but switched to defence on Maister in Q3... %s from %D and %M,,,228400,,255400,,Back Forward,12
+291526,Luke,Dahlhaus,WB,10,39,55,37,38,51,3,7,3,2,0,2,3,1,0, Full Time,news,%s from %D on Geary... also %T and %M,,,317200,60,381100,77,Forward,6
+200079,Daniel,Giansiracusa,WB,7,33,58,20,26,36,5,4,0,1,0,0,0,1,0, Full Time,news,On in Q3 for Stringer... %O,sub,Started as a sub,284600,21,310200,33,Forward,13
+293884,Jake,Stringer,WB,2,24,17,15,24,34,4,4,3,0,0,0,2,0,1, Full Time,mrp,%s from %P and %M on Roberton... a rabbit punch on Dempster in Q3 will be looked at... nothing in it,subbed,Subbed off in Q3 for Giansiracusa,182500,30,214600,18,Forward,9
+281078,Liam,Jones,WB,8,23,57,18,22,30,3,2,2,1,0,0,2,1,0, Full Time,cold,Stanley on him... did not touch the footy in the first half... %s from %P and %M... also %F,,,265500,115,294600,128,Forward,19

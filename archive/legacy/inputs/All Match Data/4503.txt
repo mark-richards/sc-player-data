@@ -1,0 +1,48 @@
+Hawthorn,Hawks,West Coast,Eagles,R13,19.9.123,16.7.103, Full Time
+Jun 21,2013,7.50,Docklands,Seven,240406,10391301,haw-v-wce,0,Roof closed,15,,
+
+<em>HawkTalker</em>: lol at "most" teams. you're a dreamer gambler<br><em>TrevorCh</em>: hawktalker just like all idiotic hawks fans... getting excited about nothing<br><em>frenzy</em>: nic nat is in champ data's team<br><em>TrevorCh</em>: cant wait for the hawks to blow a 100 point lead and choke against the cats<br><em>TrevorCh</em>: shutup hawktalker you biased idiot<br><em>Roksta</em>: effective hitouts riskii&#044; watch his hitouts... hits targets<br><em>ballbag</em>: WC def more heart than hawks... flowering umps<br><em>Heizenberg</em>: *flower yeah <br><em>Slightly01</em>: Surely there is some more points to om?!<br><em>Heizenberg</em>: 94 budfy uck yeah nice DT to SC ratio <br><em>gambler</em>: Hawks would have lost to most teams tonight <br><em>OnTheRocks</em>: flower you Mitchell<br>
+240357,Jarryd,Roughead,HW,32,110,145,133,93,115,13,7,6,2,0,0,0,5,1, Full Time,star,First goal... %s from %P and %M on Brown including three big ones in Q1... also %T,,,448300,123,523100,130,Forward Ruck,2,11,88.1,97.2,19.04,19.65
+220047,Luke,Hodge,HW,24,101,102,134,79,109,18,7,7,4,1,1,2,0,0, Full Time,hot,Starting forward on Hurn but a variety of roles as usual... %D and %M... also %T and %F,,,389600,137,452500,113,Centre,15,10,86.4,96.1,8.82,6.79
+250089,Jordan,Lewis,HW,17,98,109,119,82,108,10,14,5,3,6,1,0,1,0, Full Time,news,%D including %B with %M and %T... also %s,,,459200,135,513900,132,Forward Centre,3,11,89.5,94.4,8.50,5.97
+291351,Jack,Gunston,HW,27,98,94,117,83,100,11,6,4,2,0,2,0,5,1, Full Time,target,Starting outside forward 50 but spending a lot of time in there on Wilson... %s from %D and %M with %T,,,406300,62,470300,84,Forward,19,9,73,80.1,1.57,1.43
+280858,Shane,Savage,HW,21,85,97,110,66,87,11,5,4,5,0,1,1,2,0, Full Time,news,Starting forward on Waters.... %D and %T plus %M and %s,,,238700,106,238200,100,Centre,21,4,37,34.8,1.15,1.37
+250652,Jonathan,Simpkin,HW,25,84,83,110,61,82,9,6,3,7,0,1,0,1,1, Full Time,news,%D and %T with %M,,,301100,81,335400,69,Centre,32,6,60.8,65.8,1.08,1.25
+220039,Brian,Lake,HW,19,82,82,108,64,84,8,7,8,5,0,0,0,0,0, Full Time,rock,Takes the resting ruck which is mostly Cox... %M and %D with %T,,,351400,58,410500,60,Back,17,7,67.3,78.9,2.03,2.76
+260472,Max,Bailey,HW,16,80,80,102,67,87,9,5,5,4,18,0,2,0,0, Full Time,news,%H and %P with %T and %M,,,316100,52,407200,65,Ruck,39,9,67.1,82.3,4.11,4.23
+280471,Ben,Stratton,HW,14,70,77,93,53,75,11,6,4,4,0,0,1,0,0, Full Time,job,The big job on Darling.... %O and %T with %M,,,345300,105,362000,80,Back,24,11,68.5,70.9,2.51,2.12
+220073,Sam,Mitchell,HW,9,68,74,83,57,84,9,15,2,2,0,0,1,0,0, Full Time,news,Starting off halfback again... %O including %B with %T and %M,,,453600,136,519900,133,Centre,5,11,99.7,108.8,13.10,13.46
+240399,Lance,Franklin,HW,22,67,97,90,54,75,9,3,2,6,0,1,4,2,3, Full Time,news,Mackenzie on him... %s from %P and %T... %M and %F as well,,,384900,106,467200,84,Forward,23,11,80.3,92.1,50.60,51.91
+280744,Luke,Breust,HW,20,67,86,82,58,78,7,8,2,3,0,0,2,3,0, Full Time,news,%s from %D and %M on Butler,sore,Brown fell across his right ankle in Q2 causing a sprain,342900,77,409900,111,Forward,22,11,74.5,84,3.11,2.37
+200060,Brent,Guerra,HW,15,66,69,88,46,63,6,6,2,7,0,2,0,0,0, Full Time,sore,%P and %M with %T... cut under the right eye in Q3,job,Embley is his man,293200,99,355200,102,Back,18,9,60.2,73.3,1.31,0.99
+280737,Liam,Shiels,HW,12,64,76,86,45,66,13,4,1,4,0,1,1,0,0, Full Time,tagger,Tagging Gaff... %O,,,358400,135,346800,104,Centre,26,11,70.7,66.1,0.44,0.96
+295584,Bradley,Hill,HW,8,56,55,73,41,58,11,4,2,2,0,0,0,0,1, Full Time,news,%O and %T with %M and %s,,,297500,56,293700,35,Centre,10,10,62.9,61.8,4.67,5.80
+210012,Shaun,Burgoyne,HW,8,55,75,70,44,63,9,8,2,2,0,1,1,0,0, Full Time,news,%P and %T,sore,Left foot restrapped early in Q1,373200,130,424300,111,Back Centre,9,11,82.6,87,19.30,10.00
+230197,Brad,Sewell,HW,8,51,53,70,35,51,8,3,1,5,0,1,1,0,0, Full Time,news,%2 Priddis... %D and %T,,,377400,77,413400,78,Centre,12,8,75.8,78.5,0.86,0.77
+250715,Josh,Gibson,HW,4,47,61,60,38,54,5,8,2,3,0,1,1,0,0, Full Time,job,On Kennedy... %O and %M with %T,sore,Rolled left ankle in Q4,350000,124,404600,95,Back,6,10,66,77.9,2.70,2.49
+290085,Taylor,Duryea,HW,3,42,36,54,32,45,8,4,2,1,0,0,0,0,0, Full Time,job,Responsible for LeCras... %D and %M,,,216800,32,233600,12,Centre,41,8,54.3,56.8,1.37,1.13
+240302,Grant,Birchall,HW,2,32,40,40,26,36,4,5,2,1,0,0,0,0,0, Full Time,injured,Forward tagged by McGinnity.... %P and %M.... right knee knock in Q1,subbed,Subbed off in Q3 for Ellis,354100,87,415800,34,Back,14,10,87.3,97.6,26.59,26.37
+220036,David,Hale,HW,2,28,38,35,28,41,4,5,1,1,7,0,3,0,1, Full Time,news,%D on Glass... also %H and %F,,,370400,85,464700,114,Forward Ruck,20,10,70,85.3,2.73,2.93
+250257,Xavier,Ellis,HW,2,26,19,35,18,25,4,1,1,2,0,0,0,0,1, Full Time,in,Late replacement for Paul Puopolo... on in Q3 for Birchall... %D and %s,sub,Started as a sub,263800,,284100,,Centre,8,0,0,0,0.67,0.70
+240406,Josh J.,Kennedy,WC,50,131,125,124,104,124,11,2,10,8,0,1,0,5,1, Full Time,target,%s from %G and %O on Stratton... also %T... very productive Q1,,,401500,88,466100,85,Forward,17,10,89.7,99.7,47.82,50.45
+200112,Dean,Cox,WC,36,123,115,110,102,120,11,6,10,5,17,4,0,1,1, Full Time,hot,%s from %D and %M when forward on Lake... also %H and %T,,,434700,105,529400,104,Forward Ruck,20,11,93,111.2,51.66,48.73
+280078,Luke,Shuey,WC,23,119,115,73,97,130,18,15,4,2,1,2,0,2,0, Full Time,heart,%D and %M plus %s... left arm sore after a Franklin bump in Q3,,,467100,108,506200,132,Centre,13,11,94.3,96.6,2.61,2.46
+290801,Andrew,Gaff,WC,24,108,121,73,85,120,17,12,6,5,0,1,2,0,0, Full Time,hot,Tagged by Shiels... %O and %T with %M,,,309700,130,371200,120,Centre,3,11,61.9,69.2,1.08,1.21
+240124,Matt,Priddis,WC,37,106,102,99,83,120,9,18,2,9,0,1,2,1,0, Full Time,hot,%2 Sewell... %P and %T... also %M and %F,,,452100,104,501000,98,Centre,11,11,90.5,97,9.63,12.02
+261290,Chris,Masten,WC,25,106,100,74,85,114,15,11,7,3,0,0,0,1,0, Full Time,hot,%D and %M... also %T and %s,,,498500,146,485800,119,Centre,7,10,101.4,98,1.11,0.80
+270928,Scott,Selwood,WC,27,102,106,86,81,111,11,13,5,6,0,1,1,1,0, Full Time,heart,%P and %T with %M and %s... right shoulder twisted behind him in a Hodge chicken wing tackle in Q3... soldiered on despite obvious discomfort,,,501900,72,516300,55,Centre,10,11,108.6,103.2,6.51,2.26
+240119,Mark,LeCras,WC,16,92,77,61,72,94,14,5,5,3,0,0,0,2,1, Full Time,news,%s from %O and %T with %M on Duryea,,,357900,89,359200,109,Forward,2,9,78.8,78.3,8.67,11.05
+271045,Nic,Naitanui,WC,27,91,114,80,76,89,7,5,2,4,29,3,0,1,0, Full Time,heart,%H and %D plus %T and %s... copped an accidental Franklin elbow to the cheek in Q2 which quietened him down after a hot start,,,435200,109,605800,161,Forward Ruck,9,6,83.3,107.5,14.21,17.04
+240016,Beau,Waters,WC,13,90,67,42,69,93,19,4,7,1,0,0,0,0,0, Full Time,job,Savage manning him up.. %D and %M,,,435600,133,499000,154,Back,8,4,85,93.5,4.25,3.42
+260546,Bradd,Dalziell,WC,15,75,66,59,60,78,9,7,5,3,0,1,0,1,0, Full Time,news,On in Q2 for Hurn... %D and %M with %T,sub,Started as a sub,254300,115,293400,104,Centre,18,6,47.2,51.2,0.88,0.46
+210018,Daniel,Kerr,WC,13,67,69,38,58,84,11,14,2,1,0,2,2,0,0, Full Time,news,%D including %B,sore,Left arm knock in Q3,348200,88,452000,117,Centre,4,8,69.4,84.5,1.27,0.62
+250111,Matt,Rosa,WC,8,61,57,36,53,78,10,12,3,1,0,0,2,0,0, Full Time,news,%P including %B with %M and %F,,,366800,119,391300,112,Centre,24,5,63,70.2,0.23,0.15
+280441,Patrick,McGinnity,WC,21,59,51,68,42,60,3,7,2,8,0,1,1,0,0, Full Time,tagger,Forward tag on Birchall... %P and %T with %M,,,282500,,275100,,Centre,35,0,0,0,0.66,0.78
+290838,Jack,Darling,WC,11,57,40,35,43,54,10,0,4,2,0,1,0,1,0, Full Time,news,Kicked %s from %D and %G on Stratton,,,368300,116,416100,128,Forward,27,11,74.5,83.4,4.15,2.89
+990020,Andrew,Embley,WC,5,52,31,38,38,51,8,2,4,3,0,0,0,0,0, Full Time,news,%D and %M starting forward on Guerra... also %T,mrp,Dropped the knees on Stratton in Q2... will be trouble,253200,64,246700,84,Centre,32,5,53.6,43.4,2.72,2.62
+250317,Eric,Mackenzie,WC,4,50,70,32,40,51,8,4,4,1,0,2,0,0,0, Full Time,job,Following Franklin... %D and %M,,,233300,25,309000,14,Back,16,9,45.2,59.2,0.72,0.40
+240159,Sam,Butler,WC,4,48,55,31,38,54,8,5,3,2,0,0,1,0,0, Full Time,job,Minding Breust... %D,,,354600,98,369500,97,Back,26,7,71.3,71.4,0.38,0.27
+290833,Blayne,Wilson,WC,7,48,56,29,40,57,8,7,3,1,0,0,1,0,0, Full Time,bubble,Second game... %P and %M,job,Takes Gunston when he is forward,108500,,115900,,Back,30,1,84,89,1.16,1.23
+260303,Mitchell,Brown,WC,8,43,68,49,41,60,0,16,2,2,0,0,1,0,0, Full Time,job,Has Roughead... %P and %M with %T,,,200700,50,216100,53,Forward,1,4,37.5,38,0.38,0.31
+200074,Darren,Glass,WC,3,40,38,35,32,43,4,5,3,2,1,0,0,0,0, Full Time,job,Zoning off Hale.... %O and %M,,,272400,89,361900,140,Back,23,10,49.4,62.1,2.25,1.75
+240283,Shannon,Hurn,WC,0,8,8,6,7,9,1,1,1,0,0,0,0,0,0, Full Time,injured,Interesting matchup on Hodge to start with... %D... achilles problem in Q1,subbed,Subbed off in Q2,362400,113,495800,133,Back,25,11,70.2,94.7,3.46,4.25

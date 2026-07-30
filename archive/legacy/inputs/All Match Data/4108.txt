@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Adelaide,Crows,R13,17.19.121,13.11.89, Full Time
+Jun 24,2012,4:40,Docklands,Fox Sports,240370,10341306,430115,0,Roof closed,12,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='margin-bottom:-2px'><b class="ticon tES"></b> Seb78</em>: Kangas Thompson SC score WOW!<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> Seb78</em>: Tho<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> myteamsuks</em>: Im even more depressed as blues supporter&#044; a team like north on same points as us. We are shower<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> wazasmith1</em>: this season is fuct ive lost by under ten points for the fifth time. injuries later withdrawls <br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> jballstars</em>: blue moon for Kangas side surely???<br><em style='margin-bottom:-2px'><b class="ticon tGE"></b> Homerj</em>: Are these the correct scaled SC scores!? In a tight league match and need every point I can get!<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> darpy</em>: damn i hope Thompson and boomers SC is out by a bit&#044; otherwise I lose by a point<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> GumbleTON!</em>: Nice Whoopi<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> LIVERPOOL</em>: rip kelso<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> grossn</em>: Won dt by 10 wo :)<br><em style='margin-bottom:-2px'><b class="ticon tAD"></b> slinks</em>: How's 15th going for you waspy?<br><em>DangerCrow</em>: Tippett and Gibson cost me a win .. only needed another 60 to win <br>
+250285,Leigh,Adams,NM,27,107,151,129,89,116,14,12,4,2,0,1,0,3,2, Full Time,star,%s from %O and %T with %M,,
+230232,Daniel,Wells,NM,15,106,114,138,81,113,25,6,5,1,1,1,1,0,1, Full Time,hot,%2 Thompson... %D and %M,,
+261909,Lindsay,Thomas,NM,25,92,110,118,74,92,14,1,6,3,0,1,1,3,2, Full Time,news,%s from %D and %M on Doughty,,
+271129,Todd,Goldstein,NM,22,89,105,106,80,96,7,6,6,2,33,0,1,0,0, Full Time,news,%H and %D with %M,,
+290787,Shaun,Atley,NM,14,89,110,113,71,97,12,11,6,3,0,0,0,0,1, Full Time,news,%P and %T with %M plus %s,job,Chasing Douglas
+210023,Drew,Petrie,NM,17,87,98,111,71,85,10,2,8,3,3,1,0,2,1, Full Time,news,Booted %s from %G and %P on Rutten... also %T,,
+270325,Robbie,Tarrant,NM,22,84,105,105,73,86,11,0,8,1,0,0,1,4,2, Full Time,x-factor,%s from %P and %M playing forward on Talia,,
+280863,Ryan,Bastinac,NM,21,84,120,100,74,99,12,13,4,0,0,1,1,2,0, Full Time,news,%D and %M plus %s,,
+280864,Sam,Wright,NM,14,84,103,105,71,96,11,13,6,2,0,2,1,0,0, Full Time,news,%O and %T plus %M,,
+240131,Nathan,Grima,NM,18,81,118,106,69,87,14,4,11,0,0,1,1,0,0, Full Time,news,%D and %M,job,Has Walker
+280944,Jack,Ziebell,NM,9,78,90,103,57,76,17,2,4,2,0,2,0,0,1, Full Time,heart,%O and %s... left ribs knock in Q2 after Dangerfield's knee ran into them but played on manfully,,
+250135,Scott,McMahon,NM,10,75,94,100,55,72,10,4,5,5,0,2,0,0,0, Full Time,job,Chasing Callinan... %D and %T with %M,,
+240417,Andrew,Swallow,NM,13,72,87,91,56,78,8,11,3,4,0,1,0,0,0, Full Time,news,%P and %T,,
+960491,Brent,Harvey,NM,14,66,79,80,54,75,8,11,2,2,0,0,0,1,0, Full Time,tagged,Tagged by van Berlo... %O,,
+260545,Liam,Anthony,NM,8,58,75,71,47,67,7,11,2,2,0,0,0,0,1, Full Time,news,%O and %T with %M and %s,,
+290547,Kieran,Harper,NM,14,49,60,63,39,53,4,5,2,4,0,0,1,1,2, Full Time,news,%s from %D with %M and %T,,
+250373,Lachlan,Hansen,NM,9,48,65,60,40,47,8,1,4,0,0,2,0,1,2, Full Time,news,%s from %P and %M on Shaw,,
+230272,Michael,Firrito,NM,4,40,37,49,37,51,3,9,4,1,0,0,1,0,0, Full Time,news,Loose in defence... one touch in Q1... %P and %M,,
+281395,Scott D.,Thompson,NM,4,39,102,49,39,57,4,10,4,1,0,0,3,0,0, Full Time,job,Standing Tippett... %P and %M... also %F,,
+280921,Ben,Cunnington,NM,3,29,17,38,22,30,1,4,2,3,0,0,0,0,0, Full Time,news,One touch in Q1... %D,subbed,Subbed off in Q3 for Gibson
+290194,Jamie,MacMillan,NM,3,29,17,36,26,37,5,5,2,0,0,0,1,0,1, Full Time,news,%D and %s,,
+250557,Sam,Gibson,NM,1,17,9,21,13,18,4,2,0,0,0,1,0,0,0, Full Time,bubble,Second game... on in Q3 for Cunnington.. %D,sub,Started as a sub
+280506,Taylor,Walker,AD,31,109,105,78,92,112,15,4,10,2,0,2,1,3,1, Full Time,hot,%P and %G on Grima,,
+210016,Scott,Thompson,AD,20,107,102,62,81,115,20,8,5,5,0,1,2,0,1, Full Time,hot,%2 Wells... %O and %T... also %F,,
+270917,Patrick,Dangerfield,AD,25,100,100,67,81,109,15,10,6,3,1,1,1,1,0, Full Time,hot,%D and %M,,
+240370,Richard,Douglas,AD,24,88,89,64,69,91,13,4,7,4,0,0,1,1,1, Full Time,news,%s from %P and %M with %T on Atley,,
+220086,Brent,Reilly,AD,18,84,96,56,62,84,14,4,6,4,0,0,0,0,0, Full Time,news,%O and %T with %M,,
+270963,Rory,Sloane,AD,21,82,106,67,67,93,9,12,4,4,0,0,1,1,0, Full Time,news,%O and %M,,
+261142,Bernie,Vince,AD,15,70,81,45,59,75,11,3,6,1,0,0,1,2,0, Full Time,news,%O and %M,,
+270811,Sam,Jacobs,AD,15,68,83,57,60,69,6,2,5,1,27,0,0,0,0, Full Time,news,%H and %D with %M,,
+250362,David,Mackay,AD,5,62,60,49,48,63,8,5,5,3,0,1,0,0,0, Full Time,news,%O and %M,,
+261384,Matthew,Wright,AD,14,61,60,30,53,70,12,4,5,0,0,1,2,1,1, Full Time,news,%D and %M,,
+261857,Ian,Callinan,AD,14,61,74,52,53,65,6,5,7,1,0,0,0,1,2, Full Time,news,First goal... %s from %P and %M on McMahon,,
+230174,Jason,Porplyzia,AD,11,58,55,42,46,60,8,4,4,2,0,0,0,1,0, Full Time,news,%P,,
+250118,Nathan,van Berlo,AD,9,57,55,52,41,57,6,5,3,5,0,0,0,0,0, Full Time,tagger,Tagging Harvey... %P and %M with %T,,
+261351,Matthew,Jaensch,AD,4,51,55,31,40,51,9,2,5,1,0,1,0,0,0, Full Time,news,%P and %M,,
+280038,Shaun,McKernan,AD,9,45,46,27,42,49,7,1,3,0,8,3,2,1,2, Full Time,news,%P and %M plus %s... also %H,,
+280281,Brodie,Martin,AD,6,43,63,19,34,51,9,6,1,1,0,0,1,0,0, Full Time,news,%P,,
+200092,Michael,Doughty,AD,4,38,51,25,34,45,6,4,5,0,0,0,1,0,0, Full Time,job,Minding Thomas... %P and %M,,
+270742,Kurt,Tippett,AD,8,34,46,19,30,34,6,0,3,0,0,3,1,1,1, Full Time,concussed,Kicked %s from %P and %G on Thompson... off in Q2 with vision/concussion issue,subbed,Subbed off at HT for Petrenko
+220093,Ben,Rutten,AD,3,29,47,29,25,36,2,6,2,2,0,0,1,0,0, Full Time,job,Has Petrie... %O and %M with %T,,
+261138,Jared,Petrenko,AD,2,25,22,18,17,24,4,1,1,2,0,0,0,0,0, Full Time,news,On after HT for Tippett,sub,Started as a sub
+290211,Sam,Shaw,AD,1,21,39,9,16,24,5,1,1,1,0,0,1,0,0, Full Time,mare,Donuts in Q1... one touch and one FA to HT,muppet,Hansen is his man
+280934,Daniel,Talia,AD,1,15,33,14,14,18,1,3,2,0,0,0,0,0,0, Full Time,job,Standing Tarant... %D,,

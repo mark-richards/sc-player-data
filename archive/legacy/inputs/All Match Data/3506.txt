@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Western Bulldogs,Bulldogs,R14,12.7.79,11.10.76, Full Time
+Jul 02,2010,7:40,MCG,Seven,250211,10281402,5015,5174,Isolated showers,14
+We've made all necessary changes and now we're just waiting for the iPhone app to be approved by Apple... see the Feedback forum for details,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>Phreophile</em>: 2nd PNG for me!<br><em style='color:#069'>Prospector</em>: CrowsFan: just Happy????<br><em>kbbr</em>: franklin got the winning goal and got no extra points for it?<br><em style='color:#069'>Prospector</em>: Soccer is better!<br><em>masterdead</em>: alright calm down howey<br><em>barlowgun</em>: Morris has 2 Handballs the whole last quarter but managed 17 SC points<br><em style='color:#a0a'>Crim2007</em>: 7/7 & 7 off score m0nty??<br><em>RobotNinja</em>: Super Coach a joke among jokes. Morris had no influence on that game.  87.  Pfft.<br><em>bennyq</em>: wats with png&#044; cross got 110 hahaha<br><em>howey</em>: rioli is a freak thats why masterdead u flowering muppet<br><em>spenc13</em>: essendon suck it up buttercup<br><em>CrowsFan</em>: happy with mitchells score :)<br>
+220073,Sam,Mitchell,HW,38,128,139,166,95,129,17,11,5,8,0,2,0,1,0, Full Time,star,Tagged by Picken... %O and %M with %T... also %s
+220047,Luke,Hodge,HW,37,119,113,157,95,132,20,8,6,6,0,1,4,2,0, Full Time,hot,Griffen started on him but moved to Boyd in Q2... %D and %M with %T and %s... also %F
+260955,Cyril,Rioli,HW,28,113,163,144,87,115,12,10,5,7,1,1,0,2,0, Full Time,hot,Twisted an ankle in Q2... tagged by Harbrow... %D and %M plus %T and %s
+240357,Jarryd,Roughead,HW,25,100,99,126,84,101,14,4,10,1,0,2,0,2,2, Full Time,hot,Booted %s from %G and %D on Morris
+240399,Lance,Franklin,HW,26,96,85,120,83,102,11,6,9,2,0,1,1,3,0, Full Time,news,%s from %P and %M on Lake
+240302,Grant,Birchall,HW,19,88,98,115,72,100,12,10,7,4,0,0,2,0,1, Full Time,news,%D and %M with %F
+210012,Shaun,Burgoyne,HW,18,87,94,118,67,93,14,5,7,5,0,0,2,0,0, Full Time,news,Had a fantastic Q2 after a slow start... %P and %T with %M
+280471,Ben,Stratton,HW,18,87,103,114,67,90,12,7,7,4,0,0,0,0,0, Full Time,x-factor,Zoning off Hahn... %M and %O with %T... his poise and accuracy from defence was key to the Hawthorn victory
+250257,Xavier,Ellis,HW,18,76,80,99,61,81,7,9,6,5,0,2,1,0,0, Full Time,news,%P and %M plus %T
+210062,Wayde,Skipper,HW,18,71,63,92,56,72,5,5,4,6,12,1,1,0,0, Full Time,news,%H and %D plus %M
+200060,Brent,Guerra,HW,9,67,69,86,53,69,10,6,5,2,0,2,0,0,0, Full Time,smiling,Minding Johnson... %D
+230197,Brad,Sewell,HW,9,63,66,84,50,72,11,6,4,3,0,0,2,0,0, Full Time,tagger,Tagging Cooney... %O and %M
+250055,Clinton,Young,HW,8,62,58,83,50,66,12,2,7,1,0,0,1,0,0, Full Time,news,Head to head with Ward on a wing... %D and %M
+250089,Jordan,Lewis,HW,9,62,47,81,49,68,9,6,4,3,2,0,1,0,0, Full Time,news,%O and %M
+250146,Thomas,Murphy,HW,5,59,70,76,47,63,6,7,5,3,0,0,0,0,0, Full Time,job,Has Giansiracusa... %D and %T
+270854,Carl,Peterson,HW,9,59,51,80,43,56,6,2,5,5,0,0,0,0,2, Full Time,in,%l Rick Ladson (virus)
+200040,Chance,Bateman,HW,7,56,64,71,42,61,10,7,1,2,0,0,0,0,1, Full Time,tagger,Moved to tag Griffen in Q2... %D and %T
+250308,Brent,Renouf,HW,10,49,51,58,41,49,4,3,1,2,12,1,0,1,1, Full Time,sore,First goal... %H and %P plus %s... rolled his left ankle in Q2
+281301,Ryan,Schoenmakers,HW,4,40,50,51,33,48,5,7,2,2,0,0,1,0,0, Full Time,job,On Grant... %P
+230082,Stephen,Gilham,HW,3,35,58,44,30,39,5,4,4,0,0,0,0,0,0, Full Time,job,Standing Hall... %P
+210092,Michael,Osborne,HW,8,34,35,47,29,45,3,6,2,4,0,0,3,0,0, Full Time,news,%O
+260279,Beau,Muston,HW,7,27,19,32,23,30,2,4,1,1,0,0,0,1,0, Full Time,news,Forward tag on Murphy until Q4... %P and %s
+220039,Brian,Lake,WB,43,137,159,102,114,144,19,9,18,2,0,0,0,0,0, Full Time,gun,Zoning off Frankin... %M and %D
+220010,Matthew,Boyd,WB,25,121,146,84,103,138,16,19,9,1,3,1,0,0,0, Full Time,hot,Hodge moved to him in Q2... %B among %D with %M
+210049,Daniel,Cross,WB,26,110,118,97,85,116,11,13,6,7,5,0,0,0,0, Full Time,hot,%O and %T plus %M
+271439,Liam,Picken,WB,25,90,94,84,65,88,9,8,3,9,1,4,1,0,0, Full Time,tagger,Tagging Mitchell... %P and %T
+960258,Brad,Johnson,WB,19,87,86,54,73,97,14,8,7,1,0,0,1,1,1, Full Time,sore,%s from %P and %M on Guerra... aggravated previously injured left achilles in Q4
+240156,Ryan,Griffen,WB,19,82,52,49,59,80,15,2,2,5,1,2,1,1,1, Full Time,tagged,Started on Hodge then got tagged by Bateman in Q2... %D including %K plus %T and %s
+260227,Shaun,Higgins,WB,19,78,60,59,62,85,10,9,3,4,0,1,1,1,1, Full Time,sore,%s from %O and %M... right hamstring soreness in the second half
+200080,Lindsay,Gilbee,WB,9,72,84,39,57,78,13,8,4,1,0,1,0,0,0, Full Time,news,%P including %K
+200079,Daniel,Giansiracusa,WB,17,71,70,62,56,70,7,4,4,4,0,1,0,2,1, Full Time,news,%s from %P and %M on Murphy... also %T
+200083,Robert,Murphy,WB,14,71,76,33,57,76,14,5,4,0,0,0,0,1,1, Full Time,news,Forward tag on him by Muston which worked... moved forward in Q4... %s from %O and %M
+261319,Jarrad,Grant,WB,16,67,84,57,52,65,7,3,3,4,0,1,0,2,2, Full Time,news,%s from %D on Schoenmakers... also %T
+240254,Jarrod,Harbrow,WB,12,66,63,44,56,75,10,8,6,1,0,1,1,0,0, Full Time,tagger,Tagging Rioli... %D and %M
+230041,Adam,Cooney,WB,13,63,75,31,54,78,11,12,1,0,0,0,1,1,0, Full Time,tagged,Tagged by Sewell... %O including %b by hand
+261374,Sam,Reid,WB,9,62,43,56,46,63,6,8,2,5,0,2,0,0,0, Full Time,injured,Left AC joint knock in Q1 and struggled with it... %D and %M with %T... then dislocated his right shoulder in Q4
+280109,Callan,Ward,WB,9,62,47,50,52,70,8,6,6,3,0,1,2,0,1, Full Time,news,Head to head with Young on a wing... %O and %M
+240710,Ben,Hudson,WB,13,58,74,44,54,72,6,10,2,1,15,1,2,0,0, Full Time,news,%H and %P
+200082,Ryan,Hargrave,WB,4,54,89,34,41,57,9,5,3,2,0,0,0,0,0, Full Time,job,Minding Peterson... %D
+281139,Easton,Wood,WB,7,49,51,30,41,57,8,7,3,1,0,1,1,0,0, Full Time,news,%P
+230255,Will,Minson,WB,4,47,35,31,40,52,7,4,3,1,7,1,1,0,0, Full Time,sore,Very sore after a left ankle knock in Q2... %H and %D with %M
+200081,Mitch,Hahn,WB,3,43,42,43,34,45,3,6,3,3,0,1,0,0,0, Full Time,news,%D and %M with %T roaming high on Stratton... switched back in Q4
+250712,Dale,Morris,WB,4,43,87,31,35,49,6,6,2,2,1,1,1,0,0, Full Time,job,Has Roughead... %D
+960570,Barry,Hall,WB,9,43,40,36,37,45,4,3,3,1,0,0,0,2,0, Full Time,news,Booted %s from %G and %P on Gilham

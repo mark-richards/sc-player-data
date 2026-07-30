@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <g id="Default" fill="#A6A6A6">
+            <rect id="Rectangle-136" x="0" y="0" width="25" height="25"></rect>
+        </g>
+        <g id="Adelaide_afl">
+            <g>
+                <rect id="Rectangle-107" fill="#174068" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-90" fill="#EB0707" x="0" y="6.31578947" width="24" height="5.05263158"></rect>
+                <rect id="Rectangle-91" fill="#FFD204" x="0" y="11.3684211" width="24" height="5.05263158"></rect>
+            </g>
+        </g>
+        <g id="Brisbane_afl">
+            <g>
+                <rect id="Rectangle-115" fill="#A0224B" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-197" fill="#FEBF3E" x="0" y="8.84210526" width="24" height="5.05263158"></rect>
+                <rect id="Rectangle-198" fill="#0760AD" x="0" y="0" width="24" height="8.84210526"></rect>
+            </g>
+        </g>
+        <g id="Carlton_afl">
+            <g fill="#0B3E6A">
+                <rect id="Rectangle-124" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+        <g id="Collingwood_afl">
+                <rect id="Rectangle-131" fill="#000000" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-194" fill="#FFFFFF" x="4.36363636" y="0" width="4.36363636" height="24"></rect>
+                <rect id="Rectangle-195" fill="#FFFFFF" x="15.2727273" y="0" width="4.36363636" height="24"></rect>
+        </g>
+        <g id="Essendon_afl">
+                <rect id="Rectangle-227" fill="#000000" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Rectangle-192" fill="#D51400" points="14.6964655 0 5.06489383e-14 19.0704385 0.00895101933 24 9.2566453 24 24 4.86871705 23.9999998 0"></polygon>
+        </g>
+        <g id="Fremantle_afl">
+            <g id="Fremantle-Copy">
+                <rect id="Rectangle-156" fill="#411383" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Rectangle-63" fill="#FFFFFF" points="0 5.05664062 12.0185156 16.4032031 23.9859375 4.99382812 23.9859375 10.1504883 12.0185156 21.5376563 0 10.1504883"></polygon>
+                <path d="M0.0082503565,0.00918826589 L4.82601563,0.00918826726 L12.0185156,6.86360233 L19.2178254,0 C19.2178254,0 20.4459027,8.9740907e-09 21.0599414,1.34611361e-08 C22.0352734,2.05883076e-08 23.9859375,3.48426508e-08 23.9859375,3.48426508e-08 L23.9859375,0.610887486 L12.0185156,11.9980555 L0,0.610887486 L0.0082503565,0.00918826589 Z" id="Rectangle-63-Copy-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+        <g id="Geelong_afl">
+                <rect id="Rectangle-166" fill="#000A61" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-186" fill="#FFFFFF" x="0" y="13.8947368" width="24" height="5.05263158"></rect>
+                <rect id="Rectangle-187" fill="#FFFFFF" x="0" y="5.05263158" width="24" height="5.05263158"></rect>
+        </g>
+        <g id="Gold_Coast_afl">
+                <rect id="Rectangle-174" fill="#A10F0F" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Rectangle-46-copy-4" fill="#FF9200" transform="translate(3.287671, 12.000000) scale(-1, 1) translate(-3.287671, -12.000000) " points="7.84877053e-14 0 7.80010322e-14 24 6.57534247 24 6.5753424 0"></polygon>
+                <polygon id="Rectangle-46-copy-5" fill="#FF9200" points="17.4246575 0 17.4246575 24 24 24 23.9999999 0"></polygon>
+        </g>
+        <g id="GWS_Giants_afl">
+                <rect id="Rectangle-182" fill="#F1F1F1" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Rectangle-182" fill="#787878" points="15.1232877 12 11.5068493 24 24 24 24 12"></polygon>
+                <rect id="Rectangle-184" fill="#E37211" x="0" y="0" width="24" height="12"></rect>
+        </g>
+        <g id="Hawthorn_afl">
+                <rect id="Rectangle-187" fill="#633102" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-181" fill="#F1C813" x="4.36363636" y="0" width="4.36363636" height="24"></rect>
+                <rect id="Rectangle-182" fill="#F1C813" x="15.2727273" y="0" width="4.36363636" height="24"></rect>
+        </g>
+        <g id="Melbourne_afl">
+                <rect id="Rectangle-197" fill="#010C69" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Rectangle-176" fill="#E01E00" points="0 0 12 16.4210526 24 0"></polygon>
+        </g>
+        <g id="North_Melbourne_afl">
+                <rect id="Rectangle-213" fill="#1412F6" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-174" fill="#FFFFFF" x="4.36363636" y="0" width="4.36363636" height="24"></rect>
+                <rect id="Rectangle-175" fill="#FFFFFF" x="15.2727273" y="0" width="4.36363636" height="24"></rect>
+        </g>
+        <g id="Port_Adelaide_afl">
+                <rect id="Rectangle-227" fill="#000000" x="0" y="0" width="24" height="24"></rect>
+                <path d="M2.93148245,0 L3.42188452e-09,0 L1.47814677e-09,2.26107419 L4.33106189e-16,3.98054408 L12.0033038,20.2105263 L24,3.49194526 L23.9999994,0 L2.93148245,0 Z" id="Rectangle-91-copy" fill="#FFFFFF"></path>
+                <polygon id="Rectangle-91-copy-2" fill="#4AB0B3" points="0 0 12.0117074 16.4945455 24 0"></polygon>
+        </g>
+        <g id="Richmond_afl">
+                <rect id="Rectangle-227" fill="#000000" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Rectangle-192" fill="#F3C516" points="14.6964655 0 5.06489383e-14 19.0704385 0.00895101933 24 9.2566453 24 24 4.86871705 23.9999998 0"></polygon>
+        </g>
+        <g id="St_Kilda_afl">
+                <rect id="Rectangle-235" fill="#000000" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-173" fill="#C71100" x="0" y="0" width="8.72727273" height="24"></rect>
+                <rect id="Rectangle-172" fill="#FFFFFF" x="8.72727273" y="0" width="6.54545455" height="24"></rect>
+        </g>
+        <g id="Sydney_afl">
+                <rect id="Rectangle-241" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Rectangle-185" fill="#EF2109" points="0 0 0 11.52 5.79468108 14.88 11.7503746 11.52 18.2131849 14.88 24 11.52 24 0"></polygon>
+        </g>
+        <g id="West_Coast_afl">
+                <rect id="Rectangle-235" fill="#F6B910" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle-173" fill="#011068" x="0" y="0" width="8.72727273" height="24"></rect>
+                <rect id="Rectangle-172" fill="#FFFFFF" x="8.72727273" y="0" width="6.54545455" height="24"></rect>
+        </g>
+        <g id="Western_Bulldogs_afl">
+                <rect id="Rectangle-107" fill="#062BDB" x="0" y="0" width="24" height="25"></rect>
+                <rect id="Rectangle-90" fill="#D82018" x="0" y="6.57894737" width="24" height="5.26315789"></rect>
+                <rect id="Rectangle-91" fill="#FFFFFF" x="0" y="11.8421053" width="24" height="5.26315789"></rect>
+        </g>
+    </defs>
+</svg>

@@ -1,0 +1,48 @@
+Port Adelaide,Power,Sydney,Swans,R3,12.11.83,16.9.105, Full Time
+Apr 14,2012,2:10,Footy Park,Fox Sports,290188,10340303,5015,0,,,,
+
+<em>roo boys!</em>: dollar sign for redden?<br><em>Spitter9</em>: you're a shower cow reid<br><em>absof_86</em>: Eff You Luke Parker!<br><em>Brady01</em>: I know B.Reid scored -4 in his first and final game this year and Brett Montgomery got -10 once<br><em>spiggs</em>: 102 and 79 damn ceski<br><em>turnbull8</em>: sizzler is the spud for every game of every round<br><em>tazmos</em>: spud for sizzler<br><em>j0sh34</em>: but my scores are working<br><em>Red Dirty</em>: weldone McCarthy top stuff<br><em>j0sh34</em>: sizzler it has started you spud<br><em>GoTEAM</em>: walters got a -30 gardner -19<br><em>bert1</em>: goodes and mummy redden huge welldone hope goodes not out for to long thanx everyone<br>
+261911,Brad,Ebert,PA,28,123,94,159,101,125,18,4,12,3,0,2,1,2,2, Full Time,heart,%D and %M plus %T and %s... ran into his teammate McCarthy in Q1 which left him sore,,
+210043,Domenic,Cassisi,PA,26,108,115,137,83,112,11,15,4,7,0,4,0,0,1, Full Time,hot,%P and %T,,
+210020,Kane,Cornes,PA,20,100,105,130,80,108,14,10,8,4,0,1,1,0,0, Full Time,hot,%O and %M,,
+260750,Justin,Westhoff,PA,20,98,95,120,85,108,13,11,7,1,0,3,1,2,0, Full Time,news,Booted %s from %M and %D on Johnson,,
+280013,Jackson,Trengove,PA,24,93,106,116,83,108,12,13,11,0,0,1,1,0,0, Full Time,news,%M and %D,job,Interesting matchup on O'Keefe
+250365,Travis,Boak,PA,15,89,80,118,65,90,14,6,5,5,0,0,0,0,0, Full Time,tagged,Tagged by Jack... %P and %T with %M,,
+261892,Hamish,Hartlett,PA,10,88,108,112,70,95,14,10,4,3,0,3,1,0,2, Full Time,news,%D and %s,,
+240180,Troy,Chaplin,PA,18,87,110,114,71,90,14,4,11,1,0,0,0,0,0, Full Time,news,%P and %M,job,Has White
+270779,Paul,Stewart,PA,14,84,81,108,68,91,12,9,6,3,0,2,1,0,1, Full Time,news,%2 Hannebery... %D and %M with %T and %s,,
+260201,Daniel,Stewart,PA,21,81,76,99,71,84,10,3,6,1,6,2,1,3,0, Full Time,news,%P and %H,,
+271128,John,McCarthy,PA,14,80,55,105,63,87,15,6,6,2,0,0,1,0,0, Full Time,news,%O,,
+271078,Matthew,Broadbent,PA,14,78,60,99,62,81,14,5,5,1,0,1,0,1,0, Full Time,news,Had a very good Q1... %P and %M plus %s,,
+290277,Jarrad,Redden,PA,18,65,69,69,62,77,3,13,1,0,26,1,0,0,0, Full Time,news,%H and %P,,
+290802,Ben,Jacobs,PA,9,65,69,85,51,72,10,7,4,3,0,0,1,0,0, Full Time,job,Has McGlynn... %O and %T,,
+240385,Matt,Thomas,PA,11,58,63,74,51,69,7,7,5,2,0,0,2,1,0, Full Time,tagger,Forward tag on Malceski... %D and %T with %M and %F,,
+250063,Danyle,Pearce,PA,7,58,74,75,42,60,12,5,1,2,0,1,0,0,0, Full Time,tagged,Tagged by Bird... %D,,
+261396,Robbie,Gray,PA,9,57,59,76,44,62,7,5,2,5,1,1,2,0,4, Full Time,news,Starting forward on Shaw... %s from %O and %T,,
+240074,Jacob,Surjan,PA,10,54,58,68,46,60,8,5,4,1,0,1,1,1,0, Full Time,news,%P and %s,job,Responsible for Bolton
+230195,Jay,Schulz,PA,11,52,62,65,45,57,5,4,4,2,0,0,1,2,0, Full Time,news,First goal.... %s from %P on Richards,,
+291962,Chad,Wingard,PA,8,46,42,62,34,48,6,3,2,4,2,0,1,0,1, Full Time,cash,Small forward role again... %s from %D with %T and %M,,
+250688,Alipate,Carlile,PA,4,44,54,54,38,51,6,7,4,0,0,0,0,0,0, Full Time,injured,Has Reid... %M and %P... quad soreness in Q4,subbed,Subbed off in Q4 for O'Shea
+290540,Cameron,O'Shea,PA,0,9,1,11,10,15,1,3,1,0,0,0,1,0,0, Full Time,muppet,On in Q4 for Carlile... three clangers for three opposition goals in Q4,sub,Started as a sub
+290117,Daniel,Hannebery,SY,21,104,121,68,89,129,15,21,5,2,0,0,2,0,0, Full Time,hot,%2 Paul Stewart.... %D with %b by hand... also %T,,
+260382,Josh P.,Kennedy,SY,25,94,113,77,73,108,11,16,2,7,0,1,2,0,0, Full Time,news,%O and %T with %M,,
+290788,Luke,Parker,SY,16,89,108,61,77,109,12,18,4,2,0,2,2,0,1, Full Time,news,%B among %D with %M and %T... also %s,,
+980073,Adam,Goodes,SY,27,89,115,69,69,93,12,4,4,6,0,0,2,2,3, Full Time,news,%s from %D and %T with %M,reported,Reported in Q2 for sliding with his knees into a tackle yet again
+261212,Craig,Bird,SY,27,87,76,71,68,90,11,4,5,6,0,1,2,2,0, Full Time,news,%s from %P and %M,tagger,Forward tag on Pearce
+280762,Shane,Mumford,SY,34,87,108,86,82,94,3,8,2,3,40,4,2,1,0, Full Time,news,%H and %P,,
+230132,Nick,Malceski,SY,10,85,80,51,64,87,15,6,5,3,0,1,0,0,0, Full Time,tagged,Forward tag on him by Thomas... %O,,
+230253,Jarrad,McVeigh,SY,14,72,63,36,54,75,14,5,2,2,0,0,0,1,0, Full Time,news,%P and %M,,
+240226,Kieren,Jack,SY,13,72,89,48,52,73,12,5,2,5,0,2,1,0,1, Full Time,tagger,Tagging Boak... %P and %T,mrp,A slam tackle on Cassisi in Q2 will be looked at but probably ignored
+210027,Ted,Richards,SY,9,62,86,65,53,69,3,11,6,3,0,1,0,0,0, Full Time,job,On Schulz... %O and %M,,
+281281,Lewis,Jetta,SY,15,61,80,46,48,61,7,4,0,3,0,1,0,3,1, Full Time,news,%s from %O,,
+200071,Ryan,O'Keefe,SY,14,60,87,47,50,66,6,9,1,2,0,1,0,2,0, Full Time,news,Starting forward on Trengove... %D,,
+250212,Jesse,White,SY,12,56,66,40,50,63,8,1,4,2,6,1,3,2,0, Full Time,news,%s from %D on Chaplin... also %H and %T,,
+240072,Heath,Grundy,SY,7,53,71,22,42,60,11,7,2,0,0,0,0,0,0, Full Time,news,%D,,
+291357,Gary,Rohan,SY,9,48,51,48,36,51,4,6,2,5,0,1,1,0,0, Full Time,news,Playing forward... %P and %M,,
+990011,Jude,Bolton,SY,9,47,72,42,41,58,4,9,1,3,1,1,2,1,0, Full Time,news,Starting forward on Surjan... %s from %P,,
+230140,Ben,McGlynn,SY,9,46,43,36,34,45,6,2,2,3,0,0,0,1,0, Full Time,injured,%O and %M with %T... left shin kicked by Redden in Q2,subbed,Subbed off in Q3 for Everitt
+290188,Samuel,Reid,SY,9,41,63,30,36,45,5,4,4,0,0,0,0,1,0, Full Time,news,Scoreless on Carlile but ended with %s from %P and %M after Carlile was injured in Q4,,
+291450,Alex,Johnson,SY,3,36,37,29,27,39,5,3,2,3,0,0,1,0,0, Full Time,job,Has Westhoff... %P,,
+220063,Martin,Mattner,SY,3,34,62,22,26,36,6,2,2,2,0,1,1,0,0, Full Time,news,%O,,
+200023,Rhyce,Shaw,SY,3,32,39,22,27,42,5,6,1,2,0,0,2,0,0, Full Time,job,Has Gray... %P,,
+261257,Andrejs,Everitt,SY,1,23,35,16,18,27,3,5,0,1,0,0,0,0,0, Full Time,news,On in Q3 for McGlynn,sub,Started as a sub

@@ -1,0 +1,48 @@
+Port Adelaide,Power,Carlton,Blues,R23,15.13.103,15.14.104, Full Time
+Aug 31,2013,4.40,Footy Park,Fox Sports,250365,10392304,port-v-carl,0,Sunny,24,,
+
+<em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: kreuzer alone with 8 tackles and 62 SC? thats seriously flowered<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> maluckyday</em>: was murphy's deliberate<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: wheres all the SC point for carlton for the last qtr?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCO"></b> owens4</em>: go gibbs<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> ballbag</em>: hopefully my harsh words helped you pull through gibbsy. you showed me good<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> Tony9668</em>: good win blues<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> wadaramus</em>: How does Cornes end up with less SC than he had at 3QT?<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> Tony9668</em>: gee rosty u lose by a point and find a positive<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tAD"></b> Sloaneyyyy</em>: gibbs SC is rubbish!<br><em style='color:#000'>MLSs</em>: ebert minus 34 SC for the quarter lol<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tCA"></b> Laudle</em>: heartattack!<br><em style='color:#000;margin-bottom:-2px'><b class="ticon tSK"></b> itsduftime</em>: kruz went backwards in sc that 1/4. flower!!!!<br>
+210020,Kane,Cornes,PA,37,143,137,184,114,153,21,14,12,4,0,0,0,0,0, Full Time,gun,%P and %M with %T,tagger,Tagging Murphy,453000,90,451500,90,Centre,18,20,104.9,103.8,9.59,5.82
+261911,Brad,Ebert,PA,23,113,127,141,92,118,17,6,5,3,0,1,1,4,1, Full Time,hulk,Tagged by Curnow... %P and %M plus %T and %s,,,442100,101,453000,116,Centre,7,21,98.5,95.8,2.61,0.83
+260750,Justin,Westhoff,PA,21,97,132,123,79,102,14,7,6,3,0,2,1,2,0, Full Time,switch,%P and %T with %M in an interesting matchup on Walker to start with... shifted to be loose in defence after Q1,,,376600,88,433700,84,Forward,39,20,87,96.9,8.11,7.96
+250365,Travis,Boak,PA,21,94,102,121,71,96,15,7,4,4,0,1,0,1,0, Full Time,news,%P and %M plus %s,,,487100,99,548600,99,Centre,1,20,100.6,106.9,4.94,3.32
+230195,Jay,Schulz,PA,26,91,121,111,83,103,10,7,8,1,0,0,2,4,1, Full Time,news,Booted %s from %O and %G on Jamison,,,376800,100,422500,96,Forward,28,21,76,83.7,2.14,2.06
+271078,Matthew,Broadbent,PA,15,87,123,113,66,91,13,8,5,4,0,0,0,0,1, Full Time,news,%D and %M,,,315500,36,379300,50,Centre,5,21,70.9,77.4,0.61,0.66
+230124,Tom,Logan,PA,20,86,66,111,71,93,13,6,8,2,0,0,1,1,0, Full Time,news,%D and %M plus %s,job,On Yarran,270900,110,307500,110,Back,44,7,60.4,63.7,0.27,0.16
+290546,Aaron,Young,PA,19,80,104,99,68,88,8,10,7,2,0,0,0,1,1, Full Time,news,%O and %M plus %s,,,181600,24,225600,47,Forward,40,2,47.5,46.5,0.82,0.27
+290540,Cameron,O'Shea,PA,13,79,113,100,68,94,13,11,6,1,1,1,2,0,0, Full Time,job,Betts is his man... %P and %M,,,329600,92,340000,67,Back,13,21,70.5,72.6,3.31,4.16
+261230,Matthew,Lobbe,PA,16,78,79,95,64,79,4,7,3,5,21,1,0,0,1, Full Time,news,Started at FF on Henderson... %s from %D and %M... also %H and %T,,,466500,84,511800,87,Ruck,23,18,81.2,86.5,1.41,0.86
+240290,Angus,Monfries,PA,15,75,71,92,63,81,8,9,5,2,0,1,0,1,3, Full Time,news,First goal... %s from %P and %M on McInnes,,,396900,88,464700,122,Forward Centre,6,21,81.8,91.1,10.25,13.77
+295054,Sam,Colquhoun,PA,14,74,55,93,66,87,10,10,9,0,0,0,1,0,0, Full Time,news,Garlett is his man... %O and %M,subbed,Subbed off at 3QT for Stevenson,228200,-18,238500,-11,Centre Back,30,7,56.1,54.3,15.62,12.73
+294318,Oliver,Wines,PA,14,73,71,93,58,78,5,11,5,5,0,1,0,0,0, Full Time,news,%O and %T with %M,,,289300,63,292900,48,Centre,16,21,74.3,74.1,16.30,17.50
+291964,Jack,Hombsch,PA,12,66,41,85,54,69,10,5,7,1,0,1,0,0,0, Full Time,news,%M and %D,job,At FB on Casboult,304000,103,390800,140,Back,36,5,67,83.6,0.43,1.10
+291962,Chad,Wingard,PA,15,65,91,85,49,67,10,4,2,4,0,1,1,1,1, Full Time,tagged,Tagged by Ellard... %P and %T with %M and %s,,,392300,84,490300,122,Centre,20,21,88.5,99,6.13,8.00
+280750,Andrew,Moore,PA,9,61,58,81,47,66,12,4,4,2,0,0,1,0,0, Full Time,news,%D,tagger,Tagging Gibbs,336900,37,334700,20,Centre,26,14,68.8,67.4,0.22,0.19
+210043,Domenic,Cassisi,PA,8,56,77,70,49,72,5,13,3,3,0,0,2,0,0, Full Time,news,%D and %M plus %T,,,232900,58,268900,70,Centre,25,9,54.4,60.6,0.28,0.15
+280013,Jackson,Trengove,PA,3,47,58,57,40,54,5,9,3,1,0,1,0,0,0, Full Time,job,Has Waite... %D and %M,,,223100,44,274200,59,Back,12,14,46.1,54.1,0.61,0.58
+290156,Jasper,Pittard,PA,3,38,27,50,28,36,6,2,2,2,0,2,0,0,0, Full Time,job,Responsible for Armfield... %O and %M,,,272600,32,302700,65,Back,29,14,58.8,63.6,8.95,10.69
+292145,Thomas,Jonas,PA,3,30,25,39,26,36,2,5,3,2,0,0,1,0,0, Full Time,job,On Menzel... %D and %T,,,207500,67,241800,92,Back,42,18,46.1,53.7,0.45,0.49
+250308,Brent,Renouf,PA,3,28,45,34,27,35,1,3,1,2,14,0,2,0,0, Full Time,news,%H and %P... also %F,in,Late replacement for Robbie Gray,264700,101,304000,88,Ruck,4,4,41.8,53.5,0.30,0.40
+280379,Lewis,Stevenson,PA,2,18,39,26,15,24,3,2,1,2,0,0,2,0,0, Full Time,news,On after 3QT for Colquhoun,sub,Started as a sub,237500,56,262400,75,Back,15,8,58.3,61.5,7.44,6.21
+250105,Marc,Murphy,CA,27,114,130,87,90,117,14,9,5,5,0,1,0,3,0, Full Time,star,Tagged by Kane Cornes... %O and %T with %M and %s,,,353000,69,412500,56,Centre,3,20,84.1,90.5,7.80,8.16
+240014,Andrew,Walker,CA,19,102,123,49,76,105,22,3,7,3,0,0,1,0,0, Full Time,hot,%O and %M with %T,job,In defence once again on Westhoff to start with but loose after Q1,415700,82,475900,103,Forward Centre,1,20,86,105.3,11.53,27.74
+270146,Ed,Curnow,CA,30,94,66,79,73,99,11,8,6,6,0,0,1,1,0, Full Time,news,%P and %T with %M,tagger,Tagging Ebert,336300,94,394700,104,Centre,35,18,71.8,76.8,0.35,0.37
+250417,Bryce,Gibbs,CA,19,86,139,34,69,96,19,7,3,1,0,2,2,1,0, Full Time,tagged,Tagged by Moore... %K among %D,,,376200,88,404600,81,Back Centre,4,18,89,93,48.14,44.04
+220110,Jarrad,Waite,CA,21,83,84,69,67,86,10,4,8,4,0,0,1,1,2, Full Time,news,Starting forward on Trengove... %P and %M,,,253200,64,305800,23,Forward,30,11,67.5,74.5,0.70,0.65
+240060,Eddie,Betts,CA,15,80,87,57,66,87,10,9,3,2,0,0,0,2,3, Full Time,news,Kicked %s from %D and %M on O'Shea,,,306600,79,341400,85,Forward,19,15,58.3,65.9,2.21,1.65
+271110,Chris,Yarran,CA,16,76,91,50,62,77,12,1,6,2,0,1,1,2,2, Full Time,news,%s from %P on Logan,,,268000,38,269800,12,Back,13,18,59.9,64.8,4.68,5.51
+270653,Jeff,Garlett,CA,15,73,83,47,58,73,11,4,3,2,0,2,0,2,1, Full Time,news,%D and %T on Colquhoun,,,287700,76,309400,96,Forward,38,19,71.2,77.9,3.10,3.57
+250672,Robert,Warnock,CA,20,66,64,44,58,68,8,2,0,1,35,2,1,0,0, Full Time,news,%H and %D,,,328700,53,419200,69,Ruck,11,9,70.9,90.7,0.95,0.78
+261299,Matthew,Kreuzer,CA,27,65,68,77,47,57,2,1,2,8,12,1,0,1,0, Full Time,news,%H with %D and %T... also %s,,,446100,118,566700,140,Ruck,8,15,88,99.9,6.86,6.49
+261258,David,Ellard,CA,14,61,51,57,41,57,6,6,0,7,0,3,0,0,0, Full Time,tagger,Tagging Wingard... %D and %T,,,432300,185,456900,199,Centre,46,2,48,42.5,0.08,0.10
+230202,Kade,Simpson,CA,10,59,73,36,47,63,10,4,3,2,0,1,1,1,0, Full Time,news,%D and %s,,,442500,59,512000,48,Centre,6,21,86.5,96.2,0.75,0.78
+290311,Mitch,Robinson,CA,9,52,67,38,36,51,8,3,2,4,0,0,0,0,0, Full Time,news,%O,,,388500,61,420500,54,Forward Centre,12,18,77.3,81.3,3.05,1.97
+294691,Tom,Bell,CA,9,45,66,28,36,48,7,4,2,1,0,0,0,1,0, Full Time,news,%D and %M,,,261700,27,291200,36,Centre,28,6,58.2,63.8,0.36,0.38
+260533,Dennis,Armfield,CA,7,44,66,30,38,54,6,9,2,1,0,1,1,0,0, Full Time,news,%P on Pittard,,,272100,62,296500,46,Forward Centre,27,21,57,60.6,2.21,2.30
+291456,Andrew,McInnes,CA,3,35,48,28,24,33,5,1,2,3,0,0,0,0,0, Full Time,job,Monfries is his man... %O,,,233000,46,296900,44,Back,26,5,52,65,0.14,0.17
+270326,Lachie,Henderson,CA,3,34,41,23,28,36,6,0,5,1,0,0,1,0,0, Full Time,job,In defence on Lobbe.... %D,,,334400,99,402000,118,Back Forward,23,21,70.4,85.3,3.18,3.98
+281124,Levi,Casboult,CA,3,31,11,20,26,31,5,1,4,0,0,1,0,0,1, Full Time,news,Booted %s from %G and %P on Hombsch,subbed,Subbed off in Q3 for Duigan,288400,49,340100,35,Forward,41,9,56,61.2,0.54,0.57
+261009,Nick,Duigan,CA,3,29,43,16,26,37,5,5,2,0,0,0,1,0,1, Full Time,in,Late replacement for Heath Scotland... on in Q3 for Casboult,sub,Started as a sub,270800,91,315300,89,Back,34,2,42.5,53.5,0.39,0.41
+292511,Zach,Tuohy,CA,2,27,44,19,19,27,4,3,0,2,0,1,0,0,0, Full Time,news,%O and %T,,,265100,60,333400,78,Back,42,21,53.8,65.8,1.78,2.13
+261043,Michael,Jamison,CA,2,23,59,15,19,27,4,2,2,1,0,0,1,0,0, Full Time,job,Standing Schulz... %P,,,226100,80,304100,75,Back,40,21,48.9,64.9,1.37,1.59
+293154,Troy,Menzel,CA,2,22,30,14,16,22,4,1,0,2,0,2,1,0,1, Full Time,news,%s from %O on Jonas,,,219800,8,198700,-6,Forward Centre,2,5,52.8,45.6,5.63,5.22

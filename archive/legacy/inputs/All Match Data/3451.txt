@@ -1,0 +1,48 @@
+West Coast,Eagles,Hawthorn,Hawks,R7,15.12.102,14.10.94, Full Time
+May 08,2010,3:10,Subiaco,Ten,240283,10280703,5015495,4993,Sunny,25
+The style sheets are taking a little longer than expected but it will come...,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>gooutside</em>: looks like JKT might be back next week on this form. wooo<br><em>gooutside</em>: gosh rioli STINKS<br><em>Essendon18</em>: time to get rid of ladson<br><em>bluegumby</em>: is there a website to bet on afl dreamteam?<br><em>BERBATOV</em>: 113 for cox is alrite&#044; but nic nat 127 wtf! hams and waters :(<br><em>GoLions</em>: lol at 69 for png =P<br><em>IamBic</em>: hawthorn for spud<br><em>GoLions</em>: i hate u ladson. and waters i hate u for this round but u hav been good in others<br><em>CuStArDaRm</em>: shoey 1...SPUD him up!!!<br><em>fineline</em>: hurry up sc sores<br><em>Side by Side</em>: is it time for rioli to go?<br><em>JonPlaka</em>: what about boomer then??<br>
+240406,Josh J.,Kennedy,WC,42,112,150,138,96,113,12,3,6,4,0,4,2,6,2, Full Time,star,%s from %P and %M with %T including a three-goal Q2
+200112,Dean,Cox,WC,33,108,113,126,95,113,7,9,5,3,35,1,0,1,0, Full Time,gun,%H and %D with %M and %s
+240124,Matt,Priddis,WC,26,90,82,117,65,93,7,13,2,9,0,1,0,0,0, Full Time,tagged,Tagged by Shiels... %O and %T
+220061,Quinten,Lynch,WC,20,84,101,106,72,87,12,3,8,1,0,2,1,2,3, Full Time,news,Booted %s from %G and %O on Stratton
+261911,Brad,Ebert,WC,20,83,80,113,59,82,14,3,4,6,0,1,1,0,1, Full Time,tagged,Tagged by Sewell... %O and %M with %T
+240119,Mark,LeCras,WC,21,81,79,101,69,87,14,2,4,1,0,1,2,4,0, Full Time,news,%s from %P and %M
+271045,Nic,Naitanui,WC,14,81,127,93,76,93,7,12,3,1,22,5,2,0,2, Full Time,fiji,Schoenmakers following him... %H and %D... also %4 frees for
+280379,Lewis,Stevenson,WC,14,79,69,103,63,81,12,5,8,2,0,1,0,0,0, Full Time,bubble,Second game... %P and %M
+240379,Ben,McKinley,WC,17,75,94,96,60,74,9,3,4,4,0,3,1,2,2, Full Time,news,%s from %G and %P on Gilham
+271073,Tom,Swift,WC,19,75,90,96,56,81,7,12,2,6,0,0,0,0,0, Full Time,news,Matched up on Ellis.. %O and %T
+260546,Bradd,Dalziell,WC,9,70,61,84,61,84,7,15,5,1,0,0,0,0,0, Full Time,in,%l Scott Selwood... %O and %M
+240283,Shannon,Hurn,WC,9,69,110,94,51,69,14,1,5,3,0,1,1,0,0, Full Time,news,%O and %M with %T
+240016,Beau,Waters,WC,9,66,48,86,52,69,8,6,6,3,0,0,0,0,0, Full Time,news,%D and %M
+230254,Adam,Selwood,WC,8,64,59,79,56,79,10,12,3,1,1,2,2,0,0, Full Time,tagger,Forward tag on Hodge at CHF... %O and %M with %F
+250317,Eric,MacKenzie,WC,10,62,86,81,48,63,6,6,5,4,0,1,0,0,0, Full Time,job,On Morton... %D
+230281,Mark,Nicoski,WC,9,57,84,78,43,63,8,5,3,5,0,0,2,0,0, Full Time,news,%P and %T with %M
+200074,Darren,Glass,WC,8,46,71,58,40,51,4,6,6,1,0,0,0,0,0, Full Time,job,Had Roughead... %M and %P
+250034,Ashton,Hams,WC,3,39,42,52,31,39,6,2,3,2,0,3,1,0,0, Full Time,sore,Lower back problem early in Q1 but back on in Q2... %O
+250111,Matt,Rosa,WC,2,37,52,48,29,42,8,4,1,1,0,1,1,0,0, Full Time,tagger,Tagged Bateman... %O
+261214,Will,Schofield,WC,3,37,57,47,29,44,4,7,0,3,2,0,1,0,0, Full Time,job,Had Whitecross on a HBF... %O
+281080,Brad,Sheppard,WC,3,35,41,46,27,39,6,4,1,2,0,1,1,0,0, Full Time,rookie,First game... %D
+280441,Patrick,McGinnity,WC,2,26,27,35,22,33,4,4,1,2,0,1,2,0,0, Full Time,tagger,Tagged Rioli... %P
+240357,Jarryd,Roughead,HW,37,119,119,90,101,123,14,4,7,3,0,0,1,6,3, Full Time,garbage,Glass on him... %s from  %G and %P... much of his scoring in Q4 with the game shot
+250089,Jordan,Lewis,HW,21,104,141,74,84,118,14,17,4,4,0,2,1,0,1, Full Time,in,%l Lance Franklin... %O and %M plus %s
+240302,Grant,Birchall,HW,22,101,119,79,83,105,12,8,8,3,0,1,0,2,0, Full Time,hot,%O and %M plus %s
+220013,Campbell,Brown,HW,15,87,90,57,69,90,14,6,8,2,0,1,0,0,0, Full Time,news,%D and %M
+220047,Luke,Hodge,HW,14,87,129,58,65,90,14,8,3,5,0,3,1,0,0, Full Time,tagged,Forward tag on him by Adam Selwood at CHB... %O and %T with %M
+230197,Brad,Sewell,HW,43,83,93,88,59,84,6,9,3,10,0,1,1,0,0, Full Time,tagger,Tagged Ebert... %O
+250308,Brent,Renouf,HW,22,79,98,91,69,91,2,11,4,7,19,1,3,0,0, Full Time,news,%H with %M and %P... also %F
+261386,Brendan,Whitecross,HW,16,79,75,60,67,83,10,4,7,2,0,1,1,2,2, Full Time,news,Played HFF on Schofield... %s from %M and %D
+250055,Clinton,Young,HW,20,73,89,59,58,78,9,6,5,4,0,0,1,1,0, Full Time,news,First goal... %P and %M plus %s
+270854,Carl,Peterson,HW,15,73,68,56,64,80,9,5,8,1,3,0,1,1,2, Full Time,news,%s from %O and %M
+250257,Xavier,Ellis,HW,13,70,80,50,51,69,11,4,3,5,0,3,1,0,0, Full Time,news,Matched up on Swift
+260955,Cyril,Rioli,HW,14,67,44,56,53,72,8,7,5,4,0,1,1,0,0, Full Time,tagged,Tagged by McGinnity... %D
+200060,Brent,Guerra,HW,9,66,62,27,53,75,15,5,4,1,0,1,2,0,0, Full Time,injured,%D and %M with %F... left knee tweaked in Q3 and he was mothballed at 3QT
+260279,Beau,Muston,HW,19,66,81,56,53,72,7,8,3,4,0,1,1,1,0, Full Time,news,%P and %M
+230082,Stephen,Gilham,HW,9,59,76,54,51,67,6,6,7,3,1,1,2,0,0, Full Time,job,Stood McKinley... %M and %O
+220060,Rick,Ladson,HW,4,46,43,34,38,51,6,6,4,1,0,0,0,0,0, Full Time,news,%O and %M
+260806,Jarryd,Morton,HW,9,46,60,31,42,54,6,6,3,0,2,1,1,1,1, Full Time,news,MacKenzie on him... %s from %P
+200040,Chance,Bateman,HW,4,42,40,33,36,48,6,3,5,2,0,1,2,0,0, Full Time,reported,Tagged by Rosa... %P and %M... reported for bumping Sheppard in Q2... right foot problem in Q4
+270732,Matt,Suckling,HW,6,40,47,14,35,54,9,8,1,0,0,0,2,0,0, Full Time,news,%P with %b by hand
+280471,Ben,Stratton,HW,3,38,48,29,30,42,6,2,3,3,0,1,2,0,0, Full Time,job,Had Lynch... %P
+280737,Liam,Shiels,HW,6,26,21,24,16,27,4,0,0,5,0,0,2,0,0, Full Time,tagger,Tagged Priddis... %T
+281301,Ryan,Schoenmakers,HW,3,21,1,21,19,26,2,1,2,2,5,0,2,0,0, Full Time,job,Followed Naitanui in the ruck... %H and %P with %M

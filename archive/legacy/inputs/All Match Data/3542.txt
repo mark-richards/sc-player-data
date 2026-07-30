@@ -1,0 +1,48 @@
+Richmond,Tigers,Adelaide,Crows,R18,15.10.100,11.14.80, Full Time
+Aug 01,2010,1:10,MCG,Fox Sports,960662,10281806,5015572,5208,Windy with showers,12
+The latest submission was rejected by Apple but we're real close now,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em>adiman</em>: scott stevens 112! ty<br><em>adiman</em>: tippett 78&#044; bareable<br><em>lids#3</em>: Deledio 63 sc that qtr<br><em>lids#3</em>: I <br><em>Grazz</em>: Martin 111 SC Barlow&#044; may have to concede that you may be right mate today.<br><em>Nigey95</em>: Martin 111 SC&#044; i think thats his best all year! :)<br><em>toby93</em>: damn i might only get 2000-2100 ish this week in sc :(<br><em>StAnselm</em>: Riewoldt the X<br><em>barlowgun</em>: i can gurantee boyd's SC will not be higher then martins this week he is giving out clanger after clanger<br><em>fredfrothn</em>: maybe sum smutt during half time 2?<br><em>redwallis</em>: did dustin just say flower?<br><em>Danny_Bhoy</em>: Brisbane sit 15th<br>
+200109,Shane,Tuck,RI,57,141,139,180,106,147,15,18,4,10,0,2,0,1,0, Full Time,star,Tagging Thompson... %P and %M with %T plus %s
+210048,Chris,Newman,RI,36,125,144,163,93,123,18,8,6,7,0,3,0,1,0, Full Time,hot,Minding Jaensch.. %P and %M plus %s
+260930,Shane,Edwards,RI,31,106,78,138,81,118,13,15,3,8,0,1,2,0,1, Full Time,hot,%D and %T with %M
+240336,Brett,Deledio,RI,20,105,127,133,87,123,16,16,6,3,0,1,2,0,0, Full Time,hot,Loose in defence... %O and %T with %M
+240412,Mitch,Morton,RI,30,97,65,126,74,99,11,8,6,6,0,0,0,1,0, Full Time,news,%s from %P with %T and %M
+260105,Daniel,Connors,RI,10,90,116,116,68,93,16,8,4,3,0,2,0,0,0, Full Time,job,On Sloane... %O and %M plus %T
+271437,Jake,King,RI,12,78,87,98,63,77,11,3,5,2,0,2,0,2,2, Full Time,porpoise,%D and %T plus %s in a small forward role on Porplyzia in the first half
+960662,Ben,Cousins,RI,19,75,81,88,62,90,7,18,0,3,0,0,0,1,0, Full Time,news,Head to head with Vince... %O including %b by hand
+240707,Daniel,Jackson,RI,15,72,82,93,61,89,13,9,2,3,1,1,4,1,1, Full Time,news,%O and %T with %M and %F
+290847,Dustin,Martin,RI,14,71,111,85,59,85,10,14,0,2,1,1,1,1,0, Full Time,tagged,Tagged by Reilly... %P
+250395,Jack,Riewoldt,RI,12,62,59,78,53,66,7,3,5,2,2,0,1,2,1, Full Time,news,%s from %G and %P on Rutten
+290198,David,Astbury,RI,14,61,53,81,49,69,8,7,4,4,0,1,2,0,0, Full Time,news,Defensive role again... %P and %T with %M
+292500,Jeromey,Webberley,RI,10,54,56,67,46,63,6,8,3,2,0,0,1,1,0, Full Time,news,%B among %O with %M and %s
+240389,Matt,White,RI,15,52,61,68,40,55,6,4,2,4,0,0,1,1,1, Full Time,news,%s from %O as a small forward... also %T
+260146,Angus,Graham,RI,5,47,43,55,39,50,4,6,0,2,14,1,0,0,0, Full Time,news,%H and %P
+260970,Mitch,Farmer,RI,4,46,59,56,40,54,4,9,4,1,0,0,0,0,0, Full Time,job,Minding Dangerfield... %O and %M
+270954,Andrew,Browne,RI,14,43,54,48,44,55,1,7,2,1,16,0,2,1,0, Full Time,news,%H and %P with %F and %s
+290046,Robbie,Hicks,RI,9,37,47,46,30,39,3,4,2,2,0,0,0,1,0, Full Time,in,%l Andrew Collins... first game... %P and %T on Stevens
+261910,Ben,Nason,RI,2,31,14,39,26,33,3,4,3,1,0,1,0,0,0, Full Time,news,%P and %M on Doughty
+240256,Luke,McGuane,RI,9,26,47,34,30,46,6,5,2,0,0,0,5,1,1, Full Time,news,Starting forward on Bock... %s from %P
+230279,Kelvin,Moore,RI,2,21,31,27,19,27,4,3,2,0,0,0,1,0,0, Full Time,job,Has Walker... %D and %M
+250662,Will,Thursfield,RI,2,20,27,26,16,25,2,4,0,2,0,0,1,0,1, Full Time,job,Standing Tippett... %D
+210016,Scott,Thompson,AD,38,122,89,91,91,127,17,11,4,8,0,1,1,1,1, Full Time,gun,Tagged by Tuck... %P and %T plus %M and %s
+261142,Bernie,Vince,AD,36,120,128,84,90,120,18,8,6,6,0,2,0,1,0, Full Time,hot,Head to head with Cousins... %P and %M with %T and %s
+230215,Brad,Symes,AD,25,111,123,71,87,122,18,12,6,4,2,0,1,0,0, Full Time,hot,%B among %D with %M
+200092,Michael,Doughty,AD,19,97,122,59,79,105,16,11,6,2,0,4,1,0,0, Full Time,job,Running off Nason... %P and %M with %T
+200072,Scott,Stevens,AD,19,96,112,60,78,102,16,7,10,1,0,0,0,0,0, Full Time,job,Running off Hicks... %M and %O
+230174,Jason,Porplyzia,AD,25,93,83,69,79,99,12,8,10,1,0,1,0,1,0, Full Time,news,Started down back on King then moved forward in Q3... %D and %M plus %s
+220086,Brent,Reilly,AD,25,89,91,70,67,93,12,6,3,7,2,1,2,1,1, Full Time,tagger,Tagging Martin... %O and %s with %T and %M
+240370,Richard,Douglas,AD,17,89,107,57,71,93,14,6,4,3,0,2,1,2,0, Full Time,news,%s from %D and %M in a small forward role
+220009,Nathan,Bock,AD,13,83,94,57,64,84,13,5,7,3,0,1,0,0,0, Full Time,job,Has McGuane at CHB... %P
+250362,David,Mackay,AD,14,75,83,59,60,81,9,11,3,4,0,4,1,0,0, Full Time,news,%O and %M with %T
+270963,Rory,Sloane,AD,27,75,66,78,54,74,5,7,2,8,0,0,0,1,2, Full Time,news,%s from %P with %T on Connors
+250088,Jonathon,Griffin,AD,17,69,71,64,62,77,5,5,4,3,18,0,2,1,2, Full Time,news,%H and %P with %M and %s
+270917,Patrick,Dangerfield,AD,18,61,50,46,58,77,7,10,6,0,0,0,2,1,2, Full Time,news,%s from %P and %M on Farmer
+250118,Nathan,van Berlo,AD,8,60,75,35,50,72,10,10,3,1,0,0,1,0,0, Full Time,news,%D
+261263,Chris,Schmidt,AD,8,58,65,50,51,69,5,12,5,1,0,0,0,0,0, Full Time,news,%P and %M
+280506,Taylor,Walker,AD,11,57,52,48,49,61,6,5,5,2,0,2,1,1,1, Full Time,news,Booted %s from %G and %P on Moore
+291201,Ricky,Henderson,AD,5,57,37,52,46,60,5,8,4,3,0,2,0,0,0, Full Time,sore,%D and %M plus %T... left leg problem worked on at half time
+270742,Kurt,Tippett,AD,9,55,78,39,46,57,7,4,3,1,4,1,0,1,2, Full Time,news,%s from %D on Thursfield... also %H
+291351,Jack,Gunston,AD,3,43,48,34,33,45,6,3,3,3,0,1,1,0,0, Full Time,bubble,Second game... %P and %M with %T
+220093,Ben,Rutten,AD,4,42,62,37,38,51,4,7,5,1,0,0,1,0,0, Full Time,job,Standing Riewoldt... %M and %O
+240546,Ivan,Maric,AD,3,35,54,29,30,36,3,3,1,1,12,1,0,0,0, Full Time,news,%H and %P
+261351,Matthew,Jaensch,AD,13,32,39,41,21,33,1,4,0,6,0,0,1,0,0, Full Time,news,%D and %T

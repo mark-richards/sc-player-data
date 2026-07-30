@@ -1,0 +1,48 @@
+Essendon,Bombers,Collingwood,Magpies,R20,10.4.64,24.18.162, Full Time
+Aug 13,2010,7:40,MCG,Seven,240359,10282001,5015464,5220,Cloudy and windy,15
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?
+<em style='margin-bottom:-2px'><b class="ticon tCA"></b> adimax8</em>: lauchyc = idoliser of trevorc?<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Modd</em>: lauchyc - you must have a great social life if you resort to abusing people online...tosspot<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> Bedlam</em>: I have Blair as Emergency. flower I hope someone goes down<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> fishman</em>: go the helmets<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> Judd_MAgic</em>: Just need Goddard to get close to Swan as captain. Didak playing average has helped the cause. <br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> lauchyc</em>: Richmonds better than this sight&#044; this is awefull&#044; your all dicks<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> lauchyc</em>: grow a pair m0nty you fat shower<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> fishman</em>: and A SMALL SOCK<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> lauchyc</em>: Your all flowered up nerds without a social life&#044; flowering waner cows<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> tigerboy</em>: lol @ Sheedy STARTING Mark McVeigh!!<br><em style='margin-bottom:-2px'><b class="ticon tES"></b> riches</em>: swan is using the ball better this year thats why he is getting bigger scores also less clangers<br><em>david123</em>:  Collingwoods vs Adelaide 21 <br>
+250267,Patrick,Ryder,ES,23,89,82,107,76,89,7,4,5,3,26,1,0,1,0, Full Time,news,%H and %D
+240027,Brent,Stanton,ES,14,86,60,108,67,93,13,12,3,3,0,2,0,0,0, Full Time,garbage,Spent some time on Swan in the first half... %P and %M with %T... junked it up in Q4
+230231,Jobe,Watson,ES,15,84,118,95,76,108,2,28,3,3,0,1,0,0,0, Full Time,tagged,Tagged by Wellingham... %O with %b by hand.. also %T
+240319,Sam,Lonergan,ES,38,82,70,114,50,75,8,5,0,12,0,0,0,0,0, Full Time,news,%P and %T
+200026,David,Hille,ES,19,76,103,89,66,82,10,7,3,0,15,1,0,1,1, Full Time,news,%H and %P with %M plus %s
+260073,Ben,Howlett,ES,9,71,67,91,56,78,11,9,3,3,0,2,1,0,0, Full Time,news,%D and %T
+240290,Angus,Monfries,ES,19,68,77,83,61,78,7,8,6,1,0,0,1,2,0, Full Time,tagger,%s from %P... O'Brien went to him but he's trying to forward tag Maxwell
+270935,Michael,Hurley,ES,12,65,62,82,59,81,8,11,7,1,0,0,2,0,0, Full Time,job,Standing Dawes... %D and %F
+280824,Jake,Melksham,ES,15,65,60,80,56,72,9,6,4,1,0,1,1,2,0, Full Time,news,%P and %M
+280988,Travis,Colyer,ES,14,65,64,78,54,75,7,12,2,2,0,0,0,1,0, Full Time,news,%B among %O
+240245,Courtenay,Dempsey,ES,14,61,63,77,50,67,9,6,3,2,0,1,1,1,1, Full Time,news,%O
+250071,Henry,Slattery,ES,10,56,48,72,44,60,4,8,4,4,0,0,0,0,0, Full Time,tagger,Tagging Didak... %O and %M wiTH %t
+261324,Kyle,Reimers,ES,7,53,49,68,42,58,11,5,2,1,0,2,1,0,1, Full Time,news,Matched up with Thomas on a wing... %d
+292503,Stewart,Crameri,ES,7,49,56,56,44,60,3,14,2,1,0,2,0,0,0, Full Time,rookie,First game... %O and %M... had a good Q1 but ran out of petrol tickets at quarter time
+990046,Mark,McVeigh,ES,5,49,20,65,39,54,8,4,4,2,0,0,1,0,0, Full Time,job,Minding Medhurst... %P
+250569,Heath,Hocking,ES,4,42,44,55,33,48,7,5,2,2,0,0,1,0,0, Full Time,job,Running off Leigh Brown... %O
+270588,Cale,Hooker,ES,4,39,27,49,35,48,4,7,4,1,0,0,1,0,0, Full Time,job,Following Cloke
+260256,Jay,Neagle,ES,8,38,52,47,32,40,4,3,3,1,0,0,0,1,1, Full Time,burger,First goal... %s from %P on Brown
+290641,Jake,Carlisle,ES,9,34,27,41,33,42,3,5,4,0,0,0,1,1,0, Full Time,rookie,First game... %s from %P on O'Brien
+230060,Ricky,Dyson,ES,6,32,39,40,28,45,8,7,0,0,0,0,2,0,0, Full Time,spud,%P... unquestionably the worst player in the league
+270951,David,Zaharakis,ES,2,28,38,34,23,33,5,5,1,0,0,0,0,0,0, Full Time,injured,Playing halfback on Beams... %D... left knee knock in Q1 and shut down at QT
+270584,Kyle,Hardingham,ES,1,18,22,22,15,21,1,4,1,1,0,0,0,0,0, Full Time,news,Prestigiacomo should be way too good for him... %D
+240366,Travis,Cloke,CO,50,162,142,121,135,158,21,1,16,3,0,2,0,5,5, Full Time,star,Booted %s from %G and %O on Hooker
+260257,Scott,Pendlebury,CO,37,134,119,111,107,144,15,17,10,6,0,1,0,0,0, Full Time,gun,%D including %k by foot with %M with %T
+220105,Dane,Swan,CO,23,116,141,82,95,129,15,16,5,3,0,0,0,2,0, Full Time,hot,Tagged by a variety of Dons as Knights used Swan as a teaching aid... %B among %O with %M and %T... also %s
+280104,Jarryd,Blair,CO,31,110,137,94,94,126,10,18,6,4,0,1,1,2,0, Full Time,x-factor,%O with %b by hand plus %M and %s... had a very good Q1
+261181,Brent,Macaffer,CO,26,103,110,74,81,103,14,5,5,4,0,1,0,3,1, Full Time,hot,%s from %P  with %M and %T
+260394,Chris,Dawes,CO,26,102,118,78,88,108,12,8,10,1,1,1,0,2,2, Full Time,hot,Booted %s from %D and %G on Hurley
+261799,Sharrod,Wellingham,CO,26,99,112,67,66,94,17,3,3,8,0,0,0,0,1, Full Time,sore,Tagging Watson... %D and %T... AC joint problem in Q4
+200021,Ben,Johnson,CO,21,98,137,66,70,99,16,7,4,6,0,0,0,0,0, Full Time,news,%D and %T with %M
+210099,Darren,Jolly,CO,24,98,84,89,89,105,7,6,8,2,23,0,1,2,1, Full Time,injured,%H and %D with %M and %s... bruised shin in Q4 and iced up
+280965,Steele,Sidebottom,CO,20,98,79,78,80,105,12,10,10,3,0,0,0,0,0, Full Time,garbage,%O and %M with %T... enjoyed himself in second half junk time
+240359,Dale,Thomas,CO,20,97,104,68,77,102,14,8,7,3,0,0,0,1,0, Full Time,news,Matched up on Reimers on a wing... %D and %M with %T plus %s
+271001,Dayne,Beams,CO,25,96,93,70,80,113,12,17,2,4,0,2,2,1,2, Full Time,news,Playing a HFF... %D and %M plus %s
+210003,Alan,Didak,CO,17,91,67,61,76,100,13,9,5,2,0,1,1,2,1, Full Time,garbage,Tagged by Henry Slattery... no stats in Q1... %s from %D and %M... got lots of cheap stuff in the second half
+200028,Leigh,Brown,CO,26,82,117,62,76,96,10,6,6,2,5,2,4,3,1, Full Time,news,%s from %D and %M on Hocking... three majors in Q1... also %F
+240700,Heath,Shaw,CO,19,76,82,54,57,78,11,6,3,4,0,0,0,1,0, Full Time,news,%D and %T
+240073,Harry,O'Brien,CO,9,63,58,43,49,69,10,6,4,3,0,0,1,0,0, Full Time,news,His man Monfries is going to Maxwell leaving him free... %O
+260310,Nathan,Brown,CO,8,52,106,46,48,66,4,13,4,1,0,1,1,0,0, Full Time,job,Has Neagle... %B among %P
+240419,Alan,Toovey,CO,4,50,73,41,40,57,6,7,3,3,0,0,1,0,0, Full Time,news,%O and %T
+220070,Paul,Medhurst,CO,9,49,53,42,37,52,6,4,3,4,0,0,1,0,1, Full Time,news,McVeigh on him... %s from %D with %M and %T
+960159,Simon,Prestigiacomo,CO,4,36,47,34,34,45,2,9,4,0,0,0,0,0,0, Full Time,job,Standing Hardingham... %O
+980110,Tarkyn,Lockyer,CO,7,35,42,36,22,33,3,3,0,5,0,0,0,0,0, Full Time,cold,%D and %T
+230263,Nick,Maxwell,CO,1,18,34,19,13,18,1,3,0,2,0,1,0,0,0, Full Time,tagged,Zoning off Carlisle but Monfries is trying to forward tag him... %P and %T

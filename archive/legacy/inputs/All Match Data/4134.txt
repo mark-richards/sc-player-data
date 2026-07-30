@@ -1,0 +1,48 @@
+Western Bulldogs,Bulldogs,Hawthorn,Hawks,R16,6.8.44,17.14.116, Full Time
+Jul 15,2012,3:15,Docklands,Seven,290799,10341608,430141,0,Roof closed,14,,
+They will now only appear at the end of matches by agreement. There is a thread about it in the Feedback section of the forums if you want to discuss it so please don't fill the live chat with complaints.,SC scores?,You can go to fanfooty.com.au/m for a mobile version including scores pages.,Mobile?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat.,Purple?,Only for the second half of the last game of the round. To get your icon go to your Account Options page and choose your team colours.,Team icons?,Go to your Exteam list page and press the button to add players in your team to your watchlist so they appear in green in the scores pages.,Watchlist?
+<em style='margin-bottom:-2px'><b class="ticon tWC"></b> M.Brown#1</em>: flower off suckling what the flower is that shower<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> tigerbite</em>: where's hoggy...whenz he back????<br><em>calypso</em>: birch doing what he does best<br><em>old_shepp</em>: How do you work out SC?  Lake got 3 points for giving a free away to Birchall ??<br><em>bulldog</em>: to the people who said suckling was going to junktime he had a better first half<br><em>Changeling</em>: Well done birch and boyd<br><em>Grazz</em>: @Joe B yeh just a little mate not to mention the league wins haha. Thats how this game rolls though.<br><em>The It_123</em>: 20 points off 2200 can it happen<br><em>BYeates13</em>: game still going?<br><em>torres</em>: Typical Boyd game.  Be a seagull with no impact on the game<br><em>vbdl</em>: give boyd the gun<br><em>itsduftime</em>: love ya capt boyd :D<br>
+220010,Matthew,Boyd,WB,30,131,141,167,104,145,21,16,7,4,0,1,1,0,1, Full Time,hot,Tagged by Sewell... %B among %O with %T and %M,,
+210049,Daniel,Cross,WB,30,114,98,144,94,123,10,16,10,5,0,2,0,0,0, Full Time,hot,%D and %M,,
+240156,Ryan,Griffen,WB,45,112,118,151,77,108,15,7,4,10,0,1,0,0,0, Full Time,hot,%D including %K with %T and %M... very productive Q1,,
+260227,Shaun,Higgins,WB,36,111,112,143,85,108,14,4,6,6,0,1,0,3,0, Full Time,hot,%s from %P and %T on Murphy... also %M,,
+291545,Mitch,Wallis,WB,24,94,62,123,77,102,9,10,10,5,0,0,1,0,0, Full Time,news,%P and %M,,
+200083,Robert,Murphy,WB,9,82,100,107,62,87,18,6,3,2,0,2,1,0,0, Full Time,job,Puopolo manning him up... %D and %M,,
+230255,Will,Minson,WB,26,82,68,96,71,83,3,5,3,4,38,0,0,0,0, Full Time,news,%H and %D with %M,,
+295712,Tory,Dickson,WB,15,73,56,97,57,74,12,1,6,3,0,0,1,1,2, Full Time,news,First goal... %s from %P and %M with %T on Suckling,,
+293847,Clay,Smith,WB,16,71,43,100,54,78,11,3,4,7,2,1,4,0,1, Full Time,tagger,Tagging Mitchell... %P and %T plus %s,sore,Left calf issue in Q3
+271439,Liam,Picken,WB,9,70,73,89,57,78,13,8,4,1,0,2,1,0,0, Full Time,tagger,Tagging Rioli... %P,,
+220039,Brian,Lake,WB,13,67,124,87,59,79,12,6,8,0,1,0,2,0,0, Full Time,news,%P and %M,job,Running off Roughead
+250150,Tom,Williams,WB,15,67,63,86,56,67,11,1,8,0,0,1,0,1,1, Full Time,news,Starting forward on Gibson... %s from %P and %M,,
+290799,Tom,Liberatore,WB,14,67,76,84,54,75,5,12,4,4,0,0,0,0,0, Full Time,sore,%O including %B with %T... hamstring soreness in Q3,,
+200082,Ryan,Hargrave,WB,8,66,61,86,51,72,11,7,3,3,0,1,1,0,0, Full Time,job,Has Gunston... %D,sore,Ankle knock in Q3
+291526,Luke,Dahlhaus,WB,5,61,68,80,49,66,8,6,5,3,0,1,1,0,0, Full Time,news,%B among %D with %M and %T,,
+200080,Lindsay,Gilbee,WB,8,55,60,70,44,60,9,6,4,1,0,0,0,0,0, Full Time,news,%O and %M,,
+250383,Nathan,Djerrkura,WB,5,54,30,71,43,60,9,5,4,2,0,0,1,0,0, Full Time,news,%P and %M,,
+280056,Ayce,Cordy,WB,9,50,43,64,41,49,7,1,5,1,0,1,0,1,1, Full Time,news,%P and %G on Gilham,,
+240325,Justin,Sherman,WB,3,39,51,48,33,42,4,6,3,1,0,2,0,0,0, Full Time,news,%D on Burgoyne,,
+281374,Christian,Howard,WB,4,39,25,50,35,45,6,4,5,0,0,1,1,0,0, Full Time,news,%D and %M,,
+281013,Jason,Tutt,WB,2,21,14,26,18,24,3,3,2,0,0,0,0,0,0, Full Time,news,On in Q3 for Markovic,sub,Started as a sub
+250601,Lukas,Markovic,WB,0,7,25,9,8,12,1,2,1,0,0,0,1,0,0, Full Time,job,At FB on Schoenmakers... %O,subbed,Subbed off in Q3 for Tutt
+220073,Sam,Mitchell,HW,27,125,158,82,98,135,19,15,4,5,0,3,1,1,0, Full Time,star,Tagged by Smith... %P including %B with %M and %T... also %s,,
+261386,Brendan,Whitecross,HW,31,117,111,80,93,121,18,7,9,4,1,2,1,1,0, Full Time,hot,%P plus %s,,
+250715,Josh,Gibson,HW,19,98,97,57,79,111,17,12,6,2,0,0,1,0,0, Full Time,rock,Has Williams... %D and %M,,
+230197,Brad,Sewell,HW,26,95,104,80,75,106,10,14,3,6,0,0,1,1,1, Full Time,news,%P and %T with %M and %s,tagger,Tagging Boyd
+240302,Grant,Birchall,HW,18,93,106,69,80,108,11,17,7,1,0,1,0,0,0, Full Time,news,%O and %M,,
+240357,Jarryd,Roughead,HW,21,93,113,80,77,99,8,10,3,4,9,0,0,2,3, Full Time,garbage,%s from %P and %T on Lake... also %G and %H... most of his numbers in second half junk time,,
+250089,Jordan,Lewis,HW,20,90,105,68,80,104,10,13,6,1,2,1,1,2,0, Full Time,news,%s from %D,sore,Hip pointer in Q2
+291351,Jack,Gunston,HW,22,85,77,64,77,91,10,3,9,0,0,0,1,4,1, Full Time,news,Booted %s from %D and %G on Hargrave,,
+294877,Isaac,Smith,HW,14,81,60,71,70,94,7,15,7,2,1,0,0,0,0, Full Time,news,%D and %M,,
+220036,David,Hale,HW,15,79,101,73,71,90,4,14,2,2,23,1,0,0,1, Full Time,news,%H and %P plus %s,,
+260955,Cyril,Rioli,HW,21,78,105,61,64,85,10,5,5,4,0,0,2,2,1, Full Time,tagged,Tagged by Picken... %O and %M with %T and %s,,
+250055,Clinton,Young,HW,9,76,76,37,59,81,15,7,2,2,1,3,1,0,2, Full Time,news,%O and %s,,
+280471,Ben,Stratton,HW,15,72,115,57,59,84,9,11,4,4,0,1,2,0,0, Full Time,news,%P and %M... also %F,,
+280737,Liam,Shiels,HW,12,70,64,51,50,73,10,8,1,5,0,0,0,0,1, Full Time,news,%P and %s,,
+281301,Ryan,Schoenmakers,HW,15,69,81,52,61,76,8,7,5,1,0,2,1,2,1, Full Time,news,Forward on Markovic... %s from %D and %G,subbed,Subbed off at 3QT for Cheney
+280744,Luke,Breust,HW,14,68,88,51,54,72,8,8,1,3,0,1,0,2,0, Full Time,news,%s from %P,,
+250146,Thomas,Murphy,HW,9,58,61,41,47,63,9,4,6,2,0,0,1,0,0, Full Time,job,Has Higgins... %D and %M,,
+210012,Shaun,Burgoyne,HW,7,50,54,27,39,55,9,6,2,1,0,0,0,0,1, Full Time,job,Chasing Sherman... %O,mrp,A high bump on Dickson in Q1 will be looked at
+230082,Stephen,Gilham,HW,3,35,50,24,28,39,5,5,2,1,0,0,0,0,0, Full Time,in,%l Bradley Hill... %P,job,Standing Cordy
+270732,Matt,Suckling,HW,3,31,30,22,26,39,5,4,2,2,0,0,2,0,0, Full Time,job,Responsible for Dickson... %D... also %F,,
+270215,Kyle,Cheney,HW,2,23,18,24,20,27,1,5,2,1,0,0,0,0,0, Full Time,news,On after 3QT for Schoenmakers,sub,Started as a sub
+260710,Paul,Puopolo,HW,1,16,14,19,13,21,1,3,0,3,0,1,2,0,0, Full Time,news,Didn't touch the footy in Q1... %P and %T.. manning up Murphy,,

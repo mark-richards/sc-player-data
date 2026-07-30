@@ -1,0 +1,48 @@
+North Melbourne,Kangaroos,Geelong,Cats,R19,15.6.96,13.8.86, Full Time
+Aug 02,2013,7.50,Docklands,Seven,220054,10391901,nmfc-v-geel,0,Roof closed,15,,
+
+<em style='color:#000'>vcgb15</em>: he never really played on a champion level team&#044; jocka&#044; can't hate him for that<br><em style='color:#000'>m_snowy</em>: great game... thanks enright for getting the ton<br><em style='color:#000'>jocka</em>: @ Petrie4PM But never a champion like Voss&#044; Buckley&#044; Goodes....<br><em style='color:#000'>Petrie4PM</em>: Taylor hunt destroyed <br><em style='color:#000'>Far cue</em>: selwood only 99!!!<br><em style='color:#000'>Kennedy31</em>: Well done North&#044; I put the knock on&#044; but you showed me...now back to the cricket..<br><em style='color:#000'>D.Barwick</em>: no love for a team that scabs off other clubs to survive!<br><em style='color:#000'>97crows98</em>: I went Jelwood for VC loophole. I think I'll stick with GAJ.<br><em style='color:#000'>hardballge</em>: pay the credit bum holes<br><em style='color:#000'>dfgdfg</em>: Cat fans should breathe a sigh of relief that the Roos won't be there in the finals!!<br><em style='color:#000'>gwsfevs</em>: Give up roos<br><em style='color:#000'>Raveneyes</em>: Umps tried but couldn't get the cats home<br>
+291445,Aaron,Mullett,NM,26,123,108,162,95,132,26,6,7,3,0,0,2,1,0, Full Time,cherry,Had 11 touches and a goal in Q1... %P and %M plus %T and %s,,,307800,66,354000,85,Centre,41,17,73.9,78.9,2.95,2.99
+960491,Brent,Harvey,NM,26,118,130,144,96,138,12,25,4,5,0,0,0,0,0, Full Time,star,%2 Johnson then copped the Taylor Hunt tag in Q3... %D and %M,,,437100,65,525500,91,Forward Centre,29,11,92.9,107.1,5.45,8.46
+250373,Lachlan,Hansen,NM,31,113,88,141,97,129,16,14,10,1,0,0,1,1,0, Full Time,magnet,Loose in defence and was never manned up... %P and %M plus %s,,,324800,15,343300,11,Forward,6,15,69,69.1,0.67,0.55
+250285,Leigh,Adams,NM,27,105,110,129,86,114,11,14,5,4,0,1,0,2,0, Full Time,hot,%s from %D and %T with %M on Enright,,,383100,63,406300,59,Forward Centre,13,17,71.8,77.5,1.57,1.39
+280944,Jack,Ziebell,NM,26,100,94,130,73,102,15,8,3,6,0,0,0,1,0, Full Time,hot,%2 Kelly... %O and %T with %M and %s,,,429400,90,455000,103,Centre,7,14,90.7,92.9,0.82,1.31
+280863,Ryan,Bastinac,NM,22,98,93,119,81,106,13,10,4,2,0,0,0,3,1, Full Time,news,Starting forward on Bartel... %s from %O and %M,,,401400,69,502200,106,Centre,3,17,83.4,92.4,0.98,1.33
+230232,Daniel,Wells,NM,20,90,116,110,73,90,15,3,3,1,0,2,0,4,0, Full Time,news,Tagged by Taylor Hunt then freed up in Q3... %P and %M plus %s,,,370200,97,430800,102,Centre,8,17,79.9,92.4,0.84,1.12
+281395,Scott D.,Thompson,NM,14,87,121,114,70,96,15,8,6,3,0,2,2,0,0, Full Time,rock,%P and %T with %M... %F as well,tomahawk,Has Hawkins,358200,68,497900,98,Back,16,17,77.7,98.5,2.25,7.88
+210023,Drew,Petrie,NM,17,85,102,107,66,82,9,4,3,5,13,2,0,1,0, Full Time,news,Kicked %s from %P and %M on Lonergan... also %H and %T,,,427600,88,518200,109,Forward,20,17,84.6,100.8,4.07,4.77
+290787,Shaun,Atley,NM,13,77,102,98,67,93,12,11,7,1,0,0,2,0,0, Full Time,job,Motlop is his man... %D and %M,,,324100,76,368500,89,Back,18,17,65.2,72.1,2.33,4.60
+271129,Todd,Goldstein,NM,28,74,82,83,75,90,5,7,4,0,42,0,3,0,0, Full Time,news,Winning in the ruck but not getting much around the ground... %H and %D with %M... also %F,,,407300,56,536500,78,Ruck,22,17,91.3,113.6,13.97,12.85
+280921,Ben,Cunnington,NM,14,69,75,87,55,81,8,13,2,4,0,0,1,0,0, Full Time,news,%2 Selwood... %O and %T,,,421600,60,493600,68,Centre,10,15,84,96.1,0.53,0.68
+280864,Sam,Wright,NM,14,66,78,84,55,81,7,13,3,4,0,0,2,0,0, Full Time,job,In defence on Varcoe... %P and %M with %T,in,Late replacement for Cameron Delaney,204900,35,270200,53,Back,19,11,40.1,48.9,0.35,0.42
+290194,Jamie,MacMillan,NM,9,64,75,76,56,74,4,14,4,2,2,2,0,0,0, Full Time,news,%O and %M with %T,,,297000,39,346800,60,Centre,34,17,67.3,70.3,0.82,0.69
+291672,Aaron,Black,NM,8,62,70,75,53,73,7,12,4,1,0,0,0,0,1, Full Time,news,Booted %s from %D and %G on Mackie,,,309800,38,329200,68,Forward,35,13,72,78.2,3.46,5.73
+250557,Sam,Gibson,NM,9,61,58,75,53,78,6,15,2,3,0,1,2,0,0, Full Time,news,%D with %b by hand... also %F,,,367300,108,372600,78,Centre,43,17,82.5,75.9,0.41,0.38
+261909,Lindsay,Thomas,NM,10,60,70,78,46,64,10,4,2,3,0,0,1,1,1, Full Time,news,%s from %D and %M on Josh Hunt... also %T,,,299100,67,353300,83,Forward,12,15,65.8,73.1,1.19,1.39
+290538,Taylor,Hine,NM,8,52,63,65,48,72,10,11,3,0,0,0,3,0,0, Full Time,job,Responsible for Stokes... %P and %M... %F as well,,,203700,53,179800,50,Back,26,12,42.9,37.8,0.39,0.49
+270303,Luke,Delaney,NM,4,43,61,53,38,54,3,10,3,2,0,0,1,0,0, Full Time,job,Starting in defence on the resting ruck which is mostly Blicavs... %D and %M,,,230700,,278200,,Back,15,0,0,0,0.17,0.23
+290802,Ben,Jacobs,NM,12,36,62,43,39,63,5,13,0,1,0,0,5,1,0, Full Time,news,%O including %B... also %s and %F,subbed,Subbed off in Q4 for McKenzie,311000,147,309200,119,Back,5,2,28,36.5,0.30,0.41
+270325,Robbie,Tarrant,NM,2,28,27,36,23,28,3,2,3,1,0,1,0,0,1, Full Time,news,%s from %D and %M on Taylor,,,255200,39,321600,74,Forward,25,8,55.3,64.5,0.42,0.39
+291963,Brad,McKenzie,NM,0,11,9,14,9,12,2,1,1,0,0,0,0,0,0, Full Time,news,On in Q4 for Jacobs,sub,Started as a sub,197900,26,207700,37,Centre,2,6,52.7,47.8,5.33,2.14
+220054,Steve,Johnson,GE,25,112,106,77,90,120,16,12,7,3,0,1,0,1,0, Full Time,hot,%2 Harvey... %P and %M plus %s,,,570100,107,592700,105,Forward Centre,20,11,119.5,118.8,33.29,25.56
+200035,Corey,Enright,GE,15,102,92,65,79,105,17,7,8,3,0,1,0,0,0, Full Time,hot,%D and %M,job,Running off Adams,410900,107,495300,91,Back,44,16,88.6,94.8,8.35,8.09
+220058,James,Kelly,GE,43,102,79,102,66,94,10,5,2,14,0,2,1,0,1, Full Time,hot,%2 Ziebell... %O with %M... also a massive %T,,,443300,125,455400,123,Centre,9,12,94.3,90.8,0.37,0.37
+281065,Mitch,Duncan,GE,21,100,90,67,81,108,15,8,6,3,0,0,1,2,0, Full Time,hot,%P and %T with %M and %s,,,413900,79,434100,103,Centre,22,17,89.8,81.8,0.93,1.12
+250321,Joel,Selwood,GE,20,98,103,63,69,99,17,7,2,7,0,2,1,0,0, Full Time,news,%2 Cunnington... %D and %T,,,523600,72,601300,85,Centre,14,17,102.6,114.1,19.63,29.48
+230214,Mathew,Stokes,GE,21,96,104,89,79,105,7,17,4,5,0,3,0,1,0, Full Time,news,First goal... %s from %O and %M on Mullett... %T as well,switch,Switched back in Q3,391000,128,423800,121,Forward,27,16,91.1,93.9,10.87,5.16
+280990,Steven,Motlop,GE,21,92,103,56,76,96,14,7,4,1,0,2,0,3,0, Full Time,news,%s from %P and %M on Atley,,,313400,23,370400,23,Forward,32,16,75.1,80.4,4.05,4.03
+220007,Jimmy,Bartel,GE,15,90,94,58,70,97,14,11,4,3,1,1,0,0,0, Full Time,news,%P and %M with %T,switch,In a BP starting on Bastinac... switched forward in Q3,427000,143,492700,144,Forward Centre,3,16,95.1,105.9,31.12,36.58
+290623,Josh,Caddy,GE,14,71,65,54,55,75,10,6,5,4,0,1,1,0,0, Full Time,news,%O and %T with %M,,,351000,77,361400,60,Centre,23,11,60.5,59.3,1.77,3.33
+261497,Harry,Taylor,GE,19,70,92,51,61,76,9,6,8,0,0,0,0,1,1, Full Time,news,%M and %P,job,On Tarrant,340100,99,452600,105,Back,7,16,78.4,95.3,5.56,8.17
+230248,Andrew,Mackie,GE,8,66,78,39,48,64,12,3,3,3,0,2,0,0,1, Full Time,job,Zoning off Black... %O and %T with %M... %s as well,,,354600,60,396100,55,Back,4,17,81.4,85.4,5.39,4.39
+200034,Joel,Corey,GE,7,55,81,44,43,60,6,10,1,3,0,2,0,0,0, Full Time,news,%P and %T,,,358000,80,420000,94,Centre,11,14,77.6,82.9,0.69,0.84
+210059,Josh,Hunt,GE,8,55,62,30,45,60,10,5,5,0,0,0,0,0,0, Full Time,news,%D and %M,job,Minding Thomas,327600,117,403800,133,Back,8,9,61.1,71.3,0.54,0.48
+290550,Cameron,Guthrie,GE,12,54,59,45,42,63,6,10,1,4,0,0,1,0,0, Full Time,job,Takes the resting midfielder which is either Wells or Ziebell... %P and %T,,,223200,39,233800,45,Back,29,13,52.3,54.3,1.20,1.96
+250290,Travis,Varcoe,GE,19,50,57,51,36,51,4,4,1,6,0,0,1,1,0, Full Time,news,Wright on him... %s from %D and %T,,,220100,35,235100,33,Forward Centre,5,6,49.2,50.8,6.18,6.34
+280959,Nathan,Vardy,GE,8,47,73,38,43,50,4,5,1,1,4,4,1,2,1, Full Time,news,%H with %D and %s,,,239600,18,277700,10,Ruck,30,3,69.7,78.7,2.98,4.36
+261510,Tom,Hawkins,GE,9,39,42,26,36,44,5,5,2,0,0,3,1,1,2, Full Time,news,Booted %s from %P on Thompson,,,263900,21,333000,20,Forward,26,16,61.4,74.3,3.82,4.88
+296733,Mark,Blicavs,GE,4,39,31,40,35,45,2,5,3,2,8,0,1,0,1, Full Time,news,Starting as a full time forward on Luke Delaney ... %P and %M... also %H,,,323000,92,359300,80,Centre Ruck,46,15,59.7,66.7,18.26,20.86
+260261,Trent,West,GE,3,29,28,18,29,38,4,3,1,0,14,0,2,0,0, Full Time,news,Starting as #1 ruck... %H and %P... %F as well,subbed,Subbed off in Q3 for Smedts,295000,57,371500,76,Ruck,12,11,59,68.3,0.94,0.94
+280822,Taylor,Hunt,GE,1,27,32,21,22,30,3,5,1,1,0,1,0,0,0, Full Time,tagger,Tagging Wells then shifted to Harvey in Q3... %D,,,235000,64,226800,51,Centre,19,12,57.8,57.8,0.97,1.10
+290783,Billie,Smedts,GE,7,26,25,28,21,27,1,3,1,2,0,0,0,1,0, Full Time,news,On in Q3 for West,sub,Started as a sub,289000,59,283200,66,Forward,2,12,56.3,56.3,0.94,2.46
+230125,Tom,Lonergan,GE,2,24,12,26,16,21,2,0,2,3,0,0,0,0,0, Full Time,news,Donuts in Q1 and Q2... %O,job,Standing Petrie,177000,53,238100,80,Back,13,17,38.2,47.1,2.46,2.35

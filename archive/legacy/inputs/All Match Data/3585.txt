@@ -1,0 +1,48 @@
+Collingwood,Magpies,St Kilda,Saints,GF,9.14.68,10.8.68, Full Time
+Sep 25,2010,2:40,MCG,Ten,,10290401,,5254,A shower or two,20
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Sunday go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em>macca.barb</em>: well done hayes u just won me $160<br><em>Scully 31</em>: Comon one more week of fanfooty!!<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> oldshepp</em>: We'll see CFC - what can you say about your young flogs then?<br><em>wingman</em>: What happens to bets? do you they on hold til next week?<br><em title="CFC 1979">cfc 1979</em>:    unfortunately shepp you young flogs will not come up next weel &#044; you will get flogged woo hoo<br><em>insano</em>: afl what a flowerin joke game will be now where as good next week wonkas<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> oldshepp</em>: I least we can afford to be arrogant cfc - nothing for your lot to be arrogant about<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> oldshepp</em>: AFL will be rapt - double the profits<br><em>McRooster</em>: Rock&#044; scissors&#044; paper - that should decide it!<br><em>Geoff</em>: Oh shower .. do we have to wait another week before Gazza makes his announcement<br><em title="CFC 1979">cfc 1979</em>: suck it pies - arrogant flogs<br><em>Steelers7</em>: up yours afl what a joke bwahahahhahahhahhahahahh<br>
+240359,Dale,Thomas,CO,43,135,140,176,102,134,17,9,8,8,1,2,0,1,1, Full Time,hot,Set up Collingwood in the first half for what should have been a win... %P and %M with %T and %s
+240700,Heath,Shaw,CO,15,104,135,140,75,102,21,3,5,5,0,3,1,0,0, Full Time,hot,Forward tag on him by Gram... %D and %M with %T
+220105,Dane,Swan,CO,20,86,89,115,61,90,13,8,2,7,0,0,1,0,0, Full Time,tagged,Got away from Jones' tag early but was locked down in second half by Ray... %O and %T with %M
+210099,Darren,Jolly,CO,24,85,74,101,79,98,8,6,4,2,32,0,3,1,0, Full Time,news,First goal... %H and %P... also %M and %T plus %s... could perhaps have done a little more in the second half after Gardiner's injury
+280965,Steele,Sidebottom,CO,14,84,79,111,62,84,14,5,5,4,0,1,0,0,0, Full Time,news,%P and %M with %T but nothing on the scoreboard as a small forward rotating through midfield
+240366,Travis,Cloke,CO,16,79,98,99,64,80,11,4,5,2,0,1,0,2,2, Full Time,news,Booted %s from %G and %O on Gwilt... two misses just before half time proved crucial
+261181,Brent,Macaffer,CO,16,76,78,101,56,70,10,1,5,5,0,2,0,1,1, Full Time,news,Excellent forward tagging job on Gilbert in the first half... %s from %P with %M and %T
+230263,Nick,Maxwell,CO,9,72,93,93,56,76,10,7,5,3,1,0,0,0,0, Full Time,news,Saints rotated smalls on him but he worked manfully to zone off to spoil the Saint key talls time and again... %P and %M with %T
+210003,Alan,Didak,CO,19,71,65,91,55,78,8,9,2,5,0,0,1,1,0, Full Time,tagged,%s from %P under the tag by Dempster... also %T and %M
+240419,Alan,Toovey,CO,20,70,85,94,47,67,7,6,1,8,0,1,0,0,1, Full Time,news,Rotated on the Saint smalls to help out Maxwell... %P and a rather large %T
+260257,Scott,Pendlebury,CO,18,70,87,88,53,78,5,14,1,6,0,0,0,0,0, Full Time,news,%B among %P with %T... Pies were smashed in clearances for long periods due in part to Pendles being quiet
+260394,Chris,Dawes,CO,10,65,69,85,50,64,7,5,5,4,0,2,0,0,1, Full Time,news,Kicked %s from %G and %P on Dawson
+240073,Harry,O'Brien,CO,11,64,56,83,51,69,9,5,4,3,0,0,1,1,0, Full Time,job,Zoned off Schneider a lot for %O and %M with %T... also a bonus %s
+261799,Sharrod,Wellingham,CO,9,62,73,85,44,63,10,3,3,5,0,0,1,0,0, Full Time,tagger,Tagged Hayes.... %D and %T with %M
+200028,Leigh,Brown,CO,11,60,52,82,50,71,8,5,4,5,5,1,4,0,0, Full Time,news,Had a good first half as #2 ruck but didn't do enough in the second half after Gardiner's injury... %H and %P with %M and %T on Blake when forward... also %F
+240232,Ben,Reid,CO,8,55,91,69,45,60,8,7,4,1,0,1,0,0,0, Full Time,job,Sat on Koschitzke... %M and %O
+280104,Jarryd,Blair,CO,14,55,54,71,40,55,5,5,1,5,0,0,0,1,1, Full Time,news,%s from %O and %T in limited rotations
+220005,Luke,Ball,CO,8,52,57,66,39,54,5,8,1,4,0,2,0,0,0, Full Time,news,%P and %T
+200021,Ben,Johnson,CO,6,45,49,59,34,51,11,4,1,1,0,0,1,0,0, Full Time,job,Did an excellent job on Milne... %P
+271001,Dayne,Beams,CO,4,45,28,56,36,51,3,9,2,3,0,0,0,0,0, Full Time,news,%O and %T with %M
+200019,Leon,Davis,CO,8,30,38,38,22,30,4,2,0,2,0,0,0,1,0, Full Time,cold,%s from %O and %T on Baker... as usual in finals Neon Leon failed to light up... apart from one crucial Q4 moment
+260310,Nathan,Brown,CO,2,26,49,34,22,30,4,3,2,1,0,1,1,0,0, Full Time,in,%l Simon Prestigiacomo... followed Riewoldt... %P and %M
+990028,Lenny,Hayes,SK,57,153,174,128,113,157,18,14,5,12,3,1,1,1,1, Full Time,medal,Won the Norm Smith Medal for his sterling clearance work especially in Q1 and Q4... %P and %T with %M and %s
+230084,Brendon,Goddard,SK,29,128,162,89,104,140,18,13,5,5,5,2,2,2,0, Full Time,gun,Ran his guts out forward and back especially in the second half to nearly pinch the game for St Kilda.. %D and %M with %T and %s
+220075,Leigh,Montagna,SK,43,105,140,95,72,106,11,12,1,11,0,0,0,0,1, Full Time,hot,%P and %T but wasn't nearly as flashy with them as Hayes or Goddard
+240708,Sam,Fisher,SK,20,102,97,48,78,105,22,3,8,2,0,1,1,0,0, Full Time,hot,Pies didn't work as hard to stop him as they might have... %K among %D... also %M and %T
+210001,Nick,Riewoldt,SK,21,96,88,71,79,98,13,3,8,3,2,1,1,2,3, Full Time,news,Kicked %s from %G and %D on Nathan Brown... many of his shots from long distance
+261743,Clinton,Jones,SK,25,86,81,79,61,90,9,10,2,9,0,0,1,0,0, Full Time,news,His tag on Swan in the first half wasn't great so he was moved off him in Q3... %P and %T
+220023,Nick,Dal Santo,SK,24,83,68,70,57,82,10,8,1,8,1,1,0,0,0, Full Time,sore,Came into the game underdone and didn't really fire up... %O and %T
+220098,Adam,Schneider,SK,15,78,83,57,64,84,10,9,5,2,0,1,0,1,0, Full Time,news,%s from %O and %M on O'Brien
+200068,Jason,Blake,SK,11,70,83,68,57,74,5,7,3,5,14,1,1,0,0, Full Time,job,Started marking Leigh Brown but forced to ruck a lot in the second half after Gardiner's injury... %H and %P with %T and %M
+230243,Sean,Dempster,SK,9,69,76,53,54,72,9,7,5,3,0,1,0,0,0, Full Time,tagger,Tagged Didak... %O and %T with %M
+240012,Andrew,McQualter,SK,38,68,47,76,43,60,5,2,3,10,0,0,0,0,0, Full Time,news,Tried to keep the Pie halfbacks accountable but wasn't successful... %O and %T with %M
+250703,James,Gwilt,SK,9,65,97,39,58,84,11,11,5,1,0,0,3,0,0, Full Time,job,Followed Cloke... %M and %P
+210002,Justin,Koschitzke,SK,13,62,67,46,54,67,8,3,4,2,10,2,2,1,0, Full Time,heart,Had to ruck most of the second half after Gardiner's injury carrying his own broken ribs... %H and %P... also %s from %G when forward on Reid
+220034,Jason,Gram,SK,14,57,48,46,37,54,8,3,1,6,0,0,0,0,0, Full Time,tagger,Tagged Shaw... %D and %T
+250134,Sam,Gilbert,SK,14,57,62,36,50,69,9,7,4,1,0,0,2,1,0, Full Time,news,Had a shocking first half under Macaffer's tag but moved forward in the second half to greater effect... %s from %P and %M
+240701,Brett,Peake,SK,14,53,42,49,35,49,6,2,2,6,0,0,0,0,1, Full Time,spud,Highly ineffective all day... %P and %T with %M and %s
+240062,Farren,Ray,SK,9,48,40,52,40,57,2,11,2,4,0,1,1,0,0, Full Time,tagger,Moved to tag Swan in Q3 and did a fantastic job of it... %B among %P with %T and %M
+200108,Stephen,Milne,SK,9,44,45,27,37,48,7,2,2,1,0,0,1,2,0, Full Time,news,%s from %P on Johnson
+990004,Steven,Baker,SK,8,43,50,41,31,42,4,4,2,4,0,1,0,0,0, Full Time,job,Minded Davis... %O and %T with %M
+250207,Robert,Eddy,SK,4,40,32,39,33,46,3,7,2,3,0,1,1,0,1, Full Time,news,%D and %T with %s in limited TOG
+240552,Zac,Dawson,SK,4,39,66,38,32,42,3,5,4,2,0,0,0,0,0, Full Time,job,Did a fair job on Dawes... %M and %O
+970064,Michael,Gardiner,SK,2,20,13,14,18,22,2,2,0,0,10,0,0,0,0, Full Time,injured,Groin problem shut him down after half time.... %P and %H

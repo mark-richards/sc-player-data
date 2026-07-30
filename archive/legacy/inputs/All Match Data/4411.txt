@@ -1,0 +1,48 @@
+Sydney,Swans,Gold Coast,Suns,R2,17.12.114,11.7.73, Full Time
+Apr 06,2013,1.45,SCG,Seven,200023,10390202,5015,0,A few showers,23,news,Sign up to <a href='http://ultimate-footy.theage.com.au' target='_blank'>Ultimate Footy</a> for private draft leagues!
+
+<em>biggs2dujj</em>: still 80 odd adjustments left.<br><em>TheKey</em>: Nice work in SC JPK. Happy with GAJ sub-100 score as I don't have him capt. <br><em>Gibba4</em>: line 41.5. such a joke<br><em>Murf2Gibbs</em>: We got it gibba 2 legs to go for me <br><em>Monfries96</em>: one bad game and you're all hating&#044; bloody hell you just forget about his previous 135? narrow minded plows<br><em>Monfries96</em>: one bad game and you'<br><em>Mikos333</em>: what are the chances of macaffer getting the green vest?<br><em>dipper33</em>: omg omeara on bench<br><em>goodes=god</em>: gun for o'keefe<br><em>Jizza9</em>: siren<br><em>Murf2Gibbs</em>: Yes yes yes just got out of jail <br><em>mrpig</em>: Had karney <br>
+230253,Jarrad,McVeigh,SY,33,124,144,154,100,130,18,9,4,4,0,2,1,4,1, Full Time,star,First goal... %s from %P and %T... also %M,harley,Started forward on Wilkinson then quickly went to tag Bennell,469500,,526000,,Midfielder,3
+240226,Kieren,Jack,SY,37,121,130,159,87,123,18,10,2,9,0,2,1,1,0, Full Time,hot,%P and %T plus %s,tagger,Tagging Ablett jnr,505800,,601400,,Midfielder,15
+290778,Luke,Parker,SY,39,115,133,149,91,126,12,13,4,9,0,2,3,2,0, Full Time,hot,Starting forward on Harbrow... %P and %T with %M... also %F... all his %s in late junk time,,,343600,,379500,,Forward ,26
+291206,Mike,Pyke,SY,35,107,121,126,95,113,6,7,5,4,35,0,1,2,0, Full Time,bluemoon,%H and %D with %M and %s,,,341400,,410200,,Ruck,38
+290117,Daniel,Hannebery,SY,21,102,107,136,74,103,18,6,4,6,0,2,1,0,1, Full Time,hot,%P and %T with %M,,,421800,,439700,,Midfielder,4
+200071,Ryan,O'Keefe,SY,20,92,118,118,75,107,19,8,1,3,1,2,4,2,1, Full Time,news,%O... also %F and %s,tagger,Tagging Swallow,499300,,555400,,Midfielder,5
+260382,Josh P.,Kennedy,SY,25,91,108,114,74,108,13,15,2,4,0,0,2,1,0, Full Time,tagged,Tagged by Hunt... %O and %T... also %s and %F,,,523900,,643000,,Midfielder,12
+261257,Andrejs,Everitt,SY,15,72,86,89,59,79,11,7,2,2,0,1,1,2,1, Full Time,switch,Started in defence on Shaw but switched during the game... %P and %T with %M and %s,,,219800,,275500,,Forward,13
+990011,Jude,Bolton,SY,14,72,87,89,62,84,12,10,3,1,0,3,2,1,0, Full Time,news,%s from %P and %M on Hutchins,,,451500,,501300,,Midfielder,24
+230140,Ben,McGlynn,SY,15,68,71,88,52,69,10,4,2,4,0,2,1,1,3, Full Time,news,%s from %D and %T on Prestia,,,374100,,375800,,Midfielder,21
+281281,Lewis,Jetta,SY,14,68,65,90,48,66,14,1,2,3,0,0,0,1,0, Full Time,news,%2 Matera... %O and %T plus %s,,,392000,,427300,,Midfielder Forward,32
+230132,Nick,Malceski,SY,6,56,75,71,41,60,13,6,0,1,0,1,0,0,0, Full Time,news,%O,,,373100,,404100,,Back,9
+290188,Samuel,Reid,SY,5,54,64,71,43,60,7,6,4,3,0,0,1,0,0, Full Time,news,%D and %M on Thompson,,,260600,,319600,,Back,20
+250338,Nick,Smith,SY,7,48,60,61,38,57,6,9,1,3,0,0,1,0,0, Full Time,job,Minding Hall... %D and %T,,,320800,,358200,,Midfielder,40
+210027,Ted,Richards,SY,3,47,60,62,32,45,9,3,0,3,0,2,0,0,0, Full Time,job,Interesting role on Russell... %P and %T,,,302600,,417300,,Back,25
+240072,Heath,Grundy,SY,8,44,52,56,40,60,6,10,2,2,0,1,3,0,0, Full Time,job,Following Day... %P,,,328800,,399300,,Back,39
+280762,Shane,Mumford,SY,9,41,72,46,45,57,0,9,1,2,21,3,4,0,0, Full Time,news,Is big... %H and %P with %T... also %F,,,425400,,486900,,Ruck,41
+980073,Adam,Goodes,SY,4,41,49,53,35,49,6,6,2,2,0,2,2,0,1, Full Time,news,%D and %T on Murphy,,,424700,,479900,,Forward,37
+200023,Rhyce,Shaw,SY,2,35,60,47,24,33,7,1,1,2,0,1,0,0,0, Full Time,news,%D and %T,subbed,Subbed off in Q4 for Bird,333200,,389300,,Back,2
+220063,Martin,Mattner,SY,7,35,33,48,23,33,4,2,1,4,0,0,0,0,0, Full Time,job,Responsible for Rischitelli... %O and %T,,,293900,,332000,,Back,29
+220089,Lewis,Roberts-Thomson,SY,3,27,46,37,26,42,5,6,1,2,0,1,4,0,0, Full Time,job,In defence on May... %P and %T... %F as well,,,264700,,296000,,Forward,30
+261212,Craig,Bird,SY,1,19,12,24,17,24,4,3,1,0,0,1,1,0,0, Full Time,news,On in Q4 for Shaw,sub,Started as a sub,354300,,388400,,Midfielder Forward,14
+280711,Charlie,Dixon,GC,27,110,123,80,96,108,12,6,4,1,21,7,0,3,0, Full Time,hot,Started in ruck with an excellent Q1... %H and %P with %M and %s... also a massive %4FF,,,304800,,393300,,Forward,23
+294613,Jaeger,O'Meara,GC,26,104,120,87,80,111,12,13,5,7,0,2,1,0,0, Full Time,hot,Slow start but seems to be a mudlark... %P and %T with %M,,,108500,,115900,,Midfielder ,1
+240712,Michael,Rischitelli,GC,26,91,103,78,66,89,11,6,4,8,2,3,1,0,0, Full Time,news,%P and %T starting up forward on Mattner... also %M,,,322000,,358900,,Midfielder,35
+290832,David,Swallow,GC,26,89,120,71,63,93,12,9,2,8,0,0,1,0,0, Full Time,tagged,Tagged by O'Keefe... %P and %T,,,380400,,418200,,Midfielder,24
+220001,Gary,Ablett jnr,GC,14,84,99,49,63,91,15,9,2,4,0,1,1,0,1, Full Time,tagged,Tagged by Jack... %D,,,642500,,740500,,Midfielder,9
+296735,Aaron,Hall,GC,20,82,67,55,61,79,13,2,2,5,0,3,1,2,1, Full Time,news,%s from %O and %T on Smith,,,320700,,322400,,Forward,33
+240254,Jarrod,Harbrow,GC,10,79,83,40,65,91,16,7,5,2,0,2,3,0,1, Full Time,news,%O and %M plus %s,job,Playing wide of Parker,321400,,414500,,Back,5
+290627,Dion,Prestia,GC,8,72,84,38,55,75,13,9,1,2,0,4,0,0,0, Full Time,news,%P and %T,job,In defence on McGlynn,386400,,422700,,Forward,10
+290817,Brandon,Matera,GC,14,68,74,35,52,71,14,1,3,3,0,1,2,1,2, Full Time,news,%s from %O and %M... also %T,,,354000,,357800,,Forward,32
+250146,Thomas,Murphy,GC,7,59,90,25,46,63,13,4,3,1,0,2,1,0,0, Full Time,sore,%P and %M... shoulder knock in a clash with Mumford in Q1,job,Following Goodes,237000,,293200,,Back,29
+250716,Matthew,Warnock,GC,4,53,76,29,41,54,10,3,4,1,0,1,0,0,0, Full Time,job,On the resting ruck which is mostly Pyke... %O and %M,,,236500,,352900,,Back,14
+290790,Matthew,Shaw,GC,10,53,58,47,44,60,5,7,3,3,0,0,1,1,0, Full Time,news,Playing forward again on Everitt... %D,,,306400,,317600,,Back ,26
+290811,Jack,Hutchins,GC,9,48,78,26,41,57,9,4,3,1,0,0,2,1,0, Full Time,job,Has Bolton... %P and %M plus %s,subbed,Subbed off in Q3 for Brennan,108500,,115900,,Back,34
+281025,Luke,Russell,GC,9,47,46,33,33,48,8,2,2,4,0,0,1,0,0, Full Time,news,%D and %M on Richards... also %T,,,349200,,324500,,Forward,8
+291594,Harley,Bennell,GC,3,44,53,16,34,48,10,4,2,0,0,0,0,0,0, Full Time,tagged,Tagged by McVeigh... %D,,,438200,,521900,,Midfielder,11
+291753,Sam,Day,GC,9,44,33,29,39,49,7,2,4,1,0,2,2,1,1, Full Time,news,%s from %G and %D on Grundy... also %F,,,201600,,226900,,Ruck,12
+292512,Karmichael,Hunt,GC,8,37,56,34,31,48,4,7,1,4,0,1,3,0,0, Full Time,nz,%P and %T... also %F,tagger,Tagging Kennedy,273600,,310900,,Midfielder,7
+290703,Joel,Wilkinson,GC,2,36,54,37,28,39,2,7,1,3,0,1,0,0,0, Full Time,job,Minding McVeigh... %O and %T,,,185500,,171200,,Back,38
+280722,Zac,Smith,GC,13,34,35,28,35,45,3,3,1,1,15,0,3,1,0, Full Time,news,Did not start in ruck with Dixon starring early... %H and %P... also %F and %s,,,300700,,374900,,Ruck,2
+281085,Steven,May,GC,9,34,57,26,36,51,4,8,2,1,0,2,4,1,0, Full Time,news,%P and %M on Roberts-Thomson... also %F,,,287900,,343100,,Back,17
+230015,Jared,Brennan,GC,2,31,15,21,22,30,5,2,1,2,0,1,0,0,0, Full Time,news,On in Q3 for Hutchins,sub,Started as a sub,375500,,418000,,Forward,3
+281075,Rory,Thompson,GC,1,18,26,13,15,21,3,1,2,1,0,0,1,0,0, Full Time,news,Donuts in Q1 and Q2... %D,job,Standing Reid,221600,,283400,,Back,16

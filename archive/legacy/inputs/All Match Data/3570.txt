@@ -1,0 +1,48 @@
+Hawthorn,Hawks,Collingwood,Magpies,R22,15.8.98,13.17.95, Full Time
+Aug 28,2010,2:10,MCG  ,Ten,220073,10282202,5015488,5238,Windy with scattered showers,14
+Sadly it will have to wait for next year. :(,Mobile/iPhone?,The player underlined in purple above is the subject of the purple name game at half time... a link appears just before half time where you can make your pick... please don't type your pick number in chat,Purple?,Quarterly SC scores will appear at the breaks but are not updated during quarters which is why they will be greyed out,SC scores?,To get your own team icon for Sunday go to the Account menu and choose Options then choose your team's colour scheme,Team icons?
+<em title="KRZTRK">krztrk</em>: wonder how many points beams lost in SC for that behind...<br><em>buddyluvsu</em>: Pies started to get them last week cause you know the finals are coming soon!<br><em style='margin-bottom:-2px'><b class="ticon tHW"></b> moose33</em>: close tiger<br><em style='margin-bottom:-2px'><b class="ticon tCO"></b> WatsamataU</em>: colliwobble??? lost 1 game in 9 weeks&#044; the finals series will decide if we got the colliwobbles<br><em style='margin-bottom:-2px'><b class="ticon tBL"></b> strikes91</em>: brownlow votes. 3 franklin 2 ellis 1 mitchel<br><em style='margin-bottom:-2px'><b class="ticon tGC"></b> Kazakhstan</em>: lmao<br><em style='margin-bottom:-2px'><b class="ticon tKA"></b> steveholt6</em>: what were you thinking el tiger? why would he have a high sc after such shower disposal<br><em style='margin-bottom:-2px'><b class="ticon tCA"></b> travo</em>: swam hacked it up in SC&#044; but still hope hw wins the brownlow will win $$$<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> ETMALVJACK</em>: hey monty... show us your tits<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> EL TIGER</em>: wtf<br><em style='margin-bottom:-2px'><b class="ticon tSK"></b> jmacks</em>: cyril X<br><em style='margin-bottom:-2px'><b class="ticon tRI"></b> EL TIGER</em>: Why Moose&#044; he must have scored at least 180 SCP!!<br>
+220073,Sam,Mitchell,HW,51,128,110,167,95,136,13,17,4,11,1,1,1,0,0, Full Time,hot,%O and %T
+240399,Lance,Franklin,HW,34,114,119,138,98,111,12,2,8,2,1,3,0,6,2, Full Time,star,First goal... booted %s from %P and %G on Nathan Brown
+260955,Cyril,Rioli,HW,32,104,118,131,83,118,13,14,2,6,0,0,2,2,1, Full Time,x-factor,Tagged by Wellingham... %O and %T plus %s
+250257,Xavier,Ellis,HW,21,99,133,127,76,100,13,8,5,5,0,2,0,1,1, Full Time,news,%D and %M
+250089,Jordan,Lewis,HW,25,97,92,122,74,105,15,12,2,4,0,0,0,1,0, Full Time,news,Head to head with Thomas... %O
+210012,Shaun,Burgoyne,HW,26,95,111,123,69,99,8,14,2,9,0,1,0,0,0, Full Time,tagged,Tagged by Macaffer... %O
+230197,Brad,Sewell,HW,43,85,70,115,63,94,8,11,2,10,0,1,3,0,1, Full Time,news,%D and %T
+220013,Campbell,Brown,HW,19,78,58,104,64,87,8,8,8,5,0,0,2,0,0, Full Time,job,Minding Sidebottom... %P and %M
+270854,Carl,Peterson,HW,15,67,75,86,51,67,6,6,3,5,1,1,0,1,0, Full Time,news,%P and %T on Goldsack
+200060,Brent,Guerra,HW,9,65,91,83,53,75,10,9,4,2,0,0,1,0,0, Full Time,news,%P
+280471,Ben,Stratton,HW,13,65,75,84,54,72,9,7,6,2,0,1,1,0,0, Full Time,news,%M and %O
+230082,Stephen,Gilham,HW,13,62,71,80,46,66,8,8,2,4,0,0,0,0,0, Full Time,job,On Dawes... %P and %T
+250146,Thomas,Murphy,HW,8,57,55,70,49,66,8,9,5,0,0,0,0,0,0, Full Time,job,Minding Davis... %M and %O
+210092,Michael,Osborne,HW,8,55,42,71,46,65,7,8,3,3,0,1,2,0,2, Full Time,tagger,Forward tag on Shaw... %P and %M
+261386,Brendan,Whitecross,HW,10,55,63,71,46,60,9,3,5,1,0,0,1,1,0, Full Time,tagger,Forward tag on Maxwell... %O and %M
+210062,Wayde,Skipper,HW,9,52,48,63,45,57,3,6,2,3,15,1,1,0,0, Full Time,news,%H and %P with %T
+250055,Clinton,Young,HW,13,52,61,69,44,63,12,3,3,1,0,0,3,1,0, Full Time,news,%O and %M with %F
+200040,Chance,Bateman,HW,7,46,44,54,41,57,5,11,3,0,0,0,0,0,0, Full Time,sore,%P... left shoulder knock in Q1
+250308,Brent,Renouf,HW,13,44,55,50,38,42,2,1,0,2,27,1,0,0,0, Full Time,sore,%H and %D... corked right thigh in Q2
+250381,Rhan,Hooper,HW,13,44,64,59,31,39,3,1,2,5,0,1,0,1,0, Full Time,news,Keeping O'Brien responsible... %s from %O with %T
+240357,Jarryd,Roughead,HW,8,35,26,46,29,40,4,3,1,3,0,1,2,1,1, Full Time,news,Booted %s from %P on Reid... also %T
+250715,Josh,Gibson,HW,2,30,37,36,26,36,2,7,2,1,0,0,0,0,0, Full Time,job,Following Cloke... %D and %M
+220105,Dane,Swan,CO,27,133,101,73,100,140,25,9,5,5,0,0,1,1,2, Full Time,gun,Hawks rotating opponents through him and he's beating all of them... %O and %M with %T plus %s
+230263,Nick,Maxwell,CO,15,94,94,56,69,96,17,6,5,4,0,0,0,0,0, Full Time,tagged,Forward tag on him by Whitecross... %P and %T with %M
+271001,Dayne,Beams,CO,21,94,85,67,75,100,13,10,4,4,0,3,1,1,1, Full Time,news,%s from %O and %M
+210099,Darren,Jolly,CO,21,93,87,75,82,95,9,4,7,1,19,1,0,2,1, Full Time,sore,%H and %D with %M and %s... had a scintillating Q3... nose rearranged by Stratton's elbow in Q4
+220005,Luke,Ball,CO,25,92,88,71,66,90,12,8,1,7,0,3,0,1,0, Full Time,news,%D and %T
+260257,Scott,Pendlebury,CO,15,89,94,62,70,97,13,11,4,4,0,2,1,0,1, Full Time,news,%P and %T with %M
+240366,Travis,Cloke,CO,20,85,96,71,68,90,9,10,5,4,0,1,0,1,0, Full Time,news,Booted %s from %D and %G on Gibson... also %T
+260394,Chris,Dawes,CO,26,82,94,82,64,83,6,7,6,6,1,0,0,1,1, Full Time,news,Booted %s from %G and %O on Gilham
+261181,Brent,Macaffer,CO,20,80,81,66,62,89,10,9,4,6,0,0,2,0,2, Full Time,tagger,Tagging Burgoyne... %P and %M plus %F
+280104,Jarryd,Blair,CO,22,77,73,70,59,78,8,4,3,7,0,2,2,2,0, Full Time,news,%P
+280965,Steele,Sidebottom,CO,15,76,74,58,63,80,9,8,5,2,0,2,0,1,2, Full Time,news,%s from %P and %M on Brown
+200019,Leon,Davis,CO,17,74,84,62,58,74,8,4,4,4,0,0,0,2,2, Full Time,in,%l Ben Johnson... %s from %O and %M on Murphy
+240700,Heath,Shaw,CO,18,74,63,36,63,84,15,4,7,0,0,0,2,1,0, Full Time,tagged,Forward tag on him by Osborne... %D and %M plus %s
+261799,Sharrod,Wellingham,CO,14,74,84,57,57,81,9,12,2,4,0,1,0,0,0, Full Time,sore,Tagging Rioli... %O and %T... left ankle knock in Q4 but returned
+260310,Nathan,Brown,CO,18,67,65,54,54,75,9,6,6,4,0,0,2,0,0, Full Time,job,On Franklin... %D and %M
+260246,Tyson,Goldsack,CO,12,60,75,48,45,64,7,9,1,4,0,1,0,0,1, Full Time,job,Minding Peterson... %D
+240232,Ben,Reid,CO,9,59,70,47,47,63,8,4,6,3,0,0,1,0,0, Full Time,job,Standing Roughead... %M and %O
+240359,Dale,Thomas,CO,4,59,58,44,45,61,8,6,3,3,0,1,0,0,1, Full Time,cold,Head to head with Lewis... %D
+200020,Josh,Fraser,CO,15,56,63,54,53,64,3,4,3,2,28,0,2,0,0, Full Time,news,Starting forward... %H and %P
+240419,Alan,Toovey,CO,3,45,59,32,37,51,6,7,3,1,0,0,0,0,0, Full Time,news,%P and %M
+240073,Harry,O'Brien,CO,3,38,58,28,31,45,5,7,1,2,0,1,1,0,0, Full Time,sore,Responsible for Hooper... %P... rolled an ankle in Q1 but played on
+271128,John,McCarthy,CO,2,37,41,22,29,40,6,5,1,1,0,1,0,0,1, Full Time,news,%D
