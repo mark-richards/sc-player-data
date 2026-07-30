@@ -32,6 +32,74 @@ logging.basicConfig(
 log = logging.getLogger("waiver")
 
 
+def _sync_repo_or_abort() -> bool:
+    """
+    Ensures this checkout matches origin/master before the pipeline touches any
+    data, since the code is edited from multiple devices but only ever runs
+    unattended (via Task Scheduler) on this one. Mirrors run_pipeline's existing
+    fail-loud-not-silently-stale philosophy.
+
+    Returns False (pipeline should abort) for a dirty tree or diverged history —
+    both are ambiguous states that must not be guessed at. Returns True otherwise
+    (fast-forwards automatically if behind; only warns if merely ahead or if the
+    fetch itself failed, since those don't risk running the wrong code).
+    """
+    from pathlib import Path as _Path
+    from deploy_github_pages import _git_auth_args, _run
+
+    repo_root = _Path(__file__).resolve().parent
+    auth = _git_auth_args()
+
+    rc, out, err = _run(["git", "status", "--porcelain"], cwd=repo_root)
+    if rc != 0:
+        log.warning("git status failed (%s) — skipping repo sync check.", err)
+        return True
+    if out.strip():
+        log.error(
+            "Uncommitted local changes present in %s — refusing to run so the "
+            "newsletter doesn't mix stale/local edits with other devices' code. "
+            "Commit and push (or stash) these changes, then re-run.",
+            repo_root,
+        )
+        return False
+
+    rc, _, err = _run(["git"] + auth + ["fetch", "origin", "master"], cwd=repo_root)
+    if rc != 0:
+        log.warning("git fetch origin failed (%s) — proceeding on local code as-is.", err)
+        return True
+
+    rc, head, _ = _run(["git", "rev-parse", "HEAD"], cwd=repo_root)
+    rc2, origin_head, _ = _run(["git", "rev-parse", "origin/master"], cwd=repo_root)
+    if rc != 0 or rc2 != 0 or head == origin_head:
+        log.info("Repo up to date with origin/master.")
+        return True
+
+    rc_behind, _, _ = _run(["git", "merge-base", "--is-ancestor", head, origin_head], cwd=repo_root)
+    if rc_behind == 0:
+        rc, out, err = _run(["git", "merge", "--ff-only", "origin/master"], cwd=repo_root)
+        if rc != 0:
+            log.error("Behind origin/master but fast-forward failed (%s) — aborting.", err)
+            return False
+        log.info("Pulled latest code from origin/master (%s -> %s).", head[:8], origin_head[:8])
+        return True
+
+    rc_ahead, _, _ = _run(["git", "merge-base", "--is-ancestor", origin_head, head], cwd=repo_root)
+    if rc_ahead == 0:
+        log.warning(
+            "Local checkout is ahead of origin/master (unpushed commits) — "
+            "push soon so other devices see this code."
+        )
+        return True
+
+    log.error(
+        "Local checkout and origin/master have diverged — this PC has commits "
+        "origin doesn't, and origin has commits this PC doesn't (likely edited "
+        "from another device without syncing). Refusing to guess how to merge; "
+        "resolve manually (git pull / rebase) and re-run."
+    )
+    return False
+
+
 def _detect_round(fanfooty_processed_dir) -> int | None:
     """
     Infer the current AFL round from the most recent fanfooty processed file.
@@ -361,6 +429,11 @@ def run_pipeline(round_override: int | None = None, dry_run: bool = False) -> Pa
     log.info("=" * 60)
 
     pipeline_warnings: list[str] = []
+
+    # ── Step -1: Sync with origin/master before touching any data ─────────
+    if not _sync_repo_or_abort():
+        log.error("Aborting pipeline run due to repo sync check failure.")
+        return None
 
     # ── Step 0a: Refresh AFL news (runs scraper if DB is >20h old) ────────
     try:

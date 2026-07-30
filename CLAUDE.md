@@ -33,6 +33,23 @@
 
 **.ipynb files in `archive/notebooks/` are historical reference only — never use as code sources.**
 
+## Multi-Device Git Workflow
+
+This repo is edited from multiple devices (this PC, phone, other laptops), but the weekly
+newsletter only runs unattended on one PC via Task Scheduler, which syncs with
+`origin/master` immediately before each run and aborts if the checkout is dirty or has
+diverged from origin. GitHub is the single source of truth — follow this on every device:
+
+- **At the start of a session** doing code changes: `git fetch origin` then
+  `git merge --ff-only origin/master` so edits start from current code.
+- **At the end of a session** where source files changed: stage the specific changed files
+  (not `-A`), commit with a clear message, and push to `origin master` — do this
+  automatically, without waiting to be asked.
+- If push is rejected (non-fast-forward), pull/rebase and retry. **Never force-push.**
+- If a real merge conflict occurs, stop and surface it to the user — do not auto-resolve.
+- Never commit `credentials.json`, `client_secret_old.json`, `secret/`, or anything else
+  gitignored (`data/`, `models/`, `reports/`, `draft_prep/`, `docs/`).
+
 ## Active Pipeline Entry Points
 
 | Script | Purpose |
