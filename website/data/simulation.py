@@ -122,20 +122,6 @@ def run_monte_carlo(
                         anchor the league-wide score distribution.
                         If None, falls back to current-season scores only.
     """
-    if current_round >= TOTAL_REGULAR_ROUNDS:
-        # Season over — derive results from final ladder
-        final = ladder_df[ladder_df["round"] == current_round].copy()
-        final = final.sort_values(["league_points", "points_for"], ascending=[False, False])
-        coaches = final["coach_first_name"].tolist()
-        results = pd.DataFrame({
-            "coach_first_name": coaches,
-            "finals_pct": [100.0 if i < FINALS_TOP_N else 0.0 for i in range(len(coaches))],
-            "gf_pct":     [100.0 if i < 2 else 0.0 for i in range(len(coaches))],
-            "champ_pct":  [100.0 if i == 0 else 0.0 for i in range(len(coaches))],
-            "spoon_pct":  [0.0] * (len(coaches) - 1) + [100.0],
-        })
-        return results
-
     rng = np.random.default_rng(rng_seed)
 
     # Current standings
