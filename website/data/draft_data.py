@@ -65,7 +65,7 @@ def _rank_label(rank: int) -> str:
 
 def _compute_effective_avg(sc_df: pd.DataFrame,
                            player_list_df: pd.DataFrame | None = None,
-                           fanfooty_df: "pd.DataFrame | None" = None) -> pd.DataFrame:
+                           sc_round_df: "pd.DataFrame | None" = None) -> pd.DataFrame:
     """
     Compute a TPOR-adjusted effective average using SC-official data as primary source.
 
@@ -76,12 +76,14 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
     is a bye for that team (derived entirely from SC data — no fanfooty needed).
 
     missed_non_bye must only count rounds the player genuinely didn't take the field.
-    sc_df is built from fantasy-roster snapshots, so a round where the player wasn't on
-    ANY coach's roster (e.g. mid-season waiver pickup/drop) is simply absent from sc_df —
-    indistinguishable, from sc_df alone, from an actual injury/omission. fanfooty_df
-    records every player who featured in a match regardless of fantasy ownership, so it's
-    used here as the ground truth for "did this player actually register a score" —
-    fanfooty rounds are unioned into the played-rounds set before computing misses.
+    sc_df (master_player_data.csv) is built from fantasy-roster snapshots, so a round
+    where the player wasn't on ANY coach's roster (e.g. mid-season waiver pickup/drop)
+    is simply absent from sc_df — indistinguishable, from sc_df alone, from an actual
+    injury/omission. sc_round_df (data/raw/supercoach/{year}/players_round_N.json,
+    via load_sc_round_files()) is the SC-official bulk endpoint covering EVERY player
+    each round regardless of fantasy ownership, so it's used here as the ground truth
+    for "did this player actually play" — those rounds are unioned into the
+    played-rounds set before computing misses.
 
     Zero-game players: looked up in player_list_df using SC team codes (same codes as
     sc_df.team_abbrev), so no cross-system mapping is required.
@@ -107,15 +109,15 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
         for fid, grp in played.groupby("feed_id")
     }
 
-    # Rounds each player registered a real score in fanfooty, independent of any
-    # fantasy roster — the ground truth for "did this player actually play".
-    ff_played_rounds: dict = {}
-    if fanfooty_df is not None and not fanfooty_df.empty:
-        ff = fanfooty_df.dropna(subset=["Player ID", "round_num"]).copy()
-        ff["Player ID"] = pd.to_numeric(ff["Player ID"], errors="coerce").astype("Int64")
-        ff_played_rounds = {
-            fid: set(grp["round_num"])
-            for fid, grp in ff.groupby("Player ID")
+    # Rounds each player actually played per the SC-official bulk round endpoint
+    # (covers every player, not just those on a fantasy roster) — ground truth
+    # for "did this player actually play", independent of fantasy ownership.
+    sc_round_played_rounds: dict = {}
+    if sc_round_df is not None and not sc_round_df.empty:
+        srd = sc_round_df[sc_round_df["played"] == 1].dropna(subset=["feed_id", "round"])
+        sc_round_played_rounds = {
+            fid: set(grp["round"])
+            for fid, grp in srd.groupby("feed_id")
         }
 
     # Per-player team (most recent round's team_abbrev)
@@ -149,7 +151,7 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
     def _missed_breakdown(row):
         bye_rds    = all_rounds - team_played_rounds.get(row["team_abbrev"], all_rounds)
         missed_bye = len(bye_rds)
-        actual_played = sc_played_rounds.get(row["feed_id"], set()) | ff_played_rounds.get(row["feed_id"], set())
+        actual_played = sc_played_rounds.get(row["feed_id"], set()) | sc_round_played_rounds.get(row["feed_id"], set())
         missed_non_bye = len(all_rounds - bye_rds - actual_played)
         return missed_bye, missed_non_bye
 
@@ -185,7 +187,7 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
             def _zero_breakdown(row):
                 bye_rds    = all_rounds - team_played_rounds.get(row["team"], all_rounds)
                 missed_bye = len(bye_rds)
-                actual_played = ff_played_rounds.get(row["feed_id"], set())
+                actual_played = sc_round_played_rounds.get(row["feed_id"], set())
                 missed_non_bye = len(all_rounds - bye_rds - actual_played)
                 return missed_bye, missed_non_bye
 
@@ -333,13 +335,14 @@ def build_coach_summary(draft_df: pd.DataFrame, coach_order: list[str]) -> list[
 
 def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
                      coach_order: list[str], sc_df: pd.DataFrame,
-                     fanfooty_df: "pd.DataFrame | None" = None):
+                     sc_round_df: "pd.DataFrame | None" = None):
     """
     Main entry point. Returns (coach_summary, board_rows, n_rounds, coach_order).
 
     sc_df: output of load_sc_current() — SC-official per-round scores (primary source).
-    fanfooty_df: output of load_fanfooty_season() — used as ground truth for whether a
-                 player actually played a round, independent of fantasy roster status.
+    sc_round_df: output of load_sc_round_files() — SC-official bulk round data covering
+                 every player regardless of fantasy roster, used as ground truth for
+                 whether a player actually played a round.
     """
     if not draft_csv.exists():
         log.error("Draft CSV not found: %s", draft_csv)
@@ -349,7 +352,7 @@ def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
 
     if sc_df is not None and not sc_df.empty and player_list_csv.exists():
         player_list_df = pd.read_csv(player_list_csv, low_memory=False)
-        player_data    = _compute_effective_avg(sc_df, player_list_df, fanfooty_df)
+        player_data    = _compute_effective_avg(sc_df, player_list_df, sc_round_df)
         player_data    = _compute_zscores(player_data)
         draft_df = draft_df.merge(
             player_data[["feed_id", "pos_1", "raw_avg", "median_score", "final_score", "missed_bye", "missed_non_bye"]],

@@ -132,6 +132,59 @@ def load_fanfooty_season() -> pd.DataFrame:
     return df.reset_index(drop=True)
 
 
+# ── SC bulk all-player round data (owned + free agents) ─────────────────────
+
+def load_sc_round_files() -> pd.DataFrame:
+    """
+    Reads data/raw/supercoach/{year}/players_round_N.json — the bulk SC API
+    endpoint covering EVERY player each round (owned and free agents alike),
+    unlike player_stats_current.csv/master_player_data.csv which are built from
+    fantasy team rosters and are missing any round a player wasn't drafted/held.
+
+    Returns one row per player per round: feed_id, round, team_abbrev, played
+    (games==1), points.
+    """
+    import glob
+    import json
+    import re
+    from website.config import SEASON_YEAR
+    sc_dir = Path(__file__).resolve().parent.parent.parent / "data" / "raw" / "supercoach" / str(SEASON_YEAR)
+    pattern = str(sc_dir / "players_round_*.json")
+    files = glob.glob(pattern)
+    if not files:
+        return pd.DataFrame()
+
+    round_re = re.compile(r"players_round_(\d+)\.json$")
+    rows = []
+    for fpath in files:
+        m = round_re.search(fpath)
+        if not m:
+            continue
+        round_num = int(m.group(1))
+        try:
+            players = json.loads(Path(fpath).read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        for player in players:
+            fid = player.get("feed_id")
+            if not fid:
+                continue
+            team_abbrev = (player.get("team") or {}).get("abbrev", "")
+            for stat in (player.get("player_stats") or []):
+                rows.append({
+                    "feed_id":     fid,
+                    "round":       round_num,
+                    "team_abbrev": team_abbrev,
+                    "played":      int(stat.get("games", 0) or 0),
+                    "points":      stat.get("points", 0) or 0,
+                })
+    if not rows:
+        return pd.DataFrame()
+    df = pd.DataFrame(rows)
+    df["feed_id"] = pd.to_numeric(df["feed_id"], errors="coerce").astype("Int64")
+    return df.dropna(subset=["feed_id"]).reset_index(drop=True)
+
+
 # ── SC current-season per-round scores ─────────────────────────────────────
 
 def load_sc_current() -> pd.DataFrame:
