@@ -40,11 +40,20 @@ Head-to-head fantasy football has several independent luck factors:
    build_simulation_ladders() only samples 8 alternate universes — one per
    real coach's actual opponent-score sequence, because that's the only
    fixture history that exists. build_monte_carlo_schedule_sim() instead
-   draws thousands of independently-random round-by-round pairings (every
-   coach's own real weekly score, judged against a randomly assigned
-   opponent's real score each round — never a fabricated score) and reports
-   the resulting rank *distribution* per coach: how often each coach lands
-   at each ladder position across the sample, plus avg/best/worst.
+   draws thousands of randomised, STRUCTURALLY VALID round-robin schedules
+   (circle/polygon method: fix one coach, rotate the rest — see
+   _generate_round_robin_cycle()) rather than independently-random
+   round-by-round pairings. This respects the real league's actual
+   constraint — a fixed m-round single round-robin cycle (m = n_coaches-1)
+   repeated identically for the whole season (e.g. the real 2026 fixture is
+   the same 7-round cycle repeated 3x for 21 rounds) — so within any one
+   trial every pair of coaches meets exactly as many times as they really
+   would, never more, never less. Each trial randomises WHICH valid cycle is
+   drawn, not whether the structure is respected. Every coach's own real
+   weekly score is judged against whichever real opponent that trial's
+   schedule assigns them each round — never a fabricated score. Reports the
+   resulting rank *distribution* per coach: how often each coach lands at
+   each ladder position across the sample, plus avg/best/worst.
 """
 import logging
 import random
@@ -342,21 +351,59 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
     return results
 
 
+def _generate_round_robin_cycle(coaches: list, rng: random.Random) -> list:
+    """
+    Circle/polygon-method round-robin generator: fixes one coach and rotates
+    the rest around it to produce a randomised, STRUCTURALLY VALID single
+    round-robin cycle (every pair meets exactly once across the cycle).
+
+    Given n coaches, returns m = n-1 rounds (after padding to even length
+    with a None bye if n is odd), each a list of (coach_a, coach_b) pairs.
+
+    Randomising `order` (who's fixed, and the rotation order of the rest via
+    a single rng.shuffle()) is what makes each call sample a different valid
+    schedule — this is the Monte Carlo "draw" for one trial.
+    """
+    teams = list(coaches)
+    if len(teams) % 2 == 1:
+        teams.append(None)  # bye placeholder
+
+    order = teams[:]
+    rng.shuffle(order)
+    fixed    = order[0]
+    rotating = order[1:]
+    m = len(rotating)  # n-1; always odd since n (after padding) is even
+
+    cycle = []
+    for r in range(m):
+        round_pairs = [(fixed, rotating[r])]
+        for i in range(1, (m - 1) // 2 + 1):
+            a = rotating[(r + i) % m]
+            b = rotating[(r - i) % m]
+            round_pairs.append((a, b))
+        cycle.append(round_pairs)
+    return cycle
+
+
 def build_monte_carlo_schedule_sim(
     fixtures_df: pd.DataFrame, n_trials: int = 2000, seed: int = 42
 ) -> list[dict]:
     """
-    Draws n_trials random round-by-round pairings and, in each trial, judges
-    every coach's own real weekly score against whichever real opponent they
-    were randomly paired with that round (scores are never fabricated — only
-    the pairing is randomised). Each trial produces one self-consistent
-    8-coach ladder; aggregating across all trials gives a genuine "if you'd
-    played any possible schedule" rank distribution per coach.
+    Draws n_trials randomised, structurally valid round-robin schedules (see
+    _generate_round_robin_cycle) and, in each trial, judges every coach's own
+    real weekly score against whichever real opponent that trial's schedule
+    assigns them each round (scores are never fabricated — only the schedule
+    is randomised). Each trial respects the real league's actual constraint:
+    a fixed m-round single round-robin cycle (m = n_coaches-1) repeated for
+    the whole season, so within any one trial every pair of coaches meets
+    exactly as many times as they really would — never more, never less,
+    never zero. Aggregating across all trials gives a genuine "if you'd
+    played any possible valid schedule" rank distribution per coach.
 
     Returns one dict per coach, sorted by avg_mc_rank ascending:
         coach, actual_rank, avg_mc_rank, best_mc_rank, worst_mc_rank,
         luck_mc_index (actual_rank − avg_mc_rank),
-        rank_pct: list of 8 floats, rank_pct[i] = % of trials finishing rank i+1
+        rank_dist: list of 8 {rank, pct, cls} dicts (see _rank_tier_class)
     """
     coaches, rounds, _round_data, round_scores, all_records = _build_all_records(fixtures_df)
     if coaches is None:
@@ -384,17 +431,16 @@ def build_monte_carlo_schedule_sim(
         draws   = {c: 0 for c in coaches}
         pts_for = {c: 0.0 for c in coaches}
 
-        for r in rounds:
+        cycle = _generate_round_robin_cycle(coaches, rng)
+        m = len(cycle)
+
+        for k, r in enumerate(rounds):
             scores_r = round_scores.get(r, {})
-            present  = [c for c in coaches if c in scores_r]
-            if len(present) < 2:
-                continue
-            rng.shuffle(present)
-            # Random pairing: consecutive pairs from the shuffled list. If an
-            # odd number of coaches has data that round, the last one sits out
-            # (contributes points_for but no W/D/L that round).
-            for i in range(0, len(present) - 1, 2):
-                a, b = present[i], present[i + 1]
+            for a, b in cycle[k % m]:
+                if a is None or b is None:
+                    continue
+                if a not in scores_r or b not in scores_r:
+                    continue
                 sa, sb = scores_r[a], scores_r[b]
                 pts_for[a] += sa
                 pts_for[b] += sb
@@ -405,8 +451,6 @@ def build_monte_carlo_schedule_sim(
                 else:
                     draws[a] += 1
                     draws[b] += 1
-            if len(present) % 2:
-                pts_for[present[-1]] += scores_r[present[-1]]
 
         league_points = {c: wins[c] * 4 + draws[c] * 2 for c in coaches}
         ladder = sorted(coaches, key=lambda c: (-league_points[c], -pts_for[c]))
