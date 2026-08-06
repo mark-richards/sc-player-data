@@ -21,11 +21,20 @@ Head-to-head fantasy football has several independent luck factors:
                         (you lost despite out-performing the field)
 
 4. SCHEDULE SIMULATION — counterfactual ranking across all possible fixtures
-   • avg_sim_rank     : mean ladder rank if you played every other coach's schedule
-   • best / worst     : best and worst rank across all 8 simulated schedules
+   • avg_sim_rank     : mean ladder rank across 8 alternate universes, one per
+                        real coach's opponent-score sequence used as a shared
+                        benchmark for every coach that round (see note below)
+   • best / worst     : best and worst rank across those 8 simulated universes
    • luck_index       : actual_rank − avg_sim_rank
                         negative = lucky (ranked better than strength suggests)
                         positive = unlucky (ranked worse than strength suggests)
+
+   Each simulated universe must rank ALL coaches against the SAME benchmark
+   opponent-score sequence, not compare one coach's simulated record against
+   everyone else's real record — mixing simulated vs actual records is
+   internally inconsistent and can let a weaker team's "best case" exceed a
+   stronger team's actual dominance (e.g. two coaches both showing a best
+   possible rank of 1, which can't both be true against a shared field).
 """
 import logging
 
@@ -116,6 +125,24 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
     )
     actual_ladder_rank = {c: actual_ladder.index(c) + 1 for c in coaches}
 
+    # ── Simulated ladder per schedule template ────────────────────────────────
+    # For each template b, rank every coach using all_records[c][b] — i.e. every
+    # coach's own real weekly scores judged against the SAME benchmark opponent-
+    # score sequence (the one coach b actually faced). This keeps each simulated
+    # universe internally consistent: all 8 coaches are compared on equal footing
+    # within that universe, rather than one coach's simulation vs everyone else's
+    # real record.
+    sim_ladder_rank: dict[str, dict[str, int]] = {}
+    for b in coaches:
+        ladder_b = sorted(
+            coaches,
+            key=lambda c: (
+                -all_records[c][b]["league_points"],
+                -all_records[c][b]["pts_for"],
+            ),
+        )
+        sim_ladder_rank[b] = {c: ladder_b.index(c) + 1 for c in coaches}
+
     # ── Per-coach metrics ─────────────────────────────────────────────────────
     results = []
 
@@ -127,6 +154,7 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
         unlucky_loss_count = 0
         opp_avg_scores    = []
         opp_weekly_ranks  = []
+        own_weekly_ranks  = []
 
         for r in rounds:
             rd = round_data.get(r, {})
@@ -144,11 +172,13 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
             if n_others > 0:
                 exp_wins += sum(1 for s in others if a_score > s) / n_others
 
-            # ── Opponent's rank within the full 8-team field this round ──────
+            # ── Opponent's and own rank within the full 8-team field this round ──
             all_scores_sorted = sorted(round_scores[r].values(), reverse=True)
             opp_rank = all_scores_sorted.index(opp_score) + 1  # 1 = top scorer
             opp_weekly_ranks.append(opp_rank)
             opp_avg_scores.append(opp_score)
+            own_rank = all_scores_sorted.index(a_score) + 1  # 1 = top scorer
+            own_weekly_ranks.append(own_rank)
 
             # ── Actual outcome vs round average ──────────────────────────────
             round_avg = sum(round_scores[r].values()) / len(round_scores[r])
@@ -164,24 +194,14 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
 
         opp_avg      = round(sum(opp_avg_scores)   / len(opp_avg_scores), 1)   if opp_avg_scores   else 0.0
         avg_opp_rank = round(sum(opp_weekly_ranks) / len(opp_weekly_ranks), 2) if opp_weekly_ranks else 0.0
+        avg_score_rank = round(sum(own_weekly_ranks) / len(own_weekly_ranks), 2) if own_weekly_ranks else 0.0
         luck_wins    = round(actual_wins - exp_wins, 2)
         exp_win_pct  = round(exp_wins / n_rounds_played * 100, 1) if n_rounds_played else 0.0
 
         # ── Schedule simulation ranking ───────────────────────────────────────
-        # For each schedule, ask: if only coach_a played that schedule
-        # (all other coaches keep their own), what rank would they get?
-        # This guarantees best ≤ actual ≤ worst.
-        sim_ranks = []
-        for schedule in coaches:
-            a_rec = all_records[coach_a][schedule]
-            rank = 1 + sum(
-                1 for c in coaches
-                if c != coach_a
-                and (all_records[c][c]["league_points"], all_records[c][c]["pts_for"])
-                    > (a_rec["league_points"], a_rec["pts_for"])
-            )
-            sim_ranks.append(rank)
-
+        # Rank coach_a within each of the 8 self-consistent simulated ladders
+        # computed above (sim_ladder_rank).
+        sim_ranks    = [sim_ladder_rank[b][coach_a] for b in coaches]
         actual_rank  = actual_ladder_rank[coach_a]
         avg_sim_rank = round(sum(sim_ranks) / len(sim_ranks), 2)
         best_rank    = min(sim_ranks)
@@ -203,6 +223,7 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
             "unlucky_losses":      unlucky_loss_count,
             # Schedule simulation
             "actual_rank":         actual_rank,
+            "avg_score_rank":      avg_score_rank,
             "avg_sim_rank":        avg_sim_rank,
             "best_sim_rank":       best_rank,
             "worst_sim_rank":      worst_rank,

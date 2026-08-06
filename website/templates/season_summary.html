@@ -158,8 +158,8 @@
               <tr>
                 <th>#</th>
                 <th>Coach</th>
-                <th class="text-end" title="Actual ladder rank this season">Actual</th>
-                <th class="text-end" title="Mean rank across all 8 possible schedules — lower = stronger team">Avg Rank</th>
+                <th class="text-end" title="Mean weekly rank of your own score within the 8-team field — lower = higher-scoring team">Avg Score Rank</th>
+                <th class="text-end" title="Mean rank across all 8 possible schedules — lower = stronger team">Avg Ladder Rank</th>
                 <th class="text-end" title="Best rank achieved under any schedule">Best</th>
                 <th class="text-end" title="Worst rank achieved under any schedule">Worst</th>
                 <th class="text-end" title="Actual rank minus avg simulated rank. Negative = lucky schedule.">Luck</th>
@@ -170,7 +170,7 @@
               <tr>
                 <td class="text-muted">{{ loop.index }}</td>
                 <td><a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
-                <td class="text-end text-muted">{{ row.actual_rank }}</td>
+                <td class="text-end text-muted">{{ "%.2f"|format(row.avg_score_rank) }}</td>
                 <td class="text-end fw-semibold">{{ "%.2f"|format(row.avg_sim_rank) }}</td>
                 <td class="text-end text-success fw-semibold small">{{ row.best_sim_rank }}</td>
                 <td class="text-end text-danger small">{{ row.worst_sim_rank }}</td>
@@ -262,6 +262,8 @@
     &nbsp;|&nbsp;
     <strong>🍀 W</strong>: wins where your score was below the round average.
     <strong>💔 L</strong>: losses where your score was above the round average.
+    &nbsp;|&nbsp;
+    <strong>Avg Score Rank</strong>: mean weekly rank (1–8) of your own score within the full field — a schedule-independent measure of raw scoring strength.
     &nbsp;|&nbsp;
     <strong>Luck</strong> (Season Performance) = actual rank − avg simulated rank.
     <span class="badge bg-success">Negative</span> = lucky fixture draw.
