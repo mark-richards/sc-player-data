@@ -369,6 +369,76 @@
 </div>
 {% endif %}
 
+{% if monte_carlo_sim %}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">Monte Carlo Schedule Simulation</div>
+  <div class="card-body">
+    <p class="text-muted small mb-3">
+      {{ "{:,}".format(monte_carlo_sim[0].n_trials) }} randomly-paired schedules — every coach's
+      own real weekly score, judged against a randomly assigned opponent's real score each round.
+      Rather than list every trial, each bar below shows the <strong>full distribution</strong> of
+      finishing positions a coach landed on across all {{ "{:,}".format(monte_carlo_sim[0].n_trials) }} runs.
+    </p>
+    <div class="table-responsive">
+      <table class="table table-sm mb-0 align-middle">
+        <thead class="table-dark">
+          <tr>
+            <th>Coach</th>
+            <th class="text-end" title="Actual ladder rank this season">Actual</th>
+            <th class="text-end" title="Mean rank across all randomised trials">Avg</th>
+            <th class="text-end" title="Best rank achieved in any trial">Best</th>
+            <th class="text-end" title="Worst rank achieved in any trial">Worst</th>
+            <th class="text-end" title="Actual rank minus avg trial rank. Negative = lucky schedule.">Luck</th>
+            <th style="min-width:260px;">Finish-position distribution (rank 1 → 8)</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in monte_carlo_sim %}
+          <tr>
+            <td><a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
+            <td class="text-end text-muted">{{ row.actual_rank }}</td>
+            <td class="text-end fw-semibold">{{ "%.2f"|format(row.avg_mc_rank) }}</td>
+            <td class="text-end text-success fw-semibold small">{{ row.best_mc_rank }}</td>
+            <td class="text-end text-danger small">{{ row.worst_mc_rank }}</td>
+            <td class="text-end">
+              {% if row.luck_mc_index < -0.3 %}
+                <span class="badge bg-success">{{ "%.1f"|format(row.luck_mc_index) }}</span>
+              {% elif row.luck_mc_index > 0.3 %}
+                <span class="badge bg-danger">+{{ "%.1f"|format(row.luck_mc_index) }}</span>
+              {% else %}
+                <span class="text-muted small">{{ "%.1f"|format(row.luck_mc_index) }}</span>
+              {% endif %}
+            </td>
+            <td>
+              <div class="d-flex" style="height:22px; border-radius:3px; overflow:hidden;">
+                {% for seg in row.rank_dist %}
+                  {% if seg.pct > 0 %}
+                  <div class="{{ seg.cls }} d-flex align-items-center justify-content-center"
+                       style="width:{{ seg.pct }}%; font-size:0.62rem; border-right:2px solid var(--bs-body-bg,#fff);"
+                       title="Rank {{ seg.rank }}: {{ seg.pct }}% of trials">
+                    {% if seg.pct >= 8 %}{{ seg.rank }}{% endif %}
+                  </div>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="card-footer text-muted small">
+    Each bar segment is the % of {{ "{:,}".format(monte_carlo_sim[0].n_trials) }} random schedules where that
+    coach finished at that rank — hover a segment for the exact %. Colour scale matches the Draft Heat Map
+    (dark green = rank 1, red = rank 8).
+    &nbsp;|&nbsp;
+    <strong>Luck</strong> = actual rank − avg trial rank. Negative = your real schedule was kinder than a
+    random one; positive = harsher.
+  </div>
+</div>
+{% endif %}
+
 {% endblock %}
 
 {% block scripts %}

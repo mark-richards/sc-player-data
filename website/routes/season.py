@@ -11,7 +11,7 @@ from website.data.standings import compute_standings, get_current_round
 from website.data.charts import ladder_journey_chart, score_boxplot, score_scatter
 from website.data.positional_ratings import compute_positional_ratings
 from website.data.simulation import run_monte_carlo
-from website.data.fixture_strength import build_fixture_strength, build_simulation_ladders
+from website.data.fixture_strength import build_fixture_strength, build_simulation_ladders, build_monte_carlo_schedule_sim
 from waiver.fixture_schedule import round_is_complete
 
 bp = Blueprint("season", __name__)
@@ -58,6 +58,11 @@ def season_summary():
     except Exception:
         simulation_ladders = []
 
+    try:
+        monte_carlo_sim = build_monte_carlo_schedule_sim(fixtures)
+    except Exception:
+        monte_carlo_sim = []
+
     return render_template(
         "season_summary.html",
         standings=standings.to_dict(orient="records"),
@@ -68,5 +73,6 @@ def season_summary():
         season_year=2026,
         fixture_strength=fixture_strength,
         simulation_ladders=simulation_ladders,
+        monte_carlo_sim=monte_carlo_sim,
         coach_order=COACH_ORDER,
     )

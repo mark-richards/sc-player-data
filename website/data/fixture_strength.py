@@ -35,8 +35,19 @@ Head-to-head fantasy football has several independent luck factors:
    internally inconsistent and can let a weaker team's "best case" exceed a
    stronger team's actual dominance (e.g. two coaches both showing a best
    possible rank of 1, which can't both be true against a shared field).
+
+5. MONTE CARLO SCHEDULE SIMULATION — the same idea, at scale
+   build_simulation_ladders() only samples 8 alternate universes — one per
+   real coach's actual opponent-score sequence, because that's the only
+   fixture history that exists. build_monte_carlo_schedule_sim() instead
+   draws thousands of independently-random round-by-round pairings (every
+   coach's own real weekly score, judged against a randomly assigned
+   opponent's real score each round — never a fabricated score) and reports
+   the resulting rank *distribution* per coach: how often each coach lands
+   at each ladder position across the sample, plus avg/best/worst.
 """
 import logging
+import random
 
 import pandas as pd
 
@@ -328,4 +339,113 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
 
     # Sort fixture difficulty by avg_opp_rank ascending (hardest schedule first)
     results.sort(key=lambda x: x["avg_opp_rank"])
+    return results
+
+
+def build_monte_carlo_schedule_sim(
+    fixtures_df: pd.DataFrame, n_trials: int = 2000, seed: int = 42
+) -> list[dict]:
+    """
+    Draws n_trials random round-by-round pairings and, in each trial, judges
+    every coach's own real weekly score against whichever real opponent they
+    were randomly paired with that round (scores are never fabricated — only
+    the pairing is randomised). Each trial produces one self-consistent
+    8-coach ladder; aggregating across all trials gives a genuine "if you'd
+    played any possible schedule" rank distribution per coach.
+
+    Returns one dict per coach, sorted by avg_mc_rank ascending:
+        coach, actual_rank, avg_mc_rank, best_mc_rank, worst_mc_rank,
+        luck_mc_index (actual_rank − avg_mc_rank),
+        rank_pct: list of 8 floats, rank_pct[i] = % of trials finishing rank i+1
+    """
+    coaches, rounds, _round_data, round_scores, all_records = _build_all_records(fixtures_df)
+    if coaches is None:
+        return []
+
+    n = len(coaches)
+    rng = random.Random(seed)
+
+    actual_ladder = sorted(
+        coaches,
+        key=lambda c: (
+            -all_records[c][c]["league_points"],
+            -all_records[c][c]["pts_for"],
+        ),
+    )
+    actual_ladder_rank = {c: actual_ladder.index(c) + 1 for c in coaches}
+
+    rank_counts = {c: [0] * n for c in coaches}
+    sum_rank    = {c: 0 for c in coaches}
+    best_rank   = {c: n for c in coaches}
+    worst_rank  = {c: 1 for c in coaches}
+
+    for _ in range(n_trials):
+        wins    = {c: 0 for c in coaches}
+        draws   = {c: 0 for c in coaches}
+        pts_for = {c: 0.0 for c in coaches}
+
+        for r in rounds:
+            scores_r = round_scores.get(r, {})
+            present  = [c for c in coaches if c in scores_r]
+            if len(present) < 2:
+                continue
+            rng.shuffle(present)
+            # Random pairing: consecutive pairs from the shuffled list. If an
+            # odd number of coaches has data that round, the last one sits out
+            # (contributes points_for but no W/D/L that round).
+            for i in range(0, len(present) - 1, 2):
+                a, b = present[i], present[i + 1]
+                sa, sb = scores_r[a], scores_r[b]
+                pts_for[a] += sa
+                pts_for[b] += sb
+                if sa > sb:
+                    wins[a] += 1
+                elif sb > sa:
+                    wins[b] += 1
+                else:
+                    draws[a] += 1
+                    draws[b] += 1
+            if len(present) % 2:
+                pts_for[present[-1]] += scores_r[present[-1]]
+
+        league_points = {c: wins[c] * 4 + draws[c] * 2 for c in coaches}
+        ladder = sorted(coaches, key=lambda c: (-league_points[c], -pts_for[c]))
+        for i, c in enumerate(ladder):
+            rk = i + 1
+            rank_counts[c][rk - 1] += 1
+            sum_rank[c] += rk
+            best_rank[c] = min(best_rank[c], rk)
+            worst_rank[c] = max(worst_rank[c], rk)
+
+    def _rank_tier_class(rank: int) -> str:
+        """Same 5-tier rank colour scale used by the Draft Heat Map (custom.css)."""
+        if rank == 1:
+            return "rank-1"
+        elif rank <= 3:
+            return "rank-2-3"
+        elif rank <= 5:
+            return "rank-4-5"
+        elif rank <= 7:
+            return "rank-6-7"
+        return "rank-8"
+
+    results = []
+    for c in coaches:
+        avg_rank = sum_rank[c] / n_trials
+        pct = [round(cnt / n_trials * 100, 1) for cnt in rank_counts[c]]
+        results.append({
+            "coach":          c,
+            "actual_rank":    actual_ladder_rank[c],
+            "avg_mc_rank":    round(avg_rank, 2),
+            "best_mc_rank":   best_rank[c],
+            "worst_mc_rank":  worst_rank[c],
+            "luck_mc_index":  round(actual_ladder_rank[c] - avg_rank, 2),
+            "rank_dist":      [
+                {"rank": i + 1, "pct": pct[i], "cls": _rank_tier_class(i + 1)}
+                for i in range(n)
+            ],
+            "n_trials":       n_trials,
+        })
+
+    results.sort(key=lambda x: x["avg_mc_rank"])
     return results
