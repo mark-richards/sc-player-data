@@ -382,7 +382,7 @@
       finishing positions a coach landed on across all {{ "{:,}".format(monte_carlo_sim[0].n_trials) }} runs
       — <strong>click a segment</strong> to see one concrete example schedule that produced that rank.
     </p>
-    <div class="table-responsive">
+    <div class="table-responsive" id="mcAccordion">
       <table class="table table-sm mb-0 align-middle">
         <thead class="table-dark">
           <tr>
@@ -433,7 +433,7 @@
           </tr>
           {% for seg in row.rank_dist %}
             {% if seg.example %}
-            <tr class="collapse" id="mc-{{ row.coach }}-{{ seg.rank }}">
+            <tr class="collapse" id="mc-{{ row.coach }}-{{ seg.rank }}" data-bs-parent="#mcAccordion">
               <td colspan="6" class="p-0 border-0">
                 <div class="p-3 bg-body-tertiary">
                   <p class="text-muted small mb-2">
