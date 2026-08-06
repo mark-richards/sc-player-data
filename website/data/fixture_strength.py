@@ -408,6 +408,8 @@ def build_monte_carlo_schedule_sim(
 
     Returns one dict per coach, sorted by avg_mc_rank ascending:
         coach, actual_rank, avg_mc_rank, best_mc_rank, worst_mc_rank,
+        top2_pct, top4_pct, spoon_pct (% of trials finishing rank 1-2,
+        rank 1-4, and last place respectively),
         luck_mc_index (actual_rank − avg_mc_rank),
         rank_dist: list of 8 {rank, pct, cls, example} dicts — "example" is
         None if that rank never occurred for this coach across all trials,
@@ -524,6 +526,9 @@ def build_monte_carlo_schedule_sim(
             "avg_mc_rank":    round(avg_rank, 2),
             "best_mc_rank":   best_rank[c],
             "worst_mc_rank":  worst_rank[c],
+            "top2_pct":       round(sum(rank_counts[c][0:2]) / n_trials * 100, 1),
+            "top4_pct":       round(sum(rank_counts[c][0:4]) / n_trials * 100, 1),
+            "spoon_pct":      round(rank_counts[c][n - 1] / n_trials * 100, 1),
             "luck_mc_index":  round(actual_ladder_rank[c] - avg_rank, 2),
             "rank_dist":      [
                 {

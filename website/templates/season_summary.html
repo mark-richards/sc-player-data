@@ -389,8 +389,9 @@
             <th>Coach</th>
             <th class="text-end" title="Actual ladder rank this season">Actual</th>
             <th class="text-end" title="Mean rank across all randomised trials">Avg</th>
-            <th class="text-end" title="Best rank achieved in any trial">Best</th>
-            <th class="text-end" title="Worst rank achieved in any trial">Worst</th>
+            <th class="text-end" title="% of trials finishing rank 1 or 2">Top 2%</th>
+            <th class="text-end" title="% of trials finishing rank 1-4">Top 4%</th>
+            <th class="text-end" title="% of trials finishing last (wooden spoon)">Spoon %</th>
             <th class="text-end" title="Actual rank minus avg trial rank. Negative = lucky schedule.">Luck</th>
             <th style="min-width:260px;">Finish-position distribution (rank 1 → 8) — click a segment</th>
           </tr>
@@ -401,8 +402,9 @@
             <td><a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
             <td class="text-end text-muted">{{ row.actual_rank }}</td>
             <td class="text-end fw-semibold">{{ "%.2f"|format(row.avg_mc_rank) }}</td>
-            <td class="text-end text-success fw-semibold small">{{ row.best_mc_rank }}</td>
-            <td class="text-end text-danger small">{{ row.worst_mc_rank }}</td>
+            <td class="text-end text-success small">{{ "%.1f"|format(row.top2_pct) }}%</td>
+            <td class="text-end small">{{ "%.1f"|format(row.top4_pct) }}%</td>
+            <td class="text-end text-danger small">{{ "%.1f"|format(row.spoon_pct) }}%</td>
             <td class="text-end">
               {% if row.luck_mc_index < -0.3 %}
                 <span class="badge bg-success">{{ "%.1f"|format(row.luck_mc_index) }}</span>
@@ -434,7 +436,7 @@
           {% for seg in row.rank_dist %}
             {% if seg.example %}
             <tr class="collapse" id="mc-{{ row.coach }}-{{ seg.rank }}" data-bs-parent="#mcAccordion">
-              <td colspan="6" class="p-0 border-0">
+              <td colspan="8" class="p-0 border-0">
                 <div class="p-3 bg-body-tertiary">
                   <p class="text-muted small mb-2">
                     One example randomised schedule where <strong>{{ row.coach }}</strong> finished
