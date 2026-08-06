@@ -379,7 +379,8 @@
       rounds, on a repeating cycle), only which cycle gets drawn is randomised. Every coach's own real
       weekly score is judged against whichever real opponent that trial's schedule assigns them.
       Rather than list every trial, each bar below shows the <strong>full distribution</strong> of
-      finishing positions a coach landed on across all {{ "{:,}".format(monte_carlo_sim[0].n_trials) }} runs.
+      finishing positions a coach landed on across all {{ "{:,}".format(monte_carlo_sim[0].n_trials) }} runs
+      — <strong>click a segment</strong> to see one concrete example schedule that produced that rank.
     </p>
     <div class="table-responsive">
       <table class="table table-sm mb-0 align-middle">
@@ -391,7 +392,7 @@
             <th class="text-end" title="Best rank achieved in any trial">Best</th>
             <th class="text-end" title="Worst rank achieved in any trial">Worst</th>
             <th class="text-end" title="Actual rank minus avg trial rank. Negative = lucky schedule.">Luck</th>
-            <th style="min-width:260px;">Finish-position distribution (rank 1 → 8)</th>
+            <th style="min-width:260px;">Finish-position distribution (rank 1 → 8) — click a segment</th>
           </tr>
         </thead>
         <tbody>
@@ -416,8 +417,13 @@
                 {% for seg in row.rank_dist %}
                   {% if seg.pct > 0 %}
                   <div class="{{ seg.cls }} d-flex align-items-center justify-content-center"
+                       {% if seg.example %}
+                       role="button" data-bs-toggle="collapse" data-bs-target="#mc-{{ row.coach }}-{{ seg.rank }}"
+                       aria-expanded="false" style="width:{{ seg.pct }}%; font-size:0.62rem; cursor:pointer; border-right:2px solid var(--bs-body-bg,#fff);"
+                       {% else %}
                        style="width:{{ seg.pct }}%; font-size:0.62rem; border-right:2px solid var(--bs-body-bg,#fff);"
-                       title="Rank {{ seg.rank }}: {{ seg.pct }}% of trials">
+                       {% endif %}
+                       title="Rank {{ seg.rank }}: {{ seg.pct }}% of trials{% if seg.example %} — click for an example{% endif %}">
                     {% if seg.pct >= 8 %}{{ seg.rank }}{% endif %}
                   </div>
                   {% endif %}
@@ -425,6 +431,54 @@
               </div>
             </td>
           </tr>
+          {% for seg in row.rank_dist %}
+            {% if seg.example %}
+            <tr class="collapse" id="mc-{{ row.coach }}-{{ seg.rank }}">
+              <td colspan="6" class="p-0 border-0">
+                <div class="p-3 bg-body-tertiary">
+                  <p class="text-muted small mb-2">
+                    One example randomised schedule where <strong>{{ row.coach }}</strong> finished
+                    <strong>rank {{ seg.rank }}</strong> — record
+                    {{ seg.example.wins }}-{{ seg.example.draws }}-{{ seg.example.losses }}
+                    ({{ seg.example.league_points }} pts), {{ "{:,.0f}".format(seg.example.pts_for) }} points for.
+                  </p>
+                  <div class="table-responsive">
+                    <table class="table table-sm mb-0" style="font-size:0.75rem;">
+                      <thead class="table-light">
+                        <tr>
+                          <th>Rd</th>
+                          <th>Opponent</th>
+                          <th class="text-end">{{ row.coach }}'s score</th>
+                          <th class="text-end">Opponent's score</th>
+                          <th class="text-end">Result</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {% for rd in seg.example.rounds %}
+                        <tr>
+                          <td class="text-muted">{{ rd.round }}</td>
+                          <td><a href="/coach/{{ rd.opponent }}" class="text-decoration-none">{{ rd.opponent }}</a></td>
+                          <td class="text-end">{{ "%.0f"|format(rd.own_score) }}</td>
+                          <td class="text-end text-muted">{{ "%.0f"|format(rd.opp_score) }}</td>
+                          <td class="text-end">
+                            {% if rd.result == 'W' %}
+                              <span class="text-success fw-semibold">W</span>
+                            {% elif rd.result == 'L' %}
+                              <span class="text-danger fw-semibold">L</span>
+                            {% else %}
+                              <span class="text-muted fw-semibold">D</span>
+                            {% endif %}
+                          </td>
+                        </tr>
+                        {% endfor %}
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </td>
+            </tr>
+            {% endif %}
+          {% endfor %}
           {% endfor %}
         </tbody>
       </table>
@@ -432,8 +486,9 @@
   </div>
   <div class="card-footer text-muted small">
     Each bar segment is the % of {{ "{:,}".format(monte_carlo_sim[0].n_trials) }} randomised valid
-    schedules where that coach finished at that rank — hover a segment for the exact %. Colour scale
-    matches the Draft Heat Map (dark green = rank 1, red = rank 8).
+    schedules where that coach finished at that rank — hover a segment for the exact %, click it for a
+    concrete example round-by-round schedule that produced it. Colour scale matches the Draft Heat Map
+    (dark green = rank 1, red = rank 8).
     &nbsp;|&nbsp;
     <strong>Luck</strong> = actual rank − avg trial rank. Negative = your real schedule was kinder than a
     randomised one; positive = harsher.

@@ -386,7 +386,7 @@ def _generate_round_robin_cycle(coaches: list, rng: random.Random) -> list:
 
 
 def build_monte_carlo_schedule_sim(
-    fixtures_df: pd.DataFrame, n_trials: int = 2000, seed: int = 42
+    fixtures_df: pd.DataFrame, n_trials: int = 20000, seed: int = 42
 ) -> list[dict]:
     """
     Draws n_trials randomised, structurally valid round-robin schedules (see
@@ -400,10 +400,19 @@ def build_monte_carlo_schedule_sim(
     never zero. Aggregating across all trials gives a genuine "if you'd
     played any possible valid schedule" rank distribution per coach.
 
+    For every (coach, rank) combination that occurs in at least one trial,
+    the first trial to produce it is kept as a concrete illustrative example
+    — a full round-by-round breakdown (opponent, both scores, result) plus
+    the resulting W/D/L record — so a user can drill into "show me one way
+    this coach could have finished 3rd".
+
     Returns one dict per coach, sorted by avg_mc_rank ascending:
         coach, actual_rank, avg_mc_rank, best_mc_rank, worst_mc_rank,
         luck_mc_index (actual_rank − avg_mc_rank),
-        rank_dist: list of 8 {rank, pct, cls} dicts (see _rank_tier_class)
+        rank_dist: list of 8 {rank, pct, cls, example} dicts — "example" is
+        None if that rank never occurred for this coach across all trials,
+        otherwise {rounds: [...], wins, draws, losses, pts_for, league_points}
+        (see _rank_tier_class for "cls")
     """
     coaches, rounds, _round_data, round_scores, all_records = _build_all_records(fixtures_df)
     if coaches is None:
@@ -425,6 +434,7 @@ def build_monte_carlo_schedule_sim(
     sum_rank    = {c: 0 for c in coaches}
     best_rank   = {c: n for c in coaches}
     worst_rank  = {c: 1 for c in coaches}
+    examples: dict = {}  # (coach, rank) -> example dict, first trial to hit it
 
     for _ in range(n_trials):
         wins    = {c: 0 for c in coaches}
@@ -434,6 +444,11 @@ def build_monte_carlo_schedule_sim(
         cycle = _generate_round_robin_cycle(coaches, rng)
         m = len(cycle)
 
+        # Track each coach's opponent this trial, per round, so an example
+        # can be reconstructed cheaply if this trial turns out to be the
+        # first to hit a not-yet-seen (coach, rank) combination.
+        opponent_by_round: dict = {c: {} for c in coaches}
+
         for k, r in enumerate(rounds):
             scores_r = round_scores.get(r, {})
             for a, b in cycle[k % m]:
@@ -441,6 +456,8 @@ def build_monte_carlo_schedule_sim(
                     continue
                 if a not in scores_r or b not in scores_r:
                     continue
+                opponent_by_round[a][r] = b
+                opponent_by_round[b][r] = a
                 sa, sb = scores_r[a], scores_r[b]
                 pts_for[a] += sa
                 pts_for[b] += sb
@@ -460,6 +477,30 @@ def build_monte_carlo_schedule_sim(
             sum_rank[c] += rk
             best_rank[c] = min(best_rank[c], rk)
             worst_rank[c] = max(worst_rank[c], rk)
+
+            key = (c, rk)
+            if key not in examples:
+                round_detail = []
+                for r in rounds:
+                    opp = opponent_by_round[c].get(r)
+                    if opp is None:
+                        continue
+                    own_score = round_scores[r][c]
+                    opp_score = round_scores[r][opp]
+                    result = "W" if own_score > opp_score else ("D" if own_score == opp_score else "L")
+                    round_detail.append({
+                        "round": r, "opponent": opp,
+                        "own_score": own_score, "opp_score": opp_score,
+                        "result": result,
+                    })
+                examples[key] = {
+                    "rounds":        round_detail,
+                    "wins":          wins[c],
+                    "draws":         draws[c],
+                    "losses":        len(round_detail) - wins[c] - draws[c],
+                    "pts_for":       round(pts_for[c], 1),
+                    "league_points": league_points[c],
+                }
 
     def _rank_tier_class(rank: int) -> str:
         """Same 5-tier rank colour scale used by the Draft Heat Map (custom.css)."""
@@ -485,7 +526,10 @@ def build_monte_carlo_schedule_sim(
             "worst_mc_rank":  worst_rank[c],
             "luck_mc_index":  round(actual_ladder_rank[c] - avg_rank, 2),
             "rank_dist":      [
-                {"rank": i + 1, "pct": pct[i], "cls": _rank_tier_class(i + 1)}
+                {
+                    "rank": i + 1, "pct": pct[i], "cls": _rank_tier_class(i + 1),
+                    "example": examples.get((c, i + 1)),
+                }
                 for i in range(n)
             ],
             "n_trials":       n_trials,
