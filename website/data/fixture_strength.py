@@ -43,21 +43,24 @@ import pandas as pd
 log = logging.getLogger(__name__)
 
 
-def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
+def _build_all_records(fixtures_df: pd.DataFrame):
     """
-    Returns one dict per coach with all luck/difficulty metrics.
-    Sorted by avg_opp_rank ascending (hardest schedule first).
-    Returns [] if fewer than 2 coaches or 1 round.
+    Shared groundwork for both build_fixture_strength() and
+    build_simulation_ladders(): per-round lookups and the 8×8 simulated
+    W/D/L record matrix (all_records[a][b] = coach a's record if every round
+    they'd faced the opponent-score that coach b actually faced).
+
+    Returns (coaches, rounds, round_data, round_scores, all_records) or
+    (None, None, None, None, None) if there's not enough data to simulate.
     """
     if fixtures_df.empty:
-        return []
+        return None, None, None, None, None
 
     rounds  = sorted(fixtures_df["round_number"].unique())
     coaches = sorted(fixtures_df["coach_first_name"].unique())
     if len(coaches) < 2 or len(rounds) < 1:
-        return []
+        return None, None, None, None, None
 
-    # ── Build per-round lookup ────────────────────────────────────────────────
     # round_data[r][coach] = {"score": float, "opp": str, "opp_score": float}
     round_data: dict[int, dict] = {}
     for _, row in fixtures_df.iterrows():
@@ -70,8 +73,6 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
             "opp":       row["opposition_team_coach"],
             "opp_score": float(row["opposition_team_points"]),
         }
-
-    # ── Schedule simulation helpers ───────────────────────────────────────────
 
     def _record_a_under_b(coach_a: str, coach_b: str) -> dict:
         """Coach A's W/D/L if they had faced coach B's opponents every round."""
@@ -108,12 +109,107 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
         for a in coaches
     }
 
-    # ── Per-round field-wide score map ────────────────────────────────────────
     # round_scores[r] = {coach: score}
     round_scores: dict[int, dict] = {
         r: {c: d["score"] for c, d in rd.items()}
         for r, rd in round_data.items()
     }
+
+    return coaches, rounds, round_data, round_scores, all_records
+
+
+def build_simulation_ladders(fixtures_df: pd.DataFrame) -> list[dict]:
+    """
+    Returns one dict per schedule template: {"template", "ladder", "detail"}
+    where "ladder" is that template's full 8-coach simulated standings (all
+    coaches judged against the same benchmark opponent-score sequence — the
+    one the template coach actually faced), ordered by rank, and "detail" is
+    the round-by-round breakdown that produced it (for drilling into exactly
+    which fixture swaps changed the outcome).
+
+    Ladder entry: {"rank", "coach", "wins", "draws", "losses", "pts_for",
+                   "actual_rank", "delta"}  (delta = actual_rank − sim_rank;
+                   positive = this simulation ranked them better than reality)
+
+    Detail row: {"round", "opponent", "benchmark_score",
+                 "scores": {coach: {"score", "bench", "result"}}}
+    """
+    coaches, rounds, round_data, round_scores, all_records = _build_all_records(fixtures_df)
+    if coaches is None:
+        return []
+
+    actual_ladder = sorted(
+        coaches,
+        key=lambda c: (
+            -all_records[c][c]["league_points"],
+            -all_records[c][c]["pts_for"],
+        ),
+    )
+    actual_ladder_rank = {c: actual_ladder.index(c) + 1 for c in coaches}
+
+    sims = []
+    for b in coaches:
+        ladder_b = sorted(
+            coaches,
+            key=lambda c: (
+                -all_records[c][b]["league_points"],
+                -all_records[c][b]["pts_for"],
+            ),
+        )
+        ladder = []
+        for i, c in enumerate(ladder_b):
+            sim_rank = i + 1
+            ladder.append({
+                "rank":        sim_rank,
+                "coach":       c,
+                "wins":        all_records[c][b]["wins"],
+                "draws":       all_records[c][b]["draws"],
+                "losses":      all_records[c][b]["losses"],
+                "pts_for":     round(all_records[c][b]["pts_for"], 1),
+                "actual_rank": actual_ladder_rank[c],
+                "delta":       actual_ladder_rank[c] - sim_rank,
+            })
+
+        # Round-by-round detail: every coach's real score judged against the
+        # same benchmark opponent-score that template coach b actually faced
+        # that round (self-match guard mirrors _record_a_under_b exactly).
+        detail = []
+        for r in rounds:
+            rd = round_data.get(r, {})
+            b_data = rd.get(b)
+            if not b_data:
+                continue
+            b_opp = b_data["opp"]
+            benchmark_score = b_data["opp_score"]
+            row_scores = {}
+            for c in coaches:
+                cd = rd.get(c)
+                if not cd:
+                    continue
+                bench = cd["opp_score"] if b_opp == c else benchmark_score
+                score = cd["score"]
+                result = "W" if score > bench else ("D" if score == bench else "L")
+                row_scores[c] = {"score": score, "bench": bench, "result": result}
+            detail.append({
+                "round":           r,
+                "opponent":        b_opp,
+                "benchmark_score": benchmark_score,
+                "scores":          row_scores,
+            })
+
+        sims.append({"template": b, "ladder": ladder, "detail": detail})
+    return sims
+
+
+def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
+    """
+    Returns one dict per coach with all luck/difficulty metrics.
+    Sorted by avg_opp_rank ascending (hardest schedule first).
+    Returns [] if fewer than 2 coaches or 1 round.
+    """
+    coaches, rounds, round_data, round_scores, all_records = _build_all_records(fixtures_df)
+    if coaches is None:
+        return []
 
     # ── Actual ladder rank (each coach plays their own schedule) ─────────────
     actual_ladder = sorted(
