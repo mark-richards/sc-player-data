@@ -271,104 +271,6 @@
 </div>
 {% endif %}
 
-{% if simulation_ladders %}
-<div class="card shadow-sm mb-4">
-  <div class="card-header fw-semibold">Schedule Simulation Results</div>
-  <div class="card-body">
-    <p class="text-muted small mb-3">
-      Each row is one of the 8 simulated universes behind the Season Performance table above:
-      every coach's own real weekly score is judged against the same run of opponent scores
-      that one coach (the "Schedule Used") actually faced, producing a self-consistent
-      alternate ladder. <strong>Click a row</strong> to see the round-by-round fixture swaps
-      that produced it.
-    </p>
-    <div class="table-responsive">
-      <table class="table table-sm table-hover mb-0 align-middle">
-        <thead class="table-dark">
-          <tr>
-            <th>Schedule Used</th>
-            <th>Resulting Ladder <span class="fw-normal">(rank · coach · W-D-L · Δ vs actual)</span></th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for sim in simulation_ladders %}
-          <tr role="button" data-bs-toggle="collapse" data-bs-target="#simDetail{{ loop.index }}"
-              aria-expanded="false" style="cursor:pointer;">
-            <td class="fw-semibold text-nowrap">
-              <a href="/coach/{{ sim.template }}" class="text-decoration-none" onclick="event.stopPropagation();">{{ sim.template }}</a>
-            </td>
-            <td class="small">
-              {% for entry in sim.ladder %}
-                <span class="text-nowrap me-3 d-inline-block">
-                  <strong>{{ entry.rank }}.</strong> {{ entry.coach }}
-                  <span class="text-muted">({{ entry.wins }}-{{ entry.draws }}-{{ entry.losses }})</span>
-                  {% if entry.delta > 0 %}
-                    <span class="text-success" title="Ranked {{ entry.delta }} better than actual">▲{{ entry.delta }}</span>
-                  {% elif entry.delta < 0 %}
-                    <span class="text-danger" title="Ranked {{ -entry.delta }} worse than actual">▼{{ -entry.delta }}</span>
-                  {% endif %}
-                </span>
-              {% endfor %}
-            </td>
-          </tr>
-          <tr class="collapse" id="simDetail{{ loop.index }}">
-            <td colspan="2" class="p-0 border-0">
-              <div class="p-3 bg-body-tertiary">
-                <p class="text-muted small mb-2">
-                  Round-by-round: every coach's real score vs the benchmark score that
-                  <strong>{{ sim.template }}</strong>'s real opponent posted that round
-                  (bold = the coach who actually produced that benchmark).
-                </p>
-                <div class="table-responsive">
-                  <table class="table table-sm mb-0" style="font-size:0.72rem;">
-                    <thead class="table-light">
-                      <tr>
-                        <th>Rd</th>
-                        <th class="text-end">Benchmark</th>
-                        {% for c in coach_order %}<th class="text-end">{{ c }}</th>{% endfor %}
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {% for row in sim.detail %}
-                      <tr>
-                        <td class="text-muted">{{ row.round }}</td>
-                        <td class="text-end text-muted">{{ "%.0f"|format(row.benchmark_score) }}</td>
-                        {% for c in coach_order %}
-                          {% set cell = row.scores.get(c) %}
-                          <td class="text-end {{ 'fw-bold' if c == row.opponent else '' }}">
-                            {% if cell %}
-                              <span class="{{ 'text-success' if cell.result == 'W' else ('text-danger' if cell.result == 'L' else 'text-muted') }}">
-                                {{ "%.0f"|format(cell.score) }}
-                              </span>
-                            {% else %}
-                              <span class="text-muted">—</span>
-                            {% endif %}
-                          </td>
-                        {% endfor %}
-                      </tr>
-                      {% endfor %}
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-            </td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    </div>
-  </div>
-  <div class="card-footer text-muted small">
-    <strong>Δ vs actual</strong>: this simulation's rank minus the coach's real ladder rank.
-    <span class="text-success">▲</span> = simulation ranked them better than reality;
-    <span class="text-danger">▼</span> = worse.
-    &nbsp;|&nbsp;
-    In the round detail, green/red score = that coach beat/lost to the benchmark that round;
-    bold column = the coach who actually produced the benchmark score (their own real result).
-  </div>
-</div>
-{% endif %}
-
 {% if monte_carlo_sim %}
 <div class="card shadow-sm mb-4">
   <div class="card-header fw-semibold">Monte Carlo Schedule Simulation</div>
@@ -444,37 +346,67 @@
                     {{ seg.example.wins }}-{{ seg.example.draws }}-{{ seg.example.losses }}
                     ({{ seg.example.league_points }} pts), {{ "{:,.0f}".format(seg.example.pts_for) }} points for.
                   </p>
-                  <div class="table-responsive">
-                    <table class="table table-sm mb-0" style="font-size:0.75rem;">
-                      <thead class="table-light">
-                        <tr>
-                          <th>Rd</th>
-                          <th>Opponent</th>
-                          <th class="text-end">{{ row.coach }}'s score</th>
-                          <th class="text-end">Opponent's score</th>
-                          <th class="text-end">Result</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        {% for rd in seg.example.rounds %}
-                        <tr>
-                          <td class="text-muted">{{ rd.round }}</td>
-                          <td><a href="/coach/{{ rd.opponent }}" class="text-decoration-none">{{ rd.opponent }}</a></td>
-                          <td class="text-end">{{ "%.0f"|format(rd.own_score) }}</td>
-                          <td class="text-end text-muted">{{ "%.0f"|format(rd.opp_score) }}</td>
-                          <td class="text-end">
-                            {% if rd.result == 'W' %}
-                              <span class="text-success fw-semibold">W</span>
-                            {% elif rd.result == 'L' %}
-                              <span class="text-danger fw-semibold">L</span>
-                            {% else %}
-                              <span class="text-muted fw-semibold">D</span>
-                            {% endif %}
-                          </td>
-                        </tr>
-                        {% endfor %}
-                      </tbody>
-                    </table>
+                  <div class="row g-3">
+                    <div class="col-12 col-lg-7">
+                      <div class="table-responsive">
+                        <table class="table table-sm mb-0" style="font-size:0.75rem;">
+                          <thead class="table-light">
+                            <tr>
+                              <th>Rd</th>
+                              <th>Opponent</th>
+                              <th class="text-end">{{ row.coach }}'s score</th>
+                              <th class="text-end">Opponent's score</th>
+                              <th class="text-end">Result</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            {% for rd in seg.example.rounds %}
+                            <tr>
+                              <td class="text-muted">{{ rd.round }}</td>
+                              <td><a href="/coach/{{ rd.opponent }}" class="text-decoration-none">{{ rd.opponent }}</a></td>
+                              <td class="text-end">{{ "%.0f"|format(rd.own_score) }}</td>
+                              <td class="text-end text-muted">{{ "%.0f"|format(rd.opp_score) }}</td>
+                              <td class="text-end">
+                                {% if rd.result == 'W' %}
+                                  <span class="text-success fw-semibold">W</span>
+                                {% elif rd.result == 'L' %}
+                                  <span class="text-danger fw-semibold">L</span>
+                                {% else %}
+                                  <span class="text-muted fw-semibold">D</span>
+                                {% endif %}
+                              </td>
+                            </tr>
+                            {% endfor %}
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                    <div class="col-12 col-lg-5">
+                      <div class="table-responsive">
+                        <table class="table table-sm mb-0" style="font-size:0.75rem;">
+                          <thead class="table-light">
+                            <tr>
+                              <th>#</th>
+                              <th>Coach</th>
+                              <th class="text-end">W-D-L</th>
+                              <th class="text-end">Pts</th>
+                              <th class="text-end">Pts For</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            {% for lrow in seg.example.ladder %}
+                            <tr{% if lrow.coach == row.coach %} class="table-active fw-bold"{% endif %}>
+                              <td><span class="badge {{ lrow.cls }}">{{ lrow.rank }}</span></td>
+                              <td><a href="/coach/{{ lrow.coach }}" class="text-decoration-none">{{ lrow.coach }}</a></td>
+                              <td class="text-end">{{ lrow.wins }}-{{ lrow.draws }}-{{ lrow.losses }}</td>
+                              <td class="text-end">{{ lrow.league_points }}</td>
+                              <td class="text-end">{{ "{:,.0f}".format(lrow.pts_for) }}</td>
+                            </tr>
+                            {% endfor %}
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </td>

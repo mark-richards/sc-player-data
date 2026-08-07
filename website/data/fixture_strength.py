@@ -413,8 +413,9 @@ def build_monte_carlo_schedule_sim(
         luck_mc_index (actual_rank − avg_mc_rank),
         rank_dist: list of 8 {rank, pct, cls, example} dicts — "example" is
         None if that rank never occurred for this coach across all trials,
-        otherwise {rounds: [...], wins, draws, losses, pts_for, league_points}
-        (see _rank_tier_class for "cls")
+        otherwise {rounds: [...], wins, draws, losses, pts_for, league_points,
+        ladder: [...]} where "ladder" is the full 8-coach standings for that
+        same trial (see _rank_tier_class for "cls")
     """
     coaches, rounds, _round_data, round_scores, all_records = _build_all_records(fixtures_df)
     if coaches is None:
@@ -432,6 +433,18 @@ def build_monte_carlo_schedule_sim(
     )
     actual_ladder_rank = {c: actual_ladder.index(c) + 1 for c in coaches}
 
+    def _rank_tier_class(rank: int) -> str:
+        """Same 5-tier rank colour scale used by the Draft Heat Map (custom.css)."""
+        if rank == 1:
+            return "rank-1"
+        elif rank <= 3:
+            return "rank-2-3"
+        elif rank <= 5:
+            return "rank-4-5"
+        elif rank <= 7:
+            return "rank-6-7"
+        return "rank-8"
+
     rank_counts = {c: [0] * n for c in coaches}
     sum_rank    = {c: 0 for c in coaches}
     best_rank   = {c: n for c in coaches}
@@ -439,9 +452,10 @@ def build_monte_carlo_schedule_sim(
     examples: dict = {}  # (coach, rank) -> example dict, first trial to hit it
 
     for _ in range(n_trials):
-        wins    = {c: 0 for c in coaches}
-        draws   = {c: 0 for c in coaches}
-        pts_for = {c: 0.0 for c in coaches}
+        wins          = {c: 0 for c in coaches}
+        draws         = {c: 0 for c in coaches}
+        pts_for       = {c: 0.0 for c in coaches}
+        rounds_played = {c: 0 for c in coaches}
 
         cycle = _generate_round_robin_cycle(coaches, rng)
         m = len(cycle)
@@ -460,6 +474,8 @@ def build_monte_carlo_schedule_sim(
                     continue
                 opponent_by_round[a][r] = b
                 opponent_by_round[b][r] = a
+                rounds_played[a] += 1
+                rounds_played[b] += 1
                 sa, sb = scores_r[a], scores_r[b]
                 pts_for[a] += sa
                 pts_for[b] += sb
@@ -473,6 +489,13 @@ def build_monte_carlo_schedule_sim(
 
         league_points = {c: wins[c] * 4 + draws[c] * 2 for c in coaches}
         ladder = sorted(coaches, key=lambda c: (-league_points[c], -pts_for[c]))
+
+        # Lazily built once per trial, only if this trial turns out to
+        # contribute at least one new (coach, rank) example — the full
+        # simulated ladder for that trial, so a drilldown can show not just
+        # the clicked coach's own record but the whole resulting table.
+        trial_ladder = None
+
         for i, c in enumerate(ladder):
             rk = i + 1
             rank_counts[c][rk - 1] += 1
@@ -495,26 +518,26 @@ def build_monte_carlo_schedule_sim(
                         "own_score": own_score, "opp_score": opp_score,
                         "result": result,
                     })
+                if trial_ladder is None:
+                    trial_ladder = [
+                        {
+                            "rank": j + 1, "coach": lc, "cls": _rank_tier_class(j + 1),
+                            "wins": wins[lc], "draws": draws[lc],
+                            "losses": rounds_played[lc] - wins[lc] - draws[lc],
+                            "pts_for": round(pts_for[lc], 1),
+                            "league_points": league_points[lc],
+                        }
+                        for j, lc in enumerate(ladder)
+                    ]
                 examples[key] = {
                     "rounds":        round_detail,
                     "wins":          wins[c],
                     "draws":         draws[c],
-                    "losses":        len(round_detail) - wins[c] - draws[c],
+                    "losses":        rounds_played[c] - wins[c] - draws[c],
                     "pts_for":       round(pts_for[c], 1),
                     "league_points": league_points[c],
+                    "ladder":        trial_ladder,
                 }
-
-    def _rank_tier_class(rank: int) -> str:
-        """Same 5-tier rank colour scale used by the Draft Heat Map (custom.css)."""
-        if rank == 1:
-            return "rank-1"
-        elif rank <= 3:
-            return "rank-2-3"
-        elif rank <= 5:
-            return "rank-4-5"
-        elif rank <= 7:
-            return "rank-6-7"
-        return "rank-8"
 
     results = []
     for c in coaches:
