@@ -6,6 +6,89 @@
   <h2 class="mb-0">{{ season_year }} Season — Round {{ current_round }}</h2>
 </div>
 
+{# ── Finals Bracket ── #}
+{% if finals_bracket %}
+<div class="card shadow-sm mb-4 finals-card">
+  <div class="card-header fw-semibold d-flex align-items-center gap-2">
+    <span>🏆 Finals Series</span>
+    <span class="text-muted small fw-normal">McIntyre Final Four</span>
+  </div>
+  <div class="card-body">
+
+    <div class="text-center mb-4">
+      <a href="/coach/{{ finals_bracket.premier }}" class="text-decoration-none">
+        <img src="/static/images/coaches/{{ finals_bracket.premier }}_2022.png"
+             class="rounded-circle border border-4 border-warning" width="72" height="72"
+             style="object-fit:cover;">
+      </a>
+      <div class="fw-bold fs-4 mt-2">{{ finals_bracket.premier }}</div>
+      <div class="text-muted small">{{ season_year }} Premier</div>
+    </div>
+
+    <div class="finals-bracket">
+      {% macro coach_row(name, score, seed, won) %}
+        <div class="finals-team {% if won %}finals-team-win{% endif %}">
+          <img src="/static/images/coaches/{{ name }}_2022.png" class="rounded-circle" width="28" height="28" style="object-fit:cover;">
+          <span class="finals-seed">{{ seed }}</span>
+          <a href="/coach/{{ name }}" class="text-decoration-none flex-grow-1 {% if won %}fw-bold{% else %}text-muted{% endif %}">{{ name }}</a>
+          <span class="finals-score {% if won %}fw-bold{% endif %}">{{ score }}</span>
+        </div>
+      {% endmacro %}
+
+      <div class="finals-col">
+        <div class="finals-col-label">Week 1</div>
+        <div class="finals-match">
+          <div class="finals-match-label">Qualifying Final</div>
+          {{ coach_row(finals_bracket.qf.coach1, finals_bracket.qf.score1, finals_bracket.qf.seed1, finals_bracket.qf.winner == finals_bracket.qf.coach1) }}
+          {{ coach_row(finals_bracket.qf.coach2, finals_bracket.qf.score2, finals_bracket.qf.seed2, finals_bracket.qf.winner == finals_bracket.qf.coach2) }}
+        </div>
+        <div class="finals-match mt-3">
+          <div class="finals-match-label">Elimination Final</div>
+          {{ coach_row(finals_bracket.ef.coach1, finals_bracket.ef.score1, finals_bracket.ef.seed1, finals_bracket.ef.winner == finals_bracket.ef.coach1) }}
+          {{ coach_row(finals_bracket.ef.coach2, finals_bracket.ef.score2, finals_bracket.ef.seed2, finals_bracket.ef.winner == finals_bracket.ef.coach2) }}
+        </div>
+      </div>
+
+      <div class="finals-col">
+        <div class="finals-col-label">Week 2</div>
+        <div class="finals-match finals-match-mid">
+          <div class="finals-match-label">Preliminary Final</div>
+          {{ coach_row(finals_bracket.pf.coach1, finals_bracket.pf.score1, finals_bracket.pf.seed1, finals_bracket.pf.winner == finals_bracket.pf.coach1) }}
+          {{ coach_row(finals_bracket.pf.coach2, finals_bracket.pf.score2, finals_bracket.pf.seed2, finals_bracket.pf.winner == finals_bracket.pf.coach2) }}
+        </div>
+      </div>
+
+      <div class="finals-col">
+        <div class="finals-col-label">Grand Final</div>
+        <div class="finals-match finals-match-gf">
+          {{ coach_row(finals_bracket.gf.coach1, finals_bracket.gf.score1, finals_bracket.gf.seed1, finals_bracket.gf.winner == finals_bracket.gf.coach1) }}
+          {{ coach_row(finals_bracket.gf.coach2, finals_bracket.gf.score2, finals_bracket.gf.seed2, finals_bracket.gf.winner == finals_bracket.gf.coach2) }}
+        </div>
+      </div>
+    </div>
+
+    <p class="text-muted small mt-3 mb-0">
+      Top 2 seeds get a double chance: the Qualifying Final loser drops into the Preliminary Final
+      against the Elimination Final winner, while the QF winner advances straight to the Grand Final.
+    </p>
+  </div>
+</div>
+
+<style>
+  .finals-bracket { display: flex; gap: 2rem; overflow-x: auto; align-items: center; }
+  .finals-col { flex: 1 1 0; min-width: 220px; }
+  .finals-col-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: .05em; color: var(--bs-secondary-color, #888); margin-bottom: .5rem; text-align: center; }
+  .finals-match { border: 1px solid var(--bs-border-color, #dee2e6); border-radius: .5rem; padding: .5rem; background: var(--bs-tertiary-bg, #f8f9fa); }
+  .finals-match-mid { margin-top: 2.75rem; }
+  .finals-match-gf { border-color: #ffc107; border-width: 2px; box-shadow: 0 0 0 1px rgba(255,193,7,.25); }
+  .finals-match-label { font-size: 0.68rem; color: var(--bs-secondary-color, #888); margin-bottom: .35rem; }
+  .finals-team { display: flex; align-items: center; gap: .5rem; padding: .2rem 0; opacity: .55; }
+  .finals-team-win { opacity: 1; }
+  .finals-seed { font-size: 0.65rem; color: var(--bs-secondary-color, #888); width: 1.1rem; }
+  .finals-score { min-width: 2.2rem; text-align: right; }
+</style>
+{% endif %}
+
 {# ── Standings Table ── #}
 <div class="card shadow-sm mb-4">
   <div class="card-header fw-semibold">Standings</div>
