@@ -33,6 +33,7 @@ _HARDCODED: dict[int, dict] = {
     2023: {"champion": "Luke",    "runner_up": "Anthony","finals": ["Luke",    "Anthony","Lester", "James"],  "spoon": "Jordan"},
     2024: {"champion": "Paul",    "runner_up": "Jordan", "finals": ["Paul",    "Jordan", "Simon",  "Luke"],   "spoon": "Mark"},
     2025: {"champion": "Paul",    "runner_up": "Luke",   "finals": ["Paul",    "Luke",   "Lester", "James"],  "spoon": "Jordan"},
+    2026: {"champion": "Mark",    "runner_up": "Luke",   "finals": ["Mark",    "Luke",   "James",  "Anthony"],"spoon": "Simon"},
 }
 
 
