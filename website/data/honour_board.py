@@ -16,6 +16,20 @@ import pandas as pd
 
 log = logging.getLogger(__name__)
 
+# ASL season 1 = 2011 (2026 = ASL XVI).
+_ASL_FOUNDING_YEAR = 2010
+
+
+def _to_roman(num: int) -> str:
+    values = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
+    symbols = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"]
+    result = ""
+    for value, symbol in zip(values, symbols):
+        while num >= value:
+            result += symbol
+            num -= value
+    return result
+
 # Actual season results, 2013–2022.
 # finals = top-4 finalists in order [champion, runner_up, 3rd, 4th].
 # spoon  = last-place coach (None if the last-place coach is no longer in the league).
@@ -115,6 +129,7 @@ def build_honour_board(
 
         season_list.append({
             "year":       year,
+            "asl":        f"ASL {_to_roman(year - _ASL_FOUNDING_YEAR)}",
             "champion":   champ,
             "runner_up":  runner,
             "finalist_3": finals[2] if len(finals) > 2 else "",

@@ -62,6 +62,7 @@
         <thead class="table-dark">
           <tr>
             <th>Season</th>
+            <th>ASL</th>
             <th>🏆 Champion</th>
             <th>Runner-up</th>
             <th>3rd</th>
@@ -73,6 +74,7 @@
           {% for s in seasons %}
           <tr>
             <td class="fw-semibold">{{ s.year }}</td>
+            <td class="text-muted">{{ s.asl }}</td>
             <td class="text-success fw-semibold">{{ s.champion or "—" }}</td>
             <td>{{ s.runner_up or "—" }}</td>
             <td class="text-muted">{{ s.finalist_3 or "—" }}</td>

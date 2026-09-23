@@ -6,7 +6,6 @@ Uses a fresh temp directory each run to avoid stale-state issues with
 read-only git objects and Windows file locks on Drive-mounted paths.
 """
 
-import base64
 import logging
 import os
 import shutil
@@ -27,13 +26,17 @@ GH_PAGES_BRANCH = "main"
 GH_PAGES_REMOTE = "https://github.com/mark-richards/asl-hub.git"
 
 
-def _git_auth_args() -> list[str]:
-    """Return git -c args that authenticate via token if available, else fall back to GCM."""
+def _remote_url() -> str:
+    """Return the remote URL, embedding the deploy token if available.
+
+    Windows git (tested on 2.50.0) prompts for a username whenever
+    http.extraHeader is set, even for an anonymous clone of a public repo,
+    so auth is passed via an embedded URL credential instead.
+    """
     token = os.environ.get("GH_DEPLOY_TOKEN", "").strip()
     if not token:
-        return []
-    b64 = base64.b64encode(f"x-token-auth:{token}".encode()).decode()
-    return ["-c", "credential.helper=", "-c", f"http.extraHeader=Authorization: Basic {b64}"]
+        return GH_PAGES_REMOTE
+    return GH_PAGES_REMOTE.replace("https://", f"https://x-access-token:{token}@")
 
 
 def _run(args: list, cwd: Path) -> tuple[int, str, str]:
@@ -62,11 +65,11 @@ def build_static() -> bool:
 
 
 def push_docs(round_num: int | None = None) -> bool:
-    auth = _git_auth_args()
+    remote = _remote_url()
     tmp = Path(tempfile.mkdtemp(prefix="asl-hub-deploy-"))
     try:
         log.info("Cloning %s to %s...", GH_PAGES_REMOTE, tmp)
-        rc, _, err = _run(["git"] + auth + ["clone", GH_PAGES_REMOTE, str(tmp)], cwd=tmp.parent)
+        rc, _, err = _run(["git", "clone", remote, str(tmp)], cwd=tmp.parent)
         if rc != 0:
             log.error("git clone failed: %s", err)
             return False
@@ -102,7 +105,7 @@ def push_docs(round_num: int | None = None) -> bool:
             return False
 
         log.info("Pushing to %s (%s)...", GH_PAGES_REMOTE, GH_PAGES_BRANCH)
-        rc, _, err = _run(["git"] + auth + ["push", "origin", GH_PAGES_BRANCH], cwd=tmp)
+        rc, _, err = _run(["git", "push", "origin", GH_PAGES_BRANCH], cwd=tmp)
         if rc != 0:
             log.error("git push failed: %s", err)
             return False
