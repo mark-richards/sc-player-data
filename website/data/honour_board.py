@@ -16,8 +16,8 @@ import pandas as pd
 
 log = logging.getLogger(__name__)
 
-# ASL season 1 = 2011 (2026 = ASL XVI).
-_ASL_FOUNDING_YEAR = 2010
+# ASL season 1 = 2013 (2026 = ASL XIV).
+_ASL_FOUNDING_YEAR = 2012
 
 
 def _to_roman(num: int) -> str:
