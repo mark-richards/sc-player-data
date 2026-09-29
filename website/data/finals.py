@@ -1,12 +1,11 @@
 """
-finals.py — Builds the McIntyre finals bracket (Rd22-24) from saved match JSON.
+finals.py — Builds the McIntyre finals bracket (3 rounds after the regular
+season) from saved match JSON.
 """
 import json
 
-from website.config import DATA_LIVE_DIR, TOTAL_REGULAR_ROUNDS
+from website.config import SEASON_YEAR, finals_json_dir, season_meta
 from website.data.standings import compute_standings
-
-FINALS_ROUNDS = {22: "Week 1", 23: "Preliminary Final", 24: "Grand Final"}
 
 
 def _load_round_fixtures(json_dir, rnd: int) -> list[dict]:
@@ -32,21 +31,26 @@ def _load_round_fixtures(json_dir, rnd: int) -> list[dict]:
     return matches
 
 
-def build_finals_bracket(ladder_df) -> dict | None:
+def build_finals_bracket(ladder_df, year: int | None = None) -> dict | None:
     """
     Returns the McIntyre double-chance bracket (top 4, 3 rounds) built from
-    data/live/json/match_json_rd{22,23,24}.json, or None if finals haven't
-    been played / saved yet.
+    that season's json/match_json_rd{N,N+1,N+2}.json (N = regular rounds + 1),
+    or None if finals haven't been played / saved yet.
     """
-    json_dir = DATA_LIVE_DIR / "json"
-    r22 = _load_round_fixtures(json_dir, 22)
-    r23 = _load_round_fixtures(json_dir, 23)
-    r24 = _load_round_fixtures(json_dir, 24)
-    if not r22 or not r23 or not r24:
-        return None
+    year = year or SEASON_YEAR
+    total_regular_rounds = season_meta(year)["total_regular_rounds"]
+    rd_qf, rd_pf, rd_gf = total_regular_rounds + 1, total_regular_rounds + 2, total_regular_rounds + 3
 
-    reg_season = ladder_df[ladder_df["round"] == TOTAL_REGULAR_ROUNDS]
-    standings = compute_standings(reg_season, TOTAL_REGULAR_ROUNDS)
+    json_dir = finals_json_dir(year)
+    r_qf = _load_round_fixtures(json_dir, rd_qf)
+    r_pf = _load_round_fixtures(json_dir, rd_pf)
+    r_gf = _load_round_fixtures(json_dir, rd_gf)
+    if not r_qf or not r_pf or not r_gf:
+        return None
+    r22, r23, r24 = r_qf, r_pf, r_gf
+
+    reg_season = ladder_df[ladder_df["round"] == total_regular_rounds]
+    standings = compute_standings(reg_season, total_regular_rounds)
     seed = dict(zip(standings["coach_first_name"], standings["ladder_pos"]))
 
     qf = next((m for m in r22 if seed.get(m["coach1"], 99) <= 2 and seed.get(m["coach2"], 99) <= 2), r22[0])

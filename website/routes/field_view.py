@@ -77,10 +77,10 @@ def _get_token() -> str:
 
 def _get_current_round() -> int:
     """Derive current round from ladder.csv (max round with data)."""
-    from website.config import LADDER_CSV
+    from website.config import DATA_LIVE_DIR
     try:
         import pandas as pd
-        df = pd.read_csv(LADDER_CSV, usecols=["round"], low_memory=False)
+        df = pd.read_csv(DATA_LIVE_DIR / "ladder.csv", usecols=["round"], low_memory=False)
         df["round"] = pd.to_numeric(df["round"], errors="coerce")
         return int(df["round"].dropna().max())
     except Exception:

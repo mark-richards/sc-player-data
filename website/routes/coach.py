@@ -1,16 +1,22 @@
 """
-routes/coach.py — Per-coach profile page (/coach/<name>).
+routes/coach.py — Per-coach profile page (/coach/<name> and /coach/<name>/<year>).
 """
 import json
 
 import pandas as pd
 from flask import Blueprint, abort, render_template
 
-from website.data.loader import load_current_teams, load_fixtures, load_player_matches, load_coach_portraits
+from website.config import SEASON_YEAR
+from website.data.loader import (
+    load_current_teams, load_fixtures, load_player_matches, load_coach_portraits,
+    list_season_coaches,
+)
 from website.data.charts import COACH_COLOURS
 from website.routes.field_view import fetch_current_team, load_weekly_changes
 
 bp = Blueprint("coach", __name__)
+
+_ROSTER_COLUMNS = ["first_name", "last_name", "team", "position", "avg", "price", "avg3"]
 
 
 def _positional_line_chart(player_df: pd.DataFrame, coach: str) -> dict:
@@ -53,15 +59,17 @@ def _positional_line_chart(player_df: pd.DataFrame, coach: str) -> dict:
 
 
 @bp.get("/<coach_name>")
-def coach_profile(coach_name: str):
-    # Validate coach name
-    valid_coaches = ["Anthony", "James", "Jordan", "Lester", "Luke", "Mark", "Paul", "Simon"]
-    if coach_name not in valid_coaches:
+@bp.get("/<coach_name>/<int:year>")
+def coach_profile(coach_name: str, year: int | None = None):
+    year = year or SEASON_YEAR
+    is_current_season = (year == SEASON_YEAR)
+
+    if coach_name not in list_season_coaches(year):
         abort(404)
 
-    fixtures  = load_fixtures()
-    players   = load_player_matches()
-    roster_df = load_current_teams()
+    fixtures  = load_fixtures(year)
+    players   = load_player_matches(year)
+    roster_df = load_current_teams(year)
     portraits = load_coach_portraits()
 
     # Round-by-round scores
@@ -74,11 +82,13 @@ def coach_profile(coach_name: str):
         lambda r: "W" if r["win"] else ("D" if r["draw"] else "L"), axis=1
     )
 
-    # Current roster
-    roster = roster_df[roster_df["coach_first_name"] == coach_name][
-        ["first_name", "last_name", "team", "position", "avg", "price", "avg3"]
-    ].copy()
-    roster = roster.sort_values("avg", ascending=False)
+    # Roster (only meaningful for the live current season — historical seasons
+    # may not have a frozen current_teams.csv snapshot)
+    if not roster_df.empty and "coach_first_name" in roster_df.columns:
+        roster = roster_df[roster_df["coach_first_name"] == coach_name][_ROSTER_COLUMNS].copy()
+        roster = roster.sort_values("avg", ascending=False)
+    else:
+        roster = pd.DataFrame(columns=_ROSTER_COLUMNS)
 
     # Top scorers this season (on-field only)
     top_scorers = (
@@ -106,8 +116,15 @@ def coach_profile(coach_name: str):
 
     portrait_src = portraits.get(coach_name, "")
     pos_chart = _positional_line_chart(players, coach_name)
-    field_data = fetch_current_team(coach_name)
-    weekly_changes = load_weekly_changes(coach_name, field_data)
+
+    # "Current team" (upcoming-round lineup via live SC API) and its weekly
+    # diff only make sense for the season still in progress.
+    if is_current_season:
+        field_data = fetch_current_team(coach_name)
+        weekly_changes = load_weekly_changes(coach_name, field_data)
+    else:
+        field_data = {}
+        weekly_changes = {}
 
     return render_template(
         "coach_profile.html",
@@ -122,4 +139,6 @@ def coach_profile(coach_name: str):
         pos_chart=json.dumps(pos_chart),
         field_data=field_data,
         weekly_changes=weekly_changes,
+        season_year=year,
+        is_current_season=is_current_season,
     )

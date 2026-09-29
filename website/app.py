@@ -10,7 +10,7 @@ if str(_PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(_PROJECT_ROOT))
 
 from datetime import datetime, timedelta
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request, url_for
 from flask_caching import Cache
 
 cache = Cache()
@@ -44,6 +44,31 @@ def create_app() -> Flask:
     app.register_blueprint(pr_bp,      url_prefix="/power-rankings")
     app.register_blueprint(draft_bp,   url_prefix="/draft-heat-map")
     app.register_blueprint(acq_bp,     url_prefix="/acquisition")
+
+    @app.context_processor
+    def inject_season_nav():
+        from website.config import SEASON_YEAR
+        from website.data.loader import list_available_seasons, list_season_coaches
+
+        def year_url(year):
+            from flask import current_app
+            args = dict(request.view_args or {})
+            rules = [r for r in current_app.url_map.iter_rules() if r.endpoint == request.endpoint]
+            takes_year = any("year" in r.arguments for r in rules)
+            if takes_year:
+                args["year"] = year
+            else:
+                args.pop("year", None)
+            try:
+                return url_for(request.endpoint, **args)
+            except Exception:
+                return "#"
+
+        return dict(
+            available_seasons=list_available_seasons(),
+            year_url=year_url,
+            nav_coaches=list_season_coaches(SEASON_YEAR),
+        )
 
     def _current_round() -> int:
         import pandas as pd

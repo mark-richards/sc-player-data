@@ -6,6 +6,20 @@
   <h2 class="mb-0">{{ season_year }} Season — Round {{ current_round }}</h2>
 </div>
 
+{# ── Completed-season result (fallback when no finals-bracket JSON exists yet) ── #}
+{% if not finals_bracket and season_result %}
+<div class="card shadow-sm mb-4">
+  <div class="card-body text-center">
+    <div class="fw-bold fs-4">🏆 {{ season_result.champion or "—" }}</div>
+    <div class="text-muted small">{{ season_year }} Premier</div>
+    <div class="text-muted small mt-2">
+      Runner-up: {{ season_result.runner_up or "—" }}
+      {% if season_result.spoon %}&nbsp;|&nbsp; 🥄 Spoon: {{ season_result.spoon }}{% endif %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
 {# ── Finals Bracket ── #}
 {% if finals_bracket %}
 <div class="card shadow-sm mb-4 finals-card">
@@ -104,10 +118,12 @@
             <th class="text-end">MID</th>
             <th class="text-end">RUC</th>
             <th class="text-end">FWD</th>
+            {% if is_current_season %}
             <th class="text-end">Finals%</th>
             <th class="text-end">GF%</th>
             <th class="text-end">Champ%</th>
             <th class="text-end">Spoon%</th>
+            {% endif %}
           </tr>
         </thead>
         <tbody>
@@ -144,11 +160,13 @@
               {% endif %}
             {% endfor %}
 
-            {# Simulation probabilities #}
+            {# Simulation probabilities — forward-looking, only meaningful for the season in progress #}
+            {% if is_current_season %}
             <td class="text-end">{{ "%.1f"|format(row.finals_pct|default(0)) }}%</td>
             <td class="text-end">{{ "%.1f"|format(row.gf_pct|default(0)) }}%</td>
             <td class="text-end fw-semibold text-success">{{ "%.1f"|format(row.champ_pct|default(0)) }}%</td>
             <td class="text-end text-danger">{{ "%.1f"|format(row.spoon_pct|default(0)) }}%</td>
+            {% endif %}
           </tr>
           {% endfor %}
         </tbody>
@@ -158,6 +176,7 @@
 </div>
 
 {# ── Simulation methodology note ── #}
+{% if is_current_season %}
 <div class="mb-4">
   <a class="small text-muted text-decoration-none" data-bs-toggle="collapse" href="#simMethodology" role="button">
     How are these simulations calculated? ▾
@@ -191,6 +210,7 @@
     </div>
   </div>
 </div>
+{% endif %}
 
 {# ── Charts ── #}
 <div class="row g-3 mb-4">

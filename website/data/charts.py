@@ -17,6 +17,17 @@ def _coach_colour_map(coaches: list[str]) -> dict[str, str]:
     return {c: COACH_COLOURS[i % len(COACH_COLOURS)] for i, c in enumerate(sorted(coaches))}
 
 
+def _empty_chart(title: str) -> dict:
+    fig = go.Figure()
+    fig.update_layout(
+        title=title,
+        plot_bgcolor="white", paper_bgcolor="white",
+        height=350, margin=dict(l=40, r=20, t=60, b=40),
+        annotations=[dict(text="No data available", showarrow=False, font=dict(color="#999"))],
+    )
+    return fig.to_dict()
+
+
 # ── Ladder Journey ─────────────────────────────────────────────────────────
 
 def ladder_journey_chart(ladder_df: pd.DataFrame) -> dict:
@@ -24,8 +35,12 @@ def ladder_journey_chart(ladder_df: pd.DataFrame) -> dict:
     Line chart: x = round, y = ladder position (1 at top, 8 at bottom).
     One line per coach.
     """
+    if ladder_df.empty or "coach_first_name" not in ladder_df.columns:
+        return _empty_chart("Ladder Journey")
+
     coaches = sorted(ladder_df["coach_first_name"].unique())
     colours = _coach_colour_map(coaches)
+    n_teams = int(ladder_df["position"].max()) if not ladder_df.empty else len(coaches)
 
     fig = go.Figure()
     for coach in coaches:
@@ -46,8 +61,8 @@ def ladder_journey_chart(ladder_df: pd.DataFrame) -> dict:
         yaxis=dict(
             title="Position",
             autorange="reversed",
-            tickvals=list(range(1, 9)),
-            ticktext=[str(i) for i in range(1, 9)],
+            tickvals=list(range(1, n_teams + 1)),
+            ticktext=[str(i) for i in range(1, n_teams + 1)],
             gridcolor="#e0e0e0",
         ),
         plot_bgcolor="white",
@@ -66,6 +81,9 @@ def score_boxplot(fixture_df: pd.DataFrame) -> dict:
     Box plot per coach showing distribution of team_points.
     Ordered by median score descending.
     """
+    if fixture_df.empty or "coach_first_name" not in fixture_df.columns:
+        return _empty_chart("Score Distribution")
+
     coaches = fixture_df.groupby("coach_first_name")["team_points"].median().sort_values(ascending=False).index.tolist()
     colours = _coach_colour_map(coaches)
 
@@ -103,6 +121,9 @@ def score_scatter(fixture_df: pd.DataFrame, portraits: dict | None = None) -> di
     One dot per coach, labelled by name. Quadrant lines show league averages.
     portraits arg kept for API compatibility but no longer used.
     """
+    if fixture_df.empty or "coach_first_name" not in fixture_df.columns:
+        return _empty_chart("Avg For vs Avg Against")
+
     summary = (
         fixture_df.groupby("coach_first_name")
         .agg(avg_for=("team_points", "mean"), avg_against=("opposition_team_points", "mean"))

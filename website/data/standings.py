@@ -5,6 +5,8 @@ import pandas as pd
 
 
 def get_current_round(ladder_df: pd.DataFrame) -> int:
+    if ladder_df.empty or "round" not in ladder_df.columns:
+        return 0
     return int(ladder_df["round"].max())
 
 
@@ -13,6 +15,12 @@ def compute_standings(ladder_df: pd.DataFrame, current_round: int) -> pd.DataFra
     Returns one row per coach for the given round, with derived columns.
     Sorted by league_points DESC, then avg_for DESC (SC tiebreaker).
     """
+    if ladder_df.empty or "round" not in ladder_df.columns:
+        return pd.DataFrame(columns=[
+            "coach_first_name", "games", "avg_for", "avg_against",
+            "win_pct", "wdl", "league_points", "ladder_pos",
+        ])
+
     df = ladder_df[ladder_df["round"] == current_round].copy()
 
     games = df["wins"] + df["draws"] + df["losses"]

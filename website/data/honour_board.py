@@ -82,6 +82,19 @@ def _results_from_master(master_df: pd.DataFrame) -> dict[int, dict]:
 
 
 
+def get_season_result(year: int, master_df: pd.DataFrame | None = None) -> dict | None:
+    """
+    Returns the {"champion", "runner_up", "finals", "spoon"} result dict for a
+    single season (_HARDCODED takes priority over the master CSV), or None if
+    the season's result isn't known yet (e.g. still in progress).
+    """
+    results: dict[int, dict] = {}
+    if master_df is not None:
+        results.update(_results_from_master(master_df))
+    results.update(_HARDCODED)
+    return results.get(year)
+
+
 def build_honour_board(
     master_df: pd.DataFrame,
     fantasy_banter_dir: Path | None = None,

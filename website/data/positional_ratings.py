@@ -25,6 +25,9 @@ def compute_positional_ratings(
     Returns DataFrame: coach_first_name | DEF | MID | RUC | FWD | ALL
     All values are floats 0.0–10.0.
     """
+    if player_matches.empty or "on_field" not in player_matches.columns:
+        return pd.DataFrame(columns=["coach_first_name"] + POSITIONS + ["ALL"])
+
     df = player_matches[player_matches["on_field"] == True].copy()
 
     # Only keep known positions

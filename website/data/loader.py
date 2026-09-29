@@ -2,6 +2,10 @@
 loader.py — Single data-access layer for the website.
 All heavy CSV reads are wrapped in flask-caching memoize calls.
 Call cache.clear() via POST /api/refresh to force a reload.
+
+Every load_* function takes an optional `year` — defaults to the live
+SEASON_YEAR. flask-caching's cache.memoize() keys on function arguments, so
+passing a different year automatically gets its own cache entry.
 """
 import base64
 import logging
@@ -25,17 +29,59 @@ def _memoize(fn):
     return wrapper
 
 
+# ── Available seasons / coach roster ────────────────────────────────────────
+
+def list_available_seasons() -> list[int]:
+    """SEASON_YEAR plus every year with a data/seasons/{year} directory, newest first."""
+    from website.config import SEASON_YEAR, SEASONS_DIR
+    years = {SEASON_YEAR}
+    if SEASONS_DIR.exists():
+        for p in SEASONS_DIR.iterdir():
+            if p.is_dir() and p.name.isdigit():
+                years.add(int(p.name))
+    return sorted(years, reverse=True)
+
+
+def list_season_coaches(year: int | None = None) -> list[str]:
+    """
+    Unique coach_first_name values for this season, from coach_list.csv (falling
+    back to ladder.csv), in config.COACH_ORDER where possible. Falls back to
+    COACH_ORDER outright for the current season if neither file is available.
+    """
+    from website.config import SEASON_YEAR, COACH_ORDER, coach_list_csv_path, ladder_csv_path
+    year = year or SEASON_YEAR
+
+    names: list[str] = []
+    try:
+        df = pd.read_csv(coach_list_csv_path(year), usecols=["coach_first_name"])
+        names = df["coach_first_name"].dropna().unique().tolist()
+    except Exception:
+        try:
+            df = pd.read_csv(ladder_csv_path(year), usecols=["coach_first_name"])
+            names = df["coach_first_name"].dropna().unique().tolist()
+        except Exception:
+            names = []
+
+    if not names:
+        return list(COACH_ORDER) if year == SEASON_YEAR else []
+
+    ordered = [c for c in COACH_ORDER if c in names]
+    ordered += sorted(c for c in names if c not in COACH_ORDER)
+    return ordered
+
+
 # ── Ladder ─────────────────────────────────────────────────────────────────
 
-def load_ladder() -> pd.DataFrame:
+def load_ladder(year: int | None = None) -> pd.DataFrame:
     """
-    Reads data/live/ladder.csv.
+    Reads ladder.csv for the given season.
     Deduplicates on (round, coach_first_name) — pipeline appends duplicates
     on the final round. Returns cumulative standings per round.
     """
-    from website.config import LADDER_CSV
+    from website.config import SEASON_YEAR, ladder_csv_path
+    year = year or SEASON_YEAR
     try:
-        df = pd.read_csv(LADDER_CSV, low_memory=False)
+        df = pd.read_csv(ladder_csv_path(year), low_memory=False)
     except Exception:
         return pd.DataFrame()
     if df.empty or df.columns.empty:
@@ -49,14 +95,15 @@ def load_ladder() -> pd.DataFrame:
 
 # ── Fixtures ───────────────────────────────────────────────────────────────
 
-def load_fixtures() -> pd.DataFrame:
+def load_fixtures(year: int | None = None) -> pd.DataFrame:
     """
     Reads fixture_results_by_team.csv — one row per team per round.
     Adds derived columns: win (bool), draw (bool).
     """
-    from website.config import FIXTURE_TEAM_CSV
+    from website.config import SEASON_YEAR, fixture_team_csv_path
+    year = year or SEASON_YEAR
     try:
-        df = pd.read_csv(FIXTURE_TEAM_CSV, low_memory=False)
+        df = pd.read_csv(fixture_team_csv_path(year), low_memory=False)
     except Exception:
         return pd.DataFrame()
     if df.empty or df.columns.empty:
@@ -76,15 +123,16 @@ def load_fixtures() -> pd.DataFrame:
 
 # ── Player match results ────────────────────────────────────────────────────
 
-def load_player_matches() -> pd.DataFrame:
+def load_player_matches(year: int | None = None) -> pd.DataFrame:
     """
-    Reads player_match_results.csv (3.3 MB — cached aggressively).
-    Normalises key column names. Filters to rows with a valid round.
+    Reads player_match_results.csv. Normalises key column names. Filters to
+    rows with a valid round.
     Note: round column is 'round_x', points is 'points_x', position is 'played_position'.
     """
-    from website.config import PLAYER_MATCH_CSV
+    from website.config import SEASON_YEAR, player_match_csv_path
+    year = year or SEASON_YEAR
     try:
-        df = pd.read_csv(PLAYER_MATCH_CSV, low_memory=False)
+        df = pd.read_csv(player_match_csv_path(year), low_memory=False)
     except Exception:
         return pd.DataFrame()
     if df.empty or df.columns.empty:
@@ -103,14 +151,16 @@ def load_player_matches() -> pd.DataFrame:
 
 # ── Fanfooty per-round data ─────────────────────────────────────────────────
 
-def load_fanfooty_season() -> pd.DataFrame:
+def load_fanfooty_season(year: int | None = None) -> pd.DataFrame:
     """
-    Loads all per-round fanfooty CSVs for the current season year and concatenates them.
-    Parses Round ("R1" → 1) into round_num. Player ID cast to Int64 for joining on feed_id.
+    Loads all per-round fanfooty CSVs for the given season year and concatenates
+    them. Parses Round ("R1" → 1) into round_num. Player ID cast to Int64 for
+    joining on feed_id.
     """
     import glob
     from website.config import PROCESSED_DATA_DIR, SEASON_YEAR
-    pattern = str(PROCESSED_DATA_DIR / f"{SEASON_YEAR}_round_*_fanfooty_data.csv")
+    year = year or SEASON_YEAR
+    pattern = str(PROCESSED_DATA_DIR / f"{year}_round_*_fanfooty_data.csv")
     files = glob.glob(pattern)
     if not files:
         return pd.DataFrame()
@@ -134,7 +184,7 @@ def load_fanfooty_season() -> pd.DataFrame:
 
 # ── SC bulk all-player round data (owned + free agents) ─────────────────────
 
-def load_sc_round_files() -> pd.DataFrame:
+def load_sc_round_files(year: int | None = None) -> pd.DataFrame:
     """
     Reads data/raw/supercoach/{year}/players_round_N.json — the bulk SC API
     endpoint covering EVERY player each round (owned and free agents alike),
@@ -148,7 +198,8 @@ def load_sc_round_files() -> pd.DataFrame:
     import json
     import re
     from website.config import SEASON_YEAR
-    sc_dir = Path(__file__).resolve().parent.parent.parent / "data" / "raw" / "supercoach" / str(SEASON_YEAR)
+    year = year or SEASON_YEAR
+    sc_dir = Path(__file__).resolve().parent.parent.parent / "data" / "raw" / "supercoach" / str(year)
     pattern = str(sc_dir / "players_round_*.json")
     files = glob.glob(pattern)
     if not files:
@@ -187,24 +238,25 @@ def load_sc_round_files() -> pd.DataFrame:
 
 # ── SC current-season per-round scores ─────────────────────────────────────
 
-def load_sc_current() -> pd.DataFrame:
+def load_sc_current(year: int | None = None) -> pd.DataFrame:
     """
-    Reads data/processed/master_player_data.csv — SC per-round scores for the
-    current season, built from completeStatspack JSONs via build_master_dataset.py.
+    Reads data/processed/master_player_data.csv — SC per-round scores, built
+    from completeStatspack JSONs via build_master_dataset.py.
 
-    Filters to SEASON_YEAR and normalises column names for _compute_effective_avg:
-      feed_id, round, points, team_abbrev, pos_1, pos_2, played
+    Filters to the given season year and normalises column names for
+    _compute_effective_avg: feed_id, round, points, team_abbrev, pos_1, pos_2, played
     """
     from website.config import SC_CURRENT_CSV, SEASON_YEAR
+    year = year or SEASON_YEAR
     try:
         df = pd.read_csv(SC_CURRENT_CSV, low_memory=False)
     except Exception:
         return pd.DataFrame()
     if df.empty or df.columns.empty:
         return pd.DataFrame()
-    # Filter to current season only
+    # Filter to the requested season only
     df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
-    df = df[df["Year"] == SEASON_YEAR].copy()
+    df = df[df["Year"] == year].copy()
     if df.empty:
         return pd.DataFrame()
     # Normalise column names
@@ -243,15 +295,16 @@ def load_historical_scores() -> "np.ndarray":
 
 # ── Fixture schedule (all rounds, played + future) ─────────────────────────
 
-def load_fixture_schedule() -> pd.DataFrame:
+def load_fixture_schedule(year: int | None = None) -> pd.DataFrame:
     """
-    Reads data/live/fixture_schedule_2026.csv — one row per matchup per round.
+    Reads fixture_schedule_{year}.csv — one row per matchup per round.
     Columns: round_number, home_coach, away_coach.
     Returns empty DataFrame if the file doesn't exist.
     """
-    from website.config import FIXTURE_SCHEDULE_CSV
+    from website.config import SEASON_YEAR, fixture_schedule_csv_path
+    year = year or SEASON_YEAR
     try:
-        df = pd.read_csv(FIXTURE_SCHEDULE_CSV, low_memory=False)
+        df = pd.read_csv(fixture_schedule_csv_path(year), low_memory=False)
     except Exception:
         return pd.DataFrame()
     if df.empty or df.columns.empty:
@@ -264,9 +317,13 @@ def load_fixture_schedule() -> pd.DataFrame:
 
 # ── Current rosters ─────────────────────────────────────────────────────────
 
-def load_current_teams() -> pd.DataFrame:
-    from website.config import CURRENT_TEAMS_CSV
-    df = pd.read_csv(CURRENT_TEAMS_CSV, low_memory=False)
+def load_current_teams(year: int | None = None) -> pd.DataFrame:
+    from website.config import SEASON_YEAR, current_teams_csv_path
+    year = year or SEASON_YEAR
+    try:
+        df = pd.read_csv(current_teams_csv_path(year), low_memory=False)
+    except Exception:
+        return pd.DataFrame()
     return df
 
 

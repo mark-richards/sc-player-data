@@ -2,7 +2,7 @@
 {% block title %}Draft Heat Map{% endblock %}
 
 {% block content %}
-<h2 class="mb-4">2026 Draft Heat Map</h2>
+<h2 class="mb-4">{{ season_year|default(2026) }} Draft Heat Map</h2>
 
 {# Coach Draft Strength Summary #}
 <div class="card shadow-sm mb-4">
