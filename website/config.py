@@ -49,6 +49,8 @@ COACH_ORDER = ["Mark", "Simon", "Luke", "Lester", "Paul", "Jordan", "Anthony", "
 # Draft alias → coach first name mapping (used by Draft Heat Map page)
 # Confirmed: RICHO, LESTER, PMAC, JMERC, CHIEF, KAPPAZ from cross-referencing draft CSVs.
 # MELONS / GARTER → Jordan / Simon — update if incorrect.
+# Identity entries (Mark->Mark etc.) let ingested historical draft CSVs use real
+# coach names directly instead of guessing which year used which nickname.
 DRAFT_ALIAS_MAP = {
     "RICHO":  "Mark",
     "LESTER": "Lester",
@@ -58,6 +60,7 @@ DRAFT_ALIAS_MAP = {
     "JMERC":  "Jordan",
     "CHIEF":  "Simon",
     "KAPPAZ": "Luke",
+    **{name: name for name in COACH_ORDER},
 }
 
 SC_CURRENT_CSV        = PROCESSED_DATA_DIR / "master_player_data.csv"
