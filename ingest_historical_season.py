@@ -6,7 +6,7 @@ data/seasons/{year}/ CSV shape the website reads for historical seasons
 
 Usage: py ingest_historical_season.py 2022 2023 2024 2025
 
-Primary source (richest, used for 2022-2024 — full regular season + finals):
+Primary source (richest — full regular season + finals + transactions + draft):
   Per round (1..21 regular, 22..24 finals), from data/raw/supercoach/{year}/:
     leagues_{league_id}_ladderAndFixtures_round={N}&scores=true.rds
         -> 'ladder' list: cumulative per-team standings as of round N
@@ -17,24 +17,35 @@ Primary source (richest, used for 2022-2024 — full regular season + finals):
     userteams_{team_id}_statsPlayers_round={N}.rds  (one per team per round)
         -> that team's lineup for the round: player_id, picked, on-field
            position slot (DEF/MID/RUC/FWD)
+    leagues_{league_id}_{processedWaivers,trades,teamtrades}.rds
+        -> transactions.csv (Waiver/Free Agent/Trade), ported 1:1 from
+           website/data/api_ingest.py's live-API parsing logic
+    archive/legacy/fantasy_banter_data/{year}/draft_{year}.csv (2022/2023) or
+    ASLdraft_{year}.JSON (2025) -> draft_prep/SC {year}/draft_{year}_result.csv
 
-  NOTE: this raw dump is NOT reliable for every year — 2025's copy is an
-  early/broken snapshot (7 teams, all-zero scores, players-cf_embed only has
-  round=0/1). Verified by hand before relying on it; see fallback below.
+  NOTE: this LEAGUE_ID matters — 2025's season actually ran under league_id
+  13462, not the 5282 that data/raw/supercoach/2025/ originally had locally
+  (5282 was a dead/abandoned league: 7 teams, all-zero scores, confirmed by
+  hand). The 13462 files were missing locally entirely and were pulled from
+  a teammate's backup, https://github.com/pmac09/Fantasy-Banter-old2/tree/
+  master/data/2025/raw — if another year ever looks similarly broken, check
+  that repo (and its sibling year folders) before assuming it's unrecoverable.
 
-Fallback source (2025 only — raw dump above is broken for this year):
+Fallback source (used only if the raw per-round dump above isn't usable):
   archive/legacy/fantasy_banter_data/{year}/league_data.RDS + player_data.RDS
   — clean pre-built tables, but truncated at whatever round the old pipeline
-  last ran (round 20 of 21 for 2025).
+  last ran that year (e.g. round 2 of 21 for 2023 — not used since the raw
+  path above covers 2023 fully; kept as a safety net for any future year
+  where even the raw per-round dump turns out to be unusable).
 
-Known gaps NOT covered by this script (missing/unreliable source data):
-  - Draft heat map: no draft source at all could be found for 2024.
-  - Acquisition page detail (trade/waiver source per player): raw trades.rds
-    /teamtrades.rds/processedWaivers.rds exist but need a user_id ->
-    user_team_id reconciliation not yet done.
-  - 2022 Grand Final (round 24) round file is missing from the raw dump
-    (QF/EF/PF for rounds 22-23 are present) — the champion/runner-up is
-    still correct via honour_board.py's hardcoded result, just no bracket.
+Known gaps NOT covered by this script (confirmed missing/unrecoverable —
+checked data/raw/supercoach, archive/legacy/fantasy_banter_data, draft_prep,
+and the pmac09/Fantasy-Banter-old2 GitHub backup):
+  - 2024 draft heat map: no draft source of any kind found anywhere.
+  - 2022 Grand Final (round 24): the round-24 snapshot file simply doesn't
+    exist in any copy found (QF/EF/PF for rounds 22-23 are present) — the
+    champion/runner-up is still correct via honour_board.py's hardcoded
+    result, just no bracket visual.
 Historical pages that depend on those will show reduced/no data; the
 website already handles this gracefully (see website/data/finals.py,
 website/data/acquisition.py, website/data/draft_data.py).
@@ -52,7 +63,7 @@ RAW_DIR = PROJECT_ROOT / "data" / "raw" / "supercoach"
 LEGACY_DIR = PROJECT_ROOT / "archive" / "legacy" / "fantasy_banter_data"
 SEASONS_DIR = PROJECT_ROOT / "data" / "seasons"
 
-LEAGUE_IDS = {2022: 651660, 2023: 99, 2024: 1283, 2025: 5282}
+LEAGUE_IDS = {2022: 651660, 2023: 99, 2024: 1283, 2025: 13462}
 REGULAR_ROUNDS = 21
 FINALS_ROUNDS = [22, 23, 24]
 
@@ -387,7 +398,8 @@ def build_draft_csv_from_raw(year: int, coach_map: dict[int, dict]) -> None:
     nickname entries)."""
     src = LEGACY_DIR / str(year) / f"draft_{year}.csv"
     if not src.exists():
-        print(f"    no draft_{year}.csv found — skipping draft heat map for {year}")
+        print(f"    no draft_{year}.csv found — trying ASLdraft_{year}.JSON instead")
+        build_draft_csv_from_legacy_json(year)
         return
     draft = pd.read_csv(src)
     player_lookup = _player_id_lookup(year)
