@@ -51,7 +51,9 @@ website already handles this gracefully (see website/data/finals.py,
 website/data/acquisition.py, website/data/draft_data.py).
 """
 import json
+import re
 import sys
+from collections import defaultdict
 from pathlib import Path
 
 import pandas as pd
@@ -1077,27 +1079,102 @@ def build_finals_json_from_workbook(fixture_df: pd.DataFrame, year: int, out_dir
         )
 
 
-def _workbook_name_to_feedid() -> dict[tuple, int]:
-    df = pd.read_csv(
+def _workbook_name_lookups() -> tuple[dict, dict, dict]:
+    """
+    Union of every player-identity source we have across years (feed_id is
+    stable per physical person across seasons, so a player active in ANY of
+    these years resolves): master_player_data.csv (2006-2026), the SC player
+    lists for 2022-2026, and the archived 2020/2021 clean player CSVs. This
+    matters because a single year's source alone is often missing players who
+    retired before/after it — e.g. Nat Fyfe and Joel Selwood aren't in
+    master_player_data.csv at all, but are in the 2022 SC player list.
+
+    Returns (full_name_lookup, initials_lookup, first_initial_lookup):
+      full_name_lookup:      (first_lower, last_lower) -> feed_id
+      initials_lookup:       (initials e.g. "j.p.", last_lower) -> feed_id
+      first_initial_lookup:  (first_initial, last_lower) -> set of feed_ids
+    """
+    full_name, initials, first_initial = {}, {}, defaultdict(set)
+
+    def add(df: pd.DataFrame, fcol: str, lcol: str, idcol: str) -> None:
+        for _, r in df.dropna(subset=[fcol, lcol, idcol]).iterrows():
+            first, last = str(r[fcol]).strip(), str(r[lcol]).strip()
+            if not first or not last:
+                continue
+            fid = int(r[idcol])
+            full_name.setdefault((first.lower(), last.lower()), fid)
+            init_key = (".".join(w[0].lower() for w in first.split() if w) + ".", last.lower())
+            initials.setdefault(init_key, fid)
+            first_initial[(first[0].lower(), last.lower())].add(fid)
+
+    # Order matters: setdefault() means the FIRST source to claim a
+    # (name, lastname) key wins. The SC-native sources (player lists,
+    # 2020/2021 clean CSVs) consistently use a middle initial to disambiguate
+    # same-name players (e.g. plain "Tom Lynch" = Adelaide's, "Tom J. Lynch" =
+    # Richmond's) — master_player_data.csv does NOT make this distinction
+    # (only one deduped "Tom"+"Lynch" row, pointing at Richmond's id), so it
+    # goes last, as a fallback for names missing from every SC-native source
+    # entirely (e.g. Nat Fyfe / Joel Selwood aren't in master_player_data.csv
+    # at all, but are in the 2022 SC player list, so order doesn't matter for
+    # them — it only matters for genuine same-name collisions like Lynch).
+    for year in [2020, 2021]:
+        players_path = LEGACY_DIR / str(year) / "clean" / f"players_{year}.csv"
+        if players_path.exists():
+            add(pd.read_csv(players_path, low_memory=False), "first_name", "last_name", "feed_id")
+
+    for year in [2022, 2023, 2024, 2025, 2026]:
+        plist_path = PROJECT_ROOT / "draft_prep" / f"SC {year}" / f"{year}_SC_Player_list.csv"
+        if plist_path.exists():
+            add(pd.read_csv(plist_path, low_memory=False), "first_name", "last_name", "feed_id")
+
+    master = pd.read_csv(
         PROJECT_ROOT / "data" / "processed" / "master_player_data.csv",
         low_memory=False, usecols=["Player ID", "First Name", "Last Name"],
     )
-    df = df.dropna(subset=["Player ID", "First Name", "Last Name"]).drop_duplicates(subset=["First Name", "Last Name"])
-    return {
-        (str(r["First Name"]).strip().lower(), str(r["Last Name"]).strip().lower()): int(r["Player ID"])
-        for _, r in df.iterrows()
-    }
+    add(master, "First Name", "Last Name", "Player ID")
+
+    return full_name, initials, first_initial
+
+
+def _resolve_draft_player(footywire: str, short_name: str, full_name_lookup: dict,
+                           initials_lookup: dict, first_initial_lookup: dict) -> int | None:
+    """Tries, in order: exact initials+lastname match from the short Name
+    column (most precise signal we have — e.g. "T.J. Lynch" vs "T.Lynch"
+    deliberately disambiguates Richmond's Tom J. Lynch from Adelaide's plain
+    Tom Lynch; checked first so an ambiguous full-name hit can't shadow it)
+    -> exact full-name match (Footywire column) -> unique first-initial+
+    lastname match (only if exactly one candidate across all sources —
+    genuinely ambiguous multi-candidate cases are left unmatched)."""
+    m = re.match(r"^((?:[A-Za-z]\.)+)\s*(.+)$", short_name.strip())
+    if m:
+        initials_part, last = m.group(1).lower(), m.group(2).strip().lower()
+        fid = initials_lookup.get((initials_part, last))
+        if fid is not None:
+            return fid
+
+    full = footywire.strip()
+    if full and full not in ("#N/A", "nan"):
+        parts = full.split(" ", 1)
+        if len(parts) == 2:
+            fid = full_name_lookup.get((parts[0].lower(), parts[1].lower()))
+            if fid is not None:
+                return fid
+
+    if not m:
+        return None
+    first_initial = initials_part[0]
+    candidates = first_initial_lookup.get((first_initial, last), set())
+    return next(iter(candidates)) if len(candidates) == 1 else None
 
 
 def build_draft_csv_from_workbook_sheet(draft_df: pd.DataFrame, year: int) -> None:
     draft_df = draft_df.dropna(subset=["Round", "Pick", "Name"])
-    name_lookup = _workbook_name_to_feedid()
+    full_name_lookup, initials_lookup, first_initial_lookup = _workbook_name_lookups()
     rows = []
     matched = 0
     for _, r in draft_df.iterrows():
-        full_name = str(r["Footywire"]).strip()
-        parts = full_name.split(" ", 1)
-        fid = name_lookup.get((parts[0].lower(), parts[1].lower())) if len(parts) == 2 else None
+        fid = _resolve_draft_player(str(r["Footywire"]), str(r["Name"]),
+                                     full_name_lookup, initials_lookup, first_initial_lookup)
         if fid is not None:
             matched += 1
         rows.append({
