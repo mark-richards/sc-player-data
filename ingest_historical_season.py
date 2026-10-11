@@ -727,7 +727,12 @@ def _build_season_from_league_player_tables(league: pd.DataFrame, player: pd.Dat
         "coach_team_name":  player_good["team"],
         "player_id":        player_good["player_id"],
         "played_position":  player_good["position"],
-        "points_x":         player_good["points"],
+        # NaN here means "rostered, no score recorded" (almost always a bye —
+        # confirmed by cross-checking Footywire's real game log, e.g. Clayton
+        # Oliver R14 2021 picked=True/points=NaN/type=nonscoring lines up with
+        # a genuine Melbourne bye). Other rows represent the identical
+        # situation with points=0 instead — normalise to 0 for consistency.
+        "points_x":         player_good["points"].fillna(0),
         "on_field":         player_good["picked"].astype("boolean").fillna(False).astype(bool),
         "picked":           player_good["picked"].astype("boolean").fillna(False).astype(bool),
         "feed_id":          player_good["feed_id"],
@@ -1032,6 +1037,11 @@ def build_player_matches_from_workbook(scores_df: pd.DataFrame, year: int, name_
     yr = scores_df[scores_df["SEASON"] == year].copy()
     for col in ["ROUND", "PTS"]:
         yr[col] = pd.to_numeric(yr[col], errors="coerce").fillna(0)
+    # DATA - Round Scores has no FINALS FLAG (unlike DATA - Fixture) — exclude
+    # rounds past the regular season (22-23, 2-week finals) to match
+    # build_ladder_from_workbook/build_fixtures_from_workbook and Footywire's
+    # own season-average convention, which also excludes finals.
+    yr = yr[yr["ROUND"] <= 21]
     rows = []
     for _, r in yr.iterrows():
         tid = name_to_id.get(r["SC TEAM"])
