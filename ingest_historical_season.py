@@ -1122,6 +1122,20 @@ def _workbook_name_lookups() -> tuple[dict, dict, dict]:
         if players_path.exists():
             add(pd.read_csv(players_path, low_memory=False), "first_name", "last_name", "feed_id")
 
+    # Fanfooty's own "Player ID" is, confirmed by direct cross-check against
+    # the SC player lists (Ed Curnow 270146, Rory Sloane 270963, Dustin
+    # Martin 290847, Tom Hawkins 261510 — all exact matches), the SAME
+    # numbering as SC's feed_id. This single multi-year file (2011-2026)
+    # resolves players who'd retired before any SC-native source we have
+    # starts (e.g. Alex Rance, Jarrad McVeigh, Luke Hodge — all retired
+    # 2019/2020, absent from master_player_data.csv and every SC player
+    # list, but present here since fanfooty scrapes every AFL player
+    # regardless of fantasy relevance).
+    fanfooty_path = PROJECT_ROOT / "data" / "processed" / "master_fanfooty_data.csv"
+    if fanfooty_path.exists():
+        add(pd.read_csv(fanfooty_path, low_memory=False, usecols=["Player ID", "First Name", "Surname"]),
+            "First Name", "Surname", "Player ID")
+
     for year in [2022, 2023, 2024, 2025, 2026]:
         plist_path = PROJECT_ROOT / "draft_prep" / f"SC {year}" / f"{year}_SC_Player_list.csv"
         if plist_path.exists():
