@@ -117,7 +117,14 @@ def player_list_csv_path(year: int) -> Path:
 
 def processed_waivers_json_path(year: int) -> Path | None:
     d = PROJECT_ROOT / "data" / "raw" / "supercoach" / str(year)
-    return next(iter(sorted(d.glob("*_processedWaivers.json"))), None)
+    found = next(iter(sorted(d.glob("*_processedWaivers.json"))), None)
+    if found is not None:
+        return found
+    # Years ingested from archive/legacy/fantasy_banter_data (see
+    # ingest_historical_season.py) write their sidecar into data/seasons/
+    # instead, to keep generated files out of the tracked archive/ tree.
+    seasons_json = SEASONS_DIR / str(year) / "processedWaivers.json"
+    return seasons_json if seasons_json.exists() else None
 
 
 # ── Per-season league-structure overrides ───────────────────────────────────

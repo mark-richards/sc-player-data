@@ -259,26 +259,15 @@ def build_player_matches_from_raw(year: int, coach_map: dict[int, dict], max_rou
     return pd.DataFrame(rows).reset_index(drop=True)
 
 
-def build_transactions_from_raw(year: int, out_dir: Path) -> None:
+def _build_transactions_rows(waivers_raw: list, trades_raw: list, teamtrades_raw: list) -> tuple[list[dict], set]:
     """
     Ports website/data/api_ingest.py's _fetch_and_save_transactions() endpoint
-    parsing onto the archived RDS equivalents: processedWaivers.rds -> Waiver,
-    trades.rds -> Free Agent, teamtrades.rds -> Trade. Same column shape as
-    the live transactions.csv so website/data/acquisition.py needs no changes.
-    Also writes a processedWaivers.json sidecar (same shape as the live SC API
-    response) so config.processed_waivers_json_path(year) finds it.
+    parsing onto archived RDS lists in the same shape as the live SC API's
+    processedWaivers/trades/teamtrades endpoints -> Waiver/Free Agent/Trade.
+    Same column shape as the live transactions.csv so
+    website/data/acquisition.py needs no changes.
     """
-    lid = LEAGUE_IDS[year]
-    src = RAW_DIR / str(year)
     rows: list[dict] = []
-
-    waivers_path = src / f"leagues_{lid}_processedWaivers.rds"
-    waivers_raw: list = []
-    if waivers_path.exists():
-        try:
-            waivers_raw = rdata.read_rds(str(waivers_path))
-        except Exception:
-            waivers_raw = []
     for t in waivers_raw:
         pl, drop = t.get("player") or {}, t.get("dropped_player") or {}
         rows.append({
@@ -298,13 +287,6 @@ def build_transactions_from_raw(year: int, out_dir: Path) -> None:
             "source":                     "Waiver",
         })
 
-    trades_path = src / f"leagues_{lid}_trades.rds"
-    trades_raw: list = []
-    if trades_path.exists():
-        try:
-            trades_raw = rdata.read_rds(str(trades_path))
-        except Exception:
-            trades_raw = []
     for t in trades_raw:
         buy, sell = t.get("buy_player") or {}, t.get("sell_player") or {}
         rows.append({
@@ -324,13 +306,6 @@ def build_transactions_from_raw(year: int, out_dir: Path) -> None:
             "source":                     "Free Agent",
         })
 
-    teamtrades_path = src / f"leagues_{lid}_teamtrades.rds"
-    teamtrades_raw: list = []
-    if teamtrades_path.exists():
-        try:
-            teamtrades_raw = rdata.read_rds(str(teamtrades_path))
-        except Exception:
-            teamtrades_raw = []
     seen_trade_ids: set = set()
     for trade in teamtrades_raw:
         if int(_v(trade.get("status_id")) or 0) != 7:
@@ -359,23 +334,73 @@ def build_transactions_from_raw(year: int, out_dir: Path) -> None:
                              "dropped_player.first_name": None, "dropped_player.last_name": None,
                              "dropped_player.team.abbrev": None, "source": "Trade"})
 
+    return rows, seen_trade_ids
+
+
+def _write_transactions_outputs(rows: list[dict], waivers_raw: list, trades_raw: list, teamtrades_raw: list,
+                                 seen_trade_ids: set, out_dir: Path, waivers_json_path: Path | None) -> None:
     if not rows:
         print(f"    (no transactions found — {len(waivers_raw)} waivers, {len(trades_raw)} FA, {len(teamtrades_raw)} trades raw)")
         return
 
     pd.DataFrame(rows).to_csv(out_dir / "transactions.csv", index=False)
 
-    if waivers_raw:
+    if waivers_raw and waivers_json_path is not None:
         waivers_json = [
             {"player_id": int(_v(t.get("player_id"))), "round": int(_v(t.get("round"))),
              "processed": str(_v(t.get("processed")))}
             for t in waivers_raw
         ]
-        (src / f"leagues_{lid}_processedWaivers.json").write_text(
-            json.dumps(waivers_json), encoding="utf-8"
-        )
+        waivers_json_path.write_text(json.dumps(waivers_json), encoding="utf-8")
     print(f"    transactions.csv: {len(rows)} rows "
           f"({len(waivers_raw)} waiver, {len(trades_raw)} FA, {len(seen_trade_ids)} approved trades)")
+
+
+def build_transactions_from_raw(year: int, out_dir: Path) -> None:
+    """processedWaivers.rds/trades.rds/teamtrades.rds for a 2022+ raw-dump
+    year (see _build_transactions_rows) -> transactions.csv + a
+    processedWaivers.json sidecar so config.processed_waivers_json_path(year)
+    finds it."""
+    lid = LEAGUE_IDS[year]
+    src = RAW_DIR / str(year)
+
+    def _load(name):
+        path = src / f"leagues_{lid}_{name}.rds"
+        if not path.exists():
+            return []
+        try:
+            return rdata.read_rds(str(path))
+        except Exception:
+            return []
+
+    waivers_raw = _load("processedWaivers")
+    trades_raw = _load("trades")
+    teamtrades_raw = _load("teamtrades")
+    rows, seen_trade_ids = _build_transactions_rows(waivers_raw, trades_raw, teamtrades_raw)
+    _write_transactions_outputs(rows, waivers_raw, trades_raw, teamtrades_raw, seen_trade_ids, out_dir,
+                                 src / f"leagues_{lid}_processedWaivers.json")
+
+
+def build_transactions_2021(out_dir: Path) -> None:
+    """Same schema as the 2022+ raw dumps, under sc_*.rds filenames instead
+    of leagues_{id}_*.rds — archive/legacy/fantasy_banter_data/2021/raw/."""
+    src = LEGACY_DIR / "2021" / "raw"
+
+    def _load(name):
+        path = src / f"sc_{name}.rds"
+        if not path.exists():
+            return []
+        try:
+            return rdata.read_rds(str(path))
+        except Exception:
+            return []
+
+    waivers_raw = _load("processedWaivers")
+    trades_raw = _load("trades")
+    teamtrades_raw = _load("teamtrades")
+    rows, seen_trade_ids = _build_transactions_rows(waivers_raw, trades_raw, teamtrades_raw)
+    _write_transactions_outputs(rows, waivers_raw, trades_raw, teamtrades_raw, seen_trade_ids, out_dir,
+                                 out_dir / "processedWaivers.json")
 
 
 def _player_id_lookup(year: int) -> dict[int, dict]:
@@ -850,6 +875,60 @@ def build_finals_json_from_league_table(league: pd.DataFrame, out_dir: Path, tot
         )
 
 
+def build_draft_csv_2021() -> None:
+    """ASL_Draft_2021_data.csv is already clean: round, pick, order_id, coach
+    (alias), player_id (= feed_id directly), player_name, team, position, ..."""
+    src = LEGACY_DIR / "2021" / "ASL_Draft_2021_data.csv"
+    if not src.exists():
+        print(f"    no ASL_Draft_2021_data.csv found — skipping draft heat map for 2021")
+        return
+    df = pd.read_csv(src).dropna(subset=["round", "pick", "player_id"])
+    rows = [{
+        "Round": int(r["round"]), "Pick": int(r["pick"]), "Player": r["player_name"],
+        "Coach": _resolve_coach_alias(r["coach"]), "Round Coach Order": int(r["order_id"]),
+        "Dataset count": 1, "feed_id": int(r["player_id"]),
+    } for _, r in df.iterrows()]
+    out_path = PROJECT_ROOT / "draft_prep" / "SC 2021" / "draft_2021_result.csv"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    pd.DataFrame(rows).to_csv(out_path, index=False)
+    print(f"    draft_2021_result.csv: {len(rows)} picks -> {out_path}")
+
+
+def ingest_year_2021() -> None:
+    src_dir = LEGACY_DIR / "2021" / "clean"
+    league_path, player_path = src_dir / "league_2021.csv", src_dir / "players_2021.csv"
+    if not league_path.exists() or not player_path.exists():
+        print(f"  [2021] SKIP — {league_path.name}/{player_path.name} not found")
+        return
+
+    league = pd.read_csv(league_path)
+    player = pd.read_csv(player_path, low_memory=False)
+
+    out_dir = SEASONS_DIR / "2021"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    ladder, fixtures, matches, teams, coaches = _build_season_from_league_player_tables(
+        league[league["round"] <= 21].copy(), player[player["round"] <= 21].copy()
+    )
+
+    ladder.to_csv(out_dir / "ladder.csv", index=False)
+    fixtures.to_csv(out_dir / "fixture_results_by_team.csv", index=False)
+    matches.to_csv(out_dir / "player_match_results.csv", index=False)
+    teams.to_csv(out_dir / "current_teams.csv", index=False)
+    coaches.to_csv(out_dir / "coach_list.csv", index=False)
+
+    print(f"  [2021] building finals bracket json...")
+    build_finals_json_from_league_table(league, out_dir, total_regular_rounds=21)
+
+    print(f"  [2021] building transactions from raw waiver/trade dumps...")
+    build_transactions_2021(out_dir)
+
+    print(f"  [2021] building draft heat map data...")
+    build_draft_csv_2021()
+
+    print(f"  [2021] OK (clean CSV) — {ladder['round'].nunique()} rounds "
+          f"(max round {ladder['round'].max()}), {len(matches)} player-match rows -> {out_dir}")
+
+
 def _resolve_coach_alias(raw) -> str:
     from website.config import DRAFT_ALIAS_MAP
     key = str(raw).strip().upper()
@@ -1062,6 +1141,8 @@ def ingest_year_from_workbook(year: int) -> None:
 def ingest_year(year: int) -> None:
     if year == 2020:
         ingest_year_2020()
+    elif year == 2021:
+        ingest_year_2021()
     elif year in WORKBOOK_YEARS:
         ingest_year_from_workbook(year)
     elif year in LEAGUE_IDS and raw_dump_is_usable(year):
