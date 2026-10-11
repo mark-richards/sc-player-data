@@ -293,12 +293,12 @@ def _build_transactions_rows(waivers_raw: list, trades_raw: list, teamtrades_raw
             "round":                      _v(t.get("round")),
             "user_team_id":               _v(t.get("user_id")),
             "processed":                  str(_v(t.get("action_time"))),
-            "player_id":                  _v(t.get("buy_player_id")),
+            "player_id":                  _v(t.get("buy_player_id")) if t.get("buy_player_id") is not None else _v(buy.get("id")),
             "player.feed_id":             _v(buy.get("feed_id")),
             "player.first_name":          _v(buy.get("first_name")),
             "player.last_name":           _v(buy.get("last_name")),
             "player.team.abbrev":         _v((buy.get("team") or {}).get("abbrev")),
-            "dropped_player_id":          _v(t.get("sell_player_id")),
+            "dropped_player_id":          _v(t.get("sell_player_id")) if t.get("sell_player_id") is not None else _v(sell.get("id")),
             "dropped_player.feed_id":     _v(sell.get("feed_id")),
             "dropped_player.first_name":  _v(sell.get("first_name")),
             "dropped_player.last_name":   _v(sell.get("last_name")),
@@ -398,6 +398,30 @@ def build_transactions_2021(out_dir: Path) -> None:
     waivers_raw = _load("processedWaivers")
     trades_raw = _load("trades")
     teamtrades_raw = _load("teamtrades")
+    rows, seen_trade_ids = _build_transactions_rows(waivers_raw, trades_raw, teamtrades_raw)
+    _write_transactions_outputs(rows, waivers_raw, trades_raw, teamtrades_raw, seen_trade_ids, out_dir,
+                                 out_dir / "processedWaivers.json")
+
+
+def build_transactions_2020(out_dir: Path) -> None:
+    """Same schema as the 2022+ raw dumps (with trades missing the top-level
+    buy_player_id/sell_player_id fields — _build_transactions_rows falls back
+    to buy_player['id']/sell_player['id']) under 2020_SC_*_DATA.RDS filenames
+    — archive/legacy/fantasy_banter_data/2020/raw/."""
+    src = LEGACY_DIR / "2020" / "raw"
+
+    def _load(name):
+        path = src / f"2020_SC_{name}.RDS"
+        if not path.exists():
+            return []
+        try:
+            return rdata.read_rds(str(path))
+        except Exception:
+            return []
+
+    waivers_raw = _load("WAIVERS_DATA")
+    trades_raw = _load("TRADES_DATA")
+    teamtrades_raw = _load("TEAM_TRADES_DATA")
     rows, seen_trade_ids = _build_transactions_rows(waivers_raw, trades_raw, teamtrades_raw)
     _write_transactions_outputs(rows, waivers_raw, trades_raw, teamtrades_raw, seen_trade_ids, out_dir,
                                  out_dir / "processedWaivers.json")
@@ -840,6 +864,9 @@ def ingest_year_2020() -> None:
 
     print(f"  [2020] building finals bracket json...")
     build_finals_json_from_league_table(league, out_dir, total_regular_rounds=16)
+
+    print(f"  [2020] building transactions from raw waiver/trade dumps...")
+    build_transactions_2020(out_dir)
 
     print(f"  [2020] building draft heat map data...")
     build_draft_csv_2020(player)
