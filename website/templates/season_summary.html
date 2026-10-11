@@ -48,6 +48,30 @@
         </div>
       {% endmacro %}
 
+      {% if finals_bracket.format == '2week' %}
+      <div class="finals-col">
+        <div class="finals-col-label">Week 1</div>
+        <div class="finals-match">
+          <div class="finals-match-label">Semi Final</div>
+          {{ coach_row(finals_bracket.sf1.coach1, finals_bracket.sf1.score1, finals_bracket.sf1.seed1, finals_bracket.sf1.winner == finals_bracket.sf1.coach1) }}
+          {{ coach_row(finals_bracket.sf1.coach2, finals_bracket.sf1.score2, finals_bracket.sf1.seed2, finals_bracket.sf1.winner == finals_bracket.sf1.coach2) }}
+        </div>
+        <div class="finals-match mt-3">
+          <div class="finals-match-label">Semi Final</div>
+          {{ coach_row(finals_bracket.sf2.coach1, finals_bracket.sf2.score1, finals_bracket.sf2.seed1, finals_bracket.sf2.winner == finals_bracket.sf2.coach1) }}
+          {{ coach_row(finals_bracket.sf2.coach2, finals_bracket.sf2.score2, finals_bracket.sf2.seed2, finals_bracket.sf2.winner == finals_bracket.sf2.coach2) }}
+        </div>
+      </div>
+
+      <div class="finals-col">
+        <div class="finals-col-label">Week 2</div>
+        <div class="finals-match finals-match-gf">
+          <div class="finals-match-label">Grand Final</div>
+          {{ coach_row(finals_bracket.gf.coach1, finals_bracket.gf.score1, finals_bracket.gf.seed1, finals_bracket.gf.winner == finals_bracket.gf.coach1) }}
+          {{ coach_row(finals_bracket.gf.coach2, finals_bracket.gf.score2, finals_bracket.gf.seed2, finals_bracket.gf.winner == finals_bracket.gf.coach2) }}
+        </div>
+      </div>
+      {% else %}
       <div class="finals-col">
         <div class="finals-col-label">Week 1</div>
         <div class="finals-match">
@@ -78,6 +102,7 @@
           {{ coach_row(finals_bracket.gf.coach2, finals_bracket.gf.score2, finals_bracket.gf.seed2, finals_bracket.gf.winner == finals_bracket.gf.coach2) }}
         </div>
       </div>
+      {% endif %}
     </div>
 
   </div>

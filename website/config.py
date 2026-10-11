@@ -127,8 +127,15 @@ _SEASON_META_DEFAULTS = {
     "total_regular_rounds": TOTAL_REGULAR_ROUNDS,
     "finals_top_n":         FINALS_TOP_N,
     "n_teams":              N_TEAMS,
+    "finals_weeks":         3,  # 3 = McIntyre (QF+EF / PF / GF), 2 = straight semis -> GF
 }
-SEASON_META_OVERRIDES: dict[int, dict] = {}
+SEASON_META_OVERRIDES: dict[int, dict] = {
+    # 2022's finals series was only 2 weeks (semis -> GF directly, no
+    # preliminary final) — confirmed by hand: round 24 has no data anywhere
+    # (not even in an independent backup), round 23's single fixture winner/
+    # loser match honour_board.py's recorded champion/runner-up exactly.
+    2022: {"finals_weeks": 2},
+}
 
 
 def season_meta(year: int) -> dict:
