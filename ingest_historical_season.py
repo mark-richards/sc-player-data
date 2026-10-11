@@ -623,25 +623,17 @@ def _read_rds_df(path: Path) -> pd.DataFrame:
     return list(result.values())[0]
 
 
-def ingest_year_from_legacy(year: int) -> None:
-    src_dir = LEGACY_DIR / str(year)
-    league_path, player_path = src_dir / "league_data.RDS", src_dir / "player_data.RDS"
-    if not league_path.exists() or not player_path.exists():
-        print(f"  [{year}] SKIP — no usable source found (raw dump unreliable, "
-              f"and {league_path.name}/{player_path.name} not found)")
-        return
-
-    league = _read_rds_df(league_path)
-    player = _read_rds_df(player_path)
-
+def _build_season_from_league_player_tables(league: pd.DataFrame, player: pd.DataFrame):
+    """
+    Shared transform for any source already in the league_data.RDS /
+    player_data.RDS column shape (round, fixture, team_id, team, coach,
+    team_score, ..., wins, draws, losses, points_for, points_against,
+    position, points / feed_id, player_id, first_name, ..., picked, pos_1).
+    Used by both the legacy RDS fallback (2025) and the 2020 clean CSVs.
+    Returns (ladder, fixtures, matches, teams, coaches).
+    """
     league_good = league.dropna(subset=["wins", "draws", "losses", "points_for", "points_against", "points", "position"]).copy()
-    if league_good["round"].nunique() < 2:
-        print(f"  [{year}] SKIP — legacy league_data.RDS has too little usable data")
-        return
     league_good["round"] = league_good["round"].astype(int)
-
-    out_dir = SEASONS_DIR / str(year)
-    out_dir.mkdir(parents=True, exist_ok=True)
 
     ladder = pd.DataFrame({
         "round":            league_good["round"],
@@ -716,6 +708,28 @@ def ingest_year_from_legacy(year: int) -> None:
         "coach_team_name":  coaches["team"],
     }).reset_index(drop=True)
 
+    return ladder, fixtures, matches, teams, coaches
+
+
+def ingest_year_from_legacy(year: int) -> None:
+    src_dir = LEGACY_DIR / str(year)
+    league_path, player_path = src_dir / "league_data.RDS", src_dir / "player_data.RDS"
+    if not league_path.exists() or not player_path.exists():
+        print(f"  [{year}] SKIP — no usable source found (raw dump unreliable, "
+              f"and {league_path.name}/{player_path.name} not found)")
+        return
+
+    league = _read_rds_df(league_path)
+    player = _read_rds_df(player_path)
+
+    if league.dropna(subset=["wins"])["round"].nunique() < 2:
+        print(f"  [{year}] SKIP — legacy league_data.RDS has too little usable data")
+        return
+
+    out_dir = SEASONS_DIR / str(year)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    ladder, fixtures, matches, teams, coaches = _build_season_from_league_player_tables(league, player)
+
     ladder.to_csv(out_dir / "ladder.csv", index=False)
     fixtures.to_csv(out_dir / "fixture_results_by_team.csv", index=False)
     matches.to_csv(out_dir / "player_match_results.csv", index=False)
@@ -727,6 +741,113 @@ def ingest_year_from_legacy(year: int) -> None:
 
     print(f"  [{year}] OK (legacy fallback) — {ladder['round'].nunique()} rounds "
           f"(max round {ladder['round'].max()}), {len(matches)} player-match rows -> {out_dir}")
+
+
+def build_draft_csv_2020(player: pd.DataFrame) -> None:
+    """2020_00_SC_DRAFT.RDS (raw SC draft export, same shape as draft_{year}.csv)
+    joined against players_2020.csv's own player_id -> feed_id/name mapping
+    (no separate players-cf_embed source needed — it's already in the table)."""
+    src = LEGACY_DIR / "2020" / "raw" / "2020_00_SC_DRAFT.RDS"
+    if not src.exists():
+        print(f"    no 2020_00_SC_DRAFT.RDS found — skipping draft heat map for 2020")
+        return
+    try:
+        picks = rdata.read_rds(str(src))
+    except Exception as exc:
+        print(f"    could not parse {src.name}: {exc}")
+        return
+
+    coach_by_team = (
+        player.dropna(subset=["user_team_id", "coach"])
+        .drop_duplicates(subset=["user_team_id"])
+        .set_index("user_team_id")["coach"].to_dict()
+    )
+    player_lookup = (
+        player.dropna(subset=["player_id", "feed_id"])
+        .drop_duplicates(subset=["player_id"])
+        .set_index("player_id")[["first_name", "last_name", "feed_id"]]
+        .to_dict("index")
+    )
+
+    rows = []
+    for p in picks:
+        team_id = int(_v(p.get("user_team_id")))
+        pid = int(_v(p.get("player_id")))
+        coach = coach_by_team.get(team_id)
+        info = player_lookup.get(pid)
+        if coach is None or info is None:
+            continue
+        name = f"{info['first_name'][0]}.{info['last_name']}" if info["first_name"] else info["last_name"]
+        rows.append({
+            "Round": int(_v(p.get("round"))), "Pick": int(_v(p.get("pick"))), "Player": name,
+            "Coach": coach, "Round Coach Order": 0, "Dataset count": 1, "feed_id": info["feed_id"],
+        })
+    out_path = PROJECT_ROOT / "draft_prep" / "SC 2020" / "draft_2020_result.csv"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    pd.DataFrame(rows).to_csv(out_path, index=False)
+    print(f"    draft_2020_result.csv: {len(rows)} picks -> {out_path}")
+
+
+def ingest_year_2020() -> None:
+    src_dir = LEGACY_DIR / "2020" / "clean"
+    league_path, player_path = src_dir / "league_2020.csv", src_dir / "players_2020.csv"
+    if not league_path.exists() or not player_path.exists():
+        print(f"  [2020] SKIP — {league_path.name}/{player_path.name} not found")
+        return
+
+    league = pd.read_csv(league_path)
+    player = pd.read_csv(player_path, low_memory=False)
+
+    out_dir = SEASONS_DIR / "2020"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    # No FINALS FLAG column here (unlike the 2016-2019 workbook) — rounds
+    # past the regular season (17-18) are excluded from the regular tables
+    # and handled separately by build_finals_json_from_league_table below.
+    ladder, fixtures, matches, teams, coaches = _build_season_from_league_player_tables(
+        league[league["round"] <= 16].copy(), player[player["round"] <= 16].copy()
+    )
+
+    ladder.to_csv(out_dir / "ladder.csv", index=False)
+    fixtures.to_csv(out_dir / "fixture_results_by_team.csv", index=False)
+    matches.to_csv(out_dir / "player_match_results.csv", index=False)
+    teams.to_csv(out_dir / "current_teams.csv", index=False)
+    coaches.to_csv(out_dir / "coach_list.csv", index=False)
+
+    print(f"  [2020] building finals bracket json...")
+    build_finals_json_from_league_table(league, out_dir, total_regular_rounds=16)
+
+    print(f"  [2020] building draft heat map data...")
+    build_draft_csv_2020(player)
+
+    print(f"  [2020] OK (clean CSV) — {ladder['round'].nunique()} rounds "
+          f"(max round {ladder['round'].max()}), {len(matches)} player-match rows -> {out_dir}")
+
+
+def build_finals_json_from_league_table(league: pd.DataFrame, out_dir: Path, total_regular_rounds: int) -> None:
+    """Builds match_json_rd{N}.json for finals rounds found in a league_data.RDS
+    -shaped table (used for 2020, whose finals rounds — unlike 2016-2019's
+    workbook — aren't separately flagged, so anything past total_regular_rounds
+    with real scores is treated as a finals round)."""
+    finals = league[league["round"] > total_regular_rounds].dropna(subset=["team_score"])
+    if finals.empty:
+        return
+    json_dir = out_dir / "json"
+    json_dir.mkdir(parents=True, exist_ok=True)
+    for rnd, rdf in finals.groupby("round"):
+        seen_games = set()
+        fixtures_out = []
+        for _, r in rdf.iterrows():
+            game_key = tuple(sorted([r["team"], r["opponent_team"]]))
+            if game_key in seen_games:
+                continue
+            seen_games.add(game_key)
+            fixtures_out.append({
+                "user_team1": {"user": {"first_name": r["coach"]}, "stats": [{"points": float(r["team_score"])}]},
+                "user_team2": {"user": {"first_name": r["opponent_coach"]}, "stats": [{"points": float(r["opponent_score"])}]},
+            })
+        (json_dir / f"match_json_rd{int(rnd)}.json").write_text(
+            json.dumps({"fixtures": fixtures_out}), encoding="utf-8"
+        )
 
 
 def _resolve_coach_alias(raw) -> str:
@@ -939,7 +1060,9 @@ def ingest_year_from_workbook(year: int) -> None:
 
 
 def ingest_year(year: int) -> None:
-    if year in WORKBOOK_YEARS:
+    if year == 2020:
+        ingest_year_2020()
+    elif year in WORKBOOK_YEARS:
         ingest_year_from_workbook(year)
     elif year in LEAGUE_IDS and raw_dump_is_usable(year):
         ingest_year_from_raw(year)

@@ -141,6 +141,10 @@ SEASON_META_OVERRIDES: dict[int, dict] = {
     2017: {"finals_weeks": 2},
     2018: {"finals_weeks": 2},
     2019: {"finals_weeks": 2},
+    # 2020: COVID-shortened AFL season — only 16 regular rounds, confirmed
+    # from the archived data (round 17 = 2 semis, round 18 = GF, Mark beat
+    # Simon 1758-1700 matching honour_board.py exactly).
+    2020: {"total_regular_rounds": 16, "finals_weeks": 2},
 }
 
 
