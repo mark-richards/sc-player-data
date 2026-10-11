@@ -399,7 +399,9 @@ def build_draft_csv_from_raw(year: int, coach_map: dict[int, dict]) -> None:
     src = LEGACY_DIR / str(year) / f"draft_{year}.csv"
     if not src.exists():
         print(f"    no draft_{year}.csv found — trying ASLdraft_{year}.JSON instead")
-        build_draft_csv_from_legacy_json(year)
+        if not build_draft_csv_from_legacy_json(year):
+            print(f"    trying draft-prep workbook instead")
+            build_draft_csv_from_workbook(year, coach_map)
         return
     draft = pd.read_csv(src)
     player_lookup = _player_id_lookup(year)
@@ -427,25 +429,25 @@ def build_draft_csv_from_raw(year: int, coach_map: dict[int, dict]) -> None:
     print(f"    draft_{year}_result.csv: {len(rows)} picks -> {out_path}")
 
 
-def build_draft_csv_from_legacy_json(year: int) -> None:
+def build_draft_csv_from_legacy_json(year: int) -> bool:
     """ASLdraft_{year}.JSON (gzip'd RDS-wrapped JSON string, alias-keyed coach
     column already matching config.DRAFT_ALIAS_MAP) -> draft_prep/SC {year}/
-    draft_{year}_result.csv."""
+    draft_{year}_result.csv. Returns True on success."""
     src = LEGACY_DIR / str(year) / f"ASLdraft_{year}.JSON"
     if not src.exists():
-        print(f"    no ASLdraft_{year}.JSON found — skipping draft heat map for {year}")
-        return
+        print(f"    no ASLdraft_{year}.JSON found")
+        return False
     try:
         d = rdata.read_rds(str(src))
         payload = json.loads(d["x"][0])
     except Exception as exc:
         print(f"    could not parse {src.name}: {exc}")
-        return
+        return False
 
     player_list_path = PROJECT_ROOT / "draft_prep" / f"SC {year}" / f"{year}_SC_Player_list.csv"
     if not player_list_path.exists():
-        print(f"    no {player_list_path.name} — can't resolve draft player names, skipping")
-        return
+        print(f"    no {player_list_path.name} — can't resolve draft player names")
+        return False
     plist = pd.read_csv(player_list_path, low_memory=False)
     name_lookup = {
         int(row["feed_id"]): f"{str(row['first_name'])[0]}.{row['last_name']}"
@@ -465,6 +467,50 @@ def build_draft_csv_from_legacy_json(year: int) -> None:
     out_path.parent.mkdir(parents=True, exist_ok=True)
     pd.DataFrame(rows).to_csv(out_path, index=False)
     print(f"    draft_{year}_result.csv: {len(rows)} picks -> {out_path}")
+    return True
+
+
+def build_draft_csv_from_workbook(year: int, coach_map: dict[int, dict]) -> bool:
+    """
+    Recovered source for 2024 (no other draft data exists anywhere): a sheet
+    named str(year) in draft_prep/SC 2026/Previous drafts combined - 2026
+    draft prep.xlsx, in the same raw-export shape as draft_{year}.csv but
+    with player name/feed_id already resolved (columns: id, league_id,
+    user_team_id, round, pick, player_id, position, autopicked, time,
+    year_id, feed_id, name).
+    """
+    import openpyxl
+
+    xlsx_path = PROJECT_ROOT / "draft_prep" / "SC 2026" / "Previous drafts combined - 2026 draft prep.xlsx"
+    if not xlsx_path.exists():
+        print(f"    no draft-prep workbook found")
+        return False
+    wb = openpyxl.load_workbook(str(xlsx_path), read_only=True, data_only=True)
+    if str(year) not in wb.sheetnames:
+        print(f"    no '{year}' sheet in draft-prep workbook")
+        return False
+
+    ws = wb[str(year)]
+    rows = []
+    for r in ws.iter_rows(min_row=2, values_only=True):
+        if r[0] is None:
+            continue
+        team_id, rnd, pick, fid, name = int(r[2]), int(r[3]), int(r[4]), int(r[10]), str(r[11])
+        coach = coach_map.get(team_id, {}).get("coach")
+        if coach is None:
+            continue
+        parts = name.split(" ", 1)
+        display = f"{parts[0][0]}.{parts[1]}" if len(parts) == 2 else name
+        rows.append({
+            "Round": rnd, "Pick": pick, "Player": display, "Coach": coach,
+            "Round Coach Order": 0, "Dataset count": 1, "feed_id": fid,
+        })
+
+    out_path = PROJECT_ROOT / "draft_prep" / f"SC {year}" / f"draft_{year}_result.csv"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    pd.DataFrame(rows).to_csv(out_path, index=False)
+    print(f"    draft_{year}_result.csv: {len(rows)} picks -> {out_path} (from workbook)")
+    return True
 
 
 def build_coach_list(coach_map: dict[int, dict]) -> pd.DataFrame:
