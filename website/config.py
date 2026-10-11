@@ -135,6 +135,12 @@ SEASON_META_OVERRIDES: dict[int, dict] = {
     # (not even in an independent backup), round 23's single fixture winner/
     # loser match honour_board.py's recorded champion/runner-up exactly.
     2022: {"finals_weeks": 2},
+    # 2016-2019: confirmed directly from the archived fixture data (FINALS
+    # FLAG column) — every year's finals are rounds 22-23 only, never 24.
+    2016: {"finals_weeks": 2},
+    2017: {"finals_weeks": 2},
+    2018: {"finals_weeks": 2},
+    2019: {"finals_weeks": 2},
 }
 
 

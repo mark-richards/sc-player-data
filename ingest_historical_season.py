@@ -67,6 +67,13 @@ LEAGUE_IDS = {2022: 651660, 2023: 99, 2024: 1283, 2025: 13462}
 REGULAR_ROUNDS = 21
 FINALS_ROUNDS = [22, 23, 24]
 
+WORKBOOK_PATH = LEGACY_DIR / "2016 - 2019" / "Master Fantasy Banter Workbook - MR edit.xlsx"
+WORKBOOK_YEARS = {2016, 2017, 2018, 2019}
+# "Lest" (4-letter, used only in the 2019 draft sheet) doesn't match the
+# standard DRAFT_ALIAS_MAP key "LESTER" — every other alias in this workbook
+# (RICHO, KAPPAZ, JMERC, GARTER, MELONS, PMAC, CHIEF) matches directly.
+_WORKBOOK_ALIAS_FIX = {"LEST": "LESTER"}
+
 
 def _v(x):
     """Unwrap a 1-element numpy array (as returned by rdata) to a plain scalar."""
@@ -722,8 +729,219 @@ def ingest_year_from_legacy(year: int) -> None:
           f"(max round {ladder['round'].max()}), {len(matches)} player-match rows -> {out_dir}")
 
 
+def _resolve_coach_alias(raw) -> str:
+    from website.config import DRAFT_ALIAS_MAP
+    key = str(raw).strip().upper()
+    key = _WORKBOOK_ALIAS_FIX.get(key, key)
+    return DRAFT_ALIAS_MAP.get(key, str(raw))
+
+
+def _load_workbook_sheet(wb, sheet_name: str) -> pd.DataFrame:
+    ws = wb[sheet_name]
+    rows_iter = ws.iter_rows(values_only=True)
+    headers = next(rows_iter)
+    data = [r for r in rows_iter if any(v is not None for v in r)]
+    return pd.DataFrame(data, columns=headers)
+
+
+def _workbook_coach_map(teams_df: pd.DataFrame, year: int) -> dict[int, dict]:
+    yr = teams_df[teams_df["SEASON"] == year]
+    names = sorted(yr["SC TEAM"].unique())
+    name_to_id = {name: 900000 + year * 100 + i for i, name in enumerate(names)}
+    coach_map = {}
+    for _, row in yr.iterrows():
+        tid = name_to_id[row["SC TEAM"]]
+        coach_map[tid] = {"coach": _resolve_coach_alias(row["SC COACH"]), "team_name": row["SC TEAM"]}
+    return coach_map, {name: tid for tid, name in ((t, c["team_name"]) for t, c in coach_map.items())}
+
+
+def build_ladder_from_workbook(fixture_df: pd.DataFrame, year: int, name_to_id: dict) -> pd.DataFrame:
+    yr = fixture_df[(fixture_df["SEASON"] == year) & (fixture_df["FINALS FLAG"] == 0)].copy()
+    for col in ["WIN", "DRAW", "LOSS", "TEAM SCORE", "OPPONENT SCORE", "ROUND"]:
+        yr[col] = pd.to_numeric(yr[col], errors="coerce").fillna(0)
+    yr = yr.sort_values(["TEAM NAME", "ROUND"])
+    yr["league_points_round"] = yr["WIN"] * 4 + yr["DRAW"] * 2
+    for col, src in [("cum_wins", "WIN"), ("cum_draws", "DRAW"), ("cum_losses", "LOSS"),
+                      ("cum_pf", "TEAM SCORE"), ("cum_pa", "OPPONENT SCORE"),
+                      ("cum_points", "league_points_round")]:
+        yr[col] = yr.groupby("TEAM NAME")[src].cumsum()
+
+    rows = []
+    for rnd, rdf in yr.groupby("ROUND"):
+        rdf = rdf.sort_values(["cum_points", "cum_pf"], ascending=[False, False]).reset_index(drop=True)
+        for i, r in rdf.iterrows():
+            tid = name_to_id[r["TEAM NAME"]]
+            rows.append({
+                "round": int(rnd), "coach_id": tid, "coach_team_id": tid,
+                "coach_first_name": _resolve_coach_alias(r["COACH"]), "coach_team_name": r["TEAM NAME"],
+                "wins": int(r["cum_wins"]), "draws": int(r["cum_draws"]), "losses": int(r["cum_losses"]),
+                "points_for": r["cum_pf"], "points_against": r["cum_pa"],
+                "league_points": int(r["cum_points"]), "position": i + 1,
+            })
+    return pd.DataFrame(rows)
+
+
+def build_fixtures_from_workbook(fixture_df: pd.DataFrame, year: int, name_to_id: dict) -> pd.DataFrame:
+    yr = fixture_df[(fixture_df["SEASON"] == year) & (fixture_df["FINALS FLAG"] == 0)].copy()
+    for col in ["ROUND", "TEAM SCORE", "OPPONENT SCORE"]:
+        yr[col] = pd.to_numeric(yr[col], errors="coerce").fillna(0)
+    rows = []
+    for _, r in yr.iterrows():
+        rows.append({
+            "round_number": int(r["ROUND"]),
+            "match_name": f'{r["TEAM NAME"]} vs {r["OPPONENT NAME"]}',
+            "team_id": name_to_id[r["TEAM NAME"]], "team_name": r["TEAM NAME"],
+            "team_coach": _resolve_coach_alias(r["COACH"]), "team_points": r["TEAM SCORE"],
+            "opposition_team_id": name_to_id[r["OPPONENT NAME"]], "opposition_team_name": r["OPPONENT NAME"],
+            "opposition_team_coach": _resolve_coach_alias(r["OPPONENT COACH"]),
+            "opposition_team_points": r["OPPONENT SCORE"], "Rank": 0,
+        })
+    return pd.DataFrame(rows)
+
+
+def build_player_matches_from_workbook(scores_df: pd.DataFrame, year: int, name_to_id: dict) -> pd.DataFrame:
+    yr = scores_df[scores_df["SEASON"] == year].copy()
+    for col in ["ROUND", "PTS"]:
+        yr[col] = pd.to_numeric(yr[col], errors="coerce").fillna(0)
+    rows = []
+    for _, r in yr.iterrows():
+        tid = name_to_id.get(r["SC TEAM"])
+        if tid is None:
+            continue
+        name = str(r["PLAYER"])
+        parts = name.split(".", 1)
+        first, last = (parts[0], parts[1]) if len(parts) == 2 else ("", name)
+        on_field = r["POS"] != "BEN"
+        rows.append({
+            "round_x": int(r["ROUND"]), "coach_id": tid, "coach_team_id": tid,
+            "coach_first_name": _resolve_coach_alias(r["SC COACH"]), "coach_team_name": r["SC TEAM"],
+            "player_id": pd.NA, "played_position": r["POS"] if on_field else None,
+            "points_x": r["PTS"], "on_field": on_field, "picked": on_field,
+            "feed_id": pd.NA, "first_name": first, "last_name": last,
+            "team": r["TEAM"], "position": r["POS"],
+        })
+    return pd.DataFrame(rows)
+
+
+def build_finals_json_from_workbook(fixture_df: pd.DataFrame, year: int, out_dir: Path) -> None:
+    yr = fixture_df[(fixture_df["SEASON"] == year) & (fixture_df["FINALS FLAG"] == 1)].copy()
+    if yr.empty:
+        return
+    for col in ["ROUND", "TEAM SCORE", "OPPONENT SCORE"]:
+        yr[col] = pd.to_numeric(yr[col], errors="coerce").fillna(0)
+    json_dir = out_dir / "json"
+    json_dir.mkdir(parents=True, exist_ok=True)
+    for rnd, rdf in yr.groupby("ROUND"):
+        seen_games = set()
+        fixtures_out = []
+        for _, r in rdf.iterrows():
+            game_key = tuple(sorted([r["TEAM NAME"], r["OPPONENT NAME"]]))
+            if game_key in seen_games:
+                continue
+            seen_games.add(game_key)
+            fixtures_out.append({
+                "user_team1": {"user": {"first_name": _resolve_coach_alias(r["COACH"])},
+                               "stats": [{"points": float(r["TEAM SCORE"])}]},
+                "user_team2": {"user": {"first_name": _resolve_coach_alias(r["OPPONENT COACH"])},
+                               "stats": [{"points": float(r["OPPONENT SCORE"])}]},
+            })
+        (json_dir / f"match_json_rd{int(rnd)}.json").write_text(
+            json.dumps({"fixtures": fixtures_out}), encoding="utf-8"
+        )
+
+
+def _workbook_name_to_feedid() -> dict[tuple, int]:
+    df = pd.read_csv(
+        PROJECT_ROOT / "data" / "processed" / "master_player_data.csv",
+        low_memory=False, usecols=["Player ID", "First Name", "Last Name"],
+    )
+    df = df.dropna(subset=["Player ID", "First Name", "Last Name"]).drop_duplicates(subset=["First Name", "Last Name"])
+    return {
+        (str(r["First Name"]).strip().lower(), str(r["Last Name"]).strip().lower()): int(r["Player ID"])
+        for _, r in df.iterrows()
+    }
+
+
+def build_draft_csv_from_workbook_sheet(draft_df: pd.DataFrame, year: int) -> None:
+    draft_df = draft_df.dropna(subset=["Round", "Pick", "Name"])
+    name_lookup = _workbook_name_to_feedid()
+    rows = []
+    matched = 0
+    for _, r in draft_df.iterrows():
+        full_name = str(r["Footywire"]).strip()
+        parts = full_name.split(" ", 1)
+        fid = name_lookup.get((parts[0].lower(), parts[1].lower())) if len(parts) == 2 else None
+        if fid is not None:
+            matched += 1
+        rows.append({
+            "Round": int(r["Round"]), "Pick": int(r["Pick"]), "Player": r["Name"],
+            "Coach": _resolve_coach_alias(r["Team"]), "Round Coach Order": 0,
+            "Dataset count": 1, "feed_id": fid,
+        })
+    out_path = PROJECT_ROOT / "draft_prep" / f"SC {year}" / f"draft_{year}_result.csv"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    pd.DataFrame(rows).to_csv(out_path, index=False)
+    print(f"    draft_{year}_result.csv: {len(rows)} picks, {matched} feed_id matches -> {out_path}")
+
+
+def ingest_year_from_workbook(year: int) -> None:
+    import openpyxl
+
+    if not WORKBOOK_PATH.exists():
+        print(f"  [{year}] SKIP — workbook not found at {WORKBOOK_PATH}")
+        return
+
+    out_dir = SEASONS_DIR / str(year)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    wb = openpyxl.load_workbook(str(WORKBOOK_PATH), read_only=True, data_only=True)
+    teams_df = _load_workbook_sheet(wb, "DATA - Teams")
+    fixture_df = _load_workbook_sheet(wb, "DATA - Fixture")
+
+    coach_map, name_to_id = _workbook_coach_map(teams_df, year)
+    if not coach_map:
+        print(f"  [{year}] SKIP — no teams found in workbook for this year")
+        return
+
+    ladder = build_ladder_from_workbook(fixture_df, year, name_to_id)
+    fixtures = build_fixtures_from_workbook(fixture_df, year, name_to_id)
+    coaches = build_coach_list(coach_map)
+
+    ladder.to_csv(out_dir / "ladder.csv", index=False)
+    fixtures.to_csv(out_dir / "fixture_results_by_team.csv", index=False)
+    coaches.to_csv(out_dir / "coach_list.csv", index=False)
+    build_finals_json_from_workbook(fixture_df, year, out_dir)
+
+    scores_df = _load_workbook_sheet(wb, "DATA - Round Scores")
+    if year in scores_df["SEASON"].unique():
+        matches = build_player_matches_from_workbook(scores_df, year, name_to_id)
+        matches.to_csv(out_dir / "player_match_results.csv", index=False)
+        last_round = matches["round_x"].max()
+        last = matches[matches["round_x"] == last_round].drop_duplicates(subset=["coach_team_id", "first_name", "last_name"], keep="last")
+        teams = pd.DataFrame({
+            "coach_first_name": last["coach_first_name"], "first_name": last["first_name"],
+            "last_name": last["last_name"], "team": last["team"], "position": last["position"],
+            "avg": pd.NA, "avg3": pd.NA, "price": pd.NA, "feed_id": pd.NA,
+        })
+        teams.to_csv(out_dir / "current_teams.csv", index=False)
+        n_player_rows = len(matches)
+    else:
+        n_player_rows = 0
+        print(f"    no player-level Round Scores for {year} — ladder/fixtures only")
+
+    draft_sheet = f"DATA - {year} Draft order"
+    if draft_sheet in wb.sheetnames:
+        draft_df = _load_workbook_sheet(wb, draft_sheet)
+        build_draft_csv_from_workbook_sheet(draft_df, year)
+
+    print(f"  [{year}] OK (workbook) — {ladder['round'].nunique()} rounds, "
+          f"{n_player_rows} player-match rows -> {out_dir}")
+
+
 def ingest_year(year: int) -> None:
-    if year in LEAGUE_IDS and raw_dump_is_usable(year):
+    if year in WORKBOOK_YEARS:
+        ingest_year_from_workbook(year)
+    elif year in LEAGUE_IDS and raw_dump_is_usable(year):
         ingest_year_from_raw(year)
     else:
         print(f"  [{year}] raw dump unusable/unavailable — falling back to legacy fantasy_banter_data")

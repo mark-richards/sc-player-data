@@ -23,6 +23,15 @@ def _positional_line_chart(player_df: pd.DataFrame, coach: str) -> dict:
     """Per-round DEF/MID/RUC/FWD on-field points for this coach."""
     import plotly.graph_objects as go
 
+    if player_df.empty or "coach_first_name" not in player_df.columns:
+        fig = go.Figure()
+        fig.update_layout(
+            title=f"{coach} — Positional Scores by Round",
+            plot_bgcolor="white", paper_bgcolor="white", height=320,
+            annotations=[dict(text="No player-level data available", showarrow=False, font=dict(color="#999"))],
+        )
+        return fig.to_dict()
+
     df = player_df[
         (player_df["coach_first_name"] == coach) &
         (player_df["on_field"] == True) &
@@ -90,24 +99,29 @@ def coach_profile(coach_name: str, year: int | None = None):
     else:
         roster = pd.DataFrame(columns=_ROSTER_COLUMNS)
 
-    # Top scorers this season (on-field only)
-    top_scorers = (
-        players[
-            (players["coach_first_name"] == coach_name) &
-            (players["on_field"] == True)
-        ]
-        .groupby(["first_name", "last_name", "played_position"])
-        .agg(
-            games=("points_x", "count"),
-            avg=("points_x", "mean"),
-            total=("points_x", "sum"),
-            best=("points_x", "max"),
+    # Top scorers this season (on-field only) — some historical seasons have
+    # no player-level data at all (ladder/fixtures only), so guard for that.
+    has_player_data = not players.empty and "coach_first_name" in players.columns
+    if has_player_data:
+        top_scorers = (
+            players[
+                (players["coach_first_name"] == coach_name) &
+                (players["on_field"] == True)
+            ]
+            .groupby(["first_name", "last_name", "played_position"])
+            .agg(
+                games=("points_x", "count"),
+                avg=("points_x", "mean"),
+                total=("points_x", "sum"),
+                best=("points_x", "max"),
+            )
+            .reset_index()
+            .sort_values("avg", ascending=False)
+            .head(15)
         )
-        .reset_index()
-        .sort_values("avg", ascending=False)
-        .head(15)
-    )
-    top_scorers["avg"] = top_scorers["avg"].round(1)
+        top_scorers["avg"] = top_scorers["avg"].round(1)
+    else:
+        top_scorers = pd.DataFrame(columns=["first_name", "last_name", "played_position", "games", "avg", "total", "best"])
 
     # Season total
     season_total = scores["team_points"].sum()
