@@ -498,12 +498,31 @@ def _archive_raw(raw_dir: Path | None, url: str, data) -> None:
     """Save a raw API response to data/raw/supercoach/{year}/ using the same
     naming convention as _fetch_and_save_endpoint, so transaction-endpoint
     archives reflect exactly what the CSV-building fetch below actually saw
-    (instead of a separate, independent fetch moments later)."""
+    (instead of a separate, independent fetch moments later).
+
+    Writes two copies:
+      - the "latest" file at the fixed name, overwritten each run (existing
+        consumers like website/config.py's processed_waivers_json_path() glob
+        for this)
+      - a dated copy under a history/ subfolder that is never overwritten, so
+        a past day's raw response can still be inspected later even after a
+        subsequent refresh changes what the latest one looks like.
+    """
     if raw_dir is None:
         return
     import json as _json
+    from datetime import datetime, timezone
+
     raw_dir.mkdir(parents=True, exist_ok=True)
-    with open(raw_dir / _raw_filename(url), "w", encoding="utf-8") as f:
+    filename = _raw_filename(url)
+    with open(raw_dir / filename, "w", encoding="utf-8") as f:
+        _json.dump(data, f)
+
+    history_dir = raw_dir / "history"
+    history_dir.mkdir(parents=True, exist_ok=True)
+    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    stem = filename[:-5] if filename.endswith(".json") else filename
+    with open(history_dir / f"{stem}_{stamp}.json", "w", encoding="utf-8") as f:
         _json.dump(data, f)
 
 
