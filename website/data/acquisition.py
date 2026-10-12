@@ -58,11 +58,19 @@ def load_player_sources(
 ) -> pd.DataFrame:
     """
     Returns DataFrame with columns:
-        player_id, feed_id, first_name, last_name, coach, source, round_acquired
+        player_id, feed_id, first_name, last_name, coach, source,
+        round_acquired, round_end_exclusive
 
-    One row per (player, coach) pair that appears in player_match_results —
-    covering all historical ownership periods, not just the current roster.
-    Source reflects how that specific coach acquired the player.
+    One row per ownership STINT, not per (player, coach) pair — a coach who
+    acquires the same player more than once in a season (drop + re-pickup,
+    possibly via a different source each time) gets one row per acquisition,
+    each scoped to only the rounds that stint actually covers. Downstream,
+    build_acquisition_stats() computes each stint's avg/points from only its
+    own round range, so a later re-acquisition via a different source doesn't
+    get folded into an earlier stint's category.
+
+    round_end_exclusive is the round the NEXT acquisition of this player (by
+    anyone) took effect, or None if this is the player's current/latest stint.
     """
     if not player_match_csv.exists():
         log.warning("player_match_results.csv not found")
@@ -72,24 +80,19 @@ def load_player_sources(
     pm["player_id"] = pd.to_numeric(pm["player_id"], errors="coerce").astype("Int64")
     pm["feed_id"]   = pd.to_numeric(pm["feed_id"],   errors="coerce").astype("Int64")
 
-    # All unique (player_id, coach) pairs across every round
-    pairs = (
-        pm.sort_values("round_x")
-        .drop_duplicates(subset=["player_id", "coach_first_name"], keep="last")
-        [["player_id", "feed_id", "first_name", "last_name", "coach_first_name"]]
-        .rename(columns={"coach_first_name": "coach"})
-        .dropna(subset=["player_id"])
-    )
+    # One identity row per player_id (name/feed_id don't vary by coach or stint)
+    _id_df = pm.dropna(subset=["player_id"]).drop_duplicates(subset=["player_id"], keep="last")
+    identities = _id_df.set_index(_id_df["player_id"].astype(int))[["feed_id", "first_name", "last_name"]]
 
-    # Earliest round each (player, coach) pair appears — used to anchor acquisition source
-    min_round_map: dict[tuple, int] = {}
-    for _, row in pm.iterrows():
-        pval = row.get("player_id")
-        cval = row.get("coach_first_name")
-        rval = row.get("round_x")
-        if pd.notna(pval) and cval and pd.notna(rval):
-            key = (int(pval), str(cval))
-            min_round_map[key] = min(min_round_map.get(key, 9999), int(rval))
+    # Every (player_id, coach) pair that appears in player_match_results at all —
+    # used as a fallback so a pair never silently disappears if it isn't covered
+    # by any reconstructed stint below (e.g. incomplete transaction history for
+    # an older season).
+    known_pairs = set(
+        (int(p), c) for p, c in
+        pm.dropna(subset=["player_id"])[["player_id", "coach_first_name"]].itertuples(index=False)
+        if c
+    )
 
     # ── Draft source by feed_id ─────────────────────────────────────────────────
     draft_source: dict[int, dict] = {}  # feed_id → {coach, source, round_acquired}
@@ -133,6 +136,7 @@ def load_player_sources(
 
     # ── Coach ↔ team_id mappings ────────────────────────────────────────────────
     coach_to_team: dict[str, int] = {}
+    team_to_coach: dict[int, str] = {}
     if coach_list_csv.exists():
         cl = pd.read_csv(coach_list_csv)
         for _, r in cl.iterrows():
@@ -140,11 +144,13 @@ def load_player_sources(
             name = r.get("coach_first_name")
             if pd.notna(tid) and name:
                 coach_to_team[name] = int(tid)
+                team_to_coach[int(tid)] = name
 
-    # ── All transactions per (player_id, team_id) from transactions ──────────────
-    # Stores the full sorted list so the merge can filter by round.
-    # Round-trip trades (traded away and back immediately) are cancelled out.
-    all_txns: dict[tuple, list] = {}  # (pid, team_id) → [rows sorted by round]
+    # ── Global, chronological acquisition events per player ────────────────────
+    # events_by_player[player_id] = [{round, coach, source}, ...] sorted by when
+    # the acquisition took effect. Round-trip trades (traded away and back
+    # immediately) are cancelled out before building this timeline.
+    events_by_player: dict[int, list] = {}
     if transactions_csv.exists():
         txn = pd.read_csv(transactions_csv, low_memory=False)
         txn["player_id"]    = pd.to_numeric(txn["player_id"],    errors="coerce").astype("Int64")
@@ -174,68 +180,117 @@ def load_player_sources(
                     if pre_team is None or pre_team == last_team:
                         rows = rows[:-2]
 
+            events = []
             for row in rows:
                 t = _tid(row.get("user_team_id"))
-                if t is not None:
-                    all_txns.setdefault((int(pid), t), []).append(row)
+                rnd = row.get("round")
+                coach = team_to_coach.get(t) if t is not None else None
+                if coach is not None and pd.notna(rnd):
+                    events.append({
+                        "round":  int(rnd),
+                        "coach":  coach,
+                        "source": str(row.get("source", "")),
+                    })
+            if events:
+                events_by_player[int(pid)] = events
     else:
         log.warning("transactions.csv not found — all players will show as Draft")
 
-    # ── Merge acquisition source onto (player, coach) pairs ────────────────────
+    # Unique (round, coach) appearances per player, straight from
+    # player_match_results — used below to catch any round a coach is shown
+    # owning a player that neither the draft CSV nor the transaction log
+    # explains (e.g. a pre-season pickup processed outside the tracked
+    # endpoints), so that round never silently drops out of the page.
+    pm_by_player: dict[int, list] = {}
+    for pid_, g in pm.dropna(subset=["player_id"]).groupby(pm.dropna(subset=["player_id"])["player_id"].astype(int)):
+        pm_by_player[int(pid_)] = sorted(
+            {(int(r_), c_) for r_, c_ in zip(g["round_x"], g["coach_first_name"]) if pd.notna(r_) and c_}
+        )
+
+    # ── Build per-player ownership stints from draft + transaction events ──────
     result_rows = []
-    for _, r in pairs.iterrows():
-        pid   = int(r["player_id"]) if pd.notna(r["player_id"]) else None
-        fid   = int(r["feed_id"])   if pd.notna(r["feed_id"])   else None
-        coach = r["coach"]
-        if pid is None:
+    covered_pairs: set = set()
+    all_player_ids = set(int(p) for p in pm["player_id"].dropna().unique()) if not pm.empty else set()
+
+    for pid in all_player_ids:
+        if pid not in identities.index:
             continue
+        ident = identities.loc[pid]
+        fid = int(ident["feed_id"]) if pd.notna(ident["feed_id"]) else None
 
-        team_id  = coach_to_team.get(coach)
-        min_rnd  = min_round_map.get((pid, coach))
-        is_drafted_by_coach = fid in draft_source and draft_source[fid]["coach"] == coach
+        events = list(events_by_player.get(pid, []))
 
-        info = None
-        if team_id is not None:
-            txns = all_txns.get((pid, team_id), [])
-            # Only transactions at or before the first round this coach played the player
-            relevant = [
-                t for t in txns
-                if pd.notna(t.get("round")) and int(t["round"]) <= (min_rnd or 9999)
-            ]
-            if is_drafted_by_coach:
-                # A round-1 transaction for a player this coach actually drafted is
-                # platform import noise, not a genuine pickup — seen in 2024, where
-                # an entire roster was logged as a single bulk "Free Agent"
-                # transaction at the same timestamp when the draft had to be
-                # recovered from an archived source. Only a LATER transaction
-                # (round > 1) reflects a real subsequent drop/re-add.
-                relevant = [t for t in relevant if int(t["round"]) > 1]
-            if relevant:
-                row = relevant[-1]
-                rnd = row.get("round")
-                info = {
-                    "source":         str(row.get("source", "Draft")),
-                    "round_acquired": int(rnd) if pd.notna(rnd) else None,
-                }
+        draft_coach = None
+        if fid is not None and fid in draft_source:
+            draft_coach = draft_source[fid]["coach"]
+            # A round-1 transaction for a player this coach actually drafted is
+            # platform import noise, not a genuine pickup — seen in 2024, where
+            # an entire roster was logged as a single bulk "Free Agent"
+            # transaction at the same timestamp when the draft had to be
+            # recovered from an archived source. Only a LATER transaction
+            # reflects a real subsequent drop/re-add.
+            events = [e for e in events if not (e["round"] == 1 and e["coach"] == draft_coach)]
+            events = [{"round": 0, "coach": draft_coach, "source": "Draft"}] + events
 
-        if info is None:
-            if is_drafted_by_coach:
-                info = draft_source[fid]
-            else:
-                info = {"source": "Draft", "round_acquired": 0}
+        events.sort(key=lambda e: e["round"])
 
-        rnd_acq = info["round_acquired"]
-        wp = waiver_pick_map.get((pid, rnd_acq), {}) if info["source"] == "Waiver" else {}
+        # Untracked acquisition(s): a coach shown owning this player before the
+        # earliest round any known event (draft or transaction) explains. Add a
+        # synthetic "Draft"-labelled stint so those rounds are still counted
+        # instead of silently vanishing — same fallback label the old code used
+        # for any player with no transaction history at all.
+        first_known_round = events[0]["round"] if events else None
+        pre_coverage = [
+            (r, c) for r, c in pm_by_player.get(pid, [])
+            if first_known_round is None or r < first_known_round
+        ]
+        for coach in sorted({c for _, c in pre_coverage}):
+            earliest = min(r for r, c in pre_coverage if c == coach)
+            events.append({"round": earliest, "coach": coach, "source": "Draft"})
+        events.sort(key=lambda e: e["round"])
+
+        for i, ev in enumerate(events):
+            coach = ev["coach"]
+            rnd_acq = ev["round"]
+            round_end_exclusive = events[i + 1]["round"] if i + 1 < len(events) else None
+            if round_end_exclusive is not None and round_end_exclusive <= rnd_acq:
+                continue  # zero-width stint (superseded same round) — no rounds to attribute
+            source = ev["source"] or "Draft"
+
+            wp = waiver_pick_map.get((pid, rnd_acq), {}) if source == "Waiver" else {}
+            result_rows.append({
+                "player_id":           pid,
+                "feed_id":             fid,
+                "first_name":          ident["first_name"],
+                "last_name":           ident["last_name"],
+                "coach":               coach,
+                "source":              source,
+                "round_acquired":      rnd_acq,
+                "round_end_exclusive": round_end_exclusive,
+                "waiver_pick_num":     wp.get("pick_num"),
+                "waiver_day":          wp.get("day"),
+            })
+            covered_pairs.add((pid, coach))
+
+    # ── Fallback for (player, coach) pairs with no reconstructed stint ─────────
+    # (e.g. a season with incomplete/missing transaction history). Keeps parity
+    # with the old behaviour of always showing *something* rather than a pair
+    # silently vanishing from the page.
+    for pid, coach in known_pairs - covered_pairs:
+        if pid not in identities.index:
+            continue
+        ident = identities.loc[pid]
         result_rows.append({
-            "player_id":       pid,
-            "feed_id":         fid,
-            "first_name":      r["first_name"],
-            "last_name":       r["last_name"],
-            "coach":           coach,
-            "source":          info["source"],
-            "round_acquired":  rnd_acq,
-            "waiver_pick_num": wp.get("pick_num"),
-            "waiver_day":      wp.get("day"),
+            "player_id":           pid,
+            "feed_id":             int(ident["feed_id"]) if pd.notna(ident["feed_id"]) else None,
+            "first_name":          ident["first_name"],
+            "last_name":           ident["last_name"],
+            "coach":               coach,
+            "source":              "Draft",
+            "round_acquired":      0,
+            "round_end_exclusive": None,
+            "waiver_pick_num":     None,
+            "waiver_day":          None,
         })
 
     return pd.DataFrame(result_rows)
@@ -255,37 +310,25 @@ def build_acquisition_stats(
     if player_sources.empty:
         return {}
 
-    avg_map:    dict[tuple, float]     = {}   # keyed by (player_id, coach)
-    total_map:  dict[tuple, int]       = {}   # keyed by (player_id, coach)
-    games_map:  dict[tuple, int]       = {}   # keyed by (player_id, coach)
-    rounds_map: dict[tuple, list]      = {}   # keyed by (player_id, coach)
-
+    # (player_id, coach) → sorted [(round, points), ...] for every on-field round
+    # that coach had the player. A stint-row below only draws from the slice of
+    # this list that falls within its own [round_acquired, round_end_exclusive)
+    # range, so a later re-acquisition via a different source doesn't inherit
+    # an earlier stint's points, and vice versa.
+    groups: dict[tuple, list] = {}
     if player_match_csv.exists():
         pm = pd.read_csv(player_match_csv, low_memory=False)
         pm["player_id"] = pd.to_numeric(pm["player_id"], errors="coerce").astype("Int64")
         pm["points_x"]  = pd.to_numeric(pm["points_x"],  errors="coerce")
+        pm["round_x"]   = pd.to_numeric(pm["round_x"],   errors="coerce")
 
         on_field = pm[pm["on_field"] == True]
-
-        # Per-(player, coach): avg, total, games, and sorted list of round numbers
-        coach_agg = (
-            on_field.groupby(["player_id", "coach_first_name"])["points_x"]
-            .agg(avg="mean", total="sum", games="count")
-            .reset_index()
-        )
-        for _, r in coach_agg.iterrows():
-            key = (int(r["player_id"]), r["coach_first_name"])
-            avg_map[key]   = round(float(r["avg"]), 1)
-            total_map[key] = int(r["total"])
-            games_map[key] = int(r["games"])
-
-        rounds_series = (
-            on_field.groupby(["player_id", "coach_first_name"])["round_x"]
-            .apply(lambda s: sorted(s.dropna().astype(int).tolist()))
-        )
-        for (pid, coach), rnds in rounds_series.items():
-            rounds_map[(int(pid), coach)] = rnds
-
+        for (pid, coach), g in on_field.groupby(["player_id", "coach_first_name"]):
+            recs = sorted(
+                (int(r_), p_) for r_, p_ in zip(g["round_x"], g["points_x"])
+                if pd.notna(r_) and pd.notna(p_)
+            )
+            groups[(int(pid), coach)] = recs
 
     stats: dict = {}
     for _, row in player_sources.iterrows():
@@ -296,14 +339,24 @@ def build_acquisition_stats(
         if pid is None:
             continue
 
-        avg       = avg_map.get((pid, coach), 0.0)
-        if avg <= 0:
-            continue  # only include players with recorded on-field scores
-        total_pts    = total_map.get((pid, coach), 0)
-        games        = games_map.get((pid, coach), 0)
-        rounds_played = rounds_map.get((pid, coach), [])
-        name         = f"{row['first_name']} {row['last_name']}"
-        rnd_acq      = row.get("round_acquired")
+        rnd_acq = row.get("round_acquired")
+        start   = int(rnd_acq) if pd.notna(rnd_acq) else 0
+        end_raw = row.get("round_end_exclusive")
+        has_end = pd.notna(end_raw)
+        end     = int(end_raw) if has_end else None
+
+        recs = [
+            (r_, p_) for r_, p_ in groups.get((pid, coach), [])
+            if r_ >= start and (not has_end or r_ < end)
+        ]
+        if not recs:
+            continue  # only include stints with recorded on-field scores
+
+        rounds_played = [r_ for r_, _ in recs]
+        games         = len(recs)
+        total_pts     = int(round(sum(p_ for _, p_ in recs)))
+        avg           = round(total_pts / games, 1)
+        name          = f"{row['first_name']} {row['last_name']}"
 
         stats.setdefault(coach, {})
         stats[coach].setdefault(cat, {"avg": 0.0, "count": 0, "players": []})
