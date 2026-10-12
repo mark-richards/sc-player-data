@@ -335,4 +335,35 @@
   </div>
 </div>
 {% endif %}
+
+{# ── Favourite Players ── #}
+{% if favourite_players %}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">⭐ Favourite Players</div>
+  <div class="card-body">
+    <div class="row g-3">
+      {% for entry in favourite_players %}
+      <div class="col-md-6 col-lg-3">
+        <div class="border rounded p-3 h-100">
+          <a href="/coach/{{ entry.coach }}" class="text-decoration-none fw-bold fs-5 d-block mb-2">{{ entry.coach }}</a>
+          {% if entry.players %}
+          <div class="d-flex flex-column gap-1">
+            {% for p in entry.players %}
+            <div class="d-flex justify-content-between align-items-baseline small">
+              <span><span class="text-muted">{{ loop.index }}.</span> {{ p.name }}</span>
+              <span class="text-muted">{{ p.rounds }} rds</span>
+            </div>
+            {% endfor %}
+          </div>
+          {% else %}
+          <div class="text-muted small fst-italic">No data yet</div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="card-footer text-muted small">Most rounds rostered (bench or on-field), across every completed season.</div>
+</div>
+{% endif %}
 {% endblock %}

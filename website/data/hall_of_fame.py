@@ -274,3 +274,52 @@ def build_head_to_head(years: list[int]) -> dict:
             _tally(f["coach1"], f["score1"], f["coach2"], f["score2"])
 
     return {"coaches": COACH_ORDER, "cells": record}
+
+
+def build_favourite_players(years: list[int], top_n: int = 3) -> list[dict]:
+    """
+    Each coach's most-rostered players across every completed season (any
+    round they were on the coach's roster, bench or on-field) — "who has
+    this coach relied on the most, ever." Grouped by feed_id rather than
+    name, since 2016-2019 (workbook-sourced) rows store only a first-name
+    initial ("P" Dangerfield) while 2020+ rows have the full first name —
+    grouping by name string would silently split one player's history into
+    two. Years are processed most-recent-first so the display name prefers
+    the fuller spelling when a player appears in both eras.
+    """
+    from website.config import COACH_ORDER
+    from website.data.loader import load_player_matches
+
+    frames = []
+    for year in sorted(years, reverse=True):
+        pm = load_player_matches(year)
+        if not pm.empty:
+            frames.append(pm)
+    if not frames:
+        return []
+
+    all_pm = pd.concat(frames, ignore_index=True)
+    # A handful of rows can still be missing feed_id (see ingestion notes) —
+    # fall back to a name-based key for just those so the player isn't
+    # silently dropped from the tally.
+    all_pm["player_key"] = all_pm["feed_id"].astype("string").fillna(
+        all_pm["first_name"].astype(str) + "|" + all_pm["last_name"].astype(str)
+    )
+
+    grouped = (
+        all_pm.groupby(["coach_first_name", "player_key"])
+        .agg(rounds=("round_x", "count"),
+             first_name=("first_name", "first"),
+             last_name=("last_name", "first"))
+        .reset_index()
+    )
+
+    favourites = []
+    for coach in COACH_ORDER:
+        cdf = grouped[grouped["coach_first_name"] == coach].sort_values("rounds", ascending=False).head(top_n)
+        players = [
+            {"name": f"{r.first_name} {r.last_name}".strip(), "rounds": int(r.rounds)}
+            for r in cdf.itertuples()
+        ]
+        favourites.append({"coach": coach, "players": players})
+    return favourites

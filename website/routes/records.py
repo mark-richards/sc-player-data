@@ -8,6 +8,7 @@ from website.data.honour_board import build_honour_board
 from website.data.hall_of_fame import (
     completed_years, build_trophy_cabinet, build_notable_records,
     build_championship_drought, build_bridesmaid_tally, build_head_to_head,
+    build_favourite_players,
 )
 
 bp = Blueprint("records", __name__)
@@ -24,6 +25,7 @@ def records():
     drought = build_championship_drought(season_list)
     bridesmaid = build_bridesmaid_tally(season_list)
     head_to_head = build_head_to_head(years)
+    favourite_players = build_favourite_players(years)
 
     return render_template(
         "records.html",
@@ -34,4 +36,5 @@ def records():
         drought=drought,
         bridesmaid=bridesmaid,
         head_to_head=head_to_head,
+        favourite_players=favourite_players,
     )
