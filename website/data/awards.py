@@ -16,9 +16,37 @@ MIN_WIN_STREAK = 2
 WORST_PICK_MAX_ROUND = 8        # Worst Draft Pick only considers early/premium draft capital
 IRON_MAN_MAX_RANK = 7           # Iron Man excludes the last-place finisher (consistently bad isn't "iron man")
 
+# The 4 acquisition Kings reuse the exact Bootstrap Icons + colour already
+# used for their cards on the Acquisition page, for visual consistency.
+# Everything else is an emoji — several of these ideas (rollercoaster,
+# diamond, dread-face) have no good Bootstrap Icons equivalent anyway.
+AWARD_ICONS: dict[str, dict] = {
+    "top_scorer":          {"type": "emoji", "value": "🔥"},
+    "lowest_scorer":       {"type": "emoji", "value": "📉"},
+    "best_run":            {"type": "emoji", "value": "⚡"},
+    "iron_man":            {"type": "emoji", "value": "🛡️"},
+    "boom_or_bust":        {"type": "emoji", "value": "🎢"},
+    "strong_finisher":     {"type": "emoji", "value": "🏁"},
+    "close_calls":         {"type": "emoji", "value": "🎯"},
+    "sunday_scaries":      {"type": "emoji", "value": "😱"},
+    "unluckiest":          {"type": "emoji", "value": "🌧️"},
+    "luckiest":            {"type": "emoji", "value": "🍀"},
+    "spoon_dodge":         {"type": "emoji", "value": "🫣"},
+    "draft_heat_map_king": {"type": "emoji", "value": "🧠"},
+    "best_draft_pick":     {"type": "emoji", "value": "💎"},
+    "worst_draft_pick":    {"type": "emoji", "value": "🗑️"},
+    "draft_king":          {"type": "bi", "icon": "bi-trophy-fill",       "color": "primary"},
+    "waiver_king":         {"type": "bi", "icon": "bi-person-plus-fill",  "color": "success"},
+    "fa_king":             {"type": "bi", "icon": "bi-person-check-fill", "color": "info"},
+    "trade_king":          {"type": "bi", "icon": "bi-arrow-left-right",  "color": "warning"},
+}
+
 
 def _award(key: str, title: str, coach: str, subtitle: str, detail: str | None = None) -> dict:
-    return {"key": key, "title": title, "coach": coach, "subtitle": subtitle, "detail": detail}
+    return {
+        "key": key, "title": title, "coach": coach, "subtitle": subtitle, "detail": detail,
+        "icon": AWARD_ICONS.get(key),
+    }
 
 
 def _top_lowest_scorer(ladder_df: pd.DataFrame) -> list[dict]:
