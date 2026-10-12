@@ -60,44 +60,33 @@
     <div class="card shadow-sm h-100">
       <div class="card-header fw-semibold">Season Results</div>
       <div class="card-body p-0">
-        <div class="table-responsive">
-          <table class="table table-hover table-sm mb-0">
-            <thead class="table-dark">
-              <tr>
-                <th>Season</th>
-                <th>🏆 Champion</th>
-                <th>Runner-up</th>
-                <th>3rd</th>
-                <th>4th</th>
-                <th>🥄 Spoon</th>
-              </tr>
-            </thead>
-            <tbody>
-              {% for s in seasons %}
-              {% set has_data = s.year in available_seasons %}
-              <tr>
-                <td class="fw-semibold">
-                  {% if has_data %}<a href="{{ year_href('season.season_summary', s.year) }}" class="text-decoration-none" title="View {{ s.year }} season overview">{{ s.year }} | {{ s.asl }}</a>{% else %}{{ s.year }} | {{ s.asl }}{% endif %}
-                </td>
-                <td class="text-success fw-semibold">
-                  {% if s.champion and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.champion) }}" class="text-decoration-none text-success">{{ s.champion }}</a>{% else %}{{ s.champion or "-" }}{% endif %}
-                </td>
-                <td>
-                  {% if s.runner_up and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.runner_up) }}" class="text-decoration-none">{{ s.runner_up }}</a>{% else %}{{ s.runner_up or "-" }}{% endif %}
-                </td>
-                <td class="text-muted">
-                  {% if s.finalist_3 and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.finalist_3) }}" class="text-decoration-none text-muted">{{ s.finalist_3 }}</a>{% else %}{{ s.finalist_3 or "-" }}{% endif %}
-                </td>
-                <td class="text-muted">
-                  {% if s.finalist_4 and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.finalist_4) }}" class="text-decoration-none text-muted">{{ s.finalist_4 }}</a>{% else %}{{ s.finalist_4 or "-" }}{% endif %}
-                </td>
-                <td class="text-danger">
-                  {% if s.spoon and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.spoon) }}" class="text-decoration-none text-danger">{{ s.spoon }}</a>{% else %}{{ s.spoon or "-" }}{% endif %}
-                </td>
-              </tr>
-              {% endfor %}
-            </tbody>
-          </table>
+        {% macro coach_link(name, year, has_data, css) %}
+          {% if name and has_data %}<a href="{{ year_href('coach.coach_profile', year, coach_name=name) }}" class="text-decoration-none {{ css }}">{{ name }}</a>{% else %}<span class="{{ css }}">{{ name or "-" }}</span>{% endif %}
+        {% endmacro %}
+        <div class="d-flex flex-column">
+          {% for s in seasons %}
+          {% set has_data = s.year in available_seasons %}
+          <div class="px-3 py-2 {% if not loop.last %}border-bottom{% endif %}">
+            <div class="small text-muted mb-1">
+              {% if has_data %}<a href="{{ year_href('season.season_summary', s.year) }}" class="text-decoration-none text-muted" title="View {{ s.year }} season overview">{{ s.year }} &middot; {{ s.asl }}</a>{% else %}{{ s.year }} &middot; {{ s.asl }}{% endif %}
+            </div>
+            <div class="d-flex justify-content-between align-items-center">
+              <div>
+                <div class="fs-5 fw-bold">🏆 {{ coach_link(s.champion, s.year, has_data, "text-success") }}</div>
+                <div class="text-muted" style="font-size:0.68rem; letter-spacing:.03em;">CHAMPION</div>
+              </div>
+              <div class="text-end">
+                <div class="fs-5 fw-bold">🥄 {{ coach_link(s.spoon, s.year, has_data, "text-danger") }}</div>
+                <div class="text-muted" style="font-size:0.68rem; letter-spacing:.03em;">SPOON</div>
+              </div>
+            </div>
+            <div class="small text-muted mt-1">
+              2nd {{ coach_link(s.runner_up, s.year, has_data, "text-muted") }}
+              &middot; 3rd {{ coach_link(s.finalist_3, s.year, has_data, "text-muted") }}
+              &middot; 4th {{ coach_link(s.finalist_4, s.year, has_data, "text-muted") }}
+            </div>
+          </div>
+          {% endfor %}
         </div>
       </div>
     </div>
