@@ -179,9 +179,9 @@
                 <td class="fw-semibold">{{ p.first_name }} {{ p.last_name }}</td>
                 <td class="text-muted small">{{ p.team }}</td>
                 <td><span class="badge bg-secondary">{{ p.position }}</span></td>
-                <td class="text-end">{{ "%.1f"|format(p.avg) if p.avg else "—" }}</td>
-                <td class="text-end">{{ "%.1f"|format(p.avg3) if p.avg3 else "—" }}</td>
-                <td class="text-end text-muted">${{ "{:,.0f}".format(p.price) if p.price else "—" }}</td>
+                <td class="text-end">{{ "%.1f"|format(p.avg) if p.avg else "-" }}</td>
+                <td class="text-end">{{ "%.1f"|format(p.avg3) if p.avg3 else "-" }}</td>
+                <td class="text-end text-muted">${{ "{:,.0f}".format(p.price) if p.price else "-" }}</td>
               </tr>
               {% endfor %}
             </tbody>

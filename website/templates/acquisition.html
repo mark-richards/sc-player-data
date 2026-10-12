@@ -3,7 +3,7 @@
 
 {% block content %}
 <h2 class="mb-1">Acquisition Analysis</h2>
-<p class="text-muted small mb-4">How each coach assembled their roster — and who's made the best picks in each category.</p>
+<p class="text-muted small mb-4">How each coach assembled their roster, and who's made the best picks in each category.</p>
 
 {# ── King Cards ── #}
 <div class="row g-3 mb-4">
@@ -90,7 +90,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="modal-title">
-            {% if cell.is_king %}👑 {% endif %}{{ row.coach }} — {{ cat }}
+            {% if cell.is_king %}👑 {% endif %}{{ row.coach }}: {{ cat }}
             <span class="text-muted fs-6 ms-2">({{ "%.1f"|format(cell.avg) }} avg)</span>
           </h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
@@ -111,7 +111,7 @@
               <tr>
                 <td>{{ p.name }}</td>
                 <td class="text-end">{{ "%.1f"|format(p.avg) }}</td>
-                <td class="text-end">{{ p.total_pts if p.total_pts else '—' }}</td>
+                <td class="text-end">{{ p.total_pts if p.total_pts else '-' }}</td>
                 <td class="text-end">
                   {% if cat == 'Waiver' and p.waiver_pick_num %}
                     Rd {{ p.round_acquired }}, Pk {{ p.waiver_pick_num|int }} ({{ p.waiver_day }})
@@ -120,11 +120,11 @@
                   {% elif p.round_acquired == 0 %}
                     Draft
                   {% else %}
-                    —
+                    -
                   {% endif %}
                 </td>
                 <td class="text-end" style="color:#888; font-size:0.8rem;">
-                  {{ p.rounds_played | join(', ') if p.rounds_played else '—' }}
+                  {{ p.rounds_played | join(', ') if p.rounds_played else '-' }}
                 </td>
               </tr>
               {% endfor %}

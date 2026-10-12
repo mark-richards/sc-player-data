@@ -1,7 +1,7 @@
 {# field_view_widget.html — current-team field view, included in coach_profile.html #}
 <div class="card shadow-sm mb-3">
   <div class="card-header fw-semibold d-flex justify-content-between align-items-center">
-    <span>Current Team — Round {{ field_data.round }}</span>
+    <span>Current Team: Round {{ field_data.round }}</span>
   </div>
   <div class="card-body p-0">
     <div class="fv-wrapper">
@@ -37,9 +37,9 @@
                 {% if p.is_dnp %}
                   <div class="fv-pts is-dnp-label">DNP</div>
                 {% else %}
-                  <div class="fv-pts {{ pts_class }}">{{ pts if pts else "—" }}</div>
+                  <div class="fv-pts {{ pts_class }}">{{ pts if pts else "-" }}</div>
                 {% endif %}
-                <div class="fv-avg">{{ "%.1f"|format(p.avg) if p.avg else "—" }}</div>
+                <div class="fv-avg">{{ "%.1f"|format(p.avg) if p.avg else "-" }}</div>
               </div>
             </div>
             {% endfor %}
@@ -79,9 +79,9 @@
             {% if p.is_dnp %}
               <div class="fv-bench-pts" style="color:#aaa;">DNP</div>
             {% else %}
-              <div class="fv-bench-pts">{{ pts if pts else "—" }}</div>
+              <div class="fv-bench-pts">{{ pts if pts else "-" }}</div>
             {% endif %}
-            <div class="fv-bench-avg">{{ "%.1f"|format(p.avg) if p.avg else "—" }}</div>
+            <div class="fv-bench-avg">{{ "%.1f"|format(p.avg) if p.avg else "-" }}</div>
           </div>
         </div>
         {% endfor %}

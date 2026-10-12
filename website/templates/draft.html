@@ -33,7 +33,7 @@
             <td class="text-center">{{ row.rank_6_7 }}</td>
             <td class="text-center">{{ row.rank_8 }}</td>
             <td class="text-center fw-semibold">
-              {% if row.avg_rank is not none %}{{ row.avg_rank }}{% else %}—{% endif %}
+              {% if row.avg_rank is not none %}{{ row.avg_rank }}{% else %}-{% endif %}
             </td>
           </tr>
           {% endfor %}
@@ -59,7 +59,7 @@
   <summary class="fw-semibold text-muted" style="cursor:pointer;">How it works</summary>
   <div class="card card-body small mt-2 text-muted">
     <p class="mb-2">
-      <strong>Scoring.</strong> Each player's average is adjusted for missed games — all absences (including bye rounds)
+      <strong>Scoring.</strong> Each player's average is adjusted for missed games: all absences (including bye rounds)
       are filled with the estimated replacement-level score for their position, so a high scorer who misses rounds is
       rated fairly rather than rewarded or harshly penalised.
     </p>
@@ -107,7 +107,7 @@
                 data-bs-title="{{ cell.player }}"
                 data-bs-content="{{ cell.peers_html | e }}"
                 {% endif %}>
-              <div>{{ cell.player or "—" }}</div>
+              <div>{{ cell.player or "-" }}</div>
               {% if cell.missed_non_bye or cell.missed_bye %}
               <div class="text-nowrap">
                 {% if cell.missed_non_bye and cell.missed_non_bye > 0 %}

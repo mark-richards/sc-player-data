@@ -192,6 +192,7 @@ def load_player_sources(
 
         team_id  = coach_to_team.get(coach)
         min_rnd  = min_round_map.get((pid, coach))
+        is_drafted_by_coach = fid in draft_source and draft_source[fid]["coach"] == coach
 
         info = None
         if team_id is not None:
@@ -201,6 +202,14 @@ def load_player_sources(
                 t for t in txns
                 if pd.notna(t.get("round")) and int(t["round"]) <= (min_rnd or 9999)
             ]
+            if is_drafted_by_coach:
+                # A round-1 transaction for a player this coach actually drafted is
+                # platform import noise, not a genuine pickup — seen in 2024, where
+                # an entire roster was logged as a single bulk "Free Agent"
+                # transaction at the same timestamp when the draft had to be
+                # recovered from an archived source. Only a LATER transaction
+                # (round > 1) reflects a real subsequent drop/re-add.
+                relevant = [t for t in relevant if int(t["round"]) > 1]
             if relevant:
                 row = relevant[-1]
                 rnd = row.get("round")
@@ -210,7 +219,7 @@ def load_player_sources(
                 }
 
         if info is None:
-            if fid in draft_source and draft_source[fid]["coach"] == coach:
+            if is_drafted_by_coach:
                 info = draft_source[fid]
             else:
                 info = {"source": "Draft", "round_acquired": 0}

@@ -6,7 +6,7 @@
 
 {# ── Rolling Average Line Chart ── #}
 <div class="card shadow-sm mb-4">
-  <div class="card-header fw-semibold">Power Rankings — 3 Round Average per Player</div>
+  <div class="card-header fw-semibold">Power Rankings: 3 Round Average per Player</div>
   <div class="card-body p-2">
     <div id="prChart"></div>
   </div>
@@ -40,11 +40,11 @@
             <td class="text-end fw-semibold">{{ "%.1f"|format(row.avg_3rd) }}</td>
             <td class="text-end fw-semibold"
                 style="background-color:{{ row.total_inj_color }}; color:{{ row.total_inj_text_color }};">
-              {{ row.total_injuries if row.total_injuries else "—" }}
+              {{ row.total_injuries if row.total_injuries else "-" }}
             </td>
             <td class="text-end fw-semibold"
                 style="background-color:{{ row.avg_inj_color }}; color:{{ row.avg_inj_text_color }};">
-              {{ "%.1f"|format(row.avg_inj) if row.avg_inj else "—" }}
+              {{ "%.1f"|format(row.avg_inj) if row.avg_inj else "-" }}
             </td>
             {% for cell in row.cells %}
             <td class="text-end fw-semibold pr-cell"
@@ -131,7 +131,7 @@
                     {% else %}
                       <span class="text-danger">{{ p.form_3rnd }}</span>
                     {% endif %}
-                  {% else %}—{% endif %}
+                  {% else %}-{% endif %}
                 </td>
                 <td class="text-end">{{ p.best | int }}</td>
                 <td class="text-end text-muted">{{ p.total | int }}</td>

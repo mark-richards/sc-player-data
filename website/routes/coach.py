@@ -28,7 +28,7 @@ def _positional_line_chart(player_df: pd.DataFrame, coach: str) -> dict:
     if player_df.empty or "coach_first_name" not in player_df.columns:
         fig = go.Figure()
         fig.update_layout(
-            title=f"{coach} — Positional Scores by Round",
+            title=f"{coach}: Positional Scores by Round",
             plot_bgcolor="white", paper_bgcolor="white", height=320,
             annotations=[dict(text="No player-level data available", showarrow=False, font=dict(color="#999"))],
         )
@@ -59,7 +59,7 @@ def _positional_line_chart(player_df: pd.DataFrame, coach: str) -> dict:
             ))
 
     fig.update_layout(
-        title=f"{coach} — Positional Scores by Round",
+        title=f"{coach}: Positional Scores by Round",
         xaxis=dict(title="Round", dtick=1, gridcolor="#e0e0e0"),
         yaxis=dict(title="On-field Points", gridcolor="#e0e0e0"),
         plot_bgcolor="white", paper_bgcolor="white",
