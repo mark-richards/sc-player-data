@@ -41,11 +41,19 @@ AWARD_ICONS: dict[str, dict] = {
     "trade_king":          {"type": "bi", "icon": "bi-arrow-left-right",  "color": "warning"},
 }
 
+# "highlight" = a flattering/celebratory result, "lowlight" = an unflattering
+# one. Boom or Bust sits with the lowlights: paired opposite Iron Man, and
+# "volatile/unreliable" reads as a knock rather than a compliment. Spoon
+# Dodge is a highlight even though it's about nearly getting the spoon - the
+# story is "they escaped it", a good outcome.
+LOWLIGHT_KEYS = {"lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest", "worst_draft_pick"}
+
 
 def _award(key: str, title: str, coach: str, subtitle: str, detail: str | None = None) -> dict:
     return {
         "key": key, "title": title, "coach": coach, "subtitle": subtitle, "detail": detail,
         "icon": AWARD_ICONS.get(key),
+        "group": "lowlight" if key in LOWLIGHT_KEYS else "highlight",
     }
 
 
