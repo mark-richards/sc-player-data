@@ -139,12 +139,23 @@
   <div class="card-body">
     <div class="row g-3">
       {% for entry in awards_by_coach %}
+      {% set hero_awards = entry.awards | selectattr('prominent') | list %}
+      {% set regular_awards = entry.awards | rejectattr('prominent') | list %}
       <div class="col-6 col-md-4 col-lg-3">
         <div class="border rounded p-2 h-100">
           <a href="{{ year_href('coach.coach_profile', season_year, coach_name=entry.coach) }}" class="text-decoration-none fw-semibold d-block mb-2">{{ entry.coach }}</a>
-          {% if entry.awards %}
+
+          {% for a in hero_awards %}
+          <div class="rounded text-center p-2 mb-2 {% if a.key == 'dawnbreaker' %}bg-warning-subtle border border-warning{% else %}bg-secondary-subtle border border-secondary{% endif %}">
+            <div style="font-size:1.8rem; line-height:1;">{{ a.icon.value if a.icon else '' }}</div>
+            <div class="fw-bold {% if a.key == 'dawnbreaker' %}text-warning-emphasis{% else %}text-secondary-emphasis{% endif %}">{{ a.title }}</div>
+            <div class="small text-muted">{{ a.subtitle }}</div>
+          </div>
+          {% endfor %}
+
+          {% if regular_awards %}
           <div class="d-flex flex-column gap-2">
-            {% for a in entry.awards %}
+            {% for a in regular_awards %}
             <div class="ps-2 border-start border-3 {% if a.group == 'highlight' %}border-success{% else %}border-secondary{% endif %}">
               <div class="d-flex align-items-center gap-1">
                 {% if a.icon %}
@@ -163,7 +174,9 @@
             </div>
             {% endfor %}
           </div>
-          {% else %}
+          {% endif %}
+
+          {% if not hero_awards and not regular_awards %}
           <div class="text-muted small fst-italic">No awards this season</div>
           {% endif %}
         </div>

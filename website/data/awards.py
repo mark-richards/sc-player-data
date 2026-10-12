@@ -21,6 +21,8 @@ IRON_MAN_MAX_RANK = 7           # Iron Man excludes the last-place finisher (con
 # Everything else is an emoji — several of these ideas (rollercoaster,
 # diamond, dread-face) have no good Bootstrap Icons equivalent anyway.
 AWARD_ICONS: dict[str, dict] = {
+    "dawnbreaker":         {"type": "emoji", "value": "🏆"},
+    "spoon":               {"type": "emoji", "value": "🥄"},
     "top_scorer":          {"type": "emoji", "value": "🔥"},
     "lowest_scorer":       {"type": "emoji", "value": "📉"},
     "best_run":            {"type": "emoji", "value": "⚡"},
@@ -46,7 +48,13 @@ AWARD_ICONS: dict[str, dict] = {
 # "volatile/unreliable" reads as a knock rather than a compliment. Spoon
 # Dodge is a highlight even though it's about nearly getting the spoon - the
 # story is "they escaped it", a good outcome.
-LOWLIGHT_KEYS = {"lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest", "worst_draft_pick"}
+LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest", "worst_draft_pick"}
+
+# Dawnbreaker (the league's own nickname for the premiership) and the Spoon
+# always lead a coach's card and get special "hero" styling — the premier
+# and the wooden-spooner are the headline story of a season, not just one
+# category among many.
+PROMINENT_KEYS = {"dawnbreaker", "spoon"}
 
 
 def _award(key: str, title: str, coach: str, subtitle: str, detail: str | None = None) -> dict:
@@ -54,7 +62,34 @@ def _award(key: str, title: str, coach: str, subtitle: str, detail: str | None =
         "key": key, "title": title, "coach": coach, "subtitle": subtitle, "detail": detail,
         "icon": AWARD_ICONS.get(key),
         "group": "lowlight" if key in LOWLIGHT_KEYS else "highlight",
+        "prominent": key in PROMINENT_KEYS,
     }
+
+
+def _dawnbreaker_and_spoon(year: int, ladder_df: pd.DataFrame, final_ranks: dict) -> list[dict]:
+    from website.data.finals import build_finals_bracket
+    from website.data.honour_board import get_season_result
+
+    awards = []
+
+    try:
+        finals_bracket = build_finals_bracket(ladder_df, year=year)
+    except Exception:
+        finals_bracket = None
+    premier = finals_bracket["premier"] if finals_bracket else None
+    if not premier:
+        result = get_season_result(year)
+        premier = result.get("champion") if result else None
+    if premier:
+        awards.append(_award("dawnbreaker", "Dawnbreaker", premier, f"{year} Premier"))
+
+    if final_ranks:
+        spoon_rank = max(final_ranks.values())
+        spoon_coach = next((c for c, r in final_ranks.items() if r == spoon_rank), None)
+        if spoon_coach:
+            awards.append(_award("spoon", "Spoon", spoon_coach, f"{year} Wooden Spoon"))
+
+    return awards
 
 
 def _top_lowest_scorer(ladder_df: pd.DataFrame) -> list[dict]:
@@ -242,6 +277,7 @@ def build_season_awards(year: int) -> list[dict]:
     final_ranks = dict(zip(standings["coach_first_name"], standings["ladder_pos"])) if not standings.empty else {}
 
     awards: list[dict] = []
+    awards += _dawnbreaker_and_spoon(year, ladder, final_ranks)
     awards += _top_lowest_scorer(reg_ladder)
     awards += _best_run(reg_fixtures)
     awards += _iron_man_boom_bust(reg_fixtures, final_ranks)
