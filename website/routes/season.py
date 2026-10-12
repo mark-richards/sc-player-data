@@ -2,8 +2,11 @@
 routes/season.py — Season summary page (/ and /season/<year>).
 """
 import json
+import logging
 
 from flask import Blueprint, render_template
+
+log = logging.getLogger(__name__)
 
 from website.config import SEASON_YEAR
 from website.data.loader import (
@@ -17,6 +20,7 @@ from website.data.simulation import run_monte_carlo
 from website.data.fixture_strength import build_fixture_strength, build_monte_carlo_schedule_sim
 from website.data.finals import build_finals_bracket, season_phase
 from website.data.honour_board import get_season_result
+from website.data.awards import build_season_awards
 
 bp = Blueprint("season", __name__)
 
@@ -82,6 +86,14 @@ def season_summary(year: int | None = None):
 
     season_result = None if is_current_season else get_season_result(year)
 
+    awards = []
+    if phase == "completed":
+        try:
+            awards = build_season_awards(year)
+        except Exception:
+            log.warning("build_season_awards failed for %s", year, exc_info=True)
+            awards = []
+
     return render_template(
         "season_summary.html",
         standings=standings.to_dict(orient="records"),
@@ -96,4 +108,5 @@ def season_summary(year: int | None = None):
         monte_carlo_sim=monte_carlo_sim,
         finals_bracket=finals_bracket,
         season_result=season_result,
+        awards=awards,
     )

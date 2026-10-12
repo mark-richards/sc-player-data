@@ -333,20 +333,29 @@ def build_coach_summary(draft_df: pd.DataFrame, coach_order: list[str]) -> list[
     return rows
 
 
-def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
-                     coach_order: list[str], sc_df: pd.DataFrame,
-                     sc_round_df: "pd.DataFrame | None" = None):
+def _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map: dict,
+                                sc_df: pd.DataFrame,
+                                sc_round_df: "pd.DataFrame | None" = None) -> "pd.DataFrame | None":
     """
-    Main entry point. Returns (coach_summary, board_rows, n_rounds, coach_order).
+    Shared pipeline behind both load_draft_board() (the Heat Map page) and
+    get_pick_value_extremes() (the Best/Worst Draft Pick award): loads the
+    draft CSV, attaches each pick's position-normalised Z-score (final_score),
+    and computes rank_in_round + pick_value, both from the same forward
+    8-pick sliding window (the pick + next 7, clamped at the boundary).
 
-    sc_df: output of load_sc_current() — SC-official per-round scores (primary source).
-    sc_round_df: output of load_sc_round_files() — SC-official bulk round data covering
-                 every player regardless of fantasy roster, used as ground truth for
-                 whether a player actually played a round.
+    rank_in_round: 1-8 position within the window, sorted by final_score —
+                   drives the Heat Map's colour tiers.
+    pick_value:    final_score minus the window's own average final_score —
+                   how much better/worse this pick was than its immediate
+                   neighbours, i.e. value relative to draft slot rather than
+                   raw player quality (a 1st-overall pick being a great player
+                   isn't a "steal"; outperforming the picks around it is).
+
+    Returns None if draft_csv doesn't exist.
     """
     if not draft_csv.exists():
         log.error("Draft CSV not found: %s", draft_csv)
-        return [], [], 0, coach_order
+        return None
 
     draft_df = _load_draft(draft_csv, alias_map)
 
@@ -374,9 +383,12 @@ def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
     max_pick  = int(draft_df["pick"].max())
     win_size  = 8
 
-    def _window_rank(pick_num: int, df: pd.DataFrame) -> int:
+    def _window_bounds(pick_num: int) -> tuple[int, int]:
         start = min(pick_num, max_pick - win_size + 1)
-        end   = start + win_size - 1
+        return start, start + win_size - 1
+
+    def _window_rank(pick_num: int, df: pd.DataFrame) -> int:
+        start, end = _window_bounds(pick_num)
         window = (
             df[(df["pick"] >= start) & (df["pick"] <= end)]
             .sort_values("final_score", ascending=False, na_position="last")
@@ -385,10 +397,70 @@ def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
         idx = window.index[window["pick"] == pick_num].tolist()
         return idx[0] + 1 if idx else win_size
 
+    def _window_avg_score(pick_num: int, df: pd.DataFrame) -> float:
+        start, end = _window_bounds(pick_num)
+        window = df[(df["pick"] >= start) & (df["pick"] <= end)]
+        return window["final_score"].mean()
+
     draft_df["rank_in_round"] = draft_df["pick"].apply(
         lambda p: _window_rank(int(p), draft_df)
     )
+    draft_df["window_avg_score"] = draft_df["pick"].apply(
+        lambda p: _window_avg_score(int(p), draft_df)
+    )
+    draft_df["pick_value"] = draft_df["final_score"] - draft_df["window_avg_score"]
+
+    return draft_df
+
+
+def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
+                     coach_order: list[str], sc_df: pd.DataFrame,
+                     sc_round_df: "pd.DataFrame | None" = None):
+    """
+    Main entry point for the Heat Map page. Returns (coach_summary, board_rows,
+    n_rounds, coach_order).
+
+    sc_df: output of load_sc_current() — SC-official per-round scores (primary source).
+    sc_round_df: output of load_sc_round_files() — SC-official bulk round data covering
+                 every player regardless of fantasy roster, used as ground truth for
+                 whether a player actually played a round.
+    """
+    draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df)
+    if draft_df is None:
+        return [], [], 0, coach_order
 
     summary  = build_coach_summary(draft_df, coach_order)
     board, n = build_board_table(draft_df, coach_order)
     return summary, board, n, coach_order
+
+
+def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
+                             sc_df: pd.DataFrame,
+                             sc_round_df: "pd.DataFrame | None" = None) -> dict | None:
+    """
+    For the Best/Worst Draft Pick awards: the single pick with the highest and
+    lowest pick_value (see _build_draft_df_with_ranks). Returns
+    {"best": {...}, "worst": {...}} or None if there's no usable draft data.
+    Each entry: coach, player, draft_round, pick, pick_value, final_score.
+    """
+    draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df)
+    if draft_df is None:
+        return None
+
+    valid = draft_df.dropna(subset=["pick_value"])
+    if valid.empty:
+        return None
+
+    def _row_to_dict(row) -> dict:
+        return {
+            "coach":        row["coach_name"],
+            "player":       str(row["Player"]),
+            "draft_round":  int(row["draft_round"]),
+            "pick":         int(row["pick"]),
+            "pick_value":   round(float(row["pick_value"]), 2),
+            "final_score":  round(float(row["final_score"]), 2),
+        }
+
+    best  = valid.loc[valid["pick_value"].idxmax()]
+    worst = valid.loc[valid["pick_value"].idxmin()]
+    return {"best": _row_to_dict(best), "worst": _row_to_dict(worst)}
