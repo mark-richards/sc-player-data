@@ -11,9 +11,10 @@ log = logging.getLogger(__name__)
 
 CLOSE_GAME_MARGIN = 55          # bottom quartile of every fixture margin in league history
 UNLUCKY_LUCK_THRESHOLD = 1.0    # luck_mc_index must clear this (either direction) to award
-UNLUCKY_FINALS_BONUS = 1.0      # added/subtracted when a finals-miss/sneak-in makes the story stronger
 SPOON_DODGE_THRESHOLD = 15.0    # spoon_pct (%) must clear this, among coaches who didn't get the spoon
 MIN_WIN_STREAK = 2
+WORST_PICK_MAX_ROUND = 8        # Worst Draft Pick only considers early/premium draft capital
+IRON_MAN_MAX_RANK = 7           # Iron Man excludes the last-place finisher (consistently bad isn't "iron man")
 
 
 def _award(key: str, title: str, coach: str, subtitle: str, detail: str | None = None) -> dict:
@@ -50,18 +51,26 @@ def _best_run(fixtures_df: pd.DataFrame) -> list[dict]:
     return [_award("best_run", "Best Run", best_coach, f"{best_streak} straight wins")]
 
 
-def _iron_man_boom_bust(fixtures_df: pd.DataFrame) -> list[dict]:
+def _iron_man_boom_bust(fixtures_df: pd.DataFrame, final_ranks: dict) -> list[dict]:
     if fixtures_df.empty:
         return []
     std_by_coach = fixtures_df.groupby("coach_first_name")["team_points"].std()
     if std_by_coach.empty or std_by_coach.isna().all():
         return []
-    iron_coach = std_by_coach.idxmin()
+
+    awards = []
+    # Iron Man excludes the last-place finisher: scoring consistently badly
+    # isn't the "rock-solid, reliable" story the award is meant to capture.
+    iron_candidates = std_by_coach[std_by_coach.index.map(lambda c: final_ranks.get(c, 99) <= IRON_MAN_MAX_RANK)]
+    if not iron_candidates.empty:
+        iron_coach = iron_candidates.idxmin()
+        awards.append(_award("iron_man", "Iron Man", iron_coach,
+                              f"{iron_candidates[iron_coach]:.0f} pt std-dev (most consistent)"))
+
     boom_coach = std_by_coach.idxmax()
-    return [
-        _award("iron_man", "Iron Man", iron_coach, f"{std_by_coach[iron_coach]:.0f} pt std-dev (most consistent)"),
-        _award("boom_or_bust", "Boom or Bust", boom_coach, f"{std_by_coach[boom_coach]:.0f} pt std-dev (most volatile)"),
-    ]
+    awards.append(_award("boom_or_bust", "Boom or Bust", boom_coach,
+                          f"{std_by_coach[boom_coach]:.0f} pt std-dev (most volatile)"))
+    return awards
 
 
 def _strong_finisher(fixtures_df: pd.DataFrame) -> list[dict]:
@@ -104,24 +113,21 @@ def _luck_awards(mc_results: list[dict]) -> list[dict]:
         return []
 
     spoon_rank = max(r["actual_rank"] for r in mc_results)
-
-    def _adjusted_unlucky(r: dict) -> float:
-        bonus = UNLUCKY_FINALS_BONUS if (r["actual_rank"] > 4 and r["avg_mc_rank"] <= 4) else 0.0
-        return r["luck_mc_index"] + bonus
-
-    def _adjusted_lucky(r: dict) -> float:
-        bonus = UNLUCKY_FINALS_BONUS if (r["actual_rank"] <= 4 and r["avg_mc_rank"] > 4) else 0.0
-        return r["luck_mc_index"] - bonus
-
     awards = []
 
-    unlucky = max(mc_results, key=_adjusted_unlucky)
-    if _adjusted_unlucky(unlucky) >= UNLUCKY_LUCK_THRESHOLD:
+    # Raw luck_mc_index only (actual_rank - avg_mc_rank across randomised
+    # schedules). An earlier version added a flat bonus for narrowly missing/
+    # sneaking into finals, but a razor-thin margin (e.g. avg_mc_rank 4.07,
+    # barely over the cutoff) got the exact same flat bonus as a decisive one
+    # (e.g. 6.5) - strong enough to wrongly flip the winner over a coach with
+    # a much bigger genuine luck swing. Removed rather than patched.
+    unlucky = max(mc_results, key=lambda r: r["luck_mc_index"])
+    if unlucky["luck_mc_index"] >= UNLUCKY_LUCK_THRESHOLD:
         awards.append(_award("unluckiest", "Unluckiest Coach", unlucky["coach"],
                               f"Finished rank {unlucky['actual_rank']}, averaged rank {unlucky['avg_mc_rank']:.2f} across simulated schedules"))
 
-    lucky = min(mc_results, key=_adjusted_lucky)
-    if _adjusted_lucky(lucky) <= -UNLUCKY_LUCK_THRESHOLD:
+    lucky = min(mc_results, key=lambda r: r["luck_mc_index"])
+    if lucky["luck_mc_index"] <= -UNLUCKY_LUCK_THRESHOLD:
         awards.append(_award("luckiest", "Luckiest Coach", lucky["coach"],
                               f"Finished rank {lucky['actual_rank']}, averaged rank {lucky['avg_mc_rank']:.2f} across simulated schedules"))
 
@@ -184,6 +190,7 @@ def build_season_awards(year: int) -> list[dict]:
     from website.data.loader import (
         load_ladder, load_fixtures, load_sc_current, load_sc_round_files, list_season_coaches,
     )
+    from website.data.standings import compute_standings
     from website.data.fixture_strength import build_monte_carlo_schedule_sim
     from website.data.draft_data import load_draft_board, get_pick_value_extremes
     from website.data.acquisition import load_player_sources, build_acquisition_stats, get_acquisition_kings
@@ -195,10 +202,13 @@ def build_season_awards(year: int) -> list[dict]:
     reg_ladder = ladder[ladder["round"] <= total_regular_rounds] if not ladder.empty else ladder
     reg_fixtures = fixtures[fixtures["round_number"] <= total_regular_rounds] if not fixtures.empty else fixtures
 
+    standings = compute_standings(reg_ladder, total_regular_rounds)
+    final_ranks = dict(zip(standings["coach_first_name"], standings["ladder_pos"])) if not standings.empty else {}
+
     awards: list[dict] = []
     awards += _top_lowest_scorer(reg_ladder)
     awards += _best_run(reg_fixtures)
-    awards += _iron_man_boom_bust(reg_fixtures)
+    awards += _iron_man_boom_bust(reg_fixtures, final_ranks)
     awards += _strong_finisher(reg_fixtures)
     awards += _close_calls_sunday_scaries(reg_fixtures)
 
@@ -222,7 +232,8 @@ def build_season_awards(year: int) -> list[dict]:
         )
         awards += _draft_heat_map_king(summary)
 
-        extremes = get_pick_value_extremes(draft_csv, player_list_csv, DRAFT_ALIAS_MAP, sc_df, sc_round_df)
+        extremes = get_pick_value_extremes(draft_csv, player_list_csv, DRAFT_ALIAS_MAP, sc_df, sc_round_df,
+                                            worst_max_round=WORST_PICK_MAX_ROUND)
         awards += _draft_pick_awards(extremes)
 
         player_sources = load_player_sources(

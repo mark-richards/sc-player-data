@@ -436,12 +436,18 @@ def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
 
 def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
                              sc_df: pd.DataFrame,
-                             sc_round_df: "pd.DataFrame | None" = None) -> dict | None:
+                             sc_round_df: "pd.DataFrame | None" = None,
+                             worst_max_round: int | None = None) -> dict | None:
     """
     For the Best/Worst Draft Pick awards: the single pick with the highest and
     lowest pick_value (see _build_draft_df_with_ranks). Returns
     {"best": {...}, "worst": {...}} or None if there's no usable draft data.
     Each entry: coach, player, draft_round, pick, pick_value, final_score.
+
+    worst_max_round: if given, "worst" is only drawn from draft_round <= this
+    (a late-round flier busting isn't a real story — nobody expected much
+    from it; a bust among the first few rounds' premium picks is). "best" is
+    never restricted — a late-round steal is still worth celebrating.
     """
     draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df)
     if draft_df is None:
@@ -461,6 +467,12 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
             "final_score":  round(float(row["final_score"]), 2),
         }
 
-    best  = valid.loc[valid["pick_value"].idxmax()]
-    worst = valid.loc[valid["pick_value"].idxmin()]
-    return {"best": _row_to_dict(best), "worst": _row_to_dict(worst)}
+    best = valid.loc[valid["pick_value"].idxmax()]
+    result = {"best": _row_to_dict(best)}
+
+    worst_pool = valid[valid["draft_round"] <= worst_max_round] if worst_max_round else valid
+    if not worst_pool.empty:
+        worst = worst_pool.loc[worst_pool["pick_value"].idxmin()]
+        result["worst"] = _row_to_dict(worst)
+
+    return result
