@@ -52,31 +52,13 @@ def create_app() -> Flask:
 
         selected_year = (request.view_args or {}).get("year", SEASON_YEAR)
 
-        def year_url(year):
+        def year_href(endpoint, year, **extra_args):
+            # The current season is exported at the flat root paths (not
+            # /season/<year>/...) by build_static.py, so drop the year arg
+            # to resolve to that same bare route on both the live app and
+            # the static export. Historical years get the year arg only if
+            # the target endpoint actually accepts one.
             from flask import current_app
-            args = dict(request.view_args or {})
-            if year == SEASON_YEAR:
-                # The current season is exported at the flat root paths (not
-                # /season/<year>/...) by build_static.py, so drop the year arg
-                # to resolve to that same bare route on both the live app and
-                # the static export.
-                args.pop("year", None)
-            else:
-                rules = [r for r in current_app.url_map.iter_rules() if r.endpoint == request.endpoint]
-                takes_year = any("year" in r.arguments for r in rules)
-                if takes_year:
-                    args["year"] = year
-            try:
-                return url_for(request.endpoint, **args)
-            except Exception:
-                return "#"
-
-        def season_url(endpoint, **extra_args):
-            # Build a link to a DIFFERENT page (e.g. the Draft Heat Map nav
-            # item) that preserves whichever season is currently selected,
-            # instead of always resetting to the current season.
-            from flask import current_app
-            year = selected_year
             args = dict(extra_args)
             if year != SEASON_YEAR:
                 rules = [r for r in current_app.url_map.iter_rules() if r.endpoint == endpoint]
@@ -88,10 +70,23 @@ def create_app() -> Flask:
             except Exception:
                 return "#"
 
+        def year_url(year):
+            # Switch to a different year on the SAME page (used by the nav's
+            # year-switcher dropdown).
+            args = {k: v for k, v in (request.view_args or {}).items() if k != "year"}
+            return year_href(request.endpoint, year, **args)
+
+        def season_url(endpoint, **extra_args):
+            # Link to a DIFFERENT page (e.g. the Draft Heat Map nav item)
+            # that preserves whichever season is currently selected, instead
+            # of always resetting to the current season.
+            return year_href(endpoint, selected_year, **extra_args)
+
         return dict(
             available_seasons=list_available_seasons(),
             year_url=year_url,
             season_url=season_url,
+            year_href=year_href,
             nav_coaches=list_season_coaches(selected_year),
         )
 

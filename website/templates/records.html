@@ -72,14 +72,29 @@
         </thead>
         <tbody>
           {% for s in seasons %}
+          {% set has_data = s.year in available_seasons %}
           <tr>
-            <td class="fw-semibold">{{ s.year }}</td>
-            <td class="text-muted">{{ s.asl }}</td>
-            <td class="text-success fw-semibold">{{ s.champion or "—" }}</td>
-            <td>{{ s.runner_up or "—" }}</td>
-            <td class="text-muted">{{ s.finalist_3 or "—" }}</td>
-            <td class="text-muted">{{ s.finalist_4 or "—" }}</td>
-            <td class="text-danger">{{ s.spoon or "—" }}</td>
+            <td class="fw-semibold">
+              {% if has_data %}<a href="{{ year_href('season.season_summary', s.year) }}" class="text-decoration-none" title="View {{ s.year }} season overview">{{ s.year }}</a>{% else %}{{ s.year }}{% endif %}
+            </td>
+            <td class="text-muted">
+              {% if has_data %}<a href="{{ year_href('season.season_summary', s.year) }}" class="text-decoration-none text-muted">{{ s.asl }}</a>{% else %}{{ s.asl }}{% endif %}
+            </td>
+            <td class="text-success fw-semibold">
+              {% if s.champion and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.champion) }}" class="text-decoration-none text-success">{{ s.champion }}</a>{% else %}{{ s.champion or "—" }}{% endif %}
+            </td>
+            <td>
+              {% if s.runner_up and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.runner_up) }}" class="text-decoration-none">{{ s.runner_up }}</a>{% else %}{{ s.runner_up or "—" }}{% endif %}
+            </td>
+            <td class="text-muted">
+              {% if s.finalist_3 and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.finalist_3) }}" class="text-decoration-none text-muted">{{ s.finalist_3 }}</a>{% else %}{{ s.finalist_3 or "—" }}{% endif %}
+            </td>
+            <td class="text-muted">
+              {% if s.finalist_4 and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.finalist_4) }}" class="text-decoration-none text-muted">{{ s.finalist_4 }}</a>{% else %}{{ s.finalist_4 or "—" }}{% endif %}
+            </td>
+            <td class="text-danger">
+              {% if s.spoon and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.spoon) }}" class="text-decoration-none text-danger">{{ s.spoon }}</a>{% else %}{{ s.spoon or "—" }}{% endif %}
+            </td>
           </tr>
           {% endfor %}
         </tbody>
