@@ -10,7 +10,6 @@ from website.data.loader import load_fixtures, load_player_matches, load_fanfoot
 from website.data.power_rankings import (
     build_power_rankings_chart,
     build_power_rankings_table,
-    build_player_rankings,
 )
 
 bp = Blueprint("power_rankings", __name__)
@@ -39,19 +38,10 @@ def power_rankings(year: int | None = None):
     pr_chart = pio.to_json(build_power_rankings_chart(fixtures, players, COACH_PORTRAITS))
     pr_table = build_power_rankings_table(fixtures, players, fanfooty)
 
-    rankings = {
-        "overall": build_player_rankings(players),
-        "DEF":     build_player_rankings(players, "DEF"),
-        "MID":     build_player_rankings(players, "MID"),
-        "RUC":     build_player_rankings(players, "RUC"),
-        "FWD":     build_player_rankings(players, "FWD"),
-    }
-
     return render_template(
         "power_rankings.html",
         pr_chart=pr_chart,
         pr_table=pr_table,
-        rankings=rankings,
         season_year=year,
         is_current_season=is_current_season,
     )
