@@ -166,13 +166,22 @@ def build_championship_drought(season_list: list[dict]) -> list[dict]:
     """
     Years since each coach's last title, sorted longest-waiting first.
     Coaches who've never won lead the list (an infinite drought beats any
-    finite one) and are flagged never_won=True instead of a numeric drought.
+    finite one) and are flagged never_won=True — but still carry a
+    seasons_played count instead of just a bare "-", since "never won in 14
+    seasons" is the actual story, not just a boolean.
+
+    bar_value/bar_pct are included for a horizontal-bar leaderboard: for a
+    never-won coach, bar_value is their seasons played (so the bar reflects
+    how long they've been waiting, not an arbitrary max); for everyone else
+    it's their numeric drought. bar_pct is relative to the largest bar_value
+    in the list, so droughts are directly comparable at a glance.
     """
     from website.config import COACH_ORDER
 
     if not season_list:
         return []
     current_year = max(s["year"] for s in season_list)
+    seasons_played = len(season_list)
     last_title: dict[str, int] = {}
     for s in season_list:
         champ = s.get("champion")
@@ -183,15 +192,25 @@ def build_championship_drought(season_list: list[dict]) -> list[dict]:
     for coach in COACH_ORDER:
         if coach in last_title:
             rows.append({"coach": coach, "last_title": last_title[coach],
-                         "drought": current_year - last_title[coach], "never_won": False})
+                         "drought": current_year - last_title[coach], "never_won": False,
+                         "bar_value": current_year - last_title[coach]})
         else:
-            rows.append({"coach": coach, "last_title": None, "drought": None, "never_won": True})
+            rows.append({"coach": coach, "last_title": None, "drought": None, "never_won": True,
+                         "seasons_played": seasons_played, "bar_value": seasons_played})
     rows.sort(key=lambda r: (not r["never_won"], -(r["drought"] or 0)))
+
+    max_bar = max((r["bar_value"] for r in rows), default=1) or 1
+    for r in rows:
+        r["bar_pct"] = round(r["bar_value"] / max_bar * 100)
     return rows
 
 
 def build_bridesmaid_tally(season_list: list[dict]) -> list[dict]:
-    """Runner-up finish counts per coach, most first. Coaches with zero are omitted."""
+    """
+    Runner-up finish counts per coach, most first. Coaches with zero are
+    omitted. bar_pct is relative to the highest count, for a horizontal-bar
+    leaderboard (same visual language as Championship Drought).
+    """
     from website.config import COACH_ORDER
 
     counts = {c: 0 for c in COACH_ORDER}
@@ -201,6 +220,10 @@ def build_bridesmaid_tally(season_list: list[dict]) -> list[dict]:
             counts[ru] += 1
     rows = [{"coach": c, "count": n} for c, n in counts.items() if n > 0]
     rows.sort(key=lambda r: -r["count"])
+
+    max_count = max((r["count"] for r in rows), default=1) or 1
+    for r in rows:
+        r["bar_pct"] = round(r["count"] / max_count * 100)
     return rows
 
 

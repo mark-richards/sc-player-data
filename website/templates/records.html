@@ -258,25 +258,18 @@
   <div class="col-lg-6">
     <div class="card shadow-sm h-100">
       <div class="card-header fw-semibold">⏳ Championship Drought</div>
-      <div class="card-body p-0">
-        <table class="table table-sm table-hover mb-0 align-middle">
-          <thead class="table-dark">
-            <tr><th>Coach</th><th>Last Title</th><th class="text-end">Drought</th></tr>
-          </thead>
-          <tbody>
-            {% for r in drought %}
-            <tr>
-              <td><a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a></td>
-              <td>
-                {% if r.never_won %}<span class="text-danger">Never won</span>{% else %}{{ r.last_title }}{% endif %}
-              </td>
-              <td class="text-end">
-                {% if r.never_won %}<span class="text-danger fw-semibold">-</span>{% else %}{{ r.drought }} season{{ 's' if r.drought != 1 }}{% endif %}
-              </td>
-            </tr>
-            {% endfor %}
-          </tbody>
-        </table>
+      <div class="card-body">
+        {% for r in drought %}
+        <div class="d-flex align-items-center gap-2 {% if not loop.last %}mb-2{% endif %}">
+          <a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold small" style="width:4.2rem; flex-shrink:0;">{{ r.coach }}</a>
+          <div class="flex-grow-1 bg-body-tertiary rounded" style="height:1.3rem; overflow:hidden;">
+            <div class="h-100 rounded {% if r.never_won %}bg-danger{% else %}bg-primary{% endif %}" style="width:{{ r.bar_pct }}%;"></div>
+          </div>
+          <span class="small text-muted text-end" style="min-width:10rem; flex-shrink:0;">
+            {% if r.never_won %}Never won ({{ r.seasons_played }} seasons){% elif r.drought == 0 %}Reigning champion{% else %}{{ r.drought }} season{{ 's' if r.drought != 1 }}{% endif %}
+          </span>
+        </div>
+        {% endfor %}
       </div>
     </div>
   </div>
@@ -288,18 +281,17 @@
     <div class="card shadow-sm h-100">
       <div class="card-header fw-semibold">🥈 Bridesmaid Tally</div>
       <div class="card-body">
-        <div class="row g-2">
-          {% for r in bridesmaid %}
-          <div class="col-6 col-md-4">
-            <div class="border rounded p-2 text-center">
-              <a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold d-block">{{ r.coach }}</a>
-              <span class="text-muted small">{{ r.count }} runner-up{{ 's' if r.count != 1 }}</span>
-            </div>
+        {% for r in bridesmaid %}
+        <div class="d-flex align-items-center gap-2 {% if not loop.last %}mb-2{% endif %}">
+          <a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold small" style="width:4.2rem; flex-shrink:0;">{{ r.coach }}</a>
+          <div class="flex-grow-1 bg-body-tertiary rounded" style="height:1.3rem; overflow:hidden;">
+            <div class="h-100 rounded bg-secondary" style="width:{{ r.bar_pct }}%;"></div>
           </div>
-          {% endfor %}
+          <span class="small text-muted text-end" style="min-width:10rem; flex-shrink:0;">{{ r.count }} runner-up{{ 's' if r.count != 1 }}</span>
         </div>
+        {% endfor %}
       </div>
-      <div class="card-footer text-muted small">Most Grand Final losses — the heartbreak leaderboard.</div>
+      <div class="card-footer text-muted small">Most Grand Final losses, the heartbreak leaderboard.</div>
     </div>
   </div>
   {% endif %}
