@@ -9,6 +9,22 @@ import pandas as pd
 
 log = logging.getLogger(__name__)
 
+# Injected from app.py after Flask-Caching is set up. build_season_awards()
+# is expensive (a Monte Carlo sim + draft heat-map ranking per call) and
+# deterministic for a given year, so it's memoized the same way loader.py
+# memoizes its CSV reads.
+cache = None
+
+
+def _memoize(fn):
+    def wrapper(*args, **kwargs):
+        if cache is not None:
+            return cache.memoize()(fn)(*args, **kwargs)
+        return fn(*args, **kwargs)
+    wrapper.__name__ = fn.__name__
+    return wrapper
+
+
 CLOSE_GAME_MARGIN = 55          # bottom quartile of every fixture margin in league history
 UNLUCKY_LUCK_THRESHOLD = 1.0    # luck_mc_index must clear this (either direction) to award
 SPOON_DODGE_THRESHOLD = 15.0    # spoon_pct (%) must clear this, among coaches who didn't get the spoon
@@ -289,6 +305,7 @@ def _acquisition_kings(kings: dict) -> list[dict]:
     return awards
 
 
+@_memoize
 def build_season_awards(year: int) -> list[dict]:
     """
     Returns a list of award dicts: {key, title, coach, subtitle, detail}.

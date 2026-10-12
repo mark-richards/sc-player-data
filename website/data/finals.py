@@ -31,6 +31,25 @@ def _load_round_fixtures(json_dir, rnd: int) -> list[dict]:
     return matches
 
 
+def load_finals_fixtures(year: int) -> list[dict]:
+    """
+    Every finals-round fixture for a season (2 or 3 rounds, per season_meta's
+    finals_weeks), flattened into the same {coach1, score1, coach2, score2,
+    winner} shape _load_round_fixtures returns. Used for all-time stats that
+    want finals included (e.g. the Hall of Fame's Head-to-Head), unlike
+    ladder/fixtures.csv which is deliberately regular-season-only.
+    """
+    meta = season_meta(year)
+    total_regular_rounds = meta["total_regular_rounds"]
+    finals_weeks = meta["finals_weeks"]
+    json_dir = finals_json_dir(year)
+
+    fixtures = []
+    for rnd in range(total_regular_rounds + 1, total_regular_rounds + finals_weeks + 1):
+        fixtures.extend(_load_round_fixtures(json_dir, rnd))
+    return fixtures
+
+
 def season_phase(year: int, current_round: int, finals_bracket: dict | None) -> str:
     """
     'completed'   — a past year, or the live season's Grand Final has been

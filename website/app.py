@@ -31,6 +31,13 @@ def create_app() -> Flask:
     import website.data.loader as loader
     loader.cache = cache
 
+    # build_season_awards() runs an expensive Monte Carlo sim + draft heat-map
+    # ranking per year — every Season Summary page calls it once, and the
+    # Hall of Fame page calls it once per completed season. Caching here
+    # benefits both.
+    import website.data.awards as awards_module
+    awards_module.cache = cache
+
     from website.routes.season         import bp as season_bp
     from website.routes.coach          import bp as coach_bp
     from website.routes.records        import bp as records_bp

@@ -1,101 +1,316 @@
 {% extends "base.html" %}
-{% block title %}Honour Board{% endblock %}
+{% block title %}Hall of Fame{% endblock %}
 
 {% block content %}
-<h2 class="mb-4">ASL Honour Board</h2>
+<h2 class="mb-4">ASL Hall of Fame</h2>
 
-{# All-time table #}
+{# ── All-Time Records + Season Results, side by side ── #}
+<div class="row g-3 mb-4">
+  <div class="col-lg-6">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">All-Time Records</div>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table table-hover table-sm mb-0 align-middle">
+            <thead class="table-dark">
+              <tr>
+                <th>Coach</th>
+                <th class="text-center" title="Championships won">🏆 Titles</th>
+                <th class="text-center">Grand Finals</th>
+                <th class="text-center">Finals Apps</th>
+                <th class="text-center">🥄 Spoons</th>
+                <th class="text-center">Seasons</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in all_time %}
+              <tr>
+                <td class="fw-semibold">
+                  <a href="/coach/{{ row.coach }}" class="text-decoration-none">{{ row.coach }}</a>
+                </td>
+                <td class="text-center">
+                  {% if row.Championships > 0 %}
+                    {% for _ in range(row.Championships) %}🏆{% endfor %}
+                    <span class="ms-1 text-muted small">({{ row.Championships }})</span>
+                  {% else %}
+                    <span class="text-muted">-</span>
+                  {% endif %}
+                </td>
+                <td class="text-center">{{ row.GF }}</td>
+                <td class="text-center">{{ row.Finals }}</td>
+                <td class="text-center">
+                  {% if row.Spoons > 0 %}
+                    {% for _ in range(row.Spoons) %}🥄{% endfor %}
+                    <span class="ms-1 text-muted small">({{ row.Spoons }})</span>
+                  {% else %}
+                    <span class="text-muted">-</span>
+                  {% endif %}
+                </td>
+                <td class="text-center text-muted">{{ row.Seasons }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-6">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">Season Results</div>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table table-hover table-sm mb-0">
+            <thead class="table-dark">
+              <tr>
+                <th>Season</th>
+                <th>🏆 Champion</th>
+                <th>Runner-up</th>
+                <th>3rd</th>
+                <th>4th</th>
+                <th>🥄 Spoon</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for s in seasons %}
+              {% set has_data = s.year in available_seasons %}
+              <tr>
+                <td class="fw-semibold">
+                  {% if has_data %}<a href="{{ year_href('season.season_summary', s.year) }}" class="text-decoration-none" title="View {{ s.year }} season overview">{{ s.year }} | {{ s.asl }}</a>{% else %}{{ s.year }} | {{ s.asl }}{% endif %}
+                </td>
+                <td class="text-success fw-semibold">
+                  {% if s.champion and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.champion) }}" class="text-decoration-none text-success">{{ s.champion }}</a>{% else %}{{ s.champion or "-" }}{% endif %}
+                </td>
+                <td>
+                  {% if s.runner_up and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.runner_up) }}" class="text-decoration-none">{{ s.runner_up }}</a>{% else %}{{ s.runner_up or "-" }}{% endif %}
+                </td>
+                <td class="text-muted">
+                  {% if s.finalist_3 and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.finalist_3) }}" class="text-decoration-none text-muted">{{ s.finalist_3 }}</a>{% else %}{{ s.finalist_3 or "-" }}{% endif %}
+                </td>
+                <td class="text-muted">
+                  {% if s.finalist_4 and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.finalist_4) }}" class="text-decoration-none text-muted">{{ s.finalist_4 }}</a>{% else %}{{ s.finalist_4 or "-" }}{% endif %}
+                </td>
+                <td class="text-danger">
+                  {% if s.spoon and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.spoon) }}" class="text-decoration-none text-danger">{{ s.spoon }}</a>{% else %}{{ s.spoon or "-" }}{% endif %}
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{# ── Trophy Cabinet ── #}
+{% if trophy_cabinet %}
 <div class="card shadow-sm mb-4">
-  <div class="card-header fw-semibold">All-Time Records</div>
-  <div class="card-body p-0">
-    <div class="table-responsive">
-      <table class="table table-hover table-sm mb-0 align-middle">
-        <thead class="table-dark">
-          <tr>
-            <th>Coach</th>
-            <th class="text-center" title="Championships won">🏆 Titles</th>
-            <th class="text-center">Grand Finals</th>
-            <th class="text-center">Finals Apps</th>
-            <th class="text-center">🥄 Spoons</th>
-            <th class="text-center">Seasons</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for row in all_time %}
-          <tr>
-            <td class="fw-semibold">
-              <a href="/coach/{{ row.coach }}" class="text-decoration-none">{{ row.coach }}</a>
-            </td>
-            <td class="text-center">
-              {% if row.Championships > 0 %}
-                {% for _ in range(row.Championships) %}🏆{% endfor %}
-                <span class="ms-1 text-muted small">({{ row.Championships }})</span>
-              {% else %}
-                <span class="text-muted">-</span>
-              {% endif %}
-            </td>
-            <td class="text-center">{{ row.GF }}</td>
-            <td class="text-center">{{ row.Finals }}</td>
-            <td class="text-center">
-              {% if row.Spoons > 0 %}
-                {% for _ in range(row.Spoons) %}🥄{% endfor %}
-                <span class="ms-1 text-muted small">({{ row.Spoons }})</span>
-              {% else %}
-                <span class="text-muted">-</span>
-              {% endif %}
-            </td>
-            <td class="text-center text-muted">{{ row.Seasons }}</td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
+  <div class="card-header fw-semibold">🏅 Trophy Cabinet</div>
+  <div class="card-body">
+    <div class="row g-3">
+      {% for entry in trophy_cabinet %}
+      <div class="col-md-6 col-lg-3">
+        <div class="border rounded p-3 h-100">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <a href="/coach/{{ entry.coach }}" class="text-decoration-none fw-bold fs-5">{{ entry.coach }}</a>
+            <span class="badge bg-dark">{{ entry.total }}</span>
+          </div>
+          {% if entry.entries %}
+          <div class="d-flex flex-column gap-1">
+            {% for e in entry.entries %}
+            <div class="d-flex align-items-center justify-content-between">
+              <div class="d-flex align-items-center gap-1">
+                {% if e.icon %}
+                  {% if e.icon.type == 'bi' %}
+                  <i class="bi {{ e.icon.icon }} text-{{ e.icon.color }}" style="font-size:0.8rem;"></i>
+                  {% else %}
+                  <span style="font-size:0.8rem;">{{ e.icon.value }}</span>
+                  {% endif %}
+                {% endif %}
+                <span class="small">{{ e.title }}</span>
+              </div>
+              <span class="small text-muted">x{{ e.count }}</span>
+            </div>
+            {% endfor %}
+          </div>
+          {% else %}
+          <div class="text-muted small fst-italic">No awards yet</div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
     </div>
   </div>
+  <div class="card-footer text-muted small">
+    Every per-season award category a coach has ever won, tallied across all completed seasons.
+  </div>
+</div>
+{% endif %}
+
+{# ── Notable Records ── #}
+{% if notable_records %}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">📊 Notable Records</div>
+  <div class="card-body">
+    <div class="row g-3">
+      {% if notable_records.highest %}
+      <div class="col-md-6 col-lg-4">
+        <div class="border rounded p-2 h-100">
+          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Highest Score Ever</div>
+          <div class="fw-bold fs-5">{{ notable_records.highest.points | int }} pts</div>
+          <div class="small">
+            <a href="/coach/{{ notable_records.highest.coach }}" class="text-decoration-none">{{ notable_records.highest.coach }}</a>
+            vs {{ notable_records.highest.opponent }}
+          </div>
+          <div class="text-muted" style="font-size:0.72rem;">{{ notable_records.highest.year }}, Round {{ notable_records.highest.round }}</div>
+        </div>
+      </div>
+      {% endif %}
+      {% if notable_records.lowest %}
+      <div class="col-md-6 col-lg-4">
+        <div class="border rounded p-2 h-100">
+          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Lowest Score Ever</div>
+          <div class="fw-bold fs-5">{{ notable_records.lowest.points | int }} pts</div>
+          <div class="small">
+            <a href="/coach/{{ notable_records.lowest.coach }}" class="text-decoration-none">{{ notable_records.lowest.coach }}</a>
+            vs {{ notable_records.lowest.opponent }}
+          </div>
+          <div class="text-muted" style="font-size:0.72rem;">{{ notable_records.lowest.year }}, Round {{ notable_records.lowest.round }}</div>
+        </div>
+      </div>
+      {% endif %}
+      {% if notable_records.blowout %}
+      <div class="col-md-6 col-lg-4">
+        <div class="border rounded p-2 h-100">
+          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Biggest Blowout</div>
+          <div class="fw-bold fs-5">{{ notable_records.blowout.margin | int }} pts</div>
+          <div class="small">
+            <a href="/coach/{{ notable_records.blowout.coach }}" class="text-decoration-none">{{ notable_records.blowout.coach }}</a>
+            def. {{ notable_records.blowout.opponent }}
+          </div>
+          <div class="text-muted" style="font-size:0.72rem;">{{ notable_records.blowout.year }}, Round {{ notable_records.blowout.round }}</div>
+        </div>
+      </div>
+      {% endif %}
+      {% if notable_records.closest %}
+      <div class="col-md-6 col-lg-4">
+        <div class="border rounded p-2 h-100">
+          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Closest Game Ever</div>
+          <div class="fw-bold fs-5">{{ notable_records.closest.margin | int }} pt{{ 's' if notable_records.closest.margin != 1 }}</div>
+          <div class="small">
+            <a href="/coach/{{ notable_records.closest.coach }}" class="text-decoration-none">{{ notable_records.closest.coach }}</a>
+            def. {{ notable_records.closest.opponent }}
+          </div>
+          <div class="text-muted" style="font-size:0.72rem;">{{ notable_records.closest.year }}, Round {{ notable_records.closest.round }}</div>
+        </div>
+      </div>
+      {% endif %}
+      {% if notable_records.draws is not none %}
+      <div class="col-md-6 col-lg-4">
+        <div class="border rounded p-2 h-100">
+          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Exact Draws</div>
+          <div class="fw-bold fs-5">{{ notable_records.draws }}</div>
+          <div class="small text-muted">in league history</div>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  <div class="card-footer text-muted small">Regular season only, same scope as every other per-season stat on the site.</div>
+</div>
+{% endif %}
+
+<div class="row g-3 mb-4">
+  {# ── Championship Drought ── #}
+  {% if drought %}
+  <div class="col-lg-6">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">⏳ Championship Drought</div>
+      <div class="card-body p-0">
+        <table class="table table-sm table-hover mb-0 align-middle">
+          <thead class="table-dark">
+            <tr><th>Coach</th><th>Last Title</th><th class="text-end">Drought</th></tr>
+          </thead>
+          <tbody>
+            {% for r in drought %}
+            <tr>
+              <td><a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a></td>
+              <td>
+                {% if r.never_won %}<span class="text-danger">Never won</span>{% else %}{{ r.last_title }}{% endif %}
+              </td>
+              <td class="text-end">
+                {% if r.never_won %}<span class="text-danger fw-semibold">-</span>{% else %}{{ r.drought }} season{{ 's' if r.drought != 1 }}{% endif %}
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+  {# ── Bridesmaid Tally ── #}
+  {% if bridesmaid %}
+  <div class="col-lg-6">
+    <div class="card shadow-sm h-100">
+      <div class="card-header fw-semibold">🥈 Bridesmaid Tally</div>
+      <div class="card-body">
+        <div class="row g-2">
+          {% for r in bridesmaid %}
+          <div class="col-6 col-md-4">
+            <div class="border rounded p-2 text-center">
+              <a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold d-block">{{ r.coach }}</a>
+              <span class="text-muted small">{{ r.count }} runner-up{{ 's' if r.count != 1 }}</span>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="card-footer text-muted small">Most Grand Final losses — the heartbreak leaderboard.</div>
+    </div>
+  </div>
+  {% endif %}
 </div>
 
-{# Season-by-season results #}
-<div class="card shadow-sm">
-  <div class="card-header fw-semibold">Season Results</div>
+{# ── Head-to-Head ── #}
+{% if head_to_head and head_to_head.coaches %}
+<div class="card shadow-sm mb-4">
+  <div class="card-header fw-semibold">⚔️ Head-to-Head</div>
   <div class="card-body p-0">
     <div class="table-responsive">
-      <table class="table table-hover table-sm mb-0">
+      <table class="table table-sm table-bordered mb-0 text-center align-middle" style="font-size:0.8rem;">
         <thead class="table-dark">
           <tr>
-            <th>Season</th>
-            <th>🏆 Champion</th>
-            <th>Runner-up</th>
-            <th>3rd</th>
-            <th>4th</th>
-            <th>🥄 Spoon</th>
+            <th></th>
+            {% for c in head_to_head.coaches %}<th>{{ c }}</th>{% endfor %}
           </tr>
         </thead>
         <tbody>
-          {% for s in seasons %}
-          {% set has_data = s.year in available_seasons %}
+          {% for row_coach in head_to_head.coaches %}
           <tr>
-            <td class="fw-semibold">
-              {% if has_data %}<a href="{{ year_href('season.season_summary', s.year) }}" class="text-decoration-none" title="View {{ s.year }} season overview">{{ s.year }} | {{ s.asl }}</a>{% else %}{{ s.year }} | {{ s.asl }}{% endif %}
-            </td>
-            <td class="text-success fw-semibold">
-              {% if s.champion and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.champion) }}" class="text-decoration-none text-success">{{ s.champion }}</a>{% else %}{{ s.champion or "-" }}{% endif %}
-            </td>
-            <td>
-              {% if s.runner_up and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.runner_up) }}" class="text-decoration-none">{{ s.runner_up }}</a>{% else %}{{ s.runner_up or "-" }}{% endif %}
-            </td>
-            <td class="text-muted">
-              {% if s.finalist_3 and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.finalist_3) }}" class="text-decoration-none text-muted">{{ s.finalist_3 }}</a>{% else %}{{ s.finalist_3 or "-" }}{% endif %}
-            </td>
-            <td class="text-muted">
-              {% if s.finalist_4 and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.finalist_4) }}" class="text-decoration-none text-muted">{{ s.finalist_4 }}</a>{% else %}{{ s.finalist_4 or "-" }}{% endif %}
-            </td>
-            <td class="text-danger">
-              {% if s.spoon and has_data %}<a href="{{ year_href('coach.coach_profile', s.year, coach_name=s.spoon) }}" class="text-decoration-none text-danger">{{ s.spoon }}</a>{% else %}{{ s.spoon or "-" }}{% endif %}
-            </td>
+            <th class="table-dark"><a href="/coach/{{ row_coach }}" class="text-decoration-none text-white">{{ row_coach }}</a></th>
+            {% for col_coach in head_to_head.coaches %}
+              {% if row_coach == col_coach %}
+              <td class="text-muted">-</td>
+              {% else %}
+                {% set rec = head_to_head.cells[row_coach][col_coach] %}
+                <td class="{% if rec.w > rec.l %}text-success fw-semibold{% elif rec.w < rec.l %}text-danger{% else %}text-muted{% endif %}">
+                  {{ rec.w }}-{{ rec.l }}{% if rec.d %}-{{ rec.d }}{% endif %}
+                </td>
+              {% endif %}
+            {% endfor %}
           </tr>
           {% endfor %}
         </tbody>
       </table>
     </div>
   </div>
+  <div class="card-footer text-muted small">
+    Row coach's record vs. column coach (W-L), including finals. Green = winning record, red = losing record.
+  </div>
 </div>
+{% endif %}
 {% endblock %}
