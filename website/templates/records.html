@@ -32,9 +32,6 @@
           {% endfor %}
         </div>
       </div>
-      {% if all_time and all_time|map(attribute='Seasons')|unique|list|length == 1 %}
-      <div class="card-footer text-muted small">All {{ all_time|length }} coaches have competed in all {{ all_time[0].Seasons }} seasons.</div>
-      {% endif %}
     </div>
   </div>
 
