@@ -494,8 +494,22 @@ def _build_current_teams(
 
 # ── Transactions parser ───────────────────────────────────────────────────────
 
+def _archive_raw(raw_dir: Path | None, url: str, data) -> None:
+    """Save a raw API response to data/raw/supercoach/{year}/ using the same
+    naming convention as _fetch_and_save_endpoint, so transaction-endpoint
+    archives reflect exactly what the CSV-building fetch below actually saw
+    (instead of a separate, independent fetch moments later)."""
+    if raw_dir is None:
+        return
+    import json as _json
+    raw_dir.mkdir(parents=True, exist_ok=True)
+    with open(raw_dir / _raw_filename(url), "w", encoding="utf-8") as f:
+        _json.dump(data, f)
+
+
 def _fetch_and_save_transactions(
-    year: int, league_id: str, token: str, transactions_csv: Path
+    year: int, league_id: str, token: str, transactions_csv: Path,
+    raw_dir: Path | None = None,
 ) -> int:
     """
     Fetches all three transaction endpoints and writes data/live/transactions.csv.
@@ -505,6 +519,17 @@ def _fetch_and_save_transactions(
       /processedWaivers → source = "Waiver"
       /trades           → source = "Free Agent"  (FA pickups: drop one, pick up from pool)
       /teamtrades       → source = "Trade"        (player-for-player between teams, status_id=7)
+
+    Each raw response is archived to data/raw/supercoach/{year}/ (if raw_dir is
+    given) so a future investigation can always see exactly what this fetch saw,
+    without a second, independent network call.
+
+    Regression guard: a source whose fresh fetch comes back with 0 rows while the
+    existing transactions.csv already had rows for that source is treated as a
+    probably-transient fetch failure (e.g. empty-but-200 response, bot-detection
+    block) rather than genuine data loss — the existing rows for that source are
+    kept instead of being silently wiped. This is what let an empty /teamtrades
+    response erase months of trade history in August 2026.
     """
     auth = {**_HEADERS, "Authorization": f"Bearer {token}"}
     base = f"https://www.supercoach.com.au/{year}/api/afl/draft/v1/leagues/{league_id}"
@@ -514,7 +539,9 @@ def _fetch_and_save_transactions(
     try:
         r = requests.get(f"{base}/processedWaivers", headers=auth, verify=False, timeout=30)
         r.raise_for_status()
-        for i, t in enumerate(r.json() or []):
+        waiver_payload = r.json() or []
+        _archive_raw(raw_dir, r.url, waiver_payload)
+        for i, t in enumerate(waiver_payload):
             pl   = t.get("player")         or {}
             drop = t.get("dropped_player") or {}
             rows.append({
@@ -543,7 +570,9 @@ def _fetch_and_save_transactions(
     try:
         r = requests.get(f"{base}/trades", headers=auth, verify=False, timeout=30)
         r.raise_for_status()
-        for t in (r.json() or []):
+        fa_payload = r.json() or []
+        _archive_raw(raw_dir, r.url, fa_payload)
+        for t in fa_payload:
             buy  = t.get("buy_player")  or {}
             sell = t.get("sell_player") or {}
             rows.append({
@@ -583,8 +612,10 @@ def _fetch_and_save_transactions(
     try:
         r = requests.get(f"{base}/teamtrades", headers=auth, verify=False, timeout=30)
         r.raise_for_status()
+        trade_payload = r.json() or []
+        _archive_raw(raw_dir, r.url, trade_payload)
         seen_trade_ids: set[int] = set()
-        for trade in (r.json() or []):
+        for trade in trade_payload:
             if trade.get("status_id") != 7:   # 7 = approved only
                 continue
             trade_id = trade.get("id")
@@ -643,6 +674,34 @@ def _fetch_and_save_transactions(
                  len(rows) - trade_start, len(seen_trade_ids))
     except Exception as exc:
         log.warning("teamtrades fetch failed: %s", exc)
+
+    fresh_counts = {
+        "Waiver":      fa_start,
+        "Free Agent":  trade_start - fa_start,
+        "Trade":       len(rows) - trade_start,
+    }
+
+    # ── Regression guard ──────────────────────────────────────────────────────
+    # A source that came back with 0 fresh rows while the existing file already
+    # had rows for it is far more likely a transient fetch problem (empty-but-200
+    # response, bot-detection block, timeout) than every one of those
+    # transactions having genuinely vanished. Keep the existing rows for that
+    # source rather than silently wiping it out.
+    if transactions_csv.exists():
+        try:
+            existing_df = pd.read_csv(transactions_csv, low_memory=False)
+        except Exception:
+            existing_df = pd.DataFrame()
+        if not existing_df.empty and "source" in existing_df.columns:
+            for source, fresh_count in fresh_counts.items():
+                existing_count = int((existing_df["source"] == source).sum())
+                if fresh_count == 0 and existing_count > 0:
+                    log.warning(
+                        "%s: fresh fetch returned 0 rows but transactions.csv had %d — "
+                        "keeping existing %s rows instead of overwriting them.",
+                        source, existing_count, source,
+                    )
+                    rows.extend(existing_df.loc[existing_df["source"] == source].to_dict("records"))
 
     if not rows:
         log.info("No transactions returned from any endpoint.")
@@ -833,13 +892,13 @@ def refresh_2026_data() -> bool:
         log.info("fixture_schedule_2026.csv: %d matchups", len(sched_df))
 
     # Fetch and save transactions (trades) → data/live/transactions.csv
+    # (also archives the raw processedWaivers/trades/teamtrades responses to
+    # data/raw/supercoach/{year}/ — no separate fetch of those three needed below)
     transactions_csv = Path(__file__).resolve().parent.parent.parent / "data" / "live" / "transactions.csv"
-    _fetch_and_save_transactions(SEASON_YEAR, LADDER_LEAGUE_ID, token, transactions_csv)
+    _fetch_and_save_transactions(SEASON_YEAR, LADDER_LEAGUE_ID, token, transactions_csv, raw_dir)
 
     # Archive additional league endpoints to data/raw/supercoach/{year}/
     # using the R naming convention (leagues_{id}_{endpoint}.json)
-    for ep in ("processedWaivers", "teamtrades", "trades"):
-        _fetch_and_save_endpoint(SEASON_YEAR, LADDER_LEAGUE_ID, ep, token, raw_dir)
     # playersStatus is under the draft league (LEAGUE_ID=4199), not the scoring league
     _fetch_and_save_endpoint(SEASON_YEAR, LEAGUE_ID, "playersStatus", token, raw_dir)
     # Draft recap (pick-by-pick)
