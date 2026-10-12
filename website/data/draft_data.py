@@ -350,8 +350,12 @@ def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
 
     draft_df = _load_draft(draft_csv, alias_map)
 
-    if sc_df is not None and not sc_df.empty and player_list_csv.exists():
-        player_list_df = pd.read_csv(player_list_csv, low_memory=False)
+    if sc_df is not None and not sc_df.empty:
+        # player_list_csv only exists for 2022+ (draft_prep/SC {year}/) — it's an
+        # optional enrichment _compute_effective_avg uses for zero-game players'
+        # team/position, not a requirement for computing real scores. Years
+        # without it (2017-2021) still get a proper performance-based ranking.
+        player_list_df = pd.read_csv(player_list_csv, low_memory=False) if player_list_csv.exists() else None
         player_data    = _compute_effective_avg(sc_df, player_list_df, sc_round_df)
         player_data    = _compute_zscores(player_data)
         draft_df = draft_df.merge(
@@ -359,7 +363,7 @@ def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
             on="feed_id", how="left",
         )
     else:
-        log.warning("SC current data or player list unavailable — final_score will be NaN.")
+        log.warning("SC current data unavailable - final_score will be NaN.")
         draft_df["final_score"]    = float("nan")
         draft_df["missed_bye"]     = 0
         draft_df["missed_non_bye"] = 0
