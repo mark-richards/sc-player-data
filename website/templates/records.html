@@ -105,42 +105,104 @@
 </div>
 
 {# ── Trophy Cabinet ── #}
-{% if trophy_cabinet %}
+{% if trophy_cabinet and trophy_cabinet.by_coach %}
+{% macro award_chip(e) %}
+  <span class="badge rounded-pill fw-normal d-inline-flex align-items-center gap-1 {% if e.group == 'highlight' %}bg-success-subtle text-success-emphasis border border-success-subtle{% else %}bg-secondary-subtle text-secondary-emphasis border border-secondary-subtle{% endif %}">
+    {% if e.icon %}
+      {% if e.icon.type == 'bi' %}<i class="bi {{ e.icon.icon }}"></i>{% else %}<span>{{ e.icon.value }}</span>{% endif %}
+    {% endif %}
+    <span>{{ e.title }} x{{ e.count }}</span>
+  </span>
+{% endmacro %}
 <div class="card shadow-sm mb-4">
-  <div class="card-header fw-semibold">🏅 Trophy Cabinet</div>
+  <div class="card-header fw-semibold d-flex justify-content-between align-items-center flex-wrap gap-2">
+    <span>🏅 Trophy Cabinet</span>
+    <ul class="nav nav-pills" id="cabinetTabs" role="tablist" style="font-size:0.8rem;">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active py-1 px-2" id="tab-by-coach" data-bs-toggle="tab" data-bs-target="#pane-by-coach" type="button" role="tab">By Coach</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link py-1 px-2" id="tab-by-award" data-bs-toggle="tab" data-bs-target="#pane-by-award" type="button" role="tab">By Award</button>
+      </li>
+    </ul>
+  </div>
   <div class="card-body">
-    <div class="row g-3">
-      {% for entry in trophy_cabinet %}
-      <div class="col-md-6 col-lg-3">
-        <div class="border rounded p-3 h-100">
-          <div class="d-flex justify-content-between align-items-center mb-2">
-            <a href="/coach/{{ entry.coach }}" class="text-decoration-none fw-bold fs-5">{{ entry.coach }}</a>
-            <span class="badge bg-dark">{{ entry.total }}</span>
-          </div>
-          {% if entry.entries %}
-          <div class="d-flex flex-column gap-1">
-            {% for e in entry.entries %}
-            <div class="d-flex align-items-center justify-content-between">
-              <div class="d-flex align-items-center gap-1">
-                {% if e.icon %}
-                  {% if e.icon.type == 'bi' %}
-                  <i class="bi {{ e.icon.icon }} text-{{ e.icon.color }}" style="font-size:0.8rem;"></i>
-                  {% else %}
-                  <span style="font-size:0.8rem;">{{ e.icon.value }}</span>
-                  {% endif %}
-                {% endif %}
-                <span class="small">{{ e.title }}</span>
+    <div class="tab-content">
+
+      {# ── By Coach ── #}
+      <div class="tab-pane fade show active" id="pane-by-coach" role="tabpanel">
+        <div class="row g-3">
+          {% for entry in trophy_cabinet.by_coach %}
+          {% set hero = entry.entries | selectattr('prominent') | list %}
+          {% set highlights = entry.entries | rejectattr('prominent') | selectattr('group', 'equalto', 'highlight') | list %}
+          {% set lowlights = entry.entries | rejectattr('prominent') | selectattr('group', 'equalto', 'lowlight') | list %}
+          <div class="col-md-6 col-lg-3">
+            <div class="border rounded p-3 h-100">
+              <div class="d-flex justify-content-between align-items-center mb-2">
+                <a href="/coach/{{ entry.coach }}" class="text-decoration-none fw-bold fs-5">{{ entry.coach }}</a>
+                <span class="badge bg-dark">{{ entry.total }}</span>
               </div>
-              <span class="small text-muted">x{{ e.count }}</span>
+
+              {% for e in hero %}
+              <div class="rounded text-center p-2 mb-2 {% if e.key == 'dawnbreaker' %}bg-warning-subtle border border-warning{% else %}bg-secondary-subtle border border-secondary{% endif %}">
+                <div style="font-size:1.6rem; line-height:1;">{{ e.icon.value if e.icon else '' }}</div>
+                <div class="fw-bold small {% if e.key == 'dawnbreaker' %}text-warning-emphasis{% else %}text-secondary-emphasis{% endif %}">{{ e.title }} x{{ e.count }}</div>
+              </div>
+              {% endfor %}
+
+              {% if highlights %}
+              <div class="small text-muted text-uppercase mb-1" style="font-size:0.63rem; letter-spacing:.03em;">Highlights</div>
+              <div class="d-flex flex-wrap gap-1 mb-2">
+                {% for e in highlights %}{{ award_chip(e) }}{% endfor %}
+              </div>
+              {% endif %}
+
+              {% if lowlights %}
+              <div class="small text-muted text-uppercase mb-1" style="font-size:0.63rem; letter-spacing:.03em;">Lowlights</div>
+              <div class="d-flex flex-wrap gap-1">
+                {% for e in lowlights %}{{ award_chip(e) }}{% endfor %}
+              </div>
+              {% endif %}
+
+              {% if not hero and not highlights and not lowlights %}
+              <div class="text-muted small fst-italic">No awards yet</div>
+              {% endif %}
             </div>
-            {% endfor %}
           </div>
-          {% else %}
-          <div class="text-muted small fst-italic">No awards yet</div>
-          {% endif %}
+          {% endfor %}
         </div>
       </div>
-      {% endfor %}
+
+      {# ── By Award ── #}
+      <div class="tab-pane fade" id="pane-by-award" role="tabpanel">
+        <div class="table-responsive">
+          <table class="table table-sm table-hover mb-0 align-middle" style="font-size:0.82rem;">
+            <thead class="table-dark">
+              <tr>
+                <th>Award</th>
+                {% for c in trophy_cabinet.coaches %}<th class="text-center">{{ c }}</th>{% endfor %}
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in trophy_cabinet.by_award %}
+              <tr>
+                <td class="fw-semibold d-flex align-items-center gap-1">
+                  {% if row.icon %}
+                    {% if row.icon.type == 'bi' %}<i class="bi {{ row.icon.icon }} text-{{ row.icon.color }}"></i>{% else %}<span>{{ row.icon.value }}</span>{% endif %}
+                  {% endif %}
+                  <span>{{ row.title }}</span>
+                </td>
+                {% for c in trophy_cabinet.coaches %}
+                {% set n = row.coach_counts.get(c, 0) %}
+                <td class="text-center {% if n == 0 %}text-muted{% else %}fw-semibold{% endif %}">{{ n if n > 0 else "-" }}</td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
     </div>
   </div>
   <div class="card-footer text-muted small">
@@ -151,71 +213,39 @@
 
 {# ── Notable Records ── #}
 {% if notable_records %}
+{% macro record_list(rows, label, suffix, show_margin=False, verb="vs") %}
+  <div class="col-md-6 col-lg-4">
+    <div class="border rounded p-2 h-100">
+      <div class="small text-muted text-uppercase mb-2" style="font-size:0.68rem; letter-spacing:.03em;">{{ label }}</div>
+      {% if rows %}
+      <div class="d-flex flex-column gap-1">
+        {% for r in rows %}
+        <div class="d-flex align-items-baseline gap-2 small">
+          <span class="text-muted" style="width:1rem; flex-shrink:0;">{{ loop.index }}.</span>
+          <span class="fw-bold" style="min-width:3.2rem;">{{ (r.margin if show_margin else r.points) | int }}{{ suffix }}</span>
+          <span class="flex-grow-1">
+            <a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a>
+            <span class="text-muted">{{ verb }} {{ r.opponent }}</span>
+          </span>
+          <span class="text-muted" style="font-size:0.72rem; white-space:nowrap;">{{ r.year }} R{{ r.round }}</span>
+        </div>
+        {% endfor %}
+      </div>
+      {% else %}
+      <div class="text-muted small fst-italic">None yet</div>
+      {% endif %}
+    </div>
+  </div>
+{% endmacro %}
 <div class="card shadow-sm mb-4">
   <div class="card-header fw-semibold">📊 Notable Records</div>
   <div class="card-body">
     <div class="row g-3">
-      {% if notable_records.highest %}
-      <div class="col-md-6 col-lg-4">
-        <div class="border rounded p-2 h-100">
-          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Highest Score Ever</div>
-          <div class="fw-bold fs-5">{{ notable_records.highest.points | int }} pts</div>
-          <div class="small">
-            <a href="/coach/{{ notable_records.highest.coach }}" class="text-decoration-none">{{ notable_records.highest.coach }}</a>
-            vs {{ notable_records.highest.opponent }}
-          </div>
-          <div class="text-muted" style="font-size:0.72rem;">{{ notable_records.highest.year }}, Round {{ notable_records.highest.round }}</div>
-        </div>
-      </div>
-      {% endif %}
-      {% if notable_records.lowest %}
-      <div class="col-md-6 col-lg-4">
-        <div class="border rounded p-2 h-100">
-          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Lowest Score Ever</div>
-          <div class="fw-bold fs-5">{{ notable_records.lowest.points | int }} pts</div>
-          <div class="small">
-            <a href="/coach/{{ notable_records.lowest.coach }}" class="text-decoration-none">{{ notable_records.lowest.coach }}</a>
-            vs {{ notable_records.lowest.opponent }}
-          </div>
-          <div class="text-muted" style="font-size:0.72rem;">{{ notable_records.lowest.year }}, Round {{ notable_records.lowest.round }}</div>
-        </div>
-      </div>
-      {% endif %}
-      {% if notable_records.blowout %}
-      <div class="col-md-6 col-lg-4">
-        <div class="border rounded p-2 h-100">
-          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Biggest Blowout</div>
-          <div class="fw-bold fs-5">{{ notable_records.blowout.margin | int }} pts</div>
-          <div class="small">
-            <a href="/coach/{{ notable_records.blowout.coach }}" class="text-decoration-none">{{ notable_records.blowout.coach }}</a>
-            def. {{ notable_records.blowout.opponent }}
-          </div>
-          <div class="text-muted" style="font-size:0.72rem;">{{ notable_records.blowout.year }}, Round {{ notable_records.blowout.round }}</div>
-        </div>
-      </div>
-      {% endif %}
-      {% if notable_records.closest %}
-      <div class="col-md-6 col-lg-4">
-        <div class="border rounded p-2 h-100">
-          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Closest Game Ever</div>
-          <div class="fw-bold fs-5">{{ notable_records.closest.margin | int }} pt{{ 's' if notable_records.closest.margin != 1 }}</div>
-          <div class="small">
-            <a href="/coach/{{ notable_records.closest.coach }}" class="text-decoration-none">{{ notable_records.closest.coach }}</a>
-            def. {{ notable_records.closest.opponent }}
-          </div>
-          <div class="text-muted" style="font-size:0.72rem;">{{ notable_records.closest.year }}, Round {{ notable_records.closest.round }}</div>
-        </div>
-      </div>
-      {% endif %}
-      {% if notable_records.draws is not none %}
-      <div class="col-md-6 col-lg-4">
-        <div class="border rounded p-2 h-100">
-          <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">Exact Draws</div>
-          <div class="fw-bold fs-5">{{ notable_records.draws }}</div>
-          <div class="small text-muted">in league history</div>
-        </div>
-      </div>
-      {% endif %}
+      {{ record_list(notable_records.highest, "Highest Scores Ever", " pts") }}
+      {{ record_list(notable_records.lowest, "Lowest Scores Ever", " pts") }}
+      {{ record_list(notable_records.blowout, "Biggest Blowouts", " pts", show_margin=True, verb="def.") }}
+      {{ record_list(notable_records.closest, "Closest Games Ever", " pts", show_margin=True, verb="def.") }}
+      {{ record_list(notable_records.draws, "Exact Draws", " pts", verb="drew with") }}
     </div>
   </div>
   <div class="card-footer text-muted small">Regular season only, same scope as every other per-season stat on the site.</div>

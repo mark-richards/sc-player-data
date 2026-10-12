@@ -33,15 +33,22 @@ def completed_years() -> list[int]:
     return sorted(years)
 
 
-def build_trophy_cabinet(years: list[int]) -> list[dict]:
+def build_trophy_cabinet(years: list[int]) -> dict:
     """
-    One entry per coach: every award key they've won at least once across
-    `years`, with a count, sorted by count descending (their biggest
-    specialty first). Returns [{coach, entries: [{key, title, icon, count}],
-    total}, ...] in config.COACH_ORDER.
+    Two views of the same award-win tallies:
+      by_coach: one entry per coach, {coach, entries: [...], total}, each
+        entry carrying group ("highlight"/"lowlight") and prominent (the
+        Dawnbreaker/Spoon headline treatment), same fields the per-season
+        Awards card uses — so a coach's card can give their championships
+        real visual weight instead of listing 18 categories as one flat,
+        equally-weighted list.
+      by_award: one row per award category actually won by someone,
+        {key, title, icon, group, prominent, coach_counts: {coach: n},
+        total}, for the "who's dominated each category" cross-coach view
+        the per-coach cards can't answer well.
     """
     from website.config import COACH_ORDER
-    from website.data.awards import build_season_awards, AWARD_ICONS
+    from website.data.awards import build_season_awards, AWARD_ICONS, LOWLIGHT_KEYS, PROMINENT_KEYS
 
     counts: dict[str, dict[str, int]] = {c: {} for c in COACH_ORDER}
     titles: dict[str, str] = {}
@@ -58,22 +65,43 @@ def build_trophy_cabinet(years: list[int]) -> list[dict]:
             counts[coach][a["key"]] = counts[coach].get(a["key"], 0) + 1
             titles[a["key"]] = a["title"]
 
-    cabinet = []
+    def _entry(key: str, count: int) -> dict:
+        return {
+            "key": key, "title": titles[key], "icon": AWARD_ICONS.get(key), "count": count,
+            "group": "lowlight" if key in LOWLIGHT_KEYS else "highlight",
+            "prominent": key in PROMINENT_KEYS,
+        }
+
+    by_coach = []
     for coach in COACH_ORDER:
-        entries = [
-            {"key": k, "title": titles[k], "icon": AWARD_ICONS.get(k), "count": n}
-            for k, n in sorted(counts[coach].items(), key=lambda kv: -kv[1])
-        ]
-        cabinet.append({"coach": coach, "entries": entries, "total": sum(counts[coach].values())})
-    return cabinet
+        entries = [_entry(k, n) for k, n in sorted(counts[coach].items(), key=lambda kv: -kv[1])]
+        by_coach.append({"coach": coach, "entries": entries, "total": sum(counts[coach].values())})
+
+    by_award = []
+    for key in titles:
+        coach_counts = {c: counts[c].get(key, 0) for c in COACH_ORDER}
+        entry = _entry(key, sum(coach_counts.values()))
+        entry["coach_counts"] = coach_counts
+        entry["total"] = entry.pop("count")
+        by_award.append(entry)
+    by_award.sort(key=lambda r: (not r["prominent"], r["group"] != "highlight", -r["total"]))
+
+    return {"by_coach": by_coach, "by_award": by_award, "coaches": COACH_ORDER}
 
 
-def build_notable_records(years: list[int]) -> dict:
+def build_notable_records(years: list[int], top_n: int = 5) -> dict:
     """
-    All-time extremes from regular-season fixtures (same scope as every
-    other per-season stat on the site — ladder.csv/fixtures.csv are
-    deliberately regular-season-only). Returns None for any record with no
-    usable data.
+    All-time top-`top_n` leaderboards from regular-season fixtures (same
+    scope as every other per-season stat on the site — ladder.csv/
+    fixtures.csv are deliberately regular-season-only). A single record per
+    category left each card mostly empty and hid whether one coach shows up
+    repeatedly — a ranked list surfaces that. Returns {} if there's no
+    usable data at all.
+
+    "draws" lists the actual games (deduped — each draw appears twice, once
+    per team, in the source data) rather than just a count, since there are
+    few enough in league history that listing them is more interesting than
+    a bare number.
     """
     from website.data.loader import load_fixtures
 
@@ -90,31 +118,47 @@ def build_notable_records(years: list[int]) -> dict:
     all_fx = pd.concat(frames, ignore_index=True)
     all_fx["margin"] = (all_fx["team_points"] - all_fx["opposition_team_points"]).abs()
 
-    def _fmt(row, with_margin=False) -> dict:
-        d = {
-            "coach":    row["coach_first_name"],
-            "opponent": row.get("opposition_team_coach"),
-            "points":   row["team_points"],
-            "year":     int(row["year"]),
-            "round":    int(row["round_number"]),
-        }
-        if with_margin:
-            d["margin"] = row["margin"]
-        return d
+    def _rows(df: pd.DataFrame, with_margin: bool = False) -> list[dict]:
+        rows = []
+        for _, row in df.iterrows():
+            d = {
+                "coach":    row["coach_first_name"],
+                "opponent": row.get("opposition_team_coach"),
+                "points":   row["team_points"],
+                "year":     int(row["year"]),
+                "round":    int(row["round_number"]),
+            }
+            if with_margin:
+                d["margin"] = row["margin"]
+            rows.append(d)
+        return rows
 
-    highest = all_fx.loc[all_fx["team_points"].idxmax()]
-    lowest  = all_fx.loc[all_fx["team_points"].idxmin()]
-    blowout = all_fx.loc[all_fx["margin"].idxmax()]
-    nonzero = all_fx[all_fx["margin"] > 0]
-    closest = nonzero.loc[nonzero["margin"].idxmin()] if not nonzero.empty else None
-    draws   = int((all_fx["margin"] == 0).sum() // 2)
+    # Every fixture appears twice in all_fx (once per team's perspective), so
+    # margin-based leaderboards (blowout/closest/draws) need deduping to one
+    # row per actual game first, or the same handful of games would fill
+    # most of the top 5 twice over. highest/lowest don't have this problem —
+    # each row there is legitimately one team's own score for that round.
+    games = all_fx.sort_values("win", ascending=False)
+    games["_pair_key"] = games.apply(
+        lambda r: (r["year"], r["round_number"],
+                   tuple(sorted([str(r["coach_first_name"]), str(r.get("opposition_team_coach"))]))),
+        axis=1,
+    )
+    games = games.drop_duplicates(subset="_pair_key", keep="first")
+
+    highest = all_fx.nlargest(top_n, "team_points")
+    lowest  = all_fx.nsmallest(top_n, "team_points")
+    blowout = games.nlargest(top_n, "margin")
+    nonzero = games[games["margin"] > 0]
+    closest = nonzero.nsmallest(top_n, "margin")
+    draws   = games[games["margin"] == 0].sort_values(["year", "round_number"])
 
     return {
-        "highest": _fmt(highest),
-        "lowest":  _fmt(lowest),
-        "blowout": _fmt(blowout, with_margin=True),
-        "closest": _fmt(closest, with_margin=True) if closest is not None else None,
-        "draws":   draws,
+        "highest": _rows(highest),
+        "lowest":  _rows(lowest),
+        "blowout": _rows(blowout, with_margin=True),
+        "closest": _rows(closest, with_margin=True),
+        "draws":   _rows(draws),
     }
 
 
