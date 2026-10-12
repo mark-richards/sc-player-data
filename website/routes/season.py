@@ -20,7 +20,7 @@ from website.data.simulation import run_monte_carlo
 from website.data.fixture_strength import build_fixture_strength, build_monte_carlo_schedule_sim
 from website.data.finals import build_finals_bracket, season_phase
 from website.data.honour_board import get_season_result
-from website.data.awards import build_season_awards
+from website.data.awards import build_season_awards, group_awards_by_coach
 
 bp = Blueprint("season", __name__)
 
@@ -87,12 +87,15 @@ def season_summary(year: int | None = None):
     season_result = None if is_current_season else get_season_result(year)
 
     awards = []
+    awards_by_coach = []
     if phase == "completed":
         try:
             awards = build_season_awards(year)
+            awards_by_coach = group_awards_by_coach(awards, standings["coach_first_name"].tolist())
         except Exception:
             log.warning("build_season_awards failed for %s", year, exc_info=True)
             awards = []
+            awards_by_coach = []
 
     return render_template(
         "season_summary.html",
@@ -109,4 +112,5 @@ def season_summary(year: int | None = None):
         finals_bracket=finals_bracket,
         season_result=season_result,
         awards=awards,
+        awards_by_coach=awards_by_coach,
     )

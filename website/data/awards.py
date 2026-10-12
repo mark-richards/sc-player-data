@@ -284,3 +284,20 @@ def build_season_awards(year: int) -> list[dict]:
         awards += _acquisition_kings(get_acquisition_kings(stats))
 
     return awards
+
+
+def group_awards_by_coach(awards: list[dict], coach_order: list[str]) -> list[dict]:
+    """
+    For displaying Awards grouped by coach instead of by category. Returns
+    one entry per coach in coach_order (final ladder position, so it reads
+    top-to-bottom the same way the Standings table below it does) - even a
+    coach who won nothing gets an entry, so the section reads as a complete
+    roster rather than looking cut off.
+
+    Each entry: {coach, awards: [...]}.
+    """
+    by_coach: dict[str, list[dict]] = {c: [] for c in coach_order}
+    for a in awards:
+        if a["coach"] in by_coach:
+            by_coach[a["coach"]].append(a)
+    return [{"coach": c, "awards": by_coach[c]} for c in coach_order]

@@ -132,48 +132,44 @@
 </style>
 {% endif %}
 
-{# ── Season Awards ── #}
-{% if awards %}
-{% macro award_card(a) %}
-  <div class="col-6 col-md-4 col-lg-3">
-    <div class="border rounded p-2 h-100">
-      <div class="d-flex align-items-center gap-2 mb-1">
-        {% if a.icon %}
-          {% if a.icon.type == 'bi' %}
-          <i class="bi {{ a.icon.icon }} text-{{ a.icon.color }}" style="font-size:1.1rem; line-height:1;"></i>
-          {% else %}
-          <span style="font-size:1.1rem; line-height:1;">{{ a.icon.value }}</span>
-          {% endif %}
-        {% endif %}
-        <div class="small text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.03em;">{{ a.title }}</div>
-      </div>
-      {% if a.coach %}
-      <a href="{{ year_href('coach.coach_profile', season_year, coach_name=a.coach) }}" class="text-decoration-none fw-semibold d-block">{{ a.coach }}</a>
-      {% endif %}
-      <div class="small">{{ a.subtitle }}</div>
-      {% if a.detail %}
-      <div class="text-muted" style="font-size:0.75rem;">{{ a.detail }}</div>
-      {% endif %}
-    </div>
-  </div>
-{% endmacro %}
-{% set highlights = awards | selectattr('group', 'equalto', 'highlight') | list %}
-{% set lowlights = awards | selectattr('group', 'equalto', 'lowlight') | list %}
+{# ── Season Awards (grouped by coach, ordered to match the Standings table below) ── #}
+{% if awards_by_coach %}
 <div class="card shadow-sm mb-4">
   <div class="card-header fw-semibold">🏅 {{ season_year }} Season Awards</div>
   <div class="card-body">
-    {% if highlights %}
-    <h6 class="fw-semibold mb-2">✨ Highlights</h6>
-    <div class="row g-3 mb-3">
-      {% for a in highlights %}{{ award_card(a) }}{% endfor %}
-    </div>
-    {% endif %}
-    {% if lowlights %}
-    <h6 class="fw-semibold text-muted mb-2">🙈 Lowlights</h6>
     <div class="row g-3">
-      {% for a in lowlights %}{{ award_card(a) }}{% endfor %}
+      {% for entry in awards_by_coach %}
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="border rounded p-2 h-100">
+          <a href="{{ year_href('coach.coach_profile', season_year, coach_name=entry.coach) }}" class="text-decoration-none fw-semibold d-block mb-2">{{ entry.coach }}</a>
+          {% if entry.awards %}
+          <div class="d-flex flex-column gap-2">
+            {% for a in entry.awards %}
+            <div class="ps-2 border-start border-3 {% if a.group == 'highlight' %}border-success{% else %}border-secondary{% endif %}">
+              <div class="d-flex align-items-center gap-1">
+                {% if a.icon %}
+                  {% if a.icon.type == 'bi' %}
+                  <i class="bi {{ a.icon.icon }} text-{{ a.icon.color }}" style="font-size:0.85rem; line-height:1;"></i>
+                  {% else %}
+                  <span style="font-size:0.85rem; line-height:1;">{{ a.icon.value }}</span>
+                  {% endif %}
+                {% endif %}
+                <span class="small fw-semibold">{{ a.title }}</span>
+              </div>
+              <div class="text-muted" style="font-size:0.72rem;">{{ a.subtitle }}</div>
+              {% if a.detail %}
+              <div class="text-muted" style="font-size:0.68rem;">{{ a.detail }}</div>
+              {% endif %}
+            </div>
+            {% endfor %}
+          </div>
+          {% else %}
+          <div class="text-muted small fst-italic">No awards this season</div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
     </div>
-    {% endif %}
   </div>
 </div>
 {% endif %}
