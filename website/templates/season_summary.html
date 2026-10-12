@@ -3,7 +3,16 @@
 
 {% block content %}
 <div class="d-flex justify-content-between align-items-center mb-3">
-  <h2 class="mb-0">{{ season_year }} Season — Round {{ current_round }}</h2>
+  <h2 class="mb-0">
+    {{ season_year }} Season
+    {% if season_phase == 'completed' %}
+      <span class="badge bg-secondary align-middle">Completed</span>
+    {% elif season_phase == 'finals' %}
+      <span class="badge bg-warning text-dark align-middle">Finals Series</span>
+    {% else %}
+      <span class="badge bg-success align-middle">Round {{ current_round }} — In Progress</span>
+    {% endif %}
+  </h2>
 </div>
 
 {# ── Completed-season result (fallback when no finals-bracket JSON exists yet) ── #}
@@ -143,7 +152,7 @@
             <th class="text-end">MID</th>
             <th class="text-end">RUC</th>
             <th class="text-end">FWD</th>
-            {% if is_current_season %}
+            {% if season_phase == 'in_progress' %}
             <th class="text-end">Finals%</th>
             <th class="text-end">GF%</th>
             <th class="text-end">Champ%</th>
@@ -185,8 +194,8 @@
               {% endif %}
             {% endfor %}
 
-            {# Simulation probabilities — forward-looking, only meaningful for the season in progress #}
-            {% if is_current_season %}
+            {# Simulation probabilities — forward-looking, only meaningful while the regular season is still being played #}
+            {% if season_phase == 'in_progress' %}
             <td class="text-end">{{ "%.1f"|format(row.finals_pct|default(0)) }}%</td>
             <td class="text-end">{{ "%.1f"|format(row.gf_pct|default(0)) }}%</td>
             <td class="text-end fw-semibold text-success">{{ "%.1f"|format(row.champ_pct|default(0)) }}%</td>
@@ -201,7 +210,7 @@
 </div>
 
 {# ── Simulation methodology note ── #}
-{% if is_current_season %}
+{% if season_phase == 'in_progress' %}
 <div class="mb-4">
   <a class="small text-muted text-decoration-none" data-bs-toggle="collapse" href="#simMethodology" role="button">
     How are these simulations calculated? ▾

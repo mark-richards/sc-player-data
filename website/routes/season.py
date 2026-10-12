@@ -15,7 +15,7 @@ from website.data.charts import ladder_journey_chart, score_boxplot, score_scatt
 from website.data.positional_ratings import compute_positional_ratings
 from website.data.simulation import run_monte_carlo
 from website.data.fixture_strength import build_fixture_strength, build_monte_carlo_schedule_sim
-from website.data.finals import build_finals_bracket
+from website.data.finals import build_finals_bracket, season_phase
 from website.data.honour_board import get_season_result
 
 bp = Blueprint("season", __name__)
@@ -45,9 +45,18 @@ def season_summary(year: int | None = None):
     pos_ratings = compute_positional_ratings(players, current_round)
     standings = standings.merge(pos_ratings, on="coach_first_name", how="left")
 
-    # Forward-looking premiership simulation only makes sense for the season
-    # still in progress — a completed season has an actual result instead.
-    if is_current_season:
+    try:
+        finals_bracket = build_finals_bracket(load_ladder(year), year=year)
+    except Exception:
+        finals_bracket = None
+
+    phase = season_phase(year, current_round, finals_bracket)
+
+    # Forward-looking premiership simulation only makes sense while the
+    # regular season is still being played — once it's done (finals underway
+    # or the season's fully decided) there are no "remaining rounds" to
+    # project, so re-running it would just produce a degenerate/stale result.
+    if phase == "in_progress":
         schedule = load_fixture_schedule(year)
         historical_scores = load_historical_scores()
         sim_results = run_monte_carlo(
@@ -71,11 +80,6 @@ def season_summary(year: int | None = None):
     except Exception:
         monte_carlo_sim = []
 
-    try:
-        finals_bracket = build_finals_bracket(load_ladder(year), year=year)
-    except Exception:
-        finals_bracket = None
-
     season_result = None if is_current_season else get_season_result(year)
 
     return render_template(
@@ -87,6 +91,7 @@ def season_summary(year: int | None = None):
         current_round=current_round,
         season_year=year,
         is_current_season=is_current_season,
+        season_phase=phase,
         fixture_strength=fixture_strength,
         monte_carlo_sim=monte_carlo_sim,
         finals_bracket=finals_bracket,

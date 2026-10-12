@@ -9,9 +9,11 @@ from flask import Blueprint, abort, render_template
 from website.config import SEASON_YEAR
 from website.data.loader import (
     load_current_teams, load_fixtures, load_player_matches, load_coach_portraits,
-    list_season_coaches,
+    load_ladder, list_season_coaches,
 )
 from website.data.charts import COACH_COLOURS
+from website.data.standings import get_current_round
+from website.data.finals import build_finals_bracket, season_phase
 from website.routes.field_view import fetch_current_team, load_weekly_changes
 
 bp = Blueprint("coach", __name__)
@@ -132,8 +134,21 @@ def coach_profile(coach_name: str, year: int | None = None):
     pos_chart = _positional_line_chart(players, coach_name)
 
     # "Current team" (upcoming-round lineup via live SC API) and its weekly
-    # diff only make sense for the season still in progress.
+    # diff only make sense while this season's outcome is still undecided —
+    # is_current_season alone doesn't distinguish "still playing" from "this
+    # year's season, but it already finished".
     if is_current_season:
+        ladder = load_ladder(year)
+        current_round = get_current_round(ladder)
+        try:
+            finals_bracket = build_finals_bracket(ladder, year=year)
+        except Exception:
+            finals_bracket = None
+        phase = season_phase(year, current_round, finals_bracket)
+    else:
+        phase = "completed"
+
+    if phase != "completed":
         field_data = fetch_current_team(coach_name)
         weekly_changes = load_weekly_changes(coach_name, field_data)
     else:

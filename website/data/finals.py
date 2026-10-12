@@ -31,6 +31,30 @@ def _load_round_fixtures(json_dir, rnd: int) -> list[dict]:
     return matches
 
 
+def season_phase(year: int, current_round: int, finals_bracket: dict | None) -> str:
+    """
+    'completed'   — a past year, or the live season's Grand Final has been
+                    decided (finals_bracket is populated).
+    'finals'      — regular season rounds are finished but the Grand Final
+                    hasn't been decided yet.
+    'in_progress' — regular season rounds are still being played.
+
+    Used to gate forward-looking UI (premiership simulation, live roster
+    widget) that only makes sense while a season's outcome is undecided —
+    `is_current_season` alone can't tell "still playing" apart from
+    "this year's season, but it already finished".
+    """
+    from website.config import SEASON_YEAR, season_meta
+    if year != SEASON_YEAR:
+        return "completed"
+    if finals_bracket is not None:
+        return "completed"
+    total_regular_rounds = season_meta(year)["total_regular_rounds"]
+    if current_round >= total_regular_rounds:
+        return "finals"
+    return "in_progress"
+
+
 def build_finals_bracket(ladder_df, year: int | None = None) -> dict | None:
     """
     Returns the finals bracket built from that season's saved
