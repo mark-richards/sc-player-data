@@ -50,6 +50,8 @@ def create_app() -> Flask:
         from website.config import SEASON_YEAR
         from website.data.loader import list_available_seasons, list_season_coaches
 
+        selected_year = (request.view_args or {}).get("year", SEASON_YEAR)
+
         def year_url(year):
             from flask import current_app
             args = dict(request.view_args or {})
@@ -69,10 +71,28 @@ def create_app() -> Flask:
             except Exception:
                 return "#"
 
+        def season_url(endpoint, **extra_args):
+            # Build a link to a DIFFERENT page (e.g. the Draft Heat Map nav
+            # item) that preserves whichever season is currently selected,
+            # instead of always resetting to the current season.
+            from flask import current_app
+            year = selected_year
+            args = dict(extra_args)
+            if year != SEASON_YEAR:
+                rules = [r for r in current_app.url_map.iter_rules() if r.endpoint == endpoint]
+                takes_year = any("year" in r.arguments for r in rules)
+                if takes_year:
+                    args["year"] = year
+            try:
+                return url_for(endpoint, **args)
+            except Exception:
+                return "#"
+
         return dict(
             available_seasons=list_available_seasons(),
             year_url=year_url,
-            nav_coaches=list_season_coaches(SEASON_YEAR),
+            season_url=season_url,
+            nav_coaches=list_season_coaches(selected_year),
         )
 
     def _current_round() -> int:

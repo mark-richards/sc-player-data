@@ -14,34 +14,34 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
   <div class="container-fluid">
-    <a class="navbar-brand fw-bold" href="/">🏉 ASL Fantasy {{ season_year|default(2026) }}</a>
+    <a class="navbar-brand fw-bold" href="{{ season_url('season.season_summary') }}">🏉 ASL Fantasy {{ season_year|default(2026) }}</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navMenu">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link {% if request.path == '/' %}active{% endif %}" href="/">Season Summary</a>
+          <a class="nav-link {% if request.path == '/' or request.path.startswith('/season/') %}active{% endif %}" href="{{ season_url('season.season_summary') }}">Season Summary</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Coaches</a>
           <ul class="dropdown-menu">
             {% for name in nav_coaches|default(['Anthony','James','Jordan','Lester','Luke','Mark','Paul','Simon']) %}
-            <li><a class="dropdown-item" href="/coach/{{ name }}">{{ name }}</a></li>
+            <li><a class="dropdown-item" href="{{ season_url('coach.coach_profile', coach_name=name) }}">{{ name }}</a></li>
             {% endfor %}
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if request.path.startswith('/power-rankings') %}active{% endif %}" href="/power-rankings">Power Rankings</a>
+          <a class="nav-link {% if request.path.startswith('/power-rankings') %}active{% endif %}" href="{{ season_url('power_rankings.power_rankings') }}">Power Rankings</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if request.path.startswith('/draft-heat-map') %}active{% endif %}" href="/draft-heat-map">Draft Heat Map</a>
+          <a class="nav-link {% if request.path.startswith('/draft-heat-map') %}active{% endif %}" href="{{ season_url('draft.draft_heat_map') }}">Draft Heat Map</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if request.path.startswith('/acquisition') %}active{% endif %}" href="/acquisition">Acquisition</a>
+          <a class="nav-link {% if request.path.startswith('/acquisition') %}active{% endif %}" href="{{ season_url('acquisition.acquisition') }}">Acquisition</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if request.path.startswith('/records') %}active{% endif %}" href="/records">Honour Board</a>
+          <a class="nav-link {% if request.path.startswith('/records') %}active{% endif %}" href="{{ season_url('records.records') }}">Honour Board</a>
         </li>
         {% if available_seasons and available_seasons|length > 1 %}
         <li class="nav-item dropdown">
