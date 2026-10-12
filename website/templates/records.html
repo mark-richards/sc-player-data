@@ -213,7 +213,7 @@
 
 {# ── Notable Records ── #}
 {% if notable_records %}
-{% macro record_list(rows, label, suffix, show_margin=False, verb="vs") %}
+{% macro record_list(rows, label, suffix, show_margin=False, verb="vs", show_score=True) %}
   <div class="col-md-6 col-lg-4">
     <div class="border rounded p-2 h-100">
       <div class="small text-muted text-uppercase mb-2" style="font-size:0.68rem; letter-spacing:.03em;">{{ label }}</div>
@@ -226,6 +226,11 @@
           <span class="flex-grow-1">
             <a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a>
             <span class="text-muted">{{ verb }} {{ r.opponent }}</span>
+            {% if show_score %}
+            <span class="text-muted" style="font-size:0.72rem;">
+              {% if show_margin %}({{ r.points | int }}&ndash;{{ r.opponent_points | int }}){% else %}({{ r.opponent_points | int }} pts){% endif %}
+            </span>
+            {% endif %}
           </span>
           <span class="text-muted" style="font-size:0.72rem; white-space:nowrap;">{{ r.year }} R{{ r.round }}</span>
         </div>
@@ -245,7 +250,7 @@
       {{ record_list(notable_records.lowest, "Lowest Scores Ever", " pts") }}
       {{ record_list(notable_records.blowout, "Biggest Blowouts", " pts", show_margin=True, verb="def.") }}
       {{ record_list(notable_records.closest, "Closest Games Ever", " pts", show_margin=True, verb="def.") }}
-      {{ record_list(notable_records.draws, "Exact Draws", " pts", verb="drew with") }}
+      {{ record_list(notable_records.draws, "Exact Draws", " pts", verb="drew with", show_score=False) }}
     </div>
   </div>
   <div class="card-footer text-muted small">Regular season only, same scope as every other per-season stat on the site.</div>

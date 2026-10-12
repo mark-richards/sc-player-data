@@ -122,11 +122,12 @@ def build_notable_records(years: list[int], top_n: int = 5) -> dict:
         rows = []
         for _, row in df.iterrows():
             d = {
-                "coach":    row["coach_first_name"],
-                "opponent": row.get("opposition_team_coach"),
-                "points":   row["team_points"],
-                "year":     int(row["year"]),
-                "round":    int(row["round_number"]),
+                "coach":           row["coach_first_name"],
+                "opponent":        row.get("opposition_team_coach"),
+                "points":          row["team_points"],
+                "opponent_points": row["opposition_team_points"],
+                "year":            int(row["year"]),
+                "round":           int(row["round_number"]),
             }
             if with_margin:
                 d["margin"] = row["margin"]
