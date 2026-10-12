@@ -34,7 +34,7 @@
           {% for row in pr_table.coaches %}
           <tr>
             <td class="fw-semibold">
-              <a href="/coach/{{ row.coach }}" class="text-decoration-none">{{ row.coach }}</a>
+              <a href="{{ year_href('coach.coach_profile', season_year, coach_name=row.coach) }}" class="text-decoration-none">{{ row.coach }}</a>
             </td>
             <td class="text-end">{{ "%.1f"|format(row.avg) }}</td>
             <td class="text-end fw-semibold">{{ "%.1f"|format(row.avg_3rd) }}</td>

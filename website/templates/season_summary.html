@@ -38,7 +38,7 @@
   <div class="card-body">
 
     <div class="text-center mb-4">
-      <a href="/coach/{{ finals_bracket.premier }}" class="text-decoration-none">
+      <a href="{{ year_href('coach.coach_profile', season_year, coach_name=finals_bracket.premier) }}" class="text-decoration-none">
         <img src="/static/images/coaches/{{ finals_bracket.premier }}_2022.png"
              class="rounded-circle border border-4 border-warning" width="72" height="72"
              style="object-fit:cover;">
@@ -52,7 +52,7 @@
         <div class="finals-team {% if won %}finals-team-win{% endif %}">
           <img src="/static/images/coaches/{{ name }}_2022.png" class="rounded-circle" width="28" height="28" style="object-fit:cover;">
           <span class="finals-seed">{{ seed }}</span>
-          <a href="/coach/{{ name }}" class="text-decoration-none flex-grow-1 {% if won %}fw-bold{% else %}text-muted{% endif %}">{{ name }}</a>
+          <a href="{{ year_href('coach.coach_profile', season_year, coach_name=name) }}" class="text-decoration-none flex-grow-1 {% if won %}fw-bold{% else %}text-muted{% endif %}">{{ name }}</a>
           <span class="finals-score {% if won %}fw-bold{% endif %}">{{ score }}</span>
         </div>
       {% endmacro %}
@@ -190,7 +190,7 @@
           <tr>
             <td class="text-muted">{{ loop.index }}</td>
             <td>
-              <a href="/coach/{{ row.coach_first_name }}" class="text-decoration-none fw-semibold">
+              <a href="{{ year_href('coach.coach_profile', season_year, coach_name=row.coach_first_name) }}" class="text-decoration-none fw-semibold">
                 {{ row.coach_first_name }}
               </a>
             </td>
@@ -326,7 +326,7 @@
               {% for row in fixture_strength | sort(attribute='avg_sim_rank') %}
               <tr>
                 <td class="text-muted">{{ loop.index }}</td>
-                <td><a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
+                <td><a href="{{ year_href('coach.coach_profile', season_year, coach_name=row.coach) }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
                 <td class="text-end text-muted">{{ "%.2f"|format(row.avg_score_rank) }}</td>
                 <td class="text-end fw-semibold">{{ "%.2f"|format(row.avg_sim_rank) }}</td>
                 <td class="text-end text-success fw-semibold small">{{ row.best_sim_rank }}</td>
@@ -370,7 +370,7 @@
               {% for row in fixture_strength | sort(attribute='avg_opp_rank') %}
               <tr>
                 <td class="text-muted">{{ loop.index }}</td>
-                <td><a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
+                <td><a href="{{ year_href('coach.coach_profile', season_year, coach_name=row.coach) }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
                 <td class="text-end fw-semibold">{{ "%.2f"|format(row.avg_opp_rank) }}</td>
                 <td class="text-end">{{ row.opp_avg }}</td>
                 <td class="text-end text-muted">{{ "%.1f"|format(row.exp_wins) }}</td>
@@ -458,7 +458,7 @@
         <tbody>
           {% for row in monte_carlo_sim %}
           <tr>
-            <td><a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
+            <td><a href="{{ year_href('coach.coach_profile', season_year, coach_name=row.coach) }}" class="text-decoration-none fw-semibold">{{ row.coach }}</a></td>
             <td class="text-end text-muted">{{ row.actual_rank }}</td>
             <td class="text-end fw-semibold">{{ "%.2f"|format(row.avg_mc_rank) }}</td>
             <td class="text-end text-success small">{{ "%.1f"|format(row.top2_pct) }}%</td>
@@ -520,7 +520,7 @@
                             {% for rd in seg.example.rounds %}
                             <tr>
                               <td class="text-muted">{{ rd.round }}</td>
-                              <td><a href="/coach/{{ rd.opponent }}" class="text-decoration-none">{{ rd.opponent }}</a></td>
+                              <td><a href="{{ year_href('coach.coach_profile', season_year, coach_name=rd.opponent) }}" class="text-decoration-none">{{ rd.opponent }}</a></td>
                               <td class="text-end">{{ "%.0f"|format(rd.own_score) }}</td>
                               <td class="text-end text-muted">{{ "%.0f"|format(rd.opp_score) }}</td>
                               <td class="text-end">
@@ -554,7 +554,7 @@
                             {% for lrow in seg.example.ladder %}
                             <tr{% if lrow.coach == row.coach %} class="table-active fw-bold"{% endif %}>
                               <td><span class="badge {{ lrow.cls }}">{{ lrow.rank }}</span></td>
-                              <td><a href="/coach/{{ lrow.coach }}" class="text-decoration-none">{{ lrow.coach }}</a></td>
+                              <td><a href="{{ year_href('coach.coach_profile', season_year, coach_name=lrow.coach) }}" class="text-decoration-none">{{ lrow.coach }}</a></td>
                               <td class="text-end">{{ lrow.wins }}-{{ lrow.draws }}-{{ lrow.losses }}</td>
                               <td class="text-end">{{ lrow.league_points }}</td>
                               <td class="text-end">{{ "{:,.0f}".format(lrow.pts_for) }}</td>
