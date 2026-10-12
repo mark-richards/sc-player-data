@@ -1156,6 +1156,14 @@ def build_player_matches_from_workbook(scores_df: pd.DataFrame, year: int, name_
     # build_ladder_from_workbook/build_fixtures_from_workbook and Footywire's
     # own season-average convention, which also excludes finals.
     yr = yr[yr["ROUND"] <= 21]
+
+    # feed_id resolution (same name-matching pipeline proven on the 2019 draft
+    # this session, reaching 176/176). There's no SC-internal roster player_id
+    # for these pre-raw-API years, so feed_id doubles as player_id — it's only
+    # ever used as an internal join key within website/data/acquisition.py,
+    # never cross-referenced against another id space, so this is safe.
+    full_name_lookup, initials_lookup, first_initial_lookup = _workbook_name_lookups()
+
     rows = []
     for _, r in yr.iterrows():
         tid = name_to_id.get(r["SC TEAM"])
@@ -1165,12 +1173,13 @@ def build_player_matches_from_workbook(scores_df: pd.DataFrame, year: int, name_
         parts = name.split(".", 1)
         first, last = (parts[0], parts[1]) if len(parts) == 2 else ("", name)
         on_field = r["POS"] != "BEN"
+        fid = _resolve_draft_player("", name, full_name_lookup, initials_lookup, first_initial_lookup)
         rows.append({
             "round_x": int(r["ROUND"]), "coach_id": tid, "coach_team_id": tid,
             "coach_first_name": _resolve_coach_alias(r["SC COACH"]), "coach_team_name": r["SC TEAM"],
-            "player_id": pd.NA, "played_position": r["POS"] if on_field else None,
+            "player_id": fid if fid is not None else pd.NA, "played_position": r["POS"] if on_field else None,
             "points_x": r["PTS"], "on_field": on_field, "picked": on_field,
-            "feed_id": pd.NA, "first_name": first, "last_name": last,
+            "feed_id": fid if fid is not None else pd.NA, "first_name": first, "last_name": last,
             "team": r["TEAM"], "position": r["POS"],
         })
     return pd.DataFrame(rows)
