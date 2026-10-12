@@ -53,12 +53,17 @@ def create_app() -> Flask:
         def year_url(year):
             from flask import current_app
             args = dict(request.view_args or {})
-            rules = [r for r in current_app.url_map.iter_rules() if r.endpoint == request.endpoint]
-            takes_year = any("year" in r.arguments for r in rules)
-            if takes_year:
-                args["year"] = year
-            else:
+            if year == SEASON_YEAR:
+                # The current season is exported at the flat root paths (not
+                # /season/<year>/...) by build_static.py, so drop the year arg
+                # to resolve to that same bare route on both the live app and
+                # the static export.
                 args.pop("year", None)
+            else:
+                rules = [r for r in current_app.url_map.iter_rules() if r.endpoint == request.endpoint]
+                takes_year = any("year" in r.arguments for r in rules)
+                if takes_year:
+                    args["year"] = year
             try:
                 return url_for(request.endpoint, **args)
             except Exception:
