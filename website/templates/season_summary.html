@@ -118,17 +118,25 @@
 </div>
 
 <style>
-  .finals-bracket { display: flex; gap: 2rem; overflow-x: auto; align-items: center; }
-  .finals-col { flex: 1 1 0; min-width: 220px; }
+  /* Mobile-first: columns stack top to bottom in chronological order, no
+     horizontal scrolling. Restored to a side-by-side bracket at lg+ where
+     there's room for it. */
+  .finals-bracket { display: flex; flex-direction: column; gap: 1rem; }
+  .finals-col { width: 100%; }
   .finals-col-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: .05em; color: var(--bs-secondary-color, #888); margin-bottom: .5rem; text-align: center; }
   .finals-match { border: 1px solid var(--bs-border-color, #dee2e6); border-radius: .5rem; padding: .5rem; background: var(--bs-tertiary-bg, #f8f9fa); }
-  .finals-match-mid { margin-top: 2.75rem; }
   .finals-match-gf { border-color: #ffc107; border-width: 2px; box-shadow: 0 0 0 1px rgba(255,193,7,.25); }
   .finals-match-label { font-size: 0.68rem; color: var(--bs-secondary-color, #888); margin-bottom: .35rem; }
   .finals-team { display: flex; align-items: center; gap: .5rem; padding: .2rem 0; opacity: .55; }
   .finals-team-win { opacity: 1; }
   .finals-seed { font-size: 0.65rem; color: var(--bs-secondary-color, #888); width: 1.1rem; }
   .finals-score { min-width: 2.2rem; text-align: right; }
+
+  @media (min-width: 992px) {
+    .finals-bracket { flex-direction: row; gap: 2rem; overflow-x: auto; align-items: center; }
+    .finals-col { flex: 1 1 0; min-width: 220px; width: auto; }
+    .finals-match-mid { margin-top: 2.75rem; }
+  }
 </style>
 {% endif %}
 
