@@ -23,6 +23,8 @@ IRON_MAN_MAX_RANK = 7           # Iron Man excludes the last-place finisher (con
 AWARD_ICONS: dict[str, dict] = {
     "dawnbreaker":         {"type": "emoji", "value": "🏆"},
     "spoon":               {"type": "emoji", "value": "🥄"},
+    "lineup_tinkerer":     {"type": "emoji", "value": "🔄"},
+    "set_and_forget":      {"type": "emoji", "value": "⚓"},
     "top_scorer":          {"type": "emoji", "value": "🔥"},
     "lowest_scorer":       {"type": "emoji", "value": "📉"},
     "best_run":            {"type": "emoji", "value": "⚡"},
@@ -48,7 +50,8 @@ AWARD_ICONS: dict[str, dict] = {
 # "volatile/unreliable" reads as a knock rather than a compliment. Spoon
 # Dodge is a highlight even though it's about nearly getting the spoon - the
 # story is "they escaped it", a good outcome.
-LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest", "worst_draft_pick"}
+LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest", "worst_draft_pick",
+                  "lineup_tinkerer"}
 
 # Dawnbreaker (the league's own nickname for the premiership) and the Spoon
 # always lead a coach's card and get special "hero" styling — the premier
@@ -179,6 +182,44 @@ def _close_calls_sunday_scaries(fixtures_df: pd.DataFrame) -> list[dict]:
     return awards
 
 
+def _lineup_turnover(players_df: pd.DataFrame) -> list[dict]:
+    """
+    Week-to-week turnover of each coach's on-field 19: for every round after
+    the first, how many players are on-field who weren't on-field the round
+    before. Since the on-field count is fixed, "new faces this round" and
+    "players dropped this round" are always equal, so counting one side is
+    enough. Summed across the season.
+    """
+    if players_df.empty:
+        return []
+    onfield = players_df[players_df["on_field"] == True]
+    if onfield.empty:
+        return []
+
+    turnover: dict[str, int] = {}
+    for coach, grp in onfield.groupby("coach_first_name"):
+        prev_set: set | None = None
+        total = 0
+        for rnd in sorted(grp["round_x"].unique()):
+            cur_set = set(grp[grp["round_x"] == rnd]["feed_id"])
+            if prev_set is not None:
+                total += len(cur_set - prev_set)
+            prev_set = cur_set
+        turnover[coach] = total
+
+    if not turnover:
+        return []
+
+    most_coach = max(turnover, key=turnover.get)
+    least_coach = min(turnover, key=turnover.get)
+    return [
+        _award("lineup_tinkerer", "Lineup Tinkerer", most_coach,
+               f"{turnover[most_coach]} on-field changes across the season"),
+        _award("set_and_forget", "Set and Forget", least_coach,
+               f"{turnover[least_coach]} on-field changes across the season"),
+    ]
+
+
 def _luck_awards(mc_results: list[dict]) -> list[dict]:
     if not mc_results:
         return []
@@ -259,7 +300,8 @@ def build_season_awards(year: int) -> list[dict]:
         player_match_csv_path, processed_waivers_json_path, player_list_csv_path, season_meta,
     )
     from website.data.loader import (
-        load_ladder, load_fixtures, load_sc_current, load_sc_round_files, list_season_coaches,
+        load_ladder, load_fixtures, load_player_matches, load_sc_current, load_sc_round_files,
+        list_season_coaches,
     )
     from website.data.standings import compute_standings
     from website.data.fixture_strength import build_monte_carlo_schedule_sim
@@ -270,8 +312,10 @@ def build_season_awards(year: int) -> list[dict]:
 
     ladder = load_ladder(year)
     fixtures = load_fixtures(year)
+    players = load_player_matches(year)
     reg_ladder = ladder[ladder["round"] <= total_regular_rounds] if not ladder.empty else ladder
     reg_fixtures = fixtures[fixtures["round_number"] <= total_regular_rounds] if not fixtures.empty else fixtures
+    reg_players = players[players["round_x"] <= total_regular_rounds] if not players.empty else players
 
     standings = compute_standings(reg_ladder, total_regular_rounds)
     final_ranks = dict(zip(standings["coach_first_name"], standings["ladder_pos"])) if not standings.empty else {}
@@ -283,6 +327,7 @@ def build_season_awards(year: int) -> list[dict]:
     awards += _iron_man_boom_bust(reg_fixtures, final_ranks)
     awards += _strong_finisher(reg_fixtures)
     awards += _close_calls_sunday_scaries(reg_fixtures)
+    awards += _lineup_turnover(reg_players)
 
     try:
         mc_results = build_monte_carlo_schedule_sim(reg_fixtures)
