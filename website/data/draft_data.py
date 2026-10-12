@@ -299,10 +299,14 @@ def build_board_table(draft_df: pd.DataFrame, coach_order: list[str]) -> tuple[l
             else:
                 p    = pick.iloc[0]
                 rank = int(p["rank_in_round"]) if pd.notna(p.get("rank_in_round")) else 8
+                if bool(p.get("heavily_missed")):
+                    color, rank_label = "rank-injury", "Injury"
+                else:
+                    color, rank_label = _rank_color(rank), _rank_label(rank)
                 row[coach] = {
                     "player":         str(p["Player"]),
-                    "color":          _rank_color(rank),
-                    "rank_label":     _rank_label(rank),
+                    "color":          color,
+                    "rank_label":     rank_label,
                     "missed_bye":     int(p["missed_bye"])     if pd.notna(p.get("missed_bye"))     else 0,
                     "missed_non_bye": int(p["missed_non_bye"]) if pd.notna(p.get("missed_non_bye")) else 0,
                     "peers_html":     _build_peers_html(int(p["pick"]), draft_df, max_pick, win_size),
@@ -319,6 +323,8 @@ def build_coach_summary(draft_df: pd.DataFrame, coach_order: list[str]) -> list[
     rows = []
     for coach in coach_order:
         cdf   = draft_df[draft_df["coach_name"] == coach]
+        if "heavily_missed" in cdf.columns:
+            cdf = cdf[~cdf["heavily_missed"].fillna(False)]
         ranks = cdf["rank_in_round"].dropna().astype(int)
         row   = {"coach": coach}
         row["rank_1"]   = int((ranks == 1).sum())
@@ -371,11 +377,26 @@ def _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map: dict,
             player_data[["feed_id", "pos_1", "raw_avg", "median_score", "final_score", "missed_bye", "missed_non_bye"]],
             on="feed_id", how="left",
         )
+        # Missed more than half the season's completed rounds (confirmed not a
+        # bye, via the SC-official bulk round data) — almost always a
+        # long-term injury, not a reflection of the coach's pick judgement.
+        # final_score/pick_value are left exactly as computed (so they still
+        # correctly drag that player's own would-be rank down if ever
+        # inspected directly), but these picks are excluded from the Heat
+        # Map's colour tiers and from "worst pick" contention downstream —
+        # see build_board_table(), build_coach_summary(), and
+        # get_pick_value_extremes().
+        total_rounds = len(set(sc_df.loc[sc_df["played"] == 1, "round"]))
+        draft_df["heavily_missed"] = (
+            total_rounds > 0
+            and draft_df["missed_non_bye"].fillna(0) > total_rounds / 2
+        )
     else:
         log.warning("SC current data unavailable - final_score will be NaN.")
-        draft_df["final_score"]    = float("nan")
-        draft_df["missed_bye"]     = 0
-        draft_df["missed_non_bye"] = 0
+        draft_df["final_score"]     = float("nan")
+        draft_df["missed_bye"]      = 0
+        draft_df["missed_non_bye"]  = 0
+        draft_df["heavily_missed"]  = False
 
     # Rank 1-8 within a forward window of 8 picks (the pick + next 7),
     # clamped at the boundary so the window is always exactly 8 wide.
@@ -448,6 +469,13 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
     (a late-round flier busting isn't a real story — nobody expected much
     from it; a bust among the first few rounds' premium picks is). "best" is
     never restricted — a late-round steal is still worth celebrating.
+
+    "worst" also excludes any pick that missed more than half the season's
+    completed rounds (heavily_missed — almost always a long-term injury):
+    that reflects bad luck, not the coach's pick judgement, so it shouldn't
+    be eligible to be named the worst pick. "best" is left unrestricted by
+    this too — a player who was excellent before being injured still
+    deserves credit for it.
     """
     draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df)
     if draft_df is None:
@@ -471,6 +499,8 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
     result = {"best": _row_to_dict(best)}
 
     worst_pool = valid[valid["draft_round"] <= worst_max_round] if worst_max_round else valid
+    if "heavily_missed" in worst_pool.columns:
+        worst_pool = worst_pool[~worst_pool["heavily_missed"].fillna(False)]
     if not worst_pool.empty:
         worst = worst_pool.loc[worst_pool["pick_value"].idxmin()]
         result["worst"] = _row_to_dict(worst)
