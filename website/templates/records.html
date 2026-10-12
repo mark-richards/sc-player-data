@@ -10,49 +10,31 @@
     <div class="card shadow-sm h-100">
       <div class="card-header fw-semibold">All-Time Records</div>
       <div class="card-body p-0">
-        <div class="table-responsive">
-          <table class="table table-hover table-sm mb-0 align-middle">
-            <thead class="table-dark">
-              <tr>
-                <th>Coach</th>
-                <th class="text-center" title="Championships won">🏆 Titles</th>
-                <th class="text-center">Grand Finals</th>
-                <th class="text-center">Finals Apps</th>
-                <th class="text-center">🥄 Spoons</th>
-                <th class="text-center">Seasons</th>
-              </tr>
-            </thead>
-            <tbody>
-              {% for row in all_time %}
-              <tr>
-                <td class="fw-semibold">
-                  <a href="/coach/{{ row.coach }}" class="text-decoration-none">{{ row.coach }}</a>
-                </td>
-                <td class="text-center">
-                  {% if row.Championships > 0 %}
-                    {% for _ in range(row.Championships) %}🏆{% endfor %}
-                    <span class="ms-1 text-muted small">({{ row.Championships }})</span>
-                  {% else %}
-                    <span class="text-muted">-</span>
-                  {% endif %}
-                </td>
-                <td class="text-center">{{ row.GF }}</td>
-                <td class="text-center">{{ row.Finals }}</td>
-                <td class="text-center">
-                  {% if row.Spoons > 0 %}
-                    {% for _ in range(row.Spoons) %}🥄{% endfor %}
-                    <span class="ms-1 text-muted small">({{ row.Spoons }})</span>
-                  {% else %}
-                    <span class="text-muted">-</span>
-                  {% endif %}
-                </td>
-                <td class="text-center text-muted">{{ row.Seasons }}</td>
-              </tr>
-              {% endfor %}
-            </tbody>
-          </table>
+        <div class="d-flex flex-column">
+          {% for row in all_time %}
+          <div class="px-3 py-2 {% if not loop.last %}border-bottom{% endif %}">
+            <a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold small">{{ row.coach }}</a>
+            <div class="d-flex justify-content-between align-items-center mt-1">
+              <div>
+                <div class="fs-5 fw-bold">🏆 {% if row.Championships > 0 %}&times;{{ row.Championships }}{% else %}<span class="text-muted">-</span>{% endif %}</div>
+                <div class="text-muted" style="font-size:0.68rem; letter-spacing:.03em;">TITLES</div>
+              </div>
+              <div class="text-end">
+                <div class="fs-5 fw-bold">🥄 {% if row.Spoons > 0 %}&times;{{ row.Spoons }}{% else %}<span class="text-muted">-</span>{% endif %}</div>
+                <div class="text-muted" style="font-size:0.68rem; letter-spacing:.03em;">SPOONS</div>
+              </div>
+            </div>
+            <div class="small text-muted mt-1">
+              {{ row.GF }} Grand Finals &middot; {{ row.Finals }} Finals Apps
+              {% if all_time|map(attribute='Seasons')|unique|list|length > 1 %}&middot; {{ row.Seasons }} seasons{% endif %}
+            </div>
+          </div>
+          {% endfor %}
         </div>
       </div>
+      {% if all_time and all_time|map(attribute='Seasons')|unique|list|length == 1 %}
+      <div class="card-footer text-muted small">All {{ all_time|length }} coaches have competed in all {{ all_time[0].Seasons }} seasons.</div>
+      {% endif %}
     </div>
   </div>
 
