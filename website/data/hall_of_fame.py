@@ -4,11 +4,74 @@ hall_of_fame.py — All-time, cross-season stats for the Hall of Fame page
 Head-to-Head). Built on top of per-season data this site already computes
 (website.data.awards, loader, finals) rather than a separate pipeline.
 """
+import json
 import logging
+from datetime import datetime
 
 import pandas as pd
+import requests
 
 log = logging.getLogger(__name__)
+
+_PHOTO_CACHE_PATH = None  # set lazily from website.config to avoid a circular import at module load
+
+
+def _photo_cache_path():
+    global _PHOTO_CACHE_PATH
+    if _PHOTO_CACHE_PATH is None:
+        from website.config import PROJECT_ROOT
+        _PHOTO_CACHE_PATH = PROJECT_ROOT / "data" / "raw" / "afl_photo_cache.json"
+    return _PHOTO_CACHE_PATH
+
+
+def _load_photo_cache() -> dict:
+    path = _photo_cache_path()
+    if path.exists():
+        try:
+            return json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+
+def _save_photo_cache(cache: dict) -> None:
+    path = _photo_cache_path()
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(cache, indent=2, sort_keys=True), encoding="utf-8")
+
+
+def resolve_player_photo_url(feed_id: int, cache: dict, years_back: int = 6) -> str | None:
+    """
+    Resolves a player headshot URL from AFL.com.au's own Champion-Data-keyed
+    photo CDN, trying the current season's photo batch first and falling
+    back through earlier seasons for anyone not in this year's batch
+    (retired, delisted, or simply not yet photographed) — AFL.com.au
+    confirmed to still serve older seasons' headshots at the same path.
+
+    Pattern: https://s.afl.com.au/.../ChampIDImages/AFL/{year}014/{feed_id}.png
+
+    Result (including a miss) is cached by feed_id in `cache` so repeat
+    builds don't re-hit the CDN for players already resolved.
+    """
+    key = str(feed_id)
+    if key in cache:
+        return cache[key]
+
+    base = "https://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Players/ChampIDImages/AFL"
+    current_year = datetime.now().year
+    url = None
+    for year in range(current_year, current_year - years_back, -1):
+        candidate = f"{base}/{year}014/{feed_id}.png"
+        try:
+            resp = requests.head(candidate, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
+            if resp.status_code == 200:
+                url = candidate
+                break
+        except requests.RequestException:
+            continue
+
+    cache[key] = url
+    return url
 
 
 def completed_years() -> list[int]:
@@ -311,16 +374,28 @@ def build_favourite_players(years: list[int], top_n: int = 3) -> list[dict]:
         all_pm.groupby(["coach_first_name", "player_key"])
         .agg(rounds=("round_x", "count"),
              first_name=("first_name", "first"),
-             last_name=("last_name", "first"))
+             last_name=("last_name", "first"),
+             feed_id=("feed_id", "first"))
         .reset_index()
     )
 
+    photo_cache = _load_photo_cache()
     favourites = []
     for coach in COACH_ORDER:
         cdf = grouped[grouped["coach_first_name"] == coach].sort_values("rounds", ascending=False).head(top_n)
-        players = [
-            {"name": f"{r.first_name} {r.last_name}".strip(), "rounds": int(r.rounds)}
-            for r in cdf.itertuples()
-        ]
+        players = []
+        for r in cdf.itertuples():
+            photo_url = None
+            if pd.notna(r.feed_id):
+                try:
+                    photo_url = resolve_player_photo_url(int(r.feed_id), photo_cache)
+                except Exception:
+                    photo_url = None  # a flaky CDN/network call should never break the page
+            players.append({
+                "name":      f"{r.first_name} {r.last_name}".strip(),
+                "rounds":    int(r.rounds),
+                "photo_url": photo_url,
+            })
         favourites.append({"coach": coach, "players": players})
+    _save_photo_cache(photo_cache)
     return favourites

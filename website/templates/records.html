@@ -352,10 +352,17 @@
         <div class="border rounded p-3 h-100">
           <a href="/coach/{{ entry.coach }}" class="text-decoration-none fw-bold fs-5 d-block mb-2">{{ entry.coach }}</a>
           {% if entry.players %}
-          <div class="d-flex flex-column gap-1">
+          <div class="d-flex flex-column gap-2">
             {% for p in entry.players %}
-            <div class="d-flex justify-content-between align-items-baseline small">
-              <span><span class="text-muted">{{ loop.index }}.</span> {{ p.name }}</span>
+            <div class="d-flex justify-content-between align-items-center small">
+              <span class="d-flex align-items-center gap-2">
+                {% if p.photo_url %}
+                <img src="{{ p.photo_url }}" alt="" width="28" height="28" class="rounded-circle flex-shrink-0" style="object-fit:cover; object-position:top;" loading="lazy">
+                {% else %}
+                <i class="bi bi-person-circle text-muted flex-shrink-0" style="font-size:28px; line-height:1;"></i>
+                {% endif %}
+                <span><span class="text-muted">{{ loop.index }}.</span> {{ p.name }}</span>
+              </span>
               <span class="text-muted">{{ p.rounds }} rds</span>
             </div>
             {% endfor %}
