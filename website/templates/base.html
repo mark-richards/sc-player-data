@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" data-bs-theme="light">
+<html lang="en" data-bs-theme="light" data-build="{{ build_version|default('') }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -130,6 +130,42 @@ function checkRoundStatus() {
 
 loadFreshness();
 checkRoundStatus();
+</script>
+{% endif %}
+{% if static_mode %}
+<script>
+// GitHub Pages caches every file (including this HTML, which has the data
+// baked in) for ~10 minutes and that can't be changed from the repo. This
+// polls a small version.json dropped at deploy time so a stale page can
+// prompt for a refresh instead of silently showing old data.
+(function () {
+  var myBuild = document.documentElement.getAttribute('data-build');
+  if (!myBuild) return;
+
+  function showBanner() {
+    if (document.getElementById('staleBanner')) return;
+    var b = document.createElement('div');
+    b.id = 'staleBanner';
+    b.style.cssText = 'position:fixed;bottom:0;left:0;right:0;background:#0d6efd;color:#fff;' +
+      'text-align:center;padding:10px;z-index:9999;cursor:pointer;font-size:14px;';
+    b.textContent = 'A newer version of this page is available — tap to refresh.';
+    b.onclick = function () { location.reload(); };
+    document.body.appendChild(b);
+  }
+
+  function check() {
+    fetch('{{ base_path|default("") }}/version.json', { cache: 'no-store' })
+      .then(function (r) { return r.json(); })
+      .then(function (d) { if (d.build && d.build !== myBuild) showBanner(); })
+      .catch(function () {});
+  }
+
+  setTimeout(check, 3000);
+  setInterval(function () { if (document.visibilityState === 'visible') check(); }, 120000);
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'visible') check();
+  });
+})();
 </script>
 {% endif %}
 {% block scripts %}{% endblock %}

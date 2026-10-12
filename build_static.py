@@ -1,4 +1,4 @@
-import sys, os, re, shutil
+import sys, os, re, shutil, time, json
 sys.path.insert(0, os.path.dirname(__file__))
 
 from website.app import create_app
@@ -7,6 +7,7 @@ from website.data.loader import list_available_seasons, list_season_coaches
 
 OUTPUT_DIR = "docs"
 BASE_PATH = "/asl-hub"
+BUILD_ID = str(int(time.time()))
 
 # Current season keeps today's flat URL structure (docs/, docs/coach/<name>/,
 # etc.) so existing published links don't change. Historical seasons snapshot
@@ -49,6 +50,8 @@ def render(client, route, out_path):
 
 app = create_app()
 app.jinja_env.globals['static_mode'] = True
+app.jinja_env.globals['build_version'] = BUILD_ID
+app.jinja_env.globals['base_path'] = BASE_PATH
 
 if os.path.exists(OUTPUT_DIR):
     for item in os.listdir(OUTPUT_DIR):
@@ -87,4 +90,7 @@ with app.test_client() as client:
             render(client, f"/coach/{name}/{year}", out_path)
             page_count += 1
 
-print(f"\nStatic site built -> {OUTPUT_DIR}/  ({page_count} pages)")
+with open(f"{OUTPUT_DIR}/version.json", "w", encoding="utf-8") as f:
+    json.dump({"build": BUILD_ID}, f)
+
+print(f"\nStatic site built -> {OUTPUT_DIR}/  ({page_count} pages, build {BUILD_ID})")
