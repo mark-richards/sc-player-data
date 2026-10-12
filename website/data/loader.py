@@ -203,7 +203,15 @@ def load_sc_round_files(year: int | None = None) -> pd.DataFrame:
     pattern = str(sc_dir / "players_round_*.json")
     files = glob.glob(pattern)
     if not files:
-        return pd.DataFrame()
+        # Historical seasons have no live SC API dump — fall back to the
+        # equivalent bulk per-round data built by ingest_historical_season.py.
+        from website.config import SEASONS_DIR
+        seasons_csv = SEASONS_DIR / str(year) / "sc_round_data.csv"
+        if not seasons_csv.exists():
+            return pd.DataFrame()
+        df = pd.read_csv(seasons_csv, low_memory=False)
+        df["feed_id"] = pd.to_numeric(df["feed_id"], errors="coerce").astype("Int64")
+        return df.dropna(subset=["feed_id"]).reset_index(drop=True)
 
     round_re = re.compile(r"players_round_(\d+)\.json$")
     rows = []

@@ -200,8 +200,23 @@ def build_finals_json_from_raw(year: int, out_dir: Path) -> None:
         )
 
 
-def build_player_matches_from_raw(year: int, coach_map: dict[int, dict], max_round: int) -> pd.DataFrame:
+def build_player_matches_from_raw(year: int, coach_map: dict[int, dict], max_round: int) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """
+    Returns (matches, sc_round_data):
+      matches — one row per (round, coach, player) for players actually
+        rostered by one of our coaches (the existing player_match_results.csv
+        shape).
+      sc_round_data — one row per (round, player) for EVERY player in the
+        players-cf_embed bulk dump that round, regardless of fantasy
+        ownership. Captured in the same pass (players-cf_embed is already
+        being read for `matches`) rather than re-parsing the same ~6s/file
+        RDS dump a second time. Feeds website/data/draft_data.py's
+        _compute_effective_avg() so it can tell "missed because of a bye"
+        apart from "missed because unowned" for historical seasons, same as
+        load_sc_round_files() already does for the live season.
+    """
     rows = []
+    sc_round_rows = []
     for rnd in range(1, max_round + 1):
         cf_path = next(iter((RAW_DIR / str(year)).glob(f"players-cf_embed*round={rnd}.rds")), None)
         if cf_path is None:
@@ -215,14 +230,21 @@ def build_player_matches_from_raw(year: int, coach_map: dict[int, dict], max_rou
         for p in players:
             pid = int(_v(p["id"]))
             stats = p.get("player_stats") or []
-            points = float(_v(stats[0].get("points")) or 0) if stats else 0.0
+            s0 = stats[0] if stats else {}
+            points = float(_v(s0.get("points")) or 0)
+            fid = _v(p["feed_id"])
+            team_abbrev = str(_v(p["team"]["abbrev"])) if p.get("team") else ""
             player_lookup[pid] = {
                 "first_name": str(_v(p["first_name"])),
                 "last_name":  str(_v(p["last_name"])),
-                "feed_id":    _v(p["feed_id"]),
-                "team":       str(_v(p["team"]["abbrev"])) if p.get("team") else "",
+                "feed_id":    fid,
+                "team":       team_abbrev,
                 "points":     points,
             }
+            sc_round_rows.append({
+                "feed_id": fid, "round": rnd, "team_abbrev": team_abbrev,
+                "played": int(_v(s0.get("games")) or 0), "points": points,
+            })
 
         for team_id in coach_map:
             lineup_path = RAW_DIR / str(year) / f"userteams_{team_id}_statsPlayers_round={rnd}.rds"
@@ -258,7 +280,7 @@ def build_player_matches_from_raw(year: int, coach_map: dict[int, dict], max_rou
                 })
         print(f"    round {rnd}/{max_round} done")
 
-    return pd.DataFrame(rows).reset_index(drop=True)
+    return pd.DataFrame(rows).reset_index(drop=True), pd.DataFrame(sc_round_rows).reset_index(drop=True)
 
 
 def _build_transactions_rows(waivers_raw: list, trades_raw: list, teamtrades_raw: list) -> tuple[list[dict], set]:
@@ -645,7 +667,7 @@ def ingest_year_from_raw(year: int) -> None:
     max_round = int(ladder["round"].max())
 
     print(f"  [{year}] building player match results from raw per-round dumps ({max_round} rounds)...")
-    matches = build_player_matches_from_raw(year, coach_map, max_round)
+    matches, sc_round_data = build_player_matches_from_raw(year, coach_map, max_round)
     teams = build_current_teams_from_raw(year, coach_map, max_round)
     coaches = build_coach_list(coach_map)
 
@@ -654,6 +676,7 @@ def ingest_year_from_raw(year: int) -> None:
     matches.to_csv(out_dir / "player_match_results.csv", index=False)
     teams.to_csv(out_dir / "current_teams.csv", index=False)
     coaches.to_csv(out_dir / "coach_list.csv", index=False)
+    sc_round_data.to_csv(out_dir / "sc_round_data.csv", index=False)
     build_finals_json_from_raw(year, out_dir)
 
     print(f"  [{year}] building transactions from raw waiver/trade dumps...")
@@ -844,6 +867,91 @@ def build_draft_csv_2020(player: pd.DataFrame) -> None:
     print(f"    draft_2020_result.csv: {len(rows)} picks -> {out_path}")
 
 
+def _extract_sc_round_rows(players: list, rnd: int) -> list[dict]:
+    """Same bulk-player extraction as build_player_matches_from_raw's inner
+    loop, factored out so the 2020/2021 bulk RDS sources (same player_stats
+    shape as players-cf_embed) can reuse it."""
+    rows = []
+    for p in players:
+        stats = p.get("player_stats") or []
+        s0 = stats[0] if stats else {}
+        rows.append({
+            "feed_id": _v(p.get("feed_id")), "round": rnd,
+            "team_abbrev": str(_v(p["team"]["abbrev"])) if p.get("team") else "",
+            "played": int(_v(s0.get("games")) or 0), "points": float(_v(s0.get("points")) or 0),
+        })
+    return rows
+
+
+def build_sc_round_data_2020(out_dir: Path) -> None:
+    """archive/legacy/fantasy_banter_data/2020/raw/2020_{NN}_SC_PLAYER_DATA.RDS
+    (rounds 1-18, same bulk player_stats shape as the 2022+ players-cf_embed
+    source) -> data/seasons/2020/sc_round_data.csv."""
+    src = LEGACY_DIR / "2020" / "raw"
+    rows = []
+    for rnd in range(1, 19):
+        path = src / f"2020_{rnd:02d}_SC_PLAYER_DATA.RDS"
+        if not path.exists():
+            continue
+        try:
+            players = rdata.read_rds(str(path))
+        except Exception:
+            continue
+        rows.extend(_extract_sc_round_rows(players, rnd))
+    if rows:
+        pd.DataFrame(rows).to_csv(out_dir / "sc_round_data.csv", index=False)
+        print(f"    sc_round_data.csv: {len(rows)} player-round rows")
+
+
+def build_sc_round_data_2021(out_dir: Path) -> None:
+    """archive/legacy/fantasy_banter_data/2021/raw/sc_players_{N}.rds
+    (rounds 1-23) -> data/seasons/2021/sc_round_data.csv."""
+    src = LEGACY_DIR / "2021" / "raw"
+    rows = []
+    for rnd in range(1, 24):
+        path = src / f"sc_players_{rnd}.rds"
+        if not path.exists():
+            continue
+        try:
+            players = rdata.read_rds(str(path))
+        except Exception:
+            continue
+        rows.extend(_extract_sc_round_rows(players, rnd))
+    if rows:
+        pd.DataFrame(rows).to_csv(out_dir / "sc_round_data.csv", index=False)
+        print(f"    sc_round_data.csv: {len(rows)} player-round rows")
+
+
+def build_sc_round_data_from_fanfooty(year: int, out_dir: Path, max_round: int) -> None:
+    """
+    data/processed/{year}_round_N_fanfooty_data.csv (covers 2011-2026,
+    every AFL player every round regardless of fantasy ownership) used as a
+    bulk sc_round_data.csv source for 2016-2019, which have no SC-native bulk
+    endpoint at all. Fanfooty's own "Player ID" is confirmed (cross-checked
+    against the SC player lists this session — Ed Curnow 270146, Rory Sloane
+    270963, Dustin Martin 290847, Tom Hawkins 261510, all exact matches) to
+    be the same numbering as SC's feed_id. A row's mere presence means the
+    player featured in that round's match, so played=1 always.
+    """
+    import glob
+    rows = []
+    for rnd in range(1, max_round + 1):
+        paths = glob.glob(str(PROJECT_ROOT / "data" / "processed" / f"{year}_round_{rnd}_fanfooty_data.csv"))
+        if not paths:
+            continue
+        df = pd.read_csv(paths[0], low_memory=False, usecols=["Player ID", "Team", "SC"])
+        df = df.dropna(subset=["Player ID"])
+        for _, r in df.iterrows():
+            rows.append({
+                "feed_id": int(r["Player ID"]), "round": rnd,
+                "team_abbrev": r["Team"], "played": 1,
+                "points": float(r["SC"]) if pd.notna(r["SC"]) else 0.0,
+            })
+    if rows:
+        pd.DataFrame(rows).to_csv(out_dir / "sc_round_data.csv", index=False)
+        print(f"    sc_round_data.csv: {len(rows)} player-round rows (from fanfooty)")
+
+
 def ingest_year_2020() -> None:
     src_dir = LEGACY_DIR / "2020" / "clean"
     league_path, player_path = src_dir / "league_2020.csv", src_dir / "players_2020.csv"
@@ -877,6 +985,9 @@ def ingest_year_2020() -> None:
 
     print(f"  [2020] building draft heat map data...")
     build_draft_csv_2020(player)
+
+    print(f"  [2020] building bulk sc_round_data (every player, every round)...")
+    build_sc_round_data_2020(out_dir)
 
     print(f"  [2020] OK (clean CSV) — {ladder['round'].nunique()} rounds "
           f"(max round {ladder['round'].max()}), {len(matches)} player-match rows -> {out_dir}")
@@ -958,6 +1069,9 @@ def ingest_year_2021() -> None:
 
     print(f"  [2021] building draft heat map data...")
     build_draft_csv_2021()
+
+    print(f"  [2021] building bulk sc_round_data (every player, every round)...")
+    build_sc_round_data_2021(out_dir)
 
     print(f"  [2021] OK (clean CSV) — {ladder['round'].nunique()} rounds "
           f"(max round {ladder['round'].max()}), {len(matches)} player-match rows -> {out_dir}")
@@ -1256,6 +1370,10 @@ def ingest_year_from_workbook(year: int) -> None:
     else:
         n_player_rows = 0
         print(f"    no player-level Round Scores for {year} — ladder/fixtures only")
+
+    if year in {2017, 2018, 2019}:
+        print(f"  [{year}] building bulk sc_round_data from fanfooty (every player, every round)...")
+        build_sc_round_data_from_fanfooty(year, out_dir, max_round=21)
 
     draft_sheet = f"DATA - {year} Draft order"
     if draft_sheet in wb.sheetnames:
