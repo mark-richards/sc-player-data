@@ -2,12 +2,24 @@
 {% block title %}Hall of Fame{% endblock %}
 
 {% block content %}
-<h2 class="mb-4">ASL Hall of Fame</h2>
+<h2 class="mb-3">ASL Hall of Fame</h2>
+
+{# ── Jump-to section links ── #}
+<div class="d-flex flex-wrap gap-2 mb-4" style="font-size:0.78rem;">
+  <a href="#all-time-records" class="btn btn-sm btn-outline-secondary">All-Time Records</a>
+  <a href="#season-results" class="btn btn-sm btn-outline-secondary">Season Results</a>
+  <a href="#trophy-cabinet" class="btn btn-sm btn-outline-secondary">🏅 Trophy Cabinet</a>
+  <a href="#notable-records" class="btn btn-sm btn-outline-secondary">📊 Notable Records</a>
+  <a href="#championship-drought" class="btn btn-sm btn-outline-secondary">⏳ Drought</a>
+  <a href="#bridesmaid-tally" class="btn btn-sm btn-outline-secondary">🥈 Bridesmaid</a>
+  <a href="#head-to-head" class="btn btn-sm btn-outline-secondary">⚔️ Head-to-Head</a>
+  <a href="#favourite-players" class="btn btn-sm btn-outline-secondary">⭐ Favourites</a>
+</div>
 
 {# ── All-Time Records + Season Results, side by side ── #}
 <div class="row g-3 mb-4">
   <div class="col-lg-6">
-    <div class="card shadow-sm h-100">
+    <div class="card shadow-sm h-100" id="all-time-records">
       <div class="card-header fw-semibold">All-Time Records</div>
       <div class="card-body p-0">
         <div class="d-flex flex-column">
@@ -36,7 +48,7 @@
   </div>
 
   <div class="col-lg-6">
-    <div class="card shadow-sm h-100">
+    <div class="card shadow-sm h-100" id="season-results">
       <div class="card-header fw-semibold">Season Results</div>
       <div class="card-body p-0">
         {% macro coach_link(name, year, has_data, css) %}
@@ -82,7 +94,7 @@
     <span>{{ e.title }} x{{ e.count }}</span>
   </span>
 {% endmacro %}
-<div class="card shadow-sm mb-4">
+<div class="card shadow-sm mb-4" id="trophy-cabinet">
   <div class="card-header fw-semibold d-flex justify-content-between align-items-center flex-wrap gap-2">
     <span>🏅 Trophy Cabinet</span>
     <ul class="nav nav-pills" id="cabinetTabs" role="tablist" style="font-size:0.8rem;">
@@ -210,7 +222,7 @@
     </div>
   </div>
 {% endmacro %}
-<div class="card shadow-sm mb-4">
+<div class="card shadow-sm mb-4" id="notable-records">
   <div class="card-header fw-semibold">📊 Notable Records</div>
   <div class="card-body">
     <div class="row g-3">
@@ -229,7 +241,7 @@
   {# ── Championship Drought ── #}
   {% if drought %}
   <div class="col-lg-6">
-    <div class="card shadow-sm h-100">
+    <div class="card shadow-sm h-100" id="championship-drought">
       <div class="card-header fw-semibold">⏳ Championship Drought</div>
       <div class="card-body">
         {% for r in drought %}
@@ -251,7 +263,7 @@
   {# ── Bridesmaid Tally ── #}
   {% if bridesmaid %}
   <div class="col-lg-6">
-    <div class="card shadow-sm h-100">
+    <div class="card shadow-sm h-100" id="bridesmaid-tally">
       <div class="card-header fw-semibold">🥈 Bridesmaid Tally</div>
       <div class="card-body">
         {% for r in bridesmaid %}
@@ -272,7 +284,7 @@
 
 {# ── Head-to-Head ── #}
 {% if head_to_head and head_to_head.coaches %}
-<div class="card shadow-sm mb-4">
+<div class="card shadow-sm mb-4" id="head-to-head">
   <div class="card-header fw-semibold">⚔️ Head-to-Head</div>
   <div class="card-body p-0">
     <div class="table-responsive">
@@ -292,8 +304,11 @@
               <td class="text-muted">-</td>
               {% else %}
                 {% set rec = head_to_head.cells[row_coach][col_coach] %}
-                <td class="{% if rec.w > rec.l %}text-success fw-semibold{% elif rec.w < rec.l %}text-danger{% else %}text-muted{% endif %}">
-                  {{ rec.w }}-{{ rec.l }}{% if rec.d %}-{{ rec.d }}{% endif %}
+                <td class="p-0">
+                  <a href="/head-to-head/{{ row_coach }}/{{ col_coach }}"
+                     class="d-block p-2 text-decoration-none {% if rec.w > rec.l %}text-success fw-semibold{% elif rec.w < rec.l %}text-danger{% else %}text-muted{% endif %}">
+                    {{ rec.w }}-{{ rec.l }}{% if rec.d %}-{{ rec.d }}{% endif %}
+                  </a>
                 </td>
               {% endif %}
             {% endfor %}
@@ -311,7 +326,7 @@
 
 {# ── Favourite Players ── #}
 {% if favourite_players %}
-<div class="card shadow-sm mb-4">
+<div class="card shadow-sm mb-4" id="favourite-players">
   <div class="card-header fw-semibold">⭐ Favourite Players</div>
   <div class="card-body">
     <div class="row g-3">

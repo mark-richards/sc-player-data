@@ -44,6 +44,7 @@ def create_app() -> Flask:
     from website.routes.power_rankings import bp as pr_bp
     from website.routes.draft          import bp as draft_bp
     from website.routes.acquisition    import bp as acq_bp
+    from website.routes.head_to_head   import bp as h2h_bp
 
     app.register_blueprint(season_bp)
     app.register_blueprint(coach_bp,   url_prefix="/coach")
@@ -51,6 +52,7 @@ def create_app() -> Flask:
     app.register_blueprint(pr_bp,      url_prefix="/power-rankings")
     app.register_blueprint(draft_bp,   url_prefix="/draft-heat-map")
     app.register_blueprint(acq_bp,     url_prefix="/acquisition")
+    app.register_blueprint(h2h_bp,     url_prefix="/head-to-head")
 
     @app.context_processor
     def inject_season_nav():

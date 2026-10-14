@@ -1,8 +1,8 @@
-import sys, os, re, shutil, time, json
+import sys, os, re, shutil, time, json, itertools
 sys.path.insert(0, os.path.dirname(__file__))
 
 from website.app import create_app
-from website.config import SEASON_YEAR
+from website.config import SEASON_YEAR, COACH_ORDER
 from website.data.loader import list_available_seasons, list_season_coaches
 
 OUTPUT_DIR = "docs"
@@ -76,6 +76,14 @@ with app.test_client() as client:
         print(f"  /coach/{name} -> {out_path}")
         render(client, f"/coach/{name}", out_path)
         page_count += 1
+
+    # All-time page, not year-scoped — every ordered coach pair so both grid
+    # cells (row=A/col=B and row=B/col=A) on the Hall of Fame page resolve.
+    for a, b in itertools.permutations(COACH_ORDER, 2):
+        out_path = f"{OUTPUT_DIR}/head-to-head/{a}/{b}/index.html"
+        render(client, f"/head-to-head/{a}/{b}", out_path)
+        page_count += 1
+    print(f"  /head-to-head/<coach>/<coach> -> {OUTPUT_DIR}/head-to-head/.../index.html  ({len(COACH_ORDER)*(len(COACH_ORDER)-1)} pages)")
 
     for year in list_available_seasons():
         if year == SEASON_YEAR:

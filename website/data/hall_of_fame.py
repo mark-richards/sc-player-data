@@ -340,6 +340,55 @@ def build_head_to_head(years: list[int]) -> dict:
     return {"coaches": COACH_ORDER, "cells": record}
 
 
+def build_h2h_games(years: list[int], coach_a: str, coach_b: str) -> list[dict]:
+    """
+    Every individual game between two specific coaches, across regular
+    season and finals, newest first. Powers the Head-to-Head drill-down
+    page (records.html's grid links each cell here).
+
+    Returns [{"year", "round", "stage" ("Regular Season"|"Finals"),
+              "points_a", "points_b", "winner"}, ...]
+    """
+    from website.data.loader import load_fixtures
+    from website.data.finals import load_finals_fixtures
+
+    games: list[dict] = []
+
+    for year in years:
+        fx = load_fixtures(year)
+        if not fx.empty:
+            seen = set()
+            for _, r in fx.iterrows():
+                a, b = str(r["coach_first_name"]), str(r.get("opposition_team_coach"))
+                if {a, b} != {coach_a, coach_b}:
+                    continue
+                key = (year, int(r["round_number"]))
+                if key in seen:
+                    continue
+                seen.add(key)
+                pts_a = r["team_points"] if a == coach_a else r["opposition_team_points"]
+                pts_b = r["opposition_team_points"] if a == coach_a else r["team_points"]
+                games.append({
+                    "year": year, "round": int(r["round_number"]), "stage": "Regular Season",
+                    "points_a": int(pts_a), "points_b": int(pts_b),
+                    "winner": coach_a if pts_a > pts_b else (coach_b if pts_b > pts_a else None),
+                })
+
+        for f in load_finals_fixtures(year):
+            if {f["coach1"], f["coach2"]} != {coach_a, coach_b}:
+                continue
+            pts_a = f["score1"] if f["coach1"] == coach_a else f["score2"]
+            pts_b = f["score2"] if f["coach1"] == coach_a else f["score1"]
+            games.append({
+                "year": year, "round": f["round"], "stage": "Finals",
+                "points_a": int(pts_a), "points_b": int(pts_b),
+                "winner": coach_a if pts_a > pts_b else (coach_b if pts_b > pts_a else None),
+            })
+
+    games.sort(key=lambda g: (g["year"], g["round"]), reverse=True)
+    return games
+
+
 def build_favourite_players(years: list[int], top_n: int = 3) -> list[dict]:
     """
     Each coach's most-rostered players across every completed season (any

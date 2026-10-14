@@ -27,6 +27,7 @@ def _load_round_fixtures(json_dir, rnd: int) -> list[dict]:
             "coach1": c1, "score1": p1,
             "coach2": c2, "score2": p2,
             "winner": c1 if p1 > p2 else c2,
+            "round": rnd,
         })
     return matches
 
