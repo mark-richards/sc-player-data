@@ -383,6 +383,17 @@ def build_power_rankings_table(
                 "color":           _cell_color(v, lo, hi) if v is not None else "rgb(230,230,230)",
                 "text_color":      _text_color(v, lo, hi) if v is not None else "#aaa",
                 "tooltip":         "<br>".join(tooltip_parts),
+                # Structured versions of the tooltip content, for a mobile
+                # expand view that shows this inline instead of relying on
+                # hover (which doesn't work on touch). "score"/"opp_score"
+                # are raw team totals (NOT the same unit as "val", which is
+                # score-per-player) — keep them paired together, never mix
+                # "val" with "opp_score".
+                "score":           match["score"] if match else None,
+                "opponent":        match["opp_coach"] if match else None,
+                "opp_score":       match["opp_score"] if match else None,
+                "injured_players": injured,
+                "donut_players":   donuts[:n_donuts],
             })
 
         total_injuries = sum(c["injuries"] for c in cells)
