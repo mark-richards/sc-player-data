@@ -506,3 +506,44 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
         result["worst"] = _row_to_dict(worst)
 
     return result
+
+
+def get_walking_wounded(draft_csv, player_list_csv, alias_map: dict,
+                         sc_df: pd.DataFrame,
+                         sc_round_df: "pd.DataFrame | None" = None) -> dict | None:
+    """
+    For the "Walking Wounded" award: the coach whose drafted roster lost the
+    most games to confirmed long-term injury this season (sum of
+    missed_non_bye across picks flagged heavily_missed — see
+    _build_draft_df_with_ranks). Returns None if nobody had a qualifying
+    long-term-injury casualty that season, rather than forcing a marginal
+    winner.
+
+    Returns {"coach", "games_missed", "players": [{"player", "missed_non_bye"}, ...]}.
+    """
+    draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df)
+    if draft_df is None or "heavily_missed" not in draft_df.columns:
+        return None
+
+    casualties = draft_df[draft_df["heavily_missed"].fillna(False)]
+    if casualties.empty:
+        return None
+
+    by_coach = (
+        casualties.groupby("coach_name")["missed_non_bye"]
+        .sum()
+        .sort_values(ascending=False)
+    )
+    top_coach = by_coach.index[0]
+    coach_casualties = casualties[casualties["coach_name"] == top_coach].sort_values(
+        "missed_non_bye", ascending=False
+    )
+
+    return {
+        "coach":        top_coach,
+        "games_missed": int(by_coach.iloc[0]),
+        "players": [
+            {"player": str(r["Player"]), "missed_non_bye": int(r["missed_non_bye"])}
+            for _, r in coach_casualties.iterrows()
+        ],
+    }
