@@ -552,6 +552,11 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
     picks drafted around it that same year. Falls back to pick_value when no
     baseline is supplied (e.g. not enough historical seasons yet).
 
+    worst_late additionally prefers picks that actually got a game (raw_avg
+    > 0): a total zero from a late, speculative pick isn't a meaningful
+    story (that's the norm for a flier that late, whatever the cause), while
+    one that played and still badly underperformed reflects a real miss.
+
     Each entry: coach, player, draft_round, pick, final_score, value,
     value_label (the latter two describe whichever metric was used).
     """
@@ -589,12 +594,25 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
     if not early.empty:
         b = early.loc[early["pick_value"].idxmax()]
         result["best_early"] = _row_to_dict(b, b["pick_value"], "vs. the picks around it")
+        # Early picks carry real expectation, so even a total bust (e.g. a
+        # season-ending injury before round 1) is still a meaningful story —
+        # no games-played filter here.
         w = early.loc[early["worst_metric"].idxmin()]
         result["worst_early"] = _row_to_dict(w, w["worst_metric"], worst_label(int(w["draft_round"])))
     if not late.empty:
         b = late.loc[late["pick_value"].idxmax()]
         result["best_late"] = _row_to_dict(b, b["pick_value"], "vs. the picks around it")
-        w = late.loc[late["worst_metric"].idxmin()]
+        # A late pick that never got a single game (raw_avg == 0) isn't a
+        # meaningful "worst pick" story — busting is the norm for a
+        # speculative flier that late, regardless of cause (omission,
+        # injury, etc. look identical in the data either way). Prefer a
+        # late pick that actually played and still badly underperformed —
+        # that reflects a real evaluation miss, not a coin-flip outcome.
+        # Falls back to the full late pool if every late pick that year
+        # was a zero-gamer.
+        late_played = late[late["raw_avg"] > 0]
+        late_worst_pool = late_played if not late_played.empty else late
+        w = late_worst_pool.loc[late_worst_pool["worst_metric"].idxmin()]
         result["worst_late"] = _row_to_dict(w, w["worst_metric"], worst_label(int(w["draft_round"])))
 
     return result or None
