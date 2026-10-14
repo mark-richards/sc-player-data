@@ -37,7 +37,7 @@
   </div>
   <div class="card-body">
 
-    <div id="shareCard" class="text-center mx-auto p-4 mb-3" style="max-width:380px; background:#fff; border-radius:12px;">
+    <div class="text-center mx-auto p-4 mb-4" style="max-width:380px; background:#fff; border-radius:12px;">
       <div class="text-muted text-uppercase" style="font-size:0.68rem; letter-spacing:.08em;">ASL Fantasy &middot; {{ season_year }} Season</div>
       <div class="mt-1" style="font-size:2rem; line-height:1;">🏆</div>
       <a href="{{ year_href('coach.coach_profile', season_year, coach_name=finals_bracket.premier) }}" class="text-decoration-none">
@@ -55,11 +55,6 @@
         </div>
         <div class="text-muted small mt-1">Grand Final</div>
       </div>
-    </div>
-    <div class="text-center mb-4">
-      <button id="shareCardBtn" class="btn btn-sm btn-outline-dark" onclick="shareCard('shareCard', '{{ season_year }}_premier.png')">
-        <i class="bi bi-share"></i> Share
-      </button>
     </div>
 
     <div class="finals-bracket">
@@ -879,56 +874,4 @@ function buildLadderJourney(containerId, plotlyData) {
   container.appendChild(svg);
 }
 </script>
-
-{% if finals_bracket %}
-<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
-<script>
-// navigator.share() only works within the browser's "this click authorized
-// a share" window — html2canvas rendering the card + converting it to a
-// blob can easily take long enough on its own to blow past that window,
-// which silently falls back to a plain download instead of the share
-// sheet. Pre-render in the background as soon as the page loads (and
-// re-render on demand if that ever fails) so the click handler usually has
-// nothing left to await before calling share().
-let _shareCardBlobPromise = null;
-function _prepareShareCardBlob(elementId) {
-  if (!_shareCardBlobPromise) {
-    _shareCardBlobPromise = html2canvas(document.getElementById(elementId), { backgroundColor: '#ffffff', scale: 2 })
-      .then(canvas => new Promise(resolve => canvas.toBlob(resolve, 'image/png')));
-  }
-  return _shareCardBlobPromise;
-}
-window.addEventListener('load', () => {
-  const card = document.getElementById('shareCard');
-  if (card) _prepareShareCardBlob('shareCard');
-});
-
-async function shareCard(elementId, filename) {
-  const btn = document.getElementById('shareCardBtn');
-  const original = btn.innerHTML;
-  btn.disabled = true;
-  btn.innerHTML = '<i class="bi bi-hourglass-split"></i> Preparing…';
-  try {
-    const blob = await _prepareShareCardBlob(elementId);
-    const file = new File([blob], filename, { type: 'image/png' });
-    if (navigator.canShare && navigator.canShare({ files: [file] })) {
-      try {
-        await navigator.share({ files: [file], title: filename });
-      } catch (e) { /* user cancelled share — not an error */ }
-    } else {
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url; a.download = filename;
-      document.body.appendChild(a); a.click(); a.remove();
-      URL.revokeObjectURL(url);
-    }
-  } catch (e) {
-    console.error('shareCard failed:', e);
-  } finally {
-    btn.disabled = false;
-    btn.innerHTML = original;
-  }
-}
-</script>
-{% endif %}
 {% endblock %}
