@@ -45,6 +45,20 @@ def _memoize(fn):
 
 POS_COUNT = {"DEF": 40, "MID": 56, "RUC": 16, "FWD": 40}
 
+# Fanfooty's own Position vocabulary, used only as a last-resort position
+# source (see _compute_effective_avg's final fallback tier) — different
+# words than SC's DEF/MID/RUC/FWD scheme, mapped onto it here.
+_FANFOOTY_POS_MAP = {"Back": "DEF", "Midfielder": "MID", "Ruck": "RUC", "Forward": "FWD"}
+
+
+def _split_fanfooty_position(raw) -> tuple[str | None, str | None]:
+    if not isinstance(raw, str):
+        return None, None
+    tokens = [_FANFOOTY_POS_MAP[t] for t in raw.split() if t in _FANFOOTY_POS_MAP]
+    if not tokens:
+        return None, None
+    return tokens[0], (tokens[1] if len(tokens) > 1 else None)
+
 RANK_TIERS = [
     ("rank_1",   lambda r: r == 1),
     ("rank_2_3", lambda r: 2 <= r <= 3),
@@ -80,7 +94,8 @@ def _rank_label(rank: int) -> str:
 
 def _compute_effective_avg(sc_df: pd.DataFrame,
                            player_list_df: pd.DataFrame | None = None,
-                           sc_round_df: "pd.DataFrame | None" = None) -> pd.DataFrame:
+                           sc_round_df: "pd.DataFrame | None" = None,
+                           year: int | None = None) -> pd.DataFrame:
     """
     Compute a TPOR-adjusted effective average using SC-official data as primary source.
 
@@ -207,6 +222,19 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
     agg["median_score"] = agg.apply(_adjusted, axis=1).round(2)
     result = agg[["feed_id", "pos_1", "pos_2", "raw_avg", "median_score", "missed_bye", "missed_non_bye"]].copy()
 
+    # Ground-truth per-player totals from the SC-official bulk round endpoint
+    # (covers every player regardless of fantasy rostering), used below by
+    # both fallback tiers as a score source for players absent from sc_df.
+    round_totals: dict = {}
+    if sc_round_df is not None and not sc_round_df.empty:
+        srd_played = sc_round_df[sc_round_df["played"] == 1].dropna(subset=["feed_id"]).copy()
+        srd_played["points"] = pd.to_numeric(srd_played["points"], errors="coerce")
+        round_totals = (
+            srd_played.groupby("feed_id")
+            .agg(total_sc=("points", "sum"), games_played=("points", "count"))
+            .to_dict("index")
+        )
+
     # Players in the draft but absent from sc_df entirely — not necessarily
     # zero-game: sc_df is built from fantasy-roster snapshots, so a player who
     # was drafted and then never actually started/benched on any coach's
@@ -223,16 +251,6 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
         pl = pl.dropna(subset=["feed_id"])
         missing = pl[~pl["feed_id"].isin(result["feed_id"])].copy()
         if not missing.empty:
-            round_totals: dict = {}
-            if sc_round_df is not None and not sc_round_df.empty:
-                srd_played = sc_round_df[sc_round_df["played"] == 1].dropna(subset=["feed_id"]).copy()
-                srd_played["points"] = pd.to_numeric(srd_played["points"], errors="coerce")
-                round_totals = (
-                    srd_played.groupby("feed_id")
-                    .agg(total_sc=("points", "sum"), games_played=("points", "count"))
-                    .to_dict("index")
-                )
-
             def _zero_breakdown(row):
                 bye_rds    = all_rounds - team_played_rounds.get(row["team"], all_rounds)
                 missed_bye = len(bye_rds)
@@ -244,24 +262,82 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
                 lambda r: pd.Series(_zero_breakdown(r)), axis=1
             )
 
+            # player_list_df's own "position" can be a compound string too
+            # (e.g. "MID FWD" — confirmed for several players, not just a
+            # 2019-2021 thing: Dustin Martin 2022, Nat Fyfe 2023). Split the
+            # same way as sc_df's pos_1 above, for the same reason.
+            def _split_position(pos):
+                if isinstance(pos, str) and " " in pos:
+                    parts = pos.split()
+                    return pd.Series([parts[0], parts[1]])
+                return pd.Series([pos, None])
+
+            missing[["pos_1", "pos_2"]] = missing["position"].apply(_split_position)
+
             def _fallback_scores(row):
                 rt = round_totals.get(row["feed_id"])
                 if not rt or not rt["games_played"]:
                     return 0.0, 0.0
                 raw_avg = rt["total_sc"] / rt["games_played"]
-                repl = replacement.get(row["position"], 0.0)
+                repl = replacement.get(row["pos_1"], 0.0)
                 median = (rt["total_sc"] + repl * (total_rounds - rt["games_played"])) / total_rounds
                 return round(raw_avg, 2), round(median, 2)
 
             missing[["raw_avg", "median_score"]] = missing.apply(
                 lambda r: pd.Series(_fallback_scores(r)), axis=1
             )
-            missing = missing.rename(columns={"position": "pos_1"})
-            missing["pos_2"] = None
             result = pd.concat(
                 [result, missing[["feed_id", "pos_1", "pos_2", "raw_avg", "median_score", "missed_bye", "missed_non_bye"]]],
                 ignore_index=True,
             )
+
+    # Last resort: a small number of players have real games in sc_round_df
+    # (confirmed AFL regulars, not scratch picks) but never appear in either
+    # source above — never rostered by any coach at all, not even once, so
+    # there's no team/position record of them anywhere in this pipeline's
+    # usual sources. Fanfooty's own per-round data has both for every player
+    # regardless of fantasy involvement, just in a different vocabulary
+    # (Back/Midfielder/Forward/Ruck, sometimes compound) mapped onto
+    # DEF/MID/RUC/FWD by _split_fanfooty_position.
+    still_missing = set(round_totals) - set(result["feed_id"].dropna())
+    if still_missing and year is not None:
+        from website.data.loader import load_fanfooty_season
+        fdf = load_fanfooty_season(year)
+        if not fdf.empty:
+            fpos = (
+                fdf.dropna(subset=["Player ID"])
+                .sort_values("round_num")
+                .groupby("Player ID")["Position"]
+                .last()
+            )
+            srd_team = (
+                sc_round_df.dropna(subset=["feed_id"])
+                .sort_values("round")
+                .groupby("feed_id")["team_abbrev"]
+                .last()
+            ) if sc_round_df is not None and not sc_round_df.empty else pd.Series(dtype=object)
+
+            rows = []
+            for fid in still_missing:
+                pos_1, pos_2 = _split_fanfooty_position(fpos.get(fid))
+                if pos_1 is None:
+                    continue
+                rt = round_totals[fid]
+                team = srd_team.get(fid)
+                bye_rds = all_rounds - team_played_rounds.get(team, all_rounds)
+                actual_played = sc_round_played_rounds.get(fid, set())
+                repl = replacement.get(pos_1, 0.0)
+                rows.append({
+                    "feed_id":        fid,
+                    "pos_1":          pos_1,
+                    "pos_2":          pos_2,
+                    "raw_avg":        round(rt["total_sc"] / rt["games_played"], 2),
+                    "median_score":   round((rt["total_sc"] + repl * (total_rounds - rt["games_played"])) / total_rounds, 2),
+                    "missed_bye":     len(bye_rds),
+                    "missed_non_bye": len(all_rounds - bye_rds - actual_played),
+                })
+            if rows:
+                result = pd.concat([result, pd.DataFrame(rows)], ignore_index=True)
 
     return result
 
@@ -434,7 +510,7 @@ def _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map: dict,
         else:
             from website.data.loader import load_legacy_player_positions
             player_list_df = load_legacy_player_positions(year)
-        player_data    = _compute_effective_avg(sc_df, player_list_df, sc_round_df)
+        player_data    = _compute_effective_avg(sc_df, player_list_df, sc_round_df, year)
         player_data    = _compute_zscores(player_data)
         draft_df = draft_df.merge(
             player_data[["feed_id", "pos_1", "raw_avg", "median_score", "final_score", "missed_bye", "missed_non_bye"]],
