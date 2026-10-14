@@ -295,49 +295,67 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
     # (confirmed AFL regulars, not scratch picks) but never appear in either
     # source above — never rostered by any coach at all, not even once, so
     # there's no team/position record of them anywhere in this pipeline's
-    # usual sources. Fanfooty's own per-round data has both for every player
-    # regardless of fantasy involvement, just in a different vocabulary
-    # (Back/Midfielder/Forward/Ruck, sometimes compound) mapped onto
-    # DEF/MID/RUC/FWD by _split_fanfooty_position.
+    # usual sources. sc_round_df itself carries a native "position" column
+    # for 2020+ (the raw SC dumps request it explicitly, per
+    # ingest_historical_season.py's _positions()) — preferred when present,
+    # since it's SC's own classification. Falls back to fanfooty's per-round
+    # data (every player regardless of fantasy involvement, just in a
+    # different vocabulary — Back/Midfielder/Forward/Ruck, sometimes
+    # compound — mapped onto DEF/MID/RUC/FWD) for years with no native
+    # position in sc_round_df at all (currently: 2019 and earlier, which
+    # predate any SC archive).
     still_missing = set(round_totals) - set(result["feed_id"].dropna())
-    if still_missing and year is not None:
-        from website.data.loader import load_fanfooty_season
-        fdf = load_fanfooty_season(year)
-        if not fdf.empty:
-            fpos = (
-                fdf.dropna(subset=["Player ID"])
-                .sort_values("round_num")
-                .groupby("Player ID")["Position"]
-                .last()
-            )
-            srd_team = (
-                sc_round_df.dropna(subset=["feed_id"])
-                .sort_values("round")
-                .groupby("feed_id")["team_abbrev"]
-                .last()
-            ) if sc_round_df is not None and not sc_round_df.empty else pd.Series(dtype=object)
+    if still_missing:
+        srd_team = pd.Series(dtype=object)
+        srd_pos: dict = {}
+        if sc_round_df is not None and not sc_round_df.empty:
+            srd_sorted = sc_round_df.dropna(subset=["feed_id"]).sort_values("round")
+            srd_team = srd_sorted.groupby("feed_id")["team_abbrev"].last()
+            if "position" in sc_round_df.columns:
+                srd_pos = (
+                    srd_sorted.dropna(subset=["position"])
+                    .groupby("feed_id")[["position", "position_2"]]
+                    .last()
+                    .to_dict("index")
+                )
 
-            rows = []
-            for fid in still_missing:
+        fpos = pd.Series(dtype=object)
+        fanfooty_fids = still_missing - set(srd_pos)
+        if fanfooty_fids and year is not None:
+            from website.data.loader import load_fanfooty_season
+            fdf = load_fanfooty_season(year)
+            if not fdf.empty:
+                fpos = (
+                    fdf.dropna(subset=["Player ID"])
+                    .sort_values("round_num")
+                    .groupby("Player ID")["Position"]
+                    .last()
+                )
+
+        rows = []
+        for fid in still_missing:
+            if fid in srd_pos:
+                pos_1, pos_2 = srd_pos[fid]["position"], srd_pos[fid]["position_2"]
+            else:
                 pos_1, pos_2 = _split_fanfooty_position(fpos.get(fid))
-                if pos_1 is None:
-                    continue
-                rt = round_totals[fid]
-                team = srd_team.get(fid)
-                bye_rds = all_rounds - team_played_rounds.get(team, all_rounds)
-                actual_played = sc_round_played_rounds.get(fid, set())
-                repl = replacement.get(pos_1, 0.0)
-                rows.append({
-                    "feed_id":        fid,
-                    "pos_1":          pos_1,
-                    "pos_2":          pos_2,
-                    "raw_avg":        round(rt["total_sc"] / rt["games_played"], 2),
-                    "median_score":   round((rt["total_sc"] + repl * (total_rounds - rt["games_played"])) / total_rounds, 2),
-                    "missed_bye":     len(bye_rds),
-                    "missed_non_bye": len(all_rounds - bye_rds - actual_played),
-                })
-            if rows:
-                result = pd.concat([result, pd.DataFrame(rows)], ignore_index=True)
+            if pos_1 is None:
+                continue
+            rt = round_totals[fid]
+            team = srd_team.get(fid)
+            bye_rds = all_rounds - team_played_rounds.get(team, all_rounds)
+            actual_played = sc_round_played_rounds.get(fid, set())
+            repl = replacement.get(pos_1, 0.0)
+            rows.append({
+                "feed_id":        fid,
+                "pos_1":          pos_1,
+                "pos_2":          pos_2,
+                "raw_avg":        round(rt["total_sc"] / rt["games_played"], 2),
+                "median_score":   round((rt["total_sc"] + repl * (total_rounds - rt["games_played"])) / total_rounds, 2),
+                "missed_bye":     len(bye_rds),
+                "missed_non_bye": len(all_rounds - bye_rds - actual_played),
+            })
+        if rows:
+            result = pd.concat([result, pd.DataFrame(rows)], ignore_index=True)
 
     return result
 

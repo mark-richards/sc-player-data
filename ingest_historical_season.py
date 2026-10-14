@@ -87,6 +87,23 @@ def _v(x):
         return x
 
 
+def _positions(p: dict) -> tuple[str | None, str | None]:
+    """
+    A raw SC player record's 'positions' field (requested explicitly in the
+    players-cf_embed/sc_players_N dumps, e.g. [{'position': 'MID'}, ...]) —
+    present for EVERY player each round regardless of fantasy ownership,
+    unlike the lineup-derived 'position' in player_match_results.csv (which
+    only covers players some coach actually rostered that round). Returns
+    (primary, secondary) position tokens, secondary is None for a
+    single-eligibility player.
+    """
+    entries = p.get("positions") or []
+    tokens = [str(_v(e.get("position"))) for e in entries if e.get("position") is not None]
+    if not tokens:
+        return None, None
+    return tokens[0], (tokens[1] if len(tokens) > 1 else None)
+
+
 # ── Raw-dump path (2022-2024) ───────────────────────────────────────────────
 
 def _round_snapshot(year: int, round_num: int) -> dict | None:
@@ -241,9 +258,11 @@ def build_player_matches_from_raw(year: int, coach_map: dict[int, dict], max_rou
                 "team":       team_abbrev,
                 "points":     points,
             }
+            pos_1, pos_2 = _positions(p)
             sc_round_rows.append({
                 "feed_id": fid, "round": rnd, "team_abbrev": team_abbrev,
                 "played": int(_v(s0.get("games")) or 0), "points": points,
+                "position": pos_1, "position_2": pos_2,
             })
 
         for team_id in coach_map:
@@ -875,10 +894,12 @@ def _extract_sc_round_rows(players: list, rnd: int) -> list[dict]:
     for p in players:
         stats = p.get("player_stats") or []
         s0 = stats[0] if stats else {}
+        pos_1, pos_2 = _positions(p)
         rows.append({
             "feed_id": _v(p.get("feed_id")), "round": rnd,
             "team_abbrev": str(_v(p["team"]["abbrev"])) if p.get("team") else "",
             "played": int(_v(s0.get("games")) or 0), "points": float(_v(s0.get("points")) or 0),
+            "position": pos_1, "position_2": pos_2,
         })
     return rows
 
