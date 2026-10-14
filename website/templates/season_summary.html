@@ -883,31 +883,48 @@ function buildLadderJourney(containerId, plotlyData) {
 {% if finals_bracket %}
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
 <script>
+// navigator.share() only works within the browser's "this click authorized
+// a share" window — html2canvas rendering the card + converting it to a
+// blob can easily take long enough on its own to blow past that window,
+// which silently falls back to a plain download instead of the share
+// sheet. Pre-render in the background as soon as the page loads (and
+// re-render on demand if that ever fails) so the click handler usually has
+// nothing left to await before calling share().
+let _shareCardBlobPromise = null;
+function _prepareShareCardBlob(elementId) {
+  if (!_shareCardBlobPromise) {
+    _shareCardBlobPromise = html2canvas(document.getElementById(elementId), { backgroundColor: '#ffffff', scale: 2 })
+      .then(canvas => new Promise(resolve => canvas.toBlob(resolve, 'image/png')));
+  }
+  return _shareCardBlobPromise;
+}
+window.addEventListener('load', () => {
+  const card = document.getElementById('shareCard');
+  if (card) _prepareShareCardBlob('shareCard');
+});
+
 async function shareCard(elementId, filename) {
   const btn = document.getElementById('shareCardBtn');
   const original = btn.innerHTML;
   btn.disabled = true;
   btn.innerHTML = '<i class="bi bi-hourglass-split"></i> Preparing…';
   try {
-    const canvas = await html2canvas(document.getElementById(elementId), { backgroundColor: '#ffffff', scale: 2 });
-    canvas.toBlob(async (blob) => {
-      const file = new File([blob], filename, { type: 'image/png' });
-      if (navigator.canShare && navigator.canShare({ files: [file] })) {
-        try {
-          await navigator.share({ files: [file], title: filename });
-        } catch (e) { /* user cancelled share — not an error */ }
-      } else {
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url; a.download = filename;
-        document.body.appendChild(a); a.click(); a.remove();
-        URL.revokeObjectURL(url);
-      }
-      btn.disabled = false;
-      btn.innerHTML = original;
-    }, 'image/png');
+    const blob = await _prepareShareCardBlob(elementId);
+    const file = new File([blob], filename, { type: 'image/png' });
+    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+      try {
+        await navigator.share({ files: [file], title: filename });
+      } catch (e) { /* user cancelled share — not an error */ }
+    } else {
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url; a.download = filename;
+      document.body.appendChild(a); a.click(); a.remove();
+      URL.revokeObjectURL(url);
+    }
   } catch (e) {
     console.error('shareCard failed:', e);
+  } finally {
     btn.disabled = false;
     btn.innerHTML = original;
   }
