@@ -540,17 +540,24 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
     "worst_late": {...}} (a half with no usable data is simply absent from
     the dict), or None if there's no usable draft data at all.
 
-    Best picks are ranked by pick_value (see _build_draft_df_with_ranks —
-    value vs. the 8 picks drafted immediately around it that same season):
-    a good story for "best" regardless of round, since a late-round steal
-    and an early-round smash both read as "beat the picks around them".
+    Early picks (both best and worst) are ranked by value vs. round_baseline
+    when given (that round's pooled historical average final_score across
+    every past draft, from build_round_value_baseline()) rather than
+    pick_value — a single-season 8-pick window of immediate neighbours can
+    be unusually strong or weak by chance that year (e.g. 2023: Bontempelli
+    had the higher raw score of the two, but R.Laird's pick_value looked
+    better purely because Laird's own neighbours happened to be weaker than
+    Bontempelli's, which included Laird himself). Comparing both to the same
+    multi-season baseline for their round fixes this. Falls back to
+    pick_value when no baseline is supplied (e.g. not enough historical
+    seasons yet).
 
-    Worst picks are ranked by value vs. round_baseline when given (that
-    round's pooled historical average final_score across every past draft,
-    from build_round_value_baseline()) rather than pick_value — a single-
-    season 8-pick window can hide a true bust behind a run of other weak
-    picks drafted around it that same year. Falls back to pick_value when no
-    baseline is supplied (e.g. not enough historical seasons yet).
+    Late picks (both best and worst) stay on pick_value (value vs. the 8
+    picks drafted immediately around it that same season) — a good story
+    for "best" since a late-round steal reads as "beat the picks around
+    it" regardless of round baseline, and round_baseline specifically skews
+    "best" toward late picks that merely cleared a deeply negative average
+    rather than true standouts.
 
     worst_late additionally prefers picks that actually got a game (raw_avg
     > 0): a total zero from a late, speculative pick isn't a meaningful
@@ -569,12 +576,12 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
         return None
 
     if round_baseline:
-        valid["worst_metric"] = valid["final_score"] - valid["draft_round"].map(round_baseline)
-        worst_label = lambda rd: f"vs. the historical Rd {rd} average"
+        valid["history_value"] = valid["final_score"] - valid["draft_round"].map(round_baseline)
+        history_label = lambda rd: f"vs. the historical Rd {rd} average"
     else:
-        valid["worst_metric"] = valid["pick_value"]
-        worst_label = lambda rd: "vs. the picks around it"
-    valid = valid.dropna(subset=["worst_metric"])
+        valid["history_value"] = valid["pick_value"]
+        history_label = lambda rd: "vs. the picks around it"
+    valid = valid.dropna(subset=["history_value"])
 
     def _row_to_dict(row, value: float, label: str) -> dict:
         return {
@@ -592,13 +599,13 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
 
     result: dict = {}
     if not early.empty:
-        b = early.loc[early["pick_value"].idxmax()]
-        result["best_early"] = _row_to_dict(b, b["pick_value"], "vs. the picks around it")
+        b = early.loc[early["history_value"].idxmax()]
+        result["best_early"] = _row_to_dict(b, b["history_value"], history_label(int(b["draft_round"])))
         # Early picks carry real expectation, so even a total bust (e.g. a
         # season-ending injury before round 1) is still a meaningful story —
         # no games-played filter here.
-        w = early.loc[early["worst_metric"].idxmin()]
-        result["worst_early"] = _row_to_dict(w, w["worst_metric"], worst_label(int(w["draft_round"])))
+        w = early.loc[early["history_value"].idxmin()]
+        result["worst_early"] = _row_to_dict(w, w["history_value"], history_label(int(w["draft_round"])))
     if not late.empty:
         b = late.loc[late["pick_value"].idxmax()]
         result["best_late"] = _row_to_dict(b, b["pick_value"], "vs. the picks around it")
@@ -612,7 +619,7 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
         # was a zero-gamer.
         late_played = late[late["raw_avg"] > 0]
         late_worst_pool = late_played if not late_played.empty else late
-        w = late_worst_pool.loc[late_worst_pool["worst_metric"].idxmin()]
-        result["worst_late"] = _row_to_dict(w, w["worst_metric"], worst_label(int(w["draft_round"])))
+        w = late_worst_pool.loc[late_worst_pool["history_value"].idxmin()]
+        result["worst_late"] = _row_to_dict(w, w["history_value"], history_label(int(w["draft_round"])))
 
     return result or None
