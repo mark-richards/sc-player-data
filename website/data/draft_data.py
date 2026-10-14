@@ -143,13 +143,29 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
         .reset_index()
     )
 
-    # Per-player positions (most recent round's pos_1/pos_2 from SC data)
+    # Per-player positions (most recent round's pos_1/pos_2 from SC data).
+    # sc_df's own pos_1 sometimes carries BOTH eligible positions as one
+    # compound string (e.g. "MID FWD") instead of a single token, with pos_2
+    # always empty — unlike every other position source this function uses
+    # (player_list_df, the legacy fallback), which are always a single clean
+    # token. Split those into pos_1/pos_2 so dual-position players actually
+    # get matched into both position groups below instead of neither
+    # (a compound string like "MID FWD" matches no POS_COUNT key exactly,
+    # which silently dropped the player out of z-scoring entirely).
+    def _split_pos(row):
+        p1 = row["pos_1"]
+        if isinstance(p1, str) and " " in p1:
+            parts = p1.split()
+            return pd.Series([parts[0], parts[1]])
+        return pd.Series([p1, row["pos_2"]])
+
     player_pos = (
         played.sort_values("round")
         .groupby("feed_id")[["pos_1", "pos_2"]]
         .last()
         .reset_index()
     )
+    player_pos[["pos_1", "pos_2"]] = player_pos.apply(_split_pos, axis=1)
 
     # Raw aggregates
     agg = (
@@ -380,7 +396,8 @@ def build_coach_summary(draft_df: pd.DataFrame, coach_order: list[str]) -> list[
 
 def _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map: dict,
                                 sc_df: pd.DataFrame,
-                                sc_round_df: "pd.DataFrame | None" = None) -> "pd.DataFrame | None":
+                                sc_round_df: "pd.DataFrame | None" = None,
+                                year: int | None = None) -> "pd.DataFrame | None":
     """
     Shared pipeline behind both load_draft_board() (the Heat Map page) and
     get_pick_value_extremes() (the Best/Worst Draft Pick award): loads the
@@ -405,11 +422,18 @@ def _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map: dict,
     draft_df = _load_draft(draft_csv, alias_map)
 
     if sc_df is not None and not sc_df.empty:
-        # player_list_csv only exists for 2022+ (draft_prep/SC {year}/) — it's an
-        # optional enrichment _compute_effective_avg uses for zero-game players'
-        # team/position, not a requirement for computing real scores. Years
-        # without it (2017-2021) still get a proper performance-based ranking.
-        player_list_df = pd.read_csv(player_list_csv, low_memory=False) if player_list_csv.exists() else None
+        # player_list_csv only exists for 2022+ (draft_prep/SC {year}/) — it's
+        # the preferred source _compute_effective_avg uses for team/position
+        # of players absent from sc_df entirely (see its docstring). Years
+        # without it (2019-2021) fall back to player_match_results.csv's most
+        # recent roster appearance instead of going without — leaving this
+        # None was why most picks in those years had no score at all (e.g.
+        # 2021 was ~40% missing vs ~11% for a year with player_list_csv).
+        if player_list_csv.exists():
+            player_list_df = pd.read_csv(player_list_csv, low_memory=False)
+        else:
+            from website.data.loader import load_legacy_player_positions
+            player_list_df = load_legacy_player_positions(year)
         player_data    = _compute_effective_avg(sc_df, player_list_df, sc_round_df)
         player_data    = _compute_zscores(player_data)
         draft_df = draft_df.merge(
@@ -470,7 +494,8 @@ def _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map: dict,
 
 def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
                      coach_order: list[str], sc_df: pd.DataFrame,
-                     sc_round_df: "pd.DataFrame | None" = None):
+                     sc_round_df: "pd.DataFrame | None" = None,
+                     year: int | None = None):
     """
     Main entry point for the Heat Map page. Returns (coach_summary, board_rows,
     n_rounds, coach_order).
@@ -480,7 +505,7 @@ def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
                  every player regardless of fantasy roster, used as ground truth for
                  whether a player actually played a round.
     """
-    draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df)
+    draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df, year)
     if draft_df is None:
         return [], [], 0, coach_order
 
@@ -517,7 +542,7 @@ def build_round_value_baseline(alias_map: dict) -> dict[int, float]:
             continue
         plcsv = player_list_csv_path(year)
         sc_round_df = load_sc_round_files(year)
-        ddf = _build_draft_df_with_ranks(dcsv, plcsv, alias_map, sc_df, sc_round_df)
+        ddf = _build_draft_df_with_ranks(dcsv, plcsv, alias_map, sc_df, sc_round_df, year)
         if ddf is not None:
             frames.append(ddf[["draft_round", "final_score"]].dropna())
 
@@ -531,7 +556,8 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
                              sc_df: pd.DataFrame,
                              sc_round_df: "pd.DataFrame | None" = None,
                              early_max_round: int = 8,
-                             round_baseline: "dict[int, float] | None" = None) -> dict | None:
+                             round_baseline: "dict[int, float] | None" = None,
+                             year: int | None = None) -> dict | None:
     """
     For the Best/Worst Early/Late Draft Pick awards: splits picks into
     "early" (draft_round <= early_max_round, i.e. premium draft capital) and
@@ -567,7 +593,7 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
     Each entry: coach, player, draft_round, pick, final_score, value,
     value_label (the latter two describe whichever metric was used).
     """
-    draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df)
+    draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df, year)
     if draft_df is None:
         return None
 

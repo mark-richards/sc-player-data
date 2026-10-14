@@ -149,6 +149,33 @@ def load_player_matches(year: int | None = None) -> pd.DataFrame:
     return df.reset_index(drop=True)
 
 
+def load_legacy_player_positions(year: int | None = None) -> pd.DataFrame:
+    """
+    Fallback feed_id -> team/position lookup for seasons without a dedicated
+    draft_prep/SC {year}/{year}_SC_Player_list.csv (2019-2021 currently —
+    see draft_data.py's _build_draft_df_with_ranks). Built from each
+    player's most recent round in player_match_results.csv instead; it only
+    covers players rostered by a coach at some point that season, which a
+    drafted player always was.
+
+    'position' here is the coach's assigned ROSTER SLOT that round, not a
+    fixed eligibility — for 2019 specifically it includes 'BEN' (bench) as
+    a slot value, which isn't a real position. Rows with a non-position slot
+    are dropped before taking each player's most recent remaining round, so
+    a player's last actual DEF/MID/RUC/FWD slot is used instead of a bench
+    round that would otherwise leave them unmatched to any position group.
+    """
+    df = load_player_matches(year)
+    if df.empty:
+        return pd.DataFrame()
+    cols = df[["feed_id", "round_x", "team", "position"]].dropna(subset=["feed_id"])
+    cols = cols[cols["position"].isin(["DEF", "MID", "RUC", "FWD"])]
+    if cols.empty:
+        return pd.DataFrame()
+    latest = cols.sort_values("round_x").groupby("feed_id").last().reset_index()
+    return latest[["feed_id", "team", "position"]]
+
+
 # ── Fanfooty per-round data ─────────────────────────────────────────────────
 
 def load_fanfooty_season(year: int | None = None) -> pd.DataFrame:

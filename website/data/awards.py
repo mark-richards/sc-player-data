@@ -387,14 +387,14 @@ def build_season_awards(year: int) -> list[dict]:
         coaches = list_season_coaches(year)
 
         summary, _, _, _ = load_draft_board(
-            draft_csv, player_list_csv, DRAFT_ALIAS_MAP, coaches, sc_df, sc_round_df,
+            draft_csv, player_list_csv, DRAFT_ALIAS_MAP, coaches, sc_df, sc_round_df, year,
         )
         awards += _draft_heat_map_king(summary)
 
         round_baseline = build_round_value_baseline(DRAFT_ALIAS_MAP)
         extremes = get_pick_value_extremes(draft_csv, player_list_csv, DRAFT_ALIAS_MAP, sc_df, sc_round_df,
                                             early_max_round=EARLY_LATE_SPLIT_ROUND,
-                                            round_baseline=round_baseline)
+                                            round_baseline=round_baseline, year=year)
         awards += _draft_pick_awards(extremes)
 
         player_sources = load_player_sources(

@@ -21,13 +21,13 @@ def draft_heat_map(year: int | None = None):
     draft_csv, player_list_csv = draft_csv_path(year), player_list_csv_path(year)
     summary, board, n_rounds, coaches = load_draft_board(
         draft_csv, player_list_csv, DRAFT_ALIAS_MAP,
-        list_season_coaches(year), sc_df, sc_round_df,
+        list_season_coaches(year), sc_df, sc_round_df, year,
     )
 
     round_baseline = build_round_value_baseline(DRAFT_ALIAS_MAP)
     extremes = get_pick_value_extremes(draft_csv, player_list_csv, DRAFT_ALIAS_MAP, sc_df, sc_round_df,
                                         early_max_round=EARLY_LATE_SPLIT_ROUND,
-                                        round_baseline=round_baseline)
+                                        round_baseline=round_baseline, year=year)
     award_picks = pick_awards_by_pick_number(extremes)
 
     return render_template(
