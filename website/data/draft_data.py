@@ -28,6 +28,21 @@ import pandas as pd
 
 log = logging.getLogger(__name__)
 
+# Injected from app.py after Flask-Caching is set up. build_round_value_baseline()
+# loops every historical season's draft data, so it's memoized the same way
+# loader.py and awards.py memoize their own expensive calls.
+cache = None
+
+
+def _memoize(fn):
+    def wrapper(*args, **kwargs):
+        if cache is not None:
+            return cache.memoize()(fn)(*args, **kwargs)
+        return fn(*args, **kwargs)
+    wrapper.__name__ = fn.__name__
+    return wrapper
+
+
 POS_COUNT = {"DEF": 40, "MID": 56, "RUC": 16, "FWD": 40}
 
 RANK_TIERS = [
@@ -282,7 +297,7 @@ def build_board_table(draft_df: pd.DataFrame, coach_order: list[str]) -> tuple[l
     """
     Returns (rows, n_rounds).
     Each row: {"round": int, <coach>: {"player": str, "color": str, "rank_label": str,
-                                        "missed_bye": int, "missed_non_bye": int}}
+                                        "missed_bye": int, "missed_non_bye": int, "pick": int | None}}
     """
     n_rounds = int(draft_df["draft_round"].max()) if not draft_df.empty else 0
     max_pick = int(draft_df["pick"].max()) if not draft_df.empty else 0
@@ -295,7 +310,7 @@ def build_board_table(draft_df: pd.DataFrame, coach_order: list[str]) -> tuple[l
             pick = rnd_picks[rnd_picks["coach_name"] == coach]
             if pick.empty:
                 row[coach] = {"player": "", "color": "", "rank_label": "",
-                              "missed_bye": 0, "missed_non_bye": 0, "peers_html": ""}
+                              "missed_bye": 0, "missed_non_bye": 0, "peers_html": "", "pick": None}
             else:
                 p    = pick.iloc[0]
                 rank = int(p["rank_in_round"]) if pd.notna(p.get("rank_in_round")) else 8
@@ -306,6 +321,7 @@ def build_board_table(draft_df: pd.DataFrame, coach_order: list[str]) -> tuple[l
                     "missed_bye":     int(p["missed_bye"])     if pd.notna(p.get("missed_bye"))     else 0,
                     "missed_non_bye": int(p["missed_non_bye"]) if pd.notna(p.get("missed_non_bye")) else 0,
                     "peers_html":     _build_peers_html(int(p["pick"]), draft_df, max_pick, win_size),
+                    "pick":           int(p["pick"]),
                 }
         rows.append(row)
     return rows, n_rounds
@@ -444,45 +460,112 @@ def load_draft_board(draft_csv, player_list_csv, alias_map: dict,
     return summary, board, n, coach_order
 
 
+@_memoize
+def build_round_value_baseline(alias_map: dict) -> dict[int, float]:
+    """
+    Pools final_score by draft_round across every season with usable draft
+    data (see list_available_seasons), giving the Worst Draft Pick awards a
+    baseline of dozens of historical picks per round instead of just the 7
+    picks drafted immediately after it that one season. A true bust can hide
+    behind a run of other weak picks drafted around it the same year (e.g.
+    2024: M.Crouch's -8.59 z-score read as merely "average-bad" next to his
+    round's other weak picks, while D.Martin's -8.35 stood out only because
+    his neighbours happened to be stronger) — comparing against history
+    instead of that year's immediate neighbours fixes this.
+
+    Returns {draft_round: mean final_score}, pooled across all years.
+    """
+    from website.config import draft_csv_path, player_list_csv_path
+    from website.data.loader import list_available_seasons, load_sc_current, load_sc_round_files
+
+    frames = []
+    for year in list_available_seasons():
+        dcsv = draft_csv_path(year)
+        if not dcsv.exists():
+            continue
+        sc_df = load_sc_current(year)
+        if sc_df is None or sc_df.empty:
+            continue
+        plcsv = player_list_csv_path(year)
+        sc_round_df = load_sc_round_files(year)
+        ddf = _build_draft_df_with_ranks(dcsv, plcsv, alias_map, sc_df, sc_round_df)
+        if ddf is not None:
+            frames.append(ddf[["draft_round", "final_score"]].dropna())
+
+    if not frames:
+        return {}
+    pooled = pd.concat(frames, ignore_index=True)
+    return pooled.groupby("draft_round")["final_score"].mean().to_dict()
+
+
 def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
                              sc_df: pd.DataFrame,
                              sc_round_df: "pd.DataFrame | None" = None,
-                             worst_max_round: int | None = None) -> dict | None:
+                             early_max_round: int = 8,
+                             round_baseline: "dict[int, float] | None" = None) -> dict | None:
     """
-    For the Best/Worst Draft Pick awards: the single pick with the highest and
-    lowest pick_value (see _build_draft_df_with_ranks). Returns
-    {"best": {...}, "worst": {...}} or None if there's no usable draft data.
-    Each entry: coach, player, draft_round, pick, pick_value, final_score.
+    For the Best/Worst Early/Late Draft Pick awards: splits picks into
+    "early" (draft_round <= early_max_round, i.e. premium draft capital) and
+    "late", and returns the single best and worst pick in each half. Returns
+    {"best_early": {...}, "best_late": {...}, "worst_early": {...},
+    "worst_late": {...}} (a half with no usable data is simply absent from
+    the dict), or None if there's no usable draft data at all.
 
-    worst_max_round: if given, "worst" is only drawn from draft_round <= this
-    (a late-round flier busting isn't a real story — nobody expected much
-    from it; a bust among the first few rounds' premium picks is). "best" is
-    never restricted — a late-round steal is still worth celebrating.
+    Best picks are ranked by pick_value (see _build_draft_df_with_ranks —
+    value vs. the 8 picks drafted immediately around it that same season):
+    a good story for "best" regardless of round, since a late-round steal
+    and an early-round smash both read as "beat the picks around them".
+
+    Worst picks are ranked by value vs. round_baseline when given (that
+    round's pooled historical average final_score across every past draft,
+    from build_round_value_baseline()) rather than pick_value — a single-
+    season 8-pick window can hide a true bust behind a run of other weak
+    picks drafted around it that same year. Falls back to pick_value when no
+    baseline is supplied (e.g. not enough historical seasons yet).
+
+    Each entry: coach, player, draft_round, pick, final_score, value,
+    value_label (the latter two describe whichever metric was used).
     """
     draft_df = _build_draft_df_with_ranks(draft_csv, player_list_csv, alias_map, sc_df, sc_round_df)
     if draft_df is None:
         return None
 
-    valid = draft_df.dropna(subset=["pick_value"])
+    valid = draft_df.dropna(subset=["pick_value"]).copy()
     if valid.empty:
         return None
 
-    def _row_to_dict(row) -> dict:
+    if round_baseline:
+        valid["worst_metric"] = valid["final_score"] - valid["draft_round"].map(round_baseline)
+        worst_label = lambda rd: f"vs. the historical Rd {rd} average"
+    else:
+        valid["worst_metric"] = valid["pick_value"]
+        worst_label = lambda rd: "vs. the picks around it"
+    valid = valid.dropna(subset=["worst_metric"])
+
+    def _row_to_dict(row, value: float, label: str) -> dict:
         return {
             "coach":        row["coach_name"],
             "player":       str(row["Player"]),
             "draft_round":  int(row["draft_round"]),
             "pick":         int(row["pick"]),
-            "pick_value":   round(float(row["pick_value"]), 2),
             "final_score":  round(float(row["final_score"]), 2),
+            "value":        round(float(value), 2),
+            "value_label":  label,
         }
 
-    best = valid.loc[valid["pick_value"].idxmax()]
-    result = {"best": _row_to_dict(best)}
+    early = valid[valid["draft_round"] <= early_max_round]
+    late  = valid[valid["draft_round"] >  early_max_round]
 
-    worst_pool = valid[valid["draft_round"] <= worst_max_round] if worst_max_round else valid
-    if not worst_pool.empty:
-        worst = worst_pool.loc[worst_pool["pick_value"].idxmin()]
-        result["worst"] = _row_to_dict(worst)
+    result: dict = {}
+    if not early.empty:
+        b = early.loc[early["pick_value"].idxmax()]
+        result["best_early"] = _row_to_dict(b, b["pick_value"], "vs. the picks around it")
+        w = early.loc[early["worst_metric"].idxmin()]
+        result["worst_early"] = _row_to_dict(w, w["worst_metric"], worst_label(int(w["draft_round"])))
+    if not late.empty:
+        b = late.loc[late["pick_value"].idxmax()]
+        result["best_late"] = _row_to_dict(b, b["pick_value"], "vs. the picks around it")
+        w = late.loc[late["worst_metric"].idxmin()]
+        result["worst_late"] = _row_to_dict(w, w["worst_metric"], worst_label(int(w["draft_round"])))
 
-    return result
+    return result or None

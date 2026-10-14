@@ -38,6 +38,12 @@ def create_app() -> Flask:
     import website.data.awards as awards_module
     awards_module.cache = cache
 
+    # build_round_value_baseline() loops every historical season's draft data
+    # to compute the Worst Draft Pick awards' historical baseline — cache it
+    # the same way.
+    import website.data.draft_data as draft_data_module
+    draft_data_module.cache = cache
+
     from website.routes.season         import bp as season_bp
     from website.routes.coach          import bp as coach_bp
     from website.routes.records        import bp as records_bp

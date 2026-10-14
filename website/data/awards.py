@@ -29,7 +29,7 @@ CLOSE_GAME_MARGIN = 55          # bottom quartile of every fixture margin in lea
 UNLUCKY_LUCK_THRESHOLD = 1.0    # luck_mc_index must clear this (either direction) to award
 SPOON_DODGE_THRESHOLD = 15.0    # spoon_pct (%) must clear this, among coaches who didn't get the spoon
 MIN_WIN_STREAK = 2
-WORST_PICK_MAX_ROUND = 8        # Worst Draft Pick only considers early/premium draft capital
+EARLY_LATE_SPLIT_ROUND = 8      # Early/late boundary for the 4 Draft Pick awards (early = premium capital)
 IRON_MAN_MAX_RANK = 7           # Iron Man excludes the last-place finisher (consistently bad isn't "iron man")
 
 # The 4 acquisition Kings reuse the exact Bootstrap Icons + colour already
@@ -53,8 +53,10 @@ AWARD_ICONS: dict[str, dict] = {
     "luckiest":            {"type": "emoji", "value": "🍀"},
     "spoon_dodge":         {"type": "emoji", "value": "🫣"},
     "draft_heat_map_king": {"type": "emoji", "value": "🧠"},
-    "best_draft_pick":     {"type": "emoji", "value": "💎"},
-    "worst_draft_pick":    {"type": "emoji", "value": "🗑️"},
+    "best_early_pick":     {"type": "emoji", "value": "💎"},
+    "best_late_pick":      {"type": "emoji", "value": "💰"},
+    "worst_early_pick":    {"type": "emoji", "value": "🗑️"},
+    "worst_late_pick":     {"type": "emoji", "value": "🪦"},
     "draft_king":          {"type": "bi", "icon": "bi-trophy-fill",       "color": "primary"},
     "waiver_king":         {"type": "bi", "icon": "bi-person-plus-fill",  "color": "success"},
     "fa_king":             {"type": "bi", "icon": "bi-person-check-fill", "color": "info"},
@@ -66,8 +68,8 @@ AWARD_ICONS: dict[str, dict] = {
 # "volatile/unreliable" reads as a knock rather than a compliment. Spoon
 # Dodge is a highlight even though it's about nearly getting the spoon - the
 # story is "they escaped it", a good outcome.
-LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest", "worst_draft_pick",
-                  "lineup_tinkerer"}
+LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest",
+                  "worst_early_pick", "worst_late_pick", "lineup_tinkerer"}
 
 # Dawnbreaker (the league's own nickname for the premiership) and the Spoon
 # always lead a coach's card and get special "hero" styling — the premier
@@ -277,19 +279,42 @@ def _draft_heat_map_king(draft_summary: list[dict]) -> list[dict]:
                     f"{king['avg_rank']:.2f} avg pick rank")]
 
 
+_DRAFT_PICK_AWARD_LABELS = {
+    "best_early":  ("best_early_pick",  "Best Early Pick"),
+    "best_late":   ("best_late_pick",   "Best Late Pick"),
+    "worst_early": ("worst_early_pick", "Worst Early Pick"),
+    "worst_late":  ("worst_late_pick",  "Worst Late Pick"),
+}
+
+
+def pick_awards_by_pick_number(extremes: dict | None) -> dict[int, dict]:
+    """
+    Maps draft pick number -> {"key", "title", "icon"} for whichever of the 4
+    Best/Worst Early/Late Draft Pick awards were won, so the Draft Heat Map
+    grid can highlight those exact cells (see routes/draft.py) instead of the
+    awards only showing up on the Season Summary/Hall of Fame pages.
+    """
+    if not extremes:
+        return {}
+    result = {}
+    for extremes_key, (award_key, title) in _DRAFT_PICK_AWARD_LABELS.items():
+        row = extremes.get(extremes_key)
+        if row:
+            result[row["pick"]] = {"key": award_key, "title": title, "icon": AWARD_ICONS.get(award_key)}
+    return result
+
+
 def _draft_pick_awards(extremes: dict | None) -> list[dict]:
     if not extremes:
         return []
-    best, worst = extremes.get("best"), extremes.get("worst")
     awards = []
-    if best:
-        awards.append(_award("best_draft_pick", "Best Draft Pick", best["coach"],
-                              f"{best['player']}, Rd {best['draft_round']} Pick {best['pick']}",
-                              detail=f"{best['pick_value']:+.2f} value vs. the picks around it"))
-    if worst:
-        awards.append(_award("worst_draft_pick", "Worst Draft Pick", worst["coach"],
-                              f"{worst['player']}, Rd {worst['draft_round']} Pick {worst['pick']}",
-                              detail=f"{worst['pick_value']:+.2f} value vs. the picks around it"))
+    for extremes_key, (award_key, title) in _DRAFT_PICK_AWARD_LABELS.items():
+        row = extremes.get(extremes_key)
+        if not row:
+            continue
+        awards.append(_award(award_key, title, row["coach"],
+                              f"{row['player']}, Rd {row['draft_round']} Pick {row['pick']}",
+                              detail=f"{row['value']:+.2f} value {row['value_label']}"))
     return awards
 
 
@@ -322,7 +347,7 @@ def build_season_awards(year: int) -> list[dict]:
     )
     from website.data.standings import compute_standings
     from website.data.fixture_strength import build_monte_carlo_schedule_sim
-    from website.data.draft_data import load_draft_board, get_pick_value_extremes
+    from website.data.draft_data import load_draft_board, get_pick_value_extremes, build_round_value_baseline
     from website.data.acquisition import load_player_sources, build_acquisition_stats, get_acquisition_kings
 
     total_regular_rounds = season_meta(year)["total_regular_rounds"]
@@ -366,8 +391,10 @@ def build_season_awards(year: int) -> list[dict]:
         )
         awards += _draft_heat_map_king(summary)
 
+        round_baseline = build_round_value_baseline(DRAFT_ALIAS_MAP)
         extremes = get_pick_value_extremes(draft_csv, player_list_csv, DRAFT_ALIAS_MAP, sc_df, sc_round_df,
-                                            worst_max_round=WORST_PICK_MAX_ROUND)
+                                            early_max_round=EARLY_LATE_SPLIT_ROUND,
+                                            round_baseline=round_baseline)
         awards += _draft_pick_awards(extremes)
 
         player_sources = load_player_sources(

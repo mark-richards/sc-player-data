@@ -54,6 +54,14 @@
   <span class="text-muted">(z-score rank within each draft round)</span>
 </div>
 
+{% if award_picks %}
+<div class="mb-3 d-flex gap-3 align-items-center small text-muted flex-wrap">
+  <strong>Award picks:</strong>
+  <span class="border rounded px-2" style="outline: 2px solid #ffd700; outline-offset: -2px;">💎 / 💰 Best Early/Late Pick</span>
+  <span class="border rounded px-2" style="outline: 2px solid #000; outline-offset: -2px;">🗑️ / 🪦 Worst Early/Late Pick</span>
+</div>
+{% endif %}
+
 {# How it works #}
 <details class="mb-3">
   <summary class="fw-semibold text-muted" style="cursor:pointer;">How it works</summary>
@@ -98,12 +106,16 @@
             <td class="rd-col text-muted fw-semibold text-center">{{ row.round }}</td>
             {% for coach in coaches %}
             {% set cell = row[coach] %}
-            <td class="{{ cell.color }} text-center{% if cell.peers_html %} pick-cell{% endif %}"
+            {% set pick_award = award_picks.get(cell.pick) if cell.pick is not none else None %}
+            <td class="{{ cell.color }} text-center{% if cell.peers_html %} pick-cell{% endif %}{% if pick_award %} award-pick award-{{ 'best' if 'best' in pick_award.key else 'worst' }}{% endif %}"
                 {% if cell.peers_html %}
                 data-player="{{ cell.player }}"
                 data-peers="{{ cell.peers_html | e }}"
                 role="button"
                 {% endif %}>
+              {% if pick_award %}
+              <div class="award-badge" title="{{ pick_award.title }}">{{ pick_award.icon.value if pick_award.icon else '' }}</div>
+              {% endif %}
               <div>{{ cell.player or "-" }}</div>
               {% if cell.missed_non_bye or cell.missed_bye %}
               <div class="text-nowrap">
@@ -146,6 +158,17 @@
   .rd-col { position: sticky; left: 0; z-index: 2; background: #fff; }
   thead .rd-col { background: #212529; z-index: 3; }
   .pick-cell { cursor: pointer; }
+  .award-pick { position: relative; }
+  .award-best  { outline: 2px solid #ffd700; outline-offset: -2px; }
+  .award-worst { outline: 2px solid #000;    outline-offset: -2px; }
+  .award-badge {
+    position: absolute;
+    top: 1px;
+    right: 2px;
+    font-size: 0.8rem;
+    line-height: 1;
+    filter: drop-shadow(0 0 1px rgba(255,255,255,0.9));
+  }
 </style>
 {% endblock %}
 
