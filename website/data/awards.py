@@ -55,7 +55,6 @@ AWARD_ICONS: dict[str, dict] = {
     "draft_heat_map_king": {"type": "emoji", "value": "🧠"},
     "best_draft_pick":     {"type": "emoji", "value": "💎"},
     "worst_draft_pick":    {"type": "emoji", "value": "🗑️"},
-    "walking_wounded":     {"type": "emoji", "value": "🚑"},
     "draft_king":          {"type": "bi", "icon": "bi-trophy-fill",       "color": "primary"},
     "waiver_king":         {"type": "bi", "icon": "bi-person-plus-fill",  "color": "success"},
     "fa_king":             {"type": "bi", "icon": "bi-person-check-fill", "color": "info"},
@@ -68,7 +67,7 @@ AWARD_ICONS: dict[str, dict] = {
 # Dodge is a highlight even though it's about nearly getting the spoon - the
 # story is "they escaped it", a good outcome.
 LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest", "worst_draft_pick",
-                  "lineup_tinkerer", "walking_wounded"}
+                  "lineup_tinkerer"}
 
 # Dawnbreaker (the league's own nickname for the premiership) and the Spoon
 # always lead a coach's card and get special "hero" styling — the premier
@@ -278,15 +277,6 @@ def _draft_heat_map_king(draft_summary: list[dict]) -> list[dict]:
                     f"{king['avg_rank']:.2f} avg pick rank")]
 
 
-def _walking_wounded_award(wounded: dict | None) -> list[dict]:
-    if not wounded:
-        return []
-    names = ", ".join(p["player"] for p in wounded["players"])
-    return [_award("walking_wounded", "Walking Wounded", wounded["coach"],
-                    f"{wounded['games_missed']} games lost to injury",
-                    detail=names)]
-
-
 def _draft_pick_awards(extremes: dict | None) -> list[dict]:
     if not extremes:
         return []
@@ -332,7 +322,7 @@ def build_season_awards(year: int) -> list[dict]:
     )
     from website.data.standings import compute_standings
     from website.data.fixture_strength import build_monte_carlo_schedule_sim
-    from website.data.draft_data import load_draft_board, get_pick_value_extremes, get_walking_wounded
+    from website.data.draft_data import load_draft_board, get_pick_value_extremes
     from website.data.acquisition import load_player_sources, build_acquisition_stats, get_acquisition_kings
 
     total_regular_rounds = season_meta(year)["total_regular_rounds"]
@@ -379,9 +369,6 @@ def build_season_awards(year: int) -> list[dict]:
         extremes = get_pick_value_extremes(draft_csv, player_list_csv, DRAFT_ALIAS_MAP, sc_df, sc_round_df,
                                             worst_max_round=WORST_PICK_MAX_ROUND)
         awards += _draft_pick_awards(extremes)
-
-        wounded = get_walking_wounded(draft_csv, player_list_csv, DRAFT_ALIAS_MAP, sc_df, sc_round_df)
-        awards += _walking_wounded_award(wounded)
 
         player_sources = load_player_sources(
             draft_csv=draft_csv,
