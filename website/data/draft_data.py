@@ -191,7 +191,15 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
     agg["median_score"] = agg.apply(_adjusted, axis=1).round(2)
     result = agg[["feed_id", "pos_1", "pos_2", "raw_avg", "median_score", "missed_bye", "missed_non_bye"]].copy()
 
-    # Zero-game players: in draft but never appeared in SC current data.
+    # Players in the draft but absent from sc_df entirely — not necessarily
+    # zero-game: sc_df is built from fantasy-roster snapshots, so a player who
+    # was drafted and then never actually started/benched on any coach's
+    # roster again (e.g. dropped before round 1) is just as absent as one who
+    # genuinely never played. sc_round_df (the SC-official bulk per-round
+    # endpoint, covering every player regardless of fantasy rostering) is
+    # ground truth for what they actually scored, and is used here as a
+    # fallback score source instead of assuming 0 — a real AFL performance
+    # the player's own coach never started still reflects on the pick.
     # team_abbrev from player_list uses the same SC codes as sc_df — no mapping needed.
     if player_list_df is not None and not player_list_df.empty:
         pl = player_list_df[["feed_id", "team", "position"]].copy()
@@ -199,6 +207,16 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
         pl = pl.dropna(subset=["feed_id"])
         missing = pl[~pl["feed_id"].isin(result["feed_id"])].copy()
         if not missing.empty:
+            round_totals: dict = {}
+            if sc_round_df is not None and not sc_round_df.empty:
+                srd_played = sc_round_df[sc_round_df["played"] == 1].dropna(subset=["feed_id"]).copy()
+                srd_played["points"] = pd.to_numeric(srd_played["points"], errors="coerce")
+                round_totals = (
+                    srd_played.groupby("feed_id")
+                    .agg(total_sc=("points", "sum"), games_played=("points", "count"))
+                    .to_dict("index")
+                )
+
             def _zero_breakdown(row):
                 bye_rds    = all_rounds - team_played_rounds.get(row["team"], all_rounds)
                 missed_bye = len(bye_rds)
@@ -209,8 +227,19 @@ def _compute_effective_avg(sc_df: pd.DataFrame,
             missing[["missed_bye", "missed_non_bye"]] = missing.apply(
                 lambda r: pd.Series(_zero_breakdown(r)), axis=1
             )
-            missing["raw_avg"]      = 0.0
-            missing["median_score"] = 0.0
+
+            def _fallback_scores(row):
+                rt = round_totals.get(row["feed_id"])
+                if not rt or not rt["games_played"]:
+                    return 0.0, 0.0
+                raw_avg = rt["total_sc"] / rt["games_played"]
+                repl = replacement.get(row["position"], 0.0)
+                median = (rt["total_sc"] + repl * (total_rounds - rt["games_played"])) / total_rounds
+                return round(raw_avg, 2), round(median, 2)
+
+            missing[["raw_avg", "median_score"]] = missing.apply(
+                lambda r: pd.Series(_fallback_scores(r)), axis=1
+            )
             missing = missing.rename(columns={"position": "pos_1"})
             missing["pos_2"] = None
             result = pd.concat(
