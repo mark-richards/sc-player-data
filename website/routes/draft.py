@@ -6,7 +6,7 @@ from flask import Blueprint, render_template
 from website.config import SEASON_YEAR, DRAFT_ALIAS_MAP, draft_csv_path, player_list_csv_path
 from website.data.loader import load_sc_current, load_sc_round_files, list_season_coaches
 from website.data.draft_data import load_draft_board, get_pick_value_extremes, build_round_value_baseline
-from website.data.awards import EARLY_LATE_SPLIT_ROUND, pick_awards_by_pick_number
+from website.data.awards import EARLY_LATE_SPLIT_ROUND, draft_pick_award_cards
 
 bp = Blueprint("draft", __name__)
 
@@ -28,7 +28,8 @@ def draft_heat_map(year: int | None = None):
     extremes = get_pick_value_extremes(draft_csv, player_list_csv, DRAFT_ALIAS_MAP, sc_df, sc_round_df,
                                         early_max_round=EARLY_LATE_SPLIT_ROUND,
                                         round_baseline=round_baseline, year=year)
-    award_picks = pick_awards_by_pick_number(extremes)
+    award_cards = draft_pick_award_cards(extremes)
+    award_picks = {card["pick"]: card for card in award_cards}
 
     return render_template(
         "draft.html",
@@ -39,4 +40,5 @@ def draft_heat_map(year: int | None = None):
         season_year=year,
         is_current_season=(year == SEASON_YEAR),
         award_picks=award_picks,
+        award_cards=award_cards,
     )

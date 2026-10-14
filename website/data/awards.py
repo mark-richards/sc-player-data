@@ -287,35 +287,40 @@ _DRAFT_PICK_AWARD_LABELS = {
 }
 
 
-def pick_awards_by_pick_number(extremes: dict | None) -> dict[int, dict]:
+def draft_pick_award_cards(extremes: dict | None) -> list[dict]:
     """
-    Maps draft pick number -> {"key", "title", "icon"} for whichever of the 4
-    Best/Worst Early/Late Draft Pick awards were won, so the Draft Heat Map
-    grid can highlight those exact cells (see routes/draft.py) instead of the
-    awards only showing up on the Season Summary/Hall of Fame pages.
+    Full detail for whichever of the 4 Best/Worst Early/Late Draft Pick
+    awards were won this draft — key, title, icon, plus the underlying row
+    (coach, player, draft_round, pick, value, value_label) — in best-first
+    order. Used by the Draft Heat Map page for its summary cards above the
+    board (see routes/draft.py), and as the shared source for both
+    pick_awards_by_pick_number() and _draft_pick_awards() below.
     """
     if not extremes:
-        return {}
-    result = {}
+        return []
+    cards = []
     for extremes_key, (award_key, title) in _DRAFT_PICK_AWARD_LABELS.items():
         row = extremes.get(extremes_key)
         if row:
-            result[row["pick"]] = {"key": award_key, "title": title, "icon": AWARD_ICONS.get(award_key)}
-    return result
+            cards.append({"key": award_key, "title": title, "icon": AWARD_ICONS.get(award_key), **row})
+    return cards
+
+
+def pick_awards_by_pick_number(extremes: dict | None) -> dict[int, dict]:
+    """
+    Maps draft pick number -> award card, for the Draft Heat Map grid to
+    highlight those exact cells.
+    """
+    return {card["pick"]: card for card in draft_pick_award_cards(extremes)}
 
 
 def _draft_pick_awards(extremes: dict | None) -> list[dict]:
-    if not extremes:
-        return []
-    awards = []
-    for extremes_key, (award_key, title) in _DRAFT_PICK_AWARD_LABELS.items():
-        row = extremes.get(extremes_key)
-        if not row:
-            continue
-        awards.append(_award(award_key, title, row["coach"],
-                              f"{row['player']}, Rd {row['draft_round']} Pick {row['pick']}",
-                              detail=f"{row['value']:+.2f} value {row['value_label']}"))
-    return awards
+    return [
+        _award(card["key"], card["title"], card["coach"],
+               f"{card['player']}, Rd {card['draft_round']} Pick {card['pick']}",
+               detail=f"{card['value']:+.2f} value {card['value_label']}")
+        for card in draft_pick_award_cards(extremes)
+    ]
 
 
 def _acquisition_kings(kings: dict) -> list[dict]:
