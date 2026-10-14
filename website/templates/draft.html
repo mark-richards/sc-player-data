@@ -93,7 +93,7 @@
       <table class="table table-sm table-bordered mb-0" style="font-size:0.8rem;">
         <thead class="table-dark">
           <tr>
-            <th style="width:3rem">Rd</th>
+            <th class="rd-col" style="width:3rem">Rd</th>
             {% for coach in coaches %}
             <th class="text-center">{{ coach }}</th>
             {% endfor %}
@@ -102,17 +102,14 @@
         <tbody>
           {% for row in board %}
           <tr>
-            <td class="text-muted fw-semibold text-center">{{ row.round }}</td>
+            <td class="rd-col text-muted fw-semibold text-center">{{ row.round }}</td>
             {% for coach in coaches %}
             {% set cell = row[coach] %}
-            <td class="{{ cell.color }} text-center"
+            <td class="{{ cell.color }} text-center{% if cell.peers_html %} pick-cell{% endif %}"
                 {% if cell.peers_html %}
-                data-bs-toggle="popover"
-                data-bs-trigger="hover focus"
-                data-bs-placement="auto"
-                data-bs-html="true"
-                data-bs-title="{{ cell.player }}"
-                data-bs-content="{{ cell.peers_html | e }}"
+                data-player="{{ cell.player }}"
+                data-peers="{{ cell.peers_html | e }}"
+                role="button"
                 {% endif %}>
               <div>{{ cell.player or "-" }}</div>
               {% if cell.missed_non_bye or cell.missed_bye %}
@@ -137,13 +134,39 @@
     {% endif %}
   </div>
 </div>
+
+{# Shared modal for the 8-pick comparison window — one instance populated on
+   tap, instead of 184 hover-triggered popovers that never worked on touch. #}
+<div class="modal fade" id="pickDetailModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header py-2">
+        <h6 class="modal-title mb-0" id="pickDetailTitle"></h6>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body p-0" id="pickDetailBody"></div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .rd-col { position: sticky; left: 0; z-index: 2; background: #fff; }
+  thead .rd-col { background: #212529; z-index: 3; }
+  .pick-cell { cursor: pointer; }
+</style>
 {% endblock %}
 
 {% block scripts %}
 <script>
   (function () {
-    document.querySelectorAll('[data-bs-toggle="popover"]').forEach(function (el) {
-      new bootstrap.Popover(el, { sanitize: false, html: true });
+    const modalEl = document.getElementById('pickDetailModal');
+    const modal = new bootstrap.Modal(modalEl);
+    document.querySelectorAll('.pick-cell[data-peers]').forEach(function (el) {
+      el.addEventListener('click', function () {
+        document.getElementById('pickDetailTitle').textContent = el.dataset.player;
+        document.getElementById('pickDetailBody').innerHTML = el.dataset.peers;
+        modal.show();
+      });
     });
   })();
 </script>
