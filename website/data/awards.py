@@ -51,6 +51,8 @@ AWARD_ICONS: dict[str, dict] = {
     "sunday_scaries":      {"type": "emoji", "value": "😱"},
     "unluckiest":          {"type": "emoji", "value": "🌧️"},
     "luckiest":            {"type": "emoji", "value": "🍀"},
+    "lucky_wins":          {"type": "emoji", "value": "🍀"},
+    "unlucky_losses":      {"type": "emoji", "value": "💔"},
     "spoon_dodge":         {"type": "emoji", "value": "🫣"},
     "draft_heat_map_king": {"type": "emoji", "value": "🧠"},
     "best_early_pick":     {"type": "emoji", "value": "💎"},
@@ -69,7 +71,7 @@ AWARD_ICONS: dict[str, dict] = {
 # Dodge is a highlight even though it's about nearly getting the spoon - the
 # story is "they escaped it", a good outcome.
 LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest",
-                  "worst_early_pick", "worst_late_pick", "lineup_tinkerer"}
+                  "worst_early_pick", "worst_late_pick", "lineup_tinkerer", "unlucky_losses"}
 
 # Dawnbreaker (the league's own nickname for the premiership) and the Spoon
 # always lead a coach's card and get special "hero" styling — the premier
@@ -197,6 +199,38 @@ def _close_calls_sunday_scaries(fixtures_df: pd.DataFrame) -> list[dict]:
         coach = close_losses.idxmax()
         awards.append(_award("sunday_scaries", "Sunday Scaries", coach,
                               f"{int(close_losses[coach])} losses by {CLOSE_GAME_MARGIN} pts or less"))
+    return awards
+
+
+def _lucky_unlucky_results(fixtures_df: pd.DataFrame) -> list[dict]:
+    """
+    A per-game cousin of Close Calls/Sunday Scaries, benchmarked against that
+    round's average team score (across all 8 coaches) instead of the margin
+    to the opponent. A win with a below-average score means the opponent
+    happened to score even lower — a result you got away with, not one you
+    earned by scoring well. A loss with an above-average score is the
+    reverse: you played a good round and still lost.
+    """
+    if fixtures_df.empty:
+        return []
+    df = fixtures_df.copy()
+    round_avg = df.groupby("round_number")["team_points"].transform("mean")
+    lucky = df[df["win"] & (df["team_points"] < round_avg)]
+    unlucky = df[(~df["win"]) & (~df["draw"]) & (df["team_points"] > round_avg)]
+    lucky_counts = lucky.groupby("coach_first_name").size()
+    unlucky_counts = unlucky.groupby("coach_first_name").size()
+
+    awards = []
+    if not lucky_counts.empty:
+        coach = lucky_counts.idxmax()
+        n = int(lucky_counts[coach])
+        awards.append(_award("lucky_wins", "Lucky Wins", coach,
+                              f"{n} win{'s' if n != 1 else ''} with a below-average score"))
+    if not unlucky_counts.empty:
+        coach = unlucky_counts.idxmax()
+        n = int(unlucky_counts[coach])
+        awards.append(_award("unlucky_losses", "Unlucky Losses", coach,
+                              f"{n} loss{'es' if n != 1 else ''} with an above-average score"))
     return awards
 
 
@@ -374,6 +408,7 @@ def build_season_awards(year: int) -> list[dict]:
     awards += _iron_man_boom_bust(reg_fixtures, final_ranks)
     awards += _strong_finisher(reg_fixtures)
     awards += _close_calls_sunday_scaries(reg_fixtures)
+    awards += _lucky_unlucky_results(reg_fixtures)
     awards += _lineup_turnover(reg_players)
 
     try:
