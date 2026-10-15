@@ -660,24 +660,18 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
     "worst_late": {...}} (a half with no usable data is simply absent from
     the dict), or None if there's no usable draft data at all.
 
-    Early picks (both best and worst) are ranked by value vs. round_baseline
-    when given (that round's pooled historical average final_score across
-    every past draft, from build_round_value_baseline()) rather than
-    pick_value — a single-season 8-pick window of immediate neighbours can
-    be unusually strong or weak by chance that year (e.g. 2023: Bontempelli
-    had the higher raw score of the two, but R.Laird's pick_value looked
-    better purely because Laird's own neighbours happened to be weaker than
-    Bontempelli's, which included Laird himself). Comparing both to the same
-    multi-season baseline for their round fixes this. Falls back to
-    pick_value when no baseline is supplied (e.g. not enough historical
-    seasons yet).
-
-    Late picks (both best and worst) stay on pick_value (value vs. the 8
-    picks drafted immediately around it that same season) — a good story
-    for "best" since a late-round steal reads as "beat the picks around
-    it" regardless of round baseline, and round_baseline specifically skews
-    "best" toward late picks that merely cleared a deeply negative average
-    rather than true standouts.
+    All four are ranked by value vs. round_baseline when given (that round's
+    pooled historical average final_score across every past draft, from
+    build_round_value_baseline()) rather than pick_value (value vs. the 8
+    picks drafted immediately around it that same season) — a single-season
+    8-pick window of immediate neighbours can be unusually strong or weak by
+    chance that year (e.g. 2023: Bontempelli had the higher raw score of the
+    two, but R.Laird's pick_value looked better purely because Laird's own
+    neighbours happened to be weaker than Bontempelli's, which included
+    Laird himself). Comparing every pick to the same multi-season
+    baseline for its round fixes this consistently for all four awards.
+    Falls back to pick_value when no baseline is supplied (e.g. not enough
+    historical seasons yet).
 
     worst_late additionally prefers picks that actually got a game (raw_avg
     > 0): a total zero from a late, speculative pick isn't a meaningful
@@ -727,8 +721,8 @@ def get_pick_value_extremes(draft_csv, player_list_csv, alias_map: dict,
         w = early.loc[early["history_value"].idxmin()]
         result["worst_early"] = _row_to_dict(w, w["history_value"], history_label(int(w["draft_round"])))
     if not late.empty:
-        b = late.loc[late["pick_value"].idxmax()]
-        result["best_late"] = _row_to_dict(b, b["pick_value"], "vs. the picks around it")
+        b = late.loc[late["history_value"].idxmax()]
+        result["best_late"] = _row_to_dict(b, b["history_value"], history_label(int(b["draft_round"])))
         # A late pick that never got a single game (raw_avg == 0) isn't a
         # meaningful "worst pick" story — busting is the norm for a
         # speculative flier that late, regardless of cause (omission,
