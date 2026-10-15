@@ -49,11 +49,12 @@ AWARD_ICONS: dict[str, dict] = {
     "strong_finisher":     {"type": "emoji", "value": "🏁"},
     "close_calls":         {"type": "emoji", "value": "🎯"},
     "sunday_scaries":      {"type": "emoji", "value": "😱"},
-    "unluckiest":          {"type": "emoji", "value": "🌧️"},
+    "finals_dodger":       {"type": "emoji", "value": "🌧️"},
     "luckiest":            {"type": "emoji", "value": "🍀"},
     "lucky_wins":          {"type": "emoji", "value": "🍀"},
     "unlucky_losses":      {"type": "emoji", "value": "💔"},
     "spoon_dodge":         {"type": "emoji", "value": "🫣"},
+    "spoon_magnet":        {"type": "emoji", "value": "🧲"},
     "draft_heat_map_king": {"type": "emoji", "value": "🧠"},
     "best_early_pick":     {"type": "emoji", "value": "💎"},
     "best_late_pick":      {"type": "emoji", "value": "💰"},
@@ -70,8 +71,9 @@ AWARD_ICONS: dict[str, dict] = {
 # "volatile/unreliable" reads as a knock rather than a compliment. Spoon
 # Dodge is a highlight even though it's about nearly getting the spoon - the
 # story is "they escaped it", a good outcome.
-LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "unluckiest",
-                  "worst_early_pick", "worst_late_pick", "lineup_tinkerer", "unlucky_losses"}
+LOWLIGHT_KEYS = {"spoon", "lowest_scorer", "boom_or_bust", "sunday_scaries", "finals_dodger",
+                  "worst_early_pick", "worst_late_pick", "lineup_tinkerer", "unlucky_losses",
+                  "spoon_magnet"}
 
 # Dawnbreaker (the league's own nickname for the premiership) and the Spoon
 # always lead a coach's card and get special "hero" styling — the premier
@@ -292,11 +294,12 @@ def _luck_awards(mc_results: list[dict]) -> list[dict]:
         r["_made_finals"] = 1 if r["actual_rank"] <= FINALS_TOP_N else 0
         r["_finals_surprise"] = round(r["_made_finals"] - r["top4_pct"] / 100, 3)
 
+    # Finals Dodger: missed finals despite the model rating them a strong
+    # chance of making it — the standout "robbed" story of the season.
     unlucky = min(mc_results, key=lambda r: r["_finals_surprise"])
     if unlucky["_finals_surprise"] <= -UNLUCKY_LUCK_THRESHOLD:
-        outcome = "missed finals" if not unlucky["_made_finals"] else "made finals"
-        awards.append(_award("unluckiest", "Unluckiest Coach", unlucky["coach"],
-                              f"Finished rank {unlucky['actual_rank']} ({outcome}) despite a {unlucky['top4_pct']:.0f}% model chance of finals"))
+        awards.append(_award("finals_dodger", "Unlucky: Finals Dodger", unlucky["coach"],
+                              f"Missed finals at rank {unlucky['actual_rank']} despite a {unlucky['top4_pct']:.0f}% modelled chance of making it"))
 
     lucky = max(mc_results, key=lambda r: r["_finals_surprise"])
     if lucky["_finals_surprise"] >= UNLUCKY_LUCK_THRESHOLD:
@@ -310,6 +313,15 @@ def _luck_awards(mc_results: list[dict]) -> list[dict]:
         if dodger["spoon_pct"] >= SPOON_DODGE_THRESHOLD:
             awards.append(_award("spoon_dodge", "Spoon Dodge", dodger["coach"],
                                   f"{dodger['spoon_pct']:.0f}% simulated chance of the spoon, finished rank {dodger['actual_rank']} instead"))
+
+    # Spoon Magnet: the mirror image of Spoon Dodge — the coach who actually
+    # got the spoon despite the model rarely putting them there, i.e. a team
+    # that was good enough to usually avoid last on a random schedule but
+    # landed there anyway.
+    magnet = next((r for r in mc_results if r["actual_rank"] == spoon_rank), None)
+    if magnet and magnet["spoon_pct"] <= SPOON_DODGE_THRESHOLD:
+        awards.append(_award("spoon_magnet", "Unlucky: Spoon Magnet", magnet["coach"],
+                              f"Only a {magnet['spoon_pct']:.0f}% modelled chance of the spoon, got it anyway"))
 
     return awards
 
