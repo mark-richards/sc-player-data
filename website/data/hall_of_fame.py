@@ -269,16 +269,22 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
       other coach had the highest spoon_pct that year without getting it:
       the model's own pick for who "should've" got it instead.
 
+    finals_dodger: most negative finals-probability surprise (actual finals
+      outcome minus modelled top4_pct chance, same metric as the Unlucky:
+      Finals Dodger season award) — missed finals despite the model rating
+      them a strong chance, worst-first. Only included when it clears
+      UNLUCKY_LUCK_THRESHOLD, same as the season award.
+
     lucky_wins / unlucky_losses / sunday_scaries: highest single-season
       count of each (see awards.py's _lucky_unlucky_results /
       _close_calls_sunday_scaries, which use the same underlying counts).
     """
-    from website.config import season_meta
+    from website.config import season_meta, FINALS_TOP_N
     from website.data.loader import load_fixtures
     from website.data.fixture_strength import build_fixture_strength, build_monte_carlo_schedule_sim
-    from website.data.awards import close_call_counts
+    from website.data.awards import close_call_counts, UNLUCKY_LUCK_THRESHOLD
 
-    dominant, spoon_rows, lucky_rows, unlucky_rows, scaries_rows = [], [], [], [], []
+    dominant, spoon_rows, dodger_rows, lucky_rows, unlucky_rows, scaries_rows = [], [], [], [], [], []
 
     for year in years:
         fixtures = load_fixtures(year)
@@ -323,18 +329,28 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
                              f"({rival['coach']} had {rival['spoon_pct']:.0f}%)",
                 })
 
+            for r in mc:
+                made_finals = 1 if r["actual_rank"] <= FINALS_TOP_N else 0
+                surprise = made_finals - r["top4_pct"] / 100
+                if surprise <= -UNLUCKY_LUCK_THRESHOLD:
+                    dodger_rows.append({
+                        "coach": r["coach"], "year": year, "value": surprise,
+                        "label": f"missed finals at rank {r['actual_rank']} despite a {r['top4_pct']:.0f}% modelled chance",
+                    })
+
         _, close_losses = close_call_counts(reg)
         for coach, n in close_losses.items():
             n = int(n)
             scaries_rows.append({"coach": coach, "year": year, "value": n,
                                   "label": f"{n} close loss{'es' if n != 1 else ''}"})
 
-    if not (dominant or spoon_rows or lucky_rows or unlucky_rows or scaries_rows):
+    if not (dominant or spoon_rows or dodger_rows or lucky_rows or unlucky_rows or scaries_rows):
         return {}
 
     return {
         "dominant":         sorted(dominant, key=lambda r: r["value"])[:top_n],
         "unluckiest_spoon": sorted(spoon_rows, key=lambda r: r["value"])[:top_n],
+        "finals_dodger":    sorted(dodger_rows, key=lambda r: r["value"])[:top_n],
         "lucky_wins":       sorted(lucky_rows, key=lambda r: -r["value"])[:top_n],
         "unlucky_losses":   sorted(unlucky_rows, key=lambda r: -r["value"])[:top_n],
         "sunday_scaries":   sorted(scaries_rows, key=lambda r: -r["value"])[:top_n],
