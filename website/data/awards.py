@@ -26,7 +26,7 @@ def _memoize(fn):
 
 
 CLOSE_GAME_MARGIN = 55          # bottom quartile of every fixture margin in league history
-UNLUCKY_LUCK_THRESHOLD = 1.0    # luck_mc_index must clear this (either direction) to award
+UNLUCKY_LUCK_THRESHOLD = 0.3    # |finals-probability surprise| (0-1 scale) must clear this to award
 SPOON_DODGE_THRESHOLD = 15.0    # spoon_pct (%) must clear this, among coaches who didn't get the spoon
 MIN_WIN_STREAK = 2
 EARLY_LATE_SPLIT_ROUND = 8      # Early/late boundary for the 4 Draft Pick awards (early = premium capital)
@@ -279,21 +279,30 @@ def _luck_awards(mc_results: list[dict]) -> list[dict]:
     spoon_rank = max(r["actual_rank"] for r in mc_results)
     awards = []
 
-    # Raw luck_mc_index only (actual_rank - avg_mc_rank across randomised
-    # schedules). An earlier version added a flat bonus for narrowly missing/
-    # sneaking into finals, but a razor-thin margin (e.g. avg_mc_rank 4.07,
-    # barely over the cutoff) got the exact same flat bonus as a decisive one
-    # (e.g. 6.5) - strong enough to wrongly flip the winner over a coach with
-    # a much bigger genuine luck swing. Removed rather than patched.
-    unlucky = max(mc_results, key=lambda r: r["luck_mc_index"])
-    if unlucky["luck_mc_index"] >= UNLUCKY_LUCK_THRESHOLD:
-        awards.append(_award("unluckiest", "Unluckiest Coach", unlucky["coach"],
-                              f"Finished rank {unlucky['actual_rank']}, averaged rank {unlucky['avg_mc_rank']:.2f} across simulated schedules"))
+    # Finals-probability surprise: actual finals outcome (1/0) minus that
+    # coach's modelled chance of making finals (top4_pct/100) across 20,000
+    # randomised schedules. Scales naturally with how shocking the result
+    # was — missing finals on an 87.5% chance is far more surprising than
+    # missing on 33.5%. An earlier version used raw luck_mc_index
+    # (actual_rank - avg_mc_rank) instead, and before that a flat near-miss
+    # bonus that gave a razor-thin miss the same bonus as a decisive one —
+    # both removed rather than patched.
+    from website.config import FINALS_TOP_N
+    for r in mc_results:
+        r["_made_finals"] = 1 if r["actual_rank"] <= FINALS_TOP_N else 0
+        r["_finals_surprise"] = round(r["_made_finals"] - r["top4_pct"] / 100, 3)
 
-    lucky = min(mc_results, key=lambda r: r["luck_mc_index"])
-    if lucky["luck_mc_index"] <= -UNLUCKY_LUCK_THRESHOLD:
+    unlucky = min(mc_results, key=lambda r: r["_finals_surprise"])
+    if unlucky["_finals_surprise"] <= -UNLUCKY_LUCK_THRESHOLD:
+        outcome = "missed finals" if not unlucky["_made_finals"] else "made finals"
+        awards.append(_award("unluckiest", "Unluckiest Coach", unlucky["coach"],
+                              f"Finished rank {unlucky['actual_rank']} ({outcome}) despite a {unlucky['top4_pct']:.0f}% model chance of finals"))
+
+    lucky = max(mc_results, key=lambda r: r["_finals_surprise"])
+    if lucky["_finals_surprise"] >= UNLUCKY_LUCK_THRESHOLD:
+        outcome = "made finals" if lucky["_made_finals"] else "missed finals"
         awards.append(_award("luckiest", "Luckiest Coach", lucky["coach"],
-                              f"Finished rank {lucky['actual_rank']}, averaged rank {lucky['avg_mc_rank']:.2f} across simulated schedules"))
+                              f"Finished rank {lucky['actual_rank']} ({outcome}) despite only a {lucky['top4_pct']:.0f}% model chance of finals"))
 
     dodgers = [r for r in mc_results if r["actual_rank"] != spoon_rank]
     if dodgers:
