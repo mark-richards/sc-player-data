@@ -44,6 +44,11 @@ def create_app() -> Flask:
     import website.data.draft_data as draft_data_module
     draft_data_module.cache = cache
 
+    # build_notable_season_records() also runs a Monte Carlo sim per year
+    # (for the Unluckiest Spoon Season leaderboard) — cache it too.
+    import website.data.hall_of_fame as hall_of_fame_module
+    hall_of_fame_module.cache = cache
+
     from website.routes.season         import bp as season_bp
     from website.routes.coach          import bp as coach_bp
     from website.routes.records        import bp as records_bp

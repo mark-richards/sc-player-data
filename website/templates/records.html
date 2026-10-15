@@ -10,6 +10,7 @@
   <a href="#season-results" class="btn btn-sm btn-outline-secondary">Season Results</a>
   <a href="#trophy-cabinet" class="btn btn-sm btn-outline-secondary">🏅 Trophy Cabinet</a>
   <a href="#notable-records" class="btn btn-sm btn-outline-secondary">📊 Notable Records</a>
+  <a href="#notable-seasons" class="btn btn-sm btn-outline-secondary">🔮 Notable Seasons</a>
   <a href="#championship-drought" class="btn btn-sm btn-outline-secondary">⏳ Drought</a>
   <a href="#bridesmaid-tally" class="btn btn-sm btn-outline-secondary">🥈 Bridesmaid</a>
   <a href="#head-to-head" class="btn btn-sm btn-outline-secondary">⚔️ Head-to-Head</a>
@@ -227,13 +228,50 @@
   <div class="card-body">
     <div class="row g-3">
       {{ record_list(notable_records.highest, "Highest Scores Ever", " pts") }}
-      {{ record_list(notable_records.lowest, "Lowest Scores Ever", " pts") }}
-      {{ record_list(notable_records.blowout, "Biggest Blowouts", " pts", show_margin=True, verb="def.") }}
       {{ record_list(notable_records.closest, "Closest Games Ever", " pts", show_margin=True, verb="def.") }}
       {{ record_list(notable_records.draws, "Exact Draws", " pts", verb="drew with", show_score=False) }}
     </div>
   </div>
   <div class="card-footer text-muted small">Regular season only, same scope as every other per-season stat on the site.</div>
+</div>
+{% endif %}
+
+{% if notable_season_records %}
+{% macro season_record_list(rows, label) %}
+  <div class="col-md-6 col-lg-4">
+    <div class="border rounded p-2 h-100">
+      <div class="small text-muted text-uppercase mb-2" style="font-size:0.68rem; letter-spacing:.03em;">{{ label }}</div>
+      {% if rows %}
+      <div class="d-flex flex-column gap-1">
+        {% for r in rows %}
+        <div class="d-flex align-items-baseline gap-2 small">
+          <span class="text-muted" style="width:1rem; flex-shrink:0;">{{ loop.index }}.</span>
+          <span class="flex-grow-1">
+            <a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a>
+            <span class="text-muted">{{ r.label }}</span>
+          </span>
+          <span class="text-muted" style="font-size:0.72rem; white-space:nowrap;">{{ r.year }}</span>
+        </div>
+        {% endfor %}
+      </div>
+      {% else %}
+      <div class="text-muted small fst-italic">None yet</div>
+      {% endif %}
+    </div>
+  </div>
+{% endmacro %}
+<div class="card shadow-sm mb-4" id="notable-seasons">
+  <div class="card-header fw-semibold">🔮 Notable Seasons</div>
+  <div class="card-body">
+    <div class="row g-3">
+      {{ season_record_list(notable_season_records.dominant, "Most Dominant Seasons") }}
+      {{ season_record_list(notable_season_records.unluckiest_spoon, "Unluckiest Spoon Seasons") }}
+      {{ season_record_list(notable_season_records.lucky_wins, "Most Lucky Wins in a Season") }}
+      {{ season_record_list(notable_season_records.unlucky_losses, "Most Unlucky Losses in a Season") }}
+      {{ season_record_list(notable_season_records.sunday_scaries, "Most Sunday Scaries in a Season") }}
+    </div>
+  </div>
+  <div class="card-footer text-muted small">Regular season only. Dominance = mean weekly score rank; luck stats come from the Monte Carlo schedule simulation, same as the season Awards.</div>
 </div>
 {% endif %}
 

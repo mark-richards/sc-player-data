@@ -82,6 +82,16 @@ def _results_from_master(master_df: pd.DataFrame) -> dict[int, dict]:
 
 
 
+def hardcoded_season_years() -> set[int]:
+    """
+    Years with a manually-curated result in _HARDCODED — includes seasons
+    (2013-2015 currently) with no ingested fixtures/ladder data anywhere
+    else, used by hall_of_fame.completed_years() so their Dawnbreaker/Spoon
+    still count toward the Trophy Cabinet and similar all-time tallies.
+    """
+    return set(_HARDCODED.keys())
+
+
 def get_season_result(year: int, master_df: pd.DataFrame | None = None) -> dict | None:
     """
     Returns the {"champion", "runner_up", "finals", "spoon"} result dict for a

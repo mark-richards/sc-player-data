@@ -6,7 +6,7 @@ from flask import Blueprint, render_template
 from website.data.loader import load_league_master
 from website.data.honour_board import build_honour_board
 from website.data.hall_of_fame import (
-    completed_years, build_trophy_cabinet, build_notable_records,
+    completed_years, build_trophy_cabinet, build_notable_records, build_notable_season_records,
     build_championship_drought, build_bridesmaid_tally, build_head_to_head,
     build_favourite_players,
 )
@@ -22,6 +22,7 @@ def records():
     years = completed_years()
     trophy_cabinet = build_trophy_cabinet(years)
     notable_records = build_notable_records(years)
+    notable_season_records = build_notable_season_records(years)
     drought = build_championship_drought(season_list)
     bridesmaid = build_bridesmaid_tally(season_list)
     head_to_head = build_head_to_head(years)
@@ -33,6 +34,7 @@ def records():
         seasons=season_list,
         trophy_cabinet=trophy_cabinet,
         notable_records=notable_records,
+        notable_season_records=notable_season_records,
         drought=drought,
         bridesmaid=bridesmaid,
         head_to_head=head_to_head,

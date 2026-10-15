@@ -190,14 +190,25 @@ def _strong_finisher(fixtures_df: pd.DataFrame) -> list[dict]:
     return [_award("strong_finisher", "Strong Finisher", coach, f"{last3[coach]:.0f} avg over the last 3 rounds")]
 
 
-def _close_calls_sunday_scaries(fixtures_df: pd.DataFrame) -> list[dict]:
+def close_call_counts(fixtures_df: pd.DataFrame) -> tuple[pd.Series, pd.Series]:
+    """
+    Per-coach (close_wins, close_losses) counts — games decided by
+    CLOSE_GAME_MARGIN points or less. Shared by _close_calls_sunday_scaries()
+    (the season-award winner) and hall_of_fame.py's all-time Sunday Scaries
+    leaderboard (every coach-season's count).
+    """
     if fixtures_df.empty:
-        return []
+        return pd.Series(dtype="int64"), pd.Series(dtype="int64")
     df = fixtures_df.copy()
     df["margin"] = (df["team_points"] - df["opposition_team_points"]).abs()
     close = df[df["margin"] <= CLOSE_GAME_MARGIN]
     close_wins = close[close["win"]].groupby("coach_first_name").size()
     close_losses = close[(~close["win"]) & (~close["draw"])].groupby("coach_first_name").size()
+    return close_wins, close_losses
+
+
+def _close_calls_sunday_scaries(fixtures_df: pd.DataFrame) -> list[dict]:
+    close_wins, close_losses = close_call_counts(fixtures_df)
 
     awards = []
     if not close_wins.empty:
@@ -211,32 +222,27 @@ def _close_calls_sunday_scaries(fixtures_df: pd.DataFrame) -> list[dict]:
     return awards
 
 
-def _lucky_unlucky_results(fixtures_df: pd.DataFrame) -> list[dict]:
+def _lucky_unlucky_results(fixture_strength: list[dict]) -> list[dict]:
     """
-    A per-game cousin of Close Calls/Sunday Scaries, benchmarked against that
-    round's average team score (across all 8 coaches) instead of the margin
-    to the opponent. A win with a below-average score means the opponent
-    happened to score even lower — a result you got away with, not one you
-    earned by scoring well. A loss with an above-average score is the
-    reverse: you played a good round and still lost.
+    Season-high Lucky Wins / Unlucky Losses, from the same lucky_wins/
+    unlucky_losses counts build_fixture_strength() already computes for the
+    Fixture Difficulty & Luck table (wins with a below-round-average score /
+    losses with an above-round-average score) — single source of truth
+    rather than a second independent computation of the same thing.
     """
-    if fixtures_df.empty:
+    if not fixture_strength:
         return []
-    df = fixtures_df.copy()
-    round_avg = df.groupby("round_number")["team_points"].transform("mean")
-    lucky = df[df["win"] & (df["team_points"] < round_avg)]
-    unlucky = df[(~df["win"]) & (~df["draw"]) & (df["team_points"] > round_avg)]
-    lucky_counts = lucky.groupby("coach_first_name").size()
-    unlucky_counts = unlucky.groupby("coach_first_name").size()
+    lucky_counts = {r["coach"]: r["lucky_wins"] for r in fixture_strength if r["lucky_wins"] > 0}
+    unlucky_counts = {r["coach"]: r["unlucky_losses"] for r in fixture_strength if r["unlucky_losses"] > 0}
 
     awards = []
-    if not lucky_counts.empty:
-        coach = lucky_counts.idxmax()
+    if lucky_counts:
+        coach = max(lucky_counts, key=lucky_counts.get)
         n = int(lucky_counts[coach])
         awards.append(_award("lucky_wins", "Lucky Wins", coach,
                               f"{n} win{'s' if n != 1 else ''} with a below-average score"))
-    if not unlucky_counts.empty:
-        coach = unlucky_counts.idxmax()
+    if unlucky_counts:
+        coach = max(unlucky_counts, key=unlucky_counts.get)
         n = int(unlucky_counts[coach])
         awards.append(_award("unlucky_losses", "Unlucky Losses", coach,
                               f"{n} loss{'es' if n != 1 else ''} with an above-average score"))
@@ -413,7 +419,7 @@ def build_season_awards(year: int) -> list[dict]:
         list_season_coaches,
     )
     from website.data.standings import compute_standings
-    from website.data.fixture_strength import build_monte_carlo_schedule_sim
+    from website.data.fixture_strength import build_monte_carlo_schedule_sim, build_fixture_strength
     from website.data.draft_data import load_draft_board, get_pick_value_extremes, build_round_value_baseline
     from website.data.acquisition import load_player_sources, build_acquisition_stats, get_acquisition_kings
 
@@ -436,7 +442,12 @@ def build_season_awards(year: int) -> list[dict]:
     awards += _iron_man_boom_bust(reg_fixtures, final_ranks)
     awards += _strong_finisher(reg_fixtures)
     awards += _close_calls_sunday_scaries(reg_fixtures)
-    awards += _lucky_unlucky_results(reg_fixtures)
+    try:
+        fixture_strength = build_fixture_strength(reg_fixtures)
+    except Exception:
+        log.warning("build_fixture_strength failed for %s awards", year, exc_info=True)
+        fixture_strength = []
+    awards += _lucky_unlucky_results(fixture_strength)
     awards += _lineup_turnover(reg_players)
 
     try:

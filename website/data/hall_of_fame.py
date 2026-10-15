@@ -13,6 +13,21 @@ import requests
 
 log = logging.getLogger(__name__)
 
+# Injected from app.py after Flask-Caching is set up. build_notable_season_records()
+# runs a Monte Carlo sim per year, so it's memoized the same way awards.py
+# memoizes build_season_awards().
+cache = None
+
+
+def _memoize(fn):
+    def wrapper(*args, **kwargs):
+        if cache is not None:
+            return cache.memoize()(fn)(*args, **kwargs)
+        return fn(*args, **kwargs)
+    wrapper.__name__ = fn.__name__
+    return wrapper
+
+
 _PHOTO_CACHE_PATH = None  # set lazily from website.config to avoid a circular import at module load
 
 
@@ -75,15 +90,27 @@ def resolve_player_photo_url(feed_id: int, cache: dict, years_back: int = 6) -> 
 
 
 def completed_years() -> list[int]:
-    """Every season (2016+) whose outcome is actually decided — the same
+    """Every season whose outcome is actually decided — the same
     season_phase() check season.py uses to gate the per-season Awards card,
     applied across the whole history so an in-progress current season isn't
-    counted toward all-time tallies."""
+    counted toward all-time tallies.
+
+    Years before 2016 (2013-2015) have no ingested fixtures/ladder data at
+    all — list_available_seasons() never sees them — but honour_board.py's
+    _HARDCODED has their champion/runner-up/spoon on record regardless, so
+    they're included too. build_season_awards() already degrades gracefully
+    for a year with no fixtures (it falls back to get_season_result() for
+    just the Dawnbreaker award and skips every other, fixture-dependent
+    award) — the earlier fixtures-only version of this
+    function silently dropped those years from the Trophy Cabinet and
+    similar all-time tallies entirely, undercounting real championships
+    (e.g. Simon's 2013 and 2014 titles)."""
     from website.data.loader import list_available_seasons, load_ladder
     from website.data.standings import get_current_round
     from website.data.finals import build_finals_bracket, season_phase
+    from website.data.honour_board import hardcoded_season_years
 
-    years = []
+    years = hardcoded_season_years()
     for year in list_available_seasons():
         ladder = load_ladder(year)
         current_round = get_current_round(ladder)
@@ -92,7 +119,7 @@ def completed_years() -> list[int]:
         except Exception:
             finals_bracket = None
         if season_phase(year, current_round, finals_bracket) == "completed":
-            years.append(year)
+            years.add(year)
     return sorted(years)
 
 
@@ -198,10 +225,10 @@ def build_notable_records(years: list[int], top_n: int = 5) -> dict:
         return rows
 
     # Every fixture appears twice in all_fx (once per team's perspective), so
-    # margin-based leaderboards (blowout/closest/draws) need deduping to one
-    # row per actual game first, or the same handful of games would fill
-    # most of the top 5 twice over. highest/lowest don't have this problem —
-    # each row there is legitimately one team's own score for that round.
+    # margin-based leaderboards (closest/draws) need deduping to one row per
+    # actual game first, or the same handful of games would fill most of the
+    # top 5 twice over. "highest" doesn't have this problem — each row there
+    # is legitimately one team's own score for that round.
     games = all_fx.sort_values("win", ascending=False)
     games["_pair_key"] = games.apply(
         lambda r: (r["year"], r["round_number"],
@@ -211,18 +238,106 @@ def build_notable_records(years: list[int], top_n: int = 5) -> dict:
     games = games.drop_duplicates(subset="_pair_key", keep="first")
 
     highest = all_fx.nlargest(top_n, "team_points")
-    lowest  = all_fx.nsmallest(top_n, "team_points")
-    blowout = games.nlargest(top_n, "margin")
     nonzero = games[games["margin"] > 0]
     closest = nonzero.nsmallest(top_n, "margin")
     draws   = games[games["margin"] == 0].sort_values(["year", "round_number"])
 
     return {
         "highest": _rows(highest),
-        "lowest":  _rows(lowest),
-        "blowout": _rows(blowout, with_margin=True),
         "closest": _rows(closest, with_margin=True),
         "draws":   _rows(draws),
+    }
+
+
+@_memoize
+def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
+    """
+    All-time top-`top_n` leaderboards of per-coach-SEASON stats (as opposed
+    to build_notable_records()'s per-GAME stats) — reuses the same
+    computations behind several season awards (website.data.awards) so a
+    coach's card there and their entry here tell the same story at a
+    different scope. Returns {} if there's no usable data at all.
+
+    dominant: lowest avg_score_rank (mean weekly score rank, 1-8, from
+      build_fixture_strength — the Fixture Difficulty & Luck table's own
+      "Avg Score Rank" column) in a season, best-first. Measures weekly
+      scoring dominance, independent of ladder luck.
+
+    unluckiest_spoon: lowest spoon_pct (Monte Carlo modelled chance of
+      finishing last, from build_monte_carlo_schedule_sim) for the coach who
+      actually got the spoon that season — paired with "rival", whichever
+      other coach had the highest spoon_pct that year without getting it:
+      the model's own pick for who "should've" got it instead.
+
+    lucky_wins / unlucky_losses / sunday_scaries: highest single-season
+      count of each (see awards.py's _lucky_unlucky_results /
+      _close_calls_sunday_scaries, which use the same underlying counts).
+    """
+    from website.config import season_meta
+    from website.data.loader import load_fixtures
+    from website.data.fixture_strength import build_fixture_strength, build_monte_carlo_schedule_sim
+    from website.data.awards import close_call_counts
+
+    dominant, spoon_rows, lucky_rows, unlucky_rows, scaries_rows = [], [], [], [], []
+
+    for year in years:
+        fixtures = load_fixtures(year)
+        if fixtures.empty:
+            continue
+        reg = fixtures[fixtures["round_number"] <= season_meta(year)["total_regular_rounds"]]
+        if reg.empty:
+            continue
+
+        try:
+            fs = build_fixture_strength(reg)
+        except Exception:
+            log.warning("build_fixture_strength failed for %s notable records", year, exc_info=True)
+            fs = []
+        for row in fs:
+            dominant.append({"coach": row["coach"], "year": year, "value": row["avg_score_rank"],
+                              "label": f"{row['avg_score_rank']:.2f} avg weekly rank"})
+            if row["lucky_wins"] > 0:
+                n = row["lucky_wins"]
+                lucky_rows.append({"coach": row["coach"], "year": year, "value": n,
+                                    "label": f"{n} lucky win{'s' if n != 1 else ''}"})
+            if row["unlucky_losses"] > 0:
+                n = row["unlucky_losses"]
+                unlucky_rows.append({"coach": row["coach"], "year": year, "value": n,
+                                      "label": f"{n} unlucky loss{'es' if n != 1 else ''}"})
+
+        try:
+            mc = build_monte_carlo_schedule_sim(reg)
+        except Exception:
+            log.warning("build_monte_carlo_schedule_sim failed for %s notable records", year, exc_info=True)
+            mc = []
+        if mc:
+            spoon_rank = max(r["actual_rank"] for r in mc)
+            holder = next((r for r in mc if r["actual_rank"] == spoon_rank), None)
+            rivals = [r for r in mc if r["actual_rank"] != spoon_rank]
+            if holder and rivals:
+                rival = max(rivals, key=lambda r: r["spoon_pct"])
+                spoon_rows.append({
+                    "coach": holder["coach"], "year": year, "value": holder["spoon_pct"],
+                    "rival": rival["coach"], "rival_value": rival["spoon_pct"],
+                    "label": f"only a {holder['spoon_pct']:.0f}% modelled chance "
+                             f"({rival['coach']} had {rival['spoon_pct']:.0f}%)",
+                })
+
+        _, close_losses = close_call_counts(reg)
+        for coach, n in close_losses.items():
+            n = int(n)
+            scaries_rows.append({"coach": coach, "year": year, "value": n,
+                                  "label": f"{n} close loss{'es' if n != 1 else ''}"})
+
+    if not (dominant or spoon_rows or lucky_rows or unlucky_rows or scaries_rows):
+        return {}
+
+    return {
+        "dominant":         sorted(dominant, key=lambda r: r["value"])[:top_n],
+        "unluckiest_spoon": sorted(spoon_rows, key=lambda r: r["value"])[:top_n],
+        "lucky_wins":       sorted(lucky_rows, key=lambda r: -r["value"])[:top_n],
+        "unlucky_losses":   sorted(unlucky_rows, key=lambda r: -r["value"])[:top_n],
+        "sunday_scaries":   sorted(scaries_rows, key=lambda r: -r["value"])[:top_n],
     }
 
 
