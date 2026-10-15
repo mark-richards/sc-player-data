@@ -28,6 +28,13 @@ def _memoize(fn):
 CLOSE_GAME_MARGIN = 55          # bottom quartile of every fixture margin in league history
 UNLUCKY_LUCK_THRESHOLD = 0.3    # |finals-probability surprise| (0-1 scale) must clear this to award
 SPOON_DODGE_THRESHOLD = 15.0    # spoon_pct (%) must clear this, among coaches who didn't get the spoon
+# The actual spoon recipient's own spoon_pct must be AT OR BELOW this to count
+# as a surprise landing rather than a deserved one. Calibrated from the real
+# distribution across every season's actual recipient (2.7/16.5/18.4/27.7 vs.
+# 55.9/62.2/65.1/85.0) — a clean gap sits around 30, not SPOON_DODGE_THRESHOLD's
+# 15 (that one's tuned for the 7-coach non-recipient pool, which has more
+# variance; reusing it here wrongly missed 2024/2025/2026's actual recipients).
+SPOON_MAGNET_THRESHOLD = 30.0
 MIN_WIN_STREAK = 2
 EARLY_LATE_SPLIT_ROUND = 8      # Early/late boundary for the 4 Draft Pick awards (early = premium capital)
 IRON_MAN_MAX_RANK = 7           # Iron Man excludes the last-place finisher (consistently bad isn't "iron man")
@@ -319,7 +326,7 @@ def _luck_awards(mc_results: list[dict]) -> list[dict]:
     # that was good enough to usually avoid last on a random schedule but
     # landed there anyway.
     magnet = next((r for r in mc_results if r["actual_rank"] == spoon_rank), None)
-    if magnet and magnet["spoon_pct"] <= SPOON_DODGE_THRESHOLD:
+    if magnet and magnet["spoon_pct"] <= SPOON_MAGNET_THRESHOLD:
         awards.append(_award("spoon_magnet", "Unlucky: Spoon Magnet", magnet["coach"],
                               f"Only a {magnet['spoon_pct']:.0f}% modelled chance of the spoon, got it anyway"))
 
