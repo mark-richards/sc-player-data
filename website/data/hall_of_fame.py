@@ -192,6 +192,10 @@ def build_notable_records(years: list[int], top_n: int = 5) -> dict:
     per team, in the source data) rather than just a count, since there are
     few enough in league history that listing them is more interesting than
     a bare number.
+
+    "closest_finals" is the one exception to the regular-season scope —
+    finals games live in a separate source (load_finals_fixtures) entirely,
+    since ladder.csv/fixtures.csv never include them.
     """
     from website.data.loader import load_fixtures
 
@@ -242,10 +246,34 @@ def build_notable_records(years: list[int], top_n: int = 5) -> dict:
     closest = nonzero.nsmallest(top_n, "margin")
     draws   = games[games["margin"] == 0].sort_values(["year", "round_number"])
 
+    # Finals games live outside ladder.csv/fixtures.csv entirely (see
+    # load_finals_fixtures's docstring) — one row per actual game already,
+    # winner/loser rather than a per-team-perspective pair, so no dedup step
+    # is needed the way the regular-season games above require.
+    from website.data.finals import load_finals_fixtures
+    finals_rows = []
+    for year in years:
+        for g in load_finals_fixtures(year):
+            margin = abs(g["score1"] - g["score2"])
+            if margin <= 0:
+                continue
+            won_by_1 = g["winner"] == g["coach1"]
+            finals_rows.append({
+                "coach":           g["winner"],
+                "opponent":        g["coach2"] if won_by_1 else g["coach1"],
+                "points":          g["score1"] if won_by_1 else g["score2"],
+                "opponent_points": g["score2"] if won_by_1 else g["score1"],
+                "year":            year,
+                "round":           g["round"],
+                "margin":          margin,
+            })
+    closest_finals = sorted(finals_rows, key=lambda r: r["margin"])[:top_n]
+
     return {
-        "highest": _rows(highest),
-        "closest": _rows(closest, with_margin=True),
-        "draws":   _rows(draws),
+        "highest":        _rows(highest),
+        "closest":        _rows(closest, with_margin=True),
+        "draws":          _rows(draws),
+        "closest_finals": closest_finals,
     }
 
 
