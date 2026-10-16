@@ -194,7 +194,7 @@
 
 {# ── Notable Records ── #}
 {% if notable_records %}
-{% macro record_list(rows, label, suffix, show_margin=False, verb="vs", show_score=True) %}
+{% macro record_list(rows, label, suffix, show_margin=False, verb="vs", show_score=True, round_prefix="R") %}
   <div class="col-md-6 col-lg-4">
     <div class="border rounded p-2 h-100">
       <div class="small text-muted text-uppercase mb-2" style="font-size:0.68rem; letter-spacing:.03em;">{{ label }}</div>
@@ -213,7 +213,7 @@
             </span>
             {% endif %}
           </span>
-          <span class="text-muted" style="font-size:0.72rem; white-space:nowrap;">{{ r.year }} R{{ r.round }}</span>
+          <span class="text-muted" style="font-size:0.72rem; white-space:nowrap;">{{ r.year }} {{ round_prefix }}{{ r.round }}</span>
         </div>
         {% endfor %}
       </div>
@@ -229,7 +229,7 @@
     <div class="row g-3">
       {{ record_list(notable_records.highest, "Highest Scores Ever", " pts") }}
       {{ record_list(notable_records.closest, "Closest Games Ever", " pts", show_margin=True, verb="def.") }}
-      {{ record_list(notable_records.closest_finals, "Closest Finals Games Ever", " pts", show_margin=True, verb="def.") }}
+      {{ record_list(notable_records.closest_finals, "Closest Finals Games Ever", " pts", show_margin=True, verb="def.", round_prefix="") }}
       {{ record_list(notable_records.draws, "Exact Draws", " pts", verb="drew with", show_score=False) }}
     </div>
   </div>

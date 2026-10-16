@@ -194,8 +194,9 @@ def build_notable_records(years: list[int], top_n: int = 5) -> dict:
     a bare number.
 
     "closest_finals" is the one exception to the regular-season scope —
-    finals games live in a separate source (load_finals_fixtures) entirely,
-    since ladder.csv/fixtures.csv never include them.
+    finals games live in a separate source (build_finals_bracket) entirely,
+    since ladder.csv/fixtures.csv never include them. Its "round" field is
+    the stage abbreviation (QF/EF/PF/SF/GF), not a round number.
     """
     from website.data.loader import load_fixtures
 
@@ -246,25 +247,48 @@ def build_notable_records(years: list[int], top_n: int = 5) -> dict:
     closest = nonzero.nsmallest(top_n, "margin")
     draws   = games[games["margin"] == 0].sort_values(["year", "round_number"])
 
-    # Finals games live outside ladder.csv/fixtures.csv entirely (see
-    # load_finals_fixtures's docstring) — one row per actual game already,
-    # winner/loser rather than a per-team-perspective pair, so no dedup step
-    # is needed the way the regular-season games above require.
-    from website.data.finals import load_finals_fixtures
+    # Finals games live outside ladder.csv/fixtures.csv entirely. Built from
+    # build_finals_bracket (not load_finals_fixtures) specifically so each
+    # game can be labelled with its actual stage (QF/EF/PF/GF, or SF/GF for
+    # a 2-week finals format) — a 3-week format's week 1 has two games
+    # (QF and EF) in the SAME round number, distinguished only by which two
+    # coaches are playing (the higher seeds get the QF), so the round number
+    # alone can't tell them apart the way load_finals_fixtures returns it.
+    from website.data.finals import build_finals_bracket
+    from website.data.loader import load_ladder
+
+    _STAGE_ABBREV = {
+        "Qualifying Final":   "QF",
+        "Elimination Final":  "EF",
+        "Preliminary Final":  "PF",
+        "Semi Final":         "SF",
+        "Grand Final":        "GF",
+    }
     finals_rows = []
     for year in years:
-        for g in load_finals_fixtures(year):
-            margin = abs(g["score1"] - g["score2"])
+        ladder = load_ladder(year)
+        if ladder.empty:
+            continue
+        try:
+            bracket = build_finals_bracket(ladder, year=year)
+        except Exception:
+            bracket = None
+        if not bracket:
+            continue
+        for key, m in bracket.items():
+            if key in ("format", "premier", "runner_up") or not isinstance(m, dict):
+                continue
+            margin = abs(m["score1"] - m["score2"])
             if margin <= 0:
                 continue
-            won_by_1 = g["winner"] == g["coach1"]
+            won_by_1 = m["winner"] == m["coach1"]
             finals_rows.append({
-                "coach":           g["winner"],
-                "opponent":        g["coach2"] if won_by_1 else g["coach1"],
-                "points":          g["score1"] if won_by_1 else g["score2"],
-                "opponent_points": g["score2"] if won_by_1 else g["score1"],
+                "coach":           m["winner"],
+                "opponent":        m["coach2"] if won_by_1 else m["coach1"],
+                "points":          m["score1"] if won_by_1 else m["score2"],
+                "opponent_points": m["score2"] if won_by_1 else m["score1"],
                 "year":            year,
-                "round":           g["round"],
+                "round":           _STAGE_ABBREV.get(m["label"], m["label"]),
                 "margin":          margin,
             })
     closest_finals = sorted(finals_rows, key=lambda r: r["margin"])[:top_n]
