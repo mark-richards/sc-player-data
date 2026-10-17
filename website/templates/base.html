@@ -24,7 +24,7 @@
     <a class="navbar-brand fw-bold" href="{{ season_url('season.season_summary') }}">🏉 ASL Fantasy {{ season_year|default(2026) }}</a>
 
     <div class="d-flex align-items-center order-lg-2 ms-auto">
-      {% if available_seasons and available_seasons|length > 1 %}
+      {% if available_seasons and available_seasons|length > 1 and current_route_has_year %}
       <div class="dropdown me-2">
         <button class="btn btn-sm btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown">
           <i class="bi bi-calendar3"></i> {{ season_year|default(2026) }}

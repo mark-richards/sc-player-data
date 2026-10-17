@@ -72,6 +72,15 @@ def create_app() -> Flask:
 
         selected_year = (request.view_args or {}).get("year", SEASON_YEAR)
 
+        # Whether the CURRENT page's own route accepts a year — all-time
+        # pages like the Hall of Fame (/records) don't, so the nav's year
+        # switcher would otherwise look clickable but always just reload the
+        # same page with no year arg attached, which reads as broken rather
+        # than as "this page covers every season".
+        from flask import current_app
+        _rules = [r for r in current_app.url_map.iter_rules() if r.endpoint == request.endpoint]
+        current_route_has_year = any("year" in r.arguments for r in _rules)
+
         def year_href(endpoint, year, **extra_args):
             # The current season is exported at the flat root paths (not
             # /season/<year>/...) by build_static.py, so drop the year arg
@@ -108,6 +117,7 @@ def create_app() -> Flask:
             season_url=season_url,
             year_href=year_href,
             nav_coaches=list_season_coaches(selected_year),
+            current_route_has_year=current_route_has_year,
         )
 
     def _current_round() -> int:
