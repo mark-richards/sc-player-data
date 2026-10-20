@@ -93,7 +93,7 @@ def build_finals_bracket(ladder_df, year: int | None = None) -> dict | None:
     json_dir = finals_json_dir(year)
 
     reg_season = ladder_df[ladder_df["round"] == total_regular_rounds]
-    standings = compute_standings(reg_season, total_regular_rounds)
+    standings = compute_standings(reg_season, total_regular_rounds, year)
     seed = dict(zip(standings["coach_first_name"], standings["ladder_pos"]))
 
     if finals_weeks == 2:

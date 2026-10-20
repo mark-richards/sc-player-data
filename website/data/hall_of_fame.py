@@ -351,7 +351,7 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
             continue
 
         try:
-            fs = build_fixture_strength(reg)
+            fs = build_fixture_strength(reg, year)
         except Exception:
             log.warning("build_fixture_strength failed for %s notable records", year, exc_info=True)
             fs = []
@@ -368,7 +368,7 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
                                       "label": f"{n} unlucky loss{'es' if n != 1 else ''}"})
 
         try:
-            mc = build_monte_carlo_schedule_sim(reg)
+            mc = build_monte_carlo_schedule_sim(reg, year=year)
         except Exception:
             log.warning("build_monte_carlo_schedule_sim failed for %s notable records", year, exc_info=True)
             mc = []

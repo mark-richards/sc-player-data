@@ -45,7 +45,7 @@ def season_summary(year: int | None = None):
         ladder = ladder[ladder["round"] <= current_round]
     if not fixtures.empty:
         fixtures = fixtures[fixtures["round_number"] <= current_round]
-    standings = compute_standings(ladder, current_round)
+    standings = compute_standings(ladder, current_round, year)
     pos_ratings = compute_positional_ratings(players, current_round)
     standings = standings.merge(pos_ratings, on="coach_first_name", how="left")
 
@@ -75,12 +75,12 @@ def season_summary(year: int | None = None):
             standings[col] = 0.0
 
     try:
-        fixture_strength = build_fixture_strength(fixtures)
+        fixture_strength = build_fixture_strength(fixtures, year)
     except Exception:
         fixture_strength = []
 
     try:
-        monte_carlo_sim = build_monte_carlo_schedule_sim(fixtures)
+        monte_carlo_sim = build_monte_carlo_schedule_sim(fixtures, year=year)
     except Exception:
         monte_carlo_sim = []
 

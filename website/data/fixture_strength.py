@@ -63,6 +63,25 @@ import pandas as pd
 log = logging.getLogger(__name__)
 
 
+def _actual_rank_key(record: dict, year: "int | None") -> tuple:
+    """
+    Sort key for a coach's REAL (non-simulated) season record, matching
+    standings.compute_standings()'s own era-aware tiebreak: percentage
+    (pts_for/pts_against) through PERCENTAGE_TIEBREAK_LAST_YEAR, raw
+    pts_for from the following year on. Used for every "actual_ladder"
+    below, which feeds actual_rank into the Monte Carlo luck comparisons
+    (Luckiest/Unluckiest Coach, Finals Dodger, Spoon Magnet, etc.) — a
+    second, independent place this same era-dependent tiebreak applied,
+    found when fixing compute_standings() itself.
+    """
+    from website.data.standings import PERCENTAGE_TIEBREAK_LAST_YEAR
+    if year is not None and year <= PERCENTAGE_TIEBREAK_LAST_YEAR:
+        tiebreak = -(record["pts_for"] / (record["pts_against"] or 1))
+    else:
+        tiebreak = -record["pts_for"]
+    return (-record["league_points"], tiebreak)
+
+
 def _build_all_records(fixtures_df: pd.DataFrame):
     """
     Shared groundwork for both build_fixture_strength() and
@@ -138,7 +157,7 @@ def _build_all_records(fixtures_df: pd.DataFrame):
     return coaches, rounds, round_data, round_scores, all_records
 
 
-def build_simulation_ladders(fixtures_df: pd.DataFrame) -> list[dict]:
+def build_simulation_ladders(fixtures_df: pd.DataFrame, year: int | None = None) -> list[dict]:
     """
     Returns one dict per schedule template: {"template", "ladder", "detail"}
     where "ladder" is that template's full 8-coach simulated standings (all
@@ -158,13 +177,7 @@ def build_simulation_ladders(fixtures_df: pd.DataFrame) -> list[dict]:
     if coaches is None:
         return []
 
-    actual_ladder = sorted(
-        coaches,
-        key=lambda c: (
-            -all_records[c][c]["league_points"],
-            -all_records[c][c]["pts_for"],
-        ),
-    )
+    actual_ladder = sorted(coaches, key=lambda c: _actual_rank_key(all_records[c][c], year))
     actual_ladder_rank = {c: actual_ladder.index(c) + 1 for c in coaches}
 
     sims = []
@@ -221,7 +234,7 @@ def build_simulation_ladders(fixtures_df: pd.DataFrame) -> list[dict]:
     return sims
 
 
-def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
+def build_fixture_strength(fixtures_df: pd.DataFrame, year: int | None = None) -> list[dict]:
     """
     Returns one dict per coach with all luck/difficulty metrics.
     Sorted by avg_opp_rank ascending (hardest schedule first).
@@ -232,13 +245,7 @@ def build_fixture_strength(fixtures_df: pd.DataFrame) -> list[dict]:
         return []
 
     # ── Actual ladder rank (each coach plays their own schedule) ─────────────
-    actual_ladder = sorted(
-        coaches,
-        key=lambda c: (
-            -all_records[c][c]["league_points"],
-            -all_records[c][c]["pts_for"],
-        ),
-    )
+    actual_ladder = sorted(coaches, key=lambda c: _actual_rank_key(all_records[c][c], year))
     actual_ladder_rank = {c: actual_ladder.index(c) + 1 for c in coaches}
 
     # ── Simulated ladder per schedule template ────────────────────────────────
@@ -386,7 +393,7 @@ def _generate_round_robin_cycle(coaches: list, rng: random.Random) -> list:
 
 
 def build_monte_carlo_schedule_sim(
-    fixtures_df: pd.DataFrame, n_trials: int = 20000, seed: int = 42
+    fixtures_df: pd.DataFrame, n_trials: int = 20000, seed: int = 42, year: int | None = None
 ) -> list[dict]:
     """
     Draws n_trials randomised, structurally valid round-robin schedules (see
@@ -424,13 +431,7 @@ def build_monte_carlo_schedule_sim(
     n = len(coaches)
     rng = random.Random(seed)
 
-    actual_ladder = sorted(
-        coaches,
-        key=lambda c: (
-            -all_records[c][c]["league_points"],
-            -all_records[c][c]["pts_for"],
-        ),
-    )
+    actual_ladder = sorted(coaches, key=lambda c: _actual_rank_key(all_records[c][c], year))
     actual_ladder_rank = {c: actual_ladder.index(c) + 1 for c in coaches}
 
     def _rank_tier_class(rank: int) -> str:

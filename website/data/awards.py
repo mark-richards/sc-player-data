@@ -445,7 +445,7 @@ def build_season_awards(year: int) -> list[dict]:
     reg_fixtures = fixtures[fixtures["round_number"] <= total_regular_rounds] if not fixtures.empty else fixtures
     reg_players = players[players["round_x"] <= total_regular_rounds] if not players.empty else players
 
-    standings = compute_standings(reg_ladder, total_regular_rounds)
+    standings = compute_standings(reg_ladder, total_regular_rounds, year)
     final_ranks = dict(zip(standings["coach_first_name"], standings["ladder_pos"])) if not standings.empty else {}
 
     awards: list[dict] = []
@@ -456,7 +456,7 @@ def build_season_awards(year: int) -> list[dict]:
     awards += _strong_finisher(reg_fixtures)
     awards += _close_calls_sunday_scaries(reg_fixtures)
     try:
-        fixture_strength = build_fixture_strength(reg_fixtures)
+        fixture_strength = build_fixture_strength(reg_fixtures, year)
     except Exception:
         log.warning("build_fixture_strength failed for %s awards", year, exc_info=True)
         fixture_strength = []
@@ -464,7 +464,7 @@ def build_season_awards(year: int) -> list[dict]:
     awards += _lineup_turnover(reg_players)
 
     try:
-        mc_results = build_monte_carlo_schedule_sim(reg_fixtures)
+        mc_results = build_monte_carlo_schedule_sim(reg_fixtures, year=year)
     except Exception:
         log.warning("build_monte_carlo_schedule_sim failed for %s awards", year, exc_info=True)
         mc_results = []
