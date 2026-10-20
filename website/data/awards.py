@@ -138,18 +138,31 @@ def _top_lowest_scorer(ladder_df: pd.DataFrame) -> list[dict]:
     ]
 
 
-def _best_run(fixtures_df: pd.DataFrame) -> list[dict]:
+def win_streaks(fixtures_df: pd.DataFrame) -> dict[str, int]:
+    """
+    Per-coach longest win streak within the given fixtures. Shared by
+    _best_run() (the season-award winner) and hall_of_fame.py's all-time
+    Longest Run of Wins leaderboard (every coach-season's own streak).
+    """
     if fixtures_df.empty:
-        return []
-    best_coach, best_streak = None, 0
+        return {}
+    streaks = {}
     for coach, grp in fixtures_df.groupby("coach_first_name"):
         cur = streak = 0
         for win in grp.sort_values("round_number")["win"]:
             cur = cur + 1 if win else 0
             streak = max(streak, cur)
-        if streak > best_streak:
-            best_coach, best_streak = coach, streak
-    if best_coach is None or best_streak < MIN_WIN_STREAK:
+        streaks[coach] = streak
+    return streaks
+
+
+def _best_run(fixtures_df: pd.DataFrame) -> list[dict]:
+    streaks = win_streaks(fixtures_df)
+    if not streaks:
+        return []
+    best_coach = max(streaks, key=streaks.get)
+    best_streak = streaks[best_coach]
+    if best_streak < MIN_WIN_STREAK:
         return []
     return [_award("best_run", "Best Run", best_coach, f"{best_streak} straight wins")]
 

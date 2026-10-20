@@ -330,13 +330,17 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
     lucky_wins / unlucky_losses / sunday_scaries: highest single-season
       count of each (see awards.py's _lucky_unlucky_results /
       _close_calls_sunday_scaries, which use the same underlying counts).
+
+    win_streak: longest single-season run of consecutive wins (see awards.py's
+      _best_run / win_streaks, which use the same underlying streak count).
     """
     from website.config import season_meta, FINALS_TOP_N
     from website.data.loader import load_fixtures
     from website.data.fixture_strength import build_fixture_strength, build_monte_carlo_schedule_sim
-    from website.data.awards import close_call_counts, UNLUCKY_LUCK_THRESHOLD
+    from website.data.awards import close_call_counts, win_streaks, UNLUCKY_LUCK_THRESHOLD
 
-    dominant, spoon_rows, dodger_rows, lucky_rows, unlucky_rows, scaries_rows = [], [], [], [], [], []
+    dominant, spoon_rows, dodger_rows, lucky_rows, unlucky_rows, scaries_rows, streak_rows = \
+        [], [], [], [], [], [], []
 
     for year in years:
         fixtures = load_fixtures(year)
@@ -396,7 +400,12 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
             scaries_rows.append({"coach": coach, "year": year, "value": n,
                                   "label": f"{n} close loss{'es' if n != 1 else ''}"})
 
-    if not (dominant or spoon_rows or dodger_rows or lucky_rows or unlucky_rows or scaries_rows):
+        for coach, n in win_streaks(reg).items():
+            if n > 0:
+                streak_rows.append({"coach": coach, "year": year, "value": n,
+                                     "label": f"{n} straight win{'s' if n != 1 else ''}"})
+
+    if not (dominant or spoon_rows or dodger_rows or lucky_rows or unlucky_rows or scaries_rows or streak_rows):
         return {}
 
     return {
@@ -406,6 +415,7 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
         "lucky_wins":       sorted(lucky_rows, key=lambda r: -r["value"])[:top_n],
         "unlucky_losses":   sorted(unlucky_rows, key=lambda r: -r["value"])[:top_n],
         "sunday_scaries":   sorted(scaries_rows, key=lambda r: -r["value"])[:top_n],
+        "win_streak":       sorted(streak_rows, key=lambda r: -r["value"])[:top_n],
     }
 
 
