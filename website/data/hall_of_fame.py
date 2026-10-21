@@ -333,14 +333,25 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
 
     win_streak: longest single-season run of consecutive wins (see awards.py's
       _best_run / win_streaks, which use the same underlying streak count).
+
+    luckiest_champ: the champion with the lowest average baseline title-
+      winning probability across the same Monte Carlo trials, using only
+      which bracket slot (QF/EF-equivalent) their simulated ranking AMONG
+      THE OTHER 3 REAL FINALISTS would put them in each trial — a
+      closed-form probability from the bracket format alone (37.5%/12.5%
+      split for a 3-week McIntyre finals, flat 25% for a 2-week knockout),
+      not a replay of any games. See fixture_strength.build_finals_luck().
     """
     from website.config import season_meta, FINALS_TOP_N
     from website.data.loader import load_fixtures
-    from website.data.fixture_strength import build_fixture_strength, build_monte_carlo_schedule_sim
+    from website.data.fixture_strength import (
+        build_fixture_strength, build_monte_carlo_schedule_sim, build_finals_luck,
+    )
     from website.data.awards import close_call_counts, win_streaks, UNLUCKY_LUCK_THRESHOLD
+    from website.data.honour_board import get_season_result
 
-    dominant, spoon_rows, dodger_rows, lucky_rows, unlucky_rows, scaries_rows, streak_rows = \
-        [], [], [], [], [], [], []
+    dominant, spoon_rows, dodger_rows, lucky_rows, unlucky_rows, scaries_rows, streak_rows, champ_luck_rows = \
+        [], [], [], [], [], [], [], []
 
     for year in years:
         fixtures = load_fixtures(year)
@@ -405,7 +416,31 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
                 streak_rows.append({"coach": coach, "year": year, "value": n,
                                      "label": f"{n} straight win{'s' if n != 1 else ''}"})
 
-    if not (dominant or spoon_rows or dodger_rows or lucky_rows or unlucky_rows or scaries_rows or streak_rows):
+        result = get_season_result(year)
+        finalists = result.get("finals") if result else None
+        champion = result.get("champion") if result else None
+        finals_weeks = season_meta(year)["finals_weeks"]
+        # A 2-week (straight knockout) format gives every finalist the same
+        # flat 25% regardless of seed - there's no seed-dependent branching
+        # in that bracket shape, so the simulation can't tell any of them
+        # apart (every trial contributes exactly 0.25, zero variance). Only
+        # a 3-week McIntyre format's double-chance asymmetry gives this
+        # metric anything real to measure.
+        if finalists and champion and len(finalists) == 4 and finals_weeks != 2:
+            try:
+                finals_luck = build_finals_luck(reg, finalists, finals_weeks, year=year)
+            except Exception:
+                log.warning("build_finals_luck failed for %s notable records", year, exc_info=True)
+                finals_luck = {}
+            champ_prob = finals_luck.get(champion)
+            if champ_prob is not None:
+                champ_luck_rows.append({
+                    "coach": champion, "year": year, "value": champ_prob,
+                    "label": f"won it with just a {champ_prob * 100:.0f}% average simulated title chance",
+                })
+
+    if not (dominant or spoon_rows or dodger_rows or lucky_rows or unlucky_rows or scaries_rows
+            or streak_rows or champ_luck_rows):
         return {}
 
     return {
@@ -416,6 +451,7 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
         "unlucky_losses":   sorted(unlucky_rows, key=lambda r: -r["value"])[:top_n],
         "sunday_scaries":   sorted(scaries_rows, key=lambda r: -r["value"])[:top_n],
         "win_streak":       sorted(streak_rows, key=lambda r: -r["value"])[:top_n],
+        "luckiest_champ":   sorted(champ_luck_rows, key=lambda r: r["value"])[:top_n],
     }
 
 
