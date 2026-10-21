@@ -594,6 +594,9 @@ def build_h2h_droughts(years: list[int], top_n: int = 5) -> list[dict]:
     an active (still-unbroken, counting back from their most recent game)
     run counts. Returns the top_n longest, worst-first; "all_time": True
     flags a pair coach has never once beaten across every recorded meeting.
+    "last_beat" gives the specific round of coach's most recent win over
+    opponent (e.g. "last beat Mark 2024 Rd 18"), or "never beaten" when
+    all_time is True.
     """
     from website.config import COACH_ORDER
     from website.data.loader import load_fixtures
@@ -601,13 +604,16 @@ def build_h2h_droughts(years: list[int], top_n: int = 5) -> list[dict]:
 
     # One chronological game log per UNORDERED pair, built in a single pass
     # over the data (one row per actual game — winner or None for a draw).
+    # "stage" distinguishes a Regular Season round (shown as "Rd N") from a
+    # Finals game (shown as "Finals", no round number — matches the existing
+    # Head-to-Head drill-down page's own convention).
     games_by_pair: dict[frozenset, list[tuple]] = {}
 
-    def _add(year, rnd, a, pts_a, b, pts_b):
+    def _add(year, rnd, a, pts_a, b, pts_b, stage):
         if a not in COACH_ORDER or b not in COACH_ORDER or a == b:
             return
         winner = a if pts_a > pts_b else (b if pts_b > pts_a else None)
-        games_by_pair.setdefault(frozenset((a, b)), []).append((year, rnd, winner))
+        games_by_pair.setdefault(frozenset((a, b)), []).append((year, rnd, winner, stage))
 
     for year in years:
         fx = load_fixtures(year)
@@ -619,9 +625,9 @@ def build_h2h_droughts(years: list[int], top_n: int = 5) -> list[dict]:
                 if key in seen:
                     continue
                 seen.add(key)
-                _add(year, int(r["round_number"]), a, r["team_points"], b, r["opposition_team_points"])
+                _add(year, int(r["round_number"]), a, r["team_points"], b, r["opposition_team_points"], "Regular Season")
         for f in load_finals_fixtures(year):
-            _add(year, f["round"], f["coach1"], f["score1"], f["coach2"], f["score2"])
+            _add(year, f["round"], f["coach1"], f["score1"], f["coach2"], f["score2"], "Finals")
 
     droughts = []
     for pair, glist in games_by_pair.items():
@@ -629,21 +635,25 @@ def build_h2h_droughts(years: list[int], top_n: int = 5) -> list[dict]:
         a, b = tuple(pair)
         for coach, opp in ((a, b), (b, a)):
             streak = 0
-            since_year = None
-            for year, rnd, winner in reversed(glist):
+            last_win_year = last_win_round = last_win_stage = None
+            for year, rnd, winner, stage in reversed(glist):
                 if winner == coach:
+                    last_win_year, last_win_round, last_win_stage = year, rnd, stage
                     break
                 streak += 1
-                since_year = year
             if streak == 0:
                 continue
             all_time = streak == len(glist)
             label = f"hasn't beaten {opp} in {streak} meeting{'s' if streak != 1 else ''}"
             if all_time:
-                label += " (ever)"
+                last_beat_label = "never beaten"
+            elif last_win_stage == "Finals":
+                last_beat_label = f"last beat {opp} {last_win_year} Finals"
+            else:
+                last_beat_label = f"last beat {opp} {last_win_year} Rd {last_win_round}"
             droughts.append({
                 "coach": coach, "opponent": opp, "value": streak,
-                "all_time": all_time, "year": since_year, "label": label,
+                "all_time": all_time, "last_beat": last_beat_label, "label": label,
             })
 
     droughts.sort(key=lambda r: -r["value"])
