@@ -582,6 +582,74 @@ def build_h2h_games(years: list[int], coach_a: str, coach_b: str) -> list[dict]:
     return games
 
 
+def build_h2h_droughts(years: list[int], top_n: int = 5) -> list[dict]:
+    """
+    Displayed on records.html as "Biggest Hoodoos" — AFL commentary's own
+    term for a specific opponent a coach just can't beat regardless of form.
+    Current, ongoing head-to-head droughts: for every ordered coach pair
+    (coach, opponent), how many of their most recent consecutive meetings
+    coach has gone without beating opponent — a draw keeps the drought
+    alive, same as a loss, since this is specifically "hasn't beaten", not
+    "has lost every time". The streak resets the moment coach wins, so only
+    an active (still-unbroken, counting back from their most recent game)
+    run counts. Returns the top_n longest, worst-first; "all_time": True
+    flags a pair coach has never once beaten across every recorded meeting.
+    """
+    from website.config import COACH_ORDER
+    from website.data.loader import load_fixtures
+    from website.data.finals import load_finals_fixtures
+
+    # One chronological game log per UNORDERED pair, built in a single pass
+    # over the data (one row per actual game — winner or None for a draw).
+    games_by_pair: dict[frozenset, list[tuple]] = {}
+
+    def _add(year, rnd, a, pts_a, b, pts_b):
+        if a not in COACH_ORDER or b not in COACH_ORDER or a == b:
+            return
+        winner = a if pts_a > pts_b else (b if pts_b > pts_a else None)
+        games_by_pair.setdefault(frozenset((a, b)), []).append((year, rnd, winner))
+
+    for year in years:
+        fx = load_fixtures(year)
+        if not fx.empty:
+            seen = set()
+            for _, r in fx.iterrows():
+                a, b = str(r["coach_first_name"]), str(r.get("opposition_team_coach"))
+                key = (year, int(r["round_number"]), tuple(sorted([a, b])))
+                if key in seen:
+                    continue
+                seen.add(key)
+                _add(year, int(r["round_number"]), a, r["team_points"], b, r["opposition_team_points"])
+        for f in load_finals_fixtures(year):
+            _add(year, f["round"], f["coach1"], f["score1"], f["coach2"], f["score2"])
+
+    droughts = []
+    for pair, glist in games_by_pair.items():
+        glist.sort(key=lambda g: (g[0], g[1]))
+        a, b = tuple(pair)
+        for coach, opp in ((a, b), (b, a)):
+            streak = 0
+            since_year = None
+            for year, rnd, winner in reversed(glist):
+                if winner == coach:
+                    break
+                streak += 1
+                since_year = year
+            if streak == 0:
+                continue
+            all_time = streak == len(glist)
+            label = f"hasn't beaten {opp} in {streak} meeting{'s' if streak != 1 else ''}"
+            if all_time:
+                label += " (ever)"
+            droughts.append({
+                "coach": coach, "opponent": opp, "value": streak,
+                "all_time": all_time, "year": since_year, "label": label,
+            })
+
+    droughts.sort(key=lambda r: -r["value"])
+    return droughts[:top_n]
+
+
 def build_favourite_players(years: list[int], top_n: int = 3) -> list[dict]:
     """
     Each coach's most-rostered players across every completed season (any
