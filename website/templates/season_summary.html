@@ -47,11 +47,15 @@
       </a>
       <div class="fw-bold fs-3 mt-2">{{ finals_bracket.premier }}</div>
       <div class="text-warning-emphasis fw-semibold text-uppercase" style="font-size:0.75rem; letter-spacing:.05em;">{{ season_year }} Premier</div>
+      {% set gf_won_by_1 = finals_bracket.gf.winner == finals_bracket.gf.coach1 %}
+      {% set gf_loser = finals_bracket.gf.coach2 if gf_won_by_1 else finals_bracket.gf.coach1 %}
+      {% set gf_winner_score = finals_bracket.gf.score1 if gf_won_by_1 else finals_bracket.gf.score2 %}
+      {% set gf_loser_score = finals_bracket.gf.score2 if gf_won_by_1 else finals_bracket.gf.score1 %}
       <div class="mt-3 pt-3 border-top">
         <div class="d-flex justify-content-center align-items-center gap-2">
-          <span class="{% if finals_bracket.gf.winner == finals_bracket.gf.coach1 %}fw-bold text-success{% else %}text-muted{% endif %}">{{ finals_bracket.gf.coach1 }} {{ finals_bracket.gf.score1 }}</span>
+          <span class="fw-bold text-success">{{ finals_bracket.gf.winner }} {{ gf_winner_score }}</span>
           <span class="text-muted small">def.</span>
-          <span class="{% if finals_bracket.gf.winner == finals_bracket.gf.coach2 %}fw-bold text-success{% else %}text-muted{% endif %}">{{ finals_bracket.gf.coach2 }} {{ finals_bracket.gf.score2 }}</span>
+          <span class="text-muted">{{ gf_loser }} {{ gf_loser_score }}</span>
         </div>
         <div class="text-muted small mt-1">Grand Final</div>
       </div>
