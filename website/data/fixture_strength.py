@@ -584,15 +584,21 @@ def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_we
     For each of the 4 real finalists, their average baseline title-winning
     probability across n_trials alternate regular-season schedules — not by
     replaying any finals games (there's no real score for a final a team
-    never actually played under an alternate seeding), but by using the
-    fixed, closed-form probability that follows purely from which bracket
-    slot a finalist's simulated relative ranking AMONG THE OTHER 3 REAL
-    FINALISTS would put them in that trial, assuming every finals game is a
-    fair 50/50 contest (see _FINALS_WIN_PROB):
+    never actually played under an alternate seeding), but by combining two
+    things per trial:
 
-        2-week (straight knockout): every finalist needs 2 straight wins
-            regardless of seed -> flat 25% each (seed-independent; included
-            for completeness, not because trials vary it).
+        1. Whether a finalist's simulated ladder position under that trial's
+           randomised schedule would even have put them in the top 4 at all
+           (qualification luck — the same thing build_monte_carlo_schedule_
+           sim's top4_pct measures, just checked per-trial here instead of
+           aggregated).
+        2. IF they qualify that trial, the fixed closed-form probability
+           that follows purely from their seed (1st-4th) among that trial's
+           4 simulated qualifiers, assuming every finals game is a fair
+           50/50 contest (see _FINALS_WIN_PROB):
+
+        2-week (straight knockout): every seed needs 2 straight wins
+            regardless of seed -> flat 25% each.
         3-week McIntyre (QF=1v2 with a bye to the GF on a QF win, EF=3v4,
             PF, GF): seed 1/2's double chance gives them
                 win QF * win GF + lose QF * win PF * win GF
@@ -601,6 +607,11 @@ def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_we
                 win EF * win PF * win GF = .5*.5*.5 = .125 each.
             (2*.375 + 2*.125 = 1.0, confirms the split is exhaustive.)
 
+    A finalist who misses the simulated top 4 in a trial contributes 0 for
+    that trial — this is what lets the metric tell a finalist who squeaked
+    into a weak bracket apart from one who'd have topped the ladder under
+    almost any schedule, even in a 2-week (seed-flat) format.
+
     This is a SEPARATE trial loop from build_monte_carlo_schedule_sim() (not
     a modification of it, so the existing Season Summary stat is untouched)
     but reuses the same trial-generation mechanism (_generate_round_robin_
@@ -608,9 +619,9 @@ def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_we
     real ladder itself uses, to stay internally consistent with both.
 
     Returns {} if finals_weeks isn't a known format or finalists isn't
-    exactly 4 coaches. Otherwise {coach: avg_baseline_probability} for just
-    the given finalists (not every coach — the other 4 never made finals in
-    reality, so there's no bracket slot to assign them in any trial).
+    exactly 4 coaches. Otherwise {coach: avg_title_probability} for just the
+    given finalists (not every coach — the other coaches never made finals
+    in reality, so there's no real bracket outcome to score them against).
     """
     win_prob = _FINALS_WIN_PROB.get(finals_weeks)
     if not win_prob or len(finalists) != 4:
@@ -620,6 +631,7 @@ def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_we
     if coaches is None or not set(finalists) <= set(coaches):
         return {}
 
+    finalist_set = set(finalists)
     rng = random.Random(seed)
     totals = {c: 0.0 for c in finalists}
 
@@ -648,14 +660,16 @@ def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_we
                     draws[b] += 1
 
         league_points = {c: wins[c] * 4 + draws[c] * 2 for c in coaches}
-        finalist_order = sorted(
-            finalists,
+        ranked = sorted(
+            coaches,
             key=lambda c: _actual_rank_key(
                 {"league_points": league_points[c], "pts_for": pts_for[c], "pts_against": pts_against[c]},
                 year,
             ),
         )
-        for i, c in enumerate(finalist_order):
-            totals[c] += win_prob[i + 1]
+        qualifiers = ranked[:4]
+        for i, c in enumerate(qualifiers):
+            if c in finalist_set:
+                totals[c] += win_prob[i + 1]
 
     return {c: round(totals[c] / n_trials, 4) for c in finalists}

@@ -420,13 +420,7 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
         finalists = result.get("finals") if result else None
         champion = result.get("champion") if result else None
         finals_weeks = season_meta(year)["finals_weeks"]
-        # A 2-week (straight knockout) format gives every finalist the same
-        # flat 25% regardless of seed - there's no seed-dependent branching
-        # in that bracket shape, so the simulation can't tell any of them
-        # apart (every trial contributes exactly 0.25, zero variance). Only
-        # a 3-week McIntyre format's double-chance asymmetry gives this
-        # metric anything real to measure.
-        if finalists and champion and len(finalists) == 4 and finals_weeks != 2:
+        if finalists and champion and len(finalists) == 4:
             try:
                 finals_luck = build_finals_luck(reg, finalists, finals_weeks, year=year)
             except Exception:
