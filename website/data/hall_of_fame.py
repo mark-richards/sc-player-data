@@ -334,24 +334,30 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
     win_streak: longest single-season run of consecutive wins (see awards.py's
       _best_run / win_streaks, which use the same underlying streak count).
 
-    luckiest_champ: the champion with the lowest average baseline title-
-      winning probability across the same Monte Carlo trials, using only
-      which bracket slot (QF/EF-equivalent) their simulated ranking AMONG
-      THE OTHER 3 REAL FINALISTS would put them in each trial — a
-      closed-form probability from the bracket format alone (37.5%/12.5%
-      split for a 3-week McIntyre finals, flat 25% for a 2-week knockout),
-      not a replay of any games. See fixture_strength.build_finals_luck().
+    luckiest_champ: the champion with the lowest average simulated title-
+      winning probability — per Monte Carlo trial, whether they'd even
+      simulate into the top-4 bracket at all, and if so, the closed-form
+      win probability for their seed (37.5%/12.5% split for a 3-week
+      McIntyre finals, flat 25% for a 2-week knockout). Not a replay of any
+      games. See fixture_strength.build_title_chances().
+
+    snub: the non-champion with the highest average simulated title-winning
+      probability that season (same build_title_chances() numbers, scored
+      for every coach, not just the real finalists) — the coach who
+      "deserved" the title more than whoever actually won it, by this
+      measure. Only included when that coach's probability exceeds the
+      champion's.
     """
     from website.config import season_meta, FINALS_TOP_N
     from website.data.loader import load_fixtures
     from website.data.fixture_strength import (
-        build_fixture_strength, build_monte_carlo_schedule_sim, build_finals_luck,
+        build_fixture_strength, build_monte_carlo_schedule_sim, build_title_chances,
     )
     from website.data.awards import close_call_counts, win_streaks, UNLUCKY_LUCK_THRESHOLD
     from website.data.honour_board import get_season_result
 
-    dominant, spoon_rows, dodger_rows, lucky_rows, unlucky_rows, scaries_rows, streak_rows, champ_luck_rows = \
-        [], [], [], [], [], [], [], []
+    (dominant, spoon_rows, dodger_rows, lucky_rows, unlucky_rows, scaries_rows, streak_rows,
+     champ_luck_rows, snub_rows) = [], [], [], [], [], [], [], [], []
 
     for year in years:
         fixtures = load_fixtures(year)
@@ -422,19 +428,28 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
         finals_weeks = season_meta(year)["finals_weeks"]
         if finalists and champion and len(finalists) == 4:
             try:
-                finals_luck = build_finals_luck(reg, finalists, finals_weeks, year=year)
+                title_chances = build_title_chances(reg, finals_weeks, year=year)
             except Exception:
-                log.warning("build_finals_luck failed for %s notable records", year, exc_info=True)
-                finals_luck = {}
-            champ_prob = finals_luck.get(champion)
+                log.warning("build_title_chances failed for %s notable records", year, exc_info=True)
+                title_chances = {}
+            champ_prob = title_chances.get(champion)
             if champ_prob is not None:
                 champ_luck_rows.append({
                     "coach": champion, "year": year, "value": champ_prob,
                     "label": f"won it with just a {champ_prob * 100:.0f}% average simulated title chance",
                 })
+            others = {c: v for c, v in title_chances.items() if c != champion}
+            if others and champ_prob is not None:
+                snub_coach, snub_prob = max(others.items(), key=lambda kv: kv[1])
+                if snub_prob > champ_prob:
+                    snub_rows.append({
+                        "coach": snub_coach, "year": year, "value": snub_prob,
+                        "label": f"had a {snub_prob * 100:.0f}% average simulated title chance "
+                                 f"(vs {champion}'s {champ_prob * 100:.0f}%) but missed out",
+                    })
 
     if not (dominant or spoon_rows or dodger_rows or lucky_rows or unlucky_rows or scaries_rows
-            or streak_rows or champ_luck_rows):
+            or streak_rows or champ_luck_rows or snub_rows):
         return {}
 
     return {
@@ -446,6 +461,7 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
         "sunday_scaries":   sorted(scaries_rows, key=lambda r: -r["value"])[:top_n],
         "win_streak":       sorted(streak_rows, key=lambda r: -r["value"])[:top_n],
         "luckiest_champ":   sorted(champ_luck_rows, key=lambda r: r["value"])[:top_n],
+        "snub":             sorted(snub_rows, key=lambda r: -r["value"])[:top_n],
     }
 
 

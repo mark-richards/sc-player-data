@@ -578,16 +578,18 @@ _FINALS_WIN_PROB = {
 }
 
 
-def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_weeks: int,
-                       n_trials: int = 20000, seed: int = 42, year: "int | None" = None) -> dict[str, float]:
+def build_title_chances(fixtures_df: pd.DataFrame, finals_weeks: int,
+                         n_trials: int = 20000, seed: int = 42,
+                         year: "int | None" = None) -> dict[str, float]:
     """
-    For each of the 4 real finalists, their average baseline title-winning
-    probability across n_trials alternate regular-season schedules — not by
-    replaying any finals games (there's no real score for a final a team
-    never actually played under an alternate seeding), but by combining two
-    things per trial:
+    Every coach's average baseline title-winning probability across
+    n_trials alternate regular-season schedules — not by replaying any
+    finals games (there's no real score for a final a team never actually
+    played under an alternate seeding), but by combining two things per
+    trial, for every coach in the league that season (not just the 4 real
+    finalists):
 
-        1. Whether a finalist's simulated ladder position under that trial's
+        1. Whether a coach's simulated ladder position under that trial's
            randomised schedule would even have put them in the top 4 at all
            (qualification luck — the same thing build_monte_carlo_schedule_
            sim's top4_pct measures, just checked per-trial here instead of
@@ -607,10 +609,13 @@ def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_we
                 win EF * win PF * win GF = .5*.5*.5 = .125 each.
             (2*.375 + 2*.125 = 1.0, confirms the split is exhaustive.)
 
-    A finalist who misses the simulated top 4 in a trial contributes 0 for
-    that trial — this is what lets the metric tell a finalist who squeaked
+    A coach who misses the simulated top 4 in a trial contributes 0 for
+    that trial — this is what lets the metric tell a coach who squeaked
     into a weak bracket apart from one who'd have topped the ladder under
-    almost any schedule, even in a 2-week (seed-flat) format.
+    almost any schedule, even in a 2-week (seed-flat) format, and also lets
+    it score a coach who never made the REAL finals at all (useful for
+    finding the "biggest snub" — the highest simulated title chance among
+    coaches who didn't win it).
 
     This is a SEPARATE trial loop from build_monte_carlo_schedule_sim() (not
     a modification of it, so the existing Season Summary stat is untouched)
@@ -618,22 +623,19 @@ def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_we
     cycle) and the same era-aware ladder tiebreak (_actual_rank_key) the
     real ladder itself uses, to stay internally consistent with both.
 
-    Returns {} if finals_weeks isn't a known format or finalists isn't
-    exactly 4 coaches. Otherwise {coach: avg_title_probability} for just the
-    given finalists (not every coach — the other coaches never made finals
-    in reality, so there's no real bracket outcome to score them against).
+    Returns {} if finals_weeks isn't a known format. Otherwise
+    {coach: avg_title_probability} for every coach in the league that year.
     """
     win_prob = _FINALS_WIN_PROB.get(finals_weeks)
-    if not win_prob or len(finalists) != 4:
+    if not win_prob:
         return {}
 
     coaches, rounds, _round_data, round_scores, _all_records = _build_all_records(fixtures_df)
-    if coaches is None or not set(finalists) <= set(coaches):
+    if coaches is None:
         return {}
 
-    finalist_set = set(finalists)
     rng = random.Random(seed)
-    totals = {c: 0.0 for c in finalists}
+    totals = {c: 0.0 for c in coaches}
 
     for _ in range(n_trials):
         wins        = {c: 0 for c in coaches}
@@ -669,7 +671,21 @@ def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_we
         )
         qualifiers = ranked[:4]
         for i, c in enumerate(qualifiers):
-            if c in finalist_set:
-                totals[c] += win_prob[i + 1]
+            totals[c] += win_prob[i + 1]
 
-    return {c: round(totals[c] / n_trials, 4) for c in finalists}
+    return {c: round(totals[c] / n_trials, 4) for c in coaches}
+
+
+def build_finals_luck(fixtures_df: pd.DataFrame, finalists: list[str], finals_weeks: int,
+                       n_trials: int = 20000, seed: int = 42, year: "int | None" = None) -> dict[str, float]:
+    """
+    Thin wrapper over build_title_chances() for just the 4 real finalists.
+    Returns {} if finals_weeks isn't a known format or finalists isn't
+    exactly 4 coaches.
+    """
+    if len(finalists) != 4:
+        return {}
+    all_chances = build_title_chances(fixtures_df, finals_weeks, n_trials=n_trials, seed=seed, year=year)
+    if not all_chances or not set(finalists) <= set(all_chances):
+        return {}
+    return {c: all_chances[c] for c in finalists}
