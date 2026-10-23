@@ -98,22 +98,27 @@
           <tr>
             <th>#</th>
             <th>Coach</th>
-            <th class="text-end">PTS</th>
             <th class="text-end">W-D-L</th>
             <th class="text-end">Points For</th>
+            <th class="text-center">Rank</th>
             <th class="text-end">Points Against</th>
+            <th class="text-center">Rank</th>
             <th class="text-end">Win %</th>
           </tr>
         </thead>
         <tbody>
+          {% macro rank_badge(rank, style) %}
+          <span class="d-inline-flex align-items-center justify-content-center rounded-circle fw-bold" style="width:1.5rem; height:1.5rem; font-size:0.68rem; {{ style }}">{{ rank }}</span>
+          {% endmacro %}
           {% for r in all_time_ladder %}
           <tr>
             <td class="text-muted">{{ r.rank }}</td>
             <td><a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a></td>
-            <td class="text-end fw-bold">{{ r.league_points }}</td>
             <td class="text-end text-muted">{{ r.wdl }}</td>
-            <td class="text-end {{ r.pf_class }}">{{ "{:,}".format(r.points_for) }}</td>
-            <td class="text-end {{ r.pa_class }}">{{ "{:,}".format(r.points_against) }}</td>
+            <td class="text-end">{{ "{:,}".format(r.points_for) }}</td>
+            <td class="text-center">{{ rank_badge(r.pf_rank, r.pf_rank_style) }}</td>
+            <td class="text-end">{{ "{:,}".format(r.points_against) }}</td>
+            <td class="text-center">{{ rank_badge(r.pa_rank, r.pa_rank_style) }}</td>
             <td class="text-end {{ r.win_class }}">{{ r.win_pct }}%</td>
           </tr>
           {% endfor %}
@@ -121,7 +126,7 @@
       </table>
     </div>
   </div>
-  <div class="card-footer text-muted small">Regular season only, 2016&ndash;present. Ranked by league points (4/win, 2/draw), then total points scored. Bold green/red marks the best/worst coach in each column.</div>
+  <div class="card-footer text-muted small">Regular season only, 2016&ndash;present. Ranked by league points (4/win, 2/draw), then total points scored. Circles rank each coach 1-8 on that stat (green = best, red = worst); fewest points conceded ranks #1 on defence.</div>
 </div>
 {% endif %}
 

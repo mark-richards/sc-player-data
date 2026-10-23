@@ -201,15 +201,19 @@ def build_all_time_ladder(years: list[int]) -> list[dict]:
     different lengths (e.g. 2020's 16-round COVID season) would be misleading.
     Finals excluded (round_number <= season_meta(year)["total_regular_rounds"]).
 
-    Each row also carries a Bootstrap text class (`pf_class` etc.) for its
-    Points For / Points Against / Win% cells, applied only to the single best
-    and worst coach in that column (green/bold for best, red/bold for worst,
-    blank otherwise) - "best" means lowest for Points Against (fewest points
-    conceded), highest for the other two. Calls out the standout "stories" in
-    this table (e.g. Mark's leaky defence, Luke's scoring) directly on the
-    number itself, rather than a separate icon or a hard-to-read gradient
-    across every row.
+    Each row also carries a 1..N ordinal rank + inline badge color for Points
+    For (`pf_rank`/`pf_rank_style`) and Points Against (`pa_rank`/
+    `pa_rank_style`) - rank 1 is always "best" for that stat (highest PF,
+    lowest PA - fewest points conceded), colored on a green-to-red gradient
+    by rank position. Ranking by ordinal position rather than the raw value
+    guarantees the color always spans the full range even when the underlying
+    totals are closely clustered (unlike a gradient keyed on the raw value,
+    which goes flat when every coach's total is within a few % of each
+    other). Win% keeps a simpler best/worst bold-text treatment
+    (`win_class`) since it has no separate rank column.
     """
+    import colorsys
+
     from website.config import season_meta
     from website.data.loader import load_fixtures
 
@@ -249,24 +253,32 @@ def build_all_time_ladder(years: list[int]) -> list[dict]:
         r["rank"] = i
 
     if rows:
-        best_pf   = max(rows, key=lambda r: r["points_for"])["coach"]
-        worst_pf  = min(rows, key=lambda r: r["points_for"])["coach"]
-        best_pa   = min(rows, key=lambda r: r["points_against"])["coach"]  # fewest conceded = best defence
-        worst_pa  = max(rows, key=lambda r: r["points_against"])["coach"]
         best_win  = max(rows, key=lambda r: r["win_pct"])["coach"]
         worst_win = min(rows, key=lambda r: r["win_pct"])["coach"]
-
-        def _cls(coach, best, worst):
-            if coach == best:
-                return "text-success fw-bold"
-            if coach == worst:
-                return "text-danger fw-bold"
-            return ""
-
         for r in rows:
-            r["pf_class"]  = _cls(r["coach"], best_pf, worst_pf)
-            r["pa_class"]  = _cls(r["coach"], best_pa, worst_pa)
-            r["win_class"] = _cls(r["coach"], best_win, worst_win)
+            if r["coach"] == best_win:
+                r["win_class"] = "text-success fw-bold"
+            elif r["coach"] == worst_win:
+                r["win_class"] = "text-danger fw-bold"
+            else:
+                r["win_class"] = ""
+
+        def _rank_style(rank: int, n: int) -> str:
+            norm = (rank - 1) / (n - 1) if n > 1 else 0.0
+            hue = (1 - norm) * (140 / 360)  # green (140deg) -> red (0deg)
+            red, green, blue = colorsys.hls_to_rgb(hue, 0.45, 0.65)
+            return (f"background-color: rgb({round(red * 255)},{round(green * 255)},{round(blue * 255)}); "
+                    "color: #fff;")
+
+        n = len(rows)
+        by_pf = sorted(rows, key=lambda r: -r["points_for"])
+        by_pa = sorted(rows, key=lambda r: r["points_against"])  # fewest conceded = rank 1
+        for i, r in enumerate(by_pf, start=1):
+            r["pf_rank"] = i
+            r["pf_rank_style"] = _rank_style(i, n)
+        for i, r in enumerate(by_pa, start=1):
+            r["pa_rank"] = i
+            r["pa_rank_style"] = _rank_style(i, n)
 
     return rows
 
