@@ -8,7 +8,7 @@ from website.data.honour_board import build_honour_board
 from website.data.hall_of_fame import (
     completed_years, build_trophy_cabinet, build_notable_records, build_notable_season_records,
     build_championship_drought, build_bridesmaid_tally, build_head_to_head, build_h2h_droughts,
-    build_favourite_players,
+    build_favourite_players, build_all_time_ladder,
 )
 
 bp = Blueprint("records", __name__)
@@ -20,6 +20,7 @@ def records():
     all_time_df, season_list = build_honour_board(master)
 
     years = completed_years()
+    all_time_ladder = build_all_time_ladder(years)
     trophy_cabinet = build_trophy_cabinet(years)
     notable_records = build_notable_records(years)
     notable_season_records = build_notable_season_records(years)
@@ -33,6 +34,7 @@ def records():
         "records.html",
         all_time=all_time_df.to_dict(orient="records"),
         seasons=season_list,
+        all_time_ladder=all_time_ladder,
         trophy_cabinet=trophy_cabinet,
         notable_records=notable_records,
         notable_season_records=notable_season_records,

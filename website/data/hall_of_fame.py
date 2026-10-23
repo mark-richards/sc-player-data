@@ -188,6 +188,58 @@ def build_trophy_cabinet(years: list[int]) -> dict:
     return {"by_coach": by_coach, "by_award": by_award, "coaches": COACH_ORDER}
 
 
+@_memoize
+def build_all_time_ladder(years: list[int]) -> list[dict]:
+    """
+    All-time regular-season ladder: every coach's combined wins/draws/losses and
+    points for/against across every completed (or in-progress) season's regular
+    season games, ranked the same way as the current per-season ladder — league
+    points first (4/win, 2/draw), total points_for as the tiebreak. Unlike the
+    per-season ladder (standings.compute_standings), the tiebreak here is always
+    raw total points_for, never percentage — percentage only makes sense within
+    a single season of fixed length; summing/ratio-ing across seasons of
+    different lengths (e.g. 2020's 16-round COVID season) would be misleading.
+    Finals excluded (round_number <= season_meta(year)["total_regular_rounds"]).
+    """
+    from website.config import season_meta
+    from website.data.loader import load_fixtures
+
+    totals: dict[str, dict] = {}
+    for year in years:
+        fixtures = load_fixtures(year)
+        if fixtures.empty:
+            continue
+        reg = fixtures[fixtures["round_number"] <= season_meta(year)["total_regular_rounds"]]
+        for coach, grp in reg.groupby("coach_first_name"):
+            t = totals.setdefault(coach, {
+                "wins": 0, "draws": 0, "losses": 0,
+                "points_for": 0.0, "points_against": 0.0, "games": 0,
+            })
+            wins = int(grp["win"].sum())
+            draws = int(grp["draw"].sum())
+            t["wins"]   += wins
+            t["draws"]  += draws
+            t["losses"] += len(grp) - wins - draws
+            t["points_for"]     += float(grp["team_points"].sum())
+            t["points_against"] += float(grp["opposition_team_points"].sum())
+            t["games"]  += len(grp)
+
+    rows = []
+    for coach, t in totals.items():
+        rows.append({
+            "coach": coach,
+            "league_points": t["wins"] * 4 + t["draws"] * 2,
+            "wdl": f"{t['wins']}-{t['draws']}-{t['losses']}",
+            "points_for": round(t["points_for"], 1),
+            "points_against": round(t["points_against"], 1),
+            "games": t["games"],
+        })
+    rows.sort(key=lambda r: (-r["league_points"], -r["points_for"]))
+    for i, r in enumerate(rows, start=1):
+        r["rank"] = i
+    return rows
+
+
 def build_notable_records(years: list[int], top_n: int = 5) -> dict:
     """
     All-time top-`top_n` leaderboards from regular-season fixtures (same
