@@ -115,9 +115,9 @@
             <td class="text-muted">{{ r.rank }}</td>
             <td><a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a></td>
             <td class="text-end text-muted">{{ r.wdl }}</td>
-            <td class="text-end">{{ "{:,}".format(r.points_for) }}</td>
+            <td class="text-end {{ r.pf_class }}">{{ "{:,}".format(r.points_for) }}</td>
             <td class="text-center">{{ rank_badge(r.pf_rank, r.pf_rank_style) }}</td>
-            <td class="text-end">{{ "{:,}".format(r.points_against) }}</td>
+            <td class="text-end {{ r.pa_class }}">{{ "{:,}".format(r.points_against) }}</td>
             <td class="text-center">{{ rank_badge(r.pa_rank, r.pa_rank_style) }}</td>
             <td class="text-end {{ r.win_class }}">{{ r.win_pct }}%</td>
           </tr>
@@ -126,7 +126,7 @@
       </table>
     </div>
   </div>
-  <div class="card-footer text-muted small">Regular season only, 2016&ndash;present. Ranked by league points (4/win, 2/draw), then total points scored. Circles rank each coach 1-8 on that stat (green = best, red = worst); fewest points conceded ranks #1 on defence.</div>
+  <div class="card-footer text-muted small">Regular season only, 2016&ndash;present. Ranked by league points (4/win, 2/draw), then total points scored. Circles rank each coach 1-8 on that stat (green = best, red = worst; fewest points conceded ranks #1 on defence); bold green/red marks the all-time best/worst.</div>
 </div>
 {% endif %}
 

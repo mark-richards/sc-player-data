@@ -209,8 +209,10 @@ def build_all_time_ladder(years: list[int]) -> list[dict]:
     guarantees the color always spans the full range even when the underlying
     totals are closely clustered (unlike a gradient keyed on the raw value,
     which goes flat when every coach's total is within a few % of each
-    other). Win% keeps a simpler best/worst bold-text treatment
-    (`win_class`) since it has no separate rank column.
+    other). On top of that, the single best/worst coach in each of Points
+    For / Points Against / Win% also gets their number bolded and colored
+    (`pf_class`/`pa_class`/`win_class`) - the rank badge shows where
+    everyone stands, the bold text calls out the extreme values themselves.
     """
     import colorsys
 
@@ -253,15 +255,23 @@ def build_all_time_ladder(years: list[int]) -> list[dict]:
         r["rank"] = i
 
     if rows:
+        def _extreme_cls(coach, best, worst):
+            if coach == best:
+                return "text-success fw-bold"
+            if coach == worst:
+                return "text-danger fw-bold"
+            return ""
+
+        best_pf   = max(rows, key=lambda r: r["points_for"])["coach"]
+        worst_pf  = min(rows, key=lambda r: r["points_for"])["coach"]
+        best_pa   = min(rows, key=lambda r: r["points_against"])["coach"]  # fewest conceded = best defence
+        worst_pa  = max(rows, key=lambda r: r["points_against"])["coach"]
         best_win  = max(rows, key=lambda r: r["win_pct"])["coach"]
         worst_win = min(rows, key=lambda r: r["win_pct"])["coach"]
         for r in rows:
-            if r["coach"] == best_win:
-                r["win_class"] = "text-success fw-bold"
-            elif r["coach"] == worst_win:
-                r["win_class"] = "text-danger fw-bold"
-            else:
-                r["win_class"] = ""
+            r["pf_class"]  = _extreme_cls(r["coach"], best_pf, worst_pf)
+            r["pa_class"]  = _extreme_cls(r["coach"], best_pa, worst_pa)
+            r["win_class"] = _extreme_cls(r["coach"], best_win, worst_win)
 
         def _rank_style(rank: int, n: int) -> str:
             norm = (rank - 1) / (n - 1) if n > 1 else 0.0
