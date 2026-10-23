@@ -109,24 +109,19 @@
           {% for r in all_time_ladder %}
           <tr>
             <td class="text-muted">{{ r.rank }}</td>
-            <td>
-              <a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a>
-              {% for b in r.badges %}
-              <span class="badge rounded-pill bg-light text-dark border ms-1" style="font-size:0.62rem;" title="{{ b.label }}">{{ b.icon }}</span>
-              {% endfor %}
-            </td>
+            <td><a href="/coach/{{ r.coach }}" class="text-decoration-none fw-semibold">{{ r.coach }}</a></td>
             <td class="text-end fw-bold">{{ r.league_points }}</td>
             <td class="text-end text-muted">{{ r.wdl }}</td>
-            <td class="text-end" style="{{ r.pf_style }}">{{ r.points_for }}</td>
-            <td class="text-end" style="{{ r.pa_style }}">{{ r.points_against }}</td>
-            <td class="text-end" style="{{ r.win_style }}">{{ r.win_pct }}%</td>
+            <td class="text-end {{ r.pf_class }}">{{ "{:,}".format(r.points_for) }}</td>
+            <td class="text-end {{ r.pa_class }}">{{ "{:,}".format(r.points_against) }}</td>
+            <td class="text-end {{ r.win_class }}">{{ r.win_pct }}%</td>
           </tr>
           {% endfor %}
         </tbody>
       </table>
     </div>
   </div>
-  <div class="card-footer text-muted small">Regular season only, 2016&ndash;present. Ranked by league points (4/win, 2/draw), then total points scored. Shading highlights each column's extremes; badges mark the all-time leader for that stat.</div>
+  <div class="card-footer text-muted small">Regular season only, 2016&ndash;present. Ranked by league points (4/win, 2/draw), then total points scored. Bold green/red marks the best/worst coach in each column.</div>
 </div>
 {% endif %}
 

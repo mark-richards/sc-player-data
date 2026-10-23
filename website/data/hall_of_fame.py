@@ -188,15 +188,6 @@ def build_trophy_cabinet(years: list[int]) -> dict:
     return {"by_coach": by_coach, "by_award": by_award, "coaches": COACH_ORDER}
 
 
-def _heat_style(value: float, lo: float, hi: float, rgb: str) -> str:
-    """Inline heatmap background: faint at the column's lowest value, strongest
-    at its highest - rgb stays fixed (e.g. Bootstrap success/danger), only the
-    alpha channel varies, so every column gets its own independent gradient."""
-    norm = (value - lo) / (hi - lo) if hi > lo else 0.5
-    alpha = 0.06 + norm * 0.30
-    return f"background-color: rgba({rgb}, {alpha:.2f})"
-
-
 @_memoize
 def build_all_time_ladder(years: list[int]) -> list[dict]:
     """
@@ -210,13 +201,14 @@ def build_all_time_ladder(years: list[int]) -> list[dict]:
     different lengths (e.g. 2020's 16-round COVID season) would be misleading.
     Finals excluded (round_number <= season_meta(year)["total_regular_rounds"]).
 
-    Each row also carries ready-to-use inline heatmap styles for its Points
-    For / Points Against / Win% cells (`pf_style` etc. - green for PF/Win%
-    since higher is better, red for PA since higher is worse), and a list of
-    `badges` ({"icon", "label"}) marking whichever coach leads each of those
-    three stats (plus whoever trails Win%) - the standout "stories" in this
-    table (e.g. Mark's leaky defence, Luke's scoring) called out directly
-    rather than left for someone to spot by eye.
+    Each row also carries a Bootstrap text class (`pf_class` etc.) for its
+    Points For / Points Against / Win% cells, applied only to the single best
+    and worst coach in that column (green/bold for best, red/bold for worst,
+    blank otherwise) - "best" means lowest for Points Against (fewest points
+    conceded), highest for the other two. Calls out the standout "stories" in
+    this table (e.g. Mark's leaky defence, Luke's scoring) directly on the
+    number itself, rather than a separate icon or a hard-to-read gradient
+    across every row.
     """
     from website.config import season_meta
     from website.data.loader import load_fixtures
@@ -248,8 +240,8 @@ def build_all_time_ladder(years: list[int]) -> list[dict]:
             "coach": coach,
             "league_points": t["wins"] * 4 + t["draws"] * 2,
             "wdl": f"{t['wins']}-{t['draws']}-{t['losses']}",
-            "points_for": round(t["points_for"], 1),
-            "points_against": round(t["points_against"], 1),
+            "points_for": round(t["points_for"]),
+            "points_against": round(t["points_against"]),
             "win_pct": round(t["wins"] / games * 100, 1) if games else 0.0,
         })
     rows.sort(key=lambda r: (-r["league_points"], -r["points_for"]))
@@ -257,33 +249,24 @@ def build_all_time_ladder(years: list[int]) -> list[dict]:
         r["rank"] = i
 
     if rows:
-        pf_vals  = [r["points_for"] for r in rows]
-        pa_vals  = [r["points_against"] for r in rows]
-        win_vals = [r["win_pct"] for r in rows]
-        pf_lo, pf_hi   = min(pf_vals), max(pf_vals)
-        pa_lo, pa_hi   = min(pa_vals), max(pa_vals)
-        win_lo, win_hi = min(win_vals), max(win_vals)
-
-        most_pf   = max(rows, key=lambda r: r["points_for"])["coach"]
-        most_pa   = max(rows, key=lambda r: r["points_against"])["coach"]
+        best_pf   = max(rows, key=lambda r: r["points_for"])["coach"]
+        worst_pf  = min(rows, key=lambda r: r["points_for"])["coach"]
+        best_pa   = min(rows, key=lambda r: r["points_against"])["coach"]  # fewest conceded = best defence
+        worst_pa  = max(rows, key=lambda r: r["points_against"])["coach"]
         best_win  = max(rows, key=lambda r: r["win_pct"])["coach"]
         worst_win = min(rows, key=lambda r: r["win_pct"])["coach"]
 
-        for r in rows:
-            r["pf_style"]  = _heat_style(r["points_for"], pf_lo, pf_hi, "25,135,84")
-            r["pa_style"]  = _heat_style(r["points_against"], pa_lo, pa_hi, "220,53,69")
-            r["win_style"] = _heat_style(r["win_pct"], win_lo, win_hi, "25,135,84")
+        def _cls(coach, best, worst):
+            if coach == best:
+                return "text-success fw-bold"
+            if coach == worst:
+                return "text-danger fw-bold"
+            return ""
 
-            badges = []
-            if r["coach"] == most_pf:
-                badges.append({"icon": "🔥", "label": "Most points for"})
-            if r["coach"] == most_pa:
-                badges.append({"icon": "😬", "label": "Most points against"})
-            if r["coach"] == best_win:
-                badges.append({"icon": "⭐", "label": "Best win %"})
-            if r["coach"] == worst_win:
-                badges.append({"icon": "💤", "label": "Worst win %"})
-            r["badges"] = badges
+        for r in rows:
+            r["pf_class"]  = _cls(r["coach"], best_pf, worst_pf)
+            r["pa_class"]  = _cls(r["coach"], best_pa, worst_pa)
+            r["win_class"] = _cls(r["coach"], best_win, worst_win)
 
     return rows
 
