@@ -13,6 +13,15 @@ import requests
 
 log = logging.getLogger(__name__)
 
+# A finalist's "fair" simulated title chance, averaged across the 4 bracket
+# seeds, is 25% regardless of finals format (McIntyre's 37.5/37.5/12.5/12.5
+# split still averages to 25%; 2-week knockout is a flat 25%). A champion
+# who's well below that wasn't just an underdog seed - the Monte Carlo
+# schedule sim says they often wouldn't even have reached the final four.
+# Only count a champion as a "Luckiest Champ" row if they're clearly below
+# that baseline, not merely the 5 lowest-probability champions in history.
+LUCKIEST_CHAMP_MAX_CHANCE = 0.20
+
 # Injected from app.py after Flask-Caching is set up. build_notable_season_records()
 # runs a Monte Carlo sim per year, so it's memoized the same way awards.py
 # memoizes build_season_awards().
@@ -449,7 +458,10 @@ def build_notable_season_records(years: list[int], top_n: int = 5) -> dict:
         "unlucky_losses":   sorted(unlucky_rows, key=lambda r: -r["value"])[:top_n],
         "sunday_scaries":   sorted(scaries_rows, key=lambda r: -r["value"])[:top_n],
         "win_streak":       sorted(streak_rows, key=lambda r: -r["value"])[:top_n],
-        "luckiest_champ":   sorted(champ_luck_rows, key=lambda r: r["value"])[:top_n],
+        "luckiest_champ":   sorted(
+            [r for r in champ_luck_rows if r["value"] < LUCKIEST_CHAMP_MAX_CHANCE],
+            key=lambda r: r["value"],
+        )[:top_n],
     }
 
 
