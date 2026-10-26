@@ -27,7 +27,7 @@ def _memoize(fn):
 
 CLOSE_GAME_MARGIN = 55          # bottom quartile of every fixture margin in league history
 UNLUCKY_LUCK_THRESHOLD = 0.3    # |finals-probability surprise| (0-1 scale) must clear this to award
-SPOON_DODGE_THRESHOLD = 15.0    # spoon_pct (%) must clear this, among coaches who didn't get the spoon
+SPOON_DODGE_THRESHOLD = 15.0    # spoon_pct (%) must clear this AND be >= the actual recipient's (see _luck_awards)
 # The actual spoon recipient's own spoon_pct must be AT OR BELOW this to count
 # as a surprise landing rather than a deserved one. Calibrated from the real
 # distribution across every season's actual recipient (2.7/16.5/18.4/27.7 vs.
@@ -333,10 +333,22 @@ def _luck_awards(mc_results: list[dict]) -> list[dict]:
         awards.append(_award("luckiest", "Luckiest Coach", lucky["coach"],
                               f"Finished rank {lucky['actual_rank']} ({outcome}) despite only a {lucky['top4_pct']:.0f}% model chance of finals"))
 
+    # Spoon Dodge: requires BOTH (1) the dodger's own modelled spoon chance
+    # clearing an absolute floor (guards against a low-variance season where
+    # nobody was really at risk) AND (2) that chance being at least as high
+    # as the actual recipient's — i.e. the model saw them as just as or more
+    # spoon-prone, yet they escaped it. Checking the dodger's percentage
+    # alone (pre-2026-10-26) wrongly flagged years like 2023, where Mark's
+    # 19% cleared the floor but Jordan (who actually got the spoon) sat at
+    # 62% — not a near-miss, just Jordan deserving it. Validated against
+    # every completed season: every genuine dodge story (2018/2020/2024/
+    # 2025/2026) has the dodger's % at or above the recipient's; every
+    # removed case (2019/2022/2023) sits 35-43 points behind.
+    recipient = next((r for r in mc_results if r["actual_rank"] == spoon_rank), None)
     dodgers = [r for r in mc_results if r["actual_rank"] != spoon_rank]
-    if dodgers:
+    if dodgers and recipient:
         dodger = max(dodgers, key=lambda r: r["spoon_pct"])
-        if dodger["spoon_pct"] >= SPOON_DODGE_THRESHOLD:
+        if dodger["spoon_pct"] >= SPOON_DODGE_THRESHOLD and dodger["spoon_pct"] >= recipient["spoon_pct"]:
             awards.append(_award("spoon_dodge", "Spoon Dodge", dodger["coach"],
                                   f"{dodger['spoon_pct']:.0f}% simulated chance of the spoon, finished rank {dodger['actual_rank']} instead"))
 
@@ -344,7 +356,7 @@ def _luck_awards(mc_results: list[dict]) -> list[dict]:
     # got the spoon despite the model rarely putting them there, i.e. a team
     # that was good enough to usually avoid last on a random schedule but
     # landed there anyway.
-    magnet = next((r for r in mc_results if r["actual_rank"] == spoon_rank), None)
+    magnet = recipient
     if magnet and magnet["spoon_pct"] <= SPOON_MAGNET_THRESHOLD:
         awards.append(_award("spoon_magnet", "Unlucky: Spoon Magnet", magnet["coach"],
                               f"Only a {magnet['spoon_pct']:.0f}% modelled chance of the spoon, got it anyway"))
