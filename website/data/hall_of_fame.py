@@ -171,9 +171,20 @@ def build_trophy_cabinet(years: list[int]) -> dict:
             "prominent": key in PROMINENT_KEYS,
         }
 
+    # Dawnbreaker always leads Spoon when a coach has both - sorting by raw
+    # count alone (as below) would let a coach with more Spoons than
+    # Dawnbreakers show the Spoon box first, which reads backwards for a
+    # card meant to lead with the coach's best result.
+    _prominent_order = {"dawnbreaker": 0, "spoon": 1}
+
     by_coach = []
     for coach in COACH_ORDER:
-        entries = [_entry(k, n) for k, n in sorted(counts[coach].items(), key=lambda kv: -kv[1])]
+        entries = [
+            _entry(k, n) for k, n in sorted(
+                counts[coach].items(),
+                key=lambda kv: (_prominent_order.get(kv[0], 2), -kv[1]),
+            )
+        ]
         by_coach.append({"coach": coach, "entries": entries, "total": sum(counts[coach].values())})
 
     by_award = []
