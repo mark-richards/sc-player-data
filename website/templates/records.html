@@ -132,12 +132,22 @@
 
 {# ── Trophy Cabinet ── #}
 {% if trophy_cabinet and trophy_cabinet.by_coach %}
-{% macro award_chip(e) %}
-  <span class="badge rounded-pill fw-normal d-inline-flex align-items-center gap-1 {% if e.group == 'highlight' %}bg-success-subtle text-success-emphasis border border-success-subtle{% else %}bg-secondary-subtle text-secondary-emphasis border border-secondary-subtle{% endif %}">
-    {% if e.icon %}
-      {% if e.icon.type == 'bi' %}<i class="bi {{ e.icon.icon }}"></i>{% else %}<span>{{ e.icon.value }}</span>{% endif %}
+{% macro award_chip(e, coach) %}
+  {% set chip_id = 'chip-' ~ coach ~ '-' ~ e.key %}
+  <span class="d-inline-flex flex-column">
+    <button type="button"
+      class="badge rounded-pill fw-normal d-inline-flex align-items-center gap-1 border-0 {% if e.group == 'highlight' %}bg-success-subtle text-success-emphasis border border-success-subtle{% else %}bg-secondary-subtle text-secondary-emphasis border border-secondary-subtle{% endif %}"
+      {% if e.years %}data-bs-toggle="collapse" data-bs-target="#{{ chip_id }}" aria-expanded="false" style="cursor:pointer;"{% endif %}>
+      {% if e.icon %}
+        {% if e.icon.type == 'bi' %}<i class="bi {{ e.icon.icon }}"></i>{% else %}<span>{{ e.icon.value }}</span>{% endif %}
+      {% endif %}
+      <span>{{ e.title }} x{{ e.count }}</span>
+    </button>
+    {% if e.years %}
+    <div class="collapse" id="{{ chip_id }}">
+      <div class="text-muted" style="font-size:0.65rem;">{{ e.years|join(', ') }}</div>
+    </div>
     {% endif %}
-    <span>{{ e.title }} x{{ e.count }}</span>
   </span>
 {% endmacro %}
 <div class="card shadow-sm mb-4" id="trophy-cabinet">
@@ -170,23 +180,30 @@
               </div>
 
               {% for e in hero %}
-              <div class="rounded text-center p-2 mb-2 {% if e.key == 'dawnbreaker' %}bg-warning-subtle border border-warning{% else %}bg-secondary-subtle border border-secondary{% endif %}">
+              {% set hero_id = 'chip-' ~ entry.coach ~ '-' ~ e.key %}
+              <div class="rounded text-center p-2 mb-2 {% if e.key == 'dawnbreaker' %}bg-warning-subtle border border-warning{% else %}bg-secondary-subtle border border-secondary{% endif %}"
+                {% if e.years %}data-bs-toggle="collapse" data-bs-target="#{{ hero_id }}" role="button" aria-expanded="false" style="cursor:pointer;"{% endif %}>
                 <div style="font-size:1.6rem; line-height:1;">{{ e.icon.value if e.icon else '' }}</div>
                 <div class="fw-bold small {% if e.key == 'dawnbreaker' %}text-warning-emphasis{% else %}text-secondary-emphasis{% endif %}">{{ e.title }} x{{ e.count }}</div>
+                {% if e.years %}
+                <div class="collapse" id="{{ hero_id }}">
+                  <div class="small {% if e.key == 'dawnbreaker' %}text-warning-emphasis{% else %}text-secondary-emphasis{% endif %}" style="font-size:0.68rem; opacity:0.85;">{{ e.years|join(', ') }}</div>
+                </div>
+                {% endif %}
               </div>
               {% endfor %}
 
               {% if highlights %}
               <div class="small text-muted text-uppercase mb-1" style="font-size:0.63rem; letter-spacing:.03em;">Highlights</div>
-              <div class="d-flex flex-wrap gap-1 mb-2">
-                {% for e in highlights %}{{ award_chip(e) }}{% endfor %}
+              <div class="d-flex flex-wrap align-items-start gap-1 mb-2">
+                {% for e in highlights %}{{ award_chip(e, entry.coach) }}{% endfor %}
               </div>
               {% endif %}
 
               {% if lowlights %}
               <div class="small text-muted text-uppercase mb-1" style="font-size:0.63rem; letter-spacing:.03em;">Lowlights</div>
-              <div class="d-flex flex-wrap gap-1">
-                {% for e in lowlights %}{{ award_chip(e) }}{% endfor %}
+              <div class="d-flex flex-wrap align-items-start gap-1">
+                {% for e in lowlights %}{{ award_chip(e, entry.coach) }}{% endfor %}
               </div>
               {% endif %}
 
@@ -232,7 +249,7 @@
     </div>
   </div>
   <div class="card-footer text-muted small">
-    Every per-season award category a coach has ever won, tallied across all completed seasons.
+    Every per-season award category a coach has ever won, tallied across all completed seasons. Tap a box or chip to see which years.
   </div>
 </div>
 {% endif %}

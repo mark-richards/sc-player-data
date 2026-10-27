@@ -150,6 +150,7 @@ def build_trophy_cabinet(years: list[int]) -> dict:
     from website.data.awards import build_season_awards, AWARD_ICONS, LOWLIGHT_KEYS, PROMINENT_KEYS
 
     counts: dict[str, dict[str, int]] = {c: {} for c in COACH_ORDER}
+    years_won: dict[str, dict[str, list[int]]] = {c: {} for c in COACH_ORDER}
     titles: dict[str, str] = {}
     for year in years:
         try:
@@ -162,13 +163,15 @@ def build_trophy_cabinet(years: list[int]) -> dict:
             if coach not in counts:
                 continue
             counts[coach][a["key"]] = counts[coach].get(a["key"], 0) + 1
+            years_won[coach].setdefault(a["key"], []).append(year)
             titles[a["key"]] = a["title"]
 
-    def _entry(key: str, count: int) -> dict:
+    def _entry(key: str, count: int, years_list: list[int] | None = None) -> dict:
         return {
             "key": key, "title": titles[key], "icon": AWARD_ICONS.get(key), "count": count,
             "group": "lowlight" if key in LOWLIGHT_KEYS else "highlight",
             "prominent": key in PROMINENT_KEYS,
+            "years": sorted(years_list) if years_list else [],
         }
 
     # Dawnbreaker always leads Spoon when a coach has both - sorting by raw
@@ -180,7 +183,7 @@ def build_trophy_cabinet(years: list[int]) -> dict:
     by_coach = []
     for coach in COACH_ORDER:
         entries = [
-            _entry(k, n) for k, n in sorted(
+            _entry(k, n, years_won[coach].get(k)) for k, n in sorted(
                 counts[coach].items(),
                 key=lambda kv: (_prominent_order.get(kv[0], 2), -kv[1]),
             )
