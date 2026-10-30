@@ -196,6 +196,11 @@ def build_trophy_cabinet(years: list[int]) -> dict:
         entry = _entry(key, sum(coach_counts.values()))
         entry["coach_counts"] = coach_counts
         entry["total"] = entry.pop("count")
+        max_count = max(coach_counts.values(), default=0)
+        leaders = [c for c in COACH_ORDER if coach_counts[c] == max_count] if max_count > 0 else []
+        entry["leaders"] = leaders
+        entry["leader_label"] = " / ".join(leaders) if leaders else "—"
+        entry["leader_count"] = max_count
         by_award.append(entry)
     by_award.sort(key=lambda r: (not r["prominent"], r["group"] != "highlight", -r["total"]))
 

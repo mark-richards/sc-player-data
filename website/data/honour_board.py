@@ -31,8 +31,14 @@ def _to_roman(num: int) -> str:
     return result
 
 # Actual season results, 2013–2022.
-# finals = top-4 finalists in order [champion, runner_up, 3rd, 4th].
+# finals = top-4 finalists in order [champion, runner_up, 3rd, 4th] — this is
+#   FINALS finish order, not regular-season ladder order, so it cannot be used
+#   to derive the minor premier (the coach who topped the ladder after the
+#   regular season, before finals).
 # spoon  = last-place coach (None if the last-place coach is no longer in the league).
+# minor_premier = top of the regular-season ladder before finals (only set for
+#   2013-2015 below, user-supplied; 2016+ is derived directly from ingested
+#   ladder data in awards.py instead and doesn't need an entry here).
 # 2016's 4th finalist was corrected from "Lester" to "James": the saved
 # match_json_rd22.json had the wrong coach name on that semi-final (Lester's
 # own regular-season record — points_for/against, confirmed consistent
@@ -40,9 +46,9 @@ def _to_roman(num: int) -> str:
 # the top 4 that year), confirmed against standings.py's percentage
 # tiebreak (correct for every pre-2022 season) and user confirmation.
 _HARDCODED: dict[int, dict] = {
-    2013: {"champion": "Simon",   "runner_up": "Mark",   "finals": ["Simon",   "Mark",   "Lester", "Jordan"], "spoon": None},
-    2014: {"champion": "Simon",   "runner_up": "Lester", "finals": ["Simon",   "Lester", "Anthony","Jordan"], "spoon": "Paul"},
-    2015: {"champion": "Anthony", "runner_up": "Paul",   "finals": ["Anthony", "Paul",   "Simon",  "James"],  "spoon": "Mark"},
+    2013: {"champion": "Simon",   "runner_up": "Mark",   "finals": ["Simon",   "Mark",   "Lester", "Jordan"], "spoon": None,   "minor_premier": "Simon"},
+    2014: {"champion": "Simon",   "runner_up": "Lester", "finals": ["Simon",   "Lester", "Anthony","Jordan"], "spoon": "Paul", "minor_premier": "Anthony"},
+    2015: {"champion": "Anthony", "runner_up": "Paul",   "finals": ["Anthony", "Paul",   "Simon",  "James"],  "spoon": "Mark", "minor_premier": "Anthony"},
     2016: {"champion": "Anthony", "runner_up": "Simon",  "finals": ["Anthony", "Simon",  "Luke",   "James"], "spoon": "Jordan"},
     2017: {"champion": "Paul",    "runner_up": "Jordan", "finals": ["Paul",    "Jordan", "Luke",   "Lester"], "spoon": "Simon"},
     2018: {"champion": "Luke",    "runner_up": "Simon",  "finals": ["Luke",    "Simon",  "Anthony","Jordan"], "spoon": "Mark"},

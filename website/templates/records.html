@@ -26,16 +26,22 @@
       <div class="card-header fw-semibold">All-Time Records</div>
       <div class="card-body p-0">
         <div class="d-flex flex-column">
+          {% set max_titles = all_time|map(attribute='Championships')|max %}
           {% for row in all_time %}
           <div class="px-3 py-2 {% if not loop.last %}border-bottom{% endif %}">
             <a href="/coach/{{ row.coach }}" class="text-decoration-none fw-semibold small">{{ row.coach }}</a>
+            {% if row.Championships == max_titles and max_titles > 0 %}<span title="Most premierships all-time">🐐</span>{% endif %}
             <div class="d-flex justify-content-between align-items-center mt-1">
               <div>
-                <div class="fs-5 fw-bold">🏆{% if row.Championships > 1 %} &times;{{ row.Championships }}{% elif row.Championships == 0 %} <span class="text-muted">-</span>{% endif %}</div>
+                <div class="fs-5 fw-bold">🏆{% if row.Championships > 0 %} &times;{{ row.Championships }}{% else %} <span class="text-muted">-</span>{% endif %}</div>
                 <div class="text-muted" style="font-size:0.68rem; letter-spacing:.03em;">TITLES</div>
               </div>
+              <div class="text-center">
+                <div class="fs-5 fw-bold">🥇{% if row.MinorPrems > 0 %} &times;{{ row.MinorPrems }}{% else %} <span class="text-muted">-</span>{% endif %}</div>
+                <div class="text-muted" style="font-size:0.68rem; letter-spacing:.03em;">MINOR PREMS</div>
+              </div>
               <div class="text-end">
-                <div class="fs-5 fw-bold">🥄{% if row.Spoons > 1 %} &times;{{ row.Spoons }}{% elif row.Spoons == 0 %} <span class="text-muted">-</span>{% endif %}</div>
+                <div class="fs-5 fw-bold">🥄{% if row.Spoons > 0 %} &times;{{ row.Spoons }}{% else %} <span class="text-muted">-</span>{% endif %}</div>
                 <div class="text-muted" style="font-size:0.68rem; letter-spacing:.03em;">SPOONS</div>
               </div>
             </div>
@@ -223,6 +229,7 @@
             <thead class="table-dark">
               <tr>
                 <th>Award</th>
+                <th>Leader</th>
                 {% for c in trophy_cabinet.coaches %}<th class="text-center">{{ c }}</th>{% endfor %}
               </tr>
             </thead>
@@ -235,9 +242,13 @@
                   {% endif %}
                   <span>{{ row.title }}</span>
                 </td>
+                <td class="small {% if row.leader_count > 0 %}text-warning-emphasis fw-semibold{% else %}text-muted{% endif %}">
+                  {% if row.leader_count > 0 %}{{ row.leader_label }} ({{ row.leader_count }}){% else %}&mdash;{% endif %}
+                </td>
                 {% for c in trophy_cabinet.coaches %}
                 {% set n = row.coach_counts.get(c, 0) %}
-                <td class="text-center {% if n == 0 %}text-muted{% else %}fw-semibold{% endif %}">{{ n if n > 0 else "-" }}</td>
+                {% set is_leader = c in row.leaders %}
+                <td class="text-center {% if n == 0 %}text-muted{% elif is_leader %}fw-bold bg-warning-subtle text-warning-emphasis rounded{% else %}fw-semibold{% endif %}">{{ n if n > 0 else "-" }}</td>
                 {% endfor %}
               </tr>
               {% endfor %}

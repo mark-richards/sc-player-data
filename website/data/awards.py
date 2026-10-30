@@ -67,6 +67,7 @@ AWARD_ICONS: dict[str, dict] = {
     "best_late_pick":      {"type": "emoji", "value": "💰"},
     "worst_early_pick":    {"type": "emoji", "value": "🗑️"},
     "worst_late_pick":     {"type": "emoji", "value": "🪦"},
+    "minor_premier":       {"type": "emoji", "value": "🥇"},
     "draft_king":          {"type": "bi", "icon": "bi-trophy-fill",       "color": "primary"},
     "waiver_king":         {"type": "bi", "icon": "bi-person-plus-fill",  "color": "success"},
     "fa_king":             {"type": "bi", "icon": "bi-person-check-fill", "color": "info"},
@@ -115,11 +116,27 @@ def _dawnbreaker_and_spoon(year: int, ladder_df: pd.DataFrame, final_ranks: dict
     if premier:
         awards.append(_award("dawnbreaker", "Dawnbreaker", premier, f"{year} Premier"))
 
+    spoon_coach = None
     if final_ranks:
         spoon_rank = max(final_ranks.values())
         spoon_coach = next((c for c, r in final_ranks.items() if r == spoon_rank), None)
-        if spoon_coach:
-            awards.append(_award("spoon", "Spoon", spoon_coach, f"{year} Wooden Spoon"))
+    if not spoon_coach:
+        result = get_season_result(year)
+        spoon_coach = result.get("spoon") if result else None
+    if spoon_coach:
+        awards.append(_award("spoon", "Spoon", spoon_coach, f"{year} Wooden Spoon"))
+
+    # Minor Premier: top of the ladder after the regular season (may differ
+    # from Dawnbreaker, who tops the finals bracket).
+    minor_coach = None
+    if final_ranks:
+        minor_rank = min(final_ranks.values())
+        minor_coach = next((c for c, r in final_ranks.items() if r == minor_rank), None)
+    if not minor_coach:
+        result = get_season_result(year)
+        minor_coach = result.get("minor_premier") if result else None
+    if minor_coach:
+        awards.append(_award("minor_premier", "Minor Premier", minor_coach, f"{year} Minor Premiership"))
 
     return awards
 

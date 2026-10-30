@@ -22,6 +22,15 @@ def records():
     years = completed_years()
     all_time_ladder = build_all_time_ladder(years)
     trophy_cabinet = build_trophy_cabinet(years)
+
+    # Minor Premierships aren't in honour_board's own tally (they're derived
+    # from live ladder data the same way Trophy Cabinet computes every other
+    # award) — pull the per-coach counts already computed there instead of
+    # re-deriving them.
+    minor_prem_counts = next(
+        (r["coach_counts"] for r in trophy_cabinet["by_award"] if r["key"] == "minor_premier"), {}
+    )
+    all_time_df["MinorPrems"] = all_time_df["coach"].map(minor_prem_counts).fillna(0).astype(int)
     notable_records = build_notable_records(years)
     notable_season_records = build_notable_season_records(years)
     drought = build_championship_drought(season_list)
